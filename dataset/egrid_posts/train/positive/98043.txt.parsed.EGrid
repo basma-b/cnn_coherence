@@ -1,0 +1,17 @@
+                   K X - - - - - -
+                DISK S - S - - S -
+               MOUNT X - - - - - -
+                COPY - X O - - - -
+                  -L - - S - - - -
+           UMASK=000 - - - X - - -
+                BLAH - - - X - - -
+                   > - - - X - - -
+               BLAH2 - - - O - - -
+               THERE - - - X - - -
+               FAT32 - - - - O S -
+                LINK - - - - - O -
+           YESTERDAY - - - - - O -
+                 ALL - - - - - X -
+             COMMAND - - - - - O -
+              SYSTEM - - - - - O -
+  COMMAND/FILESYSTEM - - - - - O -

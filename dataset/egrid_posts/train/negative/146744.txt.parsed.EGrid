@@ -1,0 +1,16 @@
+                 USE S - - -
+                FILE O - - -
+             FOLDERS S X - -
+            WRITABLE X - - -
+               CHMOD - O - -
+                  CD - X - -
+                DATA - O - -
+               BUNCH - O - -
+                   * - X - -
+                NAME - S - -
+             CONTROL - O - -
+               GROUP - X - -
+              CTRL+A - - S -
+                   K - - X -
+           SHORTCUTS - - O -
+               ALIAS - - - X

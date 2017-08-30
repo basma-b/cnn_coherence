@@ -1,0 +1,15 @@
+                MAIL X - - - - - - - - -
+              STDOUT O - - - - - - - - -
+                 JOB S - - - - - - - - -
+             MESSAGE O X - - - - - - - -
+                  .. - X X - - - - - - -
+            MAILDROP - - X - - - - - - -
+                ROOT - - X - - - - - - -
+               /VAR/ - - - X - - - - - -
+     /VAR/SPOOL/MAIL - - - - O - - - - -
+              EMPTRY - - - - - O - - - -
+              DAEMON - - - - - - O - - -
+                CRON - - - - - - - X - -
+               THERE - - - - - - - X - -
+                 WAY - - - - - - - X - -
+       STDERR/STDOUT - - - - - - - O - -

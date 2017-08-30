@@ -1,0 +1,14 @@
+              UBUNTU X - - - - -
+               SOUND - X - - - -
+            PASSWORD - O - - - -
+                ROOT - X - - - -
+             ACCOUNT - X - - - -
+              VISUDO - - O - - -
+              FUTURE - - X - - -
+                FILE - - O X - -
+             DEFAULT - - X - - -
+               USERS - - O - - -
+               ADMIN - - X - - -
+               GROUP - - X - - -
+               CHMOD - - - - - X
+        /ETC/SUDOERS - - - - - X

@@ -1,0 +1,13 @@
+              MEMORY S - - - - -
+                  G3 X - - - - -
+               SDRAM - O - - - -
+               1X256 - O - - - -
+                 ONE - X - - - -
+             PROBLEM - X - - - -
+                 MAX - - S - - -
+               2X512 - - O - - -
+                 PCB - - - O - -
+           PROCESSOR - - - S - -
+                SLOT - - - - X -
+                LOAD - - - - X -
+                  IP - - - - - O

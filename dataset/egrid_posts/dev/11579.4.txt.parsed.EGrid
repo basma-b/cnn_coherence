@@ -1,0 +1,16 @@
+             MONITOR S O - - -
+            COMPUTER X - - - -
+                THAT - S - S -
+                BASE - X - - -
+               SETUP - X - - -
+                 SSH - S - - -
+                   X - S - - -
+                 VNC - S - - -
+              SWITCH - - X - -
+                CARD - - X - -
+               MEDIA - - - X -
+                 HUB - - - O -
+          DIFFERENCE - - - O -
+               SDHCI - - - - O
+               LSMOD - - - - X
+               DMESG - - - - X

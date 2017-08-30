@@ -1,0 +1,18 @@
+                ETH0 O - - O - - - - - -
+                  IP X - - X - - - - - -
+                 LAN X - - X - - - - - -
+                 GUI - O - - O - S X - -
+         RECONFIGURE - X - - X - - - - -
+           INTERFACE - O - - O - - - - -
+             RESTART - O - - O - - - - -
+            SETTINGS - - O - - O - - - -
+                FILE - - - - - - O - - -
+             NETWORK - - - - - - X X - -
+         INIT-SCRIPT - - - - - - S - - -
+            FALLBACK - - - - - - S - - -
+             /ETC/IG - - - - - - X - - -
+                HAND - - - - - - X X - -
+/ETC/NETWORK/INTERFACES - - - - - - - S - -
+               TEASE - - - - - - - O - -
+               STUFF - - - - - - - O - -
+                  NP - - - - - - - - - X

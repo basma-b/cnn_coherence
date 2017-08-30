@@ -1,0 +1,18 @@
+                HELP O - - - - - - -
+             UPGRADE X - S - - - - -
+                   X - X - - - - X -
+              SERVER - S - - - - - -
+          MID-UPDATE - X - - - - - -
+                 SSH - - X - - - - -
+          DEBCONF-OK - - X - - - - -
+/VAR/RUN/SAMBA/UPGRADES/SMB.CONF - - O - - - - -
+              UPDATE - - - X - - - -
+              SYSTEM - - - O - - - -
+               STATE - - - X - - - -
+                 VNC - - - - S S - -
+                 WAY - - - - O X - -
+              WINDOW - - - - - - X -
+             MANAGER - - - - - - S -
+             SESSION - - - - - - X -
+        HARDWARE-END - - - - - - X -
+                  AH - - - - - - - X

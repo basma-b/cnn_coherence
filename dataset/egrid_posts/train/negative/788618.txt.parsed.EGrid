@@ -1,0 +1,24 @@
+                   $ X -
+             APT-GET X -
+               PURGE S -
+         LIBREOFFICE S -
+                 TAB X -
+                 KEY X -
+               DIDNT X -
+                WORK X -
+             PACKAGE O -
+LIBREOFFICE3-URE_1.7.0-19_I386.DEB O -
+               REGEX X -
+LIBREOFFICE3-WRITER_3.3.0-19_I386.DEB O -
+           FLOODBOT2 S -
+                .DEB S -
+                SUDO X -
+           APT-CACHE X -
+              SEARCH X -
+                 AWK O -
+               PRINT X -
+                GREP X -
+                   U O -
+             PROBLEM - S
+          PULSEAUDIO - S
+                LOCK - O

@@ -1,0 +1,21 @@
+                VBOX X - - - -
+             NETWORK X - - X -
+             ADAPTER O - - - -
+              BRIDGE X - - - -
+                MODE X - - - -
+                BOOT - X - - -
+                ETH0 - O - - -
+              ANYONE - S - - -
+                  'T - S - - -
+            IFCONFIG - - S X -
+                   ' - - - S -
+            DHCLIENT - - - X -
+                ETH1 - - - O -
+                  IP - - - X -
+                CANT - - - X -
+            ANYTHING - - - O -
+              BACKUP - - - - X
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - - - S
+               WHILE - - - - X
+                 END - - - - X
+         FROXLOR.ORG - - - - O

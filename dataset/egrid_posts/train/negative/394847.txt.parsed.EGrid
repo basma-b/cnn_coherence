@@ -1,0 +1,11 @@
+               IMAGE X - -
+                 DVD X - -
+                 K3B X - -
+                  DD - X -
+       IF=/DEV/CDROM - X -
+         OF=FILE.ISO - S -
+          /DEV/CDROM - S -
+              DEVICE - O -
+                 USE - - X
+               /USER - - X
+   WORKGROUP\SAMDUDE - - S

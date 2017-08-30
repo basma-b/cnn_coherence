@@ -1,0 +1,24 @@
+               STORE X - - - - - -
+                   X X - - - - - -
+              SERVER X - - O - - -
+              CONFIG X - - - - - -
+           XORG.CONF - S - - - - -
+             MONITOR - S - - - - -
+             DISPLAY - S - - - - -
+             800X600 - X - - - - -
+              CHANGE - O - - - - -
+                 VNC - S X - - - -
+           VNCSERVER - O X X - - -
+              SCREEN - - X - - - -
+      DISASSOCIATION - - O - - - -
+             DESKTOP - - X S - - -
+               THEME - - S - - O -
+              WINDOW - - X - - - -
+               COLOR - - S - - - -
+               SHARE - - X X - - -
+       GNOME-SESSION - - - O - - -
+                 YUP - - - - X - -
+GNOME-SETTINGES-DAEMON - - - - - S -
+             DEFAULT - - - - - X -
+             BUILTIN - - - - - X -
+               SHELL - - - - - - S

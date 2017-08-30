@@ -1,0 +1,12 @@
+                 DIR X - - -
+            MKCRAMFS X - - X
+                FILE O O - X
+            MKINITRD - O - O
+            SOMEBODY - S - -
+              KERNEL - O - -
+              UBUNTU - X - -
+              2.6.12 - - O -
+                 USE - - - X
+          INITRD.IMG - - - X
+            PROBLEMS - - - O
+                TYPE - - - X

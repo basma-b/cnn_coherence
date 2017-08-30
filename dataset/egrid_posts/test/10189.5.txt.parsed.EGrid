@@ -1,0 +1,23 @@
+             SOMEONE X - - - - - - -
+         CONNECTIONS S - - - - - - -
+              ACCESS S - - - - - - -
+            INTERNET S X - O - - - -
+               WLAN0 X - - - - - - -
+             CLIENTS - S - - - - - -
+              SERVER - O X - - - - -
+                ETH0 - X O - - - - -
+                  IP - O X - - - - -
+          CONNECTION - O - - - - - -
+                REST - X - - - - - -
+             NETWORK - X - - - - - -
+               SETUP - X - - - - - -
+            IPTABLES - S - - - - - -
+                   U - X - - - - - -
+           DIRECTION - X - - - - - -
+                STEP - - S - - - - -
+             DEVICES - - - X - - - -
+                 KEY - - - - O - - -
+THUNDERBIRD/EINGMAIL - - - - X - - -
+              OTHERS - - - - O - - -
+               HTTPS - - - - - - - X
+//HELP.UBUNTU.COM/COMMUNITY/SSH/OPENSSH/KEYS - - - - - - - X

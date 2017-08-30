@@ -1,0 +1,20 @@
+               SKYPE O - - - - - - - - -
+             MESSAGE S - - - - - - - - -
+       LIBQT3C102-MT S - - - - - - - - -
+                   > X - - - - - - - - -
+    3:3.3.3-7UBUNTU3 S - - - - - - - - -
+                 HMM - X - - - - - - - -
+            TERMINAL - X - - - - - - - -
+             COMMAND - - - S - - - - - -
+               THERE - - - - S - - - - -
+              OPTION - - - - O O - - - -
+        DEPENDENCIES - - - - O - - - - -
+                DPKG - - - - - O - - - -
+                SUDO - - - - - S - - - -
+              SWITCH - - - - - X - - - -
+              ACTION - - - - - X - - - -
+IGNORE-DEPENDS=SKYPE - - - - - X - - - -
+             PACKAGE - - - - - X - - - -
+          REPOSITORY - - - - - - X - - -
+                 USB - - - - - - - - - S
+                BOOT - - - - - - - - - O

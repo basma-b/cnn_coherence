@@ -1,0 +1,23 @@
+               IMAGE X O - - -
+UBUNTU-9.10-SERVER-AMD64.ISO X - - - -
+            DOWNLOAD X - - - -
+                  PC - S S - -
+                  CD - X - - -
+               DRIVE - O - - -
+             NETBOOK - X - - -
+               REMIX - O - - -
+                 USB - S X - -
+                 MAC - O - - -
+                COPY - X - - -
+            ISO-NAME - X - - -
+               HTTPS - O - - -
+                   % - X - - -
+               20MAC - O - - -
+                BOOT - X X - -
+                ARCH - - O - -
+                HTTP - - X - -
+//WIKI.ARCHLINUX.ORG/INDEX.PHP/INSTALL_FROM_A_USB_FLASH_DRIVE - - X - -
+                  DD - - - - X
+        IF=/DEV/NULL - - - - X
+OF=/VAR/LOG/SQUID/TOP-URLS-7DAYS.LOG - - - - X
+                LINE - - - - O

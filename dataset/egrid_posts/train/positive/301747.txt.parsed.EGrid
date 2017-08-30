@@ -1,0 +1,19 @@
+                CARD O - - X - - - - -
+            COMPUTER X - - - - - - - -
+            ON-BOARD O - - - - - - - -
+                 PCI O - - - - - - - -
+              UBUNTU S - - - - - - - -
+               SOUND - X X X - - - - O
+             DEFAULT - X X X - - - - -
+              DEVICE - X X X - - - - -
+                 USE - - - X - - - - -
+                SUDO - - - S - - - - -
+                LIST - - - O - - - - -
+                NAME - - - X - - - - -
+            CARDNAME - - - O - - - - -
+               YOURS - - - - O - - - -
+              THANKS - - - - - X - - -
+                PROB - - - - - - X - -
+                TIME - - - - - - - - X
+                BOOT - - - - - - - - X
+/ETC/INIT.D/ALSA-UTILS - - - - - - - - O

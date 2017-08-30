@@ -1,0 +1,14 @@
+       EXPECT-TCL8.3 X - -
+                .DEB O - -
+                HTTP X O -
+//PACKAGES.UBUNTU.COM/LUCID/EXPECT-TCL8.3 X - -
+             PACKAGE O - -
+                 HMM X - -
+              SCRIPT S - -
+                 8.4 O - -
+               STICK O - -
+                  OK S - -
+              SOURCE O - -
+                REPO - X -
+                 OK. - - X
+                   / - - S

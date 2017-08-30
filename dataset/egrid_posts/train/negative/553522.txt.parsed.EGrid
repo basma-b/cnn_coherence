@@ -1,0 +1,14 @@
+             SUDOERS S - -
+                FILE O - -
+           EXCEPTION O - -
+             COMMAND X - -
+                SUDO X X -
+              VISUDO S S -
+                ROOT X - -
+                NANO X - -
+        /ETC/SUDOERS X - -
+         EDITOR=NANO - X -
+                LINE - O -
+                 ALL - O -
+/FULL/PATH/TO/THE/HIBERNATECOMMAND - X -
+           PARTITION - - X

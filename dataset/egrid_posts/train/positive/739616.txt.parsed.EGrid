@@ -1,0 +1,17 @@
+              AND/OR X - - - - -
+       I8024.NOMUX=1 O - - - - -
+                BOOT X - - - - -
+             OPTIONS S - - - - -
+                 EHM O - - - - -
+              UBUNTU X - - - - -
+   /ETC/DEFAULT.GRUB - X - - - -
+                GRUB - - S - - -
+                 USE - - X - - -
+              SCRIPT - - S - - -
+                SUDO - - X - - -
+         UPDATE-GRUB - - S - - O
+              CHANGE - - O - - -
+                 OKI - - - X - -
+               I8024 - - - - X -
+                   * - - - - - S
+ /BOOT/GRUB/GRUB.CFG - - - - - X

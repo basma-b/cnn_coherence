@@ -1,0 +1,14 @@
+                 RUN X - - - - - - - -
+                ROOT X - - - - - - - -
+                  HI - - X - - - - - -
+                THIS - - O - - - - - -
+          /PROC/KMSG - - S - - - - X -
+ /VAR/RUN/KLOGD/KMSG - - X - - - - X -
+                 CPU - - S - - - - - -
+                   % - - X - - - - - -
+                TEMP - - S - - - - - -
+             PROCESS - - X - X X - - -
+              SYSTEM - - - - S - - - -
+                HEAT - - - - O - - - -
+               KLOGD - - - - - - - S -
+             SYSKLOG - - - - - - - - O

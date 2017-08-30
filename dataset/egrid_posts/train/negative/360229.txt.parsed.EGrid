@@ -1,0 +1,9 @@
+                 HDD O - - - - - -
+           PARTITION X - - - - O -
+                NAME X - - - - X -
+           DISKLABEL - O - - - - -
+              FORMAT - - X - - - -
+         MOUNTPOINTS - - - - - O -
+          /ETC/FSTAB - - - - - X -
+                TERM - - - - - - O
+                 BBS - - - - - - X

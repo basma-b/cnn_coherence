@@ -1,0 +1,16 @@
+             COMMAND X O -
+              OUTPUT O - -
+             SESSION X - -
+                TEXT X O -
+               LATER X - -
+          ANYCOMMAND - X -
+                   > - S -
+               SHELL - O -
+                 ALL - X -
+              SCROLL - X -
+                COPY - X -
+                 ONE - X -
+                CASE - X -
+              SCRIPT - X -
+                 MAN - X -
+                THAT - - S

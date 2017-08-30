@@ -1,0 +1,26 @@
+                HELP O - - - - - - - - -
+                GRUB X - - - - - - - - -
+               ISSUE - X - - - - - - - -
+             DEVTREE - - X - - - - - - -
+            PARTITON - - X - X - - - - -
+ /BOOT/GRUB/MENU.LST - - - X - - - - - -
+                FILE - - - O - - - - - -
+                LOOK - - - O - - - - - -
+                HTTP - - - - X - - - - -
+//PASTE.UBUNTU-NL.ORG/49515/ - - - - S - - - - -
+                   * - - - - X - - - - -
+             WINDOWS - - - - X - - - - -
+                SDA2 - - - - - O - - - -
+               VISTA - - - - - O - - - -
+                SDA5 - - - - - - X - - -
+                LINE - - - - - - S - - -
+                ROOT - - - - - - O - - -
+               HD0,1 - - - - - - X - - -
+               HD0,4 - - - - - - X - - -
+            COMPUTER - - - - - - O - - -
+            PROBLEMS - - - - - - O - - -
+                THAT - - - - - - - X - -
+              RESULT - - - - - - - X - -
+               BLKID - - - - - - - X - -
+                TYPE - - - - - - - - - S
+            TERMINAL - - - - - - - - - X

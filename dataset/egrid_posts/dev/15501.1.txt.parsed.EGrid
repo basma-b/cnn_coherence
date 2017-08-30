@@ -1,0 +1,19 @@
+          PRESIDENCE O - - - - -
+                 PHP X - - - - -
+          INDEX.HTML S S - - - O
+                 DIR X - - - - -
+                 ONE O - - - - -
+      DIRECTORYINDEX S - - S - O
+          HTTPD.CONF X - - - - -
+                  .. O - - - - -
+              CHANGE - X - - - -
+            ANYTHING - O - - - -
+                FILE - O O - - -
+                THAT - - O - - -
+/ETC/APACHE2/MODS-AVAILABLE/DIR.CONF - - S - - X
+             DEFAULT - - X - - -
+            SEQUENCE - - X - - -
+           INDEX.PHP - - - - - O
+             VYCHUNE - - - - - X
+                HTTP - - - - - X
+//1.221.147.11:8080/ICOUP - - - - - S

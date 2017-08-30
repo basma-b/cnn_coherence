@@ -1,0 +1,11 @@
+           PARTITION S - -
+               FSTAB X - -
+                AUTO X - -
+              OPTION X - -
+            IFCONFIG X - -
+             DISPLAY X - -
+             NETWORK X - -
+                INFO X - -
+               MOUNT O - -
+               RIGHT X - -
+              SCRIPT - - O

@@ -1,0 +1,25 @@
+               ALIAS X O - - O -
+              SCRIPT X - - - - -
+          PARAMETERS O - - - - -
+                 PHP - O - - - -
+/PATH/TO/NEW/PHP.INI - S - - - -
+           ARGUMENTS - X - - - -
+                   > - S - - - -
+ /PATH/TO/SCRIPT.PHP - X - - - -
+                ARGS - O X - X -
+            FUNCTION - X X - - -
+             NEWNAME - - X - - -
+                 ALL - - X - - -
+             COMMAND - - X - - -
+                  || - - O - - -
+                HERE - - X - - -
+               THING - - S - - -
+              CLIENT - - X - - -
+             VERSION - - O - - -
+               RIGHT - - - O - -
+                BASH - - - - X -
+             .BASHRC - - - - X -
+                IIRC - - - - X -
+                THIS - - - - O -
+                WORK - - - - X -
+                   % - - - - X -

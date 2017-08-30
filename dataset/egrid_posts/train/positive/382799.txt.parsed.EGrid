@@ -1,0 +1,6 @@
+                COPY O - - -
+          INTERFACES X - - -
+                FILE X - - -
+      /SBIN/IFCONFIG - X - -
+                ETH0 - - - X
+                  LO - - - X

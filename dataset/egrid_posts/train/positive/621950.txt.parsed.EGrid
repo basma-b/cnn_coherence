@@ -1,0 +1,22 @@
+             DESKTOP S - - - - O - - - -
+      NETWORKMANAGER S - - X S - - - - -
+             NETWORK O X - - - - X - - S
+               STUFF - X - - - - - - - -
+                ETH0 - - - X - - - - - -
+/ETC/NETWORK/INTERFACES - - - X - - - - - -
+              EFFECT - - - - O - - - - -
+        UFW/IPTABLES - - - - X - - - - -
+                RULE - - - - O - - - - -
+                SSHD - - - - S - - - - -
+            FIREWALL - - - - O - - - - -
+              SERVER - - - - - O - - X -
+             VERSION - - - - - O - - - -
+                 FOG - - - - - X - - - -
+                 BOX - - - - - - O - - -
+              UPDATE - - - - - - - O - -
+                NONE - - - - - - - - S -
+             SERVICE - - - - - - - - X -
+                WORK - - - - - - - - - O
+                  IP - - - - - - - - - O
+             ADDRESS - - - - - - - - - S
+              CHANGE - - - - - - - - - O

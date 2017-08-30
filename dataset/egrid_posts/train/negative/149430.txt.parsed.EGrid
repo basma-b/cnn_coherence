@@ -1,0 +1,14 @@
+                CANT X - - - - -
+  /MEDIA/DVDRECORDER X - - - - -
+          /DEV/CDROM O - - - - -
+                 HDC X - - - - -
+          /DEV/DVDRW X - - - - -
+           /DEV/CDRW X - - - - -
+            /DEV/HDC - S - - - -
+         HYPERSTREAM - S - - - -
+             ACCOUNT - S - - O -
+         PERMISSIONS - O - - - -
+               CDROM - - - - X -
+               GROUP - - - - X -
+                  'S - - - - - S
+              SYSTEM - - - - - X

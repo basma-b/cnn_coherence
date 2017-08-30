@@ -1,0 +1,14 @@
+            PROBLEMS X - X - - - - - -
+              SERVER O - O - - - - - -
+               ROUTE X - X - - - - - -
+             PACKETS X - X - X - - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - S - S - - - - -
+                 UFW - S - S - - - - -
+            ANYTHING - X - X - - - - -
+             MACHINE - - - - O - - - -
+             NETWORK - - - - X - - - -
+            INTERNET - - - - X - - - -
+                SUDO - - - - - - - X -
+                THAT - - - - - - - - S
+                 BUG - - - - - - - - X
+           CROSSOVER - - - - - - - - X

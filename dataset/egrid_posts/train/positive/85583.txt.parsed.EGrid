@@ -1,0 +1,15 @@
+               BREAK S - - - - - - -
+                 GCC - O - X - - - -
+              KERNEL - O - - - - - -
+               3.4.5 - X - - - - - -
+              SYSTEM - X - - - - - -
+                 4.0 - X - - - - - -
+             GCC-3.4 - - O - - - - -
+              EXPORT - - X - - - - -
+ CC=/USR/BIN/GCC-3.4 - - O - - - - -
+                THAT - - - O - - - -
+             SYMLINK - - - O - X - -
+                 ONE - - - O - - - -
+    /USR/BIN/GCC-3.4 - - - X - - - -
+             GCC-4.0 - - - X - - - -
+              EITHER - - - - - - - X

@@ -1,0 +1,14 @@
+                FILE O - - -
+              VMWARE X - - -
+                 WAY O - - -
+              ACCESS O - - -
+               LINUX X - - -
+         ENVIRONMENT X - - -
+                DISK X - - -
+               IMAGE S O - X
+                LOOP X - - X
+   /PATH/TO/FS.IMAGE X - - X
+       /MOUNT/POINT/ S - - -
+             COMMAND - X - -
+          FILESYSTEM - - - X
+        /MOUNT/POINT - - - O

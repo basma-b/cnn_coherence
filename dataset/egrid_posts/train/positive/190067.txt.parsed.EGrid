@@ -1,0 +1,12 @@
+        SOURCES.LIST S - -
+                WORK O - -
+             APT-GET X - -
+                  IP O - -
+             DEFAULT X - -
+            IFCONFIG - X -
+               ROUTE - X -
+/ETC/NETWORK/INTERFACES - S -
+              KERNEL - S -
+               DODGY - X -
+            HARDWARE - X -
+              DRIVER - X -

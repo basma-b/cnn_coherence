@@ -1,0 +1,19 @@
+            QUESTION X - - - -
+            RECOVERY X X - - X
+               MENUS O X - - -
+                GRUB X - - - -
+                LINE - S - - -
+         UPDATE-GRUB - X - - -
+              INSTAL - - O - -
+GRUB_HIDDEN_TIMEOUT_QUIET - - - O -
+              METHOD - - - - S
+           PARTITION - - - - X
+               TABLE - - - - S
+         FILESYSTEMS - - - - O
+          FILESYSTEM - - - - X
+                 USE - - - - O
+         PARTEDMAGIC - - - - X
+                TOOL - - - - O
+              CFDISK - - - - X
+                NEED - - - - X
+               STUFF - - - - O

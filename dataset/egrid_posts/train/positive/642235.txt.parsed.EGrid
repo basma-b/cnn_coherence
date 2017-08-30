@@ -1,0 +1,11 @@
+             MACHINE S X - -
+             NETWORK X - - -
+                 SSH - S - -
+                 WAY - X - -
+             DISPLAY - S - X
+             PROCESS - O - O
+             PROGRAM - S - -
+                MORE - O - -
+             SERVICE - X - -
+                STOP - X - -
+             GNOMEYE - - S -

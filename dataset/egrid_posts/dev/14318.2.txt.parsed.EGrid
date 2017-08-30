@@ -1,0 +1,27 @@
+            CRONJOBS X - - - -
+                   * X - - - -
+                  SH X - X - -
+/HOME/ELCHZARD/PYWIKIPEDIA/UNUSEDFILES.SH X - - - -
+                FILE O - X O -
+            MIDNIGHT X - - - -
+               MONTH X - - - -
+                DATE - O O O -
+             LOGFILE - X - - -
+              ACTION - - S - -
+               THERE - - X - -
+              OUTPUT - - X - -
+                   % - - X - -
+                   H - - X - -
+                   M - - X - -
+                   S - - X - -
+                   Y - - X - -
+               PRINT - - X X -
+                 LPR - - - X -
+                  .. - - - X -
+                   > - - - S -
+                 ONE - - - O -
+                SUDO - - - - S
+               VALUE - - - - O
+               NOISE - - - - O
+             RELEASE - - - - X
+                 CLI - - - - O

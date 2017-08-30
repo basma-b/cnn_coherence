@@ -1,0 +1,17 @@
+             PRINTER X - - - - - - - - - - -
+                LIST O - - - - - - - - - - -
+               ERROR - X - X - - - - - - - -
+             MESSAGE - S - - - - - - - - - -
+             MANAGER - X - - - - - - - - - -
+          CONNECTION - S - - - - - - - - - -
+                CUPS - X X - - - - - - - - -
+              SERVER - - S - - - - - - - - -
+                 IPP - - - X - - - - - - - -
+             REQUEST - - - S - - - - - - - -
+              REASON - - - X - - - - - - - -
+                PROB - - - - S - - - - - - -
+                 CUP - - - - X X - - - - - -
+                  PS - - - - - X - - - - - -
+               |GREP - - - - - X - - - - - -
+                RULE - - - - - - - - - X - -
+           SOMETHING - - - - - - - - - O - -

@@ -1,0 +1,20 @@
+             PROBLEM O - O - O - - -
+             HOTPLUG X - - - - - - -
+           SUBSYSTEM X X - - - - - -
+                 HDA S - - - - - - -
+             DRIVERS O - - - - - - -
+              UBUNTU S - - - - - - -
+                BOOT X X - - - - - -
+             PROCESS - S - - - - - -
+/ETC/HOTPLUG/BLACKLIST - - O - - - - -
+              INSERT - - X - - - - -
+               SOUND - - - O - - - -
+                THIS - - - X - - - -
+                   \ - - - - S - - -
+              ANYONE - - - - X - - -
+             PACKAGE - - - - - X - -
+              KERNEL - - - - - X X -
+              SOURCE - - - - - X S -
+        DISTRIBUTION - - - - - X - -
+              SEARCH - - - - - - X -
+        LINUX-SOURCE - - - - - - O -

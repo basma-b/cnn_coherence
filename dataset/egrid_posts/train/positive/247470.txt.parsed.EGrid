@@ -1,0 +1,15 @@
+                UNIX - X X - - - - -
+                DISK - O O - - - - -
+                ROOT - X - - - - - -
+            PASSWORD - O - - - - - -
+             MACHINE - - X - - - - -
+                DONT - - - X - - - -
+         PERMISSIONS - - - O - - - -
+         DIRECTORIES - - - X - - - -
+               USERS - - - X - X - -
+               IDEAS - - - - X - - -
+                FILE - - - - - O - O
+                 UID - - - - - X - -
+                EXT3 - - - - - - X -
+          ETC/PASSWD - - - - - - X -
+                CANT - - - - - - - S

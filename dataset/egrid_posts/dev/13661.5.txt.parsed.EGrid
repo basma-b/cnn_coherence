@@ -1,0 +1,16 @@
+               32BIT X - - - - -
+            FLASHAID O - - - - -
+               FLASH - S O - - -
+                BITE - - X - - -
+                  OS - - X - - -
+             PACKAGE - - X - - -
+              REBOOT - - O - - -
+              SYSLOG - - X - - -
+             MESSAGE - - S - - -
+                 BOX - - X - - -
+              ERRORS - - X - - -
+               ISSUE - - - S - -
+     /VAR/LOG/SYSLOG - - - X - -
+             NOTHING - - - S - -
+                SUDO - - - - - X
+        PM-HIBERNATE - - - - - X

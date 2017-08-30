@@ -1,0 +1,19 @@
+                TIME X - - - -
+                LINE X - - - -
+/ETC/DEFAULT/NTPDATE X - - - -
+                SYNC S - - - -
+              SYSTEM - X - - -
+            SETTINGS - X - - -
+             SERVICE - S - - -
+                ROOT - X - - -
+/ETC/DEFAULTS/NTPDATE - - X - -
+          NTPSERVERS - - - O -
+                LIST - - - X -
+         NTPSERVERS= - - - O -
+                 YEP - - - - X
+            QUESTION - - - - S
+              SEARCH - - - - O
+          EVERYTHING - - - - X
+                ISNT - - - - X
+                  ID - - - - S
+            GDMSETUP - - - - X

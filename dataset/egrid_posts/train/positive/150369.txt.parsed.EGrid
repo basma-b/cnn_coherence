@@ -1,0 +1,14 @@
+       NSSWITCH.CONF - O - - - - - - -
+               THAT/ - O - - - - - - -
+              FOLDER - - O - - - - - -
+                ROOT - - - - - - O X -
+                EVIL - - - - - - - X -
+               THERE - - - - - - - S -
+        INSTRUCTIONS - - - - - - - O -
+                WIKI - - - - - - - X -
+              SYSTEM - - - - - - - - X
+                   > - - - - - - - - X
+      ADMINISTRATION - - - - - - - - X
+                DISK - - - - - - - - X
+              VIEWER - - - - - - - - O
+                CALL - - - - - - - - O

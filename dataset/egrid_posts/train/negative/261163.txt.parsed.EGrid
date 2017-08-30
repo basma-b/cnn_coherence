@@ -1,0 +1,14 @@
+                 HMM S O - -
+             DEVICES X - - -
+           /DEV/HDA2 X - - -
+          BOOTSECTOR - X - -
+     SYNCHRONISATION - X - -
+                RAID - X - -
+    UPDATE-INITRAMFS - S - -
+                HOOK - X - -
+              SCRIPT - S - -
+              KERNEL - O - -
+             VERSION - X - -
+              2.6.19 - S - -
+              FEISTY - X - -
+                  .. - - - O

@@ -1,0 +1,13 @@
+                TIME S - - - - - - - -
+                  HI S - - - - - - - -
+                AUTO X - - - - - - - -
+            IPTABLES X - S - - - - - -
+                RULE - X - - - - - - -
+       /ETC/RC.LOCAL - X - - - X - - -
+             COMMAND - - O - - - - - -
+    IPTABLES-RESTORE - - - X - - - - -
+                   < - - - S - - - - -
+                THAT - - - - X - - - S
+            SHUTDOWN - - - - - - X - -
+                 UMM - - - - - - - S -
+            HOSTNAME - - - - - - - - O

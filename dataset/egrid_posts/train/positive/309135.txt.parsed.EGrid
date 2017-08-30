@@ -1,0 +1,14 @@
+             COMMAND X - -
+         PERMISSIONS O - -
+              FOLDER X - -
+               CHMOD - O -
+               CHOWN - X -
+                 MAN - S -
+                THIS - S -
+           WEBSERVER - O -
+             PICTURE - O -
+           DIRECTORY - X -
+           /VAR/WWW/ - X -
+                TYPE - X -
+            TERMINAL - X -
+                SUDO - X -

@@ -1,0 +1,9 @@
+   /ETC/DEFAULT/GRUB O - - - -
+               VALUE - O - - -
+GRUB_HIDDEN_TIMEOUT=0 - X - - -
+GRUB_HIDDEN_TIMEOUT_QUIET=TRUE - S - - -
+                SUDO - X - - -
+         UPDATE-GRUB - O - - -
+                MENU - - O - -
+             DEFUALT - - X - -
+               SHIFT - - - O -

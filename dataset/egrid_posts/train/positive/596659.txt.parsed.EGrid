@@ -1,0 +1,14 @@
+                USER O O - X -
+               SHELL X - - - -
+          PERMISSION X - - - -
+             HOMEDIR O - - - -
+                BOTH X - - - -
+                SUDO - X - - -
+               MKDIR - X - - -
+      /HOME/USERNAME - S - - -
+            USERNAME - S - - -
+             COMMAND - X - - -
+          EVERYTHING - O - - -
+                ONCE - X - - -
+             MACHINE - - - O -
+              FRIEND - - - O -

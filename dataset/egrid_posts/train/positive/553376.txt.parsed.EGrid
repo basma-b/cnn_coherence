@@ -1,0 +1,4 @@
+           PARTITION X - - S
+         PERMISSIONS X - - O
+                SUDO - O - -
+                USER - - - X

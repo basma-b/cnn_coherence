@@ -1,0 +1,23 @@
+           CONFIGURE X - - - - -
+             NETWORK X X - - - -
+            CHECKUNG X - - - - -
+          NTP.UBUNTU O - - - - -
+                BOOT X S - - - X
+            SEQUENCE X - - - - -
+             ANYBODY S - - - - -
+                THIS - O - - - -
+          INTERFACES - O - - - -
+/ETC/NETWORK/INTERFACES - O - - X -
+                AUTO - - S - X -
+           INTERFACE - - X - - -
+               BLOCK - - O X - -
+              SCRIPT - - - - S -
+             STARTUP - - - - X -
+            INSTANCE - - - - X -
+                ETH0 - - - - X -
+                INET - - - - X -
+                DHCP - - - - X X
+             REQUEST - - - - - S
+                  IP - - - - - X
+              SERVER - - - - - X
+              ROUTER - - - - - X

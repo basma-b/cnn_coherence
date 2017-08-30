@@ -1,0 +1,15 @@
+         NAMESERVERS O - - -
+               STATE O - - -
+               POINT O - - -
+              CONFIG S - - -
+             SYMLINK O - - -
+    /ETC/RESOLV.CONF X - - -
+            TERMINAL X - - -
+                  NP - X - -
+               -RW-R - X - -
+                ROOT - X - -
+               18:05 - X - -
+              DAPPER - O - -
+              UBUNTU - - - X
+               USERS - - - X
+               GROUP - - - X

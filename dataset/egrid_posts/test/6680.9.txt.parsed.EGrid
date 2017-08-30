@@ -1,0 +1,13 @@
+               BLKID - S - - -
+             DEFAULT - X - - -
+              KERNEL - - X - -
+             SUPPORT - - S - -
+                NTFS - - X - -
+                  RW - - X - -
+              SYSTEM - - - - S
+                BOOT - - - - O
+                GRUB - - - - X
+               INTEL - - - - X
+                 VGA - - - - X
+       CONFIGURATION - - - - X
+              UBUNTU - - - - X

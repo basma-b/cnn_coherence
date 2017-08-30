@@ -1,0 +1,12 @@
+                BOOT X - - - - - -
+            ACPI=OFF X X - - - - -
+ GRUB_CMDLINE_LINUX= - X - - - - -
+                FILE - X - - - - -
+                 LOT - - O - - - -
+                LINE - - - O - O -
+           SOMETHING - - - X - - -
+             REPLACE - - - O - - -
+               THERE - - - - - S -
+             EXAMPLE - - - - - X -
+           ARGUMENTS - - - - - X -
+               QUOTE - - - - - X -

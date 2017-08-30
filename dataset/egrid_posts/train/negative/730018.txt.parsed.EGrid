@@ -1,0 +1,17 @@
+            TERMINAL X - - -
+                  W/ X - - -
+                 TAB X X - -
+               FOCUS X O - -
+      GNOME-TERMINAL X X - -
+TAB-WITH-PROFILE=FOO X - - -
+TAB-WITH-PROFILE=BAR X - - -
+                 FOO X - - -
+              OPTION - X - -
+             COMMAND - - O -
+        SHIFT_CTRL+T - - X -
+               ALT+1 - - X -
+            SHORTCUT - - X -
+                   > - - X -
+            KEYBOARD - - X -
+           SHORTCUTS - - X -
+           XORG.CONF - - - S

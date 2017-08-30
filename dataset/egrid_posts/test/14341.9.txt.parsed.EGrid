@@ -1,0 +1,13 @@
+              PEOPLE S - - - - - - - - - - - - - -
+             APACHE2 S - - - - - - - - - - - - - -
+               STORE X - - - - - - - - - - - - - -
+     /VAR/LOG/APACHE O - - X - - - O - - - - - - -
+                TAIL - - - X - - - X - - - - - - -
+                SUDO - - - - - - - X - - - - - - -
+                USER - - - - - - - - - - - O - - -
+                CASE - - - - - - - - - - - - O - -
+               MYSQL - - - - - - - - - - - - X O -
+              CHANGE - - - - - - - - - - - - X - -
+        BIND-ADDRESS - - - - - - - - - - - - X - -
+             NETWORK - - - - - - - - - - - - - X -
+            LOCATION - - - - - - - - - - - - - - X

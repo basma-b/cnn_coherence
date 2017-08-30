@@ -1,0 +1,29 @@
+              ANYONE X - - -
+             CHANNEL - O - -
+               SETUP - X - -
+               SLAPD - S - -
+               HTTPS - X - -
+           LDAP_BIND - O - -
+         CREDENTIALS - S - -
+             COMMAND - O - -
+        INSTRUCTIONS - O - -
+                HTTP - X - -
+//WIKI.DEBIAN.ORG/LDAP/OPENLDAPSETUP - S - -
+              BASEDN - O - -
+                THIS - S - -
+        RE-INSTALLED - O - -
+             SUCCESS - X - -
+                CASE - X - -
+          EVERYTHING - S - -
+            LDAP_ADD - X - -
+                E.G. - X - -
+      IMPLEMENTATION - - X -
+            SPECIFIC - - X -
+               ERROR - - X -
+                INFO - - X -
+   OLCATTRIBUTETYPES - - X -
+       ATTRIBUTETYPE - - X -
+2.16.840.1.113730.3.1.1 - - X -
+                DPKG - - - X
+                  -L - - - X
+           MYPACKAGE - - - X

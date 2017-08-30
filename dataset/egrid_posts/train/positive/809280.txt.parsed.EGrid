@@ -1,0 +1,11 @@
+             POSTFIX X - - - -
+           127.0.0.1 X - - - -
+             NOQUEUE - O - - -
+               -RSB- - O - - -
+             DEFAULT - X - - -
+              RELOAD - - O - -
+            INTERNET - - X - -
+                SITE - - X - -
+              OPTION - - X - -
+              PYTHON - - - X -
+               IDEAS - - - - X

@@ -1,0 +1,21 @@
+               PLACE X - - - -
+             STARTUP X X - - -
+             COMMAND O - - - -
+             STUNNEL - O - - -
+             INSTALL - S - - -
+            ANYTHING - O - - -
+                  .. - X - - -
+             INITTAB - O - - -
+              SCRIPT - S - - -
+               /ROOT - X X - -
+                 CMD - O - - -
+START/STOP/FORCE-RELOAD - X - - -
+              MANUAL - - O - -
+             RESERVE - - - O -
+       ADMINISTRATOR - - - X -
+           /DEV/SDA1 - - - - X
+                TYPE - - - - X
+             FUSEBLK - - - - X
+                  RO - - - - X
+ DEFAULT_PERMISSIONS - - - - X
+        BLKSIZE=4096 - - - - X

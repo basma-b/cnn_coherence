@@ -1,0 +1,13 @@
+              PASSWD O - - - - -
+            PASSWORD S - - - - -
+                  SU X - - - - -
+                ROOT X - - - - -
+             CHANNEL X - - - - -
+                   A - X - - - -
+               SHELL - X - - - -
+              SCRIPT - X - - - -
+                EXIT - - O - - -
+                 END - - X - - -
+               START - - - S - -
+              RETURN - - - O - -
+                  BG - - - - X -

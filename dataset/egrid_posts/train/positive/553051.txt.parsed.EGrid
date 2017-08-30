@@ -1,0 +1,16 @@
+              PEOPLE X - - -
+              REBOOT X - - -
+            REISERFS S - - X
+                GRUB S - - -
+           /DEV/SDA1 O - - -
+        REBUILD-TREE X - - S
+             NOTHING X - - -
+               ERROR O - - O
+              ACCESS - X - -
+                DATA - X - -
+               LINUX - - S -
+                  CD - - O -
+             SESSION - - - X
+           PARTITION - - - O
+           OPERATION - - - S
+          REISERFSCK - - - X

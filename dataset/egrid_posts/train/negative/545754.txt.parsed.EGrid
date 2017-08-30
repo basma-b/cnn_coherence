@@ -1,0 +1,17 @@
+          FILESYSTEM X - - - -
+                TYPE S - - - -
+              OPTION S - - - -
+          SUPERBLOCK S - - - -
+            /DEV/SDC O - - - -
+            CODEPAGE O - - - -
+              HELPER X - - - -
+             PROGRAM O - X - -
+               ERROR S - - - -
+                SUDO X - - - -
+               DRIVE S - - - -
+           PARTITION X - - - -
+                FILE X - - - -
+              SYSTEM X - - - -
+             SUBMENU - - S - -
+            ANYTHING - - - X -
+               GNOME - - - X -

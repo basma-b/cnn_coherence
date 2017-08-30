@@ -1,0 +1,24 @@
+             DISPLAY X - X - -
+              DRIVER X X - - -
+                I810 - O - - -
+                  IM - S - - -
+        XSERVER-XORG - O - - -
+          RESOLUTION - O - S -
+                  YA - - S - -
+              ESTART - - S - -
+                POST - - X - -
+             SECTION - - O - -
+           XORG.CONF - - X - -
+                  OK - - X - -
+                   U - - O - -
+              SCREEN - - X - -
+               MODES - - X - -
+                HTTP - - O - -
+//PASTE.UBUNTU-NL.ORG/20513 - - S - -
+            1280X854 - - O - O
+             HIGHEST - - X - -
+                DONT - - - S -
+                14.1 - - - X -
+            1280X800 - - - - S
+               DEPTH - - - - X
+                   X - - - - O

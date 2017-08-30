@@ -1,0 +1,15 @@
+               DRIVE X - -
+                 DMA X - -
+                 -D1 - S -
+                  CD - X -
+                 ROM - X -
+             DEFAULT - X -
+             MACHINE - X -
+                 TRY - X -
+          /DEV/CDROM - S -
+                ROOT - O -
+                 HDC - X -
+                TIME - - O
+              HDPARM - - O
+            /DEV/HDC - - S
+                BOOT - - X

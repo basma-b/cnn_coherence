@@ -1,0 +1,11 @@
+             COMMAND X - - -
+              WHATIS X - - -
+                 USE X - - -
+              SEARCH X S S -
+        DESCRIPTIONS X - - X
+                NAME X - - -
+           APT-CACHE - - X -
+               STORE - - X -
+             PROGRAM - - X X
+                  LS - - - X
+                 MAN - - - X

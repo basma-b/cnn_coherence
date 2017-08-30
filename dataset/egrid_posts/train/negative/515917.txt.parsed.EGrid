@@ -1,0 +1,24 @@
+             PROCESS X - - -
+                TIME - X - -
+              SYSTEM - X - -
+             MONITOR - O - -
+              STATUS - S - -
+              ZOMBIE - X - -
+               GNASH - O - -
+      IMPLEMENTATION - O - -
+               FLASH - X - -
+                UNIX - - X -
+             COMMAND - - X -
+                LINE - - X -
+            QUESTION - - O -
+                SUDO - - X X
+                  CP - - X -
+/HOME/NICK/DOWNLOADS/THEME-WHATEVER.TGZ - - X -
+/USR/SHARE/GNOME-SHELL - - X X
+               CHOWN - - - X
+                ROOT - - - X
+/USR/SHARE/GNOME-SHELL/THEME-WHATEVER.TGZ - - - X
+                  CD - - - X
+                 TAR - - - X
+               -XZVF - - - X
+  THEME-WHATEVER.TGZ - - - X

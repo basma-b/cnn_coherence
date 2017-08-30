@@ -1,0 +1,15 @@
+                  AD X - X -
+               RIGHT O - - -
+              DOMAIN X - - -
+             WINBIND O - - -
+              ACCESS - X - -
+                SITE - X - -
+                TIME - - X -
+                WORK - - S -
+         PERMISSIONS - - O -
+               FSTAB - - - S
+         FILESYSTEMS - - - O
+                LOAD - - - S
+                BOOT - - - X
+                 YUP - - - X
+             SESSION - - - O

@@ -1,0 +1,15 @@
+                SUDO X - - -
+            DHCLIENT S X - -
+               ROUTE O O - S
+            IWCONFIG S - - -
+             CHANNEL O - - -
+                  A. - X - -
+                DHCP - X - -
+              SERVER - X - -
+            ETHERNET - X - -
+          CONNECTION - O - -
+                  B. - S - -
+           SOMETHING - - - X
+            .EXAMPLE - - - X
+             DEFAULT - - - X
+                  GW - - - O

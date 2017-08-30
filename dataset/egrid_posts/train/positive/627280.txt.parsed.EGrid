@@ -1,0 +1,14 @@
+                THAT O - - - - -
+                TYPE X - - - - -
+               GEDIT X - - - - -
+    /ETC/RESOLV.CONF X - - O - -
+                FILE O S - - - -
+              CHANGE O - - - - -
+          PERMISSION O O - - - -
+                SUDO - X - - - -
+               OWNER - X - - S S
+                ROOT - O X O X X
+         PERMISSIONS - - - - O -
+          NO-DESKTOP - - - - X -
+               CLICK - - - - O -
+               GROUP - - - - - S

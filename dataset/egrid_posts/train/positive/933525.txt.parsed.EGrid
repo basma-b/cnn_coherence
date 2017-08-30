@@ -1,0 +1,26 @@
+                 LOT O - - - - - -
+                HTTP O O - - - - -
+//SECURITY.UBUNTU.COM O X - - - - -
+            PACKAGES S - - - - - -
+       82.211.81.138 X - X - - - -
+ SECURITY.UBUNTU.COM - X - - X - -
+          CONNECTION - X - X - - -
+              REFUSE - X - X - - -
+                  IP - X - S X - -
+               -RSB- - X - - - - -
+               GET:2 - X - - - - -
+      HOARY-SECURITY - X - - - - -
+         RELEASE.GPG - X - - - - -
+                PING - X - - - - -
+                WORK - S - - - - -
+             WEBSITE - O - - - - -
+             FIREFOX - X - - - - -
+       82.211.81.151 - X - - - - -
+               BYTES - X - - - - -
+                DATA - X - - - - -
+                   > - - S - - - -
+                .151 - - - S - - -
+                .138 - - - S - - -
+             APT-GET - - - - X - -
+                 DNS - - - - - - S
+             COMMAND - - - - - - O

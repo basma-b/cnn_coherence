@@ -1,0 +1,12 @@
+             MODULES X - - -
+               ORDER S - - -
+              KERNEL X X - -
+             HEADERS O O - -
+              SOURCE X X O -
+              DRIVER O - - -
+              SEARCH - - S X
+              RESULT - - X -
+                TRYE - - - X
+        LINUX-SOURCE - - - O
+              OUTPUT - - - O
+            WHATEVER - - - X

@@ -1,0 +1,16 @@
+              ANYONE X - - - - - - -
+      NVIDIA-CURRENT S - O - - - - -
+              MODULE O - - - - - - -
+              KERNEL X - - - - - - -
+          XORG.0.LOG - S - - - - - -
+              NVIDIA - O - - - - - -
+            MODPROBE - - S - - - - -
+                 TRY - - S - - - - -
+                SUDO - - S - - - - -
+             APT-GET - - S - - - - -
+           REINSTALL - - S - - - - -
+                DKMS - - S - - - - -
+                CARD - - - - X - - -
+               ISSUE - - - - X - - -
+                 N-M - - - - - - - X
+             NETWORK - - - - - - - X

@@ -1,0 +1,16 @@
+              SERVER S - - - -
+              REBOOT O - - - -
+           INTERVALS X - - - -
+              SYSTEM - X - - -
+                 LOG - X - - -
+                LOOK - X - O -
+              SOURCE - O - - -
+            HARDWARE - - X - -
+             FAILURE - - X - -
+                THAT - - - O -
+            ANYTHING - - - O -
+              KERNEL - - - X -
+               PANIC - - - X -
+   /VAR/LOG/KERN.LOG - - - X -
+            KERN.LOG - - - S -
+               THANK - - - - X

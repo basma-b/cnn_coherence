@@ -1,0 +1,22 @@
+                TIME O - - - - -
+              KAPPUT X - - - - -
+                HELP S - - - - -
+               START X - - - - -
+              SCRIPT X - - - - -
+                BOOT X - - - - -
+                LOOK - X - - - -
+                HTTP - X - - - -
+//WWW.DEBIANHELP.ORG/MODULES.PHP - X - - - -
+          OP=MODLOAD - - X - - -
+           NAME=NEWS - - X - - -
+        FILE=ARTICLE - - S - - -
+            SID=3306 - - S - - -
+             CHANNEL - - X - - -
+          PROTECTION - - O - - -
+               INPUT - - X - - -
+             JUSTIFY - - O - - -
+                CASE - - X - - -
+                THIS - - - X - -
+             RELEASE - - - - X -
+           CANDIDATE - - - - S -
+               HOURS - - - - X -

@@ -1,0 +1,14 @@
+               MATCH O - - -
+              \RIGHT S O - -
+               ERROR - O - -
+             BRACKET - O - -
+             SUPPORT - - - X
+              KERNEL - - - X
+              MODULE - - - X
+                  .. - - - O
+                 ONE - - - S
+        MANUFACTURER - - - X
+              DEVICE - - - X
+                  ID - - - O
+                LIST - - - X
+             DEVICES - - - X

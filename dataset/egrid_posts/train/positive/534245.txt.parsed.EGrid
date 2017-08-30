@@ -1,0 +1,20 @@
+          FILESYSTEM O - - - - - -
+           WRITTABLE X - - - - - -
+               USERS S - S - - - -
+                ROOT X X - - O - -
+                THIS S - - - - - -
+              SCRIPT O - - - - - -
+               FSTAB X - - - - - -
+         /MEDIA/SDB1 S - - - - - -
+             DEFAULT X - - - - - -
+             SOMEONE X - - - - - -
+               POINT X - - - - - -
+                EXT3 - O - - - - -
+              EXT2/3 - S - - - - -
+         PERMISSIONS - O O - - - -
+           DIRECTORY - O - - - - -
+             SUBDIRS - - - X - X -
+                EACH - - - S - - -
+PERMISSIONS/OWNERSHIP - - - O - - -
+               DRIVE - - - - X - -
+                PAGE - - - - - - X

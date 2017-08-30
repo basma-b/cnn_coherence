@@ -1,0 +1,24 @@
+             ANYBODY S - -
+                 USE O - -
+                 SSH - X -
+                   < - X -
+          YOURSERVER - X -
+                   > - O -
+                USER - S -
+                   ' - - X
+                THAT - - S
+             COMMAND - - X
+              RETURN - - X
+         SCREENSAVER - - S
+             EXAMPLE - - O
+              METHOD - - O
+              D-FEET - - S
+             METHODS - - X
+             SESSION - - X
+DEST=ORG.GNOME.SESSIONMANAGER - - X
+/ORG/GNOME/SESSIONMANAGER/PRESENCE - - X
+ORG.FREEDESKTOP.DBUS.PROPERTIES.GET - - X
+              STRING - - X
+ORG.GNOME.SESSIONMANAGER.PRESENCE - - X
+                IDLE - - X
+   GNOME-SCREENSAVER - - X

@@ -1,0 +1,19 @@
+                 ALL O O - - - -
+                HOST O X - - - -
+       CONFIGURATION O - - - - -
+                DHCP X O - - - -
+                  IP - X - - - -
+                STOP - - X - - -
+           DHCLIIENT - - O - - -
+                SUDO - - X - - -
+/ETC/INIT.D/DHCLIENT - - X - - -
+           INTERFACE - - O - - -
+            IFCONFIG - - X - - -
+                   < - - X - - -
+                   > - - X - - -
+                 HUH - - - X - -
+                KIND - - - - X -
+              LAPTOP - - - - X -
+                THIS - - - - - X
+             DESKTOP - - - - - X
+                 LCD - - - - - X

@@ -1,0 +1,9 @@
+           DIRECTORY O - -
+                BASH X S -
+                PATH X X -
+            INSTANCE X - -
+                /USR X - -
+                BIN/ O - -
+         EXECUTABLES - S -
+     LD_LIBRARY_PATH - X -
+        /USR/FOO/LIB - - X

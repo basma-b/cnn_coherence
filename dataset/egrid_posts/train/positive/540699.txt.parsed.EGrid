@@ -1,0 +1,15 @@
+           DIRECTORY X X - - S -
+/MEDIA/OSNET/WWW/TEST/ O - - - - -
+             SYMLINK O - - - - -
+               ALIAS - S - - - -
+/MEDIA/OSNET/WWW/TEST - X - - - -
+/HOME/TEST/PUBLIC_HTML - X - - - S
+                FILE - X - - - -
+               ERROR - O - - - -
+              ANYONE - - X - - -
+                  CD - - - X - -
+          /HOME/TEST - - - X - -
+         PUBLIC_HTML - - - X - -
+              PARENT - - - - X -
+             EXAMPLE - - - - - X
+         /HOME/TEST/ - - - - - X

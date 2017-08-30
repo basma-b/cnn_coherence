@@ -1,0 +1,16 @@
+         NTFS-CONFIG X - O -
+         APPLICATION X - O -
+                 CLI - X - S
+           STARTMENU - - X -
+               ENTRY - - S -
+                GKSU - - O X
+             KDESUDO - - X S
+                 KDE - - X -
+            WRAPPERS - - - O
+                SUDO - - - X
+             COMMAND - - - X
+                LINE - - - X
+           INTERFACE - - - X
+                  .. - - - X
+            TERMINAL - - - X
+               SHORT - - - X

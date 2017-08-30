@@ -1,0 +1,17 @@
+                  IP S - - - - - - - - -
+             SUBJECT - X X - - - - - - -
+               SETUP - - - O - - O - S -
+              ROUTER - - - O X X - - - -
+                 ISP - - - X X - - - - -
+                   > - - - X - - - - - -
+                 HUB - - - O - - - - - -
+            WIRELESS - - - X - X - - - -
+                  PC - - - X - - - - - -
+                WIRE - - - X - - - - - -
+                   + - - - X - - - - - -
+              LAPTOP - - - O - - - - - -
+       255.255.255.0 - - - - O X - - - -
+                 USE - - - - - X - - - -
+                DHCP - - - - - X - - - -
+               RANGE - - - - - - X - O -
+               THOSE - - - - - - - - S -

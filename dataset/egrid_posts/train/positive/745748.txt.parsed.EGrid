@@ -1,0 +1,12 @@
+                WHAT S - -
+              CONFIG X - -
+                FILE X S -
+                CALL O - -
+ /BOOT/GRUB/MENU.LST - S -
+              SYSTEM - X -
+   /ETC/DEFAULT/GRUB - X -
+                BOOT - X -
+             OPTIONS - O -
+            SETTINGS - X -
+GRUB_CMDLINE_LINUX_DEFAULT= - - S
+              SPLASH - - X

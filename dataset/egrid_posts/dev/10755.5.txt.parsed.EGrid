@@ -1,0 +1,11 @@
+             COMMAND O - - -
+                SUDO S - - -
+                   > X - - -
+        /ETC/MODULES S O - -
+          PERMISSION O - - -
+            REDIRECT S - - -
+                USER X - - -
+                ROOT - O - -
+             INSTALL - - X -
+             BATTERY - - X -
+               POWER - - - O

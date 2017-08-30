@@ -1,0 +1,14 @@
+             COMMAND O - - -
+             DIAGRAM O - - -
+             SUPPORT X - - -
+             DEVICES X X - -
+              UBUNTU X - - -
+                 BOX - X - -
+                  OS - X - -
+              WEBCAM - X - -
+                IPUT - X - -
+                THIS - X - -
+                  .. - - X -
+                BOOT - - O -
+               MODEM - - O -
+              VMWARE - - - O

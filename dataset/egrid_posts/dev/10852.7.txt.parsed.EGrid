@@ -1,0 +1,17 @@
+       CONFIGURATION X - - - -
+                BOOT X X X - -
+       NETWORKCONFIG - O - - -
+/ETC/NETWORK/INTERFACES - X - - -
+                CANT - S - - -
+               START - O - - -
+                  IP - X - - -
+                WIRE - X - - -
+           INTERFACE - X - - -
+             PROBLEM - - S - -
+               BLINK - - X - -
+              CURSOR - - O - -
+           PARTITION - - X - -
+              INSTAL - - X - -
+          VIRTUALBOX - - X - -
+                   X - - O - -
+            SETTINGS - - - O -

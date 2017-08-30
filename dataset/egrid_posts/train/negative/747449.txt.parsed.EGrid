@@ -1,0 +1,27 @@
+             COMMAND O - - - - - - -
+        SUBSTITUTION O - - - - - - -
+          S/SPLASH// X - - - - - - -
+                 ONE X - - - - - - -
+                  S/ S - - - - - - -
+                   / S - - - - - - -
+                  -I X - - - - - - -
+/^GRUB_CMDLINE_LINUX_DEFAULT=/ O - - - - - - -
+           S/QUIET// X - - - - - - -
+                   * X - - - - - - -
+   /ETC/DEFAULT/GRUB X - - - - - - -
+              BUTTON O - - - - - - -
+                THAT - X - - - S - -
+             INSTALL - - X - - - - -
+            FRAGMENT - - O - - - - -
+         OPPORTUNITY - - - - S - - -
+           SOMETHING - - - - O - - -
+                TIME - - - - - X - -
+                TODO - - - - - O - -
+               FONTS - - - - - S - -
+            LANGUAGE - - - - - X - -
+                PACK - - - - - S - -
+             SUPPORT - - - - - S - -
+                ROOM - - - - - - O -
+                  .. - - - - - - - X
+             PROBLEM - - - - - - - X
+           ATTENTION - - - - - - - X

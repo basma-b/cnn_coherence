@@ -1,0 +1,17 @@
+               SHARE X - - -
+              FOLDER O - - O
+             WINDOWS X - - -
+               FSTAB X - - -
+                THIS - X - O
+           /MNT/DATA - - X -
+               SMBFS - - O -
+      PASSWORD=XXXXX - - X -
+           GID=USERS - - X -
+             DMASK=7 - - S -
+               WATCH - - X -
+               SPACE - - X -
+                CIFS - - S -
+                DROP - - O -
+         REPLACEMENT - - X -
+                HTTP - - - O
+//PASTEBIN.COM/M7221ADD3 - - - O

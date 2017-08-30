@@ -1,0 +1,37 @@
+              ANYONE S - - - - - -
+               IDEAS X - - - - - -
+                  IP X X - O - - -
+             ADDRESS X - - - - - -
+            WIRELESS X - - - - - -
+                CARD X - - - - - -
+       CONFIGURATION - X - - - - -
+        CONNECTIVITY - O - - - - -
+                  .. - - S X - - -
+             NOTHING - - X X - - -
+                DHCP - - X - - - -
+             NETWORK - - O - - X -
+                THAT - - - X - - -
+            IFCONFIG - - - O - X -
+              ROUTER - - - S - - -
+               THERE - - - S - - -
+     NETWORK-MANAGER - - - X - - -
+              THIGNS - - - O - - -
+            IWCONFIG - - - X - O -
+               STUFF - - - X - X -
+           ASSOCIATE - - - - - X -
+                  AP - - - - - X -
+           SOMETHING - - - - - O -
+      SOME_IP_ADRESS - - - - - X -
+             NETMASK - - - - - X -
+        SOME_NETMASK - - - - - X -
+               ROUTE - - - - - O -
+             DEFAULT - - - - - X -
+             GATEWAY - - - - - X -
+    /ETC/RESOLV.CONF - - - - - O -
+                 DNS - - - - - X -
+         INFORMATION - - - - - O -
+/ETC/NETWORK/INTERFACES - - - - - X -
+             SERVICE - - - - - X -
+                 E.G - - - - - O -
+                SUDO - - - - - - X
+/ETC/INIT.D/NETWORKING - - - - - - S

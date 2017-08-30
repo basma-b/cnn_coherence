@@ -1,0 +1,20 @@
+                LINK O - - - -
+               .PART X - - - -
+                NAME X O - - -
+               PLACE X - - - -
+                THAT - S - - -
+                 YEA - X - - -
+              VIDEOS - O - - -
+                FILE - X - - -
+                  LN - O - - -
+                ~/TV - X - - -
+             SYMLINK - O S - -
+           DIRECTORY - S - - X
+              TARGED - - S - -
+               BREAK - - X - -
+              UNTILL - - O - -
+               THERE - - - - S
+~/DOWNLOADS/FOOBAR.PART/ - - - - O
+                  -S - - - - X
+  ~/DOWNLOADS/FOOBAR - - - - X
+    /SOMEWHERE/ELSE/ - - - - X

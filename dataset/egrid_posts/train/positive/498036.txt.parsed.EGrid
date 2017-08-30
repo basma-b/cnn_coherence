@@ -1,0 +1,34 @@
+                TIME O - -
+              SERIAL X - -
+               MODEM X - -
+          CONNECTION O - -
+              MODULE X - -
+               ALIAS X - -
+               LINUX X - -
+                 ONE X - -
+             DRIVERS X - -
+              CHANCE X - -
+                WORK X - -
+            TERMINAL X - -
+         APPLICATION S - -
+             GTKTERM X - -
+              OUTPUT O - -
+           USBSERIAL X - X
+                 USB X - -
+              VENDOR O - -
+             PRODUCT X - -
+                  ID X - -
+       BIKE-COMPUTER X - -
+           SOMETHING O - X
+                SUDO X - -
+            MODPROBE X - -
+      PRODUCT=0X1000 X - -
+             OPTIONS O - -
+/ETC/MODPROBE.D/OPTIONS X - -
+                 NOW O - -
+             CONNECT - O -
+                LOAD - O -
+               ENTRY - O -
+/ETC/MODPROBE.D/ALIASES - X -
+              DRIVER - S -
+              DEVICE - S -

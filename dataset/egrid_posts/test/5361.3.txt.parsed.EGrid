@@ -1,0 +1,25 @@
+             MACHINE X - - - -
+           LOCALHOST X - - - -
+               USER2 S X - - -
+          REMOTEHOST O - - - -
+          SSH-ACCESS X - - - -
+             ACCOUNT X - - - -
+                 DEV - X - - -
+          ID_RSA.PUB - X - - -
+                 KEY - O - - -
+.SSH/AUTHORIZED_KEYS - X - - -
+           DIRECTORY - X - - -
+            UPSTREAM - - - S -
+            SOFTWARE - - - X S
+           DEVELOPER - - - O X
+                 BUG - - - - S
+                MEAN - - - - X
+                CODE - - - - X
+               FAULT - - - - O
+              UBUNTU - - - - S
+         INTEGRATION - - - - X
+              DEBIAN - - - - X
+             ALTOUGH - - - - X
+          REPOSITORY - - - - X
+                 RED - - - - X
+                 HAT - - - - X

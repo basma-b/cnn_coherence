@@ -1,0 +1,27 @@
+                GUYS X - - -
+                TYPE X X - -
+/BOOT/VMLINUX-2.6.31.20-GENERIC O - - -
+       LINUX-BZIMAGE - O - -
+        SETUP=0X3400 - O - -
+                SIZE - X - -
+                  .. - O - -
+                BOOT - S - -
+              KERNEL - X - -
+               PANIC - O - -
+                EXT3 - X - -
+          FILESYSTEM - O - -
+                THIS - S - O
+                WUBI - X - X
+        INSTALLATION - O - -
+                ROOT - - X X
+           PARTITION - - O X
+                  OS - - S -
+              LOCATE - - O -
+                LOAD - - - X
+               SETUP - - - X
+             WINDOWS - - - X
+            PARITION - - - X
+                 VFS - - - X
+               WHCIH - - - S
+              UBUNTU - - - O
+             DEFAULT - - - X

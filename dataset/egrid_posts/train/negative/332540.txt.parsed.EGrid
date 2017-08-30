@@ -1,0 +1,9 @@
+                TEXT X X - - -
+                MODE X O - - -
+             /IGNORE - - - - X
+              TAJMOX - - - - X
+                SUDO - - - - X
+     /ETC/INIT.D/GDM - - - - S
+             KILLALL - - - - X
+                XORG - - - - X
+            SHUTDOWN - - - - S

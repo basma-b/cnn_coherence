@@ -1,0 +1,16 @@
+              ANYONE X - - - - - -
+             COMMAND X - - - - - -
+              FOLDER O - - - - - -
+                 ALL O - - - - - -
+          SUBFOLDERS X - - - - - -
+                 ONE X - - - - - -
+                THAT - O - - - X -
+                 TWO - X - - - - -
+             /FOLDER - - S - - - -
+               CRASH - - - - - X -
+         APPLICATION - - - - - X -
+                 FOO - - - - - X -
+              SIGNAL - - - - - X -
+             SIGSEGV - - - - - X -
+                LINE - - - - - X -
+                 GDB - - - - - X -

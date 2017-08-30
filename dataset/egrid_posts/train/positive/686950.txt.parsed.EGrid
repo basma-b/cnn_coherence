@@ -1,0 +1,21 @@
+             MACHINE X X - - - - - -
+             NETWORK X X - - - - - -
+          CONNECTION X - - - - - - -
+              REFUSE X - - - - - - -
+             PROBLEM - X - - - - - -
+                PORT - - X - - - - -
+              ROUTER - - X X - - - -
+              SERVER - - X - - - - -
+             OUTSIDE - - - X - - - -
+             COMMAND - - - X - - - -
+              MYUSER - - - O - - - -
+     123.123.123.123 - - - X - - - -
+                  IP - - - X - - - -
+             ADDRESS - - - O - - - -
+            IPTABLES - - - - S - - -
+              POLICY - - - - X - - -
+INPUT/FORWARD/OUTPUT - - - - X - - -
+                ROOT - - - - - X - -
+               LOGIN - - - - - S - -
+             MESSAGE - - - - - X - -
+            /VAR/LOG - - - - - - - X

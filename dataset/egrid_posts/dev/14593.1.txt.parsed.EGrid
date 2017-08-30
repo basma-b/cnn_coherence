@@ -1,0 +1,19 @@
+         NAMESERVERS X - S O
+         RESOLV.CONF - S - -
+           127.0.0.1 - O X -
+       CONFIGURATION - S - -
+                FILE - S - O
+                LIST - - O -
+             DNSMASQ - - O -
+/ETC/RESOLVCONF/RESOLV.CONF.D/HEAD - - X -
+               THERE - - S -
+           OVERWRITE - - X -
+               POINT - - O -
+                  .. - - O -
+                MINE - - X -
+                HTTP - - O -
+//PASTEBIN.MOZILLA.ORG/1689130 - - O -
+          NAMESERVER - - - O
+                HOST - - - X
+                HEAD - - - X
+            SETTINGS - - - O

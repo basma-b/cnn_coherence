@@ -1,0 +1,13 @@
+                 TNX X -
+             NIBBIER X -
+                  NO S -
+              KERNEL X -
+                LINE O -
+                THIS - O
+               ORDER - S
+          BRIGHTNESS - O
+GRUB_CMDLINE_LINUX_DEFAULT= - O
+           ACPI_OSI= - X
+     PCIE_ASPM=FORCE - X
+I915.I915_ENABLE_RC6=1 - X
+I915.I915_ENABLE_FBC=1 - X

@@ -1,0 +1,10 @@
+    UPDATE-INITRAMFS S - S -
+           BLACKLIST X - - -
+             MODULES O - - -
+           INITRAMFS X - - -
+               ISSUE O - - -
+                THIS - X - -
+                 USE - - X -
+           BLOCKLIST - - O -
+                SUDO - - - X
+               IFTOP - - - X

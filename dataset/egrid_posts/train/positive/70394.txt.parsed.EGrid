@@ -1,0 +1,24 @@
+               SETUP X - O - - - -
+             POSTFIX X - S - - - -
+              UBUNTU X - X - - - -
+          EVERYTHING S - - - - - -
+                PORT S X - - - - -
+                OPEN - O - - - - -
+            FIREWALL - S - - - - -
+               BLOCK - X - - - - -
+               CLOSE - O - - - - -
+               IDEAS - X - - - - -
+             DEFAULT - - X - - - -
+            LOOPBACK - - X - - - -
+           127.0.0.1 - - X - - - -
+                   \ - - - X - - -
+          INTERFACES - - - X - - -
+                LOOK - - - - O - -
+              CONFIG - - - - X - -
+                FILE - - - - X - -
+/ETC/POSTFIX/MAIN.CF - - - - X - -
+         CONNECTIONS - - - - - - O
+                HTTP - - - - - - X
+                LINE - - - - - - O
+                 ONE - - - - - - X
+                   N - - - - - - O

@@ -1,0 +1,17 @@
+              MEMORY X - - - - -
+               STICK O - - X - -
+                MINS X - - - - -
+                AUTO - - S - - -
+                SUDO - - S - O -
+                  -A - - O - - -
+             RESULTS - - X - - -
+              REBOOT - - X - - -
+                 USB - - - X - -
+               FIRST - - - S - -
+                NAME - - - S - -
+           PARTITION - - - X - -
+/MEDIA/WHEREYOUWANTTOMOUNTIT - - - - O -
+      /DEV/THEDEVICE - - - - X -
+                  EG - - - - - X
+  ARCHIVE.UBUNTU.COM - - - - - S
+OLD-RELEASES.UBUNTU.COM - - - - - O

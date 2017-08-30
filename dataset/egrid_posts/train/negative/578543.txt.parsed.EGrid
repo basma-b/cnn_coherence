@@ -1,0 +1,17 @@
+              UBUNTU X - - - -
+           PARTITION X X - - -
+                SDA4 X - - - -
+                TYPE X - O O -
+               MOUNT X - - - -
+               POINT O - - O -
+          FILESYSTEM - - X - -
+                FILE - - - X -
+                VFAT - - - X -
+                SUDO - - - X -
+               FDISK - - - X -
+                  -L - - - S -
+              /MEDIA - - - X -
+           WAN_IF/IP - - - - X
+           LAN_IF/IP - - - - O
+             ADDRESS - - - - O
+              BOTTOM - - - - X

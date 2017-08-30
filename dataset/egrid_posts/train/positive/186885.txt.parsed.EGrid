@@ -1,0 +1,12 @@
+               CHECK X - - - - - -
+               DMESG S - - - - - -
+              DEVICE S - - S - - -
+                SUDO - - - S - - X
+            QUESTION - - - O - - -
+                NAME - - - S - - -
+            WIRELESS - - - X - - -
+             NETWORK - - - X - - X
+                 KEY - - - - X - -
+                 TRY - - - - - X -
+                CARD - - - - - - O
+            IWCONFIG - - - - - - X

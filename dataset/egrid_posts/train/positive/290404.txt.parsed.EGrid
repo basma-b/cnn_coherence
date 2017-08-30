@@ -1,0 +1,17 @@
+         ~/.SOMEFILE O - - - - - - - - -
+                LINK X - - - S S - O - -
+          ~/SOMEFILE X - - - - - - - - -
+                 CWD - S S S - - - - - -
+            SOMEFILE - - - S - - - - - -
+           DIRECTORY - - - X - X - X - -
+               RIGHT - - - X - - - - - -
+                   ~ - - - - X - - - - -
+               ERROR - - - - - X - - - -
+                  .. - - - - - - O - - -
+                /DIR - - - - - - X - - -
+             COMMAND - - - - - - X O - -
+                BLAH - - - - - - - X - -
+               STUFF - - - - - - - S - -
+                WAYS - - - - - - - - X -
+        ~/SOME/OTHER - - - - - - - - S -
+                 PWD - - - - - - - - - X

@@ -1,0 +1,5 @@
+           DENYHOSTS O - -
+          INTERFACES X - -
+             PACKAGE O - -
+                HTTP - - X
+//DENYHOSTS.SOURCEFORGE.NET/ - - X

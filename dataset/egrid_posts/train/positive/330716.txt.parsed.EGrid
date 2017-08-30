@@ -1,0 +1,24 @@
+             SOMEONE S - - - - - -
+              MINUTE O - - - - - -
+            WIRELESS X X - - - - -
+                CARD O S - - - - -
+                THAT - O S - - - -
+            COMPUTER - X - - - - -
+               TODAY - X - - - - -
+     NETWORK-MANAGER - X - - - - -
+              SYSTEM - X - - - - -
+             NETWORK - X - - - - -
+               LSPCI - X - - - - -
+            IWCONFIG - X - - - - -
+             ATHEROS - - X - - - -
+             CHIPSET - - O - - - -
+             MADWIFI - - O - - - -
+/ETC/NETWORK/INTEFACES - - O - - - -
+           INTERFACE - - - S - - -
+                LIST - - - X - - -
+                AUTO - - - X - - -
+                ATH0 - - - O S - -
+                INET - - - X - - -
+                DHCP - - - X - - -
+              ATH0UP - - - X - - -
+/ETC/NETWORK/INTERFACES - - - - - - X

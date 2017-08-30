@@ -1,0 +1,27 @@
+            LANGUAGE X - - - - - -
+              UBUNTU O - - - - - -
+                THIS - S S - - - -
+              CHANGE - O - - - - -
+                 MAC - X - - - - -
+                   < - - X - - - -
+              SCREEN - - X - - - -
+                 USE - - X - - - -
+         NDISWRAPPER - - X - - - -
+              DRIVER - - X - O - X
+            WIRELESS - - X - - - -
+             ADAPTER - - X - - - -
+              SYSTEM - - S - - - -
+                BOOT - - X O - - -
+                  CD - - - X X - -
+                 WAY - - - - X - -
+          NDISWRAPER - - - - O - -
+                THAT - - - - - O -
+               ERROR - - - - - O X
+          VALIDATION - - - - - - X
+                DATA - - - - - - X
+                FILE - - - - - - X
+/ETC/X11/XORG.CONF/NDEVICE - - - - - - X
+             SECTION - - - - - - X
+             DEFAULT - - - - - - X
+              DEVICE - - - - - - S
+                LINE - - - - - - O

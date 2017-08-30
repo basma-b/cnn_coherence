@@ -1,0 +1,13 @@
+               HOWTO X - - - - - - - -
+                GRUB X - - - - - - - -
+               WHERE - X - - - - - - -
+                SUDU - X - - - - - - -
+   /DEV/YOURHARDDISK - S - - - - - - -
+         UPDATE-GRUB - O - - - - X - -
+             KNOPPIX - - X - - - - - -
+              UBUNTU - - S - - - - - -
+            MENU.LST - - - - - X - - -
+ /BOOT/GRUB/MENU.LST - - - - - - S - -
+          PERMISSION - - - - - - O - S
+                INFO - - - - - - O - -
+           /DEV/NULL - - - - - - - - X

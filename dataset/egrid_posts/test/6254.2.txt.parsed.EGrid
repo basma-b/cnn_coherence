@@ -1,0 +1,8 @@
+/OMD/SITES/O/ETC/NAGIOS/CONF.D/ O - - - - -
+           DIRECTORY X - - - - -
+                LINK O - - - - -
+              TARGET - O - - - -
+           ARGUMENTS - - S - - -
+             FIREFOX - - - - - X
+              CONFIG - - - - - X
+                FILE - - - - - O

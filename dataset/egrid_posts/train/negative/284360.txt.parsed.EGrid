@@ -1,0 +1,22 @@
+               CLICK X - - - - - - - - - - - -
+            RESTRICT X - - - - - - - - - - - -
+              DRIVER X - - - X - - - - - - - -
+             MANAGER X - - - O - - - - - - - -
+             DRIVERS S - - - - - - - - - S - -
+                WHAT - - O - - - - - - - - - -
+-RESTRICTED-MODULES-2.6.20-15-386 - - - - - O - - - - - - -
+              KERNEL - - - - - O - O - O - - -
+                WORK - - - - - - - X - - - - -
+                 HMM - - - - - - - - - X - - -
+                  OK - - - - - - - - - O - - -
+                SUDO - - - - - - - - - X - - -
+             APT-GET - - - - - - - - - X - - -
+LINUX-RESTRICTED-MODULES-2.6.20-15-386 - - - - - - - - - O - - -
+                ONES - - - - - - - - - - O - -
+                 ONE - - - - - - - - - - X - -
+                   U - - - - - - - - - - S - -
+            GRAPHICS - - - - - - - - - - X - -
+                CARD - - - - - - - - - - X - -
+             SUDOERS - - - - - - - - - - - X -
+                LIST - - - - - - - - - - - X -
+              SERVER - - - - - - - - - - - X -

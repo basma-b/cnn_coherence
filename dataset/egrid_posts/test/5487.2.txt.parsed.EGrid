@@ -1,0 +1,13 @@
+              KERNEL X - - - - -
+               PANIC O - - - - -
+                SYNC X - - - - -
+               TIMER S - - - - -
+           INTERRUPT X - - - - -
+               TAINT O - - - - -
+               CHECK - X - - - -
+                   * - - - S - -
+               HOUSE - - - X - X
+                MINE - - - X - -
+                  AP - - - - S -
+              MIDDLE - - - - X -
+               CABLE - - - - - O

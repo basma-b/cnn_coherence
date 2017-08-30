@@ -1,0 +1,15 @@
+              LIVECD X - - - - -
+                 USE X - - - - -
+                SWAP X - - - - -
+           PARTITION X O - - - -
+           HARDDRIVE X X - - - -
+                  TY - X - - - -
+              FORMAT - X - - - -
+                GRUB - S - S - -
+              REMOVE - O - - - -
+                 MBR - - - X - -
+          PULSEAUDIO - - - - - X
+            SETTINGS - - - - - X
+             DEFAULT - - - - - X
+             BACKEND - - - - - S
+        APPLICATIONS - - - - - S

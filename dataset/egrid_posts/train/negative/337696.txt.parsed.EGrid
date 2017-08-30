@@ -1,0 +1,14 @@
+                TIME O - - -
+         RECONFIGURE X - - -
+        XSERVER-XORG O - - -
+               GNOME S - - -
+             WINDOWS O - - -
+              SCREEN O - - -
+               SPECS O - - -
+             MACHINE X - - -
+                CPIO - - X -
+                COPY - - X -
+                FILE - - X -
+                TREE - - X -
+                USER - - - X
+                DATA - - - O

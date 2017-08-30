@@ -1,0 +1,9 @@
+             SYMLINK O - -
+            /DEV/DVD - S -
+          /DEV/CDROM - X -
+            WHATEVER - X -
+              DEVICE - S -
+                NEED - O -
+             RESTART - X -
+                   U - - X
+              SCRIPT - - X

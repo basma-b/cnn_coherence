@@ -1,0 +1,24 @@
+            QUESTION - X - - - - - - - - -
+             PROGRAM - O - - - - - - - - -
+                 RAM - X - - - - - - - - -
+                   + - X - - - - - - - - -
+                SWAP - O X X - - X - - - -
+           PARTITION - - X O - - - - - - -
+                WORK - - X - - - - - - - -
+              SWAPON - - - X - X - - - - -
+                   > - - - O - - - - - - -
+               /TMP/ - - - S - - - - - - -
+      /HOME/TEMPSWAP - - - - X - - - - - -
+                   $ - - - - - X - - - - -
+                USER - - - - - - X - - - -
+           DIRECTORY - - - - - - X - - X -
+                ROOT - - - - - - - X - - X
+                KIND - - - - - - - O - - -
+            SOLUTION - - - - - - - X - - -
+           /TEMPSWAP - - - - - - - X - X X
+              MKSWAP - - - - - - - X - - X
+             SWAWPON - - - - - - - X - - -
+                CALL - - - - - - - - - X -
+               MKDIR - - - - - - - - - - O
+/TMPSWAP/SWAPFILENAME - - - - - - - - - - X
+/TEMPSWAP/SWAPFILENAME - - - - - - - - - - X

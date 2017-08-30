@@ -1,0 +1,8 @@
+        SYSV-RC-CONF X - - - - -
+                  CD - X - - - -
+           /ETC/INIT - X - - - -
+            RUNLEVEL - X - - - -
+/ETC/INIT.D/SOMETHING - - - - S -
+                THIS - - - - - X
+              EFFECT - - - - - X
+              REBOOT - - - - - X

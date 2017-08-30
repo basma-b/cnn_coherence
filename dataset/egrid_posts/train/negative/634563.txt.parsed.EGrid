@@ -1,0 +1,10 @@
+             DEFAULT X - -
+             CONFIGS O S -
+             APACHE2 - O -
+             APT-GET - S -
+               PURGE - X -
+                PART - O -
+       APACHE-COMMON - X -
+           SOMETHING - X -
+               THERE - - S
+         AUTOMAKE1.9 - - X

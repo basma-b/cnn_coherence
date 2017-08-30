@@ -1,0 +1,13 @@
+                SWAP X X - - - - - - -
+           PARTITION X X - X - - - - -
+                 FAT X X - - - - - - -
+                NTFS X X - - - - - - -
+                DATA S S - - - - - - -
+                 USE - - - X - - - - -
+                  1. - - - X - - - - -
+              CFDISK - - - O - - - - -
+                 ANS - - - X - - - - -
+              SWAPON - - - X - - - - -
+                  2. - - - - S - - - -
+                HTTP - - - - - - - - X
+//LANGFELDT.NET/DNS-HOWTO/BIND-9/ - - - - - - - - X

@@ -1,0 +1,9 @@
+           DIRECTORY O O - - -
+                ROOT X X - - -
+                PERM X X - - -
+                THIS - - O - -
+             VAR/WWW - - - - O
+              APACHE - - - - X
+              SERVER - - - - X
+                FILE - - - - O
+                 WWW - - - - X

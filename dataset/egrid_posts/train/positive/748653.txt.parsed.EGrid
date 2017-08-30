@@ -1,0 +1,7 @@
+           BADBLOCKS S -
+              MKE2FS X -
+              OPTION O -
+                TIME - X
+               WHILE - O
+           INTEGRITY - X
+                TEST - X

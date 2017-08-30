@@ -1,0 +1,28 @@
+         ENVIRONMENT - S - - - - - - - -
+                THIS - S O - - - O - - -
+                 MSG - O - - - - - - - -
+         POLICY-RC.D - S - - - - - - - -
+           EXECUTION - O - - - - - - - -
+            STOP.” - X - - - - - - - -
+             CHROOTS - X - - - - - - - -
+             SELINUX - - - S - - - - - -
+            APPARMOR - - - X - - - - - -
+              CHROOT - - - - X - - - - -
+                JAIL - - - - X - - - - -
+             PROCESS - - - - O - - X - -
+              SYSTEM - - - - S - - - - -
+            APTITUDE - - - - S - - - - -
+                 W/O - - - - S - - - - -
+           SOMETHING - - - - - S - - - -
+         DEBOOTSTRAP - - - - - X - - - -
+   “LTSP-CHROOT” - - - - - - X - - -
+                WIRE - - - - - - O - - -
+                 ONE - - - - - - X - - -
+              CLIENT - - - - - - X - - -
+               IMAGE - - - - - - X - - -
+        ENVIRONMENTS - - - - - - X - - -
+                MESS - - - - - - - O - -
+                HTTP - - - - - - - - - X
+//PEOPLE.DEBIAN.ORG/~HMH/INVOKERC.D-POLICYRC.D-SPECIFICATION.TXT - - - - - - - - - X
+               HTTPS - - - - - - - - - X
+//WWW.DEBIAN-ADMINISTRATION.ORG/ARTICLE/426/INSTALLING_NEW_DEBIAN_SYSTEMS_WITH_DEBOOTSTRAP - - - - - - - - - X

@@ -1,0 +1,16 @@
+                GRUB S X - - -
+                  .. O - - - -
+                DISC X - - - -
+             PROBLEM O - - - -
+              SERVER S - - - -
+                FSCK X - - - -
+                BOOT O X - - -
+              LIVECD X - - - -
+               DRIVE O - - S -
+            ANYTHING - X - - -
+              SYSTEM - O - - S
+                ACPI - - O - -
+                ATA1 - - - O -
+                SRST - - - S -
+                TEST - - - - O
+             FIREFOX - - - - S

@@ -1,0 +1,17 @@
+                TIME X - - - -
+                   > S - - - -
+                READ X - - - -
+                FILE S - - - -
+                LINE X X - - -
+               ERROR O - - - -
+               START O - - - -
+                ROOT X X - - -
+         PERMISSIONS - O - - -
+                BIND - X - - -
+                PORT - X - - -
+       INCLUDE_SHELL - S - - -
+              BEFOER - S - - -
+             COMMENT - - O - -
+               THERE - - S - -
+          BITTORNADO - - - X -
+             COMMAND - - - - O

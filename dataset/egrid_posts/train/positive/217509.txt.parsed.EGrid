@@ -1,0 +1,10 @@
+                FILE X - - - - - - - - - - - -
+             SYSTEMS X - - - - - - - - - - - -
+               FSTAB - - - - X - - - - - - - -
+                FSCK - - - - - - O - - - - - -
+               CHECK - - - - - - - - O - - - -
+                BOOT - - - - - - - - X - - - -
+           PARTITION - - - - - - - - S - - - -
+              DAMAGE - - - - - - - - S - - - -
+             WINDOWS - - - - - - - - X - - - -
+           SOMETHING - - - - - - - - X - - - -

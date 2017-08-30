@@ -1,0 +1,7 @@
+       MKFS.REISERFS O -
+              SYSTEM X -
+            REISERFS X -
+               PROGS S -
+                 XCP - S
+              SERVER - O
+       INSTALLATIONS - X

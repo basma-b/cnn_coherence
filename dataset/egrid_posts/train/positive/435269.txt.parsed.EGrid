@@ -1,0 +1,16 @@
+                TIME X - - -
+              SCRIPT S - - -
+            DDCLIENT X - - -
+              SYSTEM X - - -
+               START X - - -
+       /ETC/RC.LOCAL - S - -
+            BINARIES - X - X
+           LIBRARIES - O - O
+             FIREFOX - X - -
+          EVERYTHING - O - -
+             MOZILLA - - - S
+              INSTAL - - - X
+           SOMETHING - - - O
+             PACKAGE - - - X
+             MANAGER - - - X
+                 YES - - - X

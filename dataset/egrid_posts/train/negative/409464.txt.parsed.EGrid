@@ -1,0 +1,19 @@
+                WPA2 S - - - - - - -
+                 WPA X - X - - - - -
+          SUPPLICANT X - - - - - - -
+/ETC/NETWORK/INTERFACES X - X - - - - -
+                  NM - X - - - - - -
+               BREAK - S - - - - - -
+       NETWORK-ADMIN - S - - - - - -
+                   > - O - - - - - -
+                WORK - X - - - - - -
+               CHECK - X - - - - - -
+             SYSTEM- - S - - - - - -
+            SESSIONS - X - - - - - -
+             STARTUP - X - - - - - -
+             PROGRAM - O - - - - - -
+              APPLET - - O - - - - -
+              ANYONE - - S - - - - -
+                 BUG - - - - O - - -
+              OUTPUT - - - - - - X -
+                SURE - - - - - - - X

@@ -1,0 +1,16 @@
+              ANYONE X - - - - - - - -
+           PARAMETER X - - - - - - - -
+             NETWORK X - - - - - - - -
+            INTEFACE O - - - - - - - -
+               DHCPD S - - - - - - - -
+           INTERFACE - X - - - - - - -
+          CONNECTION - X - - - - - - -
+                ETH1 - - - O - - - - -
+            WIRELESS - - - X - - - - -
+              SERVER - - - O - O - - -
+                ETH0 - - - X - - - - -
+                 HMM - - - - X - - - -
+           DHCPDARGS - - - - O - - - -
+                THIS - - - - S - - - -
+              LAPTOP - - - - - X - - -
+                  NP - - - - - - - - X

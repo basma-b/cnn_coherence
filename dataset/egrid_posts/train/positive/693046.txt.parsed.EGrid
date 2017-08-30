@@ -1,0 +1,11 @@
+                  DD X - - -
+       OF=IMAGE-FILE X - - -
+               MOUNT X - - -
+               IMAGE O - - -
+           PARTITION X - - O
+                NTFS X - - -
+                LOOP X - - -
+   /MEDIA/MOUNTPOINT O - - -
+            QUESTION - - - O
+                COPY - - - X
+                CASE - - - X

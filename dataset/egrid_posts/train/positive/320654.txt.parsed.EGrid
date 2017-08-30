@@ -1,0 +1,20 @@
+                DATA - X - - - - -
+           PARTITION - X - - O - -
+                NTFS - O - - - - -
+          PROPERTIES - - O - - - -
+               OWNER - - S - - - -
+                ROOT - - X - - - -
+                USER - - X - X - X
+                THIS - - - S - - -
+             OPTIONS - - - O - - -
+         PERMISSIONS - - - - X - -
+              THANKS - - - - X - -
+                 LOT - - - - S - -
+//WWW.PSYCHOCATS.NET/UBUNTU/MOUNTWINDOWS - - - - S - -
+              CONFIG - - - - X - -
+                FILE - - - - O - -
+               CHMOD - - - - - - S
+                PERM - - - - - - O
+             SESSION - - - - - - X
+              SYSTEM - - - - - - O
+               DRIVE - - - - - - O

@@ -1,0 +1,19 @@
+                 HMM X - -
+            ANYTHING O O -
+             APT-GET O - -
+          EVERYTHING X - -
+                 USE X - -
+                TURN X - -
+                DPKG S - X
+             PACKAGE O - -
+               BREAK - O -
+                 APT - S -
+            DOWNLOAD - X -
+            CONFLICT - X -
+RESOLUTION/DEPENDENCY - O -
+               SHARE - X -
+              PYTHON - O X
+              SYSTEM - X -
+              ANUBIS - - X
+                SUDO - - X
+         RECONFIGURE - - X

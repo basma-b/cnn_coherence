@@ -1,0 +1,13 @@
+          HTTPD.CONF S - - - - - - -
+       RERWITEENGINE - X - - - - - -
+                TEXT - X - - - - - -
+            .HTACCES - - O - - - - -
+               STUFF - - - - O - - -
+SITES-ENABLED/DEFAULT - - - - X - - -
+              OPTION - - - - S - - -
+           .HTACCESS - - - - X - - -
+                 ONE - - - - X - - -
+              APACHE - - - - - - X -
+                FILE - - - - - - - S
+              CONFIG - - - - - - - X
+              FOLDER - - - - - - - X

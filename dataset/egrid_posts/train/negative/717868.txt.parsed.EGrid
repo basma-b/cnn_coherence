@@ -1,0 +1,24 @@
+           PARTITION X - - - - - -
+                SUDO - S - - - - -
+       /DEV/MYDEVICE - O - - - - -
+                 -RI - - X - - - -
+             PATTERN - - X - O - -
+       /MOUNT/POINT/ - - S - - - -
+                FILE - - X - X - -
+              DEVICE - - X - X - -
+                DATA - - - S - - -
+               DRIVE - - - X - - -
+             POINTER - - - S - - -
+              REMOVE - - - O - - -
+               THING - - - - S - -
+             SECTORS - - - - O - -
+                GREP - - - - - X -
+         FILESYSTEMS - - - - - X -
+           SOMETHING - - - - - X -
+                -ABC - - - - - X -
+SOMEINFORMATIONYOUREMEMBER - - - - - X -
+                   > - - - - - X -
+             COMMAND - - - - - - X
+            IFCONFIG - - - - - - X
+            IWCONFIG - - - - - - S
+                CARD - - - - - - O

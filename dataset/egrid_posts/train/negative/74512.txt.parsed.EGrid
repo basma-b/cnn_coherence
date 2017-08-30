@@ -1,0 +1,18 @@
+              SCRIPT X - - - - - -
+                NAME - X - - - - -
+         /ETC/INIT.D - X - - - - -
+             DEFAULT - O - - O - -
+             COMMAND - X - - - - -
+                BOOT - X - - - - -
+                  .. - - X - - - -
+                DONT - - - X - - -
+                SUDO - - - - X - -
+         UPDATE-RC.D - - - - S - -
+             MESSAGE - - - - O - -
+              SYSTEM - - - - X - -
+             STARTUP - - - - X - -
+                LINK - - - - X - -
+/ETC/INIT.D/BOOTMISC.SH - - - - S - -
+                THAT - - - - - - O
+              LIVECD - - - - - - O
+               AVAIL - - - - - - X

@@ -1,0 +1,28 @@
+            INTERNET - X X - - X
+                 RUN - X - - - -
+                   X - - S O - -
+             NOTHING - - O - - -
+         CONNECTIONS - - X - - -
+              BROWSE - - O - - -
+              LINKS2 - - X - - -
+        FRAMEBUFFERS - - S - - -
+               IMAGE - - O - - -
+                KIND - - X - - -
+          ENCRYPTION - - X - - -
+                 USE - - X - - -
+            IFCONFIG - - - X - -
+            IWCONFIG - - - X - -
+      WPA_SUPPLICANT - - - X - -
+             NETWORK - - - O - -
+/ETC/NETWORK/INTERFACES - - - O X -
+               HTTPS - - - X - -
+//HELP.UBUNTU.COM/COMMUNITY/WIFIDOCS/WPAHOWTO - - - X - -
+                  .. - - - O - -
+          CONNECTION - - - X S O
+.ETC.NETWORK/INTERFACES - - - X - -
+              SYSTEM - - - - X -
+               START - - - - X -
+/ETC/INIT.D/NETWORKING - - - - S -
+             RESTART - - - - O -
+                CASE - - - - - S
+           NM-APPLET - - - - - S

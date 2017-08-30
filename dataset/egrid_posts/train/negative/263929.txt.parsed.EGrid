@@ -1,0 +1,14 @@
+           LOGSENTRY S - - - - -
+              CHOICE O - - - - -
+                GRUB S - - - - -
+             COMMAND X - - - - -
+                LINE O - - - - -
+                WORK X - - - - -
+               FDISK X - - - - -
+                 -LU S - - - - -
+                 HDD X - - - - -
+                PART O X - - - -
+                DISK X X - - - -
+           PARTITION - X - - - -
+                ROOT - - - S - -
+                 NAH - - - - - X

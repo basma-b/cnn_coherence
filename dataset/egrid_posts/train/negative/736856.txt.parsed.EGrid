@@ -1,0 +1,10 @@
+                SUDO X X -
+                FSCK O O -
+           /DEV/SDA5 O O -
+              VOLUME X X -
+               ERROR O O -
+         FSCK.LVM2PV O S -
+                  CD X - -
+                CANT O - -
+                WORK X - -
+                   * - - O

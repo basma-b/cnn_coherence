@@ -1,0 +1,11 @@
+                LINK O - - - - - - -
+                FILE X - - - - - - -
+             ANOTHER X - - - - - - -
+/VAR/RUN/MYSQLD/MYSQL.SOCK - S - - - - - -
+                 YES - - - - S - - -
+              TARGET - - - - X - - -
+                   > - - - - O - - -
+                  LN - - - - - O S -
+                 MAN - - - - - X - -
+                INFO - - - - - X - -
+                WORK - - - - - - O -

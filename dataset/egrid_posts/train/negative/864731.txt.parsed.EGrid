@@ -1,0 +1,29 @@
+                DATE X - - - - - - -
+                TIME O - - - - - - -
+          CONCLUSION X - - - - - - -
+              KERNEL S X S X - - - -
+               DMESG S - - - - - - -
+DISTRIB_DESCRIPTION= S - - - - - - -
+              UBUNTU O - - - - - - -
+          PARAMETERS O O - - - - - -
+                 CAN - X - - - - - -
+                BOOT - S - - - - - -
+            UBUNTUTM - O - - - - - -
+           SEGFAULTS - X - - - - - -
+                INIT - X - - - - - -
+                GRUB - - O - - - - -
+                0.97 - - X - - - - -
+                JUNK - - S - - - - -
+                  ED - - X - - - - -
+       DIFFS/PATCHES - - O - - - - -
+             VANILLA - - X - - - - -
+           CHOCOLATE - - X - - - - -
+             KERNELS - - O S - - - -
+               TOOOO - - - O - - - -
+                 TOY - - - X - - - -
+         COMPILATION - - - X - - - -
+          VIRTUALBOX - - - X - - - -
+GNOME-CONTROL-CENTER - - - - - - O -
+            SETTINGS - - - - - - O -
+               GCONF - - - - - - - X
+           GTKRC-2.0 - - - - - - - X

@@ -1,0 +1,17 @@
+     DESKTOP-EFFECTS O - - -
+              COMPIZ X - - -
+              FUSION O - - -
+      UBUNTU-DESKTOP O S O -
+         METAPACKAGE - O - -
+                LIST - X - -
+             PACKAGE - X - -
+             RELEASE - - X -
+            HARDWARE - - - X
+                 BUG - - - X
+                BIOS - - - X
+           SOMETHING - - - O
+                 MBR - - - O
+                SUDO - - - X
+             APT-GET - - - S
+              UPDATE - - - S
+UBUNTU-RESTRICTED-EXTRAS - - - O

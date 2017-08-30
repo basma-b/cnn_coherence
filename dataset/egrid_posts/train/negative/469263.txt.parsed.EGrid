@@ -1,0 +1,30 @@
+                  IP - O - - - - - - -
+/ETC/NETWORK/INTERFACES - X - - - - - - -
+            SEQUENCE - O - - - - - - -
+               ORDER - X - - - - - - -
+            INTERNET - S - - - - - - -
+            IFCONFIG - S - - X - - - -
+             NETMASK - X - - - - - - -
+               ROUTE - S - - X - - - -
+             DEFAULT - X - - - - - - -
+                  GW - O - - - - - - -
+               THERE - - X - - - - S -
+                 WAY - - X - - - - - -
+                WORK - - - X - - - - -
+/ETC/INIT.D/NETWORKING - - - X - - - - -
+               ERROR - - - X - - - - -
+              MOMENT - - - - X - - - -
+       CONFIGURATION - - - - X - - - -
+                ETH0 - - - - - X - - -
+                LINE - - - - - O - - O
+                AUTO - - - - - X - - -
+             MPLAYER - - - - - - X - X
+              CHANCE - - - - - - - O -
+                 SUB - - - - - - - X O
+               UTF-8 - - - - - - - O -
+                NAME - - - - - - - - X
+               VIDEO - - - - - - - - X
+            EXTESION - - - - - - - - O
+                .SMI - - - - - - - - X
+                FILE - - - - - - - - O
+             COMMAND - - - - - - - - X

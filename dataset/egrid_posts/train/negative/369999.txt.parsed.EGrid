@@ -1,0 +1,16 @@
+             COMMAND X - - -
+  ETC/RESOLVE.CONFIG X - - -
+               .CONF X - - -
+             PURPOSE - - X -
+              DOESNT - - X -
+                 WAN - - O -
+            ETHERNET - - O -
+                   S - - X -
+                CARD - - - O
+                 WOL - - - O
+              SEARCH - - - X
+              GOOGLE - - - X
+             REALTEK - - - X
+             EXAMPLE - - - X
+              BRIDGE - - - O
+                THIS - - - S

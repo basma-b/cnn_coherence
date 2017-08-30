@@ -1,0 +1,9 @@
+                FILE X - - -
+               NGINX X - - -
+           ERROR.LOG S - - -
+                 CAT - - X -
+           /DEV/NULL - - X -
+                   > - - X -
+/USR/LOCAL/NGINX/LOGS/ERROR.LOG - - X -
+          PERMISSION - - X -
+                MATE - - - O

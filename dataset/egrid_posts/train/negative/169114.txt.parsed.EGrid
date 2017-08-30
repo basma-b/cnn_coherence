@@ -1,0 +1,12 @@
+            AUTOLOAD S - S - - -
+LIBAUDACIOUS.SO.3.0.0 S - S - - -
+               SHARE X - X - - -
+              OBJECT X - X - - -
+                FILE O X O X - -
+           DIRECTORY X - X - - -
+                   < X X X X - -
+              PLUGIN O - O - - -
+      /USR/LOCAL/LIB - - - - O -
+     /ETC/LD.SO.CONF - - - - X -
+            LDCONFIG - - - - O -
+               CHEER - - - - - X

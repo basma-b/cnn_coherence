@@ -1,0 +1,15 @@
+            DHCLIENT - S - - - - -
+           INTERFACE - X - - - - -
+                TYPE - - S - - - -
+            IFCONFIG - - X X - - -
+                  LO - - O - - - -
+                DHCP - - X - - - -
+             NETWORK - - X - - - -
+                ETH0 - - X S - - -
+                LIST - - - O - - -
+              MODULE - - - O - - -
+            OFFICIAL - - - - X - -
+               YAHOO - - - - S O O
+               LINUX - - - - X - -
+              CLIENT - - - - - X -
+              PIDGIN - - - - - - S

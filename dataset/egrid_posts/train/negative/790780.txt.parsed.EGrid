@@ -1,0 +1,17 @@
+                   | - O - - - - - - - - -
+               HABIT - - O - - - - - - - -
+                THEN - - - X - - - - - - -
+           GSTREAMER - - - S - S - - - - -
+             PLUGINS - - - O - - - X - - -
+            ELEMENTS - - - S S - - O - - -
+        FAKESRC/SINK - - - O - - - - - - -
+         GST-INSPECT - - - - O - - - - - -
+                LIST - - - - O - - - - - -
+/USR/LIBS/GSTREAMER-0.10 - - - - - S - - - - -
+                 .SO - - - - - X - - - - -
+                  .. - - - - - - O - - - -
+                 ALL - - - - - - - O - - -
+              RETURN - - - - - - - O - - -
+                  PC - - - - - - - - - O -
+                NEED - - - - - - - - - - X
+              ROUTER - - - - - - - - - - X

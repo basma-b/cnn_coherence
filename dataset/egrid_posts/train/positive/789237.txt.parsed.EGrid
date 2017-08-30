@@ -1,0 +1,12 @@
+             PROBLEM O - - - - -
+                TYPE X S - - - -
+      ./FILENAME.BIN X X - - - -
+                BASH O - - - - -
+                FILE - X O - - X
+           DIRECTORY - X - - - -
+                   | - X - - - -
+               CHMOD - X - - - -
+                  +X - O - - - -
+              SCRIPT - - - X - -
+            LANGUAGE - - - - X -
+        FILENAME.BIN - - - - - X

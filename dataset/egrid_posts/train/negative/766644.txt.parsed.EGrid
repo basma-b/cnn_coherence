@@ -1,0 +1,26 @@
+                WORK X X - - - - - - -
+                 DAY O O - - - - - - -
+               TODAY O O - - - - - - -
+             WEBSITE X X - - - - - - -
+                TYPE X X - - - - - - -
+DOMAINNAME/INDEX.PHP X X - - - - - - -
+                FILE O O X - S - - - -
+              REASON X X - - - - - - -
+               START - O - - - - - - -
+                  OS - O - - - - - - -
+         APACHE.CONF - - X - - - - - -
+                 ERM - - - O - - - - -
+          HTTPD.CONF - - - X - - - - -
+                 PHP - - - - O - - - -
+        APACHE2.CONF - - - - O - - - -
+/ETC/APACHE2/APACHE2.CONF - - - - X - - - -
+                CONF - - - - X - - - -
+           PHP5.CONF - - - - - X - - -
+           PHP5.LOAD - - - - - S - - -
+                SUDO - - - - - - S - -
+                PHP5 - - - - - - X - -
+             A2ENMOD - - - - - - X - -
+ /ETC/INIT.D/APACHE2 - - - - - - S - -
+               FROST - - - - - - - - S
+                LIME - - - - - - - - X
+               CLONE - - - - - - - - X

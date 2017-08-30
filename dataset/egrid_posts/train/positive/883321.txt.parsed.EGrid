@@ -1,0 +1,17 @@
+                 HIT X - - - -
+         CTRL+ALT+F1 S - - - -
+                 CLI X - - - -
+               LOGIN X - - - -
+              SCREEN X - - - -
+               /HOME - - O - O
+                ROOT - - - X -
+                  .. - - - X -
+            ANYTHING - - - O -
+                USER - - - X X
+                HOME - - - O -
+               CHOWN - - - - X
+                SUDO - - - - X
+            YOURUSER - - - - X
+     /HOME/YOURUSER/ - - - - S
+            USERNAME - - - - X
+       CIRCUMSTANCES - - - - X

@@ -1,0 +1,10 @@
+               FSTAB X S -
+           PARTITION O S -
+                BOOT X - -
+                SDA2 - S -
+               ENTRY - O -
+               /BOOT - S -
+                   / - X -
+              UBUNTU - O -
+                JRIB - - X
+                CLUE - - X

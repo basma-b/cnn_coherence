@@ -1,0 +1,13 @@
+               ERROR O - - - - -
+         /ETC/PASSWD O - - - - -
+                USER O - - - - -
+               ADMIN X - - - - -
+               GROUP X - - - - -
+            RECOVERY X - - - - -
+               SHELL X - - - - -
+                THIS X - - - - -
+          FILESYSTEM - S - - - -
+             COMMAND - X - - - -
+             REMOUNT - - X - - -
+                   / - - X - - -
+              PERSON - - - X - -

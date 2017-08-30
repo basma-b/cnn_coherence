@@ -1,0 +1,8 @@
+                 ADJ X - -
+                GRUB O - -
+           PARTITION X X -
+                 MBR - X -
+ /BOOT/GRUB/MENU.LST - X -
+        GRUB-INSTALL - X -
+            /DEV/HDA - S -
+                DISK - O -

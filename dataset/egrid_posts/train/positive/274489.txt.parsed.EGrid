@@ -1,0 +1,15 @@
+               IDEAS X - - -
+        GRUB-INSTALL - O - -
+            /DEV/SDA - S - -
+              DEVICE - - X -
+               /BOOT - - X -
+              CHROOT - - - X
+             ALRIGHT - - - S
+                BIND - - - O
+                SUDO - - - X
+   /PATHTOCHROOT/DEV - - - S
+              /PROC/ - - - X
+ /PATHTOCHROOT/PROC/ - - - O
+                BOOT - - - X
+           PARTITION - - - S
+  /PATHTOCHROOT/BOOT - - - X

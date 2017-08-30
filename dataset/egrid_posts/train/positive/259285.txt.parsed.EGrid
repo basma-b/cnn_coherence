@@ -1,0 +1,29 @@
+                TIME X - - - - - - - -
+                WIRE O X - X - X - - -
+          CONNECTION O O - O - - - - -
+            WIRELESS X X - X - O - - -
+            INTERNET X X - X - - - - -
+              ACCESS O X - - - - - - -
+              UBUNTU S S - S - - - - -
+              NOBODY - - X - - - - - -
+                 LAN - - - X - - - - -
+                 WAP - - - X - - - - -
+                THAT - - - - X O - X -
+NETWORK-MANAGER-GNOME - - - - - S - - -
+               CABLE - - - - - O - - -
+           NM-APPLET - - - - - O - - -
+            TERMINAL - - - - - X - - -
+             NETWORK - - - - - X - - -
+             CONFIGS - - - - - O - - -
+/ETC/NETWORK/INTERFACES - - - - - X - - -
+                  NM - - - - - S - - -
+                BOOT - - - - - X - - -
+               LOGIN - - - - - X - - -
+          EVERYTHING - - - - - O - - -
+          INTERFACES - - - - - X - - -
+                 USE - - - - - - X - -
+                  LO - - - - - - X - S
+               BERYL - - - - - - O - S
+                 RUN - - - - - - - X -
+              WINDOW - - - - - - - - X
+             MANAGER - - - - - - - - O

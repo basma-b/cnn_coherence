@@ -1,0 +1,10 @@
+             COMMAND X - - - - -
+                USER O - - - - -
+                SUDO X S - - - -
+               USERS X - - - - -
+               GROUP X - - - - -
+            USERNAME - O - - - -
+               ADMIN - O - - - -
+                HOOK - - - S - -
+                  CD - - - - X -
+              SEARCH - - - - O -

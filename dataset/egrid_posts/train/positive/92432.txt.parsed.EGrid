@@ -1,0 +1,26 @@
+          PERMISSION O - - -
+              ACCESS X - - -
+             /~USER/ O - - -
+               CHMOD X - X -
+                   X S - - -
+             EXAMPLE S - - -
+               CUSCO X - O -
+                FILE O - - -
+       ~/PUBLIC_HTML X - - -
+                TEST X - - -
+DOMAIN.COM/~USER/TEST X - - -
+               ERROR - X - -
+              DOMAIN - O - -
+             NAME/IP - X - -
+                USER - X - -
+            USERNAME - X - -
+         PUBLIC_HTML - - S -
+                   * - - X -
+          INDEX.HTML - - O -
+                  'T - - S -
+          HTTPD.CONF - - X -
+        APACHE2.CONF - - S -
+              MODULE - - X -
+                MASK - - X -
+           SOMETHING - - O -
+       /ETC/APACHE2/ - - - O

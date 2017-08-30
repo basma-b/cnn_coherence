@@ -1,0 +1,16 @@
+                 SUN X - -
+                 RPC X - -
+             PORTMAP X - -
+              ANYONE X - -
+                 USE - S -
+                 NFS - X -
+             NETWORK - X -
+                TIME - - O
+                NEED - - X
+                 TRY - - O
+         GRUB-REBOOT - - O
+               REBOT - - O
+               ENTRY - - S
+                GRUB - - X
+                SHOW - - O
+              KERNEL - - X

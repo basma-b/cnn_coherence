@@ -1,0 +1,8 @@
+             COMMAND X - - - -
+                TYPE X - - - -
+           COMPUTERS X - - - -
+        PING/REQUEST S - - - -
+                HTTP - - - O O
+              DEPEND - - - O -
+              OUTPUT - - - - O
+                  -A - - - - X

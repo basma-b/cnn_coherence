@@ -1,0 +1,36 @@
+              DISTRO X - - - - - -
+             UPGRADE O - - X - - -
+                GRUB X - - X X - -
+                  .. X - - - - - -
+                THIS X - - - - - -
+                BOOT - X - X X - -
+              LIVECD - - O - X - -
+             PROBLEM - - - S - - -
+              INSTAL - - - S - - -
+                 MBR - - - X - - -
+                SYNC - - - X - - -
+                 ONE - - - X - - -
+               /BOOT - - - X - - -
+                CD\\ - - - O - - -
+                DISK - - - O - - -
+                SUDO - - - X - - -
+DPKG-RECONFIGURE-GRUB-PC - - - O - - -
+               DRIVE - - - O - - -
+               GUIDE - - - - O - -
+                HTTP - - - - O - -
+//GRUB.ENBUG.ORG/GRUB2LIVECDINSTALLGUIDE - - - - O - -
+            ADDITION - - - - X - -
+        GRUB-INSTALL - - - - X - -
+        INSTRUCTIONS - - - - S - -
+             GRUB-PC - - - - O - -
+              CHROOT - - - - X - -
+                   R - - - - X - -
+              RESCUE - - - - X - -
+            TERMINAL - - - - S - -
+             COMMAND - - - - O - -
+               SHELL - - - - X - -
+             MODULES - - - - S - -
+             VERSION - - - - X - -
+            MISMATCH - - - - X - -
+               HD0,1 - - - - - - X
+                 FD0 - - - - - - O

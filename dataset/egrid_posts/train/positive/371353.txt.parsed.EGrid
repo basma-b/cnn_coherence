@@ -1,0 +1,16 @@
+                TIME X X - - X -
+               THERE X - - - - -
+                 WAY X - - - - -
+              STDOUT O - - - - -
+            TERMINAL X - X - - -
+                  .. - X X - - -
+                 CAT - S - - - -
+                 LOG - X - - - -
+                   / - S - - - -
+             COMMAND - - S - - -
+                 TEE - - X - - X
+             FOO.LOG - - O S - -
+              OUTPUT - - O - - -
+                 ONE - - - - O -
+               OTHER - - - - O -
+              SCRIPT - - - - - X

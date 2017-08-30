@@ -1,0 +1,24 @@
+             NOTHING S - - - - - - - - - - - - - -
+               THERE X - - - - - - - - - - - - - -
+            SYSADMIN - X - - - - - - - - - - - - -
+           WEBMASTER - X - - - - - - - - - - - - -
+               ABUSE - X - - - - - - - - - - - - -
+          POSTMASTER - X S - - - - - - - - - - - -
+                ROOT - X X S - - - - - - X - - - -
+              OTHERS - - X - - - - - - - - - - - -
+                 LOG - - - X - - - - - - - - - - -
+             MESSAGE - - - S - - - - - - - - - - -
+/ETC/POSTFIX/MAIN.CF - - - - - O - - - - - - - - -
+         PASTEBIN.CA - - - - - X - - - - - - - - -
+  //PASTEBIN.CA/9850 - - - - - - - S - - - - - - -
+                 THE - - - - - - - - S - - - - - -
+          MYHOSTNAME - - - - - - - - S - - - - - -
+             ADDRESS - - - - - - - - O - - - - - -
+             POSTFIX - - - - - - - - S - - - - - -
+                MAIL - - - - - - - - S - X - - S -
+                HOST - - - - - - - - O - - - - - -
+           SOMETHING - - - - - - - - - - - X - - -
+               RIGHT - - - - - - - - - - - O - - -
+              BOUNCE - - - - - - - - - - - - - S -
+        MYDOMAIN.COM - - - - - - - - - - - - - X -
+              SCRIPT - - - - - - - - - - - - - - X

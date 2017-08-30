@@ -1,0 +1,16 @@
+           PARTITION - O - -
+                BOOT - X - -
+              RESCUE - X - -
+                   > - X - -
+                MODE - X - -
+       /USR/INCLUDES - - - X
+        -X-LIBRARIES - - - X
+            /USR/LIB - - - O
+                XORG - - - X
+         DEVELOPMENT - - - X
+           LIBRARIES - - - S
+                SUDO - - - X
+             APT-GET - - - S
+               TRICK - - - O
+             COMMAND - - - X
+                LINE - - - X

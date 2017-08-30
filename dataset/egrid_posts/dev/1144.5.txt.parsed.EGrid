@@ -1,0 +1,12 @@
+            MODPROBE O X -
+              MODULE S O -
+                LOAD O - -
+               ISSUE O - -
+               SOUND X - -
+                SUDO - X X
+       SND-HDA-INTEL - X -
+               RMMOD - X -
+             OPTIONS - - S
+                 TEE - - X
+           /DEV/NULL - - X
+              REBOOT - - X

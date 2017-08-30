@@ -1,0 +1,10 @@
+                FILE - S X -
+                GZIP - - S -
+               BZIP2 - - S -
+     /ETC/MIME.TYPES - - X -
+                HTTP - - S -
+                SUDO - - - X
+             APT-GET - - - S
+/ETC/FIREFOX/FIREFOXRC - - - O
+        FIREFOX_DSP= - - - X
+                AOSS - - - X

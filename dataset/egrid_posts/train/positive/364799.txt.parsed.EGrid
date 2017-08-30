@@ -1,0 +1,16 @@
+               ROUTE X O O - X - X
+          EVERYTHING X - - - - - -
+           INTERFACE X - - - - - -
+             DEFAULT - X - - - - -
+                  IP - X - - - - -
+             GATEWAY - O - - - - -
+             COMMAND - X - - - - -
+         INFORMATION - - O - - - -
+              SYNTAX - - - X - - -
+            MAN-PAGE - - - - O - -
+                 ASK - - - - O - -
+                  .. - - - - - X -
+                 ONE - - - - - O -
+              SCRIPT - - - - - X -
+                TUN0 - - - - - - X
+                   * - - - - - - X

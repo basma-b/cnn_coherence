@@ -1,0 +1,8 @@
+             UNMOUNT X - - - -
+           PARTITION X - - - S
+              EXTEND - X - - -
+               MOUNT - - X - X
+               POINT - - X - O
+               ERROR - - - - O
+                 USE - - - - O
+                SWAP - - - - X

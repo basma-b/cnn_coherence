@@ -1,0 +1,15 @@
+              KERNEL X - - -
+               PANIC O - - -
+                SYNC X - - -
+               TIMER S - - -
+           INTERRUPT X - - -
+               TAINT O - - -
+                 RAM - X - -
+                 USE - X - -
+          MEMTEST86+ - X - -
+                 USB - X - -
+               CANON - - - S
+             SCANNER - - - O
+              HAVENT - - - S
+                 FIX - - - O
+             SUPPORT - - - X

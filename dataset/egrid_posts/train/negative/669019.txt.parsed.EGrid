@@ -1,0 +1,4 @@
+                 KMS X X - - -
+CONFIG_DRM_I915_KMS=Y X - - - -
+CONFIG_DRM_RADEON_KMS=Y X - - - -
+              KARMIC - X - - -

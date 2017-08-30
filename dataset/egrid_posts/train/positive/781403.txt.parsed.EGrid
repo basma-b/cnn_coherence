@@ -1,0 +1,14 @@
+                 ALL O - - - -
+                 USB X X - - -
+               DRIVE X - - - -
+              SERVER X - - - -
+                AUTO - X - - -
+            /DEV/SDB - X - - -
+                /MNT - X - - -
+          SUBSTITUTE - X - - -
+                 SDB - X - - -
+                DISK - X - - -
+              DEVICE - S X - -
+    /PROC/PARTITIONS - - X - -
+                TAIL - - X - -
+   /VAR/LOG/MESSAGES - - X - -

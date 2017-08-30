@@ -1,0 +1,15 @@
+                ROOT S - - - - - - -
+                 SRV O - - - - - - -
+         PERMISSIONS X - - - - - - -
+           DIRECTORY X X - - - - X -
+              WEBDEV - X - - - - - -
+               GROUP - X X - - - - S
+            ANYTHING - X - - - - - -
+                  ID - X O - - - - -
+                USER - X S - - - - -
+                LIST - X - - - - - -
+               SHELL - - S - - - - -
+         ENVIRONMENT - - X - - - - -
+        WEBDEV-GROUP - - - X - - - -
+             PROBLEM - - - - - O - -
+              CHANGE - - - - - - - S

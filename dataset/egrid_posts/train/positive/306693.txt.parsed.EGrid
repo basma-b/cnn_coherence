@@ -1,0 +1,13 @@
+           FETCHMAIL O - - -
+                CONF X - - -
+                FILE X - - -
+             DEFAULT - - X -
+                POLL - - X -
+           FREQUENCY - - O -
+             PACKAGE - - X -
+              UBUNTU - - X -
+               THERE - - S S
+             CRONTAB - - X -
+            INTERVAL - - - O
+/ETC/INIT.D/FETCHMAIL - - - O
+             SERVICE - - - X

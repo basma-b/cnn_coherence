@@ -1,0 +1,26 @@
+                 CAT X - - - - -
+/ETC/APT/SOURCES.LIST.D/ S - - - - -
+                 PPA S - - - - -
+           DIRECTORY X - - - - -
+                   > O - - - - -
+             CONTENT - O - - - -
+                FILE - X - - X -
+/ETC/SOURCES.LIST.D/ - X - - - -
+                PART - S - - - -
+   /ETC/SOURCES.LIST - X - - - -
+             PACKAGE - O - - - -
+                REPO - X - - X -
+    DESCRIPTIONS/ETC - - O - - -
+              FORMER - - - X - -
+         PACKAGES.GZ - - - - X -
+        PACKAGES.BZ2 - - - - X -
+                INFO - - - - X -
+         COMPRESSION - - - - X -
+            INSTANCE - - - - - X
+                PPAS - - - - - S
+           STRUCTURE - - - - - X
+         IDENTICALLY - - - - - O
+             VERSION - - - - - X
+               -RSB- - - - - - X
+                   / - - - - - X
+           COMPONENT - - - - - X

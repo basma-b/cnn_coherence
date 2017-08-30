@@ -1,0 +1,12 @@
+              FORMAT X - -
+              IRIVER X - -
+                VFAT X - -
+                  HI - X -
+                DENG - X -
+               FAT32 - O -
+                DISK - X -
+           MKFS.VFAT - S -
+       /DEV/YOURDISK - O -
+                THIS - - O
+               HTTPS - - O
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/XORG-SERVER/+BUG/183969/COMMENTS/8 - - O

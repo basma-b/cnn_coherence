@@ -1,0 +1,15 @@
+           PYTHON2.6 O - - -
+           PYTHON2.7 X - - -
+             DEFAULT X - - -
+              SYSTEM X - - -
+                DPKG - S - -
+                 DEB - X - -
+              PYTHON - X - -
+             VERSION - X - -
+               FORCE - - O -
+             NO-DEPS - - X -
+                CANT - - - X
+                 ACE - - - X
+                TEXT - - - X
+              EDITOR - - - X
+                GRUB - - - X

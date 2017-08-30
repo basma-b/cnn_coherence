@@ -1,0 +1,10 @@
+                 GUY X - - -
+                RECV S - - -
+             SIGPIPE S - - -
+               BLOCK O - - -
+                THAT - O - S
+          SA_RESTART - S - -
+                   C - X - -
+             PROBLEM - - - O
+               SETUP - - - X
+                RULE - - - O

@@ -1,0 +1,13 @@
+                   M X - - -
+             MACHINE X X O -
+                 SSH X - - -
+                FILE - X - -
+                USER - X - -
+                SSHD - - S -
+             NETWORK - - X -
+                PORT - - X -
+                 NAT - - X -
+                 ETC - - X -
+       LOCALUSERNAME - - S -
+   LOCALIPORHOSTNAME - - O -
+              OTHERS - - - X

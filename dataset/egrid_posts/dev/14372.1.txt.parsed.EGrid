@@ -1,0 +1,17 @@
+              LIVECD O - - - -
+                BOOT X X X - X
+                MODE X - - - X
+             MACBOOK X - - - -
+              RESULT - O - - -
+                 EFI - X - - -
+           VARIABLES - O - - -
+                SUDO - X - - -
+            MODPROBE - X - - -
+             EFIVARS - S - - -
+               APPLE - - X - -
+                BIOS - - X - -
+      IMPLEMENTATION - - X - -
+                 HOP - - - - O
+               GRUB2 - - - - O
+          UBUNTU/OSX - - - - X
+          IMPRESSION - - - - X

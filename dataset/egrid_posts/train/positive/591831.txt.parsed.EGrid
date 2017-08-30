@@ -1,0 +1,12 @@
+                TYPE S - - -
+            TERMINAL X - - -
+             NOTHING S - - -
+              OUTPUT O - - -
+           SOMETHING - - S -
+                   A - - - X
+                THIS - - - S
+                LIST - - - X
+          SOUNDCARDS - - - X
+                SLOT - - - X
+                  .. - - - O
+                SND_ - - - X

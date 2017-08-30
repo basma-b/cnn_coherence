@@ -1,0 +1,15 @@
+             PROBLEM O - - - - - - - -
+                NTFS X - - - - - - - -
+                DISK X - - - - - - - -
+          PERMISSION O - - - - - - - -
+           NTFSPROGS - X - - - - - - -
+             NTFS-3G - X - - - - S - -
+         NTFS-CONFIG - O - - - - - - -
+                 IVE - - S - - - - - -
+           /DEV/HDB1 - - O - - - - - -
+             DEFAULT - - X - - - - - -
+                FILE - - X - - - - - -
+               IDEAS - - - - X - - - -
+          FILESYSTEM - - - - - S O - -
+              CHKDSK - - - - - - X - -
+                WORK - - - - - - - - X

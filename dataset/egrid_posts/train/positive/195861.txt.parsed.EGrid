@@ -1,0 +1,24 @@
+               FSTAB - O - -
+          /ETC/FSTAB - X - -
+      ~/FSTAB.BACKUP - S - -
+              BACKUP - O - -
+             ALRIGHT - X - -
+                ICON - X X -
+                  .. - X O -
+                COPY - X X -
+             DESKTOP - - X -
+               ICONS - - O -
+                 USE - - X -
+            TERMINAL - - X -
+                TYPE - - X -
+        GCONF-EDITOR - - X -
+              BROWSE - - X -
+/APPS/NAUTILUS/DESKTOP - - X -
+             UNCHECK - - X -
+     VOLUMES_VISABLE - - X -
+                SHOW - - S -
+                 ONE - - X -
+           REFERENCE - - X -
+                NTFS - - X -
+           PARTITION - - X -
+             CHANNEL - - - X

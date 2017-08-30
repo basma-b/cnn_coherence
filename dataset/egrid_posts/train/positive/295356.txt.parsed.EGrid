@@ -1,0 +1,16 @@
+             COMMAND X - - - - -
+                FSCK O - - - O O
+               DRIVE X - - - - -
+                  CD X - - - X -
+                DISK - X - - - -
+            /DEV/HDA - - O - - -
+              ANYONE - - - - X -
+           PARTITION - - - - X -
+              INODES - - - - X -
+                PART - - - - O -
+                LINK - - - - X -
+                LIST - - - - X -
+       INCONSISTENCY - - - - - S
+                STEP - - - - - X
+                SITE - - - - - X
+                THIS - - - - - X

@@ -1,0 +1,12 @@
+         PERMISSIONS X -
+               -RW-R O -
+                   R O -
+               CHMOD S -
+                 ONE S -
+                U=RW O -
+/HOME/USER/DOMAIN/WWW.DOMAIN.COM.KEY S -
+                USER X -
+                 JUL X -
+            SECURITY X -
+                  CD - O
+              UBUNTU - X

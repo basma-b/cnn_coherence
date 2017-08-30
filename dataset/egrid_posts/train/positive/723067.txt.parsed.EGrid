@@ -1,0 +1,15 @@
+            XSENSORS X - - - - - - -
+          LM-SENSORS O - - - - - - -
+                 CPU - X - - - - - -
+         TEMPERATURE - X O X - - O -
+               RANGE - X O - - - - -
+                  DO - - X - - - - -
+                INFO - - O - - - - -
+               /PROC - - X X - - - -
+                   D - - X - - - - -
+            QUESTION - - - O - S - -
+           PROCESSOR - - - - - - X -
+                 SEC - - - - - - X -
+                LIST - - - - - - X X
+                FILE - - - - - - X -
+/PROC/ACPI/THERMAL_ZONE - - - - - - X -

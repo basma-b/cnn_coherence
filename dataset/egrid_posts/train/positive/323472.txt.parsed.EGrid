@@ -1,0 +1,14 @@
+             COMMAND X - X - - -
+             DISPLAY X - X O - -
+             ADDRESS X - X O - -
+           INTERFACE X - - O - -
+            IFCONFIG - X - - - -
+               STUFF - O - - - -
+                   L - - - X X -
+            IPCONFIG - - - X - -
+                   $ - - - - O -
+                 SET - - - - S -
+                ETH0 - - - - X -
+                   | - - - - X -
+                GREP - - - - S -
+                 LOT - - - - - O

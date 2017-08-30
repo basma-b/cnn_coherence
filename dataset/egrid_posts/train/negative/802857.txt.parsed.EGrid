@@ -1,0 +1,22 @@
+            SOMEBODY X - -
+               THERE S - -
+                 WAY O - -
+                FILE O - -
+                SUDO - X -
+                LOOP - O -
+/PATH/TO/MOUNT/DIRECTORY - X -
+                 TAR - - X
+               CVPZF - - X
+      BACKUPDELL.TGZ - - S
+EXCLUDE=/BACKUPDELL.TGZ - - S
+        EXCLUDE=/MNT - - X
+        EXCLUDE=/SYS - - X
+      EXCLUDE=/MEDIA - - S
+                   / - - S
+                 ONE - - O
+             COMMAND - - X
+          BACKUP.TGZ - - X
+ EXCLUDE=/BACKUP.TGZ - - X
+EXCLUDE=/DONTINCLUDEME - - X
+          /HOME/JACK - - X
+              FOLDER - - X

@@ -1,0 +1,15 @@
+             COMMAND X - - - - -
+            FILE.ISO X - - - - -
+               CDROM X - - - - -
+                  DD - S X - - -
+             BS=2048 - - O - - -
+       IF=/DEV/CDROM - - X - - -
+OF=/PATH/TO/CDROM.ISO - - O - - -
+             PROBLEM - - X - - -
+             DEFAULT - - - X - -
+           BLOCKSIZE - - - O - -
+         FILESYSTEMS - - - X - -
+          /DEV/CDROM - - - - X -
+            /DEV/SR0 - - - - X O
+                 CAT - - - - - X
+           /ETC/MTAB - - - - - X

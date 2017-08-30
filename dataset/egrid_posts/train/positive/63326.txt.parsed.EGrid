@@ -1,0 +1,16 @@
+                HELP O - - -
+         PARTITIONIN X - - -
+                NTFS O - - -
+               SPACE O X - -
+                SWAP X X - -
+           PARTITION X O - -
+              CFDISK - O - -
+                BOOT - X - -
+             WINDOWS - X - -
+               HTTPS - X - -
+//WIKI.UBUNTU.COM/WINDOWSDUALBOOTHOWTO - S - -
+             DEFAULT - O - -
+                FILE - - - O
+                 FOO - - - X
+                BEAR - - - X
+                MIND - - - X

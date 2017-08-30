@@ -1,0 +1,16 @@
+                USER O S - - -
+             DEFAULT X X - - -
+                SUDO X - - - -
+               PRIVS X - - - -
+               CLASS - X - - -
+                 WAY - X O - -
+                FILE - O - - -
+                ROOT - X - - -
+                THAT - - S - -
+                HELP - - O - -
+                 MAN - - X - -
+               FSTAB - - X - -
+                 GUI - - - X -
+               THING - - - X -
+                /USR - - - - X
+              SEARCH - - - - X

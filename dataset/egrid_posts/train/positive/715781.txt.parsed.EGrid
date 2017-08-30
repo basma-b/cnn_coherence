@@ -1,0 +1,26 @@
+                EBOX O - - - X
+              ROUTER X - S - -
+       CONFIGURATION O - - - -
+             PROBLEM X - - - -
+             MACHINE O - - - -
+                 WEB X - - - -
+               ADMIN X - - - -
+            INTERNET O - - - -
+                 ONE X - - - -
+               PPPOE O - - - -
+              UBUNTU - X - - -
+                 CNA - X - - -
+            TERMINAL - O - - -
+                 CAT - X X - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - X - - -
+                TYPE - - X - -
+                   > - - S - -
+                CANT - - X - -
+          PERMISSION - - S - -
+                  .. - - X - -
+              ONLINE - - O - -
+              CLIENT - - X - -
+             NOTHING - - X - -
+                 BOX - - S - -
+               DHCPD - - O - -
+          EVERYTHING - - - - X

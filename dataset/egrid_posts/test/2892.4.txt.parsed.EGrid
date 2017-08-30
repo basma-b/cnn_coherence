@@ -1,0 +1,22 @@
+                BOOT X - - O X - - - -
+                UEFI X - - - X - - - -
+           PARTITION - X - - - - - - -
+                 UFI - - X - - - - - -
+                   / - - X - - - - - -
+                SWAP - - X - - - - - -
+               ERROR - - O S - - - - X
+                 END - - X - - - - - -
+                GRUB - - - X - - - - -
+           SOMETHING - - - S - - - - -
+               DUMMY - - - X - - - - -
+           ADVANTAGE - - - X - - X - -
+                 USE - - - X - - - - -
+        MOTHERBOARDS - - - - S - - - -
+                 EFI - - - - X - - - -
+                BOTH - - - - - O - - -
+                SUDO - - - - - - - - X
+             APT-KEY - - - - - - - - X
+                 ADV - - - - - - - - O
+           RECV-KEYS - - - - - - - - O
+KEYSERVER.UBUNTU.COM - - - - - - - - X
+            437D05B5 - - - - - - - - O

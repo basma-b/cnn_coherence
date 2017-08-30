@@ -1,0 +1,10 @@
+             COMMAND O - - - - - X
+                SUDO X - - - - S -
+                 TEE O - - - - - -
+/SYS/CLASS/BACKLIGHT/NVIDIA_BACKLIGHT/BRIGHTNESS X - - - - - -
+             STARTUP X - - - - - -
+                 GUI - - - - - - X
+                  CD - - - - - - X
+             XSERVER - - - - - - O
+              GKSUDO - - - - - - S
+                STOP - - - - - - X

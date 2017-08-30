@@ -1,0 +1,15 @@
+               ADMIN O - - -
+          PRIVELEGES O - - -
+                 AHH - X - -
+                CARD - X - -
+               GROUP - X - -
+           SOUNDCARD - O O -
+                  -L - - S -
+              DEVICE - - X -
+             USERDEL - - X -
+             USERADD - - X -
+                ROOT - - X -
+            PASSWORD - - X -
+       ADMINISTRATOR - - - S
+               LOGIN - - - X
+              SCREEN - - - X

@@ -1,0 +1,15 @@
+              FORMAT X - - - - - - - - -
+                DISK X - - - - - - - - -
+                 HDD - - - S - - - - - -
+              FOLLOW - - - X - - - - - -
+            COMPUTER - - - X - - - - - -
+               DRIVE - - - O - - - - - -
+         UPDATE-RC.D - - - - - S - - - -
+              MEMORY - - - - - X - - - -
+            SYMLINKS - - - - - - O - - -
+               ENTRY - - - - - - X - - -
+           RUNLEVELS - - - - - - X - - -
+         POTENTIALLY - - - - - - - X - -
+               WHEEL - - - - - - - - O -
+                  PS - - - - - - - - X -
+                 PIP - - - - - - - - X -

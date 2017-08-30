@@ -1,0 +1,13 @@
+             MODULES S - - - S - - - S - - - - - -
+                LOAD O - - - O - - - O - - - O - -
+                E.G. X - - - X - - - X - - - - - -
+                BASE - - - - X - - - X - - - X - -
+              SYSTEM - - - - X - - - X - - - X - -
+        POST-INSTALL - - - - O - - - - - - - X - -
+           DIRECTION - - - - - - - - O - - - O - -
+                  HI - - - - - - - - X - - - - - -
+                SAME - - - - - - - - - - - - O - -
+                LIST - - - - - - - - - - - - X X O
+                BOOT - - - - - - - - - - - - X - -
+             PROCESS - - - - - - - - - - - - X - -
+                TYPE - - - - - - - - - - - - - - X

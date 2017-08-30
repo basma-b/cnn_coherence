@@ -1,0 +1,20 @@
+               10.10 - X - - - - - - - -
+             DEFAULT - X - - - - - - - -
+          RESOLUTION - O - - - - - - - -
+             CONSOLE - X - - - - - - - -
+                MESS - - O - - - - - - -
+               GRUB2 - - X X - - O - - -
+              EFFECT - - O - - - - - - -
+           SOMETHING - - - O - O - - - -
+                  FB - - - X - - - - - -
+GFXPAYLOAD=1024X768X16 - - - - S - - - - -
+                 VGA - - - - X - - - - -
+                MODE - - - - S - - - - -
+                LINE - - - - - S - - - -
+             VGA=771 - - - - - X - - - -
+             VBEINFO - - - - - O - - - -
+                GRUB - - - - - X - - - -
+               SHELL - - - - - X - - - -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - - - - - X - - -
+           P=8024427 - - - - - - - X - -
+                LINK - - - - - - - - - O

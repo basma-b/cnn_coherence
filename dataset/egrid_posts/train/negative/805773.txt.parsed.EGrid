@@ -1,0 +1,12 @@
+               PURGE S X -
+         PACKAGENAME X O -
+              DOSENT S - -
+        DEPENDENCIES O - -
+                  OK O - -
+          AUTOREMOVE O X -
+                 LJL O - -
+       PACKAGENAME\N O - -
+         AUTOCLEAN\N S - -
+               DENNY - S -
+             WINDOWS - - X
+                NTOP - - X

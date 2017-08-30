@@ -1,0 +1,25 @@
+           /DEV/SCSI O - - - - - -
+              SYSTEM X - - - - - -
+               FLASH S X - - - - -
+                  .. X - X - - - X
+                THER - S - - - - -
+                 SDA - X - - S - -
+                   B - X - - - - -
+            ANYTHING - X - - - - -
+                /DEV - X - - - - -
+               DRIVE - S - - X - -
+               ISSUE - - O - - - -
+             COMMAND - - X - - - -
+               DMESG - - - - S - -
+               CACHE - - - - O - -
+/DEV/SCSI/HOST2/BUS0/TARGET0/LUN0 - - - - X - -
+                SCSI - - - - O - -
+                DISK - - - - X - -
+               SCSI2 - - - - X - -
+             CHANNEL - - - - X - -
+                  ID - - - - O - -
+                 SG0 - - - - X - -
+                TYPE - - - - O - -
+              DEVICE - - - - X - -
+                 NOD - - - - O - -
+                THIS - - - - - - O

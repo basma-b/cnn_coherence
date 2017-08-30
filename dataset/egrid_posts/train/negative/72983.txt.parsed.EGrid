@@ -1,0 +1,16 @@
+            USERNAME S - - - - - - -
+             SUDOERS X - - - - - - -
+                FILE X - - - - - - -
+                THIS - X - - - - - -
+                USER - - O O - - - -
+               ADMIN - - X S - - - -
+              GROUJP - - X - - - - -
+               GROUP - - O X - - - -
+                SUDO - - X - - - - -
+              VISUDO - - O - - - - -
+                 CAT - - - X - - - -
+          /ETC/GROUP - - - X - - - -
+                   | - - - X - - - -
+                GREP - - - X - - - -
+                THAT - - - - S - - -
+                LINE - - - - - X - -

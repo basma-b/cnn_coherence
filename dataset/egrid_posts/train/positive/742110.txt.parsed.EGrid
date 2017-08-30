@@ -1,0 +1,15 @@
+              SERVER X - -
+                 KEY O - -
+             COMMAND X - -
+                SUDO X - -
+             APT-KEY X - -
+                 ADV X - -
+           RECV-KEYS X - -
+KEYSERVER.UBUNTU.COM X - -
+            7613768D X - -
+               PROXY - X -
+              EXPORT - X X
+         HTTP_PROXY= - X -
+                HTTP - X -
+           //FOOBAR/ - X -
+                 ENV - S -

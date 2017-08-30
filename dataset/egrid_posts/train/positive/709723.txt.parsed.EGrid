@@ -1,0 +1,15 @@
+              FORMAT X - - - - -
+               DRIVE O - - - - -
+               FAT32 X - - - - -
+              UBUNTU X - - - - -
+           MKFS.VFAT - X - X - -
+                THAT - - - S - -
+              DEVICE - - - X - -
+              ADRESS - - - O - -
+           SOMETHING - - - O - -
+           /DEV/SDA1 - - - X - -
+        /MEDIA/DISK/ - - - X - -
+          MOUNTPOINT - - - O - -
+                   ' - - - - - X
+         /MEDIA/DISK - - - - - X
+              OUTPUT - - - - - O

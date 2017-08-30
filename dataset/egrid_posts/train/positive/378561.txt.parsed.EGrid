@@ -1,0 +1,6 @@
+               FSTAB S - -
+                WORK X - X
+                CIFS X - -
+               SHARE O - -
+                BOOT X - -
+                  -A O - -

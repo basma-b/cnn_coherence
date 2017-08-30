@@ -1,0 +1,25 @@
+                BOOT X - X - - X - - -
+            COMPUTER O - - - - - - - -
+                LIRC S - X - - - - - -
+         LIRC_SERIAL - O - - - - - - -
+              TYPE=4 - O - - - - - - -
+              OPTION - - S - - - - - -
+/SYS/MODULES/LIRC_SERIAL/PARAMETERS/TYPE - - - X - - - - -
+              RELOAD - - - X - - - - -
+              ANYONE - - - X - - - - -
+                THIS - - - S - - - - -
+                TIME - - - - X - - - -
+             PROBLEM - - - - O - - - -
+                 LOT - - - - - S - - -
+              THINGS - - - - - X - - -
+                SOME - - - - - X - - -
+            PARALLEL - - - - - X - - -
+            SCENARIO - - - - - - S - -
+                PORT - - - - - - S - -
+               SETUP - - - - - - X - -
+              DAEMON - - - - - - S - -
+                HAND - - - - - - - X -
+           SITUATION - - - - - - - X -
+                LINE - - - - - - - - O
+           ~/.BASHRC - - - - - - - - X
+              REBOOT - - - - - - - - X

@@ -1,0 +1,10 @@
+      208.67.220.220 S - - -
+    /ETC/RESOLV.CONF O - - -
+          IN/REPLACE O - - -
+ /ETC/INIT.D/NETWORK - O - -
+             NETWORK - X - -
+                 DNS - X - -
+              CLIENT - O - -
+         PASTEBIN.CA - X - -
+                TEXT - O - -
+              THANKS - - - X

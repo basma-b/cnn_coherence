@@ -1,0 +1,27 @@
+                 GUY X - - - - - - - - -
+               LIMIT - O O - - - - - O -
+                FILE - X X - - O - O X -
+               HARDY - X - - - - - - - -
+                THAT - - O - - - - - O -
+              THINGS - - S - - - - - - -
+/ETC/SECURITY/LIMITS.CONF - - X - - - - - - -
+              ULIMIT - - S - - - - - - -
+               ERROR - - S - - - - - - -
+           OPERATION - - O - - - - - - -
+                DOES - - X - - - - - - -
+              ANYONE - - S - - - - - - -
+                THIS - - O - - - - - - -
+                USER - - X - - - - - - -
+         PERMISSIONS - - - X - - - - - -
+              SYSTEM - - - - - X - - - -
+           PRIVILEGE - - - - - X - X - -
+            BEHAVIOR - - - - - - O - - -
+             DEFAULT - - - - - - X - - -
+                SUDO - - - - - - - X - -
+                ROOT - - - - - - - X - -
+               LOGON - - - - - - - X - -
+                SAFE - - - - - - - X - -
+                EXIT - - - - - - - X - -
+              CONFIG - - - - - - - - X -
+              NOFILE - - - - - - - - X -
+             COMMAND - - - - - - - - - O

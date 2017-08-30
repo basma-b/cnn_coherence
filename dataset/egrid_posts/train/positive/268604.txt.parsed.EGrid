@@ -1,0 +1,18 @@
+              ANYONE X - - -
+           GTK+EXTRA S - - -
+               ERROR O - - -
+BASE_DEPENDENCIES_CFLAGS X - - -
+BASE_DEPENDENCIES_LIBS X - - -
+             PACKAGE X X - S
+            GTK+-2.0 S O - -
+              SEARCH X - - -
+                PATH X - - -
+           DIRECTORY - S - -
+         ENVIRONMENT - X - -
+            VARIABLE - O - -
+                  NO - X - -
+             GTK-2.0 - S - -
+              UBUNTU - X - -
+                KIND - X - -
+                THIS - O - -
+             TARBALL - - X -

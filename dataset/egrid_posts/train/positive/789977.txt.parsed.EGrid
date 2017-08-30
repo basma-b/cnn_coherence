@@ -1,0 +1,20 @@
+                 MAC X - - - - -
+           PARTITION O - - - - -
+              UBUNTU X - - - - -
+             STARTUP X - - - - -
+               FSTAB - S - - - -
+                LINE - O - X - -
+/MEDIA/MACHINTOSH_HD - X S - - O
+                  RW - X - - - -
+                EXEC - X - - - -
+                AUTO - X - - - -
+               USERS - X - - - -
+                SUDO - X - - - S
+                  -A - O - - - -
+               ERROR - O - - - O
+               THERE - S - - - -
+               POINT - O - - - -
+         SUGGESTIONS - X - - - -
+               MOUNT - - - X - -
+             COMMAND - - - O - O
+            /DEV/SDB - - - - - X

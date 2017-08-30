@@ -1,0 +1,16 @@
+                XFCE O - - - -
+      LOG-OUT-BUTTON - O - - -
+             COMMAND - X - - -
+              CUSTOM - - X - -
+            KEYBOARD - - X - -
+                 MAP - - O - -
+           SOMETHING - - O - -
+              EFFECT - - S - -
+             SERVICE - - X - X
+               XFCE4 - - X - -
+              SERVER - - - - O
+                 RUN - - - - O
+                NEED - - - - X
+                BOOT - - - - X
+              OPTION - - - - X
+ACPI_BACKLIGHT=VENDOR - - - - X

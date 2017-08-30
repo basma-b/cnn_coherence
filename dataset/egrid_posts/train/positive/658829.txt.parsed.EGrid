@@ -1,0 +1,16 @@
+          BOOTLOADER S - - -
+                 HD0 - S - -
+           PARTITION - O - O
+           /DEV/SDAX - X - -
+            /DEV/SDA - - X -
+                 ≠ - - S -
+                /SDA - - - X
+               /SDA1 - - - X
+                 SDA - - - S
+                 ATA - - - X
+             HITACHI - - - O
+                SDA1 - - - S
+             WINDOWS - - - X
+               VISTA - - - S
+                MESS - - - X
+                 ONE - - - X

@@ -1,0 +1,16 @@
+                TIME S - - -
+               POWER X - - -
+            COMPUTER X - - -
+                 USB X X - -
+               WLAN0 X X - -
+              DEVICE X O - -
+                LOAD X - - -
+              REBOOT O X - -
+             DEVICES - X - -
+              CHANCE - X - -
+                NEED - X - -
+             LOADING - - O -
+              MODUEL - - O -
+             COMMAND - - - X
+              DEPMOD - - - X
+                  -A - - - X

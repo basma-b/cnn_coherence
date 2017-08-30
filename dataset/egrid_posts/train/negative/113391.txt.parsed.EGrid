@@ -1,0 +1,17 @@
+           PARTITION O - - - - - - - -
+               SHARE X - - - - - - - -
+             WINDOWS X - - - - - - - -
+            COMPUTER X - - - - - - - -
+              BREEZY - X - - - - - - -
+             UMASK=0 - - - O - O - - -
+          /ETC/FSTAB - - - X - - - - -
+                LINE - - - X - X - - -
+          FILESYSTEM - - - O - O - - -
+                 ALL - - - O - - - - -
+                 GUY - - - - O - - - -
+                THAT - - - - - X - - -
+             OPTIONS - - - - - - X - -
+                 ONE - - - - - - X - -
+              REASON - - - - - - - - O
+            FLASHGOT - - - - - - - - S
+                 USE - - - - - - - - O

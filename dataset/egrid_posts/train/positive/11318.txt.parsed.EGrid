@@ -1,0 +1,9 @@
+/USR/SHARE/DOC/LINUX-KERNEL-HEADERS/README.DEBIAN S - - - - - - -
+LINUX-KERNEL-HEADERS O X - - - - - -
+       LINUX-HEADERS O - - - - - - -
+               GLIBC - X - - - - - -
+             PACKAGE - X O X - - - -
+      KERNEL-MODULES - - O - - - - -
+            ANYTHING - - - X - - - -
+                 USE - - - - X - - -
+                HELP - - - - - - - X

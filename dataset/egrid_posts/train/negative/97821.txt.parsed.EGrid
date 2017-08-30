@@ -1,0 +1,27 @@
+            QUESTION X - - - - - -
+             WINDOWS X - - - - - -
+           PARTITION O - - - - - -
+           DIRECTORY X - - - - - -
+            /WINDOWS X - - - - - -
+                USER X - - - - - -
+              ACCESS O - - - - - -
+                 BMP O - - - - - -
+                ROOT X X - - O - -
+               MUSIC X - - - - - -
+              COURSE X - - - - - -
+          PERMISSION X - - - - - -
+                SUDO - S - O - - X
+               THERE - S - - - - -
+                NONE - O - - - - -
+               THING - - - X - - -
+            INSTANCE - - - X - - -
+          /ETC/FSTAB - - - O - - -
+               FSTAB - - - O - - -
+             EXAMPLE - - - - O - -
+           OPERATION - - - - S - -
+               ISSUE - - - - - X -
+              KARMIC - - - - - - X
+                 PPA - - - - - - X
+PIDGIN-DEVELOPERS/PPA - - - - - - O
+             APT-GET - - - - - - S
+              PIDGIN - - - - - - O

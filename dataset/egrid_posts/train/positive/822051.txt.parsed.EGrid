@@ -1,0 +1,9 @@
+       LWP/SOCKET.PM O - -
+                 INC X - -
+      /USR/LIB/PERL5 S - -
+/USR/LOCAL/LIB/SITE_PERL O - -
+             MODULES - S -
+             PACKAGE - X -
+           SOCKET.PM - O -
+              SEARCH - - X
+             COMMAND - - X

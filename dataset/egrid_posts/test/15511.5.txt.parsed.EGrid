@@ -1,0 +1,32 @@
+                 GUY X - - - - - -
+               12.10 - O - - - - -
+                BOOT - X - - - - -
+           PARAMETER - X - O O - -
+LIBATA.ATAPI_PASSTHRU16=0 - X - - - - -
+                THIS - - X - - - -
+              INSTAL - - - X - - -
+                 USB - - - X - - -
+              SELECT - - - S - - -
+                  .. - - - O - - -
+   /ETC/DEFAULT/GRUB - - - X - - -
+         UPDATE-GRUB - - - O O - -
+               ERROR - - - X X - -
+                PATH - - - O O - -
+                /COW - - - X X - -
+                FILE - - - - O O -
+         /ETC/GRUB.D - - - - X - -
+              KERNEL - - - - X - -
+                 END - - - - X - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - - - X - -
+              SPLASH - - - - X - -
+                LINE - - - - X - -
+                IDEA - - - - X - -
+                GRUB - - - - - X -
+              CONFIG - - - - - X -
+             CONTENT - - - - - X -
+           /ETC/GRUB - - - - - X -
+             SOMEONE - - - - - S -
+             PROBLEM - - - - - O -
+            SOLUTION - - - - - S -
+//ASKUBUNTU.COM/QUESTIONS/207663/ - - - - - S -
+           /ETC/RC.D - - - - - - O

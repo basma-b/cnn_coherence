@@ -1,0 +1,16 @@
+          PERMISSION - O - - -
+                USER - X - - -
+      VAR/WWW/JOOMLA - X - - -
+             COMMAND - - X - -
+            TERMINAL - - X - -
+               GROUP - - - O -
+               USERS - - - O -
+             SETFACL - - - O -
+          FILESYSTEM - - - O -
+                 USE - - - - O
+                 GCC - - - - S
+                   C - - - - O
+            COMPILER - - - - O
+            INTEREST - - - - X
+               POINT - - - - X
+             ACRONYM - - - - X

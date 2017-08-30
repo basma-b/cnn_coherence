@@ -1,0 +1,22 @@
+            INTEL8X0 S - - - - - - - - - -
+             WINDOWS X - - - - - - - - - -
+               LINUX X - - - - - - - - - -
+                  ID X - - - - - - - - - -
+                GAME X - - - - - - - - - X
+              DEVICE - X - - - - - - - - -
+                 FUN - - O - - - - - - - -
+                LOAD - - - X - - X - - - -
+         SN_INTEL8X0 - - - O - - - - - - -
+         SND_EMU10K1 - - - O - - - - X - -
+              KERNEL - - - - X - - - - - -
+                HAND - - - - - X - - - - -
+                THEN - - - - - - X - - - -
+             CONTROL - - - - - - O - - - -
+               ORDER - - - - - - X - - - -
+               THING - - - - - - - X - - -
+GNOME-SETTINGS-DAEMON - - - - - - - S - - -
+        SND_INTEL8X0 - - - - - - - X S - -
+               RMMOD - - - - - - - - X - -
+               INPUT - - - - - - - - - - X
+             NETWORK - - - - - - - - - - X
+             LATENCY - - - - - - - - - - X

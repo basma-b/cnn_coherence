@@ -1,0 +1,18 @@
+               SEVOL X - -
+        /ETC/MODULES X - -
+                   * - O -
+                 CAT - O -
+                LIST - X -
+                 ONE - O -
+                   > - X -
+                   _ - X -
+                   < - O -
+              REASON - X -
+               SOUND - S -
+                 SEC - - S
+                THIS - - O
+DEBUG_XFREE86_PACKAGE=YES - - X
+  XF86FORCEPROBE=YES - - X
+     XSERVER-XFREE86 - - X
+                SUDO - - O
+             DANIELS - - X

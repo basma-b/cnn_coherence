@@ -1,0 +1,26 @@
+              OUTPUT O - - - - - - -
+                 LOG X - - - - - - -
+                FILE X - - - - - - -
+            SARMISAK X - - - - - - -
+                MAIL O - - - - - - -
+                USER X - - - - - - -
+                 JOB S - - - - - - -
+               EMAIL O - - - - - - -
+                CRON X - - - - - - -
+              RESULT S - - - - - - -
+                ROOT X - - - X - - -
+              SERVER X - - - - - - -
+                 BOX X - - - - - - -
+        OPTIMIZATION - O - - - - - -
+                THIS - - X - - - - -
+                   > - - X X X - - -
+                   < - - S - - - - -
+              KAMERA - - O - - - - -
+/VAR/LOG/SOME_LOG_FILE - - - O - - - -
+                LINE - - - O - - - -
+                   * - - - - S - - -
+                  -P - - - - O - - -
+/VAR/LOG/MYSQLSTATUS.LOG - - - - S - - -
+                THAT - - - - - X - -
+                MINE - - - - - X - -
+                 IIT - - - - - - - S

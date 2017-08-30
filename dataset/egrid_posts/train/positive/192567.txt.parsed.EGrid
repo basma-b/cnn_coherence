@@ -1,0 +1,9 @@
+             COMMAND X - -
+                LINE X - -
+                TYPE O - -
+                ROOT S - -
+            PASSWORD O - -
+                USER X - -
+                SUDO - - X
+             APT-GET - - S
+              VMWARE - - X

@@ -1,0 +1,9 @@
+                 ANY S - - -
+             SERVICE X - S X
+               DMESG - S - -
+              KERNEL - X - -
+             MESSAGE - O - -
+                   * - - X -
+         APPLICATION - - X -
+          STATUS-ALL - - - X
+                   | - - - X

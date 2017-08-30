@@ -1,0 +1,36 @@
+                DHCP X - - - - - -
+              SERVER X - - - - - -
+                HOST X - X - - - -
+                NAME O - X - - - -
+                 SEC - X - - - - -
+                 BOX - X - - - - -
+           SOMETHING - X X - - - -
+                   A - - S - - - -
+             ADDRESS - - X - - - -
+/ETC/DHCP3/DHCLIENT.CONF - - O - - - -
+                LINE - - O - - - -
+           HOST-NAME - - S - - - -
+                ETH0 - - O - - - -
+              FINGER - - X - - - -
+             ALRIGHT - - O - - - -
+               ERROR - - X - - - -
+          RESOLUTION - - X - - - -
+                  IP - - X - - - -
+                KIND - - - X - - -
+             NETWORK - - - X - - -
+                CARD - - - X - - -
+            ETHERNET - - - - X - -
+             REALTEK - - - - X - -
+           RTL8201CL - - - - X - -
+                 LAN - - - - X - -
+                 PHY - - - - X - -
+                HTTP - - - - O - -
+//WWW.VIAARENA.COM/DEFAULT.ASPX - - - - X - -
+          PAGEID=420 - - - - - X -
+              OSID=1 - - - - - S -
+          CATID=1190 - - - - - X -
+        SUBCATID=147 - - - - - S -
+              DRIVER - - - - - S -
+                BASE - - - - - X -
+              GOOGLE - - - - - X -
+              SEARCH - - - - - X -

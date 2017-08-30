@@ -1,0 +1,17 @@
+               ERROR - X - - - - - -
+             MESSAGE - O - - - - - -
+                   C - X - - - X - -
+            COMPILER - S - - - O - -
+             DEFAULT - X - - - - - -
+              OUTPUT - X - - - - - -
+                FILE - X - - - - - -
+                NAME - X - - - - - -
+                  .. - X - - - - - -
+           CONFIGURE - X - - - - - -
+         EXECUTABLES - O - - - - - -
+    BUILD-ESSENTIALS - - - X O O - -
+                SUDO - - - - X - - -
+             APT-GET - - - - S - - -
+                THIS - - - - - S - -
+                   E - - - - - X - -
+             PACKAGE - - - - - X - -

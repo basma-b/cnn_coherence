@@ -1,0 +1,14 @@
+         3.0.0.21.25 X - - -
+                  .. X - - -
+                 WAY X - - -
+              OUTPUT O - - -
+                BOOT X - - -
+              KERNEL - X - -
+               PANIC - S - -
+                LOAD - X - -
+               GUESS - O - -
+     /VAR/LOG/SYSLOG - - X -
+      /VAR/LOG/DMESG - - O -
+                 TAR - - - X
+                -XZF - - - X
+            YOURJAVA - - - S

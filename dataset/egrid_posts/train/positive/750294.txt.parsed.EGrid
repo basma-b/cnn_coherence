@@ -1,0 +1,23 @@
+              ANYONE S - - - - - -
+            PRIV/PUB X - - - - - -
+    AUTHENTIFICATION X - - - - - -
+                 USE - O - - - - -
+                 KEY - - O - - - -
+.SSH/AUTHORIZED_KEYS - - X - - - -
+             RSAAUTH - - X - - - -
+          PUBKEYAUTH - - O - - - -
+         SSHD_CONFIG - - X - - - -
+            ANYTHING - - X - - - -
+                JRIB - - - S X - -
+              RELOAD - - - O - - -
+                   > - - - - S S -
+                 MAX - - - - X - -
+           VERBOSITY - - - - X - -
+                 ETC - - - - O - -
+               GUESS - - - - S - -
+                PERM - - - - O - -
+                 DIR - - - - S - -
+              DBERRY - - - - - X -
+               ./SSH - - - - - X -
+           W/VERBOSE - - - - - - O
+               ERROR - - - - - - O

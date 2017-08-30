@@ -1,0 +1,17 @@
+                 DMA X - - - - - - - -
+                 EXT X - - - - - - - -
+               ERROR O - - - - - - - -
+                BOOT X - - - - - - - -
+              UBUNTU O - - - - - - - -
+           PARTITION - O - - - - - - -
+               FSTAB - X - - - - - - -
+                HELP - - S - - - - - -
+                 ANY - - - S - - - - -
+               DRIVE - - - - O X - - -
+          CONNECTION - - - - X - - - -
+                 RUN - - - - - X - - -
+       SMARTMONTOOLS - - - - - O - - -
+                  .. - - - - - - - O X
+                THIS - - - - - - - S -
+                 USB - - - - - - - - X
+                  CD - - - - - - - - X

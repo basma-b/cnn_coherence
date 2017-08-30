@@ -1,0 +1,11 @@
+                DATE X - -
+        DIST-UPGRADE S - -
+          EVERYTHING S - -
+             UPGRADE X - -
+                  OK S - -
+              CONFIG S - X
+            IPTABLES X - O
+              SCRIPT O - -
+                  .. - - O
+                CONF - - X
+              THINGS - - X

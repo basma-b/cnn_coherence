@@ -1,0 +1,12 @@
+             COMMAND X - -
+                8.04 O - -
+        DISTRIBUTION X - -
+        SOURCES.LIST - S -
+/ETC/APT/SOURCES.LIST - X -
+             RELEASE - X S
+        DIST-UPGRADE - O -
+                TEXT - - X
+                MODE - - O
+                LIST - - O
+ RELEASES.UBUNTU.COM - - X
+              DAPPER - - O

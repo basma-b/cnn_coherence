@@ -1,0 +1,14 @@
+/ETC/INIT.D/NFS-COMMON S - - -
+             PACKAGE S - - -
+              KARMIC X - - -
+                THIS - X - -
+             UPSTART - - X -
+              SCRIPT - - S -
+             SERVICE - - X -
+                 NFS - - O -
+                 TAB - - X -
+                   > - - S -
+/ETC/INIT.D/NFS-KERNEL-SERVER - - O -
+              SERVER - - - X
+               OTHER - - - S
+              CLIENT - - - X

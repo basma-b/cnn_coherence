@@ -1,0 +1,14 @@
+             COMMAND X S - - - -
+              OUTPUT X - - - - -
+                BOTH X - - - - -
+                FILE X - O - - X
+            COMMAND1 - X - - - -
+                   > - S S - S -
+            COMMAND2 - X X - - -
+                  TA - X - - - -
+                  AL - - S - - -
+            /DEV/SDB - - X - - -
+           BADBLOCKS - - X - - -
+                 -VS - - S - - -
+      WD_SCHULTE.TXT - - X - - -
+            FILENAME - - X - - -

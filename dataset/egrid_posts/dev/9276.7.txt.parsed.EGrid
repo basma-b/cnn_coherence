@@ -1,0 +1,10 @@
+            HFSPROGS S - -
+                SUDO X S -
+             APT-GET S - -
+        CAPABILITIES O - -
+               PRIVS O - -
+             REMOUNT - O -
+        /MOUNT/POINT - O -
+                NEED - - S
+              CHROOT - - O
+                LINK - - O

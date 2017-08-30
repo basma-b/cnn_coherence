@@ -1,0 +1,17 @@
+               GUIDE S S - S X
+             COMMAND X - - - -
+            /DEV/MD0 O - - - -
+                HTTP O - X - X
+               MDADM X - - - -
+             PROBLEM O - - - -
+           SOMETHING - O - - -
+        RAID-LEVEL=5 - X - - -
+             DEVICES - X - - -
+            /DEV/SDA - S - - -
+        /ETC/RAIDTAB - S - - -
+//TLDP.ORG/HOWTO/SOFTWARE-RAID-HOWTO-1.HTML - - X - -
+               ARRAY - - - O -
+             SECTION - - - O -
+                 SAY - - - - X
+                FILE - - - - O
+                  .. - - - - X

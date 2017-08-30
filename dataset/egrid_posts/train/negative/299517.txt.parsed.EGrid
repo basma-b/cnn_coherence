@@ -1,0 +1,13 @@
+        COOLING_MODE - S - - -
+             PASSIVE - X - - -
+                POLL - S - - -
+                  .. - X - - -
+             SENSORS - O - - -
+           INTERFACE - X - - -
+               BREAK - O - - -
+      IMPLEMENTATION - X - - -
+              KERNEL - - O - -
+            SETTINGS - - X - -
+             DEFAULT - - X - -
+                MUCH - - - - O
+            SMACHINE - - - - X

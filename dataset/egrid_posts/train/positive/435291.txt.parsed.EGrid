@@ -1,0 +1,10 @@
+             COMMAND X - -
+                TOOL X - -
+             APT-GET X X -
+                 END O - -
+             MANAGER X - -
+              SEARCH - X O
+             PATTERN - X -
+             PACKAGE - - X
+               MATCH - - X
+           OPERATION - - X

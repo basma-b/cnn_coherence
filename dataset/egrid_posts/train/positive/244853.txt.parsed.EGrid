@@ -1,0 +1,17 @@
+                FILE O - - -
+           PARTITION X - - X
+                 USB X - - -
+                 USE O - - -
+              UBUNTU S - - -
+              LIVECD S O - -
+                NTFS - X O X
+               STICK - X X -
+               ERROR - S - -
+              PMOUNT - S - -
+              ANYONE - S - -
+                DATA - S - -
+            SHOULDNT - - S -
+               STUFF - - O -
+                HDA2 - - - X
+            /DEV/HDA - - - X
+    SOME/MOUNT/POINT - - - O

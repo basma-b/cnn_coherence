@@ -1,0 +1,10 @@
+                 USB S - - - - -
+             PRINTER S - - - - -
+               LSUSB - O - - - -
+         COMMANDLINE - X - - - -
+           PARTITION - - O - - -
+           FILESYTEM - - X - - -
+                MKFS - - - O - X
+               LINUX - - - - O -
+           INSTALLER - - - - - X
+             COMMAND - - - - - O

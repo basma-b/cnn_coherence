@@ -1,0 +1,19 @@
+                 USB S - - - - - - -
+                HTTP X - - - - - - -
+                STEP O - - - - - - -
+                 1-1 O - - - - - - -
+               SPEED X - - - - - - -
+              DEVICE S - - - - - - -
+            EHCI_HCD O - - - - - - -
+       CONFIGURATION X - - - - - - -
+              CHOICE X - - - - - - -
+           ATH9K_HTC X - - - - - - -
+            FIRMWARE X - - - - - - -
+                FILE X - - - - - - -
+           DIRECTORY - - - X - - - -
+/LIB/FIRMWARE/AR9271.FW - - - - - - - X
+               -RW-R - - - - - - - O
+                   R - - - - - - - X
+                ROOT - - - - - - - S
+                 NOV - - - - - - - O
+                CLUE - - - - - - - O

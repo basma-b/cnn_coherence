@@ -1,0 +1,13 @@
+               FSTAB - X - -
+               THERE - X - -
+           MENU.LIST - X - -
+         /BOOT/GRUB/ - - X -
+                MESS - - X -
+                MENU - - O -
+                BOOT - - - O
+              LOADER - - - S
+                 USB - - - X
+               DRIVE - - - X
+           COMPUTERS - - - X
+                BIOS - - - S
+              DISTRO - - - X

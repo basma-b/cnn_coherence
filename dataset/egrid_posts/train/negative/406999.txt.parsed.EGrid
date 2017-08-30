@@ -1,0 +1,14 @@
+                BOOT - S - -
+                DISK - X - -
+               THING - X - -
+            SYSLINUX - X - -
+              SYSTEM - O - -
+                GRUB - O - -
+               THERE - - S -
+          BOOTLOADER - - O -
+               CHOWN - - - X
+                   < - - - X
+                   > - - - S
+           DIRECTORY - - - X
+                FLAG - - - O
+           RECURSIVE - - - X

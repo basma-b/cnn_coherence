@@ -1,0 +1,20 @@
+                HELP X - -
+                 NFS X - -
+                THIS S - -
+        /ETC/EXPORTS O - -
+                   > S - -
+192.168.0.1/255.255.255.0 O - -
+                  RW X - -
+               ASYNC X - -
+            INSECURE X - -
+          ALL_SQUASH X - -
+             ANONUID X - -
+               ERROR S - -
+               COLON O - -
+             ADDRESS X - -
+                PATH X - -
+            DOCUMENT - X -
+                LINK - X -
+                  IM - S -
+                DOCS - X -
+              THERES - O -

@@ -1,0 +1,16 @@
+                 LOG - O - - - - - -
+               LOGIN - - X - O X - -
+              SCREEN - - X - - - - -
+             SESSION - - O - - - - -
+                BOOT - - X - - X - -
+                THAT - - - X - - - -
+            ANYTHING - - - - O - - -
+                FILE - - - - X X - -
+/ETC/GDM3/DAEMON.CONF - - - - O - - -
+            TERMINAL - - - - X - - -
+             MACHINE - - - - X - - -
+           VARIABLES - - - - X - - -
+              CHANGE - - - - - O - -
+AUTOMATICLOGINENABLE=TRUE - - - - - X - -
+            RECOVERY - - - - - X - -
+             ALRIGHT - - - - - - - X

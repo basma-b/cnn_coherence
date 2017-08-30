@@ -1,0 +1,11 @@
+             PROGRAM X - - -
+                 GUI X - - -
+                DATA X - - -
+                NTFS X - - -
+           PARTITION X - X -
+              FORMAT X - - -
+               40GBS X - - -
+                EXT3 X - - -
+               GPART - - O X
+               TABLE - - O -
+                 MAN - - - X

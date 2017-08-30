@@ -1,0 +1,13 @@
+               FSTAB S - - -
+                DATA X - - -
+               DRIVE O - - -
+                SDA3 X - - -
+                SWAP - O - -
+                TYPE - S - -
+                  -L - O - -
+            TERMINAL - X - -
+           PARTITION - X - -
+            MODPROBE - - - X
+             MODULES - - - S
+                LOAD - - - O
+                CARD - - - X

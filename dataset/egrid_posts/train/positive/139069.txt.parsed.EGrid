@@ -1,0 +1,10 @@
+/ETC/CUPS/CUPSD-BROWSING.CONF X - - -
+                  ON X - - -
+              BROWSE - S - -
+              CLIENT - X - -
+              SERVER - X - -
+              CUPSYS - S - -
+             PRINTER - X - -
+                SHOW - - - O
+                CANT - - - X
+                   * - - - O

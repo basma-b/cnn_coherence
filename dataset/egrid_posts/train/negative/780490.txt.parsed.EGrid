@@ -1,0 +1,24 @@
+              ACCESS O - - - -
+                 SCP X - - - -
+                THAT - S - - -
+                SFTP - X - - -
+                LINE - X - - -
+           SUBSYSTEM - S - - -
+/USR/LIB/OPENSSH/SFTP-SERVER - S - - -
+                SSHD - O - - -
+/ETC/SSH/SSHD_CONFIG - X - - -
+                  .. - O - - -
+           SOMETHING - X - - -
+                WONT - O - - -
+               WORLD - - X - -
+               GROUP - - - X -
+                USER - - - S -
+                PART - - - O -
+                 CLI - - - X -
+            LANGUAGE - - - - X
+               THERE - - - - S
+           GUARANTEE - - - - O
+           LIFE-TIME - - - - X
+            HARDWARE - - - - X
+                 LOT - - - - X
+              THINGS - - - - X

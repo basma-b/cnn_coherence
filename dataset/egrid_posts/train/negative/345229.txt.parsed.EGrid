@@ -1,0 +1,10 @@
+          FILESYSTEM S - - - - -
+              DRIVER S - - - - -
+                 USE O - - - - -
+            USBMOUNT - S S - - -
+             NTFS-3G - O - - - -
+             NOTHING - - O - - -
+                NTFS - - X - - -
+             PACKAGE - - - - O -
+             COMMAND - - - - - O
+                PAGE - - - - - X

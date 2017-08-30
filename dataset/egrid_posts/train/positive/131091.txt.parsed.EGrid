@@ -1,0 +1,24 @@
+             WINECFG O - - - - - - - - - - -
+                  .. O - - - - - - - - - - -
+           IMAGELIST - X X X X - - - - - - -
+IMAGELIST_REPLACEICON - S S S S - - - - - - -
+               COLOR - X X X X - - - - - - -
+         APPLICATION - - - - - S - - - - - -
+              WINDOW - - - - - O - - - - - -
+              DRIVER - - - - - S - - - - - -
+                LOAD - - - - - O - - - - - -
+                   X - - - - - - X - - - - -
+              SERVER - - - - - - S - - - - -
+             DISPLAY - - - - - - S - - - - -
+                WINE - - - - - - - X - - - -
+              CHROOT - - - - - - - X - - - -
+             MACHINE - - - - - - - X - - - -
+              SYSTEM - - - - - - - - O - - -
+                IDEA - - - - - - - - O - - O
+              ANYHOW - - - - - - - - X - - -
+              FORMAT - - - - - - - - - X - -
+                NTFS - - - - - - - - - O - X
+                CASE - - - - - - - - - X - -
+                WORK - - - - - - - - - O - -
+                  YA - - - - - - - - - - - S
+            REMINDER - - - - - - - - - - - X

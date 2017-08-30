@@ -1,0 +1,24 @@
+                FILE X - - - X - -
+                THAT - S - - - - -
+                   > - X - - - - -
+                SUDO - X - - - - -
+/ETC/INIT.D/SYSKLOGD - X - - - - -
+              SYSLOG - - S - - - -
+             NOTHING - - X - - - -
+                 LOG - - X - - - -
+              VIEWER - - X - - - -
+               PANIC - - O - O - -
+                 TTY - - X - - - -
+                SNAP - - O - - - -
+               WHATS - - S - - - -
+                WORK - - O - - - -
+              KERNEL - - X - S - -
+             COMMAND - - - X S - -
+                  .. - - - X - - -
+         ALT+SYSRQ+1 - - - - S - -
+         ALT+SYSRQ+T - - - - X - -
+              SYSREQ - - - - X - -
+                 KEY - - - - S - -
+                CALL - - - - X - -
+/PROC/SYS/KERNEL/SYSRQ - - - - O - -
+                TIME - - - - - - X

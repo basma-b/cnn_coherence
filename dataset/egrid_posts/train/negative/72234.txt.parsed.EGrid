@@ -1,0 +1,17 @@
+              NOBODY S - - - -
+                HELP O - - - -
+             ANYBODY X - - - -
+              DEVICE - O X - -
+                 IDS - O - - -
+                 USB - X - - -
+              SYSTEM - X - - -
+                 CAT - X - - -
+/PROC/BUS/USB/DEVICES - X - - -
+                LINE - X - - -
+               START - S - - -
+    VAR/LOG/MESSAGES - X - - -
+              ADVICE - - X - -
+                LIST - - O - -
+    PROC/USB/DEVICES - - X - -
+                 ERM - - - - X
+               LUCID - - - - X

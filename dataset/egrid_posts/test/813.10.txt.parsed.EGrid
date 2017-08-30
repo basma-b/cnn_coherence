@@ -1,0 +1,14 @@
+                 ANY S - - - - -
+                GRUB O - - S - -
+               ERROR - X - - - -
+             MESSAGE - X - - - -
+                BOOT - - X S - -
+              UBUNTU - - O - - -
+            RECOVERY - - - X - -
+                MODE - - - S - -
+           INITRAMFS - - - X - -
+             WINDOWS - - - X - -
+                  OK - - - O - -
+             PROBLEM - - - O - -
+               SOUND - - - - - X
+                 HDD - - - - - S

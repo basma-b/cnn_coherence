@@ -1,0 +1,33 @@
+        SOUNDPROBLEM O - - - - - -
+     FUJITSU-SIEMENS X - - - - - -
+              M1439G X - - - - - -
+             STARTUP - X X - - - -
+               SOUND - S O S - - -
+               THERE - S - S - S -
+               LSPCI - - S - - - -
+          CONTROLLER - - X - - - -
+              DEVICE - - X - - X -
+               INTEL - - X - - - -
+         CORPORATION - - X - - - -
+82801FB/FBM/FR/FW/FRW - - X - - - -
+                ICH6 - - X - - - -
+              FAMILY - - X - - - -
+          DEFINITION - - X - - - -
+                TYPE - - X - - - -
+            TERMINAL - - X - - - -
+               LEVEL - - O - - - -
+               MIXER - - - X - - -
+             CHANNEL - - - O - - -
+               CLICK - - - X - - -
+             SPEAKER - - - X - - -
+                ICON - - - X - - -
+          NOTICATION - - - X - - -
+                AREA - - - X - - -
+          PROPERTIES - - - X - - -
+                TOUR - - - O - - -
+                SHOW - - - - - O -
+                MUTE - - - - - O -
+            HARDWARE - - - - - S -
+/ETC/INIT.D/ALSA-UTILS - - - - - - S
+            PROBLEMS - - - - - - O
+               IDEAS - - - - - - O

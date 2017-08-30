@@ -1,0 +1,24 @@
+             ANYBODY X - - - -
+                WIFI X - - - -
+                 WPA X - - - -
+             PROBLEM - X - - -
+             PROCESS - - X - -
+           YESTERDAY - - X - -
+                 END - - - X -
+              RESULT - - - S -
+/ETC/NETWORKING/INTERFACES - - - O -
+                LINE - - - O -
+            WIRELESS - - - X X
+           INTERFACE - - - O -
+             LINKSYS - - - S -
+                SSID - - - O -
+              MYPASS - - - S -
+            PASSWORD - - - O -
+               QUOTE - - - O -
+                AUTO - - - X -
+                ETH0 - - - S -
+            IWCONFIG - - - X S
+         NDISWRAPPER - - - - O
+          CONNECTION - - - - S
+                LIST - - - - O
+             NETWORK - - - - X

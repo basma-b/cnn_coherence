@@ -1,0 +1,15 @@
+             SERVICE X X - - -
+     NAME_OF_SERVICE X - - - -
+/ETC/INIT.D/NAME_OF_SERVICE X - - - -
+               10.04 X - - - -
+              THINGS - X - - -
+                  » - O - - -
+             UPSTART - X - - -
+                BOOT - X - - -
+            INSTANCE - - X - -
+               AVAHI - - S - -
+               START - - - - X
+/ETC/INIT/AVAHI-DAEMON.CONF - - - - O
+                LINE - - - - X
+                WAYS - - - - X
+/ETC/INIT/AVAHI-DAEMON.CONF.DISABLED - - - - X

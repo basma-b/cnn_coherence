@@ -1,0 +1,13 @@
+                HELP X - - - - - -
+               ENTRY - O - - - - -
+          /ETC/FSTAB - X - - - - -
+              REBOOT - O - - - - -
+                HANG - O - - - - -
+                THIS - - X - - - -
+               FSTAB - - O - - O -
+                FILE - - - O - - -
+              UBUNTU - - - - - S -
+                BOOT - - - - - X -
+                LOGO - - - - - - O
+                 DOT - - - - - - X
+            MAVERICK - - - - - - X

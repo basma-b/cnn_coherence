@@ -1,0 +1,13 @@
+                Z0RS S - - - -
+                GRUB X - - - -
+              BOOTUP O - - - -
+     ALL-GENERIC-IDE - O - - -
+                LINE - X S - -
+                ROOT - X X - -
+               HD0,0 - X - - -
+              KERNEL - X - - -
+                 ONE - - X - -
+              STRING - - X - -
+               FLASH - - - X -
+              PLAYER - - - O -
+               THING - - - X -

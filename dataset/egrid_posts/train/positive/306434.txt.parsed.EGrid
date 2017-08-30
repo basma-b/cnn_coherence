@@ -1,0 +1,15 @@
+               DRIVE O - - - -
+                  CD X - - - -
+                THAT - X - - -
+           PARTITION - O - - X
+                SUDO - - S - -
+              FSTYPE - - X - O
+    PARTITION_DEVICE - - X - -
+        /MOUNT/POINT - - O - -
+              LIVECD - - X - -
+                VFAT - - - - S
+               FAT32 - - - - X
+               WINXP - - - - X
+           SOMETHING - - - - X
+                LIKE - - - - X
+           /DEV/SDA3 - - - - X

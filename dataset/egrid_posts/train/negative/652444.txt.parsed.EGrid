@@ -1,0 +1,14 @@
+           DIRECTORY O O - - -
+                 SIG X X X - -
+                 SET X X - - -
+                 ALL S S - - -
+         PERMISSIONS O O - - -
+                REST - X - - -
+               UMASK - O - - -
+                   > - S - - -
+                  .. - - X - -
+               -RSB- - - X - -
+              CLIENT - - S - -
+                FLAG - - X - -
+             MESSAGE - - O - -
+                HMMM - - - - X

@@ -1,0 +1,11 @@
+               FSTAB X - - - - -
+               P-ATA O - - - - -
+               ATAPI - - - X - -
+              DVDRAM - - - X - -
+               DRIVE - - - O S -
+            /DEV/HDA - - - X - -
+                 IDE - - - X - -
+          CONTROLLER - - - X - -
+                FILE - - - - - O
+                   / - - - - - X
+         UPDATE-GRUB - - - - - X

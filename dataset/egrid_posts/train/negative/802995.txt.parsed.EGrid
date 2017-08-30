@@ -1,0 +1,15 @@
+               OWNER O - - - - -
+               MYSQL X - - - - -
+                 USE X - - - - -
+               CHOWN O - - - - -
+                DATA X X - S - -
+                USER X - - - - -
+                  ID S - - - - -
+                ROOT - X - - - -
+                SUDO - O - - - -
+               FRONT - X - - - -
+                LINK - O - - - -
+           DIRECTORY - X - O - -
+                THAT - - O - - -
+                DROP - - - - O -
+                   H - - - - S -

@@ -1,0 +1,15 @@
+               IMAGE O - - - - -
+              SERVER X - - - - -
+      OPENSSH-SERVER - X - - - -
+                THIS - - - X - -
+               FDISK - - - S - -
+           PARTITION - - - X - -
+               TABLE - - - O - -
+                 RUN - - - X - -
+                SUDO - - - X - -
+            /DEV/SDA - - - X - -
+                   P - - - S - -
+                   Q - - - X - -
+              OUTPUT - - - - X -
+                THAT - - - - - O
+            /DEV/SDC - - - - - X

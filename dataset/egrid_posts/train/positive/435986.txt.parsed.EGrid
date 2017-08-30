@@ -1,0 +1,33 @@
+                 ONE X - - - - -
+                TYPE X - - - - -
+            IWCONFIG S - - - - -
+            WMASTER0 O - - - - -
+            WIRELESS X - - - - -
+             NETWORK S - - - - -
+               WLAN0 X - - - - -
+            BROADCOM X - O - - -
+         NDISWRAPPER X X - X - -
+             UPGRADE X - - - - -
+               FRESH X - - - - -
+                THAT - O - - - -
+          EVERYTHING - O - - - -
+                7.10 - X - - - -
+              CHANGE - X - - - -
+        /ETC/MODULES - X - - - -
+/ETC/MODPROBE.D/BLACKLIST - X - X - -
+        B43-FWCUTTER - S - - - -
+              PROMPT - O - - - -
+                TIME - - - O - -
+                 B43 - - - O - -
+            POSSIBLE - - - X - -
+                WAYS - - - X - -
+             SUPPORT - - - O - -
+             CHANNEL - - - X - -
+              THINGS - - - S - -
+              NOBODY - - - S - -
+                GUNK - - - O - -
+                8.10 - - - S - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - - - S -
+       HOMEDIRECTORY - - - - X -
+                COPY - - - - O -
+                WORK - - - - - X

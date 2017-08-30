@@ -1,0 +1,16 @@
+                  CD X - - - - -
+                 KID S - - - - -
+                   > - S - - - -
+                .ISO - S - - - -
+                 USB - X - X - -
+                BOOT - X - - - -
+              UBUNTU - - X - - -
+             STARTUP - - - X - -
+                DISK - - - X - -
+             CREATOR - - - O - -
+            RC.LOCAL - - - - S -
+              REBOOT - - - - - X
+                ROOT - - - - - X
+             CRONTAB - - - - - X
+             UPSTART - - - - - X
+              SCRIPT - - - - - O

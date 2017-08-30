@@ -1,0 +1,16 @@
+           DATABASES O - - - - -
+   /ETC/MYSQL/MY.CNF - S - - - -
+            PASSWORD - O - O - -
+                USER - S - - - -
+                  -U - O - - - -
+               MYSQL - X - - O -
+               CREAT - X - - - -
+               MAMBO - X - - - -
+            DATABASE - X - - - -
+                 TRY - S - - - -
+                THAT - - S - - -
+              REASON - - - X - -
+              CHANGE - - - - S -
+              MY.CNF - - - - S -
+                FILE - - - - - X
+                 DIR - - - - - X

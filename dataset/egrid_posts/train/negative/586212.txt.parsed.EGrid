@@ -1,0 +1,12 @@
+                EXT4 X X - - - -
+            INTREPID X - - - - -
+              BACKUP - X - - - -
+           PARTITION - O - - - -
+                DATA - X - - - -
+             UPGRADE - X - - - -
+              JAUNTY - X - - - -
+               MKDIR - X - - - -
+               /TEST - S - - - -
+          FILESYSTEM - - - - X -
+                TYPE - - - - S -
+                FAST - - - - - X

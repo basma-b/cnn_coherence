@@ -1,0 +1,19 @@
+                 ONE S - - - - - - -
+              SYSTEM X - - - - - - -
+            MANGLERS X - - - - - - -
+              LAPTOP X - - - - - - -
+                  VM S - - - - - - -
+              FEDORA X - - - X O - -
+            INTERNET O - - - - - - -
+              BRIDGE X - - - - - - -
+                   A - O - - - - - -
+/ETC/NETWORK/INTERFACES - S - - - - - -
+                WIRE - X - - - - - -
+             NETWORK - S - - - - - -
+                ETH0 - X - - - - - -
+                SUDO - X - - - - - -
+/ETC/INIT.D/NETWORKING - S - - - - - -
+              UBUNTU - - - - - - O -
+               WHICH - - - - - - - S
+                BOOT - - - - - - - X
+                  .. - - - - - - - X

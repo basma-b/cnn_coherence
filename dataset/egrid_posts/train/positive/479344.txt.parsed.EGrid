@@ -1,0 +1,13 @@
+              OPTION O - O - - - -
+                BOOT X - X - - - -
+                  XP O - O - - S -
+                GRUB X - X - - - -
+               TITLE - X - X - - -
+                   / - X - X - - -
+                ROOT - X - X S O -
+         CHAINLOADER - X - X - S -
+                  +1 - O - O - - -
+          MAKEACTIVE - - - - X - -
+               THATS - - - - X - -
+               SETUP - - - - O - -
+              LOADER - - - - - S -

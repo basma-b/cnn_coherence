@@ -1,0 +1,21 @@
+             NETWORK X X - - -
+             MANAGER X O - - -
+                THAT - O - - -
+                SUDO - X - - -
+/ETC/INIT.D/NETWORKING - S - - -
+              APPLET - S - - -
+                 SYS - S - - -
+                 VPN - X - - -
+           COMPONENT - O - - -
+                ICON - O - - -
+              STATUS - X - - -
+              THINGY - X - - -
+         GNOME-PANEL - X - - -
+                 PKG - S - - -
+          CONNECTION - X - - -
+      NETWORKMANAGER - X - - -
+                  .. - - O - -
+              OPTION - - - X -
+             PROGRAM - - - - O
+            TERMINAL - - - - X
+              OUTPUT - - - - O

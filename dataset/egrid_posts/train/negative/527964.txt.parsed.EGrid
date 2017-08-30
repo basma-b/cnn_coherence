@@ -1,0 +1,16 @@
+              ANYONE X - - -
+                  CD X - - -
+           DIRECTORY X S - -
+                  LS O - - -
+                USER - X - -
+               GROUP - X - -
+         PERMISSIONS - O - -
+             SYMLINK - X - -
+              ACCESS - O - -
+                 DIR - X - -
+       FILES/SUBDIRS - O - -
+               GRANT - - S -
+                  -R - - X -
+                 SSH - - - O
+                DONT - - - S
+             DEFAULT - - - X

@@ -1,0 +1,23 @@
+                SSHD - S - - - S - - - -
+                SUDO - X - - - X - - - -
+     /ETC/INIT.D/SSH - S - - - - - - - -
+            FIREWALL - O - - - - - - S X
+          CONNECTION - X - - - - - - - -
+              REFUSE - S - - - - - - - -
+             NETSTAT - X - - - - - - - -
+                SHOW - X - - - - - - - -
+             MACHINE - X - - - - - - - -
+                THAT - - - O X - - - - -
+                   M - - - X - - - - - -
+                 AKE - - - X - - - - - -
+               BLOCK - - - S - - - - - -
+                 TCP - - - X - - - - - -
+                PORT - - - X X S - - S -
+                   ' - - - - - O - - - -
+/ETC/SSH/SSHD_CONFIG - - - - - X - - - -
+                LINE - - - - - O - - - -
+                 ONE - - - - - - X - - -
+                 SSH - - - - - - - - O -
+              CHANGE - - - - - - - - - O
+             FRIENDS - - - - - - - - - X
+                 END - - - - - - - - - X

@@ -1,0 +1,16 @@
+              ANYONE X - - - -
+               ERROR S X - - -
+               LINUX - X - - -
+                 RTC - X - X -
+               IOCTL - X - - -
+          PERMISSION - S - - -
+/PROC/SYS/DEV/RTC/MAX-USER-FREQ - O - - -
+              SYSTEM - X - - -
+             STARTUP - X - - -
+              SCRIPT - X - - -
+             PLAYING - - S - -
+                   T - - - S -
+               START - - - S -
+                SYNC - - - X -
+               AUDIO - - - - S
+             MPLAYER - - - - O

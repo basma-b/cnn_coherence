@@ -1,0 +1,13 @@
+             PROBLEM O - - - - -
+               10.04 X - - - - -
+                GRUB O - O - - -
+             UPGRADE X - - - - -
+      JAUNTY/EARLIER - X - - - -
+               LUCID - - X - - -
+             VERSION - - X - - -
+         UPDATE-GRUB - - X - - -
+               CHECK - - X - - -
+/DEV/DISK/BY-UUID/WHATEVER-UUID-IT-SETS - - S - - -
+              SCRIPT - - - - - O
+            LANGUAGE - - - - - X
+              PYTHON - - - - - O

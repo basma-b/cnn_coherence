@@ -1,0 +1,10 @@
+              SCRIPT O X S - - O
+             STARTUP X - - - - -
+         /ETC/INIT.D - X - - - -
+          SCRIPTNAME - X - - - -
+             DEFAULT - O - - - -
+                LINK - O - - - -
+         /ETC/RC2.D/ - X - - - -
+       S80SCRIPTNAME - - S - - -
+             SYMLINK - - O - - -
+/ETC/INIT.D/SKELETON - - - X - -

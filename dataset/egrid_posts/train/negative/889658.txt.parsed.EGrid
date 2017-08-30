@@ -1,0 +1,27 @@
+           PARTITION X - - - - - - - - -
+              UBUNTU S - - - - - - - - -
+                WUBI X - - - - - - - - -
+                HTTP - X - - - - - - - -
+            THEADMIN - S S - - - - - - -
+                TOOL - X O - - - - - - -
+                   U - X - - - - - - - -
+              SYSTEM - X - - - - - X - -
+           SOMETHING - - O - - - - - - -
+                   C - - O X - - - - - -
+\UBUNTU\DISKS\ROOT.DISK - - X X - - - - - -
+                STEP - - S - - - - - - -
+         SUGGESTIONS - - - - - X - - - -
+                GRUB - - - - - X - O - -
+             PROBLEM - - - - - X - - - -
+          GRUB-PROBE - - - - - - S - - -
+              CHROOT - - - - - - - O - -
+              FINISH - - - - - - - O - -
+               ERROR - - - - - - - X - -
+              CONFIG - - - - - - - X - -
+                FILE - - - - - - - O - -
+                THAT - - - - - - - - S -
+                 FIX - - - - - - - - O -
+             COMMAND - - - - - - - - X -
+               SETUP - - - - - - - - X -
+                  .. - - - - - - - - - X
+                MESS - - - - - - - - - X

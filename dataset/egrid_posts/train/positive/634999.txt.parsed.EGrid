@@ -1,0 +1,17 @@
+                SUDO O - - -
+             COMMAND O - - -
+                ROOT O - - -
+           PRIVILEGE X - - -
+               ENTRY - O - -
+        /ETC/SUDOERS - X - -
+                 ONE - O - -
+             SUDOERS - X - X
+             DEFAULT - X - -
+                USER - X - -
+              UBUNTU - S - -
+               GROUP - X - -
+                 OHH - X - -
+            INTEREST - - X -
+             SOMEONE - - - S
+               POWER - - - O
+              FIDDLE - - - X

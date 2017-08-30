@@ -1,0 +1,11 @@
+             PROBLEM - - O - - - -
+                ETH0 - - O - O - S
+/ETC/NETWORK/INTERFACES - - X - - - -
+            IFCONFIG - - - X X - -
+             SECTION - - - - X - -
+     /E/N/INTERFACES - - - - X - -
+               IFACE - - - - - - X
+     STATIC\NADDRESS - - - - - - X
+                  .. - - - - - - S
+             NETMASK - - - - - - X
+             NETWORK - - - - - - S

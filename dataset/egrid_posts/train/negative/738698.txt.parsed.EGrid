@@ -1,0 +1,14 @@
+             OPTIONS X - - - - - - -
+               FSTAB X - O - - - - -
+               DRIVE X - - - - O - -
+           HARDDRIVE - S - - - X - -
+              SYSTEM - X - - - - - -
+               THING - - - S - - - -
+             JUMPERS - - - O - O S -
+            PROBLEMS - - - - - - O -
+               START - - - - - - O -
+               DEBUG - - - - - - S -
+             PROBLEM - - - - - - - S
+             LOCALES - - - - - - - O
+                 LOT - - - - - - - O
+        DEPENDANCIES - - - - - - - X

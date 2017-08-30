@@ -1,0 +1,21 @@
+               THERE X - - - - - - - - - -
+                 WAY X - - - - - - - - - -
+                LOAD X O - X - - - - - - S
+              INITRD X X - - - - - - - - X
+                WIKI - O - - - - - - - - -
+            ANYTHING - S - - - - - - - - -
+             MODULES - X - - - - - - - - -
+                IDEA - - O - - - - - - - -
+                PAGE - - X - - - - - - - -
+             THERMAL - - - O - - - - - - -
+                THAT - - - - X - - - - S -
+                UDEV - - - - X - S - - - -
+              DRIVER - - - - - X - - - - -
+               AFAIK - - - - - - X - - - -
+             VERSION - - - - - - O - - - -
+              UBUNTU - - - - - - X - - - -
+      NOLOAD=THERMAL - - - - - - - S - - -
+              MODULE - - - - - - - - O - -
+/ETC/MODPROBE.D/BLACKLIST - - - - - - - - X - -
+             COMMENT - - - - - - - - O - -
+               THING - - - - - - - - - O -

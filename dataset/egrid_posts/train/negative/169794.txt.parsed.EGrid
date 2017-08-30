@@ -1,0 +1,6 @@
+                TYPE X -
+                  .. O -
+     BUILD-ESSENTIAL O -
+                LIST - X
+           GLIBC-DOC - X
+               LIBC6 - O

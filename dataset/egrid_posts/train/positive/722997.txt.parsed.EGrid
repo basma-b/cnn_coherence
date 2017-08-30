@@ -1,0 +1,8 @@
+                DISK - X - - - -
+                GRUB - X X - - -
+           PARTITION - - - O - X
+                NTFS - - - - - X
+             -HIDDEN - - - - - X
+              SCRIPT - - - - - O
+/ETC/GRUB.D/30_OS-PROBER - - - - - X
+                TYPE - - - - - O

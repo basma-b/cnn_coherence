@@ -1,0 +1,22 @@
+                SDA5 S - - - - - - - - - - - -
+                 LVM O - - - - - - - - - - - -
+              DEVICE - O - - - X - - - - - - -
+         /DEV/MAPPER - X - - X - - - - - - - -
+           SOMETHING - - X - - - - - - - - - -
+/DEV/MAPPER/VOLUMEGROUP/LOGICAL - - - X - - - - - - - - -
+              VOLUME - - - O - - - - - - - - -
+VOLUMEGROUP-LOGICALVOLUME - - - X - - - - - - - - -
+         VOLUMEGROUP - - - - X - - - - - - - -
+       LOGICALVOULME - - - - X - - - - - - - -
+                NAME - - - - S - - - - - - - -
+               SETUP - - - - X - - - - - - - -
+               LINUX - - - - O - - - - - - - -
+               THERE - - - - S - - - - - - - -
+/DEV/MAPPER/DATA-SAMBA - - - - S - - - - - - - -
+                 BOY - - - - O - - - - - - - -
+                TYPE - - - - X - - - - - - - -
+         /MEDIA/TEST - - - - - X - - - - - - -
+                   < - - - - - X - - - - - - -
+                   > - - - - - O - - - - - - -
+         MOUNT_POINT - - - - - X - - - - - - -
+                WORK - - - - - - - - - - - - X

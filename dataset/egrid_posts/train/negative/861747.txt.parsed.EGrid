@@ -1,0 +1,25 @@
+         FILESYSTEMS O - - - -
+              ERRORS X - - - -
+                FSCK - S X - -
+           BADBLOCKS - O O - -
+                  FS - O - - -
+                 ONE - S - - -
+                TYPE - X - - -
+             COMMAND - X - - -
+                LINE - O - - -
+             VERSION - X - - -
+         INFORMATION - X - - -
+                   ' - - X - -
+               CHECK - - O - -
+                 RUN - - X - -
+                 MAN - - X - -
+                  -R - - S - -
+/DEV/SDWHATEVERYOURPARTIONIS - - S - -
+              UBUNTU - - S - -
+                DISK - - X - -
+               ETHER - - O - -
+          PERMISSION - - O - -
+             MESSAGE - - X - -
+           PARTITION - - X - -
+                ROOT - - - O -
+              LIBSSH - - - - X

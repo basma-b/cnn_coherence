@@ -1,0 +1,14 @@
+                USER X - - - -
+               ERROR X - - - -
+                SORT X - - - -
+             OPTIONS - O - - -
+                GRUB - X - X -
+                9.10 - S - - -
+               10.04 - S - - -
+                BOOT - X - - -
+              PARAMS - S - - -
+                FILE - X - - -
+                SPOT - X - - -
+         UPDATE-GRUB - O - - -
+          CRYPTSETUP - - - S -
+             VOLUMES - - - X -

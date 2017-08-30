@@ -1,0 +1,6 @@
+           APT-CACHE X -
+              POLICY S -
+                MAIN X -
+             DEFAULT X X
+             PACKAGE O -
+              DISTRO X -

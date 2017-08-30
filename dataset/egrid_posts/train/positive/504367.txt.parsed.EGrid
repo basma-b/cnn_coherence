@@ -1,0 +1,16 @@
+              ANYONE X - - -
+             PROBLEM - O - -
+                 BUG - X X -
+              REPORT - O X -
+          RE-INSTALL - - O -
+             APT-GET - - S -
+             PACKAGE - - X S
+        INSTALLATION - - X -
+           CANDIDATE - - O -
+               HTTPS - - X -
+//BUGS.LAUNCHPAD.NET/LAUNCHPAD-REPORT-TOOL/+BUG/138743 - - X -
+               ERROR - - O -
+             COMMAND - - X -
+             ANACRON - - - X
+                CRON - - - X
+                REPO - - - X

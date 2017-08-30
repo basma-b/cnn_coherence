@@ -1,0 +1,12 @@
+           /DEV/SDA1 X - - -
+                COPY X - - -
+                SDB1 X - - -
+               DRIVE X - - -
+                  DD - X O -
+              OPTION - X - -
+                DATA - - X -
+                  OS - - X -
+              MIRROR - - X -
+        IF=/DEV/SDA1 - - X -
+        OF=/DEV/SDB1 - - O -
+            QUESTION - - S O

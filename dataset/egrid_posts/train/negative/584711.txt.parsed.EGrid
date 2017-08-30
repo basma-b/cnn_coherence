@@ -1,0 +1,12 @@
+            LOCATION X - - O - - - -
+                 SMB X - X X - - - -
+               SHARE X - - - - - - -
+             WINDOWS X - - - - - - -
+                 BOX X - - - - - - -
+             SYMLINK - O - - - - - -
+          MOUNTPOINT - X - - - - - -
+                 QRZ - - X - - - - -
+               WHATS - - X - - - - -
+               ENTRY - - - O - - - -
+          /ETC/FSTAB - - - X - - - -
+                BOOT - - - - X - - -

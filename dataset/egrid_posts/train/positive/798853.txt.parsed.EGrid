@@ -1,0 +1,11 @@
+             COMMAND X - - - - - - - - - -
+                  CP X - - - - - - - - - -
+           /DEV/SDB1 O - - - - - - - - - -
+                COPY - - - - - S - - - - -
+            FIDYDUCE - - - - - - S - - - -
+                BOOT - - - - - - - X - - -
+              BACKUP - - - - - - - X - - -
+                DISK - - - - - - - - X - -
+             SESSION - - - - - - - - X - -
+            TERMINAL - - - - - - - - - - O
+                  -H - - - - - - - - - - X

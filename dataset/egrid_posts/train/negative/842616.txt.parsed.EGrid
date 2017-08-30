@@ -1,0 +1,16 @@
+        MYSQL_CONFIG S - - S - - - - -
+              SYSTEM X - - - - - - - -
+              INSTAL X - - - - - - - -
+        MYSQL-SERVER O - - - - - - - -
+   /ETC/MYSQL/MY.CNF - S - - - - - - -
+             PROBLEM - - X - - - - - -
+                FILE - - - O - - - - -
+             COMMAND - - - X - - - - -
+LIBMYSQLCLIENT15-DEV - - - O - - - - -
+/USR/BIN/MYSQL_CONFIG - - - X - - - - -
+               LENNY - - - X - - - - -
+           CONF-FILE - - - - X - - - -
+        MYSQL-PYTHON - - - - - X - - -
+                 USE - - - - - S - - -
+               ERROR - - - - - X - - -
+               REPOS - - - - - X - - -

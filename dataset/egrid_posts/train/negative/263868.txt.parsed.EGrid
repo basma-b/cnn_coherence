@@ -1,0 +1,14 @@
+                   | - S - - - -
+           PARTITION - X - - - -
+                SIZE - O - - - -
+          MOUNTPOINT - S - - - -
+                SOME - O - - - -
+               SPACE - X - - - -
+                SWAP - X - - - -
+                   / - - S - - -
+               LINUX - - X - - -
+                ROOT - - S - - -
+              LIVECD - - O S - -
+             GPARTED - - - X - -
+               GRUB1 - - - - - O
+                GRUB - - - - - O

@@ -1,0 +1,14 @@
+              MANUAL S - - - - -
+               /BOOT S - - - - -
+           /DEV/SDA7 X - - - - -
+                GRUB X - - - - -
+           PARTITION S - - - - -
+               HD0,2 X - - - - -
+                  OK - S - - - -
+                   S - O - - - -
+            /DEV/SDA - X - - - -
+                THAT - - X - - -
+                 ETC - - X - - -
+              MASTER - - - - - S
+               SLAVE - - - - - S
+                 SD0 - - - - - O

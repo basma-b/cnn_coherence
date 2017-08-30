@@ -1,0 +1,16 @@
+                NIGT O - - - - -
+           PARTITION S - - - - -
+                 USE X - - - - -
+               ERROR X O - - - -
+                GRUB X X - - - -
+               SETUP - X - - - -
+               HD0,5 - X - - - -
+              DEVICE - X - - - -
+             REQUEST - X - - - -
+              ANYONE - - S - - -
+                  .. - - - X - -
+                  HD - - - - S -
+                 0,5 - - - - X -
+                 HD0 - - - - X -
+           SOMETHING - - - - X -
+              /TOPIC - - - - - X

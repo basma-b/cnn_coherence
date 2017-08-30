@@ -1,0 +1,17 @@
+                WORK - O - - - - - -
+            WIRELESS - X - - - - - -
+               SETUP - - X - - - - -
+/ETC/NETWORK/INTERFACES - - X - - - - -
+              CUSTOM - - X - - - - -
+              SCRIPT - - O - - - - -
+      WPA_SUPPLICANT - - X - - - - -
+                DHCP - - O - - - - -
+            INTERNET - - X - - - - -
+         NDISWRAPPER - - - O - - - -
+                  -M - - - O - - - -
+        /ETC/MODULES - - - X - - - X
+          EVERYTHING - - - S - - - -
+               RIGHT - - - O - - - -
+                THAT - - - - - - X -
+                 WPA - - - - - - O -
+            ANYTHING - - - - - - - O

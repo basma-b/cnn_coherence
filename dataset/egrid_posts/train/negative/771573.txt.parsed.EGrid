@@ -1,0 +1,15 @@
+        TROUBLESHOOT - S - - - -
+            INTERNET - X - - - -
+              DEVICE - O - - - -
+            IFCONFIG - X - - - -
+                ETH0 - - S - - -
+               DMESG - - X - - -
+            ANYTHING - - O - - -
+                GREP - - X - - -
+             NOTHING - - X - - -
+              KERNEL - - S - - -
+                THAT - - - O - -
+             DRIVERS - - - X - -
+       CONFIGURATION - - - X - -
+               ISSUE - - - X - -
+           DIRECTORY - - - - - X

@@ -1,0 +1,17 @@
+                 ALL X - - - - - - - - - -
+                 ONE - O - - - - - - - - -
+              APACHE - - X - - - - - - - -
+              CONFIG - - X - - - - - - - -
+                FILE - - O - - - - - - - -
+             MACHINE - - X - - - - - - - -
+         /ETC/APACHE - - S - - - - - - - -
+             APT-GET - - S - - - O - X - -
+                CLUE - - - - X - - - - - -
+           UNINSTALL - - - - - X - - - - -
+             APACHE2 - - - - - - O - O - -
+               PURGE - - - - - - S - - - -
+        /ETC/APACHE2 - - - - - - - S - - -
+               AVAIL - - - - - - - - X - -
+           AUTOCLEAN - - - - - - - - - X -
+                THIS - - - - - - - - - - S
+         OPPORTUNITY - - - - - - - - - - O

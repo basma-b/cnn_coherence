@@ -1,0 +1,43 @@
+        SELF.INSTALL S - - - - - - - - - -
+                LINE X - X - - - - - - - -
+ SELF.APTGETMEASURES S - - - - - - - - - -
+      APTGETMEASURES S - - - - - - - - - -
+                SUDO X - - - - - - - - - -
+             APT-GET S - - - - - - - - - -
+                   + S - - S - - - - - - -
+     SELF.APTPACKAGE X - - - - - - - - - -
+       ERRORMESSAGE= X - - - - - - - - - -
+             PACKAGE X - - - - - - - - - -
+        INSTALLATION S - - - - - - - - - -
+               RAISE - - X - - - - - - - -
+SYSTEMCOMMANDEXECUTIONERROR - - X - - - - - - - -
+             COMMAND - - S S - - - - - - -
+             PROBLEM - - - S S - - - - - -
+                HELP - - - O X - - - - - -
+             WEBSITE - - - X X - - - - - -
+__MAIN__.SYSTEMCOMMANDEXECUTIONERROR - - - O - - - - - - -
+                   $ - - - - X - - - - - -
+                THAT - - - - X - - - - - -
+               RAMPY - - - - X - - - - - -
+              SCRIPT - - - - O X X X - - -
+                THIS - - - - - - S - - - -
+                HTTP - - - - - - O X - - -
+             FIREFOX - - - - - - O - S - -
+               THING - - - - - - O - - - -
+               ERROR - - - - - - O - - - -
+                 RUN - - - - - - X - - - -
+              PYTHON - - - - - - X - - - -
+                 USE - - - - - - X - - - -
+         UBUNTIZILLA - - - - - - X - - - -
+//PYKEYLOGGER.SOURCEFORGE.NET/WIKI/INDEX.PHP/UBUNTUZ - - - - - - S - - - -
+              METHOD - - - - - - O - - - -
+               THERE - - - - - - - S - - -
+                TEXT - - - - - - - X - - -
+                PAGE - - - - - - - X - - -
+               PARTY - - - - - - - X - - -
+                IDEA - - - - - - - X - - -
+             TARBALL - - - - - - - - O - -
+          EXECUTABLE - - - - - - - - O - -
+           DIRECTORY - - - - - - - - X - -
+               /BOOT - - - - - - - - - - S
+                REST - - - - - - - - - - S

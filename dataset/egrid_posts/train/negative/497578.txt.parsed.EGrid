@@ -1,0 +1,12 @@
+                USER X - - - - - -
+               GROUP X - - - - - -
+          /ETC/GROUP X - - - - - -
+                FILE - S - - - - -
+            ARGUMENT - - - - - O -
+NETWORK-MANAGER-OPENVPN - - - - - - X
+           PRIVILEGE - - - - - - X
+                COOL - - - - - - X
+            GOPENVPN - - - - - - O
+             COMMAND - - - - - - X
+                LINE - - - - - - O
+                  NM - - - - - - S

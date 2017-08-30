@@ -1,0 +1,20 @@
+                 THE S - - -
+                ROOT S - - -
+             KNOPPIX O - - -
+/DEV/SDB1/BACKUP/IMAGE.IMG X - - -
+                LOOP S - - -
+           DIRECTORY S - - -
+              DEVICE O - - -
+              BINARY X - - -
+         PERMISSIONS X - - -
+                USER X - - -
+               GROUP X - - -
+                  ID O - - -
+             OPTIONS O - - -
+         EXPLANATION - O - -
+                HTTP - X - -
+             COMMAND - X - -
+                LINE - S - -
+                 USE - - X -
+/PATH/TO/THE/WHATEVER.IMG - - S -
+               THATS - - - S

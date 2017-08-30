@@ -1,0 +1,9 @@
+ /BOOT/GRUB/GRUB.CFG S - - -
+                BOOT O - - -
+             DESKTOP O - - -
+              CONFIG - X - -
+                FILE - X - -
+         UPDATE-GRUB - O - -
+                  CD - O - -
+             RELEASE - - - S
+            SEGFAULT - - - O

@@ -1,0 +1,12 @@
+            PROTOCOL X - - - -
+            TRANSFER X X - - -
+                FILE X X - - -
+                 USE - O - - -
+                 FTP - X - - -
+                 SCP - S - - -
+                 SSH - S - - -
+                 ALL - O - - -
+             FEATURE - X - - -
+              RESUME - - - X -
+         CHECKPOINTS - - - S -
+               WORRY - - - - S

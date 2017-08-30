@@ -1,0 +1,12 @@
+                BOOT - O - -
+                   | - S - -
+             VGA=791 - S - X
+          BOOTLOADER - X - -
+                MENU - S - -
+                MODE - X - -
+               PLACE - X - -
+                FILE - X - -
+   /ETC/DEFAULT/GRUB - - - X
+                   > - - - X
+GRUB_CMDLINE_LINUX_DEFAULT= - - - X
+                  » - - - O

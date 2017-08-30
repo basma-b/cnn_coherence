@@ -1,0 +1,15 @@
+           PARTITION X S O - X - -
+               FSTAB X - X - - - -
+           /DEV/SDA4 - X X - - - -
+                SDA4 - S - - - - -
+           DIRECTORY - O - S - - -
+            PHYSICAL - X - - - - -
+               LEAVE - O - - - - -
+                 ONE - S - - - - -
+                 RAM - X - - - - -
+                LINK - - O - - - -
+           SOMETHING - - O - - - -
+           /DEV/SDA3 - - - X - - -
+               LABEL - - - - X - -
+                NAME - - - - - O -
+             FLANNEL - - - - - - X

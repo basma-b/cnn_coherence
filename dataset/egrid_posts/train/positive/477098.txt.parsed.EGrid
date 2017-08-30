@@ -1,0 +1,24 @@
+               THERE S - - - - - - - - - -
+                 WAY X - - - - - - - - - -
+             OPENDNS O - - - - - - - - - -
+                 DNS O - X - - - - - - - -
+              ROUTER X - - - - X - - - - -
+             SERVERS - O - - - - - - - - -
+             NETWORK - X - O X O - - - - O
+            SETTINGS - X - - - - - - O - -
+                FILE - - X - - - - - - O -
+               CACHE - - O - - - - - - - -
+                  .. - - - - X - - - - - -
+         RESOLV.CONF - - - - - S - - - - -
+           OVERWRITE - - - - - O - - - - -
+                DHCP - - - - - X - - - - -
+                THIS - - - - - - X - - - -
+             OPTIONS - - - - - - - - O - -
+               MODEM - - - - - - - - X - -
+/ETC/DHCP3/DHCLIENT.CONF - - - - - - - - - X -
+                ROOT - - - - - - - - - X -
+                LINE - - - - - - - - - S -
+ DOMAIN-NAME-SERVERS - - - - - - - - - O -
+           127.0.0.1 - - - - - - - - - X -
+               COMMA - - - - - - - - - X -
+/ETC/INIT.D/NETWORKING - - - - - - - - - - X

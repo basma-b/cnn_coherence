@@ -1,0 +1,16 @@
+                ABLE S - -
+               ERROR X - -
+                GRUB - S -
+              LIVECD - X -
+            TERMINAL - O -
+               SHELL - X -
+   /BOOT/GRUB/STAGE1 - S -
+                ROOT - X -
+               HD0,0 - S -
+              RESULT - O -
+             COMMAND - X -
+               SETUP - X -
+                 HD0 - X -
+              SCRIPT - - O
+                 ALL - - O
+             DEFAULT - - X

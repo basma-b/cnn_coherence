@@ -1,0 +1,28 @@
+              ANYONE S S - - - - -
+           FIREWAILL O - - - - - -
+            FIREWALL - O - - - - -
+         FIRESTARTER - - O O - - -
+               INPUT - - X - - - -
+            PASSWORD - - X - - - -
+             SESSION - - X X - - -
+       GNOME-SESSION - - X - - - -
+             COMMAND - - O - - - -
+             DESKTOP - - - X - - -
+         PREFERENCES - - - X - - -
+            SESSIONS - - - S - - -
+             STARTUP - - - X - - -
+                LIST - - - X - - -
+          FIRESTATER - - - S - - -
+             SERVICE - - - X - - -
+/ETC/INIT.D/FIRESTARTER - - - X - - -
+              STATUS - - - O - - -
+            FRONTENT - - - O - - -
+                TASK - - - O - - -
+              DAEMON - - - S - - -
+                LINE - - - O - - -
+        /ETC/SUDOERS - - - X - - -
+                ALL= - - - X - - -
+            NOPASSWD - - - X - - -
+/USR/SBIN/FIRESTARTER - - - X - - -
+                 FIX - - - - - X -
+                   D - - - - - - X

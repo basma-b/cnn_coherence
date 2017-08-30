@@ -1,0 +1,14 @@
+                 TAR X -
+                CZVF S -
+              /SOME/ X -
+             FOLDER/ O -
+              SOURCE X -
+             PACKAGE S O
+SQUID-DEB-PROXY-CLIENT.INSTALL S -
+ /ETC/APT/APT.CONF.D O -
+              FOLDER O -
+              INSTAL S X
+            MAKEFILE X -
+                PART O -
+          UBUNTU.COM - X
+               PROXY - X

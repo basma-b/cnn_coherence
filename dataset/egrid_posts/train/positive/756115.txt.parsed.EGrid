@@ -1,0 +1,17 @@
+              SYSTEM O - - - - -
+              KERNEL O O - X - -
+             DRIVERS - X - - - -
+                AUTO - X - - - -
+              UPDATE - S - - - -
+             UPGRADE - - - X O -
+             KERNELS - - - S - -
+              CUSTOM - - - X - -
+             DEFAULT - - - O - -
+                GRUB - - - X - -
+               IMAGE - - - O - -
+                ONES - - - - S -
+                SUDO - - - - - X
+                  -I - - - - - X
+                HOLD - - - - - X
+                DPKG - - - - - X
+      SET-SELECTIONS - - - - - X

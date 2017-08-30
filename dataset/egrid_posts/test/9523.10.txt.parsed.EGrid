@@ -1,0 +1,13 @@
+               THING O - - -
+              CONFIG X - - -
+                  .. - X - -
+    /ETC/VSFTPD.CONF - - X -
+PAM_SERVICE_NAME=VSFTPD - - X -
+                   > - - X -
+PAM_SERVICE_NAME=FTP - - X -
+            MODPROBE - - - X
+                  -L - - - X
+                   | - - - X
+                GREP - - - X
+              NVIDIA - - - X
+              RESULT - - - X

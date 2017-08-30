@@ -1,0 +1,15 @@
+                 MAC X - - - - -
+          VIRTUALBOX X - - - - -
+               APPLE - - O - - -
+           DATA-DISK - - X - - -
+                 NON - - X - - -
+         VIDEO/AUDIO - - S - - -
+                DISK - - X - - -
+                SUDO - - X - - -
+                LOOP - - X - - -
+             FOO.ISO - - X - - -
+                /MNT - - O - - -
+             NOTHING - - S - - -
+                  -L - - - - S -
+                THAT - - - - - O
+           AUTOMATIX - - - - - O

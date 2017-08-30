@@ -1,0 +1,25 @@
+       /USR/BIN/DPKG S - - - - - -
+               ERROR X - - - X - -
+                CODE O - - - - - -
+           BACKPORTS - - - S - - -
+            THOUGHTS - - - X - - -
+             PROBLEM - - - X - - -
+                DPKG - - - - S - -
+             PROCESS - - - - X - -
+/VAR/CACHE/APT/ARCHIVES/LINUX-IMAGE-2.6.10-5-386_2.6.10-34.6_I386.DEB - - - - X - -
+              UNPACK - - - - X - -
+/LIB/MODULES/2.6.10-5-386/KERNEL/DRIVERS/NET/NDISWRAPPER/NDISWRAPPER.KO - - - - O - -
+             PACKAGE - - - - X - -
+            DPKG-DEB - - - - X - -
+               PASTE - - - - S - -
+              SIGNAL - - - - X - -
+                PIPE - - - - X - -
+                 SRY - - - - S - -
+                   * - - - - X - -
+            UNISTALL - - - - X - -
+               CACHE - - - - X - -
+           UNINSTALL - - - - X - -
+                 RAM - - - - - X X
+              UBUNTU - - - - - X -
+          EXPERIENCE - - - - - X -
+                 HOG - - - - - - O

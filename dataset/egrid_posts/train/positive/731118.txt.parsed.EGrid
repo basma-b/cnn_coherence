@@ -1,0 +1,13 @@
+                THIS X - - - -
+                SUDO - S - - -
+             REMOUNT - O - - -
+             NOATIME - X - - -
+                AUTO - X - - -
+           /DEV/SDA6 - X - - -
+              OPTION - - X - -
+                DONT - - X - -
+             OPTIONS - - X - -
+           PARTITION - - O - -
+                VFAT - - X - -
+                 ALL - - O - -
+            WHATEVER - - - - S

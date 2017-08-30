@@ -1,0 +1,12 @@
+             STARTUP X - - - -
+              SCRIPT X - - - -
+              DAEMON O - - - -
+                USER X - - - -
+                FILE - X - - -
+            PASSWORD - X - - -
+        /ETC/SUDOERS - O - - -
+              BURNER - - X - -
+        ALL=NOPASSWD - - X - -
+                 ALL - - S - -
+                LINE - - - - X
+                   ^ - - - - X

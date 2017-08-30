@@ -1,0 +1,14 @@
+            RUNLEVEL S - - -
+               BREAK O - - -
+              REBOOT O - - -
+             MACHINE X - - -
+              PROMPT X - - -
+              DOESNT X - - -
+                LOAD X - - -
+              SCRIPT X - - -
+             SOMEONE S - - -
+             COMMAND - X - -
+                LINE - X - -
+                FSCK - - - X
+           PARTITION - - - S
+               CHECK - - - O

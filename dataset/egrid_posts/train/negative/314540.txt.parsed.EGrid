@@ -1,0 +1,8 @@
+      /SBIN/IFCONFIG X - -
+                SHOW S - -
+                ETH0 X - -
+                  .. O - -
+                  IM - S -
+              IFDOWN - X -
+               ERROR - - X
+             DEVICES - - X

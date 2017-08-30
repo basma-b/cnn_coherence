@@ -1,0 +1,19 @@
+             TCP/TLS O - - - - - -
+            MAVERICK X - - - - - -
+            ARGUMENT - O - - - - -
+/ETC/INIT/LIBVIRT-BIN.CONF - X - - - - -
+              DAEMON - O - - - - -
+              EFFECT - X O - - - -
+             INITCTL - - S - - - -
+RELOAD-CONFIGURATION - - X - - - -
+                KILL - - X - - - -
+             PROCESS - - X - - - -
+             MACHINE - - - X - - -
+                 BUG - - - - X - -
+                  .. - - - - O - -
+                   U - - - - S - -
+              MEMORY - - - - O - -
+               PATCH - - - - X - -
+              SCRIPT - - - - O - -
+                THAT - - - - - S -
+             UPSTART - - - - - - X

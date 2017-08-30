@@ -1,0 +1,17 @@
+                NTFS X O -
+           PARTITION O - -
+                ROOT X - -
+                USER S - -
+                  RO - S -
+           UMASK=022 - X -
+            UID=1000 - X -
+            GID=1000 - S -
+                 UID - X -
+                 GID - O -
+              SYNTAX - O -
+                  .. - X -
+                THIS - X -
+                MTAB - X -
+           /DEV/HDA1 - S -
+            SOLUTION - - O
+              REBOOT - - O

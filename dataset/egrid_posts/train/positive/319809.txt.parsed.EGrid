@@ -1,0 +1,17 @@
+                ZERO X - -
+                PART X - -
+               DRIVE X - O
+                BOOT X - -
+              SECTOR O - -
+                  DD X - O
+        IF=/DEV/ZERO X - -
+        OF=/DEV/SDA1 X - -
+                DBAN - O -
+             UTILITY - X -
+                DISK - X -
+               START - X -
+              FINISH - X -
+                THAT - - S
+              FLOPPY - - S
+             DRIVERS - - O
+                SPOT - - X

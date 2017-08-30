@@ -1,0 +1,19 @@
+              EXPORT X - - - -
+     HTTP_PROXY=HTTP X - - - -
+//YOUR.PROXY.WHATEVER X - - - -
+         PORT_NUMBER S - - - -
+      FTP_PROXY=HTTP X - - - -
+                 FTP O - - - -
+            TERMINAL X - - - X
+                TYPE - - X - -
+                   > - - S - X
+                SUDO - - X - -
+             APT-GET - - S - -
+                   < - - S - S
+               ERROR - - O - -
+           LOCALHOST - - S - -
+               SQUID - - O - X
+                SUCH - - O - -
+                  PS - - - - X
+                   | - - - - X
+              RESULT - - - - X

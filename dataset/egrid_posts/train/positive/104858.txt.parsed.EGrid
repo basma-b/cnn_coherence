@@ -1,0 +1,13 @@
+             IPMASSQ O O - - - -
+/ETC/IPMASQ/RULES/A80FIREWALL.DEF X X - - - -
+                  .. O O - - - -
+ EXTERNAL_TCP_ALLOW= O O - - - -
+              CLIENT S S - - - S
+                PORT O O - - - -
+              IPMASQ - - O - - -
+                 HMM - - - S - -
+                   > - - - O - -
+                 BRB - - - - S -
+                 ONE - - - - O -
+                   S - - - - X -
+              TELNET - - - - - O

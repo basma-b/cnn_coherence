@@ -1,0 +1,18 @@
+               THERE X - - -
+            ANYTHING X - - -
+             MACHINE O - - -
+               QUERY X - - -
+          NAMESERVER X S - -
+         ALLOW-QUERY - O - -
+           LOCALHOST - X - -
+         192.168.1.2 - X - -
+NAMED.CONFIG.OPTIONS - X - -
+                FILE - X - -
+            FIREWALL - O - -
+           INTERFACE - X - -
+         FIRESTARTER - - - O
+               SHARE - - - X
+            INTERNET - - - X
+          CONNECTION - - - X
+                 BOX - - - O
+         HOSTS.ALLOW - - - O

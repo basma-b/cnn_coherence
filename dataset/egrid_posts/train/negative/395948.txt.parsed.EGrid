@@ -1,0 +1,24 @@
+               ERROR S - - - S - - - - -
+                  VM O - - - O - - - - -
+VERR_HOSTIF_INIT_FAILED X X - - X X - - - -
+                VBOX - X - - - X X - S -
+              STATUS - X - - - X - - - -
+                CODE - X - - - X - - - -
+               -3100 - X - - - X - - - -
+             CóDIGO - - X - - - - - - -
+           RESULTADO - - X - - - - - - -
+          COMPONENTE - - X - - - - - - -
+          VIRTUALBOX - - X - - - - - - -
+            PROBLEMS - - X - - - - - - -
+             MACHINE - - - O - - - - - -
+             WINDOWS - - - S - - - - - -
+             NETWORK - - - X - - - - - -
+                 USE - - - X - - - - - -
+                 NAT - - - X - - - - - -
+              BRIGDE - - - O - - - - - -
+             CHANNEL - - - - - - - O X -
+                  BE - - - - - - - - X -
+                LUCK - - - - - - - - O -
+       VMWARE-SERVER - - - - - - - - X -
+                TNKS - - - - - - - - O -
+                 YES - - - - - - - - - X

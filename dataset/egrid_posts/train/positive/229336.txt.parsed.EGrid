@@ -1,0 +1,10 @@
+             DEFAULT X - - -
+              EDITOR X - - -
+             CRONTAB - X - -
+                  -E - S - -
+                ECHO - - X -
+          EDITOR=VIM - - X -
+                   > - - X -
+           ~/.BASHRC - - S -
+                 USE - - - X
+     ~/.BASH_PROFILE - - - X

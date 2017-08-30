@@ -1,0 +1,17 @@
+                USER S X - O - - - - -
+               ADMIN - X X X - - - - -
+             COMMAND - - S - - - - - -
+                LIST - - O - - - - - -
+               USERS - - X - - - - - -
+               GROUP - - - X X - - - -
+                SUDO - - - X - - - - -
+                 USE - - - O - - - - O
+                LINE - - - X - - - - -
+                X:27 - - - X - - - - -
+                ROOT - - - S - - S - X
+                   * - - - - S - - - -
+              ANYONE - - - - O - - - -
+          MOUNTPOINT - - - - - - O - -
+           PARTITION - - - - - - - O S
+                80GB - - - - - - - X -
+              UBUNTU - - - - - - - - S

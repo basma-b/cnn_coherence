@@ -1,0 +1,11 @@
+             COMMENT X - - -
+               LSMOD X - - -
+                 SND X - - -
+                 GUY - X - -
+             PROBLEM - O - -
+            /DEV/DSP - - X -
+            /DEV/PCM - - O -
+             MODULES - - S S
+                LOAD - - O -
+               DUNNO - - - X
+           SOUNDCARD - - - X

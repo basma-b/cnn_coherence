@@ -1,0 +1,17 @@
+             ANYBODY X - - - - - - -
+                FILE O - - - - - - -
+             WINDOWS X - - - - - - -
+           PARTITION X - - - - - - -
+               LINUX X - - - - - - -
+              UBUNTU X - - - - - - -
+                COPY - O - - - - - -
+             PACKAGE - O - - - - - -
+           NTFSMOUNT - S - - - - - -
+                NTFS - - S - - - - -
+           DIRECTORY - - - - O - - -
+               MKDIR - - - - - X - -
+            /MNT/TMP - - - - - X - -
+               DRIVE - - - - - - X -
+                SUDO - - - - - - - X
+            /DEV/SDA - - - - - - - S
+               USERS - - - - - - - O

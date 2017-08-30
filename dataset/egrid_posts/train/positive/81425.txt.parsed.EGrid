@@ -1,0 +1,20 @@
+             COMMAND S - -
+              SEARCH X - -
+   XORG-DRIVER-FGLRX X - -
+                TYPE X - -
+             NOTHING S - -
+                FILE O - -
+              UPDATE X - -
+                  OK O - -
+        SOURCES.LIST X - -
+                THAT - X -
+/ETC/APT/SOURCES.LIST - S -
+                ROOT - X -
+         PERMISSIONS - O -
+               FGLRX - S -
+                 ATI - X -
+                CANT - X -
+              MODULE - O X
+                   U - - X
+                 DAT - - X
+                 WER - - S

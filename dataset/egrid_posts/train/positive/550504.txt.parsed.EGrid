@@ -1,0 +1,9 @@
+              THINGS X - - -
+                 ADM - X - -
+               GROUP - X - X
+               ORDER - S - -
+     /VAR/LOG/SYSLOG - X - -
+   /VAR/LOG/MESSAGES - O - -
+                ROOT - X - O
+          PERMISSION - O - -
+               OWNER - X - -

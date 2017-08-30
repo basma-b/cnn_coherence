@@ -1,0 +1,33 @@
+               PROXY X S X - - - - - X -
+            TERMINAL X - - - - - - - - -
+                KIND X - - - - - - - - -
+                   $ - X - - - - - - - -
+                   ' - S - - - - - - - -
+               SQUID - X - - - - - - - -
+          SQUIDHOST= - X - - - - - - - -
+        SOMEHOSTNAME - X - - - - - - - -
+                HTTP - X - - - X - - X -
+                   | - X - - - - - - - -
+                SUDO - X - - - - - - - -
+                 TEE - X - - - - - - - -
+/ETC/APT/APT.CONF.D/01PROXY - S - - - - X - - -
+            HOSTNAME - X X O S - - - - -
+                THAT - - O - - - X - - -
+            ANYTHING - - S - - - - - - -
+         HOSTNAME/IP - - X - - - - - - -
+             ADDRESS - - S - X - - - - -
+             MACHINE - - X - - - - - - -
+                  IP - - - - X - - - - -
+                 E.G - - - - O - - - - -
+             ACQUIRE - - - - - X - - X -
+             NETWORK - - - - - X - - - -
+ //10.254.251.1:3142 - - - - - X - - - -
+                MINE - - - - - X - - - -
+//192.168.178.26:3128 - - - - - X - - X -
+           LOCALHOST - - - - - O - - - -
+               ERROR - - - - - - O - - -
+               THERE - - - - - - S - - -
+                TYPO - - - - - - O - - -
+                FILE - - - - - - X - X -
+               DRIVE - - - - - - - - - S
+               MOUNT - - - - - - - - - O

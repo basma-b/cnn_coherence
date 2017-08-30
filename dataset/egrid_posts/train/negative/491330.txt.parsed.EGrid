@@ -1,0 +1,19 @@
+                TIME X - - - - - -
+             ANYBODY S - - - - - -
+             COMMAND O - - - - - -
+              WAKEUP X - - - - - -
+               SLEEP X - - - - - -
+                MODE X - - - - - -
+             IWL3945 O X - - - - -
+            COMPUTER S - - - - - -
+                WAKE X - - - - - -
+                FILE - X - - - - -
+/ETC/PM/CONFIG.D/MODULES_UNLOADS - O - - - - -
+    SUSPEND_MODULES= - X - - - - -
+              MODULE - O - - - - -
+             SUSPEND - X - - - - -
+              RESUME - - X - - - -
+               SHOOT - - X - - - -
+            UVCVIDEO - - - - - O -
+                LIST - - - - - X -
+                DEVS - - - - - - X

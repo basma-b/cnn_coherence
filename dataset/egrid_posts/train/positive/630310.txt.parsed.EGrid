@@ -1,0 +1,13 @@
+             VOLUMES O - - - - -
+              UBUNTU X - - - - -
+             HFSPLUS - S - - - -
+                FILE - X - - - -
+              SYSTEM - X - - - -
+                TYPE - O - - - -
+                  RW - X - - - -
+                THAT - - O - - -
+               AFAIK - - S - - -
+               PLACE - - - X - -
+              ERRORS - - - - - S
+        SYSLOG/DMESG - - - - - X
+                 -RW - - - - - X

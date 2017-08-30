@@ -1,0 +1,12 @@
+          MENUCONFIG O - - - - -
+              KERNEL X - - - - -
+SCRIPTS/KCONFIG/LXDIALOG/DIALOG.H - X - - - -
+               32:20 - X - - - -
+               ERROR - X - - - -
+            CURSES.H - X - - - -
+                FILE - X - - - -
+           DIRECTORY - X - - - -
+         LIBNCURSES5 - - O - - -
+               IDEAS - - - X - -
+               KITTY - - - - O -
+               MEDIA - - - - - O

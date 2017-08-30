@@ -1,0 +1,13 @@
+                ACLS S - -
+         PERMISSIONS O - -
+               USERS X - -
+               GROUP S - -
+              ACCESS O - -
+                 SET X - -
+                FILE X - -
+                DIRS X - -
+             DEFAULT X - -
+             PACKAGE - - O
+                 DOC - - O
+              COURSE - - X
+               SETUP - - X

@@ -1,0 +1,14 @@
+             COMMAND X - - - - - -
+               PPPOE X - - - - - -
+                 KEY - X - - - - -
+                 USE - - S - - - -
+                THAT - - - S - - -
+             APT-GET - - - S - - -
+                 APP - - - O - - -
+                 GPG - - - - S - -
+                 KDE - - - - - S -
+               GNOME - - - - - X -
+                TIME - - - - - - X
+                 WAY - - - - - - O
+               THANX - - - - - - X
+                 MAN - - - - - - X

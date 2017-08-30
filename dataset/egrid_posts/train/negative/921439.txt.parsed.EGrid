@@ -1,0 +1,10 @@
+                THAT O - -
+                  .. O - -
+          DEPENDENCY X - -
+               CYCLE X - -
+            ANYTHING S - -
+       APACHE-COMMON - S -
+             PACKAGE - S -
+        DEPENDENCIES - O -
+                HTTP - - X
+//PASTE.UBUNTU.COM/100241/ - - X

@@ -1,0 +1,11 @@
+            COMPUTER O O -
+                ALSA X - -
+            SETTINGS O - -
+             ALSACTL - S -
+        SND-POWERMAC - O -
+                LOAD - S -
+                AUTO - X -
+                 TEE - X -
+                  -A - X -
+        /ETC/MODULES - O -
+6.06.1-ALTERNATE-I386 - - X

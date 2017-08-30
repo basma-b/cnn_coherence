@@ -1,0 +1,16 @@
+                TIME X - - - - -
+              STEREO X - - - - -
+              OUTPUT O - - - - -
+                HDMI X - - - - -
+            COMPUTER X - - - - -
+          PULSEAUDIO O - S - - -
+             DEVICES X - - - - -
+                THAT - X - - - -
+                CARD - - S - - -
+                  DD - - - X - -
+     IF=/DEV/URANDOM - - - X - -
+    OF=/PATH/TO/FILE - - - X - -
+               BS=1M - - - X - -
+           COUNT=10K - - - S - -
+             NETWORK - - - - - X
+             TIMEOUT - - - - - X

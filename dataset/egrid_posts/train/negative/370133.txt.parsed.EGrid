@@ -1,0 +1,10 @@
+             COMMAND O - - -
+                NMAP O X X -
+                LIST O - - -
+                PORT X - - -
+                  IM - S - -
+            ANYTHING - O - -
+                HELP - O - -
+             SCANNER - O - -
+               LINUX - X - -
+               THANK - - - X

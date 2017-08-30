@@ -1,0 +1,25 @@
+                LOAD S - - - - - -
+  LIBMESAVOODOOGL.SO S - - - - - -
+            QGL_INIT S - - - - - -
+                 DIR S - - - - - -
+/HOME/XCC/DESKTOP/QUAKE3/LIBMESAVOODOOGL.SO S - - - - - -
+               SHARE S - - - - - -
+           DIRECTORY S - - - - - -
+         CL_SHUTDOWN S - - - - - -
+         RE_SHUTDOWN S - - - - - -
+           SYS_ERROR S - - - - - -
+          GLIMP_INIT S - - - - - -
+              OPENGL S - - - - - -
+           SUBSYSTEM S - - - - - -
+            LIBGL.SO X - - - - - -
+            GRAPHICS - X - - X - -
+                CARD - X - - X - -
+              DRIVER - X - - - - -
+          INSTALLED\ - X - - - - -
+             CONTROL - - X X - - -
+               HTTPS - - - - - X -
+//WIKI.UBUNTU.COM/BINARYDRIVERHOWTO/ATI - - - - - X -
+                 ATI - - - - - - X
+              RADEON - - - - - - X
+            MOBILITY - - - - - - X
+                920O - - - - - - S

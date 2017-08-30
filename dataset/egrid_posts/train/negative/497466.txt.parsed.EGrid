@@ -1,0 +1,17 @@
+                 ALL X - - -
+                 VPS O - - -
+             COMMAND O - - -
+             PACKAGE X - - -
+           REINSTALL O - - -
+            MODPROBE - X - -
+             NOTHING - X - -
+                PATH - X - -
+     /USR/LOCAL/SBIN - - X -
+      /USR/LOCAL/BIN - - X -
+           /USR/SBIN - - X -
+            /USR/BIN - - X -
+               /SBIN - - X -
+                /BIN - - X -
+          /USR/GAMES - - X -
+                HTTP - - - S
+                 NVU - - - O

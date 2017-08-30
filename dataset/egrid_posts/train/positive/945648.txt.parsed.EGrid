@@ -1,0 +1,11 @@
+                TIME X - - -
+             WINDOWS X - - -
+           PARTITION X - - -
+              UBUNTU S - - -
+                ROOT - S - -
+          /ETC/FSTAB - - X -
+           UMASK=002 - - O -
+             OPTIONS - - X -
+               FIELD - - X -
+              ANYONE - - S -
+               THANK - - - X

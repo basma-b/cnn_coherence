@@ -1,0 +1,14 @@
+               THERE X - - - -
+                 LOG X - - O -
+              EVENTS X - - - -
+                 ETC - O - - -
+               CHECK - - - X -
+   /VAR/LOG/DPKG.LOG - - - S -
+       /VAR/LOG/APT/ - - - S -
+            /VAR/LOG - - - X -
+                FILE - - - - S
+               THEME - - - - X
+           DIRECTORY - - - - X
+             EXAMPLE - - - - X
+                LINE - - - - O
+            PASTEBIN - - - - X

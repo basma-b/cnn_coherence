@@ -1,0 +1,12 @@
+              STDERR S - - - - - - -
+             COMMAND - X - - O X - -
+                   > - - S O - - - O
+                THIS - - S S - - - S
+              STDOUT - - X O - - - -
+                  OK - - - O - - - -
+         REDIRECTION - - - S - - - -
+      /TMP/ERROR.TXT - - - X - - - -
+           /DEV/NULL - - - - X - - -
+          BACKGROUND - - - - X - - -
+              SYTHAX - - - - - O - -
+                 ONE - - - - - - - X

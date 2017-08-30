@@ -1,0 +1,14 @@
+          SYSTEM.MAP X - - - -
+                FILE X - - - -
+                 DIR X - - - -
+              KERNEL - X - - -
+              MODULE - X - - -
+                  .. - O O - -
+             PACKAGE - X - - -
+             HEADERS - - S - -
+             VERSION - - X - -
+               IDEAS - - S - -
+         ERROR.MOUNT - - - - X
+               POINT - - - - S
+               SPACE - - - - X
+               FSTAB - - - - X

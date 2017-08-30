@@ -1,0 +1,16 @@
+                  HI S - - - - - -
+                 BOX X - - - - - -
+            FIREWALL X - - - X - -
+               STUFF O - - - - - -
+                PORT - X - - X - -
+            IPTABLES - - X - - - -
+           FRONT-END - - O - - - -
+         FIRESTARTER - - X - - O -
+               BLOCK - - O - - - -
+             DEFAULT - - X - - - -
+         APPLICATION - - S - - - -
+          FRONT-ENDS - - - - S - -
+                APPS - - - - X - -
+                TIME - - - - - O -
+           SOMETHING - - - - - - O
+              NATURE - - - - - - X

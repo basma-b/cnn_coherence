@@ -1,0 +1,13 @@
+                  HI X - - - - - -
+              BACKUP - O - - X - -
+      HOME-DIRECTORY - X - - - - -
+                VFAT - - X - - - -
+              FORMAT - - X - - - -
+               DRIVE - - X - - - -
+    UNIX-PERMISSIONS - - X - - - -
+                   | - - - - S - -
+           LOOP-FILE - - - - O - -
+               IMAGE - - - - O - -
+                COPY - - - - - - X
+            TAR-FILE - - - - - - X
+              EFFECT - - - - - - O

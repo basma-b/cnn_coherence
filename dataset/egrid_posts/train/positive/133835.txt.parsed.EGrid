@@ -1,0 +1,12 @@
+               BZIP2 - S - -
+               STDIN - X X -
+                FILE - O - -
+                 TAR - - X -
+               CHILD - - X -
+              RETURN - - X -
+              STATUS - - X -
+      TAB-COMPLETING - - O -
+                STAR - - O -
+               ERROR - - X -
+         DESTINATION - - S -
+                HTTP - - - X

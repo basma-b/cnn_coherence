@@ -1,0 +1,15 @@
+               WHICH X - - - -
+                BOOT X X S X -
+              CHANGE - X - - -
+                  OS - - X - -
+                TIME - - - X -
+                  AH - - - X -
+               DELAY - - - S -
+             MONITOR - - - S -
+           AUTO-SYNC - - - X -
+                FILE - - - X -
+ /BOOT/GRUB/MENU.LST - - - O -
+                  .. - - - - O
+                  NO - - - - S
+           XORG.CONF - - - - X
+                THIS - - - - X

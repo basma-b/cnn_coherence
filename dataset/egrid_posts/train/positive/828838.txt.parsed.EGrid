@@ -1,0 +1,16 @@
+                EXEC - - - X - - - - - -
+                GKSU - - - X - - - - - -
+                 MEM - - - X - - - - - -
+                LEAK - - - X - - - - - -
+           SOMETHING - - - O - - - - - -
+           SEP_VIDEO - - - X S - - - - -
+                 DOS - - - - S - - - - -
+                NAME - - - - O - O - - -
+              KERNEL - - - - X - - - - -
+               UNAME - - - - - X - - - -
+              CHANGE - - - - - - X - - -
+               MAHDI - - - - - - S - - -
+                  -R - - - - - - X - - -
+               THATS - - - - - - O - - -
+            VARIABLE - - - - - - S - - -
+              DISTRO - - - - - - - - - X

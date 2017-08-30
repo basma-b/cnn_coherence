@@ -1,0 +1,14 @@
+             SUDOERS S - - -
+                FILE X - - -
+               ERROR O - - -
+                 USE O - - -
+                SUDO O - - -
+             COMMAND O - - -
+                ROOT X - - -
+              PASSWD O - - -
+        /ETC/SUDOERS O - - -
+                NOTE O - - -
+              VISUDO X - - -
+                THAT - - O -
+                 YUP - - - X
+                   P - - - X

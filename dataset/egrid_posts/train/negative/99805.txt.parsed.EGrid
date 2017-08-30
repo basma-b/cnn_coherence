@@ -1,0 +1,15 @@
+             PACKAGE X - -
+             NETWORK O - -
+                 ONE - X -
+                TYPE - X -
+            IWCONFIG - X -
+          INTERFACES - X -
+              IWLIST - X -
+                INTF - S -
+                CARD - O -
+             ATHEROS - X -
+             IPW2200 - X -
+              OTHERS - X -
+                 ALL - - O
+                   > - - S
+           SECURITY- - - S

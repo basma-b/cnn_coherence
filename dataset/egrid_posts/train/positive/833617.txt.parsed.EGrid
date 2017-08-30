@@ -1,0 +1,13 @@
+           /DEV/SDA1 S - - - - - -
+                 USE O - - - - - -
+              SYSTEM X - - - - - -
+             MESSAGE O - - - - - -
+                ROOT X - - - - - -
+               INODE X - - - - - -
+           PARTITION - X - - - - O
+                DATA - O - - - - -
+                EXT3 - - X - - - -
+                SUDO - - - X - - -
+               FDISK - - - X - - -
+                  -L - - - X - - -
+                DISK - - - X - - -

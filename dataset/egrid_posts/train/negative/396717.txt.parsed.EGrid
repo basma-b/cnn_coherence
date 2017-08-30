@@ -1,0 +1,12 @@
+              ANYONE X - - - - - - -
+            ANYTHING X - - - - - - -
+              KERNEL X - - - - - - -
+      CONFIG_X86_PAE - X - - - - - -
+              SYMBOL - S - - - - - -
+             VANILLA - - - X X - - -
+              CONFIG - - - X - - - -
+              SOURCE - - - - S - - -
+           SOMETHING - - - - X - - -
+              X86_32 - - - - - O - -
+           HIGHMEM4G - - - - - O - -
+                 BUG - - - - - - - X

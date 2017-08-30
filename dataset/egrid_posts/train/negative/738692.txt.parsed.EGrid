@@ -1,0 +1,17 @@
+               FSTAB X - - X - - - - - -
+   DRIVES/PARTITIONS X - - - - - - - - -
+                UUID X - S - - - O - - -
+             /DEV/ID X - - - - - - - - -
+             DEFAULT - X - - - - - - - -
+                  ID - S - - - - - - - -
+               DRIVE - - - O - - - - - -
+             TROUBLE - - - - - O - - - -
+             OPTIONS - - - - - X - - - -
+               LABEL - - - - - - X - - -
+          DIFFERENCE - - - - - - O - - -
+                 ADD - - - - - - - X - -
+                LINE - - - - - - - S - S
+                 M4N - - - - - - - - - X
+                CASE - - - - - - - - - X
+              M4N68T - - - - - - - - - X
+             PROBLEM - - - - - - - - - O

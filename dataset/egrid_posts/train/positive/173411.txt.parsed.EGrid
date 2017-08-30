@@ -1,0 +1,8 @@
+             COMMAND - X -
+              MD5SUM - X -
+  /ETC/X11/XORG.CONF - O -
+                SUDO - X -
+                 TEE - X -
+/VAR/LIB/X11/XORG.CONF.MD5SUM - S -
+   NVIDIA-GLX-CONFIG - S -
+                   X - S -

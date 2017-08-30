@@ -1,0 +1,8 @@
+           PVDISPLAY X - - - -
+                DISK X - - - -
+                 ERM - X - - -
+                ROOT - X - - -
+                FILE - X - - -
+              SYSTEM - O - - -
+           INITRAMFS - - X - -
+              INITRD - - - - X

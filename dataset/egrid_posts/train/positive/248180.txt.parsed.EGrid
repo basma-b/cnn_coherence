@@ -1,0 +1,14 @@
+                USER X X - -
+                MODE O - - -
+                GRUB X - - -
+                ROOT X - - -
+               GROUP X X - -
+             DEFAULT - X - -
+                TUNA - - - X
+                 ADM - - - S
+                 FAX - - - X
+               CDROM - - - X
+                TAPE - - - X
+               AUDIO - - - X
+                 DIP - - - S
+               ADMIN - - - O

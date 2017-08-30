@@ -1,0 +1,14 @@
+              PEOPLE X - - - - -
+              OUTPUT X - - - - -
+             COMMAND X - - - - -
+                  .. - - X - - -
+              ROOTFS - - X - - -
+                TYPE - - X - - -
+                  RW - - X - - -
+             MACHINE - - X - - -
+                EXT3 - - X - - -
+   ERRORS=REMOUNT-RO - - X - - -
+               FRESH - - - O - -
+                THIS - - - - - S
+               FSTAB - - - - - X
+             DEFAULT - - - - - O

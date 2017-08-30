@@ -1,0 +1,17 @@
+              UBUNTU X S - -
+   2.6.32-28-GENERIC X - - -
+                BOOT X X - -
+           INITRAMFS S S X -
+                THIS X - - -
+                 WAY - X - -
+                NEED - X - -
+           PARTITION - O X -
+          EXT-USB/CD - X - -
+              KERNEL - - O -
+               ERROR - - X -
+                 TRY - - S -
+               /ROOT - - O -
+          /PROC/ROOT - - X -
+              DOESNT - - S -
+              PROMPT - - X -
+               FSTAB - - - O

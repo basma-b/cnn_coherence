@@ -1,0 +1,11 @@
+          /ETC/HOSTS X - - -
+          ALLOW/DENY - S - -
+             SERVICE - O - -
+             OUTSIDE - X - -
+                 SSH - X - -
+                HTTP - X - -
+               HTTPS - X - -
+            FIREWALL - - O -
+            IPTABLES - - - X
+               THING - - - S
+                 WAY - - - O

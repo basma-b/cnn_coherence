@@ -1,0 +1,15 @@
+           PARTITION S - -
+                BYTE X - -
+           RESIZE2FS S - -
+                SIZE X - -
+           PARAMETER O - -
+                PART O - -
+               ISSUE S - -
+                SWAP O - -
+               DRIVE S - -
+             SWAPOFF X - -
+      /DEV/PARTITION X - -
+                CANT - X -
+                 END - X -
+              SECTOR - O -
+                   Q - - X

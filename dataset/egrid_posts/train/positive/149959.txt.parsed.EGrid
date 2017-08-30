@@ -1,0 +1,17 @@
+            SECURITY X - - - - -
+            QUESTION S - - - - -
+               REPLY O - - - - -
+            FIREWALL X - - O - -
+                  IP - X - - - -
+            MADPILOT - - S - - -
+                TYPE - - - X - -
+            TERMINAL - - - X - -
+            IPTABLES - - - X - -
+                  -F - - - X - -
+                RULE - - - O - -
+                SUDO - - - - X -
+             PACKAGE - - - - S -
+                 GCC - - - - S -
+             GOODIES - - - - S -
+             APT-GET - - - - S -
+                PROB - - - - X -

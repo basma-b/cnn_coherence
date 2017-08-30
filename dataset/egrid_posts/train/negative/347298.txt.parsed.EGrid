@@ -1,0 +1,25 @@
+               IMAGE X - - - -
+/USR/SBIN/MKINITRAMFS X - - - -
+                LINE O - - - -
+              MKTEMP S - O - -
+             COMMAND X - - - -
+         MKINITRAMFS S - - - -
+              SYSTEM X - - - -
+               ERROR - X - - -
+             PROCESS - X X - -
+LINUX-IMAGE-2.6.15-28-SERVER - O - - -
+           APT-CACHE - X - - -
+              SEARCH - S - - -
+             PACKAGE - - S - -
+                NAME - - O - -
+           SOMETHING - - S - -
+                CASE - - S - -
+                REPO - - X - -
+               INITD - - X - -
+          DEPENDENCY - - O - -
+             DESKTOP - - X - O
+           BACKGOUND - - O - -
+                   X - - X - -
+              THINGS - - X - -
+               ICONS - - S - -
+               MENUS - - X - -

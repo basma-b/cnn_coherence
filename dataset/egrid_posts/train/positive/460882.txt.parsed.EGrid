@@ -1,0 +1,25 @@
+                USER X X - - - -
+                 NFS X X - - - -
+               SHARE X S - - - -
+               BASIS - X - - - -
+              REASON - S - - - -
+              SERVER - X - - - -
+          PERMISSION - S - - - -
+              EXPORT - O X - - -
+                SUDO - - S - - -
+       192.168.2.100 - - O - - -
+                  .. - - X - - -
+                VAIO - - - O - -
+                 GUI - - - X - -
+             CONTENT - - - O - -
+        /ETC/EXPORTS - - - X - -
+           DIRECTORY - - - X - -
+                CALL - - - X - -
+                ROOT - - - X - -
+          FILESYSTEM - - - X - -
+                  RO - - - - X -
+                SYNC - - - - X -
+          ALL_SQUASH - - - - X -
+              COMPAQ - - - - X -
+       192.168.2.101 - - - - X -
+/HOME/ABORYM/DESKTOP/VAIO - - - - - O

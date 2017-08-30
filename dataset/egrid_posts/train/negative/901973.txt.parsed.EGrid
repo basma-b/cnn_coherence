@@ -1,0 +1,22 @@
+            WIRELESS X X - - - X - -
+                CARD X - - - - - - -
+                FILE X - - - - X - -
+            IWCONFIG S S - - - - - -
+               WLAN0 - X S - - - - -
+              RETURN - X - - - - - -
+               ERROR - X - - - - - -
+             REQUEST - X - - - - - -
+                SUDO - X - - - - - -
+                IFUP - X - - - - - -
+            IFCONFIG - - X - - - - -
+                HOST - - X - - - - -
+                TYPE - - O - - - - -
+                 CAT - - X - - - - -
+/ETC/NETWORK/INTERFACES - - X - - - - -
+                INFO - - - - - O - -
+              DEVICE - - - - - S - -
+          CONNECTION - - - - - X - -
+                ETH0 - - - - - X - -
+                LIST - - - - - O - -
+             PACKAGE - - - - - - - O
+                NAME - - - - - - - X

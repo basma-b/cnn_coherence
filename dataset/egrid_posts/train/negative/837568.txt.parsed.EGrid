@@ -1,0 +1,12 @@
+               FSTAB X - - -
+                 USE - X - -
+                UUID - X - -
+               POINT - X - -
+                  CP - S - -
+                COPY - X - -
+                 MBR - O - -
+      PARTION-LAYOUT - O - -
+                 AMD - - - S
+               INTEL - - - X
+                 DUO - - - X
+                CORE - - - S

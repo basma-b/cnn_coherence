@@ -1,0 +1,17 @@
+           SOMETHING - S - - - - - -
+             DISABLE - X - - - - - -
+                BITE - X - - - - - -
+           PROCESSOR - X - - - - - -
+           PROT_EXEC - - O - - - - -
+            MPROTECT - - X S O - - -
+               ERROR - - - O - - - -
+                 WAY - - - - X - - -
+                CODE - - - - O - - -
+                FILE - - - - X X - -
+           EXECUTION - - - - O - - -
+            LOCATION - - - - - X - -
+                THAT - - - - - X - S
+               STUFF - - - - - X - -
+                0XC3 - - - - - X - -
+                HEAP - - - - - X - -
+            QUESTION - - - - - - - O

@@ -1,0 +1,22 @@
+                  VE S - - - -
+              KERNEL O - - - -
+              2.6.24 X - - - -
+              UBUNTU S - - - -
+              DISTRO X - - - -
+                BOOT X - - - -
+          RESOLUTION X - - - -
+            KEYBOARD X - - - -
+              LAYOUT X - - - -
+            SETTINGS S - - - -
+LINUX-RESTRICTED-MODULES2.6.24 - O - - -
+                HINT - X - - -
+             COMMAND - - - X -
+                SUDO - - - X -
+    DPKG-RECONFIGURE - - - X -
+        XSERVER-XORG - - - O -
+                XORG - - - S -
+               SETUP - - - X -
+                 WAY - - - O -
+              FORMAT - - - - X
+                DISC - - - - O
+               INUDF - - - - X

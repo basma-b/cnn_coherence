@@ -1,0 +1,23 @@
+              CODECS - O - - - -
+                   | - S - - - -
+                NEED - X - - - -
+             DRIVERS - O - - - -
+           VIDEOCARD - X - - - -
+          WIDESCREEN - O - - - -
+                CARD - X - - - -
+                   $ - - O - - -
+                SUDO - - X - - -
+             APT-GET - - S - - -
+                 TOM - - X - - -
+                  -R - - X - - -
+              KERNEL - - O X - -
+               LINUX - - X - - -
+                 SMP - - S - - -
+                 FRI - - X - - -
+                 OCT - - X - - -
+           GNU/LINUX - - O - - -
+          NVIDIA-GLX - - - X - -
+             MODULES - - - O - -
+             VERSION - - - X - -
+NVIDIA-GLX_1.0.8776+2.6.17.6-1_I386.DEB - - - - X -
+          MULTIVERSE - - - - - O

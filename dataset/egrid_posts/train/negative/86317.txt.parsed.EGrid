@@ -1,0 +1,18 @@
+               LSMOD S - - - -
+                GREP O - - - -
+                  NV S - - - -
+              NVIDIA X - - - -
+             AGPGART X - - - -
+                  .. X - - - -
+           SOMETHING O - - - -
+              RENDER O - - - -
+            ANYTHING - - X - -
+           NEVERBALL - - X - -
+                 CAT - - - S -
+/PROC/DRIVER/NVIDIA/AGP/HOST-BRIDGE - - - O -
+          INDICATION - - - - X
+            PROBLEMS - - - - S
+                MYOU - - - - S
+                  CD - - - - O
+              KERNEL - - - - X
+             OOPSING - - - - X

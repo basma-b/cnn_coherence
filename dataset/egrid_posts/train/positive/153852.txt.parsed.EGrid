@@ -1,0 +1,20 @@
+             MACHINE X - - - X S - - - S - X -
+                 SSH X - - - - - - - - - - - -
+             SUCCESS X - - - - - - - - - - - -
+            ANYTHING - O - - - - - - - - - - -
+ /ETC/SSH/SSH_CONFIG - X - - - - - - - - - - O
+/ETC/SSH/SSHD_CONFIG - X - - O - - - - - - X -
+                LINE - - S - - - - - - - - - S
+             COMMENT - - O - - - - - - - - - O
+            RESPONSE - - - X - - - - - - - - -
+              CONFIG - - - - X - - - - - - X -
+                FILE - - - - O - - - - - - O X
+             PACKETS - - - - - S - - - - - - -
+                DROP - - - - - O - - - - - - -
+                  PT - - - - - - X - - - - - -
+              SERVER - - - - - - X - - - - - -
+              STRING - - - - - - O - - - - - -
+                THAT - - - - - - - X - - - - -
+                SSHD - - - - - - - - S - - - -
+             DEFAULT - - - - - - - - X - - - -
+               REACH - - - - - - - - - X - - -

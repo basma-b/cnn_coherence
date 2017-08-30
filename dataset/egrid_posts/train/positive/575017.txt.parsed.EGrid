@@ -1,0 +1,13 @@
+              FORMAT X - - - -
+               DRIVE X - - - -
+          FILESYSTEM O - - - -
+                EXT4 X - - - -
+         PERMISSIONS X - - - -
+         AUTOMOUNTED - - S - -
+             XUBUNTU - - X - -
+               ENTRY - - O - -
+          /ETC/FSTAB - - X - -
+                ROOT - - - X -
+               THING - - - - O
+                  RW - - - - X
+         AUTOMOUNTER - - - - X

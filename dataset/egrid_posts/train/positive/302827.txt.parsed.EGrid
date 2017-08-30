@@ -1,0 +1,9 @@
+               FSTAB - S - - - X
+              CHANGE - O X - - O
+              REBOOT - X - - - -
+                KIND - - S - - -
+           PARTITION - - O - - -
+             OPTIONS - - O - - -
+             REMOUNT - - - - - O
+                AUTO - - - - - X
+               /DEV/ - - - - - S

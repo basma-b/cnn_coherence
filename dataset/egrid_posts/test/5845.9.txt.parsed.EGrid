@@ -1,0 +1,10 @@
+         EQUIVALENCE X - -
+             COMMAND X - -
+           CHKCONFIG X - -
+                LIST X - -
+                NTPD X - -
+                   > S - -
+              DETAIL - - X
+          JOCKEY-GTK - - X
+             PROBLEM - - X
+                TYPE - - X

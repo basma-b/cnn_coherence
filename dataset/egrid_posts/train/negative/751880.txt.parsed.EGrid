@@ -1,0 +1,7 @@
+           PARTITION O - O - - -
+           INSTALLER - X S - - -
+                MKFS - O - - - -
+               /HOME - - X - - -
+              FORMAT - - X - - -
+              CUSTOM - - X - - -
+                 ONE - - - - X -

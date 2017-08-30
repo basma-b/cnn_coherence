@@ -1,0 +1,12 @@
+          FILESTYPES X - - -
+             COMMAND O - - X
+             EXAMPLE X - - -
+             APROPOS X - - -
+                CONF X - - -
+            APT.CONF S - - O
+            QUESTION O - - -
+            MANPAGES - O - -
+             SECTION - X - -
+                 NOT - - - S
+                 WAY - - - O
+             TYPESET - - - X

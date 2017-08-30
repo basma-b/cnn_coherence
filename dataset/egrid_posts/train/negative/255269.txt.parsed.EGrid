@@ -1,0 +1,14 @@
+             SOCKETS O - - - -
+              OPTION X - - - -
+               MYSQL X - - - -
+                 LOG X - - - -
+              SOCKET X - - - -
+                FILE O - - - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK X - - - -
+             SERVICE - X - - -
+                THAT - - - O -
+                LIST - - - O -
+              ERRORS - - - X -
+             MINUTES - - - - X
+                STOP - - - - X
+              INSTAL - - - - X

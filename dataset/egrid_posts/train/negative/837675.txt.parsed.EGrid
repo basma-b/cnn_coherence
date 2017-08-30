@@ -1,0 +1,16 @@
+             PROBLEM O - - O - - -
+              SYSTEM X - - - - - -
+                BOOT - X - - - - -
+              UBUNTU - S - - - - -
+            TERMINAL - O - - - - -
+              SCREEN - O - - - - -
+                EXIT - O - - - - -
+         GNOME-PANEL - - O - - - -
+             COMMAND - - X - - - -
+                LINE - - X - - - -
+                 GDM - - - - O O -
+        /ETC/INIT.D/ - - - - - X -
+                  .. - - - - - X -
+                TOOL - - - - - X -
+           CHKCONFIG - - - - - X -
+         UPDATE-RC.D - - - - - X -

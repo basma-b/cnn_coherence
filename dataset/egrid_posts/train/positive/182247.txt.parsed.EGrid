@@ -1,0 +1,17 @@
+           XORG.CONF X - - - - -
+              OUTPUT - X - - - -
+ /VAR/LOG/XORG.0.LOG - X - - - -
+             DRIVERS - X S O - -
+              LEGACY - - O X - -
+          NVIDIA-GLX - - - - - O
+             VERSION - - - - - X
+                 USE - - - - - O
+             APT-GET - - - - - O
+            PASTEBIN - - - - - O
+                HTTP - - - - - X
+//PASTE.UBUNTU-NL.ORG/19903 - - - - - X
+              DRIVER - - - - - X
+                 SET - - - - - O
+                  NV - - - - - X
+              NVIDIA - - - - - S
+                WORK - - - - - O

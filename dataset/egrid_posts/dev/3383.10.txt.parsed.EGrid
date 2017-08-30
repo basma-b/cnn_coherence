@@ -1,0 +1,14 @@
+        DIST-UPGRADE - O - - - - - -
+                PAST - X - - - - - -
+             COMMAND - - X - - - - -
+                TYPE - - X - - - - -
+                SUDO - - - X - - - -
+  DO-RELEASE-UPGRADE - - - S - - - -
+             RELEASE - - - O - - - -
+              KERNEL - - - - S - - -
+                2.00 - - - - - S - -
+                2.04 - - - - - X - -
+             PROBELM - - - - - - X -
+                BOOT - - - - - - - X
+              UBUNTU - - - - - - - X
+              FEDORA - - - - - - - X

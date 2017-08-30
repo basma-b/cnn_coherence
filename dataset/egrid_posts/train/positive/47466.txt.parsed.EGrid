@@ -1,0 +1,12 @@
+             PROBLEM - O - - -
+            SOMEBODY - S - - -
+              ROUTER - O X - -
+          CONNECTION - - O - -
+                  IP - - S O O
+         192.168.1.1 - - O - -
+             NETMASK - - - X S
+       255.255.255.0 - - - X -
+       192.168.1.100 - - - O -
+                DHCP - - - O -
+              MARTII - - - O -
+                INFO - - - X -

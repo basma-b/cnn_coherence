@@ -1,0 +1,10 @@
+                  PC O - - -
+               TODAY X - - -
+                CRON X - - -
+             COMMAND - O - -
+             CRONTAB - X - -
+                ROOT - X - -
+                USER - X - -
+                  DD - - - X
+     IF=/DEV/URANDOM - - - X
+         OF=/DEV/HDA - - - O

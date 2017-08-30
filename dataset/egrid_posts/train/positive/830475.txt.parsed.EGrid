@@ -1,0 +1,15 @@
+              UBUNTU O - - - - -
+                GRUB X - - - - -
+                FILE X - - - - -
+              ADVICE X - - - - -
+                  CD - O - - - -
+        INSTALLATION - X - X - -
+                BIND - S - - - -
+         UPDATE-GRUB - O O - - -
+           OS-PROBER - - S - - -
+                SUDO - - X - - -
+/USR/SBIN/GRUB-PROBE - - O - - -
+               ERROR - - X - - -
+                AUFS - - O - - -
+              CHROOT - - - - - O
+               HTTPS - - - - - X

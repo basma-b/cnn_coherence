@@ -1,0 +1,13 @@
+                HELP S - - - -
+              ANYONE S - - - -
+                   * O - - - -
+              SYSTEM X - - - -
+               VIDEO - X - - -
+                CARD - X - - -
+          LSMOD|GREP - - S - -
+                HTTP - - - X -
+//PACKAGES.DEBIAN.ORG/CGI-BIN/SEARCH_PACKAGES.PL - - - X -
+      SEARCHON=NAMES - - - - X
+         VERSION=ALL - - - - X
+             EXACT=1 - - - - X
+   KEYWORDS=PROZILLA - - - - S

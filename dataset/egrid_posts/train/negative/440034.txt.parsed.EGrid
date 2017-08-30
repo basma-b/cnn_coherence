@@ -1,0 +1,15 @@
+                COPY X - - -
+                TEXT X - - -
+                BASH X - X -
+             DEFAULT X - - -
+             BROWSER X - - -
+            TERMINAL - X - -
+            EMULATOR - X - -
+                   X - - S -
+                WONT - - X -
+                WORK - - S -
+                DONT - - S -
+                HOST - - O -
+                NEWB - - S -
+                NOPE - - X -
+     /VAR/LOG/SYSLOG - - - X

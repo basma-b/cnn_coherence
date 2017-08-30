@@ -1,0 +1,11 @@
+              OPTION X - - - - -
+             WINDOWS X - - - - -
+           PARTITION X - - - - X
+                NTFS - S - - - -
+                  NO - O - - - -
+               FAT32 - O - - - -
+               WRITE - - - - O -
+              UBUNTU - - - - S -
+          /ETC/FSTAB - - - - O -
+               FSTAB - - - - - S
+            DEFAULDS - - - - - S

@@ -1,0 +1,17 @@
+                THIS X - - - - - - -
+               12.04 X - - - - - - -
+                THAT - S - - - - - -
+                 LOG - S - S - - X -
+   /VAR/LOG/UPSTART/ - X - - - - - -
+                 JOB - S - - - - - -
+              OUTPUT - O - X - - - -
+                FILE - X - - - - - -
+             PROGRAM - - S - - - - -
+                LINE - - - O - - - -
+              SECOND - - - X - - - -
+                NONE - - - O - - - O
+        LOG-ROTATION - - - - X - - -
+                TIME - - - - - X - -
+               /TMP/ - - - - - - X -
+               TMPFS - - - - - - O -
+             ALRIGHT - - - - - - - S

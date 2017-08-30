@@ -1,0 +1,14 @@
+                  VM O - - -
+                  .. X O - -
+             BETWEEN X - - -
+               POWER X - - -
+             FAILURE X - - -
+                STOP - S - -
+              LIVECD - X - -
+              CHROOT - X - -
+                  -F - S - -
+               ERROR - O X -
+                   * - X - -
+                DBUS - X - -
+               HTTPS - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/DBUS/+BUG/552404 - - - X

@@ -1,0 +1,15 @@
+                THAT X - - -
+                  IP O - - -
+       192.168.1.106 X - - -
+/ETC/NETWORK/INTERFACES - O - -
+             ADDRESS - O - -
+                ROUT - O - -
+            INTERNET - X - -
+                CASE - S - -
+                 ^^^ - - S -
+                 DAD - - X -
+                WONT - - S -
+                DHCP - - X -
+       PORT-FORWARDS - - O -
+                   > - - X -
+                   < - - - X

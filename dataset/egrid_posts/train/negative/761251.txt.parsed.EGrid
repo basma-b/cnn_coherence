@@ -1,0 +1,47 @@
+              SCRIPT X - - X - - - - - - - - - - -
+               STATE O - - - - - - - - - - - - - -
+          PERMISSION S - - - - - - - - - - - - - -
+              ANYONE - S - - - - - - - - - - - - -
+         SUGGESTIONS - O - - - - - - - - - - - - -
+                  +X - O - - - - - - - - - - - - -
+          FILESYSTEM - X - - - - - - - - - - - - -
+                FILE - - S - - - - - - - - - - - -
+                MARK - - O - - - - O - - - - - - -
+                 CAT - - X - - - - - - - - - - - -
+        /PROC/MOUNTS - - X - - - - - - - - - - - -
+                  RW - - X - - - - - - - - - - - -
+                NONE - - X - - - - - - - - - - - -
+                /SYS - - X - - - - - - - - - - - -
+               SYSFS - - X - - - - - - - - - - - -
+            RELATIME - - X - - - - - - - - - - - -
+            DEVTMPFS - - S - - - - - - - - - - - -
+       SIZE=2021252K - - X - - - - - - - - - - - -
+    NR_INODES=505313 - - X - - - - - - - - - - - -
+            /DEV/PTS - - S - - - - - - - - - - - -
+/SYS/FS/FUSE/CONNECTIONS - - S - - - - - - - - - - - -
+            ANYTHING - - O - - - - - - - - - - - -
+              OUTPUT - - X - - - - - - - - - - - -
+                   S - - - X - - - - - - - - - - -
+                PATE - - - - - S - - - - - - - - -
+             THEPEON - - - - - O X - - - - - - - -
+            DOWNLOAD - - - - - - X - - - - - - - -
+                HOME - - - - - - X S - - - - - - -
+                  .. - - - - - - - O O - - - - - -
+                EXT3 - - - - - - - S - - - - - - -
+                LOOK - - - - - - - X - - - - - - -
+//PASTE.UBUNTU.COM/511958/ - - - - - - - X - - - - - - -
+             DEFAULT - - - - - - - S - - - - - - -
+               FSTAB - - - - - - - - X - - - - - -
+                FACT - - - - - - - - X - - - - - -
+               USERS - - - - - - - - O - - - - - -
+               HOWTO - - - - - - - - - - O - - - -
+                THAT - - - - - - - - - - - S - - -
+                ALLS - - - - - - - - - - - - S - -
+FLASHPLUGIN-DOWNLOADER - - - - - - - - - - - - X - -
+        INSTALLATION - - - - - - - - - - - - O - -
+              SYSTEM - - - - - - - - - - - - X - -
+                THIS - - - - - - - - - - - - - S -
+                COPY - - - - - - - - - - - - - X -
+           REINSTALL - - - - - - - - - - - - - O -
+                 FUI - - - - - - - - - - - - - X -
+                  BB - - - - - - - - - - - - - - X

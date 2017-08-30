@@ -1,0 +1,16 @@
+              ANYONE S - - - -
+DEFOPTIONS=ACPI_OSI= O - - - -
+               LINUX X - O - -
+                GRUB X - - - -
+               GRUB2 - X - - -
+                 YUP - - S - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - O - -
+           ACPI_OSI= - - O - -
+                NAME - - - X -
+              CONFIG - - - X -
+                 WAY - - - - X
+               GUIDE - - - - O
+             PROBLEM - - - - X
+             COMMAND - - - - X
+               SOUND - - - - X
+                CARD - - - - X

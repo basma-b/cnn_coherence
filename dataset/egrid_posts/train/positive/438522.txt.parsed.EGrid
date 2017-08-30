@@ -1,0 +1,14 @@
+﻿/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES X O X
+/ETC/MODPROBE.D/BLACKLIST X - -
+        /ETC/MODULES S - -
+               LSMOD O - -
+                HTTP X - -
+//PASTEBIN.COM/M53B02F31 X - -
+               THOSE X - -
+                FILE X X -
+             CONTENT X - -
+           PASTEBINS O - -
+                  IM - S -
+              FOLLOW - O -
+                BASH - X -
+           DIRECTORY - O -

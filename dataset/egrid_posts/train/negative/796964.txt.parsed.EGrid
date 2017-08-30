@@ -1,0 +1,24 @@
+              UPDATE X - - -
+             PACKAGE X - - -
+                NAME O - - -
+             HISTORY - X - -
+            SOFTWARE - X - -
+              CENTER - X - -
+                 CLI - X - -
+           SOMEWHERE - O - -
+                 CAT - X S -
+           /VAR/LOG/ - X - -
+                  .. - X - -
+                   | - - S -
+   /VAR/LOG/DPKG.LOG - - X -
+                FIND - - X -
+                   < - - X -
+/VAR/LOG/APT/HISTORY.LOG - - X -
+                TAIL - - X -
+                   > - - S -
+                 END - - S -
+                FILE - - X -
+               SPACE - - - X
+               THING - - - S
+                COZ_ - - - S
+      UBUNTU-DESKTOP - - - O

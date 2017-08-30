@@ -1,0 +1,16 @@
+          FILESYSTEM O - - - - - -
+                STEP X - - - - - -
+                 WAY X - - - - - -
+                TYPE X - - - - - -
+             COMMAND X X - - - - O
+               MOUNT - X - - - - -
+             REMOUNT - O - - - - -
+             OPTIONS - X - - - - -
+                THAT - - X - - - -
+              UMOUNT - - X - - - -
+         REPLACEMENT - - - X - - -
+                 BOX - - - O - - -
+               SMBFS - - - X - O S
+               SHARE - - - O - - -
+                SUDO - - - - - S S
+                  -T - - - - - - X

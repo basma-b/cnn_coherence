@@ -1,0 +1,10 @@
+           DIRECTORY X - - - -
+                 USE X - - - -
+                ROOT - X - - -
+                   * - S - - -
+         /ETC/PASSWD - X - - -
+            EVERYONE - X - - -
+         /ETC/SHADOW - - S - -
+           PASSWORDS - - O - -
+              UBUNTU - - X - -
+                WILL - - - X -

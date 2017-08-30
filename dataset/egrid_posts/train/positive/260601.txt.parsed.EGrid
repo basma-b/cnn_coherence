@@ -1,0 +1,9 @@
+/LIB/MODULES/2.6.17-10-GENERIC/KERNEL/DRIVERS/NET/WIRELESS/RT2X00/RT61PCI.KO O - - -
+            MODPROBE X - - -
+                RT61 X - - O
+            WIRELESS X - - O
+                CARD X - - -
+             CHIPSET X - - -
+              DRIVER O - - -
+            IFCONFIG - X - -
+            IWCONFIG - - - X

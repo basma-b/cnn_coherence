@@ -1,0 +1,16 @@
+                TIME O X S
+                MENU O - -
+                LIST O - -
+                BOOT X - -
+              INSTAL O - -
+             KERNELS O - -
+            RECOVERY X - -
+             STARTUP X - -
+                GRUB - X X
+              UBUNTU - - X
+                BIOS - - O
+                POST - - O
+              SCREEN - - X
+              SPLASH - - X
+                  .. - - O
+                 ALL - - X

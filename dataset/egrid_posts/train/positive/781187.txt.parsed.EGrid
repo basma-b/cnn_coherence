@@ -1,0 +1,27 @@
+             DEFAULT X - - - - - - - -
+                 MTA X - - - X - - - -
+                 ONE - O - - - - - - -
+                MTAS - - S - - - - - -
+              UBUNTU - - X - - - X - -
+            CONFLICT - - X - - - - - -
+               OTHER - - X - - - - - -
+               EXIM4 - - - O - - S - O
+        INSTALLATION - - - X - - - - -
+                HMMM - - - S - - - - -
+                MAIN - - - X - - - - -
+            SECURITY - - - X - - - - -
+              UPDATE - - - O - - - - -
+                MUCH - - - - O - - - -
+              CHOISE - - - - X - - - -
+             SUPPORT - - - - X - - - -
+          WORK-ALIKE - - - - O - - - -
+           SOMETHING - - - - - O - - -
+            BUGZILLA - - - - - - X - X
+             PACKAGE - - - - - - S - -
+          DEPENDENCY - - - - - - O - -
+           INTERFACE - - - - - - - - X
+         RECONFIGURE - - - - - - - - X
+               ERROR - - - - - - - - X
+REMOTE_SMTP_SMARTHOST - - - - - - - - S
+          CONNECTION - - - - - - - - S
+                MAIL - - - - - - - - O

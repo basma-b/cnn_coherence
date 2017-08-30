@@ -1,0 +1,15 @@
+            QUESTION X - - - - - -
+                LIST X - - - - - -
+            SHUTDOWN X - - - - - -
+               PPPOE X X - - - - -
+             PROCESS X - - - - - -
+           INTERFACE O - - - - - -
+              REASON - S - - - - -
+                THIS - O X - - - -
+            INTERNET - X - - - - -
+                HTTP - - X - - - -
+//WWW.LINUX-TUTORIAL.INFO/MODULES.PHP - - X - - - -
+        NAME=MANPAGE - - - X - - -
+               SEC=8 - - - X - - -
+        MANPAGE=IFUP - - - X - - -
+                   D - - - - - - X

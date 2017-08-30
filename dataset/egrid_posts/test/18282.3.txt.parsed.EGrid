@@ -1,0 +1,14 @@
+             COMMAND X - - - -
+                FILE O X - - -
+              SYSTEM X - - - -
+                NAME - X - - -
+                WORK - X - - -
+                GOOD - O - - -
+            UPDATEDB - O - - -
+                   > - O - - -
+           00DEFAULT - - - X -
+                SITE - - - O -
+            LOGLEVEL - - - - X
+               DEBUG - - - - S
+              APACHE - - - - O
+                 LOG - - - - X

@@ -1,0 +1,35 @@
+                ROOT S - - - - - - - - - -
+                 AUG O - - - - - - - - - -
+/ETC/NETWORK/INTERFACES X - - - - - - - - - -
+                OPPS S - - - - - - - - - -
+             CONTENT S - - - - - - - - - -
+                LINE O - - - - - - - - - -
+             RESTART O - - - - - - - - - -
+              SERVER O - - - - - - - - - -
+                WAYS X - - - - - - - - - -
+             SERVICE X - - - - - - - - - -
+                 SSH X - - - - - - O - - -
+                WHAT - O - - - - - - - - -
+                SUDO - - X - X - - S - - -
+    /ETC/INIT.D/SSHD - - S - - - - - - - -
+                THIS - - O - - O - - - - -
+             NETWORK - - X - - - - - - X -
+            INTERNET - - X - - - - - - - -
+                PORT - - - X - - - - - - -
+     /ETC/INIT.D/SSH - - - - S - - - - - -
+          CONNECTION - - - - S - - - - - -
+             COMMAND - - - - - X - - - - -
+                 RUN - - - - - X - - - - -
+                -TAN - - - - - - O - X - -
+                HTTP - - - - - - X - - - -
+//PASTE.UBUNTU.COM/1176856/ - - - - - - X - - - -
+                FILE - - - - - - - X X - -
+              CHANGE - - - - - - - O - - -
+       CONFIGURATION - - - - - - - X - - -
+              CONFIG - - - - - - - - X - -
+              OUTPUT - - - - - - - - X - -
+         SSHD_CONFIG - - - - - - - - X - -
+                 IDD - - - - - - - - O - -
+             SESSION - - - - - - - - - O -
+           CONFIGURE - - - - - - - - - X -
+                 BOX - - - - - - - - - - X

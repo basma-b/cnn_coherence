@@ -1,0 +1,25 @@
+                TIME S - - -
+              MODULE X - - -
+               TUNER X - - -
+             OPTIONS X O X -
+                BOOT O - - -
+                  DO - X - -
+             SAA7134 - O - -
+    /ETC/MODPROBE.D/ - S - -
+/ETC/MODPROBE.D/OPTIONS - O - -
+               IJUST - S - -
+                FILE - X X -
+                CALL - X - -
+                LINE - X X -
+            TUNER=69 - X - -
+                  TY - - X -
+                   D - - X -
+                STEP - - - X
+            HARDWARE - - - O
+               THERE - - - S
+                HINT - - - O
+                 END - - - X
+         COMPILATION - - - X
+              THINGS - - - S
+                UNIT - - - S
+        ACCESS-POINT - - - X

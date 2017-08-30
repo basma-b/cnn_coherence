@@ -1,0 +1,13 @@
+                 USE S - - -
+              DISTRO X - - -
+                 ^^^ X - - -
+                  WM X - - -
+              CHOICE - S - -
+             OPENBOX - X X X
+           RATPOISON - X - -
+             PACKAGE - - O -
+               ENTRY - - O -
+               GNOME - - X -
+              SCREEN - - X -
+               MENUS - - X -
+             SESSION - - - O

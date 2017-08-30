@@ -1,0 +1,16 @@
+              ANYONE X - - -
+                 NIC X - - -
+            RTL8139B - O - -
+                CARD - X - -
+                SIDE - X - -
+              ERRORS - X - O
+              OUTPUT - X - -
+                BOOT - X - -
+            ANYTHING - O - -
+                 ETC - S - -
+            IFCONFIG - X - -
+                ETH0 - S - -
+                LINK - X - -
+               SPEED - O - -
+                  RX - - - S
+              UPLOAD - - - S

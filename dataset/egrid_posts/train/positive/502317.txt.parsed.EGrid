@@ -1,0 +1,19 @@
+             PACKAGE X X - - - -
+             MANAGER X X X - - -
+               PRIVS X X - - - -
+              SWITCH X X - - - -
+               USERS X X - - - -
+SYSTEM/ADMIN/SYNAPTIC - - X - - -
+                 PKG - - S - - -
+            PASSWORD - - O - - -
+            SYNAPTIC - - - X - -
+               THING - - - S - -
+               ADMIN - - - X - -
+               LOGIN - - - - O -
+               LIMIT - - - - X -
+               GUEST - - - - X -
+              ACTION - - - - O -
+       ADMINISTRATOR - - - - - X
+         PERMISSIONS - - - - - S
+                USER - - - - - X
+                 USE - - - - - O

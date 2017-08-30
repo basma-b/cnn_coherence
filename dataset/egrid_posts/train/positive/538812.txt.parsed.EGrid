@@ -1,0 +1,26 @@
+                COPY S - - X - - - - -
+                FILE X O - O - - - - -
+                 E.G X - - - - - - - -
+  /ETC/MYSQL/MY2.CNF - S - X - X - - -
+      PRINT-DEFAULTS - O X O - - - - -
+             DEFAULT - X - X - - - - -
+               ERROR - S - S - - - - -
+                WORK - - X - - - - - -
+                FINE - - X - - - - - -
+             PROGRAM - - X - - - - - -
+               ABORT - - S - - - - - -
+                WAIT - - X - - - - - -
+             COMMAND - - O - - O - - -
+              CHANGE - - - X - - - - -
+                NAME - - - O - - - - -
+                SAME - - - - O - - X -
+         PERMISSIONS - - - - X - O S -
+                ACLS - - - - X - - - -
+               OWNER - - - - X - - - -
+              STRACE - - - - - S - - -
+O_RDONLY|O_LARGEFILE - - - - - S - - -
+              LIKELY - - - - - - S - -
+                  LS - - - - - - - S -
+                 USE - - - - - - - - X
+             PROBLEM - - - - - - - - X
+              SYSTEM - - - - - - - - X

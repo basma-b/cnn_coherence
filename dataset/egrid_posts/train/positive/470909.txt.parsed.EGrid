@@ -1,0 +1,16 @@
+                SDA1 S - - - - -
+            /DEV/SDA - - S - - -
+          /DEV/SDA-1 - - S - - -
+                DISK - - X - - -
+               DRIVE - - O - - -
+           PARTITION - - O - - -
+           /DEV/SDA1 - - O - - -
+                NAME - - O - - -
+               LINUX - - S - - -
+                 SDA - - X - - -
+                GRUB - - - S - -
+                BOOT - - - X - -
+               ENTRY - - - O - -
+             WINDOWS - - - X - -
+              MATTER - - - X - -
+ /BOOT/GRUB/MENU.LST - - - X - -

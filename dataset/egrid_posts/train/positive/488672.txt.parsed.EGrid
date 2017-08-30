@@ -1,0 +1,25 @@
+           DUPLICITY X - - - - - -
+              SIMPLE X - - - - - -
+              BACKUP X - - - - - -
+         BACKUPZILLA X - - - - - -
+      HOMEUSERBACKUP S - - - - - -
+             PROGRAM O - - - - - -
+     RECCOMENDATIONS - X - - - - -
+                APPS - X - - - - -
+                USER - X - - - - -
+                  IM - - S - - - -
+                  CL - - X - - - -
+                  DD - - - X - - -
+             COMMAND - - - X - - -
+              UBUNTU - - - - S - -
+           PARTITION - - - - - - O
+                 TAR - - - - - - X
+                  .. - - - - - - X
+               CVPZF - - - - - - X
+      BACKUPDELL.TGZ - - - - - - S
+EXCLUDE=/BACKUPDELL.TGZ - - - - - - S
+        EXCLUDE=/MNT - - - - - - X
+        EXCLUDE=/SYS - - - - - - X
+      EXCLUDE=/MEDIA - - - - - - X
+EXCLUDE=/ROOT/.TRASH - - - - - - S
+             BACKUPS - - - - - - X

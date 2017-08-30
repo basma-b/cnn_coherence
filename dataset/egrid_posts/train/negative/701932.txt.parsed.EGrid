@@ -1,0 +1,15 @@
+         DEFINITIONS - S - - - -
+                NEED - X - - - -
+          DEFINITION - X - - - -
+                FILE - O - - - -
+          FILESYSTEM - X - - - -
+              SETUID - O - - - -
+               /DEV/ - S - - - -
+           DIRECTORY - X - - - -
+                 AHA - X - - - -
+             OPENSSH - S - - - -
+              SYSTEM - X - - - -
+             PROBLEM - - S - - -
+             NETWORK - - O X - -
+             MANAGER - - - S - -
+                LIBS - - - - - X

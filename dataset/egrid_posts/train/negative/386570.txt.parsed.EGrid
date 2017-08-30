@@ -1,0 +1,15 @@
+             COMMAND X - - -
+                SUDO - S - -
+           /DEV/SDA1 - X - -
+        /MEDIA/HPOOP - O - -
+               FORCE - S - -
+          FILESYSTEM - O - -
+                SDA1 - X S -
+              SCRIPT - S - -
+          HARDDRIVES - X - -
+                PART - O - -
+               HPOOP - X - -
+               PLACE - - X -
+                 DEB - - - O
+               REPOS - - - X
+           MEDIBUNTU - - - X

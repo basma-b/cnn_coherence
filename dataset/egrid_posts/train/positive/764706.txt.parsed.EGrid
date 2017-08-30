@@ -1,0 +1,14 @@
+               MOUNT X X - - - -
+               POINT X X - - - -
+                 DIR - S - - - -
+            /WINDOWS - X - - - X
+                /MNT - - - O - -
+           PERMANENT - - - X - -
+              /MEDIA - - - X - -
+           REMOVABLE - - - X - -
+             WINDOWS - - - - S -
+           PARTITION - - - - - X
+               MKDIR - - - - - X
+               FSTAB - - - - - X
+               PLACE - - - - - X
+                MENU - - - - - X

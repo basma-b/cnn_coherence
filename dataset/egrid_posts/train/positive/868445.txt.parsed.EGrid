@@ -1,0 +1,11 @@
+         MOD_REWRITE X - - - - -
+             XUBUNTU X - - - - -
+                 ALL - O - - - -
+                SUDO - - X - - -
+             A2ENMOD - - S - - S
+               ERROR - - - X - -
+              MODULE - - - S - S
+/ETC/APACHE2/MODS-ENABLED/REWRITE.LOAD - - - S - -
+                FILE - - - O - -
+           T=1180112 - - - - X -
+                STEP - - - - - O

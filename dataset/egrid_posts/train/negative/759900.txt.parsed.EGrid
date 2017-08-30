@@ -1,0 +1,12 @@
+           EXCLUSION - X - - - -
+                  IP - O - - - -
+                DHCP - X - - - -
+                LINK - O - - O -
+               START - X - - - -
+                 JON - X - - - -
+                 PLZ - - S - - -
+/ETC/DHCP3/DHCPD.CONF - - O - - -
+                DONT - - - X X -
+        /ETC/INIT.D/ - - - X - -
+                   * - - - X - -
+                DEBS - - - - - O

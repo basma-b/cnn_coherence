@@ -1,0 +1,24 @@
+              APACHE X - - - - -
+          HTTP/HTTPS S - - - - -
+                  .. O X - - - -
+                TRAC - X - - - -
+                 SVN - X - - - -
+                 WEB - X - - - -
+           INTERFACE - X - - - -
+              INSTAL - O - - - -
+                 BOX - X - - - -
+                HTTP - X - - - -
+                 SSL - O - - - -
+               SETUP - X - - - -
+                WORK - X - - - -
+                TEST - X - - - -
+                   < - - X - - -
+           DIRECTORY - - X - - X
+               /TRAC - - X - - -
+                   > - - X - - -
+               ENTRY - - X - - -
+/ETC/APACHE2/SITES-ENABLED/000-DEFAULT - - X - - -
+                GOAL - - O - - -
+            LOCATION - - - - - X
+                 TAG - - - - - X
+                CASE - - - - - X

@@ -1,0 +1,14 @@
+           DIRECTORY X - - - -
+                FILE S - O - -
+                COPY X - X - -
+                 DIR X O - - -
+              NOBODY - S - - -
+               CHMOD - - S - -
+         PERMISSIONS - - S - -
+                  .. - - O - -
+          PRODUCTION - - X - -
+             ARCHIVE - - X - -
+              FOLDER - - X - -
+           SOMETHING - - X - -
+              SCRIPT - - O - -
+             MISTAKE - - - - X

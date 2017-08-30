@@ -1,0 +1,9 @@
+              SYSTEM O - - -
+       PXE+KICKSTART X - - -
+           KICKSTART O - - -
+              CDROM1 X - - -
+              CDROM2 X - - -
+              KERNEL - X - -
+         COMMANDLINE - O - -
+            KS=CDROM - X - -
+                  NP - - - X

@@ -1,0 +1,33 @@
+                  IP S - - - - - - - X - - -
+                PORT S X - S - - - - - - - -
+              APACHE - X - X - - - - - - - -
+              INSTAL - O - - - - - - - - - -
+                TIME - - - O - - - - - - - X
+             DEFAULT - - - X - - - - - - - -
+        INSTALLATION - - - X - - - - - - - -
+             NETWORK - - - X - - - - - - - -
+                  IM - - - X - - - - - - - -
+           SOMETHING - - - O - - - - - - - -
+                THIS - - - S - - - - - - - -
+                 TRY - - - - X - - - - - - -
+                MYIP - - - - X - - - - - - -
+                   > - - - - O - - - - - - -
+                THAT - - - - - S - - - - - -
+               LOCAL - - - - - O - - - - - -
+ROUTER/CABLEMODEM/WHATEVER - - - - - S - - - - - -
+                FIRE - - - - - O - - - - - -
+             MACHINE - - - - - X - - - - - -
+                NMAP - - - - - - O O - - - -
+           LOCALHOST - - - - - - S - - - - -
+             PHUZION - - - - - - - X - - - -
+            FIREWALL - - - - - - - S - - - -
+            IFCONFIG - - - - - - - - - X - -
+                 SAY - - - - - - - - - - X -
+        192.168.1.10 - - - - - - - - - - X -
+DSL-MODEM/CABLESOMETHING/WHATEVER - - - - - - - - - - S -
+         192.168.1.1 - - - - - - - - - - O -
+     192.168.1.10:80 - - - - - - - - - - X -
+              ROUTER - - - - - - - - - - S -
+      192.168.1.1:80 - - - - - - - - - - S -
+              DEVICE - - - - - - - - - - O -
+                 WAY - - - - - - - - - - - X

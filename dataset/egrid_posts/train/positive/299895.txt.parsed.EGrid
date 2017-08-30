@@ -1,0 +1,16 @@
+                 DVD - X - - - - - - -
+                   > - S - - - - - - -
+            COMPUTER - - O - - - - - -
+                SWAP - - S - S - - - -
+                THIS - - - X - - - - -
+               FSTAB - - - - S - - - -
+                UUID - - - - S - - - -
+                SUDO - - - - - X - - -
+              SWAPON - - - - - X - - X
+                  -A - - - - - X - - -
+                BOOT - - - - - - X - -
+              OUTPUT - - - - - - O - -
+             COMMAND - - - - - - X - -
+/DEV/DISK/BY-UUID/F1FD6D0E-9BD8-487C-B934-86EAA9E8EB94 - - - - - - - - O
+                FILE - - - - - - - - X
+           DIRECTORY - - - - - - - - X

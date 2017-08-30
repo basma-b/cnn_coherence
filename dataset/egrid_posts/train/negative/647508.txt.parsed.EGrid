@@ -1,0 +1,11 @@
+                 ALL O - - -
+             COMMAND X - - -
+             WINDOWS X - - -
+           PARTITION X S - -
+                GRUB X - - -
+                BOOT - X - -
+                MENU - X - -
+                SUDO - X - -
+         UPDATE-GRUB - X - -
+               DEPTH - - O -
+          EVERYTHING - - - O

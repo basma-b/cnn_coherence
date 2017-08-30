@@ -1,0 +1,17 @@
+             ANYBODY S - - - -
+               ERROR O - - - -
+            MODPROBE X - - - -
+            ICARD_CS X - - - -
+              INSERT X - - - -
+              FORMAT X - - - -
+                FILE O O - - -
+                TEXT - X S - -
+              EDITOR - X - - O
+              BINARY - - X - -
+                  BC - - X - -
+                  0S - - X - -
+                  1S - - X - -
+               ASCII - - X - -
+                 HEX - - X - -
+               EMACS - - - - S
+                  .. - - - - X

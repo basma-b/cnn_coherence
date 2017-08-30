@@ -1,0 +1,24 @@
+                 DNS O - - - - -
+NETWORKMANAGER-CONNECTIONS X - - - - -
+                 USE X - - - - -
+             E.F.G.H O - - - - -
+/ETC/NETWORK/INTERFACES S - - - - -
+     DNS-NAMESERVERS S - - - - -
+              STRACE O - - - - -
+           PGBOUNCER X - - - - -
+                  .. O - - - - -
+                HOLD - O - - - -
+              SECOND - X - - - -
+        SOURCES.LIST - O - - - -
+                LINE - O - - - -
+                HTTP - - - X - -
+                  NO - - - X - -
+                STEP - - - - X -
+                SUDO - - - - X -
+             APT-GET - - - - X -
+              UPDATE - - - - X -
+             UPGRADE - - - - X -
+               WHILE - - - - O -
+                LINK - - - - - X
+           DR_WILLIS - - - - - S
+                JAVA - - - - - X

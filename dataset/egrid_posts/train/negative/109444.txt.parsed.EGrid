@@ -1,0 +1,10 @@
+           PARTITION X - - - - - - - -
+              FORMAT - X - - - - - - -
+                DATA - O - - - - - - -
+                KIND - - - X - - - - -
+             PROBLEM - - - X - - - - -
+            COMPUTER - - - - S - - - -
+                BOOT - - - - X - - - -
+         FILE-SYSTEM - - - - - S - - -
+                 USE - - - - - - - - X
+        DEPENDENCIES - - - - - - - - X

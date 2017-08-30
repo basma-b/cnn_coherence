@@ -1,0 +1,24 @@
+/ETC/APACHE2/SITES-AVAILABLE/NETZOR.LOCAL.CONF O - - -
+                FILE X - - -
+/ETC/APACHE2/SITES-ENABLED X - - -
+        /VIRTUALHOST X - - -
+                   > O - X -
+                  LN - X - -
+     APACHE2-RESTART - X - -
+             MESSAGE - O - -
+               ERROR - X - -
+                LINE - X - -
+/ETC/APACHE2/SITES-ENABLED/000-DEFAULT - X - -
+             COMMAND - X - -
+              MODULE - X - -
+              SERVER - X - -
+       CONFIGURATION - X - -
+                   U - S - -
+          VHOST.CONF - X - -
+            SECURITY - - X -
+               STUFF - - O -
+            SOFTWARE - - X -
+              SOURCE - - O -
+              UPDATE - - X O
+                 TAB - - O -
+                GREP - - - X

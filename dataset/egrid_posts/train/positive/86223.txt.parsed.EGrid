@@ -1,0 +1,15 @@
+        REPOSITORIES O O - - - -
+              BREEZY X X - - - -
+        XLIBMESA-DRI X X - - - -
+         XLIBMESA-GL X X - - - -
+        XLIBMESA-GLU O O - - - -
+              OTHERS X X - - - -
+        DIST-UPGRADE X X - - - -
+               THESE X X - - - -
+              RENAME - - X - - -
+                   / - - X - - -
+              CHANGE - - - O - -
+         POSTFIX-TLS - - - X - -
+                MAIL - - - X - -
+              SERVER - - - O - -
+                  NO - - - - - X

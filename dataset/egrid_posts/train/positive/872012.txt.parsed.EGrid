@@ -1,0 +1,13 @@
+               ENTRY O - - -
+          ETHER-WAKE X - - -
+                USER X - - X
+        /ETC/SUDOERS X - - -
+                 MAN X - - -
+             SUDOERS X - - -
+              SYNTAX X - - -
+           ETHERWAKE X - - -
+                ROOT X - - -
+           WAKEONLAN - S - S
+                  .. - X - -
+                INFO - - - X
+                 ^^^ - - - S

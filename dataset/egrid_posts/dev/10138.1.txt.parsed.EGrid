@@ -1,0 +1,20 @@
+                THIS S - - - - - -
+            TERMINAL X - - - - X -
+             UPGRADE O - - - - - -
+                   + X - - - - - -
+                SUDO X - - - - X -
+              UPDATE X - - - - - -
+          AUTOREMOVE S - - - - - -
+                APPS - - O - - - -
+    VM.SWAPPINESS=10 - - O - - - -
+    /ETC/SYSCTL.CONF - - X - - - -
+                 WAY - - X - - - -
+                SWAP - - X X - - -
+               VALUE - - O - - O -
+                SIZE - - - O - - -
+           PARTITION - - - - O - -
+              ADVICE - - - - X - -
+                TYPE - - - - - X -
+                 CAT - - - - - X -
+/PROC/SYS/VM/SWAPPINESS - - - - - X -
+                TIME - - - - - - X

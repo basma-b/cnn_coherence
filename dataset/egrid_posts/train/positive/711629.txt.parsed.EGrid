@@ -1,0 +1,14 @@
+             APT-GET S - -
+LIBMYSQLCLIENT15-DEV O - -
+            USERNAME X - -
+              PASSWD S - -
+             PROBLEM O - -
+                 APT S - -
+            POST/PRE X - -
+             SERVICE X - -
+               MYSQL O - -
+                 PID - X -
+              FINISH - O -
+             UPSTART - S -
+            APPARMOR - O -
+                 USE - - O

@@ -1,0 +1,11 @@
+              PEOPLE O - -
+             PACKAGE O O -
+VIRTUALBOX-4.2_4.2.2-81494~UBUNTU~PRECISE_AMD64.DEB - O -
+                SUDO - X -
+               PURGE - X -
+          VIRTUALBOX - S -
+              REMOVE - S -
+                NONE - - S
+               10.04 - - X
+               LINUX - - O
+            INTERNET - - X

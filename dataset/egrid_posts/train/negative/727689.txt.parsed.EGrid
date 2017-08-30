@@ -1,0 +1,19 @@
+              VOLUME S S X -
+        NOTIFICATION X X - -
+                TRAY X X - -
+               GNOME X X - -
+                THAT - - X -
+              REBOOT - - S -
+             CONTROL - - S -
+                PART - - O -
+           INDICATOR - - X -
+              APPLET - - X -
+               PANEL - - X -
+GNOME-VOLUME-CONTROL-APPLET - - S -
+                 BAK - - X -
+SYSTEM/PREFERENCES/STARTUP - - X -
+        APPLICATIONS - - X -
+               THERE - - - X
+        CODECS/EXTRA - - - X
+             PACKAGE - - - X
+                 VLC - - - X

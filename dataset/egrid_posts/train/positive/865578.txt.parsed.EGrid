@@ -1,0 +1,13 @@
+               BIND9 S -
+               ERROR O -
+             SERVICE S X
+                 DNS X -
+              SERVER S -
+                BIND O -
+               THERE X -
+RESTART_THE_SYSLOG_SERVER_AND_BIND9 X -
+           SOMETHING - S
+                ISNT - S
+        /ETC/INIT.D/ - X
+                CANT - X
+              INSTAL - X

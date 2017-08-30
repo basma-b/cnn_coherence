@@ -1,0 +1,8 @@
+                USER S - - -
+               GROUP X X S S
+                ROOT X - - -
+             FOLDERS S - - -
+         PERMISSIONS - S S -
+               OWNER - X S -
+              OTHERS - O - -
+              FOLDER - - - X

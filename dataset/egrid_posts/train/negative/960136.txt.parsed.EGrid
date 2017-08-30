@@ -1,0 +1,25 @@
+              APACHE X X - X - - -
+              SERVER X - - X - - -
+                FILE O - O - - - -
+            ANYTHING O - - - - - -
+                 PHP - O - - - - -
+      MODS-AVAILABLE - X - - - - -
+        MODS-ENABLED - X - - - - -
+             RESTART - X - - - - -
+               .LOAD - X - - - - -
+               .CONF - X - - - - -
+             MACHINE - - O - - - -
+                 URL - - - X - - -
+                PAGE - - - O - - -
+                LOAD - - - O - - -
+                THAT - - - - S - -
+                  .. - - - - X - -
+                   < - - - - - X -
+           DIRECTORY - - - - - X -
+            /VAR/WWW - - - - - X -
+                   > - - - - - X -
+/ETC/APACHE2/APACHE2.CONF - - - - - X -
+            PASTEBIN - - - - - X -
+                HTTP - - - - - O -
+//PASTEBIN.COM/319376 - - - - - X -
+               SAMBA - - - - - - O

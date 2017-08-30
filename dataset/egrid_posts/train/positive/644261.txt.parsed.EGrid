@@ -1,0 +1,9 @@
+              FORMAT X - - -
+                 XFS O - - -
+            XFSPROGS - X - -
+                PART - - O -
+                DISK - - X -
+               LABEL - - O -
+                 USE - - - X
+             GPARTED - - - X
+           OPERATION - - - S

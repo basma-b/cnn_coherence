@@ -1,0 +1,12 @@
+               CHMOD X X - -
+         PERMISSIONS O - - -
+             DEFAULT X O - -
+             FOLDERS - O - -
+                MEAN - X - -
+                FILE - - O -
+                   * - - - O
+                TYPE - - - S
+          EVERYTHING - - - X
+           DIRECTORY - - - X
+                  .. - - - X
+                THIS - - - O

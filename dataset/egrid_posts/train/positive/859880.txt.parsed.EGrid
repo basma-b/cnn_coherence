@@ -1,0 +1,11 @@
+  /ETC/DEFAULTS/GRUB S - - - - -
+              OUTPUT O - - - - -
+                 GDM - S - - - -
+            ANYTHING - O - - - -
+             MESSAGE - S - - - -
+                TIME - - - - O -
+                THAT - - - - S -
+                 LOG - - - - S -
+                BOOT - - - - X S
+                LINE - - - - - X
+              SECOND - - - - - X

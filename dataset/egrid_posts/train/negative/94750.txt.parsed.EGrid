@@ -1,0 +1,45 @@
+            DATABASE X - - - - - - - - - - -
+                  .. O O X - - - - - - - - -
+         DIRECTORIES X - - - - - - - - - - -
+ CUPSWRAPPERMFC420CN - X - - - - - - - - - -
+                 USE - X - - X - - - - - - -
+CUPSWRAPPERMFC420CN_1.0.0-1_I386.DEB - X - - - - - - - - - -
+/VAR/LIB/DPKG/INFO/CUPSWRAPPERMFC420CN.PRERM - S - - - - - - - - - -
+                LINE - S X - - - - - - - O -
+                 CSH - S X X X - - - X O - -
+           UNPACKING - X - - - - - - - - - -
+         REPLACEMENT - X - - - - - - - - - -
+/VAR/LIB/DPKG/INFO/CUPSWRAPPERMFC420CN.POSTINST - - X - - - - - - - - -
+              /TOPIC - - O - - - - - - - - -
+               PASTE - - - S - - - - - - - -
+                REST - - - X - - - - - - - -
+                HTTP - - - X - - - - - - - -
+//PASTE.UBUNTULINUX.NL/4290 - - - S - - - - - - - -
+             FUNTION - - - O - - - - - - - -
+                 YEP - - - - X - - - - - - -
+                TCSH - - - - S - - - - - - -
+                TYPE - - - - S - - - X X - -
+                   < - - - - S - - - X S - -
+                   > - - - - O - - - O - - -
+              SCRIPT - - - - X - - - - - - -
+           SOMETHING - - - - O - - - - - - -
+                SUDO - - - - X - - - - - - -
+             APT-GET - - - - S - - - - - - -
+          PERMISSION - - - - X - - - - - - -
+             NOTHING - - - - S - - - - O - -
+          BACKGROUND - - - - X - - - - - - -
+       LOCALHOST:631 - - - - X - - - - - - -
+             PRINTER - - - - S S - - - - - -
+                 USB - - - - X - - - - - - -
+                PORT - - - - O - - - - - - -
+                CUPS - - - - - X - - - - - -
+              DRIVER - - - - - S - - - - - -
+               PRINT - - - - - X - - - - - -
+                 ALL - - - - - - X - - - - -
+            BUSINESS - - - - - - X - - - - -
+               SHELL - - - - - - - X - - - -
+             COMMAND - - - - - - - - X - X -
+                BASH - - - - - - - - X - - -
+              THANKS - - - - - - - - O - - -
+                HELP - - - - - - - - X - - -
+            SYNAPTIC - - - - - - - - - X - -

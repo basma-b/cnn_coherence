@@ -1,0 +1,17 @@
+             OUTCOME X - -
+        LIVE-INSTALL X - -
+               10.04 - X -
+           BACKPORTS - S -
+              OPTION - O -
+            HARDWARE - O -
+                 USE - X X
+              LAPTOP - O -
+              CENTOS - X -
+              KERNEL - X -
+               11.10 - X -
+             LUBUNTU - S -
+                DPKG - - X
+                  -L - - S
+             PACKAGE - - O
+                   U - - X
+              DEBIAN - - X

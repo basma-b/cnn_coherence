@@ -1,0 +1,24 @@
+                 RUN S - - - - - - - -
+              SERVER O X - - - - - - S
+               SETUP X - - - - - - - -
+                BIND X - - - - - - - -
+                  IM - O - S - - - S -
+               THING - S - - - - - - -
+                NAME - X - - - - - - -
+    /ETC/RESOLV.CONF - X - - - - - - X
+           127.0.0.1 - O - - - - - - -
+              IGNORE - X - - - - - - -
+                 DNS - - X - X - - - -
+            SETTINGS - - S - - - - - -
+                DHCP - - X - - - X - O
+/ETC/NETWORK/INTERFACES - - - O - - - - -
+                 IPS - - - O - - - - -
+              NUMBER - - - - X - - - -
+/ETC/DHCP3/DHCLIENT.CONF - - - - - S - - -
+ DOMAIN-NAME-SERVERS - - - - - O - - -
+                 USE - - - - - - O - -
+                 MAN - - - - - - X - -
+                  .. - - - - - - S - -
+              ADRESS - - - - - - O - -
+          INTERFACES - - - - - - - O -
+                 IVE - - - - - - - - S

@@ -1,0 +1,15 @@
+        SOURCES.LIST X - - - - - -
+            /ETC/APT - S - - - - -
+              CONFIG - X - - - - -
+                FILE - X X X O - -
+              COURSE - X - - - - -
+                 LOG - - X - S - -
+                PATH - - X O - - -
+              STRACE - - - X O - -
+                NAME - - - X O - -
+                 WAY - - - X X - X
+              SYSTEM - - - - X - -
+             PROGRAM - - - - S - -
+              KERNEL - - - - X - -
+             REQUEST - - - - O - -
+           _DEFAULT_ - - - - - - X

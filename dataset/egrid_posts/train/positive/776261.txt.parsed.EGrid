@@ -1,0 +1,6 @@
+                THAT X -
+/ETC/SSH/SSHD_CONFIG O -
+                LINE O -
+ /ETC/SSH/SSH_CONFIG X O
+PASSWORDAUTHENTICATION O -
+            PASSWORD X -

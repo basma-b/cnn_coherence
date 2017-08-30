@@ -1,0 +1,19 @@
+                HOST - X - -
+         FINGERPRINT - X - -
+               CHECK - X O -
+                 USE - X O -
+             COMMAND - X - -
+                LINE - X - -
+              OPTION - S - -
+                 HOP - - X -
+                 KEY - - O -
+         KNOWN_HOSTS - - O -
+                 VMS - - O -
+STRICTHOSTKEYCHECKING - - S -
+       ~/.SSH/CONFIG - - X -
+              MEMORY - - X -
+             MANPAGE - - O -
+          SSH_CONFIG - - X -
+STRICTHOSTKEYCHECKING=NO - - - X
+                  .. - - - X
+USERKNOWNHOSTSFILE=/DEV/NULL - - - X

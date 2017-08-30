@@ -1,0 +1,16 @@
+                 UFW S - - -
+            FIREWALL X - - -
+            IPTABLES O - - -
+                 USE - S - -
+                THAT - - S -
+             SYMLINK - - O S
+              DEVICE - - X -
+                NAME - - O -
+                 CAT - - X -
+        /PROC/MOUNTS - - X -
+              KERNEL - - X -
+/DEV/DISK/BY-UUID/FOO - - S -
+           NAMESPACE - - - S
+              NATURE - - - X
+               POINT - - - O
+             DEVICES - - - S

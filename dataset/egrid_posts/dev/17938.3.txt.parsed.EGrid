@@ -1,0 +1,15 @@
+                  SD X - - - - - -
+                CARD X - - X - - -
+                 USE X - - - - - -
+                  DD X - X - - - -
+              IF=SDB X - - - - - -
+             OF=FILE O - - - - - -
+                FILE X X - X - - -
+              DEVICE O - - - - - -
+                KIND - X - - - - -
+                DUMP - - O - - - -
+            LOOPBACK - - S - - - -
+               IMAGE - - O - - - -
+                COPY - - - X - - -
+                 END - - - - X - -
+                GOAL - - - - X - -

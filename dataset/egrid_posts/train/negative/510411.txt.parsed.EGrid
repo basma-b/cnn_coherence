@@ -1,0 +1,6 @@
+             COMMAND S S - -
+                SUDO - - X -
+             APT-GET - - S -
+        GRUB-INSTALL - - - X
+                BOOT - - - X
+                  CD - - - O

@@ -1,0 +1,13 @@
+                GRUB O - - - - -
+                 MBR X X - - - -
+               FLASH X - X - - -
+                CARD X - X - - X
+                BOOT X - - - - -
+                 IDE X - - - - -
+                  HD X - - - - -
+        GRUB-INSTALL - X - - - -
+          /BOOT/GRUB - - X - - -
+                  OS - - - X - -
+                YEPP - - - - X -
+                WIRE - - - - - X
+             NETWORK - - - - - X

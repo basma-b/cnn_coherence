@@ -1,0 +1,13 @@
+                GRUB S - - - - -
+                COPY O S - - - -
+              KERNEL X X - - - -
+            RECOVERY X - - - - -
+                MODE X - - - - -
+                THIS O - - - - -
+            VERSIONS - O - - - -
+                THAT - - S - - -
+             OPTIONS - - S - - -
+              SCREEN - - X - - -
+                BOOT - - - X - -
+            MENU.LST - - - - - O
+ /BOOT/GRUB/MENU.LST - - - - - X

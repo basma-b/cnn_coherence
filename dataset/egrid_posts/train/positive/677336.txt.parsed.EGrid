@@ -1,0 +1,13 @@
+             APT-GET X X - -
+             PACKAGE X O - -
+              CONFIG X X - X
+                FILE X S - S
+             COMMAND X - - -
+           REINSTALL - S - -
+                SUDO - X - -
+               PURGE - S - -
+         PACKAGENAME - S - -
+               ARENT - S - -
+                 TRY - O - -
+                SAME - O - -
+              REBOOT - X - -

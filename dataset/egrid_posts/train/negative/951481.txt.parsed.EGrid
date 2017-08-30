@@ -1,0 +1,16 @@
+         VLC/MPLAYER S - - - - -
+                VIEW - X - - - -
+               VIDEO - X - - - -
+              EITHER - X - - - -
+                APPS - X O - - -
+              CODECS - - O - - -
+     /USR/LIB/CODECS - - X - - -
+                SUDO - - - X X -
+             APT-GET - - - S - -
+           W32CODECS - - - O - -
+             PACKAGE - - - - O -
+               SETUP - - - - O -
+                ROOT - - - - - O
+                TYPE - - - - - X
+             CONSOLE - - - - - X
+            PASSWORD - - - - - X

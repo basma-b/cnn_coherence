@@ -1,0 +1,10 @@
+        MOTHERBOARDS O - - - - -
+            COMPUTER X - - - - -
+               SOUND O - - - - -
+            APPROACH - - X - - -
+          LSPCI|GREP - - - X - -
+                  -I - - - X - -
+               AUDIO - - - X - -
+       DOCUMENTATION - - - - S -
+              FOLDER - - - - X X
+             PROGRAM - - - - - S

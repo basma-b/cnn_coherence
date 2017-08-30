@@ -1,0 +1,13 @@
+                 TRY O - - - - -
+                 VPS X - - - - -
+              REASON - X - - - -
+             SESSION - O X - - -
+          CONNECTION - X X - - -
+              REFUSE - X - - - -
+             MESSAGE - O - - - -
+   /VAR/LOG/AUTH.LOG - - X - - -
+            ANYTHING - - X - - -
+             NOTHING - - - - S -
+              SYSLOG - - - - X -
+          HOSTS.DENY - - - - O -
+             FIREFOX - - - - - X

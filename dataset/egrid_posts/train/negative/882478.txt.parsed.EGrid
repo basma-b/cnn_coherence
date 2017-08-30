@@ -1,0 +1,13 @@
+                 GUY X - - - - -
+             PROBLEM - O - - - -
+                  .. - X - - - -
+               PROXY - X - - - -
+   /ETC/APT/APT.CONF - - S - - -
+      127.0.0.1:8118 - - X - - -
+              NOBODY - - - S - -
+           127.0.0.1 - - - - S -
+           INTERFACE - - - - O -
+                PORT - - - - X -
+             NETWORK - - - - S -
+             DEBIANS - - - - - O
+              SOURCE - - - - - X

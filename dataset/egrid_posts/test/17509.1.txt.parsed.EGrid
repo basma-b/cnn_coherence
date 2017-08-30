@@ -1,0 +1,12 @@
+            GRAPHICS X - - -
+                CARD S - - -
+                   % O - - -
+                MORE O - - -
+              ANYONE - X - -
+           NOMODESET - X - -
+             DEFAULT - X - -
+              KERNEL - - X -
+                LINE - - X X
+   /ETC/DEFAULT/GRUB - - X -
+GRUB_CMDLINE_LINUX_DEFAULT= - - - X
+              SPLASH - - - X

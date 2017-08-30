@@ -1,0 +1,20 @@
+                THAT X - -
+                 SUN X - -
+              INSTAL O - -
+        INSTRUCTIONS X - -
+            /ETC/JVM X - -
+ UPDATE-ALTERNATIVES S - -
+     JAVA-GCJ-COMPAT O - -
+              REASON X - -
+                LINK O S -
+       /USR/BIN/JAVA X O -
+         ALTERNATIVE X - -
+             ECLIPSE - S -
+                CASE - O -
+              RESULT - X -
+                   > - X -
+/ETC/ALTERNATIVES/JAVA - X -
+/USR/LIB/JVM/JAVA-6-SUN/JRE/BIN/JAVA - X -
+                LUKS - - S
+               SETUP - - O
+            DM-CRYPT - - X

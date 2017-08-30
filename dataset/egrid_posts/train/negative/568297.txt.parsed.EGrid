@@ -1,0 +1,22 @@
+             NETBOOK X - X - - -
+               REMIX X - X - - -
+                CANT X - X - - -
+            DOWNLOAD X - X - - -
+  WIN32-IMAGE-WRITER X - X - - -
+                PAGE S - S - - -
+         ALTERNATIVE - X - X - -
+                 USE - - - - X -
+                 BOX - - - - X -
+                 UNR - - - - X -
+               IMAGE - - - - O -
+                 USB - - - - X -
+               STICK - - - - X -
+                  DD - - - - X -
+IF=/PATH/TO/THE/IMAGE/FILE.IMG - - - - S -
+                BOOT - - - - O -
+             COMMAND - - - - X -
+                  ./ - - - - - S
+               SHELL - - - - - S
+           DIRECTORY - - - - - X
+                PATH - - - - - X
+            VARIABLE - - - - - X

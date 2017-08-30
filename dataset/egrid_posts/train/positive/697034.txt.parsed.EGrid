@@ -1,0 +1,12 @@
+                DATA X X -
+                FIFO X S O
+                HOLD X - -
+                FILE - X S
+                  .. - O -
+                PIPE - X -
+               SHELL - X -
+              BUFFER - X X
+                SIZE - O -
+                 CAT - - X
+             MPLAYER - - O
+              FINISH - - X

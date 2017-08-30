@@ -1,0 +1,34 @@
+                LINE X - - - - - - - - - - - - - -
+               SSHP= - X - - - - - - - - - - - - -
+-OPASSWORDAUTHENTICATION=YES - X - - - - - - - - - - - - -
+                  -O - X - - - - - - - - - - - - -
+HOSTBASEDAUTHENTICATION=NO - X - - - - - - - - - - - - -
+PUBKEYAUTHENTICATION=NO - X - - - - - - - - - - - - -
+             PROBLEM - X - - - O O X - O - - - - -
+               ALIAS - - O - - - - - - - - - - - -
+            SHORTCUT - - X - - - - - - - - - - - -
+             COMMAND - - X - - - - - - - - - - - -
+      AUTHENTICATION - - X - - - - - - - - - - - -
+                 KEY - - X - - X - - - - - - - - -
+                .SSH - - - S - - - - - - - - - - -
+               LOGIN - - - X - - - - - - - - - - -
+             TELENET - - - O - - - - - - - - - - -
+           PASSWORDS - - - O - - - - - - - - - - -
+                   T - - - - X - - - S - S S - - -
+                 SSH - - - - - S - - X - X X - - -
+            PASSWORD - - - - - S - - - - - - X - -
+                HOST - - - - - X - - - - - - - - -
+                TYPE - - - - - X - O - - - - - - -
+         CONNECTIONS - - - - - O - - - - - - - - -
+                 LOT - - - - - X - - - - - - - - -
+                THIS - - - - - - - - X - X X - - -
+                 FIX - - - - - - - - X - X X - - -
+               ACCES - - - - - - - - O - O O - - -
+              SYSTEM - - - - - - - - S - S S - - -
+             SERVERS - - - - - - - - - X - - - - -
+            QUESTION - - - - - - - - - X - - - - -
+             HISTORY - - - - - - - - - X - - - - -
+              TROYDM - - - - - - - - - - - X - - -
+              INSERT - - - - - - - - - - - - O - -
+                 USE - - - - - - - - - - - - - - S
+          CONNECTION - - - - - - - - - - - - - - X

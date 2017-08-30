@@ -1,0 +1,14 @@
+             DRIVERS O - - - - -
+          PERMISSION S - - - - -
+                THAT - - - X - -
+                SUDO - - - S - -
+             BCM43XX - - - S - -
+                   > - - - S - -
+/ETC/MODPROBE.D/BLACKLIST - - - O - -
+                PART - - - O - -
+                FILE - - - O - -
+                USER - - - X - -
+                ROOT - - - X X -
+                   ' - - - - S -
+               THANX - - - - O -
+               RMMOD - - - - - X

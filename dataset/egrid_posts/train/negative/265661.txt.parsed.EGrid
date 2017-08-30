@@ -1,0 +1,28 @@
+               CHMOD S - - - - - - - - - -
+             SOMEONE S - - X - - - - - - -
+                HTTP - X - X - - - - - X -
+         PERMISSIONS - X - S - - O O O - -
+//PASTE.UBUNTU-NL.ORG/11301/ - - - S - - - - - - -
+              CHANGE - - - O - - - - - - -
+                FILE - - - X - - - X X - -
+           OWNERSHIP - - - - O - - - - - -
+                ROOT - - - - X - - - - - -
+           SOMETHING - - - - X - - - - - -
+                HTAT - - - - X - - - - - -
+                THAT - - - - - S - - - - -
+              PERMIT - - - - - S - - - - -
+          FILESYSTEM - - - - - X - - - - -
+               FSTAB - - - - - - X - X - -
+               HOWSO - - - - - - X - - - -
+                 UID - - - - - - - X - - -
+                 GID - - - - - - - O - - -
+          READ/WRITE - - - - - - - O - - -
+               VALUE - - - - - - - O - - -
+                 ONE - - - - - - - X - - -
+                 SEC - - - - - - - S - - -
+                  DO - - - - - - - - X - -
+                THIS - - - - - - - - X - -
+                VFAT - - - - - - - - X - -
+          UMASK=0000 - - - - - - - - X - -
+                LINK - - - - - - - - O - -
+//PASTE.UBUNTU-NL.ORG/11304/ - - - - - - - - - X -

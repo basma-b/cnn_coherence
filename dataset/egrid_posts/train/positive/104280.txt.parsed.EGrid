@@ -1,0 +1,26 @@
+              ANYONE S - - -
+              SYSTEM X - - -
+               CLOCK S - O -
+                HOUR O - - -
+                 DAY X - - -
+               AMD64 X - - -
+               USAGE - X - -
+             MACHINE - S - -
+                 CPU - - X -
+              REPORT - - S -
+             PROBLEM - - X -
+         MOTHERBOARD - - S -
+                 LOT - - S -
+          NTP-SERVER - - S -
+                TIME - - - X
+                SHOW - - - S
+                 RUN - - - X
+              INSTAL - - - O
+                 USE - - - X
+/ETC/INIT.D/NTP-SERVER - - - S
+             NOTHING - - - O
+                LOAD - - - X
+             AVERAGE - - - S
+                MOST - - - X
+                NTPD - - - S
+             NTPDATE - - - O

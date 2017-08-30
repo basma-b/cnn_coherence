@@ -1,0 +1,16 @@
+                TYPE X - - - - - -
+                  CD X - - - - - -
+      /MNT/DOCUMENTS O - - - - - -
+               CHMOD X - - - - - -
+           ARGUMENTS S - - - - - -
+                   S X - - - - - -
+             MANPAGE O - - - - - -
+                ROOT - X X - - - -
+             ACCOUNT - O S - - - -
+            PASSWORD - - X - - - -
+             DEFAULT - - X - - - -
+             INSTALL - - - X - - -
+                HTTP - - - - O - -
+//WWW.UBUNTULINUX.ORG/WIKI/ROOTSUDO - - - - X - -
+         INFORMATION - - - - X - -
+                HELP - - - - - - X

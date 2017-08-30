@@ -1,0 +1,16 @@
+                USER O - - - S - -
+                SUDO - - - - X O -
+             ADDUSER - - - - X - -
+                ROOT - - - - O - -
+             PACKAGE - - - - X X -
+             MANAGER - - - - X X -
+                FILE - - - - X - -
+                 MAN - - - - X - -
+             SUDOERS - - - - O - -
+                 TOP - - - - - X -
+                HEAD - - - - - X -
+                BITE - - - - - X -
+                MIND - - - - - X -
+              ACCESS - - - - - O -
+                 APT - - - - - - X
+              SYSTEM - - - - - - O

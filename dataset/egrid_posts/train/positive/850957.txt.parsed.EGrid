@@ -1,0 +1,14 @@
+               HTTPS - X -
+           UPGRADING - X -
+                 LOG - S -
+                GRUB - O O
+                SUDO - X -
+        GRUB-INSTALL - X O
+            /DEV/SDA - O -
+                 SDA - S X
+                  HD - O -
+         UPDATE-GRUB - O X
+               PURGE - - S
+             APT-GET - - S
+         GRUB-COMMON - - X
+                 MBR - - X

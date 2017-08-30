@@ -1,0 +1,16 @@
+                BIND X X - - - X
+                PORT O O - - - X
+                MODE - X - - - -
+                   C - X - - - -
+             PROGRAM - X - - - X
+               WHILE - S - - - -
+                WORK - X - - - -
+               ERROR - - - X - O
+             MESSAGE - - - X - -
+                 GOD - - - - - X
+               VALUE - - - - - O
+            AI_FLAGS - - - - - X
+              SOCKET - - - - - X
+              AI_ALL - - - - - O
+             PROBLEM - - - - - S
+                CODE - - - - - X

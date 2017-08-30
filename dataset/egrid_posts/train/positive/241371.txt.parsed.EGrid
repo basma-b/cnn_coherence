@@ -1,0 +1,12 @@
+        BIND-ADDRESS S - - - - -
+             ADDRESS X - - - - -
+            RESEARCH - - S - - -
+             COMMENT - - X - S -
+             REMOVAL - - S - S -
+                LINE - - X S - -
+           PROCEDURE - - O - - -
+               OTHER - - O - - -
+              ACCESS - - X - O -
+           LOCALHOST - - - X - -
+                BIND - - - X - -
+              OPTION - - - - O -

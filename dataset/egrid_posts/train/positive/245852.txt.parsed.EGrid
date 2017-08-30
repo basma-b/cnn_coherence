@@ -1,0 +1,19 @@
+       SUN-JAVA5-JDK X S S - - - -
+       SUN-JAVA6-JDK X - - - - - -
+               JAVA6 - S - S - - -
+        REPOSITORIES - X X - - - -
+                SUDO - X - - - - -
+             APT-GET - X - - - - -
+              SERVER - - O - - - -
+             PACKAGE - - S - - - -
+          MULTIVERSE - - X - - - -
+           APT-CACHE - - - X - - -
+           BACKPORTS - - - S - - -
+               REPOS - - - - X - -
+             PROBLEM - - - - - S -
+        SOURCES.LIST - - - - - - O
+              MIRROR - - - - - - X
+                 GUN - - - - - - O
+           SOMETHING - - - - - - X
+                REPO - - - - - - O
+//US.ARCHIVE.UBUNTU.COM/UBUNTU/POOL/MULTIVERSE/S/SUN-JAVA5/ - - - - - - X

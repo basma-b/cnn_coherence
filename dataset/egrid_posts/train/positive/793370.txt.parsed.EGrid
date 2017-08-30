@@ -1,0 +1,23 @@
+/ETC/NETWORK/INTERFACES O - - -
+                AUTO X X - -
+                  LO X - S -
+                INET X - - -
+            LOOPBACK O O - -
+               IFACE - X - -
+           INTERFACE - X - -
+            ANYTHING - S - -
+               THERE - S - -
+             MACHINE - X - -
+                 LOT - X - -
+        APPLICATIONS - X - -
+              SYSTEM - X - -
+           EVERYTHIN - O - -
+                FILE - X - -
+           HWADDRESS - X - -
+               ETHER - X - -
+            00:1C:23 - X - -
+            B1:30:80 - X - -
+                  .. - O - -
+                 MAC - - O -
+                 WAY - - X -
+      NETWORKMANAGER - - - O

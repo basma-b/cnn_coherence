@@ -1,0 +1,17 @@
+               ERROR X - - -
+       /MEDIA/CDROM0 - O - -
+               MEDIA - X - -
+             PRESENT - S - -
+          MOUNT/TEST - - S -
+            MNT/TEST - - O -
+                ROOT - - X -
+        STRACE.MOUNT - - S -
+          /DEV/CDROM - - X -
+           /MNT/TEST - - O -
+               ADMIN - - S -
+       ADMIN-DESKTOP - - O -
+               YIELD - - O -
+          PERMISSION - - S -
+                SUDO - - X -
+               SETHK - - - X
+                 DVD - - - S

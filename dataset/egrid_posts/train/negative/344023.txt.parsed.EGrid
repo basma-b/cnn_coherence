@@ -1,0 +1,16 @@
+        /ETC/INITTAB X X - - -
+             S0:2345 - X - - -
+             RESPAWN - X - - -
+               TTYS1 - X - - -
+                SHOW - S - - -
+                HTTP - - X - -
+//TLDP.ORG/HOWTO/BASH-PROMPT-HOWTO/BASH-PROMPT-ESCAPE-SEQUENCES.HTML - - X - -
+              RESULT - - X - -
+                 KDE - - O - -
+         KDE-DESKTOP - - S - -
+         METAPACKAGE - - O - S
+             KUBUNTU - - S - -
+     KUBUNTU-DESKTOP - - - S -
+                BASE - - - - X
+              UBUNTU - - - - S
+               GNOME - - - - X

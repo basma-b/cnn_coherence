@@ -1,0 +1,16 @@
+/ETC/APPARMOR.D/USR.BIN.FIREFOX O - - -
+             COMMAND O - - X
+              OUTPUT O - - -
+             PROBLEM - X - -
+               SHARE - X - -
+                   * - X - -
+                 KEY - X - O
+              PUBLIC - - - O
+              PEOPLE - - - X
+             NOTHING - - - O
+            SECURITY - - - X
+               THERE - - - S
+              REASON - - - O
+               POINT - - - S
+           PLAINTEXT - - - X
+            PASSWORD - - - O

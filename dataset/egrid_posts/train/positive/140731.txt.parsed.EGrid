@@ -1,0 +1,13 @@
+                 DNS - X - -
+/ETC/NETWORK/INTERFACES - - X -
+     DNS-NAMESERVERS - - S -
+     YYY.YYY.YYY.YYY - - O -
+           INTERFACE - - X -
+                PATH - - - X
+                LINE - - - X
+                 MMM - - - X
+                DONT - - - S
+                XORG - - - X
+            VERSIONS - - - X
+            QUESTION - - - X
+                   > - - - X

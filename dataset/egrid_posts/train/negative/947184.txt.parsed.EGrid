@@ -1,0 +1,47 @@
+             TROUBLE O - - - - - - - -
+LINUX-RESTRICTED-MODULES O - - - - - - - -
+            LINUX-K7 X - - - - - - - -
+             RESTART X - - - - - - - -
+                XORG X - - - - - - - -
+             STARTUP X - - - - - - - -
+              ERRORS O - - - - - - - -
+              SYMBOL X X - - - - - - -
+__GLXGETACTIVESCREEN S S - - - - - - -
+/USR/X11R6/LIB/MODULES/EXTENSIONS/LIBDRI.A X X - - - - - - -
+                 DRI - - X - - - - - -
+            GRAPHICS - - - X - - - - -
+                CARD - - - X - - - - -
+                 GF4 - - - - X - - - -
+               MX440 - - - - S - - - -
+              NVIDIA - - - - X - - X -
+             DRIVERS - - - - O - - - -
+                THAT - - - - - S - - -
+                XFCE - - - - - O - - -
+             FLUXBOX - - - - - O - - -
+                HTTP - - - - - - O - -
+              WINDOW - - - - - - X - -
+             MANAGER - - - - - - S - -
+                WMII - - - - - - X - -
+                WORK - - - - - - X - -
+             MACHINE - - - - - - X - -
+             STUDENT - - - - - - X - -
+                 HEH - - - - - - O - -
+                LOOK - - - - - - X - -
+                   X - - - - - - S - -
+                  OK - - - - - - - X -
+                SUDO - - - - - - - X -
+            MODPROBE - - - - - - - X -
+  /ETC/X11/XORG.CONF - - - - - - - S -
+           REFERENCE - - - - - - - O -
+              DRIVER - - - - - - - S -
+                  NV - - - - - - - X -
+                 BIN - - - - - - - X -
+              REASON - - - - - - - X -
+                 ATI - - - - - - - O -
+                 PCI - - - - - - - X -
+              DEVICE - - - - - - - X -
+                  ID - - - - - - - X -
+                  .. - - - - - - - - X
+           CONFILCTS - - - - - - - - O
+          DAYS/MONTH - - - - - - - - X
+               HOURS - - - - - - - - X

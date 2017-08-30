@@ -1,0 +1,7 @@
+           DIRECTORY X - - -
+              GUNZIP - X - -
+                   < - S - -
+   UNCOMPRESSED_FILE - O - -
+                CRON - - X -
+              SCRIPT - - S -
+                NAME - - - X

@@ -1,0 +1,17 @@
+                  OK X X - -
+            TERMINAL - O - -
+                SUDO - X - -
+               FDISK - X - -
+                  -L - O - -
+              RESULT - S - -
+                HTTP - O - -
+                TYPE - S X -
+                GRUB - S - -
+               PROBE - X - -
+                 ATM - X - -
+   /BOOT/GRUB/STAGE1 - O - -
+               HD0,0 - - X -
+                ROOT - - X -
+               SETUP - - X -
+                 HD0 - - X -
+           PARTITION - - - O

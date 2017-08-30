@@ -1,0 +1,13 @@
+                BOOT X X - X
+              32-BIT O - - -
+              KERNEL X - - -
+              PARAMS X X - -
+          NOLOAD=B43 S - - -
+                 SSB S - - -
+      B43-PCI-BRIDGE S - - -
+              DOESNT S - - -
+               GRUB2 X X - -
+           SOMETHING O - - -
+                  CD - - O S
+                DATA - - O -
+               DRIVE - - X -

@@ -1,0 +1,17 @@
+              RENDER X - X -
+              ACCELL X - - -
+  /ETC/X11/XORG.CONF - O - -
+             SECTION - X S -
+             DEVICES - X - -
+              OPTION - X X -
+         RENDERACCEL - X - -
+               TWEAK - X - -
+         PERFORMANCE - X - -
+            XCOMPMNG - X - -
+           EXTENSIOS - - X -
+           COMPOSITE - - X -
+              ENABLE - - X -
+          EXTENSIONS - - X -
+                CARD - - - S
+             ADDRESS - - - O
+           SOMETHING - - - O

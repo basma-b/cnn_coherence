@@ -1,0 +1,27 @@
+               LSUSB S - - - - -
+              DEVICE X - - - - -
+                PATH O - - O - -
+       /DEV/FOO/BAR0 - X - - - -
+              THERES - - X - - -
+      /DEV/DISKS/BY- - - S - - -
+               PATHS - - O - - -
+                 GSM - - - X - -
+               PHONE - - - X - -
+                 USB - - - X - -
+                  YA - - - S - -
+             MOMENTS - - - - O -
+               DMESG - - - - S -
+                 END - - - - X -
+                SCSI - - - - S -
+       DIRECT-ACCESS - - - - X -
+                 RIM - - - - X -
+          BLACKBERRY - - - - S -
+                  PQ - - - - O -
+                ANSI - - - - X -
+                 CCS - - - - X -
+                HTTP - - - - - X
+//LINUXSERVERTUTORIALS.BLOGSPOT.COM/2008/11/UBUNTU-CREATE-FILE-IN-COMMAND-LINE.HTML - - - - - S
+                SAME - - - - - S
+           PARTITION - - - - - O
+              FOLDER - - - - - X
+            WRITABLE - - - - - O

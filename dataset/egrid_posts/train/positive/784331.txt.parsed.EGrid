@@ -1,0 +1,17 @@
+           SOMETHING S - - - - - - - - - - -
+              SYSTEM X - - - - - - - - - - -
+                9.10 - O - - - - - - - - - -
+                 PHP - O - - - - - - - - - -
+          PHPMYADMIN - - O - - - - - - - - -
+             PROBLEM - - - S - O X - - - S -
+         PHP5-COMMON - - - X O - - - O - - -
+5.2.10.DFSG.1-2UBUNTU6 - - - X - - - - - - - -
+5.2.10.DFSG.1-2UBUNTU6.4 - - - S - - - - - - - -
+                SAME - - - - - - X - - - - -
+             VERSION - - - - - - - O - O - -
+           DOWNGRADE - - - - - - - - X - - -
+            SYNAPTIC - - - - - - - - X - - -
+             PACKAGE - - - - - - - - - X X O
+              ADVICE - - - - - - - - - - O -
+                FILE - - - - - - - - - - O -
+                THIS - - - - - - - - - - - S

@@ -1,0 +1,14 @@
+                TIME S - - - -
+              ULTS10 X - - - -
+             STORAGE X - - - -
+              DEVICE O - - - -
+             CAPTURE O - - - -
+             DM/LVM2 X - - - -
+                UDEV S - - - -
+               EVENT O - - - -
+             UPSTART X - - - -
+                THIS - S - - -
+              ADVICE - O - - -
+   /ETC/UDEV/RULES.D - - - X -
+      NETWORKMANAGER - - - - S
+              SETUPS - - - - X

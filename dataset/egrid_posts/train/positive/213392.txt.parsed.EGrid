@@ -1,0 +1,30 @@
+              NEWBIE O - -
+              ANYONE X - -
+                 WAY S - -
+            INTERNET O - X
+               SHARE O - X
+             NETWORK X - X
+                CARD X - S
+                 USE X - X
+      INTERNAL-MODEM O - -
+          CONNECTION X - -
+                  PC S - X
+               OTHER S - -
+         FIRESTARTER O - -
+                INET X - -
+             SUCCESS X - -
+               HTTPS X - -
+//WIKI.UBUNTU.COM/AUTOPACKAGEINTEGRATION X - -
+   ACTION=FULLSEARCH - X -
+         CONTEXT=180 - X -
+VALUE=INTERNET+SHARING - S -
+                   % - S -
+                  C3 - X -
+             ADTULOS - X -
+                 P2P - - X
+                IDEA - - S
+                   M - - X
+            PROVIDER - - S
+               MODEM - - S
+                 LOT - - O
+                LINK - - O

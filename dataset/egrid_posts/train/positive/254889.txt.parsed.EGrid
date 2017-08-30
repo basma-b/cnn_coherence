@@ -1,0 +1,9 @@
+               WLAN0 O - - - - -
+              DRIVER S - - - - -
+            IFCONFIG - - X - - -
+                  -A - - X - - -
+               LSMOD - - - - X X
+                LOAD - - - - - X
+              DOESNT - - - - - X
+                SHOW - - - - - S
+             DRIVERS - - - - - O

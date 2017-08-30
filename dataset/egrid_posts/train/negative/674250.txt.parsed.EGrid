@@ -1,0 +1,13 @@
+            LANGUAGE - X - - - -
+                   | - S - - - -
+               FSTAB - - X - - -
+                SWAP - - X - - -
+              DEVICE - - X O - -
+                LINE - - - - O -
+          /ETC/FSTAB - - - - X -
+                UUID - - - - O -
+                 USE - - - - X -
+                SUDO - - - - X -
+               BLKID - - - - X -
+           PARTITION - - - - X -
+              THANKS - - - - - X

@@ -1,0 +1,15 @@
+             KURYAK1 X - - -
+                TYPE X X - -
+            TERMINAL X X - -
+           PARTITION S O - -
+                   / X - - -
+             KURIYAK X X - -
+                ROOT - X - -
+           RESIZE2FS - S S S
+                 USE - - X -
+             GPARTED - - S -
+              RESIZE - - X -
+                EXT3 - - X -
+                THAT - - - O
+               RIGHT - - - S
+             REMOUNT - - - X

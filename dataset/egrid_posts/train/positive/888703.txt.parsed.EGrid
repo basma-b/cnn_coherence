@@ -1,0 +1,24 @@
+             PROBLEM S - - - - - -
+              SOURCE X - - - - - -
+               PATCH O - - - - - -
+                WINE X X - - - - -
+          PULSEAUDIO - S - - - - -
+                   * - X - - - - -
+              SYSTEM - X - - - - -
+             SESSION - X - - - - -
+            WHITHOUT - X - - - - -
+                 USE - X - - - - -
+           SOMETHING - O - - - - -
+       GNOME-SESSION - X - - - - -
+                 RUN - X - - - - -
+         PASUSPENDER - X - - - - -
+                WORK - O - - - - -
+               PULSE - X - - O - -
+                  .. - O - - - - -
+                  PA - - X - - - -
+            RESPAWNS - - S - - - -
+                   D - - X - - - -
+                 =NO - - O - - - -
+~/.PULSE/CLIENT.CONF - - X O - - -
+                SUDO - - - - - - X
+        SPEAKER-TEST - - - - - - X

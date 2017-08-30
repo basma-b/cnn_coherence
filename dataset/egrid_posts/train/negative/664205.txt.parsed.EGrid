@@ -1,0 +1,10 @@
+                 GDM X -
+                 KDM O -
+        /ETC/INIT.D/ X -
+             DEFAULT X -
+                   * S -
+/ETC/X11/DEFAULT-DISPLAY-MANAGER X -
+               LSPCI - S
+               SOUND - X
+                CARD - O
+              OUTPUT - O

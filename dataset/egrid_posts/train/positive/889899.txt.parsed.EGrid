@@ -1,0 +1,21 @@
+               THERE X - - - -
+                 WAY X - - - -
+                BOOT X - X - -
+               15MIN - X - - -
+            RECOVERY - X - - -
+                MODE - X - - -
+          BOOTSCREEN - X - - -
+                  .. - X - - -
+           ANIMATION - X - - -
+              SCREEN - - S - -
+                NOFB - - S X -
+           NOMODESET - - X - -
+            OPTIUONS - - O - -
+              THINGS - - S - -
+                TEXT - - X - -
+             MESSAGE - - X - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - X - -
+         UPDATE-GRUB - - O - -
+                GRUB - - X - -
+             CONFIGS - - O - -
+                DICE - - - - X

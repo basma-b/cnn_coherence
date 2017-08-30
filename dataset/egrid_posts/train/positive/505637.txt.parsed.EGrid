@@ -1,0 +1,10 @@
+              DEVICE X - -
+                /DEV X - -
+               DRIVE X - -
+            /DEV/FD0 - - O
+           /DEV/FD/0 - - O
+                  .. - - X
+               THERE - - S
+             NOTHING - - O
+          /ETC/FSTAB - - X
+                 ANY - - X

@@ -1,0 +1,13 @@
+             STORAGE X - - - - - - - -
+              DEVICE X - - - - - - - -
+          FILESYSTEM - X - - - - - - -
+                  VS - - - - - O - - -
+                EXT3 - - - - - - X - -
+                 JFS - - - - - - X - -
+                SUDO - - - - - - X - -
+               FDISK - - - - - - X - -
+                  -L - - - - - - S - -
+           PARTITION - - - - - - S - -
+              FORMAT - - - - - - O - -
+              GOTCHA - - - - - - O - -
+               SPACE - - - - - - - - X

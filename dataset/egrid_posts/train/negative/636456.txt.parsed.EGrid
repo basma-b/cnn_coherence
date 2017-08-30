@@ -1,0 +1,21 @@
+               KINDA X - - - -
+            RC.LOCAL S - - - -
+/ETC/INIT.D/RC.LOCAL S - - - -
+              SCRIPT O - - - -
+        /ETC/INIT.D/ X - - - -
+      SERVICES-ADMIN S - - - -
+              SYNTAX - X - - -
+                  -I - - S - -
+     LOCALHOST:24800 - - X - -
+          OTHER-HOST - - X - -
+                  .. - - X - -
+   /VAR/LOG/MESSAGES - - X - -
+               THERE - - S - -
+    VAR/LOG/MESSAGES - - O - -
+                 EWW - - X - -
+              SYSLOG - - O - -
+             DEFAULT - - X - -
+             SERVICE - - O - -
+              DISTRO - - X - -
+                 LOG - - O - -
+                 APP - - X - -

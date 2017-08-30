@@ -1,0 +1,14 @@
+                 ANY S - - -
+               USERS O - - -
+                LDAP - X - X
+             TROUBLE - O - -
+                9.10 - X - -
+         CREDENTIALS - O - -
+           CN=CONFIG - X - -
+                  -D - X - -
+            CN=ADMIN - O - -
+           OLCACCESS - X - -
+            PASSWORD - O - S
+                TIME - - - S
+             COMMAND - - - O
+               SETUP - - - X

@@ -1,0 +1,25 @@
+               THERE - S - - -
+            SOLUTION - O - - -
+              SYSTEM - X X - -
+            ENGINEER - O - - -
+             COMPANY - X - - -
+            SOFTWARE - O - - -
+               LINUX - X - - -
+             MACHINE - X X - -
+                USER - - S - -
+                HOME - - O - -
+             DESKTOP - - O - -
+                 CLI - - X - -
+                 USE - - X - -
+               PUTTY - - O - -
+      OPENSSH-SERVER - - O - -
+             APT-GET - - S - -
+             PACKAGE - - X - -
+                  .. - - O X -
+                 GUI - - X - -
+             COMMAND - - O X -
+                SUDO - - X - S
+                 VNC - - - X -
+               STUFF - - - S -
+    XEND-HTTP-SERVER - - - - X
+/ETC/XEN/XEND-CONFIG.SXP - - - - O

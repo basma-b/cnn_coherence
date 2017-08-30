@@ -1,0 +1,10 @@
+             PACKAGE O O - - - -
+                LIBS X X - - - -
+                DEPS X X - - - -
+             APT-GET - - S - - -
+               PURGE - - S - - -
+            BLAHBLAH - - X - - -
+              CONFIG - - X - - -
+                FILE - - O - - -
+           DEBORPHAN - - - - X S
+           LIBRARIES - - - - - O

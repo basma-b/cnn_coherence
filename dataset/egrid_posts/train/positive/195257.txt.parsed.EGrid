@@ -1,0 +1,14 @@
+             SERVICE - S - - - -
+                BIND - O X - - -
+              DEVICE - X - - - -
+            IPTABLES - O - - - -
+             CONTROL - X - - - -
+              ACCESS - X - - - -
+               SOUND - - X - - -
+         REQUIREMENT - - X - - -
+                  .. - - X - - -
+                SITE - - S - - -
+                ROUT - - X - - -
+              FILTER - - X - - -
+                LOOP - - - - - X
+               PROXY - - - - - X

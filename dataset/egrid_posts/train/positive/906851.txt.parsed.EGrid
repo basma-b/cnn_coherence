@@ -1,0 +1,16 @@
+                  -P O - - - - -
+                SAME O - - - - -
+            SHUTDOWN S - - - - -
+              UBUNTU S - - - - -
+            MODPROBE X X - - - -
+                 APM X X S S - -
+              MINUTE - O - - - -
+            PASSWORD - S - - - -
+               FATAL - X - - - -
+               ERROR - X - - - -
+              INSERT - X - - - -
+              DEVICE - X - - - -
+             MESSAGE - O - - - -
+                BIOS - X X S - -
+                BOB2 - - - S - -
+           COMPLIANT - - - - X -

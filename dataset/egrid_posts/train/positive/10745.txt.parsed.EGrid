@@ -1,0 +1,12 @@
+                PATH S - - - -
+             CONSOLE X - - - -
+      GNOME-TERMINAL S - - - X
+     ~/.BASH_PROFILE - - S - -
+              LOGINS - - X - -
+       .BASH_PROFILE - - - O -
+           SOMETHING - - - O -
+           ~/.BASHRC - - - X -
+                TYPE - - - X S
+             .BASHRC - - - S -
+               SHELL - - - - X
+             DEFAULT - - - - X

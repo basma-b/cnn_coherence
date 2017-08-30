@@ -1,0 +1,15 @@
+              SCRIPT S - - - - - - - -
+                NAME S - - - - - - - -
+           EXTENSION O - - - - - - - -
+                 USE - O - - - - - - -
+                 THX - X - - - - - - -
+       0ANACRON-FILE - - O - - - - - -
+      CRON.DAILY-DIR - - X - - - - - -
+                  NO - - - S - - X - -
+             PURPOSE - - - - O - - - -
+                SHOW - - - - X - - - -
+                GRUB - - - - - - O - -
+         BOOTMANAGER - - - - - - O - -
+                 MBR - - - - - - X - -
+           DUAL-BOOT - - - - - - O - -
+                NICK - - - - - - - - X

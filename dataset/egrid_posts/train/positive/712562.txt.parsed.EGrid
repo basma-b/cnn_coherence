@@ -1,0 +1,28 @@
+            WIRELESS X - - - - -
+             NETWORK S - - - - -
+                WORK O S - - - -
+           REFERENCE O - - - - -
+/ETC/NETWORK/INTERFACES X X - - - -
+               WLAN0 X - - - - -
+              REBOOT X - - - - -
+                SHOW X - - - - -
+         ASSOCIATION X - - - - -
+             REQUEST O - - - - -
+              DRIVER S - - - - -
+            PROBLEMO O - - - - -
+         IFUP/IFDOWN - X - - - -
+              ERRORS - X - - - -
+     NETWORK-MANAGER - S S O - -
+         ENVIRONMENT - X - - - -
+            CONFLICT - X - - - -
+               INFOS - - O - - -
+          INTERFACES - - X - - -
+                FILE - - X - - -
+             UPGRADE - - - X - -
+                DONT - - - - X -
+                ICON - - - - O -
+            QUESTION - - - - - X
+                  .. - - - - - X
+ GNOME-SYSTEM-MNAGER - - - - - S
+             PROCESS - - - - - O
+GNOME-SYSTEM-MONITOR - - - - - X

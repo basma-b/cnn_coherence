@@ -1,0 +1,23 @@
+LINUX-RESTRICTED-MODULES O - - - - X - - - - - - - - - - -
+             PACKAGE - S - - O - - - - - - X - - - - -
+             MANAGER - S - - - - - - - - - - - - - - -
+          REPOSITORY - - X - - - - - - - - - - - - - -
+                DATE - - - X - - - - - - - - - - - - -
+              UPDATE - - - X - - - - - - - - - - - - -
+                THAT - - - - S S - - - - - - - - - - -
+              THANKS - - - - X O - - - - - - - - - - -
+/LIB/MODULES/2.6.22-14-GENERIC/KERNEL/DRIVERS/CHAR/DRM/FGLRX.KO - - - - - O - - - - - - - - - - -
+               WIERD - - - - - - O - - - - - - - - - -
+                 ATI - - - - - - X - - X - - - - - - -
+                CARD - - - - - - O - - - - - - - - - -
+           DIRECTORY - - - - - - - X - - O - - - X - -
+            FLGRX.KO - - - - - - - - X - - - - - - - -
+        /LIB/MODULES - - - - - - - - X - - - - - - - -
+             DRIVERS - - - - - - - - - S - - - - - - -
+                  -R - - - - - - - - - X - - - - - - -
+               /MISC - - - - - - - - - X - - - - - - -
+/LIB/MODULES/2.6.22-14-GENERIC/VOLATILE/FGLRX.KO - - - - - - - - - - - - X - - - -
+                 ONE - - - - - - - - - - - - O - - - O
+                HMMM - - - - - - - - - - - - - S - - -
+                COPY - - - - - - - - - - - - - - O - -
+/USR/LIB/MODULES/2.22 - - - - - - - - - - - - - - - - X

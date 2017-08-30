@@ -1,0 +1,9 @@
+               USERS S - - -
+               MOUNT X - - -
+             COMMAND O - - -
+                SUID - O - -
+                USER - - X -
+              OPTION - - O -
+               FSTAB - - X -
+                LINE - - X -
+                FINE - - - O

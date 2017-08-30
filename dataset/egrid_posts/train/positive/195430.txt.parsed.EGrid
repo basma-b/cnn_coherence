@@ -1,0 +1,16 @@
+                 ALL S - - - - - -
+                SUDO X S - - - - -
+                TYPE - X - - - - -
+            PASSWORD - X - - - - -
+             NOTHING - O - - - - -
+               ENTRY - X - - - - -
+                USER - - X - - - X
+                PART - - X - - - -
+               ADMIN - - X - - - -
+               GROUP - - X X - - X
+             SUDOERS - - - S - - S
+              SYSTEM - - - O - - -
+                ROOT - - - - O - -
+                WORK - - - - - - O
+              DETAIL - - - - - - X
+            RECOVERY - - - - - - O

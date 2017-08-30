@@ -1,0 +1,29 @@
+              WINDOW X - - - - - - - - - -
+            TERMINAL - S - - - - - - - - -
+      SYSTEMSETTINGS - X - - - - - - - - -
+            QUESTION - - X - - - - - - - -
+             PACKAGE - - X - - - - - - - -
+                NAME - - O - - - - - - - -
+               STATE - - O - - - - - - - -
+            MAINMENU - - - X - - - - - - -
+               PANEL - - - X - - - - - - -
+                FACT - - - O - - - - - - -
+       PACKAGE-NAMES - - - X - - - - - - -
+APPLICATION-WINDOW-NAMES - - - X - - - - - - -
+GNOME-CONTROL-CENTER - - - X - - - - - - -
+         NDISWRAPPER - - - - - O - - - - X
+             DRIVERS - - - - - O - - - - O
+                THAT - - - - - - - O - - -
+              MODULE - - - - - - - O - - -
+              DRIVER - - - - - - - - X - -
+               OTHER - - - - - - - - S - -
+              OUTPUT - - - - - - - - X - -
+             COMMAND - - - - - - - - X - -
+                 USE - - - - - - - - - X X
+            MODPROBE - - - - - - - - - S -
+                 TEL - - - - - - - - - X -
+                THIS - - - - - - - - - - S
+               LINUX - - - - - - - - - - X
+             DEVICES - - - - - - - - - - X
+               HTTPS - - - - - - - - - - X
+//HELP.UBUNTU.COM/COMMUNITY/WIFIDOCS/DRIVER/NDISWRAPPER - - - - - - - - - - X

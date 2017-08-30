@@ -1,0 +1,33 @@
+                 NIC X - - - - - -
+               N6REJ X - - - - - -
+                THAT - X - - - - -
+              BELKIN - S - - - - -
+            BROADCOM - X - - - - -
+             CHIPSET - O - - - - -
+                  .. - O - - - - -
+            WIRELESS - X - - - - -
+                NDIS - X - - O - -
+            WRAPPERS - O - - - - -
+                WORK - X - - - - -
+                CASE - X - - - - -
+              MONKEY - X - - - - -
+             DRIVERS - O - - - - -
+                LINK - X - - - - -
+                  TY - X - - - - -
+             PROBLEM - - S - - - -
+                 3.4 - - O - - - -
+                MAKE - - - X - - -
+                 GCC - - - O - - -
+                CARD - - - S - - -
+                LIST - - - X - - -
+                HTTP - - - X X - -
+           SOMETHING - - - O - - -
+                FILE - - - X - - -
+                 HMM - - - - S - -
+                NEED - - - - O - -
+              SOURCE - - - - X - -
+              RELINK - - - - X - -
+             T=25683 - - - - - X -
+HIGHLIGHT=BROADCOM+BELKIN - - - - - X -
+               HTTPS - - - - - - X
+//ANSWERS.LAUNCHPAD.NET/UBUNTU/+QUESTION/18330 - - - - - - X

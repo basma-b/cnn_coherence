@@ -1,0 +1,39 @@
+                TYPE X - - - X - X -
+               WLAN0 S - - - - - - -
+          ONTERMINAL X - - - - - - -
+                LOOK X - - - - - - -
+            WIRELESS X - X - - - - -
+                CARD O - - - - - - -
+                GREP X - - - - - - -
+                  OK X - - - - - - -
+                INFO S - - - - - - -
+                   U - S - O - - S -
+           SOMETHING - O - - - - - -
+              CHOICE - X - - - - - -
+            REASON=3 - X - - - - - -
+                SOME - X - - - - - -
+                 YES - X - - - - - -
+                LINE - S - - - - O -
+                TIME - - - S - - - -
+                IPV6 - - - O - - - -
+             PROBLEM - - - X - - - -
+            SETTINGS - - - X - - - -
+              METHOD - - - S - - - -
+                THIS - - - - X - - -
+            TERMINAL - - - - X - - -
+                 CAT - - - - X X X -
+/PROC/SYS/NET/IPV6/CONF/ALL/DISABLE_IPV6 - - - - X O S -
+              RESULT - - - - S - - -
+             COMMAND - - - - X S - -
+                 SEE - - - - - X - -
+                   ' - - - - - - S -
+    /ETC/SYSCTL.CONF - - - - - - O -
+                 END - - - - - - X -
+                FILE - - - - - - X -
+NET.IPV6.CONF.ALL.DISABLE_IPV6 - - - - - - S -
+NET.IPV6.CONF.DEFAULT.DISABLE_IPV6 - - - - - - S -
+NET.IPV6.CONF.LO.DISABLE_IPV6 - - - - - - S -
+                COPY - - - - - - X -
+                  PC - - - - - - O -
+                TOOL - - - - - - - X
+                 IDK - - - - - - - X

@@ -1,0 +1,19 @@
+             PROBLEM O - - - - - -
+         FRAMEBUFFER X - - - - - -
+             VGA=791 O - - - - - -
+               KENEL X - - - - - -
+             APPLIST X - - - - - -
+ /BOOT/GRUB/MENU.LST X - - - - - -
+                WORK X - - - - - -
+              INSMOD - X - - - - -
+                FILE - O S - - - -
+/LIB/MODULES/2.6.12-9-386/INITRD/VESAFB.KO - S - - - - -
+                  -L - - X - - - -
+                LOAD - - - O - - -
+              MODULE - - - S - - -
+               IDEAS - - - O - - -
+           INITRAMFS - - - - O - -
+                   $ - - - - - O -
+                SUDO - - - - - X -
+    DPKG-RECONFIGURE - - - - - S -
+                  -R - - - - - X -

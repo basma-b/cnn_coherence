@@ -1,0 +1,18 @@
+             VERSION X - - - - - - -
+                 TAR X O - - - X - X
+               10.04 - X - - - - - -
+                 GNU - X - - - - - -
+             PATTERN - X - - - - - -
+                   > - X - - - - - -
+                 DIR - O - - - - - -
+             ARCHIVE - - - - X X - -
+           SOMETHING - - - - O - - -
+                  -C - - - - - X - -
+             EXAMPLE - - - - - X - -
+           DIRECTORY - - - - - X - -
+                 FOO - - - - - O - -
+             FOO/BAR - - - - - X - -
+RESULTING-TARBALL.TAR - - - - - O - -
+             COMMAND - - - - - - - X
+ NO-SAME-PERMISSIONS - - - - - - - X
+                   * - - - - - - - O

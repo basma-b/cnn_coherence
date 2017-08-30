@@ -1,0 +1,18 @@
+               ERROR X - -
+              INSERT X - -
+             EMU10K1 X - -
+/LIB/MODULES/2.6.10-5-386/KERNEL/SOUND/OSS/EMU10K1/EMU10K1.KO X - -
+              SYMBOL X - -
+              MODULE X - -
+           PARAMETER X - -
+               DMESG O - -
+                HELP X - -
+                DONT - X -
+             MODULES - S -
+              KERNEL - O -
+             PROBLEM - O -
+                ALSA - X -
+              DRIVER - O -
+          EVERYTHING - O -
+                THAT - - S
+                USER - - O

@@ -1,0 +1,15 @@
+                WIRE X X X - -
+          CONNECTION O - - - -
+                LOOP X - - - -
+             NETWORK X - S - X
+         DISCONNETED O - - - -
+           CONNECTIO - S - - -
+                WORK - - X - -
+                SUDO - - X - -
+           PPPOECONF - - S - -
+                  NM - - X - -
+              UPDATE - - X - -
+            WIRELESS - - - X -
+              EXPERT - - - - O
+                   T - - - - S
+            SOLUTION - - - - O

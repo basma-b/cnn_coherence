@@ -1,0 +1,12 @@
+                WINE S - - - -
+             VERSION X - - - -
+             PACKAGE - S - - -
+             REQUIRE - X - - -
+    LIBGTK1.2-COMMON - S - - -
+                 USE - X - - -
+          AUTOREMOVE - O - O -
+             UPGRADE - - S - -
+      NETWORKMANAGER - - - X -
+              UBUNTU - - - S -
+               UBOTU - - - S -
+             PROBLEM - - - - X

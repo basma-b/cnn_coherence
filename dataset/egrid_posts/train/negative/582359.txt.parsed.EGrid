@@ -1,0 +1,17 @@
+             PROBLEM X - - - - -
+             COMMAND O - - - - -
+              KERNEL X - S X - -
+              UPDATE X - - - - -
+                 M-A - X - - - -
+             MODULES - O - - - -
+                ROOT - X - - - -
+          FILESYSTEM - X - - - -
+                BOOT - X X - - -
+            LOOP-AES - - X - - -
+    UPDATE-INITRAMFS - - X - - -
+                 -UA - - O - - -
+                  .. - - X - - -
+                 AES - - O - - -
+            ANYTHING - - O - - -
+             UPGRADE - - - X - -
+              MODULE - - - X - -

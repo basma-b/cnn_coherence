@@ -1,0 +1,16 @@
+        AUDIOTESTSRC S - - - - - - -
+            FREQ=512 O - - - - - - -
+      GCONFAUDIOSINK - - - X - - - -
+              DEVICE - - - O - - - -
+            PLAYBACK - - - X - - - -
+               IDEAS - - - - X - - -
+           /DEV/SND/ - - - - - S - -
+                  .. - - - - - O X -
+               WHATS - - - - - S - -
+             NOTHING - - - - - S - -
+               ERROR - - - - - - S -
+           SOMETHING - - - - - - O -
+                 CTL - - - - - - S -
+              REBOOT - - - - - - S -
+                 AYE - - - - - - - X
+                 BRB - - - - - - - X

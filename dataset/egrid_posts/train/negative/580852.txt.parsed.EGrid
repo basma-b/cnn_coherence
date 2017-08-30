@@ -1,0 +1,17 @@
+               /HOME O - - - -
+             DEFAULT X - - X -
+                DATA - O - - -
+                SUDO - - X - -
+               MKDIR - - X - -
+             /HOME/~ - - S - -
+              CONFIG - - X - -
+                FILE - - X - -
+            RECREATE - - O - -
+                TIME - - - X -
+             CONFIGS - - - S -
+                 DIR - - - O -
+            COMPUTER - - - - X
+                 RUN - - - - S
+             NETWORK - - - - X
+                BOOT - - - - X
+             HEARTED - - - - X

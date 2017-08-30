@@ -1,0 +1,17 @@
+             SOMEONE X - - - - - -
+             EXAMPLE X - - - - - -
+               FSTAB X - - - - - -
+                LINE X - - X - - X
+           PARTITION O - - - - - -
+                USER X - X - X - -
+                TIME - O - - - - O
+               TRIAL - X - - - - -
+               ERROR - X - - - - -
+              REBOOT - X - - - - X
+                  RW - - - - X - -
+       /DEV/WHATEVER - - - - X - -
+        /MOUNT/POINT - - - - S - -
+             DEFAULT - - - - X - -
+              NOAUTO - - - - O - -
+             PROBLEM - - - - O - -
+                WORK - - - - - - S

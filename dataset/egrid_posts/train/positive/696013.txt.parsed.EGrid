@@ -1,0 +1,11 @@
+                 KEY X - - -
+                 SSH X X - -
+                FILE X - - -
+                USER - X - -
+                HOST - X - X
+             WINDOWS - X - -
+              CLIENT - O - -
+                 SCP - - - X
+                 CAT - - - X
+             YOURKEY - - - S
+~/.SSH/AUTHORIZED_KEYS - - - O

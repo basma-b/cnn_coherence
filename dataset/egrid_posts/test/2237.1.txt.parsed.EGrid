@@ -1,0 +1,26 @@
+           PARTITION O - - - - - O
+                SUDO X - - - - - -
+               /MNT/ O - - - - - -
+/BOOT/GRUB/CUSTOM.CFG S O - - - - -
+                 TEE X - - - - - -
+/MNT/BOOT/GRUB/CUSTOM.CFG X - - - - - -
+              UBUNTU - X - - - - -
+                BOOT - X - - - X -
+   /ETC/DEFAULT/GRUB - O - - - - -
+     GRUB_TIMEOUT=-1 - O - - - - -
+                GRUB - - X - - - -
+                 USE - - X - - - X
+              CONFIG - - X - - - -
+                FILE - - X - - - -
+         CUSTOM.CFG - - X - - - -
+          CUSTOM.CFG - - - - S - -
+            GRUB.CFG - - - - O S -
+                   $ - - - - - O -
+UPDATE-GRUB/GRUB-MKCONFIG - - - - - X -
+                LINE - - - - - O -
+              SOURCE - - - - - X -
+               -RSB- - - - - - X -
+              DEVICE - - - - - - X
+                NODE - - - - - - S
+               DRIVE - - - - - - X
+                ROOT - - - - - - X

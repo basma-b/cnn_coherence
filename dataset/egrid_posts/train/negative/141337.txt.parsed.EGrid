@@ -1,0 +1,15 @@
+                 CAT X - - - - -
+/ETC/NETWORK/INTERFACES S - - - - -
+              OTHERS O - - - - -
+                BOOT X - - - - -
+             DEFAULT X - - X - -
+                INIT - X - - - -
+              SCRIPT - X - - - -
+                 TWO - X - - - -
+             CLUSTER - X - O - -
+           MYSQL-NDB - - S - - -
+           SOMETHING - - O - - -
+             CLUSERS - - X - - -
+               THOSE - - - O - -
+           NTFSPROGS - - - - - S
+             PACKAGE - - - - - O

@@ -1,0 +1,18 @@
+           DIRECTORY X - - -
+          PERMISSION O - - -
+          DRWXRWSRWX X - - -
+                   S X - - -
+                BITE - X - -
+               CHMOD - X - -
+                 G-S - X - -
+                THAT - - O -
+               ERROR - - O X
+          VALIDATION - - - X
+                DATA - - - X
+                FILE - - - X
+/ETC/X11/XORG.CONF/NDEVICE - - - X
+             SECTION - - - X
+             DEFAULT - - - X
+              DEVICE - - - S
+              DRIVER - - - X
+                LINE - - - O

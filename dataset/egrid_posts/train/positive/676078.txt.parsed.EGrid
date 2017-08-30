@@ -1,0 +1,16 @@
+           PARTITION S - - -
+            VARIABLE X X - -
+              SCRIPT X - - -
+                   | - X - -
+                GREP - X - -
+      /DEV/MMCBLK1P1 - O - -
+                LINE - O - -
+              COLUMN - X - -
+                   $ - - X -
+                THAT - - X -
+              SONTEK - - O -
+                 TRY - - S -
+                |AWK - - O -
+               PRINT - - X -
+           SOMETHING - - S -
+                 CUT - - - X

@@ -1,0 +1,9 @@
+             COMMAND X - - - -
+                WONT X - - - -
+                COPY X X - - -
+             CONTENT X X - - -
+              FOLDER X - - O -
+                  -R - X - - -
+             FOLDERS - X - - -
+               ERROR - O - - -
+          EVERYTHING - - S - -

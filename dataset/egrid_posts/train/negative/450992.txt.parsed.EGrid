@@ -1,0 +1,15 @@
+            IFCONFIG - S - - - -
+                 ALL - O - - - -
+         IFUP/IFDOWN - O - - - -
+           INTERFACE - O - - - -
+/ETC/NETWORK/INTERFACES - X X - - -
+                FILE - X - - - -
+                TIME - - X - - -
+          INTERFACES - - X - - -
+            SETTINGS - - O - - -
+               STORE - - O - - -
+                CARD - - O - - -
+          VORONDIL_- - - - S - -
+              UPDATE - - - X - -
+                 CAB - - - - - O
+                SOME - - - - - X

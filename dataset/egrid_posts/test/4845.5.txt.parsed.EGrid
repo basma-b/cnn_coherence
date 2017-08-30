@@ -1,0 +1,11 @@
+             SUDOERS O - -
+                 YES - S -
+             DEVICES - - X
+              KERNEL - - X
+              DRIVER - - X
+             VERSION - - X
+       CONFIGURATION - - X
+       BROADCAST=YES - - S
+DRIVERVERSION=3.2.0-1-686-PAE - - O
+            LINK=YES - - X
+                WLAN - - X

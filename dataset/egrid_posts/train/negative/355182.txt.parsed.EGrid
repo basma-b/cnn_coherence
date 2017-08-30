@@ -1,0 +1,12 @@
+                 ENV X - - - -
+            VARIABLE S - - - -
+            CHECKING O - - - -
+                   > X - - - -
+                 C++ X - - - -
+            COMPILER S X - - -
+               CACHE - X - - -
+             VERSION - S - - -
+                 G++ - - S - -
+                NEED - - O - -
+             APT-GET - - - S -
+     BUILD-ESSENTIAL - - - O -

@@ -1,0 +1,23 @@
+               PASTE S - - - -
+       2.6.17.7-10.1 X - - - -
+                  .. X - - - -
+LINUX-RESTRICTED-MODULES-2.6.17-10-GENERIC - X - - -
+                 BUS - X X - -
+               ERROR - X S - -
+                CORE - X - - -
+                DUMP - X - - -
+                DPKG - X - - -
+             PROCESS - X - - -
+              SCRIPT - X - - -
+              RETURN - X - - -
+                EXIT - X - - -
+              STATUS - X - - -
+              ANYONE - S - - -
+            ANYTHING - O - - -
+                THIS - X - - -
+                  BE - - S - -
+                SIGN - - X - -
+            HARDWARE - - X - -
+             MEMTEST - - - - X
+                PASS - - - - X
+                   % - - - - X

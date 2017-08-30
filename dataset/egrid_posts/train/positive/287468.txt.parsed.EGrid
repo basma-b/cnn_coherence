@@ -1,0 +1,13 @@
+                  HI X - -
+              FORMAT X S -
+              KERNEL - X -
+             VERSION - X -
+             KERNELS - X -
+              2.6.15 - X -
+                EXT2 - X -
+         FILESYSTEMS - S -
+            SQUASHFS - X -
+                JFFS - O -
+                 USE - O -
+           INITRAMFS - X -
+              INITRD - - O

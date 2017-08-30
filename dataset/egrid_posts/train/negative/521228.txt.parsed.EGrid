@@ -1,0 +1,10 @@
+           PARTITION X - O - S
+                DATA O - - - -
+             GPARTED - X - - -
+             SUPPORT - O - - -
+               IMAGE - - X - -
+            UID=1000 - - - - X
+              OPTION - - - - O
+               MOUNT - - - - X
+             COMMAND - - - - X
+                VFAT - - - - X

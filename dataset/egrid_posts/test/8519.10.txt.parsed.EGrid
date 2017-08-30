@@ -1,0 +1,10 @@
+                   | - S - - -
+                TRUE - X - - -
+                 COD - - - O -
+ SECCOMP_MODE_FILTER - - - O -
+                WORK - - - - X
+               LINUX - - - - X
+                ARCH - - - - X
+              FILTER - - - - X
+                MODE - - - - S
+ SECCOMP_MODE_STRICT - - - - O

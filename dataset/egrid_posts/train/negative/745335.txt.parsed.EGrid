@@ -1,0 +1,13 @@
+                BOOT S - S - - - - -
+                FSCK X - - X - - - -
+                SAYS - S - - - - - -
+                  CD - - O - - X - -
+                SUDO - - - X - X - -
+           /DEV/SDA1 - - - S - - - -
+                HDA1 - - - X - - - -
+                NAME - - - - X - - -
+           PARTITION - - - - X O - -
+               FDISK - - - - - X - -
+                  -L - - - - - S - -
+                 USE - - - - - - - X
+             FLUXBOX - - - - - - - X

@@ -1,0 +1,18 @@
+              MEMORY X - -
+                 DMA X - -
+              BUFFER X - -
+              MBYTES X - -
+               FGLRX - X -
+               -RSB- - X -
+                 USE - X -
+              MODULE - X -
+                LOAD - X -
+                   * - X -
+               ERROR - O -
+             PROCESS - X -
+              KERNEL - X -
+             CONTEXT - X -
+                 ONE - O -
+/ETC/INIT.D/NETWORKING - - S
+                  .. - - O
+            IWCONFIG - - X

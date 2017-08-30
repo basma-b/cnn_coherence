@@ -1,0 +1,26 @@
+               GROUP S - - - - O O - X -
+              ACCESS O - - - - O O - - -
+SYSTEM/ADMISINSTRATION/USERS X - - - - - - - - -
+              GROUPS X - - - - - - - - -
+               WHEEL - - - - X S - - - -
+                  BE - - - - - X - - - -
+                USER - - - - - O X - S -
+       ADMINISTRATOR - - - - - X - - - -
+               THATS - - - - - S - - - -
+           SOMETHING - - - - - O S - O -
+               ACCES - - - - - O - - O -
+                  SU - - - - - X - - - -
+            PASSWORD - - - - - O - - - -
+                ROOT - - - - - X - - - -
+                  .. - - - - - - O - - -
+             ACCOUNT - - - - - - S - - -
+                FILE - - - - - - X - - -
+               CHMOD - - - - - - - X - -
+             COMMAND - - - - - - - X - -
+               CHOWN - - - - - - - - X -
+           DIRECTORY - - - - - - - - X -
+                TYPE - - - - - - - - X -
+                  -R - - - - - - - - X -
+          /HOME/USER - - - - - - - - X -
+                   X - - - - - - - - - O
+             MACHINE - - - - - - - - - S

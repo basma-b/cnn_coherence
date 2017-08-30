@@ -1,0 +1,17 @@
+                SUDO S - - - S - -
+                  RW S - - - X O -
+          PERMISSION O - - - - - S
+          FILESYSTEM - X - - - - -
+                VFAT - S - - X - -
+              OPTION - S - - - - -
+          DIFFERENCE - O - - - - -
+                UID= - S - - - X -
+            YOURUSER - X - - - X -
+               PARAM - X - - - - -
+              PARAMS - - S - - - -
+                 YES - - - O - - -
+           /DEV/SDA1 - - - - S - -
+         UID=ANTHONY - - - - X - -
+                 JOY - - - - - S -
+           FMASK=137 - - - - - X -
+           DMASK=027 - - - - - X -

@@ -1,0 +1,15 @@
+          UMASK=0000 X X -
+               FSTAB X X -
+             OPTIONS - X -
+                   > - X -
+              COLUMN - X -
+              OPTION - O -
+              NOAUTO - X -
+                USER - X -
+             DEFAULT - O -
+        UNRECOGNIZED - O -
+               VALUE - O -
+               DMESG - O -
+          FILESYSTEM - - X
+                TYPE - - X
+           HARDDRIVE - - X

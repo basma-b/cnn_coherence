@@ -1,0 +1,8 @@
+           SOMETHING X - - X -
+               SQUID - O - X -
+                SECS - X - - -
+  /VAR/LOG/SQUID.LOG - - - S -
+                 RUN - - - S -
+                SUDO - - - X -
+               |GREP - - - X -
+                 LOG - - - O -

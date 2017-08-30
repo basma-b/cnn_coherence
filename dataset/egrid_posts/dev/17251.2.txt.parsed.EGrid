@@ -1,0 +1,27 @@
+               MATCH O - - - - - -
+                WORD O - - - - - -
+                FILE X - - - - - -
+                 USE O - - - - - -
+                 SED S - - - S - -
+          /OLD/NEW/G X - - - - - -
+                .PHP O - - - - - -
+                 END X - - - - - -
+              CHANGE - - - X X - -
+          EVERYTHING - - - O - - -
+                FACT - - - - X - -
+              STREAM - - - - X - -
+              EDITOR - - - - O - -
+                DUMP - - - - O - -
+             VERSION - - - - S - O
+              ERRORS - - - - - X -
+                TIME - - - - - - X
+                 THE - - - - - - S
+             COMMUTE - - - - - - X
+              OTHERS - - - - - - S
+/ETC/APT/SOURCES.LIST - - - - - - O
+                LINE - - - - - - O
+                 PPA - - - - - - X
+               PARTY - - - - - - X
+               FLASH - - - - - - X
+                WORK - - - - - - X
+               HOURS - - - - - - X

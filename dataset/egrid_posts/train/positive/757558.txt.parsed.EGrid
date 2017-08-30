@@ -1,0 +1,7 @@
+           PARTITION S - - -
+                BOOT X - - -
+               LOGIN X - - -
+          PARTITIONS - S - -
+          /ETC/FSTAB - O - -
+                HTTP - - X -
+                SDA1 - - - X

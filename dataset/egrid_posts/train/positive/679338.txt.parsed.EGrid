@@ -1,0 +1,12 @@
+                FILE X - - - -
+                TYPE X - - - -
+                SUDO X - - - X
+            SMB.CONF - X - - -
+                 GUI - S - - -
+ /ETC/SAMBA/SMB.CONF - O - - -
+                NAME - O - - -
+             MACHINE - O - - -
+                THAT - - X - -
+             SERVICE - - - - X
+               SAMBA - - - - S
+            TERMINAL - - - - X

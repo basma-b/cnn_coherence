@@ -1,0 +1,14 @@
+           PHP5.CONF O - - - - - -
+/ETC/APACHE2/MODS-ENABLED X - - - - - -
+           EXTENSION O - - - - - -
+             HANDLER X - - - - - -
+           SOMETHING - X - - - - -
+         REWRITERULE - X - - - - -
+               -LSB- - - - X - - -
+H=APPLICATION/X-HTTPD-PHP - - - X - - -
+               -RSB- - - - X - - -
+               CHMOD - - - - - X -
+      /PATH/TO/MOUNT - - - - - X -
+                  OR - - - - - - S
+               MOUNT - - - - - - X
+                ROOT - - - - - - X

@@ -1,0 +1,17 @@
+              UBUNTU S - -
+                 USE X - -
+               XFREE X - -
+                NICE - S -
+            ANYTHING - X -
+                 ATI - X -
+             DRIVERS - O -
+                PROO - X -
+                   * - X -
+              DRIVER - O -
+             SECTION - X -
+          XF86CONFIG - X -
+              OPTION - X -
+  USEINTERNALAGPGART - X -
+                  NO - X -
+          RADEON/ATI - X -
+               FGLRX - X -

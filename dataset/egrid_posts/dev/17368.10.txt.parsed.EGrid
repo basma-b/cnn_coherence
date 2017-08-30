@@ -1,0 +1,12 @@
+                 GPU X - -
+               LSPCI - X -
+                 -NN - X -
+                   | - X -
+                GREP - X -
+                 VGA - X -
+               CHECK - X -
+                SUDO - X X
+             APT-GET - S S
+                  OK - - X
+              CTRL+C - - S
+            WICD-KDE - - O

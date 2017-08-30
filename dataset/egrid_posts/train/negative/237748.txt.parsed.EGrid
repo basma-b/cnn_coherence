@@ -1,0 +1,10 @@
+              KERNEL X X -
+             MODULES S O -
+                 ONE O - -
+                LOAD - O -
+            MODPROBE - X -
+          DIFFERENCE - - X
+       DOCUMENTATION - - S
+             PACKAGE - - S
+          REPOSITORY - - X
+               PATCH - - S

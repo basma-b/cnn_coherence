@@ -1,0 +1,16 @@
+            WIRELESS X - - -
+              DRIVER S - - O
+                 USE X - - -
+         NDISWRAPPER O - - -
+             NETWORK X - - -
+              REPORT O - - -
+       -DNDISWRAPPER O - X -
+           ARGUMENTS X - - -
+                NOOB - O - -
+                HELP - - O -
+                 BTW - - S -
+             -IWLAN1 - - S -
+-C/ETC/WPA_SUPPLICANT.CONF - - O -
+                HTTP - - O -
+//PASTE.UBUNTU.COM/36725/ - - S -
+NDISWRAPPER+NETA5AGU - - - S

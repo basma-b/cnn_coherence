@@ -1,0 +1,12 @@
+                BIND S - - - - -
+              FOLDER - O X - - -
+           CONFIGURE - - O - - -
+                USER - - X - - -
+                PATH - - X - - -
+               ACCES - - X - - -
+                 FTP - - - X - -
+            SYMLINKS - - - O - -
+                WORK - - - O - -
+                FTPD - - - S - -
+                THAT - - - - - S
+               CHECK - - - - - X

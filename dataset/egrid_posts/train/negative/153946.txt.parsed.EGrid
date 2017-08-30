@@ -1,0 +1,7 @@
+                BOTH S - - -
+           UMASK=666 O - - -
+                 ATT X - - -
+           UMASK=777 - - S -
+           UMASK=000 - - S -
+           CONDITION - - X -
+              NEWEGG - - - X

@@ -1,0 +1,13 @@
+               MOUNT X - - - -
+                  -T S - - - -
+             /DEVICE O - - - -
+                ROOT - X - - -
+           PARTITION - O - - -
+                TYPE - X - - -
+             UNKNOWN - X - - -
+                  RW - X - - -
+              SYSTEM - - O - -
+                BOOT - - X - -
+                WORK - - X - -
+               LSMOD - - - X -
+                SHOW - - - S -

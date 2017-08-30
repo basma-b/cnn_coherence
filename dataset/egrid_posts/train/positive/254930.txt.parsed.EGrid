@@ -1,0 +1,12 @@
+            WIRELESS S - S -
+                PING O - - -
+             NETWORK X - - -
+         UNREACHABLE O - - -
+              IFDOWN S - - -
+           SIOCDELRT O - - -
+             PROCESS X - - -
+                IFUP S - - -
+           IFDOWNING X - - -
+           INTERFACE S - - -
+              DRIVER - - X -
+                  .. - - O -

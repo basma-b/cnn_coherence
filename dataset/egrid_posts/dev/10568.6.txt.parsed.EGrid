@@ -1,0 +1,16 @@
+             DRIVERS - X - - - - - -
+                NEED - X - - - - - -
+           RTL8187SE - X - - - - - -
+                 PCI - X - - - - - -
+            UBUNTU12 - X - - - - - -
+             KERNEEL - X - - - - - -
+                SUDO - - - - X - - -
+               RMMOD - - - - X - - -
+             IWLWIFI - - - - O - - -
+       11N_DISABLE=1 - - - - O - - -
+                 USB - - - - - - - S
+             WINDOWS - - - - - - - X
+                BITE - - - - - - - S
+                 ISO - - - - - - - S
+             MINIMAL - - - - - - - O
+                10.4 - - - - - - - X

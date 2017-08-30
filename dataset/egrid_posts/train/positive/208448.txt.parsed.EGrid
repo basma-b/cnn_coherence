@@ -1,0 +1,8 @@
+      UBUNTU-DESKTOP O - -
+        DIST-UPGRADE S - O
+                EACH O - -
+             COMMAND X - -
+             PACKAGE - - O
+          DEPENDENCY - - X
+              ERRORS - - O
+      UBUNTU0DESKTOP - - O

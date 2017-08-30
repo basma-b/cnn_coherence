@@ -1,0 +1,17 @@
+   /DEV/INPUT/MOUSE1 X - X - - - - - - - - - -
+   /DEV/INPUT/MOUSE0 - - - S - - - - - - - - -
+              MOUSE0 - - - O - - - - - - - - -
+              MOUSE1 - - - X - O - - X - - - -
+                  1. - - - - S - - - - - - - -
+                MICE - - - - - S - - - - - - -
+  /ETC/X11/XORG.CONF - - - - - O - - - - - - -
+               MOUSE - - - - - - - S - - S - -
+             SECTION - - - - - - - X - - X O -
+               INPUT - - - - - - - X - - X X -
+              DEVICE - - - - - - - X - - X X -
+               EVENT - - - - - - - - O - - - -
+               LABEL - - - - - - - - O - - - -
+          UNDERSTAND - - - - - - - - - X - - -
+             MONITOR - - - - - - - - - - - X -
+              SCREEN - - - - - - - - - - - X -
+                HELP - - - - - - - - - - - - X

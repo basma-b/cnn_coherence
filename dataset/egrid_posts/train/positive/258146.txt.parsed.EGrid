@@ -1,0 +1,10 @@
+               FSTAB X - - -
+               SHARE O - - -
+                 LAN X - - -
+                SUDO X - - -
+                  -A O - - -
+              REBOOT X - - -
+                HINT X - - -
+              OPTION - O - -
+          /ETC/FSTAB - X - -
+                LOOK - - - O

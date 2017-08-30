@@ -1,0 +1,12 @@
+            INTEREST S - - - -
+                HELP X - - - -
+             PACKAGE - X - - -
+           MATERIALS - X - - -
+           BLACKLIST - - - S -
+                LOAD - - - X -
+                BOOT - - - X -
+               RMMOD - - - S -
+              MODULE - - - O X
+              KERNEL - - - X X
+               POINT - - - - O
+              DELETE - - - - X

@@ -1,0 +1,16 @@
+                BOOT X - - - - - - - -
+                 KDE S - - - - - - - -
+                AUTO X - - - - - - - -
+               START O - - - - - - - -
+              SCREEN O - - - - - - - -
+                TYPE - X - - X - - - -
+              STARTX - X - - - - - - -
+                FILE - - - X - - - - -
+/ETC/X11/DEFAULT-DISPLAY-MANAGER - - - - X - - - -
+            TERMINAL - - - - X - - X -
+                 CAT - - - - X - - - -
+        /USR/BIN/KDM - - - - - S - - -
+         RECONFIGURE - - - - - - X - -
+             XSERVER - - - - - - O - -
+        XSERVER-XORG - - - - - - - X -
+  /ETC/X11/XORG.CONF - - - - - - - - X

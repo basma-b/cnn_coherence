@@ -1,0 +1,12 @@
+           SOMETHING X - -
+            TERMINAL X - -
+                  RM - S -
+/ETC/DHCP3/DHCLIENT.CONF - S -
+             PREPEND - X -
+                   < - O -
+                  IP - X -
+                   > - X -
+ DOMAIN-NAME-SERVERS - O -
+             HEADERS - - O
+               ORDER - - S
+             OPENVPN - - O

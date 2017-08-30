@@ -1,0 +1,23 @@
+           DUPLICATE X - - -
+                FILE X - - X
+/ETC/APT/SOURCES.LIST - O - -
+                LINE - X - -
+                HTTP - O - -
+                 ONE - O - -
+                 DEB - X - -
+       HARDY-UPDATES - X - -
+          MULTIVERSE - X - -
+             PACKAGE - - S -
+              SOURCE - - O -
+                GZIP - - X -
+             SUPPORT - - S -
+         COMPRESSION - - X -
+            COMPRESS - - - S
+          FILESYSTEM - - - X
+               PHOTO - - - X
+                 DOC - - - X
+           TEMPLATES - - - O
+           .SQUASHFS - - - X
+                LOOP - - - X
+              DEVICE - - - X
+                 WAY - - - S

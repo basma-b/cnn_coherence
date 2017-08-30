@@ -1,0 +1,27 @@
+                   A S - - - - - - - - - -
+               STICK O - - - - - - - - - -
+          FILESYSTEM S - - - - - - - - - -
+                  .. X - - - - - - - - - -
+             PROBLEM X - - - - - - - - - -
+               ERROR X - - - - - - - - - -
+         DESCRIPTION X - - - - - - - - - -
+                MKFS X - - O - - - - - - -
+            /DEV/SDA S - - X - - - - - - -
+                FILE X - - - - - - - - - -
+              SYSTEM O - - - - - - - - - -
+                THAT - X - - - - S - - - S
+/PATH/TO/MOUNT/POINT - O - - - - - - - - -
+              GKSUDO - O - - - - - - - - -
+              OPTION - - - X - - - - - - -
+                  FS - - - O - - - - - - -
+               MSDOS - - - X - - - - - - -
+                SAME - - - - X - - - - - -
+                 GUI - - - - X X - - - - -
+                TOOL - - - - - O - - - - -
+           /DEV/SDA1 - - - - - - S - - - -
+          MKFS.MSDOS - - - - - - X - - - -
+                KIND - - - - - - - X - - -
+                THIS - - - - - - - S - - -
+              LIVECD - - - - - - - - X - -
+                SITE - - - - - - - - - X -
+            ANYTHING - - - - - - - - - - O

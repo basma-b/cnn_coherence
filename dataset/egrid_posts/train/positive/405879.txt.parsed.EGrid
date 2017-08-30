@@ -1,0 +1,7 @@
+             COMMAND X -
+              STRING X -
+                TEXT X -
+                FILE X O
+                GREP X X
+                  -I X -
+                 CAT - X

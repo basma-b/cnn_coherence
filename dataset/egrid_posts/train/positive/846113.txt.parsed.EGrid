@@ -1,0 +1,15 @@
+                COPY - X - -
+            SMB.CONF - O - -
+                DATA - X - -
+              FOLDER - O - -
+             NETWORK - X - -
+                   F - S - -
+               CHECK - X - -
+       AUTENTICATION - X - -
+            SETTINGS - O - -
+                FILE - X - -
+         PERMISSIONS - S - -
+               SHARE - X - -
+          CREAT_MASK - O - -
+                 REF - X - -
+                LINK - - O -

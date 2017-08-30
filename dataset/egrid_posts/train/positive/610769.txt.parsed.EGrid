@@ -1,0 +1,18 @@
+          SUBVERSION O - - - - -
+              SERVER X - - - - -
+               GROUP X X - - - -
+                CALL X - - - - -
+                 SVN X X - - - -
+                .SVN O - - - - -
+        /VAR/LIB/SVN X - - - - -
+                USER - S - - - -
+        REPOSITORIES - O - - - -
+               HTTPS - - - X - -
+//HELP.UBUNTU.COM/9.04/SERVERGUIDE/C/SUBVERSION.HTML - - - S - -
+              DOESNT - - - S - -
+               SETUP - - - X - -
+         PERMISSIONS - - - X S -
+           DIRECTORY - - - X - -
+             COMMAND - - - O - -
+            SVNADMIN - - - - S -
+/PATH/TO/REPOS/PROJECT - - - - O X

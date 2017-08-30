@@ -1,0 +1,16 @@
+                   M S - - -
+            WIRELESS X - - -
+             NETWORK X - - -
+                HTTP O - X -
+              KERNEL X - - -
+            MODPROBE S - - -
+                BOOT S - X -
+         ALTERATIONS - O - -
+      ENABLING_ATH9K - - S -
+                   D - - X -
+       CONFIGURATION - - X -
+                FILE - - X -
+             PROGRAM - - X -
+             OPTIONS - - O -
+             KERNELS - - X -
+                   U - - - X

@@ -1,0 +1,17 @@
+            TERMINAL X - - -
+                SUDO X S - -
+                /MNT X - - -
+              /MEDIA X - - -
+                USER X - - -
+                TYPE - S - -
+              OPTION - S - -
+          SUPERBLOCK - S - -
+           /DEV/SDB1 - X - -
+               DMESG - X - -
+                 VFS - X - -
+          FILESYSTEM - O - -
+                SDB1 - X - -
+             ALIASES - - - O
+             C=CLEAR - - - X
+       .BASH_PROFILE - - - X
+               THESE - - - O

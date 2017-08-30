@@ -1,0 +1,9 @@
+              DAEMON O - - -
+              SYSTEM X - - -
+             STARTUP X - - -
+         UPDATE-RC.D - S - X
+   /ETC/INIT.D/TESTD - O - -
+  STOP/START/RESTART - O - -
+               TESTD - - - X
+             DEFAULT - - - X
+                 MAN - - - X

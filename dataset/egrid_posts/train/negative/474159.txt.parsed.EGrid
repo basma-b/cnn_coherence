@@ -1,0 +1,13 @@
+           SOMETHING O - - -
+        SOURCES.LIST X - - -
+         DAEMONTOOLS O - S -
+              ANYONE X - - -
+                TOOL - X O -
+                   A - - X -
+                 USE - - X -
+               MOUNT - - X -
+             SERVICE - - X -
+                HTTP - - X -
+                   ^ - - X -
+               CHECK - - - X
+   /VAR/LOG/BOOT.LOG - - - X

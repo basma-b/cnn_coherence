@@ -1,0 +1,20 @@
+                THAT - X - - - - -
+                 SSH - S - - - - -
+                ROOT - X - - - - X
+              DAEMON - O - - - - -
+         PERMISSIONS - X - - - - -
+              LOGINS - S X - - - -
+                  .. - O - - - - -
+                 USE - - X - - - -
+                 KEY - - O - - - O
+                  ID - - S - - - -
+         SSHD_CONFIG - - O - - - -
+                TYPE - - O - - - -
+                 MAN - - X - - - -
+              SEARCH - - O - - - -
+     PERMITROOTLOGIN - - X - - - -
+                THIS - - - X - - S
+                HTTP - - - - X - -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - - - X - -
+               RSYNC - - - - - - O
+             ACCOUNT - - - - - - X

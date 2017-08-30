@@ -1,0 +1,8 @@
+   PAM_GNOME_KEYRING S S S - - -
+           NM-APPLET S S S - - -
+                  .. O O O - - -
+              ANYONE S S S - - -
+         SUGGESTIONS O O O - - -
+                AUTO - - - X - -
+               LOGIN - - - X - -
+                  NO - - - - - X

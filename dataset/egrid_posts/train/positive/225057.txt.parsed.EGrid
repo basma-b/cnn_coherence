@@ -1,0 +1,6 @@
+               PROXY X X -
+                HTTP - X -
+             ACQUIRE - X -
+       //PROXY:8080/ - X -
+   /ETC/APT/APT.CONF - X -
+              DOESNT - - S

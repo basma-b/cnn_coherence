@@ -1,0 +1,16 @@
+                THAT S - - - - - - -
+              ANYONE S - - - - - - -
+             COMMAND O - - - - - - -
+              CONFIG O - - - - - - -
+    DPKG-RECONFIGURE - S - - - - - -
+               PURGE - S - - - - - -
+             PACKAGE - O - - - - - -
+                   > - X - - - - - -
+                 RUN - - S - - - - -
+             UTILITY - - X - - - - -
+             DEBCONF - - X - - - - -
+            ANYTHING - - O - - - - -
+             APT-GET - - - - O - - -
+                  .. - - - - O - - -
+                OOPS - - - - - X - -
+                 FAN - - - - - - - O

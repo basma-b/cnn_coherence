@@ -1,0 +1,23 @@
+          DHCPCLIENT S - -
+          BACKGROUND X - -
+                BOOT X X -
+                 SEC - O -
+         CONFIGURING - X -
+             NETWORK - X -
+          INTERFACES - X -
+               THERE - S -
+             NOTHING - O -
+                PLUG - O -
+                AUTO - X -
+                LINE - O -
+/ETC/NETWORK/INTERFACES - X -
+             IFPLUGD - X -
+     NETWORK-MANAGER - O -
+              DRIVER - X -
+             SUPPORT - O -
+                 HOP - O -
+           SOMETHING - X -
+                /SYS - X -
+           INTERFACE - X -
+                  .. - X -
+                  HM - X -

@@ -1,0 +1,24 @@
+                PATH X X - -
+               BLOCK X - - -
+              DEVICE X S - -
+                FILE X - - -
+               FLASH - X - -
+               DRIVE - O - -
+                TYPE - X - -
+            SERIALNR - X - -
+              VENDOR - X - -
+           SOMETHING - O - -
+/DEV/SCSI/HOST1/BUS0/TARGET0/LUN0 - X - -
+                  P3 - X - -
+               MOUNT - - O -
+             DEVICES - - S -
+                NAME - - X -
+           /DEV/SDXN - - O -
+                 X=A - - X -
+                   B - - X -
+                   C - - X -
+    /PROC/PARTITIONS - - X -
+             COMMAND - - X -
+             OPENWRT - - O -
+                THIS - - - S
+             SUPPORT - - - O

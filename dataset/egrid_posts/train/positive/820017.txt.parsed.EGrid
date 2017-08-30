@@ -1,0 +1,15 @@
+             SERVICE X X S - -
+              CONFIG O - S - -
+                 RUN - X - - -
+                SUDO - X - - -
+              POLIPO - S - - -
+                STOP - S - - -
+                TIME - - X - -
+                FILE - - O - -
+                LOAD - - X - -
+                 LOG - - O - -
+                 ALL - - X - -
+               PROXY - - X - -
+             ADDRESS - - O - -
+                MASK - - O - -
+            TOMORROW - - - - X

@@ -1,0 +1,9 @@
+            LOCATION - X - -
+               FDISK - X - -
+                   | - S - -
+                GRUB - X S -
+               FSTAB - O - -
+                 MBR - O - -
+                BOOT - X - -
+                ROOT - - S -
+             /MEDIA/ - - - X

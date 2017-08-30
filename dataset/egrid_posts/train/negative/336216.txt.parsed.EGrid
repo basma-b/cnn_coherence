@@ -1,0 +1,9 @@
+                BIND X - -
+                  IP O - -
+              DOMAIN X - -
+          /ETC/HOSTS - X -
+                 LOG - - O
+                BOOT - - X
+           SOMETHING - - O
+                  -I - - X
+      /VAR/LOG/DMESG - - X

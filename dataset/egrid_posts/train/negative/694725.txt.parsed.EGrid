@@ -1,0 +1,13 @@
+               FSTAB X S - - -
+               SHARE X - X - -
+             FOLDERS O - - - -
+               LINUX - S - - -
+                CASE - X - - -
+           PARTITION - X O - -
+                  .. - O - - -
+                 USE - - X - -
+                SUDO - - - S -
+                  ./ - - - O -
+               WHILE - - - X -
+              LITTLE - - - - S
+            FIRMWARE - - - - O

@@ -1,0 +1,14 @@
+                MOVE X - - - - - - -
+                ROOT X - - - - - X -
+           PARTITION X - X X - - X X
+                TASK X - - - - - - -
+               /BOOT - - X - - - - -
+                 ALL - - - X - - - -
+             ALRIGHT - - - X - - - -
+                GRUB - - - O - - X -
+              CHANGE - - - X - - - -
+               ENTRY - - - - - - O -
+               POINT - - - - - - X -
+              KERNEL - - - - - - - S
+ROOT=LABEL=SCSI-RAID - - - - - - - X
+               LABEL - - - - - - - X

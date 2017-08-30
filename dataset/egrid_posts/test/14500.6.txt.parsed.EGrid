@@ -1,0 +1,10 @@
+               WHILE O - - -
+             COMMAND X - - X
+              OUTPUT O - - -
+                 PTY - - S -
+      PSEUDOTERMINAL - - O -
+              SCREEN - - - X
+                  -L - - - S
+               -IXON - - - X
+              ISTRIP - - - O
+               BUNCH - - - O

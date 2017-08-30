@@ -1,0 +1,23 @@
+LD_PRELOAD=/USR/LIB/I386-LINUX-GNU/LIBV4L/V4L1COMPAT.SO X - - - - - - - - -
+                   * - S - - - - - - - -
+          LD_PRELOAD - O - - - - - - - -
+              WEBCAM - S S - - - X - - -
+                WORK - - O - O - - - - O
+              FAMILY - - S - - - - - - -
+                I386 - - X - - - - - - -
+              CHEESE - - X - X - - - - -
+           V4LCOMPAT - - - O - - - - - -
+           SOMETHING - - - X - - - - - -
+        APPLICATIONS - - - X - - - - - -
+               SKYPE - - - X X - - - - -
+            SHOULDNT - - - - X - - - - -
+         APPLICATION - - - - X - - - - -
+                  'S - - - - S - - - - -
+             WEBCAMS - - - - S - - - - -
+               SORRY - - - - - X - - - -
+                WHAT - - - - - O - - - -
+                  IE - - - - - - - S - -
+                 USB - - - - - - - O - -
+                CANT - - - - - - - - S -
+                  IM - - - - - - - - - S
+              BZFLAG - - - - - - - - - O

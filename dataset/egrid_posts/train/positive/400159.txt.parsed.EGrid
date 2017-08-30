@@ -1,0 +1,17 @@
+            QUESTION O -
+              SCRIPT O -
+                SUDO X -
+              IFDOWN X -
+               WLAN0 O -
+                IFUP X -
+             STARTUP X -
+              REASON X -
+            INTERNET S -
+                HTTP X -
+                LINK - O
+/HOME/USERNAME/.CONFIG/AUTOSTART - X
+                MENU - X
+                   > - X
+              SYSTEM - X
+               PREFS - X
+            SESSIONS - X

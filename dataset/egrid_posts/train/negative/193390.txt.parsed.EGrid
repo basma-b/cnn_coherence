@@ -1,0 +1,11 @@
+               RIGHT X - - - -
+           DENYHOSTS O - - - -
+                 LOG S - - - -
+/VAR/LOG/DENYHOSTS.LOG X - - S -
+                FILE O - - - -
+                NANO - - O - -
+                SUDO - - - X -
+               TOUCH - - - X -
+                MATE - - - O -
+                CANT - - - - S
+            ANYTHING - - - - X

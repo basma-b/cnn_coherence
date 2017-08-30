@@ -1,0 +1,35 @@
+                 XDG - - S - - - - - -
+            /ETC/XDG - - X - - - - - -
+                   X - - X - - - - - -
+             DESKTOP - - X - - - - - -
+               GROUP - - X - - - - - -
+                NAME - - O - - - - - -
+     FREEDESKTOP.ORG - - X - - - - - -
+           STANDARDS - - X - - - - - -
+              FOLDER - - - S X - - - -
+                 USE - - - O - - - - -
+                HTTP - - - X - - - - -
+//WWW.FREEDESKTOP.ORG/WIKI/SOFTWARE/XDG-USER-DIRS - - - X - - - - -
+               STUFF - - - S - - - - -
+//STANDARDS.FREEDESKTOP.ORG/AUTOSTART-SPEC/AUTOSTART-SPEC-0.5.HTML - - - X - - - - -
+                USER - - - - X - - - -
+              SYSTEM - - - - X - - - -
+                   > - - - - X - - - -
+         PREFERENCES - - - - O - - - -
+            SESSIONS - - - - S - - - -
+               HTTPS - - - - - - X - -
+//HELP.UBUNTU.COM/COMMUNITY/ENVIRONMENTVARIABLES - - - - - - X - -
+                   % - - - - - - S - -
+       20ENVIRONMENT - - - - - - X - -
+                 ALL - - - - - - O - -
+    /ETC/ENVIRONMENT - - - - - - - S -
+                LIST - - - - - - - O -
+         ENVIRONMENT - - - - - - - X -
+           VARIABLES - - - - - - - X -
+               VALUE - - - - - - - X -
+               USERS - - - - - - - X -
+            OVERRIDE - - - - - - - X -
+           ELSEWHERE - - - - - - - X -
+              SEARCH - - - - - - - - X
+                  ~I - - - - - - - - X
+                  -L - - - - - - - - X

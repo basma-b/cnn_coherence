@@ -1,0 +1,16 @@
+                ROOT - X X - -
+               DRIVE - O - - -
+                 HMM - - X - -
+                MINE - - S - -
+                 TOP - - X - -
+                 ONE - - S - -
+          FILESYSTEM - - S - -
+               FSTAB - - S - -
+              UBUNTU - - - O -
+                   / - - - X X
+               /SWAP - - - X -
+               /HOME - - - O S
+           PARTITION - - - X -
+                  .. - - - X X
+                DISK - - - - X
+             UTILITY - - - - X

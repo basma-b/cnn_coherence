@@ -1,0 +1,17 @@
+         ./CONFIGURE O - -
+               PEKWM X - -
+               ERROR S - -
+        XOPENDISPLAY O - O
+               -LX11 X - X
+                 X11 X - -
+                LIBS O - -
+     PKG_CONFIG_PATH O - -
+            /USR/X11 X - -
+               THATS X - -
+             LIBRARY X - -
+                FILE X - -
+               SHELL - X -
+         ENVIRONMENT - X -
+            VARIABLE - S -
+        /USR/X11/LIB - O -
+                 AHH - - O

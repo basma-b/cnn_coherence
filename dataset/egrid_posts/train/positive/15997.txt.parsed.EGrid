@@ -1,0 +1,16 @@
+               DRIVE X - -
+              UBUNTU O - -
+                NTFS - X -
+                LINE - O -
+          /ETC/FSTAB - O -
+        /MNT/WINDOWS - O -
+               USERS - X -
+                  RO - X -
+          UMASK=0222 - X -
+            NLS=UTF8 - X -
+           SOMETHING - X -
+              DEVICE - O -
+               MKDIR - X -
+                 ILL - X -
+                   = - O -
+                 ACE - O -

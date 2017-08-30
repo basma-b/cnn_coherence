@@ -1,0 +1,6 @@
+UBUNTU-RESTRICTED-EXTRAS S - -
+                NEED O - -
+             APT-GET S - -
+                FILE - - X
+/ETC/INIT/NETWORK-MANAGER.CONF - - O
+                DBUS - - X

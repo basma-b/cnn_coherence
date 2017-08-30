@@ -1,0 +1,15 @@
+              FORMAT X X - -
+                 USB X - - -
+                 HDD X - - -
+           /DEV/SDA1 X - - -
+               FAT32 - O - -
+             WINDOWS - X - -
+                CASE - X - -
+                DATA - O - -
+              FRIEND - X - -
+                SUDO - X - -
+           MKFS.VFAT - X - -
+              6.06.1 - - S -
+              INSTAL - - - O
+              KERNEL - - - X
+           SYNAPTICS - - - X

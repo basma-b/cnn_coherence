@@ -1,0 +1,15 @@
+                LIST X - - -
+                  IP X - - -
+             WEBSITE X - - -
+         SOURCE.LIST - X - -
+              CLIENT - X - -
+      192.168.1.1-10 - O - -
+                 USE - X - -
+                  .. - O - -
+           EXCEPTION - O - -
+                 GW2 - O - -
+             CLIENTS - - O -
+             GATEWAY - - O -
+           REINSTALL - - - X
+                WORK - - - O
+                BOTH - - - S

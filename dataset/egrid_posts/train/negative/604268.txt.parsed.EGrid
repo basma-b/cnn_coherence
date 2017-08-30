@@ -1,0 +1,14 @@
+         UPDATE-GRUB S - - - - - -
+             KERNELS O - - - - - -
+           PARTITION X X O - - - -
+             DISTROS - X - - - - -
+              UBUNTU - - S - - - -
+               FIRST - - S - - - -
+                BOTH - - O - O - -
+             CONTROL - - X - - - -
+                BOOT - - X - - - -
+              LOADER - - X - - - -
+              SCRIPT - - - X - S -
+            WHATEVER - - - - S - -
+                THAT - - - - - X -
+             FIREFOX - - - - - - X

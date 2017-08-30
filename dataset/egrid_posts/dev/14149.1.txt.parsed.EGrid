@@ -1,0 +1,14 @@
+             COMMAND X - - - - -
+         COMPRESSION X - - O - -
+                COPY S - - - - -
+             =BACKUP X - - - - -
+             CONTENT O - - - - -
+              FOLDER X - - - - -
+          SUBFOLDERS S - - - - -
+                FILE X - - X - -
+               DIFFS O - - - - -
+                 SCP - X - - - -
+                 ALL - - S - - -
+             CONTROL - - X - - -
+                DIRS - - - S - -
+              STRONG - - - - - S

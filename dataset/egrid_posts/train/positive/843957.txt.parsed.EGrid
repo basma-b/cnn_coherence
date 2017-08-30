@@ -1,0 +1,10 @@
+             ADDRESS O - -
+                NICK X - -
+                CARD X - -
+            IFCONFIG - S -
+             NETMASK - O -
+       255.255.255.0 - X -
+              STATIC - - O
+/ETC/NETWORK/INTERFACES - - X
+                  NM - - O
+                ETH0 - - S

@@ -1,0 +1,12 @@
+             COMMAND X - - - -
+             NETWORK X - - - -
+         INFORMATION O - - - -
+                 CLI X - - - -
+                  IP X O - - -
+             GATEWAY X O - - X
+              SUBNET X - - - -
+                 DNS O O - - -
+            IFCONFIG X X - - S
+               ARAND X - - - -
+              STRING - - X - -
+                 CUT - - X - -

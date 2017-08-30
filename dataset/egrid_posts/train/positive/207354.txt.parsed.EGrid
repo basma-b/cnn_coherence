@@ -1,0 +1,17 @@
+         APPLICATION S X - - - - -
+                TEXT O - - - - - -
+            TEXTFILE X - - - - - -
+                THAT - X - - - - -
+                   > - S - - - - -
+                 USE - X - - - - -
+              STDERR - X - - - - -
+              STDOUT - O - - - - -
+             APT-GET - S - - - - -
+           DOWNGRADE - S - - - - -
+              EDITOR - - - X - - X
+               VALUE - - - X - - -
+                SUDO - - - - - X -
+ UPDATE-ALTERNATIVES - - - - - O -
+                  » - - - - - X -
+                USER - - - - - - X
+         ENVIRONMENT - - - - - - S

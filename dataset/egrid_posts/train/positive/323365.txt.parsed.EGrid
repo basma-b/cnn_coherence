@@ -1,0 +1,17 @@
+                  HI X - - - - - - - - -
+          INTERFACES - O - - - O - - - -
+                  IP - - O - - - - - - -
+         192.168.0.X - - X - - - - - - -
+                THAT - - - X - - - - - O
+                ETH1 - - - X - - O - - -
+                 USE - - - O - - - - - -
+                ROUT - - - X - - - - - -
+              SUBNET - - - X - X X - - -
+                 ALL - - - - X - - - - -
+                 HEY - - - - X - - - - -
+                ETH0 - - - - - - X - - -
+             MACHINE - - - - - - X - - -
+             ENTRIES - - - - - - - X - -
+                FILE - - - - - - - X - -
+/ETC/NETWORK/INTERFACES - - - - - - - X - -
+          /ETC/IFTAB - - - - - - - X - -

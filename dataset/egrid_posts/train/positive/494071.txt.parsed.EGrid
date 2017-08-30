@@ -1,0 +1,9 @@
+/PROC/ACPI/VIDEO/LCD/BRIGHTNESS O - -
+                THAT - O -
+              SCRIPT - O -
+                SUDO - - X
+                BASH - - O
+                  -C - - S
+              NUMBER - - O
+/PROC/ACPI/VIDEO/LCD/BRIGHNESS - - X
+          BRIGHTNESS - - O

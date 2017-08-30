@@ -1,0 +1,8 @@
+           PROCESSES O -
+                 DS+ X -
+       /USR/BIN/DPKG S -
+/VAR/CACHE/APT/ARCHIVES/LIB S -
+                DPKG O -
+               THERE X -
+                 TOP - X
+                HEAD - X

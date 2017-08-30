@@ -1,0 +1,20 @@
+                 ATI - X - - - - - - - -
+                   | - S - - - - - - - -
+        FILES/CONFIG - O O O - - - - - -
+               SPACE - X X X - - - - X -
+          DEPENDENCY - - - - X - - - - -
+             PROGRAM - - - - X - - - - -
+          AUTOREMOVE - - - - - S - - - -
+             PACKAGE - - - - - O S - - -
+        DEPENDENCIES - - - - - - S - - -
+           SOMETHING - - - - - - X - - -
+                THAT - - - - - - - O - -
+             APT-GET - - - - - - - X - -
+               STUFF - - - - - - - S - -
+               LEAVE - - - - - - - S - -
+       CONFIGURATION - - - - - - - X - -
+               PURGE - - - - - - - X - -
+              OPTION - - - - - - - O - -
+               THOSE - - - - - - - - S -
+                HTTP - - - - - - - - - X
+//KERNEL.UBUNTU.COM/~KERNEL-PPA/MAINLINE/V3.1-RC4-ONEIRIC/ - - - - - - - - - X

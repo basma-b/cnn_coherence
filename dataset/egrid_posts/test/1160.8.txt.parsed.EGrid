@@ -1,0 +1,17 @@
+               DRIVE X - - - -
+                BOOT X - - - -
+                  OS S - - - -
+                THAT - X - - -
+              NOAUTO - S - - -
+                 NFS - - X - -
+                CIFS - - O - -
+                 ONE - - S - -
+                FLAG - - X - -
+          BACKGROUND - - X - -
+                 TIT - - O - -
+                BASH - - - - S
+             PROCESS - - - - X
+         ENVIRONMENT - - - - X
+           VARIABLES - - - - S
+  ~/.PAM_ENVIRONMENT - - - - X
+          ~/.PROFILE - - - - X

@@ -1,0 +1,16 @@
+            SOFTWARE - O - - - - - - - - - - -
+               ARRAY - X - - - - - - - - - - -
+               MDADM - X - - - - - - - - - - -
+          FILESYSTEM - - X - O O - - - - - - -
+              DEVICE - - X - - - X - - - - - -
+                THIS - - - O - - - - - - - - -
+            DM-CRYPT - - - X - - - - X - - - -
+                NAME - - - X - - - - - - - - -
+               THING - - - X - - - - S - - - -
+   FILES/DIRECTORIES - - - - - X - - - - - - -
+               LAYER - - - - - O - - - - - - -
+       DM-CRYPT/LUKS - - - - - - - S - - - - -
+              LATTER - - - - - - - O - - - - -
+            PEDANTRY - - - - - - - S - - - - -
+                LUKS - - - - - - - - O - - - -
+          CRYPTSETUP - - - - - - - - O - - - -

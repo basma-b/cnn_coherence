@@ -1,0 +1,6 @@
+LINUX-RESTRICTED-MODULES-386 X - -
+             PACKAGE - S -
+                SUDO - X -
+             APT-GET - X -
+        DIST-UPGRADE - O -
+                EXT3 - - X

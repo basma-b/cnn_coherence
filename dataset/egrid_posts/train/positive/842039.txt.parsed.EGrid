@@ -1,0 +1,22 @@
+            SOFTWARE X - - - - - - - - - - -
+                RAID X - - - - - - - - - - -
+               ARRAY X - X X - - - - - - - -
+                 USE X - - - - - - - - - - -
+               MDADM O - - - - - - - - - - -
+         PERMISSIONS X - X S - - X - - - - -
+                FILE - O - - - - - - - - - -
+                SUDO - O - - - - - - - - - -
+            TERMINAL - X - - - - - - - - - -
+             SOMEONE - - X - - - - - - - - -
+          DIRECTIONS - - X - - - - - - - - -
+                THAT - - - O X - - S - - S -
+          FILESYSTEM - - - X - - - - - - - -
+          MOUNTPOINT - - - X - - - - - - - -
+               LINUX - - - X - - - - - - - -
+                   | - - - - - - S - - - - -
+                USER - - - - - - O - - - - -
+/MEDIA/ARRAY_MOUNTPOINT - - - - - - X - - - - -
+               GRANT - - - - - - X - - - - -
+               OWNER - - - - - - O - - O - -
+               CHARM - - - - - - - - - - X -
+              THANKS - - - - - - - - - - - X

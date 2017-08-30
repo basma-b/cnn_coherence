@@ -1,0 +1,24 @@
+          PERSISTANT X - - - - -
+             INSTALL - O - - - -
+                FULL - S - - - -
+               MEDIA - X - - - -
+              UBUNTU - O - - - -
+               DRIVE - X O - - -
+                 4GB - - S - - -
+                  .. - - O - O -
+              CASPER - - X - - -
+           PARTITION - - X - - -
+                FILE - - O - X -
+              GOTCHA - - X - - -
+               FAT32 - - X - - -
+             DNSMASQ - - - - O -
+             NETWORK - - - - X -
+             MANAGER - - - - O -
+          NAMESERVER - - - - S -
+/ETC/NETWORK/INTERFACES - - - - X -
+           127.0.0.1 - - - - S X
+                   * - - - - X -
+              SERVER - - - - X -
+                LIST - - - - O -
+     DNS-NAMESERVERS - - - - - X
+       216.227.220.3 - - - - - S

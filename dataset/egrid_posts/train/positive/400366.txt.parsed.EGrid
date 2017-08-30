@@ -1,0 +1,14 @@
+               SETUP S - - - -
+              KERNEL X - - - -
+              SOURCE O - - - -
+                 SSH X - - - -
+                   $ - O - - -
+                SUDO - X - - -
+             APT-GET - S - - -
+                  -R - X X - -
+                PART - X - - -
+               UNAME - - X - -
+         SUSTITUTION - - X - -
+              OUTPUT - - X - -
+             COMMAND - - X - -
+               FSTAB - - - X -

@@ -1,0 +1,9 @@
+               MOUNT X X -
+              VOLUME X - -
+             OPTIONS - O -
+          /ETC/FSTAB - X -
+             STORAGE - O -
+                 BIN - - O
+                SUDO - - X
+               FDISK - - X
+                  -L - - X

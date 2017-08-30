@@ -1,0 +1,17 @@
+        INSTALLATION - X - - - - - -
+                   * - S - - - - - -
+              REBOOT - X - - - - - -
+          RESOLVCONF - - X - - - - -
+               AVAHI - - X S - - - -
+            SETTINGS - - - O - - - -
+                LINE - - - - - O - -
+/ETC/DHCP3/DHCLIENT.CONF - - - - - X - -
+ DOMAIN-NAME-SERVERS - - - - - X O -
+           127.0.0.1 - - - - - - X -
+           YESTERDAY - - - - - - X -
+                BIND - - - - - - X -
+                WORK - - - - - - - X
+             PROBLEM - - - - - - - S
+                 VPN - - - - - - - X
+              ACCESS - - - - - - - O
+           HOSTNAMES - - - - - - - X

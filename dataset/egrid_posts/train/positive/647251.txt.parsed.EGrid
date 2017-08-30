@@ -1,0 +1,23 @@
+            PROBLEMS O - - - - - - - - - - - -
+            SYMLINKS X - - - O - - - - - - - -
+             SOMEONE - X - - - - - - - - - - -
+             SYMLINK - - X - - - - - - - - - -
+                LINK - - X - - - - - - - - - -
+                DOSE - - X - - - - - - - - - -
+/ORIGINAL/PATH/OF/THE/FILE - - - S - - - - - - - - -
+              NEIL_D - - - - S - - - - - - - -
+       CONFIGURATION - - - - - X - - - - - - -
+              COURSE - - - - - X - - - - - - -
+              CONFIG - - - - - X - - - - - - -
+               FILLE - - - - - X - - - - - - -
+          HTTPD.CONF - - - - - - - X - X - - -
+             OPTIONS - - - - - - - - X - - - -
+      FOLLOWSYMLINKS - - - - - - - - X - - - -
+                HTTP - - - - - - - - X - - - -
+//WWW.MAXI-PEDIA.COM/FOLLOWSYMLINKS - - - - - - - - X - - - -
+   HTTPD.CONF.SAMPLE - - - - - - - - - O - - -
+              GKSUDO - - - - - - - - - - X - -
+               GEDIT - - - - - - - - - - X - -
+/ETC/APACHE2/SITES-ENABLED/000-DEFAULT - - - - - - - - - - S - -
+               ENTRY - - - - - - - - - - O - -
+                   K - - - - - - - - - - - - X

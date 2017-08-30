@@ -1,0 +1,14 @@
+                LINE X - - -
+             SUDOERS X - X -
+                SUDO X - - -
+             SERVICE O - - -
+                TYPE X - - -
+            PASSWORD X - - -
+               USERB - X - -
+                ALL= - X - -
+                 ALL - X - -
+            NOPASSWD - X - -
+                 MAN - - X -
+             STARTUP - - - X
+                WINE - - - X
+             ATLEAST - - - X

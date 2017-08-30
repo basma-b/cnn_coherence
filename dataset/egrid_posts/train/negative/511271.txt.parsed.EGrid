@@ -1,0 +1,13 @@
+                ANY1 X - - - - - -
+           DIRECTORY X - - X - - -
+       CONFIGURATION X - - X - - -
+                FILE O - - X - - -
+              SCREEN - - - X - - -
+            GRAPHICS - - - S - - -
+             SCREENS - - - X - - -
+  /ETC/X11/XORG.CONF - - - - S - -
+                MANY - - - - O - -
+               PLACE - - - - X - -
+            /USR/BIN - - - - X - -
+                 ONE - - - - X - -
+             FACTOID - - - - - - O

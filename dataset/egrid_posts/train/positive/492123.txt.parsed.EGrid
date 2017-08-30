@@ -1,0 +1,16 @@
+                 GUY S - - - - -
+          FREERADIUS O - - - - -
+              SOURCE X - - - - -
+         RLM-EAP-TLS O - - - - -
+                 EAP X - - - - -
+             PROBLEM - X - - - -
+             RLM_EAP - - - X - -
+        EAP-TYPE/TLS - - - O - -
+      RLM_EAP_TLS.SO - - - X - -
+               SHARE - - - X - -
+              OBJECT - - - X - -
+                FILE - - - O - -
+           DIRECTORY - - - X - -
+             PACKAGE - - - O - -
+             PROGRAM - - - - X -
+             CHANNEL - - - - X -

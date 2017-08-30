@@ -1,0 +1,17 @@
+              SCRIPT S - - - -
+              REASON X - - - -
+               STATE X - - - -
+              THINGS O - - - -
+              OUTPUT O - - O -
+                SUDO X - - X -
+                DPKG X - - - -
+                  -A X - - - -
+               THERE - S - - -
+            ANYTHING - O - - -
+             APT-GET - - - X -
+                   < - - - X -
+             PACKAGE - - - S -
+                   > - - - O -
+                INFO - - - - X
+              POSTRM - - - - O
+              RESORT - - - - X

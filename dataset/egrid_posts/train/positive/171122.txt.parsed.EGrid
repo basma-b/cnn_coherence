@@ -1,0 +1,12 @@
+              FORMAT X X - - -
+               DRIVE X - - - -
+                DISK - X - - -
+             MANAGER - X - - -
+             GPARTED - O - - -
+              OPTION - S - - -
+                GREY - X - - -
+    DEVICE/PARTITION - - X - -
+           MKFS.VFAT - - O - -
+            LOCATION - - - X X
+             COMMAND - - - X X
+           /DEV/SDA1 - - - X X

@@ -1,0 +1,8 @@
+                  MD X - - - - - - - -
+       DRIVER/MODULE X - - - - - - - -
+                 RUN X - - - - - - - -
+                BOOT X - - - - - - - -
+                WORK - - X - - - - - -
+        /ETC/MODULES - - - X - - - - -
+              KERNEL - - - X O - - - -
+        /LIB/MODULES - - - - - O - - -

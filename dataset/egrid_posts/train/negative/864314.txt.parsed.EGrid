@@ -1,0 +1,17 @@
+              ANYONE S - - -
+               MIXER O - - -
+               UNITY X - - -
+               PULSE - X - -
+               AUDIO - X - -
+             COMMAND - O - -
+           ALSAMIXER - X - -
+               SOUND - - O -
+                  .. - - S -
+                 HOP - - O -
+                 GUI - - X -
+GSTREAMER-PROPERTIES - - S -
+                CARD - - O -
+                TEST - - X -
+                CANT - - S -
+                  PM - - - O
+              OUTPUT - - - X

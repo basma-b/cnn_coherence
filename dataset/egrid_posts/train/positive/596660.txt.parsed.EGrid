@@ -1,0 +1,13 @@
+                  -A X - - - -
+                9.04 X - - - -
+            2.6.28-3 - X - - -
+              UBUNTU - - S - -
+           PARTITION - - O - -
+           2.6.28-13 - - X - -
+          /ETC/FSTAB - - X - -
+                HTTP - - - - X
+              REASON - - - - X
+                 JFS - - - - O
+               FRESH - - - - S
+                EXT3 - - - - X
+               ISSUE - - - - S

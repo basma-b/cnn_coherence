@@ -1,0 +1,17 @@
+          PERMISSION O - -
+              FOLDER X - -
+                SUDO X S -
+               CHMOD X - -
+          FILESYSTEM O - -
+           PARTITION S X -
+             REMOUNT - O -
+               MOUNT - S -
+                FILE - S -
+      /YOUR/PATITION - X -
+         /MOUNTPOINT - O -
+               ERROR - O -
+                PAGE - - O
+         LIBSSL0.9.6 - - X
+                  PC - - S
+               YAHOO - - X
+           MESSENGER - - S

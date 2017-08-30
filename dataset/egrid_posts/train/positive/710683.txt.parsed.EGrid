@@ -1,0 +1,9 @@
+          FILES/DIRS S - - - -
+          EXECUTABLE X - - - -
+              BOTHER O - - - -
+          FILESYSTEM - X - - -
+         INSTALL/RUN - X - - -
+         NTFS-CONFIG - O - - -
+               FSTAB - - X - -
+             OPTIONS - - X S X
+                DOCS - - - - O

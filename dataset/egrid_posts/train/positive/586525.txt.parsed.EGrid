@@ -1,0 +1,13 @@
+             PROGRAM X - - - -
+                ETH1 O - - - -
+                ETH0 O - - X -
+              CONFIG - X - - -
+             DEFAULT - X - - -
+           INTERFACE - X - - -
+             SYNERGY - - - O -
+             MACHINE - - - X -
+              SERVER - - - X -
+                  IP - - - O -
+             STARTUP - - - - X
+                 CMD - - - - S
+       192.168.1.100 - - - - O

@@ -1,0 +1,25 @@
+                ROOT X X - -
+              PASSWD X - - -
+                SAME X - - -
+                USER X - - -
+              UBUNTU X - - -
+            PASSWORD - S - -
+             ACCOUNT - S - -
+                 LOG - X - -
+                 YIP - - X -
+             PACKAGE - - - X
+                LOOK - - - O
+             LIBCURL - - - X
+        DEPENDENCIES - - - X
+           SOMETHING - - - O
+                ZLIB - - - X
+              LIBSSL - - - X
+                 ONE - - - S
+           APT-CACHE - - - X
+              SEARCH - - - X
+ PACKAGES.UBUNTU.COM - - - X
+             COMMAND - - - X
+                LINE - - - X
+                HTTP - - - O
+//PACKAGES.UBUNTU.COM - - - S
+              THINGS - - - O

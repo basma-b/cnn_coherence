@@ -1,0 +1,27 @@
+             PROBLEM O - - - - -
+             OPENVPN O - - - - -
+          INTERFACES O - - - - -
+                 ONE X - - X - -
+                 LAN X - - - - -
+               OTHER X - - - - -
+            INTERNET X - - X - -
+               THING X - - - - -
+                WORK X - - - - -
+                HTTP - X - - - -
+//DPASTE.COM/746067/ - S - - - -
+             DEFAULT - X - - - -
+               ROUTE - S - - - -
+                SUDO - X - - - -
+                 DEV - X - - - -
+                PPPX - O - - - -
+                   X - X - - - -
+           INTERFACE - X S - - -
+                  .. - X - - - -
+                 PPP - - O - - -
+                   * - - O - - -
+                 DOH - - X - - -
+                 USE - - O - - -
+                 VPN - - O - - -
+         NAMESERVERS - - - X - -
+               STUFF - - - X - -
+                 YUP - - - - - X

@@ -1,0 +1,12 @@
+          INITRD.IMG O - - - - - -
+                   < X - - - - - -
+                   > X - - - - - -
+                 RAM X - - - - - -
+                DISK X - - - - - -
+             SUPPORT O - - - - - -
+              KERNEL X - O - X - -
+             OPTIONS - X - - - - -
+            MKINITRD - O - - - - -
+                 ONE - O S - - - -
+                 AGE - - X - - - -
+               /JOIN - - - - - - S

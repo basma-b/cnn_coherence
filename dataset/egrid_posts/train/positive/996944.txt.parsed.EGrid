@@ -1,0 +1,11 @@
+              FORMAT X - -
+                DISK X - -
+           MKFS.VFAT - X -
+           /DEV/SDA1 - S -
+              SECOND - O -
+              DOESNT - S -
+                   ^ - X -
+                   K - O -
+               FLASH - - X
+         ALTERNATIVE - - O
+                 IMO - - X

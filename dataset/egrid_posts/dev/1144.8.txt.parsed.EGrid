@@ -1,0 +1,10 @@
+            MODPROBE O X -
+              MODULE S O -
+                LOAD O - -
+               ISSUE O - -
+               SOUND X - -
+                SUDO - X -
+       SND-HDA-INTEL - X -
+               RMMOD - X -
+              UBUNTU - - S
+           PARTITION - - X

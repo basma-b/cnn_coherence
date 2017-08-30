@@ -1,0 +1,16 @@
+           ENV=PT_BT X - - - - -
+               USERS X - X - - -
+                BOOT X - - - - -
+        /ETC/PROFILE - S - - - -
+                 WAY - O - - - -
+        ENV=WHATEVER - - O - - -
+             STARTUP - - X - - -
+              SCRIPT - - X - - -
+                 ALL - - - S - -
+          LANG=PT_BR - - - O - -
+               SHELL - - - O - -
+            LOCATION - - - - - O
+                 VAR - - - - - O
+               THERE - - - - - S
+             DEFAULT - - - - - X
+                LANG - - - - - X

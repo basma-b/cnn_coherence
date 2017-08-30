@@ -1,0 +1,16 @@
+             SERVICE X S - - - -
+                PORT X S O - O O
+            LIGHTTPD - O S - - -
+                 USE - X - X X -
+                  -I - - S - - X
+/ETC/LIGHTTPD/LIGHTTPD.CONF - - - S - -
+               ERROR - - - O - -
+                TIME - - - - O -
+               START - - - - O -
+              OUTPUT - - - - O -
+                HTTP - - - - X -
+               -RSB- - - - - O -
+                LOOK - - - - - O
+                PART - - - - - X
+                 WWW - - - - - S
+          LIGHTHTTPD - - - - - O

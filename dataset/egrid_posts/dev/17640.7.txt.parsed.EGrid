@@ -1,0 +1,15 @@
+         UPDATE-RC.D X - - - -
+                   < X - - - -
+             SERVICE X - - - -
+                   > X - - - -
+               -LSB- S - - - -
+             UPSTART - X - - -
+               .CONF - - X - -
+                FILE - - O - -
+           /ETC/INIT - - X - -
+                 WAY - - X - -
+                PART - - O - -
+            SENTENCE - - X - -
+             EXAMPLE - - - X -
+                SUDO - - - X -
+                  MV - - - S -

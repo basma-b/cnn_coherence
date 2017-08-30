@@ -1,0 +1,7 @@
+                TIME S -
+                COPY O -
+               RSYNC S -
+             OPTIONS - O
+             TUNE=50 - X
+/ETC/MODPROBE.D/OPTIONS - X
+                WORK - O

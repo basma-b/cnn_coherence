@@ -1,0 +1,8 @@
+           UMASK=000 S - - - -
+                 ETC O - - - -
+                VFAT O - - - -
+                YUPP - S - - -
+             NOTHING - - - X -
+                WIKI - - - - X
+               THING - - - - O
+//WWW.UBUNTULINUX.ORG/WIKI/AUTOMATICALLYMOUNTMSWINDOWSPARTITIONS - - - - X

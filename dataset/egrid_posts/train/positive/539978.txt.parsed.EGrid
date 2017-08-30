@@ -1,0 +1,13 @@
+            FAMILIER O - - - - -
+               ISCSI X X - - - -
+              SERVER - X - - - -
+           INITIATOR - X - - - -
+              THANKS - O - - - -
+               ERROR - - S - - -
+                HELP - - X - - -
+            ISCSIADM - - O X - -
+/ETC/ISCSI/SEND_TARGETS/192.168.1.3,3260 - - S S - -
+                  IP - - - O - -
+           OPENFILER - - - - - O
+          VIRTUALBOX - - - - - X
+                HOST - - - - - X

@@ -1,0 +1,8 @@
+            HOSTNAME S - - - -
+              CHANGE O - - - -
+                WORK - X - - -
+                 LOG - - X - -
+              REBOOT - - - - S
+          /ETC/HOSTS - - - - O
+       /ETC/HOSTNAME - - - - X
+           SOMETHING - - - - O

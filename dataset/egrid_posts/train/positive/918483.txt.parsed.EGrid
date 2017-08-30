@@ -1,0 +1,26 @@
+              ANYONE X - - - - - - S
+         SUGGESTIONS X - - - - - - -
+               DRIVE - S - - - - - -
+               SAMBA - S - - - - - -
+              ACCESS - O - - - - - -
+OWNERSHIP/PERMISSIONS - - X - - - - -
+         /MEDIA/SDA1 - - X - - - - -
+                THIS - - - X - - - -
+           /DEV/SDA1 - - - X - - - -
+                TYPE - - - X - - - -
+                VFAT - - - X - - - -
+                  RW - - - X - - - -
+              NOEXEC - - - X - - - -
+              NOSUID - - - X - - - -
+               NODEV - - - X - - - -
+                SYNC - - - X - - - -
+                PART - - - O - - - -
+              THREAD - - - - X - - -
+             PROBLEM - - - - O - - -
+           EXECUTION - - - - - O - -
+               USERS - - - - - X - -
+              FOLDER - - - - - X - -
+              FORMAT - - - - - - X -
+                DISK - - - - - - X X
+             DEFAULT - - - - - - - S
+             TO/FROM - - - - - - - O

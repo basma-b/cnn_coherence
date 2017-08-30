@@ -1,0 +1,16 @@
+                SFTP X X X - -
+              SERVER X - - O -
+                 SSH - S - - -
+              PACKET - O - - -
+          CONNECTION - X - - -
+               RESET - S - - -
+                PEER - X - - -
+                 FTP - X - - -
+                   | - - S - -
+                 BOX - - - X -
+     RECOMMENDATIONS - - - X -
+                  IM - - - - S
+                DISK - - - - X
+               SPACE - - - - O
+               THERE - - - - S
+                OPEN - - - - O

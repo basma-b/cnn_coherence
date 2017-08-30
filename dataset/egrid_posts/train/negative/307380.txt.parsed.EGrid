@@ -1,0 +1,13 @@
+              UBUNTU X - X - -
+               ISCSI X - X - -
+              KERNEL - S X - -
+              CONFIG - - O - -
+             PACKAGE - - X - -
+                KIND - - X - -
+           UTILITIES - - S - -
+             VERSION - - - - X
+                 ONE - - - - X
+LINUX-IMAGE-2.6.24-11-GENERIC_2.6.24-11.17_I386.DEB - - - - O
+               MATCH - - - - X
+LINUX-UBUNTU-MODULES - - - - O
+                 1=6 - - - - O

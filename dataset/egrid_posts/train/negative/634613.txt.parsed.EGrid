@@ -1,0 +1,13 @@
+                 .LA X - X - -
+           SDL_IMAGE - X X - -
+             SDL_NET - O O - -
+                ROOT - X - - -
+               PRIVS - O - - -
+                FILE - - O X -
+              SOURCE - - X - -
+                 .SO - - X - -
+                  LA - - - S -
+              FORMAT - - - O -
+             MOGRIFY - - - - X
+         IMAGEMAGICK - - - - X
+             PACKAGE - - - - X

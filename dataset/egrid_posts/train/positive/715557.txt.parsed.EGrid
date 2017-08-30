@@ -1,0 +1,11 @@
+/ETC/APT/SOURCES.LIST - - O -
+                 DEB - - X -
+                LINE - - O -
+             VERSION - - X -
+                SUDO - - X -
+             APT-GET - - S -
+             UPGRADE - - S -
+        BLOCKCONTROL - - X -
+           MOBLOQUER - - O -
+                USER - - - O
+                CODE - - - X

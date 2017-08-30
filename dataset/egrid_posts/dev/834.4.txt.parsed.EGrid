@@ -1,0 +1,12 @@
+            SOLUTION S - - - - -
+               STICK - X - - - -
+                NMAP - - - X - -
+              TELNET - - - S - -
+                PORT - - - X - X
+             MACHINE - - - - X -
+             VERBOSE - - - - - X
+                 LOG - - - - - O
+/ETC/SSH/SSHD_CONFIG - - - - - X
+             SERVICE - - - - - O
+                TAIL - - - - - X
+   /VAR/LOG/AUTH.LOG - - - - - X

@@ -1,0 +1,20 @@
+              ANYONE X - - - -
+            PROBLEMS X - - - -
+              KERNEL X - - - -
+             MODULES X - - - -
+               GUEST X - - - -
+/LIB/MODULES/2.6.32-5-XEN-AMD64 - X - - -
+/LIB/MODULES/3.2.0-32-GENERIC - X - - -
+                 LTS - X - - -
+                  .. - - - O -
+             HOMEDIR - - - O X
+               USERS - - - X -
+               DRIVE - - - X -
+                USER - - - - X
+             ACCOUNT - - - - O
+                 LOG - - - - X
+             MACHINE - - - - X
+                 SSD - - - - X
+             SESSION - - - - X
+            TERMINAL - - - - X
+         CREDENTIALS - - - - O

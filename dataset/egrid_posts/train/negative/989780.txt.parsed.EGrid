@@ -1,0 +1,25 @@
+              INITRD O X O O O - - - - - - - - -
+              KERNEL X X - - - - - - - - - - - -
+                 RUN - X - - - - - - - - - - - -
+              MATTER - - - X - - - - - - - - - -
+             MODULES - - - - X - - - - - - - - -
+          FILESYSTEM - - - - O - - - - - - - - -
+                EXT3 - - - - X - - - - - - - - -
+            REISERFS - - - - X - - - - - - - - -
+                  FS - - - - S - - - - - - - - -
+             SUPPORT - - - - - O O - - - - - - -
+                LINE - - - - - - O - - - - - - -
+           GRUB.CONF - - - - - - X - - - - - - -
+            SYNAPTIC - - - - - - - X - - - - - -
+             PACKAGE - - - - - - - X O - - - - -
+             MANAGER - - - - - - - S - - - - - -
+                CALL - - - - - - - X - - - - - -
+UBUNTU-RESTRICTED-EXTRAS - - - - - - - O - - - - - -
+               CLICK - - - - - - - - X X X - - -
+                TYPE - - - - - - - - O - - - - -
+                  .. - - - - - - - - X - - - - -
+             WARNING - - - - - - - - - - - X - -
+            DOWNLOAD - - - - - - - - - - - O - -
+                70MB - - - - - - - - - - - X - -
+            TERMINAL - - - - - - - - - - - O - -
+              ENOUGH - - - - - - - - - - - - X -

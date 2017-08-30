@@ -1,0 +1,13 @@
+               DMESG S - - -
+              KERNEL X - - -
+             MESSAGE X O - -
+              BUFFER O - - -
+            ANYTHING - S - -
+                BIOS - X - -
+                BOOT - X - -
+                 LOG - X - -
+                FILE - X - -
+              GLOBAL - - - X
+               MENUS - - - S
+            LAUNCHER - - - S
+            MAC-LIKE - - - O

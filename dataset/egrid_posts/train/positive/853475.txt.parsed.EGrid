@@ -1,0 +1,23 @@
+               QUEST X - - - -
+             NETWORK - X - - -
+                  IM - S - - -
+             TROUBLE - O - - -
+            IFCONFIG - X - - -
+                ETH0 - S - - -
+             GATEWAY - S - - -
+               SETUP - O - - -
+                 USE - X - - -
+               ROUTE - X - - -
+             DEFAULT - X - - -
+                  GW - X - - -
+          GATEWAY_IP - S - - -
+                 DNS - S - - -
+              SERVER - O O - -
+                FINE - - O - -
+              STATIC - - X - -
+                THIS - - - - S
+           NM-APPLET - - - - X
+                 WAY - - - - S
+/ETC/NETWORK/INTERFACES - - - - X
+               CLICK - - - - X
+         CONNECTIONS - - - - O

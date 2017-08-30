@@ -1,0 +1,17 @@
+             TROUBLE O - - -
+             BLENDER O - X -
+        REPOSITORIES X - - -
+                COPY O - - -
+                PACK O - - -
+              UBUNTU X - - -
+             COMMAND - X - -
+BLENDER_2.41-1UBUNTU4_I386.DEB - X - -
+          DEPENDANCY - X - -
+              ERRORS - O - -
+             LIBGCC1 - - X -
+                   > - - X -
+    1:4.0.1-4UBUNTU9 - - S -
+          LIBSTDC++6 - - S -
+             4.0.2-4 - - X -
+      4.0.1-4UBUNTU9 - - S -
+        DEPENDANCIES - - O -

@@ -1,0 +1,14 @@
+           PARTITION X - - -
+               MOUNT X - - -
+               POINT X - - -
+                LINE - O - -
+          /ETC/FSTAB - X - -
+                DISK - X - -
+                 USB - O - -
+              VOL_ID - O - -
+                UUID - O - -
+          MOUNTPOINT - X - -
+                BOOT - - X -
+                  OS - - X -
+               DRIVE - - X -
+           ENCLOSURE - - - X

@@ -1,0 +1,11 @@
+                 HMM - X - - -
+                 USE - O - - -
+             DEFAULT - S - - -
+            IFCONFIG - S - - -
+        192.168.0.55 - O - - -
+                 ALL - S - - -
+             PACKAGE - O - - -
+            KEYBOARD - - X O X
+          DMESG|GREP - - - X -
+               INPUT - - - - X
+      ISA0060/SERIO0 - - - - X

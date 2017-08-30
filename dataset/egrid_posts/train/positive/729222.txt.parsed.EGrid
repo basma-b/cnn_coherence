@@ -1,0 +1,19 @@
+                FILE X - - - - - - -
+         PERMISSIONS X - - - - - - -
+                SUDO - S - - - - - X
+           OPERATION - S - - - - - -
+                   $ - - O - - - - -
+                THAT - - X - - - - -
+                ROOT - - O - X - - -
+               CHMOD - - X - - - - -
+               A+RWX - - X - - - - -
+/HOME/INSPIRCD/INSPIRCD - - X - S - - -
+                STAT - - - S - - - -
+               CHOWN - - - - X - - -
+            YOU_NAME - - - - X - - -
+              ACCESS - - - - X - - -
+                 UID - - - - X - - -
+                 GID - - - - X - - -
+                THIS - - - - X - - -
+                TYPE - - - - S - - -
+             COMMAND - - - - X - - -

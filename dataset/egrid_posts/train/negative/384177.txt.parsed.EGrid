@@ -1,0 +1,20 @@
+                SUDO S - - - -
+                 -A. O - - - -
+                TYPE S - - - -
+              OPTION X - - - -
+          SUPERBLOCK X - - - -
+           /DEV/SDA1 X - - O -
+               ENTRY X - - - -
+/HOME/WORKINGONWISE/DISKIMAGES O - - - -
+           PARTITION - S - - -
+          DISKIMAGES - X - - -
+                 DIR - S - - -
+               WHATS - - X - -
+            WRITABLE - - - X -
+          PERMISSION - - - X -
+             NETWORK - - - - X
+             DEVICES - - - - S
+              ROUTER - - - - X
+            FIREWALL - - - - X
+                 ETC - - - - X
+                LIFE - - - - X

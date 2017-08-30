@@ -1,0 +1,17 @@
+              GKSUDO X - - - - -
+             RESPECT X - - - - -
+          EXCEPTIONS X - - - - -
+              VISUDO X - S - - -
+              SCRIPT - O - - S -
+               USERS - S - - - -
+         PRIVILEDGES - O - - - -
+               GUEST - - X - - -
+                ALL= - - X - - -
+                 ALL - - X - - -
+            NOPASSWD - - X - - -
+        /SBIN/REBOOT - - X - - -
+/HOME/GUEST/REBOOT_LINK.SH - - X X - -
+            LAUNCHER - - - X X -
+                 PWD - - - X - -
+                GKSU - - - - S -
+                IDEA - - - - O -

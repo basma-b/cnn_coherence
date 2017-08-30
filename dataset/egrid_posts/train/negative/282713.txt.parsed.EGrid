@@ -1,0 +1,16 @@
+                USER O - - - - - - - - -
+            SOMEUSER O - - - - - - - - -
+                 WAY - S - - - - - - - -
+              LIVECD - - X - - - - S - -
+                THAT - - - O - - - - - -
+                CANT - - - X - - - - - -
+                BOOT - - - X - - - - - -
+                  CD - - - X - - - - - -
+              LOADER - - - - - O - - - -
+                GRUB - - - - - - O - - -
+             PROGRAM - - - - - - - X - -
+                CALL - - - - - - - O - -
+           PARTITION - - - - - - - O - -
+     /MNT/MOUNTPOINT - - - - - - - - O -
+             ABSORTO - - - - - - - - - X
+                  TY - - - - - - - - - X

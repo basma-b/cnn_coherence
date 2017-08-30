@@ -1,0 +1,14 @@
+               INTEL X -
+              DRIVER X -
+               QUIRK O -
+           XORG.CONF S -
+                FILE O O
+           /ETC/X11/ X -
+               HTTPS X S
+//WIKI.UBUNTU.COM/X/QUIRKS X X
+ INTEL_DRIVER_QUIRKS X -
+            PASTEBIN X -
+                HTTP X -
+//PASTE.UBUNTU.COM/785517/ X -
+            PROBLEMS - O
+INTEL_NO_DISPLAY_AFTER_LID_CLOSE_QUIRKS - X

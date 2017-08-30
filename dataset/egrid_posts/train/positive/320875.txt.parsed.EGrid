@@ -1,0 +1,13 @@
+             COMMAND X - - - - -
+          PERMISSION X - - - - S
+                SUDO - X - X - X
+                ECHO - X - - - -
+                NONE - S - - - S
+                AUTO - O - - - X
+                   > - S - - - -
+          /ETC/FSTAB - O - - - X
+               SHELL - X S - - -
+                ROOT - - S - - -
+                BITE - - O - - -
+                  -I - - - S - S
+                THIS - - - - - O

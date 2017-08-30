@@ -1,0 +1,33 @@
+             SOMEONE X - - - - - - - - - - - - -
+                FILE X - - - - - - - - - - - - -
+                NAME X - - - - - - - - - - - - -
+           BLACKLIST X - - - - - - - - - - - - -
+              KERNEL X - - - - - - - - - - - - -
+             MODULES X - - - - - - - - - - - - -
+              PCMCIA - X - - - - - - - X - - - -
+                 CAR - S - - - - - - - - - - - -
+                LOAD - X - - - - - - - - - - - -
+              DRIVER - X - - - O - - - - - - - -
+/ETC/HOTPLUG/BLACKLIST - O - - - - - - - - O - - -
+              DAPPER - X S - S - - - - - S - - -
+             HOTPLUG - - O - - - - - - - O - - -
+             ARHIVES - - - O - - - - - - - - - -
+               ISSUE - - - X - - - - - - - - - -
+                 FIX - - - O - - - - - - - - - -
+         DAPPERDRAKE - - - X - - - - - - - - - -
+           HARDDRIVE - - - - O - - - - - - - - -
+             DEFAULT - - - - X - - - - - - - - -
+              ADVICE - - - - - O - - - - - - - X
+            LOCATION - - - - - - X - - - X - - -
+              DEVICE - - - - - - - - - X - - - -
+             MANAGER - - - - - - - - - O - - - -
+            WIRELESS - - - - - - - - - X - - - -
+                CARD - - - - - - - - - O - - - -
+          ORINOCO_CS - - - - - - - - - O - - - -
+/ETC/MODPROBE.D/BLACKLIST-SOMETHING - - - - - - - - - - - O - -
+           TUTORIALS - - - - - - - - - - - - O -
+                LINK - - - - - - - - - - - - O -
+            SNICKSIE - - - - - - - - - - - - - X
+               CHELZ - - - - - - - - - - - - - X
+       ACTIONPARSNIP - - - - - - - - - - - - - X
+         JDOWNLOADER - - - - - - - - - - - - - S

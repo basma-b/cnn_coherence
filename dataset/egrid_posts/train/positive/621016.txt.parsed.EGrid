@@ -1,0 +1,11 @@
+                /VAR O - - - - -
+               DRIVE X - - - - -
+            PROBLEMS - O - - - -
+            /VAR/RUN - X - - - -
+           /VAR/LOCK - X - - - -
+                BOOT - X - - - -
+                THIS - - X - - -
+               ERROR - - - X - -
+             MESSAGE - - - O - -
+               HTTPS - - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/SYSVINIT/+BUG/139230 - - - - - X

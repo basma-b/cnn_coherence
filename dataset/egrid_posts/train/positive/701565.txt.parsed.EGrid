@@ -1,0 +1,8 @@
+                IRQS O - - - -
+                BIOS - X - - -
+                RAID - - X - -
+          BACKPLANES - - O - -
+                 IRQ - - X - X
+            CONFLICT - - O - -
+           BACKPLANE - - - S -
+                DISK - - - O S

@@ -1,0 +1,15 @@
+                FILE X - S - -
+                ROOT X - - - -
+              DOESNT S - - - -
+         PERMISSIONS O - - - -
+                THAT - S - - O
+          FILESYSTEM - S X - -
+               CHECK - - O - -
+            SHUTDOWN - - X - -
+                 -RF - - X - -
+       FSCK.REISERFS - - X - -
+        REBUILD-TREE - - X - -
+SCAN-WHOLE-PARTITION - - X - -
+               THERE - - - - S
+                NODE - - - - O
+               SPACE - - - - O

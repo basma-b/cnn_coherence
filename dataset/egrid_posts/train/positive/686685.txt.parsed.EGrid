@@ -1,0 +1,11 @@
+                HELP O - - -
+                BOOT X X X -
+                9.10 O O - -
+            BOOT.INI X X - -
+           PARTITION - X - -
+          BOOTSECTOR - O - -
+                FILE - X - -
+       WIN-PARTITION - X - -
+                GRUB - - O -
+              LOADER - - X -
+                 ONE - - - O

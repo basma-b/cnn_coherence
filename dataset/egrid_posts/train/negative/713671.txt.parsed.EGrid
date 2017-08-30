@@ -1,0 +1,11 @@
+             COMMAND X - - - -
+                 GUI X - - - -
+                TOOL O - - - -
+                ALSA X - - - -
+               PULSE X - - - -
+                ROOT - - - X -
+                 USE - - - X -
+                SUDO - - - O -
+                USER - - - - X
+               SHELL - - - - O
+                  -I - - - - O

@@ -1,0 +1,12 @@
+                LILO X X O -
+              CONFIG X - S -
+              UBUNTU - S - -
+          BOOTLOADER - O - -
+              FONFIG - X - -
+                GRUB - - S -
+         /BOOT/GRUB/ - - X -
+      /ETC/LILO.CONF - - O -
+           FORCE-ALL - - S -
+                PLAN - - X -
+                  .. - - X -
+                THAT - - - O

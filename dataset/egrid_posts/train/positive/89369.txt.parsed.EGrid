@@ -1,0 +1,15 @@
+                RULE X - - - - -
+                FILE X - - - - -
+             PACKAGE X - - - - -
+                   $ - X - - - -
+              SOURCE - S - - - -
+           SOMETHING - O - - - -
+              OUTPUT - - X - O -
+            TERMINAL - - X - - -
+                SUDO - - - X X -
+                ROOT - - - O - -
+                MESS - - - X - -
+           PRIVILEGE - - - X - -
+            /USR/BIN - - - X - -
+                WHAT - - - - S -
+       /USR/BIN/SUDO - - - - - X

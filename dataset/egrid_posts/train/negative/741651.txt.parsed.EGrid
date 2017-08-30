@@ -1,0 +1,13 @@
+      /VAR/LOG/MYSQL X - - - - - - -
+                   * - S - - - - - -
+               MYSQL - - X - - - - -
+               CHECK - - - S - - - -
+                   | - - - X - - - -
+               START - - - - X - - -
+             SERVICE - - - - X - - -
+               THERE - - - - - S - -
+                 LOG - - - - - O - -
+             APT-GET - - - - - - O -
+             UPSTART - - - - - - - X
+               11.04 - - - - - - - O
+              UPDATE - - - - - - - X

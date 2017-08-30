@@ -1,0 +1,11 @@
+             WINDOWS X - - - - - -
+           PARTITION X - - - - - -
+               FSTAB - O - - - - -
+                FILE - X - X - - -
+                TRSS - - S - - - -
+              SYSTEM - - - S - - -
+                NTFS - - - O - - -
+               FAT32 - - - O - - -
+                VFAT - - - X - - -
+                WORK - - - X - - -
+      /MEDIA/WINDOWS - - - - O - -

@@ -1,0 +1,16 @@
+           VNCSERVER X - -
+               -KILL X - -
+              OUTPUT X - -
+                ROOT X - -
+                FILE X - -
+         /ROOT/.VNC/ O - -
+               0.PID X - -
+                XVNC X - -
+             PROCESS O - -
+                  PS X - -
+                   | X - -
+                GREP X - -
+                 VNC S - -
+           RDW200169 X - -
+             COMMAND - O -
+                 PID - O -

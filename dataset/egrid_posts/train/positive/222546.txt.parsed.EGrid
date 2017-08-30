@@ -1,0 +1,14 @@
+                SWAP O - - X - - - -
+           PARTITION X - - - - - - -
+                FILE X - - - - - - -
+                DISK X - - - - - - -
+                THIS - X - - O - - -
+             COMMAND - - O O - - - -
+              DEVICE - - - X - - - -
+          /ETC/FSTAB - - - X - - - -
+              SWAPON - - - X - - - -
+                 MAN - - - - X - - -
+      SWAPON/SWAPOFF - - - - S - - -
+                HELP - - - - X - - -
+                PAGE - - - - X - - -
+         EXPLANATION - - - - X - - -

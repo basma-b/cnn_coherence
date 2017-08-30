@@ -1,0 +1,27 @@
+           DIRECTORY X - - - X - - -
+                LINK X - O - - - - -
+               WEIRD - - O - - - - -
+              TARGET - - X - - - - -
+              OPTION - - X - - - - -
+           SOMETHING - - X - - - - -
+             COMMAND - - - X S - - -
+                OOPS - - - S - - - -
+                NAME - - - O - - - -
+                  .. - - - X O - - -
+                BITE - - - X - - - -
+               ERROR - - - X - - - -
+              FRENCH - - - - X - - -
+      LANGUAGE=EN_US - - - - X - - -
+               BEGIN - - - - X - - -
+                LINE - - - - X - - -
+                  CP - - - - S - - -
+       NON-DIRECTORY - - - - S - - -
+  /MEDIA/IPOD/MUSIC/ - - - - X - - -
+             CONTENT - - - - O - - -
+   /MEDIA/IPOD/MUSIC - - - - X - - -
+                WELL - - - - X - - -
+                WORK - - - - O - - -
+IPOD/BLAH/BLAH/MUSIC/ - - - - - X - -
+                   * - - - - - S - -
+                 WAY - - - - - - - S
+          /ETC/HOSTS - - - - - - - O

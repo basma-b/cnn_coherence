@@ -1,0 +1,11 @@
+                PIPE X - -
+              OUTPUT O - -
+             COMMAND X - -
+                CASE - X -
+             DNSMASQ - S -
+                BOOT - X -
+         AUTOSTARTED - X -
+                 NOT - - O
+        APPLICATIONS - - O
+                LIST - - X
+                  IF - - O

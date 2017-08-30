@@ -1,0 +1,26 @@
+            EVERYONE X - - - - - - -
+                 ANY - S - - - - - -
+      UBUNTU/PRECISE - - X - - - - -
+              CHROOT - - X - - X - -
+                 USE - - X - - O - -
+         DEBOOTSTRAP - - X - - - - -
+               AMD64 - - - X - - X -
+                  ES - - - O - - - -
+               BUNCH - - - O - - - -
+             PACKAGE - - - S - - O -
+             APT-GET - - - S - - - -
+                I386 - - - O - - - -
+                BOUT - - - X - - - -
+                HALF - - - S - - - -
+/ETC/DPKG/DPKG.CFG.D/MULTIARCH - - - X - - - -
+              THINGS - - - S - - - -
+                  .. - - - O - - - -
+            QUESTION - - - O S - - -
+        UBUNTU-DEVEL - - - - X X - -
+                HOST - - - - - S - -
+             DEFAULT - - - - - X - -
+                LINE - - - - - O O -
+                THAT - - - - - - - X
+             PROBLEM - - - - - - - O
+            SHUTDOWN - - - - - - - X
+             COMMAND - - - - - - - X

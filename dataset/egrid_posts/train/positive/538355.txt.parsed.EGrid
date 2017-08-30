@@ -1,0 +1,18 @@
+                LINE S - - -
+                 TUT X - - -
+           REFERENCE X - - -
+           BLACKLIST X - - -
+             ATH_PCI O - - -
+              MODULE O - - S
+               ATH5K S - - -
+                TYPE O - - -
+                SUDO X - - -
+            MODPROBE X - - -
+/ETC/MODPROBE.D/BLACKLIST X - - -
+               THERE X - - -
+              UBUNTU - X - -
+             VERSION - X - -
+                WHAT - - S -
+                STEP - - O -
+             MADWIFI - - O -
+              KERNEL - - - X

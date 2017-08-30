@@ -1,0 +1,14 @@
+               ERROR O - - - -
+                   W X - - - -
+                LOCK O - - - -
+                FILE X X - - -
+  /VAR/LIB/DPKG/LOCK O - - - -
+                DPKG S - - - -
+                SUDO X - - O -
+                  -A X - - - -
+             PROBLEM O - - - -
+             COMMAND - O - X -
+              STATUS - X - - -
+                AREA - O - - -
+              SYSTEM - X - - -
+                 TRY - - - S -

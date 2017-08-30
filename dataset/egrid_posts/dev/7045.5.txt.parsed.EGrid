@@ -1,0 +1,12 @@
+              STREAM X - - - -
+            TERMINAL X X - - -
+              OUTPUT O X - - -
+                FILE X X X - -
+         REDIRECTION - X - - -
+              SERVER - X - - -
+                  PC - X - - -
+                 TEE - - O - -
+                PIPE - - X - -
+            IPROUTES - - - X -
+          CONNECTION - - - X -
+                   > - - - - X

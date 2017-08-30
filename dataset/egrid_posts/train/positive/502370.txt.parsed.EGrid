@@ -1,0 +1,13 @@
+             RESTART S - - - -
+                QUIT S - - - -
+              SYSTEM X - - - -
+              WINDOW X - - - -
+         APPLICATION O - - - -
+              OUTPUT - - O - -
+               GROUP - - X - -
+             DIALOUT - - - - X
+               CDROM - - - - X
+                 DIP - - - - X
+               VIDEO - - - - X
+                FUSE - - - - X
+               KQEMU - - - - X

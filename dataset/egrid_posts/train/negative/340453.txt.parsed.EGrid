@@ -1,0 +1,13 @@
+              UBUNTU O - - -
+                BOOT X - S -
+              INITRD X - - -
+             DEVICES - O - -
+                /DEV - X - -
+                 ETC - X - -
+              KERNEL - - S -
+             MODULES - - X -
+            MONOLITH - - X -
+        /DEV/CONSOLE - - S -
+                MISS - - O -
+                UDEV - - X -
+                MODE - - - S

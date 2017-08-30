@@ -1,0 +1,11 @@
+                IDEA X - - -
+          DIFFERENCE O - - -
+        /LIB/LIBC.SO X - - -
+/LIB/TLS/CMOV/LIBC.SO X - - -
+           LIBRARIES - X - -
+                   U - - X -
+                LIBS - - - O
+                 APP - - - O
+                LINK - - - O
+       TLS/I686/CMOV - - - X
+               DUNNO - - - X

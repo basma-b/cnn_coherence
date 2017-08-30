@@ -1,0 +1,16 @@
+             FLANNEL X - - - -
+             DEMUXER S - - - -
+GSTREAMER0.10-PLUGINS-GOOD X - - - -
+     TOTEM-GSTREAMER X - - - -
+             DEFAULT X - - - -
+               GXINE - S - - -
+               CDROM - O - - -
+             NOTHING - S - - -
+              INSTAL - - O - -
+               TOTEM - - O - -
+             MPLAYER - - - - S
+              RETURN - - - - X
+                 -VO - - - - X
+               ERROR - - - - O
+           VIDEO_OUT - - - - X
+              DEVICE - - - - X

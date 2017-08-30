@@ -1,0 +1,14 @@
+               THERE S - - -
+               ERROR X - - -
+                 LOG X - - -
+                FILE O - - -
+           MAGICDEAD - X - -
+               MYSQL - X X X
+              SERVER - X X -
+              SOCKET - X X -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK - X X -
+                TAIL - X - -
+  /VAR/LOG/MYSQL.ERR - S - -
+                 RUN - O - -
+              VEBOSE - X - -
+                MODE - X - -

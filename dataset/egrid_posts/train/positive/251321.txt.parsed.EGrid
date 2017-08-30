@@ -1,0 +1,15 @@
+            ACPI=OFF O - - - - X
+                BIOS - X - - - -
+                BOOT - X - - - X
+              OPTION - X S - - -
+                THAT - - O X - -
+                GRUB - - X - - S
+              KERNEL - - X - - -
+             COMMAND - - - X - -
+                ROOT - - - - - S
+                LINE - - - - - O
+                   E - - - - - S
+              RETURN - - - - - O
+                EXIT - - - - - X
+              EDITOR - - - - - X
+                   B - - - - - O

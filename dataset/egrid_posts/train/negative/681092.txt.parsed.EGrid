@@ -1,0 +1,17 @@
+                  HI S - - - - -
+                ACPI O - - - - -
+                9.10 X - - - X -
+             DISABLE - X - - - -
+                GRUB - X - - - -
+                BOOT - X X - - -
+               PRESS - S - - - -
+                LINE - X - - - -
+            ACPI=OFF - O - - - -
+              KERNEL - X - - - -
+                8.10 - - - X - -
+ /BOOT/GRUB/MENU.LST - - - X - -
+                FILE - - - - O -
+   /ETC/DEFAULT/GRUB - - - - X -
+        XSERVER-XORG - - - - - S
+          PARAMETERS - - - - - O
+             MONITOR - - - - - X

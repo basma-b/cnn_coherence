@@ -1,0 +1,15 @@
+                  NP S - - -
+         LINUX-IMAGE - X - -
+            GNOMEVFS - X - -
+                RACE - X - -
+                   S - X - -
+               HOARY - - X -
+DEBIAN/PATCHES/14_VFSDAEMONLOCK.PATCH - - X -
+               PATCH - - X -
+              FREEZE - - O -
+                THAT - - - S
+              INITRD - - - X
+             HOTPLUG - - - S
+              THINGS - - - O
+         PERIPHERALS - - - X
+                 MTA - - - S

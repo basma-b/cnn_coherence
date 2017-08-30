@@ -1,0 +1,15 @@
+               ENTRY S - - - - -
+               DRIVE X - O - - -
+                ROOT O - - - - -
+                  HM - S - - - -
+                BOOT - - X X - -
+                 F12 - - O - - -
+               THERE - - X - - -
+                  HD - - X - - -
+             OPTIONS - - X - - -
+                GRUB - - - S - -
+                BOTH - - - O - -
+    KERNEL-COMPILING - - - - X -
+                TASK - - - - X -
+              KERNEL - - - - - X
+           SOMETHING - - - - - S

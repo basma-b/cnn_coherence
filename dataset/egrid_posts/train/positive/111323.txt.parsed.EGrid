@@ -1,0 +1,11 @@
+               AUDIO X - - - - -
+             SUPPORT O - - - - -
+                BOOT X - - - - -
+              KERNEL X - - - - -
+             MODULES S - - - - S
+           SOMETHING - X - - - -
+/ETC/MODUTILS/ALSA-BASE-BLACKLIST - X - - - -
+/ETC/MODPROBE.D/BLACKLIST - - - X - -
+                FILE - - - X - -
+                LOAD - - - - - X
+               LSMOD - - - - - S

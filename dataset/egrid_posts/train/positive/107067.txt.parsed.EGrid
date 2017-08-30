@@ -1,0 +1,15 @@
+             ANYBODY X - - - - -
+             COMMAND X - - - X -
+                PERM O - - - - -
+              FOLDER X - - - - -
+       FILES/FOLDERS O - - - - -
+                FILE - X - - - -
+               WORLD - X - - - -
+    WRITE/EXECUTABLE - X - - - -
+               CHMOD - - S - - S
+                BLAH - - X - - -
+            THANKYOU - - O - - -
+                  -R - - - S - -
+               THING - - - O - -
+       ^___________^ - - - X - -
+                 MAN - - - - X X

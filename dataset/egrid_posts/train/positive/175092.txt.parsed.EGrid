@@ -1,0 +1,34 @@
+                TIME - O - - - - - - - -
+            QUESTION - O - - - - - - - -
+                 USE - X O - O - - - - -
+EVOLUTION/SPAMASSASSIN - S - - - - - - - -
+          CLASSIFIER - S - - - - - - - -
+                SPAM - X - X - - - - - -
+                THIS - O - O - - - - - X
+            SA-LEARN - S - X - - - - - -
+            SHOWDOTS - X - - - - - - - -
+~/.EVOLUTION/MAIL/LOCAL/INBOX.SBD/SPAMS - X - - - - - - - -
+        SEGMENTATION - X - - - - - - - -
+               ERROR - X - - - - - - - -
+             COMMAND - X - - - - - - - -
+                 NOK - O - - - - - - - -
+             MAILBOX - - X - - - - - - -
+              FORMAT - - S - - - - - - -
+                FILE - - O - - - - - - -
+                MBOX - - - X - - - - - -
+            PROGRESS - - - X - - - - - -
+                   < - - - S - - - - - -
+                 MAN - - - - O - - - - -
+                PAGE - - - - S - - - - -
+             PROBLEM - - - - O - O - - -
+                 ALL - - - - S - - - - -
+                 BAY - - - - X - - - - -
+                  DB - - - - X - - - - -
+             VERSION - - - - X - - - - -
+/USR/SHARE/PERL5/MAIL/SPAMASSASSIN/BAYESSTORE/DBM.PM - - - - - X - - - -
+            SEGFAULT - - - - - - X - - -
+       CONFIGURATION - - - - - - X - - -
+                SIED - - - - - - X - - -
+            DATABASE - - - - - - - - O -
+                HTTP - - - - - - - - - X
+//LISTS.CENTOS.ORG/PIPERMAIL/CENTOS/2005-MAY/046914.HTML - - - - - - - - - X

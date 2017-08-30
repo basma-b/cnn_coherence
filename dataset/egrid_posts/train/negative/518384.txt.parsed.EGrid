@@ -1,0 +1,16 @@
+              SERVER O - - - - - -
+            IPTABLES X - - - - - -
+             DEFAULT X - - - - - -
+              ACCESS - X - - - - -
+               ADMIN - O - - - - -
+                USER - X - X - - -
+                PART - - O - - - -
+               GROUP - - X - - - -
+                SUDO - - O - - - -
+             ACCOUNT - - - X - - -
+                THIS - - - X - - -
+              GROUPS - - - S - - -
+            USERNAME - - - X - - -
+                   ' - - - - X - -
+                LIST - - - - X - -
+           LIBREDRAW - - - - - - S

@@ -1,0 +1,15 @@
+               IOCTL S - - -
+         SIOCSIWMODE X - - -
+              DEVICE X - - -
+            RESOURCE S - - -
+                THIS X - - -
+               ERROR - O - -
+                SUDO - - X -
+         AIRODUMP-NG - - S -
+                 RUN - - - X
+                ETH1 - - - O
+           SOMETHING - - - S
+                 USE - - - X
+             COMMAND - - - S
+             PROCESS - - - S
+            INTERNET - - - O

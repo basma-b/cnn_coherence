@@ -1,0 +1,16 @@
+             STARTUP O - - - -
+             WINDOWS X - - - -
+           PARTITION X - - - -
+               ORDER - X - - -
+                BOOT - X S X -
+              LOADER - X - - -
+                WORK - O - - -
+              UBUNTU - X - - -
+                GRUB - - O - -
+           REINSTALL - - X - -
+              RESCUE - - X - -
+                MODE - - X - -
+            ANYTHING - - O - -
+                DIST - - - O -
+        GRUB-INSTALL - - - O -
+                ASAP - - - - O

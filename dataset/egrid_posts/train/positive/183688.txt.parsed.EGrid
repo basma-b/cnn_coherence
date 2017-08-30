@@ -1,0 +1,10 @@
+                 NIC X - - -
+                ETH2 S - X -
+            IFOCNFIG X - - -
+         FIRESTARTER X - - -
+               READY X - - -
+/ETC/INIT.D/NETWORKING - - X -
+                ROOT - - X -
+                 USE - - X -
+                SUDO - - X -
+                FAIL - - - X

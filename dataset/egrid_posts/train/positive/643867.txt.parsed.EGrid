@@ -1,0 +1,13 @@
+              ANYONE X - - - -
+              ACCESS O O - - -
+            /DEV/SDA X - - - -
+              CHROOT X X - - -
+              LIVECD X - - - -
+                PROC - O - - X
+                CANT - X - - -
+               DRIVE - X - - -
+                 DEV - O - - -
+               BLOCK - - X - -
+              DEVICE - - O - -
+                BIND - - - - O
+                SAME - - - - O

@@ -1,0 +1,14 @@
+              POLIPO X - - - -
+                LINE X - - - -
+    CHROMIUM-BROWSER X - - O -
+       PROXY-SERVER= X - - X -
+                HTTP X - - O -
+    //LOCALHOST:8123 X - - O -
+           LOCALHOST X - - - -
+         192.168.1.1 - X - - -
+                   * - - - S -
+            CHROMIUM - - - O -
+               ERROR - - - O -
+                 BUG - - - - X
+                 LOT - - - - X
+             NOTHING - - - - X

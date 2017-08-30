@@ -1,0 +1,15 @@
+                  CD X - - - - -
+         PARTITIONER S - - - - -
+          /ETC/FSTAB - S - - - -
+             UNIONFS - X - - - -
+               TMPFS - O - - - -
+                  HD - X - - - -
+                 SIR - - S - - -
+               BUGGY - - - X - -
+              UBUNTU - - - - S -
+                 ISO - - - - X -
+                  .. - - - - O -
+                TEXT - - - - X -
+                BASE - - - - X -
+           INSTALLER - - - - O -
+              THANKS - - - - - X

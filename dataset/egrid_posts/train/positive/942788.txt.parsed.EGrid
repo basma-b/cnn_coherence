@@ -1,0 +1,12 @@
+           PARTITION X - - - - - - -
+               W/OUT S - - - - - - -
+                DATA O - - - - - - -
+               AFAIK - S - - - - - -
+             SUPPORT - O - - - - - -
+              RESIZE - - S - - - - -
+         FILESYSTEMS - - X - - - - -
+              NOBODY - - X - - - - -
+                TOOL - - X - - - - X
+                NTFS - - X - - - - O
+                GOAL - - - - - S - -
+             WINDOWS - - - - - - - X

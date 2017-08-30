@@ -1,0 +1,20 @@
+               FSTAB X - X - - -
+             OPTIONS X - - - - -
+               USERS X - S - - -
+                NONE - X - - - -
+                CANT - X - - - -
+         CHOWN/CHMOD - - S - - -
+                TOOL - - O - - -
+EXT2/EXT3/XFS/ALL_UNIX_FILESYSTEMS - - S - - -
+               DRIVE - - O - - -
+             EXAMPLE - - X - - -
+                  .. - - X - - -
+               CHMOD - - O - - -
+              REBOOT - - X - - -
+                THIS - - O - - -
+             DEFAULT - - O - - -
+              NEWBIE - - - O - -
+         SUGGESTIONS - - - O - -
+                 BOX - - - - X -
+                BOTH - - - - X -
+                HELP - - - - - O

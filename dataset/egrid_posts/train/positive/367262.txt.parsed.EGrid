@@ -1,0 +1,9 @@
+         PERMISSIONS X - - -
+                SFTP O - - -
+                FILE O - - X
+             ACCOUNT - S - -
+               SHELL - X - -
+              UPLOAD - - - X
+              SERVER - - - X
+           FILES/DIR - - - O
+            ANYTHING - - - O

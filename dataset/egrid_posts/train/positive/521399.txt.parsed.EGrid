@@ -1,0 +1,13 @@
+                SWAP S - - - - -
+                BOOT X - - - - -
+           PARTITION X - - - O -
+                PART X - - - - -
+              UBUNTU S - - - - -
+               SPACE O - - - - -
+               FSTAB - S - X X -
+              FORMAT - O - X S -
+               VALUE - O - - - -
+                THIS - - X - - -
+               UUIDS - - - - O -
+               THOSE - - - - S -
+                  NR - - - - O -

@@ -1,0 +1,33 @@
+              ANYONE S - - - - - - - - - - - -
+                IDEA O - - - - - - - - - - - -
+  GNOME-CUPS-MANAGER S - - - - - - S - - - - -
+            PRINTERS O O - - - - - - - - - - -
+             PRINTER - - X - O X - X - - - - -
+                 USB - - - S - - - - - - - - -
+               DMESG - - - - X - - - - - - - -
+              DEVICE - - - - X S - X - - - - -
+               LSUSB - - - - - S - - - - - - -
+                 YES - - - - - X - - - - - - -
+            SEQUENCE - - - - - X - - - - - - -
+                LIST - - - - - - X - - - - - -
+                PORT - - - - - - X - - - - - -
+                 SET - - - - - - X - - - - - -
+             DRIVERS - - - - - - - S - - - - -
+              OPTION - - - - - - - X - - - - -
+       MANUFACTURERS - - - - - - - X - - - - -
+               SOUND - - - - - - - S - - - - -
+                 CUP - - - - - - - X X - - - -
+       CONFIGURATION - - - - - - - X - - - - -
+            CREATION - - - - - - - X - - - - -
+             PACKAGE - - - - - - - S - - - - -
+            SYNAPTIC - - - - - - - - X X - - -
+              SEARCH - - - - - - - - X - - - O
+CUPSYS-DRIVER-GIMPPRINT - - - - - - - - X S - - -
+CUPSYS-DRIVER-GIMPPRINT-DATA - - - - - - - - S - - - O
+                THAT - - - - - - - - - O - - -
+               THOSE - - - - - - - - - S - - -
+                  .. - - - - - - - - - O - - -
+                   K - - - - - - - - - X - - -
+        REPOSITORIES - - - - - - - - - - O - -
+            UNIVERSE - - - - - - - - - - - - O
+ PACKAGES.UBUNTU.COM - - - - - - - - - - - - X

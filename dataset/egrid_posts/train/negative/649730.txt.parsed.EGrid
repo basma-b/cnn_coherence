@@ -1,0 +1,13 @@
+             NETBOOK - S - - - - - - -
+               MODEM - X - - - - - - -
+                WIRE - X - - - - X - -
+              ROUTER - X S - - - S - -
+             MACHINE - - X - - - - - -
+          CONNECTION - - X - - - - - -
+          MASQUERADE - - - O - - - - -
+                ETH0 - - - X - - - - -
+            FIREWALL - - - X - - - - -
+              CONFIG - - - X - - - - -
+                THIS - - - - - S - - -
+              FEDORA - - - - - X O - -
+             CHANNEL - - - - - - - - O

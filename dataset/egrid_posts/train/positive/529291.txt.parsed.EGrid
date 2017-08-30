@@ -1,0 +1,15 @@
+           FSCK.EXT3 X - -
+UUID=NUBMERSANDLETTERS X - -
+                FSCK S - X
+                EXIT X - -
+              STATUS X - -
+              ANYONE - S -
+             PROBLEM - O -
+           PARTITION - O -
+          /ETC/FSTAB - X -
+              CHANGE - O -
+               CHECK - - S
+                BOOT - - X
+                DROP - - O
+               SHELL - - X
+                CANT - - S

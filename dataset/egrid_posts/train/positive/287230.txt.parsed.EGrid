@@ -1,0 +1,21 @@
+           PARTITION X X O - - -
+                USER S X S - - -
+              ACCESS O - - - - -
+               FSTAB - S - - - -
+              OPTION - O - - - -
+                MORE - X - - - -
+                EXT3 - - X X - -
+                FILE - - X - - -
+             DEFAULT - - X - - -
+   ERRORS=REMOUNT-RO - - X - - -
+                 ALL - - S - - -
+              CIRCLE - - X - - -
+               GUIDE - - X - - -
+             WINDOWS - - X - - -
+           PARITIONS - - O - - -
+             WEBPAGE - - - O - -
+                POST - - - X - -
+                VFAT - - - O - -
+                HTTP - - - - X -
+//WWW.LINUXQUESTIONS.ORG/QUESTIONS/SHOWTHREAD.PHP - - - - X -
+            T=352552 - - - - - X

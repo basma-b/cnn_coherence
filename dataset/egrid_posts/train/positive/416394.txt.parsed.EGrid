@@ -1,0 +1,10 @@
+         RECONFIGURE X - -
+              DRIVER X - -
+                 USE X - -
+        XSERVER-XORG X X -
+                SUDO - X -
+    DPKG-RECONFIGURE - X -
+               VIDEO - - S
+            ANYTHING - - X
+            KEYBOARD - - X
+              LOCALE - - O

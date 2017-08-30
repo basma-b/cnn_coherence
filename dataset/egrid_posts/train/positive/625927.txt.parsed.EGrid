@@ -1,0 +1,13 @@
+                LOOP X - - -
+   FILENAME_HERE.ISO X - - -
+                /MNT O - - -
+                COPY O - - -
+                FILE X - - -
+           DIRECTORY X - - -
+                 ZIP X X - S
+             FIL.ISO S - - -
+         FOLDER.WHAT X - - -
+             COMMAND O X - -
+                 MAN - - - X
+   ZIP_FILE_NAME.ZIP - - - X
+ DIRECTORY_NAME_HERE - - - O

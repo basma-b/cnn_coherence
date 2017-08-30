@@ -1,0 +1,12 @@
+            TIGHTVNC O O - X - X - - - -
+            COMPUTER X - - - - - - - - -
+                BASE - S - - - - - - - -
+                JAVA - - X - - - - - - -
+       CONFIGURATION - - - X - - - - - -
+              TUNNEL - - - - S - - - - -
+                 VNC - - - - X - X - - -
+                 SSH - - - - X - - - - -
+             DEFAULT - - - - - - X - - -
+              CLIENT - - - - - - S - - -
+             COMMAND - - - - - - - - - S
+          XVNCVIEWER - - - - - - - - - X

@@ -1,0 +1,13 @@
+               THERE X - -
+                 WAY X - -
+/ETC/NETWORK/INTERFACES X - -
+                DHCP X - -
+              CLIENT X - -
+  IP/GATEWAY/NETMASK S - -
+    /ETC/RESOLV.CONF S - -
+       DHCLIENT.CONF - S -
+             OPTIONS - O -
+            RESPONSE - O -
+/ETC/DHCP/DHCLIENT.CONF - O -
+               10.10 - X -
+               RIGHT - - X

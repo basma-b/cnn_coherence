@@ -1,0 +1,16 @@
+           PARTITION O - - - - -
+                  FS O - - - - -
+              REPORT O - - - - -
+               MOUNT X - - - - -
+               CHECK - - S - - -
+              OUTPUT - - O - - -
+                   % - - - S - -
+           /DEV/SDA5 - - - S - -
+               LINUX - - - X - -
+                  .. - - - O - -
+             NOTHING - - - X - -
+                TIME - - - - - X
+               CHMOD - - - - - X
+                  +X - - - - - O
+              SCRIPT - - - - - X
+                MORE - - - - - X

@@ -1,0 +1,14 @@
+              SYSTEM O - - -
+               10.04 X - - -
+               12.04 X - - -
+             ENTRIES - O O -
+        SOURCES.LIST - X X -
+        DIST-UPGRADE - O - -
+                 LOT - S - -
+             PACKAGE - X - -
+              OTHERS - X - -
+                THAT - - X -
+           SOMETHING - - O -
+                GTK3 - - - X
+              GNOME3 - - - S
+                  .. - - - O

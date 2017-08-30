@@ -1,0 +1,9 @@
+             GATEWAY O - X S
+            IFCONFIG X - S -
+                 USE - - X -
+                  GW - - O -
+            ARGUMENT - - S -
+                HOST - - X -
+         192.168.1.1 - - O -
+             NETMASK - - - O
+               ERROR - - - O

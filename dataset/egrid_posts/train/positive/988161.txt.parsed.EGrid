@@ -1,0 +1,8 @@
+         RECONFIGURE X - -
+                XORG O - -
+             COMMAND O - -
+              WIZARD X - -
+                SUDO - X -
+    DPKG-RECONFIGURE - X -
+        XSERVER-XORG - X -
+            THANKYOU - - X

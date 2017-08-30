@@ -1,0 +1,25 @@
+                HELP O - - - -
+                 ^^^ X - - - -
+             BCM4318 O - - - -
+         NDISWRAPPER S X - - -
+              BREAZE O - - - -
+             BCM4309 O - - - -
+              ALEADY O - - - -
+               THING O - - - -
+              CYMAGE - O - - -
+                WORK - O - - -
+              OPTION - S - - -
+           BLACKLIST - X - - -
+              DRIVER - O - - -
+                WONT - X - - -
+                   U - S - - -
+                  OK - X - - -
+                LINK - S - - -
+                STEP - X - - -
+                THIS - - - X -
+             BCM43XX - - - - X
+                ECHO - - - - X
+                   | - - - - X
+                SUDO - - - - X
+                 TEE - - - - X
+/ETC/MODPROBE.D/BLACKLIST - - - - X

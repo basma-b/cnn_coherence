@@ -1,0 +1,15 @@
+         HOT-REMOUNT X - - - -
+                   / O - - - -
+                  RW X - - - -
+          FILESYSTEM - X - O -
+             REMOUNT - - O - -
+               BLOCK - - X - -
+              DEVICE - - X - -
+          READ-WRITE - - O - -
+            QUESTION - - O - -
+           APOLOGIES - - X - -
+               DMESG - - - S -
+                LINE - - - X -
+              REPORT - - - O -
+               ERROR - - - O -
+                SDA1 - - - X -

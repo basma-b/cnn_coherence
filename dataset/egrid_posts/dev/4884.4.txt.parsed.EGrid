@@ -1,0 +1,13 @@
+                 DNS X - - -
+              SERVER X - X -
+              ROUTER X - - -
+             SERVICE X - - -
+                RULE S - - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-CD.RULES X - - -
+             SYMLINK O - - -
+               DRIVE - - X -
+             COMMAND - - - X
+                THIS - - - O
+       /HOME/MSDAISY - - - X
+             MSDAISY - - - X
+          /MEDIA/HDD - - - X

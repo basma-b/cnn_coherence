@@ -1,0 +1,17 @@
+                   ' X - - - - - -
+                  'S S - - - - - -
+                TEST S - - - - - -
+               FILE1 X X - X - - -
+               FILE2 X S - S - - -
+               TEST2 X X - - - - -
+                LINK - - X - - - -
+            SNAPSHOT - - X - - - -
+             BACKUPS - - O - - - -
+               RSYNC - - X - - - -
+           REFERENCE - - - X - - -
+                FILE - - - O - - -
+                  TR - - - - - X -
+                   | - - - - - X -
+                 MMS - - - - - X -
+                SUDO - - - - - - S
+               START - - - - - - O

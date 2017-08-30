@@ -1,0 +1,13 @@
+GNOME-SCREENSAVER-COMMAND X - - -
+          DEACTIVATE S - - -
+                LOCK X - - -
+         SCREENSAVER O - - -
+              PROMPT X - - -
+              ACCESS O - - -
+            SOMEONES X - - -
+             DESKTOP O - - -
+              SECOND X - - -
+             COMMAND O - - -
+                CRON X - - -
+             MACHINE O - - -
+                THIS - X - S

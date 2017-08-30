@@ -1,0 +1,16 @@
+              CDROMS S - - - -
+               MEDIA S - - - -
+               FSTAB X - - - -
+              PMOUNT X - - - -
+            ANYTHING O - - - -
+              REASON X - - - -
+              CHANGE O - X - -
+    YABOOT-INSTALLER X - - - -
+              OPTION - X - - -
+            SYSVINIT - X - - -
+             USPLASH - - S - -
+             PACKAGE - - S - -
+               PATCH - - X - -
+                POST - - S - -
+                  'S - - - - S
+            TOMORROW - - - - X

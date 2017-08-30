@@ -1,0 +1,11 @@
+              SYNTAX X - - - - -
+               CHMOD S S - - - -
+               WRITE O - - - - -
+               USERS X - - - - -
+               THING - O - - - -
+                  PS - - X - - -
+                   | - - S - - -
+                LXDM - - O - - -
+              FEDORA - - - X - -
+                HUNT - - - - X -
+                 GDM - - - - X -

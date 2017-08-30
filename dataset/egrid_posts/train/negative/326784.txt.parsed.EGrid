@@ -1,0 +1,13 @@
+           DOWNGRADE X - - - -
+                 5.1 X - - - -
+                 5.2 X - - - -
+                THAT - X - - -
+             APT-GET - X S - -
+                SUDO - - X - -
+PACKAGENAME=VERSIONNUMBER - - O - -
+             PACKAGE - - S - -
+        REPOSITORIES - - X - -
+               CACHE - - X - -
+                 DIG - - - - X
+          GOOGLE.COM - - - - S
+             4.2.2.2 - - - - O

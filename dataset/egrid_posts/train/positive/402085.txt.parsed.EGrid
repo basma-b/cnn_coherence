@@ -1,0 +1,16 @@
+             PROCESS S - - - - - -
+               500MB O - - - - - -
+              MEMORY X - - - - - -
+                KILL O - - - - - -
+                THAT - X - X - - -
+                HINT - S - - O - -
+              RLIMIT - - S - S - -
+             PACKAGE - - - - X - -
+                NAME - - - - S - -
+                 MAN - - - - X - -
+            ANYTHING - - - - O - -
+                 USE - - - - - O -
+/ETC/SECURITY/LIMITS - - - - - X -
+                 PAM - - - - - X -
+               LOGIN - - - - - X -
+               LIMIT - - - - - X -

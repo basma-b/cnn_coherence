@@ -1,0 +1,34 @@
+                   * O - -
+          RESOLUTION X - -
+        INSTALLATION X - -
+              THERES X - -
+                 WAY X - -
+ /ETC/X11/XF86CONFIG O - -
+                LIST X - -
+                LINE O - -
+               VIDEO X - -
+                CARD S - -
+               ISSUE O - -
+         VERTREFRESH X - -
+           HORIZSYNC X - -
+                 CUS X - -
+             DRIVERS X - -
+              MEMORY X - -
+               LIMIT X - -
+                DKPG O - -
+     XSERVER-XFREE86 S S -
+                 ONE X - -
+             COMMAND S O -
+                SUDO X X X
+                YEAH S - -
+             SYNTHAX O - -
+               FIRST - S -
+              MD5SUM - X -
+/ETC/X11/XF86CONFIG-4 - X -
+                   > - X -
+/VAR/LIB/XFREE86/XF86CONFIG-4.MD5SUM - O -
+                 SUM - X -
+                CANT - X -
+                  SU - O -
+               FDISK - - X
+                  -L - - O

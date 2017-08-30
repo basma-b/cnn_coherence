@@ -1,0 +1,17 @@
+                HDA2 - O - - -
+             MESSAGE - O - - -
+               PIECE - - X - -
+            SOFTWARE - - X - -
+                 USE - - X - -
+             WINDOWS - - - O -
+                WORK - - - X -
+           DIRECTORY - - - S -
+           PARTITION - - - X -
+/ETC/SSH/SSHD_CONFIG - - - S -
+                FILE - - - S -
+              SERVER - - - S -
+                PORT - - - O -
+              CLIENT - - - S -
+                SUDO - - - - X
+             APT-GET - - - - S
+LINUX-BACKPORTS-MODULES - - - - O

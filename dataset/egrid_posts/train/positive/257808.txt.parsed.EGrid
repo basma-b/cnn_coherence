@@ -1,0 +1,26 @@
+                NTFS X - - - - - - -
+            TUTORIAL S - - - - - - -
+              SCRIPT X - - O - - - -
+               HTTPS X - - - - - - -
+HEAD-7D5DA05389CE1C069142EFFBA13BC3FF1E71D7BB X - - - - - - -
+               FDISK - X - - - - - -
+                  -L - S - - - - - -
+               ENTRY - O - - - - - -
+           /DEV/HDD1 - S - - - - - -
+                   * - X - - - - - -
+           HPFS/NTFS - X - - - - - -
+              DEVICE - X - - - - - -
+           PARTITION - O - - - - - O
+              ANYONE - - X - - - - -
+                   U - - - S - - - S
+               SETUP - - - X - - - -
+          /ETC/FSTAB - - - X - - - -
+               THERE - - - - - S - -
+            EXISTANT - - - - - O - -
+              NOAUTO - - - - - - - X
+                  RO - - - - - - - X
+                USER - - - - - - - X
+            NLS=UTF8 - - - - - - - X
+           UMASK=007 - - - - - - - X
+                MESS - - - - - - - O
+              SYSTEM - - - - - - - X

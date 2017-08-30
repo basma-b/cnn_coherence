@@ -1,0 +1,11 @@
+              KERNEL O - - - - -
+            SYNAPTIC - O - - - -
+             ATHEROS - X S - - -
+              DRIVER - - O - - S
+              DEVICE - - X - - -
+                WLAN - - X - - -
+                CARD - - X - - -
+                 USB - - X - - -
+              AR5523 - - X - - -
+            DEFAULT/ - - - - - X
+               LINUX - - - - - X

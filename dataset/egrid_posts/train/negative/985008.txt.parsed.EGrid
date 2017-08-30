@@ -1,0 +1,12 @@
+             COMMAND O - -
+            VERSIONS O - -
+                 GCC X - -
+             GCC-3.4 - O -
+             DEFAULT - X -
+            COMPILER - S -
+               GCC-3 - S -
+               GCC-4 - X -
+                LINK - O -
+        /USR/BIN/GCC - S -
+             VERSION - O -
+                MATE - - X

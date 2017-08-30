@@ -1,0 +1,26 @@
+                 TAR X - -
+        EXCLUDE=/SYS X - -
+                COPY X - -
+          EVERYTHING X O -
+                MOST - S -
+                 USE - X -
+              BACKUP - X -
+             CONTENT - X -
+                /SYS - X -
+                 UHM - - S
+             PROBLEM - - S
+                 ONE - - S
+                FILE - - X
+               OTHER - - X
+               ERROR - - O
+/HOME/DANY/TOCOMPILE/KINECT-APPS-PLAYGROUND-FINGERTIP-DETECTION/SIMPLE_GESTURE.CC - - O
+           REFERENCE - - O
+    FEATUREEXTRACTOR - - X
+             PROCESS - - X
+                CHAR - - X
+                   * - - X
+                 INT - - X
+               CONST - - X
+              RETURN - - O
+                EXIT - - X
+              STATUS - - S

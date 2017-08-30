@@ -1,0 +1,15 @@
+                 MBR S X - - - - - - - X
+              MASTER X - - - - - - - - -
+                BOOT X - X X - - - - - -
+              RECORD O - - - - - - - - -
+          BOOTLOADER S O - S - - - - - -
+                 INT O - - - - - - - - -
+                GRUB - O - - - - - - - S
+             WINDOWS - X X X - - - - - -
+              WINDOW - X - - - - - - - -
+           PARTITION - X - - - - - - - -
+              LOADER - - S - - - - - - -
+                 USE - - O O - - - - - -
+                LINK - - - - - - X - - -
+               TODAY - - - - - - - - X -
+               PLACE - - - - - - - - - X

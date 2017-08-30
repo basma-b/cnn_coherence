@@ -1,0 +1,12 @@
+             COMMAND X - - - - - - - -
+             STARTUP X - - - - - - - -
+             MESSAGE O - - - - - - - -
+            COMPUTER X - - - - - - - -
+                BOOT X - - - - - - - -
+                 TRY - X - - - - - - -
+                SUDO - X - - - - - - -
+                 CAT - X - - - - - - -
+       /VAR/LOG/BOOT - S - - - - - - -
+               DMESG - O - - - - - - -
+                 ONE - - X - - - - - -
+              THANKS - - - X - - - - -

@@ -1,0 +1,14 @@
+                EXT3 X - - - -
+             WINDOWS X X X - -
+              READER - S - - -
+                GRUB - - X - -
+              UBUNTU - - X - -
+           PARTITION - - X - -
+                BOOT - - X - X
+              LOADER - - S - -
+                  CD - - X - -
+                   | - - - S -
+               TABLE - - - - O
+                  HD - - - - X
+            SELECTOR - - - - X
+           SOLUTIONS - - - - X

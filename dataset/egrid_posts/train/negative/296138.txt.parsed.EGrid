@@ -1,0 +1,8 @@
+              KERNEL O - -
+             SUPPORT X - -
+                LOAD X - -
+               LSMOD - X -
+                   | - S -
+               CYCLE - - S
+              RETURN - - X
+           INTERFACE - - X

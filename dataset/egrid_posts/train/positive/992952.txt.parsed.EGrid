@@ -1,0 +1,13 @@
+               E1000 O - - - - - - - -
+                ETH0 O - - - X - - - -
+                PING - S - - - - - - -
+                HOST - X - - - - - - -
+         UNREACHABLE - O - - - - - - -
+         SUGGESTIONS - - X - - - - - -
+            IFCONFIG - - - X - - - - -
+                IFUP - - - X - - - - -
+             DEFAULT - - - - X X - - -
+               ROUTE - - - - X X - - -
+                THAT - - - - - - - S -
+               LEASE - - - - - - - X -
+              STATIC - - - - - - - - X

@@ -1,0 +1,22 @@
+        REPOSITORIES S - - - - -
+    BREEZY-BACKPORTS - S - - - -
+                 SET - - X - - -
+              ERRORS - - X - - -
+                   W - - X - - -
+                STAT - - O - - -
+              SOURCE - - X - - -
+             PACKAGE - - X - - -
+                LIST - - X - - -
+                HTTP - - O - - -
+   BREEZY/MULTIVERSE - - X - - -
+            PACKAGES - - O - - -
+/VAR/LIB/APT/LISTS/US.ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_BREEZY_MULTIVERSE_BINARY-I386_PACKAGES - - X - - -
+                  NO - - X - - -
+                FILE - - X - - -
+           DIRECTORY - - X - - -
+                 USB - - - S - X
+                THAT - - - - - X
+               STICK - - - - - X
+                 ISO - - - - - X
+                BOOT - - - - - X
+              DEVICE - - - - - X

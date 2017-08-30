@@ -1,0 +1,14 @@
+             COMMAND O - O -
+                FILE O - - -
+           DIRECTORY X - - -
+       NEW/LOCATION/ - - O -
+            FILENAME - - X -
+                 MAN - - X -
+                PAGE - - S -
+                HELP - - S -
+            OVERVIEW - - X -
+         DESCRIPTION - - O -
+               LSPCI - - - X
+                   | - - - X
+                GREP - - - X
+                 VGA - - - X

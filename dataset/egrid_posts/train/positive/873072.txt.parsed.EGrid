@@ -1,0 +1,15 @@
+               SETUP X - - -
+                BOOT X - - -
+              SYSTEM O - - -
+                 WIN X - - -
+              UBUNTU X - - -
+                GRUB X - - -
+               POINT X - - -
+            RECOVERY X - - -
+           PARTITION X - - -
+                THAT - X - -
+            GRUB.CFG - X - -
+               START - - X -
+   /ETC/DEFAULT/GRUB - - X -
+           /BOOT/FOO - - S -
+             POINTER - - - X

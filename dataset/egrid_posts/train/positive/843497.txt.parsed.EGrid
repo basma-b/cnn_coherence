@@ -1,0 +1,11 @@
+          BOOTLOADER O - - - -
+          BOOTSECTOR X - - - -
+           PARTITION X - - - O
+        GRUB-INSTALL - O - - -
+                SUDO - X - - -
+            DEV/SDA1 - X - - -
+                SDA1 - - S - -
+               10.10 - - O - -
+            /DEV/SDA - - - X -
+                CASE - - - X -
+              DEVICE - - - - X

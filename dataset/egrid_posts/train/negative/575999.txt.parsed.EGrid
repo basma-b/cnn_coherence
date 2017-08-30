@@ -1,0 +1,13 @@
+                EXT3 O - - - - -
+                EXT4 X - - - - -
+           DRAWBACKS O - - - - -
+                FILE - S S - - -
+             BENEFIT - O - - - -
+               /BOOT - - - S O -
+                SOME - - - O - -
+                GRUB - - - S - -
+            PROBLEMS - - - - O -
+                ROOT - - - - S -
+                   / - - - - X -
+                DISK - - - - - X
+                  VM - - - - - X

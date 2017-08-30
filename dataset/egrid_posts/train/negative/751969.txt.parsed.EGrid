@@ -1,0 +1,12 @@
+             SOMEONE X X - -
+              NVIDIA X X X -
+              DRIVER O O - -
+                BOOT X X X -
+                LOAD - - O -
+                   > - - X -
+            HARDWARE - - X -
+             DRIVERS - - O -
+              OPTION - - O -
+              MOMENT - - - X
+                FILE - - - O
+    DPKG-RECONFIGURE - - - X

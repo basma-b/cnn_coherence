@@ -1,0 +1,9 @@
+               UMASK X - - - -
+                NTFS X - - - -
+              DRIVER X - - - -
+                  .. - O - - -
+           UMASK=022 - - X - -
+                CODE - - - O -
+             DEFAULT - - - X -
+               MOUNT - - - X -
+             OPTIONS - - - O -

@@ -1,0 +1,15 @@
+            QUESTION O - - - - - - -
+             SOMEONE - X - - - - - -
+/USR/SBIN/BLUETOOTHD - S - - - - - -
+              FOLDER - X - - - - - -
+        SYSV-RC-CONF - - S - - - - -
+           BLUETOOTH - - O - - - - -
+             SERVICE - - X - - - - -
+               NOOBS - - - X - - - -
+              UBUNTU - - - - S - - -
+             UPSTART - - - - O - - -
+          /ETC/INIT/ - - - - - O - -
+               MATCH - - - - - X - -
+                FILE - - - - - X - -
+                THAT - - - - - - - S
+               UNITY - - - - - - - O

@@ -1,0 +1,16 @@
+               LSPCI O - -
+            ETHERNET X - -
+          CONTROLLER X - -
+                LIST O - -
+                WORK X - -
+            THINKPAD X - -
+                CORP X - -
+              DRIVER X - -
+                E100 - O -
+            ANYTHING - - O
+             DEFAULT - - S
+                  OK - - O
+            EEPRO100 - - O
+                CARD - - O
+            DHCLIENT - - O
+            INTERNET - - X

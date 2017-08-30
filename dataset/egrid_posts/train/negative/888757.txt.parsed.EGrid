@@ -1,0 +1,13 @@
+             SUPPORT X - - - -
+            SWAPFILE X O - - -
+              SWAPON - S - - -
+            FUNCTION - S - S -
+                FILE - X S O -
+           PARTITION - X - - -
+           FALLOCATE - - X - -
+              MKSWAP - - O - -
+                  DD - - - X -
+        IF=/DEV/ZERO - - - X -
+                BLAH - - - X -
+              RESULT - - - X -
+             EXPERTS - - - - X

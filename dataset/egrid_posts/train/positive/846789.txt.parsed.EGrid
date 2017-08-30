@@ -1,0 +1,11 @@
+                EXT4 O O -
+               WIDOW X - -
+                NTFS X O -
+              FORMAT X - -
+                  OS O - -
+         FILESYSTEMS - O -
+                PROB - - O
+                BOOT - - X
+                GRUB - - S
+             DEFAULT - - X
+              LOADER - - O

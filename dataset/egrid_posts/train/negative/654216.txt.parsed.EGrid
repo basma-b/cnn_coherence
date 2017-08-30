@@ -1,0 +1,27 @@
+             COMMAND X - - - - - -
+                 HDD O - - - - - -
+                SUDO - X - X - - -
+               FDISK - X - - - - -
+                  -L - S - - - - -
+                WUBI - X - - - - -
+                THAT - - S - - - -
+                 USE - - X - - - -
+               ISSUE - - O - - - -
+                WGET - - S - - - -
+         ENVIRONMENT - - X - - - -
+         COMMANDLINE - - X - - - -
+               PROXY - - O - - - -
+                SAME - - O - - - -
+             CONTEXT - - X - - - -
+              CONFIG - - S - - - -
+                LYNX - - X S - - -
+             BROWSER - - X - - - -
+         SHADOW-WOLF - - - S - - -
+            SOFTWARE - - - O - - -
+                SOME - - - X - - -
+              REASON - - - X - - -
+         PERMISSIONS - - - S - - -
+./HOME/DEPLOY/SCRIPT.SH - - - - - X -
+           SOMETHING - - - - - - O
+                BASH - - - - - - X
+/HOME/DEPLOPY/SCRIPT.SH - - - - - - X

@@ -1,0 +1,17 @@
+            SENTENCE - X - - - - - -
+            RESPONSE - - O - - - - -
+     UBUNTU-OFFTOPIC - - X - - - - -
+               LSMOD - - - - S - - -
+                 ANY - - - - O - - -
+                LOAD - - - - X - - -
+               MOUSE - - - - - S - X
+                WORK - - - - - O - -
+                SHOW - - - - - - - X
+               DMESG - - - - - - - X
+                THIS - - - - - - - X
+               INPUT - - - - - - - X
+             HIDRAW0 - - - - - - - X
+                 USB - - - - - - - S
+            LOGITECH - - - - - - - X
+            RECEIVER - - - - - - - S
+USB-0000:00:1A.0-1.2/INPUT0 - - - - - - - X

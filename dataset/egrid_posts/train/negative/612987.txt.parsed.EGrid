@@ -1,0 +1,16 @@
+                   A X - - - -
+                  SU S S - - -
+              PCSPKR X - - - -
+                   > X - - - -
+/ETC/MODPROBE.D/BLACKLIST.CONF X - - - -
+          PERMISSION O - - - -
+                 USE X - - - -
+                ROOT - X X - -
+             ACCOUNT - S - - -
+             DEFAULT - X - - -
+              UBUNTU - X - - -
+                SUDO - - X - -
+                  -S - - O - -
+               SHELL - - X - -
+              EXTRAS - - - - S
+              SYSTEM - - - - X

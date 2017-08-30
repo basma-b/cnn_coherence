@@ -1,0 +1,16 @@
+             MONITOR S - - - - - - - - - -
+             REFRESH X - - - - - - - - - -
+                RATE O O - - - - - - - - -
+                75HZ X - - - - - - - - - -
+            1024X768 X - - - - - - - - - -
+                 RAT X - - - - - - - - - -
+           XORG.CONF X - - - O - O - X - -
+                60HZ - S - - - - - - - - -
+                 ONE - - - X - X - - - - -
+              UBUNTU - - - X - X - - - - -
+                  CD - - - X - X - - - - -
+                BOOT - - - - - X - - - - -
+          PERMISSION - - - - - - - - X - -
+                ROOT - - - - - - - - - - X
+                 RUN - - - - - - - - - - X
+              SYSTEM - - - - - - - - - - X

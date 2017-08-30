@@ -1,0 +1,11 @@
+             ADDRESS X X - -
+           INTERFACE X X - -
+                BOOT X - - -
+              ETH0:1 X - - -
+                ETH0 - O - O
+                 WAY - X - X
+                 USE - X - -
+                 ADD - - - O
+                ADDR - - - S
+              STANZA - - - X
+/ETC/NETWORK/INTERFACES - - - X

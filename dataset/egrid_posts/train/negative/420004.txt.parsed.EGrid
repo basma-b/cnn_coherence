@@ -1,0 +1,13 @@
+             MPLAYER O X - -
+             PACKAGE X - - -
+       LIBVO/LIBVO.A O - - -
+        X11_COMMON.O X - - -
+            FUNCTION X - - -
+VO_X11_CREATE_COLORMAP X - - -
+        X11_COMMON.C X - - -
+         .TEXT+0X2A4 X - - -
+           REFERENCE X - - -
+     XCREATECOLORMAP X - - -
+                IDEA X - - -
+                REPO - - X -
+               VIDEO - - - O

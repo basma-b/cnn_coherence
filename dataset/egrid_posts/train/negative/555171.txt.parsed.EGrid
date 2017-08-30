@@ -1,0 +1,17 @@
+                 USE X - - - -
+                TYPE X - - - -
+         FMASK/DMASK - S - - -
+               MOUNT - O - - -
+             OPTIONS - O - - -
+               HTTPS - O - - -
+//HELP.UBUNTU.COM/COMMUNITY/AUTOMATICALLYMOUNTPARTITIONS - O - - -
+              COUPLE - O - - -
+                DAYS - X - - -
+              DEVICE - S - - -
+             NTFS-3G - - O - -
+                 RUN - - - S -
+                8.10 - - - O -
+          PROPERTIES - - - S -
+               OWNER - - - X -
+                ROOT - - - O -
+               THANK - - - - X

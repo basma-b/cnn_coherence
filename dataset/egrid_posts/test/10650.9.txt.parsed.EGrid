@@ -1,0 +1,42 @@
+             PROBLEM X - - - - - - - - - - -
+             PACKAGE X - - S - - - - - - - -
+             MANAGER X - - - - - - - - - - -
+                  .. X - - - - - - - - - - -
+              ERRORS - S - - - - - - - - - -
+           ENCOUNTER - X - - - - - - - - - -
+             PROCESS - X - - - - - - - - - -
+/VAR/CACHE/APT/ARCHIVES/FONTCONFIG-CONFIG_2.8.0-3UBUNTU9.1_ALL.DEB - X - - - - O - X - - -
+                DPKG - X - X - - - - X - - -
+               ERROR - X - - - - - - - - - -
+              UNPACK - X - - - - - - - - - -
+./ETC/FONTS/CONF.D/README - X - - - - - - - - - -
+            ARGUMENT - O - - - - - - - - - -
+                 FIX - O - - - - - - - - - -
+               THERE - - X - - - - - - - - -
+                 BUG - - X - - - - - - - S -
+              REPORT - - X - - - - - - - - -
+             RELEASE - - - X - - - - - - - -
+               ISSUE - - - O - - - - - - - -
+            PASTEBIN - - - S - - - - - - - -
+              OUTPUT - - - O - - - - - - - -
+                SUDO - - - X - - X - X - - -
+             APT-GET - - - X - - - - - - - -
+                  -F - - - X - - - - - - S -
+         LSB_RELEASE - - - X - - - - - - - -
+                  -A - - - S - - - - - - - -
+              THANKS - - - X - - - - - - - -
+                HTTP - - - X - - - - - - - -
+//PASTIE.ORG/PRIVATE/3WTI9OEU1MEHYM2ZOES6JA - - - S - - - - - - - -
+                  CD - - - X - - - - - - - -
+                   / - - - X - - - - - - - -
+                FILE - - - - X X O O - - S -
+/ETC/FONTS/CONF.D/README - - - - X - O - - - - -
+   /ETC/FONTS/CONF.D - - - - - S - - - - - -
+              FOLDER - - - - - X - - - - X -
+               TOUCH - - - - - - X - - - O -
+          DIFFERENCE - - - - - - S - - - - -
+           INSTALLER - - - - - - - O - - - -
+                 DEB - - - - - - - O - - - -
+                 RUN - - - - - - - - - - O -
+          FILESYSTEM - - - - - - - - - - O -
+                USER - - - - - - - - - - X -

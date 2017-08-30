@@ -1,0 +1,11 @@
+                 ONE X - - - -
+ACPI_ENFORCE_RESOURCES=LAX X - - - -
+                BOOT X - - - -
+           PARAMETER O - - - -
+                THAT - X - - -
+   /ETC/DEFAULT/GRUB - X - - -
+                  OK - O - - -
+                LINE - - X - -
+GRUB_CMDLINE_LINUX_DEFAULT - - X - -
+                 SAY - - - - X
+              SPLASH - - - - X

@@ -1,0 +1,12 @@
+              CHANGE O - -
+         XORG.CONFIG X - -
+            SAFEMODE - X -
+                MODE - X -
+          BACKGROUND - X -
+ S/SAFEMODE/FAILSAFE - O -
+             COMMAND - X -
+                SUDO - X -
+    DPKG-RECONFIGURE - X -
+        XSERVER-XORG - O -
+                  GO - - X
+                   S - - X

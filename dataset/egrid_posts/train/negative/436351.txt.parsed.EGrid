@@ -1,0 +1,16 @@
+                SWAP O X X - -
+               DRIVE S - - - -
+                DATA O - - - -
+              SYSTEM X - - - -
+                WONT S - - - -
+                WHAT - X - - -
+                BOOT - - X - -
+                CANT - - X - -
+           PARTITION - - O - -
+          FILESYSTEM - - X - -
+                TYPE - - S - -
+                 WAY - - X - -
+               ERROR - - S - -
+            RESEARCH - - S - -
+                CASE - - X - -
+        DIST-UPGRADE - - - - X

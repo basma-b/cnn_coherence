@@ -1,0 +1,13 @@
+                BASH X - - X - - -
+             COMMAND X - - - - - -
+             PACKAGE - X - X O - -
+              SYSTEM - - O - - - -
+           DOWNGRADE - - - X - - -
+               BREAK - - - - X - -
+                SUDO - - - - X - -
+             APT-GET - - - - S - -
+EXACT-PACKAGE-NAME_WITH-VERSION - - - - X - -
+         AUTO-UPDATE - - - - X - -
+                HELP - - - - - - X
+                 PIN - - - - - - O
+                IIRC - - - - - - X

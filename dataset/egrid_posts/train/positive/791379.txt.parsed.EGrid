@@ -1,0 +1,35 @@
+             PROBLEM X - - - - - - - - - - - - - - - -
+              SERVER - S - X - - - - - - - - X - - - -
+               ISSUE - - X - - - - - - - - - - - - - -
+               ERROR - - - X - - - - - - - - - - S - -
+             MESSAGE - - - S - - - - - - - - - - - - -
+                 RSA - - - X - - - - - - - - X - - - -
+         CERTIFICATE - - - S - - - O - - - - X - - - -
+    BASICCONSTRAINTS - - - X - - - - - - - - - - - - -
+               GUIDE - - - - - - X - - - - - - - - - -
+                   A - - - - - - - X - - - - - - - - -
+               SETUP - - - - - - - O - X - - - - - - -
+                FILE - - - - - - - X - - - - - - - - -
+     /ETC/PORTS.CONF - - - - - - - X - - - - - - - - -
+          /ETC/HOSTS - - - - - - - X - - - - - - - - -
+/ETC/APACHES/SITES-AVAILABLE/API.ABC.CONF - - - - - - - S - - - - - - - - -
+                SELF - - - - - - - X - - - - - - - - -
+                SIGN - - - - - - - X - - - - - - - - -
+/ETC/APACHE2/PORTS.CONF - - - - - - - - O - - - - - - - -
+                 YEP - - - - - - - - S - - - - - - - -
+               GUEST - - - - - - - - X - - - - - - - -
+                 SET - - - - - - - - O - - - - - - - -
+                THAT - - - - - - - - - O - O - - - - X
+                   U - - - - - - - - - X - - - - - - X
+                LINK - - - - - - - - - X - - - - - - -
+                HTTP - - - - - - - - - - O - - - - - -
+//WWW.TC.UMN.EDU/~BRAMS006/SELFSIGN.HTML - - - - - - - - - - S - - - - - -
+              RESULT - - - - - - - - - - - O - - - - -
+                THIS - - - - - - - - - - - - O - - - -
+          COMMONNAME - - - - - - - - - - - - S - - - -
+                  CN - - - - - - - - - - - - X - - - -
+                MAIL - - - - - - - - - - - - X - - - -
+                NAME - - - - - - - - - - - - O - - - -
+                PAGE - - - - - - - - - - - - - - X - -
+                HOST - - - - - - - - - - - - - - O - -
+                PORT - - - - - - - - - - - - - - X - -

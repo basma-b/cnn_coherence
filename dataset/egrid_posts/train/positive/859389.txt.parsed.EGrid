@@ -1,0 +1,13 @@
+                DISK - S - - -
+                 USE - O - - -
+            /DEV/SDA - X - - -
+                EXT4 - X - - -
+          FILESYSTEM - X - - -
+              DEVICE - X - - -
+                THIS - - X - -
+           /DEV/SDA1 - - X - -
+           SOMETHING - - X - -
+                WORD - - - X -
+           PARTITION - - - O -
+                THAT - - - - S
+               POINT - - - - O

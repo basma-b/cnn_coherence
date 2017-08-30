@@ -1,0 +1,12 @@
+                USER S - - -
+                 SSH O - - -
+             MACHINE X - - -
+              ANYONE X - - -
+              ACCESS O - - -
+                SSHD - S - X
+         X:112:65534 - S - X
+       /VAR/RUN/SSHD - S - X
+                  RE - S - -
+               SETUP - X - -
+                NEED - X - -
+   /USR/SBIN/NOLOGIN - - - X

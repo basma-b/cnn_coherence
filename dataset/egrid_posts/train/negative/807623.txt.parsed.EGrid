@@ -1,0 +1,16 @@
+             PRINTER O - - - - -
+       CONFIGURATION X - - - - -
+                FILE X - - - - -
+                THIS - X - - - -
+      POSTPROCESSING - - X - - -
+              SCRIPT - - O - - -
+              SYSTEM - - - X - -
+                   > - - - X - -
+               ADMIN - - - X - -
+                  .. - - - X - -
+            PRINTERS - - - X - -
+       ~/.SSH/CONFIG - - - - - S
+                USER - - - - - X
+                BASE - - - - - X
+              CONFIG - - - - - O
+/ETC/SSHD/SSH_CONFIG - - - - - S

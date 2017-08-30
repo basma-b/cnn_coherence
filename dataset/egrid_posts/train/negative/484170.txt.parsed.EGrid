@@ -1,0 +1,27 @@
+               THERE S - - -
+                 ANY O - - -
+                 WAY X - - -
+             PROCESS S - S -
+              SIGINT X - - -
+             SIGKILL S - - -
+              SYSTEM X - - -
+            SHUTDOWN X - - -
+             MESSAGE X - - -
+                FACT - S - -
+                 LOG - O - -
+              SYSLOG - X - -
+            /VAR/LOG - X - -
+                   * - O - -
+              SIGNAL - O - -
+                SEND - O - -
+             SIGTERM - - O -
+                NEED - - X -
+             PACKAGE - - - O
+                 COC - - - O
+                TEST - - - X
+               HTTPS - - - X
+//HELP.UBUNTU.COM/COMMUNITY/GNUPRIVACYGUARDHOWTO - - - X
+           LAUNCHPAD - - - X
+                   % - - - X
+               20KEY - - - X
+           20SIGNING - - - X

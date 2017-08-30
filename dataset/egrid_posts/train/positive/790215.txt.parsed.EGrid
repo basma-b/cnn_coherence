@@ -1,0 +1,14 @@
+                SUDO X - -
+              UMOUNT X - -
+           /DEV/SDA2 S - -
+                  DF O S -
+                SHOW O - -
+           PARTITION X - -
+               SETUP O - -
+              OTHERS S - -
+                SDA2 S - -
+               ERROR X - -
+                AUFS - O -
+               TMPFS - S -
+                FSCK - - O
+                USER - - X

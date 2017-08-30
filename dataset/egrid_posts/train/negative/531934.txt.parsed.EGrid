@@ -1,0 +1,20 @@
+        XSERVER-XORG S - - - -
+           XORG.CONF O - - - -
+              OPTION X - - - -
+ALLOWGLXWITHCOMPOSITE X - - - -
+                DROP X - - - -
+                THIS - X - - -
+             MONITOR - - X - -
+                  HW - - X - -
+            GEFORCE2 - - X - -
+                  MX - - X - -
+                 USE - - X - -
+       NVIDIA-LEGACY - - X - -
+             DRIVERS - - X - -
+             SAMSUNG - - X - -
+          SYNCMASTER - - S - -
+             DISPLAY - - X - -
+            SETTINGS - - O - -
+                  .. - - - - O
+                 MSN - - - - X
+             WINDOWS - - - - X

@@ -1,0 +1,17 @@
+                CLUE X - - -
+                CANT X - - -
+                MAIL O - - -
+                 FEB - X - -
+       POSTFIX/SMTPD - X - -
+               -LSB- - X - -
+               -RSB- - X - -
+             NOQUEUE - X - -
+              REJECT - X - -
+                RCPT - X - -
+                   < - X - -
+                TEST - X - -
+            MAIL.COM - X - -
+                   > - S - -
+              ACCESS - S - -
+           LOCALHOST - X - -
+                 USE - O - -

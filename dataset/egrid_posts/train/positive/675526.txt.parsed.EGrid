@@ -1,0 +1,17 @@
+               MOUNT X - - - -
+               POINT X - - - -
+               SSHFS X X - - -
+                 RRW - X - - -
+             JAYCOOL - S - - -
+                 WTF - S - - -
+ /PATH/TO/MOUNTPOINT - - S O -
+          MOUNTPOINT - - O - -
+              UMOUNT - - - X -
+             UNMOUNT - - - S -
+             COMMAND - - - X -
+ /HOME/NATHAN/MURRAY - - - S -
+              ACCORD - - - S -
+                MTAB - - - X -
+              CJCOPI - - - S -
+               THATS - - - - S
+          DISCONNECT - - - - S

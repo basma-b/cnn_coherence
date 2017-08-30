@@ -1,0 +1,16 @@
+                 ALL O - - - - -
+              ANYONE X - - - - -
+                ACPI O - - - - -
+              SCRIPT - O - - - -
+           /ETC/ACPI - X - - - -
+       FUNCTIONALITY - O - - - -
+              KERNEL - O - - - -
+              MODULE - O - - - -
+                LOAD - X - - - -
+              REBOOT - X - - - -
+                  .. - X - - - -
+                 TOP - - X - - -
+                HEAD - - X - - -
+                  IM - - S - - -
+              EXPERT - - X - - -
+              NERNEL - - O - - -

@@ -1,0 +1,15 @@
+                CALL O - - - - -
+              SCRIPT S - - - - -
+/ETC/INIT.D/BOOTMISC.SH X - - - - -
+               SAMBA X - - - - -
+               SHARE O - - - - -
+                BOOT X X - - - X
+          PERMISSION X - - - - -
+                ROOT X - - - - -
+                IDEA - X - - - -
+               FSTAB - - X - - -
+             SYMLINK - - - S - -
+             SUGGEST - - - X - -
+              COURSE - - - X - -
+                GRUB - - - - - O
+ /BOOT/GRUB/MENU.LST - - - - - X

@@ -1,0 +1,25 @@
+              DOESNT X - - - -
+                LOAD O - - - -
+                BOOT X - - - -
+             NETWORK X X - - -
+             MANAGER X - - - -
+          MONKEYDUSK S - - - -
+             VERSION X - - - -
+              UBUNTU X - - - -
+/ETC/NETWORK/INTERFACES - S - - -
+          NAMESERVER - X - - -
+             X.X.X.X - X - - -
+                LINE - O - - -
+         RESOLV.CONF - X - - -
+          EVERYTHING - X - - -
+                WORK - X - - -
+              REBOOT - S - - -
+              DAEMON - O - - -
+                SUDO - X - - -
+/ETC/INIT.D/NETWORK/INTERFACES - S - - -
+                THAT - - - S -
+         PERMISSIONS - - - S -
+              SYSTEM - - - X X
+                THIS - - - - S
+                 UID - - - - X
+               MATCH - - - - X

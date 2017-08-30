@@ -1,0 +1,7 @@
+       X11/XORG.CONF O -
+                FILE S -
+                 BUS O -
+                DONT S -
+       CONFIGURATION O -
+                XORG X -
+               THANK - X

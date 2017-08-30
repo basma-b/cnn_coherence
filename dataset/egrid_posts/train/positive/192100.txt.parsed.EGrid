@@ -1,0 +1,15 @@
+                  DD X - - -
+         IF=/DEV/HDA S - - -
+             COUNT=1 O - - -
+                 TAR - X - -
+              -CVPZF - X - -
+         /BACKUP.TGZ - O - -
+ EXCLUDE=/LOST+FOUND - X - -
+ EXCLUDE=/BACKUP.TGZ - O - -
+        EXCLUDE=/MNT - O - -
+        EXCLUDE=/SYS - X - -
+                   / - O - -
+                TALK - - O -
+              BACKUP - - X -
+                  .. - - X -
+               IMAGE - - - O

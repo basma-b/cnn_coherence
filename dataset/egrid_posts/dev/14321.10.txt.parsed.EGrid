@@ -1,0 +1,9 @@
+               PURGE X - -
+               NGNIX O - -
+                TIME - - X
+                SUDO - - X
+             APT-GET - - S
+            TERMINAL - - X
+                CANT - - X
+                   X - - X
+     NVIDIA-SETTINGS - - O

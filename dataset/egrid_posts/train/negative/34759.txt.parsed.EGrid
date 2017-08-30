@@ -1,0 +1,12 @@
+          DIRECTIONS O - - -
+                LINE O - - -
+        MODULES.CONF X - X -
+                LOAD O - - -
+                BOOT X - - -
+              KERNEL - X - -
+        /ETC/MODULES - - S -
+                BASE - - X -
+             DISTROS - - X -
+             COMMAND - - O -
+             MODULES - - O -
+             ONEIRIC - - - X

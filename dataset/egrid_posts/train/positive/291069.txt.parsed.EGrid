@@ -1,0 +1,16 @@
+               ENTRY S - -
+             UPSTART X - -
+              APACHE O - -
+               SAMBA X - -
+             MACHINE X - -
+         DIRECTORIES X - -
+              INIT.D X - -
+           SOMETHING X - -
+         UPDATE-RC.D X - -
+              NEWBIE O - -
+            RUNLEVEL S O -
+             DAEMONS O - -
+             DEFAULT X X -
+                   X - X -
+        /ETC/INITTAB - - X
+              DISTRO - - X

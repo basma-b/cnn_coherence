@@ -1,0 +1,11 @@
+                FILE X - - - - - -
+     ALLOW=127.0.0.1 O - - - - - -
+     NONLOCALHOSTERS - O - - - - -
+           SOMETHING - - O - - - -
+         DIRECTORIES - - - X - - -
+                   * - - - - S - -
+               CHMOD - - - - X X -
+                  -R - - - - - S -
+                 YEA - - - - - - X
+                 ALL - - - - - - X
+                   P - - - - - - X

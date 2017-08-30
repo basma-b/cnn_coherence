@@ -1,0 +1,31 @@
+                SUDO X X - - - - - - - -
+                ETH0 X - - - - - - - - -
+             NOTHING S - - - - - - - - -
+                IFUP O - - - - - - - - -
+/RUN/NETWORK/IFSTATE O - - - - - - - - -
+          PERMISSION X - - - - - - - - -
+                HELP X - - - - - - - - -
+/ETC/INIT.D/NETWORKING - S - - - - - - - -
+                WIRE - - X - - - X - - -
+           CONECTION - - S - - - - - - -
+                 WAY - - X - - - - - - -
+          CONTROLLER - - X - - X X - - -
+              DRIVER - - O - - - - - - -
+                  OK - - - - - X - - - -
+            ETHERNET - - - - - X X - - -
+              LAPTOP - - - - - X - - - -
+              UBUNTU - - - - - S - - - -
+                  PC - - - - - X X - - -
+                 LOT - - - - - O - - - -
+                LINE - - - - - X - - - -
+              NVIDIA - - - - - X X - - -
+         CORPORATION - - - - - X X - - -
+                 REV - - - - - X X - - -
+               MCP65 - - - - - - X - - -
+                 NIC - - - - - - O - - -
+                AUTO - - - - - - X - - -
+               CABLE - - - - - - S - - -
+          CONNECTION - - - - - - S - - -
+        ROUTER/MODEM - - - - - - X - - -
+                 POP - - - - - - X - - -
+              THUNAR - - - - - - - - - O

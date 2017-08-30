@@ -1,0 +1,16 @@
+                 ALL O - - -
+              BUNDLE O - - -
+             SCRATCH X - - -
+          FELIX-MAIN - O - -
+              UBUNTU - X - -
+       JAVA-WRAPPERS - S - -
+     FELIX-FRAMEWORK - O - -
+               ERROR - X - -
+             MESSAGE - S - -
+           FRAMEWORK - O - -
+ JAVA.LANG.EXCEPTION - X - -
+             FACTORY - O - -
+               THING - O O -
+                JAVA - - X -
+                   * - - O -
+                  OK - - - X

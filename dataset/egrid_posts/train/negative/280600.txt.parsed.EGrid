@@ -1,0 +1,14 @@
+             COMMAND X - -
+             XSERVER X - -
+                SUDO - X -
+         INVOKE-RC.D - S -
+                STOP - O -
+            COMPUTER - - X
+              SYSTEM - - X
+              CONFIG - - X
+                  .. - - X
+             NETWORK - - O
+               THERE - - S
+            ETHERNET - - X
+                CARD - - O
+             AGRAJAG - - O

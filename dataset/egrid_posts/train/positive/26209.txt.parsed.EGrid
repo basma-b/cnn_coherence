@@ -1,0 +1,15 @@
+             PROGRAM X - - - - - -
+              HELIO7 - O - - - - -
+              KERNEL - O - - - - -
+                ALSA - - X X - - -
+             MODULES - - S - - - -
+               MODEL - - - S - - -
+              2.6.11 - - - X - - -
+                THAT - - - - S - -
+      HOARY/UNIVERSE - - - - X - -
+         ALSA-SOURCE - - - - X - -
+                NEED - - - - - - O
+              OPTION - - - - - - X
+                   \ - - - - - - X
+               ORDER - - - - - - S
+                 HAL - - - - - - X

@@ -1,0 +1,13 @@
+                LAMP X - - -
+                 USE O - - -
+             COMMAND X - - -
+                SUDO X - - -
+             APT-GET S - - -
+        MYSQL-SERVER O - - -
+              APACHE X - - -
+          HTTPD.CONF X X S -
+             PHP.INI S X X -
+             ANYBODY - S - -
+/ETC/APACHE2/APACHE.CONF - - O -
+               XAMPP - - S -
+              UBUNTU - - X -

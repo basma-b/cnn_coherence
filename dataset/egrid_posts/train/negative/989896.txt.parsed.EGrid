@@ -1,0 +1,6 @@
+               ENTRY X - - - -
+           /DEV/LIRC - O - - -
+                SUDO - X - - -
+               TOUCH - X - - -
+               MKNOD - - X - -
+           SOMETHING - - O - -

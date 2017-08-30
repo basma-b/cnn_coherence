@@ -1,0 +1,10 @@
+         PERMISSIONS X - - O - - - - - -
+                 HDD S S - - O - - - - -
+                ROOT X X - - X - - - - -
+                  BE - - X - - - - - - -
+           DIRECTORY - - X X - - - - - X
+               CHMOD - - - O - - - - - -
+                   * - - - - S - - - - -
+              DEVICE - - - - S - - - - -
+                CASE - - - - - X - - - -
+                FILE - - - - - - O - - O

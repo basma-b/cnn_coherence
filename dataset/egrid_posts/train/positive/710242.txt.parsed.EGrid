@@ -1,0 +1,17 @@
+                TIME X - - - X -
+ /BOOT/GRUB/GRUB.CFG S O - - - -
+                  .. O - - - - -
+                FILE O - - - X -
+           OVERWRITE O - - - - -
+             DEFAULT X - - - - -
+         UPDATE-GRUB S - - - - -
+              SYSTEM X - - - X -
+              UPDATE O - - - - -
+              EFFECT - O - - - -
+                 YEP - - X - - -
+                 RUN - - - - S -
+                AUTO - - - - X -
+                PELO - - - - X -
+               THERE - - - - S -
+            VARIABLE - - - - O -
+   /ETC/DEFAULT/GRUB - - - - X -

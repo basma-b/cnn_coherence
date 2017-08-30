@@ -1,0 +1,13 @@
+              DISTRO X - X - - -
+                GRUB X - - - - X
+              LEGACY O - - - - -
+               GRUB2 O - - - O -
+                 END - X - - - -
+                GOAL - X - - - -
+                BOOT - - X - - -
+         UPDATE-GRUB - - - X - -
+           CHAINLOAD - - - - - X
+                LINE - - - - - S
+           SOMETHING - - - - - O
+                ROOT - - - - - X
+               HD0,2 - - - - - X

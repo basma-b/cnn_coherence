@@ -1,0 +1,13 @@
+        DEPENDENCIES X - - - - -
+                APPS X - - - - -
+              SYSTEM X - - - - -
+                SUDO - X - - - -
+             APT-GET - S - - - -
+                I386 - S - - - -
+          DEPENDENCY - X - - - -
+            CONFLICT - X - - - -
+           IA32-LIBS - - O - - X
+             PRECISE - - X - - X
+                INFO - - - - S -
+             PACKAGE - - - - - O
+            VARIANTS - - - - - X

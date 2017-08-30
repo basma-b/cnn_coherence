@@ -1,0 +1,13 @@
+           PARTITION X - - -
+            READABLE O - - -
+              REBOOT X - - -
+               STATE X - - -
+          /ETC/FSTAB S - - -
+                  RO O - - -
+             HISTORY - O - -
+               POWER - X - -
+              OUTAGE - X - -
+         POWEROUTAGE - - - X
+               THING - - - X
+          LIBSPLASHY - - - O
+             USPLASH - - - X

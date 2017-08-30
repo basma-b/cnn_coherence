@@ -1,0 +1,12 @@
+         GNOME-MEDIA O - - -
+              VOLUME X - - -
+             CONTROL X - - -
+              APPLET O - - O
+    INDICATOR-APPLET - - O -
+          EXECUTABLE - - O -
+            ANYTHING - - O -
+           DIRECTORY - - X -
+                 ONE - - - X
+               PANEL - - - X
+                HOOK - - - S
+                DAYS - - - X

@@ -1,0 +1,21 @@
+                HTTP X - - -
+                GRUB S O - -
+                MARK O - - -
+             REMOVAL X - - -
+              CONFIG X - - -
+                FILE S X - -
+               PURGE - X - -
+              SYSTEM - S - -
+                BOOT - X - -
+                CALL - X - -
+        /ETC/DEFAULT - X - -
+                DATA - X - -
+               GRUB2 - X - -
+               SETUP - X - -
+              FOLLOW - O - -
+/BOOT/GRUB/GRUB.CONF - X - -
+                 MBR - X - -
+        GRUB-INSTALL - S - -
+                STEP - X - -
+     I1915.MODESET=1 - - - X
+                LINE - - - X

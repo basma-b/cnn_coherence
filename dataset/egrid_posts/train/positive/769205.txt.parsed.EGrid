@@ -1,0 +1,16 @@
+                USER O X X - S - S
+              SERVER X - - - - - -
+            AUTH.LOG - - S - - - -
+                 PAM - - X - - - -
+             UNKNOWN - - S - - - -
+                THIS - - - X - - -
+                 USE - - - - X - -
+                 CAT - - - - X - -
+       /ETC/PASSWORD - - - - X - -
+                   | - - - - X - -
+                GREP - - - - S - -
+     YOURNEWUSERNAME - - - - X - -
+                SUDO - - - - X - -
+         NEWUSERNAME - - - - S - -
+            PASSWORD - - - - O - -
+         /ETC/PASSWD - - - - - - X

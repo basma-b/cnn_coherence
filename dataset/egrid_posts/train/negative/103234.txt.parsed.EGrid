@@ -1,0 +1,15 @@
+            IPTABLES X - - - - -
+          PREROUTING X - - - - -
+                 TCP X - - - - -
+               DPORT X - - - - -
+                  -J X - - - - -
+                DNAT X - - - - -
+      TO-DESTINATION X - - - - -
+                   < X - - - - -
+                THIS X - - - - -
+               THERE - X - - - -
+             ABILITY - X - - - -
+              CONFIG - X - - - -
+                FILE - O - - - -
+                 BOT - - - - O -
+                 LOL - - - - - X

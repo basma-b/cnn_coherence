@@ -1,0 +1,19 @@
+             DISPLAY X - - - - -
+           LIGHTNESS X - S O - -
+               ISSUE O - - - - -
+            NOTEBOOK X - - - - -
+               THERE - S - - - -
+              KERNEL - X - - - -
+              MODULE - O - - - -
+      FUJITSU-LAPTOP - X - - - -
+          BRIGHTNESS - - O - - -
+             CONSOLE - - X - - -
+/SYS/CLASS/BACKLIGHT/FUJITSU-LAPTOP/BRIGHTNESS - - X - - -
+             COMMAND - - - O - -
+                ROOT - - - X - -
+           PRIVLEGES - - - X - -
+                DONT - - - - - S
+                 ESD - - - - - O
+            ALSA/OSS - - - - - X
+               AUDIO - - - - - O
+                HELP - - - - - X

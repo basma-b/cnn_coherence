@@ -1,0 +1,28 @@
+              ACCESS X - - - - - -
+              LAPTOP X - - O - - -
+                   $ - X - - - - -
+                 SSH - S - - - O -
+             APT-GET - S - - - - -
+                  .. - X - - - - -
+               CHEER - X - - - - -
+                 GUY - X - - - - -
+                   D - X - - - - -
+                   * - S - - - - -
+               USAGE - S - - - - -
+     /ETC/INIT.D/SSH - X - - - - -
+             OPENBSD - X - - - - -
+               SHELL - X - - - - -
+              SERVER - X - - - - -
+                SSHD - X - - - - -
+                HOST - X - - - - -
+                 KEY - O - - - - -
+/ETC/SSH/SSH_HOST_RSA_KEY - S - - - - -
+/ETC/SSH/SSH_HOST_DSA_KEY - S - - - - -
+                SUDO - O - - - - -
+                  NO - O - - - - -
+             MACHINE - - X - X - -
+            TERMINAL - - - X - - -
+                 LAN - - - X - - -
+            FIREWALL - - - - X - -
+         COMMANDLINE - - - - - X -
+             ADDRESS - - - - - - X

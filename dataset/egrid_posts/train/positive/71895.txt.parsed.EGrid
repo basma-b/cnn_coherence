@@ -1,0 +1,14 @@
+            PROBLEMS O - - - - - - -
+                 DMA X - - - S - - -
+              WRITER X - - - - - - -
+            /DEV/FOO - X - - - - - -
+              DEVICE - O - - O - - -
+              ANYONE - - X - - - - -
+              HDPARM - - - X - - - -
+                 DVD - - - - X - - -
+                WORK - - - - X - - -
+              PLAYER - - - - S - - -
+                /DVD - - - - - S - -
+          /ETC/FSTAB - - - - - X - -
+        HDIO_SET_DMA - - - - - - - X
+          PERMISSION - - - - - - - S

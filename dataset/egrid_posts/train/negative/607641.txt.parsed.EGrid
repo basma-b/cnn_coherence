@@ -1,0 +1,13 @@
+ /ETC/INIT.D/APACHE2 X - - - - -
+              TSOCKS O - O - - -
+              DAEMON O - - - - -
+              SCRIPT - O - - - -
+             COMMAND - X O - - -
+               START - - X - - -
+              TSCOKS - - S - - -
+              CLIENT - - X - - -
+              APACHE - - X - - -
+              UBUNTU - - - - O -
+                HOST - - - - X X
+                  OS - - - - X O
+             WINDOWS - - - - - S

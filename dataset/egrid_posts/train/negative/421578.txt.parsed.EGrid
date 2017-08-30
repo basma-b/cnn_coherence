@@ -1,0 +1,25 @@
+                 ALL X - - - - -
+             6.06LTS O - - - - -
+              VMWARE X - - - - -
+                ROOT X - - - - -
+              SERVER X - - - - -
+             NETWORK - X - - - -
+               LOCAL - - O - - -
+           INTERFACE - - S - - -
+         192.168.2.1 - - O - - -
+                BOTH - - S - - -
+           EACHOTHER - - O - - -
+                  VM - - S - - -
+              ACCESS - - O - - -
+                 NET - - X - - -
+/ETC/NETWORK/INTERFACES - - X - - -
+             GATEWAY - - O - - -
+               ROUTE - - X - - -
+                SHOW - - O - - -
+                   * - - X - - -
+                   U - - X - - -
+                ETH1 - - S - - -
+            GATEAWAY - - S - - -
+                SUCH - - X - - -
+             CHIPSET - - - - - S
+         MOTHERBOARD - - - - - X

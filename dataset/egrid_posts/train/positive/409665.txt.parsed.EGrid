@@ -1,0 +1,13 @@
+            FIREWALL X - - - X
+              FSERVE O O - - -
+               BLOCK - X - - -
+                 ONE - S - - -
+           FIREWALLS - S - - -
+                THIS - X - - O
+                THAT - - X - -
+                 LOG - - X - -
+               TABLE - - X - -
+            IPTABLES - - X - -
+                HTTP - - - - S
+                   < - - - - X
+                   > - - - - O

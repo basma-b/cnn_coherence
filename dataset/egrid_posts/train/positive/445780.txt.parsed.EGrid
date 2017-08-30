@@ -1,0 +1,14 @@
+                FSCK O - - - -
+                THAT - X - - -
+               DRIVE - S - X -
+               MOUNT - O - - -
+             REMOUNT - - O - -
+           PARTITION - - S - -
+                SUDO - - S - -
+   /YOUR/MOUNT/POINT - - X - -
+                 RUN - - - X -
+              UBUNTU - - - X -
+              SYSTEM - - - - S
+                FILE - - - - X
+                WICH - - - - S
+             DEFAULT - - - - O

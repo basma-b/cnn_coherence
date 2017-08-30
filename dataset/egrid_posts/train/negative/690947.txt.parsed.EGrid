@@ -1,0 +1,11 @@
+                ROOT X X X - -
+               LOGIN X - - - -
+            PASSWORD X - O - -
+             DEFAULT - X - - -
+   UBUNTU-VM-BUILDER - X S - -
+             DISTROS - - S - -
+                 ONE - - O - -
+             APT-GET - - - S -
+               PURGE - - - X -
+                NEED - - - X -
+                WORK - - - - S

@@ -1,0 +1,10 @@
+                   | - S S - - -
+             APTLOCK - - X - - -
+                GOOD - - S - - -
+               FUSER - - X - - -
+  /VAR/LIB/DPKG/LOCK - - O - - -
+                SUDO - - - X - -
+                 SIR - - - X - -
+             APT-GET - - - X - -
+            WHATEVER - - - X - -
+              SOURCE - - - - - O

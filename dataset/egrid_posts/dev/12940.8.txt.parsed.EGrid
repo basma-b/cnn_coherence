@@ -1,0 +1,12 @@
+              SERVER O O - - -
+               XCHAT S - - - -
+              CLIENT X - - - -
+        192.168.2.17 S - - - -
+               IRSSI S - - - -
+           127.0.0.1 O - - - -
+             MACHINE S X - - -
+            FIREWALL X O - - -
+            IPTABLES - - S - -
+             COMMAND - - - O -
+             PROCESS - - - X -
+               GUIDE - - - - X

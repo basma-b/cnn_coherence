@@ -1,0 +1,31 @@
+           INDICATOR S - - - - -
+                 CAP X - - - - -
+                LOCK X - - - - -
+                 KEY S - - - - -
+            KEYBOARD S - - - - -
+                 ONE O - - - - -
+              ANYONE - X - - - -
+           SOMETHING - X - - - -
+                THIS - O - - - -
+    LOCK-KEYS-APPLET - - S - - -
+               RSYNC - - X - - -
+           ARGUMENTS - - X - - -
+             PACKAGE - - - - X -
+           INSTALLER - - - - O -
+                THAT - - - - - O
+                TYPE - - - - - O
+                SUDO - - - - - X
+                 -RF - - - - - X
+/VAR/CACHE/APT/ARCHIVES - - - - - X
+             APT-GET - - - - - X
+              UPDATE - - - - - X
+               CHECK - - - - - X
+                  -F - - - - - S
+                 RUN - - - - - X
+PVPGN-SUPPORT-INSTALLER - - - - - X
+                WORK - - - - - X
+                DPKG - - - - - O
+                  -A - - - - - S
+                LINK - - - - - O
+                HTTP - - - - - O
+//WWW.DEBIAN.ORG/DOC/MANUALS/APT-HOWTO/CH-ERROS.EN.HTML - - - - - O

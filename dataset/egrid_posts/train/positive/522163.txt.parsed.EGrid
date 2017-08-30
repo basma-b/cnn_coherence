@@ -1,0 +1,13 @@
+            LOCATION O -
+           RESENDING X -
+           LESSHASTE X -
+              SCRIPT S -
+             ADDRESS X -
+/USR/SHARE/XTRACEROUTE/XTRACEROUTE-RESOLVE-LOCATION.SH X -
+               GEOIP X S
+             SERVICE O -
+               THERE - S
+           LIBRARIES - O
+              SEARCH - X
+                ONES - X
+               REPOS - X

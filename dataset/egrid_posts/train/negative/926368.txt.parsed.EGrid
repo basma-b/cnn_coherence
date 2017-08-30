@@ -1,0 +1,17 @@
+             WINDOWS X - - - O
+           PARTITION X - - - -
+                 USE X - - - -
+               FSTAB O - - - -
+               ENTRY S - - - -
+                NTFS O - - - -
+             DEFAULT X - - - -
+                USER X - - - -
+                  CD - X - - -
+           DIRECTORY - X - - -
+             COMMAND - X - - -
+                SUDO - O - - -
+                 MAN - - X - -
+                WONT - - X - -
+               NIGHT - - X - -
+               PAGER - - - X -
+                THAT - - - - X

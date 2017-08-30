@@ -1,0 +1,13 @@
+                FILE O - - - - -
+           PARTITION X - - - - O
+               FDISK - S - X - -
+                 HDB - O - - - X
+                HDB1 - X - - - S
+                THIS - S - - - -
+               MOUNT - - X - - -
+               ERROR - - X - - -
+             COMMAND - - X - - -
+            /DEV/HDB - - - X - -
+               THERE - - - - - S
+              SYSTEM - - - - - X
+           HPFS/NTFS - - - - - O

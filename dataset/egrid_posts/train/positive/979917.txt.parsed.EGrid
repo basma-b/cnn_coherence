@@ -1,0 +1,7 @@
+              CONFIG O - -
+                 SMB X - -
+               DEMON X - -
+                SUDO - - X
+   /ETC/INIT.D/SAMBA - - S
+                 TAR - - X
+                -XVF - - S

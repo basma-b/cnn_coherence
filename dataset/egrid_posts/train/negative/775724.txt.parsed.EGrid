@@ -1,0 +1,6 @@
+               -RW-R X - -
+                   * S - -
+   MAIL-NOTIFICATION X - -
+      MYUSER.MYGROUP - - X
+         /MOUNTPOINT - - O
+               CHMOD - - X

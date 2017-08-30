@@ -1,0 +1,10 @@
+             COMMAND X - - - -
+           MAKE-KPKG S - - - -
+                  .. O - - - -
+            AMARANTH X X - - -
+             APT-GET - - X - -
+            SYNAPTIC - - - S -
+             PROGRAM - - - X -
+                TYPE - - - O -
+              THINGY - - - X -
+                THAT - - - - X

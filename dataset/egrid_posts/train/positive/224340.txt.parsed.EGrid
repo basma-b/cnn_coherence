@@ -1,0 +1,17 @@
+                   $ - O - - -
+              SWAPON - S S - -
+                SWAP - X - - -
+                 BUG - S - - -
+                 FIX - O - - -
+                  -L - X - - -
+                NOTE - X - - -
+                DISK - S - - -
+           PARTITION - O - - -
+                ROOT - X - - -
+          /ETC/FSTAB - X - - -
+                FILE - X - - -
+                NAME - O - - -
+                UUID - X - - -
+                  -A - X - - -
+          DEFINITION - - X - -
+                 MSG - - - - X

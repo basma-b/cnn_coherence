@@ -1,0 +1,25 @@
+                USER X - - - - -
+               START X - - - - -
+              SCREEN - S - - - -
+            SECURITY - X - - - -
+                 TAB - X - - - -
+                THAT - - O - - -
+                THIS - - S - - S
+              RESULT - - O - - -
+            BEHAVIOR - - X - - -
+/ETC/INIT/FAILSAFE.CONF - - X - - -
+          WORKAROUND - - X - - -
+             DESKTOP - - X - - -
+               SLEEP - - X - - -
+          STATEMENTS - - O - - -
+                BOOT - - X - - X
+               SPEED - - X - - -
+                 BUG - - O - O -
+               HTTPS - - X - - -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/UPSTART/+BUG/839595 - - X - - -
+              PEOPLE - - O - - -
+             SYSTEMS - - O - - -
+/ETC/NETWORK/INTERFACES - - X - - -
+           INSTALLER - - S - - -
+           CONFIGURE - - - S - -
+               THERE - - - X S -

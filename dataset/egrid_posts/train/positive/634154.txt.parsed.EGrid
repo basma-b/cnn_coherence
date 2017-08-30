@@ -1,0 +1,14 @@
+               CHECK X - - - -
+                DISK X - - - -
+              MEMORY X - - - -
+               STICK X - - - -
+              FORMAT X - - - -
+               FAT32 X X - - -
+            QTPARTED - S - - -
+              BUMMER - - - O -
+                  .. - - - - X
+                WORK - - - - X
+                 GOD - - - - X
+           PARTITION - - - - X
+           SOMETHING - - - - X
+             DOSFSCK - - - - X

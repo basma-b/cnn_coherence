@@ -1,0 +1,13 @@
+                   * O - - - -
+SWFDEC-MOZILLA-PLAYER:11946 X - - - -
+             DEFAULT X - - - -
+               AUDIO O - - - -
+                SINK O X - - -
+                THIS O - - - -
+             FIREFOX S - - - -
+             PLAYER/ O - - - -
+                ALSA - - X - -
+                 OSS - - X - -
+           EMULATION - - O - -
+             COMMAND - - - - X
+                DISK - - - - O

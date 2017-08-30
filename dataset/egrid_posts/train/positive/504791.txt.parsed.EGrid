@@ -1,0 +1,12 @@
+                 SET X - - - - -
+         PERMISSIONS X - - - - -
+               SHARE X X - - - -
+          SAMBA/CIFS - X - - - -
+                CIFS - - S - - -
+               MOUNT - - - X - -
+               THERE - - - S - -
+             OPTIONS - - - O - -
+             COMMAND - - - X - -
+           UMASK=777 - - - - - X
+     UID=ARTVANDALAE - - - - - X
+        GID=ARTGROUP - - - - - X

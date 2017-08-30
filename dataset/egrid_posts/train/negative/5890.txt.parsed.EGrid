@@ -1,0 +1,13 @@
+             DEVICES S - - -
+              KERNEL X - - -
+                SCSI X - - -
+               CDROM - X - -
+            /DEV/HDA - X S -
+                ROOT - - S -
+               JABBA - - O -
+                 -LA - - X -
+          /DEV/CDROM - - X -
+                MUCH - - O -
+             PACKAGE - - - S
+           MEDIBUNTU - - - X
+                FILE - - - O

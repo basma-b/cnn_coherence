@@ -1,0 +1,16 @@
+                ROOT S - X - S - X - - -
+                ORHS O - X - O - - - - -
+             READING X - X - - - - - - -
+             PACKAGE X - X - X - X O - -
+                LIST O - X - X - - - - -
+                  .. - O X O X O - - - -
+          DEPENDENCY - X - X - X - - - -
+                TREE - X - X - X - - - -
+             APT-GET - - - - S - - - - -
+                   E - - - - O - - - - -
+                NMAP - - - - O - X S - -
+                SUDO - - - - X - - - - -
+          ~/PROGRAMS - - - - - - X - - -
+               REPOS - - - - - - - - X -
+/ETC/APT/SOURCES.LIST - - - - - - - - - O
+            PASTEBIN - - - - - - - - - X

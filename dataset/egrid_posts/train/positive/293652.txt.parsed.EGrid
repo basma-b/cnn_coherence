@@ -1,0 +1,13 @@
+             COMMAND X - - - -
+                LINE X - - - -
+           XORG.CONF O - - - -
+            TERMINAL X - - - -
+  /ETC/X11/XORG.CONF - O - - -
+          EVERYTHING - O - - -
+                8.04 - X - - -
+             UPWARDS - O - - -
+                9.04 - X - - -
+             RELEASE - - - X -
+           EXCEPTION - - - - S
+                 LTS - - - - X
+             VERSION - - - - X

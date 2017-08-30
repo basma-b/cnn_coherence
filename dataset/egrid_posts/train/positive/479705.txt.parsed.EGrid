@@ -1,0 +1,14 @@
+                WINE O - X - - -
+              OPENGL X - - - - -
+             LIBRARY S - - - - -
+              SYSTEM X - - - - -
+             DEPENDS - O S - - -
+                 BUT - O - - - -
+                   * - - O - - -
+              LIBPQ5 - - S - - -
+=8.3.3-0UBUNTU0.8.04 - - X - - -
+      8.3.3-1~GUTSY1 - - S - - -
+                 FMI - - O - - -
+                REPO - - - X - -
+                THAT - - - - - O
+             WINBIND - - - - - S

@@ -1,0 +1,17 @@
+                PIPE - X - - - - - -
+                FILE - O - X - - - -
+                 ONE - X - - - - - -
+                 CAT - - - X - - X -
+FILE_WHICH_WILL_SOON_GET_NEW_DATA - - - X - - - -
+                   | - - - O - - - -
+                  -N - - - X - - - -
+               INPUT - - - X - - - -
+                  HM - - - X - - - -
+           DELIMITER - - - - X - - -
+              SIPIOR - - - - - - X -
+              MKFIFO - - - - - - S -
+           /TMP/FIFO - - - - - - X -
+                  F1 - - - - - - X -
+                   > - - - - - - S -
+                  F2 - - - - - - X -
+       CONFIGURATION - - - - - - - X

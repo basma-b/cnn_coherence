@@ -1,0 +1,8 @@
+             COMMAND S - - - - -
+             MONITOR X - - - - -
+                NAME O - - - - -
+               LINUX X - - - - -
+                ECHO - - - S - -
+                 USE - - - - O -
+        RESTRICTIONS - - - - X -
+           POLICYKIT - - - - - O

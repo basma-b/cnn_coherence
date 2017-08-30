@@ -1,0 +1,16 @@
+            COMPILER X - -
+                WORK X - -
+                 C++ - X -
+                  -E - X -
+                  -X - S -
+               INPUT - S -
+              SOURCE - X -
+                CODE - O -
+           PARTITION - - O
+                DISC - - X
+         BOOTMANAGER - - S
+                GRUB - - X
+                LILO - - X
+                BOOT - - X
+              KERNEL - - O
+               PLACE - - X

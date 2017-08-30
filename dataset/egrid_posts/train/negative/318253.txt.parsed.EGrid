@@ -1,0 +1,15 @@
+                BOOT X - -
+                NTPD - X -
+             OPTIONS - O -
+                FILE - O -
+             CRONTAB - S -
+                 MAN - X -
+        /ETC/CRONTAB - X -
+       CONFIGURATION - X -
+                 SET - X -
+              SCRIPT - X -
+           SOMETHING - X -
+NTPD_ENABLE=TRUE|FALSE - X -
+                THAT - - O
+            ANYTHING - - O
+                NEED - - O

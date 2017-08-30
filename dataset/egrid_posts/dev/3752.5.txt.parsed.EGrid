@@ -1,0 +1,9 @@
+             COMMAND O - - - -
+          SMEAGOLTHE S - - - -
+                FILE X - - - -
+                   * O - - - -
+       DEVICES_ALLOW - - - - X
+              ACCESS - - - - O
+                SWAP - - - - X
+              DEVICE - - - - X
+              CGROUP - - - - X

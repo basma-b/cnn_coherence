@@ -1,0 +1,9 @@
+             COMMAND X - - - - - - - - -
+         RECONFIGURE X - - - - - - - - -
+        XSERVER-XORG S - - - - - - - - -
+               GRAPH X - - - - - - - - -
+                CARD X - - - - - - - - -
+                  .. - - X - - - - - - -
+        -RECONFIGURE - - - - - O - - - -
+                 ARG - - - - - - - O - -
+               THANX - - - - - - - - X -

@@ -1,0 +1,14 @@
+             COMMAND X X - -
+                LINE X X - -
+                TYPE X X - -
+            SECURITY X X - -
+              DEVICE X X - -
+             SUPPORT X X - -
+                SUDO - - X -
+              IWLIST - - X -
+                   < - - X -
+            WIRELESS - - X X
+           INTERFACE - - S -
+          ENCRYPTION - - O -
+                 WAY - - - S
+             ADAPTER - - - S

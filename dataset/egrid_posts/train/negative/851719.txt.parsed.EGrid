@@ -1,0 +1,26 @@
+           PARTITION S - - - - - - - - -
+              BACKUP X - - - - - - - - -
+            ECRYPTFS - S - - - - - - - -
+                HOME - X - - - - - - - -
+           DIRECTORY - O - - - - - - - -
+          PERMISSION - X - - - - - - - -
+ECRYPTFS-MOUNT-PRIVATE - S - - - - - - - -
+            ANYTHING - X - - - - - - - -
+                DATA - S - - - - - - - -
+                THAT - - O - - - O - - -
+          PASSPHRASE - - X - - - - - - -
+           INSTALLER - - X - - - - - - -
+                DIKI - - - - O - - - - -
+              STRING - - - - O - - - - -
+              LETTER - - - - X - - - - -
+              NUMBER - - - - X - - - - -
+                 HOP - - - - - X - - - -
+                LOOK - - - - - - O - - -
+                HTTP - - - - - - X - - -
+//BLOG.DUSTINKIRKLAND.COM/2011/04/INTRODUCING-ECRYPTFS-RECOVER-PRIVATE.HTML - - - - - - S - - -
+                WORK - - - - - - - S - -
+               THERE - - - - - - - - - S
+              OPTION - - - - - - - - - O
+                  CD - - - - - - - - - O
+                BOOT - - - - - - - - - X
+                MENU - - - - - - - - - X

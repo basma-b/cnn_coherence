@@ -1,0 +1,12 @@
+             COMMAND X - -
+              SYSTEM X - -
+              UPDATE X - -
+             APT-GET X - -
+        DIST-UPGRADE - X -
+           ~/.BASHRC - X -
+        DEVELOPEMENT - O -
+             VERSION - O -
+              DAPPER - S -
+           BACKPORTS - S -
+               FGLRX - - S
+                 RES - - O

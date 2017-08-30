@@ -1,0 +1,10 @@
+                USER X S - -
+               GROUP X X - -
+                   < - X - -
+                   > - O - -
+             BRACKET - X - -
+ /VAR/LOG/XORG.0.LOG - - O -
+                XORG - - O -
+                CONF - - - S
+              DRIVER - - - O
+             OPTIONS - - - X

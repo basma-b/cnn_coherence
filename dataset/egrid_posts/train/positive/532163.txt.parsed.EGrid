@@ -1,0 +1,19 @@
+            ETHERNET X - - - - - -
+                CARD X - - - - - -
+                ETH0 X - - - - - -
+                ETH1 O - O - - - -
+            INTERNET X - - - - - -
+               CABLE O - - - - - -
+                STOP X - - - - - -
+                WORK O - - - - - -
+             NETWORK - X - - - X -
+             MANAGER - X - - - O -
+       CONFIGURATION - X - X - - -
+                WIRE - - X - - - S
+                 JOB - - O - - - -
+/ETC/NETWORK/INTERFACES - - X - - - -
+            IFCONFIG - - X - - - -
+                KIND - - - X - - -
+          INTERFACES - - - X - - -
+                 APP - - - - - X -
+                FILE - - - - - O -

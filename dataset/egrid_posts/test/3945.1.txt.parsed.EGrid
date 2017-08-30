@@ -1,0 +1,21 @@
+                THAT X - - -
+           CASPER-RW O - - -
+              FOLDER X O - -
+                ROOT X - - -
+           PARTITION O - - -
+                   > X - - -
+               LABEL O - - -
+                 WAY O - - -
+               ENTRY - O - -
+               FSTAB - X - -
+           SUBFOLDER - X - -
+               ORDER - - X -
+               SETUP - - X -
+                GRUB - - O -
+                THIS - - - S
+                LINE - - - O
+              KERNEL - - - X
+     /FOLDER/VMLINUZ - - - S
+PERSISTENT-PATH=/FOLDER - - - O
+              DISTRO - - - O
+               IDEAS - - - X

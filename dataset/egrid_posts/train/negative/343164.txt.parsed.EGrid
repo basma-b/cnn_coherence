@@ -1,0 +1,12 @@
+              FEISTY S - - - - -
+                BOOT - X - - - -
+              KERNEL - X - X - -
+               PANIC - O - X - -
+                 CAP - X - - - -
+                LOCK - X - - - -
+              SCROLL - X - - - -
+               FLASH - O - - - -
+               ERROR - - - X - -
+             MESSAGE - - - X - -
+                 ISO - - - - - X
+             MOUNTER - - - - - O

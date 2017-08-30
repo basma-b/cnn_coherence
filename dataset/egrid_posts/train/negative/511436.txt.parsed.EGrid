@@ -1,0 +1,14 @@
+                BENS S - -
+/PROC/SYS/VM/DIRTY_WRITEBACK_CENTISECS S O -
+                BASH S - -
+          PERMISSION S - -
+                THIS O - -
+                 TEE - X -
+                ROOT - X -
+         PERMISSIONS - X -
+                THAT - - X
+          UNETBOOTIN - - O
+                  CD - - X
+               IMAGE - - O
+                 USB - - X
+                BOOT - - X

@@ -1,0 +1,30 @@
+              SERVER O - - - - - - - -
+               ERROR O - - - - - - - -
+LIBSTDC++-LIBC6.2-2.SO.3 X - - - - - - - -
+               SHARE X - - - - - - - -
+              OBJECT X - - - - - - - -
+                FILE O - - - - - - - -
+           DIRECTORY X - - - - - - - -
+           APT-CACHE - X - - - - - - -
+              POLICY - S - - - - - - -
+                TYPE - - - X - - - - -
+                THIS - - - O - - - - -
+            TERMINAL - - - X - - - - -
+              OUTPUT - - - X - - - - -
+             PASTBIN - - - - X X - - X
+                 URL - - - - X - - - -
+                HTTP - - - - - X X - S
+                   U - - - - - X - - S
+               |GREP - - - - - - X X -
+             APT-GET - - - - - - S - -
+             PACKAGE - - - - - - S - -
+              FREENX - - - - - - S - -
+                SUDO - - - - - - X - -
+             COMMAND - - - - - - X - X
+                TIME - - - - - - - S -
+                DPKG - - - - - - - X -
+           VNCSERVER - - - - - - - S -
+                  -S - - - - - - - O -
+                 VNC - - - - - - - O -
+                LINK - - - - - - - - S
+//PASTE.UBUNTU-NL.ORG/47692/ - - - - - - - - S

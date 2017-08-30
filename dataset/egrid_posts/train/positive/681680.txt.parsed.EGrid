@@ -1,0 +1,16 @@
+                9.10 O - - - - - -
+           PARTITION - X S - - - X
+               WINXP - X - - - - -
+             WINDOWS - - X - - - -
+              PLACES - - X - - - -
+                THAT - - - O - - -
+          /ETC/FSTAB - - - X - - -
+                ROOT - - - X - - -
+             EXAMPLE - - - - X - -
+           /DEV/SDA3 - - - - S - -
+          /MEDIA/WIN - - - - X - -
+                 JFS - - - - S - -
+               FSTAB - - - - - - S
+                LINE - - - - - - O
+                 WIN - - - - - - X
+               PLACE - - - - - - S

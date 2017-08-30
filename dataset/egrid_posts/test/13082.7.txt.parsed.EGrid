@@ -1,0 +1,17 @@
+               THERE S - S S - - - - -
+             PROCESS O - - O - - - - -
+     192.168.1.64:21 - X - - - - - - -
+              SERVER - - O - - - - - -
+              SYSTEM - - - X - - - - -
+             MACHINE - - - O - - - - -
+             SERVICE - - - O - - - - -
+                 FTP - - - - O - - - -
+                SFTP - - - - O X - - -
+                 SSH - - - - X - - - -
+                 KID - - - - X - - - -
+                HAVE - - - - - - S - -
+              VSFTPD - - - - - - O - -
+                 RUN - - - - - - S - -
+           PARTITION - - - - - - - - X
+              FOLDER - - - - - - - - X
+               MOUNT - - - - - - - - X

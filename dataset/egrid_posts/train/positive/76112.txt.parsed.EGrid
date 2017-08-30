@@ -1,0 +1,20 @@
+                 RAM - X - -
+             CHIPSET - - X -
+                  K8 - - X -
+                ROOT - - X -
+              DEVICE - - X -
+               PANIC - - S -
+          FILESYSTEM - - S -
+                 SEC - - O X
+              VT6420 - - X -
+                 HAL - - X -
+             MANAGER - - X -
+              KERNEL - - S -
+                WORK - - X -
+                FINE - - X -
+               ISSUE - - X -
+            RESAMBLE - - O -
+                THIS - - X -
+                HTTP - - X -
+//WWW.USSG.IU.EDU/HYPERMAIL/LINUX/KERNEL/0408.1/2196.HTML - - X -
+               CHECK - - - X

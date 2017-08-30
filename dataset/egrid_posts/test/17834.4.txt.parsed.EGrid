@@ -1,0 +1,19 @@
+       /ETC/RC.LOCAL S - - - S -
+             STARTUP X - - - - -
+                NONE X - - - - -
+          PARAMETERS X - - - - -
+               THERE S - - - - -
+            HASHBANG O - - - - -
+             COMMAND - X - - - -
+                EXIT - X - - - -
+                LINE - X X - - -
+                   | - - X - - -
+                 TEE - - X - - -
+/HOME/USERNAME/DESKTOP/TEST.TXT - - X - - -
+              CHANGE - - O - - -
+            USERNAME - - X - - -
+              REBOOT - - X - - -
+                FILE - - - O - -
+             PROCESS - - - - X -
+                 MAC - - - - - X
+                 FUN - - - - - O

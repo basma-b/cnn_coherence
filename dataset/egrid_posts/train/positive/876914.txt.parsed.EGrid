@@ -1,0 +1,7 @@
+         GNOME-SHELL S -
+               PURGE X -
+                  .. O -
+          RE-INSTALL O -
+           GSETTINGS S -
+        SESSION-NAME O -
+      GNOME-FALLBACK X -

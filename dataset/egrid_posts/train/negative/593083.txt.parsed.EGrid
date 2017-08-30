@@ -1,0 +1,27 @@
+                 HMM X - - - - - - -
+                   E X - - - - - - -
+                 POS X - - - - - - -
+              PARSER S - - - - - - -
+                HERE X - - - - - - -
+                 EOL X - - - - - - -
+       LIGHTTPD.CONF X - - O - X - -
+               THERE - S S - - - - -
+                LINE - O O - - - - -
+               ERROR - - X - - - - -
+                 END - - - - X - - -
+      FASTCGI.SERVER - - - - X - - -
+             SECTION - - - - S O - -
+                THAT - - - - - X - -
+             FASTCGI - - - - - O - -
+                FILE - - - - - O - -
+         MOD-FASTCGI - - - - - S - -
+/ETC/LIGHTTPD/CONF-ENABLED - - - - - X - -
+              FOLDER - - - - - - X -
+        CONF-ENABLED - - - - - - X -
+               YEARS - - - - - - - X
+              RADEON - - - - - - - X
+              DRIVER - - - - - - - S
+                  2D - - - - - - - X
+                  3D - - - - - - - X
+        ACCELERATION - - - - - - - O
+              TV-OUT - - - - - - - X

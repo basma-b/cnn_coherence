@@ -1,0 +1,16 @@
+                 ISO O - - - - - - - - -
+                  CD O - - X - - - - - -
+             WINDOWS - - O - - - - - - -
+                   D - - O - - - - - - -
+                EXT4 - - X - - - - - - -
+              UBUNTU - - X - - - - - - -
+            WUBI.EXE - - - X - - - - - -
+                DISK - - - X - - - - - -
+                BOOT - - - X - - - - - -
+           PARTITION - - - - O - X - - -
+            LOCATION - - - - - O - - - -
+                WUBI - - - - - S - - - -
+              OPTION - - - - - X - - - -
+                FILE - - - - - X - - - -
+                 HAL - - - - - - - - - X
+              DAEMON - - - - - - - - - S

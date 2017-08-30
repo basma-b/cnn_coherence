@@ -1,0 +1,14 @@
+                GRUB - O - - - - - - - -
+                  CD - X - - - - - - - -
+               ERROR - O - - - - - - - -
+              STAGE1 - S - - - - - - - -
+                FILE - O - - X - - - - -
+                 RAM - X - - - - - - - -
+                 HMM - - S - - - - - - -
+              OUTPUT - - - - X - - - - -
+             COMMAND - - - - X - - - - -
+                TEXT - - - - X - - - - -
+                LSOF - - - - - - - - - X
+                   > - - - - - - - - - X
+            LSOF.TXT - - - - - - - - - X
+              LS.TXT - - - - - - - - - S

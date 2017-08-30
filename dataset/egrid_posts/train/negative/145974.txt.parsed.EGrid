@@ -1,0 +1,12 @@
+              SCRIPT O - O - -
+               START X - - - -
+              SYSTEM X - - - -
+                  .. X - - - -
+                THIS O - - - -
+            SYSVINIT - X - - -
+        /ETC/INIT.D/ - - X - -
+             /ETC/RC - - X - -
+                 PAM - - - - X
+           PLUGGABLE - - - - X
+      AUTHENTICATION - - - - X
+             MODULES - - - - X

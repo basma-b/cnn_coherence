@@ -1,0 +1,13 @@
+               10.04 O - - - - -
+               10.10 X - - - - -
+              SYSTEM X - - - - -
+            SOFTWARE X - - - - -
+               RAID1 O - - - - -
+               WITCH - X - - - -
+              DEVICE - X - - - -
+                GRUB - O - O - -
+                 SDA - - S - - -
+                 SDB - - X - - -
+                 MD0 - - - X - -
+                  HI - - - X - -
+                 TWM - - - - - X

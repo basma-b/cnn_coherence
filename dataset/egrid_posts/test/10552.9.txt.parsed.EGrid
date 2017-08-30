@@ -1,0 +1,42 @@
+                THAT S - - - - - - - - - - - - -
+   /ETC/DEFAULT/GRUB X - - O - - - - - - - - - -
+                 END X - - - - - - - - - - - - -
+GRUB_CMDLINE_LINUX_DEFAULT X - - - - - - - - - - - - -
+         UPDATE-GRUB S - - - - - - - - - - - - -
+                   E S X - X - - - - - - - - - -
+               ENTRY O - - - - - - - - - - - - -
+                GRUB X - - X - - - - - - - - - -
+                BOOT X - - X - - - - - - - - - -
+                LOOK X - - - - - X - - - - - - -
+               PRESS - X - X - - - - - - - - - -
+           SOMETHING - X - - - - - - - - - O - -
+                SUDO - X - S - - - - - - - - - -
+   /ETC/DEFAULT/GRUP - X X - - - - - - - - - - -
+                 VIM - - X - - - - - - - - - - -
+                PART - - - S - - - - - - - - - -
+                  OS - - - O - - - - - - X - - -
+                 ILL - - - - S - - - - - - - - -
+                THIS - - - - O - - - - - - - - -
+               VALUE - - - - X - - - - - - - - -
+      ACPI_BACKLIGHT - - - - X - - - - - - - - -
+                LINE - - - - - S - - - - - - - -
+                FILE - - - - - X O - - - - - - -
+ACPI_BACKLIGHT=VENDOR - - - - - - X - - - - - - -
+             DEFAULT - - - - - - X - - - - - - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - - - - - S - - - - - - -
+              SPLASH - - - - - - X - - - - - - -
+              KERNEL - - - - - - X - - - - - - -
+             OPTIONS - - - - - - X - - - - - - -
+                 APP - - - - - - X - - - - - - -
+/USR/SHARE/APPLICATIONS/ - - - - - - X - - - - - - -
+               BEKKS - - - - - - X - - - - - - -
+            .DESKTOP - - - - - - - S - - - - - -
+                   Z - - - - - - - - - X - - - -
+             UPGRADE - - - - - - - - - - O - - -
+               10.04 - - - - - - - - - - X - - -
+               12.10 - - - - - - - - - - X - - -
+               FRESH - - - - - - - - - - O - O -
+               UNITY - - - - - - - - - - - S - -
+          EXPERIENCE - - - - - - - - - - - - O -
+              UBUNTU - - - - - - - - - - - - X -
+               STUMP - - - - - - - - - - - - - O

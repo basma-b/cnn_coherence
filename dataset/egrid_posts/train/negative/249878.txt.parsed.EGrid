@@ -1,0 +1,10 @@
+                HDA2 S S S - -
+         PERMISSIONS O O O - -
+                USER X X X X -
+              UBUNTU X X X - -
+               UMASK - - - S -
+                LINE - - - O -
+                  RW - - - X -
+                 ETC - - - X -
+               GNOME - - - - O
+       PRE-INSTALLED - - - - X

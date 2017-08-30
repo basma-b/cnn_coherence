@@ -1,0 +1,17 @@
+              ANYONE X - - - - -
+               ERROR X - - - - -
+             DEBCONF - X - - - -
+            DBDRIVER - X - - - -
+              CONFIG - X - - - -
+/VAR/CACHE/DEBCONF/CONFIG.DAT - S - - - -
+             PROCESS - X - O - -
+                   | - X - - - -
+                GREP - X - - - -
+          CONFIG.DAT - X O - - -
+                THIS - - S - - -
+                 USE - - X - - -
+                KILL - - - X - -
+          PROCESS_ID - - - X - -
+                SHOW - - - - - X
+            ANYTHING - - - - - X
+               IDEAS - - - - - X

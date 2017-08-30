@@ -1,0 +1,17 @@
+GNOME-SESSION-PROPERTIES O - - - - - -
+             STARTUP X - X X - - -
+              SCRIPT O - X X - - -
+            USERNAME - O - - - - -
+                WGET - X - - - - X
+                THIS - - O X - - -
+                HTTP - - X - - - -
+            //STUFF/ - - X - - - -
+              WHOAMI - - O - X - X
+             COMMAND - - O - - - -
+              OUTPUT - - O - - - -
+                 RUN - - - X - - -
+                 .SH - - - O - - -
+                CALL - - - - O - X
+                TICK - - - - X - -
+                THAT - - - - - O -
+               THING - - - - - O -

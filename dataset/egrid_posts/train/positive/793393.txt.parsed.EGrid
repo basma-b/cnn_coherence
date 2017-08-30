@@ -1,0 +1,12 @@
+              SCRIPT O - - - - - -
+              CUSTOM X - - - - - -
+              LIVECD O - - - - - -
+                USER X - - - - - -
+               INPUT O - - - - - -
+         DEBOOTSTRAP S - - - X - -
+                GRUB O - - - - - -
+                THIS - X - - - - -
+                NEED - - X - - - -
+               VALUE - - O O - - -
+               HTTPS - - - X - - -
+DEBCONF-GET-SELECTIONS/DEBCONF-SET-SELECTIONS - - - - - S -

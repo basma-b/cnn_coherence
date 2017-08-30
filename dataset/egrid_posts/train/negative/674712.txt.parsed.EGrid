@@ -1,0 +1,16 @@
+             PROCESS X - S - -
+                 DIR O - - - -
+                FILE - S - - -
+                DIRS - X - - -
+               FUSER - - S - -
+           DIRECTORY - - X - -
+                 TRY - - O - -
+               -TYPE - - X - -
+               XARGS - - X - -
+                SUDO - - X - -
+            TERMINAL - - X - -
+              PEOPLE - - - S -
+                COPY - - - O -
+                HAND - - - X -
+                  .. - - - X -
+                 ETC - - - - X

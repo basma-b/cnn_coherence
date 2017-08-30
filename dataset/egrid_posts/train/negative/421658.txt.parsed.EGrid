@@ -1,0 +1,8 @@
+             SUDOERS X - -
+            DEFAULTS X - -
+                LINE X - O
+                ROOT X - -
+                USER X - -
+           ~/.BASHRC - - S
+              ESCAPE - - X
+                 COD - - O

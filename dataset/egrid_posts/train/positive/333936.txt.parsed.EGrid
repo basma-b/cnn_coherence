@@ -1,0 +1,12 @@
+                 NFS X - S - - -
+                 PDC X - S - - -
+              SERVER X - - - - -
+               SAMBA X - - - - -
+             NETWORK - - X - - -
+                FILE - - X - - -
+              SYSTEM - - O - - -
+              DOMAIN - - X - - -
+          CONTROLLER - - O - - -
+               OTHER - - - X - -
+             MACHINE - - - O - -
+               LINUX - - - - - X

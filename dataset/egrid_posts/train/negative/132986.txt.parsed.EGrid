@@ -1,0 +1,11 @@
+               MOUNT O - - - - -
+                BIND X - - - - -
+PARTITION/FILESYSTEM X - - - - -
+                 RUN - X - - - -
+                JAIL - X - - - -
+                EXT3 - - X - - -
+               WHATS - - X - - -
+          EQUIVALENT - - X O - -
+          UMASK=0777 - - X - - -
+               THERE - - - S - -
+         PERMISSIONS - - - O - -

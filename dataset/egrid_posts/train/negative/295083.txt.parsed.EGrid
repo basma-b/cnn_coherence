@@ -1,0 +1,12 @@
+             COMMAND O - - - - -
+             PROBLEM - X - - - -
+                WARN - - X - - -
+              FIXMBR - - S S - -
+           PARTITION - - X O - -
+               TABLE - - X - - -
+                GRUB - - - O - -
+                LOAD - - - X - -
+                BOOT - - - S - -
+             WINDOWS - - - O - -
+              OPTION - - - X - -
+              ADVICE - - - - - X

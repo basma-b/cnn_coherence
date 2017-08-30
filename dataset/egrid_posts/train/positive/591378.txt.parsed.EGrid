@@ -1,0 +1,15 @@
+                SSH2 - S - - - -
+             OPENSSH - X - - - -
+                SSH1 - O - - - -
+              CHOICE - X - - - -
+                 ONE - X S - - -
+              UBUNTU - - X - - -
+             DEFAULT - - S - - -
+      OPENSSH-SERVER - - X - - -
+            PROTOCOL - - X - - -
+                 ZNH - - X - - -
+            ACTUALLY - - X - - -
+                 KEY - - O - X -
+              MACHIE - - X - - -
+                 RUN - - O - - -
+                 DSA - - - - - X

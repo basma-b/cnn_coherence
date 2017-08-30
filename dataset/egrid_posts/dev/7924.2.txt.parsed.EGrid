@@ -1,0 +1,6 @@
+                PIPE X -
+              OUTPUT O -
+             COMMAND X -
+             ICEDTEA - S
+             BROWSER - X
+             PROCESS - S

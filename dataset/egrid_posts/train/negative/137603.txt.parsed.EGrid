@@ -1,0 +1,17 @@
+               THERE X - - - -
+               AVAHI X - S - -
+            FIREWALL X - O - -
+         FIRESTARTER - X S - -
+                PORT - X - - -
+   AVAHI/FIRESTARTER - X - - -
+                 USE - O - - -
+                 UDP - - O - -
+                 RUN - - - - O
+                 HOP - - - - O
+           SOMETHING - - - - O
+                DISK - - - - X
+               USAGE - - - - O
+             NETWORK - - - - X
+              THREAD - - - - X
+              MEMORY - - - - X
+                 ETC - - - - O

@@ -1,0 +1,23 @@
+MYSITE.COM/MYFILE.CGI O - - - - - - -
+                FILE - S - - - - X -
+               WRITE - O - - - - - -
+                PERL - X - - - - - -
+                 HIT - - - X - - - -
+          MYSITE.COM - - - X - - - -
+              APACHE - - - X - - X -
+              SERVER - - - X - X - -
+               SETUP - - - O - - - -
+            /VAR/WWW - - - S - - - -
+           DIRECTORY - - - O - - - -
+                THAT - - - - X - - -
+                THIS - - - - - O S -
+                  CD - - - - - S - -
+     /VAR/WWW/MYSITE - - - - - X - -
+             CGI-BIN - - - - - O - -
+                 WAY - - - - - O - -
+           DIRECTIVE - - - - - X - -
+                CONF - - - - - - X -
+           SOMETHING - - - - - - - O
+               ERROR - - - - - - - X
+              SYSTEM - - - - - - - X
+                  HI - - - - - - - S

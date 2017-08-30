@@ -1,0 +1,9 @@
+                 USE S - - -
+               LSPCI - X - -
+                   | - S - -
+                 VGA - S - -
+             COMMAND - X - -
+            COMPUTER - - S S
+                XSET - - X -
+               -DPMS - - X -
+            TIMEOUTS - - S -

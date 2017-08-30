@@ -1,0 +1,12 @@
+                GRUB X - -
+                 MBR S - -
+           PARTITION X - -
+               /BOOT O - -
+                  DD - X -
+        IF=/DEV/ZERO - X -
+         OF=/DEV/HDA - S -
+                   * - X -
+                THIS - O -
+              BS=446 - O -
+                PORT - - X
+                DOCS - - X

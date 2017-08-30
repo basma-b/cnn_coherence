@@ -1,0 +1,22 @@
+               ERROR O - - O - - - -
+               CHECK S - - - - - - -
+              UPDATE X - - X - - - -
+            DOWNLOAD X - - - - - - -
+          REPOSITORY X - - - - - - -
+             INDEXES X - - - - - - -
+                HTTP O - - - - - - -
+               ENTRY X - - - - - - -
+MAINDEB-SRC/BINARY-AMD64/PACKAGES S - - - - - - -
+          META-INDEX X - - - - - - -
+                FILE O - - - - - - -
+             RELEASE X - - - - - - -
+                THIS - X - - - - - -
+              SERVER - - - O - X X -
+             PACKAGE - - - - X - O -
+                LOAD - - - - S - - -
+                   * - - - - - X - -
+             PROBLEM - - - - - - O -
+          CONNECTION - - - - - - X -
+              OTHERS - - - - - - O -
+FLASH-PLAYER-NONFREE - - - - - - - O
+                  FF - - - - - - - X

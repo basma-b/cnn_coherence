@@ -1,0 +1,15 @@
+           INTERFACE S - - - - - - -
+            HARDWARE X - - - - - - -
+              SWITCH X - - - - - - -
+                 USE X - - - - - - -
+              RFKILL S S - O - - - -
+               BLOCK X - - - - - - -
+                 ALL - O - - - - - -
+                  ID - S - - - - - -
+            QUESTION - O - - - - - -
+               THERE - - - S - - - -
+                IIRC - - - X - - - -
+                  .. - - - O - X - -
+                WORK - - - - - S - -
+             WINDOWS - - - - - O - X
+               LINUX - - - - - - - X

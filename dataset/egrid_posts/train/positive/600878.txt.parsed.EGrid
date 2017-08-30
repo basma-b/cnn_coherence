@@ -1,0 +1,29 @@
+                THAT X - - - - - - - - - -
+           ATICONFIG X X - S X - S - - - -
+                   | S - - S - - - - - - -
+             OPTIONS O - - S - - - - - - -
+           SWITCH10_ S - - - - - - - - - -
+                8.10 X - - - - - - - - - -
+            SCREENIN O - - - - - - - - - -
+              MIRROR O - - - - - - - - - -
+                  OK - X - - - - - - - - -
+  /ETC/X11/XORG.CONF - S - - S - - - - - -
+                FILE - - X - - X - - - - -
+          DESCRIPTOR - - X - - X - - - - -
+                THIS - - - X - - - - - - -
+           SOMETHING - - - O - - - - - - -
+–INITIAL=DUAL-HEAD - - - X - - - - - - -
+–SCREEN-LAYOUT=RIGHT - - - X - - - - - - -
+                WORK - - - O - - - - - - -
+               FGLRX - - - X - - - - - - -
+                 WHY - - - O - - - - - - -
+              OUTPUT - - - - X - - - - - -
+                   X - - - - O - - - - - -
+                SUDO - - - - - - O - - - -
+                 USE - - - - - - X - - - -
+                  .. - - - - - - X - - - -
+              SCREEN - - - - - - - S - - -
+               PANEL - - - - - - - S - - -
+            ANYTHING - - - - - - - O - - -
+           XORG.CONF - - - - - - - - X - -
+              DRIVER - - - - - - - - - O -

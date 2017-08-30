@@ -1,0 +1,14 @@
+                FSCK O - - - -
+                BOOT X - - - -
+              KERNEL X - - - -
+                LINE O - - - -
+            FASTBOOT O - - - -
+                FILE - - - O -
+               PROXY - - - - O
+                   < - - - - O
+                   > - - - - S
+              SERVER - - - - S
+              CONFIG - - - - X
+               POINT - - - - X
+           LOCALHOST - - - - X
+            ANYTHING - - - - O

@@ -1,0 +1,22 @@
+                  HI X -
+              UPDATE X -
+           I_PRODUCT S -
+       I_ISIMPORTED= X -
+                   E O -
+I_ERRORMSG=I_ERRORMSG|| X -
+ ERR=VENDORPRODUCTNO X -
+        I_ISIMPORTED X -
+                   < X -
+                   > O -
+                   Y X -
+       C_BPARTNER_ID S -
+     VENDORPRODUCTNO X -
+              SELECT X -
+                  II X -
+I_PRODUCT.AD_CLIENT_ID=II.AD_CLIENT_ID X -
+               GROUP S -
+                   * X -
+               -RSB- X -
+               SPICE O -
+             CHANNEL X -
+             PROBLEM - O

@@ -1,0 +1,18 @@
+              ONLINE O - - - - - - -
+/PROC/SYS/KERNEL/HOTPLUG S - - X - - - -
+                PATH O - - - - - - -
+       /SBIN/HOTPLUG X - - - - - - -
+      /SBIN/UDEVSEND X - - - - - - -
+                MINE - S - - - - - -
+                UDEV - S - - - - - -
+                WORK - X - - - - - -
+              AFAICT - X - - - - - -
+               THERE - S - - - - - -
+              BINARY - O - - - - - -
+              UBUNTU - - O - - - - -
+              KERNEL - - X - - - - -
+            QUESTION - - - S - - - -
+             DEFAULT - - - X - - - -
+             HOTPLUG - - - - - O - -
+             APT-GET - - - - - S - -
+                   P - - - - - - - X

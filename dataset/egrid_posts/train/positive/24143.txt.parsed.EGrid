@@ -1,0 +1,12 @@
+             COMMAND X - - - -
+             PACKAGE O S X - -
+               BREAK - X - - -
+                 PKG - O - - -
+             APT-GET - S - - -
+               PURGE - X - - -
+PKG_YOU_TRIED_TO_REMOVE - S - - -
+                  .. - O - - O
+           REINSTALL - S - - -
+                 YEA - S - - -
+               DIDNT - S - - -
+                 CUZ - - - - S

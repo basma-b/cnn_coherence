@@ -1,0 +1,9 @@
+              UBUNTU X - -
+             SELINUX X - -
+             DEFAULT X - -
+               LINUX X - -
+              THING/ - S -
+                HTTP - S -
+//EN.WIKIPEDIA.ORG/WIKI/APPARMOR - S -
+                 DVD - - O
+             COMMAND - - X

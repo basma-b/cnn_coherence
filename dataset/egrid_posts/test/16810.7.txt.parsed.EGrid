@@ -1,0 +1,12 @@
+               SETUP X - - - - - -
+              UBUNTU X - - - - - -
+                 MBR - X - - - - -
+                LILO - - X - - - -
+                GRUB - - - S - - -
+             COMMAND - - - - - S -
+              CHROOT - - - - - - X
+                SUDO - - - - - - X
+           /MNT/ROOT - - - - - - X
+               PLACE - - - - - - X
+                 WAY - - - - - - X
+               OTHER - - - - - - X

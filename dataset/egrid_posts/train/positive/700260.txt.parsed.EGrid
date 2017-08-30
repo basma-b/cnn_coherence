@@ -1,0 +1,14 @@
+          CONNECTION X - - - - -
+                 UFW - X - - - -
+                 SSH - X - - - -
+             DEFAULT - X - - - -
+                RULE - S - - - -
+                 WAY - X - - - -
+                TOOL - - X - - -
+                PART - - - S - -
+             SBACKUP - - - X - -
+                WORK - - - O - -
+               SETUP - - - X - -
+              BACKUP - - - O - -
+             NOTHING - - - O - -
+                 YES - - - - - X

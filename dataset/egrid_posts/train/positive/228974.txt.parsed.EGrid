@@ -1,0 +1,22 @@
+                HELP S - - - - - - - - - - -
+             WINDOWS - X - - - - - - - - - -
+               DRIVE - X - - - - - - - - - -
+               THERE - - S - - - - - - - - -
+             COMMAND - - X - - - - - - - - -
+               FSTAB - - X - - - - - - - - -
+            SUMTHING - - O - - - - - - - - -
+              FORMAT - - O - - - - - - - - -
+                GZIP - - X - X - - - - - - -
+                 BZ2 - - - X - - - - - - - -
+                 TAR - - - X X - - - - - - -
+                   < - - - X - - - - - - - -
+                FILE - - - O O - - - - - - -
+                   > - - - - S - - - - - - -
+             APT-GET - - - - X - O - - O - -
+                TIME - - - - - O - - - - - -
+           BREAKAGES - - - - - S - - - - - -
+             MANAGER - - - - - - X - - - - -
+              ERRORS - - - - - - - - O - - -
+                 USE - - - - - - - - - X - -
+                KOOL - - - - - - - - - X - -
+/ETC/APT/SOURCE.LIST - - - - - - - - - - - O

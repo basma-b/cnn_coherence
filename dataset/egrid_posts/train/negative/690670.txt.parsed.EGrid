@@ -1,0 +1,15 @@
+             COMMAND X - - - - - -
+             PACKAGE X - X - - - -
+                FILE O - - - - - -
+               REGEX O - - - - - -
+                   * X - - - - - -
+          GROOVY-ALL X - - - - - -
+               \.JAR - S - - - - -
+                BITE - - - - - O -
+             ATTEMPT - - - - - O -
+         USB-CREATOR - - - - - X -
+                  .. - - - - - O -
+               GUIDE - - - - - - O
+                /TMP - - - - - - O
+               TMPFS - - - - - - X
+                 ONE - - - - - - O

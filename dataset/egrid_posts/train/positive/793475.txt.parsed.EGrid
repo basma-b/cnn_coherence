@@ -1,0 +1,27 @@
+                DISK O - - - - - S - - - -
+            /DEV/SDA X - - - - - - - - - -
+            /DEV/SDB X - - - - - - - - - -
+                UUID - X O - - - - - - - -
+                SDA1 - X - - - - - - - - -
+                SDB1 - X - - - - - - - - -
+                SIDE - - X - - - - - - - -
+              EFFECT - - S - - - - - - - -
+              UBUNTU - - S - - - - - - - -
+                ROOT - - X - - - - - - - -
+            GRUB.CNF - - S - - - - - - - -
+                FACT - - X - - - - - - - -
+                TIME - - - X - - - - - - -
+                 ONE - - - O - X - - - - -
+             ANOTHER - - - X - - - - - - -
+                  -F - - - - S - - - - - -
+              PERSON - - - - - S - - - - -
+                  .. - - - - - O - - - - -
+           WIKIPEDIA - - - - - X - - - - -
+         PROBABILITY - - - - - S - - - - -
+                   % - - - - - O - - - - -
+               EARTH - - - - - X - - - - -
+               UUIDS - - - - - O - - X - -
+            FAKERAID - - - - - - X - - - -
+                HELP - - - - - - - - - - X
+                HTTP - - - - - - - - - - X
+//NIXCRAFT.COM/SHELL-SCRIPTING/948-CHANGE-UUID-EXT3-PARTITION.HTML - - - - - - - - - - X

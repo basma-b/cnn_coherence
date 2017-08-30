@@ -1,0 +1,15 @@
+             UPSTART X - - -
+             .BASHRC X - - -
+                CRON X - - -
+                RUBY - X - -
+              SCRIPT - S - -
+            SHUTDOWN - X - -
+              REBOOT - X X -
+                 ANY - X - -
+       /ETC/RC.LOCAL - - X -
+                BASH - - X -
+           COMMMANDS - - O -
+               THOSE - - S -
+      SHUTDOWN+START - - X -
+              OUTPUT - - - O
+               /DEV/ - - - O

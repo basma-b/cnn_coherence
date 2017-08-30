@@ -1,0 +1,20 @@
+             APT-GET X - - -
+     LINUX-IMAGE-686 X - - -
+LINUX-RESTRICTED-MODULES X - - -
+                   ' - S - -
+               STATE - S - -
+               IMAGE - O - -
+             MODULES - O - -
+        DIST-UPGRADE - S - -
+            VERSIONS - O - -
+        DEPENDENCIES - X - -
+             PACKAGE - S - -
+            QUESTION - O - -
+                THAT - - X -
+                 USE - - X -
+              DAPPER - - X -
+         LINUX-IMAGE - - X -
+                APPS - - X -
+            DUALBOOT - - - X
+              BEAUTY - - - O
+              COMPIZ - - - X

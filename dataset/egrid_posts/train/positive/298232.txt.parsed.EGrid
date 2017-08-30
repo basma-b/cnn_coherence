@@ -1,0 +1,16 @@
+              IFDOWN X - - -
+           INTERFACE S - - -
+                ETH1 - S - -
+             SOMEONE - X - -
+                   U - S S -
+               ENTRY - O O -
+/ETC/NETWORK/INTERFACES - X - -
+                AUTO - X - -
+               IFACE - X - -
+              RESCON - O O -
+                  IM - O - -
+                WIRE - X - -
+          CONNECTION - X - -
+              CLIENT - - X -
+             NETWORK - - X -
+             SERVICE - - O -

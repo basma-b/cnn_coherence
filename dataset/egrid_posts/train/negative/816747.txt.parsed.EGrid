@@ -1,0 +1,17 @@
+                ROOT S X - - -
+                 SRV O - - - -
+         PERMISSIONS X X - - -
+           DIRECTORY X X - - -
+               GROUP - X - - -
+            ANYTHING - X - - -
+           OWNERSHIP - X - - -
+                 LOG - O - - -
+                ROTT - X - - -
+                USER - X - - -
+                 DIR - S - - -
+                PERM - S - - -
+                 BOX - X - - -
+                 LAX - X - - -
+                 AGE - X - - -
+               ALPHA - - - O -
+               ADOBE - - - - X

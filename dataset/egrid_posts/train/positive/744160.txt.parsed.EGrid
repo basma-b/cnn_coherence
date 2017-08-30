@@ -1,0 +1,26 @@
+                   ' X - - - - - - - - - - -
+            LANGUAGE S - - - - - - - - - - -
+                THIS - S - - - - - - - - - -
+ /ETC/DEFAULT/LOCALE - X - - - - - - - - - -
+           SOMETHING - X - - - - - - - - - -
+               LANG= - X - - - - - - - - - -
+         EN_US.UTF-8 - O - - - - - - - - - -
+             LOCALES - - - S - - - - - - - -
+                KIND - - - O - - - - - - - -
+                FILE - - - - X - - X - - - -
+              LOCALE - - - - O - - - - - - -
+           VARIABLES - - - - X - - - - - - -
+            SETTINGS - - - - S - - - - - - -
+         ENVIRONMENT - - - - X - - - - - - -
+              CHAIN. - - - - X - - - - - - -
+                GREP - - - - - X - - - - - -
+                  ~/ - - - - - X - - - - - -
+/ETC/SECURITY/PAM_ENV.CONF - - - - - - S - - - - -
+                 HMM - - - - - - - X - - - -
+               THOSE - - - - - - - S - - - -
+                WHAT - - - - - - - - O - - -
+     /ETC/ENVIROMENT - - - - - - - - - X - -
+                THAT - - - - - - - - - - S S
+         FI_FI.UTF-8 - - - - - - - - - - X -
+    /ETC/ENVIRONMENT - - - - - - - - - - - S
+                PATH - - - - - - - - - - - O

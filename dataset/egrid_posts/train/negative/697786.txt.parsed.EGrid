@@ -1,0 +1,15 @@
+                USER S - -
+             USERADD X - -
+                TYPE X - -
+               USERS X X -
+                ROOT O - -
+                HOME X - -
+           DIRECTORY O - -
+                LIST - X -
+                 LOG - O -
+                   * - O -
+            PASSWORD - S -
+         /ETC/SHADOW - X -
+               STORE - X -
+           PLAINTEXT - O -
+             MISTAKE - - X

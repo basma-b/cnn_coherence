@@ -1,0 +1,14 @@
+                CUPS X - X - - - -
+           INTERFACE X - X - - - -
+                HTTP - X - - - - -
+     //LOCALHOST:631 - X - - - - -
+                LINE - - - O - - -
+            BROWSING - - - X - - -
+/ETC/CUPS/CUPSD.CONF - - - X - - -
+                  ON - - - X - - -
+             SECTION - - - - X - -
+                FILE - - - - X - -
+                 SSH - - - - - O -
+              TARGET - - - - - X -
+      OPENSSH-SERVER - - - - - X -
+                   K - - - - - - S

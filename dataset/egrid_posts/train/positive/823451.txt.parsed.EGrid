@@ -1,0 +1,13 @@
+             COMMAND X O S - -
+                LIST O - - - -
+               VIDEO X - X - -
+             DEVICES X - X - -
+                 ALL - X O - -
+                 ONE - S - - -
+            ANYTHING - - O - -
+                THAT - - - S -
+               LSPCI - - - - X
+                   | - - - - X
+                GREP - - - - X
+                  -I - - - - X
+                 VGA - - - - X

@@ -1,0 +1,16 @@
+                ROOT X - - -
+           PARTITION X - - -
+               CAUSE O - - -
+             PROBLEM X - - -
+                /MNT X - - X
+                EXT3 S - - -
+              OPTION O O - -
+           /DEV/SDA3 - S - -
+              DETAIL - S - -
+                FILE - S - O
+                   % - X - -
+          EVERYTHING - - S -
+                BOOT - - - X
+              SYSTEM - - - O
+                BITE - - - O
+              FIDDLE - - - X

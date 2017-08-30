@@ -1,0 +1,15 @@
+           HARDDRIVE X - -
+           PARTITION S - -
+                NAME - S -
+                   < - X -
+                DISK - X -
+                   > - O -
+                 NUM - X -
+           /DEV/SDA5 - S -
+             EXAMPLE - X -
+            /DEV/SDA - X -
+                GRUB - - O
+                  HD - - X
+              NUMBER - - O
+                 HD0 - - X
+                 HD1 - - X

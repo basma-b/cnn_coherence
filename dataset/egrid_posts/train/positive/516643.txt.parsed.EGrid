@@ -1,0 +1,22 @@
+                8.04 O - - - - - -
+               REPOS S - - - - - -
+                 USE X - - - - - -
+              LIBGLX X - - - - - -
+                XORG - S - - - - -
+           LIBGLX.SO - O - S - - -
+             PACKAGE - - X - - - -
+             SUPPORT - - O - - - -
+/USR/LIB/XORG/MODULES/EXTENSIONS/LIBGLX.SO - - - X - - -
+                 WAY - - - X - - -
+                  EE - - - X - - -
+                LOAD - - - X X - -
+/USR/LIB/XORG/MODULES/EXTENSIONS//LIBGLX.SO - - - X - - -
+               ERROR - - - O - - -
+          XORG.0.LOG - - - X - - -
+                MINE - - - S - - -
+              DOUBLE - - - S - - -
+                LINE - - - X - - -
+                FILE - - - - X - S
+                   X - - - - X - -
+                YEAR - - - - - - X
+                DAYS - - - - - - O

@@ -1,0 +1,17 @@
+                FILE X - - -
+              SYSTEM S - - -
+                 LOG - S - -
+/VAR/LOG/FSCK/CHECKFS - X - -
+                  .. - X - -
+                 ETS - X - -
+         MAINTENANCE - X - -
+               SHELL - S - -
+                CTRL - X - -
+                   + - X - -
+                   D - O - -
+                BOOT - X - -
+                  CD - O - -
+         FILESYSTEMS - O - -
+                CASE - X - -
+        DIST-UPGRADE - - O -
+            QUESTION - - - S

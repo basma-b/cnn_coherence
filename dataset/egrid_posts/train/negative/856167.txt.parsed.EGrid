@@ -1,0 +1,14 @@
+                SUDO S -
+            FIREWALL S -
+            SOLUTION S -
+                   > S -
+/ROOT/FIREWALL.RULES S -
+          PERMISSION S -
+            IPTABLES S -
+                 NAT S -
+               INPUT S -
+              OUTPUT S -
+               LOGIN S -
+                ROOT S -
+               .JUST S -
+             COMMAND S -

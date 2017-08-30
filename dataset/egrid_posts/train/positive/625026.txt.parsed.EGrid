@@ -1,0 +1,17 @@
+          MONOSTONE- S - - - - -
+               ENTRY O - X - - -
+         SYSLOG.CONF X - X - - -
+                   > - - X X - -
+             ENTRIES - - O - - -
+             SYSLOGD - - S - - -
+              INSERT - - X - - -
+                 LOG - - X - S -
+                FSCK - - - S - -
+             COMMAND - - - O - -
+             WINDOWS - - - X - -
+            DNSCACHE - - - - X -
+                USER - - - - X -
+              DNSLOG - - - - X -
+  /VAR/LOG/DNSCACHE/ - - - - X -
+              SYSLOG - - - - - X
+            ANYTHING - - - - - X

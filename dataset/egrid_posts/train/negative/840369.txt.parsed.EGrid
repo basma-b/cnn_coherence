@@ -1,0 +1,15 @@
+         NDISWRAPPER O - - - - -
+              DRIVER - S - - - -
+                SHOW - O - - - -
+               LSPCI - X - - - -
+                LOAD - O - - - -
+              MEMORY - - S - - -
+           INTERFACE - - X - - -
+               -RSB- - - S - - -
+                NAME - - O - - -
+             NETWORK - - X - - -
+              DEVICE - - X - - -
+             RUNIFOX - - - X - -
+              WLOAN0 - - - X - -
+               WLAN0 - - - - X -
+                   * - - - - X -

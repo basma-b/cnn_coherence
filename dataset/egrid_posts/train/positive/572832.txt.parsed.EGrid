@@ -1,0 +1,13 @@
+                9.04 X - -
+                KDE4 X - -
+               ERROR O - O
+            KDM-KDE4 S - O
+             DEFAULT X - -
+             DISPLAY X X -
+             MANAGER O X -
+                 KDE X - -
+    DPKG-RECONFIGURE - S -
+                 KDM - O S
+            ANYTHING - - O
+               BREAK - - X
+               GNOME - - X

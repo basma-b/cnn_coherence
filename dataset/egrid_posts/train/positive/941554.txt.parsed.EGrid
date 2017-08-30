@@ -1,0 +1,13 @@
+             COMMAND X - - -
+             PACKAGE X X - -
+                   * X - - -
+            SYNAPTIC - O - -
+              SEARCH - - X -
+                 FOO - - O -
+                ZLIB - - S -
+             DEFAULT - - X -
+                NEED - - O X
+                  .. - - X -
+                ALOT - - X -
+                OKAY - - X -
+          DEPENDENCY - - - O

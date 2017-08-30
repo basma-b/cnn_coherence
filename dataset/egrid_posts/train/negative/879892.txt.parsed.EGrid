@@ -1,0 +1,17 @@
+        LUBUNTU-CORE S S -
+             DISPLAY X X -
+             MANAGER O S -
+                LXDM O S -
+                THAT - S -
+             DEFAULT - X -
+     LUBUNTU-DESKTOP - S -
+             ONEIRIC - X -
+              SCREEN - O -
+   USERNAME/PASSWORD - X -
+              NORMAL - X -
+               STUFF - O -
+                XORG - X -
+             OPENBOX - X -
+             LXPANEL - X -
+                HTTP - - X
+//SVN.LINUXMCE.ORG/TRAC.CGI/BROWSER/BRANCHES/LINUXMCE-1004/SRC/PLUTOSTORAGEDEVICES - - X

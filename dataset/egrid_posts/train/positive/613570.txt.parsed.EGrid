@@ -1,0 +1,18 @@
+                HELP X - - - - - -
+           SOMETHING - S - - - - -
+                MENU - X - - - - -
+              EDITOR - S - - - - -
+                ROOT - X - - O - -
+         PERMISSIONS - O - - O - -
+               CHILD - - X - - - -
+             PROCESS - - S - - - -
+          PERMISSION - - S - - - -
+                THIS - - O - - - -
+             SOMEONE - - - X - - -
+            QUESTION - - - X - - -
+ GMENU-SIMPLE-EDITOR - - - - S - -
+               CHECK - - - - X - -
+/PATH/TO/GMENU-SIMPLE-EDITOR - - - - X - -
+                MINE - - - - S - -
+           OWNERSHIP - - - - X - -
+                BASH - - - - O - O

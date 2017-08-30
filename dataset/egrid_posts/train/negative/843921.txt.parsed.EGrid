@@ -1,0 +1,33 @@
+               CARIF X - - - - - - -
+                TYPE X - - - - - - -
+               MOUSE X O O - - - - -
+                 USB - X - - - - - -
+              MOTHER - X - - - - - -
+                CALL - O - - - - - -
+             TROUBLE - O - - - - - -
+                 ONE - X - O - - - -
+                PORT - X - - - - - -
+               THING - O - - - - - -
+            KEYBOARD - X - - - - - -
+                WORK - X - - - - - -
+                FINE - X - - - - - -
+                  IM - X - - - - - -
+                BITE - X - - - - - -
+                HELT - - X - - - - -
+                BALL - - X - - - - -
+         CREDENTIALS - - - - O - O -
+          /ETC/FSTAB - - - - - S - -
+       //CLINTON/MP3 - - - - - O - -
+               SMBFS - - - - - X - -
+CREDENTIALS=~/.SMBCREDENTIALS - - - - - X - -
+           DMASK=770 - - - - - O - -
+           FMASK=700 - - - - - O - -
+              ACCESS - - - - - - X -
+   ~/.SMBCREDENTIALS - - - - - - O -
+           SOMETHING - - - - - - X -
+/ETC/SAMBA/.SMBCREDENTIALS - - - - - - X -
+                WONT - - - - - - X -
+                GAIN - - - - - - X -
+              FOLDER - - - - - - X -
+              MEMBER - - - - - - - O
+               GROUP - - - - - - - X

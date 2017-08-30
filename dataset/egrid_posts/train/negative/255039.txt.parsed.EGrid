@@ -1,0 +1,11 @@
+                  CD X X - -
+          OPERATIONS X X - -
+                NTFS X X - -
+           PARTITION X X - -
+                TYPE - - X -
+              KERNEL - - X -
+              DRIVER - - S -
+                 APP - - - S
+                 X11 - - - O
+             STARTUP - - - X
+                APPS - - - X

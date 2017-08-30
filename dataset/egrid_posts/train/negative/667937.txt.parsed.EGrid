@@ -1,0 +1,16 @@
+                  DD X - - - - -
+        IF=/DEV/SDA1 X - - - - -
+OF=/MNT/SYSIMAGE.IMG S - - - - -
+                THIS S - - - - -
+               TABLE O - - - - -
+                 MBR O - - - - -
+              SOURCE X - - - - -
+                  HD X - - - - -
+            /DEV/SDA - - - - O -
+                FONT - - - - - X
+            SETTINGS - - - - - X
+                 SYS - - - - - X
+               PREFS - - - - - X
+         APPLICATION - - - - - X
+               MENUS - - - - - X
+                  OO - - - - - X

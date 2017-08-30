@@ -1,0 +1,16 @@
+                SUDO X - - - - -
+                NAME X - - - - -
+          RESOLUTION X - - - - -
+                HOST - X - - S -
+        JACK-DESKTOP - O X - - -
+          /ETC/HOSTS - S - - - -
+               ENTRY - O - - O -
+               ISSUE - S - - - -
+         RESOLV.CONF - - S - - -
+          NAMESERVER - - X - - -
+                 COS - - X - - -
+                FILE - - - - X -
+                BOOT - - - - O -
+                USER - - - - X -
+                MODE - - - - X -
+             PACKAGE - - - - - X

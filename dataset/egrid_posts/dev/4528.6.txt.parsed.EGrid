@@ -1,0 +1,9 @@
+           PARTITION X - - -
+               TABLE X - - -
+               DRIVE X - - -
+               MSDOS - O O -
+                 GPT - S O -
+              DEBIAN - - - X
+          PRIORITIES - - - O
+               STUFF - - - X
+             DEFAULT - - - X

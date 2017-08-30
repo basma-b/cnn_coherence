@@ -1,0 +1,15 @@
+                GRUB X X - - - -
+              METHOD S - - - - -
+               REFER X - - - - -
+               DRIVE X S - - - -
+               HD0,1 X - - - - -
+               LINUX - X - - - -
+           REFERENCE - O - - - -
+                 HDA - - S - - -
+              INITRD - - S - - -
+                THAT - - - - X -
+            WAAAYYYY - - - - S -
+               THING - - - - - X
+                BOOT - - - - - O
+                USB2 - - - - - X
+                DISK - - - - - X

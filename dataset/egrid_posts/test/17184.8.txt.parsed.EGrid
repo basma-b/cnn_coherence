@@ -1,0 +1,15 @@
+                USER X - - - - -
+          BACKGROUND O - - - - -
+                 GDM X - - - - -
+             LIGHTDM X - - - - -
+          DEPENDENCY - - - X - -
+                  .. - - - O X -
+                PART - - - - O -
+               REPOS - - - - X -
+             CONTENT - - - - O -
+             PACKAGE - - - - X -
+       SUITE=DEFAULT - - - - - X
+         SECTION=ALL - - - - - X
+            ARCH=ANY - - - - - X
+   SEARCHON=CONTENTS - - - - - X
+     KEYWORDS=LIBNFC - - - - - X

@@ -1,0 +1,27 @@
+              ANYONE X - - - - -
+                JUMP X - - - - -
+               DRIVE S - - - - S
+                 8.1 X - - - - -
+                CANT S - - - - -
+               ERROR - X - - - -
+ORG.FREEDESKTOP.DBUS.ERROR.NOREPLY - X - - - -
+               REPLY - O O - - -
+               CAUSE - - S - - -
+         APPLICATION - - S - - -
+             MESSAGE - - X - - -
+                 BUS - - X - - -
+            SECURITY - - X - - -
+              POLICY - - S - - -
+             TIMEOUT - - S - - -
+             NETWORK - - X - - -
+          CONNECTION - - S - - -
+               BREAK - - O - - -
+                  HD - - - X - -
+              VOLUME - - - - - O
+           FREEAGENT - - - - - X
+            SHUTDOWN - - - - - S
+                 0,0 - - - - - X
+           OPERATION - - - - - O
+                NTFS - - - - - S
+                MARK - - - - - O
+                 USE - - - - - X

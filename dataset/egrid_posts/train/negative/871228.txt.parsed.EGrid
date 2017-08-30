@@ -1,0 +1,6 @@
+        POST-INSTALL X - - - -
+         POST-INVOKE - X X - -
+                DPKG - - O - -
+                FILE - - X - -
+/ETC/APT/APT.CONF.D/ - - X - -
+             COMMAND - - O - -

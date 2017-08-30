@@ -1,0 +1,17 @@
+               GOMEK X - - - - - -
+             COLUMNS - X - - - - -
+                TTYS - X - - - - -
+                ID:2 - - O - - - -
+          INITDEFALT - - X - - - -
+                ID:3 - - X - - - -
+                HERE - - - O - - -
+                  .1 - - - S - - -
+             RESPAWN - - - S - - -
+         /SBIN/GETTY - - - X - - -
+                TTY1 - - - O - - -
+                 KDM - - - - S - -
+                 2-4 - - - - X - -
+                BOOT - - - - X - -
+             COMMAND - - - - X - -
+                 APP - - - - - O -
+                   / - - - - - X -

@@ -1,0 +1,16 @@
+                 ONE X - - -
+            HARDDISK X - - -
+              ERRORS X - - -
+              REPAIR - X - -
+           BADBLOCKS - X - -
+               DRIVE - S - -
+                FSCK - O X -
+                  .. - O - -
+                INFO - O - -
+              E2FSCK - S - X
+                 EXT - X - -
+                   * - X - -
+                 USE - - O -
+              PARTIS - - X -
+                  -P - - - X
+       /DEV/WHATEVER - - - X

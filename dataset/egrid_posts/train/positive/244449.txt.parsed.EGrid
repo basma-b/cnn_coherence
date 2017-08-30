@@ -1,0 +1,16 @@
+                NEED X - - -
+              /CDROM X - X -
+                ROOT X - - -
+                 RPM O - - -
+                 DEB X - - -
+               ALIEN X - - -
+                  YA S - - -
+           INSTALLER O - - -
+                  CD S - - -
+               STICK S - - -
+  /DEV/CDROMS/CDROM0 - X S -
+                LINK - - O -
+              DEVICE - - X -
+                CANT - - - X
+               IMAGE - - - O
+                 DIR - - - X

@@ -1,0 +1,19 @@
+                 WEP - X - - - -
+                 KEY - O - - - -
+          INTERFACES - X - - O -
+                FILE - X - - - -
+              SCRIPT - - S - - -
+             OPTIONS - - O - - -
+/ETC/NETWORK/INTERFACES - - X - - -
+            SETTINGS - - O - - -
+                CALL - - - X - -
+            IWCONFIG - - - X - -
+                  BY - - - - S -
+                NAME - - - - O -
+               THERE - - - - S -
+                 MAN - - - - X -
+                TYPE - - - - O -
+               SHELL - - - - X -
+         ENVIRONMENT - - - - X -
+                  .. - - - - X -
+                 YES - - - - - X

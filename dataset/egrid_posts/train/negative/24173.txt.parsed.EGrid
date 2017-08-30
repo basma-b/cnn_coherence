@@ -1,0 +1,17 @@
+                FILE X S - - -
+              OUTPUT X X - - -
+              SYSTEM X - - - -
+             STARTUP X - - - -
+      /VAR/LOG/DMESG - X - - -
+              KERNEL - S - - -
+             MESSAGE - O - - -
+                LOAD - O - - -
+               START - O - - -
+              FORMAT - - X - -
+                 PEN - - O - -
+                WBFS - - X - -
+             WIITHON - - X - -
+             PROGRAM - - O - -
+                YEAR - - - - X
+                 KID - - - - X
+                  .. - - - - X

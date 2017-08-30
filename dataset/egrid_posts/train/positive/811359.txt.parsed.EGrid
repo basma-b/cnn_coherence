@@ -1,0 +1,10 @@
+              SWITCH S - - - X
+              ROUTER X - - - -
+                PING - X - S -
+              SERVER - - - S -
+             ROUTERS - - - - S
+               DELAY - - - - X
+                ICMP - - - - X
+               REPLY - - - - O
+             REQUEST - - - - O
+                  IP - - - - X

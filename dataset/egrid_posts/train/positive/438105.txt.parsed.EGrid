@@ -1,0 +1,40 @@
+              REASON X - - - - - - - - - -
+              DRIVER S - - - - - - - - - -
+         PROPRIETARY X - - - - - - - - - -
+                WORK O - - - - - - - - - -
+             UPGRADE X - - - - - - - - - -
+            HARDWARE X - - - - - - - - - -
+             DRIVERS X - - - - - - - - - -
+             MODULES O - - - - - - - - - -
+              REBOOT X - - - - - X - - - -
+         SUGGESTIONS X - - - - - - - - - -
+                SUDO - X - - - - - - - - -
+                  -C - S - - - - - - - - -
+        /ETC/MODULES - O - - - - - X - - -
+                CANT - S - - - - - - - - -
+                ISNT - X - - - - - - - - -
+            ANYTHING - S - - - - - - - - -
+             NOTHING - - S - - - - - - - -
+/LIB/MODULES/2.6.24-17-GENERIC/VOLATILE/FGLRX.KO - - - S - - - - - - -
+             VERSION - - - O - - - - - - -
+UBUNTU-RESTRICTED-MODULES - - - X - S - - - - -
+                 -16 - - - - O - - - - - -
+                   | - - - - - X - - - - -
+                GREP - - - - - X X X - - -
+                 ^II - - - - - X S - - - -
+                   < - - - - - O - - - - -
+                LINE - - - - - O S - - - -
+            MODPROBE - - - - - - S O - - -
+                 ONE - - - - - - S - - - -
+                  .. - - - - - - O - - - X
+              NUMBER - - - - - - X - - - -
+           2.6.24-16 - - - - - - X - - - -
+LINUX-RESTRICTED-MODULES - - - - - - X - - - -
+              INSTAL - - - - - - O - - - -
+                  KO - - - - - - S - - - -
+               FGLRX - - - - - - - O O - -
+           REINSTALL - - - - - - - X - - -
+                 .KO - - - - - - - O - - -
+             PACKAGE - - - - - - - O - - -
+               GNOME - - - - - - - S - - -
+          PROCEDURES - - - - - - - - - - X

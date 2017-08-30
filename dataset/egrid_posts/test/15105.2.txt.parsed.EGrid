@@ -1,0 +1,17 @@
+            NEIGHBOR S - - - -
+               NIGHT X - - - -
+                 COP O - - - -
+                 USE X - - - -
+               LINUX S - - - -
+                WIFI X - - - -
+             ZENTYAL - - O - -
+                RULE - - O - O
+              ACCESS - - O O -
+             ADDRESS - - X X -
+              SERVER - - - S -
+           HARDDRIVE - - - X -
+            RECOVERY - - - X -
+             MACHINE - - - X -
+                  .. - - - X -
+    ZENTYAL-FIREWALL - - - - S
+             COMMAND - - - - O

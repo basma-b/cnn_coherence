@@ -1,0 +1,30 @@
+               LOGON X - - - - - - - - - - - -
+             DISABLE O - - - - - - - - - - - -
+              SERVER X - - - - - - - - X - - -
+                 BOX X - - - - - - - - - - - -
+                 USE X - - - - X - - - - - - -
+                 SSH X - - - - X - - - - - - -
+             MACHINE X - - - - X - - - - - - -
+             SOMEONE - X - - - - - - - - - - -
+/ETC/SSH/SSHD_CONFIG - - O - - - - - - - - - -
+            USELOGIN - - X - - - - - - - - - -
+                SSHD - - X - - - - - - - - - -
+               THERE - - - X - - - - - - - - -
+           SOMETHING - - - X - - - - - - - - -
+              AFFECT - - - - X - - - - - - - -
+                KIND - - - - X - - - - - - - -
+         CREDENTIALS - - - - - O - - - - - - -
+                 ATM - - - - - X - - - - - - -
+              PUBKEY - - - - - O O - - - - - -
+                 ONE - - - - - O - - - - - - -
+          SSH-KEYGEN - - - - - - X - - - - - -
+                 SET - - - - - - - O - - - - -
+                 KEY - - - - - - - O - - - - -
+         SSHD_CONFIG - - - - - - - - - O - - -
+                  OK - - - - - - - - - X - - -
+PASSWORDAUTHENTICATION - - - - - - - - - S - - X
+              CONFIG - - - - - - - - - - S - -
+                MESS - - - - - - - - - - X - -
+               PURGE - - - - - - - - - - O - -
+             PACKAGE - - - - - - - - - - O - -
+                THIS - - - - - - - - - - - - O

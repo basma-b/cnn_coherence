@@ -1,0 +1,16 @@
+                SUDO X - - - - - -
+               ROUTE X - - - - - -
+                  -N S - - - - - -
+                GREP X - - - - - -
+                  UG O - - - - - -
+         DESTINATION O - - - - - -
+             COMMAND O - - - - - X
+                  IP - O - - - - -
+                ETH0 - X - - - - -
+                ETH1 - X - - - - -
+                 ONE - - S - - - -
+             DEFAULT - - - X - - -
+            GATEWAYS - - - O - - -
+          TRACEROUTE - - - - S - -
+             GATEWAY - - - - X - -
+                BASH - - - - - - S

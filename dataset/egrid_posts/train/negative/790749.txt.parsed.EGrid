@@ -1,0 +1,14 @@
+                FILE O - - -
+          /BOOT/GRUB X - - -
+              CONFIG - O - -
+ /BOOT/GRUB/GRUB.CFG - X - -
+   /ETC/DEFAULT/GRUB - X - -
+              FORMAT - - X -
+                WIKI - - O -
+                 ETC - - O -
+           W32CODECS - - O -
+          TOTEM-XINE - - O -
+                 AVI - - S -
+              CODECS - - - X
+             APT-GET - - - S
+                 WIN - - - O

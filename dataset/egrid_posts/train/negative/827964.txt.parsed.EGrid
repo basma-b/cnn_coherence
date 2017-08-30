@@ -1,0 +1,17 @@
+                TIME X - - -
+      GRUB_TIMEOUT=5 S - - -
+                SECS X - - -
+             WINDOWS X - - -
+               ENTRY S - - -
+                MENU X - - -
+              CHANGE S - - -
+                NEED O - - -
+         UPDATE-GRUB X - - -
+              DAEMON - O - -
+               CLOSE - X - -
+               NATTY - X - -
+               SETUP - X - -
+                 MIX - - - O
+              THINGS - - - S
+                  .. - - - X
+/USR/SHARE/GDM/THEMES/CIRCLES - - - O

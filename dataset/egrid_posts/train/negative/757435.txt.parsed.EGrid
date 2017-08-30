@@ -1,0 +1,9 @@
+           PARTITION X - - -
+                DISK X - O -
+          BOOTLOADER O O - -
+                GRUB X X - -
+             WINDOWS O X S -
+        INSTALLATION - X - -
+                  CD - X - -
+               GNOME - - - O
+               EEEPC - - - X

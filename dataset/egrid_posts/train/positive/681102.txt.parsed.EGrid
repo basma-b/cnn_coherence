@@ -1,0 +1,19 @@
+              MODULE X - - - - - -
+              INITRD X - - - - - -
+        /ETC/MODULES - X - - - - -
+    UPDATE-INITRAMFS - O - - O - -
+                  -U - X - - X - -
+                LOAD - O - - - O -
+                BOOT - X - - - - -
+                THAT - - - S - - -
+/ETC/INITRAMFS-TOOLS/MODULES - - - X X - -
+                FILE - - - X - - -
+             BUSYBOX - - - - S - -
+              EDITOR - - - - O - -
+                NEED - - - - O - -
+                  CD - - - - X - -
+             MODULES - - - - - S -
+               DUNNO - - - - - X -
+                  .. - - - - - X -
+                THNX - - - - - - X
+                 OK. - - - - - - X

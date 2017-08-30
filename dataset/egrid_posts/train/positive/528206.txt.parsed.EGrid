@@ -1,0 +1,24 @@
+            IFCONFIG - X S - - - - - - - -
+                 DNS - - X O O - - - - - -
+             SERVERS - - O O - - - - - - -
+                 NOT - - - S - - - - - - -
+             GATEWAY - - - S - - - - - - -
+                INFO - - - X - - - - O - -
+              SYNTAX - - - O - - - - - - -
+          NAMESERVER - - - - O - - - - - -
+              ROUTER - - - - O - - - - - -
+                 ISP - - - - X - - - - - -
+             OPENDNS - - - - - S - - - - -
+                HTTP - - - - - X - - - - -
+             COMMAND - - - - - - S - - - -
+                  OK - - - - - - - O - - X
+                LINK - - - - - - - X - - -
+           DHCP.CONF - - - - - - - O - - -
+              CONFIG - - - - - - - X - - -
+              LIVECD - - - - - - - - X - X
+/ETC/NETWORK/INTERFACES - - - - - - - - O - -
+                  YA - - - - - - - - - X -
+               ISSUE - - - - - - - - - S -
+              UBUNTU - - - - - - - - - - X
+          AUTOCONFIG - - - - - - - - - - X
+              REFUSE - - - - - - - - - - X

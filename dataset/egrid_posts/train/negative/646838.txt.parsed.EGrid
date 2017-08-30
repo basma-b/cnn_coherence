@@ -1,0 +1,11 @@
+  DO-RELEASE-UPGRADE S - - - -
+              SERVER X - - - -
+             MACHINE X - - - -
+               PANIC O - - - -
+              KERNEL X - - - -
+              CHROOT - X - - -
+             ATTEMPT - S - - -
+               SHELL - X - - -
+             NOTHING - - - X -
+                AMSN - - - - O
+                 MSN - - - - O

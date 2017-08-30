@@ -1,0 +1,15 @@
+               FBDEV - S - - - -
+             SOMEONE - X - - - -
+             MODULES - - O - - -
+              DRIVER - - S - - -
+              KERNEL - - X - - -
+        FRAMEBUFFERS - - X - - -
+            /DEV/FB0 - - X - - -
+            /DEV/FB1 - - X - - -
+                THAT - - - O - -
+                CANT - - - X - X
+              DETAIL - - - X - -
+              SECTOR - - - X - -
+                SIZE - - - - - S
+                BOOT - - - - - X
+              DEVICE - - - - - X

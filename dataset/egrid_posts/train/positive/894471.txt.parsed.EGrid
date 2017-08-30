@@ -1,0 +1,18 @@
+                SUDO X - - - - X
+            DHCLIENT X - - - S X
+             SERVICE O - X X O -
+     NETWORK-MANAGER - X - - - -
+                ETH0 - - O - - S
+             RANTHER - - X - - -
+              SCRIPT - - O - - -
+         /ETC/INIT.D - - X - - -
+             UTILITY - - O - - -
+                SMBD - - - S - -
+                 MAN - - - - X -
+                SIDE - - - - X -
+               THERE - - - - S -
+                FILE - - - - X -
+/VAR/RUN/DHCLIENT.PID - - - - X -
+             VERSION - - - - X -
+              UBUNTU - - - - X -
+               11.10 - - - - - X

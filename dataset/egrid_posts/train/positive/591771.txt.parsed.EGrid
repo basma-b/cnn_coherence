@@ -1,0 +1,11 @@
+              KERNEL O - - - - - - -
+              NVIDIA X X O S - - - -
+             DRIVERS X - - - - - - -
+              SYSTEM - S - - - - - -
+              MODULE - S - - - - - -
+            MODPROBE - - S - - O - -
+              INSMOD - - - X - - - -
+               IDEAS - - - - X - - -
+                SUDO - - - - - X - -
+              DEPMOD - - - - - X - -
+                 ALL - - - - - S - -

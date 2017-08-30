@@ -1,0 +1,28 @@
+                LINE X - - - - - -
+                 TOP X - - - - - -
+             WARNING X - - - - - -
+/BUILD/BUILDD/LINUX-2.6.38/KERNEL/PRINTK.C X - - - - - -
+DO_SYSLOG+0XC0/0X550 X - - - - - -
+            HARDWARE X - - - - - -
+                NAME X - - - - - -
+               X7DB8 X - - - - - -
+                  TY S - - - - - -
+              UPDATE O - - - - - -
+            SHUTDOWN - - - X - - -
+              KERNEL - - - O S - -
+              SYSTEM - - - X - - -
+              ACCESS - - - - O - -
+               LIGHT - - - - X - -
+             MANAGER - - - - X - -
+                TIME - - - - - X -
+                 ONE - - - - - S -
+                BOOT - - - - - X -
+                 1ST - - - - - O -
+                GRUB - - - - - X -
+                CONF - - - - - X -
+                  .. - - - - - - X
+             VERSION - - - - - - X
+                WINE - - - - - - X
+              0.9.17 - - - - - - X
+                SHIP - - - - - - X
+                .9.9 - - - - - - X

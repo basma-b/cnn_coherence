@@ -1,0 +1,16 @@
+              SYNTAX X - - - -
+               SHARE O X - - -
+                 NFS - X - - -
+               STUFF - O - - -
+        /ETC/EXPORTS - X - - -
+               THING - X - - -
+               MOUNT - - X - -
+                CIFS - - X - -
+        //HOST/SHARE - - X - -
+          MOUNTPOINT - - S - -
+                NEED - - O - -
+             CONSOLE - - X - -
+                THAT - - - S -
+              CLIENT - - - X -
+             COMMAND - - - - O
+              SERVER - - - - X

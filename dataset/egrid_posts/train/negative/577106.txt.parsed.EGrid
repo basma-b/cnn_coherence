@@ -1,0 +1,15 @@
+               DRIVE S - - - - - -
+                  RW X - - - - - -
+         PERMISSIONS - X O - - - -
+          MOUNTPOINT - X - - - - -
+                 UID - - X - - - -
+               UMASK - - X - - - -
+                LINE - - O - - - -
+          /MNT/USBFS - - S S - - -
+            EVERYONE - - X - - - -
+               CHMOD - - - X - - -
+                A+RW - - - X - - -
+               ERROR - - - X - - -
+             MESSAGE - - - S - - -
+            WEBSITES - - - - - - X
+             YOUTUBE - - - - - - X

@@ -1,0 +1,11 @@
+       X11/XORG.CONF X - - - - - - -
+         IDENTIFIERS X - - - - - - -
+              SCREEN X - - - - - - -
+                  .. X - - O - - - -
+         XSERVER-ORG O - - - - - - -
+              LATTER - - - X - - - -
+             DEFAULT - - - X - - - -
+             MONITOR - - - S X - X -
+               BLINK - - - O - - - -
+            GRAPHICS - - - - - - X -
+                CARD - - - - - - X -

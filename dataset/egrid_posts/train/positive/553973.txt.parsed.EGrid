@@ -1,0 +1,11 @@
+      UBUNTU-DESKTOP X - - - -
+        AUTOSTARTING X - - - -
+               THING - X - - -
+                 GDM - S - - -
+             COMMAND - X - - -
+               START - - - - X
+         UPDATE-RC.D - - - - X
+                LINK - - - - O
+                   * - - - - X
+                AUTO - - - - X
+            SYMLINKS - - - - O

@@ -1,0 +1,7 @@
+GNOME-VOLUME-MANAGER X - X -
+                DBUS S - - -
+                  SS - - X -
+DEFAULT5DBUS-DAEMON-1 - - X -
+                FORK - - X -
+             SESSION - - S -
+                 YES - - - X

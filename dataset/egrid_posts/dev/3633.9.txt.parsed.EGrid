@@ -1,0 +1,17 @@
+             COMMAND X - -
+                LINE X - -
+              WINDOW X - -
+               XTERM - X -
+      GNOME-TERMINAL - X -
+                  VM - - O
+           WEBSERVER - - X
+             NETWORK - - O
+              ACCESS - - O
+             ADDRESS - - X
+                HTTP - - X
+//VM.IP.ADDRESS/MYPHPFILE.PHP - - X
+                LAMP - - O
+             DESKTOP - - X
+             MACHINE - - X
+                FILE - - O
+//LOCALHOST/MYPHPFILE.PHP - - X

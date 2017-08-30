@@ -1,0 +1,26 @@
+             PROBLEM O - - - - - - - - -
+             DESKTOP X - - - - - - - - -
+         DBUS-DAEMON - O - - - - - - - -
+              SYSTEM - O - - - - - X - -
+                BOOT - - O - - - - - - -
+              UBUNTU - - X - - - - - - -
+            RECOVERY - - X - X - - - - -
+                MODE - - X - X - - - - -
+                DBUS - - O - - - - - - -
+            KEYBOARD - - - X - - - - - -
+               MOUSE - - - S - - - - - -
+           REINSTALL - - - - O - - - - -
+                ROOT - - - - X - - - - -
+            TERMINAL - - - - X - - - - -
+             NOTHING - - - - - X - - - -
+             SYSTEM- - - - - - - X - - -
+                   > - - - - - - X - - -
+     ADMINISTRATION- - - - - - - X - - -
+            SERVICES - - - - - - S - - -
+                 RUN - - - - - - - X - -
+             STARTUP - - - - - - - X - -
+                THIS - - - - - - - S - -
+               HTTPS - - - - - - - X - -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/DBUS/+BUG/207157 - - - - - - - X - -
+                THAT - - - - - - - - O -
+              THANKS - - - - - - - - - X

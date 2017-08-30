@@ -1,0 +1,26 @@
+            PROGRE55 - X - - - - - -
+                 WAY - X - - - - - -
+                   * - X - - - - - -
+                THAT - - S - - - - -
+                JRIB - - X - - - - -
+                 DNS - - X - - - - -
+              SERVER - - O - - - - -
+      208.67.222.222 - - O O - - - -
+             OPENDNS - - X - - - - -
+         NAMESERVERS - - O - S - - -
+    /ETC/RESOLV.CONF - - - S - - - -
+                 MAN - - - O - - - -
+          NAMESERVER - - - X - - - -
+             ENTRIES - - - X - - - -
+                COOL - - - O - - - -
+                DHCP - - - X - - - -
+       CONFIGURATION - - - X - - - -
+               LEVEL - - - - X - - -
+           SOMETHING - - - - O - - -
+/ETC/DHCP3/DHCLIENT.CONF - - - - - O - -
+                THIS - - - - - O - -
+ DOMAIN-NAME-SERVERS - - - - - X - -
+208.67.222.222,208.67.220.220 - - - - - X - -
+             VERSION - - - - - - - S
+              UBUNTU - - - - - - - X
+            DHCLIENT - - - - - - - O

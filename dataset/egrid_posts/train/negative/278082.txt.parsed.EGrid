@@ -1,0 +1,16 @@
+                 ONE S - -
+             WINDOWS S - -
+          /ETC/FSTAB O - -
+                BOTH - O -
+                LINE - O -
+                   > - X -
+           /DEV/SDB1 - S -
+            NLS=UTF8 - O -
+                VFAT - X -
+                  RO - X -
+                   ' - - X
+              BUTTON - - O
+              CHANGE - - X
+             DESKTOP - - X
+           WALLPAPER - - X
+              DIALOG - - X

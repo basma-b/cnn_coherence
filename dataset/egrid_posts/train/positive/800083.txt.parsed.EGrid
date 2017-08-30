@@ -1,0 +1,13 @@
+              ANYONE X - - - - - - -
+                STOP X - - - - - - -
+                WORK X - - - - - - -
+                BOOT X - - - - - - -
+            DHCLIENT - - X - - - - -
+                 NIC - - - S - - - -
+          DHCPCLIENT - - - - O - - -
+                 ALL - - - - - S - -
+/ETC/NETWORK/INTERFACES - - - - - X - -
+                 MAN - - - - - - S -
+                AUTO - - - - - - - X
+                  LO - - - - - - - S
+            LOOPBACK - - - - - - - O

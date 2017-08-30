@@ -1,0 +1,12 @@
+              FORMAT X - - - - - - - -
+                FILE O - - - - - - - -
+          FILESYSTEM X - - - - - - - -
+               MOUNT O - - - X - - - -
+             DEVICES - - X - - - - - -
+              MEMORY - - - S - - - - -
+                PAGE - - - - X - - - -
+              MANUAL - - - - X - - - -
+                HINT - - - - O - - - -
+          CONNECTION - - - - - X - - -
+                THIS - - - - - - X - -
+                 MAN - - - - - - - - X

@@ -1,0 +1,17 @@
+             COMMAND S X - -
+               IMAGE O X - -
+              DEVICE X - - -
+          FILESYSTEM X - - -
+           DIRECTORY X - - -
+            /MNT/ISO X - - -
+               MOUNT - X - -
+               .THIS - X - -
+               MOVIE - S - -
+               LEVEL - X - -
+                 SET - O - -
+              PLAYER - X - -
+                WORK - O - O
+                TYPE - X - -
+                .ISO - - - S
+          PARAMETERS - - - X
+                EACH - - - X

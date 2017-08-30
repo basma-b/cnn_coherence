@@ -1,0 +1,8 @@
+                DIRS X O -
+               CHECK O - -
+                 LIB X - -
+        PROGRAM-NAME - X -
+                LIBS - X -
+                LOAD - O -
+              SEARCH - X -
+                /ETC - - X

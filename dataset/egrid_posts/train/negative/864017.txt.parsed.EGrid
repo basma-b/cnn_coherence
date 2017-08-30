@@ -1,0 +1,8 @@
+               PROXY X - - -
+             APT-GET X - - -
+             ACQUIRE - X - -
+                HTTP - X - -
+         //YOURPROXY - X - -
+                PORT - X - -
+/ETC/APT/APT.CONF.D/10PROXY - X - -
+                   D - - X -

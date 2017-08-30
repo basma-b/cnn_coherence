@@ -1,0 +1,9 @@
+             COMMAND X - -
+                LINE X - -
+          EQUIVALENT X - -
+         SYNCHRONIZE X - -
+               CLOCK O - -
+                 GUI X - -
+                SUDO - X -
+ /ETC/INIT.D/NTPDATE - S -
+                  OK - - X

@@ -1,0 +1,17 @@
+          PERMISSION O - - - X - - - -
+             FOLDERS X - - - O - - - -
+                FILE X - - - X - - - -
+                ROOT X - X - - - - - -
+                USER X - X - X - - - -
+         PERMISSIONS - - - - S - - - -
+                EXEC - - - - - - X - -
+              FORMAT - - - - - - X - -
+               ERROR - - - - - - X - -
+               AFAIK - - - - - - - S -
+                THIS - - - - - - - S S
+                JAIL - - - - - - - S -
+           LIBRARIES - - - - - - - O -
+                BASH - - - - - - - X -
+               SHELL - - - - - - - O -
+              BINARY - - - - - - - S -
+             INSTALL - - - - - - - - S

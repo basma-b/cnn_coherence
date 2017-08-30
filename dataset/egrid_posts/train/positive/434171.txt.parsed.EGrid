@@ -1,0 +1,21 @@
+             PACKAGE X X - -
+         AUTOMAKE1.9 - X - -
+               HARDY - X X -
+             DEFAULT - X - X
+              THINGS - O - -
+                HTTP - O - -
+//PACKAGES.UBUNTU.COM - S - -
+             ADDRESS - S - -
+                FILE - X - O
+                TYPE - X - -
+            FILENAME - S - -
+                 NON - X - -
+              INSTAL - X - -
+              UPDATE - X - -
+               THING - S - -
+//MD.ARCHIVE.UBUNTU.COM/UBUNTU/DISTS/HARDY-UPDATES/CONTENTS-I386.GZ - O - -
+            APT-FILE - - S -
+               RUMOR - - O -
+               BREAK - - X -
+         ALTERNATIVE - - - O
+            AUTO-APT - - - O

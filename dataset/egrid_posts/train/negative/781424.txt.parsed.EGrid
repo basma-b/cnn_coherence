@@ -1,0 +1,6 @@
+        LIB32STDC++5 O - - -
+             DEPENDS O - - -
+           IA32-LIBS O X - -
+        LIB32STDC++6 - O - -
+           LOGROTATE - - - S
+               BREAK - - - O

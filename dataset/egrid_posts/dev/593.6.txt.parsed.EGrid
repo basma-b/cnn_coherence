@@ -1,0 +1,18 @@
+                HELP O - - - - - - - -
+                  .. - X - X - - - - -
+   /ETC/DEFAULT/GRUB - O - - - - - - -
+                TEXT - X - S X S X - -
+                MODE - X - X X - - - -
+               PROMP - X - - - - - - -
+              ANYONE - - X - - - - - -
+               LOGIN - - - X X - - - -
+              CHANGE - - - O - - - - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - - O - - - - -
+                BOOT - - - X O - - - -
+                SUDO - - - X - - - - -
+         UPDATE-GRUB - - - O - - - - -
+                WORK - - - - - X - - -
+                GRUB - - - - - - X - -
+       AMAZON/NEWEGG - - - - - - - - X
+               CAUSE - - - - - - - - X
+                THIS - - - - - - - - S

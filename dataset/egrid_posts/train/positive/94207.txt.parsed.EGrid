@@ -1,0 +1,26 @@
+              ERRORS S - - - - -
+                 LOG X - - - - -
+              PYTHON X - - - - -
+             PROGRAM X - - - - -
+              OPTION O - - - - -
+/ETC/MODPROBE.D/YOUR_MODULE.CONF X - - - - -
+                 THE - X - - - -
+                FILE - O - - - -
+               ALINE - X - - - -
+          OPTION=FOO - X - - - -
+         OPTION2=BAR - X - - - -
+                  » - O - - - -
+                 ONE - X - - - -
+               SENSE - O - - - -
+                 WAY - - X - - -
+                LOAD - - X - - -
+             OPTIONS - - S - - -
+              MODULE - - X - - -
+                THAT - - - S - -
+               DMESG - - - O - -
+               CHECK - - - - O -
+                JUST - - - - S -
+                WORK - - - - O -
+               THERE - - - - - S
+              PLCACE - - - - - X
+               /SYS/ - - - - - X

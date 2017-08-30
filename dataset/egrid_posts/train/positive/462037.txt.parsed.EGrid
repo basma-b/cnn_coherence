@@ -1,0 +1,16 @@
+         COMBINATION X - - - -
+         UPDATE-GRUB X - - - -
+        GRUB-INSTALL X - - - -
+            BOOTMENU S - - - -
+           PARTITION O O - - -
+                GRUB - X X X -
+                DATA - S - - -
+                BOOT - X - - -
+               THERE - - S - -
+                HELP - - O - -
+             DEFAULT - - X - -
+                ROOT - - X - -
+              DEVICE - - X X -
+            LOCATION - - - X -
+                DISK - - - X -
+                 MBR - - - - O

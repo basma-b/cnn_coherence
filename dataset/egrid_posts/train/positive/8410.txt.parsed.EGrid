@@ -1,0 +1,14 @@
+                COPY X - - -
+              KERNEL X O - -
+              SOURCE X - - -
+             MODULES O - - O
+                TREE X - - -
+        LINUX-SOURCE - X - -
+                   * - X - -
+                  II - X - -
+          2.6.8.1-17 - S - -
+             VANILLA - X - -
+               PATCH - X - -
+             VERSION - X - O
+             KERNELS - - - S
+                  -R - - - O

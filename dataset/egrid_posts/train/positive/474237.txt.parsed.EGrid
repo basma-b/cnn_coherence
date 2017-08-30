@@ -1,0 +1,34 @@
+                THAT S - - -
+/ETC/NETWORK/INTERFACES O - - -
+                DHCP X - - -
+              SERVER X - - -
+                 RUN O - - -
+             NETWORK X X - X
+         EXAMPLE.ORG X - - -
+               /ETC/ S - - -
+                   * X - - -
+             PROFILE S - - -
+          INTERFACES S - - -
+               IFACE X - - -
+                ETH0 S - - -
+              STATIC O - - -
+             PROBLEM O - - -
+             PROCESS S - - -
+    /ETC/RESOLV.CONF S - - -
+            SETTINGS X - - -
+                NAME X - - -
+             SERVERS S - - -
+                UGET O - - -
+/ETC/DHCP3/DHCLIENT.CONF S - - -
+ DOMAIN-NAME-SERVERS O - - -
+               SETUP S - - -
+             PACKAGE O - - -
+                MINS O - - -
+                 FIX X - - -
+     KNETWORKMANAGER S - - -
+              CLIENT S - - -
+           SOMETHING S - - -
+            MANAGERS - O - -
+               DUNNO - - X -
+                  .. - - X -
+            WHATEVER - - - S

@@ -1,0 +1,7 @@
+                HELP O - - -
+                BOOT X - - -
+        GRUB_DEFAULT - - - O
+   /ETC/DEFAULT/GRUB - - - X
+               ENTRY - - - O
+                FILE - - - O
+        UPDATE-GRUB2 - - - O

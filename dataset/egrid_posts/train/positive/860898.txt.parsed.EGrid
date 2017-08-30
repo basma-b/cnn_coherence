@@ -1,0 +1,30 @@
+                HELP X - - - - - - - - -
+         INTELLIBOOK - O - - - - - - - -
+            COMPUTER - X - - - X - - - -
+                LOAD - X - - - - - - - -
+            TERMINAL - X - - - - - - - -
+             NOTHING - S - - - - - - - -
+                 GDM - O X X X - - - - -
+                SUDO - - - X - X - - - -
+                DPKG - - - X - - - - - -
+                   < - - - - O - - - - -
+                 ONE - - - - O - - - - -
+                BOOT - - - - X - - X - -
+         CTRL+ALT+F1 - - - - - S - - - -
+    /ETC/IONIT.D/GDM - - - - - S - - - -
+     /ETC/INIT.D/GDM - - - - - S - - - -
+               PRESS - - - - - X - - - -
+               YYOUO - - - - - - X - - -
+                USER - - - - - - X - - -
+                MODE - - - - - - X - X -
+                GRUB - - - - - - - X - -
+              SCREEN - - - - - - - X - -
+               SHIFT - - - - - - - X - -
+                 PIC - - - - - - - - X -
+               THERE - - - - - - - - S -
+            RECOVERY - - - - - - - - X -
+               HTTPS - - - - - - - - O -
+//HELP.UBUNTU.COM/COMMUNITY/GRUB2 - - - - - - - - X -
+   ACTION=ATTACHFILE - - - - - - - - - X
+              DO=GET - - - - - - - - - X
+TARGET=GRUB2.CHAINLOAD.GRUB.SM.PNG - - - - - - - - - X

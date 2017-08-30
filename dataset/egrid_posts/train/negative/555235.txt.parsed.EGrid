@@ -1,0 +1,23 @@
+               ISSUE O - - - -
+               SAMBA X - - - -
+               SETUP - S - - -
+              SERVER - O - - -
+                FILE - X - - -
+                HOME - X - - -
+             NETWORK - X - - -
+              ACCESS - - O - -
+               SHARE - - X - -
+            PASSWORD - - X - -
+                 ANY - - X - -
+             WINDOWS - - X - -
+                 BOX - - X - X
+                 MAC - - X - -
+                MINI - - S - -
+                  OS - - X - -
+                   X - - X - -
+      AUTHENTICATION - - X - -
+            SMB.CONF - - - S -
+                HTTP - - - X -
+//WWW.PASTEBIN.CA/1356083 - - - S -
+               GUEST - - - X -
+                 YES - - - X -

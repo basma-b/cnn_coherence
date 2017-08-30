@@ -1,0 +1,6 @@
+                 USE X - - -
+        CHECKINSTALL S - - X
+                 DEB O - - -
+                MAKE - - - S
+         ./CONFIGURE - - - S
+                SUDO - - - X

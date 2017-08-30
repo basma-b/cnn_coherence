@@ -1,0 +1,17 @@
+             APT-GET S - - - -
+               PURGE X - - - -
+               SAMBA O - - S -
+                 APT - S - - -
+             SERVICE - O - - -
+                  PS - X - - -
+                GREP - X - - -
+                 SMB - S - - -
+             NOTHING - S - - -
+          /ETC/SAMBA - - S - -
+              DEAMON - - - O -
+                SMBD - - - X -
+                   A - - - - X
+               IMAGE - - - - O
+                BASE - - - - X
+               LEGIT - - - - X
+                 ISO - - - - X

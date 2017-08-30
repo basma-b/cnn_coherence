@@ -1,0 +1,15 @@
+             WINDOWS X - - - -
+           PARTITION O X O O X
+                DISK X - - - -
+               SPACE X - - O -
+                 USE - X - - -
+             GPARTED - S - X -
+             DRIVERS - O - - O
+                RAID - X - - X
+          CONTROLLER - X - - X
+               ORDER - S - - S
+               LINUX - O - - O
+              UBUNTU - - X - -
+                 GUI - - - X -
+                 END - - - X -
+                ANY1 - - - - X

@@ -1,0 +1,18 @@
+                HELP O - - - - - - -
+               EMAIL O - - - - - - -
+                 PHP X - - - - - - -
+             POSTFIX - O - - - - - -
+              PEOPLE - S - - - - - -
+                DONT - X - - - - - -
+                FQDN - O - - - - - -
+       /ETC/HOSTNAME - O - - - - - -
+               ENTRY - O - - - - - -
+       YOUR.FQDN.TLD - - - O - - - -
+                 CAT - - - X - - - -
+           /ETC/HOTS - - - X - - - -
+                MAIL - - - S - - - -
+SMTPD_SASL_AUTH_ENABLE - - - - S - - -
+                   U - - - - X - - -
+                THER - - - - O - - -
+                AUTH - - - - - X - -
+              SERVER - - - - - S - -

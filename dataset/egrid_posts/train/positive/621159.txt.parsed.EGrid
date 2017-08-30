@@ -1,0 +1,18 @@
+               PRIVS O - - - - - - -
+     NETWORK-MANAGER S - - - - - - -
+           NM-APPLET - S - - - - - -
+                 VPN - - X - - - - -
+            FACILITY - - S - - - - -
+            GOPENVPN - - - X O - - -
+NETWORK-MANAGER-OPENVPN - - - - X - - -
+           PRIVILEGE - - - - X - - -
+                COOL - - - - X - - -
+             COMMAND - - - - X - - -
+                LINE - - - - O - - -
+                  NM - - - - S - - -
+                 USE - - - - - O - -
+                 ONE - - - - - S - -
+             OPENVPN - - - - - - - X
+          EVERYTHING - - - - - - - S
+           CURIOSITY - - - - - - - X
+            QUESTION - - - - - - - O

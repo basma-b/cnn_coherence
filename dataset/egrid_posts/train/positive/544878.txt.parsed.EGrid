@@ -1,0 +1,7 @@
+           PARTITION O - -
+                FILE O - -
+                SUDO X - O
+                TYPE X - -
+          PERMISSION - - O
+              FOLDER - - X
+                SHOW - - O

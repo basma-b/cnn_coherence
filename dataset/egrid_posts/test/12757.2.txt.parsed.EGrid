@@ -1,0 +1,12 @@
+              UBUNTU X - - -
+           PARTITION X - - -
+                EXT4 X - S -
+          DIFFERENCE - X - -
+                 MBR - - - S
+                GRUB - - - O
+                BOOT - - - X
+               LINUX - - - X
+           CHAINLOAD - - - X
+             WINDOWS - - - O
+              DOZENS - - - X
+             MACHINE - - - X

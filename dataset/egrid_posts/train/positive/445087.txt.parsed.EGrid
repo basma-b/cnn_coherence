@@ -1,0 +1,12 @@
+            IPTABLES X - - - - - X
+            FIREWALL X - - - - - -
+                  -J O - - - - - -
+        INPUT/OUTPUT X - - - - - -
+               CHAIN X - - - - - -
+                RULE O X - - - - X
+  ACCEPT/DROP/REJECT O - - - - - -
+              ACTION - O - - - - -
+            CLASSIFY - - X - - - -
+              SEARCH - - - X - - -
+             TRAFFIC - - - - - - X
+               SHAPE - - - - - - X

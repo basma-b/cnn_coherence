@@ -1,0 +1,18 @@
+                TIME X X - - - X
+                UDEV S - - - - -
+              SCRIPT O O - O S -
+               DRIVE X - - - - -
+                 USB - X - - - -
+               BUS== - X - - - -
+               SYSFS - X - - - -
+                  == - X - - - -
+    AA04012800007435 - X - - - -
+           SYMLINK+= - X - - - -
+           BACKUPUSB - X - - - -
+               RUN+= - X - - - -
+/HOME/CHRISTOPH/DESKTOP/BACKUPSCRIPT.SH - X - - - -
+             KDIALOG - - X - - -
+                DONT - - - S - -
+          WORKAROUND - - - O X -
+               TIMES - - - - O -
+                PAST - - - - - X

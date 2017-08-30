@@ -1,0 +1,19 @@
+                FILE X - - - - - - - -
+               STORE X - - - - - - - -
+           DIRECTORY X - - - - - - - -
+               KLIBC - X S - - - - - -
+                   C - - X - - - - - -
+             LIBRARY - - O - - - - - -
+              KERNEL - - X - - - - - -
+         INTEGRATION - - S - - - - - -
+             EXPLAIN - - X - - - - - -
+            FUNCTION - - - X - - - - -
+                ROLE - - - X - - - - -
+             PROGRAM - - - X - - - - -
+               SLEEP - - - X O - - - -
+/USR/LIB/KLIBC/BIN/SLEEP - - - X - - - - -
+                 MAN - - - - X - - - -
+                KEXI - - - - - - S - -
+             KUBUNTU - - - - - - X - X
+             DEFAULT - - - - - - - - X
+             PACKAGE - - - - - - - - O

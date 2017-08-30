@@ -1,0 +1,22 @@
+               SOUND S - - - -
+                NONE S - - - -
+            SETTINGS X - - - -
+              CHANGE O - - - -
+               PLACE X - - - -
+                 FIX X - - - -
+                 CAT - X - - -
+  /PROC/ASOUND/CARDS - X - - -
+              AMIXER - X - - -
+                HTTP - X - - -
+//PASTE.UBUNTU-NL.ORG/26368/ - X - - -
+          24-BIT/7.1 - - S - -
+             DEFAULT - - O - X
+                   * - - - X -
+    /ETC/ASOUND.CONF - - - X -
+              CA0106 - - - - X
+               GNOME - - - - O
+              SYSTEM - - - - X
+                   > - - - - S
+         PREFERENCES - - - - S
+                CARD - - - - X
+                  NP - - - - O

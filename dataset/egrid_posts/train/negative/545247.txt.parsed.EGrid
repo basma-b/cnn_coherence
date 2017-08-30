@@ -1,0 +1,14 @@
+               SOUND X X - -
+             MODULES S - - -
+                LOAD X - - -
+               APLAY X - - -
+                WONT X - - -
+             DEVICES O - - -
+                WORK O S - -
+         LOGIN-SOUND - X - -
+           SOUNDCARD - X - -
+              SYSTEM - X - -
+            SETTINGS - X - -
+               CHECK - - - X
+                 -SA - - - O
+                PERM - - - O

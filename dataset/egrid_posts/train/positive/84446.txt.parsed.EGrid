@@ -1,0 +1,36 @@
+               LINUX X - - - - - - -
+                 RTC X - - - - - - -
+               ERROR X - - - - - - -
+               IOCTL X - - - - - - -
+          PERMISSION S - - - - - - -
+              ANYONE X - - - - - - -
+                LINE S - - - - O - -
+              KERNEL - X - - - - - -
+                MAIL - X - - - - - -
+                LIST - X - - - - - -
+             MPLAYER - X - - - - - -
+             WEBSITE - X - - - - - -
+                HTTP - X - - - - - -
+//WWW.MPLAYERHQ.HU/HOMEPAGE/DESIGN7/DLOAD.HTML - X - - - - - -
+              CODECS - - O - O - O -
+             DESKTOP - - X - - - - -
+           DIRECTORY - - X - X - - -
+/USR/LOCAL/LIB/CODECS - - X - - O - -
+                THAT - - - X - - - -
+                  CD - - - - X - S -
+                THIS - - - - - X S -
+                HELP - - - - - O - -
+                SUDO - - - - - X X -
+                DPKG - - - - - X - -
+                 THO - - - - - - X -
+                 TAR - - - - - - X -
+PATH/TO/MY/WIN32CODECS.TAR - - - - - - O -
+                  ** - - - - - - X -
+                   * - - - - - - S -
+                FILE - - - - - - O -
+              SCREEN - - - - - - O -
+                XINE - - - - - - O -
+               THING - - - - - - - O
+           MICROSOFT - - - - - - - X
+              FORMAT - - - - - - - X
+             VERSION - - - - - - - O

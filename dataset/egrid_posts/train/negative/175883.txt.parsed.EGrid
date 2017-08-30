@@ -1,0 +1,26 @@
+             PROBLEM S - - - - - - - - - - -
+                 LOG X - - - - - - - - - - -
+              SYSTEM X X - - X - - - - - - -
+              CHANGE O - - - - - - - - - - -
+            MENU.LST - O - - - - - - - X - -
+              LIVECD - - O - - - - - - - - -
+                  HO - - - S - - - - - - - -
+                THAT - - - - S - - - - - - -
+          /BOOT/GRUB - - - - O - - - - - - -
+                DISK - - - - X - - - - - - -
+                  CD - - - - X - - - - - - -
+                 ONE - - - - X - - - - - - -
+           PARTITION - - - - - - X - - - - -
+                  .. - - - - - - - O - - - -
+/DEV/BOOT/GRUB/MENU.LST - - - - - - - S - - - -
+               THERE - - - - - - - O - - - -
+             DEFAULT - - - - - - - X - - - -
+                GRUB - - - - - - - X - - - -
+                ROOT - - - - - - - X - - - -
+              DEVICE - - - - - - - S - - - -
+                FILE - - - - - - - O - - - -
+               HD0,4 - - - - - - - X - - - -
+                HDA5 - - - - - - - - O - - -
+               HD0,5 - - - - - - - - S - - -
+               LINUX - - - - - - - - - - - O
+               STUFF - - - - - - - - - - - O

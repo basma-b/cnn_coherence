@@ -1,0 +1,9 @@
+                  DD X - -
+             COMMAND O - -
+                COPY O - -
+                DISK X X -
+                PIPE X - -
+              DEVICE - O -
+           PARTITION - O -
+        IF=/DEV/HDA1 - - X
+            WHATEVER - - X

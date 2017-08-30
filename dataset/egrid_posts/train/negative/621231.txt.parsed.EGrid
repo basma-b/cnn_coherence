@@ -1,0 +1,14 @@
+             PROBLEM X S - - -
+                UUID - O - - -
+                FILE - X - - -
+           PARTITION - S - - -
+            /DEV/HDA - O - - -
+                ROOT - X - - -
+                BOOT - O - - -
+                 NOW - X - - -
+               /BOOT - X - - -
+                 THE - - S - -
+          /ETC/FSTAB - - X - -
+                PROC - - S - -
+               POINT - - S - -
+             ARCHIVE - - - - O

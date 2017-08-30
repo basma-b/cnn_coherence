@@ -1,0 +1,10 @@
+            MODPROBE S - -
+              DEVICE X - -
+             MODINFO O - -
+              OUTPUT X - -
+        TOSHIBA_ACPI - X -
+                HTTP - X -
+//MEMEBEAM.ORG/TOYS/TOSHIBAACPIDRIVER - X -
+             TOSHIBA - S -
+             SUPPORT - O -
+               L355D - - O

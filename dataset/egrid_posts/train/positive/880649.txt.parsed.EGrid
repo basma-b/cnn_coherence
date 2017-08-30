@@ -1,0 +1,8 @@
+               USERS X - - - -
+        /ETC/SUDOERS X - - - -
+              VISUDO - X - - -
+               ADMIN - - S - -
+                USER - - S - -
+                SUDO - - O - -
+               RIGHT - - O - X
+             ACCOUNT - - O - -

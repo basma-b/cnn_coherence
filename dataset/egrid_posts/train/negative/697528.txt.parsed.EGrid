@@ -1,0 +1,17 @@
+/ETC/CRON.DAILY/LOGROTATE S - - - - -
+                 OEN X - - - - -
+                 BOX X - - - - -
+                  .. X - - - - -
+                 ADN X - - - - -
+          EVERYTHING S - - - - -
+           LOGROTATE X - S - - -
+                FILE S - - - - -
+              ROTATE O - - - - -
+ /ETC/LOGROTATE.CONF - X - - - -
+               STUFF - X - - - -
+     /ETC/CRON.DAILY - X - - - -
+                MAIL - - O - - -
+                 MTA - - O - - -
+           SOMETHING - - O - - -
+                THAT - - - - S -
+                 YES - - - - O -

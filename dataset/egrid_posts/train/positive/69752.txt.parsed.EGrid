@@ -1,0 +1,41 @@
+NVIDIA-KERNEL-MODULE - X - - - - - - - - - - - - - - - - - -
+              BREEZY - X - - - X - - - - - - - - - - - - - -
+          NVIDIA-GLX - - S - - - - - - X - - - - - - - - - -
+              MODULE - - O - - - - O X - - - - - - - - - - -
+LINUX-RESTRICTED-MODULES - - O - - - - - - - - - - - - S - - - -
+                 USE - - - - S - - - - - - - - - - - - - - -
+               MOUNT - - - - X - - - - - - - - - - - - - - -
+              OPTION - - - - X - - - - - - - - - - - - - - -
+           NFSVERS=3 - - - - O - - - - - - - - - - - - - - -
+              SERVER - - - - O - - - - - - - - - - - - - - -
+              NOBODY - - - - - X - - - - - - - - - - - - - -
+            GRAPHICS - - - - - X - - - - - - - - - - - - - -
+               BOARD - - - - - X - - - - - - - - - - - - - -
+              NVIDIA - - - - - - X - - - - - - - - S - - - -
+                  NV - - - - - - X - - - - - - - - - - - - -
+              KERNEL - - - - - - - X - - - - - - - X - - - -
+                I.E. - - - - - - - X - - - - - - - - - - - -
+             PACKAGE - - - - - - - - X - - - - - - - - - - -
+                WORK - - - - - - - - - X - - - - - - - - - -
+                FINE - - - - - - - - - S - - - - - - - - - -
+             DRIVERS - - - - - - - - - O - - - - - - - - - -
+                SITE - - - - - - - - - X - - - - - - - - - -
+            PROBLEMS - - - - - - - - - O - - - - - - - - - -
+           COMPOSITE - - - - - - - - - X - - - - - - - - - -
+              DRIVER - - - - - - - - - S - - - - - - - - - -
+                 WAY - - - - - - - - - X - - - - - - - - - -
+        XSERVER-XORG - - - - - - - - - S - - - - - - - - - -
+              SYSTEM - - - - - - - - - S - - - - - - - - - -
+           NVIDIA.KO - - - - - - - - - O - - - - - - - - - -
+                THAT - - - - - - - - - - X - - - - - - - - -
+                 ERM - - - - - - - - - - - - O - - - - - - -
+                WAIT - - - - - - - - - - - - S - - - - - - -
+                LINE - - - - - - - - - - - - - - - X - - - -
+                FILE - - - - - - - - - - - - - - - O - - - -
+             DRIOVER - - - - - - - - - - - - - - - - O - - -
+                HTTP - - - - - - - - - - - - - - - - - - X -
+//PACKAGES.UBUNTU.COM/CGI-BIN//SEARCH_CONTENTS.PL - - - - - - - - - - - - - - - - - - X -
+      VERSION=BREEZY - - - - - - - - - - - - - - - - - - - X
+    CASE=INSENSITIVE - - - - - - - - - - - - - - - - - - - X
+      WORD=NVIDIA.KO - - - - - - - - - - - - - - - - - - - X
+SEARCHMODE=SEARCHFILES - - - - - - - - - - - - - - - - - - - X

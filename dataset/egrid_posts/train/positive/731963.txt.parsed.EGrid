@@ -1,0 +1,17 @@
+                THAT O - -
+                   E S - -
+                LOCK X - -
+  /VAR/LIB/DPKG/LOCK O X -
+            RESOURCE X - -
+      ADMINISTRATION X - -
+           DIRECTORY O - -
+      /VAR/LIB/DPKG/ X - -
+             PROCESS S - -
+                SUDO - X X
+               FUSER - X -
+                -VKI - X -
+                DPKG - S -
+                  -A - S -
+               ERROR - X -
+         CAUSINGFIRE - X -
+             APT-GET - S -

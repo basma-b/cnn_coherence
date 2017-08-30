@@ -1,0 +1,10 @@
+                 VPN O O - - -
+              SERVER O O - - -
+                SUDO X X - - -
+             APT-GET X X - - -
+               PPTPD X X - - -
+             DEFAULT X X - - -
+              CLIENT - - X - -
+                 END - - X - -
+         APPLICATION - - - - X
+             PLUGINS - - - - X

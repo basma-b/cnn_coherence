@@ -1,0 +1,17 @@
+             MESSAGE O - - -
+                CUPS X X - -
+              SERVER S - - O
+             CONTACT O - - -
+             PRINTER O - - -
+              DEAMON - X - -
+               START - - S -
+   /ETC/INIT.D/CUPSD - - X -
+             COMMAND - - S -
+        /ETC/INIT.D/ - - X -
+               THERE - - S -
+               CUPSD - - O -
+              REMOTE - - - X
+             PROBLEM - - - S
+             NETWORK - - - X
+             DEVICES - - - O
+             INITRAM - - - X

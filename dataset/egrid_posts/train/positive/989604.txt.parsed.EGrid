@@ -1,0 +1,23 @@
+                BASE O - - - - - - - - - - - - -
+                TIME - X X - - - - - - - - - X -
+            FOO.CRON - S - - - - - - - - - - - -
+              SCRIPT - - X - O - - O - - - - - -
+                BOOT - - X - - - - - - - - - - -
+              WINDOW - - - X - - - - - - - - - -
+         ENVIRONMENT - - - X - - - - - - - - - -
+             COMMAND - - - - X - - - - - - - - -
+                LINE - - - - X - - - - - - - - -
+/ETC/INIT.D/SKELETON - - - - S - - - - - - - - -
+                IDEA - - - - O - - - - - - - - -
+             DEFAULT - - - - X - - X - - - - - -
+          SCRIPTNAME - - - - S - - S - - - - - -
+               CHMOD - - - - - S - - S - - - - -
+                ROOT - - - - - X - - X - - - - -
+             PROBLEM - - - - - O - - O - - - - -
+                CRON - - - - - - - - - - - S - -
+           MECHANISM - - - - - - - - - - - O - -
+                   * - - - - - - - - - - - X - -
+             CRONTAB - - - - - - - - - - - - X -
+             MY.CRON - - - - - - - - - - - - O -
+             PROCESS - - - - - - - - - - - - - X
+             STARTUP - - - - - - - - - - - - - X

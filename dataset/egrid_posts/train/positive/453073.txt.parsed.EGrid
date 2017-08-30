@@ -1,0 +1,23 @@
+             NETWORK X X - - - - - -
+          CONNECTION S - - - - - - -
+                WORK O - - - - - - -
+                TYPE - X - - - - - -
+                SUDO - X - - - - - -
+/ETC/INIT.D/NETWORKING - S - - - - - -
+                  IM - S - - - - - -
+               8.04. - X - - - - - -
+                CARD - S - X - - - -
+              OPTION - O - - - - - -
+              ANYONE - - X - - - - -
+               THERE - - S - - - - -
+            ANYTHING - - O - - - - -
+                KIND - - - X - - - -
+               DMESG - - - - X - S -
+           INTERFACE - - - - S - - -
+             CHIPSET - - - - - X - -
+               BUNCH - - - - - - O -
+                ETH0 - - - - - - X -
+               ERROR - - - - - - X -
+             MESSAGE - - - - - - O -
+                LSHW - - - - - - - S
+                 NIC - - - - - - - O

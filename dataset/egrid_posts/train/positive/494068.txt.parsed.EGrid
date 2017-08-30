@@ -1,0 +1,23 @@
+                   > X O - X -
+/PROC/ACPI/VIDEO/VGA/LCD/BRIGHTNESS O - - - -
+                SUDO - X - - -
+                ROOT - X - - -
+                USER - X - - -
+             COMMAND - O O - -
+             EXAMPLE - X - - -
+              NUMBER - - O - -
+              SCREEN - - X - -
+          BRIGHTNESS - - O - -
+          PERMISSION - - O - X
+          PRIVELEGES - - S - -
+                  IO - - X - -
+         REDIRECTION - - X - -
+           OPERATORS - - O - -
+           SOMETHING - - - O -
+                  SH - - - X -
+                  -C - - - S -
+      /PROC/WHATEVER - - - O -
+       HARDCORELINUX - - - - X
+               THOSE - - - - X
+                BOTH - - - - S
+               ERROR - - - - O

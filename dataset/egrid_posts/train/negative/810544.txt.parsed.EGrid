@@ -1,0 +1,16 @@
+                TIFF O O - - -
+                 JPG X X - - -
+               IMAGE - X - - -
+              EDITOR - X - - -
+             PROGRAM - X - - -
+         COMMANDLINE - X - - -
+                TOOL - O - - -
+             PACKAGE - X - - -
+                NAME - X - - -
+/USR/SHARE/DOC/FUSESMB/EXAMPLES/FUSESMB.CONF.EX - - X - -
+/HOME/USERNAME/.SMB/FUSESMB.CONF - - S - -
+                FILE - - - X -
+                INFO - - - X -
+                USER - - - - S
+                FUSE - - - - X
+               GROUP - - - - X

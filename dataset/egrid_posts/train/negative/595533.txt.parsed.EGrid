@@ -1,0 +1,20 @@
+             KUBUNTU O - - - - - -
+               GNOME O - - X - - -
+              COMPIZ - S - - X S -
+             DEFAULT - X - - - - -
+      WINDOW-MANAGER - O - - - - -
+                THIS - - S - - - -
+             CONTROL - - O - - - -
+               THEME - - O - - - -
+             SESSION - - - O - - -
+              WINDOW - - - - X - -
+              BORDER - - - - S - -
+                SUDO - - - - - X -
+             APT-GET - - - - - O -
+COMPIZCONFIG-SETTINGS-MANAGER - - - - - O -
+             PACKAGE - - - - - - X
+                FILE - - - - - - O
+      /VAR/CACHE/APT - - - - - - X
+                DPKG - - - - - - S
+             MINIMAL - - - - - - S
+               THERE - - - - - - X

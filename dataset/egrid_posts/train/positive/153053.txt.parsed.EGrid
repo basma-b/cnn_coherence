@@ -1,0 +1,26 @@
+          PHPMYADMIN X - - - - - -
+             PACKAGE O - - - - - -
+                 DEP O O X - - - -
+PHP5|PHP4|PHP5-CGI|PHP4-CGI X - - - - - -
+                PHP5 S - O - X - -
+              SUPPLY O - - - - - -
+     LIBAPACHE2-PHP5 X X - - - - -
+         CALCULATION - X - - - - -
+        INSTALLATION - X - - - - -
+                DEPS - X - - - - -
+                CANT - S - - - - -
+     LIBAPACHE2-PHP4 - S - - - - O
+              REMOVE - O - - - - -
+               SENSE - O - - - - -
+              IGNORE - - O - - - -
+                 PHP - - O - - - -
+ LIBAPACHE2-MOD-PHP5 - - O - S - -
+               THING - - X - - - -
+              MODULE - - S - O - -
+              APACHE - - X - X - -
+                 ERM - - - - X - -
+         PHP5-COMMON - - - - O - -
+                 CLI - - - - - - O
+                 AHH - - - - - - X
+                 PKG - - - - - - X
+                WORK - - - - - - O

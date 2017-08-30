@@ -1,0 +1,14 @@
+              KOMBA2 O - - - -
+               SHARE X - - - -
+                FILE O - - - -
+                 SUB X X - - -
+             NETWORK X X - - -
+           192.168.2 X - - - -
+           192.168.0 - X - - -
+              APACHE - - X - -
+             SERVICE - - X - -
+ /ETC/INIT.D/APACHE2 - - - S -
+           GRUB.CONF - - - O -
+              HEALOT - - - - X
+              WALDEN - - - - X
+                BOOT - - - - X

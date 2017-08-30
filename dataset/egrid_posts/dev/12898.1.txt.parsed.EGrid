@@ -1,0 +1,28 @@
+              DRIVER S O -
+                WORK X - -
+                LIST O - -
+            WIRELESS X X -
+             NETWORK X X -
+            PASSWORD S - -
+            DOCUMENT X - -
+             WINDOWS X - -
+            SETTINGS S - -
+              INSTAL O O -
+                 YES - S -
+                 STA - X -
+            ANYTHING - O -
+             NOTHING - O -
+                ICON - X -
+             TASKBAR - X -
+FIRMWARE-B43-SOMETHINGOROTHER - O -
+                POST - X -
+           SOMETHING - - O
+                LINE - - X
+                SUDO - - X
+                  -I - - X
+                   > - - X
+/ETC/WPA_SUPPLICANT.CONF - - X
+         GROUP=WHEEL - - X
+              -DWEXT - - X
+                  -C - - X
+              DHCPCD - - X

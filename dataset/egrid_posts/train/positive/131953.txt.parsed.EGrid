@@ -1,0 +1,26 @@
+                THAT O - - - - - -
+UDEV/RULES.D/10-LOCAL.RULE X - - - - - -
+               EVENT X - - - - - -
+                RULE O - - - - X -
+   /DEV/INPUT/MX1000 X - - - - - -
+              FOLDER X - - - - - -
+             ANYBODY - S - - - S -
+               MOUSE - X - X - - -
+                 USE - O - - - - -
+                WORK - X - - - - -
+                  ER - - S - - - -
+             CHANNEL - - X - - - -
+            SPECIFIC - - X - - - -
+            HARDWARE - - X S - - -
+             SUPPORT - - X - - - -
+               /JOIN - - - X - - -
+             SOMEONE - - - X - - -
+               SETUP - - - X - - -
+           XORG.CONF - - - X - - -
+                FILE - - - - X - -
+                 GUI - - - - X - -
+         FILEMANAGER - - - - O - -
+                MESS - - - - - X -
+                  IG - - - - - - S
+                  FF - - - - - - X
+                ROOT - - - - - - S

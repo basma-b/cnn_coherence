@@ -1,0 +1,13 @@
+               PLACE X - -
+             STARTUP X X -
+             COMMAND O - -
+             STUNNEL - O -
+             INSTALL - S -
+            ANYTHING - O -
+         /ETC/INIT.D - X -
+                  .. - X -
+           SOMETHING - O -
+             SERVICE - X -
+              SCRIPT - O -
+              UPDATE - - O
+             10.04.4 - - X

@@ -1,0 +1,17 @@
+   /ETC/MODULES.CONF X - - - - - - -
+               THERE S - - - - - - -
+                NONE O - - - - - - -
+               HOARY X - - - - - - -
+       MODPROBE.CONF - X - - - - - -
+           SOMETHING - X - - - - - -
+              DEBIAN - - - X - - - -
+             DISTROS - - - S - - - -
+              CHANGE - - - O - - - -
+                FILE - - - O - - - -
+      /ETC/MODUTILS/ - - - X - - - -
+      UPDATE-MODULES - - - O - - - -
+                 RUN - - - - X - - -
+       UPDATE-MODULS - - - - O - - -
+               AVAIL - - - - X - - -
+        MODULES.CONF - - - - - S - -
+                RESP - - - - - - - X

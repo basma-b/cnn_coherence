@@ -1,0 +1,14 @@
+                 CAT X - X -
+           /DEV/NULL X - S -
+                   > X - - -
+/VAR/SPOOL/MAIL/ROOT O - O -
+          PERMISSION S - - -
+                ROOT - X - -
+               ISSUE - S - -
+              METHOD - X - -
+             MAILBOX - X - -
+                SUDO - - X -
+                BASH - - X -
+                  -C - - X -
+                   U - - - S
+                HELP - - - O

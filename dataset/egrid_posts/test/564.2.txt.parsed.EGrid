@@ -1,0 +1,25 @@
+                IPV6 X - O - - - -
+              REASON X - - - - - -
+                THIS - S - - - - -
+            DHCLIENT - X - - - - -
+                BOTH - - S - - - -
+                IPV4 - - X - - - -
+          CONNECTION - - S - - - -
+         REESTABLISH - - O - - - -
+                 WAY - - - X - - -
+                HOST - - - X - - -
+                 USE - - - X - - -
+             DESKTOP - - - X - - -
+             WINDOWS - - - - X X -
+           INSTALLER - - - - S - -
+                WUBI - - - - - S -
+                FILE - - - - - O -
+           PARTITION - - - - - O -
+              UBUNTU - - - - - X -
+           PROCEDURE - - - - - - S
+               HTTPS - - - - - - S
+//WIKI.UBUNTU.COM/WUBIGUIDE - - - - - - S
+      UNINSTALLATION - - - - - - S
+                 BED - - - - - - X
+              OTHERS - - - - - - S
+            QUESTION - - - - - - O

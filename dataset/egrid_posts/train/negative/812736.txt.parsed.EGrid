@@ -1,0 +1,14 @@
+               THERE X - - -
+                 WAY X - - -
+                 RAM X - - -
+              MEMORY O - - -
+                SUDO - X - -
+                SYNC - O - -
+              SYSCTL - S - -
+    VM.DROP_CACHES=3 - X - -
+    VM.DROP_CACHES=0 - X - -
+               LINUX - - X -
+                 USE - - X -
+            HARDWARE - - O -
+                THIS - - S -
+              KERNEL - - - O

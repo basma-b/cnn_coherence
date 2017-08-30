@@ -1,0 +1,14 @@
+                FILE O O O - -
+             COMMAND X O O - -
+            SHUTDOWN S S - - -
+               05:00 X X - - -
+ /ETC/INIT.D/APACHE2 S S - - -
+             DESKTOP X X - - -
+             EXAMPLE X X - - -
+            TERMINAL X X - - -
+                 RUN - X - - -
+             STARTUP - X X - -
+            RC.LOCAL - X X - -
+            QUESTION - - O - -
+                 SET - - S - -
+                CALL - - O - -

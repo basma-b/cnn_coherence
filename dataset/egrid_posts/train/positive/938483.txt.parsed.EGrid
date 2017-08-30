@@ -1,0 +1,16 @@
+                COPY X - - -
+              GTHUMB X - - -
+             PACKAGE X X - -
+                 MAN - X - -
+             APT-GET - S - -
+                HILD - X - -
+              UNPACK - S - -
+/VAR/APT/CACHE/ARCHIVER - X - -
+                 DEB - O - -
+                /TMP - X - -
+           SOMETHING - X - -
+                   K - - - X
+                  .. - - - O
+          SUGGESTION - - - X
+              RESULT - - - X
+               ERROR - - - X

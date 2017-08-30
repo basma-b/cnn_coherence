@@ -1,0 +1,20 @@
+              ANYONE X S - - -
+              LIVECD S S - - -
+              CLAMAV X - - - -
+                   W - X - - -
+             NETWORK - X - - -
+          CONNECTION - X - - -
+                LINE - O - - -
+               SETUP - - X - -
+             ADDRESS - - - X -
+            DHCLIENT - - - O X
+                THIS - - - O -
+                   > - - - S -
+                FILE - - - X -
+/VAR/RUN/DHCLIENT.PID - - - X -
+                  .. - - - X -
+              SOCKET - - - X -
+              FAMILY - - - X -
+            PROTOCOL - - - X -
+                SUDO - - - - X
+                ETH0 - - - - X

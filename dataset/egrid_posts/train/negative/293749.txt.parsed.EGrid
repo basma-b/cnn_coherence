@@ -1,0 +1,13 @@
+             COMMAND O X - - -
+              SYSTEM X - - - -
+             STARTUP X - - - -
+                  CD - - X - -
+   /HOME/BABO/DJANGO - - X - -
+           RUNSERVER - - X - -
+           CHKCONFIG - - X - -
+            RUNLEVEL - - - S -
+                  .. - - - O -
+             DEFAULT - - - X -
+             ALLWAYS - - - - S
+              UPDATE - - - - S
+              CHANGE - - - - X

@@ -1,0 +1,27 @@
+                IFUP O - - - - - - -
+               WLAN0 S X - - - - - -
+           INTERFACE X - - - - - - -
+            IFCONFIG X - X - - - - -
+                SPIT O - - - - - - -
+               THERE - X - - - - - -
+               MATCH - X - - - - - -
+                SUDO - - X - - - - -
+               PASTE - - O - X - - -
+              OUTPUT - - O - - - - -
+               FLOOD - - X - - - - -
+                 BOX - - X - - - - -
+             ADDRESS - - - S - - - -
+                 WAT - - - S - - - -
+                DHCP - - - X - - - -
+               LEASE - - - O - - - -
+              ROUTER - - - X - - - -
+            WIRELESS - - - X - - - -
+                CARD - - - X - - - -
+         SUGGESTIONS - - - S - - - -
+/ETC/NETWORK/INTERFACES - - - - O - - -
+                   K - - - - X - - -
+                 NIC - - - - O - - -
+               LSPCI - - - - X - - -
+              DRIVER - - - - - S - -
+               LSMOD - - - - - X - -
+                  CD - - - - - - - S

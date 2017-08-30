@@ -1,0 +1,17 @@
+                 ALL O - - - -
+        DEPENDENCIES X - - - -
+              ERRORS O - - - -
+             PROBLEM - O - - -
+//STACKOVERFLOW.COM/QUESTIONS/10867312/CANT-FIX-DEPENDECY-PROBLEMS-ON-UBUNTU-12-04-LIBCANBERRA-GTK - S - - -
+                SUDO - X - - -
+             APT-GET - S - - -
+            APTITUDE - S - - -
+                  .. - - O - -
+          EVERYTHING - - - O -
+               10.04 - - - X -
+               UNITY - - - O -
+         INCARNATION - - - X -
+                HTTP - - - - O
+                 PPA - - - - O
+                 BAR - - - - X
+//OMGUBUNTU.CO.UK/2012/04/ENABLE-DODGE-UNITY-LAUNCHER-UBUNTU-12-04/ - - - - X

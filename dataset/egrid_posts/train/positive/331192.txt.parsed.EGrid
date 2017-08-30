@@ -1,0 +1,11 @@
+             COMMAND O S -
+              SCRIPT X - -
+          BACKGROUND X - -
+              OUTPUT O - -
+                FILE X X -
+                 USE - X -
+              SCREEN - X S
+                   < - X -
+                   > - O -
+               SHELL - - X
+              THANKS - - X

@@ -1,0 +1,17 @@
+               SOUND S - - -
+               AUDIO O - - -
+               LSPCI X - - -
+           ALSAMIXER S X - X
+              OUTPUT O X - -
+                HTTP X - - -
+//WWW.ALSA-PROJECT.ORG/DB/ X - - -
+F=ACF8EBC2A7CF59E9EF886DCBACA417F9F0BAAA95 - S - -
+             DEVICES - X - -
+                CARD - - X O
+                  TV - - X -
+            FUNCTION - - - X
+        SND_CTL_OPEN - - - S
+             DEFAULT - - - X
+                FILE - - - X
+           DIRECTORY - - - X
+             CAPTURE - - - X

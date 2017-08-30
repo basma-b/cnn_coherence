@@ -1,0 +1,14 @@
+             OPENVPN X X - -
+              ACCESS X X - -
+              SERVER X S - -
+             NETWORK - O - -
+             MANAGER - X - -
+         SERVER-SIDE - O - -
+                 GUI - O - -
+                  .. - - - O
+                BOOT - - - S
+             WINDOWS - - - X
+            RECOVERY - - - X
+                DISK - - - X
+             COMMAND - - - X
+              FIXMBR - - - O

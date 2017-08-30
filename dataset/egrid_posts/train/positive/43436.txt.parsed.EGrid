@@ -1,0 +1,16 @@
+                 HMM X - - - -
+             COMMAND X - - - -
+             APT-GET X S - - S
+        DEPENDANCIES O S - - O
+           SOMETHING X - - - -
+                DPKG X - - - -
+            PROBLEMS - O - - -
+                DEPS - X - - -
+             VERSION - - O - -
+             PACKAGE - - - S -
+        SOURCES-LIST - - - X -
+              SOURCE - - - X -
+                NONE - - - S -
+                 WAY - - - - O
+               BREAK - - - - X
+                  -F - - - - S

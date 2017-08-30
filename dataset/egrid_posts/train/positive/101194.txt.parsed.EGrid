@@ -1,0 +1,7 @@
+                 GCC O O O - - -
+                   C X X X - - -
+                FILE O O O X - -
+              FOLDER X X X - - -
+           SOMETHING O O O - - -
+              HEADER - - - X - -
+           LIBC6-DEV - - - - - O

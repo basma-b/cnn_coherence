@@ -1,0 +1,12 @@
+                BOOT X X - - - - - - - -
+              SYSTEM O O - - - - - - - -
+               ERROR O O - - - - - - - -
+                GRUB X X - - - - - - - -
+              LOADER X X - - - - - - - -
+             NOTHING S S - - - - - - - -
+                THIS - X O - - - - - - -
+                THAT - - - - - X - - - -
+               DRIVE - - - - - X - - - -
+             CONTENT - - - - - - - - - X
+                FILE - - - - - - - - - X
+/BOOT/GRUB/DEVICE.MAP - - - - - - - - - X

@@ -1,0 +1,12 @@
+              APACHE X - -
+        REWRITE.LOAD O - -
+        MODS-ENABLED X - -
+          PERMISSION S - -
+                ROOT X - -
+             SERVICE X - -
+             APACHE2 X - -
+              RELOAD X - -
+                THAT - - S
+             PACKAGE - - X
+               10.10 - - X
+              INSTAL - - O

@@ -1,0 +1,18 @@
+                TIME S - - -
+      /ETC/LILO.CONF X - - -
+             NOTHING S - - -
+                WORK S - - -
+                PATH O - - -
+            WAXSTONE - X - -
+   /ETC/DEFAULT/GRUB - O - -
+                THAT - - X -
+               THERE - - S -
+                LINE - - O -
+GRUB_CMDLINE_LINUX_DEFAULT= - - X -
+                 FOO - - X -
+                 BAR - - S -
+                 BAZ - - S -
+           SOMETHING - - X -
+         REBOOT=BIOS - - O -
+         UPDATE-GRUB - - X -
+                 ALL - - - S

@@ -1,0 +1,16 @@
+               THERE X - - -
+                 WAY X - - -
+         BOOT-SPLASH O - - -
+            SEQUENCE O - - -
+                WORD - X - -
+               QUIET - X - -
+              SPLASH - O - -
+                MENU - X - -
+               ENTRY - X - -
+ /BOOT/GRUB/MENU.LST - X - -
+         MULTISYSTEM - - - S
+                WORK - - - O
+              FORMAT - - - X
+               THUMB - - - O
+               FAT32 - - - X
+           PARTITION - - - X

@@ -1,0 +1,17 @@
+                GRUB S X - - - - - - - - -
+                BOOT X - X - - X - - - - -
+              SCREEN - X - - - - - - - - -
+                LOAD - X - - - - - - - - -
+               STAGE - X - - - - - - - - -
+              SECOND - O - - - - - - - - -
+            WINBLOWS - - X - - - - - - - -
+               LINUX - - O - - - - - - - -
+             PROBLEM - - O - - - - - - - -
+              ANYONE - - - X - - - - - - -
+               IDEAS - - - X - - - - - - -
+              OPTION - - - - - X - - - - -
+            ACPI=OFF - - - - - X - - - - -
+                 HMM - - - - - O - - - - -
+                THAT - - - - - - X O - - -
+ /BOOT/GRUB/MENU.LST - - - - - - - - X - -
+             AWESOME - - - - - - - - - - X

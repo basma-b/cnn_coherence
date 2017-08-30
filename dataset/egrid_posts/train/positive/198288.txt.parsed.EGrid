@@ -1,0 +1,12 @@
+             COMMAND X - -
+                TYPE X - -
+                 ALL O - -
+             PACKAGE X - X
+                NAME X - X
+                DPKG - X -
+                  -L - S -
+         PACKAGENAME - S -
+                FILE - O -
+                BASH - - X
+               TRICK - - X
+              OUTPUT - - O

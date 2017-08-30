@@ -1,0 +1,9 @@
+              MODULE X - -
+             SPEAKER O - -
+                  PC X - -
+              PCSPKR - X -
+/ETC/MODPROBE.D/BLACKLIST - X -
+              REBOOT - X -
+                BEEP - O -
+                   X - X -
+                   B - X -

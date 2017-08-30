@@ -1,0 +1,23 @@
+              ROUTER O - - - - - - - - -
+            WAN:8080 - O - - - - - - - -
+              LAN:80 - X - - - - - - - -
+           SHIELDSUP - - S - - - - - - -
+                PORT - - S - - - - - - -
+              APACHE - - O - - - - - - -
+              SERVER - - X - S - - - - -
+               THERE - - - X - - - - - -
+                 WAY - - - X - - - - - -
+                RULE - - - - O O - - - -
+             EDITION - - - - S - - - - -
+               10.04 - - - - X - - - - -
+            FIREWALL - - - - O - - - - -
+                  .. - - - - O - - - - -
+            IPTABLES - - - - X - - - - -
+                SUDO - - - - X - - - - -
+                LIST - - - - S - - - - -
+                 ALL - - - - X - - - - -
+                HTTP - - - - - O - - - -
+//PASTEBIN.COM/VMEKRWFW - - - - - O - - - -
+              GOTCHA - - - - - - X - - -
+              UBUNTU - - - - - - - S - -
+             RELEASE - - - - - - - - X -

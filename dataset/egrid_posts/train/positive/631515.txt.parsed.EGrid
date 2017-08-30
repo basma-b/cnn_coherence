@@ -1,0 +1,16 @@
+               CHMOD X - - X S -
+               A+RWX X - - X - -
+              ACCESS - O X - - -
+           DIRECTORY - X - - - -
+                FILE - X X - - -
+               USERS - X - - - -
+                   D - - - X S -
+               -EXEC - - - X - -
+                   \ - - - O S -
+                SUDO - - - - S X
+             USERMOD - - - - S -
+                LYON - - - - S -
+                ROOT - - - - S X
+              WHOOPS - - - - S -
+           SEMICOLON - - - - S -
+            /VAR/WWW - - - - - X

@@ -1,0 +1,17 @@
+                NONE S - - - -
+       DOCUMENTATION X - - - -
+                THIS O - - - -
+                 KEY - X - - -
+                 USE - X - - -
+             SSH-ADD - X - - -
+                NEED - O - - X
+             SESSION - X - - -
+              SERVER - X - - X
+          PASSPHRASE - O - - O
+            QUESTION - - S - -
+                IDEA - - - O -
+            PASSWORD - - - - X
+             COMMAND - - - - O
+                 FOO - - - - X
+              LPSTAT - - - - X
+                  -O - - - - X

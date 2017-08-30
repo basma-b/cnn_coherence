@@ -1,0 +1,31 @@
+             BATTERY X - - - - - - - - -
+              SYMBOL S - - - - - - - - -
+             TASKBAR X - - - - - - - - -
+               CLICK - X - - - - - - - -
+               PANEL - X - - - - - - - -
+              APPLET - O - - - - - - - -
+                LIST - X - - - - - - - -
+               THERE - S - - - - - - - -
+               POWER - X - - - - - - - -
+          MANAGEMENT - X - - - - - - - -
+           SOMETHING - O - - - - - - - -
+            ANYTHING - O - - - - - - - -
+              SYSTEM - - O - - - - - - -
+                DAYS - - X - - - - - - -
+                PATH - - - O - - - X O -
+               PATH= - - - X - - - X - -
+     /USR/LOCAL/SBIN - - - X - - - X - X
+      /USR/LOCAL/BIN - - - X - - - X - X
+           /USR/SBIN - - - X - - - X - X
+            /USR/BIN - - - X - - - X - X
+               /SBIN - - - X - - - X - X
+                /BIN - - - X - - - X - X
+        /USR/BIN/X11 - - - X - - - X - X
+          /USR/GAMES - - - X - - - X - X
+                TACK - - - - - - - X - -
+               THING - - - - - - - S - -
+                  .. - - - - - - - O - -
+            TERMINAL - - - - - - - X - -
+/USR/LOCAL/ARM-ELF/BIN - - - - - - - - - X
+/HOME/ALONEA/JDK1.6.0/BIN - - - - - - - - - X
+    /HOME/ALONEA/BIN - - - - - - - - - X

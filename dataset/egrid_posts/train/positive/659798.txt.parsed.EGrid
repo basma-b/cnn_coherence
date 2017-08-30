@@ -1,0 +1,38 @@
+            COMMANDS X - - - - - - - -
+              THERES X - - - - - - - -
+             SERVICE X O - X - - - - -
+         SERVICENAME X - - - - - - - -
+START/STOP/RESTART/WHATEVER X - - - - - - - -
+          EQUIVALENT O - - - - - - - -
+         UPDATE-RC.D X - - - - - - - -
+                 THE - X - - - - - - -
+                LIST - O - - - - - - -
+               ENTRY - O O - - - - - -
+      OPENSSH-SERVER - O - X - - - - -
+                FILE - O - X - - - - -
+               THATS - X - - - - - - -
+               THERE - S - - - - - - -
+                NONE - O - - - - - - -
+                 IVE - S - - - - - - -
+              DOSENT - S - - - - - - -
+                SYSV - X - - - - - - -
+               STUFF - S - X - - - - -
+                 ERM - X - - - - - - -
+                 WAY - X - - X - - - -
+                BOOT - X - - - - - - -
+/ETC/INIT/WHATEVER.CONF - - X - - - - - -
+               RIGHT - - - X - - - - -
+WHATEVER.DONTRUN_CONF - - - X - - - - -
+               .CONF - - - O - - - - -
+             STARTUP - - - O - - - - -
+               CHEKS - - - X - - - - -
+             STRANGE - - - S - - - - -
+             COMMAND - - - X - - - - -
+                 BUG - - - X - - - - -
+           /ETC/INIT - - - X - - - - -
+               FLASH - - - - - X - - X
+              CURSOR - - - - - S - - -
+               GRUB1 - - - - - - - X -
+                HANG - - - - - - - - X
+                GRUB - - - - - - - - O
+               DRIVE - - - - - - - - X

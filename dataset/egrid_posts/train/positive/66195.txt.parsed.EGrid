@@ -1,0 +1,12 @@
+           ARGUMENTS X - - -
+                NEED X - - -
+                  CD X - - -
+                BOOT X - - -
+                  HD X - - -
+               LINUX - X - -
+      ROOT=/DEV/HDA1 - S - -
+           PARTITION - S - -
+                THAT - - S X
+              INITRD - - - X
+           SOMETHING - - - O
+                DAYS - - - X

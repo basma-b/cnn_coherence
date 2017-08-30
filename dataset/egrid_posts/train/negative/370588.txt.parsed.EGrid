@@ -1,0 +1,15 @@
+                HELP X - - - -
+                 SCP X - S - -
+               STATE - X - - -
+             PROBLEM - S - - -
+                FILE - O - - -
+              SERVER - X - - O
+             ACCOUNT - X - - -
+            COMPUTER - X - - -
+          PERMISSION - S - - -
+           PASSWORDS - O - - -
+            TERMINAL - - S - -
+             COMMAND - - X - -
+                ARGS - - O - -
+              NOBODY - - - - S
+             CHANNEL - - - - X

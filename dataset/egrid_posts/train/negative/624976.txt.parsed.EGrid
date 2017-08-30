@@ -1,0 +1,10 @@
+             COMMAND X - - - -
+                 G++ - X - - -
+LINKED_LIST_LIBRARY.H - S - - -
+               ERROR - X - - -
+                 LOG - S - - -
+            ARGUMENT - X - - -
+                 GCC - X - - -
+                   | - - X - -
+                 TEE - - O - -
+                YEAH - - - - X

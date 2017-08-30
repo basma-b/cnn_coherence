@@ -1,0 +1,12 @@
+              KERNEL S - - -
+                ROOT X - - -
+           PARTITION O - - -
+                  .. X - - -
+               THING X - - -
+                FSCK - X - -
+              REBOOT - O - -
+              DRIVER - - X -
+               ISSUE - - O -
+                DISK - - - S
+              ERRORS - - - O
+               DMESG - - - X

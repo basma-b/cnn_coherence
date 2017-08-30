@@ -1,0 +1,14 @@
+     PERMITROOTLOGIN X - - - -
+         SSHD_CONFIG X - - - -
+                 WIL X - - - -
+            KEYBASED - X - - -
+            PASSWORD - X - - -
+                HEAD - O - - -
+               YEARS - X - - -
+                SUDO - O - - -
+               PLACE - X - - -
+               STORE - X - - -
+          APPEARANCE - S - - -
+            SETTINGS - X - - -
+               GCONF - - X - -
+               THANK - - - - X

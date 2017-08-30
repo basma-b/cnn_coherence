@@ -1,0 +1,18 @@
+           DIRECTORY O - - - - - - - -
+               TRASH S - - - - S - - -
+             SYMLINK - O - - - - - - -
+          FILESYSTEM - - - X - - - - -
+               GNOME - - - - - X - - -
+                 KDE - - - - - X - - -
+             WINDOWS - - - - - X - - -
+              FOLDER - - - - - X - - -
+                BITE - - - - - X - - -
+               DUNNO - - - - - X - - -
+                BOUT - - - - - X - - -
+/ETC/APT/SOURCES.LIST - - - - - O - - -
+                TYPE - - - - - - S - -
+            COMPILER - - - - - - - O -
+               LINUX - - - - - - - - X
+              KERNEL - - - - - - - - X
+             HEADERS - - - - - - - - X
+                  .. - - - - - - - - O

@@ -1,0 +1,27 @@
+             MESSAGE S - - - - -
+                TIME - S S O - -
+                LOAD - X - - - -
+               DRIFT - X - - - -
+           FREQUENCY - X - - - -
+                DATA - O - - - -
+                FILE - S - - - -
+/VAR/LIB/NTP/NTP.DRIFT - X - - - -
+                  .. - O - - - -
+             TROUBLE - O - - - -
+               WEEKS - X - - - -
+              SYSTEM - X - - - -
+                 NTP - S - - - -
+                  FO - X - - - -
+            SOLUTION - O - - - -
+                CASE - - X - - -
+               SAMBA - - - S S X
+              THINGS - - - - O -
+                   > - - - - - X
+                CIFS - - - - - O
+               SHARE - - - - - X
+                  OS - - - - - S
+               POSIX - - - - - X
+          EXTENTIONS - - - - - O
+               LINUX - - - - - X
+               LEVEL - - - - - O
+         PERMISSIONS - - - - - X

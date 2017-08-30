@@ -1,0 +1,15 @@
+            IPTABLES O - - - - -
+                 NAT X - - - - -
+                  -A S - - - - -
+                  -J X - - - - -
+            INTERNET X - - - - -
+          CONNECTION X - - - - -
+               SHARE X - - - - -
+                WORK O - - - - -
+              REBOOT X - - - - -
+                BOOT - O - - - -
+                THAT - - X - - -
+               ENTRY - - - S - -
+             SERVICE - - - - X -
+             NETWORK - - - - S -
+                TEST - - - - X -

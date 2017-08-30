@@ -1,0 +1,15 @@
+        CHECKINSTALL - X - - -
+                SUDO - X - - -
+             INSTALL - O - - -
+                  -D - S - - -
+                 DEB - O - - -
+                CORE - X - - -
+           DEPRECATE - O - - -
+               FAVOR - X - - -
+             FIREFOX - X - - -
+                   * - - S - -
+                  .. - - O - -
+             BROWSER - - O - -
+           SEAMONKEY - - - X -
+       ACTIONPARSNIP - - - - X
+         SIDEWINDER1 - - - - X

@@ -1,0 +1,13 @@
+             FAILBIT - O -
+        MOUNTWINDOWS - X -
+           PARTITION - S -
+               FSTAB - X -
+                  .. - X -
+                  RW - O -
+                CANT - S -
+                  OK - O -
+          PERMISSION - S -
+                THAT - - S
+                FILE - - X
+             SYMLINK - - O
+               EVENT - - X

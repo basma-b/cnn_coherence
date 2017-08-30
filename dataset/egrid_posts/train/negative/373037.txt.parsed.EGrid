@@ -1,0 +1,14 @@
+              ANYONE X - - -
+               SOUND S - - -
+                GAME S - - -
+                 ONE X - - -
+               BREAK X - - -
+                 USE X - - -
+               LSPCI S - - -
+           SOUNDCARD O - - -
+              KERNEL - O X -
+            MODPROBE - X - -
+               RMMOD - - S -
+                 KEY - - S -
+                 -LA - - - S
+         PERMISSIONS - - - O

@@ -1,0 +1,11 @@
+ .LOCAL/SHARE/TOMBOY X -
+/USR/LIB/TOMBOY/ADDINS S X
+                MONO O -
+               GNOTE O -
+                 C++ O -
+          REPOSITORY X -
+                 PPA O -
+               HTTPS O -
+//LAUNCHPAD.NET/~GNOTE/+ARCHIVE/PPA/+PACKAGES O -
+              XANGUA - O
+                LOOK - O

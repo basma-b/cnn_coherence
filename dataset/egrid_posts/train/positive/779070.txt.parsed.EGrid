@@ -1,0 +1,17 @@
+             PROBLEM - O X - - - - - -
+               FSTAB - X - X - - - X -
+             SOMEONE - S - - - - - - -
+                KIND - - X - - - - - -
+         PERMISSIONS - - - O - - - O O
+             DEFAULT - - - X O - - - -
+                THIS - - - - O - - - -
+            REISERFS - - - - X - - - -
+               USERS - - - - O - - - -
+              ANYONE - - - - - S S S S
+           PARTITION - - - - - O - - -
+              /GERAL - - - - - - - - X
+              FOLDER - - - - - - - - X
+               DRIVE - - - - - - - - O
+             FOLDERS - - - - - - - - S
+                FILE - - - - - - - - X
+                USER - - - - - - - - X

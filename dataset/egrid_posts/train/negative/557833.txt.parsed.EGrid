@@ -1,0 +1,15 @@
+             PROCESS O - - - - -
+                 CPU X - - - - -
+                CORE - X X - X -
+                THAT - - S - - -
+          VIRTUALBOX - - S - - -
+             PROBLEM - - O - - -
+               ISSUE - - - O - -
+               WHILE - - - X - -
+          REGRESSION - - - - O -
+                 USE - - - - X -
+                 SMP - - - - X -
+              THREAD - - - - S -
+                CPUS - - - - X -
+              KERNEL - - - - O -
+                  OS - - - - X -

@@ -1,0 +1,11 @@
+                 ALL X - - - -
+                HELP S - - - -
+               ERROR X - - - -
+         ./CONFIGURE - O - - -
+           DIRECTORY - X - - -
+              SOURCE - X - - -
+      ROOT-PARTITION - - - O O
+                BOOT - - - X X
+                WORK - - - X X
+            PROBLEMS - - - O O
+      HOME-PARTITION - - - O O

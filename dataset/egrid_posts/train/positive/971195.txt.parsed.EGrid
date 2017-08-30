@@ -1,0 +1,7 @@
+             PROGRAM X - -
+              ACCESS X - -
+           PARTITION O - -
+                LSOF - S -
+              OUTPUT - O -
+                  DF - X -
+                FILE - O -

@@ -1,0 +1,8 @@
+        SOURCES.LIST X - -
+          EVERYTHING O - -
+              DAPPER X - -
+                SUDO X - -
+              UPDATE X - -
+         DISTUPGRADE S - -
+        DIST-UPGRADE O - -
+              KERNEL - - X

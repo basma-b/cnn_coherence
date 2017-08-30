@@ -1,0 +1,16 @@
+             HEADERS X - - - - -
+   LINUX-HEADERS-386 - O - O - -
+              KERNEL - S - - - -
+                THIS - X - O - -
+             CHIPSET - X - - - -
+             PENTIUM - - O - - -
+                  -A - - - S - -
+             VERSION - - - S - -
+                TEXT - - - S - -
+        INSTALLATION - - - X - -
+             MENTION - - - X - -
+      KERNEL-HEADERS - - - S - -
+     LINUX-IMAGE-386 - - - O - X
+           ALSAMIXER - - - X - -
+             CONSOLE - - - X - -
+              OPTION - - - O - -

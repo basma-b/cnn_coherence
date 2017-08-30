@@ -1,0 +1,15 @@
+                BOOT O - - -
+                 CCD X - - -
+         /ETC/PASSWD X - - -
+         /ETC/SHADOW O O - -
+            PASSWORD S - - -
+                ROOT X - - -
+            ANYTHING O - - -
+                  CD X - - -
+               USERS S - - -
+           PARTITION O S - -
+               MOUNT - O - -
+                  .. - - - X
+                SAME - - - X
+                 WIN - - - X
+                 SET - - - X

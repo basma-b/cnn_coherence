@@ -1,0 +1,20 @@
+                 X64 X - - - - - -
+             TROUBLE O - - - - - -
+             TV-CARD O - - - X - -
+             OPTICAL O - - - - - -
+               INTEL X - - - - - -
+                 HDA X - - - - - -
+           STAC9271D X - - - - - -
+           SOUNDCARD X - - - - - -
+             OPTIONS - O - - - - -
+           MODEL=REF - X - - - - -
+/ETC/MODPROBE.D/ALSA-BASE.CONF - X - - - - -
+                WORK - - O - - - -
+                  TV - - - X - - -
+                CARD - - - X - - -
+            FIRMWARE - - - O - - -
+                   U - - - - S - -
+             PROBLEM - - - - X - -
+              UBUNTU - - - - - X -
+              SYSTEM - - - - - X -
+             WINDOWS - - - - - X -

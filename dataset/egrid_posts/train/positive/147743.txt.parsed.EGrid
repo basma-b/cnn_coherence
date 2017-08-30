@@ -1,0 +1,16 @@
+                   A X - - -
+                   U X - - -
+            SECURITY X - - -
+                RISK X - - -
+               SHELL O - - -
+                SUDO X - - O
+             APT-GET X - - -
+              UPDATE O - S -
+             UPGRADE X - - -
+          EXECTUABLE O - - -
+            EVERYONE X - - -
+               ENTRY - X - -
+            AUTO-APT - X - -
+          CRON.DAILY - - X -
+                CRON - - O -
+               STUFF - - - X

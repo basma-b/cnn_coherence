@@ -1,0 +1,27 @@
+                SUDO - X X - - X - - -
+                  SH - X - - - - - - X
+                  -C - S - - - - - - X
+                   > - X - - - - - - -
+/ETC/MODPROBE.D/BLACKLIST-BCM43XX - O - - - - - - -
+                OOPS - O - - - - - - -
+          CORRECTION - X - - - - - - -
+                WORK - O - - - - - O -
+                THAT - - O - - - - S -
+             BCM43XX - - O - - - S - -
+                  -L - - O - - - - - -
+               THERE - - S - - - - - -
+              DRIVER - - X - X - - - -
+                CALL - - X - - - - - -
+             SESSION - - X - - - - - -
+               RMMOD - - X - - - - - -
+           BLACKLIST - - - O - - - S -
+              EFFECT - - - X - - - - -
+                TIME - - - - O X - - X
+               ERROR - - - - - O O - -
+                TYPE - - - - - X - - -
+            DHCLIENT - - - - - O - - -
+       /PROC/MODULES - - - - - - X - -
+                ETH1 - - - - - - - - S
+                AUTO - - - - - - - - X
+/ETC/NETWORK/INTERFACES - - - - - - - - O
+                BOOT - - - - - - - - X

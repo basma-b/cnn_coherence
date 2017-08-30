@@ -1,0 +1,12 @@
+               SHARE S - - -
+         PERMISSIONS O O - -
+              GUESTS X - - -
+               SAMBA X - - -
+            WRITABLE - S - -
+                 YES - O - -
+                  OK - X - -
+              SYSTEM - X - -
+              NOBODY - X - -
+                USER - S - -
+         SCREENSAVER - - - X
+         PREFERENCES - - - X

@@ -1,0 +1,13 @@
+                 ISO O - -
+          FILESYSTEM X X -
+                TYPE O O O
+        UBUNTU-US-OH O - -
+             COMMAND X - -
+                SUDO - S -
+                  -T - S -
+                  -O - X -
+                LOOP - X -
+        ./ISFILE.ISO - X -
+          ./MOUNTDIR - X -
+                /ISO - X -
+                 MMM - - S

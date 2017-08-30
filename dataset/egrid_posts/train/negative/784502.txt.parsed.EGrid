@@ -1,0 +1,27 @@
+             PACKAGE X - - - - - - - -
+        DEPENDENCIES X - X - - - - - -
+                DEBS - O - - - - - - -
+                .DEB - - X - - - - - -
+                SUDO - - S - - - S X -
+            FOO1.DEB - - X - - - - - -
+            FOO2.DEB - - X - - - - - -
+                 USE - - X - - - - - -
+               GDEBI - - S - - - - - -
+        REPOSITORIES - - X - - - - - -
+               NGINX - - X - - - - - -
+               HANDY - - - - X - - - -
+             DEFAULT - - - - - X - - -
+                 THE - - - - - - X - -
+                   A - - - - - - S - -
+              SCRIPT - - - - - - X - -
+                 WAY - - - - - - S - -
+             COMMAND - - - - - - O - -
+           SOMETHING - - - - - - X - -
+         DEBARCHIVER - - - - - - X - -
+                USER - - - - - - X - -
+              OPTION - - - - - - X - -
+             OPTIONS - - - - - - X - -
+               CHECK - - - - - - - X -
+                 MAN - - - - - - - X -
+               HTTPS - - - - - - - - X
+//WIKI.UBUNTU.COM/RESTRICTEDFORMATS - - - - - - - - X

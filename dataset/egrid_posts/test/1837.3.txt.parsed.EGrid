@@ -1,0 +1,11 @@
+    UPDATE-INITRAMFS X - - -
+        UPDATE-GRUB2 X S - -
+               IMAGE - O - -
+                 -29 - X - -
+         UPDATE-GRUB - S - -
+               THING - O - -
+                BOOT - - X -
+              RESULT - - - O
+              SWAPON - - - X
+              DEVICE - - - O
+UUID=5463DF7E-58F8-423D-B37B-3DE5E0ED5265 - - - X

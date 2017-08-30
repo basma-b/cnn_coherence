@@ -1,0 +1,16 @@
+               ERROR X X - -
+             MESSAGE X O - -
+             COMMAND X X - -
+                TEXT X S - -
+                FILE X - - -
+                   > - X - -
+            TEXT.TXT - O - -
+             VERBOSE - - O -
+           AVAILABLE - - S -
+                PATH - - X -
+        /SBIN/REBOOT - - O -
+               POWER - - - X
+                 RAM - - - X
+               ISSUE - - - O
+                BOOT - - - O
+             MEMTEST - - - X

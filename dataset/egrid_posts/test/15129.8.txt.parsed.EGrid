@@ -1,0 +1,15 @@
+              KERNEL O - - - - - -
+               3.6.4 X - - - - - -
+               IMAGE O - - - - - -
+                SIZE X - - - - - -
+             PROBLEM - X X - - - -
+                130M - - X - - - -
+             DEFAULT - - - S - - -
+               RV042 - - - - O - -
+                DHCP - - - - - X -
+              SERVER - - - - - X -
+               RANGE - - - - - X -
+       192.168.1.120 - - - - - X -
+             OPENDNS - - - - - O -
+                 DNS - - - - - O -
+                WINS - - - - - - S

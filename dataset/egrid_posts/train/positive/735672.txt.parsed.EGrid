@@ -1,0 +1,13 @@
+        GRUB_DEFAULT S - -
+         UPDATE-GRUB O - -
+               TRISM - S -
+                 YUP - S -
+                BOOT - X -
+            PASTEBIN - O -
+                FILE - X -
+                HTTP - X -
+//PASTE.UBUNTU.COM/467799/ - X -
+      GRUB_DEFAULT=4 - X -
+             ENTRIES - O -
+                 AHH - - X
+                 HEH - - X

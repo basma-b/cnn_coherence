@@ -1,0 +1,12 @@
+GNOME-SESSION-MANAGER S - - -
+             COMMAND X - - -
+                LINE X - - -
+              SYNTAX O - - -
+              SCRIPT O - - -
+             PROBLEM O - - -
+              TUNNEL - S - -
+               LOGIN - X - -
+          PASSPHRASE - X - -
+               START - - X -
+                THAT - - - O
+            TERMINAL - - - X

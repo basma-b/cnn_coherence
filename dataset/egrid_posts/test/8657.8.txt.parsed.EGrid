@@ -1,0 +1,12 @@
+                ANY1 S - - - -
+                 USB X - - - -
+              DEVICE O - - - -
+               LSUSB - X - - -
+               MOUNT - S - - -
+               DMESG - X - - -
+                  CD - X - - -
+               DRIVE - S - - -
+              ANSWER - X - - -
+                PORT - O - - -
+                   D - X - - -
+             SECTION - - - - O

@@ -1,0 +1,15 @@
+                GRUB X O - -
+              LIVECD X - - -
+ /BOOT/GRUB/MENU.LST O - - -
+             NOTHING O - - -
+                THIS - S - -
+                  CD - X - -
+                SUDO - - X -
+               FDISK - - S -
+            PARITION - - S -
+             EXAMPLE - - X -
+                /MNT - - X -
+/MNT/BOOT/GRUB/MENU.LIST - - O -
+                 ALL - - - X
+                WORK - - - X
+                FINE - - - O

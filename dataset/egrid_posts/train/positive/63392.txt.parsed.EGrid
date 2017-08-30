@@ -1,0 +1,35 @@
+                 NET S - - - - - -
+               ARBI1 X - - - - - -
+                LINK O - - - - - -
+             FIREFOX X O X - - - -
+                HTTP - X - - - - -
+   HIGHLIGHT=FIREFOX - X - - - - -
+                PAGE - S - - - - -
+              SWITCH - X - - - - -
+                  RH - X - - - - -
+                  .. - - O - X - -
+                  TA - - S - - - -
+           HOUSEHOLD - - X - - - -
+               CHORE - - X - - - -
+                MINS - - S - - - -
+               CHARM - - X - - - -
+             PROCESS - - O - - - -
+                SUDO - - X - - - -
+                DPKG - - X - - - -
+       FORCE-DEPENDS - - X - - - -
+FIREFOX-GNOME-SUPPORT - - X - - - -
+        DIST-UPGRADE - - X - - - -
+              CONFIG - - X - - - -
+GENERAL.USERAGENT.VENDORSUB - - X - - - -
+               1.0.6 - - O - - - -
+               1.0.4 - - X - - - -
+              FIRFOX - - - O - - -
+           BACKPORTS - - - - S S -
+               PATCH - - - - O - -
+            VERSIONS - - - - X - -
+             PACKAGE - - - - X X -
+              UPDATE - - - - - X -
+           ORIGINALS - - - - - X -
+              MASTER - - - - - X -
+              ADDONS - - - - - X -
+                 YEP - - - - - - X

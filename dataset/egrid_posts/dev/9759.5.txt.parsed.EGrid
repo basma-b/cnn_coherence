@@ -1,0 +1,11 @@
+                  -Y S - -
+               PARAM O - -
+                DPKG - O -
+             OPTIONS - X -
+       FORCE-CONFNEW - X -
+                THAT - - S
+                FILE - - X
+                   * - - X
+                .ISO - - O
+               DRIVE - - X
+                  DD - - X

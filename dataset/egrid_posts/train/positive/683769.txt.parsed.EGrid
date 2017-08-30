@@ -1,0 +1,15 @@
+GRUB_CMDLINE_LINUX_DEFAULT= X - - -
+              SPLASH X - - -
+          CONFIGFILE X - - -
+       SPLASH-SCREEN O - - -
+                   ' - X - -
+               QUIET - O - -
+                  .. - - - X
+                WIKI - - - O
+              SCREEN - - - S
+            ANYTHING - - - S
+                  PC - - - S
+             SOMEONE - - - X
+             PROBLEM - - - X
+        GRAPHIC-CARD - - - X
+               IMAGE - - - X

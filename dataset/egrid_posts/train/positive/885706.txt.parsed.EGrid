@@ -1,0 +1,22 @@
+                RAID X - - - - - O - - X
+               ISSUE O - - - - - - - - -
+       BOOT_DEGRADED - X - - - - - - - -
+                 SET - O - - - - - - - -
+                BOOT - X - - X - - - - -
+           INITRAMFS - - X - - - X - - -
+                MADM - - S - - - - - - -
+                STOP - - X - - - - - - -
+            /DEV/MD0 - - X - - - - - - -
+               MDADM - - X - - - - - - -
+                THAT - - - S - - - - - -
+              UBUNTU - - - - S - - - - -
+        INTERVENTION - - - - X - - - - -
+              KERNEL - - - - - X - - - -
+                GRUB - - - - - X - - - -
+             COMMAND - - - - - - O - - -
+             STARTUP - - - - - - X - - -
+                 OWN - - - - - - X - - -
+           SOMETHING - - - - - - - - - X
+                HELP - - - - - - - - - S
+//WIKI.ARCHLINUX.ORG/INDEX.PHP/RAID - - - - - - - - - S
+             NETWORK - - - - - - - - - O

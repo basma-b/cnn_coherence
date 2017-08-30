@@ -1,0 +1,21 @@
+               ERROR - X - - - X -
+             MESSAGE - O - - - - -
+            PROBLEMS - - O - - - -
+             LIBRARY - - X - - - -
+LIBAPT-PKG-LIBC6.3-5-3.3 - - X - - - -
+             PACKAGE - - O - - - -
+                 APT - - - X - - -
+                CODE - - - - - O -
+              ERRORS - - - - - O -
+              SUFFIX - - - - - X -
+            OPERANDS - - - - - X -
+                LINK - - - - - X -
+             PROBLEM - - - - - X -
+           ASSEMBLER - - - - - X -
+            COMPILNG - - - - - O -
+                 BTI - - - - - X -
+              METHOD - - - - - X -
+               SETUP - - - - - X -
+              CHROOT - - - - - O -
+                   U - - - - - - X
+             MACHIEN - - - - - - X

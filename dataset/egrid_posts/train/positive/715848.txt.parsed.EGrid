@@ -1,0 +1,17 @@
+           DIRECTORY X X - -
+            LOOPBACK - O S -
+                FILE - - S -
+          FILESYSTEM - - O -
+                  DD - - X -
+        IF=/DEV/ZERO - - S -
+                   < - - O -
+                MEGS - - X -
+                   > - - S -
+                MKFS - - O -
+             CLIENTS - - X S
+                 ALL - - X -
+            DISKLESS - - - X
+                BOOT - - - X
+             NFSROOT - - - X
+              CHANGE - - - X
+                 RAM - - - X

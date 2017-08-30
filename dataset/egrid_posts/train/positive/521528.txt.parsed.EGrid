@@ -1,0 +1,14 @@
+           PARTITION O - - - -
+                 USB X - - - -
+               STICK X - - - -
+               DRIVE X - - - -
+               DMESG - S - - -
+                 FAT - S - - -
+               MEDIA - X - - -
+               VALUE - O - - -
+          FILESYSTEM - O - - -
+              DEVICE - X - - -
+                VFAT - - - O -
+                TYPE - - - - S
+               MOUNT - - - - X
+             COMMAND - - - - S

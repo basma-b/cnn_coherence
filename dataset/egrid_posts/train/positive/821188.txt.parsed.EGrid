@@ -1,0 +1,15 @@
+                TIME X - - -
+              ANYONE S - - -
+             UTILITY X - - -
+             CPU/GPU X - - -
+                TEMP X X - -
+            READOUTS X - - -
+               GRAPH X - - -
+              FORMAT X - - -
+                 AMD X - - -
+                GPUS X - - -
+     AMDOVERDRIVECTL S - - -
+                 CPU - X - X
+            RDEPENDS - - - X
+          LM-SENSORS - - - O
+             OPTIONS - - - X

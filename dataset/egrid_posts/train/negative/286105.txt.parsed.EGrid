@@ -1,0 +1,24 @@
+KERNEL-BOOT-MESSAGES - X - - - - - - - - - - - -
+               DMESG - - O - - - - - - - - - - -
+             MESSAGE - - - X O - - - X O - - - -
+               THESE - - - - S - - - - - - - - -
+              KERNEL - - - - X - - - - - - - - -
+         INITSCRIPTS - - - - X - - - - - - - - -
+              SCRIPT - - - - X - - - - - - - - -
+                  OK - - - - X - - - - - - - - -
+                FILE - - - - X - - - - - - - - -
+                TEXT - - - - - - - - S - - - - -
+               ERROR - - - - - - - - X X - - - -
+                 LOG - - - - - - - - X O - - - -
+                BOOT - - - - - - - - X X - - - -
+                 YES - - - - - - - - - X - - - -
+            SOLUTION - - - - - - - - - X - - - -
+             PROBLEM - - - - - - - - - X - - - -
+              MOMENT - - - - - - - - - X - - - -
+                  .. - - - - - - - - - X - - - -
+            ANYTHING - - - - - - - - - O - - - -
+              UPDATE - - - - - - - - - - - - X -
+               10.10 - - - - - - - - - - - - X -
+                9.10 - - - - - - - - - - - - X -
+                  IM - - - - - - - - - - - - - O
+               LIMBO - - - - - - - - - - - - - X

@@ -1,0 +1,24 @@
+               HTTPS X - - -
+//WIKI.UBUNTU.COM/PACKAGINGGUIDE/RECIPES X - - -
+            QUESTION - X - -
+                LINE - - X -
+             DEFAULT - - O -
+             RELEASE - - X -
+   PARSER.ADD_OPTION - - X -
+                  -R - - X -
+            DEFAULT= - - X -
+               THERE - - X -
+         LSB_RELEASE - - O -
+                   | - - S -
+                GREP - - X -
+            CODENAME - - X -
+                  -F - - O -
+              UBUNTU - - - O
+         DEVELOPMENT - - - X
+          DEPLOYMENT - - - X
+                SUSE - - - S
+                RHEL - - - O
+                   M - - - O
+                   O - - - O
+                PAIN - - - O
+             PAINFUL - - - O

@@ -1,0 +1,15 @@
+                   X X - X - - -
+              CONFIG X - - - - -
+              UBUNTU - X - - - -
+                XORG - X - - - -
+  /ETC/X11/XORG.CONF - - S - - -
+                 YES - - S - - -
+              NVIDIA - - X - - -
+             DRIVERS - - S - - -
+           COMPOSITE - - X - - -
+           EXTENSION - - O - - O
+            TERMINAL - - - X - -
+      TRANSPARENCIES - - - S - -
+                 KDE - - - - - X
+        TRANSLUCENCY - - - - - X
+              EFFECT - - - - - X

@@ -1,0 +1,21 @@
+                   ' X - - - - - - - - - - - -
+                TYPE X - - - - - - X - - - - -
+            METACITY X - X - - - - - - - - - -
+                BASH X - - - - - - - - - - - -
+              ANYONE - X - - - - - - - - - - -
+              XMONAD - - X O - X - X - - - - -
+                 WAY - - X - - - - X - - - - -
+               GNOME - - - X - - - - - - - - -
+                 USE - - - - - X - - - - - - -
+              SCREEN - - - - - X - - - - - - -
+                THAT - - - - - - O O - - O - -
+/DESKTOP/GNOME/SESSION/REQUIRED_COMPONENTS/WINDOWMANAGER - - - - - - - X - - - - -
+              STRING - - - - - - - X - - - - -
+                   / - - - - - - - X - - - - -
+        GCONF-EDITOR - - - - - - - O - - - - -
+            SETTINGS - - - - - - - X - - - - -
+                 HMM - - - - - - - - - X - - -
+              CONFIG - - - - - - - - - - - X -
+              EDITOR - - - - - - - - - - - X -
+/DESKTO/SESSION/REQUIRED_COMPONENTS - - - - - - - - - - - X -
+               VALUE - - - - - - - - - - - - S

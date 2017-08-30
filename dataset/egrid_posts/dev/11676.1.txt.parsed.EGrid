@@ -1,0 +1,10 @@
+                TIME S X -
+                BOOT X - -
+                GRUB - X -
+                CONF - S -
+   /ETC/DEFAULT/GRUB - X -
+                 ALL - S -
+         UPDATE-GRUB - O -
+               HTTPS - - X
+  CONFIGURING_GRUB_2 - - X
+              CONFIG - - O

@@ -1,0 +1,17 @@
+                TYPE S - S -
+                SUDO S - X -
+/ETC/INIT.D/SBACKUPD X - X -
+                STOP S - - -
+             PROCESS O - - -
+ ETC/INIT.D/SBACKUPD S - X -
+             COMMAND S - X -
+               COLON O - - -
+              OUTPUT - - S -
+              RETURN - - O -
+            TERMINAL - - X -
+                 APP - - - O
+                 WAY - - - X
+         /ETC/INIT.D - - - X
+           DIRECTORY - - - O
+                NAME - - - X
+         APPLICATION - - - X

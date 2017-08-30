@@ -1,0 +1,35 @@
+                HAVE O - - -
+GNOME-DEFAULT-APPLICATIONS-PROPERTIES O - - -
+             CHOICES O - - -
+           RHYTHMBOX X - - -
+             PLAYERS O - X -
+              AMAROK X - - -
+                  .. X - - -
+              SYSTEM X - - -
+              CHOICE O - - -
+             BANSHEE X - - -
+            RYTHMBOX X - - -
+               TOTEM X - - -
+              CUSTOM X - - -
+                TYPE S - - -
+             COMMAND X - - -
+                MINE O - - -
+                 BOX X - - -
+              CONFIG X - - -
+             PLACES- X - - -
+                   > X - - -
+               HOME- X - - -
+               EDIT- X - - -
+        PREFERENCES- X - - -
+               MEDIA X - - -
+                FILE X - - -
+              OPTION - S - -
+              INSERT - X - -
+              DEVICE - X - -
+                IPOD - X - -
+               SHOOT - - X -
+GNOME-VOLUME-PROPERTIES - - S -
+                LIST - - O -
+            BEHAVIOR - - O -
+            NAUTILUS - - - X
+        APPLICATIONS - - - O

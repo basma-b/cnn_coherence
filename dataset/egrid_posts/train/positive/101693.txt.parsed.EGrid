@@ -1,0 +1,16 @@
+            DATABASE X - - - - -
+                 RUN O - - - - -
+              SERVER X - - - - -
+             WINDOWS X - - - - -
+            COMPUTER X - - - - -
+             NETWORK X - - - - -
+         POSTGRES8.0 - O - - - -
+POSTGRESQL.CONF/PG_HBA.CONF - - X - - -
+     POSTGRESQL.CONF - - - S - -
+                PORT - - - X - -
+    LISTEN_ADDRESSES - - - - X -
+                   * - - - - X -
+                THAT - - - - - S
+            HBA.CONF - - - - - X
+                HOST - - - - - X
+                LINE - - - - - O

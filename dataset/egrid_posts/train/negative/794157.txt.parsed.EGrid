@@ -1,0 +1,18 @@
+                ROOT O - - - -
+            PASSWORD X O O - -
+           ROOT-USER X - - - -
+              MYSQLD - O - - -
+   SKIP-GRANT-TABLES - X - - -
+                THAT - - S - -
+           SOMETHING - - O - -
+                HTTP - - X - -
+//DEV.MYSQL.COM/DOC/REFMAN/5.0/EN/RESETTING-PERMISSIONS.HTML - - S - -
+                 5.X - - O - -
+                ALOT - - O - -
+               START - - S - -
+   SHIP-GRANT-TABLES - - X - -
+              SYSTEM - - - - X
+                  .. - - - - S
+              NVIDIA - - - - X
+              DRIVER - - - - S
+          PRECAUTION - - - - X

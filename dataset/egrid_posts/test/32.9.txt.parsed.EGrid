@@ -1,0 +1,17 @@
+                LINK O - - - -
+              INSERT X - - - -
+           NOMODESET X - - - -
+              KERNEL X - - - -
+                BOOT X - - - -
+             DRIVERS X - - - -
+         WILEE-NILEE - S - - -
+               /LIBS - - - S -
+         DIRECTORIES - - - X O
+              SYSTEM - - - X -
+                THAT - - - - S
+            LDCONFIG - - - - O
+                APPS - - - - S
+             DEFAULT - - - - X
+               CHECK - - - - X
+     /ETC/LD.SO.CONF - - - - X
+                 .D/ - - - - X

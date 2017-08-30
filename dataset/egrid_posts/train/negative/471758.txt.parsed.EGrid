@@ -1,0 +1,15 @@
+              SCRIPT S - -
+              OUTPUT S - -
+                FILE X - -
+                 USE X - -
+                   > X - -
+                WORK X - -
+                   | X - -
+             COMMAND - - X
+               LSPCI - - O
+              DETAIL - - O
+                CARD - - X
+             REALTEK - - O
+               INTEL - - O
+             CHIPSET - - S
+                LUCK - - S

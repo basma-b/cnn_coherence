@@ -1,0 +1,25 @@
+               ERROR X - X - - -
+              CHANGE O - - - - -
+      DEFAULT-CONFIG O - - - - -
+             DEFAULT X O - - - -
+              CONFIG S - - - - -
+           LOGROTATE S - - - - -
+               MYSQL - S - - - -
+                   * - X - - - -
+                 LOG - - X - - -
+                  GO - - X - - -
+                HTTP - - X - - -
+//PASTEBIN.COM/M117D2A16 - - X - - -
+                THIS - - O S - -
+              MY.CNF - - X X - -
+              SYSLOG - - X - - -
+                THAT - - - O - -
+              DEBIAN - - - X S -
+         IMPROVEMENT - - - O - -
+   /VAR/LOG/MESSAGES - - - S - -
+            BINARIES - - - O - -
+                HELP - - - X - -
+ LOG-ERROR=/VAR/BLAH - - - - X -
+                BLAH - - - - O -
+                MESS - - - - O -
+              DESIGN - - - - - X

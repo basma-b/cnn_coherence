@@ -1,0 +1,16 @@
+           PARTITION X - - - - -
+                  DO - O - - - -
+               GUIDE - X - - - -
+               GRUB2 - X - - - -
+              LIVECD - O - - - -
+                HTTP - X - - - -
+                BOOT - X - - - -
+               MOUNT - O - - - -
+         GRUB-UPDATE - O - - - -
+             ALRIGHT - - S - - -
+           ALSAMIXER - - - - - X
+            TERMINAL - - - - - X
+             CHANNEL - - - - - X
+              VOLUME - - - - - X
+            ANYTHING - - - - - X
+                 TAB - - - - - O

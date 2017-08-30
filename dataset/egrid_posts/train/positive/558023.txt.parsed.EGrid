@@ -1,0 +1,22 @@
+             REQUEST O -
+             MESSAGE O -
+           EXCEPTION X -
+NT_STATUS_IMPROPER_REQUEST X -
+                 HEH S -
+                 ZIP X -
+                FILE O -
+               DRIVE X -
+               FLASH X -
+                  CD X -
+/PATH/TO/FLASH_DRIVE X -
+               UNZIP X -
+   /PATH/TO/FILE.ZIP X -
+             SYMLINK O -
+              SCRIPT X -
+         /ETC/RC2.D/ X -
+                 ALL X -
+             COMMAND O O
+       /ETC/RC.LOCAL X -
+               BEFOR - X
+                EXIT - X
+                BITE - X

@@ -1,0 +1,7 @@
+                SUDO X - -
+               START X - -
+            APPARMOR X - -
+                 JOB O - -
+              ERRORS - - X
+                FILE - - S
+/PROC/BUS/USB/DEVICES - - O

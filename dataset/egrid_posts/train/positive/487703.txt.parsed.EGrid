@@ -1,0 +1,13 @@
+                PIPE X - - -
+                FILE O - - -
+                LINE X - X -
+                 CAT - X X -
+            FILE.TXT - X - -
+                   > - S - -
+                CANT - - X -
+             CONTROL - - O -
+             MANPAGE - - X -
+             COMMAND - - O -
+                HEAD - - X -
+                TAIL - - X -
+                  TA - - - X

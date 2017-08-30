@@ -1,0 +1,15 @@
+              KERNEL X - - - - -
+         2.6.26-7.14 X - - - - -
+                BOOT X - - - X -
+            2.6.26-4 X - - - - -
+                GRUB X - - - - -
+             OPTIONS X S - - - -
+ /BOOT/GRUB/MENU.LST - O - - - -
+             UPDATES - - - X - -
+                  PM - - - - O -
+                MENU - - - - O -
+                  -7 - - - - X -
+                  -4 - - - - X -
+                STOP - - - - - X
+             WAITING - - - - - X
+                ROOT - - - - - X

@@ -1,0 +1,17 @@
+               CHMOD X - - - - - -
+               DRIVE - - - - X - -
+             SOMEONE - - - - S - S
+                U+RW - - - - O - -
+                USER - - - - X - -
+                  RW - - - - X - -
+                   G - - - - X - -
+                   O - - - - X - -
+               GROUP - - - - X - -
+              OTHERS - - - - X - -
+                 DRI - - - - - O -
+           XORG.CONF - - - - - X -
+               ERROR - - - - - - X
+                XORG - - - - - - X
+                BOOT - - - - - - X
+                  CD - - - - - - X
+             COMPARE - - - - - - X

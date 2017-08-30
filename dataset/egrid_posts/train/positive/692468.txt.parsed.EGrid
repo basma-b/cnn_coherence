@@ -1,0 +1,13 @@
+               GROUP X X O S -
+              ACCESS O - - - -
+              FOLDER X X - - -
+               CHGRP - S - - -
+           OWNERSHIP - O - - -
+             «CHGRP - - X - -
+           GROUPNAME - - S - -
+                USER - - - S -
+                FILE - - - X -
+              MEMBER - - - O -
+              NUMBER - - - X -
+            THEADMIN - - - - X
+               DUDES - - - - X

@@ -1,0 +1,14 @@
+                 SIR X - - - - - - - - -
+         VSFTPD.CONF - - O - - - - - - -
+         PAM_SERVICE - - O - - - - - - -
+             SERVICE - - - X - - - - - -
+                FILE - - - O - - - - - -
+               SETUP - - - - X - - - - -
+                YOUD - - - - S - - - - -
+             ACCOUNT - - - - O O - - O -
+                 WAY - - - - - S - - - -
+                UNIX - - - - - X - - X -
+              LOGINS - - - - - O - - - -
+                  IP - - - - - - - - - X
+                MASK - - - - - - - - - X
+                  GW - - - - - - - - - X

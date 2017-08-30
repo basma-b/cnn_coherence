@@ -1,0 +1,16 @@
+             CAPTURE X - - - -
+             PROGRAM X - - - -
+               VIDEO O - - - -
+                V4L2 X - - - -
+               AUDIO X - - - -
+             LINE-IN X - - - -
+                THAT - X - - -
+            MENCODER - O - - -
+                TIME - - X - -
+              RECORD - - X - -
+                VIEW - - X - -
+             MPLAYER - - O - -
+                  ST - - S - -
+                FILE - - X - -
+               YORUE - - X - -
+             SWEDISH - - - - X

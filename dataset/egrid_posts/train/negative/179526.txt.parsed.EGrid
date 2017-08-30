@@ -1,0 +1,13 @@
+                 MTU S - - - - -
+                 LAN X X - - - -
+                TYPE - - S - - -
+            TRANSFER - - X - - -
+            ETHERNET - - X - - -
+         NDISWRAPPER - - - - O -
+                  .. - - - - - O
+                  AH - - - - - S
+                NAME - - - - - X
+              MOMENT - - - - - X
+             BCM4306 - - - - - O
+             BCM43XX - - - - - X
+/ETC/MODPROBE.D/BLACKLIST - - - - - X

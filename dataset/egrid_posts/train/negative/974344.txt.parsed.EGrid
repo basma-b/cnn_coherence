@@ -1,0 +1,10 @@
+                DEBS O - - -
+               CACHE X - - -
+                 DIR X - - -
+                   $ - O - -
+                DPKG - X - -
+      GET-SELECTIONS - S - -
+               PRINT - X - -
+             APT-GET - S - -
+             PACKAGE - - - X
+            SYNAPTIC - - - X

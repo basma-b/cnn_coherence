@@ -1,0 +1,13 @@
+              POLICY X X - - -
+             PACKAGE X - S - -
+               REPLY O - - - -
+         UBUNTU-META S - - - -
+            QUESTION X X - - -
+                GRIP - X - - -
+              METHOD - - - S -
+            TRANSFER - - - X -
+               PUTTY - - - X -
+              UBUNTU - - - X -
+              TELNET - - - - S
+              CLIENT - - - - X
+            UUENCODE - - - - O

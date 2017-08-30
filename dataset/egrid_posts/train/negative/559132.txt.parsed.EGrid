@@ -1,0 +1,17 @@
+            TERMINAL X - - -
+         APPLICATION X - - -
+              DAEMON - X X -
+                BOOT - X - -
+                 GUI - - S -
+                 APP - - O -
+             COMMAND - - O -
+                SORT - - O -
+              SCRIPT - - X -
+              SYSTEM - - - X
+                 LOG - - - S
+               THERE - - - S
+             PROBLEM - - - S
+                   X - - - X
+              SERVER - - - X
+               DMESG - - - O
+            /VAR/LOG - - - X

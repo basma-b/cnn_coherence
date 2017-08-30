@@ -1,0 +1,23 @@
+            VBOX-OSE S X X - -
+                 USB S - X - -
+            TERMINAL X - - - -
+                LIST X - - - -
+             USBHOST X - - - -
+               ATLEF X - - - -
+                  .. X - - - -
+             PROBLEM - O - - -
+         PERMISSIONS - X - - -
+/ETC/UDEV/RULES.D/10-VBOXDRV.RULES - S - - -
+                FILE - O - - -
+              CONFIG - X - - -
+             NON-OSE - - S - -
+                 OSE - - O - -
+             SUPPORT - - O - -
+                 ONE - - O O -
+              INSTAL - - X - -
+           EXTENSION - - O - -
+                THAT - - - O -
+             VERSION - - - X -
+                LOOK - - - - O
+                 DEV - - - - O
+               HTTPS - - - - O

@@ -1,0 +1,30 @@
+/ETC/MODPROBE.D/ALSA-BASE.CONF O - - - - -
+                LINE O - - - - -
+                HTTP O X O - - -
+              REBOOT O - - - - -
+                TEST X - - - - -
+             DEVICES X - - - - -
+              OUTPUT - X - - - -
+      ./ALSA-INFO.SH - X - - - -
+              DEVICE - X - - - -
+             LIBRARY - - X - - -
+               AFAIK - - S - - -
+/TMP/ALSA-INFO.TXT.ASDEDPHDVP - - X - - -
+                TEXT - - O - - -
+             COMMAND - - O - - -
+              UPLOAD - - X - - -
+                THIS - - S - - -
+                 URL - - O - - -
+             APT-GET - - S - - -
+          PASTEBINIT - - O - - -
+//PASTEBIN.COM/UJ5VSHPJ - - O - - -
+               ISSUE - - X - - -
+           ALSAMIXER - - - X - -
+               LEVEL - - - O - -
+                SWAP - - - - - O
+           PARTITION - - - - - O
+                HOST - - - - - X
+                  HD - - - - - X
+                NEED - - - - - O
+                 USE - - - - - X
+          BOTTLENECK - - - - - X

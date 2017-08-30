@@ -1,0 +1,17 @@
+         LSPCI/LSUSB X - - - -
+        MANUFACTURER - S - - -
+                CHIP - O - - -
+                 USE - X - - -
+           ALSAMIXER - X S - -
+                CARD - X - - -
+               AUDIO - X O - -
+             CHANNEL - O - - -
+              DEVICE - O - - -
+                 USB - - X - -
+            SOFTWARE - - X - -
+                HAND - - - - X
+               PANEL - - - - X
+                ICON - - - - X
+                  .. - - - - O
+                 KDE - - - - O
+               FRONT - - - - X

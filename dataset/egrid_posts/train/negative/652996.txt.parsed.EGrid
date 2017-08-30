@@ -1,0 +1,17 @@
+  ADD-APT-REPOSITORY - S -
+                 USE - O -
+                WGET - S -
+               STUFF - O -
+                 DEB - X -
+                LINE - O -
+/ETC/APT/SOURCES.LIST - X -
+                 KEY - O -
+                SUDO - X -
+             APT-GET - X -
+              UPDATE - X -
+             VCOOLIO - X -
+            RSTOB911 - X -
+               USERS - - O
+               PANEL - - X
+                 ETC - - X
+                 THX - - O

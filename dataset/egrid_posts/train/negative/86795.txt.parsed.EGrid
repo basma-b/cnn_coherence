@@ -1,0 +1,13 @@
+               CACHE O - - -
+                 RAM X - - -
+              KERNEL - X - -
+           PARAMETER - O - -
+    VM.SWAPPINESS=10 - X - -
+    /ETC/SYSCTL.CONF - X - -
+                SUDO - X - -
+                  -P - X - -
+            SWAPFILE - X - -
+             COMMENT - - - X
+              THERES - - - O
+              PLENTY - - - S
+                INFO - - - X

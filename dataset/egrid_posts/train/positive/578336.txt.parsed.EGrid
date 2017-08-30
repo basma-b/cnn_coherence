@@ -1,0 +1,19 @@
+                TIME - - O - - - - - -
+                LINE - - S - - - - - -
+                 END - - X - - - - - -
+                THAT - - - S - - - - -
+                   A - - - O - - - - -
+               AUDIT - - - X - - - - -
+   1242187006.261:26 - - - X - - - - -
+          OPERATION= - - - X - - - - -
+        INODE_CREATE - - - X - - - - -
+     REQUESTED_MASK= - - - X - - - - -
+        DENIED_MASK= - - - S - - - - -
+               NAME= - - - X - - - - -
+/HOME/JAMES/DESKTOP/TEST_PAGE.PDF - - - S - - - - -
+            PROFILE= - - - O - - - - -
+/USR/LIB/CUPS/BACKEND/CUPS-PDF - - - S - - - - -
+               THERE - - - S - - - - -
+               ERROR - - - O - - - - -
+         DENIED_MASK - - - - - O - - -
+~/DESKTOP/TEST_PAGE.PDF - - - - - - - - X

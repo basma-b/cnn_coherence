@@ -1,0 +1,11 @@
+         XORG.CONFIG X O - - - S - - -
+                FILE S - - - - - - - -
+          PERMISSION X - - - - - - - -
+                SUDO - S - - - - - - -
+    DPKG-RECONFIGURE - - X - - - - - -
+                THAT - - - - - X - - -
+             DRIVERS - - - - - O - - -
+              X800XL - - - - - X - - -
+             APT-GET - - - - - O - - -
+                 VIM - - - - - - O - -
+                  NO - - - - - - - - X

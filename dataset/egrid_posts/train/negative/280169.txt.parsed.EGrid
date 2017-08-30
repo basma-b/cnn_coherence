@@ -1,0 +1,13 @@
+            IWCONFIG X S -
+               WLAN0 S - -
+             COMMAND X - -
+                   K X - -
+                 USE O - -
+             NETWORK X - -
+             MANAGER X - -
+                  OK X - -
+                 SEC X - -
+                 BRB O - -
+            HARDWARE X - -
+              SERVER - S -
+               UNITY - - O

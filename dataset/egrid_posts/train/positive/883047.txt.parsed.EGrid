@@ -1,0 +1,16 @@
+              ANYONE S - - - - -
+          START/STOP - X - - - -
+             DAEMONS - O - - - -
+             SERVICE - X X - - -
+          DAEMONNAME - X - - - -
+               TFTPD - - S - - -
+                SUDO - - X - - -
+                CASE - - X - - -
+              XINETD - - X - - -
+                  .. - - X O - -
+                  HM - - - S - -
+                 WAY - - - - X -
+               SENSE - - - - O -
+        /ETC/INIT.D/ - - - - S -
+              THINGS - - - - S X
+          /ETC/INIT/ - - - - - X

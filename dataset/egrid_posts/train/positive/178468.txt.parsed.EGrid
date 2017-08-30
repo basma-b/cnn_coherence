@@ -1,0 +1,12 @@
+              FORMAT X - - -
+           PARTITION O - - -
+                 EXT X - - -
+                 USE X - - -
+              CFDISK X - - -
+              OPTION O - - -
+               TABLE S - - -
+              CHANGE O - - -
+              MKE2FS - S - -
+                MKFS - X - -
+                WORK - O - -
+              LIVECD - - - S

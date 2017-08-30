@@ -1,0 +1,14 @@
+              FOLLOW O - - - - -
+             APT-GET O - - - - -
+         UPDATE-GRUB O - - - - -
+        GRUB-INSTALL - O - - - -
+                GRUB - O - - - -
+                 EFI - - X - - X
+              SYSTEM - - X - - -
+           PARTITION - - S - - -
+          /BOOT/EFI/ - - X - - -
+                THIS - - O - - -
+          /ETC/FSTAB - - X - - -
+                BOOT - - - - - O
+             WINDOWS - - - - - O
+              LEGACY - - - - - X

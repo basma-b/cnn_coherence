@@ -1,0 +1,14 @@
+              ANYONE S - - - -
+           AUTOMOUNT S - - - -
+                 NFS X - - X -
+                ROOT S - - - -
+                TREE X - - - -
+              SYNTAX - X - - -
+           DIRECTORY - - O X -
+               MOUNT - - X - -
+              AUTOFS - - X - -
+            /NET/SWW - - - S -
+                FILE - - - X -
+                PATH - - - S -
+             MANPAGE - - - - O
+                INFO - - - - X

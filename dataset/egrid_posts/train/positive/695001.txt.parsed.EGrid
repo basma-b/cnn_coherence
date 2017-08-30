@@ -1,0 +1,30 @@
+ /ETC/INIT.D/APACHE2 S - - - - - - - - - -
+  CONFIGURATION-WISE X - - - - - - - - - -
+              APACHE - X - - X - X - - - -
+              AND/OR - X - - - - - - - - -
+             PROBLEM - O - - - - - - - - -
+          MOD_PYTHON - - - X - - - - - - -
+                THAT - - - - S - O - - X -
+                 HMM - - - - X - - - - - -
+              PYTHON - - - - X X S - - - -
+               STUFF - - - - X - O - - - -
+            ANYTHING - - - - - X O - - - -
+             ALRIGHT - - - - - - S - - - -
+             CONFIGS - - - - - - O - - - -
+               START - - - - - - O - - - -
+          EVERYTHING - - - - - - X - - - -
+                SUDO - - - - - - X - - - -
+             APT-GET - - - - - - S - - - -
+LIBAPACHE2-MOD-PYTHON - - - - - - X - - - -
+               THERE - - - - - - S - - - -
+/ETC/APACHE2/MODS-ENABLED/ - - - - - - X - - - -
+                   | - - - - - - X - - - -
+                GREP - - - - - - X - - - -
+                 WAY - - - - - - O - - - -
+        FORCE-RELOAD - - - - - - O - - - -
+                FILE - - - - - - O - - X -
+          ADDHANDLER - - - - - - O - - - -
+                WORD - - - - - - - O - - -
+             PACKAGE - - - - - - - - - S -
+                CARE - - - - - - - - - O -
+/ETC/APACHE2/MODS-AVAILABLE/ - - - - - - - - - - X

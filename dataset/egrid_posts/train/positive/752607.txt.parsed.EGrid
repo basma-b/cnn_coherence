@@ -1,0 +1,11 @@
+              SERIAL S S - - - -
+              DEVICE X - - - - -
+                READ X - - - - -
+               GETTY - - S O - -
+               TTYS0 - - X - - X
+                PORT - - X O - -
+        /ETC/INITTAB - - - X - -
+                INIT - - - - - S
+             RESPAWN - - - - - X
+               VT100 - - - - - X
+             INITTAB - - - - - X

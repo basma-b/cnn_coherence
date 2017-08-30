@@ -1,0 +1,14 @@
+               IMAGE X - - - X - -
+           PARTITION X - - - - - -
+              BACKUP - X - - - - -
+             SYSTEMS - X - - - - -
+                 TAR - - X - - - -
+                GZIP - - X - - - -
+                 SSH - - X - - - -
+               RSYNC - - X - - - -
+              SYSTEM - - O O - - -
+                DISK - - X - - - -
+             CURRENT - - S - - - -
+         INFORMATION - - - - - - X
+                THRU - - - - - - X
+              CHANCE - - - - - - X

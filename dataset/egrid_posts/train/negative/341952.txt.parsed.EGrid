@@ -1,0 +1,27 @@
+                DISK X - - - -
+             EXAMPLE - X - - -
+             ECLIPSE - X - - -
+               CHILD - X - - -
+             PROCESS - O - - -
+/MEDIA/DISK/LINUX/ECLIPSE/ECLIPSE - X - - -
+          PERMISSION - S S - -
+                EXT3 - X - X -
+                NTFS - S - - -
+              NOEXEC - X - - -
+                  SU - - X - -
+            TERMINAL - - X - -
+                TYPE - - S X -
+           ./ECLIPSE - - X - -
+           PARTITION - - X X -
+              EDITOR - - X - -
+                FLAG - - O X -
+                FILE - - O - -
+               MOUNT - - - S -
+                ARGS - - - X -
+                LIST - - - O -
+                  OK - - - S -
+                 ONE - - - O -
+             TROUBLE - - - O -
+                LOOK - - - X -
+         PARENTHESES - - - X -
+               THANK - - - - X

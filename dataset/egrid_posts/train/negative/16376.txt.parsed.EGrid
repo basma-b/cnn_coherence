@@ -1,0 +1,16 @@
+           USING_DMA S - - - -
+        HDIO_SET_DMA S - - - -
+           OPERATION S - - - -
+                 YES X - - - -
+                SUDO S - - - -
+              DRSPIN - S - - -
+                HERO - O - - -
+                 HAT - X - - -
+                IDEA - X - - -
+                 DMA - O - - -
+ /BOOT/GRUB/MENU.LST - - O - -
+                BITE - - O - -
+              KERNEL - - S - -
+          IDEBUS=100 - - X - -
+                   D - - - X -
+            OPENSUSE - - - - X

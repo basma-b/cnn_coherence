@@ -1,0 +1,12 @@
+   NVIDIA-GLX-CONFIG O - - - -
+               ERROR O - - - -
+              NVIDIA X X - - -
+              KERNEL X X X - -
+              DRIVER O X - - -
+                 RUN - X - - -
+             MODULES - - X - -
+              SEARCH - - - S -
+              OUTPUT - - - O -
+LINUX=RESTRICTED-MODULES-2.6.17-10-GENERIC - - - S -
+             VERSION - - - X -
+LINUX-RESTRICTED-MODULES-2.6.17-10-386 - - - - X

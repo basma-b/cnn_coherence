@@ -1,0 +1,7 @@
+             PROGRAM S X
+             APT-GET X -
+            GENERALL X -
+                /USR X -
+                TIME - S
+              REBOOT - O
+               THING - O

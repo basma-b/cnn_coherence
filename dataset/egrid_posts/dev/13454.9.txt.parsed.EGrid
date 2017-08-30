@@ -1,0 +1,25 @@
+                IDEA X - - -
+               FLASH S - - -
+             BROWSER X - - -
+               BREAK - S - -
+               10.04 - X - -
+               VIDEO - X - -
+             DRIVERS - O - -
+                 VGA - - X -
+          CONTROLLER - - X -
+                 ATI - - X -
+        TECHNOLOGIES - - X -
+                 INC - - X -
+              RADEON - - X -
+              XPRESS - - X -
+                200M - - X -
+               -RSB- - - X -
+                THIS - - O -
+               LSPCI - - O -
+           /DEV/NULL - - - X
+                   | - - - O
+     APACHE2/MODULES - - - X
+               PLACE - - - O
+             MODULES - - - X
+                HTTP - - - X
+//HTTPD.APACHE.ORG/DOCS/2.0/PROGRAMS/APXS.HTML - - - X

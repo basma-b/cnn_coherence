@@ -1,0 +1,7 @@
+           PARTITION X O
+               FIRST X -
+                 LOG X -
+                 IRC X -
+                USER X X
+              CHOICE - O
+                ROOT - X

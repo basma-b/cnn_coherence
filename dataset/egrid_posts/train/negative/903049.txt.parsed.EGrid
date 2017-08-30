@@ -1,0 +1,11 @@
+                  YA X - - -
+         HOSTS.ALLOW X - - -
+          EVERYTHING X - - -
+                 ALL - O - -
+/ETC/DEFAULT/PORTMAP - S - -
+                ARGS - X - -
+                HTTP - X - -
+//WWW.UBUNTULINUX.ORG/SUPPORT/DOCUMENTATION/FAQ/NFS-SERVER - X - -
+                WIKI - - S -
+                MORE - - - O
+              UBUNTU - - - X

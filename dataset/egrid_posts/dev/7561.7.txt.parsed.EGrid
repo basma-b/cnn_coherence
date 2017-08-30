@@ -1,0 +1,16 @@
+             DEFAULT X - - - -
+                TEXT X - - - -
+                MODE X - - - -
+                   X X - - - -
+               START X - - - -
+             OPTIONS - X X - -
+                NOFB - O - - -
+            NOSPLASH - - S - -
+            PLYMOUTH - - O - -
+            GRAPHICS - - O - -
+                  NO - - - - X
+             NETWORK - - - - O
+             MANAGER - - - - O
+                WICD - - - - S
+            WIRELESS - - - - X
+              SQUARE - - - - X

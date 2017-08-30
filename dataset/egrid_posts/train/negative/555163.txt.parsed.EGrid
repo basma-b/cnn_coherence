@@ -1,0 +1,12 @@
+               CDROM S - - - -
+               IBOOK X - - - -
+                BOOT - - X O -
+                  CD - - X - -
+                 USB - - X X -
+               DRIVE - - X X -
+                 SSH - - - - S
+            FIREWALL - - - - O
+                PORT - - - - X
+                KIND - - - - X
+        PORTKNOCKING - - - - X
+                AUTH - - - - O

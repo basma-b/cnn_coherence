@@ -1,0 +1,22 @@
+               YOURS S - - - - - -
+                 POS S - - - - - -
+          REPOSITORY S - - - - - -
+                SUDO - X - - - - X
+                WGET - X - - - - -
+                HTTP - O O - - - -
+//WWW.MEDIBUNTU.ORG/SOURCES.LIST.D/JAUNTY.LIST - O - - - - -
+OUTPUT-DOCUMENT=/ETC/APT/SOURCES.LIST.D/MEDIBUNTU.LIST - O - - - - -
+               HTTPS - - O - - - -
+                INFO - - X - - - -
+                THIS - - S - - - -
+             VERSION - - - X - - -
+              UBUNTU - - - X X - -
+               APRIL - - - - X - -
+                 ONE - - - - S - -
+            INTEREST - - - - X - -
+              JAUNTY - - - - X - -
+           JACKALOPE - - - - X - -
+              UPDATE - - - - - O -
+               POINT - - - - - - X
+             APT-GET - - - - - - S
+             COMMAND - - - - - - O

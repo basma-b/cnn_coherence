@@ -1,0 +1,27 @@
+              SETENV X - - -
+            VARIABLE X - - -
+                TCSH X - - -
+                   $ - X - -
+                SAME - O - -
+              EXPORT - X - -
+          CLASSPATH= - X - -
+           CLASSPATH - X - -
+    /SOME/DIRECTORY/ - X - -
+                LOOK - X - -
+                FILE - X O -
+                THAT - - O -
+              SYNTAX - - O -
+               THERE - - X -
+S/SOMTHING/SOMETHINGELSE/G - - S -
+                 ONE - - O -
+                   G - - O -
+             COMMAND - - O -
+                 TRY - - S -
+SERVER.SERVERPROTOCOL - - S -
+                 CAT - - X -
+                PIPE - - X -
+            FILE.TXT - - X -
+                   | - - X -
+                TYPE - - O -
+               ARROW - - - O
+             HISTORY - - - X

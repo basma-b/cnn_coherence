@@ -1,0 +1,22 @@
+             MESSAGE S - - - - - -
+             TIMEOUT O - - - - - -
+              REPEAT X - - - - - -
+                CUPS S - - - - - -
+             NETWORK X X - - - S -
+            LOCATION - X - X - - -
+      192.168.2.0/24 - O - - - - -
+/ETC/CUPS/CUPSD.CONF - X - - - - -
+                   / - X - X - - -
+             PORTION - X - - - - -
+                 CUP - O - - - - -
+             MACHINE - S - - - - -
+                PAGE - O - - - - -
+          ALLOW/DENY - - X X - - -
+               ORDER - - O X - - -
+         BROWSEORDER - - - S - - -
+                   | - - - - S - -
+             DEFAULT - - - - X - X
+            FIREWALL - - - - X - O
+              UBUNTU - - - - X - X
+               SAMBA - - - - - O -
+               THERE - - - - - - S

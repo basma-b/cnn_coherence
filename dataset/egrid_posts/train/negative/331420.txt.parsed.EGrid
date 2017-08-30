@@ -1,0 +1,14 @@
+        SOURCES.LIST X - -
+               GUSTY X - -
+                DONT - S -
+                  .. - X -
+                 ATI - X -
+           TV-OUTPUT - O -
+              LATEST - O -
+                XORG - X -
+     COMPIZPROCESSES - - O
+              MEMORY - - X
+               USAGE - - S
+                  GB - - X
+         SUGGESTIONS - - X
+              SYSTEM - - X

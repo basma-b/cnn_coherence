@@ -1,0 +1,22 @@
+             MODULES O - - - -
+                LOAD O - - - -
+                BOOT X - - - -
+/ETC/MODPROBE.D/BLACKLIST X - - - -
+                WILL X - - - -
+              DRIVER O - - - -
+                FILE O - - - -
+              INSMOD X S X - -
+              KERNEL - X - - -
+     MODULES/DRIVERS - O - - -
+             RUNTIME - X - - -
+            ANYTHING - O - - -
+            MODPROBE - - O - -
+             COMMAND - - S - -
+                 SAY - - X - -
+               THERE - - - - X
+               FONTS - - - - O
+        REPOSITORIES - - - - X
+              SEARCH - - - - X
+                FONT - - - - S
+                 LOT - - - - S
+                 TTF - - - - X

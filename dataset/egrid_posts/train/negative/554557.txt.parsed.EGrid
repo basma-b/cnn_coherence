@@ -1,0 +1,16 @@
+                WORD X X - -
+                LIST X S - -
+                FILE X O - -
+                GREP - X - -
+                   < - X - -
+         LISTOFFILES - S - -
+                 USE - X - -
+               XARGS - S - -
+        DISPLAY_NAME - X - -
+               /VAR/ - X - -
+             EXAMPLE - X - -
+                   * - X - -
+      SUBDIRECTORIES - S - -
+              GOTCHA - - S -
+             HEADERS - - - S
+            SPECIFIC - - - O

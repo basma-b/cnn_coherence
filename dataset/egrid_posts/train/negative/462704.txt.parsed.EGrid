@@ -1,0 +1,18 @@
+         SUGGESTIONS O - - - -
+                LOAD X O - - -
+             STARTUP - X - - -
+            MODPROBE - X - - -
+             ATH_PCI - O - - -
+            IFCONFIG - X - - -
+                ATH0 - O O - -
+              KERNEL - S - - -
+        /ETC/MODULES - X - - -
+                LINE - X - - -
+               PROBE - O - - -
+                BOOT - X - - -
+                AUTO - - X - -
+/ETC/NETWORK/INTERFACES - - X - -
+         APPLICATION - - - O -
+                  IM - - - - S
+             KUBUNTU - - - - O
+           ALSAMIXER - - - - S

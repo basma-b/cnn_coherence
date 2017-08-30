@@ -1,0 +1,13 @@
+           /DEV/HDC1 X - - -
+           /DEV/HDD1 X - - -
+               DRIVE - S - -
+           PARTITION - X - -
+                RAID - X - -
+          AUTODETECT - X - -
+                  .. - O - -
+              REASON - S - -
+               MDADM - - - X
+               ERROR - - - X
+            /DEV/MD1 - - - X
+                FILE - - - X
+           DIRECTORY - - - X

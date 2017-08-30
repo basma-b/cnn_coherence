@@ -1,0 +1,11 @@
+              DAPPER X - -
+              UPDATE S - X
+              REBOOT X - -
+      UPDATE-MANAGER S - -
+             UPGRADE O - X
+                SUDO - X X
+                DPKG - O -
+             NOTHING - S -
+            APTITUDE - - X
+        DIST-UPGRADE - - X
+      UBUNTU-DESKTOP - - O

@@ -1,0 +1,11 @@
+            RC.LOCAL S - - - -
+              SYSTEM X - - - -
+                BOOT O - - - -
+                /ETC - X - - -
+               /ETC/ - X - - -
+         PERMISSIONS - X - - -
+                FILE - - X - X
+                TYPE - - - O -
+             APT-GET - - - O -
+         INITSCRIPTS - - - O -
+                 ANY - - - - O

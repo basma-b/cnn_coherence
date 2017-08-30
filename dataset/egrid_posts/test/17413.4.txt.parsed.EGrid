@@ -1,0 +1,9 @@
+             PACKAGE X - -
+           APT-CACHE - S -
+            RDEPENDS - O -
+             DEFAULT - - X
+                FILE - - X
+          CORRECTION - - O
+           ~/.BASHRC - - S
+               12.10 - - X
+     ~/.BASHRC.LOCAL - - O

@@ -1,0 +1,31 @@
+                HELP O - - - - - - -
+           REINSTALL - - - S - - - -
+                 ATI - - - X - - - -
+             DRIVERS - - - X - - - -
+             REMOVAL - - - X - - - -
+XSERVER-XORG-DRIVERS-ALL - - - X - - - -
+                 DRI - - - X - - - -
+                THIS - - - S - S - -
+             GLXINFO - - - X - - - -
+               ERROR - - - X - - - -
+                LOAD - - - X - - - -
+               SHARE - - - X - - - -
+           LIBRARIES - - - X - - - -
+          LIBGL.SO.1 - - - X - - - -
+              OBJECT - - - X - - - -
+                FILE - - - O - - - -
+           DIRECTORY - - - S - - - -
+              DRIVER - - - X - X - -
+               FGLRX - - - - S X - -
+            MOBILITY - - - - X - - -
+              RADEON - - - - X - - -
+                   X - - - - - S - -
+             APT-GET - - - - - O - -
+             INSTALL - - - - - O - -
+     LIBGL1-MESA-DRI - - - - - X - -
+XSERVER-XORG-VIDEO-ATI - - - - - X - -
+          NON|LINEAR - - - - - O - -
+                THAT - - - - - - O -
+                 ALL - - - - - - X -
+              THINGS - - - - - - S -
+             NOTHING - - - - - - - S

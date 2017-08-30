@@ -1,0 +1,15 @@
+        /ETC/SUDOERS S - - - - -
+                BOOT - X X - - -
+             RESCURE - X - - - -
+                MODE - X X - - -
+         RE-POPULATE - X - - - -
+              HOWTOS - X - - - -
+             SUDOERS - - X - - -
+                COPY - - O - - -
+             SOMEONE - - X - - -
+               TOUCH - - O - - -
+            RECOVERY - - X - - -
+                MENU - - X - - -
+                TYPE - - X - - -
+                DONT - - - - X -
+              SOURCE - - - - - X

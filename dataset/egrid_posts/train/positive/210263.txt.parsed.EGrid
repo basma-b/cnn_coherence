@@ -1,0 +1,19 @@
+   KDEMULTIMEDIA-DEV X - - - -
+             DEPENDS X - - - -
+                  .. X - - O -
+        LIBGLU1-MESA S - - - -
+6.5.1~20060817-0UBUNTU3 X - - - -
+   6.5.1+CVS20060815 S - - - -
+             VERSION O - - - X
+               REPOS X S - X -
+/ETC/APT/SOURCES.LIST - X - - -
+                 XGL - - X - -
+                 DEB - - - X -
+                HTTP - - - S -
+            ANYTHING - - - S -
+                SUDO - - - X -
+             APT-GET - - - S -
+              MOMENT - - - X -
+        XSERVER-XORG - - - O -
+             NOTHING - - - - X
+              CHANGE - - - - X

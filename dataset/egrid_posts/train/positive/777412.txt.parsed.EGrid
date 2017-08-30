@@ -1,0 +1,14 @@
+                UDEV O - - X - -
+                LOCK O - - - - -
+                ROOT X - - - - -
+             COMMAND O - - S - -
+                USER X - - - - -
+             REVERSE - O - - - -
+                  SU - X X - - -
+            OPPOSITE - X - - - -
+                SUDO - X - - - -
+                THAT - - - X - -
+       USERNAME/SUDO - - - X - -
+                  -U - - - S - -
+              ACCORD - - - - - X
+           MAN-PAGES - - - - - O

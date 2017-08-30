@@ -1,0 +1,21 @@
+                 IVE S - - -
+                LINE X X - -
+        ALL=NOPASSWD O O - -
+/USR/SBIN/FIRESTARTER S X - -
+             SUDOERS X X - -
+                ROOT O X - -
+                USER X - - -
+                NAME O - - -
+            USERNAME - O - -
+                FILE - X - -
+                PASS - O - -
+                WINZ - S - -
+                   % - X - -
+            NOPASSWD - O - -
+              VISUDO - S - -
+               THING - X - -
+                HTTP - X - -
+//UBUNTUFORUMS.ORG/SHOWPOST.PHP - X - -
+         POSTCOUNT=2 - - X -
+             DESKTOP - - - O
+            ANYTHING - - - O

@@ -1,0 +1,10 @@
+            LOCATION X - - -
+                FILE X - - -
+         GLIB-2.0.PC X - - -
+         ENVIRONMENT X - - -
+     PKG_CONFIG_PATH X - - -
+              EXPORT - X - -
+    PKG_CONFIG_PATH= - X - -
+       /PATH/TOGLIB/ - X - -
+                THAT - - - X
+              CHANGE - - - X

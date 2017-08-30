@@ -1,0 +1,14 @@
+                   ' S - - - - -
+             M-AUDIO X - - - - -
+               DELTA X - - - - -
+                CARD S - - - - -
+             CHIPSET X - - - - -
+               LSPCI S - - - - -
+                LIST O - - - - -
+             MODULES S - - - - -
+                LOAD O - - - - -
+                HTTP X - - - - -
+//RAFB.NET/P/UVVHAN83.HTML X - - - - -
+            MODPROBE - - X - - X
+             OPTIONS - - O X - O
+                TIME - - - - - X

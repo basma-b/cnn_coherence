@@ -1,0 +1,18 @@
+               MYSQL S S O - -
+             SERVICE S - - - -
+             COMMAND O - S - -
+               START O S S - -
+                 NEW X - - - -
+                SGAC X X - - -
+               -RSB- S S - - -
+                 JOB S S - - -
+                MODE X - - - -
+                WAIT X - - - -
+               -LSB- - X - - -
+                TYPE - X - - -
+               OOOPS - - O - -
+                PART - - O - -
+               ERROR - - X - -
+             MESSAGE - - X - -
+/ETC/INIT/MYSQL.CONF - - X - -
+              UBUNTU - - - - S

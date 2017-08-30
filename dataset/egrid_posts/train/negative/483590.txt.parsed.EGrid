@@ -1,0 +1,24 @@
+               ISSUE - X - - - - -
+                TIME - - X - - - -
+                THAT - - O - - - -
+              SERVER - - O X - - -
+          /VAR/CACHE - - X - - - -
+               SHARE - - O - - - -
+          REPOSITORY - - S - - - -
+              CLIENT - - X - - - -
+                 ONE - - S - - S -
+                FILE - - X - - - -
+                  .. - - O - - - -
+                 DIR - - - X - - -
+             CLIENTS - - - X - - -
+       ARCHIVES/LOCK - - - - - S -
+                LOCK - - - - - S -
+                TOOL - - - - - X -
+             MACHINE - - - - - O -
+             CONTENT - - - - - X -
+/VAR/CACHE/APT/ARCHIVES - - - - - X -
+           DIRECTORY - - - - - O -
+                HOST - - - - - X -
+             NETWORK - - - - - X -
+     UPDATES/INSTALL - - - - - X -
+            RESARRCH - - - - - - O

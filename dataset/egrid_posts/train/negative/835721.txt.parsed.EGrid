@@ -1,0 +1,23 @@
+           KICKSTART S - - - - S - - - -
+                BOOT X - - - - - - - - -
+             MACHINE - S - - - - - - - -
+                FILE - O - - - - - - - -
+              SERVER - O O - - - - - - -
+                 URL - O - - - - - - - -
+               PROXY - - S S - - - - - -
+                 USE - - X O - - - - - -
+              ACCESS - - O - - - - - - -
+        SOURCES.LIST - - - - X - - - - -
+               PLACE - - - - S - - - - -
+             APT-GET - - - - X - - - - -
+            SOFTWARE - - - - X - - - - -
+              CENTRE - - - - S - - - - -
+            /ETC/APT - - - - X - - - - -
+              REREAD - - - - X - - - - -
+            QUESTION - - - - O - - - - -
+        INSTALLATION - - - - X - - - - -
+             PROCESS - - - - X - - - - -
+                HELP - - - - O - - - - -
+                HTTP - - - - X - - - - -
+//WWW.HOWTOFORGE.COM/LOCAL_DEBIAN_UBUNTU_MIRROR_P3 - - - - X - - - - -
+            GRAPHICS - - - - - - - - - S

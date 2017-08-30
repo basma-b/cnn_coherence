@@ -1,0 +1,10 @@
+             PROBLEM - O - - O - - - - -
+              NVIDIA - X S - X S - - - -
+              DRIVER - X O - X O - - - -
+            MODPROBE - - X - - X X - - -
+    MODULES/VOLATILE - - X - - X - - - -
+             DRIVERS - - - O - - O - - -
+                 MAN - - - - - - X - - -
+               THERE - - - - - - S - - -
+  RESTRICTED-MODULES - - - - - - - - - X
+/LIB/MODULES/2.6.XX/VOLATILE - - - - - - - - - X

@@ -1,0 +1,16 @@
+             WINDOWS O - - - -
+                DISK X - - - -
+         /MEDIA/HDA1 X - - - -
+              FOLDER S - - - -
+              ACCESS O - - - -
+             PROGRAM X - - - -
+                FILE O - - - -
+         PERMISSIONS - X - - -
+                  -R - - O - -
+                USER - - X - -
+             NOTHING - - O - -
+             COMMAND - - X - -
+                SUDO - - - S -
+              UMOUNT - - - S -
+              -TNTFS - - - S -
+              INSTAL - - - - O

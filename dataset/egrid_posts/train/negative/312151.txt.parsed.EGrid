@@ -1,0 +1,12 @@
+                 ISO - S -
+           MAKEISOFS - O -
+               MEDIA - O -
+                  CD - X -
+           SOMETHING - X -
+                  DD - X -
+       IF=/DEV/CDROM - X -
+         OF=FILE.ISO - X -
+             MKISOFS - X -
+             PACKAGE - - O
+                  +4 - - O
+               32ISH - - X

@@ -1,0 +1,14 @@
+     ATAPI_ENABLED=1 X - - - - -
+                  .. X - - - - -
+              MODULE - S - - - -
+              INITRD - X O - - -
+/ETC/MODPROBE.D/OPTIONS - O - - - -
+                THAT - - X - - -
+         MKINITRAMFS - - O - - -
+ /BOOT/INITRD-BLABLA - - X - - -
+              KERNEL - - - X - -
+              OPTION - - - X - -
+                GRUB - - - X - -
+           BOOT.MENU - - - X - -
+            MENU.LST - - - X - -
+                 HMM - - - - X -

@@ -1,0 +1,14 @@
+             ATTEMPT X -
+            MODPROBE S -
+/LIB/MODULES/2.6.12.5/KERNEL/LIB/ZLIB_INFLATE/ZLIB_INFLATE.KO O -
+              INSMOD S -
+              INSERT X -
+            INVALIDE X -
+              FORMAT X -
+                EXEC X -
+               ERROR X -
+             PROBLEM O -
+            2.6.12.5 S -
+              KERNEL O -
+                  YO X -
+               IDEAS S -

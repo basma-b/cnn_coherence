@@ -1,0 +1,16 @@
+               FSTAB S - - X - - - - -
+                   | S - - - - - - - -
+               MOUNT O - - - - - - - X
+         DESCRIPTION O - - - - - - - -
+           /ETC/MTAB - X - - - - - - -
+                MTAB - - - - S - - - -
+                INFO - - - - X - - - -
+              /THIS\ - - - - O - - - -
+                   < - - - - - X - - -
+                THIS - - - - - X - - -
+         ALTERNATIVE - - - - - X - - -
+                SHOW - - - - - - - O -
+              KERNEL - - - - - - - S -
+        /PROC/MOUNTS - - - - - - - O -
+             NOTHING - - - - - - - - S
+             COMMAND - - - - - - - - X

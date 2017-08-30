@@ -1,0 +1,17 @@
+                SUDO S - - -
+            HOSTNAME S - - -
+          /ETC/HOSTS X - - -
+                ROOT X - - -
+                BOOT - S - -
+               RECUE - X - -
+              OPTION - O - -
+              REPAIR - X - -
+              RESCUE - X - -
+                 USE - - O -
+         PERSISTENCE - - X -
+             STARTUP - - X -
+                DISK - - X -
+            PENDRIVE - - X O
+         APPLICATION - - - O
+             MACHINE - - - X
+        APPLICATIONS - - - X

@@ -1,0 +1,15 @@
+                THAT S - - - X - - -
+                WINE - X - - - - - -
+                YHES - - X - - - - -
+                SUDO - - - S - - - -
+               SMBFS - - - O - - - -
+           USER=USER - - - X - - - -
+       PASS=PASSWORD - - - S - - - -
+       DIR_MODE=0775 - - - S - - - -
+            GID=1009 - - - S - - - -
+             MACHINE - - - - - O - -
+               FSTAB - - - - - - - X
+                 NOW - - - - - - - X
+             COMMAND - - - - - - - O
+                WORK - - - - - - - X
+                 CLI - - - - - - - X

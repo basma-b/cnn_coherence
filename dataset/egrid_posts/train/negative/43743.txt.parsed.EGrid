@@ -1,0 +1,20 @@
+             OPTIONS O O - S - - -
+             NETWORK X - - - - - -
+                CARD O - - - - - -
+    /ETC/MODPROBE.D/ - O - - - - -
+                FILE - S - - - - -
+/ETC/MODPROBE.D/LOEVBORG - X - - - - -
+                MINE - X - - - - -
+       DXS_SUPPORT=1 - X - - - - -
+        AC97_QUIRK=1 - X - - - - -
+              OPTION - O - - - - -
+            MODPROBE - X - - - - -
+                   * - O - - - - -
+           OPTIONS=4 - - X - - - -
+               3C59X - - O - - - -
+                GREP - - X - - - -
+                 OMG - - X - - - -
+                TEST - - - - S - -
+                NEED - - - - - X -
+               SPEED - - - - - X -
+                KEWL - - - - - - X

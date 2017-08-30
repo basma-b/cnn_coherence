@@ -1,0 +1,13 @@
+                 ACE X - - -
+                   T S - - -
+               USERS O - - -
+                WORK O - - -
+         SSHD_CONFIG X - - -
+           DENYUSERS X - - -
+          ALLOWUSERS X - - -
+              TESTER X X - -
+           DEVELOPER X X - -
+                   R X - - -
+                RULE - - S -
+                 ALL - - - O
+                SOME - - - O

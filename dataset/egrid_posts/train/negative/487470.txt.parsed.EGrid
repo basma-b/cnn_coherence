@@ -1,0 +1,13 @@
+           PARTITION O - O - -
+                FUSE S - S - -
+              DEVICE X - X - -
+            RESOURCE S - X - -
+              ANYONE X - - - -
+             CONSOLE - - X - -
+                KIND - - X - -
+                NTFS - - - X -
+                  .. - - - X -
+SYSTEM/ADMINSTRATION/SOFTWARE - - - - X
+             SOURCES - - - - S
+SETTINGS/REPOSITORIES - - - - X
+            SYNAPTIC - - - - X

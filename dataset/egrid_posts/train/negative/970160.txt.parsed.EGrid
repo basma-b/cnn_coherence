@@ -1,0 +1,13 @@
+                EXT3 S - - - -
+                 FAR X - - - -
+            REISERFS X - - - -
+                 IMO S - - - -
+                DATA X - - - -
+                LOSS O - - - -
+               DRIVE - X - - -
+                TIME - - X S -
+            REFORMAT - - X - -
+               ISSUE - - - O -
+/ETC/HOTPLUG/BLACKLIST.D/ALSA-BASE - - - - X
+                 TEE - - - - O
+                  .. - - - - X

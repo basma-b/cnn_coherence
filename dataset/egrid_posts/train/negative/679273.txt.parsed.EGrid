@@ -1,0 +1,11 @@
+               UMASK X - - X - -
+                USER X - - - - -
+           DIRECTORY X - O X - -
+             SESSION - X - - - -
+               MEDIA - - X - - -
+                FILE - - O - - -
+         PERMISSIONS - - X - - -
+               GROUP - - S - - -
+         /HOME/MEDIA - - - - X -
+                HTTP - - - - - X
+//PASTE.UBUNTU.COM/876487/ - - - - - X

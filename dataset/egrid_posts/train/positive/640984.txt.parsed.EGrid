@@ -1,0 +1,9 @@
+                COPY X - - - -
+             PROGRAM X - - - -
+             KILLALL - X - - -
+                BASH - X - - -
+                LOOP - X - - -
+             PROCESS - - X - -
+                NAME - - X - -
+                  PS - - - X -
+               CHEER - - - - X

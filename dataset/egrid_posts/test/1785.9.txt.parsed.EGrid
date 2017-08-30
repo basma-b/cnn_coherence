@@ -1,0 +1,35 @@
+              ANYONE S - - - -
+              SERVER X - - - -
+         SPEEDSTREAM O - - - -
+              BRIDGE X - - - -
+                MODE X - - - -
+                TIME - X - - -
+         PPPOE/PPPOA - X - - -
+           PPPOECONF - S - - -
+               ISSUE - O - - -
+                ADSL - X - - -
+               MODEM - X - - -
+              KERNEL - S - - -
+                 ONE - X - - -
+          DISCIPLINE - O - - -
+                 PPP - O - - -
+               PPPOA - S - - -
+               PPPOE - S - - -
+               SETUP - O - - -
+                PPP0 - X - - -
+/ETC/NETWORK/INTERFACES - X - - -
+                THIS - S - - -
+              SCRIPT - O - - -
+                HTTP - O - - -
+//PASTE.UBUNTU.COM/1153018/ - O - - -
+            ANYTHING - - O - -
+              NAGIOS - - X - -
+             CHANNEL - - - O -
+             GENERAL - - - X -
+       CONFIGURATION - - - - S
+                FILE - - - - X
+              CHANGE - - - - S
+               STATE - - - - X
+               ERROR - - - - S
+             DISPLAY - - - - O
+                FULL - - - - X

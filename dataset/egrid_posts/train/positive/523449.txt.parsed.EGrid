@@ -1,0 +1,9 @@
+             PROBLEM O - -
+                 TRY X - -
+             MPLAYER S X -
+                  TV S X -
+          DRIVER=V4L S X -
+           WIDTH=640 S X -
+          HEIGHT=480 S X -
+  DEVICE=/DEV/VIDEO0 - X -
+                THAT - - X

@@ -1,0 +1,17 @@
+                MMMM X - - - - - - - - - -
+            MODPROBE X - - - - - - - - - -
+                IPV6 - X - O - X - - - - O
+                  .. - X - - - - - - - - -
+                APPS - X - - - - - - - - -
+                MODS - X - - - - - - - - -
+/ETC/MODPROBE.D/BLACKLIST - - - X - - - - - - -
+                BOOT - - - X - - - - - - -
+              ANSWER - - - - X - - - - - -
+                 DIG - - - - X - - - - - -
+                THIS - - - - - S - - - - -
+             MACHINE - - - - - X - - - - -
+             ADDRESS - - - - - S - - - - -
+              FORMAT - - - - - X O - - - -
+              IMPACT - - - - - O - - - - -
+                SUDO - - - - - - - - - - S
+               RMMOD - - - - - - - - - - X

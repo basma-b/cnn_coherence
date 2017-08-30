@@ -1,0 +1,16 @@
+                TIME O - - - - - -
+               DRIVE O - S - - - -
+                BOOT X - - - - - -
+            /DEV/SDC - X - - - - -
+                LIST - O - - - - -
+          /ETC/FSTAB - X - - - - -
+                LXDE - - - O - - -
+                THAT - - - - S - -
+              AUTOFS - - - - X - -
+                UDEV - - - - S - -
+                HTTP - - - - - X -
+//APPDB.WINEHQ.ORG/OBJECTMANAGER.PHP - - - - - X -
+      SCLASS=VERSION - - - - - - X
+            IID=3731 - - - - - - X
+                WINE - - - - - - O
+              STRIKE - - - - - - O

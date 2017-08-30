@@ -1,0 +1,17 @@
+                  HI S - - - - - - - - - -
+                  .. - X X X - - - - - - -
+               USERS - S - - - - - - - - -
+             COMMAND - O - - - - - - - - -
+                BIND - X - - - X - - - - -
+            /DEV/BUS - X - - - - - - - - -
+           /PROC/BUS - X - - - X - - - - -
+                THIS - - O - X - - - - - -
+        /ETC/SUDOERS - - X - - - - - - - -
+                FILE - - X - - - - - - - -
+              ANYONE - - - - X - - - - - -
+                 ALL - - - - - X - - - - -
+           SOMETHING - - - - - X - - - - -
+                THAT - - - - - - - - - O -
+               FSTAB - - - - - - - - - O -
+              UMOUNT - - - - - - - - - - X
+             DEVICES - - - - - - - - - - S

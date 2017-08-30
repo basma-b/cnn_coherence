@@ -1,0 +1,11 @@
+              KERNEL X - -
+          PARAMETERS X - -
+                THAT - X -
+              NOAPIC - O -
+   /ETC/DEFAULT/GRUB - X -
+                BITE - X -
+GRUB_CMDLINE_LINUX_DEFAULT= - X -
+              SPLASH - X -
+                SUDO - X -
+         UPDATE-GRUB - O -
+               RIGHT - - X

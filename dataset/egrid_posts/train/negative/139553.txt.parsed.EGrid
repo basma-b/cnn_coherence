@@ -1,0 +1,11 @@
+                USER S S - -
+                FILE O - - -
+                HOME X - - -
+           DIRECTORY X - - -
+              SERVER X - - -
+                 USE - X - -
+            SYMLINKS - O - -
+                 GUI - X - -
+                  OK - - - X
+              KERNEL - - - X
+             MODULES - - - O

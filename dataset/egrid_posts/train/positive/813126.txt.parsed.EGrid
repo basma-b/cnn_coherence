@@ -1,0 +1,12 @@
+           PARTITION O - -
+                DISK X - -
+                 USE X - -
+          CLONEZILLA X - -
+          /ETC/FSTAB O - -
+         SUGGESTIONS - S -
+         GRUB-UPDATE - S -
+              CHROOT - O -
+                 ONE - X -
+              UBUNTU - - X
+                BOOT - - X
+               PLACE - - X

@@ -1,0 +1,5 @@
+/ETC/MODPROBE.D/ALIASES S - - - -
+              KERNEL - X - - -
+              CONFIG - - - O -
+                IPV6 - - - - X
+               ALIAS - - - - X

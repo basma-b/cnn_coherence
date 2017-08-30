@@ -1,0 +1,22 @@
+                 PHP S O - - - - - - - -
+              UBUNTU X X - - - - - - - -
+                TEST - X - - - - - - - -
+              SCRIPT - O - - - - - - - -
+/ETC/APACHE2/MODS_ENABLED - X - - - - - - - -
+             PACKAGE - - O - - - - - - -
+             MANAGER - - O - - - - - - -
+             SYSTEM- - - X - - - - - - -
+                   > - - X - - - - - - -
+      ADMINISTRATION - - X - - - - - - -
+                 I.E - - X - - - - - - -
+                PHP5 - - - O - - - - - -
+               SHELL - - - S - - - - - -
+                SUDO - - - X - - - - - -
+             APT-GET - - - S - S - - - -
+ LIBAPACHE2-MOD-PHP5 - - - X - - - - - -
+ /ETC/INIT.D/APACHE2 - - - S - - - - - -
+                 TWO - - - - - O - - - -
+                 ONE - - - - - X - - - -
+                TOOL - - - - - O - - - -
+                HTTP - - - - - X - - - -
+                PAGE - - - - - - O - - -

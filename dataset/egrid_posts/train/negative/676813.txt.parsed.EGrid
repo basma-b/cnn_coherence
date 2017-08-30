@@ -1,0 +1,26 @@
+            PROBLEMS O - - - - - - - -
+             POSTFIX X - S - O - - X -
+               HARDY X - - - - - - - -
+             DISTROS - O - - - - - - -
+            MANDRIVA - X - - X - - - -
+             MAIN.CF - O - - - - - - -
+              UBUNTU - X - - - - - - -
+       CONFIGURATION - X - - - - - - -
+              OPTION - O - - - - - - -
+             INSTALL - X - - - - - - -
+                MAIL - - O - - - - - -
+                 LOG - - O - - - - - -
+       /VAR/LOG/MAIL - - - - X - - - -
+              SEARCH - - - - O - - - -
+            /VAR/LOG - - - - X - - - -
+                TAIL - - - - X - - - -
+                  -F - - - - S - - - -
+/ETC/POSTFIX/POSTFIX-SCRIPT - - - - S - - - -
+                SUDO - - - - X - - X -
+             APT-GET - - - - S - - S -
+               PURGE - - - - O - - - -
+        /ETC/POSTFIX - - - - X - - - -
+           DIRECTORY - - - - S - - - -
+              EPINKY - - - - O - - - -
+                PURG - - - - - - X - -
+                NAME - - - - - - - - X

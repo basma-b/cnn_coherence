@@ -1,0 +1,19 @@
+           PARTITION O - - - -
+                USER X - - - -
+               FSTAB - X - - -
+               ERROR - - X - -
+                   D - - O - -
+                SUDO - - - S -
+/WHERE/YOU/WANT/TO/MOUNT/IT - - - O -
+             COMMAND - - - O -
+                ROOT - - - X -
+       ADMINISTRATOR - - - X -
+             WINDOWS - - - X -
+            COMPUTER - - - S -
+               YOURS - - - O -
+              CUSTOM - - - - X
+             KERNELS - - - - O
+             CHANNEL - - - - X
+            PROBLEMS - - - - X
+           DOWNGRADE - - - - X
+              KERNEL - - - - X

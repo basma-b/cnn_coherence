@@ -1,0 +1,25 @@
+             COMMAND O - - - - - - -
+              REBOOT X - - - - - - -
+              SERVER X - - - - - - -
+        INSTALLATION X - - - - - - -
+                LAZY - - X - - - - -
+              GARRYB - - S - - - - -
+                   D - - S - - - - -
+            SHUTDOWN - - X - - - - -
+             NOTHING - - X - - - - -
+                FILE - - X - - O - -
+                 MOD - - O - - - - -
+               CHMOD - - X X - - - -
+                THAT - - - S O - - -
+           SOMETHING - - - O - - - -
+                SUDO - - - X - - - -
+       /ETC/RC.LOCAL - - - X X - - -
+/ETC/RC2.D/S99RC.LOCAL - - - - - X - -
+                KIND - - - - - X - -
+              SCRIPT - - - - - X - O
+            LANGUAGE - - - - - X - -
+                COPY - - - - - - X -
+             SECTION - - - - - - O -
+           RELEVANCE - - - - - - X -
+                 MAN - - - - - - - X
+        BOOT-SCRIPTS - - - - - - - O

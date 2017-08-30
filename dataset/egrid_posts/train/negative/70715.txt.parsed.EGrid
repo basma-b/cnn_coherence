@@ -1,0 +1,21 @@
+           POWERNOWD X - - - - - - -
+                BOOT X - - - - - - -
+        /ETC/INIT.D/ - - X - - - - -
+                   * - - S - - - - -
+              SCRIPT - - O X X - - -
+             DEAMONS - - O - - - - -
+         /ETC/RC01.D - - X - - - - -
+                THAT - - - S - - - -
+                STOP - - - X - - - -
+/ETC/INIT.D/POWERNOWD - - - S - - - -
+                  PC - - - S - - - -
+                  SH - - - - X - - -
+            FILENAME - - - - X - - -
+                   K - - - - - X - -
+                TYPE - - - - - X - -
+                SUDO - - - - - S - -
+             COMMAND - - - - - O - -
+                WORK - - - - - - X -
+            IWCONFIG - - - - - - - X
+             CONSOLE - - - - - - - X
+            ANYTHING - - - - - - - O

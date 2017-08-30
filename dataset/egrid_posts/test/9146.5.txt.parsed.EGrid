@@ -1,0 +1,15 @@
+               12.04 X - - - - -
+            MOUNTALL S - - - - -
+             SUPPORT S - - - - -
+             TIMEOUT X - - - - -
+             OPTIONS X - - O - -
+          FILESYSTEM X - - - - -
+              SIGNAL X - - - - -
+                BOOT S - - - - -
+               FSTAB - X - - - -
+               PARAM - X - - - -
+              LITTLE - - O - - -
+               THOSE - - - S - -
+              KERNEL - - - X - -
+        COMMAND-LINE - - - X - -
+              MOMENT - - - - - X

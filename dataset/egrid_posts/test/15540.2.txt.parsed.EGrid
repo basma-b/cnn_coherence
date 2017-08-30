@@ -1,0 +1,26 @@
+                HEAD X - - - - - - - -
+                TAIL O - - - - - - - -
+             SUDOERS X - - - - - - - -
+             MANPAGE X - - - - - - - -
+                USER - X - - - - - - -
+               GROUP - O - - - - - - -
+          PERMISSION - O - - - - - - -
+             COMMAND - X - - - X S - -
+            PASSWORD - X - - - - X - -
+                 ALL - - S O X - - - -
+            EXAMPLES - - S - - - - - -
+                WHAT - - O - - - - - -
+               HTTPS - - - X - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/SUDOERS - - - S - - - - -
+                READ - - - O - - - - -
+               THERE - - - S - - - - -
+             EXAMPLE - - - O - - - - -
+             NOTHING - - - - X - - - -
+           SOMETHING - - - - - X - - -
+            NOPASSWD - - - - - X - - -
+                  // - - - - - O X - -
+               ERROR - - - - - - X - -
+            VERSIONS - - - - - - - - X
+                THIS - - - - - - - - O
+                HTTP - - - - - - - - O
+//OVERTAG.DK/WORDPRESS/2012/04/UBUNTU-TIP-SAVE-A-LIST-OF-INSTALLED-PACKAGES-FOR-REINSTALLATION-PURPOSES/ - - - - - - - - O

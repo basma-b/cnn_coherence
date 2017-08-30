@@ -1,0 +1,21 @@
+                LIST X - - - -
+             PACKAGE X S - - -
+                FILE O - - - -
+       /LIB/MODULES/ X - - - -
+              SUBDIR X - - - -
+                   * - X - - -
+                PATH - X - - -
+              MODULE - O - - -
+           DIRECTORY - O - - -
+                   < - S - - -
+                   / - O - O -
+                  .. - O - - -
+                CASE - X - - -
+LINUX-HEADERS-GENERIC - - S - -
+             VERSION - - X - -
+            LOCATION - - - O -
+                  -R - - - X -
+              /BUILD - - - X -
+             PROBLEM - - - - O
+                LINK - - - - S
+               ISSUE - - - - O

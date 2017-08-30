@@ -1,0 +1,14 @@
+              DMRAID O - - -
+                BOOT X - X -
+                FILE - O - -
+              KERNEL - X X -
+                ROOT - X - -
+           PARTITION - O - -
+                GRUB - X - -
+                LOAD - X - -
+                THAT - - O -
+           SOMETHING - - O -
+           INITRAMFS - - X X
+                LIST - - - X
+              CHANGE - - - X
+                7.10 - - - X

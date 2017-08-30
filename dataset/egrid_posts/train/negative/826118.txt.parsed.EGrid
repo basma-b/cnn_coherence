@@ -1,0 +1,12 @@
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES S - - - - -
+             SERVICE O - - - - -
+             NETWORK - O - - - -
+                THIS - S - - - -
+              REPEAT - - X - - -
+               ENTRY - - O - - -
+                 ONE - - O - - -
+                CARD - - O - - -
+                ETH3 - - X - - -
+             ENTRIES - - - O - -
+              DEVICE - - - X - -
+               THING - - - - - O

@@ -1,0 +1,15 @@
+             COMMAND X - -
+          AUTOREMOVE X - -
+             PACKAGE O - -
+                 ALL X - -
+        DEPENDENCIES O - -
+              CONFIG X - -
+                FILE O - -
+                 ANY X - S
+               THERE - - S
+                 BUG - - O
+               EDGES - - X
+                 WAY - - X
+                EDGE - - X
+               ISSUE - - O
+            LAUNCHER - - S

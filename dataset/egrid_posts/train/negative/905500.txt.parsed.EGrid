@@ -1,0 +1,10 @@
+               ISSUE X - - -
+               MOUNT - X - -
+               DRIVE - X - -
+                  CD - X - -
+            /DEV/FD0 - S - -
+                /DEV - - S -
+              KERNEL - - X -
+               SPACE - - O -
+           USERSPACE - - X -
+  /ETC/X11/XORG.CONF - - - O

@@ -1,0 +1,17 @@
+             COMMAND O - - - - - - - - -
+           PARTITION O - X - - - - - - -
+               BEGIN X - - - - - - - - -
+                BOOT X - - - - - - - - -
+               USERS O - X - - - - - - -
+                ROOT X - - - - - - - - -
+              ANYONE - X - - - - - - - -
+                 DIR - - S - - - - - - -
+                 WAY - - - - X - - - - -
+              FORUMS - - - - - - - S - -
+                 BUG - - - - - - - - X -
+              GENTOO - - - - - - - - - X
+                MOST - - - - - - - - - S
+            QUESTION - - - - - - - - - X
+             SOMEONE - - - - - - - - - X
+               POINT - - - - - - - - - X
+                DOCS - - - - - - - - - X

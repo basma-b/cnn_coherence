@@ -1,0 +1,18 @@
+            COMPUTER O - - -
+                INIT O X - -
+             PROCESS S S - -
+             STATURS X - - -
+              UBUNTU S - - -
+             STARTUP X - - -
+               CRASH O - - -
+            MOUNTALL - X - -
+              SYMBOL - X - -
+              LOOKUP - X - -
+               ERROR - X - -
+UDEV_MONITOR_FILTER_ADD_MATCH_SUBSYSTEM_DEVTYPE - X - -
+              STATUS - X - -
+               DRIVE - O - -
+              CHROOT - - S -
+                SUDO - - X X
+           DIRECTORY - - S -
+             APT-GET - - - S

@@ -1,0 +1,27 @@
+             ANYBODY X - - - - -
+          SAMBA/CUPS X - - - - -
+              SERVER X - X - - -
+             ALRIGHT - X - - - -
+               ISSUE - S - - - -
+             PRINTER - S - - - -
+             MACHINE - O - - - -
+             SERVICE - O - - - -
+               START - X - - S -
+/VAR/LOG/SAMBA/LOG.SMBD - - S - - -
+                CUPS - - X - - -
+          CONNECTION - - X - - -
+              REFUSE - - X - - -
+                BITE - - - X - -
+             COMMAND - - - X - -
+        DEPENDENCIES - - - - X -
+              INIT.D - - - - X -
+               SAMBA - - - - S -
+                 CUP - - - - S -
+              MATTER - - - - O -
+                  .. - - - - X -
+                DOCS - - - - O -
+              THINGS - - - - O -
+               INTEL - - - - - X
+                ICH6 - - - - - X
+              FAMILY - - - - - S
+                 '97 - - - - - O

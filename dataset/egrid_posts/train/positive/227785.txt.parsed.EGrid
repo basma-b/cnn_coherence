@@ -1,0 +1,20 @@
+               THERE - S - - - - - - - - - - - - - -
+              DEVICE - O - - - - - - - - - - - - - -
+             MODULES - - X - - - - - - - - - - - - -
+            WIRELESS - - X - - - - - - - - - - - - -
+                CARD - - X - - - - - - - - - - - - -
+                  IS - - - - - - X - - - - - - - - -
+            MODPROBE - - - - - - X X - - - - - - - -
+                WLAN - - - - - - X - - - - - - - - -
+       WLAN_SCAN_STA - - - - - - X - - - - - - - - -
+            WLAN_WEP - - - - - - X - - - - - - - - -
+                TYPE - - - - - - X - - - - - - - - -
+             COMMAND - - - - - - X - - - - - - - - -
+             ATH_PCI - - - - - - - X - - - - - - - -
+               ERROR - - - - - - - X - X - - - - - -
+             MESSAGE - - - - - - - O - - - - - - - -
+                HTTP - - - - - - - - - X - - - - - -
+//PASTE.UBUNTU-NL.ORG/36921/ - - - - - - - - - X - - - - - -
+              THANKS - - - - - - - - - - X - - - - -
+        DISTRIBUTION - - - - - - - - - - - - - X - -
+                6.10 - - - - - - - - - - - - - - - X

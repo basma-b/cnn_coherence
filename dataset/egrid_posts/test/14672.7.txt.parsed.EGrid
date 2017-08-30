@@ -1,0 +1,26 @@
+              ANYONE S - - -
+                TIME - O - -
+               ISSUE - O - -
+               12.10 - O - -
+               AMD64 - O - -
+                  .. - X - -
+                   % - X - -
+             STARTUP - X - -
+                DISK - X X -
+              SYSTEM - - S -
+               START - - O -
+         DEVICE-NAME - - O -
+                GRUB - - O -
+/BOOT/GRUB/DEVICE.MAP - - S -
+             PRESENT - - X -
+         UPDATE-GRUB - - X -
+               THING - - - S
+             DEVICES - - - O
+              RESULT - - - X
+             COMMAND - - - X
+                   \ - - - X
+               -LSB- - - - X
+               ALPHA - - - X
+               DIGIT - - - X
+                   + - - - X
+      /VAR/LOG/DMESG - - - X

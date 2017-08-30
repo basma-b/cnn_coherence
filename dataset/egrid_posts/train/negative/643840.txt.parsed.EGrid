@@ -1,0 +1,23 @@
+         ./CONFIGURE S - - - - -
+              SOURCE - O - - - -
+              OUTPUT - X - - - -
+               ERROR - X - - - -
+    PASTE.UBUNTU.COM - X - - - -
+                 TWO - X - - - -
+                 APP - - X S - -
+            ./CONFIG - - - X - -
+                FILE - - - X - -
+           DIRECTORY - - - X - -
+               REPOS - - - X - -
+                 ALL - - - - S -
+               STAND - - - - X -
+                BACK - - - - X -
+             APT-GET - - - - - X
+                 NET - - - - - O
+                 DEB - - - - - X
+              CD-ROM - - - - - X
+                LINE - - - - - X
+/ETC/APT/SOURCES.LIST - - - - - X
+                SUDO - - - - - X
+              UPDATE - - - - - X
+                 YEP - - - - - X

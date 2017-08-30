@@ -1,0 +1,24 @@
+                NTFS X - - - - -
+           PARTITION O - - - - -
+              ACCESS O - - - - -
+               FSTAB - X - - - -
+            NAUTILUS - S - - - -
+               PLACE - X - - - -
+                   X - - X - - -
+                HTTP - - - X - -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - - X - -
+            T=450490 - - - - X -
+                ITEM - - - - S -
+                MENU - - - - X -
+                 EEK - - - - X -
+            /DEV/HDB - - - - - S
+              BRW-RW - - - - - X
+                ROOT - - - - - X
+               CDROM - - - - - X
+                 WAY - - - - - X
+               MKNOD - - - - - O
+               CHMOD - - - - - O
+               CHGRP - - - - - O
+                BOOT - - - - - X
+               EJECT - - - - - X
+                  -M - - - - - O

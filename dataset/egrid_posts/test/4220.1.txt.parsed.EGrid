@@ -1,0 +1,13 @@
+              KERNEL X - - -
+              FILTER S - - -
+            WRAPPERS X - - -
+                 I.E X - - -
+            IPTABLES X - - S
+            ANYTHING - X - -
+           DENYHOSTS - X - -
+               THERE - - - S
+          NETFILTERS - - - O
+           INTERFACE - - - X
+            SIMPLIER - - - X
+                ONES - - - O
+                 UFW - - - X

@@ -1,0 +1,18 @@
+                 CPU X - - - - - - -
+                TEMP X - - - - - - -
+            TERMINAL - - O - - - - -
+                  CD - - X - - - - -
+/PROC/ACPI/THERMAL_ZONE/ - - O - - - - -
+                ZONE - - X - - - - -
+            COMPUTER - - X - - - - -
+             EXAMPLE - - X - - - - -
+                THM0 - - S - - - - -
+                 CAT - - X S - - - -
+          TEMPRATURE - - X - - - - -
+         TEMPERATURE - - X - - - - -
+                   * - - S - - - - -
+             COMMAND - - X - - - - -
+           SOMETHING - - - O - - - -
+                 TOP - - - X - - - -
+               PLACE - - - - - - X -
+                  .. - - - - - - - X

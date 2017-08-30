@@ -1,0 +1,11 @@
+                FSCK O - - - - -
+               CHECK - O - - - -
+            /DEV/SDA - O - O - -
+              DEVICE - - - X - -
+            RESOURCE - - - X - -
+                  -Y - - - S - -
+                DISK - - - O O -
+                  IM - - - - S -
+               SMART - - - - S -
+             CLUSTER - - - - O -
+             GPARTED - - - - O -

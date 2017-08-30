@@ -1,0 +1,12 @@
+           APT-CACHE X - - - - -
+              POLICY S - - - - -
+             VERSION X X - - - -
+             PACKAGE X - S - - -
+               THERE - X - S S -
+                 WAY - X - O O -
+                SUDO - - X - - -
+             APT-GET - - S - - -
+     PACKAGE=VERSION - - O - - -
+         METAPACKAGE - - S - - -
+           DOWNGRADE - - O - - -
+                THAT - - - O - -

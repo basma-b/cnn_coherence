@@ -1,0 +1,7 @@
+BIN/MYSQL_INSTALL_DB S -
+          USER=MYSQL S -
+                HTTP O -
+             DMG2ISO - S
+               GUESS - S
+               OWNER - S
+            EVERYONE - S

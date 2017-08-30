@@ -1,0 +1,6 @@
+                 USE S -
+           CHKCONFIG X -
+             SERVICE X X
+             COMMAND - O
+             PACKAGE - S
+                 ONE - O

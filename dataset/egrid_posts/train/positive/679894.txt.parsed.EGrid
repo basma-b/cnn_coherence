@@ -1,0 +1,11 @@
+           ESTABLISH O - - - - -
+           PPPD/PPTP X - - - - -
+                 VPN - X - - - X
+               ROUTE - X S X - O
+             TRAFFIC - X - O - -
+             NETWORK - - X - - -
+             PACKETS - - - X - -
+              SERVER - - - X - -
+          EVERYTHING - - - - - O
+             DEFAULT - - - - - X
+             GATEWAY - - - - - X

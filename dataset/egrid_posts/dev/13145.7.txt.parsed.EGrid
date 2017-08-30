@@ -1,0 +1,11 @@
+           THEBORGER X - - -
+/ETC/NETWORKMANAGER/NETWORKMANAGER.CONF O - - -
+         DNS=DNSMASQ X - - -
+         NAMESERVERS O - - -
+                SUDO - S - -
+             PREPEND - X - -
+ DOMAIN-NAME-SERVERS - O - -
+                 WAN - - S -
+                 MIX - - - X
+              SOURCE - - - X
+             PACKAGE - - - X

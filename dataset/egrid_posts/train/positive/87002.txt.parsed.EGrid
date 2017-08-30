@@ -1,0 +1,10 @@
+               SHELL X - -
+                   X O - -
+                SUDO - X -
+    DPKG-RECONFIGURE - X -
+        XSERVER-XORG - X -
+                  .. - - O
+         FRAMEBUFFER - - X
+      NONFRAMEBUFFER - - X
+      M_DEBUG_MORE.O - - O
+             SYMBOLS - - S

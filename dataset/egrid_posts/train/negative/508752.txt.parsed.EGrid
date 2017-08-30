@@ -1,0 +1,9 @@
+             COMMAND X X - -
+         RECONFIGURE X X - -
+                XORG X X - -
+              SERVER X X - -
+                SUDO - - X -
+        XSERVER-XORG - - S -
+                LINK - - - X
+                HOLD - - - O
+                 PPA - - - S

@@ -1,0 +1,35 @@
+             PROCESS - X - - - - - -
+              INSTAL - X - - - - - -
+              NVIDIA - X - X - - - X
+             DRIVERS - S - - - - - -
+              METHOD - X - S - - - X
+             PACKAGE - X - - O - - -
+             MANAGER - X - - - - - -
+                   X - X - - - - - -
+               ERROR - S - - - - - -
+            SOMEBODY - X - S - - - -
+            TERMINAL - S - S - - - -
+KERNEL-SOURCE-PATH=/USR/ - X - X - - - -
+        INSTALLATION - X - - - - - -
+              KERNEL - - - X X - - -
+              SOURCE - - - S X - - -
+                 SEC - - - X - - - -
+                SUDO - - - X - - - -
+             APT-GET - - - S - - - -
+LINUX-SOURCE-2.6.15.TAR.BZ2 - - - S - - - -
+                FILE - - - O - - - -
+                   < - - - S - - - -
+                   > - - - O - - - -
+                 TAR - - - X - - - -
+                -XVF - - - X - - - -
+                THIS - - - O - - S -
+               CLEAN - - - S - - - -
+                THAT - - - - X - - -
+                 USE - - - - X - - -
+                 ETC - - - - X - - -
+                DPKG - - - - - O - -
+                WIKI - - - - - - O -
+                 3RD - - - - - - S -
+              UBUNTU - - - - - - X -
+             PROBLEM - - - - - - - O
+                5.10 - - - - - - - X

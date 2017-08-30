@@ -1,0 +1,12 @@
+             WINDOWS S - - - - -
+              UBUNTU O - - - - -
+           PARTITION - O - - - -
+                 XFS - X - - - -
+          FILESYSTEM - O - - - -
+             OPTIONS - - X - - -
+           REINSTALL - - O - - -
+               /HOME - - - X - -
+               SPACE - - - X - -
+             CONTENT - - - O - -
+                ROOT - - - - - O
+             COMMAND - - - - - X

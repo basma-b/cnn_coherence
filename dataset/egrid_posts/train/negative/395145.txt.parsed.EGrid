@@ -1,0 +1,12 @@
+                RULE O - - - -
+                 NAT X - - - -
+                  -A O - - - -
+                 TCP X - - - -
+            REDIRECT O - - - -
+                   < X - - - -
+                 USE X - - - -
+              DST_IP S - - - -
+            10.0.0.2 O - - - -
+                THAT - X - - -
+                   > - - - S -
+                  OK - - - - X

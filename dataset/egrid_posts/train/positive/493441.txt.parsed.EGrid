@@ -1,0 +1,14 @@
+               USERS O - - - -
+                 LOG X - - - -
+                 SSH X - - - -
+               GROUP X - - - -
+/ETC/SSH/SSHD_CONFIG - O - - -
+                LINE - S X - -
+         ALLOWGROUPS - X - - -
+           GROUPNAME - X - - -
+                USER - S - - -
+             SERVICE - O - - -
+                THAT - - - X -
+              SYNTAX - - - X -
+                HTTP - - - - X
+             PROBLEM - - - - O

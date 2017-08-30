@@ -1,0 +1,16 @@
+                EXT4 O - - - - - -
+                   R X - - - - - -
+                   U X - - - - - -
+              BACKUP X - - - - - -
+                 LAN - - O - - - -
+            INTERNET - - X - - - -
+             NETWORK - - - X - - -
+             MANAGER - - - O - - -
+                 WAY - - - O - - O
+                 DNS - - - - S - -
+    /ETC/RESOLV.CONF - - - - X - -
+                 -RN - - - - S - -
+                ROUT - - - - X - -
+               TABLE - - - - O - -
+         DESTINATION - - - - - X -
+/ETC/NETWORK/INTERFACES - - - - - - X

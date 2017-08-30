@@ -1,0 +1,13 @@
+                BIND X - - - -
+                 KEY X - - - -
+             COMMAND X - - - -
+              SYSTEM - X - - -
+         PREFERENCES - X - - -
+            KEYBOARD - X - - -
+           SHORTCUTS - X - - -
+             APT-GET - - - S -
+        CONFIRMATION - - - X -
+                  -N - - - - S
+             PACKAGE - - - - X
+                 FOE - - - - S
+                 RUN - - - - X

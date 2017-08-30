@@ -1,0 +1,16 @@
+                 FIX X - -
+                   X X S -
+               FONTS X O -
+              BREEZY X - -
+                SUDO - S X
+         XFONTS-BASE - S -
+             PACKAGE - O -
+              SEARCH - X -
+                FILE - O -
+        XSERVER-XORG - O O
+/USR/LIB/X11/FONTS/MISC - S -
+           DIRECTORY - O -
+                  /X - S -
+  /ETC/X11/XORG.CONF - - S
+     X-WINDOW-SYSTEM - - X
+X-WINDOW-SYSTEM-CORE - - X

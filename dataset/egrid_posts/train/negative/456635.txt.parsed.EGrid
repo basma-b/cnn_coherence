@@ -1,0 +1,11 @@
+          /ETC/HOSTS S - - S - - -
+         PERMISSIONS O - - - - - -
+            ROOT:999 X - - - - - -
+               GROUP O - - X S - -
+                ROOT - X - O - - -
+                 RUN - - - - X - -
+          /ETC/GROUP - - - - X - -
+            TERMINAL - - - - X - -
+              SYSTEM - - - - - - S
+                   P - - - - - - S
+           SOMETHING - - - - - - X

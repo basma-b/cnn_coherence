@@ -1,0 +1,36 @@
+                HOLD - O - - - - - -
+             PACKAGE - X X - - - - X
+      UPDATE-MANAGER - O - - - - - -
+              UBUNTU - S - - - - - -
+             UPGRADE - O X - O - - -
+            SECURITY - X - - - - - -
+              UPDATE - - X - - - - -
+                11.4 - - O X - - - -
+             RELEASE - - X - - - - -
+                DISK - - O - - - - -
+               ALPHA - - X - - - - -
+               CHECK - - X - - - - -
+/ETC/APT/SOURCES.LIST - - X - - - - -
+            STARMINN - - S - - - - -
+                 GUI - - X - - - - -
+                FILE - - O - - - - -
+        REPOSITORIES - - O - - - - -
+               THERE - - X - - - - -
+                LIST - - X - - - - -
+              ONERIC - - X - - - - -
+               NATTY - - X - X - - -
+         SOURCE.LIST - - S - - - - -
+              CHANGE - - O - X - - -
+             PROBLEM - - O - - - - -
+            INSTANCE - - O - - - - -
+         INFORMATION - - O - - - - O
+            VERSIONS - - - S - - - -
+             PROCESS - - - - O - - -
+                 WAY - - - - X - - -
+          EVERYTHING - - - - O - - -
+             NOTHING - - - - S - - -
+           /ETC/APT/ - - - - - - X -
+                COPY - - - - - - O -
+        SOURCES.LIST - - - - - - X -
+             BACKUPS - - - - - - O O
+/ETC/APT/SOURCES.LIST.D/ - - - - - - X -

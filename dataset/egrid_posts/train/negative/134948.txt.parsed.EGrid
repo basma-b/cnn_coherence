@@ -1,0 +1,9 @@
+             VOLUMES S - - - -
+             DISPLAY O - - - -
+             DESKTOP X - - - -
+        CONTROL-PANE - X - - -
+              CONFIG - - X - -
+              EDITOR - - X - -
+              BASHRC - - - - S
+                USER - - - - X
+         ENVIRONMENT - - - - X

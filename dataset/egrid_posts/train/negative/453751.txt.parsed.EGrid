@@ -1,0 +1,15 @@
+               THING O -
+              SCRIPT S -
+                ROOT X -
+                PERM S -
+               PERMS O -
+               CHMOD X -
+                  +X X -
+                  .. - X
+                 QOS - X
+                BASE - O
+               LARTC - X
+                HTTP - O
+//PASTEBIN.COM/F62914A69 - X
+                NOTE - S
+             SPANISH - X

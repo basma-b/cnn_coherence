@@ -1,0 +1,21 @@
+              FORMAT X - - - - -
+                DISC O - - - - -
+                DATA X - - - - -
+             GPARTED X - - - - -
+         PERMISSIONS O - - - - -
+              THINGS O - - - - -
+                ROOT X - - - - -
+                PASS O - - - - -
+              UBUNTU X - - - - -
+             SUPPORT X - - - - -
+               PLACE - X - - - -
+          FILESYSTEM - X - - - -
+                EXT3 - X - - - -
+/PATH/TO/MOUNT/POINT - - X - - -
+              RETURN - - X - - -
+               MOUNT - - - - X -
+               POINT - - - - O -
+               FSTAB - - - - X -
+                THAT - - - - - O
+            QUESTION - - - - - O
+                LINK - - - - - X

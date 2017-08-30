@@ -1,0 +1,14 @@
+              ERRORS O - -
+             XMODMAP X - -
+               GNOME O - -
+    /USR/BIN/XMODMAP - X -
+                FILE - X -
+/USR/SHARE/APPS/KXKB/UBUNTU.XMODMAP - S -
+   /USR/.BIN/XMODMAP - O -
+               ERROR - X X
+           ENCOUNTER - O -
+                 FIX - S -
+                SUDO - X -
+               MKDIR - O -
+/USR/SHARE/APPS/KXKB - O -
+               TOUCH - X -

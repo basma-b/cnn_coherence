@@ -1,0 +1,9 @@
+/OMD/SITES/O/ETC/NAGIOS/CONF.D/ O - - - - - -
+           DIRECTORY X - - - - - -
+                LINK O - - - - - -
+              TARGET - O - - - - -
+           ARGUMENTS - - S - - - -
+               POINT - - - - - X -
+               SHARE - - - - - X -
+          CONNECTION - - - - - X -
+             NETWORK - - - - - - X

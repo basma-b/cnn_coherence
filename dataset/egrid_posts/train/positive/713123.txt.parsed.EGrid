@@ -1,0 +1,24 @@
+/ETC/INIT.D/LM-SENSORS S - - - -
+               THING O - - - -
+               PANIC X - O - -
+             STARTUP X - - - -
+              SCRIPT X - - - -
+               LEVEL X - - - -
+                GREP - S - - -
+                   * - O - - X
+                  .D - O - - -
+              THINGS - S - - -
+         /ETC/INIT.D - X - - -
+          LM-SENSORS - O - - -
+                APPS - X X - -
+                   K - - X - -
+                THIS - - S - -
+              KERNEL - - X - -
+                BOOT - - X - -
+             PROCESS - - X - -
+                LINE - - X - -
+               PRINT - - X - -
+               GUESS - - - - X
+                   F - - - - X
+                 CAT - - - - X
+                  LM - - - - O

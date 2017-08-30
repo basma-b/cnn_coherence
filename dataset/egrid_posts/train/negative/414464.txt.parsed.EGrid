@@ -1,0 +1,13 @@
+             COMMAND X - - - - - - -
+                 GUI X X - - - - - -
+              WINDOW X - - - - - - -
+                ROOT X - - - - - - -
+                GKSU - X S - - - - -
+                   < - X - - - - - -
+             APPNAME - S - - - - - -
+                FILE - X - - - - - -
+              VIEWER - O - - - - - -
+         APPLICATION - - - - X - - -
+               MYSQL - - - - - X - -
+         MYSQL-ADMIN - - - - - - O -
+                 LOG - - - - - - - O

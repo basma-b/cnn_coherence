@@ -1,0 +1,19 @@
+           FREQUENCY X - - - -
+               SCALE O - - - -
+             BOGOMIS X - - - -
+              CHANGE O - - - -
+              COLUMN X - - - -
+       /PROC/CPUINFO X - - - -
+                FREQ - - O - -
+             MONITOR - - - X -
+              APPLET - - - X -
+                STAT - - - - O
+              SOURCE - - - - X
+             PACKAGE - - - - X
+                LIST - - - - X
+                HTTP - - - - O
+            PACKAGES - - - - O
+/VAR/LIB/APT/LISTS/CA.ARCHIVE.UBUNTU.COM_DISTS_HOARY-BACKPORTS_MAIN_BINARY-I386_PACKAGES - - - - X
+                  NO - - - - X
+                FILE - - - - X
+           DIRECTORY - - - - X

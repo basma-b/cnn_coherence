@@ -1,0 +1,19 @@
+                WIFI X - - - - -
+                CHIP X - - - - -
+             NETWORK - - O - - -
+          CONTROLLER - - X - - -
+               LSPCI - - X - - -
+             OFFLINE - - O - - -
+              METHOD - - O - - -
+              LAPTOP - - S - - -
+                 ALL - - X - - -
+            ETHERNET - - S - - -
+              UBUNTU - - S - - -
+                  CD - - O - - -
+/ETC/APT/SOURCES.LIST - - - - S -
+               YOURS - - - - X -
+                MINE - - - - O -
+             APT-GET - - - - - S
+              UPDATE - - - - - O
+             UPGRADE - - - - - O
+               ZSNES - - - - - O

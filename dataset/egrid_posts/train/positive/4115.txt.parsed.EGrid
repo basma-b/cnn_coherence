@@ -1,0 +1,12 @@
+            REQUIRED X - -
+              THINGS X - -
+           DEBORPHAN S - -
+             LIBRARY X - -
+              REASON O - -
+                .DEB - X -
+                .RPM - S -
+              SOURCE - O -
+                RPMS - O -
+              FEDORA - X -
+             PACKAGE - X -
+                SAME - - X

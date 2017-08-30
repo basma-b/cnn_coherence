@@ -1,0 +1,20 @@
+                 TTL X - O - - - - -
+            IPTABLES X - O - - - - -
+               THERE - X - - - - - X
+              MODULE - X - - - - - -
+                LOAD - X - - - - - -
+      IPTABLE_MANGLE - X - - - - - -
+              OUTPUT - - X - - - - -
+                  -O - - X - - - - -
+  CHAIN/TARGET/MATCH - - X - - - - -
+                NAME - - X - - - - -
+              PACKET - - X - - - - -
+                 YES - - - - S - - -
+                THAT - - - - - X - -
+                 ISP - - - - - S - -
+           COMPUTERS - - - - - O - -
+          CONNECTION - - - - - X - -
+                 HRM - - - - - O - -
+/PROC/SYS/NET/IPV4/ICMP_ECHO_IGNORE_ALL - - - - - - - X
+             COMMAND - - - - - - - O
+                BITE - - - - - - - O

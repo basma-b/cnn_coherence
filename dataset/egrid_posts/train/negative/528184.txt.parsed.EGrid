@@ -1,0 +1,16 @@
+             DRIVERS S O -
+                 USE X - -
+                LOOK X - -
+               PANEL X X -
+                CARD O - -
+            IFCONFIG X - -
+               SLPCI O - -
+                   | X - -
+            WIRELESS X - -
+                LOAD O - -
+               CHECK - X -
+          EVERYTHING - S -
+               WLAN0 - O -
+             WINDOWS - X -
+                WICD - S -
+           OPENLINUX - - X

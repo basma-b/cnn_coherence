@@ -1,0 +1,17 @@
+                BITE S - -
+                SMTP X - -
+              SERVER X - -
+                  .. O - -
+            GANYMEDE X - -
+           LOCALHOST X - -
+                TYPE X - -
+  LOCALHOST\NSUBJECT X - -
+            SENDMAIL - S -
+               ERROR - X -
+                 CAT - X -
+/VAR/SPOOL/MAIL/GANYMEDE - S -
+                 FOO - X -
+                   | - X -
+               MAILX - X -
+          LOCAL-USER - O -
+             NOTHING - - S

@@ -1,0 +1,36 @@
+                 SSH O - - - - - - O - - - -
+              CHANGE S O - - - - - - - - - -
+/ETC/SSH/SSHD_CONFIG X - - - - - - - - - - -
+         SSHD_CONFIG X - - - - - X - - - - -
+              SERVER X - - - - - - - - - - -
+              CLIENT - X - - X - - - - - - -
+                SIDE - X - - - - - - - - - -
+              CONFIG - X - - - X - - - - - -
+             COMMAND - - X - - - - - - - - -
+                LINE - - X - - - - - - - - -
+              SYNTAX - - - S - - - - - - - -
+                BASE - - - O - - - - - - - -
+       DOCUMENTATION - - - X - - - - - - - -
+            EXAMPLES - - - X - - - - - - - -
+                 NET - - - X - - - - - - - -
+                 SET - - - - O - - - - - - -
+                PORT - - - - X - - O - - - -
+                HOST - - - - X - - - - - - -
+                WORK - - - - - X - - - - - -
+             OPTIONS - - - - - S - - - - - -
+          SSH_CONFIG - - - - - X X - - - - -
+                   A - - - - - - O - - - - -
+       REMOTEFORWARD - - - - - - X - - - - -
+              OPTION - - - - - - S X - - - -
+            PROBLEMS - - - - - - O - - - - -
+                HELP - - - - - - X - - - - -
+                SHOW - - - - - - - O - - - -
+               SETUP - - - - - - - X - - - -
+                HTTP - - - - - - - - X - - -
+//LINUX.DIE.NET/MAN/5/SSH_CONFIG - - - - - - - - X - - -
+                 TRY - - - - - - - - - X - -
+                 PAN - - - - - - - - - S - -
+                 SSL - - - - - - - - - X - -
+                  .. - - - - - - - - - - S -
+            HELLANZB - - - - - - - - - - X -
+                 ONE - - - - - - - - - - O -

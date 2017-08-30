@@ -1,0 +1,16 @@
+                THIS S - - -
+           OWNERSHIP - O - -
+                FILE - X - -
+                ROOT - X - -
+               GROUP - - S -
+                USER - - O -
+                  TY - - X -
+       INTERNAL-SFTP - - - O
+              BINARY - - - X
+/USR/LIB/OPENSSH/SFTP-SERVER - - - S
+              DEBIAN - - - O
+              UBUNTU - - - S
+                 ONE - - - S
+                LINE - - - O
+         SSHD_CONFIG - - - X
+           SUBSYSTEM - - - S

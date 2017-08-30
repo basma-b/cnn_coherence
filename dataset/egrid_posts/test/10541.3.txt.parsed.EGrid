@@ -1,0 +1,20 @@
+            APPARMOR O - - - - - -
+                THIS O - - X - - -
+              PARSER X - - - - - -
+               ERROR X - - - - - -
+/ETC/APPARMOR.D/USR.SBIN.MYSQLD X - - - - - -
+                LINE X - - - - - -
+                PLUS X - - - - - -
+             MESSAGE X - - - - - -
+             PROFILE X - - - - - -
+              ACTION S - - - - - -
+                FAIL O - - - - - -
+            SOMEBODY - X - - - - -
+          GUEST42709 - S - - - - -
+                STAT - - - - X - -
+/ETC/APPARMOR.D/LOCAL/USR.SBIN.MYSQLD - - - - X - -
+                FILE - - - - X - -
+           DIRECTORY - - - - S - -
+               FAULT - - - - O - -
+                SAME - - - - - - O
+               12.04 - - - - - - X

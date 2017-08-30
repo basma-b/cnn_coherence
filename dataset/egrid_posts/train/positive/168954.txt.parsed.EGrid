@@ -1,0 +1,22 @@
+             MPLAYER S X S -
+                TYPE - X - -
+             APT-GET - S - -
+         MPLAYER-386 - O - -
+              SYSTEM - S - -
+                 VLC - O - -
+             PACKAGE - O - -
+                 USE - - S -
+              CODECS - - O -
+     /USR/LIB/CODECS - - X -
+               LOCAL - - S -
+              SOURCE - - X -
+                CODE - - X -
+                SAME - - X -
+            GMPLAYER - - O -
+               ERROR - - X -
+             MESSAGE - - X -
+                HTTP - - X -
+//PASTE.UBUNTU-NL.ORG/16800 - - X -
+         PREFERENCES - - - X
+               VIDEO - - - X
+              OUTPUT - - - O

@@ -1,0 +1,13 @@
+             COMMAND O - - - - - -
+             DRIVERS X - - - - - -
+                CARD S - - - - - -
+                 USE O - - - - - -
+               WLAN0 X - - - - - -
+                LSHW - - - - S - -
+             NETWORK - - - - O - -
+                TIME - - - - - O -
+      WEBAPPLICATION - - - - - X -
+         DEVELOPEERS - - - - - S -
+               ISSUE - - - - - O -
+             PACKAGE - - - - - - X
+             VERSION - - - - - - O

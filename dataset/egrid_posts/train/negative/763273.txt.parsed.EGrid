@@ -1,0 +1,37 @@
+           BLACKLIST X - - - - - -
+/ETC/MODPROBE.D/ALIASES X - - - - - -
+             NOTHING - X X - - - -
+              SOREAU - - S - - - -
+                GREP - - O - - - -
+                IPV6 - - X - S - -
+                HTTP - - X - - - -
+    HOWTOTURNOFFIPV6 - - S - - - -
+             SECTION - - O - - - -
+                LINK - - X - - - -
+          EQUIVALENT - - - X - - -
+              UBUNTU - - - X - - -
+               THERE - - - - S - -
+/PROC/SYS/NET/IPV6/CONF/ETH0/DISABLE_IPV6 - - - - S - -
+                FILE - - - - X - -
+                  OK - - - - S - -
+              SYSTEM - - - - X - -
+          INTERFACES - - - - X - -
+                LIST - - - - O - -
+                  CD - - - - X - -
+           INTERFACE - - - - X - -
+              CHOICE - - - - X - -
+              CHANGE - - - - X - -
+             S/TO/DO - - - - X - -
+                  .. - - - - O - -
+               ERROR - - - - S - -
+            ARGUMENT - - - - S - -
+                   > - - - - S - -
+             EXAMPLE - - - - - - X
+          POWERPOINT - - - - - - O
+          ALGORITHMS - - - - - - X
+              COURSE - - - - - - X
+             COLLEGE - - - - - - X
+            SEMESTER - - - - - - X
+                 ONE - - - - - - S
+             BRACKET - - - - - - O
+                OO.O - - - - - - X

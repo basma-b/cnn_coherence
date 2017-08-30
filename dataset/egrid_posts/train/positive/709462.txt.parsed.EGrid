@@ -1,0 +1,20 @@
+               ANTON X - - -
+              MANDAY X X - -
+                USER X - - -
+                MODE X - - -
+              KERNEL - S - -
+                PASS - S - -
+           PARAMETER - S - -
+                   X - X - -
+               PRESS - X - -
+         CTRL-ALT-F7 - X - -
+                 TTY - X - -
+             SERVICE - O - -
+                SUDO - X - -
+             EXAMPLE - X - -
+              XGATES - X - -
+          LOGLEVEL=0 - X - X
+                THIS - O - -
+GRUB_CMDLINE_LINUX_DEFAULT= - S - -
+              SPLASH - O - -
+         UPDATE-GRUB - O - -

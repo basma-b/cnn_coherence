@@ -1,0 +1,16 @@
+             PROBLEM O - - -
+              UBUNTU X - - -
+                  PC S - - -
+             VERSION O - - -
+                LOAD X - - -
+              KERNEL O - - X
+            ACPI=OFF O - - -
+                BOOT X - - -
+          PARAMETERS O - - -
+           PROCESSOR - X - -
+             MACHINE - O - -
+                 MHZ - - - X
+           PARAMETER - - - O
+                MENU - - - X
+              OPTION - - - O
+                LINE - - - X

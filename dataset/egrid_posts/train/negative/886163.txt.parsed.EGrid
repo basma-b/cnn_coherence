@@ -1,0 +1,11 @@
+           XORG.CONF O S - -
+                TEXT X - - -
+                MODE X - - -
+                SUDO - X - -
+  /ETC/X11/XORG.CONF - X - -
+/ETC/X11/XORG.CONF.BACKUP - S - -
+       ACTIONPARSNIP - S - -
+                 ^^^ - X - -
+              UBUNTU - X - -
+             XSERVER - O - -
+                HEHE - - - X

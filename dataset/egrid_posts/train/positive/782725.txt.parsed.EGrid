@@ -1,0 +1,16 @@
+               CLICK X -
+             NETWORK X -
+          CONNECTION X -
+                 ANY O -
+                 NWT X -
+            INTERNET X -
+                SUDO X -
+/ETC/INIT.D/NETWORK-MANAGER S -
+/ETC/INIT.D/NETWORKING S -
+                   U - S
+                THOS - S
+              SCRIPT - S
+             ATTEMPT - O
+                 JOB - X
+    -NETWORK-MANAGER - O
+            INSTANCE - O

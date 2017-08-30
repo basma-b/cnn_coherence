@@ -1,0 +1,26 @@
+            QUESTION O - - - - - - - -
+           PARTITION X - - - - O - - -
+                GRUB X - - - - - - - -
+              CHROOT - X - - - - - - -
+                 ONE - - O - - - - - -
+                THAT - - - O - - O - -
+              SYSTEM - - - O - - - - -
+                /ETC - - - X - - - - -
+               /BOOT - - - O - - - - -
+/WHEREVER/YOU/MOUNTED/YOUR/UBUNTU/ROOT/BOOT - - - X - - - - -
+            TERMINAL - - - X - - - - -
+                 CAT - - - - X - X - -
+    /PROC/PARTITIONS - - - - S - X - -
+                SUDO - - - - - S - - -
+       /MEDIA/UBUNTU - - - - - O - - -
+              UMOUNT - - - - - X - - -
+                 SDX - - - - - O - - -
+             COMMAND - - - - - O - - -
+                THIS - - - - - - O - -
+           SOMETHING - - - - - - X - -
+                LIST - - - - - - O - -
+              RESULT - - - - - - X - -
+        DISK-UTILITY - - - - - - O - -
+                 GUI - - - - - - S - -
+                TYPE - - - - - - - X -
+           UMASK=022 - - - - - - - - O

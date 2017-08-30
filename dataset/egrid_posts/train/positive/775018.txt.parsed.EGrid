@@ -1,0 +1,17 @@
+           PARTITION X - - - - - -
+                 HDD X - - - - - -
+                   > - X - - - - -
+     ADMINISTRATION- - X - - - - -
+                DISK - X X - - - -
+             UTILITY - X O - - - -
+                EXT4 - X - - - - -
+            PARITION - O - - - - -
+            COMPUTER - X - - - - -
+               CHECK - X - - - - -
+           DIRECTORY - S - - - - -
+              ACCESS - O - - - - -
+             UNMOUNT - - O - S - -
+             REMOUNT - - X - - - -
+                SUDO - - - - X - X
+           /INCOMING - - - - - - X
+              UMOUNT - - - - - - X

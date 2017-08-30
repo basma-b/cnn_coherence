@@ -1,0 +1,13 @@
+        REPLACEFILES X - - - -
+                -IVH X - - - -
+               FORCE X - - - -
+         PACKAGENAME X - - - -
+                DPKG X - - - -
+               TOTEM - O - - -
+            RESOURCE - X - - -
+                DAYS - X - - -
+                  .. - O S - -
+             PROGRAM - - O - -
+         VIDEO/AUDIO - - O - -
+         CONNECTIONS - - - - S
+                  OK - - - - X

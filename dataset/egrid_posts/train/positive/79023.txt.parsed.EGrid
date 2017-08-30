@@ -1,0 +1,7 @@
+             COMPILE S -
+     X11/INTRINSIC.H O -
+                   X X -
+                PACK S -
+           BUILD-DEP S -
+           LIBXT-DEV X -
+              THANKS - X

@@ -1,0 +1,11 @@
+             PORTMAP X - - -
+                 NFS X - - -
+               SHARE O - - -
+                SUDO - X - -
+ /ETC/INIT.D/PORTMAP - S - -
+               SETUP - - X -
+             NETWORK - - X -
+        REPOSITORIES - - O -
+                 ISO - - - O
+                DATA - - - X
+               VIDEO - - - X

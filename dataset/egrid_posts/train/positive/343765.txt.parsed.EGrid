@@ -1,0 +1,18 @@
+              ANYONE S - - - - -
+              DRIVER O - - O - -
+           HIBERNATE - X - - - -
+BCM43XX_IRQ_XMIT_ERROR - O - - - -
+              SYSTEM - S - - - -
+           INTERFACE - O - - - O
+              SCRIPT - - S S - -
+             NETWORK - - X - - -
+       CONFIGURATION - - X - - -
+              THINGS - - O - - -
+               ERROR - - - X - S
+               LEVEL - - - O - -
+              MODULE - - - S - O
+              DEVICE - - - O - -
+             NOTHING - - - S - -
+                BIND - - - O - -
+                IFUP - - - O - -
+            MODPROBE - - - - - X

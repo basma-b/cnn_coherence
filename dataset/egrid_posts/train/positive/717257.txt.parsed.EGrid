@@ -1,0 +1,11 @@
+                MOTD O O -
+         UPDATE-MOTD S - O
+              SCRIPT O X -
+           DIRECTORY X X -
+    /ETC/UPDATE-MOTD X - -
+      /ETC/MOTD.TAIL S - -
+           /ETC/MOTD S - -
+              CHANGE - O -
+           00-HEADER - O -
+              THINGS - S -
+               10.04 - X -

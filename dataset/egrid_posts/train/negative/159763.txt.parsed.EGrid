@@ -1,0 +1,21 @@
+                LPRM S - - -
+               PRINT X - - -
+                 JOB O - - -
+              STARTX - S - -
+                   X - X - -
+             WRAPPER - X - -
+              CONFIG - X - -
+/ETC/X11/XWRAPPER.CONFIG - X - -
+                USER - X X -
+              SERVER - O - -
+                FILE - - X -
+         PERMISSIONS - - S -
+                PERM - - X -
+              SYSTEM - - S -
+               MOUNT - - O -
+              NOSUID - - S -
+                CANT - - S -
+             XSERVER - - O -
+           DIRECTORY - - - X
+               CLICK - - - X
+              SCRIPT - - - O

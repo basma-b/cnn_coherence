@@ -1,0 +1,15 @@
+              /MEDIA X - S - - - -
+         PERMISSIONS - X - - - - -
+                  CD - - S - - - -
+             COMMAND - - S - - - -
+            BUILT-IN - - O - - - -
+                TYPE - - X - - - -
+          PERMISSION - - X - - - -
+/USR/SHARE/WEBMIN/MINISERV.PL - - - X - - -
+/ETC/WEBMIN/MINISERV.CONF - - - O - - -
+              RETURN - - - - X - -
+              COUPLE - - - - X - -
+                SECS - - - - X - -
+                THIS - - - - - S -
+             PROCESS - - - - - O -
+           TRACEBACK - - - - - - X

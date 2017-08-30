@@ -1,0 +1,10 @@
+               USER2 - S - - -
+          PERMISSION - O - - -
+              PARENT - X - - -
+         DIRECTORIES - X - - -
+               CHMOD - - S - -
+             SUCCESS - - - O -
+           SOMETHING - - - X -
+            SMB.CONF - - - X -
+                  TA - - - - S
+                 TNX - - - - O

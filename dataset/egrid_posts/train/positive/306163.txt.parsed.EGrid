@@ -1,0 +1,12 @@
+                FILE O - - - -
+              DEVICE X - - - -
+               MOUNT - - O - X
+                LOOP - - X - -
+     /MNT/MOUNTPOINT - - S - -
+               POINT - - X - -
+           /MNT/BLUB - - S - -
+                   U - - S - -
+          MOUNTPOINT - - O - -
+                TYPE - - X - S
+             SPECIFY - - O - -
+          FILESYSTEM - - - - X

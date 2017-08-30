@@ -1,0 +1,11 @@
+               FSTAB X - - - - - -
+                TALK O - - - - - -
+               ABOOD X - - - - - -
+                VFAT - - X - - - -
+               DRIVE - - O - - - -
+           SOMETHING - - X - - - -
+             UMASK=0 - - X - - - -
+          /ETC/FSTAB - - X - - - -
+                DUDE - - - X - - -
+             COMMAND - - - O - - -
+                   S - - - X - - -

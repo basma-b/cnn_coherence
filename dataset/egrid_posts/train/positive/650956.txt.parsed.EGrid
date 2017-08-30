@@ -1,0 +1,14 @@
+              AUTOFS O - - - -
+           AUTOMOUNT X - - - -
+              SCRIPT X O - - -
+               THERE - S - - -
+            MOUNTNFS - X - - -
+    NETWORK/IF-UP.D. - X - - -
+              DAEMON - - X - -
+            MOUNTALL - - X X -
+                 RUN - - O - -
+                WORK - - - O -
+                 IT| - - - S -
+                 CLI - - - X -
+               DEBUG - - - X -
+                 NFS - - - X -

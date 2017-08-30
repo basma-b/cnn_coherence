@@ -1,0 +1,7 @@
+                FILE X -
+                 USE O -
+             COMMAND X -
+                LINE X -
+                LOOP O -
+                   > S -
+               IMAGE - O

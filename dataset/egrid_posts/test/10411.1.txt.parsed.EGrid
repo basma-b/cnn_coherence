@@ -1,0 +1,17 @@
+                 WAY X O - -
+                 ISO O - - -
+               LINUX X - - -
+           JUMPDRIVE O - - X
+                  DD O - - -
+          FILESYSTEM O - X -
+              UBUNTU - O - -
+               DRIVE - X - -
+                ROOT - - X -
+           PARTITION - - X -
+                 EXT - - S -
+                REST - - S -
+                BOOT - - - X
+              KERNEL - - - O
+/MNT/JUMPDRIVE/BOOT/KERNEL-NAME - - - X
+            SQUASHFS - - - O
+           DIRECTORY - - - X

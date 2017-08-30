@@ -1,0 +1,26 @@
+               SETUP X - - - - - - -
+               LIMIT X - - - - X - -
+                PORT X - - - - X - -
+                TIME - X - - - - - -
+            POSTGRES - X - - - - - -
+            DATABASE - X - - - - - -
+                HOST - O - - - - - -
+              ACCESS - O - - - - - -
+                  IP - X - - - - - -
+              SELECT - S - - - - - -
+                SUCK - O - - - - - -
+            UPSTREAM - X - - - - - -
+          CONNECTION - S - - - - - X
+             MINUTES - X - - - - - -
+                 CAP - - O - - - - -
+             ARROUND - - X - - - - -
+                 QOS - - X - - - - -
+              ROUTER - - X X - - - -
+               LINUX - - - X - - - -
+            IPTABLES - - - - - X - -
+                LINK - - - - - - X S
+                HTTP - - - - - - X -
+//WWW.LINUXQUESTIONS.ORG/QUESTIONS/LINUX-NETWORKING-3/LIMIT-THE-SPEED-OF-A-NETWORK-INTERFACE-634904/ - - - - - - X -
+            INTEREST - - - - - - - X
+               SHAPE - - - - - - - X
+             ARTICLE - - - - - - - X

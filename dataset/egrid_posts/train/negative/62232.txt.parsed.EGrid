@@ -1,0 +1,22 @@
+             PROBLEM X - - - - - - - -
+                FILE - X - - - - - - -
+/USR/INCLUDE/SYS/STAT.H - X - - - - - - -
+               STDIN - X - - - - - - -
+                   > - X - - - - - - -
+/USR/INCLUDE/BITS/STAT.H - O - - - - - - -
+               ERROR - O - - - - - - -
+               FIELD - O - - - - - - -
+             ST_ATIM - S - - - - - - -
+                TYPE - X - - - - - - -
+             ST_MTIM - S - - - - - - -
+             ST_CTIM - S - - - - - - -
+                GULP - O - - - - - - -
+            COMPILER - - - - X - - - -
+              ERRORS - - - - O - - - -
+                THIS - - - - - S - - -
+                 FIX - - - - - O - - -
+              UPDATE - - - - - S - - -
+       ENLIGHTENMENT - - - - - - O - -
+               STUFF - - - - - - O - -
+                THAT - - - - - - - - S
+       FUNCTIONALITY - - - - - - - - O

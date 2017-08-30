@@ -1,0 +1,16 @@
+           PARTITION S - O - - - - - -
+                DATA X - O - - - - - -
+                DISK O - X - - - - - -
+              BACKUP - - X - - - - - -
+               DATA - - S - - - - - -
+           PARTITINS - - S - - - - - -
+                RAID - - X - - - - - -
+           REFERENCE - - - - O - - - -
+                PORT - - - - X - - - -
+             12.04.1 - - - - - - S - -
+             POWERPC - - - - - - X - -
+                 CPU - - - - - - X - -
+       ARCHITECTURES - - - - - - X - -
+                THAT - - - - - - - S -
+          DIFFERENCE - - - - - - - O -
+                 HEH - - - - - - - - X

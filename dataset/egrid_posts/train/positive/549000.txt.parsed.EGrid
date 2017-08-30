@@ -1,0 +1,14 @@
+/ETC/NETWORK/INTERFACES O - - - - -
+           SOMETHING X - - - - -
+              SYSTEM X O X - - -
+                 WAY - X - - - -
+                  IP - X O - - -
+             ADDRESS - X - - - -
+       CONFIGURATION - - X - - -
+             DEFAULT - - X - - -
+      NETWORKMANAGER - - - O - -
+          INTERFACES - - - O - -
+               AFAIK - - - S - -
+             SERVICE - - - - - O
+               START - - - - - X
+                LIST - - - - - X

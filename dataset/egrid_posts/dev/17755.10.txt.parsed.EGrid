@@ -1,0 +1,13 @@
+                USER X O -
+               GROUP X X -
+                SUDO - S -
+                  -A - O -
+            USERNAME - O -
+            WWW-DATA - X -
+              SCRIPT - X -
+                  .. - O -
+              FOLDER - S -
+                 ETC - O -
+          PERMISSION - S -
+               OWNER - O -
+               RIGHT - X -

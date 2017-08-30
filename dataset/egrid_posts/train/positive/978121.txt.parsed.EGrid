@@ -1,0 +1,17 @@
+                FILE X - - - -
+                  LO S - - - -
+            LOOPBACK X - - S -
+                  HM X - - - -
+            IFCONFIG S - - - -
+           LOCALHOST O - - - -
+           127.0.0.1 - O - - -
+           127.0.0.2 - - X - -
+                LINK - - - X -
+               ENCAP - - - X -
+               LOCAL - - - X -
+                ADDR - - - O -
+               SCOPE - - - X -
+                HOST - - - S -
+              /TOPIC - - - O -
+                  RE - - - X -
+               PASTE - - - X -

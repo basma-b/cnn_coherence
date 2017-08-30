@@ -1,0 +1,17 @@
+                 THE X - - - - - - - - -
+                EXT3 X - - - - - - - - -
+           PARTITION S - - - X - - - - -
+          SUPERBLOCK O - O - - - - - - -
+             SECTORS O - O - - - - - - -
+              DAMAGE O - - - - - - - - -
+                DATA - X - - - - - - - -
+                THIS - - O - - - - - - -
+                  DD - - S - - S - - - -
+                ZERO - - O - - - X - - -
+                COPY - - X - - - - - - -
+                FSCK - - O - - - - - - -
+              CHANCE - - O - - - - - - -
+               BYTES - - X - - - - - - -
+                THAT - - - O - - - O - -
+               IMAGE - - - - O - - - - -
+                DISK - - - - - - - - S -

@@ -1,0 +1,24 @@
+                HELP X - -
+                AMSN O - O
+        INSTALLATION X - -
+               ERROR O - -
+             COMMAND X - X
+         ./CONFIGURE O - -
+                LINE O - -
+/USR/LIB/TKCONFIG.SH O - -
+                FILE X - -
+           DIRECTORY X - -
+             PROGRAM S - -
+          REPOSITORY X - -
+              DOCKER - - X
+          IMLIB-BASE - - X
+                 SOX - - X
+              TCLTLS - - S
+                BASE - - X
+              SYSTEM - - S
+               YOURS - - O
+              REASON - - O
+              SOURCE - - X
+                TYPE - - S
+                SUDO - - X
+             APT-GET - - S

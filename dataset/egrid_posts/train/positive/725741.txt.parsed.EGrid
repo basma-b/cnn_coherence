@@ -1,0 +1,35 @@
+              QUANTA S - - - S - - O - - - - - - -
+~/.KDE/SHARE/CONFIG/CVSSERVICERC S - - - - - - - - - - - - - -
+         PERMISSIONS - S - - X - - - - X - - - - -
+                FILE - X - - - - - - - X - - S - -
+               OWNER - O - - - S - - - - - X - - -
+                ROOT - X X - - - - X X - - - - - -
+              ACCESS - O X X - - - - - - - - - - -
+               WRITE - O - - - - - - - - - - - - -
+               GROUP - - X - - - - - - - - - - - -
+                NONE - - X X - - - - - - - - - - -
+              OTHERS - - - X - - - - - - - - - - -
+                SUDO - - - - - S - - - - - - - - -
+~/.KDE/SHARE/BLAHBLAHBLAH - - - - - O - - - - - - - - -
+            YOURUSER - - - - - O - - - - - X - - -
+      ~/.KDE/THEFILE - - - - - X - - - - - - - - -
+              THANKS - - - - - X - - - - - X - - -
+         APPLICATION - - - - - - - - O - - - - - -
+           SOMETHING - - - - - - - - O - - - - - -
+               SETUP - - - - - - - - X - - - - - -
+               CHMOD - - - - - - - - - X - - - - -
+                 BUG - - - - - - - - - X - - - - -
+                  -X - - - - - - - - - S - - - - -
+               THERE - - - - - - - - - S - - - - -
+               BUNCH - - - - - - - - - O - - - - -
+                LOCK - - - - - - - - - X - - - - -
+           DIRECTORY - - - - - - - - - X - - - - -
+                 ALL - - - - - - - - - - X - - - -
+~/.KDE/SHARE/THE_BAD_DIRECTORY - - - - - - - - - - - X - - -
+                THIS - - - - - - - - - - - S - - -
+                HARM - - - - - - - - - - - O - - -
+              ANYONE - - - - - - - - - - - - X - -
+                USER - - - - - - - - - - - - X - -
+              MYUSER - - - - - - - - - - - - - O -
+               PATH/ - - - - - - - - - - - - - S -
+                THAT - - - - - - - - - - - - - - S

@@ -1,0 +1,14 @@
+                  -L X - -
+                DISK X - -
+           PARTITION O - -
+                SUDO - X -
+                  -A - S -
+                 ONE - X -
+            UNMOUNTS - S -
+               OTHER - S -
+               FSTAB - S -
+            TERMINAL - - S
+                TEXT - - X
+              EDITOR - - X
+                  .. - - O
+             COMMAND - - O

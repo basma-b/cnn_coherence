@@ -1,0 +1,15 @@
+              DRIVER O - - -
+                 GUI X - - -
+        INSTRUCTIONS - S - -
+              NVIDIA - X - -
+             COMMAND - O S -
+                ROOT - X - -
+              REBOOT - S - -
+             XSERVER - S - -
+               MODEL - O - -
+             CHIPSET - X - -
+               LSPCI - - X -
+                   | - - S -
+                 VGA - - O -
+             NOTHING - - O -
+                THAT - - - S

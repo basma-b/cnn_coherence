@@ -1,0 +1,16 @@
+                  DO O - - - - - - - - -
+               THERE X - - - - - - - - -
+                 WAY X - - - - - - - - -
+               GNOME X - - - - - - - - -
+               10.04 X - - - - - - - - -
+               REPOS - S - - - - - - - -
+                 APP - X - - - - - - - -
+                  OS - - - S - - - - - -
+                PART - - - - X - - - - -
+            MODPROBE - - - - - - S - X -
+                NAME - - - - - - X - - -
+                YIOU - - - - - - X - - -
+               RMMOD - - - - - - - X - -
+               R8169 - - - - - - - - X X
+                SUDO - - - - - - - - X -
+/ETC/MODPROBE.D/BLACKLIST.CONF - - - - - - - - - X

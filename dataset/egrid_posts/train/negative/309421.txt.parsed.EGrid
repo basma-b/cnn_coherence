@@ -1,0 +1,8 @@
+            .XINITRC S - -
+            .DESKTOP S - -
+                FILE O - -
+EXEC=/USR/LOCAL/BIN/STARTFLUXBOX O - -
+              ERRORS O - -
+                  .. X - -
+                UNIX - - S
+                 FIX - - X

@@ -1,0 +1,15 @@
+                 APT X - - -
+           SOMETHING X - - -
+             PORTAGE X - - -
+                FILE O - - -
+                THAT - O - -
+             PACKAGE - O O X
+              SOURCE - X - O
+             APT-GET - S - -
+          DEPENDENCY - X - -
+                LOOK - X - -
+              EQUIVS - X S -
+             PURPOSE - O - -
+                SHOW - - X -
+              BASICS - - X -
+              CHOICE - - - S

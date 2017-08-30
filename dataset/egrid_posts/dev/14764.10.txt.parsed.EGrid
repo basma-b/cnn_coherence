@@ -1,0 +1,29 @@
+               HTTPS X - - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/LIVECDCUSTOMIZATION X - - - - - -
+                THNX X - - - - - -
+                SITE O - - - - - -
+               THING X - - - - - O
+               STUFF O - - - - - -
+/USR/SHARE/INITRAMFS-TOOLS/SCRIPTS X - - - - - -
+            SQUASHFS X X - - - - -
+              ROOTFS O O - - - - -
+              GKSUDO - - - S - - -
+            ANYTHING - - - O - - -
+                ROOT - - - X - - -
+              OPTION - - - X - - -
+             KDESUDO - - - - X - -
+        APPLICATIONS - - - - O - -
+               THERE - - - - S - S
+               SOUND - - - - O - -
+                WORK - - - - - O -
+                OPEN - - - - - - X
+               MIXER - - - - - - X
+                FILE - - - - - - X
+           DIRECTORY - - - - - - X
+               ERROR - - - - - - X
+             MESSAGE - - - - - - O
+           SOMETHING - - - - - - O
+      /DEV/SOMETHING - - - - - - X
+  O_RDONLY|O_CLOEXEC - - - - - - S
+              EACCES - - - - - - O
+          PERMISSION - - - - - - S

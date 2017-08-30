@@ -1,0 +1,12 @@
+              SYNTAX X - -
+                COPY X - -
+               DRIVE X - -
+           DD_RESCUE X - -
+            /DEV/SDA - X -
+/DEV/SDC1/BACKUP.IMG - S -
+               ERROR - O -
+                 SDA - S -
+           PARTITION - X -
+                  .. - O -
+                 ONE - X -
+                THAT - - S

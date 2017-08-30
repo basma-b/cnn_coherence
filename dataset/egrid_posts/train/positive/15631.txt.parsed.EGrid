@@ -1,0 +1,25 @@
+                TIME X - - - - - -
+             SOMEONE X - - - - - -
+              THEORY O - - - - - -
+             PACKAGE O O - - O - -
+            INSTANCE X - - - - - -
+                 SMP X - - - - - -
+              KERNEL S X - S X - -
+       LINUX-686-SMP O - - - S - -
+ LINUX-IMAGE-686-SMP O - - - - - -
+LINUX-IMAGE-2.6-686-SMP O - S - - - -
+                  .. - X - - - - -
+             VERSION - X - - - - -
+          DEPENDANCY - - O - - - -
+             UPGRADE - - O - - - -
+                THIS - - - S - - -
+                ROAD - - - X - - -
+             RELEASE - - - O - - -
+                THAT - - - - O - -
+                CODE - - - - O - -
+                META - - - - X - -
+                 WAY - - - - O - -
+            VERSIONS - - - - O - -
+               THERE - - - - - - S
+          EQUIVALENT - - - - - - O
+/USR/SHARE/DOC/DEBIAN-POLICY/VIRTUAL-PACKAGE-NAMES-LIST.TXT.GZ - - - - - - X

@@ -1,0 +1,10 @@
+         ./CONFIGURE O X - - -
+               ERROR O - - - -
+               USB.H S - - - -
+               LIB.H - S - - -
+                  MR - X - - -
+          LIBUSB-DEV - - - O -
+                  NO - - - S -
+                FILE - - - - O
+             STARTUP - - - - X
+        /ETC/INIT.D/ - - - - X

@@ -1,0 +1,14 @@
+                HELP O - - - - - -
+           BLUETOOTH X X - - - - -
+             MANAGER - X - - - - -
+               START - O - - - - -
+               LOGIN - X - - - - -
+               ERROR - O - - - - -
+          CONNECTION - S - - - - -
+               BLUEZ - X S - - - -
+              DAEMON - - S - - - -
+     BLUEMAN-MANAGER - - S - - - -
+                THAT - - - X - - -
+             SERVICE - - - S - - -
+        WALK-THROUGH - - - - - X -
+                HTTP - - - - - - X

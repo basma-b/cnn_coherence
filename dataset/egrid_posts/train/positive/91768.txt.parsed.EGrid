@@ -1,0 +1,29 @@
+                  IM S - - - - - -
+          DEPENDENCY X - - - - - -
+            PROBLEMS O - - - - - -
+               LIBC6 X - - - - X -
+     2.3.5-1UBUNTU12 X - - - - - -
+             2.3.5-7 S - - - - - -
+                   E O - - - - - -
+             PACKAGE S - - - - - X
+               REPOS O X - - - - -
+                  .. - X - O - O -
+                  ED - X - - - - -
+     BUILD-ESSENTIAL - - - S - - -
+              UPDATE - - - O - - -
+/ETC/APT/SOURCES.LIST - - - O - - -
+                POST - - - X - - -
+                THIS - - - S - - -
+                LINK - - - O - - -
+                HTTP - - - X - X -
+                SUDO - - - S - - -
+            APTITUDE - - - X - - -
+               ERROR - - - S - - -
+//PASTE.UBUNTULINUX.NL/3776 - - - S - - -
+//PASTE.UBUNTULINUX.NL/3777 - - - - - X -
+             VERSION - - - - - O -
+              EUTILS - - - - - X -
+                 E17 - - - - - S -
+                REPO - - - - - - X
+               CAUSE - - - - - - O
+               BREAK - - - - - - X

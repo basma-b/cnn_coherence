@@ -1,0 +1,11 @@
+               POINT O - - - -
+                 HDD X - - - -
+                ROOT X - - - -
+              CHANGE - X - - -
+          /ETC/FSTAB - S - - -
+               CHOWN - - X - -
+              OPTION - - - - O
+              ACCESS - - - - X
+               RIGHT - - - - O
+              DEPEND - - - - O
+                NEED - - - - X

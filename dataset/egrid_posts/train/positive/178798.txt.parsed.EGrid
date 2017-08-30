@@ -1,0 +1,16 @@
+      /MEDIA/USBDISK O - - - - - - -
+           MKFS.VFAT - - - O - - - -
+                  YA - - - S - - - -
+       /DEV/WHATEVER - - - O - - - -
+                TYPE - - - X - - - -
+            /DEV/SDA - - - S - - - -
+               MOUNT - - - X - - - -
+                FILE - - - X X - - -
+              SYSTEM - - - O O - - -
+           DIRECTORY - - - - X - - -
+                  =/ - - - - S - - -
+                IDEA - - - - X - - -
+                  EH - - - - O - - -
+           /DEV/SDA1 - - - - - X - -
+                   P - - - - - - X X
+                CANT - - - - - - S -

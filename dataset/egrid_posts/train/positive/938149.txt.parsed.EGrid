@@ -1,0 +1,26 @@
+                TIME X - - - - -
+                ROOT X - - - - -
+                IMAC X - - - - -
+          WLANCTL-NG X - - - - -
+               SSID= X - - - - -
+                TEST X - - - - -
+ AUTHTYPE=OPENSYSTEM X - - - - -
+MESSAGE=LNXREQ_AUTOJOIN X - - - - -
+  RESULTCODE=SUCCESS X - - - - -
+                 HMM X - - - - -
+                  .. X - - - - -
+                STEP S - - - - -
+                 KEY O O - - - -
+               WLAN0 - S X - - -
+                CARD - X - - - -
+            IWCONFIG - X - - - -
+                  XX - S - - - -
+                 ENC - X - - - -
+                SAME - O - - - -
+               ERROR - - S - - -
+            WIRELESS - - X - - -
+             REQUEST - - X - - -
+              ENCODE - - O - - -
+                8B2A - - X - - -
+              DEVICE - - X - - -
+           OPERATION - - S - - -

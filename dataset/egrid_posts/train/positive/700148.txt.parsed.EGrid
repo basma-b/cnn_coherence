@@ -1,0 +1,21 @@
+               SETUP X - - - - - - - - - -
+           CONNEXION O - - - - - - - - - -
+              VSFTPD X - - - - - - - - - -
+             MESSAGE - S - - - - - - - - -
+              STATUS - X - - - - - - - - -
+          CONNECTION - S - - - - - - - - -
+                   | - X - - - - - - - - -
+             COMMAND - X - - - - - - - - -
+                USER - X - - - - - - - - -
+         UTILISATEUR - X - - - - - - - - -
+            RESPONSE - X - - - - - - - - -
+              SERVER - S - O - - - - - - -
+               ERROR - - X - - - - - - - -
+                HELP - - - - X - - - - - -
+                HTTP - - - - - - - X - - -
+//VSFTPD.BEASTS.ORG/VSFTPD_CONF.HTML - - - - - - - X - - -
+                PAGE - - - - - - - X - - -
+                THIS - - - - - - - - X - -
+       CONFIGURATION - - - - - - - - - O -
+             OPTIONS - - - - - - - - - - X
+        USERLIST_FIE - - - - - - - - - - X

@@ -1,0 +1,13 @@
+               EEEPC O - - - -
+                SDHC X - - - -
+                CARD X - - - -
+              FORMAT - X - - -
+            TERMINAL - X - - -
+                READ - O - - -
+               MOUNT - - X - -
+         PERMISSIONS - - O - -
+               POINT - - X - -
+             STARTUP - - - - X
+             COMMAND - - - - S
+/ETC/INIT.D/RC.LOCAL - - - - X
+          CORRECTION - - - - X

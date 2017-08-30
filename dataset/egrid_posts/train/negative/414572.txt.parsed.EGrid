@@ -1,0 +1,16 @@
+             NETWORK X X -
+           INTERFACE S - -
+            ETHERNET X - -
+                CARD O - -
+               SETUP O - -
+             SOMEONE X - -
+             POINTER X - -
+                 TWO X - -
+          DHCPOFFERS - S -
+              CONFIG - S -
+             DEVICES - X -
+/ETC/NETWORK/INTERFACES - X -
+                FILE - X O
+               RUBIN - - X
+              IFDOWN - - X
+                ATH0 - - S

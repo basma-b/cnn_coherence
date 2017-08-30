@@ -1,0 +1,11 @@
+          DIFFERENCE X - - - -
+             DEPENDS X - - - -
+          PREDEPENDS X - - - X
+             PACKAGE X - - - -
+            RDEPENDS - O - - -
+                  IM - - S - -
+                THIS - - X - -
+            INSTANCE - - - - X
+           APT-CACHE - - - - S
+           E2FSPROGS - - - - S
+            E2FSLIBS - - - - O

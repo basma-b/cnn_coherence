@@ -1,0 +1,17 @@
+                  OS O - - - - - -
+           PARTITION X O - - - O -
+                SIZE O - - - - - -
+               FLASH X - - - - - -
+               DRIVE X - - - - - -
+                FULL S - - - - - -
+                 ONE - X - - - - -
+                SWAP - O - - - - S
+                BOOT - - X - S - -
+                 MBR - - - - X - -
+           SOMETHING - - - - - O -
+               OTHER - - - - - S -
+                GRUB - - - - - S -
+                 USB - - - - - X -
+                 ETC - - - - - X -
+                 RAM - - - - - - X
+           HIBERNATE - - - - - - X

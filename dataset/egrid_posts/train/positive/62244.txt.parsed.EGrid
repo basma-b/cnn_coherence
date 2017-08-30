@@ -1,0 +1,7 @@
+   HEADERS/LIBRARIES X - - -
+                 X11 - X - -
+             EXAMPLE - S - -
+                  LD - - S -
+               -LX11 - - S -
+                   / - - - S
+            LDCONFIG - - - O

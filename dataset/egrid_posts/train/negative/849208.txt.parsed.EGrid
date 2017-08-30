@@ -1,0 +1,21 @@
+                  -T O - O - - - - - - - - -
+               ECDSA S - - - - - - - - - - -
+                TYPE O - - - - - - - - - - -
+                 RSA - O - - - - - - - - - -
+            PROTOCOL - X - - - - - - - - - -
+             VERSION - X - - - O - - - - - -
+             OPENSSH - - X - X - - - - - - -
+                 KEY - - S - - - - - - - - -
+             COMMAND - - X - - - - - - - - -
+/OPT/ETC/INIT.D/S40SSHD - - - S - - - - - - - -
+              CUSTOM - - - - O - - - - - - -
+                 USE - - - - - X - - - - - -
+               THERE - - - - - X - - - - - -
+              REASON - - - - - X - - - - - -
+             PACKAGE - - - - - X - - - - - -
+        REPOSITORIES - - - - - X - - - - - -
+                IPKG - - - - - - O - - - - -
+              UBUNTU - - - - - - - - X - - -
+             GPARTED - - - - - - - - - - S -
+                DATA - - - - - - - - - - - O
+           SOMETHING - - - - - - - - - - - S

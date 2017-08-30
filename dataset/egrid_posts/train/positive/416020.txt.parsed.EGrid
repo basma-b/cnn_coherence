@@ -1,0 +1,10 @@
+ SECURITY/PAM_APPL.H S - - - -
+                 AHA - - O - -
+             FEATURE - - O - -
+                FILE - - X - -
+                HTTP - - - X -
+//PACKAGES.UBUNTU.COM - - - S -
+                 TIT - - - O -
+             PACKAGE - - - - S
+                TYPE - - - - X
+            PAM_APPL - - - - O

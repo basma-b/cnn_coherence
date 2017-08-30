@@ -1,0 +1,27 @@
+                FILE X - - - - - -
+              SYSTEM X S - - - - -
+                  CD X - - - - - -
+            RECOVERY - X X - - - -
+                MODE - X X - - - -
+                  .. - X - - - - -
+              ERRORS - - O - - - -
+                BOOT - - X - - - -
+                SUDO - - S - - - -
+               MKDIR - - X - - - -
+         /SOMEFOLDER - - O - - - -
+  /DEV/SOMEPARTITION - - X - - - -
+            TERMINAL - - - X - - X
+               ERROR - - - X - X X
+             MESSAGE - - - X - X O
+                  SH - - - - X - -
+                   * - - - - X - -
+            .X86.RUN - - - - O - -
+          PAK000.PK4 - - - - X - -
+                 DIR - - - - X - -
+               DOOM3 - - - - X - -
+/USR/LOCAL/GAMES/DOOM3/BASE - - - - X - -
+                HTTP - - - - - - X
+               THING - - - - - - O
+               SPACE - - - - - - X
+                 ULR - - - - - - O
+ //PASTEBIN.ORG/2998 - - - - - - X

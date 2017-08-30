@@ -1,0 +1,19 @@
+                 PLS X - - - - - -
+               ISSUE X - - - - - -
+             DEBCONF - X - - - - -
+            FRONTEND - S - - - - -
+              DIALOG - X - O - O -
+             PROGRAM - S - - - - -
+                BASE - X - - - - -
+                 USE - O - - - - -
+/USR/SHARE/PERL5/DEBCONF/FRONTEND/DIALOG.PM - - X - - - -
+                LINE - - O - - - -
+                   < - - S - - - -
+                HTTP - - - X - - -
+           2,502,502 - - - - S - -
+              UPDATE - - - - X - -
+                TIME - - - - - X -
+                SUDO - - - - - X -
+             APT-GET - - - - - S -
+                 ONE - - - - - - O
+            INTERNET - - - - - - S

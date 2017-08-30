@@ -1,0 +1,12 @@
+        WINMAC_FSTAB X - - - - -
+             WINDOWS O - - - - -
+                 MAC X - - - - -
+           PARTITION X O - O - -
+               FSTAB X - - - - X
+               THERE - X - - - -
+           SOMETHING - X - - - -
+                EXT3 - - X - - -
+                FACT - - X - - -
+             ENTRIES - - - - - O
+               DRIVE - - - - - X
+                INFO - - - - - X

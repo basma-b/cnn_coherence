@@ -1,0 +1,16 @@
+                   $ X - - - - - -
+                 PCI X - - - - - -
+             EXPRESS X - - - - - -
+            PUREFTPD X - - - - - -
+                BOOT X - X - - - -
+/USR/LOCAL/ETC/PROFTPD.CONF X - - - - - -
+        /ETC/INITTAB X - - - - - -
+             COMMAND O - O - - - -
+              SYSTEM - X - - - - -
+             STARTUP - X - X - - -
+             SOMEONE - - X - - - -
+                 SYS - - - X - - -
+            SESSIONS - - - X - - -
+               PROGS - - - X - - -
+                   U - - - - - X X
+            PASSWORD - - - - - X -

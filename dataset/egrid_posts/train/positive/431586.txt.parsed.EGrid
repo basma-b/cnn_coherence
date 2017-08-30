@@ -1,0 +1,12 @@
+                 OUT X - - - - - -
+              UPDATE - - O - - - -
+              CHANGE - - O - - - -
+/ETC/APT/SOURCES.LIST - - X - - - -
+                SUDO - - X - - - -
+             APT-GET - - X - - - -
+        DIST-UPGRADE - - O - - - -
+               HARDY - - - X - S -
+                LINE - - - O - - -
+                LIST - - - X - - -
+                FILE - - - X - - -
+                CASE - - - - - - X

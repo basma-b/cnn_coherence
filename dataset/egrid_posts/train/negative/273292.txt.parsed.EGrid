@@ -1,0 +1,10 @@
+               IMAGE X - - - - - -
+              FLOPPY X - - - O - -
+              UBUNTU X - - - - - -
+                  DD - X - - - - -
+         IF=/DEV/FD0 - S - - - - -
+             COMMAND - - S - - - -
+                FILE - - S - - - -
+              DEVICE - - O - - S -
+OF=/HOME/LOGIC/DESKTOP/BOOTFLOPPY.IMG - - - - S - -
+                WORK - - - - X - -

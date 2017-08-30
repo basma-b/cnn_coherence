@@ -1,0 +1,10 @@
+                NTFS X - - -
+               DRIVE X - - -
+             OPTIONS S - - -
+             DEFAULT X - - -
+            NLS=UTF8 X - - -
+           UMASK=007 X - - -
+                THIS - X - -
+           UMASK=000 - X - -
+                THAT - - O -
+               THANK - - - X

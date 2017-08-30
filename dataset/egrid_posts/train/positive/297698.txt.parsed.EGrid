@@ -1,0 +1,13 @@
+                 ATI - X - - -
+            MOBILITY - X - - -
+              RADEIO - X - - -
+               X1300 - X - - -
+               STUFF - - X - -
+   XORG-DRIVER-FGLRX - - - S -
+                 USE - - - X -
+            RECOVERY - - - X X
+                MODE - - - O X
+                TYPE - - - X -
+             APT-GET - - - X -
+           ATICONFIG - - - O -
+     OVERLAY-TYPE=XV - - - O -

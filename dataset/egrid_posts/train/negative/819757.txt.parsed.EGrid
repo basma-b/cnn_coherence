@@ -1,0 +1,29 @@
+                   < X - - - -
+         PERMISSIONS O - - - -
+               RIGHT O - - - -
+               THOSE S - - - -
+                FILE X - - - -
+               THERE S - - - -
+           CHARACTER O - - - -
+           FILENAMES S O - - -
+                NTFS X - - - -
+                EXT4 X - - - -
+                 WAY X - - - -
+                  -L O - - - -
+              SOURCE X X - - -
+         DESTINATION X - - - -
+              FOLDER X - - - -
+                THIS - O - - -
+             .BASHRC - X - O -
+          COMPLETION - X - - -
+             FEATURE - S - - -
+            ENABLE\N - X - - -
+    /ETC/BASH.BASHRC - X - - -
+/ETC/BASH_COMPLETION - X - - -
+               -RSB- - X - - -
+               SHOPT - - X - -
+                 -OQ - - X - -
+               POSIX - - X - -
+              THEN\N - - X - -
+/ETC/BASH_COMPLETION\N - - - S -
+               WORRY - - - - X

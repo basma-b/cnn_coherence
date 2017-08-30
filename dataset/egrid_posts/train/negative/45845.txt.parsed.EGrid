@@ -1,0 +1,16 @@
+         PREFERENCES X - - - - - - - - - - -
+             MACHINE - O - - - - - - - - - -
+                 SSH - - O - - - - - - - - -
+ /ETC/SSH/SSH_CONFIG - - X - - - - - - - - -
+                BASE - - O - - - - - - - - -
+             APT-GET - - S - - - - - - - - -
+                MIND - - - - - S - - - - - -
+             TROUBLE - - - - - S - - - - - -
+            LOCATION - - - - - - O - - - - -
+             DEFAULT - - - - - - X - - - - -
+              CONFIG - - - - - - X - - - - -
+              APACHE - - - - - - X X - - - -
+              HTDOCS - - - - - - X - - - - -
+             OPENVPN - - - - - - - - - X - -
+             SUPPORT - - - - - - - - - - S -
+                  GO - - - - - - - - - - - X

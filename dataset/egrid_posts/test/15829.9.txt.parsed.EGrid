@@ -1,0 +1,10 @@
+           CONFIGURE X - - -
+                IFUP X - - -
+/ETC/NETWORK/INTERFACES - X - -
+              METHOD - O - -
+            HOSTNAME - X - -
+          LEASEHOURS - X - -
+           LEASETIME - X - -
+                  .. - X - -
+                 WAY - - X -
+              PYTHON - - - X

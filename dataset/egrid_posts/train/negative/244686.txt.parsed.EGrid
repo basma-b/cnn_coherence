@@ -1,0 +1,16 @@
+                USER X S - -
+                HALT X S - -
+                  -P X O - -
+             COMMAND O - - -
+                ROOT X O - -
+         PERMISSIONS - O - -
+             PROGRAM - X - -
+                 WAY - X - -
+               GROUP - X - -
+                 RUN - S - -
+                SUDO - X - -
+               USERS - S - -
+                TYPE - X - -
+              METHOD - O - -
+            PASSWORD - X - -
+                GIMP - - - X

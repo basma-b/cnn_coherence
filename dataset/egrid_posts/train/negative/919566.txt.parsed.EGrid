@@ -1,0 +1,7 @@
+             DISABLE O - -
+             DEFAULT X - -
+                SUDO O - -
+                USER X - -
+/ETC/APT/SOURCES.LIST - - O
+             APT-GET - - S
+        DIST-UPGRADE - - O

@@ -1,0 +1,10 @@
+             PROCESS X - -
+               REGEX X - -
+             PATTERN O - -
+               PKILL - X -
+              NVIDIA - - X
+             DRIVERS - - S
+           SPECIALTY - - O
+                USER - - O
+               GROUP - - X
+              KERNEL - - O

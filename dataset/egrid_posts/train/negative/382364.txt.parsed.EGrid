@@ -1,0 +1,15 @@
+                FSCK O - - - - - - - - -
+               DRIVE - S - - - - S - - -
+           SATA/PATA - - X - - - - - - -
+               DMESG - - - - - S - - - -
+        DRIVE-ERRORS - - - - - O - - - -
+              DRIVER - - - - - X - - - -
+                 BUG - - - - - O - - - -
+                BIOS - - - - - - X - - -
+              OPTION - - - - - - O - - -
+          CONTROLLER - - - - - - O - - -
+                MODE - - - - - - X - - -
+             EXT3-FS - - - - - - - S - -
+                SDB1 - - - - - - - X - -
+             FEATURE - - - - - - - X - -
+                   U - - - - - - - - - O

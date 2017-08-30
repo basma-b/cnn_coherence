@@ -1,0 +1,17 @@
+                TIME - X - - - - - - - - -
+               RSYNC - O O - - - - - - - -
+              DAEMON - O X X - - - - - - -
+                BOOT - X - - - - - - - - -
+             ANYBODY - - X - - - - - - - -
+                 SSH - - - X - - - - - - -
+                 USE - - - - X - - - - - -
+           LOCALHOST - - - - X - - - - - -
+                USER - - - - - S - - - - -
+           127.0.0.1 - - - - - O - - - - -
+           /NEW/PATH - - - - - X - - - - -
+                THAT - - - - - - S - - - -
+            PROGRESS - - - - - - - - X - -
+        ~/.FOLDERONE - - - - - - - - X - -
+        ~/.FOLDERTWO - - - - - - - - X - -
+                 WAY - - - - - - - - - X -
+          EXPERIMENT - - - - - - - - - X -

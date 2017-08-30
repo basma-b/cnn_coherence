@@ -1,0 +1,18 @@
+             COMMAND X - - - -
+             APT-KEY X S - - -
+                PAGE - S - - -
+                HTTP - S - - X
+                  S1 - S - - -
+                  -O - S - - -
+               ERROR - O - - -
+                 GPG - - - X -
+                FILE - - - X -
+           DIRECTORY - - - X -
+                WORK - - - X -
+                LINE - - - - S
+              SOURCE - - - - X
+                LIST - - - - X
+                 DEB - - - - X
+//DEBIAN.ERLYVIDEO.ORG - - - - X
+             BINARY/ - - - - X
+/ETC/APT/SOURCES.LIST - - - - X

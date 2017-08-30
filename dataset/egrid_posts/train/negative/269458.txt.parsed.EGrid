@@ -1,0 +1,29 @@
+          RESOLUTION O - - - X - -
+           1280X1024 X - - - - - -
+           1600X1200 - X - - - - -
+           XORG.CONF - X - - - - -
+                LIST - O - - O - -
+         RESOLUTIONS - X - - X - -
+             MONITOR - X - - - - -
+             SUPPORT - O - - - - -
+           FREQUENCY - X - - - - -
+                 USE - X - - X - -
+                 ATM - X - - - - -
+                85HZ - X - - - - -
+                 WAY - O O - - - -
+               STUFF - X - - - - -
+                THAT - - S - - - -
+               THERE - - S X - - -
+             REDHAT6 - - X - - - -
+                RATE - - - O - - -
+             DISPLAY - - - - X - -
+        XSERVER-XORG - - - - - O -
+                SUDO - - - - - - X
+             APT-GET - - - - - - S
+LANGUAGE-PACK-SV-BASE - - - - - - O
+            LANGUAGE - - - - - - X
+             PACKAGE - - - - - - O
+            KEYBOARD - - - - - - X
+            SETTINGS - - - - - - X
+                HTTP - - - - - - X
+//UBUNTU-TUTORIALS.COM/2008/01/31/CHANGING-THE-SYSTEM-KEYBOARD-MAPPING-ON-UBUNTU-DVORAK-VS-QWERTY/ - - - - - - X

@@ -1,0 +1,20 @@
+                 HEY X - - - - - - - -
+                BOOT X - - - - - - - -
+               STORE X - - - - - - - -
+               12.04 X S - - - - - - -
+                 THE - S - - - - - - -
+            MENU.LST - O - - - - - - -
+               GRUB2 - O - - - - - - -
+   /ETC/DEFAULT/GRUB - - X - - - - - -
+                 SET - - - X - - - - -
+      GRUB_TIMEOUT=2 - - - S - - - - -
+                MENU - - - S - - - - -
+                 BUG - - - O - - - - -
+             OPTIONS - - - - X - - - -
+GRUB_HIDDEN_TIMEOUT=0 - - - - X - - - -
+                   A - - - - - S - - -
+              SERVER - - - - - X - - -
+         SUGGESTIONS - - - - - - O - -
+             NTFS-3G - - - - - - - S -
+          /ETC/FSTAB - - - - - - - S -
+CREDENTIALS=/HOME/CREDENTIALS - - - - - - - - X

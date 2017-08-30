@@ -1,0 +1,16 @@
+                ROOT - S O - - O -
+             DEFAULT - X - - - X -
+              UBUNTU - X - - - - -
+                USER - X - - - O -
+                SUDO - X S S - - O
+                THAT - - O - - - -
+                 USE - - X - - - -
+              VISUDO - - O - - - -
+                NANO - - X - - - -
+        /ETC/SUDOERS - - X X - - -
+                FILE - - X - - - -
+                PRIV - - - O - - -
+             COMMAND - - - X - - -
+               THERE - - - - - S -
+                 ALL - - - - - S -
+                  SU - - - - - - O

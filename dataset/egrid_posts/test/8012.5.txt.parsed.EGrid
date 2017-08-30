@@ -1,0 +1,23 @@
+                  AV - S - - -
+                   > - X - - -
+                ANTI - X - - -
+               VIRUS - O - - -
+GRUB_TERMINAL=CONSOLE - - O - -
+   /ETC/DEFAULT/GRUB - - X - -
+         UPDATE-GRUB - - X O -
+                 BUG - - X - -
+              REPORT - - X - -
+             COMMENT - - X - -
+                BOOT - - - X -
+                 ALL - - - X -
+              CHROOT - - - X -
+              LIVECD - - - X -
+                MODE - - - O -
+                GRUB - - - X X
+               PRESS - - - X -
+                   C - - - X -
+                MENU - - - X -
+     TERMINAL_OUTPUT - - - X -
+                S/TO - - - - S
+             MENU/TO - - - - S
+              SHELL/ - - - - X

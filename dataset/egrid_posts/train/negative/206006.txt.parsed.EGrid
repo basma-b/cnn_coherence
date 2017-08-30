@@ -1,0 +1,17 @@
+               SHARE X - - - -
+                   > S - - - -
+              SERVER X - - - -
+             COMMAND X - - - -
+                LINE X - X - -
+             SESSION - X - - -
+               SETUP - X - - -
+              ERRDOS - X - - -
+         ERRNOACCESS - X - - -
+              ACCESS - S - - -
+               MOUNT - - - X -
+                  -T - - - X -
+               SMBFS - - - S -
+          USERNAME=U - - - O -
+             CONFIGS - - - - O
+                 DAY - - - - O
+                   P - - - - X

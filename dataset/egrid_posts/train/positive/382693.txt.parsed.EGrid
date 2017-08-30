@@ -1,0 +1,20 @@
+          PERMISSION X - - - - - -
+      /USR/SBIN/SSHD X - X S - - -
+                ROOT O - - S - - -
+              ANYONE - X - - - - -
+             COMMAND - - X - - - -
+                 RUN - - - X - - -
+                COPY - - - X - - -
+                  OK - - - - X - -
+               -RSB- - - - - O - -
+                 ALL - - - - O - -
+                THIS - - - - X - -
+                  .. - - - - X - -
+                PORT - - - - O X -
+            COMPUTER - - - - X - -
+             NETWORK - - - - X - -
+               THERE - - - - - S -
+          CONNECTION - - - - - O -
+              SERVER - - - - - S -
+              NUMBER - - - - - - X
+/ETC/SSH/SSHD_CONFIG - - - - - - X

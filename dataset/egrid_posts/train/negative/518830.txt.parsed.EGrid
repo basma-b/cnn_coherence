@@ -1,0 +1,15 @@
+               SETUP X - - - - - -
+               FORCE X - - - - - -
+                NTFS X - - - - - -
+           PARTITION X - - - - - S
+              ERRORS S - - - - - -
+            QUESTION - O - - - - -
+               FSTAB - - X - - - -
+                 MAN - - X - - - -
+                READ - - - X - - -
+               START - - - X - - -
+                 HAL - - - - - S -
+                 NFS - - - - - X -
+               SHARE - - - - - O -
+              /MEDIA - - - - - X -
+  /MEDIA/HOME-BACKUP - - - - - - S

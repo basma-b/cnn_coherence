@@ -1,0 +1,14 @@
+                HELP O - - - - - - -
+           PARTITION - O - - - - - O
+            /DEV/SDB - X - - - - - -
+          FILESYSTEM - O - O - - - -
+                  -L - - X - - - - -
+                   * - - X - - - - -
+        INSTALLATION - - - S - - - -
+                BASE - - - S - - - -
+               MEDIA - - - S - - - -
+             COMMAND - - - - X - - -
+              OUTPUT - - - - - X - -
+               FDISK - - - - - - - O
+              MKE2FS - - - - - - - O
+           /DEV/SDB1 - - - - - - - X

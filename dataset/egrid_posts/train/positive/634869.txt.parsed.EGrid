@@ -1,0 +1,17 @@
+             PROCESS X S S O -
+                EXIT X - - - O
+                BASH X - - - -
+            CHILDREN - O - - -
+               SHELL - X - - -
+                LIST - O - - -
+                  PS - X - - -
+               CHILD - O - - -
+                WAIT - - S - -
+              FINISH - - X - -
+     SUCCESSFULL/NOT - - X - -
+         SUCCESSFULL - - O - -
+    PROCESS/PROGRAMM - - O - -
+                  || - - - X -
+-PROCESS-RUN-ON-FAIL - - - O -
+            LAUNCHER - - - - O
+                GAME - - - - X

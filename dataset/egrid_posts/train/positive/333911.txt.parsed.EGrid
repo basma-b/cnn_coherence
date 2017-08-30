@@ -1,0 +1,15 @@
+              SERVER S - - - -
+                USER O - S - -
+                ROOT S - X - -
+                 LOG X - - - -
+                FILE O - - - -
+                   * X - - - -
+                STAT O - - - -
+              STATUS O - - - -
+          PERMISSION S - - - -
+                HELP O - - - -
+                 BOX O - - - -
+            USERNAME X - - - -
+               THING - O - - -
+                SUDO - O O - -
+            PASSWORD - - O - X

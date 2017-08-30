@@ -1,0 +1,10 @@
+             PACKAGE X - - - -
+                 USE S - - - -
+              SYSTEM X - - - -
+        INSTALLATION X - - - -
+      /VAR/CACHE/APT - X - - -
+                TOOL - O - - -
+           GSTREAMER - - - X -
+             BACKEND - - - X -
+                 MP3 - - - - O
+                 AAC - - - - X

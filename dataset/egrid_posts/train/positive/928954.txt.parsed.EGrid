@@ -1,0 +1,16 @@
+  /ETC/X11/XORG.CONF X - - - -
+             MACHINE X - - - -
+                 EYE - S - - -
+             DEFAULT - X - - -
+              ACCESS - O - - -
+                BASE - X - - -
+                 CUP - X - - -
+               ADMIN - X - - -
+                THIS - S - - -
+              METHOD - - O - -
+            PRINTERS - - X - -
+                 IMO - - X - -
+             PRINTER - - O - -
+               THING - - X - -
+               SETUP - - X - -
+       LOCALHOST:631 - - - - S

@@ -1,0 +1,17 @@
+            WIRELESS X - - - - -
+             NETWORK X O X - - -
+                SUDO - X - - X -
+              IWLIST - X - - - -
+                   < - X - - X -
+               IFACE - X - - - -
+                   > - S - - S -
+              DPENDS - O - - - -
+                 USE - O - - - -
+           CONECTION - X - - - -
+             MONITOR - X - - - -
+             MANAGER - - X - - -
+                IFUP - - - - X -
+              SERVER - - - - X -
+              KERNEL - - - - S -
+                 PAE - - - - O -
+                BITS - - - - - O

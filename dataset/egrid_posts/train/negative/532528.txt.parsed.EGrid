@@ -1,0 +1,16 @@
+          LD_PRELOAD X - - -
+             OPTIONS S - - -
+                 ONE X - - -
+             COMMAND X - - -
+                LINE O - - -
+                MENU X - - X
+                ITEM X - - -
+        APPLICATIONS X - - -
+         APPLICATION - X - -
+              KOPETE - - X -
+               GNOME - - X X
+               ENTRY - - - O
+               THERE - - - S
+                 LOT - - - O
+                DOCS - - - X
+               MENUS - - - X

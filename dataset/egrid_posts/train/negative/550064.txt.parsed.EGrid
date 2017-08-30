@@ -1,0 +1,13 @@
+              ANYONE X - - -
+             DEFAULT X - - -
+          READ/WRITE X - - -
+         PERMISSIONS O - O -
+               DRIVE X - - -
+                 USB - S S -
+                SUDO - S S -
+                   < - X O -
+                NAME - S - -
+            TERMINAL - - X -
+                TYPE - - X -
+                LOOP - - - X
+                  .. - - - X

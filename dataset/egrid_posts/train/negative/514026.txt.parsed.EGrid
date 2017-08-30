@@ -1,0 +1,16 @@
+             POWERPC - X - - - - - - - -
+                 BUG - O - - - O - - - -
+                BUGS - - - S - - - - - -
+           GNOMETRIS - - - X - - - - - -
+             LIFEREA - - - X - - - - - -
+                YELP - - - X - - - - - -
+               CRASH - - - O - - - - - -
+             SIGSEGV - - - X - - - - - -
+SIGNAL_EMIT_UNLOCKED_R - - - X - - - - - -
+/BUILD/BUILDD/GLIB2.0-2.18.2/GOBJECT/GSIGNAL.C - - - X - - - - - -
+                 ALL - - - - X - - - - -
+        ARCHITECTURE - - - - X - - - - -
+               THESE - - - - - X - - - -
+         UBUNTU-BUGS - - - - - - X - - -
+                IDEA - - - - - - - - - O
+              APACHE - - - - - - - - - S

@@ -1,0 +1,10 @@
+              FORMAT X X - - - X - - - - -
+               SPACE X X - - - - - - - - -
+            REISERFS X X - - - - - - - - -
+                SWAP X X - - - S - - - - -
+            /DEV/FOO - - - - - X - - - - -
+                   < - - - - - O - - - - -
+             EXAMPLE - - - - - X - - - - -
+               FDISK - - - - - - S - - - -
+             COMMAND - - - - - - O - - - -
+                HELP - - - - - - - - - X -

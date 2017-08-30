@@ -1,0 +1,13 @@
+             CONNECT X - - -
+              ROUTER X - - -
+         192.168.1.1 S - - -
+               ERROR S - - -
+              TELNET X - - -
+                 USE O - - -
+               MODEM - O - -
+                DISK - X - -
+        CONGRULATION - X - -
+               PPPOE - X - -
+              SERVER - O - -
+            IP.COULD - X - -
+                 YES - - - X

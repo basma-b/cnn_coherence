@@ -1,0 +1,16 @@
+          DIFFERENCE X - - - -
+                 VNC X - - - -
+               RDPV5 X - - - -
+                 RDP - S - - -
+                   M - X - - -
+            PROTOCOL - O - - -
+              DEVICE - X - - -
+              TUNNEL - O - - -
+             WINDOWS - - X - -
+                  XP - - X - -
+              SYSTEM - - X - -
+            TERMINAL - - X - -
+              SERVER - - X - -
+              CLIENT - - X - -
+                SUDO - - - - X
+             APT-GET - - - - S

@@ -1,0 +1,14 @@
+              UBUNTU S - - - - -
+                 CPU X X - - - -
+                 WAY - X - - - -
+                ACPI - - X - - -
+               LIMIT - - X - - -
+               REACH - - X - - -
+           PROCESSOR - - - X - -
+               1/0X1 - - - S - -
+              KERNEL - - - - - X
+                BOOT - - - - - X
+              OPTION - - - - - X
+            ACPI=OFF - - - - - O
+                 SMP - - - - - X
+              SYSTEM - - - - - X

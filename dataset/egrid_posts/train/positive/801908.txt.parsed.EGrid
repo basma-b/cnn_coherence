@@ -1,0 +1,21 @@
+           REVISIONS S - - - -
+         INSTRUCTION X - - - -
+               STUFF - S S - -
+                I686 - S S - -
+                  P2 - X - - -
+        INSTRUCTIONS - - O - -
+                  P1 - - X - -
+                 ALL - - X - -
+                PORT - - S - -
+/ETC/SSH/SSHD_CONFIG - - X - -
+              RELOAD - - X - -
+                SSHD - - X - -
+                PATH - - O - -
+               /LIST - - - S -
+          PARAMATERS - - - X -
+             CHANNEL - - - X -
+                DATA - - - - X
+              BUFFER - - - - O
+              SERVER - - - - X
+                KICK - - - - O
+                 IRC - - - - X

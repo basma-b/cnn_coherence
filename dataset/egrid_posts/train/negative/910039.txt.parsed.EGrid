@@ -1,0 +1,16 @@
+              KERNEL O X -
+               2.6.9 X - -
+                WORK X - -
+                LILO X - -
+                GRUB O - -
+              INITRD - S -
+               PATCH - O -
+            FBSPLASH - X -
+              CONFIG - S -
+                SAME - X -
+               THING - X -
+               11.10 - - O
+                SUDO - - X
+             SERVICE - - X
+             LIGHTDM - - S
+                 GDM - - X

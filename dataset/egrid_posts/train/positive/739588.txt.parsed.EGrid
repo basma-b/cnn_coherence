@@ -1,0 +1,17 @@
+             CRONTAB S - S S - S
+              SOURCE O - O - - -
+                   * X - X - - -
+    /USR/BIN/FIREFOX S - S - - -
+             FIREFOX X X X - - X
+               OPEND X - - - - -
+             NOTHING O S S O - -
+             COMMAND - S - - - -
+             DISPLAY - - - X - -
+         ENVIRONMENT - - - X - -
+               SETUP - - - O - -
+               THERE - - - S - -
+              TESUJI - - - X - -
+                WORK - - - X - O
+     /TMP/MYFILE.TXT - - - - - O
+                TEST - - - - - X
+                FINE - - - - - O

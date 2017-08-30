@@ -1,0 +1,12 @@
+               FLASH S - - - -
+           SOUNDCARD O - - - -
+                SUDO - X - - -
+            MODPROBE - X - - -
+            ALSA-OSS - X - - -
+             FIREFOX - O - - -
+        /ETC/MODULES - O - - -
+               THERE - X - - -
+              MODULE - X - - -
+            ALSA_OSS - S - - -
+             VERSION - - X - -
+               HARDY - - - - X

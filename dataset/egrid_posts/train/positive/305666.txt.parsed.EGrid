@@ -1,0 +1,35 @@
+              LAPTOP O - - - - -
+                WIFI X - - - - -
+                CARD X O - - - -
+              KERNEL X - - - - -
+             UPGRADE X - - - - -
+             PACKAGE - O - - - -
+     UBUNTUGUIDE.ORG - X - - - -
+              DRIVER - O - - - -
+            WIRELESS - X - - - -
+             NETWORK - O - - - -
+NETWORK-MANAGER-GNOME - S - - - -
+              CIRCLE - X - - - -
+              ANYONE - S - - - -
+               SETUP - X - - - -
+                   * - X - - - -
+                THAT - - O - O -
+             PROBLEM - - O - - -
+/ETC/NETWORK/INTERFACES - - S - - -
+                SSID - - X - - S
+                  IP - - X - O -
+             ADDRESS - - O - - -
+                AUTO - - X - - -
+               WLAN0 - - S - - -
+               IFACE - - X - - -
+                DHCP - - X - - -
+      WIRELESS-ESSID - - X - - -
+           YOUR_SSID - - X - - -
+                  AP - - S - - -
+                 WPA - - - X O -
+            ANYTHING - - - O - -
+                 USE - - - - X -
+                FILE - - - - X -
+           DHCLIENT3 - - - - O -
+            TERMINAL - - - - X -
+               SPACE - - - - - O

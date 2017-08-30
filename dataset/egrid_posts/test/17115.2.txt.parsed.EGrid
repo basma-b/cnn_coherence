@@ -1,0 +1,26 @@
+               THING S - - - - - - -
+                CANT X - - - - - - -
+             PYTHON3 S - - O - O - -
+                HOSE X - - - - - - -
+  APT-ADD-REPOSITORY O - - - - - - -
+             APT-GET S - - - - S S -
+              ERRORS O - - - - - - -
+                HTTP - O - - X - X -
+            SYNAPTIC - O O S - - - -
+            PROBLEMS - O - - - - - -
+               ERROR - - O - - - - -
+                SUDO - - - X - - - -
+                 END - - - X - - - -
+            APTITUDE - - - S - - - -
+                  -F - - - S - - - -
+              PYTHON - - - X - - S -
+              OUTPUT - - - - O - - -
+                 CAT - - - - X - - -
+/ETC/APT/SOURCES.LIST - - - - X - - -
+        REPOSITORIES - - - - S - - -
+             PROBLEM - - - - X - - -
+                 LOT - - - - - O - -
+             PACKAGE - - - - - X - -
+ PYTHON3-DISTUPGRADE - - - - - - O -
+             VERSION - - - - - - S -
+                 YES - - - - - - - X

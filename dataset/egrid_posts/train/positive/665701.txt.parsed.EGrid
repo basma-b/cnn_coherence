@@ -1,0 +1,11 @@
+                THIS X - -
+          PERMISSION X - -
+                  CD X - -
+    /VAR/LOG/APACHE2 X - -
+          ACCESS.LOG X - -
+                   > X - -
+       ACCESS.LOG.GZ X - -
+                ROOT - S -
+              ACCESS - O -
+                SUDO - X O
+                  -S - X X

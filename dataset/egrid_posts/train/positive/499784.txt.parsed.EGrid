@@ -1,0 +1,12 @@
+              STRING X - - - -
+              FOLDER X - - - X
+             COMMAND - O - - -
+                GREP - - X - -
+             CORRECT - - X - -
+                   < - - X - -
+            MYFOLDER - - X - -
+                   > - - X - -
+                  -R - - - - O
+                FILE - - - - O
+            ASTERISK - - - - O
+                NAME - - - - X

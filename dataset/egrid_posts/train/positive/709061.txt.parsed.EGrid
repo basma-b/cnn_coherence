@@ -1,0 +1,13 @@
+                LIST S O - -
+           PARTITION O X - -
+               START - O - -
+               HD0,5 - X - X
+                   / - X - -
+                FILE - X - -
+                BOOT - - X -
+                GRUB - - X -
+                WORK - - X -
+                 SET - - - X
+             PREFIX= - - - X
+         /BOOT/GRUB/ - - - X
+              INSMOD - - - S

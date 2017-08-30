@@ -1,0 +1,9 @@
+            IPTABLES S X -
+                USER O - -
+                 APP O - -
+           SOMETHING - O -
+              OUTPUT - X -
+                  -O - S -
+               OWNER - O -
+                  -J - S -
+             COMMAND - - X

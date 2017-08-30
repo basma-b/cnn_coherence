@@ -1,0 +1,14 @@
+   LIBFLASHPLAYER.SO O - - - -
+/USR/LIB/MOZILLA/PLUGINS X - - - -
+     CHROME/OPERA/FF X - - - -
+                 USE O - - - -
+             PLUGINS S - - - -
+                  .. O - - - -
+              REASON X - - - -
+             BROWSER - X - - -
+               OPERA - - X - -
+                 SET - - - O -
+             FIREFOX - - - S -
+                WORK - - - O -
+           SOMETHING - - - - X
+     /USR/LOCAL/BIN/ - - - - X

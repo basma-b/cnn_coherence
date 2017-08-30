@@ -1,0 +1,22 @@
+NET.IPV4.NETFILTER.IP_CONNTRACK_MAX=XXXX X - - - -
+              SYSCTL - S - - -
+                IIRC - X - - -
+NET.IPV4.NETFILTER.IP_CONNTRACK_MAX - S - - -
+                 KEY - X - - -
+                 HMM - O - - -
+              GOOGLE - S - - -
+              ANSWER - O - - -
+                DICE - - S - -
+             SOMEONE - - O - -
+             PROBLEM - - O - -
+            SOLUTION - - S - -
+                   | - - X - -
+                GREP - - X - -
+              IP_CON - - O - -
+               THERE - - S - -
+               TRACK - - O - -
+              MODULE - - X - -
+           SOMETHING - - O - -
+        NF_CONNTRACK - - - - X
+                NAME - - - - X
+               ISSUE - - - - O

@@ -1,0 +1,10 @@
+           BACKTRACK - X - -
+                   | - S - -
+             SUPPORT - X - -
+                  .. - X - -
+        REPOSITORIES - O - -
+             DISTROS - - S -
+              CENTOS - - X -
+            QEMU-KVM - - O -
+              KERNEL - - - O
+                 XEN - - - S

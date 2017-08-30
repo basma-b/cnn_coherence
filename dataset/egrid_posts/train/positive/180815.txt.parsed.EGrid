@@ -1,0 +1,14 @@
+         XORG.CONFIG X X - -
+               THERE X X - -
+             COMMAND X X - -
+            GRAPHICS X X - -
+              DRIVER S S - -
+                 USE O O - X
+               LSMOD - - X -
+                   | - - S -
+                  NV - - X -
+              NVIDIA - - X -
+                 ATI - - X -
+               FGLRX - - O -
+            WHATEVER - - O -
+                 ONE - - - X

@@ -1,0 +1,17 @@
+                DATA O - - - - -
+             WINDOWS X - - - - -
+              VOLUME X - - - - -
+                BOOT - O - - - -
+                  CD - O - O - -
+               DRIVE - O - - - -
+               ERROR - - S - - -
+     NTFS_ATTR_PREAD - - S - - -
+                  .. - - O - - -
+              ADVICE - - X - - -
+                BASE - - X - - -
+                INFO - - X - - -
+                LINE - - X - - -
+              RESCUE - - - X - -
+                KIND - - - X - -
+                TASK - - - X - -
+               FSTAB - - - - - O

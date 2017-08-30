@@ -1,0 +1,16 @@
+               128MB S - - -
+             DEFAULT X - - -
+           GRAPHICAL X - - -
+                64MB S - - -
+             CMDLINE X - - -
+               LIMIT S - - -
+         SUGGESTIONS O - - -
+              SYSTEM X - O -
+                128M X - - -
+                DONT - - X -
+               DUNNO - - X -
+                 RAM - - X -
+                 GDM - - - S
+                  CD - - - O
+            TERMINAL - - - X
+              STARTX - - - O

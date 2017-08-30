@@ -1,0 +1,24 @@
+               THERE - X - - - - - - -
+                ROOT - X - - - - - - -
+            PASSWORD - X - - - - - - -
+             INSTALL - X - - - - - - -
+LIBMYSQLCLIENT12-DEV - - X O - - - - -
+                FILE - - X - - - - - -
+  /VAR/LIB/DPKG/LOCK - - O - X - - - -
+          PERMISSION - - X - - - - - -
+      ADMINISTRATION - - X - - - - - -
+           DIRECTORY - - O - - - - - -
+      /VAR/LIB/DPKG/ - - X - - - - - -
+                SUDO - - - X - - - - -
+            APTITUDE - - - S - - - - -
+                   E - - - - O - - - -
+                OPEN - - - - X - - - -
+            RESOURCE - - - - X - - - -
+                NEWS - - - - - X - - -
+               KINDA - - - - - - X - -
+                 GUY - - - - - - O - -
+             COLLEGE - - - - - - - X -
+            STUDENTS - - - - - - - S -
+              FORUMS - - - - - - - X -
+            QUESTION - - - - - - - O -
+               WHILE - - - - - - - X -

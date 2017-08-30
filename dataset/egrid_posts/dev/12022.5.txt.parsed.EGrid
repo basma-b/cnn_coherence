@@ -1,0 +1,10 @@
+               12.04 O - - -
+               SOUND X - - -
+                CHIP X - - -
+                CARD X O - -
+                  .. O - - -
+         SUGGESTIONS O - - -
+               LSPCI - S - -
+                  -L - S - -
+           ALSA-BASE - O - -
+              SYSLOG - - - X

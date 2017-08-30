@@ -1,0 +1,23 @@
+              KERNEL X - - - - -
+             MODULES S - - - - -
+                DKMS X - - - - -
+VALUE/WORST/THRESHOLD O - - - - -
+              NUMBER - X - - - -
+               FIELD - - X - - -
+               WORST - - S - O -
+               VALUE - - X - S -
+ RAW_READ_ERROR_RATE - - X - - -
+        MANUFACTURER - - - - X -
+            STANDARD - - - - S -
+               DRIVE - - - - X -
+              SIGNAL - - - - X -
+             FAILURE - - - - X -
+           THRESHOLD - - - - S -
+                HINT - - - - O -
+                RATE - - - - S -
+              ERRORS - - - - X -
+            FESTIVAL - - - - - S
+                TOOL - - - - - O
+            SOFTWARE - - - - - S
+                LIST - - - - - X
+             SOMEONE - - - - - O

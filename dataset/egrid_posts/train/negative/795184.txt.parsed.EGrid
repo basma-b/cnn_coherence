@@ -1,0 +1,15 @@
+              FOLDER O O - O O - - -
+           PARTITION X - - X - - - -
+          PERMISSION O O - O O - - -
+         APPLICATION X - - X - - O -
+                  .. - O - - O - - -
+              MYUSER - X - - X - - -
+              FIDDLE - X - - X - - -
+             OPTIONS - X - - X - - -
+                ROOT - S - - S - - -
+               OWNER - O - - O - - -
+                WONT - X - - X - - -
+                SUDO - - - - - - X -
+             ACCOUNT - - - - - - - X
+              PEOPLE - - - - - - - S
+            UPSTREAM - - - - - - - X

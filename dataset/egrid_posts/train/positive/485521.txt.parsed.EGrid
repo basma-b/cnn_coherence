@@ -1,0 +1,11 @@
+         PERMISSIONS S - -
+               USERS X - -
+                FILE O - X
+              ACCESS - O -
+           DIRECTORY - X -
+             XINTRON - - X
+               LOCAE - - O
+              THINGS - - X
+              SYSTEM - - X
+                  .. - - X
+                UNOP - - X

@@ -1,0 +1,17 @@
+                 HEY S - -
+            FIREWALL X - -
+                DAYS X - -
+             BUILTIN - O -
+            IPTABLES - S -
+            FRONTEND - S -
+             DEFAULT - X -
+                PORT - O -
+                  NO - X -
+              NOBODY - S -
+             WINDOWS - X X
+           BEHAVIOUR - O -
+                IMHO - - S
+            BEHAVIOR - - X
+             ATTEMPT - - X
+               USERS - - O
+                 USE - - X

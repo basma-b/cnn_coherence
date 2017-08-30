@@ -1,0 +1,12 @@
+              DRIVER - - X - - - - -
+                LOAD - - X - - - - -
+           INTERFACE - - X - - - - -
+                WLAN - - - X - - - -
+                CHIP - - - X - - - -
+             BCM4318 - - - - X - - -
+             SUPPORT - - - - - O - -
+               LINUX - - - - - X - -
+              2.6.24 - - - - - X - -
+         NDISWRAPPER - - - - - - S -
+            FIRMWARE - - - - - - - S
+             GARBAGE - - - - - - - X

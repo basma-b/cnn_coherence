@@ -1,0 +1,13 @@
+              ANYONE X - - - - - - -
+                 USE S - - - - - - -
+              DEVICE - - - - X - - -
+                SUDO - - - - X - - -
+               MKNOD - - - - X - - -
+                FINE - - - - X - - -
+                PPPD - - - - O - S -
+                USER - - - - - X - -
+            /DEV/PPP - - - - - - O X
+                  PS - - - - - - X -
+               GROUP - - - - - - S X
+                 WAY - - - - - - X S
+               OWNER - - - - - - - O

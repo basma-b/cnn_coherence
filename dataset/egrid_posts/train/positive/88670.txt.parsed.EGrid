@@ -1,0 +1,7 @@
+         RECONFIGURE X - -
+             OPTIONS X - -
+             DISPLAY X - -
+                SUDO - X -
+    DPKG-RECONFIGURE - X -
+        XSERVER-XORG - X -
+          XF86CONFIG - - X

@@ -1,0 +1,10 @@
+               THING O - - - - -
+              CONFIG X - - - - -
+                  .. - X - - - -
+    /ETC/VSFTPD.CONF - - X - - -
+PAM_SERVICE_NAME=VSFTPD - - X - - -
+                   > - - X - - -
+PAM_SERVICE_NAME=FTP - - X - - -
+                MINT - - - S - X
+              CHANGE - - - O - -
+             CHANNEL - - - - - S

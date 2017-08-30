@@ -1,0 +1,13 @@
+       PREREQUISITES X - - -
+             APT-GET S - - -
+              CHROOT X X - -
+                  .. - O - X
+               ERROR - X - -
+                   U - X - -
+              NORMAL - - - S
+                LUKS - - - X
+                ROOT - - - S
+                DISK - - - X
+               11.04 - - - X
+               /ROOT - - - X
+             NOTHING - - - X

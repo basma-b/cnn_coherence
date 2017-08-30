@@ -1,0 +1,17 @@
+                 ALL S - - - - -
+              SCREEN O - - - - -
+              EFFECT O - - - - -
+             COMMAND O - - - - -
+       /LIB/MODULES/ - S - - - -
+                  -R - X X - - -
+                FILE - X - - - -
+           DIRECTORY - O - - - -
+                  CD - - S - - -
+           /VOLATILE - - O - - -
+                  .. - - X - - O
+      /MISC/FGRLX.KO - - O - - -
+                   < - - - X - -
+              PERIOD - - - X - -
+                  OK - - - S - -
+                 HUM - - - - - X
+                 BAD - - - - - X

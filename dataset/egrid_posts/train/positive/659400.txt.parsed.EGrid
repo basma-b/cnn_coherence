@@ -1,0 +1,15 @@
+                9.04 X - - - - - -
+                9.10 X - - - - - -
+                WEEK X - - - - - -
+                BOOT X - - - - - -
+           /DEV/SDA1 O - - - - - -
+               ERROR X S - - - - S
+             RESTART - X - - - - -
+              KERNEL - - X - - - -
+2.6.31-16-GENERIC-PAE - - X - - - -
+                CLUE - - - X - - -
+          /ETC/FSTAB - - - - X - -
+                FILE - - - - O - -
+                UUID - - - - X - O
+              DEVICE - - - - - - X
+                NAME - - - - - - X

@@ -1,0 +1,14 @@
+               RIGHT O - - - -
+                GRUB - X - - -
+                TEST - S - - -
+            GRAPHICS - X - - -
+               VIDEO - X - - -
+                MODE - X - - -
+             SUPPORT - X - - -
+           NOMODESET - O - - -
+                BOOT - X - - -
+               IMAGE - O - - -
+                CCSM - - - - S
+                MESS - - - - X
+              EFFECT - - - - X
+             SESSION - - - - X

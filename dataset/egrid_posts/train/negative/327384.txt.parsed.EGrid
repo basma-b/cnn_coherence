@@ -1,0 +1,17 @@
+            SYMLINKS X - -
+         PERMISSIONS S - -
+           /DEV/DSP1 S - -
+           DIRECTORY - S -
+                BOOT - O -
+             SYMLINK - O -
+                MESS - X -
+               SETUP - X -
+               ENTRY - O -
+                 DSP - X -
+              DEVICE - X -
+                   * - X -
+                SIGH - S -
+                INFO - X -
+               MOUSE - - X
+                   > - - X
+               CLICK - - S

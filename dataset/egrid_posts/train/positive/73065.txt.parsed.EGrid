@@ -1,0 +1,12 @@
+                 RUN - O - - -
+                FILE - O - - -
+               RC3.D - X - - -
+            S20SAMBA - X - - -
+            X20SAMBA - X - - -
+                STOP - - S - -
+                SUDO - - X - -
+   /ETC/INIT.D/SAMBA - - X - -
+             STARTUP - - X - -
+         UPDATE-RC.D - - X - -
+             SERVICE - - X - -
+                 BUM - - X X -

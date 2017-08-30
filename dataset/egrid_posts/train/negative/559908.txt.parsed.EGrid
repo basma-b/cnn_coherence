@@ -1,0 +1,15 @@
+                HOST S X - - - -
+              CHANGE O - - - - -
+                 RSA X - - - - -
+                 KEY O O - - - -
+              POLICY X - - - - -
+                THAT - S - S - -
+                 SSH - X - - - -
+               ENTRY - S - - - -
+    .SSH/KNOWN_HOSTS - X - - - -
+               THERE - X - - - -
+  ~/.SSH/KNOWN_HOSTS - X - - - -
+          ZERO-BASED - - X - - -
+            QUESTION - - - O - -
+                FILE - - - O - -
+             MPLAYER - - - - - X

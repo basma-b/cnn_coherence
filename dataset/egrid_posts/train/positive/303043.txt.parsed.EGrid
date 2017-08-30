@@ -1,0 +1,10 @@
+            RUNLEVEL O O O O - - -
+        /ETC/INITTAB - X - - X - -
+             PROCESS - X - - - - -
+                BOOT - - X X - - -
+                  .. - - - X - - -
+             DEFAULT - - - X - - -
+               SORRY - - - - X - -
+              THINGS - - - - S - -
+       /ETC/EVENT.D/ - - - - X - -
+               THANK - - - - - - X

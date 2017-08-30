@@ -1,0 +1,16 @@
+             COMMAND X S - - - - - -
+                  DD - X - - - - - -
+        IF=/DEV/ZERO - S - - - - - -
+             COUNT=1 - S - - - - - -
+                 USB - X - - - - X -
+              FORMAT - - O S - - O -
+                 USE - - - X - - - -
+             GPARTED - - - S - - - -
+           PARTITION - - - - O - - -
+                DATA - - - - - S O -
+               STICK - - - - - - X -
+                GRUB - - - - - - O -
+               THERE - - - - - - S -
+          SCREENSHOT - - - - - - X -
+                HTTP - - - - - - - X
+//S15.POSTIMAGE.ORG/KZGKB6G95/IMAGE.PNG - - - - - - - X

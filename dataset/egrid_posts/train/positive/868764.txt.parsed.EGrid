@@ -1,0 +1,18 @@
+                 GUY S - -
+            IPTABLES S - -
+             MACHINE X - -
+              REBOOT S - -
+             ADVANCE X - -
+           DR_WILLIS X - -
+    IPTABLES-RESTORE - S -
+                 UFW - O -
+                 WAY - O -
+              SCRIPT - O -
+/ETC/NETWORK/IP-DOWN.D - X -
+              ACTION - O -
+/OPT/SCRIPTS/FIREWALL.SH - O -
+             STARTUP - X -
+/ETC/INIT.D/PAISSAD.SH - X -
+          DIRECTIVES - O -
+                 LOT - - S
+                WAYS - - X

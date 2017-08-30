@@ -1,0 +1,10 @@
+                RULE O S - - - - - - - -
+            FIREWALL X - - - - - - - - -
+                PORT O - - - - - - S - -
+                NMAP X - - - - - - - - -
+                 ANY - - - S - - - - - -
+                THAT - - - - O - - - - -
+         THEFIREWALL - - - - S - - - - -
+                LIST - - - - - - - O - -
+            IPTABLES - - - - - - - O - -
+              UBUNTU - - - - - - - - - O

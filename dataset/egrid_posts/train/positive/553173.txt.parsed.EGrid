@@ -1,0 +1,23 @@
+          CONNECTION - X - - - - - - O -
+               START - O - - - - - - - -
+/ETC/INIT.D/NETWORKING - X - - - - - - - -
+            IFCONFIG - X - - - - - - - -
+             DOWN/UP - O - - - - - - - -
+                 GUI - - O - - - - - S -
+      NETWORKMANAGER - - X - - - - - X X
+               THERE - - X - - - - - - -
+           SOMETHING - - X - - - - - - -
+                 CLI - - X - - - - - X -
+            DHCLIENT - - - - X - X - - -
+                 USE - - - - - - O - X -
+           INTERFACE - - - - - - S - - -
+                SUDO - - - - - - X - - -
+                ETHX - - - - - - O - - -
+             NETWORK - - - - - - X - - O
+                 AHH - - - - - - - S - -
+                 ONE - - - - - - - O - -
+                WIRE - - - - - - - - X -
+    IFCONFIG/NETWORK - - - - - - - - X -
+    RESTART/DHCLIENT - - - - - - - - X -
+                  .. - - - - - - - - O -
+               EXECS - - - - - - - - S -

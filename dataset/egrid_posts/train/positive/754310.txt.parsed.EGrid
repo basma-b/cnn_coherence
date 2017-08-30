@@ -1,0 +1,14 @@
+                THRU S - - - - - - - -
+            IFCONFIG - S - - - - S - -
+             ADDRESS - O - - - - - - -
+          INTERFACES - X - - - - - - -
+                 NOT - - S - - - - - -
+                  IP - - X - - - - - -
+            WIRELESS - - X X - - - - -
+                CARD - - X X - - - - -
+                   D - - - - X - - - -
+                TYPE - - - - - - X - -
+                INET - - - - - - O - -
+                WORK - - - - - - - - O
+                   U - - - - - - - - X
+             COMMAND - - - - - - - - X

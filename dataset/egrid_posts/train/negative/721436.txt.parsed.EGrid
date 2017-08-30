@@ -1,0 +1,16 @@
+               START - O - - - - - - - -
+             SERVICE - X - - X - - - - -
+                 USE - X - - - - - - - -
+                  -A - X - - - - - - - -
+             OPTIONS - X - - - - - - - -
+              HOW/IS - - X - - - - - - -
+                THIS - - X - - - - - - -
+       CONFIGURATION - - - X - - - - - -
+                FILE - - - X - - - - - -
+             COMMAND - - - - O - - - - -
+         /ETC/INIT.D - - - - X - - - - -
+             ADDRESS - - - - X - - - - -
+        OIDENTD.CONF - - - - - O - O - -
+              SCRIPT - - - - - - S - - -
+ /ETC/INIT.D/OIDENTD - - - - - - O - - -
+                NOPE - - - - - - - - - X

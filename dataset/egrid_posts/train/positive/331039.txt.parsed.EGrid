@@ -1,0 +1,11 @@
+               LABEL X X - - - -
+                TYPE X - - - - -
+                EXT3 X - X - - -
+         FILESYSTEMS X - - - - -
+                DISK - X - - - -
+           PARTITION - X - - - -
+             STORAGE - - X - - -
+                  FS - - X - - -
+                ONES - - X - - -
+              REISER - - - S - -
+          FILESYSTEM - - - - - O

@@ -1,0 +1,13 @@
+        SOURCES.LIST O - -
+              REASON X - -
+                 USE - X -
+           PRIVILEGE - O -
+              GKSUDO - S -
+                   T - X -
+               HANKS - X -
+            DUALBOOT - - X
+                SWAP - - S
+                CASE - - X
+               CRYPT - - O
+                HOME - - S
+                NEED - - O

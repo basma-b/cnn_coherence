@@ -1,0 +1,17 @@
+                 USE X - - - -
+             MPLAYER X X - - -
+                 SSH X - - - -
+                THAT - O - - -
+               VIDEO - S - - -
+              SERVER - X - - -
+              CLIENT - X - - -
+              EXPORT - X - - -
+        DISPLAY=:0.0 - S - - -
+             COMMAND - X - - -
+            ARGUMENT - X - - -
+           SOMETHING - X - - -
+          PULSEAUDIO - - O - -
+              DAEMON - - X - -
+                MODE - - X - -
+             STARTUP - - X - -
+  WHATCHATALKINABOUT - - - - X

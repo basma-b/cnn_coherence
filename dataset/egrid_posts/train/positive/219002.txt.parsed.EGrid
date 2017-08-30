@@ -1,0 +1,14 @@
+            QUESTION O - -
+              SERVER S - -
+                HOME X - -
+           WEBSERVER X - -
+              BACKUP O - -
+             PROCESS O - -
+                 SSH - O -
+               RSYNC - S -
+             DEFAULT - X -
+                 KEY - X -
+            PASSWORD - O -
+                 JOB - O -
+                CRON - - X
+               HOWTO - - X

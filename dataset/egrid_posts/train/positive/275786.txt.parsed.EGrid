@@ -1,0 +1,10 @@
+        DEPENDENCIES - O - - - -
+          -RFAKEROOT - X - - - -
+             APT-GET - X - - - -
+            APTITUDE - X - - - -
+                 VLC - - O - - -
+             PACKAGE - - X S - -
+            DOWNLOAD - - X - - -
+             SUPPORT - - - O - -
+             LIBFLAC - - - - - O
+            SYNAPTIC - - - - - X

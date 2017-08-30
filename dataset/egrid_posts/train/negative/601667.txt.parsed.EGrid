@@ -1,0 +1,11 @@
+             KER.LOG X - - - - - - - - -
+             SYS.LOG X - - - - - - - - -
+                  TA X - - - - - - - - -
+              SYSLOG O - - - - - - - - -
+            KERN.LOG - - - O - - - - - -
+          KERN.LOG.0 - - - O - - - - - -
+                INFO - - - - - O - - - -
+                FILE - - - - - O - - - -
+                  IP - - - - - - - - X -
+                NMAP - - - - - - - - - S
+                PORT - - - - - - - - - O

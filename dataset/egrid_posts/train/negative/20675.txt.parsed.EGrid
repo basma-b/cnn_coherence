@@ -1,0 +1,14 @@
+              UBUNTU X - - - - - - - -
+              GENTOO X - - - - - - - -
+              COURSE - X - - - - - - -
+          INTERFACES - - - - X X - - -
+                FILE - - - - X - X - -
+     NETWORK-MANAGER - - - - O - - - -
+                 NIC - - - - - O - - -
+                 SET - - - - - O - - -
+/ETC/NETWORKMANAGER/NM-SYSTEM-SETTINGS.CONF - - - - - X - - -
+               WLAN0 - - - - - - - O -
+/ETC/NETWORK/INTERFACES - - - - - - - X -
+                  AP - - - - - - - X X
+         ASSOCIATION - - - - - - - X -
+               LOGIN - - - - - - - - X

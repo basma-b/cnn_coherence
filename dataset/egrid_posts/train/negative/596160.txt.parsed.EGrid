@@ -1,0 +1,16 @@
+/ETC/APPARMOR.D/USR.BIN.FRESHCLAM X - - - - - - - -
+                   < X - - - - - - - -
+                FILE X - - - - - - - -
+                THAT - S - - - - - - -
+              UPDATE - X - - - - - - -
+             MANAGER - X - - - - - - -
+              CLAMAV - S - - - - - - -
+             PACKAGE - O - - - - - - -
+           FRESHCLAM - S - - - - - - -
+                 SIG - X - - - - - - -
+             VEHICLE - O - - - - - - -
+            APTITUDE - - X - - - - - -
+              MOMENT - - - - S - - - -
+                LINK - - - - X - - - -
+               PANEL - - - - - - - S -
+              PIXELS - - - - - - - O -

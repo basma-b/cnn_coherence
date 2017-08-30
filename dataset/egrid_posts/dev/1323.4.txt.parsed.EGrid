@@ -1,0 +1,12 @@
+            ETHERNET X X - - -
+                CARD X - - - -
+            IFCONFIG X - - - -
+                 LEM - S - - -
+                LINK - X - - -
+               ENCAP - X - - -
+              HWADDR - X - - -
+                  MK - - X X -
+               FSTAB - - O - X
+                FILE - - - S -
+              PARTIS - - - O -
+               UUIDS - - - X -

@@ -1,0 +1,13 @@
+              MEMORY X - - -
+                BUSY X - - -
+            TRANSFER - S - -
+                  GO - X - -
+                 USE - X - -
+               RSYNC - O - -
+             PROGRAM - X - -
+                WONT - S - -
+                  IM - - S -
+                XFER - - S -
+              FINISH - - O -
+              ANSWER - - - O
+            QUESTION - - - X

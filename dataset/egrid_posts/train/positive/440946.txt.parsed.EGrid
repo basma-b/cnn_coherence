@@ -1,0 +1,17 @@
+                 SSH S - - - - -
+                 PUB X - - - - -
+                 KEY O - - - - -
+    AUTHENTIFICATION X - - - - -
+          ID_RSA.PUB - O - - - -
+             DESKTOP - X - - - -
+     AUTHORIZED_KEYS - X - - - -
+              SERVER - X - - - -
+            PASSWORD - X - - - -
+              LOGINS - - X - - -
+              DAEMON - - X - - -
+/ETC/SSH/SSHD_CONFIG - - - - - X
+                LINE - - - - - O
+                 RSA - - - - - X
+     AUTHENTICATIONS - - - - - X
+                MORE - - - - - X
+       UBUNTU-SERVER - - - - - O

@@ -1,0 +1,25 @@
+                MESS - O - - -
+              SYSTEM - X - - -
+           CURIOSITY - X - - -
+               STAGE - X - - -
+      NETWORKMANAGER - - X - -
+           INTERFACE - - X X -
+              MANAGE - - X - -
+               ENTRY - - - S -
+/ETC/NETWORK/INTERFACES - - - X -
+                STOP - - - X -
+                  NM - - - - S
+     /VAR/LOG/SYSLOG - - - - X
+                DHCP - - - - X
+             MESSAGE - - - - X
+                WIRE - - - - X
+             DEVICES - - - - S
+                COLD - - - - O
+             WINDOWS - - - - S
+           SOMETHING - - - - O
+            FIRMWARE - - - - X
+                LOOK - - - - X
+                 PCI - - - - X
+                  ID - - - - X
+                 NIC - - - - X
+         CROSS-CHECK - - - - X

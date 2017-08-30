@@ -1,0 +1,10 @@
+              SYSTEM S - - -
+             PROGRAM X - - -
+              LAUNCH O - - -
+              LOADER O X - -
+                GRUB X - - -
+             STARTUP - X - -
+             OPTIONS - X - -
+              REGARD - X - -
+ /BOOT/GRUB/MENU.LST - - X -
+                 ^^^ - - - X

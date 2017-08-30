@@ -1,0 +1,20 @@
+              DRIVER O - - X
+     NVIDIA-SETTINGS O - S -
+                 USE X - - -
+              NVIDIA X - - X
+                   X X X - -
+       CONFIGURATION - X - -
+                FILE - O - -
+      NVIDIA-XCONFIG - O O -
+                ROOT - X - -
+     SERVER.MOREOVER - O - -
+                SUDO - X X -
+             COMMAND - S - -
+                HELP - X - -
+              GKSUDO - X - -
+             APT-GET - S - -
+             PACKAGE - X - -
+              OUTPUT - - S -
+                  OK - - O -
+/USR/LIB/NVIDIA-CURRENT/BIN/NVIDIA-XCONFIG - - O -
+                THIS - - S -

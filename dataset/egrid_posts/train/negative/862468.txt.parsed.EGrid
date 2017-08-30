@@ -1,0 +1,10 @@
+               11.04 O - - - -
+           PARTITION O - - - -
+               11.10 O - - - -
+                WONT X - - - -
+                LOAD O - - - -
+                GRUB - X - - -
+                LINK - - S - -
+                  OC - - O - -
+             PLUGINS - - - X -
+             VERSION - - - - X

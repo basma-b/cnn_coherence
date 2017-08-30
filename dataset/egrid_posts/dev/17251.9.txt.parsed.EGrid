@@ -1,0 +1,15 @@
+               MATCH O - - - - - -
+                WORD O - - - - - -
+                FILE X - - - - - -
+                 USE O - - - - - -
+                 SED S - - - S - -
+          /OLD/NEW/G X - - - - - -
+                .PHP O - - - - - -
+                 END X - - - - - -
+              CHANGE - - - X X - -
+          EVERYTHING - - - O - - -
+                FACT - - - - X - -
+              STREAM - - - - X - -
+              EDITOR - - - - O - -
+                DUMP - - - - O - -
+             VERSION - - - - S - -

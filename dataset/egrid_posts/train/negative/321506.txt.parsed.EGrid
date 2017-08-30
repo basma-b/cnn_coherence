@@ -1,0 +1,12 @@
+               MODES X - - - - -
+             PROCESS X - - - - -
+                  ID X - - - - -
+                INIT - - X - - -
+                TALK - - - X - -
+           RUNLEVELS - - - S - -
+             NOTHING - - - O - -
+                PIDS - - - X - -
+                SUDO - - - - - X
+             APT-GET - - - - - X
+             UPGRADE - - - - - S
+              UPDATE - - - - - S

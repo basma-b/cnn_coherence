@@ -1,0 +1,16 @@
+               PLACE X - - - -
+              CUSTOM X - - - -
+            IPTABLES X - - - -
+              SCRIPT O - - - -
+                LOAD O - - - -
+              REBOOT X - - - -
+              SERVER - X - - -
+                  IM - S - - -
+               10.04 - O - - -
+                 UFW - - O - -
+                THIS - - - X -
+                   > - - - S -
+/ETC/NETWORK/FIREWALL - - - X -
+            BOOTTIME - - - X -
+/ETC/NETWORK/INTERFACES - - - X -
+                   < - - - X -

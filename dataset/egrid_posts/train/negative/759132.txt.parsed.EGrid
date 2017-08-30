@@ -1,0 +1,23 @@
+          INTERFACES X S - - - - - - - - - - -
+/ETC/NETWORK/INTERFACES X - - - - - - - - - - - -
+            IFCONFIG - X - - - X - - - - - - -
+             NETWORK - X - - - X - - X - - - -
+                NAME - O - - - - - - - - - - -
+            LOOPBACK - - O - - - - - - - - - -
+                THAT - - - S - - - - - - - - -
+                ETH0 - - - - X - - - - - - - -
+                LIST - - - - - S - - - - - - -
+                AUTO - - - - - O - - - - - - -
+          EVERYTHING - - - - - O - - - - - - -
+                DHCP - - - - - X - - O - - - -
+             MANAGER - - - - - S - - - - - - -
+              ETH0:1 - - - - - - O - - - - - -
+                  IP - - - - - - - X O - - - -
+                CARD - - - - - - - - X - - - -
+                 RUN - - - - - - - - - - - X -
+              SYSTEM - - - - - - - - - - - X -
+          OPENSOURCE - - - - - - - - - - - X -
+              DRIVER - - - - - - - - - - - S -
+                BITE - - - - - - - - - - - X -
+                  .. - - - - - - - - - - - - X
+            PROBLEMS - - - - - - - - - - - - O

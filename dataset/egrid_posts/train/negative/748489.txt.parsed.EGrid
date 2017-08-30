@@ -1,0 +1,17 @@
+              UBUNTU - X - - - -
+              CLIENT - S - - - -
+             DESKTOP - O - - - -
+                 VNC - O - - - -
+                PORT - - X - - -
+              FILTER - - O - - -
+            FIREWALL - - X - - -
+             MACHINE - - X - - -
+             REALVNC - - X - - -
+                WIN7 - - X - - -
+            INTERNET - - X - - -
+            IPTABLES - - - X - -
+              EXPERT - - - - O -
+                   X - - - - X -
+              SERVER - - - - X -
+                LOOK - - - - O -
+     /VAR/LOG/SYSLOG - - - - X -

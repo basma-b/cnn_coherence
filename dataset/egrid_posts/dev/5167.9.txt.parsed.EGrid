@@ -1,0 +1,16 @@
+               10.04 S - - - - - - - - - -
+                 LOT X - - - - - - - - - -
+              KERNEL X - - X - - - X - - -
+               PANIC X - - X - - - - - - -
+            GRAPHICS - S - - - - - - - - -
+            ANYTHING - - S - X - O S - - -
+                THIS - - O - - - - - - - -
+               CAUSE - - - X - - - - - - -
+            KERN.LOG - - - - X - - - - - -
+                 LOK - - - - - - - X - - -
+             NOTHING - - - - - - - - - X -
+             PROCESS - - - - - - - - - S X
+                ROOT - - - - - - - - - X -
+                  -1 - - - - - - - - - - S
+          NICE-VALUE - - - - - - - - - - O
+            PRIORITY - - - - - - - - - - X

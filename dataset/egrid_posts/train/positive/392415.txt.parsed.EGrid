@@ -1,0 +1,7 @@
+               FSTAB O O - -
+              SYSTEM S X - -
+              RESULT X - - -
+                BOOT - X - X
+            WRITABLE - X - -
+                  CD - - O S
+              MOMENT - - - X

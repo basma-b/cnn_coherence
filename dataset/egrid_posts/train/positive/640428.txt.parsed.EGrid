@@ -1,0 +1,22 @@
+                9.10 O - - - - - -
+                GRUB X O - - - - O
+               GRUB2 X - - - - - -
+              UBUNTU - X - - - - -
+        INSTRUCTIONS - X - - - - -
+               HTTPS - X - - - - -
+//WIKI.UBUNTU.COM/GRUB2 - X - - - - -
+                 HDD - O - - - - -
+                 SDA - X - - - - X
+                  XP - X - - - - -
+                 SDB - X - - - - -
+                DATA - X - - - - -
+                  PC - O - - - - -
+               ERROR - S - - - - -
+                 MBR - X - - - - -
+               DRIVE - X - - - - -
+           PARTITION - X - - - - -
+          DIFFERENCE - O - - - - -
+             EXAMPLE - - X - - - -
+      SDA1=PARTITION - - X - - - -
+                SDA1 - - - - - - X
+                  .. - - - - - - X

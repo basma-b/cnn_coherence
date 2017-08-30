@@ -1,0 +1,17 @@
+                 BOX - X - - - - - - -
+                 SSH - X - - - - - - -
+                ROOT - X - - - - - - -
+                 KEY - X - - - X - - -
+                AUTH - X - - - - - - -
+                 USE - O - - - - - - -
+          ALLOWUSERS - - S - - - - - -
+         SSHD_CONFIG - - X - - - - - -
+              RETURN - - - S - - - - -
+               USERS - - - S - - - - -
+               SHELL - - - S - - - - -
+              FOLDER - - - - - X - - -
+                USER - - - - - X - - -
+                  NM - - - - - - - O -
+                 VPN - - - - - - - - S
+NETWORK-MANAGER-PPTP - - - - - - - - X
+               WATCH - - - - - - - - O

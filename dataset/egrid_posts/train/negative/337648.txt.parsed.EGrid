@@ -1,0 +1,11 @@
+        SOURCES.LIST X - - -
+             KONSOLE X X - -
+                THAT - X - -
+/ETC/APT/SOURCES.LIST - X O -
+             IDLEONE - X - -
+                TYPE - X X -
+                FILE - - X -
+                SUDO - - X -
+                NANO - - X -
+                LOAD - - - S
+               SOUND - - - O

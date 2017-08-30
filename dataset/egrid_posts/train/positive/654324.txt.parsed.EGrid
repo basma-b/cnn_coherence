@@ -1,0 +1,17 @@
+                 SSH X - - - - - - - - -
+                 GUI X - - - - - - - - -
+           INTERFACE O - - - - - - - - -
+             DEFAULT - X - - - - - - - -
+            TERMINAL - X - - - - - - - -
+                HOST - - - X - - - - - -
+                SIDE - - - X - - - - - -
+              CLIENT - - - X X X X - - -
+        X-FORWARDING - - - - S - - - - -
+        APPLICATIONS - - - - S - - - - -
+              SERVER - - - - X X X - - -
+                APPS - - - - O - - - - -
+            GRAPHICS - - - - S - - - - -
+             NETWORK - - - - X - - - - -
+                FLAG - - - - - - X - - -
+             PROGRAM - - - - - - X - - -
+              SCREEN - - - - - - X - - -

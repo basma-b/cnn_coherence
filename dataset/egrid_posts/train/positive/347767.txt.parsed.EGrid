@@ -1,0 +1,8 @@
+           BLACKLIST X - - - -
+             BCM43XX O - - - -
+                FILE - - - X -
+   BLACKLIST-BCM43XX - - - O -
+              MODULE - - - O -
+             OPINION - - - X -
+              SYNTAX - - - X -
+         NDISWRAPPER - - - - X

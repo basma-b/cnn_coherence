@@ -1,0 +1,7 @@
+               RSYNC O - - S
+              RSYNCD X - - X
+        CAPABILITIES O - - -
+                SYNC - - - X
+            TRANSFER - - - X
+                PART - - - X
+             EXAMPLE - - - X

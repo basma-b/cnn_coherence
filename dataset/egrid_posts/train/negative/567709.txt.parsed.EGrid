@@ -1,0 +1,10 @@
+                 SSH S - - - -
+          CONNECTION - S - - -
+                 RUN - X - - -
+        APPLICATIONS - X - - -
+                USER - - X - -
+             SESSION - - X - -
+              KERNEL - - - S -
+              SIGHUP - - - O -
+             PROCESS - - - O -
+            TERMINAL - - - X -

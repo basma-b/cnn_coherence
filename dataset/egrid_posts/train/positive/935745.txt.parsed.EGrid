@@ -1,0 +1,16 @@
+            LOCATION X - - - - -
+              VMWARE O - - - - -
+           DIRECTORY X - - - - -
+                   C X - - - - -
+              HEADER X - - - - -
+                FILE X - - - - -
+                 RUN X - - - - -
+              KERNEL O - - - X -
+             DEFAULT - X - - - -
+                THAT - - - X - -
+             HEADERS - - - - O -
+        VMWARE-TOOLS - - - - S -
+                 ONE - - - - X -
+               CLOCK - - - - X -
+               DRIFT - - - - X -
+          TIMESERVER - - - - - X

@@ -1,0 +1,16 @@
+             SOMEONE X X - - - - -
+           PARTITION X X - - - - -
+              OUTPUT - - X - - - -
+               FDISK - - X - - - -
+                  -L - - X - - - -
+             CONTENT - - X - - - -
+          /ETC/FSTAB - - X - - - -
+            PASTEBIN - - X - - - -
+                HTTP - - X - - - -
+         PERMISSIONS - - - X - - -
+         /MEDIA/SDA2 - - - X - - -
+               OWNER - - - - X - -
+                SDA2 - - - - - O -
+                ROOT - - - - - S -
+                SUDO - - - - - - X
+                WORK - - - - - - X

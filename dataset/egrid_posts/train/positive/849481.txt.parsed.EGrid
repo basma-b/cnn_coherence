@@ -1,0 +1,18 @@
+          REPOSITORY O - - - - - - -
+  APT-ADD-REPOSITORY X - - - - - - -
+             APT-GET S O - - - - - -
+              UPDATE O - - O - - - -
+            SOFTWARE O - - - - - - -
+                REPO X - - X - - - X
+              COFFEE - - X - - - - -
+               11.04 - - X X - - - -
+GEZAKOVACS/COFFEESCRIPT - - O - - - - -
+        COFFEESCRIPT - - - O - - - -
+                   ^ - - - X - - - -
+       ACTIONPARSNIP - - - X - - - X
+                 PPA - - - S - - - -
+             PACKAGE - - - O - - - -
+                 AHA - - - - - X - -
+                THAT - - - - - - S -
+             VERSION - - - - - - - S
+           CANDIDATE - - - - - - - X

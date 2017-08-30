@@ -1,0 +1,17 @@
+            LOCATION X - - -
+              APTURL O - - -
+             PACKAGE X - - -
+              INSTAL X - - -
+           REFERENCE O - - -
+             DEFAULT X - - -
+         APPLICATION S - - -
+                 URL X - - -
+                SUDO X - - -
+             APT-GET X - - -
+         FLVSTREAMER S - - -
+                 BAR X - - -
+             UPSTART - - S -
+                 WAY - - O -
+             SERVICE - - - X
+         SERVICENAME - - - X
+ START|STOP|WHATEVER - - - O

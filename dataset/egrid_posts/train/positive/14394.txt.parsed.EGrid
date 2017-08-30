@@ -1,0 +1,11 @@
+             COMMAND X - - - - - - - - -
+                TYPE O - - - - - - - - -
+           PARTITION X - - - - - - - - -
+               FDISK - - X - - - - - - -
+            /DEV/HDA - - X - - - - - - -
+                SHOW - - X - - - - - - -
+               FAT32 - - S - - - - - - -
+                VFAT - - X - - - - - - -
+                   U - - - - - X - - - -
+               WHATS - - - - - - - S - -
+                EXT3 - - - - - - - - - S

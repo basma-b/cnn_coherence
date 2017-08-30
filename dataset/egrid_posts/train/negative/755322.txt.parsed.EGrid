@@ -1,0 +1,22 @@
+         GCONFTOOL-2 O - - - - -
+              DIRECT S - - - - -
+                 XML X - - - - -
+           READWRITE X - - - - -
+/ETC/GCONF/GCONF.XML.MANDATORY X - - - - -
+                TYPE X - - - - -
+              STRING X - - - - -
+/USR/SHARE/BACKGROUNDS/WARTY-FINAL-UBUNTU.PNG X - - - - -
+             COMMAND X - - - - -
+               NOONE X - - - - -
+               ADMIN X - - - - -
+           WALLPAPER O - - - - -
+                THIS O - - - - -
+              ANYONE X - - - - -
+                 SET - O - - - -
+                FILE - O - - - -
+          PERMISSION - - O - - -
+             WINDOWS - - S - - S
+              LAPTOP - - O - - -
+                CARE - - O - - -
+                THAT - - - S - -
+              UBUNTU - - - O - O

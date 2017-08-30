@@ -1,0 +1,34 @@
+                THAT O S -
+             PROBLEM O O -
+              NVIDIA X S -
+             DRIVERS X X -
+                   X X - -
+                MODE X - -
+               RMMOD X X -
+              INSMOD X X -
+/LIB/MODULES/2.6.24-16-GENERIC/VOLATILE/NVIDIA_NEW.KO X S -
+                  .. X O -
+                LOAD X - -
+            REMPLACE X - -
+               STOCK X - -
+            MODPROBE S - -
+              KERNEL O - -
+             MODULES X - -
+       CONFIGURATION X - -
+                FILE O - -
+/LIB/MODULES/2.6.24-16-GENERIC X - -
+              STARTX - S -
+          NVIDIA_NEW - X -
+            HARDWARE - X -
+              WINDOW - S -
+              ENABLE - O -
+                 USE - X -
+             PACKAGE - S -
+           INSTALLER - S -
+                LIST - O -
+        INSTALLATION - X -
+                XORG - X -
+                 LOG - O -
+                LOOK - S -
+               DMESG - X -
+               POINT - - X

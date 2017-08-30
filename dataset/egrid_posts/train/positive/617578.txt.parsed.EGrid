@@ -1,0 +1,17 @@
+                THAT S - -
+               WHILE X - -
+               RANGE O - -
+            IPTABLES O - -
+               INPUT X - -
+                  -P X - -
+                 TCP O - -
+                  -J S - -
+             PACKETS O - -
+            PROTOCOL X - -
+                  OK S - -
+                   F S - -
+                PORT - - S
+               THATS - - X
+             DEFAULT - - X
+              OUTPUT - - O
+                RULE - - S

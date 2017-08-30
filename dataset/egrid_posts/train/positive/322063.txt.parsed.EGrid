@@ -1,0 +1,17 @@
+           DOWNGRADE X - - - -
+       915RESOLUTION O - X - O
+             VERSION S - X - O
+               ISSUE S - - - -
+              BUGFIX O - - - -
+            SOFTWARE X - - - -
+             CHANNEL X - - - -
+                MENU - - X - -
+             PACKAGE - - X - X
+                   > - - X - X
+               FORCE - - X - -
+             APT-GET - - - - S
+                  .. - - - - X
+               NOTCH - - - - S
+            VERSIONS - - - - O
+                SUDO - - - - X
+                DPKG - - - - X

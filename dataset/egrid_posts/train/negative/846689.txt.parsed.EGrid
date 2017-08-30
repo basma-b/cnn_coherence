@@ -1,0 +1,24 @@
+               11.04 O - - - - - - - - -
+               DRIVE X - - - - - - - - -
+                USER - - S - - - - - - -
+            PASSWORD - - X - - - - - - -
+         SUGGESTIONS - - - - X - - - - -
+                BOOT - - - - S - - - - -
+             DESKTOP - - - - X - - - - -
+                AUFS - - - - - S - - - -
+               /ROOT - - - - - X - - - -
+      ARGUMENT\NAUFS - - - - - X - - - -
+               MONUT - - - - - S - - - -
+                 ISO - - - - - X S - - -
+              MD5SUM - - - - - X - - - -
+                THAT - - - - - - X - - -
+                LINK - - - - - - O - - -
+               HTTPS - - - - - - S X - -
+               THUMB - - - - - - X - - -
+              LOADER - - - - - - O - - -
+          UBUNTU.COM - - - - - - S - - -
+                 MD5 - - - - - - S - - -
+                PAGE - - - - - - - X - -
+//HELP.UBUNTU.COM/COMMUNITY/UBUNTUHASHES - - - - - - - S - -
+         PERSISTENCE - - - - - - - S - -
+             PROCESS - - - - - - - X - -

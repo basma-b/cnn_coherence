@@ -1,0 +1,12 @@
+              SYSTEM O - - -
+              LPSTAT S - - -
+             PRINTER S - - -
+              DEVICE X - - -
+              REBOOT S - - X
+                 JOB O - O -
+               PRINT X - - X
+               WHATS S - - -
+               ISSUE - X - -
+              DAEMON - X - -
+                THAT - - - X
+                WORK - - - O

@@ -1,0 +1,18 @@
+               THERE X - S - - - -
+             PACKAGE X - O - - - -
+             AJUNTA2 X - - - - - -
+                  AN - S - - - - -
+              NOBODY - - S - - - -
+                 ONE - - O - - - -
+              DEBIAN - - X X - - -
+          REPOSITORY - - X - - - -
+             ANJUTA2 - - - O - - -
+                 USE - - - - - X -
+ PACKAGES.DEBIAN.ORG - - - - - X -
+                HTTP - - - - - X -
+//PACKAGES.DEBIAN.ORG/CGI-BIN/SEARCH_PACKAGES.PL - - - - - X -
+     KEYWORDS=ANJUTA - - - - - - X
+      SEARCHON=NAMES - - - - - - X
+           SUBWORD=1 - - - - - - X
+VERSION=EXPERIMENTAL - - - - - - X
+         RELEASE=ALL - - - - - - X

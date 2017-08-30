@@ -1,0 +1,10 @@
+                  IP O O - -
+             COMMAND X X - -
+                LINE X X - -
+            IFCONFIG - - S -
+             NETMASK - - O -
+       255.255.253.5 - - S -
+             RESTART - - O -
+             SERVICE - - X -
+             NETWORK - - O -
+                 YES - - - X

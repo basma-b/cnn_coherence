@@ -1,0 +1,23 @@
+                 HMM X - - - - - -
+                8.10 - O - - - - -
+                  CD - - X - - - -
+                BOOT - - S - - - -
+             BUSYBOX - - - X - - -
+               SHELL - - - X - - -
+                 ASH - - - X - - -
+             PROBLEM - - - O - - -
+           INSTALLER - - - - S - -
+              WETHER - - - - - X -
+/ROOT/YOURROUTSYSTEM - - - - - X -
+              ROOTFS - - - - - X -
+              REASON - - - - - S -
+              DRIVER - - - - - O O
+          FILESYSTEM - - - - - X -
+                 USE - - - - - X -
+            TERMINAL - - - - - - X
+                TYPE - - - - - - S
+        XSERVER-XORG - - - - - - O
+         RESOLUTIONS - - - - - - O
+                WORK - - - - - - X
+         RECONFIGURE - - - - - - X
+                VESA - - - - - - X

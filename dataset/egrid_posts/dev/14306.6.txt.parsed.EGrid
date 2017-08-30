@@ -1,0 +1,8 @@
+              SERVER O O - - -
+                DHCP X X - - -
+                VLAN - X - - -
+           INTERFACE - X - - -
+              CHANGE - - S - -
+    /ETC/RESOLV.CONF - - X - -
+               HTTPS - - - - X
+//HELP.UBUNTU.COM/COMMUNITY/DNSMASQ - - - - X

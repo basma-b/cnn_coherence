@@ -1,0 +1,27 @@
+             COMMAND O - - O - -
+           DIRECTORY O O - - - -
+              SYNTAX - X - - - -
+           RECURSIVE - - X - - -
+                MGET - - S - - -
+                  OK - - O - - -
+               ERROR - - X - - -
+             MESSAGE - - O - - -
+         PERMISSIONS - - O - - -
+              UPLOAD - - - O - -
+                FILE - - - O - -
+              CLIENT - - - O - -
+      ACTIONPARSNIP1 - - - O - -
+                TOOL - - - X - -
+                 GUI - - - S - -
+                 ONE - - - X - -
+                GFTP - - - O - -
+              GEIRHA - - - - - S
+                  .. - - - - - X
+              MODULE - - - - - S
+              KERNEL - - - - - X
+            VERSIONS - - - - - S
+                 GCC - - - - - X
+            SOFTLINK - - - - - O
+             VERSION - - - - - X
+                HTTP - - - - - O
+//GCC.GNU.ORG/FAQ.HTML - - - - - O

@@ -1,0 +1,11 @@
+           DIRECTORY O - - - - - -
+               GROUP S - - S - - -
+                FILE O - - - - - -
+            WRITABLE - X - - - - -
+           DATA-USER - - X X O - -
+                TYPE - - - X - - -
+              NEWGRP - - - X X - -
+                   ' - - - - S - -
+                 MAN - - - - X - -
+          EQUIVALENT - - - - O - -
+             SESSION - - - - X - -

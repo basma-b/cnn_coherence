@@ -1,0 +1,13 @@
+         RECONFIGURE X X - -
+             NETWORK X - - O
+             COMMAND X - - -
+                LINE X - - -
+              SERVER - - - O
+                  .. - - - O
+                HOST - - - X
+             MACHINE - - - S
+                 MAC - - - X
+              ADRESS - - - X
+             TROUBLE - - - O
+               THERE - - - S
+                ETH0 - - - O

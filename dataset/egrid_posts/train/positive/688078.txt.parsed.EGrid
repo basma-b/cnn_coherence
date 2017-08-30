@@ -1,0 +1,25 @@
+               OWNER S - - - - - - - - -
+          PERMISSION O - - - - - - - - -
+                CANT X - - - - - - - - -
+                BODY X - - - - - - - - -
+                 SOO - X - - - - - - - -
+               ISSUE - X - - - - - - - -
+                SUDO - - X - - - - - - -
+               CHOWN - - X - - - - - - -
+            USERNAME - - X X - - - - - -
+            DIR/FILE - - X - - - - - - -
+              SYSTEM - - - X - - - - - -
+                FILE - - - - - X - - - -
+                 DIR - - - - - X - - - -
+             COMMAND - - - - - X - - - O
+            NICKNAME - - - - - S - - - -
+         PERMISSIONS - - - - - - X - - -
+     .FLUXBOX/STYLES - - - - - - X - - -
+             PICTURE - - - - - - X - - -
+             SERVICE - - - - - - O - - -
+              OUTPUT - - - - - - X - - -
+                HTTP - - - - - - X - - -
+//IMAGEBIN.ORG/88430 - - - - - - S - - -
+            TERMINAL - - - - - - X S - -
+                 ALL - - - - - - - - - S
+         APPLICATION - - - - - - - - - O

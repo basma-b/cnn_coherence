@@ -1,0 +1,23 @@
+             MACHINE X - - - - -
+                 WAY - O - - - -
+          VIRTUALBOX - X - - - -
+               GUEST - X - - - -
+           ADDITIONS - O O - - -
+                BOOT - - - X - X
+                DHCP - - - O - -
+                NICS - - - X - -
+                 ONE - - - S - -
+             SUPPORT - - - O - -
+              KERNEL - - - X - X
+                PLUG - - - X - -
+               WITCH - - - O - -
+                 PXE - - - - O -
+                THIS - - - - O -
+               THING - - - - O -
+                TIME - - - - - X
+                NEED - - - - - X
+                HTTP - - - - - X
+//ETHERBOOT.ORG/WIKI/SANBOOT/UBUNTU_ISCSI - - - - - X
+                 DOC - - - - - X
+     INITRAMFS-TOOLS - - - - - O
+             DRIVERS - - - - - O

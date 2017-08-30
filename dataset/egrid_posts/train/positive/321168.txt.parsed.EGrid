@@ -1,0 +1,27 @@
+              PAULM_ X - - - - - - - - - - - - -
+          FILESYSTEM O - - - - - - - - - - - - -
+                  CD X - - - - - - - - - - - - -
+             NETWORK - X - - - - - - - - - - - -
+       CONFIGURATION - S - - - - - - - - - - - -
+/ETC/NETWORK/INTERFACES - X S - - - - - - - - - - -
+                   / - - X - - - - - - - - - - -
+           INITRAMFS - - S - - - - - - - - - - -
+                BOOT - - X X - - - - - - - - - -
+              CASPER - - - X - - - - - - - - - -
+          PARAMETERS - - - O - - - - - - - - - -
+              SYNTAX - - - S - - - - - - - - - -
+                 MAN - - - X - - - - - - - - - -
+       CASPER-EXPERT - - - - - O - - - - - - - -
+               PLACE - - - - - - - S - - - - - -
+           LAUNCHPAD - - - - - - - X - - - - - -
+              GOOGLE - - - - - - - - X - - - - -
+      LIVECD-EXPERTS - - - - - - - - - X - - - -
+               SETUP - - - - - - - - - - X - - -
+                DHCP - - - - - - - - - - X - - -
+              SERVER - - - - - - - - - - O - - -
+              STATIC - - - - - - - - - - O - - -
+              LIVECD - - - - - - - - - - - X - -
+                 ONE - - - - - - - - - - - X - -
+             EXPERTS - - - - - - - - - - - X - -
+        UBUNTU-DEVEL - - - - - - - - - - - - - X
+                TEAM - - - - - - - - - - - - - S

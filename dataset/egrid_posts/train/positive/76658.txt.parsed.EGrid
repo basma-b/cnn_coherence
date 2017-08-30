@@ -1,0 +1,14 @@
+             PROCESS X - - -
+                LIST S - - -
+                  -A X - - -
+                LOCK X X - -
+               SOUND X - - -
+                CARD X - - -
+               |GREP - X - -
+                 DSP - X - -
+             NOTHING - S - -
+              RHYTHM - - X -
+                 BOX - - S -
+            RESOURCE - - O -
+               WRITE - - X -
+             KILLALL - - - S

@@ -1,0 +1,14 @@
+         UNALIGNED.H O - -
+                  .. X - -
+                 ONE - O -
+               GLIBC - X X
+        /USR/INCLUDE - X -
+                SUDO - X -
+             APT-GET - S -
+             VERSION - O -
+LINUX-KERNEL-HEADERS - - X
+              SOURCE - - X
+                BASE - - X
+              DISTRO - - X
+                FILE - - S
+              KERNEL - - X

@@ -1,0 +1,25 @@
+              ANYONE X - - - - - - - - -
+             VERSION X - - - - - - - - -
+                XORG X - - - - - - - S -
+                  |/ - S - - - - - - - -
+                   = - - S - - - - - - -
+                NONE - - X - - - - - - -
+/HOLD/REINST-REQUIRED/X=BOTH-PROBLEMS - - X - - - - - - -
+               ERROR - - X - - - - - - -
+             MESSAGE - - S - - - - - - -
+                  .. - - - O - - - - - -
+              LEGEND - - - S - - - - - -
+                 ATI - - - X - - - - - -
+             DRIVERS - - - S - - - - - -
+                 RPM - - - X - - - - - -
+                RPMS - - - O - - - - - -
+   XORG-DRIVER-FGLRX - - - - - X - - - -
+XFREE86-DRIVER-FGLRX - - - - - O - - - -
+                THAT - - - - - - - S - -
+                SAME - - - - - - - O - -
+               AMD64 - - - - - - - O - -
+        XSERVER-XORG - - - - - - - S - -
+               HOARY - - - - - - - X X -
+         DEVELOPMENT - - - - - - - X - -
+              BRANCH - - - - - - - X - -
+              MONTHS - - - - - - - - X -

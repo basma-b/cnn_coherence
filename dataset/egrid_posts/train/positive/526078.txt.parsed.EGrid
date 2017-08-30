@@ -1,0 +1,26 @@
+             PROBLEM O - - - - - -
+              INSTAL S - - - - - -
+            POSTGRES X - - - - - -
+                 SQL S - - - - - -
+                SHOW X - - - - - -
+              SERVER X - - S - S -
+                  .. O - - - - - -
+             SOMEONE X - - - - - -
+/ETC/DEFAULT/POSTGRESD O - - - - - -
+          POSTGRESQL - S - - - - -
+                PORT - O - - - - -
+             DAEMONS - S X - - - -
+             INSTALL - X - - - - -
+                PATH - - X - - - -
+                HTTP - - - X - - -
+//HOCUSPOKUS.NET/2008/05/13/INSTALL-POSTGRESQL-ON-UBUNTU-804/ - - - X - - -
+               ERROR - - - X - - -
+                PSQL - - - O - - -
+                FILE - - - X - - -
+           DIRECTORY - - - S - - -
+         CONNECTIONS - - - O - - -
+                UNIX - - - X - - -
+              DOMAIN - - - X - - -
+              SOCKET - - - X - - -
+/VAR/RUN/POSTGRESQL/.S.PGSQL.5432 - - - X - - -
+                  PS - - - - - - X

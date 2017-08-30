@@ -1,0 +1,16 @@
+               G_A_C S - - S - - - - - -
+             PACKAGE O - - - - - - - - -
+                COPY - O - - - - - - - -
+               MYSQL - X - - - - - - - -
+             NOTHING - O - - - - O - - -
+              CONFIG - X - - - - - - - -
+              CHANGE - O - - - - - - - -
+      RESET-PASSWORD - - - - O - - - - -
+                DENY - - - - O - - - - -
+        MYSQL-SERVER - - - - - X - - - -
+               CHECK - - - - - - - - S -
+           B.5.4.1.2 - - - - - - - - X -
+                ROOT - - - - - - - - - X
+            PASSWORD - - - - - - - - - O
+                UNIX - - - - - - - - - X
+             SYSTEMS - - - - - - - - - X

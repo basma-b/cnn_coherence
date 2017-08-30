@@ -1,0 +1,24 @@
+             DEFAULT X - - - -
+           REINSTALL O - - - -
+             APACHE2 X - - - -
+        /ETC/APACHE2 - S - - -
+                   $ - - - X -
+               PURGE - - - X -
+                 DIR - - - S -
+                SAME - - - O -
+              REASON - - - X -
+                 USE - - - X -
+                  RM - - - X -
+                 -RF - - - O -
+               PLACE - - - X -
+              ERRORS - - - S -
+          HTTPD.CONF - - - O -
+               BYTES - - - X -
+                  IM - - - - S
+              DOZENS - - - - X
+              SEARCH - - - - X
+                HITS - - - - X
+               EXACT - - - - S
+                THIS - - - - S
+                HTTP - - - - O
+//ASKUBUNTU.COM/QUESTIONS/116379/HOW-CAN-I-REQUEST-PASSWORD-WHEN-USB-HARDWARE-IS-PLUGGED-IN - - - - X

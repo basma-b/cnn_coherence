@@ -1,0 +1,14 @@
+              LOGOUT X O -
+            SHUTDOWN - X -
+                  -H - S -
+               POWER - X -
+              APPLET - X -
+              BUTTON - S -
+             TELINIT - O -
+             SESSION - O -
+                BASH - O -
+               SHELL - O -
+                 USE - X -
+                EXIT - O -
+                SUDO - - X
+     /ETC/INIT.D/GDM - - S

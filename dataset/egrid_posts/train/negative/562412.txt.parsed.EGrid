@@ -1,0 +1,14 @@
+              EFFECT - - X - - - - -
+               PLAIN - - X - - - - -
+                BOOT - - - X - - - -
+            RECOVERY - - - X X - - -
+                MODE - - - X S - - -
+               FBCON - - - S - - - -
+               PLACE - - - O - - - -
+                   X - - - - X - - -
+              SERVER - - - - X - - -
+                 RUN - - - - O - - -
+XSERVER-XORG-VIDEO-FBDEV - - - - - S - -
+                DIGG - - - - - - - X
+            SLASHDOT - - - - - - - S
+                BOTH - - - - - - - X

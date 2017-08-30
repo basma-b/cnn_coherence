@@ -1,0 +1,13 @@
+                HELP O - - - - - - - -
+          BOOTLOADER - S - - - - - - -
+               EDGLY - - X - - - - - -
+            RECOVERY - - X - - - - X -
+                MODE - - X - - - - - -
+                GRUB - - O - - - X - -
+                 MBR - - X - - - - - -
+                SUDO - - - - - - X S -
+                ROOT - - - - - - - O -
+                   X - - - - - - - - O
+                USER - - - - - - - - X
+                   D - - - - - - - - O
+                 GDM - - - - - - - - X

@@ -1,0 +1,19 @@
+            TERMINUS X - - - - - - - - - -
+           PARTITION O - - - - - - - - - -
+              UBUNTU S - - - - - - - - - -
+                 HDS X - - - - - - - - - -
+                BOOT X X - - - - - - - - -
+              LIVECD - X - - - - - - - - -
+              CHROOT - X - - - - - - - - -
+        GRUB-INSTALL - X - - - - - - - - -
+                 ANY - - O - - - - - - - -
+                 HDA - - - X - X X - - - -
+                 HDB - - - X - X - - - - -
+                ROOT - - - - X - - - - - -
+               /BOOT - - - - X - - - - - -
+                PART - - - - - - X - - - -
+                DISK - - - - - - X - - - -
+            KEYBOARD - - - - - - - - X - -
+              THINGS - - - - - - - - - S -
+                HTTP - - - - - - - - - - X
+//STACKOVERFLOW.COM/QUESTIONS/84882/SUDO-ECHO-SOMETHING-ETC-PRIVILEGEDFILE-DOESNT-WORK-IS-THERE-AN-ALTERNA - - - - - - - - - - X

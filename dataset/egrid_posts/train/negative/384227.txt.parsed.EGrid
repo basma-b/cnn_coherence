@@ -1,0 +1,17 @@
+      XSERVER-COMMON O - -
+                SAME X - -
+        XSERVER-XORG X - -
+                   X - X -
+              SERVER - O -
+                 1.0 - X -
+           SOMETHING - O -
+         PERMISSIONS - O -
+       ~/.XAUTHORITY - X -
+               OWNER - O -
+            SESSIONS - O -
+             DISPLAY - X -
+              STARTX - X -
+                  .. - - O
+               THERE - - S
+             CHANNEL - - X
+                NAME - - O

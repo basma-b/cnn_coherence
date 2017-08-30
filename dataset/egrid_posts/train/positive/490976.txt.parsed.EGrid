@@ -1,0 +1,17 @@
+                FILE S - - X - -
+              ACCESS O - - - - -
+                ROOT - - X - - -
+                 USE - - X - - -
+            RECOVERY - - X - - -
+                MODE - - O - - -
+                MENU - - X - - -
+               LOGIN - - S - - -
+            ANYTHING - - X - - -
+                  .. - - X - O -
+                  CD - - X - O O
+           PARTITION - - O - - -
+             ROOMATE - - - - S -
+                PLAY - - - - O -
+                JOHN - - - - X -
+                BOOT - - - - - X
+               DRIVE - - - - - X

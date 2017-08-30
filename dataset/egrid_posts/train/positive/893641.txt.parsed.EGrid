@@ -1,0 +1,6 @@
+          CONNECTION O - - -
+                PORT X - - -
+            IPTABLES X - - -
+              REJECT - X - -
+              ACCEPT - S - -
+             DEFAULT - - S X

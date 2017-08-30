@@ -1,0 +1,9 @@
+             DEFAULT - O - - -
+                USER - O - O -
+            SHAMBLER - O - - -
+             UNMOUNT - O - - -
+             REMOUNT - O - - -
+           PARTITION - - X - -
+                ROOT - - X - -
+              OPTION - - - X -
+                WORK - - - - X

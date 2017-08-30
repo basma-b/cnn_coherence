@@ -1,0 +1,13 @@
+             APT-GET S S - - - -
+         LIBSSL0.9.8 O - - - - -
+         LIBSSL0.9.6 - O - - - -
+             PACKAGE - S - - - -
+                HTTP - - X - - -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_PACKAGES.PL - - X - - -
+       SEARCHON=NAME - - - X - -
+           SUBWORD=1 - - - X - -
+         VERSION=ALL - - - X - -
+         RELEASE=ALL - - - X - -
+                EDGY - - - - X -
+                  OK - - - - - X
+                FILE - - - - - O

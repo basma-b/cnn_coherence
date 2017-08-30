@@ -1,0 +1,30 @@
+                 HMM X - - - - - - - - - - - - -
+            LOOPBACK S - - - - X - - - - - - - -
+              DEVICE X - - - - - - - - - - - - -
+              DOSENT X - - - - - - - - - - - - -
+            SHUTDOWN X - - - - - - - - - - - - -
+   INIT.D/NETWORKING S - - - - - - - - - - - - -
+                  LO O - - - - - - - - - - - - -
+                  -A X - - - - - - - - - - - - -
+               THERE S - - - - S - - - - - - - -
+                LINK O - - - - O - - - - - - - -
+               RC6.D X - - - - - - - - - - - - -
+              SCRIPT X - - - - - - - - - - - - -
+/VAR/RUN/NETWORK/IFSTATE S - - - - - - - - - - - - -
+               CLEAR S - - - - - - - - - - - - -
+                BOOT X - - - - - - - - - - - - -
+             IFSTATE X - - - - - - - - - - - - -
+               LO=LO X - - - - - - - - - - - - -
+             PROBLEM O - - - - - - - - - - - - -
+                DONT - - - X - - - - - - - - - -
+                CLUE - - - O - - - - - - - - - -
+              SYSTEM - - - X - - - - - - - - - -
+           DIRECTORY - - - - - X - - - - - - - -
+                SURE - - - - - - X - - - - - - -
+                 SEC - - - - - - - X - - - - - -
+S01LINUX-RESTRICTEDMODULES-COMMON - - - - - - - - X - - - - -
+             NOTHING - - - - - - - - - S - - - -
+                WORK - - - - - - - - - X - - - -
+                FINE - - - - - - - - - X - - - -
+                USER - - - - - - - - - - - - O X
+              CHROOT - - - - - - - - - - - - X O

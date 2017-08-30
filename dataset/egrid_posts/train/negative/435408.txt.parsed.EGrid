@@ -1,0 +1,14 @@
+                USER X X - -
+             SUDOERS X - - -
+               GROUP X O - -
+                FILE X - - -
+              DIALOG - X - -
+                 GUI - X - -
+           DEPENDANT - - X -
+             INSTALL - - X -
+              SYSTEM - - - O
+             PENTIUM - - - X
+                 AMD - - - X
+                  P2 - - - X
+               ISSUE - - - X
+                  .. - - - X

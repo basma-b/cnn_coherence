@@ -1,0 +1,12 @@
+ /ETC/LOGROTATE.CONF O - -
+                CASE O - -
+              SCRIPT O - -
+                MAIL X - -
+                 LOG O - -
+                PART O - -
+              SYSLOG X - -
+/ETC/CRON.WEEKLY/SYSKLOGD O - -
+                 CPF - X -
+                COPY - X -
+              PACKET - - X
+             TRACKER - - X

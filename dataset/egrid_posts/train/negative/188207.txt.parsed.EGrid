@@ -1,0 +1,11 @@
+           DIRECTORY S S - - -
+               GROUP O - - - -
+                USER X X - - -
+               OWNER O - - - -
+                ROOT X - - - -
+          PERMISSION X - - - -
+                FILE - O - - -
+                  .. - O - - -
+              ANYONE - X - - -
+                MUCH - - - - X
+                TOOL - - - - X

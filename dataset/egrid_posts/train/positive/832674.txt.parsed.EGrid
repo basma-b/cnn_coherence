@@ -1,0 +1,13 @@
+                  PC S - - - -
+            ETHERNET O - - - -
+                WIFI X - - - -
+                CARD X X - - -
+             NETWORK - - X - -
+             MANAGER - - X - -
+              APPLET - - S - -
+            WIRELESS - - S X -
+               PANEL - - X - -
+                BIOS - - - X -
+           INTERFACE - - - - O
+              SCRIPT - - - - X
+/ETC/NETWORK/IF-UP.D - - - - X

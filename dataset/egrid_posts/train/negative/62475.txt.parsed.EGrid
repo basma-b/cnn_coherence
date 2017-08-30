@@ -1,0 +1,26 @@
+                THIS S - - - - - - - -
+                 ONE - X - - - - - - -
+                DEBS - O - - - - - - -
+                SUDO - - X - - - - - -
+             APT-GET - - S - - - - - -
+/USR/SHARE/DOC/MAINT-GUIDE - - X - - - - - -
+             MONOPOD - - - S - - - - -
+        CHECKINSTALL - - - S - - - - -
+                 DEB - - - X - - - - -
+             TARBALL - - - X - - - - -
+          /USR/LOCAL - - - X - - - - -
+             PROGRAM - - - - - S O - -
+          FUSE-UTILS - - - - - S - - -
+                JUNK - - - - - X - - -
+                DPKG - - - - - - - X -
+           SOMETHING - - - - - - - O -
+                APTS - - - - - - - X -
+               SETUP - - - - - - - X -
+                FILE - - - - - - - X -
+               GROUP - - - - - - - X -
+                NAME - - - - - - - S -
+                FUSE - - - - - - - X -
+             COMMAND - - - - - - - - X
+                LANG - - - - - - - - X
+               EMACS - - - - - - - - S
+               SAMBA - - - - - - - - X

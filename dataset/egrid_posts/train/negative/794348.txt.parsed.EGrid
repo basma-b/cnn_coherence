@@ -1,0 +1,17 @@
+                USER O - - - - - - -
+                ROOT - X O - - - - -
+            PASSWORD - - O - - - - -
+                SUDO - - X - - - - -
+                BASH - - X - - - - -
+                TYPE - - O - - - X -
+                NAME - - S - - - - -
+              UBUNTU - - S - - - - -
+            QUESTION - - O - - - - -
+            DATABASE - - - - - O - -
+             WHEREIS - - - - - O - X
+                INFO - - - - - - X -
+                 MAN - - - - - - S -
+                PAGE - - - - - - X -
+              APACHE - - - - - - - S
+                WIKI - - - - - - - O
+        INSTALLATION - - - - - - - X

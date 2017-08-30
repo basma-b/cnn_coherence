@@ -1,0 +1,13 @@
+              ANYONE X - - - -
+              1:2345 O - - - -
+             RESPAWN O - - - -
+                TTY1 O - - - -
+        /ETC/INITTAB X - - - -
+                LINE - - S - -
+             VIRTUAL - - X - -
+              ALT-F1 - - X - -
+              ALT-F6 - - X - -
+                SSHD - - S - -
+                PORT - - O - -
+                  IM - - - - S
+                 VPS - - - - X

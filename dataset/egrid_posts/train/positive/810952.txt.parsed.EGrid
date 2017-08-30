@@ -1,0 +1,16 @@
+              SYSTEM S - - - - -
+                HOSE O - - - - -
+                HELP - O - - - -
+                BOOT - X - - - -
+          EVERYTHING - O - - - -
+            RUNLEVEL - X - - - -
+               LOGIN - S - - - -
+               ERROR - - S - - -
+                 ALL - - X - - -
+               PHOTO - - O - - -
+            ANYTHING - - O - - -
+             MESSAGE - - O - - -
+           TERMINALS - - - X - -
+                   X - - - - - S
+/VAR/LOG/APT/HISTORY.LOG - - - - - X
+             PACKAGE - - - - - O

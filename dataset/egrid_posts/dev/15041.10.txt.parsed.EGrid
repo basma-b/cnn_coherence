@@ -1,0 +1,13 @@
+          RESOLUTION S X - - -
+             DRIVERS X - - - -
+              NVIDIA O - - - -
+                   X O X - - -
+                 USE - X - - -
+             OUTSIDE - X - - -
+             CONSOLE - - X - -
+            SETTINGS - - S - -
+            NVIDIAFB - - O - -
+         FRAMEBUFFER - - X - -
+           NOMODESET - - - - S
+          DIFFERENCE - - - - O
+                BOOT - - - - X

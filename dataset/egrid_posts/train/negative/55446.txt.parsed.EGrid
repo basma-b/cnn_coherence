@@ -1,0 +1,25 @@
+              MODULE O - - - - - - - - - -
+               LINUX X X - - - - - - - - -
+              KERNEL X X - - - - - - - - -
+              SOURCE - S - - - - - - - - -
+                 BUM - - O - - - - - - - -
+             MANAGER - - X - - - - - - - -
+               ERROR - - S - - - - - - - -
+     ENCODE/ALIAS.PM - - O - - - - - - - -
+                 INC - - X - - - - - - - -
+      /USR/LIB/PERL5 - - S - - - - - - - -
+/USR/LOCAL/LIB/SITE_PERL - - O - - - - - - - -
+/USR/LIB/PERL/5.8/ENCODE.PM - - - X X - - - - - -
+                LINE - - - - X X X - - - -
+         COMPILATION - - - - X S X - - - -
+               ABORT - - - - X - X - - - -
+             REQUIRE - - - - - X - - - - -
+        /USR/BIN/BUM - - - - - X X - - - -
+              INSTAL - - - - - - - - S - -
+                 SRY - - - - - - - - X - -
+              ENCODE - - - - - - - - O - -
+               ALIAS - - - - - - - - X - -
+              REASON - - - - - - - - X - -
+     SEARCH.CPAN.ORG - - - - - - - - X - -
+            AHUMAN01 - - - - - - - - - X -
+                UHHH - - - - - - - - - - X

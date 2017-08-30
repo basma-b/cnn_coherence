@@ -1,0 +1,11 @@
+             MEMTEST O - - -
+        BOOT-COMMAND X - - -
+             LIVE-CD X - - -
+                  F1 - - S -
+                BOOT - - X -
+             COMMAND - - X -
+               GNOME - - - X
+             FEATURE - - - O
+                VINO - - - S
+                 VNC - - - X
+              SERVER - - - O

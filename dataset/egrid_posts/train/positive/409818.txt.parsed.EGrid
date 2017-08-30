@@ -1,0 +1,13 @@
+                SUDO S - O - - -
+               START S - - - - -
+            LOCATION - X - - - -
+                  CP - X - - - -
+           OWNERSHIP - X O - - -
+           OPERATION - X - - - -
+         PERMISSIONS - O - - - -
+                ROOT - - X - - -
+                FILE - - X - - -
+                 ANY - - S - - -
+              ANYONE - - X - - -
+                COPY - - - - - S
+             WITHOUT - - - - - S

@@ -1,0 +1,12 @@
+           GRUB.CONF O - -
+                SUDO - X -
+                NANO - X -
+ /BOOT/GRUB/MENU.LST - S -
+                 FIN - O -
+               SETUP - X -
+             DEFAULT - X -
+                LOOK - O -
+                LINE - X -
+                HTTP - - X
+               GNOME - - S
+      UBUNTU-DESKTOP - - O

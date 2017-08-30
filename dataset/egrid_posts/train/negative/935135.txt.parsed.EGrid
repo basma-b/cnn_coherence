@@ -1,0 +1,15 @@
+             COMMAND O - - -
+                FILE X - - -
+                 RUN X - - -
+              BOOTUP O - - -
+            IPTABLES S X - -
+                  -F - S - -
+                 NAT - X - -
+              SCRIPT - O - -
+               PATCH - X - -
+              KERNEL - O - -
+             DYNAMIC - O - -
+                HOME - X - -
+               USERS - X - -
+              CLIENT - - X -
+            GETRIGHT - - - O

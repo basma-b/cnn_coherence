@@ -1,0 +1,9 @@
+            BINARIES S - - - -
+              METHOD X - - - -
+              SCRIPT S - - - -
+                 ONE S - - - -
+                 MAN - X - - -
+ UPDATE-ALTERNATIVES - O - - -
+              KERNEL - - - X O
+             VANILLA - - - - X
+            PATCHSET - - - - O

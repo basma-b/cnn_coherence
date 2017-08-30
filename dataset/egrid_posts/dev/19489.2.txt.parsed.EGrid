@@ -1,0 +1,11 @@
+              UBUNTU X - - - - - - - - - - - - - - -
+ IA32-LIBS-MULTIARCH - O - - - - - - - - - - - - - -
+               BLUEZ - O - - - - - - - - - - - - - -
+               THERE - - - - - - - - - - - - S - - -
+          DEPENDENCY - - - - - - - - - - - - O - - -
+                IA32 - - - - - - - - - - - - - X - -
+              AND/OR - - - - - - - - - - - - - - - X
+/ETC/NETWORK/INTERFACES - - - - - - - - - - - - - - - O
+             NETWORK - - - - - - - - - - - - - - - O
+             MANAGER - - - - - - - - - - - - - - - X
+           NM-APPLET - - - - - - - - - - - - - - - X

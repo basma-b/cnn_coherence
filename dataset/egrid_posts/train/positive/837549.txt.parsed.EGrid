@@ -1,0 +1,10 @@
+             COMMAND X - - - - - - - - - -
+              FORMAT X - - - - - - - - - -
+               STICK X - - - - - - - - - -
+             MFORMAT - - S - - - - - - - -
+                DISK - - X - - - - - - - -
+                  FS - - - X - - - - - - -
+             MKDOSFS - - - - S - - - - - -
+                NTFS - - - - - - S - - - -
+             LUBUNTU - - - - - - X - - - -
+                SUDO - - - - - - - S - - -

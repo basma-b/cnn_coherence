@@ -1,0 +1,18 @@
+            WWW-DATA X - - -
+ /VAR/WWW/MYSITE.COM O - - -
+                MENT X - - -
+                USER S - - -
+               GROUP X - - -
+          PERMISSION O - - -
+              THINGS O - - -
+                 FTP X - - -
+                THIS X - - -
+          PREMISSION S - - -
+                 MAN - - X -
+             GETFACL - - O -
+             SETFACL - - O -
+                SUDO - - - X
+             APT-GET - - - X
+RXVT-UNICODE-256COLOR - - - X
+               URXVT - - - X
+                   D - - - X

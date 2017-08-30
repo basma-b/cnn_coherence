@@ -1,0 +1,16 @@
+              SERVER X - - - - X -
+               LSMOD S - - - X - -
+       /PROC/MODULES S - S - - - -
+              NORMAL O - - - - - -
+             DEFAULT - X - - - X -
+              KERNEL - X S - S - -
+             SUPPORT - X - - - - -
+             MODULES - - S - - - -
+                THAT - - - X - - -
+               ERROR - - - - X - -
+              CUSTOM - - - - S - -
+               IMAGE - - - - - S -
+              HOSTER - - - - - X -
+                PROC - - - - - X X
+                TYPE - - - - - X X
+                NONE - - - - - - O

@@ -1,0 +1,29 @@
+              SCREEN X - - - - - - - - - - - - - -
+          BRIGHTNESS O - - - - - - - - - - - - - -
+               10.10 X - - - - - - - - - - - - - -
+                 DAY X - - - - - - - - - - - - - -
+              SYSTEM - - - - - X - - - - - - - - -
+              LAPTOP - - - - - X - - - - - - - - -
+             SAMSUNG - - - - - - S - - - X X - - -
+               MODEL - - - - - - X - - - - - - - -
+               ISSUE - - - - - - X - - - - - - - -
+              HAVENT - - - - - - S - - - - - - - -
+                R418 - - - - - - X - - - - - - - -
+                NITE - - - - - - X - - - - - - - -
+        INSTALLATION - - - - - - X - - - - - - - -
+                BOOT - - - - - - - - - X - - - - -
+              OPTION - - - - - - - - - X S - - - X
+ACPI_BACKLIGHT=VENDOR - - - - - - - - - X - - - - S
+   /ETC/DEFAULT/GRUB - - - - - - - - - - X X - - -
+               QUOTE - - - - - - - - - - X X - - -
+              SPLASH - - - - - - - - - - X X - - X
+                FILE - - - - - - - - - - O O - - -
+                 RUN - - - - - - - - - - S - - - -
+         UPDATE-GRUB - - - - - - - - - - X X - - -
+                THIS - - - - - - - - - - S - - - -
+                SUDO - - - - - - - - - - - X - - -
++ACPI_BACKLIGHT=SAMSUNG - - - - - - - - - - - O - - -
+             COMMAND - - - - - - - - - - - O - - -
+                LINK - - - - - - - - - - - S - - -
+              FEDORA - - - - - - - - - - - X - - -
+              CHANGE - - - - - - - - - - - - - - O

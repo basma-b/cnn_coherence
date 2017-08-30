@@ -1,0 +1,33 @@
+               MNEMO X - - - -
+                TYPE X - - - -
+                WINE X - - - -
+/HOME/MNEMONICA/.WINE/DRIVE_C/PRO X - - - -
+                   < S - - - -
+                 TAB S - - - -
+                   > O - - - -
+               /WORL X - - - -
+               SPACE X - - - -
+             -OPENGL O - - - -
+               DMESG X - - - -
+                GREP O - - - -
+             MESSAGE X - - - -
+             DISPLAY X - - - -
+                TTY8 X - - - -
+                FILE X - - - -
+            /VAR/LOG X - - - -
+             NOTHING X - - - -
+                SHOW X - - - -
+                ROOT O - - - -
+                SUDO X - - - -
+           LSOF|GREP X - - - -
+         /DEV/FOOBAR X - - - -
+             PROCESS S - - - -
+                 USE - S - - -
+           LSOF|LESS - O - - -
+              SEARCH - X - - -
+/DEV/WHATEVER-DEVICE-YOU'RE-LOOKING-FOR - O - - -
+            ANYTHING - - X - -
+                /DEV - - X - -
+            INTEREST - - - - X
+               THING - - - - X
+           /DEV/TTY8 - - - - O

@@ -1,0 +1,11 @@
+             COMMAND O - - - -
+                USER X - - - -
+                SUDO X - X - -
+            USERNAME S - - - -
+               ENTRY X - - - -
+               ADMIN - - X - -
+          PRIVLEDGES - - O - -
+                WORK - - O - -
+                ROOT - - - O -
+                 YEP - - - O -
+            PASSWORD - - - - X

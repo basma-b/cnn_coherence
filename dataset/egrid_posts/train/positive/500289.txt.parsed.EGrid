@@ -1,0 +1,13 @@
+                FILE S X - - - - -
+              UBUNTU X - - - - - -
+               GNOME O - - - - - -
+             SUDOERS - O - - - - -
+                TEXT - X - - - - -
+         PERMISSIONS - O - - - - -
+                HELP - - O - - - -
+ AUTO-AUTHENTICATION - - - - - O -
+         FIRESTARTER - - - - - X S
+             STARTUP - - - - - X -
+                 GUI - - - - - - O
+            FIREWALL - - - - - - X
+            COMPUTER - - - - - - S

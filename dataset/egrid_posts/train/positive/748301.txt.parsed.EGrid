@@ -1,0 +1,24 @@
+               MYSQL S - - -
+                WORK O - - -
+              SERVER X - - -
+                  .. O - - -
+         APPLICATION X - - -
+                 LOG S - - -
+              SOCKET X - - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK X - - -
+                 OWN X - - -
+               HOURS X - - -
+                SUDO - X - -
+               STATE - X - -
+             CRONTAB - - X -
+                ROOT - - X -
+               THERE - - S -
+            ANYTHING - - O -
+                HTTP - - X -
+                GREP - - X -
+          MYSQL_SAFE - - X -
+  /VAR/LOGS/MESSAGES - - X -
+        SOMEFILE.TXT - - X -
+                FILE - - X -
+           DIRECTORY - - X -
+             WINDOWS - - - X

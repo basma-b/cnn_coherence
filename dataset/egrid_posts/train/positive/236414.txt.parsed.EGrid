@@ -1,0 +1,17 @@
+                USER O O O - X -
+         USERS-ADMIN S S - - - X
+                KIND X X - - - -
+        DESKTOP-USER X X - - - -
+         /ETC/SHADOW - - X - - -
+         /ETC/PASSWD - - O - - -
+                COPY - - O - - -
+         PREFERENCES - - X - - -
+                MESS - - - X - -
+              PASSWD - - - X - -
+              SHADOW - - - X - -
+               THERE - - - S - -
+              CHANCE - - - O - -
+              SYSTEM - - - S - -
+             PURVIEW - - - - X -
+             DEFAULT - - - - X -
+           REFERENCE - - - - - X

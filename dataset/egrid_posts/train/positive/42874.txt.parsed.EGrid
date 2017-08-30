@@ -1,0 +1,16 @@
+        DIST-UPGRADE X - - - - -
+               WARTY X - - - - -
+               HOARY X - - - - -
+        REPOSITORIES - O - - - -
+              SOURCE - X - - - -
+           BACKPORTS - O - - - -
+                THAT - - - X O -
+                DATE - - - - X -
+                LINK - - - - X -
+        /DISTS/HOARY - - - - X -
+                NAME - - - - O -
+             SYMLINK - - - - O -
+              PEOPLE - - - - S -
+        SOURCES.LIST - - - - X -
+                 WAY - - - - - X
+              DEBIAN - - - - - X

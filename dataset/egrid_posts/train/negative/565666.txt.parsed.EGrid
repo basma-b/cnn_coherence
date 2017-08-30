@@ -1,0 +1,23 @@
+             COMMAND O - - - - -
+                 WAY X - - - - -
+              AMAROK X - - - - -
+              LAUNCH O - - - - -
+           RHYTHMBOX X O - - - -
+             DEFAULT X - - - - -
+              PLAYER X - - - - -
+               MEDIA X - - - - -
+              HOTKEY X - - - - -
+     /USR/BIN/AMAROK - X - - - -
+/USR/LOCAL/BIN/RHYTHMBOX - S - - - -
+             SYMLINK - O - - - -
+                FILE - O - - - -
+               THING - O - - - -
+                 ATI - - X - - -
+            CATALYST - - X - - -
+              DRIVER - - O - - -
+               ORDER - - S - - -
+                 ONE - - X X - -
+                 USE - - - - - X
+             GPARTED - - - - - X
+           PARTITION - - - - - X
+               MAGIC - - - - - X

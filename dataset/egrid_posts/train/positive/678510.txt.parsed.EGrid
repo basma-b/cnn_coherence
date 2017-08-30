@@ -1,0 +1,17 @@
+             COMMAND S O - - -
+            IPTABLES O - O - -
+               INPUT X - - - -
+                   < X - - - -
+                  IP S - - - -
+                DROP S - - - -
+                   H S - - - -
+              BRIDGE X - - - -
+          CONNECTION X - - - -
+                 ONE - X - - -
+              IFELMA - O - - -
+         CONNECTIONS - O - - -
+            COMPUTER - X - - -
+          PERIPHERAL - - O - -
+              ROUTER - - X - -
+             TRAFFIC - - S - -
+                 WAY - - O - -

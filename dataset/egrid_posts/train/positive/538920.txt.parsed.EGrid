@@ -1,0 +1,11 @@
+                   > S - - -
+               ISSUE O - - -
+             NETWORK - O O -
+             DNSMASQ - S - -
+                 BOX - X - -
+         SERVER/WINS - X - -
+              SERVER - X - -
+                  .. - X - -
+          MASQUERADE - - - X
+                 NAT - - - X
+                  IP - - - O

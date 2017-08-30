@@ -1,0 +1,23 @@
+                BOOT X - - - -
+            SEQUENCE S - - - -
+﻿/BOOT/GRUB/MENU.LST X - - - -
+               ERROR X - - - -
+             MESSAGE S - - - -
+               VISTA O - - - -
+              DEVICE X - - - -
+             REQUEST X - - - -
+                 KEY O - - - -
+           PARTITION - X - - -
+              NUMBER - S - - -
+   PARTITIONS/DRIVES - X - - -
+                THAT - - S - -
+               FORCE - - O - -
+                   E - - X - -
+                GRUB - - X - -
+                MENU - - X - -
+                 0,0 - - X - -
+                 0,1 - - X - -
+                 1,0 - - X - -
+                 1,1 - - X - -
+               DRIVE - - X - -
+             PROBLEM - - - - X

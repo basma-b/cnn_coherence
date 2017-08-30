@@ -1,0 +1,15 @@
+              VOLUME S - - - - -
+           DIRECTORY X - O - - -
+                ROOT X - - X - -
+               FSTAB X - - - - -
+              OPTION O - - - - -
+               UMASK - S - - - O
+                NTFS - - X - - -
+             DEFAULT - - S - - -
+                THIS - - S - - -
+             EXAMPLE - - O - - -
+              DEVICE - - S - - -
+                   < - - X - - -
+               DRIVE - - - O - -
+                 ALL - - - O - -
+                EXT3 - - - O - X

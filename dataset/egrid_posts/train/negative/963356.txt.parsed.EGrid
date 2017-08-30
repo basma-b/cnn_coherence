@@ -1,0 +1,18 @@
+        MAIN.CF.DIST S - - - - - - - - -
+             DEFAULT O X - - - - - - - -
+               VALUE X X - - - - - - - -
+                THAT - O - - - - - - - -
+                FILE - X - - - - - - - -
+             POSTFIX - - X - - - - - - -
+                 ALL - - - X - - - - - -
+               YAHOO - - - X - - S - - -
+               LOCAL - - - X - - - - - -
+/ETC/POSTFIX/MAIN.CF - - - X - - - - - -
+           LOCALHOST - - - - O - - - - -
+               EMAIL - - - - - O - - - -
+             MACHINE - - - - - X X - - -
+               ROUTE - - - - - - X - - -
+           RELAYHOST - - - - - - X - - -
+              UPDATE - - - - - - - - S -
+             UPGRADE - - - - - - - - S -
+              THANKS - - - - - - - - - X

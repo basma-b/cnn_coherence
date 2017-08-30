@@ -1,0 +1,12 @@
+             ANYBODY X - - -
+             HOSTAPD O - O -
+               10.04 X - - -
+        /ETC/INIT.D/ - X - -
+              SCRIPT - X - -
+            SETTINGS - X - -
+       /ETC/DEFAULT/ - X - -
+        /ETC/DEFAULT - - X -
+            ANYTHING - - - X
+/ETC/NETWORK/INTERFACES - - - X
+            WIRELESS - - - X
+                  AP - - - X

@@ -1,0 +1,24 @@
+                 KEY X - -
+             PACKAGE X - -
+                 GPG - X -
+           KEYSERVER - X -
+     SUBKEYS.PGP.NET - X -
+                   < - S -
+               KEYID - O -
+                   > - X -
+              EXPORT - X -
+                   | - X -
+                SUDO - X -
+             APT-KEY - X -
+               ERROR - X -
+             MESSAGE - S -
+            1F41B907 - O -
+                  NP - S -
+/ETC/APT/SOURCES.LIST - O -
+                MINE - S -
+              DAMAGE - O -
+                 DEB - - X
+                HTTP - - X
+                MAIN - - S
+            UNIVERSE - - X
+          MULTIVERSE - - O

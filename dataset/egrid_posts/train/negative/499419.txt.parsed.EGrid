@@ -1,0 +1,12 @@
+                TIME X - - - - -
+                SUDO S - - - - -
+             TIMEOUT - O X - - -
+             MINUTES - - S - - -
+             DEFAULT - - X X - -
+             SUDOERS - - X - - -
+                FILE - - X - - -
+             NOTHING - - O - - -
+        /ETC/SUDOERS - - X - - -
+               VALUE - - - O - -
+   TIMESTAMP_TIMEOUT - - - - X -
+                BOOT - - - - - O

@@ -1,0 +1,7 @@
+             COMMAND X - -
+             STARTUP X - -
+                ROOT - X -
+              SEARCH - - X
+           GSTREAMER - - X
+                   | - - O
+              LATEST - - O

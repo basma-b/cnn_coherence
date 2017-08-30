@@ -1,0 +1,15 @@
+           DIRECTORY O S - -
+         PERMISSIONS X S - -
+                 ALL S - - -
+          READ/WRITE O - - -
+             MEMBERS X - - -
+               GROUP X X - -
+                FILE - O - -
+               CHMOD - S - -
+              PEOPLE - X - -
+               G+RWX - X - -
+                   R - X - -
+               THERE - - S -
+                 WAY - - O -
+             DEFAULT - - O -
+                  RM - - - S

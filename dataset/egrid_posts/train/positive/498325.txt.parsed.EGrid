@@ -1,0 +1,23 @@
+              INSTAL O - - - - - - - -
+              APPLET O - - S - - - - -
+       NETWORK-ADMIN - - O - - - - - -
+            WIRELESS - - X - - - - - -
+          ENCRYPTION - - O - - - - - -
+                WORK - - X - - - - - -
+                FINE - - O - - - - - -
+             PACKAGE - - - X - - - - -
+        NOTIFICATION - - - X - - - - -
+                AREA - - - X - - - - -
+      NETWORKMANAGER - - - S - - - - O
+               CHECK - - - S - - - - -
+             PROCESS - - - O - - - - -
+                  PS - - - X - - - - -
+                GREP - - - X - - - - -
+           NM-APPLET - - - S - - - - -
+          SM-DISABLE - - - O - - - - -
+               PANEL - - - - - - X - -
+                LIST - - - - - - X - -
+                 ALL - - - - - - - S -
+              CONFIG - - - - - - - O -
+                SUDO - - - - - - - - X
+/ETC/INIT.D/NETWORKMANAGER - - - - - - - - S

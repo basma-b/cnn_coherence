@@ -1,0 +1,10 @@
+             COMMAND X - - - - - - -
+                LINE X - - - - - - -
+            SYNAPTIC - - - S - - - -
+                 GUI - - - X - - - -
+         APPLICATION - - - O - - - -
+                FAAD - - - - O - - O
+         LIBFAAD-DEV - - - - - S - -
+              INSTAL - - - - - - - X
+                 RUN - - - - - - - X
+             APT-GET - - - - - - - S

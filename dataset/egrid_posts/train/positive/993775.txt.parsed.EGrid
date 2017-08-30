@@ -1,0 +1,25 @@
+                HDA4 O - - - -
+             KNOPPIX X - - - -
+               ERROR X - - - -
+                   @ S - - - -
+               -RSB- S - - - -
+           /DEV/HDA4 X - - O O
+           /MNT/HDA4 S - - - -
+                TYPE X - - - -
+              OPTION X - - O -
+          SUPERBLOCK X - - - -
+                MANY X - - - -
+                FILE X - - - -
+             SYSTEMS O - - - -
+               TOPIC X - - - -
+           PARTITION O - O S -
+                  RW O - - - -
+                  FS - S - - -
+           /ETC/MTAB - O - - -
+                EXT3 - - - X -
+                ROOT - - - X -
+                  CD - - - O -
+             SUCCESS - - - X -
+                HTTP - - - X -
+//PASTE.UBUNTULINUX.NL/4402 - - - X -
+                SUDO - - - - S

@@ -1,0 +1,10 @@
+                  DD X - - -
+        IF=/DEV/ZERO X - - -
+         OF=/DEV/SDB S - - -
+             COMMAND X - - -
+              100SEC X - - -
+                DISK X - - -
+              SECOND - O - -
+                 USE - - X S
+              OPTION - - O -
+              PASSWD - - X -

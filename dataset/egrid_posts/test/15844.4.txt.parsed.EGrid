@@ -1,0 +1,12 @@
+                USER X - X - -
+          PERMISSION X S - - -
+             SOCKETS O - - - -
+                ROOT X - - - -
+              ACCESS X - - - -
+               THERE - X - - -
+                 WAY - X - - -
+         CAP_NET_RAW - X - - -
+             CONTEXT - O - - -
+              SETCAP - - - X -
+              BINARY - - - X -
+               FREAK - - - - S

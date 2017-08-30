@@ -1,0 +1,7 @@
+           GRUB.CONF X - - -
+          /BOOT/MENU - X - -
+     /BOOT/GRUB/MENU - - S -
+              KERNEL - - - X
+                LINE - - - S
+                FILE - - - X
+           PARTITION - - - X

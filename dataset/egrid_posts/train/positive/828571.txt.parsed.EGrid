@@ -1,0 +1,24 @@
+                USER - S - - X - - O -
+               GROUP - O - - X - - - -
+            SECURITY - X - - - - - - -
+             CONCERN - X - - - - - - -
+               ADMIN - - S - - - - - -
+              SYSTEM - - X - X - - - -
+                FILE - - O - - - - - -
+                TIME - - - - X - - - -
+             OPTIONS - - - - S - - - -
+                   % - - - - O - - - -
+                ROOT - - - - X - X - -
+            PASSWORD - - - - X - - - -
+                BASH - - - - X - - - -
+              SCRIPT - - - - X - O X -
+                  .. - - - - X - - - -
+             PROBLEM - - - - S - - - -
+            INTEREST - - - - O - - - -
+          MANAGEMENT - - - - - - X - -
+              ACCESS - - - - - - O X -
+                 GUI - - - - - - X - -
+            CALLBACK - - - - - - O - -
+             SUDOERS - - - - - - - X -
+              REASON - - - - - - - X -
+CHECK_ROOT_PRIVILEGES - - - - - - - - S

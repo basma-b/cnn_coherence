@@ -1,0 +1,10 @@
+                 RAM X S - - -
+             CORRUPT - X - - -
+                TERM - O - - -
+            HARDWARE - X - - -
+             PROBLEM - O - - -
+              MEMORY - X - O -
+                LEAK - X - X -
+            POINTERS - - X - -
+             PROGRAM - - - O -
+                  OS - - - - S

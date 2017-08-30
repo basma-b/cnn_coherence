@@ -1,0 +1,17 @@
+             COMMAND S - - - - - -
+                SUDO X X X - - - -
+          XAUTHORITY O - - - - - -
+             NOTHING S - - - - - -
+                FILE S - X - - - -
+                  DB - S - - - - -
+            UPDATEDB - O X - - - -
+            DATABASE - - S - - - -
+                 MAN - - X - - - -
+             LOCOATE - - X - - - -
+              FOOBAR - - S - - - -
+               DRIVE - - O - - - -
+          FILE-INFOS - - S - - - -
+               INFOS - - S - - - -
+             SOMEONE - - - - - O -
+              ACCESS - - - - - X -
+                  PC - - - - - X -

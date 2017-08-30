@@ -1,0 +1,17 @@
+            SHUTDOWN O - - - - - - -
+             OPTIONS O - - - - O - -
+               GNOME X - - - - - O -
+              UBUNTU X - - - - - - -
+               USERS X - - - - - - -
+                THAT - S - - - S - S
+         PERMISSIONS - O - - - - - -
+      /SBIN/SHUTDOWN - X - - - - - -
+        /SBIN/REBOOT - X - - - - - -
+                ROOT - X - - - - - -
+          DIFFERENCE - S - - - - - -
+                 GDM - X - - - - - -
+           PRIVILEGE - X - - - - - -
+               IDEAS - - X - - - - -
+            GDMSETUP - - - O - - - -
+                SETP - - - - - O - -
+              SCREEN - - - - - X - -

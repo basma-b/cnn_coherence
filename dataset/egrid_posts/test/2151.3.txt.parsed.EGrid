@@ -1,0 +1,13 @@
+               SPACE X - - -
+           PARTITION X - - -
+                HTTP - X - -
+                SWAP - X - -
+                 WAY - X - -
+                FILE - - X -
+                LOOK - - - O
+                COPY - - - X
+      /VAR/LIB/MYSQL - - - X
+                SHOW - - - X
+           DATABASES - - - S
+             SYMLINK - - - O
+HELP/TROUBLESHOOTING - - - X

@@ -1,0 +1,20 @@
+         PERMISSIONS X S - - - -
+                .SSH X X - - - -
+.SSH/AUTHORIZED_KEYS X X - - X -
+             DEFAULT - X - - - -
+                USER - X - - - -
+               CHMOD - X - - - -
+             KEYFILE - O - - - -
+              UBUNTU - X X - - -
+             MACHINE - X X - - -
+                .PUB - - O - - -
+                 CAT - - O - X -
+     AUTHORIZED_KEYS - - X - - -
+                FILE - - O - - -
+                THAT - - - S - -
+~/.SSH/AUTHORIZED_KEYS - - - - X -
+       ~/KEYFILE.PUB - - - - S -
+                   > - - - - X -
+              ~/.SSH - - - - X -
+                HTTP - - - - - X
+//SMAGES.COM/I/CD/06/CD068BB08166046C7E23C0927DE2B7DB.PNG - - - - - S

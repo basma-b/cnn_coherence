@@ -1,0 +1,13 @@
+            OPERATOR X - - -
+                ISNT X - - -
+                WORK S - - -
+                FILE X - - -
+                USER X - - -
+           PRIVILEGE O - - -
+             COMMAND - X - X
+                THIS - - X -
+                 CAT - - X -
+               FILE1 - - S -
+               FILE2 - - O -
+              OUTPUT - - - O
+               ERROR - - - S

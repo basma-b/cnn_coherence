@@ -1,0 +1,10 @@
+             DRIVERS O O - -
+             COMMAND X - - -
+           BLACKLIST - X - -
+                LOAD - O - -
+/ETC/MODPROBE.D/BLACKLIST - X - -
+              DRIVER - X - -
+              SYSTEM - O - -
+              CHANGE - S - -
+               THERE - - - S
+          MOTIVATION - - - O

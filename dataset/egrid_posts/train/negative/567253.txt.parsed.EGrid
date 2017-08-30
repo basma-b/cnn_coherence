@@ -1,0 +1,13 @@
+                SIZE O - - - - -
+           PARTITION X - - O - -
+            INSTANCE - X - - - -
+               /HOME - O - - - -
+                /USR - O - - - -
+                THAT - - O - - S
+          FILESYSTEM - - - O - -
+                  .. - - - O - -
+                PIPE - - - - - X
+              OUTPUT - - - - - O
+                LESS - - - - - X
+                 MAN - - - - - X
+              SCREEN - - - - - X

@@ -1,0 +1,10 @@
+             CONTENT O - -
+LINUX-HEADERS-3.2.0-23 X - -
+           LOCATIONS X - -
+                MESS - X -
+            SYMLINKS - S -
+                THIS - - S
+                 WAY - - O
+            LIBC-DEV - - S
+                FILE - - O
+/USR/INCLUDE/LINUX/IF.H - - X

@@ -1,0 +1,25 @@
+                 DMA O O X - -
+                  CD X - - - -
+              DEVICE X - - - -
+                  .. O - - - -
+           BLACKLIST - X O - -
+               CDROM - S - - -
+                  OH - O - - -
+                UDMA - X - - -
+                 HDC - X - - -
+                   U - X - - -
+             SAMSUNG - X - - -
+              CD-ROM - X - - -
+             SC-148C - X - - -
+                SUDO - X - - X
+                 CAT - X - - -
+/PROC/IDE/HDC/SETTINGS - X - - -
+                BOTH - - X - -
+           STABILITY - - X - -
+            PROBLEMS - - X - -
+             DESKTOP - - - X -
+             MANAGER - - - X -
+                 E.G - - - O -
+                THAT - - - - O
+                 KDE - - - - O
+             APT-GET - - - - S

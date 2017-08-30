@@ -1,0 +1,12 @@
+                ALSA S - - -
+          PULSEAUDIO O - O -
+            HARDWARE X - - -
+              AMIXER O - - -
+                 LIB X - - -
+             PULSE.C O - - -
+       PULSE_CONNECT X - - -
+          CONNECTION S - - -
+                 TRY O - - -
+             PACKAGE S - - -
+                BITE - - - X
+              FRIEND - - - O

@@ -1,0 +1,33 @@
+     SUB-DIRECTORIES X - - - - - -
+             COMMAND O - X - - - -
+               /HOME - X - - - - -
+       DESKTOP/DIR1/ - - X - - - -
+     SUBDIRX/SUBDIRY - - X - - - -
+       DESKTOP/DIR2/ - - X - - - -
+              SYNTAX - - X - - - -
+                PART - - X - S - -
+                 USE - - - O - - -
+              SOURCE - - - X - - -
+            ARGUMENT - - - S - - -
+         DESTINATION - - - X - - -
+                DIR1 - - - - X - -
+                DIR2 - - - - O - -
+                DIR3 - - - - S - -
+                  .. - - - - O - -
+                PATH - - - - O - -
+DESKTOP/NEWDIR1/DIR1 - - - - X - -
+DESKTOP/NEWDIR1/DIR2 - - - - X - -
+    DESKTOP/NEWDIR2/ - - - - X - -
+           EXPANSION - - - - O - -
+                  IV - - - - X - -
+    DESKTOP/NEWDIR1/ - - - - X - -
+     DESKTOP/NEWDIR2 - - - - S - -
+              OPTION - - - - S - -
+                MANY - - - - S - -
+             PROBLEM - - - - O - X
+             PROGRAM - - - - S - -
+            ANYTHING - - - - O - -
+           DIRECTORY - - - - X - -
+                   * - - - - O - -
+            TERMINAL - - - - X - -
+                 KEY - - - - O - -

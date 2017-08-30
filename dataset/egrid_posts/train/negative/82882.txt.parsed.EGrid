@@ -1,0 +1,17 @@
+         PERMISSIONS - O - - - - S - - - - -
+                PART - X - - - - - - - - - -
+              BREEZY - - - S - - - - - - - -
+           UMASK=022 - - - O - - - - X - - -
+              ACCESS - - - - O - S - - - - -
+           UMASK=000 - - - - - X - - - - - -
+                THAT - - - - - - X - - - - X
+                USER - - - - - - X - - - - -
+               GRANT - - - - - - O - - - - -
+             RWXRXRX - - - - - - X - - - - -
+              ENOUGH - - - - - - O - - - - -
+              ERRORS - - - - - - - - O - - -
+            UID=1000 - - - - - - - - O - - -
+                SUDO - - - - - - - - X - - -
+              UMOUNT - - - - - - - - X - - -
+                  -A - - - - - - - - O - - -
+                MORE - - - - - - - - - - - O

@@ -1,0 +1,30 @@
+                  HI X - - - - - - - - -
+                TIME - O - - - - - - - -
+             PROBLEM - O - - - - - - - -
+               SOUND - X - - - - - - - -
+                 HDA - X - - - - - - - -
+               INTEL - X - - - - - - - -
+           ALSASOUND - O - - - - - - - -
+                SUDO - X - - - - - - - -
+/ETC/INIT.D/ALSASOUND - S - - - - - - - -
+              REBOOT - X - - - - - - X -
+                THAT - - - O - - - - - S
+               THERE - - - X - - - - - -
+                 WAY - - - X - - - - S -
+              SYSTEM - - - - O - - - - -
+               BRAND - - - - S - - - - -
+                  PC - - - - S - - - - -
+              LAPTOP - - - - S - - - - -
+               MODEL - - - - - - O - - -
+                DELL - - - - - - - X - -
+            INSPIRON - - - - - - - X - -
+                 TRY - - - - - - - O - -
+             OPTIONS - - - - - - - X - -
+       MODEL=DELL-M6 - - - - - - - X - -
+                   > - - - - - - - X - -
+/ETC/MODPROBE.D/ALSA-BASE.CONF - - - - - - - O O -
+                EXIT - - - - - - - S - -
+                GOOD - - - - - - - - O -
+             DELL-M6 - - - - - - - - O -
+             UPGRADE - - - - - - - - O -
+                  NO - - - - - - - - - O

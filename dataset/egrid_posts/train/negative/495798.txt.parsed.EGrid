@@ -1,0 +1,17 @@
+                CARD X - - - -
+              CONFIG X - X - -
+               GNOME X - - - -
+            SAFEMODE - O - - -
+            KEYBOARD - X - - -
+                CANT - S - - -
+                 USE - O - - -
+                   ' - - X - -
+                BOOT - - S - -
+            RECOVERY - - X - -
+                MODE - - X - -
+        XSERVER-XORG - - X - -
+              RETURN - - O - -
+            POSTINST - - S - -
+                  .. - - X - -
+           XORG.CONF - - O - -
+                YEAH - - - - X

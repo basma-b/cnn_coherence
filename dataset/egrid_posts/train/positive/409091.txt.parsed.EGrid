@@ -1,0 +1,27 @@
+                TIME O - - -
+              ANYONE S - - -
+        INSTRUCTIONS - O - -
+               HTTPS - X - -
+//HELP.UBUNTU.COM/COMMUNITY/ROUTER - X - -
+              BRIDGE - X - -
+             NETWORK - S - -
+                 USE - O - -
+         UNREACHABLE - X - -
+             DEFAULT - X - -
+             GATEWAY - O - -
+               ROUTE - X - -
+             COMMAND - X - -
+                WORK - X - -
+            DHCLIENT - O - -
+                MESS - O - -
+            QUESTION - O - -
+             SOMEONE - S - -
+         192.168.0.1 - X - -
+         RESOLV.CONF - X - -
+              ROUTER - - S -
+         192.168.1.1 - - O -
+                 DNS - - O -
+               STICK - - O -
+                  IP - - X -
+              REASON - - X -
+/ETC/NETWORK/INTERFACES - - - S

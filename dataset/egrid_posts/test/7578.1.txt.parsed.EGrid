@@ -1,0 +1,12 @@
+   /ETC/INIT.D/NGINX S - - - - - -
+                PART O - - - - - -
+        NGINX-COMMON X - - - - - -
+               NGINX - X - - - - X
+             PACKAGE - O - O - X -
+        DEPENDENCIES - - - X - - -
+                THAT - - - - O - -
+               PURGE - - - - S S X
+       CONFIGURATION - - - - - X -
+                FILE - - - - - O -
+           SOMETHING - - - - - - S
+          AUTOREMOVE - - - - - - X

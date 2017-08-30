@@ -1,0 +1,23 @@
+                  HI X - - -
+                9.04 X - - -
+            MODPROBE X - - -
+             ACERHDF O S - -
+              SERIES O - - -
+              ERRORS X - - -
+             WARNING X - - -
+              CONFIG S - - -
+                NEED O - - -
+/ETC/MODPROBE.D/BLACKLIST X - - -
+             RELEASE X - - -
+               FATAL - S - -
+               ERROR - X - -
+              INSERT - X - -
+/LIB/MODULES/2.6.28-11-GENERIC/KERNEL/DRIVERS/MISC/ACERHDF.KO - X - -
+           OPERATION - S - -
+                THAT - - O -
+                ROOT - - X -
+                SUDO - - O -
+               FRONT - - X -
+                BOOT - - - X
+             WINDOWS - - - X
+                 BRB - - - X

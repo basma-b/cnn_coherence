@@ -1,0 +1,16 @@
+            IWCONFIG - X - - - - -
+               WLAN0 - X - - - - -
+              KERNEL - - X - - - -
+              MODULE - - S - - - -
+                 USE - - X - - - -
+            IFCONFIG - - X - - - -
+                  -A - - S - - - -
+          INTERFACES - - X - - - -
+                ETH0 - - - S - - -
+               THERE - - - S - - -
+           INTERFACE - - - O - - -
+                WIFI - - - X - - -
+               CHECK - - - - S - -
+                PORT - - - - - - O
+                SUDO - - - - - - X
+           WEBSERVER - - - - - - O

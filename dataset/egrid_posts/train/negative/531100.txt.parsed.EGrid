@@ -1,0 +1,15 @@
+                BOOT X X - -
+                 HDD O - - -
+                 MBR O - - -
+              EXTERN O - - -
+           PARTITION S - - -
+             WINDOWS X - - -
+                GRUB O X O -
+               ERROR S - - -
+                DISK O O - -
+                LINK O - X -
+               IMAGE - O - -
+                  CD - X - -
+                  PM - - X -
+            SHUTDOWN - - - S
+             APT-GET - - - X

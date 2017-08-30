@@ -1,0 +1,11 @@
+                HELP O - - - - -
+             PROBLEM - O - - - -
+             PROFTPD - X S - - -
+                TYPE - - X - - -
+                SUDO - - X X - -
+ /ETC/INIT.D/PROFTPD - - S - - -
+        INETD/XINETD - - X - - -
+        INSTALLATION - - - X - -
+              KARMIC - - - X - -
+            INTREPID - - - X - -
+  /ETC/INIT.D/XINETD - - - S - -

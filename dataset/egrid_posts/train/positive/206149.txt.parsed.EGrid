@@ -1,0 +1,26 @@
+                HELP - O - - -
+              AMAROK - O O - -
+                HERE - S - - -
+               ERROR - O - - -
+                HTTP - O - - -
+            PASTEBIN - O - - -
+/ETC/APT/SOURCES.LIST - S - - -
+               HERES - O - - -
+                FILE - X - - -
+                SUDO - X - - -
+             APT-GET - X - - -
+           BUILD-DEP - X - - -
+             VERSION - O - - -
+              SOURCE - - X - -
+             COMMAND - - S X -
+        DEPENDENCIES - - O - -
+               REPOS - - X - -
+                ONES - - X - -
+                 WAY - - X - X
+             PACKAGE - - O - -
+        DEBIAN/RULES - - O - -
+                 AAH - - O - -
+   -DEP=DEPENDENCIES - - S - -
+           DEPENCIES - - - S -
+             REQUIRE - - - - O
+               THERE - - - - X

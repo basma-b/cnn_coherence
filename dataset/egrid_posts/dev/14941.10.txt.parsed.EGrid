@@ -1,0 +1,17 @@
+             DEFAULT X - - - -
+             .CONFIG X - - - -
+             KERNELS X - - - -
+                   $ - X - - -
+                  LS - X - - -
+                FILE - X - - -
+           DIRECTORY - X - - -
+       /BOOT/CONFIG- - X - - -
+                  -R - X - - -
+              KERNEL - X - - -
+           APT-CACHE - - X - -
+              SEARCH - - X X -
+                  -N - - S X -
+              NUMBER - - X X -
+             PACKAGE - - O O -
+             PROBLEM - - - X X
+         LINUX-IMAGE - - - S -

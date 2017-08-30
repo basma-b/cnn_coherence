@@ -1,0 +1,15 @@
+             COMMAND - X - - -
+                LINE - X - - -
+                MODE - X - - -
+                 GDM - X - - -
+               LOGIN - - X - -
+              SCREEN - - X - -
+         COMMANDLINE - - O - -
+             SESSION - - X - -
+                TYPE - - X - -
+           PARTITION - - - X -
+               TABLE - - - O -
+            TESTDISK - - - S -
+                COPY - - - O -
+                FILE - - - X -
+                THAT - - - - X

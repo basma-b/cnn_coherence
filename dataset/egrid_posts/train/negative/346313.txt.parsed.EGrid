@@ -1,0 +1,12 @@
+           PARTITION X - - -
+                /USR - X - -
+                COPY - X - -
+                FILE - O - -
+               ENTRY - O - -
+                ROOT - X - -
+           DIRECTORY - X - -
+              REBOOT - X - -
+                MOVE - - S -
+                BOOT - - X -
+                WARN - - O -
+                NOPE - - - X

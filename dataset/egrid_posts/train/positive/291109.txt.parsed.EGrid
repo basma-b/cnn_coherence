@@ -1,0 +1,13 @@
+            WIRELESS X - - - -
+           INTERFACE X - - - -
+                DHCP O O - - X
+                AUTO - X - - X
+                ATH0 - S - - O
+                INET - X - - X
+/ETC/NETWORK/INTERFACES - X - - -
+              DEVICE - O - - -
+               ERROR - - S - -
+             RESTART - - - - X
+              SYNTAX - - - - S
+                  .. - - - - S
+                SUDO - - - - O

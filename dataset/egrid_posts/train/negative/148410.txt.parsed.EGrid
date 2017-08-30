@@ -1,0 +1,30 @@
+                /MSG X - - - - -
+            NICKSERV S - - - - -
+              HOHOHO S - - - - -
+             TROUBLE O - - - - -
+        LIRC-MODULES S - - - - -
+                LOAD O - - - - -
+               ERROR - X - - - -
+              INSERT - X - - - -
+            LIRC_DEV - X - - - -
+/LIB/MODULES/2.6.15-22-K7/MISC/LIRC_DEV.KO - X - - - -
+              SYMBOL - X - - - -
+              MODULE - X - - - -
+           PARAMETER - X - - - -
+               DMESG - O - - - -
+                LIRC - S - - - -
+            SYNAPTIC - X X - - -
+              KERNEL - - X - - -
+             MODULES - - S - - -
+                PAGE - - - S - -
+//WIKI.UBUNTU.COM/LIRCHOWTO - - - X - -
+               NUXIL - - - - O -
+               SOUND - - - - X -
+          FILESYSTEM - - - - - O
+                FSCK - - - - - S
+               WHILE - - - - - X
+                LOOK - - - - - S
+         /ETC/INIT.D - - - - - X
+              SCRIPT - - - - - X
+             BATTERY - - - - - X
+               POWER - - - - - X

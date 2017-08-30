@@ -1,0 +1,8 @@
+                HOST X - -
+     BEBELUSHUL.INFO X - -
+         SMTP-SERVER - S -
+             POSTFIX - X -
+                EXIM - X -
+          NULLMAILER - O -
+            SENDMAIL - O -
+                 TRY - - X

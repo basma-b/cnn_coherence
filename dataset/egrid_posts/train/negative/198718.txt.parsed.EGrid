@@ -1,0 +1,30 @@
+              SERVER X - - - - - - - -
+                INET X - - - - - - - -
+          CONNECTION X - X - - - - - -
+                 DNS - - X - - - - - -
+              SCRIPT - - O - - - - O -
+/ETC/NETWORK/IF-UP.D/ - - X - - - - X -
+               SETUP - - X - - - - - -
+          NAMESERVER - - X - - - - - -
+              DAPPER - - X - - - - - -
+                TIME - - - - O - - X -
+                THAT - - - - X - X S -
+             MISTIKL - - - - X - - - -
+          RESOLVCONF - - - - S - - S -
+                  .. - - - - X - - - -
+         RESOLV.CONF - - - - X - - - -
+                DHCP - - - - X - - - -
+                IFUP - - - - - - X - -
+              STATIC - - - - - - - O -
+/ETC/RESOLVCONF/RESOLV.CONF.D/ - - - - - - - S -
+              REASON - - - - - - - X -
+                TAIL - - - - - - - X -
+           DIRECTORY - - - - - - - X -
+             MACHINE - - - - - - - X -
+                BASE - - - - - - - X -
+                LINE - - - - - - - O -
+                 TOP - - - - - - - X -
+                HEAD - - - - - - - X -
+             TROUBLE - - - - - - - O -
+               ERROR - - - - - - - O -
+              THINGS - - - - - - - - X

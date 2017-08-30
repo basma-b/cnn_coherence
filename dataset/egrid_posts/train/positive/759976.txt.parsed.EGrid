@@ -1,0 +1,10 @@
+                THIS X - -
+          X11-COMMON O - -
+       X11-XKB-UTILS X S -
+          DEPENDENCY X - -
+               CYCLE X - -
+                SUDO - X -
+                DPKG - O -
+         RECONFIGURE - X -
+             MESSAGE - O -
+              OPTION - X -

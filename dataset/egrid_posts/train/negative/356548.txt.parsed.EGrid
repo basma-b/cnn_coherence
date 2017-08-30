@@ -1,0 +1,12 @@
+             PACKAGE X - - -
+           MEGABYTES O - - -
+        DEPENDENCIES X - - -
+                PERL X - - -
+           LIBRARIES X - - -
+                THIS - - X -
+                RULE - - O -
+            IPTABLES - - X X
+                FACT - - - X
+                 USE - - - X
+            SOFTWARE - - - X
+           FIREWALLS - - - S

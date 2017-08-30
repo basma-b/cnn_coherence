@@ -1,0 +1,8 @@
+             SOMEONE X S -
+               FSTAB X - -
+           PARTITION - X -
+           AUTOMOUNT - O -
+                  .. - X -
+          /ETC/FSTAB - O -
+               ERROR - - S
+                WARN - - X

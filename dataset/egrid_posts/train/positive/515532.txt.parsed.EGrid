@@ -1,0 +1,30 @@
+               USERC X - - - X
+            TERMINAL X - - - -
+             COMMAND O - - - S
+            SETTINGS X - - - X
+             MANAGER X - - - O
+           SOMETHING O - - - -
+                 THE - S - - -
+              OUTPUT - O - - O
+CAIRO-DOCK-MODULES.C - X - - -
+CAIRO_DOCK_PRELOAD_MODULE_FROM_DIRECTORY:263 - X - - -
+              MODULE - X - - -
+LIBTHUNAR-VFS-1.SO.2 - X - - -
+               SHARE - X - - -
+              OBJECT - X - - -
+                FILE - O - - -
+           DIRECTORY - X - - -
+CAIRO_DOCK_GET_DESKLET_DECORATION - X - - -
+CAIRO_DOCK_CREATE_SURFACE_FROM_IMAGE - X X - -
+           ASSERTION - S X - -
+         RSVG_HANDLE - - X - -
+                NULL - - X S -
+                   U - - - - S
+              HELPER - - - - O
+                CANT - - - - X
+              ANSWER - - - - X
+               EMAIL - - - - X
+            QUESTION - - - - X
+               CHECK - - - - X
+                THIS - - - - X
+GNOME-CONTROL-CENTER - - - - X

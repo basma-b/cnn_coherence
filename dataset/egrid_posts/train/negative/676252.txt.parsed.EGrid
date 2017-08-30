@@ -1,0 +1,29 @@
+                THIS X - - - - - - - -
+              UBUNTU X - - - - - - - -
+                 SSH X - - - - - - - -
+           LOCALHOST X - - - - - - - -
+                PORT O - - - - - - - -
+          CONNECTION X - - - - - - - -
+              REFUSE S - - - - - - - -
+            FIREWALL O - - - - - - O -
+          ALLOW/DENY - - - S - - - - -
+       DESKTOP-IGLOO - - - X - - - - -
+                   ~ - - - O - - - - -
+    /ETC/HOSTS.ALLOW - - - X - - - - -
+                HTTP - - - X - - - - -
+//PASTEBIN.COM/F4678D118DESKTOP-IGLOO - - - X - - - - -
+ /ETC/HOSTS.DENYHTTP - - - X - - - - -
+//PASTEBIN.COM/F3E33E005 - - - X - - - - -
+           SOMETHING - - - O - - - - -
+              TOMATO - - - - - S - - -
+                FILE - - - - - - O - -
+              DAEMON - - - - - - X S -
+              CONFIG - - - - - - O - -
+                 22. - - - - - - - O -
+                ELSE - - - - - - - - X
+               THERE - - - - - - - - S
+             PROGRAM - - - - - - - - O
+             PURPOSE - - - - - - - - X
+        REPOSITORIES - - - - - - - - X
+                NEED - - - - - - - - X
+                 ONE - - - - - - - - O

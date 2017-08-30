@@ -1,0 +1,13 @@
+            ANYTHING O - - - - - - -
+            IPTABLES X - - - - - - -
+/ETC/NETWORK/INTERFACES X - - - - - - -
+/ETC/NETWORK/IF-PRE-UP.D X - - - - - - -
+                RULE O - - - - - - -
+             STARTUP X - - - - - - -
+            MAVERICK - - - X - - - -
+                THAT - - - - O - - -
+            /ETC/UFW - - - - X - - -
+    /ETC/DEFAULT/UFW - - - - O - - -
+               10.10 - - - - S - - -
+             SUPPORT - - - - X - - -
+                FLAG - - - - - - - X

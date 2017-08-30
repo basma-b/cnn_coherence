@@ -1,0 +1,44 @@
+              STATUS X - - - - - - - - - - - -
+              AUTHOR S - - - - - - - - - - - -
+            CONEXANT X - - - X - - - - - - - -
+                   * X - - - O - - - - - - - X
+                BTTV X - - - - - - - - - - - -
+             CARD=52 X - - - - - - - - - - - -
+                 SAA X - - - - - - - - - - - -
+                IVTV X - - - - - - - - - - - -
+             MODULES S - - X O - - - O - - - -
+               LINUX X - X - - - - - - - - - -
+              KERNEL X - - S - - - - - - - - -
+             DEVICES S - - - - - - - - - - - -
+                UDEV X - - - - - - - - - - - -
+                TEST - X - - - - - - - - - - -
+             MACHINE - S - - - - - - - - - - -
+                  HP - X - - - - - - - - - - -
+         WORKSTATION - O - - - - - - - - - - -
+              DEBIAN - X - - - - - - - - - - -
+                ETCH - X - - - - - - - - - - -
+               ORDER - - X - - - - - - - - - -
+                CARD - - S - - - O O - - - - -
+            PINNACLE - - X - - - - - - - - - -
+              AV/DV2 - - X - - - - - - - - - -
+              DRIVER - - S - - - - - S - - - -
+              UPDATE - - - O - - - - - - - - -
+             MENTION - - - X - - - - - - - - -
+                  CX - - - - X - - - - - - - -
+            MODPROBE - - - - S - - - - - - - -
+              DOESNT - - - - S - - - - - - - -
+             NOTHING - - - - S - - - - - - - -
+        /LIB/MODULES - - - - X - - - - - - - -
+                ONCE - - - - X - - - - - - - -
+                  -L - - - - - S - - - - - - -
+KERNEL/DRIVERS/MEDIA/VIDEO/CX88/CX88XX.KO - - - - - X - - - - - - -
+               SENSE - - - - - - O - - - - - -
+               VIDEO - - - - - - X - - - - - -
+             CAPTURE - - - - - - - X - - - - -
+         /DEV/VIDEO0 - - - - - - - O - - - - -
+                LINE - - - - - - - O - - - - -
+                 V4L - - - - - - - - - X - - -
+                HTTP - - - - - - - - - - - X -
+//PASTEBIN.COM/RAW.PHP - - - - - - - - - - - X -
+             DRIVERS - - - - - - - - - - - - O
+KERNEL/DRIVERS/MEDIA/VIDEO/ - - - - - - - - - - - - X

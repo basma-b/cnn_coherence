@@ -1,0 +1,25 @@
+                GRUB X - - - - O - - - - X
+                BOOT X X X - - - - - - - -
+             OPTIONS X - - - - - - - - - -
+            FEDORA10 - O - - - - - - - - -
+           PARTITION - X - - - - - - - - -
+                SDA5 - X - - - - - - - - -
+              UBUNTU - - S - X - - S - - -
+                SDA9 - - X - - - - - - - -
+                  PC - - O - - - - - - - -
+            MENU.LST - - X - X - - O - - -
+              FEDORA - - X - - - X - - - -
+                ROOT - - - S - - - - - - -
+               HD0,8 - - - X - - - - - - -
+             COMMAND - - - S - - - - - - -
+               SETUP - - - X - - - - - - -
+               IDEAS - - - - X - - - - - -
+                FILE - - - - - - X - - - -
+                THAT - - - - - - - S - - -
+              CHANGE - - - - - - - O - - -
+              KERNEL - - - - - - - X - - -
+                 ETC - - - - - - - X - - -
+              ENOUGH - - - - - - - - - X -
+               GUIDE - - - - - - - - - - S
+                HTTP - - - - - - - - - - X
+//WWW.SORGONET.COM/LINUX/GRUBRESTORE/ - - - - - - - - - - X

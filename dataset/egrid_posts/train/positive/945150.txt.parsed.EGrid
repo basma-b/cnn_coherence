@@ -1,0 +1,23 @@
+/VAR/LIB/APT/LISTS/LOCK X - - - - - -
+                OPEN X - - - - - -
+            RESOURCE X - - - - - -
+                 WTF S - - - - - -
+             PACKAGE - - - X - - -
+            MANAGERS - - - S - - -
+      UPDATE-MANAGER - - - S - - -
+              THINGS - - - O - - -
+  /VAR/LIB/APT/LISTS - - - S - - -
+                 63R - - - O - - -
+/VAR/LIB/APT/LISTS/PARTIAL - - - X - - -
+                XMMS - - - - O - -
+              CONFIG - - - - X - -
+               DITCH - - - - X - -
+   BEEP-MEDIA-PLAYER - - - - O - -
+                PORT - - - - X - -
+      ~/.XMMS/CONFIG - - - - X - -
+                LINE - - - - O - -
+       OUTPUT_PLUGIN - - - - X - -
+                SUDO - - - - X - -
+             APT-GET - - - - S - -
+             PIDENTD - - - - O - -
+/USR/SHARE/DOC/PIDENTD/ - - - - - - X

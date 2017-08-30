@@ -1,0 +1,23 @@
+                SUDO X - - - - - - - -
+                   > S - - - - - - - -
+/SCRIPTS/INIT-BOTTOM X - - - - - - - -
+                  .. X - - - - - - - -
+                FSCK - - X - - - - - -
+           /DEV/SDB1 - - X - - - - - -
+                FILE - - X - - - - - -
+               BLOCK - - X - - - - - -
+               CHECK - - X - - - - - -
+                INIT - - X - - - - - -
+             PROCESS - - S - - - - - -
+              STATUS - - X - - - - - -
+                HELP - - X - - - O - -
+            PLYMOUTH - - - - S - - - -
+         DEVELOPMENT - - - - X - - - -
+               STATE - - - - X - - - -
+               TOPIC - - - - X - - - -
+                   | - - - - - S - - -
+                OSER - - - - - O - - -
+                  OK - - - - - - O - -
+            UBUNTU+1 - - - - - - - - O
+                HERE - - - - - - - - X
+          DISCUSSION - - - - - - - - X

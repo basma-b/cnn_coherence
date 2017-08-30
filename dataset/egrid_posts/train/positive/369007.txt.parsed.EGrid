@@ -1,0 +1,27 @@
+           DIRECTORY X - - - - - - - -
+           PARTITION X - - - - - - - -
+         /HOME/MIKE/ X X - - - - - - -
+                ROOT X - - - X - - - -
+         PERMISSIONS - S - - - - - - -
+                LOCK - O - - - - - - -
+               STUFF - S - - - - - - -
+                  .. - X - - - - - - -
+                SAME - O - - - - - - -
+          EVERYTHING - X - - - - - - -
+                THIS - - - - X - S - -
+               CHMOD - - - - X - O - -
+           SOMETHING - - - - O O - - -
+                  -R - - - - X - - - -
+                MIKE - - - - X - O - -
+/HOME/MIKE/NEWDIRECTORY - - - - X - - - -
+             COMMAND - - - - - - O - -
+               OWNER - - - - - - O - -
+                FILE - - - - - - X - -
+                 DIR - - - - - - X - -
+        NEWDIRECTORX - - - - - - X - -
+                USER - - - - - - X - -
+               GROUP - - - - - - X - -
+               THOSE - - - - - - O - -
+              OTHERS - - - - - - X - -
+                OOPS - - - - - - - - X
+                 BAD - - - - - - - - X

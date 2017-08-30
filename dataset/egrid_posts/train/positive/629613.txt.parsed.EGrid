@@ -1,0 +1,8 @@
+                USER O - - -
+             NETWORK O - - -
+            FIREWALL O - - -
+                THAT - - X -
+           POLICYKIT - - S S
+                SOME - - O -
+                 GUI - - - X
+                 APP - - - O

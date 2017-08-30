@@ -1,0 +1,11 @@
+           ETC/FSTAB X - - - - -
+              /LOCAL X - S - - -
+   ERRORS=REMOUNT-RO X - - - - -
+                EXT3 - S - - - -
+             DEFAULT - O - - - -
+                  .. - O - - O -
+           DIRECTORY - - X - - -
+                THIS - - - - - O
+              SERVER - - - - - S
+                BANG - - - - - O
+           YESTERDAY - - - - - X

@@ -1,0 +1,11 @@
+              LAPTOP X -
+                  HP S -
+               LSPCI O -
+                 -EI X -
+                 CAT X -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES X -
+               RSYNC - O
+                ROOT - X
+                NEED - X
+             BACKUPS - S
+         PERMISSIONS - O

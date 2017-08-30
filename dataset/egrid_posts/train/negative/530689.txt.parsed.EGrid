@@ -1,0 +1,12 @@
+             COMMAND X - - -
+                LINE X - - -
+                NAME X - - -
+             PACKAGE X - - -
+             MANAGER X - - -
+             DEFAULT O - - -
+              SYSTEM X - - -
+                LAMP - - X X
+               LINUX - - - O
+              APACHE - - - X
+               MYSQL - - - X
+                 PHP - - - X

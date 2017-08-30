@@ -1,0 +1,20 @@
+             MONITOR O - -
+                 ATI X X X
+                CARD X - -
+             ANOTHER X - -
+              NVIDIA X O X
+              UBUNTU X - -
+       DISTRIBUTIONS - X -
+             DRIVERS - O -
+                VICE - X -
+LINUX-RESTRICTED-MODULES - S -
+              KERNEL - X -
+              MODULE - X -
+                  TA - S -
+            STANDARD - S -
+           EACHOTHER - O -
+           ARGUMENTS - O -
+             APT-GET - X -
+LINUX-RESTRICTED-MODULE - - O
+LINUX-RESTRICTED-MODULES-686 - - X
+              DRIVER - - X

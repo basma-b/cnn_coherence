@@ -1,0 +1,26 @@
+/LIB/MODULES/2.6.10-5-386/BUILD/INCLUDE/LINUX/MODVERSIONS.H X X - - - - -
+                FILE X X - - - - -
+           DIRECTORY X X X O - - -
+LINUX-HEADERS-2.6.10-5-386 - - S S - - -
+                 TRY - - X - - - -
+             APT-GET - - - S - - -
+                GOTO - - - X - - -
+/LIB/MODULES/2.6.10-5-386/BUILD/INCLUDE/LINUX/ - - - X - - -
+                 RUN - - - S - - -
+ CONFIG/MODVERSION.H - - - X - - -
+/LIB/MODULES/2.6.10-5-386/ - - - X - - -
+                 DIR - - - O - - -
+                   U - - - S S - -
+             HEADERS - - - O - - -
+                BOOT - - - S - - -
+              KERNEL - - - S - - -
+                HEHE - - - O - - -
+               DUNNO - - - X - - -
+                 LOL - - - X - - -
+                PACK - - - O - - -
+       INCLUDE/LINUX - - - X - - -
+                LINK - - - - S - -
+ BUILD/INCLUDE/LINUX - - - - X - -
+CONFIG/MODVERSIONS.H - - - - X - -
+                 LOT - - - - - - O
+                   * - - - - - - X

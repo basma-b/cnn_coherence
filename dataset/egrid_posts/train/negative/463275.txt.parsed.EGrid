@@ -1,0 +1,24 @@
+                NAME X - - - - - -
+             PACKAGE X S - - - - -
+                ARCH X X - - - - -
+             UTILITY X - - - - - -
+                  SU - X - - - - -
+           DR_WILLIS - S - - - - -
+                  OS - X - - - - -
+        ARCHITECTURE - X - - - - -
+                DPKG - X - - - - -
+                  -S - S - - - - -
+                HTTP - - - X - - -
+//PACKAGES.UBUNTU.COM/SEARCH - - - X - - -
+       SUITE=DEFAULT - - - - X - -
+         SECTION=ALL - - - - X - -
+            ARCH=ANY - - - - X - -
+   SEARCHON=CONTENTS - - - - X - -
+       KEYWORDS=ARCH - - - - X - -
+              REDHAT - - - - X - -
+UTIL-LINUX-2.13-0.47.EL5 - - - - O - -
+                THIS - - - - - S -
+             SUPPORT - - - - - X -
+                ROOM - - - - - O -
+                THAT - - - - - - O
+               TOPIC - - - - - - O

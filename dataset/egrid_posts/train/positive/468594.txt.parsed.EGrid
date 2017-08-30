@@ -1,0 +1,37 @@
+             SOMEONE X - - - - - - - - - - - - -
+              FOLLOW X - - - - - - - - - - - - -
+           INTERFACE - X - - - - - - - - - - - -
+           ETH0=ETH0 - X - - - - - - - - - - - -
+              SYSTEM - X - - - - - - - - - - - -
+      ADMINISTRATION - X - - - - - - - - - - - -
+             NETWORK - X - - - - - - - - - - - -
+            PASTEBIN - X - - - - - - - - - - - -
+/ETC/NETWORK/INTERFACES - S - - - - - - - - - - - -
+               LEASE - O - - - - - - - - - - - -
+                 DNS - X - - - - - X - - - - - X
+              CLIENT - O X - - - - - - - - - - -
+            SETTINGS - O - - - - - - - - - - - -
+                PUSH - - O - - - - - - - - - - -
+               SETUP - - O - - - - - - - - - - -
+              SERVER - - X - - - - - - - - - - -
+                THAT - - - X - - - S - - - - - -
+/ETC/DHCP3/DHCLIENT.CONF - - - - X - - - - - - - - -
+ DOMAIN-NAME-SERVERS - - - - O - - - - - - - - -
+               COMMA - - - - X - - - - - - - - -
+                FILE - - - - O - - - - - - - - -
+                BIND - - - - - X - - - - - - - -
+      192.168.203.96 - - - - - X - - - - - - - -
+             RENEWAL - - - - - X - - - - - - - -
+              SECOND - - - - - X - - - - - - - -
+            THOUGHTS - - - - - - X - - - - - - -
+             NOTHING - - - - - - - O - - - - - -
+                 CAT - - - - - - - - X - - - - -
+    /ETC/RESOLV.CONF - - - - - - - - S - - - - -
+                 BTW - - - - - - - - O - - - - -
+             OPENDNS - - - - - - - - S - - - - -
+            PROBLEMS - - - - - - - - O - - - - -
+          EXPERIENCE - - - - - - - - - - X - - -
+             ENTRIES - - - - - - - - - - X - - -
+              RECORD - - - - - - - - - - X - - -
+             4.2.2.3 - - - - - - - - - - - O - -
+             SERVERS - - - - - - - - - - - - - X

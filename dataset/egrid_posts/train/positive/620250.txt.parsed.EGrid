@@ -1,0 +1,27 @@
+                  IM S - - - - - - - -
+     MODULES_INSTALL O - - - - - - - -
+            ERRORING O - - - - - - - -
+              ERRORS X - - - - - - - -
+                  SH X - - - - - - - -
+          SYSTEM.MAP X - - - X - - - -
+               /BOOT X - - - - - - - -
+ /SBIN/INSTALLKERNEL X - - - - - - - -
+/BOOT/VMLINUZ-2.6.26.8-RT16 O - - - - - - - -
+          PERMISSION S - - - - - - - -
+               ERROR O - - - - - - - -
+             SIMPLEX O - X - - - - - -
+               THERE S - - - - - - - -
+          INSTALL.SH O X - - - - - - -
+           SIMPLEXIO - X - X - - - - -
+                   * - - X - - - - - -
+                FILE - - X - - - - - -
+                THIS - - - O - - - - O
+ARCH/X86/BOOT/BZIMAGE - - - - X - - - -
+              KERNEL - - - - O - O O -
+/BOOT/BZIMAGE-2.6.28.8-CUSTOM - - - - O - - - -
+                GRUB - - - - O - - - -
+               TRISM - - - - O X - X -
+                 HEY - - - - X - - - -
+             CORRECT - - - - - X - - -
+                WORK - - - - - - X - -
+              EITHER - - - - - - - - X

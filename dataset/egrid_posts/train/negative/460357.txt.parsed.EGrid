@@ -1,0 +1,16 @@
+           DOWNGRADE X - X -
+             PACKAGE O - - -
+                BOOT X - O -
+              KERNEL O - S -
+               FORCE - X - -
+             VERSION - X - -
+              OPTION - O - -
+            SYNAPTIC - X - -
+              NVIDIA - X O -
+              DRIVER - O O -
+             DRIVERS - X - -
+               PANEL - X - -
+                SAME - - - O
+              SECOND - - - X
+             LATENCY - - - X
+          ROUND-TRIP - - - X

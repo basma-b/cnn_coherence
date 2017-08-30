@@ -1,0 +1,13 @@
+                FILE S - - - - - -
+              TAR.GZ - S - - - - -
+               STICK - - O - - - -
+                GRUB - - X - - - -
+                MENU - - X - - - -
+        /ETC/SUDOERS - - - O - X -
+                USER - - - - O - -
+                SUDO - - - - X - -
+               GROUP - - - - X - -
+                THAT - - - - - X -
+         PERMISSIONS - - - - - O -
+              REASON - - - - - X -
+                  -W - - - - - - X

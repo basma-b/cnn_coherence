@@ -1,0 +1,20 @@
+DEBUGGER.PROFILER_ENABLED=ON X - - - - - - -
+DEBUGGER.HOSTS_ALLOW=HOST1 X - - - - - - -
+               HOST2 S - - - - - - -
+                HOST X - - - - - - -
+                NAME X - - - - - - -
+                  IP S - - - - - - -
+               DEBUG X - - - - - - -
+            SESSIONS O - - - - - - -
+                OOPS O - - - - - - -
+            THEFLOOD X - - - - - - -
+             ECLIPSE O - - X - - - -
+                 IDE X - - - - - - -
+           INSTALLER - - O O O - - -
+               THERE - - - S - - - -
+                   O - - - - S - - -
+                SITE - - - - X - - -
+                WORK - - - - - - X -
+              SEARCH - - - - - - - X
+            TOUCHPAD - - - - - - - X
+            KEYBOARD - - - - - - - X

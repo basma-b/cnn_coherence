@@ -1,0 +1,12 @@
+                USER X - - X - -
+           PRIVILEGE X - - X - -
+       SPECIFICATION S - - X - -
+                ALL= O - - X - -
+                 ALL X - - X - -
+                JAYA X - - X - -
+              IKONIA S - - - - -
+            CONFLICT - O - - - -
+             SUDOERS - X - - - X
+                FILE - X - - - X
+                ROOT - - - X - -
+                NAME - - - - - O

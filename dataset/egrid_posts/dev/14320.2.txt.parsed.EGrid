@@ -1,0 +1,21 @@
+             UPSTART X - - - - -
+             PROCESS - O - - - -
+                FILE - X - - - -
+           DIRECTORY - S - - - -
+                TALK - O - - - -
+              SCRIPT - O - - - -
+                PATH - - X - - -
+               HTTPS - - - X - -
+/ETC/INIT/MYSCRIPT.CONF - - - X - -
+              CHROOT - - - O - -
+                SUDO - - - - - X
+                 PPA - - - - - X
+     BITCOIN/BITCOIN - - - - - X
+             APT-GET - - - - - S
+              UPDATE - - - - - X
+             BITCOIN - - - - - S
+               POWER - - - - - X
+         CONSUMPTION - - - - - O
+                COST - - - - - O
+           BITDCOINS - - - - - S
+                MINE - - - - - X

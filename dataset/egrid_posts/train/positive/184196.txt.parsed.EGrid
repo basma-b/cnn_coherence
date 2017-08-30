@@ -1,0 +1,10 @@
+               USERS - X - -
+               GROUP - X - S
+                SUDO - O - -
+             DEFAULT - X - -
+                NEED - - S -
+             SUDOERS - - O -
+               ADMIN - - - X
+               THERE - - - S
+           /ETC/SUDO - - - X
+         PERMISSIONS - - - O

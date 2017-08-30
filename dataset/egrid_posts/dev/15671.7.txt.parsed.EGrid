@@ -1,0 +1,14 @@
+        ROUTER/MODEM X - - -
+         APPLICATION X - - -
+             SUPPORT X - O O
+                PORT X - - -
+              OPTION - O - -
+              ROUTER - S - -
+            FIREWALL - X - -
+              SERVER - X - -
+                  .. - X - -
+                 UFW - S - -
+           CONFIGURE - O - -
+        DIST-UPGRADE - - - S
+             RELEASE - - - X
+             12.04.1 - - - X

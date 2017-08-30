@@ -1,0 +1,24 @@
+              KERNEL X - O - - - -
+             MODULES X S S - - - -
+                LOAD X O O - - - -
+                 NOT - S - - - - -
+              MODULE - O - - - - -
+        /ETC/MODULES - X - - - - -
+                THEN - X - - - - -
+                LIST - O - - - - -
+                WLAN - X X - - - -
+                   * - S - - - - -
+         NDISWRAPPER - X X - - - -
+               STUFF - O - - - - -
+                 NIC - - X - - - -
+/ETC/NETWORK/INTERFACES - - X - - - -
+          INTERFACES - - S - - - -
+                   < - - X - - - -
+               THERE - - - - S - -
+                FLAG - - - - O - -
+              DRIVER - - - - O - -
+                  -H - - - - S - -
+                  AH - - - - - X -
+               HOARY - - - - - - S
+                SYNC - - - - - - O
+                IIRC - - - - - - X

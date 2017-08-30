@@ -1,0 +1,23 @@
+            EVERYONE X - - - - - - - - - -
+              ROUTER - O S - - - - - S - -
+                DHCP - X - - - - - - - - -
+             MACHINE - S - - - - - - - - -
+        192.168.1.42 - X - - - - - - - - -
+           INTERFACE - - S - - X - - - - -
+            DHCLIENT - - S S - - - - - - -
+       192.168.1.101 - - O - - - - X - - -
+            DISCOVER - - - O - - - - - - -
+             ADDRESS - - - O - - - - - - -
+                TYPE - - - X - - - - - - -
+               WLAN0 - - - X - - - - - - -
+      NETWORKMANAGER - - - - X - X - - - -
+                 USE - - - - - X - - - - -
+          INTERFACES - - - - - X - - - - -
+          EVERYTHING - - - - - - X - - - -
+                  IP - - - - - - X - - - -
+           DHCPOFFER - - - - - - - - X - -
+                HTTP - - - - - - - - - X -
+//PASTEBIN.COM/HAH8RHN6 - - - - - - - - - X -
+               LEASE - - - - - - - - - - X
+                FILE - - - - - - - - - - O
+   /VAR/LIB/DHCLIENT - - - - - - - - - - X

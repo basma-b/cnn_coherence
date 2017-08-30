@@ -1,0 +1,25 @@
+                  AI S - - - - - - -
+               WARTY - O - - - - - -
+            UNIVERSE - O - - - - - -
+        SOURCES.LIST - O - - - - - -
+              UPDATE - - X - - - - -
+               START - - X - - - - -
+             UPGRADE - - X - S - - -
+                 K3B - - O - O - - -
+             APT-GET - - - S - - - -
+               BREAK - - - O - - - -
+                  -F - - - S - - - -
+                 RUN - - - X - - - -
+                DPKG - - - - S - - -
+               ERROR - - - - X - - -
+             PROCESS - - - - X - - -
+/VAR/CACHE/APT/ARCHIVES/KDELIBS-DATA_4 - - - - X - - -
+                   % - - - - X - - X
+3A3.3.2-1UBUNTU2_ALL.DEB - - - - X - - X
+/USR/SHARE/MIMELNK/APPLICATION/VND.STARDIVISION.CALC.DESKTOP - - - - O - - -
+             PACKAGE - - - - O - - -
+OPENOFFICE.ORG-MIMELNK - - - - X O - -
+           FORCE-YES - - - - - X - -
+              RATHER - - - - - - - X
+                  -I - - - - - - - X
+              COURSE - - - - - - - X

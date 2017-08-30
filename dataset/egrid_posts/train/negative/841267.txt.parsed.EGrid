@@ -1,0 +1,11 @@
+              UBUNTU - X - - - -
+             SERVICE - X - - - -
+             COMMAND - X - - X -
+                LINE - X - - - -
+  START/STOP/RESTART - X - - - -
+             PROGRAM - O - - - -
+                  LS - - S - - -
+                 USE - - - - X -
+              SCRIPT - - - - O -
+         /ETC/INIT.D - - - - X -
+             DEFAULT - - - - - X

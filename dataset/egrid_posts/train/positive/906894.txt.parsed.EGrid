@@ -1,0 +1,15 @@
+                 LOG X - - - -
+              SCREEN X - - - -
+              CHANGE X - - - -
+ BOOTLOGD_ENABLE=YES X - - - -
+                  TY X - - - -
+                  .. X - X - -
+             MESSAGE - X - - -
+             DISPLAY - O - - -
+       /VAR/LOG/BOOT - - S - -
+                LUCK - - O - -
+                FILE - - X - -
+            RESPONSE - - - O -
+                HTTP - - - O -
+//BUGS.DEBIAN.ORG/CGI-BIN/BUGREPORT.CGI - - - O -
+          BUG=232569 - - - - X

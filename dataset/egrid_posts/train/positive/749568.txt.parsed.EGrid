@@ -1,0 +1,10 @@
+              SWAPON - X - -
+           PARTITION - X - -
+               FSTAB - - S -
+                THIS - - S -
+                SWAP - - X -
+           /DEV/SDA4 - - X -
+        INSTALLATION - - X -
+           /DEV/SDA5 - - X -
+                UUID - - S -
+               START - - - X

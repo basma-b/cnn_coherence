@@ -1,0 +1,17 @@
+                 THI X - - - -
+             PROCESS O - - - -
+                DISK X - - - -
+              ACCESS X - - - -
+              ANYONE X - - - -
+                WHAT - O - - -
+-IGNORE_READDIR_RACE - O - - -
+                THIS - O - - -
+             PROGRAM - X - - -
+                CALL - S - - -
+               IOTOP - X - - -
+                CARD - - - O -
+               LOKKS - - - - X
+             PROBLEM - - - - X
+  LIBPTHREAD-2.13.SO - - - - X
+         INFORMATION - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/LINUX/+BUG/972821 - - - - X

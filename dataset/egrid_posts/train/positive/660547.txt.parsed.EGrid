@@ -1,0 +1,15 @@
+             COMMAND S - - - - - - - - -
+             VERSION X - - - - - - - - -
+             DEFAULT - - - X - - - - X -
+                 VIM - - - S - - - - - -
+                  VI - - - X - - - - - -
+                MODE - - - X - - - - - -
+      /ETC/VIM/VIMRC - - - - O - - - - -
+             OPTIONS - - - - O - - - - -
+                COPY - - - - - S - - - -
+             PACKAGE - - - - - - - X - -
+            VIM-TINY - - - - - - - - X -
+ SYNTAX-HIGHLIGHTING - - - - - - - - O -
+              INSTAL - - - - - - - - - O
+          VIM-COMMON - - - - - - - - - S
+                 ONE - - - - - - - - - S

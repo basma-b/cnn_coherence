@@ -1,0 +1,17 @@
+              UMOUNT X - - - - -
+                SDC1 X - - - - -
+                SUDO X - - - X -
+           /DEV/SDC1 X - - - - -
+                  PC X - - - - -
+              UBUNTU S - - - - -
+             WINDOWS O - - - - -
+          /ETC/FSTAB - O - - S X
+             APT-GET - X - - - -
+            WHATEVER - X - - - -
+                LIST - O - - - -
+             PACKAGE - X - - - -
+             COMMAND - - X - - -
+                FILE - - O - - -
+                LINE - - - - X -
+          FILESYSTEM - - - - X -
+              GKSUDO - - - - - X

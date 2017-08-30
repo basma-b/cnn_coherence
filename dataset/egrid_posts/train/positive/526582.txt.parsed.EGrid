@@ -1,0 +1,17 @@
+                SUDO X - - - -
+                TAIL X - - - -
+                  -F S - - - -
+              WINDOW X - - - -
+               ERROR O - - - -
+   /VAR/LOG/MESSAGES - S - - -
+                SITE - - X - -
+                USER - - S - -
+               HTTPS - - O - -
+               GROUP - - S - -
+            TERMINAL - - - - X
+             PUREFTP - - - - S
+                TYPE - - - - S
+               USERS - - - - X
+              METHOD - - - - X
+      AUTHENTICATION - - - - O
+               THING - - - - O

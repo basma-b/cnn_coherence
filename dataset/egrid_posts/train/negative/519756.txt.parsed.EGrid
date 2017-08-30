@@ -1,0 +1,14 @@
+             PROCESS X - - - - - - -
+             KILLALL - S - - - - - -
+                   > - O - S - - - -
+                 HOP - O - - - - - -
+               EQUIV - - X O - - - -
+             SIGTERM - - X - - - - -
+           PROCESSID - - - X - - - -
+              CTRL+D - - - X - - - -
+               MYSQL - - - - O - - -
+              DAEMON - - - - X - - -
+   /ETC/INIT.D/MYSQL - - - - - X - -
+                   * - - - - - S - -
+                CALL - - - - - - X -
+                  -S - - - - - - - X

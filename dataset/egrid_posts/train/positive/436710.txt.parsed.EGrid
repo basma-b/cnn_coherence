@@ -1,0 +1,45 @@
+                   | S - - - - - -
+               LINUX X - - - - - -
+        SGC-ATLANTIS X - - - - - -
+        FRITZBOXWLAN X - - - - - -
+               STICK X - - - - - -
+               HARDY - - X - - - -
+              KERNEL - - S X - - -
+             CHIPSET - - O - - - -
+                 PCI - - S - - - -
+                 USB - - S - - - -
+               BRAND - - X - - - -
+                NAME - - O - - - -
+                LIKE - - X - - - -
+            BROADCOM - - X - - - -
+                SITE - - S - - - -
+              SOURCE - - O - - - -
+              INSERT - - X - - - -
+              MODULE - - O - - - -
+         NDISWRAPPER - - O - - - -
+                LIST - - O - - - -
+                THIS - - S - - - -
+                WORK - - - O - - -
+               GUTSY - - - X - - -
+        SOURCES.LIST - - - X - - -
+    PASTE.UBUNTU.COM - - - X - - -
+                HTTP - - - X - - -
+//PASTE.UBUNTU.COM/27262/ - - - X - - -
+               ERROR - - - O - - -
+               THERE - - - - S - -
+                 SET - - - - O - -
+                MINE - - - - O - -
+               YOURS - - - - X - -
+   SOURCES.LIST.SAVE - - - - O - -
+             CONTENT - - - - O - -
+  /VAR/LIB/APT/LISTS - - - - X - -
+/VAR/LIB/APT/LISTS/PARTIAL - - - - X - -
+              FOLDER - - - - X - -
+              UPDATE - - - - O - -
+           DIRECTORY - - - - O - -
+              UBUNTU - - - - S - -
+              DISTRO - - - - X - -
+               PLACE - - - - S - -
+                FILE - - - - X - -
+/ETC/APT/SOURCES.LIST - - - - - - O
+                 ONE - - - - - - X

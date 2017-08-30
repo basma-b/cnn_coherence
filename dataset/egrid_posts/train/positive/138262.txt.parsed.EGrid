@@ -1,0 +1,12 @@
+                THAT - O - -
+               1.5GB - S - -
+                 USE - O - -
+              BIGMEM - X - -
+             SUPPORT - O - -
+         /PROC/KCORE - S - -
+              KERNEL - - S S
+            ANYTHING - - O -
+              LOWMEM - - X S
+             HIGHMEM - - - O
+              REPORT - - - X
+                  UN - - - S

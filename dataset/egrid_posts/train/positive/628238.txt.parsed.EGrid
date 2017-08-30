@@ -1,0 +1,16 @@
+                SUDO X - X -
+               CHMOD O - X -
+               USERS X S - -
+              CHANGE - S S -
+         PERMISSIONS - X X -
+                USER - X - X
+               LEVEL - X - X
+              INTENT - S - -
+            ANYTHING - O - -
+                FILE - X S -
+                  .. - - O -
+              UPDATE - - O -
+            KRUSADER - - X -
+               OWNER - - X -
+                ROOT - - X -
+              ACCESS - - - O

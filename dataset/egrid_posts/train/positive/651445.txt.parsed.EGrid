@@ -1,0 +1,12 @@
+                 SED X - - - -
+                 HIT - O - - -
+               PRINT - - X - -
+               MATCH - - X - -
+                GREP - - O - -
+                  -E - - S - -
+             PATTERN - - X - -
+                LINE - - O - O
+                 PID - - - - O
+                PIDS - - - - O
+           SOMETHING - - - - X
+                   * - - - - X

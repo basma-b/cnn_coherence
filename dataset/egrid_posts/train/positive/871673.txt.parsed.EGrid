@@ -1,0 +1,21 @@
+              SOURCE X S - X
+                CODE X - - -
+              OPTION O - - -
+             PACKAGE O O X O
+             MANAGER X - - -
+                ONES O - - -
+             APT-GET - X - -
+        PACKAGE_NAME - O - -
+           DIRECTORY - X - -
+                STEP - X - O
+               PATCH - O O O
+                THAT - - S -
+           LIBSTDC++ - - X -
+               THERE - - S -
+                JUST - - - X
+                 USE - - - X
+                MOST - - - S
+                 GCC - - - X
+            INSTANCE - - - X
+DEBIAN/README.SOURCE - - - O
+               QUILT - - - S

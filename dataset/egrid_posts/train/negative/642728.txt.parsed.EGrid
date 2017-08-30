@@ -1,0 +1,18 @@
+               DELAY X - - -
+                BOOT X - - -
+             OPTIONS X - - -
+              WINDOW X - - -
+          UBUNTU9.10 X - - -
+      UBUNTU9.10SAFE X - - -
+       UBUNTU9.10ETC X - - -
+                  .. X - - -
+            6SECONDS - S - -
+            LOCATION - - O -
+/BOOT/GRUB/MENU.LIST - - X -
+               GRUB2 - - S -
+                FILE - - X -
+                 ADN - - X -
+ /BOOT/GRUB/GRUB.CFG - - X -
+             DEFAULT - - - X
+             VERSION - - - S
+             COMMAND - - - O

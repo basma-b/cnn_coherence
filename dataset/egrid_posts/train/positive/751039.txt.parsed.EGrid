@@ -1,0 +1,17 @@
+     SET-SOURCE-MUTE S - -
+             UN-MUTE X - -
+                 WAY X - -
+              SCRIPT O - -
+          PULSEAUDIO - X -
+               PACMD - - S
+             COMMAND - - O
+               INDEX - - S
+              DEVICE - - O
+              SYSTEM - - X
+                LAST - - X
+                   | - - S
+                TAIL - - S
+                  -N - - X
+                  -D - - O
+              SOURCE - - O
+             INDEX=1 - - X

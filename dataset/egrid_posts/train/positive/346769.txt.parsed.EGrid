@@ -1,0 +1,25 @@
+              KERNEL X X X - - X -
+              CONFIG - X S - - - -
+CONFIG_USB_NET_CDCETHER - X - - - - -
+   CONFIG_USB_USBNET - X - - - - -
+CONFIG_USB_NET_RNDIS_HOST - X - - - - -
+               THOSE - S - - - S -
+               ERROR - X - - - - -
+              MODULE - X - - - - -
+          RNDIS_HOST - S - - - - -
+       /PROC/MODULES - X - - - - -
+           CDC_ETHER - S - - - - -
+              USBNET - S - - - - -
+             MODULES - O - - - - -
+                 TWO - X - - - - -
+               STOCK - X - - - - -
+             KERNELS - O - - - - -
+               THERE - - X - - - -
+           DIRECTORY - - X - - - -
+           SOMETHING - - S - - - -
+              SYSTEM - - X - - - -
+                  .. - - O - - - -
+                   * - - - - X - -
+               IMAGE - - - - - O -
+              GENTOO - - - - - - X
+          MENUCONFIG - - - - - - O

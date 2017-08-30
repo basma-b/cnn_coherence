@@ -1,0 +1,25 @@
+          GUEST12841 X - - X - - - - - -
+             COMMAND S - - O - - O - - -
+          GUEST12041 S - - - - - - - - -
+             PROBLEM O - - - - - - - - -
+             NETWORK X - - X - - - - - -
+          INTERFACES X - - S - - - - - -
+      CONFIGURATIONS - O - - - - - - - -
+                ERRO - - X - - - - - - -
+/ETC/INIT.D/NETWORKING - - S - - - - - - -
+                  VI - - - S - - - - - -
+             MESSAGE - - - S - - - - - -
+                 SSH - - - S - - - - - -
+                STOP - - - X - - - - - -
+            /WAITING - - - X - - - - - -
+             PROCESS - - - X - - - - - -
+                 JOB - - - S - - - - - -
+                 ASS - - - X - - - - - -
+                ROOT - - - O - - - - - -
+                SUDO - - - - X - - - - -
+               LOOKS - - - - - S - - - -
+                SODU - - - - - - X - - -
+                   $ - - - - - - - O - -
+              OUTPUT - - - - - - - - X -
+             SERVICE - - - - - - - - S -
+                THIS - - - - - - - - - S

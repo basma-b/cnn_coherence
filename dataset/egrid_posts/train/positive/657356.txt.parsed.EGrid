@@ -1,0 +1,15 @@
+               PROXY O - - - X - - - - - O - -
+              SERVER X - - - - - - - - - - - -
+                 USE X - - - - - - - - - - - -
+                   > X - - - - - - - - - - - -
+             NETWORK X - - - - - - - - - - - -
+              EXPORT - - - - X - - - - - - - -
+         HTTP_PROXY= - - - - O - - - - - - - -
+            TERMINAL - - - - X - - - - - - - -
+            SETTINGS - - - - O - X - - - O - -
+                 APP - - - - - - O - - - - - -
+         APPLICATION - - - - - - - - - - X - -
+                 ANY - - - - - - - - - - O - -
+         PREFERENCES - - - - - - - - - - X - -
+              DIALOG - - - - - - - - - - S - -
+                 YES - - - - - - - - - - - - X

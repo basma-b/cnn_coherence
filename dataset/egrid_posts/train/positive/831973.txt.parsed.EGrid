@@ -1,0 +1,15 @@
+                 CPU S - - -
+                  VT X - - -
+        CAPABILITIES O - - -
+               EGREP - X - -
+             VMX|SVM - X - -
+       /PROC/CPUINFO - X - -
+              UBUNTU - O - -
+                  VM - O - -
+                HOST - X - -
+                  OS - S - -
+                BITE - O - -
+              GUESTS - S - -
+                 VMS - - S -
+             PROBLEM - - O -
+                NICE - - - X

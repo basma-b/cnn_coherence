@@ -1,0 +1,7 @@
+          -DEV=ATAPI O - -
+            -SCANBUS S - -
+              DEVICE X - -
+                NAME O - -
+              WRITER X - -
+                FILE O - -
+             FOLDERS - - X

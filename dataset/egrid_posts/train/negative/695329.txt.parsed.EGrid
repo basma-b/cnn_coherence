@@ -1,0 +1,11 @@
+           PARTITION X - S - S - -
+               LINUX X - - X - - -
+                BOOT - - X - - - -
+              CONFIG - - O - - - -
+ EXTENDED-PARTITIONS - - X - - - -
+               DRIVE - - O X - - -
+              SYSTEM - - - S - - -
+            PROBLEMS - - - X - - -
+                 ERM - - - X - - -
+              ADVICE - - - - - S -
+               ERROR - - - - - - X

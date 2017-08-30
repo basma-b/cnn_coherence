@@ -1,0 +1,13 @@
+             ANYBODY X - - - - - -
+               SETUP X - - - - - -
+             APACHE2 S - - - - - -
+              SUEXEC O S - - - - -
+                 MIX - X - - - - -
+                 PHP - - O - - - -
+              ERRORS - - S - - - -
+              APACHE - - X - - - -
+               MYSQL - - X - - - -
+             MOD_PHP - - - - X - S
+             FASTCGI - - - - - S -
+                 CGI - - - - - X -
+                HOST - - - - - - X

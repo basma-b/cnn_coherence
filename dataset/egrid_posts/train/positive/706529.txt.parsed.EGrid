@@ -1,0 +1,21 @@
+                DISK X - - - - - - -
+               SPACE S - - - - - - -
+               /BOOT X - - - - - - -
+                SUDO X - - - - - - -
+             APT-GET X - - - - - - -
+             KERNELS - X O O - - - -
+                GRUB - X - - - - - -
+                   $ - - - - X - - -
+                DPKG - - - - O - - -
+                MARK - - - - S - - -
+           LOCALHOST - - - - O - - -
+INITRD.IMG-2.6.27-17-SERVER - - - - O - - -
+             REQUEST - - - - O - - -
+                THAT - - - - - S - -
+             PACKAGE - - - - - X - -
+                NAME - - - - - O - -
+                  .. - - - - - O - -
+                  -L - - - - - S - -
+                   * - - - - - X - -
+                  OK - - - - - S - -
+                 LOT - - - - - O - -

@@ -1,0 +1,15 @@
+                 HMM X - - - - - - -
+              SCREEN X - S X - - - -
+        .BASH_LOGOUT S - - - - - - -
+             .LOGOUT - X - - - - - -
+               SHELL - X - - - - - -
+           SSH-AGENT - - O - - - - -
+               START - - O - - - - -
+                PART - - X - - - - -
+             .BASHRC - - X - - - - -
+             SESSION - - S - - - - -
+                 RSH - - - - S - - -
+             COMMAND - - - - S - - -
+          CONNECTION - - - - O - - -
+              FINISH - - - - X - - -
+                 SSH - - - - - - - X

@@ -1,0 +1,15 @@
+                 ALL X - - - - -
+               SETUP O - - - - -
+             NETWORK X - - - - -
+           INTERFACE X - - X - -
+                BOTH S - - - - -
+                  IP O - - - - -
+                DHCP X - - - - -
+                 NIC - X - - - -
+                 ONE - - S X - -
+             DEFAULT - - X X - -
+               ROUTE - - O O - -
+               ORDER - - - S - -
+                LIST - - - O - -
+NETWORKING/INTERFACES - - - X - -
+                 ETC - - - - - O

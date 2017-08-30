@@ -1,0 +1,14 @@
+                SIGN O - -
+         SMBPASSWORD X - -
+     .SMBCREDENTIALS X - -
+ PASSWORD=MYPASS=123 X - -
+               QUOTE O - -
+              SCRIPT - - S
+             DESKTOP - - X
+             COMMAND - - O
+              RESULT - - X
+                TEXT - - X
+                HTTP - - O
+                SUDO - - X
+                BASH - - X
+~/DESKTOP/BOOTINFOSCRIPT - - X

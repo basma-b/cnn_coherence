@@ -1,0 +1,25 @@
+           DOWNGRADE X - - - -
+              PERIOD X - - - -
+             FOLDERS O - - - -
+                 KDE - O - - -
+            ARCHIVER - X - - -
+                  UH - S - - -
+           RECOMMEND - X - - X
+                THAT - - O - -
+           MANDATORY - - S - -
+        DEPENDENCIES - - O - -
+             PROBLEM - - X - -
+               THERE - - S - -
+                 BUG - - O - -
+            BEHAVIOR - - O - -
+             APT-GET - - X - -
+             PACKAGE - - O - O
+NO-INSTALL-RECOMMENDS - - S - -
+                 BTW - - X - -
+               HTTPS - - X - -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/APT/+BUG/665980 - - S - -
+            APTITUDE - - S - -
+              OPTION - - S - -
+  WITHOUT-RECOMMENDS - - X - -
+                 UHM - - - X -
+              EQUIVS - - - - O

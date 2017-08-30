@@ -1,0 +1,12 @@
+                   A S - - - - -
+           LIBC6-DEV S X - - - -
+                 GCC - X - - - -
+                USER - S - - - -
+       CONFIGURATION - X - - - -
+            APTITUDE - O - - - -
+                  -R - S - - - -
+                MISS - - - X - -
+              HEADER - - - X - -
+                FILE - - - S - -
+               ERROR - - - O - -
+             LIBRARY - - - - O -

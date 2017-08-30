@@ -1,0 +1,16 @@
+              UBUNTU S - - - - -
+   /ETC/APT/APT.CONF O - - - - -
+             DEFAULT O - X - - -
+                 ONE S - - - - -
+/ETC/APT/APT.CONF.D/70DEBCONF X - - - - -
+            APT.CONF S - - - - -
+                FILE X - - - - -
+/ETC/APT/APT.CONF.D/ X - - - - -
+     DEFAULT-RELEASE S - S - - -
+             VERSION O - X - - -
+               WARTY X O X - - -
+             PACKAGE - X X - - -
+               HOARY - - X - - -
+              GOOGLE - - - X - -
+         APT-PINNING - - - X - -
+                WORK - - - - X -

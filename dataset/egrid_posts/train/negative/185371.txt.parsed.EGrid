@@ -1,0 +1,13 @@
+             ANYBODY X - - -
+      UPDATE-MANAGER O - - -
+                LOAD X - - -
+              BOOTUP X - - -
+            SESSIONS - X - -
+          PROPERTIES - S - -
+             SESSION - X - -
+                 DOS - - O -
+                SUDO - - - X
+             APT-GET - - - X
+ LIBAPACHE2-MOD-PHP5 - - - S
+             APACHE2 - - - S
+ /ETC/INIT.D/APACHE2 - - - X

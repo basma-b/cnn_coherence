@@ -1,0 +1,27 @@
+            SETTINGS X - - -
+                STAY X - - -
+              REBOOT X X - -
+               WLAN0 - S - -
+                   U - S - -
+                SUDO - X - -
+            MODPROBE - X - -
+         NDISWRAPPER - O O -
+              IWLIST - X - -
+            IWCONFIG - X - -
+                   < - X - -
+                   X - X - -
+                   > - X - -
+               ESSID - X - -
+                MODE - S - -
+                WORK - X - -
+                  GO - X - -
+        /ETC/MODULES - X X -
+                 MAP - X - -
+                DHCP - X - -
+                AUTO - X - -
+/ETC/NETWORK/INTERFACES - X - -
+            ANYTHING - X - -
+                 LOT - - X -
+             SEAGATE - - - X
+           EXPANSION - - - X
+            2GH473GA - - - X

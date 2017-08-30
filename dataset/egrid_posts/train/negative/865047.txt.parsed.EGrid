@@ -1,0 +1,9 @@
+            ANYTHING X - - -
+                 LOG X - - -
+/VAR/LOG/POSTGRESQL/ - S - -
+             SERVICE - X - -
+             COMMAND - X - -
+                ROOT - X - -
+                SUDO - - X -
+           INTERFACE - - - X
+         WLAN0=WLAN0 - - - O

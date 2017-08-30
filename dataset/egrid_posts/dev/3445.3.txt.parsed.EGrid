@@ -1,0 +1,15 @@
+               THERE X X - - - - -
+            IPTABLES X X O - - - -
+             COMMAND X X - - - - -
+               ROUTE X X X - - - -
+             TRAFFIC O O - - - - -
+                ETH0 X X - - - - -
+               WLAN0 X X X - - - -
+            INTERNET X X X - - - -
+              ACCESS O O O - - - -
+                SUDO - - X - - - -
+                 NAT - - X - - - -
+                  -A - - X - - - -
+          MASQUERADE - - X - - - -
+             CLIENTS - - X - - - -
+          INTERFACES - - - O - - -

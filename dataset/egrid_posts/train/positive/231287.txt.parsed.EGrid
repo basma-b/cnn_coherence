@@ -1,0 +1,13 @@
+                TIME O - - - - -
+             PROBLEM O - - - - -
+                 SSH X - - - - -
+             MACHINE X - - - - -
+             NETWORK X - - - - -
+          CONNECTION X - - - - -
+           127.0.0.1 - X - - - -
+               CLEAN - - X - - -
+            FIREWALL - - - X - -
+               CHECK - - - - X -
+            IPTABLES - - - - S -
+               BLOCK - - - - O -
+              ROUTER - - - - - X

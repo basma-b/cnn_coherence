@@ -1,0 +1,9 @@
+               SOUND X X X - -
+             DRIVERS X - O - -
+                CARD - X - - -
+               LSPCI - X - - -
+              NVIDIA - - X - -
+             REALTEK - - S - -
+              ACCESS - - O - -
+               LINUX - - - - S
+                NTFS - - - - X

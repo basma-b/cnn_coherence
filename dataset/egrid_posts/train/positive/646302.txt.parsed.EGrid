@@ -1,0 +1,16 @@
+                   ^ S - - -
+                   + X - - -
+               334MB O - - -
+             COMMAND X - - -
+               +334M - O - -
+           MEBIBYTES - X - -
+                2^20 - X - -
+           MEGABYTES - S - -
+                10^6 - X - -
+            ANYTHING - S - -
+                FILE - X - O
+                 DIR - X - -
+                334M - - S -
+                  DU - - X -
+                  -H - - O -
+         DIRECTORIES - - - X

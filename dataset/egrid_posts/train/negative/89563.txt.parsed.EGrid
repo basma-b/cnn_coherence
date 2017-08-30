@@ -1,0 +1,11 @@
+               AMD64 X X - -
+              FFMPEG - S S -
+                I386 - X - -
+             SUPPORT - X - -
+               VIDEO - - X -
+                  .. - - S -
+               SAMBA - - O -
+        GLXINFO|GREP - - - X
+            RENDERER - - - S
+            SOFTWARE - - - X
+          RASTERIZER - - - O

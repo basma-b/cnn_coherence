@@ -1,0 +1,17 @@
+             TIMEOUT - O - - - - - - -
+               GRUB2 - X - - - - - - -
+                MENU - - O - X - - - -
+                BOOT - - X - X - - - -
+                THIS - - - - S - - - -
+                HTTP - - - - O - - - -
+                 WAY - - - - O - - - -
+               SHIFT - - - - X - - - -
+                 KEY - - - - X - - - -
+                 TRY - - - - O - - - -
+ /BOOT/GRUB/GRUB.CFG - - - - - O - - -
+                FILE - - - - - O - O -
+   /ETC/DEFAULT/GRUB - - - - - - S - -
+                 ONE - - - - - - O - -
+           /BOOT/XXX - - - - - - O - -
+                SUDO - - - - - - - - X
+         UPDATE-GRUB - - - - - - - - X

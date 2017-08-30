@@ -1,0 +1,16 @@
+       OPENJDK-7-JRE O - - - - -
+                I386 X - - - - -
+              ERRORS X - - - - -
+                 ALL O - - - - -
+                JAVA S - - - - -
+             PACKAGE O - - - - -
+             COMMAND S - - - - -
+                LINE X - - - - -
+                  .. O - - - - -
+               THERE - S - - - -
+        ALTERNATIVES - O - - - -
+             APT-GET - - - X - S
+                 HMM - - - - S -
+                SUDO - - - - X X
+            APTITUDE - - - - S -
+          ALSA-TOOLS - - - - - O

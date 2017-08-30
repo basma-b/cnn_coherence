@@ -1,0 +1,13 @@
+           CONFIGURE X - - -
+                IFUP X - - -
+/ETC/NETWORK/INTERFACES - X - -
+              METHOD - O - -
+            HOSTNAME - X - -
+          LEASEHOURS - X - -
+           LEASETIME - X - -
+                  .. - X - -
+                 WAY - - X -
+           DHCLIENT3 - - - X
+                 ANY - - - O
+               WLIST - - - X
+              OPTION - - - O

@@ -1,0 +1,31 @@
+                CASE X - - - - - - - -
+                FILE O X - O - - - - -
+              CUSTOM X - - - - - X - -
+                 ISO X - - - - - S - -
+                 USE X - - - - - - - -
+           ISOMASTER X - - - - - - - -
+                 CAT X - - - - - - - -
+       /PROC/CMDLINE S - - - - - - - -
+           ARGUMENTS X - - - - - - - -
+                GRUB S - - - - - - - -
+              KERNEL X - - - - - - - -
+                 RUN X - - - - - - - -
+              SYSTEM X - - - - - - - -
+           INSTALLER - S - - - - - - -
+               VALUE - O - - - - - - -
+                BOOT - X - O - - - - -
+             OPTIONS - O - - - - - - -
+              LOADER - S - - - - - - -
+                  CD - - - O - - - - -
+               DRIVE - - - X - - - - -
+        INSTALLATION - - - - X - - - -
+               GUIDE - - - - X - - - -
+               HTTPS - - - - X - - - O
+//HELP.UBUNTU.COM/12.04/INSTALLATION-GUIDE/I386/APPENDIX-PRESEED.HTML - - - - X - - - -
+               THERE - - - - - S - - -
+           SOMETHING - - - - - O - - -
+               TERSE - - - - - - S - -
+              FEDORA - - - - - - O - -
+             TOOLSET - - - - - - O - -
+                 KIT - - - - - - - - O
+//HELP.UBUNTU.COM/COMMUNITY/LIVECDCUSTOMIZATION - - - - - - - - O

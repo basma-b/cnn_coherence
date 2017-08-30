@@ -1,0 +1,17 @@
+           CHKCONFIG - S - - - - -
+             FEATURE - O - - - - -
+             PROBLEM - S - - - - -
+      NETWORKMANAGER - O - - - - -
+             NETWORK - - X O - - -
+          INTERFACES - - O - - - -
+             STARTUP - - X - - - -
+             DEFAULT - - - X - - -
+           RUNLEVELS - - - X - - -
+                   > - - - - S - -
+/ETC/NETWORK/INTERFACES - - - - S - -
+             COMMENT - - - - O - -
+                HTTP - - - - - X -
+//PASTEBIN.COM/D2EB97C8A - - - - - X -
+                MOST - - - - - - O
+                LINE - - - - - - X
+                SHIP - - - - - - O

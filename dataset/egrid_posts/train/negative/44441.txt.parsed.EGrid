@@ -1,0 +1,44 @@
+              /MEDIA S - - - - - - - - - - -
+               CDROM X - - - - - - - - - - -
+                /MNT S - - - - - - - - - - -
+             NOTHING O X - - - - - - - - - -
+                  .. O - - - O - - - - - - -
+               SENSE - O - - - - - - - - - -
+              DEVICE - X - - - - - - - - - -
+               SHOOT - - - - O - - - - - - -
+                DARK - - - - X - - - - - - -
+                DISK - - - - O - - - - - - -
+                SCSI - - - - X - - - - - - -
+                   * - - - - X - - - - - - -
+             PACKAGE - - - - S - O - - - - -
+                 HMM - - - - O - - - - - - -
+              OUTPUT - - - - S - - - - - - -
+            PASTEBIN - - - - X - - - - - - -
+                HTTP - - - - X - X - - - - -
+//PASTE.UBUNTULINUX.NL/3003 - - - - X - - - - - - -
+                   F - - - - X - - - - - - -
+                  ED - - - - X - - - - - - -
+           BACKPORTS - - - - S - - - - - - -
+/ETC/APT/SOURCES.LIST - - - - O - - - - - - -
+//PASTE.UBUNTULINUX.NL/3004 - - - - S - - - - - - -
+                  BP - - - - X - - - - - - -
+       LIBMONO-1.1.7 - - - - O - - - - - - -
+          MONO-DEVEL - - - - O - - - - - - -
+                 KDE - - - - O - - - - - - -
+              BREEZY - - - - X - - - - - - -
+                GRAB - - - - X - - - - - - -
+        SOURCES.LIST - - - - S - - - - - - -
+//PASTE.UBUNTULINUX.NL/2325 - - - - S - - - - - - -
+             APT-GET - - - - X - - - - - - -
+              UPDATE - - - - X - - - - - - -
+                  -F - - - - S - - - - - - -
+                 USE - - - - - - X - - - - -
+                  BS - - - - - - - S - - - -
+            SECURITY - - - - - - - O - - - -
+                WIPE - - - - - - - X - - - -
+                FACT - - - - - - - - S - - -
+                TOOL - - - - - - - - O - O -
+                 JOB - - - - - - - - X - - O
+                HAND - - - - - - - - X - - -
+                 MAN - - - - - - - - - X - -
+               SHRED - - - - - - - - - O X -

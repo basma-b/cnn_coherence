@@ -1,0 +1,16 @@
+        CONTROL-PERL X - - -
+      LIBIO-PTY-PERL S - - -
+           HTML2TEXT X - - -
+            PBUILDER O - - -
+         LIBAPRUTIL1 X - - -
+    LIBTEST-POD-PERL X - - -
+   LIBTERM-SIZE-PERL S - - -
+            ANYTHING X - - -
+               THING X - - -
+            CONFLICT X - - -
+                 USE X - - -
+          AUTOREMOVE S - - -
+                THAT - S - -
+           AUTOCLEAN - X - -
+             PACKAGE - O - S
+                 LOL - - - O

@@ -1,0 +1,8 @@
+                UDEV S - -
+            MODPROBE X - -
+         SND-PCM-OSS S - -
+          UDEV/DEVFS S - -
+                /DEV O - -
+                ROOT - X -
+               LOGIN - O -
+         MUAHAHAHAHA - - X

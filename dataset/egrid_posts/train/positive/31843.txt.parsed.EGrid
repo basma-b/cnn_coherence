@@ -1,0 +1,12 @@
+               LINUX S - -
+           PARTITION X - -
+               RIGHT X - -
+               FAT32 - X -
+                 YES - S -
+           UMASK=000 - X -
+               USERS - S -
+                ROOT - X -
+              ACCESS - O -
+           SOMETHING - O -
+                THIS - X -
+        /MNT/WINDOWS - O -

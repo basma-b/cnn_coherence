@@ -1,0 +1,17 @@
+               GROUP X - X X -
+          PERMISSION X - - O -
+                USER - X - O -
+             ACCOUNT - S - O -
+           PARTITION - O - - -
+                NONE - - - X -
+             EXAMPLE - - - X -
+                  LS - - - X -
+                  -L - - - S -
+               ADMIN - - - X -
+              BASICK - - - X -
+                 ONE - - - S -
+                SUDO - - - X -
+               USER1 - - - X -
+              GROUP1 - - - X -
+              USERS2 - - - S -
+                CRON - - - - X

@@ -1,0 +1,13 @@
+                FILE O - - O - - -
+               LINUX X - - - - - -
+                ROOT X - - - X - -
+                USER X - X - - - -
+               WHEEL X X - - S - -
+               GROUP X X - - - - -
+          PERMISSION S - - - - - -
+               USERS X - - - - - -
+                  ID - S X - - - -
+              USERID - S - - - - -
+                   > - O - O - - -
+              WHOAMI - - - X - - -
+           SOMETHING - - - O - - -

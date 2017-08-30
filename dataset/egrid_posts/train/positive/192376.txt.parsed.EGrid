@@ -1,0 +1,17 @@
+              SCRIPT X S - - -
+             STARTUP - X - - -
+         /ETC/INIT.D - X - - -
+                LINK - X - - -
+            RUNLEVEL - X - - X
+                   > - X - - -
+/ETC/RC2.D/K20MYSCRIPT - - - S -
+/ETC/INIT.D/MYSCRIPT - - - X -
+            POSITION - - - X -
+              NUMBER - - - S -
+                BOOT - - - X -
+               ORDER - - - X -
+              OPTION - - - X -
+                   K - - - X -
+              UBUNTU - - - - S
+            GRAPHICS - - - - X
+            RECOVERY - - - - X

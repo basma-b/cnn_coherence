@@ -1,0 +1,11 @@
+                WIRE X - - - -
+             NETWORK S - - - -
+                WORK O - - - -
+              REBOOT X - - - -
+              UPDATE X - - - -
+              UBUNTU - S - - -
+              DEVICE - S - - -
+             PROBLEM - - - - O
+           VARIABLES - - - - X
+               GCONF - - - - X
+/HOME/RAYLU/.LOCAL/SHARE/APPLICATIONS/XMONAD.DESKTOP - - - - X

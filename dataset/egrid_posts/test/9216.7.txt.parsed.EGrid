@@ -1,0 +1,26 @@
+                BOOT X - - - -
+                INFO X - - - -
+              SCRIPT X - - - -
+         RESULTS.TXT X - - - -
+            MILAMBER - X - - -
+                TYPE - X - - -
+                SUDO - X - - -
+                 PPA - O - - -
+YANNUBUNTU/BOOT-REPAIR - S - - -
+             APT-GET - S - - -
+              UPDATE - X - - -
+         BOOT-REPAIR - O - - -
+                TIME - - X - -
+           INSTALLER - - S - -
+              OPTION - - X - -
+                HOME - - X - -
+           DIRECTORY - - O S -
+              REASON - - X - -
+                FILE - - - X -
+              SYSTEM - - - O -
+                USER - - - O -
+           PARTITION - - - - O
+                  HD - - - - X
+             WINDOWS - - - - O
+                DISK - - - - X
+          ENCRYPTION - - - - O

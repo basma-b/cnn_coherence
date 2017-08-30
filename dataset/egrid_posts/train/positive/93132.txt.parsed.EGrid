@@ -1,0 +1,19 @@
+            BUILDING X - - - - - - - -
+          DEPENDENCY X - - X - - - - -
+                TREE S - - X - - - - -
+             PACKAGE - X X - X - - - -
+                 VLC - S - - S - - - -
+              UPDATE - X - - - - - - -
+             READING - - X - - - - - -
+                LIST - - S - - - - - -
+                  .. - - - O - - - - -
+               REPOS - - - - S O - - -
+                THAT - - - - - O - - -
+                DONT - - - - - S - - -
+                HERE - - - - - X - - -
+            UNIVERSE - - - - - O - - -
+GSTREAMER0.8-PLUGINS - - - - - X - - -
+GSTREAMER0.8-PLUGINS-MULTIVERSE - - - - - X - - -
+             VERSION - - - - - - X - -
+              UBUNTU - - - - - - X - -
+                PKGS - - - - - - - - O

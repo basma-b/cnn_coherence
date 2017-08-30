@@ -1,0 +1,21 @@
+             ADDRESS X - O - - - - - - - - - -
+               SEVER X - - - - - - - - - - - -
+            QUESTION X - - - - - - - - - - - -
+                 WAN - X - - - - - - - - - - -
+                 LAN - X S - - - - - - - - - -
+                  IP - - X - - - - O - - - - -
+                PING - - - - X - - - - - - - -
+                  -C - - - - S - - - - - - - -
+        192.168.1.66 - - - - X - - - - - - - -
+            REPSONSE - - - - O - - - - - - - -
+              ACCESS - - - - - - X - - - - - -
+              SERVER - - - - - - X - - - - - -
+            IFCONFIG - - - - - - - S - - - - -
+             MACHINE - - - - - - - - X - - - -
+                SUDO - - - - - - - - - X X - X
+         INVOKE-RC.D - - - - - - - - - X S - -
+      OPENSSH-SERVER - - - - - - - - - S - - -
+          INITSCRIPT - - - - - - - - - X - - -
+/ETC/INIT.D/OPENSSH-SERVER - - - - - - - - - X - - -
+               ERROR - - - - - - - - - - O - -
+                 SSH - - - - - - - - - - - - S

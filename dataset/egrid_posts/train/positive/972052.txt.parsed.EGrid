@@ -1,0 +1,13 @@
+               STTY0 X - - -
+               STTY1 X - - -
+                SUDO X - - -
+            MODPROBE X S - -
+           SERIAL_CS S - - -
+              MODULE O - - -
+             NOTHING X - - -
+          LSMOD|GREP - X - -
+              ERRORS - X - -
+              DRIVER - - S -
+              SERIAL - - - O
+               THERE - - - S
+          DIFFERENCE - - - O

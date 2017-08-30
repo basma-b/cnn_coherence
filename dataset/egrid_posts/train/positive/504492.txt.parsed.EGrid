@@ -1,0 +1,14 @@
+             GPARTED S - - - - - - -
+                DISK S - - - - - - -
+                DATA - O - - - - - -
+               BREAK - - O - - - - -
+           SOMETHING - - X - - - - -
+              FORMAT - - X - - - - -
+               TABLE - - X O - - - -
+                  'T - - S - - - - -
+               STUFF - - O - - - - -
+           PARTITION - - - X - X - -
+                 ETC - - - X - - - -
+               DATAS - - - O - - - -
+                SIZE - - - - - O - -
+              DETAIL - - - - - - - X

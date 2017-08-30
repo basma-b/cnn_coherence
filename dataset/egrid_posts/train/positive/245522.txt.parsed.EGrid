@@ -1,0 +1,7 @@
+           PARTITION O - - - - -
+               DRIVE - X - - - -
+                 LVM - - O - X -
+                  .. - - O - - -
+               THESE - - X - - -
+               /BOOT - - - - S -
+              OTHERS - - - - - S

@@ -1,0 +1,15 @@
+              MODULE X - S - -
+             STARTUP X - - - -
+                 TRY - S - - -
+        /ETC/MODULES - X - - -
+                 ALL - O - - -
+                LIST - - X - -
+    IP_CONNTRACK_FTP - - O - -
+            IPTABLES - - S - -
+               -LSB- - - X - -
+                MODE - - X - -
+                 FTP - - S - -
+             PASSIVE - - - S -
+              VSFTPD - - - X -
+              CONFIG - - - X -
+              THANKS - - - - X

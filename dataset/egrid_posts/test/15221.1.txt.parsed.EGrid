@@ -1,0 +1,15 @@
+                 WAY X - - - - - -
+            FIREWALL - X - - - - -
+                 NAT - O - X O - -
+                 END - X X - - - -
+             TRAFFIC - - O O - - -
+             PACKETS - - O - - - -
+                TEST - - X - - - -
+                 LOG - - X - - - -
+               ENTRY - - O - - - -
+           SUSPICION - - S - - - -
+                PORT - - O - - - -
+              SUBNET - - - X - - -
+                 UDP - - - - - - X
+              SYSLOG - - - - - - S
+                  .. - - - - - - O

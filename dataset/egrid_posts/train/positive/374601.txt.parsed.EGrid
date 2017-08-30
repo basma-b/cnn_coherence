@@ -1,0 +1,12 @@
+                WORK X - - - - -
+             COMMENT X - - - - -
+            DEFAULTS X - O - - -
+         TTY_TICKETS - X - X - -
+                FQDN - - - - X -
+          ENV_KEEP+= - - - - S -
+                HOME - - - - X -
+      XAUTHORIZATION - - - - O -
+                 NTP - - - - X -
+             NTPDATE - - - - O -
+                THAT - - - - - O
+            TERMINAL - - - - - X

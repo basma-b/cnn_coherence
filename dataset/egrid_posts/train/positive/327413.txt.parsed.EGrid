@@ -1,0 +1,13 @@
+                BOOT X - X - -
+              SCRIPT X - - - -
+              DRIVER O - - - -
+                NAME - - O O -
+              MODULE - - X - -
+        /ETC/MODULES - - X - -
+              GDSUDO - - X - -
+                 END - - - X -
+                FILE - - - O -
+                SUDO - - - - X
+            MODPROBE - - - - S
+                  -R - - - - O
+                   | - - - - X

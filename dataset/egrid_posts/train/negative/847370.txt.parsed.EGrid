@@ -1,0 +1,14 @@
+            FIREWIRE S - -
+              DEVICE X S -
+            POINTERS O - -
+               /DEV/ - X -
+                   U - X -
+                   R - X -
+             POINTER - X -
+               LSPCI - X -
+             MACHINE - - O
+        DIST-UPGRADE - - O
+               GUTSY - - X
+                SORT - - O
+            PROBLEMS - - X
+              NOBODY - - S

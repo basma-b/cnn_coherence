@@ -1,0 +1,10 @@
+               -RSB- O - - -
+               BLOCK - X - -
+             DEVICES - X - -
+                DISK - O - X
+           PARTITION - - O X
+              AMAZON - - - X
+                 EC2 - - - X
+                 EBS - - - X
+             VOLUMES - - - O
+             NOTHING - - - O

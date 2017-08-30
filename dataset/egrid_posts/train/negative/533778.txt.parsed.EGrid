@@ -1,0 +1,10 @@
+             SUDOERS O - - - - - - - -
+             COMMAND O - S - - - - - -
+                ROOT X - - - - - - - -
+               XTERM - X - - - - - - -
+                  -E - X - - - - - - -
+                  SH - S - - - - - - -
+              VISUDO - O - - - - - - -
+                  PS - - - X - - - - -
+                   | - - - S - - - - -
+              COMPIZ - - - O - - - - -

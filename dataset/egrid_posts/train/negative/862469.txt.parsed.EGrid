@@ -1,0 +1,15 @@
+               10.10 - O - - - - -
+              KERNEL - X - - O - -
+                BOOT - X - - - - -
+             VERBOSE - X - - - - -
+            PLYMOUTH - - S S X - -
+          RESOLUTION - - S - - - -
+              SCREEN - - X - - - -
+            1600X900 - - X - - - -
+               RPBAB - - - - X - -
+             BECAISE - - - - S - -
+                FILE - - - - X - -
+               THEME - - - - X - -
+             VANILLA - - - - X - -
+              INITRD - - - - X - -
+           VBOXUSERS - - - - - - X

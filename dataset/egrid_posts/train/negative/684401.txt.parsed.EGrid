@@ -1,0 +1,15 @@
+               PLACE X - - - -
+              SERVER O - - - -
+               SPEED O - X - -
+              CLIENT X - - - -
+                 CPU - X - - -
+                  IO - X - - -
+               RSYNC - - S - -
+             DEFAULT - - X - -
+               LIMIT - - X - -
+              REGARD - - X - -
+             NETWORK - - X - -
+            TRANSFER - - X - -
+                  RE - - - S -
+                  PC - - - S -
+               THANK - - - - X

@@ -1,0 +1,16 @@
+                TIME O - - - - -
+             BALANCE X - - - - -
+             SERVERS X - - - - -
+                LOAD X X - - - -
+            BALANCER S S - - - -
+                  IP X X - - - -
+              SERVER S - - - - -
+                 NIC X S - - - -
+                CASE X - - - - -
+            FAILURES S - - - - -
+                REST - O - - - -
+                BOND - - X - - -
+          REDUNDANCY - - O - - -
+              SWITCH - - X - - -
+                  .. - - - - S -
+            PROBLEMS - - - - O -

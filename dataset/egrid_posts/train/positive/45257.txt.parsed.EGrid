@@ -1,0 +1,10 @@
+                HELP O - - - - -
+               CLOCK X X - - - -
+            SHUTDOWN - X - - - -
+              SYSTEM - S - - - -
+            HARDWARE - X - - - -
+       /SBIN/HWCLOCK - - X S - -
+                PART - - - O - -
+          UTIL-LINUX - - - X - -
+             PACKAGE - - - - O -
+                  OK - - - - - X

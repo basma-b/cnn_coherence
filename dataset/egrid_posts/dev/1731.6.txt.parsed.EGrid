@@ -1,0 +1,21 @@
+                  HI S - - - -
+                SWAP X O O - -
+               SPACE O - - - -
+             MACHINE X - - - -
+           PARTITION - X - - -
+                FILE - X - - -
+                 USE - X - - -
+             EXAMPLE - O - - -
+               512MB - O - - -
+                  DD - X X - -
+        IF=/DEV/ZERO - X S - -
+    OF=/VAR/SWAPFILE - X - - -
+              MKSWAP - X - - -
+       /VAR/SWAPFILE - X - - -
+              SWAPON - X - - -
+                  -A - X - - -
+                THAT - - S - -
+           COUNT=512 - - O - -
+           PHP5.CONF - - - - S
+          SETHANDLER - - - - X
+APPLICATION/X-HTTPD-PHP - - - - O

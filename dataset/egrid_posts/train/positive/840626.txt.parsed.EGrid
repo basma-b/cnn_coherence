@@ -1,0 +1,8 @@
+                USER O S O - X
+              APACHE X S S O -
+             PROGRAM O - - - -
+                 WEB - O - - -
+                 ^^^ - - O - -
+          USER/GROUP - - - O -
+          HTTPD.CONF - - - X -
+                ROOT - - - X -

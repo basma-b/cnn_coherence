@@ -1,0 +1,14 @@
+                LOAD S - - - -
+                BOOT X - - - -
+              CONFIG X - - - -
+                FILE X - - O -
+              DAPPER - - X - -
+        /ETC/MODULES - - S S -
+              FOLDER - - O - -
+                NAME - - - O -
+             MODULES - - - X X
+                  AH - - - X -
+              MODULE - - - - S
+                REST - - - - X
+              KERNEL - - - - X
+             VERSION - - - - X

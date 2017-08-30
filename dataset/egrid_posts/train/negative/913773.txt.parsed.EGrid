@@ -1,0 +1,15 @@
+                TIME X - - - -
+             SOMEONE X - - - -
+              THEORY O - - - -
+             PACKAGE O O - - -
+            INSTANCE X - - - -
+                 SMP X - - - -
+              KERNEL S X - - -
+       LINUX-686-SMP O - - - -
+ LINUX-IMAGE-686-SMP O - - - -
+LINUX-IMAGE-2.6-686-SMP O - S - -
+                  .. - X - - X
+             VERSION - X - - -
+          DEPENDANCY - - O - -
+             UPGRADE - - O - -
+               SOUND - - - - X

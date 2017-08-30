@@ -1,0 +1,13 @@
+           W32CODECS O - -
+           W64CODECS O - -
+                 VLC - O -
+            MEANTIME - X -
+             DECODER - O -
+    GSTREAMER0.8-MAD - X -
+          LIBDVDCSS2 - O -
+                BOTH - O -
+               THOSE - X -
+               ADOBE - - S
+               FLASH - - X
+              PLAYER - - O
+                HTTP - - X

@@ -1,0 +1,10 @@
+           XORG.CONF O - - -
+              SYSTEM X - - -
+                TEXT - X - -
+              EDITOR - O - -
+                NANO - X - -
+                PICO - X - -
+                 VIM - X - -
+        XSERVER-XORG - O - X
+             COMMAND - S - -
+                SUDO - - X X

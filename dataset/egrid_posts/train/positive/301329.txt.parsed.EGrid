@@ -1,0 +1,19 @@
+               INTEL X - X - - - X
+            GRAPHICS X - - - - - -
+                CHIP X - - - - - -
+              82G965 X - - - - - -
+              COMPIZ X - - - - - -
+                WORK O O - - - - -
+      OUT-OF-THE-BOX X - - - - - -
+             GLXINFO - - S - - - -
+                MESA - - O X - - -
+             NOTHING - - X - - - -
+             DRIVERS - - X - - - -
+                XORG - - - S - - -
+            HARDWARE - - - O - - -
+              DRIVER - - - - X - -
+  /ETC/X11/XORG.CONF - - - - X - -
+                SHOW - - - - X - -
+                I810 - - - - X - -
+              INSTAL - - - - - - O
+XSERVER-XORG-VIDEO-I810 - - - - - - O

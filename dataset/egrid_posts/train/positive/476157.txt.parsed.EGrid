@@ -1,0 +1,17 @@
+               IRRSI - X - - -
+                 GUI - X - - -
+              SYSTEM - S - - -
+             DRIVERS - O - - -
+                   X - O - - -
+              SCREEN - S - - -
+              NVIDIA - X - - -
+                 ATI - O S - -
+                THAT - - X - -
+             CHIPSET - - X - -
+            XORG.LOG - - O - -
+   /VAR/LOG/XORG.LOG - - - X -
+                   * - - - X -
+          XORG.0.LOG - - - S -
+              ERRORS - - - - O
+               MOUSE - - - - O
+             CONSOLE - - - - X

@@ -1,0 +1,9 @@
+             DEFAULT X O -
+             GATEWAY X - -
+           INTERFACE S - -
+                DHCP X - -
+                TYPE - X -
+               ROUTE - X -
+                  NV - - X
+              DRIVER - - X
+              NVIDIA - - X

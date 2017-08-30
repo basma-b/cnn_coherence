@@ -1,0 +1,26 @@
+                NTFS X - X -
+           PARTITION O - X S
+          READ/WRITE X - - -
+            INTERPID X - - -
+                THIS - S - -
+               SETUP - O - -
+               ISCSI - X - -
+                 SAN - X - -
+              DEVICE - X - X
+                 NAS - X - -
+                TYPE - X - -
+               HTTPS - X - -
+//HELP.UBUNTU.COM/COMMUNITY/MOUNTINGWINDOWSPARTITIONS - X - -
+           PRIVILEGE - O X -
+                  RW - X - -
+                 END - X - -
+             COMMAND - X - -
+                TIME - - X -
+                BOOT - - X -
+          /ETC/FSTAB - - X -
+                FILE - - X -
+             SYSTEMS - - O -
+               FDISK - - - S
+                 GPT - - - X
+                PART - - - S
+                NAME - - - X

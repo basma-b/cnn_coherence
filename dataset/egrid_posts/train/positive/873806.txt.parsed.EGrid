@@ -1,0 +1,9 @@
+              KERNEL O -
+             COMMAND X -
+                SUDO X -
+             APT-GET S -
+LINUX-HEADERS-GENERIC-LTS-BACKPORT-NATTY X -
+               10.04 O -
+                 USE X -
+          AUTOREMOVE O X
+                MENT - X

@@ -1,0 +1,15 @@
+              ORIGIN X X - - - -
+              POLICY X X - - - -
+             FIREFOX X - - - S -
+            LOCATION - - - X - -
+              SCRIPT - - - O - -
+                WICH - - - S - -
+                DATA - - - O - -
+                 RUN - - - - X -
+         RESTRICTION - - - - O -
+              REASON - - - - X -
+                 APP - - - - S -
+ /ETC/APACHE2/CONF.D - - - - - X
+                 DIR - - - - - S
+             NOTHING - - - - - S
+        /ETC/APACHE/ - - - - - X

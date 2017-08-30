@@ -1,0 +1,7 @@
+           PARTITION S - - -
+                VFAT - X - -
+                USER - X - -
+               FSTAB - X - -
+             OPTIONS - S - -
+               /DEV/ - S - -
+              LONDON - - - X

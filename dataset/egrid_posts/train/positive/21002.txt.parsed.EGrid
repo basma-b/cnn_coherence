@@ -1,0 +1,11 @@
+                  .. O - - -
+             HOTPLUG - S - -
+            KEYBOARD - O - -
+             DEVICES - X - -
+                FINE - O - -
+             KERNELS - - O -
+              KERNEL - - X -
+                BOOT - - O -
+          PCI=NOACPI - - X -
+                HTTP - - - X
+//WWW.UBUNTULINUX.ORG/WIKI/GRUBHOWTO - - - X

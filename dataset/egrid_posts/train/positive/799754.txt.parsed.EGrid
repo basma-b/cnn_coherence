@@ -1,0 +1,19 @@
+     GRUB-BACKGROUND O S - - - - - - -
+   /ETC/DEFAULT/GRUB X X - - - - - - -
+                WATH - X - - - - - - -
+                HARD - - - X - - - - -
+                PATH - - - S - - - - -
+               IMAGE - - - X S X - - -
+                FILE - - - X - O - - -
+                LINE - - - O - - - - -
+/ETC/GRUB.D/05_DEBIAN_THEME - - - O - - - - -
+                 IVE - - - - S - - - -
+       SCRIPTS/TOOLS - - - - O - - - -
+            AUTO-SET - - - - S - - - -
+          BACKGROUND - - - - X - - - -
+                USER - - - - S - - - -
+                MINE - - - - - S - - -
+                 ONE - - - - - - X - -
+                   * - - - - - - - S -
+                   < - - - - - - - O -
+                 LOT - - - - - - - - O

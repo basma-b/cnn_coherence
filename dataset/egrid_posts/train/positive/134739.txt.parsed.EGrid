@@ -1,0 +1,12 @@
+               THERE X - - - -
+              REASON X - - - -
+                FILE O - - - -
+           PARTITION X - - - -
+              /MEDIA X - - - -
+                 ALL - X - - -
+              ACCESS - - O O -
+         PERMISSIONS - - - X -
+              AND/OR - - - X -
+               CHMOD - - - O -
+          /MEDIA/FOO - - - S -
+                SUDO - - - - O

@@ -1,0 +1,18 @@
+           LIBRARIES O - X - -
+             MACHINE X - - - -
+                ROOT X - - - -
+              ACCESS O - - - -
+        REPOSITORIES - O - - -
+         DIRECTORIES - X - - -
+             PROGRAM - - S - -
+             LIBRARY - - O X -
+            OVERLOAD - - - X -
+            DYNAMICS - - - X -
+              LOADER - - - X -
+                PATH - - - O -
+                CALL - - - X -
+        LD_SOMETHING - - - X -
+LD_LIBRARY_PATH=/PATH/TO/YOUR/OWN/LIB - - - X -
+         YOURPROGRAM - - - S -
+                HELP - - - X -
+                  YW - - - - X

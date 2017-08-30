@@ -1,0 +1,17 @@
+             APT-GET S - - -
+             MACHINE X - - -
+               STICK O - - -
+            FIREWALL X - - -
+            SYNAPTIC S - - -
+             NETWORK X - - -
+               PROXY O X - -
+              ANYONE S - - -
+              EXPORT - X - -
+         HTTP_PROXY= - S - -
+                   < - O - -
+                   > - S - -
+                PORT - S - -
+               THOES - - - S
+             COMMAND - - - X
+              OUTPUT - - - X
+            ANYTHING - - - O

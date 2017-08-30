@@ -1,0 +1,13 @@
+            APPARMOR - X - - - -
+             PROBLEM - O - - - -
+             PROGRAM - S - - - -
+                MODE - X - - - -
+                  .. - O - - - -
+                THIS - - S - - -
+                FORK - - X - - -
+              AUDITD - - - - O -
+              OUTPUT - - - - X -
+             MESAGES - - - - O -
+                 TON - - - - X -
+                CASE - - - - - X
+                LOOK - - - - - O

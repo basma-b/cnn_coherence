@@ -1,0 +1,9 @@
+               CHMOD X - - -
+         PERMISSIONS - O - -
+              DEVICE - X - X
+                NODE - X - -
+                NAME - - - S
+           /DEV/SDB1 - - - O
+          IMPORTANCE - - - X
+                SUDO - - - S
+     /MEDIA/EXTERNAL - - - O

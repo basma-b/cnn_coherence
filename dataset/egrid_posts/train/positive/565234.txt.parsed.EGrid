@@ -1,0 +1,43 @@
+                 WHO S - - - - - - - - - - - -
+              LAPTOP X - - - - - - - - - - - -
+           BLUETOOTH X X - X - - - - - - - - -
+              UBUNTU - X - - - - - - - - - - -
+             SERVICE - - O - - - - - - - - - -
+               BOOTH - - X - - - - - - - - - -
+               CHECK - - X - - - - - - - - - -
+         /ETC/RC5.D/ - - X - - - - - - - - - -
+             PROCESS - - X - - - - - - - - - -
+            ICE-NINE - - X - S - X - - - - - X
+                LIST - - O - - - - - - - - - -
+             INSTALL - - X X - - - - - - - - -
+        S25BLUETOOTH - - X - - - - - - - - - -
+                THAT - - - O - - - - - X - - -
+        K25BLUETOOTH - - - X - - - - - - - - -
+                   * - - - X - - - - - - - - -
+              RETURN - - - X - - - - - - - - -
+                WORK - - - - X - - - - - - - -
+              README - - - - - - X - - - - - -
+S20DKMS_AUTOINSTALLER - - - - - - X - - - - - -
+S30SYSTEM-TOOLS-BACKENDS - - - - - - X - - - - - -
+        S01POLICYKIT - - - - - - X - - - - - -
+     S20HOTKEY-SETUP - - - - - - X - - - - - -
+          S89ANACRON - - - - - - X - - - - - -
+          S05VBESAVE - - - - - - X - - - - - -
+        S20POWERNOWD - - - - - - X - - - - - -
+              S89ATD - - - - - - X - - - - - -
+            S10ACPID - - - - - - X - - - - - -
+            S20RSYNC - - - - - - X - - - - - -
+             S89CRON - - - - - - X - - - - - -
+         S10SYSKLOGD - - - - - - X - - - - - -
+          S20VBOXDRV - - - - - - X - - - - - -
+   S90BINFMT-SUPPORT - - - - - - X - - - - - -
+S10XSERVER-XORG-INPUT-WACOM - - - - - - X - - - - - -
+   S20VIRTUALBOX-OSE - - - - - - X - - - - - -
+          S98USPLASH - - - - - - X - - - - - -
+             COMMAND - - - - - - O - - - - - -
+            SYNAPTIC - - - - - - - - O - - - -
+              SEARCH - - - - - - - - X - - - -
+             PACKAGE - - - - - - - - O - - - -
+              REBOOT - - - - - - - - - S - - -
+                GOOD - - - - - - - - - X - - -
+                MINE - - - - - - - - - - - S -

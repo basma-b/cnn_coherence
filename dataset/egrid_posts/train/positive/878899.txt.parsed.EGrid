@@ -1,0 +1,25 @@
+               PRESS X - - - - - - - -
+                  F6 O - - - - - - - -
+               ENTRY O - - - - - - - -
+                 CAN O - - - - - - - -
+                ALSA X - - - - - - - -
+                INFO O O - - - - - - -
+               HTTPS - X - - - - - - -
+//WIKI.UBUNTU.COM/AUDIO/ALSAINFO - S - - - - - - -
+/ETC/PULSE/DEFAULT.PA - O - - - - - - -
+                LINE - O - - - - - - -
+    MODULE-ALSA-SINK - X - - - - - - -
+        DEVICE=HW0,0 - S - - - - - - -
+               QUOTE - S - - - - - - -
+             PROCESS - - S - - - - - -
+                SUDO - - - S - - - - -
+              DAEMON - - - O - - - - -
+          PERMISSION - - - S - - - - -
+             STARTUP - - - - - X - - -
+               SOUND - - - - - O - - -
+              DEVICE - - - - - - S - -
+               MIXER - - - - - - X - -
+           ALSAMIXER - - - - - - X - -
+                   ' - - - - - - - O -
+                FILE - - - - - - - O -
+                THAT - - - - - - - - S

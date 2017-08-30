@@ -1,0 +1,12 @@
+               CHMOD X X - -
+               SHELL X - - -
+              SCRIPT X - - -
+             SERVICE X - - -
+         /ETC/INIT.D X - - -
+             EXECUTE - O - -
+                SUDO - X - -
+                  +X - X - S
+            FILENAME - X - O
+                USER - X - -
+               GROUP - X - -
+            EVERYONE - - - X

@@ -1,0 +1,18 @@
+             DEFAULT X - - -
+               UMASK X - - -
+                 ETC X - - -
+                  .. - X - -
+                THIS - S - -
+          PERMISSION - X - -
+           RW_R__R__ - O - -
+             PROFILE - - X -
+              SOURCE - - O -
+                USER - - X -
+                HTTP - - X -
+//WWW.CYBERCITI.BIZ/TIPS/UNDERSTANDING-LINUX-UNIX-UMASK-VALUE-USAGE.HTML - - X -
+                DIFF - - - X
+                 VNC - - - X
+             CLIENTS - - - O
+          EVERYTHING - - - O
+               SETUP - - - X
+               RIGHT - - - X

@@ -1,0 +1,11 @@
+          CONNECTION O - - - - -
+                ROOT X - - - X X
+             ACCOUNT O - - - - -
+                 SSH - S - - - -
+               HTTPS - - X - - -
+//HELP.UBUNTU.COM/COMMUNITY/SSH_VPN - - X - - -
+         PORTFORWARD - - - O - -
+                THAT - - - - S -
+                 VPN - - - - X -
+               PRIVS - - - - X -
+          INTERFACES - - - - - S

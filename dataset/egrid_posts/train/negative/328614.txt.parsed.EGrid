@@ -1,0 +1,13 @@
+            DHCLIENT X X X - -
+               WLAN0 X X - - -
+             STARTUP X X - - -
+            MODPROBE - - X - -
+                 PIP - - X - -
+              OUTPUT - - X - -
+                   | - - - X -
+                PIPE - - - X -
+            OPERATOR - - - O -
+                LINE - - - X -
+           INDICATOR - - - X -
+              EFFECT - - - - S
+               DELAY - - - - X

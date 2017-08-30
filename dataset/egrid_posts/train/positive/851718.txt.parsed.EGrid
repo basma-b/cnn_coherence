@@ -1,0 +1,25 @@
+             COMMAND - X - - - - - - - O X
+               XCHAT - X - - - - - - - - -
+                SUDO - - X - - - - - - - -
+             APT-GET - - S - - - - - - - -
+             HELPERS - - X - - - - - - - -
+                MAIN - - X - - - - - - - -
+         ENVIRONMENT - - X - - - - - - - -
+                   E - - - X - - - - - - -
+                LOCK - - - X - - - - - - -
+/VAR/CACHE/APT/ARCHIVES/LOCK - - - O - - - - - - -
+            RESOURCE - - - X - - - - - - -
+                LINE - - - X - - - - - - -
+                   * - - - X - - - - - - -
+           DIRECTORY - - - X - - - - - - -
+/VAR/CACHE/APT/ARCHIVES/ - - - O - - - - - - -
+            SYNAPTIC - - - X - - - - - - -
+             PACKAGE - - - X - - - - - - -
+             MANAGER - - - S - - - - - - -
+            SOFTWARE - - - X - - - - - - -
+              CENTER - - - X - - - - - - -
+            LIVEDISK - - - - - - X - - - -
+            ANYTHING - - - - - - - O - - -
+             FIREFOX - - - - - - - X - S -
+            TERMINAL - - - - - - - O - - -
+                THAT - - - - - - - - S - -

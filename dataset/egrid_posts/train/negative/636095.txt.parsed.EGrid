@@ -1,0 +1,32 @@
+                  HD - - S - - - - - - - - -
+                ROOT - - - X - - - - - - - -
+                 GUI - - - O - O - - - - - -
+               AVAIL - - - X - - - - - - - -
+         PERMISSIONS - - - - O - - - - - - -
+           PARTITION - - - - X - - X - - - -
+                9.04 - - - - - - S - - - - -
+                SUDO - - - - - - S - - - - -
+               /DEV/ - - - - - - X - - - - -
+                   < - - - - - - X - - - - -
+                   > - - - - - - S O - - - -
+/PATH/TO/MOUNT/POINT - - - - - - O - - - - -
+                TYPE - - - - - - X - - - - -
+             EXACTLY - - - - - - X - - - - -
+            TERMINAL - - - - - - - X - - - -
+                NAME - - - - - - - O - O - -
+              DEVICE - - - - - - - X - X - -
+             EXAMPLE - - - - - - - X - - - -
+                PATH - - - - - - - X - - - -
+             COMMAND - - - - - - - - S - - -
+              PSEUDO - - - - - - - - X - - -
+                CODE - - - - - - - - O - - -
+              SYNTAX - - - - - - - - O - - -
+                /DEV - - - - - - - - - X - -
+           DIRECTORY - - - - - - - - - O - -
+                FILE - - - - - - - - - X - -
+              SYSTEM - - - - - - - - - O - -
+              MODULE - - - - - - - - - - O -
+              KERNEL - - - - - - - - - - X O
+             VERSION - - - - - - - - - - O -
+XSERVER-XORG-INPUT-SYNAPTICS - - - - - - - - - - - O
+XSERVER-XORG-INPUT-MOUSE - - - - - - - - - - - O

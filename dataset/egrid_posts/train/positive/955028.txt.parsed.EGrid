@@ -1,0 +1,8 @@
+              SCRIPT S - - -
+             COMMAND S - - -
+           ROOT/SUDO X - - -
+   /ETC/CRON.MONTHLY X - - -
+                   * - S - -
+                ROOT - X - -
+             DEFAULT - X - -
+                  OK - - - X

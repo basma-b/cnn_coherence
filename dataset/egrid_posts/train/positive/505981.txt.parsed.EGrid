@@ -1,0 +1,15 @@
+                TIME - O - - - - -
+            SCHEDULE - X - - - - -
+                TASK - O - X - X -
+            COMPUTER - - X - - - -
+                THAT - - - S - - -
+            POWEROFF - - - S - - -
+            SHUTDOWN - - - X - - O
+                 ALL - - - O - - -
+             SECTION - - - X - X -
+             COMMAND - - - - - - X
+             MACHINE - - - - - - X
+                  .. - - - - - - O
+              SCRIPT - - - - - - O
+                SUDO - - - - - - X
+        PERSMISSIONS - - - - - - X

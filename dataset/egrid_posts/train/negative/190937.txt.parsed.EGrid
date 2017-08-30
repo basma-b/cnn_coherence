@@ -1,0 +1,21 @@
+                THAT X - - - - - -
+            QUESTION X - - - - - -
+                6.06 O - - - - - -
+              KERNEL S X - - - - -
+              2.6.15 O - - - - - -
+              2.6.17 X - - - - - -
+                 ONE - X - - - - -
+            SYNAPTIC - - X - - - -
+                HIDD - - X - - - -
+           BLUETOOTH - - X - - - -
+                FILE - - - - X - -
+/ETC/DEFAULT/BLUEZ-UTILS - - - - S - -
+        HIDD_ENABLED - - - - X - -
+/ETC/INIT.D/BLUEZ-UTILS - - - - S - -
+               ISSUE - - - - - S -
+            CONFLICT - - - - - X -
+             DRIVERS - - - - - O X
+              SYSTEM - - - - - X -
+                 ALL - - - - - - X
+                ONES - - - - - - O
+            HARDWARE - - - - - - X

@@ -1,0 +1,11 @@
+                TYPE X - - - - -
+                WORD O - - - - -
+            TERMINAL X - - - - -
+           DOCUMENTS - X - - - -
+                FILE - - X X - -
+                 A+X - - X - - -
+           DIRECTORY - - - X - -
+                  .. - - - O - -
+               POINT - - - - - O
+                  ./ - - - - - O
+               BEGIN - - - - - X

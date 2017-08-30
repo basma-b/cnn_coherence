@@ -1,0 +1,16 @@
+                HELP - X - - - - - - - - - - - -
+               SAMBA - X - X - - - - - X - - - -
+               SHARE - O - X - - - - - O - - - -
+          READ-WRITE - - - O - - - - - - - - - -
+              SERVER - - - X - - X - X X X - - -
+              CLIENT - - - - X S S - - - S - - -
+                THAT - - - - - X - - - - - - - -
+                USER - - - - - O X - S - O - X -
+           DIRECTORY - - - - - - S - X - - - - -
+                 HMM - - - - - - - X - - - - - -
+                UNIX - - - - - - - - - - X - - -
+                NAME - - - - - - - - - - X - - -
+           SMBPASSWD - - - - - - - - - - - O - -
+               USERS - - - - - - - - - - - O - -
+         PERMISSIONS - - - - - - - - - - - - X -
+               CHEER - - - - - - - - - - - - - X

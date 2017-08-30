@@ -1,0 +1,10 @@
+             COMMAND X - - -
+                LIST X - - -
+   DRIVES/PARTITIONS X - - -
+              SYSTEM X - - -
+               FDISK - X - -
+                  -L - X - -
+                PART - X - -
+         JAVA-BINARY - - S -
+                 END - - - X
+/PATH/TO/THE/DIRECTORY/WHERE/THE/JAVA/BINARY/IS/ - - - X

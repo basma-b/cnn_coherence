@@ -1,0 +1,15 @@
+ LIBAPACHE2-MOD-PHP5 X - - - - - - - -
+ APACHE2-MPM-PREFORK X - - - - - - - -
+                   > X - - - - - - - -
+                 PHP X - - - - - - - -
+                  .. X - - - - - - - -
+                9.04 X - - - - - - - -
+                LAMP - X O - - - - - -
+             SUPPORT - - X - - - - - -
+             PACKAGE - - S - X - S - -
+              ENOUGH - - O - - - - - -
+             APT-GET - - - S - - - - -
+                SUDO - - - X - - - - -
+        MYSQL-SERVER - - - O - - - - -
+                REPS - - - - - - S - -
+              ENABLE - - - - - - O - -

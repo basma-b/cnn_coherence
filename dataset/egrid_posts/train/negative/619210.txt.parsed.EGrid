@@ -1,0 +1,12 @@
+              FORMAT O - - - - - -
+           PARTITION X - - - - - -
+             WINDOWS - - O - - - -
+                 ONE - - O - - - -
+                FILE - - O - - - -
+               THING - - X - - - -
+          FILESYSTEM - - O - - - -
+                DATA - - - X - - -
+            RECOVERY - - - X - - -
+             SERVICE - - - X X - -
+                THAT - - - - X - -
+                  XD - - - - - - X

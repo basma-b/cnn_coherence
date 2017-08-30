@@ -1,0 +1,17 @@
+                HELP O - - - - - - - -
+                  .. - X - X - - - - -
+   /ETC/DEFAULT/GRUB - O - - - - - - -
+                TEXT - X - S X S X - X
+                MODE - X - X X - - - X
+               PROMP - X - - - - - - -
+              ANYONE - - X - - - - - -
+               LOGIN - - - X X - - - -
+              CHANGE - - - O - - - - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - - O - - - - -
+                BOOT - - - X O - - - -
+                SUDO - - - X - - - - -
+         UPDATE-GRUB - - - O - - - - -
+                WORK - - - - - X - - -
+                GRUB - - - - - - X - -
+            PASSWORD - - - - - - - - X
+                USER - - - - - - - - X

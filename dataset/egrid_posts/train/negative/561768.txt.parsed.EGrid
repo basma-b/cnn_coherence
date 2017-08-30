@@ -1,0 +1,25 @@
+              CHANGE S - - -
+70-PERSISTENT-NET.RULES X - - -
+             EXAMPLE X - - -
+                ETH1 X - - -
+                   < X - - -
+                ETH2 X - - -
+              EFFECT O - - -
+              REBOOT X - - -
+    /ETC/INIT.D/UDEV - S - -
+            METHINKS - S - -
+                WORK - X - -
+              OMMAND - - S -
+                 CAT - - X -
+                  1. - - O -
+               GUESS - - S -
+              NVIDIA - - S -
+             DRIVERS - - O -
+                 THE - - - X
+                   * - - - S
+                   / - - - X
+               THERE - - - X
+               LIMIT - - - X
+           ARGUMENTS - - - X
+                BASH - - - X
+                LINE - - - S

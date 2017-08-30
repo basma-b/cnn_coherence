@@ -1,0 +1,10 @@
+              BACKUP X - - -
+           PARTITION O - - -
+               DRIVE S - - -
+                VFAT O - - -
+             SUPPORT X - - -
+                FILE O - - -
+                NTFS - - S -
+              FORMAT - - X -
+                DISK - - O -
+                EXT3 - - X -

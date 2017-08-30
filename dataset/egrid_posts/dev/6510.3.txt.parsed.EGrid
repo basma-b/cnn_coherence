@@ -1,0 +1,21 @@
+                 ALL S - - - - - -
+               GUEST O - - - - - -
+               10.04 X - - - - - -
+               12.04 X - - - - - -
+               ERROR O - - - - - -
+           INITRAMFS X - - - - - -
+               ALERT S - - - - - -
+                ROOT X - - - - - -
+              DEVICE S - - - - - -
+                   * - S - - - - -
+             NOTHING - O - - - - -
+            POINTERS - X - - - - -
+             COMMAND - - S - - - -
+                PAGE - - - - - S -
+               THING - - - - - S -
+          INDEX.HTML - - - - - O -
+//1.221.147.11:8080/ICOUP/ - - - - - S -
+                WORK - - - - - X -
+           INDEX.HTM - - - - - - X
+             IN.HTML - - - - - - X
+                LIST - - - - - - X

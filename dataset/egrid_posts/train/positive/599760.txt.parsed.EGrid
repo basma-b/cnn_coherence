@@ -1,0 +1,16 @@
+                KIND X - - - - - -
+              SCRIPT X - S - X - -
+              KERNEL X - X - - - -
+             UPGRADE X - X - - - -
+            GRAPHICS - X - - - - -
+             DRIVERS - X O - - - -
+              NVIDIA - - X - - - -
+/ETC/KERNEL/POSTINST.D - - - O - - -
+                 USE - - - X - - -
+             COMMAND - - - X - - -
+                SUDO - - - S - - -
+       UPDATE-NVIDIA - - - X - - -
+        INSTRUCTIONS - - - - S - -
+               BASIS - - - - X - -
+            T=835573 - - - - - S -
+             WELCOME - - - - - - X

@@ -1,0 +1,16 @@
+               PATCH X - - O
+              SOURCE X - - X
+             PACKAGE X - - -
+                THIS - - O -
+        RPM/SRC.RPMS - - X -
+         ~/BUILD_DIR - - - S
+                  CD - - - X
+        PACKAGE_NAME - - - O
+            DOWNLOAD - - - O
+           DIRECTORY - - - X
+          COMPONENTS - - - X
+             TARBALL - - - O
+               UNTAR - - - S
+                 ETC - - - X
+                 TAR - - - X
+                NAME - - - X

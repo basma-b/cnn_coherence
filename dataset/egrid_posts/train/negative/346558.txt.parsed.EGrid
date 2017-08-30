@@ -1,0 +1,13 @@
+                  -I X - - - - - -
+               VLAN1 X - - - - - -
+          MASQUERADE X - - - - - -
+         10.0.0.0/24 - - - - X - -
+             PACKETS - - - - S - -
+           INTERFACE - - - - O - -
+                  .. - - - - X - -
+                ROUT - - - - X - -
+               TABLE - - - - X - -
+                SDB2 - - - - - X -
+               CLICK - - - - - O -
+              CHANGE - - - - - X -
+          MOUNTPOINT - - - - - - O

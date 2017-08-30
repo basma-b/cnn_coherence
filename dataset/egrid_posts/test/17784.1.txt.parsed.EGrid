@@ -1,0 +1,15 @@
+                  .. S - - X -
+                SDA1 X X - - -
+                FILE - O - S X
+                SDB5 - O - - -
+       /OPT/FILENAME - X - - -
+             SYMLINK - O - - -
+                  LS - - X - -
+                  -L - - S - -
+                BOTH - - - O -
+            SEPERATE - - - O -
+                NAME - - - - S
+          MONEYDANCE - - - - O
+                .DEB - - - - O
+               OTHER - - - - S
+                 RPM - - - - O

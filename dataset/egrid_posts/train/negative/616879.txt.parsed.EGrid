@@ -1,0 +1,16 @@
+             COMMAND X X X - -
+         DEPENDECIES X O - - -
+             PACKAGE X O X - -
+                INFO - X - - -
+              MYRTTI - S - - -
+           DEPENCIES - X - - -
+          AUTOREMOVE - - X S -
+          DEPENDENCY - - X - -
+                THAT - - - X -
+              REMOVE - - - X -
+             APT-GET - - - X -
+                TYPE - - - X -
+                   > - - - O -
+           DEPENDECY - - - O -
+                  -F - - - S -
+               CACHE - - - O -

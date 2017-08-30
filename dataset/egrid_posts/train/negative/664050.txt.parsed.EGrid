@@ -1,0 +1,24 @@
+                FILE X - - - - - -
+           EXTENSION X - - - - - -
+                .SLT X - - - - - -
+             MOZILLA X - - - - - -
+                   > X - - - - - -
+/DEFAULT/12345678.SLT/ O - - - - - -
+            QUESTION - X - - - - -
+              UBUNTU - - X - - - -
+            ANYTHING - - X - - - -
+             DEFAULT - - - - X - -
+       CONFIGURATION - - - - X - -
+                SUDO - - - - S - -
+           /VAR/LOG/ - - - - - X -
+              NORMAL - - - - - O -
+              LIVECD - - - - - - X
+         ENVIRONMENT - - - - - - X
+                   / - - - - - - S
+                AUFS - - - - - - X
+             OVERLAY - - - - - - O
+            SQUASHFS - - - - - - X
+               IMAGE - - - - - - X
+          FILESYSTEM - - - - - - X
+                 RAM - - - - - - X
+              CHANGE - - - - - - S

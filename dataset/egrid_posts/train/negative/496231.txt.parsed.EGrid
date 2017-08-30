@@ -1,0 +1,26 @@
+                  IM X - - S - - -
+               SETUP X - - O - - -
+               SQUID X - X - X - -
+                 BOX S - X - - - -
+       COMMUNICATION S - - - - - -
+                PORT - - X - - - -
+            IPTABLES - - O O - - -
+         CONNECTIONS - - O - - - -
+              GOOGLE - - X - - - -
+               PROXY - - X O - - -
+                THAT - - - X - - -
+                WORK - - - X - - -
+                 LOG - - - X X - -
+                DONT - - - S - - -
+            ANYTHING - - - O - - -
+                HTTP - - - X - - -
+/VAR/LOG/SQUID/ACCESS.LOG - - - S - - -
+             NOTHING - - - O - - -
+               ERROR - - - - - S -
+              THERES - - - - - X -
+          ACCESS.LOG - - - - - X -
+           CACHE.LOG - - - - - X -
+           STORE.LOG - - - - - O -
+                THIS - - - - - - S
+             DEVICES - - - - - - S
+              REBOOT - - - - - - X

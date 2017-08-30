@@ -1,0 +1,9 @@
+             PROGRAM X X - - -
+                 BIN X X - - -
+                 CUE X X - - -
+                FILE O O - - -
+               MOUNT - - X - -
+                LOOP - - - X -
+       /PATHFILE.BIN - - - X -
+        /MOUNT/PLACE - - - O -
+                  LP - - - - X

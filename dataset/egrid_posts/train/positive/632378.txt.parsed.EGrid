@@ -1,0 +1,14 @@
+            SENDMAIL O - - - -
+               START X - - - -
+                BOOT X - - - -
+              SYSTEM O - - - -
+             MINUTES - O - - -
+           UNINSTALL - O - - -
+             APT-GET - S - - -
+              LITTLE - O - - -
+              CHANGE - S - - -
+              KERNEL - X - - -
+                  RO - X - - -
+       -VMALLOC=256M - X - - -
+             PROBLEM - O - - -
+ /BOOT/GRUB/MENU.LST - - - - X

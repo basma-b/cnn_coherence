@@ -1,0 +1,13 @@
+             APT-GET S -
+GSTREAMER0.8-PLUGINS S -
+            LIBDVDCS O -
+                SUDO X -
+                CARE O -
+                BOTH X -
+             PACKAGE X -
+                THAT - S
+                  TY - S
+                 DVD - X
+            PLAYBACK - X
+                  .. - X
+                UDMA - O

@@ -1,0 +1,17 @@
+             ENTRIES O - - - - - - -
+                FILE X - - - - - - -
+                VFAT X - - - - - - -
+              DRIVES X - - - - - - -
+                BOTH S - - - - - - -
+               DRIVE X S - - - - - -
+              REBOOT X - - - - - - -
+         PERMISSIONS - O - - - - - -
+               0700. - O - - - - - -
+              ANYONE - - - X - - - -
+               FSTAB - - - - X - - -
+               UMASK - - - - X X - -
+             OPTIONS - - - - X X - -
+                LINE - - - - X - - -
+                NMAP - - - - - - - X
+              ZENAMP - - - - - - - S
+                 GUI - - - - - - - O

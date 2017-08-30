@@ -1,0 +1,25 @@
+            HOSTNAME X - - - - - - - -
+                DHCP X - - - X - - - -
+             NETWORK X - - - - - - - -
+      NETWORKMANAGER X - - - - - O - -
+                THAT - O - - - - - - X
+                 USE - O - - - - - - -
+            DHCLIENT - O - - - - - - -
+/ETC/DHCP3/DHCLIENT.CONF - - S - - - - - -
+             REQUEST - - X O - - - - X
+             SECTION - - X - - - - - -
+               ENUFF - - - X - - - - -
+              CLIENT - - - S O - - - -
+              SERVER - - - X - - - - -
+                FILE - - - - - O O - -
+             CONFIGS - - - - - X - - -
+                HTTP - - - - - O - - -
+            QUESTION - - - - - X - - -
+              CHANGE - - - - - - S - -
+                   > - - - - - - - - S
+                  NM - - - - - - - - S
+       DHCLIENT.CONF - - - - - - - - O
+           SOMETHING - - - - - - - - O
+           INTERFACE - - - - - - - - X
+                ETH0 - - - - - - - - X
+    ANDARE.FUGUE.COM - - - - - - - - X

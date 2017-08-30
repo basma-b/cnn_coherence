@@ -1,0 +1,15 @@
+             XMODMAP X X - - - - - - -
+             COMMAND S - - - - - - - -
+            TERMINAL X - - - - - - - -
+                  -E - S - - - - - - -
+               ALT_L - S - - - - - - -
+            ANYTHING - O - - - - - - -
+                 KEY - X - - X X - - -
+                 MAP - X - - - - - - -
+             KEYCODE - - S - - - - - -
+                 XEV - - X - - - - - -
+            KEYCODES - - - O - - - - -
+                 ALT - - - - X - - - -
+           CHARACTER - - - - - X - - -
+                ROOT - - - - - - - X -
+                  PW - - - - - - - - X

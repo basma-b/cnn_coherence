@@ -1,0 +1,6 @@
+            CDRECORD S -
+          EVERYTHING S -
+            FRONTEND O -
+           LIBRARIES O -
+             COMMAND X -
+                LINE X -

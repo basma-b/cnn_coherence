@@ -1,0 +1,15 @@
+             APT-GET S X - - -
+             COMMAND - X - - -
+                LINE - X - - -
+                SUDO - X - - -
+    /USR/BIN/APT-GET - X - - -
+              UPDATE - S - - -
+              KERNEL - - - X -
+              MODULE - - - X -
+              DRIVER - - - O -
+                 NIC - - - X -
+                 SRC - - - X X
+            MAKEFILE - - - O -
+                 DEB - - - X -
+             PACKAGE - - - X -
+                  .. - - - X -

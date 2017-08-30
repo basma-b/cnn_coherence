@@ -1,0 +1,20 @@
+         DPKG-DIVERT O - - - - -
+                DPKG X - - - - -
+                  -I O - - - - -
+                FILE X - - - - -
+               ERROR S - - - - -
+                LOOK O - - - - -
+                 MAN X - - - - -
+                FLAG X - - - - -
+               THERE S - - - - -
+                 LOT O - - - - -
+           DIVERSION S - - - - -
+/USR/LIB32/LIBGL.SO.1 X - - - - -
+   XORG-DRIVER-FGLRX X - - - - -
+               CLASH X - - - - -
+                 HMM X - - - - -
+                MESA - X - - - -
+             DRIVERS - X - - - -
+                WHAT - - X - - -
+             PACKAGE - - - S - -
+            CONFLICT - - - O - -

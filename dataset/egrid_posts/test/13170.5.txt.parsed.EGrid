@@ -1,0 +1,12 @@
+/ETC/APPARMOR.D/USR.BIN.FIREFOX O -
+             COMMAND O -
+              OUTPUT O -
+                   M - S
+            COMPUTER - O
+               ERROR - O
+           /DEV/SDA1 - S
+          CONENCTING - X
+                 USE - S
+                SDA1 - S
+                BOOT - O
+               IDEAS - X

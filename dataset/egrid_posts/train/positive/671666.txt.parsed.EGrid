@@ -1,0 +1,15 @@
+    DPKG-RECONFIGURE O - - - - - -
+             PACKAGE X O - - - - -
+            X-WINDOW O - - - - - -
+                 USE - X - - - - -
+              EFFECT - X - - - - -
+                 ALL - X - - - - -
+               |GREP - X - - - - -
+         PACKAGENAME - X - - - - -
+               FGLRX - - - X - - -
+                ATIS - - - - X - -
+           INSTALLER - - - - O - -
+                LIST - - - - - - X
+                BACK - - - - - - X
+                TEXT - - - - - - X
+            KNXVILLE - - - - - - X

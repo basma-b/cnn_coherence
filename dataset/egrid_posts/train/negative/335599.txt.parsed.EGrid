@@ -1,0 +1,17 @@
+              INSTAL O O - - - O
+         CONNECTIONS O - - - - -
+           WEBSERVER X - - - - -
+             APACHE2 - S - - - -
+             COMMAND - X - - - -
+                SUDO - X - - - -
+             APT-GET - X - - - -
+                DONT - S - - - -
+             REQUEST - O - - - -
+                HTTP - X - - - -
+         //LOCALHOST - S - - - -
+            COMPUTER - - X X - -
+            INTERNET - - X - - -
+              ROUTER - - X - - -
+             NETWORK - - - X - -
+             SECTION - - - - - X
+             DRIVERS - - - - - X

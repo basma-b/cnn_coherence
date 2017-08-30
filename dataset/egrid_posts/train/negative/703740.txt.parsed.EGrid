@@ -1,0 +1,23 @@
+              ANYONE S - - - -
+             PLYMOTH O - - - -
+       UBUNTU-SERVER X - - - -
+           ANIMATION - O - - -
+                BOOT - X - - -
+               RIGHT - X - - -
+                CRON - - X - -
+           E2FSPROGS - - S - -
+         INITSCRIPTS - - S - -
+   MODULE-INIT-TOOLS - - S - -
+            MOUNTALL - - X - -
+             NETBASE - - O - -
+            PLYMOUTH - - S - -
+             POSTFIX - - X - -
+              PROCPS - - S - -
+                 UFW - - O - -
+          UREADAHEAD - - X - -
+          UTIL-LINUX - - X - -
+                 RUN - - - X -
+   /ETC/DEFAULT/GRUB - - - X -
+                SUDO - - - X -
+         UPDATE-GRUB - - - O -
+WWW.HAPPYPENGUIN.ORG - - - - O

@@ -1,0 +1,13 @@
+        TESTDISK.LOG O - - - - - -
+                HOME X - - - - - -
+           DIRECTORY X - - - - - -
+            TESTDISK - O - - S - -
+                DPKG - - O - - - -
+             PACKAGE - - X - - - -
+                NONE - - - X - - -
+            ANYTHING - - - - X - -
+               THING - - - - - S -
+             NOTHING - - - - - S -
+           APT-CACHE - - - - - X -
+            RDEPENDS - - - - - S -
+   /VAR/LOG/DPKG.LOG - - - - - - S

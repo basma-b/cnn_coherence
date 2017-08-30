@@ -1,0 +1,15 @@
+           DIRECTORY O - - O - - - - - X
+                USER S X - - - - - - - -
+                  CD X - - - - - - - - -
+         PERMISSIONS S - - - - - - - - -
+                PERM - O - - - - - - - X
+                 E.G - O - - - - - - - -
+/VAR/WWW/MY_RAILS_APP - - X - - - - - - -
+                SIAD - - - X - - - - - -
+               STUFF - - - - O - - - - -
+               CHMOD - - - - - - - S - -
+                 ETC - - - - - - - O - -
+               OWNER - - - - - - - - - S
+                  .. - - - - - - - - - O
+             SOMEONE - - - - - - - - - S
+           SOMETHING - - - - - - - - - O

@@ -1,0 +1,14 @@
+           PARTITION X - - - -
+               TABLE S X - - -
+               FLASH X - - - -
+               DRIVE X O - - -
+               FDISK O - X - -
+                .ANY - X - - -
+                HELP - O - - -
+                 USE - - X - -
+                   W - - X - -
+              CHANGE - - O - -
+                DISK - - X - -
+            QUESTION - - - - X
+                MINE - - - - X
+                   P - - - - X

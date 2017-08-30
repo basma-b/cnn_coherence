@@ -1,0 +1,13 @@
+               MOUNT X - - - -
+                  -L S - - - -
+                LIST X - - - -
+                 CDS S - - - -
+                 WAY - X - - -
+                 CAT - - X - -
+          /ETC/FSTAB - - X - -
+          /MNT/CDROM - - X - -
+                THAT - - - S -
+               FSTAB - - - - S
+               ENTRY - - - - O
+               CDROM - - - - X
+                 ONE - - - - O

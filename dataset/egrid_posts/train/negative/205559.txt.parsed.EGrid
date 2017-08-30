@@ -1,0 +1,20 @@
+                 HEH O - - - - - -
+              FORMAT O - - - - - -
+             OPTIONS X - - - S - -
+                SDA1 S - - - - - -
+                LINK - - S - O - -
+           SOMETHING - - X - - - -
+             NETWORK - - X - - - -
+                THAT - - - S - - -
+               SSHFS - - - - X - -
+             SYMLINK - - - - X - -
+             DESKTOP - - - - X - -
+             COMMAND - - - - O - -
+                  LN - - - - S - -
+                  -S - - - - X - -
+                FILE - - - - - O -
+                  FS - - - - - X -
+                   = - - - - - S -
+                 RUN - - - - - - S
+/PATH/TO/THEFILE/NOW - - - - - - X
+ /PATH/TO/THEDESKTOP - - - - - - O

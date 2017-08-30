@@ -1,0 +1,12 @@
+               PLACE X - - - - -
+              SCRIPT O - - - - -
+                CRON X - - - - -
+           /USR/SBIN - X - - - -
+ /VAR/LIB/APT/LISTS/ - - - X - -
+                   * - - - X - -
+            PACKAGES - - - O - -
+             SOURCES - - - S - -
+       APT-CACHER-NG - - - X - -
+                  .. - - - O - -
+                HTTP - - - - - X
+//PASTEBIN.COM/PBURBRYU - - - - - X

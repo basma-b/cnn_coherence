@@ -1,0 +1,15 @@
+               CHMOD S - -
+                  ED X - -
+               /VAR/ O - -
+                SUDO O O -
+             COMMAND X - -
+            WRITABLE S - -
+           NON-OWNER X - -
+                MODE O - -
+                 FIX X - -
+         PREMISSIONS O - -
+                /VAR X - -
+                BOOT - - X
+              SYSTEM - - O
+              RESCUE - - X
+               STATE - - X

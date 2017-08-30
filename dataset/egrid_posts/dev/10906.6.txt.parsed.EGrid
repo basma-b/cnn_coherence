@@ -1,0 +1,17 @@
+                GRUB X - - S - - - - -
+            GRUB-EFI X - - - - - - - -
+            /DEV/SDA X - - - - - - - -
+           PARTITION X - - - S - - - -
+           INSTALLER - - X - - - - - -
+                 MBR - - - O - - - - -
+                  HD - - - X - - - - -
+              SCHEME - - - X - - - - -
+               SETUP - - - O - - - - -
+                HOME - - - X - - - - -
+               SSWAP - - - X - - - - -
+                ROOT - - - X X - - - -
+                  GB - - - - O - - - -
+              ENOUGH - - - - O - - - -
+              CENTOS - - - - - - - X -
+               THERE - - - - - - - - S
+             SUPPORT - - - - - - - - O

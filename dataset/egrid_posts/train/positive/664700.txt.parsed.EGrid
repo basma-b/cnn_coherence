@@ -1,0 +1,5 @@
+     /VAR/LOG/SYSLOG X - - X
+            TERMINAL X - - -
+            REALTIME X - - -
+                TAIL - X - -
+                  -V - S - -

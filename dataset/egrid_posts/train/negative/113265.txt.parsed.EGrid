@@ -1,0 +1,12 @@
+                FILE O - - - -
+              SYSTEM X - - - -
+              BOOTUP X - - - -
+             MESSAGE O - - - -
+              ERRORS - X - - -
+                 ATI - X - - -
+             DRIVERS - X - - -
+               DMESG - - X - -
+      NETWORKMANAGER - - - X -
+              SCRIPT - - - X -
+                CALL - - - - O
+           INTERFACE - - - - X

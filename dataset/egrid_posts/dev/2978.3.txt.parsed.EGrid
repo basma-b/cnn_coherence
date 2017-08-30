@@ -1,0 +1,15 @@
+             SESSION - O - - - - - - - - -
+            TERMINAL - O - - - - - - - - -
+              PACKET - O - - - - - - - - -
+             MESSAGE - - O - - - - - - - -
+  /VAR/LIB/DPKG/LOCK - - S - - - - - - - -
+             PROCESS - - S - - - - - - - -
+                THIS - - - - X - - - - - -
+              THANKS - - - - - X - - - - -
+           SOMETHING - - - - - - X - - - -
+             DISPLAY - - - - - - - - X - -
+             ADAPTER - - - - - - - - X - -
+                CARD - - - - - - - - - X -
+               LSPCI - - - - - - - - - - X
+                   | - - - - - - - - - - S
+                 VGA - - - - - - - - - - O

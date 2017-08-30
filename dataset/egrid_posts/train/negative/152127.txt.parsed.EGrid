@@ -1,0 +1,44 @@
+              ANYONE X - - - - - - - - - - - - - -
+     IP-MASQUERADING - X - - - - - - - - - - - - -
+/PROC/SYS/NET/IP_MASQUERADING - - O - - - - - - - - - - - -
+                FILE - - S - - - - - - - - - - - -
+                HINT - - X - - - - - - - - - - - -
+NET/IPV4/IP_FORWARD=1 - - - O - - - - - - - - - - -
+                 ONE - - - S - - - - - - - - - - -
+          MASQUERADE - - - - S - - X - - - - - - -
+             ADDRESS - - - - - X - - - - - - - - -
+               SETUP - - - - - X - - - - - - - - -
+                 UHM - - - - - - S - - - - - - - -
+                ETH1 - - - - - - S - - - - - - - -
+      192.168.0.0/16 - - - - - - O S - - - - - - -
+                ETH0 - - - - - - S - - - - - - - -
+                  IP - - - - - - O - - - - - - - -
+                THAT - - - - - - - O - - - - - - -
+             DEFAULT - - - - - - - X - - - - - - -
+               ROUTE - - - - - - - X - - - - - - -
+                SORT - - - - - - - O - - - - - - -
+              NATING - - - - - - - X - - - - - - -
+              KERNEL - - - - - - - X - - - - - - -
+             POST-UP - - - - - - - S - - - - - - -
+                 NAT - - - - - - - X - - - - - - -
+                  -A - - - - - - - O - - - - - - -
+                PART - - - - - - - X - - - - - - -
+/ETC/NETWORK/INTERFACES - - - - - - - X - - - - - - -
+              BOTTOM - - - - - - - X - - - - - - -
+             SECTION - - - - - - - X - - - - - - -
+                NAME - - - - - - - - O - - - - - -
+        ANAPANIYSEIS - - - - - - - - X - - - - - -
+           SOMETHING - - - - - - - - X - - - - - -
+               10.10 - - - - - - - - - - X - - - -
+             CHANNEL - - - - - - - - - - - X S - -
+              MASTER - - - - - - - - - - - - X - -
+                THIS - - - - - - - - - - - - - S -
+              INSULT - - - - - - - - - - - - - X -
+        INTELLIGENCE - - - - - - - - - - - - - O -
+              BASICS - - - - - - - - - - - - - O -
+                 WAY - - - - - - - - - - - - - X -
+                TIME - - - - - - - - - - - - - - X
+                 HOP - - - - - - - - - - - - - - X
+              PEOPLE - - - - - - - - - - - - - - S
+                  .. - - - - - - - - - - - - - - O
+            COMPUTER - - - - - - - - - - - - - - S

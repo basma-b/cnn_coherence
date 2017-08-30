@@ -1,0 +1,8 @@
+          INTERFACES X - - -
+             NETWORK - X - -
+                CARD - S - -
+               CHECK - X - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - O - -
+               ARMIN - - O -
+                   U - - - X
+                 SAY - - - O

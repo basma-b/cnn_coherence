@@ -1,0 +1,23 @@
+             PROBLEM O - - - - - - - - -
+                 LOT - O - - - - - - - -
+       DOCUMENTATION - X - - - - - - - -
+               GRIEF - X - - - - - - - -
+                CARD - - O - - - - - - -
+                ALSA - - X - - - - - - -
+               MIXER - - X - - - - - - -
+               PULSE - - S - - - - - - -
+              OUTPUT - - - O - - - - - -
+                HTTP - - - X - - - - - -
+               CHMOD - - - X - - - - - -
+                  +X - - - X - - - - - -
+               HTTPS - - - X - - - - - X
+                 RUN - - - X - - - - - -
+             COMMAND - - - X - - - - - -
+              SERVER - - - X - - - - - -
+                 URL - - - S - - - - - -
+//WWW.ALSA-PROJECT.ORG/DB/ - - - - X - - - - -
+                 BUG - - - - - - X - X -
+              REPORT - - - - - - X - O -
+              COMPIZ - - - - - - - X X -
+               TODAY - - - - - - - - X -
+//BUGS.LAUNCHPAD.NET/COMPIZ/+BUG/1037561 - - - - - - - - - X

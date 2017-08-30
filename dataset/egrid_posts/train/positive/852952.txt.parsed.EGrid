@@ -1,0 +1,19 @@
+                  IM S - -
+               ERROR O - -
+             APT-GET S - -
+              UPDATE X - -
+                HTTP O - -
+//PASTE.UBUNTU.COM/696200/ S - -
+             ANYBODY X - -
+VAR/LIB/APT/LISTS/PARTIAL/ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_NATTY_MAIN_BINARY-I386_PACKAGES S - -
+                SUDO X - -
+                   S X - -
+                FILE O X O
+              OUTPUT - X -
+                 -LA - X -
+               -RW-R - X -
+                   R - S -
+                ROOT - X -
+               14:11 - X -
+/VAR/LIB/APT/LISTS/PARTIAL/ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_NATTY_MAIN_BINARY-I386_PACKAGES - O -
+                  LS - - O

@@ -1,0 +1,11 @@
+                HOST O - - -
+               SETUP O - - -
+                RAID X O - -
+            SOFTWARE - X - -
+              DEVICE - - S -
+           SOMETHING - - O -
+             /DEV/MD - - X -
+               DMESG - - - S
+                  HD - - - X
+             NOTHING - - - S
+                 WHY - - - X

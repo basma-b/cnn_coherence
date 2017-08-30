@@ -1,0 +1,14 @@
+             PACKAGE X - - - - - - -
+              UBUNTU S - - - - - - -
+               LOGIN X - - - - - - -
+              SCREEN - X X - - - - -
+         ENVIRONMENT - X - - - - - -
+        CHETERSREALM - - O - - - - -
+             DEFAULT - - - X - - - -
+                 GDM - - - - S - - -
+                 KDM - - - - S - - -
+                 XDM - - - - S - - O
+               GNOME - - - - X - - -
+                 KDE - - - - X - - -
+           GNOME/KDE - - - - - O - -
+             STARTUP - - - - - - - X

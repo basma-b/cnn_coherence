@@ -1,0 +1,11 @@
+              DAEMON S - -
+              SYSTEM X - -
+              EVENTS O X -
+              INSERT X - -
+                 USB X X X
+                DISK O X O
+                UDEV - S -
+                 HAL - X S
+GNOME-VOLUME-MANAGER - - O
+             DEFAULT - - X
+                 WAY - - X

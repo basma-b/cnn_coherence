@@ -1,0 +1,22 @@
+              DEVICE O - - - - - -
+               /BOOT X X - - - O -
+               BLOCK X - - - - - -
+                SHOW - - X - - - -
+                SUDO - - X - - - -
+               FDISK - - X - - - -
+                  -L - - X - - - -
+//PASTEBIN.COM/D36B495D3 - - X - - - -
+           /DEV/SDA6 - - S - - - -
+           PARTITION - - O - - - -
+                GRUB - - S - - - -
+             WINDOWS - - S - - - -
+                  DD - - X - - - -
+                 MBR - - S - - - -
+               DIDNT - - X - - - -
+               ERROR - - X - - - -
+             MENTION - - O - - - -
+             DEVICES - - S - - - -
+                BIOS - - S - - - -
+                TIME - - - O - - -
+                THIS - - - S - - -
+                RAID - - - - - - X

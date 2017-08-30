@@ -1,0 +1,15 @@
+                ANY1 S - - - - - - -
+               SOUND O - - - - - - -
+                DONT O - - - - - - -
+            ALSACONF - X - - - - - -
+         ALSA-CONFIG - - - X - - - -
+                WORK - - - X - - - -
+             COMMAND - - - - S - - -
+          ALSACONFIG - - - - O X O O
+               THERE - - - - S - - -
+           SOUNDCARD - - - - - O - -
+                  OL - - - - - S - -
+                  .. - - - - - X - -
+              INSTAL - - - - - O - -
+             APT-GET - - - - - - S -
+             PACKAGE - - - - - - - X

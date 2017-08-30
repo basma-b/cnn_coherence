@@ -1,0 +1,14 @@
+            QUESTION X - - - -
+                FILE X - S - -
+                 ONE X - - - -
+           PARTITION X - - - -
+                LOOP - S - - -
+                 MAN - - S - -
+                  DD - - X - -
+        IF=/DEV/ZERO - - X - -
+           OF=MYFILE - - S - -
+           COUNT=256 - - S - -
+                  MB - - S - -
+           DIRECTORY - - O - -
+               SPACE - - X - -
+                LINK - - - - X

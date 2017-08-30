@@ -1,0 +1,12 @@
+                 GOD X - - - - - -
+             ANYBODY X - - - - - -
+                 PLS X - - - - - -
+                ALSA X - - - - X -
+        AUDIOTESTSRC - S - - - - -
+            FREQ=512 - O - - - - -
+      GCONFAUDIOSINK - - - - X - -
+              DEVICE - - - - O - -
+            PLAYBACK - - - - X - -
+             PROBLEM - - - - - X -
+            HARDWARE - - - - - - X
+             SUPPORT - - - - - - O

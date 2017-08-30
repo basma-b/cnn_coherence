@@ -1,0 +1,27 @@
+           BUILD-DEP X - S - - - - - - -
+             PACKAGE - - S - - - - - - -
+                NEED - - X - - - - - - -
+   MAIL-NOTIFICATION - - S - - X - - - -
+                CDBS - - X - - - - - - -
+           DEBHELPER - - X - - - - - - -
+                   > - - X - - - - - - -
+        SCROLLKEEPER - - X - - - - - - -
+     GNOME-PKG-TOOLS - - X - - - - - - -
+  LIBXML-PARSER-PERL - - X - - - - - - -
+             DEB-SRC - - O - O - - - - -
+                FILE - - X - S - - - - -
+/VAR/LIB/APT/LISTS/ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_BREEZY_MAIN_SOURCE_SOURCES - - O - - - - - - -
+           DIRECTORY - - X - - - - - - -
+              UPDATE - - X - X - - - - -
+              COURSE - - - X - - - - - -
+            UNIVERSE - - - - - O - - - -
+               THERE - - - - - X - X - -
+                 DEB - - - - - - X - - -
+                LINE - - - - - - O - - -
+                WORK - - - - - - O - - -
+                THIS - - - - - - - S - -
+                 MAN - - - - - - - X - -
+                PAGE - - - - - - - X - -
+           MAN-O-MAN - - - - - - - X - -
+                IDEA - - - - - - - O - -
+                 FUN - - - - - - - - - X

@@ -1,0 +1,14 @@
+             OPTIONS X X - - O -
+                DISK X - - - O -
+             NOATIME - S - - - -
+      DATA=WRITEBACK - S - - - -
+           WRITEBACK - X - - - -
+          FILESYSTEM - S - - - -
+                  FS - S - - - -
+            REISERFS - O - - - -
+            QUESTION - S - - - -
+               MOUNT - - - - X -
+              WINDOW - - - - X -
+                THIS - - - - S -
+               CHECK - - - - - X
+          /ETC/FSTAB - - - - - X

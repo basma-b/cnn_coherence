@@ -1,0 +1,16 @@
+            MODPROBE X - - -
+              INSERT X - - -
+                   / S - - -
+              KERNEL X - - -
+             MODULES O - - -
+             DRIVERS X - - -
+                THAT - S - -
+               LSPCI - S - -
+            HARDWARE - O - -
+                CARD - O - -
+               RICOH - X - -
+                  CO - X - -
+                 LTD - X - -
+          CONTROLLER - X - -
+                 GUI - - X -
+        RESOLVE.CONF - - - O

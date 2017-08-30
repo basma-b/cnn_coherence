@@ -1,0 +1,13 @@
+               FDISK O - - - - - -
+                2,2T S - - - - - -
+                   % O - - - - - -
+                1,1M X - - - - - -
+                  -I S - - - - - -
+                LOOK O - - - - - -
+                 BUG X - - - - - -
+               RSYNC X - - - - - -
+           PARTITION O - - - - - -
+                  DD - X X - - - -
+OF=/MNT/DISK/FILE.TMP - X - - - - -
+                 NOW - X - - - - -
+                 YEA - - - - O - -

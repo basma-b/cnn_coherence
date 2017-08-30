@@ -1,0 +1,17 @@
+                HELP X - - - - - -
+             MACHINE - X - - - - -
+      REPARTITIONING - - O - - - -
+            PROBLEMS - - X - - - -
+                GRUB - - O - - - -
+                 MBR - - X - - - -
+            EXTERNAL - - S - - - -
+                 WAY - - X - - - -
+             WINDOWS - - S - - - -
+                BOOT - - X - - - -
+               DRIVE - - - X - - -
+                KIND - - - - X - -
+                CARD - - - - X - -
+               INTEL - - - - - O -
+                  OK - - - - - - S
+             APT-GET - - - - - - X
+                XINE - - - - - - O

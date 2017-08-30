@@ -1,0 +1,16 @@
+              RAMBA3 X - - -
+               FSTAB X - - -
+              RAMBO3 X - - -
+            PARITION O - - -
+                  BE - X - -
+              OUTPUT - X - -
+                  -M - S - -
+                LINK - X - -
+                HTTP - O - -
+//PASTE.UBUNTU-NL.ORG/D15682 - S - -
+                SWAP - O - X
+            DEV/HDA4 - X - -
+               THERE - - - S
+                HDA4 - - - O
+                 HD2 - - - X
+                 HD5 - - - X

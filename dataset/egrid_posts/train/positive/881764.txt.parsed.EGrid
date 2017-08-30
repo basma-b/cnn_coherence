@@ -1,0 +1,13 @@
+                   X X - - - - -
+               START X - - - - -
+             DEFAULT X - - - - -
+                TEXT - O - - - -
+              KERNEL - X - X - -
+                BOOT - X - X - X
+                LINE - X - S - -
+               ERROR - X - - - -
+                 TRY - - - S - -
+        INIT=/BIN/SH - - - O - -
+                ARCH - - - X - -
+               LINUX - - - O - -
+          SUGGESTION - - - O - -

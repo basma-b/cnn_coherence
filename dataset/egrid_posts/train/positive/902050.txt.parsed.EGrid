@@ -1,0 +1,12 @@
+               SETUP X - - - -
+            IPTABLES O - - - -
+                HAND X - - - X
+                RULE S - - - -
+/ETC/INIT.D/IPTABLES X - - - -
+              SCRIPT S - - - -
+             PACKAGE X - - - -
+                THIS - - - X -
+/VAR/LIB/IPTABLES/ACTIVE - - - O X
+             STARTUP - - - X -
+                 USE - - - - X
+/PROC/SYS/NET/IPV4/IP_FORWARD - - - - X

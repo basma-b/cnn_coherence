@@ -1,0 +1,9 @@
+             APACHE2 S - - - -
+             COMMAND X - - - -
+                LINE X - - - -
+              SCRIPT X - - - -
+                  DD - - - - X
+        IF=/DEV/ZERO - - - - X
+            OF=/DEV/ - - - - S
+                CARD - - - - X
+                   > - - - - O

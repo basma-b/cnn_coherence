@@ -1,0 +1,20 @@
+             COMMAND X - - - - - -
+                 JOB X - - - - - -
+                LINE - X - - - - -
+                HOUR - X X - - - -
+                THAT - - X - - - -
+               START - - S - - - -
+               RAIDO - - X - - - -
+              INIT.D - - - S - - -
+             STARTUP - - - X - - -
+              SYSTEM - - - - - S -
+               SETUP - - - - - O -
+                BOOT - - - - - X -
+             MACHINE - - - - - X -
+          EVERYTHING - - - - - S -
+        /ETC/INIT.D/ - - - - - X -
+                BASE - - - - - - S
+                 GUI - - - - - - S
+                PAGE - - - - - - S
+//WWW.CORNTAB.COM/PAGES/CRONTAB-GUI - - - - - - S
+             ENTRIES - - - - - - O

@@ -1,0 +1,7 @@
+           PARTITION X -
+            /DEV/SDB X -
+                  .. X -
+                DISK X -
+              DEVICE X -
+                TASK - X
+                RAID - O

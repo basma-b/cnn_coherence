@@ -1,0 +1,16 @@
+                FILE O - - - -
+          FILESYSTEM X - - - -
+                 ISO X - - - -
+                  CD X - - - -
+            SOFTWRAE O - - - -
+               MEDIA X - - - -
+              LIVECD - S - - -
+                EXT2 - S - - S
+                EXT3 - X - X -
+                EXT4 - O - X -
+             JOURNAL - - - S -
+                BITE - - - X -
+                BASE - - - X -
+             STORAGE - - - S -
+               LIMIT - - - S -
+              JORNAL - - - - O

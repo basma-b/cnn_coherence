@@ -1,0 +1,14 @@
+              KERNEL X - - -
+                ROOT X - - -
+           DIRECTORY X - - -
+                   / - S - -
+           INITRAMFS - X - -
+             STARTUP - X - -
+           PARTITION - O - X
+            USBSTICK - O - -
+                  CD - O - -
+            WHATEVER - O - -
+           SITUATION - - O -
+                 MBR - - - S
+              FORMAT - - - X
+           /DEV/HDA1 - - - S

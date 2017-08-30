@@ -1,0 +1,26 @@
+            QUESTION - X - - - - - - - - - X
+              SOURCE - X - - - - - - - S - -
+             PACKAGE - X - - - - - - - - - -
+                MENU - - - X - - - - - - - -
+             ENTRIES - - - X - - - - - - - -
+         SYSTEM-WIDE - - - X - - - - - - - -
+             VERSION - - - X - - - - - - - -
+            SOFTWARE - - - X - - - - - - - -
+              CENTER - - - X - - - - - - - -
+              PREFIX - - - - O X X S - - S -
+                 ANY - - - - - - O - - - - X
+             DEFAULT - - - - - - X X - - - -
+                /USR - - - - - - - O S - - -
+         ./CONFIGURE - - - - - - - - O - - -
+PREFIX=/OPT/WHATEVER - - - - - - - - X - - -
+                SUDO - - - - - - - - - O - -
+            DOWNLOAD - - - - - - - - - X - -
+                 GIT - - - - - - - - - O - -
+              FOLDER - - - - - - - - - X - -
+                HOME - - - - - - - - - X - -
+                 DIR - - - - - - - - - X - -
+                  .. - - - - - - - - - X - -
+                PLAN - - - - - - - - - S - -
+                   $ - - - - - - - - - - O -
+                ROOT - - - - - - - - - - S -
+                DONT - - - - - - - - - - - X

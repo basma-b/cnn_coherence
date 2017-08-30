@@ -1,0 +1,16 @@
+             PROBLEM S - - - - - -
+           HARDDRIVE O - - - - - -
+                  CD X - - - - - -
+                   $ - S - - - - -
+           PARTITION - - - O - - -
+            /DEV/SDA - - - - S - -
+                BOOT - - - - X - -
+                  OS - - - - O - -
+                FILE - - - - - - X
+         PERMISSIONS - - - - - - X
+                SUDO - - - - - - X
+               CHMOD - - - - - - O
+    /PATH/TO/PROGRAM - - - - - - S
+                ROOT - - - - - - S
+             PROGRAM - - - - - - O
+           PASSWOR.D - - - - - - X

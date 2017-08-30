@@ -1,0 +1,9 @@
+           USN-571-1 X - - - -
+                   * - X - - -
+                .DEB - S - - -
+                ARCH - S - - -
+               CHECK - S - - -
+             APT-GET - X - - -
+             UPDATER - - X - -
+              UPDATE - - - - S
+               ERROR - - - - X

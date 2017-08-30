@@ -1,0 +1,26 @@
+                THAT X - - - -
+         PERMISSIONS O S - - -
+                FILE X X - - -
+                SUDO - X - - -
+               CHMOD - O - - -
+                USER - X - - -
+               GROUP - X S - -
+                   * - S - - -
+                  LS - X - - -
+                SHOW - X - - -
+             NOTHING - O - - -
+              FOLDER - X - - -
+                GKSU - X - - -
+            NAUTALIS - X - - -
+                MODE - X - - -
+             MANAGER - O - - -
+                ROOT - X - - -
+                DUDE - X - - -
+            USERNAME - O - - -
+               USERS - - O - -
+                NICK - - X - -
+                8.04 - - - O -
+                TIME - - - - X
+               HTTPS - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/XORG/+BUG/212648 - - - - X
+            SOLUTION - - - - O

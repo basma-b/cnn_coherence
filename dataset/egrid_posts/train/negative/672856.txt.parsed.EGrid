@@ -1,0 +1,26 @@
+                   / X - - - - - - - - - - - - -
+                SUDO - O X - - - - X - - - - - -
+             PROBLEM - X - - - - - - - - O - - -
+             APT-GET - X X - - - - O - - X X - -
+             COMMAND - X X - - - - - - - X - - -
+                THIS - - - X - - - - - - - - - -
+            APTITUDE - - - - X - - - - - - - - -
+                PATH - - - - - X X - - - - - - -
+                ECHO - - - - - - X - - - - - - -
+     /USR/LOCAL/SBIN - - - - - - X - - - - - - -
+           /USR/SBIN - - - - - - X - - - - - - -
+      /USR/LOCAL/BIN - - - - - - X - - - - - - -
+            /USR/BIN - - - - - - X - - - - - - -
+                /BIN - - - - - - X - - - - - - -
+      /USR/X11R6/BIN - - - - - - X - - - - - - -
+/USR/LOCAL/APACHE/BIN - - - - - - X - - - - - - -
+/USR/LOCAL/PGSQL/BIN - - - - - - X - - - - - - -
+       /OPT/MONO/BIN - - - - - - X - - - - - - -
+     /OPT/NESSUS/BIN - - - - - - X - - - - - - -
+/USR/LIB/JAVA/JRE/BIN - - - - - - - X - - - - - -
+     /USR/LIB/QT/BIN - - - - - - - S - - - - - -
+         PERMISSIONS - - - - - - - X - - - - - -
+            ANYTHING - - - - - - - O X - - - - -
+               -BASH - - - - - - - - - - X - - -
+            INTERNET - - - - - - - - - - - X - -
+                XORG - - - - - - - - - - - - - X

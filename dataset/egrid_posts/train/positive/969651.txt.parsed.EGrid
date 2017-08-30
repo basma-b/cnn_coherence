@@ -1,0 +1,11 @@
+            IPTABLES X - - -
+          10.66.4.12 X - - -
+                  -J S - - -
+            COMPUTER - O - -
+                 NAT - X - -
+                SORT - X - -
+                  IP - S - -
+        10.8.2.0-255 - X - -
+          10.66.2.12 - X - -
+           SOMETHING - X - X
+                 YES - - - X

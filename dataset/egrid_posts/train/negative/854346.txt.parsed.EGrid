@@ -1,0 +1,33 @@
+                 GUY X - - - - - - - -
+             PROBLEM - O - - - - - - -
+                CORE - X - - - - - - -
+                  I3 - X - - - - - - -
+           PROCESSOR - X - - - - - - -
+                  CD - X X - - - - - -
+                MODE - X - - - - - - -
+               VIDEO - X - X - - - - -
+                CARD - O - - - - - - -
+             INSTALL - X - - - - - - -
+              SYSTEM - S - - - - - - -
+              SCREEN - X - - - - - - -
+             VERSION - S - - - - - - -
+               THATS - S - - - - - - -
+              KERNEL - O - - - - - - -
+                VESA - - - X O - - - -
+             DRIVERS - - - O - X O - -
+           XORG.CONF - - - X X - - - -
+               DRIVE - - - - X - - - -
+                KIND - - - - - X - - -
+            GRAPHICS - - - - - - X - -
+               CHECK - - - - - - X - -
+                 URL - - - - - - X - -
+                HTTP - - - - - - X - -
+            LANG=ENG - - - - - - - X -
+PRODUCTFAMILY=PROCESSORS - - - - - - - S -
+PRODUCTLINE=NOTEBOOK - - - - - - - X -
+PRODUCTPRODUCT=INTEL - - - - - - - S -
+                   % - - - - - - - O -
+A2+I3+MOBILE+PROCESSOR - - - - - - - X -
+                SUDO - - - - - - - - X
+              UMOUNT - - - - - - - - X
+          /MEDIA/WND - - - - - - - - X

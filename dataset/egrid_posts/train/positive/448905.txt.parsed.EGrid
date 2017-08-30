@@ -1,0 +1,14 @@
+                BOOT X - - - - - -
+           SOMETHING X - - - - - -
+              DEVICE S - - - - - -
+                SORT S - - - - - -
+             LOGFILE - X - - - - -
+               DMESG - - S - - - -
+                DEAL - - X - - - -
+                NSCD - - - S - - -
+                NAME - - - X - - -
+              SERVER - - - X - - -
+               CACHE - - - X - - -
+              DAEMON - - - X - - -
+               ERROR - - - - - - S
+                 DIG - - - - - - O

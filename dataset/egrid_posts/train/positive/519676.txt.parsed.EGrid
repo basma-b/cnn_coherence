@@ -1,0 +1,15 @@
+              FORMAT X - X
+               STICK X - -
+               FAT32 X - -
+               LINUX X - -
+                SUDO - X -
+           MKFS.VFAT - X -
+               /DEV/ - X -
+           PARTITION - O O
+                NANE - X -
+                   > - S -
+               FDISK - X -
+                  -L - O -
+                NAME - X -
+             ALRIGHT - X -
+                DISK - X -

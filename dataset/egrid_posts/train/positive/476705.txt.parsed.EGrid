@@ -1,0 +1,22 @@
+             PROBLEM - - O O - - - - -
+            GRAPHICS - - X - - - X X -
+                WHAT - - - S - - - - -
+                 WHN - - - - X - - - -
+              EFFECT - - - - O - - - -
+             DRIVERS - - - - S - - - -
+                SHOW - - - - X - - - -
+              OUTPUT - - - - O - O - -
+               LSPCI - - - - X X O - -
+            TERMINAL - - - - - - X - -
+                CARD - - - - - - X - -
+                 USE - - - - - - X - -
+                HTTP - - - - - - O - -
+//WWW.PASTECODE.ORG/2494 - - - - - - X - -
+                CHIP - - - - - - O - -
+        ACCELERATION - - - - - - - O -
+                BALL - - - - - - - S -
+                GREP - - - - - - - O -
+                 TRY - - - - - - - - S
+              RENDER - - - - - - - - X
+                  NO - - - - - - - - X
+ LIBGL_DEBUG=VERBOSE - - - - - - - - O

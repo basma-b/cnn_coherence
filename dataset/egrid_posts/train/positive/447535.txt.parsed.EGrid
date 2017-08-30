@@ -1,0 +1,14 @@
+             COMMAND X - - - - -
+             NETWORK X - - - - -
+         CONTROLLERS X - - - - -
+                   * O - - - - -
+                 NET - S - - - -
+              DRIVER - - S - - -
+                  .. - - O - - -
+            TERMINAL - - - X - -
+              ERRORS - - - X - -
+              OUTPUT - - - - - X
+               CLICK - - - - - X
+            REACTION - - - - - O
+                LOAD - - - - - X
+              SCREEN - - - - - X

@@ -1,0 +1,16 @@
+              DEVICE X - - - - - - - - -
+           DIRECTORY O - - - - - - - - -
+           SOMETHING - S - - - - - - - -
+               MKDIR - S - - - - - - - -
+                THAT - - X - - - - - - -
+                FILE - - X - - - - - - -
+              SYSTEM - - O - - - - - - -
+                TYPE - - - X X X X - - -
+            /DEV/HDA - - - O X - - - - -
+                /MNT - - - - O O - - - -
+                BOOT - - - - - X - - - -
+           PARTITION - - - - - O S - - -
+                EXT2 - - - - - O - - - -
+               POINT - - - - - - O - - -
+                INFO - - - - - - - X - -
+               DUNNO - - - - - - - - - X

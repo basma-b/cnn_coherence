@@ -1,0 +1,15 @@
+                WORK X - - - - - - -
+                TYPE - X - - - - - -
+     /ETC/INIT.D/SSH - S - - - - - -
+               ERROR - - S - - - - -
+                 LOG - - S X - - - -
+           /VAR/LOG/ - - X - - - - -
+                 SSH - - - X - - - -
+               START - - - X - - - -
+               THERE - - - S - - - -
+                LOAD - - - O - - - -
+                 ONE - - - - X - - -
+              RECENT - - - - - X - -
+         SSH-ASKPASS - - - - - - S -
+               CHECK - - - - - - - O
+   /VAR/LOG/MESSAGES - - - - - - - S

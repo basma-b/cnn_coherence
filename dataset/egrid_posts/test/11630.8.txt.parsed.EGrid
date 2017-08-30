@@ -1,0 +1,16 @@
+                   $ X - - -
+                THAT O - - -
+         UPDATE-GRUB X - - -
+        UPDATE-GRUB2 O - - -
+                   L X - - -
+                   % X - - -
+               FILES S - - -
+          COMPONENTS O - - -
+            VERSIONS S - - -
+               ORDER X - - -
+                   * S - - -
+              KERNEL - S - -
+                  .. - O - -
+              INITRD - - S -
+             PRESENT - - O -
+               MOUNT - - - X

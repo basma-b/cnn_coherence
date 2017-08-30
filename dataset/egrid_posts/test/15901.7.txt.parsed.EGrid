@@ -1,0 +1,8 @@
+               LSMOD S -
+              KERNEL S -
+                LOAD O -
+              DRIVER S -
+                 USE X -
+                BITE - X
+                HTTP - X
+//RELEASES.UBUNTU.COM/12.04/UBUNTU-12.04.1-DESKTOP-AMD64.ISO - X

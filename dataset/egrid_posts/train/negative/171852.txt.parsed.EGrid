@@ -1,0 +1,21 @@
+                WARN O - - - - -
+             PACKAGE X - - - - -
+             APT-GET O - - - - -
+                 KEY X - - X - -
+                 USE - X - - - -
+              POLICY - X - - - -
+        PACKAGE_NAME - S - - - -
+          REPOSITORY - X - X - -
+                HTTP - - - X - -
+//ARCHIVE.UBUNTU.COM - - - X - -
+     DAPPER/UNIVERSE - - - X - -
+            PACKAGES - - - S - -
+        SOURCES.LIST - - - O - -
+                PAGE - - - X - -
+                THIS - - - - O -
+                WIKI - - - - X -
+             PROBLEM - - - - X -
+            SOFTWARE - - - - O -
+              DAPPER - - - - X -
+              BREEZY - - - - X -
+        DEPENDENCIES - - - - - X

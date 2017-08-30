@@ -1,0 +1,11 @@
+                 LOG S - -
+              ACCESS O - -
+                FILE X - -
+                USER - S -
+             APACHE2 - S -
+                   < - S -
+                   > - O -
+               CHMOD - X -
+                TEST - O -
+                  NO - - X
+                   U - - X

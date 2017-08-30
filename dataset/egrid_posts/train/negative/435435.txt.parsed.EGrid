@@ -1,0 +1,8 @@
+             COMMAND X - -
+           PARTITION O - -
+                 USE X - -
+               FDISK - X -
+                  -L - S -
+             CHANNEL - - X
+               STUFF - - X
+                 MSG - - X

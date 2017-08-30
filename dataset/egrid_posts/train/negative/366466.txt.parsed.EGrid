@@ -1,0 +1,12 @@
+              SAMPLE X - - -
+               POINT X - - -
+                SUDO - S - -
+                LOOP - X - -
+  /PATH/TO/IMAGE.ISO - X - -
+     /WHERE/TO/MOUNT - O - -
+           /MNT/LOOP - O - -
+           DIRECTORY - S - -
+                 IMG - X S -
+             DESKTOP - X - -
+               IMAGE - - O -
+                HTTP - - - X

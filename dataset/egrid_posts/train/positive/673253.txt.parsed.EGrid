@@ -1,0 +1,17 @@
+                 DIR O - -
+                 RWX X - -
+               USERS S - -
+                FILE O - -
+           DIRECTORY X - O
+          PERMISSION O - -
+                LIST O - -
+                  LS X - -
+                REST X - -
+                 ONE S - -
+               CHMOD X - -
+                 ANY - - S
+               WORLD - - X
+            READABLE - - O
+                  .. - - O
+                MODE - - X
+FILES/SUBDIRECTORIES - - O

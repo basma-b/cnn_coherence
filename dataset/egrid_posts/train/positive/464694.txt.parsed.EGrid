@@ -1,0 +1,20 @@
+                CARA X - - - - - -
+    NEWINSTALALTIONS S - - - - - -
+          PERMITTION X - - - - - -
+       /USR/BIN/OPEN O - - - - - -
+             KYNCANI X - - - - - -
+                FILE S - - - - - -
+                 DIR X - - - - - -
+             PACKAGE S - - - - - -
+                SUDO X - - - X - -
+                DPKG X - - - - - -
+              PACKET S - - - - - -
+      /USR/SBIN/SSHD S - - - S - -
+/ETC/ALTERNATIVES/SSHD - - - - O - -
+                  RM - - - - X - -
+          FILESYSTEM - - - - S - -
+           READ-ONLY - - - - S - -
+                 HMM - - - - X - -
+                   S - - - - - X -
+                 -IA - - - - - X -
+                  YA - - - - - - S

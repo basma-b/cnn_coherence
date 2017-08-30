@@ -1,0 +1,12 @@
+                IDEA X - -
+               -BASH O - -
+                  CD X - -
+            LIGHTTPD X - -
+          PERMISSION S O -
+  /VAR/LOG/LIGHTTPD/ O - -
+                FILE X - -
+              FOLDER X - -
+                 -LA - X -
+           /VAR/LOG/ - S -
+           DIRECTORY - X -
+                 WAY - - O

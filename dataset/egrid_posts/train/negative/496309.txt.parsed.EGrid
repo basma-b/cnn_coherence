@@ -1,0 +1,14 @@
+            RESOURCE X - - - - -
+               MYSQL X - - - - -
+                FILE - X - - - -
+              FORMAT - X - - - -
+               USERS - X - - - -
+               DMESG - - X - - -
+             MESSAGE - - X - - -
+                THAT - - - O - -
+                TAIL - - - X - -
+                  -F - - - S - -
+   /VAR/LOG/MESSAGES - - - - X -
+            ANYTHING - - - - X -
+                 USB - - - - - X
+                PORT - - - - - O

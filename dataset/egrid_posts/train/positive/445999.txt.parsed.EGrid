@@ -1,0 +1,11 @@
+                HELP X O - -
+                LIST - - O -
+             CHANNEL - - X -
+             COMMAND - - X -
+                  .. - - X -
+               /LIST - - O -
+                TIME - - - O
+                BOOT - - - X
+             PROBLEM - - - O
+                GRUB - - - S
+            IDE=BIOS - - - S

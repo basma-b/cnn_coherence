@@ -1,0 +1,16 @@
+                TEST X - - - - -
+                MAIL X - - - - -
+             FEATURE O - - - - -
+              UBUNTU X - - - - -
+         EQUIVALENCE X - - - - -
+                   < X - X X - -
+                  CR X - X X - -
+                   > X - X X O X
+                  LF X - X S - -
+            CARRIAGE - X - - - -
+              RETURN - S - - - -
+                LINE - X - - X X
+                FEED - X - - - -
+                THIS - X - - - -
+                 END - - X - - -
+                DATA - - S - - -

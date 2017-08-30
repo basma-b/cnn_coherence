@@ -1,0 +1,18 @@
+               FSTAB X - - - - -
+               MOUNT X X - - - -
+               SHARE X - - - - -
+                 USE O - - - - -
+                CIFS S O - - - -
+               ERROR X - - - - -
+          PERMISSION S - - - - -
+               SMBFS X X - - - -
+                LINE - S - - - -
+CREDENTIALS=/ROOT/.SMBCREDENTIALS - X - - - -
+      IOCHARSET=UTF8 - X - - - -
+      FILE_MODE=0777 - X - - - -
+              THERES - X - - - -
+              REASON - X - X - -
+                 IVE - - S - - -
+               THING - - O - - -
+              COURSE - - - - X -
+                TOOL - - - - O -

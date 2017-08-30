@@ -1,0 +1,14 @@
+                HELP O - - -
+                SUDO O - X -
+             COMMAND O - - -
+             SUDOERS X - - -
+                FILE X - - -
+                 ALL S - - -
+                USER S - - -
+            TERMINAL X - - -
+                TYPE S X - -
+                ROOT X X - -
+            PASSWORD - O - -
+      AUTHENTICATION - S - -
+                  SU - - X -
+               IMAGE - - - X

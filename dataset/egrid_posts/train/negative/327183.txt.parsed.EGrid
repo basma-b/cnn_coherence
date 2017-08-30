@@ -1,0 +1,15 @@
+            CONSOLE4 X - - -
+              ALT-F4 S - - -
+               INTEL X - - -
+                 ISA X - - -
+                PCIC X - - -
+               PROBE X - - -
+               ISSUE - O - -
+                NEED - X - -
+              KERNEL - X - -
+              DRIVER - O - -
+                LOCK - X - -
+              SYSTEM - X - -
+             BUSYBOX - - X -
+/KERNEL.DRIVERS/PCMCIA/I83265.KO - - X -
+                 HMM - - - X

@@ -1,0 +1,14 @@
+             DEFAULT X - -
+         PERMISSIONS X X -
+              SYSTEM X X -
+                FILE X - -
+             MACHINE X - -
+                MESS - X -
+          EVERYTHING - X -
+              BUTTON - X -
+           SOMETHING - X -
+                HTTP - - X
+                SUDO - - X
+             APT-GET - - X
+              UPDATE - - X
+          PULSEAUDIO - - O

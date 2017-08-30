@@ -1,0 +1,12 @@
+        CHECKINSTALL O O - - -
+               ORDER S - - - -
+             DEFAULT X - - - -
+                  OK - - O - -
+                SUDO - - X - -
+             APT-GET - - S - -
+              PEOPLE - - O - -
+              SECOND - - X - -
+            QUESTION - - O - -
+                ROOT - - X - -
+                 HUH - - X - -
+                   K - - - - X

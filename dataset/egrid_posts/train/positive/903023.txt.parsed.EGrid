@@ -1,0 +1,16 @@
+                TOOL S - - - -
+                 NFS X - - - -
+                EDIT - S - - -
+192.168.0.0/255.255.255.0 - - X - -
+                  RW - - X - -
+      NO_ROOT_SQUASH - - X - -
+                SYNC - - X - -
+                 RPC - - O - -
+              SYSTEM - - X - -
+               ERROR - - X - -
+          CONNECTION - - X - -
+              REFUSE - - X - -
+              ACTION - - - S -
+             PORTMAP - - - X -
+          NFS-COMMON - - - O -
+             COMMENT - - - - O

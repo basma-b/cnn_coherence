@@ -1,0 +1,12 @@
+                FILE S - - - - -
+                CALL O - - - - -
+                TYPE X - - - - -
+             COMMAND O X - - - -
+         COMMANDLINE X - - - - -
+          DEPENDANCY - - - X - -
+              SYSTEM - - - - X -
+         ENVIRONMENT - - - - X -
+                THAT - - - - - S
+                LIST - - - - - O
+             PACKAGE - - - - - X
+     KUBUNTU-DESKTOP - - - - - S

@@ -1,0 +1,15 @@
+             MODULES X - - - - - -
+                LOAD X O - - - - -
+              KERNEL X X - - - - -
+               LSMOD - S - X - - -
+               RMMOD - X - - - - -
+             REMOVAL - S - - - - -
+                 ALL - X - - - - -
+               EVDEV - O - - - O -
+            MODPROBE - - X - - X -
+               IS/IS - - X - - - -
+                 ETC - - S - - - -
+                   | - - - S - - -
+                NOOB - - - - X - -
+                IDEA - - - - - S -
+                FILE - - - - - - O

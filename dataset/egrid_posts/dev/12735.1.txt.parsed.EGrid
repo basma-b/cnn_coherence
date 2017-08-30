@@ -1,0 +1,14 @@
+         RESOLV.CONF X - - -
+              REBOOT X - - -
+                 SET - S - -
+                  IP - X - -
+/ETC/NETWORK/INTERFACES - X - -
+                 USE - X - -
+/ETC/DHCP/DHCPCLIENT.CONF - S - -
+ DOMAIN-NAME-SERVERS - O - S
+     DNS-NAMESERVERS - X - -
+              SEARCH - X - -
+              DOMAIN - X - -
+/ETC/NETWORK/INTERFACE - - - X
+             MISTAKE - - - X
+           INTERFACE - - - O

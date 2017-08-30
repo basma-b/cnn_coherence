@@ -1,0 +1,17 @@
+                VIEW X - - - - - -
+                PORT X - - - - - -
+             COMMAND - X - - - - -
+                LINE - X - - - - -
+                RULE - - O - - O -
+            FIREWALL - - X - - X -
+            IPTABLES - - X - - X -
+               BIND9 - - X - - X -
+                 DNS - - X - - X -
+              SERVER - - X - - X -
+             NETSTAT - - - X - - -
+                   < - - - S - - -
+              SWITCH - - - X - - -
+                   > - - - X - - -
+                 MAN - - - S - - -
+              DETAIL - - - X - - -
+                   X - - - - - X -

@@ -1,0 +1,7 @@
+             COMMAND X - -
+             PACKAGE X - -
+        DEPENDENCIES S - -
+                DEPS - X -
+                DPKG - X -
+           -RDEPENDS - O -
+                 TAB - - O

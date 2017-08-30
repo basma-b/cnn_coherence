@@ -1,0 +1,9 @@
+                LOOP S - -
+               SPACE X - X
+         /DEV/CDROM0 S - -
+               MOUNT - X -
+                  FS - S -
+               POINT - O O
+            FILENAME - - S
+                FILE - - O
+                CASE - - X

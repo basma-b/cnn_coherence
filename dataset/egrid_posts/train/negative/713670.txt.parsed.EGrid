@@ -1,0 +1,25 @@
+               APLAY - S - -
+                 SEC - S - -
+                   * - S - -
+                LIST - S - -
+            PLAYBACK - S - -
+            HARDWARE - S - -
+             DEVICES - S - -
+                ALSA - S - -
+                 LIB - S - -
+SND_CONFIG_HOOK_LOAD - S - -
+SND_CONFIG_HOOKS_CALL - S - -
+            FUNCTION - S - -
+              RETURN - S - -
+               ERROR - S O -
+            ARGUMENT - S - -
+                HOOK - S - -
+       CONFIGURATION - S - -
+             CONTROL - S - -
+                 BOT - S - -
+                LINK - - O -
+                HTTP - - O -
+                THIS - - S -
+                 ONE - - X -
+               THERE - - S -
+             PROBLEM - - - X

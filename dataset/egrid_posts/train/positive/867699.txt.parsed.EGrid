@@ -1,0 +1,14 @@
+            QUESTION X - - - -
+           SOMETHING O - - - -
+          START/STOP X - - - -
+             SERVICE X - - - -
+             STARTUP X - - - -
+                STOP - X - - -
+                SMBD - O - - -
+               START - X - - X
+                BOOT - X - - -
+  /ETC/INIT/SMB.CONF - - S - -
+           SMBD.CONF - - - O -
+                TIME - - - - X
+                THIS - - - - O
+            SMB.CNFG - - - - X

@@ -1,0 +1,7 @@
+             COMMAND X X X - - -
+             STARTUP X - - - - -
+              SCRIPT X - - - - -
+            TERMINAL X - - - - -
+              DELUGE - - - - X X
+              DAEMON - - - - O -
+ /VAR/WWW/DELUGE.LOG - - - - - O

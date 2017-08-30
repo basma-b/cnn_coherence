@@ -1,0 +1,15 @@
+              FORMAT X - - -
+              UBUNTU X - - -
+              INITRD X - O -
+                CANT - X - -
+                   * - X - -
+              CRAMFS - X - -
+               IMAGE - X - -
+                TIME - - X -
+                THAT - - O -
+                LOAD - - O -
+                BOOT - - X -
+              APM.KO - - S -
+              FIDDLE - - X -
+               START - - - X
+             VGA=771 - - - O

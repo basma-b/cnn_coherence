@@ -1,0 +1,10 @@
+             NETWORK X - - - - - - -
+          INTERFACES S - - - - - - -
+           INTERFACE - X - - - - - -
+           ETH0=ETH0 - O - - - - - -
+               IDEAS - - X - - - - -
+                ETH0 - - - - X - - -
+            ANYTHING - - - - O - - -
+                SHOW - - - - - S - -
+          LSPCI|GREP - - - - - - X -
+            ETHERNET - - - - - - X -

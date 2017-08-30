@@ -1,0 +1,12 @@
+              CHANGE X O - - -
+                 KEY X X X - -
+                 USB - X X - -
+                LILO - X - - -
+              KERNEL - X - - -
+             OPTIONS - X - - -
+                FILE - O - - -
+              ANYONE - S - - -
+      ACPI+HSF=DEATH - - - - X
+         APM+HSF=CPU - - - - S
+              DRIVER - - - - O
+                BOOT - - - - O

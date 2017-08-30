@@ -1,0 +1,23 @@
+              DEVICE S - - - - - - - -
+          /DEV/MWAVE - S - - - - - - -
+               FATAL - X - - - - - - -
+               ERROR - X - - X - - - -
+              INSERT - X - - - - - - -
+               MWAVE - S - - - - - - -
+/LIB/MODULES/2.6.8.1-3-386/KERNEL/DRIVERS/CHAR/MWAVE/MWAVE.KO - X - - - - - - -
+        INPUT/OUTPUT - X - - - - - - -
+               MODEM - X - - - - - - -
+                LOAD - O - - - - - - -
+  /ETC/INIT.D/MWAVEM - X - - - - - - -
+         INVOKE-RC.D - - - X - - - - -
+              MWAVEM - - - X S - - - -
+              ACTION - - - S - - - - -
+                DPKG - - - - X - - - -
+             PROCESS - - - - X - - - -
+              SCRIPT - - - - S - - - -
+                EXIT - - - - X - - - -
+              STATUS - - - - S - - - -
+              ERRORS - - - - X - - - -
+                THAT - - - - - X - - -
+               VIDEO - - - - - - - - S
+             DESKTOP - - - - - - - - X

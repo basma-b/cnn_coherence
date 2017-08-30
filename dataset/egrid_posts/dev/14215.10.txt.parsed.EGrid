@@ -1,0 +1,4 @@
+           CHKCONFIG X - - -
+         UPDATE-RC.D - S - -
+  /ETC/X11/XORG.CONF - - - X
+             DEFAULT - - - X

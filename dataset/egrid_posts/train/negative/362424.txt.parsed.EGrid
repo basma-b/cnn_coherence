@@ -1,0 +1,14 @@
+       /MEDIA/CDROM0 S - - - - -
+              BACKUP O - - - - -
+                  CD S - - - - -
+                  DD - X - - - -
+    OF=LINUXFILE.ISO - X - - - -
+                 WAY - S - - - -
+             MKISOFS - - O - - -
+            ANYTHING - - - O - -
+             DRIVERS - - - X - -
+              RADEON - - - - X -
+                CARD - - - - X X
+             SUPPORT - - - - - X
+                  .. - - - - - O
+              UPDATE - - - - - X

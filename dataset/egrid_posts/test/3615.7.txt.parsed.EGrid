@@ -1,0 +1,15 @@
+               INPUT X - - - - - -
+                USER X - - - - - -
+            PASSWORD O - - - - - S
+               LOGIN X - - - - - -
+                SUDO X - - - - - -
+            TERMINAL - - X - - - -
+                TEST - - - - - X -
+                  ~/ - - - - - O -
+              DBHOST - - - - - - X
+                  -U - - - - - - S
+                   < - - - - - - X
+/HOME/USERNAME/DATA.SQL - - - - - - S
+                  -P - - - - - - S
+               SPACE - - - - - - X
+                 ^^^ - - - - - - O

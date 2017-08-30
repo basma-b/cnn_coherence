@@ -1,0 +1,37 @@
+                PEEP X - - - - - - - - -
+             TROUBLE - O - - - - - - - -
+              DRIVER - X - - - - - - - -
+                 MSI - X - - - - - - - -
+                WIND - X - - - - - - - -
+               U-100 - X - - - - - - - -
+             COMMAND - - O - - - - - - -
+                  CP - - X - - - - - - -
+       RT2860STA.DAT - - X - - - - X - -
+/ETC/WIRELESS/RT2860STA/RT2860STA.DAT - - X - - - - - - -
+               REPLY - - O - - - - - - -
+                FILE - - O - - O X O - S
+           DIRECTORY - - X - - - O - - X
+              ANYONE - - X - - - - - - -
+/ETC/WIRELESS/RT2860STA/ - - - S - S X - - -
+              FOLDER - - - - O O S - - -
+                ROOT - - - - - X - - - -
+         PERMISSIONS - - - - - S - - - -
+               /ETC/ - - - - - S - - - -
+              SYSTEM - - - - - S - - - -
+            TERMINAL - - - - - O - - - -
+                SUDO - - - - - O - - - -
+               MKDIR - - - - - X X - - -
+                  KK - - - - - X - - - -
+                COPY - - - - - X - X - -
+                .DAT - - - - - X - - - -
+               THERE - - - - - X - - - -
+                   ^ - - - - - - X - - -
+          LEGEND2440 - - - - - - S - - -
+              SOURCE - - - - - - - X - -
+                   P - - - - - - - - - X
+                 DOG - - - - - - - - - X
+              AND/OR - - - - - - - - - X
+              INSMOD - - - - - - - - - X
+               ERROR - - - - - - - - - X
+              INSERT - - - - - - - - - X
+        RT2860STA.KO - - - - - - - - - X

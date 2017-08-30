@@ -1,0 +1,14 @@
+               START S - - - - - -
+             PROCESS X - - - - - -
+                 ONE X X - - - - -
+                USER X - - - - - -
+               OTHER X - - - - - -
+                ROOT X - - - - - -
+               SQUID - X - - - - -
+                REPO - X - - - - -
+              OPTION - - O - - - -
+              SCRIPT - - - X X - X
+              DOESNT - - - X - - -
+                WORK - - - O - - -
+                INIT - - - - - - X
+                STOP - - - - - - X

@@ -1,0 +1,13 @@
+              FORMAT X - O - - -
+               MEDIA O - - - - -
+               SHELL X - - - - -
+                MKFS - X - - - -
+               DRIVE - S - - - -
+                NTFS - X - - - -
+                 LOG - X - - - -
+               BREAK - O - - - -
+                UNIX - - X - - -
+                XACT - - O - - -
+           MKFS.NTFS - - - - O X
+              SYNTAX - - - - S -
+                 MAN - - - - - X

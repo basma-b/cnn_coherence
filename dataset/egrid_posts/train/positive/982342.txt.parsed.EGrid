@@ -1,0 +1,15 @@
+            QUESTION O - - -
+           STRUCTURE X - - -
+              INITRD X - - X
+              THOERY X - - -
+             CONTENT O - - -
+              KERNEL - X - -
+          BOOTLOADER - X - -
+            BOOTLOAD - - S -
+                  FS - - X -
+             MODULES - - O -
+          FILESYSTEM - - O -
+              BREEZY - - - S
+                CPIO - - - X
+            COMPRESS - - - X
+                FILE - - - O

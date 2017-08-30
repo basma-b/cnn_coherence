@@ -1,0 +1,15 @@
+             ANYBODY S - - - - -
+               SLAVE S - - X - -
+                GRUB X - - - - -
+               HD0,1 - X - - - -
+                 HD0 - - S - - -
+                BIOS - - X X - -
+               DRIVE - - X - - -
+                0X80 - - O - - -
+                BOOT - - X - - -
+              DEVICE - - O - - -
+              BIOSES - - X - - -
+                 HD1 - - - S - -
+              SECOND - - - O - -
+                 ONE - - - S - -
+           PARTITION - - - X - -

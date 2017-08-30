@@ -1,0 +1,16 @@
+             PROBLEM X - - - - - - - - -
+                  .. X - - - - O - - - -
+              OPTION - - X - - - - - - -
+       /MEDIA/DISK-1 - - - X - - - - - -
+                SUDO - - - X - - - - - -
+              UMOUNT - - - X - - - - - -
+           /DEV/SDB1 - - - X - - - - - -
+           /DEV/SDA3 - - - X - - - - - -
+           /DEV/SDA1 - - - S - - - - - -
+               MOUNT - - - O - - - - - -
+              REPEAT - - - - - X - - - -
+                 SDA - - - - - X - - - -
+                 SDB - - - - - S - - - -
+                DISK - - - - - X - - - -
+                THAT - - - - - - S - - -
+         DISCREPENCY - - - - - - - - - O

@@ -1,0 +1,12 @@
+               LABEL X - - - -
+                 ALL - S - - -
+                MINE - X - - -
+      /USR/X11R6/BIN - S - - -
+             SYMLINK - O - - -
+                SUDO - - X - -
+             APT-GET - - X - -
+LINUX-RESTRICTED-MODULES - - S - -
+              DRIVER - - O - X
+             MANAGER - - X - O
+             MODULES - - - O -
+             TROUBLE - - - - O

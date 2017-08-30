@@ -1,0 +1,16 @@
+            IPCONFIG O - - -
+            IFCONFIG X - - -
+                INFO - O - -
+                  IP - O X -
+              SUBNET - X - -
+                MASK - O - X
+             GATEWAY - O - -
+                 DNS - X - -
+              SERVER - X - -
+             NETWORK - X X -
+          CONNECTION - O - -
+            IFONCIFG - - S -
+               RREST - - - S
+              THINGS - - - X
+                 ETC - - - X
+              ROUTER - - - X

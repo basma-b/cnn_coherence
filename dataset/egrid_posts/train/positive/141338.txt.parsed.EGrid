@@ -1,0 +1,31 @@
+         ENVIRONMENT X - - - - X - - -
+            VARIABLE X - - - - X - - -
+              AND/OR - X - - - - - - -
+             DEFAULT - X - - - - - - -
+               VALUE - O - - - - - - -
+  /USR/LIB/PKGCONFIG - X - - - - - - -
+              ERRORS - O - - O - - - -
+             PACKAGE - O - X X O - - -
+              SCRIPT - O - - - - - - -
+           LIBRARIES - O X - - - - - -
+              INSTAL - O - - - O - - -
+                SOME - - X - - - - - -
+                PART - - X - - - - - -
+                 HMM - - O - - - - - -
+            VERSIONS - - - O - - - - -
+                 ALL - - - - X - - - -
+                THIS - - - - X - - - -
+               CHECK - - - - X - - - -
+      LIBGNOMEUI-2.0 - - - - X - - - -
+                  .. - - - - X - - - -
+              SEARCH - - - - X - - - -
+                PATH - - - - X - - - -
+           DIRECTORY - - - - - S - - -
+                FILE - - - - - X - - -
+                 END - - - - - O - - -
+       LIBGNOME2-DEV - - - - - - S - -
+      LIBGNOMEUI-DEV - - - - - - - X -
+                HTTP - - - - - - - X -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_CONTENTS.PL - - - - - - - X -
+SEARCHMODE=SEARCHFILES - - - - - - - - X
+           ARCH=I386 - - - - - - - - X

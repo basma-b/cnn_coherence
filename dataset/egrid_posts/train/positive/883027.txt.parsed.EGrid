@@ -1,0 +1,20 @@
+          PHPMYADMIN O - - - - -
+                 ALL S - - - - -
+                CANT X - - - - -
+              ACCESS O - - - - -
+                 WEB X - - - - -
+                   S S - - - - -
+               SETUP X - - - - -
+                 IPS O - - - - -
+              APACHE - X - - - -
+                HTTP - - X - - -
+//YOURDOMAIN/PHPMYADMIN - - O - - -
+             REQUEST - - - X - -
+                 URL - - - X - -
+         /PHPMYADMIN - - - S - -
+              SERVER - - - X - -
+                  .. - - - - - S
+                 PMA - - - - - S
+   HTDOCS/PHPMYADMIN - - - - - O
+                 DIR - - - - - X
+               ALIAS - - - - - X

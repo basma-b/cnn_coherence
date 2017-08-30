@@ -1,0 +1,17 @@
+             COMMAND X - - -
+          AUTOREMOVE X - - -
+             PACKAGE O - - -
+                 ALL X - - -
+        DEPENDENCIES O - - -
+              CONFIG X - - -
+                FILE O - - -
+                 ANY X - - -
+         PERMISSIONS - - X S
+            SHOTWELL - - X -
+             FOLDERS - - X -
+              PHOTOS - - X -
+             DEFAULT - - X -
+                   * - - - O
+                WORK - - - O
+/VAR/LOG/APACHE/ERROR.LOG - - - X
+                PATH - - - O

@@ -1,0 +1,16 @@
+                   X X - - -
+           INTERFACE X - - -
+                ETH0 X - - -
+                   Y X - - -
+             SERVICE - X - -
+         CONNECTIONS - - S -
+              SERVER - - X -
+                 VPN - - X -
+                PPP0 - - X -
+            WIRELESS - - X -
+               THERE - - - S
+                   < - - - S
+                DEVX - - - X
+                   > - - - S
+              OPTION - - - O
+            IPTABLES - - - X

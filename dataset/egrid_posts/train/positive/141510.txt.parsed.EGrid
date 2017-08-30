@@ -1,0 +1,12 @@
+               RSYNC S - - X
+                HOST X - - X
+          /HOME/USER X - - X
+           DIRECTORY X - - -
+                 DIR O - - -
+     /HOME/USER/USER O - - -
+                 WAY X - - -
+                ROOT X - - -
+                COPY O - - -
+               SLASH - O - -
+                 END - X - -
+                 JIG - O - -

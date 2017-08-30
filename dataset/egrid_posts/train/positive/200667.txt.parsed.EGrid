@@ -1,0 +1,13 @@
+             SOMEONE S - -
+              FOLDER S - -
+             APACHE2 X - -
+            SYNAPTIC X - -
+             DOCROOT - S -
+               MYSQL - - O
+                ROOT - - X
+              SERVER - - X
+              SOCKET - - X
+/VAR/RUN/MYSQLD/MYSQLD.SOCK - - O
+               ERROR - - X
+             SERVICE - - X
+                ISNT - - S

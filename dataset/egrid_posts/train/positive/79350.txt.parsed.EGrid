@@ -1,0 +1,11 @@
+                ROOT X X - - - - -
+             REISERF X X - - - - -
+                IIRC - - X - - - -
+               /BOOT - - S - - - -
+            REISERFS - - O - - - -
+           PARTITION - - X - - S -
+                   / - - S - - X -
+               /HOME - - - S - O -
+                 HUH - - - - X - -
+                EXT3 - - - - - X -
+                  =0 - - - - - - X

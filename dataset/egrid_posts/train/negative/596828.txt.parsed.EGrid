@@ -1,0 +1,13 @@
+             COMMAND X - - - - - -
+              SEARCH X - - X X - -
+             PACKAGE X - - X - - -
+                PART X - - - - - -
+                NAME X X - - - - -
+                TYPE - X X - - - -
+            APTITUDE - - - X X - -
+               FIREF - - - X S - -
+                SUDO - - - - X - -
+         DESCRIPTION - - - - X - -
+           APT-CACHE - - - - - S -
+            SEARCH^^ - - - - - S -
+                THAT - - - - - - S

@@ -1,0 +1,13 @@
+/ETC/INIT.D/ALSA-ULTILS S - - - - - -
+  RESET-DEFAULT-CARD - S - - - - -
+               THING - - X - - - -
+                ALSA - - - X - - -
+                 LIB - - - X - - -
+          PCM_DMIX.C - - - X - - -
+   SND_PCM_DMIX_OPEN - - - X - - -
+              UNABLE - - - X - - -
+               SLAVE - - - O - - -
+               START - - - - X - -
+                 KDE - - - - - - X
+                APPS - - - - - - O
+            DOWNLOAD - - - - - - O

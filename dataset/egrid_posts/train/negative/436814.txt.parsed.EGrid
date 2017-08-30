@@ -1,0 +1,16 @@
+                FILE O - - -
+         PERMISSIONS O - X -
+               OWNER X - - -
+               GROUP X - - -
+              OTHERS S - - -
+               CHMOD - - X -
+                  TY - - X -
+              SYSTEM - - X -
+                TOOL - - X -
+                   > - - S -
+              EDITOR - - X -
+                APPS - - S -
+             DESKTOP - - X -
+               ICONS - - S -
+             PACKAGE - - - O
+             UPGRADE - - - X

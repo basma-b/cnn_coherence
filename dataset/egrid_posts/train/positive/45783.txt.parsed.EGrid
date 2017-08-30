@@ -1,0 +1,27 @@
+               THERE S - - - - - -
+        /ETC/SUDOERS X - - - - - -
+                 DIR O - - - - - -
+                FILE O - - - - - -
+                USER X - - - - - -
+                HTTP - X - - - - X
+//WWW.UBUNTULINUX.ORG/WIKI/ROOTSUDO - X - - - - -
+                KILL - X - - - - -
+ART.GNOME.ORG/FAQ.PHP - S - - - - -
+WIKI.UBUNTU.COM/RESTRICTEDFORMATS - O - - - - -
+               SENSE - O - - - - -
+                LILO - - X - - - -
+                GRUB - - X - - - -
+               IMAGE - - - O - - -
+               /BOOT - - - X - - -
+              FORMAT - - - X - - -
+ /BOOT/GRUB/MENU.LST - - - O - - -
+                SUDO - - - X - - -
+            TERMINAL - - - X - - -
+            PASSWORD - - - X - - -
+                THAT - - - - X - -
+            DOWNLOAD - - - - - - X
+                 RUN - - - - - - X
+//WWW.UBUNTULINUX.NL/FILES/WINMAC_FSTAB - - - - - - X
+             WINDOWS - - - - - - X
+                 MAC - - - - - - X
+            PARTIONS - - - - - - S

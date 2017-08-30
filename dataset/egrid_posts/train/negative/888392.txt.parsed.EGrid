@@ -1,0 +1,14 @@
+-DCMAKE_BUILD_TYPE=DEBUG O - - - -
+               ERROR X - - - -
+/USR/SHARE/CMAKE-2.8/MODULES/FINDKDE4.CMAKE X - - - -
+             MESSAGE X - - - -
+CMAKE/MODULES/FINDKDE4INTERNAL.CMAKE X - - - -
+/HOME/JON/.KDE/SHARE/APPS X - - - -
+                IDEA O - - - -
+             PACKAGE - O - - -
+              SEARCH - - X - -
+                   ^ - - - O -
+                 ONE - - - X -
+             NETBOOK - - - - S
+        INSTALLATION - - - - X
+             DISPLAY - - - - X

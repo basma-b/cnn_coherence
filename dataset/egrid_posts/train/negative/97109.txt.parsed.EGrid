@@ -1,0 +1,14 @@
+             MACHINE O - - - -
+              APACHE S - - S -
+                 PID X - - - -
+              SHOUDL X - - - -
+                SUDO - - - X -
+         INVOKE-RC.D - - - X -
+              HTTPD2 - - - S -
+             PREFORK - - - X -
+                 USE - - - X -
+                BIND - - - X -
+               -LSB- - - - O -
+               -RSB- - - - X -
+                HECK - - - - S
+               DRIVE - - - - O

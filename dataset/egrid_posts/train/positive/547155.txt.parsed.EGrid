@@ -1,0 +1,16 @@
+                BOOT S - -
+              LIVECD X - -
+                ROOT X - -
+           PARTITION O - O
+                 HDD X - -
+                GRUB O - -
+                SUDO X - -
+             /DEV/SD O - -
+              NUMBER O - -
+               -RSB- S - -
+                /MNT X - -
+        GRUB-INSTALL O - -
+                MTAB X - -
+           /DEV/SDA2 S - -
+         /MEDIA/DISK X - -
+                  HM - - X

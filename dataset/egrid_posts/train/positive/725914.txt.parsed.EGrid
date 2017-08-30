@@ -1,0 +1,21 @@
+             SOMEONE X - - - - - - - -
+                 WAY X - - - - - - - -
+              SYSTEM X - - - - - - - -
+           HARDDRIVE X - - - - - - - -
+             UPGRADE - O - - - - - - -
+                HTTP - - X - - - - - -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - X - - - - - -
+             T=35087 - - - X - - - - -
+                 TAR - - - O - - O - X
+                FILE - - - O - - - - -
+                PATH - - - X - - O - -
+                 B/C - - - X - - - - -
+                WORK - - - O - - - - -
+  ARCHIVENAME.TAR.GZ - - - - - - - - X
+-–EXCLUDE=/BACKUP.TAR.GZ - - - - - - - - S
+ EXCLUDE=/LOST+FOUND - - - - - - - - X
+        EXCLUDE=/SYS - - - - - - - - S
+        EXCLUDE=/MNT - - - - - - - - S
+      EXCLUDE=/MEDIA - - - - - - - - S
+                   / - - - - - - - - S
+           /LOCATION - - - - - - - - O

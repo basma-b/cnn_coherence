@@ -1,0 +1,15 @@
+                   ' X -
+          WORLDOPTS= S -
+      IMAKE_DEFINES= X -
+-DXFREE86CUSTOMVERSION= X -
+                   \ X -
+              UBUNTU X -
+                ROOT X -
+LOCALHOST.LOCALDOMAIN\ O -
+     -DBUILDFONTS=NO O -
+               WORLD X -
+                   > X -
+LOGS/MAKE_WORLD.BUILD.LOG O -
+                   $ - X
+                HOME - X
+             TORRENT - O

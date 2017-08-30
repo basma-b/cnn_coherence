@@ -1,0 +1,19 @@
+                AUTO X - - - - - - - - -
+              IPMASQ O - - - - - - - S -
+                NEED - S - - - - O - - -
+              YES/NO - O - - - - - - - -
+             COMMAND - X - X - - - - - -
+                SUDO - - - S - - S - - -
+                 IAM - - - - - - S - - -
+           INTERFACE - - - - - - O - - -
+            IPTABLES - - - - - - - X - -
+         POSTROUTING - - - - - - - X - -
+                  -O - - - - - - - S - -
+          MASQUERADE - - - - - - - X - -
+                 TAT - - - - - - - S - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - - - - - - O - -
+            QUESTION - - - - - - - O - -
+            TUTORIAL - - - - - - - O - -
+                ETHS - - - - - - - - X -
+              OUTPUT - - - - - - - - - X
+                LIST - - - - - - - - - X

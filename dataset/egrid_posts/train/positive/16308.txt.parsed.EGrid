@@ -1,0 +1,10 @@
+              DEVICE X - - -
+          USB-MEMORY X X - -
+               LINUX - X - -
+                  FS - O - -
+             WINDOWS - - X -
+          USBSTORAGE - - S -
+                VFAT - - O -
+            /DEV/SDA - - O -
+                SDA1 - - X -
+                WORK - - - O

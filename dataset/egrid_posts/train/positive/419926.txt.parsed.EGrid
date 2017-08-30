@@ -1,0 +1,26 @@
+             COMMAND X - - X - - - - - - -
+                  FS X - - - - - - - - - -
+               LABEL X O - - - - O - - - O
+                ERRM - O - - - - - - - - -
+           /DEV/SDA1 - O - - - - - - - - -
+              DEVICE - X - - - - - - - - S
+    HAL-GET-PROPERTY - - X - - X - - - - -
+        BLOCK.DEVICE - - X - - - - - - - -
+              STRING - - S - X - - - - - -
+                LUCK - - X - - - - - - - -
+                 HMM - - - X - - - - - - -
+              RETURN - - - X - - - - - - -
+            ANYTHING - - - O - - - - - - -
+                THIS - - - - X - - X - - -
+HAL-FIND-BY-PROPERTY - - - - X - - - - - -
+                  OK - - - - X - - - - - -
+/ORG/FREEDESKTOP/HAL/DEVICES/VOLUME_PART1_SIZE_32256 - - - - - X - - - - -
+             NOTHING - - - - - X - - - - -
+               THING - - - - - - S - - - -
+              VOLUME - - - - - - X - - - -
+            /DEV/SDA - - - - - - - O - - -
+                   | - - - - - - - - S - -
+          HAL-DEVICE - - - - - - - - X - -
+            /DEV/SDF - - - - - - - - - - S
+                DISK - - - - - - - - - - X
+           PARTITION - - - - - - - - - - S

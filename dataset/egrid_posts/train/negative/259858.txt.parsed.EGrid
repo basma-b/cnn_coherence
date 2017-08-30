@@ -1,0 +1,14 @@
+           SOMETHING O - - - -
+             UMASK=0 X - - - -
+                THIS - X - - -
+                FILE - O - O -
+         DIRECTORIES - X - - -
+               FSTAB - X - - -
+                THAT - - S - -
+                  -L - - - O -
+         PERMISSIONS - - - X -
+           PARTITION - - - X -
+           DIRECTORY - - - X -
+                 RUN - - - - X
+               LSPCI - - - - S
+             UNKNOWN - - - - O

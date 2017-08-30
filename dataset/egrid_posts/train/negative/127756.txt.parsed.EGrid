@@ -1,0 +1,12 @@
+            DHCLIENT O - - - -
+             STARTUP X - - - -
+             DEFAULT X - - - -
+              ROUTER - X - - -
+                 ISP - X - - -
+                DHCP - X - - -
+             NETWORK - - - - X
+             SERVERS - - - - X
+                   > - - - - X
+             WINDOWS - - - - X
+             NOTHING - - - - O
+           YESTERDAY - - - - O

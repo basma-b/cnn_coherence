@@ -1,0 +1,11 @@
+            .RUN.MD5 X - - -
+              -FILES X - - -
+                 ^^^ - X - -
+                 USE - S - -
+                  SH - X - -
+            BLAH.RUN - X - -
+              MD5SUM - X - -
+        BLAH.RUN.MD5 - X - -
+                TONY - X - -
+                MIND - O - -
+             SYS-DOC - - - X

@@ -1,0 +1,25 @@
+                DHCP X - - - - - - - -
+       CONFIGURATION X - - - - - - - -
+               12.04 X - - - - - - - -
+                 CLI - O - - - - - - -
+/ETC/NETWORK/INTERFACES - S - - - X - - -
+                LINE - O - - - X - - -
+                AUTO - X - - - - - - -
+                  LO - S - - - - - - -
+                INET - X - - - - - - -
+            LOOPBACK - S - - - - - - -
+                LOOK - O - - - - - - -
+        /ETC/NETWORK - X - - - - - - -
+                FILE - - S S - - - - -
+                  IP - - - X - - - - -
+               ENTRY - - - S - - - - -
+                THAT - - - - S - - - -
+               START - - - - X - - - -
+               POINT - - - - O - - - -
+              BACKUP - - - - - S - - -
+            ANYTHING - - - - - O - - -
+                 COM - - - - - X - - -
+              REGARD - - - - - X - - -
+                ETH0 - - - - - O - - -
+                IDEA - - - - - - - X -
+               SORRY - - - - - - - - X

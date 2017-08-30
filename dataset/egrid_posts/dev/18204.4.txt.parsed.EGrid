@@ -1,0 +1,17 @@
+                BIND X - - - -
+                 LOG X O - - -
+              SYSLOG X - - - -
+              ANSWER - O - - -
+            QUERYLOG - O - - -
+                 DNS - S - - -
+              SERVER - X - - -
+            RSYSLOGD - X - - -
+                HINT - - S - -
+                /ETC - - X - -
+            ANYTHING - - X - -
+                NAME - - X - -
+             RSYSLOG - - O - -
+                 IVE - - - S -
+                   * - - - X -
+               .CONF - - - X -
+                HTTP - - - - X

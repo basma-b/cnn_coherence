@@ -1,0 +1,17 @@
+                USER S S - - -
+              MEMBER O - - - -
+               GROUP X O X X -
+            PROBLEMS - O - - -
+            /VAR/WWW - X - - O
+              GROUPS - X - - -
+            USERNAME - S - - -
+                  TY - - X - -
+              EFFECT - - O - -
+                TIME - - - X -
+              CHANGE - - - X -
+          MEMBERSHIP - - - X -
+        LOGOUT/LOGIN - - - S -
+                SUDO - - - - S
+                  -R - - - - X
+               CHGRP - - - - X
+               CHMOD - - - - X

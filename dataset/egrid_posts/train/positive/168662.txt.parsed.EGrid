@@ -1,0 +1,22 @@
+              UBUNTU S - - - - - - -
+       /SBIN/HOTPLUG O - - - - - - -
+        /ETC/HOTPLUG O - - - - - - -
+              DRIVER X - X S - - S O
+              DEVICE X - X - - - X -
+                UDEV - X - - - - - -
+                 HAL - X - - - - - -
+              PCMCIA - X - - - - - -
+                CARD - X - - - - O -
+                BIND - - X - - - O -
+/ETC/UDEV/RULES.D/85-PCMCIA.RULES - - - X - - - -
+                LOOK - - - O - - - -
+               TRACK - - - X - - - -
+                  .. - - - X - - - -
+                LOAD - - - O - - O -
+                IDEA - - - - X - - -
+              KERNEL - - - - - X - -
+                CRAP - - - - - - X -
+             ORINOCO - - - - - - X -
+               STEAD - - - - - - X -
+          ORINOCO_CS - - - - - - X -
+            PROBLEMS - - - - - - O -

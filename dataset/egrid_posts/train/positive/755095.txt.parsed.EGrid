@@ -1,0 +1,14 @@
+                 NFS S - - - X
+        /ETC/EXPORTS S - - - -
+              CLIENT - S - X -
+             PORTMAP - X - - -
+              INSTAL - O - - -
+                 NAS - - X - -
+                 BOX - - O - -
+               SAMBA - - - X -
+               SHARE - - - S -
+             PACKAGE - - - S -
+               STDIN - - - X -
+              NAS-IP - - - X -
+                PORT - - - O -
+            2049/TCP - - - - X

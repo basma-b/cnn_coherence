@@ -1,0 +1,11 @@
+           PARAMETER O - - - - -
+              KERNEL X X - - - -
+              MODULE X - - - - -
+                LOAD X - - - - -
+                THIS X - - - - -
+              UBUNTU X - - - - -
+ /BOOT/GRUB/MENU.LST - O - - - -
+          EQUIVALENT - X - - - -
+/ETC/MODULES.AUTOLOAD.D/KERNEL-2.6 - X - - - -
+          PARAMETERS - S - - - -
+               LINUX - - - - - X

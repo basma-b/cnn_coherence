@@ -1,0 +1,10 @@
+           PARTITION X - - - - - - -
+               TABLE X - - - - - - -
+               DRIVE X - - - - - - -
+               MSDOS - O O - - - - -
+                 GPT - S O - - - - -
+                WORK - - - X - - - -
+               UUID= - - - - - X - -
+                   / - - - - - - S -
+               FSTAB - - - - - - X -
+                THIS - - - - - - - X

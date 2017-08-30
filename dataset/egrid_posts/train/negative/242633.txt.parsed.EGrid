@@ -1,0 +1,16 @@
+              ANYONE X - -
+                TIME - X -
+              BADRAM - O -
+           INTERRUPT - O -
+               FAULT - O -
+                 EIP - S -
+           SOMETHING - X -
+                   > - X -
+              BOOTUP - X -
+              KERNEL - X -
+               PANIC - O -
+                 RAM - O -
+                BOOT - X -
+                   P - X -
+             SECTION - - X
+                  CD - - X

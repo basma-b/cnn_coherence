@@ -1,0 +1,7 @@
+              SYSTEM S - -
+            TERMINAL X - -
+                 SSH - X -
+                TAIL - X -
+     /VAR/LOG/SYSLOG - O -
+                 CAT - X -
+   /VAR/LOG/MESSAGES - O -

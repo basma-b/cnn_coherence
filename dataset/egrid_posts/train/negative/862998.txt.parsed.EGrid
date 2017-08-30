@@ -1,0 +1,15 @@
+               ENTRY S - X - -
+          HOSTS.DENY X - - - -
+           DENYHOSTS O - - - -
+              REBOOT - - X - -
+              REHASH - - X - -
+             REMOVAL - - X - -
+                HTTP - - - X -
+                3_19 - - - X -
+            LOCATION - - - - X
+               THERE - - - - S
+                  ID - - - - O
+                 USE - - - - O
+                BOOT - - - - X
+                AUTO - - - - X
+               MATER - - - - O

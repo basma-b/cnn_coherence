@@ -1,0 +1,14 @@
+                SCSI - X - - - - -
+               DRIVE - O - - - - -
+                BOOT - O - - - - -
+             TUNE2FS - X - - - - -
+             COMMAND - O - - - - -
+             MANPAGE - O - - - - -
+           SOMETHING - O O X - - -
+                EXTX - X - - - - -
+       DOCUMENTATION - O - - - - -
+          FILESYSTEM - X - - - - -
+                EXT3 - O - - - - -
+                SIDE - - - - - X -
+             QUALITY - - - - - O -
+             ECHO123 - - - - - - X

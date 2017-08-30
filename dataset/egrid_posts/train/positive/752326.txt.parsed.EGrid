@@ -1,0 +1,18 @@
+               IMAGE X - -
+                  OS X - -
+                 EXT X - -
+             STORAGE X - -
+                   S X - -
+               DRIVE O X -
+                SIZE - X -
+                 ONE - O -
+                 TOY - O -
+              SYSTEM - S -
+                  DD - X -
+         IF=/DEV/SDA - X -
+OF=/MNT/IMAGE/MYDISK.IMG - X -
+             BS=512K - S -
+              DEVICE - X -
+              OUTPUT - X -
+                FILE - O X
+                THIS - - X

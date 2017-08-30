@@ -1,0 +1,17 @@
+           PARTITION O - - - - X - - -
+              GBYTES X - - - - - - - -
+                EXT4 - X - - - - - - -
+                FLAG - X - - - - - - -
+                BOOT - X - - - - - - -
+               MOUNT - - X - - - - - -
+               POINT - - S - - - - - -
+                ROOT - - X - - - - - -
+                THAT - - - O - O - - O
+             GPARTED - - - - X - - - -
+                DATA - - - - - S - - -
+                 END - - - - - X - - -
+                 USE - - - - - - - X -
+       ADMINISTRATOR - - - - - - - X -
+             ACCOUNT - - - - - - - X -
+                SUDO - - - - - - - X -
+                  -I - - - - - - - X -

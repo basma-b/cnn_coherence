@@ -1,0 +1,14 @@
+                   Q X - - - - - - -
+/LIB/MODULES/2.6.20-16-GENERIC/KERNEL/DRIVERS/ACPI/BATTERY.KO S - - - - - - -
+             COMMENT O - - - - - - -
+            FUNCTION - X - - - - - -
+ACPI_EVALUATE_OBJECT - X - - - - - -
+                LINE - X - - - - - -
+              KERNEL - - X - - - - -
+              SOURCE - - O - - - - -
+                /MSG - - S - - - - -
+                  PM - - - X X - - -
+             CHANNEL - - - - - - S -
+              MOMENT - - - - - - X -
+             ADDRESS - - - - - - - X
+            QUESTION - - - - - - - X

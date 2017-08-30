@@ -1,0 +1,9 @@
+     XSERVER-XFREE86 S - -
+            QUESTION X - -
+                GALL X - -
+ /VAR/SPOOL/POSTFIX/ - O -
+                SSHD - - O
+              LOGINS - - O
+                  .. - - X
+           SYSLOG-NG - - X
+              SCRIPT - - O

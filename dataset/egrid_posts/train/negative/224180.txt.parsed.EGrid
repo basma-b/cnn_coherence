@@ -1,0 +1,13 @@
+             SOMEONE X - - - - -
+             COMMAND X X - - X -
+                USER X - - - - -
+          PERMISSION X - - - - -
+               PANEL O - - - - -
+            INTEFACE - O - - - -
+                LINE - X - - - -
+            SOLUTION - - - O - -
+              OPTION - - - - X -
+          UMASK=0222 - - - - O -
+               MOUNT - - - - X -
+             MANPAGE - - - - - O
+        VERIFICATION - - - - - X

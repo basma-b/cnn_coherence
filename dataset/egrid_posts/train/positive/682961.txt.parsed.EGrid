@@ -1,0 +1,8 @@
+  UNATTENDED-UPGRADE S - - - - -
+         DISTUPGRADE X - - - - -
+            VERSIONS - O - - - -
+        DEPENDENCIES - X - - - -
+                CASE - - - - - O
+             CONTROL - - - - - X
+              SYSTEM - - - - - X
+       CONFIGURATION - - - - - X

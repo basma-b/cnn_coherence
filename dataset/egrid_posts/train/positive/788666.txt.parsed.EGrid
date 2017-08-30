@@ -1,0 +1,14 @@
+                  DD X - - - - -
+       IF=/DEV/CDROM X - - - - -
+OF=~/CDROM_IMAGE.ISO S - - - - -
+             MKISOFS X - - - - -
+   /OUT/OF/THIS.FILE X - - - - -
+          /DEV/CDROM X - - - - -
+             JACKPOT O - - - - -
+                HELP - S - - - -
+                DISK - X - - - -
+               DRIVE - X X - - -
+                TYPE - - S - - -
+          MOUNTPOINT - - - S - -
+                LIST - - - X - -
+                  CD - - - X - -

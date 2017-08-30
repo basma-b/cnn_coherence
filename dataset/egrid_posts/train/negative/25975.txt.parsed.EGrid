@@ -1,0 +1,21 @@
+                   ' X - - -
+                PEEP X - - -
+            WIRELESS S - - -
+                SUDO X - - -
+            MODPROBE O - - -
+         USEDRITEK=1 S - - -
+    FORCE_SERIES=290 X - - -
+/PROC/DRIVERS/ACERHK/WIRELESSD O - - -
+                THIS - S - -
+             STARTUP - X - -
+              SCRIPT - - X -
+         /ETC/INIT.D - - X -
+         UPDATE-RC.D - - O -
+                LINK - - O -
+    /DEV/VG0/LV_SWAP - - - O
+                SIZE - - - X
+                 50G - - - X
+             SWAPOFF - - - X
+             EXAMPLE - - - O
+                  TA - - - S
+        INSTALLATION - - - X

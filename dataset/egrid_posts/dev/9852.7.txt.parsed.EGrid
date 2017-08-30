@@ -1,0 +1,13 @@
+            IPTABLES S X -
+                USER O - -
+                 APP O - -
+           SOMETHING - O -
+              OUTPUT - X -
+                  -O - S -
+               OWNER - O -
+                  -J - S -
+               INTEL - - X
+                  HD - - X
+            GRAPHICS - - X
+                  GT - - X
+                650M - - O

@@ -1,0 +1,14 @@
+               SAMBA X - - - - - -
+   USERNAME/PASSWORD X - - - - - -
+                  AD X - - - - - -
+             WINDOWS S S X - - - -
+            PASSWORD X - X - - - -
+            USERNAME O - - - - - -
+               SHARE - X - - - - -
+           SMBPASSWD - - S - - - -
+                SAME - - O - - - -
+            ANONYMUS - - - X - - -
+               SETUP - - - - X - -
+                USER - - - - - - X
+                NAME - - - - - - S
+              PASSWD - - - - - - O

@@ -1,0 +1,9 @@
+                TIME S X - -
+                BOOT X - - -
+                GRUB - X - -
+                CONF - S - -
+   /ETC/DEFAULT/GRUB - X - -
+                 ALL - S - -
+         UPDATE-GRUB - O - -
+              MOMENT - - X -
+             PROGRAM - - X -

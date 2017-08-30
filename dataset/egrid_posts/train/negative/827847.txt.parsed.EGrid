@@ -1,0 +1,11 @@
+              PACKET X - - -
+                 OWN S - - -
+  /USR/INCLUDE/LINUX X - - -
+             APT-GET O - - -
+            APT-FILE O - - -
+              UPDATE O - - -
+              SEARCH X - - -
+                ROOT X - - -
+                SUDO X - - -
+             XMODMAP - - O -
+                XORG - - X -

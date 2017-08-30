@@ -1,0 +1,25 @@
+                HELP O - - - - - - - - - -
+             SENSORS X O - - - - - - - - -
+              OUTPUT - O - - - - - - - - -
+             ADAPTER - X - - - - - - - - -
+              DEVICE - X - - - - - - - - -
+               TEMP1 - O - - - - - - - - -
+            +16.0°C - O - - - - - - - - -
+           +106.0°C - X - - - - - - - - -
+//PASTE.UBUNTU.COM/324459/ - X - - - - - - - - -
+                BITE - O - - - - - - - - -
+          TEMPERAURE - - O - - - - - - - -
+            ANYTHING - - O - - - - - - - -
+/PROC/ACPI/THERMAL_ZONE/ - - X - - - - - - - -
+              FOLDER - - - - X - - - - - -
+               MOMEN - - - - - X - - - - -
+              MOMENT - - - - - S - - - - -
+                THNZ - - - - - X - - - - -
+                THZN - - - - - X - - - - -
+           DIRECTORY - - - - - X - - - - -
+                NAME - - - - - - O - - - -
+                FILE - - - - - - - X - - -
+         TEMPERATURE - - - - - - - S O - -
+               16°C - - - - - - - - X - -
+                THAT - - - - - - - - - - S
+               TABLE - - - - - - - - - - O

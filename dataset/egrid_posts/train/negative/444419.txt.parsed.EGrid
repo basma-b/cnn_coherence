@@ -1,0 +1,11 @@
+           DIRECTORY O - - -
+      SUBDIRECTORIES O - - -
+          PERMISSION X - - -
+               CHMOD X - X -
+                FILE O - - -
+         DIRECTORIES X - - -
+                THAT - X - -
+                  +X - - X -
+                   D - - X -
+                   | - - X -
+               XARGS - - O -

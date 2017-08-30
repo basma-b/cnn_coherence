@@ -1,0 +1,17 @@
+                GRUB X - - - - -
+               SHELL X - - - - -
+                 RUN S - - - - -
+ /BOOT/GRUB/MENU.LST O - - - - -
+           PARTITION X - - - X -
+                ROOT O - - - - -
+                 HDX X - - - - -
+                   X X - - - - -
+               SETUP S - - - - -
+                THAT - S - - - -
+                 ALL - O - - - -
+            MENU.LST - - O - - -
+                  CD - - - X - -
+               HD0.1 - - - - O -
+               UUIDS - - - - O -
+              THINGS - - - - - O
+            PASTEBIN - - - - - X

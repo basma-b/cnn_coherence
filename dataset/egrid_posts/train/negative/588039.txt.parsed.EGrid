@@ -1,0 +1,21 @@
+LINUX-RESTRICTED-MODULES-GENERIC S - - -
+            MENCODER X - - -
+             MPLAYER X - - -
+             APT-GET X - - -
+        DIST-UPGRADE X - X -
+                WORK O - - -
+             MENCODE X - - -
+LINUX-HEADERS-GENERIC - - X -
+           KEPT-BACK - - S -
+                THIS - - X -
+              ERRROR - - O -
+                 RUN - - X -
+           SYNAPTICS - - S -
+                HTTP - - X -
+             ALRIGHT - - X -
+         INFORMATION - - O -
+              OUTPUT - - O -
+              UPDATE - - X -
+              POLICY - - X -
+            PASTEBIN - - - X
+          ~/DESKTOP/ - - - X

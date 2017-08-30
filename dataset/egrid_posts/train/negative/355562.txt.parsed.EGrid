@@ -1,0 +1,16 @@
+             PROBLEM X O - X O - - - -
+               FORCE O - - O - - - - -
+              TINYOS O - - O - - - - -
+          DEPENDENCY - X - - X - - - -
+             PACKAGE - O - - O - - - -
+             APT-GET - - X - - X X X -
+                  -F - - - S - - - O -
+              NODEPS - - - X - - X S -
+      IGNORE-MISSING - - - - - - O - -
+        DEPENDENCIES - - - - - - O - -
+               KINDA - - - - - - - S -
+                 ALL - - - - - - - O -
+             PURPOSE - - - - - - - O -
+                   U - - - - - - - S -
+                .DEB - - - - - - - O -
+                 WEP - - - - - - - - X

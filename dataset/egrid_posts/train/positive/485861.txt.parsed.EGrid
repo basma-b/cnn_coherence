@@ -1,0 +1,15 @@
+               FSTAB X - - -
+            QUESTION O - - -
+               ENTRY O - - -
+              DEVICE S - - -
+                UUID X - - -
+                WILL X - - -
+            PROBLEMS O - - -
+              BOOTUP - O - -
+              ERRORS - O - -
+                 ETC - - S -
+             FAILURE - - O -
+                BOOT - - X -
+                   / - - S -
+               MOUNT - - O -
+               GREAT - - - X

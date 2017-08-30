@@ -1,0 +1,16 @@
+                MANY O - - -
+               THESE X - - -
+               DMESG X - - -
+         END_REQUEST - X - -
+                 I/O - X - -
+               ERROR - X - -
+                 FD0 - X - -
+              SECTOR - X - -
+              BUFFER - X - -
+              DEVICE - X - -
+               BLOCK - X - -
+              FLOPPY - O - -
+                THAT - - - X
+                  PC - - - S
+                BOOT - - - X
+                  CD - - - X

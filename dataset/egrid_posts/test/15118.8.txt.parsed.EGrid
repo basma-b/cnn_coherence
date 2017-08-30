@@ -1,0 +1,10 @@
+                NAME O -
+          /ETC/HOSTS X -
+              ROUTER S -
+                DHCP X -
+             PFSENSE O -
+              NOBODY - X
+                  -D - X
+/ETC/PGBOUNCER/PGBOUNCER.INI - S
+                SAME - O
+/ETC/DEFAULT/PGBOUNCER - X

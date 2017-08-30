@@ -1,0 +1,22 @@
+               INDEL X - - - - - - - - -
+            CENTRINO X - X - - - - - - -
+                 DUO X - X - - - - - - -
+KERNEL-IMAGE-2.4.27-2-686-SMP - X - X - - - - - -
+               INTEL - - X - - - - - - -
+              BREEZY - - - - X - - - - -
+                THAT - - - - - S - - - -
+              KERNEL - - - - - O - - - -
+            VERSIONS - - - - - - S - - -
+                 2.6 - - - - - - O - - -
+               THANX - - - - - - O - - -
+              NVIDIA - - - - - - - X - -
+                   | - - - - - - - S - -
+           SHOREWALL - - - - - - - - X -
+            FIREWALL - - - - - - - - X -
+/ETC/INIT.D/SHOREWALL - - - - - - - - O -
+                LINE - - - - - - - - X -
+/VAR/LOG/SHOREWALL-INIT.LOG - - - - - - - - X X
+                FILE - - - - - - - - - X
+           DIRECTORY - - - - - - - - - X
+               TOUCH - - - - - - - - - X
+              CHANGE - - - - - - - - - X

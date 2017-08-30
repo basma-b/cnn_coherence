@@ -1,0 +1,28 @@
+                  HI X - - - - - - - - - - - -
+             MOBLOCK - O - X - - X - - - - - -
+             STARTUP - X - - - - - - - - - - -
+             DEFAULT - X X - - - - - - - - - -
+            SESSIONS - X - - - - - - - - - - -
+               ERROR - - O - - - X - - - - - -
+       CONFIGURATION - - X - - - - - - - - - -
+                FILE - - X - - O X - - - - - -
+/VAR/LOG/MOBLOCK.LOG - - S - - O - - - - - - -
+                PATH - - X O - - - - - - - - -
+                 GUI - - - S - - X - - - - - -
+         SUGGESTIONS - - - - X - - - - - - - -
+                SUDO - - - - - S - - - - - - -
+             PROBLEM - - - - - S X - - - - - -
+                HELP - - - - - X - - - - - - -
+                LIST - - - - - - O - - - - - -
+               CLICK - - - - - - X - - - - - -
+               START - - - - - - X - - - - - -
+              BUTTON - - - - - - O - - - - - -
+             MESSAGE - - - - - - O - - - - - -
+/ETC/MOBLOCK/GUARDING.P2P - - - - - - O - - - X - -
+                 SET - - - - - - - O - - - - -
+           BLOCKLIST - - - - - - - X S - - - -
+                THIS - - - - - - - - S - - - -
+              ANYONE - - - - - - - - X - - - -
+                THAT - - - - - - - - - - O - -
+/ETC/MOBLOCK/MOBLOCK.CONF - - - - - - - - - - X - -
+                IDEA - - - - - - - - - - O - -

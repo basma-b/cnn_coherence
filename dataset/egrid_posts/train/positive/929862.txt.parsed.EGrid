@@ -1,0 +1,14 @@
+            QUESTION O - -
+              SYNTAX S X -
+               GROUP S O -
+                SUDO X - -
+             SUDOERS X - -
+                FILE X - -
+                 ETC S - -
+                USER - S -
+                LIST - S -
+                LINE - X -
+                ALL= - O -
+                 ALL - X -
+                ROOT - X -
+                   % - X -

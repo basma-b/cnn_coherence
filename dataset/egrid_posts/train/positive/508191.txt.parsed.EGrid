@@ -1,0 +1,10 @@
+ /BOOT/GRUB/MENU.LST O - - - - - - -
+                READ - - - S - - - -
+              KERNEL - - - O - - - -
+             PACKAGE - - - - X - - -
+                  -L - - - - - - S -
+        ^LINUX-IMAGE - - - - - - O -
+             KERNELS - - - - - - O -
+                 ONE - - - - - - - O
+             VERSION - - - - - - - X
+              NUMBER - - - - - - - X

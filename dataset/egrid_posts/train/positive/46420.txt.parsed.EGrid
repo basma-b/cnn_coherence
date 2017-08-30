@@ -1,0 +1,7 @@
+        INITRD-TOOLS S - -
+                BOOT - X -
+              KERNEL - O -
+             KERNELS - O -
+                LIST - O -
+               PANIC - O -
+        DIST-UPGRADE - - O

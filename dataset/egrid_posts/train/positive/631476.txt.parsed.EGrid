@@ -1,0 +1,20 @@
+             INSTALL O - - - -
+             MANAGER O - - - -
+             NETWORK - O - X -
+              INSTAL - X - - -
+           INSTALLER - S - - -
+                FILE - - O X -
+                 THE - - - O -
+                SUDO - - - X -
+            DHCLIENT - - - O -
+                FINE - - - X -
+           INTERFACE - - - O -
+/ETC/NETWORK/INTERFACES - - - X -
+                AUTO - - - X -
+                ETHX - - - X -
+              OPTION - - - X -
+                ETH0 - - - S -
+                PART - - - S -
+                INET - - - X -
+                DHCP - - - X -
+                WORK - - - - S

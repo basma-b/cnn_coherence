@@ -1,0 +1,14 @@
+                   Q X - - - -
+               UDEVD X - - - -
+              DEVICE - X - - -
+                NODE - X - - -
+              KERNEL - X - - -
+               EVENT - X - - -
+             MANAGER - X - - -
+                 HOG - - X - -
+                 CPU - - O - -
+                HTOP - - - - O
+                ROOT - - - - X
+                 IT= - - - - O
+                 FAN - - - - S
+                 HEH - - - - O

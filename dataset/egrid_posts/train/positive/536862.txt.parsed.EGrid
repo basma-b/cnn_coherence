@@ -1,0 +1,15 @@
+            SOME_UX1 X - - - - -
+                RULE - X - - - -
+           INTERFACE - S - - - -
+              ROUTER - - O - - -
+              UBUNTU - - X - - -
+          CONNECTION - - S - - -
+              FILTER - - X - - -
+              OTHERS - - - X - -
+                 END - - - X - -
+                ETH0 - - - - S -
+               CABLE - - - - X -
+               MODEM - - - - X -
+                 HUB - - - - X -
+                THAT - - - - - S
+              TARGET - - - - - O

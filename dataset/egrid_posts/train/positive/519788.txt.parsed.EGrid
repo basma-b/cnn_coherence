@@ -1,0 +1,18 @@
+                 TTY X - - -
+                WHAT X - - -
+          RESOLUTION X S - -
+              OPTION - O - -
+              KERNEL - X - -
+ /BOOT/GRUB/MENU.LST - X - -
+             SECTION - O - -
+              NUMBER - X - -
+                TTYS - X X -
+/ETC/DEFAULT/CONSOLE-SETUP - X - -
+                  .. - X - -
+                TYPE - O - -
+       CONSOLE-SETUP - - S -
+                FILE - - O -
+       /ETC/EVENT.D/ - - X -
+               START - - X -
+                LINE - - X -
+              THANKS - - - X

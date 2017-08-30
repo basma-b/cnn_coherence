@@ -1,0 +1,16 @@
+                 ALL O - - - - -
+              MEMBER X - - - - -
+   DRIVES/PARTITIONS X - - - - -
+               MDADM X - X - - -
+                  NO O - - - - -
+               ARRAY S - - - O -
+              CONFIG X - X X X -
+                FILE X - X X X -
+                RAID - O - - - -
+                DATA - X - - - -
+                  OS - S - - - -
+               DRIVE - X - - - -
+                 E.G - X - - - -
+                AHLO - - X - - -
+              DETAIL - - - - O -
+               PLACE - - - - X -

@@ -1,0 +1,13 @@
+         FIRESTARTER X S - S
+            FIREWALL X O - O
+                 END - O - -
+              KERNEL - X - -
+            IPTABLES - X - -
+                RULE - O - -
+              FILTER - X - -
+             TRAFFIC - O - -
+              ROUTER - X - -
+             BUILTIN - X - -
+                 NAT - X - -
+                  .. - X - -
+                 BOX - - - X

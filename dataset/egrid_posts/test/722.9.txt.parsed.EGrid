@@ -1,0 +1,16 @@
+                 ANY S - -
+             EXPERTS O - -
+            CHATROOM - O -
+             UPSTART - - X
+             SERVICE - - X
+               ENTRY - - O
+                   < - - X
+                   > - - X
+               .CONF - - X
+             PRECISE - - X
+             APACHE2 - - S
+                INIT - - O
+           CHKCONFIG - - O
+                RUSH - - X
+            SYMLINKS - - O
+                 .D/ - - X

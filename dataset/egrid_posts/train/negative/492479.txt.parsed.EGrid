@@ -1,0 +1,11 @@
+               START S X - - -
+            HARDWARE X - - - -
+         ABSTRACTION X - - - -
+               LAYER O - - - -
+      /USR/SBIN/HALD X - - - -
+              SYSTEM - X - - -
+             MESSAGE - X - - -
+                 BUS - S - - -
+                 APP - - X - -
+               GNOME - - X - -
+               CHECK - - - O -

@@ -1,0 +1,7 @@
+                SORT S -
+            IFCONFIG O -
+                  IP X S
+               STUFF O -
+                 USE - X
+                DHCP - X
+                AUTO - X

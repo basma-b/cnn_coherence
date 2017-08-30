@@ -1,0 +1,15 @@
+DIRECTORY+KERBEROS+PAM X - - - -
+                WORK O - - O -
+                 BOX X - - - -
+         AD+KERBEROS S - - - -
+                 PAM S - - - -
+              CONFIG X - - - -
+                FILE X - - - -
+                 NON S - - - -
+           EXISTANCE O - - - -
+            KERBEROS O - - X O
+                  .. X - - - -
+                PART S - - S -
+               RIGHT - X - - -
+                THIS - - O - -
+                APPS - - - - S

@@ -1,0 +1,11 @@
+              FORMAT X - -
+              IRIVER X - -
+                VFAT X - -
+                  HI - X -
+                DENG - X -
+               FAT32 - O -
+                DISK - X -
+           MKFS.VFAT - S -
+       /DEV/YOURDISK - O -
+                JOKE - - O
+             MESSAGE - - X

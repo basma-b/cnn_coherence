@@ -1,0 +1,14 @@
+             COMMAND S - - -
+            FILENAME O - - -
+               QUERY S - - -
+             EXAMPLE X - - -
+              STRING X X - -
+                GREP - X - -
+               MATCH - X - -
+                  -L - X - -
+                   * - S - -
+                WORK - O - -
+               MAGIC - X - -
+               PRINT - X - -
+                LINE - O - -
+/USR/SHARE/DOC/BACULA-COMMON/EXAMPLES/ - - - X

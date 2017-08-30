@@ -1,0 +1,11 @@
+             COMMAND X - -
+               FESTY X - -
+                SUDO - X -
+             APT-GET - X -
+        DIST-UPGRADE - O -
+        REPOSITORIES - O -
+/ETC/APT/SOURCES.LIST - X -
+              UPDATE - O -
+                   N - - S
+              NUMBER - - O
+            INFINITY - - X

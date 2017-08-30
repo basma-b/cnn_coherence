@@ -1,0 +1,21 @@
+                 CAT X X - - - - -
+ /PROC/ACPI/BBSWITCH X X - - - - -
+              OUTPUT X - - - - - -
+                FILE - X - - - - -
+           DIRECTORY - X - - - - -
+            MODPROBE - X - - - - -
+            BBSWITCH - O - - S - -
+              MODULE - O - - X - -
+        INSTRUCTIONS - - X - - - -
+              NVIDIA - - - X - - -
+                CARD - - - S - - -
+             COMMAND - - - - X - -
+                CRAP - - - - O - -
+                WHAT - - - - - S -
+          EVERYTHING - - - - - X -
+             SYSLOGS - - - - - - X
+                LINE - - - - - - S
+           FREQUENCY - - - - - - X
+                 PPM - - - - - - O
+/VAR/LIB/NTP/NTP.DRIFT - - - - - - X
+              NORMAL - - - - - - O

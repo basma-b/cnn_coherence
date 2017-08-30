@@ -1,0 +1,17 @@
+                PORT - O - - - - -
+                 USE - X - - - - -
+/ETC/SSH/SSHD_CONFIG - X - - - - -
+           127.0.0.1 - S - - - - -
+              DAEMON - S - - - - -
+            QUESTION - O - - - - -
+                SSHD - - X O - - -
+                 SSH - - - S - X -
+             SERVICS - - - S - - -
+                  PS - - - X - - -
+                GREP - - - X - - -
+              CONFIG - - - X - - -
+                FILE - - - X - - -
+              SERVER - - - - - S -
+               ISSUE - - - - - O -
+                NMAP - - - - - - S
+             SERVICE - - - - - - S

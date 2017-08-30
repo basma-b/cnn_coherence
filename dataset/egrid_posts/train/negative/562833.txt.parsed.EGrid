@@ -1,0 +1,39 @@
+         CONNECTIONS O - - - -
+                AREA X - - - -
+             NETWORK X - - - -
+            FEDORA10 X - - - -
+              SYSTEM X - - - -
+              UBUNTU X - - - -
+             SYSTEMS S - - X -
+              ANYONE S - - - -
+           CROSSOVER - X - - -
+                 IPS - O - S -
+         192.168.0.2 - X - - -
+                MASK - X - - -
+       255.255.255.0 - X - - -
+             MESSAGE - O - O -
+                 USE - X - - -
+                  IP - O - S -
+               USERS - X - - -
+               CABLE - O - - -
+                 PCS - X - S -
+          CONNECTION - X - - -
+                 THE - - - S -
+              ROUTER - - - S -
+                INFO - - - O -
+                 WAY - - - S -
+            CONFLICT - - - X -
+              CONFIG - - - O -
+                SUDO - - - X -
+/ETC/INIT.D/NETWORKING - - - S -
+             ADDRESS - - - O -
+                SAME - - - O -
+              NUMBER - - - X -
+                 ONE - - - O -
+             GATEWAY - - - O -
+             0.0.0.0 - - - X -
+              FORMAT - - - S -
+           SOMETHING - - - X -
+                HTTP - - - X X
+//WWW.CYBERCITI.BIZ/FAQ/SETTING-UP-AN-NETWORK-INTERFACES-FILE/ - - - X -
+//WWW.ITEFIX.NO/I2/NODE/10650 - - - - X

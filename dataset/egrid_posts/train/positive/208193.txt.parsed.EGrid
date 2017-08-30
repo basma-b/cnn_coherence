@@ -1,0 +1,12 @@
+                XORG S - - - - - - X
+              RENDER X - - - - - - -
+                CARD - O - - - - - -
+             CHIPSET - X - - - - - -
+             GLXINFO - - S - - - - -
+/USR/LIB/DRI/R200_DRI.SO - - O - - - - -
+              SYMBOL - - O - - - - -
+ _GLAPI_GET_DISPATCH - - O - - - - -
+                THIS - - - X - - - -
+               RV280 - - - - S - S -
+                 ONE - - - - - - O -
+                 DRI - - - - - - - O

@@ -1,0 +1,15 @@
+              KERNEL S S S -
+                BOOT X X X -
+          /SBIN/INIT S S - -
+         DEV/CONSOLE X O - -
+                FILE X X - -
+               PANIC X O - -
+                SYNC X X - -
+                INIT O O - -
+              RESCUE X - - -
+                 MOD X - - -
+               ERROR X - - -
+              REVERT - X - -
+             KERNERL - X - -
+                 ONE - - O X
+                LIST - - O -

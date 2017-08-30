@@ -1,0 +1,13 @@
+                PIPE X - -
+              OUTPUT O - -
+                GREP X - -
+           SOMETHING X - -
+            PRESENCE X - -
+                TEXT X - -
+                FILE X - X
+                 CAT - S -
+          SEARCHWORD - O -
+               CRC32 - - S
+                PERL - - X
+              SCRIPT - - O
+                 CRC - - O

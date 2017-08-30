@@ -1,0 +1,32 @@
+              WEBCAM S - - - S - - -
+                 USB X - - - - - - -
+               TRUST S - - - - - - -
+             WB1400T O - - - - - - -
+              LITTLE X - - - - - - -
+               DMESG X - - - - - - -
+               -LSB- O - - - - - - -
+                 3-2 X - - - - - - -
+               SPEED X - - - - - - -
+              DEVICE S - - - - - - -
+            UHCI_HCD O - - - - - - -
+       CONFIGURATION S - - - - - - -
+              CHOICE X - - - - - - -
+/BUILD/BUILDD/LINUX-UBUNTU-MODULES-2.6.22-2.6.22/DEBIAN/BUILD/BUILD-GENERIC/MEDIA/GSPCAV1/GSPCA_CORE.C X - - - - - - -
+             SPCA5XX X - - - - - - -
+              CAMERA S - - - - - - -
+              PAC207 - X - - - - - -
+                   U - S X - - - X -
+                WORK - O X - - - - -
+               GUTSY - X X - - - - -
+                WORD - - - - X - - -
+                 WHT - - - - - - S -
+            DOWNLOAD - - - - - - S -
+                 ETC - - - - - - X -
+             DRIVERS - - - - - - O -
+                  .. - - - - - - O -
+              DRIVER - - - - - - X -
+GSPCA-20070110.TAR.GZ - - - - - - X -
+          DECOMPRESS - - - - - - X -
+               LUNCH - - - - - - X -
+        ./GSPA_BUILD - - - - - - X -
+                  TY - - - - - - - X

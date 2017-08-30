@@ -1,0 +1,10 @@
+                TYPE X - - S -
+           CONFIGURE X - - - -
+     BUILD-ESSENTIAL S - - - -
+             VERSION X - - - -
+             PROBLEM - X - - -
+             INSTALL - - - O -
+         ./CONFIGURE - - - X O
+                SUDO - - - X -
+                BASH - - - X -
+          PERMISSION - - - X -

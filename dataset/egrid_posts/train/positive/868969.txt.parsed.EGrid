@@ -1,0 +1,17 @@
+             SOMEONE X - - -
+                HTTP - X - -
+              GKSUDO - O - -
+                 GUI - X - -
+                APPS - X - -
+                ROOT - X - -
+             PROBLEM - X - -
+               ERROR - X X -
+             MESSAGE - O - -
+            GLIB-GIO - - X -
+/BUILD/BUILDD/GLIB2.0-2.28.6/./GIO/GDBUSCONNECTION.C - - X -
+       INITABLE_INIT - - X -
+           ASSERTION - - X -
+INITIALIZATION_ERROR - - X -
+                  == - - X -
+                NULL - - X -
+             ABORTED - - X -

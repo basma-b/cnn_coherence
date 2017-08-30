@@ -1,0 +1,21 @@
+            ANYTHING O - - - - - - - - -
+            IPTABLES X - - - - - - - - -
+/ETC/NETWORK/INTERFACES X - - - - - - - - -
+/ETC/NETWORK/IF-PRE-UP.D X - - - - - - - - -
+                RULE O - - - - - - - - -
+             STARTUP X - - - - - - - - -
+            MAVERICK - - - X - - - - - -
+                THAT - - - - O - - - - -
+            /ETC/UFW - - - - X - - - - -
+    /ETC/DEFAULT/UFW - - - - O - - - - -
+               10.10 - - - - S - - - - -
+             SUPPORT - - - - X - - - - -
+               ISSUE - - - - - - - O - -
+             DISTROS - - - - - - - - S -
+                BOOT - - - - - - - - X X
+              RESUME - - - - - - - - X -
+                DATA - - - - - - - - S O
+                SWAP - - - - - - - - X -
+             DISTRO1 - - - - - - - - - X
+           HIBERNATE - - - - - - - - - S
+                 RAM - - - - - - - - - X

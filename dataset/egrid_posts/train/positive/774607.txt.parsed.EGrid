@@ -1,0 +1,11 @@
+                 GUY X - - - -
+      VPN-CONNECTION - O - - -
+            LOG-FILE - - X - -
+             MESSAGE - - S - -
+                 VPN - - X - -
+                SHOW - - O - -
+     /VAR/LOG/DAEMON - - - X -
+          CONNECTION - - - O -
+              PLUGIN - - - - X
+             NETWORK - - - - X
+             MANAGER - - - - X

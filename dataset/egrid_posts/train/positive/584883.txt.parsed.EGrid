@@ -1,0 +1,14 @@
+             SOMEONE X - - - -
+               SETUP X - - - -
+              REMOTE O - - - -
+        APPLICATIONS X - - - -
+             PACKAGE S - - - -
+               SPACE O - - - -
+     SSHFS/NFS/SAMBA - S - - -
+          /ETC/FSTAB - X - - -
+              SYSTEM - X - - -
+               STORE - X - - -
+               STUFF - S - - -
+             APT-GET - - O - -
+               /USR/ - - - - X
+                /VAR - - - - X

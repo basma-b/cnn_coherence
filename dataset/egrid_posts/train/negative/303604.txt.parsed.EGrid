@@ -1,0 +1,15 @@
+              ANYONE S - - - -
+            DDRESCUE O - X - -
+                 LOT - S - - -
+            EXAMPLES - X - - -
+           /DEV/HDA1 - X - - -
+   /DEV/HDB1/FOO.IMG - O - - -
+                WORK - O - - -
+                  DD - - O - -
+              FORMAT - - S - -
+         IF=/DEV/HDA - - X - -
+OF=/HOME/USER/DESKTOP/FOO.IMG - - X - -
+        IF=/DEV/HDA1 - - X - -
+                TALK - - O - -
+                  IM - - S - -
+               /BOOT - - - - X

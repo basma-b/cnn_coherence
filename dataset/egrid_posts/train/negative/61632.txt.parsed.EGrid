@@ -1,0 +1,16 @@
+              FOLDER S - - - - -
+               WORLD X - - - - -
+            READABLE X - - - - -
+                 THE - X - - - -
+               CHMOD - S - - - -
+/THE/DIRECTORY/NAME/ - O - - - -
+             O=OTHER - X - - - -
+              R=READ - S - - - -
+            TRAVERSE - X - - - -
+           DIRECTORY - X - - - -
+                LIST - S - - - -
+                  .. - O - - - -
+              SYNTAX - X - - - -
+               ERROR - S - - - -
+                PART - X - - - -
+                 THO - - - X - -

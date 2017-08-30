@@ -1,0 +1,18 @@
+                7.10 X - - - - - - - X
+             UPSTART O - - S - - - - -
+             STARTUP X - - - - - - - -
+               STUFF O - - - - - - - -
+                INIT X - - - - - - - -
+            QUESTION - S - - - - - - -
+             PACKAGE - X - - - - - - -
+          /SBIN/INIT - X - O - - - - -
+//PACKAGES.UBUNTU.COM/SEARCH - - - - X - - - -
+                THAT - - - - - X - - -
+   SEARCHON=CONTENTS - - - - - X - - -
+       KEYWORDS=INIT - - - - - X - - -
+  MODE=EXACTFILENAME - - - - - X - - -
+      SUITE=INTREPID - - - - - X - - -
+            ARCH=ANY - - - - - X - - -
+             VERSION - - - - - - X - -
+              UBUNTU - - - - - - X - -
+                THIS - - - - - - X - -

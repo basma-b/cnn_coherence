@@ -1,0 +1,11 @@
+             PROCESS X - - - - -
+            PRIORITY X - - - - -
+                 THE - - - - X -
+          /SBIN/INIT - - - - S -
+                 TOP - - - - X -
+                HTOP - - - - X -
+              OUTPUT - - - - X -
+                TIME - - - - - X
+                INIT - - - - - S
+                MOST - - - - - S
+           POST-BOOT - - - - - O

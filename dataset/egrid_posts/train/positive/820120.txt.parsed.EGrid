@@ -1,0 +1,10 @@
+            LOCATION X - - - -
+                 ONE X - - - -
+               RSYNC X - - - -
+              OPTION X - - S -
+              BACKUP - X - - -
+              SERVER - - X - -
+                 SSH - - X - X
+                BACK - - - X -
+           DIRECTORY - - - X -
+             MACHINE - - - - X

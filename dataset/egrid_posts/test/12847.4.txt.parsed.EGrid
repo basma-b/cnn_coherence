@@ -1,0 +1,34 @@
+             TROUBLE O - - - - - - - - -
+              UBUNTU X - - - - - - - - -
+             NETBOOK X - - - - - - - - -
+                THAT - X - - - - - - - -
+              NVIDIA - X - - - - - - - -
+             DRIVERS - S - - - - - - - -
+                 ION - X - - - - - - - -
+                CARD - X - - - - - - - -
+            ANYTHING - O - - O - - - - -
+               THERE - - X - - - - - - -
+              ANYONE - - X - - - - - - -
+                GAME - - - O - - - - - -
+                   * - - - X - - - - - -
+       NVIDIA-COMMON - - - O - - - - - -
+XSERVER-XORG-VIDE-NOUVEAU - - - X - - - - - -
+                SUDO - - - - - X - - - -
+                  -C - - - - - S - - - -
+             DISPLAY - - - - - O - - - -
+              DRIVER - - - - - X - - - -
+                 YES - - - - - - S - - -
+          CUSTOM.CFG - - - - - - - S - -
+            GRUB.CFG - - - - - - - O S -
+                   $ - - - - - - - - O -
+UPDATE-GRUB/GRUB-MKCONFIG - - - - - - - - X -
+                LINE - - - - - - - - O -
+              SOURCE - - - - - - - - X -
+               -RSB- - - - - - - - - X -
+                BOOT - - - - - - - - X -
+              DEVICE - - - - - - - - - X
+                NODE - - - - - - - - - S
+               DRIVE - - - - - - - - - X
+                ROOT - - - - - - - - - X
+           PARTITION - - - - - - - - - O
+                 USE - - - - - - - - - X

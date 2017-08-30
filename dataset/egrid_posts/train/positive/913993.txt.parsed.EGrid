@@ -1,0 +1,20 @@
+               HOARY O - - - - - - -
+                   X O - - - - - - -
+              MODULE O - - - - - - -
+              NVIDIA X - - - - - - -
+            POINTERS - X - - - - - -
+              EXPORT - - X - - - - -
+              PCIEHP - - O - - - - -
+/ETC/HOTPLUG/BLACKLIST - - X - - - - -
+               ERROR - - S - - - - -
+                 FIX - - O - - - - -
+         LINUX-IMAGE - - - O - - - -
+  RESTRICTED-MODULES - - - X - - - -
+                THAT - - - - X - - -
+             PACKAGE - - - - X - - -
+                GRUB - - - - - S - -
+                 USE - - - - - - X -
+                DPKG - - - - - - X -
+                  -L - - - - - - S -
+                GREP - - - - - - O -
+              COLUMN - - - - - - - X

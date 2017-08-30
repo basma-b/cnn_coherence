@@ -1,0 +1,9 @@
+/PROC/SYS/KERNEL/HOSTNAME S - - S - - - -
+             PROGRAM - X - - X - - -
+                FILE - O - - O - X -
+              KERNEL - - X - - - - -
+             VERSION - - X - - - - -
+                TYPE - - - - - - - S
+                  -A - - - - - - - O
+            TERMINAL - - - - - - - X
+              OUTPUT - - - - - - - S

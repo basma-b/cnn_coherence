@@ -1,0 +1,19 @@
+                WORK X - - - -
+                 CUP X - - - -
+            LOCATION - S X X -
+/ETC/CUPS/CUPSD.CONF - O - - -
+                LINE - O - - -
+           AUTHCLASS - S - - -
+           AUTHSTYLE - X - - -
+            AUTHTYPE - S - - -
+                YOUI - S - - -
+               CLASS - O X S -
+                THAT - - O - -
+                   < - - X - -
+               PRINT - - - X -
+            PRINTERS - - - O -
+                 WAY - - - X -
+                 JOB - - - S -
+             PRINTER - - - X -
+               INPUT - - - X -
+             NOTHING - - - - X

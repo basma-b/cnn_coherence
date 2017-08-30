@@ -1,0 +1,21 @@
+             PROGRAM O - S - - - - -
+                 SAY X - - - - - - -
+             VERSION O - - - - - - -
+                HOME X - - - - - - -
+              FOLDER X - - - - - - -
+                SOME X - - - - - - -
+             DEFAULT S - - - - - - -
+                SUDO X - - - X - - -
+             APT-GET O - - - - - - -
+              INSTAL - - O - - - - -
+        CHECKINSTALL - - - - O - - -
+                ROOT - - - - X - - -
+              PREFIX - - - - X - - S
+                CANT - - - - - - S -
+                PART - - - - - - X -
+                WONT - - - - - - - X
+              CONFIG - - - - - - - S
+                  .. - - - - - - - O
+         ./CONFIGURE - - - - - - - X
+PREFIX=/USR/LOCAL/TUPI - - - - - - - X
+WITH-QTDIR=/HOME/TEAGE/QT/QT - - - - - - - X

@@ -1,0 +1,13 @@
+              PARENT X - - - -
+                 HDD S - - - -
+                DUMP O - - - -
+               IMAGE O - - - -
+               DRIVE X - - O -
+             WINDOWS O - - - -
+                 OEM - X - X -
+                 ONE - X - - -
+              OUTPUT - - - - O
+             FUSEBLK - - - - X
+              KERNEL - - - - X
+                NTFS - - - - X
+              DRIVER - - - - X

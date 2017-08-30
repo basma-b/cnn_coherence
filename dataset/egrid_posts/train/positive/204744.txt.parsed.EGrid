@@ -1,0 +1,16 @@
+               START X - - - - -
+                TEXT X - - - - -
+                MODE X - - - - -
+             DEFAULT X - X - - -
+                   X - X - - - -
+          FRYINGFISH - O - - - -
+                 GDM - O - S - -
+                DONT - - X - - -
+                SUDO - - - X - -
+         UPDATE-RC.D - - - - S -
+     /ETC/INIT.D/GDM - - - - S -
+               PURGE - - - - X -
+                 USE - - - - X -
+                  -F - - - - S -
+             APT-GET - - - - - S
+      UBUNTU-DESKTOP - - - - - O

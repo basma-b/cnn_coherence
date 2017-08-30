@@ -1,0 +1,13 @@
+                 LTS X - - - - -
+               11.10 - S - - - -
+                  HM - S - - - -
+             RELEASE - O - - - -
+            PASSWORD - - O - - O
+                   A - - - O - -
+          SECONDLINE - - - X - -
+              DOUBLE - - - - X -
+             SUDOERS - - - - - S
+                LINE - - - - - O
+                   > - - - - - X
+        ALL=NOPASSWD - - - - - O
+                 ALL - - - - - X

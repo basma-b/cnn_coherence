@@ -1,0 +1,17 @@
+               OWNER X - - - -
+              FOLDER X - - - -
+                USER - O - - -
+               GROUP - X - - -
+       /PATH/TO/FILE - X - - -
+             WINDOWS - X S X X
+                 AVI - X - - -
+                FILE - S - - X
+              CODECS - - O - -
+             FFDSHOW - - - X -
+               LINUX - - - - X
+               MOVIE - - - - X
+               MAKER - - - - X
+           SOMETHING - - - - O
+          INTERFACES - - - - X
+              ENCODE - - - - X
+             ENCODER - - - - O

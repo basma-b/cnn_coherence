@@ -1,0 +1,11 @@
+                THAT X - - - -
+                  HI X - - - -
+              SERVER O - - - -
+             ADDRESS X - - - -
+            10.0.0.1 O - - - -
+            10.0.0.2 X - - - -
+            IPTABLES O S - - -
+             PACKAGE O - - - -
+               INPUT - X X - -
+                  -D - O S - -
+                DROP - - X O -

@@ -1,0 +1,37 @@
+              PERSON S - - - - - - - - - - - -
+            PASSWORD X - - - - - - - - - - - -
+            COMPUTER X S - - - - - - - - - - -
+                PAGE X - - - - - - - - - - - -
+            RECOVERY X S - - - - - - - - - - -
+              ACCESS - O - - - - - - - - - - -
+                USER - X - - - - - - - - - - -
+               THING - O - - - - - - - - - - -
+                BOOT - X - - - - - - - - - - -
+             OPTIONS - X - - - - - - - - - - -
+            GRUB.CFG - - O - - - - - - - - - -
+GRUB_DISABLE_LINUX_RECOVERY=TRUE - - - S - - - - - - - - -
+   /ETC/DEFAULT/GRUB - - - X - - - - - - - - -
+                LINE - - - O - - - - - - - - -
+             DEFAULT - - - - X - - - - - - - -
+               VALUE - - - - O - - - - - - - -
+           VARIABLES - - - - - - - O - - - - -
+           SOMETHING - - - - - - - O - - - - -
+               THESE - - - - - - - - S - - - -
+                HTTP - - - - - - - - O - - - -
+//PASTE.UBUNTU.COM/1342234/ - - - - - - - - S - - - -
+             COMMENT - - - - - - - - S - - - -
+                HELP - - - - - - - - - O - - -
+          SITUATIONS - - - - - - - - - X - - -
+               GRUB2 - - - - - - - - - S - - -
+            DOCUMENT - - - - - - - - - X - - -
+             ENTRIES - - - - - - - - - X - - -
+               12.10 - - - - - - - - - - - X -
+             PROBLEM - - - - - - - - - - - O -
+              WINDOW - - - - - - - - - - - - O
+           INDICATOR - - - - - - - - - - - - X
+                AREA - - - - - - - - - - - - X
+               CLICK - - - - - - - - - - - - X
+            INSTANCE - - - - - - - - - - - - O
+               XCHAT - - - - - - - - - - - - X
+                  .. - - - - - - - - - - - - X
+            SYMPTOMS - - - - - - - - - - - - X

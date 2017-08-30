@@ -1,0 +1,22 @@
+                 CAT X - X -
+           /DEV/NULL X - X -
+                   > X - X -
+/VAR/SPOOL/MAIL/ROOT O - X -
+          PERMISSION S - - -
+                ROOT - X - -
+               ISSUE - S - -
+              METHOD - X - -
+             MAILBOX - X - -
+                SUDO - - X -
+         REDIRECTION - - O -
+                 TEE - - O -
+               SENSE - - X -
+                BASH - - X -
+                  -C - - X -
+               CHECK - - X -
+              MEMORY - - X -
+               USAGE - - O -
+               THERE - - - S
+              UPDATE - - - X
+             MANAGER - - - S
+             VERSION - - - O

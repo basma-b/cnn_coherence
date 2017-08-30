@@ -1,0 +1,15 @@
+              BINARY O - - - - X - -
+                  .. O - - - - - X -
+                  LS X - - - - - - -
+               IDEAS X - - - - - - -
+           DIRECTORY - X - - - - - -
+               BREAK - - X - - - - -
+             SYMLINK - - O - O - - -
+                FILE - - - X - - O X
+        ./EXECUTABLE - - - X - - - X
+             COMMAND - - - X - - - S
+          EXECUTABLE - - - - - O - -
+              UBUNTU - - - - - X - -
+              SYSTEM - - - - - X - -
+             LIBRARY - - - - - - X -
+               ISSUE - - - - - - O -

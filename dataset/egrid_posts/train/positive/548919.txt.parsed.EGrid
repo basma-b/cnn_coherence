@@ -1,0 +1,15 @@
+              KERNEL X X - - -
+              MODULE - S S - X
+               RMMOD - S S - -
+                 USE - X X X -
+               ERROR - - O - -
+        SAA7134_ALSA - - S - -
+               LSMOD - - X - -
+                   > - - X - -
+                  .. - - O - -
+            ANYTHING - - X - -
+                 V4L - - S - S
+                V4L2 - - - S -
+                 DEP - - - - O
+                  TV - - - - X
+                CARD - - - - S

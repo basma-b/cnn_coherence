@@ -1,0 +1,12 @@
+         NDISWRAPPER S - - - - - -
+                WORK O - - - - - -
+               DMESG - X - - - - -
+     LOADNDISWRAPPER - X - - - - -
+               CHECK - X - - - - -
+              SYSTEM - X X - - - -
+                 LOG - X - - - - -
+             MESSAGE - X - - - - -
+      LOADNDISDRIVER - X - - - - -
+              SYSLOG - - - - X - -
+                PART - - - - - - X
+               STUFF - - - - - - X

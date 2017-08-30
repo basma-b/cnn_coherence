@@ -1,0 +1,15 @@
+              SERVER X X X - - -
+                ROOT O - - - - -
+             EXPLOIT S - - - - -
+             PROBLEM X - - - - -
+               SHELL X - X - - -
+                USER O S - - - -
+              |GRUB2 X - - - - -
+                PRIV O - - - - -
+             MACHINE X - - - - -
+              ACCESS - O - - - -
+               USERS - - S - O -
+              THINGS - - - - S -
+              CHROOT - - - - - X
+                JAIL - - - - - S
+               BREAK - - - - - X

@@ -1,0 +1,13 @@
+/ETC/MODPROBE.D/BLACKLIST X - - - - - - - -
+                LINE S - - - - - - - -
+              8139CP X - O - S - - - -
+               LSMOD - - S - - - - - -
+               ENTRY - - X - - - - - -
+                SUDO - - - - X - - - -
+            MODPROBE - - - - X - - - -
+                  -R - - - - X - - - -
+                WONT - - - - S - - - -
+              MEMORY - - - - X - - - -
+                LOAD - - - - X - - - -
+            ARGUMENT - - - - - O - - -
+                WORD - - - - - - X - -

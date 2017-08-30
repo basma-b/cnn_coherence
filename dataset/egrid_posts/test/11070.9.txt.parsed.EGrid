@@ -1,0 +1,7 @@
+                 USE S - -
+               LSPCI - X -
+                   | - S -
+                 VGA - S -
+             COMMAND - X -
+                 PID - - X
+      WPA_SUPPLICANT - - X

@@ -1,0 +1,24 @@
+              REASON X - - - - - - - -
+                IMAP - O - - - - - - -
+           FIREWALLS - O - - - - - - -
+            IPTABLES - - X S S - - S -
+                HTTP - - X - - - - - -
+//WWW.CYBERCITI.BIZ/TIPS/LINUX-IPTABLES-13-HOW-TO-ALLOWOPEN-IMAP-SERVERPROTOCOL.HTML - - X - - - - - -
+               GUIDE - - S - - - - - -
+               THING - - S - - - - - -
+/ETC/INIT.D/IPTABLES - - X O - - - - -
+                FILE - - X - - - - - -
+           DIRECTORY - - X - - - - - -
+                DOES - - X - - - - - -
+                WORK - - X - - - O - -
+             DISABLE - - X - - - - - -
+                  .. - - - O - - - O -
+               THERE - - - S - - - - -
+               CHAIN - - - - - X - - -
+                LIST - - - - - O - - -
+                RULE - - - - - X - X -
+                   > - - - - - O - - -
+             RESTART - - - - - - - O -
+             DOVECOT - - - - - - - X -
+                 SET - - - - - - - O -
+                  OK - - - - - - - - X

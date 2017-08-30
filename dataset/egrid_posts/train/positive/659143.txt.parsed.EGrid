@@ -1,0 +1,20 @@
+                FILE X - O - S - - -
+         DIRECTORIES X - - - - - - -
+         PERMISSIONS O - X - - - - -
+                   | - X S - - - - X
+                GREP - S X - - - - X
+           RWXRWXRWX - - S - - - - O
+                INFO - - X - - - - -
+                LIST - - X - - - - -
+             NOTHING - - O - - - - -
+                JUMP - - X - - - - -
+                LINE - - X - - - - -
+           DIRECTORY - - X - - - - -
+                -HOR - - X - - - - -
+              RESULT - - O - - - - -
+               PATHS - - O - X - - -
+                  OK - - - - X - - -
+                  .. - - - - X - - -
+/USER/PRIVATE/FOLDER/LIST.TXT - - - - O - - -
+             MESSAGE - - - - O - - -
+               XARGS - - - - - - - S

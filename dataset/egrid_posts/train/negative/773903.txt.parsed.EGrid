@@ -1,0 +1,15 @@
+       /PROC/BUS/USB X - - - - - - -
+                10.X X - - - - - - -
+                 USB - X - - - - - -
+          FILESYSTEM - X - O - - - -
+             CONSOLE - X - - - - - -
+                 USE - - O - - - - -
+                SUDO - - X - - - - -
+          /MEDIA/USB - - O O - - - -
+           DIRECTORY - - - O - - - -
+            /DEV/SDX - - - - O - - -
+              DEVICE - - - - X - - -
+                PATH - - - - X - X -
+         RUNFROST.SH - - - - - - S -
+               CHECK - - - - - - - X
+           FROSTWIRE - - - - - - - X

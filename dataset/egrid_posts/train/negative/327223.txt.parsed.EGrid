@@ -1,0 +1,14 @@
+                  DD X - O - S - -
+         IF=/DEV/SDB X - - - - - -
+         OF=/DEV/SDA X - - - - - -
+           PARTITION X X O - - - -
+                BOOT X - - - - - -
+              LOADER X - - - - - -
+               DRIVE X - - - S - -
+                 SDA X - - - - - -
+               TABLE - S - - - - -
+                 GIG - O - - X - -
+                SDA1 - - X - - - -
+                SDB1 - - - - X - -
+          BOOTLOADER - - - - O - -
+               THANX - - - - - - X

@@ -1,0 +1,8 @@
+                USER X - -
+          PERMISSION X - -
+                FILE O - X
+              SUBDIR X - -
+         /USR/SHARE/ X - -
+              NORMAL - O -
+                   * - S -
+              RESULT - - S

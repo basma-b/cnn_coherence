@@ -1,0 +1,17 @@
+          FILESYSTEM X - - - - - -
+                  EG O - - - - - -
+            REISERFS O - - - - - -
+                EXT3 O - - - - - -
+                 CAT - X - - - - -
+          /ETC/FSTAB - O - - - - -
+             REISER4 - X - - - - -
+                 ONE - - X S - - -
+                SUDO - - - S X X -
+         /DEV/CDROM0 - - - X - - -
+             COMMAND - - - X - - -
+              FREEZE - - - S - - -
+                 K3B - - - - O - -
+              OUTPUT - - - - X - -
+             KILLALL - - - - - S -
+                KILL - - - - - - X
+             PROCESS - - - - - - X

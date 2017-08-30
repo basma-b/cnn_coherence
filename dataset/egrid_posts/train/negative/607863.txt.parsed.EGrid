@@ -1,0 +1,14 @@
+          PULSEAUDIO X - - -
+                 RUN X - - -
+           SOMETHING - X - -
+                STOP - - X -
+                SUDO - - X -
+/ETC/INIT.D/PULSEAUDIO - - X -
+                 USE - - S -
+             PACKAGE - - S -
+         METAPACKAGE - - O -
+             AVIABLE - - X -
+                BOTH - - O -
+               THOSE - - X -
+                ONES - - S -
+             PROBLEM - - - X

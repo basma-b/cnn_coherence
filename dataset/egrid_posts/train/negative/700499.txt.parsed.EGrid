@@ -1,0 +1,13 @@
+        GCONF-EDITOR S - - - - - - -
+             WINDOWS X - - - - - - -
+            SETTINGS - X - - - - - -
+              WINDOW - - - - - - X -
+              BUTTON - - - - - - X -
+            POSITION - - - - - - S -
+               ENTRY - - - - - - X -
+                DONT - - - - - - - S
+          ROOT-SHELL - - - - - - - O
+                SUDO - - - - - - - S
+             COMMAND - - - - - - - X
+               CACHE - - - - - - - X
+            PASSWORD - - - - - - - O

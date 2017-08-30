@@ -1,0 +1,20 @@
+             ANYBODY X - - - - - - - - - -
+                BOOT - X - - - - - - - - -
+              UBUNTU - X - - - - - - - - -
+          CONNECTION - S O - - - - - - - -
+                LIST - O - - - - - - - - -
+          NETWORKING - X - - - - - - - - -
+            INTERNET - O - O - - - - - - -
+      NETWORKMANAGER - - S - - - - - - - -
+             NETWORK - - X - - - - - - - -
+               ROUTE - - S O S - - - - - -
+             DEFAULT - - - X O - - - - - -
+                THAT - - - - O - - - - - -
+             PROBLEM - - - - O - - - - - -
+                 RA0 - - - - S - - - - - -
+              KERNEL - - - - X - - - - - -
+               SCOPE - - - - S - - - - - -
+                NEED - - - - - - X - - - -
+                DHCP - - - - - - - - O - -
+                FILE - - - - - - - - - - X
+/ETC/NETWORK/INTERFACES - - - - - - - - - - O

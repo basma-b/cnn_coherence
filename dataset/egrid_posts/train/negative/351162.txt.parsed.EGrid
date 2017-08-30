@@ -1,0 +1,16 @@
+             COMMAND O - - - -
+                HTTP S O - - -
+                   | X - - - -
+                SUDO X X - - -
+             APT-KEY S - - - -
+                 KEY O - - - -
+                 WAY X - - - -
+                LIST - S - - -
+                  ID - O - - -
+               KEYID - X - - -
+                   > - X - - -
+                 MAN - X - - -
+             OPTIONS - X - - -
+                 ONE - S X S -
+                 TWO - - O - -
+                DISC - - - - O

@@ -1,0 +1,21 @@
+       CONFIGURATION X - - - - -
+    /ETC/RESOLV.CONF - S - - - -
+         NAMESERVERS - X - - - -
+                HAND - - X - - -
+               CLICK - - X - - -
+             NETWORK - - X - - X
+             MANAGER - - X - - -
+               THING - - X - - -
+                CANT - - X - - -
+                MODE - - O X - -
+                  IM - - - S - -
+                WORK - - - O - -
+             APT-GET - - - X - -
+              RESCUE - - - X - -
+             ADDRESS - - - - - X
+/ETC/NETWORK/INTERFACES - - - - - X
+               START - - - - - X
+             NOTHING - - - - - O
+                PING - - - - - X
+             GATEWAY - - - - - X
+         UNREACHABLE - - - - - O

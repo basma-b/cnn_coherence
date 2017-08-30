@@ -1,0 +1,15 @@
+             STARTUP X - - - - -
+                GRUB X - - - - -
+                MENU X - - - - -
+               12.04 X - - - - -
+              RETURN - - X - - -
+             NOTHING - - O - - -
+ /BOOT/GRUB/GRUB.CFG - - X - - -
+            WINDOWS7 - - - O - -
+             DEFAULT - - - X - -
+   /ETC/DEFAULT/GRUB - - - O - -
+           DIFFERENT - - - - X -
+              UBUNTU - - - - X -
+               PRINT - - - - - X
+             MESSAGE - - - - - O
+            TERMIANL - - - - - X

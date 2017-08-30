@@ -1,0 +1,20 @@
+           PARTITION X - S O - - - -
+                BOOT X - X - - - - -
+                FLAG X - - - - - - -
+                THAT - - S - - - - -
+                GRUB - - S X - - - -
+                 MBR - - X - - - - -
+            ANYTHING - - O - - - - -
+              KERNEL - - O - - - - -
+               /BOOT - - - X - - - -
+              GROOT= - - - S - - - -
+               HD0,1 - - - X - - - -
+               ERROR - - - X - - - -
+             VANILLA - - - X - - - -
+       CONFIGURATION - - - O - - - -
+/BOOT/GRUB/DEVICE.MAP - - - - S - - -
+          DEVICE.MAP - - - - - S - -
+                LINE - - - - - O - -
+                 HD0 - - - - - X - -
+            /DEV/SDA - - - - - S - -
+                LOOK - - - - - - - O

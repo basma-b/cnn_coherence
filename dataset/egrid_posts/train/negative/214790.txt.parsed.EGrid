@@ -1,0 +1,13 @@
+              DEVICE O - -
+                ROOT X - -
+              LIVECD X - -
+                DOCO - S -
+                GRUB - X -
+                   > - S -
+   /BOOT/GRUB/STAGE1 - O -
+              HOWVER - O -
+                 CAT - O -
+ /BOOT/GRUB/MENU.1ST - X -
+               START - - X
+             BATTERY - - X
+               STATE - - X

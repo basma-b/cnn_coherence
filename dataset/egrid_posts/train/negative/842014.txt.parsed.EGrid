@@ -1,0 +1,17 @@
+            CPUFREQD X - - - -
+                 USE - O - - -
+              ERRORS - O - - -
+/SYS/DEVICES/LNXSYSTM:00/DEVICE:00/PNP0C0A:00/POWER_SUPPLY/BAT0/CURRENT_NOW - X - - -
+                ANY1 - S - - -
+               BUNCH - - S - -
+              THINGS - - X - -
+              DESIRE - - - X -
+           SCHEDULER - - - X -
+               VALUE - - - O -
+             /POWER/ - - - X -
+                FILE - - - X -
+                 FUN - - - - X
+                  UM - - - - S
+                 LOT - - - - O
+            BUGFIXES - - - - X
+        REPOSITORIES - - - - X

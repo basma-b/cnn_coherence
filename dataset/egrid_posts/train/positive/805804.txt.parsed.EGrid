@@ -1,0 +1,17 @@
+               STUFF S - - - -
+               FSTAB S - - - -
+                 WAY O - - - -
+                TOOL O - - - -
+              THINGS O - - - -
+                BOOT X X - - -
+         FILESYSTEMS X - - - -
+            ECRYPTFS S - - - -
+            .PRIVATE O - - - -
+               LOGON - - X - -
+                 KEY - - O - -
+                USER - - X - -
+             KEYRING - - X - -
+               LOGIN - - - - X
+               THERE - - - - S
+              SCRIPT - - - - S
+ECRYPTFS-MOUNT_PRIVATE - - - - X

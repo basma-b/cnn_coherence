@@ -1,0 +1,15 @@
+             COMMAND O - - -
+                LFTP X - - -
+                 FTP X - - -
+         //USER/NAME X - - -
+            PASSWORD X - - -
+         EXAMPLE.COM X - - -
+             ACCOUNT X - - -
+                NAME O X - -
+              CHANGE O - - -
+                THIS - S - -
+               ERROR - X - -
+             SERVICE - S - -
+                   / - X - -
+            USERNAME - X - -
+                 YES - - - X

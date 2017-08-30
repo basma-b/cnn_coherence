@@ -1,0 +1,16 @@
+             SUPPORT O - - -
+               TOTEM X - - -
+           W32CODECS - X - -
+              EXPORT - - O -
+                NEED - - X -
+                 NFS - - X -
+             SERVICE - - O -
+/ETC/INIT.D/NFS-KERNEL-SERVER - - X -
+               SHARE - - O O
+            COMPUTER - - X -
+          NFS-COMMON - - X -
+                THAT - - - S
+               MOUNT - - - X
+               POINT - - - O
+             EXAMPLE - - - X
+        /MEDIA/MOUNT - - - X

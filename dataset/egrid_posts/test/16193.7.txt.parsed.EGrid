@@ -1,0 +1,16 @@
+             PROCESS X - - - -
+       CONFIGURATION - - O - -
+              SERVER - - X - -
+                CELL - - X - -
+                  ID - - O - -
+             ADDRESS - - O - -
+            IFCONFIG - - X - -
+                  -A - - S - -
+             NETMASK - - O - -
+         255.255.255 - - X - -
+             10.0.02 - - X - -
+               OTHER - - O - -
+         DESTINATION - - - X -
+                HOST - - - X -
+         UNREACHABLE - - - X -
+               ERROR - - - O -

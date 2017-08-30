@@ -1,0 +1,15 @@
+/VAR/CACHE/APT/ARCHIVES S - - -
+                 USE O - - -
+           BACKPORTS X - - -
+                LINE X - - -
+                 BRB O - - -
+               XCHAT O - - -
+           PARTITION - - X -
+                TYPE - - X -
+                VFAT - - X -
+             OPTIONS - - X -
+      IOCHARSET=UTF8 - - X -
+           UMASK=000 - - X -
+           RECOGNISE - - - X
+               UTF-8 - - - O
+             WINDOWS - - - O

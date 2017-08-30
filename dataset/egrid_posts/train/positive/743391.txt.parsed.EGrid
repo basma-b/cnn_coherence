@@ -1,0 +1,16 @@
+                CUPS S - -
+                BOOT X - -
+                 BUN - S -
+               CHECK - O -
+          AUTO-START - X -
+                 BUM - X -
+                SUDO - X -
+                 CUP - X X
+             DEFAULT - O -
+         UPDATE-RC.D - - X
+                STOP - - X
+            RUNLEVEL - - X
+           ARGUMENTS - - S
+                 LSB - - X
+        DEFAULT-STOP - - X
+               VALUE - - O

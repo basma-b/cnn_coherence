@@ -1,0 +1,12 @@
+              FORMAT X X - - O - -
+               FLASH X - - - - - -
+               DRIVE X - - - - - -
+              UBUNTU - X - - - - -
+             WINDOWS - X - - X - X
+                  .. - X - - - - -
+          FILESYSTEM - X - - - - -
+             SYSTEMS - X - - - - -
+               FAT32 - - - X - X -
+           EXT2/EXT3 - - - - X - -
+           FS-DRIVER - - - - O - -
+        PARTITION/PC - - - - X - -

@@ -1,0 +1,15 @@
+                7.10 S - - - -
+                LOAD O - - - -
+           INTERFACE X - - - -
+             COMMAND X - - - -
+                LINE X - - - -
+                 GUI X - - - -
+                SUDO - - X - -
+     /ETC/INIT.D/GDM - - S - -
+                THAT - - - S -
+ /VAR/LOG/XORG.0.LOG - - - O -
+                XORG - - - - X
+                 LOG - - - - X
+                FILE - - - - X
+                HTTP - - - - O
+//PASTEBIN.COM/M5AA75C9B - - - - X

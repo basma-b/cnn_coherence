@@ -1,0 +1,10 @@
+             COMMAND S - -
+              ANYONE - S -
+           ALSAMIXER - O -
+            FUNCTION - X -
+        SND_CTL_OPEN - S -
+             DEFAULT - X -
+              DEVICE - X -
+                  .. - - O
+               SOUND - - X
+               ISSUE - - X

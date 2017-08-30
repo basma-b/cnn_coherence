@@ -1,0 +1,22 @@
+             HANDLER X - - - - -
+                ASDF O - - - - -
+             PROGRAM X - - - - -
+                 GUI - X X - - -
+                PART - - X - - -
+        GCONF-EDITOR - - - X - -
+/DESKTOP/GNOME/URL-HANDLERS - - - X - -
+                TYPE - - - S - -
+                LIST - - - X - -
+                  .. - - - O - -
+.GCONF/APPS/GNOME/URL-HANDLERS - - - X - -
+              CUSTOM - - - X - -
+                   A - - - - X -
+                 ONE - - - - S -
+              SYSTEM - - - - X -
+            PACKAAGE - - - - O -
+             COMMAND - - - - O -
+                PATH - - - - X -
+            DIRECORY - - - - X -
+               UNZIP - - - - - O
+             PACKAGE - - - - - X
+             MANAGER - - - - - X

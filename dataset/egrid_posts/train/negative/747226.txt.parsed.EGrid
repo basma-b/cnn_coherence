@@ -1,0 +1,26 @@
+                 HEY X - - - - - - -
+                 GUY X - - - - - - -
+             PROBLEM O - - - - - - -
+               LUCID X - - - - - - -
+                BOOT - X - - - - - -
+GNOME-NETWORK-MANAGER - S - - - - - -
+            WIRELESS - X - - O - - -
+             DISABLE - O - - - - - -
+        MANAGED=TRUE - - X - - - - -
+WIRELESSENABLED=TRUE - - O - - - - -
+                  .. - - X - - - - -
+/NETWORKMANAGER.STATE - - O - - - - -
+             NOTHING - - - S - - - -
+                TOOL - - - - X - - -
+             DEFAULT - - - - X - - -
+               INTEL - - - - - S - -
+                CARD - - - - - X - -
+                   A - - - - - - O -
+                THIS - - - - - - O -
+       /ETC/RC.LOCAL - - - - - - X -
+            BROADCOM - - - - - - X -
+            SOFTWARE - - - - - - X -
+              SWITCH - - - - - - O -
+             COMMAND - - - - - - O -
+                SUDO - - - - - - - X
+              UPDATE - - - - - - - X

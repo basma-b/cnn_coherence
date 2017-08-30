@@ -1,0 +1,15 @@
+     BUILD-ESSENTIAL - S S -
+             DEFAULT - X - -
+            COMPILER - S - -
+          DEPENDENCY - O X -
+             PACKAGE - X O -
+                META - - X -
+                TOOL - - O -
+                HAND - - X -
+                DPKG - - - S
+                THIS - - - S
+                   | - - - X
+                   > - - - X
+                 G++ - - - X
+                MAKE - - - X
+            DPKG-DEV - - - X

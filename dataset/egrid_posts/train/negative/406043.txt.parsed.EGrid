@@ -1,0 +1,13 @@
+                TIME X - -
+            CDRECORD S - -
+           PERMISION O - -
+              DEVICE O O -
+                THIS O - -
+                USER - S -
+               GROUP - X -
+              ACCESS - X -
+               NEEDS - X -
+            UNIVERSE - - X
+          REPOSITORY - - X
+             UNIVERS - - S
+            SYNAPTIC - - X

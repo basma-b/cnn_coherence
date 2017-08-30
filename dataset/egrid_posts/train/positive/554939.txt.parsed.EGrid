@@ -1,0 +1,18 @@
+           DIRECTORY X - - - - - - - - -
+                  .. O - - - - S X - - -
+             DEFAULT X - - - - - - - - -
+              CONFIG X - - - - - - - - X
+                FILE X - - O - - - - - S
+               SAMBA - S - - - X - - - -
+/USR/SBIN/DPKG-RECONFIGURE - X - - - - - - - -
+               BREAK - X - - - - - - - -
+              SOURCE - - X - X - - - - -
+               STAGE - - - X - - - - - -
+         S/SPKG/DPKG - - - X - - - - - -
+             PACKAGE - - - X - - - - - -
+             MANAGER - - - X - - - - - -
+             APT-GET - - - O - O - - - -
+                SUDO - - - - - X - - - -
+               ERROR - - - - - - - X - -
+             MESSAGE - - - - - - - X - -
+                HTTP - - - - - - - - - S

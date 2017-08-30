@@ -1,0 +1,12 @@
+              CLIENT X - - - -
+                 NFS X - - - -
+             ENTRIES S - - - -
+          /ETC/FSTAB X - - - -
+             PROBLEM - - - S O
+             NETWORK - - - O S
+                DHCP - - - X -
+              ASSIGN - - - O -
+             NFS/NIS - - - - X
+            HOMEAREA - - - - X
+              SCRIPT - - - - O
+              AUTOFS - - - - O

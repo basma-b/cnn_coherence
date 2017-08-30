@@ -1,0 +1,19 @@
+             COMMAND O O - - X - - - - -
+              BACKUP X X - - - - - - - -
+               DRIVE S S - - - - - - - -
+                 ISO X X - - - - - - - -
+                  DD X X - - - - - - - -
+OF=/PATH/TO/BACKUP.ISO X X - - - - - - - -
+                FILE X X - - - - - - - -
+                DISK - - X - - - - - - -
+               ERROR - - - - X - - - - -
+               CLICK - - - - - X - - - -
+                   > - - - - - - X - - -
+                SUDO - - - - - - X - - -
+           PARTITION - - - - - - X - - -
+         /MNT/FOLDER - - - - - - O - - -
+                WUBI - - - - - - - - S -
+                HTTP - - - - - - - - X -
+                BOOT - - - - - - - - X -
+                7.04 - - - - - - - - X -
+                7.10 - - - - - - - - - X

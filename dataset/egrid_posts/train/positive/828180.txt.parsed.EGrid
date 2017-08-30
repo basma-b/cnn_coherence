@@ -1,0 +1,12 @@
+                USER X - - - - -
+             PROCESS S - - - - -
+                  PS - X - - - -
+                   | - S - - - -
+                  .. - - X - - -
+                .PID - - - X - -
+          BACKGROUND - - - - - X
+               STORY - - - - - X
+               NGINX - - - - - O
+                -LHA - - - - - X
+  /VAR/RUN/NGINX.PID - - - - - O
+                ROOT - - - - - X

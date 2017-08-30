@@ -1,0 +1,12 @@
+                   ' - X -
+                VBOX - X -
+               32BIT - O -
+                 ENV - O -
+            PARALLEL - X -
+              64-BIT - X -
+              CHROOT - S -
+               THING - S -
+                  -R - X -
+              KERNEL - O -
+                 X86 - - O
+              X86_64 - - X

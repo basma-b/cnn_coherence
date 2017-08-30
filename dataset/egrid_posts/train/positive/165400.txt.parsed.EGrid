@@ -1,0 +1,10 @@
+            IPTABLES S - - - - X
+          MASQUERADE X - - - - -
+                  IP - O - - - -
+           COMPUTERS - S - - - -
+              ACCESS - O - - - -
+             OUTSIDE - X - - - -
+                IDEA - O - - - -
+              ANYONE - X - - - -
+             COMMAND - - X - - -
+               REPLY - - - - O -

@@ -1,0 +1,12 @@
+                TIME X - - -
+              VOL_ID S - - -
+               BLKID X - - -
+                 WAY X - - -
+        CHECKINSTALL - - O -
+                 DEB - - O -
+              SOURCE - - X -
+                STEP - - S -
+               USUAL - - X -
+         ./CONFIGURE - - S -
+                FILE - - O -
+                DPKG - - - O

@@ -1,0 +1,20 @@
+             COMMAND X - - - - - - X - -
+             SECTORS O - - - - - - - - -
+              COURSE - X - - - - - - - -
+           BADBLOCKS - - X - - - - - - -
+            SMARTCTL - - O - - - - - - -
+         NDISWRAPPER - - - - O - - - - X
+             DRIVERS - - - - O - - - - O
+                THAT - - - - - - O - - -
+              MODULE - - - - - - O - - -
+              DRIVER - - - - - - - X - -
+               OTHER - - - - - - - S - -
+              OUTPUT - - - - - - - X - -
+                 USE - - - - - - - - X X
+            MODPROBE - - - - - - - - S -
+                 TEL - - - - - - - - X -
+                THIS - - - - - - - - - S
+               LINUX - - - - - - - - - X
+             DEVICES - - - - - - - - - X
+               HTTPS - - - - - - - - - X
+//HELP.UBUNTU.COM/COMMUNITY/WIFIDOCS/DRIVER/NDISWRAPPER - - - - - - - - - X

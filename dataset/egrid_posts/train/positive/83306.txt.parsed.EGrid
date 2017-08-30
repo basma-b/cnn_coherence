@@ -1,0 +1,14 @@
+           PARTITION - X - - - X -
+               FSTAB - X - - - - -
+            /WINDOWS - S - - - - -
+             DEFAULT - O - - - - -
+              CHANGE - - X - - - -
+            DEFAULTS - - S - - - -
+               USERS - - O - - - -
+          UMASK=1000 - - X - - - -
+                 GRR - - - X - - -
+                 SAY - - - X - - -
+              DIVICE - - - X - - -
+               DRIVE - - - X - - -
+               WRITE - - - - - O -
+                 NOY - - - - - X -

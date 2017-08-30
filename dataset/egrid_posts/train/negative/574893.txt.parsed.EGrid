@@ -1,0 +1,15 @@
+                THAT S S - - -
+       CONFIGURATION S - - - -
+           INTERFACE X - - - -
+           127.0.0.1 - S - - -
+            LOOPBACK - O - - -
+                  IP - - S - -
+      192.168.0.0/16 - - S - -
+          10.0.0.0/8 - - S - -
+             VERSION - - O - -
+          VIRTUALBOX - - X - -
+             OPTIONS - - X - -
+             DEFAULT - - S - -
+                 NAT - - X - -
+              BRIDGE - - O - -
+             PROBLEM - - - - X

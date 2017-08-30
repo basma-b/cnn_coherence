@@ -1,0 +1,8 @@
+              SERVER X - -
+                 TRY - X -
+                SUDO - X -
+             SERVICE - X X
+               DHCPD - S X
+                LOCK - X -
+     ISC-DHCP-SERVER - S -
+               START - - X

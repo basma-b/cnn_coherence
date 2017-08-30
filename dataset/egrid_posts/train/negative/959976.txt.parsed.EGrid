@@ -1,0 +1,19 @@
+                 ALL X - - - - - -
+                BOOT X X X - - - -
+              SCREEN O O O - - - -
+              KERNEL - S S S X - -
+             CHOICES - S S X - - -
+           LINUX-386 - O O O - - -
+     LINUX-IMAGE-386 - O O O - - -
+LINUX-IMAGE-2.6.10-5-386 - O O O - - -
+                  AN - - - - X - -
+             INSTALL - - - - S - -
+              MIDDLE - - - - X - -
+              FINISH - - - - O - -
+                TUNE - - - - O - -
+              INSTAL - - - - - S -
+                10.4 - - - - - X -
+             PACKAGE - - - - - - O
+        DEPENDENCIES - - - - - - O
+                   R - - - - - - X
+                   U - - - - - - X

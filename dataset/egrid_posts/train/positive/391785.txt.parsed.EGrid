@@ -1,0 +1,16 @@
+           SOMETHING - - O - - - - - - - -
+             APACHE2 - - - X - X - - - - -
+                7.04 - - - X - - - - - - -
+                TYPE - - - X - - - - - - -
+           LOCALHOST - - - O - - - - - - -
+             BROWSER - - - X - - - - - - -
+              APACHE - - - O - - - X - - -
+             SOMEONE - - - - - S - - - - -
+             PROBLEM - - - - - O - - - - -
+      VIRTUALISATION - - - - - - - - - X -
+                   | - - - - - - - - - S -
+                THIS - - - - - - - - - - O
+          PERMISSION - - - - - - - - - - X
+           MAKE_SOCK - - - - - - - - - - X
+                BIND - - - - - - - - - - X
+          0.0.0.0:80 - - - - - - - - - - X

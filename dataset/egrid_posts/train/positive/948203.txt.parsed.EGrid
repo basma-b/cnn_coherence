@@ -1,0 +1,11 @@
+             PROGRAM X - -
+                NTFS O O O
+           /DEV/HDA2 - X -
+             /MNT/D/ - S -
+                  FS - X -
+                TYPE - X X
+              OPTION - X -
+          SUPERBLOCK - X -
+                SUDO - - S
+                   > - - X
+    /FOLDER1/FOLDER2 - - X

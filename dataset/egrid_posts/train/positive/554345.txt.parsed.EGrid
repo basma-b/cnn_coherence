@@ -1,0 +1,24 @@
+               SHARE O - - O - - - S X - -
+            POWEROFF X - - - - - - - - - -
+              SCRIPT - O - - - - - - - - -
+        /ETC/INIT.D/ - X - - - - - - - - -
+                LINK - O - - - - - - - - -
+                  .. - X - - - - - - - X -
+   /INIT.D/UMOUNTSMB - X - - - - - - - - -
+        K15UMOUNTSMB - X - - - - - - - - -
+         /ETC/RC2.D/ - X - - - - - - - - -
+               SAMBA - - - X - - - - - - -
+             NETWORK - - - - X - - - - - -
+          CONNECTION - - - - O - - - - - -
+               POWER - - - - X - - - - - -
+               SOOOO - - - - - O - - - - -
+             CONNECT - - - - - - X - - - -
+                 ONE - - - - - - - - X - -
+         CONNECTIONS - - - - - - - - X - -
+  //CAMPUS01/MTOZSES - - - - - - - - O - -
+               SMBFS - - - - - - - - S - -
+    //SUIMAGE/BACKUP - - - - - - - - X - -
+         /MNT/BACKUP - - - - - - - - X - -
+CREDENTIALS=/ROOT/.SUIMAGE - - - - - - - - X - -
+                THAT - - - - - - - - - - X
+              THINGS - - - - - - - - - - X

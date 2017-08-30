@@ -1,0 +1,16 @@
+                ADDR S - - - - - - - - - -
+                SHOW S - - - - - - - - - -
+                EHT1 - X - - - - - - - - -
+            LOOPBACK - X - X - - - - - - -
+ETC/NETWORKING/INTERFACES - - X - - - - - - - -
+       CONFIGURATION - - - X - - - - - - -
+                AUTO - - - X - - - - - - -
+                ETH0 - - - X - - - - - - -
+               ERROR - - - O - X - - - - -
+            INSTANCE - - - X - - - - - - -
+                THAT - - - - - - O - S - -
+              REASON - - - - - - - X - - -
+             NETWORK - - - - - - - O - - -
+           INTERFACE - - - - - - - - S - -
+                  .. - - - - - - - - - - S
+               CLICK - - - - - - - - - - X

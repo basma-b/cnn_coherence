@@ -1,0 +1,13 @@
+                FILE O - - X
+                USER X - - -
+                HOME X - - -
+           DIRECTORY X - - -
+         PERMISSIONS - S - -
+               GROUP - O - -
+                 ACL - X - -
+                DATE - - - S
+                THAT - - - O
+             COMMAND - - - X
+                SHOW - - - S
+              ACCESS - - - X
+            AUTH.LOG - - - X

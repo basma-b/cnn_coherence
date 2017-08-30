@@ -1,0 +1,23 @@
+       CHAINLOADER+1 - S - - - - - - - - - - -
+                  GO - O - - - - - - - - - - -
+         CHAINLOADER - - S - - - - - - - - - -
+                FILE - - X - - - - - - - - - -
+                NAME - - X - - X - - - - - - -
+           /DEV/SDC1 - - - O - - - - - - - - -
+                LIST - - - X - O - - - - - - -
+          THUMBDRIVE - - - O - - - - - - - - -
+                 USB - - - - - S - - - - S - -
+              DEVICE - - - - - X - - - - - - -
+             NOTHING - - - - - - O - - - O - -
+                GRUB - - - - - - - O - - - - -
+                DISK - - - - - - - X - - - - -
+             UTILITY - - - - - - - O - - - - -
+               THERE - - - - - - - - S - S - -
+             COMMAND - - - - - - - - - - X - -
+               DIDNT - - - - - - - - - - X - -
+                WORK - - - - - - - - - - O - -
+               LSUSB - - - - - - - - - - X - -
+            SETTINGS - - - - - - - - - - - S -
+     DCONF/GSETTINGS - - - - - - - - - - - X -
+GCONF/DCONF/GSETTINGS - - - - - - - - - - - - S
+                USER - - - - - - - - - - - - X

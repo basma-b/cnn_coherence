@@ -1,0 +1,17 @@
+              ANYONE X - - - - -
+           DIRECTION X - - - - -
+               LOGIN X - - - - -
+             LIGHTDM - X - - - -
+                USER - - X - - -
+              RETURN - - - O - -
+       ~/.XAUTHORITY - - - X - -
+               CHECK - - - X - -
+                  .. - - - X - -
+/VAR/LOG/LIGHTDM/LIGHTDM.LOG - - - X - -
+  ~/.XSESSION-ERRORS - - - X - -
+                ROOT - - - X - -
+                FILE - - - X - -
+             OPTIONS - - - - X -
+       SND-HDA-INTEL - - - - X -
+     MODEL=DELL-M4-1 - - - - X -
+        ENABLE_MSI=1 - - - - X -

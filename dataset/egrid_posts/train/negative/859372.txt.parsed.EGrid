@@ -1,0 +1,14 @@
+             NETWORK X X -
+               CLASS O - -
+           WIRESHARK O - -
+                LABS X - -
+           INTERFACE X - -
+             ADAPTER - O -
+            IFCONFIG - X -
+             ADDRESS - O -
+                 LAB - X -
+          PERMISSION - O -
+              DEVICE - X -
+                MATE - - O
+              EFFORT - - X
+                 TRY - - O

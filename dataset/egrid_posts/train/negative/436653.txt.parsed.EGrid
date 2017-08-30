@@ -1,0 +1,15 @@
+             COMMAND S - - - -
+                SUDO X - X - -
+          ./FILENAME O - O - -
+            FILENAME - X - - -
+           PRIVILEGE - X - - -
+         APPLICATION - - X - -
+               -RSB- - - X - -
+                TEXT - - X - -
+                FILE - - O - -
+               GEDIT - - X - -
+                NANO - - X - -
+          EXECUTABLE - - - X -
+             ROAMING - - - - X
+                DHCP - - - - X
+          EVERYTHING - - - - O

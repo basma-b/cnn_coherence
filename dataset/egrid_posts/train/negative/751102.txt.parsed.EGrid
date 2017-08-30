@@ -1,0 +1,12 @@
+               ERROR X - - - X - X - - - -
+                 LOG X - - - - - - - - - -
+  /VAR/LOG/MYSQL.LOG - S - - - - - - - - -
+                 TRY - - X - - - - - - - -
+/VAR/LOG/MYSQL/ERROR.LOG - - S - - - - - - - -
+               THATR - - O - - - - - - - -
+              ERRORS - - - X - - - - - - -
+             SERVICE - - - - O X - - - - -
+             COMMAND - - - - X - - - - - -
+               MYSQL - - - - - S - - - - -
+                TIME - - - - - - - O - - -
+                PERM - - - - - - - - - X -

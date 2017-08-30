@@ -1,0 +1,21 @@
+              SOURCE X X S - O
+                CODE O S - - -
+/ETC/APT/SOURCES.LIST - X - - -
+                 USE - - X - -
+                   < - - O - -
+                   > - - S - -
+             PACKAGE - - S - -
+              SEARCH - - X - -
+            KEYWORDS - - S - -
+                 GPG - - S - -
+           SIGNATURE - - O - -
+                 KEY - - S - -
+                FILE - - X - -
+            APT-FILE - - O - -
+              SYSTEM - - X - -
+     NETWORK-MANAGER - - X - -
+                 UMM - - - - X
+               ERROR - - - - S
+               PARTY - - - - X
+                REPO - - - - X
+                 ETC - - - - O

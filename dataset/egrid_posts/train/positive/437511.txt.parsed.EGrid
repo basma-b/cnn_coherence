@@ -1,0 +1,14 @@
+                BOOT X - - - -
+                  CD O - - - -
+             TROUBLE O - - - -
+            /DEV/SDA X - - - -
+            /MNT/SDA O - X - -
+                 DIR S - - - -
+           PARTITION - X - - -
+                 ETC - O - - -
+                  .. - - X - -
+             COMMAND - - X - X
+          EVERYTHING - - O - -
+            /MNT/SDB - - X - -
+                SUDO - - - - O
+               FRONT - - - - X

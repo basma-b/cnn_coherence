@@ -1,0 +1,16 @@
+                 ALL X - - - - - - - - - -
+               ISSUE - O - S - - - - - - -
+                WONT - S - - - - - - - - -
+                BOOT - X - - - - - - - - -
+         UPDATE-RC.D - - O - - - - - - - -
+                SMBD - - S - - - - - - - -
+               AVAIL - - X - - - - - - - -
+             CONSOLE - - X - - - - - - - -
+ /ETC/INIT/SMBD.CONF - - - O - - - - - - -
+                 USE - - - - - - X - - - -
+               SHARE - - - - - - X - - X -
+                FILE - - - - - - - - X - -
+               OWNER - - - - - - - - - S -
+                   = - - - - - - - - - X -
+               ENTRY - - - - - - - - - X -
+                 LOL - - - - - - - - - - X

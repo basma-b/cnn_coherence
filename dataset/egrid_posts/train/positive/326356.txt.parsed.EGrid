@@ -1,0 +1,17 @@
+           PARTITION X X O O
+            SOFTWARE X - - -
+               RAID5 X - - -
+              DEVICE X - - X
+               CHECK - X - -
+                 LVM - X - -
+                 LOT - O - -
+               SPACE - - O S
+              UBUNTU - - X -
+                DISK - - O -
+                THIS - - S -
+               THERE - - S -
+               TABLE - - X -
+              OPTION - - - O
+                SHOW - - - X
+CYLINDER/HEAD/SECTOR - - - X
+         INFORMATION - - - X

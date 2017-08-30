@@ -1,0 +1,5 @@
+                TYPE X -
+              ACCESS S -
+              PYTHON X -
+             TEST.PY O -
+                BASH - O

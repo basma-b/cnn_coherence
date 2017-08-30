@@ -1,0 +1,10 @@
+                GRUB - X - - -
+             OPTIONS - X - - -
+            NOSPLASH - - X - -
+             VERBOSE - - O - -
+               SETUP - - - - X
+                NEED - - - - X
+            USERNAME - - - - X
+/ETC/SSH/SSHD_CONFIG - - - - X
+                FILE - - - - X
+             DEFAULT - - - - X

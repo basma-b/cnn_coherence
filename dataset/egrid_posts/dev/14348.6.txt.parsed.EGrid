@@ -1,0 +1,18 @@
+                   W X - - - - -
+                HTTP O - - - - -
+//SECURITY.UBUNTU.COM/UBUNTU/DISTS/PRECISE-UPDATES/RELEASE X - - - - -
+               ENTRY X - - - - -
+PRECISE-SECURITY/BINARY-AMD64/PACKAGES S - - - - -
+             RELEASE X - - - - -
+                FILE X - - - - -
+        SOURCES.LIST X - - - - -
+//MIRROR.PNL.GOV/UBUNTU//POOL/MAIN/G/GTK+3.0/LIBGTK-3-DEV_3.4.2-0UBUNTU0.3_AMD64.DEB X - - - - -
+                SUDO X - - - - -
+                DPKG X - - - - -
+./LIBGTK-3-DEV_3.4.2-0UBUNTU0.3_AMD64.DEB X - - - - -
+                  -F S - - - - -
+              HOTKEY - - - X - -
+            HARDWARE - - - - X -
+                 KEY - - - - O -
+              SCREEN - - - - - X
+              FREEZE - - - - - X

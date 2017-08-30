@@ -1,0 +1,12 @@
+              SCRIPT O X - - - - - -
+              UBUNTU S - - - - - - -
+                AUTO X - - - - - - -
+             STARTUP - X - - - - - -
+        /ETC/INIT.D/ - - X - - - - -
+        /ETC/INITTAB - - O - - - - -
+                FILE - - O - - - - -
+            RUNLEVEL - - - X - - - -
+  /ETC/INIT.D/MYFILE - - - - S - - -
+              MINUTE - - - - O - - -
+              INIT.D - - - - - X - -
+                /ETC - - - - - X - -

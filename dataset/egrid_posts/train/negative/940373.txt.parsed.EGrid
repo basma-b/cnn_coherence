@@ -1,0 +1,16 @@
+                CIAO X - -
+                   C X - -
+                 CHE X - -
+                  PU X - -
+            AIUTARMI S - -
+             ENGLISH - S -
+                BOOT - - S
+      INIT=/BIN/BASH - - X
+              KERNEL - - X
+             CMDLINE - - X
+          READ-WRITE - - O
+             REMOUNT - - O
+                  RW - - X
+           /VAR/RUN/ - - X
+                   * - - O
+          /VAR/LOCK/ - - X

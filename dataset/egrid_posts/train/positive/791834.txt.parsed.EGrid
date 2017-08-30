@@ -1,0 +1,12 @@
+           PARTITION X S - -
+       FILES/FOLDERS O - - -
+                DISK X - - -
+                 USE X - - -
+            TESTDISK X S - -
+            PARTITON - S - -
+                DATA - O O -
+                  DD - O - -
+              SOURCE - X - -
+            TERMINAL - - X -
+              OUTPUT - - X -
+              TARGET - - - X

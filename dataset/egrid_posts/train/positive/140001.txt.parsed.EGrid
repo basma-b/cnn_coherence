@@ -1,0 +1,15 @@
+             SOMEONE X - - - - -
+               FSTAB X - - - - -
+               SLAVE X - - - - -
+               DRIVE O O - - - -
+             STARTUP X - - - - -
+         INFORMATION X - - - - -
+                 USE - S - - - -
+             WINDOWS - O - - - -
+                IDE0 - - - S - -
+                SCSI - - - O - -
+          FILESYSTEM - - - - X -
+           PARTITION - - - - X -
+             COMMAND - - - - - O
+                  -L - - - - - O
+            TERMINAL - - - - - X

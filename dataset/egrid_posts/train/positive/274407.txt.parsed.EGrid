@@ -1,0 +1,26 @@
+                USER X - - - - - - -
+           PRIVILEGE O - - X - - - -
+                THIS - O - - - - - -
+                HOME - X - - - - - -
+           DIRECTORY - O - - - - - -
+/VAR/WWW/WWW.BLAH.COM - X - - - - - -
+                 DIR - X - - - - - -
+                RISK - X - - - - - -
+           SOMETHING - O - - - - - -
+         PERMISSIONS - O - - - - - -
+          /HOME/ROOT - - X - - - - -
+                  IM - - S - - - - -
+           PERMISION - - O - - - - -
+            ANYTHING - - X - - - - -
+               GROUP - - - O - - - -
+               USERS - - - X - - - -
+                FILE - - - X - - - -
+               CHGRP - - - X - - - -
+                THAT - - - - S - - -
+         POSSIBLILTY - - - - X - - -
+             SYMLINK - - - - - S - -
+                 MAN - - - - - X - -
+                  LN - - - - - S - -
+                WORK - - - - - O - -
+                SUDO - - - - - - X -
+             COMMAND - - - - - - X -

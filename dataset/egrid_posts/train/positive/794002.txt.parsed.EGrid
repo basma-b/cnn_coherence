@@ -1,0 +1,15 @@
+              SUBNET - S - - - - - - - -
+             168.168 - O - - - - - - - -
+      ROUTER/GATEWAY - - S - - - - - - -
+                FACT - - X - - - - - - -
+     192.168.168.168 - - X - - - - - O -
+               VALUE - - - S O - - - - O
+            GATEWAYS - - - - S - - - - -
+                  OS - - - - - X - - - -
+          EVERYTHING - - - - - - - S - -
+                 LAN - - - - - - - X X -
+           SONICWALL - - - - - - - - X -
+              ROUTER - - - - - - - - X -
+             DEFAULT - - - - - - - - X -
+             GATEWAY - - - - - - - - S -
+/ETC/NETWORK.INTERFACES - - - - - - - - - X

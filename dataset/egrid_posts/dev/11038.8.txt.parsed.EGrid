@@ -1,0 +1,12 @@
+                ANY1 S - - - - -
+              INSTAL O - - - - -
+             COMMAND - S - - - -
+                  .. - O - - - -
+  /USR/BIN/MAGNIFIER - X - - - -
+             MEMTEST - - X - - -
+                 RAM - - S - - -
+            SEGFAULT - - - S - -
+          VIOLATIONS - - - X - -
+            APPARMOR - - - - X -
+             SANDBOX - - - - X -
+           ERRORCODE - - - - - O

@@ -1,0 +1,18 @@
+            PROBLEMS O - - - - -
+             LOCALES X X - - - -
+              ERRORS O - - - - -
+           SOMETHING O - - - - -
+         APT-GETPERL X - - - - -
+              LOCALE O X - - - -
+                PERL - X - - - -
+            SETTINGS - X - - - -
+            LANGUAGE - S - - - -
+              LC_ALL - O - - - -
+               UNSET - X - - - -
+                LANG - X - - - -
+                 GCC - O - - - -
+             PACKAGE - - S - - S
+               CACHE - - X - - -
+/VAR/CACHE/APT/ARCHIVES/LOCALES_ - - O - - -
+                  -F - - - X - -
+        DEPENDENCIES - - - - - O

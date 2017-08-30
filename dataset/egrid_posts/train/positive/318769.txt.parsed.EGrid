@@ -1,0 +1,5 @@
+         SSHD_CONFIG S - - - S
+              CONFIG X - - O -
+ /ETC/SSH/SSH_CONFIG O - - S -
+              CLIENT - - - X -
+              SERVER - - - - O

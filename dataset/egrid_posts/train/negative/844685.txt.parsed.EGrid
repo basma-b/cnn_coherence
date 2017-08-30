@@ -1,0 +1,13 @@
+           SYSLOG-NG X - - - -
+                KIND - - S - -
+                 LOG - - X S -
+                FILE - - X - -
+              SYSLOG - - O - -
+              SYSTEM - - X - -
+               ERROR - - X S -
+             PROCESS - - - O -
+         APPLICATION - - - S -
+           LOGROTATE - - - O -
+                 BUG - - - X -
+ UPDATE-ALTERNATIVES - - - - S
+                SUDO - - - - X

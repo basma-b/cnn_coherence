@@ -1,0 +1,14 @@
+                AUTO X - - - - -
+                  RW X - - - - -
+                USER X - - - - -
+              NOAUTO X - - - - -
+            /DEV/FD0 - S - - - -
+               SHELL - X - - - -
+              DEVICE - X - - - -
+               FDISK - X - - - -
+                   L - X - - - -
+              INSERT - X - - - -
+                 SDA - - - X - -
+           PARTITION - - - S - -
+                LIST - - - O - -
+              OUTPUT - - - - - O

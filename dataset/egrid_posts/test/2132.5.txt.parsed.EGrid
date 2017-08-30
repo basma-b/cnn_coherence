@@ -1,0 +1,11 @@
+      CHOWN-COMMANDS S - - - - -
+            USERNAME X - - - - -
+           GROUPNAME X - - - - -
+                FILE S - - - - X
+               SPACE X - - - - -
+                   D - - - X - -
+                   $ - - - - S -
+                ROOT - - - - X -
+              ACCESS - - - - O -
+          PERMISSION - - - - - O
+               OWNER - - - - - O

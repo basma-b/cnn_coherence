@@ -1,0 +1,7 @@
+                PORT O X X X X
+              SERVER X - - - -
+            IPTABLES - S - - -
+              POLICY - O - - -
+           LOCALHOST - X X - -
+             SERVICE - - O - S
+           SSHD.CONF - - - O -

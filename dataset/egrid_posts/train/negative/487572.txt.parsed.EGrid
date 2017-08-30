@@ -1,0 +1,10 @@
+               CHOWN X - - - X -
+               CHMOD X - - - - -
+       FILES/FOLDERS X - - - - -
+          SUBFOLDERS X - - - - -
+                FILE X - - - - -
+           /VAR/WWW/ X - - - - -
+                THAT - - - - O -
+                  -R - - - - O -
+               DEPTH - - - - - X
+               ISSUE - - - - - O

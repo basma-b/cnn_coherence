@@ -1,0 +1,16 @@
+                LINE X - - - -
+                TYPE X - - O -
+           DIRECTORY O O - - -
+               DRIVE O - - - -
+              DEVICE X - - - -
+             MANAGER X - - - -
+                NAME - X - - -
+                   > - S - - -
+            MOUNTINT - S - - -
+               FAT32 - - - O -
+                SDB1 - - - X -
+                SUDO - - - S S
+      /PATH/TO/A/DIR - - - S -
+          FILESYSTEM - - - X -
+                VFAT - - - - O
+                EXT3 - - - - X

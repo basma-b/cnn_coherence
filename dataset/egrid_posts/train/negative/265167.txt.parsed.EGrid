@@ -1,0 +1,8 @@
+                SUDO X - - -
+                 LOG X - - -
+   /VAR/LOG/AUTH.LOG - S - -
+               CHMOD - - X -
+             COMMAND - - - X
+              CONFIG - - - X
+              KERNEL - - - X
+                 CAT - - - X

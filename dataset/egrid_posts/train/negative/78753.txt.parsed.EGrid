@@ -1,0 +1,11 @@
+        DIST-UPGRADE O -
+               ERROR O -
+/VAR/CACHE/APT/ARCHIVES/X-COMMON_1.08_ALL.DEB X -
+  /USR/LIB/X11/FONTS S -
+             PACKAGE X -
+          XFONTS-BAS X -
+            X-COMMON X -
+              FORUMS S -
+              SEARCH O -
+              CHANCE - S
+              COMPIZ - X

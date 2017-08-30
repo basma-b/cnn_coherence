@@ -1,0 +1,17 @@
+                GRUB X - - - -
+                BOOT X O - - -
+                 SDA X - - - -
+               DRIVE S S - - -
+                 MAP X X - - -
+                FILE O - O - -
+           /DEV/HDA6 X - - - -
+              DEVICE O - - - -
+               HD0,5 X - - - -
+                  CD - O - - X
+                SDB1 - X - - -
+               ISSUE - O - - -
+                   U - - O - -
+          /BOOT/GRUB - - X - -
+            MENU.LST - - X - -
+           GRUB.CONF - - X - -
+                TEXT - - X - -

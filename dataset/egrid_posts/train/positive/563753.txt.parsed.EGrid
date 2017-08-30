@@ -1,0 +1,17 @@
+                CRON X - - - - - -
+                 JOB X - - - - - -
+                WONT S - - - - - -
+               PLACE - O - - - - -
+        /ETC/CRON.D/ - X - - - - -
+         PERMISSIONS - X - - - - -
+               -RW-R - S - - - - -
+                   R - S - - - - -
+                ROOT - X - - - - -
+             CONTENT - S - - - - -
+                STAG - X - - - - -
+              ANYONE - X - - - - -
+                HELP - - O - - - -
+       MAILQUEUE.PHP - - - X - - -
+                LINE - - - - X - X
+              SCRIPT - - - - - - O
+             COMMAND - - - - - - X

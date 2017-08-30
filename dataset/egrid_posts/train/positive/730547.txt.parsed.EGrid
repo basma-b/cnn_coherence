@@ -1,0 +1,27 @@
+              OPTION O - - - - -
+                BOOT X - - - - -
+                MENU O - - S - -
+                GRUB - O - - - -
+                 USE - X - - - -
+              LEGACY - O X - - -
+                  IM - X - - - -
+             DEFAULT - X - - - -
+         INSTALATION - X - - - -
+        INSTALLATION - O X - - -
+             UPGRADE - - O - - -
+                PREV - - X - - -
+              UBUNTU - - X - - -
+                INFO - - X - - -
+              SERVER - - X - - -
+                 SEC - - X - - -
+              SEARCH - - - X - -
+   /ETC/DEFAULT/GRUB - - - X - -
+                LINE - - - X - -
+GRUB_HIDDEN_TIMEOUT_QUIET=TRUE - - - S - -
+                 WAY - - - O - -
+                SUDO - - - X - -
+         UPDATE-GRUB - - - O - -
+            QUESTION - - - - - X
+                MORA - - - - - O
+               YOURS - - - - - X
+            COMPUTER - - - - - X

@@ -1,0 +1,16 @@
+              UBUNTU S - - - - -
+               -JUST O - - - - -
+             WINDOWS X - - - - -
+           PARTITION O - - - - -
+                BOOT - X - - - -
+               ENTRY - X - - - -
+          /ETC/FSTAB - X - - - -
+                WORK - O - - - -
+                  .. - X - - - -
+                THIS - - X - - -
+             UPGRADE - - O - - -
+                THAT - - - O - -
+                 HAL - - - S X -
+              KERNEL - - - X - -
+               ERROR - - - - - X
+VMWAREPLAYER.POSTINST - - - - - X

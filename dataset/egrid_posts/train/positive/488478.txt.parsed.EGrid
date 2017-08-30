@@ -1,0 +1,17 @@
+             GPARTED S - - - - -
+               LABEL O - - - - -
+                DISK X X - - - -
+                  .. X - - - - -
+           LABELTYPE X - - - - -
+                 WAY - O - - - -
+           PARTITION - S - - - -
+               MSDOS - - X - - -
+                TYPE - - S - - -
+              EXTENT - - X - - -
+              OTHERS - - S - - -
+                ROLE - - O - - -
+                 PCS - - X - - -
+                MACS - - - X - -
+                SUNS - - - S - -
+          LABELTYPES - - - O - -
+                  TY - - - - - X

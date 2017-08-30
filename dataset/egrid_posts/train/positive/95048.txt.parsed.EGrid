@@ -1,0 +1,16 @@
+             MENTION X - - - - - - -
+                SDA1 X - - - - - - -
+                BOOT X - - - X - - X
+                  -L - S - - - - - -
+           PARTITION - X - - - - - -
+                 IDE - - - O - - - -
+               DRIVE - - - X X - - O
+/BOOT/GRUB/DEVICES.MAP - - - - X X - -
+                BIOS - - - - S - - -
+/BOOT/GRUB/DEVICES/MAP - - - - - X - -
+               POINT - - - - - S - -
+                 HD0 - - - - - X S -
+                LINE - - - - - O - -
+                THAT - - - - - - - S
+                  .. - - - - - - - S
+             PROBLEM - - - - - - - O

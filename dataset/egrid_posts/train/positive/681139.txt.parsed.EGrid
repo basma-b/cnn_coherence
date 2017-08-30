@@ -1,0 +1,26 @@
+            QUESTION S - - -
+              KERNEL X X - -
+           ARGUMENTS X - - -
+               GRUB2 X - - -
+        GRUB_GFXMODE - S - -
+                 VGA - S - -
+               VGA=0 - O - -
+             CMDLINE - X - -
+   /ETC/DEFAULT/GRUB - S - -
+                LINE - X O -
+             EXAMPLE - X - -
+                FILE - - X -
+               THERE - - S -
+GRUB_CMDLINE_LINUX_DEFAULT= - - S -
+              SPLASH - - O -
+                   < - - O -
+             OPTIONS - - X -
+               ISSUE - - O -
+                 GFX - - X -
+              DRIVER - - X -
+                SYNC - - X -
+               VALUE - - O -
+  /ETC/X11/XORG.CONF - - X -
+           MODELINES - - - O
+             800X600 - - - X
+               THOSE - - - X

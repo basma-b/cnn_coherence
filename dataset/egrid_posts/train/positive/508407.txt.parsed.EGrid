@@ -1,0 +1,16 @@
+             COMMAND X - - - - -
+             CRONTAB X X - - - -
+             EXAMPLE - X - - - -
+                   * - S - - - -
+                   % - X - - - -
+                   F - O - - - -
+/DATADISK/BACKUPDATE.TXT - S - - - -
+                  TA - S - - - -
+                USER - O - - - -
+                BLAH - - S - - -
+               THING - - O - - -
+                THAT - - - - X -
+                 WAY - - - - X -
+                DATA - - - - - O
+                FILE - - - - - X
+              BACKUP - - - - - S

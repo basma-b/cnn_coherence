@@ -1,0 +1,26 @@
+              SOURCE X - - - - - - -
+                 ATI X - - - - - - -
+              DRIVER O X - - - - - -
+                 THE - S - - - - - -
+                TYPE - S - - - - - -
+              OUTPUT - O - - - - - -
+               ERROR - X - X - X - -
+/USR/X11R6/LIB/MODULES/DRI//R300_DRI.SO - S - - - - - -
+               SHARE - X - - - - - -
+              OBJECT - X - - - - - -
+                FILE - O - - - - - -
+           DIRECTORY - X - - - - - -
+                THIS - S - - - - - -
+               FGLRX - X - - - - - -
+             PACKAGE - X - - - - - -
+                   * - O - - - - - -
+                 LLL - S - - - - - -
+                 LIB - O - X - - - -
+/USR/LIB/DRI/R300_DRI.SO - X - - - - - -
+                THAT - - - X X - - S
+             SYMLINK - - - O - - - -
+               RESET - - - X - - - -
+                PATH - - - O - - - -
+                 HMM - - - X - - - -
+             COMMAND - - - - X - - -
+              SCRIPT - - - - - - - X

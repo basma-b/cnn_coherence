@@ -1,0 +1,21 @@
+                 ALL O - - - - - -
+                 DNS X - - - - - -
+             SERVERS X - - - - - -
+         CONNECTIONS X - X - - - -
+                 USE - S - - - - -
+       DHCLIENT.CONF - - O - - - -
+                THAT - - - S - - -
+          CONNETIONS - - - X - - -
+                COOL - - - S - - -
+ DOMAIN-NAME-SERVERS - - - X - - -
+             W.X.Y.Z - - - X - - -
+               USR13 - - - O - - -
+          DIFFERENCE - - - O - - -
+           /ETC/DHCP - - - X - - -
+          /ETC/DHCP3 - - - X - - -
+/ETC/DHCP3/DHCLIENT.CONF - - - - S - -
+                LINE - - - - X O -
+                 ONE - - - - O - -
+                   ' - - - - - X -
+             COMMENT - - - - - X -
+                BOTH - - - - - - X

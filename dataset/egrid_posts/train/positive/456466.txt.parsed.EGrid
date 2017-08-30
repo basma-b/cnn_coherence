@@ -1,0 +1,21 @@
+          CONFIGFILE S - - - - - - - -
+               HD0,0 X - - - - - - - -
+           PARTITION X - - - - - - - -
+         /DEV/DEVICE - - O - - - - - -
+                HTTP - - X - - - O - -
+       /PROC/BUS/USB - - X - - - - - -
+                   U - - - S - - - - -
+              PROCFS - - - O - - - - -
+              DEVICE - - - X - - - - -
+                NODE - - - X - - - - -
+            /DEV/SDB - - - - X - - - -
+              OUTPUT - - - - X - - - -
+               MOUNT - - - - X - X - -
+                 USB - - - - - O - - -
+                PLUG - - - - - X - - -
+                  .. - - - - - X - - -
+             NOTHING - - - - - S - - -
+                THIS - - - - - - S - -
+//PASTE.UBUNTU.COM/22266/ - - - - - - X - -
+               THATS - - - - - - S - -
+              REBOOT - - - - - - - O -

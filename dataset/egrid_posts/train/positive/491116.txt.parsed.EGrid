@@ -1,0 +1,17 @@
+                BIND X - - - - - - -
+                 DNS S - - X X - - X
+               QUOTE O - - - - - - -
+                ZONE S O - - - - - -
+               SETUP O - - - - - - -
+                NAME O - - - - - - -
+                  IP X - - - X - - -
+            ADRESSES X - - - - - - -
+                 ISP - X - - - - - -
+                  IM - - - X - - - -
+            IP-RANGE - - - X - - - -
+                   S - - - X - - - -
+               RANGE - - - O - - - -
+                   ^ - - - - - S - -
+              ACCESS - - - - - O - -
+                 USE - - - - - - O -
+                CASE - - - - - - X -

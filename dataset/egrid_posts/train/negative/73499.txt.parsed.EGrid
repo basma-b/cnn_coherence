@@ -1,0 +1,14 @@
+               SOUND X - - - -
+             DRIVERS X - - - -
+                WHAT - X - - -
+               LSPCI - - S - -
+               AUDIO - - X - -
+                 CAT - - X - -
+           RFAKEROOT - - - O -
+          QUICKBUILD - - - X -
+            PBUILDER - - - X -
+              CHROOT - - - X -
+                HARD - - - O -
+                  -I - - - - X
+       VERSIONNUMBER - - - - O
+             PACKAGE - - - - O

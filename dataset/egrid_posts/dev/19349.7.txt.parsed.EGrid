@@ -1,0 +1,16 @@
+                SUDO X - - - - - - -
+             APT-GET S - - - - - - -
+                 ALL - X - - - - - -
+           PARTITION - O - O - - - -
+               DRIVE - X - - - - - -
+                   D - X - - - - - -
+             WINDOWS - X - - - - - -
+                THAT - - X - - - - -
+              FORMAT - - - X - - - -
+                 XEN - - - - - X - -
+              KERNEL - - - - - X O -
+                DOM0 - - - - - X - -
+          FILESYSTEM - - - - - X - -
+                BOOT - - - - - - X -
+           USERSPACE - - - - - - - O
+            ANYTHING - - - - - - - O

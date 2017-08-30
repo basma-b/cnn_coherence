@@ -1,0 +1,14 @@
+             CLEANUP X - - - - -
+             PACKAGE X O - - - -
+                 PPA O O - - - -
+           PPA-PURGE - S - - - -
+               ERROR - X - - - -
+             MESSAGE - X - - - -
+             RELEASE - - X - - -
+             ONEIRIC - - X - - -
+             POSTMAN - - X - - -
+               ISSUE - - - - O -
+                  CD - - - - S -
+                BOOT - - - - X -
+                THIS - - - - - S
+               GNOME - - - - - X

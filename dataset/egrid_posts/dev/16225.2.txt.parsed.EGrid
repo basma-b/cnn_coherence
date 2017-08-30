@@ -1,0 +1,15 @@
+            PROBLEMS O - - - - - - - -
+                ALSA - X - - O - - - -
+                CARD - X - - - - - - -
+                SINK - X - - - - - - -
+                THAT - - X - - - - - -
+              CHANGE - - O - - - - - -
+         ASOUND.CONF - - X - - - - - -
+               PULSE - - - X X - - - -
+               AUDIO - - - X O - - - -
+                BOTH - - - - - X - - -
+             DISTROS - - - - - - - S -
+              CENTOS - - - - - - - X -
+            QEMU-KVM - - - - - - - O -
+              KERNEL - - - - - - - - O
+                 XEN - - - - - - - - S

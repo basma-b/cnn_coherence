@@ -1,0 +1,17 @@
+                 ALL O - - - - - -
+               ERROR O - - - - - -
+             OPENAFS O - - - - - -
+              CLIENT X - - - - - -
+                AFSD X - - - - - -
+               CACHE X - X - - - X
+                 DIR X - - - - - -
+               CHECK S - - - - - -
+                EXT2 X - X - - - -
+                EXT3 X - O - - - -
+           PARTITION X - - - - - O
+               PLACE O - O - - - O
+                FILE - X X - - - -
+              SYSTEM - X X - - - -
+                TYPE - X O - - - X
+           INTENTION - - O - - - -
+             MESSAGE - - S - - - -

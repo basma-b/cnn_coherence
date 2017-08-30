@@ -1,0 +1,11 @@
+                SORT X - - - - -
+                 LOG X - - - - -
+              BOOTUP X - - - - -
+           DEBUG.LOG - S - - - -
+             MESSAGE - O - - - -
+             COMMAND - - - X - -
+                 CAT - - - X - -
+                TAIL - - - X - -
+                TEXT - - - S - -
+                FILE - - - X - -
+           /VAR/LOG/ - - - - - X

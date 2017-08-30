@@ -1,0 +1,12 @@
+              CHANGE O O -
+ /BOOT/GRUB/MENU.LST X - -
+         UPDATE-GRUB O - -
+              EFFECT O - -
+                FILE - X -
+                  GE - X -
+                GRUB - S -
+                BOOT - X X
+              SECTOR - X -
+                  HD - X -
+                THAT - - S
+            MENU.LST - - O

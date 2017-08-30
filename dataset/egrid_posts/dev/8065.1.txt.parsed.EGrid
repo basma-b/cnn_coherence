@@ -1,0 +1,15 @@
+        /ETC/SUDOERS S - - - - - - - -
+                USER S - - - - - - - -
+             COMMAND O - - - - - - - -
+                SUDO X - - O - O - S -
+             WITOUTH S - - - - - - - -
+            PASSWORD X - - X - - - - -
+              ACCESS - - X - - O - - -
+             PROGRAM - - X - - X - - -
+                LINE - - X - - - - - -
+                THIS - - - - O - - - -
+              MANUAL - - - - X - - - O
+            INTEREST - - - - - O - - -
+           PRIVILEGE - - - - - - - O -
+                RULE - - - - - - - O -
+                 WAY - - - - - - - - O

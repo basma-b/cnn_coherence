@@ -1,0 +1,14 @@
+            MOUNTALL S - - - - - - - -
+/LIB/X86_64-LINUX-GNU/LIBC.SO.6 S - - - - - - - -
+             VERSION S - - - - - - - -
+          GLIBC_2.14 S - - - - - - - -
+    /LIB/LIBPLY.SO.2 X - - - - - - - -
+             GENERAL X - - - - - - - -
+               ERROR S - - - - - - - -
+         FILESYSTEMS O - - - - - - - -
+                THAT - X - S - - - S -
+                 GPU - X - - - - - - -
+                DATA - - - - - O - - -
+             SOMEONE - - - - - O - - -
+              UBUNTU - - - - - - - O -
+                WUBI - - - - - - - X -

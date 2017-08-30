@@ -1,0 +1,25 @@
+               FSTAB X O - O S - X
+                MTAB X - - - - - -
+                   $ - X - - - - -
+                  CD - X - - X - -
+               /DEV/ - X - - - - -
+                 SDA - X - - - - -
+                   * - X - - - - -
+               DRIVE - O - - - - -
+             COMMAND - S - - - - -
+                SUDO - S - - - - -
+             /DEV/SD - S - - - - -
+               MKDIR - X - - - - -
+        /MEDIA/DRIVE - S - - - - -
+                 HDD - X - - - - -
+               RIGHT - - O - - - -
+                PATH - - X - - - -
+            ANYTHING - - X - - - -
+/MEDIA/DRIVE/ETC/FSTAB.BACKUP - - O - - - -
+                MUCH - - O - - - -
+                HELP - - X - - - -
+               THERE - - - S - - -
+              BACKUP - - - O - - -
+                 ANY - - - X - - -
+          /ETC/FSTAB - - - - - - S
+                EDIT - - - - - - O

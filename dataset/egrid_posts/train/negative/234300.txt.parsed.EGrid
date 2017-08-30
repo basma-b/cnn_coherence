@@ -1,0 +1,13 @@
+                CARD X - - - - O - - - - -
+                THAT - X X - - - - - - - -
+              DRIVER - S X - - - O O - - -
+               ACCEL - X - - - - - - - - -
+                 ATI - - S - - - - - - - -
+                LINK - - - X - - - - - - -
+              RADEON - - - - - X X - O - -
+                PART - - - - - O - - - - -
+XSERVER-XORG-VIDEO-ATI - - - - - X - O - - -
+               START - - - - - S - - - - -
+        ACCELERATION - - - - - O O - - - -
+  /ETC/X11/XORG.CONF - - - - - - - O - - -
+        XSERVER-XORG - - - - - - - - O - -

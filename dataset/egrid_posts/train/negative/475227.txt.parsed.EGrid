@@ -1,0 +1,17 @@
+                MESS X - - -
+               GROUP X X O -
+                USER X - - -
+                SUDO - O - -
+             SUDOERS - S - -
+              REBOOT - S - -
+            RECOVERY - X - -
+                GRUB - X - -
+               ADMIN - O - -
+               -RSB- - S - -
+             COMMAND - S - -
+             DIALOUT - - X -
+               CDROM - - X -
+                 DIP - - X -
+               VIDEO - - X -
+             PLUGDEV - - X -
+           SOMETHING - - - O

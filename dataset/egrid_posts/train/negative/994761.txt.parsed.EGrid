@@ -1,0 +1,12 @@
+        /DEV/TTYACM0 X - - - - - -
+          /DEV/MODEM S - - - - - -
+                TYPE X - - - - - -
+                HELP - O - - - - -
+             SYMLINK - - O - - - -
+          FILESYSTEM - - S - - - -
+                BOOT - - O - - - -
+                  CD - - - X - - -
+                 DVD - - - X - - -
+                 ONE - - - - - S -
+                SUDO - - - - - X -
+                   X - - - - - O -

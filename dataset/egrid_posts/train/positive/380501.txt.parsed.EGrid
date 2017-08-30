@@ -1,0 +1,8 @@
+/ETC/INIT.D/RC.LOCAL X O -
+              SYSTEM - S -
+       /ETC/RC.LOCAL - O -
+         /ETC/INIT.D - S -
+               THERE - S -
+                FILE - X -
+                LINK - - X
+/ETC/RC5.D/S99RC.LOCAL - - X

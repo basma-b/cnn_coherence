@@ -1,0 +1,11 @@
+               SETUP X - -
+               PROXY O - -
+        SSH+IPTABLES X - -
+              SERVER X - -
+            IPTABLES O - -
+               ROUTE X - -
+             TRAFFIC X - -
+                PORT O - -
+                 RUN X - -
+               WEIRD - S -
+                 ONE - - X

@@ -1,0 +1,12 @@
+            PROBLEMS X - X - - - -
+              SERVER O - O - - - -
+               ROUTE X - X - X - X
+             PACKETS X - X - X - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - S - S - - -
+                 UFW - S - S - - -
+            ANYTHING - X - X - - -
+                 ONE - - - - - - S
+              NEWORK - - - - - - X
+             ANOTHER - - - - - - X
+           INTERFACE - - - - - - O
+             OPENVPN - - - - - - X

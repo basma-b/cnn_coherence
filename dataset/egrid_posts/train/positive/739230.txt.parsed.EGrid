@@ -1,0 +1,6 @@
+       .BASH_ALIASES X - - -
+                FILE X - - -
+             ALIASES O - - -
+           ~/.BASHRC - X S -
+              SOURCE - - X -
+     ~/.BASH_ALIASES - - O O

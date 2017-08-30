@@ -1,0 +1,10 @@
+                TIME S - -
+                TYPE X - -
+                SUDO X - -
+            MODPROBE X - -
+             PSMOUSE X - -
+               SLEEP X - -
+              RESUME O - -
+            ANYTHING - - X
+           /VAR/LOG/ - - X
+                XORG - - O

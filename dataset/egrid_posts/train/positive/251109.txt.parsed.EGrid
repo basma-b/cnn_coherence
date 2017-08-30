@@ -1,0 +1,39 @@
+              KERNEL S - - - - - X - - - - - - - - - X - X
+             PACKAGE - O O - - - X - - - - - - - - - - - O
+                THAT - - - - O S - - - - - - - S - - - - -
+              REASON - - - - O - - - - - - - - - - - - - -
+                 WAY - - - - - S O - - - - - - - S - - - -
+            QUESTION - - - - - X - - - - - - - - - - - - -
+             RELEASE - - - - - S - - - - - - - - - - - - -
+             INSTALL - - - - - - O - - - - - - - - - - - -
+                 LOT - - - - - - O - - - - - - - - - - - -
+               BREAK - - - - - - X - - - - - - - - - - - -
+                THIS - - - - - - - - - - - - X S - - O - -
+              FEISTY - - - - - - - - - - - - - X - - - - -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_PACKAGES.PL - - - - - - - - - - - - - X - - - - -
+KEYWORDS=LINUX-IMAGE-2.6.20 - - - - - - - - - - - - - - X - - - -
+      SEARCHON=NAMES - - - - - - - - - - - - - - X - - - -
+           SUBWORD=1 - - - - - - - - - - - - - - X - - - -
+      VERSION=FEISTY - - - - - - - - - - - - - - X - - - -
+         RELEASE=ALL - - - - - - - - - - - - - - X - - - -
+ LINUX-SOURCE-2.6.20 - - - - - - - - - - - - - - O - - - -
+              MAGICK - - - - - - - - - - - - - - X - - - -
+                EDGY - - - - - - - - - - - - - - - - X - -
+                HTTP - - - - - - - - - - - - - - - - O - -
+                .DEB - - - - - - - - - - - - - - - - O - -
+        REPOSITORIES - - - - - - - - - - - - - - - - X - -
+              LATEST - - - - - - - - - - - - - - - - S - -
+//WWW.MIRROR.AC.UK/MIRROR/ARCHIVE.UBUNTU.COM/UBUNTU/POOL/MAIN/L/LINUX-SOURCE-2.6.20/LINUX-IMAGE-2.6.20-8-386_2.6.20-8.14_I386.DEB - - - - - - - - - - - - - - - - X - -
+                HAND - - - - - - - - - - - - - - - - O - -
+      RESPONSIBILITY - - - - - - - - - - - - - - - - X - -
+            PROBLEMS - - - - - - - - - - - - - - - - S - -
+                  EH - - - - - - - - - - - - - - - - X - -
+             SUPPORT - - - - - - - - - - - - - - - - X - -
+        IMPLICATIONS - - - - - - - - - - - - - - - - X - -
+                 API - - - - - - - - - - - - - - - - O - -
+            SHOULDNT - - - - - - - - - - - - - - - - - - S
+             PROBLEM - - - - - - - - - - - - - - - - - - O
+        DEPENDENCIES - - - - - - - - - - - - - - - - - - X
+                 THO - - - - - - - - - - - - - - - - - - O
+          COMPLAINTS - - - - - - - - - - - - - - - - - - O
+                DPKG - - - - - - - - - - - - - - - - - - X

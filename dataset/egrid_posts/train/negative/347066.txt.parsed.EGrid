@@ -1,0 +1,16 @@
+             MESSAGE O - - - - - -
+                SUDO X - - - - - -
+                  -S O - - - - - -
+       ADMINISTRATOR S - S O - - -
+             SUDOERS X - - - - - -
+                FILE X - - - - - -
+            INCIDENT - S - - - - -
+              REPORT - O - - - - -
+             ACCOUNT - - O - - - -
+              ANYONE - - X - - - -
+                DATA - - O - - - -
+                BOOT - - - X - - -
+                USER - - - X - - -
+                MODE - - - X - - -
+               GROUP - - - X - - -
+        /ETC/SUDOERS - - - X - - -

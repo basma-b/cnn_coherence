@@ -1,0 +1,11 @@
+              SYSTEM X - - -
+               STATE X - - -
+               GLIBC - O - -
+               LIBC6 - - O -
+                IDEA - - O -
+                SUDO - - X -
+             APT-GET - - S -
+    PACKAGE_FROM_NET - - O -
+                 NET - - X -
+                SITE - - - X
+ PACKAGES.UBUNTU.COM - - - O

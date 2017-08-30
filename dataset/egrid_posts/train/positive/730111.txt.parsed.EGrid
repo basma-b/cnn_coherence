@@ -1,0 +1,22 @@
+ APT-ADD-RESPOSITORY X - - - -
+                 PPA X - - - -
+                INFO X - - - -
+/ETC/APT/SOURCES.LIST - S - - -
+               STUFF - O - - -
+              SIMPLE - - X - -
+                FILE - - O - -
+              UPDATE - - O - -
+                 YES - - - X -
+              SYSTEM - - - X -
+                   > - - - X -
+               ADMIN - - - X -
+                  .. - - - X -
+            SOFTWARE - - - X -
+              SOURCE - - - X -
+             MINIMAL - - - S -
+                 CLI - - - X -
+                  OK - - - X -
+              SERVER - - - O -
+        SOURCES.LIST - - - - O
+                TEXT - - - - X
+              EDITOR - - - - X

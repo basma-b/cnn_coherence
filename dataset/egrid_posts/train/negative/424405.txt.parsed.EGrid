@@ -1,0 +1,16 @@
+          BRIGHTNESS O - - - -
+                  UP S - - - -
+/PROC/ACPI/IBM/BRIGHTNESS O - - O -
+                THIS O - - - -
+                ROOT X - - - -
+          PERMISSION S - - - -
+               ERROR O - - - -
+                USER - X S - -
+             COMMAND - O - - -
+                 USE - - X - -
+                  .. - - O - -
+                SUDO - - X S -
+                 TEE - - - X -
+                DISK - - - - X
+               CHECK - - - - X
+                KIND - - - - X

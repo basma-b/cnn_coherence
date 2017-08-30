@@ -1,0 +1,14 @@
+              DEVICE X - - -
+           DIRECTORY X - - -
+            TERMINAL X - - -
+                  CD - X - -
+                  .. - S - -
+                SUDO - - - X
+               MDADM - - - X
+            /DEV/SDC - - - O
+               WRITE - - - X
+            QUESTION - - - S
+                RAID - - - X
+           SIGNATURE - - - X
+                DISK - - - X
+           PARTITION - - - O

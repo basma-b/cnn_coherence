@@ -1,0 +1,17 @@
+            RESOURCE X - - - - - - -
+              REGION O - - - - - - -
+        0000:00:1C.0 X - - - - - - -
+              MEMORY X - X - - - - -
+             ADDRESS X - - - - - - -
+               ERROR - X - - - O - -
+             DISTROS - - X - X X - -
+                 RAM - - X X - - - -
+              MODULE - - - X - - - -
+                LOAD - - - - X O - -
+               LINUX - - - - - O - -
+              LAPTOP - - - - - X - -
+                  CD - - - - - X - -
+                TEXT - - - - - X - -
+                MODE - - - - - X - -
+              REBOOT - - - - - X - -
+             MESSAGE - - - - - S - -

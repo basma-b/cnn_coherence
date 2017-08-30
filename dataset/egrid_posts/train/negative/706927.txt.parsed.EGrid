@@ -1,0 +1,15 @@
+                CARD S - S - - -
+                LIST X - - - - -
+             SUPPORT X - - - - -
+              KERNEL X - - - - -
+               FRESH - X - - - -
+             HOTPLUG - - X - - -
+              DRIVER - - S - - -
+                 B43 - - O - - -
+            MODPROBE - - O - - -
+             NOTHING - - O - - -
+           SOMETHING - - - O - -
+                MORE - - - X - -
+                  .. - - - - - X
+               DELAY - - - - - S
+             TRAFFIC - - - - - X

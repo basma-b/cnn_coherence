@@ -1,0 +1,14 @@
+              FORMAT X - - -
+                FILE X X - X
+           HARDDRIVE O - - -
+                 MBR - O - -
+              SYSTEM - O - -
+                16MB - X - -
+                GOAL - O - -
+             PROBLEM - X - -
+           STRUCTURE - - - O
+            HARDDISK - - - X
+           PARTITION - - - X
+               MAGIC - - - X
+                 HDD - - - X
+            POSSIBLE - - - X

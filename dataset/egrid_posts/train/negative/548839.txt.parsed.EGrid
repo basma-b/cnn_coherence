@@ -1,0 +1,9 @@
+             COMMAND S - -
+                HARD S - -
+             APT-GET - S -
+            CONFLICT - O -
+                 MAC - X -
+             ADDRESS - X -
+                SUDO - X -
+          PULSEAUDIO - X -
+                 DOC - - O

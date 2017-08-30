@@ -1,0 +1,17 @@
+          ENCRYPTION X -
+            LUKS/LVM O -
+               /BOOT S -
+            INSTANCE X -
+                NEED O O
+                LUKS O -
+                USER X -
+                   % X -
+               THERE S -
+           PARTITION X X
+              UBUNTU X -
+          BOOTLOADER S X
+             PROBLEM - O
+                DISK - O
+                 YRS - X
+/HOME/MYUSER/DOCUMENTS - O
+              DISTRO - X

@@ -1,0 +1,12 @@
+               FSTAB - X - - - - - -
+                LINE - O - X - - - -
+                FORM - X - - - - - -
+              VOLUME - X - - - - - O
+   /HOME/OCS/SISTEMA - X - - - - - -
+                EXT3 - S - - - - - -
+               LABEL - - S - - X - -
+               SPACE - - O - - - - -
+              SYNTAX - - - X - - - -
+                 ONE - - - - S - - -
+                  OS - - - - X - - -
+              FORMAT - - - - - - - X

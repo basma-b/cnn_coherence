@@ -1,0 +1,12 @@
+              FORMAT X - - - - X
+                 USB X - - - - -
+               DRIVE O - - S - -
+         FILE-SYSTEM O - - - - -
+              MS-DOS - X - - - -
+           PARTITION - X - X - -
+               TABLE - X - - - -
+                NEED - - - O - -
+                EXT3 - - - O - X
+                EXT2 - - - X - S
+             NOTHING - - - - - O
+              DEVICE - - - - - O

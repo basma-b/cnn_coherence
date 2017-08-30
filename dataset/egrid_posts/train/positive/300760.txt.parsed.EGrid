@@ -1,0 +1,8 @@
+                MAIL X X - - -
+               QUEUE X X - - -
+                LIST - X - - -
+                WAIT - X - - -
+            DELIVERY - X - - -
+                 MTA - - O - -
+             POSTFIX - - - S -
+               SHOWQ - - - - S

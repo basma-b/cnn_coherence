@@ -1,0 +1,11 @@
+             PACKAGE X - -
+             MESSAGE O - -
+           CONFIGURE O X -
+               CHECK - S -
+               ERROR - X -
+                 C++ - X -
+        PREPROCESSOR - S -
+                 RUN - - X
+               WAHTS - - X
+              DISTRO - - X
+               WHATS - - X

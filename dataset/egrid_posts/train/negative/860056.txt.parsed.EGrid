@@ -1,0 +1,14 @@
+         APPLICATION O -
+               SHARE X -
+                 LIB X -
+            MYLIB.SO O -
+                BOTH S -
+              FOLDER X -
+                DONT S -
+                 .SO O -
+                PATH X -
+              OTHERS S -
+            LDCONFIG X -
+LD_LIBRARY_PATH=/PATH/TO/LIBRARY O -
+                PROG O -
+                THAT - O

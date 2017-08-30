@@ -1,0 +1,17 @@
+                HELP S X - - - - -
+             LIBRARY O - - - - - -
+             PROGRAM X - - - - - -
+                 SDL - X - - - - -
+             SDL_NET - O - - - - -
+             PTHREAD - O - - - - -
+            BEGINNER - S - - - - -
+                BITE - - X - - - -
+              DETAIL - - O - - - -
+            SPECIFIC - - X - - - -
+           INSTALLER - - - - X - -
+               CRASH - - - - S - X
+            QUESTION - - - - O - -
+              SCREEN - - - - - S -
+              APPORT - - - - - - S
+      ATTRIBUTEERROR - - - - - - X
+             INSTALL - - - - - - X

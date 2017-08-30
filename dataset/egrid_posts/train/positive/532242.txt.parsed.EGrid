@@ -1,0 +1,17 @@
+                 ALL O - - - -
+                  .. S - - - -
+                 WAY X - - - -
+          DEV-PAKAGE O - - - -
+             PACKAGE - X - - -
+                NAME - X - - -
+             APT-GET - - S - -
+             COMMAND - - S - -
+                AMSN - - O - -
+                SUDO - - X - -
+               PURGE - - X - -
+          AUTOREMOVE - - X - -
+                WORK - - X - -
+                 LOG - - - - O
+       /VAR/LOG/DPKG - - - - X
+              SCRIPT - - - - X
+                CARE - - - - X

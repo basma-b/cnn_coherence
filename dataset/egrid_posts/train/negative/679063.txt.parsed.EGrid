@@ -1,0 +1,17 @@
+             ADDRESS O O - - -
+            INTERNET X - - - -
+            HOSTNAME O X - - -
+    /ETC/RESOLV.CONF - X - - -
+                   > - X - - -
+                WORK - X - - -
+                 DNS - S - - -
+              SERVER - X - - -
+            NSLOOKUP - S - - -
+                TYPE - X - - -
+              LOOKUP - X - - -
+                MINS - - S - -
+           FLOODBOT1 - - S - -
+                TIME - - - S -
+                NOTE - - - O -
+          UBUNTU-OPS - - - X -
+                 OPS - - - - S

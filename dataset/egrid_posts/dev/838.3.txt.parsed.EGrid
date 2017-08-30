@@ -1,0 +1,24 @@
+            QUESTION O - - - - - - - - - -
+           WEBSERVER - O - - - - - - - - -
+             DESKTOP - X - - - - - - - - -
+                 LAN - X - - - - - - - - -
+                HTTP - - - X - - - X - - X
+         //127.0.0.1 - - - X - - - X - - -
+             APACHE2 - - - O X - - - - - -
+               START - - - - X - - - - - -
+                 UFW - - - - - X S - - - -
+                SUDO - - - - - - X - - - -
+              80/TCP - - - - - - S - - - -
+              ROUTER - - - - - - X X - - -
+             DEFAULT - - - - - - - X - - -
+                PAGE - - - - - - - O - - -
+              SECOND - - - - - - - - X - -
+           SOMETHING - - - - - - - - O - -
+            HEADLESS - - - - - - - - O - -
+            COMPUTER - - - - - - - - - X -
+                SATA - - - - - - - - - - X
+           PARTITION - - - - - - - - - - O
+                DISC - - - - - - - - - - X
+             VERSION - - - - - - - - - - X
+              UBUNTI - - - - - - - - - - X
+//TINYPIC.COM/R/5SOZ/6 - - - - - - - - - - X

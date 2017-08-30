@@ -1,0 +1,14 @@
+            QUESTION X - - - -
+              SYSTEM O - - - -
+          INTERFACES X X - - -
+                ETH0 X X - - -
+                ETH1 X - - - -
+               DHCPD X - - - -
+                 ONE - O - - -
+             RESPOND - X - - -
+              CHANGE - - X - -
+              UBUNTU - - X - -
+/ETC/NETWORK/INTERFACES - - - O -
+                KILL - - - - X
+                  -9 - - - - O
+                SUDO - - - - X

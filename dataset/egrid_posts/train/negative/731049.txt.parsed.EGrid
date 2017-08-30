@@ -1,0 +1,11 @@
+               HTTPS S - - -
+            TOUCHPAD S X - -
+       TOUCHPADOFF=1 X - - -
+             COMMAND O - - -
+XSERVER-XORG-INPUT-SYNAPTICS O - - -
+            RESPONSE O - - -
+           SYNAPTICS X - - -
+              DEVICE O - - -
+              XINPUT - X - -
+                LIST - X - -
+                 THX - - - X

@@ -1,0 +1,10 @@
+     /BOOT-PARTITION X - - - - -
+             1-500MB - S - - - -
+             KERNELS - X X - - -
+           100-500MB - - S - - -
+                COPY - - - - S -
+                  CP - - - - X -
+              OPTION - - - - O -
+          OWNERSHIPS - - - - O -
+                SUCH - - - - X -
+                  MV - - - - - X

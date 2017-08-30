@@ -1,0 +1,27 @@
+            DHCLIENT S - - - - - - -
+        DHCPDISCOVER X - - - - - - -
+                ETH0 X - - - X - - -
+               WLAN0 X - - - - - - -
+             REQUEST X - - - - - - -
+                  IP S - - - - - - -
+             NETWORK X - - - X - - -
+               RANGE O - - - - - - -
+                  .. X - - - - - - -
+              ANYONE S - - - - - - -
+                IDEA O - - O - - - -
+           CONFIGURE - - X O - - - -
+             ADDRESS - - - O - - - -
+                 ONE - - - S - - - -
+               STORE - - - O - - - -
+/ETC/NETWORK/INTERFACES - - - X - - - -
+          INTERFACES - - - - S - - -
+            SETTINGS - - - - O - - -
+             MANAGER - - - - O - - -
+                 ALL - - - - - S - -
+                HAND - - - - - X - -
+                   X - - - - - - X -
+              SERVER - - - - - - X -
+              INSTAL - - - - - - O -
+            FIRMWARE - - - - - - - O
+             APT-GET - - - - - - - X
+             IPW2200 - - - - - - - O

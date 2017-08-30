@@ -1,0 +1,13 @@
+             STARTUP X X - -
+             COMMAND X X - -
+      TIGHTVNCSERVER - O - -
+                  SU - O - -
+           VNCSERVER - X - -
+             PORTNUM - S - -
+              SCRIPT - X - -
+                THAT - - X -
+                LINE - - O O
+               USERS - - X -
+                 ONE - - X -
+               LINUX - - X -
+                 BOX - - X -

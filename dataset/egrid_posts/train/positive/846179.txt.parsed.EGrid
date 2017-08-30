@@ -1,0 +1,16 @@
+          UNETBOOTIN O - - - S - -
+                 USB X - X X - - -
+            BOOTDISK O - - - - - -
+              SERVER X - - - - - -
+                  CD O - - - - - -
+CDROM-DETECT/TRY-USB=TRUE - O - - - - -
+              EFFECT - O - - - - -
+               SHELL - - X - - - -
+           INSTALLER - - X O - - -
+                DISK - - O - - - -
+               MOUNT - - - X - - -
+                 WAY - - - X - - -
+               DRIVE - - - O - - -
+              SOURCE - - - X - - -
+         MULTISYSTEM - - - - - X -
+                THAT - - - - - - O

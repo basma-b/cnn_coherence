@@ -1,0 +1,16 @@
+              FORMAT X - - - - - -
+                 USB X - - X - - -
+               DRIVE X X - - - - -
+                EXT3 - - O - - - -
+              REISER - - O - - - -
+                  .. - - - - X - -
+            WHATEVER - - - - S - -
+                SUDO - - - - X - -
+            MODPROBE - - - - O - -
+              SD_MOD - - - - X - -
+               CDROM - - - - S - -
+                OOPS - - - - X - -
+                THIS - - - - - - S
+              UBUNTU - - - - - - X
+              KERNEL - - - - - - O
+                SELF - - - - - - S

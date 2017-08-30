@@ -1,0 +1,16 @@
+                  HI X X - - -
+     BUILD-ESSENTIAL O O - - -
+     LIBNCURSES5-DEV O O - - -
+         ./CONFIGURE O O - - -
+             MESSAGE - S S - -
+           CONFIGURE - X - - -
+               ERROR - X X - -
+               FOUNT - X X - -
+                THAT - - S - -
+             OPENSSL - - O S -
+           SOMETHING - - O - -
+                 SSL - - X - -
+             PACKAGE - - - O X
+             APT-GET - - - - S
+         OPENSSL-DEV - - - - O
+                   > - - - - S

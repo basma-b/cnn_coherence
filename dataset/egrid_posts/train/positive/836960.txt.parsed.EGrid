@@ -1,0 +1,17 @@
+              UBUNTU O - - - - -
+        DAVFS2-MOUNT O - - - - -
+               FSTAB X - - - - -
+             STARTUP X - - - - -
+             MESSAGE - S - - - -
+                THIS - S S - - -
+             NETWORK - S O - - -
+            PRACTICE - - X - - -
+             UPSTART - - S - - X
+           INTERFACE - - X - - -
+             SERVICE - - - S - S
+         DIRECTORIES - - - O X -
+               ORDER - - - - X -
+                BASE - - - - X -
+            FILENAME - - - - X -
+                LINK - - - - X -
+                THAT - - - - - X

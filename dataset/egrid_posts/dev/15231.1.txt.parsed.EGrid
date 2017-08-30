@@ -1,0 +1,17 @@
+   ADOBE-FLASHPLUGIN O - - -
+              SCRIPT X - - -
+             PACKAGE O - - -
+            INTERNET - X - -
+        INSTALLATION - X - -
+/ETC/ALTERNATIVES/MOZILLA - S - -
+                FILE - S - X
+/USR/LIB/MOZILLA/PLUGINS - X - -
+                 APP - X - -
+            DATABASE - X - -
+   LIBFLASHPLAYER.SO - - - O
+                COPY - - - S
+               PASTE - - - S
+/USR/LIB/FLASHPLUGIN-INSTALLER - - - X
+                ROOT - - - X
+         PERMISSIONS - - - O
+  /LIBFLASHPLAYER.SO - - - O

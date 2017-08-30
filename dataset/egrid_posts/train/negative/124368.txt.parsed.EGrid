@@ -1,0 +1,11 @@
+        CHECKINSTALL S - - -
+               FONTS O - - -
+             FIREFOX X - - -
+              CONFIG - X - -
+              KERNEL - - S -
+             UPGRADE - - O -
+             APT-GET - - X -
+            SYNAPTIC - - X -
+                MENU - - X -
+                BOOT - - - X
+                 ESC - - - O

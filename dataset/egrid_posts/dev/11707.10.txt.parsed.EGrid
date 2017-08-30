@@ -1,0 +1,10 @@
+                SWAP X S -
+           PARTITION O - -
+                TIME - S -
+                BOOT - X -
+                 USE - X -
+                 CAT - X -
+         /PROC/SWAPS - S -
+               ERROR - - X
+             MESSAGE - - X
+               ISSUE - - O

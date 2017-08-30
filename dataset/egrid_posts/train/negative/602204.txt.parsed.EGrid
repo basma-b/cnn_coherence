@@ -1,0 +1,27 @@
+               GROUP X - - - - - -
+                USER S - - - - - -
+                PART O - - - - - -
+                  ID - S - - - - -
+              GROUPS - X - - - - -
+         ~/.DPKG.CFG - X - - - - -
+               THERE - S - - - - -
+/HOME/USERS/LUIST/.DPKG.CFG - O - - - - -
+                 ONE - - X - - - O
+                ISNT - - - X - - -
+              PASSWD - - - S - - -
+             MYLOGIN - - - X - - -
+                WORK - - - X - - -
+      AUTHENTICATION - - - X - X -
+        MANIPULATION - - - X - - -
+               ERROR - - - X - - -
+            KERBEROS - - - O - S -
+                THAT - - - - X - -
+                 SSH - - - - - O -
+               OTHER - - - - - - O
+        DOUBLE-QUOTE - - - - - - S
+          EVERYTHING - - - - - - O
+              PREFIX - - - - - - S
+           CHARACTER - - - - - - O
+                TEXT - - - - - - S
+       DOUBLE-QUOTES - - - - - - X
+                  -/ - - - - - - X

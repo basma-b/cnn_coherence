@@ -1,0 +1,16 @@
+                   * - S - - - -
+              UMOUNT - - S - O -
+               ERROR - - X - - -
+                EXIT - - - X - -
+               SHELL - - - X - -
+            SESSIONS - - - S - -
+             COMMAND - - - O - -
+                  CD - - - X - -
+             DESKTOP - - - X - -
+              PROMPT - - - - X -
+                TYPE - - - - S -
+             PROGRAM - - - - O -
+                TRAY - - - - X -
+              ACCESS - - - - X -
+              OUTPUT - - - - - O
+            /DEV/HDC - - - - - X

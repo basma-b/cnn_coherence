@@ -1,0 +1,8 @@
+               UMASK O - - - -
+                 DIR X - - - -
+             EXAMPLE - - - X -
+               WORLD - - - X -
+           WRITEABLE - - - S -
+                FILE - - - X -
+           /MNT/BLAH - - - X -
+                EXT3 - - - - O

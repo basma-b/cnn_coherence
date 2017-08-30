@@ -1,0 +1,11 @@
+             CRONJOB S - -
+               SETUP O X -
+              OUTPUT - O -
+                  -L - X -
+                TASK - O -
+               CHECK - X -
+              SYSLOG - X -
+                BOOT - - X
+             CONSOLE - - X
+                GRUB - - X
+                LOAD - - X

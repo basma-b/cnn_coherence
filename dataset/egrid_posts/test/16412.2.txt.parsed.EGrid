@@ -1,0 +1,14 @@
+                PORT O - - - -
+            IPTABLES X S X - -
+              AFFECT X - - - -
+             COMMAND - X - - -
+             DEFAULT - X - - -
+              STATUS - - O - -
+                RULE - - X O -
+            FIREWALL - - S - -
+              SIMPLE - - O - -
+                 SSH - - O S -
+              ACCESS - - - O -
+              SERVER - - - O -
+          DATACENTRE - - - X -
+                 YEA - - - - X

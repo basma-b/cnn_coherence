@@ -1,0 +1,11 @@
+               ERROR O - - S - - - -
+         RESOLV.CONF O - - - - - - -
+              EDITOR - X - - - - - -
+                THIS - - S - - - - -
+               CHMOD - - O - - - - -
+    /ETC/RESOLV.CONF - - X - - - - -
+         PERMISSIONS - - O - - - - -
+                  IO - - - X - - - -
+                 CAT - - - X - X - -
+              VOLUME - - - - - - O -
+             PROBLEM - - - - - - - X

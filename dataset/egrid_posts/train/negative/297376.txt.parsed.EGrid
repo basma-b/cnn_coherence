@@ -1,0 +1,7 @@
+         HOSTS.ALLOW X - - - -
+                APPS - X - - -
+                 USE - - X - -
+            WRAPPERS - - X - -
+          INETD.CONF - - X - -
+         TCPWRAPPERS - - - X -
+             APT-GET - - - - X

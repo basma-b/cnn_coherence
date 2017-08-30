@@ -1,0 +1,22 @@
+                  HI X - - - - - - - - - - - - - -
+              ANYONE - X - - - - - - - - - - - - -
+                5.10 - S - - - - - - - - - - - - -
+/ETC/INIT.D/IPTABLES - X - - - - - - - - - - - - -
+              SCRIPT - O - - - - - - - - - - - - -
+            IPTABLES - S - X - - - - S X S - - - -
+              DISTRO - - X - - - - - - - - - - - -
+           SHOREWALL - - - - O - - - - S - - - - -
+            FIREWALL - - - - - X - - - - - - - - -
+                RULE - - - - - - X - - - S - - - -
+           NETFILTER - - - - - - X S O - - - - - -
+              KERNEL - - - - - - - X - - - - - - -
+                TOOL - - - - - - - - O - - - - - -
+           FRONT-END - - - - - - - - - O - - - - -
+                 X11 - - - - - - - - - O - - - - -
+                KIND - - - - - - - - - O - - - - -
+                 GUI - - - - - - - - - X - - - - -
+                  .. - - - - - - - - - X - - - - -
+                   X - - - - - - - - - - O - - - -
+          INITSCRIPT - - - - - - - - - - - O - - -
+               PUTTY - - - - - - - - - - - - - X -
+            TERMINAL - - - - - - - - - - - - - - X

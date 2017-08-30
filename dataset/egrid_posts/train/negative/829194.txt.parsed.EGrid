@@ -1,0 +1,22 @@
+               ERROR O - - - - - -
+               VISIT X - - - - - -
+                HTTP X - - X - - -
+                LAMP X - - - - - -
+/ETC/APACHE2/CONF.D/ - O - O - - -
+              OUTPUT - O - O - - -
+              FOLLOW - X - - - - -
+            TERMINAL - - X - - - -
+                THAT - - - X - - -
+                TYPE - - - X X - -
+                 URL - - - S - - -
+          PHPMYADMIN - - - - S - -
+                SUDO - - - - X - -
+                  LN - - - - X - -
+/ETC/APACHE2/CONF.D/PHPMYADMIN.CONF - - - - X - -
+              APACHE - - - - O - -
+             SERVICE - - - - X - -
+             APACHE2 - - - - S - -
+              BROWSE - - - - O - -
+               HTTPS - - - - X - -
+       CONFIGURATION - - - - X - -
+                FILE - - - - O - -

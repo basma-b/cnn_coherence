@@ -1,0 +1,17 @@
+             PROCESS X X X X - -
+                 PID - S - - - -
+                  ID - S X X - -
+                 USE - O - - - -
+                SUDO - S - - - -
+            BEAM.SMP - O - - - -
+               ERROR - X - - - -
+             GARBAGE - X - - - -
+           BEAMP.SMP - - X - - -
+                  PS - - - X - -
+                GREP - - - X - -
+                BEAM - - - O - -
+            ANYTHING - - - X - -
+                CALL - - - X - -
+             COMMAND - - - - O -
+              RESULT - - - - S -
+               THANK - - - - - X

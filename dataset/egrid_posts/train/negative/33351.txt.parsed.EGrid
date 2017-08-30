@@ -1,0 +1,15 @@
+                THAT O - -
+               FMASK X - -
+               DMASK X - -
+             OPTIONS O - -
+                /DEV O - -
+              KERNEL - S -
+               PANIC - O -
+             STARTUP - X -
+               LEVEL - S -
+            SYMLINKS - X -
+             NOTHING - S -
+               THING - S -
+                BASH - S -
+            PROBLEMS - O -
+                 AHH - - X

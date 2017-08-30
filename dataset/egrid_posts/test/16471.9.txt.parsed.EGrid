@@ -1,0 +1,17 @@
+           CHKCONFIG O S - - - - - - - - - - -
+                MANY S - - - - - - - - - - - -
+             MESSAGE O - - - - - - - - - - - -
+                TIME - X - - - - - - - - - - -
+             SERVICE - X - - - - - X - - - - -
+                BOOT - X - - - - - - - - - - -
+              SYNTAX - - - S - - - - - - - - -
+                 USE - - - - - S - - - - - - -
+             APACHE2 - - - - - S - - - - - - -
+             DEFAULT - - - - - S - - - - - - -
+             STARTUP - - - - - X - - - - - - -
+               LEVEL - - - - - X - - - - - - -
+               REPLY - - - - - X - - - S - - -
+                 RUN - - - - - - X - - - - - -
+                  2. - - - - - - - O - - - - -
+              REMOVE - - - - - - - - - X - - -
+               LEAVE - - - - - - - - - - - - X

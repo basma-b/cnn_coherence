@@ -1,0 +1,15 @@
+           PARTITION O X - -
+              FORMAT X - - -
+                EXT4 X - - -
+          PERMISSION X X - -
+              SYSTEM O - - -
+              THINGS O - - -
+             FOLDERS X - - -
+              FOLDER X - - -
+            TERMINAL - X - -
+               MKDIR - O - -
+                KIND - X - -
+              HASSLE - X - -
+          EVERYTHING - X - -
+                FILE - X - -
+                  .. - - - X

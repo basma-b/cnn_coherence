@@ -1,0 +1,13 @@
+                NAME X - - - -
+          EXECUTABLE X - - - -
+             DEVICES X - - - -
+             MANAGER X - - - -
+           /DEV/SDA1 - - S - -
+                   / - - S - -
+                ROOT - - O - -
+               DRIVE - - - X -
+           PARTITION - - - X X
+              NUMBER - - - X -
+               FDISK - - - - X
+                  -L - - - - O
+                LIST - - - - O

@@ -1,0 +1,16 @@
+              SERVER X - - -
+                 NFS X S S -
+              EXPORT O - - -
+                  .. X - - -
+                 BUG - X - -
+               HTTPS - O - -
+                DOES - X - -
+             ANYBODY - S - -
+          WORKAROUND - O - -
+              UBUNTU - O - -
+               ENTRY - - O -
+               FSTAB - - X -
+                  CD - - - X
+/VAR/CACHE/APT/ARCHIVES - - - O
+                DPKG - - - O
+          PHPMYADMIN - - - S

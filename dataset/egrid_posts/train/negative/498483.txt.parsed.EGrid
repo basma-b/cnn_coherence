@@ -1,0 +1,16 @@
+                 LOG - X - - - O - - -
+            ROTATION - X - - - - - - -
+              DOMAIN - X - X - - - - -
+         DIRECTORIES - X - - - - - - -
+/VAR/WWW/DOMAIN.COM/LOGS/ - - - X - - - - -
+                   * - - - X - S - - -
+                .LOG - - - X - - - - -
+               ENTRY - - - O - - - - -
+    /ETC/LOGROTATE.D - - - X - - - - -
+             DOMAINS - - - - O - - - -
+             LOGFILE - - - - X - - - -
+               THERE - - - - - S - - -
+                 WAY - - - - - O - - -
+                MOVE - - - - - X - - -
+                  .. - - - - - O - - -
+                PART - - - - - X - - -

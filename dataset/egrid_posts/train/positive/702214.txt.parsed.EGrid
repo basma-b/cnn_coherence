@@ -1,0 +1,18 @@
+           /DEV/LOOP X - - -
+             DEVICES O - - -
+                9.10 O - - -
+              KERNEL X - - -
+                LOAD X - - -
+            MODPROBE X - - -
+                 FIX O - - -
+                THIS X - - -
+/ETC/MODPROBE.D/LOCAL X - - -
+             OPTIONS O - - -
+                LOOP X - - -
+              MODULE O - - -
+                BOOT X - X -
+              OPTION S - - -
+                   | - - X -
+           MAMBOKING - - S -
+     MAX_LOOP=NUMBER - - O -
+             ARTICLE - - - S

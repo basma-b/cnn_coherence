@@ -1,0 +1,27 @@
+               ERROR O - - - - - -
+                   W X - - - - - -
+                STAT X - - - - - -
+              SOURCE X - - - - - -
+             PACKAGE X - - - - - -
+                LIST X - - - - - -
+                HTTP O - - X - - -
+     BREEZY/UNIVERSE X - - - - - -
+            PACKAGES X - - - - - -
+/VAR/LIB/APT/LISTS/BD.ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_BREEZY_UNIVERSE_BINARY-I386_PACKAGES X - - - - - -
+                  NO X - - - - - -
+                FILE X - - - - - -
+           DIRECTORY X - - - - - -
+                  BR - - - O - - -
+                LINE - - - X - - -
+               START - - - X - - -
+             COMMAND - - - X - - -
+                   > - - - O - - -
+                SUDO - - - X - - -
+                NANO - - - X - - -
+/ETC/APT/SOURCES.LIST - - - S - - -
+                 RUN - - - S - - -
+              UPDATE - - - O - - -
+               THERE - - - X - - -
+             REFRESH - - - - X - -
+                RATE - - - - X - -
+             SYNERGY - - - - - - X

@@ -1,0 +1,8 @@
+        CHECKINSTALL S X S -
+                 DEB X - - -
+                FILE O - - -
+                DEBS - - O -
+         ./CONFIGURE - - X -
+                MAKE - - X -
+             PROCESS - - X -
+             NETWORK - - - X

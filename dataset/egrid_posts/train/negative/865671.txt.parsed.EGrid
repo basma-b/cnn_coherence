@@ -1,0 +1,11 @@
+           REINSTALL X - - - - - - -
+              SERVER O - - - - - - -
+           PARTITION O X - - - - - -
+              BACKUP X - - X - - - -
+                DATA - O - O - - - -
+               DRIVE - - S - X - - -
+             PROBLEM - - O - - - - -
+              DEVICE - - - - - X - -
+             UPGRADE - - - - - - X -
+               ERROR - - - - - - - X
+             MESSAGE - - - - - - - O

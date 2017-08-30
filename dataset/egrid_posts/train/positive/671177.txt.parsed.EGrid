@@ -1,0 +1,17 @@
+         FILESYSTEMS O - - - - - - - -
+                DISK X - - - X - - - -
+               DRIVE X - - - - - - - -
+                 WAY S - - - - - - - -
+           PARTITION O X - - X - - - -
+                  FS O - - - - - - - -
+                SAME - X - - - - - - -
+               TABLE - - - S - - - - -
+         REQUIREMENT - - - O - - - - -
+                 HDD - - - X - - - - -
+              PEOPLE - - - X - - - - -
+                BOOT - - - - X - - - -
+                TIME - - - - - X X - -
+                THAT - - - - - - S - -
+                 LOT - - - - - - O - -
+                GRUB - - - - - - X X -
+               GRUB2 - - - - - - - - X

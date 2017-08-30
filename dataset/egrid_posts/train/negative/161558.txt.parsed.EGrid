@@ -1,0 +1,16 @@
+               CLONE X - - - - - -
+                USER X - - - - - -
+                FILE - - X - - - -
+               /HOME - - O - - - -
+           PARTITION - - X - - - -
+               /ROOT - - X - - - -
+         DIRECTORIES - - X - - - -
+                  YA - - S - - - -
+               MOUNT - - X - - - -
+              POINTS - - O - - - -
+              ANSWER - - S - - - -
+               ISSUE - - - - - S O
+            VERSIONS - - - - - X -
+           LIBRARIES - - - - - O -
+             PACKAGE - - - - - - O
+              SOURCE - - - - - - X

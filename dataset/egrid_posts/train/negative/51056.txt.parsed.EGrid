@@ -1,0 +1,10 @@
+         RECONFIGURE S - -
+            WIRELESS X - -
+                CARD O - -
+               PCMIA X - -
+               PRISM O - -
+             ORINOCO X - -
+            MODPROBE X - -
+            IWCONFIG X - -
+               MOUNT - - X
+               ENTRY - - S

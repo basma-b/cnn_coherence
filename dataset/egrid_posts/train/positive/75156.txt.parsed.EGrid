@@ -1,0 +1,7 @@
+               SETUP S -
+             APT-GET X -
+       LINUX-HEADERS O -
+              NVIDIA X -
+              DRIVER O -
+                  IM - S
+              MODULE - O

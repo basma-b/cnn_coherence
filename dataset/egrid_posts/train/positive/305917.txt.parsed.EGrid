@@ -1,0 +1,11 @@
+             DEVICES O - - - - - -
+             CONSOLE X - - - - - -
+              MEMORY - X - - X - -
+                CARD - O - - - - -
+               LSPCI - - X - - - -
+                PATH - - - X O - -
+                CHIP - - - - X - -
+             SANDISK - - - - X - -
+            /DEV/HDA - - - - X - -
+                  -H - - - - X - -
+                 LOT - - - - - - X

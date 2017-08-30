@@ -1,0 +1,6 @@
+                 USE O -
+           FILEZILLA S -
+               SAMBA X -
+                ROOT - X
+/PATH/TO/CONFIG/FILE/VSFTPD.CONF - S
+                LINE - O

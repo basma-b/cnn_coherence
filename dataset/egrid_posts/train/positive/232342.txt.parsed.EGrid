@@ -1,0 +1,16 @@
+                ROOT X - - -
+         PERMISSIONS S O - -
+                SUDO O - - -
+                6.06 - X - -
+                 LTS - O - -
+             WINDOWS - X - -
+                NTFS - X - X
+           PARTITION - O - -
+           DIRECTORY - X - -
+      DISK-CONF-HDA1 - - S -
+          FILESYSTEM - - X -
+                TYPE - - O -
+                THAT - - - X
+              SYNTAX - - - S
+                  -O - - - O
+                REST - - - O

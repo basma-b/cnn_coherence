@@ -1,0 +1,15 @@
+             COMMAND X - - - -
+                LINE X - - - -
+                DISK X - - - -
+               SPACE X - - - -
+                TREE S - - - -
+      SUBDIRECTORIES X - - - -
+                  DU - X - - -
+     /PATH/TO/THING/ - S - - -
+                WORK - X - - -
+                SWAP - - - O -
+                 MAX - - - O -
+                   / - - - X -
+               USAGE - - - X -
+              BACKUP - - - - O
+           PARTITION - - - - O

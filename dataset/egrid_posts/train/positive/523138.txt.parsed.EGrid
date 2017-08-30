@@ -1,0 +1,15 @@
+                FILE X - - O - - X - - O - - - -
+             UTILITY - - O - - - - - - - - - - -
+           EXTENSION - - - X - - - - - - - - - -
+                FSCK - - - - X S - - - - - - S -
+          FILESYSTEM - - - - - X - - - - - - X -
+           INTEGRITY - - - - - - O - - - - - - -
+                LIKE - - - - - - X - - - - - - -
+              ERRORS - - - - - - - X - - - - - -
+            ANYTHING - - - - - - - X O - - - - -
+               THERE - - - - - - - - S - - - - -
+               BUNCH - - - - - - - - - X - - - -
+           DIRECTORY - - - - - - - - - X - - - -
+           STRUCTURE - - - - - - - - - S - - - -
+             CORRUPT - - - - - - - - - - O - - -
+             CHECKER - - - - - - - - - - - - O -

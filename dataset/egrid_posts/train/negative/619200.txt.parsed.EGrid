@@ -1,0 +1,23 @@
+              SCRIPT X - - - -
+/ETC/NETWORK/IF-UP.D/ X - - - -
+          CONNECTION S - - - -
+                ETH0 X - - - -
+             STARTUP X - - - -
+               LOGIN X X - - -
+                  IM - S - - -
+             MACHINE - O - - -
+              SERVER - X - - -
+                 WAY - O - - O
+           INTERFACE - S O - -
+                 GUI - X - - -
+                 USE - - S - -
+             EDITION - - X - -
+/ETC/NETWORK/INTERFACES - - X - -
+             COMMAND - - - S -
+         REDIRECTION - - - X -
+                   > - - - X -
+                   | - - - - X
+                SUDO - - - - X
+                 TEE - - - - O
+          /PATH/FILE - - - - X
+                 PPA - - - - O

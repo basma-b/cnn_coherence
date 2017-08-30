@@ -1,0 +1,15 @@
+           PARTITION O - - - O - X - -
+                  OS S - - - - - - - -
+              DEVICE S - - X - - - - -
+                   T - - S - - - - - -
+                FILE - - - S - - - - -
+               MOUNT - - - X X - - - -
+               POINT - - - X O - - - -
+         /MNT/DISTRO - - - - S - X - -
+             NOTHING - - - - X - - X -
+                THAT - - - - - S - S O
+                DOCS - - - - - - O - -
+               SHELL - - - - - - O - -
+           DIRECTORY - - - - - - X - -
+             SUB-DIR - - - - - - X - -
+               FSTAB - - - - - - - X -

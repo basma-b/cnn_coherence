@@ -1,0 +1,17 @@
+          KEYBOARD.C X - - - -
+             RAWMODE O - - - -
+             KEYCODE X - - - -
+               ERROR O - - - X
+               DMESG X - - - -
+                BIOS X - - - -
+                BEEP O - - - -
+                HELP X - - - -
+                 KEY - O X - -
+              KEYMAP - S - - -
+              KERNEL - X - - -
+                TYPE - - X - -
+            KEYBOARD - - O - -
+                BOAT - - X - -
+                LOAD - - X - -
+          NAVIGATION - - X - -
+              NOTICE - - - - X

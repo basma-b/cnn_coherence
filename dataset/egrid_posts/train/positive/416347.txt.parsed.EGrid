@@ -1,0 +1,14 @@
+              LIVECD O - - X
+           PARTITION O - - -
+             DEVICES O - - -
+            /DEV/SDA - S - -
+                  IO - X - -
+               ERROR - O - -
+              UBUNTU - O - -
+             PROBLEM - O - -
+                 ALL - S - -
+                GKSU - X - -
+                SUDO - X - X
+                   * - - S -
+                  .. - - X -
+                ROOT - - - X

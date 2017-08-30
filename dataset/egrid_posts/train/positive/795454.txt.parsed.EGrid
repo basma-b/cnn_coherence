@@ -1,0 +1,9 @@
+        /ETC/SUDOERS X - -
+        ALL=NOPASSWD X - -
+            PASSWORD X - X
+                TIME - - X
+                 ASK - - X
+                SUDO - - S
+                 BUG - - O
+                TYPO - - O
+           SOMETHING - - S

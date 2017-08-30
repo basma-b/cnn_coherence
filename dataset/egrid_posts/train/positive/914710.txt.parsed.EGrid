@@ -1,0 +1,9 @@
+             MODULES S - -
+              INITRD X - X
+          FILESYSTEM X - -
+                SOME X - -
+             CONTENT - - O
+               IMAGE - - O
+              CRAMFS - - X
+                  -O - - X
+                LOOP - - X

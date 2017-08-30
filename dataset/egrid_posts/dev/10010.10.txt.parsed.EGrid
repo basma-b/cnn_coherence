@@ -1,0 +1,10 @@
+             COMMAND X S -
+                   > S - -
+                FILE X O -
+              OUTPUT O - -
+                 WAY X - -
+                LINE - - S
+           PARTITION - - O
+              FORMAT - - X
+                NTFS - - X
+                EXT3 - - O

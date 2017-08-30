@@ -1,0 +1,12 @@
+                JAIL X - -
+                  OK S - -
+              CLIENT S - -
+                USER - O -
+                 ENV - O -
+            /VAR/WWW - X -
+                 USE - X -
+                GREP - - O
+             COMMAND - - X
+           PARTITION - - O
+              VOLUME - - X
+               LABEL - - O

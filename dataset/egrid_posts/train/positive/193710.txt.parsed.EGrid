@@ -1,0 +1,16 @@
+               SCRIP X - - - -
+                LOAD X - - - -
+                 ETC X - - - -
+              ACTUAL - - O - -
+        /ETC/INITTAB - - X - -
+                 RUN - - - X -
+                  BT - - - X -
+          /SBIN/INIT - - - S -
+               QUIET - - - X -
+              KERNEL - - - X X
+                BOOT - - - X -
+              OPTION - - - O -
+                INFO - - - - O
+                TASK - - - - O
+                  FS - - - - X
+             NETWORK - - - - X

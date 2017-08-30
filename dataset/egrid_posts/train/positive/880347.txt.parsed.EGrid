@@ -1,0 +1,21 @@
+          DIFFERENCE X - - - - -
+     THREAD_SIBLINGS X - - - - -
+       CORE_SIBLINGS X - - - - -
+/SYS/DEVICES/SYSTEM/CPU/CPU0/TOPOLOGY X - - - - -
+               MULTI - X - - - -
+                CORE - X X - - -
+               THING - X S - - -
+LINUX-2.6/DOCUMENTATION/CPUTOPOLOGY.TXT - O - - - -
+         DESCRIPTION - - S - - -
+         TERMINOLOGY - - X - - -
+                 USE - - O - - -
+               SPACE - - O - - -
+              THREAD - - S - - -
+        RELATIONSHIP - - X - - -
+               LEVEL - - X - - -
+             PROGRAM - - X - - -
+               ISSUE - - O - - -
+                 URL - - - S - -
+                HTTP - - - - X -
+//WWW.ADMON.ORG/ABOUT-CPU-THE-LOGICAL-AND-PHYSICAL-CORES/ - - - - X -
+                  .. - - - - - X

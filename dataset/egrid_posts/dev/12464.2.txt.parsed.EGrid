@@ -1,0 +1,27 @@
+                THIS S - - - - - - - -
+                  .. X - O - - - X - -
+               WORLD X - - - - - - - -
+                THAT - - O - - - - - -
+               START - - S - - - X - -
+                 ALL - - X - - - O - -
+             NETWORK - - X - - - - - -
+          MANAGEMENT - - S - - - - - -
+     NETWORK-MANAGER - - S - - - - - -
+             ALREADY - - O - - - - - -
+          INTERFACES - - X - - - - - -
+/ETC/NETWORK/INTERFACES - - S - - - - - -
+             COMMAND - - X O - - - - -
+                LINE - - X - - - - - -
+                HAND - - X - - - - - -
+                SUDO - - - - - X - - -
+            DHCLIENT - - - - - X - - -
+                ETH0 - - - - - S - - -
+            IFCONFIG - - - - - X - - -
+        192.168.1.95 - - - - - X - - -
+               ROUTE - - - - - X - - -
+             DEFAULT - - - - - X - - -
+                  GW - - - - - O - - -
+         192.168.1.1 - - - - - O - - -
+             ETC.ETC - - - - - O - - -
+               PHONE - - - - - - - - S
+                  OS - - - - - - - - X

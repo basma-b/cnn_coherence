@@ -1,0 +1,15 @@
+                NTFS - X - - - - - -
+           PARTITION - O - - - - - -
+        INSTALLATION - - X - - - - -
+               POINT - - X - - - - -
+               /WINC - - O - X - - -
+                PATH - - - X - - - -
+             NOTHING - - - O - - - -
+                WINC - - - - X - - -
+                TIME - - - - - X - -
+               MOUNT - - - - - X - -
+          /ETC/FSTAB - - - - - S - -
+           BOOT-TIME - - - - - X - -
+              METHOD - - - - - O - -
+             COMMAND - - - - - S - -
+                 YES - - - - - - - X

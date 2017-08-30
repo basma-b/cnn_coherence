@@ -1,0 +1,17 @@
+                 ALL O -
+               HTTPS O -
+//HELP.UBUNTU.COM/COMMUNITY/POSTFIXBASICSETUPHOWTO X -
+               ERROR O -
+               4.3.0 S -
+  ./DFP43LDKTX006283 O -
+            BFCOMMIT X -
+               UID=0 X -
+             GID=127 X -
+                FILE X -
+           DIRECTORY S -
+        LOCALHOST/25 X -
+             PACKAGE - S
+                NAME - O
+              BREEZY - X
+               HOARY - X
+             VERSION - O

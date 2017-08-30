@@ -1,0 +1,14 @@
+               SOUND X - - - - -
+                CARD O - - - - -
+                  ID - S - - - -
+                STEP - O - - - -
+              REBOOT - - - O - -
+                SUDO - - - X - -
+/ETC/INIT.D/ALSA-UTILS - - - S - -
+                  OR - - - O - -
+                ALSA - - - X - -
+             STARTUP - - - X - -
+              SCRIPT - - - S - -
+                CALL - - - O - -
+                 YES - - - - - S
+              LITTLE - - - - - X

@@ -1,0 +1,24 @@
+              QUAKE4 O - - S - - - - -
+               ERROR S - - - - - - - -
+                LOAD X - - - - - - - -
+               SHARE O - - - - - - - -
+           LIBRARIES S - - - - - - - -
+         LIBX11.SO.6 X - - - - - - - -
+                FILE O - - - - - - - -
+           DIRECTORY X - - - - - - - -
+/USR/LIB/LIBX11.SO.6 - S - - - O X - -
+             SYMLINK - X - - - - - - -
+     LIBX11.SO.6.2.0 - X - - - - - - -
+             PROBLEM - - X - - - - - -
+                WORK - - - O - - - - -
+                ROOT - - - X - - - - -
+                USER - - - - X - - - -
+                 HMM - - - - - S - - -
+          PERMISSION - - - - - X S - -
+                SUDO - - - - - X - - -
+               CHMOD - - - - - S - - -
+                  .. - - - - - - X - -
+                LINK - - - - - - - O -
+              OUTPUT - - - - - - - X -
+          LRWXRWXRWX - - - - - - - X -
+           ALRIGHTIE - - - - - - - - X

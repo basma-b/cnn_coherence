@@ -1,0 +1,12 @@
+              UBUNTU X - - -
+             MACHINE X - - -
+              ACCESS O - - -
+                 SSH X - - -
+   /VAR/LOG/AUTH.LOG - O - -
+                 LOG - S - -
+    /ETC/INIT.D/SSHD - - S -
+                THIS - - - S
+               START - - - X
+             UPSTART - - - X
+             SERVICE - - - O
+                FILE - - - O

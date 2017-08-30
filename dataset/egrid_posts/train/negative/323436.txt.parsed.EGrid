@@ -1,0 +1,16 @@
+                ROOT X - - - - - -
+             SOMEONE S - - - - - -
+                WIKI X - - - - - -
+           SOMETHING X - - - - - -
+             SERVICE O - O - - - -
+   START-STOP-DAEMON O - - - - - -
+              MANUAL - S - - - - -
+                SUDO - - X - - - -
+ /ETC/INIT.D/SERVICE - - X - - - -
+               -LSB- - - S - - - -
+               -RSB- - - O - - - -
+                STOP - - X - - - -
+                HELP - - - - - X -
+                  SH - - - - - X -
+                  -X - - - - - X -
+               TRICK - - - - - O -

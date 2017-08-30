@@ -1,0 +1,15 @@
+                BOOT X X X X -
+                TEXT X - - - -
+                MODE X O - - -
+               NEWES - X - - -
+              NVIDIA - X - - -
+              DRIVER - S - - -
+            RECOVERY - X - - -
+                MENU - O O O -
+              REBOOT - - X - -
+                 KEY - - X - -
+                GRUB - - - X -
+                HEAP - - - - O
+       DOCUMENTATION - - - - X
+                 WEB - - - - X
+               LINUX - - - - O

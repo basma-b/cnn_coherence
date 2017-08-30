@@ -1,0 +1,14 @@
+              ANYONE S - - - -
+                 LVM X X - - -
+                DISK - O - - -
+                POOL - X - - -
+                CANT - X - - -
+              VOLUME - O X - -
+               DRIVE - X - - -
+           /DEV/SDB1 - - X - -
+     /MOUNT/WHATEVER - - O - -
+                  FS - - O - -
+               ORDER - - X - -
+             COMMAND - - X - -
+                 HEJ - - - S -
+                HELP - - - - X

@@ -1,0 +1,21 @@
+             COMMAND X - -
+              FOLDER X X -
+/USR/SHARE/AMSN/PLUGINS X X -
+                  MV - S -
+                DATA - S -
+                THIS - S -
+/TO/WHERE/YOU/WANT/TO/MOVE/IT - O -
+              PREFIX - O -
+                SUDO - X -
+           SUPERUSER - O -
+               POWER - O -
+                 -VT - S -
+           DIRECTORY - X -
+                FILE - X -
+                WORK - O -
+              ACCESS - X -
+                AMSN - X -
+             /TARGET - O -
+              TARGET - S -
+             DESKTOP - X -
+             MESSAGE - - O

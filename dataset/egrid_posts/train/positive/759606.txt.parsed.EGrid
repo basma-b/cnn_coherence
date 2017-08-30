@@ -1,0 +1,17 @@
+            APCI=OFF X - O -
+                GRUB X - - -
+               ENTRY X - - -
+               10.10 X - - -
+   /ETC/DEFAULT/GRUB - O X -
+              OPTION - O - -
+                LINE - X - -
+               THERE - X - -
+         UPDATE-GRUB - S - -
+             PROBLEM - O - -
+             BROTHER - - S -
+                FILE - - O -
+               THATS - - - X
+                BOOT - - - X
+             OPTIONS - - - O
+GRUB_CMDLINE_LINUX_DEFAULT= - - - X
+            NOSPLASH - - - X

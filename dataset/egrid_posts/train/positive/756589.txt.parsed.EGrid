@@ -1,0 +1,13 @@
+           DOWNGRADE X - - - - - -
+   2.6.32-24-GENERIC X - - - - - -
+           2.6.32-23 X - - - - - -
+              KERNEL - X - X X X -
+                9.10 - - X - - - -
+               10.04 - - X - - - -
+                GRUB - - - X - - -
+              OPTION - - - X - - -
+                 USE - - - X - - -
+                BOOT - - - - X - -
+             PACKAGE - - - - - X -
+                SUDO - - - - - - X
+             APT-GET - - - - - - S

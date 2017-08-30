@@ -1,0 +1,36 @@
+                  IM S - - - - - - - - - - - -
+             DRIVERS O - - - - - - - S - - - -
+                ECHO X - - - - - - - - - - - -
+                 MIA X - - - - - - - - - - - -
+           SOUNDCARD X - - - - - - - - - - - -
+        UBUNTUSTUDIO - X - - - - - - - - - - -
+                 THE - - X - - - - - - - - - -
+      WITH-CARDS=MIA - - X - - - - - - - - - -
+             VIA82XX - - X - - - - - - - - - -
+  WITH-SEQUENCER=YES - - X - - - - - - - - - -
+               CHECK - - O - - - - - - - - - -
+              KERNEL - - X X - - - X X X - - X
+     LINUX/VERSION.H - - X - - - - - - - - - -
+                  .. - - X - - - - - - - - - -
+                FILE - - X - - - - - - - - - -
+/USR/SRC/LINUX/INCLUDE/LINUX/VERSION.H - - S - - - - - - - - - -
+             PACKAGE - - - O - - - - - O - - O
+              SOURCE - - - X - X - - O X - - X
+        DISTRIBUTION - - - X - - - - - - - - -
+              OPTION - - - O - - - - - - - - O
+           DIRECTORY - - - O - - - - - - - - -
+             DEFAULT - - - S - - - - - - - - -
+               LINUX - - - - - X - - - - - - -
+              BINARY - - - - - - - - O - - - -
+              UBUNTU - - - - - - - - S - - - -
+                THAT - - - - - - - - - - X - -
+                 USE - - - - - - - - - - - - X
+              SYSTEM - - - - - - - - - - - - X
+                   > - - - - - - - - - - - - X
+      ADMINISTRATION - - - - - - - - - - - - X
+              ACCORD - - - - - - - - - - - - X
+                DPKG - - - - - - - - - - - - X
+                LIST - - - - - - - - - - - - X
+        2.6.20-16.29 - - - - - - - - - - - - X
+             MACHINE - - - - - - - - - - - - X
+/USR/SRC/LINUX-SOURCE-2.6.20 - - - - - - - - - - - - X

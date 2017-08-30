@@ -1,0 +1,13 @@
+                SWAP O - - - - - - -
+           PARTITION O - - - - - - -
+             OPTIONS - O - - - - - -
+               SHELL - S - - - - - -
+                ROOT - O X - - X - X
+                TYPE - - X - - - - -
+                  SU - - X - - - - -
+             PROBLEM - - - O - - - -
+              PASSWD - - - X - - - O
+            PASSWORD - - - - - - O -
+                SUDO - - - - - - X -
+                 ETC - - - - - - O -
+                USER - - - - - - X -

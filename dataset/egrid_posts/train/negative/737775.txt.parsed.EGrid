@@ -1,0 +1,17 @@
+             DEFAULT X O -
+               GNOME X - -
+             DESKTOP X - -
+       CONFIGURATION X - -
+             NOTHING S - -
+            ./GNOME2 - X -
+             ./GCONF - S -
+            RECOVERY - X -
+                MODE - O -
+                USER - X -
+              FOLDER - O -
+                 SET - X -
+         PERMISSIONS - X -
+          EVERYTHING - S -
+                 USE - - X
+                SUDO - - S
+                 SAY - - O

@@ -1,0 +1,17 @@
+                 SET O - - O S - - -
+              CONFIG X - - - - - - -
+                FILE X - O - - - - -
+            PROBLEMS - O - - - - - -
+         PERMISSIONS - - O - - - - -
+            SETTINGS - - O - - - - -
+                SUDO - - - X - - - -
+                NANO - - - S - - - -
+             PROBLEM - - - X - - - -
+                  IM - - - S - S - -
+                SFTP - - - O - X - -
+                BOTH - - - - O - - -
+              DAEMON - - - - - X - -
+      OPENSSH-SERVER - - - - - O - -
+                NAME - - - - - - - X
+             PACKAGE - - - - - - - X
+         THUNDERBIRD - - - - - - - X

@@ -1,0 +1,16 @@
+                 UID X X - - -
+              DEVICE S S - - -
+               FSTAB X X - - -
+                   $ - - O - -
+           /DEV/SDA1 - - S - -
+        /MNT/WINDOWS - - X X -
+             NTFS-3G - - O - -
+            UID=1000 - - X - -
+            GID=1000 - - X - -
+                TYPE - - X - -
+                LINE - - O - -
+         /MEDIA/DISK - - X - -
+             EXAMPLE - - O - -
+                THAT - - - - X
+                   K - - - - X
+                 LOL - - - - S

@@ -1,0 +1,14 @@
+             NETWORK X X -
+                 SET S - -
+               STORE X - -
+/ETC/NETWORK/INTERFACES S - -
+              ACCESS X - -
+               POINT O - -
+             MACHINE S - -
+                FILE - S -
+                AUTO - X -
+                  LO - S -
+            LOOPBACK - X -
+            SETTINGS - O -
+                 PSP - - S
+              CHARGE - - X

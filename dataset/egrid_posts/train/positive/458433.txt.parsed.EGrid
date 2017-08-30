@@ -1,0 +1,7 @@
+                HELP X - -
+                 PAM - O -
+                ROOT - S -
+               ERROR - O -
+                  SU - - X
+      AUTHENTICATION - - X
+         INFORMATION - - S

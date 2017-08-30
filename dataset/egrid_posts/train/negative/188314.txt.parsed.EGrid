@@ -1,0 +1,26 @@
+________________________________ S - - - - - - - -
+/USR/BIN/UPDATE-MANAGER O - - - - - - - -
+       AUTHORIZATION X - - - - - - - -
+           MECHANISM S - - - - - - - -
+                SUDO X - - - X - - - -
+             PROGRAM O - - - - - - - -
+             CONTACT - X - - - - - - -
+              SYSTEM - X - - - - - - -
+       ADMINISTRATOR - X - - - - - - -
+                   $ - - O - - - - - -
+                   ' - - X - - - - - -
+                 RUN - - X - - - - - -
+                 CLI - - X - - - - - -
+               WHEEL - - X - - - - - -
+      WHEELS-DESKTOP - - X - - - - - -
+            PASSWORD - - X - - - - - -
+                ROOT - - X - - - - - -
+/USR/LIB/PYTHON2.4/SITE-PACKAGES/APT/__INIT__.PY - - X - - - - - -
+       FUTUREWARNING - - X - - - - - -
+                 API - - S - - - - - -
+                  TA - - - - S - - - -
+             COMMAND - - - - X - - - -
+            PASTEBIN - - - - O - - - -
+             CHANNEL - - - - O - - - -
+                RULE - - - - - O - - -
+                  BR - - - - - - - - X

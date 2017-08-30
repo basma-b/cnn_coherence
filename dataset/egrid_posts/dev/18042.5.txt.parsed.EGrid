@@ -1,0 +1,29 @@
+CONSOLE==COMMANDLINE==BASHPROMPT X - - - -
+              MATTER X - - - -
+               FSTAB X - - - -
+                 USE X - - - -
+                 EXT X X - - -
+               2|3|4 X - - - -
+               -RSB- X - - - -
+              KERNEL X - - - -
+             SUPPORT X - - - -
+                EXT4 X - - - -
+              SUPORT - S - - -
+       ACTIONPARSNIP - - O - -
+             PRINTER - - X - O
+         PRINTERNAME - - X - -
+                 CUP - - X - -
+           QUEUENAME - - X - -
+HP_DESKJET_5400_SERIES - - X - -
+                MAKE - - X - -
+               MODEL - - X - -
+                  HP - - X - -
+             DESKJET - - X - -
+              SERIES - - S - -
+              REPEAT - - O - -
+               XCHAT - - X X -
+                 IPP - - - - O
+//192.168.0.105:631/PRINTERS/HP_DESKJET_5400_SERIES - - - - S
+                 URI - - - - X
+           LOCALHOST - - - - X
+       192.168.0.105 - - - - O

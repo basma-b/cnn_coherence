@@ -1,0 +1,11 @@
+               OWNER X - - - -
+               GROUP O - - - -
+           DIRECTORY X - - - -
+               CHOWN - X - - -
+                HOST - X S - -
+            HOSTNAME - - O - -
+                  PC - - X - -
+             ADDRESS - - X - -
+        /ETC/EXPORTS - - X - -
+          NFS-KERNEL - - - O -
+                THAT - - - - X

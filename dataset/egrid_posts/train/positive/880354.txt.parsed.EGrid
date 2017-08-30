@@ -1,0 +1,7 @@
+             REQUEST S -
+           DIRECTION O -
+               SETUP X -
+             APACHE2 X -
+                 SQL O -
+         NAMESERVERS X -
+                HTTP - X

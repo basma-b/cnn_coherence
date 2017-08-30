@@ -1,0 +1,7 @@
+               FAT32 X - - -
+                READ X - - -
+              PMOUNT - - O -
+                LINE - - O O
+               FSTAB - - X X
+         PERMISSIONS - - O -
+             NOTHING - - - X

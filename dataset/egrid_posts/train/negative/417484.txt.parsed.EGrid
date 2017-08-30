@@ -1,0 +1,8 @@
+              INSTAL X - - - -
+             OPTIONS - S - - -
+             NOLAPIC - X - - -
+         PNPBIOS=OFF - X - - -
+            PNPBIOS= - - - X -
+                  .. - - - X -
+                LOOP - - - - X
+              SCRIPT - - - - O

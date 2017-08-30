@@ -1,0 +1,22 @@
+            QUESTION - O - - - - -
+              APACHE - - X - - - -
+             APT-GET - - X - - - -
+              UBUNTU - - X - - - -
+              FOLDER - - O X - - -
+                FILE - - O X - - -
+              SERVER - - X O - - -
+                THAT - - - X - - -
+             APACHE2 - - - O - - -
+             DEFAULT - - - X - - -
+                SITE - - - X - - -
+              CONFIG - - - S - - -
+/USR/SHARE/DOC/PACKAGE-NAME/README.DEBIAN - - - X - - -
+                INFO - - - O - - -
+                TALK - - - O - - -
+              SOCKET - - - X - - -
+                 RUN - - - X - - -
+               MYSQL - - - X - - -
+               ERROR - - - X - - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK - - - S - - -
+               START - - - O - - -
+                   D - - - - - - X

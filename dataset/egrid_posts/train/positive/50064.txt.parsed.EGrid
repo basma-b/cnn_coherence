@@ -1,0 +1,13 @@
+                 MBR - X - -
+                  CD - X - -
+             WINDOWS - - X -
+            BOOTDISK - - O -
+                  .. - - O -
+              CFDISK - - S -
+                THIS - - O -
+         OF=/DEV/HDA - - X -
+                ROOT - - - S
+             DEFAULT - - - X
+            ROOTSUDO - - - X
+            DOCUMENT - - - O
+                WIKI - - - X

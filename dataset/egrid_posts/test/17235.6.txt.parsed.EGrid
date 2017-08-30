@@ -1,0 +1,19 @@
+        NETWORK-CARD X - - - - - - -
+            EXTERNAL X - - - - - - -
+                 USB X - - - - - - -
+            TERMINAL - X - - - - - -
+                TYPE - X - - - - - -
+                HTTP - X - - - - - -
+                LINK - X - - - - - -
+             PROCESS - - - X - - - -
+                WICD - - - X - - S -
+                  'S - - - - S - - -
+              REASON - - - - - - S -
+                 USE - - - - - - X -
+     NETWORK-MANAGER - - - - - - X -
+            4G-MODEM - - - - - - O -
+               BASIS - - - - - - X -
+             SUPPORT - - - - - - X -
+         USB-DONGLES - - - - - - X -
+               HTTPS - - - - - - - X
+//HELP.UBUNTU.COM/12.04/SERVERGUIDE/ADVANCED-INSTALLATION.HTML - - - - - - - X

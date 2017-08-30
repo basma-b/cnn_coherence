@@ -1,0 +1,15 @@
+                 PKG - O - - - - - - - -
+        DIST-UPGRADE - O - - - - O - - -
+             PROBLEM - - O - - - - - - -
+                   < - - - O - - - - - -
+                NAME - - - X - - - - - -
+                   > - - - X - - - - - O
+                 IFF - - - O - - - - - -
+        ERRORS/CLUES - - - O - - - - - -
+             VERSION - - - - X - - - - -
+LIBAVAHI-COMPAT-LIBDNSSD1 - - - - X - - - - -
+             APT-GET - - - - - - S - - S
+             BONJOUR - - - - - - S - - -
+                FILE - - - - - - - O - -
+           SOMETHING - - - - - - - O - -
+              UPDATE - - - - - - - - - S

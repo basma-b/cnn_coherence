@@ -1,0 +1,16 @@
+             COMMAND X - -
+                LINE X - -
+            ALSA-LIB - S -
+                SUDO - X -
+             APT-GET - S -
+               ERROR - O -
+             PACKAGE - X -
+           APT-CACHE - X -
+              SEARCH - X -
+                 LIB - X -
+                TEST - - X
+                 MD5 - - X
+               MEDIA - - X
+               CHECK - - O
+                  IM - - S
+                9.04 - - O

@@ -1,0 +1,13 @@
+             COMPILE X - - - - -
+           REFERENCE X - - - - -
+          ASTERISK99 X - - - - -
+              KERNEL - O - - - -
+                THAT - - X - - -
+              SOURCE - - O - - -
+              DIGIUM - - X - - -
+              DRIVER - - X - - -
+                SUDO - - X - - -
+             APT-GET - - S - - -
+                  -R - - O - - -
+       KERNEL-HEADER - - X - - -
+                CANT - - - - - X

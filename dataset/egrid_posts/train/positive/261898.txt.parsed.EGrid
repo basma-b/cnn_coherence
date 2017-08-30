@@ -1,0 +1,16 @@
+               RSYNC O - - - -
+                 SSH X - - - -
+          ENCRYPTION O - - - -
+                FILE X O X - -
+                DISK X - - - -
+                PIPE X - - - -
+          RETREIVALS S - - - -
+                TIME - X - - -
+                WORK - X - - -
+                SYNC - X - - -
+              CHANGE - O - - -
+             EXAMPLE - - X - -
+              BACKUP - - X - -
+             VERSION - - - S -
+             COMPARE - - - O -
+           SOMETHING - - - - X

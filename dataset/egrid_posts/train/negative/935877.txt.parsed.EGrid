@@ -1,0 +1,7 @@
+           UMASK=000 O - - -
+          /ETC/FSTAB X - - -
+                GOOD X - - -
+                THAT - - X -
+           /DEV/HDC1 - - S -
+                NTFS - - S -
+           SOMETHING - - O -

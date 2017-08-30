@@ -1,0 +1,11 @@
+              ANYONE X - - -
+             NETWORK X - - -
+             DRIVERS O - - O
+           INSTALLER O - - -
+                BOOT X - - -
+                 PXE X - - -
+               IMAGE - O - -
+              INITRD - - - X
+                CALL - - - X
+            MODPROBE - - - O
+LIB/DEBIAN-INSTALLER-STARTUP.D/ - - - X

@@ -1,0 +1,26 @@
+           HARDDRIVE O - - - - - - -
+               ESATA X - - - - - - -
+              FORMAT - X - - - - - -
+                EXT2 - X - - - - - -
+             STORAGE - - X - - - - -
+              DEVICE - - X - - - - -
+             MANAGER - - O - - - - -
+                ROOT - - - X - - - -
+         PERMISSIONS - - - X - - - -
+               OWNER - - - X - - - -
+                THIS - - - S S - - -
+                  OS - - - X - - X -
+              BACKUP - - - - O - - -
+                THAT - - - - - S - S
+                SUDO - - - - - X - -
+               CHOWN - - - - - X - -
+           ROOT.ROOT - - - - - S - -
+                UIDS - - - - - S - -
+          FILESYSTEM - - - - - O - -
+PERMISSIONS/OWNERSHIP - - - - - O - -
+               FAT32 - - - - - X - -
+                 E.G - - - - - X - -
+                   A - - - - - - S -
+             JONESES - - - - - - X -
+                KIND - - - - - - - S
+                SLOP - - - - - - - X

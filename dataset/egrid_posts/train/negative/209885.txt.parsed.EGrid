@@ -1,0 +1,14 @@
+                WONT X - - -
+                LOAD O - - -
+                CANT X - - -
+        /DEV/NVIDIA0 O - - -
+               LSMOD S - - -
+              NVIDIA X - - -
+              MODULE S - - -
+           XORG.CONF S - - -
+              ANYONE X - - -
+             DRIVERS - S - -
+            INSTANCE - - X -
+                SUDO - - X -
+                  MV - - S -
+/ETC/X11/XORG.CONF_NVIDIA - - S -

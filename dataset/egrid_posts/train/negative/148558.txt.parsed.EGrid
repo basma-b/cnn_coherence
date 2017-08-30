@@ -1,0 +1,17 @@
+             COMMAND S - - -
+              KERNEL O - - -
+                 ONE X - - -
+                GRUB X - - -
+             ENTRIES O - - -
+         KERNEL-I386 - O - -
+               ENTRY - X - -
+                 DOH - O - -
+ /BOOT/GRUB/MENU.LST - - O -
+             THEONES - - O -
+                FAKE - - - X
+             INSTALL - - - X
+           INSTALLER - - - X
+          EVERYTHING - - - O
+               /HOME - - - X
+              FORMAT - - - X
+              UNSURE - - - X

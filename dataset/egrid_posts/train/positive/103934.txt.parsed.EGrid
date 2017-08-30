@@ -1,0 +1,12 @@
+                FILE X O - - - -
+                  CD X - - - - -
+           PARTITION - O - - - -
+                SUDO - X - - - -
+            /MNT/FOO - O - - - -
+            /DEV/BAR - S - - - -
+              DEVICE - O - - - -
+                DISK - X - - - -
+              HDA0,0 - - - O - -
+               STATE - - - - X -
+              UBUNTU - - - - S -
+                HDA6 - - - - X -

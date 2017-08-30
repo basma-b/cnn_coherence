@@ -1,0 +1,23 @@
+            PROBLEMS O - - - - - - -
+           GSTREAMER X - - - - - - -
+             PACKAGE - X - - - - - -
+GSTREAMER0.10-GNOMEVFS - X - - - - - -
+GSTREAMER0.10-PLUGINS-BASE - X - - - - - -
+ GSTREAMER0.10-TOOLS - X - - - - - -
+     GSTREAMER0.10-X - X - - - - - -
+GSTREAMER0.10-PLUGINS-GOOD - X - - - - - -
+                 USE - - S - - - - -
+                WORK - - X - - - - -
+                FINE - - O - - - - -
+               TOTEM - - - S - - - -
+            MP3-FILE - - - O - - - -
+             EXAMPLE - - - X - - - -
+           MP3-FILES - - - X - - - -
+             WEBPAGE - - - X - - - -
+                   A - - - - X - - -
+             PROBLEM - - - - X - - -
+        ALTERNATIVES - - - - - X - -
+                 WEB - - - - - - X -
+             MPLAYER - - - - - - X -
+MOZILLA-MPLAYER-PLUGIN - - - - - - X -
+      FIREFOX-PLUGIN - - - - - - - O

@@ -1,0 +1,13 @@
+             SOMEONE X - - - - -
+                GRUB S - - - - -
+              OPTION S - - - - -
+                BOOT X - - X - -
+             WINDOWS X - - X - -
+                ROOT X - - - - -
+              NUMBER - - X - - -
+                PART - - - X - -
+ /BOOT/GRUB/MENU.LST - - - X - -
+              SAMPLE - - - S - -
+               ENTRY - - - S - -
+              SYSTEM - - - - - X
+/ETC/APT/SOURCES.LIST - - - - - O

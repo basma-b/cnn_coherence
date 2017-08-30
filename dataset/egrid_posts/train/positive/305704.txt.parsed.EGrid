@@ -1,0 +1,15 @@
+              SERVER X - - -
+          INITSCRIPT - S - -
+                SSHD - S - -
+           EXECUTION - S - -
+                PATH - X - -
+                 SIG - X - -
+                 HUP - O - -
+                BOTH - X - -
+                 SSH - - - O
+                HOME - - - X
+             NETWORK - - - X
+                PORT - - - X
+                WORK - - - X
+                  .. - - - X
+                 BOX - - - O

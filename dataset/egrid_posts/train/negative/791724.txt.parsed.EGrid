@@ -1,0 +1,16 @@
+             PROCESS O - - - -
+                LOAD O - - - -
+               BYOBU X - - - -
+          FOREGROUND X - - - -
+               SHELL - - O - -
+              SCREEN - - X - -
+            ANYTHING - - - - O
+                TEXT - - - - X
+                MODE - - - - X
+             TINYIRC - - - - X
+             BROWSER - - - - X
+                NANO - - - - X
+              EDITOR - - - - X
+               ASCII - - - - X
+              MOVIES - - - - O
+             MPLAYER - - - - S

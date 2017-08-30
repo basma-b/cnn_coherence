@@ -1,0 +1,18 @@
+                 SED X - -
+|BASEDIR|S|/USR/LOCAL/HTTPD/HTDOCS|/HOME/HTTP/HTML| S O -
+                 MAN O - -
+                 THE - S -
+                TEXT - S -
+            ARGUMENT - X -
+            TEXTFILE - O -
+               ORDER - X -
+        SUBSTITUTION - S -
+      SQUINT.CRON.SH - X -
+                 END - X -
+               ERROR - S -
+          EXPRESSION - X -
+                CHAR - X -
+             COMMAND - X -
+                   | - - O
+/BASEDIR/S/\/USR\/LOCAL\/HTTPD\/HTDOCS/\/HOME\/HTTP\/HTML/ - - X
+           SEPARATOR - - X

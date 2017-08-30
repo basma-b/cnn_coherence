@@ -1,0 +1,20 @@
+        LINUX-SOURCE - S - - - - - -
+               SENSE - O O - - - - -
+               THERE - S - - - - - -
+              THREAD - X - O - - - -
+            DEDICATE - O - - - - - -
+                YEAR - X - - - - - -
+       KERNEL-SOURCE - - S - - - - -
+               LINUX - - S - - - - -
+        DISTROSYSTEM - - O - - - - -
+                HTTP - - - X - - - -
+              UPDATE - - - S - - - -
+                SUDO - - - - - O - -
+                THAT - - - - - - S -
+LINUX-SOURCE-2.6.8.1 - - - - - - - S
+               UNTAR - - - - - - - X
+            /USR/SRC - - - - - - - X
+                  -R - - - - - - - O
+/USR/SRC/LINUX-2.6.8.1/.CONFIG - - - - - - - S
+             PREPARE - - - - - - - O
+/USR/SRC/LINUX-2.6.8.1 - - - - - - - X

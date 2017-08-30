@@ -1,0 +1,31 @@
+               NATTY O - - - - -
+             AWESOME X - - - - -
+                  WM X - - - - -
+               INTEL X - - - - -
+               SOUND X - - - - -
+                CARD X - - - - -
+             MPLAYER - X - - - -
+              PITHOS - X - - - -
+                PLAY - S X - - -
+               TOTEM - X S - - -
+             BANSHEE - S S - - -
+               TRACK - - X - - -
+         PULSESINK.C - - O - - -
+GST_PULSERINGBUFFER_ACQUIRE - - X - - -
+    PLAY/GSTPLAYSINK - - X - - -
+    PLAYSINK0/GSTBIN - - X - - -
+         ABIN/GSTBIN - - X - - -
+AUDIOSINKBIN/GSTGCONFAUDIOSINK - - X - - -
+   AUDIO-SINK/GSTBIN - - X - - -
+   BIN2/GSTPULSESINK - - X - - -
+          PULSESINK1 - - X - - -
+                 … - - X - - -
+               ERROR - - X - - -
+                   * - - S - - -
+              STREAM - - O - - -
+              ENTITY - - S - - -
+          PULSEAUDIO - - O - - -
+                WHAT - - O - - -
+                ALSA - - - X - -
+               CLICK - - - - - X
+                   X - - - - - O

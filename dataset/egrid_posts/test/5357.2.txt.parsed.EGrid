@@ -1,0 +1,6 @@
+         PERMISSIONS X - - -
+               CHMOD - S - -
+               .SSH/ - O - -
+             KERNELS - - - O
+              KERNEL - - - X
+              CONFIG - - - O

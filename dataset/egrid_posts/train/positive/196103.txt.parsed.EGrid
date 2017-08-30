@@ -1,0 +1,14 @@
+                ROOT X - - - - - -
+           PARTITION O X - - - - -
+             INSTALL X - - - - - -
+              CHANGE - S - - - - -
+              KERNEL - X S - - - -
+             PACKAGE - S - - - - -
+                GRUB - X - - - - -
+              CONFIG - S O - - - -
+                 SET - - X - - - -
+ /BOOT/GRUB/MENU.LST - - - X - - -
+                THAT - - - - X - -
+                DPKG - - - - S - -
+         INVESTIGATE - - - - - - X
+           INTERNALS - - - - - - O

@@ -1,0 +1,13 @@
+               PLACE X - - - -
+             CONFIGS - S - - -
+       /ETC/APACHE2/ - X X - -
+                FILE - S - - -
+           /VAR/WWW/ - X - - -
+                  .. - - O - -
+ /ETC/INIT.D/APACHE2 - - S - -
+                LOOK - - O - -
+                BITS - - O - -
+                CONF - - X - -
+        /ETC/APACHE2 - - X - -
+         /ETC/APACHE - - O - -
+          MULTIVERSE - - - - X

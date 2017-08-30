@@ -1,0 +1,17 @@
+            QUESTION O - - -
+                  .. X - - -
+             APACHE2 - S - -
+LIBAPACHE2-MOD-FASTCGI - O - -
+               ERROR - O - -
+/USR/LIB/CGI-BIN/PHP5-FCGI - S - -
+               IDEAS - O - -
+    /USR/BIN/PHP-CGI - - X -
+               THERE - - S -
+           PHP5-FCGI - - O -
+             PHP-CGI - - O -
+             PROCESS - - - X
+             COMMAND - - - X
+                  PS - - - X
+                 -EF - - - X
+               |GREP - - - X
+                   X - - - X

@@ -1,0 +1,32 @@
+               MOUSE X - - - - - - - - - - - -
+              CURSOR X - - - - - - - - - - - -
+                ICON S - - - - - - - - - - - -
+                THIS - O - - - - - - - - - - -
+             PROBLEM - O - - - - X - - - - - -
+SYSTEM-PREFERENCES-APPERANCE - O - - - - - - - - - - -
+           APPERANCE - - X - - - - - - - - - -
+         PREFERENCES - - S - - - - - - - - - -
+              VISIAL - - - X - - - - - - - - -
+             EFFECTS - - - X - - - - - - - - -
+                 TAB - - - X - - - - - - - - -
+                DONT - - - - - X - - - - - - -
+                 WAY - - - - - O - - - - - - -
+            GRAPHICS - - - - - - - X - - - - -
+              DRIVER - - - - - - - S - - - - -
+              SYSTEM - - - - - - - - - X - - -
+                   > - - - - - - - - - X - - -
+            HARDWARE - - - - - - - - - X - - -
+             DRIVERS - - - - - - - - - S - - -
+                 USE - - - - - - - - - X - - -
+                FINE - - - - - - - - - X - - -
+              SAFETY - - - - - - - - - X - - -
+           XORG.CONF - - - - - - - - - X - - -
+               EMPTY - - - - - - - - - X - - -
+            TERMINAL - - - - - - - - - X - - -
+                SUDO - - - - - - - - - - S - -
+/ETC/X11/XORG.CONF_BACKUP - - - - - - - - - - X - -
+    DPKG-RECONFIGURE - - - - - - - - - - X - -
+        XSERVER-XORG - - - - - - - - - - S - -
+                TIME - - - - - - - - - - - - X
+             MONITOR - - - - - - - - - - - - O
+               PANEL - - - - - - - - - - - - S

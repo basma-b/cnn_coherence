@@ -1,0 +1,17 @@
+              ANYONE S - - - - - - -
+                USER X - - - - - - -
+                DISK X X - - - - - -
+               SPACE O - - - - - - -
+               QUOTA - O - - - - - -
+              QUOTAS - - O - - - - -
+        USERS/GROUPS - - X - - - - -
+              DIALOG - - X - - - - -
+                  .. - - X - - - - -
+             PACKAGE - - X - - - - -
+      MACMENU-APPLET - - - O - - - -
+               PATCH - - - X - - - X
+             VERSION - - - O - - - X
+         LIBGTK2.0-0 - - - X - - - -
+              OTHERS - - - X - - - -
+                REPO - - - X - - - -
+           DOWNGRADE - - - - - - - X

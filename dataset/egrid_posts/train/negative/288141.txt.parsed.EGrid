@@ -1,0 +1,16 @@
+                NEWB S - - - -
+              SCRIPT O - - - -
+                TYPE X - - - -
+                NAME O - - - -
+                  SH X - - - -
+                THAT - X - - -
+             SYMLINK - - X - -
+           SCRIPT.SH - - X - -
+        /USR/BIN/FOO - - O - -
+                  GO - - S - -
+     /USR/LOCAL/BIN/ - - X - -
+               CHMOD - - X - -
+                  +X - - S - -
+             FASHION - - X - -
+                   * - - - - O
+                  /1 - - - - X

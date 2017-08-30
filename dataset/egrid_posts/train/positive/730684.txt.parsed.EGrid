@@ -1,0 +1,26 @@
+             CRONTAB O - - - - - -
+        DIST-UPGRADE X - - S - - -
+              PROMPT O - - - - - -
+                PLAN - X - - - - -
+             UPGRADE - X - S X - O
+                THAT - - S - - - -
+            OCCASION - - X - - - -
+                  .. - - O - X - -
+             PACKAGE - - - O O - -
+              DISTRO - - - O - - -
+              UPDATE - - - - X - S
+            CRON-APT - - - - X - S
+          DIFFERENCE - - - - X - -
+                HTTP - - - - X X -
+//WWW.LINUXQUESTIONS.ORG/QUESTIONS/LINUX-NEWBIE-8/WHATS-THE-DIFFERENCE-BETWEEN-APT-GET-UPGRADE-AND-APT-GET-DIST-UPGRADE-165998/ - - - - S - -
+//WWW.SHALLOWSKY.COM/BLOG/LINUX/DEBIAN-UPGRADES.HTML - - - - - X -
+           RECOMMEND - - - - - - O
+              SYSTEM - - - - - - X
+          DEPENDENCY - - - - - - X
+               CHECK - - - - - - O
+               THERE - - - - - - S
+            CONFLICT - - - - - - O
+              OUTPUT - - - - - - X
+              ERRORS - - - - - - O
+                 ETC - - - - - - O
+                THIS - - - - - - S

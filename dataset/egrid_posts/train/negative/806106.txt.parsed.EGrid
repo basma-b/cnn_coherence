@@ -1,0 +1,14 @@
+            WIRELESS S - - - -
+                BOTH - S - - -
+                   % - X - - -
+            INTERNET - S - - -
+                WIRE - X - - -
+            COMPUTER - - - X -
+                   ^ - - - X -
+                FILE - - - - O
+                ROOT - - - - X
+             ACCOUNT - - - - O
+              GKSUDO - - - - X
+                 VIM - - - - X
+ /BOOT/GRUB/GRUB.CFG - - - - X
+            GRUB.CFG - - - - O

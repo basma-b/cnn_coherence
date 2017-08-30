@@ -1,0 +1,26 @@
+                THAT O - - - -
+                 CAT X - - - -
+/ETC/NETWORK/INTERFACES X - - - -
+             COMMENT X - - - -
+                  \N X - - - -
+                AUTO X - - - -
+                  LO X - - - -
+               IFACE S - - - -
+                INET X - - - -
+            LOOPBACK S - - - -
+             NETWORK S - - - -
+           INTERFACE X - - X X
+                ETH0 X - - - -
+                DHCP S - - - -
+         192.168.0.1 O - - - -
+              ROUTER X - - - -
+                   U - X S - X
+              SERVER - - X - -
+                WONT - - S - -
+            INTERNET - - X - -
+           WIRESHARK - - O - -
+             PROBLEM - - - X -
+                  .. - - - O -
+            WIRELESS - - - X X
+              OPTION - - - O -
+               .ETH0 - - - S -

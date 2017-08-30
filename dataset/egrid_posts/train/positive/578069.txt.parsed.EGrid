@@ -1,0 +1,10 @@
+             ANYBODY S - - -
+                ROOT X - - X
+          FILESYSTEM O X - -
+              KERNEL X - - -
+                BOOT X - - -
+                FSCK - - S -
+               IDEAS - - O -
+               ERROR - - - S
+                 VFS - - - X
+              DEVICE - - - S

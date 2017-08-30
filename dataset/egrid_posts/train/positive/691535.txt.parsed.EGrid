@@ -1,0 +1,16 @@
+              ANYONE X - - - - -
+             VERSION O - - - - -
+          POSTGRESQL X - - - - -
+                BOOT X - X - - -
+              SCRIPT - O - - S -
+        /ETC/INIT.D/ - - X - - -
+            SEQUENCE - - X - - -
+                THAT - - - O - -
+                SUDO - - - X - -
+         UPDATE-RC.D - - - S - -
+             DEFAULT - - - O - -
+                STOP - - - - X -
+             COMMAND - - - - O -
+            RUNLEVEL - - - - X -
+          /ETC/RC2.D - - - - S -
+S98POSTGRESQL_START_SCRIPT - - - - O -

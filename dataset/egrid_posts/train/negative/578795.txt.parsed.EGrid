@@ -1,0 +1,12 @@
+          PERMISSION S - - -
+               SMBFS O O - -
+                ROOT X - - -
+                THIS - S - -
+                SUDO - X - -
+               /NFS/ - X - -
+                  RW - X - -
+             REMOUNT - - O -
+                /NFS - - O -
+                THAT - - - O
+         PHILIPPINES - - - X
+               LOCAL - - - X

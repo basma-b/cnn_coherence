@@ -1,0 +1,10 @@
+             MACHINE X - - - - - - - -
+             NETWORK X X X - - - - - -
+               LOGIN X - - - - - - - -
+             PROFILE S - - - - - - - -
+                 USE O - - - - - - - -
+              MATTER - X - - - - - - -
+                 SMB - - - X - - - - -
+                LDAP - - - - X - - - -
+            KERBEROS - - - - - X - - -
+                 PAM - - - - - - X - -

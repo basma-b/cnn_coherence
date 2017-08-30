@@ -1,0 +1,17 @@
+             PACKAGE S - - S - -
+              NVIDIA X - - - - -
+             DRIVERS X - - - - -
+                DEBS - S - - - -
+            RESTRICT - X - - - -
+                THAT - - X - - -
+          REPOSITORY - - - X - -
+                LIST - - - X - -
+                  .. - - - X - X
+                FILE - - - - - X
+                COPY - - - - - O
+              SYSTEM - - - - - X
+               SPEED - - - - - S
+               CYCLE - - - - - X
+                SFTP - - - - - O
+                HOME - - - - - X
+             NETWORK - - - - - X

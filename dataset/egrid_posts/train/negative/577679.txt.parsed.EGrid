@@ -1,0 +1,17 @@
+               PRINT X - - X - - - -
+             PRINTER - O - X - - O -
+                AUTO - - O - - - - -
+              STATUS - - - S - - - -
+             PENDING - - - X - - - -
+             PACKAGE - - - - X - - -
+               HPLIP - - - - - X - -
+                HTTP - - - - - X X -
+                 YUP - - - - - S - -
+               HPIJS - - - - - O S -
+//OPENPRINTING.ORG/SHOW_PRINTER.CGI - - - - - X - -
+              INSTAL - - - - - - X -
+                 FIX - - - - - - X -
+                   P - - - - - - X -
+              IFDOWN - - - - - - - X
+          ETH0/WLAN0 - - - - - - - O
+            WHATEVER - - - - - - - O

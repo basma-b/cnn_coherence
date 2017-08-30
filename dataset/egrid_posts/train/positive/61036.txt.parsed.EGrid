@@ -1,0 +1,15 @@
+            ALSACONF S - - - - - - - -
+                SBIN X - - - - - - - -
+                ROOT X X - - - - - - -
+                  NO - - S - - - - - -
+               /SBIN - - X - - - - - -
+              INSTAL - - - O - - - - X
+                APPS - - - - O - - - -
+                XMMS - - - - S - - - -
+             FOO.OGG - - - - - S - - -
+               TOTEM - - - - - S - - -
+              ESOUND - - - - - X - X -
+           GSTREAMER - - - - - X - S -
+                  RE - - - - - - - X -
+             PACKAGE - - - - - - - - X
+                  .. - - - - - - - - O

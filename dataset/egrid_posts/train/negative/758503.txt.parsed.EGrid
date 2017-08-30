@@ -1,0 +1,15 @@
+               STUMP O - - - - -
+                   * - O - - S -
+               /ETC/ - X - - - -
+                  .D - X - - - -
+                SSHD - - S O - -
+                BOOT - - X - - -
+                 BOX - - - X - -
+       START-ON-BOOT - - - X - -
+                 WAY - - - - X -
+                HINT - - - - X -
+  /ETC/INIT/SSH.CONF - - - - O -
+              UBUNTU - - - - S -
+                INIT - - - - O -
+             UPSTART - - - - O -
+               RIGHT - - - - - X

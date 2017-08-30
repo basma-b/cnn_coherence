@@ -1,0 +1,16 @@
+            BUILD.SH X - - - - - -
+                SAME X - - - - - -
+          EXECUTABLE - O - - - - -
+                 AUG - X - - - - -
+UPDATE-WORKSPACES.SH - S - - - - -
+          SUBROUTINE - S - - - - -
+               ERROR - S - - - - -
+                FILE - X X - - - -
+           DIRECTORY - - X - - - -
+                ONES - - X - - - -
+                   < - - - - S - -
+                   > - - - - O - -
+                LIST - - - - - - S
+             COMMAND - - - - - - X
+            PACKAGES - - - - - - O
+             PACKAGE - - - - - - S

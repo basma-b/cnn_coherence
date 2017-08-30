@@ -1,0 +1,25 @@
+               SAMBA S O - - -
+            ANYTHING O - - - -
+   /VAR/LOG/MESSAGES X - - - -
+/VAR/LOG/SAMBA/LOG.SMBD X - - - -
+            SMB.CONF - S - - -
+                 LOG - X - - -
+            FEATURES - O - - -
+              SDAMBA - S - - -
+                SUDO - X - - -
+   /ETC/INIT.D/SAMBA - X - - -
+             UPGRADE - - O - -
+                HOST - - X - X
+                  OS - - X - -
+                VBOX - - X - -
+                   > - - - S -
+              OTHERS - - - S -
+              CHATTR - - - X -
+                ROOT - - - X -
+          VIRTUALBOX - - - - X
+               GUEST - - - - X
+              ADDONS - - - - S
+                 WAY - - - - O
+               SHARE - - - - X
+           DIRECTORY - - - - X
+             MACHINE - - - - X

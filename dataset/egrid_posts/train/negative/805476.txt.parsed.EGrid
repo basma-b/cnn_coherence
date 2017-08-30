@@ -1,0 +1,11 @@
+               SHARE X -
+             COMMAND X -
+                LINE X -
+           SMBCLIENT X -
+\\\\SAMBASERVER\\MYSHARE X -
+               SMBFS X -
+//172.16.40.206/RICHARDS X -
+       /MNT/SMBFS_LB O -
+               FRESH - O
+             UPGRADE - X
+            VERSIONS - X

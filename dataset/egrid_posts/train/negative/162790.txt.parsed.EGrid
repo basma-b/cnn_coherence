@@ -1,0 +1,17 @@
+            WIRELESS X - - - -
+             CHIPSET X - - - -
+         NDISWRAPPER X - - - -
+                FILE - O - - -
+             ORINOCO - X - - -
+                CARD - S - - -
+             DEFAULT - O - - -
+              KERNEL - X - - -
+              DRIVER - S - - -
+                 USE - X - - -
+              IWLIST - O - - -
+                TRUE - S - - -
+                SITE - O - - -
+              UNPACK - - - - O
+                SUDO - - - - X
+                BASH - - - - X
+ DESKTOP/ADOBEREADER - - - - O

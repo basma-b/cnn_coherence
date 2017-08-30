@@ -1,0 +1,14 @@
+              OUTPUT X - - - - - - - - -
+                HEAD X - - - X - - - S -
+             CONTENT X - - - - - - - - -
+                FILE X - - - O - - - - -
+                PIPE X - - - - - - - - -
+               SHELL - X - - - - - - - -
+                CODE - S - - - - - - - -
+              WHAAAT - - X - - - - - - -
+                 UMM - - - X - - - - - -
+              MD5SUM - - - - X - - - - -
+                 CAT - - - - S - - - - -
+                   > - - - - S - - - - -
+                DUMP - - - - X - - - - -
+             PROGRAM - - - - - - - - O -

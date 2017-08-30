@@ -1,0 +1,16 @@
+                 HEY X - - - - - -
+                BOOT X - - - - - -
+               STORE X - - - - - -
+               12.04 X S - - - - -
+                 THE - S - - - - -
+            MENU.LST - O - - - - -
+               GRUB2 - O - - - - -
+   /ETC/DEFAULT/GRUB - - X - - - -
+                 SET - - - X - - -
+      GRUB_TIMEOUT=2 - - - S - - -
+                MENU - - - S - S -
+                 BUG - - - O - - -
+             OPTIONS - - - - X - -
+GRUB_HIDDEN_TIMEOUT=0 - - - - X - -
+               SHIFT - - - - - - O
+                GRUB - - - - - - S

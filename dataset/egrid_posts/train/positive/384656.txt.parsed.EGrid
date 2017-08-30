@@ -1,0 +1,15 @@
+                 HDD S - - - - - - -
+           PARTITION X - - - - - - -
+                SDA1 - X - - - S - -
+                SDA2 - S - - - S - -
+             COMMAND - S - - - - - -
+                SHOW - X - - - - - -
+             DRWXRWX - X - - - - - -
+         PERMISSIONS - O - X - - - -
+                THIS - - S - - - - -
+               CLEAN - - X - - - - -
+                7.10 - - X - - - - -
+              CHANGE - - O - - - - -
+              FORMAT - - - - X X - -
+                EXT3 - - - - - O - -
+                NTFS - - - - - O - S

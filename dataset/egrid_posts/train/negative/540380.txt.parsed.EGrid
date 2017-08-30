@@ -1,0 +1,17 @@
+            NOTATION O - - - - -
+                UUID O O - - - -
+                THAT - X - - - -
+            MENU.LST - X - - - -
+               FSTAB - X - - - -
+              RESUME - X - - - -
+                FILE - X - - - -
+              DEVICE - X - - - -
+                NAME - X - - - -
+           /DEV/SDB2 - X - - - -
+                BOOT - X X - - -
+             USPLASH - O - X - -
+                DROP - O - - - -
+                TEXT - X - - - -
+                MODE - X - - - -
+              UBUNTU - - X - - -
+            PASSWORD - - - - - X

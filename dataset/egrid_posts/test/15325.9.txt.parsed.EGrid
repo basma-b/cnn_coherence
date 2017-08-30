@@ -1,0 +1,46 @@
+             VERSION X - X - - - - - -
+              UBUNTU X - - - - - - - -
+             QUANTAL - S - - - - - - -
+               UNITY - X - - - - - - -
+              DESTOP - O - - - - - - -
+               CLICK - X - - - - - - -
+                DASH - X - - - - - - -
+                HOME - X - - - - - - -
+               LEAVE - X - - - - - - -
+              SCREEN - X - - - - - - -
+                TYPE - X - X - - - - -
+               POWER - X X X - - - - -
+                THIS - S - - - - - - -
+       SETINGS/POWER - X - - - - - - -
+                MENU - O - - - - - - -
+              OPTION - - O - - - - - -
+              BUTTON - - X - - - - - -
+              ACTION - - O - - - - - -
+                SUDO - - X - - - - - -
+             APT-GET - - S - - - - - -
+         DCONF-TOOLS - - S - - - - - -
+        DCONF-EDITOR - - - O - - - - -
+            TERMINAL - - - X - - - - -
+                   > - - - X - - - - -
+                HTTP - - - X - - O - -
+            SETTINGS - - - X - - - - -
+ORG.GNOME.SETTINGS-DAEMON.PLUGINS.POWER - - - X - O - - -
+          EVERYTHING - - - - S - - - -
+                GREY - - - - O - - - -
+                 GUI - - - - X - - - -
+           SOMETHING - - - - S - - - -
+              POLKIT - - - - X - - - -
+            SHUTDOWN - - - - - O - - -
+             PROBLEM - - - - - - S - -
+                SORT - - - - - - O - -
+                USER - - - - - - S - -
+              ACCESS - - - - - - X - -
+                ROOT - - - - - - X - -
+                  ID - - - - - - S - -
+               ISSUE - - - - - - O - -
+              GKSUDO - - - - - - X - -
+               GEDIT - - - - - - X - -
+/USR/SHARE/POLKIT-1/ACTIONS/ORG.FREEDESKTOP.UPOWER.POLICY - - - - - - X - -
+               HTTPS - - - - - - - X -
+//WWW.GOOGLE.COM.AU/SEARCH - - - - - - - X -
+Q=UNINSTALL+ALL+UPDATES+FROM+UBUNTU - - - - - - - - X

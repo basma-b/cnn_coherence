@@ -1,0 +1,11 @@
+          DEFINITION S - - - - -
+             TRAFFIC - O - O - -
+               INPUT - - - X X -
+                  -J - - - X - -
+                DROP - - - X - -
+                RULE - - - S - -
+        192.168.1.13 - - - X - -
+                THAT - - - - S -
+              SOURCE - - - - X -
+           NETFILTER - - - - X -
+               /JOIN - - - - - X

@@ -1,0 +1,18 @@
+                USER S S - - -
+               OWNER O O - - -
+           DIRECTORY X - - - -
+              ACCESS O - O - -
+         DIRECTORIES X - - - -
+              TARGET X - - - -
+         /DIRECTORYA - X - - -
+DIRECTORYA/DIRECTORYB - X - - -
+                THAT - - S - -
+               RIGHT - - O - -
+             TRAFERS - - X - -
+                 DIR - - O - -
+                TREE - - X - -
+               PLACE - - X - -
+                 ALL - - - S -
+                 HMM - - - S -
+                FILE - - - X -
+               STORE - - - O -

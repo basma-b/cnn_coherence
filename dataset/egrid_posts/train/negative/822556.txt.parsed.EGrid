@@ -1,0 +1,14 @@
+                DATA X S - X - -
+            RECOVERY O - - - - -
+                EXT3 X - X - - -
+           PARTITION X - - O - -
+                FSCK - S - - - -
+          SUPERBLOCK - X - - - -
+                FILE - X - - - -
+                 TIP - - S - - -
+          FILESYSTEM - - O - - -
+               IMAGE - - - O - -
+            TESTDISK - - - O - -
+              UPDATE - - - - - O
+        SOURCES.LIST - - - - - O
+        REPOSITORIES - - - - - O

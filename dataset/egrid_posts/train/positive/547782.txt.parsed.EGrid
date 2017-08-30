@@ -1,0 +1,17 @@
+           STRUCTURE X - - - - - -
+            TERMINAL X - - - - - -
+                SUDO - X - - - - -
+               FDISK - X - - - - -
+                  -L - S - - - - -
+              VOLUME - X - - - - -
+               LABEL - O - X - - -
+  /DEV/DISK/BY-LABEL - - - O - - -
+       /DEV/DISK/BY- - - - X - - -
+                   * - - - S - - -
+                NAME - - - O - - -
+                SHOW - - - X - - -
+               ABOVE - - - S - - -
+                THAT - - - - X - -
+             FDISK-L - - - - S - -
+                HELP - - - - O - -
+             COMMAND - - - - - S -

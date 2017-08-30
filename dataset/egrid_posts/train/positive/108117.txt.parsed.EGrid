@@ -1,0 +1,12 @@
+           PARTITION X - - X - - X
+               BLOCK - - X - - - -
+             DEVICES - - S - - - -
+                DISK - - X X - - -
+            WINBLOZE - - - - X - -
+              CHOICE - - - - O - -
+                GRUB - - - - X - -
+               START - - - - X - -
+              MASTER - - - - X - -
+               SLAVE - - - - X - -
+               DRIVE - - - - - - X
+             WINDOZE - - - - - - X

@@ -1,0 +1,25 @@
+      NETWORKMANAGER X X S -
+        COMMAND-LINE X - - -
+               START - S - -
+                SUDO - X - -
+/ETC/INIT.D/NETWORKMANAGER - O - -
+               -LSB- - S - -
+               -RSB- - O X -
+                  OK - - X -
+               THERE - - S -
+              WINDOW - - X -
+            ANYTHING - - O -
+             SERVICE - - O -
+              APPLET - - S -
+               CLICK - - X -
+               PANEL - - X -
+      NETWORKMONITOR - - O -
+                WORK - - - S
+                 END - - - X
+                FILE - - - X
+                HOME - - - X
+           DIRECTORY - - - O
+              EXPORT - - - X
+               PATH= - - - X
+                PATH - - - X
+              EFFECT - - - O

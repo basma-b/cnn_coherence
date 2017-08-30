@@ -1,0 +1,19 @@
+              OUTPUT S - - - - -
+            IFCONFIG X - - - X -
+               ROUTE O - - - - -
+                HTTP O - - - - -
+//PASTIE.ORG/5347496 X - - - - -
+             COMMAND S - - - - -
+T1VNQ7MWJOGVKJZTSFZQYCXSD6HMAT99KG5++AEXY48= - S - - - -
+               CABLE - - O O - -
+                 ALL - - S - - -
+         192.168.0.1 - - - X O S
+                ETH0 - - - X X X
+                 USE - - - X - -
+            INTERNET - - - X - -
+             COUNTER - - - - S -
+            INCREASE - - - - O -
+                  -I - - - - S -
+             ADDRESS - - - - O -
+       192.168.1.101 - - - - S -
+           INTERFACE - - - - - X

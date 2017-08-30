@@ -1,0 +1,16 @@
+           DIRECTORY O - - - - - - X - - -
+         PERMISSIONS - - - - - - X - - - -
+          PERMISSION - - - - - - - O O - -
+                 DIR - - - - - - - - O - -
+          FILESYSTEM - - - - - - - - S - -
+              DAMAGE - - - - - - - - O - -
+               CHECK - - - - - - - - O - -
+          MOUNTPOINT - - - - - - - - O - -
+             STARTUP - - - - - - - - - X -
+             WINDOWS - - - - - - - - - S -
+                TIME - - - - - - - - - - O
+                  .. - - - - - - - - - - X
+            PASSWORD - - - - - - - - - - S
+                 USE - - - - - - - - - - O
+            WIRELESS - - - - - - - - - - X
+                 KEY - - - - - - - - - - X

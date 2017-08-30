@@ -1,0 +1,17 @@
+             PROCESS X - - - -
+              DEVICE O - X - -
+               FUSER - X - - -
+            /DEV/DSP - S - - -
+                NONE - - S - -
+               THOSE - - X - -
+              OUTPUT - - O - -
+             AO_ALSA - - X - -
+            ALSA-LIB - - O - -
+            PCM_HW.C - - X - -
+   /DEV/SND/PCMC0D0P - - S - -
+            RESOURCE - - X - -
+           SOMETHING - - O - -
+             MPLAYER - - X - -
+                LSOF - - - S -
+           MIXER_APP - - - - O
+                MESS - - - - O

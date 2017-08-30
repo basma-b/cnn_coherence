@@ -1,0 +1,17 @@
+             APT-GET S - - - - - - - - -
+              SOURCE O - - - - - - - - -
+             PACKAGE X - - - - - - X - -
+             DEFAULT - S - - - - - - - -
+             RELEASE - - - X - - - - - -
+              DAPPER - - - - X - - - - -
+        DIST-UPGRADE - - - - X - - - - -
+                WONT - - - - X - - - - -
+              DISTRO - - - - O - - - - -
+                THAT - - - - - - O - - -
+        SOURCES.LIST - - - - - - O - - -
+             VERSION - - - - - - - O - -
+                DPKG - - - - - - - O - -
+                PAST - - - - - - - - - S
+          SOURCECODE - - - - - - - - - O
+                WINE - - - - - - - - - X
+              LAYOUT - - - - - - - - - X

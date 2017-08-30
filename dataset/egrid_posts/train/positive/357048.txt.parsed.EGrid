@@ -1,0 +1,16 @@
+              ANYONE X - -
+             ENTRIES X - -
+            EXTERNAL X - -
+                 USB X - X
+              DRIVES X - -
+          /ETC/FSTAB X - -
+                UUID - O -
+               /DEV/ - O -
+                TIME - - O
+           /DEV/SDB1 - - X
+               DRIVE - - S
+                HOOK - - X
+                  FS - - X
+          REMOUNT-RW - - X
+              ERRORS - - X
+                 SET - - X

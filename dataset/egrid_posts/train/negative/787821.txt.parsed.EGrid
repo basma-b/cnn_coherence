@@ -1,0 +1,24 @@
+              CD-ROM O - - - - -
+             MACHINE X - - - - -
+                 ONE O - O - - -
+                WIRE X - - - - -
+                 NIC S - - - - -
+            IFCONFIG X - X - - -
+                SUDO X - X - - -
+                ETH0 O X O - - -
+                DHCP O - - - - -
+                  .. - - O - - -
+            DHCLIENT - - X - - -
+                CARD - - X - - -
+               CABLE - - S - - -
+                ELAD - - X - - -
+              GKSUDO - - X - - -
+               GEDIT - - X - - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - S - - -
+             ENTRIES - - S S - -
+                LOOK - - X - - -
+                NICS - - X - - -
+          MACADDRESS - - - - O -
+                THAT - - - - - S
+               SENSE - - - - - O
+           DEVELOPER - - - - - O

@@ -1,0 +1,12 @@
+                HELP S - - - - - -
+             PACKAGE - X - - - - -
+                SOME - - - S - - -
+               THERE - - - S - - -
+                 LOG - - - O - - -
+                DPKG - - - X - - -
+            APTITUDE - - - O - - -
+   /VAR/LOG/APTITUDE - - - X - - -
+                 ^^^ - - - S - - -
+                TYPE - - - X - - -
+            TERMINAL - - - X - - -
+   /VAR/LOG/DPKG.LOG - - - - - - X

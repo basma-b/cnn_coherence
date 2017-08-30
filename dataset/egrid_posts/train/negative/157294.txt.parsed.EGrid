@@ -1,0 +1,16 @@
+                THAT O - - -
+                IFUP X - - -
+                ETH0 S - - -
+                 DNS - S O -
+    /ETC/RESOLV.CONF - - S -
+                DHCP - - X -
+              SERVER - - S -
+               GEDIT - - X -
+              BACKUP - - O -
+              CUSTOM - - - O
+                 ISO - - - X
+                LXDE - - - X
+              LITTLE - - - S
+            PLYMOUTH - - - X
+                BOOT - - - X
+             PROCESS - - - X

@@ -1,0 +1,16 @@
+             PROGRAM X - X - - - -
+              UBUNTU X - - - - - -
+                 GTK - S - - - - -
+         ENVIRONMENT - O - - - - -
+                 ALL - - X - - - -
+           LIBRARIES - - O - - - -
+                LINK - - O - - - -
+             COMPILE - - X - - - -
+          PKG-CONFIG - - O - - - S
+              CFLAGS - - X - - - -
+                 GCC - - - S S - -
+                FILE - - - O O - -
+                FLAG - - - - - - O
+            COMPILER - - - - - - S
+             FOLDERS - - - - - - X
+-I/USR/LIB/GTK-2.0/INCLUDE - - - - - - X

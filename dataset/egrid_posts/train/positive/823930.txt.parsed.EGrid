@@ -1,0 +1,9 @@
+            REISERFS S S -
+               FSTAB - O -
+                UUID - S -
+          FILESYSTEM - X -
+                   > - X -
+   /MEDIA/MOUNTPOINT - X -
+               WHATS - X -
+                SUDO - X -
+               BLKID - X -

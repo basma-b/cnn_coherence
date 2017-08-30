@@ -1,0 +1,11 @@
+              KERNEL S - -
+             SUPPORT O - -
+              PV_OPS X - -
+      VIRTUALISATION - X -
+            PARAVIRT - X -
+       /BOOT/CONFIG- - S -
+                  -R - X -
+                HINT - X -
+              DEVICE - - X
+              DRIVER - - S
+              NVIDIA - - O

@@ -1,0 +1,32 @@
+               10.04 O - - - - - - -
+               GNOME S - - - - - - -
+                BOOT O - - - - - - -
+                MODE X - - - - X - -
+                 WAY X - - - - - - -
+            SESSIONS O - - - - - - -
+   /VAR/LOG/MESSAGES - X - - - O - -
+                SHOW - S - - - - - -
+               ERROR - O - - - - - -
+       INITILIZATION - S - - - - - -
+                  .. - O - - - - - -
+              ERRORS - O - - - - - -
+             WARNING - X - - - - - -
+                ACPI - S - - - - - -
+/VAR/RUN/ACPID.SOCKET - X - - - - - -
+               IDEAS - X - - - - - -
+                 X11 - - X - - - - -
+         RECONFIGUTE - - X - - - - -
+              GOOGLE - - - S - - - -
+              FRIEND - - - O - - - -
+                HTTP - - - O - - - -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - - O - - - -
+               UNITL - - - - X - - -
+                 GDM - - - - - O - -
+AUTOMATICLOGINENABLE=FALSE - - - - - O - -
+/ETC/GDM/CUSTOM.CONF - - - - - X - -
+                AUTO - - - - - S - -
+              DIALOG - - - - - O - -
+                FILE - - - - - - X -
+                LINK - - - - - - O -
+                DIRS - - - - - - X -
+                 BUM - - - - - - - X

@@ -1,0 +1,19 @@
+                MOST S - - - -
+             TRAFFIC X - - - -
+               MEDIA X - - - -
+              STREAM O - - - -
+           INITRAMFS X - - - -
+               RIGHT X - - - -
+                 ONE X - - - -
+              CONFIG - X - - -
+      /ETC/INITRAMFS - - X - -
+/ETC/NETWORKMANAGER/NETWORKMANAGER.CONF - - - O -
+        MANAGED=TRUE - - - S -
+                TYPE - - - O -
+      NETWORKMANAGER - - - X -
+              FORUMS - - - - S
+                TONS - - - - O
+           TUTORIALS - - - - X
+               HOWTO - - - - X
+                WIKI - - - - X
+              BASICS - - - - X

@@ -1,0 +1,10 @@
+             STARTUP X - -
+           DIRECTORY X - -
+              UBUNTU X - -
+ ~/.CONFIG/AUTOSTART - X -
+             PROCESS - - X
+             COMMAND - - X
+                  PS - - X
+                 -EF - - X
+               |GREP - - X
+                   X - - X

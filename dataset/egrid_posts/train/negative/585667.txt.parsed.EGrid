@@ -1,0 +1,15 @@
+             NETWORK O X - -
+         CONNECTIONS O O - -
+/ETC/NETWORK/INTERFACES X - - -
+              IWLIST X - - -
+             MANAGER - X - -
+                ICON - X - -
+             DESKTOP - X - -
+             TOOLBAR - X - -
+                TYPE - X - -
+            IFCONFIG - O - -
+                 RIG - - - X
+             WINDOWS - - - X
+          BOOTLOADER - - - O
+                BOOT - - - X
+              KERNEL - - - O

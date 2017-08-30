@@ -1,0 +1,5 @@
+               BIND9 O -
+             CONFIGS O -
+              CONFIG S -
+                SUDO X -
+             APT-GET X -

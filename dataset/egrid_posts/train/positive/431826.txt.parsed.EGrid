@@ -1,0 +1,21 @@
+              SCRIPT S - - - - - - - - -
+                 USE O - - - - - - - - -
+             SUSPEND X - X O - - - - - -
+  /ETC/ACPI/SLEEP.SH - O - - - - - - - -
+              CHANGE - O - - - - - - - -
+/ETC/DEFAULT/ACPI-SUPPORT - X - - - - - - - -
+               HARDY - - S - - - - - - -
+             PMUTILS - - O - - - - - - -
+                HARD - - - S - - - - - -
+              NOBODY - - - S - - - - - -
+               ISSUE - - - O - - - - - -
+              FIESTY - - - S - - - - - -
+               VENUE - - - O - - - - - -
+        GUIFICATIONS - - - - - X - - - -
+              PLUGIN - - - - - X - - - -
+                PACK - - - - - O - - - -
+             TOASTER - - - - - X - - - -
+              POPUPS - - - - - O - - - -
+                TEST - - - - - - X - - X
+             MESSAGE - - - - - - X - - -
+                NICK - - - - - - X - - -

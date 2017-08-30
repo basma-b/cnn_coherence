@@ -1,0 +1,16 @@
+              KERNEL X - - - -
+           PARAMETER X - - - -
+                THIS - X - - -
+                BOOT - X - X O
+             COMMAND - X - - -
+           NOMODESET - - - X -
+                GRUB - - - X -
+                MENU - - - O -
+                   E - - - X -
+               ENTRY - - - O X
+                 END - - - X -
+               LINUX - - - X -
+                LINE - - - X -
+              SPLASH - - - X -
+               PRESS - - - - S
+              MODIFY - - - - X

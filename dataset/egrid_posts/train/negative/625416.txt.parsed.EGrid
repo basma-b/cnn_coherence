@@ -1,0 +1,15 @@
+         NAMESERVERS X S - - -
+                LIST - X - - -
+/ETC/NETWORK/INTERFACES - X - - -
+                 IP1 - X - - -
+                 IP2 - S - - -
+                 FIX - X O - -
+                  IP - X - - -
+               THESE - S - - -
+             MACHINE - O - - -
+                  .. - X - - -
+                 ONE - - O - -
+           WEBSERVER - - X - -
+           AUTOMATIC - - - - S
+              NVIDIA - - - - X
+             DRIVERS - - - - X

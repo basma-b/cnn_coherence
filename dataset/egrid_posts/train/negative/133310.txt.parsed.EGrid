@@ -1,0 +1,9 @@
+           PARTITION O - X - -
+              RESULT O - - - -
+           FSCK.EXT3 X - - - -
+               BLOCK O - - - -
+          FILESYSTEM X - - - -
+               SHORT X - - - -
+           /DEV/HDA7 O - X - -
+                HOME - - X - -
+              NOTICE - - - - O

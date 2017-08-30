@@ -1,0 +1,7 @@
+                NTFS X -
+             LOGFILE S -
+                 ANY O -
+           PARTITION X -
+                BOOT X -
+             WINDOWS X -
+              CHKDSK O -

@@ -1,0 +1,10 @@
+                COPY S - - - - -
+                TEST X - - - - -
+          EVERYTHING S - - - - -
+                 BUG - - S - - -
+              FREEZE - - X - - -
+             FIREFOX - - S - - -
+                BOOT - - - S - -
+               EVERY - - - - S -
+                HOUR - - - - X -
+                HTTP - - - - - X

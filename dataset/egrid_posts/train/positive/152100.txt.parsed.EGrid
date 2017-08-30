@@ -1,0 +1,26 @@
+               THING X -
+             DESKTOP X -
+                 TAR X -
+                FILE X -
+                PLUG X -
+              DAPPER O -
+                 DEB X -
+                HTTP O -
+//WWW.DEBIAN-MULTIMEDIA.ORG O -
+                 SID X -
+                 ETC X -
+               CHECK X -
+              BREEZY X -
+              SOURCE X -
+             VERSION S -
+              UBUNTU X -
+               SARGE S -
+        SOURCES.LIST S -
+             APT-GET S -
+              UPDATE X -
+                SUDO X -
+                NANO X -
+/ETC/APT/SOURCES.LIST S -
+             COMMAND - O
+              OPTION - S
+            ARGUMENT - O

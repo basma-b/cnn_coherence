@@ -1,0 +1,14 @@
+                THAT O - - - - - -
+                   X O - - - - - -
+              KERNEL O - X - - - -
+         RECONFIGURE X - - - - - -
+        XSERVER-XORG O - - - - - -
+             DRIVERS X - - - - - -
+              INSTAL O - - - - - -
+          NVIDIA/ATI - S - - - - -
+    DPKG-RECONFIGURE - - X - - - -
+           XORG.CONF - - X - - - -
+             UPGRADE - - - - S - -
+          EVERYTHING - - - - O - -
+                 BUG - - - - O - -
+            ANYTHING - - - - - X -

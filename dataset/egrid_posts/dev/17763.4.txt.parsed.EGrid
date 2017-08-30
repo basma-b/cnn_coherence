@@ -1,0 +1,11 @@
+             DRIVERS X - -
+                DICE X - -
+         NDISWRAPPER - X -
+              IWLAGN - O -
+             IWL4965 - O -
+              DEVICE - O -
+                 SYS - S -
+                 INF - X -
+                 MAN - - X
+                HIER - - O
+              DETAIL - - X

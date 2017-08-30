@@ -1,0 +1,7 @@
+            IWCONFIG X -
+               WLAN0 S -
+               ESSID S -
+                   > O -
+            DHCLIENT S -
+             DRIVERS - S
+              UBUNTU - X

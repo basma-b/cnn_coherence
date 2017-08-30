@@ -1,0 +1,11 @@
+    /ETC/RESOLV.CONF S - -
+             CONTROL X - -
+     NETWORK-MANAGER X - -
+                 DNS O - -
+             DESKTOP X O -
+              SERVER O - -
+                   M - S -
+             DEFAULT - - X
+               12.04 - - X
+                FILE - - O
+          NAMESERVER - - X

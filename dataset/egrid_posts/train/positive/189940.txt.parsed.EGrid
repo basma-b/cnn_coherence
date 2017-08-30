@@ -1,0 +1,16 @@
+                  DD X - - - -
+                DISK O - - - -
+              OPTION - X - - -
+                TIME - - X X -
+              BS=512 - - O - -
+               BYTES - - O O -
+             MANPAGE - - - S -
+                 MAN - - - X -
+                PAGE - - - S -
+            BS=BYTES - - - - S
+           IBS=BYTES - - - - X
+           OBS=BYTES - - - - O
+                  BS - - - - S
+                BOTH - - - - O
+                 IBS - - - - X
+                 OBS - - - - O

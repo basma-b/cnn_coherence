@@ -1,0 +1,16 @@
+     MODULES/DRIVERS X - - - - - - -
+                MOST - S - - - - - -
+              KERNEL - X - - - - - -
+             DEFAULT - X - - - - - -
+            MODPROBE - X - - - - - -
+                   ' - - - S - - - -
+                   * - - - X - - - -
+                SITE - - - S - - - -
+                 B44 - - - S - - - -
+             BCM4400 - - - S - - - -
+    MODULE-ASSISTANT - - - S - - - -
+              MODULE - - - X - - - -
+             HEADERS - - - - S - - -
+                  CD - - - - - - - X
+                 SRC - - - - - - - S
+              ERORRS - - - - - - - O

@@ -1,0 +1,12 @@
+               DRIVE O X - O X - - - - -
+                 HDB X - - X - - - - - -
+              FORMAT - X - - X - - - - -
+              SECTOR - X - - X - - - - -
+               IDEAS - - X - - - - - - -
+              ANYONE - - S - - - - - - -
+                  DD - - - - - X - X X -
+         OF=/DEV/HDB - - - - - - - X - -
+        IF=/DEV/ZERO - - - - - - - S - -
+     IF=/DEV/URANDOM - - - - - - - - S -
+                LOOP - - - - - - - - - O
+               HOURS - - - - - - - - - X

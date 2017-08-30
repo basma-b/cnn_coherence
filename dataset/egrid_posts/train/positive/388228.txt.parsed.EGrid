@@ -1,0 +1,28 @@
+            CONFLICT S - - - - - - - - - -
+XSERVER-XORG-VIDEO-I810 X - - - - - - - - - -
+          2:1.9.91-1 X - - - - - - - - - -
+             VERSION X - - - - - - - - - -
+     1:1.7.2-4MEPIS2 X - - - - - - - - - -
+                DPKG - X - - - - - - - - -
+               ERROR - X - - - - - - - - -
+             PROCESS - X - - - - - - - - -
+./XSERVER-XORG-VIDEO-INTEL_1.9.94-1UBUNTU4_I386.DEB - X - - - - - - - - -
+                THIS - O - - - X - - - - -
+               INTEL - X X - - - - - X X -
+              DRIVER - X X - - - - - O X -
+               MEPIS - - - X O - - S X - -
+               REPOS - - - S - - - - - - -
+                ACER - - - - O - - X - - -
+             S-VIDEO - - - - S - - - - - -
+        REPOSITORIES - - - - - - - S - - -
+               CLASH - - - - - - - O - - -
+                ONES - - - - - - - X - - -
+                THAT - - - - - - - - X - -
+              UBUNTU - - - - - - - - X - -
+                 ONE - - - - - - - - S - -
+           SOMETHING - - - - - - - - X - -
+                LIEK - - - - - - - - X - -
+            PROBLEMS - - - - - - - - O - -
+                IDEA - - - - - - - - O - -
+              OUTPUT - - - - - - - - - S -
+                 LCD - - - - - - - - - X -

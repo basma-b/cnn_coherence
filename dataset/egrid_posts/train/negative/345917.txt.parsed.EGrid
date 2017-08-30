@@ -1,0 +1,27 @@
+                HELP O - - - - - - - -
+                   X S - - - - - - - -
+                DELL X - - - - - - - -
+                FONT S O - - S - - - -
+                WRAP X - - - - - - - -
+         FRAMEBUFFER - X - O - - - - -
+            SETTINGS - O - - - - - - -
+             CONSOLE - - X - - - - - -
+                FILE - - - - X - - - -
+             COMMAND - - - - - X - - -
+               FONTS - - - - - O - - -
+                 FLY - - - - - X - - -
+                 MAN - - - - - X - - -
+                 THE - - - - - - O - -
+               FRAME - - - - - - X - -
+              BUFFER - - - - - - O - -
+                NOFB - - - - - - X - -
+              OPTION - - - - - - X - -
+              KERNEL - - - - - - X - -
+                GRUB - - - - - - X - -
+            MENU.LST - - - - - - X - -
+                 TIP - - - - - - X - -
+             TASKBAR - - - - - - - X -
+               CLONE - - - - - - - O -
+             WINDOWS - - - - - - - X -
+               HTTPS - - - - - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/LINUX/+BUG/291573 - - - - - - - - X

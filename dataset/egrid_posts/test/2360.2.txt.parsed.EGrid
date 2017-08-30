@@ -1,0 +1,14 @@
+              DRIVER - - O - - - - -
+              KERNEL - - X O - - - -
+              SCRIPT - - - - O - - -
+            RECOVERY - - - - X - - -
+                MODE - - - - X - - -
+             MESSAGE - - - - O - - -
+                FILE - - - - O - - -
+               /TMP/ - - - - X - - -
+             REMOUNT - - - - - O - -
+                  RW - - - - - S - -
+                /TMP - - - - - X - -
+            TERMINAL - - - - - - O O
+                BACK - - - - - - - X
+                LUCK - - - - - - - X

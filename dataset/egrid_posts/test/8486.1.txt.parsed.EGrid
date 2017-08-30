@@ -1,0 +1,10 @@
+              RFKILL X - -
+                 ALL S - -
+              OUTPUT - X -
+               LSMOD - X -
+               |GREP - X -
+                 WMI - O -
+                THIS - - S
+            WIRELESS - - X
+            KEYBOARD - - X
+                 USB - - O

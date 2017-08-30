@@ -1,0 +1,12 @@
+              BZFLAG X S -
+              SOURCE O - -
+                GL.H X - -
+              HEADER S - -
+                FILE O - -
+                  .. O - -
+                 ANY O - -
+              DEVLIB X - -
+       FREEGLUT3-DEV S - -
+                REPO - X -
+                THAT - - O
+             MACHINE - - O

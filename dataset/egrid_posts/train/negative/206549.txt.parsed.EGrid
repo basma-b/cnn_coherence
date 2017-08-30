@@ -1,0 +1,12 @@
+                  QT X - - -
+                JACK X - - -
+             CONTROL X - - -
+           INTERFACE O - - -
+              SERVER O - - -
+              CLIENT X - - -
+               JACKD O - X -
+                   $ - - X -
+          JACKD|GREP - - X -
+             ^II|AWK - - X -
+               PRINT - - X -
+               PIDOF - - X -

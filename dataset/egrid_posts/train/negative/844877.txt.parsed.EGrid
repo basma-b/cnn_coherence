@@ -1,0 +1,10 @@
+               ERROR X - - - -
+             MESSAGE X - - - -
+                  PM X - - - -
+              DEVICE X X - - -
+               00:0B S X - - -
+               LSPCI - - S - -
+               LSUSB - - X - -
+                THAT - - - - X
+                 USE - - - - X
+                BIND - - - - X

@@ -1,0 +1,9 @@
+               THERE X - - -
+             COMMAND X - - -
+              SOURCE X S - -
+             PACKAGE O O - -
+                   > - X - -
+                 DIR - X - -
+   DPKG-BUILDPACKAGE - O - -
+                .DEB - O - -
+                  -R - - - X

@@ -1,0 +1,15 @@
+                TIME S S -
+              SCRIPT O - -
+                GREP X - -
+             KEYWORD O - -
+            TEXTFILE X - -
+S/WHATEVERL/WHATEVER - X -
+                THAT - - S
+                JRIB - - S
+/ETC/APACHE2/MODS-ENABLED/PHP.CONF - - X
+         DESCRIPTION - - O
+             DEFAULT - - X
+             DISABLE - - X
+              OPTION - - S
+            SECURITY - - X
+              REASON - - X

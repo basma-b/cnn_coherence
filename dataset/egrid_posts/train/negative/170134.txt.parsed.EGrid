@@ -1,0 +1,16 @@
+            LANGUAGE X - - - -
+             COMMAND X - - - -
+                LINE X - - - -
+           VARIABLES - O - - -
+                FILE - O - - -
+              SYSTEM - - X - -
+                WDIE - - X - -
+           PARTITION - - - X S
+             SECTION - - - O -
+           AUTOMATIC - - - X -
+         PARTITIONER - - - - S
+         APPROPRIATE - - - - X
+              POINTS - - - - O
+                   / - - - - X
+               /HOME - - - - X
+               /SWAP - - - - O

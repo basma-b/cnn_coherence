@@ -1,0 +1,13 @@
+         PERMISSIONS X - - - - - - -
+                FILE X - - - - - - -
+               OWNER - X - - - - - -
+                ROOT - X - - - - - -
+          PRIVILAGES - O - - - - - -
+           DIRECTORY - - - S - - - -
+            EVERYONE - - - X - - - X
+             COMMAND - - - X - - - -
+                SUDO - - - - X - - -
+/VAR/CACHE/APT/ARCHIVES/ - - - - O - - -
+          DIFFERENCE - - - - X - - -
+               THESE - - - - - - - S
+         EXECUTABLES - - - - - - - O

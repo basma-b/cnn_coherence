@@ -1,0 +1,27 @@
+               ERROR X X - - - - -
+                   W - X - - - - -
+                 GPG - X - - - - -
+                HTTP - X - - - - -
+ //PPA.LAUNCHPAD.NET - X - - - - -
+            MAVERICK - X - - - - -
+             RELEASE - X - - - - -
+          SIGNATURES - S - - - - -
+                 KEY - S - - - - -
+           NO_PUBKEY - X - - - - -
+    D0AFF96872D340A3 - X - - - - -
+             APT-GET - X - - - S -
+              UPDATE - O - - - - -
+                CANT - S - - X - -
+        APPLICATIONS - S - - X - -
+                SUDO - X - - - X -
+             APT-KEY - X - - - - -
+                 ADV - O - - - - -
+KEYSERVER.UBUNTU.COM - X - - - - -
+              ERRORS - - X - - - -
+               WORLD - - - - X - -
+                   * - - - - - O -
+              COURSE - - - - - - X
+             PROGRAM - - - - - - O
+             NETWORK - - - - - - X
+             MANAGER - - - - - - X
+              STATUS - - - - - - S

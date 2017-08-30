@@ -1,0 +1,19 @@
+/ETC/SECURITY/LIMITS.CONF X - - -
+               LIMIT S - - -
+                USER X - - -
+              TINKER - X - -
+                 ATM - X - -
+               LINUX - X - -
+              NUMBER - O - -
+             PROCESS - X - -
+               USERS - X - -
+               GROUP - X - -
+                SUDO - X - -
+         PPPOECONFIG - X - -
+           PPPOECONF - O - -
+                 NAT - O - -
+               SHIFT - X - -
+                PAGE - X - -
+            KEYBOARD - X - -
+           SHORTCUTS - X - -
+             MESSAGE - - X -

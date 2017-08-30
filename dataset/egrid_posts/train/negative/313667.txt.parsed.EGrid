@@ -1,0 +1,9 @@
+             COMMAND X - - - -
+             PACKAGE O - - - -
+             APT-GET X - - S -
+                 MAN - X - - -
+                PAGE - O - - -
+           APT-CACHE - O - - -
+              SEARCH - - X - -
+                 FOO - - X - -
+                  UR - - - - X

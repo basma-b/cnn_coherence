@@ -1,0 +1,7 @@
+                 ALL X -
+           DIRECTORY O -
+               MKDIR X -
+/DIRECTORYTHATDOESNOTEXISTYET X -
+             DEFAULT - X
+              CONFIG - X
+                FILE - X

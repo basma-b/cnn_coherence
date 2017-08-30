@@ -1,0 +1,15 @@
+          FILESYSTEM X - - - -
+               CHECK X - - - -
+              DEVICE - X - - -
+                FSCK - - - - X
+                 BOX - - - - X
+                 LOG - - - - O
+               ERROR - - - - S
+ /ETC/DEFAULT/LOCALE - - - - X
+            LOGLEVEL - - - - S
+         SSHD_CONFIG - - - - X
+                HTTP - - - - X
+//PASTEBIN.COM/M3DD42674 - - - - X
+                   U - - - - S
+          /DEV/XXXXX - - - - O
+               POINT - - - - X

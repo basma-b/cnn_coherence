@@ -1,0 +1,12 @@
+               ERROR O - - - -
+              PACKET X - - - -
+                   E O - - - -
+             PACKAGE X - S - -
+GNOME-KEYRING-PKCS11.SO O - - - -
+                THIS - X - - -
+             APT-GET - S - S -
+                FILE - - - S -
+       GNOME-KEYRING - - - S -
+                SUDO - - - X -
+             DEFAULT - - - X -
+                 YEP - - - - X

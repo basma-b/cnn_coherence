@@ -1,0 +1,9 @@
+             CONTENT O - -
+             BROWSER O - -
+               PROXY - S -
+               SQUID - X -
+      CONTENT-FILTER - O -
+        DANSGUARDIAN - X -
+          PULSEAUDIO - - O
+                WORK - - X
+                FINE - - X

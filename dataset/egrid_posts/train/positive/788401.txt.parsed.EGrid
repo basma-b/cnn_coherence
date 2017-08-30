@@ -1,0 +1,20 @@
+                 UMM X - - -
+                  IM S - - -
+             HAMACHI O - - -
+                THIS - O - -
+        HAMACHI-INIT - O - -
+               ERROR - O - O
+                LOAD - X - X
+               SHARE - X - X
+           LIBRARIES - S - S
+  LIBCRYPTO.SO.0.9.7 - X - X
+              OBJECT - X - S
+                FILE - O - X
+           DIRECTORY - O - X
+           SOMETHING - O - -
+                CANT - S - -
+                POST - - X -
+              OUTPUT - - S -
+                   * - - X -
+/USR/LIB/LIBCRYPTO.SO.0.9.7 - - O -
+                   > - - - S

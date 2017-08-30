@@ -1,0 +1,22 @@
+                FAWN O - - - -
+            WIRELESS - S - - -
+                CARD - S - - -
+            BROADCOM - X - - -
+             CHIPSET - X - - -
+     NETWORK-MANAGER - X - - -
+                THAT - - X X -
+            KERN.LOG - - S - -
+           SOMETHING - - O - -
+             BCM43XX - - O - -
+              DRIVER - - O S -
+                 JAN - - O - -
+              KERNEL - - X - -
+                TODO - - O - -
+                CODE - - O - -
+BCM43XX_RADIO_SELECTCHANNEL - - X - -
+DRIVERS/NET/WIRELESS/BCM43XX/BCM43XX_RADIO.C - - X - -
+                 LOT - - X - -
+                 MAC - - S - -
+            UBUNTU+1 - - O - -
+              FINISH - - - O -
+               THANK - - - - X

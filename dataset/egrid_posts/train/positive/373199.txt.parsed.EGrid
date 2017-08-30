@@ -1,0 +1,9 @@
+             UPSTART S - - - -
+             INITTAB O - - - -
+                FILE O - X - -
+                  .. O - - - -
+            RUNLEVEL - X - - -
+              TUNNEL - S - - -
+              SCRIPT - - - X X
+                HOST - - - X -
+                WORK - - - - X

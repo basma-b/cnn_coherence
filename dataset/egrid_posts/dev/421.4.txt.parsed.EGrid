@@ -1,0 +1,25 @@
+                FSCK O S - - - - - - - - - - -
+           PARTITION X - - X - - - - - - - - -
+             COMMAND - X - - - - - - - - - - -
+            /DEV/SDA - O - - - - - - - - - - -
+            SOMEBODY - - X - - X - - - - - - -
+                 ONE - - - S - - - - - - - - -
+  /DEV/DISK/BY-LABEL - - - X - - - - - - - - -
+              /MEDIA - - - O - - - - - - - - -
+             NOTHING - - - - O - - - - - - - -
+                HINT - - - - - X - - - - - - -
+               ENTRY - - - - - - O - - - - - -
+          /ETC/FSTAB - - - - - - X - - - - - -
+                 USB - - - - - - X - - - - - -
+            HARDDISK - - - - - - O - - - - - -
+               FSTAB - - - - - - X - - - - - -
+                 /ME - - - - - - - - S - - - -
+                WAKE - - - - - - - - X - - - -
+                DISK - - - - - - - - - X - - -
+              BURNER - - - - - - - - - S - - -
+                 ISO - - - - - - - - - O - - -
+              UBUNTU - - - - - - - - - X - - -
+                THAT - - - - - - - - - - O - -
+             BRASERO - - - - - - - - - - X - -
+               THERE - - - - - - - - - - - - X
+//WWW.ADDICTIVETIPS.COM/UBUNTU-LINUX-TIPS/WINUSB-CREATE-BOOTABLE-WINDOWS-INSTALLER-USB-IN-UBUNTU-LINUX/ - - - - - - - - - - - - X

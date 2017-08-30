@@ -1,0 +1,22 @@
+                  DD O O -
+              FORMAT O - -
+                 GUI X - -
+             PROGRAM O - -
+             COMMAND X X -
+                LINE X X -
+                 ONE S - -
+                  .. - X X
+              DIDENT - S -
+       IF=/DEV/CDROM - X -
+OF=/HOME/YOURUSERNAME/DESKTOP/FILE.ISO - X -
+               BS=2K - S -
+             EASIEST - O -
+          /DEV/CDROM - X -
+               ERROR - X -
+                SUDO - O -
+         PERMISSIONS - X -
+                PROB - O -
+             PROBLEM - O -
+                  CD - - X
+                PLAY - - X
+                FINE - - X

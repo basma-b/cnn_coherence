@@ -1,0 +1,23 @@
+     AUTHORIZED_KEYS - X - - X - - - - - - - - - -
+                SERV - - X - - - - - - - - - - - -
+               WEEKS - - X - - - - - - - - - - - -
+              KARMIC - - X - - - - - - - - - - - -
+            MGOLISCH - - O - - - - - - - X - - - -
+                 GUY - - X - - - - - - - - - - - -
+~/.SSH/AUTHORIZED_KEYS - - X - - - - - - X - - - - -
+    AUTHORIZED_KEYS2 - - - X - - - O - - - - - - -
+/ETC/SSH/SSHD_CONFIG - - - - - O - - - - - - - - -
+             DEFAULT - - - - - - X - - - - - - - -
+                FILE - - - - - - - S - - - - - - -
+                 KEY - - - - - - - - X - - - - - -
+                USER - - - - - - - - - X - - - - -
+                ROOT - - - - - - - - - X - - - - -
+         PERMISSIONS - - - - - - - - - - O O - - -
+                DONT - - - - - - - - - - - X - - -
+                   = - - - - - - - - - - - S - - -
+                ONES - - - - - - - - - - - O - - -
+              SERVER - - - - - - - - - - - - X - -
+                 CLI - - - - - - - - - - - - X - -
+                THAT - - - - - - - - - - - - - - O
+                  ON - - - - - - - - - - - - - - X
+              WINDOW - - - - - - - - - - - - - - S

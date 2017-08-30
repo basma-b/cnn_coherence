@@ -1,0 +1,7 @@
+           PARTITION S -
+                 USE X -
+                XFCE X -
+                DONT S -
+               GNOME O -
+              INSTAL O -
+           DIRECTORY - O

@@ -1,0 +1,12 @@
+              SCRIPT S - - - - - - -
+            PRIORITY X - - - - - - -
+                WAIT - S - - - - - -
+                DEVS - S - - - - - -
+                 DMA - O - - - - - -
+                 ING - X - - - - - -
+                HTTP - - - - - - X -
+//WIKI.XENSOURCE.COM/XENWIKI/XENDOM0KERNELS - - - - - - S -
+                NOTE - - - - - - O -
+              UBUNTU - - - - - - S -
+          THREADHTTP - - - - - - O -
+           P=6230287 - - - - - - - X

@@ -1,0 +1,10 @@
+                LINK O - - X
+         DIRECTORIES X - - -
+                 FOO - O - -
+                 BAR - O - -
+            ARGUMENT - - - S
+              TARGET - - - X
+                NAME - - - O
+                /FOO - - - X
+                /BAR - - - S
+              OPTION - - - O

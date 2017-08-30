@@ -1,0 +1,12 @@
+              ANYONE X - - - -
+                ALSA - O - - -
+               PULSE - O - - -
+                 OSS - O - - -
+                AUTO - S - - -
+                GREP - X - - -
+                 PCM - X - - -
+             PROCESS - O - - -
+               SOUND - X - - -
+                CARD - X - - -
+             COMMAND - - S - O
+               WHILE - - O - -

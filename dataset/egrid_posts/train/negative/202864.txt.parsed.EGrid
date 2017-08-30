@@ -1,0 +1,19 @@
+                 ONE O - - - - - - S
+           PARTITION X X - - - - - -
+                EXT3 X S - - - - - -
+                 XFS X - O - - - - -
+          FILESYSTEM X - - - - - - -
+                TYPE O - - - - - - -
+              SYSTEM - - S - - - - -
+              DEBIAN - - S - - - - -
+               SARGE - - X - - - - -
+             SUPPORT - - - - X - - -
+              KERNEL - - - - X - O -
+            QUESTION - - - - - X - -
+               STOCK - - - - - - X -
+                  .. - - - - - - X -
+/BOOT/CONFIG-2.10.BLAH - - - - - - X -
+            2.10.XXX - - - - - - S -
+              DAPPER - - - - - - X -
+                 YUM - - - - - - - O
+            PROBLEMS - - - - - - - X

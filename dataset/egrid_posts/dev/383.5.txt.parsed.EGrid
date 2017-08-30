@@ -1,0 +1,8 @@
+               THERE X S - -
+             BENEFIT X - - -
+              ENABLE O - - -
+            SETTINGS - - - S
+     /VAR/LOG/SYSLOG - - - O
+             MESSAGE - - - X
+            KERN.LOG - - - X
+/ETC/LOGROTATE.D/RSYSLOG - - - X

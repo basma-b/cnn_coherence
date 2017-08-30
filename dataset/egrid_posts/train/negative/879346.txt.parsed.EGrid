@@ -1,0 +1,14 @@
+                HELP O - - - - -
+              LAPTOP X - - - - -
+                BOOT O - - - - -
+                GRUB X - - - - -
+              LOADER X - - - - -
+                MENU X - - - - -
+              SCREEN O - - - - -
+              KERNEL - - - X - -
+             MESSAGE - - - X - -
+        APPEND=XXXXX - - - X - -
+           LILO.CONF - - - X - -
+               EPERT - - - - X -
+           XXXXX=THE - - - - - S
+                MODE - - - - - O

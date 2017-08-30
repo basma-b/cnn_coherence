@@ -1,0 +1,15 @@
+           DEB-FILES O - - -
+           DIRECTORY X - - -
+                DPKG X - - -
+                DONT X - - -
+                WORK O - - -
+                FILE - S - -
+           DEPENCIES - O - -
+               OTHER - X - -
+                WONT - S - -
+           FILE1.DEB - X - -
+           FILE2.DEB - X - -
+                UDEV - - - S
+                /DEV - - - X
+             PURPOSE - - - X
+          FILESYSTEM - - - O

@@ -1,0 +1,13 @@
+              RESULT S - - - - - - -
+                SELF S - - - - - - -
+                PING - O - - - - - -
+                INFO - O - - - - - -
+          CONNECTION - X - - - - - -
+            IFCONFIG - - - X - - - -
+              OUTPUT - - - S - - - -
+               DMESG - - - - S - - -
+             MESSAGE - - - - O - - -
+               THERE - - - - - X - -
+            FIREWALL - - - - - X - -
+                   * - - - - - - - S
+                  .. - - - - - - - X

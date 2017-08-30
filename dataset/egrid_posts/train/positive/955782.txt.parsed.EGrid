@@ -1,0 +1,7 @@
+             OPTIONS S -
+             PACKAGE X -
+       WIRELESS-MODE X -
+                AUTO X -
+                ETH1 O -
+         YOURNETNAME O -
+                  OK - X

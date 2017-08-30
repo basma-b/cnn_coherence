@@ -1,0 +1,10 @@
+             NETBOOT O - X - - -
+           PARTITION O - - S - -
+                 HDD S - - - - -
+                SATA - X - - - -
+                DROP - - X - - -
+                ROOT - - - X - X
+                FILE - - - X - -
+              SYSTEM - - - X - -
+                LIST - - - O - -
+          FILESYSTEM - - - - - X

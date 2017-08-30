@@ -1,0 +1,8 @@
+             NETWORK X - -
+             COMMAND X - S
+                LINE X - -
+              IWLIST - X -
+                ETH1 - S -
+           INTERFACE - X -
+            WIRELESS - - X
+             REQUEST - - S

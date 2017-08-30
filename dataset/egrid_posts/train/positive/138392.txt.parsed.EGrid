@@ -1,0 +1,13 @@
+             PROCESS S - - - -
+                 ONE O - - - -
+            SESSIONS - X - - -
+              REBOOT - S - - -
+             ADVANCE - - X - -
+                TERM - - X - -
+             KILLALL - - X - -
+            SYNAPTIC - - X - -
+              UPDATE - - O - -
+                DPKG - - S - X
+                  -A - - X - X
+             PROBLEM - - O - -
+                SUDO - - - - X

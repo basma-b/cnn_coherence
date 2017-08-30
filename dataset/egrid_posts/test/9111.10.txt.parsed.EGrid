@@ -1,0 +1,12 @@
+                GRUB S - - - - - -
+           PARTITION X - - - - - O
+               12.04 - O - - - - -
+                BOOT - X - - - - -
+               THERE - S - - - - -
+              SYSTEM - O - - - - -
+                  OS - X - - - - -
+                USER - - - S - - -
+                 USB - - - - X - -
+               DRIVE - - - - X - -
+            INSTANCE - - - - - - S
+                SWAP - - - - - - X

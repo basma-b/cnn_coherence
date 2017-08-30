@@ -1,0 +1,16 @@
+                USER O - - - X
+            COMPUTER X - - - -
+             COMMAND X - - - -
+       DISCONNECTION O - - - -
+               SHELL - O - - -
+              DEBUG1 - - - X -
+             READING - - - X -
+              CONFIG - - - X -
+                DATA - - - X -
+ /ECT/SSH/SSH_CONFIG - - - X -
+                  .. - - - X X
+             OPTIONS - - - O -
+         SSH_CONNECT - - - - X
+                HOST - - - - X
+                NAME - - - - S
+             SERVICE - - - - S

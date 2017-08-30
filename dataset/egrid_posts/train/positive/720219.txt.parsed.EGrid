@@ -1,0 +1,40 @@
+               ISSUE O - - - - - - - - - - - - - -
+                 SSH X - - - - - - X - - - - - - -
+          PERMISSION S X - - - - - - - - - - - - -
+                MESS O - - - - - - - - - - - - - -
+             CONFIGS X - - - - - - - - - - - - - -
+                TIRE O - - - - - - - - - - - - - -
+                  -V X - - - - - - - - - - - - - -
+                 KEY O S O - - - - - - - - - - - -
+                 SEC - X - - - - - - - - - - - - -
+                TEST - X - - - - - - - - - - - - -
+              ID_RSA - S - S - - - - - - - - - - -
+               IDEAS - O - - - - - - - - - - - - -
+                THAT - - S - - - - - - - - - - - -
+       ~/.SSH/CONFIG - - X - - - - - - - - - - - -
+PREFERREDAUTHENTICATIONS - - X - - - - - - - - - - - -
+            ANYTHING - - O - - - - - - - - - - - -
+                  -D - - O O - - - - - - - - - - -
+               AGENT - - X - - - - - - - - - - - -
+             KEYFILE - - O - - - - - - - - - - - -
+                 ONE - - - - O - - - - - - - - - -
+           PASSWORDS - - - - S - - - - - - - - - -
+                  .. - - - - - O - - - - - - - - -
+               THERE - - - - - - S - - - X - - - -
+              REASON - - - - - - O - - - - - - - -
+              PUBKEY - - - - - - - O - - - - - - -
+             GENERAL - - - - - - - S - - - - - - -
+                AUTH - - - - - - - O - - - - - - -
+              SERVER - - - - - - - - - X - - - - -
+                 WAY - - - - - - - - - - X - - - -
+               CHECK - - - - - - - - - - - X - - -
+                  NO - - - - - - - - - - - - X - X
+       ALLOWPASSWORD - - - - - - - - - - - - X - -
+                   * - - - - - - - - - - - - X - -
+              USEPAM - - - - - - - - - - - - O - -
+/ETC/SSH/SSHD_CONFIG - - - - - - - - - - - - X - -
+PASSWORDAUTHENTICATION - - - - - - - - - - - - - - S
+              USEPEM - - - - - - - - - - - - - - S
+          ALLOWUSERS - - - - - - - - - - - - - - S
+                SUDO - - - - - - - - - - - - - - X
+                USER - - - - - - - - - - - - - - X

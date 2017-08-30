@@ -1,0 +1,23 @@
+             OPENSSH O X - - - - - - - - - - -
+              UNPACK - X - - - - - - - - - - -
+             TARBALL - S - - - - - - - - - - -
+         ./CONFIGURE - X - - - - - - - - - - -
+                   + - S - - - - - - - - - - -
+          EVERYTHING - O - - - - - - - - - - -
+             DEFAULT - X - - - - - - - - - - -
+               WHATS - X - - - - - - - - - - -
+        REPOSITORIES - X - - - - - - - - - - -
+               ERROR - - X - - - - - - - - - -
+            INTERNET - - - X - - - - - - - - -
+                THIS - - - O - - - - - - - - -
+               REPOS - - - - S - - - - - - - -
+             VERSION - - - - - X - - - - - - -
+              UBUNTU - - - - - X - - - - - - -
+              METHOD - - - - - - X - - - - - -
+             DESKTOP - - - - - - - X - - - - -
+                  CD - - - - - - - X X X - - -
+              SERVER - - - - - - - - X - - - -
+        SOURCES.LIST - - - - - - - - - - O - -
+/ETC/APT/SOURCES.LIST - - - - - - - - - - X - -
+            POINTERS - - - - - - - - - - - X -
+                WORK - - - - - - - - - - - - S

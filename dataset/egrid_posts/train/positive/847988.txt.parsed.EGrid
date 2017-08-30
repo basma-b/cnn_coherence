@@ -1,0 +1,14 @@
+                PLUG S - - - - -
+              FORMAT X - - - - -
+                USER X - X X - -
+                PERM X - S - - -
+                 INT X - - - - -
+               USERS - S - - - -
+              ACCESS - O - X - -
+                FILE - S - - O -
+               DRIVE - - S - - -
+             FOLDERS - - - X - -
+                THAT - - - - O -
+                SUDO - - - - X -
+              FOLDER - - - - - O
+             MESSAGE - - - - - X

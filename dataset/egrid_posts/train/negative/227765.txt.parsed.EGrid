@@ -1,0 +1,13 @@
+         WRITABILITY S - - -
+               CHMOD - O - -
+                  ED - X - -
+            WRITABLE - S - -
+               FAT32 - X - -
+           ATTRIBUTE - X - -
+               MOUNT - X - -
+             OPTIONS - S - -
+              OUSIDE - X - -
+                 WAY - - X -
+                THIS - - S -
+               SENSE - - O -
+                  OK - - - X

@@ -1,0 +1,17 @@
+               THERE X - - - - - - - -
+         DIFFERENCES X - - X - - - - -
+        ALTERNATIVES X - - X - - - - -
+               FSTAB X - - X - - - - -
+                 ALT X X - X X - - - -
+               USERS - O - - O - - - -
+           GID=USERS - X - - X - - - -
+          UMASK=0002 - X - - X - - - -
+           /DEV/HDA5 - - X X - X S - -
+                VFAT - - X - - X - - -
+                USER - - X - - X - - -
+                AUTO - - X - - X - - -
+      IOCHARSET=UTF8 - - - S - - S - -
+                THAT - - - - - - O - -
+                 MAN - - - - - - X - -
+           SOMETHING - - - - - - - O -
+                EBOX - - - - - - - S -

@@ -1,0 +1,16 @@
+                INFO - X - - -
+                 BUM - X - - -
+                   | - X - - -
+                 RWW - S - - -
+      /VAR/LOG/DMESG - S - - -
+ /VAR/LOG/DAEMON.LOG - S S - -
+   /VAR/LOG/MESSAGES - S S - -
+             USPLASH - O - - -
+                  .. - X O - -
+               THERE - O - - -
+       /VAR/LOG/BOOT - - X - -
+                FILE - - X - -
+                   D - - S - -
+               SHIFT - - S - -
+                PAGE - - O - -
+                 NVM - - - - X

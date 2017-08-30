@@ -1,0 +1,23 @@
+           DIRECTORY X - - -
+                NAME X - - -
+               STEVE X - - -
+          EVERYTHING O - - -
+            OLDFILES X - - -
+               THERE X - - -
+                 WAY X - - -
+            DOTFILES - O - -
+                 ONE - - - O
+                 TAR - - - X
+               CVPZF - - - X
+      BACKUPDELL.TGZ - - - S
+EXCLUDE=/BACKUPDELL.TGZ - - - S
+        EXCLUDE=/MNT - - - X
+        EXCLUDE=/SYS - - - X
+      EXCLUDE=/MEDIA - - - S
+                   / - - - S
+             COMMAND - - - X
+          BACKUP.TGZ - - - X
+ EXCLUDE=/BACKUP.TGZ - - - X
+EXCLUDE=/DONTINCLUDEME - - - X
+          /HOME/JACK - - - X
+              FOLDER - - - X

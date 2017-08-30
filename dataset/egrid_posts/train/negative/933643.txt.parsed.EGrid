@@ -1,0 +1,15 @@
+                IPOD S - - -
+         PERMISSIONS - S - -
+                MINE - X - -
+                 ONE - O - -
+                TYPE - S - -
+                LOOK - O - -
+                   R - X - -
+                   W - X - -
+            JORDANAU - X - -
+                VFAT - X - -
+                  RW - X - -
+            UID=1000 - X - -
+            GID=1000 - X - -
+           UMASK=077 - X - -
+               NOTTT - - - X

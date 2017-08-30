@@ -1,0 +1,15 @@
+                FILE X X - -
+GNOME-SESSION-PROPERTIES X - - -
+        APPLICATIONS X - - -
+               LOGIN X - - -
+           AUTOSTART - X - -
+                APPS - O - -
+~/.CONFIG/AUTOSTART/ - X - -
+             SESSION - O - -
+   ~/.GNOME2/SESSION - X - -
+          EVERYTHING - - O -
+                THAT - - - O
+             WINDOWS - - - X
+             PROGRAM - - - X
+               CLICK - - - X
+                LINK - - - X

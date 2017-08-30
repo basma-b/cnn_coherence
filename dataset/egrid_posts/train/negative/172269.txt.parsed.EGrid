@@ -1,0 +1,13 @@
+           XORG.CONF O - - -
+                SUDO - X - -
+    DPKG-RECONFIGURE - X - -
+        XSERVER-XORG - S - -
+                LOOP - X - -
+                   / - O - -
+ /PATH/TO/MOUNTPOINT - X - -
+                 3RD - S - -
+             MINIMUM - O - -
+          OPENOFFICE - O - -
+                 NOT - - X -
+                REPS - - X -
+            UNIVERSE - - - O

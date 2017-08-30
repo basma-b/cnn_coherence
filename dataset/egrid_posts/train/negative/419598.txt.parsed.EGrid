@@ -1,0 +1,18 @@
+              ANYONE S - - -
+             DEFAULT X - - -
+               VALUE O - - -
+     ACPI_SLEEP_MODE X - - -
+                MINE - O - -
+                ORIG - X - -
+                 MEM - O - -
+              DENNIS - X - -
+              MIRAGE - X - -
+/ETC/DEFAULT/ACPI-SUPPORT - X - -
+ ACPI_SLEEP_MODE=MEM - X - -
+             COMMAND - - O -
+            DATABASE - - X -
+              DBNAME - - S -
+                DISK - - X -
+                INIT - - X -
+               STATS - - S -
+                   U - - - X

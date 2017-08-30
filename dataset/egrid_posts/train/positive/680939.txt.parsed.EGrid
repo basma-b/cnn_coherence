@@ -1,0 +1,19 @@
+               ERROR X - - - - -
+             MESSAGE X - - - - -
+                   * X - - - - -
+              UPDATE X - - - - -
+                   $ - X - O - -
+               GUESS - X - - - -
+         RECONFIGURE - X - - - -
+        MYSQL-SERVER - X - X - -
+/ETC/APPARMOR.D/USR.SBIN.MYSQLD - - X - - -
+                DPKG - - - X - -
+                OOPS - - - X - -
+             VERSION - - - - X -
+              CUSTOM - - - - X -
+              MY.CNF - - - - X -
+                  .. - - - - O -
+             STARTUP - - - - X -
+              SCRIPT - - - - S -
+                HAND - - - - X -
+              THANKS - - - - X -

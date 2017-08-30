@@ -1,0 +1,15 @@
+                NICS O - X -
+                ETH1 X - S -
+             DEFAULT X X - -
+                  GW X - - -
+             NETWORK X - X -
+           10.4.15.0 X - - -
+             GATEWAY - X - -
+                ETH0 - - X -
+                  .. - - X -
+                THIS - - S -
+                  VM - - O -
+                HOST - - X -
+              BRIDGE - - X S
+               LAYER - - - O
+                ROUT - - - S

@@ -1,0 +1,17 @@
+                TIME X - - - - - -
+            SETTINGS O - - - - - -
+                SUDO - - X - - - -
+             SERVICE - - S - - - -
+               THERE - - S - - - -
+           SOMETHING - - O - - - -
+                 LOG - - - X - - -
+            /VAR/LOG - - - - X - -
+   /VAR/LOG/MESSAGES - - - - - X -
+                   X - - - - - - X
+              KERNEL - - - - - - X
+               AUDIT - - - - - - X
+  1285133070.005:208 - - - - - - X
+          OPERATION= - - - - - - X
+     PROFILE_REPLACE - - - - - - X
+               NAME= - - - - - - X
+    /USR/SBIN/MYSQLD - - - - - - X

@@ -1,0 +1,12 @@
+           DENYHOSTS S - S - - - - -
+                  IP O - - X - - - -
+           WHITELIST - - O - - - - -
+/VAR/LIB/DENYHOSTS/ALLOWED-HOSTS - - X - - - - -
+                   * - - - X S - - -
+              FORMAT - - - X - - - -
+                HOST - - - X - - - -
+                HEHE - - - - - O - -
+                HTTP - - - - - - X -
+//DENYHOSTS.SOURCEFORGE.NET/FAQ.HTML - - - - - - X -
+                THAT - - - - - - - S
+                CASE - - - - - - - O

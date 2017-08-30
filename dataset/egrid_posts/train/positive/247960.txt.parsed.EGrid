@@ -1,0 +1,11 @@
+            IFCONFIG O O O -
+                ETH0 X X - -
+               ERROR X X - -
+           INTERFACE X X - -
+                FLAG O O - -
+              DEVICE X X S -
+             HAPPEND X X - -
+           XORG.CONF S S - -
+                  .. - - X -
+           LOCALHOST - - - X
+                  LO - - - X

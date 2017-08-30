@@ -1,0 +1,9 @@
+           PARTITION X - - -
+              SYSTEM X - - -
+              LAPTOP X - - -
+                EXT3 - X - -
+                EXT4 - S - -
+                  .. - O - -
+              MODULE - - - O
+           DIRECTORY - - - X
+             A2ENMOD - - - O

@@ -1,0 +1,24 @@
+             COMMAND X X - - X -
+             STARTUP X X X - - -
+              ANYONE X - - - - -
+              SYSTEM - X X - - -
+               GNOME - X - - - -
+                   > - - X - - -
+            SETTINGS - - X - - -
+         PREFERENCES - - S - - -
+            SESSIONS - - O - - -
+        APPLICATIONS - - O - - -
+             PROGRAM - - X - - -
+              SCRIPT - - S - O -
+             DEFAULT - - O - S -
+                 ONE - - - O - -
+               JASON - - - X - -
+ /USR/BIN/VNC4SERVER - - - O - -
+             EXAMPLE - - - X - -
+                LINE - - - X - -
+                NEED - - - O - -
+           /BIN/BASH - - - - X -
+              RCCONF - - - - X -
+                BOOT - - - - X -
+             MANAGER - - - - X -
+/ETC/CONF.D/LOCAL.START - - - - X -

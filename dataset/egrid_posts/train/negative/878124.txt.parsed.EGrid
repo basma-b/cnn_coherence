@@ -1,0 +1,8 @@
+             NETWORK X S -
+             COMMAND X - -
+                LINE X - -
+                SUDO - X -
+             SERVICE - X -
+            WWW-DATA - - S
+              MEMBER - - X
+               GROUP - - X

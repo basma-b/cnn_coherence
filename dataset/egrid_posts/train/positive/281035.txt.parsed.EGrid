@@ -1,0 +1,15 @@
+                NONE - S - - - - - -
+               VMMON - X - - - - - -
+             MODULES - X - - - - - -
+              VMWARE - X - - - - - -
+              SERVER - X - - - - - -
+                 RUN - X - - - - - -
+             KERNEL. - X - - - - - -
+/LIB/MODULES/2.6.20-15-GENERIC/BUILD/INCLUDE - - - X - - - -
+                 TIP - - - - X - - -
+                THAT - - - - - O - -
+             APT-GET - - - - - S - -
+                  -R - - - - - O - -
+              KERNEL - - - - - - X X
+           DIRECTORY - - - - - - - S
+             HEADERS - - - - - - - S

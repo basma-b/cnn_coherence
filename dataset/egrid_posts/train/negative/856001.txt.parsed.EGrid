@@ -1,0 +1,16 @@
+                DISK X - - - - -
+             UTILITY X - - - - -
+          FILESYSTEM O - - - - -
+                SHOW O - - - - -
+           PARTITION - S - - - -
+                 ATA - X - - - -
+        ST98897799AS - X - - - -
+                FILE - X - - - -
+              SYSTEM - X - - X -
+                SUDO - - - S S -
+          /FORCEFSCK - - - X - -
+              REBOOT - - - O - -
+            LIVEDISK - - - X - -
+           INITRAMFS - - - - X -
+              PROMPT - - - - X -
+                SOME - - - - - S

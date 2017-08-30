@@ -1,0 +1,17 @@
+            IMYOUSUF X - - - - -
+             COMMAND X - - - - -
+              SYNTAX O X - - - -
+            IPTABLES X X - - - -
+                RULE S X - - - -
+                THIS X - - - - -
+                 NAT X - X - - -
+                  -I X - - - - -
+                 TCP X - - - - -
+                DNAT O - - - - -
+     192.168.1.54:22 X - - - - -
+        BEFORE.RULES X - - - - -
+               PLACE S - - - - -
+                PART - - O - - -
+               THATS - - - S - -
+                THAT - - - - - S
+               MCB_1 - - - - - O

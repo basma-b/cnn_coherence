@@ -1,0 +1,8 @@
+             COMMAND X - - - -
+                LINE X - - - -
+                USER O - S - -
+               GROUP X - - - -
+                SUDO - X - - -
+             ADDUSER - S - - -
+              64-BIT - - - - X
+              32-BIT - - - - X

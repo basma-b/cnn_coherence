@@ -1,0 +1,12 @@
+                 RUN X - - -
+               LEVEL X - - -
+                FILE O - - -
+             STARTUP X - - -
+                   < S - - -
+                  .D X - - -
+            RUNLEVEL O - - -
+               DRIVE - O - -
+                 HDA - - S -
+                 HDB - - S -
+                 SDA - - S -
+               LINUX - - - S

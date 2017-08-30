@@ -1,0 +1,14 @@
+             COMMAND O - - - - -
+          IP_FORWARD O - - - - -
+            INTERNET - - - - X -
+                GPRS - - - - X -
+               PHONE - - - - X -
+                  PC - - - - O -
+                PASS - - - - X -
+              TROUGH - - - - O -
+             MACHINE - - - - - O
+             WINDOWS - - - - - X
+            DECREASE - - - - - S
+          BRIGHTNESS - - - - - X
+               FN-F6 - - - - - S
+                TOOL - - - - - X

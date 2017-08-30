@@ -1,0 +1,21 @@
+                ROOT S - -
+               OWNER O - -
+                /MNT X - -
+            ANYTHING S - -
+               THERE S - -
+             FOLDERS O - -
+                 OWN X - -
+                USER X X -
+          /ETC/FSTAB - X -
+                 WAY - X -
+          FILESYSTEM - X -
+                TYPE - X -
+               MOUNT - O -
+               HTTPS - O -
+//HELP.UBUNTU.COM/COMMUNITY/MOUNTINGWINDOWSPARTITIONS - X -
+             OPTIONS - X -
+               FSTAB - X -
+             GID=XXX - O -
+               GROUP - S -
+                THAT - - O
+                CLUE - - X

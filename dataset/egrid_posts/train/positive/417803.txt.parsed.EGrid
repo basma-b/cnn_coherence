@@ -1,0 +1,17 @@
+                   Q X - -
+               VALUE X - -
+        APPLICATIONS S S -
+               OTHER O - -
+                 USE X X -
+           SUBSYSTEM O - -
+               UMASK - O -
+           DIRECTIVE - S -
+          FILESYSTEM - X -
+         FILESYSTEMS - S -
+              DEVICE - O -
+                NTFS - X -
+               SHARE - O -
+             WIN2000 - X -
+              SERVER - X -
+             MANPAGE - - O
+            SMBMOUNT - - X

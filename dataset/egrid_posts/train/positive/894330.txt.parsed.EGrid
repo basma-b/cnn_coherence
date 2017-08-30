@@ -1,0 +1,17 @@
+                  HI S - - - - - -
+               ENTRY - O - - - - -
+             CRONTAB - X - - - - -
+            FUNCTION - O O - - - -
+            .PROFILE - X - - - - -
+              SCRIPT - - X - - - -
+                USER - - X S - - -
+                CRON - - X O - - -
+                 JOB - - O - - - -
+             DEFAULT - - X - - - -
+            QUESTION - - - S - - -
+                ROOT - - - X - - -
+          PERMISSION - - - X - - -
+             ACCOUNT - - - - X - -
+                THIS - - - - - O -
+                   $ - - - - - - X
+          MYFUNCTION - - - - - - X

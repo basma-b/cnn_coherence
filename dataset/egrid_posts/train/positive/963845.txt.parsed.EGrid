@@ -1,0 +1,12 @@
+                 ALL O - - - - -
+             PACKAGE O S - X X X
+                DPKG - O - - - X
+                   > - S - - - X
+               SENSE - - O - - -
+                .RPM - - - - O -
+                 DEB - - - - X -
+               PURGE - - - - - X
+                   | - - - - - X
+                GREP - - - - - S
+                PART - - - - - S
+                NAME - - - - - X

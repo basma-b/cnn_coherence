@@ -1,0 +1,15 @@
+             COMMAND X X - -
+              UPDATE - O - -
+                  .. - O - O
+               ERROR - X - -
+             MESSAGE - S - -
+             PACKAGE - X - -
+                LIST - S - -
+             UPGRADE - O - -
+                 WEB - S - -
+                  AP - X - -
+         SOURCES.LST - S - -
+       ACTIONPARSNIP - - - S
+                FILE - - - X
+                MASK - - - X
+                 FIX - - - O

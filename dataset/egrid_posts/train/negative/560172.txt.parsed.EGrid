@@ -1,0 +1,12 @@
+                HELO S S - - - -
+             NETWORK X X - - - -
+          INTERFACES O O - - - -
+             RESTART X X - - - -
+                  IP X X X - - -
+                DROP O O - - - -
+            LOOPBACK X X - - - -
+             ADDRESS - - O - - -
+             DEFAULT - - - X - -
+          CONNECTION - - - X - -
+             MANAGER - - - O - -
+          OPENOFFICE - - - - - X

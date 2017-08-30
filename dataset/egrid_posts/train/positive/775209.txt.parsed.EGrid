@@ -1,0 +1,15 @@
+               10.10 O - - - - -
+             NETWORK X O - S - -
+                 USB X - - - - -
+               DRIVE O - - - - -
+                WIRE - X - - - -
+                BOOT - X - - - -
+                AUTO - - X - X -
+                ETH0 - - O - X -
+                SUDO - - - X - -
+            DHCLIENT - - - S - -
+                INET - - - - X -
+                DHCP - - - - O -
+                THAT - - - - - S
+               MAGIC - - - - - O
+                MATE - - - - - X

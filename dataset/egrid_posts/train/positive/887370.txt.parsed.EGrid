@@ -1,0 +1,11 @@
+              SOREAU O - - - -
+                 DEB O - - - -
+                 USE - X - - -
+             APT-GET - S - - -
+               PURGE - X - - -
+             PACKAGE - S X X X
+            LOCKFILE - S - - O
+                FILE - - X - -
+            SYNAPTIC - - - S X
+                WORK - - - - X
+               START - - - - O

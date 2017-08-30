@@ -1,0 +1,15 @@
+                 FTP S - - - -
+             GENERAL X - - - -
+                SFTP - X - - X
+                JAIL - O - - -
+                DAYS - X - - -
+      OPENSSH-SERVER - - X - -
+                HTTP - - X - -
+               LIMIT - - X - -
+              NUMBER - - O - -
+               USERS - - X O -
+           AUTH-KEYS - - O - -
+                 PUB - - X - -
+                 KEY - - X - -
+           PASSWORDS - - X - -
+              SERVER - - - X -

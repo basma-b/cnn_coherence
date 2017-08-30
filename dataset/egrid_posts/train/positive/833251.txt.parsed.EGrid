@@ -1,0 +1,11 @@
+                TIME X - - -
+                 NTP X - - -
+              SYSTEM O - - -
+                WORD - X - -
+               CHECK - X - -
+                SYNC - X - -
+                  .. - O - -
+             NTPDATE - - X -
+              SOCKET - - S -
+                 USE - - X -
+             SERVICE - - - S

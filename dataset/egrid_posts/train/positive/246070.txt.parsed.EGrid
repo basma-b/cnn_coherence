@@ -1,0 +1,12 @@
+             PARTION - - X -
+                VUEN - - X -
+                SUDO - - S -
+          /MEDIA/WIN - - S -
+                  -O - - X -
+            NLS=UTF8 - - O -
+           UMASK=222 - - X -
+                HDA1 - - S -
+           PARTITION - - O -
+          MOUNTPOINT - - O -
+                 ALL - - - S
+                MENU - - - O

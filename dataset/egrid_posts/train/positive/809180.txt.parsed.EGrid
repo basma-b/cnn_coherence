@@ -1,0 +1,10 @@
+             PACKAGE X O - -
+             MANAGER O - - -
+          CONNECTION - O - -
+              CONFIG - X - X
+    DPKG-RECONFIGURE - O - -
+             DEBCONF - - - X
+            DBDRIVER - - - X
+/VAR/CACHE/DEBCONF/CONFIG.DAT - - - X
+             PROCESS - - - X
+            RESOURCE - - - X

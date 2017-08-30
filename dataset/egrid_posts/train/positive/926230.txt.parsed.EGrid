@@ -1,0 +1,20 @@
+           SOMETHING X - - -
+             VGA=792 X - - -
+                   T S - - -
+                GRUB X - - -
+                LILO X - - -
+                BOOT X - - -
+                LINE X - - -
+            COMPUTER X - - -
+               PRESS X - - -
+                   E X - - -
+ /BOOT/GRUB/MENU.LST O - O -
+                 END X - - -
+              CHOICE X - - -
+                SUDO X - - -
+         UPDATE-GRUB X - - -
+                   > X - - -
+                FILE - - X -
+                HTTP - - O -
+//WIKI.UBUNTULINUX.ORG/RESTRICTEDFORMATS - - O -
+             RELEASE - - - X

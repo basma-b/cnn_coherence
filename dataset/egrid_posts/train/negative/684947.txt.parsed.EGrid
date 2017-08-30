@@ -1,0 +1,16 @@
+             MACHINE O - - - - - -
+                BOOT O - - - - - -
+               LINUX - X X - - - -
+             WINDOWS - X - - - - -
+               GRUB2 - - O - - - -
+                MENU - - X - - - -
+               ORDER - - X O - - -
+                  OS - - S - - - -
+                 TOP - - X - - - -
+                LIST - - X - - - -
+              GRUB.D - - - X - S -
+             NOTHING - - - S - - -
+               IDEAS - - - - X - -
+            SETTINGS - - - - - O -
+   /ETC/DEFAULT/GRUB - - - - - X -
+                  OK - - - - - - X

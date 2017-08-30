@@ -1,0 +1,10 @@
+           AUTOLOGIN O O - - - - -
+            GDM.CONF X X - - - - -
+AUTOMATICLOGINENABLE=TRUE X X - - - - -
+  AUTOMATICLOGIN=KAD S X - - - - -
+                 THX - - S - - - -
+                   > - - X - - - -
+            SECURITY - - O - - - -
+                 SSH - - - - O - -
+          VNC4SERVER - - - - O - -
+                 CLI - - - - - O -

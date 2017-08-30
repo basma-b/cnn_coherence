@@ -1,0 +1,14 @@
+              UBUNTU X - -
+            SENDMAIL X - -
+                 ISP X - -
+             ADDRESS X - -
+                SUDO - S -
+RELAYHOST=YOURISPSMTPSERVER - O -
+ /ETC/INIT.D/POSTFIX - X -
+             ADDUSER - - X
+                   < - - X
+                USER - - X
+                   > - - S
+               GROUP - - X
+                 GUI - - X
+                TOOL - - O

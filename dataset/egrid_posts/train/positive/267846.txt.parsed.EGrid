@@ -1,0 +1,13 @@
+           PARTITION O - S
+           /DEV/SDA2 S - -
+             WINDOWS X - X
+               SPACE X - -
+            INCREASE S - -
+              LIVECD O - -
+                BOOT O - -
+                  CD X - -
+           PARITTION O - -
+                 USE - S -
+               LEAVE - - X
+              ANYONE - - S
+                THIS - - O

@@ -1,0 +1,26 @@
+            SETTINGS S - - - - - -
+/ETC/INIT.D/ONDEMAND X - - - - - -
+             SERVICE X - - - - - -
+/ETC/RC2.D/S05ONDEMAND X - - - - - -
+               STUFF O - - - - - -
+           STATEMENT O - - - - - -
+                 END X - - - - - -
+       ACTIONPARSNIP - - S - - - -
+                 LOG - - O - - - -
+                FILE - - X - - - -
+                  PC - - O - - - -
+/CPUFREQ/CPUINFO_MIN_FREQ - - X - - - -
+                  -R - - - X - - -
+              CHANGE - - - O - - -
+               ISSUE - - - X - - -
+                THAT - - - - O - -
+                 WAY - - - - X - -
+                HTTP - - - - - X -
+                PORT - - - - - X -
+                 80. - - - - - X -
+              APACHE - - - - - S -
+           CONDITION - - - - - O -
+           SOMETHING - - - - - X -
+                NAME - - - - - X -
+       /ETC/HOSTNAME - - - - - - X
+          RESOLUTION - - - - - - X

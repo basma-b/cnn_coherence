@@ -1,0 +1,4 @@
+        SOURCES.LIST X -
+                   * S -
+        ALSAMIXERGUI O -
+             DEFAULT X -

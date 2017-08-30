@@ -1,0 +1,9 @@
+              SCRIPT X - - -
+             COMMAND X - - -
+                TYPE X - - -
+               CHMOD - X - -
+                  +X - O - -
+             SYMLINK - O - -
+            /USR/BIN - X - -
+                UNOP - - - S
+                 ALL - - - O

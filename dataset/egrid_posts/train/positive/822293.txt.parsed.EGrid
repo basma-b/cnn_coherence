@@ -1,0 +1,7 @@
+      TIGHTVNCSERVER O O - -
+        APPLICATIONS O - - -
+               BLOCK X - - X
+                 USE - X - -
+                ICON - - - O
+              VIEWER - - - X
+               LOCAL - - - X

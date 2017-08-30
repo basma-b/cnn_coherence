@@ -1,0 +1,5 @@
+                LINK O - - -
+                FILE O - X -
+/ETC/APACHE2/CONF.D/ - - X -
+/ETC/PHPMYADMIN/APACHE.CONF - - S -
+                  TY - - - X

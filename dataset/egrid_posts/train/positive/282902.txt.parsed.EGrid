@@ -1,0 +1,10 @@
+                BOOT X X - - -
+           PARTITION S S - - -
+              SYSTEM S S - - -
+                LOAD - O - - -
+                BUSY - - S - -
+              UMOUNT - - - X -
+               /BOOT - - - S -
+              DEVICE - - - S -
+                NICK - - - - O
+                 WAY - - - - X

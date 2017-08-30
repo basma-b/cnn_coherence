@@ -1,0 +1,23 @@
+                FILE S O - - - -
+/VAR/CACHE/FOO/DATA-FILE O - - - - -
+             EXAMPLE X - - - - -
+             MACHINE X - - - - -
+             PACKAGE X O O - - -
+        REPOSITORIES X X - - - -
+                LIST - O - - - -
+                DATA - X - - - -
+                THIS - - S S S -
+                BASH - - X - - -
+             SUGGEST - - S - - -
+         EXECUTABLES - - X - - -
+          EXECUTABLE - - X - - -
+REDHAT/FEDORA/CENTOS - - - X - -
+                 BOX - - - O - -
+                TYPE - - - X - -
+                 YUM - - - X - -
+      /FOO/DATA-FILE - - - O - -
+            QUESTION - - - O - -
+                THAT - - - - S -
+            FLAMEWAR - - - - O -
+       /PATH/TO/FILE - - - - O -
+           SLACKWARE - - - - - X

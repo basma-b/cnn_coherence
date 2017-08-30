@@ -1,0 +1,16 @@
+                  DD X -
+         IF=/DEV/SDX S -
+               BS=8M S -
+                 SDX S -
+                  HD X -
+                DISK S -
+               SPACE O -
+               THERE S -
+                 WAY O -
+           PARTITION S -
+             ANOTHER X -
+                SIZE O -
+                 HMM X -
+             WINDOWS X -
+                APPS O -
+/VAR/LOG/APACHE/ACCESS.LOG - X

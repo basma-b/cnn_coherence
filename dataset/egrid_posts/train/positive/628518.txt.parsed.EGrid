@@ -1,0 +1,20 @@
+                 PHP S - - - -
+            OVERFLOW X - - - -
+            PHP-CODE X - - - -
+                   $ - X - - -
+   FILE_PUT_CONTENTS - X - - -
+          STATUS.XML - X X - -
+             WARNING - S - - -
+FUNCTION.FILE-PUT-CONTENTS - X - - -
+               -RSB- - X - - -
+              STREAM - O - - -
+          PERMISSION - X - - -
+ /VAR/WWW/STATUS.PHP - X - - -
+                LINE - X - - -
+          STATUS.PHP - X - - -
+               CHOWN - - X - -
+            /VAR/WWW - - O X -
+            WWW-DATA - - X X -
+                 UMM - - X - -
+               ERROR - - - - X
+              APACHE - - - - X

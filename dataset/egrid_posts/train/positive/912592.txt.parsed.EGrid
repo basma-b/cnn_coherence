@@ -1,0 +1,20 @@
+                 KEY O - - -
+    RELEASE.GPG-FILE S - - -
+     UBUNTU-ARCHIVES X - - -
+             ARCHIVE X - - -
+    DEBMIRROR-SCRIPT O - - -
+              MIRROR X - - -
+             APT-GET X - - -
+             PACKAGE O - - -
+              SERVER X - X -
+                WGET X - - -
+                HTTP X - - -
+//ARCHIVE.UBUNTU.COM/UBUNTU/MISC/DAILY_SIGNING_KEY.ASC X - - -
+          GPG-EXPERT X - - -
+                 APT - - X -
+ DEBIAN/EXPERIMENTAL - - X -
+             RELEASE - - - X
+         RELEASE.GPG - - - X
+                FILE - - - O
+                HAND - - - X
+           SIGNATURE - - - O

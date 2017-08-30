@@ -1,0 +1,17 @@
+             OO-OOHH S - - -
+                HECK - S - -
+              ZOFFIX - X - -
+             ZOFMAIN - X - -
+                SUDO - X - -
+        /ETC/SUDOERS - S - -
+                MODE - O - -
+        SEGMENTATION - X - -
+               FAULT - X - -
+                 USE - X - -
+              VISUDO - O - -
+/ETC/SECURITY/LIMITS.CONF - O - -
+               LIMIT - O - -
+                LINE - - S -
+                 -19 - - X -
+             PROGRAM - - - S
+                ROOT - - - X

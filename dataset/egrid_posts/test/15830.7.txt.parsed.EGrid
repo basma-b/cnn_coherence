@@ -1,0 +1,14 @@
+                DISK X - - - -
+          READ/WRITE X - - - -
+             REQUEST X - - - -
+             PROCESS X - - - -
+     /PROC/DISKSTATS - S - - -
+         INFORMATION - O - - -
+              SYSTEM - X - - -
+        /PROC/PID/IO - S - - -
+              NUMBER - O - - -
+        READ/WRITTEN - X - - -
+                LOOK - - S - -
+               IOTOP - - X - -
+               HOURS - - - O -
+               GREAT - - - - X

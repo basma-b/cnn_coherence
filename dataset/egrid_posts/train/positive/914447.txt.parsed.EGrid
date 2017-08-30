@@ -1,0 +1,9 @@
+        DIST-UPGRADE S - - - - -
+        SOURCES.LIST - O - - - -
+                 ETC - X - - - -
+              DEBIAN - - X - - -
+              TESTER - - X - - -
+           DEVELOPER - - X - - -
+             MONITOR - - X - - -
+                THAT - - - O - -
+                 YES - - - - - X

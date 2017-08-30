@@ -1,0 +1,16 @@
+               ENTRY - X - - - - - -
+                CIFS - O O O - - - -
+             STARTUP - X X - - - - -
+               ERROR - - O - - - - -
+             COMMAND - - S - - - - -
+           PASSWORDS - - - O - - - -
+           NECESSARY - - - S - - - -
+            USER=XXX - - - X - - - -
+            PASS=XXX - - - X - - - -
+               SLASH - - - X - - - -
+              MOMENT - - - X - - - -
+                 HMM - - - X - - - -
+               FSTAB - - - - X - - -
+                LINE - - - - X - - -
+                THAT - - - - - - O -
+              RESULT - - - - - - - X

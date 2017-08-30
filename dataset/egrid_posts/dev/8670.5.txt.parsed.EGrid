@@ -1,0 +1,43 @@
+               WLAN1 X - - - - - - -
+                ROUT X - - - - - - -
+               POINT X - - - - - - -
+                PICI X - - - - - - -
+                  .. O - - - - - - -
+                LIFE X - - - - - - -
+               ISSUE X - - - - - - -
+               TRACK O - - - - - - -
+           VARIABLE= X - - - - - - -
+                   | X - - - - - - -
+                 AWK X - - - - - - -
+              /TEST/ X - - - - - - -
+               PRINT X - - - - - - -
+            VARIABLE X - - - - - - -
+            ANYTHING X - - - - - - -
+                  NP O - - - - - - -
+                 DNS X - - - - - - -
+              SERVER S - - - - - - -
+            COMPUTER X - - - - - - -
+             NETWORK X - - - - - - -
+                  PI X - - - - - - -
+               RANGE X - - - - - - -
+               10.04 O - - - - - - -
+            HARDWARE X - - - - - - -
+              REBOOT O - - - - - - -
+              LAPTOP - O - - - - - -
+                ELSE - S - - - - - -
+             SERVERS - - S - - - - -
+              SUBNET - - X - - S - -
+                INET - - O - - - - -
+          NAMESERVER - - O - - - - -
+            10.9.1.4 - - S - - - - -
+                   A - - - - X - - -
+               CLASS - - - - X - - -
+         255.255.0.0 - - - - - O - -
+             ADDRESS - - - - - - O -
+                SUDO - - - - - - X X
+                NANO - - - - - - X X
+/ETC/NAGIOS3/CONFIG.D/WHATEVER - - - - - - S -
+                HTTP - - - - - - O X
+            IFCONFIG - - - - - - S -
+/ETC/NETWORK/INTERFACE - - - - - - - X
+//WWW.UBUNTUGEEK.COM/UBUNTU-NETWORKING-CONFIGURATION-USING-COMMAND-LINE.HTML - - - - - - - X

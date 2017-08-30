@@ -1,0 +1,8 @@
+              STATUS X -
+                FILE O -
+             PACKAGE O O
+              SCRIPT S -
+                NEED X -
+/VAR/LIB/DPKG/STATUS - S
+               BLOCK - X
+                 ONE - X

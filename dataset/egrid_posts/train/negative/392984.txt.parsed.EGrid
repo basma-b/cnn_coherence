@@ -1,0 +1,14 @@
+              ACCESS O - - - - - - - -
+              ROUTER X X X - X X - - -
+                 SSH - O - - - - - - -
+              TELNET - X - - - - - - -
+                SUDO - X - - - - - - -
+             APT-GET - S - - - - - - -
+              CLIENT - O - - - - - - -
+              SERVER - - O - O - - - -
+                PORT - - - - O - - - -
+             TRAFFIC - - - - O - - - -
+             MACHINE - - - - X - - - -
+                 RUN - - - - - S - - -
+             LINKSYS - - - - - - S - -
+              DJONES - - - - - - - - X

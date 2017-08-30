@@ -1,0 +1,10 @@
+FLASHPLUGIN-INSTALLER S - - -
+             PACKAGE - S - -
+             REQUIRE - X - -
+        GNASH-COMMON - S - -
+                 USE - X - -
+          AUTOREMOVE - O - -
+        PASTEBIN.COM - - O -
+                LINE - - X -
+                 BAD - - - X
+             ADAMKEX - - - X

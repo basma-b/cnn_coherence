@@ -1,0 +1,16 @@
+             MACHINE X X - - - -
+               NIGHT X - - - - -
+                BOOT X S X - - O
+                DROP X - - - - -
+             BUSYBOX X - - - - -
+               ERROR X - - - O -
+             JOURNAL O - - - - -
+            RECOVERY X X - - - -
+                  CD X - O - X X
+                MODE - X - - - X
+              TARGET - X - - - -
+          FILESYSTEM - S - - - -
+          /SBIN/INIT - O - - - -
+              REPORT - - - - X -
+                WORK - - - - - X
+                  OK - - - - - X

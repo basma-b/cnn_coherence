@@ -1,0 +1,16 @@
+               THERE X - - - -
+                 WAY X - - - -
+              MODULE X S - - -
+                LOAD X O - - -
+             OPTIONS O - - - -
+        MODULES.CONF - X - - -
+       FULL_DUPLEX=1 - X - - -
+                MODE - X - - -
+/ETC/MODPROBE.D/OPTIONS - - O - -
+              INITRD - - O - -
+                LINK - - - S -
+                SUDO - - - X -
+             APT-GET - - - S -
+                VPNC - - - X X
+                   < - - - O X
+                SHOW - - - - X

@@ -1,0 +1,15 @@
+             COMMAND X - - - -
+              MYNAME X - - - -
+            COMPUTER O - - - -
+      ~/PULSE-BACKUP - S - - -
+            ~/.PULSE - X - - -
+           ~/.ASOUND - X - - -
+                   * - S - S -
+     ~/PULSE-BACKUP/ - O - - -
+                ROOT - - X X -
+                SUDO - - O - -
+               /ETC/ - - - X -
+           DIRECTORY - - - X -
+              CHANGE - - - S -
+           PRIVILEGE - - - O -
+               THANK - - - - X

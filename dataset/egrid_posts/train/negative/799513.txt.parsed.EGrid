@@ -1,0 +1,14 @@
+             PROGRAM O - - - - - - - -
+                BIND X - - - - - - - -
+              SOCKET O - - - - - - - -
+                PORT X - O - - - - - -
+                 DNS X - - - - - - - -
+                NMAP - S - - - - - - -
+               CLOSE - X - - - - - - -
+              DOMAIN - X - - - - - - -
+              ANYONE - - X - - - - - -
+                SUDO - - - X - - - - -
+                 UFW - - - S - - - - -
+        PROTCOLLHERE - - - S - - - - -
+                 MAN - - - X - - - - -
+              SCREEN - - - - O - - O -

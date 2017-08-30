@@ -1,0 +1,15 @@
+          UBUNTU.IMG X - - - - - - -
+               IMAGE X - - - - - - -
+               MYSQL - O - - X - - -
+                SUDO - - - - X - - -
+             APT-GET - - - - X - - -
+        MYSQL-SERVER - - - - S - - -
+             SERVICE - - - - X - - X
+               START - - - - X - - -
+             NOTHING - - - - - S - -
+              ERRORS - - - - - - O -
+              SOCKET - - - - - - O -
+                 ONE - - - - - - - S
+              SYSTEM - - - - - - - X
+             SECTION - - - - - - - X
+          MANAGEMENT - - - - - - - X

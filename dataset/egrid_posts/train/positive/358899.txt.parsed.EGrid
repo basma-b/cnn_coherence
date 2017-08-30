@@ -1,0 +1,13 @@
+              FORMAT X - -
+               TOTEM X X -
+              PLAYER X - -
+                PLAY - X -
+                SUDO - X -
+             APT-GET - X -
+UBUNTU-RESTRICTED-EXTRAS - S -
+                 ALL - X -
+              CODECS - S -
+           W32CODECS - O -
+                FILE - X -
+                CANT - - S
+               VIDEO - - O

@@ -1,0 +1,21 @@
+             CONSOLE O - - - - - - - - - -
+             ENGLISH X - - - - - - - - - -
+               EN_US - - - - X - - - - - -
+               EN_UK - - - - S - - - - - -
+             COMMAND - - - - O - - - - - -
+              ERRORS - - - - O - - - - - -
+                MAKE - - - - X - - - - - -
+                   * - - - - X - - - - - -
+/LIB/MODULES/2.6.12-10-686/SOURCE - - - - X - - - - - -
+                FILE - - - - X - - - - - -
+           DIRECTORY - - - - X - - - - - -
+                STOP - - - - - X - - - - -
+               SOUND - - - - - - - X - - -
+              KERNEL - - - - - - - X - - O
+              SOURCE - - - - - - - S - - -
+                NAME - - - - - - - O - - -
+             PACKAGE - - - - - - - X - - -
+             HEADERS - - - - - - - - - O -
+               WINTV - - - - - - - - - X -
+                 PVR - - - - - - - - - X -
+                USB2 - - - - - - - - - X -

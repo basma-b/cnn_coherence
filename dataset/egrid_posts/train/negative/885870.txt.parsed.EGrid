@@ -1,0 +1,23 @@
+               DRIVE X - - O - - - - - -
+                  OS O - - - - - - - - -
+              FORMAT X X - X - - - - - -
+                 MBR X X - - X - - - - -
+          BOOTLOADER - - - O - - - - - -
+                DIST - - - X - - - - - -
+             UTILITY - - - X - - - - - -
+             OPTIONS - - - O - - - - - -
+                GUID - - - - X - - - - -
+                NONE - - - - X - - - - -
+               APPLE - - - - X - - - - -
+               GURUS - - - - - - X - - -
+                TALK - - - - - - S - - -
+           XSESSIONS - - - - - - X - - -
+                   U - - - - - - X - - -
+                 BYE - - - - - - - - X -
+              LAPTOP - - - - - - - - X -
+                KERN - - - - - - - - - S
+            BOOTLINE - - - - - - - - - S
+           ARGUMENTS - - - - - - - - - S
+                HELP - - - - - - - - - X
+                HTTP - - - - - - - - - X
+//WWW.LINUX-LAPTOP.NET/ - - - - - - - - - X

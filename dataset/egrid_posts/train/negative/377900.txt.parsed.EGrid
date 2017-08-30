@@ -1,0 +1,13 @@
+                HELP O - - - -
+             COMMAND O X - - -
+            TERMINAL X - - - -
+          PERMISSION S - - - -
+            PASSWORD X - - - -
+         APPLICATION - X - - -
+              SYSTEM - S - - -
+          LM-SENSORS - - X - -
+               MBMON - - S - -
+                USER - - O - -
+         PRIVILEDGES - - O - -
+                FILE - - X - -
+                YEAH - - - - X

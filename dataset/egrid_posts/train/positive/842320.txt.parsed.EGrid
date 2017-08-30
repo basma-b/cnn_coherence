@@ -1,0 +1,20 @@
+             ANYBODY X - - - - -
+          SAMBA/CUPS X - - - - -
+              SERVER X - X - - -
+             ALRIGHT - X - - - -
+               ISSUE - S - - - -
+             PRINTER - S - - - -
+             MACHINE - O - - - -
+             SERVICE - O - - - -
+               START - X - - - -
+/VAR/LOG/SAMBA/LOG.SMBD - - S - - -
+                CUPS - - X - - -
+          CONNECTION - - X - - -
+              REFUSE - - X - - -
+                 CUP - - - S - -
+               SAMBA - - - S - -
+              BOOTUP - - - X - -
+                THAT - - - - S -
+                SMBD - - - - S -
+                BITE - - - - - X
+             COMMAND - - - - - X

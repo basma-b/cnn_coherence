@@ -1,0 +1,20 @@
+                THAT X - - - - -
+              KERNEL X - - - - -
+                BOOT X - - - - -
+                LIST - S - - - -
+             MODULES - O - - - -
+                LVM2 - - X - - -
+           INITRAMFS - - X - - -
+             BUSYBOX - - X - - -
+            MODPROBE - - X - - -
+              DM-MOD - - X - - -
+                WORK - - X - - -
+              DEVICE - - X - - -
+                 ALL - - S - - X
+         INFORMATION - - O - - -
+              MODULE - - - O - -
+/ETC/INITRAMFS-TOOLS/HOOKS - - - - X -
+                FILE - - - - X -
+                 LVM - - - - X -
+                 RUN - - - - - X
+                  -K - - - - - X

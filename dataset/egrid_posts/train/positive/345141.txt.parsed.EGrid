@@ -1,0 +1,29 @@
+                  CD O O - - - - - - - -
+                 USE - - O - - - - - - -
+                QEMU - - X - X - - X - -
+            EMULATOR - - X - - - - - - -
+             COMMAND - - - X - - - O O -
+               LINUX - - - - X - - - - -
+             WINDOWS - - - - X - - - - -
+                 MHZ - - - - - O - - - -
+                  MB - - - - - X - X - -
+                 RAM - - - - - X - X - -
+              UBUNTU - - - - - - O - - -
+                DISK - - - - - - S - - -
+                 OK. - - - - - - - S - -
+               IMAGE - - - - - - - O - -
+                FILE - - - - - - - O - -
+            QEMU-IMG - - - - - - - S - -
+                QCOW - - - - - - - X - -
+          UBUNTU.IMG - - - - - - - S X -
+                 RUN - - - - - - - X - -
+/LOCATION/OF/UBUNTU.ISO - - - - - - - X - -
+                   D - - - - - - - X - -
+                BOOT - - - - - - - X - -
+               SPACE - - - - - - - O - -
+            /DEV/SHM - - - - - - - X X -
+/LOCATIO/OF/UBUNTU.ISO - - - - - - - - X -
+               -BOOT - - - - - - - - O -
+               TMPFS - - - - - - - - O -
+                   % - - - - - - - - X -
+                 TRY - - - - - - - - X -

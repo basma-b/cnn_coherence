@@ -1,0 +1,13 @@
+               INPUT X X - -
+            IPTABLES X - - -
+               CHAIN X - - -
+         CONNECTIONS O - - -
+                DROP - S - -
+              POLICY - O - -
+                 THE - - - O
+                 SET - - - X
+              RENAME - - - X
+                  /\ - - - X
+                 /_/ - - - X
+                .TXT - - - S
+              DIGITS - - - X

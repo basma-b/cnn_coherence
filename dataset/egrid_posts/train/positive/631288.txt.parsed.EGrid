@@ -1,0 +1,12 @@
+                HELP O - - -
+               CHMOD X - - -
+                FILE - X - -
+            WRITABLE - X - -
+                 R=4 - - S -
+                 W=2 - - X -
+                 USE - - O -
+               4+2+1 - - X -
+               4+0+0 - - X -
+               GROUP - - X -
+              OTHERS - - S -
+               THANK - - - X

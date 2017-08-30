@@ -1,0 +1,14 @@
+                TYPE X - -
+                PATH X - -
+            TERMINAL X - -
+     /USR/LOCAL/SBIN - X -
+      /USR/LOCAL/BIN - X -
+           /USR/SBIN - X -
+            /USR/BIN - X -
+               /SBIN - X -
+                /BIN - X -
+          /USR/GAMES - X -
+                SUDO - - S
+                ROOT - - X
+               SHELL - - X
+             DEFAULT - - X

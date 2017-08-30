@@ -1,0 +1,12 @@
+              VOLUME O - -
+                ROOT X - -
+           PARTITION O - -
+           RESIZE3FS O - -
+                THIS O - -
+               SOHMC - X -
+                BOOT - X -
+                  CD - X -
+                   / - S -
+               MOUNT - O -
+              DEVICE - S -
+            WHATEVER - X -

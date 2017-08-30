@@ -1,0 +1,14 @@
+            RESTRICT O - - - - -
+              DRIVER O - X - - -
+             MANAGER S - S - - -
+              UBUNTU X - - - - -
+               PROXY - X X - - -
+                 ONE - - - - S -
+                 SEC - - - - X -
+                WAIT - - - - O -
+               REPLY - - - - X -
+                LOOK - - - - O -
+               HTTPS - - - - X -
+                 BUG - - - - - X
+              REPORT - - - - - S
+         INFORMATION - - - - - O

@@ -1,0 +1,17 @@
+               GUTSY X - - - - - -
+              INSTAL O X - - - - -
+              CONFIG - X - X - - -
+              OPTION - X - X - - -
+             UPGRADE - - X - - - -
+           SYSLOG-NG - - O - - - -
+ ENABLE-SPOOF-SOURCE - - X S - - -
+               ERROR - - S - - - -
+        SPOOF-SOURCE - - O - - - -
+/USR/LOCAL/SRC/SYSLOG-NG-3.0.3/TGZ2BUILD/RULES - - - X - - -
+                LIST - - - X - - -
+                 WAY - - - X - - -
+            APTITUDE - - - S - S -
+                STEP - - - - X X -
+              SOURCE - - - - - X -
+             PACKAGE - - - - - X -
+             COMMAND - - - - - - S

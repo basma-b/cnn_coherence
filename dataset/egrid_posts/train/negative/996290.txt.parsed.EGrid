@@ -1,0 +1,10 @@
+               SMBFS X O - -
+               ERROR - O - -
+                TAIL - O - -
+      SMB_FILL_SUPER - S - -
+                DATA - X - -
+            ARGUMENT - O - -
+                SUDO - - - X
+            APTITUDE - - - S
+             COMMAND - - - O
+                   P - - - X

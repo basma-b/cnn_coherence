@@ -1,0 +1,13 @@
+               CDROM X - - - O
+                TYPE - X - - -
+                LOOP - - X - -
+        /FILE/TO/ISO - - O - -
+             ISO9660 - - X - -
+            INDOMITI - - O - -
+              RETURN - - S - -
+              DEVICE - - X - X
+            /DEV/SR0 - - S - S
+               THATS - - S - -
+               BLOCK - - - - X
+                 IDK - - - - S
+                SUDO - - - - S

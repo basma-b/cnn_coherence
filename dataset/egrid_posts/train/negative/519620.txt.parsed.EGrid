@@ -1,0 +1,11 @@
+                TEST X - -
+                BASH X X -
+           STATEMENT X - -
+                  -N - - X
+     /VAR/LOG/SYSLOG - - X
+            KERN.LOG - - S
+              SOURCE - - O
+                 LOG - - X
+                CASE - - X
+             MESSAGE - - X
+                   P - - X

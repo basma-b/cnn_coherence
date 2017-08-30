@@ -1,0 +1,17 @@
+             DEFAULT - X S - -
+            PASSWORD - X X X X
+                ROOT - X X X -
+     INCONSISTENCIES - - O - -
+           PARTITION - - X X -
+            CANDYBAN - - - O -
+                SUDO - - - X -
+              SYSTEM - - - S -
+                BOOT - - - X -
+                  .. - - - O -
+               ISSUE - - - O -
+           SOMETHING - - - - O
+                USER - - - - X
+                MODE - - - - S
+      INIT=/BIN/BASH - - - - O
+              KERNEL - - - - X
+         COMMANDLINE - - - - X

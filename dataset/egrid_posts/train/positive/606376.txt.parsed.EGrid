@@ -1,0 +1,18 @@
+          DIFFERENCE O - - - - -
+                 SSH X - - - - -
+   RSAAUTHENTICATION X - - - - -
+HOSTBASEDAUTHENTICATION X - - - - -
+                 KEY O - - - - -
+              CLIENT X - - - - -
+               TRUST X - - - - -
+                AUTH - X - - - -
+              SERVER - X - - - -
+            COMPUTER - X - - - -
+                USER - S - - - -
+             ACCOUNT - O - - - -
+            PASSWORD - X - - - -
+              STRING - - S - - -
+             FIREFOX - - X - - -
+             PROGRAM - - - X - -
+            RTORRENT - - - - - S
+          CONNECTION - - - - - O

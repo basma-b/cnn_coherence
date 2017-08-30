@@ -1,0 +1,22 @@
+             BCM43XX S - - - - - - -
+/ETC/MODPROBE.D/BLACKLIST X - - - - - - -
+         NDISWRAPPER X - - - - - - -
+                SUDO X X - - - - - -
+            MODPROBE X - - - - - - -
+            IFCONFIG S - - - S - - -
+              SYNTAX S - - - - - - -
+               WLAN0 X - - - - - - -
+                 MAN X - - - - - - -
+                  IP S S - - O - - -
+        INSTRUCTIONS X - - - - - - -
+            UNIXODBC - X - - - - - -
+             PROBLEM - S - - - - - -
+                   < - X - - - - - -
+                   > - O - - - - - -
+           INTERFACE - X - - - - - -
+          BHROBINSON - - X - - - - -
+                ALIS - - - O - - - -
+                PING - - - - X - - -
+                ADDR - - - - - X - -
+                SHOW - - - - - X - -
+               GREAT - - - - - - X -

@@ -1,0 +1,13 @@
+               CLONE O - - -
+                COPY O - - -
+             PROGRAM X - - -
+             DRIVERS O X - -
+                WIFI X - - -
+             PACKAGE - X O -
+         NDISWRAPPER - - X -
+                 BCM - - X -
+              DRIVER - - S -
+                 ALL - - S -
+       LIST/PACKAGES - - X -
+       ACTIONPARSNIP - - O -
+         XFCE4-PANEL - - - X

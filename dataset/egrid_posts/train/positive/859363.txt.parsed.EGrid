@@ -1,0 +1,16 @@
+               11.04 O - - -
+           PARTITION X X - -
+                HOME X X - -
+                CANT X - - -
+                FILE O - - -
+               FSTAB X - - X
+               ORDER S - - -
+          /ETC/FSTAB - X - -
+                MINE - - S -
+                HTTP - - S X
+//PASTE.UBUNTU.COM/712712/ - - S -
+              OPTION - - O -
+                LINE - - S -
+                UUID - - X -
+                 RUN - - X -
+               BLKID - - S -

@@ -1,0 +1,16 @@
+                 SSH S - - S - - - - -
+                HELP O - - - - - - - -
+       CLIENT/SERVER - X - - - - - - -
+/ETC/SSH/SSHD_CONFIG - - X - - - - - -
+           INTERFACE - - S - - - - - -
+              DAEMON - - X - - - - - -
+                BIND - - O - - - - - -
+        LOCALHOST:22 - - - S - - - - -
+                GREP - - - X - - - - -
+      OPENSSH-SERVER - - - - S - - - -
+              MOMENT - - - - X - - - -
+            QUESTION - - - - - X - - -
+                USER - - - - - - X - -
+             ADDRESS - - - - - - O - -
+             MACHINE - - - - - - X - -
+              WILLDO - - - - - - - - X

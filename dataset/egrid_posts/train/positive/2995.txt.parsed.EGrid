@@ -1,0 +1,16 @@
+                  HI S - - - - -
+              ANYONE X - - - - -
+                ACPI O - X - - -
+                 APM O - - - - -
+               LINUX X - - - - -
+                BOOT - X - - - -
+              OPTION - X - - - -
+            ACPI=OFF - O - - - -
+ /BOOT/GRUB/MENU.LST - - X - - -
+                LINE - - S - - -
+              KERNEL - - X - - -
+                   X - - X - - -
+           CONFIGURE - - - X - -
+               DRIVE - - - - - X
+                SPIN - - - - - X
+              SCREEN - - - - - X

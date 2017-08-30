@@ -1,0 +1,12 @@
+                VFAT X - - - -
+           PARTITION S - - - -
+                  RW O - - - -
+               FSTAB X - - - -
+             OPTIONS X - - - -
+                NAME - - X S -
+              SERVER - - X - -
+             PROCESS - - - X -
+            COMPUTER - - - X -
+             COMMAND - - - S -
+          START/STOP - - - X -
+   TEAMSPEAK2-SERVER - - - X -

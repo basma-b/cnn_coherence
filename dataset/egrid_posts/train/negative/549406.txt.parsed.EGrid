@@ -1,0 +1,17 @@
+             COMMAND X O - O - - - - -
+                LINE X - - - - - - - -
+             HISTORY X S - - - - - - -
+               ARROW X - - - - - - - -
+            FINDTHIS - O - - - - - - -
+                TYPE - X X - - - - - -
+              NUMBER - - O S - - - - -
+                EDIT - - X - - - - - -
+                THAT - - - O - - - - -
+                   P - - - S - - - - -
+            QUESTION - - - O - - - - -
+               ALIAS - - - - - - O - -
+             VMX|SVM - - - - - - - X -
+       /PROC/CPUINFO - - - - - - - X -
+          VIRTUALBOX - - - - - - - S -
+              VMWARE - - - - - - - X -
+                QEMU - - - - - - - S -

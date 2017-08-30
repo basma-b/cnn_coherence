@@ -1,0 +1,6 @@
+           PARTITION O O -
+                AUTO X - -
+              SYSTEM X - -
+               ENTRY - S -
+          /ETC/FSTAB - X -
+                SDA6 - X -

@@ -1,0 +1,15 @@
+                DISK S - - - - - -
+               CHILD X - - - - - -
+             PROCESS X - - - - - -
+         DISKS-ADMIN O - - - - - -
+          PERMISSION X - - - - - -
+              ANYONE X - - - - - -
+                   ^ - S - - - - -
+                SUDO - O - - - - -
+                MENU - X - - - - -
+             COMMAND - - X X - - -
+            LAUNCHER - - - O - - -
+             DESKTOP - - - X - - -
+               FRONT - - - X - - -
+               ERROR - - - - - - X
+             MESSAGE - - - - - - X

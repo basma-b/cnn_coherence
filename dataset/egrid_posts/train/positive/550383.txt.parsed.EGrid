@@ -1,0 +1,18 @@
+              DEVICE S - - - - -
+                LIST O - - - - -
+                /DEV X - - - - -
+                   K X - - - - -
+              DRIVER S - - - - -
+              DOESNT X - - - - -
+                WORK S - - - - -
+           INTERFACE S - - - - -
+               PLACE X - - - - -
+         NDISWRAPPER - O - - - O
+                SUDO - X - - - -
+/ETC/INIT.D/NETWORKING - S - - - -
+               PRINT - X - - - -
+              OUTPUT - O - - - -
+             KERNELS - - X - - -
+             VERSION - - X - - -
+             NETWORK - - - - O -
+                YECK - - - - - X

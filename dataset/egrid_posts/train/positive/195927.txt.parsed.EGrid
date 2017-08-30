@@ -1,0 +1,13 @@
+             ADDUSER X X - -
+             COMMAND O - - -
+                HOME X X X -
+         DIRECTORIES S - O -
+               USERS X - - -
+           DIRECTORY - O - -
+             DEFAULT - - X -
+            BEHAVIOR - - S -
+           SOMETHING - - S -
+               FRESH - - O -
+              SERVER - - X -
+   /ETC/ADDUSER.CONF - - - S
+             DESKTOP - - - X

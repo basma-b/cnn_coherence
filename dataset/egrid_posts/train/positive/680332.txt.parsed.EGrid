@@ -1,0 +1,16 @@
+               SETUP X - - -
+             POSTFIX X - - -
+               HTTPS X - - -
+//HELP.UBUNTU.COM/COMMUNITY/POSTFIX X - - -
+                MAIL O - - -
+                USER X - - -
+       MY-DOMAIN.COM X - - O
+               GMAIL X - - -
+             NOTHING S - - -
+                   * X - - -
+                 LOG X - - -
+             PROCESS S - - -
+                 DNS - X - -
+              DOMAIN - - - X
+                  IP - - - X
+              SERVER - - - X

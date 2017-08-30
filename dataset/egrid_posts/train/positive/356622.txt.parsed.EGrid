@@ -1,0 +1,17 @@
+                  IM S S - - -
+           PARTITION O O - - -
+               FSTAB X X - - -
+               ENTRY - S S - -
+                EXT3 - X X - -
+             DEFAULT - O O - -
+                  AN - - S - -
+   ERRORS=REMOUNT-RW - - S - -
+          SUGGESTION - - S - -
+                LINE - - O - O
+             DEVTREE - - O - -
+               POINT - - X - -
+                JRIB - - O - -
+             RESPOND - - X - -
+                 ONE - - O - -
+               RIGHT - - O - -
+       /ETC/RC.LOCAL - - - - X

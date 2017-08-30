@@ -1,0 +1,12 @@
+             DRIVERS O O O -
+              UBUNTU X X - -
+               NVIDA X X - -
+                 GLX X X - -
+                XORG - X X -
+               VIDEO - X X -
+               IDEAS - O X -
+              DRIVER - - O -
+            XORGCONF - - X -
+              NVIDIA - - X -
+              KERNEL - - - O
+  LINUX-AMD64-K8-SMP - - - O

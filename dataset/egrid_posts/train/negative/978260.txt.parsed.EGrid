@@ -1,0 +1,13 @@
+           SOMETHING O - -
+             KERNELS S - -
+              KERNEL - X -
+                XORG - S -
+             DRIVERS - S -
+          VIRTUALBOX - - S
+               GUEST - - X
+             ADAPTER - - O
+                 NAT - - X
+                HOST - - X
+             NETWORK - - X
+                DHCP - - X
+              SERVER - - O

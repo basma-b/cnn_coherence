@@ -1,0 +1,20 @@
+         CONNECTIONS X - -
+                  PC X - -
+             PROGRAM X - -
+                SUDO - X -
+             NETSTAT - X -
+                 -AP - X -
+                 TCP - O -
+                INET - X -
+            APTITUDE - S -
+                SHOW - S -
+                   < - S -
+                   > - X -
+           INTERFACE - S -
+          PARAMETERS - X -
+             FEATURE - O -
+            CONFLICT - O -
+             ADVANCE - O -
+             APT-GET - S -
+                HTTP - - X
+//PASTE.UBUNTULINUX.NL/3637 - - X

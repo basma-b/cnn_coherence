@@ -1,0 +1,9 @@
+           PARTITION X - - - -
+               FSTAB - X S - -
+          /ETC/FSTAB - X X - -
+                 HDD - O - - -
+                  .. - O O - -
+              INSERT - X X - -
+                 SEC - - - X -
+                 BTW - - - - X
+  /ETC/INIT.D/AUTOFS - - - - S

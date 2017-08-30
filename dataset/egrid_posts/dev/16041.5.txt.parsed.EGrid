@@ -1,0 +1,15 @@
+             PROCESS X - - - - - -
+             PACKAGE X - - - - - -
+               WEBUI - X - - - - -
+                 LOG - X - - - - -
+              GLANCE - X X - - - -
+               STUFF - X - - - - -
+               /BOOT - - O - - - -
+                MESS - - X - - - -
+                 USE - - X - - - -
+           PARTITION - - O - - - -
+         UPDATE-GRUB - - O - - - -
+              DEVICE - - O - - - -
+            THOUGHTS - - - - S - -
+                ROOT - - - - - - X
+            TERMINAL - - - - - - O

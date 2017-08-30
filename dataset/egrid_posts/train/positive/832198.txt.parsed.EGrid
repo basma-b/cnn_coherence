@@ -1,0 +1,9 @@
+             COMMAND X - - -
+             PACKAGE X - - -
+        DEPENDENCIES X - - -
+             VERSION - O - -
+                 APP - X - -
+              SOURCE - X - -
+           BUILD-DEP - X - -
+           SOMETHING - X - -
+        PACKAGE_NAME - - X -

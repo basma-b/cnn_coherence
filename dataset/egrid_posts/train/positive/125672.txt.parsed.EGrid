@@ -1,0 +1,11 @@
+                   M S S -
+              ERRORS O - -
+              SYSTEM S S -
+                BOOT O S -
+              KERNEL X - -
+             STARTUP X - -
+   /VAR/LOG/KERN.LOG - S -
+               ERROR - O -
+              THINGS - O -
+ /VAR/LOG/KERNEL.LOG - X -
+   /VAR/LOG/BOOT.LOG - - O

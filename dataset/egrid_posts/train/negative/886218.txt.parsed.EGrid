@@ -1,0 +1,29 @@
+                SUDO X - - - - -
+               PURGE X - S - - -
+XSERVER-XORG-VIDEO-NOUVEAU S - - - - -
+XSERVER-XORG-VIDEO-ALL X - - - - -
+             COMMAND O - - - - -
+                LINK X - - - - -
+                   U S - - - S -
+                TIME - X - - - -
+               NYLES - X - - - -
+             CONFIGS - - X - - -
+              AND/OR - - S - - -
+              RESULT - - X - - -
+             PACKAGE - - X - O -
+                 ALL - - - S - -
+           ARGUMENTS - - - X - -
+        PACKAGENAMES - - - O - -
+             APT-GET - - - - X -
+                INFO - - - - S -
+                STEP - - - - X -
+                 USE - - - - X -
+              DRIVER - - - - X -
+                 MAN - - - - X -
+             PROBLEM - - - - - S
+                 VNC - - - - - X
+              SERVER - - - - - S
+                HOOK - - - - - O
+             DESKTOP - - - - - X
+                 ONE - - - - - O
+                THIS - - - - - O

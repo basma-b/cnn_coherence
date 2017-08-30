@@ -1,0 +1,23 @@
+              DEVICE O - - - - - -
+              VOLUME S - - - - - -
+                TYPE O - - - - - -
+              FORMAT X O - X - - -
+             EXAMPLE X - - - - - -
+                SUDO S - - - - - -
+                EXT3 O X - - - - -
+           /DEV/HDA4 X - - - - - -
+/MNT/MY_CHOSEN_VOL_NAME S - - - - - -
+                HDA4 S - - - - - -
+                DISK X - - - - - -
+           PARTITION X - - - - - -
+          FILESYSTEM O - X - - - -
+                  HD - S - - - - -
+               DMSEG - O - - - - -
+               DRIVE - X - X - - -
+                EXT2 - X - - - - -
+            REISERFS - X - - - - X
+                OKIS - - X - - - -
+                THAT - - - S X - -
+                 USE - - - O - - -
+             DEFAULT - - - - - - O
+              ERRORS - - - - - - O

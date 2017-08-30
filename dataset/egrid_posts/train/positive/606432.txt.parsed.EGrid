@@ -1,0 +1,15 @@
+            IFCONFIG S - - - - - - - - - -
+              DEVICE O O - - - - - - - - -
+               LSPCI - S - - S - - - - - -
+            WIRELESS - X - X - - - X - - -
+                KIND - - - X - - - - - - -
+                CARD - - - X - - - O - - -
+            BROADCOM - - - - O X - - - - -
+                 54G - - - - X - - - - - -
+             DRIVERS - - - - - X - - S - -
+                THAT - - - - - - - O - - -
+             SUPPORT - - - - - - - O - - -
+                 BOX - - - - - - - X - - -
+            INTERNET - - - - - - - - X - -
+              ACCESS - - - - - - - - O - -
+                  OK - - - - - - - - - - X

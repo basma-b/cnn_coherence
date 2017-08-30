@@ -1,0 +1,13 @@
+             PROCESS S - - -
+                NAME X - - -
+                PIPE S - - -
+                RISK X - - -
+                DATA X - - -
+            QUESTION - X - -
+              UBUNTU - X - -
+                SUDO - - - S
+     /HOME/DIRECTORY - - - O
+                 GID - - - X
+                FILE - - - X
+         PERMISSIONS - - - X
+                BITE - - - X

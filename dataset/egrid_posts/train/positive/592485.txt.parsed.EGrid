@@ -1,0 +1,15 @@
+           XSESSIONS S - - - - -
+               HTTPS - S - - - -
+            XSESSION - X X - - -
+             PROGRAM - S X - - -
+             SESSION - X X O - -
+             MANAGER - O O - - -
+                 THE - - X - - -
+          ~/.XINITRC - - - X X -
+         ~/.XSESSION - - - X X -
+              SCRIPT - - - O - -
+                   X - - - X - -
+              WINDOW - - - X - -
+  SESSION.~/.XINITRC - - - X - -
+                HTTP - - - - O -
+//FTP.X.ORG/CONTRIB/APPLICATIONS/XSESSION-1.1.README - - - - X -

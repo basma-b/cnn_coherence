@@ -1,0 +1,27 @@
+                PONG X - - - -
+                NAME - S - - -
+             PACKAGE - S - - -
+                PERL - X - - -
+                NEED - X - - -
+           LOWERCASE - X - - -
+               START - S - - -
+                 LIB - X - - -
+                 END - X - - -
+               -PERL - X - - -
+              ENCODE - X - - -
+      LIBENCODE-PERL - O - - -
+                HTML - O - - -
+               MASON - S - - -
+  LIBHTML-MASON-PERL - O - - -
+                SUDO - X - - -
+             APT-GET - S - - -
+                CASE - X - - -
+               AVAIL - O - - -
+      GNOME-TERMINAL - - S - -
+               HTTPS - - O - -
+//BUGZILLA.GNOME.ORG/SHOW_BUG.CGI - - X - -
+            ID=78963 - - - S -
+                PIPE - - - - X
+                LESS - - - - X
+           SOMETHING - - - - S
+                FINE - - - - X

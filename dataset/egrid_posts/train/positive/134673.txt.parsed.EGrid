@@ -1,0 +1,13 @@
+                 ALL S - - -
+                DONT X - - -
+                DATA O - - -
+                WINE - X - -
+         PERMISSIONS - O - -
+                USER - X - -
+           SUPERUSER - O - -
+               STUFF - O - -
+                THAT - - - S
+                   + - - - X
+              APACHE - - - X
+                 ETC - - - X
+                  .. - - - O

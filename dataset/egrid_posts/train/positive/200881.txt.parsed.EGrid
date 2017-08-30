@@ -1,0 +1,12 @@
+                CARD X - - X -
+                 BUS X X - X -
+          IDENTIFIER X - - X -
+                LSHW - S - - -
+                INFO - O - - -
+           PCI:1:0:0 - X - - -
+             XSERVER - - - O -
+              RADEON - - - X -
+                  .. - - - X -
+                SUDO - - - X -
+        XSERVER-XORG - - - X -
+                   < - - - O -

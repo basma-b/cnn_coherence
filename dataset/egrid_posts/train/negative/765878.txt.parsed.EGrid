@@ -1,0 +1,27 @@
+              UPDATE X - - - - -
+               10.10 X - - - - -
+                CANT X - - - - -
+                BOOT X - - - - -
+                   A - X - - - -
+              SYSTEM - X - - - -
+                LINE - O - - - -
+            RECOVERY - X - - - -
+                MODE - X - - - -
+/SCRIPTING/INIT-BOTTOM - X - - - -
+                  .. - X - - - -
+               BLINK - X - - - -
+              CURSOR - X - - - -
+         SUGGESTIONS - X - - - -
+               PRESS - - X - - -
+              CTRL+D - - X - - -
+           CONTROL-D - - - X - -
+                NAME - - - - O -
+              CTRL-D - - - - S -
+                 USE - - - - - X
+             APACHE2 - - - - - O
+             DEFAULT - - - - - X
+                SUDO - - - - - X
+                  CP - - - - - O
+/ETC/APACHE2/SITES-AVAILABLE/PHPMYADMIN - - - - - S
+            A2ENSITE - - - - - X
+          PHPMYADMIN - - - - - X

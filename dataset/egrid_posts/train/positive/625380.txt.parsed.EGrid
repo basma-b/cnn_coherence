@@ -1,0 +1,9 @@
+      VAR/LOG/SYSLOG X - - -
+               ERROR - X X -
+             MESSAGE - X S -
+                PICO - - O X
+     /VAR/LOG/SYSLOG - - O -
+              SCREEN - - O -
+                FILE - - S -
+                 CAT - - X -
+                NANO - - - S

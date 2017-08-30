@@ -1,0 +1,14 @@
+                 MBR O - - -
+           PARTITION X - - -
+                 USE X - - -
+             WINDOWS X S - -
+            RECOVERY X - - -
+                DISC X - - -
+             COMMAND S - - -
+             /FIXMBR X - - -
+             /SCANOS S - - -
+                THAT - O - -
+                DISK - O - -
+                BOOT - O - -
+               THERE - X - -
+                 YES - - - X

@@ -1,0 +1,16 @@
+                 USB - S - - -
+         ENVIRONMENT - X - - -
+                SUDO - X - - -
+               FDISK - X - - -
+                  -L - S - - -
+           PARTITION - S - - -
+                FACT - - O - -
+               CDROM - - X - -
+          FILESYSTEM - - S - -
+      CD-REWRITABLES - - O - -
+                THAT - - - S -
+               MEDIA - - - X -
+                DISK - - - O -
+               IMAGE - - - O -
+            QUESTION - - - O -
+                SWAP - - - - X

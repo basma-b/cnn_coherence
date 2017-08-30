@@ -1,0 +1,13 @@
+              SOURCE O X X O
+                LIST O - S -
+              SYSTEM - S - -
+               ADMIN - X - -
+            TERMINAL - X - -
+                SUDO - X - -
+               GEDIT - X - -
+/ETC/ATP/SOURCES.LIST - X - -
+              INSERT - - - X
+               ERROR - - - O
+                WGET - - - X
+                HTTP - - - X
+/ETC/APT/SOURCES.LIST.D/MMU.LIST - - - X

@@ -1,0 +1,9 @@
+             COMMAND X - -
+        DEPENDENCIES X - -
+             PROGRAM X - -
+                DEBS - O -
+                   < - X -
+         PACKAGENAME - S -
+                THAT - - S
+                TYPE - - X
+       BUILD-DEPENDS - - O

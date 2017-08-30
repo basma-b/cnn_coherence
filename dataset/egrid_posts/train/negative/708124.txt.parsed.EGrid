@@ -1,0 +1,22 @@
+                GRUB X - - - - - - - -
+               GRUB2 X - - - - - - - -
+          EVERYTHING - S - - - - - - -
+             COMMAND - X - - X - - - -
+UPGRADE-FROM-GRUB-LEGACY - O - - X - - - -
+                BOOT - X - - - - O - -
+                  PC - O - - - - - - -
+                LOAD - X - - - - X - -
+               ERROR - O - - - - - - -
+             DEVICES - O - - X - - - -
+                 ALL - - - - - X - - -
+               LINUX - - - - - - O - -
+                  HD - - - - - - O - -
+                  IE - - - - - - X - -
+            /DEV/SDA - - - - - - S - -
+                DISK - - - - - - O - -
+                  XP - - - - - - X - -
+           PARTITION - - - - - - X - -
+               HEQRD - - - - - - X - -
+             SERVERE - - - - - - S - -
+                MUCH - - - - - - - X -
+                 BUG - - - - - - - - O

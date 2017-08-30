@@ -1,0 +1,24 @@
+             DAVID-A X - - -
+                FILE S - O -
+             PACKAGE X - - -
+              RE-SET X - - -
+         PERMISSIONS S - - -
+            MOUSEPAD S - - -
+           LISTFILES X - - -
+                BITS S - - -
+           FILENAMES O - - -
+               RIGHT X - - -
+               VALUE O - - -
+      FILE-OWNERSHIP S - - -
+                THAT - X S -
+          DPKG-QUERY - - O -
+               OWNER - - O -
+                ROOT - - X -
+                   | - - X -
+                SUDO - - X -
+               XARGS - - O -
+             EXAMPLE - - - X
+               CACHE - - - X
+                DPKG - - - X
+             CONTENT - - - X
+/VAR/CACHE/APT/ARCHIVES/MOUSEPAD.DEB - - - X

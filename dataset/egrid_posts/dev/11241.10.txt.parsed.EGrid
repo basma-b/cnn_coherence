@@ -1,0 +1,21 @@
+               12.04 - S - - - -
+              NVIDIA - X - - - -
+              DRIVER - O - - - -
+              KERNEL - X - - - -
+             VERSION - S - O - -
+               3.4.0 - - X - - -
+             DISPLAY - - O - - -
+                HTTP - - X - - -
+//WWW.KERNEL.ORG/PUB/LINUX/KERNEL/V3.0/LINUX-3.4.2.TAR.BZ2 - - S - - -
+              CONFIG - - O - - -
+     /PROC/CONFIG.GZ - - X - - -
+           OLDCONFIG - - O - - -
+          MENUCONFIG - - O - - -
+                  -F - - S - - -
+                 TRY - - - S - -
+               THING - - - O - -
+               STUFF - - - X - -
+              UPDATE - - - O - -
+                 KDE - - - O - -
+               |GREP - - - - - X
+          DIMENSIONS - - - - - X

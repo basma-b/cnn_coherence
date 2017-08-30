@@ -1,0 +1,13 @@
+             COMMAND X - -
+                  DD X - -
+IF=/HOME/555/DESKTOP/GAG46/DISK.DSK X - -
+         OF=/DEV/FD0 S - -
+               IMAGE O - -
+              FLOPPY X - -
+                 CAT X - -
+/HOME/555/DESKTOP/GAG46/DISK.DSK X - -
+                   > X - -
+                 ONE - S -
+                SEED - S -
+               CLICK - X -
+               THEME - - X

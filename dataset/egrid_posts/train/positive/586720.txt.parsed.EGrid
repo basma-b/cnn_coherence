@@ -1,0 +1,12 @@
+          CONNECTION X - - - -
+             NETMASK X - - - -
+         255.255.0.0 - X - - -
+                 USE - - X - -
+             NETWORK - - X X -
+                  IP - - X - -
+            COMPUTER - - S - -
+         192.168.0.1 - - O - -
+         192.168.0.2 - - O - -
+               THERE - - - S -
+           COMPUTERS - - - O -
+       255.255.255.0 - - - - X

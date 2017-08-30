@@ -1,0 +1,20 @@
+               STICK X - - - - -
+           SOMETHING X - - - - -
+              DRIVER - X - - - -
+            COMPUTER - X - - - -
+            SHOULDNT - - X - - -
+             PACKAGE - - O - - X
+                  CD - - X - - -
+        DIST-UPGRADE - - - - S -
+              SYSTEM - - - - O -
+             RELEASE - - - - X -
+                  OK - - - - X -
+LINUX-HEADERS-3.2.0-23 - - - - O -
+               ERROR - - - - - O
+ LINUX-IMAGE-GENERIC - - - - - O
+               CHAIN - - - - - O
+                 END - - - - - X
+                LIST - - - - - S
+              UPDATE - - - - - O
+        REPOSITORIES - - - - - S
+              MIDDLE - - - - - X

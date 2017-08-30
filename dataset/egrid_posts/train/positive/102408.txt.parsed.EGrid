@@ -1,0 +1,17 @@
+                SUDO X X - - -
+   DPKG-BUILDPACKAGE X X - - -
+              ANYONE - - S - -
+          -RFAKEROOT - - X X -
+                  -R - - - S -
+             COMMAND - - - O -
+                 USE - - - X -
+                ROOT - - - X -
+         PERMISSIONS - - - O -
+            FAKEROOT - - - O -
+              DEBIAN - - - X -
+             PACKAGE - - - X -
+               SUDO/ - - - O -
+                 END - - - - X
+              RESULT - - - - S
+                FILE - - - - O
+        BLAHBLAH.DEB - - - - O

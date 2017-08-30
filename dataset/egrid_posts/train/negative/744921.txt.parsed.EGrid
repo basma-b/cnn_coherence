@@ -1,0 +1,23 @@
+              ANYONE X - - -
+              WINDOW X X - -
+             MANAGER X S - -
+              UBUNTU X - - -
+               GNOME - S - -
+              CUSTOM - X - -
+              SCRIPT - S - -
+              EXPORT - X - -
+     WINDOW_MANAGER= - O - -
+               ENTRY - X - -
+                 GDM - X - -
+                LOAD - X - -
+              COMPIZ - O - -
+               CHECK - X - -
+/DESKTOP/GNOME/SESSION/REQUIRED_COMPONENTS/WINDOWMANAGER - O - -
+             DEFAULT - X - -
+             SESSION - X - -
+             WINDOWS - - - O
+                 NOW - - - X
+           PARTITION - - - O
+                 MBR - - - O
+                GRUB - - - S
+              MASTER - - - X

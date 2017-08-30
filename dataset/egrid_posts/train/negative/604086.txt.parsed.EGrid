@@ -1,0 +1,13 @@
+             CLIENTS S - - -
+                 USE X - X -
+                PORT O - S -
+            IPTABLES O S - -
+                WORK O O - X
+                 UFW O - - -
+            FRONTEND O - - -
+              SERVER - X - -
+           127.0.0.1 - X - -
+                  IP - O - -
+              ROUTER - - X -
+                NMAP - - S -
+                  PC - - - X

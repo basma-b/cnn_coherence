@@ -1,0 +1,16 @@
+             DELL500 O - - - - - - -
+       /MEDIA/RAID0/ X - - - - - - -
+          PERMISSION X - - - - - - -
+                FILE O - - - - - - -
+               FSTAB O - - - - - - -
+          /ETC/FSTAB - X - - - - - -
+             OPTIONS - - - - X - - X
+                LOOK - - - - - X - -
+           SOMETHING - - - - - X - -
+                  RO - - - - - S - -
+                AUTO - - - - - X - -
+             DEFAULT - - - - - O - -
+                TYPE - - - - - X X -
+                  RW - - - - - X - -
+                MODE - - - - - O - -
+            /DEV/MD0 - - - - - - S -

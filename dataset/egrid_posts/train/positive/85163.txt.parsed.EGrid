@@ -1,0 +1,5 @@
+        SOURCES.LIST X -
+              UPDATE S -
+         DIST-UPDATE S -
+            ANYTHING X -
+        DIST-UPGRADE O -

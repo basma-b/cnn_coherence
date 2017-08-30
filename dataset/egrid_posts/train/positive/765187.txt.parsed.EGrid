@@ -1,0 +1,10 @@
+              SPLASH X - S - - O - -
+             STARTUP X - - - - - - -
+              OUTPUT - S - - - - - -
+   /ETC/DEFAULT/GRUB - O - - - - - -
+                SUDO - X - - - - - -
+         UPDATE-GRUB - X - - - - - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - S - - - - -
+                   < - - S - - - - -
+                LINE - - S S - - - -
+             VGA=786 - - O - - - - -

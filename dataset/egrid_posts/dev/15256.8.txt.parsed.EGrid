@@ -1,0 +1,12 @@
+             SERVICE X O -
+                CANT - S -
+       DOCUMENTATION - O -
+           CHKCONFIG - O -
+       /SBIN/INSSERV - O -
+                FILE - X -
+           DIRECTORY - X -
+                   / - X -
+             RC-CONF - S -
+                HTTP - - X
+//PASTIE.ORG/4228025 - - S
+                NICE - - O

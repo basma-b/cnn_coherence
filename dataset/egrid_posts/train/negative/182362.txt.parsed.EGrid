@@ -1,0 +1,13 @@
+                ACPI O - - -
+                 PCI X - - -
+           INTERRUPT S - - -
+            PROBLEMS O - - -
+                SAME O - - -
+                BOOT O - - -
+            ACPI=OFF X - - -
+             KUBUNUT - - O -
+           PARTITION - - X -
+             MANAGER - - O -
+             PARTION - - - O
+               /HOME - - - X
+              FORMAT - - - O

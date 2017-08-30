@@ -1,0 +1,17 @@
+                RAID X - - -
+          CONTROLLER S - - -
+             DRIVERS O - - -
+              KERNEL X - X -
+                  .. X - - -
+ITEM=N82E16815123015 - X - -
+        TPK=SBT-SRD2 - X - -
+             SILICON - - X -
+               IMAGE - - X -
+             CHIPSET - - X -
+             SUPPORT - - O -
+               DRIVE - - X -
+              FORMAT - - O -
+              UBUNTU - - - S
+                XORG - - - O
+               XFREE - - - X
+           SOMETHING - - - O

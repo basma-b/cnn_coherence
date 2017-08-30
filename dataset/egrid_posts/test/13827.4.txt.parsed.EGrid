@@ -1,0 +1,16 @@
+                TEST O - - - - -
+             COMMAND O - - - - -
+                 IRC X - - - - -
+                  PM X - - - - -
+                 /PM - S - - - -
+                /MSG - - - X - -
+                WORK - - - X - -
+            NICKNAME - - - X - -
+                TEXT - - - X - -
+    TEXTHERETOBESEND - - - O - -
+             WEECHAT - - - O - -
+              CLIENT - - - X - -
+               CHECK - - - - X -
+               HTTPS - - - - X -
+//BUGZILLA.REDHAT.COM/SHOW_BUG.CGI - - - - X -
+           ID=852051 - - - - - X

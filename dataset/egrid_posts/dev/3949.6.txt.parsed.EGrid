@@ -1,0 +1,13 @@
+                TEXT X - - -
+               SHELL X - - -
+             COMMAND - X - -
+                ECHO - - X -
+                 CAT - - X -
+                   > - - O -
+    /ETC/RESOLV.CONF - - S -
+          NAMESERVER - - O -
+                WORD - - X -
+              ROUTER - - - X
+            SETTINGS - - - O
+           ATTENTION - - - O
+                 DNS - - - X

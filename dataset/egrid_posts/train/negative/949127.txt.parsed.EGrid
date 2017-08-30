@@ -1,0 +1,14 @@
+           NETSPLITS S - - -
+              FORMAT X - - -
+           PARTITION O - - -
+              OPTION X - - -
+               SETUP X X - -
+                 LVM X - - -
+                EXT3 - X - -
+             OPTIONS - X - -
+               100MB - S - -
+               DRIVE - S - -
+            QUESTION - X - -
+           MEGABYTES - O - -
+                EACH - X - -
+                HTTP - - - X

@@ -1,0 +1,19 @@
+              CUSTOM X - - -
+                 MAP X - - -
+           ATTRIBUTE O - - -
+           LDAP.CONF X - - -
+      SAMACCOUNTNAME - - X -
+       PERSONALITIES - - - X
+               -LSB- - - - S
+               -RSB- - - - X
+           MULTIPATH - - - X
+               RAID6 - - - O
+               RAID5 - - - S
+             DEVICES - - - S
+                NONE - - - S
+          MDADM.CONF - - - X
+                UUID - - - O
+                WORK - - - X
+               ARRAY - - - X
+                HTTP - - - X
+//PASTE.UBUNTU.COM/992401/ - - - X

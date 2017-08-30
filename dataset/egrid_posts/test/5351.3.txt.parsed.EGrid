@@ -1,0 +1,17 @@
+           PARTITION O - - - - - -
+                  FS O - - - - - -
+              REPORT O - - - - - -
+               MOUNT X - - - - - -
+               CHECK - - S - - - -
+              OUTPUT - - O - - - -
+                   % - - - S - - -
+           /DEV/SDA5 - - - S - - -
+               LINUX - - - X - - -
+                  .. - - - O - - -
+             NOTHING - - - X - - -
+              SCRIPT - - - - - O O
+                   $ - - - - - - X
+              GTHUMB - - - - - - S
+              EXPORT - - - - - - X
+LIBOVERLAY_SCROLLBAR=0 - - - - - - X
+                FILE - - - - - - X

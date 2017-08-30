@@ -1,0 +1,21 @@
+                 USE X - -
+                ROOT O - -
+               ADMIN O - -
+                THAT - O -
+                USER - X X
+              SCRIPT - O -
+                CALL - X X
+             SESSION - X -
+                TURN - X -
+              FOLDER - - S
+                HOME - - X
+           DIRECTORY - - X
+                THIS - - S
+/HOME/USERNAME/PUBLIC_HTML - - X
+             SYMLINK - - O
+          /PATH/TO/A - - X
+          /PATH/TO/B - - X
+              APACHE - - X
+              CONFIG - - S
+                HTTP - - X
+            TUTORIAL - - S

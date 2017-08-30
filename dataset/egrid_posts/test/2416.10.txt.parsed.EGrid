@@ -1,0 +1,11 @@
+                 USE O - -
+            MODPROBE X - -
+              DRIVER S - -
+              DEVICE X - -
+              UBUNTU - S -
+                SUDO - X -
+                LSHW - S -
+            HARDWARE - X -
+               DRIVE - O -
+                HOST - - X
+             GATEWAY - - X

@@ -1,0 +1,14 @@
+         UPDATE-GRUB S - - - - -
+                GRUB O O - - - -
+        GRUB-INSTALL S S - - - -
+               /SYS/ S - - - - -
+           OS-PROBER X - X - - -
+              FEDORA O X X - - -
+            ANYTHING - O - - - -
+                BOOT - X - - - -
+              SECTOR - X - - - -
+            CORE.IMG - X - - - -
+             MODULES - X - - - -
+                 SYS - - O - - -
+              CHROOT - - X - - -
+                 LOT - - - - - X

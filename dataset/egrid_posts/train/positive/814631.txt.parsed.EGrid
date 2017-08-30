@@ -1,0 +1,15 @@
+             PROGRAM - X - - -
+                PORT - X - - -
+                 USE - - S - -
+            IPTABLES - - X - -
+             COMMAND - - S - -
+                ROOT - - S - -
+                 NAT - - X - -
+                  -A - - O - -
+                 TCP - - X - -
+               DPORT - - X - -
+                  -J - - X - -
+            REDIRECT - - X - -
+           OTHERPORT - - X - -
+                   > - - X - -
+                RULE - - - - X

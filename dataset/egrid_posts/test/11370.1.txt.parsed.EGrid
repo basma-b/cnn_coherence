@@ -1,0 +1,8 @@
+              CHROOT X X X -
+           SOMETHING - X - -
+             PROCESS - X - -
+            APPARMOR - - X -
+                FAKE - - - X
+                REST - - - O
+              SYSTEM - - - X
+              FOLDER - - - X

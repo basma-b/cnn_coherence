@@ -1,0 +1,14 @@
+                 SET X - - - - -
+         PERMISSIONS X - - - X -
+               USERS X - - - S -
+              VSFTPD X - - - - -
+              ACCESS - X - - - -
+            /VAR/WWW - X - - - -
+       DOCUMENTATION - - - - O -
+              CONFIG - - - - X -
+                FILE - - - - X -
+            EXAMPLES - - - - X -
+              GLANCE - - - - X -
+                 MAN - - - - X -
+                PAGE - - - - X -
+            ACPI=OFF - - - - - O

@@ -1,0 +1,14 @@
+              CFDISK O - - - - - - O - - - -
+           PARTITION X O - - - - - - - - - -
+           /DEV/SDB1 O - - - - - - - - X - -
+                 USB X - - - - - - - - - - -
+                DISK X - - - - - - - - - - -
+               CRASH - O - - X - - - - - - -
+                LINE - - X - - - - - - X - -
+                SHOW - - S - - - - - - - - -
+           TYPE=FREE - - X - - - - - - - - -
+               SPACE - - O - - - - - - - - -
+           OPERATION - - - - X - - - - - - -
+               THING - - - - - X - - - - - -
+             COMMAND - - - - - - - - - S - -
+                 YEP - - - - - - - - - - - X

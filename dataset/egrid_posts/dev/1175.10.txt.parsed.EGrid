@@ -1,0 +1,12 @@
+  DOWNLOAD+REINSTALL X - - -
+             PACKAGE X - - -
+             VERSION X - - -
+               FORCE - X - -
+                  -I - X - -
+             DEFAULT - - X -
+        INSTALLATION - - X -
+          PULSEAUDIO - - - S
+              SERVER - - - O
+                ALSA - - - X
+           SOMETHING - - - O
+               AFAIK - - - O

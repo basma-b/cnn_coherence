@@ -1,0 +1,12 @@
+            DDRESCUE X - - - - -
+               IMAGE O O - - - X
+              DAMAGE X - - - - X
+               DRIVE X O - - X X
+                  DD - X - - - -
+        IF=/DEV/SDA1 - S - - - -
+        CONV=NOERROR - X - - - -
+            TESTDISK - X O - - -
+        SYSTEMRESCUE - X - - - -
+              LIVECD - X - - - -
+             COMMAND - - S - - -
+               OTHER - - - - - O

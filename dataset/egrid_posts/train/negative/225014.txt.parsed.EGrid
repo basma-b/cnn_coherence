@@ -1,0 +1,16 @@
+                TIME X - -
+             COMMAND X - -
+                LINE X - -
+                SUDO X - X
+/ETC/NETWORK/IF-UP.D/NTPDATE X - -
+            TIMEZONE S - -
+                  .. - X O
+                KIND - O -
+            FIREWALL - X -
+              RESULT - - X
+            IPTABLES - - X
+                  -L - - X
+                HTTP - - X
+  //PASTE.UBUNTU.COM - - X
+               QUOTE - - S
+                NEED - - O

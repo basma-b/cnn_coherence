@@ -1,0 +1,11 @@
+       CONFIGURATION X - -
+             DEFAULT X - -
+             NETWORK X - -
+            SETTINGS O - -
+/ETC/SYSCONFIG/NETWORK-SCRIPTS/IFCFG-ETHX - X -
+                LUCK - - X
+              DRIVER - - O
+              SYSTEM - - X
+              BACKUP - - O
+              THINGS - - O
+                MESS - - X

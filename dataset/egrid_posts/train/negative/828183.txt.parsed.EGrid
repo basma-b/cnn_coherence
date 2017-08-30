@@ -1,0 +1,6 @@
+      CONFIG_HZ=1000 O - -
+                 FLY X - -
+                /SYS - O -
+             SUPPORT - O -
+                TICK - X -
+              SERVER - - O

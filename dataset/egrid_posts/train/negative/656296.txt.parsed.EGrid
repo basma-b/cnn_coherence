@@ -1,0 +1,14 @@
+           PARTITION O S - - - -
+               FSTAB X O - - - -
+           AUTOMOUNT X - - - - -
+                USER X - - - - -
+               DRIVE X O - - - -
+               PLACE - X - - - -
+          MEZQUITALE - O - - - -
+           /MEDIA/HD - S - - - -
+                TYPE - S - - - -
+               FAT32 - O - - - -
+             COMMAND - O - - - -
+                 USE - X - - - -
+                  .. - - - - - O
+             DUMBASS - - - - - O

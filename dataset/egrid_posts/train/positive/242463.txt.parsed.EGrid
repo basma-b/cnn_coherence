@@ -1,0 +1,19 @@
+/LIB/MODULES/2.6.17-10-386 S - -
+              FOLDER O - -
+                FILE O - -
+/LIB/MODULES/2.6.17-10-3860-GENERIC S - -
+           IEEE80211 O - -
+              SOURCE O - -
+             HEADERS X - -
+              KERNEL X X -
+             PACKAGE - O X
+                  .. - X -
+                ONES - X -
+               IMAGE - X -
+                TYPE - X -
+            TERMINAL - X -
+                SUDO - X -
+             APT-GET - S -
+KERNEL-SOURCE-2.6.17-10-3860-GENERIC - O -
+KERNEL-HEADERS-2.6.17-10-3860-GENERIC - - O
+                   E - - X

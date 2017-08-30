@@ -1,0 +1,16 @@
+              ANYONE X - - - - - - - -
+ /BOOT/GRUB/MENU.LST - - X - - - - - -
+                 GUI - - - X - - - - -
+           INTERFACE - - - X - - - - -
+                FILE - - - O - - - - -
+            ANYTHING - - - - - - O - -
+                LILO - - - - - - X X -
+           LILO.CONF - - - - - - X - -
+                GRUB - - - - - - - O -
+             NOTHING - - - - - - - S -
+                MENU - - - - - - - O -
+                USER - - - - - - - S -
+                 TRY - - - - - - - X -
+       DOCUMENTATION - - - - - - - X -
+             OPENSSL - - - - - - - - S
+                 MAR - - - - - - - - O

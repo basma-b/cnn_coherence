@@ -1,0 +1,20 @@
+              PROBLE O - - -
+               HTTPS X - - -
+                   W X - - -
+                 GPG X - - -
+               ERROR X - - -
+                HTTP X - O -
+//PACKAGES.MEDIBUNTU.ORG X - - -
+            INTREPID X - - -
+             RELEASE X - - -
+          SIGNATURES S - - -
+                 KEY S X - -
+           NO_PUBKEY X - - -
+               IDEAS S - - -
+                THIS - - O -
+                SUDO - - X -
+                WGET - - X -
+//WWW.MEDIBUNTU.ORG/SOURCES.LIST.D/INTREPID.LIST - - O -
+OUTPUT-DOCUMENT=/ETC/APT/SOURCES.LIST.D/MEDIBUNTU.LIST - - O -
+               GNOME - - - S
+ UNMOUNT-BY-TRASHING - - - O

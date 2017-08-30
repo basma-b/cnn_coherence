@@ -1,0 +1,9 @@
+           INTERFACE X - -
+/ETC/NETWORK/INTERFACES - X -
+              REBOOT - O -
+             ADDRESS - S -
+                NEED - O -
+                SUDO - X -
+/ETC/INIT.D/NETWORKING - S -
+              SERVER - - X
+                   P - - X

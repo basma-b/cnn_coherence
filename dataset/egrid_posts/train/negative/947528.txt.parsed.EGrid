@@ -1,0 +1,11 @@
+              FORMAT X S -
+             COMMAND O - -
+               LINUX X - -
+                 MAN - X -
+             NOTHING - O -
+          FILESYSTEM - O -
+           PARTITION - O -
+                 ONE - O -
+               DRIVE - O -
+               FAT32 - X -
+              CFDISK - X -

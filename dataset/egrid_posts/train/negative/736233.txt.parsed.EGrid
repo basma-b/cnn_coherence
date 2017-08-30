@@ -1,0 +1,16 @@
+             EXAMPLE S S - -
+                 BIT O - - -
+                 USE X O - -
+                NAME X - - -
+                PIPE X - - -
+                FIFO X O - -
+               USAGE - S - -
+                TEST - X - -
+                   > - X - -
+              MYFIFO - S - -
+             SESSION - X - -
+                 CAT - X - -
+         SUGGESTIONS - X - -
+               ERROR - - - O
+                  .. - - - O
+              ERRORS - - - S

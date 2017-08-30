@@ -1,0 +1,17 @@
+        META-PACKAGE X - - - - - -
+           META/MEAT X - - - - - -
+             PACKAGE X - - - - - -
+                THIS - X - - - X -
+            RECOVERY - - - X X - -
+            TERMINAL - - - X - - -
+                GRUB - - - - X - -
+              SCREEN - - - - X - -
+              UBUNTU - - - - X - -
+                MODE - - - - X - -
+                BOOT - - - - X - -
+               PRINT - - - - - X -
+             EXT4-FS - - - - - X -
+                OPTS - - - - - X -
+   ERRORS=REMOUNT-RO - - - - - X -
+          COMMIT=600 - - - - - X -
+                IDEA - - - - - - X

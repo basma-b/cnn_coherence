@@ -1,0 +1,22 @@
+             G++-4.2 - O X - - - - - - -
+          DEPENDENCY - S S - - - - - - -
+  LIBSTDC++6-4.2-DEV - X - - - - - - - -
+             SATISFY - - O - - - - - - -
+     LIBC++6-4.2-DEV - - O - - - - - - -
+             COMMAND - - - - O - - - - -
+              OUTPUT - - - - O - - - - -
+/ETC/APT/SOURCES.LIST - - - - - X - - - -
+               CLICK - - - - - X - - - -
+                 DEB - - - - - X - - - -
+             PACKAGE - - - - - O - - - -
+              INSTAL - - - - - O - - - -
+        REPOSITORIES - - - - - X - - - -
+            INTERNET - - - - - - X - - -
+          CONNECTION - - - - - - O - - -
+              UBUNTU - - - - - - X - - -
+                  XP - - - - - - X - - -
+                .DEB - - - - - - - X O -
+            TERMINAL - - - - - - - - X -
+           DIRECTORY - - - - - - - - X -
+                 ALL - - - - - - - - - O
+        DEPENDENCIES - - - - - - - - - X

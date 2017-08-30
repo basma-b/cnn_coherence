@@ -1,0 +1,14 @@
+              FORMAT X - -
+                HOME X - -
+           PARTITION O - -
+                 NEW X - -
+               FAT32 X - -
+                EXT4 X X -
+                 ANY O - -
+                DATA X - -
+                   * - S -
+              CHANGE - - S
+                FILE - - X
+              SYSTEM - - X
+                TYPE - - S
+            RECOVERY - - O

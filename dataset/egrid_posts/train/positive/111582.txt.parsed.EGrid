@@ -1,0 +1,14 @@
+         PARTITITION X - - - - - -
+              FORMAT X - - - - - -
+                 NEW S - - - - - -
+                BOOT X - - - - - -
+               DRIVE X - - - - - -
+               FDISK - X - - - - -
+          /DEV/DRIVE - S - - - - -
+           PARTITION - O - - - - -
+                   U - S - - - - -
+                FILE - X - - - - -
+              SYSTEM - O - - - - -
+                DISK - - - - X - -
+               LABEL - - - - X - -
+               MSDOS - - - - X - -

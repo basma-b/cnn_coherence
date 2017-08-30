@@ -1,0 +1,24 @@
+           SOMETHING O - X -
+               FSTAB X - - -
+                AUTO X X - -
+                FIRE O - - -
+                TIME - X - -
+                DISK - S - -
+              OPTION - O - -
+                   > - X - -
+              NOAUTO - O - -
+             DEFAULT - O - -
+           UMASK=007 - X - -
+              GID=46 - X - -
+                THIS - S - -
+                CANT - X - -
+                VFAT - X - -
+UUID=2644EFDF44EFB02B - X - -
+                NTFS - X - -
+                LINE - X - -
+                BOOT - X - -
+              FORMAT - - X -
+                 ALL - - X -
+               MOUNT - - - O
+              DEVICE - - - X
+                  .. - - - X

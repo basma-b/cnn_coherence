@@ -1,0 +1,15 @@
+                   U S - - -
+               CACLS - O - -
+               GUEST - X - -
+                   N - X - -
+             WINDOWS - X - -
+                 ALL - O - -
+         PERMISSIONS - X - -
+               THING - S - -
+                 ACL - S - -
+          PEMISSIONS - O - -
+              SYSTEM - O - -
+                   F - S - -
+                CANT - S - -
+                PROB - O - -
+                JOKE - - O -

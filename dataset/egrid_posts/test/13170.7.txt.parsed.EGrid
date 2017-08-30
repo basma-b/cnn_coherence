@@ -1,0 +1,5 @@
+/ETC/APPARMOR.D/USR.BIN.FIREFOX O - -
+             COMMAND O - -
+              OUTPUT O - -
+                  CD - X -
+                APPS - X -

@@ -1,0 +1,12 @@
+                THAT O - - - -
+              SERVER X - - - -
+          CONNECTION O - - - -
+              CLIENT X - - - -
+             MACHINE X - - - -
+                 SSH - X - - -
+              KERNEL - - - X -
+               PANIC - - - O -
+                SYNC - - - X -
+           EXCEPTION - - - X -
+           INTERRUPT - - - X -
+              PCMCIA - - - X -

@@ -1,0 +1,12 @@
+         RESPONCIBLE X - - - -
+             STARTUP X X X - -
+                 RUN - X - - -
+           IFUP/DOWN - O - - -
+                ETH0 - O X - -
+             ANOTHER - O - - -
+/ETC/NETWORK/INTERFACES - - X - -
+             SECTION - - S - -
+                AUTO - - X - -
+              SCRIPT - - O - -
+             PROCESS - - X - -
+          /ETC/RCS.D - - - - X

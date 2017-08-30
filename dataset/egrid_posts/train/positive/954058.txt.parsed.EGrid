@@ -1,0 +1,17 @@
+        DEPENDENCIES - O - -
+                  -F - O - -
+               ERROR - O - -
+           DIVERSION - S - -
+ /USR/LIB/LIBGL.SO.1 - X - -
+   XORG-DRIVER-FGLRX - X - S
+               CLASH - X - -
+            DIERSION - X - -
+/USR/LIB/NVIDIA/LIBGL.SO.1.XLIBMESA - X - -
+          NVIDIA-GLX - X - -
+               FLGRX - O - -
+           WHATCOULD - S - -
+                 ATI - - X -
+              NVIDIA - - X -
+             DRIVERS - - S -
+                THAT - - - S
+             PACKAGE - - - X

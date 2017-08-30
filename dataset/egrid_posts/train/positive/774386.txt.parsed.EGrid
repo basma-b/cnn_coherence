@@ -1,0 +1,16 @@
+              MEMBER O - - -
+             SUDOERS X - - -
+               GROUP X - - -
+                FILE - X - -
+         INFORMATION - X - -
+              GROUSP - X - -
+          /ETC/GROUP - - S -
+            GUI-TOOL - - S -
+              SYSTEM - - X -
+                MENU - - X -
+         /ETC/PASSWD - - X -
+         /ETC/SHADOW - - O -
+               THING - - O -
+                 IDS - - X X
+                TIME - - - X
+                THAT - - - S

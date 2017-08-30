@@ -1,0 +1,14 @@
+             MACHINE O - - X
+             NETWORK X - - -
+                USER S X - -
+             FOLDERS X - - -
+          PERMISSION O - - -
+              ACCOUT O - - -
+              FOLDER O X - -
+            PUREFTPD - O X -
+               USERS - X X O
+                TYPE - X - -
+                FILE - X - -
+              ACCESS - O O -
+                 FTP - - - S
+             WINDOWS - - - X

@@ -1,0 +1,25 @@
+                 BUG - O - - -
+              KERNEL - X - - -
+           SUBSYSTEM - X - - -
+                  .. - X - - -
+         UDEVMONITOR - S - - -
+              DEVICE - X - - -
+CREATION/RECOGNITION - S - - -
+                 LOS - S - - -
+               STICK - S S - -
+                DONT - S - - -
+                 ONE - O - - -
+             MESSAGE - - O - -
+               DMESG - - X - -
+    /ETC/INIT.D/DBUS - - - S -
+                 HAL - - - O -
+              EVENTS - - - S -
+               -LSB- - - - S -
+               -RSB- - - - S -
+     /BLOCK/SDB/SDB1 - - - O -
+               BLOCK - - - X -
+                UDEV - - - X -
+               DRIVE - - - S -
+              /MEDIA - - - S -
+                 TRY - - - - X
+                TOOL - - - - O

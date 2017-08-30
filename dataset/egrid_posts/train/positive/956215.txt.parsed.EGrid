@@ -1,0 +1,15 @@
+              RAM128 O O - O O - - -
+                SWAP X X - X X - - -
+                SIZE X X - X X - - -
+                 8MB O O - O O - - -
+            BDDEBIAN - - X - - - - -
+       HIIIIIIIIIIII - - - - X - - -
+                   ' - - - - - S - -
+                BOOT - - - - - X - S
+              LIVECD - - - - - X - X
+                 CDS - - - - - O - -
+               ORDER - - - - - X - -
+                THAT - - - - - - - O
+             APT-GET - - - - - - - S
+                ROOT - - - - - - - X
+            TERMINAL - - - - - - - O

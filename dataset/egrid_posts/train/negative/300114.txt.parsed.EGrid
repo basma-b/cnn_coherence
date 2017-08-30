@@ -1,0 +1,14 @@
+              SYSTEM O - - - -
+                 USE X - - - -
+        DIST-UPGRADE X - - - -
+             COMMAND X - - - -
+                LINE O - - - -
+                 YEP - X - - -
+         METAPACKAGE - - X - -
+              KERNEL - - X - -
+            INSTANCE - - X - -
+                GRUB - - - S -
+                LINK - - - O -
+              BOTTOM - - - X -
+                  CD - - - O -
+               LABEL - - - S -

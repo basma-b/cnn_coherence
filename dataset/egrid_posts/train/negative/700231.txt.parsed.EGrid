@@ -1,0 +1,8 @@
+               ROUTE S - - - - - - - - -
+          LINK-LOCAL O - - - - - - - - -
+           SIOCADDRT O - - - - - - - - -
+              DEVICE O - - - - - - - - -
+                ROUT - - - X - - - - - -
+               TABLE - - - O - - - - - -
+                THAT - - - - - - S - - -
+               SENSE - - - - - - O - - -

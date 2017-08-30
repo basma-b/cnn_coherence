@@ -1,0 +1,19 @@
+             SOMEONE X - - -
+                NAME X - - -
+             COMMAND S - - -
+                FILE O O - -
+              FOLDER X - - -
+/PARENTFOLDER/SUBFOLDER O - - -
+              PARENT X - - -
+       /PARENTFOLDER X - - -
+                COPY - X - -
+                MOVE - S - -
+                HOME - X - -
+           DIRECTORY - X - -
+                   * - S - -
+            ~/PARENT - O - -
+          SUBFOLDERS - O - -
+           SUBFOLDER - X - -
+                  -R - - S -
+             /PARENT - - O -
+                THAT - - - S

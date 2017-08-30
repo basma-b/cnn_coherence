@@ -1,0 +1,14 @@
+              KERNEL X - - - - -
+                LINE X - - - - -
+ /BOOT/GRUB/MENU.LST X - - - - -
+                 WAY - S - - - -
+           SUPERUSER - X - - - -
+             COMMAND - O - - - -
+                SUID - - O - - -
+                  .. - - - X X -
+                SUDO - - - S - -
+              BINARY - - - O - -
+               GROUP - - - X - -
+             MEMBERS - - - S - -
+                ROOT - - - X - -
+             EXPLOIT - - - - - X

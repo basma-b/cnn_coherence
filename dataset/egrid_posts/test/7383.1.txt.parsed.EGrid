@@ -1,0 +1,10 @@
+             SERVICE X - - - - X - -
+                 UFW S - - - - S - -
+               STATE - - - X - - - -
+            IPTABLES - - - X - - - O
+             RULESET - - - - - O O -
+             DEFAULT - - - - - X - -
+           CONFIGURE - - - - - X - -
+             CONFIGS - - - - - X - -
+                SUDO - - - - - - - S
+                  -F - - - - - - - X

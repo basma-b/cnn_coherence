@@ -1,0 +1,19 @@
+             MODULES S - - - X - -
+                LOAD O - - - - O -
+                SOME S - - - - - -
+                FILE O - - - - - -
+/ETC/MODPROBE.D/BLACKLIST O - - - - - -
+              EFFECT O - - - - - -
+/ETC/MODULES.AUTOLOAD.D/KERNEL-2.6 S - - - - - -
+             SOMEONE S - - - - - -
+              DRIVER - - - X - - -
+             SERVICE - - - - X - -
+             DRIVERS - - - - X - -
+              INITRD - - - - - S -
+             SIS_AGP - - - - - S -
+                BOOT - - - - - X -
+          NVIDIA_AGP - - - - - S -
+          NVIDIA_AGO - - - - - O -
+               GNOME - - - - - - S
+               PLACE - - - - - - X
+                MENU - - - - - - X

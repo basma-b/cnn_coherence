@@ -1,0 +1,29 @@
+                 YES S - - - - - - -
+           /DEV/HDDD S - - - - - - -
+            NAUTILUS X - - - - - - -
+              THUNAR O - - - - - - -
+                BOTH O - - - - - - -
+              UBUNTU X - - - - - - -
+             DEFAULT X - - - - - - -
+              BACKUP O - - - - - - -
+                 TAR - X X - - - - -
+             COMMAND - O - - - - - -
+                 CLI - X - - - - - -
+                MINE - O - - - - - -
+               CVPZF - - X - - - - -
+      BACKUPDELL.TGZ - - X - - - - -
+EXCLUDE=/BACKUPDELL.TGZ - - X - - - - -
+ EXCLUDE=/LOST+FOUND - - X - - - - -
+        EXCLUDE=/MNT - - X - - - - -
+        EXCLUDE=/SYS - - X - - - - -
+      EXCLUDE=/MEDIA - - X - - - - -
+EXCLUDE=/ROOT/.TRASH - - X - - - - -
+                   / - - X - - - - -
+             EXAMPLE - - X - - - - -
+                  CD - - O S - - - -
+               FAULT - - O - - - - -
+                LIVE - - - X - - - -
+                NEED - - - - - X - -
+             MINIMAL - - - - - O - -
+                THAT - - - - - - O -
+                 UGH - - - - - - - X

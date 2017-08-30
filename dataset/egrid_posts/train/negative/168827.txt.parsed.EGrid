@@ -1,0 +1,14 @@
+            SHUTDOWN X X -
+             CMDLINE X - -
+                SIDE X - -
+              SCRIPT - O -
+           SHUTDOWNS - X -
+             MACHINE - S -
+         TEMPERATURE - S -
+                SUDO - X -
+                  -H - O -
+                 ^^^ - X -
+             WINDOWS - - S
+               HOURS - - O
+              CHANCE - - S
+             DEFRAGS - - X

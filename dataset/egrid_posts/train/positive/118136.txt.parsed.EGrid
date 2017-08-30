@@ -1,0 +1,23 @@
+                FILE S - - - - - - - -
+        SUBDIRECTORY X - - - - - - - -
+            /VAR/LOG X - - - - - - - -
+                  .. - X - - - - - - -
+              UBUNTU - - X - - - - - -
+                 USE - - - S - - - - -
+                OS-X - - - X - - - - -
+             SERVICE - - - X - - - - -
+                UNIX - - - O - - - - -
+                   / - - - X - - - - -
+            SMBMOUNT - - - O - - - - -
+             EXAMPLE - - - - X - - - -
+              SYNTAX - - - - X - - - -
+           SOMETHING - - - - - O - - -
+//WINDOWSSERVER/SHAREDDIR/ - - - - - X - - -
+       USERNAME=USER - - - - - X - - -
+ WORKGROUP=WORKGROUP - - - - - X - - -
+                THIS - - - - - X - - -
+           WORKGROUP - - - - - - S - -
+               FIRST - - - - - - X - -
+             COMMAND - - - - - - - - O
+          CONNECTION - - - - - - - - S
+                TYPE - - - - - - - - X

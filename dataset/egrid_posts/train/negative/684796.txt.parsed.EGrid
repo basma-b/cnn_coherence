@@ -1,0 +1,12 @@
+             COMMAND S S X - - - -
+                FILE O O - - - - -
+           DIRECTORY X X - - - - -
+               USERS - - O - - - -
+                 USE - - X - - - -
+               ORSON - - - X - - -
+             CONTEXT - - - X - - -
+          PERMISSION - - - - O - -
+           OWNERSHIP - - - - O - -
+          FILESYSTEM - - - - O - -
+                THIS - - - - O - -
+                NOPE - - - - - - X

@@ -1,0 +1,8 @@
+               CLOCK S - -
+                 CLI O - -
+                DATE - S -
+                 NTP - O -
+             COMMAND - O -
+                 CAT - - X
+  /VAR/LOG/MYSQL.ERR - - S
+             NOTHING - - O

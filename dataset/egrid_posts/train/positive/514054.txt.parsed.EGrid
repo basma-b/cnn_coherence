@@ -1,0 +1,12 @@
+               UUID= O O - - - -
+               FSTAB X X O - - -
+               STUFF X X - - - -
+                   * - - X - - -
+          ROOT=UUID= - - X - - -
+             EXAMPLE - - X - - -
+                  .. - - X - - -
+    /MEDIA/DOCUMENTS - - S - - -
+           /DEV/SDF1 - - - O - -
+                   > - - - X - -
+                NAME - - - - O -
+               THANK - - - - - X

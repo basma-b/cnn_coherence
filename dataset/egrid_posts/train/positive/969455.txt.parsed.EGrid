@@ -1,0 +1,10 @@
+                PASS X - - - -
+                ROOT X - - - -
+                SUDO - X - - X
+              PASSWD - S - - -
+                BOOT - X - - -
+               ORDER - - X - -
+                  OS - - X - -
+                TYPE - - - - X
+                NANO - - - - X
+/BOOT/GRUB/MENU.LIST - - - - O

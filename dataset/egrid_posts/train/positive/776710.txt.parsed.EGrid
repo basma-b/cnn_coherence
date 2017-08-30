@@ -1,0 +1,21 @@
+               ERROR X - - - - - - - - - - -
+                BOOT X - - - - - - - - - - -
+/DEV/DISK/BY-UUID/XXXX - - S - - - - - - - - -
+                SUDO - - - X - - - - - - - -
+               BLKID - - - O - - - - - - - -
+               UUIDS - - - S - - - - - - - -
+             STARTUP - - - X - - - - - - - -
+              EDITOR - - - X - - - - - - - -
+               THING - - - S - - - - - - - -
+   /ETC/DEFAULT/GRUB - - - S - - - - - - - -
+                GRUB - - - X - - - - - - - -
+            JORDAN_U - - - - X - X - - - - -
+            RESPONSE - - - - X - - - - - - -
+ /BOOT/GRUB/GRUB.CFG - - - - X - - - - - - -
+               THERE - - - - - S - - - - - -
+                FILE - - - - - O - - - - - -
+          /BOOT/GRUB - - - - - X - - - - - -
+              BACKUP - - - - - - O - - - - -
+                9.04 - - - - - - X - - - - -
+                 ONE - - - - - - O O - - - -
+                TYPE - - - - - - - X - - - -

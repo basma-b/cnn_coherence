@@ -1,0 +1,17 @@
+                 ERR S - - - -
+                INFO - S - - -
+           SOMETHING - O - - -
+                SUDO - O - - -
+                 APT - S - - -
+                FILE - O - - -
+         RECONFIGURE - X - O -
+                BLAH - O - - -
+                 VNC - S S - -
+                 SSH - - X - -
+               SHELL - - X - -
+              TUNNEL - - X - -
+               WORLD - - X - -
+               CLEAN - - - S -
+            SETTINGS - - - X -
+             COMMAND - - - S -
+                   D - - - - X

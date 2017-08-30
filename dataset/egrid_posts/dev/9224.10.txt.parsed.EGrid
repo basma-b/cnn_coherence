@@ -1,0 +1,16 @@
+            LOCATION S - -
+            IRRECORD X - -
+        DRIVER=IRMAN X - -
+            MYREMOTE X - -
+                   < X - -
+                THIS S - -
+                LIRC O - -
+               LSUSB O - -
+              DEVICE O - -
+              DRIVER X - -
+               THATS S - -
+                 USE O - -
+             COMMAND X - -
+                TAIL O - -
+                /DEV X - -
+         INSTRUCTION - - X

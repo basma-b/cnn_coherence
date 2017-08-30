@@ -1,0 +1,29 @@
+               WARBO X - - - - - - - - -
+              APACHE - O - O - - X - - -
+               THERE - S - S - - - - - -
+               ERROR - O - - - - - - - -
+          HTTPD.CONF - X - - - X - - - -
+              ACTION - X - - - - - - - -
+APPLICATION/X-HTTPD-PHP - X - - - - - - - -
+                LINE - S - - - - - O - -
+                 PHP - O X - - - - - - -
+                WAYS - - - O - - - - - -
+                 RUN - - - X - - - - - -
+                PHP5 - - - S - - - - - -
+             MOD_PHP - - - X - - - S - -
+                 CGI - - - X - - - - - -
+                 OWN - - - X - - - - - -
+              OPTION - - - S - - - - - -
+              MODULE - - - O - - O S - -
+              CONFIG - - - X - - - - - -
+                SUDO - - - X - - - - - -
+             A2ENMOD - - - X - - - - - -
+              SCRIPT - - - O - - - - - -
+                HTTP - - - - X X - - - -
+        //LOCALHOST/ - - - - X - - - - -
+                FILE - - - - X - - O - -
+                  // - - - - X - - - - -
+                URLS - - - - X - - - - -
+            ANYTHING - - - - - X - - - -
+/ETC/APACHE2/MODS-AVAILABLE/PHP5.CONF - - - - - - - X - -
+             PACKAGE - - - - - - - O - -

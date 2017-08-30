@@ -1,0 +1,17 @@
+                FSCK X - - - - - - - -
+                FILE - X - - - - - - X
+              SYSTEM - X - - - - - - -
+               CHECK - S - - - - - - -
+                SUDO - X - - - - - - -
+               TOUCH - S - - - - - - -
+              NVIDIA - - X - - - - - -
+                CARD - - X - - X - - -
+              STARTX - - - X - - - - -
+           ARGUMENTS - - - - X - - - -
+                 ETC - - - - X - - - -
+                DONT - - - - - - S - -
+                  .. - - - - - - - - O
+           DIRECTORY - - - - - - - - X
+                PATH - - - - - - - - O
+                   * - - - - - - - - X
+              /GTK.H - - - - - - - - X

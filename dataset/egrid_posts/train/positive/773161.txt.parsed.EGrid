@@ -1,0 +1,15 @@
+                 FOR S - -
+                TYPE X O -
+                  FS X - -
+               CDROM X - -
+          FILESYSTEM X X -
+               FSTAB O - -
+                AUTO X - -
+              UDISKS O S -
+          /DEV/CDROM O - -
+   MOUNT-FSTYPE=AUTO X - -
+               ERROR - S -
+               APPLE - O -
+             WINDOWS - O -
+            NOTEBOOK - X -
+               RSYNC - - O

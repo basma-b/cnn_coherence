@@ -1,0 +1,17 @@
+                   M X X - - - - -
+              KERNEL X - X - X - X
+              CONFIG X - - - - - -
+                  OK - S - - - - -
+          DIFFERENCE - O - - - - -
+                   * - X - - - - -
+              MODULE - - X - - - -
+                LOAD - - O - - - -
+              THINGS - - - - X - -
+                BOOT - - - - X - -
+             PARTION - - - - S - -
+            REISERFS - - - - S - -
+              FORMAT - - - - X - -
+            INSTANCE - - - - X - -
+                MUCH - - - - - - O
+             MODULES - - - - - - X
+                SIZE - - - - - - O

@@ -1,0 +1,11 @@
+                HELP O - - - -
+                 DMA S - - - -
+           HARDDRIVE X - - - -
+         HDPARM.CONF X - - - -
+                LINE - X O - -
+           IDE=NODMA - X - - -
+                BOOT - X - - -
+                GRUB - - X - -
+                  IM - - - X S
+                THAT - - - - S
+               GUESS - - - - O

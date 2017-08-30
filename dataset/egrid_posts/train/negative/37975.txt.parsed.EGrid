@@ -1,0 +1,14 @@
+                  -T X - -
+                NTFS S X -
+               /NTFS O S -
+          /ETC/FSTAB X - -
+                  YA X - -
+           /DEV/HDA1 - O -
+          UMASK=0222 - X -
+                OOPS - S -
+              /CDROM - O -
+              REASON - X -
+                ISNT - S -
+               CDROM - O -
+              UBUNTU - - X
+             PACKAGE - - O

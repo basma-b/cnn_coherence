@@ -1,0 +1,11 @@
+               SETUP X - - - - - - - -
+              SERVER X - - - - - - - -
+             OPENBSD S - - - - - - - -
+               SHELL O - - - - - - - -
+             192.168 X - - - - - - - -
+                 ONE - - - - S - - - -
+            INTERNET - - - - X - X - -
+              ROUTER - - - - S O - - -
+                PORT - - - - X - - O -
+            IPTABLES - - - - - - - X -
+             PACKAGE - - - - - - - - X

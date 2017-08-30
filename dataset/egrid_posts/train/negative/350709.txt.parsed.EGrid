@@ -1,0 +1,16 @@
+             SYMLINK S - -
+             NEITHER O - -
+                FILE O X -
+                  CD S X -
+                TYPE - X -
+        /MEDIA/CDROM - O -
+          /ETC/FSTAB - S -
+                MOST - S -
+             COMMAND - X -
+                 MAN - X -
+                  RO - X -
+          /DEV/CDROM - O -
+              DEVICE - S -
+              SYSTEM - O -
+                CASE - X -
+                MODE - - X

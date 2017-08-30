@@ -1,0 +1,12 @@
+                   < S - - - X -
+                   > X - - - S -
+              UBUNTU - S - - - -
+              PCMCIA - X - - - -
+               MODEM - O - - X -
+                TYPE - X - - - -
+              DEBIAN - - - - S -
+                 USE - - - - O -
+              MODULE - - - - O -
+              INSMOD - - - - - S
+                –R - - - - - X
+      PRODUCT=0XC893 - - - - - X

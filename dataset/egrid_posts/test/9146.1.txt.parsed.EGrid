@@ -1,0 +1,16 @@
+               12.04 X - - - - - - -
+            MOUNTALL S - - - - - - -
+             SUPPORT S - - - - - - -
+             TIMEOUT X - - - - - - -
+             OPTIONS X - - O - - O X
+          FILESYSTEM X - - - - - - -
+              SIGNAL X - - - - - - -
+                BOOT S - - - - - - -
+               FSTAB - X - - - - - X
+               PARAM - X - - - - - -
+              LITTLE - - O - - - - -
+               THOSE - - - S - - - -
+              KERNEL - - - X - - - -
+        COMMAND-LINE - - - X - - - -
+             EXAMPLE - - - - - - - O
+//ASKUBUNTU.COM/QUESTIONS/120/HOW-DO-I-AVOID-THE-S-TO-SKIP-MESSAGE-ON-BOOT - - - - - - - X

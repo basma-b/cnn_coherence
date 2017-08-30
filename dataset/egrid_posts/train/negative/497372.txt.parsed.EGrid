@@ -1,0 +1,31 @@
+              WEBCAM X - - - -
+                 USB - X - - -
+             COMMAND - X - X -
+               LSUSB - O - S -
+                  .. - X - - -
+               EMPIA - X - - -
+          TECHNOLOGY - X - - -
+                INC. - O - - -
+                SHOW - O - - -
+              VENDOR - X - - -
+             PRODUCT - X - - -
+                  ID - O O - -
+           054A:4056 - - X - -
+              READER - - X - -
+              OUTPUT - - S - -
+PASTE.UBUNTU.COM/55175 - - X - -
+              CAMERA - - O - -
+                THIS - - - X -
+              DEVICE - - - X -
+                LIST - - - S -
+                  SH - - - X -
+                  -C - - - S -
+/PROC/ACPI/ASUS/CAMERA - - - O -
+               ENTRY - - - O -
+           SOMETHING - - - X -
+            LOGITECH - - - X -
+                 INC - - - X -
+                   > - - - - X
+                ATH0 - - - - X
+                NAME - - - - S
+/ETC/NETWORK/INTERFACES - - - - S

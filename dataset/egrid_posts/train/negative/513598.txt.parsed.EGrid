@@ -1,0 +1,15 @@
+    LIBGHC6-HTTP-DEV S - - - -
+             APT-GET X - - S -
+             COMMAND - S - - -
+               ERROR - X - X -
+             MESSAGE - X - - -
+             PACKAGE - X X O -
+                HTTP - X - X -
+//PASTE.UBUNTU.COM/73088/ - X - - -
+                  -F - - - O -
+               BREAK - - - X -
+          DEPENDENCY - - - O -
+                 APT - - - S -
+              FINISH - - - X -
+              INSTAL - - - X -
+                THAT - - - - O

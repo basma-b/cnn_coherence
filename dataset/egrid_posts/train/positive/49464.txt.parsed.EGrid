@@ -1,0 +1,20 @@
+                SATA X - - - - - - -
+               DRIVE O - - - - - - -
+              FORMAT X - - - - - - -
+           PARTITION X - - - - - - -
+               ENTRY - O - - - - - -
+               FSTAB - X - - - - - -
+              DEVICE - X - - - - - -
+           /DEV/SDA1 - S - - - - - -
+               ERROR - O - - - - - -
+                BOOT - X - - - - - -
+                ROOT - - X - - - - -
+                USER - - X - - - - -
+             ACCOUNT - - X - - - - -
+          USER/GROUP - - - - - S - -
+            SENTENCE - - - - - O - -
+             PROBLEM - - - - - X - -
+                HTTP - - - - - - X -
+//UBUNTU.PASTEBIN.COM/295752 - - - - - - X -
+                PATH - - - - - - - X
+                NAME - - - - - - - O

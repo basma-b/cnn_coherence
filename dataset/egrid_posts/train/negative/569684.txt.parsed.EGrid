@@ -1,0 +1,17 @@
+                   / - O - - - - - - -
+           PARTITION - X - - X - - - -
+              MATTER - - X - - - - - -
+               /OLD/ - - X - - - - - -
+               RSYNC - - - S - - - - -
+          EVERYTHING - - - O - - - - -
+                SIZE - - - - - X - - -
+                  DD - - - - - O - - -
+IF=/PATH/TO/OLD/PARTITION - - - - - X - - -
+OF=/PATH/TO/NEW/PARTITION - - - - - S - - -
+           BLOCKSIZE - - - - - X - - -
+               -RSB- - - - - - O - - -
+               BLOCK - - - - - X - - -
+               THERE - - - - - - X - -
+               WASTE - - - - - - X - -
+               SPACE - - - - - - X - -
+           ZYKOTICK9 - - - - - - - - S

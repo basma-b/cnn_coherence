@@ -1,0 +1,19 @@
+        DEPENDENCIES S - - - S - -
+                 FIX X - - - - - -
+             APT-GET X X - - S - -
+              UPDATE X X - - - - -
+               FORCE X - - - - - -
+             REMOVAL O - - - - - -
+             PACKAGE X - - - X - -
+                DPKG X - - - - - -
+             UPGRADE - O - - - - -
+               ERROR - - O - - - -
+                 KDE - - O X - - -
+               THERE - - - X - X -
+                WAYS - - - X - - -
+LIBACCESS-BRIDGE-JAVA - - - - S - -
+                TREE - - - - X - -
+                 FAX - - - - - X -
+             MACHINE - - - - - X -
+               ORDER - - - - - S -
+         /ETC/INTTAB - - - - - - O

@@ -1,0 +1,22 @@
+             ANYBODY X - - - - - - - - - -
+               CAUSE X - - - - - - - - - -
+            HOSTNAME O O - - - - - - - - -
+   /ETC/MYSQL/MY.CNF - O - - - - - - - - -
+              SERVER - X - - - - - - - - -
+                THAT - - S - - - - - - - -
+                 SET - - - O - - - - - - -
+/ETC/MYSQL/DEBIAN.CNF - - - X - - - - O - -
+                FILE - - - - X - - - - - -
+               ERROR - - - - - X - - - - -
+             MESSAGE - - - - - O - - - - -
+              SYSTEM - - - - - S - - - - -
+                BOOT - - - - - X - - - - -
+                  GO - - - - - - X - - - -
+                SUDO - - - - - - - X - - -
+   /ETC/INIT.D/MYSQL - - - - - - - S - - -
+              THINGS - - - - - - - O - - -
+                  PS - - - - - - - X - - -
+                   | - - - - - - - X - - -
+                GREP - - - - - - - X X - -
+               MYSQL - - - - - - - X X - -
+                WELL - - - - - - - - - S -

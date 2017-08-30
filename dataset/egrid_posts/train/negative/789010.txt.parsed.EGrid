@@ -1,0 +1,27 @@
+                 LVM X - - - - -
+              VOLUME X - - - - -
+                /VAR S - - - - -
+               DMESG O - - - - -
+              ERRORS X - - - - -
+            FSCK.EXT - X - - - -
+           PARTITION - X O - - -
+                ISNT - - S - - -
+                NEED - - O - - -
+              REBOOT - - X - - -
+                SUDO - - S - - -
+   /DEV/VARPARTITION - - O - - -
+                FILE - - X - - -
+                SIZE - - S - - -
+               DRIVE - - X - - -
+          SUPERBLOCK - - S - - -
+              OUTPUT - - S - - -
+           FSCK.EXT4 - - X - - -
+                HTTP - - O - - -
+//PASTEBIN.COM/Y2DEKQQE - - X - - -
+                THAT - - - S - -
+          FILESYSTEM - - - X - -
+               SHARE - - - X - -
+           STRUCTURE - - - X - -
+               FSTAB - - - - X -
+                   * - - - - - O
+           SMBCLIENT - - - - - X

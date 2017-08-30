@@ -1,0 +1,11 @@
+                XORG X - - -
+                 ATI X - - X
+             DRIVERS O - - -
+             PACKAGE X - O -
+           LIBRARIES X - - -
+                 USE - - O -
+           SOMETHING - - O -
+             HEADERS - - O -
+               FGLRX - - X -
+             MODULES - - O -
+              DRIVER - - S O

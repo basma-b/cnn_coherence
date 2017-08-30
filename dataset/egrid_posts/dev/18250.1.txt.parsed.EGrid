@@ -1,0 +1,16 @@
+           PARTITION X - - -
+               TABLE O - - X
+             GPARTED S - - -
+               MSDOS X - - -
+                 ONE O - - -
+                THIS - X - -
+              OPTION - X - -
+              SYSTEM - X - -
+                BOOT - X - -
+             WINDOWS - X - -
+               LINUX - X - -
+               DRIVE - S - -
+                 USE - O - -
+             STORAGE - X - -
+                NTFS - - O -
+                  FS - - - X

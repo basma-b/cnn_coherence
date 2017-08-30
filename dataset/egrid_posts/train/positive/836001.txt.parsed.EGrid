@@ -1,0 +1,14 @@
+                SUDO X - - X
+            MODPROBE X - - X
+              HPCUPS S - - S
+             SERVICE O - - X
+                 CUP S - - S
+              MODULE O - - X
+               PRINT X - - -
+                BEST S - - -
+             PRINTER X X - -
+               COLOR X - - -
+         CALIBRATION X - X -
+       DRIVER/MODULE - S - -
+              SYSTEM - X - -
+                 BTW - - - X

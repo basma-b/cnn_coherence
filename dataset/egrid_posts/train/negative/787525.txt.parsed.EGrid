@@ -1,0 +1,13 @@
+             DEFAULT X - - -
+               ENTRY S - - -
+        GRUB_DEFAULT O - - -
+   /ETC/DEFAULT/GRUB X - - -
+           INCREMENT - X - -
+            VARIABLE - O - -
+             KERNELS - S - -
+                LIST - X - -
+                SUDO - - - X
+             APT-GET - - - O
+   XORG-DRIVER-FGLRX - - - O
+     LIBGL1-MESA-GLX - - - O
+               BERYL - - - S

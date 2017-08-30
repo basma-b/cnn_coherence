@@ -1,0 +1,28 @@
+                   ' X - - - - - -
+              PEOPLE X - - - - - -
+             MESSAGE O - - - - - -
+             STARTUP X - - - - - -
+/ETC/GDM/PRESESSION/DEFAULT S - - - - - -
+             SESSION O - - - - - -
+               WTEMP X - - - - - -
+                UTMP X - - - - - -
+       /VAR/LOG/WTMP X - - - - - -
+       /VAR/RUN/UTMP X - - - - - -
+                  -X O - - - - - -
+/VAR/LIB/GDM/:0.XSERVERS X - - - - - -
+                  -H X - - - - - -
+                  -L X - - - - - -
+   /ETC/GDM/XSESSION X - - - - - -
+               SETUP O - - - - - -
+             MKDTEMP X - - - - - -
+              PRIVAT X - - - - - -
+              SOCKET X - - - - - -
+                 DIR X - - - - - -
+               SPACE X - X - - - -
+               LEAVE X - X - - - -
+              DEVICE X - - - - - -
+               DRIVE X - X - - - -
+                IDEA - X - - - - -
+               CLICK - - - - - - X
+             ENALBLE - - - - - - X
+            WIRELESS - - - - - - X

@@ -1,0 +1,15 @@
+        /PATH/DEVICE - S - - - - -
+                FLAG - O - - - - -
+                NEED - - O - - - -
+         /DEV/CDROM0 - - - S - - -
+           CANDIDATE - - - X - - -
+                 THO - - - - O - -
+               CDROM - - - - X - -
+          /ETC/FSTAB - - - - S - -
+        INSTALL-TIME - - - - X - -
+         MOUNTPOINTS - - - - O - -
+             DEVICES - - - - X - -
+               STORY - - - - X - -
+           /DEV/SCD1 - - - - - O -
+                NONE - - - - - - X
+                WORK - - - - - - X

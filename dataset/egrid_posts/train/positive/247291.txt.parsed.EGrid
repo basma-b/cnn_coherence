@@ -1,0 +1,11 @@
+LIBAPACHE2-MOD-PERL2 S - - - - - -
+                THIS - S - - S - -
+            DEB-MAKE - O - - - - O
+                NEED - O - - - - -
+                PERL - X - - X - -
+                DPKG - X - - - - O
+                MAKE - S - - - - X
+             PACKAGE - X - - X - -
+                 DEB - - - - O - -
+               THERE - - - - - - S
+                CALL - - - - - - X

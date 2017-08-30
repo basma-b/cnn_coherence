@@ -1,0 +1,31 @@
+              SERVER - X - - - - - -
+                 USE - X - - - - - -
+  DO-RELEASE-UPGRADE - O - - - - - -
+      UPDATE-MANAGER - X - - - - - -
+                BOTH - S - - - - - -
+        REPOSITORIES - X - - X S - -
+             VARIETY - - X - - - - -
+             SERVERS - - X - - - - -
+US.ARCHIVE.UBUNTU.COM - - X - - - - -
+  ARCHIVE.UBUNTU.COM - - X - - - - -
+  MIRRORS.KERNEL.ORG - - X - - - - -
+            EASYNEWS - - X - - - - -
+              MIRROR - - X - - - - -
+                  .. - - - O - X - -
+       PRE-REQUISITE - - - - S - - -
+                 TRY - - - - - X - -
+                HTTP - - - - - O - X
+//OLD-RELEASES.UBUNTU.COM/ - - - - - S - -
+              SOURCE - - - - - X - -
+                LIST - - - - - O - -
+               THANK - - - - - O - -
+             EXTREME - - - - - X - -
+             RELEASE - - - - - X - -
+             PACKAGE - - - - - - O -
+            BREAKAGE - - - - - - O -
+             PROCESS - - - - - - X -
+            EVERYONE - - - - - - S -
+                PAGE - - - - - - X -
+                 DEB - - - - - - - X
+                LINE - - - - - - - S
+                MAIN - - - - - - - X

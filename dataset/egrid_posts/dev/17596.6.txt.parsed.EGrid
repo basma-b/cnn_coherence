@@ -1,0 +1,10 @@
+                NAME X -
+                 DEB X -
+                FILE O -
+/VAR/CACHE/APT/ARCHIVES X -
+                SUDO X -
+                DPKG X -
+                  -I O -
+       FORCE-DEPENDS S -
+                LOCK X -
+                 DIR O -

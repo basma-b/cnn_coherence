@@ -1,0 +1,9 @@
+                COPY X - - - - -
+                FILE O - - - - -
+           DIRECTORY O - - - - -
+              SCRIPT - X - - - -
+           SOMETHING - X - - - -
+              FOLDER - - O - - -
+               RSYNC - - X - - -
+                SORT - - X - - -
+                STOP - - X - - -

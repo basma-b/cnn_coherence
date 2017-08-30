@@ -1,0 +1,15 @@
+                CANT S - - S - - - -
+               BRCTL O - - - - - - -
+                  YA - - S - - - - -
+              BRIDGE - - X - - - - -
+          CONTROLLER - - X - - - - -
+             PROGRAM - - O - X - - -
+             APT-GET - - - X - - - -
+           APT-CACHE - - - X - - - -
+              SEARCH - - - S X - - -
+               AMD64 - - - O - - - -
+                NAME - - - - X - - -
+               -RSB- - - - - O - - -
+             NOTHING - - - - - S - -
+         PORTFORWARD - - - - - - - X
+           SOMETHING - - - - - - - O

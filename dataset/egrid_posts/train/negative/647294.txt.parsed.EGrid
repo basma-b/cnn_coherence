@@ -1,0 +1,15 @@
+             PROBLEM O - - - - - -
+            DHCLIENT X - - - - - -
+              SERVER - S - X - - -
+                 NIC - O - - - - -
+                 USE - - S - - - -
+             ADDRESS - - O O X - -
+/ETC/NETWORK/INTERFACES - - X - - - -
+                ETH1 - - - S - - -
+                DHCP - - - - O - -
+                HELP - - - - S - -
+                BASE - - - - O - -
+                 MAC - - - - X - -
+           INTERFACE - - - - X - -
+                  TY - - - - - - X
+                INFO - - - - - - X

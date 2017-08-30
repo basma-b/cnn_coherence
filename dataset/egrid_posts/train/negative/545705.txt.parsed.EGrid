@@ -1,0 +1,21 @@
+                 WAY X - - - -
+              COMPIZ X - - - -
+              NVIDIA X - - - -
+            GEFORCE2 X - - - -
+                  MX X - - - -
+            INTREPID X - - - -
+       NVIDIA-GLX-96 - S - - -
+      NVIDIA-XCONFIG - O - - -
+              BACKUP - X - - -
+  /ETC/X11/XORG.CONF - S - - -
+                   X - O - - -
+/USR/SHARE/APPLICATIONS - - - X -
+               ADMIN - - - X -
+             DESKTOP - - - X -
+               USERS - - - S -
+               MENUS - - - O -
+                ROOT - - - X -
+           EVERYBODY - - - O -
+              ACCESS - - - X -
+                THIS - - - - S
+            EDITTING - - - - O

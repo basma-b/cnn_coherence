@@ -1,0 +1,16 @@
+               STATE S - - - -
+             NETWORK S X S - X
+            SMB.CONF - S - - -
+             PACKAGE - X - - -
+             MANAGER - X - - -
+             DEFAULT - X - - -
+                NAME - S - - S
+                SAME - O - - O
+               SHARE - O - - -
+             PROBLEM - - S - -
+             WINDOWS - - X - X
+               ERROR - - X - -
+             MESSAGE - - O - -
+               LINUX - - - - X
+                 CAT - - - - X
+ /ETC/SAMBA/SMB.CONF - - - - X

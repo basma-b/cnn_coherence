@@ -1,0 +1,16 @@
+                THAT X - - - - - -
+               DMESG X - - - - - -
+              SYSTEM X - - - - - -
+                 BUS X - - - - - -
+               SPEED O - - - - - -
+                 PIO X - - - - - -
+               MODES X - - - - - -
+           IDEBUS=XX X - S - - - -
+              ATA133 - X - - - - -
+                 ESP - - O - - - -
+              REASON - - - - - S -
+             COMMAND - - - - - S -
+     NETWORK-MANAGER - - - - - S -
+               START - - - - - X X
+                 JOB - - - - - X -
+           CONDITION - - - - - - X

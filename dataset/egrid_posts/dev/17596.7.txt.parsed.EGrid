@@ -1,0 +1,27 @@
+                NAME X - - - -
+                 DEB X - - - -
+                FILE O - - - -
+/VAR/CACHE/APT/ARCHIVES X - - - -
+                SUDO X - - S -
+                DPKG X - - - -
+                  -I O - - - -
+       FORCE-DEPENDS S - - - -
+                LOCK X - - - -
+                 DIR O - - - -
+         CREDENTIALS - S - - -
+              VERIFY - O - - -
+         PERMISSIONS - - S - -
+               SHARE - - X - -
+             CONTROL - - O - -
+                THIS - - S - -
+                PAST - - X - -
+                 USE - - - S -
+               SMBFS - - - O -
+           USER=USER - - - X -
+                  XP - - - S -
+               ISSUE - - - O -
+                CIFS - - - X -
+            PROBLEMS - - - S -
+              UPDATE - - - X -
+                4/17 - - - X -
+                 LTS - - - - O

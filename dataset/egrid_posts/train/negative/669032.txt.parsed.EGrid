@@ -1,0 +1,20 @@
+                CARD X - - - - - - - - -
+             PROBLEM - X - - - - - - - -
+                 KMS - - X X - - - - - -
+CONFIG_DRM_I915_KMS=Y - - X - - - - - - -
+CONFIG_DRM_RADEON_KMS=Y - - X - - - - - - -
+              KARMIC - - - X - - - - - -
+               CHECK - - - - S - - - - -
+                  .. - - - - X - - - - -
+             COMMENT - - - - O - - - - -
+               WEEKS - - - - X - - - - -
+             KERNELS - - - - - O - - - -
+              DEVICE - - - - - X - - - -
+              KERNEL - - - - - - S - - -
+                HTTP - - - - - - X - - -
+//KERNEL.UBUNTU.COM/~KERNEL-PPA/MAINLINE/ - - - - - - X - - -
+                WORK - - - - - - X - - -
+               QUIET - - - - - - O - - -
+              2.6.33 - - - - - - - X - -
+             MACHINE - - - - - - - X - -
+        RESTRICTIONS - - - - - - - X - -

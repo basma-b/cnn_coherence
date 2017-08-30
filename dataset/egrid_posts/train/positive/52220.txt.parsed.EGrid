@@ -1,0 +1,10 @@
+             PROBLEM - X - -
+               LSPCI - X - -
+           LIBRARIES - S - -
+                NEED - O - -
+/USR/LIB/LIBPCI.SO.2 - - X -
+/LIB/TLS/I686/CMOV/LIBC.SO.6 - - O -
+          0XB7EBA000 - - X -
+  /LIB/LD-LINUX.SO.2 - - O -
+          0X80000000 - - X -
+               NIGHT - - - X

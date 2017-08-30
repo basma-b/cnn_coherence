@@ -1,0 +1,10 @@
+                ROOT - X - -
+                   | - S X -
+              DETAIL - - X -
+           INITRD.GZ - - O -
+                AUFS - - X -
+               THERE - - - S
+             DEFAULT - - - X
+            PASSWORD - - - X
+        ROOT-ACCOUNT - - - O
+           NESSECARY - - - X

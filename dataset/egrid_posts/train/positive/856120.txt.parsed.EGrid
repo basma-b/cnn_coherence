@@ -1,0 +1,24 @@
+                  QN X - - - - - -
+                  RE S - - - - - -
+             PACKAGE O - - - - - -
+                HTTP O - - - - O -
+                LINE X - - - - - -
+                 DEB X - - - - - -
+           //FOO.COM X - - - - - -
+            MAVERICK X - - - - - -
+                 BAR X - - - - - -
+//FOO.COM/PACKAGES/DISTS/MAVERICK/BAR/BINARY-I386/PACKAGES.TGZ X - - - - - -
+                THIS - X - - - - -
+              CHANGE - - O - - - -
+                REPO - - X - - X X
+              DETAIL - - O - - - -
+             FOO.COM - - - X - - -
+             RELEASE - - - X - - -
+           SUBFOLDER - - - X - - -
+              ACCESS - - - - - O -
+//FOO.COM/PACKAGES/DISTS/MAVERICK/BAR/BINARY-ANY/PACKAGES.TGZ - - - - - X -
+                THAT - - - - - - O
+             PROBLEM - - - - - - S
+                ARCH - - - - - - O
+                I386 - - - - - - S
+              UPDATE - - - - - - S

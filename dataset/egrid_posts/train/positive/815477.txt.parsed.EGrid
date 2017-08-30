@@ -1,0 +1,11 @@
+                 DOC X - - -
+                FILE X - - -
+            READABLE O - - -
+         LIBREOFFICE X - - -
+            WRITABLE - - O O
+            TERMINAL - - O -
+            PROPERTY - - - O
+            DOCUMENT - - - X
+          FILESYSTEM - - - X
+               CLICK - - - X
+               STUFF - - - X

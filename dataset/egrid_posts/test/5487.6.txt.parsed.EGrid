@@ -1,0 +1,12 @@
+              KERNEL X - - - -
+               PANIC O - - - -
+                SYNC X - - - -
+               TIMER S - - - -
+           INTERRUPT X - - - -
+               TAINT O - - - -
+               CHECK - X - - -
+                THAT - - - O -
+                TREE - - - - O
+               LINUX - - - - X
+               MUSIC - - - - X
+              PLAYER - - - - S

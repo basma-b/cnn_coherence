@@ -1,0 +1,20 @@
+              ANYONE S - - X - -
+             APACHE2 S S - X - -
+               ERROR X - - X - -
+   /VAR/LOG/APACHE2/ - X - - - -
+            ISTARNES - S - - - -
+              FOLDER - X - - - -
+              ACCESS - S - - - -
+                 USE - O - - - -
+         WWW.VLC.COM - S - - - -
+               GROUP - X - X - -
+                 ADM - - S S - -
+                 LOG - - - O - -
+                DENY - - - S - -
+                 LOL - - - S - -
+                LIST - - - O - -
+              OUTPUT - - - X - -
+             COMMAND - - - X - -
+                 ACE - - - X - -
+                 CAT - - - - - X
+/VAR/LOG/APACHE2/ERROR.LOG - - - - - X

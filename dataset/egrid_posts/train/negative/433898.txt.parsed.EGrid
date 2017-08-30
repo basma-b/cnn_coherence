@@ -1,0 +1,27 @@
+              ANYONE X - - - -
+           PARTITION X - - - -
+              SCHEME X - - - -
+               RAID1 X - - - -
+               DRIVE X O X - X
+              MIRROR - S - - -
+               SPEED - O - - -
+         RELIABILITY - X - - -
+                 IMO - X - - -
+              WIZARD - X - - -
+                RAID - - O - X
+              SERVER - - X - -
+          FILESERVER - - S - -
+                   U - - S - -
+          PARTITIANS - - O - -
+            HARDWARE - - X - -
+              CONFIG - - X - -
+                GRUB - - - - S
+              SETUPS - - - - S
+               GRUB2 - - - - O
+        INSTALLATION - - - - X
+                 TBH - - - - S
+              OUTPUT - - - - S
+               FDISK - - - - X
+                  -L - - - - X
+                 CAT - - - - X
+/BOOT/GRUB/DEVICE.MAP - - - - X

@@ -1,0 +1,11 @@
+              STDERR - O - - -
+                FILE - X - - -
+             PROGRAM - O - - X
+   START-STOP-DAEMON - X S - -
+                   > - - S - -
+             FEATURE - - O - -
+              OUTPUT - - S - -
+ /VAR/LOG/DAEMON.LOG - - X - -
+                 HMM - - - X -
+            INTEREST - - - X -
+             ENTRIES - - - - O

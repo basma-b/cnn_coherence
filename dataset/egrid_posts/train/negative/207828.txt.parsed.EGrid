@@ -1,0 +1,17 @@
+              SWITCH X - - - - - - - -
+              CHANCE S - - - - - - - -
+                DATA X X X - - - - - -
+                KIND - X - - - - - - -
+         ENVIRONMENT - - S - - - - - -
+                 MAP - - - - O - - - -
+               DRIVE - - - - X - - - -
+             COMMAND - - - - X - - - -
+             MESSAGE - - - - - X - - -
+                 ILL - - - - - - - S -
+                  YA - - - - - - - O -
+                STOP - - - - - - - X -
+                SUDO - - - - - - - - X
+              CHROOT - - - - - - - - X
+                /MNT - - - - - - - - S
+              FORMAT - - - - - - - - X
+               ERROR - - - - - - - - X

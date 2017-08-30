@@ -1,0 +1,14 @@
+              SYNTAX X - - X - - -
+                 ARP X - O X - - -
+                HOST X - - - - - -
+            ETHERNET X - - - - - -
+                 LAN X - - - - - -
+                 MAN - S X X - - -
+              ANSWER - S - S S - -
+             COMMAND - - - X - - -
+            QUESTION - - - S - - -
+                  .. - - - X - - -
+                PAGE - - - O - - -
+                  YU - - - - - - S
+                 PPA - - - - - - O
+           PPA-PURGE - - - - - - X

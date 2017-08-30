@@ -1,0 +1,15 @@
+             MODULES O - - - -
+               PATCH X - - - -
+              KERNEL X - - - -
+              SOURCE X - - - -
+             DEFAULT X - - - -
+              CONFIG O - - - -
+               /BOOT X - - - -
+/BOOT/CONFIG-2.6.10-5-386 - X - - -
+/PATH/TO/KERNELSRC/CONFIG - X - - -
+             .CONFIG - - X - -
+         KERNELHOWTO - - O - -
+                WIKI - - X - -
+               CHECK - - - - O
+       DOCUMENTATION - - - - X
+                RULE - - - - X

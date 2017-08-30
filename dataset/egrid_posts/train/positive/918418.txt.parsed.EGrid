@@ -1,0 +1,15 @@
+              KERNEL - O -
+              DRIVER - S -
+             KERNELS - S -
+            CHILDREN - X -
+            PARANOID - X -
+              GENTOO - X -
+               USERS - X -
+          MULTIMEDIA - X -
+             LIBRARY - O -
+              DAEMON - X -
+                XINE - X X
+           GSTREAMER - - S
+                 LIB - - S
+                 USE - - X
+               MUINE - - X

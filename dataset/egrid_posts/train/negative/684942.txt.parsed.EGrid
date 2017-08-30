@@ -1,0 +1,16 @@
+              NUMBER O - - - -
+              GRUB.D X - - - -
+                BOOT X O X - -
+               ORDER O - S - -
+             TOPMOST - O - - -
+           PARAMETER - - X - -
+   /ETC/DEFAULT/GRUB - - X - -
+                FILE - - X - -
+                  .. - - X - -
+                 WAY - - O - -
+               GRUB2 - - X - -
+                 ALL - - X - -
+              SCRIPT - - S - -
+                 RUN - - X - -
+         UPDATE-GRUB - - X - -
+                DEED - - - - X

@@ -1,0 +1,26 @@
+           /DEV/HDA1 O - - - - - - - - - -
+              FOLDER X - - - - S - - - - -
+          PERMISSION O - - - - - - - - - -
+          FILESYSTEM O - - - - - - - - - -
+           PARTITION X - - - - - - - - - -
+                EXT3 - X - - - - - - - - X
+               GUESS - S - - - - - - - - -
+                TYPE - X - - - - - - - - X
+               BLKID - X - - - - - - - - -
+                SUDO - X - - - - - - - - S
+               CHOWN - X - - - - - - - - -
+             METANIL - O - - - - - - - - -
+          /MONTPOINT - X - - - - - - - - -
+/SOME/DIRECTORIES/MOUNTPOINT - X - - - - - - - - -
+          MOUNTPOINT - - - X - S - - - - -
+             WHENYOU - - - O - - - - - - -
+               FSTAB - - - - X X - - - - -
+                ROOT - - - - - S - - - - -
+                 DEV - - - - - X - - - - -
+            PARTITON - - - - - X - - - - -
+                LINE - - - - - X - - - - O
+        /MEDIA/SHARE - - - - - - - - - X -
+                 YES - - - - - - - - - X -
+             DEFAULT - - - - - - - - - - X
+             COMMENT - - - - - - - - - - X
+                 ONE - - - - - - - - - - X

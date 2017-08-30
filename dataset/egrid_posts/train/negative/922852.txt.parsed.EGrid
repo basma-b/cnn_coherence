@@ -1,0 +1,18 @@
+                HELP X - - - - -
+               ARRAY - X - - - -
+              KERNEL - X O - - -
+             APT-GET - - S O - -
+LINUX-IMAGE-VERSION-ARCH - - S - - -
+                THIS - - O - - -
+                  CD - - X - - -
+              NORMAL - - - O - -
+                PART - - - O - -
+               DRIVE - - - X - -
+               ERROR - - - - X -
+                   > - - - - - S
+                HTTP - - - - - O
+               ENTRY - - - - - X
+MAIN/BINARY-AMD64/PACKAGES - - - - - O
+          META-INDEX - - - - - X
+                FILE - - - - - X
+             RELEASE - - - - - S

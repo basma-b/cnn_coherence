@@ -1,0 +1,9 @@
+                  .. O - X - - - - -
+               /BOOT X - - - - - - -
+              E2FSCK - O - - - - - -
+           PARTITION - - X - - - - -
+                BOOT - - - - X - - -
+            RECOVERY - - - - X X - -
+                MODE - - - - X X - -
+              SERVER - - - - - - X -
+                HOST - - - - - - S -

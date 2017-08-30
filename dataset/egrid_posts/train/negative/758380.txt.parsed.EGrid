@@ -1,0 +1,17 @@
+                 ONE X - - - - -
+      AUTHENTICATION X O - - - -
+        MOD_AUTH_PAM S - - - - -
+          FREERADIUS - X - - - -
+           INTERFACE - S - - - -
+              REASON - X - - - -
+                 WAY - X - - - -
+           PASSWORDS - O - - - -
+                NEED - O - - - -
+             MODULES - X - - - -
+                THAT - - S - - -
+              PACKET - - X - - -
+                MOVE - - O - - -
+              TRAFIC - - - - O -
+           WIRESHARK - - - - X -
+                  .. - - - - - S
+              DRIVER - - - - - X

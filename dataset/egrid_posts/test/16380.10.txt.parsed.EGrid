@@ -1,0 +1,63 @@
+                CODE X - - - - - - - - - - - - O X - -
+                THAT - S - - - - S - - - - - - - - - -
+              SCHEMA - S - - - - - - - - - - - - O - -
+               ISSUE - O - - - - - - - - - - - - - - -
+               VALUE - O - - - - - - - - - - - - - - -
+              OBJECT - X - - - - - - - - - - - - - - -
+                   < - X - - - - - - - - - - - - - - -
+        GLIB.VARIANT - X - - - - - - - - - - - - - - -
+               -LSB- - X X - - - - - - - X - - - - - -
+               -RSB- - X X - - - - - - - X - - O - - -
+                   > - X - - - - - - - - - - - - - - -
+                LIST - - X X - - - X - X O - X - - - -
+              SEARCH - - - O - - - - - - - - - - - - -
+               THING - - - X - - - - - - - - - - - - -
+GVARIABLE.GET_BOOLEAN - - - X - - - - - - - - - - - - -
+GIO.SETTINGS.GET_STRV - - - - - X - - - - - - - - - - -
+           SOMETHING - - - - - X - - - - - - - - - - -
+              STRING - - - - - - - X - - - - - - - - -
+              THANKS - - - - - - - X - - - - - - - - -
+            GVARIANT - - - - - - - - X - - - - - - - -
+            FUNCTION - - - - - - - - O - - - - - - - -
+            VARIANTS - - - - - - - - - O X - - - - - -
+             EXAMPLE - - - - - - - - - O - - - - - - -
+//PASTE.UBUNTU.COM/1354038/ - - - - - - - - - S - - - - - - -
+   GVARIANT.GET_STRV - - - - - - - - - S - - - - - - -
+               TUPLE - - - - - - - - - O - - - - - - -
+                 YES - - - - - - - - - - X - - - - - -
+                  1L - - - - - - - - - - X - - - - - -
+        GIO.SETTINGS - - - - - - - - - - X - - - - - -
+               POINT - - - - - - - - - - S - - - - - -
+           GSETTINGS - - - - - - - - - - O - - S O - -
+                HELP - - - - - - - - - - - O - - - - -
+                 KEY - - - - - - - - - - - - X - O - -
+                THIS - - - - - - - - - - - - X - O - X
+              PERIOD - - - - - - - - - - - - X - - - -
+             PROGRAM - - - - - - - - - - - - S - - - -
+                TIME - - - - - - - - - - - - - X - - -
+                 THE - - - - - - - - - - - - - S - - -
+                HTTP - - - - - - - - - - - - - X X - -
+//PASTE.UBUNTU.COM/1354074/ - - - - - - - - - - - - - X - - -
+              OUTPUT - - - - - - - - - - - - - O - - -
+               DCONF - - - - - - - - - - - - - X - - -
+            TERMINAL - - - - - - - - - - - - - X - - -
+COM.CANONICAL.UNITY.PANEL - - - - - - - - - - - - - - X - -
+                 USE - - - - - - - - - - - - - - O - -
+                WORK - - - - - - - - - - - - - - S - -
+                NOTE - - - - - - - - - - - - - - X - -
+                 ONE - - - - - - - - - - - - - - O - -
+        DCONF-EDITOR - - - - - - - - - - - - - - S - -
+       CONFIGURATION - - - - - - - - - - - - - - O - -
+ DESKTOP.UNITY.PANEL - - - - - - - - - - - - - - S - -
+ COM.CANONICAL.PANEL - - - - - - - - - - - - - - X - -
+             SCHEMAS - - - - - - - - - - - - - - S - -
+                NAME - - - - - - - - - - - - - - O - -
+                PATH - - - - - - - - - - - - - - X - -
+               12.10 - - - - - - - - - - - - - - X - -
+            VERSIONS - - - - - - - - - - - - - - S - -
+             COMMAND - - - - - - - - - - - - - - X - -
+          DIFFERENCE - - - - - - - - - - - - - - O - -
+           INTERFACE - - - - - - - - - - - - - - S - -
+             VERSION - - - - - - - - - - - - - - S - -
+               12.04 - - - - - - - - - - - - - - - X -
+              VMWARE - - - - - - - - - - - - - - - - S

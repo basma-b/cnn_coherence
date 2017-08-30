@@ -1,0 +1,13 @@
+          DH_TESTDIR X - - -
+             COMMAND S - - -
+               ERROR X - - -
+                 ENY X - - -
+                HELP X - - -
+                 ONE - X - -
+             PACKAGE - X - -
+              SCRIPT - O - -
+          FILESEARCH - - O -
+ PACKAGES.UBUNTU.COM - - X -
+           DEBHELPER - - O -
+                 USE - - - X
+                 KDE - - - X

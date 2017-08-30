@@ -1,0 +1,18 @@
+             COMMAND X - - - - - - -
+              SERVER X - X - - - - -
+                NAME X - - - - - - O
+           SOMETHING - O - - - - X -
+                 WEB - - X - - - - -
+              NAGIOS - - O - - - - -
+                STEP - - X - - - - -
+                USER - - O - - - - -
+                TYPE - - X - - - - -
+                GREP - - S - - - - -
+               ^USER - - X - - - - -
+/ETC/HTTPD/CONF/HTTPD.CONF - - X - - - - -
+                  .. - - X - - - - -
+                THAT - - - X - - - S
+          DIFFERENCE - - - X - - - -
+               ROGER - - - - - X - -
+                HTTP - - - - - - X -
+               GROUP - - - - - - X -

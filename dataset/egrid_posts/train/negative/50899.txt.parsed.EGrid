@@ -1,0 +1,26 @@
+              ANYONE S - - - - - - - -
+                 BOX X - - - - - - - -
+                  IP X - - - - - - - -
+                SSHD - - - S - - - - -
+                ETH0 - - - X - - - - -
+             DEVICES - - - X - - - - -
+                ETHX - - - - X - - - -
+                LOOK - - - - - S - - -
+     /VAR/LOG/SYSLOG - - - - - X - - -
+   /VAR/LOG/MESSAGES - - - - - O - - -
+                 LOG - - - - - X - - -
+         EXPLANATION - - - - - X - - -
+/ETC/SSH/SSHD_CONFIG - - - - - O - - -
+              BACKUP - - - - - O - - -
+                FILE - - - - - X - - -
+              CHANGE - - - - - O - - -
+            REWRITER - - - - - - X - -
+                  NO - - - - - - X - -
+            PROBLEMS - - - - - - S - -
+                 CDS - - - - - - X - -
+                DVDS - - - - - - O - -
+              UBUNTU - - - - - - - S -
+               DRIVE - - - - - - - O -
+                WORK - - - - - - - - X
+             PROBLEM - - - - - - - - X
+             WINDOWS - - - - - - - - X

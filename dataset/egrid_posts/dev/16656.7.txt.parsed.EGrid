@@ -1,0 +1,21 @@
+            EVERYONE X - - - -
+                NICS O - - - -
+               ROUTE S X X - -
+             TRAFFIC O - - - -
+          INTERFACES X S - - -
+                 ONE X - - - -
+             ANOTHER X - - - -
+                TYPE O - - - -
+              THINGS X - - - -
+                ROUT X - - - -
+               TABLE X - - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD O - - - -
+             ENTRIES X - - - -
+             DEFAULT X - - - -
+                 NAT - S - - -
+              BRIDGE - O X - -
+               LAYER - X - - -
+           INTERFACE - S - - -
+              SWITCH - X - - -
+                 TAG - - O - -
+                 PPA - - - - O

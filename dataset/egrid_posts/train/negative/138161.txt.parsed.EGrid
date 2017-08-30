@@ -1,0 +1,13 @@
+                NTFS X - -
+             DEFAULT X - -
+               FAT32 S S -
+         PERMISSIONS O - -
+               OWNER X - -
+                ROOT O - -
+          /ETC/FSTAB - X -
+             EXAMPLE - X -
+                /USM - X -
+                VFAT - X -
+                  RW - X -
+                AUTO - O -
+                   X - - S

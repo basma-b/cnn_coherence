@@ -1,0 +1,11 @@
+                FORM X - - X - - - -
+              VOLUME O - - O - - - -
+                 LVM X - - X - - - -
+               FSTAB X - - X - - - -
+/DEV/MAPPER/VGNAME-LVNAME X - - X - - - -
+  /DEV/VGNAME/LVNAME X - - X - - - -
+                 WAY - - - - - - S -
+                SAME - - - - - - O -
+                PREF - - - - - - S -
+           DIFFERENT - - - - - - O -
+                 2ND - - - - - - - O

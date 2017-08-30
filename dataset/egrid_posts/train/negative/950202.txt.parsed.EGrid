@@ -1,0 +1,7 @@
+                PERM - S - - - -
+             DEFAULT - X - - - -
+               UMASK - X - - - -
+                 G+S - O - - - -
+           DIRECTORY - X - - - -
+                THAT - - X - - -
+                FILE - - - O - -

@@ -1,0 +1,19 @@
+              ANYONE X - - -
+          VIRTUALBOX X X - -
+             BACKUPS X - - -
+              BACKUP - X - -
+                DISK - O - -
+                 VDI - - X X
+                FILE - - O -
+             COMMAND - - O X
+    INTERNALCOMMANDS - - S -
+                   < - - X -
+     VIRTUALDISK.VDI - - X -
+                   > - - X -
+~/.VIRTUALBOX/MACHINES - - X -
+           DIRECTORY - - O -
+                  OS - - X -
+            HARDWARE - - O -
+               VALUE - - X -
+                COPY - - - X
+                 UID - - - X

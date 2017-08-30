@@ -1,0 +1,11 @@
+           PARTITION X - - - -
+              ACCESS X - - - -
+               FSTAB X - - - -
+                THAT - X - - O
+           /DEV/WHAT - S - - -
+                VFAT - X - - -
+                  RW - O - - -
+               USERS - O - - -
+           SOMETHING - X - - -
+              WEBCAM - - - X -
+                   > - - - S -

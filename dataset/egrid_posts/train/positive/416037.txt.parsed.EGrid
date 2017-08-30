@@ -1,0 +1,27 @@
+                 UMM X - - -
+                BOOT X - - -
+                 LOG X - - -
+              KERNEL X - - -
+         INFORMATION O - - O
+               -LSB- S - - -
+               INPUT X - - -
+            HIDDEV96 X - - -
+                 USB X X - -
+                 HID X - - -
+               MOUSE X X - -
+                SEMI O - - -
+               -RSB- - X - -
+            WIRELESS - X - -
+            KEYBOARD - X - -
+             USBCORE - X - -
+            REGISTER - X - -
+           INTERFACE - X - -
+              DRIVER - X - -
+              USBHID - X - -
+/BUILD/BUILDD/LINUX-SOURCE-2.6.22-2.6.22/DRIVERS/HID/USBHID/HID-CORE.C - X - -
+                V2.6 - X - -
+                CORE - X - -
+               PASTE - - - X
+                   | - - - X
+                MIK1 - - - S
+             CHANNEL - - - O

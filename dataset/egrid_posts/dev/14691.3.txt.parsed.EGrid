@@ -1,0 +1,14 @@
+/ETC/APT/SOURCES.LIST O -
+                   $ - O
+                THIS - O
+                   | - X
+                GREP - X
+                 CUT - X
+                  -D - X
+                SORT - X
+                UNIQ - X
+              OUTPUT - X
+                SSET - O
+           /DEV/NULL - O
+               STORE - X
+          EVERYTHING - O

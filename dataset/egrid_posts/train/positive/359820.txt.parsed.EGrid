@@ -1,0 +1,21 @@
+              CODECS X - - - - - - - - -
+             ILLEGAL - X - - - - - - - -
+               THERE - - X - - - - - - -
+                 WAY - - X - - - - - - -
+UBUNTU-RESTRICTED-EXTRAS - - - X - - - - - -
+              THINGS - - - X - - - - - -
+                HTTP - - - O - - - X - -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_PACKAGES.PL - - - S - - - - - -
+      SEARCHON=NAMES - - - - X - - - - -
+           SUBWORD=1 - - - - X - - - - -
+       VERSION=GUTSY - - - - X - - - - -
+         RELEASE=ALL - - - - X - - - - -
+    KEYWORDS=PRIVOXY - - - - X - - - - -
+             PACKAGE - - - - - O - - - -
+//PACKAGES.UBUNTU.COM/GUTSY/WEB/PRIVOXY - - - - - - - X - -
+            SYNAPTIC - - - - - - - X - -
+                SUDO - - - - - - - X - -
+             APT-GET - - - - - - - X - -
+             PRIVOXY - - - - - - - X - -
+          CATEGORIES - - - - - - - X - -
+              EITHER - - - - - - - - - X

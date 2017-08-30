@@ -1,0 +1,9 @@
+          FILESYSTEM X - - - - - - -
+              FLOPPY X - - - - - - -
+            FAT12/16 - X - - - - - -
+           SOMETHING - - X - - - - -
+          MOUNTPOINT - - - - O - - -
+               DMESG - - - - - O - -
+                  .. - - - - - - X -
+                BITE - - - - - - - X
+                WORK - - - - - - - X

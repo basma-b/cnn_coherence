@@ -1,0 +1,15 @@
+              ACCESS O - - - - - -
+                ROOT X - - - S X -
+          PERMISSION - S - - - - -
+               WHATS - - - O - - -
+                FILE - - - X - - -
+                 THR - - - - X - -
+           DIRECTORY - - - - O O -
+                USER - - - - - X -
+               ERROR - - - - - O -
+                  CD - - - - - X -
+               /ROOT - - - - - O -
+             CONTENT - - - - - X -
+                 USE - - - - - O -
+                SUDO - - - - - X -
+                  LS - - - - - X -

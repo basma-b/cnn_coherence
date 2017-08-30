@@ -1,0 +1,16 @@
+             MACHINE S - - - - - - - - -
+                FSCK - S - - - - - - - -
+                SCAN - O - - - - - - - -
+                ROOT - X - - - X - - - -
+            PASSWORD - X O - - X - - - -
+                SUDO - - O - - - - - X -
+                THAT - - - - S - - - - -
+             DEFAULT - - - - - X - - - -
+               THERE - - - - - S - - - -
+          HYPHENATER - - - - - O - - - -
+                BASH - - - - - - - - S -
+              PASSWD - - - - - - - - O -
+                BOOT - - - - - - - - - X
+              RESCUE - - - - - - - - - X
+                  CD - - - - - - - - - X
+                KIND - - - - - - - - - X

@@ -1,0 +1,7 @@
+     SHELL=/BIN/BASH S -
+         YOURCOMMAND X -
+               CHECK S -
+              LOCALE X -
+               MUSIC - X
+              PLAYER - X
+               ISSUE - O

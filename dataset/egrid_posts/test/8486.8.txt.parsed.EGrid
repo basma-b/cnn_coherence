@@ -1,0 +1,14 @@
+              RFKILL X - -
+                 ALL S - -
+              OUTPUT - X -
+               LSMOD - X -
+               |GREP - X -
+                 WMI - O -
+               DEV__ - - S
+                CTRL - - X
+                 ALT - - X
+                  F1 - - X
+                  F2 - - S
+                SIZE - - X
+                 RAM - - X
+                NEED - - X

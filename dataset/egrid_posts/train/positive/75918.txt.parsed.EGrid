@@ -1,0 +1,10 @@
+                MAKE O X - - -
+              OUTPUT O - - - -
+               START O - - - -
+                THIS X - - - -
+                   > - S - - -
+                THAT - - S - -
+            TEXTFILE - - X - -
+-I/USR/SHARE/QT3/MKSPECS/DEFAULT - - X - -
+                  -I - - O - -
+    RACONFIGFORM.CPP - - - - X

@@ -1,0 +1,9 @@
+                 RAM O - - -
+                SWAP X - O -
+           PARTITION X - - -
+               TMPFS - O - -
+                 OKE - O - -
+               256MB - - X -
+               LINUX - - - X
+                BOOT - - - X
+             METHODS - - - X

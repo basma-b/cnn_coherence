@@ -1,0 +1,33 @@
+               HTTPS X X - - - -
+                   % X - - - - -
+       2BARCHIVE/PPA X - - - - -
+              KARMIC X O - - - -
+                   W - X - X - X
+                 GPG - X - X - -
+               ERROR - X - X - -
+                HTTP - X - X - O
+             RELEASE - X - X - -
+          SIGNATURES - S - S - -
+                 KEY - S - S - -
+           NO_PUBKEY - X - X - -
+//LAUNCHPAD.NET/~GUIDO-IODICE/+ARCHIVE/ABIWORD-2.8/ - X - - - -
+                 USE - X - - - -
+                SUDO - X - - X -
+  ADD-APT-REPOSITORY - X - - - -
+                   < - X - - - -
+                 PPA - X - - X -
+                NAME - X - - - -
+                   > - O - - - -
+        INSTRUCTIONS - O - - - -
+//ABISOURCE.COM/WIKI/INSTALL_ON_UBUNTU - X - - - -
+COMMAND_LINE_INSTRUCTIONS - X - - - -
+                LINE - O - - - -
+                ROOT - - X - - -
+                 THE - - - S - -
+            SURPRISE - - - O - -
+             MESSAGE - - - X - -
+GUIDO-IODICE/ABIWORD-2.8 - - - - X -
+             APT-GET - - - - X -
+              UPDATE - - - - X X
+             UPGRADE - - - - X -
+                 END - - - - - X

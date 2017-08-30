@@ -1,0 +1,37 @@
+         ./CONFIGURE O - - - - - - X - -
+     PREFIX=WHATEVER X - - - - - - - - -
+      UNINSTALLATION - S - - - - - - - -
+             PACKAGE - X X - - - - - - -
+                SUDO - X - - - - - - - -
+           UNINSTALL - O - - - - - - X -
+/USR/LOCAL/CLASSPATH/LIB/CLASSPATH - X - - - - - - - -
+                  || - X - - - - - - - -
+               MKDIR - X - - - - - - - -
+                  -P - O - - - - - - - -
+             VERSION - O - - - - - - - -
+           CLASSPATH - X - - S - - - O O
+         ENVIRONMENT - O - - - - - - - -
+              CHROOT - - S - - - - - - -
+           DIRECTORY - - X - - - - - - -
+                ROOT - - X - - - - - - -
+                   / - - X - - - - - - -
+        INSTALLATION - - O - - - - - - -
+               LINUX - - X - - - - - - -
+                 SET - - O X - - - - - -
+               HTTPS - - O - - - - - - -
+            VERSIONS - - X - - - - - - -
+              UBUNTU - - - X - - - - - -
+              PREFIX - - - S X X - S O O
+                PATH - - - S - - - - - -
+              OPTION - - - O - - - - - -
+                 ALL - - - - X - - - - -
+                MORE - - - - - - O - - -
+PREFIX=/PATH/TO/WHATEVER - - - - - - X - - -
+             OPTIONS - - - - - - O - - -
+            LOCATION - - - - - - - - X -
+              TARGET - - - - - - - - X -
+             DEFAULT - - - - - - - - X -
+                  .. - - - - - - - - - X
+              THANKS - - - - - - - - - X
+               THERE - - - - - - - - - S
+            VARIABLE - - - - - - - - - O

@@ -1,0 +1,7 @@
+             PACKAGE O -
+               GDEBI S -
+        DEPENDENCIES S X
+              FOLDER X -
+               PLACE X -
+                DPKG O X
+            TERMINAL X -

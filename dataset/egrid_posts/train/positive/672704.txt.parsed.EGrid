@@ -1,0 +1,17 @@
+                SUDO X - - - - -
+   ./IMAGE_TO_USB.SH X - - - - -
+FROM=~/CHROMIUMOS/SRC/BUILD/IMAGES/SUBDIR X - - - - -
+   TO=/DEV/USBKEYDEV O - - - - -
+               ERROR O - - - - -
+             COMMAND S - - - - -
+                THAT - X - - - -
+     IMAGE_TO_USB.SH - S - X - -
+                WORK - X X O - -
+           DIRECTORY - X X - - O
+                FILE - - S - - S
+                  LS - - X - - S
+                SHOW - - X - - -
+                   ' - - - S - -
+                 YEP - - - S - -
+                   | - - - - X -
+        NATIVEANGELS - - - - O -

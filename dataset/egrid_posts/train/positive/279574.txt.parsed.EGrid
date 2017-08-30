@@ -1,0 +1,13 @@
+                NTFS - S -
+             JACK313 - S -
+              LIVECD - S -
+             COMMAND - X -
+                LINE - O -
+             GPARTED - S -
+              ERRORS - X -
+              CHKDSK - X -
+                  /F - O -
+              DEFRAG - O -
+                 RUN - - S
+              UMOUNT - - X
+         /MEDIA/SDA1 - - X

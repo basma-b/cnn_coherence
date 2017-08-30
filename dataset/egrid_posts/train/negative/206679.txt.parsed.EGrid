@@ -1,0 +1,17 @@
+              CONFIG X O - -
+                FILE S - - -
+              CHOICE O - - -
+             RAMDISK O - - -
+                BOOT X - - -
+              THINGS - O - -
+              KERNEL - S - -
+               IMAGE - X - -
+             MODULES - X - -
+                 ONE - O - -
+              REASON - X - -
+              CUSTOM - X - -
+       FUNCTIONALITY - - - O
+                CROP - - - X
+             PROGRAM - - - O
+           IRFANVIEW - - - S
+              METHOD - - - O

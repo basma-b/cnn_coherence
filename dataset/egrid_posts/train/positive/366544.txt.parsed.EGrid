@@ -1,0 +1,8 @@
+             GPARTED O - -
+           PARTITION X - -
+                  .. O - X
+              DEVISE X - -
+           RESIZE2FS - O -
+             COMMAND - - X
+                LINE - - X
+                KIND - - X

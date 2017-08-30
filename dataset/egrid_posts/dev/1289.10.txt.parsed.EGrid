@@ -1,0 +1,17 @@
+                FILE O - - -
+/USR/LIB/XORG.CONF.D/ X - - -
+                 DIR - S - -
+             DEFAULT - X - -
+              UBUNTU - X - -
+              SCREEN - - S -
+                LOOK - - X -
+              KERNEL - - X X
+                LOAD - - X -
+             MESSAGE - - X -
+               PANIC - - - S
+            ANYTHING - - - S
+                THIS - - - X
+                BOOT - - - O
+              OPTION - - - X
+             INSTALL - - - X
+                   E - - - X

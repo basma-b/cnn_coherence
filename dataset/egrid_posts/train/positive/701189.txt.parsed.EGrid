@@ -1,0 +1,17 @@
+           NTFSPROGS O - - - -
+              NTFSCK O - - - -
+                ISNT S - - - -
+             PACKAGE X - - - -
+                HTTP X - - - -
+//WWW.LINUX-NTFS.ORG/DOKU.PHP X - - - -
+           ID=NTFSCK - S - - -
+             MACHINE - S - X S
+       SCSI/IDE/SATA - X - - -
+                DISK - - - O -
+                 USE - - - X -
+           SOMETHING - - - O -
+               SAMBA - - - X -
+                 NFS - - - X -
+             NETWORK - - - - X
+                  .. - - - - X
+            QUESTION - - - - O

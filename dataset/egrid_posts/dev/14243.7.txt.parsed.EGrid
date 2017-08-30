@@ -1,0 +1,15 @@
+         LSPCI/LSUSB X - - - - - -
+        MANUFACTURER - S - - - - -
+                CHIP - O - - - - -
+                 USE - X - - - - -
+           ALSAMIXER - X S - - - -
+                CARD - X - - - - -
+               AUDIO - X O - - - -
+             CHANNEL - O - - - - -
+              DEVICE - O - - - - -
+                 USB - - X - - - -
+            SOFTWARE - - X - - - -
+                HELP - - - - X - -
+  APT-ADD-REPOSITORY - - - - X - -
+                 SSH - - - - - S -
+                 IVE - - - - - - S

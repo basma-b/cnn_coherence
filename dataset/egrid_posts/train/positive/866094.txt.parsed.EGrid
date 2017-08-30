@@ -1,0 +1,14 @@
+                SUDO X - - X - -
+                 UFW S - - S - -
+               |ODLA - S - - - -
+            PROTOCOL - X - X - -
+       DOCUMENTATION - - S - - -
+             123/TCP - - - S - -
+             FROM/TO - - - O - -
+              ACTION - - - O - -
+                   > - - - X - -
+                PORT - - - X - O
+                POST - - - - S -
+                 USE - - - - - O
+                   U - - - - - X
+             ADDRESS - - - - - X

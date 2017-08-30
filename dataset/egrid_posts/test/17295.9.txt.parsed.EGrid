@@ -1,0 +1,19 @@
+                  IP - O - - -
+          EVERYTHING - O - - -
+                 DNS - S - - -
+          RESOLUTION - X - - -
+                 RUN - - X - -
+          NAMESERVER - - O - -
+                SUDO - - X - -
+                 TEE - - S - -
+/ETC/RESOLVCONF/RESOLV.CONF.D/BASE - - X - -
+                   > - - S - -
+           /DEV/NULL - - S - -
+             APT-GET - - X - -
+              UPDATE - - O - -
+                 IPS - - X - -
+                 PCS - - O - -
+                NAME - - X - -
+              ROUTER - - O - -
+         192.168.0.1 - - S - -
+                HEHE - - - - X

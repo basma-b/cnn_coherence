@@ -1,0 +1,10 @@
+         PERMISSIONS O - - -
+            /VAR/WWW X - - -
+           OWNERSHIP X - - -
+                ROOT - O O -
+                FILE - O O -
+             WEBSITE - X - -
+           DIRECTORY - - X -
+                TYPE - - - X
+                 BOX - - - O
+              UBUNTU - - - X

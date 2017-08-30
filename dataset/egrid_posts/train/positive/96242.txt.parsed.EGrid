@@ -1,0 +1,10 @@
+             COMMAND X - - -
+              SYSLOG O - - -
+                TAIL - X - -
+               INPUT - X - -
+   /VAR/LOG/MESSAGES - S - -
+                 LOG - O - -
+               TRIAL - - X -
+              OUTPUT - - - X
+                FILE - - - O
+              CTRL-C - - - X

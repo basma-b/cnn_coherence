@@ -1,0 +1,12 @@
+              FILTER X - - - - - - -
+           EVOLUTION X - - - - - - -
+             MESSAGE - O - - - - - -
+        SPAMASSASSIN - O - - - - - -
+                THAT - - X - - - - -
+/ETC/DEFAULT/SPAMASSASSIN - - - X - - - -
+           ENABLED=1 - - - O - - - -
+                SUDO - - - X - - - -
+/ETC/INIT.D/SPAMASSASSIN - - - S - - - -
+              EXPORT - - - - - - X -
+               XTERM - - - - - - O -
+                TEST - - - - - - - X

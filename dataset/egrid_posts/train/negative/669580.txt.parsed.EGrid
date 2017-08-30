@@ -1,0 +1,16 @@
+                TIME S - -
+               GRUB2 X - -
+                  OS O - -
+                BOOT X - -
+             PACKAGE X - -
+      STARTUPMANAGER O - -
+            POSSIBLE S - -
+            INTERNET - X -
+                GRUB - X -
+            MENU.LST - O -
+                 ALL - - S
+            FIRMWARE - - X
+              DRIVER - - X
+     BUILD-ESSENTIAL - - X
+                CUPS - - X
+        FOOMATIC-BIN - - O

@@ -1,0 +1,24 @@
+                9.10 X - - - - - - - - - -
+            MENU.LST O - - - - - - - - - -
+                GRUB X - - - - - - - - - -
+ /BOOT/GRUB/GRUB.CFG - - - O - - - X - - -
+                WIKI - - - X - - - - - O -
+                PAGE - - - S - - - - - - -
+            OVERVIEW - - - S - - - - - - -
+              SEARCH - - - O - - - - - - -
+            QUESTION - - - X - - - - - - -
+                  .. - - - X - - - - - O -
+             XUBUNTU - - - O - - - - - - -
+          ENVIROMENT - - - X - - - - - - -
+             BOOT-UP - - - - O - - - - - -
+              SCHOWS - - - - - X - - - - -
+              THINGS - - - - - X - - - - -
+              BOOTUP - - - - - X - - - - -
+               STUFF - - - - - O - - - - -
+       SPLASH-SCREEN - - - - - - O - - - -
+              SPLASH - - - - - - X - - - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - - - - - X - - - -
+          CONFIGFILE - - - - - - X - - - -
+              SCREEN - - - - - - - - - - S
+                SHOW - - - - - - - - - - S
+         INFORMATION - - - - - - - - - - S

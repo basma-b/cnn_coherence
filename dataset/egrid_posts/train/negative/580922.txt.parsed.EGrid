@@ -1,0 +1,23 @@
+               CHECK X - - - - - - - - - -
+   LIBFLASHPLAYER.SO S - - - - - - - - - -
+/USR/LIB/FIREFOX/PLUGINS X - - X - - - - - - -
+             PROBLEM O - - - - - - - - - -
+              PLUGIN - S - - - - - - - - -
+                LOAD - - - X - - - - - - -
+              MODULE - - - O - - - - - - -
+             YOUTUBE - - - O - - - - - - -
+              VIDEOS - - - X - - - - - - -
+FLASHPLUGIN-ALTERNATIVE.SO - - - - X - - - - - -
+             SYMLINK - - - - O - - - - - -
+/ETC/ALTERNATIVES/FIREFOX-FLASHPLUGIN - - - - X - - - - - -
+              INSTAL - - - - O - - - - - -
+             BROWSER - - - - X - - - - - -
+             PLUGINS - - - - X - - - - - -
+         ISSUES.ALSO - - - - X - - - - - -
+               FLASH - - - - X - - - - - -
+              PLAYER - - - - X - - - - - -
+                .DEB - - - - S - - - - - -
+             VERSION - - - - O O - - - - -
+              SECOND - - - - X - - - - - -
+               GNASH - - - - - - S - - - -
+                IDEA - - - - - - - - - - O

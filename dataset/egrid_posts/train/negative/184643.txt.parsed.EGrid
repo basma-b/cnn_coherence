@@ -1,0 +1,16 @@
+               UMASK S - - - -
+                ROOT X - X - -
+               SHARE X - - - -
+                 DIR X X X - -
+         PERMISSIONS O X - - -
+                FILE X - - O -
+             DEFAULT - X - - -
+                USER - X - - -
+          OTHERGROUP - X - - -
+                BITE - - O - -
+               GROUP - - - X -
+           DIRECTORY - - - X -
+                SGID - - - O -
+                 TOT - - - S -
+                 FIX - - - - X
+               HOARY - - - - X

@@ -1,0 +1,17 @@
+                FILE - O - X - - - - -
+              FORMAT - X - - - - - - -
+             DESKTOP - X X - - - - - -
+              LAPTOP - - X - - - - - -
+             SSH/SCP - - X - - - - - -
+               SPACE - - - X - - - - -
+          UNCOMPRESS - - - O - - - - -
+            TRANSFER - - - - X - - - -
+                WORK - - - - S - - - -
+                THAT - - - - - O - - -
+                 ATM - - - - - - S - -
+                CODE - - - - - - O - -
+                 TAR - - - - - - S - -
+               STDIN - - - - - - X - -
+                PIPE - - - - - - - O -
+                   | - - - - - - - - X
+                   > - - - - - - - - O

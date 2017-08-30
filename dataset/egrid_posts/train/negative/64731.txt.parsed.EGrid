@@ -1,0 +1,33 @@
+            USBMOUNT O - O - - - - - - - - - - - -
+               THING - O - - - - - - - - - - - - -
+                SUDO - - X - - - - - - - - - - - -
+            APTITUDE - - S - - - - - - - - - - - -
+                WORK - - X - - - - - - - - - - - -
+                AUTO - - X - - - - - - - - - - - -
+              DEAMON - - X - - - - - - - - - - - -
+             HOTPLUG - - X - - - - - - - - - - - -
+                UDEV - - X - - - - - - - - - - - -
+            UNIVERSE - - - X S - - - - - - - - - -
+                 LEM - - - - S - - - - - - - - - -
+/ETC/APT/SOURCES.LST - - - - X - - - - - - - - - -
+              SEARCH - - - - - X - - - - - - - - -
+                 USB - - - - - O - - - - - - - - -
+                LIST - - - - - X - - - - - - - - -
+                APPS - - - - - X - - - - - - - - -
+                THAT - - - - - - - X X - S - - - -
+          REPOSITORY - - - - - - - X - - - - - - -
+              USBMGR - - - - - - - - X - - - - - -
+                 PLZ - - - - - - - - S - - - - - -
+              DAEMON - - - - - - - - X - - - - - -
+GNOME-VOLUME-MANAGER - - - - - - - - O - - - - - -
+         DESCRIPTION - - - - - - - - - S - - - - -
+             WARNING - - - - - - - - - - - X - - -
+                THIS - - - - - - - - - - - S - - -
+                SORT - - - - - - - - - - - O - - -
+                LIBS - - - - - - - - - - - X - - -
+                HTTP - - - - - - - - - - - - O - -
+               TWEAK - - - - - - - - - - - - O - -
+                  1| - - - - - - - - - - - - - - X
+                GREP - - - - - - - - - - - - - - X
+                  -W - - - - - - - - - - - - - - X
+            QCREATOR - - - - - - - - - - - - - - X

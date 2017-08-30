@@ -1,0 +1,16 @@
+             OPTIONS X - X
+       POSSIBILITIES O - -
+           XBINDKEYS X - -
+              ACTION X - -
+               GNOME X - -
+          PRODUCTION - - X
+             MACHINE - - S
+               PLACE - - X
+              DEVICE - - O
+                BOOT - - X
+           PARTITION - - X
+                  .. - - O
+            /DEV/SDA - - O
+                DISK - - X
+                   / - - X
+                SHUD - - O

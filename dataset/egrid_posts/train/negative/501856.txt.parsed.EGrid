@@ -1,0 +1,13 @@
+             TRAFFIC X - - - - -
+               SHAPE X - - - - -
+              KERNEL X O X - - -
+                 HTB - X - - - -
+              DSMARK - S - - - -
+             SUPPORT - O - - - -
+                GREP - - S - - -
+       /BOOT/CONFIG- - - - X - -
+                   * - - - X - -
+                HASH - - - - S -
+        CRYPTOGRAPHY - - - - X -
+           PROCESSOR - - - - X -
+                LOAD - - - - - O

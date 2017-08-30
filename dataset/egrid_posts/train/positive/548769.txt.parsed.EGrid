@@ -1,0 +1,25 @@
+                TIME - X - - -
+                  -F - S - - -
+        XULRUNNER1.9 - S - - -
+/VAR/LIB/DPKG/INFO/XULRUNNER-1.9.POSTINST - O - - -
+/USR/BIN/XULRUNNER-1.9 - X - - -
+                DPKG - S - - -
+               ERROR - X - - -
+             PROCESS - S - - -
+       XULRUNNER-1.9 - X - - -
+              UPDATE - O - - -
+        REPOSITORIES - O - - -
+                REPO - S - - -
+         RECONFIGURE - X - - -
+               THING - O - - -
+             VERSION - X - - -
+                THAT - - X - -
+                 8.1 - - X - -
+             NETBOOK - - X - -
+                 ISO - - O - -
+              BINARY - - O - -
+                FILE - - X - -
+             USR/BIN - - X - -
+             PACKAGE - - X - -
+                AINT - - - - X
+              SIMPLE - - - - O

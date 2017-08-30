@@ -1,0 +1,21 @@
+              UBUNTU O - - - - - - - - -
+              LAPTOP X - - - - - - - - -
+                ASUS X - - - - - - - - -
+               M70SA X - - - - - - - - -
+              SCREEN S - - - - - - - - -
+               POWER - X - - - - - - - -
+          MANAGEMENT - X - - - - - - - -
+             OPTIONS - S - - - - - - - -
+              EFFECT - O - - - - - - - -
+/SYS/CLASS/ACPI_VIDEO0/BRIGHTNESS - - O - - - - - - -
+             COMMAND - - - O - - - - - -
+/SYS/DEVICES/PLATFORM/ASUS-LAPTOP/LS_SWITCH - - - O - - - - - -
+                ROOT - - - S - - - - - -
+               THERE - - - - S - - - - -
+           FRONT-END - - - - O - - - - -
+              SWITCH - - - - X - - - - -
+              ON/OFF - - - - X - - - - -
+              SENSOR - - - - X - - - - -
+                BOOT - - - - - - X - - -
+                THAT - - - - - - - - X -
+                   | - - - - - - - - - X

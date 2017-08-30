@@ -1,0 +1,15 @@
+                 GUY X - - - - - -
+         LINUX-IMAGE - O - - - - -
+         GENERIC-PAE - X - - - - -
+              KERNEL - O - X - - -
+               PATCH - X - X - - -
+ LINUX-SOURCE-2.6.38 - - O - - - -
+CONFIG-2.6.38-8-GENERIC-PAE - - O - - - -
+             .CONFIG - - X - - - -
+                 DIR - - X - - - -
+      KERNEL-PACKAGE - - X - - - -
+             PROBLEM - - - S - - -
+               PANIC - - - X - - -
+              ANYONE - - - - S - -
+        UBUNTU-DEVEL - - - - - O -
+                HTTP - - - - - - X

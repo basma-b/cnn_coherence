@@ -1,0 +1,16 @@
+            ETHERNET X - - - - -
+           INTERFACE X - - - O S
+                 MAC X - - - - O
+             ADDRESS X - - - - -
+                   + X - - - - -
+                  IP X - - - - O
+          INTERFACES S - - - - -
+              BRIDGE - X - - - -
+             POINTER - - X - - -
+               THAT/ - - X - - -
+   VIRTUALBOX/VMWARE - - - - X -
+             MACHINE - - - - X X
+                 TOP - - - - X -
+                HOST - - - - X X
+             PAKCETS - - - - - S
+                DHCP - - - - - X

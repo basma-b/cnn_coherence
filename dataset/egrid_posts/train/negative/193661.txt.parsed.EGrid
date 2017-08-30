@@ -1,0 +1,12 @@
+                EXT3 S - - -
+             JOURNAL X - - -
+ /PATH/TO/MOUNTPOINT O - - -
+          /ETC/HOSTS O - - -
+                 MAN - X - -
+               FSTAB - X - -
+                USER - O - -
+              OPTION - O - -
+           PARTITION - S - -
+                 WAT - - - X
+                   U - - - X
+                 RUN - - - X

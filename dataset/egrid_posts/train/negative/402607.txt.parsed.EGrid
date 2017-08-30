@@ -1,0 +1,23 @@
+                SWAP X - - - - -
+                   U - X S X - -
+                 USE - X - - - -
+                   % - - S - - -
+               THING - - S - - -
+              MEMORY - - O - - -
+                   K - - X - - -
+                 3GB - - O - - -
+                 RAM - - X - - -
+               THERE - - - S - -
+                SUDO - - - X - -
+             APT-GET - - - S - -
+     NSPLUGINWRAPPER - - - X - -
+            DOWNLOAD - - - X - -
+               FLASH - - - X - -
+              TAR.GZ - - - S - -
+                  -I - - - X - -
+/FULL/PATH/TO/LIBFLASHPLUGIN.SO - - - X - -
+             FIREFOX - - - O - -
+   RESTRICTED-EXTRAS - - - S - -
+            TERMINAL - - - S - -
+UBUNTU-RESTRICTED-EXTRAS - - - O - -
+        INSTALLATION - - - - - X

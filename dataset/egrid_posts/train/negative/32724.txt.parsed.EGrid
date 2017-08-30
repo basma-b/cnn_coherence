@@ -1,0 +1,33 @@
+        REPOSITORIES S - - - - - - - -
+                WIKI X - - - - - - - -
+             PACKAGE O - X - - - - - -
+           W32CODECS X - - - - - - - -
+            ACROREAD X - - - - - - - -
+                THAT - - S - - - - - -
+               -RSB- - - S - - - - - -
+             MPLAYER - - X - - - - - -
+                SITE - - X - - - - - -
+                LIST - - X - - - - - -
+              UPDATE - - X - - - - - -
+GNOME-SOFTWARE-PROPERTIES - - O - - - - - -
+                USER - - X - - - - - -
+              PYTHON - - - X - - - - -
+                 GUI - - - X - - - - -
+                 TOP - - - X - - - - -
+                BASH - - - X - - - - -
+GNOME-SOFWARE-PROPERTIES - - - X - - - - -
+              BUNDLE - - - O - - - - -
+      UPDATE-MANAGER - - - X - - - - -
+               WARTY - - - O - - X - -
+             UPGRADE - - - X - - - - -
+        SOURCES.LIST - - - - O - - - -
+              EDITOR - - - - - S - - -
+                SUDO - - - - - - X - -
+               HOARY - - - - - - X - -
+                 VIM - - - - - - X - -
+/ETC/APT/SOURCES.LIST - - - - - - X - -
+               EMACS - - - - - - S - -
+                EACH - - - - - - O - -
+               INDEX - - - - - - S - -
+              IGNORE - - - - - - O - -
+                ONES - - - - - - S - -

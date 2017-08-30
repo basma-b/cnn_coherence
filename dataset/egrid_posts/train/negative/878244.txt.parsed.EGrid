@@ -1,0 +1,13 @@
+               FDISK X - - - -
+                NONE S - - - -
+           PARTITION X - - S -
+                MARK O - - X -
+            BOOTABLE X - - - -
+                BOOT - X - - -
+               LINUX - - - X -
+                RAID - - - X -
+          AUTODETECT - - - X -
+                GRUB - - - X -
+               DOENS - - - X -
+                FLAG - - - O -
+              OUTPUT - - - - X

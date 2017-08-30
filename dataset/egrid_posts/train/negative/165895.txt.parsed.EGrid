@@ -1,0 +1,31 @@
+        SIOCSIFFLAGS X - - - - - - - - -
+                FILE X - - - - - - - - -
+              FOLDER S - - - - - - - - -
+             LINKSYS X - - - - - - - - -
+         NDISWRAPPER O - - - - - - - - -
+           INTERFACE O - - - - - - - - -
+                IDEA - S - - - - - - - -
+                CHIP - - X - O - - - - -
+              DRIVER - - - X - - - - - -
+              NATIVE - - - - X - - - - -
+             DRIVERS - - - - O - - - - -
+             BCM43XX - - - - - S - - - -
+              OUTPUT - - - - - O X - - -
+             COMMAND - - - - - X - - - -
+              SYSTEM - - - - - X - - - -
+                THAT - - - - - - X - - -
+/LIB/MODULES/2.6.15-25-386/KERNEL/DRIVERS/NET/WIRELESS/BCM43XX/BCM43XX.KO - - - - - - S - - -
+                 BCM - - - - - - X - - -
+                  PM - - - - - - X - - -
+                 YES - - - - - - - X - -
+           KENSENTME - - - - - - - X - -
+                HTTP - - - - - - - X - -
+//PASTE.UBUNTU-NL.ORG/16268 - - - - - - - X - -
+                MENU - - - - - - - - X -
+                GRUB - - - - - - - - - X
+                CANT - - - - - - - - - X
+            ANYTHING - - - - - - - - - O
+         INTALLATION - - - - - - - - - X
+                MESS - - - - - - - - - O
+              LOADER - - - - - - - - - X
+               ERROR - - - - - - - - - X

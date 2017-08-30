@@ -1,0 +1,25 @@
+                GRUB - X - - -
+                   | - X - - -
+            HAIRULFR - X - - -
+              UPDATE - - X X X
+             MANAGER - - S - -
+              SANITY - - X - -
+               CHECK - - X - -
+          DEPENDENCY - - X - -
+             PROBLEM - - X - -
+                 FOO - - O - -
+             UPGRADE - - O O -
+                 APT - - X - -
+               THERE - - S S -
+                 WAY - - O - -
+                 RUN - - X - -
+             PACKAGE - - - O -
+                CALL - - - X -
+ UPDATE-MANAGER-CORE - - - S -
+        INSTRUCTIONS - - - O -
+                STEP - - - X -
+               HTTPS - - - O -
+//HELP.UBUNTU.COM/COMMUNITY/FEISTYUPGRADESMANUAL - - - X -
+        DIST-UPGRADE - - - X X
+                SUDO - - - - X
+                 YES - - - - X

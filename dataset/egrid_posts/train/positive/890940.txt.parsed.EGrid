@@ -1,0 +1,9 @@
+           PARTITION S - - -
+               USERS X - - -
+           SOMETHING X - - -
+               FSTAB X - - -
+          PERMISSION X - - -
+         PERMISSIONS - S - -
+                FILE - - - S
+                USER - - - X
+                CANT - - - S

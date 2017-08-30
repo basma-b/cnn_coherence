@@ -1,0 +1,17 @@
+                   ' S - - - -
+               MYSQL O X X - -
+            PASSWORD O - - X -
+            RESPONSE X - - - -
+               ERROR O - X - -
+              SERVER X - X - -
+              SOCKET S - X - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK X - S - -
+              MYSQLD S - S - -
+                  -U - S - - -
+           LOCALHOST - X - - -
+                  -P - O - - -
+                ROOT - - - X -
+        NEW-PASSWORD - - - X -
+                SUDO - - - X -
+   /ETC/INIT.D/MYSQL - - - X -
+             COMMAND - - - X -

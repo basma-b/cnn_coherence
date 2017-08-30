@@ -1,0 +1,10 @@
+             COMMAND X - -
+                 ALL O - -
+                .TXT X O -
+                FILE O - S
+            /TMP/TXT X - -
+              FOLDER X - -
+                PIPE - O -
+                  CP - X -
+                NAME - - O
+           DIRECTORY - - O

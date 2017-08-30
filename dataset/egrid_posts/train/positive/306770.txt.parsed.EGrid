@@ -1,0 +1,14 @@
+              KERNEL X X -
+             PACKAGE X - -
+              SYSTEM O - -
+                 SMP - X X
+          LOWLATENCY - S -
+              CONFIG - X -
+                MARK - O -
+              ATHLON - - O
+                  -A - - S
+2.6.20-16-LOWLATENCY - - S
+             PREEMPT - - X
+                 THU - - X
+                 JUN - - X
+           GNU/LINUX - - O

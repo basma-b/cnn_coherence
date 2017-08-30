@@ -1,0 +1,11 @@
+                BOOT O - - - -
+                MODE X - - - -
+               NATTY - X - - -
+                GRUB - X X - -
+             OPTIONS - S S - -
+              OPTION - X - - -
+GRUB_CMDLINE_LINUX_DEFAULT= - X - - -
+              SPLASH - S - - -
+   /ETC/DEFAULT/GRUB - X - - -
+                THIS - - X - -
+                THAT - - - - O

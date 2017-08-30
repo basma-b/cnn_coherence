@@ -1,0 +1,11 @@
+               ERROR X X -
+               HY000 X X -
+               MYSQL X S S
+              SERVER X X -
+              SOCKET X X -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK X X -
+                IDEA X - -
+                NOPE - S -
+               PGREP - X -
+             NOTHING - O -
+               START - - X

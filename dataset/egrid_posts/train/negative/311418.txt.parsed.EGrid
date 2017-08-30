@@ -1,0 +1,15 @@
+        APPLICATIONS X - - -
+            VERSIONS X - - -
+              UBUNTU X - - -
+             FIREFOX - X - -
+             MPLAYER - X - -
+             PLUGINS - X - -
+              CODECS - X - -
+                LIBS - X - -
+                SIDE - X - -
+              SYSTEM - X - -
+             CONFIGS - - - O
+            CONFLICT - - - S
+              MODULE - - - S
+                 USE - - - O
+                LOAD - - - O

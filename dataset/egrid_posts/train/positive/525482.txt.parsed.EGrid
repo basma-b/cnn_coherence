@@ -1,0 +1,14 @@
+          /ETC/FSTAB X S X -
+                   A - S - -
+              LITTLE - O - -
+              GKSUDO - X - -
+               GEDIT - X - -
+             WINDOWS - X - -
+           PARTITION - O - -
+                ICON - X - -
+             DESKTOP - X - -
+                LIST - O - -
+             ~/.GVFS - X - -
+                TYPE - S - -
+       AUTO-MOUNTING - - S -
+                STOP - - O -

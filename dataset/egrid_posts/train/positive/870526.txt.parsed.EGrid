@@ -1,0 +1,13 @@
+                USER X - - X - -
+              APACHE S X - S - S
+                  PS - X - - - -
+                GREP - X - - - -
+             PROCESS - O - - - -
+                ROOT - X - X - -
+            WWW-DATA - X - X - -
+                BIND - - - X - -
+                PORT - - - X - -
+                CASE - - - - - X
+                FILE - - - - - O
+               GROUP - - - - - X
+                  .. - - - - - X

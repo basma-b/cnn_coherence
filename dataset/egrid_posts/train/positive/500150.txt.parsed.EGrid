@@ -1,0 +1,14 @@
+              KERNEL X - X - O
+              2.6.27 X - - - -
+               HTTPS - X - - -
+                  OK - S - - -
+             WOULDNT - O - - -
+        HEADER-FILES - O - - -
+              DRIVER - X - - -
+             SUPPORT - X - - -
+             DRIVERS - - O - -
+             HEADERS - - X - S
+             DEFAULT - - - - X
+               REPOS - - - - S
+                PART - - - - X
+        DISTRIBUTION - - - - X

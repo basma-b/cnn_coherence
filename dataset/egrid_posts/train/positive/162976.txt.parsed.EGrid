@@ -1,0 +1,35 @@
+        SOURCES.LIST X - - O - - - - - - - - - - - -
+                ROOT X - - X - - - - - - - - - - - -
+              BREEZY - - - X - - - - - - - - - - - -
+                 USE - - - X - - X - - - - - - - - -
+                  CD - - - X - - X - - - - - - - - -
+                SUDO - - - - - - X - - - - - - - - -
+               GEDIT - - - - - - X - - - - - - - - -
+/ETC/APT/SOURCES.LIST - - - - - - X - - - - - - - - -
+              SOURCE - - - - - - O - - O - - - - - -
+                 ONE - - - - - - X - - - - - - - - -
+            INTERNET - - - - - - X - - - - - - - - -
+                TEXT - - - - - - - - - X - - - - - -
+                FILE - - - - - - - - - O - - - - - -
+               CLICK - - - - - - - - - - X - - O - -
+         INSTALL.EXE - - - - - - - - - - O - - - - -
+           DIRECTORY - - - - - - - - - - - O - - - -
+                HOME - - - - - - - - - - - X - - - -
+                THAT - - - - - - - - - - - - X - - -
+                 RUN - - - - - - - - - - - - - X - -
+           FLASH.EXE - - - - - - - - - - - - - X - -
+                WONT - - - - - - - - - - - - - X - -
+            TERMINAL - - - - - - - - - - - - - X - -
+              ERRORS - - - - - - - - - - - - - O - -
+             LIBRARY - - - - - - - - - - - - - X - -
+         MSVCIRT.DLL - - - - - - - - - - - - - X - -
+                NEED - - - - - - - - - - - - - O - -
+                   L - - - - - - - - - - - - - X - -
+                   Z - - - - - - - - - - - - - X - -
+\\HOME\\HARRY\\FLASHMX\\XERCES-C_2_1_0.DLL - - - - - - - - - - - - - X - -
+               AFAIK - - - - - - - - - - - - - - X -
+                .EXE - - - - - - - - - - - - - - X -
+               LINUX - - - - - - - - - - - - - - - X
+                WINE - - - - - - - - - - - - - - - O
+               LAYER - - - - - - - - - - - - - - - O
+             WINDOWS - - - - - - - - - - - - - - - X

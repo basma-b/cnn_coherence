@@ -1,0 +1,18 @@
+              NOFILE X - - -
+               LIMIT O - - -
+                USER X - - -
+/ETC/SECURITY/LIMITS.CONF X - - -
+             ULIMITS S - - -
+             DEFAULT X - - -
+               VALUE O - - -
+                CLUE X - - -
+              NO-ONE - S - -
+              ANSWER - O - -
+            QUESTION - X - X
+             CHANNEL - X - -
+             MACHINE - - - X
+               BUNCH - - - O
+             PACKAGE - - - X
+             UPGRADE - - - X
+               VIDEO - - - X
+             DRIVERS - - - O

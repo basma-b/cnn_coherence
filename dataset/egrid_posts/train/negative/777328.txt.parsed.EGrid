@@ -1,0 +1,14 @@
+               THERE X - - - - - -
+                 WAY X - - - - - -
+             APT-GET O - - - - X -
+               BUILD X - - - - - -
+                DEPS X - X O - - -
+             PACKAGE X X - X - - -
+                   < - X - - - - -
+                   > - S - - - - -
+        DEPENDENCIES - X - O - - -
+           BUILD-DEP - - - S - - -
+                 PKG - - - O - - -
+                THAT - - - - - O S
+              OPTION - - - - - X -
+                 MBR - - - - - - O

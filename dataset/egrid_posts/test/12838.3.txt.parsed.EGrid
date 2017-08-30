@@ -1,0 +1,13 @@
+                  CD X - - - - - -
+              REPORT X - - - - - -
+            MOUNTALL X - - - - - -
+              BOOTUP - X - - - - -
+               IMAGE - - O - - - -
+                SHA1 - - X - - - -
+            MD5-SUMS - - X - - - -
+                HOST - - - - O - X
+                THAT - - - - - O -
+                CASE - - - - - - X
+                USER - - - - - - X
+                NMAP - - - - - - X
+                PORT - - - - - - X

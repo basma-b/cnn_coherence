@@ -1,0 +1,13 @@
+       NFORCEDRIVERS X - - -
+              UBUNTU X - - -
+              KERNEL - X - -
+             NETWORK - - X -
+                CARD - - X -
+            MODPROBE - - X -
+           FORCEDETH - - S -
+        /ETC/MODULES - - X -
+                TALK - - O -
+               AUDIO - - X -
+                THAT - - - S
+              SERVER - - - O
+         APPICATIONS - - - O

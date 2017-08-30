@@ -1,0 +1,16 @@
+                THAT X - - - - -
+        DIST-UPGRADE O - - - - -
+             PACKAGE O - - - - -
+             UPGRADE X - - - - -
+                SAME X - - - - -
+            APTITUDE - S - - - -
+                BOTH - X - - - -
+               REPOS - X - - - -
+                FILE - X - - - -
+               RIGHT - O - - - -
+             APT-GET - - X - - -
+                SUDO - - X - - -
+              SOURCE - - X - - -
+     MOZILLA-FIREFOX - - S - - -
+            /USR/SRC - - - X - -
+                 CWD - - - - - X

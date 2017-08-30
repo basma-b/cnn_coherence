@@ -1,0 +1,15 @@
+                  IM S - - - -
+                .RPM O - - - -
+              OUTPUT O - - - -
+             WARNING S - - - -
+          CONVERSION S - - - -
+              SCRIPT O - X - -
+             PACKAGE X - - - -
+               WINEX X - - - -
+           PARAMETER S - O - -
+              ANSWER - - - X -
+                BOOT - - - - X
+             MACHINE - - - - O
+                GRUB - - - - X
+              SCREEN - - - - O
+              KERNEL - - - - X

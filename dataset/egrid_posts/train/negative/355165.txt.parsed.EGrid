@@ -1,0 +1,20 @@
+              ANYONE S - - - - - -
+               CYCLE X X - - - - -
+               INTEL X - - - - - -
+            WIRELESS X - X - - - -
+                CARD X - S - - - -
+                 CLI X - - - - - -
+/DEV/DEVICENAMEOFCARD - - O - - - -
+              DEVICE - - X S - - -
+               /DEV/ - - X - - - -
+            IWCONFIG - - - S - - -
+                 SEC - - - - X - -
+                  .. - - - - X - -
+                  OK - - - - - S -
+                TEXT - - - - - X -
+              EDITOR - - - - - S -
+/ETC/NETWORK/INTERFACES - - - - - O -
+           MAKE-KPKG - - - - - - S
+              INITRD - - - - - - O
+                ROOT - - - - - - X
+           PARAMETER - - - - - - S

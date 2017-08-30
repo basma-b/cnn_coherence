@@ -1,0 +1,7 @@
+           PARTITION X - -
+                MATE - S -
+               STAGE - - X
+                FILE - - O
+                GRUB - - O
+                 MBR - - X
+        GRUB-INSTALL - - S

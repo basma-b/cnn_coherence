@@ -1,0 +1,13 @@
+                BOOT X - -
+              KERNEL X - -
+             VERSION O - -
+                GRUB X - -
+                  CD - O -
+                   / - X -
+                SUDO - X -
+                DPKG - O -
+                  -A - X -
+                WORK - S -
+    DPKG-RECONFIGURE - S -
+                 ALL - X -
+             COMMAND - S -

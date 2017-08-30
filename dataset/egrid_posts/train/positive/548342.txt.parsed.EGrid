@@ -1,0 +1,15 @@
+                8.04 O - - -
+                TEST X - - -
+                 BOX X - - -
+                ROOT - X - -
+                 KIT - X - -
+            DETECTOR - O - -
+            FIREWALL - O - -
+         SUGGESTIONS - O - -
+            APPARMOR - - S -
+          PROTECTION - - X -
+                 UFW - - O -
+               HTTPS - - O -
+//WIKI.UBUNTU.COM/APPARMOR - - X -
+//WIKI.UBUNTU.COM/UBUNTUFIREWALL - - O -
+            INTEREST - - - S

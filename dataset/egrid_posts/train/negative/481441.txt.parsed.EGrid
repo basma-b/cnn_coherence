@@ -1,0 +1,15 @@
+              UBUNTU S - - - -
+              LIVECD O - - - -
+           PARTITION O - - - -
+                SWAP X - - - -
+                  CD - X - - -
+                  .. - O - - -
+                REST - X - - -
+               ERROR - X - - -
+                PAGE - - - X -
+                SHOW - - - X -
+             POSTFIX - - - X -
+             DOVECOT - - - X -
+                LINK - - - - X
+                MAIL - - - - X
+              SERVER - - - - X

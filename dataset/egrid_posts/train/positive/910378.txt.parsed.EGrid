@@ -1,0 +1,15 @@
+              DEVICE S X - -
+              CDRDAO X - - -
+               SHELL X - - -
+            LOCATION - X - -
+               0,0,0 - S - -
+           ATA:0,0,0 - S - -
+            /DEV/HDX - S - -
+               CDROM - X - -
+                  .. - O - -
+              IDE-CD - X - -
+                XMMS - O - X
+              GTK1.2 - - X -
+   BEEP-MEDIA-PLAYER - - X -
+                ZINF - - X -
+                WORK - - - X

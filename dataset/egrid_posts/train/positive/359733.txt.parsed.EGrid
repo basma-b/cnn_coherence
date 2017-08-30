@@ -1,0 +1,16 @@
+             COMMAND - - - X - - -
+                LINE - - - O - - -
+         PERMISSIONS - - - O X O -
+               CHMOD - - - - X S -
+                ROOT - - - - X S -
+             ACCOUNT - - - - X - -
+            /VAR/WWW - - - - - S -
+                SUDO - - - - - X -
+             FOLDERS - - - - - X -
+                 MAN - - - - - X -
+             INSIGHT - - - - - O -
+                UNIX - - - - - X -
+             SYSTEMS - - - - - X -
+                USER - - - - - X -
+               GROUP - - - - - X -
+                 LOL - - - - - O -

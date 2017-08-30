@@ -1,0 +1,13 @@
+        /ETC/SUDOERS X - -
+               THERE S - -
+                LINE X - -
+                   % X - -
+              ADMINS X - -
+                ALL= O - -
+                 ALL X - -
+               GROUP S - -
+            PASSWORD O - -
+                SUDO O - -
+          PASSWD=ALL - O -
+              OPTION - - O
+                NAME - - X

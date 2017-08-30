@@ -1,0 +1,15 @@
+               SYSFS O - X -
+              NORMAL O - - -
+                THIS - - S -
+                /SYS - - X -
+                TYPE - - X -
+                  RW - - X -
+                NONE - - X -
+/PROC/SYS/FS/BINFMT_MISC - - X -
+         BINFMT_MISC - - X -
+               FRESH - - S -
+                 HMM - - X -
+               FSTAB - - X -
+                 BUG - - X -
+              REPORT - - O -
+                  .. - - - X

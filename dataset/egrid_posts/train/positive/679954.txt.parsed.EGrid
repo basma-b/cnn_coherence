@@ -1,0 +1,15 @@
+      WPA_SUPPLICANT X X - -
+              DAEMON X - - -
+               ORDER S - - -
+             WPA_CLI O - O -
+               START - X - -
+                THAT - - S -
+              -DWEXT - - O -
+                FILE - - X -
+                HTTP - - O -
+                  UH - - S -
+                 SEC - - X -
+//PASTEBIN.CA/1796443 - - S -
+                LINK - - S -
+                SUDO - - - X
+/ETC/INIT.D/NETWORKING - - - S

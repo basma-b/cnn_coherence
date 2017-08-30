@@ -1,0 +1,21 @@
+                   A X - - - - - - - - -
+              LOADER S - - - - - - - - -
+                 ALL O - - - - - - - - -
+                 TRY X - - - - - - - - -
+          UNETBOOTIN X - - - - - - - - -
+                 USB - X - X X - - O - -
+               DRIVE - - - X - - - - - -
+               STICK - - - - X O - - - -
+              KERNEL - - - - O - - - - -
+              ABOUNT - - - - S - - - - -
+                FILE - - - - O - - - - -
+CDROM-DETECT/TRY-USB=TRUE - - - - - O - - - -
+                BOOT - - - - - X - - - -
+             MESSAGE - - - - - - S - - -
+           INSTALLER - - - - - - X - - -
+               CDROM - - - - - - S - - -
+        INSTALLATION - - - - - - X - - -
+             CHANNEL - - - - - - - - - X
+            INTEREST - - - - - - - - - X
+                XFCE - - - - - - - - - X
+              OTHERS - - - - - - - - - X

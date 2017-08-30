@@ -1,0 +1,14 @@
+             PROGRAM X - - - - - -
+                LIST X - - - - - -
+          DEPENDENTS X - - - - - -
+             PACKAGE X - - - - - -
+           APT-CACHE - S - - - - -
+           PARTITION - X X - X - -
+                  ID - S S - S - -
+             NOTHING - O - - O - S
+          FILESYSTEM - X - - X X -
+                  HD - S - - - - -
+               DRIVE - - - - - S -
+                0X07 - - - - - X -
+                 USE - - - - - - X
+              CFDISK - - - - - - X

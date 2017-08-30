@@ -1,0 +1,27 @@
+                SUDO X - - - -
+               CHMOD X - - - -
+       /USR/BIN/WINE O - - - -
+                WINE O - - - -
+/TMP/.WINE-1000/SERVER-801-D80D3/SOCKET S - - - -
+                SUID - O - - -
+                THIS - S - - -
+                 WAY - O - - -
+                USER - S - - -
+             WINDOWS - X - - -
+               VIRUS - O - - -
+              SYSTEM - O - - -
+          WINESERVER - S - - -
+     /TMP/.WINE-1000 - X - - -
+                  -/ - S - - -
+             WARNING - O - - -
+              SOCKET - O - - -
+                TYPE - X - - -
+            SOCK_RAW - X - - -
+         PERMISSIONS - O - - -
+         CAP_NET_RAW - - O - -
+/ETC/NETWORK/INTEFACES - - - O O
+                THAT - - - - O
+               KINDA - - - - S
+             NETWORK - - - - X
+         CONNECTIONS - - - - S
+                 LOL - - - - X

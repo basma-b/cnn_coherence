@@ -1,0 +1,24 @@
+               SETUP X - - - - - - -
+           PARTITION O S S - - - - -
+           DIRECTORY X - - - - - - -
+          EVERYTHING X - - - - - - -
+               /HOME - X X - X - - -
+              UBUNTU - O - - - - - -
+                 WAY - X - - - - - -
+                FACT - X - - - - - -
+            RECOVERY - - X - - - - -
+                MODE - - X - - - - -
+                FILE - - X - S - - -
+          /ETC/FSTAB - - X - - - - -
+                HTTP - - - - S - - -
+//PASTE.UBUNTU.COM/808103/ - - - - S - - -
+                LINE - - - - O - - X
+                  IP - - - - - S - -
+            IFCONFIG - - - - - X - -
+                ETH0 - - - - - X - X
+           SOMETHING - - - - - - O -
+                DHCP - - - - - - X X
+               THATS - - - - - - X -
+/ETC/NETWORK/INTERFACES - - - - - - X -
+               IFACE - - - - - - - O
+                AUTO - - - - - - - X

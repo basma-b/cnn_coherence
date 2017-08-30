@@ -1,0 +1,25 @@
+             PROBLEM O S - - - - - - - -
+              COURSE - S - - - - - - - -
+              ACTION - X - - - - - - - -
+          PULSEAUDIO - S - S - X - - - -
+        DEPENDENCIES - X - - - - - - - -
+             KILLALL - - - X - - - - - -
+                THAT - - - - S - - - - -
+               THERE - - - - X - - - - -
+             PROCESS - - - - X - - - - -
+                   $ - - - - - X - - - -
+                  -K - - - - - S - - - -
+/ETC/INIT.D/PULSEAUDIO - - - - - X - - - -
+          FORCE-QUIT - - - - - X - - - -
+                  PS - - - - - X - - - -
+               |GREP - - - - - X - - - -
+               PULSE - - - - - O - - - -
+                 AWK - - - - - X - - - -
+               PRINT - - - - - X - - - -
+               XARGS - - - - - S - - - -
+               USR13 - - - - - O - - - -
+              MATTER - - - - - X - - - -
+               SOUND - - - - - - S - - -
+                LUCK - - - - - - X - - -
+             MYSTERY - - - - - - O - - -
+                  HM - - - - - - - - S -

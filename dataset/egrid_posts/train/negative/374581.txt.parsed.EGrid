@@ -1,0 +1,25 @@
+              DETAIL X - - - - - - -
+              VHOSTS - X - - - - - -
+         SERVER-NAME - - X - - - - -
+                FILE - - X - - - - -
+                  IM - - - S - - - -
+               HTTPS - - - O - - - -
+HEAD-8C16BCD2517FA5B9FA35D616F00D3BB59E981373 - - - X - - - -
+             COMMAND - - - S - - - -
+             DEFAULT - - - O - - - -
+              MYSITE - - - O - - - -
+                WORK - - - O - - - -
+                 SEC - - - X - - - -
+          HTTPD.CONF - - - S X - - -
+              SYSTEM - - - X - - - -
+                MODS - - - O - - - -
+                WIKI - - - - - O - -
+             APACHE2 - - - - - S - -
+              SERVER - - - - - S - -
+              DOMAIN - - - - - X - -
+                NAME - - - - - O - -
+           127.0.1.1 - - - - - O - -
+          SERVERNAME - - - - - X - -
+              CONFIG - - - - - - X -
+               STUFF - - - - - - - O
+   /ETC/ALTERNATIVES - - - - - - - X

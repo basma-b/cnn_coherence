@@ -1,0 +1,15 @@
+               ERROR S - - S -
+               HY000 X - - X -
+               MYSQL X - - S -
+              SERVER X - - X -
+              SOCKET X - - X -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK X - - X -
+              ANYONE S - - - -
+                 YEA - S - - -
+            PROBLEMS - - X - -
+                SUDO - - - X -
+             APT-GET - - - S -
+    MYSQL-SERVER-5.0 - - - O -
+         INVOKE-RC.D - - - - X
+          INITSCRIPT - - - - X
+                FIND - - - - X

@@ -1,0 +1,20 @@
+                 HEY X - - - - - - - - - - - - - - - - - -
+           PARTITION - X - - - - - - - - - - - - - - - - -
+          READ/WRITE - X - - - - - - - - - - - - - - - - -
+                 MAN - - S - - - - - - - - - - - - - - - -
+          FILESYSTEM - - - X - - - - - - - - - - - - - - -
+                TYPE - - - X - - - - - - - - - - - - - - -
+                VFAT - - - X - - X - - - - - - - - - - - -
+                USER - - - - - - S - - - - - - - X - - - -
+                AUTO - - - - - - X - - - - - - - - - - - -
+                THAT - - - - - - - - S - - - - - - - - - -
+            POSSIBLE - - - - - - - - - - X - - - - - - - -
+                FSCK - - - - - - - - - - O - - - - - - - -
+            SEQUENCE - - - - - - - - - - X - - - - - - - -
+                SUDO - - - - - - - - - - - S - - O - - - -
+              UMOUNT - - - - - - - - - - - - S - - X - - -
+           /DEV/SDA4 - - - - - - - - - - - - - - - O - - -
+                ROOT - - - - - - - - - - - - - - - O - - -
+                HTTP - - - - - - - - - - - - - - - - - - X
+//UBUNTUGUIDE.ORG/WIKI/UBUNTU - - - - - - - - - - - - - - - - - - X
+INSTALLATION_OF_ATI_AND_NVIDIA_GRAPHICS_DRIVERS - - - - - - - - - - - - - - - - - - X

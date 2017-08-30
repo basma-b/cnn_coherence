@@ -1,0 +1,10 @@
+             COMMAND X - - - -
+                FORM X - - - -
+                GRUB X - - - -
+                   > O - - - -
+             NOTHING - - O - -
+             GARBAGE - - X - -
+           CHARACTER - - X - -
+                FILE - - X - -
+                PORT - - - - O
+            IPTABLES - - - - X

@@ -1,0 +1,17 @@
+             PROBLEM O - - - - - -
+              VSFTPD X - - - - - -
+              OPTION - O - - - - -
+                JAIL - X - - - - -
+                USER - S - - - O -
+                HOME - X - - - - -
+           DIRECTORY - O - - - - -
+             BROWSER - O - - - - -
+                ABLE - S - - - - -
+            SOLUTION - S - - - - -
+                THIS - O - - - - -
+              ACCESS - - - S - - -
+                FILE - - - X - X -
+              SYSTEM - - - O - X -
+         PERMISSIONS - - - S - - -
+            /VAR/FTP - - - X - - -
+              CHROOT - - - - - X -

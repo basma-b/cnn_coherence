@@ -1,0 +1,16 @@
+               THERE X - -
+                 WAY X - -
+                HOST O O -
+             NETWORK X - -
+                THIS - S -
+            IPTABLES - O -
+               INPUT - X -
+                  -P - X -
+                 TCP - O -
+          X.X.X.X/32 - X -
+                  -J - X -
+                DROP - O -
+            PROBLEMS - - O
+              UBUNTU - - X
+            QUESTION - - O
+           LAUNCHPAD - - X

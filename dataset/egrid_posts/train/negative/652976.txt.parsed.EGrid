@@ -1,0 +1,11 @@
+             PROCESS X X - -
+                KILL - - X -
+               PKILL - - X -
+                   < - - S -
+                   > - - X -
+              CTRL-C - - X -
+                 THX - - O -
+               PANEL - - - X
+               SHELL - - - O
+               THERE - - - S
+                 RUN - - - X

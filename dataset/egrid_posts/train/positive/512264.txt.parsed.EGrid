@@ -1,0 +1,8 @@
+            MODPROBE X - -
+                LOAD S - -
+              DRIVER X X -
+              DOESNT X - -
+            HARDWARE X - -
+               DMESG X - -
+            ANYTHING O - -
+                THAT - S -

@@ -1,0 +1,16 @@
+              UBUNTU - X - - O - -
+              SERVER - X - - - - -
+               IMAGE - S - - - - -
+                I386 - X - - - - -
+                 ISO - - X - - - -
+               ISSUE - - - X - - -
+             PROGRAM - - - - X - -
+                EXIT - - - - O - -
+               ERROR - - - - X - -
+              RETURN - - - - X - -
+               VALUE - - - - X - -
+                FILE - - - - - - O
+GRUB_CMDLINE_LINUX_DEFAULT= - - - - - - S
+           NOMODESET - - - - - - X
+         UPDATE-GRUB - - - - - - O
+            GRUB.CFG - - - - - - O

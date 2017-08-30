@@ -1,0 +1,11 @@
+                HELP S - -
+                 RPM O - -
+               PRINT - X -
+                SUDO - X -
+               ALIEN - X -
+       MYPACKAGE.RPM - S -
+       MYPACKAGE.DEB - O -
+                IDEA - - O
+             COMMAND - - X
+                LINE - - X
+                 ALL - - O

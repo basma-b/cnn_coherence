@@ -1,0 +1,22 @@
+                  IP - O - - -
+          EVERYTHING - O - - -
+                 DNS - S - - -
+          RESOLUTION - X - - -
+/ETC/NETWORK/INTERFACES - X - - -
+     DNS-NAMESERVERS - - O - -
+              ROUTER - - X X -
+             ADDRESS - - X - -
+          DNS-SEARCH - - X - -
+              DOMAIN - - X - -
+               SOUND - - X - -
+          NAMESERVER - - O - -
+             DEVICES - - - S -
+            INTERNET - - - O -
+             ROUTERS - - - S -
+             DEFAULT - - - X -
+                TIME - - - - X
+               PPPOE - - - - X
+              BRIDGE - - - - X
+                MODE - - - - O
+               THOSE - - - - S
+              DEVICE - - - - S

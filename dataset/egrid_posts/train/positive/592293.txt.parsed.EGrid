@@ -1,0 +1,24 @@
+                   ' X - - - - -
+            QUESTION O - - - - -
+/ETC/SSH/SSHD_CONFIG X - - X - -
+                FILE O - O O - -
+                PORT O - - O - -
+            FIREWALL O - - X - -
+             DEFAULT X - - X - -
+            TERMINAL X - - X - X
+          CONNECTION O - - S - -
+     /ETC/INIT.D/SSH - S X - - -
+                DOES - X - - - -
+              ANYONE - S - - - -
+         SSHD_CONFIG - - X - - -
+              SERVER - - O - - -
+                THAT - - - O - -
+                 UFW - - - X - -
+            DIFFERNT - - - X - -
+             CONTEXT - - - O - -
+             MACHINE - - - X - -
+             ADDRESS - - - - - X
+                   > - - - - - O
+                LOCK - - - - - O
+                CASE - - - - - X
+            COMPUTER - - - - - X

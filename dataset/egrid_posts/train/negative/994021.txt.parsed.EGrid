@@ -1,0 +1,25 @@
+             NETWORK X - - - - - -
+            PROBLEMS O - - - - - -
+                DHCP - O - - - - -
+             PROBLEM - O - - - - -
+                 USE - - S - - - -
+              DEBIAN - - X - - - -
+              OTHERS - - X - - - -
+                 PCS - - O - - - -
+                 LAN - - X - - - -
+                INET - - - X - - -
+              ROUTER - - - - O - -
+                HELP - - - - X - -
+                HTTP - - - - X - -
+//PASTEBIN.COM/428069 - - - - S - -
+             GATEWAY - - - - X - -
+                TEXT - - - - - O -
+              OUTPUT - - - - - O -
+              STDOUT - - - - - X -
+                   > - - - - - - O
+              STDERR - - - - - - S
+             SILENCE - - - - - - X
+           /DEV/NULL - - - - - - X
+            ANYTHING - - - - - - S
+            TERMINAL - - - - - - X
+               IDEAS - - - - - - X

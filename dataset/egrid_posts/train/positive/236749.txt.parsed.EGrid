@@ -1,0 +1,17 @@
+               STICK O - - -
+                  .. - O - -
+                LINK - O - -
+             FIREFOX - O - -
+        /OPT/FIREFOX - X - -
+             COMMAND - X - -
+                LINE - X - -
+/OPT/FIREFOX/FIREFOX - X - -
+                FILE - X - -
+                CALL - X - -
+           /USR/BIN/ - X - -
+             CONTENT - X - -
+            INSTANCE - O - -
+                  SH - X - -
+                  LN - - X -
+                  -S - - - X
+               WRONG - - - O

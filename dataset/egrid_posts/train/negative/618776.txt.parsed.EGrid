@@ -1,0 +1,14 @@
+             COMMAND - X X -
+              SYSTEM - S - -
+                BOOT - X - -
+       /ETC/RC.LOCAL - - X -
+                EXIT - - X -
+                ROOT - - X -
+             CRONTAB - - X -
+                USER - - X -
+                FILE - - O -
+                  -E - - X -
+             GARBAGE - - - O
+              LAPTOP - - - O
+               NOICE - - - X
+             CONFIGS - - - X

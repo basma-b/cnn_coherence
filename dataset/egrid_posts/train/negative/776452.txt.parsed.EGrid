@@ -1,0 +1,14 @@
+           BACKTRACK S -
+                BITE X -
+             PACKAGE O -
+                THIS O -
+//ARCHIVE.OFFENSIVE-SECURITY.COM/DISTS/PWNSAUCE/ X -
+            IFCONFIG - S
+                ETH0 - X
+              IFDOWN - X
+                IFUP - X
+/ETC/NETWORK/INTERFACES - S
+               SETUP - X
+                  IP - O
+                 ONE - X
+             COMMAND - O

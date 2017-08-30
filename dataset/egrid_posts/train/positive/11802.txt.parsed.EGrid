@@ -1,0 +1,11 @@
+              CONFIG O - - -
+             .CONFIG X - - -
+                 TOP X - - -
+              KERNEL X - - -
+              SOURCE X - - -
+                TREE X - - -
+           OLDCONFIG O O - O
+          MENUCONFIG X - - -
+                 LOT - - - O
+            QUESTION - - - X
+              ANSWER - - - S

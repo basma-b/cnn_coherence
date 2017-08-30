@@ -1,0 +1,12 @@
+              KERNEL X X - - - - - -
+               SMBFS X X - - - O - -
+                FILE - X - - - - - -
+              SYSTEM - X - - - - - -
+               SAMBA - - O - X - - -
+             MACHINE - - X - - - - -
+                TYPE - - - X - - - -
+            SMBMOUNT - - - O - - - -
+             COMMAND - - - O - - - -
+           SOMETHING - - - X - - - -
+                SUDO - - - - - X - -
+             APT-GET - - - - - S - -

@@ -1,0 +1,16 @@
+             COMMAND X - - -
+             .CONFIG X - - -
+              KERNEL X - - S
+     /PROC/CONFIG.GZ S - - -
+                THAT - X - -
+           OLDCONFIG - X - -
+                 CAT - X - -
+/BOOT/CONFIG-2.6.15-28-386 - S - -
+            HARDWARE - - O -
+                LOOK - - - O
+                 LOG - - - X
+            /VAR/LOG - - - X
+           SOMETHING - - - O
+              FREEZE - - - S
+                 RAM - - - X
+          MEMTEST86+ - - - O

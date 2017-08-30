@@ -1,0 +1,14 @@
+               THERE X - - - - -
+             CHANNEL X - - - - -
+            QUESTION X - - - - -
+              MODEMS O - - - - -
+      USB-MODESWITCH - O O - - -
+             APT-GET - - S - - -
+             NOTHING - - S - - -
+           SOMETHING - - X - - -
+                   $ - - - - X -
+                  MV - - - - X -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET-RULES - - - - S -
+                FILE - - - - - S
+                BOOT - - - - - X
+                UDEV - - - - - X

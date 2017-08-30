@@ -1,0 +1,16 @@
+                KIND X - - - -
+              SYNTAX X - - - -
+              TELNET X - - - -
+                HOST X - - - -
+          CONNECTION S - - - -
+                ROOT S - - X -
+             SERVICE S - - - -
+            ANYTHING X - - - -
+           LOCALHOST - X - - -
+                THAT - - S - -
+                  -N - - S - -
+                PORT - - X - -
+               FUSER - - - S -
+    IFACES/ADDRESSES - - - X -
+              OUTPUT - - - O -
+             NOTHING - - - - O

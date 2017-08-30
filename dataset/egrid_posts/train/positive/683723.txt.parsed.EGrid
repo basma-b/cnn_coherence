@@ -1,0 +1,14 @@
+         SAVEDEFAULT S - -
+                 MAP S - -
+                 HD0 X - -
+                 HD2 X - -
+                   Y S - -
+                WHRE X - -
+              DEVICE X - S
+              NUMBER O - -
+           PARTITION X - X
+               START O - -
+                ZERO - - S
+                NAME - - X
+              CHANGE - - O
+               GRUB2 - - X

@@ -1,0 +1,13 @@
+               GROUP S - O - - -
+              ACCESS O - - - - -
+SYSTEM/ADMISINSTRATION/USERS X - - - - -
+              GROUPS X - - - - -
+               WHEEL - X - - - -
+            PASSWORD - - O - - -
+                ROOT - - X - - -
+               STUFF - - O - - -
+                 LOG - - X - - -
+                USER - - S - - -
+            INTREPID - - - S - -
+             VERSION - - - O - -
+               THANK - - - - - X

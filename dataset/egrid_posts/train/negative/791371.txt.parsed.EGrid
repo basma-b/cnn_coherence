@@ -1,0 +1,13 @@
+              SYSTEM S - - - -
+               FAULT X - - - -
+                TEST - X - - -
+      /VAR/LOG/DMESG - - S - -
+                LINE - - - O -
+            ADDRCONF - - - S -
+           NETDEV_UP - - - X -
+               WLAN0 - - - X -
+              LATEST - - - - X
+              SOURCE - - - - X
+                 WAY - - - - O
+     BUILD-ESSENTIAL - - - - X
+        CHECKINSTALL - - - - X

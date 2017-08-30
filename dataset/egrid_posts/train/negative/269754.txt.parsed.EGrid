@@ -1,0 +1,17 @@
+                SWAP X X - - - -
+               SPACE X - - - - -
+           PARTITION X S - - O -
+                  .. - O - - - -
+           /DEV/HDA3 - S - - - -
+             CONNECT - O - - - -
+           /DEV/HDA4 - S - - - -
+          MOUNTPOINT - - X - - -
+          PARTITION= - - X - - -
+           SOMETHING - - - S - -
+                  AN - - - - S -
+                  OK - - - - X -
+                 HDA - - - - S -
+                 ONE - - - - O -
+                 HDB - - - - S -
+             HDA1-10 - - - - O -
+           XORG.CONF - - - - - S

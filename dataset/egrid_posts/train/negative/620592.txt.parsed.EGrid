@@ -1,0 +1,12 @@
+             COMMAND X - -
+               CHMOD O - -
+                  .. X - -
+          PERMISSION S - -
+             -RWXR-X O - -
+               GROUP S X -
+             MISREAD - X -
+               CHECK - - X
+                 LOG - - O
+                FILE - - X
+            CREATION - - X
+           DATE/TIME - - X

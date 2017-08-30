@@ -1,0 +1,15 @@
+              KERNEL X X - - - X
+              CONFIG X O - - - O
+                FILE X O - O - -
+             SCRATCH X - - - - -
+              OBJECT - X - - - -
+            MRPROPER - S - - - -
+                TREE - O - - - -
+             DEFAULT - X - - - X
+          MENUCONFIG - - S - - -
+          EVERYTHING - - O - - -
+             BROTHER - - S - - -
+              MODULE - - X - - -
+             TARBALL - - - - - O
+ LINUX-X.Y.Z/.CONFIG - - - - - O
+             SOMEONE - - - - - O

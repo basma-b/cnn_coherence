@@ -1,0 +1,11 @@
+         PERMISSIONS X S - - -
+                /DIR X - - - -
+      SUBDIRECTORIES S - - - -
+           /DIR/SUB2 - S - - -
+                USER - X - - -
+               UMASK - - X - -
+               STUFF - - X - -
+                  .. - - X - -
+                HEHE - - X - -
+                THAT - - - S -
+               TRICK - - - O -

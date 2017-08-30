@@ -1,0 +1,11 @@
+            FIREWALL - X -
+                   | - S -
+                 UFW - S -
+            FRONTWND - O -
+            IPTABLES - S -
+              THERES - X -
+               BLOCK - X -
+                PORT - X -
+             DEFAULT - X -
+                RULE - X -
+                   _ - - X

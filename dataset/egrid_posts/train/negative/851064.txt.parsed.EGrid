@@ -1,0 +1,11 @@
+               FSTAB X - X - - -
+               ENTRY X - - - - -
+                HTTP O - - - - -
+//PASTE.UBUNTU.COM/690304/ X - - - - -
+                SWAP X - - - - -
+//PASTE.UBUNTU.COM/690300/ X - - - - -
+                MARK O - - - - -
+              UBUNTU - - - X - -
+                DISK - - - X - -
+             UTILITY - - - X - -
+                 APP - - - S - -

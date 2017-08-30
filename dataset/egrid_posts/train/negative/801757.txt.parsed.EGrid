@@ -1,0 +1,13 @@
+                FSCK S - - - -
+                BOOT O - - - -
+                TYPE - X - - -
+                SUDO - X - - -
+               TOUCH - O - - -
+          /FORCEFSCK - S - - -
+             NOTHING - - S - -
+            ANYTHING - - O - -
+                FILE - - S - -
+              ADMIN- - - - S -
+               PRINT - - - X -
+                FTBB - - - O -
+                 HCL - - - - O

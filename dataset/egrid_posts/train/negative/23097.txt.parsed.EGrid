@@ -1,0 +1,17 @@
+         ROOT-PASSWD X - - - - - - -
+       UBUNTU-LIVECD X - - - - - - -
+                SUDO - X - - S - - -
+               CRASH - O - O - - - -
+               ERROR - X - X - - - -
+              NOBODY - X - - - - - -
+             LIVE-CD - O - - - - - -
+              UBUNTU - X - - - - - -
+                ROOT - - X O - - - -
+            PASSWORD - - O - - - - -
+          FILESYSTEM - - S X - - - -
+            SYNAPTIC - - - O - - - -
+             KNOPPIX - - - X - - - -
+                WAIT - - - X - - - -
+            ANYTHING - - - - O - - -
+     UBUNTU-PACKAGES - - - - X - - -
+                 THX - - - - - - - X

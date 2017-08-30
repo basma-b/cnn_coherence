@@ -1,0 +1,45 @@
+                 MAY S - - -
+                  HI S - - -
+                PART S - - -
+            AUTH.LOG S - - -
+              FIGURE S - - -
+           COWORKERS S - - -
+               GUEST S - - -
+             ACCOUNT S - - -
+            SNAPDATA S - - -
+            PAM_UNIX S - - -
+             SESSION S - - -
+                USER S - - -
+    PAM_CK_CONNECTOR S - - -
+                MODE S - - -
+             PAM_TTY S - - -
+      PAM_SUCCEED_IF S - - -
+         REQUIREMENT S - - -
+             INGROUP S - - -
+       NOPASSWDLOGIN S - - -
+                JOHN S - - -
+              SYSTEM S - - -
+             MESSAGE S - - -
+                RULE S - - -
+         METHOD_CALL S - - -
+/USR/LIB/INDICATOR-DATETIME/INDICATOR-DATETIME-SER S - - -
+ORG.FREEDESKTOP.DBUS.PROPERTIES S - - -
+              GETALL S - - -
+               ERROR S - - -
+               UNSET S - - -
+/USR/SBIN/CONSOLE-KIT-DAEMON S - - -
+           NO-DAEMON S - - -
+                 USE S - O -
+            MUTITAIL S - - -
+   /VAR/LOG/AUTH.LOG S - - -
+                PROG S - - -
+                   / S - - -
+              SEARCH S - - -
+               RIGHT S - - -
+                   \ X - - -
+             VERSION - O - -
+              UBUNTU - X - -
+                IDEA - X - -
+                 LTS - - X -
+             PROBLEM - - - X
+                   S - - - S

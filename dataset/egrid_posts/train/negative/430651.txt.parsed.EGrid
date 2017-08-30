@@ -1,0 +1,25 @@
+         PERMISSIONS O - - - - -
+                FILE X - - - - -
+                 USE O - - - - -
+             ACCOUNT - S - - - -
+/ETC/SSH/SSHD_CONFIG - - O - - -
+                SIDE - - X - - -
+         SSH-COPY-ID - - - S - -
+                COPY - - - X - -
+                 KEY - - - X - -
+                HOST - - - X - -
+                LIST - - - X - -
+             SYSTEMS - - - X - X
+                THAT - - - - - O
+        MANUFACTURER - - - - - O
+               VIDEO - - - - - X
+                CARD - - - - - X
+                  .. - - - - - X
+              HWINFO - - - - - S
+             DEFAULT - - - - - X
+               USERS - - - - - S
+               LSPCI - - - - - O
+            SOFTWARE - - - - - X
+                SUDO - - - - - X
+              POLICY - - - - - X
+                 VLC - - - - - S

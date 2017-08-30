@@ -1,0 +1,16 @@
+             COMMAND S - - - -
+                 CAT - X - - -
+       /PROC/CPUINFO - S - - -
+                FLAG - O - - -
+                HTTP - - X X -
+                   < - - S - -
+                SITE - - O - -
+             PACKAGE - - X - -
+                INFO - - X - -
+            UNIVERSE - - - X -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_PACKAGES.PL - - - X -
+   KEYWORDS=ETHEREAL - - - - X
+      SEARCHON=NAMES - - - - X
+           SUBWORD=1 - - - - X
+      VERSION=DAPPER - - - - X
+         RELEASE=ALL - - - - X

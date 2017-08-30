@@ -1,0 +1,12 @@
+             PROBLEM X - -
+                SUDO X - -
+                 RUN X - -
+                USER X - -
+             COMMAND - - X
+                 ALL - - S
+            WWW-DATA - - S
+            NOPASSWD - - O
+/VAR/AKASHA/PYTHON/TEST.PY - - S
+               USERS - - O
+             ABILITY - - X
+             TEST.PY - - O

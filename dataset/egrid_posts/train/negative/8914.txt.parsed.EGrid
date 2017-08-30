@@ -1,0 +1,14 @@
+                GRUB X - - - -
+                 USE O - - - -
+        INSTALLATION X - - - -
+                  CD X - - - -
+            TERMINAL - - X - -
+                   + - - X - -
+                TYPE - - X - -
+                  DD - - X - -
+         IF=/DEV/HDA - - O - -
+             COUNT=1 - - S - -
+                 HDA - - X - -
+                BOOT - - - - X
+             MACHINE - - - - X
+              SCREEN - - - - S

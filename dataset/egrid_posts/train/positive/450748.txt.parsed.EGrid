@@ -1,0 +1,27 @@
+                EXT3 X - - - -
+           PARTITION O - - - -
+              ACCESS X - - - -
+                THIS - X - - -
+                LINE - - X - -
+          /ETC/FSTAB - - X - -
+                HTTP - - X - -
+//PASTE.UBUNTU.COM/16984/ - - X - -
+                ROOT - - X X -
+                 THE - - - O -
+                USER - - - S -
+          FILESYSTEM - - - O -
+                SUDO - - - X O
+          PERMISSION - - - O -
+               THERE - - - S -
+              OPTION - - - O -
+                  .. - - - O -
+            YOURUSER - - - S -
+ /PATH/TO/MOUNTPOINT - - - X -
+               AVAIL - - - X -
+             COMMAND - - - X X
+             MESSAGE - - - O -
+              CHANGE - - - X -
+           OWNERSHIP - - - X -
+         /MEDIA/HDF2 - - - X -
+           OPERATION - - - X -
+                THAT - - - - O

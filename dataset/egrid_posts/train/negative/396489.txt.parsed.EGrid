@@ -1,0 +1,27 @@
+        SOURCES.LIST X - - - - -
+                FILE X - - - - -
+/ETC/APT/SOURCES.LIST - S - - - -
+               CDROM - S - - - -
+              SYSTEM - X - - - -
+      ADMINISTRATION - X - - - -
+            SOFTWARE - X - - - -
+              SOURCE - X - - - -
+              VENDOR - - X - - -
+               ISSUE - - O - - -
+               THERE - - S S - -
+              DRIVER - - X - - -
+              BINARY - - X - - -
+             PROBLEM - - O - - -
+               LINUX - - X - - -
+              PEOPLE - - - S - -
+           SOLUTIONS - - - X - -
+               GNASH - - - X - -
+               FLASH - - - X - X
+            ENGINEER - - - O - -
+             YOUTUBE - - - - S -
+             FIREFOX - - - - X X
+               VIDEO - - - - - X
+            DOWNLOAD - - - - - X
+              PLUGIN - - - - - O
+                VIDS - - - - - X
+                 VLC - - - - - X

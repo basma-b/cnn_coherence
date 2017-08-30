@@ -1,0 +1,15 @@
+                  TR X -
+             COMMAND X -
+                CASE O -
+             ENCLOSE S -
+               QUOTE X -
+                HTTP X -
+//WWW.PEMENT.ORG/SED/SED1LINE.TXT S -
+              RESULT O -
+              STDOUT X -
+                FILE X -
+                   > X -
+        MYRESULT.TXT S -
+                SLAP S -
+               -RSB- O -
+           UPPERCASE X -

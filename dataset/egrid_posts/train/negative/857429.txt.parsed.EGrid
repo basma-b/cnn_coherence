@@ -1,0 +1,19 @@
+            IFCONFIG S - - -
+             NOTHING O - - -
+             NETWORK X O - -
+               START - O - -
+             SERVICE - X - -
+                GOOD - S - -
+            RECOVERY - X - -
+                BOOT - X - -
+              KERNEL - O - -
+                SUDO - X - -
+/ETC/INIT.D/NETWORKING - S - -
+                USER - X - -
+                MODE - X - -
+                  .. - X - S
+                CARD - X - -
+                  TY - - - S
+                  TA - - - S
+               DRIVE - - - O
+            W/JORDAN - - - O

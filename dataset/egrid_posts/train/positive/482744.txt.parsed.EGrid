@@ -1,0 +1,12 @@
+                KIND X - - - - -
+                FILE X - - - - -
+              SYSTEM X - - - - -
+              INSTAL O - - - - -
+           PARTITION - S - - - -
+            QTPARTED - X - - - -
+/DEV/MAPPER/CARBON-ROOT - S - - - -
+                 MAP - O - - - -
+                EXT3 - X - - - -
+         /DEV/MAPPER - - X - - -
+              DEVICE - - - - - X
+                 ONE - - - - - X

@@ -1,0 +1,21 @@
+                TIME X - -
+                 GUY X - -
+                  IM S - -
+                DISK O - -
+                SAME O - -
+              SYSTEM O - -
+                BOOT X X X
+                TEXT X - -
+                MODE X - -
+          INTERFACES O - -
+       CONFIGURATION O - -
+             PXEBOOT X - -
+               THING - X -
+               MEDIA - X -
+              SERVER - O -
+           INTEFACES - S -
+/ETC/NETWORK/INTERFACES - X -
+           REFERENCE - - O
+                ETH0 - - X
+                  .. - - X
+                DHCP - - O

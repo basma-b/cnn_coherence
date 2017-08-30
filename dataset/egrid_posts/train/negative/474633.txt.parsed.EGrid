@@ -1,0 +1,12 @@
+             WINDOWS - X -
+               LINUX - X -
+            PARALLEL - X -
+                 XEN - X -
+                 KVM - X -
+          VIRTUALBOX - X -
+               EGREP - X -
+             VMX|SVM - S -
+       /PROC/CPUINFO - O -
+              SYSTEM - - S
+          ENCRYPTION - - S
+                  TY - - O

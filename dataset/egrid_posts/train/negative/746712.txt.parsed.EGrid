@@ -1,0 +1,24 @@
+               ISSUE X - - - - - -
+            IFCONFIG X - - - - - -
+                  -A S - - - - - -
+                 ALL O - - - - - -
+             DEVICES O - - - - - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES X - - - - - -
+           INTERFACE X - - - - - -
+                EHT1 S - - - - - -
+                 MAC - X - - - - -
+             ADDRESS - X O O - - -
+           DIFFERENT - X - - - - -
+                ETH1 - - X - - - -
+/ETC/NETWORK/INTERFACES - - X - - - -
+                ETH2 - - X - - - -
+     NETWORK-MANAGER - - - O - - -
+             ADAPTER - - - X - - -
+                 BOX - - - X - - -
+              THERES - - - - - O -
+              OPTION - - - - - X -
+               CHMOD - - - - - X -
+                 ONE - - - - - S -
+                FIND - - - - - O -
+            ADDATION - - - - - X -
+          FIND/CHMOD - - - - - - O

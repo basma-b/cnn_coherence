@@ -1,0 +1,16 @@
+             PACKAGE X - - - - - - -
+             MANAGER X - - - - - - -
+                TOOL X - - - - - - -
+               STORE - X - - - - - -
+                 HDS - S - - - - - -
+               SPEED - - - X - - - -
+               SPACE - - - O O - - -
+                RAID - - - - - O - -
+           PARTITION - - - - - - O -
+             KEYFILE - - - - - - O -
+          PASSPHRASE - - - - - - O -
+                BOTH - - - - - - S -
+          ENCRYPTION - - - - - - X -
+                LOCK - - - - - - - X
+                DOOR - - - - - - - X
+                 KEY - - - - - - - O

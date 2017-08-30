@@ -1,0 +1,24 @@
+                FILE S - - - X X - - -
+    /ETC/RESOLV.CONF X - - - - - - - -
+                WARN O - - - - - - - -
+                 DNS O - - - - - - - -
+         NAMESERVERS X - - - - - - - -
+                KATE S - - - - - - - -
+/ETC/RESOLVCONF/RESOLV.CONF.D/HEAD O - - - - - - - -
+                LIST - X - - - - - - -
+             PROBLEM - S - - - - - - -
+               THERE - S - - - - - - -
+                NAME - X - - - - - - -
+              SERVER - O S - - - - - -
+              REBOOT - X - - - - - - -
+                 GUY - - O - - - - - -
+                  IP - - O - - - - - -
+                HEAD - - - - X - - - -
+                THAT - - - - - - S - -
+              CHANGE - - - - - - - X X
+                 WAY - - - - - - - S -
+              KERNEL - - - - - - - S -
+          DEPENDENCY - - - - - - - X X
+             PACKAGE - - - - - - - X O
+             APT-GET - - - - - - - - S
+        DIST-UPGRADE - - - - - - - - O

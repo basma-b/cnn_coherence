@@ -1,0 +1,9 @@
+             PROCESS X - - -
+              MEMORY X - - -
+                 USE O - - -
+            TERMINAL X - - -
+              NVIDIA - - X -
+              DRIVER - - O -
+                 ATI - - X -
+              REBOOT - - X -
+         XORG.CONFIG - - - O

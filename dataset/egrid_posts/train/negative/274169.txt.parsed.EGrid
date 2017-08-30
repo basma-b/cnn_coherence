@@ -1,0 +1,17 @@
+           PARTITION X - - - - - - - - - - -
+                 ETC - X - - - - - - - - - -
+                 SDA - - X - - - - - - - - -
+                 SDB - - X - - - - - - X - -
+                DISK - - - S - - X - - - - -
+                 ONE - - - O - - - - - - - -
+       /MEDIA/IPOD-1 - - - S - - - - - - - -
+               OTHER - - - O - - - - - - - -
+                 ALL - - - S - - - - - - - -
+                TYPE - - - - S - - - - - - -
+                 TWO - - - - - X - - - - - -
+               THERE - - - - - - - S - - - -
+                SDB1 - - - - - - - O - - - -
+              FORMAT - - - - - - - X - - - -
+           /DEV/SDB3 - - - - - - - O - - - -
+             GPARTED - - - - - - - - X - - -
+                 TIP - - - - - - - - - - - O

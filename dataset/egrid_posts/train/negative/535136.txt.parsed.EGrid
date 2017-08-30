@@ -1,0 +1,17 @@
+                8.10 O - - - - - - - -
+                BOOT - X - - - - - - -
+             NETWORK - X - - - - - - -
+             MANAGER - S - - - - - - -
+            WIRELESS - X X - - - - - -
+                CARD - O - - - - - - -
+             DRIVERS - O - - - - - - -
+              DRIVER - - X - - - - - -
+             BCM43XX - - X - - - - - -
+              REBOOT - - X - - - - - -
+          CONNECTION - - O - - - - - -
+            IFCONFIG - - - S - - - - -
+                  IP - - - X - - - - -
+          NAMESERVER - - - X - - - - -
+                WORK - - - X - - - - -
+               SENSE - - - - - O - - -
+               WORRY - - - - - - - X -

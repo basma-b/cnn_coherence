@@ -1,0 +1,17 @@
+                FONT X O -
+                DEJA - X -
+                  VU - S -
+               FONTS - O -
+                APPS - X -
+             SUPPORT - X -
+                 TTF - O -
+    /USR/SHARE/FONTS - X -
+                 APP - X -
+            ~/.FONTS - O -
+             ACCOUNT - X -
+           SYSTEM/DO - X -
+                ROOT - X -
+               PRIVS - O -
+              EXPORT - - X
+          DISPLAY=:0 - - O
+GNOME-CONTROL-CENTER - - O

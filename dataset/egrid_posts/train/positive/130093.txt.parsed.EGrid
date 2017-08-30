@@ -1,0 +1,24 @@
+              ANYONE X - - -
+             COMMAND X - - O
+              VOLUME X - - -
+                 MAN X - - -
+                MKFS O - - -
+                EXT2 S - - -
+              FORMAT O X - -
+                 PSP X S - -
+               FAT32 - O - -
+           SOMETHING - - O -
+           MKFS.VFAT - - X -
+/DEV/WHATEVERTHEHELLDEVICETHEPSPIS - - S -
+                FILE - - X -
+           DIRECTORY - - O -
+     /MEDIA/USBDISK/ - - O -
+            LOCATION - - - X
+           OPERATION - - - O
+             /DEVICE - - - X
+               POINT - - - X
+                IDEA - - - O
+              DEVICE - - - S
+                CLUE - - - O
+                 CAT - - - X
+          /ETC/FSTAB - - - X

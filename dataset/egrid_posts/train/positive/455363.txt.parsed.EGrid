@@ -1,0 +1,11 @@
+             SYMLINK O - - - - - -
+              DEVICE X - X O - - -
+                MINE X - - - - - -
+        /DEV/FOO/BAR - X - - - - -
+                THIS - - X - - - -
+                TAIL - - - X - - -
+                   * - - - - - X -
+                  NO - - - - - X -
+              TARGET - - - - - S -
+            MAKEFILE - - - - - S -
+                STOP - - - - - - X

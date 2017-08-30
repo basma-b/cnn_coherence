@@ -1,0 +1,12 @@
+             NETWORK X - - -
+             PRINTER O X - -
+                 SMB X - - -
+                CUPS O - - -
+                WORK - X - -
+             PROBLEM - - - O
+                 PAD - - - X
+              OPTION - - - O
+                GRUB - - - X
+                LINE - - - X
+GRUB_CMDLINE_LINUX_DEFAULT= - - - S
+              SPLASH - - - O

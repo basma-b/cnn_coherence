@@ -1,0 +1,15 @@
+                USER - X X - -
+            WWW-DATA - X X X -
+               GROUP - X X - -
+                 BDI - X X - -
+                SUDO - - - X -
+             USERMOD - - - X -
+                  -G - - - S -
+               FDISK - - - S -
+                  -L - - - S -
+                 ALL - - - X -
+                YEAH - - - X -
+              SYSTEM - - - O -
+     HPFS/NTFS/EXFAT - - - X -
+                   ' - - - - S
+                   > - - - - O

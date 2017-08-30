@@ -1,0 +1,13 @@
+                SUDO S - - - -
+           /DEV/SDXY S - - - -
+         JOURNALLING O - - - -
+              BACKUP O - - - -
+                BOOT X - - - -
+               DRIVE O - - - -
+                LIVE - X - - -
+               GUEST - X - - -
+                 ISO - - O - -
+         BOOT-DEVICE - - X - -
+                WORK - - - - X
+              SOURCE - - - - X
+           COMMUNITY - - - - X

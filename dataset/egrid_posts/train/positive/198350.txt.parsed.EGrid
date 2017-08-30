@@ -1,0 +1,16 @@
+               THING O - - -
+             APT-GET - X - -
+           NTFSPROGS - X - -
+                NTFS - O - -
+              BINARY - O - -
+                  .. - X - -
+           NTFSMOUNT - S - -
+             WHEREIS - S - -
+            /USR/BIN - O - -
+              DEVICE - X - -
+             NTFSCAT - X - -
+         NTFSCLUSTER - X - -
+             NTFSFIX - X - -
+            NTFSINFO - X - -
+              NTFSLS - X - -
+                   D - - - X

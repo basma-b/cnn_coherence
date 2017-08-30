@@ -1,0 +1,17 @@
+                 ATA - X - - - - -
+               DRIVE - X - X - S -
+                DEVS - X - - - - -
+                 SDA - - - - S X -
+                 ETC - - - - S - -
+                PATA - - - - S X -
+             FUJITSU - - - - X - -
+             SIEMENS - - - - X - -
+             MACHINE - - - - X - -
+                SHOW - - - - X - -
+            /DEV/SDA - - - - X - -
+              MASTER - - - - - X -
+            /DEV/SDB - - - - - X -
+                BIOS - - - - - O -
+              ENABLE - - - - - O -
+                MOBO - - - - - X -
+                MINE - - - - - - S

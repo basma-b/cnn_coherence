@@ -1,0 +1,23 @@
+               USERS S O - X -
+         DIRECTORIES O - - - -
+                ROOT X X - - -
+           PRIVILEGE X X - - -
+                 WAY - X - - -
+             SUDOERS - S - - -
+          PROVILEGES - S - - -
+          PRIVILEGES - O - - -
+                HOME - X - - -
+              FOLDER - X - - -
+                SUDO - X - - -
+                USER - X - - -
+            LOCATION - - - X -
+               SHARE - - - S -
+                FILE - - - - X
+     CHROOTDIRECTORY - - - - O
+               GROUP - - - - O
+/ETC/SSH/SSHD_CONFIG - - - - X
+               ERROR - - - - O
+            PROBLEMS - - - - X
+                INFO - - - - S
+                HELP - - - - X
+             PROBLEM - - - - O

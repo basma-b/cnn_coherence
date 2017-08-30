@@ -1,0 +1,25 @@
+                FILE X O - - X -
+           FULL-PATH X - - - - -
+                  CD X - - X - -
+             PROGRAM - O - - - -
+              FOLDER - O - O - -
+                WORK - X - - - -
+           DIRECTORY - X - - - -
+               ORDER - X - - - -
+                THAT - - X O - -
+/FOLDER/OTHERFOLDER/PROGRAM.EXE - - X - - -
+             DESKTOP - - X - - -
+              SCRIPT - - - O - -
+               ~/BIN - - - X - -
+            .DESKTOP - - - X - -
+/HOME/PUSER/.WINE/DRIVE_C/PROGRAM\ - - - X - -
+FILES/Налогоплательщик\ - - - S - -
+        INPUTDOC.EXE - - - S - -
+                   \ - - - O - -
+               SLASH - - - X - -
+                PATH - - - X - -
+            CYRILLIC - - - X - -
+               SPACE - - - X - -
+             PROBLEM - - - - S -
+                  SH - - - - X -
+                LINE - - - - O X

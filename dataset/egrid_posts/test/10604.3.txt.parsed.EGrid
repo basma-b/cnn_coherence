@@ -1,0 +1,15 @@
+             DNSMASQ X - - - - -
+             ADDRESS - - X - - -
+               WLAN1 - - X - - -
+            WIRELESS - - X - - -
+              ACCESS - - X - - -
+               POINT - - O - - -
+          INTERFACEW - - X - - -
+             COMMAND - - - S - -
+                SUDO - - - - X -
+            IWCONFIG - - - - X -
+               WLAN0 - - - - S -
+            MY-ESSID - - - - O -
+            DHCLIENT - - - - X -
+          ENCRYPTION - - - - X -
+              THINGS - - - - - S

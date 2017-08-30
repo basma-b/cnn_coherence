@@ -1,0 +1,14 @@
+               BIND9 S - - - - - -
+                FINE O - - - - - -
+             SERVICE X X - - - - -
+                BOOT - X - - - - -
+                 CLI - X - - - - -
+             COMMAND - - X - - - -
+              UBUNTU - - - X - - -
+          EQUIVOLENT - - - X - - -
+                 USE - - - - O - -
+          SCRIPTNAME - - - - S - -
+             DEFAULT - - - - S - -
+              SCRIPT - - - - O - -
+         /ETC/INIT.D - - - - X - -
+           RUNLEVELS - - - - X - -

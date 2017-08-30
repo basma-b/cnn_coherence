@@ -1,0 +1,13 @@
+              KERNEL - O - - - - - - - - -
+           MAKE-KPKG - X - - - - - - - - -
+                FILE - O - - - - - - - - -
+         LINUX-IMAGE - X - - - - - - - - -
+       LINUX-HEADERS - X - - - O - - - - -
+               .DEBS - - O - - - - - - - -
+            QUESTION - - - S - - - - - - -
+              SOURCE - - - X X X - - - - -
+                TREE - - - X O O - - - - -
+             CONCERN - - - - X - - - - - -
+              TARGET - - - - O O - - - - -
+        CHECKINSTALL - - - - - - - - - - X
+                SUDO - - - - - - - - - - X

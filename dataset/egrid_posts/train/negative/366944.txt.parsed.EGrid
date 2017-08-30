@@ -1,0 +1,13 @@
+                NTFS X - - - - - -
+           PARTITION O O - - - S -
+               TABLE X - - - - - -
+             WINDOWS - - - - - X -
+            RECOVERY - - - - - S -
+                 MBR - - - - - O -
+                  .. - - - - - X -
+                GRUB - - - - - X -
+              COUPLE - - - - - X -
+                DISK - - - - - S -
+                BOOT - - - - - X -
+                  CD - - - - - O -
+               GNOME - - - - - - X

@@ -1,0 +1,22 @@
+             COMMAND X O -
+          PERMISSION - S -
+                   > - S -
+                SUDO - S -
+/PROC/SYS/VM/SWAPPINESS - X -
+                REST - X -
+                LINE - X -
+                ROOT - X -
+                 TEE - X -
+                  -S - O -
+              APPROX - - X
+                  .. - - O
+              SERVER - - O
+               SOUND - - X
+                  OK - - X
+             PACKAGE - - O
+                FORM - - O
+              MIRROR - - O
+        PACKAGE.LZMA - - O
+            SEPERATE - - O
+                HTTP - - X
+//BETHESIGNAL.ORG/BLOG/2009/04/13/APPROX-PACKAGE-CACHING-UBUNTU-DEBIAN-LOVERS/ - - X

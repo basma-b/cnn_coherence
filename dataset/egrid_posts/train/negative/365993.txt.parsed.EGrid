@@ -1,0 +1,33 @@
+             COMMAND X - - - - - - - - - - - - - - - -
+    SERVICES/DAEMONS O - - - - - - - - - - - - - - - -
+             SERVICE - X X - O - - - - - - - - - - - -
+               START - X - - - - X - - - - - - - - - -
+                BOOT - X - - - - - - X X - - X - - - -
+                 USE - - X - - - - - - - - - - - - - -
+                 GUI - - X X - - - - - - - - - - - - -
+               THERE - - S - - - - - - - - - - - - - -
+                   > - - X - - - - - - - - - - - - - -
+                MENU - - X - - - - - - - - - - - - - -
+            NETATALK - - - O - S - O - - - - - - - - -
+             STARTUP - - - X - - - - - - - - - - - - -
+             VISIBLE - - - O - - - - - - - - - - - - -
+          EXPERIMENT - - - X - - - - - - - - - - - - -
+             PACKAGE - - - - S O - - - - - - - - - - -
+/ETC/INIT.D/NETATALK - - - - X - S - - - - - - - - - -
+              SCRIPT - - - - O - - - - - - - - - - - -
+                SUDO - - - - - - X - - - - - - - - - -
+              RESULT - - - - - - X - - - - - - - - - -
+              OUTPUT - - - - - - X - - - - - - - - - -
+                TIME - - - - - - - X X - - - - - - - -
+            RUNLEVEL - - - - - - - - O - - - - - - - -
+                  -R - - - - - - - - X - - - - - - - -
+NET.IPV4.IGMP_MAX_MEMBERSHIPS - - - - - - - - X - - X - - - - -
+               VALUE - - - - - - - - X - - - - - - - -
+    /ETC/SYSCTL.CONF - - - - - - - - X - - - - - X - -
+               THANX - - - - - - - - - X - - - - - - -
+                THIS - - - - - - - - - S - - - - - - -
+               IDEAS - - - - - - - - - - X - - - - - -
+NET.IPV4.IGMP_MAX_MEMBERSHIPS=4 - - - - - - - - - - - - - X - - -
+                 SET - - - - - - - - - - - - - - X - -
+               ADMIN - - - - - - - - - - - - - - - - X
+               CABLE - - - - - - - - - - - - - - - - O

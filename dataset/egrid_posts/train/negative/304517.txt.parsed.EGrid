@@ -1,0 +1,13 @@
+                 WAY O - - - -
+         NDISWRAPPER O - - - -
+  NDISWRAPPER-COMMON - X - O -
+            BINARIES - X - - -
+              ANSWER - - O - -
+              KERNEL - - O - -
+                SUDO - - - X -
+            APTITUDE - - - S -
+               LSPCI - - - - X
+                   | - - - - X
+                GREP - - - - X
+                  -I - - - - X
+                 VGA - - - - X

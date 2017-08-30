@@ -1,0 +1,24 @@
+              OUTPUT - X - - -
+               LSUSB - O - - -
+                   | - X - - -
+                TAIL - S - - -
+                   > - S - - -
+            CHECKOUT - X - - -
+PRODUCT/MANUFACTURER - X - - -
+                  ID - S O - -
+              PCMCIA - X - - -
+        MANUFACTURER - X X - -
+             PRODUCT - X X - -
+             NOTHING - X - - -
+             MESSAGE - X - - -
+             ATKBD.C - X - - -
+               PRESS - X - - -
+                 SET - X - - -
+                CODE - X - - -
+                0XAA - X - - -
+      ISA0060/SERIO0 - X - - -
+                  PC - - X - -
+                CARD - - X - -
+          CONTROLLER - - X - -
+                BOTH - - - - O
+               GNOME - - - - O

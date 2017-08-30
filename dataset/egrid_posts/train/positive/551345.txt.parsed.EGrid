@@ -1,0 +1,10 @@
+                USER X S - S
+               GROUP X - - S
+                SUDO - X - -
+             ADDUSER - X - X
+            YOURUSER - S - X
+                SAME - O - -
+           YOURGROUP - - - X
+        RENAN_SADDAM - - - X
+                 USE - - - X
+             NEITHER - - - O

@@ -1,0 +1,12 @@
+                 JOB X - - - -
+               LIMIT S - - - -
+                ROOT X - X - -
+               ACCES S - S - -
+           PRIVELEGE X - - - -
+                USER X - S X S
+                SUDO - - X - -
+               GROUP - - X - S
+            QUESTION - - X - -
+                THIS - - O - -
+              ACTION - - X - -
+            WWW-DATA - - - X -

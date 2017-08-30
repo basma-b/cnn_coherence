@@ -1,0 +1,16 @@
+             DEFAULT X - -
+                RULE O - -
+             TRAFFIC O - -
+                 ANY X - -
+                SAME X - -
+                 UFW S - -
+             DISABLE X - -
+               ISSUE S - -
+                  PC X - -
+                 LOG O - O
+                HIGH X - X
+            /VAR/LOG X X -
+                  YA - X -
+                FIEL - O -
+                FILE - O -
+                   H - - O

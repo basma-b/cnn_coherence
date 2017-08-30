@@ -1,0 +1,17 @@
+          DIFFERENCE X - - - - - - - - - - -
+       LINUX-HEADERS X - X - - - - - - - - -
+        LINUX-SOURCE X X X - - - - - - - - -
+             PACKAGE - S - - - - - - X - - -
+                FILE - O - - - - - - - - - -
+              KERNEL - - - X O - X X - - - -
+             MODULES - - - X - - - - - - - -
+             HEADERS - - - S - - - S - - - -
+              SOURCE - - - - O - O - - - - -
+                HELP - - - - - X - - - - - -
+              MODULE - - - - - - O O - - - -
+              WEBCAM - - - - - - X - - - - -
+               THERE - - - - - - - - X - - -
+              README - - - - - - - - X - - -
+                TIME - - - - - - - - - X - -
+               STATE - - - - - - - - - O - -
+              CLIENT - - - - - - - - - - - X

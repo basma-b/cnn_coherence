@@ -1,0 +1,15 @@
+             ABILITY X - - - - -
+           NECCECITY X - - - - -
+                 WPA X - - - - -
+             NETWORK X - X - - -
+                 WEP - - X - - -
+              REASON - - - X - -
+                CARD - - - S - -
+                 USE - - - X - -
+      WPA_SUPPLICANT - - - S - -
+     /VAR/LOG/SYSLOG - - - - O -
+              MODULE - - - - O -
+                APPS - - - - - X
+         PREFERENCES - - - - - O
+                SHOW - - - - - X
+             DESKTOP - - - - - O

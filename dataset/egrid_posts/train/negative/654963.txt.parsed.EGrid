@@ -1,0 +1,14 @@
+              SERVER S - - -
+             NETWORK X - - -
+            INTERNET - X X -
+                PORT - - S -
+              ROUTER - - X -
+              MANUAL - - O -
+                  PC - - O -
+                USER - - S -
+       192.168.0.102 - - O -
+         EXTERNAL-IP - - X -
+                ROOT - - - X
+               X:0:0 - - - X
+               /ROOT - - - X
+           /BIN/BASH - - - X

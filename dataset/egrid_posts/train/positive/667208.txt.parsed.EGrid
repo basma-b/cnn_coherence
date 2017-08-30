@@ -1,0 +1,18 @@
+          POSTGRESQL - O - - - -
+              CLIENT - X - - - -
+                LIBS - O - - - -
+          MANAGEMENT - X - - - -
+                TOOL - X - - - -
+            POSTGRES - X - - - O
+                 BIN - S - - - -
+                ROOT - X - - - -
+                 ANY - X - - - -
+               USERS - X - - - -
+            TERMINAL - - - S - -
+            PGADMIN3 - - - O - -
+               HTTPS - - - X - -
+//HELP.UBUNTU.COM/COMMUNITY/POSTGRESQL - - - X - -
+        INSTRUCTIONS - - - - S -
+                  SU - - - - O -
+                SUDO - - - - - X
+                PSQL - - - - - O

@@ -1,0 +1,16 @@
+                7.04 X - - -
+                7.10 X - - -
+              CUSTOM - X - -
+                ALSA - O - -
+              NVIDIA - X - -
+             DRIVERS - O - -
+                 USE - X - -
+      UPDATE-MANAGER - O - -
+        SOURCES.LIST - X - -
+        DIST-UPGRADE - O - -
+              CHANGE - - X -
+              ANYONE - - S -
+              REASON - - S -
+                 HDA - - X -
+                   > - - X -
+                 SDA - - X -

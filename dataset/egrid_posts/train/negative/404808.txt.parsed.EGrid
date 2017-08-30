@@ -1,0 +1,7 @@
+                 USE X -
+            SYNAPTIC O -
+            /USR/SRC X -
+      /USR/LOCAL/SRC O -
+                TYPE - X
+           ALSAMIXER - S
+            TERMINAL - X

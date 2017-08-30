@@ -1,0 +1,19 @@
+               FSTAB X - - - -
+              OM26ER - X - - -
+                SUDO - - S - -
+                  -U - - X - -
+         UPDATE-GRUB - - X - -
+                 NAH - - O - -
+             SERVICE - - O - -
+             COMMAND - - O - -
+      /MEDIA/NETWORK - - X - -
+                CIFS - - X - -
+CREDENTIALS=/ROOT/.SMBCREDENTIALS - - O - -
+      IOCHARSET=UTF8 - - S - -
+      FILE_MODE=0777 - - S - -
+       DIR_MODE=0777 - - S - -
+                  YA - - X - -
+                NAME - - - - X
+            PASSWORD - - - - S
+              SERVER - - - - X
+                MINE - - - - X

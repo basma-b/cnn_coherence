@@ -1,0 +1,27 @@
+              ANYONE X - - -
+               SETUP X - - -
+               PULSE X X - -
+        APPLICATIONS - X - -
+              DOESNT - S - -
+             DEVICES - O - -
+            PLAYBACK - X - -
+            ANYTHING - X - -
+              SYSTEM - O - -
+               BRAND - X - -
+                  PC - X - -
+              LAPTOP - X S -
+                HELP - - X -
+                ACER - - O -
+             OPTIONS - - X -
+       SND-HDA-INTEL - - X -
+          MODEL=ACER - - O -
+/ETC/MODPROBE.D/ALSA-BASE.CONF - - X -
+                WORK - - S -
+                LINE - - O -
+                CHIP - - S -
+            CONEXANT - - X -
+              OUTPUT - - - X
+                HTTP - - - X
+//ALSA-PROJECT.ORG/ALSA-INFO.SH - - - X
+                BASH - - - X
+      ./ALSA-INFO.SH - - - X

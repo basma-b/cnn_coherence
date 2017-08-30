@@ -1,0 +1,24 @@
+               GROUP X S - - S - - - - - - -
+         PERMISSIONS X - - - - - - - - - - -
+          SFTP-GROUP X - - - - - - - - - - -
+     READ-WRITE-EXEC X - - X - - - - - - - -
+            /VAR/WWW X O - - O - - - - - - -
+            HOME-DIR X - - - - - - - - - - -
+                FILE - - - X - - - X - - - -
+     DIR-PERMISSIONS - - - O - - - - - - - -
+            QUESTION - - - O - - X O - S - O
+              CHANGE - - - - - - S - - - - -
+                 BOT - - - - - - S - - - - -
+                LINK - - - - - - X - - - - -
+          PERMISSION - - - - - - - S - - - -
+              ACCESS - - - - - - - O - - - -
+                DIRS - - - - - - - X - - - -
+                 E.G - - - - - - - X - - - -
+                LUCK - - - - - - - - O - - -
+               ISSUE - - - - - - - - X - - -
+                THIS - - - - - - - - X - - O
+                NAME - - - - - - - - - - - O
+              ANDRES - - - - - - - - - - - X
+                USER - - - - - - - - - - - X
+                HTTP - - - - - - - - - - - X
+//WWW.DEBIAN-ADMINISTRATION.ORG/ARTICLES/94 - - - - - - - - - - - X

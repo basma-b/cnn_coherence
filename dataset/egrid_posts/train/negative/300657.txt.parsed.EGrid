@@ -1,0 +1,13 @@
+         PERMISSIONS - S - - -
+              REASON - X - - -
+           ROOT-PRIV - O - - -
+               CHOWN - - S - -
+               CHMOD - - S - -
+                SUDO - - X - -
+                BOOT - - - X -
+                MIKE - - - X -
+                THAT - - - - X
+                FILE - - - - X
+             DEFAULT - - - - X
+               SHELL - - - - S
+                  CD - - - - X

@@ -1,0 +1,11 @@
+                 DBO - O - -
+                SUDO - - X -
+           BUILD-DEP - - S -
+              PUREGE - - O -
+             PACKAGE - - X -
+  /ETC/X11/XORG.CONF - - X -
+                FILE - - O -
+                 WAY - - X -
+           XORG.CONF - - - O
+         RECONFIGURE - - - X
+                 ETC - - - X

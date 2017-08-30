@@ -1,0 +1,17 @@
+                THAT X - - - - - - -
+                FILE X - - O - X - X
+          -RWXRWXRWX S - - - - - - -
+                LINK O - - - - - - -
+            SYMLINKS - O - - - - - -
+                 FOO - X - - - - - -
+          /MYDIR/FOO - X - - - - - -
+                   @ - - S - - - - -
+               CHMOD - - - S - - - -
+              FRIEND - - - O - - - -
+              ENOUGH - - - X - - - -
+           DIRECTORY - - - X - - - -
+                THIS - - - - - S - -
+            BEHAVIOR - - - - - O - -
+                WORK - - - - - - - X
+               EMACS - - - - - - - S
+                COPY - - - - - - - O

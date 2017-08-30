@@ -1,0 +1,15 @@
+              LAPTOP X - -
+               DRIVE X - -
+                TALK - X -
+     MULTI-PARTITION - O -
+                 MBR - S -
+          EVERYTHING - X -
+          CLONEZILLA - X -
+                  .. - X -
+              SIMPLE - X -
+                  DD - X X
+         IF=/DEV/SDX - X -
+OF=/PATH/TO/DISK_IMAGE.IMG - S -
+                PIPE - - O
+               IMAGE - - X
+            COMPRESS - - O

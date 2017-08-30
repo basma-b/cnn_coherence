@@ -1,0 +1,12 @@
+                USER X - S - -
+             SUDOERS X - - - -
+                FILE X X - - -
+                ROOT - X - - -
+               GROUP - - X X -
+             ADDUSER - - X - -
+                   > - - S - -
+               ADMIN - - - S -
+             COMMAND - - - S -
+              SYSTEM - - - S -
+              UBUNTU - - - O -
+               10.10 - - - - X

@@ -1,0 +1,15 @@
+               INPUT - X - - - - -
+              DEVICE - X - - - - -
+             SECTION - S - - - - -
+           SYNAPTICS - X - - - - -
+            TOUCHPAD - X S - - - -
+              DRIVER - O - - - - -
+               MOUSE - X - - X - -
+                 ONE - O - - - - -
+                MICE - - S - - S -
+                TIME - - - X - - -
+            QUESTION - - - - X - -
+         /DEV/DEVICE - - - - S - -
+             DEVICES - - - - - O -
+                FILE - - - - - X -
+       ACTIONPARSNIP - - - - - - S

@@ -1,0 +1,14 @@
+                 MAP X - - - - -
+               SHARE X - - X - -
+             MACHINE X - - - - -
+             NETWORK X - - - - -
+                 SSH X - - - - -
+                 IVE - - S - - -
+         PERMISSIONS - - - S - -
+               SSHFS - - - X - -
+          MOUNTPOINT - - - X - -
+            SMB.CONF - - - O - -
+              METHOD - - - O - -
+                  .. - - - O - -
+                THAT - - - - X -
+        XSERVER-XORG - - - - - X

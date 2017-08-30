@@ -1,0 +1,24 @@
+         LIBGL1-MESA X - - - -
+  USR/LIB/LIBGL.SO.1 S - - - -
+  LIBGL1-MESA-GLIDE3 S - - - -
+  LIBGL1-MESA-SWRAST S - - - -
+          NVIDIA-GLX S - - - -
+   NVIDIA-GLX-LEGACY S - - - -
+   XORG-DRIVER-FGLRX S - - - -
+               PASTE O - - - -
+                TIME - O - - -
+                CARD - - S - -
+                LIST - - O - -
+/ETC/NETWORK/INTERFACE - - X - -
+             MANAGER - - X - -
+      S45MOUNTNFS.SH - - O - -
+          /ETC/RCS.D - - - X -
+            MOUNTNFS - - - - S
+                CIFS - - - - X
+               SMBFS - - - - O
+                 END - - - - X
+               START - - - - X
+                KIND - - - - S
+             PROBLEM - - - - X
+             UPSTART - - - - X
+             PROJECT - - - - X

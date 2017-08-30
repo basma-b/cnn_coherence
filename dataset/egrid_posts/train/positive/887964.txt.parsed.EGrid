@@ -1,0 +1,9 @@
+                TEST O - - - - -
+              KERNEL X - X - - -
+                BOOT X X - - - -
+             OPTIONS O O O - - -
+               CHECK - O - - - -
+                 USE - - X - - -
+             COMMAND - - X - - -
+                 CAT - - - X - -
+       /PROC/CMDLINE - - - S - -

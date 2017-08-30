@@ -1,0 +1,13 @@
+            RECOVERY X - X - -
+                BOOT X - - - -
+                MODE S - X - -
+               CRASH O - - - -
+               LOGIN S - - - -
+              STREAM X - - - -
+              ERRORS X O - - -
+        CHECK/REPAIR - X - - -
+                DISK - S - - -
+                TTY1 - X - - -
+                FSCK - - O - -
+                THAT - - - - S
+                 ALL - - - - O

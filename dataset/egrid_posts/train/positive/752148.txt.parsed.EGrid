@@ -1,0 +1,15 @@
+                PATH X - - - -
+               10.04 X - - - -
+                   > X - - - -
+    APT/SOURCES.LIST - X - - -
+            APTITUDE - X - - -
+        DIST-UPGRADE - O - - -
+             UPGRADE - - O - -
+              BACKUP - - - X -
+               /ETC/ - - - S -
+               CLEAN - - - O -
+             RESTORE - - - X -
+               10.10 - - - - X
+                WORK - - - - O
+             WOULDNT - - - - S
+               ISSUE - - - - O

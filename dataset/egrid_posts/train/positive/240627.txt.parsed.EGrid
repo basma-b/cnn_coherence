@@ -1,0 +1,22 @@
+                CRON S - - - - -
+            PROBLEMS - X - - - -
+                PATH - - X - - -
+                 TOP - - X X - -
+               ENTRY - - X O - -
+             CRONTAB - - - X S X
+       PATH=WHATEVER - - - O - -
+                ROOT - - - X X -
+                THIS - - - S - -
+                FILE - - - X - -
+PATH=/USR/LOCAL/SBIN - - - X - -
+      /USR/LOCAL/BIN - - - X - -
+               /SBIN - - - X - -
+                /BIN - - - X - -
+           /USR/SBIN - - - X - -
+            /USR/BIN - - - S - -
+                SUDO - - - X - X
+                THAT - - - - X -
+                  -E - - - - X -
+                  -L - - - - - S
+                   * - - - - - X
+     /USR/BIN/BACKUP - - - - - X

@@ -1,0 +1,47 @@
+                 CAP S - - - - - -
+                LOCK S - - - - - -
+               FLASH O - - - - - -
+             SHUTOFF X - - - - - -
+              KERNEL - X X - - - -
+               ERROR - X - - - - -
+               PANIC - - X - - - -
+                THIS - - S - - - -
+            SHUTDOWN - - X - - - -
+              OUTPUT - - O X - - -
+                HTTP - - X - - - -
+//WWW.ALSA-PROJECT.ORG/ALSA-INFO.SH - - X - - - -
+      ./ALSA-INFO.SH - - X - - - -
+//WWW.ALSA-PROJECT.ORG/DB/ - - X - - - -
+F=7846E2A9B48B93B827CE0540746A0F251061D01E - - - S - - -
+             OPTIONS - - - X - - -
+       SND-HDA-INTEL - - - X - - -
+          MODEL=ACER - - - X - - -
+                SUDO - - - X - - -
+                 TEE - - - X - - -
+                FILE - - - X - - -
+               HTTPS - - - X - - -
+              REBOOT - - - S - - -
+                KEEP - - - O - - -
+                DIFF - - - X - - -
+          PULSEAUDIO - - - X - - -
+              VOLUME - - - X - - -
+             CONTROL - - - O - - -
+               METER - - - S - - -
+                LINE - - - O - - -
+                 BUG - - - X - - -
+              REPORT - - - X - - -
+                SONG - - - - X - -
+               DANCE - - - - O - -
+                THAT - - - - - X -
+               THERE - - - - - S -
+            EXCHANGE - - - - - X -
+                 USE - - - - - O -
+                HOST - - - - - X -
+                 KEY - - - - - S -
+             SESSION - - - - - X -
+          ENCRYPTION - - - - - X -
+      AUTHENTICATION - - - - - X -
+             ENCRYPT - - - - - X -
+               NONCE - - - - - X -
+           SOMETHING - - - - - X -
+                TIME - - - - - - X

@@ -1,0 +1,11 @@
+              SERVER O - -
+           INTERFACE X - -
+               SETUP O - -
+                  IP X - O
+             TRAFFIC O - -
+                 IP3 X - -
+                SUDO - S -
+       255.255.255.0 - S -
+             EXAMPLE - X -
+            IPTABLES - O -
+                RULE - O -

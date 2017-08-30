@@ -1,0 +1,48 @@
+             SYMLINK S - - - -
+                PATH X - - - -
+                FILE O - - - -
+                HOME X - - - -
+           DIRECTORY S - - - -
+              OTHERS X - - - -
+EDIT/PREFERENCES/EDITOR X - - - -
+          TAB/ENABLE X - - - -
+           AUTOMATIC X - - - -
+         INDENTATION X - - - -
+               THERE S - - - -
+               ALERT X X - - -
+                BASH X - - - -
+               ALIAS O O O - -
+            MAVERICK X - - - -
+           ~/.BASHRC X X S - -
+   /ETC/SKEL/.BASHRC X - - - -
+             COMMAND O S - - -
+        NOTIFICATION O - - - -
+                TIME - O - - -
+            TERMINAL - O S - -
+                HTTP - S O - X
+                WORD - X - - -
+            SENTENCE - X - - -
+                 END - X - - -
+               QUOTE - X - X -
+              SOURCE - O - - -
+                THAT - - S - -
+              INSTAL - - O - -
+                 RUN - - S - -
+                 BUG - - X - -
+                PAGE - - O - -
+               GUIDE - - O - -
+                 OWN - - X - -
+                INFO - - O - -
+              REPORT - - X - -
+               HTTPS - - O - -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/BASH/+BUG/315932 - - O - -
+//PASTEBIN.COM/DYZM5T32 - - O - -
+                LINE - - O - -
+             .BASHRC - - S - -
+                  -I - - S - -
+                  .. - - X - -
+                 ONE - - - O -
+               ERROR - - - O -
+             PROBLEM - - - O -
+//PASTEBIN.COM/BYD6DJF3 - - - - X
+               DELAY - - - - X

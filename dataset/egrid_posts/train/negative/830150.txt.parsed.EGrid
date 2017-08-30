@@ -1,0 +1,13 @@
+                ROOT S - - - - - - -
+               OWNER X - - X - - - -
+                 GID O - - - - - - -
+                FILE X - - - - - - -
+         PERMISSIONS - - - - S O - -
+               GROUP - - - - X - - -
+               THESE - - - - - S - -
+             -RWXRWX - - - - - X - -
+      SUBSCRIBER.PHP - - - - - - S -
+               ERROR - - - - - - O -
+          PERMISSION - - - - - - S -
+                DATA - - - - - - - X
+          CORRUPTION - - - - - - - X

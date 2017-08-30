@@ -1,0 +1,9 @@
+ VERSION_FIND_LATEST - S - - -
+        /ETC/GRUB.D/ - X - - -
+                   * - X - - -
+/USR/SBIN/GRUB-MKCONFIG - X - - -
+/USR/SBIN/UPDATE-GRUB - X - - -
+                 … - S - - -
+         UPDATE-GRUB - O - - -
+                  .. - - - X -
+      RECOMMENDATION - - - - O

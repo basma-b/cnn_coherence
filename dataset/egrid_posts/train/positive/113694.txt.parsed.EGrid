@@ -1,0 +1,16 @@
+            QUESTION X - - - - -
+              UBUNTU S - - - - -
+                NTFS X - - - - -
+           PARTITION O - - - - -
+         /MEDIA/HDA1 X - - - - -
+                USER S X - - - -
+               CHMOD - O - - - -
+                HELP - X - - - -
+             OPTIONS - O - - - -
+                AUTO - X - - - -
+             DEFAULT - X - - - -
+               USERS - - X - - -
+                  RW - - - X - -
+           UMASK=000 - - - S X -
+                  RO - - - O - -
+               FSTAB - - - - - X

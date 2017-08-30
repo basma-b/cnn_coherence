@@ -1,0 +1,6 @@
+                COPY O - - X
+               DRIVE X - - -
+           PARTITION X - - -
+               ITEMS O - - -
+               IMAGE - - - O
+                FILE - - - X

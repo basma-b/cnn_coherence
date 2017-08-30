@@ -1,0 +1,21 @@
+              ANYONE X - - - - - - - -
+              UBUNTU - S - - - - - - -
+              FREEZE - O - - - - - - -
+              NVIDIA - X - - - - - - -
+             DRIVERS - O - - - - - - -
+                 YES - - X - - - - - -
+        RENDERACCELL - - S - - - - - -
+                 BUG - - O - - - - - -
+              MEMORY - - - X - - - - -
+                LEAK - - - X - - - - -
+               CRASH - - - X - - - - -
+           XORG.CONF - - - - X - - - -
+              DIABLE - - - - S - - - -
+           RENDERING - - - - O - - - -
+                LINE - - - - X - - - -
+                 ONE - - - - - X - - -
+ALLOWGLXWITHCOMPOSITE - - - - - - S - -
+              OPTION - - - - - - X - -
+         RENDERACCEL - - - - - - X - -
+           COMPOSITE - - - - - - - X -
+              ENABLE - - - - - - - - O

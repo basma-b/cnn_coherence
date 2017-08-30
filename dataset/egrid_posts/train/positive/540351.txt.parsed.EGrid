@@ -1,0 +1,17 @@
+               MOUNT X - - - - -
+               FLASH X X - - - -
+               DRIVE S X - - - -
+              SWITCH - S - - - -
+          READ/WRITE - O - - - -
+               DUNNO - - X - - -
+                SUDO - - S - S -
+            /DEV/SDA - - X - - -
+    /MEDIA/SOMETHING - - O - - -
+                 SDA - - X - - -
+                 ONE - - O - O -
+               /DEV/ - - X - - -
+             /DEV/SD - - - - S -
+                   * - - - - X -
+   /MEDIA/FLASHDRIVE - - - - O -
+                  .. - - - - - X
+             COMMAND - - - - - X

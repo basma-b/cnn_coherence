@@ -1,0 +1,10 @@
+              KERNEL O - - - X O
+              UBUNTU X - - - - -
+              INITRD - O - - - -
+              THINGS - - O - - -
+                EXT3 - - X - - -
+              MODULE - - X - - -
+                  FS - - - - S -
+              STATIC - - - - O -
+                GRUB - - - - - S
+          UNCOMPRESS - - - - - X

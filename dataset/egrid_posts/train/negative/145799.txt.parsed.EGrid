@@ -1,0 +1,25 @@
+      UPDATE/UPGRADE O - - - - - - -
+              REBOOT X - - - - - - -
+                LOAD X - - - - - - -
+             DRIVERS O - - - - - - -
+                ROOT X - - - - - - -
+              SYSTEM O - - - X - - -
+            RECOVERY - X - - - - - -
+                MODE - O - - - - - -
+                GRUB - X - - - - - -
+                LINE - X - - - - - -
+                 SAY - S - - - - - -
+              KERNEL - X - - - - - -
+               PANIC - S - - - - - -
+                SYNC - S - - - - - -
+                INIT - O - - - - - -
+               THERE - - X - - - - -
+              FORMAT - - - X - - - -
+                 ALL - - - O - - - -
+                   = - - - - X - - -
+              UPDATE - - - - X - - -
+           SOMETHING - - - - X - - -
+            ANYTHING - - - - - - S -
+         /ETC/ASOUND - - - - - - X -
+                HTTP - - - - - - - X
+//ALSA.OPENSRC.ORG/.ASOUNDRC - - - - - - - X

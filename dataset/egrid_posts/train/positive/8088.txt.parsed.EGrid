@@ -1,0 +1,14 @@
+GNOME-VOLUME-MANAGER X - - - -
+                  CD X - - - -
+           INSERTION X - - - -
+                 USB - X - - -
+              EVENTS - O - - -
+               CHECK - O - - -
+            /ETC/HAL - X - - -
+  HAL-DEVICE-MANAGER - - S - -
+              DEVICE - - X - -
+             MANAGER - - X - -
+               MENUS - - X - -
+               AFAIK - - X - -
+                USER - - X - -
+                 YES - - - - X

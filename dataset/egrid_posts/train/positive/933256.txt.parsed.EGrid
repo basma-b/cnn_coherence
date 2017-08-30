@@ -1,0 +1,25 @@
+                 USE X - - - - - -
+                  DD S - - - - - -
+              BACKUP O - - - - - -
+              ROOTFS X - - - - - -
+                ROOT X - - - - - -
+                  FS S - - - - - -
+           /DEV/SDA3 X - - - - - -
+              SYNTAX S - - - - - -
+        OF=/DEV/SDA6 X - - - - - -
+             BS=8192 O - - - - - -
+                 HEY - - - X - - -
+                 GUY - - - X - - -
+            QUESTION - - - X - - -
+                  .. - - - S - - -
+               BIGGY - - - S - - -
+           DIRECTORY - - - O - - -
+                CRUD - - - - X - -
+                 -RF - - - - - X -
+/VAR/LOCAL/TV_GRAB_AU/ - - - - - O -
+                 VAR - - - - - O -
+             WOULDNT - - - - - S -
+                /VAR - - - - - O -
+                 NEW - - - - - O -
+                 TAR - - - - - - X
+                CFVZ - - - - - - S

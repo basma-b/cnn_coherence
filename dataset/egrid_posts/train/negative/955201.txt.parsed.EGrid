@@ -1,0 +1,15 @@
+          NVIDIA-GLX S - - - - - - - - -
+        XLIBMESA-GLU O - - - - - - - - -
+              NVIDIA O X - X - - - - - -
+                  NV O - - - - - - - - -
+        ACCELERATION X - - - - - - - - -
+              DRIVER - O - O - - - - - -
+                FORM - - X - - - - - - -
+                 DEB - - X - - - X O - -
+            ANYTHING - - X - - - - X - -
+              SOURCE - - X - - - X - - -
+              KERNEL - - - - - O - - - -
+            CONFLICT - - - - - - O - - -
+             APT-GET - - - - - - - - - X
+                SUDO - - - - - - - - - X
+    SEAHORSE-PLUGINS - - - - - - - - - X

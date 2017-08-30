@@ -1,0 +1,17 @@
+              BRIDGE O - - -
+                  OK O - - -
+                NAME X - - -
+             OPTIONS - O - -
+               GUIDE - - O -
+               HTTPS - - O -
+//HELP.UBUNTU.COM/COMMUNITY/GRUB2/INSTALLING - - O -
+              CHROOT - - X -
+                STEP - - X -
+        GRUB-INSTALL - - O -
+             GRUB-PC - - X X
+                DATE - - - X
+                 RUN - - - X
+                BOOT - - - S
+              SECTOR - - - S
+               DRIVE - - - X
+             UPGRADE - - - O

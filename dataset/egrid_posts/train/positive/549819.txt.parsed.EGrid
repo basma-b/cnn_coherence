@@ -1,0 +1,14 @@
+                TIME X -
+             APACHE2 X -
+       CONFIGURATION X -
+                FILE X -
+/ETC/APACHE2/APACHE2.CONF O -
+           DIRECTORY X -
+                 HAT X -
+           REINSTALL S -
+                SUDO X -
+             APT-GET S -
+    APACHE2.2-COMMON S -
+             COMMAND X -
+              CHANGE O -
+             NOTHING - X

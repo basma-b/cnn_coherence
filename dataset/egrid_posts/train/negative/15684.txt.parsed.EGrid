@@ -1,0 +1,22 @@
+/ETC/CUPS/CUPSD.CONF X - - - -
+                  IP X - - - -
+             CLIENTS X - - - -
+                HTTP X - - X -
+/ETC/CUPS/CUPSSD.CONF O - - - -
+              SERVER X - - - -
+             DEFAULT - X - - -
+           LOCALHOST - X - - -
+              CHANGE - X - - -
+                PORT - S - - -
+           192.168.1 - X X - -
+            LOCATION - - X - -
+                   * - - X S -
+                   < - - X - -
+                   / - - X - -
+                   > - - X - -
+             SECTION - - X - -
+               RANGE - - S - -
+          CUPSD.CONF - - - O -
+             COMMENT - - - X -
+  //PASTEBIN.CA/3961 - - - X -
+                  CD - - - - O

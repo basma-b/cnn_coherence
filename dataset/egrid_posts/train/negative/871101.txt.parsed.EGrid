@@ -1,0 +1,16 @@
+               THERE S - - - - -
+               BREAK X - - - - -
+        DEPENDENCIES O - - - - -
+               FORCE - X - - - -
+          INDIVIDUAL - X - - - -
+             UPGRADE - O - - - -
+                STOP - S - - - -
+                  TH - - X - - -
+              HICCUP - - O - - -
+   LIBPARTED0DEBIAN1 - - S - - -
+             PACKAGE - - X - - -
+                NAME - - O - - -
+                FROM - - - S - -
+          LIBPARTED0 - - - O - -
+             APT-GET - - - O - -
+            UNIVERSE - - - - - X

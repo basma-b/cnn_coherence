@@ -1,0 +1,17 @@
+           PARTITION O - - - -
+           SOMETHING O - - - -
+               /HOME S - - - -
+                  .. O - - - -
+                HOME - X - - -
+          /ETC/FSTAB - S - - -
+                UUID - X - - -
+                UNIT - - S - -
+          FILESYSTEM - - X - -
+                THAT - - - X S
+                 PCI - - - X -
+                  ID - - - X -
+                 WAY - - - - O
+              DRIVER - - - - X
+               LINUX - - - - S
+                 IRC - - - - X
+            NICKNAME - - - - O

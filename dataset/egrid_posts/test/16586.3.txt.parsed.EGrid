@@ -1,0 +1,11 @@
+           VMWGFX.KO X - - - -
+           INITRAMFS X - - - -
+              VMWARE - O - - -
+              MODULE - O - - -
+                AREA - X - - -
+    UPDATE-INITRAMFS - S - - -
+              KERNEL - X - - -
+             VERSION - O - - -
+                CARD - - - X -
+                HTTP - - - X -
+           T=2084342 - - - - X

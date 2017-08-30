@@ -1,0 +1,15 @@
+                USER O - - - - -
+               GROUP X - - - - -
+                   < S - O - - -
+                   > O - - - - -
+             PROBLEM - O - - - -
+                SUDO - - X O - -
+                 -AG - - X - - -
+                  .. - - O - - -
+                  -A - - S - - -
+               ERROR - - X - - -
+                HOST - - X - - -
+            HOSTNAME - - - O - -
+       /ETC/HOSTNAME - - - - X -
+          /ETC/HOSTS - - - - O -
+          /ETC/GROUP - - - - - X

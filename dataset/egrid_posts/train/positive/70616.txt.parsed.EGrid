@@ -1,0 +1,27 @@
+                TYPE X - - - - - - - - - -
+                SUDO X - - - - - - - - - -
+             APT-GET S - - - - - - - - - -
+               TFTPD O - S - O O - - - - -
+                MODE X X - - X - - - - X -
+               AFAIR - - X - - - - - - - -
+             DEFAULT - - X - - - - - - - -
+              SERVER - - O - - - - X - O -
+             MACHINE - - X - - - - - - - -
+              XINETD - - X - O - - - - - -
+    /ETC/HOSTS.ALLOW - - - O - - - - - - -
+         CONNECTIONS - - - O - - - - - - -
+                PORT - - - X - - - - - - -
+               INETD - - - - X - - - - - -
+                  YO - - - - S - - - - - -
+              DAEMON - - - - X - - - - - -
+                 MAN - - - - - X - - - - -
+            IN.TFTPD - - - - - X - - - - -
+/ETC/INIT.D/TFTPD-HPA - - - - - - S - - - -
+              ROUTER - - - - - - - X X S -
+            FIRMWARE - - - - - - - O O - -
+                   * - - - - - - - O O S -
+                 BOX - - - - - - - X X X -
+               ATFTP - - - - - - - - X S -
+              CLIENT - - - - - - - - X O O
+                TFTP - - - - - - - - - O -
+                OOPS - - - - - - - - - X -

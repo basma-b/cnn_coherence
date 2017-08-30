@@ -1,0 +1,32 @@
+               SETUP X - - - - -
+             APACHE2 O - - - - -
+             USERDIR O - - - - -
+                9.04 X - - - - -
+          PERMISSION O - - X - -
+              ACCESS X - - O - -
+                HTTP X - - - - -
+         MOD_USERDIR O X - O X -
+                FILE O - - - - -
+       ~/PUBLIC_HTML X - - - - -
+              APACHE - O - - - -
+                POST - - X - - -
+               ERROR - - O O - -
+/VAR/LOG/APACHE2/ERROR.LOG - - X - - -
+                 USE - - - X - -
+            PASTEBIN - - - X - -
+                   | - - - S - -
+//FOSWIKI.ORG/SYSTEM/COMPLETEDOCUMENTATION - - - X - -
+                OUPS - - - S - -
+                 JUN - - - X - -
+              CLIENT - - - X - -
+                IDEA - - - O - -
+        DOMAIN/~USER - - - - S -
+/HOME/USER/PUBLIC_HTML - - - - X -
+           SOMETHING - - - - O -
+                   < - - - - X -
+           DIRECTORY - - - - X X
+                   * - - - - X -
+                   > - - - - X -
+/ETC/APACHE2/MODS-ENABLED/USERDIR.CONF - - - - X -
+             DESKTOP - - - - - X
+             PROGRAM - - - - - O

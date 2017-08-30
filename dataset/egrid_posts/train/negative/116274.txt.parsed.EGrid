@@ -1,0 +1,17 @@
+             NETWORK X - O - -
+                CARD O - - - -
+                DHCP X - - - -
+            DHCLIENT - X - - -
+                 ETH - S - - -
+          STOP/START - O - - -
+               START - - S - -
+                SUDO - - - S -
+                 USE - - - X -
+           SOMETHING - - - X O
+             PROGRAM - - - O -
+            PASSWORD - - - O -
+              FEDORA - - - S -
+             DISTROS - - - S -
+                ROOT - - - - X
+                 NOW - - - - X
+             COMMAND - - - - X

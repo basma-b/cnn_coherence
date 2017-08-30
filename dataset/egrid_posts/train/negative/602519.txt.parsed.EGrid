@@ -1,0 +1,15 @@
+             NETWORK X - - -
+          INTERFACES S - - -
+             NOTHING - O - -
+/ETC/INIT.D/NETWORKING - O - -
+                WINE - - - S
+                ALSA - - - X
+                THIS - - - S
+                WAVE - - - X
+                 OUT - - - X
+             DEVICES - - - X
+             WINECFG - - - X
+              DMIX:0 - - - S
+                 USB - - - X
+               AUDIO - - - S
+           SOMETHING - - - O

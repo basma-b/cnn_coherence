@@ -1,0 +1,15 @@
+               THESE S -
+              REBOOT X -
+                 CAT X -
+/PROC/SYS/NET/IPV6/CONF/ S -
+       /DISABLE_IPV6 O -
+             DEFAULT X -
+               ROUTE O -
+                   R O -
+                 LAN X -
+                HOST X -
+               WORLD O -
+               THERE S -
+    /ETC/RESOLV.CONF O -
+                HTTP - X
+//PASTE.POCOO.ORG/SHOW/267424/ - X

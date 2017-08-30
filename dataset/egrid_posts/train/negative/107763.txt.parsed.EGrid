@@ -1,0 +1,13 @@
+           FIRSTUSER O - - - - -
+              UBUNTU X - - - - -
+                USER - O - - - -
+               RIGHT - X - - - -
+                 ONE - X - - - -
+                 PID - - - S - -
+/USR/LIB/CUPS/BACKEND/IPP - - - X - -
+              SIGNAL - - - X - -
+CUPS-ADD-MODIFY-PRINTER - - - - X -
+        UNAUTHORIZED - - - - S -
+             PRINTER - - - - O -
+                   U - - - - - X
+               THERE - - - - - X

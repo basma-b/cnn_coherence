@@ -1,0 +1,6 @@
+ GRUB_CMDLINE_LINUX= X - -
+                GRUB X - -
+               /BOOT X - -
+                JSUT - - X
+                TEXT - - X
+               ENTRY - - O

@@ -1,0 +1,11 @@
+                DISK - X - - -
+                SWAP - X X X -
+           PARTITION - X - O -
+                TIME - - X - -
+            PRIORITY - - - X -
+          /ETC/FSTAB - - - X -
+                LOAD - - - X -
+             BALANCE - - - X -
+                FILE - - - O -
+            WISHLIST - - - X -
+                VBOX - - - - X

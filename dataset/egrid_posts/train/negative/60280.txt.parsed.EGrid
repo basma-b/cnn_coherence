@@ -1,0 +1,12 @@
+              KERNEL X - X - -
+           THREADING O - - - -
+               HT=ON - - O - -
+                BOOT - - X - -
+         COMMANDLINE - - X - -
+                 CPU - - S - -
+                  HT - - S - -
+               DMESG - - S - -
+             DISABLE - - X - -
+               SENSE - - - - X
+              SCRIPT - - - - O
+                THIS - - - - X

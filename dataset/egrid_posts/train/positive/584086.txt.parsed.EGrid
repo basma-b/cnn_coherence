@@ -1,0 +1,23 @@
+             EXT2-FS S - - - -
+                HDA1 X - - - -
+             FEATURE X - - - -
+             GPARTED - O - - -
+              VIEWER - X - - -
+                PART - X - - -
+             PACKAGE - X - - -
+             MANAGER - X - - -
+                CANT - S - - -
+                 SYS - S - - -
+             SUPPORT - O - - -
+              LIVECD - O - X -
+            TERMINAL - O - - S
+            UNIVERSE - - X - S
+          MULTIVERSE - - X - X
+               REPOS - - S O -
+               DUNNO - - - S -
+                   # - - - - X
+                SUDO - - - - X
+/ETC/APT/SOURCES.LIST - - - - X
+           UNCOMMENT - - - - X
+                LINE - - - - X
+             APT-GET - - - - S

@@ -1,0 +1,16 @@
+              NVIDIA X X - -
+            TERMINAL S - - -
+          NO-BRAINER O - - -
+                SUDO X - - -
+             APT-GET S - - -
+               -LSB- S - - -
+                NAME O - - -
+               -RSB- S - - -
+      NVIDIA-XCONFIG X - - -
+             PACKAGE S O - -
+                PART O - - -
+             COMMAND - O - -
+      NVIDIA-CURRENT - - - X
+/USR/LIB/NVIDIA-CURRENT/BIN/NVIDIA-XCONFIG - - - S
+              VICTIM - - - O
+                TYPO - - - X

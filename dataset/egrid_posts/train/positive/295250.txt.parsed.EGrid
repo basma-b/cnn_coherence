@@ -1,0 +1,10 @@
+/BOOT/GRUB/MENU.LIST - X -
+              NOAPIC - O -
+             DEFAULT - X -
+              KERNEL - X -
+          PARAMETERS - X -
+                 WAY - O -
+                THAT - - X
+              NOACPI - - X
+              SPLASH - - X
+                   < - - X

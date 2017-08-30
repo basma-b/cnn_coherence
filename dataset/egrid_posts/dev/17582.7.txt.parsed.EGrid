@@ -1,0 +1,22 @@
+                   < O X - - -
+             COMMAND O S X - -
+              PTABLE X - - - -
+                PING X - - - -
+             REQUEST O - - - -
+                 ONE X - - - -
+                ZERO X - - - -
+                   > - O - - -
+NET.IPV4.ICMP_ECHO_IGNORE_ALL - S - - -
+                THAT - - S - -
+                 ARE - - O - -
+              CHANGE - - X - -
+             DEFAULT - - X - -
+               STATE - - S - -
+                BOOT - - X - -
+            USERNAME - - X - -
+                ROOT - - X X -
+              SOURCE - - - - X
+                CODE - - - - S
+                LIRC - - - - X
+             PACKAGE - - - - X
+         LIRC_ATIUSB - - - - O

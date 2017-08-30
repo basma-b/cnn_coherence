@@ -1,0 +1,10 @@
+                   > X - - - -
+              KERNEL - S - - -
+                BOOT - X X - -
+                FSCK - X - - -
+            /DEV/HDA - X - O -
+                   * - O - - -
+            /DEV/SDA - X - X -
+              LIVECD - - X - -
+           PARTITION - - O - -
+          /ETC/FSTAB - - - O -

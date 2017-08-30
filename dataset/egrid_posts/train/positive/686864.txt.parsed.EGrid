@@ -1,0 +1,11 @@
+             WINDOWS O - - - -
+                GRUB X X X - -
+          BOOTLOADER O - - - -
+                THIS - S - - -
+               SHELL - O X - -
+                BOOT - X X - -
+                MENU - X - - -
+/BOOT/GRUB/GRUB.CONF - O - - -
+                TYPE - - X - -
+             COMMAND - - O - -
+            MENU.LST - - - - O

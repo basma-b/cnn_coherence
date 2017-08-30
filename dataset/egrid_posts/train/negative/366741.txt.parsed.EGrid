@@ -1,0 +1,10 @@
+             NETWORK X - - - - -
+                CARD X - - - - -
+                 USE X - - - - -
+            IWCONFIG X - - - - -
+               WLAN0 - X - - - -
+                IFUP - S - - - -
+              SCRIPT - O - - - -
+                  OK - S - - - -
+            IPTABLES - - - - - X
+            FIREWALL - - - - - X

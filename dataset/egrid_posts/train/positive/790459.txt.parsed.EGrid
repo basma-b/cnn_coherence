@@ -1,0 +1,18 @@
+                DONT X - - - - - - - - - -
+                 KEY X - - - - - - - - - -
+               THING O - - - - - - - - - -
+               DRIVE O - - - - - - - X - -
+           SOMETHING X - - - - - - - - - -
+          PASSPHRASE - - - O - - - - - - -
+ECRYPTFS-UNWRAP-PASSPHRASE - - - S - - - - - - -
+            PASSWORD - - - X - - - O - - -
+                 HRM - - - X - - - - - - -
+                BOOT - - - X X - - - - - -
+                PASS - - - - - X - - - - -
+              PHRASE - - - - - X - - - - -
+           PASSWORDS - - - - - - X O - - -
+                CASE - - - - - - - X - - -
+           VARIATION - - - - - - - X - - -
+                TYPE - - - - - - - X - - -
+              FOLDER - - - - - - - - X - -
+.ECRYPTFS/WRAPPED-PASSPHRASE - - - - - - - - - O -

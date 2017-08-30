@@ -1,0 +1,17 @@
+              KERNEL X X S S -
+              DRIVER X - - - -
+              MODULE - S - - -
+                LOAD - O - - -
+              REASON - X - - -
+ /ETC/INIT.D/VBOXDRV - - X - -
+               SETUP - - X - -
+                ROOT - - X - -
+              PERSON - - - S -
+          VIRTUALBOX - - - X -
+             COMMAND - - - X -
+                  BS - - - X -
+              COURSE - - - O -
+        REPOSITORIES - - - X -
+           APT-CACHE - - - X -
+              SEARCH - - - X -
+             VERSION - - - - X

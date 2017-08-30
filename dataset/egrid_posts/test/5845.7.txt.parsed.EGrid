@@ -1,0 +1,8 @@
+         EQUIVALENCE X - -
+             COMMAND X - X
+           CHKCONFIG X - -
+                LIST X - -
+                NTPD X - -
+                   > S - -
+              UBUNTU - - X
+                BOTH - - O

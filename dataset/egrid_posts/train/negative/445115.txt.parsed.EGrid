@@ -1,0 +1,17 @@
+             DEFAULT X - - - - - -
+                PATH X - - - - - -
+         APPLICATION X - - - - - -
+                TYPE - S - - - - -
+                WINE - X - - - - -
+             COMMAND - O - - - - -
+                  .. - X - - - - -
+             PROGRAM - - S - - - -
+                  -R - - X - - - -
+                 CMD - - S - - - -
+               PATHS - - - O - - -
+                   ' - - - - S - -
+                HASH - - - - O - -
+              HELPME - - - - - X -
+                   | - - - - - S -
+                SUDO - - - - - - X
+              GKSUDO - - - - - - X

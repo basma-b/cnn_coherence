@@ -1,0 +1,15 @@
+                  .. X - - - -
+               FSTAB - X - - -
+           PARTITION - S O - -
+                EXT3 - X - - -
+               FSCHK - - S - -
+                BOOT - - X - -
+             PROCESS - - X - -
+               CLAIM - - O - -
+                FSCK - - X - -
+               THERE - - - S -
+                NEED - - - X -
+             JOURNAL - - - X -
+                HTTP - - - X -
+//UBUNTU.WORDPRESS.COM/2005/10/12/TUNING-THE-FILESYSTEM-CHECK-AT-BOOTUP/ - - - X -
+              THANKS - - - - X

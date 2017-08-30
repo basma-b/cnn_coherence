@@ -1,0 +1,41 @@
+                ECHO S - - - - - -
+/SYS/BUS/USB/DEVICES/3-0\:1.0/POWER O - - - - - -
+           DIRECTORY O - - - - - -
+/SYS/DEVICES/PCI0000:00/0000:00:1D.1/USB3/POWER - X - - - - -
+              FOLDER - X - - - - -
+               THERE - S S - - - -
+  CONNECTED_DURATION - X - - - - -
+               LEVEL - X O O - - -
+              WAKEUP - X - - - - -
+           IDPRODUCT - X - - - - -
+            IDVENDOR - X - - - - -
+                  ID - X - - - - -
+               FIELD - O - - - - -
+              OUTPUT - X - - - - -
+                   $ - - S - - - -
+                 THE - - S - - - -
+             SUSPEND - - S - - - -
+                   > - - X - - - -
+                 SDA - - S - - - -
+            PROGRESS - - X - - - -
+             COMMAND - - S - - - -
+                FILE - - X - - - -
+/SYS/DEVICES/PCI0000:00/0000:00:1D.7/USB1/1-8/POWER - - S - - - -
+                SUDO - - S X - - -
+                BASH - - O - - - -
+          PERMISSION - - S - - - -
+                 CAT - - X X - - -
+                  IO - - X - - - -
+            REDIRECT - - X - - - -
+            CONFLICT - - O - - - -
+                 TEE - - - X - - -
+              ACCORD - - - - S - -
+              VMWARE - - - - X - -
+              SCRIPT - - - - O - -
+               GLIBC - - - - X - -
+              THREAD - - - - - X -
+               ERROR - - - - - X -
+                  IM - - - - - S -
+                HTTP - - - - - X -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - - - - X -
+         POST1342492 - - - - - - X

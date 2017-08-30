@@ -1,0 +1,24 @@
+          CODEHOTTER X - - - -
+/ETC/NETWORK/INTERFACES X - - - -
+                ROOT X X - - -
+               LOGIN S - - - -
+                 LOG X - - - -
+                USER X X X - -
+               UID=0 - X - - -
+               GID=0 - X - - -
+            GROUPS=0 - X - - -
+              OUTPUT - O - - -
+         LSB_RELEASE - X - - -
+                  -D - X - - -
+         DESCRIPTION - X - - -
+              UBUNTU - S - - -
+                 USE - X - - -
+                SUDO - O O - -
+                  OS - S - - -
+              DESIGN - S - - -
+           PARTITION - S - - -
+        /PROC/MOUNTS - - S - -
+                  RW - - S - -
+                   / - - - - X
+                  YO - - - - S
+             LUCID¿ - - - - S

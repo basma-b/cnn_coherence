@@ -1,0 +1,7 @@
+            NTUPDATE X - - -
+                 RUN X - - -
+              BOOTUP X - - -
+               BLOCK - S - -
+             NTPDATE - - S -
+             APT-GET - - - S
+                PHP5 - - - O

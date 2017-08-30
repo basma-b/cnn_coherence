@@ -1,0 +1,25 @@
+                TYPE X - - - - - - -
+                SUDO O - - X O X - -
+            PASSWORD X X - X X - - -
+             MINUTES X - - - - X - -
+                TIME - X - X X - - X
+              LENGTH - X - - O - - -
+              MEMBER - - X - - - - -
+               ADMIN - - X X X - - -
+              VISUDO - - - S - O - -
+                LINE - - - X S O - -
+                   % - - - X - - - -
+                ALL= - - - X X - - -
+                 ALL - - - X X - - -
+            NOPASSWD - - - X O - - -
+            DURATION - - - X - - - -
+                THAT - - - - S - O -
+               THING - - - - O - - -
+                 LOG - - - - X - - -
+                ROOT - - - - X - - -
+               GROUP - - - - S - - -
+             ACCOUNT - - - - X - - -
+           SOMETHING - - - - - S - -
+             DEFAULT - - - - - X - -
+TIMESTAMP_TIMEOUT=15 - - - - - O - -
+             COMMAND - - - - - - O -

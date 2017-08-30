@@ -1,0 +1,10 @@
+                USER S - - - - -
+               ADMIN X - - - - -
+               GROUP X - - - - -
+                SUDO O - - - - -
+             SUDOERS - S - - - -
+                THIS - O - - - -
+                ALL= - X - - - -
+                 ALL - X - - - -
+                   % - - X - - -
+                COOL - - - X - -

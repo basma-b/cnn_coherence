@@ -1,0 +1,8 @@
+    BUILD-ESSENTIALS X - - - - - - - -
+                SUDO X - - - - - - - -
+             APT-GET X - - - - - - - -
+               MYSQL X X X - X - - - -
+              DEBIAN X X X - X - - - -
+                USER O O O - O - - - X
+               RIGHT - - - O - O - - -
+    DEBIAN-SYS-MAINT - - - - - - - - O

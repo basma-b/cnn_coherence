@@ -1,0 +1,10 @@
+                 PUT X - -
+              APACHE X - X
+                 LOG X X -
+                FILE - X -
+            /VAR/LOG - X -
+             SUBDIRS - O -
+                  .. - - X
+      /VAR/LOG/HTTPD - - X
+                   * - - X
+             NOTHING - - X

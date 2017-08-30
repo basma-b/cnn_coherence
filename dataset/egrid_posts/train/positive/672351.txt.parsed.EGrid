@@ -1,0 +1,12 @@
+                 ANY X - - -
+               SOCAT X X - -
+                 USE - X - -
+                PORT - S O -
+    TCP4-LISTEN:6666 - X - -
+                FORK - X - -
+                EXEC - X - -
+           SOMETHING - X - -
+                 CAT - - X -
+               FILE| - - S -
+                HOST - - X -
+                THAT - - - O

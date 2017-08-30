@@ -1,0 +1,8 @@
+           PARTITION O - - -
+               FDISK X - - -
+              FORMAT X - - -
+         COMMANDLINE X - - -
+               MKEFS - S - -
+                   J - X - -
+                  -J - - - O
+                SUDO - - - S

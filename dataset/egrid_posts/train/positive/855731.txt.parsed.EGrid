@@ -1,0 +1,13 @@
+     /ETC/INTERFACES X - - -
+             NETWORK X - - -
+          INTERFACES O - - -
+              BACKUP - X - -
+            IFCONFIG - - - S
+                ETH0 - - - X
+              IFDOWN - - - X
+                IFUP - - - X
+/ETC/NETWORK/INTERFACES - - - S
+               SETUP - - - X
+                  IP - - - O
+                 ONE - - - X
+             COMMAND - - - O

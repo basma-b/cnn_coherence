@@ -1,0 +1,11 @@
+                 GUY X - - - - -
+           PARTITION O X - - - -
+                GRUB X - - O - -
+                 MBR - - X - - -
+       SUB-PARTITION - - X - - X
+              DEVICE - - X - - -
+               DRIVE - - - O O -
+            INSTANCE - - - - - X
+           /DEV/SDA1 - - - - - X
+                BORK - - - - - X
+              THINGS - - - - - O

@@ -1,0 +1,37 @@
+10.0.0.0-10.255.255.255 S - - - - - - - - -
+                 NET O - - - - - - - - -
+             NETMASK O - - O S - - - - -
+             DEFAULT X - - - - - - - - -
+                MASK S X - - - O S - - -
+           BROADCAST X - - X - - - - - -
+            TRAFFICE S - - - - - - - - -
+              ROUTER X - - - - - - - - -
+           10.1.41.2 O - - - - - - - - -
+                THAT - O - - - - - - - -
+                TEST - X - - - - - - - -
+                 IVE - X - - - - - - - -
+                CASE - O - - - - - - - -
+                   * - S - - - - - - - -
+           SOMETHING - - - O - - - - - -
+                MEAN - - - X - - - - - -
+             TRAFFIC - - - X - - - S - -
+                ISNT - - - S - - - - - -
+               REACH - - - X - - - - - -
+                HOST - - - X - - - - - -
+             PORTION - - - X - - - - - -
+                DONT - - - X - - - - - -
+                BITS - - - X - - - - - -
+                 USE - - - - O - - - - -
+             ADDRESS - - - - O - - - - -
+              SUBNET - - - - X X - - - -
+           255.0.0.0 - - - - - X - - - -
+             EXAMPLE - - - - - X - - - X
+            10.0.0.0 - - - - - X - - - -
+            10.3.6.8 - - - - - X - - - -
+              RESULT - - - - - - S - - -
+            10.1.1.0 - - - - - - O - - -
+            10.3.6.0 - - - - - - - S - -
+                 WAY - - - - - - - O - -
+                ROUT - - - - - - - - - X
+                LOOK - - - - - - - - - O
+//WWW.SANGOMA.COM/MAIN/SUPPORT/TUTORIALS/TCPIP - - - - - - - - - X

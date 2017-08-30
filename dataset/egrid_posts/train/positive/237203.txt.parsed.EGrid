@@ -1,0 +1,21 @@
+                 OES X - - X - - - - - -
+              SERVER S - - S - - - - - -
+              DRIVER X - - X - - - - - -
+              KERNEL - - X - - X - - - S
+              MODULE - - O - - O - - - -
+             NETWORK - - - - - - X - - -
+                  .. - - - - - - X - - O
+                WIFI - - - - - - X - - -
+                  AP - - - - - - X - - -
+             MADWIFI - - - - - - - S - -
+             PACKAGE - - - - - - - X - -
+                HTTP - - - - - - - X - -
+                LIST - - - - - - - X - -
+             MODULES - - - - - - - X - -
+               LUNER - - - - - - - - X -
+                  CD - - - - - - - - X -
+                   * - - - - - - - - X -
+             DESKTOP - - - - - - - - X -
+                LIVE - - - - - - - - X -
+LINUX-RESTRICTED-MODULES - - - - - - - - - O
+/LIB/MODULES/2.6.19-386 - - - - - - - - - X

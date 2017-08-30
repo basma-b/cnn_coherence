@@ -1,0 +1,16 @@
+                HELP O - - - - -
+                TIME - X - - - -
+              SYSTEM - S - - - -
+          PERMISSION - X - - - -
+             PROBLEM - O - - - -
+               START - X - - - -
+              APACHE - X - - X -
+                BOOT - X - - - -
+               ERROR - - O - - -
+                USER - - - S - -
+              SCRIPT - - - X - -
+              INIT.D - - - X - -
+         INITSCRIPTS - - - - S -
+                ROOT - - - - X -
+              UBUNTU - - - - - X
+             VERSION - - - - - X

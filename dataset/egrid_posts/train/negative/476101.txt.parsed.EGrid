@@ -1,0 +1,22 @@
+               THERE X X - - - - - - - -
+             PACKAGE S - - - - - - - - -
+             APT-GET X - - - - - - - - -
+              SOURCE X - - - - - - - - -
+                  .. X - - - - - - - - -
+         PACKAGENAME - X - - - - - - - -
+                   > - O - - - - - - - -
+                CHIP - - X - - - - - - -
+                  II - - - X - - - - - -
+             MPLAYER - - - X - - - - - -
+            ULTIMATE - - - X - - - - - -
+               MOVIE - - - X - - - - - -
+              PLAYER - - - X - - - - - -
+               LINUX - - - X - - - - - -
+                 ALL - - - O X - X - - -
+                LINE - - - - - - X S - -
+DESIRED=UNKNOWN/INSTALL/REMOVE/PURGE/HOLD - - - - - - - X - -
+                   | - - - - - - - X - -
+STATUS=NOT/INSTALLED/CONFIG-F/UNPACKED/FAILED-CFG/HALF-INST/T-AWAIT/T-PEND - - - - - - - X - -
+             PROBLEM - - - - - - - O - -
+            SOFTWARE - - - - - - - - - X
+              CENTER - - - - - - - - - X

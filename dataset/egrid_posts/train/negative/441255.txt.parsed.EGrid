@@ -1,0 +1,23 @@
+               LSPCI S - - - - -
+            HARDWARE X - - - - -
+                 ALL - X - - - -
+                  IM - S - - - -
+            COMPUTER - S - - - -
+                CARD - O - - - -
+                HTTP - - X S - -
+//PASTEBIN.ORG/35632 - - X - - -
+            IFCONFIG - - X - - -
+                  -A - - S - - -
+             CHIPSET - - O - - -
+                MOBO - - S - - -
+              KERNEL - - X - - -
+              DRIVER - - X - - -
+             MODULES - - S - - -
+                LOAD - - X - - -
+              OUTPUT - - - O - -
+             COMMAND - - - X - -
+//PASTEBIN.ORG/35634 - - - S - -
+                 DNS - - - - - S
+                INFO - - - - - S
+/ETC/NETWORK/INTERFACES - - - - - X
+               12.04 - - - - - X

@@ -1,0 +1,14 @@
+      MODULE-CONFIGS O - - - -
+    /ETC/MODULE.CONF X - - - -
+              SYNTAX - O - - -
+             OPTIONS - X - - -
+SOMEPARAMETER=SOMEVALUE - S - - -
+             HOTPLUG - X - - -
+         AUTODETECTS - O - - -
+                THAT - - O - -
+                 USE - - O - -
+            ANYTHING - - O - -
+            MODPROBE - - X - -
+                 ONE - - - - O
+                USER - - - - O
+             .NANORC - - - - X

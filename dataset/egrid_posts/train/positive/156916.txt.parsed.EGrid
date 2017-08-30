@@ -1,0 +1,25 @@
+               IMAGE X - - - - - - - - - - - - -
+                GRUB X - - - - - - - - - - - - -
+                WORK X - - - - - - - - - - - - -
+            LOCATION - - S - - - - - - - - - - -
+               GUIDE - - X - - - - - - - - - - -
+           CHARACTER - - O - - - - - - - - - - -
+                BOOT - - X - - - - X - - X - - -
+            MENU.LST - - X X - - - - - - - - - -
+              SPLASH - - - O - - - - - - - - - -
+/BOOT/GRUB/IMAGES/UBUNTU.XPM.GZ - - - S - - - - - - - - - -
+               ENTRY - - - S - - - - - - - - - -
+               HD0,1 - - - X - - - - - - - - - -
+              DEVICE - - - S - - - - - - - - - -
+                THIS - - - - X - - - - - - - - -
+           SOMETHING - - - - O - - - - - - - - -
+             DEFAULT - - - - - - - X - - - - - O
+              OPTION - - - - - - - X - - - - - -
+                FILE - - - - - - - - - X - - - -
+             KERNELS - - - - - - - - - S - - - -
+           HD-OPTION - - - - - - - - - O - - - -
+              KERNEL - - - - - - - - - - X - - -
+                  OS - - - - - - - - - - O - - -
+                 YES - - - - - - - - - - - - S -
+               THERE - - - - - - - - - - - - - S
+                  .. - - - - - - - - - - - - - O

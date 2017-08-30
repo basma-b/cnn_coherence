@@ -1,0 +1,12 @@
+                 DSL X - - - - - - -
+             MACHINE X - - - - - - -
+            WIRELESS O - - - - - - -
+                SHOW - - O - - - - -
+            IFCONFIG - - X - - - - -
+                  -A - - S - - - - -
+                CARD - - X - - - - -
+                ETH0 - - - X - - - -
+                  LO - - - S - - - -
+         NDISWRAPPER - - - - - X - -
+        /ETC/MODULES - - - - - X - -
+                 YES - - - - - - - X

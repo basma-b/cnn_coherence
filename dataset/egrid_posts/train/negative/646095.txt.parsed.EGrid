@@ -1,0 +1,17 @@
+                 NBR X - - - - - -
+             TROUBLE - O - - - - -
+                USER - X - - - - -
+                FILE - X - - - - -
+         PERMISSIONS - O - - - - -
+        USERS/GROUPS - - X - - - -
+                 GUI - - X - - - -
+               IDEAS - - - X - - -
+             PROBLEM - - - - O - -
+             COMMAND - - - - X - -
+                LINE - - - - O - -
+             DELUSER - - - - - X -
+                   < - - - - - X -
+                NAME - - - - - S -
+                  RM - - - - - - X
+/ETC/DOVECOT/DOVECOT.CONF - - - - - - S
+      DOVECOT-COMMON - - - - - - S

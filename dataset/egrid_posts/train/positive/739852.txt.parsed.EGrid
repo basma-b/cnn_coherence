@@ -1,0 +1,17 @@
+                USER O - O - -
+                SUDO O - O - -
+          MANAGEMENT - - X - -
+                 CLI - - O - -
+               ADMIN - - X - -
+               GROUP - - X - -
+                   | - - S - -
+             COMMAND - - X - -
+                LINE - - S - -
+                SCAR - - X - -
+                FILE - - - - O
+                 USE - - - - X
+                 WAY - - - - O
+              SYSTEM - - - - X
+                 SCP - - - - S
+              SERVER - - - - X
+                 END - - - - X

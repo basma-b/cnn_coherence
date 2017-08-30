@@ -1,0 +1,16 @@
+             COMMAND X - - -
+                SUDO - - S -
+              INSTLL - - X -
+            ALSA-OSS - - S -
+             SUPPORT - - X -
+            CONFLICT - - O -
+           SOMETHING - - X -
+                  .. - - X -
+                 BUG - - X -
+                 ESD - - S -
+            TERMINAL - - X -
+              ASWELL - - - O
+        NDISWRAPPERS - - - X
+               UTILS - - - O
+            FRONTEND - - - X
+                REPO - - - X

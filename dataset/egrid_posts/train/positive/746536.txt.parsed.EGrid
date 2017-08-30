@@ -1,0 +1,33 @@
+                HELP O - - - -
+  DO-RELEASE-UPGRADE X - - - -
+                 SSH X - - X -
+            INTERNET X - - - -
+          CONNECTION X - - S -
+                 DIE X - - - -
+           CONFIGURE - X - - -
+                PART - O - - -
+        INSTALLATION - X - - -
+                   A - - - O -
+               LUCID - - - X -
+                 BOX - - - X -
+             COMMAND - - - O -
+             RELEASE - - - S -
+              ACCESS - - - X -
+             CONTENT - - - O -
+                 MAN - - - X -
+                SAME - - - O -
+                DIST - - - X -
+             UPGRADE - - - O -
+                   E - - - S -
+                LOCK - - - X -
+  /VAR/LIB/DPKG/LOCK - - - O -
+            RESOURCE - - - X -
+              SESION - - - S -
+     /USR/BIN/PYTHON - - - X -
+/TMP/TMP2MRIAM/LUCID - - - S -
+         MODE=SERVER - - - S -
+FRONTEND=DISTUPGRADEVIEWTEXT - - - S -
+              APTGET - - - O X
+             PROCESS - - - - X
+                ROOT - - - - X
+             SESSION - - - - X

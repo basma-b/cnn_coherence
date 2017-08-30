@@ -1,0 +1,17 @@
+              PEOPLE X - - - - - - -
+              KERNEL - X X - - - - -
+              MODULE - O - - - - - -
+               KQEMU - X - - - - - -
+             HEADERS - - O - - - - -
+LINUX-KERNEL-HEADERS - - S - - - O -
+             PACKAGE - - O - - - - -
+                   < - - - - S - - -
+         YOURVERSION - - - - X - - -
+                   > - - - - X - - -
+                 NAH - - - - O - - -
+                THAT - - - - - S - -
+        SOURCES.LIST - - - - - - - S
+            APTITUDE - - - - - - - S
+           CANDIDATE - - - - - - - X
+             VERSION - - - - - - - S
+  KERNEL-HEADERS-2.6 - - - - - - - X

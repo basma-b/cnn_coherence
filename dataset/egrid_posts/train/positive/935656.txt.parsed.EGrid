@@ -1,0 +1,13 @@
+        BOOTQUESTION X - - - - - -
+                GRUB X - X X - - -
+                BOOT X X X S - X X
+                NTFS X - - - - - -
+           PARTITION X X - - - - -
+                 HDS - S - - - - -
+                 MBR - - S - - - -
+                  HD - - X - - X -
+                THAT - - - O - - -
+                  .. - - - X - O -
+           LINUX-ONE - - - - - X -
+               NTLDR - - - - - X -
+                 KEY - - - - - - O

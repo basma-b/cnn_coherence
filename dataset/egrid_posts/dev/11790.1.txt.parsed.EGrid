@@ -1,0 +1,27 @@
+                 HMM X - - - - - - -
+             COMMAND - X - - - - O -
+                LINE - X - - - - - -
+                TOOL - X - - - - - -
+               ERROR - X - O O - O -
+             MESSAGE - X - - - - - -
+                SUDO - - X X - X - -
+             APT-GET - - X - - - - -
+              UPDATE - - S S - - - -
+             UPGRADE - - S - - - - -
+                 GPG - - - X - - - -
+           SIGNATURE - - - X - - - -
+             APT-KEY - - - - - X - -
+                 ADV - - - - - S - -
+           RECV-KEYS - - - - - S - -
+KEYSERVER.UBUNTU.COM - - - - - X - -
+                   < - - - - - S - -
+                   > - - - - - S O -
+               VALUE - - - - - X - -
+             NEWLINE - - - - - - X -
+            TERMINAL - - - - - - S -
+                 USE - - - - - - X -
+                HTTP - - - - - - O -
+              CMMAND - - - - - - X -
+               THOSE - - - - - - S -
+              VALUEE - - - - - - X -
+              HOMBRE - - - - - - - X

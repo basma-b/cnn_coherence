@@ -1,0 +1,11 @@
+                 FIX X - - - -
+                COPY O - - - -
+                 DEB X - - - -
+             MPLAYER - X X X -
+              SOURCE - O - - -
+           MPLAYERHQ - X - - -
+        DEBIAN/RULES - O - - -
+         ./CONFIGURE - - - S -
+               VIDEO - - - O -
+               STUFF - - - X -
+               DMESG - - - - X

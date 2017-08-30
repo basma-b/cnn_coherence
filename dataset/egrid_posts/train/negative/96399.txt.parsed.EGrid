@@ -1,0 +1,12 @@
+              SYSTEM O - - - -
+             UPGRADE S - - - -
+                HOME O - - - -
+                HDA7 X - - - -
+               FSTAB - O - - -
+              OPTION - X - - -
+              NOTAIL - X - - -
+               /HOME - X - - -
+               FLOOD - - - X -
+                SUDO - - - - X
+               FDISK - - - - X
+                  -L - - - - X

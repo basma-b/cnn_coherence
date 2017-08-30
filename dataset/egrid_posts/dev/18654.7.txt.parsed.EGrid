@@ -1,0 +1,18 @@
+               TOOLS O - - -
+                   > X - - -
+              MACROS O - - -
+         LIBREOFFICE X - - -
+               BASIC O - - -
+                DATA O O - -
+         SPREADSHEET X X - -
+                 PHP X X - -
+          JAVASCRIPT - X - -
+                SUDO - - X X
+               GEDIT - - X -
+   /ETC/DEFAULT/GRUB - - X -
+                LINE - - X -
+GRUB_CMDLINE_LINUX_DEFAULT= - - O -
+              SPLASH - - X -
+           NOMODESET - - X -
+              CHANGE - - - X
+         UPDATE-GRUB - - - O

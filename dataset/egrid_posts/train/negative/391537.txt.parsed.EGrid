@@ -1,0 +1,13 @@
+         /PROC/KCORE S - - - -
+              UBUNTU X - - - -
+              FORMAT S - - - -
+                FILE X - - - -
+              RETURN O - - - -
+                 ELF X - - - -
+      REPRESENTATION O - - - -
+              SYSTEM X - - - -
+              MEMORY X - - - -
+                 GDM - - X - -
+                 GDB - - - X -
+                THAT - - - - O
+                HELP - - - - X

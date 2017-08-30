@@ -1,0 +1,23 @@
+/PROC/ASOUND/OSS/SNDSTAT X - - - - - - -
+                READ X - - - - - - -
+                FILE X - - - - - X -
+           DIRECTORY X - - - - - X -
+                LOOK S - - - - - - -
+           EMULATION X - - - - - - -
+             MODULES X - - - - - - -
+                LOAD O - - - - - - -
+                THIS - X - - X - X -
+              SCRIPT - - X - O O X -
+                LINK - - X - - - - -
+                HTTP - - X - X - - -
+//WWW.LINUX-SOUND.INFO/ALSA/INDEX.PHP - - X - - - - -
+        TASK=SUPPORT - - - S - - - -
+                 URL - - - X - - - X
+               PASTE - - - X - - - X
+              MINUTE - - - - X - - -
+                ROOM - - - - X - - -
+//WWW.LINUX-SOUND.INFO/ALSA/SCRIPTS/OUTPUT.TXT - - - - X - - -
+               ERROR - - - - - - O -
+                 CAT - - - - - - X X
+/PROC/ASOUND/VERSION - - - - - - X -
+    /PROC/INTERRUPTS - - - - - - - O

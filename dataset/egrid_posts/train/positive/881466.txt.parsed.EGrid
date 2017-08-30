@@ -1,0 +1,14 @@
+             MACHINE O - - - -
+               WHILE X - - - -
+          GRUBLOADER - S - - -
+              KERNEL - X - - -
+            VERSIONS - O - - -
+                BOOT - X - - -
+             KERNELS - - X O -
+                DISK - - X - -
+               SPACE - - X - -
+                GRUB - - X X -
+                   | - - - X -
+                GREP - - - X -
+         LINUX-IMAGE - - - S -
+                ONES - - - O -

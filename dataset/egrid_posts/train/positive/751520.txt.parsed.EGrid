@@ -1,0 +1,10 @@
+               CHMOD X - - X - -
+                RW+O S - - - - -
+                DONT S - - - - -
+              THINGS O - - - - -
+              ANYONE X - - - - -
+           CHMOD+777 - X - - - -
+           EXECUTION - - - O - -
+                RX+O - - - O - -
+               USERS - - - S - -
+             MESSAGE - - - - - S

@@ -1,0 +1,13 @@
+                /TMP X - X -
+              REBOOT X - - -
+                SUDO - X - -
+                  RM - O - -
+                FILE - X - S
+       /ETC/RC.LOCAL - X - -
+                 ^^^ - X - -
+                LIST - - O -
+               /TMP/ - - - X
+                   * - - - O
+             STARTUP - - - X
+                LINE - - - X
+                EXIT - - - X

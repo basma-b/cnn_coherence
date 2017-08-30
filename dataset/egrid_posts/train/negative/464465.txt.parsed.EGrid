@@ -1,0 +1,16 @@
+              SERVER X - - -
+             PROGRAM X - - -
+                 FTP - X - -
+                 SSH - X - -
+                SFTP - S - -
+              VSFTPD - X - -
+             PROFTPD - S - -
+             CLIENTS - S - -
+                PORT - X - -
+                 ETC - O - -
+                  AH - O - -
+             BROWSER - X - -
+              ACCESS - X - -
+              CLIENT - X - -
+               PRISM - - - X
+                HTTP - - - O

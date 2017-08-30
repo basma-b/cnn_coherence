@@ -1,0 +1,13 @@
+           CONTAINER O - -
+           PARTITION O O -
+                DATA O O -
+                EXT4 - S -
+          LINUX-SWAP - S -
+            COMPUTER - S -
+              MEMORY - X -
+                 RAM - X -
+                SWAP - O -
+            HARDDISK - X -
+                 USE - - X
+                DISK - - X
+               IMAGE - - X

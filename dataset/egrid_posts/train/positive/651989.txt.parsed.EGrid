@@ -1,0 +1,20 @@
+/VAR/RUN/WPA_SUPPLICANT/ETH0 X - - - - - -
+              -DWEXT O - - - - - -
+                  -B X - - - - - -
+               PANEL - S - - - - -
+         SPREADSHEET - O - X - - -
+                FILE - X - - - - S
+          PERMISSION - - X - - - -
+            PROBLEMS - - O - - - -
+              FOLDER - - X - - - -
+                 -RF - - - X - - -
+            BILLIARD - - - O - - -
+          CTRL_IFACE - - - S - - -
+                 USE - - - X - - -
+               WLAN0 - - - - O - -
+               THING - - - - - - X
+            COMPUTER - - - - - - O
+             COMMAND - - - - - - O
+     NETWORK-MANAGER - - - - - - S
+             CONTROL - - - - - - O
+           INTERFACE - - - - - - X

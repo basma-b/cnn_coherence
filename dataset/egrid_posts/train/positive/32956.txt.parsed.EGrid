@@ -1,0 +1,23 @@
+                 ANY S - - - - - - - - - - -
+         PROGRAMMERS O - - - - - - - - - - -
+                MESA - O - O - - X - - - - -
+             PROGRAM - O - - - - - - - - - -
+             PACKAGE - X - - - - O - - - - -
+             CHIPSET - - X - - - - - - - - -
+                THAT - - - S - - - - - - - -
+                PART - - - O - - - - - - - -
+                  GL - - - X - - - - - - - -
+             APT-GET - - - S - - - - - - - -
+              OPENGL - - - - X - - - - - - -
+              GLUT.H - - - - X - - - - - - -
+             HEADERS - - - - O - - - - - - -
+                 ATI - - - - - X - - - - - -
+             DRIVERS - - - - - O - - - - - -
+          OPENGL_DEV - - - - - - O - - - - -
+            SYNAPTIC - - - - - - X - - - - -
+                   ' - - - - - - - - - S - -
+              FOLDER - - - - - - - - - S - -
+             NOTHING - - - - - - - - - X - -
+     /USR/INCLUDE/GL - - - - - - - - - - - X
+                LINK - - - - - - - - - - - O
+/USR/X11R6/INCLUDE/GL/ - - - - - - - - - - - X

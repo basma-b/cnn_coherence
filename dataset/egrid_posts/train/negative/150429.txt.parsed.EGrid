@@ -1,0 +1,17 @@
+             PROGRAM S - - - - - -
+              SIGNAL X - - - - - -
+             SIGSEGV O - - - - - -
+        SEGMENTATION X - - - - - -
+               FAULT X - - - - - -
+           SWITCHING - S - - - - -
+              THREAD - X - - - - -
+                 LWP - X - - - - -
+          0X00000000 - O - - - - -
+                 USE - - - - - - X
+                GRUB - - - - - - S
+                 USB - - - - - - X
+            /DEV/SDC - - - - - - X
+          OR/DEV/SDB - - - - - - O
+                  YU - - - - - - S
+                  HD - - - - - - X
+                   ~ - - - - - - O

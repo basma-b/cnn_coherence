@@ -1,0 +1,52 @@
+              EDGEEY X - - - - - - - - - - - - - -
+             PROBLEM - X - - - - - - - - - - - - -
+               ERROR - X - - - - - - - - - - - - -
+             MESSAGE - S - - - - - - - - - - - - -
+              NVIDIA - X - - - - - - - - - - - - -
+              DRIVER - S - - - - - - - - - - - - -
+             CHANNEL - X - - - - - - - - - - - - -
+                FILE - X - - - - - - - - - - - - O
+                HTTP - O - - - - - - O - - - - - -
+//MIRRORS.KERNEL.ORG/UBUNTU/POOL/RESTRICTED/N/NVIDIA-GRAPHICS-DRIVERS-180/NVIDIA-GLX-180_180.44-0UBUNTU1_AMD64.DEB - X - - - - - - - - - - - - -
+              OTHERS - X - - - - - - - - - - - - -
+                  .. - O O - - - - - - - - - - - -
+            TERMINAL - X - - - - - - - - - - - - -
+                SUDO - X - - - - - - - - - - - - -
+                DPKG - X - - - - - - - - - - - - -
+                   * - S - - - - - - - - - - - - -
+             PACKAGE - X - - X - X - - X - O - - -
+NVIDIA-180-KERNEL-SOURCE - O - S - - - - - X - - - - -
+            DATABASE - - X - - - - - - - - - - - -
+         DIRECTORIES - - X - - - - - - - - - - - -
+NVIDIA-180-KERNEL-SOURCE_180.44-0UBUNTU1_AMD64.DEB - - - X - - - - - - - - - - -
+ NVIDIA-180-LIBVDPAU - - - - O S - - - - - - - - -
+NVIDIA-180-LIBVDPAU_180.44-0UBUNTU1_AMD64.DEB - - - - - X - - - - - - - - -
+      NVIDIA-GLX-180 - - - - - - O - - - - - - - -
+                  PM - - - - - - - - S - - - - - -
+            DOWNLOAD - - - - - - - - X - - X - - -
+                SITE - - - - - - - - X - - - - - -
+    PASTE.UBUNTU.COM - - - - - - - - O - - - - - -
+            STRAIGHT - - - - - - - - O - - - - - -
+                DEBS - - - - - - - - O - - - - - -
+                DKMS - - - - - - - - X S - X - - -
+                SOME - - - - - - - - - - O - - - -
+                   < - - - - - - - - - - X - - - -
+              EDGEY- - - - - - - - - - - X - - - -
+                   > - - - - - - - - - - X - - - -
+                  PC - - - - - - - - - - S - - - -
+            INTERNET - - - - - - - - - - X - - - -
+          CONNECTION - - - - - - - - - - O - - - -
+                 USE - - - - - - - - - - - O - - -
+              ONLINE - - - - - - - - - - - S - - -
+              OFFICE - - - - - - - - - - - O - - -
+            APTITUDE - - - - - - - - - - - X - - -
+              SYSTEM - - - - - - - - - - - X - - -
+        ARCHITECTURE - - - - - - - - - - - O - - -
+             VERSION - - - - - - - - - - - S - - -
+                LINK - - - - - - - - - - - - S - -
+                9.04 - - - - - - - - - - - - X X -
+                THAT - - - - - - - - - - - - - S -
+                   P - - - - - - - - - - - - - X -
+                 URL - - - - - - - - - - - - - O -
+        DEPENDENCIES - - - - - - - - - - - - - O -
+                SAME - - - - - - - - - - - - - X -

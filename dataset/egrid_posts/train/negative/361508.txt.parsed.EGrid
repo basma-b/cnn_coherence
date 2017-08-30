@@ -1,0 +1,13 @@
+            IPTABLES S X - - X -
+              THINGS O - - - - -
+              POLICY O X - - - -
+                RULE O - - - - -
+                  -F - X - - - -
+             DEFAULT - S - - - -
+                DROP - O - - - -
+            PROBLEMS - S - - - -
+         FIRESTARTER - - X S - -
+              UBUNTU - - - - - S
+                ROOT - - - - - X
+            PASSWORD - - - - - X
+        INSTALLATION - - - - - X

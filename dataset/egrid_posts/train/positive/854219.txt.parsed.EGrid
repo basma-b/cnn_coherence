@@ -1,0 +1,14 @@
+     ~/.VNC/XSTARTUP X - -
+               CHECK X - -
+             PATTERN O - -
+              SCREEN X - -
+               GNOME O O -
+            ANYTHING O - -
+      TIGHTVNCSERVER - X -
+              STARTX - S -
+                   A - - X
+               THATS - - S
+               TOUCH - - X
+     /TMP/VNCWORKING - - O
+                 END - - X
+              CONFIG - - X

@@ -1,0 +1,13 @@
+         RULE/MODULE X - - - - - - -
+              PACKET O - - - - - - -
+              NUMBER S - S - - - - -
+         CONNECTIONS X X X - - - - -
+            INSTANCE - X - - - - - -
+               THERE - S - S - - - -
+            IPTABLES - S S - - - - -
+             PACKETS - O - - - - - -
+           NETFILTER - - - X - X - -
+             CHANNEL - - - O - X - -
+             MESSAGE - - - - - O - -
+              ANSWER - - - - - - X -
+                 ONE - - - - - - - O

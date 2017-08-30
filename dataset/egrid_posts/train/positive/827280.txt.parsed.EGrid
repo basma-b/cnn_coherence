@@ -1,0 +1,23 @@
+ PACKAGES.UBUNTU.COM S - - - - - - - - - - - -
+            MAVERICK S - - - - - - - - - - - -
+             PACKAGE O - - - - - - - - - - - -
+          MULTIVERSE - X X - - - - - - - - - -
+/ETC/APT/SOURCES.LIST - X - - - - - - - - X - -
+               STOCK - - S - - - - - - - - - -
+             CONTENT - - O - - - - - - - - - -
+                FILE - - X - O - - - - - - - -
+                LINE - - O - - - - - - - - - -
+             COMMAND - - - - O - - - - - - - -
+             APT-GET - - - - O - - S - - - - -
+                TIME - - - - - - X - - - - - -
+              UPDATE - - - - - - O - - - - - -
+               -ALAP - - - - - - S - - - - - -
+             PROCESS - - - - - - X - - - - - -
+      NETWORKMANAGER - - - - - - O - - - - - -
+             BRACKET - - - - - - X - - - - - -
+            PROGRESS - - - - - - - O - - - - -
+           SOMETHING - - - - - - - O - - - - -
+               -LSB- - - - - - - - - - - S - -
+                   K - - - - - - - - - - - X -
+              THANKS - - - - - - - - - - - X -
+              UBUNTU - - - - - - - - - - - - O

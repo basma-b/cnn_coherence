@@ -1,0 +1,14 @@
+             COMMAND X - - -
+             PROCESS X - - -
+              ACCESS X - - -
+             NETWORK O - - -
+           SOMETHING - X - -
+                DATA - X - -
+             NETSTAT - X - O
+                  -T - X - -
+               WHATS - X - -
+             PACKETS - - - S
+                HOST - - - X
+               COUNT - - - X
+                 LOT - - - X
+              RESULT - - - S

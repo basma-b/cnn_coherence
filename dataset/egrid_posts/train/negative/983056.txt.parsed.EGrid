@@ -1,0 +1,6 @@
+             COMMAND O - - -
+             SERVICE O O - -
+                SUDO - X - S
+                   < - X - -
+                   > - S - -
+            COMMMAND - X - -

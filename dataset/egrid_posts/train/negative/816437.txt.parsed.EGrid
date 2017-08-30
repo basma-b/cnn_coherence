@@ -1,0 +1,31 @@
+               ERROR X S -
+                   W X - -
+                 GPG X - -
+                HTTP X - -
+//ARCHIVE.CANONICAL.COM X - -
+               NATTY X - -
+             RELEASE X - -
+          SIGNATURES S - -
+                 KEY S - -
+           NO_PUBKEY X - -
+    40976EAF437D05B5 X - -
+                SUDO X X -
+             APT-KEY X - -
+                 ADV O - -
+            RECV-KEY X - -
+KEYSERVER.UBUNTU.COM X - -
+ //EXTRAS.UBUNTU.COM X - -
+              BADSIG X - -
+              UBUNTU X - -
+              EXTRAS X - -
+             ARCHIVE X - -
+           AUTOMATIC X - -
+             SIGNING X - -
+                   < X - -
+           FTPMASTER X - -
+               REPLY X - -
+             COMMAND - O -
+              UPDATE - O -
+              SCRIPT - X -
+              GETKEY - X -
+            CODEHERE - O -

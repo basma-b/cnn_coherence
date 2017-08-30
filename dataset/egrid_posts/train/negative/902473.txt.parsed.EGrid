@@ -1,0 +1,6 @@
+           LOCALHOST O - - -
+                PORT S - - -
+                SMTP X - - -
+ /ETC/INIT.D/POSTFIX - - X -
+                STOP - - S -
+           INVOKE_RC - - - O

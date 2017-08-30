@@ -1,0 +1,14 @@
+                 FAN X - - - -
+               SPEED X - - - -
+                TURN X - - - -
+             MACHINE X - - - -
+                WAKE X - - - -
+               SLEEP X - - - -
+                   | - X - - -
+                SUDO - X - - -
+                 TEE - X - - -
+/SYS/DEVICES/PLATFORM/APPLESMC.768/FAN1_MIN - O X - -
+                   > - - X - -
+              RESUME - - X - -
+              SCRIPT - - O - -
+                  -P - - - X -

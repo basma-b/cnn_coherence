@@ -1,0 +1,12 @@
+                SWAP X X - - -
+           PARTITION S X - - -
+                 USE O - - - -
+              SWAPON - X - - -
+                  -S - S - - -
+                LIST - O - - -
+          /ETC/FSTAB - X - - -
+                   ' - - - - X
+                 HMM - - - - S
+                MAIN - - - - O
+              TEST.C - - - - O
+                WORK - - - - X

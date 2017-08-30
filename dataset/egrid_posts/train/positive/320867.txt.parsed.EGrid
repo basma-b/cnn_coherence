@@ -1,0 +1,10 @@
+               INPUT X - -
+              OUTPUT S - -
+              NUMBER X - -
+                RULE O - -
+            IPTABLES X - -
+               TABLE - X X
+                NAME - X X
+                   > - S -
+             COMMAND - X -
+               CHAIN - O -

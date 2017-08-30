@@ -1,0 +1,10 @@
+           PARTITION S - - - - -
+                MP3S - X - - - -
+              RESULT - - X - - -
+              SEARCH - - X - - -
+           GSTREAMER - - X - - -
+             PLUGINS - - - O - -
+                SUDO - - - - X -
+             APT-GET - - - - X -
+UBUNTU-RESTRICTED-EXTRAS - - - - O -
+                   $ - - - - - X

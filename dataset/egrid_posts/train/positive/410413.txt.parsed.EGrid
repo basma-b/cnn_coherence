@@ -1,0 +1,27 @@
+                TYPE X - - X - - - -
+                DPKG X - - - - - - -
+                LIST O - - - - - - -
+                LINE O - - - - X - -
+DESIRED=UNKNOWN/INSTALL/REMOVE/PURGE/HOLD X - - - - - - -
+                   | X - - - - - - -
+STATUS=NOT/INSTALLED/CONFIG-F/UNPACKED/FAILED-CFG/HALF-INST/T-AWAIT/T-PEND X - - - - - - -
+                  |/ S - - - - - - -
+                NONE - X - - - - - -
+/HOLD/REINST-REQUIRED/X=BOTH-PROBLEMS - S - - - - - -
+       UPPERCASE=BAD - X - - - - - -
+                 MAN - - - S - - - -
+                INFO - - - X - - - -
+             COMMAND - - - X - - - -
+                THAT - - - - - S - -
+                WORK - - - - - S - -
+                 OOO - - - - - X X -
+              UBUNTU - - - - - X X -
+              SOURCE - - - - - X O -
+             PACKAGE - - - - - O S -
+               PATCH - - - - - O - -
+                   % - - - - - O - -
+                EDGE - - - - - O - -
+                 ONE - - - - - X - -
+             ANYCASE - - - - - - X -
+               REPOS - - - - - - X -
+               BREAK - - - - - - O -

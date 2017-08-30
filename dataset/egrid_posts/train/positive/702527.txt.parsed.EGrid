@@ -1,0 +1,16 @@
+            QUESTION S - - - - - -
+             DEFAULT X X X - - - -
+                LAMP S - - - - - -
+                 PHP O X X S - S -
+           DIRECTORY - O O - - - -
+  /USR/LOCAL/BIN/PHP - - S - - - -
+              SCRIPT - - O - - - -
+             CRONJOB - - X - - X -
+                TPYE - - - X - - -
+            SHEBANGS - - - O - - -
+                CRON - - - - - X -
+                 TAB - - - - - O -
+                  .. - - - - - X -
+                PATH - - - - - O -
+                TYPE - - - - - - X
+/VAR/WWW/MYSCRIPT.PHP - - - - - - X

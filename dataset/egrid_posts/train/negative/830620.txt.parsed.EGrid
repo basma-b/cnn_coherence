@@ -1,0 +1,15 @@
+             OPTIONS X - - -
+                LOOP X - - -
+         MAX_LOOP=64 O - - -
+               MAX=8 - S - -
+             DEFAULT - X - -
+          /DEV/LOOPX - O - -
+              UBUNTU - X - -
+               RIGHT - - O -
+                TIME - - - O
+             TORRENT - - - O
+            DOWNLOAD - - - X
+               CHECK - - - X
+             MD5SUMS - - - O
+             MACHINE - - - O
+              METHOD - - - X

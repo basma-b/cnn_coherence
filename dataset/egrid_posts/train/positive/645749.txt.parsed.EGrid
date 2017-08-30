@@ -1,0 +1,16 @@
+                SSHD O - - - - - - -
+                 UID - X - - - - - -
+             HOMEDIR - X - - - - - -
+               DRIVE - X - - - - - -
+               LABEL - - - O - - - -
+         FILESYSTEMS - - - X - - - -
+               UUIDS - - - X - - - -
+             DEFAULT - - - - X - - -
+             SESSION - - - - X - - -
+                LIVE - - - - - - S -
+                 ISO - - - - - - O -
+                 APT - - - - - - - S
+                 USB - - - - - - - X
+          ENCLOSURES - - - - - - - O
+     PARTITION/LABEL - - - - - - - X
+                MENU - - - - - - - S

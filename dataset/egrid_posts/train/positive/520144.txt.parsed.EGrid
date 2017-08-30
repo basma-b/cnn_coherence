@@ -1,0 +1,10 @@
+            IFCONFIG X - - -
+                 DNS X - - -
+              SERVER X - - -
+                 USE O - - -
+    /ETC/RESOLV.CONF - S - -
+                NAME - X - -
+             SERVERS - O - -
+                DHCP - X - -
+              CLIENT - X - -
+                 YES - - - X

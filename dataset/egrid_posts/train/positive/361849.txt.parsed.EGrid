@@ -1,0 +1,12 @@
+              VOLUME O O - X
+                 GIG O - O -
+               SPACE X - - -
+             LVGROUP X - - -
+               75GIG X - - -
+                 TOT - - X -
+            PARITION - - O -
+                 USE - - - X
+            LVCREATE - - - O
+           PARTITION - - - O
+               GROUP - - - X
+                  .. - - - X

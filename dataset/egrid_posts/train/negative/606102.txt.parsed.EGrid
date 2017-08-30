@@ -1,0 +1,12 @@
+                NMAP O - - -
+                PORT X O - -
+             SERVICE X - - -
+                THIS - - O -
+                LSOF - - X -
+                 TCP - - X -
+              STATUS - - X -
+               ERROR - - X -
+                FILE - - X -
+           DIRECTORY - - X -
+                  » - - S -
+                XORG - - - S

@@ -1,0 +1,5 @@
+             SYMLINK X - -
+                FILE X - -
+/PATH/TO/REAL/FILE/YOU/WANT/TO/POINT/TO - X -
+/PATH/TO/LINK/YOU/WANT/TO/CHANGE - X -
+                 TRY - - X

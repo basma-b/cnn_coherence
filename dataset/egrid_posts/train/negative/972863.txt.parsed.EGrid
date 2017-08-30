@@ -1,0 +1,20 @@
+              ANYONE S - - - - - - - - - - -
+CONFIG_BLK_DEV_INITRD O - - - - - - - - - - -
+          MENUCONFIG X - - - - - - - - - - -
+               MOUSE - X - O - - - - X - - -
+               WHEEL - S O - - - - - X - S -
+                 CAT - - X - - - - - X - - -
+     /DEV/INPUT/MICE - - S - - - - - S - - -
+            ACTIVITY - - O - - - - - - - - -
+                 LOG - - - S - - - - - - - -
+                THAT - - - - X - - - - - O -
+             PROBLEM - - - - X X - - - - - -
+               THERE - - - - - X - - - - - -
+              KERNEL - - - - - X - - - - - -
+                 MAP - - - - - - X - - - - -
+           XORG.CONF - - - - - - X - - - - -
+              SCROLL - - - - - - - - X - - -
+            RESPONSE - - - - - - - - S - - -
+               BREAK - - - - - - - - O - - -
+               THING - - - - - - - - - - S -
+                 YES - - - - - - - - - - - X

@@ -1,0 +1,9 @@
+                 BIN X - - - - -
+            TERMINAL X - - - - -
+               CHMOD - - X - - -
+                 PWD - - O - - -
+              FOLDER - - X - - -
+                FILE - - S - - X
+                WINE - - - - - S
+                 DIR - - - - - O
+                  .. - - - - - X

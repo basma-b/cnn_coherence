@@ -1,0 +1,9 @@
+               FSTAB O X - O
+           PARTITION S - - -
+              CHANGE - O - -
+               MOUNT - - X -
+             REMOUNT - - S -
+                 TOP - - X -
+                HEAD - - X -
+                FILE - - S -
+                   / - - - O

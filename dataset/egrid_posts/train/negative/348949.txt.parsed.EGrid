@@ -1,0 +1,15 @@
+                THAT O - - - - - -
+             COMMAND S O - - - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD O - - - - - -
+            IPTABLES X X - - - - -
+                 NAT X - - - - - -
+                  -A S - - - - - -
+          MASQUERADE S - - - - - -
+             STARTUP X - - - - - -
+       /ETC/RC.LOCAL S - - - - - -
+              SCRIPT X X O - - - -
+             CONNECT X - - - - - -
+                 ONE - - O - - - -
+                ETCH - - - X - - -
+               SUCKA - - - - X - -
+          BRIGHTNESS - - - - - - X

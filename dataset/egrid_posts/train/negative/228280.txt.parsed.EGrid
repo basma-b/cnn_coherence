@@ -1,0 +1,17 @@
+                SWAP X X - - - - - -
+           PARTITION S S - - - X X -
+              UBUNTU - - X - - - - -
+                  HD - - X X - - - -
+                GRUB - - S X - - - -
+                BOOT - - X - - - - -
+               WINXP - - X - - - - -
+               ERROR - - X O - - - -
+                 SAY - - O - - - - -
+          FILESYSTEM - - X - - - - -
+           SOMETHING - - X - - - - -
+                THIS - - - S - - - -
+            ANYTHING - - - - X - - -
+                BIOS - - - - X - - -
+             MANAGER - - - - - X X -
+             PROCESS - - - - - - X -
+                 TEE - - - - - - - S

@@ -1,0 +1,8 @@
+               SPACE O - -
+                 RAM O - -
+            /DEV/SHM S - -
+               TMPFS O - -
+                NONE X - -
+                 SHM S S -
+           THANKSSHM - X -
+             NOTHING - - S

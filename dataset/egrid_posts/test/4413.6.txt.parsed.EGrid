@@ -1,0 +1,31 @@
+            STRUGGLE O - - - - - - - - - -
+            PROBLEMS X - - - - - - - - - -
+               THING - S - - - - - - - - -
+                 WAY - - S - - - - - - - -
+           ALSAMIXER - - X - - - - - - - -
+             SPEAKER - - X - - - - - - - -
+              VOLUME - - O - - - - - - - -
+              OUTPUT - - X - - - - - - - -
+                THAT - - - O - - - - - - -
+              OPTION - - - O - - - - - - -
+            EVERYONE - - - S - - - - - - -
+                HTTP - - - X - - X - - X -
+//ASKUBUNTU.COM/QUESTIONS/128099/RESTORE-SPEAKERS-HEADPHONES-OPTION-IN-UBUNTU-12-04 - - - X - - X - - - -
+                CARD - - - - S - - - - - -
+                BASE - - - - - X - - - - -
+             REALTEK - - - - - X - - - - -
+            ALC269VB - - - - - X - - - - -
+                CASE - - - - - - X - - - -
+                  HP - - - - - - X - - - -
+             MACHINE - - - - - - O - - - -
+                POST - - - - - - X - - O -
+                LINE - - - - - - - X X O -
+/ETC/MODPROBE.D/ALSA-BASE.CONF - - - - - - - X X - -
+                 TRY - - - - - - - - - S -
+                BOOT - - - - - - - - - X -
+               INTEL - - - - - - - - - - S
+              NVIDIA - - - - - - - - - - X
+             GEFORCE - - - - - - - - - - S
+         ACPI=VENDOR - - - - - - - - - - O
+            ACPI=OFF - - - - - - - - - - S
+               STUFF - - - - - - - - - - X

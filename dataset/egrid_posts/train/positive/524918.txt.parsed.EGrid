@@ -1,0 +1,14 @@
+                FSCK X - - - - - - - - - -
+            REISERFS X - - - - - - - - - -
+                ROOT X - - - - - - - - - -
+           PARTITION X - - X O - - - - - -
+       FSCK.REISERFS - S - - - - - - - - -
+                THAT - - X - - - - - - - -
+                SUDO - - X - - - - - - - -
+              LIVECD - - - X - - - - - - -
+               MOUNT - - - - - - - X - - X
+             COMMAND - - - - - - - O X - -
+                NAME - - - - - - - S - - -
+                /DEV - - - - - - - X - - -
+              SYNTAX - - - - - - - - X - -
+                  .. - - - - - - - - X - -

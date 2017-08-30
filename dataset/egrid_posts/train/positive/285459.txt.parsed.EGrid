@@ -1,0 +1,14 @@
+                SSHD O -
+   .SMK420.SYTES.NET S -
+         ALLOW.HOSTS X -
+               WHATS S -
+                SELF O -
+                HOST X -
+                NAME O -
+                 ALL X -
+     /ETC/HOSTS.DENY X -
+            HOSTNAME S -
+                 BOX S -
+                HTTP O -
+//WWW.ITC.VIRGINIA.EDU/UNIXSYS/SEC/HOSTS.HTML X -
+               THANK - X

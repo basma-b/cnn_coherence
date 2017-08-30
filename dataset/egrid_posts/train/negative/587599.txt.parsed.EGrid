@@ -1,0 +1,11 @@
+               HELLO S - -
+            SOMEBODY X - -
+              NOAPIC X - -
+              NOPAIC - S -
+            ACPI=OFF - O -
+                BOOT - - O
+              LOADER - - X
+                LOOP - - S
+               DRIVE - - X
+           PARTITION - - X
+             WINDOWS - - X

@@ -1,0 +1,24 @@
+GNOME-POWER-STATISTICS S - - - - - - -
+               VALUE O - - - - - - -
+             BATTERY S - - - - - - -
+                   > X - S - - - - -
+             DETAILS X - - - - - - -
+              ENERGY O - - - - - - -
+           DISCHARGE S - - - - - - -
+                  WH S - - - - - - -
+                THAT - O - - - - S -
+                FILE - X - - - - - -
+              ITHINK - - X - - - - -
+/ETC/LAPTOP-MODE/LAPTOP-MODE.CONF - - X - - - - -
+            PROPOSAL - - S - - - - -
+                TOOL - - O - - - - -
+             PACKAGE - - - S - - - -
+            COMPUTER - - - X - - - -
+/PROC/ACPI/BATTERY/BAT0/INFO - - - - S - - -
+               STATE - - - - O - - -
+              DESIGN - - - - X - - -
+            CAPACITY - - - - X - - -
+          LOW=200MWH - - - - O - - -
+                THIS - - - - - S - -
+                 ALL - - - - - O - -
+       POWERSETTINGS - - - - - X - -

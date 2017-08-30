@@ -1,0 +1,4 @@
+               UMASK O -
+                ROOT O X
+               FSTAB X -
+                WORK - X

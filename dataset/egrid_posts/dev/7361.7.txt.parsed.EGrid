@@ -1,0 +1,23 @@
+                 HEY X - - - - - - -
+               IMAGE O - - - - - - -
+   BUILDROOT-2012.05 O - - - - - - -
+             VERSION X - - - - - - -
+               RIGHT X - - - - - - -
+  BUSYBOX-MENUCONFIG O - - - - - - -
+                RULE S - - - - - - -
+              TARGET O - - - - - - -
+                STOP - X - - - - - -
+             COMMAND - - O - O - - -
+                WORK - - X - X - - -
+           DIRECTORY - - X - O S - -
+         ./CONFIGURE - - - X X - - -
+                BASH - - - - X - - -
+                FILE - - - - X - - -
+              FOLDER - - - - - O - -
+              OUTPUT - - - - - O - -
+                 PWD - - - - - X - -
+                HTTP - - - - - - O -
+//PASTEBIN.COM/AY1VQMF6 - - - - - - X -
+                 SSH - - - - - - - S
+                  ED - - - - - - - X
+            COMPUTER - - - - - - - X

@@ -1,0 +1,13 @@
+                TIME - - - S - - - - - -
+               WHILE - - - X - - - - - -
+                SUDO - - - X - - - - - -
+     /ETC/INIT.D/NTP - - - S - - - - - -
+                 NTP - - - - S - - - - -
+                LINK - - - - O - - - - -
+   /ETC/RC2.D/S50NTP - - - - X - - - - -
+               START - - - - - X - X - -
+                THAT - - - - - - - O - -
+             NTPDATE - - - - - - - O - -
+                NTPD - - - - - - - S - S
+               HEART - - - - - - - - - X
+                 MAN - - - - - - - - - X

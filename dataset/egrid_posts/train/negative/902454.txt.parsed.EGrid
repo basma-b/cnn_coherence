@@ -1,0 +1,22 @@
+                THAT S - O -
+                 USE O - - -
+             ONBOARD S - - -
+               SOUND X - - -
+             DISTROS X - - -
+              UBUNTU X - - -
+              DETECT O - - -
+                 LOT X - - -
+             TROUBLE X - - -
+              MODULE X - - -
+        SND_INTEL8X0 - X - -
+/ETC/HOTPLUG/BLACKLIST - X - -
+                 ILL - - S -
+                  XV - - - O
+            PLAYBACK - - - O
+             COMMAND - - - X
+              OUTPUT - - - X
+               LSPCI - - - S
+                   | - - - X
+                GREP - - - S
+                 VGA - - - X
+             GLXINFO - - - X

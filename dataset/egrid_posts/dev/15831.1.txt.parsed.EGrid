@@ -1,0 +1,9 @@
+          C-COMPILER X - -
+     BUILD-ESSENTIAL X - O
+                 GCC S - O
+                TOOL S - O
+                 CMD X - -
+                SUDO - X S
+             APT-GET - S -
+                NEED - - X
+            SOFTWARE - - X

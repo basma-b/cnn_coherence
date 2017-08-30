@@ -1,0 +1,33 @@
+             INITTAB X - - - - - - -
+               12.04 X - - - - - - -
+                TIME - - X - - - - -
+               THERE - - S - - - - -
+                 ONE - - O - - - - -
+               THATS - - O - - - - -
+                NAME - - X - - - - -
+                EACH - - X - - - - -
+               SETUP - - O - - - - -
+           EMERGANCY - - X - - - - -
+                ROOT - - X - - - - -
+               SHELL - - X - - - - -
+                   F - - X - - - - -
+               STUFF - - - - S - - -
+               LINUX - - - - X - - X
+                THIS - - - - - - X S
+                HTTP - - - - - - S X
+//WWW.FREEDESKTOP.ORG/WIKI/SOFTWARE/PULSEAUDIO/DOCUMENTATION/USER/RECIPES/ACTIVESPEAKERCROSSOVERLADSPA - - - - - - S -
+               VIDEO - - - - - - X X
+                CARD - - - - - - O S
+                THAT - - - - - - - O
+                HDMI - - - - - - - S
+               AUDIO - - - - - - - S
+                 USE - - - - - - - X
+            SPEAKERS - - - - - - - X
+              DEVICE - - - - - - - X
+             MONITOR - - - - - - - X
+                MOBO - - - - - - - X
+             WINDOWS - - - - - - - X
+             PROGRAM - - - - - - - S
+   MODULE-REMAP-SINK - - - - - - - S
+             CONTENT - - - - - - - O
+/ETC/PULSE/DEFAULT.PA - - - - - - - X

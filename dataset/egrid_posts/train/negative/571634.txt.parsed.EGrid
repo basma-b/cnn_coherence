@@ -1,0 +1,15 @@
+             NETWORK X X -
+           INTERFACE S - -
+                  IP O - -
+                DHCP X - -
+      NETWORKMANAGER - S -
+                  .. - O -
+              SERVER - X -
+             EDITION - X -
+               FAULT - X -
+                 SEC - X -
+                CONF - S -
+                  NW - X -
+            WIRELESS - - X
+         CONNECTIONS - - O
+             CONNECT - - O

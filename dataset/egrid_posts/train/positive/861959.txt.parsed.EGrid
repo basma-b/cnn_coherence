@@ -1,0 +1,26 @@
+                 -RF X - - - - -
+  /VAR/LIB/APT/LISTS S X - - - -
+                  .. O - O - - -
+               MKDIR - X - - - -
+                LIST - X - - - -
+                  OK - X - - - -
+            ANYTHING - O - - - -
+                SUDO - - X - - -
+             APT-GET - - X - - -
+              UPDATE - - X - - -
+            APTITUDE - - X - - -
+                   W - - X - - -
+                 GPG - - X - - -
+               ERROR - - X - - -
+                HTTP - - X - - -
+ //EXTRAS.UBUNTU.COM - - X - - -
+             RELEASE - - X - - -
+          SIGNATURES - - X - - -
+                 KEY - - S - - -
+           NO_PUBKEY - - X - - -
+             APT-KEY - - X - - -
+                 ADV - - X - - -
+           KEYSERVER - - X - - -
+KEYSERVER.UBUNTU.COM - - X - - -
+              THANKS - - X - - -
+                 MAN - - X - - -

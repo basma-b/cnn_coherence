@@ -1,0 +1,27 @@
+             MACHINE O - - - - - S - -
+                 SSH O S - - - - - - -
+              ACCESS O - - - - - - - -
+              ROUTER S S - - - - - - -
+                PORT O X S S S - - - -
+                VOIP S - - - - - - - -
+         10000-20000 X - - - - - - - -
+              LITLLE X - - - - - - - -
+             NETWORK X - - - - - O - -
+                THAT - X - - - - - - -
+            SECURITY - X - - - - - - -
+                 POV - X - - - - - - -
+                 LAN - S - - - - - - -
+         PRECAUTIONS - - X - - - - - -
+         APPLICATION - - - S S - - - -
+               THING - - - - - - S - -
+            WIRELESS - - - - - - X - -
+               BOOTH - - - - - - X - -
+                WIRE - - - - - - X - -
+            SEPERATE - - - - - - X - -
+                BITE - - - - - - X - -
+              MOMENT - - - - - - X - -
+              OTHERS - - - - - - X - -
+                LOOK - - - - - - - O -
+         TCPWRAPPERS - - - - - - - X -
+                HTTP - - - - - - - O -
+//UBUNTU-TUTORIALS.COM/2007/09/02/NETWORK-SECURITY-WITH-TCPWRAPPERS-HOSTSALLOW-AND-HOSTSDENY/ - - - - - - - O -

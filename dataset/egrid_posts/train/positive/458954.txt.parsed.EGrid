@@ -1,0 +1,15 @@
+          POSTGRESQL O - - - -
+               ERROR O - - - -
+                LOCK X - - - -
+                FILE X - - - -
+/VAR/RUN/POSTGRESQL/.S.PGSQL.5432.LOCK O - - - -
+          PERMISSION S - - - -
+                SUDO - - X - -
+               CHMOD - - X - -
+                +RWX - - X - -
+           DIRECTORY - - X - -
+             MESSAGE - - O - -
+                KILL - - X - -
+              REGARD - - X - -
+                 EEE - - X - X
+                WIKI - - O - -

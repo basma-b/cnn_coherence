@@ -1,0 +1,15 @@
+              FORMAT X - - - - - - -
+              MEMORY X - - - - - - -
+               STICK O - - - - - - -
+                LSOF - - X - - - - -
+               FUSER - - S - - - - -
+              RESULT - - O - - - - -
+             PROCESS - - X - - - - -
+                THIS - - - X - - - X
+         /DEV/DEVICE - - - - X - - -
+                THAT - - - - - O - -
+               ERROR - - - - - S - -
+                PART - - - - - S - -
+        INSTALLATION - - - - - X - -
+                   D - - - - - - X -
+                  .. - - - - - - X -

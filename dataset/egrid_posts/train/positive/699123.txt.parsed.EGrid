@@ -1,0 +1,12 @@
+         PERMISSIONS X X - - - - O - -
+         RECURSIVELY X X - - - - - - -
+            NAUTILUS - - S - - - - - -
+          CAPABILITY - - O - - - - - -
+            TERMINAL - - - X - - X - -
+                 GUI - - - - - - X - -
+         ALTERNATIVE - - - - - - O - -
+             EXAMPLE - - - - - - X - -
+                FILE - - - - - - X - -
+             MANAGER - - - - - - X - -
+                LOAD - - - - - - X - -
+             PROBLEM - - - - - - - O -

@@ -1,0 +1,16 @@
+            LOCATION X - - - -
+                FILE X - - - -
+                 ONE X - - - -
+                 ZIP - X X - -
+              FORMAT - X - - -
+               UNZIP - - X - -
+                 IDK - - S - -
+              FOLDER - - X - -
+                 I.E - - X - -
+             FOO.ZIP - - S - -
+             COMMAND - - S - -
+              ERRORS - - O - -
+            FILENAME - - - S -
+            FILE.ZIP - - - - X
+       /PATH/TO/DIR/ - - - - X
+                   * - - - - X

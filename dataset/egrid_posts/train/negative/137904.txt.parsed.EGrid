@@ -1,0 +1,17 @@
+              SYNTAX X X - - -
+         PERMISSIONS O S - - -
+                 USE X - - - -
+               CHMOD X O - - -
+             SOMEONE X X - - -
+            INSTANCE - X X - -
+          PERMISSION - O O - -
+/HOME/TITAN/WOW/WARCRAFT/DATA - X X - -
+                PART - - O - -
+/DIRECTORY/OF/FOLDERS - - X - -
+                  -R - - X - -
+                 MAN - - - X -
+                  RM - - - S -
+           LILO.CONF - - - X -
+                 RUN - - - X -
+              SEARCH - - - - X
+                BLAH - - - - X

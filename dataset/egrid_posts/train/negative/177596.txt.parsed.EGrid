@@ -1,0 +1,9 @@
+              SERVER O - - - - -
+           PARTITION - O - - - -
+              DEVICE - X - - - -
+                FILE - S - - - -
+                WORK - - X - - -
+               FDISK - - - O - -
+              CFDISK - - - - X -
+/VAR/CACHE/APT/ARCHIVES - - - - - X
+                .DEB - - - - - S

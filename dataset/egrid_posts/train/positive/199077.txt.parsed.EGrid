@@ -1,0 +1,8 @@
+               CDROM O O - - - - -
+                  CD O - - - - - -
+                 USB - X - - X - -
+               START - X - - - - -
+               DMESG - - X - - - -
+              DEVICE - - - - S - -
+            EHCI_HCD - - - - O - -
+                 K3B - - - - - - S

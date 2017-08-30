@@ -1,0 +1,11 @@
+                 HEY S - - - - -
+               DRIVE O - - - - -
+                /DEV X - - - - -
+                MASS - X - - - -
+             STORAGE - X - - - -
+          REMOUNT-RO - - X - - -
+                DATA - - X - - -
+    INITRAMFS/INITRD - - X - - -
+           SOMETHING - - - O - -
+               /SBIN - - - X - -
+                THAT - - - - - O

@@ -1,0 +1,12 @@
+              SCRIPT X S -
+              FOLDER X - -
+          SUBFOLDERS O - -
+           OVERWRITE X - -
+               NEWLY X - -
+                REST O - -
+                SAME X - -
+               SOUND - X -
+               RSYNC - X -
+               LSMOD - - S
+             MODULES - - O
+                EACH - - S

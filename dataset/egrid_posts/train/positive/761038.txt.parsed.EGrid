@@ -1,0 +1,25 @@
+  DO-RELEASE-UPGRADE O - - - -
+             MISTAKE X - - - -
+               PRESS X - - - -
+              CTRL-C S - - - -
+                 END X - - - -
+       CONFIGURATION X - - - -
+                FILE X - - - -
+/ETC/UPDATE-MANAGER/RELEASE-UPGRADES X - - S -
+             RELEASE X S - S -
+             MESSAGE X - - - -
+          /ETC/ISSUE - X - - -
+      /ETC/ISSUE.NET - O - - -
+              10.04. - X - - -
+                SHOW - - - X -
+        DISTRIBUTION - - - X -
+            SOFTWARE - - - X -
+              SOURCE - - - X -
+         KPACKAGEKIT - - - X -
+                   > - - - X -
+             SOURCES - - - X -
+                LIST - - - O -
+             PACKAGE - - - X -
+             MANAGER - - - X -
+                LOCK - - - X -
+              UPDATE - - - - X

@@ -1,0 +1,12 @@
+                LIST O - -
+             PACKAGE X - -
+                 USE X X -
+                DPKG O - -
+      GET-SELECTIONS X - -
+           LOCATIONS S - -
+                BASH X X -
+                PERL X - -
+           BACKTICKS O X -
+              SCRIPT X - -
+                 CMD - X -
+               SOUND - - S

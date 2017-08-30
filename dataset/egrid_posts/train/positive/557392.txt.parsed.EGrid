@@ -1,0 +1,16 @@
+            QUESTION O - - - - -
+             MEMTEST X - - - - -
+                SHOW X - - - - -
+                SCAN S - - - - -
+              MEMORY X X - - - -
+                 3GB - X - X - X
+             HIGHMEM - O - - - -
+              KERNEL - X - - - -
+                 RUN - S - - - -
+             BOOHBAH - O - - - -
+           EXCEPTION - S - - - -
+             SEGMENT - O S - - -
+             TESTING - - S - - -
+                HTTP - - - X - -
+               THERE - - - S - -
+                 WAY - - - O - -

@@ -1,0 +1,9 @@
+                 ANY X X - - - -
+                 BOX X X - - - -
+                AUTH S S - - - -
+              SERVER - - X - X -
+               SETUP - - X - - -
+         192.168.1.0 - - - - S -
+             EXAMPLE - - - - X -
+            IPTABLES - - - - - S
+                TOOL - - - - - O

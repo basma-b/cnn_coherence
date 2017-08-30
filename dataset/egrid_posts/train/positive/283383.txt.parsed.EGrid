@@ -1,0 +1,7 @@
+                SWAP X S - - X
+           PARTITION S - - - -
+                BOOT X - - - -
+               DMESG - - X - -
+             DEFAULT - - - - X
+                 USE - - - - O
+                NEED - - - - O

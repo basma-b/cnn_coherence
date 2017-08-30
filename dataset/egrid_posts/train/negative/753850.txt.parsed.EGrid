@@ -1,0 +1,11 @@
+             COMMAND S - - - -
+                FILE X - - - -
+                   ' - X - - -
+                GREP - S - - -
+                TEXT - X - - -
+               USAGE - X - - -
+/VAR/WWW/ABLEMAGAZINE.CO.UK - X - - -
+             DRIVERS - - - X -
+             APT-GET - - - - S
+XSERVER-XORG-VIDEO-RADEON - - - - S
+          RADEONTOOL - - - - O

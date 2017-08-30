@@ -1,0 +1,8 @@
+            MODPROBE X - - - - -
+                 ISA X - - - - -
+           SOUNDCARD O - - - - -
+                BIOS - - S - - -
+               THERE - - - S - -
+                  IO - - - X - -
+            CONFLICT - - - O - -
+            SND-SB16 - - - - - X

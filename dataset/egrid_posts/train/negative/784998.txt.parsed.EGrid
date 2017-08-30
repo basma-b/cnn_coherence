@@ -1,0 +1,24 @@
+      AUTHENTICATION - X - -
+               BRAND - X - -
+              UBUNTU - X - -
+        INSTALLATION - X - -
+                 KEY - - O -
+~/.SSH/AUTHORIZED_KEYS - - X -
+                 RUN - - X -
+                SSHD - - S -
+                MODE - - X -
+               ERROR - - X -
+          WHITESPACE - - X -
+                FILE - - X X
+               SPACE - - O -
+                LINE - - X -
+              RETURN - - O -
+              MIDDLE - - X -
+          DEPLOYMENT - - X -
+             FEATURE - - O -
+           PASSWORDS - - X -
+             UTILITY - - O -
+                 GUI - - X -
+               THERE - - - X
+             PROGRAM - - - X
+                 DRM - - - O

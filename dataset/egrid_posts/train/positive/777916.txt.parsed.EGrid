@@ -1,0 +1,17 @@
+                 HEY X - - - - - -
+               SHARE X - - - - - -
+           DIRECTORY X - X - X - -
+               SAMBA X - - - - - -
+               SSHFS X - X - - - X
+               GROUP - S X - - - -
+               USERS - X - - - - -
+               UMASK - - X X - - O
+           SOMETHING - - O - - - -
+                USER - - S - - - X
+         PERMISSIONS - - X - - - -
+           OWNERSHIP - - X - - - -
+              CLIENT - - - X - - -
+                 END - - - X - - -
+                FILE - - - - - - O
+          PERMISSION - - - - - - O
+        /ETC/PROFILE - - - - - - X

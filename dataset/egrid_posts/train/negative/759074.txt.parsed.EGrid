@@ -1,0 +1,16 @@
+                HTTP X - - - - -
+                 WAN S - - - - -
+                ECHO O - - - - -
+/SYS/DEVICES/SYSTEM/CPU/CPU0/CPUFREQ/SCALING_MIN_FREQ O - O - - -
+                   A - X - - - -
+                THIS - X - - - -
+                   B - X - - - -
+                CASE - O - - - -
+                   > - - X - - -
+                SUDO - - X - - -
+             PROBLEM - - - X - -
+                BOOT - - - - - X
+                FLAG - - - - - O
+           PARTITION - - - - - X
+                DISK - - - - - X
+               DRIVE - - - - - X

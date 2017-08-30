@@ -1,0 +1,31 @@
+              MODULE X S - - - X - - - - - - - - - -
+              KERNEL X - - - X - - - X O S - - - - X
+                 ONE - O - - - - - - - - - X - - - -
+/LIB/MODULES/2.6.28-6 - X - - - - - - - - - - - - - -
+/LIB/MODULES/2.6.31-19 - X - - - - - - - - - - - - - -
+              DEPMOD - X - - - - - - - - - - - - - -
+    UPDATE-INITRAMFS - O - - - - - - - - - - - - - -
+              FORMAT - O - - - - - - - - - - - - - -
+              SOURCE - - - X X - - - - - - - - - - -
+              DRIVER - - - - - - S - X - - - - - - -
+            HARDWARE - - - - - - X - - - - - - - - -
+             VERSION - - - - - - X - - - - - - - - -
+                  AN - - - - - - - - O - - - - - - -
+               THERE - - - - - - - - S - - - - - - -
+                 IDE - - - - - - - - X - - - - - - -
+              FOLDER - - - - - - - - S - - - - - - -
+/LIB/MODULES/NEW-KERNEL/KERNEL/DRIVERS - - - - - - - - X - - - - - - -
+                DROP - - - - - - - - O - - - - - - -
+                DONT - - - - - - - - S - - - - - - -
+            ANYTHING - - - - - - - - X - - - - - - -
+                WORK - - - - - - - - O - - - - - - -
+               WASNT - - - - - - - - - S - - - - - -
+                 UMM - - - - - - - - - X - - - - - -
+             MESSAGE - - - - - - - - - O - - - - - -
+                IDE1 - - - - - - - - - O - - - - - -
+                ROOT - - - - - - - - - X - - - - - -
+          FILESYSTEM - - - - - - - - - O - - - - - -
+                TREE - - - - - - - - - - X - - - - -
+             APT-GET - - - - - - - - - - - - S - - -
+           REINSTALL - - - - - - - - - - - - - O - -
+              VERSIO - - - - - - - - - - - - - - - O

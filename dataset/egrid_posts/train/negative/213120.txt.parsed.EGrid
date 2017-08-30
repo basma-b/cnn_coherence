@@ -1,0 +1,16 @@
+                COPY X - - S - - -
+                DATA O - - - - - -
+               LINUX X - - - - - -
+           PARTITION X X - - - S -
+                NTFS X X - - - - -
+                FILE - - - X - - -
+             MANAGER - - - O - - -
+               ERROR - - - - X - -
+             MESSAGE - - - - - X -
+                CPK1 - - - - - - X
+                 USB - - - - - - X
+           INTERFACE - - - - - - X
+                  .. - - - - - - X
+            WIRELESS - - - - - - X
+           EXTENSION - - - - - - O
+            ETHERNET - - - - - - X

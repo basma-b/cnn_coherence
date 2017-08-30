@@ -1,0 +1,17 @@
+                SUDO X - - - X - - - - -
+             CRONTAB X O - - O - - - - -
+                ROOT - X - - X X - - - -
+             COMMAND - O - - - - - - - -
+                  -E - O - - O - - - - -
+                   * - O - - - - - - - -
+                 ANY - - - X - - - - - -
+        APPLICATIONS - - - X S - - - - -
+                TIME - - - - X - - - - -
+             WEBCHAT - - - - S - - - - -
+               START - - - - O - - X - -
+              REBOOT - - - - X - - - - -
+             STARTUP - - - - - X - - - -
+                PATH - - - - - - X - - -
+                  CD - - - - - - - X - -
+           DIRECTORY - - - - - - - X - -
+                XFCE - - - - - - - - X S

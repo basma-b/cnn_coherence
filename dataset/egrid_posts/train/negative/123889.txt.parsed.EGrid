@@ -1,0 +1,13 @@
+               FSTAB X - - - X
+               WHATS - S - - -
+              ANYONE - O - - -
+          /ETC/FSTAB - - S - -
+          FILESYSTEM - - X X -
+               TABLE - - O - -
+             DEVICES - - - X -
+           PARTITION - - - X -
+                   < - - - - X
+              DEVICE - - - - X
+                   > - - - - X
+              VOLUME - - - - X
+               LABEL - - - - O

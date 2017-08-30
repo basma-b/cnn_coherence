@@ -1,0 +1,18 @@
+                 DMA O X -
+                  CD X - -
+              DEVICE X - -
+                  .. O - -
+           BLACKLIST - X -
+               CDROM - S -
+                UDMA - X -
+                   U - X -
+             SAMSUNG - X -
+              CD-ROM - X -
+             SC-148C - X -
+                SUDO - X -
+                 CAT - X -
+/PROC/IDE/HDC/SETTINGS - X -
+               INPUT - - S
+              OUTPUT - - S
+                FILE - - S
+                 MMM - - S

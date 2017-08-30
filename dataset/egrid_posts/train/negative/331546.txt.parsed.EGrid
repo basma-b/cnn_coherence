@@ -1,0 +1,9 @@
+             COMMAND X - - -
+             PACKAGE X - - -
+        DEPENDANCIES X - - -
+                SUDO - X - -
+             APT-GET - S - -
+               PURGE - X - -
+               FORCE - O - -
+         AUTO-REMOVE - - X -
+            ANYTHING - - - O

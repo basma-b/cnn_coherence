@@ -1,0 +1,12 @@
+                 MAN S - - -
+             TELINIT X S - X
+           SITUATION S - - -
+                INIT - O - X
+            RUNLEVEL - X - O
+          SITUATIONS - X - -
+         INSTRUCTION - O - -
+             EXAMPLE - - - X
+                 SET - - - X
+             SERVICE - - - X
+                SSHD - - - X
+                 GDM - - - X

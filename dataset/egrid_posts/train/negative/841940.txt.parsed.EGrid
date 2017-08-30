@@ -1,0 +1,15 @@
+                 UGH - S - -
+                VFAT - X - -
+           PARTITION - S - -
+                THIS - O - -
+           /DEV/SDA5 - X - -
+          /MNT/FILES - X - -
+                TYPE - X - -
+            UID=1000 - X - -
+             GID=100 - X - -
+           UMASK=002 - X - -
+              ACCESS - O - -
+                ROOT - X X -
+              NOSUID - - S -
+             INARIES - - S -
+            BINARIES - - S -

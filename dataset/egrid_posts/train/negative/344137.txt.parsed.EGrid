@@ -1,0 +1,17 @@
+               SHARE X - - - - - - - - - -
+             LIBRARY X - - X - - - - - - -
+                NAME - - - X - - - - - - -
+         LIBTCORE.SO - - - O - - - - - - -
+      /USR/LOCAL/LIB - - - X - - - - - - -
+                THAT - - - - - S - - - - -
+            LDCONFIG - - - - - O - - - - -
+              SEARCH - - - - - X - - - - -
+                 ALL - - - - - S - - - - -
+                 DIR - - - - - S - - - - -
+                RAND - - - - - X - - - - -
+                SUDO - - - - - X - - - - -
+                 DLL - - - - - - S X - - -
+                THIS - - - - - - - - X - -
+                WINE - - - - - - - - X - -
+               THING - - - - - - - - X - -
+               DRIVE - - - - - - - - - - X

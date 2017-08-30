@@ -1,0 +1,17 @@
+            APPARMOR X - - - - - -
+            ANYTHING X - - - - - -
+         PERMISSIONS X - - - - - -
+              CHANGE X - - - - - -
+                PATH O - - - - - -
+              KARMIC X - - - X - -
+    MYSQL-SERVER-5.1 - X - - - - -
+            SOMEFILE - X - - - - -
+    ./MYSQL/BALHBLAH - X - - - - -
+                WORK - - - X - - -
+           DIRECTORY - - - O - - -
+             COMMAND - - - X - - -
+             MESSAGE - - - X - - -
+                 WAY - - - - X - -
+                 5.1 - - - - O - -
+               CLICK - - - - - - X
+                LINK - - - - - - O

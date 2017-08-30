@@ -1,0 +1,13 @@
+             COMMAND S - - - - - -
+                PEER X - - - - - -
+             PACKAGE X - X - O - -
+                FILE X - - - X - X
+             CONTENT O - - - O - -
+                LESS - X - - - - -
+                  .. - - X - - - -
+                 AYE - - X - - - -
+                .DEB - - X - - - -
+           APT-CACHE - - - - X - -
+                SHOW - - - - X - -
+                   > - - - - X - -
+                LIST - - - - - - X

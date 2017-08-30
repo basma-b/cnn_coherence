@@ -1,0 +1,12 @@
+                  IP X X - - - -
+            WIRELESS X X - - - -
+           CONECTION X X - - - -
+                CARD - - X - - -
+           ASSOCIATE - - X - - -
+            IWCONFIG - - - X S -
+             COMMAND - - - X S -
+            IFCONFIG - - - X - -
+                THAT - - - - O -
+             NETMASK - - - - O -
+       255.255.255.0 - - - - X -
+      /SBIN/IWCONFIG - - - - - S

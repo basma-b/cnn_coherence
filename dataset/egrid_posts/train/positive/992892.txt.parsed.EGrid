@@ -1,0 +1,30 @@
+            DATABASE X - - - - -
+                  .. O O X - - -
+         DIRECTORIES X - - - - -
+ CUPSWRAPPERMFC420CN - X - - - -
+                 USE - X - - - -
+CUPSWRAPPERMFC420CN_1.0.0-1_I386.DEB - X - - - -
+/VAR/LIB/DPKG/INFO/CUPSWRAPPERMFC420CN.PRERM - S - - - -
+                LINE - S X - - -
+                 CSH - S X X X -
+           UNPACKING - X - - - -
+         REPLACEMENT - X - - - -
+/VAR/LIB/DPKG/INFO/CUPSWRAPPERMFC420CN.POSTINST - - X - - -
+              /TOPIC - - O - - -
+               PASTE - - - S - -
+                REST - - - X - -
+                HTTP - - - X - -
+//PASTE.UBUNTULINUX.NL/4290 - - - S - -
+             FUNTION - - - O - -
+                 YEP - - - - X -
+                TCSH - - - - S -
+                TYPE - - - - X -
+                   < - - - - S -
+                   > - - - - O -
+              SCRIPT - - - - X -
+           SOMETHING - - - - S -
+                SUDO - - - - X -
+             APT-GET - - - - S -
+             BSD-CSH - - - - - X
+           ./COMMAND - - - - - O
+          PERMISSION - - - - - X

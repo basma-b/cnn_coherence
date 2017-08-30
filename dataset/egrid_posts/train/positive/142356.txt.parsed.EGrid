@@ -1,0 +1,13 @@
+                TIME S - -
+                 BOX O - -
+              KERNEL O - -
+            HARDWARE O - -
+                AINT - S -
+                  .. - X -
+                TEST - X -
+                BOOT - X -
+            SEQUENCE - X -
+                INIT - O -
+               CATCH - X -
+             MISTAKE - X X
+              DEBIAN - - S

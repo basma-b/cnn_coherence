@@ -1,0 +1,7 @@
+             OPTIONS X - -
+                ROOT X X -
+          FILESYSTEM X X -
+               +PASS - S -
+          /ETC/FSTAB - O -
+                BOOT - - X
+              LIVECD - - X

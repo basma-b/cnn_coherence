@@ -1,0 +1,17 @@
+                  NM X X -
+                 VPN X - -
+         CONNECTIONS S - -
+                PPTP O - -
+                THIS X - -
+             OPENVPN X O -
+             OPENDNS - S -
+                  IP - O -
+             APT-GET - O -
+NETWORK-MANAGER-OPENVPN - O -
+                BOOT - - X
+                GRUB - - X
+            RECOVERY - - X
+                 WAY - - X
+             LUBUNTU - - X
+             WINDOWS - - X
+                  CD - - X

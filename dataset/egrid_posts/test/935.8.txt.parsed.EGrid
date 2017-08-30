@@ -1,0 +1,11 @@
+                FSCK O - - - -
+                BOOT X - - - -
+              KERNEL X - - - -
+                LINE O - - - -
+            FASTBOOT O - - - -
+                FILE - - - O -
+             COMMENT - - - - S
+                IPV4 - - - - O
+             NETWORK - - - - X
+             MANAGER - - - - S
+                 NOW - - - - X

@@ -1,0 +1,21 @@
+CONFIG_IP_ROUTE_MULTIPATH_CACHED=N X - S - - - - -
+CONFIG_IP_ROUTE_MULTIPATH=N X - - - - - - -
+                 INI - S - - - - - -
+              FORMER - - S - - - - -
+            INTREPID - - X - - - - -
+              2.6.27 - - X - - - - -
+              LATTER - - S - - - - -
+                   Y - - X - - - - -
+       DOCUMENTATION - - X - - - - -
+               MULTI - - X - - O - -
+                 ISP - - X - - - - -
+                 RUN - - X - - - - -
+              UBUNTU - - - - X - - -
+              OPTION - - - - S - S -
+              KERNEL - - - - X - X -
+             VERSION - - - - X - - -
+                8.04 - - - - - X - -
+                CODE - - - - - - S -
+                WORD - - - - - - X -
+               BREAK - - - - - - X -
+               THANK - - - - - - - X

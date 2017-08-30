@@ -1,0 +1,14 @@
+         REPARTITION X - - - -
+              SERVER X - - - -
+           PARTITION O - - - -
+                 DIR X - - - -
+                   / X - - - -
+                ROOT X - - - -
+                IIRC X - - - -
+           PARTITONS O - - - -
+               MOUNT - O - - -
+               /HOME - - - - X
+           /DEV/SDA1 - - - - O
+                 60G - - - - X
+                 40G - - - - X
+                SDA2 - - - - S

@@ -1,0 +1,27 @@
+                VSXU O - - - -
+             PROGRAM - X - - -
+                 RUN - O - - -
+            PREBUILT - S - - -
+                LIBS - O - O -
+                FILE - O - O -
+                HTTP - - X - -
+//VSXU.COM/INDEX.PHP - - X - -
+            LOCATION - - - X -
+  OPTION=COM_CONTENT - - - X -
+        VIEW=ARTICLE - - - S -
+               ID=15 - - - X -
+            ITEMID=2 - - - X -
+           DIRECTORY - - - X -
+                SUDO - - - X -
+                  CP - - - O -
+           /USR/LIB/ - - - S -
+       ./VSXU_PLAYER - - - S -
+               ERROR - - - S -
+                LOAD - - - X -
+               SHARE - - - X -
+           LIBRARIES - - - S -
+        LIBGLFW.SO.2 - - - X -
+              OBJECT - - - X -
+                   K - - - X -
+                SAME - - - O -
+/USR/LIB/LIBGLFW.SO.2 - - - - X

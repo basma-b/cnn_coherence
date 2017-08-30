@@ -1,0 +1,14 @@
+               CHECK O - - - - -
+              LINKER S - - - - -
+                  LD X - - - - -
+               SHARE X - - - - -
+           LIBRARIES S - - - - -
+               ERROR S - - - - -
+                THAT - - S - - -
+                 RUN - - X - - -
+            LDCONFIG - - O - - -
+                 FIX - - X - - -
+                 WAY - - X - - -
+              INITRD - - X - - -
+                  .. - - - - X -
+               WASNT - - - - - S

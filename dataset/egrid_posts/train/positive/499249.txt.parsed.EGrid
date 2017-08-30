@@ -1,0 +1,39 @@
+              ANYONE S - - - - - - - - - - - -
+               DRIVE S X X X - - X - - - - - -
+                EXT3 X - X - - - - - - - - - -
+                BOOT X - - - - - - - - - - - -
+                 USB - X - - - - - O S - - - -
+               ENTRY - X - - - - - - - - - - -
+               FSTAB - X - - - - - X - - - - -
+            BOOTABLE - O - - - - - - - - - - -
+GNOME-VOLUME-MANAGER - - S - - - - - - - - - -
+              INSERT - - O - - - - - - - - - -
+              FORMAT - - O - - - - - - - - - -
+                FILE - - X - - - - - - - - - -
+              SYSTEM - - O - - - - - - - - - -
+               CLICK - - - X - - - - - - - - -
+              THUNAR - - - - O - - - - - - - -
+             FIREFOX - - - - - - O - - - - - -
+                WORK - - - - - - X - - - - - -
+               MEDIA - - - - - - X - - - - - -
+               MUSIC - - - - - - X - - - - - -
+             BANSHEE - - - - - - X - - - S - -
+              OFFICE - - - - - - - O - - - - -
+                  PC - - - - - - - X - - - - -
+                   D - - - - - - - - S - - - -
+                THIS - - - - - - - - O - - - -
+            /DEV/SDB - - - - - - - - X - - - -
+           /MNT/DISK - - - - - - - - X - - - -
+                AUTO - - - - - - - - X - - - -
+                  RW - - - - - - - - X - - - -
+               USERS - - - - - - - - X - - - -
+             PLUGINS - - - - - - - - O - - - -
+GSTREAMER0.10-FFMPEG - - - - - - - - X - - - -
+GSTREAMER0.10-UGLY-PLUGINS - - - - - - - - X - - - -
+                THAT - - - - - - - - - S - - -
+               PAPER - - - - - - - - - - X - -
+               SOUND - - - - - - - - - - X - -
+               FLASH - - - - - - - - - - X - -
+             ALRIGHT - - - - - - - - - - O - -
+                TIME - - - - - - - - - - - X -
+                 ^^^ - - - - - - - - - - - - X

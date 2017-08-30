@@ -1,0 +1,13 @@
+                INFO - X - - -
+         NDISWRAPPER - S - - -
+                 EAX - O - - -
+                   | - - S - -
+      VIRTUALISATION - - X - -
+                 TEE - - X - -
+/PROC/SYS/DEV/RTC/MAX-USER-FREQ - - S S -
+                FILE - - - X -
+                 TRY - - - X -
+                 CAT - - - X -
+             COMMAND - - - O -
+            TUTORIAL - - - O -
+                WORK - - - - X

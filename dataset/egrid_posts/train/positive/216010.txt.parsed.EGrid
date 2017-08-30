@@ -1,0 +1,21 @@
+                HELP S - - - - -
+              SCRIPT X - - - O -
+             SERVICE - S - - - -
+                 RUN - X - - - -
+                THIS - X - X - O
+             COMMAND - X - - - -
+                LINE - X - - - -
+/ETC/INIT.D/SYSLOG2MYSQL - - S - - -
+                  SH - - X - - -
+                   X - - X - - -
+                CODE - - O - - O
+        SYSLOG2MYSQL - - - S O X
+               STDIO - - - O - -
+        /ETC/INIT.D/ - - - - X -
+               THERE - - - - X -
+                LINK - - - - X -
+                NOTE - - - - - X
+                PART - - - - - O
+              SYSLOG - - - - - X
+                DATA - - - - - O
+               MYSQL - - - - - X

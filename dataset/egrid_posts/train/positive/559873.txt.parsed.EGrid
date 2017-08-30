@@ -1,0 +1,9 @@
+            IPTABLES X X - -
+               INPUT X - - -
+                  -S O - - -
+                  -J S - - -
+                PORT O X - -
+                  IP X - - -
+                RULE - X - X
+                  .. - - - X
+                  -L - - - X

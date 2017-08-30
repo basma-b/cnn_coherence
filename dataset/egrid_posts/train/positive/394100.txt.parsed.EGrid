@@ -1,0 +1,38 @@
+               ERROR O - - - - - - - - - - - -
+                 -NV S - - - - - - - - - - - -
+JAILSONBRITO.COM/ERROR.TXT X - - - - - - - - - - - -
+                 SEC X - - - - - - - - - - - -
+                 CAT X - - - - - - - - - - - -
+/PROC/ASOUND/VERSION X - - - - - - - - - - - -
+             COMMAND X - - - - - - - - - - - -
+              RETURN O - - - - - - - - - - - -
+            ADVANCED - X - - - - - - - - - - -
+               LINUX - X - - - - - - - - - - -
+               SOUND - X - - - - - - - - - - -
+        ARCHITECTURE - X - - - - - - - - - - -
+              DRIVER - X - - - - - - - - - - -
+             VERSION - O - - - - - - - - - - -
+                GREP - - X - - - - - - - - - -
+                -NHR - - X - - - - - - - - - -
+             OPTIONS - - X X - - - - - - - - -
+       SND-HDA-INTEL - - S X - - - - - - - - -
+                   * - - X - - - - - - - - - -
+              OUTPUT - - O - - - - - - - - - -
+/ETC/MODPROBE.D/ALSA-BASE - - - X - - X - - - - - -
+                 HEH - - - X - - - - - - - - -
+               MODEL - - - X - - - - - O - - -
+                THAT - - - - S - O - - - - - -
+                 USE - - - - - - - X - O - - X
+                  .. - - - - - - - - O X - - -
+             BUILTIN - - - - - - - - X - - - -
+            SPEAKERS - - - - - - - - S - - - -
+                 IVE - - - - - - - - - S - - -
+              FORUMS - - - - - - - - - X - - -
+             PROBLEM - - - - - - - - - O - - -
+                  HP - - - - - - - - - X - - -
+              LAPTOP - - - - - - - - - X - - -
+              TX1000 - - - - - - - - - X - - -
+              SERIES - - - - - - - - - X - - -
+                CLUE - - - - - - - - - - X - -
+         ALSA-DRIVER - - - - - - - - - - - - O
+     WITH-DEBUG=FULL - - - - - - - - - - - - X

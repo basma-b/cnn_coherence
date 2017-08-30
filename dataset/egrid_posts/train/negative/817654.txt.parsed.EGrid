@@ -1,0 +1,15 @@
+                 RUN O - - -
+                BOOT X - - -
+           INITRAMFS S - - -
+                 ASH X - - -
+               SHELL X - - -
+               DRIVE O - - -
+            HARDWARE X - - -
+             FAILURE O - - -
+           PARTITION O - - -
+             BACKUPS - O - -
+               CHUNK - O - -
+                WORK - X - -
+                HINT - X - -
+             ATTEMPT - S - -
+              TOUCHE - - - X

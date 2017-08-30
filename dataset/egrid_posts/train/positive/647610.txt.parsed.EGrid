@@ -1,0 +1,18 @@
+            USERNAME O O - - -
+                THAT - S - - -
+             PROBLEM - S - - -
+           USERNAMES - O - - -
+               LOGIN - X - - -
+              SCREEN - X - - -
+         GCONFTOOL-2 - - S - -
+                TYPE - - X - -
+                BOOL - - S - -
+                 SET - - X - -
+/APPS/GDM/SIMPLE-GREETER/DISABLE_USER_LIST - - S - -
+             COMMAND - - - S -
+                USER - - - X -
+                LIST - - - O -
+               USERS - - - - S
+              KARMIC - - - - X
+               THING - - - - O
+          ARDCHOILLE - - - - S

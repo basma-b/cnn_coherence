@@ -1,0 +1,12 @@
+                PASS - X - - - - - -
+                ROOT - X - - X O - -
+             ACCOUNT - O - - - - - -
+                SUDO - - - X - O - -
+             COMMAND - - - X O - - -
+            PASSWORD - - - X O O - -
+             SUDOERS - - - - X - - -
+               GROUP - - - - X - - -
+                  VM - - - - - - - S
+               STORE - - - - - - - X
+                FILE - - - - - - - X
+               RIGHT - - - - - - - X

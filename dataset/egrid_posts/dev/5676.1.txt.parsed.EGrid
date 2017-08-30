@@ -1,0 +1,11 @@
+             ADDRESS O - - - -
+              ROUTER O - - - O
+              REASON X - - - -
+               VALUE O - - - -
+             GATEWAY S - - X -
+                IPV4 X - - - -
+    /ETC/RESOLV.CONF - X - - -
+                 DNS - X - - -
+               ROUTE - - S S -
+                  -N - - O - -
+                 SIT - - - X -

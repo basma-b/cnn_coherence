@@ -1,0 +1,24 @@
+             ALRIGHT S - - - - - -
+                THIS S - - - - - -
+             MORNING X - - - - - -
+          FILESYSTEM S X - - - - -
+                MODE X - - - - - -
+               CLEAN O - - - - - -
+              INODES S - - - - - -
+               BLOCK O - - - - - -
+                FILE X O - - X - -
+                DISK X - - - - - -
+          DUP_BLK… O - - - - - -
+         FILESYSTEMS - S - - - - -
+            DISKS… - O - - - - -
+         DEFINITIONS - - - - O - -
+              APACHE - - - - X - -
+                HOST - - - - X - -
+/ETC/APACHE2/SITES-AVAILABLE - - - - X - -
+                THAT - - - - - - S
+              MYSITE - - - - - - S
+               POINT - - - - - - O
+/SITES-AVAILABLE/MYSITE - - - - - - X
+          APACHE2CTL - - - - - - X
+          CONFIGTEST - - - - - - S
+                 LOG - - - - - - S

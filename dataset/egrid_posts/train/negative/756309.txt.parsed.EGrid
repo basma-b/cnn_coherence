@@ -1,0 +1,17 @@
+                 MAN - - X - - - - -
+                 SCP - - S - - - - -
+                FILE - - X - - - - -
+                USER - - X - - - - -
+                HOST - - X - - - - -
+              TARGET - - X - - - - -
+   ~/.SSH/ID_RSA.PUB - - O - - - - -
+       192.168.1.100 - - O - - - - -
+                   ~ - - X - - - - -
+                THIS - - X - - - - O
+            MAN-PAGE - - O - - - - -
+        NFS/SSH/CIFS - - O X - - - -
+          FILESYSTEM - - - X - - - -
+               ISCSI - - - - X - - -
+                  IP - - - - - - O -
+             MONITOR - - - - - - - O
+                  GO - - - - - - - X

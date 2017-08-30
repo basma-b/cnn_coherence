@@ -1,0 +1,13 @@
+               ERROR X - - - -
+             I8042.C O - - - -
+                 CTR O - - - -
+               WHILE X - - - -
+               I8042 O - - - -
+            KEYBOARD S - - - -
+              SERVER X - - - -
+                 BUG S - - - -
+            ACPI=OFF S X X - -
+                MODE O - - - -
+                BOOT S - - - -
+                 USE - - - X -
+                APCI - - - - X

@@ -1,0 +1,15 @@
+    APACHE/PHP/MYSQL - O - - -
+          EVERYTHING - - X - -
+                CANT - - S - -
+              ACCESS - - O - -
+              FOLDER - - X - -
+                USER - - X - -
+                ROOT - - X - -
+                SUDO - - X - -
+               CHGRP - - X - -
+            WWW-DATA - - S - -
+           /VAR/WWW/ - - X - -
+             MACHINE - - X - -
+             VAR/WWW - - X - -
+       ADMINISTRATOR - - - X -
+       UBUNTU-SERVER - - - - X

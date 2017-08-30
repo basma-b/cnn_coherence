@@ -1,0 +1,18 @@
+            RC.LOCAL S - -
+               STUFF X - -
+                USER X - -
+              SCRIPT O - -
+                FARE X - -
+             COMMENT X - -
+            REALEYES - X -
+                SUDO - - X
+             APT-GET - - O
+               PURGE - - S
+              NVIDIA - - X
+                   * - - O
+          AUTOREMOVE - - O
+~/.NVIDIA-SETTINGS-RC - - S
+              GKSUDO - - X
+          JOCKEY-GTK - - S
+                 TAB - - S
+                NAME - - O

@@ -1,0 +1,19 @@
+              UPDATE X - - - - O
+                HARD S - - - - -
+             STORAGE X - - - - -
+               ERROR X - - - - S
+             MESSAGE S - - - - -
+HAL-STORAGE-FIXED-MOUNT X - - - - -
+                 UID O - - - - -
+                 MBR X - - - - -
+                TYPE - O - - - -
+           PARTITION - X - - - -
+                THIS - - - X - -
+            /DEV/HDB - - - X - -
+                  NM - - - S - -
+           LINUXEXT3 - - - S - -
+              FORMAT - - - O - -
+           /DEV/HDB1 - - - - S -
+                  CD - - - - - X
+               DRIVE - - - - - S
+              RUNNIG - - - - - S

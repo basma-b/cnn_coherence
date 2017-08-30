@@ -1,0 +1,22 @@
+                ACPI O - - - - - -
+         ACPI=NOAPIC X - - - O X -
+        ACPI=NOLAPIC X - - - - - -
+                GRUB X - - - - - -
+             ONEIRIC X - - - - - -
+                THIS - S O - S - -
+             PROBLEM - X - - - - -
+                 U46 - X - - - - -
+                FILE - - X - - - -
+          /BOOT/GRUB - - X - - - -
+                WHAT - - - O - - -
+               QUOTE - - - X - - -
+              SPLASH - - - S X - -
+   /ETC/DEFAULT/GRUB - - - X - - -
+                SUDO - - - X - - -
+         UPDATE-GRUB - - - S - - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - - - X X -
+                  OK - - - - - S -
+               SHOOT - - - - - X -
+                PART - - - - - - O
+        XSCREENSAVER - - - - - - X
+             PACKAGE - - - - - - X

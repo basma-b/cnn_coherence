@@ -1,0 +1,15 @@
+                SWAP X S - - - X
+                BOOT X - - - - -
+           PARTITION - S - - - S
+                NTFS - X - - - -
+             MANUALL - X - - - -
+                SUDO - X - - - -
+              SWAPON - S - - - -
+           /DEV/SDA7 - X - - - -
+        INSTALLATION - X - - - -
+                NONE - X - - - -
+                UUID - X - O - O
+              «SUDO - - X - - -
+             BLKID» - - O - - -
+                PART - - - - - O
+            RECREATE - - - - - O

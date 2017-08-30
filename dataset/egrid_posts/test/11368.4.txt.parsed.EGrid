@@ -1,0 +1,12 @@
+/USR/SBIN/GRUB-PROBE X - - - - - -
+               ERROR X - - - - - -
+              DEVICE O - - - - X -
+                   / X - - - - - -
+                /DEV X - - - - - -
+                   < - - X - - - -
+                THIS - - X - - - -
+              CHROOT - - - X - - -
+                THAT - - - - O - -
+                BIND - - - - - X -
+               /DEV/ - - - - - S -
+                UDEV - - - - - S -

@@ -1,0 +1,14 @@
+/ETC/APACHE2/PORTS.CONF X - - -
+                KIND X - - -
+          REPOSITORY X - - -
+                 SUN O - - -
+          MULTIVERSE - X X -
+         SOURCE.LIST - X - -
+              ACCESS - - X -
+                 GUI - - X -
+                SUDO - - X -
+                NANO - - X -
+/ETC/APT/SOURCES.LIST - - O -
+                PATH - - O -
+                LINE - - S X
+            UNIVERSE - - - S

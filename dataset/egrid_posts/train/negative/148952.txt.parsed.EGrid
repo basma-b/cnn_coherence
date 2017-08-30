@@ -1,0 +1,17 @@
+              SYSTEM X - - - - - - X - - - - - X -
+               MOUNT X - - - - - - - - - - - - - -
+               CDROM O - - - - - - - - - - - - - -
+                  .. - X - - - - - X - - - - - S -
+               /DEV/ - X - - - - - - - - - - - - -
+ /CHROOT/MEDIA/CDROM - - - - - - - X - - - - - - -
+            CHROOTED - - - - - - - S - - - - - - -
+              CHROOT - - - - - - - - - - - X - X -
+                WELL - - - - - - - - - - - X - - -
+               THERE - - - - - - - - - - - S - - S
+               FSTAB - - - - - - - - - - - O - O -
+                   U - - - - - - - - - - - - X S -
+            PREVIOUS - - - - - - - - - - - - X - -
+          /ETC/FSTAB - - - - - - - - - - - - - X -
+       FUNCTIONALITY - - - - - - - - - - - - - - S
+           AUTOMATIX - - - - - - - - - - - - - - X
+                NEED - - - - - - - - - - - - - - O

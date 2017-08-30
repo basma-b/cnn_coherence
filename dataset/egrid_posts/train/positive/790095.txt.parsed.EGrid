@@ -1,0 +1,19 @@
+                 ONE X X - - -
+                THIS S S - - -
+               -RSB- - O X - -
+                   = - S S - -
+             VERSION - X X - -
+                 USE - X - - -
+                ATTR - O O - -
+               EVENT - X X - -
+              DEVICE - O O - -
+               ATTRS - O S - -
+              PARENT - X X - -
+/ETC/UDEV/RULES.D/80-CANON_MFP.RULES - X X - -
+                BOOT - X X - -
+            SHUTDOWN - S X - -
+               -LSB- - - X - -
+               SYSFS - - S - -
+             MESSAGE - - O - -
+             PRINTER - - X - -
+               START - - X - -

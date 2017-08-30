@@ -1,0 +1,15 @@
+                BOOT X - - - - -
+           PARTITION O - - - - -
+ /BOOT/GRUB/MENU.LST - X - - - -
+                   U - X - - - -
+              UBUNTU - - - - X -
+                REKA - - - - S -
+             SECTION - - - - X -
+               TITLE - - - - O -
+           SOMETHING - - - - X O
+                THIS - - - - X -
+              KERNEL - - - - X X
+        2.6.10-5-386 - - - - S -
+                LINE - - - - - X
+                  .. - - - - - X
+      ROOT=/DEV/HDA3 - - - - - X

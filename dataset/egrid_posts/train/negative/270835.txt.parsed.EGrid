@@ -1,0 +1,16 @@
+                LINK O - - - - -
+               PATCH X - - O - -
+                7.04 O - - - - -
+            REALTIME X - - X - -
+         PRIVILLEGES O - - - - -
+                TIME - X - - - -
+                HTTP - X - - - -
+              KERNEL - X - X - -
+        APPLICATIONS - O - - - -
+          LOWLATENCY - - X - - -
+                INGO - - - X - -
+              MOLNAR - - - X - -
+                TREE - - - X - -
+              FEISTY - - - X - -
+                XFCE - - - - - O
+              SCREEN - - - - - X

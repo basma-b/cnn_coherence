@@ -1,0 +1,19 @@
+             PACKAGE X - - - - - - - -
+            COMPILER - X - - - - - - -
+               STUFF - O - - - - - - -
+     BUILD-ESSENTIAL - - S - - - - - -
+                 YEA - - S - - - - - -
+           SOMETHING - - O - - - - - -
+               ERROR - - O - - - - - -
+/LIB/MODULES/2.6.15-23-386/BUILD - - - X - - - - -
+                FILE - - - X - - - - -
+           DIRECTORY - - - X - - - - -
+                STOP - - - - X - - - -
+             DRIVERS - - - - - - X - -
+            WIRELESS - - - - - - X - -
+                 USB - - - - - - X - -
+             ADAPTOR - - - - - - X - -
+         MKINITRAMFS - - - - - - - O -
+            MKINITRD - - - - - - - S -
+                SCSI - - - - - - - - S
+             KERNELS - - - - - - - - S

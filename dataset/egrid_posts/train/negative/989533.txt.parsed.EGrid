@@ -1,0 +1,17 @@
+          RESOLUTION X S -
+         RESOLUTIONS S - -
+                SUDO - X -
+        XSERVER-XORG - S -
+                LIST - X -
+  /ETC/X11/XORG.CONF - S -
+               FIRST - O -
+                  CP - X -
+                FILE - X -
+               WHATS - X -
+             COMMAND - X -
+               GEDIT - X -
+               BLANK - X -
+             ABILITY - X -
+                 RES - O -
+              ROUTER - - X
+                  IP - - O

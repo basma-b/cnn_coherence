@@ -1,0 +1,20 @@
+                THAT O - - - -
+              SWITCH X - - - -
+                USER S - - - -
+                   P X - - - -
+             CONTROL O - - - -
+               SAMBA X - - S -
+             WINDOWS X - - S -
+               SHARE O - - S -
+                UNIX - - - X -
+                FILE - - - X -
+               SHAER - - - X -
+               IMAGE - - - - O
+                DISK - - - - X
+           PARTITION - - - - O
+             EXAMPLE - - - - X
+                  DD - - - - X
+        IF=/DEV/SDA1 - - - - X
+OF=/MEDIA/USBDISK/BACKUP.IMG - - - - S
+                  CD - - - - O
+              AND/OR - - - - X

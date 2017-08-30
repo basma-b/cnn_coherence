@@ -1,0 +1,7 @@
+             COMMAND X - -
+                DONT - S -
+         RECONFIGURE - X -
+                   U - X -
+                 USE - X -
+    DPKG-RECONFIGURE - O -
+             XMLRPC2 - - O

@@ -1,0 +1,14 @@
+            QUESTION X - - - -
+                  DD O - - - -
+           PARTITION X - O - -
+                HDA1 X - - - -
+                ZERO X - - - -
+              FORMAT X - - - -
+                   * - S - - -
+                DISK - X - - -
+                 SDA - O - - -
+                 YES - - O - -
+             COMMAND - - O - -
+           /DEV/SDAX - - O - -
+              MKSWAP - - - - O
+                FILE - - - - O

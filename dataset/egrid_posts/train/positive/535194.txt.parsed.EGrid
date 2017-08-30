@@ -1,0 +1,15 @@
+           PARTITION X - - -
+               START S - - -
+                 'EM O - - -
+          /ETC/FSTAB X - - -
+               PARTI X - - -
+                USER - S - -
+                AUTO - S - -
+                  RW - S - -
+                SUDO - X - -
+                 YUP - O - -
+               FSTAB - - S O
+                LOOK - - O O
+              /MEDIA - - X X
+                  .. - - X X
+                  -A - - - O

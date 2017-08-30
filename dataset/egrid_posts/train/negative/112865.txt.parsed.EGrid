@@ -1,0 +1,14 @@
+             COMMAND X - - - -
+                 GDM O - - - -
+                SUDO - X - - -
+     /ETC/INIT.D/GDM - S - - -
+              NVIDIA - X - - -
+                CARD - X - - -
+                   U - O - - -
+             GEFORCE - - X - -
+              KERNEL - - X - -
+           2.6.12-10 - - - S -
+             PACKAGE - - - O -
+          FILESYSTEM - - - - O
+          /ETC/FSTAB - - - - X
+                MTAB - - - - X

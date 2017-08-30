@@ -1,0 +1,10 @@
+/ETC/NETWORK/INTERFACES X - - - -
+             ENTRIES X - - - -
+             ADDRESS - O - - -
+             COMMAND - O X - -
+          INTERFACES - X S - -
+                FILE - X - - -
+                 MAN - - O - -
+               ROUTE - - O - S
+             NETWORK - - S - -
+             REQUIRE - - O - -

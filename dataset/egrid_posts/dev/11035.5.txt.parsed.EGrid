@@ -1,0 +1,12 @@
+                 FIX O - -
+                THIS S - -
+                 BUG O - -
+XSERVER.XORG.VIDEO.ATI - S -
+              SOURCE - X -
+         PROPRIETARY - X -
+                CARD - S -
+             SUPPORT - O -
+                  ER - - X
+XSERVER.XORG.VIDEO.RADEON - - X
+               LSPCI - - S
+                 VGA - - O

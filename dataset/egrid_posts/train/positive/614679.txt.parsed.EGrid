@@ -1,0 +1,5 @@
+/ETC/DHCP3/DHCLIENT.CONF S - - - -
+             REQUEST X - - - -
+                LIST O - - - -
+ DOMAIN-NAME-SERVERS - X - - -
+                THAT - - S S -

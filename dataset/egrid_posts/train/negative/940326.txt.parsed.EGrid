@@ -1,0 +1,7 @@
+        SOURCES.LIST S - - - -
+           APT-SETUP - - O - -
+                SUDO - - - - X
+                LSHW - - - - O
+              MEMORY - - - - X
+                HTTP - - - - X
+//PASTEBIN.COM/F3215C2AD - - - - X

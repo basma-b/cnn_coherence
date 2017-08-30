@@ -1,0 +1,13 @@
+              ANYONE X - - -
+                GRUB X S - -
+                BOOT X X - -
+              KERNEL O X - -
+       CONFIGURATION - S - -
+ /BOOT/GRUB/MENU.LST - X - -
+            MENU.LST - O - -
+              UBUNTU - - X -
+               DRIVE - - X X
+           INTERFACE - - X -
+                TYPE - - X -
+                 ATA - - - X
+          PRECIDENCE - - - X

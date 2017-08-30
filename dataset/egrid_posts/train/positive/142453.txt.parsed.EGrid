@@ -1,0 +1,26 @@
+              AMOUNT - O - - - - - - - - - -
+              SEARCH - X - - - - - - - - - -
+              ANSWER - O - - - - - - - - - -
+             PROBLEM - X - - - - - - - - - -
+                  .. - X - - - - - - - - - -
+               CLOCK - - S - S - - - - O - X
+             NETWORK - - X - X - - - - - - -
+                 NTP - - S - - - - - - - - -
+                TIME - - - S - - - - - - - X
+                  TZ - - - S - - - - - - - -
+               HOURS - - - X - - - - - - - -
+             EXAMPLE - - - - X - - - - - - -
+               00:36 - - - - O - - - - - - -
+               19:36 - - - - O - - - - - - -
+              SYSTEM - - - - - X - - - - - -
+             WINDOWS - - - - - X - - - - - -
+    /ETC/DEFAULT/RCS - - - - - - - S - - - -
+                 SET - - - - - - - - O - - -
+                WAYS - - - - - - - - - S - -
+              SWITCH - - - - - - - - - X - -
+/ETC/INIT.D/HWCLOCK.SH - - - - - - - - - - - X
+                TICK - - - - - - - - - - - X
+                 HMM - - - - - - - - - - - O
+             HWCLOCK - - - - - - - - - - - S
+           DIRECTISA - - - - - - - - - - - S
+               ERROR - - - - - - - - - - - O

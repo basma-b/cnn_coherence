@@ -1,0 +1,18 @@
+              KERNEL X X X - -
+                 ONE - O - - -
+              RECESS - X - - -
+                  OK - X - - -
+               ERROR - S - - -
+                 LOG - - S - -
+            /VAR/LOG - - X - -
+                NAME - - X - -
+               DMESG - - O - -
+                BOOT - - X - -
+               MESGS - - X - -
+                LINE - - S - -
+                 FEB - - O - -
+               LENNA - - X - -
+                ACPI - - O - -
+              SYMBOL - - X - -
+ACPI_PROCESSOR_UNREGISTER_PERFORMANCE - - X - -
+ACPI_PROCESSOR_REGISTER_PERFORMANCE - - O - -

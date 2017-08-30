@@ -1,0 +1,9 @@
+            .RUN.MD5 X - -
+              -FILES X - -
+                 ^^^ - S -
+                  SH - X -
+            BLAH.RUN - X -
+              MD5SUM - X -
+        BLAH.RUN.MD5 - X -
+                FILE - - X
+            XOR.CONF - - X

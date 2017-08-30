@@ -1,0 +1,17 @@
+               XARGS S - S O - -
+               CHMOD - X - X - -
+                 G+S - X - X - -
+                   \ - O - - - -
+                 ANY - - S - - -
+           DIRECTORY - - X - - -
+                NAME - - X - - -
+               SPACE - - O - - -
+               -TYPE - - - S - -
+                   | - - - X - -
+              UBUNTU - - - - - X
+                PORT - - - - - S
+                CALL - - - - - O
+               AMD64 - - - - - X
+                 RED - - - - - X
+                 HAT - - - - - X
+              X86_64 - - - - - X

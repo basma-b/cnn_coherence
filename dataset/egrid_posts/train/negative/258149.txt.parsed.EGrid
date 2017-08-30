@@ -1,0 +1,11 @@
+             WINDOWS X - - -
+              EXT2/3 X - - -
+            REISERFS X - - -
+                NAME - - X -
+              DRIVER - - O -
+                EXT3 - - O -
+             LINUXFS - - O -
+               DRIVE - - X -
+               ORDER - - - S
+                REPO - - - X
+             RELEASE - - - X

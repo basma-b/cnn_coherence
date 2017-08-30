@@ -1,0 +1,16 @@
+             ANYBODY X - - - - -
+             DEFAULT X - - - - -
+               RIGHT S - - - - -
+             DEVICES X X - - - -
+                 HDD X - - - - -
+               STORE X - - - - -
+               GROUP - X - - - -
+             EXT4-FS - - X - - -
+         CHOWN/CHMOD - - - O - -
+             UNIX-FS - - - X - -
+                CANT - - - - X -
+                ROOT - - - - X -
+              DEVICE - - - - X -
+                USER - - - - - S
+               TRASH - - - - - X
+                 DIR - - - - - O

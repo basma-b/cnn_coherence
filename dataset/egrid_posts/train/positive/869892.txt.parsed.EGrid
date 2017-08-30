@@ -1,0 +1,15 @@
+                COMP X - - - - -
+                WONT S - - - - -
+             MONITOR O - - - - -
+             PROBLEM O - - - - -
+            GRAPHICS - - X - - -
+              DEVICE - - X - - -
+              NVIDIA - - - X X -
+              DRIVER - - - X - -
+             NOUVEAU - - - X - -
+               LSMOD - - - - X -
+                   | - - - - X -
+                GREP - - - - X -
+                 RUN - - - - X -
+     NVIDIA-SETTINGS - - - - S -
+               IDEAS - - - - - X

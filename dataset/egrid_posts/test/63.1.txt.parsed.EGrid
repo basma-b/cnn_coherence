@@ -1,0 +1,25 @@
+              CUSTOM S - - - - - - -
+                 PPA - S - - - - - -
+                 ALL - X - - - - - -
+                SUDO - X - - - - - -
+             APT-GET - X - - - - - -
+             UPGRADE - X - - - - - -
+              OPTION - X - - - - - -
+                REPO - O - - - - - -
+             EXAMPLE - - X - - - - -
+                HTTP - - X - - - - -
+//BLOG.MYCROT.CH/2011/04/26/CREATING-YOUR-OWN-SIGNED-APT-REPOSITORY-AND-DEBIAN-PACKAGES/ - - X - - - - -
+               SETUP - - - - S - - O
+       CONFIGURATION - - - - X - - -
+                FILE - - - - X - - -
+              PUPPET - - - - S X - -
+                 USE - - - - O O - -
+             PACKAGE - - - - - O - -
+                  -Y - - - - - X - -
+                  -O - - - - - X - -
+                DPKG - - - - - O - -
+             OPTIONS - - - - - O - -
+       FORCE-CONFOLD - - - - - S - -
+       DISTRIBUTIONS - - - - - - X -
+          SIMPLICITY - - - - - - X -
+                SIGN - - - - - - - O

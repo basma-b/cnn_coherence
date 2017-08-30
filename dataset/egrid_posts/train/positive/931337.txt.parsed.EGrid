@@ -1,0 +1,17 @@
+        DIST-UPGRADE X - - -
+             PACKAGE S - - -
+         XSERVER-ORG S - - -
+        PRECONFIGRIG X - - -
+                IDEA X - - -
+                THIS O - - -
+                THAT - S - S
+              EXPORT - X - -
+DEBUG_XORG_PACKAGE=DEVELOPER - O - -
+DEBUG_XORG_DEBCONF=DEVELOPER - O - -
+                  TY - X - -
+              OWNERS - S S -
+             CHOICES - O - -
+        XSERVER-XORG - X - -
+                   = - - X -
+               VALUE - - O -
+SHARED/DEFAULT-X-SERVER - - S -

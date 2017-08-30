@@ -1,0 +1,12 @@
+                TIME S - - -
+         192.168.4.1 S - - -
+                  MS S - - -
+         192.168.0.1 X - - -
+             PACKETS S - - -
+         DESTINATION O - - -
+                 LAN - X - -
+             GATEWAY - O - -
+              SERVER - X - -
+            INTERNET - X - -
+                PART - - - O
+            PARTIONS - - - O

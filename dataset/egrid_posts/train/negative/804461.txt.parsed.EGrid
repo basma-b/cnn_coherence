@@ -1,0 +1,13 @@
+                HELP O - -
+           XORG.CONF O S -
+                BOOT O - -
+                 WAY X - -
+                SUDO - X -
+    DPKG-RECONFIGURE - X -
+        XSERVER-XORG - S -
+             SERVICE - S -
+              OUTPUT - - O
+                FILE - - X
+                   | - - S
+                TAIL - - X
+                  -N - - O

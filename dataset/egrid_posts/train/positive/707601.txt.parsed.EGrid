@@ -1,0 +1,23 @@
+                TIME O - - - - - -
+                 HEY X - - - - - -
+             NETWORK X - - - - - -
+          INTERFACES S - - - - - -
+             PROBLEM O - - - - - -
+                FILE - - X - - - -
+                CALL - - X - - - -
+/ETC/UDEV/RULES.D/10-NETWORK.RULES - - X - - - -
+                BIND - - O - - - -
+                 MAC - - X - - - -
+             ADDRESS - - X - - - -
+                EACH - - X - - - -
+                CARD - - X - - - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - - - S - -
+                   < - - - - S - -
+              REASON - - - - X - -
+            METACITY - - - - O - -
+                 ONE - - - - X - -
+                  .. - - - - O - -
+                  » - - - - S - -
+            TERMINAL - - - - X - -
+               ERROR - - - - O - -
+                MINE - - - - - - S

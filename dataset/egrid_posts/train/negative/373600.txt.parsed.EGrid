@@ -1,0 +1,12 @@
+           SEGFAULTS S - - - - - -
+                7.10 X - - - - - -
+              MYSQLD - S - - - - -
+             STARTUP - X - - - - -
+               CHECK - - X - - - -
+              MEMORY - - X - - - -
+            MEMCHECK - - X S - - -
+             WINDOWS - - - S - - -
+            ANYTHING - - - O - - -
+               DMESG - - - X - - -
+                EACH - - - - - - O
+               MONTH - - - - - - X

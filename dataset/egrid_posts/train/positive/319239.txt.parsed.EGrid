@@ -1,0 +1,23 @@
+              SERVER O - - - -
+               ISSUE O - - - -
+               SETUP X X - - -
+                  .. X - - - X
+                ATH0 S O - - -
+/ETC/NETWORK/INTERFACES X - - - -
+                BOOT X - - X -
+              DEVICE X - - - -
+            IWCONFIG O - - - -
+                 THO - S - - -
+               THERE - S - - -
+                LOAD - O - O -
+               RAUSB - - X - S
+             ATH_PCI - - - X -
+              MODULE - - - O -
+               CHECK - - - X -
+              SYSTEM - - - X -
+               LSMOD - - - X -
+                   | - - - X -
+                GREP - - - X -
+              CHANGE - - - - X
+             NOTHING - - - - O
+              RETURN - - - - X

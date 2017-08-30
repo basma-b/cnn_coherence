@@ -1,0 +1,9 @@
+               PRINT X X - - -
+             MANAGER X - - - -
+             MESSAGE O - - - -
+     SPOOLER/MANAGER - O - - -
+              ANYONE - - X - -
+       /VAR/LOG/CUPS - - - X X
+           ERROR_LOG - - - - X
+            PAGE_LOG - - - - O
+                 ALL - - - - S

@@ -1,0 +1,15 @@
+           EVERYBODY S - - -
+            SOMEBODY X - - -
+            COMPUTER S - - -
+            LOCK-UPS O - - -
+                7.04 - O - -
+              SYSLOG - O X -
+               EMAIL - X - -
+                ROOT - X - -
+                USER - X - -
+              KERNEL - S - -
+            HARDWARE - X - -
+              DEVICE - X - -
+           /VAR/LOG/ - - X -
+             MESSAGE - - X -
+               DMESG - - X -

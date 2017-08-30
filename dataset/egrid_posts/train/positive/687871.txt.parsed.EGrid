@@ -1,0 +1,20 @@
+              ANYONE X - - - - - - -
+              SERVER O - - - - - - -
+                SUDO - X - - X - - -
+             APT-GET - S - - S - - -
+                PHP5 - O - - - - - -
+                FILE - X - - O - O -
+              APACHE - O - - X - - -
+       WEB-DIRECTORY - - X - - - - -
+           DIRECTORY - - X - - - - -
+                  GO - - - X - - - -
+            /VAR/WWW - - - - X - - -
+             RESTART - - - - O - - -
+ /ETC/INIT.D/APACHE2 - - - - S - - -
+                  -F - - - - O - - -
+           /VAR/WWW/ - - - - - S - -
+              FOLDER - - - - - X - -
+                .PHP - - - - - - S -
+                 ALL - - - - - - S -
+                HTTP - - - - - - - X
+//LOCALHOST/YOURFILE.PHP - - - - - - - X

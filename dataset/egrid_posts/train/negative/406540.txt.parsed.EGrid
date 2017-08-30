@@ -1,0 +1,15 @@
+              PSTREE X - - - -
+              DOESNT S - - - -
+             PROCESS X - - - -
+              SERVER O - - - -
+                 FTP - O - - -
+                  IM - S - - -
+                FTPD - S - - -
+                  PS - X - - -
+                   | - X - - -
+                GREP - X - - -
+                FILE - S - - -
+            FRONTEND - - - O -
+       MANIPULATIONS - - - X -
+                DATA - - - X -
+              FORMAT - - - - X

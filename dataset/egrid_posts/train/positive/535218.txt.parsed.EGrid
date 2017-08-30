@@ -1,0 +1,22 @@
+               ERROR X - - - - - -
+        DIST-UPGRADE S - - - - - -
+  PKGPROBLEMRESOLVER X - - - - - -
+               BREAK O - - - - - -
+                THIS S O - - - - -
+               CAUSE O - - - - - -
+                HOLD X - - - - - -
+             PACKAGE X - - - - - -
+                   < - X - - - - -
+            MAIN.LOG - X - - - - -
+               REPOS - O - - - - -
+            STANDARD - X - - - - -
+             PREPOSE - - X - - - -
+           SOMETHING - - X - - - -
+            UNIVERSE - - - - X - -
+                HTTP - - - - X - -
+//KOOPANET.CJB.NET/SOURCES.LIST - - - - X - -
+             UPGRADE - - - - - X -
+                SUDO - - - - - X -
+             APT-GET - - - - - X -
+              UPDATE - - - - - O -
+                  .. - - - - - X -

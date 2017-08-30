@@ -1,0 +1,17 @@
+             PROBLEM - O - - - O - - - - -
+              KERNEL - X - - - X - - O - -
+                9.04 - O - - - O - - - - -
+             GENERIC - X - - - X - - - - -
+               MOUSE - X - - - X - - - - -
+            KEYBOARD - O - - - O - - - - -
+             VERSION - - X - - - X - - - -
+            RECOVERY - - X - - - X - - - -
+                MODE - - X - - - X - - - -
+              UBUNTU - - - X - - - X - - -
+              LIVECD - - - X - - - X - - -
+              ACCESS - - - O - - - O - - -
+                FILE - - - X - - - X - - -
+              SYSTEM - - - O - - - O - - -
+                  HD - - - S - - - S - - -
+               /BOOT - - - - - - - - X - -
+/BOOT/GRUB/MENU.LIST - - - - - - - - O - -

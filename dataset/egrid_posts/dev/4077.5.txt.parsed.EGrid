@@ -1,0 +1,10 @@
+              UBUNTU O - - - - -
+           PARTITION X - - - - -
+              DISTRO X - - - - -
+           INSTALLER - - O S S -
+                 LVM - - - O X -
+                DISK - - - X - -
+          ENCRYPTION - - - X - -
+                LUKS - - - X - -
+            INTERNET - - - - - X
+          CONNECTION - - - - - S

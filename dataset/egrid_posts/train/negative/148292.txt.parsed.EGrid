@@ -1,0 +1,15 @@
+                HFS+ X S - - -
+                SUDO - S - - -
+            /DEV/SDX - X - X -
+           /MNT/PATH - X - O -
+             HFSPLUS - - - X -
+                  .. - - - X -
+            MODPROBE - - - X -
+              MODULE - - - S -
+                   / - - - X -
+               THING - - - O -
+              UMOUNT - - - S -
+               AGIAN - - - O -
+                FLAG - - - X -
+          EVERYTHING - - - - S
+               THERE - - - - X

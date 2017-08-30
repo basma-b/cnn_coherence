@@ -1,0 +1,17 @@
+           PARTITION O - - -
+              UBUNTU S - - -
+               FAT16 O - - -
+                NTFS O X - -
+               DRIVE X - - -
+                TOOL X - - -
+          FILESYSTEM X X - -
+                  -T - X - -
+             NTFS-3G - O - -
+               STOCK - - - X
+        SOURCES.LIST - - - S
+            UNIVERSE - - - X
+                   / - - - X
+          MULTIVERSE - - - O
+                WINE - - - X
+        REPOSITORIES - - - O
+         WINE.SF.NET - - - X

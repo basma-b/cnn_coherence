@@ -1,0 +1,26 @@
+             DEVICES O - O - - - - - -
+         /DEV/MAPPER X - - - - - - - -
+                 LVM S - - - - - - - -
+                 NUT O - - - - - - - -
+                 VGS - - O - - X - - S
+              BAD_VG - - - O - - - - -
+                   N - - - X - - - - -
+               GROUP - - - S - - S - -
+               DRIVE - - - O - - - - -
+           LVDISPLAY - - - - X - - - -
+           PVDISPLAY - - - - S - - - -
+             NOTHING - - - - O - - - O
+               ERROR - - - - X - O - X
+           REFERENCE - - - - O - - - -
+               THOSE - - - - S - - - -
+                  VG - - - - X - O - -
+        INPUT/OUTPUT - - - - - - X - -
+              SYSTEM - - - - - - S - -
+                 ALL - - - - - - X - -
+              ERRORS - - - - - - S - -
+                 ANY - - - - - - X - -
+                THIS - - - - - - X - -
+             COMMAND - - - - - - X X -
+/DEV/MAPPER/LVM2|LVM-RAID|LVM0 - - - - - - X - -
+              VOLUME - - - - - - X - -
+/DEV/MAPPER/ERROR|LVM2|LVM-RAID|PV1 - - - - - - - - O

@@ -1,0 +1,15 @@
+            EVERYONE X - -
+               TRUST X - -
+              OFFICE S - -
+                 USB X - -
+             SCANNER S - -
+         INFORMATION - O -
+                 LOG - O -
+               DMESG - X -
+                 1-9 - - S
+               USBFS - - S
+    USBDEVFS_CONTROL - - S
+                 RQT - - O
+                 LEN - - X
+                 RET - - X
+                 -71 - - X

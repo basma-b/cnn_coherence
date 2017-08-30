@@ -1,0 +1,7 @@
+              FORMAT X - - -
+               FAT32 X - - -
+             APT-GET - - S -
+       SMARTMONTOOLS - - O -
+               DRIVE - - X -
+                TEST - - O X
+            /DEV/SDA - - - X

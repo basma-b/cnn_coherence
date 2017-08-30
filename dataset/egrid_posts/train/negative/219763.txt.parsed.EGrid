@@ -1,0 +1,15 @@
+   2.6.17-10-GENERIC X - - - - - -
+              KERNEL X - - - - - -
+              ATHLON X - - - - - -
+                IDEA - X - - - - -
+               LSPCI - S - - - - -
+             NOTHING - X - - - S -
+                BOOT - - - X - - -
+             MACHINE - - - O - - -
+             NETWORK - - - O - - -
+               VIDEO - - - X - - -
+              DRIVER - - - - X - -
+                LOAD - - - - O - -
+               USAGE - - - - X - -
+                FLAG - - - - S - -
+/PROC/BLAH/PCI/DEVICES - - - - - X -

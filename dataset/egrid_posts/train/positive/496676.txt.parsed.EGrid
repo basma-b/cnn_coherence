@@ -1,0 +1,20 @@
+/ETC/NETWORK/INTERFACES S - - - - -
+                AUTO X - - - - -
+                  LO O - - - - -
+                INET X - - - - -
+            LOOPBACK O - - - - -
+                  IM - S - - - -
+              ROUTER - O - - - -
+            SHOULDNT - S - - - -
+           SOMETHING - O - - - -
+                ETH0 - X - - - -
+       NETWORKMANGER - O - - - -
+                  IP - - - O - -
+             NETWORK - - - X - -
+             MANAGER - - - O - -
+               CLICK - - - X - -
+                WIRE - - - X - -
+          PROPERTIES - - - X - -
+              ENABLE - - - O - -
+                TYPE - - - X - -
+          INTERFACES - - - - - X

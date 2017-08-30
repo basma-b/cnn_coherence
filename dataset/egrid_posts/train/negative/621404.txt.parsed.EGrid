@@ -1,0 +1,13 @@
+           PARTITION S - S - - - -
+                CANT S - S - - - -
+               CACHE O - O - X - -
+             PROGRAM O - O - - - -
+                THIS - O - O - - -
+              REBOOT - - - - S - -
+                DISK - - - - S - -
+                  .. - - - - O - -
+/VAR/CACHE/APT/ARCHIVES - - - - S - -
+               SPACE - - - - X - -
+              UPDATE - - - - - S -
+             UPGRADE - - - - - X -
+/ETC/APT/SOURCE.LIST - - - - - - O

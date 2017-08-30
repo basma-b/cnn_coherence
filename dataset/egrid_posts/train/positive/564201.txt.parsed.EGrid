@@ -1,0 +1,11 @@
+             COMMAND X - - -
+                 .GZ X - - -
+                 END X - - -
+                 D/L X - - -
+             .TAR.GZ - O - -
+                 TAR - X - -
+                  XF - X - -
+     SOMEFILE.TAR.GZ - S - -
+                THIS - S - -
+                .TAR - O - O
+         SOMEFILE.GZ - - - X

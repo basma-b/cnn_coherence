@@ -1,0 +1,22 @@
+           WEBSERVER O - - - - - - - - -
+            PROBLEMS O - - - - - - - - -
+                LOAD X - - X - - - - - -
+                 PHP S - X - - - - - - -
+                FILE - X - - - X - - - -
+             BROWSER - S - - - - - - - -
+                SUDO - - S - - - - - - -
+                WORK - - O - - - - - - -
+              APACHE - - X - - - - - - -
+              CONFIG - - X - - - - - - -
+                PHP4 - - - X - - - - - -
+                  IE - - - - S - - - - -
+/VAR/LOG/APACHE2/ERROR.LOG - - - - O - - - - -
+                  HM - - - - X - - - - -
+                HOST - - - - X - - - - -
+                  .. - - - - - - X - - X
+                 DOE - - - - - - - X - -
+             ADDTYPE - - - - - - - X - -
+APPLICATION/X-HTTPD-PHP - - - - - - - X - -
+                .PHP - - - - - - - X - -
+              .PHTML - - - - - - - X - -
+               .PHP3 - - - - - - - X - -

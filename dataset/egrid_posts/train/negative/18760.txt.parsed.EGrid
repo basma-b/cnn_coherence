@@ -1,0 +1,18 @@
+REISERFS/REISER4/XFS X X - - -
+               PROGS S X - - -
+               INTEL - X X - -
+           PROCESSOR - O - - -
+         FILESYSTEMS - - X - -
+                NAME - - O - -
+                 PPC - - X - -
+                 KDE - - - X -
+                LIBS - - - O -
+             DEFAULT - - - X -
+                THAT - - - - S
+                   * - - - - X
+           CHARACTER - - - - O
+            NEWLINES - - - - X
+                 END - - - - X
+                LINE - - - - X
+                TEXT - - - - X
+                FILE - - - - X

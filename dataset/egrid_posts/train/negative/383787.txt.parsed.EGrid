@@ -1,0 +1,6 @@
+LINUX-RESTRICTED-MODULES O - -
+        DEBIAN/RULES X - -
+              KERNEL X - -
+             CERTAIN - X -
+               GUESS - S -
+             SYMLINK - O -

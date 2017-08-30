@@ -1,0 +1,16 @@
+                  HD O - - - - -
+                FILE O O O - - X
+               FSTAB - - X - - -
+              REBOOT - - X - - -
+                 HD2 - - X S - -
+                  -A - - - S - -
+          EVERYTHING - - - O - -
+                AUTO - - - X - -
+                  .. - - - X - -
+               LINUX - - - X - -
+            /MNT/HD2 - - - S - -
+                  -T - - - X - -
+                TYPE - - - S - -
+           DIRECTORY - - - O - -
+                KIND - - - - - X
+              SYSTEM - - - - - X

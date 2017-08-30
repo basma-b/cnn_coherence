@@ -1,0 +1,19 @@
+                LOAD X - - - -
+               CYCLE X - - - -
+               COUNT X - - - -
+             /DEV/HD X - - - -
+               -RSB- S - - - -
+             PACKAGE X X - - X
+                 USE - X - - -
+          /USR/LOCAL - X S - -
+               STUFF - X O - -
+                IDEA - O - - -
+      /USR/LOCAL/LIB - - - S -
+/ETC/LD.CONF.D/GLIBC - - - S -
+                LIBS - - - S -
+               FRESH - - - X -
+               FORCE - - - X -
+                THIS - - - X -
+           PARTITION - - - O -
+               /HOME - - - X -
+               CLONE - - - - S

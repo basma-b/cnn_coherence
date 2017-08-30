@@ -1,0 +1,10 @@
+             COMMAND X - -
+                LINE X - -
+                   > - X -
+                SUDO - X -
+             APT-GET - S -
+             UPGRADE - O O
+             MESSAGE - - S
+                   % - - X
+             SEGMENT - - X
+               ERROR - - S

@@ -1,0 +1,14 @@
+         DIRECTORIES O S - - - - - - -
+                NTFS X - - - - - - - -
+           PARTITION X - - - - - - - -
+              CHANGE - O - - - - - - -
+                FILE - S - - - - - O -
+                 USE - - O - - - - - -
+         NON-UNIX-FS - - X - - - - - -
+       MOUNT-OPTIONS - - S - - - - - -
+               ISSUE - - O - - - - - -
+                HINT - - - X - - - - -
+                /-FS - - - S - - - - -
+                BOOT - - - X - - - - -
+               FAT32 - - - - - - - O -
+             WINDOWS - - - - - - - X -

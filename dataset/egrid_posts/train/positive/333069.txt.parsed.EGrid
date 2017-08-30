@@ -1,0 +1,19 @@
+                 NFS X S - - -
+               SHARE O - - - -
+             ARCHIVE X - - - -
+                ROOT X S - - -
+                  LS O - - - -
+/VAR/CACHE/APT/ARCHIVES/ X - - - -
+          PERMISSION S - - - -
+            INTERACT - X - - -
+                WELL - X - - -
+               USERS - S - - -
+                 SET - X X - -
+              EXPORT - - X - -
+              SERVER - - X - -
+               MOUNT - - - - O
+      NO_ROOT_SQUASH - - - - S
+              GOOGLE - - - - S
+               POINT - - - - X
+ /VAR/CACHE/ARCHIVES - - - - O
+                LINK - - - - X

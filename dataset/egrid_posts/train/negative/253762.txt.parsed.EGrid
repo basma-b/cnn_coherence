@@ -1,0 +1,9 @@
+         NDISWRAPPER X - -
+    WRAPPER_INIT:129 X - -
+     LOADNDISWRAPPER S - -
+              SYSTEM X - -
+                 LOG X - -
+             MESSAGE X - -
+      LOADNDISDRIVER X - -
+     /VAR/LOG/SYSLOG - X -
+                 RUN - - O

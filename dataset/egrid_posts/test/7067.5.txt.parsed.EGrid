@@ -1,0 +1,18 @@
+                THAT X - - - O
+           SOMAXCONN X - S - -
+               LIMIT - X O S -
+          UNDERSTAND - - S - -
+                SIZE - - O - -
+             BACKLOG - - X - -
+              NUMBER - - X - -
+  NET.CORE.SOMAXCONN - - X - -
+/PROC/SYS/NET/CORE/SOMAXCONN - - X - -
+         EXECUTABLES - - - S -
+             EXAMPLE - - - X -
+              SERVER - - - O -
+             NOTHING - - - - S
+GRUB_CMDLINE_LINUX_DEFAULT= - - - - S
+              SPLASH - - - - S
+              BECOME - - - - S
+                TEXT - - - - S
+                 CLI - - - - X

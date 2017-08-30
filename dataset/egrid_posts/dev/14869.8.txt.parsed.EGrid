@@ -1,0 +1,16 @@
+                FILE S - - - -
+               USERS S - - - -
+             CONTENT O - - - -
+         PERMISSIONS O - - - -
+            EVERYONE X - - - -
+                USER X - - - -
+                 JUL X - - - -
+                PECA X - - - -
+        /ETC/PROFILE S - - - -
+               UMASK - X - - -
+              MATTER - - X - -
+                DONT - - - - S
+                 MIX - - - - X
+                V4L1 - - - - X
+                V4L2 - - - - X
+           LIBRARIES - - - - O

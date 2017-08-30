@@ -1,0 +1,7 @@
+         PERMISSIONS X - - - -
+           PARTITION X - - - -
+               CHMOD O - - - -
+          FILESYSTEM O - - - -
+            SHORTCUT - - X - -
+                LOCK - - - X -
+                ICON - - - - X

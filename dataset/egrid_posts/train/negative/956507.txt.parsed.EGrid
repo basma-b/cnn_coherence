@@ -1,0 +1,21 @@
+                SSHD S S - - S -
+                PORT O X - - X -
+              CHANGE - O - - - -
+/ETC/SSH/SSHD_CONFIG - X - - - -
+                LINE - O - - - -
+                FILE - S - - - -
+             INFRONT - O - - - -
+                CASE - X - - - -
+           UNCOMMENT - X - - - -
+              NUMBER - X - - - -
+                   K - O - - - -
+           LOCALHOST - - S - - -
+              INSTAL - - O - - -
+                BOOT - - - X - -
+               START - - - - O -
+                 RUN - - - - X -
+                SUDO - - - - X -
+     /ETC/INIT.D/SSH - - - - X -
+                  PS - - - - X -
+                   | - - - - O -
+          CONNECTION - - - - S -

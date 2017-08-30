@@ -1,0 +1,15 @@
+            FIREWALL O - - - - -
+                GUFW - S - - - -
+                   > - O - - - -
+                APPS - X X - - -
+              ACCESS - X - - - -
+               RIGHT - O - - - -
+                 LJL - - X - - -
+            IPTABLES - - S - - -
+                BASE - - X - - -
+         FIREWALLING - - X - - -
+         CONNECTIONS - - X - - -
+             EXAMPLE - - - X - -
+                PORT - - - O O -
+              PIDGIN - - - - - X
+           PROTOCOLS - - - - - X

@@ -1,0 +1,17 @@
+                 ALL O - -
+             PROGRAM X - -
+                  .. O - -
+              RADEON X - -
+                  .I S - -
+                 ATI O - -
+              DRIVER X - -
+            HARDWARE X - X
+        ACCELERATION O - O
+                 DRI S X -
+                .BUT S - -
+                LOAD - O -
+             MODULES - X -
+             SECTION - X -
+  /ETC/X11/XORG.CONF - X -
+              MODULE - - S
+                 X11 - - X

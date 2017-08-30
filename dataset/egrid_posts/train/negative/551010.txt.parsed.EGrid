@@ -1,0 +1,16 @@
+             COMMAND X - - - - -
+             DRIVERS X - - - - -
+             OPTIONS X - - X - -
+              WINDOW - X - - - -
+               HTTPS - X - - - -
+//WIKI.UBUNTU.COM/7.04TOUR - X - - - -
+   ACTION=ATTACHFILE - - X - - -
+              DO=GET - - X - - -
+TARGET=RESTRICTEDDRIVERS.PNG - - S - - -
+              ANYONE - - X - - -
+                NAME - - - S - -
+             PROGRAM - - - X - -
+              DRIVER - - - X - -
+               FLASH - - - - - S
+             POWERPC - - - - - X
+        ARCHITECTURE - - - - - X

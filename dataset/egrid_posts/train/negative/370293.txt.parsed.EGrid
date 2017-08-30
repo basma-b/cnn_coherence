@@ -1,0 +1,9 @@
+             DEFAULT X -
+             GATEWAY X -
+               ROUTE X -
+                 USE X -
+            TERMINAL X -
+/ETC/NETWORK/INTERFACES X -
+                FILE X -
+         IFUP/IFDOWN S -
+                 LOL - X

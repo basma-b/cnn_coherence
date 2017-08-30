@@ -1,0 +1,12 @@
+              REMOTE S - - - - - -
+                  FS S - - - - - -
+               SSHFS O - - - - - -
+              ANYONE S - - - - - -
+                 CAN - X - - - - -
+                HTTP - X - - - - -
+             MACHINE - X - - - - -
+                 SSH - X - - - - -
+              ERRORS - - - X - - -
+                   U - - - - X - -
+                MEAN - - - - S - -
+           FUSEMOUNT - - - - O - X

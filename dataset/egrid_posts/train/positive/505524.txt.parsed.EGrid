@@ -1,0 +1,14 @@
+             ANYBODY S - - - - - - -
+                WIRE X - - - - - - -
+             NETWORK X - - - - - - -
+          CONNECTION O - - - - - - -
+            INTREPID X - - - - - - -
+                SUDO - - X - - - - -
+              IFDOWN - - X - - - - -
+                ETH0 - - X - - - - -
+                IFUP - - X - - - - -
+            /DEV/FD0 - - - - - S - O
+                720K - - - - - O - -
+        /DEV/FD0U720 - - - - - O - -
+               1440K - - - - - O - -
+                  .. - - - - - O - -

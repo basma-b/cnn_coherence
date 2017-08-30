@@ -1,0 +1,46 @@
+                BOOT X - - - - X - - - - -
+                CARD X - - - - - - - - - -
+              CHANGE S - - - - - - - - - -
+               ITEMS S - - - - - - - - - -
+          EVERYTHING O - - - - - - - - - -
+                ETH0 X S - - - - - - - - -
+             STARTUP X - - - - - - - - - -
+             GATEWAY X - - O - - - - - - -
+          ASSIGNMENT X - - - - - - - - - -
+                LEAD X X - - - - - - - - -
+/ETC/NETWORK/INTERFACES - X - - - - - - - - -
+                LINE - O - - - - - - - - -
+                AUTO - X - - - - - - - - -
+                DHCP - - X - - - - - - - -
+                  IP - - X - - - - - - - -
+             DEFAULT - - - X - - - - - - -
+              REBOOT - - - - O - S - - - -
+                NEED - - - - S - - - - - -
+                SUDO - - - - X - - X - - -
+/ETC/INIT.D/NETWORKING - - - - X - - - - - -
+                STOP - - - - X - - - - - -
+               SLEEP - - - - X - - - - - -
+               START - - - - X - - - - - -
+               LINUX - - - - X - - - - - -
+              KERNEL - - - - - X - - - - -
+           REBOOTING - - - - - - S - - - -
+             WINDOWS - - - - - - X - - - -
+                   L - - - - - - S - - - -
+                INFO - - - - - - O - - - -
+             NETWORK - - - - - - X - - - -
+          PERMISSION - - - - - - O - - - -
+/VAR/RUN/NETWORK/IFSTATE - - - - - - - O - - -
+         PERMISSIONS - - - - - - - O - - -
+               SSAYS - - - - - - - O - - -
+               -RW-R - - - - - - - X - - -
+                   R - - - - - - - S - - -
+                ROOT - - - - - - - X - - -
+                THAT - - - - - - - - S - -
+             PROGRAM - - - - - - - - X - -
+              SETUID - - - - - - - - O - -
+              CEDEGA - - - - - - - - - S -
+              REASON - - - - - - - - - O -
+                BITE - - - - - - - - - X -
+              DISRTO - - - - - - - - - O -
+             MACHINE - - - - - - - - - X -
+                   P - - - - - - - - - - X

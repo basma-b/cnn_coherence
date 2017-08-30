@@ -1,0 +1,15 @@
+                GRUB O - - - - -
+                BOOT X - - - - -
+               DRIVE S - - - - -
+              MASTER O - - - - -
+               SLAVE O - - - - -
+                TYPE X - - - - -
+         UPDATE-GRUB X - X - - -
+          GRUB-PROBE O - - - - -
+               ERROR X - - - - -
+           /DEV/SDB1 X - - - - -
+          DEVICE.MAP - O - - - -
+              LIVECD - - X - - -
+                  IP - - - - X -
+                CANT - - - - - X
+            HOSTNAME - - - - - X

@@ -1,0 +1,16 @@
+      ROUTER/GATEWAY S - - - - - - -
+             ADDRESS O - O - O O - -
+                 ISP X - - - - - - -
+                THIS - X S X - - - -
+                SITE - O - - - - - -
+            COMPUTER - X - - - - X -
+                 LAN - X - - - X - -
+                  IP - - X - X - X -
+                 MAN - - S - - - - -
+            IPTABLES - - - - O - - -
+             REQUEST - - - - X - - -
+           WEBSERVER - - - - X - - -
+              SERVER - - - - - X X -
+                REST - - - - - - S -
+                PART - - - - - - - O
+              APACHE - - - - - - - X

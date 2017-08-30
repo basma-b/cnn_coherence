@@ -1,0 +1,16 @@
+               SAMBA O - - - - - - - -
+                USER X - - - X X O - -
+             ACCOUNT O - O - - - - - -
+             MACHINE X - - - - - - - -
+            TESTUSER - X - - - - - - -
+              SYSTEM - - X - - - - - -
+           PASSWORDS - - O - - - - - -
+           SMBPASSWD - - - - S - - - -
+         SAM_ACCOUNT - - - - O - - - -
+              TAZSMB - - - - X - - - -
+                UNIX - - - - - X - - -
+            PASSWORD - - - - - X - - -
+            DATABASE - - - - - X - - -
+                SMBD - - - - - - X - -
+                CANT - - - - - - X - -
+           1280X1024 - - - - - - - - O

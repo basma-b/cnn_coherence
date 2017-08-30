@@ -1,0 +1,15 @@
+               FSTAB O - - - - - -
+           /DEV/HDA4 X - - - - - -
+           PARTITION O - - - - - O
+                SWAP X - S - - - X
+           /DEV/HDA5 X - - - - - -
+           /DEV/HDA2 X - - - - - -
+             PARTION O - - - - - -
+             ANYBODY - X - - - - -
+                   A - - X - - - -
+                 SAY - - X - - - -
+                NONE - - X - - - -
+                 KEY - - X - - - -
+                   ' - - - X - - -
+                  BE - - - X - - -
+                KEY. - - - X - - -

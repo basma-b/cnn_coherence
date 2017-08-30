@@ -1,0 +1,21 @@
+                WINE O - - -
+              ACCESS O - - -
+            CDWRITER X - - -
+                NERO X - - -
+                THAT - S - -
+               ERROR - X - -
+             MESSAGE - S - -
+                ASPI - X - -
+  SCSI_GETDEVICENAME - S - -
+HKLM\HARDWARE\DEVICEMAP\SCSI\SCSI - X - -
+                PORT - X - -
+              0\SCSI - X - -
+                 BUS - X - -
+            0\TARGET - X - -
+                  ID - O - -
+                UNIT - X - -
+                SUDO - - - S
+                  -A - - - S
+               THING - - - O
+               DRIVE - - - X
+          /ETC/FSTAB - - - X

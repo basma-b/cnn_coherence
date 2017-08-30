@@ -1,0 +1,16 @@
+                   K X - - - - - - -
+      AUTHENTICATION - X - - - - - -
+/ETC/SSH/SSHD_CONFIG - X - - - - - -
+                USER - O S - - - - -
+                 SSH - - X - - - - -
+            PASSWORD - - S - - - - -
+                 KEY - - X - - - - -
+             REQUEST - - O - - - - -
+             MESSAGE - - - - X - - -
+          PERMISSION - - - - O - - -
+           PUBLICKEY - - - - X - - -
+               VALUE - - - - - X - -
+PASSWORDAUTHENTICATION - - - - - O - -
+              PEOPLE - - - - - - S -
+               WIMPS - - - - - - O -
+                   P - - - - - - - X

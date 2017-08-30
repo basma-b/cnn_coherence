@@ -1,0 +1,10 @@
+           W32CODECS X O -
+ RESTRICTED-PACKAGES O - -
+              INSTAL X - -
+           GSTREAMER - O -
+         TOTEM-GXINE - X -
+              PLAYER - O -
+               IMAGE - X -
+              STREAM - X -
+               HTTPS - S -
+               THING - - O

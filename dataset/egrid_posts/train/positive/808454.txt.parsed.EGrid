@@ -1,0 +1,19 @@
+          PARTITIONS S - - - - -
+              UBUNTU S - - - - -
+              THINGS - O - - - -
+                THAT - - O - - -
+                   / - - S - - -
+           /DEV/SDA1 - - X - - -
+        INSTALLATION - - X - - -
+UUID=277835F9-469E-44EF-9ECD-411ED792AD0E - - X - - -
+   ERRORS=REMOUNT-RO - - X - - -
+                SWAP - - X - - -
+           /DEV/SDA3 - - X - - -
+                NONE - - X - - -
+                LOOK - - O - - -
+               FSTAB - - O - - -
+                LIST - - O - - -
+           PARTITION - - X - - -
+               UUIDS - - X - - -
+                HASH - - - O - -
+            PASSWORD - - - X - -

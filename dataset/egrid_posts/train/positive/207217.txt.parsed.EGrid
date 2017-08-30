@@ -1,0 +1,9 @@
+                FILE O - O - - -
+              CHANGE S - O - - -
+          BOOTSECTOR X - - - - -
+                THIS X - - - - -
+        GRUB-INSTALL - - O - - -
+                DONT - - X - - -
+         UPDATE-GRUB - - - O - O
+              REBOOT - - - O - -
+                LIST - - - - - O

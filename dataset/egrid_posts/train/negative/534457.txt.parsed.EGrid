@@ -1,0 +1,17 @@
+                SSHD O S - X - - - - -
+                JAIL X - - X - - - - -
+              MOMENT - X - - - - - - -
+               ERROR - O - - - - - - -
+           PRIVILEGE - X - - - - - - -
+          SEPARATION - X - - - - - - -
+                USER - X X - - - - - -
+             ENTRIES - O - - - - - - -
+         /ETC/PASSWD - X X - - - - - -
+         /ETC/SHADOW - X - - - - - - -
+              SYSTEM - X - - - - - - -
+                NAME - - S - - - - - -
+                 YES - - - S - - - - -
+                HOME - - - S - - - - -
+                 SSH - - - - X - - - -
+                 SET - - - - - S - - -
+                THAT - - - - - - O S -

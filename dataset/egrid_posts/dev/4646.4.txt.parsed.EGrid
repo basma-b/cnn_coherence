@@ -1,0 +1,35 @@
+               BREAK X - - - -
+                USER X - - - -
+             ACCOUNT O - - - -
+               GUEST X - - - -
+                CANT X - - - -
+                ROOT O X - - -
+                BOOT X - - - -
+            RECOVERY X - - - -
+                MODE X - - - -
+                  FS S - - - -
+                   / - X - - -
+          READ/WRITE - X - - -
+            COMPUTER - S - - -
+              ACCESS - O - - -
+              SERVER - X - - -
+           PARTITION - X - - -
+          READ-WRITE - O - - -
+       ACTIONPARSNIP - - O - -
+             PRINTER - - X - O
+         PRINTERNAME - - X - -
+                 CUP - - X - -
+           QUEUENAME - - X - -
+HP_DESKJET_5400_SERIES - - X - -
+                MAKE - - X - -
+               MODEL - - X - -
+                  HP - - X - -
+             DESKJET - - X - -
+              SERIES - - S - -
+              REPEAT - - O - -
+               XCHAT - - X X -
+                 IPP - - - - O
+//192.168.0.105:631/PRINTERS/HP_DESKJET_5400_SERIES - - - - S
+                 URI - - - - X
+           LOCALHOST - - - - X
+       192.168.0.105 - - - - O

@@ -1,0 +1,16 @@
+               INETD - S - - X - - - - - -
+              SERVER - - O - - - - - - - -
+     /ETC/INETD.CONF - - O - - - - - - - -
+             SERVICE - - X - - - - - - - -
+                 USE - - - X - - - - - - -
+   INETD-REPLACEMENT - - - X - - - - - - -
+              SCRIPT - - - - O - - - - - -
+             VARIANT - - - - O - - - - - -
+             DEFAULT - - - - - - X - X - X
+         _SOMETHING_ - - - - - - - S - - -
+                THAT - - - - - - - - S - -
+              INSTAL - - - - - - - - O - -
+               STUFF - - - - - - - - S - -
+              XINETD - - - - - - - - O - S
+                 LOT - - - - - - - - - - O
+             DISTROS - - - - - - - - - - X

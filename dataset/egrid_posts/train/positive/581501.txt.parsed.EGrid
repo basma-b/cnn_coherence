@@ -1,0 +1,13 @@
+             PROGRAM S - - -
+          DEPENDENCY O - - -
+           PROCESSOR X X - -
+              DOESNT S - - -
+             SUPPORT O - - O
+                 WAY X - - -
+                SSE2 - O - X
+                 DEP - X - -
+                   % - X - -
+                 CAT - - X -
+       /PROC/CPUINFO - - S -
+                FLAG - - X X
+                 THA - - - S

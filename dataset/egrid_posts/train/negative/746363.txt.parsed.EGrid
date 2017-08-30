@@ -1,0 +1,13 @@
+            EVERYONE X - - - - - -
+              ROUTER - O S - - - -
+                DHCP - X - - - - -
+             MACHINE - S - - - - -
+        192.168.1.42 - X - - - - -
+           INTERFACE - - S - - - -
+            DHCLIENT - - S S O - -
+       192.168.1.101 - - O - - - -
+            DISCOVER - - - O - - -
+             ADDRESS - - - O - - -
+                TYPE - - - X - - -
+               WLAN0 - - - X - - -
+             PACKAGE - - - - X - -

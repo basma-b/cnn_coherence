@@ -1,0 +1,12 @@
+                 ALL S - - - -
+               AUDIO S - - - -
+             .AMAROK X - - - -
+              PIDGIN X - - - -
+           SOUNDCARD - O O - -
+             PROCESS - X - - -
+             CONTROL - O - - -
+                THIS - - O - -
+                SUDO - - X - -
+                LSOF - - S - -
+                 DSP - - O - -
+            ANYTHING - - - - O

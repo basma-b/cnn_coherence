@@ -1,0 +1,29 @@
+              SERVER O - - - - - - - - -
+                  IP X - - - - - - - - -
+                DHCP O - - - - - - - - -
+                 SMC X - - - - - - - - -
+           BARRICADE X - - - - - - - - -
+                   G X - - - - - - - - -
+              ROUTER X X - X - - - - - -
+/ETC/NETWORK/INTERFACES - X - - - O - - - -
+               IFACE - X - - - - - - - -
+                ETH0 - S - - - - - O - -
+             ADDRESS - O - - - X - - - -
+       192.168.2.200 - O - - - - - - - -
+              CONFIG - X - - - - - - - -
+                PAGE - X - - - - - - - -
+            INTERNET - O - - - X - - - -
+            ANYTHING - - O X - - - - - -
+             NETWORK - - S - - - - - - -
+           INTERFACE - - - O - - - - - -
+                NAME - - - - X - - - - -
+          RESOLUTION - - - - O - - - - -
+             GATEWAY - - - - - X - - - -
+         192.168.2.1 - - - - - - X - - -
+                FILE - - - - - - O - - -
+             VERSION - - - - - - - O - -
+                SUDO - - - - - - - X - -
+                IFUP - - - - - - - X - -
+          CORRECTION - - - - - - - O - -
+                HTTP - - - - - - - - - X
+//PASTE.UBUNTU-NL.ORG/6190/ - - - - - - - - - X

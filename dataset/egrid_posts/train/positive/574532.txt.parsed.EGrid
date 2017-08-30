@@ -1,0 +1,16 @@
+             DISPLAY X - - - - -
+             PROBLEM X - - - - -
+             UPGRADE - X - - - -
+              JAUNTY - X - - - -
+                CARD - X - - - -
+           82845G/GL - S - - - -
+                BAND - - O - - -
+              SCREEN - - X - - -
+                 GDM - - S - - -
+              REVERT - - - O - -
+XSERVER-XORG-VIDEO-INTEL-2.4 - - - X - -
+             NOTHING - - - S - -
+              CHANGE - - - O - -
+                SUDO - - - - - X
+  /ETC/X11/XORG.CONF - - - - - X
+     /ETC/INIT.D/GDM - - - - - X

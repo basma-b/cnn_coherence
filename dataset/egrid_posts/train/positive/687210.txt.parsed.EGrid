@@ -1,0 +1,17 @@
+                 ALL X - - - O - -
+                TIME - X - - - - -
+                BOOT - X - X - - -
+                  .. - X - X - - -
+              ERRORS - S - O - - -
+              SCREEN - X - X - - -
+                 LOG - X - - - - -
+                  IM - - S - - - -
+               DMESG - - X - - - -
+             MESSAGE - - X - - - -
+            /VAR/LOG - - S - - - -
+                 YEA - - O - - X -
+       /VAR/LOG/BOOT - - - X - - -
+               THERE - - - S - - -
+             NOTHING - - - O - - -
+                   | - - - - S - -
+                GOOD - - - - - - S

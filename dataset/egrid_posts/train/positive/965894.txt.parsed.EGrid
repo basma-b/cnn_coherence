@@ -1,0 +1,16 @@
+             NETWORK X - -
+               CABLE X - -
+                   < O - -
+               POINT X - -
+            RESPONSE O - -
+                CARD S - -
+              ROUTER X - -
+              CHANGE O - -
+            DHCLIENT - X -
+                  -I - S -
+                ETH0 - O -
+              OUTPUT - - S
+                BIND - - S
+              SOCKET - - S
+           INTERFACE - - X
+             HDEVICE - - S

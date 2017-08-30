@@ -1,0 +1,14 @@
+        DIST-UPGRADE O - - - - - - -
+                   X X - - - O - - -
+              SERVER O X - - - - - -
+               ERROR - X - - - - - -
+               XAUTH - O - - - - - -
+           AUTHORITY - X - - - - - -
+                FILE - X - - - - - -
+/HOME/CHOP/.SERVERAUTH.15418 - O - - - - - -
+              ERROR. - X - - - - - -
+   /VAR/LOG/XORG.LOG - - - X - - - -
+              OUTPUT - - - - O - - -
+                APPS - - - - - - - O
+       UBUNTU-SERVER - - - - - - - X
+ PACKAGES.UBUNTU.COM - - - - - - - O

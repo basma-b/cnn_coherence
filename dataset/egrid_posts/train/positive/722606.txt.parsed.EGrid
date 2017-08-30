@@ -1,0 +1,15 @@
+             COMMAND O - - - - - - -
+                 MAN - S X - - - - -
+                GREP - X - - X - - -
+           IGNORANCE - X - - - - - -
+                  -V - - S S - - - -
+              INVERT - - X - - - - -
+               MATCH - - O - - - - -
+                PAGE - - X - - - - -
+               SENSE - - X - - - - -
+                LINE - - O - - - - X
+               POSIX - - - X - - - -
+                   Y - - - - S - - -
+              SEARCH - - - - X - - -
+               STRIP - - - - - - - O
+              STRING - - - - - - - X

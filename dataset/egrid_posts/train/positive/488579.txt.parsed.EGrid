@@ -1,0 +1,10 @@
+               THERE X - - - - -
+                TOOL X X - - - -
+                HOST O - - - - -
+     /ETC/HOSTS.DENY X - - - - -
+              DAEMON X - - - - -
+                RULE O - - - - -
+            IPTABLES X S - X - -
+          HOSTS.DENY - X - X - -
+                READ - - - S - -
+                MORE - - - O - -

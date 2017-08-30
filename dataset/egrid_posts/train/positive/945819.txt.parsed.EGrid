@@ -1,0 +1,17 @@
+                AUTO X - -
+          UMASK=0000 S - -
+               THERE S - -
+               SPACE O - -
+                TYPE X - -
+                VFAT S - -
+                 WIN X - -
+           PARTITION S - -
+               FAT32 O - -
+                USER S - S
+               ADMIN X - -
+                SUDO X - O
+               POWER O - -
+              VISUDO - - O
+        /ETC/SUDOERS - - O
+             HIM/HER - - O
+               GROUP - - X

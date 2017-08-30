@@ -1,0 +1,6 @@
+             PROCESS X - -
+            TERMINAL O - -
+             COMMAND - X -
+              DISOWN - X -
+                SUDO - - X
+                  -I - - X

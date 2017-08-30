@@ -1,0 +1,17 @@
+                EXT3 X - -
+          FILESYSTEM S - -
+              /VDISK X - -
+                TYPE X - -
+            ANYTHING O - -
+                DISK X - -
+          READ/WRITE O - -
+               USERS X - -
+              ANYONE S - -
+             COMMAND O - -
+              FOLDER S - -
+                FILE S - -
+               CHMOD - S -
+                 DIR - O -
+               SOUND - - X
+              LEGACY - - O
+               10.04 - - X

@@ -1,0 +1,23 @@
+                IDEA X - - - - - - -
+/ETC/NETWORK/INTERFACES S - - - - - - -
+              BOOTUP X - X - - - - -
+                WORK - X - - - - - -
+             NETWORK - O - - - - - -
+              STATIC - S - - - - - -
+           INTERFACE - X - - - - - -
+                FILE - X - - - - - -
+                 USE - - O - - - - -
+                DHCP - - X - - - - -
+                   / - - X - - - - -
+                WICD - - X - - - - -
+             NOTHING - - - X - - - -
+              MCELOG - - - X - - - -
+     LINUX-CRASHDUMP - - - O X - - -
+               CLUES - - - - O - - -
+               CRASH - - - - X - - -
+              SYSTEM - - - - - S - -
+   /VAR/LOG/KERN.LOG - - - - - - X -
+            HARDWARE - - - - - - X -
+              ERRORS - - - - - - O -
+               THERE - - - - - - - X
+                 LOG - - - - - - - X

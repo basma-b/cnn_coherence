@@ -1,0 +1,16 @@
+           PARTITION X O X - X - - X
+               POINT X X - - O - - -
+                   / - X - - X - - -
+               /BOOT - X - - - - - -
+               /HOME - X - - - - - -
+             WINDOWS - - O - - - - -
+         BOOT-LOADER - - O - - - - -
+                KIND - - X - - - - -
+                GRUB - - X - - - - -
+                SWAP - - - X X - X X
+               HTTPS - - - - X - - -
+//HELP.UBUNTU.COM/COMMUNITY/INSTALLATION - - - - S - - -
+       DOCUMENTATION - - - - X - - -
+                FILE - - - - - - O X
+               LINUX - - - - - - - X
+        INSTALLATION - - - - - - - X

@@ -1,0 +1,27 @@
+    UBUNTU-DEV-TOOLS X - - -
+      SOURCE_PACKAGE X - - -
+             QUANTAL X - X -
+     BACKPORTPACKAGE O - - -
+               REPOS O - O -
+                 LOT S - - -
+             PACKAGE O O O -
+                BITE O - - -
+              SYSTEM X - - -
+             DEFAULT X - - -
+        DISTRIBUTION O - - -
+NO-INSTALL-RECOMMENDS - S - -
+                .DSC - X - -
+                 TAR - X - -
+                FILE - O - -
+                 APT - X - -
+             VERSION - O - -
+                WICH - - S -
+                 WAY - - - O
+                 APP - - - S
+            TERMINAL - - - S
+               ERROR - - - X
+             MESSAGE - - - O
+          FONTCONFIG - - - S
+                LINE - - - X
+      CONFIGURATIONS - - - S
+       ~/.FONTS.CONF - - - X

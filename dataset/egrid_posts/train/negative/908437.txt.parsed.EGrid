@@ -1,0 +1,26 @@
+   /ETC/SOURCES.LIST X - - - - -
+            SECURITY - X - - - -
+               PATCH - X - - - -
+               WARTY - X X - - -
+                  NO - - S - - -
+                 DEB - - X - - -
+                HTTP - - O - - -
+                MAIN - - S - - -
+                HMMM - - X - - -
+                 SET - - X - - -
+            PROBLEMS - - X - - -
+                   W - - X - - -
+                STAT - - O - - -
+              SOURCE - - X - - -
+             PACKAGE - - X - - -
+                LIST - - X - - -
+ WARTY-SECURITY/MAIN - - X - - -
+            PACKAGES - - X - - -
+/VAR/LIB/APT/LISTS/SECURITY.UBUNTU.COM_UBUNTU_DISTS_WARTY-SECURITY_MAIN_BINARY-I386_PACKAGES - - X - - -
+                FILE - - X - - -
+           DIRECTORY - - X - - -
+                  .. - - O - - -
+            COMPUTER - - X - - -
+              ACCESS - - O - - -
+                 NET - - X - - -
+              EFFECT - - - - - X

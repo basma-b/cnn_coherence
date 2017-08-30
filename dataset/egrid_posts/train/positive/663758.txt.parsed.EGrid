@@ -1,0 +1,9 @@
+                CALL O - - -
+          START/STOP X - - -
+              SCRIPT X - - -
+                SUDO - X - -
+             SERVICE - X - -
+/ETC/INIT.D/WHATEVER - X - -
+             UPSTART - X - X
+                 NON - S - -
+                 DSL - - X -

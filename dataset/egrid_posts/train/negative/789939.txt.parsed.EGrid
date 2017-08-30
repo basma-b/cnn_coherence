@@ -1,0 +1,22 @@
+/VAR/LOG/GDM/:0-SLAVE.LOG S - - -
+               -RSB- S - - -
+GLIB-GOBJECT-CRITICAL X - - -
+ G_VALUE_GET_BOOLEAN X - - -
+           ASSERTION X - - -
+G_VALUE_HOLDS_BOOLEAN X - - -
+               VALUE X - - -
+                  .. X - - -
+       .ICEAUTHORITY S - - -
+                ROOT X - - -
+         /HOME/MEDIA X - - -
+           AUTOLOGIN - X - -
+               MEDIA - X - -
+                BOOT - - X -
+            RECOVERY - - X -
+                MODE - - O -
+                FILE - - O -
+                 GUI - - X -
+                APPS - - O -
+                SUDO - - X -
+                  OS - - O -
+               ISSUE - - O -

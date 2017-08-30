@@ -1,0 +1,8 @@
+           DIRECTORY X - - -
+        SUBDIRECTORY X - - -
+                FILE X S - -
+              CHANGE X O - -
+                 LOG - X - -
+             INOTIFY - - X -
+            PARAMTER - - - O
+      UPDATE-MANAGER - - - X

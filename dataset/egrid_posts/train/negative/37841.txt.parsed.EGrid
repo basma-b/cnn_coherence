@@ -1,0 +1,13 @@
+               FSTAB X - - -
+                TALK O - - -
+               ABOOD X - - -
+                VFAT - - X -
+               DRIVE - - O -
+           SOMETHING - - X -
+             UMASK=0 - - X -
+          /ETC/FSTAB - - X -
+             /CHROOT - - - O
+                DPKG - - - O
+               SKYPE - - - O
+                  .. - - - O
+                WHAT - - - O

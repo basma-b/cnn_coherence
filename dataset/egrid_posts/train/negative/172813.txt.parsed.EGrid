@@ -1,0 +1,24 @@
+            QUESTION S - - - - - - -
+                FILE - O O - - - X X
+              DAMAGE - X - - - - - -
+                  HD - X - - - - - -
+                 ONE - X - - - - - -
+                 LVM - - O - - - - -
+               SETUP - - - X - - - -
+           PARTITION - - - X - - - -
+                HDA2 - - - X - - - -
+                HDA5 - - - X - - - -
+                BOOT - - - X - - X -
+             MACHINE - - - O - - - -
+/DEV/MAPPER/UBUNTU-ROOT - - - - S - - -
+                  TY - - - - - - O -
+              LIVECD - - - - - - X -
+                LOOK - - - - - - O -
+             UTILITY - - - - - - - S
+     NVIDIA-SETTINGS - - - - - - - S
+             MONITOR - - - - - - - X
+              NVIDIA - - - - - - - X
+                DOCS - - - - - - - O
+               VIDEO - - - - - - - X
+              DRIVER - - - - - - - O
+             WEBSITE - - - - - - - X

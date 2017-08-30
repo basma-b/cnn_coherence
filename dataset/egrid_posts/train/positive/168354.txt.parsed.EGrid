@@ -1,0 +1,10 @@
+/ETC/WPA_SUPPLICANT.CONF.OLD X - - - -
+/ETC/WPA_SUPPLICANT/WPA_SUPPLICANT.CONF - O - - -
+            EXAMPLES - - O - X
+               SETUP - - X - -
+             NOTHING - - X - -
+         CERTIFICATE - - X - -
+                MINE - - - - S
+                LOTS - - - - O
+             CONFIGS - - - - X
+               STUFF - - - - O

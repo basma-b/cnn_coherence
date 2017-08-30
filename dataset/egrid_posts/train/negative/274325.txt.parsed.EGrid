@@ -1,0 +1,13 @@
+              SCRIPT X X - - - - -
+                 TTY X - - - - - -
+             STARTUP X - - - - - -
+                   X - - X - - - -
+             VIRTUAL - - X - - - -
+             DESKTOP - - X - - - -
+         APPLICATION - - X - - - -
+                  NX - - X - - - -
+                 VNC - - S - - - -
+              DAEMON - - S - - - -
+             COMMAND - - S X - - -
+               CACHE - - - - - - O
+     /VAR/CACHE/APT/ - - - - - - X

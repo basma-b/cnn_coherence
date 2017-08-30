@@ -1,0 +1,16 @@
+             COMMAND X S - - - - -
+                SUDO X - - - - - -
+    DPKG-RECONFIGURE X - - - - - -
+        XSERVER-XORG X - - - - - -
+         XORG.CONFIG - X - - - - -
+                FILE - O O - - - -
+                XORG - - S - S - -
+             PROBLEM - - O - - - -
+                 SET - - X - - - -
+              UBUNTU - - X - - - -
+                MODE - - O - - - -
+              DAMAGE - - - S - - -
+            SETTINGS - - - - O - -
+                AUTO - - - - X - -
+             MACHINE - - - - O - -
+              DAEMON - - - - - - S

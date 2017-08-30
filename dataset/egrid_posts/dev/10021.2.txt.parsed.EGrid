@@ -1,0 +1,16 @@
+               GRUB2 - X - - - - - - - -
+                   | - S - - - - - - - -
+               DMESG - - - X - - - - - -
+                 URL - - - S - - - - - -
+              LITTLE - - - O - - - - - -
+                  .. - - - X - - - - - -
+               THINK - - - - X - - - - -
+               PURGE - - - - - X - - - -
+               FGLRX - - - - - X - - - -
+             DRIVERS - - - - - - X - - -
+              EXPERT - - - - - - - X - -
+         PROPRIETARY - - - - - - - X - -
+              DRIVER - - - - - - - S X X
+            SEGFAULT - - - - - - - O - -
+                WORK - - - - - - - - X O
+              SYSTEM - - - - - - - - X -

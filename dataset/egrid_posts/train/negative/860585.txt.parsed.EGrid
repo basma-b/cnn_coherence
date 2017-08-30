@@ -1,0 +1,24 @@
+                CARD X X -
+              READER S - -
+               DMESG X - -
+                SCSI X S -
+            13:0:0:0 X - -
+               CF/MD X - -
+                  PQ X - -
+                ANSI X - -
+                 CCS X - -
+               FDISK X - -
+                  BS - X -
+              DRIVER - O -
+              OUTPUT - X -
+             COMMAND - X -
+                   U - X -
+                HTTP - O -
+//PASTE.UBUNTU.COM/717033/ - X -
+              DEVICE - S -
+              SIGNAL - - S
+               THERE - - S
+             NETWORK - - O
+             FAILURE - - O
+                BOOT - - X
+              THINGS - - O

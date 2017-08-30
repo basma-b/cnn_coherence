@@ -1,0 +1,14 @@
+             COMMAND X - - - -
+               FSTAB X - - - -
+       192.168.0.169 X - X - -
+                   < X X - - -
+                THIS - X - - -
+                LINE - X - - -
+                WONT - S - - -
+               MOUNT - O - - -
+                UNIT - O - - -
+                TYPE - S - - -
+             OPTIONS - X - - -
+   /MEDIA/NFS-MYBOOK - X - - -
+                 NFS - - S - -
+               THOSE - - - - O

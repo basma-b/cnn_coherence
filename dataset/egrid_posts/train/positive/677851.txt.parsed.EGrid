@@ -1,0 +1,23 @@
+                BIOS X - - - - O - - - -
+             FACTORY X - - - - - - - - -
+             DEFAULT S - - - - - - - - -
+              DRIVER - O - - - - - - - -
+            WIRELESS - - - X - - - - - -
+                -VVV - - - - X - - - - -
+            ETHERNET - - - - X - - X - -
+              DEVICE - - - - S - - - - -
+                LIST - - - - O - - - - -
+            HARDWARE - - - - - X - - - -
+               ISSUE - - - - - O - - - -
+          CONTROLLER - - - - - - O - - -
+                IDEA - - - - - - O - - -
+               LSPCI - - - - - - - O - -
+              THANKS - - - - - - - X - -
+                HELP - - - - - - - X - -
+                 CAT - - - - - - - X - -
+/ETC/NETWORK/INTERFACES - - - - - - - S - -
+                ETH0 - - - - - - - O - -
+              RESULT - - - - - - - O - -
+             CHANNEL - - - - - - - X - -
+             CHIPSET - - - - - - - O - -
+               INTEL - - - - - - - - - O

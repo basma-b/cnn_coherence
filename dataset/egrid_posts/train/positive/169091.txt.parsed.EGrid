@@ -1,0 +1,18 @@
+                ETH1 S - - - O -
+               ORDER X - - - - -
+              SYSTEM - S - - - -
+                   > - X - - - -
+      ADMINISTRATION - X - - - -
+          NETWORKING - O - - - -
+/ETC/NETWORK/INTERFACES - S - X - -
+              BOOTUP - X - - - -
+         /INTERFACES - - X - - -
+                ETH0 - - S - - -
+             NETWORK - - X - - -
+                 GUI - - X - - -
+                 TAB - - X - - -
+             MODULES - - S - - -
+                LOAD - - O - - -
+           CONFIGURE - - - X - -
+            IFCONFIG - - - - - S
+             COMMAND - - - - - X

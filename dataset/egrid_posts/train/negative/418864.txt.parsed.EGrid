@@ -1,0 +1,26 @@
+                HELP X - - - - - - - -
+               INTEL X - - - - - - - -
+                  AG X - - - - - - - -
+                SORT X - - - - - - - -
+              PACKET - X X - - - - - -
+              SOURCE - X S - - - - - -
+              KISMET - - S X X - - - -
+         KISMET.CONF - - X - - - - - -
+             COMMAND - - X - - - - - -
+                LINE - - X - - - X - -
+              README - - - O - - - - -
+         INFORMATION - - - X - - - - -
+               SETUP - - - - X - - - -
+            WIRELESS - - - - X - - - -
+           INTERFACE - - - - O - - - -
+/ETC/KISMET/KISMET.CONF - - - - S - - - -
+             IWL4965 - - - - O - - - -
+                FUNC - - - - O - - - -
+             VERSION - - - - S X - - -
+              RETURN - - - - O - - - -
+              UBUNTU - - - - - X - - -
+             SOURCE= - - - - - - X - -
+      SOURCE=IPW4965 - - - - - - - X -
+               WLAN0 - - - - - - - X -
+             IPW4965 - - - - - - - X -
+         PROPRIETARY - - - - - - - - X

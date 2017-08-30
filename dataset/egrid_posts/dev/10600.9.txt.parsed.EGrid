@@ -1,0 +1,16 @@
+                MOVE X - - - - - - -
+                ROOT X - X - - - - -
+           PARTITION S - X - - - - -
+                 ETC O - - - - - - -
+                GRUB - X - - - - - -
+              CONFIG - X - - - - - -
+       GRUB-MKCONFIG - - S - - - - -
+              CHROOT - - X - - - - -
+            MENU.CFG - - O - - - - -
+//MANPAGES.UBUNTU.COM/MANPAGES/HARDY/MAN8/UPDATE-GRUB.8.HTML - - - X - - - -
+                LIST - - - - - X - -
+             COMMAND - - - - - X - -
+                   | - - - - - - - X
+                GREP - - - - - - - X
+                  -C - - - - - - - X
+              HW:1,3 - - - - - - - X

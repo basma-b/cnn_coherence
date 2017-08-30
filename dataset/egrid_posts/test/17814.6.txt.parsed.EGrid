@@ -1,0 +1,15 @@
+         NDISWRAPPER X X -
+               LINUS X - -
+                THAT - S S
+               LINUX - S -
+              KERNEL - X -
+             VERSION - X -
+             DEFAULT - X -
+             COMMAND - X -
+    NDISWRAPPER-DKMS - X -
+                SUDO - X -
+            MODPROBE - X -
+              MODULE - O -
+              MISUSE - - O
+                TERM - - X
+                ROOT - - X

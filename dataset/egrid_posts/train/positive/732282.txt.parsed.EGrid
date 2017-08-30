@@ -1,0 +1,15 @@
+       DHCLIENT.CONF S - - -
+                 DNS O S - S
+            DHCLIENT X - - -
+         RESOLV.CONF X X - -
+                LINE O O - -
+              ROUTER X - - X
+                 ONE O - - -
+             REQUEST - X - -
+          NAMESERVER - O - -
+             COMMAND - X - -
+              SEARCH - X - -
+             ELEMENT - X - -
+                 USE - - - X
+                THIS - - - S
+                AUTO - - - S

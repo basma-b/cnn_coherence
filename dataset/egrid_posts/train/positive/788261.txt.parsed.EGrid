@@ -1,0 +1,13 @@
+           ALSAMIXER O - - - -
+                SUDO X - - - -
+                USER X O - - -
+               GROUP - X - - X
+               MIXER - O - - -
+                FILE - S - - -
+           DIRECTORY - X - - -
+           SOMETHING - S O - -
+         PERMISSIONS - - X - -
+               APLAY - - - X -
+/USR/SHARE/SOUNDS/ALSA/FRONT_CENTER.WAV - - - X -
+                WORK - - - O -
+                 SET - - - - O

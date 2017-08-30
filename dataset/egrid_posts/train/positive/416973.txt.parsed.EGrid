@@ -1,0 +1,9 @@
+                GREP X - - -
+         CAN_SUSPEND O - - -
+/APPS/GNOME-POWER-MANAGER X - - -
+                SHOW S - - -
+              REASON X - - -
+                 HAL S - - -
+             SUSPEND O - - -
+            SETTINGS - O - -
+/ETC/DEFAULT/ACPI-SUPPORT - X - -

@@ -1,0 +1,14 @@
+            QUESTION O - - - - - -
+             NETWORK S - - - - - O
+                WORK X - - - - - -
+               FSTAB X X - X - - -
+               ENTRY - X - X X - -
+             OPTIONS - X - X - - X
+               PASTE - - - - O - -
+      192.168.88.252 - - - - - X -
+          /MNT/REPOS - - - - - X -
+                 NFS - - - - - X -
+             _NETDEV - - - - - - O
+                INTR - - - - - - X
+              SYSTEM - - - - - - O
+              DEVICE - - - - - - O

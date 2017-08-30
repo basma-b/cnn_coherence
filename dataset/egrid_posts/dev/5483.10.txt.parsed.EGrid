@@ -1,0 +1,14 @@
+             RELEASE O - - - - - -
+            ACPI=OFF O - - - - - -
+            MENU.LST X - - - - - -
+               GRUB2 - X - - - - -
+                SAME - - - O - - -
+            TERMINAL - - - - - S -
+                TEST - - - - - X -
+                USER - - - - - O -
+               ISSUE - - - - - O -
+                MAIL - - - - - - O
+              CLIENT - - - - - - S
+             WINDOWS - - - - - - X
+             ACCOUNT - - - - - - X
+            SETTINGS - - - - - - O

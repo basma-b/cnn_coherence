@@ -1,0 +1,12 @@
+    /SBIN/MOUNT.FUSE O - - - - -
+               RARFS X - - S X -
+        /MOUNT/POINT X - - - - -
+                CRON X - - - - -
+             /BIN/SH X - - - - -
+             COMMAND X - - - - -
+//UBUNTUFORUMS.ORG/ARCHIVE/INDEX.PHP/T-573307.HTML - - S - - -
+                PATH - - S - - -
+             CRONTAB - - X - - -
+                TYPE - - - - X -
+            TERMINAL - - - - X -
+/USR/LOCAL/BIN/RARFS - - - - - X

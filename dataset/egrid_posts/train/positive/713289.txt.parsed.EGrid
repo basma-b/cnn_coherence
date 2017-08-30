@@ -1,0 +1,20 @@
+                LAMP X - - - - - -
+              SERVER S - - - - X -
+                FILE X - - - - - -
+             VAR/WWW X - - - - - -
+               /HOME X - - - - - -
+               VHOST - O - - - S -
+            ETCETERA - X - - - - -
+           DIRECTORY - - O - X - X
+                SITE - - X - - - O
+              APACHE - - S - - X -
+             FOLDERS - - X - - - -
+/ETC/APACHE2/SITES-AVAILABLE - - - - X - -
+       CONFIGURATION - - - - S - -
+             COMMAND - - - - S - O
+             SYMLINK - - - - O - -
+              RELOAD - - - - - X -
+              ERRORS - - - - - X -
+                DONT - - - - - - S
+     SITES-AVAILABLE - - - - - - O
+                OOPS - - - - - - S

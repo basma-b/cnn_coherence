@@ -1,0 +1,20 @@
+               STUFF S - - - - -
+                PAGE X - O - - O
+                NEED - X - - - -
+//HSWN.DK/HOBBIT-CGI/HOBBIT-HOSTGRAPHS.SH - - X X - -
+                  -R - - - X - -
+                HTTP - - - X - -
+HOSTNAME=PTO.LINUXBOG.DK - - - X - -
+HOSTNAME=RENOIR.HSWN.DK - - - X X -
+       TESTNAME=CONN - - - X X -
+DOREPORT=GENERATE+REPORT - - - X X -
+                LINK - - - S - -
+            OUT.HTML - - - - S -
+               THERE - - - - - S
+                 MAN - - - - - X
+                CANT - - - - - S
+               CHECK - - - - - X
+              SOURCE - - - - - O
+                   < - - - - - X
+             PACKAGE - - - - - X
+                   > - - - - - S

@@ -1,0 +1,13 @@
+             COMMAND S O -
+              PRINTF X S -
+               INPUT - X -
+                JRIB - - O
+                GREP - - O
+                 FOO - - X
+                TEXT - - X
+                FILE - - X
+             COUNTER - - X
+              STRING - - X
+               MATCH - - S
+                 BAR - - X
+                BASH - - O

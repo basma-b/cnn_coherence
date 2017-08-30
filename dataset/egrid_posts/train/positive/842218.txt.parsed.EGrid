@@ -1,0 +1,15 @@
+                 PLZ S - - - - - - - - - -
+              FORMAT - X - X X - X - - - -
+               DRIVE - O S - - - - - - - -
+             MESSAGE - - S - - - - - - - -
+              DEVICE - - S - - - - - - - -
+                DISK - - - X - - - - - - -
+                  FS - - - - X - - - - - -
+                 XFS - - - - - - X - - - -
+               THERE - - - - - - S - - - -
+                FILE - - - - - - X - - - -
+              SYSTEM - - - - - - O - - - -
+           PARTITION - - - - - - - - O - -
+                NEED - - - - - - - - - - X
+                SUDO - - - - - - - - - - X
+            MKFS.XFS - - - - - - - - - - O

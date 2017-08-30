@@ -1,0 +1,25 @@
+           GCONFTOOL X - - - - - -
+                 SET X - - - - - -
+/APPS/PANEL/APPLETS/CLOCK_SCREEN0/PREFS/INTERNET_TIME X - - - - - -
+                TYPE X - - - - - -
+             BOOLEAN S - - - - - -
+              CHANGE X - - - - - -
+                  .. X - - - - - -
+                 SEC X - - - - - -
+/APPS/PANEL/APPLETS/CLOCK_SCREEN0/PREFS/FORMAT X - - - - - -
+              STRING X - - - - - -
+            INTERNET X - - - - - -
+             COMMAND - - X - - - -
+            SETTINGS - - - O - - O
+               CLOCK - - - X - - -
+              APPLET - - - X - - -
+              DIALOG - - - X - - -
+        GCONF-EDITOR - - - - O - S
+                 KEY - - - - O - -
+                TIME - - - - - X -
+                THAT - - - - - S -
+             FEATURE - - - - - S -
+     SWATCH/INTERNET - - - - - X -
+             CHANNEL - - - - - X -
+       CONFIGURATION - - - - - - X
+                MENU - - - - - - X

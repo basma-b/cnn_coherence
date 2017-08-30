@@ -1,0 +1,25 @@
+                THAT - X - S - - - - - - - -
+       ROOT=/DEV/SDX - - S - - - - - - - - -
+/BOOT/NAMEOFINITRDIMAGE - - O - - - - - - - - -
+               AMD64 - - O - - - - - - - - -
+          DIFFERENCE - - O - - - - - - - - -
+                NAME - - S - - - - - - - - -
+              KERNEL - - X - X - - - - - - -
+               IMAGE - - X - - - - - - - - -
+               /BOOT - - - X - S - - - - - -
+               DRIVE - - - - X - - - - - - -
+                WAIT - - - - X - - - - - - -
+                  .. - - - - X - - - - - - -
+                UUID - - - - - S - - - - - -
+              SYNTAX - - - - - O - - - - - -
+               BLKID - - - - - O - - - - - -
+                 ONE - - - - - O - - - - - -
+                 LOT - - - - - - O - - - - -
+               STUFF - - - - - - X - - - - -
+               THERE - - - - - - X - - - - -
+                ROOT - - - - - - - X - - - -
+             VERSION - - - - - - - X - - - -
+               HD0,0 - - - - - - - X - - - -
+           PARTITION - - - - - - - - S X - -
+               DUNNO - - - - - - - - - - - X
+              MOVIES - - - - - - - - - - - X

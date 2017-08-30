@@ -1,0 +1,19 @@
+                DELL O - X -
+                  HD X - - -
+               AUDIO X - - -
+                CARD O - - X
+               LSPCI X - - -
+                  -L S - - -
+              DEVICE O - - -
+               SOUND S - - -
+             OPTIONS X - - -
+SND-HDA-INTEL-MODEL=DELL-M6 O - - -
+               QUIRK O - - -
+              SOURCE - X - -
+                CODE - X - -
+                ICH9 - - X S
+              FORUMS - - S -
+                 USE - - - S
+            COMPUTER - - - O
+           ALSA-BASE - - - X
+                HTTP - - - O

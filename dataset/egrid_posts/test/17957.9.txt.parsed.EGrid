@@ -1,0 +1,17 @@
+                 NFS O S - - -
+         PERMISSIONS O - - - -
+             CONTENT O - - - -
+                 RED X - - - -
+                 DIR X - - - -
+               CHECK - S - - -
+           USERNAMES - O - - -
+               OWNER - S - - -
+            USERNAME - O - - -
+        /NFS/EXPORTS - S - - -
+              SERVER - X - - -
+                THIS - X - - -
+            -NETWORK - X - - -
+       255.255.255.0 - X - - -
+               USERS - X - - -
+                 ALL - X - - -
+            QUESTION - - - - O

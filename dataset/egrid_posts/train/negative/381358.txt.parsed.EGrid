@@ -1,0 +1,8 @@
+                FILE X - -
+           PARTITION X - -
+             STARTUP X - -
+          /ETC/FSTAB - X -
+                DPKG - - S
+         RECONFIGURE - - X
+             PROFTPD - - O
+              SCREEN - - X

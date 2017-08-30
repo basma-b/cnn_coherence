@@ -1,0 +1,16 @@
+     XTIGHTVNCVIEWER X - - - - -
+    CONNECTTOTCPADDR X - - - - -
+          CONNECTION S - - - - -
+              SERVER X - - - - -
+                PORT S - - - - -
+             NETWORK X - - - - -
+            COMPUTER S X - - - -
+              ACCESS - O - - - -
+                  IM - - - S - -
+             MACHINE - - - X - -
+                ECHO - - - - X -
+                PATH - - - - S O
+                LIST - - - - X -
+         DIRECTORIES - - - - X -
+                NONE - - - - - S
+             HOMEDIR - - - - - X

@@ -1,0 +1,16 @@
+         VLC/MPLAYER S - - - - - - -
+                VIEW - X - - - - - -
+               VIDEO - X - - - - - -
+              EITHER - X - - - - - -
+                APPS - X O - - - - -
+              CODECS - - O - - - - -
+     /USR/LIB/CODECS - - X - - - - -
+                SUDO - - - X - - - -
+             APT-GET - - - S - - - -
+           W32CODECS - - - O S - - -
+                  UH - - - - S - - -
+             VERSION - - - - X - - -
+               CODEC - - - - - - S -
+         MPLAYER/VLC - - - - - - X -
+                FILE - - - - - - O -
+                CASE - - - - - - - X

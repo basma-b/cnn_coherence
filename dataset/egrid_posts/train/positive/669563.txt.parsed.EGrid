@@ -1,0 +1,15 @@
+                   Q X - - - - - -
+             TCP/UDP X - - - - - -
+                PORT O - - S - - -
+                 X86 X - - - - - -
+            FIREWALL - - O O - - -
+                  PC - - X - - - -
+               REDIR - - O - - - -
+              ROUTER - - X - - - -
+               THERE - - - S - - -
+             NOTHING - - - O - - -
+            IPTABLES - - - X - - X
+                FWLL - - - O - - -
+              OUTPUT - - - X O - X
+                SUDO - - - X - - -
+       IPTABLES-SAVE - - - X - - X

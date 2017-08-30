@@ -1,0 +1,10 @@
+             DEFAULT X - - - -
+                 NTP O X - - -
+                THAT - O - - X
+          NTPDEFAULT - X - - -
+                TIME - - O X -
+             NTPDATE - - S S -
+                SYNC - - X - -
+              CHANGE - - - O -
+                BOOT - - - X -
+                NTPD - - - - X

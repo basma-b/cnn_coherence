@@ -1,0 +1,15 @@
+SYSTEM-SETTINGS-POWER S - - - - - -
+                SHOW O - - - - - -
+             BATTERY S - - - - - -
+                 PKG - S - - - - -
+              BINARY - O - - - - -
+              SYSTEM - - X - - - -
+           APT-CACHE - - X - - - -
+               ISSUE - - - - S O -
+                CARD - - - - X - S
+            SOFTWARE - - - - - X -
+              CONFIG - - - - - S -
+                BOOT - - - - - - X
+              LIVECD - - - - - - O
+               12.04 - - - - - - X
+            PROBLEMS - - - - - - X

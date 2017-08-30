@@ -1,0 +1,17 @@
+              FORMAT X - - -
+               DRIVE O - - -
+           PARTITION O O - -
+                SUDO - X - -
+               FDISK - O - -
+                SDD1 - X - -
+           /DEV/SDD1 - S - -
+    /FOO_MOUNT_POINT - X - -
+                WAIT - X - -
+            PARTITON - X - -
+               FAT32 - X - -
+                REST - X - -
+                ETX3 - X - -
+                TIME - - - O
+                THAT - - - S
+              BACKUP - - - X
+            FUNCTION - - - O

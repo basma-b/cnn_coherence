@@ -1,0 +1,21 @@
+                CIFS S - - - - - - -
+                SUCK X - - - - - - -
+                  .. X - - - - - - -
+                 UID X - - - - - - -
+                 GID O - - - - - - -
+          FILESYSTEM X - - - - - - -
+              OPTION O - - - - - - -
+               MOUNT X - - - - - - -
+             COMMAND X - - - - - - -
+              ANYONE - X - - - - - -
+                THIS - O - - - - - -
+                THAT - - O - - - - -
+              SERVER - - X - - - - -
+              CLIENT - - X - - - - -
+                LINK - - - X - - - -
+                   U - - - - S - - -
+                PART - - - - O - - -
+            SMB.CONF - - - - X - - -
+                HTTP - - - - - - X -
+//WWW.CAE.WISC.EDU/SITE/PUBLIC/ - - - - - - X -
+TITLE=LINPERMISSIONS-APPLICATIONS - - - - - - - X

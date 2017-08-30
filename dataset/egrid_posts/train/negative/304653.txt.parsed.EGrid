@@ -1,0 +1,11 @@
+               FSTAB X - O - - - -
+           /DEV/SBD1 O - - - - - -
+                  RW X - - - - - -
+                LINE - - - O - - -
+USER.AUTO.FMASK=0111 - - - X - - -
+                WIKI - - - X - - -
+              SEARCH - - - X - - -
+              THANKS - - - X - - -
+               MOUNT - - - - X - -
+                  -A - - - - O - -
+               ENTRY - - - - O - -

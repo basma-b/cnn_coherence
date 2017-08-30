@@ -1,0 +1,23 @@
+               12.04 S - - - - - - -
+                  CD O - - - - - - -
+               SETUP - X - - - - - -
+             LUBUNTU - X - - - - - -
+             APT-GET - - X - - - - -
+             UPGRADE - - X - - - - -
+              SCREEN - - - O X - - -
+              REBOOT - - - X - - - -
+               SHIFT - - - - X - - -
+              BUTTON - - - - O - - -
+            AUTH.LOG - - - - - - S -
+            ACTIVING - - - - - - O -
+             KEYRING - - - - - - S -
+             DESKTOP - - - - - - - X
+GNOME-KEYRING-DAEMON - - - - - - - X
+               -LSB- - - - - - - - X
+               -RSB- - - - - - - - X
+         ENVIRONMENT - - - - - - - X
+            VARIABLE - - - - - - - O
+             SESSION - - - - - - - X
+                NAME - - - - - - - X
+ORG.GNOME.SESSIONMANAGER - - - - - - - S
+                FILE - - - - - - - X

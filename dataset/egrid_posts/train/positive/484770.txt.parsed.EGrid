@@ -1,0 +1,10 @@
+             COMMAND X - - -
+                FILE X - - -
+                 TAR - X - -
+                  XF - S - -
+                 CAT - X X -
+          /DEV/CDROM - X - -
+                   > - S X -
+               CDROM - - X -
+               X.ISO - - S -
+                 ISO - - O -

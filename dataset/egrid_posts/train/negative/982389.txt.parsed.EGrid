@@ -1,0 +1,13 @@
+             ANYBODY X - - -
+      NETWORKMANAGER X - - -
+    /ETC/RESOLV.CONF - O - -
+                FILE - X - -
+             MACHINE - X - -
+             SYMLINK - - O -
+         IFUP/IFDOWN - - S -
+                THIS - - X -
+                WARN - - X -
+               THERE - - S -
+               AFAIK - - X -
+                MUCH - - - S
+                 GUI - - - O

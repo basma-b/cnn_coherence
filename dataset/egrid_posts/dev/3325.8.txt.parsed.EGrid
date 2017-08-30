@@ -1,0 +1,15 @@
+             UPGRADE S - - - -
+              LAPTOP X - - - -
+                BOOT X - - - -
+                FILE - - O - -
+                /LOG - - X - -
+                  .. - - X - -
+               ENTRY - - - X O
+             WINDOWS - - - - X
+                MENU - - - - X
+/BOOT/GRUB/CUSTOM.CFG - - - - X
+           OS-PROBER - - - - O
+GRUB_DISABLE_OS_PROBER=TRUE - - - - X
+   /ETC/DEFAULT/GRUB - - - - X
+                SUDO - - - - X
+         UPDATE-GRUB - - - - O

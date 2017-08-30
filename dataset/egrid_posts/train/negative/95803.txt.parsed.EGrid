@@ -1,0 +1,5 @@
+           PARTITION O - - -
+                DATA X - - -
+            REISERFS - X - -
+                EXT3 - O - -
+    .XSESSION-ERRORS - - - O

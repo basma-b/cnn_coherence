@@ -1,0 +1,7 @@
+                FILE X -
+           DIRECTORY X -
+               EGREP X -
+                  -V S -
+               XARGS X -
+                  RM O -
+                THAT - O

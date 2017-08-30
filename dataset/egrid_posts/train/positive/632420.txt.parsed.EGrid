@@ -1,0 +1,9 @@
+             COMMAND O - - - -
+                TEXT X X - S -
+                   > X - - S -
+            FILE.TXT X - X O -
+                CRON X - - - -
+           SOMETHING O - - - -
+                WORD - - X - -
+                ECHO - - - X -
+                 OMG - - - - S

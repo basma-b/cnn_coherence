@@ -1,0 +1,19 @@
+             NETWORK X X - - - -
+           INTERFACE X - O - - O
+                  IP X - - - - -
+         CONNECTIONS - X - - - -
+             NOTHING - S - - - -
+                  .. - O - - - -
+               THERE - - S - - -
+              OPTION - - O - - -
+                SUDO - - X - - X
+/ETC/INIT.D/NETWORKING - - S - - -
+              CHANGE - - O - - -
+/ETC/NETWORK/INTERFACES - - - - S -
+                DAYS - - - - X -
+                 JOY - - - - X -
+                IFUP - - - - - X
+            IFCONFIG - - - - - X
+                  -A - - - - - S
+                ETH2 - - - - - S
+           ETH2=ETH2 - - - - - O

@@ -1,0 +1,20 @@
+             NETWORK X X - - - - -
+             MANAGER X S - - - - -
+                 74M X - - - - - -
+              MEMORY X X - - - - -
+                XORG - X - - - - -
+           PARTITION - - - X - - -
+                SIZE - - - X - - -
+             COMMAND - - - X X - -
+                LINE - - - O X - -
+               IF-UP - - - X - - -
+                 CLI - - - - X - -
+                IFUP - - - - X - -
+                ETH0 - - - - X - -
+/ETC/NETWORK/INTERFACES - - - - X - -
+                THAT - - - - - S -
+               1990S - - - - - O -
+              RESULT - - - - - S -
+    OPENPRINTING.ORG - - - - - X -
+                LIST - - - - - X -
+                  OK - - - - - - X

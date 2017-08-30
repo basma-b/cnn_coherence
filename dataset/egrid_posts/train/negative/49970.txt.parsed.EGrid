@@ -1,0 +1,12 @@
+              FOLDER X - -
+              SCRIPT X - -
+                FILE X - -
+              BOOTUP X - -
+         RC.FIREWALL - X -
+            IPTABLES - S -
+/ETC/INIT.D/BOOTMISC.SH - X -
+         /ETC/INIT.D - X -
+               PROXY - - O
+                BACK - - X
+                 END - - S
+                 LAG - - O

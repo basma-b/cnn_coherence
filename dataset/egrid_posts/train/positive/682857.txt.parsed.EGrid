@@ -1,0 +1,12 @@
+                HELP X - - - -
+                 HDD - S - - -
+                SUDO - X - - S
+               FDISK - X - - -
+                  -L - X - - -
+               LSUSB - - O S -
+               DMESG - - - X -
+                FILE - - - X -
+           DMESG.TXT - - - X -
+               GEDIT - - - X -
+     /VAR/LOG/SYSLOG - - - - X
+                 URL - - - - O

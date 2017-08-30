@@ -1,0 +1,11 @@
+         PERMISSIONS X S - -
+               GROUP X - - -
+               OWNER X - - -
+             SYMLINK X X - -
+              EFFECT X - - -
+              TARGET X - - -
+              CHANGE - X - -
+              FOLDER - S - -
+             CONTENT - S - -
+                NAME - X - -
+                ROOT - O - -

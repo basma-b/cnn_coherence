@@ -1,0 +1,7 @@
+               FMASK S - -
+                FILE X - -
+               DMASK X - -
+         DIRECTORIES X - -
+          DMASK=0000 S - -
+               CHMOD X - -
+                NTFS - O X

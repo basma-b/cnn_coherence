@@ -1,0 +1,11 @@
+               USERS O - -
+                SSHD X - -
+                THAT - S -
+     PERMITROOTLOGIN - X -
+                USER - X -
+           DENYUSERS - X -
+               USER1 - S -
+               USER3 - O -
+               THERE - S -
+          DENYGROUPS - X -
+             PERFECT - - X

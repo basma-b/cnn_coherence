@@ -1,0 +1,13 @@
+               DMESG X - - - -
+                 PCM X - - - -
+              DEVICE O - - - -
+                 0:0 O - - - -
+              WEBCAM O - - - -
+                 USB - - - X -
+               SOUND - - - X -
+           OVERWRITE - - - X -
+          EVERYTHING - - - S -
+           SOMETHING - - - X -
+               SHOOT - - - X -
+              REBOOT - - - - O
+                BOOT - - - - X

@@ -1,0 +1,10 @@
+                 ALL O - - - - -
+      OPENSSH-SERVER S - - - - -
+     AUTHORIZED_KEYS X - - - - -
+              ACCESS O - - - - -
+              ANYONE X - - - - -
+                FILE X - - - - -
+            PASSWORD X - - - - -
+                IDEA - X - - - -
+PASSWORDAUTHENTICATION - - - S - -
+/ETC/SSH/SSHD_CONFIG - - - X - -

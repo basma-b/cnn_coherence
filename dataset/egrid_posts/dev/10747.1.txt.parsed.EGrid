@@ -1,0 +1,8 @@
+            DEFAULTS S - - -
+                PATH X - - X
+                LINE O - - -
+             SUDOERS X - - -
+             SUCCESS - - X -
+        /ETC/SUDOERS - - - S
+                 SET - - - O
+            /OPT/BIN - - - O

@@ -1,0 +1,13 @@
+                 SDF S - - - - - -
+         PERMISSIONS S - - - X - -
+                ROOT X X - - - - -
+               CHMOD X - - - - S -
+            TERMINAL - X O - - - -
+                TYPE - O - - - - -
+                GKSU - X - - - - -
+                FILE - X - O - - -
+             BROWSER - X - - - - -
+                 AHH - - S - - - -
+                  CD - - - X - - -
+           DIRECTORY - - - X - - -
+  /PATH/TO/DIRECTORY - - - - - O -

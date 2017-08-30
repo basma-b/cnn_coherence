@@ -1,0 +1,11 @@
+             SERVICE O - X - - -
+             MANAGER X - - - - -
+           MYSQL.ETC X - - - - -
+                THAT - S - - - -
+                BOOT - X - - - -
+             UPSTART - - X X - -
+        SYSV-RC-CONF - - X - - O
+                SYSV - - X - - -
+                 JOB - - X - - -
+              EFFECT - - - O - -
+           _EARLIER_ - - - - - O

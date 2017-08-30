@@ -1,0 +1,7 @@
+   CONFIG_VMSPLIT_3G S - -
+           DETEMINES - S -
+              KERNEL - X -
+           USERSPACE - S -
+                ROOT - - X
+             ACCOUNT - - X
+                 HEH - - O

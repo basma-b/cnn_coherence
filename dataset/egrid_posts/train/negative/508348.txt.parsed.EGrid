@@ -1,0 +1,14 @@
+           PARTITION X - O - -
+               /BOOT - O - - -
+              FORMAT - S - - -
+               DRIVE - X - - -
+               CLEAN - S - - -
+          EVERYTHING - S - - -
+           DIRECTORY - O - - -
+                 TIP - - S - -
+                 SAY - - X - -
+               200MB - - X - -
+                LINK - - - X -
+                 VNC - - - S -
+                 SSH - - - X -
+                HINT - - - - X

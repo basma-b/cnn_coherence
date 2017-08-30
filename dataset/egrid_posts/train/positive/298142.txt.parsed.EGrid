@@ -1,0 +1,9 @@
+             NETWORK X - -
+           INTERFACE X S -
+                 RA0 X - -
+              DRIVER - O -
+                 NIC - X -
+                CARD - O -
+                CASE - X -
+      /SBIN/IFCONFIG - X -
+                  -A - S -

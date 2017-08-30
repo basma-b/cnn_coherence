@@ -1,0 +1,13 @@
+                ROOT X - - - -
+              ACCESS O - - - -
+                 NIX X - - - -
+             SYSTEMS X - - - -
+               DRIVE S - - - -
+            COMPUTER X - - - -
+                 ALL - - X - -
+                  DD - - X - -
+       OF=/DEV/CDROM - - O - -
+           OVERWRITE - - - - O
+          /DEV/CDROM - - - - S
+             SYMLINK - - - - O
+              DEVICE - - - - X

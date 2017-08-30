@@ -1,0 +1,11 @@
+           FSAB.CONF - X - - - - - - -
+                LINE - - X - - - - - -
+           /DEV/SDA1 - - O - - - - - -
+             DEFAULT - - X - - - - - -
+               LOGIN - - - X - - - - -
+                TIME - - - - - X - - -
+                SUDO - - - - - S - - -
+             PROBLEM - - - - - O - - -
+                BOOT - - - - - X - - -
+             STARTUP - - - - - - X - -
+               FSTAB - - - - - - - - O

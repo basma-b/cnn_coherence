@@ -1,0 +1,28 @@
+             COMMAND O - - - - - - -
+                 CAT S - - - - - - -
+               CODEC X - - X - - - -
+              RESULT S - - - - - - -
+                 IDT X - - - - - - -
+                 LSI X - - - - - - -
+                  ID X - - - - - - -
+                  .. X - - X X - X -
+              SEARCH X - - S - - - -
+                BOTH X - - - - - - -
+              CODECS X - - - - - - -
+            APPROACH - - - X - - - -
+             CHIPSET - - - - X X - -
+               INTEL - - - - X - - -
+                HTTP - - - - X - - X
+//WWW.MJMWIRED.NET/KERNEL/DOCUMENTATION/SOUND/ALSA/ALSA-CONFIGURATION.TXT - - - - X - - -
+              MODULE - - - - X - - -
+                LIST - - - - X - - -
+              CHANCE - - - - O - - -
+             DRIVERS - - - - O - - -
+               SOUND - - - - - X - -
+               MODEL - - - - - O - -
+                CARD - - - - - X - -
+                SUDO - - - - - - X -
+               LSPCI - - - - - - X -
+                  -V - - - - - - O -
+                LSHW - - - - - - X -
+//PASTEBIN.COM/M72C5226F - - - - - - - X

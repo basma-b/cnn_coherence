@@ -1,0 +1,9 @@
+                COPY X - - -
+           DIRECTORY O - - -
+                SAME X - - -
+             COMMAND X - X -
+                 TAR - O S -
+          PERMISSION - - X -
+              OPTION - - X -
+     FOLDERTOARCHIVE - - O -
+             UPGRADE - - - X

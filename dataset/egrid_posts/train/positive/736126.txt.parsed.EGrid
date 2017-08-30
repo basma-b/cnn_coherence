@@ -1,0 +1,15 @@
+                QYES O O O - - - - - - -
+             UPSTART X X X - - - - - - -
+                DOCS O O O - - - - - - -
+        /ETC/INITTAB X X X - - - - - - -
+      /ETC/INIT.CONF X X X - - - - - - -
+               10.04 X X X - - - - - - -
+             STARTUP X X X - - - - - - -
+                FILE O O O - - O - - - -
+       /ETC/RC.LOCAL - - - - - S - - - -
+              CHOICE - - - - - X - - - -
+             OPTIONS - - - - - - O - - -
+                BOOT - - - - - - - - X -
+                   | - - - - - - - - S -
+         MONKEY_DUST - - - - - - - - O -
+        GRUB-INSTALL - - - - - - - - - X

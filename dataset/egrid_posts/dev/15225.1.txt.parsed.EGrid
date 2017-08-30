@@ -1,0 +1,10 @@
+               SYSFS X - - - -
+               VALUE O - - - -
+              KERNEL X - - - X
+                BOOT X - - - -
+                ARGS X - - - -
+                 CPU - X - - -
+                 YES - O - - -
+                HINT - - X - -
+             CMDLINE - - - - X
+         IOSCHED=CFQ - - - - X

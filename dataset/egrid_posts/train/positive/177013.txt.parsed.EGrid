@@ -1,0 +1,22 @@
+             SERVERS X - - - - - - - - -
+          EVERYTHING - - S - - - - - - -
+                NAME - - O - - - - - - -
+             PACKAGE - - X - - - - - - -
+                 MP3 - - O - - - - - - -
+                 K3B - - X - - - - - - -
+   /ETC/GDM/GDM.CONF - - - S - - - - - -
+              BACKUP - - - X - - - - - -
+                FILE - - - S - - - - - -
+               ERROR - - - S - - - - - -
+                LOAD - - - X - - - - - -
+                USER - - - X - - - - - -
+           INTERFACE - - - X X - - - - -
+             ELEMENT - - - X - - - - - -
+LOCAL_BACKGROUND_IMAGE_CHOOSERBUTTON - - - S - - - - - -
+               GLADE - - - - X - - - - -
+         DESCRIPTION - - - - S - - - - -
+                 GDM - - - - - S X - - -
+        INSTALLATION - - - - - - O - - -
+                IDEA - - - - - - - X - -
+                SUDO - - - - - - - - - X
+            GDMSETUP - - - - - - - - - O

@@ -1,0 +1,8 @@
+                DIRS X - - -
+             APT-GET S - S -
+             PACKAGE O - S -
+                /ETC - X - -
+       CONFIGURATION - - O -
+           SOMETHING - - O -
+                /VAR - - X -
+                THAT - - - X

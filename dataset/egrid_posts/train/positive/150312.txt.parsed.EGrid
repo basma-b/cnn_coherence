@@ -1,0 +1,14 @@
+                 LOG X - - - - -
+                 SSH - X - - - -
+                USER - - X - - -
+               LOGIN - - X - - X
+              DAEMON - - - S - -
+                 ALL - - - - X -
+                 ANY - - - - O -
+              LOGINS - - - - - X
+             LASTLOG - - - - - X
+                REST - - - - - X
+     /VAR/LOG/SYSLOG - - - - - X
+                SSHD - - - - - X
+                PORT - - - - - X
+                ROOT - - - - - X

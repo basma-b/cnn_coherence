@@ -1,0 +1,11 @@
+            GRAPHICS X - -
+             CHIPSET X - -
+                 ATI - X -
+                  HD - X -
+               LSPCI - - X
+                 -NN - - X
+                   | - - X
+                GREP - - X
+                 VGA - - S
+              DRIVER - - O
+              RADEON - - O

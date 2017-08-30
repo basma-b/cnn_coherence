@@ -1,0 +1,9 @@
+             MODULES O - - S
+            -HEADERS O - - -
+             PACKAGE O - - X
+               LSMOD - X - -
+                LOAD - - O -
+                LINE - - - X
+              RETURN - - - X
+             NOTHING - - - O
+     LINUX-IMAGE-XXX - - - X

@@ -1,0 +1,14 @@
+                   X X S - - - -
+            RUNLEVEL - O - X - -
+             DISTRIB - X - - - -
+             INITTAB - X - - - -
+                TIME - - X - - -
+                BOOT - - X O X -
+               SHELL - - - X - -
+                SUDO - - - X - -
+     /ETC/INIT.D/GDM - - - S - -
+             DEFAULT - - - X - -
+                 GDM - - - S O -
+               START - - - - X -
+               GUSTY - - - - - X
+                 BTW - - - - - X

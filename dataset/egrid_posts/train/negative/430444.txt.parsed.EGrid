@@ -1,0 +1,12 @@
+               LINUX S - -
+                HFS+ O - -
+             JOURNAL X - -
+              FORMAT X - -
+          FILESYSTEM X - -
+               SLATE O - -
+               FAT32 O - -
+           PARTITION S X -
+                KIND S - -
+              DEVICE X - -
+               TABLE - O -
+           00_HEADER - - X

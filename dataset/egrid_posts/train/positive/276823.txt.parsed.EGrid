@@ -1,0 +1,17 @@
+                 HMM S - - - -
+              ANYONE X - - - -
+                ROOT X - X - -
+                USER S - - - -
+         OWNER/GROUP O - - - -
+           DIRECTORY X - - - -
+                THIS - S - - -
+                MINE - - S - -
+               OWNER - - X - -
+               GROUP - - X - -
+             VERSION - - S - -
+              UBUNTU - - X - -
+                 LTS - - - - X
+                DEPS - - - - O
+                SUDO - - - - X
+             APT-GET - - - - X
+          AUTOREMOVE - - - - X

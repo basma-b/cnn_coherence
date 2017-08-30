@@ -1,0 +1,9 @@
+              ANYONE S - - -
+             MEMTEST - X - X
+                BOOT - S - X
+             DEFAULT - X - -
+                GRUB - X - -
+   /ETC/DEFAULT/GRUB - - S -
+                ROOT - - X -
+         UPDATE-GRUB - - O -
+            ANYTHING - - - X

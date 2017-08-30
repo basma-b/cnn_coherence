@@ -1,0 +1,13 @@
+        CHECKINSTALL - X - S -
+                   | - X - - -
+                 LOT - X - - -
+              SYNTAX - S - - -
+                SUDO - X - - -
+       MYPACKAGE.TGZ - O - - -
+             WRAPPER - - - O -
+                MAKE - - - S -
+          EVERYTHING - - - O -
+         COMPILATION - - - X -
+             COMMAND - - - X -
+     BUILDESSENTIALS - - - O -
+                YEAH - - - O -

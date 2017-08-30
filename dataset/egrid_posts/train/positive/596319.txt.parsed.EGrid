@@ -1,0 +1,7 @@
+                RULE X - -
+              ACCESS O O -
+                 IPS X S -
+                HTTP - X -
+                 ALL - X -
+             COMMAND - - X
+                  .. - - O

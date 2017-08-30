@@ -1,0 +1,17 @@
+               ERROR X - - - -
+               HY000 X - - - -
+               MYSQL X - - - -
+              SERVER X - - - -
+              SOCKET X - - - -
+                 RUN X - - - -
+                NEED - S - - -
+              REPEAT - X - - -
+                DONT - X - - -
+                 USE - X - - -
+                LAMP - X - - -
+                SUDO - X - - S
+             APT-GET - S - - -
+        MYSQL-SERVER - X - - -
+          PHPMYADMIN - O - - -
+               START - - - - O
+   /ETC/INIT.D/MYSQL - - - - S

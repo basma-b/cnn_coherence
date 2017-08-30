@@ -1,0 +1,25 @@
+                ARM7 X - -
+                9.04 X - -
+                DONT S - -
+           CHKCONFIG O - -
+                SSHD X - -
+      OPENSSH-SERVER - S -
+              SYSTEM - X -
+               START - X -
+                LINK - S -
+                BLAH - X -
+                BOOT - X -
+                TEXT - S -
+                 SME - S -
+/ETC/SSH/SSHD_CONFIG - O -
+     PERMITROOTLOGIN - O -
+               IMAGE - - O
+            AMBIANCE - - X
+               THEME - - X
+               THERE - - S
+               BUNCH - - O
+              FOLDER - - X
+                 CSS - - O
+                 URL - - X
+               /PATH - - X
+            PROPERTY - - O

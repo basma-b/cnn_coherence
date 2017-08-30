@@ -1,0 +1,13 @@
+    BUILD-ESSENTIALS O -
+                  CD S -
+               LABEL X -
+                 ISO S -
+              RECALL O -
+              REMOVE X -
+                LINE X -
+/ETC/APT/SOURCES.LIST X -
+               CDROM X -
+                DPKG - O
+                   P - X
+              CONFIG - X
+                FILE - O

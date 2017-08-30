@@ -1,0 +1,15 @@
+              CONFIG O - - - - - - - - - -
+               /BOOT X - - - - - - - - - -
+              KERNEL X - - - O - - - - - -
+              SOURCE X - X - - - - O - - -
+               IMAGE S - - - - - - - - - -
+                THIS X - - - - - - - - - -
+      KERNEL-PACKAGE - X - O - - - - - - -
+              TARGET - X - - - X - - - O -
+             CRIMSUN - - X - - - - - - - -
+            MKINITRD - - - O O - - - - - -
+             PACKAGE - - - - O - - - - - -
+                 HUH - - - - - - X - - - -
+        KERNEL-IMAGE - - - - - - - X - - -
+            KPACKAGE - - - - - - - X - - -
+     VMLINUZ-2.6.8.1 - - - - - - - - X - -

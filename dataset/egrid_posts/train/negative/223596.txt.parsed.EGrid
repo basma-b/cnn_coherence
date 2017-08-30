@@ -1,0 +1,17 @@
+                DATA O - - - -
+                 DVD X - - - -
+              PLAYER X - - - -
+           KONQUEROR X - - - -
+             EXAMPLE X - - - -
+          DVD-PLAYER X - - - -
+        /MEDIA/CDROM - X - - -
+          /ETC/FSTAB - X - - -
+              UBUNTU - O - - -
+             WINDOWS - - - O -
+              SERVER - - - X -
+                FILE - - - - X
+               XKILL - - - - S
+                SUDO - - - - X
+                  -I - - - - O
+                ROOT - - - - X
+                KIND - - - - O

@@ -1,0 +1,23 @@
+              DEVICE X - - -
+               ENTRY O - - -
+                  .. X - - -
+               DVB-S X - - -
+                CARD O - - -
+/DEV/DVB/ADAPTERX/FRONTEND0 X - - -
+           FRONTEND1 O - - -
+/DEV/DVB/ADAPTERY/FRONTEND0 X - - -
+  ADAPTORZ/FRONTEND0 X - - -
+                THAT - X - -
+                EACH - S - -
+              NUMBER - S - -
+                   X - X - -
+                   Y - X - -
+                   Z - S - -
+              CUSTOM - X - -
+           UDEV-RULE - O - -
+                 FIX - X - -
+               ORDER - X - -
+     KUBUNTU-DESKTOP - - - S
+              EFFECT - - - O
+              SYSTEM - - - X
+             PACKAGE - - - O

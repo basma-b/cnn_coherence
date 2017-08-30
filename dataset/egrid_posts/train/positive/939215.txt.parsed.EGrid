@@ -1,0 +1,16 @@
+              NVIDIA X - -
+                NECK O - -
+                 DFI X - -
+LINUX-KERNEL-HEADERS O - -
+      KERNEL-PACKAGE O - -
+            ANYTHING O - -
+            /USR/SRC S - -
+                 IDE - X -
+               SOUND - X -
+             DRIVERS - S -
+       KERNEL-SOURCE - X -
+      KERNEL-HEADERS - O -
+              KERNEL - O -
+           INTERFACE - X -
+             MODULES - X -
+       LINUX-HEADERS - - O

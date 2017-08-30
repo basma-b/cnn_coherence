@@ -1,0 +1,13 @@
+                HELP X - - - - -
+              ACCESS X - - - - -
+            WIRELESS X - - - - -
+                 LAN X - - - - -
+            WPA/TKIP X - - - - -
+                 PSK - O - - - -
+                DATA - O - - - -
+             NETWORK - X - - - -
+               ADMIN - X - - - -
+      WPA_SUPPLICANT - - X - - -
+                FILE - - - O - -
+                SECS - - - X - -
+             PROBLEM - - - - - O

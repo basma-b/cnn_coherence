@@ -1,0 +1,16 @@
+             CONTEXT X - - - - -
+              SURVEY X - - - - -
+               SPLIT - - X - - -
+                FILE - - O O - X
+              NUMBER - - X - - -
+                 CSV - - - S - -
+                TEXT - - - X - -
+                  IE - - - - X -
+                  -L - - - - X -
+          INFILE.TXT - - - - X -
+             OUTFILE - - - - X -
+               BUNCH - - - - - O
+                CALL - - - - - X
+          OUTFILE.AA - - - - - X
+          OUTFILE.AB - - - - - X
+                 ETC - - - - - X

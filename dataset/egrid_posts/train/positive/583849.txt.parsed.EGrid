@@ -1,0 +1,17 @@
+           CONFIGURE X - - - - -
+               ERROR X - - - - -
+                   * S - - - - -
+              GL/GLU O - - - - -
+            FREEGLUT - O - - - -
+              RETURN - X - - - -
+/USR/INCLUDE/GL/FREEGLUT.H - X - - - -
+                LIBS - X - - - -
+                THAT - - X S - -
+        /USR/INCLUDE - - O - - -
+                PATH - - X X - -
+           SOMETHING - - X - - -
+        EXTRA_CFLAGS - - - X - -
+               THERE - - - S - -
+                 WAY - - - O - -
+                 LIB - - - - O -
+              SOURCE - - - - X -

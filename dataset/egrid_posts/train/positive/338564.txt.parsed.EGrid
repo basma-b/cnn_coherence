@@ -1,0 +1,17 @@
+               SETUP O - - - - -
+               FLASH X - - X - -
+               DRIVE X - - - - -
+        INSTALLATION S - - - - X
+             PROBLEM S - - - - -
+BOOTING/INSTALLATION O - - - - -
+          BOOTLOADER X - - - - -
+                 MBR - O - - - -
+                HOST - X - - - -
+            COMPUTER - X - - - -
+              ADVICE - - S - - -
+             ADVANCE - - X - - -
+                GRUB - - - O - X
+              DEVICE - - - X - -
+             SPECIFY - - - - - O
+                 SDA - - - - - X
+               ERROR - - - - - O

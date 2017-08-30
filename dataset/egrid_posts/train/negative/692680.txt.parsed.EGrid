@@ -1,0 +1,14 @@
+               THERE - X - - - -
+                GRUB - X X - - -
+           PARTITION - X O - - -
+                LIST - - X - - -
+                 HDD - - X - - -
+                  'T - - - S - -
+             SYSTEMS - - - O - -
+                SHOW - - - - X -
+                 HD0 - - - - X -
+               HD0,0 - - - - X -
+               HD0,1 - - - - X -
+        TCP_WRAPPERS - - - - - X
+         HOSTS.ALLOW - - - - - X
+          HOSTS.DENY - - - - - X

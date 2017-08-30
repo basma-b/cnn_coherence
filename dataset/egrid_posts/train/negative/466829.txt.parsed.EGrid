@@ -1,0 +1,10 @@
+             COMMAND O - - -
+             DEFAULT X - - -
+             GATEWAY X - - -
+             NETWORK X - - -
+               ROUTE - X - -
+             DESKTOP - - X -
+         ENVIRONMENT - - X -
+                 I.E - - X -
+               GNOME - - - X
+                 KDE - - - X

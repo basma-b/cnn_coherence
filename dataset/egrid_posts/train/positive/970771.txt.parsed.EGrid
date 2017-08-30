@@ -1,0 +1,15 @@
+                WORK X - - - - -
+           PARTITION O - - - - -
+             WINDOWS X - - - - -
+           GNU/LINUX X X - - - -
+                USER - X - - - -
+                ROOT - X - - - -
+           OWNERSHIP - X - - - -
+           DIRECTORY - X - - - -
+            ROBERTBB - X - - - -
+         PERMISSIONS - - S - - -
+              ANYONE - - - S - -
+             PROBLEM - - - O - -
+                THIS - - - X - -
+           UMASK=000 - - - - X -
+                HELP - - - - - X

@@ -1,0 +1,10 @@
+                ANY1 S - - -
+               ERROR O - - -
+             HAPPEND - S - -
+             DAEMONS - X - -
+          PERMISSION - S - -
+              DAEMON - O - -
+           PRIVILEGE - X - -
+                PORT - X - -
+                SUDO - - X O
+                ROOT - - - X

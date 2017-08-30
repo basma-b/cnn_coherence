@@ -1,0 +1,11 @@
+            PARTIION O - - - -
+                BOOT X - X - X
+                GRUB S - - - -
+               ERROR S - - - -
+           PARTITION O - - - X
+                CASE X - - - -
+                 TRY S S - - -
+               MOUNT - - S - -
+                  OS - - X - -
+             GPARTED - - - - X
+               POINT - - - - O

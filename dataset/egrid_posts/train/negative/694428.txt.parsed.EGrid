@@ -1,0 +1,7 @@
+                DISK O X - - -
+          PERMISSION S - - - -
+               GROUP - X - - -
+               MOUNT - - X - -
+                SUDO - - O - -
+                ROOT - - - S -
+               SENSE - - - - O

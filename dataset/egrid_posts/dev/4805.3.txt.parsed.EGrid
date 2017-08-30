@@ -1,0 +1,24 @@
+               CLEAN O O - - -
+                BITE X - - - -
+             UPGRADE X - S - -
+             VERSION X - - - -
+                 YEA - X - - -
+             PROBLEM - - O - -
+               POINT - - X - -
+             RELEASE - - X - -
+                 F.E - - X - -
+              EITHER - - - - S
+                 DEB - - - - X
+                HTTP - - - - S
+             CONTRIB - - - - X
+                   | - - - - X
+                SUDO - - - - X
+                 TEE - - - - X
+/ETC/APT/SOURCES.LIST.D/VIRTUALBOX.LIST - - - - X
+//DOWNLOAD.VIRTUALBOX.ORG/VIRTUALBOX/DEBIAN/ORACLE_VBOX.ASC - - - - S
+             APT-KEY - - - - S
+             APT-GET - - - - S
+              UPDATE - - - - O
+      VIRTUALBOX-4.1 - - - - O
+                 PPA - - - - O
+            SOFTWARE - - - - O

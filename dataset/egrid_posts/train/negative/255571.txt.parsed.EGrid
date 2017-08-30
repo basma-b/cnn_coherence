@@ -1,0 +1,23 @@
+                LOAD O - - - - - - -
+              SCREEN S - - - - - - -
+               MOUSE X - - - - - - -
+             DESKTOP - X - - - - - -
+                 ANY - - S - - - - -
+              REBOOT - - - X - - - -
+               THERE - - - - S - - -
+                 RUN - - - - X - - -
+                 ATI - - - - X - - -
+              DRIVER - - - - X - - -
+                 HOP - - - - O - - -
+             DISPLAY - - - - O X - -
+            TERMINAL - - - - S - - -
+             SESSION - - - - O - - -
+              STARTX - - - - - S - -
+               PRESS - - - - - - X -
+                CTRL - - - - - - X -
+                 ALT - - - - - - S -
+             COMMAND - - - - - - - X
+             APT-GET - - - - - - - S
+           REINSTALL - - - - - - - X
+LINUX-IMAGE-2.6.15-26-386 - - - - - - - O
+             PACKAGE - - - - - - - X

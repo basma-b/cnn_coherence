@@ -1,0 +1,10 @@
+         PERMISSIONS X - - - - - - -
+           DIRECTORY X - - - - - - -
+                FILE O X - X - - - -
+            KOMPOZER X - - - - - - -
+               GROUP - S X - - X - -
+               OWNER - O - - - - - -
+               CHMOD - - - O - - - X
+                TYPE - - - - - X - -
+                 DIR - - - - - X - -
+                ROOT - - - - - - X -

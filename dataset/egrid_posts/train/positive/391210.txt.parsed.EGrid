@@ -1,0 +1,14 @@
+           PARTITION S S S S S - - - -
+               ERROR O O O O O S - - -
+              FINISH X X X X X - - - -
+                LOAD X X X X X - - - -
+                DISK - - - - - - X - X
+               CHECK - - - - - - X - O
+              OPTION - - - - - - X - -
+               START - - - - - - X - -
+              SCREEN - - - - - - X - -
+               BUDDY - - - - - - - S -
+                  F6 - - - - - - - X -
+                CODE - - - - - - - O -
+               STICK - - - - - - - O -
+             PERCENT - - - - - - - X -

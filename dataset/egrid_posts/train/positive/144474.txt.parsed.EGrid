@@ -1,0 +1,12 @@
+               ERROR O - - -
+             PROFTPD O - - -
+               STATE - X - -
+               GROUP - X X -
+             NOBODYY - X - -
+                LINE - - X -
+   /ETC/PROFTPD.CONF - - X -
+             NOGROUP - - O -
+              NOBODY - - O -
+               USERS - - X -
+                 YEP - - - S
+             PROBLEM - - - O

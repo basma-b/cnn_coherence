@@ -1,0 +1,11 @@
+           PARTITION O X - - - - - -
+          PERMISSION X - - - - - - -
+                FILE - X - - - - - -
+              SYSTEM - X - - - - - -
+             FOLDERS - - - O - - - -
+                 BIN - - - X - - - -
+                BOOT - - - X - - - -
+                TIME - - - - - - - X
+         FLIXIBILITY - - - - - - - X
+        COMPATIBLITY - - - - - - - O
+              LAPTOP - - - - - - - X

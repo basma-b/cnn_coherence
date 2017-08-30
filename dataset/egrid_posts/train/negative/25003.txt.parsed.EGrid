@@ -1,0 +1,17 @@
+              ERRORS O - - - -
+                THIS X - - - -
+             MPLAYER O - - - -
+/USR/X11R6/LIB/LIBGL.A - X - - -
+           GLXCMDS.O - X - - -
+        .TEXT+0X2EEA - X - - -
+            FUNCTION - X - - -
+    GLXGETMSCRATEOML - X - - -
+           REFERENCE - S - - -
+XF86VIDMODEQUERYVERSION - X - - -
+        .TEXT+0X2F1A - X - - -
+XF86VIDMODEGETMODELINE - X - - -
+              NVIDIA - X - - -
+              BINARY - X - - -
+             DRIVERS - O - - -
+           COMMUNITY - - - X -
+              UBUNTU - - - - O

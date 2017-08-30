@@ -1,0 +1,13 @@
+                TYPE X - - -
+             APT-GET S - - -
+LIBAPACHE-MOD-PYTHON2.4 O - - -
+       MOD_PYTHON.SO O - - -
+           DIRECTORY X - - -
+                 .SO X - - -
+LIBAPACHE-MOD-PYTHON - S - -
+              APACHE - S - -
+             COMMAND - X - -
+                LINE - X - -
+            ARGUMENT - X - -
+        INSTALLATION - X - -
+                 THX - - - O

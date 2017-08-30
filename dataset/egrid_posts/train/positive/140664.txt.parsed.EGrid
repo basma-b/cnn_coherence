@@ -1,0 +1,17 @@
+               ERROR O - - - -
+             GKRELLM O - - - -
+                XLIB O - - - -
+          CONNECTION O - - - -
+                 0.0 S - - - -
+              REFUSE X - - - -
+            PROTOCOL S - - - -
+       GKRELLM:17570 X - - - -
+         GTK-WARNING X - - - -
+                   * X - - - -
+             DISPLAY O - - - -
+                  SU S - - - -
+             PROGRAM O O - - -
+                 GUI X X - - -
+                SUDO - O - - -
+                ROOT - - - X -
+                THAT - - - - S

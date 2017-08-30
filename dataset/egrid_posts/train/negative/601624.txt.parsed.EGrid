@@ -1,0 +1,15 @@
+               FAT16 X - - - - - -
+                SAME X - - - - - -
+                 FAT X X - - - - -
+             VARIANT - S - - - - -
+               FAT32 - X - - O - -
+                 HMM - - X - - - -
+                 USB - - - X - - -
+               THUMB - - - X - - -
+               DRIVE - - - X - - -
+             DEVICES - - - - X - -
+           INTERFACE - - - - - - O
+              CONFIG - - - - - - S
+             NETWORK - - - - - - S
+        CONNECTIVITY - - - - - - O
+              SCRIPT - - - - - - O

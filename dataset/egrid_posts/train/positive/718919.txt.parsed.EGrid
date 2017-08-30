@@ -1,0 +1,13 @@
+            /ETC/LIR X - -
+                   * O - -
+                   R S - -
+                ROOT X - -
+          LIRCD.CONF O - -
+                  RM S - -
+     /ETC/LIRCD.CONF O - -
+                FILE X - X
+           DIRECTORY X - -
+                  -L - O -
+              RESULT - O -
+            FILE/DIR - X -
+               THERE - - X

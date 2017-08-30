@@ -1,0 +1,13 @@
+             COMMAND X - - -
+             DEVICES X - - -
+           PARTITION - S - -
+                 SDA - - X -
+                 HDA - - S -
+               DRIVE - - O -
+            DDRESCUE - - X -
+             TUNE2FS - - - O
+             RESERVE - - - X
+               BLOCK - - - X
+          ALLOCATION - - - O
+                   % - - - O
+             DEFAULT - - - S

@@ -1,0 +1,13 @@
+                COPY O - - O - - - - -
+              FRIEND X - - X - - - - -
+              SERVER X O - X O - - - -
+             MACHINE X - - X - - - - -
+                REPO - X - - X - - - -
+              UBUNTU - S - - S - - - -
+             PACKAGE - X - - X - - - -
+              FOLDER - O - - O - - - -
+                THIS - - X - - X - - O
+                FILE - - - - - - O - -
+                HTTP - - - - - - - - O
+//PASTE.UBUNTU.COM/1013050/ - - - - - - - - O
+         ~/.ASOUNDRC - - - - - - - - X

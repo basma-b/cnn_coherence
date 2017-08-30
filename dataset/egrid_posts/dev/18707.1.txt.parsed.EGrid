@@ -1,0 +1,9 @@
+                IFUP S -
+                CALL O -
+/ETC/INIT/NETWORK-INTERFACE.CONF X -
+             UPSTART X -
+            WIRELESS - X
+              APPLET - O
+              STATUS - X
+                 BAR - X
+                 ONE - X

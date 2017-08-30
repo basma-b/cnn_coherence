@@ -1,0 +1,16 @@
+             PACKAGE X - - - - -
+   XSERVER-XORG-CORE X - - - - -
+            XWINDOWS O - - - - -
+             MESSAGE - O - - - -
+            FONTPATH - S - - - -
+             COMMAND - X - - - -
+  XFONTS-FIXED-75DPI - X - - - -
+              100DPI - X - - - -
+                TYPE - O - - - -
+                HEAD - X - - - -
+              SEARCH - - X - - -
+              XFONTS - - S - - -
+                 HEY - - S - - -
+                FONT - - - O - -
+              WINDOW - - - - - O
+              MANGER - - - - - X

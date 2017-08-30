@@ -1,0 +1,11 @@
+                  HI X - - -
+               FSTAB - X - -
+                DISK - X - -
+           /DEV/HDA1 - X - -
+            WRITABLE - O - -
+                ROOT - O - -
+                FILE - - X -
+              SYSTEM - - X -
+                EXT3 - - - X
+              REPEAT - - - X
+           HIGHLIGHT - - - X

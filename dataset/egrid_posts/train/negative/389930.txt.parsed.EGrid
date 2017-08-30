@@ -1,0 +1,15 @@
+          ACPI=NOIRQ X - -
+                 NIC O - -
+                WORK O - -
+            ACPI=OFF - O -
+         UNENCRYPTED - - S
+                  .. - - X
+                SUDO - - X
+            IWCONFIG - - X
+               WLAN0 - - S
+         NETWORKNAME - - S
+                NAME - - S
+              REPORT - - X
+             NETWORK - - X
+                  IP - - O
+      WPA_SUPPLICANT - - O

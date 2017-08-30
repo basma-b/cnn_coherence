@@ -1,0 +1,29 @@
+                LYNX X - - - - -
+               FLASH X - X X X -
+              PLUGIN O - - - - -
+             FIREFOX X - - - - -
+                 USE X - - - - -
+             PACKAGE X - - - - -
+             MANAGER X - - - - -
+UBUNTU-RESTRICTED-EXTRAS - O - - - -
+                NONE - S - - - -
+                FILE - X - - - -
+   LIBFLASHPLUGIN.SO - O - - - -
+               LUCID - - X - - -
+              OUTPUT - - - O - -
+                   | - - - X - -
+                GREP - - - X - -
+               GNASH - - - X - -
+             COMMAND - - - O X -
+            PASTEBIN - - - O - -
+               THATS - - - X - -
+ FLASHPLUGIN-NONFREE - - - - X -
+                DPKG - - - - X -
+                SUDO - - - - X -
+MOZILLA-PLUGIN-GNASH - - - - X -
+             APT-GET - - - - X -
+          AUTOREMOVE - - - - X -
+              UPDATE - - - - X -
+                COPY - - - - O -
+                MESS - - - - X -
+             PROBLEM - - - - - X

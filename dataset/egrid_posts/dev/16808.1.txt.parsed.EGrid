@@ -1,0 +1,15 @@
+             PRECISE X - - - - -
+             DNSMASQ S - - - - -
+     NETWORK-MANAGER X - - - - -
+            HOSTNAME - X - - - -
+             ADDRESS - X - - - -
+              LOOKUP - X - - - -
+          NAMESERVER - - X - - -
+                NAME - - - O - -
+                WORK - - - O - -
+/ETC/NETWORK/INTERFACES - - - - - X
+                FILE - - - - - X
+               WRITE - - - - - X
+          RESOLVCONF - - - - - X
+             NETWORK - - - - - X
+             MANAGER - - - - - X

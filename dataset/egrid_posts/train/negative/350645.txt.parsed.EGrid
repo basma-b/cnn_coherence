@@ -1,0 +1,22 @@
+           INTERFACE X - - - - - - - - -
+                NAME S - - - - - - - - -
+                ETH2 X - - - - - - - - -
+                ETH3 X - - - - - - - - -
+                 WAY X - - - - - - - - -
+                WIRE X - - - - - - - - -
+                WIFI X - - - - - - - - -
+      NETWORKMANAGER - X - - - - - - - -
+                SUDO - - X - - - - - - -
+             APT-GET - - S - - - - - - -
+     NETWORK-MANAGER - - O - - - - - - -
+                IDEA - - O - - - - - - -
+      UBUNTU-DESKTOP - - O - - - - - - -
+                THAT - - - S - - - - - -
+         METAPACKAGE - - - O - - - - - -
+             PACKAGE - - - - O - - - - -
+           BEHAVIOUR - - - - - X - - - -
+             DESKTOP - - - - - X - - - -
+                HTTP - - - - - - - - X -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - - - - - - - X -
+          P=10449990 - - - - - - - - - X
+                HELP - - - - - - - - - O

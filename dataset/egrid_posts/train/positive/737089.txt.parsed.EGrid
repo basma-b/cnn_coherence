@@ -1,0 +1,13 @@
+                SUDO X - -
+                STOP S - -
+                 ^^^ X - -
+                 GDM - - S
+           ROOTSHELL - - X
+                   | - - S
+             CONTROL - - X
+             UPSTART - - X
+             COMMAND - - X
+                WHIT - - O
+                 MAN - - X
+             INITCTL - - O
+         INFORMATION - - X

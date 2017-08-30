@@ -1,0 +1,16 @@
+              SYSTEM X - - - -
+                  VS X - - - -
+                NTFS X - - - -
+               MOUNT X - - - -
+               DRIVE X - - - -
+               FDISK - S - - -
+     HPFS/NTFS/EXFAT - O - - -
+             EXAMPLE - S - - -
+         /SBIN/BLKID - - X - -
+           PARTITION - - - X -
+                  OS - - - S -
+                 NEW - - - X -
+                DATA - - - X -
+                LOSS - - - X -
+              FFMPEG - - - - X
+UBUNTU-RESTRICTED-EXTRAS - - - - X

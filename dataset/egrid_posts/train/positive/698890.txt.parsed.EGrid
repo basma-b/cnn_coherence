@@ -1,0 +1,25 @@
+             NETWORK X - X - -
+            SETTINGS O - - - -
+                  PC X - - - -
+                DHCP O - - - -
+              REBOOT X - - - -
+              ANYONE X - - - -
+           SOMETHING X - - - -
+      NETWORKMANAGER - O O - -
+             ANOTHER - - X - -
+SYSTEM/PREFERENCES/NETWORK - - X - -
+         CONNECTIONS - - O - -
+            ANYTHING - - O - -
+              SYSTEM - - X - -
+                   > - - X - -
+         PREFERENCES - - S - -
+          CONNECTION - - S - -
+                  NM - - X - -
+                 GUI - - O - -
+                LIST - - O - -
+                CALL - - X - -
+            IFUPDOWN - - X - X
+                ETH0 - - X - -
+                GREY - - - - X
+              CONFIG - - - - O
+              OTHERS - - - - S

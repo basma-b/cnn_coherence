@@ -1,0 +1,11 @@
+             TRAFFIC X - -
+           LOCALHOST X - -
+               SETUP - X -
+                RULE - O -
+           SOMETHING - O -
+                THIS - X -
+                 NAT - X -
+                  -A - O -
+                 TCP - X -
+                DNAT - O -
+      127.0.0.1:8080 - X -

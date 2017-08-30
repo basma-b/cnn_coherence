@@ -1,0 +1,17 @@
+              RESULT - X - - - - - -
+             COMMAND - X X - - - - -
+                   | - O X - - - - -
+                 ABC - X X - - - - -
+                GREP - - O - - - - -
+                  RM - - X - - - - -
+                  -F - - S - - - - -
+              OUTPUT - - S - - - - -
+                PIPE - - O - - - - -
+               XARGS - - X - - - - -
+                 -FR - - S - - - - -
+              STDOUT - - O - - - - -
+                  -I - - - X - - - -
+                WHAT - - - - - O - -
+               LINUX - - - - - X - -
+             SOLARIS - - - - - - X -
+                 ATM - - - - - - X -

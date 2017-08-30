@@ -1,0 +1,11 @@
+        UPDATE-GRUB2 S X - - - - - -
+                FILE X - - - - - - -
+               IMAGE O - - - - - - -
+             WINDOWS - X - - - - - -
+                ONES - S - - - - - -
+              CUSTOM - X - - - - - -
+                RULE - O - - - - - -
+           DOWNGRADE - - S - - - - -
+             MACHINE - - X - - - - -
+             VERSION - - - - - - - O
+               REPOS - - - - - - - X

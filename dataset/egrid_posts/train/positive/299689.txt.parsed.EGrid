@@ -1,0 +1,11 @@
+            HARDWARE - X - -
+                THIS - X - -
+            ETHERNET - - X -
+                CARD - - S -
+             REALTEK - - X -
+              FAMILY - - X -
+                 PCI - - X -
+                 NIC - - O -
+            MODPROBE - - - X
+      /SBIN/IFCONFIG - - - X
+                  -A - - - X

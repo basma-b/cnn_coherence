@@ -1,0 +1,15 @@
+              CONFIG X - - -
+                FILE X O - -
+               ORDER X - - -
+         INFORMATION O - - -
+                GRUB X - - -
+                MENU - X - -
+             ENTRIES - O - -
+              LETTER - X - -
+                 TAR - - - O
+      /USR/LOCAL/SRC - - - X
+                 RUN - - - S
+          DEPENDENCY - - - X
+               ERROR - - - O
+            GLIB-2.0 - - - X
+                   > - - - X

@@ -1,0 +1,16 @@
+            APPARMOR S - - - - -
+             FIREFOX X - - - - -
+                9.10 X - - - - -
+               ERROR - X - - - -
+             MESSAGE - X - - - -
+                BOOT - X X - - -
+                 LOG - X - - - -
+             PROFILE - - O - - -
+/ETC/APPARMOR.D/DISABLE - - X - - -
+     USR.BIN.FIREFOX - - X - - -
+                WARN - - X - - -
+                 WAY - - O - - -
+                LINE - - O - - -
+              SCREEN - - X - - -
+                THAT - - - - - O
+            PLYMOUTH - - - - - S

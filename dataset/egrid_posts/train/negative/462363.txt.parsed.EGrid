@@ -1,0 +1,27 @@
+/ETC/SSH/SSHD_CONFIG X - - - -
+          PERMISSION - X - - -
+                 CLI - X - - -
+                GKSU - X - - -
+                 GUI - X - - -
+                APPS - X - - -
+               PATCH - S - - -
+              KERNEL - X - - -
+              GT435M - X - - -
+                THAT - - O - -
+              DRIVER - - S - -
+             PROBLEM - - S - -
+              NVIDIA - - X S -
+             OPTIMUS - - O - -
+                CORE - - - X -
+                  I5 - - - S -
+                 GPU - - - O -
+            PRIORITY - - - X -
+             DRIVERS - - - O -
+                 ONE - - - X -
+                 VGA - - - X -
+                CARD - - - X -
+              THINGS - - - X -
+             SUPPORT - - - O -
+                AGES - - - X -
+          TECHNOLOGY - - - O -
+      UPDATE/UPGRADE - - - - X

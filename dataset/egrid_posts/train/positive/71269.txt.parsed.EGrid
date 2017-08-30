@@ -1,0 +1,11 @@
+               FSTAB X - - - - -
+                ROOT - - X - - -
+             DEFAULT - - X - - -
+                USER - - O - - -
+                   / - - S - - -
+          /ETC/FSTAB - - O - - -
+                  VI - - - O - -
+                 AGE - - - X - -
+                NANO - - - - X -
+                HELL - - - - X -
+                   D - - - - - X

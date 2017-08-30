@@ -1,0 +1,15 @@
+                DATE X - - - -
+               DMESG X - - - -
+             ENTRIES X - - - -
+                 BOX X - - - -
+                BOOT X X X - -
+                 LOG - X - - -
+                 ONE - X - - -
+             COMMAND - O - - X
+                FILE - - S - -
+             DEVICES - - X - -
+             CONFIGS - - X - -
+              ORIGIN - - X - -
+               ISSUE - - X - -
+     /VAR/LOGS/DMESG - - - - S
+                MORE - - - - X

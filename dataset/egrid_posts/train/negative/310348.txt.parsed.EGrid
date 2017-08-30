@@ -1,0 +1,15 @@
+             COMMAND X - - - -
+           OWNERSHIP X - - - -
+                 DIR X - - - -
+                 ALL X - - - -
+                FILE O - - - -
+                   $ - X - - -
+                  -R - X - - -
+                   * - - X S -
+             VERSION - - - - O
+              KERNEL - - - - X
+        9.04-VERSION - - - - X
+              UBUNTU - - - - X
+             DRIVERS - - - - O
+             SPECIFY - - - - X
+                8.10 - - - - X

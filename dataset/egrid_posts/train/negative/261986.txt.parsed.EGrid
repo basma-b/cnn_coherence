@@ -1,0 +1,16 @@
+               USERS S - - - -
+               DRIVE O - - - -
+                  OK - X - - -
+                SUDO - X - - -
+             COMMAND - X - - -
+                FILE - O - - -
+          /ETC/FSTAB - X - - -
+              OPTION - X - - -
+                USER - X S - -
+             OPTIONS - O - - -
+                  RW - X - - -
+                AUTO - S - - -
+                ROOT - X - - -
+                MODE - X - - -
+              EDITOR - X - - -
+                THIS - - X - -

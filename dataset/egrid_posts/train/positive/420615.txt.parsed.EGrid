@@ -1,0 +1,11 @@
+             DEFAULT X - - -
+                FILE X O - -
+             APACHE2 X O - X
+        APACHE2.CONF - S - -
+        /ETC/APACHE2 - X - -
+             COMMAND - O O -
+             APT-GET - S - -
+       CONFIGURATION - X - -
+/ETC/APACHE2/APACHE2.CONF - O - -
+           DIRECTORY - X - -
+                SUDO - - - X

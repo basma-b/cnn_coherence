@@ -1,0 +1,13 @@
+                FILE O O X - -
+           SMB-DRIVE X X - - -
+           SMBCLIENT - - X - -
+                 USE - - S - -
+               SHARE - - O - -
+           DIRECTORY - - X - -
+              SYSTEM - - X - -
+           PARTITION - - X O X
+                SIZE - - O - -
+                PART - - - X -
+               MAGIC - - - O -
+          ROOT-SPACE - - - - O
+               SPACE - - - - S

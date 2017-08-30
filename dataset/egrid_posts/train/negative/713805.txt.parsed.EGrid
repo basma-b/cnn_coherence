@@ -1,0 +1,27 @@
+                9.10 X - - - - - - - - -
+                 NEW S - - - - - - - - -
+                WIRE - X - - - O - O - -
+         CONNOECTION - X - - - - - - - -
+                 TIP - - X - - - - - - -
+            IWCONFIG - - - S - - - - - -
+                ETH2 - - - O O - - - - -
+                   U - - - O S - - - S -
+                DHCP - - - - S - - - S -
+                 CLI - - - - X - - - - -
+                SUDO - - - - O - - - - -
+                ETH0 - - - - S - - - - -
+            WIRELESS - - - - - - O - X -
+                TIME - - - - - - - X - -
+             PROBLEM - - - - - - - O - -
+      NETWORKMANAGER - - - - - - - - X -
+        /ETC/NETWORK - - - - - - - - X -
+          INTERFACES - - - - - - - - S -
+               WLAN0 - - - - - - - - X -
+                DONT - - - - - - - - X -
+               SETUP - - - - - - - - S -
+             COMMAND - - - - - - - - O -
+               ANNOY - - - - - - - - O -
+             SOMEONE - - - - - - - - O -
+                 MSG - - - - - - - - S -
+/ETC/DBUS-1/EVENT.D/25NETWORKMANAGER - - - - - - - - - X
+                STOP - - - - - - - - - X

@@ -1,0 +1,13 @@
+                THAT O - - - - - -
+            USERNAME O - - - - - -
+                BASH X - - - - - -
+                 USE - X - - - - -
+                SUDO - X - O - - -
+                APPS - - - S - - -
+                ROOT - - - S - - -
+                EUID - - - X - - -
+                USER - - - O - - -
+               ADMIN - - - X - - -
+               GROUP - - - X - - -
+                 ALL - - - - S - -
+             ./FILE2 - - - - - - X

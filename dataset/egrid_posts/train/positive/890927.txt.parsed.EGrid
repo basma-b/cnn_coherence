@@ -1,0 +1,14 @@
+         RESOLV.CONF S - - - O - - - -
+              ANYONE X - - - - - - - -
+                DHCP - X - O - - - - O
+           TIMESCALE - - X - - - - - -
+              CHANGE - - X - - - - - -
+                HOUR - - - O - - - - -
+               HOURS - - - S - - - - -
+           SOMETHING - - - X - - - - -
+                FACT - - - X - - - - -
+/ETC/DHCP/DHCLIENT.CONF - - - - - - - O -
+ DOMAIN-NAME-SERVERS - - - - - - - X -
+               ENTRY - - - - - - - O -
+             REQUEST - - - - - - - X -
+              STANZA - - - - - - - X -

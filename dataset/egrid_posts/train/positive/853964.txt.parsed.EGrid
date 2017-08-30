@@ -1,0 +1,10 @@
+             SUDOERS S - - -
+             DEFAULT X - X -
+     /VAR/LOG/SYSLOG X - - -
+            ANYTHING O - - -
+               THERE X - - -
+   /VAR/LOG/AUTH.LOG - - X -
+             RSYSLOG - - S -
+              EVENTS - - O -
+                FILE - - X -
+               THANK - - - X

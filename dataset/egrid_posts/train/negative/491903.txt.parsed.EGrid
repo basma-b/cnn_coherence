@@ -1,0 +1,20 @@
+   /BOOT/GRUB/STAGE1 X - -
+   /BOOT/GRUB/STAGE2 S - -
+              CHANGE - O -
+                GRUB - X -
+                TYPE - X -
+               HD2,0 - X -
+           DR_WILLIS - X -
+               ERROR - O -
+             STARTUP - X -
+                 USB - X -
+               STICK - S -
+              INSERT - X -
+                BOOT - X -
+               ORDER - S -
+               DRIVE - O -
+           GRUB.CONF - S -
+ /BOOT/GRUB/MENU.LST - O -
+             COMMONS - - X
+                READ - - X
+/USR/SHARE/DOC/UBUNTU-ARTWORK/COPYRIGHT - - X

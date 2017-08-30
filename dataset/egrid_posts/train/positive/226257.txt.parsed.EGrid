@@ -1,0 +1,14 @@
+                HELP X - - - - - - - - - -
+              FORMAT - X - - - - - - O - -
+               FLASH - X - - - - - - - - -
+               DRIVE - X - - - - - - X - -
+                 TAB - - S - - - - - - - -
+           PARTITION - - O - - - - - - - -
+             CHOICES - - - X - - - - - - -
+                 ONE - - - O - - - - - - -
+                SIZE - - - O - - - - - - -
+           STRUCTURE - - - - X - - - - - -
+                NTFS - - - - - - - X - - -
+           MKFS.VFAT - - - - - - - - X - -
+               THING - - - - - - - - - - O
+                ROOT - - - - - - - - - - X

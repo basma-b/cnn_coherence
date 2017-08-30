@@ -1,0 +1,11 @@
+          BATTERY.SH O - - - - - -
+              OUTPUT O - X O - - -
+                ECHO X O - - - - -
+              SCRIPT - O - X - - -
+             CRONTAB - X - - - - -
+                TAIL - - - O - - -
+                PIPE - - - X - - -
+               OUPUT - - - O - - -
+               SHELL - - - X - - -
+                THIS - - - - X - -
+             ALRIGHT - - - - - - X

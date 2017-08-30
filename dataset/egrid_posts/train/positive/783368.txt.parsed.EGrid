@@ -1,0 +1,17 @@
+              SERVER S - - - -
+               SSHFS O - - X -
+           DIRECTORY O - - - -
+                ROOT X - - O -
+                 TMP O - - O -
+                  LS O - - X -
+                BASH O - - - -
+                  CD X - - - -
+          PERMISSION S - - S -
+                SUDO - - - S S
+               CHMOD - - - O -
+                /TMP - - - O S
+                THIS - - - S -
+             COMMAND - - - X -
+          10.1.30.82 - - - X -
+                   / - - - - O
+               THERE - - - - X

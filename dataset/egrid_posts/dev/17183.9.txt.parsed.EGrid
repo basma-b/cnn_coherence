@@ -1,0 +1,12 @@
+                CONF X - - - - -
+               12.04 X - - - - -
+                THIS - O - - - -
+                HTTP - X - - - -
+//WWW.LINUXFORUMS.ORG/FORUM/RED-HAT-FEDORA-LINUX/40303-LOGGING-SSH-CONNECTIONS-ITS-OWN-LOG-FILE.HTML - X - - - -
+    /ETC/SYSLOG.CONF - - S - - -
+                 SSH - - - S - -
+                 LOG - - - O - -
+         CONNECTIONS - - - S - -
+                FILE - - - X - -
+/ETC/SSH/SSHD_CONFIG - - - X - -
+                LOOK - - - - X -

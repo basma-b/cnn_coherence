@@ -1,0 +1,17 @@
+                 LEX X - - - X - -
+                YACC X - - - X - -
+             DEFAULT X - X - - - -
+             MACHINE X - - - - - -
+               THERE - X - - - - -
+        APPLICATIONS - X - - - - -
+               THESE - O - - - - -
+                FLEX - - - X X - -
+               BISON - - - X X - -
+                 GCC - - - S - - -
+           APT-CACHE - - - - - X -
+            RDEPENDS - - - - - S -
+             PACKAGE - - - - - X -
+           SUBFOLDER - - - - - - X
+                FILE - - - - - - X
+                CALL - - - - - - X
+REGISTER_SECONDLIFEPROTOCOL.SH - - - - - - X

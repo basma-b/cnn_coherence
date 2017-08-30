@@ -1,0 +1,31 @@
+         ./CONFIGURE S X - - - - - -
+         ENVIRONMENT O - - - - - - -
+           VARIABLES X - - - - - - -
+    GNOME_OSD_CFLAGS X - - - - - - -
+      GNOME_OSD_LIBS X S - - - - - -
+                THIS X - - - - - - -
+              EXPORT - X - - - - - -
+/WHATEVER/ELSE/IT/IS - X - - - - - -
+                NAME - O - - - - - -
+              HELPER - X - - - - - -
+             CLIENTS - S - - - - - -
+               THING - O - - - - - -
+               ALERT - X - - - - - -
+                  .. - O - - - - - -
+             PACKAGE - O - - - - - -
+                GTK+ - X - - - - - -
+            UNIVERSE - - - X - - - -
+              ENABLE - - - X - - - -
+                BOTH - - - - S - - -
+                 TWO - - - - O - - -
+              ERRORS - - - - X - - -
+               SOUND - - - - X - - -
+                LIEK - - - - O - - -
+        SOURCES.LIST - - - - S - - -
+                HOSE - - - - O - - -
+                LOOK - - - - O - - -
+            PASTEBIN - - - - - - X -
+             ADDRESS - - - - - - - X
+//PASTE.UBUNTU-NL.ORG/17090 - - - - - - - X
+              THNAKS - - - - - - - X
+                HELP - - - - - - - X

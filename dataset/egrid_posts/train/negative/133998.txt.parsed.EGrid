@@ -1,0 +1,13 @@
+            QUESTION X X - - - - - -
+             DEFAULT X X X - X - - -
+       CONFIGURATION X X - - - - - -
+            IPTABLES X X S X - - - -
+              UBUNTU X X - - - - - -
+                RULE - - O - - - - -
+              CHANGE - - - O - - - -
+              REBOOT - - - X - - - -
+             RULESET - - - - X - - -
+             STARTUP - - - - X - - -
+               TOOLS - - - - - - - S
+                ROOM - - - - - - - X
+                LIST - - - - - - - O

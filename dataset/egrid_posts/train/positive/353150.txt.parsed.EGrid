@@ -1,0 +1,13 @@
+               ERROR X - - S
+                DPKG S - O -
+                  .. S - - -
+    /MAIN/PACKAGES.C X - - -
+       PROCESS_QUEUE S - - -
+           ASSERTION X - - -
+           DEPENDTRY X - - -
+                   < S - - -
+         RECONFIGURE - - X -
+                  -A - - S -
+             PACKAGE - - O -
+            QUESTION - - X -
+                SAME - - - O

@@ -1,0 +1,17 @@
+        MYSQL-SERVER O O - - - - - -
+             APT-GET X - - - - - - -
+               ERROR - X - - - - - -
+             MESSAGE - O - - - - - -
+                HTTP - X - - - - - -
+               PURGE - X - - - - - -
+                TYPE - - - - X - - -
+          CONNECTION - - - - X - - -
+                 USE - - - - X - - X
+                 USB - - - - - - S -
+                DHCP - - - - - - - O
+         CONNECTIONS - - - - - - - X
+            DHCLIENT - - - - - - - S
+                ETH0 - - - - - - - X
+            PROBLEMS - - - - - - - O
+      DISK/PARTITION - - - - - - - X
+                  .. - - - - - - - X

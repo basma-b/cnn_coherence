@@ -1,0 +1,31 @@
+             PROGRAM X X - - - -
+         SCANBUTTOND O - - - - -
+                USER X S O S - -
+         RUN_AS_USER - X - - - -
+                FLAG - O - - - -
+            SOMEUSER - X - O - -
+                FINE - O - - - -
+   START-STOP-DAEMON - X - - - -
+               START - X - - - -
+/USR/LOCAL/BIN/SCANBUTTOND - X - - - -
+/ETC/SCANBUTTOND/INITSCANNER.SH - X - - - -
+              SCRIPT - S - S - -
+                   P - X - - - -
+             STARTUP - X - - - -
+             COMMAND - O - O - -
+            LANGUAGE - - X - - -
+                   > - - S - - -
+                 THE - - - S - -
+          PRIVELEGES - - - X - -
+             SERVICE - - - O - -
+                CODE - - - X - -
+                HTTP - - - X - -
+//PASTEBIN.COM/TXCHJAVA - - - X - -
+            VARIABLE - - - S - -
+                 USE - - - X - -
+                MASK - - - X - -
+               USERS - - - X - -
+                NAME - - - X - -
+               RIGHT - - - X - -
+                WORD - - - - - X
+              SOURCE - - - - - X

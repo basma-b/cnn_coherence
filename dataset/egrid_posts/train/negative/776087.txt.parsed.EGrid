@@ -1,0 +1,21 @@
+                 5.5 O O -
+              UBUNTU X - -
+            LOCATION - X -
+                SUDO - X -
+             APT-GET - X -
+        MYSQL-SERVER - S -
+               IWANT - X -
+                HTTP - X -
+//DEV.MYSQL.COM/DOC/REFMAN/5.5/EN/BINARY-INSTALLATION.HTML - S -
+                 DIR - O -
+       /OPT/MYSQL5.5 - X -
+                 TAR - X -
+             ARCHIVE - O -
+                JEUS - O -
+              SERVER - S -
+                VIEW - X -
+/OPT/MYSQL5.5/BIN/MYSQLD - X -
+               ICANT - S -
+                CANT - S -
+             5.5/BIN - O -
+             EXAMPLE - - X

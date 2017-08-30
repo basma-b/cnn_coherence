@@ -1,0 +1,10 @@
+                HELP O - -
+                SUDO - - X
+     /ETC/INIT.D/GDM - - S
+              CONFIG - - S
+                BOOT - - X
+                DISK - - O
+                MKFS - - O
+           /DEV/HDA1 - - O
+            GRAPHICS - - X
+           SOMETHING - - O

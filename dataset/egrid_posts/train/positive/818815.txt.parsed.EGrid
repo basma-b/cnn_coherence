@@ -1,0 +1,14 @@
+                FILE O - - - - -
+GRUB_CMDLINE_LINUX_DEFAULT= X - - - - -
+                TEXT X - - - - -
+              SPLASH X - - - - -
+                TTY7 X X - - - -
+         UPDATE-GRUB - O - - - -
+                BOOT - X X - - -
+               THERE - - X - - -
+                 WAY - - X - - -
+                 TTY - - X - - -
+                TTY2 - - - X - -
+                   + - - - - - X
+                 ALT - - - - - X
+                  F2 - - - - - O

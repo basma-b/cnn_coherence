@@ -1,0 +1,14 @@
+                   A X - -
+                  HI X - -
+                 DIR O - -
+               GROUP S - -
+                   B X - -
+                   C X - -
+          PERMESSION O - -
+                FILE S - -
+          PERMISSION X - -
+                USER X - -
+               UMASK O - S
+                THAT - - X
+              SYSTEM - - X
+               BASIS - - X

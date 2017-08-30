@@ -1,0 +1,11 @@
+           PARTITION X O -
+                  ID X - -
+                BOOT X - -
+                GRUB X - -
+                 HD0 - S -
+              NUMBER - S -
+               COMMA - X -
+                DISK - X -
+               START - O -
+              UPDATE - - X
+             MANAGER - - X

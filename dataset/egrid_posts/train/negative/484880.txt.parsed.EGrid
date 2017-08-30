@@ -1,0 +1,17 @@
+             PROCESS X - - -
+                CALL X - - -
+        SENDMAIL-MTA X - - -
+             PACKAGE O - - -
+            SENDMAIL - S - -
+               |GREP - X - -
+                  II - X - -
+                 ALL - X - -
+         DESCRIPTION - - X -
+             DEFAULT - - - X
+              CONFIG - - - O
+            HARDWARE - - - X
+             DRIVERS - - - O
+               OFFER - - - X
+                 BTW - - - O
+          WIDESCREEN - - - X
+              DRIVER - - - O

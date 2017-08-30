@@ -1,0 +1,60 @@
+               SOUND O - - - - - - - - - - - -
+             UPGRADE X - - - - - - - - - - - -
+                9.05 X - - - - - - - - - - - -
+               KOALA X - - - - - - - - - - - -
+              OUTPUT - O - - - - - - - X - - -
+                  .. - X - - - - - - - - - - -
+             SOMEONE - X - - - - - - - - - - -
+                HTTP - - X - - - - - - X - - -
+//PASTE.UBUNTU.COM/385888/ - - X - - - - - - - - - -
+          SOUND-CARD - - X - - - - - - - - - -
+            INTELHDA - - - O - - - - - - - - -
+              NUMBER - - - O - - - - - - - - -
+                  HP - - - X - - - - - - - - -
+            PAVILION - - - X - - - - - - - - -
+                 DV7 - - - X - - - - - - - - -
+              CONFIG - - - - X - X - - - - - -
+                FILE - - - - O - - - - - X - -
+                9.04 - - - - X - - - - - - - -
+             STUTTER - - - - X - - - - - - - -
+               ISSUE - - - - X - - - - - - - -
+                 LOT - - - - S - - - - - - - -
+               FOLKS - - - - X - - - - - - - -
+              POTATO - - - - - X - - - - - - -
+              DEVICE - - - - - X - - - - - - -
+               INTEL - - - - - X - - - - O - -
+         CORPORATION - - - - - X - - - - - - -
+              82801I - - - - - X - - - - - - -
+                ICH9 - - - - - X - - - - - - -
+              FAMILY - - - - - X - - - - - - -
+                  HD - - - - - X - - - - - - -
+          CONTROLLER - - - - - S - - - - - - -
+             COMMENT - - - - - O - - - - - - -
+               HTTPS - - - - - X O - - - - - -
+//BUGZILLA.REDHAT.COM/SHOW_BUG.CGI - - - - - X - - - - - - -
+           ID=487540 - - - - - - S - - - - - -
+             SLIDERS - - - - - - O - - - - - -
+      ALSA-MIXER-GUI - - - - - - X - - - - - -
+            MODPROBE - - - - - - X - - - - - -
+              REBOOT - - - - - - O - - - - - -
+             DRIVERS - - - - - - - S - - - - -
+                LOAD - - - - - - - O - - - - -
+                CARD - - - - - - - - S - - - -
+                THAT - - - - - - - - - S - - -
+//PASTE.UBUNTU.COM/385898/ - - - - - - - - - S - - -
+       SND_HDA_INTEL - - - - - - - - - S - - -
+           BACKPORTS - - - - - - - - - S - - -
+            SYNAPTIC - - - - - - - - - X - X -
+                ALSA - - - - - - - - - X - - -
+             PACKAGE - - - - - - - - - X - - -
+                NAME - - - - - - - - - O - - -
+KERNEL/SOUND/PCI/HDA/SND-HDA-INTEL.KO - - - - - - - - - X - - -
+                 CAT - - - - - - - - - - X - -
+/ETC/MODPROBE.D/BLACKLIST - - - - - - - - - - S - -
+                HELP - - - - - - - - - - - O -
+              SEARCH - - - - - - - - - - - S -
+LINUX-BACKPORTS-MODULES-ALSA - - - - - - - - - - - X -
+                   $ - - - - - - - - - - - - O
+                SUDO - - - - - - - - - - - - X
+             APT-GET - - - - - - - - - - - - S
+                  -R - - - - - - - - - - - - X

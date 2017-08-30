@@ -1,0 +1,12 @@
+               MOUNT X - - - -
+             COMMAND X - - - -
+               USERS S X - - -
+           GID=GROUP - S - - -
+            USERNAME - X - - -
+               GROUP - X X - -
+           UMASK=022 - O - - -
+                  'S - - S - -
+             DEFAULT - - X - -
+                  ID - - X - -
+                USER - - X - -
+                   * - - - - S

@@ -1,0 +1,18 @@
+                  .. X - - - - - - -
+            GRAPHICS X - - - - - - -
+                CARD O - - - - - - -
+                VESA X - - - - - - -
+               INTEL O - - - - - - -
+              UBUNTU S - - - - - - -
+                THIS - X - - - - - -
+        XSERVER-XORG - - X - - - - -
+         RESOLUTIONS - - - - O - - -
+                FILE - - - - X - - -
+               LSPCI - - - - X - - -
+               XB3RT - - - - O - - -
+              KERNEL - - - - X - - O
+         FRAMEBUFFER - - - - X - - -
+           INTERFACE - - - - O - - -
+        /ETC/INITTAB - - - - - - - O
+              OPTION - - - - - - - X
+WS_KERNEL_FG=WSCOL_BLACK - - - - - - - X

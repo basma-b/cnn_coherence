@@ -1,0 +1,14 @@
+                TIME X - - - -
+            HARDLINK X - - - -
+             BACKUPS X - - - -
+                COPY - X - - -
+           SNAPSHOPS - X - - -
+               DRIVE - X - - -
+                LINK - O - - -
+                FILE - X - X -
+                THIS - - X - -
+            SNAPSHOP - - - S -
+                  .. - - - O X
+/PATH/TO/NEW/SNAPSHOTDRIVE - - - X -
+              KERNEL - - - - X
+           SOMETHING - - - - O

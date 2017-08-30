@@ -1,0 +1,12 @@
+             PACKETS S - - -
+               ORDER S - - -
+                XVID X - - -
+                DIVX X - - -
+            COMPRESS X - - -
+               VIDEO X - - -
+                FILE O - - -
+ GSTREAMER0.8-FFMPEG - X - -
+           SOMETHING - - O -
+                 VNC - - S -
+              LAUNCH - - O -
+              XINETD - - - O

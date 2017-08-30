@@ -1,0 +1,16 @@
+                ECHO X -
+             OPTIONS S -
+/ETC/MODPROBE.D/WIFIHACK.CONF X -
+               +SUDO O -
+                SUDO - X
+               NMCLI - S
+               PRINT - X
+          CONNECYION - X
+              DETAIL - X
+                 HMM - X
+             NETWORK - X
+             MANAGER - S
+              SYSTEM - X
+             SETTIGN - X
+              WINDOW - X
+                CLUE - X

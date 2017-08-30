@@ -1,0 +1,11 @@
+             PACKAGE X - - -
+            CONFLICT O - - -
+                 WAY X - - -
+              ANYONE - S - -
+                DPKG - O - -
+             UPGRADE - O - -
+               ERROR - - X -
+                HTTP - - X -
+                SUDO - - X -
+             APT-GET - - S -
+         QEMU-COMMON - - O -

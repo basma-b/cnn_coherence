@@ -1,0 +1,21 @@
+             WINDOWS O X - - - X - - -
+                 MBR O - - - - - - - O
+                GRUB X O - - - O - - -
+                BOOT X X - - - X - - X
+                DISK X - - - - - - - -
+                IDEA - S - - - - - - -
+            BOOT.BIN - S - - - - - - -
+              LOADER - X - - - - - - -
+                  .. - X - - - - - - -
+                  DD - X - - - - - - -
+         IF=/DEV/FD0 - S - - - - - - -
+             COUNT=1 - O - - - - - - -
+              FREEZE - X - - - - - - -
+               IDEAS - - X - - - - - -
+              ANYONE - - - X - - - - -
+                LOOK - - - - S - - - -
+                PAGE - - - - X - - - -
+//WIKI.UBUNTU.COM/RECOVERINGUBUNTUAFTERINSTALLINGWINDOWS - - - - X - - - -
+           INTELIKEY - - - - - X - - -
+               IMAGE - - - - - O - - O
+                LOAD - - - - - X - - -

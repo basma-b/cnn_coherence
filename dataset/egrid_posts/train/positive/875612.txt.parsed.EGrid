@@ -1,0 +1,13 @@
+             MONITOR - O - - - -
+                PCIE - X - - - -
+                 GFX - X - - - -
+                CARD - X - - - -
+               THIRD - O - - - -
+               BUILD - X - - - -
+                HDMI - X - - - -
+              OUTPUT - X - - - -
+               BUSID - - O - - -
+             DEVICES - - X - - S
+           XORG.CONF - - S - - -
+                BIOS - - O - - -
+                 USE - - - - - S

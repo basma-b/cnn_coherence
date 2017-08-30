@@ -1,0 +1,15 @@
+                TEXT X - O - -
+             MESSAGE X - - - -
+                BOOT X - - - -
+            SHUTDOWN X - - - -
+             VERSION - X - - -
+              UBUNTU - X - - -
+   /ETC/DEFAULT/GRUB - - S - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - X - -
+              SPLASH - - X - -
+                SUDO - - X - -
+         UPDATE-GRUB - - X - -
+                GRUB - - X - -
+              SCREEN - - O - -
+               THERE - - X - -
+          ./SETUP.PY - - - - X

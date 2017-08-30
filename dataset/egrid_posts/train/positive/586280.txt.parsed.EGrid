@@ -1,0 +1,13 @@
+         MOD_REWRITE O - - -
+              APACHE X - - -
+                  .. X - - -
+                CANT S - - -
+             PACKAGE O - - -
+         MOD-REWRITE X - - -
+               CHECK - S - -
+                 DUH - X - -
+              ALREDY - X - -
+             SYMLINK - O - X
+             A2ENMOD - - - X
+        REWRITE.LOAD - - - O
+                MUCK - - - O

@@ -1,0 +1,14 @@
+              ANYONE X - -
+/ETC/NETWORK/INTERFACES S - -
+           INTERFACE O S -
+                 IPS O - -
+                 NIC - S -
+                  IP - O -
+                NICS - O -
+/ETC/DHCP3/DHCLIENT.CONF - S -
+             MACHINE - S -
+                HOST - S -
+                 MAN - - X
+          INTERFACES - - S
+             OPTIONS - - O
+             ADDRESS - - O

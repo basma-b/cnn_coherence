@@ -1,0 +1,11 @@
+        MOTHERBOARDS O - - - - -
+            COMPUTER X - - - - -
+               SOUND O - - - - -
+            APPROACH - - X - - -
+          LSPCI|GREP - - - X - -
+                  -I - - - X - -
+               AUDIO - - - X - -
+              REISIO - - - - X -
+            FIREWALL - - - - S -
+             DEFAULT - - - - X -
+                   / - - - - - X

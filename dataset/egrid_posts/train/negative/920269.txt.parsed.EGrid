@@ -1,0 +1,17 @@
+             SERVICE S - - O - - -
+/ETC/INIT.D/NAMEOFSERVICE X - - - - - -
+  START|STOP|RESTART X - - - - - -
+              COURSE X - - - - - -
+             ALIASES X - - - - - -
+             COMMANS X - - - - - -
+              THANKS X - - - - - -
+                THAT - O - - - - -
+     /ETC/INIT.D/FOO - S - - - - -
+          START|STOP - X - - - - -
+              SYSTEM - - - S - - -
+                BOOT - - - X - - -
+            RUNLEVEL - - - - X - -
+         UPDATE-RC.D - - - - - X -
+               START - - - - - O -
+              SCRIPT - - - - - X -
+                HEHE - - - - - - X

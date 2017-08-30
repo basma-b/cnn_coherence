@@ -1,0 +1,12 @@
+                TEST X - -
+               FIRST O - -
+                  DD S - -
+     IF=/DEV/URANDOM X - -
+               APLAY O - -
+            ALSATEST X - -
+            /DEV/DSP O - -
+                TYPE X - -
+            MODPROBE X - -
+           ALSA-BASE O - -
+             RESTART X - -
+             NOTHING - - X

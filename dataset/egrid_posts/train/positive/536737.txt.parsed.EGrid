@@ -1,0 +1,11 @@
+                FILE O - - - - - -
+          EXECUTABLE X - - - - - -
+                TYPE X - - - - - -
+               CHMOD X - - - - - -
+               A.OUT X - - - - - -
+               RIGHT O - - - - - -
+         PERMISSIONS - O - - - - -
+                SUDO - - X - - - S
+               FRONT - - X - - - -
+                ROOT - - X - X - -
+             NOTHING - - - - X - -

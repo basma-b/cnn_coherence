@@ -1,0 +1,11 @@
+             DEFAULT X - X
+             GATEWAY X - X
+                 USE X - -
+      NETWORK-CONFIG X - -
+       /ETC/NETWORKS - S -
+/ETC/NETWORK/INTERFACES - O -
+             CAMMAND - - O
+                SUDO - - X
+               ROUTE - - S
+                PPP0 - - O
+                INFO - - O

@@ -1,0 +1,11 @@
+           PARTITION O X -
+              UBUNTU O X X
+                DISK S - -
+                WONT S - -
+             GPARTED - X -
+                LIVE - X -
+                  CD - X X
+                CANT - X -
+               DRIVE - X -
+              SYSTEM - X -
+              INSTAL - - X

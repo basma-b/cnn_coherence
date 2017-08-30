@@ -1,0 +1,13 @@
+                FILE S - - X -
+              SYSTEM O - - X -
+                ROOT X X - X X
+           PARTITION X - - - X
+             PROCESS - X - - -
+              ACCESS - O - - -
+          PIVOT_ROOT - X - - -
+              CHROOT - X - - -
+           SOMETHING - - - O -
+                BOOT - - - X X
+                  CD - - - S O
+         FILESYSTEMS - - - - O
+             NOTHING - - - - O

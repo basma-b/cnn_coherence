@@ -1,0 +1,6 @@
+           INTERFACE X -
+      NETWORKMANAGER S -
+      /ETC/INETFACES S -
+                 ONE X -
+              UPDATE - X
+      AUTHENTICATION - S

@@ -1,0 +1,24 @@
+                SUDO - X - - X -
+            APTITUDE - S - - S -
+               ERROR - X - - X -
+        DEPENDENCIES - O - - - -
+                  .. - X - - - -
+             PACKAGE - O - - - -
+             VERSION - X - - - -
+               -LSB- - O - - - -
+               -RSB- - X - - - -
+                 TIP - X - - - -
+               GEDIT - - X X - -
+              RETURN - - - X - -
+            ANYTHING - - - - S -
+              ERRORS - - - - X -
+                   W - - - - X -
+                 GPG - - - - X -
+                HTTP - - - - X -
+//PACKAGES.UBUNTU.COM - - - - X -
+               NATTY - - - - X -
+           INRELEASE - - - - X -
+                FILE - - - - X -
+/VAR/LIB/APT/LISTS/PARTIAL/PACKAGES.UBUNTU.COM_ONEIRIC_DISTS_NATTY_INRELEASE - - - - S -
+             MESSAGE - - - - X -
+          /ETC/FSTAB - - - - - X

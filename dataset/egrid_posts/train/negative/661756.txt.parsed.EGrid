@@ -1,0 +1,14 @@
+             COMMAND X - - -
+                FSCK X O - -
+              REBOOT X - - -
+                FILE - X - X
+                NAME - X - -
+           FORCEFSCK - O - -
+                   / - X - -
+            SHUTDOWN - X - -
+                 -RF - O - -
+             VERSION - X - -
+             PACKAGE - X - -
+           APT-CACHE - X - -
+              SEARCH - - X -
+         PERMISSIONS - - - S

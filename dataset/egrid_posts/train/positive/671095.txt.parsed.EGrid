@@ -1,0 +1,16 @@
+              ANYONE X - - - -
+                RULE X - - - -
+                USER - O - - -
+              ACCESS - O - - -
+             NETWORK - X - - -
+                SSHD - S - - -
+          ALLOWUSERS - X - - -
+               JASON - S - - S
+                   * - - S - -
+    /ETC/HOSTS.ALLOW - - X - -
+          PASTEBINIT - - - S -
+                HTTP - - - O -
+            VERSIONS - - - O -
+                NONE - - - S -
+                WORK - - - O -
+                TYPE - - - - X

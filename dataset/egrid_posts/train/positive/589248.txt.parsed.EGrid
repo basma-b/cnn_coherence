@@ -1,0 +1,25 @@
+                   > S - - - - - -
+                  EE S - - - - - -
+                  .. O S - - - - -
+              NVIDIA O - - - - - -
+              DRIVER S - - - - - -
+             ONBOARD X - - - - - -
+                CARD O - - X - - -
+             TROUBLE O - - - - - -
+                   F O - - - - - -
+                SAME S - - - - - -
+            INTERNAL S - - - - - -
+                 GPU X - - - - - -
+               INTEL O - - - - - -
+                BIOS - X - - - - -
+               THING - - X - - - -
+                MOBO - - - X - - -
+              DOESNT - - - S - - -
+                 AGP - - - - S - -
+       NVIDIA_DRV.SO - - - - - X -
+/USR/LIB/XORG/MODULES/DRIVERS/ - - - - - S -
+                  OK - - - - - X -
+  ACTIONINSTRUCTIONS - - - - - O -
+PATH/TO/NVIDIA_DRV.SO - - - - - X -
+ACTIONPARSNIPSINSTRUCTIONS - - - - - O -
+        INSTRUCTIONS - - - - - - X

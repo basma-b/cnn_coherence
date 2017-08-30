@@ -1,0 +1,16 @@
+             COMMAND X - - -
+                 BUS X - - -
+                 IDS X - - -
+             DEVICES X - - -
+              SYSTEM X - - -
+               LSPCI - X - -
+                WELL - - X -
+             PROBLEM - - S -
+              MINUTE - - X -
+                  .. - - X -
+           SOMETHING - - - S
+              UBUNTU - - - X
+              NVIDIA - - - X
+             DRIVERS - - - X
+              CONFIG - - - X
+               POINT - - - X

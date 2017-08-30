@@ -1,0 +1,29 @@
+            /DEV/MD0 X - - - - - - - -
+                BOOT - X - - - - - - -
+              RESCUE - X - - - - - - -
+                 USB - S - - - - - - -
+              DEVICE - S - - - - - - -
+               START - O - - - - - - -
+               STICK - - X - - - - - -
+              NORMAL - - X - - - - - -
+               THERE - - - S S - - S -
+           INITRAMFS - - - O - - - - -
+               /BOOT - - - X - - - - -
+                RAID - - - O O - - - -
+                   * - - - - X - - - -
+           PARTITION - - - - X - - - -
+                ARCH - - - - X - - - -
+                 MD0 - - - - O - - - -
+              UBUNTU - - - - X - - - -
+                  .. - - - - O - - - -
+              KERNEL - - - - S - - - -
+                WIKI - - - - X - - - -
+                 WAY - - - - O - - - -
+                LINK - - - - - X - - -
+              FRENCH - - - - - - O - -
+                   P - - - - - - - S -
+                 ONE - - - - - - - O -
+                THIS - - - - - - - - X
+                HTTP - - - - - - - - X
+//UBUNTUGUIDE.ORG/WIKI/UBUNTU - - - - - - - - X
+HOW_TO_RESTORE_GRUB_MENU_AFTER_WINDOWS_INSTALLATION - - - - - - - - X

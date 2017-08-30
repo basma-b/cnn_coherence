@@ -1,0 +1,14 @@
+         SSHD_CONFIG X X - -
+                FILE O - - -
+             OPTIONS X - - -
+                   > X - - -
+USEPRIVELEGESEPERATION X - - -
+              YES/NO X - - -
+          STRICTMODE S - - -
+CHALLENGERESPONSEAUTHENTICATION X - - X
+             MANPAGE O - - -
+          DIRECTIVES O - - -
+                 MAN - X - -
+                   K - - - X
+               DIDNT - - - S
+                MUCH - - - O

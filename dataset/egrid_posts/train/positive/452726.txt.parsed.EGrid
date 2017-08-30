@@ -1,0 +1,15 @@
+         PERMISSIONS O - - - - - - -
+                FILE X - - S X - - -
+                ROOT X - - X X O S -
+                SUDO - X - - - - X -
+             MESSAGE - S - - - - X -
+        /ETC/SUDOERS - S - - - - S O
+                MODE - O - - - - O -
+         SUGGESTIONS - - X - - - - -
+               CHOWN - - - S - - - -
+               OWNER - - - O - - - -
+              ACCESS - - - - O - - -
+                CANT - - - - - X - -
+                 WAY - - - - - - X -
+              RETURN - - - - - - X -
+             RAMPAGE - - - - - - - S

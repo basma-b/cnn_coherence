@@ -1,0 +1,9 @@
+               HTTPS X - -
+//HELP.UBUNTU.COM/COMMUNITY/GRUB2 S - -
+       GRUB_TIMEOUT= S - -
+   /ETC/DEFAULT/GRUB X - -
+                MENU O - -
+         /ETC/GRUB.D - X -
+           00_HEADER - - X
+            ANYTHING - - X
+          PARTICULAR - - X

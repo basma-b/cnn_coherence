@@ -1,0 +1,8 @@
+             COMMAND S - - -
+             PROCESS O - - -
+               DRIVE O - - -
+                  .. - - O -
+           PARTITION - - S -
+                LSOF - - - X
+                SUDO - - - X
+           /DEV/SDXX - - - S

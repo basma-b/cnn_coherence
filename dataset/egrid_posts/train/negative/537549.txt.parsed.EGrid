@@ -1,0 +1,20 @@
+               CLEAN - O - - - - - - - - -
+               HARDY - X - - - - - - - - -
+               /BOOT - - S - - - - - - - -
+                   / - - - S - - - - - - -
+                GRUB - - - - S - - - - - -
+                 MBR - - - - O - - - - - -
+                BOOT - - - - - X - - - - -
+               ERROR - - - - - X - - - - -
+                 15. - - - - - O - - - - -
+            MENU.LST - - - - - O - - - - -
+               IDEAS - - - - - - X - - - -
+                INFO - - - - - - - X - - -
+/BOOT/GRUB/DEVICE.MAP - - - - - - - X - - -
+                 SDA - - - - - - - - S - -
+                 HD0 - - - - - - - - X - -
+                  HD - - - - - - - - - X -
+                 0,0 - - - - - - - - - X -
+               IMAGE - - - - - - - - - X -
+                AVID - - - - - - - - - - S
+         APPLICATION - - - - - - - - - - O

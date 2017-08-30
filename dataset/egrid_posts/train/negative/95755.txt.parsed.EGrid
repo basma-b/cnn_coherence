@@ -1,0 +1,17 @@
+                  NP S - -
+             SOMEONE S - -
+                SYNC X - -
+               CLOCK O - -
+             NTPDATE - X -
+        POOL.NTP.ORG - X -
+             HWCLOCK - X -
+                 NOV - X -
+               -LSB- - X -
+               -RSB- - X -
+                BIND - O -
+          PERMISSION - S -
+                THAT - - O
+             CHANNEL - - X
+                   > - - X
+               /JOIN - - X
+                   < - - S

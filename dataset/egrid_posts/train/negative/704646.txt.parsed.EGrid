@@ -1,0 +1,7 @@
+ /BOOT/GRUB/GRUB.CFG X - -
+                MODE X X -
+            RECOVERY - X -
+             ENTRIES - O -
+              GKSUDO - - S
+                SUDO - - X
+             TROUBLE - - X

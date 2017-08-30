@@ -1,0 +1,15 @@
+             COMMAND S - - - -
+         PERMISSIONS X - - - -
+              OTHERS X - - - -
+              FOLDER X - - - -
+       FILES/FOLDERS X - - - -
+           DIRECTORY - X - - -
+                  -R - X - - -
+            DYESS002 - X - - -
+                RPMS - S - - -
+              REDHAT - X - - -
+             SYSTEMS - X - - -
+                 NVM - - - X -
+   /PATH/TO/FILE.PDF - - - - X
+              EVINCE - - - - X
+/HOME/TABMAN/COOLBOOK.PDF - - - - X

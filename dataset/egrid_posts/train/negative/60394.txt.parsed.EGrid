@@ -1,0 +1,22 @@
+NVIDIA-LINUX-X86-1.0-7667-PKG1.RUN X - - - - - - -
+                  CD - - X - - - - -
+              DIALUP - - X - - - - -
+          NVIDIA-GLX - - - S - - - -
+                TYPE - - - X - - X X
+                SUDO - - - X - - - -
+             APT-GET - - - O - - - -
+                TEXT - - - X - - - -
+                MODE - - - X - - - -
+               WARTY - - - - S - - -
+                CARD - - - - O - - -
+                 OLD - - - - X - - -
+              NVIDIA - - - - - X - -
+              BINARY - - - - - O - -
+                 ALL - - - - - X - -
+                  VI - - - - - O - -
+                WILL - - - - - - X -
+                  IM - - - - - - S -
+        XFREE86.CONF - - - - - - S -
+/ETC/X11/XF86CONFIG-4_BACKUP - - - - - - X -
+       CONFIGURATION - - - - - - X -
+              ALT+F2 - - - - - - - S

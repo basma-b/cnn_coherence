@@ -1,0 +1,9 @@
+                WGET X - - - -
+               PROXY O - - X -
+      127.0.0.1:8080 - X - - -
+          CONNECTION - X - - -
+              REFUSE - X - - -
+               GCONF - - S - -
+       CONFIGURATION - - - X -
+              EDITOR - - - X -
+                 YES - - - - X

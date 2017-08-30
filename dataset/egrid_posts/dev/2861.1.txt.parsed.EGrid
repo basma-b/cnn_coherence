@@ -1,0 +1,13 @@
+                FILE X - -
+                ROOT X - -
+              FOLLOW - S -
+                SUDO - S -
+           SOMETHING - O -
+/SOME/PROTECTED/FILE - S -
+                TEST - X -
+                 TEE - O -
+            SOMEFILE - X -
+                WORK - - X
+               MARCN - - X
+                  -C - - X
+                 BLA - - X

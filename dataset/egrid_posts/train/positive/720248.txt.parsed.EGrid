@@ -1,0 +1,13 @@
+            WWW-DATA - O - - -
+         /ETC/PASSWD - S - - -
+               GROUP - S - - -
+              APACHE - S - - -
+              MYUSER - X - - -
+              WP-DIR - X - X -
+                DIRS - - X - -
+           WEBSERVER - - S - -
+         WRITEACCESS - - O - -
+           OWNERSHIP - - X - -
+                   * - - X - -
+             DEFAULT - - X - -
+              ACCESS - - O - -

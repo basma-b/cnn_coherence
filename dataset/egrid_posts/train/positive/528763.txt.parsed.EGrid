@@ -1,0 +1,12 @@
+             COMMAND X - - -
+                LINE X - - -
+                LIST X - - -
+                 DNS X - - -
+             MACHINE S - - -
+                 CAT - X - -
+    /ETC/RESOLV.CONF - S - -
+                NAME - X - O
+             SERVERS - S - -
+           DIRECTIVE - O - X
+/ETC/NETWORK/INTERFACES - X - -
+     DNS-NAMESERVERS - - - S

@@ -1,0 +1,9 @@
+              ANYONE X - - -
+                RULE O - - -
+            IPTABLES X - - -
+                 SSH O - - -
+               INPUT - X - -
+                  -I - S - -
+                 TCP - O - -
+                  -J - S - -
+                SUDO - - - X

@@ -1,0 +1,13 @@
+  PRINT-ARCHITECTURE S - - - - -
+        ARCHITECTURE O - - - - -
+                  -M X - - - - -
+                DPKG - S - - - -
+               UNAME - S - - - -
+             PACKAGE - X - - - -
+              KERNEL - O - - - -
+                 MIX - - X - - -
+                  .. - - O - - -
+                IDEA - - X - - -
+           DIRECTORY - - - S - -
+                LXDE - - - - - S
+              UBUNTU - - - - - X

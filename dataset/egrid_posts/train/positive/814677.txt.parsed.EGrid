@@ -1,0 +1,17 @@
+            BLOUBLOU X - - -
+           PARTITION O O - O
+             WINDOWS X X - X
+           /DEV/SDA1 O - - -
+             FACTORY X - - -
+               IMAGE X - - -
+           /DEV/SDA2 X - - -
+                BOOT X X - X
+               ERROR X X - X
+              RESCUE X X - X
+                   > O X - X
+           SOMETHING O - - -
+                HELP X - - -
+              UBUNTU - O - O
+              LIVECD - X - X
+                GRUB - X - X
+            QUESTION - - O -

@@ -1,0 +1,11 @@
+                HMMM X - - -
+      OPENSSH-SERVER S - - -
+                SSHD O - - -
+                   | X - - -
+               START X - - -
+            ARGUMENT S - - -
+             COMMAND - X - -
+         /ETC/INIT.D - - S -
+                CASE - - - X
+              SERVER - - - X
+                DIFF - - - O

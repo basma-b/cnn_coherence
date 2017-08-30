@@ -1,0 +1,15 @@
+           PARTITION O O - - -
+                EXT3 X - - - -
+             WINDOWS O - - - -
+                BOOT X X - - -
+                  CD X - - X -
+                 ETC X - - - -
+               AFAIK - - - O -
+             PROBLEM - - - O -
+                  PC - - - S -
+               DRIVE - - - O -
+              REASON - - - X -
+              GKSUDO - - - - S
+                ROOT - - - - X
+                FILE - - - - X
+             MANAGER - - - - X

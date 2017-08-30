@@ -1,0 +1,17 @@
+               ISSUE O X - -
+            COMPUTER O - - -
+                BOOT X - - -
+     LOCKFILE-CREATE - X - -
+          RESOLUTION - O - -
+               ERROR - X - -
+               DIDNT - S - -
+               12.04 - X - -
+              DETAIL - O - -
+               CRASH - - O -
+             SIGSEGV - - X -
+              CALLOC - - X -
+              THREAD - - - O
+                SHOW - - - O
+               THOSE - - - X
+             DEFAULT - - - X
+                HTOP - - - S

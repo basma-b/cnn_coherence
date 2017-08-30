@@ -1,0 +1,15 @@
+              ANYONE X - O - -
+                 ONE S - - - -
+                FILE O - - - -
+                 FIX X - - - -
+              LENGTH X - - - -
+                 5MB - - S - -
+                 SEC - - - X -
+                  DD - - - X -
+        IF=/DEV/ZERO - - - X -
+  OF=FIXEDLENGTHFILE - - - X -
+            BS=1024K - - - S -
+                THAT - - - - S
+                 ALL - - - - O
+              SERVER - - - - X
+               SORRY - - - - X

@@ -1,0 +1,12 @@
+    /PROC/PARTITIONS S -
+               WHICH O -
+                CARD O -
+                LINK - S
+                HTTP - O
+                BOOT - X
+              UBUNTU - X
+                  F6 - S
+                LINE - X
+                  .. - O
+                 END - X
+ACPI_BACKLIGHT=VENDOR - S

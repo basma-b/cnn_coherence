@@ -1,0 +1,25 @@
+               SETUP - X - - - - -
+                DHCP - X - - - - -
+              SERVER - O - - - - -
+               10.10 - X - - - - -
+              INSTAL - - X - - - -
+             PROGRAM - - O - - - -
+                FILE - - O - - - -
+              SUBNET - - X - - - -
+       255.255.255.0 - - O - - - O
+         NUMBER/MASK - - X - - - -
+         COMBINATION - - X - - - -
+               IDEAS - - - X - - -
+                LOOK - - - - X - -
+            EXAMPLES - - - - X - -
+                 MAN - - - - X - -
+                PAGE - - - - X - -
+                HTTP - - - - - X -
+//MANPAGES.UBUNTU.COM/MANPAGES/MAVERICK/MAN5/DHCPD.CONF.5.HTML - - - - - X -
+               RANGE - - - - - - X
+        192.168.1.99 - - - - - - X
+                THIS - - - - - - S
+                LINE - - - - - - O
+             DEFAULT - - - - - - X
+               LEASE - - - - - - X
+                INFO - - - - - - X

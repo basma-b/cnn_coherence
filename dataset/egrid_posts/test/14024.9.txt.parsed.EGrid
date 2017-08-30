@@ -1,0 +1,18 @@
+              DRIVER X X - - -
+        SEGMENTATION - X - - -
+               FAULT - X - - -
+               ERROR - O - - -
+             VERSION - X - - -
+              UBUNTU - X - - -
+            SOFTWARE - - X - -
+              CENTER - - X - -
+                DPKG - - X - -
+              DSOUND - - - - X
+                TEXT - - - - O
+            INSTANCE - - - - O
+              OUTPUT - - - - O
+                HTTP - - - - X
+//WWW.ALSA-PROJECT.ORG/ALSA-INFO.SH - - - - X
+               CHMOD - - - - X
+                  +X - - - - X
+      ./ALSA-INFO.SH - - - - X

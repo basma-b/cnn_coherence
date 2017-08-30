@@ -1,0 +1,10 @@
+               FSTAB X - - - - -
+               USERS X - - - - -
+              DEVICE O - - - - -
+                ROOT - S - - - -
+                THIS - O - - - -
+                USER - - S - - X
+              OPTION - - O - - -
+                 OHH - - O - - -
+                MODE - - - - - X
+   /VAR/LOG/AUTH.LOG - - - - - X

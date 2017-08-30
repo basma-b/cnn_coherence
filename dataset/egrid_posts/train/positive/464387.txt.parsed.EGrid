@@ -1,0 +1,9 @@
+             COMMAND X - - - -
+             NETWORK X - - - -
+          CONNECTION S - - - -
+                WORK X - - - -
+                DHCP - X - - -
+           SOMETHING - X - - -
+  MAKE-NETWORK-WORKY - - X - -
+                ETH0 - - - - S
+            INTERNET - - - - S

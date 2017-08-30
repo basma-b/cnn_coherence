@@ -1,0 +1,15 @@
+               SETUP X X - - -
+                FILE X X X - X
+        ASSOCIATIONS O O - - -
+                WINE X X X X -
+             PROGRAM X X X - -
+             COMMAND - - X S -
+                LINE - - O - -
+           ARGUMENTS - - X - -
+                WORK - - - X -
+/PATH/TO/PROGRAM.EXE - - - X -
+              NOTICE - - - O -
+              SCRIPT - - - S S
+             WRAPPER - - - X -
+                THAT - - - - O
+                TYPE - - - - O

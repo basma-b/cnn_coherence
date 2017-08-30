@@ -1,0 +1,26 @@
+              ANYONE S - - - - - - - -
+NM-SYSTEM-SETTINGS.CONF S - - - - - - - -
+                FIND O - - - - - - - -
+               FRESH - O - - - - - - -
+/ETC/NETWORKMANAGER/NM-SYSTEM-SETTINGS.CONF - - S - - - - - -
+     NETWORK-MANAGER - - S - - - - - -
+                SUDO - - X - - - - - -
+             APT-GET - - S - - - - - -
+             NETWORK - - O - - - - - -
+             MANAGER - - O - - - - - -
+           INTERFACE - - X - - - - - -
+               DMESG - - - X - - X - -
+            GETTINHG - - - S - - - - -
+               THERE - - - S - - - S -
+           SOMETHING - - - O - - - - -
+            IFCONFIG - - - - X - - - -
+                COMP - - - - - - O - -
+            WIRELESS - - - - - - X - -
+           DETECTION - - - - - - O - -
+              ERRORS - - - - - - - O -
+                  .. - - - - - - - - X
+             DISPLAY - - - - - - - - X
+                INFO - - - - - - - - O
+              FOLDER - - - - - - - - O
+          FILESYSTEM - - - - - - - - X
+                FILE - - - - - - - - O

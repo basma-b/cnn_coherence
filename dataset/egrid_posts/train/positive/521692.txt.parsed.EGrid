@@ -1,0 +1,24 @@
+                USER O - - - - O O
+             MACHINE X - - - - - -
+                FILE O - - - - - -
+           WEBSERVER X - - O - - -
+         PERMISSIONS - O - - - - -
+            /VAR/WWW - X - - - - -
+/ETC/APACHE2/SITES_ENABLED/000-DEFAULT - - - O - - -
+        DOCUMENTROOT - - - S - - -
+                 DIR - - - O - - -
+                HOME - - - X - - -
+           DIRECTORY - - - X - - -
+             DEFAULT - - - X - - -
+              UBUNTU - - - X - - -
+              ANSWER - - - - S - -
+            QUESTION - - - - X - -
+                 YES - - - - O - -
+          SAMHASSELL - - - - X - -
+          SUGGESTION - - - - O - -
+              APACHE - - - - - X X
+                 WWW - - - - - X -
+                 SAM - - - - - X -
+                  TY - - - - - X -
+              AD7SIX - - - - - X -
+/ETC/APACHE2/ENVVARS - - - - - - X

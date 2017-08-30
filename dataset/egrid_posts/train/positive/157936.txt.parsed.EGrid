@@ -1,0 +1,17 @@
+    SSH=SECURE-SHELL X - - -
+             KEYWORD O - - -
+             COMMAND X - - -
+                LINE O - - -
+             CONTROL X - - -
+             DESKTOP X - - -
+                 VNC O - - -
+                 SSH X X - -
+                FILE O - - -
+             BROWSER X - - -
+                 CLI X - - -
+                THAT - S O -
+            TRANSFER - X - -
+              WINSCP - S - -
+                 GUI - O - -
+             SOMEONE - - S -
+                  .. - - - O

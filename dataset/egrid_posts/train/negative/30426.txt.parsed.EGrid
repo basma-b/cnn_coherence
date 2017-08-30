@@ -1,0 +1,13 @@
+               SHARE X - -
+              SERVER X - -
+               SAMBA - S -
+                TYPE - X -
+               SMBFS - O -
+     USERNAME=BLABLA - X -
+     PASSWORD=BLABLA - X -
+      //SERVER/SHARE - X -
+         /MNT/SERVER - X -
+                  FS - X -
+              OPTION - X -
+                LOOK - - O
+                 THX - - O

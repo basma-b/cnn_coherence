@@ -1,0 +1,11 @@
+               FSTAB S - - - - - - - - -
+              ANYONE O - - - - - - - - -
+                HTTP - X - - - - - - - -
+               LOGIN - S - - - - - - - -
+                GRID - O - - - - - - - -
+                 SSD - X - - - - - - - -
+                  .. - - - X - - - - - -
+            RECOVERY - - - - - - - S - -
+                SWAP - - - - - - - - S O
+           PARTITION - - - - - - - - X -
+           HIBERNATE - - - - - - - - - O

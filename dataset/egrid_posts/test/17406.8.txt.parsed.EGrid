@@ -1,0 +1,13 @@
+                BODY S - - - -
+             PROGRAM O - - - -
+               SPACE - X - - -
+              INSTAL - O - - -
+           LCABREZA2 - - X - S
+                 LOG - - X - X
+              SYSLOG - - X - -
+                  .. - - X - -
+                INFO - - - - X
+           COLORTAIL - - - - X
+                   | - - - - X
+     /VAR.LOG/SYSLOG - - - - O
+            REALTIME - - - - X

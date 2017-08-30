@@ -1,0 +1,15 @@
+               PRINT X - - - -
+               MATCH X X O - -
+                 SED X S - - -
+              STREAM - O - - -
+                GREP - O S - -
+                SHOW - X - - -
+                TEXT - O - - -
+                LINE - - O - -
+              OPTION - - X - -
+                  TU - - S - -
+                 MAN - - - X -
+               STUFF - - - - O
+                DONT - - - - S
+        INSTALLATION - - - - X
+             NOTHING - - - - S

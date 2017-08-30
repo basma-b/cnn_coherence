@@ -1,0 +1,9 @@
+            GRUB.CFG O - - - - -
+               QUIET - O - - - -
+                WORD - O - - - -
+                GRUB - X X S - -
+              BACKUP - - X - - -
+                BACK - - - X - -
+                SUDO - - - S - X
+      /BOOT/GRUB.CFG - - - S - -
+             COMMAND - - - - - X

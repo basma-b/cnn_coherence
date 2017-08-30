@@ -1,0 +1,16 @@
+             COMMAND X - - - -
+                CALL X - - - -
+           ALSAMIXER X - S - -
+               SETUP - X - - -
+                 SET - - O - -
+                TEXT - - X - -
+                BASE - - X - -
+              VOLUME - - X - -
+             CONTROL - - X - -
+                 WAY - - - O -
+              DEVICE - - - O -
+                THIS - - - - S
+               LUCID - - - - X
+                CARD - - - - O
+                 BUG - - - - O
+             DEFAULT - - - - X

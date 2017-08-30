@@ -1,0 +1,22 @@
+               THERE X - - - - - -
+              UBUNTU S - - - - - -
+                 LOW X - - - - - -
+            GRAPHICS X - - - - - -
+                MODE X - - - - - -
+                LINE X - O - X - -
+              OPTION X - - X O - -
+                 VGA X - - - - - -
+                BOOT - X - X - - -
+                 ESC - O - - - - -
+              PROMPT - S - - - - -
+                LOAD - - X - - - -
+           PERMANENT - - - - S - -
+              KERNEL - - - - O - -
+                FILE - - - - X - -
+LOOP=/UBUNTU/DISKS/ROOT.DISK - - - - S - -
+    ROOTFLAGS=SYNCIO - - - - X - -
+              SPLASH - - - - S - -
+               CHECK - - - - - - O
+             FRIENDS - - - - - - S
+                  ID - - - - - - S
+                 LOL - - - - - - O

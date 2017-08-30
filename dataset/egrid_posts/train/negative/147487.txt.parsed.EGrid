@@ -1,0 +1,16 @@
+                 ONE S - - - O - - - -
+              INITRD O - S - - - - - -
+                  CD X - - X - - X - -
+             USPLASH - O - - - - - - -
+                LOOK - X - - - - - - -
+          /ISOLINUX/ - X - - - - - - -
+              CHANGE - - - O - - - - -
+          FILESYSTEM - - - X - - - - -
+             VMLINUZ - - - - O - - - -
+              RESULT - - - - X - - - -
+              KERNEL - - - - X - - - -
+               PANIC - - - - X - - - -
+                WORK - - - - - - - - X
+                HEHE - - - - - - - - S
+             DRIVERS - - - - - - - - S
+                 LOL - - - - - - - - O

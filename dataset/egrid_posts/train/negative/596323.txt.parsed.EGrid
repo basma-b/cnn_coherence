@@ -1,0 +1,11 @@
+                RULE X - - -
+              ACCESS O O - -
+                 IPS X X - -
+                PORT - X - -
+                HTTP - X - -
+            IPTABLES - X - -
+          HOSTS.DENY - X - -
+              SYNTAX - S - -
+                  IP - X - -
+                  .. - - X O
+            MAVERICK - - - X

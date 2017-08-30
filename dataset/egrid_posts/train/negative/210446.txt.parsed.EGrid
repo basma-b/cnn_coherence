@@ -1,0 +1,21 @@
+               C|INT O - - - - - - - - -
+             MINUTES - X - - - - - - - -
+              UBUNTU - X - - - - - - - -
+              CLIENT - O - - - - - - - -
+        DHCP3-CLIENT - - X - - - - - - -
+             PACKAGE - - X - - - - - - -
+                NAME - - O - - - - - - -
+                THAT - - - S - - - - - -
+             COMMAND - - - X - - - - - -
+               STORY - - - O - - - - - -
+                DHCP - - - - O - - - - -
+/ETC/NETWORK/INTERFACES - - - - O - - - - -
+                AUTO - - - - X - - - - -
+                ETH0 - - - - O - - - - -
+               ROUTE - - - - O S - - - -
+             DEFAULT - - - - - X - - - -
+                  GW - - - - - O - - - -
+               CHEER - - - - - - X - - -
+                   = - - - - - - - X - -
+         RESOLV.CONF - - - - - - - X - -
+     NVIDIA-SETTINGS - - - - - - - - - X

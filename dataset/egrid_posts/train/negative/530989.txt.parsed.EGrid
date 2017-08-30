@@ -1,0 +1,15 @@
+                SUDO S - -
+                  SU S - -
+             COMMAND O - -
+                TYPE X - -
+             MESSAGE S - -
+        /ETC/SUDOERS S - -
+                MODE O - -
+                 WAY O - -
+                 GDM - - S
+             CONTROL - - X
+              SCRIPT - - O
+                LOOK - - X
+                SPOT - - X
+             UPSTRAT - - X
+         INITSCRIPTS - - X

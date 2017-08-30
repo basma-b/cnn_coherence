@@ -1,0 +1,17 @@
+             COMMAND X - - - S -
+         RECONFIGURE X - X - X -
+                   X X - - - - -
+                THAT - S - - X -
+                 GDM - - O - - -
+        XSERVER-XORG - - S - S -
+               START - - - - S -
+                WONT - - - - X -
+           SOMETHING - - - - O -
+               BREAK - - - - O -
+             PACKAGE - - - - X -
+       /INSTALLATION - - - - X -
+             PROBLEM - - - - O -
+           CONFIGURE - - - - X -
+  RESTART/START/STOP - - - - O -
+              PERSON - - - - - X
+          COMPLAINTS - - - - - S

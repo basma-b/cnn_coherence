@@ -1,0 +1,24 @@
+                TIME X - - - - - -
+              NOAPIC - X - - - - -
+                SUDO - S - - - - -
+/BOOT/GRUB/SOURCES.LIST - O - - - - -
+                 MEN - S - - - - -
+                LINE - O - - - - -
+          DEFOPTIONS - O - - - - -
+                 END - X - - - - -
+         UPDATE-GRUB - X - - - - -
+        CONSEQUENCES - O - - - - -
+           HIBERNATE - - S - - - -
+               ERROR - - S - - - -
+             MP-BIOS - - X - - - -
+                 BUG - - S - - - -
+               TIMER - - X - - - -
+             IO-APIC - - X - - - -
+            SYNAPTIC - - - - X - -
+             APT-GET - - - - O - -
+                  -S - - - - - S -
+           GNOME-PPP - - - - - O -
+               REPOS - - - - - X -
+               RIGHT - - - - - O -
+            UNIVERSE - - - - - - X
+          MULTIVERSE - - - - - - X

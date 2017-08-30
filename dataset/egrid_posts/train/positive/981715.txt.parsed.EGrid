@@ -1,0 +1,8 @@
+                BOOT X S - - -
+                 LOG X - - - -
+                FILE X O - - -
+               DMESG - - X - -
+            BOOTLOGD - - O - -
+                  OK - - X - -
+             BOOTLOG - - X - -
+       /VAR/LOG/BOOT - - - - O

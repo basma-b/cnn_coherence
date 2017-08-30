@@ -1,0 +1,19 @@
+              WINDOW X - - - - -
+                LIST O - - - - -
+               USERS X - - - - -
+                THAT - O S - - -
+/ETC/LIGHTDM/LIGHTDM.CONF - X - - - -
+/USR/SHARE/DOC/LIGHTDM/LIGHTDM.CONF.GZ - S - - - -
+             OPTIONS - O - - - -
+             SECTION - X - - - -
+                 ONE - - O - - -
+        SEATDEFAULTS - - S - - -
+                KIND - - O - - -
+                FILE - - X - - -
+               ME… - - X - - -
+    PORTS.UBUNTU.COM - - X - - -
+        SOURCES.LIST - - X - - -
+                 ARM - - O - - -
+                ACPI - - - S - -
+              PPC… - - - X - -
+                 LVM - - - - - O

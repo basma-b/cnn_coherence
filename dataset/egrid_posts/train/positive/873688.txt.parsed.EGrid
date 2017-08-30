@@ -1,0 +1,3 @@
+GRUB_DISABLE_OS_PROBER=TRUE S - -
+                SUDO X - -
+         UPDATE-GRUB X - -

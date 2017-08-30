@@ -1,0 +1,14 @@
+             COMMAND X - - -
+             SUDOERS X - - -
+                LIST X - - -
+                 ONE - S - -
+                ROOT - X - -
+           PRIVILEGE - X - -
+                 WAY - - O -
+                BIOS - - - X
+                BASE - - - X
+                BOOT - - - S
+            ANYTHING - - - O
+         FILESYSTEMS - - - X
+             MISTAKE - - - X
+               FAT16 - - - O

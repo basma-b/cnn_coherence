@@ -1,0 +1,15 @@
+        XSERVER-XORG X - - - - -
+                AUTO S - - - - -
+            KEYBOARD X X - - - -
+               MOUSE X O - - - -
+             MONITOR O - - X - -
+               FRESH - - X - - -
+              GKSUDO - - - X - -
+   DISPLAYCONFIG-GTK - - - O - -
+               SETUP - - - O - -
+       DISPLAYCONFIG - - - X - -
+                CARD - - - X - -
+                MOBO - - - - - X
+               INTEL - - - - - O
+               LSPCI - - - - - S
+              NVIDIA - - - - - O

@@ -1,0 +1,17 @@
+               ERROR O - -
+                REPO O - -
+                HTTP O - -
+                 SUM X - -
+            MISMATCH S - -
+              MIRROR X - -
+                 ONE S - -
+                SYNC X - -
+                  AS - - S
+                 CAT - - S
+                 TAB - - O
+           SOMETHING - - O
+            /FOO/FOO - - S
+               SHELL - - X
+                 ZSH - - X
+                BASH - - X
+                SAME - - O

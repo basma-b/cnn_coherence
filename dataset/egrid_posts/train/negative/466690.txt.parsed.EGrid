@@ -1,0 +1,20 @@
+                 ALL O - - - -
+               DRIVE O - - - -
+              SYSTEM X - - - -
+                TYPE X - - - -
+            REISERFS X - - - -
+                AUTO X - - - -
+                THIS X - - - -
+               ENTRY - O - - -
+               FSTAB - X - - -
+                UUID - - X - -
+           PARTITION - - X - -
+                SUDO - - - X -
+               BLKID - - - S -
+           APT-PROXY - - - X -
+               HTTPS - - - X -
+//HELP.UBUNTU.COM/COMMUNITY/APTPROXY - - - X -
+              OUTPUT - - - - S
+              AMIXER - - - - X
+PASTE.UBUNTULINUX.NL - - - - X
+               ISSUE - - - - O

@@ -1,0 +1,27 @@
+                  .. - X X X - - - -
+                MODE - X - - - - - -
+            RECOVERY - X - - - - - -
+              SCREEN - O - - - - - -
+                 1ST - X - - - - - -
+              DISTRO - X - - - - - -
+               FIRST - - X - - - - -
+            NOTEBOOK - - X - - - - -
+                .SEE - - X - - - - -
+                HTTP - - X - - - - -
+//JERIKO.L-TECH.ORG/2005/10/18/ASUS-A6VA-UND-UBUNTU-510/ - - S - - - - -
+               -LSB- - - S - - - - -
+               -RSB- - - O - - - - -
+                LOOK - - O - - - - -
+                XORG - - X - - - - -
+                 LOG - - X - - - - -
+                VESA - - X - - - - -
+              DRIVER - - S - - - - -
+ /VAR/LOG/XORG.0.LOG - - - S - - - -
+                 SEC - - - X - - - -
+                GRUB - - - - - - - X
+                LILO - - - - - - - S
+                BOOT - - - - - - - X
+             WINDOWS - - - - - - - X
+                  OS - - - - - - - O
+                  XP - - - - - - - X
+                NTFS - - - - - - - X

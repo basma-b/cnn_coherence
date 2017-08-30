@@ -1,0 +1,54 @@
+         INFORMATION S - - - - - - - - - - - - - -
+                HELP O O - - - - - - - - - - - - -
+              KERNEL X - - - - - - - - - - - S - -
+          DEVELOPERS X - - - - - - - - - - - - - -
+         NDISWRAPPER - S - - - - - - - - - - - - -
+               THING - O - - - - - - - - - - - - -
+                  // - O - - - - - - - - - - - - -
+            WHATEVER - S - - - - - - - - - - - - -
+PCMCIA-ATTACHED-COMPACTFLASH - X - - - - - - - - - - - - -
+       GNOME-PLUGGER - S - - - - - - - - - - - - -
+                 ODD - S - - - - - - - - - - - - -
+           SOMETHING - S - - - - - - - - - - - - -
+                SCSI - X S - - - - - - - - - - - -
+           EMULATION - X - - - - - - - - - - - - -
+              DRIVER - X - - - - - - - - - - - - -
+               -RSB- - X - - - - - - - - - - - S -
+               HRRRM - - X - - - - - - - - - - - -
+                  .. - - X - - - - - - - - - - - -
+           INTERFACE - - X - - - - - - - - - - - -
+        MULTITASKING - - X - - - - - - - - - - - -
+              SORTOF - - X - - - - - - - - - - - -
+          COMMANDSET - - X - - - - - - - - - - - -
+               SOUND - - X - - - - - - - - - - - -
+                 SDL - - X - - - - - - - - - - - -
+             DRIVERS - - O - - - - - - - - - - - -
+        AUTOMOUNTING - - - X - - - - - - - - - - -
+      PROGRAM/DAEMON - - - - - X - - - - - - - - -
+             SUPPORT - - - - - X - - - - - - - - -
+             DEVICES - - - - - O - - - - - - - - -
+                WHAT - - - - - - - - O - - - - - -
+FLASH-MEMORY-WITH-USB-CNTRLR-FRONTEND-THINGS - - - - - - - - S - - - - - -
+                 HAL - - - - - - - - X S - X - - -
+GNOME-VOLUME-MANAGER - - - - - - - - O - - - - - -
+                DBUS - - - - - - - - X - - - - - -
+              DEVICE - - - - - - - - X - - - X X -
+               G-V-M - - - - - - - - S - - - - - -
+                  DD - - - - - - - - O - - - - - -
+                 TIS - - - - - - - - X - - - - - -
+              SYSTEM - - - - - - - - O - - - - - -
+                PART - - - - - - - - X - - - - - -
+                THAT - - - - - - - - - X - - O - -
+                 HMM - - - - - - - - - S - - - - -
+          PLUGGABLES - - - - - - - - - X - - - - -
+              COURSE - - - - - - - - - X - - - - -
+             PROBLEM - - - - - - - - - O - - - - -
+           INTERNALS - - - - - - - - - - O - - - -
+                 BUG - - - - - - - - - - - O - - -
+            STARTERS - - - - - - - - - - - X - - -
+                INFO - - - - - - - - - - - X - - -
+           USERSPACE - - - - - - - - - - - - X - -
+             HRRRRRM - - - - - - - - - - - - O - -
+                 CAT - - - - - - - - - - - - - X -
+         /SYS/BLOCK/ - - - - - - - - - - - - - X -
+/SYS/BLOCK/HDE/REMOVABLE - - - - - - - - - - - - - - X

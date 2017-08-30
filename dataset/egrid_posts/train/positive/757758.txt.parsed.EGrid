@@ -1,0 +1,13 @@
+              ANSWER X - - - - -
+      GRUB_DEFAULT=0 - S - - - -
+             DEFAULT - X - - - -
+              OPTION - O - - - -
+                BOOT - X - - - -
+                MENY - X - - - -
+                FILE - X X - - -
+   /ETC/DEFAULT/GRUB - S - - - -
+GRUB_SAVEDEFAULT=TRUE - X - - - -
+              CHOICE - X - - - -
+                MENU - X X - - -
+                GRUB - - - X O -
+              RESCUE - - - X - -

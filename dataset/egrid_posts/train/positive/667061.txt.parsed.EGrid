@@ -1,0 +1,8 @@
+    PERMITROOTACCESS X - - - - - -
+ /ETC/SSH/SSH_CONFIG X - - - - - -
+              ANYONE - S S - - - -
+     /ETC/INIT.D/SSH - - X - - - -
+                 ALL - - O - - - -
+            SESSIONS - - X - - - -
+              OPTION - - - X - - -
+                CHAT - - - - - X -

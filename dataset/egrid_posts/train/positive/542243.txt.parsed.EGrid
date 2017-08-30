@@ -1,0 +1,25 @@
+         SSHD_CONFIG X - S - - - - -
+                FILE X - - - - - - -
+                HOST X - - - - - - -
+                KIND O - - - - - - -
+              OPTION X - - - - - - -
+              GSSAPI - X X - - - - -
+     AUTHENTICATIONS - O - - - - - -
+               SOUND - X - - - - - -
+                LINE - X - - - - - -
+               AUTHS - X - - - - - -
+                SSHD - - O - - - - -
+                   > - - - S - - - -
+                 YUP - - - X - - - -
+                INFO - - - X - - - -
+                SUCH - - - X - - - -
+                THIS - - - - S - - X
+           SOMETHING - - - - O - - -
+                 USE - - - - - O - -
+                   % - - - - - X - -
+                 CPU - - - - - X - -
+              REPORT - - - - - - - O
+          CONSOLEKIT - - - - - - - X
+               HTTPS - - - - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/CONSOLEKIT/+BUG/284229 - - - - - - - X
+              UPDATE - - - - - - - O

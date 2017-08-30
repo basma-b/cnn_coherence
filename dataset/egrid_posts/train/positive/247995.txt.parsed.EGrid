@@ -1,0 +1,14 @@
+            IFCONFIG O O - -
+                ETH0 X X - -
+               ERROR X X - -
+           INTERFACE X X - -
+                FLAG O O - -
+              DEVICE X X - -
+             HAPPEND X X - -
+           XORG.CONF S S - -
+                THAT - - O -
+                  .. - - X -
+              REBOOT - - S -
+              OPTION - - O -
+                  GO - - X -
+                TIME - - - O

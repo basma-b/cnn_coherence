@@ -1,0 +1,25 @@
+                   A X - - -
+                GENI S - - -
+               LINUX X - - -
+              SYSTEM O - - -
+                BEEP O - - -
+               RMMOD X - - -
+              PCSPKR O - - -
+              RETURN S - - -
+                FILE O O - -
+                NAME X - - -
+           PCSPEAKER X - - -
+                LINE X - - -
+           BLACKLIST X - - -
+                THAT - S - -
+                BOOT - X - -
+/ETC/MODPROBE.D/PCSPEAKER - O - -
+               PRIVS - O - -
+              POLICY - X - -
+                   > - S - -
+               1.4.7 - O - -
+              LATEST - X - -
+               REPOS - X - -
+                OOPS - - O -
+                 WAY - - - O
+              AMAROK - - - O

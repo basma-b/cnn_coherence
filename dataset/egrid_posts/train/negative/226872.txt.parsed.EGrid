@@ -1,0 +1,9 @@
+              DEVICE X - - - - - - - - -
+               LSPCI - - X - - - - - - -
+              ANYONE - - - - X - - - - -
+            PROTOCOL - - - - O X - - - -
+               BLUEZ - - - - - X - - O -
+             DEFAULT - - - - - - - - X -
+             APT-GET - - - - - - - - S -
+              UBUNTU - - - - - - - - S -
+               HTTPS - - - - - - - - X -

@@ -1,0 +1,15 @@
+                 ONE X - - - - -
+              UBUNTU X - - - - -
+                 DNS X - - - - -
+             SERVERS X - - - - -
+             CONFIGS - X - - - -
+                  IP - - - O - -
+              SERVER - - - X - -
+         NAMESERVERS - - - O - -
+         RESOLV.CONF - - - X - -
+                NAME - - - X - -
+/ETC/DHCP/DHCLIENT.CONF - - - - X -
+/ETC/DHCP3/DHCLIENT.CONF - - - - S -
+/ETC/NETWORK/INTERFACES - - - - X -
+               AFAIK - - - - - X
+               THERE - - - - - X

@@ -1,0 +1,11 @@
+                 YES X - -
+                 MD5 X - -
+               MATCH S - -
+             MEMTEST O - -
+                BOOT X - X
+             OPTIONS O - S
+         BOOTOPTIONS - X -
+                   | - X -
+          STANMANCAN - X -
+              MEMORY - - S
+                  .. - - O

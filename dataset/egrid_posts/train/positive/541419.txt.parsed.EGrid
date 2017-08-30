@@ -1,0 +1,13 @@
+                   * - X - - - - -
+   /ETC/INIT.D/SAMBA - X - - - - -
+               START - X - - - - -
+             CRONTAB - X - - - - -
+                ROOT - X - - - - -
+               SAMBA - O S - - - X
+              RESULT - O - - - - -
+                STOP - - - - X - -
+                CANT - - - - X - -
+              REASON - - - - X - -
+              SCRIPT - - - - O - -
+                 PID - - - - X - X
+             MINUTES - - - - O - -

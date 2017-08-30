@@ -1,0 +1,12 @@
+             COMMAND X - - - - -
+                BOOT X X - - - -
+             MONITOR - O - - - -
+               GAMMA - O - - - -
+                  -D - S - - - -
+              -GAMMA - X - - - -
+             MACHINE - X - - - -
+                LINE - O O - - -
+                EXEC - X - - - -
+              BOOTUP - X - - - -
+         BOOTMISC.SH - - X - - -
+                 END - - - X - -

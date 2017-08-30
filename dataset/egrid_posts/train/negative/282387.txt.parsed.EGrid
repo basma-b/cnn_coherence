@@ -1,0 +1,10 @@
+             PROCESS S - - -
+             CAPTURE X - - -
+              DEVICE O - - -
+                THAT - O - -
+                LSOF - X - -
+             PROBLEM - - O -
+              SERVER - - X -
+            OVERLOAD - - X -
+              MIRROR - - - S
+            PROBLEMS - - - O

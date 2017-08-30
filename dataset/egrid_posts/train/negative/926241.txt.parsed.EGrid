@@ -1,0 +1,10 @@
+             COMMAND X - -
+               IMAGE O - -
+                SUDO - S -
+            MODPROBE - X -
+                LOOP - S -
+     /SOMEMOUNTPOINT - X -
+            HARDWARE - - X
+             DECEASE - - X
+            GRAPHICS - - X
+                CARD - - X

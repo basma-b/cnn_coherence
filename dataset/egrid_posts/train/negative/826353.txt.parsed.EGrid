@@ -1,0 +1,15 @@
+                   E X - -
+                FILE X - -
+  /VAR/LIB/DPKG/LOCK X - -
+          PERMISSION S - -
+      ADMINISTRATION X - -
+           DIRECTORY O - -
+      /VAR/LIB/DPKG/ X - -
+                THIS - O -
+              CLAMAV - O -
+             COMMAND - O -
+         SUDO/GKSUDO - X -
+           SOMETHING - S -
+                DPKG - O -
+              UPDATE - X -
+                USER - - X

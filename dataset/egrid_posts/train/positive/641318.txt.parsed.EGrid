@@ -1,0 +1,10 @@
+             DEFAULT X - - - -
+                BEEP - X - - -
+              CURSOR - X X - -
+                STOP - X X - -
+           CHARACTER - - O - -
+                 END - - - - X
+                LINE - - - - X
+              BUFFER - - - - X
+             OVERRUN - - - - X
+           CONDITION - - - - X

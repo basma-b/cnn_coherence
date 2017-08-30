@@ -1,0 +1,11 @@
+/ETC/MODPROBE.D/ALIASES X - - - - -
+              PREFIX X - - - - -
+             OPTIONS S S - - - -
+/ETC/MODPROBE.D/OPTIONS X - - - - -
+                FILE - X X - - -
+             ALIASES - - X - - -
+                 MAN - - X - - -
+          MODPROBE.D - - S - - -
+              MANUAL - - X - - -
+                 LOT - - - O - -
+                   D - - - - - X

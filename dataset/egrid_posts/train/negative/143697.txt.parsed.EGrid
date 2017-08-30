@@ -1,0 +1,11 @@
+             DEFUALT X - - - -
+                ROOT X O - - -
+                SUDO - O - - -
+                  -I - S - - -
+              PASSWD - O - - -
+                USER - X - - -
+  /ETC/X11/XORG.CONF - - O - -
+ /VAR/LOG/XORG.0.LOG - - X - -
+                  KK - - X - -
+                VESA - - - X -
+              SYSTEM - - - - X

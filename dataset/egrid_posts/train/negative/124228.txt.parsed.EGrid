@@ -1,0 +1,10 @@
+           PARTITION X - - - -
+                USER X - - - -
+                ROOT X - - - -
+              UBUNTU - X - - -
+                  P4 - X - - -
+                  HT - X S O -
+              KERNEL - X - O -
+                CPU0 - - O - -
+             CPUINFO - - X - -
+              APACHE - - - - O

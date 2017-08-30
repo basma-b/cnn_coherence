@@ -1,0 +1,6 @@
+             COMMAND S S
+                ROOT X -
+            PASSWORD O -
+              SUDOER O -
+              CHANGE - X
+            PADDWORD - X

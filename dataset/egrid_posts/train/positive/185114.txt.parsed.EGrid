@@ -1,0 +1,18 @@
+           SOMETHING X - - - - - -
+              APACHE X - - - - - -
+              CONFIG X - - X - - -
+                FILE X - - O - - -
+               USERS S - - - - S X
+            INTERNET X - - - - X X
+              SERVER X - - - - - -
+              PEOPLE - S - - - - -
+                 LAN - X - - - - -
+           WEBSERVER - X X - - - X
+                 NAT - X - - - - -
+                  IP - - X - - - X
+         CONNECTIONS - - - - - O -
+                 IPS - - - - - X -
+                   * - - - - - X -
+               CHECK - - - - - X -
+/ETC/APACHE2/PORTS.CONF - - - - - X -
+             ADDRESS - - - - - - X

@@ -1,0 +1,12 @@
+             COMMAND X - -
+        APPLICATIONS O - -
+      /USR/LOCAL/BIN - S -
+               START - O -
+                   O - - X
+                  SH - - X
+                   * - - X
+                   T - - S
+               THING - - O
+                UNOP - - X
+                 SAY - - X
+                WAIT - - O

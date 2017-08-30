@@ -1,0 +1,22 @@
+             COMMAND X - - S - -
+              FORMAT X - - - - -
+               DRIVE S - - - - -
+                MKFS O - - - - -
+          FILESYSTEM - X - - - -
+                CARE - - O - - -
+                 FAT - - S - - -
+                SUDO - - X - - -
+           MKFS.VFAT - - O - - -
+           /DEV/SDB1 - - X - - -
+           SOMETHING - - X - - -
+                TASK - - X - - -
+/DEV/WHATEVERTHEDEVICENAMEIS_BE_CAREFULL_DONT_JUST_GUESS - - - O - -
+               STICK - - - O - -
+                  OS - - - O - -
+                  IM - - - X - -
+               DVD-R - - - X - -
+              VMWARE - - - - X -
+          VIRTUALBOX - - - - S -
+                BOOT - - - - X -
+                .ISO - - - - X -
+                FILE - - - - X -

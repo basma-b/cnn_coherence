@@ -1,0 +1,11 @@
+     AUTHORIZED_KEYS X - - - - - - -
+               SSHV1 - S - - - - - -
+              NOBODY - S - - - - - -
+             OPENSSH - - S - - - - -
+                FILE - - O - - - - -
+                TYPE - - X - - - - -
+                 KEY - - X O - - - -
+              DELETE - - - X - - - -
+                THAT - - - - X - - -
+                BEER - - - - - O - -
+               THANK - - - - - - - X

@@ -1,0 +1,17 @@
+               ERROR O - - -
+       VM-OPEN-TOOLS S - X -
+              MODULE X - S X
+              VMHGFS S - - -
+            VMMEMCTL S - - -
+              KERNEL - X X -
+             HEADERS - S - -
+                WAIT - - O -
+          SUGGESTION - - X -
+       /LIB/MODULES/ - - S -
+                  -R - - X -
+           DIRECTORY - - X -
+             VERSION - - X -
+              THINGS - - - O
+                 USE - - - S
+             NETWORK - - - X
+               RIGHT - - - O

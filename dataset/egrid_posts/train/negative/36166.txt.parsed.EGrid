@@ -1,0 +1,17 @@
+           SHOULDENT O O - O - - - - - - -
+                XORG O O - O O - - - - - -
+                THAT - - O - - - - - - - -
+                 VGA - - X - - - - - - - -
+          CONTROLLER - - O - - - - - - - -
+             SILICON - - X - - - - - - - -
+          INTEGRATED - - X - - - - - - - -
+             SYSTEMS - - X - - - - - - - -
+               -LSB- - - X - - - - - - - -
+                 SIS - - S - - - - - - - -
+             PCI/AGP - - O - - - - - - - -
+             XORG/XF - - X - - - - - - - -
+              DRIVER - - S - - - - - - - O
+           XORG.CONF - - - - O - - - O - -
+              THANKS - - - - - O - - - - -
+        DIST-UPGRADE - - - - - - - O - - -
+             VERSION - - - - - - - - - - X

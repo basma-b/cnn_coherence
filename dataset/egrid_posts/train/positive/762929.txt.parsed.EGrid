@@ -1,0 +1,12 @@
+        /ETC/SUDOERS X - - - - S
+                  ID S - - - - -
+                 UID O - - - - X
+                USER X - - - - -
+             DEFAULT O - - - - -
+                FILE - - - - - X
+         PERMISSIONS - - - - - S
+              FOLDER - - - - - X
+                SUDO - - - - - S
+                WORK - - - - - X
+             SUDOERS - - - - - X
+              SOURCE - - - - - X

@@ -1,0 +1,31 @@
+                 ALL X - - - - - - - - - -
+                 NFS - X - - - - S - - - -
+       CLIENT/SERVER - X - - - - - - - - -
+            SCENARIO - X - - - - - - - - -
+      AUTHENTICATION - X - - - - - - - - -
+                LDAP - - S - - - - - - - -
+               SAMBA - - X - - - - - - - -
+               THERE - - - X - - - - - - -
+            NFS/LDAP - - - X - - - - - - -
+            SOLUTION - - - X - - - - - - -
+            ANYTHING - - - - O - - - - - -
+              ANYONE - - - - - S - - - - -
+                GOOD - - - - - X - - - - -
+       DOCUMENTATION - - - - - X - - - - -
+                THIS - - - - - O - - - - -
+           PARTITION - - - - - - O - - - -
+                 AHA - - - - - - - X - - -
+               PATCH - - - - - - - - O - -
+                HTTP - - - - - - - - X - -
+//BUGS.DEBIAN.ORG/CGI-BIN/BUGREPORT.CGI - - - - - - - - X - -
+          BUG=615600 - - - - - - - - - X -
+              BOOTIF - - - - - - - - - - X
+                 MAC - - - - - - - - - - X
+                  AA - - - - - - - - - - X
+                  BB - - - - - - - - - - X
+                  CC - - - - - - - - - - X
+                  DD - - - - - - - - - - X
+                  EE - - - - - - - - - - X
+                  FF - - - - - - - - - - X
+                SPEC - - - - - - - - - - S
+01-AA-BB-CC-DD-EE-FF - - - - - - - - - - S

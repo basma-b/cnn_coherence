@@ -1,0 +1,16 @@
+              KERNEL - O -
+              DRIVER - S -
+             KERNELS - S -
+            CHILDREN - X -
+            PARANOID - X -
+              GENTOO - X -
+               USERS - X -
+           GSTREAMER - S -
+          MULTIMEDIA - X -
+             LIBRARY - O -
+              DAEMON - X -
+                BASE - X -
+                XINE - X -
+                 LIB - S -
+                 USE - O -
+                 WAY - X -

@@ -1,0 +1,15 @@
+              RETURN X - - - - -
+         DESTINATION X - - - - -
+                HOST X - - - - -
+         UNREACHABLE X - - - - -
+              ROUTER - X - - - -
+           INTERFACE - S - - - -
+            INTERNET - - - X - -
+          CONNECTION - - - X - -
+                  .. - - - O - -
+                 DNS - - - X - -
+                WORK - - - O - -
+               THATS - - - S - -
+              SERVER - - - - X O
+                  BR - - - - O -
+              PREFIX - - - - - X

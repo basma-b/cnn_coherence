@@ -1,0 +1,10 @@
+             COMMAND X - - -
+             DEFAULT X - - -
+             GATEWAY X X O -
+                  IP X - - -
+            IFCONFIG - S S -
+             NETWORK - X X -
+                CARD - X X -
+         INFORMATION - - X -
+           ARGUMENTS - - S -
+               LINUX - - - X

@@ -1,0 +1,19 @@
+              OPTION X - - - - - - - -
+                 ISO O - - - - - - - -
+                GRUB O X - - - - - - -
+               /BOOT X - - - - - - - -
+/ETC/GRUB.D/40_CUSTOM X - - - - - - - -
+                FILE S - - S - - - - O
+             ENTRIES X - - - - - - - -
+            STANDARD - X X - - - - - -
+                 ONE - X - - - - - - -
+             OPTIONS - X - - - - - - -
+             FEATURE - - - O - - - - -
+               GRUB2 - - - X - S - - -
+              UBUNTU - - - X - - - - -
+                BOOT - - - - - X - - -
+               FILES - - - - - X - - -
+                 CAT - - - - - - - X -
+       /ETC/PASSWORD - - - - - - - X -
+                 USE - - - - - - - - S
+             COMMAND - - - - - - - - X

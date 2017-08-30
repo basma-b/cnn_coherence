@@ -1,0 +1,27 @@
+              UBUNTU X - - - - - - -
+             RELEASE X X X X - - - -
+             NETWORK X O - - - - - -
+          INTERFACES X - - - - - - -
+             HOTPLUG X - - - - - - -
+               HOARY - X - - - - - -
+                 BOX - X - - - - - -
+                AUTO - X - - - - - -
+                ETH0 - O - - - - - -
+/ETC/INIT.D/NETWORKING - S - - - - - -
+         PROBLEMATIC - X - - - - - -
+              SCRIPT - O - - - - - -
+                STOP - O - - - - - -
+             SUSPEND - X - - - - - -
+              RESUME - X - - - - - -
+               THERE - S - - - - - -
+                SORT - X - - - - - -
+          WORKAROUND - X - - - - - -
+                LINE - - - O - - - -
+            QUESTION - - - X - - - -
+                 WAY - - - - X - - -
+                 OWN - - - - X - - -
+               THING - - - - - - - S
+         BASE-CONFIG - - - - - - - X
+              RELEAE - - - - - - - X
+            DOWNLOAD - - - - - - - S
+                  -X - - - - - - - S

@@ -1,0 +1,15 @@
+                TIME S - S X - - - X -
+              SYSTEM X - - - - - - S -
+                BIOS X - X X - - - - S
+                SHOW X - - - - - - - -
+                 ANY - S - - - - - - -
+               BIOST - - X - - - - - -
+              UBUNTU - - - X - - - - -
+             HWCLOCK - - - X - - - - -
+               THANX - - - X - - - - -
+             NTPDATE - - - - - S - - -
+               WHICH - - - - - - - S -
+                SYNC - - - - - - - O -
+              SERVER - - - - - - - X -
+            SHUTDOWN - - - - - - - - X
+ /ETC/INIT.D/NTPDATE - - - - - - - - O

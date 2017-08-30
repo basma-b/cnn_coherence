@@ -1,0 +1,12 @@
+                  HI S - - - -
+               CHOWN - X - - -
+               OWNER - O - - -
+                ROOT - X - - -
+                THAT - - S - -
+              CHANGE - - O - -
+               DRIVE - - X - -
+               GROUP - - - - X
+               USERS - - - - S
+              ACCESS - - - - O
+                 WAY - - - - X
+              SYSTEM - - - - X

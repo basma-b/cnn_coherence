@@ -1,0 +1,21 @@
+              SOURCE O - - O - - - - - -
+        SOURCES.LIST X - - - - - - - - -
+                 KEY X - - O - O - - - -
+                LINK - - X - - - - - - -
+                SUDO - - - X - X X - - -
+             APT-KEY - - - - - X X - - -
+                 ADV - - - - - X X - - -
+           RECV-KEYS - - - - - X X - - -
+KEYSERVER.UBUNTU.COM - - - - - X X - - -
+                   < - - - - - X - - - -
+                   > - - - - - S - - - -
+                 PPA - - - - - X - - - -
+                 URL - - - - - X - - - -
+                THAT - - - - - - X - S -
+           KEYSERVER - - - - - - X - - -
+      1024R/CE49EC21 - - - - - - X - - -
+                THIS - - - - - - S - - -
+              1024R/ - - - - - - O - - -
+               FRONT - - - - - - X - - -
+                WORK - - - - - - - - O -
+                 LOT - - - - - - - - - O

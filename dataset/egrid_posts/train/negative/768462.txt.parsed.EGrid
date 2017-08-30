@@ -1,0 +1,23 @@
+/ETC/APT/SOURCES.LIST X - - - - - - - -
+                FILE X - - - - - X - -
+/ETC/APT/SOURCES.LIST.D/ X - - - - - - - -
+                 SEC - X - - - - - - -
+                HTTP - - X - - - - - -
+//PASTE.UBUNTU.COM/524715/ - - S - - - - - -
+                SUDO - - X - - - - - -
+/VAR/CACHE/APT/ARCHIVES/ - - X - - - - - -
+/VAR/CACHE/APT/ARCHIVES-BAK - - X - - - - - -
+             APT-GET - - X - - - - - -
+                  -F - - S - - - - - -
+              ERRORS - - - - - S - - -
+        NOTIFICATION - - - - - S - - -
+               BREAK - - - - - X - - -
+             PACKAGE - - - - - X X - -
+               PANEL - - - - - X - - -
+                MANY - - - - - - S - -
+               POWER - - - - - - X - -
+              OUTAGE - - - - - - X - -
+                TIME - - - - - - - - X
+                MOST - - - - - - - - S
+              PEOPLE - - - - - - - - X
+                  OS - - - - - - - - S

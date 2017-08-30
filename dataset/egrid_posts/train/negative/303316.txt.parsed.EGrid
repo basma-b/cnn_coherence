@@ -1,0 +1,16 @@
+            LOCATION X - - - -
+           DIRECTORY X - - - -
+                   C X - - - -
+              HEADER X - - - -
+                FILE X - - - -
+                 RUN X - - - -
+              KERNEL O - - - -
+             HEADERS - - X - -
+                THAT - - - S -
+              VMWARE - - - S -
+             DEFAULT - - - S -
+              FEISTY - - - X -
+             PACKAGE - - - O -
+                SUDO - - - X -
+             APT-GET - - - S -
+LINUX-HEADERS-LOWLATENCY - - - O -

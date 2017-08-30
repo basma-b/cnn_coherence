@@ -1,0 +1,12 @@
+                TIME S S - -
+              SCRIPT O - - -
+                GREP X - - -
+             KEYWORD O - - -
+            TEXTFILE X - - -
+S/WHATEVERL/WHATEVER - X - -
+                  .. - - O -
+               BATCH - - X -
+                FILE - - X -
+             WITHOUT - - - S
+                TYPE - - - X
+             COMMAND - - - X

@@ -1,0 +1,23 @@
+               START X - - - - - - - -
+             EXOSYST S - - - - - - - -
+          ENDOSYSTEM O - - - - - - - -
+                   * S - - - - - - - -
+             OPENBSD O - - - - - - - -
+               SHELL X - - - - - - - -
+              SERVER X - - - - - - - -
+                  .. X - - - X - - - -
+                HOST X O X - - - - - -
+                 KEY O - X - - - - - -
+/ETC/SSH/SSH_HOST_KEY S - - - - - - - -
+/ETC/SSH/SSH_HOST_RSA_KEY S - - - - - - - -
+/ETC/SSH/SSH_HOST_DSA_KEY S - - - - - - - -
+            PROTOCOL X X - - - - - - -
+             VERSION O X - - - - - - -
+                SSHD - - O - - - - - -
+            HOSTKEYS - - O - - - - - -
+                EXIT - - O - - - - - -
+               -LSB- - - - S - - - - -
+                THAT - - - - O - - - -
+PASTE.UBUNTULINUX.NL - - - - X - - - -
+     /ETC/INIT.D/SSH - - - - - - S - -
+                SUDO - - - - - - X - S

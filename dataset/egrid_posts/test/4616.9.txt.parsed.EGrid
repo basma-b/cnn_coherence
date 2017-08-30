@@ -1,0 +1,15 @@
+             APT-GET S - - - -
+               PURGE X - - - -
+               SAMBA O - - S -
+                 APT - S - - -
+             SERVICE - O - - -
+                  PS - X - - -
+                GREP - X - - -
+                 SMB - S - - -
+             NOTHING - S - - -
+          /ETC/SAMBA - - S - -
+              DEAMON - - - O -
+                SMBD - - - X -
+           LOWERCASE - - - - O
+              RALINK - - - - X
+                 USB - - - - X

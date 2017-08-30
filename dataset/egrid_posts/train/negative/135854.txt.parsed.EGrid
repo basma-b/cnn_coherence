@@ -1,0 +1,4 @@
+         KERNEL_PATH X - -
+                MAKE X - -
+KERNEL_PATH=/FOO/BAR - S -
+               LSPCI - - S

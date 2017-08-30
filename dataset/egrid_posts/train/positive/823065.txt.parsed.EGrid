@@ -1,0 +1,17 @@
+              OUTPUT X - - - - - -
+                 CAT X - X - - - -
+                LINE O - - - - - -
+             STRING1 X - - - - - -
+             STRING2 O - - - - - -
+                GREP - X - - - - -
+              REGEXP - X O - - - -
+          CONNECTION - - S - - - -
+             PROBLEM - - O - - - -
+                   < - - S - - - -
+                  -I - - X - - - -
+     STRING1|STRING2 - - O - - - -
+               LLUTZ - - X - - - -
+             VERSION - - S - - - -
+                MINE - - - S - - -
+               QUOTE - - - - X - O
+                   ' - - - - - - X

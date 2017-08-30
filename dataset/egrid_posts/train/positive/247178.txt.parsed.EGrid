@@ -1,0 +1,44 @@
+                TYPE X X - - - -
+            WINMODEM X X - - - -
+               THERE - S - - - -
+             PACKAGE - O - - - -
+            INTEL537 - X - - - -
+            INSTANCE - X - - - -
+           SCANMODEM - S - - - -
+                 USE - X - - - -
+             SLMODEM - O - - - -
+               INTEL - X - - - -
+             NOTHING - O - - - -
+         VOICE-MODEM - O - - - -
+               MODEM - S - X - -
+              RESULT - O - - - O
+             CHIPSET - S - - - -
+               OTHER - O - - - -
+       COMMUNICATION - X - - - -
+            ANYTHING - X - - - -
+                 PPL - X - - - -
+                  OK - X - - - -
+                NONE - S - - - -
+                LOAD - O - - - -
+                 HEH - O - - - -
+       MODEMDATA.TXT - O - - - -
+//PASTE.PLONE.ORG/12789 - S - - - -
+               SETUP - X - - - -
+          CONNECTION - X - - - -
+          /DEV/MODEM - O - - - -
+              DEVICE - X - - - -
+                HTTP - - X - - -
+               PASTE - - X - - -
+              VENDOR - - X - - -
+             PRODUCT - - X - - -
+                  ID - - X - - -
+             SUPPORT - - O - - -
+              DRIVER - - X X - -
+//ARCHIVES.LINMODEMS.ORG/23386 - - X - - -
+      CONTROLLERLESS - - X - - -
+                CHIP - - O - - -
+                 HSF - - - X - X
+                SUDO - - - - - X
+APT-GET-LINUX-RESTRICTED-MODULES- - - - - - X
+                  -R - - - - - X
+                   * - - - - - S

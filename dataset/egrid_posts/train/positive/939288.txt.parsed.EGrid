@@ -1,0 +1,11 @@
+                NAME X - - - - -
+             NETWORK X - - - - -
+                CARD X - - - - -
+                   S X - - - - -
+               LSPCI - S - - - -
+               INTEL - - S - - -
+                HINT - - X - - -
+                BOOT - - X - - -
+                MATE - - - - X -
+             MODULES - - - - - S
+                LOAD - - - - - O

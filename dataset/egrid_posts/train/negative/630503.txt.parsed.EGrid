@@ -1,0 +1,8 @@
+         APPLICATION S - - - -
+                DATA O - - - -
+              SYSLOG X - - - -
+                DISK O - - - -
+              SOURCE - - O - -
+                 JVM - - - O -
+                LINK - - - - O
+               FX/FF - - - - X

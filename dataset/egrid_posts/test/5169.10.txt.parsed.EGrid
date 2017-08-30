@@ -1,0 +1,17 @@
+         PERMISSIONS S - - - -
+                 USB X - - - -
+               DRIVE X - - - -
+                 BOX X - - - -
+                 ONE - X - - -
+                SUDO - - S - S
+/MEDA/YOURUSBDRIVEHERE - - X - -
+               CHOWN - - O - -
+             STARTUP - - - X -
+        APPLICATIONS - - - S -
+               SPITE - - - X -
+               STUFF - - - X -
+             COMMAND - - - O -
+                  -I - - - - X
+/NODISPLAY=TRUE/NODISPLAY=FALSE/G - - - - X
+                   * - - - - X
+            .DESKTOP - - - - O

@@ -1,0 +1,16 @@
+            APPARMOR X - - - - - - - - -
+                MODE X - - - - - - - - -
+               THERE - X - - - - - - - -
+              NVIDIA - X - - - - - - - -
+             DRIVERS - X S - - - - - - -
+               REPOS - X - - - - - - - -
+                WHAT - - O - - - - - - -
+                  NV - - O O - X - - - -
+              KARMIC - - X X X - - - - -
+             UPGRATE - - - - O - - - - -
+                NAME - - - - - X - - - -
+             PACKAGE - - - - - X - X - -
+            QUESTION - - - - - - - S - -
+      XSERVER-COMMON - - - - - - - X - -
+   XSERVER-XORG-CORE - - - - - - - X - -
+                NOPE - - - - - - - - - X

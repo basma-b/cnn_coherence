@@ -1,0 +1,6 @@
+GRUB_CMDLINE_LINUX_DEFAULT=NOPAT S - -
+                GRUB - O -
+              CHANGE - S -
+              EFFECT - O -
+         UPDATE-GRUB - - O
+            TERMINAL - - X

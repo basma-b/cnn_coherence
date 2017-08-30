@@ -1,0 +1,14 @@
+                   X S - - - - -
+           XORG.CONF X - - - - -
+                FILE - X - - - -
+             NEWLINE - O - - - -
+             NEITHER - S - - - -
+              EFFECT - O - - - -
+              ANYONE - - X - - -
+                THIS - - S - - -
+                CASE - - O - - -
+                 DIR - - - S - -
+                TONS - - - O - -
+       XORG.CONF.\D+ - - - X - -
+           DIRECTORY - - - X - -
+            /ETC/X11 - - - - - X

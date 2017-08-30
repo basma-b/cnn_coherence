@@ -1,0 +1,11 @@
+           PARTITION O - - - X
+             OPTIONS X - X - O
+               FSTAB X - - - -
+                   / X - - - X
+               /HOME X - - - -
+               DRIVE X - - - -
+                USER S X - - -
+              ACCESS O - - - -
+                WHAT - X - - -
+               MOUNT - - X - -
+                LINE - - X - -

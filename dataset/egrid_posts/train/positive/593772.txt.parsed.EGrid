@@ -1,0 +1,18 @@
+              SYSTEM - O - - - - - - - -
+                LOAD - X - - - - - - - -
+              MODULE - X - - - - - - - -
+                BOOT - X - - - - - - - -
+                THAT - - S - - - - - S -
+/ETC/MODPROBE.D/BACKLIST.CONF - - X - - - - - - -
+                HELP - - O - - - - - - -
+/ETC/MODPROBE.D/BLACKLIST - - - - S - - - - -
+               .CONF - - - - X - - X - -
+              SYNTAX - - - - S - - X - -
+                   < - - - - X - - - - -
+                   > - - - - O - - - - -
+                FILE - - - - - - X - - -
+                NAME - - - - - - X - - -
+/ETC/MODPROBE.D/BLACKLIST.CONF - - - - - - O - - -
+             PROBLEM - - - - - - - - S -
+              BOTHER - - - - - - - - O -
+             SYMLINK - - - - - - - - - O

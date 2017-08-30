@@ -1,0 +1,11 @@
+                NTFS O - - - -
+           PARTITION S - - - -
+                ROOT X - - - -
+            /WINDOWS - - S - -
+                USER - - X - -
+          PERMISIONS - - O - -
+                  .. - - X - -
+              REASON - - - X -
+                 WPA - - - O -
+                 WEP - - - - S
+            PASSWORD - - - - O

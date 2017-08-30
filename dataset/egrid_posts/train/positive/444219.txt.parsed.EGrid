@@ -1,0 +1,18 @@
+              IMPORT X - -
+             MYSQLDB X - -
+                   / X - -
+DB=MYSQLDB.CONNECTION X - -
+               HOST= X - -
+            YOURHOST X - -
+               USER= X - -
+             PASSWD= X - -
+           YOURPASWD X - -
+                 DB= X - -
+              YOURDB X - -
+                  .. - O -
+                   U - S -
+          CONNECTION - O -
+                  DB - X -
+         CONNECTIONS - O -
+               MYSQL - - X
+            ANYTHING - - O

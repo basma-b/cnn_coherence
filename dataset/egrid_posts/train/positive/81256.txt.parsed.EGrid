@@ -1,0 +1,16 @@
+             PROBLEM O - -
+              INSTAL O - -
+           /DEV/HDA1 X - -
+           PARTITION O - -
+           /DEV/HDA3 X X -
+                GRUB X - -
+               FSTAB O S -
+                BOOT X - -
+                 VFS S - -
+                HDA1 O - -
+                EXT3 X - -
+                HDA3 X - -
+                SWAP - X -
+           /DEV/HDA5 - X -
+            QUESTION - - X
+            HUNGOVER - - S

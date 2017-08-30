@@ -1,0 +1,7 @@
+ /BOOT/GRUB/MENU.LST X - -
+            /DEV/SDA X - -
+            ANYTHING - O -
+            MENU.LST - O -
+                FILE - S -
+                BOOT - O -
+                OKAY - - X

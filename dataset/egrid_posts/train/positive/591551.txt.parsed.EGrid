@@ -1,0 +1,10 @@
+               CHOWN - O - -
+               OWNER - S - -
+          GROUPOWNER - S - -
+                FILE - O - -
+               GROUP - S - -
+                SUDO - X - -
+               CHMOD - X - -
+               G+RWX - S - -
+               THERE - S - -
+              MEMBER - O - -

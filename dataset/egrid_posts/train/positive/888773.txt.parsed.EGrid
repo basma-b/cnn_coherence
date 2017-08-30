@@ -1,0 +1,15 @@
+              SERVER X - -
+                ROOT X - -
+                USER X - -
+             TOMCAT7 O O -
+                  SU O - -
+                FILE O - -
+               OWNER S - X
+         -S/BIN/BASH O - -
+           CURIOSITY X - -
+              OUTPUT O - -
+             MACHINE X - -
+           X:104:106 - O -
+  /USR/SHARE/TOMCAT7 - O -
+          /BIN/FALSE - O -
+               GROUP - - X

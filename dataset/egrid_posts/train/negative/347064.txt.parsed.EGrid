@@ -1,0 +1,13 @@
+             COMMAND X - -
+                 USE O - -
+                 IRQ S - -
+                 MEM S - -
+                 PCI X - -
+                CARD X - -
+               LSPCI - S -
+              OPTION - X -
+                  EG - O -
+                MORE - O -
+                INFO - X -
+               THERE - - S
+              REASON - - O

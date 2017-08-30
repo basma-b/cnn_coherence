@@ -1,0 +1,17 @@
+             ANYBODY X - - - - - -
+           VARIABLES O - - - - - -
+                CANT - X - - - - -
+                FILE - X - - - - -
+             NOTHING - X - - - - -
+              HAPPEN - O - - - - -
+                THIS - - O - - - -
+          EXECUTABLE - - - S - - -
+./MY_EXECUTABLE_FILE_WITH_EXPORT_STATEMENT - - - X - - -
+         ENVIRONMENT - - - X - - -
+            VARIABLE - - - O - - -
+               SHELL - - - X - - -
+              KERNEL - - - - - X -
+            ANYTHING - - - - - O -
+                   % - - - - - - X
+                   / - - - - - - O
+              INODES - - - - - - O

@@ -1,0 +1,13 @@
+                PORT X - - - - - -
+                 USE X - - - - - -
+             APT-GET X - O - - - -
+             DEFAULT - X - - - - -
+                HTTP - O - - - - -
+            FIREWALL - - S - - - -
+                 UFW - - X - - - -
+               53/80 - - - O - - -
+                 TCP - - - X - - -
+            OUTBOUND - - - X - - -
+             TRAFFIC - - - X - - -
+               IDEAS - - - - X - -
+            WEBSITES - - - - - - X

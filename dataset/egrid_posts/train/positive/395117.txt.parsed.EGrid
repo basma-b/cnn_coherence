@@ -1,0 +1,12 @@
+GNOME-SESSION-PROPERTIES:16565 X - - - - -
+     GNOMEUI-WARNING X - - - - -
+                   * X - - - - -
+             SESSION X X - - - -
+             MANAGER X X - - - -
+      AUTHENTICATION S - - - - -
+              REASON X - - - - -
+                NONE S - - - - -
+           PROTOCOLS X - - - - -
+             SUPPORT O - - - - -
+                KICK - X - O - -
+                 ONE - - X - - -

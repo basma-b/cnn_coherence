@@ -1,0 +1,15 @@
+                PERM O - - - - -
+             COMMAND O - - - - -
+                 ONE O - - - - -
+                DIRS X X - - - -
+               OTHER O - - - - -
+                FILE X X X - - -
+                  CD - X - - - -
+                   < - X - - - -
+                PATH - O - - - -
+                   > - S - - - -
+               -EXEC - - S S - -
+           DIRECTORY - - - X - -
+              PLUGIN - - - - O -
+            PROBLEMS - - - - S -
+             PATTERN - - - - - O

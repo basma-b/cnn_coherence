@@ -1,0 +1,14 @@
+                  .. X X - - - - -
+               FAT32 - S - - - - -
+                NTFS - X - - - - -
+                EXT3 - X O - - - -
+                .ALL - X - - - - -
+             DRIVERS - O - - S - -
+             WINDOWS - X - - - - -
+                HAND - - - - O - -
+               GRUB2 - - - - - X -
+                MINT - - - - - X -
+              UBUNTU - - - - - O -
+                GRUB - - - - - - S
+              SYSTEM - - - - - - O
+              INSTAL - - - - - - O

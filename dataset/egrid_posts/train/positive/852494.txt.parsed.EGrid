@@ -1,0 +1,18 @@
+               IMAGE X - - - - - -
+                FILE O - - - - - -
+           HARDDRIVE X - - - - - -
+                  DD X X - - - - -
+            IF=/DEV/ S - - - - - -
+                   > X - - - - - -
+OF=/OUTPUTFILE/FILENAME.IMG X - - - - - -
+         IF=/DEV/SDA X X - - - - -
+         OF=/DEV/SDB X X - - - - -
+                COPY - - O - - - O
+                 SDA - - X - - - -
+                 SDB - - - S - - -
+                TIME - - - - X - -
+                UUID - - - - X - O
+                BOTH - - - - X - -
+              SYSTEM - - - - X - -
+            HARDRIVE - - - - - - S
+                SIZE - - - - - - X

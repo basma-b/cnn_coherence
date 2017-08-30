@@ -1,0 +1,19 @@
+                 ONE X - - - - - -
+                ARCH X - - - - - -
+         MPLAYER-686 X - - - - - -
+                 USE - - O - - - -
+             MACHINE - - X - - - -
+                HTTP - - - X - - -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_CONTENTS.PL - - - X - - -
+                THAT - - - - X - -
+ SEARCHMODE=FILELIST - - - - X - -
+  WORD=CONSOLE-TOOLS - - - - X - -
+      VERSION=FEISTY - - - - S - -
+           ARCH=I386 - - - - S - -
+               SUITE - - - - O - -
+           UTILITIES - - - - X - -
+                 VGA - - - - X - -
+              OPTION - - - - O X -
+              KERNEL - - - - X - -
+                DONT - - - - - X -
+           UNCOMMENT - - - - - O -

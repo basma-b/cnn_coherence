@@ -1,0 +1,13 @@
+             PROGRAM X - - - - - - - - - -
+          DEPENDENCY X X - - - - - - - - -
+            PROGRAM1 - X - - - - - - - - -
+                AUTO - X - - - - - - - - -
+            PROGRAM2 - O - - - - - - - - -
+           UNINSTALL - - - X - - - - - - -
+           DEBFOSTER - - - - X - - - - - -
+                THIS - - - - - - - - S - -
+             DEFAULT - - - - - - - - X - -
+              UBUNTU - - - - - - - - X - -
+                LIBS - - - - - - - - - O -
+             PACKAGE - - - - - - - - - S -
+                CORE - - - - - - - - - X -

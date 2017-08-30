@@ -1,0 +1,24 @@
+                FILE X X - - - - X - -
+                WUBI - O - - - - - - -
+              UBUNTU - S S - - - - - -
+                NTFS - X S - S - - - -
+                CALL - X - - - - - - -
+           ROOT.DISK - X - - - - - - -
+              NORMAL - X - - - - - - -
+             COMMAND - S - - - - - - -
+               DRIVE - O - - - - - - -
+                DISK - O - - S - - - -
+               LINUX - S - - - - - - -
+                  CD - - O - - - - - -
+               FIRST - - S - - - - - -
+                LETS - - - S - - - - -
+           /MNT/NTFS - - - X - - - - -
+           PARTITION - - - - X - X - -
+/MNT/SDA1/UBUNTU/ROOT.DISK - - - - - S - - -
+        /ROOT/UBUNTU - - - - - X - - -
+              DEVICE - - - - - X - - -
+                LOOK - - - - - O - - -
+            LOOPBACK - - - - - X - - -
+                THAT - - - - - - S - -
+               EXIST - - - - - - X - -
+           PARITTION - - - - - - O - -

@@ -1,0 +1,23 @@
+                 SCP O - - - - -
+                FILE O - - - - -
+              SYSTEM X - - - - -
+             ANOTHER X - - - - -
+               ERROR X - - - - -
+                LINE X - - - - -
+       CONFIGURATION X - - - - -
+              OPTION X - - - - -
+  PERMITLOCALCOMMAND X - - - - -
+             INSIGHT S - - - - -
+             COMMAND - X - - - -
+                USER - - S - - -
+          DOMAIN.COM - - O - - -
+               THING - - X - - -
+          /HOME/USER - - O - - -
+                   ~ - - X - - -
+              CONFIG - - - X - -
+                HAND - - - X - -
+                  -Y - - - - - S
+OPENJDK-6-JRE=6B18-1.8.1-0UBUNTU1~8.04.2 - - - - - O
+                   > - - - - - X
+             DEPENDS - - - - - X
+OPENJDK-6-JRE-HEADLESS - - - - - X

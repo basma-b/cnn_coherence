@@ -1,0 +1,15 @@
+                BOOT X - - X -
+           PARTITION S - - - -
+                SDA1 X - - - -
+                   / S - - - -
+                ROOT X - - - -
+                  .. X - - - -
+          DIFFERENCE X - - - -
+                SWAP - S - - X
+               STUFF - - S - -
+                SDA2 - - - O -
+             PARTION - - - - O
+            PARTIION - - - - X
+                  GB - - - - X
+                 1TB - - - - X
+                DISK - - - - X

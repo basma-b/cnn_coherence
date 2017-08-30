@@ -1,0 +1,38 @@
+              CHANGE X - - - - S - - - - - -
+           PASSWORDS X - - - - - - - S - - -
+   SSH-SERVER-SYSTEM X - - - - - - - - - - -
+                  .. - X - X - - - - - - - -
+              ACCESS - - X - - - - - - - - -
+              SYSTEM - - X - - - - - - - - -
+              PASSWD - - - O - - - - - - - -
+            TERMINAL - - - X - - - - - - - -
+                USER - - - S - - - - - - - -
+            PASSWORD - - - O - - X - - - - -
+                ROOT - - - X - X - X - - - -
+            ANYTHING - - - - S - - - - - - -
+      AUTHENTICATION - - - - O - S - - - - -
+       CONFIGURATION - - - - O X - - - - - -
+              SERVER - - - - X - - - - - - -
+                LOOK - - - - X - O - - - - -
+          SSH-SERVER - - - - O - - - - - - -
+             DEFAULT - - - - - X - - - - - -
+                SSHD - - - - - S - - - - - -
+               LOINS - - - - - X - - - - - -
+         INVOKE-RC.D - - - - - X - - - - - -
+          INITSCRIPT - - - - - X X - - - - -
+    /ETC/INIT.D/SSHT - - - - - X - - - - - -
+               THING - - - - - O S - - - - -
+/ETC/SSH/SSHD_CONFIG - - - - - - X - S - - -
+           LOWERCASE - - - - - - S - - - - -
+PASSWORDAUTHENTICATION - - - - - - X - - - - -
+               ERROR - - - - - - X S - - - -
+                THAT - - - - - - - O X - - -
+               SENSE - - - - - - - O - - - -
+/ETC/SSH/SSH_HOST_RSA_KEY - - - - - - - - X - - -
+           SOMETHING - - - - - - - - O - - -
+                  IM - - - - - - - - - - S S
+               ISSUE - - - - - - - - - - O -
+             PROGRAM - - - - - - - - - - X -
+          EVERYTHING - - - - - - - - - - - O
+                WEEK - - - - - - - - - - - X
+            MINIDLNA - - - - - - - - - - - O

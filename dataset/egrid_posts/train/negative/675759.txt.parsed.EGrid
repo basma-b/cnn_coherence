@@ -1,0 +1,19 @@
+               THERE X - - -
+           ETH0=DHCP - O - -
+                SUDO - X - -
+            DHCLIENT - S - -
+                ETH0 - X - -
+              ANYONE - O - -
+                IDEA - X - -
+            INTERNET - X S -
+          CONNECTION - O - -
+                9.10 - X - -
+          NAMESERVER - O - -
+         RESOLV.CONF - X - -
+                  .. - O - -
+                WORK - - O -
+             NETWORK - - X -
+             MANAGER - - O -
+/ETC/NETWORK/INTERFACES - - O -
+             PROBLEM - - O -
+                TIME - - - O

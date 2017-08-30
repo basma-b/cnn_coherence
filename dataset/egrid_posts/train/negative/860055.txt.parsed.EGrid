@@ -1,0 +1,16 @@
+                THAT X - -
+        PCI=ROUTEIRQ O - -
+                BOOT X - -
+             OPTIONS X - -
+             COMMENT O - X
+               LINUX - X -
+              KERNEL - O X
+                SUDO - X -
+               RMMOD - X -
+            EHCI_HCD - X -
+            MODPROBE - X -
+                DICE - X -
+                PAGE - - X
+                 BUG - - X
+                 YES - - O
+               SPEED - - X

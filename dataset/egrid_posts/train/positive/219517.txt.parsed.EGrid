@@ -1,0 +1,12 @@
+           PARTITION O X - -
+              UBUNTU X X - -
+                BOOT - X - -
+              LIVECD - X - O
+              SYSTEM - X - -
+                   > - X - -
+      ADMINISTRATION - X - -
+               GNOME - X - -
+              EDITOR - X - -
+               MOUNT - X - -
+                  FS - O - -
+                   / - - O -

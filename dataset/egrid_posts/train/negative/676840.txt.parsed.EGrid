@@ -1,0 +1,24 @@
+            QUESTION X - - - - - - - - - - -
+              UPDATE - X - X - - - - - - - -
+             MODULES - X - - - - - - - - - -
+             MANAGER - X - O - - - - - - - -
+             CHANGES - X - - - - - - - - - -
+               PHASE - X - - - - - - - - - -
+              FREEZE - X - O - - - - - - - -
+            GRUB.CFG - X - - - - X - - - - -
+             PROGRAM - - O - - - - - - - - -
+              YES/NO - - - O - - - - - - - -
+                SORT - - - - X - - - - - - -
+               ERROR - - - - X - - - - - - -
+                NONE - - - - - - S - - - - -
+              SCREEN - - - - - - X - - - - -
+              CHANGE - - - - - - O - - - - -
+           MEMTEST86 - - - - - - X - - - - -
+              OPTION - - - - - - O O - - - -
+                   U - - - - - - - S - - S -
+                  UR - - - - - - - - S - - -
+                   M - - - - - - - - - S - -
+                  LL - - - - - - - - - - S -
+             SOMEONE - - - - - - - - - - O -
+               HTTPS - - - - - - - - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/XSERVER-XORG-VIDEO-INTEL/+BUG/111257 - - - - - - - - - - - X

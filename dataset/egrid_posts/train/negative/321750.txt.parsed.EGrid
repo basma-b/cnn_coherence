@@ -1,0 +1,8 @@
+              STARTX O O - -
+              WINDOW X X - -
+             MANAGER S S - -
+               XINIT - - O -
+            .XINITRC - - S -
+                  ID - - S -
+             FLUXBOX - - O -
+          ~/.XINITRC - - X -

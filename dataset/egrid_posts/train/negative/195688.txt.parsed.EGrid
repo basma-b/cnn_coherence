@@ -1,0 +1,20 @@
+            MODPROBE X - X - X -
+           SOMETHING O - - - X -
+              DEVICE X - - - - -
+            RESOURCE X - - - - -
+              MODULE S - X - - -
+                LOAD X - O - - -
+               LSMOD - - S - - -
+             MODULES - - O - - -
+               |GREP - - X - - -
+                LIRC - - S - - -
+               RIGHT - - O - - -
+         LIRC_DEV.KO - - - - X -
+      LIRC_SERIAL.KO - - - - O -
+/LIB/MODULES/2.6.15-26-386/MISC/ - - - - X -
+                -DEV - - - - S -
+         DEVELOPMENT - - - - X -
+           LIBRARIES - - - - O -
+              ACCESS - - - - - O
+                FILE - - - - - X
+             MACHINE - - - - - X

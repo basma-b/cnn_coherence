@@ -1,0 +1,11 @@
+            PROBLEMS O - - - - - - -
+                ALSA - X - - O - - -
+                CARD - X - - - - - -
+                SINK - X - - - - - -
+                THAT - - X - - - - -
+              CHANGE - - O - - - - -
+         ASOUND.CONF - - X - - - - -
+               PULSE - - - X X - - -
+               AUDIO - - - X O - - -
+                BOTH - - - - - X - -
+             DRIVERS - - - - - - - X

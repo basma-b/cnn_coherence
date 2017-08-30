@@ -1,0 +1,16 @@
+               DRIVE O - - - - - -
+               FSTAB X - - - - - -
+                WORK - - - O - - -
+                NTFS - - - X O - -
+                VFAT - - - X X - -
+                 EXT - - - O - - -
+             FUSEBLK - - - - S - -
+               THOSE - - - - S - -
+         NTFS-CONFIG - - - - O - -
+                FSCK - - - - - - S
+               BUNCH - - - - - - O
+                FILE - - - - - - X
+             LIBRARY - - - - - - S
+                 ONE - - - - - - O
+             COMMAND - - - - - - X
+           SEGFAULTS - - - - - - O

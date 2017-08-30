@@ -1,0 +1,19 @@
+               DMESG S - - - - - - - - -
+        INITIALIZING X - - - - - - - - -
+              SUBSYS X - - - - - - - - -
+              CPUSET X - - - - - - - - -
+              CGROUP - X - - - - - - - -
+               GROUP - - X - - - - - - -
+                TIME - - - - X X - - - -
+                 TCP - - - - O - - - - -
+                THIS - - - - S - - - - -
+                 USE - - - - S X S - - -
+             MORNING - - - - - O - - - -
+                FILE - - - - - X - - - -
+                 SSH - - - - - O X - - -
+S/OTHERWISE/ELSEWHERE - - - - - - - X - -
+           WEBSERVER - - - - - - - - O -
+                 ANY - - - - - - - - X -
+             UBUNTUS - - - - - - - - X -
+              SERVER - - - - - - - - - S
+           RESOURCES - - - - - - - - - S

@@ -1,0 +1,20 @@
+           PARTITION O - - - -
+                SUDO X - - - -
+               /MNT/ O - - - -
+/BOOT/GRUB/CUSTOM.CFG S O - - -
+                 TEE X - - - -
+/MNT/BOOT/GRUB/CUSTOM.CFG X - - - -
+              UBUNTU - X - - -
+                BOOT - X - - -
+   /ETC/DEFAULT/GRUB - O - - -
+     GRUB_TIMEOUT=-1 - O - - -
+                GRUB - - X - -
+                 USE - - X - -
+              CONFIG - - X - -
+                FILE - - X - -
+         CUSTOM.CFG - - X - -
+             DEFAULT - - - - X
+                PATH - - - - O
+              SOURCE - - - - X
+             VERSION - - - - S
+/USR/LOCAL/ETC/EXIM4.CONF - - - - O

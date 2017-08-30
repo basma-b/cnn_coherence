@@ -1,0 +1,14 @@
+               DRIVE S - - -
+               EJECT - X - -
+                BASH - X - -
+             UNMOUNT - X - -
+             COMMAND - X - -
+                 E.G - O - -
+              UMOUNT - - O -
+                SUDO - - S -
+        /MEDIA/CDROM - - X -
+             APT-GET - - - S
+             OPENSSL - - - O
+             PACKAGE - - - O
+              SEARCH - - - X
+         PACKAGENAME - - - X

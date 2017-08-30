@@ -1,0 +1,21 @@
+   /VAR/LOG/MESSAGES X - S -
+              UBUNTU - X - -
+                 HUH - X - -
+             RSYSLOG - - X -
+              NATTY+ - - X -
+                MOST - - O -
+               STUFF - - X -
+   /VAR/LOG/KERN.LOG - - X -
+/ETC/RSYSLOG.D/50-DEFAULT.CONF - - X -
+             PACKAGE - - S -
+               BREAK - - O -
+                 BUG - - X -
+              IMPORT - - X -
+             PROFILE - - X -
+              PSTATS - - X -
+            PASSWORD - - - O
+                 LOG - - - X
+                USER - - - S
+         PRIVILEGIES - - - O
+             COMMAND - - - O
+             DEFAULT - - - X

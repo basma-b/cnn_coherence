@@ -1,0 +1,14 @@
+        /ETC/SUDOERS X - - -
+                  -R X - - -
+                   R X - - -
+                ROOT X - - -
+               11.10 X - - -
+             FEATURE - X - -
+              CHANGE - O - -
+              SYSTEM - X - -
+               WHILE - X - -
+             USERMOD - - X X
+                 -AG - - X -
+               GROUP - - O -
+                   G - - S -
+                 MAN - - - X

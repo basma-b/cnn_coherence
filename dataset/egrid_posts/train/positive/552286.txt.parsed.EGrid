@@ -1,0 +1,11 @@
+                 DNS X - -
+             NETWORK X - -
+             MANAGER X - -
+                 DSL X - -
+          CONNECTION X - -
+        RESOLVE.CONF - O -
+/ETC/DHCP3/DHCLIENT.CONF - O -
+             OPENDNS - - S
+                   N - - X
+  DOMAIN-NAME-SERVER - - O
+             REQUEST - - X

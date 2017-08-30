@@ -1,0 +1,16 @@
+           PARTITION O - - - - -
+              FOLDER X - - - - -
+             EXAMPLE X - - - - -
+         /MNT/WIN_C/ X - - - - -
+    /MNT/WIN_C/HELLO X - - - - -
+                  .. X - - - - -
+               UMASK - X - - - -
+           SOMETHING - - - S - -
+                THIS - - - X - -
+      /MNT/PARTITION - - - O - -
+                  FS - - - X - -
+                TYPE - - - O - -
+          CONNECTION - - - - - X
+             ADDRESS - - - - - O
+                DHCP - - - - - X
+               MODEM - - - - - X

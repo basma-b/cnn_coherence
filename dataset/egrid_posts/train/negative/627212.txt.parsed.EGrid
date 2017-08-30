@@ -1,0 +1,16 @@
+        0000:05:09.0 O - - - - -
+                CARD X - - - - -
+                SHOW O - - - - -
+               LSPCI O - - - - -
+              UBUNTU - - S - - -
+                GREP - - - S - -
+                IDEA - - - X - -
+              KERNEL - - - X - -
+              MODULE - - - X - -
+      GENERIC_SERIAL - - - X - -
+                LOAD - - - O - -
+                THAT - - - - O -
+                   | - - - - S -
+               LSMOD - - - - X -
+                SAME - - - - O -
+                 YES - - - - - X

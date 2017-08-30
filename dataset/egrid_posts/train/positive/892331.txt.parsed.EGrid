@@ -1,0 +1,17 @@
+              CHANGE O - - - - - -
+   /ETC/DEFAULT/GRUB X - - - - - -
+      HIDDEN_TIMEOUT O - - - - - -
+                 SEC O - - - - - -
+                SUDO - X - - - - -
+       GRUB-MKCONFIG - X - - - - -
+          MESTRELION - - X - - - -
+                BOOT - - X - - - -
+                   X - - X X - - -
+              UBUNTU - - S - - - -
+               START - - S - - - -
+              SCREEN - - X - - - -
+              OUTPUT - - O - - - -
+             PROCESS - - X - - - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - S - - - -
+                TEXT - - X - - - -
+            PLYMOUTH - - - - - - X

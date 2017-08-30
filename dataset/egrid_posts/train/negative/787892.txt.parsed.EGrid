@@ -1,0 +1,10 @@
+             NETWORK X - X - -
+           INTERFACE X - - - -
+             COMMAND X - - - -
+                LINE X - - - -
+                PAST - X - - -
+         IFDOWN/IFUP - O - - -
+               WLAN0 - O - - -
+                  .. - O - - -
+             MANAGER - - X - -
+                  OK - - - - X

@@ -1,0 +1,21 @@
+                USER S - -
+               /ETC/ O - -
+              PASSWD X - -
+              SHADOW X - -
+               UNITY S - -
+            USERNAME S - -
+              CORNER X - -
+               -RSB- O - -
+               USERS X - -
+             CONTROL X - -
+               PANEL X - -
+                 WAY X O O
+                   * - S -
+               POSIX - X -
+                TYPE - X -
+                ROOT - X -
+               KLYNC - X -
+/MNT/OLDSYS/ETC/PASSWD - S -
+         /ETC/PASSWD - O -
+             ADDUSER - - X
+             USERADD - - S

@@ -1,0 +1,4 @@
+         PERMISSIONS X - - -
+               CHMOD - S - -
+               .SSH/ - O - -
+               U=RWX - - - O

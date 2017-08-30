@@ -1,0 +1,9 @@
+             COMMAND X -
+                WINE O -
+            TERMINAL X -
+                SUDO X -
+             APT-GET S -
+              ANSWER - O
+                   D - X
+                HTTP - O
+//SUPERUSER.COM/QUESTIONS/149961/WRITING-A-CPU-RAM-USAGE-LOG-OVER-A-PERIOD-OF-TIME-TO-FILE-ON-CENTOS - O

@@ -1,0 +1,10 @@
+             CRONJOB O - - X - - -
+                 CAT X - - X - - -
+               ERROR O - - - - - -
+                RUNS - S - - - - -
+                BASH - X - - - - -
+               SHELL - X - - - - -
+            /BIN/CAT - - X - - - -
+                FILE - - O - - - X
+              LIKELY - - - - S - -
+              OUTPUT - - - - - - O

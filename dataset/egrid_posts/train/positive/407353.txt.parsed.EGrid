@@ -1,0 +1,17 @@
+           PARTITION S S - -
+                USER X X - X
+                THAT - - S -
+            UID=1000 - - O -
+          /ETC/FSTAB - - X -
+                WORK - - O -
+               UMASK - - X -
+               DMASK - - X -
+            NICKRUD_ - - - X
+         BROBOSTIGON - - - X
+            REISERFS - - - O
+           /DEV/SDA8 - - - X
+                DISK - - - X
+               IMAGE - - - X
+          VIRTUALBOX - - - X
+                ROOT - - - X
+         PERMISSIONS - - - O

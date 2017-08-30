@@ -1,0 +1,13 @@
+           PARTITION X X -
+               TABLE X - -
+                TYPE X O -
+              FORMAT X - -
+               DRIVE O - -
+               MSDOS - S -
+             DEFAULT - O -
+                EXT3 - O -
+                OOPS - X -
+              ANSWER - O -
+            QUESTION - X -
+                HTTP - - X
+            FEATURES - - O

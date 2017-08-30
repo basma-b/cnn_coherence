@@ -1,0 +1,16 @@
+               THERE X - - -
+                 WAY X - - -
+             PACKAGE S - S -
+              UBUNTU X - - -
+                REPO X - - -
+           TOOLCHAIN - X - -
+              DISTRO - X - -
+               10.04 - X - -
+                 GCC - X - -
+                 4.4 - O - -
+                   C - S - -
+                  .. - - X X
+         ./CONFIGURE - - - X
+    ENABLE-SOMETHING - - - X
+ENABLE-SOMETHING-ELSE - - - X
+    DISABLE-WHATEVER - - - X

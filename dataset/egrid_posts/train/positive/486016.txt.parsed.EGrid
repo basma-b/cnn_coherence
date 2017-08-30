@@ -1,0 +1,15 @@
+              KERNEL O - - X
+               LINUX S - - -
+            DYNTICKS O - - -
+           FREQUENCY S - - -
+                  HZ X - - -
+             1000FPS O - - -
+                HLDS X - - -
+               GUIDE - X - -
+                THIS - S - -
+              OPTION - - - O
+          MENUCONFIG - - - X
+           CONFIG_HZ - - - X
+                TEXT - - - X
+                FILE - - - X
+              CONFIG - - - O

@@ -1,0 +1,14 @@
+               DRIVE X - -
+              FLOPPY - X -
+                  CD - O -
+                SUDO - X -
+            MODPROBE - S -
+            /DEV/FD0 - S -
+                TYPE - X -
+               NOISE - O -
+              SECOND - X -
+          /ETC/FSTAB - X -
+            ETC/MTAB - X -
+          /MEDIA/FD0 - S -
+               POINT - O -
+                 LFS - - X

@@ -1,0 +1,17 @@
+             COMMAND X - - - - - - -
+                LINE X - - - - - - -
+             NETWORK X - - - - - - -
+             MANAGER O - - - - - - -
+               NMCLI - X - - - - - -
+              OTHERS - X - - - - - -
+                 TAB - X - - - - - -
+             PACKAGE - X - - - - - -
+           XORG.CONF - - - O - - - -
+                HERE - - - - X - - -
+               ISSUE - - - - - S - -
+              NVIDIA - - - - - X - -
+              DRIVER - - - - - O - -
+                 PPA - - - - - X - -
+                  YA - - - - - S - -
+            ANYTHING - - - - - - O -
+                LUCK - - - - - - - X

@@ -1,0 +1,13 @@
+              UPDATE O - -
+             MACHINE X - -
+              REBOOT X - -
+             PROCESS S - -
+                SUDO - X -
+                DPKG - O -
+         RECONFIGURE - X -
+                  -A - X -
+             ATTEMPT - O -
+               BREAK - O -
+   SYNAPTIC/APT/DPKG - S -
+                MOVE - X -
+                  TM - X -

@@ -1,0 +1,17 @@
+          UDEV-RULES X - - - - - - - - - - - - - -
+                THAT - - S - - - - - - - X - - - -
+                DATA - - X - - - - - - - - - - - -
+                 SAY - - X - - - - - - - - - - - -
+               DRIVE - - X - - - O - - - - - - - -
+                 UMM - - - - - - X - - - - - - - -
+         INFORMATION - - - - - - X - - - - - - - -
+           UDEV-RULE - - - - - - - - X - - - - - -
+             COMMAND - - - - - - - - X - - - - - -
+                NAME - - - - - - - - X O - O - - -
+             E2LABEL - - - - - - - - O - - - - - -
+              LITTLE - - - - - - - - X - - - - - -
+     DRIVE/PARTITION - - - - - - - - - X - - - - -
+             ARCHIVE - - - - - - - - - - - - - - X
+           APT-CACHE - - - - - - - - - - - - - - X
+              SEARCH - - - - - - - - - - - - - - X
+           W32CODECS - - - - - - - - - - - - - - X

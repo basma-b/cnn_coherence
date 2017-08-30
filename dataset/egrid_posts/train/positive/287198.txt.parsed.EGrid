@@ -1,0 +1,16 @@
+            HOSTNAME S - - O - - - -
+              SERVER - O - - - - - -
+                 ONE - O - - - - - -
+                 ERR - - X - - - - -
+                .COM - - - X - - - -
+          DOMAINNAME - - - O - - - -
+                  .. - - - O - - - -
+               SETUP - - - X - - - -
+              DOMAIN - - - X - - - -
+                NAME - - - O - - - -
+                 DNS - - - X - - - -
+                 WAY - - - S - - - -
+          /ETC/HOSTS - - - - S - - -
+             ABC.COM - - - - X - - -
+         NS1.ABC.COM - - - - - X - -
+          EVERYTHING - - - - - - - S

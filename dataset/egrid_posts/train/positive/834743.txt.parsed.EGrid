@@ -1,0 +1,14 @@
+             NETWORK X X - -
+             MANAGER X X - -
+              UBUNTU X - - O
+              SCRIPT - O - X
+                ROOT - - - X
+             CRONTAB - - - S
+                INIT - - - S
+      NETWORKMANAGER - - - S
+                PING - - - X
+                  OK - - - X
+               STUFF - - - X
+               DELAY - - - X
+             FIREFOX - - - X
+               150MB - - - O

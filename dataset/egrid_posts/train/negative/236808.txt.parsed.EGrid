@@ -1,0 +1,12 @@
+               TRACE X - -
+             APACHE2 X - -
+                SUDO - X -
+            APTITUDE - X -
+               PURGE - O -
+              SEARCH - X -
+              APACHE - X -
+                   | - X -
+                GREP - X -
+                  -I - X -
+                  ^I - S -
+                4-30 - O -

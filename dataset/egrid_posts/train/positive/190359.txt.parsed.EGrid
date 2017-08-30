@@ -1,0 +1,16 @@
+               ENTRY O - - - - - O
+                HOST X - - - - X -
+                FILE X - - - - - -
+                TYPE X - - - - X -
+           NEWEENTRY X - - - - - -
+                 DNS - X - - - - -
+               CACHE - X - - - - -
+              ANYONE - - S - - - -
+             NETWORK - - O - - - -
+              REREAD - - X - - - -
+          /ETC/HOSTS - - S - - - -
+               RIGHT - - - - X - -
+             COMMAND - - - - - O -
+             MACHINE - - - - - X -
+                 NET - - - - - X -
+              COURSE - - - - - X -

@@ -1,0 +1,14 @@
+                DHCP X - - X -
+              SERVER S - - O -
+               ERROR X - - - -
+             MESSAGE X - - - -
+/VAR/RUN/DHCP-SERVER S - - - -
+                FILE X - - - -
+  /VAR/RUN/DHCPD.PID O - - - -
+          PERMISSION S - - - -
+              ANYONE S - - - -
+                THAT - X - - -
+                BOOT - X - - -
+             COMMAND - - - X -
+                LINE - - - X -
+           CHMODDING - - - - S

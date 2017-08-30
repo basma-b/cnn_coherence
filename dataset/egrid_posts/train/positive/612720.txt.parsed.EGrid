@@ -1,0 +1,15 @@
+                ROOT X X X
+              ACCESS X - -
+               /PROC X S -
+                GRUB - O -
+           PARTITION - X -
+                SUDO - S -
+                  -T - S X
+                PROC - S -
+                HOST - X -
+              UBUNTU - S -
+                BUSY - O -
+                MTAB - X -
+                THIS - S -
+              SWITCH - X -
+               ERROR - O -

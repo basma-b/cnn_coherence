@@ -1,0 +1,20 @@
+               SOUND O - - - - - - - - - -
+                 VMM X - - - - - - - - - -
+               GUEST X - - - - - - - - - -
+                  OS X - - - - - - - - - -
+                QEMU - S - - - - - - - - -
+            COMPUTER - O - - - - - - - - -
+           SOUNDCARD - - X - - - - - - - -
+                  AC - - - X - - - - - - -
+                SINK - - - - S - - - - - -
+                THAT - - - - - X - - - - X
+              OUTPUT - - - - - - O - - - -
+                  -L - - - - - - X - - - -
+                HOST - - - - - - X - - - -
+              SYSTEM - - - - - - X - - - -
+               PACMD - - - - - - - S - - -
+                 HMM - - - - - - - O - - -
+            HARDWARE - - - - - - - X - - -
+                ALSA - - - - - - - - X - -
+//WWW.ALSA-PROJECT.ORG/MAIN/INDEX.PHP/MAIN_PAGE - - - - - - - - - X -
+                 FUN - - - - - - - - - - O

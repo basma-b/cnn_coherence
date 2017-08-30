@@ -1,0 +1,13 @@
+                FILE O - - - - - - - -
+               DRIVE X - - - - - - - -
+                 LOT - O - - - - - - -
+              CLIENT - - - - - X - - -
+                SFTP - - - - - X S - -
+                 SSH - - - - - - X - -
+             FEATURE - - - - - - O - -
+                 USE - - - - - - - X -
+           MAKE-KPKG - - - - - - - O -
+              CUSTOM - - - - - - - - X
+             KERNELS - - - - - - - - O
+             PACKAGE - - - - - - - - X
+                DPKG - - - - - - - - X

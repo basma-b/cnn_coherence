@@ -1,0 +1,19 @@
+            QUESTION O - - - - S -
+              SCRIPT X O - - - - -
+              SERVER X - - - - - -
+                FILE - X - - - - -
+                  -N - X - - - S -
+/PATH/TO/BACKUP.SCRIPT - X - - - - -
+             PROCESS - X - - X - -
+               VALUE - X S - O X X
+             DEFAULT - - X - - - -
+             BACKUPS - - - O - - -
+            PRIORITY - - - X - X -
+        MYSQL/APACHE - - - X - - -
+              VVALUE - - - X - - -
+        APACHE/MYSQL - - - S - - -
+                  .. - - - O - X -
+          SUBPROCESS - - - - S - -
+                CALL - - - - X - -
+             MANPAGE - - - - - X -
+           SOMETHING - - - - - O -

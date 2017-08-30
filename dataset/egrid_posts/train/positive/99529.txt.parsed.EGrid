@@ -1,0 +1,10 @@
+        DRIVE/DEVICE O - - - -
+            TERMINAL S - - O -
+               PROGS - S - - -
+       /DEV/MYDEVICE - - O - -
+             PROGRAM - - X - -
+                LSOF - - - S -
+              OUTPUT - - - - X
+             NOTHING - - - - S
+              ISTILL - - - - S
+              DEVICE - - - - O

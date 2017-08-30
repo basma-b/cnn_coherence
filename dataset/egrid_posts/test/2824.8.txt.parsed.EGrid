@@ -1,0 +1,15 @@
+                LINE S - - - - -
+                FILE O - - - - -
+   /ETC/DEFAULT/GRUB - O - - - -
+         UPDATE-GRUB - O - - - -
+               GRUB2 - - X - - -
+              SANDUN - - S - - -
+                 KID - - O - - -
+                 OWN - - O - - -
+                 USB - - X - - -
+                GRUB - - - O - -
+                MENU - - - - - X
+                DROP - - - - - S
+             SUSPEND - - - - - X
+            SHUTDOWN - - - - - X
+              BUTTON - - - - - O

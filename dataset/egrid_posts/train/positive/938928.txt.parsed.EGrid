@@ -1,0 +1,19 @@
+             PROBLEM - O - - - - - -
+         NDISWRAPPER - X - - - - - -
+              DRIVER - X - - - - - -
+              INSTAL - O - - - - - -
+                CARD - X - - - - - -
+            BROADCOM - X - - - - - -
+         CORPORATION - X - - - - - -
+             BCM4306 - X - - - - - -
+                LOAD - X - - - - - -
+                FINE - X - - - - - -
+            WIRELESS - - X - - - - -
+             NETWORK - - O - - - - -
+                THAT - - - - X S - -
+/ETC/NDISWRAPPER/DRIVER - - - - X - - -
+           DIRECTORY - - - - O - - -
+               VALUE - - - - O - - -
+                FILE - - - - X - - -
+            MODPROBE - - - - O - - -
+                   \ - - - - - - - X

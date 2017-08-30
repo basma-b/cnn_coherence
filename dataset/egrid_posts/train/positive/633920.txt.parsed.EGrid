@@ -1,0 +1,17 @@
+                LIBS O - -
+                ALSA X O -
+              DRIVER X S X
+               SOUND - X -
+                CARD - O -
+               SMBUS - X -
+               INTEL - X -
+         CORPORATION - X -
+          82801EB/ER - X -
+          ICH5/ICH5R - X -
+             WEBSITE - X X
+            DOWNLOAD - - X
+                  -V - - X
+              VENDOR - - X
+                  .. - - X
+              OUTPUT - - O
+                SUDO - - X

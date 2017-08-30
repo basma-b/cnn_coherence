@@ -1,0 +1,21 @@
+            ETHERNET X - - - -
+             ADAPTER O S - - -
+                SHOW O - - - -
+                AUTO X - - - -
+                WIRE X - - - -
+         CONNECTIONS X - - - -
+                SUDO - X X - X
+             APT-GET - S - - S
+                 CAN - O - - -
+          CONNECTION - O - - -
+              OUTPUT - O - - -
+      NETWORKMANAGER - X - - -
+     /VAR/LOG/SYSLOG - X X - -
+                GREP - - O - -
+             COMMAND - - S - -
+NETWORKMANAGER/VAR/LOG/SYSLOG - - S - -
+                 UMM - - X - -
+                  OK - - O - X
+             NOTHING - - O O -
+            WICD-KDE - - - - O
+              CTRL+C - - - - S

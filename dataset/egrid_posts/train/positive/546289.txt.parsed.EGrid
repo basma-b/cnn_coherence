@@ -1,0 +1,11 @@
+         COMMANDLINE X - - -
+              DETAIL X - - -
+            WIRELESS X - - -
+              DRIVER X - - -
+                LSHW - X - -
+                  -C - X - -
+             NETWORK - S - -
+              VISUDO - - X -
+               LSPCI - - - X
+                   | - - - S
+                 HCI - - - O

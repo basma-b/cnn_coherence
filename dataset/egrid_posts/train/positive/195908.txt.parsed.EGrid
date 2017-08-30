@@ -1,0 +1,25 @@
+                THAT O O - - - - - - - - -
+             VEGETA^ X - - - - - - - - - -
+                   > S - - - - - - - - - -
+             APT-GET S - S - - - - - - - -
+      OPENSSH-SERVER S - - - - - - - - - -
+                PROB - O - - - - - - - - -
+             DEFAULT - X - - - - - - - - -
+              REASON - X - - - - - - - - -
+                SUDO - - X - - - X - - - -
+            TERMINAL - - X - - - - - - - -
+                TYPE - - X - - - - - - - -
+              DAEMON - - X - - - - - - - -
+                HOST - - X - X - X - - - -
+        VERIFICATION - - S - - - - - - - -
+                THIS - - - X - - - - - - -
+                 KEY - - - - S - - - - - -
+                FILE - - - - X - X - - - -
+               STORE - - - - X - - - - - -
+                PICO - - - - - - S - - - -
+/ROOT/.SSH/KNOWN_HOSTS - - - - - - S - - - -
+               ENTRY - - - - - - O - - - -
+  ~/.SSH/KNOWN_HOSTS - - - - - - O - - - -
+                 ONE - - - - - - X - - - -
+                LINE - - - - - - X - X - -
+                  .. - - - - - - O - - - -

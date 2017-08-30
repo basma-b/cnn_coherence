@@ -1,0 +1,18 @@
+               INSTI S - - - - - - - -
+               PROXY O - - - - - - - -
+                 PKG O - - - - - - - -
+ARCHIVE.CANONICAL.COM|91.187.29.150| X - - - - - - - -
+             APT-GET S - S - - - - - -
+ARCHIVE.CANONICAL.COM|91.167.29.150| - - X - - - - - -
+                 SET - - X - - - - - -
+   /ETC/APT/APT.CONF - - X - - - - - -
+                FILE - - - - S - - - -
+              BASHRC - - - - - X - - -
+              FORMAT - - - - - S - - -
+             ACQUIRE - - - - - X - - -
+                HTTP - - - - - X - - -
+       ADDRESS_HERE/ - - - - - S - - -
+              LAPTOP - - - - - - - - X
+                DONT - - - - - - - - X
+               VIDEO - - - - - - - - O
+               BLACK - - - - - - - - X

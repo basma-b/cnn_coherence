@@ -1,0 +1,15 @@
+               CRASH S - - - -
+             SIGSEGV X - - - -
+ DBUS_CONNECTION_REF X - - - -
+                 ONE S - - - -
+            ANYTHING O - - - -
+                 ^^^ X - - - -
+                OBEX - S - - -
+                PART - O - - -
+           BLUETOOTH - X - - -
+              UBUNTU - - S - -
+                  .. - - O - -
+               UNITY - - - S -
+              WINDOW - - - X -
+             MANAGER - - - O -
+               GNOME - - - - O

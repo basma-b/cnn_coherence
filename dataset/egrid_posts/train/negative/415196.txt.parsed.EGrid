@@ -1,0 +1,14 @@
+                DISK X - - - -
+                FILE X - - O -
+              SYSTEM X - - - -
+             GPARTED - S - - -
+              OPTION - X - - -
+           PARTITION - O - - -
+              EXPERT - - S - -
+              UPDATE - - - S -
+        SOURCES.LIST - - - X -
+             PACKAGE - - - O X
+               REPOS - - - S -
+                REPO - - - - X
+      UBUNTU-DESKTOP - - - - O
+               NAMES - - - - X

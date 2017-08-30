@@ -1,0 +1,16 @@
+                WORK O - - - - - - -
+            HOST.MYI - O - - - - - -
+               ERRNO - - X - - - - -
+               ERROR - - X - - - - -
+           PRIVILEGE - - X - - - - -
+               TABLE - - O - - - - -
+/USR/SHARE/MYSQL/CHARSETS/ - - X - - - - -
+        MYSQL-SERVER - - - X - - - -
+               .CONF - - - S - - - -
+             ERRCODE - - - X - - - -
+               FRESH - - - O - - - -
+              INSTAL - - - - - O - -
+                SUDO - - - - - - - S
+            APTITUDE - - - - - - - X
+              UPDATE - - - - - - - X
+        SAFE-UPGRADE - - - - - - - O

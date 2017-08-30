@@ -1,0 +1,17 @@
+                I810 S - - - -
+                DISK X - - - -
+                TUNE X - - - -
+               ISSUE O - - - -
+                 USE X - - - -
+              LIBATA X - - - -
+                SUDO S - - - -
+            /DEV/SDA X - - - -
+        HDIO_SET_DMA S - - - -
+               IOCTL S - - - -
+              DEVICE X - - - -
+                SCSI X - - - -
+               DRIVE O - - - -
+                THAT - - - S -
+             PROBLEM - - - O -
+             WINDOWS - - - - S
+                PING - - - - O

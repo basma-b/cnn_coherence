@@ -1,0 +1,16 @@
+             SOMEONE X - - - - - - - - - -
+       WPASUPPLICANT X - - - - - - - - - -
+        INSTRUCTIONS - O - - - - - - - - -
+               HOWTO - X - - - - - - - - -
+             TROUBLE - X - - - - - - - - -
+               ERROR - - X - - - - - - - -
+             MESSAGE - - S - - - - - - - -
+       CONFIGURATION - - X S - - - - - - -
+                FILE - - O - X - - - - - -
+/ETC/WPA_SUPPLICANT.CONF - - X - - - - - - - -
+         PERMISSIONS - - - - X - - - X - -
+                ROOT - - - - - - O X - - -
+              ACCESS - - - - - - - O - - -
+                SUDO - - - - - - - O - - -
+            TERMINAL - - - - - - - X X - -
+            ANYTHING - - - - - - - - - - X

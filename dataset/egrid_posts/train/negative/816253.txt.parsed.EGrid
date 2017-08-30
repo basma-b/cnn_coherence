@@ -1,0 +1,15 @@
+               11.04 X - - - -
+               AMD64 X - - - -
+        ARCHITECTURE X - - - -
+               STICK - - X - -
+                GRUB - - - O -
+               ERROR - - - O -
+             VERSION - - - O -
+             MESSAGE - - - S -
+                ARCH - - - X -
+                 ELF - - - X -
+               MAGIC - - - X -
+                BITE - - - X -
+             MACHINE - - - X -
+               64BIT - - - X -
+                 THX - - - - X

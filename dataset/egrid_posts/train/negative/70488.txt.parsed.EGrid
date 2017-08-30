@@ -1,0 +1,18 @@
+              NOBODY S - - - - - - - - -
+     NETWORK-MANAGER O - - - - - - - - -
+               PANEL - - S - - - - - - -
+              APPLET - - - - O - - - - -
+/ETC/INIT.D/NETWORKMANAGER - - - - X - - - - -
+               START - - - - S - - - - -
+                SUDO - - - - X - - X - -
+           NM-APPLET - - - - X - - - - -
+              SYSTEM - - - - - X - - - -
+               THERE - - - - - S - - - -
+              SCRIPT - - - - - O - - - -
+                  NM - - - - - - S - - -
+                DBUS - - - - - - X - - -
+           NM_APPLET - - - - - - - X - -
+                FORM - - - - - - - - - O
+             ACROBAT - - - - - - - - - X
+              READER - - - - - - - - - X
+               CRASH - - - - - - - - - X

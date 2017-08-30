@@ -1,0 +1,27 @@
+                 NBR S - - - - -
+                 EEE X - - - - -
+                  PC X - - - - -
+              REASON X - - - - -
+                ALSA S - - - - -
+               SOUND X - - - - -
+            SETTINGS O - - - S -
+              REBOOT X - - - - -
+             ALSACTL S - - - - -
+               STORE X - - - - -
+               ERROR O - O - - -
+     SAVE_STATE:1530 X - - - - -
+/VAR/LIB/ALSA/ASOUND.STATE O - - - - -
+          PERMISSION S - - - - -
+             SOMEONE S - - - - -
+                ROOT - X - - - -
+                SUDO - X O X - -
+                HOME - - X - - -
+           DIRECTORY - - S - - -
+                THAT - - - X - -
+              OUTPUT - - - X - -
+                TIME - - - - O -
+                 WAY - - - - O -
+GNOME-VOLUME-CONTROL - - - - O -
+              VOLUME - - - - O -
+           ALSAMIXER - - - - S -
+                 BOT - - - - - X

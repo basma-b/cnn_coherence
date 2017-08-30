@@ -1,0 +1,11 @@
+              VOLUME O - - - - -
+           PARTITION O - - - - -
+                 MBR O - - - - -
+                  FS - X - - - -
+                 GUI - - O - - -
+                EXT4 - - O - - -
+              CONFIG - - - X - -
+              RENAME - - - - X -
+                FILE - - - - O -
+            /USR/LIB - - - - X -
+    CHROMIUM-BROWSER - - - - - X

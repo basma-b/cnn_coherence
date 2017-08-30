@@ -1,0 +1,9 @@
+        /ETC/INITTAB O - - - - -
+              MGETTY X - - - - -
+                BIND X - - - - -
+        /DEV/TTYACM0 X - - - - -
+    /ETC/EVENT.D/TTY - X - - - -
+                   * - X - - - S
+             COMMAND - - - X - -
+              SYSTEM - - - S - -
+                HTTP - - - - - O

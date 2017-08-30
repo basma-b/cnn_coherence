@@ -1,0 +1,15 @@
+               SOUND O - - - X - -
+                 ALL S - - - - - -
+         APPLICATION O - - - - - -
+                TEST X - - - - - -
+                 KEY X - - - - - -
+               ERROR X - - - - - -
+            FREQ=512 O - - - - - -
+      GCONFAUDIOSINK - - - X - - -
+              DEVICE - - - O - - -
+            PLAYBACK - - - X - - -
+             RESTART - - - - X - -
+              VOLUME - - - - - X -
+             CONTROL - - - - - O -
+                 WAY - - - - - X -
+                ALSA - - - - - - O

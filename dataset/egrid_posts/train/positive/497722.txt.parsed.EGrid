@@ -1,0 +1,10 @@
+             COMMAND X - - -
+                LINE X - - -
+             PROGRAM S - - -
+                   | - X - -
+                GREP - X - -
+                  -I - S - -
+           SOMETHING - - O -
+              SEARCH - - - X
+                   < - - - X
+                   > - - - S

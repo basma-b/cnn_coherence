@@ -1,0 +1,17 @@
+                 GDM O - O -
+           RUNLEVELS X - - -
+               LOGIN X - X -
+              SCREEN X - - -
+                BOOT X - S -
+              KARMIC - X - -
+                 ALL - - S -
+             DEFAULT - - X -
+                 RUN - - X -
+               LEVEL - - O -
+        /ETC/INITTAB - - S -
+                   * - - O -
+                FILE - - O -
+                  EH - - S -
+           SOMETHING - - O X
+                THAT - - - X
+              UBUNTU - - - X

@@ -1,0 +1,11 @@
+               SETUP X - - -
+           WEBSERVER O - - -
+              UBUNTU X - - -
+             PACKAGE - X - -
+                CALL - X - -
+                  .. - X - -
+              APACHE - O - -
+              MODULE - S - -
+                SUDO - - - X
+             SERVICE - - - X
+         SERVICENAME - - - S

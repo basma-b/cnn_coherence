@@ -1,0 +1,13 @@
+             METHODS - S - - -
+                 SET - - X - -
+            BOOTFLAG - - S - -
+           PARTITION - - X - -
+                GRUB - - X - -
+             WINDOWS - - S - -
+                BOOT - - X - -
+                FLAG - - O - -
+                 ALL - - - X -
+                  CD - - - X -
+          ALL-IN-ONE - - - - S
+             NETWORK - - - - X
+              DEVICE - - - - O

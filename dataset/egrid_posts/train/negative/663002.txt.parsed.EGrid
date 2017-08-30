@@ -1,0 +1,11 @@
+           PARTITION X - - - -
+               DRIVE X O - - -
+         PERMISSIONS - O - - -
+               PYSDM - X - - -
+                 USE - - O - -
+                SUDO - - - X -
+               FDISK - - - X -
+                  -L - - - S -
+   DRIVES/PARTITIONS - - - S -
+             COMMAND - - - X -
+              DISOWN - - - O -

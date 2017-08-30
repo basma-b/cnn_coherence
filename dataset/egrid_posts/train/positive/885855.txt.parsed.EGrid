@@ -1,0 +1,24 @@
+                BOOT X - X - - - -
+                 ISO X - - - - - -
+                BIOS - X - - - - -
+                THIS - X - - - - -
+               GRUB2 - - S - - - -
+               STICK - - X - - - -
+                HTTP - - O - - - -
+                  TL - - - X - - -
+            CONDENSE - - - O - - -
+                SUDO - - - X - - -
+        GRUB-INSTALL - - - O - - -
+            /DEV/SDX - - - X - - -
+                GRUB - - - O - - -
+            GRUB.CFG - - - S - - -
+                INFO - - - O - - -
+                XFCE - - - - S - -
+              GNOME2 - - - - X - -
+     GNOME3-FALLBACK - - - - X - -
+                THAT - - - - - S -
+            FALLBACK - - - - - X -
+         GNOME-SHELL - - - - - S -
+              COMPIZ - - - - - - X
+COMPIZCONFIG-SETTINGS-MANAGER - - - - - - O
+               THEME - - - - - - O

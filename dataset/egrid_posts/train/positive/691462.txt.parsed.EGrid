@@ -1,0 +1,19 @@
+                 CAN S - - - - - -
+                HELP O - - - - - -
+                SPOT O - - - - - -
+               LSPCI - - S - - - -
+                   | - - S - - - -
+                GREP - - S - - - -
+               AUDIO - - S - - - -
+               SOUND - - S - - - -
+            ANYTHING - - O - - - -
+               GREAT - - X - - - -
+              DRIVER - - - X - - -
+                  CD - - - X - - -
+/PATH/TO/DRIVER/DIRECTORY - - - X - - -
+                SUDO - - - X - - -
+             WINDOWS - - - O X - -
+                GRUB - - - - S - -
+        NTDETECT.COM - - - - X - -
+           PARTITION - - - - X - -
+                IDEA - - - - - - O

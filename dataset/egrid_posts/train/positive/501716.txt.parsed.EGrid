@@ -1,0 +1,10 @@
+                TYPE S -
+                SUDO X -
+/DEV/WHATEVERYOURSDADEVICEIS X -
+     /DEV/SOMEFOLDER O -
+                HARD O -
+                /DEV X -
+   /MEDIA/SOMEFOLDER O -
+                TALK - O
+            ARGUMENT - X
+﻿/DEV/WHATEVERYOURSDADEVICEIS - S

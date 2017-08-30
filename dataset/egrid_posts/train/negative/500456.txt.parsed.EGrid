@@ -1,0 +1,12 @@
+        2.6.24-21.42 X - - -
+                  .. X - - -
+              DEPMOD O - - -
+    UPDATE-INITRAMFS - X - -
+/BOOT/INITRD.IMG-2.6.24-21-SERVER - O - -
+                GRUB - X - -
+            SETTINGS - X - -
+ /BOOT/GRUB/MENU.LST - - S -
+                 MAN - - O -
+                 OK. - - - X
+               DEANY - - - X
+              ADVICE - - - S

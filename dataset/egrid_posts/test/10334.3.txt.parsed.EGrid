@@ -1,0 +1,17 @@
+                BOOT X - - -
+             WINDOWS O - - -
+                   D X - - -
+           PARTICION O - - -
+              FORMAT X - - -
+                SDA4 O - - -
+                 8GB O - - -
+                SWAP X - - -
+                ROOT X - - -
+                FILE X - - -
+              SYSTEM S - - -
+                 ONE X X - -
+        MOUNTPOINT=/ - X - -
+               UNITY - - S -
+               SHELL - - O -
+              GNOME3 - - X -
+                BASE - - - O

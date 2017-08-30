@@ -1,0 +1,17 @@
+                ROOT - X - -
+            TERMINAL - O - -
+                MENU - X - -
+            SHORTCUT - S - -
+                  .. - X - X
+             ANYBODY - X - -
+                 ONE - - O O
+                TYPE - - X -
+                  SU - - X -
+              SECTOR - - - O
+               DRIVE - - - X
+                  DD - - - S
+         IF=/DEV/SDX - - - X
+        OF=/DEV/NULL - - - S
+       WRITE/RE-READ - - - O
+                DATA - - - X
+           SOMETHING - - - S

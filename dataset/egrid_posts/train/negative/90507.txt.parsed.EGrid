@@ -1,0 +1,27 @@
+            LOCATION O - - - - -
+            VMPLAYER O - - - - -
+            QUESTION S - - - - -
+                OOPS O - - - - -
+           DIRECTORY X - - - - -
+                   C X - - - - -
+              HEADER X - - - - -
+                FILE X - - - - -
+                 RUN X - - - - -
+              KERNEL O - S - X -
+                THAT - X - - - -
+/USR/SRC/KERNEL-HEADER - - X - - -
+                   * - - S - - -
+               |GREP - - X - - -
+             HEADERS - - X - O -
+                SHOW - - X - - -
+            ANYTHING - - X - - -
+                DONT - - - X - -
+       LINUX-HEADERS - - - X - -
+      KERNEL-HEADERS - - - X - -
+             PACKAGE - - - O - -
+                  II - - - - X -
+LINUX-KERNEL-HEADERS - - - - S -
+               LINUX - - - - X -
+         DEVELOPMENT - - - - X -
+           UMASK=002 - - - - - S
+                NTFS - - - - - X

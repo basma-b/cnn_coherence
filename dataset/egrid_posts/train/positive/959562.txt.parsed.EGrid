@@ -1,0 +1,16 @@
+           DIRECTORY X - X X X - - - X
+                FILE S - O - X O X - X
+                 A+R O - - - - - - - -
+             DEFAULT X - - - - - X - X
+              SEARCH - X - - - - - - -
+               UMASK - X - - - - - - -
+             COMMAND - O - - - - - - -
+         EXPLANATION - O - - - - - - -
+                 USE - O - - - - - - -
+                /FOO - - S - - - - - -
+                OOPS - - - X - - - - -
+                A+WR - - - - S - - - -
+                THAT - - - - - S - - -
+         PERMISSIONS - - - - - - O - -
+          PERMISSION - - - - - - - - O
+                  .. - - - - - - - - X

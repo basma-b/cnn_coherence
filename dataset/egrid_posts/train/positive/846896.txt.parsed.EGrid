@@ -1,0 +1,17 @@
+                 THE O - - - -
+              CHROOT S - - - -
+             PROGRAM O - - X -
+                ROOT S - - - -
+               DRIVE X - - - -
+               SHELL S - - S -
+          EVERYTHING S - - - -
+             EXAMPLE - X - X -
+               STUFF - - - X -
+              /STUFF - - - X -
+                /BIN - - - X -
+            /USR/BIN - - - X -
+      /USR/LOCAL/BIN - - - X -
+              OTHERS - - - X -
+            BINARIES - - - - O
+                  OS - - - - X
+              KERNEL - - - - O

@@ -1,0 +1,17 @@
+                 ONE X X - - - -
+                TIME - - O - - -
+                TEXT - - O - - -
+                THIS - - S - - -
+                NICK - - X - - -
+           KCOLLECTD - - O - - -
+             PROBLEM - - O - - -
+             COMMAND - - O O - -
+                SUDO - - O - - -
+-DRRD_BASEDIR=/OPT/COLLECTD/VAR/LIB/COLLECTD/MYLAPTOP - - X - - -
+                   $ - - - X - -
+        SUBDIRECTORY - - - X - -
+                 SUD - - - O - -
+                /OPT - - - X - -
+              EXPORT - - - X - -
+           VARIABLES - - - O - -
+                SAME - - - - O -

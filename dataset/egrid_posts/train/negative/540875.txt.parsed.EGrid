@@ -1,0 +1,17 @@
+                SUDO X - - - - - - - -
+                GKSU O - - - - - - - -
+                WORK X - - - - - - - -
+            PASSWORD O O - - - - - - -
+                LINE - O - - - - - - -
+        ALL=NOPASSWD - X - - - - - - -
+                 ALL - X - - - - - - -
+        /ETC/SUDOERS - X - - - - - - -
+             JXANDER - - S - - - - - -
+                USER - - X - - - - - -
+               GROUP - - X - - - - - -
+            SECURITY - - - - O - - - -
+                   $ - - - - - O - - -
+                  IP - - - - - - X - -
+              ROUTER - - - - - - X - -
+                TIME - - - - - - - S -
+               LEASE - - - - - - - O -

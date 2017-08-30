@@ -1,0 +1,23 @@
+             ANYBODY X - - - -
+              KERNEL X - - - -
+                NAME X X - - -
+                CARD S - - - -
+                   * O - - - -
+              HWC0D0 O - - - -
+                HINT X - - - -
+                FILE O X - - -
+/SYS/CLASS/SOUND/INTERFACENAME X - - - -
+          FILESYSTEM - X - - -
+               PLACE - O - - -
+                /SYS - X X - -
+                PROC - X - - -
+             COMMAND - - S - -
+                LOOP - - X - -
+                TREE - - S - -
+               /PROC - - - S -
+           DIRECTORY - - - O -
+                 LVM - - - - S
+           INSTALLER - - - - S
+              OPTION - - - - O
+                 USE - - - - X
+                   U - - - - X

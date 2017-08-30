@@ -1,0 +1,7 @@
+             COMMAND X - - -
+                 USE X - - -
+                FILE O - - -
+               FUSER - - X -
+/VAR/LIB/APT/LISTS/LOCK - - O -
+             NOTHING - - O -
+               NOONE - - S -

@@ -1,0 +1,21 @@
+            OHCI_HCD S - - -
+               PROBE S - - -
+        0000:00:01.2 X - - -
+               ERROR X - - -
+XCHAT_2.6.6-0UBUNTU_I386.DEB O - - -
+             PACKAGE X - - -
+           INSTALLER X - - -
+             NOTHING X - - -
+                WORK X - - -
+                  .. X - - -
+              STATUS X - - -
+                 MSG O - - -
+          DEPENDENCY S - - -
+              ANYONE X - - -
+             FIREFOX - - X -
+                TYPE - - - X
+                THIS - - - X
+            TERMINAL - - - X
+                SUDO - - - X
+             APT-GET - - - S
+               XCHAT - - - O

@@ -1,0 +1,17 @@
+             COMMAND S - - - - - -
+             NETWORK X - X X - - -
+              DEVICE X - - - - - -
+               WLAN0 X - - O - - -
+              ANYONE - X - - - - -
+   IFCONFIG/IWCONFIG - - O - - - -
+                TOOL - - X S - - -
+              UBUNTU - - X - - - -
+               ESSID - - - X - - -
+       CONFIGURATION - - - X - - -
+             OPTIONS - - - O - - -
+              SIMPLE - - - - - X -
+               UPDAT - - - - - X -
+             MANAGER - - - - - O -
+              UPDATE - - - - - O -
+                THAT - - - - - - S
+              KERNEL - - - - - - O

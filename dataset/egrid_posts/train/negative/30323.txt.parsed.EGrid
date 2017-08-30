@@ -1,0 +1,9 @@
+             PACKAGE X - - - - - - - -
+               FRESH - O - - - - - - -
+        DIST-UPGRADE - O - - - - - - -
+              CONFIG - X - - - - - - -
+            /ETC/X11 - - X - - - - - -
+            GRAPHICS - - - - X - - - -
+                CARD - - - - X - - - -
+        FGLRX-DRIVER - - - - - X - - -
+            ETHERNET - - - - - - - X X

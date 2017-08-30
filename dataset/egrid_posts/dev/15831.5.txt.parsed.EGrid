@@ -1,0 +1,11 @@
+          C-COMPILER X - - -
+     BUILD-ESSENTIAL X - - -
+                 GCC S - - -
+                TOOL S - - -
+                 CMD X - - -
+                SUDO - X - -
+             APT-GET - S - -
+             PACKAGE - - O -
+                NEED - - - O
+             SERVICE - - - X
+              RUNNIG - - - O

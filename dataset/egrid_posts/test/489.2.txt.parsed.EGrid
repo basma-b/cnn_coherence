@@ -1,0 +1,12 @@
+                TIME O X O - -
+               12.04 O - - - -
+                WAIT X X - - -
+   /ETC/DEFAULT/GRUB - X - X -
+                FILE - X - - -
+         UPDATE-GRUB - O - - -
+             INITIAL - - S - -
+                CASE - - X - -
+                BOOT - - X - -
+            VARIABLE - - - X -
+         GRU_TIMEOUT - - - O -
+        GRUB_TIMEOUT - - - O -

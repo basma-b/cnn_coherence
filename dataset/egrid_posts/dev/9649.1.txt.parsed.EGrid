@@ -1,0 +1,27 @@
+               RICOH X - - - - - -
+                HOST X - - - - - -
+          CONTROLLER X - - - - - -
+                  O2 X - - - - - -
+               MICRO X - - - - - -
+                INC. X - - - - - -
+              DEVICE X - - - - - -
+             PROG-IF X - - - - - -
+             PROBLEM - X S - - - -
+         DESCRIPTION - X - - - - -
+                  .. - - O - - - O
+                CARD - - X - - - -
+              READER - - O - - - -
+              SDCARD - - O - - - -
+              INSERT - - X - - - -
+               DMESG - - O - - - -
+                HTTP - - X X - - -
+               LSMOD - - - X - - -
+//DPASTE.COM/755639/ - - - S - - -
+            ANYTHING - - - O - - -
+                 BUG - - - - O - -
+               USR13 - - - - - X -
+           ZYKOTICK9 - - - - - X -
+              CONFIG - - - - - - X
+                FILE - - - - - - O
+/ETC/MODEPROBE.D/SDHCI-PCI.CONF - - - - - - S
+              RELOAD - - - - - - X

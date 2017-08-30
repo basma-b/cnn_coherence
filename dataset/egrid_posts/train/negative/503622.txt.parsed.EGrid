@@ -1,0 +1,10 @@
+         NDISWRAPPER X X - -
+              DRIVER X - - -
+             ATH_PCI X - - -
+               V8235 - - - X
+               -RSB- - - - X
+             VIA8233 - - - X
+             ALC650F - - - X
+              0XDC00 - - - X
+              DEVICE - - - O
+                CARD - - - O

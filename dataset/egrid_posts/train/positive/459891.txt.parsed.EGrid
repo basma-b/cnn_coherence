@@ -1,0 +1,13 @@
+                 DAY O - - - - - -
+            ROOTWAIT S - - X - - -
+              OPTION X - - - - - -
+          ROOTDELAY= S - - - - - -
+GRUB_CMDLINE_LINUX_DEFAULT - X - - - - -
+                 CAT - X - - - - -
+       /PROC/CMDLINE - O - - - - -
+         UPDATE-GRUB - O - - - - -
+           ROOTWAIT= - - X - - - -
+               WHILE - - - - - - O
+               SHELL - - - - - - X
+                IDEA - - - - - - X
+                BOOT - - - - - - X

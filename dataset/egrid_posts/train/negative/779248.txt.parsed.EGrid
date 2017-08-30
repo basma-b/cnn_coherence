@@ -1,0 +1,12 @@
+        PROCESS/USER X - - - -
+                FILE O X O - -
+                   A - X - - -
+              AUDITD - O - - -
+                 LOG - X - - -
+              CHANGE - O - - -
+                SUDO - X - - -
+             APT-GET - S - - -
+                  -P - O - - -
+/VAR/LOG/AUDIT/AUDIT.LOG - X - - -
+                 WAY - O - - -
+              ACTION - - X - -

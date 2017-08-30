@@ -1,0 +1,12 @@
+            LOCATION X - - - - -
+                THAT X - - - - -
+            SDL-MAME S - - - - -
+             GMAMEUI S - - - - -
+             CHIPSET - - X - - -
+                   | - - - X - -
+                GREP - - - X - -
+                 VGA - - - X - -
+             TRIDENT - - - - S -
+             SUPPORT - - - - O -
+              CUSTOM - - - - - X
+           XORG.CONF - - - - - O

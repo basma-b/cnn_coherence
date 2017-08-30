@@ -1,0 +1,16 @@
+               POINT X X - - - -
+         PERMISSIONS S - - - - -
+                 DIR - S - - - -
+                ROOT - O - - - -
+                CANT - X - - - -
+         EDIT/DELETE - S - - - -
+                THER - X - - - -
+                DIRS - S - - - -
+                PERM - X - - - -
+                 USE - O - - - -
+     PERMA/OWNERSHIP - - S - - -
+              PARAMS - - X - - -
+          PREMISSION - - - - O -
+                 UID - - - - X -
+                 GID - - - - X -
+                 YUP - - - - - X

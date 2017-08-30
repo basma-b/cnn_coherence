@@ -1,0 +1,10 @@
+                NTFS X - - -
+           PARTITION X - - -
+               MOUNT - X - -
+              -TNTFS - X - O
+      /DEV/SOMETHING - S - -
+                -ORW - - - S
+             COMMAND - - - X
+              VOLUME - - - S
+             NTFS-3G - - - O
+           -TNTFS-3G - - - X

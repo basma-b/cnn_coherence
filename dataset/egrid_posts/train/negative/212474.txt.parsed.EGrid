@@ -1,0 +1,6 @@
+           PARTITION X O -
+              LIVECD - X -
+                NTFS - O -
+             APT-GET - - S
+                   > - - O
+             VERSION - - X

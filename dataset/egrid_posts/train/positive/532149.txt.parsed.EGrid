@@ -1,0 +1,13 @@
+                TIME X - - -
+              SCRIPT O - - -
+             COMMAND O - - -
+        TRANSMISSION O O - S
+               SLEEP X - - -
+                  5H X - - -
+                ROOT X X - -
+          PRIVLEDGES X - - -
+                SUDO - X - -
+                BASH - X - -
+           SCRIPT.SH - S - -
+           PRIVILEGE - X - -
+             KILLALL - - - X

@@ -1,0 +1,12 @@
+                 ALL S - - -
+                UTIL S - - -
+              BACKUP - X - -
+             UTILITY - X - -
+               LINUX - X - -
+            /BIN/TAR - - X -
+                   / - - X -
+     EXCLUDE=/BACKUP - - X -
+                   * - - X -
+               THERE - - - X
+           SOLUTIONS - - - X
+       OPTIMIZATIONS - - - X

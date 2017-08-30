@@ -1,0 +1,12 @@
+                7.04 S - - - -
+             OPENSSH X - - - -
+             APT-GET X X - - -
+              CLIENT - S - - -
+             DEFAULT - X - - -
+              SERVER - S - - -
+             NETWORK - - - - X
+               ADMIN - - - - S
+            SETTINGS - - - - O
+                DHCP - - - - X
+             GATEWAY - - - - X
+                 DNS - - - - X

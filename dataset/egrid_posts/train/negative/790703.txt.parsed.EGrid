@@ -1,0 +1,18 @@
+             SERVICE X - - - -
+        DHCP3-SERVER X - - - -
+               START S - - - -
+               CHECK X - - - -
+              SYSLOG X - O - -
+         DIAGNOSTICS X - - - -
+               DMESG - S - - -
+              OUTPUT - O O - -
+                NOTE - - X - -
+             PACKAGE - - X - -
+           CONFIGURE - - O - -
+               THERE - - S - -
+             NOTHING - - X - -
+   /VAR/LOG/MESSAGES - - X - -
+           /VAR/LOG/ - - - X -
+                 TRY - - - - X
+                HTTP - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/SOFTWARE-CENTER/+FILEBUG - - - - X

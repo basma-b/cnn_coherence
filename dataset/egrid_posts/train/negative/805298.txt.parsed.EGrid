@@ -1,0 +1,13 @@
+         DIRECTORIES S - - - -
+           LOCALHOST X - - - -
+               CHMOD - O - - -
+          EVERYTHING - X - - -
+              APACHE - X - - -
+                DICE - X - - -
+                FILE - X - - -
+      SUBDIRECTORIES - X - - -
+            /VAR/WWW - O - - -
+                BITE - - - X -
+             MACHINE - - - X -
+              MEMORY - - - - O
+                MAKE - - - - S

@@ -1,0 +1,13 @@
+             MACHINE O - - - -
+              SERVER X - - - -
+               12.04 S - - - -
+                  IM S - - - -
+                QEMU O - - - -
+            QEMU-KVM - X - - -
+                 CPU - - S - -
+                VT-X - - O - -
+              GUESTS - - O - -
+                TERM - - - X -
+            DESKTOPS - - - X -
+            NOTEBOOK - - - - O
+           LOCATIONS - - - - X

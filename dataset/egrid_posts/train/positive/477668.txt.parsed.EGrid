@@ -1,0 +1,17 @@
+                 DAY X - - - - -
+                DISK X - - - - -
+               IMAGE X - - - - -
+                 USE O - - - - -
+                  DD X - - - - X
+         IF=/DEV/SDA S - - - - -
+    /HOME/SDA.BIN.GZ O - - - - -
+               DRIVE X - - - - -
+                FILE - X - O - -
+          SDA.BIN.GZ - O - - - X
+                TYPE - X - - - -
+                   A - - - S - -
+                 PIP - - - - X -
+              METHOD - - - - X -
+                 HDD - - - - X -
+                GZIP - - - - - X
+         OF=/DEV/SDA - - - - - O

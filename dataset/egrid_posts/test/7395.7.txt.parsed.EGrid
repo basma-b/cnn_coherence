@@ -1,0 +1,16 @@
+             COMMAND O - - - - - -
+                FILE O - O - - - -
+/ETC/APT/SOURCES.LIST X - - - - - -
+                  .. X - - - - - -
+             MISTAKE - X - - - - -
+/ETC/APT/SOURCES.LIST.D/ - - X - - - -
+              FOLDER - - - - O - -
+            LOCATION - - - - - S -
+                  -S - - - - - X -
+             WINDOWS - - - - - X -
+   LOCAL_FOLDER_NAME - - - - - S -
+             DEFAULT - - - - - X -
+              UBUNTU - - - - - X -
+             DESKTOP - - - - - X -
+         ENVIRONMENT - - - - - S -
+                  NP - - - - - - X

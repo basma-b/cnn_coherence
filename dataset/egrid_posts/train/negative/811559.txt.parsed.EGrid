@@ -1,0 +1,10 @@
+                FILE X X X - -
+               REPOS O O O - -
+                 APT X X X - -
+/ETC/APT/SOURCES.LIST - - - X -
+      SOURCES.LIST.D - - - X -
+                  .. - - - - X
+          PHPMYADMIN - - - - X
+             COMMAND - - - - X
+             APT-GET - - - - S
+               TRACE - - - - X

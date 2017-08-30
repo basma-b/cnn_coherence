@@ -1,0 +1,12 @@
+             PROCESS X - - -
+              CHANGE - O - -
+              PARENT - O - -
+                  PS - - X -
+            AUX|GREP - - X -
+              TELNET - - S -
+                   | - - S -
+                  S+ - - O -
+                GREP - - X -
+              OUTPUT - - X -
+                 YUP - - O -
+                THAT - - - O

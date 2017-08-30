@@ -1,0 +1,16 @@
+                THAT S - - - -
+       CONFIGURATION X - - - -
+                LINE O - - X -
+/ETC/NETWORK/INTERFACES X - - - -
+                ETH0 X - - - -
+               BLOCK X - - - -
+      /SBIN/IPTABLES S - - - -
+           ARGUMENTS O - - - -
+                   > X - - - -
+                INET X - - - -
+            LOOPBACK X - - - -
+                  LO - X - - -
+                RULE - S - - -
+              INDENT - - - O -
+         INDENTATION - - - - S
+             PURPOSE - - - - O

@@ -1,0 +1,8 @@
+              ANYONE X - - -
+STANDBY/SHUTDOWN/SUSPEND X - - -
+             OPTIONS - X - -
+               USERS - S - -
+          UMASK=0222 - - O -
+                SUDO - - X -
+                  SH - - X -
+                DIFF - - - X

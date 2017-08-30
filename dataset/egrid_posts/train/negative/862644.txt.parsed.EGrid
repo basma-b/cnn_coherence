@@ -1,0 +1,18 @@
+     DO-DIST-UPGRADE X - - - - -
+                 W/E O - - - - -
+             COMMAND S - - - - -
+                POST O - - - - -
+                LACK X - - - - -
+             NETWORK X - - - - -
+             PROBLEM S - - - - -
+             SERVER/ - X - - - -
+              SYSTEM - O - - - -
+                SUDO - - X - - -
+            APTITUDE - - S - - -
+             APT-GET - - S - - -
+                HTTP - - O - - -
+              SOURCE - - X X X -
+                LIST - - - - S -
+               STORE - - - - O -
+/ETC/APT/SOURCES.LIST - - - - X -
+              INSTAL - - - - - O

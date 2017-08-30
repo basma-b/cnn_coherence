@@ -1,0 +1,16 @@
+                TIME X - - - - - - -
+                DISK S - - - - - - -
+              ACCESS O - - - - - - -
+                 LOT X - O - - - - -
+                 HDD S X - - - - - -
+              FREEZE X - - - - X - -
+                 ACE - O - - - - - -
+               SOUND - - S - - - - -
+              SYSTEM - - X - - S - -
+                SWAP - - - O - - - -
+       SYSTEMMONITOR - - - S - - - -
+            TERMINAL - - - - O - - -
+                  -B - - - - O - - -
+   /VAR/LOG/KERN.LOG - - - - - - X -
+                FILE - - - - - - O -
+             DEFAULT - - - - - - - X

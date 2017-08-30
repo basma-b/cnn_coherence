@@ -1,0 +1,17 @@
+                TIME S - - -
+    /ETC/RESOLV.CONF O S X -
+             NETWORK X - - -
+             SERVICE O - - -
+              EFFECT - O - -
+                DHCP - O - -
+                 DNS - O - -
+                 IPS - O - -
+                 MAN - X - -
+          RESOLVCONF - X - -
+                WORK - O - -
+              STATIC - - O -
+/ETC/RESOLV.CONF.DHCLIENT-NEW - - X -
+           OPERATION - - X -
+              SEARCH - - O -
+            SOLUTION - - X -
+          NAMESERVER - - - S

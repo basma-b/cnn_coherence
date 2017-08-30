@@ -1,0 +1,13 @@
+             COMMAND X - - - -
+                SUDO X - - - -
+             APT-GET S - - - -
+            RESPONSE S - - - -
+             PACKAGE X - X X -
+                 XYZ O - - - -
+                HELP - X - - -
+              SEARCH - - X - -
+               -RSB- - - X - -
+            APTITUDE - - O - -
+                LIST - - O O -
+              SOURCE - - - - O
+                HAND - - - - X

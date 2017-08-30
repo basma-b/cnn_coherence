@@ -1,0 +1,13 @@
+                 HEY X - -
+                 GUY S - -
+          PULSEAUDIO X X -
+             PROCESS X - -
+               SETUP - X -
+                SUDO - X -
+/ETC/INIT.D/PULSEAUDIO - X -
+                STOP - X -
+                  .. - - X
+               CHMOD - - X
+                 U+S - - S
+              SETUID - - O
+            ANYTHING - - O

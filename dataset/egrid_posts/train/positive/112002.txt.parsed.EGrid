@@ -1,0 +1,17 @@
+              RESCUE - S - - - -
+              TARGET - X - - - -
+               DRIVE - X O - X -
+                   / - X - - - -
+                SDA1 - X - - - -
+                GRUB - O - - - -
+           ./DEV/SDA - X - - - -
+          DIRECTIONS - X - - - -
+                 HDA - X - - - -
+             INSTALL - - X - - -
+                 IDE - - S - - -
+           /DEV/HDA4 - - X - - -
+                THIS - - - S - -
+           PARTITION - - - - O -
+            /DEV/SDA - - - - S X
+              DEVICE - - - - O -
+                   * - - - - - X

@@ -1,0 +1,16 @@
+                FILE O - - - - -
+             COMMAND O - - - - -
+             DESKTOP - X - - - -
+              SCRIPT - O - - - -
+                CALL - S - - - -
+             /BIN/SH - X - - - -
+           /BIN/BASH - O - - - -
+            BASHISMS - O - - - -
+                 GUI - - X - - -
+                 DOS - - - X - -
+            EMULATOR - - - O - -
+              DOSBOX - - - - - X
+            VARIABLE - - - - - O
+           EXECUTION - - - - - O
+                LINE - - - - - X
+          WHATEVER=0 - - - - - X

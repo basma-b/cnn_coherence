@@ -1,0 +1,9 @@
+                FILE O - - - - -
+                 TAR - X - - - -
+              GUNZIP - X - - - -
+               UNZIP - - O - - -
+                 ZIP - - X - - -
+             DEFAULT - - X - - -
+               PANEL - - - - O -
+             KILLALL - - - - - X
+         GNOME-PANEL - - - - - X

@@ -1,0 +1,15 @@
+             MACHINE X X -
+                USB2 X - -
+              OUTPUT X - -
+                GREP X - -
+                EHCI X - -
+               LSMOD - X -
+                   | - S -
+              RETURN - X -
+             NOTHING - O -
+                 TRY - X -
+                SUDO - X -
+                ROOT - - X
+             ACCOUNT - - X
+                  -V - - O
+             SYSTEMS - - X

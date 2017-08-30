@@ -1,0 +1,16 @@
+              SERVER X X -
+                SFTP X X -
+              ACCESS - O -
+                ROOT - X -
+                 BOX - X -
+              BRANCH - X -
+                 USE - X -
+                 BZR - O -
+             VERSION - X -
+             CONTROL - X -
+              SYSTEM - X -
+            COMPUTER - X -
+                 ZFS - - S
+             UPGRADE - - O
+                  .. - - X
+                  FS - - O

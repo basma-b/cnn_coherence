@@ -1,0 +1,10 @@
+              SCRIPT S - - - O
+             STARTUP X - - - -
+                USER S - - - -
+         /ETC/INIT.D - X - - -
+                LINK - - X - O
+/ETC/INIT.D/SCRIPTNAME - - X - -
+/ETC/RC2.D/SCRIPTNAME - - O - -
+                 YES - - - - X
+              NUMBER - - - - X
+                INIT - - - - X

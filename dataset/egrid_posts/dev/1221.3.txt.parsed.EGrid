@@ -1,0 +1,13 @@
+                SUDO S - - X
+             PACKAGE O - X -
+              PITIVI - - O -
+             APT-GET - - S -
+                   > - - O -
+         FIX-MISSING - - X -
+                  -A - - X -
+                 USE - - - X
+            SMBMOUNT - - - O
+               SHELL - - - X
+                CIFS - - - O
+      USER=KRISKROPD - - - X
+             PASWORD - - - X

@@ -1,0 +1,19 @@
+               SOME1 S - - - - - - -
+             PRINTER O S - - - - - -
+              SERVER X - - - - - - -
+              ACCESS - O - - - - - -
+             CLIENTS - X - - - - - -
+                TYPE - X - - - - - -
+             COMMAND - X - - - - - -
+             LPADMIN - O - - - X - -
+          EPSONLX300 - X - - - X - -
+                  -V - X - - - - - -
+                 USB - X - - - X - -
+                  -U - S - - - S - -
+                 ALL - X - - - X - -
+                 PUT - - - - - X - -
+                SUDO - - - - - S - -
+               START - - - - - O - -
+                ROOT - - - - - X X X
+SYSADMIN-UBUNTUSERVER - - - - - X - -
+                   ~ - - - - - X - -

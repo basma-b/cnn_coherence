@@ -1,0 +1,8 @@
+                ROOT X - -
+                FILE X - -
+              SYSTEM X - -
+                ACLS O - -
+             REMOUNT - O -
+            /MNT/FOO - O -
+                THAT - - S
+                  -I - - X

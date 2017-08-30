@@ -1,0 +1,13 @@
+              SERVER X - - - - -
+  DO-RELEASE-UPGRADE - O - - - -
+               SHELL - S - - - -
+              APACHE - X - - - -
+              CONFIG - X - - - -
+              CTRL-C - O - - - -
+              UPDATE - - - X - -
+                LOCK - - - - X -
+  /VAR/LIB/DPKG/LOCK - - - - O -
+              WINDOW - - - - - X
+         DECORATIONS - - - - - O
+               EVENT - - - - - O
+               ERROR - - - - - O

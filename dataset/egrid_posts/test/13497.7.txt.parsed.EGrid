@@ -1,0 +1,24 @@
+              INSTAL X - - - - - - - - -
+                SWAP X X - - - X - - - -
+           PARTITION X S - - O O - - - -
+            ANYTHING - - O - - - - - - -
+                WORK - - O - - - - - - -
+               THING - - - - X - - - - -
+               CLICK - - - - X - - - - -
+              SWAPON - - - - X - - - - -
+               UUID= - - - - - X - - - -
+                NONE - - - - - - S - - -
+                 USE - - - - - - X - - -
+               BLKID - - - - - - X - - -
+         DEFINITIONS - - - - - - - O - -
+              APACHE - - - - - - - X - -
+                HOST - - - - - - - X - -
+                FILE - - - - - - - X - -
+/ETC/APACHE2/SITES-AVAILABLE - - - - - - - X - -
+                THAT - - - - - - - - - S
+              MYSITE - - - - - - - - - S
+               POINT - - - - - - - - - O
+/SITES-AVAILABLE/MYSITE - - - - - - - - - X
+          APACHE2CTL - - - - - - - - - X
+          CONFIGTEST - - - - - - - - - S
+                 LOG - - - - - - - - - S

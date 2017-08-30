@@ -1,0 +1,11 @@
+                EXT4 X X - -
+                SWAP X - - -
+           PARTITION O - - -
+             ISNTALL O - - -
+               SPACE X - - -
+              SIMPLE - S - -
+                 ONE - O - -
+                 CAT - - X -
+    /ETC/LSB-RELEASE - - X -
+              OUTPUT - - S -
+              KERNEL - - - O

@@ -1,0 +1,31 @@
+               10.10 O - - - - -
+          VIRTUALBOX O - - S - -
+                BOOT X - - - - -
+               IMAGE X X - O - X
+                 END X - - - - -
+              SCREEN X - - - - -
+                  CD - X - - - -
+             SHA1SUM - O - - - -
+             PROBLEM - - O S - -
+              ANYONE - - X - - -
+               THERE - - - S - -
+  MKINITCPIO-BUSYBOX - - - X - -
+             DEFAULT - - - X - -
+                 ONE - - - O - -
+          REPOSITORY - - - X - -
+             MESSAGE - - - X - -
+          REDOWNLOAD - - - X - -
+               ERROR - - - O - -
+               CAUSE - - - X - -
+                HTTP - - - X X -
+//RELEASES.UBUNTU.COM/ - - - X S -
+                 URL - - - S - -
+               BREAK - - - O - -
+//WWW.UBUNTU.COM/DESKTOP/GET-UBUNTU/DOWNLOAD - - - O - -
+                WORK - - - - O -
+          QUOTATIONS - - - - S -
+               CHECK - - - - - X
+              MD5SUM - - - - - O
+              SH1SUM - - - - - O
+            SH256SUM - - - - - O
+                 ALL - - - - - S

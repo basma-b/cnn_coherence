@@ -1,0 +1,10 @@
+            SECURITY X - - -
+            APPARMOR X - - -
+      IMPLEMENTATION X - - -
+                  VS X - - -
+             SELINUX X - - -
+             DESKTOP - X - -
+                 GDM - - - S
+              KERNEL - - - S
+             NOTHING - - - O
+               OTHER - - - X

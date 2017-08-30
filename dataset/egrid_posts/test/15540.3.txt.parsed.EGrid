@@ -1,0 +1,26 @@
+                HEAD X - - - - - - - -
+                TAIL O - - - - - - - -
+             SUDOERS X - - - - - - - -
+             MANPAGE X - - - - - - - -
+                USER - X - - - - - - -
+               GROUP - O - - - - - - -
+          PERMISSION - O - - - - - - -
+             COMMAND - X - - - X S - -
+            PASSWORD - X - - - - X - -
+                 ALL - - S O X - - - -
+            EXAMPLES - - S - - - - - -
+                WHAT - - O - - - - - -
+               HTTPS - - - X - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/SUDOERS - - - S - - - - -
+                READ - - - O - - - - -
+               THERE - - - S - - - - -
+             EXAMPLE - - - O - - - - -
+             NOTHING - - - - X - - - -
+           SOMETHING - - - - - X - - -
+            NOPASSWD - - - - - X - - -
+                  // - - - - - O X - -
+               ERROR - - - - - - X - -
+                THIS - - - - - - - - S
+             SUPPORT - - - - - - - - X
+             CHANNEL - - - - - - - - O
+          DISCUSSION - - - - - - - - X

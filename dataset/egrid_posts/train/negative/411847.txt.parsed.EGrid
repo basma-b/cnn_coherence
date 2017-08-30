@@ -1,0 +1,10 @@
+               2.4.0 O - - - -
+              SOURCE X - - - -
+      LIBPURPLE.SO.0 - O - - -
+      /USR/LOCAL/LIB - X X - -
+           /USR/LIB/ - X - - -
+              ANYONE - - X - -
+                   $ - - - X -
+              EXPORT - - - X -
+LD_LIBRARY_PATH=/USR/LOCAL/LIB - - - X -
+             01:00.0 - - - - O

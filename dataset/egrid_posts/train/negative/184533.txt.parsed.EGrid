@@ -1,0 +1,17 @@
+             COMMAND X - - - -
+                CODE X - - - -
+             STARTUP X - - - -
+                TIME - X - - -
+                SUDO - X - - -
+            MODPROBE - X - - -
+         NDISWRAPPER - O - - -
+               WLAN0 - S - - -
+             NETWORK - X X - -
+          INTERFACES - X - - -
+                FILE - X - - X
+           YESTERDAY - O - - -
+                 ONE - X - - -
+/ETC/NETWORK/INTERFACES - - X - -
+               ENTRY - - X - -
+                CARD - - X - -
+           DIRECTORY - - - - X

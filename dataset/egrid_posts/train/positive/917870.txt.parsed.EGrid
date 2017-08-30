@@ -1,0 +1,14 @@
+                ACPI X - - - -
+                DELL - X - - -
+                 AHA - - X - -
+                500M - - X - -
+                  TA - - S - -
+                NANO - - X - -
+/BOOT/GRUB/MENU.LIST - - S - -
+              KERNEL - - X - -
+          PARAMETERS - - X - -
+                WIFI - - S - -
+             PROBLEM - - O - -
+             COMMENT - - - O -
+                  OT - - - S -
+         UPDATE-GRUB - - - X -

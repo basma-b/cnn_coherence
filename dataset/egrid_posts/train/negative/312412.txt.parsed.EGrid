@@ -1,0 +1,9 @@
+              KERNEL X S - -
+                 SMP X X - -
+             DEFAULT - X - -
+                BOOT - - X -
+                ROOT - - X X
+           PARTITION - - X O
+                  IE - - X -
+        GRUB-INSTALL - - - S
+                   / - - - O

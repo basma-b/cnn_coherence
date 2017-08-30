@@ -1,0 +1,12 @@
+                  IP X S X - - -
+                 BOX - - O - - -
+                 HUB - - X - - -
+              ROUTER - - X - - -
+              SWITCH - - X - - -
+            INTERNET - - X - - -
+                DHCP - - X - - -
+               SHARE - - O - - -
+            IFCONFIG - - X - - -
+                   * - - - X - -
+               ROUTE - - - - - X
+                 USE - - - - - X

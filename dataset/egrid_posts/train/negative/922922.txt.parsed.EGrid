@@ -1,0 +1,15 @@
+                  CC X - - -
+                PATH X - - -
+                 GCC S - - -
+             INSTALL O - - -
+             DRIVERS - X - -
+                 ^^^ - O - -
+                SUDO - - X -
+             APT-GET - - S -
+        META-PACKAGE - - O -
+               STUFF - - X -
+                NEED - - S -
+             KILLALL - - X -
+         GNOME-PANEL - - X -
+                WORK - - - X
+                CALL - - - X

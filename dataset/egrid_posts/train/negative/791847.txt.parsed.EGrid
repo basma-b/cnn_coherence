@@ -1,0 +1,13 @@
+           PARTITION X X X X - - -
+                GRUB O O O - - - -
+              INSTAL S S S - - - -
+                 MAC X X X - - - -
+                MINI X X X - - - -
+                 MBR - - - X - - -
+                THAT - - - - X - -
+            /DEV/SDA - - - - - X -
+              SYSTEM - - - - - - X
+                   > - - - - - - X
+         PREFERENCES - - - - - - S
+               SOUND - - - - - - X
+                TEST - - - - - - O

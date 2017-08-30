@@ -1,0 +1,6 @@
+           PARTITION O X -
+              FORMAT X - -
+                DISK O - -
+                SWAP S - -
+                  .. - O -
+                 HUH - - O

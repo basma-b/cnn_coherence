@@ -1,0 +1,15 @@
+           DIRECTORY X - -
+              CONFIG X - -
+                FILE X - -
+              VOLUME X X -
+                ICON X X -
+               CLOCK - X -
+               CLICK - S -
+           INDICATOR - X -
+              APPLET - X -
+                LOOK - O -
+                SUDO - - X
+             APT-GET - - S
+            SENDMAIL - - O
+             POSTFIX - - O
+              BINARY - - O

@@ -1,0 +1,23 @@
+                 ONE S - - - -
+                CARD O - - - -
+             HOTPLUG X - X - -
+              DRIVER X S - - -
+                 USE X - O - -
+             DRIVERS - O - - -
+/ETC/HOTPLUG/BLACKLIST - X - - O
+             EXAMPLE - X - - -
+             AIRPORT - X X - -
+               IBOOK - O - - -
+              MODULE - S - - -
+                CALL - O - - -
+                  .. - - X - -
+               LSMOD - - S - -
+                OOPS - - S - -
+                TYPE - - X - X
+                 YEA - - X - -
+           BLACKLIST - - X - -
+                LOAD - - O - -
+ /ETC/INIT.D/HOTPLUG - - - S -
+                PICO - - - - X
+                LINE - - - - O
+                 END - - - - X

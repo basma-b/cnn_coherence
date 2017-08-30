@@ -1,0 +1,16 @@
+                  CD X - - - - - - - -
+           PARTITION O X - - - - - - -
+                DATA O - - - - - - - -
+              UBUNTU X - - - - - - - -
+             WINDOWS X - - - - - - - -
+             GPARTED - S - - - - - - -
+              MOTION - X - - - - - - -
+              RESIZE - X - - - - - - -
+                THIS - - S - - - - - -
+                 LOG - - O - - - - - -
+             COMMAND - - X - - - - - -
+                LINE - - X - - - - - -
+             ANYBODY - - S - - - - - -
+            /DEV/HDA - - - X - X - - -
+          READ/WRITE - - - X - X - - -
+              SYSTEM - - - - - - - O -

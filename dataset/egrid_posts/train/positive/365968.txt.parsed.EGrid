@@ -1,0 +1,17 @@
+          RESOLUTION O - - - - - - - - - -
+                BOOT X - - - - - - - - - -
+               80X25 - X - - - - - - - - -
+                MORE - X - - - - - - - - -
+                GRUB - - X - - - - - - - -
+            MENU.LST - - S - - - - - - - -
+              OPTION - - O - - - - - - - -
+                 FLY - - X X - - - - - - -
+             COMMAND - - O X - - - - - - -
+                THIS - - O - - - - - - - -
+                  OS - - X - - - - - - - -
+              REBOOT - - X - - - - - - - -
+                 10X - - - O - - - - - - -
+         FRAMEBUFFER - - - - O - - O - - -
+             DEFAULT - - - - - - - - - X -
+               VIDEO - - - - - - - - - - X
+                CARD - - - - - - - - - - X

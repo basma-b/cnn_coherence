@@ -1,0 +1,17 @@
+                SOME S - - - - -
+          CONNECTION X - - - - -
+             PROBLEM X - - - - -
+                 USE X - - - - -
+               PPPOE X - - - - -
+              DETAIL - X - - - -
+                   > - S - - - -
+           INTERFACE - S - - - -
+                ROUT - X - - - -
+              OUTPUT - - X - - -
+               ROUTE - - X - - -
+                 DAT - - X - - -
+                TYPE - - O - - -
+            TERMINAL - - X - - -
+/ETC/NETWORK/INTERFACES - - - O - -
+          NAMESERVER - - - O - O
+       CONFIGURATION - - - - - X

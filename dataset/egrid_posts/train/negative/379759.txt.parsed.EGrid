@@ -1,0 +1,16 @@
+         ALSADRIVERS X - - - - - - - - - -
+             PROBLEM - - X - - - - - - - -
+        DISTRIBUTION - - - X - - - - - - -
+             UPGRADE - - - X - - - - - - -
+              UPDATE - - - X - - - - - - -
+              KERNEL - - - X - S X S - - -
+             DRIVERS - - - - X - - - - - -
+                 BOX - - - - X - - - - - -
+                BOOT - - - - - - X - - - -
+                GRUB - - - - - - X X - - -
+                MENU - - - - - - X X - - -
+               SOUND - - - - - - - S - - -
+              REBOOT - - - - - - - O - - -
+             MACHINE - - - - - - - X - - -
+                 ESC - - - - - - - O - - -
+                YEAP - - - - - - - - S - -

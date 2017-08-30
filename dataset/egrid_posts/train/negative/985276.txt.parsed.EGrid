@@ -1,0 +1,9 @@
+             DEFAULT X - -
+             REFRESH X - -
+                RATE X - -
+             MONITOR X - -
+                SUDO - X -
+    DPKG-RECONFIGURE - X -
+        XSERVER-XORG - X -
+                IPCS - - O
+                 MAN - - X

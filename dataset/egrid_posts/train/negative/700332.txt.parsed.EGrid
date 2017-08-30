@@ -1,0 +1,15 @@
+             NETWORK X S -
+             SERVICE O X -
+             COMMAND - X -
+                SUDO - X -
+/ETC/INIT.D/NETWORKING - S -
+     NETWORK-MANAGER - O -
+                WONT - X -
+                HELP - S -
+                THIS - X -
+              ROUTER - S -
+                DIAL - X -
+           PRINCIPLE - X -
+/ETC/INIT.D/NETWORK-MANAGER - S -
+                WORK - - O
+                 NOW - - X

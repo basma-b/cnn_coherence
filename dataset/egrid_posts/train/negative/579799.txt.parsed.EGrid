@@ -1,0 +1,14 @@
+                 THE S - -
+           PARTITION S - -
+              DETAIL O - -
+           /DEV/SDA1 S - -
+                TYPE X - -
+                EXT3 X - -
+                  RW X - -
+                SYNC X - -
+            USER=ERB X - -
+          PERMISSION X - -
+               ERROR O - -
+               CHECK - S -
+               UMASK - X -
+              OPTION - O -

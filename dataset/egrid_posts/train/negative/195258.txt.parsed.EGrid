@@ -1,0 +1,26 @@
+                 TIP X - - - - - - - -
+               IFACE - X - - - - - X -
+          UEAGLE-ATM - X - - O - - O -
+                INET - X - - X - - X -
+            PROVIDER - X - - X - - - -
+/ETC/NETWORK/INTERFACES - X - X X - - - -
+              FRIEND - - - X - - - - -
+            COMPUTER - - - O - - - - -
+                LOAD - - - O - - - - -
+                 PPP - - - - S - - - -
+             COMMAND - - - - O - - - -
+          CONNECTION - - - - S - - O -
+                CALL - - - - X - - - -
+                LINE - - - - - - O X -
+                PPPD - - - - - - - S -
+                   < - - - - - - - X -
+           INTERFACE - - - - - - - X -
+                   > - - - - - - - X -
+                CASE - - - - - - - X -
+               PPPOA - - - - - - - X -
+                 USB - - - - - - - X -
+              DEBIAN - - - - - - - - X
+                7.04 - - - - - - - - O
+                  IM - - - - - - - - O
+                ETCH - - - - - - - - S
+             SUPPORT - - - - - - - - O

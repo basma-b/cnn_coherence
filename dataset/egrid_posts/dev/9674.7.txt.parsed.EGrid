@@ -1,0 +1,17 @@
+              UBUNTU X - - - - - - -
+              VESAFB X - - - - - - -
+                THAT - S - - - - - S
+                BIOS - X - - - - - -
+              DRIVER - O - - - - - -
+               VTTYS - X - - - - - -
+                PART - - - O - - - -
+              INITRD - - - X - - - -
+               LSMOD - - - - S - - -
+              MODULE - - - - O - - -
+/ETC/MODPROBE.D/WHATEVER.CONF - - - - - X - -
+           BLACKLIST - - - - - - X -
+                FILE - - - - - - - X
+                   * - - - - - - - X
+                .ISO - - - - - - - O
+               DRIVE - - - - - - - X
+                  DD - - - - - - - X

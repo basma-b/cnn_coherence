@@ -1,0 +1,26 @@
+              RELOAD X - - - -
+          ADD/REMOVE X - - - -
+        APPLICATIONS X - - - -
+               ERROR X O - - -
+                DPKG X - - - -
+                  -A X - - - -
+                THIS O - - - -
+            TERMINAL X - - - -
+                SUDO X X - - -
+            RESPONSE X - - - -
+                 PKG X - - - -
+               PARSE X - - - -
+/VAR/LIB/DPKG/UPDATES/0059 X - - - -
+                LINE X - - - -
+               FIELD X - - - -
+                NAME S - - - -
+               COLON S - - - -
+               IDEAS - O - - -
+             APT-GET - S - - -
+              UPDATE - O - - -
+             UPGRADE - O - - -
+             PACKAGE - X - - -
+             PROGRAM - - X - -
+               FLASH - - - - S
+                 FIX - - - - O
+                8.10 - - - - X

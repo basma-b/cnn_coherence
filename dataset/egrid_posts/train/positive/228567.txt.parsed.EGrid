@@ -1,0 +1,16 @@
+             PROCESS X - - - - -
+                 ONE S - - - - -
+          HARDDRIVES X - - - - -
+                LSOF S - - - S -
+                LIST X - - - - -
+                FILE X - - - - -
+         DESCRIPTORS X - - - - -
+              DEVICE S - - - - -
+               |GREP - X - - - -
+                HDC1 - O - X - -
+             NOTHING - O - - - -
+               IDEAS - X - - - -
+               FUSER - - - - X -
+               STUMP - - - - O -
+                  PS - - - - - X
+                AXUF - - - - - S

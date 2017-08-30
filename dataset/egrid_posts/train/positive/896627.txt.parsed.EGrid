@@ -1,0 +1,5 @@
+             COMMAND O - - -
+  ADD-APT-REPOSITORY X - - -
+                WORK X - - -
+                 PPA O - - O
+             PACKAGE O O - -

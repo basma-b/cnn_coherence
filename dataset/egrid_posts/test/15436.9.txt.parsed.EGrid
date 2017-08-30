@@ -1,0 +1,7 @@
+              CHANGE X - - -
+DEFAULT_FORWARD_POLICY= X - - -
+                DROP X - - -
+    /ETC/DEFAULT/UFW X - - -
+                 UFW - O - -
+            IPTABLES - X - -
+                RULE - O - -

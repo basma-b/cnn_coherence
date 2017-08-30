@@ -1,0 +1,14 @@
+           LOGROTATE S - - - -
+                 LOG S - - - -
+                SIZE X - - - -
+             OPTIONS - O - - -
+ /ETC/LOGROTATE.CONF - X - - -
+           ADVERSION - - - X -
+             COMMAND - - - O -
+              RESULT - - - X -
+           INABILITY - - - X -
+                TYPE - - - X -
+                FILE - - - - X
+         PERMISSIONS - - - - S
+             MANAGER - - - - X
+              WINDOW - - - - X

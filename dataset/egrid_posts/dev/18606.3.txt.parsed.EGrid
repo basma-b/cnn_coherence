@@ -1,0 +1,11 @@
+                   U X - -
+            WIRELESS O - -
+                 PAN - O -
+                READ - X -
+                 PAM - X -
+               LSPCI - - X
+                 -NN - - X
+                   | - - X
+                GREP - - X
+                 VGA - - S
+              OUTPUT - - O

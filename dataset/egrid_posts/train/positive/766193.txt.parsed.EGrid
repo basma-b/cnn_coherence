@@ -1,0 +1,14 @@
+               THERE X - - - -
+             PROBLEM X - - - -
+           GCC-3.4.6 X - - - -
+   PREFIX=/USR/LOCAL X - - - -
+          /USR/LOCAL - - X - O
+            CONFLICT - - O X -
+      /USR/LOCAL/LIB - - X O -
+             VERSION - - O - -
+             LIBRARY - - X - -
+              THINGS - - - X -
+                PATH - - - O -
+              SYSTEM - - - X -
+               STUFF - - - X -
+             GCC-4.4 - - - X -

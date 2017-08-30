@@ -1,0 +1,22 @@
+                   > O - - - - -
+               ERROR X S O - - -
+         INVOKE-RC.D O - - - - -
+      POSTGRESQL-8.1 O - - - - -
+              ACTION S - - - - -
+                DPKG - X - - - -
+             PROCESS - X - - - -
+/VAR/CACHE/APT/ARCHIVES/POSTGRESQL-8.1_8.1.8-1UBUNTU3_I386.DEB - X - - - -
+                 USE - X - - - -
+      UPDATE-MANAGER - X X - - -
+        DIST-UPGRADE - X - - - -
+             APT-GET - X - - - -
+                TIME - - X - - -
+  DO-RELEASE-UPGRADE - - O - - -
+              DAPPER - - S - - -
+               THING - - X - - -
+                PART - - X - - -
+              SCRIPT - - O X - -
+               THERE - - S - - -
+              OPTION - - O - - -
+                THIS - - - - - O
+//UBUNTU-TUTORIALS.COM/2006/10/07/AUTOMATIC-UPDATES-UBUNTU-ALL-VERSIONS/ - - - - - S

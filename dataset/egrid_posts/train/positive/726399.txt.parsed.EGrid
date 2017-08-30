@@ -1,0 +1,16 @@
+                 GUY S - - -
+                 GET O - - -
+       FASTCGIIPCDIR X - - -
+/VAR/LIB/APACHE2/FASTCGI O - - -
+              ACCESS O - - -
+              SERVER X - - -
+                 UID X - - -
+                 GID X - - -
+              ANYONE S - - -
+               CAUSE O - - -
+              FOLDER - S - -
+            WWW-DATA - X - -
+                USER - S - X
+          PERMISSION - O - -
+               GROUP - X - -
+              GOOGLE - - S -

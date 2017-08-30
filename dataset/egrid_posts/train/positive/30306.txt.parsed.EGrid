@@ -1,0 +1,6 @@
+            MODPROBE X -
+         NDISWRAPPER O -
+               ERROR X -
+           OPERATION X -
+                SUDO O -
+                ROOT - O

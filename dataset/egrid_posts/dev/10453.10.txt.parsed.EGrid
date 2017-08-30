@@ -1,0 +1,16 @@
+              UBUNTU O - - -
+                   P S - - -
+             SOMEONE S - - -
+             APACHE2 X - S -
+            DOCUMENT X - - -
+                ROOT O - - -
+            /VAR/WWW - S - -
+             DEFAULT - X - -
+               REPOS - X X -
+/ETC/APACHE2/SITES-AVAILABLE - - X -
+/ETC/APACHE2/SITES-AVAILABLE/DEFAULT - - O -
+             DOCROOT - - O -
+              APACHE - - X -
+                SUDO - - X -
+             SERVICE - - X -
+            SHOULDNT - - - X

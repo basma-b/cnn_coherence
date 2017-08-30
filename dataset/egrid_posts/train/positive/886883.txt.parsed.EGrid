@@ -1,0 +1,14 @@
+              NUMBER O - - - -
+       /ETC/SERVICES X - - - -
+                RULE S - - - -
+         CONNECTIONS O - - - -
+              ANYONE - S - - -
+                CLUE - O - - -
+     /ETC/HOST.ALLOW - - X - -
+           HOST.DENY - - S - -
+             SERVICE - - X O -
+                  NO - - - X -
+              SYSTEM - - - O -
+            EVERYONE - - - X -
+                ROOT - - - X -
+             DEFAULT - - - - X

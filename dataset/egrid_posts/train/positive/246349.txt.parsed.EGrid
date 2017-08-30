@@ -1,0 +1,14 @@
+                SHOW S - - - -
+                 CAT X - - - -
+        /DEV/URANDOM X - - - -
+                   > S - - - -
+            /DEV/DSP O - - - -
+              DEVICE X - - - -
+            RESOURCE S - - - -
+                  .. - - - X -
+                  IM - - - S -
+               ERROR - - - O -
+               -RSB- - - - X -
+           OPERATION - - - S -
+             SUPPORT - - - X -
+                WHAT - - - - X

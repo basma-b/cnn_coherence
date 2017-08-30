@@ -1,0 +1,9 @@
+                USER X - S -
+        /ETC/SUDOERS O - - -
+              ANYONE - X - -
+                SUDO - - X -
+               PRIVS - - O -
+                  .. - - - O
+             OPTIONS - - - S
+             SUDOERS - - - X
+             COMMAND - - - O

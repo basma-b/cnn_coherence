@@ -1,0 +1,15 @@
+           MULTICAST X X - -
+                 HUB X X - O
+                WORK - X - -
+             NETWORK - X - -
+              DEVICE - X - -
+              SERVER - O - -
+             GATEWAY - O - -
+                DHCP - O - -
+                SUCH - O - -
+            COMPUTER - X - -
+              SHAULD - S - -
+              ROUTER - - - O
+               STORE - - - X
+                INET - - - X
+          CONNECTION - - - S

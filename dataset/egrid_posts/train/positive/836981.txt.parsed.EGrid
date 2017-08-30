@@ -1,0 +1,20 @@
+               WORLD - S X - - - -
+             DEFAULT - X X - - - -
+               ROUTE - O X - - - -
+           INTERFACE - X - X - - -
+             GATEWAY - - S O - - -
+                 NIC - - S - - - -
+               TABLE - - X - - - -
+               RESON - - X - - - -
+                SUDO - - X - - - -
+              IFDOWN - - O - - - -
+                  AD - - - S - - -
+             PROBLEM - - - X - - -
+              LOOKUP - - - O - - -
+             NETWORK - - - X - - -
+           SOMETHING - - - X - - -
+              CONFIG - - - S - - -
+      NETWORKMANAGER - - - - - - X
+/ETC/NETWORK/INTERFACES - - - - - - X
+               SETUP - - - - - - X
+                  IP - - - - - - O

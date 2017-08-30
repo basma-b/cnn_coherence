@@ -1,0 +1,25 @@
+                LIST X X - - - - -
+                 IRC X X - - - - -
+                 CLI - - X - - - -
+               FRESH - - X - - - -
+     KUBUNTU-DESKTOP - - - S - - -
+             PACKAGE - - - X - - -
+                TIME - - - - - X -
+             APT-GET - - - - - X -
+                TYPE - - - - - X -
+                SUDO - - - - - X -
+               RIGHT - - - - - X -
+              UPDATE - - - - - O -
+                  CD - - - - - O -
+            INTERNET - - - - - X -
+               SHOOT - - - - - X -
+              METHOD - - - - - S -
+            DHCLIENT - - - - - X -
+                ETH0 - - - - - O -
+/ETC/NETWORK/INTERFACES - - - - - S -
+                DHCP - - - - - X -
+                 GUI - - - - - O -
+               CHOWN - - - - - - X
+          PERMISSION - - - - - - S
+                 MAN - - - - - - X
+               CHMOD - - - - - - X

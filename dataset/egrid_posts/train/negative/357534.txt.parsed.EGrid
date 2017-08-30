@@ -1,0 +1,28 @@
+             PROBLEM O - - - - - - - - - -
+          VIRTUALBOX X - - - - - - - - - -
+                HOST X X - - - - - - - - -
+                 USB X X - - - - - - - - -
+               PROXY X - - - - - - - - - -
+             SERVICE O S - - - - - - - - -
+ VERR_FILE_NOT_FOUND X - - - - - - - - - -
+            COMPUTER - X - - - - - - - - -
+                 OSE - X - - - - - - - - -
+             VERSION - S - - - - - - - - -
+             SUPPORT - X - - - - - - - - -
+               AFAIK - S - - - - - - - - -
+          REPOSITORY - O - - - - - - - - -
+              SOURCE - X - - - - - - - - -
+                THAT - - O - - - - - - - -
+             WEBSITE - - X - - - - - - - -
+                HTTP - - S X - - - - - - -
+                 DEB - - X - - - - - - - -
+            NON-FREE - - S - - - - - - - -
+            SYNAPTIC - - X - - - - - - - -
+                  IM - - - X - - - - - - -
+//WWW.VIRTUALBOX.ORG/DEBIAN/ - - - X - - - - - - -
+        REPOSITORIES - - - - - - X X - - -
+            SETTINGS - - - - - - X - - - -
+      VIRTUALBOX-OSE - - - - - - - X - - -
+VIRTUALBOX_1.5.2-25433_UBUNTU_GUTSY_I386.DEB - - - - - - - - X - -
+             APT-GET - - - - - - - - - - S
+               ERROR - - - - - - - - - - O

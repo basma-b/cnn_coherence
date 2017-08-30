@@ -1,0 +1,40 @@
+          PARAMETERS O - - - - - - - - - - - - -
+             PACKAGE X - - - X - O - - - - - - -
+                RULE S - X - - - - - - - - - - -
+                BITE O - - - - - - - - - - - - -
+         ENVIRONMENT X - - - - - - - - - - - - -
+                 VAR O - - - - - - - - - - - - -
+                INIT X - - - - - - - - - - - - -
+         ./CONFIGURE X - - - - - - - - S - - - -
+                IIRC X - - - - - - - - - - - - -
+        DEBIAN/RULES - X - - - - - - - - - - - -
+                THAT - - S - - - - - O S - - - -
+              SCRIPT - - X - - - - - - - - - - -
+           CONFIGURE - - - O - - - - - - - - - -
+   DPKG-BUILDPACKAGE - - - O - - - - - - - - - -
+              SOURCE - - - - X - - - - - - - - -
+DISABLE-SANITY-CHECKS - - - - X - - - - - - - - -
+                 END - - - - X - - - - - - - - -
+                BOOT - - - - X - - - - - - - - -
+              KERNEL - - - - O - X - - - - - - -
+                   D - - - - S - - - - - - - - -
+              UBUNTU - - - - - X - - - - - - - -
+              DISTRO - - - - - X - - - - - - - -
+               THERE - - - - - - S - - S - - - -
+              DAPPER - - - - - - S - - - - - - -
+KERNEL-IMAGE-2.4.27-2-386 - - - - - - O - - - - - - -
+                LIBC - - - - - - - - X O - - - -
+                CALL - - - - - - - - - O - - - -
+             PROBLEM - - - - - - - - - O - - - -
+         MAINTENANCE - - - - - - - - - X - - - -
+                WORK - - - - - - - - - O - - - -
+            SOFTWARE - - - - - - - - - X - - - -
+               -LSB- - - - - - - - - - X - - - -
+              REASON - - - - - - - - - O - - - -
+             PROCESS - - - - - - - - - X - - - -
+                HOOK - - - - - - - - - - X - - -
+                8.04 - - - - - - - - - - - - X -
+GNOME-SETTINGES-DAEMON - - - - - - - - - - - - - S
+             DEFAULT - - - - - - - - - - - - - X
+             BUILTIN - - - - - - - - - - - - - X
+               THEME - - - - - - - - - - - - - O

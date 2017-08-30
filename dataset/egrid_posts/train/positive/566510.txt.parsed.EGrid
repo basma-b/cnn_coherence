@@ -1,0 +1,8 @@
+            LOCATION X - - -
+              FORMAT X - - -
+           PARTITION O - - -
+                GRUB O - - -
+ /BOOT/GRUB/MENU.LST O - - -
+            MENU.LST O - - X
+               GRUB\ - - - X
+                MORE - - - X

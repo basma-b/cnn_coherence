@@ -1,0 +1,11 @@
+       192.168.1.254 S - - -
+             DEFAULT X - - -
+             ADDRESS X - - -
+               2WIRE X - - -
+                 DSL X - - -
+               MODEM X - - -
+                THAT - - S -
+               MODEL - - O -
+              SQUASH - - - O
+              MIDDLE - - - X
+             FACTORY - - - O

@@ -1,0 +1,16 @@
+                BOOT X X X - X
+                PATH X X S - -
+                GRUB X X O - -
+               ORDER S S - - -
+              UBUNTU O O - - -
+ /BOOT/GRUB/MENU.LST - - X - -
+             WINDOWS - - S - -
+                 AHH - - O - -
+              LIVECD - - X - X
+             COMMAND - - S - -
+                 MBR - - X - -
+           GCARRILLO - - O - -
+                 MAN - - - - X
+        GRUB-INSTALL - - - - O
+             PROGRAM - - - - S
+               BLOCK - - - - O

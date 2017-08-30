@@ -1,0 +1,18 @@
+              ANYONE X - - - - -
+              SSHKEY X - - - - -
+              ~/.SSH - O - - - -
+                  -T - O - - - -
+                 KEY - X - - O -
+                USER - S - - - -
+PUBKEYAUTHENTICATION - - X - - -
+    RSAAUTHENTICATIO - - S - - -
+         SSHD_CONFIG - - X - - -
+                SUDO - - - X - -
+     /ETC/INIT.D/SSH - - - S - -
+              CHANGE - - - X - -
+                TYPE - - - - X X
+              USERID - - - - X -
+            PASSWORD - - - - X -
+                  CD - - - - - X
+            /VAR/LOG - - - - - X
+               QUOTE - - - - - X

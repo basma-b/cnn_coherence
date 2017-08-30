@@ -1,0 +1,17 @@
+             COMMAND X - - - -
+           MAKE-KPKG S - - - X
+                  .. O - - - -
+            AMARANTH X X - - -
+             APT-GET - - X - -
+            SYNAPTIC - - - S -
+             PROGRAM - - - X -
+                TYPE - - - O -
+              THINGY - - - X -
+             VANILLA - - - - X
+              SOURCE - - - - O
+          KERNEL.ORG - - - - X
+              2.6.21 - - - - X
+             XCONFIG - - - - X
+        KERNEL_IMAGE - - - - X
+                DPKG - - - - X
+                  -I - - - - S

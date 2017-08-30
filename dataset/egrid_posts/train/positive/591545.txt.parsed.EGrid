@@ -1,0 +1,25 @@
+               GHOST S - - - - - - - - -
+             ATH_PCI - S - - - - - - - -
+                LOAD - X O - - - - - X -
+                BOOT - X X - - - - - - -
+              JOCKEY - S - - S - - - - -
+        /ETC/MODULES - X - - - X - - - -
+              DRIVER - O - - - - - - - -
+             8139TOO - - S - - - - - - -
+               AVAHI - - - X - - - - - -
+             MADWIFI - - - - O - - - - -
+                 BUG - - - - O - - - - -
+                 ALL - - - - O - - - - -
+                LOTS - - - - S - - - - -
+              PEOPLE - - - - X - - - - -
+           SOMETHING - - - - O - - - - -
+              SYSTEM - - - - X - - - - -
+               LSMOD - - - - - O - - - -
+                HTTP - - - - - O - - - -
+//PASTEBIN.COM/D1760F341 - - - - - X - - - -
+                WLAN - - - - - X - - - -
+             ATH_HAL - - - - - O - - - -
+        DEPENDENCIES - - - - - - X - - -
+            MODPROBE - - - - - - X - - -
+             MODULES - - - - - - - - X -
+            PROBLEMS - - - - - - - - O -

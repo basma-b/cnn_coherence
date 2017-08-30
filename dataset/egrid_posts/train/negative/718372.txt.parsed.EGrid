@@ -1,0 +1,10 @@
+                SWAP X X - - - -
+           PARTITION X X X - - -
+                SDA6 - X - - - -
+             ANOTHER - X - - - -
+          SWAPON/OFF - - O - - -
+               FSTAB - - O - - -
+                SDA5 - - - X - -
+           SUBWOOFER - - - - X -
+               RANGE - - - - - O
+               SOUND - - - - - X

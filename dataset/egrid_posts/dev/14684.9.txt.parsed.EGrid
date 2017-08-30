@@ -1,0 +1,10 @@
+                TIME S S -
+              SCRIPT O - -
+                GREP X - -
+             KEYWORD O - -
+            TEXTFILE X - -
+S/WHATEVERL/WHATEVER - X -
+             ACCOUNT - - O
+                ROOT - - O
+                USER - - X
+              ACCESS - - O

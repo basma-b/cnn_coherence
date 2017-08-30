@@ -1,0 +1,15 @@
+              KERNEL - S - - - - -
+                CANT - - S - - - -
+          RESOLVCONF - - - X - - -
+            GUESSNET - - - X - - -
+             PACKAGE - - - O - - X
+              CUSTOM - - - X - - -
+/ETC/NETWORK/INTERFACES - - - X - - -
+                FILE - - - O - - -
+       CONFIGURATION - - - - - O -
+               YOURS - - - - - X -
+          INTERFACES - - - - - X -
+                 NIC - - - - - X -
+         RESOLV.CONF - - - - - X -
+            SETTINGS - - - - - O -
+                LOOK - - - - - - O

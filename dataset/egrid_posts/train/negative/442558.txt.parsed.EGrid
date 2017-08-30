@@ -1,0 +1,24 @@
+          /ETC/UDEV/ X - - - - -
+                   * S - - - - -
+                UDEV S - - - - -
+            STANDARD O - - - - -
+  /ETC/UDEV/RULES.D/ O - - - - -
+          INTERFACES O - - - - -
+                 MAC X - - - - -
+              CHANGE X - - - - -
+                TIME - X - - - -
+                BOOT - X - - - -
+                  .. - X - - - -
+                ICON - - - X - -
+              PLACES - - - - X -
+                   > - - - - X O
+            COMPUTER - - - - X -
+                HTTP - - - - O X
+          //TLDP.ORG - - - - S -
+                HELP - - - - - S
+//HELP.UBUNTU.COM/COMMUNITY - - - - - S
+                SUDO - - - - - X
+          UID=UBUNTU - - - - - X
+              SYSTEM - - - - - X
+               ADMIN - - - - - X
+               DISCS - - - - - X

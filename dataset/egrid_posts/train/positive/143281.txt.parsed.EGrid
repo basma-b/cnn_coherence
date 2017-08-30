@@ -1,0 +1,16 @@
+               FSTAB X - - - -
+                EXT2 X - - - -
+                USER S - - - -
+                TYPE S - - - -
+          DEFINITION X - - - -
+          SUPERBLOCK S - - - -
+                 UID X - - - -
+                 GID S - - - -
+              EFFECT O - - - -
+                MIND X - - - -
+             MESSAGE O - - - -
+         SUGGESTIONS - - - X -
+               THERE - - - - X
+                 WAY - - - - X
+           PARTITION - - - - O
+         INFORMATION - - - - X

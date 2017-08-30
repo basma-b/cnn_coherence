@@ -1,0 +1,13 @@
+              KERNEL O - - - - S -
+              UBUNTU X - - - - - -
+                GRUB S - - - - O -
+ /BOOT/GRUB/MENU.LST - - - - - X -
+               FRONT - - - - - X -
+             MACHINE - - - - - X -
+               ENTRY - - - - - O -
+                  .. - - - - - - O
+                FILE - - - - - - S
+                 WAY - - - - - - X
+               GRUB2 - - - - - - X
+   /ETC/DEFAULT/GRUB - - - - - - O
+       GRUB-MKCONFIG - - - - - - O

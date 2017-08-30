@@ -1,0 +1,24 @@
+             PACKAGE X S -
+               LINUX X X -
+              KERNEL X X -
+               IMAGE O O -
+             VERSION X X -
+PPRO/CELERON/PII/PIII/PIV X - -
+                TIME - X -
+             PENTIUM - X -
+ PRO/CELERON/PENTIUM - X -
+          II/PENTIUM - X -
+         III/PENTIUM - X -
+                  IV - X -
+         DESCRIPTION - O -
+                  BK - X -
+            SNAPSHOT - X -
+           CHANGELOG - O -
+                 .11 - O -
+               POINT - X -
+               FINAL - S -
+               HOARY - O -
+               LEAVE - O -
+            UNIVERSE - X -
+             SUPPORT - X -
+                CANT - - X

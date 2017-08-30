@@ -1,0 +1,15 @@
+             COMMAND X - - - -
+               CHECK X - - - -
+             SUPPORT O - - - -
+             GLXINFO - X - - -
+                   | - X - - -
+                GREP - X - - -
+                  -I - S - - -
+           SOMETHING - O - - -
+             MANAGER - X - - -
+           RENDERING - X - - -
+                  .. - O - - -
+                   X - - - - X
+                 LOG - - - - X
+       CONFIGURATION - - - - O
+             SOMEONE - - - - X

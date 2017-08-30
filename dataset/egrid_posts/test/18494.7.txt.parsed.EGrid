@@ -1,0 +1,13 @@
+               CHMOD X - - - - -
+         PERMISSIONS - O - - - -
+              DEVICE - X - - - -
+                NODE - X - - - -
+             PLUGINS - - - S - -
+                USER - - - X - -
+           DIRECTORY - - - X - -
+             ECLIPSE - - - - S -
+               SHARE - - - - X -
+               USERS - - - - X -
+              CHOICE - - - - O -
+                HTTP - - - - - X
+//WWW.PATHNAME.COM/FHS/ - - - - - X

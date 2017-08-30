@@ -1,0 +1,7 @@
+                NTFS X X -
+           PARTITION O O -
+           /DEV/HDB1 X O -
+                EXT3 X - -
+                DATA - S -
+            /DEV/HDB - S -
+                TYPE - - S

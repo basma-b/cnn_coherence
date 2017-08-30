@@ -1,0 +1,36 @@
+                TIME X - - - - -
+                  PC O X O - - -
+                HOME X - - - - -
+                 RUN X - - - - -
+                  IP O - X - - -
+                DHCP X O - - - -
+                   > O - - - - -
+              CONFIG X - - - - -
+                THIS O - - - - -
+/ETC/NETWORK/INTERFACES - X X - - -
+GNOME-NETWORK-MANAGER - X - - - -
+                CARD - O - - - -
+                NAME - X - - - -
+                ETH0 - X - - - -
+               WLAN0 - S - - - -
+          INTERFACES - S - - - -
+              LAPTOP - - X - - -
+            INTERNET - - X - - -
+          CONNECTION - - O - - -
+      WWW.GOOGLE.COM - - O - - -
+                   % - - X - - -
+              PACKET - - X - - -
+                LOSS - - O - - -
+                PAGE - - S - - -
+             FIREFOX - - X - - -
+                WAIT - - X - - -
+            IFCONFIG - - X - - -
+                  -A - - X - - -
+             ADDRESS - - S - - -
+              CHANGE - - O - - -
+                 ETH - - X - - -
+             NETWORK - - X - - -
+             MANAGER - - O - - -
+                FILE - - - - - O
+             PROBLEM - - - - - S
+             COMMAND - - - - - O

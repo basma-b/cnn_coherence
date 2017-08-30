@@ -1,0 +1,6 @@
+             COMMAND X -
+                WINE O -
+            TERMINAL X -
+                SUDO X -
+             APT-GET S -
+            LAUNCHER - O

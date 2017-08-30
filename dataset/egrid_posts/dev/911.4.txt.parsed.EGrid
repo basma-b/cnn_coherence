@@ -1,0 +1,13 @@
+                SUDO X - -
+             APT-GET X - -
+SCREEN-RESOLUTION-EXTRA S - -
+                SHOW X - -
+             VERSION X - -
+                TIME - - S
+                WAIT - - O
+             COMMAND - - X
+                  PS - - X
+                   | - - X
+                GREP - - X
+               SLEEP - - O
+              RETURN - - S

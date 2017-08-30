@@ -1,0 +1,11 @@
+                SUDO S - - - - -
+            HOSTNAME O - - - - -
+       GETHOSTBYNAME X - - - - -
+                  .. S - - - X -
+         NEWHOSTNAME X - - - - -
+          /ETC/HOSTS O - - - - -
+                THIS - X - - - X
+              ACCESS - X - - - -
+                 BOX - X - - - -
+              CHROOT - - X - - -
+           SOMETHING - - X - - -

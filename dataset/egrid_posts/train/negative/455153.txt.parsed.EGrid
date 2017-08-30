@@ -1,0 +1,17 @@
+             GPARTED S - - - - - - -
+               MOUNT X - - - - - - -
+           PARTITION O - - - - - - -
+                 USB X - X - - - - -
+                DISK X - - - - - - -
+            NAUTILUS S - - - - - - -
+                THIS - X - - - - - -
+/ETC/INIT.D/MOUNTDEVSUBFS.SH - - X - - - - -
+         DESCRIPTION - - - - X - - -
+                FILE - - - - X - - -
+                GKSU - - - - - S - -
+             COMMENT - - - - - X - -
+                LINE - - - - - X - -
+                  .. - - - - - X - -
+              EFFECT - - - - - - O -
+                 ATI - - - - - - - X
+              NVIDIA - - - - - - - X

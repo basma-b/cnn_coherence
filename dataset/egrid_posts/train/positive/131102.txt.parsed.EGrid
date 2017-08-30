@@ -1,0 +1,11 @@
+        DEPENDENCIES X - - -
+             APT-GET X - S -
+               GNOME X - - -
+                 X11 X - - -
+              STARTX X - - -
+               XINIT - X - -
+             PROCESS - X - -
+      UBUNTU-DESKTOP - - S -
+          EVERYTHING - - S -
+                 1GB - - - S
+                MUCH - - - O

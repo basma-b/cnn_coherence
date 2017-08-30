@@ -1,0 +1,14 @@
+               ENTRY O - -
+               FSTAB X - -
+                NTFS X S -
+               DRIVE X - -
+                FLAG X - -
+                TYPE - O -
+                FACT - X -
+                AUTO - O -
+             NTFS-3G - O -
+                 USE - X -
+             MISTAKE - - O
+                FILE - - X
+            PROVIDER - - O
+     /ETC/PPP/PEERS/ - - X

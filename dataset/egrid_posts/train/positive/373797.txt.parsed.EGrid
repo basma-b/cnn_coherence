@@ -1,0 +1,27 @@
+             PROGRAM X O - - - - - - - - -
+                CALL O - - - - - - - - - -
+              BUTTON O - - - - - - - - - -
+              DIALOG X - - - - - - - - - -
+              SYSTEM X - - - - - - - - - -
+                   > S - - - - - - - - - -
+                THAT - S - - - - - - X - -
+                PART - O - - - - - - - - -
+       GNOME-SESSION - X X - - - - - - - -
+              SOURCE - X - - - - - - - - -
+                CODE - O - - - - - - - - -
+/USR/BIN/GNOME-SESSION - X - X - - - X - X -
+   X-SESSION-MANAGER - - S - - - - - - - -
+/USR/BIN/X-SESSION-MANAGER - - O S - - - - - - -
+             SYMLINK - - O O - - - O - - -
+               THERE - - S - - - - - - - -
+          DIFFERENCE - - O - - - - - - - -
+              UBUNTU - - X - - - - - - - -
+/VAR/LIB/DPKG/ALTERNATIVES/X-SESSION-MANAGER - - S - - - - - - X -
+              THINGS - - X - - - - - - - -
+/ETC/ALTERNATIVES/X-SESSION-MANAGER - - - X - - S S - - -
+                THIS - - - - S - - - - - -
+            CONTRAST - - - - X - - - - - -
+                STEP - - - - - - X - - - -
+                 ONE - - - - - - - - - S -
+       FUNCTIONALITY - - - - - - - - - S -
+            OPPOSITE - - - - - - - - - S -

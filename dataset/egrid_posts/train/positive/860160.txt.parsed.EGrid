@@ -1,0 +1,14 @@
+          BOOTLOADER O - - - -
+                XFCE - X - - -
+             PROBLEM - - O - -
+             DEFAULT - - - S -
+              UBUNTU - - - X -
+          BACKGROUND - - - X -
+                BOOT - - - - X
+            TERMINAL - - - - X
+                SUDO - - - - X
+        GRUB-INSTALL - - - - X
+           /DEV/SDA1 - - - - S
+            /DEV/SDA - - - - O
+             COMMAND - - - - O
+                 END - - - - X

@@ -1,0 +1,3 @@
+             COMMAND X -
+                 TAR X -
+               -XZVF O -

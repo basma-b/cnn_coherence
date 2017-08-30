@@ -1,0 +1,35 @@
+                NTFS X - O - - - - - - -
+               DRIVE X - X - - - - - - -
+            TERMINAL X - X - - - - - - -
+                  CD - S - - - - - - X -
+           /DEV/HDA1 - - S - - - - - - -
+          SUBSTITUTE - - X - - - - - - -
+              DEVICE - - S - - - - - - -
+                HDA1 - - S O - - - - - -
+                ROOT - - S - - - - - - -
+           PARTITION - - O O - - - - - -
+            DESKTOIP - - - X - - - - - -
+/USR/LIB/FIREFOX/SEARCHPLUGINS - - - - S - - - - -
+.DEFAULT/SEARCHPLUGINS - - - - O - - - - -
+                ONES - - - - X - - - - -
+               THERE - - - - S - S - - -
+HOME/OPT/FIREFOX/SEARCHPLUGINS - - - - X - - - - -
+             FOLDERS - - - - S - - - - -
+                HOME - - - - X - X - - -
+           DIRECTORY - - - - O - - - - -
+             MOZILLA - - - - O - - - - -
+             FIREFOX - - - - O - - - - -
+                 ROM - - - - O - - - - -
+              FOLDER - - - - O - - - - -
+            .MOZILLA - - - - X - - - X -
+             PROFILE - - - - X - - - - -
+                 THE - - - - - S - - - -
+                   A - - - - - - X - - -
+                 OPT - - - - - - X - - -
+               START - - - - - - X - - -
+           LINUXDCPP - - - - - - S - - -
+            ANYTHING - - - - - - S - - -
+          ~/.MOZILLA - - - - - - - - S -
+           SOMETHING - - - - - - - - - O
+                PART - - - - - - - - - O
+   /ETC/XORG.CONF.D/ - - - - - - - - - X

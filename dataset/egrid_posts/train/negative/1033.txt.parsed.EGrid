@@ -1,0 +1,17 @@
+                  RE X - - -
+          READ/WRITE X - - -
+                USER X - - -
+           READ-ONLY X - - -
+              OTHERS S - - -
+               SENSE O - - -
+                NTFS S - - -
+               ISSUE O - - -
+                  FS O - - -
+                 BUG X - - -
+            EVERYONE X - - -
+               BASIS X - - -
+             WINDOWS O - - -
+                CASE O - - -
+                PING - X - -
+                PONG - - X -
+                THAT - - - S

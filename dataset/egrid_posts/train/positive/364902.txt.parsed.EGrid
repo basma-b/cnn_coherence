@@ -1,0 +1,11 @@
+           PARTITION X - - - -
+                 HDD X - - - X
+                BOOT S - - - X
+                 TNE X - - - -
+                  CD O - X - -
+                ROOT - - O - -
+                 ONE - - X - -
+           HARDDRIVE - - X - -
+                GRUB - - - - O
+               STAGE - - - - O
+               ERROR - - - - X

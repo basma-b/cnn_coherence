@@ -1,0 +1,11 @@
+        DIST-UPGRADE S - S -
+             PACKAGE X - O -
+             UPGRADE O - X -
+             RELEASE S - - -
+             VERSION - - S -
+             MPLAYER - - X X
+                 LIB - - X -
+              PEOPLE - - S -
+               REPOS - - O -
+                SUCH - - X -
+                BASE - - - X

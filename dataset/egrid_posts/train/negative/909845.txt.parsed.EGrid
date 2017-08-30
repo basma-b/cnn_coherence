@@ -1,0 +1,33 @@
+              ANYONE X - - -
+           SOMETHING X - - -
+              OUTPUT X O X -
+                   ' - X - -
+/ETC/GDM/PRESESSION/DEFAULT - X - -
+             SESSION - O - -
+                WTMP - X - -
+                UTMP - X - -
+       /VAR/LOG/WTMP - X - -
+                  -U - X - -
+       /VAR/RUN/UTMP - X - -
+                  -X - O - -
+/VAR/LIB/GDM/:0.XSERVERS - S - -
+            GILLIGAN - X - -
+   /ETC/GDM/XSESSION - X - -
+               SETUP - X - -
+                  .. - O S -
+             MKDTEMP - X - -
+              SOCKET - X - -
+                 DIR - X - -
+          PERMISSION - S - -
+                HELP - S - -
+               SOUND - X - -
+                PROB - O - -
+                COOL - X - -
+ LIBGNOMEVFS2-COMMON - - X -
+  LIBWVSTREAMS3-BASE - - X -
+          ASSUMPTION - - X -
+               START - - X -
+              /QUERY - - X -
+                DATE - - - X
+             VERSION - - - X
+              NUMBER - - - X

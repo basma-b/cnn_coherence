@@ -1,0 +1,15 @@
+           DIRECTORY O - - - - - -
+           FILENAMES X - - - - - -
+                GREP - X S - - - -
+                -IRL - S - - - - -
+                WORD - X O - - - -
+              OUTPUT - S - - - - -
+                DATA - O - - - - -
+                FILE - X S - - - -
+                   > - - X - - - -
+         OUTFILE.TXT - - X - - - -
+                THIS - - X - - - -
+                 USE - - - - S - -
+              STDERR - - - - X - -
+                   \ - - - - - - X
+                DICE - - - - - - X

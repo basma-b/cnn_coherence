@@ -1,0 +1,13 @@
+                USER X - - - - -
+                JOHN X - X X - -
+          PERMISSION X - - - - -
+                 CLI - X - - - -
+                FILE - - X S S -
+               OWNER - - X - - -
+              MEMBER - - - X - -
+               GROUP - - - X - -
+              OUTPUT - - - - O -
+               -RW-R - - - - O -
+                   R - - - - O -
+                ROOT - - - - O -
+                MODE - - - - - O

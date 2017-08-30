@@ -1,0 +1,17 @@
+               MOUNT X - - - - - -
+                DISK X O - X X - -
+                BOOT X - - - - - -
+                ROOT - S - - - - -
+                  RW - X - - - - -
+                KIND - - - X - - -
+                  RO - - - - O - -
+            ANYTHING - - - - O - -
+             MANAGER - - - - X - -
+                 APP - - - - X - -
+               DRIVE - - - - X - -
+              FORMAT - - - - X - -
+                CANT - - - - X - -
+                 THE - - - - - - O
+              OPTION - - - - - - O
+             DEFAULT - - - - - - X
+           BEHAVIOUR - - - - - - S

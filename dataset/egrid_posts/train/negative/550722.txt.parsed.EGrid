@@ -1,0 +1,11 @@
+            GRAPHICS X - - -
+             CHIPSET X - - -
+               LSPCI - X - -
+                   | - X - -
+                GREP - X - -
+                 VGA - X - -
+              STARTX - S - -
+              SCREEN - O - -
+               VIDEO - X - -
+                CHIP - S - -
+                HTTP - - - X

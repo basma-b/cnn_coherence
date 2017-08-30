@@ -1,0 +1,11 @@
+                 USE S - -
+             APT-GET - S -
+                DPKG - S -
+            DOWNLOAD - O -
+                .DEB - X -
+                FILE - O -
+                TYPE - - X
+                 MAN - - X
+                  CP - - O
+            TERMINAL - - X
+             COMMAND - - O

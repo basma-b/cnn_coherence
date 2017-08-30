@@ -1,0 +1,22 @@
+                 MAX - X - - - -
+                FILE - X - - - -
+              NUMBER - X - - - -
+         LIMITS.CONF - - X - - -
+       PAM_LIMITS.SO - - O - - -
+    /ETC/PAM.D/LOGIN - - X - - -
+/ETC/SECURITY/LIMITS.CONF - - X - - -
+              CHANGE - - X S - -
+              REBOOT - - - X - -
+                 CAT - - - X - -
+/PROC/SYS/FS/FILE-MAX - - - S - -
+              ULIMIT - - - O - -
+                  -N - - - S - -
+                HMMM - - - X - -
+                 AHH - - - O - -
+               THATS - - - X - -
+                SUDO - - - X - -
+              SYSCTL - - - S - -
+    /ETC/SYSCTL.CONF - - - X - -
+                EXT4 - - - - - S
+                  CD - - - - - S
+             BENEFIT - - - - - X

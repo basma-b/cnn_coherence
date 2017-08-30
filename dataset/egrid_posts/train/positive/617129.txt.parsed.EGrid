@@ -1,0 +1,16 @@
+                NMAP S - - - - -
+                NOTE O - - - - -
+                HOST S - - - - -
+                PING - X - - - -
+               PROBE - O - - - -
+                 GUY - - O - - -
+             PROBLEM - - S - - -
+            FIREWALL - - X O X O
+               FIRST - - - S - -
+                SSHD - - - O - -
+             NETWORK - - - - S -
+            HARDWARE - - - - - X
+            SOFTWARE - - - - - X
+              UBUNTU - - - - - X
+             DEFAULT - - - - - O
+             NOTHING - - - - - O

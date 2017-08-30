@@ -1,0 +1,11 @@
+               ROUTE X X S -
+                  .. X X - -
+              ACCESS O O - -
+            INTERNET X X - -
+                PPP0 X X X -
+             NETWORK X X - -
+                ETH0 X X S -
+             COMMAND - - X -
+             DEFAULT - - O -
+                HOST - - X -
+                  OK - - - X

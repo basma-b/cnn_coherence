@@ -1,0 +1,17 @@
+        SIOCSIFFLAGS X - - - -
+           OPERATION X - - - -
+            IFCONFIG X - - - -
+               WLAN0 O O - - -
+                 BUG X - - - -
+                SUDO - X - - -
+                PHY0 - S - - -
+            WIRELESS - X - - -
+                 LAN - X - - -
+               BLOCK - S - - -
+              RFKILL - S - - -
+             COMMAND - S - - -
+                 WAY - - S - -
+              DEVICE - - - S -
+               START - - - S -
+              UPDATE - - - X -
+                  NP - - - - X

@@ -1,0 +1,10 @@
+             COMMAND X - -
+                 IRC X X -
+             TRAFFIC X - -
+            IPTABLES X - -
+               INPUT X - -
+                  -P S - -
+                ETH0 X - -
+                  -J X - -
+              SERVER - O -
+            ANYTHING - O -

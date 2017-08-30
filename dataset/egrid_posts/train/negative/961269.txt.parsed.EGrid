@@ -1,0 +1,17 @@
+/USR/BIN/UPDATE-FONTS-DIR X - - - - - - - -
+                LINE X - - - - - - - -
+           MKFONTDIR X - - - - - - - -
+             COMMAND X - - - - - - - X
+                HEAD X - - - - - - - -
+/USR/SHARE/X11/FONTS/MISC/FONTS.DIR O - - - - - - - -
+                READ X - - - - - - - -
+                FILE X - - - - - - - -
+           DIRECTORY X - - - - - - - -
+                 ATI - X - - - - - - -
+              SERVER - - - - X - - - -
+     X-WINDOW-SYSTEM - - - - - X - - -
+             INITIAL - - - - - X - - -
+               THERE - - - - - - S - -
+                 BUG - - - - - - O - -
+                THIS - - - - - - X - -
+              BREEZY - - - - - - X - -

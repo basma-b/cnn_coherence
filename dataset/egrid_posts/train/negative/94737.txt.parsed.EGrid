@@ -1,0 +1,22 @@
+                LINE X X - - -
+                THIS - O - - -
+                  CD - S - - -
+KERNEL-SOURCE-VERSION - X - - -
+                  CP - S - - -
+  /BOOT/CONFIG-UNAME - O - - -
+      KERNEL-RELEASE - X - - -
+           ./.CONFIG - X - - -
+         KERNELHOWTO - X - - -
+                DONT - S - - -
+             COMMAND - S S - -
+               UNAME - X - - -
+              KERNEL - X - - -
+             VERSION - X - - -
+           SOMETHING - O - - -
+                THAT - - O - -
+              OUTPUT - - O - -
+           TTOGETHER - - O - -
+             DEFAULT - - - - O
+                   L - - - - X
+             DEV/DSP - - - - X
+             DEVICES - - - - X

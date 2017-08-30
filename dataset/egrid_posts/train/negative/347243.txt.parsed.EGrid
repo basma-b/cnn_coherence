@@ -1,0 +1,14 @@
+/ETC/UDEV/RULES.D/40-PERMISSIONS.RULES S - S - - -
+         PERMISSIONS X - X - - -
+           OWNERSHIP X - X - - -
+             DEVICES X - X - - -
+              ACCORD X - X - - -
+              UBUNTU X X - - - -
+              POLICY X X X X - -
+                 VON - - S - - -
+                 IST - - - X - -
+           DEFINIERT - - - X - -
+                HTTP - - - - X -
+//WWW.UBUNTU.COM/LEGAL - - - - X -
+                THIS - - - - - X
+            SOLUTION - - - - - X

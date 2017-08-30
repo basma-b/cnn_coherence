@@ -1,0 +1,7 @@
+                  DD X -
+       IF=/DEV/CDROM S -
+               CDROM X -
+             DEVICES S -
+           WIN98.ISO O -
+                  KB X -
+                 ISO O -

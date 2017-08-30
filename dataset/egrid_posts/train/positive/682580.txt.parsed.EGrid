@@ -1,0 +1,12 @@
+             COMMAND X X X X - - -
+                LINE X X X X - - -
+             .TAR.GZ - - X X - - -
+              GUNZIP - - - - S - -
+                 TAR - - - - X - -
+                  -X - - - - S - -
+                 MAN - - - - X - -
+           SOMETHING - - - - O - -
+            MIDNIGHT - - - - X - -
+           COMMANDER - - - - X - -
+             PACKAGE - - - - - - X
+                NAME - - - - - - X

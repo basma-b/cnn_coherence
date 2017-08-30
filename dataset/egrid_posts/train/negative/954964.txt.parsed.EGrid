@@ -1,0 +1,10 @@
+                WINE X O -
+             APT-GET X S -
+            UNIVERSE - X -
+          REPOSITORY - O -
+               CHECK - X -
+/ETC/APT/SOURCES.LIST - X -
+            TESTPARM - - O
+              SERVER - - X
+              CONFIG - - S
+              ERRORS - - O

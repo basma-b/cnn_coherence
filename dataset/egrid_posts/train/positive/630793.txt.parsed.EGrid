@@ -1,0 +1,9 @@
+               THERE X - S
+             COMMAND X - -
+                TYPE X - -
+         CONNECTIONS O - -
+                SUDO - S -
+ /ETC/INIT.D/OPENSSH - S -
+                  .. - O -
+               WHICH - X -
+                 SSH - - X

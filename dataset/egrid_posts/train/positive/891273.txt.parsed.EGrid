@@ -1,0 +1,21 @@
+                TEST X X - - -
+                   > X - - X -
+/VAR/WEBSITES/MYWEBSITE/ROBOTS.TXT X O - - -
+              RETURN S - - - -
+          PERMISSION S - - - -
+                SUDO - S - X -
+                ECHO - S - - -
+                 TEE - X - - -
+              CHANGE - O - - -
+                 WAY - - X S -
+                THAT - - - S -
+               SENSE - - - O -
+                USER - - - O -
+                 FOO - - - X -
+                PART - - - S -
+             COMMAND - - - X -
+               PLACE - - - O -
+                  SH - - - X -
+                  -C - - - X -
+                /FOO - - - X -
+       ACTIONPARSNIP - - - - X

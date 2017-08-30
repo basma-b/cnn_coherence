@@ -1,0 +1,34 @@
+             NETWORK S - - X - - - - - -
+             MANAGER X - - X - - - - - -
+             OPTIONS S - - - - - - - - -
+              JAUNTY X - - - - - - - - -
+              CHANGE X - - - - - - - - -
+          INTERFACES X - - - - - - - - -
+              ANYONE X - - - - - - - - -
+            WIRELESS X - - - - - - - - -
+              DAEMON - X X - - - - - - -
+                PART - - O - - - - - - -
+              APPLET - - X O - - - - - -
+              EXPERT - - X - - - - - - -
+                THAT - - - S - - - - - -
+               CHECK - - - X - - - - - -
+              SYSTEM - - - X X - - - - -
+             MONITOR - - - O X - - - - -
+             PROCESS - - - O X - - - - -
+           NM-APPLET - - - X - - - - - -
+             SERVICE - - - O S - - - - -
+      NETWORKMANAGER - - - - X - - - - -
+               VIEW- - - - - X - - - - -
+                  PS - - - - X - - - - -
+                   | - - - - X - - - - -
+                GREP - - - - X - - - - -
+                  NM - - - - X - - - - -
+                ROOT - - - - O - - - - -
+                   S - - - - - S - - - -
+/USR/SBIN/NM-SYSTEM-SETTINGS - - - - - O - - - -
+              CONFIG - - - - - X - - - -
+/ETC/NETWORKMANAGER/NM-SYSTEM-SETTINGS.CONF - - - - - X - - - -
+                  .. - - - - - X - - - -
+                 YEP - - - - - - S - - -
+                 BRO - - - - - - - - - S
+                WORK - - - - - - - - - X

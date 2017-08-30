@@ -1,0 +1,17 @@
+                NTFS X - - - - -
+          FILESYSTEM X - - - - -
+                 USE X - - - - -
+              DRIVER X - - - - -
+                STAT - X - - - -
+/MEDIA/DISK/FILE.TXT - S - - - -
+            FILE.TXT - S - - - -
+                LINK - O - - - -
+               COUNT - O - - - -
+                SUDO - S - - - -
+/MEDIA/DISK/FILEX.TXT - X - - - -
+              -PRINT - S - - - -
+               PRINT - X - - - -
+           FILEX.TXT - X - - - -
+                THAT - - - - S -
+              SYSTEM - - - - X -
+                   / - - - - - X

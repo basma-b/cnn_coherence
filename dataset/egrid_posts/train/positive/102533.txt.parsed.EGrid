@@ -1,0 +1,12 @@
+              SERVER O - - - - - - - -
+     LINUX-IMAGE-686 X - - - - - - - -
+               IDEAS - - X - - - - - -
+              UPDATE - - - O - - - - -
+LINUX-TESTRICTED-MODULES-686 - - - X - - - - -
+              KERNEL - - - - - X X - -
+                SUDO - - - - - - X - -
+             APT-GET - - - - - - X - -
+        DIST-UPGRADE - - - - - - S - -
+               IMAGE - - - - - - O - -
+       UBUNTU-SERVER - - - - - - X - -
+             COMMAND - - - - - - - - X

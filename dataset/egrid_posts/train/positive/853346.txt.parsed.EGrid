@@ -1,0 +1,36 @@
+               SPACE X - - - - -
+                 HDD O - - - - -
+     CROSSOVERCABLES X - - - - -
+               RSYNC X - - - - -
+              SYSTEM S - - - - -
+                  OK X - - - - -
+                   * S - - - - -
+             COMMAND X - X - - -
+                  -F O - - - - -
+            FILENAME O - - - - -
+               STDIN X - - - - -
+                  .. X - - O X -
+                THIS - X - - - S
+                SUDO - X - - - -
+                 TAR - X - - - -
+                CVPZ - S - - - -
+     EXCLUDE=/BACKUP - S - - - -
+ EXCLUDE=/LOST+FOUND - X - - - -
+EXCLUDE=/BACKUP.TAR.BZ2 - S - - - -
+        EXCLUDE=/MNT - S - - - -
+                   / - X - - - -
+                   | - S - - - -
+                 – - X - - - -
+/BACKUP/BACKUP.TAR.BZ2 - O - - - -
+              CHANGE - - X - - -
+                 RUN - - - O - -
+               LINUX - - - S - -
+          EXPERIMENT - - - X - -
+              THINGS - - - O - -
+               SPLIT - - - - S -
+             CHANNEL - - - - X -
+           COREUTILS - - - - X -
+                 CAT - - - - - X
+       FILE.IMG.BZ2A - - - - - O
+                   G - - - - - X
+      FILE.IMG.BZ2X1 - - - - - X

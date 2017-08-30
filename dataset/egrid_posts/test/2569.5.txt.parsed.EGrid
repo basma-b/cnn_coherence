@@ -1,0 +1,15 @@
+               /BOOT X - - - - -
+               THERE S - - - - -
+      MEMTEST86+.BIN O - - - - -
+            THISFILE O - - - - -
+              MEMORY - - X - - -
+              TESTER - - O - - -
+          BOOTLOADER - - X - - -
+              SYSTEM - - X - - -
+                FILE - - - S - -
+                LINE - - - X - -
+            GRUB.CFG - - - O - -
+              OPTION - - - X - -
+                BOOT - - - X - -
+                MENU - - - O - -
+                 ALL - - - - - S

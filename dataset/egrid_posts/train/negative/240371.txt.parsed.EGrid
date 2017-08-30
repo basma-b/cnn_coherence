@@ -1,0 +1,15 @@
+              SCRIPT S - - -
+                PASS X - - -
+                SUDO - X - -
+            MODPROBE - X - -
+           NM-APPLET - X - -
+                UNOP - X - -
+                LINE - - S -
+              PASSWD - - O -
+                 ONE - - X -
+            SOFTWARE - - - X
+              CENTER - - - O
+            FIREWALL - - - X
+       CONFIGURATION - - - X
+                ICON - - - X
+              SHIELD - - - O

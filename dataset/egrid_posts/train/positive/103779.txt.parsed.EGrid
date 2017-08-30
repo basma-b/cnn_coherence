@@ -1,0 +1,7 @@
+             COMMAND X - - -
+                  DD X - - -
+        IF=/DEV/ZERO X - - -
+         OF=/DEV/HDA X - - -
+               BS=1M O - - -
+                 HDD X - - S
+             SECTORS - - - X

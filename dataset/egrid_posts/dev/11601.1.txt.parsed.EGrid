@@ -1,0 +1,26 @@
+              ANYONE S - - - - - -
+             DESKTOP O - - - - - -
+                 SSH X - - - - - -
+               SENSE - X - - - - -
+                THIS - - X - - - -
+               MEDIA - - X - - - -
+            PLAYBACK - - X - - - -
+           INTERFACE - - - O - - -
+             DEVICES - - - X - - -
+        TRANSMISSION - - - O - - -
+               WEBUI - - - X - - -
+                 APP - - - O - - -
+      ACTION=ARTICLE - - - - S - -
+             COMMAND - - - - O - -
+               HTTPS - - - - X - -
+              DIGGIN - - - - X - -
+                  .. - - - - - X -
+              .HOSTS - - - - - S -
+                 VLC - - - - - X -
+                 SEC - - - - - - X
+/ETC/VLC/LUA/HTTP/.HOSTS - - - - - - S
+                LINE - - - - - - O
+      192.168.0.0/24 - - - - - - S
+             NETWORK - - - - - - O
+                HOST - - - - - - S
+                 LAN - - - - - - X

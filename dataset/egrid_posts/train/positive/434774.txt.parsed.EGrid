@@ -1,0 +1,23 @@
+             NETWORK X - - -
+             MANAGER X - - -
+             PROCESS O - - -
+             GATEWAY O - - -
+                THAT - X - -
+            IFCONFIG - - S -
+             KILLALL - - X -
+      NETWORKMANAGER - - X -
+NETWORKMANAGERDISPATHER - - X -
+                ETH0 - - O -
+                  IP - - O -
+               -RSB- - - S -
+         NETMASKHERE - - X -
+             DEFAULT - - X -
+           INTERFACE - - X -
+                NAME - - X -
+              COURSE - - X -
+                SUDO - - O -
+               SHOOT - - - S
+              THINGS - - - O
+                HOST - - - O
+            COMPUTER - - - O
+            SETTINGS - - - S

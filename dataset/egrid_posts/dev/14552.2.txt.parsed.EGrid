@@ -1,0 +1,23 @@
+              SERVER S - -
+                  IP O - -
+                THIS O - -
+/ETC/NETWORK/INTERFACES X - -
+                AUTO X - -
+                ETH0 S O -
+               IFACE X - -
+             ADDRESS O - -
+             NETMASK X - -
+             GATEWAY S - -
+         192.168.1.1 X - -
+                BOOT X - -
+                 LAN X - -
+              ANYONE X - -
+           SOMETHING O - -
+                 MAC - X -
+               BLOCK - X -
+                 HMM - O -
+                 DNS - O -
+     DNSRESOLVE.CONF - X -
+               THERE - - S
+              UBUNTU - - O
+               11.10 - - X

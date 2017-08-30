@@ -1,0 +1,16 @@
+            QUESTION O - - - - - - -
+            FIREWALL - - S - - - - -
+           INTERFACE - - X - - - - -
+               BASIC - - X - - - - -
+               -RSB- - - X - - - - -
+                PORT - - X - - - - -
+         212.51.25.1 - - - - X - - -
+               IPCOP - - - - - X - -
+          SMOOTHWALL - - - - - O - -
+                TIME - - - - - - - X
+          LRWXRWXRWX - - - - - - - X
+                ROOT - - - - - - - X
+               18:18 - - - - - - - X
+           /ETC/MOTD - - - - - - - X
+                   > - - - - - - - S
+                FILE - - - - - - - X

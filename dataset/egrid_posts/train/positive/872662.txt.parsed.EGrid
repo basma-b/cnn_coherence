@@ -1,0 +1,13 @@
+/TMP/BUILDD/NSLINK-4.28.1/DEBIAN/TMP/ETC/INIT.D X - - - - -
+               MKDIR - X - - - -
+           DIRECTORY - X - - - -
+/TMP/BUILDD/NSLINK-4.28.1/DEBIAN/TMP/ETC - S - - - -
+                FILE - O X - - -
+               ORDER - S - - - -
+             COMMAND - X - - - -
+                THAT - - X - - -
+              LATTER - - X - - -
+            PBUILDER - - X - - -
+                 DIR - - - O - -
+              DOSENT - - - S - -
+              THANKS - - - - X -

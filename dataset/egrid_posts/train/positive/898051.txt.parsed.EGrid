@@ -1,0 +1,22 @@
+                TIME X - - -
+                PEEP S - - -
+                HELP O - - -
+               RSYNC O - - -
+                FIRE S - - -
+             COMMAND O - - -
+            PROGRESS X - - -
+               -REOG O - - -
+       EXCLUDE-FROM= X - - -
+        EXCLUDES.TXT X - - -
+         /HOME/ALEX/ X - - -
+/MEDIA/BACKUP/12.04-PRECISE-BACKUP_4.23.2012/ O - - -
+               GSYNC - - O -
+                COPY - - S -
+                FILE - - X -
+               DRIVE - - X -
+       =EXCLUDES.TXT - - O -
+        FILENAMEHERE - - X -
+               ERROR - - O -
+                THIS - - X -
+          2011-02-09 - - - X
+                .ISO - - - X

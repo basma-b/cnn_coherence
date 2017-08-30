@@ -1,0 +1,15 @@
+               THERE X X - - - -
+                 UDF X - - X - -
+              VOLUME S X - - - -
+             COMMAND - X - - - -
+                  DD - S - - - -
+            BOOTABLE - - O - - -
+                  .. - - - X - -
+           PARTITION - - - - X -
+               TABLE - - - - S -
+               STORE - - - - O -
+                 MBR - - - - O -
+                TOOL - - - - O -
+                 PAE - - - - - X
+              KERNEL - - - - - O
+             DEFAULT - - - - - X

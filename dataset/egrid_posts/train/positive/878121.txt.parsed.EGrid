@@ -1,0 +1,18 @@
+               PURGE X X - - - - - - -
+               CONFS - X - - - - - - -
+               THERE - - X - - - - - -
+              NVIDIA - - X - - - - - -
+             DRIVERS - - O - - - - - -
+                TIME - - - - S - - - -
+              REBOOT - - - - X - - - -
+               SHARE - - - - X - - - -
+          XORG.0.LOG - - - - O - - - -
+                EXIT - - - - X - - - -
+             COMMAND - - - - X - - - -
+           INITRAMFS - - - - X - - - -
+                  .. - - - - X - - - -
+                 ETC - - - - - X X - -
+                HTTP - - - - - - - X -
+//PASTE.UBUNTU.COM/803586/ - - - - - - - X -
+                KIND - - - - - - - - X
+            GRAPHICS - - - - - - - - X

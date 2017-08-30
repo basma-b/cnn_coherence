@@ -1,0 +1,10 @@
+                IFUP S -
+                CALL O -
+/ETC/INIT/NETWORK-INTERFACE.CONF X -
+             UPSTART X -
+               /DEV/ - X
+              DEVICE - X
+     /SOMETHING_ELSE - X
+             CONTENT - S
+              ACCESS - O
+              SECOND - O

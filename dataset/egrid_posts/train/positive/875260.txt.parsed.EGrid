@@ -1,0 +1,11 @@
+                ROOT X - -
+                FILE O - -
+             COMMAND X - -
+             CRONJOB S - -
+             NOTHING - X -
+                 CHE - X -
+               CHECK - S -
+               CROND - S -
+                 JOB - S -
+           CONFIGURE - X -
+                THAT - - O

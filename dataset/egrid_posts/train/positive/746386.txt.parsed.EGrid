@@ -1,0 +1,15 @@
+             10.04.1 O - - -
+                   X X O - -
+             STARTUP X - - -
+                BOOT - X - X
+            TERMINAL - X - -
+               ENTRY - O - -
+                 KDM - X - -
+         /ETC/INIT.D - X - -
+/ETC/DEFAULT-DISPLAY-MANAGER - - X -
+             COMMENT - - - O
+             DISPLAY - - - X
+             MANAGER - - - S
+              SCREEN - - - X
+            RUNLEVEL - - - O
+             UPSTART - - - X

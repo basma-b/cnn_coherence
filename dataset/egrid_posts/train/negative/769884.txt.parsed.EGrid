@@ -1,0 +1,12 @@
+             SOMEONE X S - -
+/PROC/ASOUND/CARD0/PCM0P/OSS S S X -
+               ERROR O O - -
+                SUDO - S - -
+         PERMISSIONS - X - -
+          DIFFERENCE - O - -
+                  -I - O - -
+             COMMAND - - O -
+                FILE - - X -
+           DIRECTORY - - X -
+                DIFF - - X -
+                  RM - - - X

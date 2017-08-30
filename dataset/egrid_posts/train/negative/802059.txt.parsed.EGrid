@@ -1,0 +1,15 @@
+                HELP X - - - -
+             WINDOWS - S - - -
+                GRUB - X - - -
+                BOOT - - X - -
+                 USB - - X - -
+               GRUB2 - - X - -
+             DESKTOP - - X - -
+             ONLINER - - - S -
+                SUDO - - - S -
+                /MNT - - - O -
+        GRUB-INSTALL - - - O -
+            /DEV/SDA - - - O -
+                SDA1 - - - X -
+                 SDA - - - O -
+              CHOICE - - - X -

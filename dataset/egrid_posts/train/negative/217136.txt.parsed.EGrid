@@ -1,0 +1,15 @@
+                BOOT X - -
+             RAMDISK X - -
+                NONE S O -
+               /PROC X - -
+                FILE X S -
+           DIRECTORY X - -
+              PROCFS S - -
+              KERNEL X - -
+              SYNTAX - O -
+                PROC - S -
+              EFFEKT - X -
+                   > - S -
+                   X - - X
+              CONFIG - - X
+                MESS - - X

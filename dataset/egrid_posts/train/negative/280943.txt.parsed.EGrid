@@ -1,0 +1,17 @@
+                ROLE X - - - - -
+                 LRM X - - - - -
+            RESOURCE X - - - - -
+             MANAGER X - - - - -
+                HTTP X - - - - -
+LINUX-RESTRICTED-MANAGER - S X - - -
+          NVIDIA/ATI - X - - - -
+             DRIVERS - S - - - -
+              GOOGLE - - S - - -
+             FEATURE - - - - S -
+                  .. - - - - X -
+                TYPE - - - - - O
+                SUDO - - - - - X
+             APT-GET - - - - - X
+                 SSH - - - - - S
+            USERNAME - - - - - S
+         192.168.0.2 - - - - - O

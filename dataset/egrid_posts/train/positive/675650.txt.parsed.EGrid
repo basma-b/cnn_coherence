@@ -1,0 +1,30 @@
+               THERE X - - - - - - -
+             SOMEONE X - - - - - - S
+                 8.4 X - - - - - - -
+                 WAY - X - - - - - -
+             PACKAGE - O - - - - - -
+                DATA - X - - - - - -
+             UPGRADE - X - - - - - -
+                MESS - O - - - - - -
+          EVERYTHING - X - - - - - -
+                SUDO - - X - - - - -
+               PURGE - - X - - - - -
+             PROBLEM - - - - X - - -
+          POSTGRESQL - - - - - - X -
+                TYPE - - - - - - X -
+            TERMINAL - - - - - - X -
+                   * - - - - - - X -
+            DATABASE - - - - - - X -
+              SERVER - - - - - - X -
+               ERROR - - - - - - S -
+/VAR/LOG/POSTGRESQL/POSTGRESQL-8.4-MAIN.LOG - - - - - - X -
+                  -S - - - - - - O -
+UNIX_SOCKET_DIRECTORY= - - - - - - X -
+                /TMP - - - - - - X -
+        CONFIG_FILE= - - - - - - X -
+/ETC/POSTGRESQL/8.4/MAIN/POSTGRESQL.CONF - - - - - - X -
+  EXTERNAL_PID_FILE= - - - - - - X -
+/VAR/RUN/POSTGRESQL/8.4-MAIN.PID - - - - - - X -
+               AUCUN - - - - - - X -
+            POSTGRES - - - - - - X -
+                 ONE - - - - - - - O

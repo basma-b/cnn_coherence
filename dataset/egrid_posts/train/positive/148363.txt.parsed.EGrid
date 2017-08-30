@@ -1,0 +1,12 @@
+             PROBLEM X - - - -
+          REALPLAYER - O - - -
+               ERROR - O - O -
+ /USR/BIN/REALPLAYER - X - - -
+                LINE - X - - -
+                EXEC - X - - -
+/USR/LIB/REALPLAYER8/REALPLAY - X - - -
+                FILE - X - O -
+           DIRECTORY - X - - -
+          DEPENDENCY - - - X -
+      LIBSTDC++.SO.5 - - - X -
+                 DEB - - - - O

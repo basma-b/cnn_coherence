@@ -1,0 +1,16 @@
+                 TIP X - - -
+                 DNS O X X -
+                BIND X - - -
+             NETWORK X - - -
+               HOSTS - X - -
+              SERVER - X - -
+                 LOG - X - -
+  /VAR/LOGS/MESSAGES - X - -
+             SERVERS - - S -
+                FILE - - O -
+                INFO - - O -
+              SYSLOG - - X -
+                TIME - - - O
+               MOUSE - - - O
+               START - - - X
+               CLICK - - - X

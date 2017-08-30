@@ -1,0 +1,19 @@
+             COMMAND X - - - - - - - -
+              DEAMON O - - - - - - - -
+    /ETC/INIT.D/SSHD - S - - - - - - -
+                FILE - X - - - - - - -
+           DIRECTORY - X - - - - - - -
+                  .. - O - - - - - - -
+              INSTAL - O - - - - - - -
+                 RUN - - X - - - - - -
+              SERVER - - X - - - - - -
+              PACKET - - X - - - - - -
+                SSHD - - - - S - - - -
+               THERE - - - - S - - - -
+               ENTRY - - - - O - - - -
+               START - - - - - - X - -
+             APT-GET - - - - - - S - -
+                OKIZ - - - - - - O - -
+         GCONFTOOL-2 - - - - - - - - X
+/APPS/COMPIZ/PLUGINS/MOVE/ALLSCREENS/OPTIONS/CONSTRAIN_Y - - - - - - - - X
+                TYPE - - - - - - - - X

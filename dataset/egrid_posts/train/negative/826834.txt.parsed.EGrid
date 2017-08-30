@@ -1,0 +1,13 @@
+             COMMAND X - - -
+                LINE X - S -
+                 GPU O O - -
+                  YO - S - -
+            ANYTHING - O - -
+             DISPLAY - X - -
+            MODPROBE - - X -
+         NDISWRAPPER - - X -
+                LOOK - - X -
+               ERROR - - X -
+                CARD - - X -
+               LSPCI - - - X
+                  -V - - - X

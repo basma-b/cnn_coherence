@@ -1,0 +1,31 @@
+            LAUNCHER O - - - - - - - -
+/USR/SHARE/APPLICATIONS X - - - - - - - -
+              SYSTEM S - - - - - - - -
+./LOCAL/SHARE/APPLICATIONS O - - - - - - - -
+            .DESKTOP O - - - - - - - -
+                 END X - - - - - - - -
+                FILE X X - - - - - - -
+                NAME X - - - - - - - -
+             BROWSER S - - - - - - - -
+                HELP - X - - - - - - -
+                DASH - X - - - - - - -
+                 ETC - X - - - - - - -
+                DEPS - - - X - - - - S
+                APPS - - - - X - X - -
+              DESIGN - - - - O - - - -
+             SYSTEMS - - - - X - - - -
+              POLICY - - - - - S - - -
+              DISTRO - - - - - X - - -
+             PACKAGE - - - - - O - - S
+            PROBLEMS - - - - - O - - -
+               REPOS - - - - - - X S -
+               THING - - - - - - - O -
+                PART - - - - - - - S -
+             PROBLEM - - - - - - - X -
+             UPGRADE - - - - - - - - S
+              UPDATE - - - - - - - - X
+           MECHANISM - - - - - - - - X
+        CROSS-DISTRO - - - - - - - - X
+                WINE - - - - - - - - X
+             CHANNEL - - - - - - - - X
+              WINEHQ - - - - - - - - X

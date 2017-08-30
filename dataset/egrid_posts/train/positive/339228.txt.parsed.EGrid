@@ -1,0 +1,25 @@
+             MACHINE X - - - - - - -
+                CHIP X - - - - - - -
+                LINE - X X - - O - O
+             OPTIONS - X X - - - - -
+       SND_HDA_INTEL - X X - - - - -
+          MODEL=ACER - X X - - - - -
+      POSITION_FIX=1 - O O - - - - -
+                FILE - X X - - X - -
+/ETC/MODPROBE.D/SND_HDA_INTEL - X - - - O - -
+                 ONE - - S - S - - -
+                THAT - - - - O - S -
+                   $ - - - - - O - -
+                   * - - - - - S - -
+                GKSU - - - - - X - -
+                GAIM - - - - - S - -
+               XCHAT - - - - - X - -
+                NAME - - - - - X - -
+                 RED - - - - - X - -
+               IRSSI - - - - - X - -
+                 WAY - - - - - O - -
+               THERE - - - - - S - -
+                  TA - - - - - S - -
+              ISHOCK - - - - - S - -
+       ISHOCK-LAPTOP - - - - - X - -
+             PROBLEM - - - - - - X -

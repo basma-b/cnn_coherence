@@ -1,0 +1,24 @@
+           GREETINGS X - - - - - - -
+             VOLUMES O - - - - - - -
+          /ETC/FSTAB X - - - - - - -
+                 NON X - - - - - - -
+                ROOT X - - - - - - -
+               USERS X - - - - - - -
+           DIRECTVIE - S - - - - - -
+                  RW - X - - - - - -
+            DEFATULS - - - X - - - -
+               GROUP - - - S X - - -
+          /MNT/POINT - - - O - - - -
+               CHMOD - - - X - - - -
+                 G+W - - - X - - - -
+             MEMBERS - - - - O - - -
+             DEFAULT - - - - X - - -
+                 TRY - - - - S - - -
+            FILENAME - - - - - - O -
+             PROGRAM - - - - - - X -
+                 END - - - - - - X -
+             EXAMPLE - - - - - - - X
+   EXAMPLEPROGRAM.SH - - - - - - - O
+             DESKTOP - - - - - - - X
+                  SH - - - - - - - X
+/HOME/PLUSTAX/DESKTOP/EXAMPLEPROGRAM.SH - - - - - - - X

@@ -1,0 +1,13 @@
+              DEVICE X - - - -
+           /DEV/SDB3 S - - - -
+                SATA O - - - -
+      NVIDIA-PACKAGE - - O - -
+              METHOD - - O - -
+               LSPCI - - - X -
+                   | - - - X -
+                GREP - - - X -
+                 VGA - - - S -
+             PROBLEM - - - - X
+               CHILD - - - - O
+                SUDO - - - - X
+             APT-GET - - - - S

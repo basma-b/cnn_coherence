@@ -1,0 +1,11 @@
+           PARTITION O - -
+                EXT3 X - -
+             COMMAND X - -
+                LINE X - -
+                TOOL X - -
+                SAME O - -
+             TUNE2FS - S S
+          DIFFERENCE - - S
+                 LOG - - X
+                FILE - - O
+             JOURNAL - - S

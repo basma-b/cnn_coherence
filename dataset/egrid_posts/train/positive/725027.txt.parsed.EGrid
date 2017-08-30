@@ -1,0 +1,11 @@
+ETC/NETWORK/INTERFACES O - - - - - -
+/ETC/UFW/BEFORE.RULES O - - - - - -
+                FILE O - - - O - -
+             SERVICE - X - O - O -
+               ORDER - S - - - - -
+              CHANGE - S - - - - -
+             NETWORK - - O - - - -
+              SYSCTL - - - S - X -
+             MACHINE - - - S - - -
+                  .. - - - - X - -
+                   > - - - - - - X

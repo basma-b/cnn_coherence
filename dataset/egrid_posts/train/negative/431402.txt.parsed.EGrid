@@ -1,0 +1,17 @@
+            QUESTION X - - - -
+              REGARD X - - - -
+  NETBOOT/NETINSTALL X - - - -
+            COMPUTER X - - - -
+            DHCP/DNS O - - - -
+               ORDER S - - - -
+                  .. O - - - -
+              ROUTER X - - - -
+                DHCP O - - - -
+          UNETBOOTIN - O - - -
+               BIND9 - - X - -
+                   + - - X - -
+                TFTP - - S - -
+                THIS - - - S -
+             WINDOWS - - - X -
+               LINUX - - - S -
+                THAT - - - - O

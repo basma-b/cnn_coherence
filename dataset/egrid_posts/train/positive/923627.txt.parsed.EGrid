@@ -1,0 +1,15 @@
+    SCSI-EMULATIONIS S - - - -
+                 USE O X - - -
+            CDRECORD - S - - -
+        DEV=/DEV/HDC - O - - -
+                IIRC - X - - -
+            XCDROAST - O - - X
+           CDRECORD= - O - - -
+        DEV=/DEV/HDB - X - - -
+              DEVICE - X - - -
+               SETUP - X - - -
+              MEMORY - X - - -
+          EVERYTHING - X - - -
+               WARTY - X - - -
+          GNOMEBAKER - - X - -
+               HOARY - - - - X

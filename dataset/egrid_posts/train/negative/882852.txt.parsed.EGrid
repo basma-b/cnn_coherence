@@ -1,0 +1,9 @@
+                   $ X -
+               ALIAS X -
+EAGLE=/HOME/SOLEXIOUS/EAGLE-6.1.0/BIN/EAGLE X -
+                   > S -
+             .BASHRC X -
+               ROUTE - O
+             NETWORK - X
+             DEFAULT - X
+             GATEWAY - X

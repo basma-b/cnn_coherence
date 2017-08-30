@@ -1,0 +1,20 @@
+              ANYONE S - - - - - -
+                 GCJ X - - - - - -
+            SUN-JAVA X - - - - - -
+             COMMAND - O X - - - -
+              DOESNT - X - - - - -
+            JAVA-GCJ - O - - - - -
+ UPDATE-ALTERNATIVES - - X S - - -
+                 ILL - - S - - - -
+           REINSTALL - - O - - - -
+                HOLD - - O - - - -
+                SUDO - - - X - X -
+                WORK - - - O - - -
+UPDATE-JAVA-ALTERNATIVES - - - - X - -
+           DIRECTORY - - - - S - -
+   /USR/LIB/JVM/JAVA - - - - S - -
+            FIREWALL - - - - O - -
+            IPTABLES - - - - - S -
+              INIT.D - - - - - S -
+/ETC/INIT.D/IPTABLES - - - - - S -
+               RIGHT - - - - - - X

@@ -1,0 +1,15 @@
+                 WAY X - - - - -
+           PARTITION X - - - - -
+                  RW O X - - - -
+                USER X - - - - -
+                ONLY - X - - - -
+                ROOT - X - - - -
+              OTHERS - S - - - -
+                  R. - X - - - -
+                THIS - O - - - -
+            WORKSUDO - S - - - -
+                +777 - O - - - -
+               /EXT3 - - X - - -
+                  .. - - X - - -
+                VFAT - - X - - -
+                  NO - - - - - X

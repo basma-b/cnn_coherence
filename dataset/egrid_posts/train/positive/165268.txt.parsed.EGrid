@@ -1,0 +1,14 @@
+                WORK O - - -
+              CONFIG X - - -
+                FILE S - - -
+            DDCLIENT - X - -
+              ROUTER - X X -
+                  IP - O O -
+                LINE - - S -
+             USE=WEB - - S -
+WEB=CHECKIP.DYNDNS.ORG - - X -
+             ADDRESS - - X -
+                COOL - - O -
+             SERVICE - - X -
+                SUDO - - X -
+/ETC/INIT.D/DDCLIENT - - S -

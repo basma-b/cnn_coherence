@@ -1,0 +1,10 @@
+            SHUTDOWN X - -
+            FIREWALL X O -
+              OTHERS S S -
+                PING - S -
+              UBUNTU - S -
+               BLOCK - X -
+             DEFAULT - X -
+             NETWORK - X -
+                INFO - - X
+                BOOT - - X

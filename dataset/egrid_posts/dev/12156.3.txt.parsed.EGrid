@@ -1,0 +1,10 @@
+             COMMAND O - - - O
+      AUTHENTICATION - X - - -
+             FAILURE - O - - -
+            PASSWORD - X - - -
+             PROBLEM - - X - -
+                 USE - - - X -
+                SUDO - - - X -
+                  -I - - - X -
+            THEADMIN - - - - X
+            TIMEZONE - - - - O

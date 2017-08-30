@@ -1,0 +1,15 @@
+             CHOICES O - - - -
+              DRIVER O - - - -
+                 ONE - X - - -
+                 TWO - X - - -
+               LINUX - - S - -
+              KERNEL - - X - -
+             VERSION - - X - -
+              OTHERS - - X - X
+               RHEL4 - - X - -
+              REDHAT - - X - -
+              FEDORA - - X - -
+                CORE - - X - -
+                  -R - - X - -
+             CONSOLE - - X - -
+                 THE - - - - S

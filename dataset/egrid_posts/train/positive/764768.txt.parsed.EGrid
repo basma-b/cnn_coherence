@@ -1,0 +1,20 @@
+          PULSEAUDIO X - - - - - - - - -
+                 USE O - - - - - - - - -
+                 PPA X - - - - - - X X X
+           DOWNGRADE X - O - - - - - - -
+           REINSTALL - X - - - - - - - -
+           PPA-PURGE - - S - - - - X - -
+            SOFTWARE - - - X - - - - - -
+              SOURCE - - - X - - - - - -
+             COMMAND - - - X - - - - - -
+                TALK - - - O - - - - - -
+                SUDO - - - X - - - X - X
+                DPKG - - - - O - - - - -
+     FORCE-DOWNGRADE - - - - X - - - - -
+              OPTION - - - - - S - - - -
+                FILE - - - - - X - - - -
+                MESS - - - - - O - - - -
+                NAME - - - - - - - - S -
+  ADD-APT-REPOSITORY - - - - - - - - - X
+UBUNTU-AUDIO-DEV/PPA - - - - - - - - - X
+         PPA-PURGE.P - - - - - - - - - O

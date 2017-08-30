@@ -1,0 +1,16 @@
+ /BOOT/GRUB/MENU.LST X - - - - - - - - -
+                   X - X - - - - - - - -
+              BINARY - X - - - - - - - -
+                ROOT - - X - - X - - - -
+               FRESH - - X - - - - - - -
+             INSTALL - - - - X - X - - -
+               ERROR - - - - X O - - - -
+             MESSAGE - - - - X - - - - -
+              ERRORS - - - - - X - - - -
+     XF86OPENCONSOLE - - - - - X - - - -
+              SERVER - - - - - S - - - -
+             NOTHING - - - - - - X - - -
+                 BUG - - - - - - - O - -
+                STOP - - - - - - - O - -
+                  -L - - - - - - - S - -
+             FEATURE - - - - - - - - - O

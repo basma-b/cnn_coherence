@@ -1,0 +1,10 @@
+SERVICEPRINCIPALNAMES O - - - -
+              DOMAIN - S - - X
+              SERVER - X - - -
+                  AD - X - - -
+                 USE - X - - X
+               ADMIN - X - - -
+         CREDENTIALS - X - - -
+                WAHT - S - - -
+                 ADS - - - - X
+       SAMBA/WINBIND - - - - X

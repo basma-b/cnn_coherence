@@ -1,0 +1,6 @@
+                SUDO S -
+              CONFIG S -
+            IFCONFIG X -
+               LSPVI - X
+                  -V - S
+                 OUT - O

@@ -1,0 +1,11 @@
+                USER O X O - -
+          PERMISSION O - - - -
+           DIRECTORY X - - - -
+              ACCESS - O - - -
+               STUFF - O - - -
+               GROUP - - X - -
+                 DIR - - X - -
+               CHGRP - - X - -
+        DESIRED_USER - - O - -
+       DESIRED_GROUP - - - X -
+           SOMETHING - - - - O

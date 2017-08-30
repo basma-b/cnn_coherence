@@ -1,0 +1,27 @@
+                FLAG O - - - - - -
+              TARGET X - - - - - -
+             RELEASE O - S - - - -
+             APT-GET - S - - - - -
+             PACKAGE - X - - - - -
+                  .. - O - - - - -
+            VERSIONS - - X - - - -
+      APT-DATER-HOST - - X - - - -
+            ANYTHING - - X - - - -
+    APACHE/MYSQL/ETC - - O - - - -
+           BACKPORTS - - X - - - -
+               CHECK - - X - - - -
+           APT-CACHE - - X - - - -
+              POLICY - - X - - - X
+               ENTRY - - S - - - -
+                LINE - - O - - - -
+        C=MULTIVERSE - - X - - - -
+              OUTPUT - - O - - - X
+            PASTEBIN - - X - - - -
+                THAT - - - S - - -
+                HTTP - - - - S - -
+//PASTEBIN.CA/1740064 - - - - X - -
+                MOST - - - - S - -
+               STUFF - - - - X - -
+              UPDATE - - - - X X -
+            APTITUDE - - - - - X -
+             COMMAND - - - - - - X

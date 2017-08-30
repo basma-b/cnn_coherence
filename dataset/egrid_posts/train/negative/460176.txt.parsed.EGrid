@@ -1,0 +1,12 @@
+              DRIVER - O - - - - -
+        /SBIN/INSMOD - O - - - - -
+                THIS - - X - - - -
+                BOOT - - X - - - -
+             ROUTINE - - X - - - -
+/ETC/INIT.D/RC.LOCAL - - - S - - -
+           POSSIBITY - - - O - - -
+        /ETC/MODULES - - - X - S -
+                NAME - - - - - O -
+               XXXXX - - - - - X -
+             COMMAND - - - - - X -
+        INSTRUCTIONS - - - - - - O

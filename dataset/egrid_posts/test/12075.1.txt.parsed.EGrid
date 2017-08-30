@@ -1,0 +1,6 @@
+              MODULE S - -
+                LOAD O - O
+          MODPROBE.D X - X
+               AFTER O - -
+            ARGUMENT - - S
+                INIT - - X

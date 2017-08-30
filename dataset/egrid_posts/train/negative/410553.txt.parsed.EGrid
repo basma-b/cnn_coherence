@@ -1,0 +1,17 @@
+             PROCESS O O - - - -
+                 CLI X X - - - -
+                 CPU X - - - - -
+               USAGE O - - - - -
+             COMMAND - S - S - -
+                 PID - X - - - -
+                STOP - - S - - -
+               SHELL - - - X - -
+                BASH - - - O - -
+                  PS - - - X - -
+                -AEX - - - S - -
+              THINGS - - - - O -
+                 ONE - - - - O -
+                HELP - - - - - O
+                NONE - - - - - S
+                USER - - - - - X
+                MODE - - - - - X

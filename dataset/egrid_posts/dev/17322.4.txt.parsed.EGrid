@@ -1,0 +1,28 @@
+             PRINTER S - - - - - - - - -
+              VMWARE X - - - - - - - - -
+               SHARE X - - - - - - - - -
+               PRINT - X - - - - - - - -
+           SOMETHING - X - - - - - - - -
+               QUEUE - X - - - - - - - -
+              WINDOW - S - - - - - - - -
+                 JOB - S - - - - - - - -
+                STOP - O - - - - - - - -
+                FILE - X O - - - - - - -
+                HOST - - X - - - - - - -
+       LOCALHOST:631 - - - O - - - - - -
+            QUESTION - - - - - O - - - -
+                TYPE - - - - - - X - - -
+              PEOPLE - - - - - - S - - -
+               ISSUE - - - - - - - - - S
+                LINE - - - - - - - - - S
+        LIBASSIMP.SO - - - - - - - - - S
+            /USR/LIB - - - - - - - - - X
+             COMMAND - - - - - - - - - X
+               POINT - - - - - - - - - O
+/USR/LIB/I386-LINUX-GNU - - - - - - - - - X
+-L/USR/LIB/I386-LINUX-GNU - - - - - - - - - X
+               QMAKE - - - - - - - - - O
+             VERSION - - - - - - - - - O
+                  QT - - - - - - - - - X
+              OUTPUT - - - - - - - - - X
+                 LIB - - - - - - - - - X

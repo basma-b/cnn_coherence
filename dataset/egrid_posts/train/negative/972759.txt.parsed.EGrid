@@ -1,0 +1,9 @@
+                IMAP - X - - -
+              DAEMON - X - - -
+                 USE - X - - -
+               EMAIL - - X - -
+             POSTFIX - - - X -
+           SMARTHOST - - - X -
+                MAIL - - - X -
+              CLIENT - - - S -
+                FILE - - - - S

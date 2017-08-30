@@ -1,0 +1,14 @@
+           PARTITION O S - -
+                USER X O - -
+          FILESYSTEM - X - -
+                 BIN - X - -
+              BOTTEM - X - -
+                EXT3 - O - -
+                  RW - X - -
+             OPTIONS - X - -
+          /ETC/FSTAB - X - -
+               USERS - X - -
+               THING - O - -
+               THERE - - - X
+             FLUXBOX - - - X
+             BUSYBOX - - - X

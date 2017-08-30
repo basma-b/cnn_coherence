@@ -1,0 +1,16 @@
+             COMMAND O - - -
+             EXAMPLE X - - -
+           /DEV/SDA2 X - S -
+              WHEVER O - - -
+               MOUNT - - X -
+                   | - - S -
+              UBUNTU - - S -
+          /DEV/LOOP0 - - X -
+             WINDOWS - - S -
+            TERMINAL - - X -
+                  CD - - X X
+                 ETC - - O -
+              DEVICE - - - O
+           DIRECTORY - - - X
+            DIRETORY - - - X
+                  IE - - - X

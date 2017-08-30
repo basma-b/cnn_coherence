@@ -1,0 +1,14 @@
+               ROUTE X - - -
+             DEFAULT X S - -
+                ETH0 - X - -
+             NETWORK - X - -
+             MANAGER - S - -
+                 TOP - X - -
+         192.168.1.1 - O - -
+/ETC/RESOLVCONF/RESOLV.CONF.D/HEAD - - O -
+             PACKAGE - - X -
+           OVERWRITE - - X -
+    /ETC/RESOLV.CONF - - O -
+              POLICY - - - X
+            ACPIDUMP - - - X
+                IASL - - - S

@@ -1,0 +1,12 @@
+         UPDATE-RC.D X - - - - -
+                THAT - X - - - -
+             LOCAL.D - X - - - -
+                BOOT - X X - - -
+              SCRIPT - - O - - -
+         /ETC/INIT.D - - X - - -
+                 RUN - - X - - -
+              SYSTEM - - S - - -
+            RC.LOCAL - - X - - -
+                WHAT - - - - - O
+               NATTY - - - - - X
+                   | - - - - - S

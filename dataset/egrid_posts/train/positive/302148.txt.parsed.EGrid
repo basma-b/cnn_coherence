@@ -1,0 +1,17 @@
+             CHANNEL X - - - - - -
+                 LOG X - - - - - -
+          /ETC/FSTAB - - X - - - -
+               LACIE - - X - - - -
+               DRIVE - - O - O - -
+             OPTIONS - - X X - - -
+            QUESTION - - - S - - -
+                LINE - - - - X - -
+                UUID - - - - O - -
+           /DEV/HDXX - - - - X - -
+                  -L - - - - - O -
+           PARTITION - - - - - O -
+       /DEV/WHATEVER - - - - - O -
+              MOMENT - - - - - - X
+                  OT - - - - - - S
+         NTFS-CONFIG - - - - - - O
+               WRITE - - - - - - X

@@ -1,0 +1,33 @@
+   2.6.35-22-VIRTUAL S - - - - - - - -
+             SUPPORT O - - - - - - - -
+          NFS-COMMON S - - - - - - - -
+                 NFS - S - - O - - - -
+           MOUNT.NFS - X - - - - - - -
+              DEVICE - X - - - - - - -
+                   / - X - - - - - - O
+            MODPROBE - X - - - - - - -
+               FATAL - X - - - - - - -
+              MODULE - X - - - - - - -
+                GREP - - S - - - - - -
+     CONFIG_NFS_FS=M - - X - - - - - -
+       CONFIG_NFSD=M - - X - - - - - -
+                  .. - - O - - - X - -
+/LIB/MODULES/2.6.35-22-VIRTUAL/KERNEL/FS/NFS - - - S - - - - -
+             UPGRADE - - - - O - - - -
+               10.04 - - - - X - - - -
+              KERNEL - - - - S - - - -
+                HTTP - - - - X - - - -
+//PACKAGES.UBUNTU.COM/MAVERICK/AMD64/LINUX-IMAGE-2.6.35-22-VIRTUAL/FILELIST - - - - X - - - -
+                 SOO - - - - - - X - -
+                KIND - - - - - - X - -
+                 BUG - - - - - - X X -
+              REPORT - - - - - - - O -
+                  'S - - - - - - - X -
+            SOMEBODY - - - - - - - S -
+                FILE - - - - - - - - X
+                SYNC - - - - - - - - S
+                 ALL - - - - - - - - S
+             SYSTEMS - - - - - - - - X
+               PHONE - - - - - - - - X
+                MOVE - - - - - - - - X
+                 VIS - - - - - - - - O

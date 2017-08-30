@@ -1,0 +1,13 @@
+                EXEC X - -
+         /SBIN/GETTY O - -
+                TTY1 X - -
+              SERVER S - -
+              FLAVOR O - -
+                 GUI O - -
+                  CD - - X
+              COMAND - - X
+                  LS - - X
+                 AOR - - X
+                  MC - - X
+            MIDNIGHT - - X
+           COMMANDER - - X

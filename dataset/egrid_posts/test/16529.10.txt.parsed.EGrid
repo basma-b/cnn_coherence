@@ -1,0 +1,27 @@
+      NVIDIA-CURRENT S - - S - - - -
+               12.10 X - - - - - - -
+              KERNEL - X - - X - - -
+              SOURCE - X - - - - - O
+                THAT - - O - - - - -
+             PACKAGE - - S - - - - X
+             PROBLEM - - - O - - - S
+              INSTAL - - - - X - - -
+             HEADERS - - - - X - - -
+            UNIVERSE - - - - - - X -
+                REPO - - - - - - X -
+              SEARCH - - - - - - X -
+ PACKAGES.UBUNTU.COM - - - - - - X -
+             EXAMPLE - - - - - - X -
+               REPOS - - - - - - O X
+              OUTPUT - - - - - - O -
+                 CAT - - - - - - X -
+          /ETC/ISSUE - - - - - - X -
+/ETC/APT/SOURCES.LIST - - - - - - X -
+             APT-GET - - - - - - - S
+              UPDATE - - - - - - - O
+             PROGRAM - - - - - - - O
+                GOOD - - - - - - - X
+             COMMAND - - - - - - - X
+              SYSTEM - - - - - - - X
+                NAME - - - - - - - O
+              ENABLE - - - - - - - O

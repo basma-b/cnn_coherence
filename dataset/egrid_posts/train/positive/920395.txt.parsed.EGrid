@@ -1,0 +1,15 @@
+              FRIEND S - - - - - - -
+              KERNEL O - X - - - - -
+              CONFIG X - - - - - - -
+               PANIC O - - - - - - -
+             PROBLEM - S - - - - - -
+              INITRD - X O - - X - -
+             INITRDS - - - - X - - -
+             RAMDISK - - - - - X - -
+          FILESYSTEM - - - - - O - -
+              THINGS - - - - - O - O
+              DRIVER - - - - - X - -
+             MODULES - - - - - X - -
+                NEED - - - - - - X -
+              UBUNTU - - - - - - X -
+                ARCH - - - - - - - O

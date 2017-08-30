@@ -1,0 +1,26 @@
+                SWAP S - - S - - -
+                THAT - O - - - - -
+                 CAT - X - - - - -
+         /PROC/SWAPS - S - - - - -
+                 ETC - X - - - - -
+              COMPIZ - - X X X - -
+                   $ - - - X - - -
+              KBYTES - - - X - - -
+                TYPE - - - X - - -
+                THIS - - - O - - -
+            TERMINAL - - - X - - -
+                SUDO - - - X - - -
+             APT-GET - - - S S - -
+COMPIZCONFIG-SETTINGS-MANAGER - - - S S - -
+          ERRORCHASE - - - O - - -
+        CHASE-LAPTOP - - - X X - -
+                   E - - - X X - -
+                LOCK - - - X X - -
+  /VAR/LIB/DPKG/LOCK - - - O O - -
+            RESOURCE - - - X X - -
+      ADMINISTRATION - - - X X - -
+           DIRECTORY - - - O O - -
+      /VAR/LIB/DPKG/ - - - X X - -
+             PROCESS - - - S S - -
+               CHASE - - - - X - -
+             COMMAND - - - - - - X

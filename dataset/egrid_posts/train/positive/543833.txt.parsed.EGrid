@@ -1,0 +1,17 @@
+         PUBRING.GPG O - - O -
+                 TXT X - - - -
+                FILE X - - X O
+              FORMAT X - - - -
+/PATH/TO/PUBRING.GPG O - - - -
+                SORT S - - - -
+             COMMAND - X - X -
+                  .. - X - - -
+                FINE - - - X -
+                SAME - - - X -
+                LINE - - - O -
+           INTERFACE - - - X -
+                 GPG - - - X -
+                RING - - - X -
+                  GO - - - - S
+                 CAT - - - - X
+             GARBAGE - - - - O

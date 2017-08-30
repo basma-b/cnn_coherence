@@ -1,0 +1,25 @@
+                LOAD S - - - -
+                 GLX X - - - -
+             MACBOOK X - - - -
+                 C2D X - - - -
+                XORG S - - - -
+             MODULES X - - - -
+             SECTION O - - - -
+              SIMPLE O - - - -
+              ERRORS O - - - -
+             DRIVERS S - - - -
+               INTEL X X - - -
+            GRAPHICS X - - - -
+               RIGHT O - - - -
+ /VAR/LOG/XORG.0.LOG - X - - -
+                HTTP - O - - -
+//PASTEBIN.COM/M63E0F730 - X - - -
+              NVIDIA - X - - X
+              DRIVER - S - - S
+                SUDO - X - - -
+               PURGE - S - - -
+             PACKAGE - X - - -
+                LIST - O - - -
+             INSTALL - O - - -
+                 PCS - X - - -
+            ANYTHING - - - - X

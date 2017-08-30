@@ -1,0 +1,24 @@
+            WIRELESS - X - - - - - - - -
+                CARD - O - - - - - - - -
+        INSTRUCTIONS - - X - - - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/WIFIDOCS/WIRELESSTROUBLESHOOTINGGUIDE - - X - - - - - - -
+                BOOT - - O - - - - - - -
+              KERNEL - - X - X - - - O -
+              OPTION - - X - - - - - - -
+          PCI=NOACPI - - X - - - - - - -
+            ACPI=OFF - - X - - - - - - -
+                THIS - - - X - - - - - -
+                GRUB - - - - X X - - - -
+                LINE - - - - O - - - O -
+               THOSE - - - - O - - - - -
+                 END - - - - X - - X - -
+              GKSUDO - - - - - - X - - -
+               GEDIT - - - - - - S - - -
+            MENU.LST - - - - - - X - - -
+               -LSB- - - - - - - - - X -
+               STUFF - - - - - - - - S -
+              SPLASH - - - - - - - - X -
+           PCI=NACPI - - - - - - - - O -
+               FSTAB - - - - - - - - - X
+              DEVICE - - - - - - - - - O
+                   S - - - - - - - - - X

@@ -1,0 +1,18 @@
+       PREREQUISITES - X - - - - - -
+         NDISWRAPPER - X - - - - S -
+       /LIB/MODULES/ - X - - - - - -
+                   < - X - - - - - -
+             VERSION - S - - - - - -
+                LINK - O - - - - - -
+              KERNEL - X X - - - - -
+                FILE - - S - X - - -
+              SOURCE - - S - - - - -
+             SOMEONE - - - X - - - -
+        KERNELSOURCE - - - - S S O -
+/USR/SRC/LINUX-2.X.X - - - - X - - -
+              FOLDER - - - - X - - -
+         LINUX-2.X.X - - - - O - - -
+           DIRECTORY - - - - S - - -
+         APT-SOURCES - - - - - X - -
+             FOLDERS - - - - - - O -
+               THANK - - - - - - - X

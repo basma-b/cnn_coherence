@@ -1,0 +1,16 @@
+              UBUNTU S - - -
+              KERNEL X - - -
+        2.6.24-19-RT X - - -
+            RECOVERY X - - -
+                MODE X - - -
+                BOOT X - - -
+                MENU X - - -
+                LINE O - - -
+ /BOOT/GRUB/MENU.LST X - - -
+              PARAMS O - - -
+             APT-GET - S - -
+  LINUX-IMAGE-2.6.24 - O - -
+                ROOT - - X -
+            PASSWORD - - S -
+                CASE - - X O
+                 IVE - - - S

@@ -1,0 +1,11 @@
+         PERMISSIONS O X X -
+                 USB X - X -
+            PENDRIVE X - X -
+                  .. X - - -
+               CHMOD - O - -
+             MESSAGE - O - -
+                FILE - X - -
+              SYSTEM - X - -
+             SOMEONE - - S -
+          FILESYSTEM - - O -
+                THAT - - - X

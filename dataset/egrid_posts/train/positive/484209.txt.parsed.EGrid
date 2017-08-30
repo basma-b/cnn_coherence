@@ -1,0 +1,19 @@
+           PARTITION S - - - -
+                   % X - - - -
+              SYSTEM S - - - -
+                WORK O - - - -
+              KERNEL - X - - -
+             PACKAGE - X - - -
+                 SEC - - X - -
+                  -L - - X - -
+                   * - - X - -
+                 TKS - - S - X
+               /BOOT - - - S -
+                DPKG - - - S -
+                SUDO - - - X -
+                HTTP - - - S -
+//PASTEBIN.COM/M79736042 - - - S -
+               SPACE - - - O -
+               DRIVE - - - X -
+                JRIB - - - - X
+                 FIX - - - - X

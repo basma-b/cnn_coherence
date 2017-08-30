@@ -1,0 +1,25 @@
+                   W X - - - -
+                 GPG X - - S -
+               ERROR X - - - -
+                HTTP X - - - -
+             RELEASE X - - - -
+          SIGNATURES S - - - -
+                 KEY S - - S -
+           NO_PUBKEY X - - - -
+    83FBA1751378B444 - - X - -
+                SUDO - - X - X
+             APT-KEY - - X S S
+                 ADV - - X - -
+            RECV-KEY - - X - -
+           KEYSERVER - - X - -
+KEYSERVER.UBUNTU.COM - - X - -
+                WHAT - - S - -
+              OUTPUT - - O - -
+                LINE - - X O -
+             COMMAND - - O - -
+                READ - - - X -
+              IMPORT - - - O -
+                 USE - - - X -
+               ARMOR - - - X -
+         TRUSTED.GPG - - - X -
+            FILENAME - - - - O

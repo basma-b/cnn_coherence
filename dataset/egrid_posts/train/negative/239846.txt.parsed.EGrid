@@ -1,0 +1,14 @@
+               MKDIR X - - X -
+           DIRECTORY S - - - -
+                FILE X - - - -
+                TYPE X - - S -
+               ERROR X - - - -
+            SOLUTION O - - - -
+                NAME - O - - -
+           PARTITION - X - - -
+             TEMINAL - - O - -
+                SUDO - - - X -
+                  -I - - - S -
+            /WINDOWS - - - S -
+/DEV/YOURWINDOWSPARTITION - - - X -
+           DVDAUTHOR - - - - X

@@ -1,0 +1,13 @@
+                  HI X - - - - - - - -
+                LIST - X - - - - - - -
+            MENU.LST - - S - - - - - -
+  /ETC/DEFAULTS/GRUB - - S - - - - - -
+           GRUB.CONF - - - O - - - - -
+          /BOOT/GRUB - - - - S - - - -
+               THERE - - - - S - - - -
+                FILE - - - - O - - - -
+            ANYTHING - - - - - O - - -
+/USR/SBIN/GRUB-MKCONFIG - - - - - X - - -
+                  .. - - - - - X - - -
+             VERSION - - - - - - - - O
+              SOURCE - - - - - - - - X

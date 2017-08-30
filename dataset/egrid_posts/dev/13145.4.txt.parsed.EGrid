@@ -1,0 +1,24 @@
+           THEBORGER X - -
+/ETC/NETWORKMANAGER/NETWORKMANAGER.CONF O - -
+         DNS=DNSMASQ X - -
+         NAMESERVERS O - -
+                SUDO - S -
+             PREPEND - X -
+ DOMAIN-NAME-SERVERS - O -
+                 GUI - - X
+             VERSION - - O
+            TERMINAL - - X
+                 WAY - - X
+               ERROR - - X
+             MESSAGE - - O
+           SOMETHING - - S
+                  .. - - X
+                THIS - - O
+     /VAR/LOG/SYSLOG - - X
+             MP3GAIN - - X
+             PROGRAM - - O
+                SHOW - - X
+              WINDOW - - X
+              CTRL-C - - X
+              PROMPT - - X
+               IDEAS - - X

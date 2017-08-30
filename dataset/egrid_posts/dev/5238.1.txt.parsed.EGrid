@@ -1,0 +1,12 @@
+                USER O - X
+             ADDUSER S - X
+               ERROR O - -
+            TESTUSER X - -
+                SUDO - S -
+               CHRIS - O -
+                JRIB - - X
+               DEBUG - - X
+   DISABLED-PASSWORD - - X
+               GECOS - - X
+                TEST - - X
+               ADMIN - - X

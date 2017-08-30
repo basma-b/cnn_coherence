@@ -1,0 +1,27 @@
+               PATHS X X - - - - -
+                LOOK X - - - - - -
+                 .SO X - - - - - -
+           CONFIGURE - X X - - - -
+                   ' - - X - - - -
+                 MAN - - X - - - -
+            LDCONFIG - - S X - - -
+             PROBLEM - - S - - - -
+                 APP - - O - - - -
+           LIBRARIES - - O X - - -
+      /USR/LOCAL/LIB - - X - - - -
+                 RUN - - X - - - -
+                   U - - S - - - -
+                 YEP - - S O - - -
+                APPS - - S - - - -
+             PROGRAM - - X - - - -
+                SUDO - - - X - - -
+                HTTP - - - X - - -
+//WWW.OPENGL.ORG/SDK/TOOLS/BUGLE/ - - - S - - -
+/ETC/LD.SO.CONF.D/LIBC.CONF - - - S - - -
+                  -V - - - X - - -
+                  .. - - - S - - -
+                LIST - - - X - - -
+                PATH - - - O - - -
+            WIRELESS - - - - - - X
+                BITE - - - - - - X
+                 ^^^ - - - - - - X

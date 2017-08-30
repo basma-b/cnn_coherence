@@ -1,0 +1,12 @@
+                UNIX O - - - - -
+ /ETC/INIT.D/APACHE2 X - - - - -
+/ETC/RC2.D/S91APACHE2 X - - - - -
+              SCRIPT S - - - - -
+                   * O - - - - -
+                  A1 S - - - - -
+                  A2 S - - - - -
+                 S11 - S - - - -
+                  T1 - X - - - -
+                 1ST - O - - - -
+                PATH - - - X - -
+                NOPE - - - - - X

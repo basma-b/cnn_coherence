@@ -1,0 +1,16 @@
+             COMMAND O - - - -
+             CONTENT O - - X -
+                FILE X - - X -
+           DIRECTORY X - - - -
+                  LS X - - - -
+                 -LA X - - - -
+                NAME X - - - -
+                 CAT X - - - -
+               A.TXT X - - - -
+           SOMETHING X - - - -
+                   * X - - - -
+               WRONG - X - - -
+                THAT - - X - -
+               PRESS - - - - X
+                 TAB - - - - X
+             OPTIONS - - - - O

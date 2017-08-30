@@ -1,0 +1,13 @@
+             COMMAND X - - -
+             PACKAGE X - - -
+                NEED O - - -
+             PROGRAM X O - -
+         PROGRAMNAME - O - -
+           DEVELOPER - X - -
+                FILE - O - -
+               DRIVE - - S X
+           PARTITION - - O -
+                  VM - - X S
+               SPACE - - - O
+             DEFAULT - - - X
+               TWEAK - - - O

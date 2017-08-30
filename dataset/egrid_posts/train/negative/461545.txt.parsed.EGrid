@@ -1,0 +1,8 @@
+             PACKAGE X - - - - -
+               PROXY X - - - - -
+                 UDP - O - O - -
+                APPS - S S - - -
+                SOCK - X - - - -
+              SOCKS5 - - - X - -
+             TRAFFIC - - - S - -
+                DCPP - - - - S -

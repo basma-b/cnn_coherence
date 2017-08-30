@@ -1,0 +1,15 @@
+              ANYONE S - - - -
+                INFO X - - - -
+/PROC/BUS/INPUT/DEVICES X S - - -
+              KERNEL - X - - -
+              DEVICE - X - - -
+                 CAT - X - - -
+              OUTPUT - X - - -
+               LSUSB - X X - -
+             NOTHING - - X - -
+                 BUS - - X - -
+              DRIVER - - S - -
+            EHCI_HCD - - O - -
+           BREAKAGES - - - - X
+              UPDATE - - - - X
+               CYCLE - - - - X

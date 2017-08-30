@@ -1,0 +1,12 @@
+            IFCONFIG - S - - X -
+             NETWORK - - S - - -
+                CARD - - X - - -
+                ETH0 - - - - X -
+                   > - - - - X -
+                HOST - - - - X -
+                NAME - - - - X -
+              LOOKUP - - - - X -
+             FAILURE - - - - X -
+             PROBLEM - - - - O -
+            ETHERNET - - - - - X
+           INTERFACE - - - - - X

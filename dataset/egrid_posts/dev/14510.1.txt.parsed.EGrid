@@ -1,0 +1,17 @@
+            LOCATION S - - - - -
+             SOMEONE X - - - - -
+             DEFAULT X - - - - -
+       APACHE-TOMCAT X - - - - X
+              SERVER X - - - - -
+                TYPE - - X - - -
+             TERMINA - - X - - -
+               -NAME - - O - - -
+              APACHE - - S - - X
+              RESULT - - X - - -
+            WILDCARD - - X - - -
+                 END - - X - - -
+                   * - - X - - -
+                PAGE - - O O - -
+       CONFIGURATION - - - - X -
+                FILE - - - - S -
+         /ETC/APACHE - - - - X -

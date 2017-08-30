@@ -1,0 +1,13 @@
+             WINDOWS X - - - -
+               ENTRY S - - - -
+                GRUB X - - - -
+                MENU X - - - -
+                BOOT X - - - -
+              OUTPUT - - X - -
+                SUDO - - X - -
+           OS-PROBER - - X - -
+             NOTHING - - - X -
+              SCRIPT - - - - O
+             HEADERS - - - - O
+         INFORMATION - - - - O
+                FILE - - - - X

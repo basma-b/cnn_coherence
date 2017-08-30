@@ -1,0 +1,5 @@
+               CHMOD S -
+            USERNAME - X
+                SUDO - O
+                   * - S
+             DEFAULT - O

@@ -1,0 +1,5 @@
+/ETC/SECURITY/LIMITS.CONF X - -
+               LOGIN X - -
+              SYSTEM X - -
+                BOOT X - -
+                 THX - - X

@@ -1,0 +1,25 @@
+                MESS X - - - - -
+                GRUB X - - - - -
+           PARTITION O - X - - -
+             DEFAULT X - - - - -
+                  OS S - - - - -
+             LIVEUSB - X - - - -
+                FILE - O - - - -
+                SUDO - - X - - -
+         UPDATE-GRUB - - X - - -
+               GUESS - - - - O -
+               LINUX - - - - S -
+               DRIVE - - - - O -
+                ONES - - - - X -
+             DRIVERS - - - - - O
+            FAKERIDE - - - - - X
+              FORMAT - - - - - S
+             WINDOWS - - - - - X
+              DRIVER - - - - - X
+                 BET - - - - - S
+                CARD - - - - - X
+                DISK - - - - - O
+                 BOX - - - - - X
+                DATA - - - - - X
+             NETWORK - - - - - X
+S/FAKERIDE/FAKERAID/ - - - - - X

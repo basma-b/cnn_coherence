@@ -1,0 +1,27 @@
+           KOPMPUTES X - - - - -
+             APT-GET S - - - - -
+              UPDATE X - - - - -
+             UPGRADE O - - - - -
+                LIST O - - - - -
+                 ALL X - - - - -
+            SECURITY - X - O - -
+               REPOS - X - - - -
+               SHELL - X - - - -
+             PROBLEM - O - - - -
+                 RUN - X - - - -
+            INTERNET - - X - - -
+               MODEM - - X - - -
+                SMTP - - S - - -
+             MACHINE - - O - - -
+                7.10 - - X - - -
+/ETC/APT/SOURCES.LIST - - - O - -
+              SOURCE - - - O - -
+              SCRIPT - - - X - -
+              CONFIG - - - X - -
+                FILE - - - O - -
+                  -C - - - X - -
+              STRING - - - O - -
+                  -O - - - X - -
+        SOURCES.LIST - - - - X -
+                 MAN - - - - - X
+                PAGE - - - - - S

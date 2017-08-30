@@ -1,0 +1,16 @@
+               RAID0 X - - O S -
+           PARTITION X - - - - -
+                DISK X - - - - -
+                 ONE X - - - - X
+                SWAP X - - - - -
+                EXT3 X - - - - -
+              VOLUME - X - - - -
+                RAID - X - - - -
+           SOMETHING - - X - - -
+               RAID1 - - - X S -
+                WORK - - - - X -
+                BOTH - - - - X -
+              BACKUP - - - - X -
+         ACCESSTIMES - - - - - O
+               DRIVE - - - - - O
+                DATA - - - - - O

@@ -1,0 +1,13 @@
+            QUESTION O - O - - - -
+               CHECK - X - X - - -
+                NTFS - X - X - - -
+                  HD - X - X - X -
+           PARTITION - X - X - - -
+             SECTORS - O - O - - -
+             CONCERN - - - - S - -
+               DRIVE - - - - X - -
+           NTFSPROGS - - - - - S -
+             NTFSFIX - - - - - S -
+              ERRORS - - - - - X -
+                SUDO - - - - - X -
+             APT-GET - - - - - X -

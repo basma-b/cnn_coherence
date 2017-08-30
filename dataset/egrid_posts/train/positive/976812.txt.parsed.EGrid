@@ -1,0 +1,16 @@
+             USPLASH X - - - -
+             CONSOLE X - - - -
+             VGA=791 X - - - -
+ /BOOT/GRUB/MENU.LST - O - - -
+              KERNEL - X - - -
+              UPDATE - X - - -
+                  -9 - X - - -
+             DISPLAY - X - - -
+                 INJ - S - - -
+                BOOT - - X - -
+            SEQUENCE - - X - -
+                  .. - - O - O
+                LINE - - X - -
+        CONSOLE=TTY0 - - X - -
+             VGA=795 - - X - -
+                 END - - X - -

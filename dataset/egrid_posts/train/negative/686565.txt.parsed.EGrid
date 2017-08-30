@@ -1,0 +1,17 @@
+              SCRIPT X - - - - - -
+               NGINX X - - - - - -
+           LOGROTATE - X - - - - -
+                SUDO - X O - - - -
+                  -F - X - - - - -
+ /ETC/LOGROTATE.CONF - S - - - - -
+              SERVER - S - - - - -
+                FILE - S - X - - -
+             COMMAND - - O - - - -
+                ROOT - - - S - - -
+                 CAT - - - X - - -
+/USR/LOCAL/NGINX/LOGS/NGINX.PID - - - O - - -
+                MEAN - - - O - - -
+                 LOG - - - X - - -
+               STUMP - - - - O - -
+            ANYTHING - - - - - O -
+              SYSTEM - - - - - - X

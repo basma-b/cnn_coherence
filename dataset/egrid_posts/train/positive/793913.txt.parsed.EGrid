@@ -1,0 +1,15 @@
+                 USB X - - - - -
+                  HD X - X - - -
+               FSTAB - X X - - X
+              REBOOT - X - - - -
+                BOOT - X - - - -
+           /DEV/SDB1 - O - - - -
+                   O - S - - - -
+                SUDO - X S - - -
+               FDISK - X - - - -
+                  -L - X - - - -
+               LABEL - - O - - -
+             /DEV/ID - - X - - -
+                TIME - - - O - -
+                AUTO - - - - - X
+             OPTIONS - - - - - X

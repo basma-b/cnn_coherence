@@ -1,0 +1,16 @@
+        DEPENDENCIES O - - X - -
+             PACKAGE X S O - - -
+                 WAY - X - - - -
+               BREAK - X - X X -
+                FILE - O - - X -
+               CHECK - - X - - -
+                MD5S - - X - - -
+              UPDATE - - S - - -
+                LIST - - O - - -
+                  -F - - S - - -
+                 MAN - - - X - -
+                PAGE - - - S - -
+                 FIX - - - S - -
+              CHANGE - - - - X -
+             LIBRARY - - - - X -
+           PROCEDURE - - - - X -

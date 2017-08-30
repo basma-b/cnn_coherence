@@ -1,0 +1,14 @@
+              SERVER O O - -
+               XCHAT S - - -
+              CLIENT X - - -
+        192.168.2.17 S - - -
+               IRSSI S - - -
+           127.0.0.1 O - - -
+             MACHINE S X - -
+            FIREWALL X O - -
+            IPTABLES - - S -
+               ERROR - - - X
+              INSERT - - - X
+           IP_TABLES - - - X
+/LIB/MODULES/3.2.0-25-GENERIC-PAE/KERNEL/NET/IPV4/NETFILTER/IP_TABLES.KO - - - X
+           OPERATION - - - S

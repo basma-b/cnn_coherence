@@ -1,0 +1,11 @@
+                DISK O - -
+                LSOF X - -
+               FUSER S - -
+            ANYTHING O - -
+             SESSION - X -
+             PROGRAM - O -
+   CHANGED-DIRECTORY - O -
+                  CD - X -
+               MOUNT - X X
+               POINT - X -
+             COMMAND - - X

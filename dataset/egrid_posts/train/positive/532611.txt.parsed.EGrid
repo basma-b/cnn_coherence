@@ -1,0 +1,13 @@
+               THERE S - - - - -
+                  .. X O - - - -
+                BOOT X X - - - -
+             COMMAND X X X - - -
+                LINE X X X - - X
+                MODE X X X - - -
+        /ETC/INITTAB - S S - - -
+            INTREPID - - X - - -
+            RUNLEVEL - - S - - -
+              KERNEL - - X - - X
+            RECOVERY - - X - - -
+                INFO - - O - - -
+                GRUB - - - - - X

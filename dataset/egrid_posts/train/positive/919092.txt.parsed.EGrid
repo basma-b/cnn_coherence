@@ -1,0 +1,20 @@
+            SYMPTOMS X - - - - - - - - -
+                GATE - O - - - - - - - -
+                ETH0 - X - - - - O - - -
+            IFCONFIG - S - - - - - - - -
+               DMSEG - - X - - - - - - -
+                   A - - - S - - - - - -
+                  IM - - - - S - - - - -
+                CANT - - - - X - - - - -
+                READ - - - - X - - - - -
+/ETC/NETWORK/INTERFACES - - - - O - - S - -
+             STARTUP - - - - X - - - - -
+                FILE - - - - - S - - X -
+         PERMISSIONS - - - - - O - - - -
+                   R - - - - - - X - - -
+                ROOT - - - - - - X - - -
+               DEBUG - - - - - - O - - -
+                  -F - - - - - - X - - -
+                IFUP - - - - - - - X - -
+          INTERFACES - - - - - - - S X -
+               ERROR - - - - - - - - O -

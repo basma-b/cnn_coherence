@@ -1,0 +1,10 @@
+             COMMAND - X - - -
+                FILE - O - - -
+             PACKAGE - X - - -
+                DPKG - - X - -
+                  -L - - S - -
+                 APT - - - - S
+                LIST - - - - X
+         PACKAGENAME - - - - O
+              RETURN - - - - O
+               ERROR - - - - X

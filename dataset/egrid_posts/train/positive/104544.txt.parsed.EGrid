@@ -1,0 +1,14 @@
+               PLACE X - - -
+                LOAD X - - -
+           ARGUMENTS O - - -
+                TIME - S - -
+             EXAMPLE - X - -
+           USBSERIAL - X - -
+      PRODUCT=0X6300 - X - -
+              INSERT - X - -
+                UMTS - X - -
+                CARD - O - -
+/ETC/MODPROBE/DRIVERNAME - S - -
+               CHECK - X - -
+                 MAN - X - -
+/ETC/MODPROBE.D/DRIVERNAME - - - O

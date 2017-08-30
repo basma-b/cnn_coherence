@@ -1,0 +1,14 @@
+                SWAP X X -
+           PARTITION S - -
+                BOOT X - O
+                TYPE - S -
+               THERE - S -
+                 USE - X -
+                  .. - O -
+                 OWN - - O
+                DISK - - X
+                ROOT - - X
+                  FS - - S
+              CHANCE - - X
+       KERNEL-SOURCE - - O
+       2.6.8.1-L-386 - - X

@@ -1,0 +1,11 @@
+            IFCONFIG X - - - -
+                ETH1 X - - - -
+         192.168.1.1 X - - - -
+                ABIT - X - - -
+            BROADCOM - - X - -
+                43XX - - X - -
+                CARD - - O - -
+               ISSUE - - S - -
+             DRIVERS - - X - -
+         NDISWRAPPER - - O - -
+                  OK - - - - X

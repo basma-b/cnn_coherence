@@ -1,0 +1,10 @@
+             COMMAND O - - - -
+                 RSH X - - - -
+                PIPE O - - - -
+                JOHN - - X - -
+              GUNZIP - - X - -
+                   | - - S - -
+        PRODUCTIONDB - - X - -
+                ZCAT - - S - -
+                THAT - - - - X
+            QUESTION - - - - X

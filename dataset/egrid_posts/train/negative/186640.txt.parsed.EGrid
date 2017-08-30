@@ -1,0 +1,9 @@
+             COMMAND X - - - -
+               SETUP X - - - -
+           XORG.CONF X - - - -
+                DPKG - X - - -
+         PACKAGENAME - X - - -
+             PACKAGE - - X - -
+         RECONFIGURE - - X - -
+        RECOLLECTION - - - O -
+                  IM - - - - X

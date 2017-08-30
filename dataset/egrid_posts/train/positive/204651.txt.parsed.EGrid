@@ -1,0 +1,13 @@
+        192.168.1.33 X S - - -
+                 NFS - O S - X
+                 GUY - S - - -
+                TYPE - X - - -
+             COMMAND - O - - -
+              //ALGO - X - - -
+/HOME/RONNY/RONNYFILES - O - - -
+             MESSAGE - O - - -
+              SERVER - - X - -
+               WHCAT - - S - -
+              CLIENT - - X - -
+             NETSTAT - - - - O
+         CONNECTIONS - - - - X

@@ -1,0 +1,13 @@
+                LINK O -
+                FILE X X
+FLASHPLUGIN-INSTALLER S -
+            DOWNLOAD X -
+                .DEB O -
+        REPOSITORIES X -
+                 DEB O -
+             .TAR.GZ X -
+                 DAY - S
+                EXIT - O
+               ADOBE - X
+               ISSUE - O
+                PATH - O

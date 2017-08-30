@@ -1,0 +1,11 @@
+         PERMISSIONS O O O
+              FOLDER X - -
+                SAME X - -
+           DIRECTORY X X -
+               MKDIR - S -
+            /PRIVATE - X -
+             EXAMPLE - X -
+              SUBDIR - S -
+                USER - O -
+                DIRS - O -
+                HTTP - - X

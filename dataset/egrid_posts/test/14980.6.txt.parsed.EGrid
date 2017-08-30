@@ -1,0 +1,16 @@
+            SECURITY X - -
+              UPDATE X - -
+              SYSTEM X - S
+         APPLICATION X - -
+            SOFTWARE X - -
+                USER S - -
+                ROOT O - -
+             DEFAULT - X -
+             ACCOUNT - S -
+                PART - O -
+             SUDOERS - X -
+               ADMIN - X -
+               GROUP - X -
+                CARD - - S
+            DOWNLOAD - - O
+              DRIVER - - X

@@ -1,0 +1,14 @@
+                LOAD X - - -
+               CYCLE X - - -
+               COUNT S - - -
+                 USE X - X -
+             HDDPARM X - - -
+                 EXT - X - -
+          JOURNALING - X - -
+             OPTIONS - X - -
+                 JFS - - S -
+                EXT3 - - X -
+             JOURNAL - - X -
+                SECS - - X -
+                THAT - - - O
+         RECONFIGURE - - - X

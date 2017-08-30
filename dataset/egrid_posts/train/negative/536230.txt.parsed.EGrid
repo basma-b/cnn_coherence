@@ -1,0 +1,8 @@
+              CHANGE O -
+                  VI X -
+/ETC/SSH/SSHD_CONFIG S -
+             SERVICE X -
+                SSHD X -
+              RELOAD X -
+              GOTCHA X -
+                SUDO - O

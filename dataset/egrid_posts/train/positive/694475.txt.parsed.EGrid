@@ -1,0 +1,14 @@
+              ANYONE S - - -
+                MAIL O X - -
+             MESSAGE - S - -
+     /VAR/LOG/SYSLOG - X - -
+                FILE - X - -
+    /ETC/SYSLOG.CONF - S - -
+  -/VAR/LOG/MAIL.LOG - - O -
+  -/VAR/LOG/MAIL.ERR - - X -
+             RSYSLOG - - O -
+              REASON - - X -
+                  .. - - X -
+         SYSLOG.CONF - - S -
+            RSYSLOGD - - - S
+            DOCUMENT - - - O

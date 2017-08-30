@@ -1,0 +1,14 @@
+             ANYBODY S - -
+             PACKAGE X - -
+               GLIBC X - -
+            MANPAGES O - -
+                 USE - O -
+                 MAN - X -
+           GLIBC-DOC - O -
+               THOSE - - S
+               FILES - - O
+             SYSLOGD - - O
+               CHOWN - - X
+   /VAR/LOG/AUTH.LOG - - X
+                FILE - - X
+           DIRECTORY - - O

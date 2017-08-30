@@ -1,0 +1,7 @@
+               FSTAB X X -
+                BOOT X - -
+                DATA - O -
+                  OP - X -
+                  -A - O -
+          EVERYTHING - O -
+             PRIVATE - - X

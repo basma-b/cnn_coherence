@@ -1,0 +1,9 @@
+                DHCP X X - -
+              SERVER X X - -
+              SYSLOG S S - -
+         DIAGNOSTICS X X - -
+               ERROR - X - -
+             MESSAGE - O - -
+     /VAR/LOG/SYSLOG - - X -
+                BITE - - - O
+                  .. - - - X

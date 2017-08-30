@@ -1,0 +1,22 @@
+            SHUTDOWN X - - - - - - -
+                 END X - - - - - - -
+             STARTUP X - - - - - - -
+                TIME - - O - - - - -
+                THAT - - O - - - - -
+                BOOT - - X - - - - -
+             PROCESS - - S - - - - -
+             DEFAULT - - X - - - - -
+               THEME - - O - - - - -
+            PLYMOUTH - - - O X - - -
+                 USE - - - - X - - -
+                SUDO - - - - X - - -
+             APT-GET - - - - X - - -
+               PURGE - - - - X - - -
+          AUTOREMOVE - - - - O - - -
+                WHAT - - - - - X - -
+                  IM - - - - - - S -
+                HTTP - - - - - - X -
+//PASTE.UBUNTU.COM/462582/ - - - - - - X -
+                  -P - - - - - - - S
+            PASSWORD - - - - - - - X
+             .MY.CNF - - - - - - - X

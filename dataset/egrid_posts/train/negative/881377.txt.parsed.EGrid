@@ -1,0 +1,12 @@
+             APT-GET X - -
+              CONFIG X - -
+             PACKAGE O - -
+   /ETC/APT/APT.CONF - O -
+                LINE - O -
+  INSTALL-RECOMMENDS - S -
+                FILE - S -
+                THIS - - S
+                  IM - - S
+                 TAR - - X
+              -XPVGF - - X
+     GRBACKUP.TAR.GZ - - X

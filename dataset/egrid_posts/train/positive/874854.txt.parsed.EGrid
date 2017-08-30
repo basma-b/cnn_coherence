@@ -1,0 +1,16 @@
+                CUPS S - - - - -
+               PRINT X - - - - -
+               ERROR O - - - - -
+              MKTEMP X - - - - -
+ /TMP/PDFTOPS.XXXXXX X - - - - -
+          PERMISSION S - - - - -
+                /TMP O - - - X -
+                SUDO S - - - X -
+   PERMISSIONS/OWNER O - - - - -
+                SELF - X - - - -
+             PACKAGE - - S - O -
+               CHOWN - - - - X -
+                ROOT - - - - X X
+                 BUG - - - - X O
+              REPORT - - - - O -
+                 SET - - - - - X

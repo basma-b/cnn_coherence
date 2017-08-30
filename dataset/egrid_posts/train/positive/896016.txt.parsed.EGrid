@@ -1,0 +1,23 @@
+            HARDDISK X - - - - - - - -
+                 USE X - - - - - - - -
+          CLONEZILLA X X - - - - - - -
+               IMAGE - X - - - O - - -
+                FILE - S - - - S - - -
+         INSTRUCTION - - O - - - - - -
+                HTTP - - O - - - - - -
+//DRBL.ORG/FAQ/FINE-PRINT.PHP - - O - - - - - -
+PATH=./2_SYSTEM/43_READ_NTFSIMG_CONTENT.FAQ - - - X - - - - -
+43_READ_NTFSIMG_CONTENT.FAQ - - - X - - - - -
+             COMMAND - - - - O - - - -
+                 CAT - - - - X - - - -
+SDA1.NTFS-PTCL-IMG.GZ - - - - X - - - -
+                   * - - - - - X - - -
+                   | - - - - - S - - -
+           NTFSCLONE - - - - - O - - -
+            SDA1.IMG - - - - - X - - -
+          LIBNTFS-3G - - - - - X - - -
+               ERROR - - - - - O - - -
+               INPUT - - - - - X - - -
+               MAGIC - - - - - - X - -
+             CHANNEL - - - - - - - X X
+                NAME - - - - - - - - O

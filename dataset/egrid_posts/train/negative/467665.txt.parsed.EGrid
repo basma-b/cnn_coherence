@@ -1,0 +1,17 @@
+             PROCESS X O - - - - - - - - - - -
+              INSTAL X - - - - - - - - - - - -
+                 RUN X - - X - - - - - - - - -
+                BOOT X - - X - - - X - - - - -
+                LOAD - X - - - - - - - - - - -
+                 TOR - - S - - - - - - - - - -
+                  -F - - S - - - - - - - - - -
+               PRINT - - X - - - - - - - - - -
+               USAGE - - X - - - - - - - - - -
+             PROGRAM - - - O - - - - - - - - -
+               START - - - X - - - - - - - - -
+             PRIVOXY - - - - S - - - - S - - -
+ /ETC/INIT.D/PRIVOXY - - - - - - X - - - - - -
+              SYSTEM - - - - - - X - - - - - -
+             STARTUP - - - - - - X - - - - - -
+                LINK - - - - - - S - - - - - -
+                THIS - - - - - - - - S - - - -

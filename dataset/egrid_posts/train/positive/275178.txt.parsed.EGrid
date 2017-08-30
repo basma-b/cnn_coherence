@@ -1,0 +1,22 @@
+                BOOT X X X -
+              LOADER O - - -
+             DEFAULT S X O -
+              SYSTEM O - - -
+                TIME - X - -
+              CHANGE - X - -
+                GRUB - X - -
+                 TOP - X X -
+                FILE - X X -
+               ENTRY - O - -
+                SUDO - X - -
+                NANO - S - -
+ /BOOT/GRUB/MENU.LST - X - -
+UPDATEDEFAULTENTRY=FALSE - X - -
+                THIS - O - -
+                HTTP - X - -
+             WINDOWS - X - -
+               VISTA - O - -
+                  OS - X - -
+               FISTA - - O -
+                KIND - - - X
+                HELP - - - X

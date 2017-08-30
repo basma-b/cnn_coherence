@@ -1,0 +1,16 @@
+                HELP X - - - -
+                 HDA X - - - -
+                  CD X - - - -
+           /PROC/IDE X - - - -
+            /DEV/HDA - S - - -
+                 CAT - S - - -
+ /PROC/IDE/HDC/MODEL - O - - -
+ /PROC/IDE/HDA/MODEL - X - - -
+ /PROC/IDE/HDB/MODEL - X - - -
+ /PROC/IDE/HDD/MODEL - S - - -
+               DRIVE - O - - -
+           STUPIDITY - S - - -
+              PEOPLE - X - - -
+                  EH - X - - -
+            ANYTHING - - - - O
+                WORD - - - - X

@@ -1,0 +1,30 @@
+           OPERATION X - - - - - - - - - - - - -
+            HARDLINK O - - - - - - - - - - - - -
+                8.10 O - - - - - - - - - - - - -
+                ROOT X - - - - - - - - - - - - -
+                USER X - - - - - - - - - - - - -
+             BETWEEN - O - - - - - - - - - - - -
+               SHARE - - X - X - - - - - - - - -
+                 NFS - - - X S - S - - - - - - -
+              SERVER - - - S - - - - - - - - - -
+           HARDLINKS - - - - - O - - - - - - - -
+           PARTITION - - - - - X - - - - - - - -
+                  IM - - - - - - S - - - - - - -
+    /MNT/LOCALDIR/PC - - - - - - O - - - - - - -
+               HOURS - - - - - - X - X - - - - -
+               PARTY - - - - - - - S - - - - - -
+                  -D - - - - - - - - O - - - - -
+               TODAY - - - - - - - - - O - - - -
+UBUNTU-RELEASE-PARTY - - - - - - - - - - X - - -
+                MAIL - - - - - - - - - - X - - -
+                LIST - - - - - - - - - - O - - -
+               HTTPS - - - - - - - - - - O - - -
+//LISTS.UBUNTU.COM/MAILMAN/LISTINFO/UBUNTU-ANNOUNCE - - - - - - - - - - O - - -
+                THIS - - - - - - - - - - S - - -
+      -RELEASE-PARTY - - - - - - - - - - X - - -
+                 LVM - - - - - - - - - - S - - -
+                 NOT - - - - - - - - - - - - - X
+                  .. - - - - - - - - - - - - - X
+                 WAY - - - - - - - - - - - - - O
+               STATS - - - - - - - - - - - - - S
+           /PROC/LVM - - - - - - - - - - - - - S

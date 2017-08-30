@@ -1,0 +1,13 @@
+                GRUB X - - - - -
+                TIME - X - - - -
+              REASON - X - - - -
+              KERNEL - X - - X -
+             RCOVERY - X - - - -
+            RECOVERY - X - - - -
+             MEMTEST - X - - - -
+             WINDOWS - X - - - -
+              UBUNTU - - X - - -
+                 SET - - X - - -
+ /BOOT/GRUB/MENU.LST - - - S - -
+             PACKAGE - - - - O -
+                   / - - - - - X

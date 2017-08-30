@@ -1,0 +1,15 @@
+            QUESTION O - - - -
+             MACHINE X - - - -
+                 SSH X - - - -
+              22/TCP - S - - -
+               LOGIN - - X - -
+                TYPE - - X - -
+             COMMAND - - X - -
+                 ETC - - X - -
+            COMPUTER - - S - -
+                 UFW - - - S -
+           COMPJUTER - - - O -
+                LOAD - - - S -
+                WAIT - - - - O
+                  YA - - - - S
+              EFFECT - - - - X

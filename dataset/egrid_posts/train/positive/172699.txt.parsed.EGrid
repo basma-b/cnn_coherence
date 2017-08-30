@@ -1,0 +1,16 @@
+                  CD - O - - O - - - -
+                  PC - X - - X - - - -
+               ERROR - X - - X - - - -
+             MESSAGE - O - - O - - - -
+                BOOT - X - - X - - - -
+              KERNEL - O - - O - - - -
+               PANIC - X - - X - - - -
+                -NOT - X - - X - - - -
+                SYNC - X - - X - - - -
+                 VFS - X - - X - - - -
+              ROOTFS - O - - O - - - -
+               BLOCK - X - - X - - - -
+                 1,0 - X - - X - - - -
+               IDEAS - - X - - X - - -
+                MENU - - - - - - X - -
+                 YES - - - - - - - - X

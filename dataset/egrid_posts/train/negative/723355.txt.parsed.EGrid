@@ -1,0 +1,13 @@
+                GRUB S - - -
+              KERNEL O - X -
+             DRIVERS S O O -
+               VIDEO X - - -
+                CARD X X - -
+                WIFI - - X -
+             REALTEK - - X -
+            WIRELESS - - X -
+                 LAN - - X -
+              DRIVER - - S -
+              CHANGE - - X -
+                  IM - - - S
+            ETTERCAP - - - S

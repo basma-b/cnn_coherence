@@ -1,0 +1,13 @@
+              KERNEL X S X -
+             HEADERS O - S -
+              UPDATE - O - -
+                GRUB - - S -
+                SUDO - - X -
+             APT-GET - - X -
+                  -R - - X -
+              GKSUDO - - X -
+            MODPROBE - - O -
+                UNIX - - X -
+             PROGRAM - - X -
+             NOTHING - - O -
+                 ONE - - - S

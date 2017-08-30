@@ -1,0 +1,11 @@
+UPDATE-DESKTOP-DATABASE S -
+/USR/GNOME2/SHARE/APPLICATIONS O -
+              UBUNTU X -
+                HOME X -
+           PARTITION S O
+                AREA O -
+              PREFIX O -
+         /USR/GNOME2 O -
+              SOURCE X -
+            SETTINGS X -
+                /USR - S

@@ -1,0 +1,31 @@
+                 USE X - - -
+             COBBLER O X - -
+                FILE S X - -
+              PROMPT S - - -
+               CDROM X - - -
+             SOMEONE S - - -
+                 TRY - X - -
+                THIS - S - -
+                HTTP - O - -
+                  CD - S - -
+              IMPORT - O - -
+  NAME=UBUNTU-SERVER - X - -
+           PATH=/MNT - X - -
+               ISSUE - O - -
+                LINE - X - -
+              OTHERS - S - -
+             PROFILE - O - -
+NAME=UBUNTU12_04-X86_64 - X - -
+KICKSTART=/VAR/LIB/COBBLER/KICKSTARTS/UBUNTU-NQA.SEED - X - -
+              KOPTS= - X - -
+                AUTO - X - -
+            URL=HTTP - X - -
+        LANG=ENGLISH - X - -
+CONSOLE-SETUP/LAYOUTCODE=US - X - -
+                 CUP - - S -
+             PRINTER - - O -
+                FACT - - X -
+               SHARE - - X -
+             WINDOWS - - - X
+                 BOX - - - X
+                 FYI - - - X

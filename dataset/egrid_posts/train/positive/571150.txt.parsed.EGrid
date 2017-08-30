@@ -1,0 +1,18 @@
+                 GPS X - - - - - - - - - -
+                UNIT O - - - - - - - - - -
+               LSUSB X - - - - - - - - - -
+                IBEX - - - X - - - - - - -
+          GARMIN_GPS - - - - S - - S - - -
+              MODULE - - - - - - X - - - -
+                GREP - - - - - - - S - - -
+    /ETC/MODPROBE.D/ - - - - - - - X - - -
+               THING - - - - - - - X - - -
+/ETC/MODPROBE.D/BLACKLIST.CONF - - - - - - - O - - -
+                THIS - - - - - - - O - - -
+             COMMENT - - - - - - - X - - O
+                 YEP - - - - - - - - - X -
+               OOOOH - - - - - - - - - - S
+                APPS - - - - - - - - - - S
+              DRIVER - - - - - - - - - - O
+              UBUNTU - - - - - - - - - - X
+                 BAD - - - - - - - - - - X

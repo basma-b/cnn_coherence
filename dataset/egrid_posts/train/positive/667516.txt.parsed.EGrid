@@ -1,0 +1,14 @@
+                FILE X - - - - - - -
+           CHARACTER - X - - - - - -
+              DEVICE - O - - - - - -
+                 USE - O - - - - - -
+               MKNOD - X O - - - - -
+                 MAN - X X - - - - -
+                NULL - X S - - - - -
+        INSTRUCTIONS - S - - - - - -
+              AND/OR - X - - - - - -
+                SUDO - S - - - - - -
+           /DEV/NULL - - S - - - - -
+             COMMAND - - S - - - - -
+            TERMINAL - - - X - - - -
+                MUCH - - - - - - - O

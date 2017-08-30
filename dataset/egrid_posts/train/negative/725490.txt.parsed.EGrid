@@ -1,0 +1,27 @@
+           /DEV/SDB1 X - - - - -
+        /MEDIA/DAVES X - - - - -
+                FILM X - - - - -
+                TYPE X - - X - -
+             FUSEBLK X - - - - -
+         ALLOW_OTHER X - - - - -
+        BLKSIZE=4096 X - - - - -
+ DEFAULT_PERMISSIONS X - - - - -
+                THIS O - - - - -
+               FSTAB S X - - - -
+               ENTRY O - - - - -
+                NTFS X - - - - -
+           PARTITION O - - - - -
+             EXAMPLE - X - - - -
+                   > - X - - - -
+UUID=2464FA8664FA59CE - S - - - -
+             DEFAULT - X - - - -
+              DEVICE - O - - - -
+                AUTO - - X - - -
+          FILESYSTEM - - - X - -
+            LOCATION - - - - - O
+               CLICK - - - - - X
+             WINDOWS - - - - - X
+             NETWORK - - - - - X
+                 SMB - - - - - X
+                 /// - - - - - S
+               THING - - - - - X

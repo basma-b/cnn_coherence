@@ -1,0 +1,15 @@
+             MACHINE O - - -
+              SERVER X - - -
+               12.04 S - - -
+                  IM S - - -
+                QEMU O - - -
+            QEMU-KVM - X - -
+                 CPU - - S -
+                VT-X - - O -
+              GUESTS - - O -
+             DEVICES - - - X
+                BASE - - - O
+          FILESYSTEM - - - X
+               LABEL - - - X
+                KIND - - - O
+               NIFTY - - - X

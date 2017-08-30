@@ -1,0 +1,16 @@
+             PROCESS X O -
+                 TOP X - -
+                SHOW - X -
+                LOAD - X -
+                 MEM - X -
+               USAGE - S -
+                 MAX - O -
+                LIST - X -
+                  3M - X -
+                 RAM - X -
+                   % - X -
+                 SUM - S -
+                SAME - O -
+                HTOP - O -
+                USER - S -
+                  OK - - X

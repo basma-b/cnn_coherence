@@ -1,0 +1,23 @@
+               ERROR O - - - O O -
+          DEPENDENCY S - - - - - -
+         LIBGNUTIS11 X - - - - - -
+              ANYONE X - - - - - -
+             APT-GET - X - - - X -
+          MULTIVERSE - - O - X - -
+                FILE - - X - O - -
+                O.K. - - - X - - -
+/ETC/APT/SOURCES.LIST - - - - X - -
+              SYSTEM - - - - S - -
+             PACKAGE - - - - X - -
+              UPDATE - - - - O - -
+           UNCOMMENT - - - - X - -
+             ENTRIES - - - - X - -
+         DESCRIPTION - - - - S - -
+         FIRESTARTER - - - - O O -
+//UBUNTUGUIDE.ORG/WIKI/DAPPER - - - - X - -
+        REPOSITORIES - - - - O - -
+            TERMINAL - - - - - X -
+                TYPE - - - - - S -
+                SUDO - - - - - X -
+             ICEROOT - - - - - - S
+     AUTHORIZED_KEYS - - - - - - O

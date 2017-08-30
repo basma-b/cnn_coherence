@@ -1,0 +1,16 @@
+             COMMAND X - - -
+                TYPE X - - -
+        30_OS-PROBER S - - -
+           DIRECTORY X - - -
+                  -L O - - -
+         EXCECUTABLE X - - -
+                HTTP S - - -
+                  HM - S - -
+                   A - - X -
+              FOLLOW - - O -
+            TERMINAL - - - X
+                SUDO - - - X
+             APT-GET - - - X
+              UPDATE - - - X
+        DIST-UPGRADE - - - X
+                  -F - - - S

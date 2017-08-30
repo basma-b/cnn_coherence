@@ -1,0 +1,17 @@
+           PARTITION X O X O -
+               FDISK X - - - -
+                /MNT O - - - -
+              FLOPPY - O - X -
+                THIS - S - - -
+      FILE/DIRECTORY - O - - -
+                 USE - O - - -
+              PLACES - X - - -
+              ERRORS - X - - -
+                THAT - - X - -
+                DISK - - X - -
+                NAME - - - X -
+             /DEV/SD - - - X -
+              DRIVER - - - S -
+              OUTPUT - - - O -
+               SOUND - - - - O
+                IDEA - - - - X

@@ -1,0 +1,26 @@
+            LOCATION X - - - - - O -
+            SOFTWARE O - - - - - - -
+               PLACE O - - - - - - -
+               USERS S - - - - - - -
+             MACHINE X - - - - - - -
+                   ~ X - - - - - - -
+      /USR/LOCAL/BIN S - X - X - - X
+            BINARIES O - - - - - X -
+/USR/LOCAL/SHARE/APPLICATIONS - X - - - - - -
+                LINK - - O - - - - -
+              BINARY - - X - O - - X
+                 ALL - - X - - - - -
+         APPLICATION - - X - - - - -
+                FILE - - X - - - X -
+        APPLICATIONS - - - S S - - -
+                USER - - - X X - - -
+             CONFIGS - - - O - - - -
+                HOME - - - X - - - -
+             PROGRAM - - - - O - - -
+                  ~/ - - - - X - - -
+               STORE - - - - O - - -
+                COPY - - - - X - - -
+         DIRECTORIES - - - - X - - -
+             TARBALL - - - - - - O -
+           DIRECTORY - - - - - - O -
+             SYMLINK - - - - - - - O

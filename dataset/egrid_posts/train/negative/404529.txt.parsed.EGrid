@@ -1,0 +1,19 @@
+                TIME X - -
+              SYSTEM O - -
+              DEVICE O X -
+UUID=01445405-7654-45A7-BC23-D767BBFC0147 X - -
+                FILE X - -
+           DIRECTORY X - -
+                  .. X - -
+             .ANYONE S - -
+                THAT - S -
+                FSCK - O -
+           REFERENCE - O -
+           PARTITION - X -
+          /ETC/FSTAB - X -
+             COMMENT - S -
+               ENTRY - X -
+                 YEP - O -
+                WORK - O -
+                BOOT - - X
+             OPTIONS - - S

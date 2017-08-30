@@ -1,0 +1,14 @@
+               CHMOD - X S - - -
+               CHOWN - X - - - -
+                ROOT - X O - - -
+                 DIR - X - - - -
+        /DIRWHATEVER - - S - - -
+               ALTER - - O - - -
+                  'S - - O - - -
+      READING-RIGHTS - - O - - -
+               THATS - - - S - -
+                USER - - - X - -
+            ANYTHING - - - O - -
+              ACCESS - - - X - -
+               /ROOT - - - X - -
+                  OK - - - - - X

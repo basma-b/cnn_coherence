@@ -1,0 +1,11 @@
+                GRUB X - - - - -
+                 USE X - - - - -
+                DISK X - - - - -
+                BASE - X - - - -
+              DISTRO - S - - - -
+                 ONE - O - - - -
+               SETUP - - O - - -
+                 HD0 - - X - - -
+   /BOOT/GRUB/STAGE1 - - X - - -
+              DISRTO - - - X - -
+       COMMAND/TOOLS - - - O - -

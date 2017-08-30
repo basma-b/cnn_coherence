@@ -1,0 +1,10 @@
+               DRIVE X - - -
+               SSHFS X - - O
+            RESOURCE X - X -
+             REQUEST X - X -
+                HTTP - X - -
+//WWW.GOOGLE.COM/SEARCH - X - -
+               HL=EN - - X -
+   Q=AUTOMOUNT+SSHFS - - S -
+               LOGIN - - X -
+              AUTOFS - - - X

@@ -1,0 +1,15 @@
+             PACKAGE O - - - -
+        SOURCES.LIST O - - - -
+           PARTITION - - X - -
+              DISTRO - - O - -
+                 ONE - - X - -
+                PART - - X - -
+                TYPE - - - X -
+                EXT3 - - - O -
+               START - - - X -
+                 END - - - X -
+                THAT - - - - S
+             GPARTED - - - - S
+         BURGUNDAVIA - - - - S
+              LIVECD - - - - O
+                 THO - - - - X

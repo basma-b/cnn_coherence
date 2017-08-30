@@ -1,0 +1,22 @@
+             PACKAGE X O - - O -
+        DEPENDENCIES X - O - S -
+              INSTAL - S - - - -
+             APT-GET - X O - S -
+                CORE - X - - - -
+          AUTOREMOVE - S S S O -
+/VAR/CACHE/APT/ARCHIVES - X - - - -
+           AUTOCLEAN - - S - - -
+                TYPE - - X - - -
+          ARGUEMENTS - - S - - -
+                IDEA - - X - - -
+             COMMAND - - X - - -
+                BOTH - - O - - -
+        DEPENDANCIES - - - O - -
+             ARCHIVE - - - - X -
+                DEBS - - - - S -
+            QUESTION - - - - S -
+             POSTFIX - - - - S -
+               PURGE - - - - S -
+                DAYS - - - - S -
+                  ER - - - - S -
+                CARE - - - - O -

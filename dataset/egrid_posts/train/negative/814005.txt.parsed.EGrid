@@ -1,0 +1,16 @@
+GNOME-NETWORK-MANAGER S - - - - - -
+            ETHERNET X - - - X - -
+              DEVICE S - - X - - -
+                ETH0 - O - X - - -
+                WIRE - X - - - - -
+           INTERFACE - X - - - - -
+            IWCONFIG - - - S - - -
+                MODE - - - X - - -
+                AUTO - - - X - - -
+               ERROR - - - X - - O
+            WIRELESS - - - X O - -
+             REQUEST - - - X - - -
+           OPERATION - - - O - - -
+             SUPPORT - - - X - - -
+                THAT - - - - X - -
+                 WAY - - - - - - S

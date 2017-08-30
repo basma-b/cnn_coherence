@@ -1,0 +1,6 @@
+/ETC/INIT.D/NETWORKING O - -
+            SETTINGS S X -
+/ETC/NETWORK/INTERFACES - O -
+           INTERFACE - S -
+                AUTO - X -
+                   > - O -

@@ -1,0 +1,6 @@
+             COMMAND X -
+              DEAMON X -
+             PROCESS S -
+          BACKGROUND X -
+              WICKED - S
+                CALL - O

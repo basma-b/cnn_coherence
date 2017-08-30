@@ -1,0 +1,14 @@
+                ANY1 X - - - -
+                 LOG O - - - -
+             PROCESS X - - - -
+               LOGIN X - - - -
+          BACKGROUND X - - - -
+              OUTPUT - X - - -
+                  .. - O X - -
+             STARTUP - X X - -
+              SYSTEM - X - - -
+         PREFERENCES - X - - -
+            SESSIONS - X - - -
+             COMMAND - O - - -
+              OPTION - - - - O
+                MENU - - - - X

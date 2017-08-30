@@ -1,0 +1,17 @@
+       DISPLAYCONFIG X - - - - -
+         ALTERNATIVE - X - - - -
+                9.04 - X - - - -
+           SOMETHING - - O - - -
+              NEWBIE - - X - - -
+             SOMEONE - - S - - -
+                LOCO - - X - - -
+                XORG - - X - - -
+       CONFIGURATION - - O - - -
+        XSERVER-XORG - - S - - -
+               VIDEO - - X - - -
+              DRIVER - - X - - -
+              LIVECD - - - - O -
+                MODE - - - - X -
+              SYSTEM - - - - S -
+                VESA - - - - X -
+               GREAT - - - - - X

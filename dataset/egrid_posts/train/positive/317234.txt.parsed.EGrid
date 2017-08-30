@@ -1,0 +1,15 @@
+               DRIVE X X - - -
+              LIVECD X X - - -
+                TYPE - - S - -
+      /PATH/TO/MOUNT - - O - -
+             COMMAND - - - O -
+                  HD - - - O S
+                  CD - - - X -
+               DMESG - - - - X
+                   | - - - - X
+                GREP - - - - X
+              DEVICE - - - - O
+                20GB - - - - X
+                IDEA - - - - O
+                MTAB - - - - X
+               FSTAB - - - - X

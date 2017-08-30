@@ -1,0 +1,27 @@
+               BIND9 S - - - - - - -
+                FINE O - - - - - - -
+             SERVICE X X - - - - - -
+                BOOT - X - - - - - -
+                 CLI - X - - - - - -
+             COMMAND - - X - - - - -
+              UBUNTU - - - X - - - -
+          EQUIVOLENT - - - X - - - -
+                 USE - - - - O - - -
+          SCRIPTNAME - - - - S - - -
+             DEFAULT - - - - S - - -
+              SCRIPT - - - - O - - -
+         /ETC/INIT.D - - - - X - - -
+           RUNLEVELS - - - - X - - -
+                LINE - - - - - - O -
+      GRUB-INSTALLER - - - - - - S -
+                DPKG - - - - - - X -
+               THERE - - - - - - S -
+             PACKAGE - - - - - - X -
+       GRUB-EFI-IA32 - - - - - - O -
+                INFO - - - - - - X -
+                GRUB - - - - - - X -
+            /DEV/SDB - - - - - - X -
+/USR/SBIN/GRUB-PROBE - - - - - - S -
+               ERROR - - - - - - X -
+              DEVICE - - - - - - O -
+          /BOOT/GRUB - - - - - - X -

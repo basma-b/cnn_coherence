@@ -1,0 +1,20 @@
+/ETC/SECURITY/GROUPS.CONF O - - - - -
+               USERS S X O - - -
+               GROUP X X - - - -
+              ANYONE S - - - - -
+                PATH X - - - - -
+               AUDIO - X - - - -
+                   * - S - - - -
+         AL0000-2400 - X - - - -
+                USER - O - - - -
+              DESIRE - X - - - -
+          /ETC/GROUP - X - S - -
+                 GUI - X - - - -
+              SYSTEM - X - - - -
+                   > - X - - - -
+      ADMINISTRATION - X - - - -
+                 PAM - X - - - -
+                 WAY - - S - - -
+          EXPERIENCE - - - O - -
+         GROUPS.CONF - - - S - -
+                 LOL - - - - - X

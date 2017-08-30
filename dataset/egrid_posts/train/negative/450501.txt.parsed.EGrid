@@ -1,0 +1,17 @@
+           2.6.24.18 X - X - -
+              KERNEL O - - - -
+            MENU.LST X - - - -
+                 END X - - - -
+             UPGRADE X - - - -
+                GRUB X - X - -
+                BOOT X - X - -
+                MENU X X X - -
+           2.6.24-18 - - - S -
+               /BOOT - - - X -
+/BOOT/GRUB/MENU.LIST - - - O -
+               THERE - - - S -
+             COMMAND - - - O -
+ /BOOT/GRUB/MENU.LST - - - X -
+              BRING3 - - - O -
+                HTTP - - - - X
+   //GNOMEFILES.ORG/ - - - - X

@@ -1,0 +1,9 @@
+           DIRECTORY X - - -
+        SUBDIRECTORY X - - -
+                FILE X S - -
+              CHANGE X O - -
+                 LOG - X - -
+             INOTIFY - - X -
+         INFORMATION - - - O
+             NETMASK - - - X
+             GATEWAY - - - X

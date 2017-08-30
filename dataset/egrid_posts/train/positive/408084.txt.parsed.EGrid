@@ -1,0 +1,16 @@
+             SUDOERS S O - - - -
+           DIRECTIVE X - - - - -
+               GROUP X - - - - -
+                USER X - - - - -
+             COMMAND X - - - - -
+              GKSUDO - - X - - -
+               GEDIT - - S - - -
+         PERMISSIONS - - X - - -
+                FILE - - - X - -
+               FIRST - - - O - -
+              VISUDO - - - X - -
+                  VI - - - X - -
+                THAT - - - - O -
+                SUDO - - - - X -
+                  .. - - - - X -
+              LIVECD - - - - X -

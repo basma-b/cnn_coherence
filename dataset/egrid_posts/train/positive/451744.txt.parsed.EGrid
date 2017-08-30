@@ -1,0 +1,11 @@
+            MENU.LST O - X
+          /BOOT/GRUB X - -
+              SPLASH O - -
+             ENTRIES X - -
+             MESSAGE - O -
+                 VT8 - X -
+            PROGRESS - X -
+                 BAR - O -
+                TIME - - X
+              KERNEL - - X
+              UPDATE - - O

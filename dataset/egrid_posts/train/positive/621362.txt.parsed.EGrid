@@ -1,0 +1,13 @@
+             PACKAGE X - - -
+          COMPONENTS X - - -
+              SYSTEM X - - X
+                 USE X - - -
+                SUDO - X - -
+                DPKG - S - -
+      GET-SELECTIONS - S - -
+                LIST - - X -
+           DEINSTALL - - X -
+                GREP - - - S
+               THERE - - - S
+             GRUB-PC - - - O
+                SHOW - - - O

@@ -1,0 +1,23 @@
+/ETC/POSTFIX/MAIN.CF X - - - - - - - -
+                SUDO - X - - X - - - -
+               TOUCH - S - - S S - - -
+               ISSUE - - X - - - - - -
+               IDEAS - - - O - - - - -
+              DOESNT - - - - - S - - -
+             PACKAGE - - - - - O - - -
+                FILE - - - - - O - - -
+                DPKG - - - - - O - - -
+              NORMAL - - - - - O - - -
+                   P - - - - - O - S -
+                 GSM - - - - - X - - -
+                 TAB - - - - - - - X -
+          COMPLETION - - - - - - - S -
+                EVIL - - - - - - - O -
+             APT-GET - - - - - - - S -
+               THERE - - - - - - - S S
+               GROUP - - - - - - - X -
+                  .. - - - - - - - O -
+                 ALL - - - - - - - O -
+             NOTHING - - - - - - - O -
+             SUDOERS - - - - - - - - O
+          CONNECTION - - - - - - - - O

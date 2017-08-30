@@ -1,0 +1,20 @@
+                 ALL O - - - - - -
+                  'S S - - - - - -
+             NETWORK X - - - - - -
+                 BOX O - - - - - -
+ 192.168.0.SOMETHING X - - - - - -
+           SOMETHING S - - - - - -
+              ROUTER - S - - - - -
+             GARBAGE - O - - - - -
+             CLIENTS - O - - - - -
+192.168.0.1-192.168.0.255 - - X - - - -
+            WHATEVER - - X - - - -
+                SUDO - - - X X - -
+             APT-GET - - - S S - -
+                NMAP - - - - X - -
+                  PS - - - - - - X
+                  AX - - - - - - X
+               CHECK - - - - - - O
+               THERE - - - - - - S
+             PROGRAM - - - - - - O
+               DISCS - - - - - - O

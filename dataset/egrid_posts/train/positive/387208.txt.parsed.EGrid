@@ -1,0 +1,23 @@
+                   C O - - - - - - - - - -
+           PARTITION O - - - - - - - - - -
+              FORMAT X - - - - - - - - - -
+                NTFS - X - - - - - - - - -
+               ERROR - - S - - S - - - - -
+                HTTP - - - X - S - - - - -
+//IUP.IN/VIEWIMAGE.PHP - - - X - S - - - - -
+           IMG=23902 - - - - S - X - - - -
+                TIME - - - - - - - X - - -
+             MESSAGE - - - - - - - O - - -
+                NICK - - - - - - - O - - -
+                LINK - - - - - - - - O - -
+              MOMENT - - - - - - - - X - -
+            SHUTDOWN - - - - - - - - - O -
+             WARNING - - - - - - - - - X -
+              FORCED - - - - - - - - - S -
+                FUSE - - - - - - - - - - S
+         /MEDIA/DISK - - - - - - - - - - O
+                FILE - - - - - - - - - - X
+           DIRECTORY - - - - - - - - - - X
+               POINT - - - - - - - - - - X
+            CREATION - - - - - - - - - - S
+          UNMOUNTING - - - - - - - - - - O

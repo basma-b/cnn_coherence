@@ -1,0 +1,10 @@
+                COPY X - - - -
+              SYSTEM X - - - -
+              FORMAT X - - - -
+                  RE X - - - -
+          CLONEZILLA X - - - -
+          SWAPPINESS - O - - -
+                 2GB - X - - -
+                 RAM - X - - -
+                SWAP - X - - -
+              BIGGIE - - - O -

@@ -1,0 +1,15 @@
+                 ALL X X - - - -
+             CONTENT X X - - - -
+           DIRECTORY X X - - X -
+                   * - X S - - -
+                   < - X X - - -
+          FOLDERNAME - X X - - -
+                   > - O X - - -
+                  CP - - X - S -
+                FILE - - O - - -
+         DIRECTORIES - - - X - -
+                  -R - - - - O -
+                COPY - - - - - X
+                HOME - - - - - X
+                 DIR - - - - - O
+   FILES/DIRECTORIES - - - - - X

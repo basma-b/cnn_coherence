@@ -1,0 +1,12 @@
+                FILE X - - - -
+              FLOPPY X - - - -
+                TIME - X - - -
+                  DD - X - - -
+         IF=FILE.BIN - X - - -
+         OF=/DEV/FD0 - S - - -
+             COMMAND - O - - -
+         INFORMATION - - X - -
+                 NOT - - - O -
+                DISK - - - X -
+                MINI - - - - X
+                 PCI - - - - X

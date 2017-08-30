@@ -1,0 +1,19 @@
+              ANYONE X - - -
+  XORG-SERVER-1.12.3 X - - -
+                SUDO - X X -
+             APT-GET - S S -
+         XORG-SERVER - - X -
+             PACKAGE - - X -
+                HTTP - - O -
+//PACKAGES.UBUNTU.COM/SOURCE/PRECISE/XORG-SERVER - - S -
+              UPDATE - - O -
+          PULSEAUDIO - - O -
+                TIME - - - O
+                BOOT - - - O
+              SYSTEM - - - S
+               DRIVE - - - X
+                GRUB - - - X
+                SHOW - - - O
+              RESCUE - - - X
+                MODE - - - X
+                RAID - - - X

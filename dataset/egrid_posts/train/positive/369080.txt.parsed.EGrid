@@ -1,0 +1,11 @@
+               MOUNT X - -
+               POINT X - -
+               FSTAB X S O
+                THAT - O -
+          MOUNTPOINT - O -
+               MKDIR - X -
+         /MOUNTPOINT - X -
+                LINE - O -
+                LOOK - - O
+                 LNE - - X
+             PROBLEM - - O

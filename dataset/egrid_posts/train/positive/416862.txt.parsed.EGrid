@@ -1,0 +1,13 @@
+           XORG.CONF S - - - -
+              TV-OUT O - - - -
+         IDENTIFIERS - S - - -
+             SECTION - X - - -
+               VIDEO - - X - -
+                CARD - - X - X
+                 ATI - - - - X
+        TECHNOLOGIES - - - - X
+                 INC - - - - S
+              RADEON - - - - X
+               -RSB- - - - - O
+                WORK - - - - X
+               GRAPH - - - - X

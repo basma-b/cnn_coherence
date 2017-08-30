@@ -1,0 +1,19 @@
+           SOMETHING O - - - - - - - - -
+              UBUNTU X - - - - - - - - -
+            SETTINGS - S - - - - - - - -
+/LIB/MODULES/2.6.31-20-GENERIC/BUILD - X - - - - - - - -
+                FILE - X - - - - - - - -
+           DIRECTORY - X - O - - - - - -
+              KERNEL - - - - O - - - - -
+             HEADERS - - - - S - - - - -
+               MKDIR - - - - O - - - - -
+                  ** - - - - - X - - - -
+               -RSB- - - - - - O - - - -
+                RULE - - - - - X - - - -
+             MODULES - - - - - O - - - -
+                STOP - - - - - - X - - -
+             INSTALL - - - - - - - - S -
+            MAKEFILE - - - - - - - - X -
+             OPTIONS - - - - - - - - S -
+              README - - - - - - - - S -
+               ERROR - - - - - - - - - X

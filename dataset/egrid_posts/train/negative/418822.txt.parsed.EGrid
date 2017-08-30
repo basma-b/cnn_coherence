@@ -1,0 +1,13 @@
+             PROGRAM - S -
+            HOSTNAME - O -
+          /ETC/HOSTS - X -
+                SUDO - O X
+            TIMEOUTS - S -
+                HOST - O -
+                 KDE - X -
+             NETWORK - X -
+              CONFIG - X -
+             MANAGER - O -
+                 NET - O -
+                ROOT - X -
+             APT-GET - - S

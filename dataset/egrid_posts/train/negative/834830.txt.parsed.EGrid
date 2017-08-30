@@ -1,0 +1,18 @@
+             PROCESS S - - -
+                SAME O - - -
+            INTREPID X - - -
+              KARMIC X - - -
+             RELEASE X S - -
+                NAME X - - -
+             PROBLEM S - - -
+  DO-RELEASE-UPGRADE O - - -
+             UPGRADE S - - -
+              JAUNTY X - - -
+             SUPPORT O - - -
+                TOOL X S - -
+              OPTION - O - -
+                   * - S - -
+/ETC/UPDATE-MANAGER/RELEASE-UPGRADES - X - -
+            TUTORIAL - - - O
+                BASH - - - X
+              SCRIPT - - - X

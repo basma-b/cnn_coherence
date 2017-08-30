@@ -1,0 +1,14 @@
+               HELLO S - - -
+              ANYONE X - - -
+              APACHE X S - -
+                USER X - - X
+               GROUP O - - -
+                ROOT X X - -
+              THREAD - O - -
+           PROZESSES - S - -
+           WEB-PAGES - O - -
+         PERMISSIONS - O - -
+             ACCOUNT - X - -
+                THIS - - - O
+         MOD_USERDIR - - - O
+       ~/PUBLIC_HTML - - - O

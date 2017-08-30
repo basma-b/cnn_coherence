@@ -1,0 +1,17 @@
+             ANYBODY X - - -
+                ACPI - S - -
+            MODPROBE - X - -
+               ERROR - O - -
+           HARDLOCKS - O - -
+                 LOG - X - -
+               ENTRY - S - -
+        ACPI_CPUFREQ - O - -
+              SYMBOL - X - -
+ACPI_PROCESSOR_REGISTER_PERFORMANCE - X - -
+              DAPPER - X - -
+                BOOT - X - -
+              OPTION - O - -
+              ANSWER - - - X
+                  CD - - - O
+                 WAY - - - O
+               ISSUE - - - O

@@ -1,0 +1,13 @@
+              SYSLOG S - - - -
+                 LOG X X - X -
+                FILE O O - - -
+                  .. X - - O -
+                RATE X - - - -
+           SOMETHING - O O - -
+              SPLUNK - X S - -
+               ORDER - S - - -
+           LOGROTATE - - X - -
+            ANALYZER - - - X -
+            INTEREST - - - - O
+                 INS - - - - S
+             PACKAGE - - - - X

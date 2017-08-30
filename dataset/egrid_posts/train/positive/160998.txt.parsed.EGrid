@@ -1,0 +1,16 @@
+             WINDOWS X X -
+           PARTITION O X -
+              FORMAT X - -
+           REINSTALL X - -
+              DAPPER S - -
+                AUTO O - -
+               SETUP - X -
+                  CD - O -
+            RECOVERY - X -
+                MODE - X -
+        SHELL/CHROOT - O -
+                ROOT - X -
+        GRUB-INSTALL - X -
+            /DEV/HDA - X -
+                 MBR - O -
+                  TY - - X

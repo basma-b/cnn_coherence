@@ -1,0 +1,22 @@
+              KERNEL X - - -
+             SUPPORT X - - -
+           PARTITION X X - -
+                BOOT X - - -
+            ANYTHING - S - -
+             SPECIAL - S - -
+              ANYONE - X - -
+                LINE - X O -
+               FSTAB - X - -
+                  .. - - X -
+UUID=54685EF2-2AF8-4CA3-A62C-FB0E9E7A4D0E - - X -
+           /MNT/DATA - - S -
+             DEFAULT - - O -
+          EVERYTHING - - X -
+             COMMAND - - X -
+               BLKID - - S -
+                UUID - - O O
+                 ONE - - X -
+                  EG - - X -
+                 ETC - - X -
+AAAAAAAAAAAAAAAAAAAAAAAAAAA - - X -
+   /DEV/DISK/BY-UUID - - - X

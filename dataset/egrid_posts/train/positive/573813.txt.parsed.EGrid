@@ -1,0 +1,13 @@
+             SECTION X - - -
+              DEVICE X - - -
+  /ETC/X11/XORG.CONF X S - -
+                LINE X - - -
+              OPTION O - - -
+            SWCURSOR X - - -
+                TRUE X - - -
+          PERMISSION O - - -
+                 USE - X - -
+                SUDO - X - -
+               GEDIT - X - -
+       ACTIONPARSNIP - S - -
+                  GO - - - X

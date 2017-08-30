@@ -1,0 +1,17 @@
+                  IM S - - - -
+           PARTITION O - S - -
+             OPTIONS X - - - -
+                AUTO X - - - -
+                  RW X - - - -
+                USER X X - - -
+               USERS X - - - -
+                EXEC X - - - -
+           DIRECTORY - - O X -
+                  MV - - X - -
+                  .. - - O - -
+          PERMISSION - - S - -
+             PROBLEM - - O - -
+         PERMISSIONS - - - O -
+                ROOT - - - X -
+                CASE - - - - X
+            SCENARIO - - - - S

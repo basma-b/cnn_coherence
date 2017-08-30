@@ -1,0 +1,19 @@
+              SCRIPT O - - - -
+              LAPTOP S - - - -
+             BATTERY X - - - -
+               MAINS X - - - -
+                THAT - X - - -
+              THANKS - - S - -
+                  -V - - X - -
+/PROC/ACPI/BATTERY/BAT - - O - -
+                   $ - - - O -
+                GREP - - - S -
+              /STATE - - - X -
+           BATSTATE= - - - S -
+                 AWK - - - X -
+              STATE/ - - - X -
+               PRINT - - - X -
+                 USE - - - X -
+           BACKTICKS - - - X -
+             NOTHING - - - O -
+           BACKPORTS - - - - X

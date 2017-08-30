@@ -1,0 +1,24 @@
+               -LSB- X - - - - - - - - - -
+              UBUNTU S - - - - - - - - - -
+                THAW X - - - - - - - - - -
+                   $ - O - - - - - - - - -
+                ETH1 - S - X O X - - - - -
+               ESSID - - X - - - - - - - -
+             OFF/ANY - - X - - - - - - - -
+                SUDO - - - X - - - - - - -
+              IFDOWN - - - X - - - - - - -
+           INTERFACE - - - X X X - - - - -
+                   ' - - - - S - - - - - -
+           ETH1=ETH1 - - - - O - - - - - -
+            ANYTHING - - - - - - X - - - -
+/ETC/NETWORK/INTERFACES - - - - - - X X - - -
+                 CAT - - - - - - - X - - -
+                AUTO - - - - - - - X - - -
+                  LO - - - - - - - X - - -
+                INET - - - - - - - X - - -
+            LOOPBACK - - - - - - - X - - -
+                IFUP - - - - - - - - X - -
+                  .. - - - - - - - - O - -
+             NETWORK - - - - - - - - X - -
+             MANAGER - - - - - - - - X - -
+      NETWORKMANAGER - - - - - - - - - - S

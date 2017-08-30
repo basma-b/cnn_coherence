@@ -1,0 +1,9 @@
+        CHECKINSTALL X - - -
+               ALIEN X - S -
+              TAR.GZ - X - -
+              SOURCE - X - -
+             PACKAGE - X S -
+                TIME - - - X
+                  PC - - - S
+               DMESG - - - X
+             XSERVER - - - S

@@ -1,0 +1,14 @@
+ /BOOT/GRUB/GRUB.CFG X - - -
+          PERMISSION O - - -
+     GFXPAYLOAD=TEXT - O - -
+             DEFAULT - X - -
+                GRUB - X - -
+                MODE - X - -
+               BREAK - X - -
+                FILE - O - -
+                SUDO - X - -
+         UPDATE-GRUB - O - -
+                TEXT - X - -
+                 THO - O - -
+                LINE - - - X
+GRUB_GFXPAYLOAD=TEXT - - - O

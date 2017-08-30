@@ -1,0 +1,15 @@
+               FSTAB O O - - - -
+              SYSTEM S X - - - -
+              RESULT X - - - - -
+                BOOT - X S - - O
+            WRITABLE - X - - - -
+                THAT - - O - - -
+                 CAN - - O - - -
+                  CD - - X - - -
+               DRIVE - - O - - -
+            RECOVERY - - X - - -
+                MODE - - X - - -
+                  RW - - X - - -
+                  RO - - X - - -
+                GRUB - - - X - S
+             OPTIONS - - - - - S

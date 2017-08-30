@@ -1,0 +1,16 @@
+                 USE S - - - - -
+           ATTRIBUTE O - - - - -
+         FILE-SYSTEM X - - - - -
+              OPTION O - - - - -
+                 XFS - S - - - -
+           UTILITIES - - O - - -
+                FACL - - - X - -
+                 MAN - - - X - -
+                  AH - - - X - -
+           SUBGROUPS - - - O - -
+                FILE - - - O - -
+               GROUP - - - O - -
+                 END - - - - - X
+              RESULT - - - - - X
+               POSIX - - - - - X
+                 WAY - - - - - O

@@ -1,0 +1,19 @@
+             COMMAND X - -
+         COMPRESSION X - -
+                COPY S - -
+             =BACKUP X - -
+             CONTENT O - -
+              FOLDER X - -
+          SUBFOLDERS S - -
+                FILE X - -
+               DIFFS O - -
+               RSYNC - X -
+                HTTP - X -
+//WWW.WEBUPD8.ORG/2012/03/UNITY-WITH-MINIMIZE-ON-CLICK-PATCH.HTML - S -
+              EXPECT - O -
+MINIMIZE/UNMINIMIZE-ON-CLICK - X -
+                 PPA - X -
+          PULSEAUDIO - - X
+            ~/.PULSE - - X
+              SECOND - - O
+                   * - - X

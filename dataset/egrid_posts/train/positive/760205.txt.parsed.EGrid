@@ -1,0 +1,15 @@
+             APT-GET X - - - - - - - - -
+             PACKAGE X - X O - - - - - -
+                HOLD O O - X - X - - - -
+         IGNORE-HOLD - S - - - S - - - -
+               ABORT - - - S - - - - - -
+          DEPENDENCY - - - X - - - - - -
+               ERROR - - - X X - - - - -
+               THERE - - - S - - - - - -
+           SOMETHING - - - X - - - - - -
+         NONEXISTANT - - - X - - - - - -
+                THAT - - - - - X - - - -
+              OPTION - - - - - O - O - -
+            APTITUDE - - - - - O - - - X
+             OPTIONS - - - - - O - - - -
+                LESS - - - - - - - - - O

@@ -1,0 +1,17 @@
+                   > S - -
+             ADDRESS O - -
+                  .. X X -
+         192.168.1.3 - X -
+/MNT/EXISTING_MOUNT_POINT - O -
+             APT-GET - S -
+               SMBFS - S -
+                SUDO - S -
+            /MNT/WIN - O -
+                 RUN - X -
+                  DF - S -
+              MOUNED - X -
+               SHARE - S -
+             WINDOWS - X -
+                  PC - X -
+                  IP - S -
+          EVERYTHING - S -

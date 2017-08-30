@@ -1,0 +1,16 @@
+           PARTITION X - - - O
+              UBUNTU X - - - O
+                  -O - X - - -
+                  RW - O - - -
+         /MEDIA/WIN/ - S - - -
+          READ-ONLY. - O - - -
+          JOURNALING - - X - -
+                HFS+ - - - X -
+               STUFF - - - O -
+                EXT4 - - - X -
+             WINDOWS - - - - O
+                  CD - - - - X
+                 HDD - - - - O
+               PLACE - - - - O
+               SPACE - - - - X
+               LEAVE - - - - X

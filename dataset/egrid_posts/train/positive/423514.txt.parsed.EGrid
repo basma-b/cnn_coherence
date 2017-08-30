@@ -1,0 +1,9 @@
+           DIRECTORY S - - - -
+                USER O X - - -
+                 GUI X - - - -
+               ADMIN X - - - -
+               GROUP - - X - -
+            WWW-DATA - - - - X
+                SUDO - - - - X
+               CHOWN - - - - X
+     /THAT/DIRECTORY - - - - X

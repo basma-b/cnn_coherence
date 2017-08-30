@@ -1,0 +1,9 @@
+           PARTITION X - - - -
+                MODE X - - - -
+                USER X X - - -
+                  RW - X - - -
+          /ETC/FSTAB - X - - -
+                WORK - O - - -
+                PAGE - - X - -
+             APT-GET - - - - S
+            XMMS-MAD - - - - O

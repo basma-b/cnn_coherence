@@ -1,0 +1,13 @@
+                BOTH S -
+             PACKAGE X -
+         DESCRIPTION X -
+               HTTPS S -
+//LAUNCHPAD.NET/UBUNTU/PRECISE/+PACKAGE/RUBY1.9.3 X -
+               PATCH O -
+              PATCH0 - X
+                  .. - O
+                RUBY - X
+             VERSION - S
+                   > - X
+             1.9.3P0 - X
+            REVISION - X

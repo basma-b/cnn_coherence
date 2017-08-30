@@ -1,0 +1,8 @@
+         PERMISSIONS X - - - - -
+              FOLDER X - - - - -
+               CHMOD - X - - - -
+                 +RW - S - - - -
+               OWNER - - - X - -
+           OPERATION - - - - X -
+           /HOME/FTP - - - - - S
+                  .. - - - - - O

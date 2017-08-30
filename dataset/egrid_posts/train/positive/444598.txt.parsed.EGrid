@@ -1,0 +1,22 @@
+                ICON O - - -
+             TASKBAR X - - -
+               64BIT X - - -
+             PROGRAM X - - -
+               MIXER O - - -
+               SOUND - X - -
+              SYSTEM - X - -
+            SESSIONS - X - -
+             WIDGETS - S - -
+                LOAD - O - -
+             NOTHING - X - -
+               PULSE - X X -
+               AUDIO - X X -
+             MANAGER - X X O
+     MODULE-X11-XSMP - O - -
+                CANT - - X -
+            ANYTHING - - S -
+              VOLUME - - X X
+/USR/LIB/GNOME-VOLUME-MANAGER/GNOME-VOLUME-MANAGER - - O -
+          SM-DISABLE - - X -
+                AUTO - - - X
+               AVAIL - - - X

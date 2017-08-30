@@ -1,0 +1,10 @@
+                .BIN X - - - -
+                .CUE S - - - -
+                  CD - X - - -
+               IMAGE - X - - -
+                 BIN - - X - -
+              CDRDAO - - S - -
+             FOO.CUE - - O - -
+                 USE - - X - -
+              BCHUNK - - X - -
+               ./CUE - - - - O

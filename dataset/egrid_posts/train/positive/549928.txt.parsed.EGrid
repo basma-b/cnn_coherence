@@ -1,0 +1,15 @@
+             PROBLEM X O - -
+                 RUN X - - -
+                 BOX X - - -
+            INTREPID X - - -
+                  .. X - - -
+               ERROR X - - -
+          VIRTUALBOX - X - -
+               LINUX - X - -
+              KERNEL - X S O
+              DRIVER - S - -
+             VBOXDRV - X - -
+                LOAD - O - -
+          PERMISSION - X - -
+        /DEV/VBOXDRV - X - -
+              MODULE - - O -

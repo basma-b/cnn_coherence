@@ -1,0 +1,16 @@
+                FILE O - - - - - - - - - - - - - -
+         PERMISSIONS X - - - - - - - - - - - - - -
+               OWNER - - - - - - - - - X - - - - -
+               GROUP - - - - - - - - - - X - - - -
+                THIS - - - - - - - - - - - X - - -
+               CHMOD - - - - - - - - - - - X - - -
+        INPUT/OUTPUT - - - - - - - - - - - X X - -
+               ERROR - - - - - - - - - - - X X - -
+               CHOWN - - - - - - - - - - - - X - -
+                USER - - - - - - - - - - - - X - -
+                SUDO - - - - - - - - - - - - X - -
+           CROSSFIRE - - - - - - - - - - - - - S -
+                CARD - - - - - - - - - - - - - X -
+               THING - - - - - - - - - - - - - O -
+                GPUS - - - - - - - - - - - - - - O
+              LAPTOP - - - - - - - - - - - - - - X

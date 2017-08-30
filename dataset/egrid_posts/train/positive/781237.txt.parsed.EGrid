@@ -1,0 +1,9 @@
+               CHMOD X - X X
+                ROOT X - - -
+           DIRECTORY - - X -
+                FILE - - O -
+                SUDO - - X -
+                   * - - X -
+              PARENT - - X -
+                  -R - - O -
+             OPERAND - - - O

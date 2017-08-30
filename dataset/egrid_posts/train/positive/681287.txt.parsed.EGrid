@@ -1,0 +1,15 @@
+                GRUB O - - O - - O
+                 USB X - - - - - -
+               FLASH X - - - - - X
+               DRIVE X - - - - - X
+                 MBR X - - - - - -
+       CONFIGURATION O - - - - - -
+                BOOT O - - - - - X
+               LINUX X - - - - - -
+ /BOOT/GRUB/MENU.LST - - - X - - -
+                 SYS - - - - X - -
+                 BRB - - - - - S -
+              UBUNTU - - - - - - O
+               THERE - - - - - - X
+              COURSE - - - - - - X
+        INSTALLATION - - - - - - O

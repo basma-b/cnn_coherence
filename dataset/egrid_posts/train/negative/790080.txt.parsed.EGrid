@@ -1,0 +1,11 @@
+        DIST-UPGRADE X S S -
+                SAME X - - -
+                FULL X - - -
+             FEATURE - S - -
+                WORK - O - -
+               FRESH - S - -
+             PROGRAM - - O -
+        DEPENDENCIES - - O -
+             UPGRADE - - S -
+                   U - - - X
+                STEP - - - X

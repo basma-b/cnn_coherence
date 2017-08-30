@@ -1,0 +1,14 @@
+             ANYBODY X - - - -
+               MDADM X O - - X
+               POWER - O - - -
+               BUILD - X - - -
+                RAID - X - - -
+                SYNC - X - - -
+               DRIVE - O - - -
+               ARRAY - X - - -
+                SUDO - X - - X
+            /DEV/SDA - O X - -
+              DEVICE - X - - -
+            RESOURCE - S - - -
+          FILESYSTEM - - - O -
+            /DEV/MD0 - - - - O

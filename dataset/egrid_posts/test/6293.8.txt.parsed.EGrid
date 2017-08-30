@@ -1,0 +1,16 @@
+                EXIT X - X - -
+                CODE X - X - -
+                   $ - X - - -
+              SCRIPT - X - - -
+               RSYNC - - X - -
+             COMMAND - - X - -
+              OUTPUT - - S O -
+             MAILBOX - - X - -
+          MAILTO=FOO - - O - -
+             CRONTAB - - X - -
+             MAILTO= - - O - -
+              GENTOO - - O - -
+               |GREP - - - X -
+                 VGA - - - X -
+                SUDO - - - - X
+              IWLIST - - - - S

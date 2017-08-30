@@ -1,0 +1,16 @@
+               THERE X - - -
+             COMMAND X - - -
+             APT-GET X S - -
+       CONFIGURATION X - - -
+                FILE O - - -
+             PACKAGE X - O -
+               PURGE - X - -
+         PACKAGENAME - S - -
+                HELP - X - -
+            .FOLDERS - - O -
+                HOME - - X -
+                 ALL - - O X
+                NONE - - S -
+          MANAGEMENT - - X -
+                TOOL - - X -
+   FILES/DIRECTORIES - - O -

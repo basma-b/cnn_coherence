@@ -1,0 +1,11 @@
+             COMMAND X - -
+                FILE O - -
+            TRUNCATE - X -
+            FILE.FOO - X -
+          MONKEYDUST - X -
+              ANSWER - S -
+               SSHFS - - S
+                WORK - - X
+                COPY - - O
+              SERVER - - X
+           DIRECTORY - - X

@@ -1,0 +1,19 @@
+              KERNEL X - X - -
+               PANIC X - - - -
+                SYNC X - - - -
+                 VFS X - - - -
+                ROOT X - - - -
+                  FS O - - - -
+       UNKNOWN-BLOCK X - - - -
+                 0.0 X - - - -
+                 PID X - - - -
+                COMM X - - - -
+             SWAPPER X - - - -
+               TAINT X - - - -
+2.6.35-27-GENERIC-PAE X - - - -
+              SYSTEM - X - - -
+             VERSION - - O - -
+                TIME - - - X -
+               10.10 - - - S -
+             NOTHING - - - O -
+               THANK - - - - X

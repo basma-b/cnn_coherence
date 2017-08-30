@@ -1,0 +1,13 @@
+                  MB S - - - - - - -
+           PARTITION S - - - - - - -
+               100MB - - O - - - - -
+                   % - - - X - - - -
+                  .. - - - X - - - -
+                DAYS - - - O - - - -
+           PARITTION - - - X - - - -
+               PATCH - - - - S - - -
+               /BOOT - - - - - - - X
+                   / - - - - - - - X
+               /HOME - - - - - - - S
+                RAID - - - - - - - X
+             DEVICES - - - - - - - X

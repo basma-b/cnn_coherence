@@ -1,0 +1,10 @@
+                USER S - - -
+               POSIX X - - -
+               SHARE X - - -
+              MEMORY X - - -
+              KERNEL X - X -
+              HEADER X - - -
+             PACKAGE X - - -
+              SYSTEM X - - -
+              CONFIG - - O -
+            BEGINNER - - - O

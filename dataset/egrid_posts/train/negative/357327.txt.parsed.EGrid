@@ -1,0 +1,14 @@
+              ANYONE S S S S S S S - - - -
+                LOOP O O O O O O O - X - -
+              BOOTUP X X X X X X X - - - -
+       DEVICE-MAPPER S S S S S S S - - - -
+               TABLE X X X X X X X - - - -
+               254-9 X X X X X X S - - - -
+           DM-LINEAR X X X X X X S - - - -
+              DEVICE X X X X X X X - - - -
+              LOOKUP X X X X X X S - - - -
+              UPDATE - - - - - - X - - - -
+                7.10 - - - - - - X - - - -
+             MACHINE - - - - - - - X - - -
+                 GDM - - - - - - - - - S -
+                  OK - - - - - - - - - X -

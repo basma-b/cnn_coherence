@@ -1,0 +1,16 @@
+                HTTP O - - - -
+                NMAP X - - - -
+                  -P S - - - -
+           LOCALHOST X X - - -
+            EXTERNAL - X - - -
+            IPTABLES - - S - -
+                 XEV - - S - -
+                 GUI - - X - -
+                 WAY - - X - -
+           DATABASES - - O S -
+              AFFECT - - - O -
+              COURSE - - - X -
+              BACKUP - - - O -
+              SERVER - - - X -
+             VERSION - - - S -
+              UPDATE - - - O -

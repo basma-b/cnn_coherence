@@ -1,0 +1,22 @@
+             PACKAGE O - - - - - - - - - -
+        CHECKINSTALL X - - - - - - - - - -
+               ERROR O S - - - - - - - - -
+/SELINUX/CONTEXT.DPKG-NEW X - - - - - - - - - -
+             PROCESS X - - - - - - - - - -
+   ./SELINUX/CONTEXT X - - - - - - - - - -
+          PERMISSION X - O - - - - - - - -
+              ANYONE S - - - - - - - - - -
+             PROBLEM X - - - - - - - - - -
+                THAT - - O - - - - O - - -
+         PACKAGE.DEB - - - X - - - - - - -
+                SUDO - - - - S - - - - - -
+                ROOT - - - - O O X - S - -
+               THERE - - - - - S - - - - -
+             DEFAULT - - - - - X - - - - -
+              UBUNTU - - - - - X - - - - -
+               FASTA - - - - - - - X - - -
+             SELINUX - - - - - - - S - - -
+               KINDS - - - - - - - O - - -
+            POLICIES - - - - - - - X - - -
+           PRINCIPLE - - - - - - - - X - -
+          EVERYTHING - - - - - - - - O - -

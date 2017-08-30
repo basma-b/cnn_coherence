@@ -1,0 +1,25 @@
+             APACHE2 X - - - - - -
+                PHP4 S - - - X - -
+             APT-GET X - - - - - -
+                FILE O - - X X - -
+             BROWSER S - - - - - -
+             SYMLINK - O - - - - -
+                   * - X - - - - -
+                THNX - X - - - - -
+                   A - - S - - - -
+                LINK - - X - - - -
+                CALL - - X - - - -
+               ERROR - - - O - - -
+                NAME - - - - O - -
+                  -L - - - - S - -
+           SOMETHING - - - - O - -
+                THIS - - - - X - -
+                ROOT - - - - O - -
+                 DEC - - - - X - -
+           PHP5.CONF - - - - X - -
+/ETC/APACHE2/MODS-AVAILABLE/PHP5.CONF - - - - O - -
+               .LOAD - - - - S - -
+        MODS-ENABLED - - - - X - -
+            SYMLINKS - - - - X - -
+                  PC - - - - - - X
+                 LAN - - - - - - X

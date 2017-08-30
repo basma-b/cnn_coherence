@@ -1,0 +1,11 @@
+            QUESTION O - - - -
+          EXECUTABLE - O - O -
+             ./A.OUT - O - - -
+           DIRECTORY - X X O O
+                  .. - - S - -
+                PATH - - X - S
+   ./BLAH/YADA/A.OUT - - X - -
+./HOME/USER/STEAM/STEAM - - - O -
+               STEAM - - - S X
+                FILE - - - X -
+            DIRECTOR - - - - X

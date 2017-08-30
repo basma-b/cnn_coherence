@@ -1,0 +1,14 @@
+             COMMAND X - - - - - - - - -
+                 FAN X - - - - - - - - -
+               SPEED O - - - - - - - - -
+                PART - X - - - - - - - -
+          FILESYSTEM - X - - - - - - - -
+             PACKAGE - - X - - - - - - -
+      SENSORS-APPLET - - O - - - - - - -
+             SENSORS - - - X - - - - - -
+              THINGY - - - O - - - - - -
+               PANEL - - - X - - - - - -
+                MKFS - - - - - - - O - -
+                THAT - - - - - - - - X -
+              PLAYER - - - - - - - - - X
+              STREAM - - - - - - - - - O

@@ -1,0 +1,29 @@
+             ANYBODY S - - -
+            MKCRAMFS O X X -
+           INITR.IMG O - - -
+                 USE - X - -
+              KERNEL - O - -
+              INITRD - O - -
+            MAKE-KPG - S - -
+/BOOT/INITRD.IMG-2.6.10 - O - -
+           DIRECTORY - X - -
+                 ONE - X - -
+                 ARG - X - -
+             UTILITY - X - -
+                  .. - X O -
+                TIME - - S -
+                DONT - - S -
+            MKINITRD - - X -
+              OUTPUT - - X -
+                 YOI - - S -
+                 BUG - - X -
+             MANPAGE - - O -
+            MANPAGES - - X -
+                 DIR - - X -
+            ARGUMENT - - X -
+            MENU.LST - - X -
+PASTE.UBUNTULINUX.NL - - X -
+                 PLS - - O -
+             MACHINE - - O -
+                MKFS - - X -
+                THNX - - - X

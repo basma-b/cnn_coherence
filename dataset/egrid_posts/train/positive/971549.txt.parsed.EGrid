@@ -1,0 +1,25 @@
+                 HEY X - - - - - - - - - - - - -
+               HTTPS X - - - - - - - - - - - - -
+               ERROR O - - - - - - - - - - - - -
+                HDA1 X - - - - - - - - - - - - -
+              FORMAT - X - - - - - - - - - - - -
+                EXT2 - X - - - - - - - - - - - -
+             WINDOWS - O - - - - - - - - - - - -
+                GRUB - - - - X - - - - - - - - O
+              RECORD - - - - X - - - - - - - - -
+            /DEV/HDA - - - - - - - X - - - - - -
+            WHATEVER - - - - - - - X - - - - - -
+              DEVICE - - - - - - - O - - - - - -
+               /BOOT - - - - - - - X X O - - - -
+               BLOCK - - - - - - - X - - - - - -
+           PARTITION - - - - - - - - O - - - - X
+                  DO - - - - - - - - - S - - - -
+                BITS - - - - - - - - - X - - - -
+             COMMAND - - - - - - - - - - - X - -
+                TYPE - - - - - - - - - - - X - -
+        GRUB-INSTALL - - - - - - - - - - - - S -
+                THAT - - - - - - - - - - - - - S
+                DISK - - - - - - - - - - - - - X
+                HTTP - - - - - - - - - - - - - X
+//WWW.GNU.ORG/SOFTWARE/GRUB/MANUAL/HTML_NODE/INSTALLING-GRUB-USING-GRUB_002DINSTALL.HTML - - - - - - - - - - - - - X
+INSTALLING-GRUB-USING-GRUB_002DINSTALL - - - - - - - - - - - - - X

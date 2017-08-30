@@ -1,0 +1,23 @@
+                 HEY S - - - - - - - -
+               JAVA6 X - - - - - - - -
+                COPY O - - - - O - - -
+              PLUGIN X - - - - - - - -
+             PLUGINS X - - - - - - - -
+           DIRECTORY X - - - - - - - -
+/USR/LIB/JVM/JAVA-6-SUN-1.6.0.03/JRE/PLUGIN/I386/NS7/LIBJAVAPLUGIN_OJI.SO X - - - - - - - -
+             BROWSER X - - - - - - - -
+JAVATESTER.ORG/VERSION.HTML X - - - - - - - -
+                 1.5 O - - - - - - - -
+                 1.6 O - - - - - - - -
+              REASON X - - - - - - - -
+          DIFFERENCE - - O - - - - - -
+               STATE - - O - - - - - -
+             PACKAGE - - - X - - - - -
+       MODIFICATIONS - - - - S - - - -
+    SUN-JAVA6-PLUGIN - - - - - - S - -
+                 YES - - - - - - X - -
+                SUDO - - - - - - S S -
+            APTITUDE - - - - - - S - -
+               PURGE - - - - - - X - -
+UPDATE-JAVA-ALTERNATIVES - - - - - - - S -
+                  -L - - - - - - - X -

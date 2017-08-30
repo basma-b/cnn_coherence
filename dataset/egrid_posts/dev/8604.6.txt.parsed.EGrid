@@ -1,0 +1,7 @@
+         PERMISSIONS X X X - - -
+           PARTITION X - X - O -
+               TABLE - - - - S -
+               FDISK - - - - S -
+               IMAGE - - - - S -
+             GPARTED - - - - - O
+                BOOT - - - - - X

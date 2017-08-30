@@ -1,0 +1,5 @@
+      /SBIN/IWCONFIG O - - -
+              CHATTR S - - -
+                  +I O - - -
+              UPDATE O - - -
+                HELP - - - O

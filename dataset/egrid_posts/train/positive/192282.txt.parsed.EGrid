@@ -1,0 +1,10 @@
+         .XAUTHORITY O O - - -
+              ANYONE - S X - -
+                 HMM - - S - -
+        APPLICATIONS - - O - -
+         CTRL+ALT+F1 - - - O -
+                  -I - - - O -
+                TYPE - - - X -
+     /ETC/INIT.D/GDM - - - S -
+                STOP - - - X -
+/HOME/YOURLOGIN/.XAUTHORITY - - - X -

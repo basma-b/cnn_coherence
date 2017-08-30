@@ -1,0 +1,21 @@
+                SUDO S -
+              RENDER O -
+                 YES X -
+              OPENGL X -
+            RENDERER X -
+              STRING X -
+             GEFORCE X -
+               8400M X -
+         GS/PCI/SSE2 X -
+GL_NV_CONDITIONAL_RENDER X -
+GL_NV_COPY_DEPTH_TO_COLOR X -
+    GL_NV_COPY_IMAGE X -
+GL_NV_PATH_RENDERING X -
+GL_NV_PIXEL_DATA_RANGE X -
+  GL_NV_POINT_SPRITE X -
+GL_NVX_CONDITIONAL_RENDER X -
+GL_NVX_GPU_MEMORY_INFO X -
+      GL_OES_DEPTH24 X -
+GL_OES_FBO_RENDER_MIPMAP X -
+GL_OES_GET_PROGRAM_BINARY X -
+    GL_OES_MAPBUFFER X -

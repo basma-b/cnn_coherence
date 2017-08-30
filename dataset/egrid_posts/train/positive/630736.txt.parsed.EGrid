@@ -1,0 +1,14 @@
+               ERROD X -
+/HOME/XBMC/.FLUXBOX/STARTUP S -
+          /PROC/MTRR O -
+          PERMISSION S -
+              SCRIPT S -
+                ROOT X -
+                 USE X -
+                SUDO X -
+                CRON O -
+                TIME - X
+                   X - S
+                 FIX - O
+               INTEL - X
+              DRIVER - X

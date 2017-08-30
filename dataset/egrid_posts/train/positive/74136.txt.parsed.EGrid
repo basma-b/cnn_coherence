@@ -1,0 +1,10 @@
+                 RUN X - - - -
+             NETWORK X - X - -
+       S40NETWORKING - X - - -
+          S51NTPDATE - X - - -
+             PREVIEW - O - - -
+                 SEC - - S - -
+             PROBLEM - - S - -
+              SCRIPT - - X - -
+                ETH0 - - - O S
+              REASON - - - X -

@@ -1,0 +1,16 @@
+             ADDRESS O - - - -
+              ROUTER O - - - -
+              REASON X - - - -
+               VALUE O - - - -
+             GATEWAY S - - - -
+                IPV4 X - - - -
+    /ETC/RESOLV.CONF - X - - -
+                 DNS - X - - -
+               ROUTE - - S - -
+                  -N - - O - -
+             PACKAGE - - - O -
+             REMOVAL - - - X -
+                CANT - - - - S
+             APT-GET - - - - S
+                WORK - - - - X
+                  .. - - - - O

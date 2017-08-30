@@ -1,0 +1,15 @@
+             EXAMPLE S - -
+             PACKAGE X - -
+                   W S - -
+                HTTP O - O
+               ERROR S - X
+              SERVER X - -
+                 END - X -
+          CONNECTION - X -
+            TERMINAL - X -
+              UPDATE - X X
+        DIST-UPGRADE - O -
+              OUTPUT - - X
+                GZIP - - X
+              RETURN - - X
+                CODE - - X

@@ -1,0 +1,26 @@
+             PROCESS S X - - - - - -
+                   / S - - - - - - -
+                FILE O - - - - - - -
+                  .. - X - - - - - -
+                HELP - O - - - - - -
+       DHCLIENT.CONF - O - O - - - -
+                 USE - X - - - O - -
+      NETWORKMANAGER - O - - - - - -
+                 DNS - S X - - - - -
+CONNECTIONS-SETTINGS - X - - - - - -
+    /ETC/RESOLV.CONF - O - S - - - -
+             NETWORK - X - - - - - -
+             MANAGER - X - - - - - -
+                CASE - X - - - - - -
+              SERVER - O X - - - - -
+          CONNECTION - X - - - - - -
+                SORT - - O - - - - -
+                 WAY - - X - - - - -
+             OVERWRI - - - S - - - -
+ DOMAIN-NAME-SERVERS - - - S - - - -
+                NEED - - - X - - - -
+/ETC/NETWORK/INTERFACES - - - O - - - -
+           STATIC-IP - - - X - - - -
+     DNS-NAMESERVERS - - - S - - - -
+               THING - - - - - S - -
+               CHARM - - - - - X - -

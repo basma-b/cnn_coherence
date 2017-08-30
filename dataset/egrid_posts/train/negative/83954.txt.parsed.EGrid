@@ -1,0 +1,17 @@
+            FAKEROOT O - - - - - -
+             COMMAND X - - - - - -
+                SORT - O - - - - -
+             PACKAGE - X - - - - -
+                SUDO - - X - - - -
+             APT-GET - - S - - - -
+            UNIVERSE - - O - - - -
+                FILE - - - S - - -
+                MODE - - - O X - -
+              DOESNT - - - - X - -
+                WORK - - - - O - -
+               THATS - - - - S - -
+                NTFS - - - - X - -
+                ROOT - - - - - S -
+               THERE - - - - - - X
+                 WAY - - - - - - X
+                INFO - - - - - - O

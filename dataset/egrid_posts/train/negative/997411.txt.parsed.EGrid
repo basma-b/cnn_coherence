@@ -1,0 +1,11 @@
+             PACKAGE X X - - - -
+         RECONFIGURE X X - - - -
+                LIST O O - - - -
+               MODES X X - - - -
+                   X X X - - - -
+              SERVER X X - - - -
+        XSERVER-XORG - - X - - -
+                HOUR - - - - - X
+              ACCESS - - - - - O
+               FORCE - - - - - O
+          DAILYBUILD - - - - - X

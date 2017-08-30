@@ -1,0 +1,25 @@
+              ANYONE X - - - - - - - - - - -
+              MINUTE X - - - - - - - - - - -
+                WORK - X - - - - - - - - - -
+              KERNEL - X X - - - - - - - - -
+               ISSUE - X - - O - S - - - - -
+             VERSION - - X - - - - - - - - -
+               32BIT - - - X - - - - - - - -
+            2.6.38.9 - - - - X - - - - - - -
+             PROCESS - - - - - O X O X - - -
+           TERMINALS - - - - - X - - - - - -
+        AUTOGROUPING - - - - - S - - - - - -
+              EFFECT - - - - - O - - O - - -
+               FIRST - - - - - X - - - - - -
+                TIME - - - - - - X - - - - -
+               BOINC - - - - - - O - O - - -
+           PROCESSOR - - - - - - X - - - - -
+               GROUP - - - - - - - X X - - -
+               SHARE - - - - - - - - X - - -
+           AUTOGROUP - - - - - - - - X - - -
+          EVERYTHING - - - - - - - - S - - -
+KERNEL.SCHED_AUTOGROUP_ENABLED=0 - - - - - - - - - O - -
+    /ETC/SYSCTL.CONF - - - - - - - - - X - -
+              SOUNDS - - - - - - - - - - S -
+           REFERENCE - - - - - - - - - - - O
+               REACH - - - - - - - - - - - X

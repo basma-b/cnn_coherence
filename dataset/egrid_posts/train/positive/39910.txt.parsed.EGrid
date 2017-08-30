@@ -1,0 +1,13 @@
+               UMASK S - -
+         PERMISSIONS X - -
+              RESULT O - -
+              MANUAL O - -
+                COPY X - -
+               PASTE X - -
+         CONVENIENCE X - -
+             BITMASK X - -
+                CANT - - S
+                FILE - - X
+          EXECUTABLE - - S
+             SOMEONE - - O
+              MATTER - - O

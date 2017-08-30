@@ -1,0 +1,9 @@
+                FQDN X - - -
+              SERVER X - O -
+         DNSHOSTNAME - - S -
+              JASPER - - S -
+       /ETC/HOSTNAME - - S -
+          /ETC/HOSTS - - X -
+            HOSTNAME - - X -
+             CONTROL - - - O
+               FDISK - - - X

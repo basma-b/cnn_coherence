@@ -1,0 +1,8 @@
+                BOOT X S - O
+                 LOG X - - -
+                FILE X O - -
+               DMESG - - X -
+            BOOTLOGD - - O -
+/ETC/DEFAULT/BOOTLOGD - - X -
+                GRUB - - - O
+                 GUI - - - X

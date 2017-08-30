@@ -1,0 +1,21 @@
+              KERNEL O S - - -
+                 EFI X - - - -
+                IPOD X - - - -
+             KERNELL - X - - -
+              SOURCE - S - - -
+                TYPE - X - - -
+                MAKE - O - - -
+          MENUCONFIG - X - - -
+              CONFIG - X - - -
+                  UR - X - - -
+     MODULES_INSTALL - X - - -
+                COPY - S - - -
+               MODES - - X - -
+                NOFB - - S - -
+         FRAMEBUFFER - - O X -
+             CONSOLE - - X O -
+                   X - - - X -
+DRIVERS/CARDS/CONFLICT - - - S -
+                  TV - - - - S
+                HOOK - - - - X
+             DEFAULT - - - - X

@@ -1,0 +1,11 @@
+           BLACKLIST X - - - - -
+/ETC/MODPROBE.D/BLACKLIST X - - - - -
+                 B43 - S - - - -
+                 SSB - S - - - -
+                MORE - O - - - -
+                LOAD - - O X - -
+               PLACE - - - - - S
+             RUMMAGE - - - - - O
+            /VAR/LOG - - - - - X
+                   X - - - - - X
+                 LOG - - - - - X

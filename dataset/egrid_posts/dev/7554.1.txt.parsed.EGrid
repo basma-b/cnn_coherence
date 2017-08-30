@@ -1,0 +1,10 @@
+/USR/SHARE/APPLICATIONS/WINE-NOTEPAD.DESKTOP - O - -
+                SUDO - S - -
+             COMMAND - X - -
+           NOTEPAD++ - - - X
+              CHANGE - - - S
+        EXEC=NOTEPAD - - - X
+      EXEC=NOTEPAD++ - - - X
+                WINE - - - X
+           ~/.BASHRC - - - X
+              SOURCE - - - X

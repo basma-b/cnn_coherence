@@ -1,0 +1,25 @@
+               VIDEO X - - - -
+              DRIVER X - - - -
+                 USE O - - - -
+                SUDO - X - - -
+                  -C - S - - -
+            ANYTHING - O - - -
+              LIVECD - X - - -
+              INSTAL - X - - -
+                  OS - X X - -
+              REBOOT - X - - -
+              SERVER - X - - -
+             DEFAULT - X X - -
+              UBUNTU - X - - -
+                 VNC - - O - S
+                VINO - - S - -
+                 WAY - - X - -
+                PORT - - X X X
+              ROUTER - - X - X
+              ACCESS - - - O -
+                 LAN - - - X -
+              FRIEND - - - X -
+             COUNTRY - - - X -
+              TUNNEL - - - - O
+            SECURITY - - - - O
+~/.GCONF/SYSTEM/NETWORKING/CONNECTIONS/ - - - - X

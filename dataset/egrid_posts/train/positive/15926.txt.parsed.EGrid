@@ -1,0 +1,16 @@
+                 ALL X - - - - - -
+           PARTITION O - - X - - -
+              FORMAT X - - - - - -
+          FILESYSTEM X - - - - - -
+              CHOICE X - - - - - -
+                DATA O - - - - - -
+           DIRECTORY X - - - - - -
+             UNMOUNT X - - - - - -
+               FSTAB X - - - - O -
+                THAT - S - - - - -
+               SENSE - O - - - - -
+                PLAN - - - S - - -
+                CALL - - - S - - -
+              /HOME/ - - - - S - -
+               /HOME - - - - - O -
+           /HOMETOBE - - - - - O -

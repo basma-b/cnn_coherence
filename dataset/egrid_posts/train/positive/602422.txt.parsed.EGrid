@@ -1,0 +1,17 @@
+                COPY O X -
+               DRIVE X - -
+           PARTITION X - -
+               ITEMS O - -
+               IMAGE - X -
+                FILE - X -
+                  DD - X -
+        IF=/DEV/SDA1 - S -
+             PROBLEM - X -
+                GOOD - S -
+         COMPRESSION - X -
+           ALGORITHM - O -
+                MESS - X -
+       DECOMPRESSION - X -
+              COURSE - X -
+                SAME - O -
+                 YEP - - X

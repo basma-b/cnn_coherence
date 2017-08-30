@@ -1,0 +1,8 @@
+                SWAP X - - -
+                FILE X - - -
+                 USE X - - -
+           FALLOCATE O - - -
+                  DD - O - -
+              MKSWAP - - X -
+              SWAPON - - X -
+             PROBLEM - - - O

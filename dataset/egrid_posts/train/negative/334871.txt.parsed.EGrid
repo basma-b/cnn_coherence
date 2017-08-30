@@ -1,0 +1,15 @@
+                TIME O - - - -
+              SYSTEM S - - - -
+                DISK X - - - -
+               DRIVE X - - - -
+             WINDOWS S - - - -
+                BOOT X - - - -
+               HD1,0 X - - - -
+             SOMEONE X - - - -
+                THIS O - - - -
+                GRUB X - - - -
+               HD0,0 - X - - -
+     BUILD-ESSENTIAL - - - - X
+             APT-GET - - - - S
+                 GUI - - - - X
+                SUDO - - - - X

@@ -1,0 +1,10 @@
+               LIBC6 X X -
+               SARGE X - -
+          LIBC6-I686 X O -
+                SAME - S -
+             APT-GET - X -
+        DEPENDENCIES - O -
+          PREDEPENDS - X -
+2.3.2.DS1-13UBUNTU2.2 - X -
+        2.3.2.DS1-16 - S -
+                THAT - - O

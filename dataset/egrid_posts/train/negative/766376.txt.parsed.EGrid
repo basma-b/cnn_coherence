@@ -1,0 +1,5 @@
+           PARTITION X - -
+           EXTENSION O - -
+              DEFRAG X O -
+              OPTION X - -
+               LINUX - S -

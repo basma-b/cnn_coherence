@@ -1,0 +1,9 @@
+                 USE X - -
+            CDRECORD O - -
+                 ISO O - S
+                 ONE O - -
+                DONT - - X
+                FORM - - O
+             ARCHIVE - - X
+              UNPACK - - O
+              RECORD - - X

@@ -1,0 +1,17 @@
+            IPTABLES X - - - - -
+               ENTRY O - - - - -
+               INPUT X - - - - -
+                  -P X - - - - -
+                MYIP X - - - - -
+                DROP X - - - - -
+             WEBSITE X - - - - -
+             PROBLEM O - - - - O
+                SIDE X - - - - -
+               CACHE - X - - - -
+              ASWELL - O - O - -
+              WHERES - - X - - -
+                HOST - - X - - -
+               HTTPS - - X O - -
+              RUSSIA - - - X - -
+                 UFW - - - - - X
+      ENABLED/ACTIVE - - - - - O

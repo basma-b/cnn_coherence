@@ -1,0 +1,22 @@
+         AUTOSUSPEND - O - - - - - - - -
+                 USE - X - - - - - - - -
+              LAPTOP - X - - - - S - - -
+                MODE - X - - - - - - - -
+                TOOL - X - - - - - - - -
+                  ID - - O - - - - - - -
+AUTOSUSPEND_USBID_BLACKLIST - - X - - - - - - -
+                FILE - - X - - - - - - -
+    POWER-MODE-TOOLS - - - O - - - - - -
+               POWER - - - - O - X X - -
+   /DEV/INPUT/BY-ID/ - - - - O - - - - -
+               IDEAS - - - - - X - - - -
+                DONT - - - - - - X - - -
+          MANAGEMENT - - - - - - X X - -
+            SETTINGS - - - - - - X - - -
+              SYSTEM - - - - - - - X - -
+                   > - - - - - - - X - -
+         PREFERENCES - - - - - - - O - -
+               THERE - - - - - - - S - -
+                 SET - - - - - - - O - -
+             NOTHING - - - - - - - - - X
+            ORDINARY - - - - - - - - - X

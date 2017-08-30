@@ -1,0 +1,17 @@
+               MKDIR X X - - -
+                FILE X O - - -
+           DIRECTORY S - - - -
+          PERMISSION O - - - -
+                THAT - X - - -
+           SOMETHING - O - - -
+              /A/B/C - X - - -
+                  /A - X - - -
+                /A/B - S - - -
+             MESSAGE - O - - -
+                  -P - - - S O
+               ERROR - - - O X
+                 THE - - - - O
+           HIERARCHY - - - - O
+               PRIVS - - - - X
+                 DIR - - - - S
+                 MSG - - - - X

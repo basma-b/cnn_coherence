@@ -1,0 +1,17 @@
+          FILESYSTEM O O - - - -
+               SPACE O S S - - -
+                EXT3 - X - - - -
+                 LOT - S - - - -
+             RESERVE - X - - - -
+             JOURNAL - X - - - -
+            REISERFS - X - - - -
+                 XFS - X - - - -
+         DIFFERENCES - S - - - -
+             CONCERN - X O - - -
+                MUCH - - O - - -
+             FEATURE - - O - - -
+         PERFORMANCE - - S - - -
+             APT-GET - - - - S -
+COMPIZCONFIG-SETTINGS-MANAGER - - - - O -
+         PREFERENCES - - - - - X
+                  .. - - - - - X

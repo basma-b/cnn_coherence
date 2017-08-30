@@ -1,0 +1,15 @@
+            LOCATION X - - - - -
+            QUESTION X - - - - -
+            WIRELESS S - - - - -
+              DEVICE - X - - - -
+              UBUNTU - - - S - -
+                  VM - - - O - -
+                 USE - - - X - -
+                WIFI - - - X - -
+                HOST - - - X - -
+                   ^ - - - X - -
+            IWCONFIG - - - X - -
+            HARDWARE - - - O - -
+               GUEST - - - X - -
+               POINT - - - - - S
+            ANYTHING - - - - - X

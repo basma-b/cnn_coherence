@@ -1,0 +1,17 @@
+                TIME O - - -
+               LINUX S - - -
+              SCRIPT O - - -
+             STARTUP X - - -
+              SYSTEM S - - -
+                USER X - - -
+                 LOG X - - -
+           DIRECTORY - X - -
+               CHMOD - X - -
+                  +X - O - -
+                SUDO - - X -
+         UPDATE-RC.D - - S -
+             DEFAULT - - O -
+                HELP - - - X
+            PROBLEMS - - - S
+              OTHERS - - - O
+                   P - - - X

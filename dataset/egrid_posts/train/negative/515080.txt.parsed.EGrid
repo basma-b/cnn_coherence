@@ -1,0 +1,16 @@
+               ERROR X - - -
+                THIS - S - -
+               MOUNT - X - -
+           /DEV/SDB2 - O - -
+               /USB1 - S - -
+          FILESYSTEM - X - -
+                TYPE - S S -
+          WHATEVERFS - O - -
+                VFAT - S - -
+              ERRORS - O - -
+           PARTITION - O - -
+          FLASHDRIVE - X - -
+               LINUX - - X -
+               FDISK - - X -
+                THAT - - - O
+             GNUPLOT - - - S

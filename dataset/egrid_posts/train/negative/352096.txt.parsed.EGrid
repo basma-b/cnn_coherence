@@ -1,0 +1,11 @@
+           PARTITION X O - -
+                EXT3 X - - -
+                THAT - O - -
+           MKEXT3.FS - S - -
+            TERMINAL - X - -
+              KERNEL - - - O
+               ERROR - - - O
+                ROOT - - - X
+                  FS - - - X
+           SOMETHING - - - X
+                  .. - - - X

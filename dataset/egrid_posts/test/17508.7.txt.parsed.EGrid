@@ -1,0 +1,25 @@
+                 NOV X X - - - - - -
+      POSTFIX/MASTER X X - - - - - -
+               -RSB- X S - - - - - -
+                WARN X - - - - - - -
+/USR/LIB/POSTFIX/TLSMGR X S - - - - - -
+             COMMAND X X - - - - - -
+             STARTUP X X - - - - - -
+                 MX1 - S - - - - - -
+               ERROR - S - - - - - -
+               FATAL - X - - - - - -
+            DATABASE - X - - - - - -
+/VAR/LIB/POSTFIX/SMTPD_SCACHE.DB - X - - - - - -
+            ARGUMENT - X - - - - - -
+             PROCESS - X - - - - - -
+                EXIT - O - - - - - -
+              STATUS - X - - - - - -
+                STOP - X - - - - - -
+                 USE - - - - - X - -
+             CHANNEL - - - - - X - -
+                  OK - - - - - S - -
+                THAT - - - - - - O -
+           T=1504775 - - - - - - X -
+             SOMEONE - - - - - - S -
+               CLICK - - - - - - - X
+              BUTTON - - - - - - - O

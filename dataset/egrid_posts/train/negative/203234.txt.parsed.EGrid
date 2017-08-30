@@ -1,0 +1,17 @@
+              LOGINS O - - - - - - - - - -
+                 ONE X - - - - - - - - - -
+       USER/USERNAME X - - - - - - - - - -
+           DENYUSERS - X - - - - - - - - -
+          DENYGROUPS - O - - - - - - - - -
+                HELP - O - - - - - - - - -
+                DOSE - - S - - - - - - - -
+               LIMIT - - O - - - - - - - -
+         USERS/GROUP - - X - - - - - - - -
+                 SSH - - - X - - - - - - -
+                JOE1 - - - S - - S - - - -
+                 LOG - - - O - - - - - - -
+                THEN - - - X - - - - - - -
+                   U - - - S - - - - - - -
+                HOST - - - S - - - - - - -
+                SSHD - - - - - X - - - - -
+                USER - - - - - - S - - - -

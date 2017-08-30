@@ -1,0 +1,11 @@
+                HFS+ O - - - - - - -
+                 ALL - S - - - - - -
+                DOCS - X - - - - - -
+            HFSPROGS - O O - - - - -
+                BOOT - X - - - - - -
+                  CD - X - - - - - -
+        REPOSITORIES - S - - - - - -
+                SUDO - - X - - - - -
+             APT-GET - - S - - - - -
+             PACKAGE - - - S - - - -
+             LIVE-CD - - - X - - - -

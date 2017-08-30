@@ -1,0 +1,9 @@
+           LOCALHOST O - - -
+                PORT S - - -
+                SMTP X - - -
+ /ETC/INIT.D/POSTFIX - - X -
+                STOP - - S -
+                THAT - - - S
+                 NOW - - - X
+            SYMLINKS - - - O
+          /ETC/RC3.D - - - X

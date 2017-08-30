@@ -1,0 +1,10 @@
+                 ISO X - - -
+                  CD X - - -
+                  DD - O O -
+       IF=/DEV/CDROM - - X -
+OF=/PATH/TO/IMAGE.ISO - - S -
+                 MAN - - X -
+             COMMAND - - - O
+               FATAL - - - X
+              MODULE - - - X
+          NVIDIA_GLX - - - S

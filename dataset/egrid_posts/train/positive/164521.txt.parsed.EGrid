@@ -1,0 +1,15 @@
+              FORMAT S - - - - -
+               FAT32 X - - - - -
+       UTF-8-CHARSET X - - - - -
+             CHARSET - X - - - -
+              8859-1 - X - - - -
+             PROBLEM - - - S - -
+             WINDOWS - - - S - -
+               UTF-8 - - - O - -
+                 HDD - - - - O -
+                DATA - - - - O -
+                 PCS - - - - X -
+              OPTION - - - - - X
+              COLUMN - - - - - X
+              CHANGE - - - - - S
+          /ETC/FSTAB - - - - - X

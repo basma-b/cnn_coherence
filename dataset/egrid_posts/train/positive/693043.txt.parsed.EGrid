@@ -1,0 +1,14 @@
+               RMDIR X - X - - -
+           DIRECTORY X - O - - -
+                FILE X - - - - -
+              SAFETY - X - - - -
+          PRECAUTION - X - - - -
+                   < - - X - - -
+                   > - - O - - -
+                  .. - - O - - -
+            VERSIONS - - O - - -
+                 GCC - - - - - S
+              UBUNTU - - - - - X
+      4.4.1-4UBUNTU9 - - - - - X
+              KERNEL - - - - - O
+      4.4.1-4UBUNTU8 - - - - - O

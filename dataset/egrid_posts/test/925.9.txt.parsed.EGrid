@@ -1,0 +1,20 @@
+              REASON X - - - - - -
+NO-INSTALL-RECOMMENDS S - X - - - -
+                   * O - - - - - -
+                PART O - - - - - -
+          POSTGRESQL X - - - - - -
+              ACTION - O - - - - -
+               FRONT - - X - - - -
+             PACKAGE - - S - - - -
+                 USE - - O - - - -
+            SYNAPTIC - - - X - - -
+                TASM - - - - - - O
+                MASM - - - - - - X
+          ASSEMBLERS - - - - - - S
+               LINUX - - - - - - O
+                 GAS - - - - - - X
+                 GDB - - - - - - O
+             WINDOWS - - - - - - O
+           DEVELOPER - - - - - - X
+              STUDIO - - - - - - O
+                 ONE - - - - - - O

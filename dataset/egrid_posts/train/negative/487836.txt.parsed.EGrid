@@ -1,0 +1,16 @@
+           PARTITION X - X - - - - - - - -
+             SOMEONE S - S - - - - - - - -
+         PERMISSIONS - O - O - - - - - - -
+                ROOT - - - - X - - - - - -
+               ISSUE - - - - - O - - - - -
+               USERS - - - - - - S - - - -
+          /HOME/USER - - - - - - X - - - -
+             NOTHING - - - - - - X - - - -
+                /TMP - - - - - - - X - - -
+             APT-GET - - - - - - - - S - -
+                SUDO - - - - - - - - X - -
+              UPDATE - - - - - - - - O - -
+               REPOS - - - - - - - - O - -
+               YAHOO - - - - - - - - - X -
+                 MSN - - - - - - - - - X -
+               2.2.1 - - - - - - - - - X -

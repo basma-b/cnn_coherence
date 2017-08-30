@@ -1,0 +1,9 @@
+         RECONFIGURE - X - - - -
+             XSERVER - X - - - -
+             MONITOR - O - - - -
+              /ETC/X - - O - - -
+    DPKG-RECONFIGURE - - X - - -
+        XSERVER-XORG - - X - - -
+                THAT - - - O - -
+               ERROR - - - - X -
+                FILE - - - - - X

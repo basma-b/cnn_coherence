@@ -1,0 +1,22 @@
+              ANYONE S - - - - - -
+           PROCEDURE O - - - - - -
+              KERNEL O X O - - - -
+        REPOSITORIES X - - - - - -
+              SOURCE X - - - - - -
+               PATCH O - - - - - -
+                 ONE S - - - - - -
+                COPY X - - - - - -
+           INITRAMFS X - - - - - X
+              UBUNTU - X - - - - -
+             .CONFIG - X X - - - -
+                 USE - O - - - - -
+     /PROC/CONFIG.GZ - - S - - - -
+                   * - - X - - - -
+             PROBLEM - - S - - - -
+             SUPPORT - - - O - - -
+              INITRD - - - X - - -
+             MODULES - - - - O - -
+              SYSTEM - - - - - S -
+                BOOT - - - - - X -
+              CONFIG - - - - - - S
+/ETC/INITRAMFS-TOOLS/ - - - - - - X

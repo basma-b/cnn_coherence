@@ -1,0 +1,9 @@
+                NAME - X - - -
+             PACKAGE - X - - -
+                   C - X - - -
+            COMPILER - O - - -
+    BUILD-ESSENTIALS - - S - -
+     BUILD-ESSENTIAL - - - S -
+                   | - - - - S
+                 USE - - - - X
+                SUDO - - - - O

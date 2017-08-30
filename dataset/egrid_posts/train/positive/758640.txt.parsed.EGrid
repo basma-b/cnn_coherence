@@ -1,0 +1,25 @@
+                  HI X - - -
+             PROBLEM O - - -
+       CONFIGURATION O - - -
+                 DNS S - - -
+                10.4 X - - -
+     DNS-NAMESERVERS O - - -
+/ETC/NETWORK/INTERFACES X - - -
+                FILE X - - -
+              REBOOT X - - -
+         RESOLV.CONF S - - -
+          NAMESERVER S - - -
+         INFORMATION X - - -
+              REGARD X - - -
+               TREAK O - - -
+            SOLUTION O - - -
+/ETC/RESOLVCONF/RESOLV.CONF.D/BASE X - - -
+          RESOLVCONF O - - -
+                WORK - X - -
+                  .. - X - -
+                   A - - X -
+                 BUG - - X -
+                 OHH - - X -
+                LOOK - - - O
+               HTTPS - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/RESOLVCONF/+BUG/558384 - - - X

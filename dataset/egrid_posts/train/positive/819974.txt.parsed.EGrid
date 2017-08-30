@@ -1,0 +1,7 @@
+              SYSTEM O - -
+              MEMBER O O -
+               ADMIN O - X
+               GROUP X X X
+                ROOT X X -
+                SUDO - O -
+                PART - - O

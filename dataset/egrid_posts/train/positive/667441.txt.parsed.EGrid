@@ -1,0 +1,13 @@
+           PARTITION O - - -
+               FSTAB X X - -
+                AUTO - S - -
+          READ/WRITE - O - -
+                LINE - S - -
+               UUID= - X - -
+7D4A2D7F-AEE9-4DFA-BB47-76314A1ACF79 - X - -
+             DEFAULT - X - -
+            ANYTHING - O - O
+                THAT - - S -
+         AWESOME3000 - - - X
+               OWNER - - - X
+         PERMISSIONS - - - X

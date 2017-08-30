@@ -1,0 +1,23 @@
+                 ALL X - - - - - -
+              ANYONE - X - - - - -
+               ADOBE - X - - - - -
+               FLASH - X - - - - -
+                MINI - X - - - - -
+                FILE - - X - - - -
+                HTTP - - X - X - -
+//GET.ADOBE.COM/FLASH/ - - S - - - -
+            DOWNLOAD - - - X - - -
+                CODE - - - O - - -
+           LTERMINAL - - - X - - -
+                NAME - - - O - X X
+             PACKAGE - - - X - - -
+            LOCATION - - - - O - -
+                THIS - - - - S - -
+           INSTALLER - - - - X - -
+//GET.ADOBE.COM/FLASHPLAYER/THANKYOU/ - - - - X - -
+                .DEB - - - - - X -
+INSTALLER=FLASH_PLAYER_10_FOR_LINUX_ - - - - - S -
+                   ^ - - - - - O -
+               ERROR - - - - - - X
+             MESSAGE - - - - - - X
+        DEPENDENCIES - - - - - - S

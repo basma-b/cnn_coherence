@@ -1,0 +1,17 @@
+                 ALL S - - -
+             PROGRAM X - - -
+             COMMAND - X - -
+                  .. - X - -
+               PKILL - X - -
+                PROG - S - -
+                  ID - S - -
+             PACKAGE - - S -
+              DEBIAN - - X -
+                REPO - - X -
+            WINE.ORG - - S -
+          REPOSITORY - - O -
+            VERSIONS - - O -
+                WINE - - X -
+             VERSION - - X -
+                THAT - - - S
+                6.06 - - - X

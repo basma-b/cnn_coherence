@@ -1,0 +1,13 @@
+               CHMOD S - - -
+        /PATH/TO/DIR O - - -
+                 DIR S - - -
+               GROUP S S - -
+               CHGRP X - - -
+           DIRECTORY O X - -
+                USER X X - -
+                NAME X - - -
+                   X X - - -
+                   Y - S - -
+              ACCESS - S - -
+              CHANGE - - - X
+          PERMISIONS - - - X

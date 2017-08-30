@@ -1,0 +1,15 @@
+           PARTITION O O - - -
+                FILE X - X - -
+               BLOCK X - - - -
+              DEVICE X - - - -
+              MATTER X - - - -
+             DETAILS - X - - -
+               HTTPS - X - - -
+         HIBERNATION - X - - -
+      IMPLEMENTATION - S - - -
+              UBUNTU - X - - -
+                SWAP - O O - -
+              SYSTEM - - X - -
+              FOLDER - - - - O
+                HOME - - - - X
+           DIRECTORY - - - - X

@@ -1,0 +1,9 @@
+           DIRECTORY - O - -
+         DEBOOTSTRAP - S - -
+                BASE - X - -
+              SYSTEM - O - -
+          APT-MIRROR - - S -
+               CACHE - - O -
+               IMAGE - - - X
+                NTFS - - - X
+           PARTITION - - - X

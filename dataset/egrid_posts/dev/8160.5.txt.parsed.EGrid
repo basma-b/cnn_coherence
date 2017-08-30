@@ -1,0 +1,26 @@
+              STRING X - - - - - -
+              AND/OR X - - - - - -
+              STRACE X - - - - - -
+              -EOPEN O - - - - - -
+              BINARY X - - - - - -
+                FILE O - - - - - -
+                THAT - O - - - - -
+                 USE - X - - - - -
+                IDEA - S - - - - -
+              SYSTEM - X - - - - -
+             SERVICE - O - - - - -
+                INIT - X - - - - -
+              THINGS - X - - - - -
+              SOURCE - - S - - - -
+2:3.5.11~DFSG-1UBUNTU2 - - O - - - -
+               THING - - - S - - -
+             PACKAGE - - - O O - -
+             VERSION - - - O - X -
+           DOWNGRADE - - - - X - -
+               SAMBA - - - - - X -
+               POINT - - - - - X -
+        LIBWBCLIENT0 - - - - - X -
+        SAMBA-COMMON - - - - - X -
+    SAMBA-COMMON-BIN - - - - - X -
+           SMBCLIENT - - - - - O -
+                 THE - - - - - - X

@@ -1,0 +1,12 @@
+               10.04 X - - - - - - -
+                SUDO X - X - - - - X
+            SHUTDOWN O - - - - - - -
+             COMMAND X - - - - - - -
+                LINE X - - - - - - -
+               POWER X - - - - - - -
+              SWITCH O - - - - - - -
+              REBOOT - S - - - - - -
+                HALT - - X S - - - O
+                   * - - O - - - - -
+               FORCE - - - - - - - X
+           SOMETHING - - - - - - - X

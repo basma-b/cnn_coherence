@@ -1,0 +1,25 @@
+              KERNEL O - - -
+             HEADERS O - - -
+            MAVERICK X - - -
+                CARD X - - -
+             MODULES S - - -
+                ALSA X - - -
+                OSS4 X - - -
+                .DEB X - - -
+               IMAGE X - X -
+                  .. O - O -
+            PROBLEMS O - O -
+            METAPKGS X - O -
+       LINUX-HEADERS S - - -
+               POINT O - - -
+                LINK X - - -
+LINUX-HEADERS-2.6.32-24-GENERIC - S - -
+LINUX-HEADERS-2.6.32-24 - S - -
+             PACKAGE - X X -
+                FILE - - X -
+                   < - - X -
+                THIS - - S -
+               THERE - - S -
+           SOMETHING - - X -
+               THOSE - - O -
+             PROBLEM - - - O

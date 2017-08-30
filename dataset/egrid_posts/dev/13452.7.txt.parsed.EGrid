@@ -1,0 +1,10 @@
+                QEMU S - - - -
+               ERROR S - - - -
+               IMAGE O - - - -
+                DISK X - - - -
+                FILE X S - - -
+           DIRECTORY X - - - -
+            LOCATION - X - - -
+             COMMAND - O - X -
+             APT-GET - - - - S
+             OPENJDK - - - - O

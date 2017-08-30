@@ -1,0 +1,21 @@
+               10.04 X - - - - -
+              BUTTON S - - - - -
+              WINDOW X - - - - -
+               LEAVE X - X X - -
+                 TOP X - - - - -
+             NIBBIER - X - - - -
+             NOTHING - - O S - -
+                 USE - - X - - -
+/APPS/METACITY/GENERAL/BUTTON_LAYOUT - - X X X -
+                TYPE - - X - X -
+              STRING - - X - X -
+                MENU - - X - X -
+               RIGHT - - X X X -
+         GCONFTOOL-2 - - - X X -
+             COMMAND - - - S - -
+               UNSET - - - X - -
+               CLOSE - - - - X -
+                 ONE - - - - X -
+      STARTUPMANAGER - - - - - X
+                   | - - - - - X
+          RUSHVISION - - - - - X

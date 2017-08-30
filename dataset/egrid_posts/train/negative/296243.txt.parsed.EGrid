@@ -1,0 +1,12 @@
+            VERSIONS X - - -
+                 USE - O - -
+            1.0-7184 - - X -
+              KERNEL - - S -
+            1.0-9631 - - X -
+                   X - - X -
+              MODULE - - X -
+                  OK - - X -
+/ETC/DEFAULT/LINUX-RESTRICTED-MODULES-COMMON - - O -
+   DISABLED_MODULES= - - X -
+       NVIDIA_LEGACY - - X -
+          NVIDIA_NEW - - S -

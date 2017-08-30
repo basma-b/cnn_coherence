@@ -1,0 +1,12 @@
+        GRUB-INSTALL X - -
+             COMMAND X - -
+              SEARCH - X -
+              KERNEL - O -
+                   / - X -
+                 SYS - X -
+            FUNCTION - - X
+             TOOLBAR - - O
+               ICONS - - X
+                 NEW - - X
+              FOLDER - - X
+              BUTTON - - X

@@ -1,0 +1,8 @@
+               LSPCI S - -
+               LSUSB O - -
+               PROBE S - -
+                CARD O - -
+              DEVICE - - S
+                LIST - - X
+               FSTAB - - X
+                  .. - - X

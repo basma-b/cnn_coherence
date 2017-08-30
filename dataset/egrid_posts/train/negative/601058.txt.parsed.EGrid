@@ -1,0 +1,13 @@
+                GRUB O - S -
+                FILE X - S -
+              SYSTEM S - - -
+                   M - - X -
+                  CD - - O -
+          FILESYSTEM - - X -
+                LOAD - - O -
+              MASTER - - X -
+                BOOT - - X X
+              RECORD - - X -
+          /BOOT/GRUB - - X -
+            RECOVERY - - - X
+                MODE - - - X

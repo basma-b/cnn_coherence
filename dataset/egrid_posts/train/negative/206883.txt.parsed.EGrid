@@ -1,0 +1,25 @@
+                 ALL O - - - - - - - -
+                ALSA X X X - - - - - -
+             DRIVERS O - - - - - - - -
+              DAPPER X - - - - - - - -
+                 CAT - X - - - - - - -
+/PROC/ASOUND/VERSION - S - - - - - - -
+             VERSION - O - - - - - - -
+                 USE - X - - - - - - -
+             APT-GET - X - - - - - - -
+               THERE - - X - X - - - -
+              DRIVER - - S - - - - - -
+              CUSTOM - - X - - - - - -
+                 ONE - - O - - - - - -
+               HOWTO - - - - X - - - -
+       DOCUMENTATION - - - - X - - - -
+              REGARD - - - - X - - - -
+                FLAG - - - - - - O - -
+           CONFIGURE - - - - - - S - -
+               START - - - - - - X - -
+             SCRATCH - - - - - - X - -
+                STEP - - - - - - O - -
+               BUILD - - - - - - X - -
+              SOURCE - - - - - - X - -
+            HARDWARE - - - - - - - - O
+          PREFERENCE - - - - - - - - X

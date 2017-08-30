@@ -1,0 +1,13 @@
+                 ALL X - - - -
+             PACKAGE X O - - -
+        DEPENDENCIES X - - - -
+        APT-RDEPENDS - S - - -
+                TYPE - X - - -
+             FIREFOX - - S - -
+              OUTPUT - - X - -
+           APT-CACHE - - S - -
+                 FOO - - O - -
+            RDEPENDS - - X - -
+                HELP - - X - -
+              THANKS - - - X -
+                THAT - - - - S

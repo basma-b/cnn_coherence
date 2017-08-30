@@ -1,0 +1,14 @@
+             PORTMAP X - - -
+                 NFS X - - -
+               SHARE O - - -
+                SUDO - X - -
+ /ETC/INIT.D/PORTMAP - S - -
+               SETUP - - X -
+             NETWORK - - X -
+        REPOSITORIES - - O -
+              SYSTEM - - - X
+                   / - - - X
+               ADMIN - - - S
+            HARDWARE - - - X
+             DRIVERS - - - O
+                LIST - - - O

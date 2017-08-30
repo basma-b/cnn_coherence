@@ -1,0 +1,14 @@
+                 USE X - - - - - - -
+             UPSTART S X - - - - - -
+            CONCEPTS - O - - - - - -
+               START - - O - - - - -
+                BOOT - - X - - X - -
+              DEMAND - - - X - - - -
+                 SSH - - - - S - - -
+               THATS - - - - S - - -
+           CONDITION - - - - X - - -
+  /ETC/INIT/SSH.CONF - - - - X - - -
+                  CD - - - - - X - -
+               DRIVE - - - - - O - -
+            SEQUENCE - - - - - X - -
+                HEHE - - - - - - X -

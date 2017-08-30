@@ -1,0 +1,15 @@
+          FILESYSTEM X - - - -
+              ERRORS S - - - -
+           ENCOUNTER O - - - -
+              SYSTEM S - - - -
+                 LOG - O - - -
+                FSCK - - O - X
+           /DEV/SDA1 - - O - -
+              RESULT - - X - -
+                KIND - - O - -
+               ERROR - - X - -
+              SERIES - - - - S
+             UNCLEAN - - - - X
+                TOLL - - - - O
+            HARDWARE - - - - X
+             PROBLEM - - - - X

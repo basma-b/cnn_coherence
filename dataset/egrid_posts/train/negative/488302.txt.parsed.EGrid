@@ -1,0 +1,16 @@
+                 MAN X - - - - -
+           HCID.CONF S - - - - -
+                USER S - - - - -
+                 PIN X - - - - -
+          CONNECTION O S - - - -
+                  CC X - - - - -
+              WINDOW - X - - - -
+                FILE - - O O - -
+           PARTITION - - X - - -
+         DESTINATION - - - S - -
+                 ALL - - - S - X
+              SOURCE - - - X - -
+               BLOCK - - - - X -
+             DEVICES - - - - X -
+                  .. - - - - - X
+                 4GB - - - - - X

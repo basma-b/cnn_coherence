@@ -1,0 +1,18 @@
+             PACKAGE O - - -
+NETWORK-MANAGER-GNOME S - - -
+                IIRC S - - -
+                 ONE S - - -
+               CTMJR S - - -
+               RIGHT O - - -
+           NM-APPLET S O - -
+                  .. O - - X
+              APPLET O - - -
+            TERMINAL - X - -
+                TYPE - X - -
+              CLIENT - - O X
+              SERVER - - - X
+                NOTE - - - X
+               PIECE - - - O
+              CONFIG - - - X
+          SSH_CONFIG - - - X
+         SSHD_CONFIG - - - X

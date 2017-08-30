@@ -1,0 +1,28 @@
+         RTORRENT.RC S - - - - - - - -
+           SOMETHING O - - X - - - - O
+            SCHEDULE X - - - - - - S -
+            .TORRENT X - - O - - - - -
+                 WHA X - - - - - - - -
+                PPEN O - - - - - - - -
+               TRAIL X - - - - - - - -
+                   \ X - - - - - - - -
+                LINE S - - - - - - - X
+             PROBLEM O - - - - - - - -
+            TORRENTS X - S - - - - - -
+                AUTO X - - - - - - - -
+               START S - - - - - - - -
+                 END - X - - - - - - -
+               WATCH - X X - - - - - -
+                 DIR - X - - - - - - -
+           DIRECTIVE - X S - - - - - -
+                FILE - - X O - - - - -
+                   * - - - - - - - X -
+.DONTSTARTMYTORRENTS - - - - - - - O -
+                SUDO - - - - - - - - X
+                  -I - - - - - - - - X
+                   > - - - - - - - - X
+/ETC/WPA_SUPPLICANT.CONF - - - - - - - - X
+         GROUP=WHEEL - - - - - - - - X
+              -DWEXT - - - - - - - - X
+                  -C - - - - - - - - X
+              DHCPCD - - - - - - - - X

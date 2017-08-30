@@ -1,0 +1,10 @@
+                 RUN S - - -
+                  CD X - - -
+            TERMINAL - X - -
+               DRIVE - O - -
+           /DEV/SDA6 - X - -
+              UMOUNT - - S -
+             GPARTED - - - S
+                THIS - - - O
+           PARTITION - - - O
+              NUMBER - - - X

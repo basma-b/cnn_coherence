@@ -1,0 +1,22 @@
+                RULE X O X
+             COMMAND X - -
+                FILE O - -
+ /ETC/IPTABLES.RULES X - -
+                THIS - O -
+              BACKUP - X X
+                MESS - X -
+            ANYTHING - X X
+       ~/MYRULES.DAT - O -
+                   < - X -
+         MYRULES.DAT - X -
+              CHANGE - - S
+                   > - - X
+                 MMM - - X
+     HELP.UBUNTU.COM - - X
+                HTTP - - X
+                  IM - - O
+             BACKUPS - - O
+             EXAMPLE - - X
+~/MYRULES_NUMBER1.DAT - - O
+~/MYRULES_NUMBER2.DAT - - O
+             NUMBER1 - - X

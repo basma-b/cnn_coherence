@@ -1,0 +1,10 @@
+               FSTAB S - - -
+               UUIDS O X - -
+              DEVICE X - - -
+                NAME O - - -
+                REST - X - -
+              THINGS - X - -
+                DISK - - X -
+  /DEV/DISK/BY-UUID/ - - X -
+               THERE - - - S
+                SOME - - - O

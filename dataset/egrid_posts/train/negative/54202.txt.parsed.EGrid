@@ -1,0 +1,16 @@
+             NETWORK X - - - - -
+               STORE X - - - - -
+                  IP - X - - - -
+             GATEWAY - X - - - -
+                 ETC - X - X - -
+             NETMASK - - - S - -
+              CHANGE - - - X X -
+         NAMESERVERS - - - X - -
+                PERM - - - X - -
+            IFCONFIG - - - X - -
+             COMMAND - - - O - -
+         RESOLV.CONF - - - O - -
+    /ETC/RESOLV.CONF - - - - X -
+/ETC/NETWORK/INTERFACES - - - - O -
+                THAT - - - - - X
+                IDEA - - - - - O

@@ -1,0 +1,26 @@
+      NETWORKMANAGER O - - - S - - - -
+        NOTIFICATION X - X - - - - - -
+                AREA X - O - - - - - -
+                 ANY - S - - - - - - -
+               PANEL - - X - - - - - -
+           NM-APPLET - - O - - - - - -
+              SYSTEM - - X - - - - - -
+                TRAY - - X - - - - - -
+        AUTO-STARTUP - - O - - - - - -
+            SESSIONS - - X - - - - - -
+                  PS - - - S - - - - -
+          SM-DISABLE - - - S - - - - -
+            ANYTHING - - - O - - - - -
+                THAT - - - - S - - - -
+                 RUN - - - - O - - - -
+             NETWORK - - - - X - - - -
+             MANAGER - - - - X - - - -
+             SERVICE - - - - S - - - -
+             PROCESS - - - - X - - - -
+               16:02 - - - - O X - - -
+                ROOT - - - - - X - - -
+/USR/SBIN/NETWORKMANAGER - - - - - X - - -
+/USR/SBIN/NETWORKMANAGERDISPATCHER - - - - - - X - -
+/VAR/RUN/NETWORKMANAGER/NETWORKMANAGERDISPATCHER.PID - - - - - - X - -
+            RECOVERY - - - - - - - - X
+                MODE - - - - - - - - X

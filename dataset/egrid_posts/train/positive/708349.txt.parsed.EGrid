@@ -1,0 +1,26 @@
+              OUTPUT X - - - - - -
+               TOTEM X - - - - - -
+                THAT - S - - - - -
+                SUDO - X - - - - -
+             APT-GET - X - - - - -
+                 VLC - X - - - - -
+                IDEA - - X - - - -
+           GSTREAMER - - X - - - -
+           FRAMEWORK - - S - - - -
+                 V4L - - - X - - -
+                  // - - - S - - -
+            PLAYBACK - - - S - - -
+               MOVIE - - - X - - -
+            PROTOCOL - - - X - - -
+              SOURCE - - - X - - -
+              PLUGIN - - - O - - -
+           SOMETHING - - - - - O -
+                HTTP - - - - - X -
+//PACKAGES.UBUNTU.COM/SEARCH - - - - - X -
+        KEYWORDS=V4L - - - - - - X
+       SUITE=DEFAULT - - - - - - X
+         SECTION=ALL - - - - - - X
+            ARCH=ANY - - - - - - X
+      SEARCHON=NAMES - - - - - - X
+                LIBS - - - - - - S
+             DEFAULT - - - - - - X

@@ -1,0 +1,16 @@
+              DRIVER O - - O - - - -
+              NVIDIA - O - - X - X -
+               AMD64 - X - - - - - X
+        /ETC/MODULES - X - - - X - -
+               LSMOD - - X - - - - -
+             HOTPLUG - - S - - - - -
+                NEED - - O - - - - -
+                  .. - - X - - - - -
+  /ETC/X11/XORG.CONF - - - S - - X -
+                  NV - - - - X - - -
+ /VAR/LOG/XORG.0.LOG - - - - - X - -
+                LOAD - - - - - - X -
+                 GLX - - - - - - S -
+                LINE - - - - - - O -
+             PROBLEM - - - - - - O -
+          NVIDIA-GLX - - - - - - X -

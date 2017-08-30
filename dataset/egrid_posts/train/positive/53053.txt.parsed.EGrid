@@ -1,0 +1,24 @@
+              2.6.10 S - - - - - - - - - - - - -
+            HARDWARE X - - - - - - - - - - - - -
+         NDISWRAPPER S - - - - - - - - - - - - -
+              DRIVER S - - - - - - - - - - - - -
+             KERNELS X - - - - - - - - - - - - -
+                 B/C X - - - - - - - - - - - - -
+               PATCH X - - - - - - - - - - - - -
+              KERNEL O O O - - - - - - - - - - -
+             HEADERS O - - - - - - - - - - - - -
+               HOARY O - - - - - - - - - - - - -
+          REPOSITORY - X - - - - - - - - - - - -
+               WARTY - - X - - - - - - - - - - -
+                  TA - - - X - - - - - - - - - -
+              ANYONE - - - - X - - - - - - - - -
+            BACKPORT - - - - X - - - - - - - - -
+             PACKAGE - - - - X - - - - - - - - -
+  RESTRICTED-FORMATS - - - - - - - X - - - - - -
+                   H - - - - - - - - S - - - - -
+         GOOGLECACHE - - - - - - - - - S - - - -
+                TIME - - - - - - - - - - X - - -
+WIKI.UBUNTU.COM/RESTRICTEDFORMATS - - - - - - - - - - - S - -
+                THIS - - - - - - - - - - - - S -
+LINUX-RESTRICTED-MODULES - - - - - - - - - - - - - S
+                   * - - - - - - - - - - - - - X

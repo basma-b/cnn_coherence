@@ -1,0 +1,20 @@
+               IRSSI - O - - - - - -
+          IRSSI-TEXT - O - - - - - -
+                THAT - - S - - - - -
+            APT-FILE - - - S - S - -
+              SEARCH - - - S - - - -
+              FRIEND - - - X - - - -
+                BASH - - - O - - - -
+                SUDO - - - X - X - -
+              UPDATE - - - - - S - -
+             APT-GET - - - - - S - -
+             PACKAGE - - - - - X - -
+        SOURCES.LIST - - - - - S - -
+                SLIM - - - - - O - -
+           PRINTMOTD - - - - - - S -
+                 YES - - - - - - O -
+/ETC/SSH/SSHD_CONFIG - - - - - - X -
+                 SSH - - - - - - S -
+          HTTPD.CONF - - - - - - S -
+  /ETC/INIT.D/WEBMIN - - - - - - X -
+                STOP - - - - - - O -

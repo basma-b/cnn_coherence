@@ -1,0 +1,18 @@
+                 ISO - X X - -
+                   | - X - - -
+       GODEL-PARADOX - X - - -
+             EXAMPLE - X - - -
+                   > - - O - -
+                PATH - - X - -
+                 DIR - - X - -
+            INSTANCE - - X - -
+        /MEDIA/CDROM - - X - -
+                SUDO - - S - -
+                LOOP - - X - -
+     /ALPHA/FILE.ISO - - O - -
+              CDROMS - - O - -
+         MOUNTPOINTS - - - - S
+         DIRECTORIES - - - - X
+                  DD - - - - X
+       IF=/DEV/CDROM - - - - X
+OF=/PATH/TO/IMAGE.ISO - - - - O

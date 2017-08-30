@@ -1,0 +1,16 @@
+/ETC/DEFAULT/TFTPD-HPA X - - - - - -
+          PERMISSION X - - - - - -
+                ROOT X - - - - - -
+             COMMAND - X - - - - -
+           TFTPD-HPA - X - - - - -
+             SERVICE - S - O - - -
+                WHAT - - X - - - -
+                  H0 - - - S - - -
+               GUESS - - - - - S -
+                MINE - - - - - X -
+            SCENARIO - - - - - - O
+              STRACE - - - - - - O
+                 PID - - - - - - X
+                EXIT - - - - - - S
+              SYSTEM - - - - - - X
+                CALL - - - - - - X

@@ -1,0 +1,9 @@
+             COMMAND O - - -
+             PROGRAM O O - -
+             APT-GET - X X -
+                SUDO - X X -
+        DIST-UPGRADE - S - -
+         PACKAGENAME - - X -
+             PACKAGE - - - X
+                NAME - - - X
+             FIREFOX - - - X

@@ -1,0 +1,4 @@
+           PARTITION O -
+           WRITEABLE X -
+               FSTAB X X
+             NOTHING S -

@@ -1,0 +1,11 @@
+                USER - X - - - -
+               GROUP - O - - X X
+         /ETC/PASSWD - - S - - -
+              CHANGE - - - - X -
+                LINE - - - - X -
+                MAIL - - - - X -
+               X:8:8 - - - - X -
+           /VAR/MAIL - - - - X -
+                  ID - - - - X -
+          /ETC/GROUP - - - - - O
+            ID/NAMES - - - - - X

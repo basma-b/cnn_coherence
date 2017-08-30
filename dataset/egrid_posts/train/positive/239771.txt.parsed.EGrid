@@ -1,0 +1,16 @@
+           SOMETHING S - - - - -
+                MESS X - - - - -
+             INSTALL O - - - - -
+             UPGRADE - S - - - -
+LINUX-RESTRICTED-MODULES-2.6.17-10-GENERIC - X - - - -
+        DIST-UPGRADE - - O - - -
+         NIVIDIA-GLX - - O - - -
+               ORDER - - S - - -
+             PACKAGE - - O S - -
+                TIME - - - X - -
+                THAT - - - S - -
+               THERE - - - S - -
+            CONFLICT - - - O - -
+              NVIDIA - - - X - -
+                CARD - - - X - S
+             GEFORCE - - - - - O

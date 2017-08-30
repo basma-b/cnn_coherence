@@ -1,0 +1,15 @@
+              CHANGE S - - - -
+   MAX_UPLOADED_FILE O - - - -
+             APAPCHE O - - - -
+              EFFECT O - - - -
+                 RUN - X - - -
+ /ETC/INIT.D/APACHE2 - S - S -
+              SERVER - X - - -
+                  .. - X - - -
+             PROCESS - X - - -
+               THERE - S - - -
+                CALL - O - - -
+               ISSUE - - - - O
+              UBUNTU - - - - S
+             DRIVERS - - - - O
+            HARDWARE - - - - X

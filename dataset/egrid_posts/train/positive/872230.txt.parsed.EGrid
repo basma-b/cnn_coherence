@@ -1,0 +1,17 @@
+                SUDO X - - -
+           BUILD-DEP X - - -
+                 SOX S X - S
+                 YES X - - -
+              FORMAT X - - -
+             PACKAGE X - - -
+               ERROR O - - -
+            RESPONSE - S - -
+             SUPPORT - X - -
+                  .. - O - -
+               HTTPS - O - -
+//GIST.GITHUB.COM/048EADD06819CC781739 - X - -
+               11.10 - - X -
+               PATCH - - - O
+                NAME - - - O
+              SOURCE - - - S
+DEBIAN/PATCHES/FIX_DEPRECATED_NAMES.PATCH - - - X

@@ -1,0 +1,14 @@
+         REPLACEMENT O - - - -
+     /ETC/INETD.CONF X - - - -
+              UBUNTU X - - - -
+              STREAM - X - - -
+                 TCP - X - - -
+              NOWAIT - S - - -
+            /VAR/SVN - O - - -
+                  .. - O - - -
+             VERSION - - X - -
+                7.04 - - - - S
+                FILE - - - - S
+                DONT - - - - S
+               THERE - - - - S
+   /ETC/INIT.D/INETD - - - - O

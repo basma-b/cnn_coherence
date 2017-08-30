@@ -1,0 +1,12 @@
+           WILDCARDS X - - - -
+               FSTAB X - X - -
+                   * X - - - -
+                WORK - X - - -
+           PARTITION - X - - -
+                  .. - X - - -
+                  EH - - X - -
+             DEFAULT - - - - X
+            SETTINGS - - - - O
+                BOOT - - - - S
+            GRAPHICS - - - - X
+                MODE - - - - X

@@ -1,0 +1,21 @@
+                BOOT X X X -
+               IMAGE O - - -
+/BOOT/GRUB/IMAGES/UBUNTU.XPM.GZ X - - -
+                  HD X - - -
+                NAME O - - -
+               DRIVE - X - -
+              DEVICE - S - -
+                CALL - O - -
+                 THE - - O -
+                   A - - S -
+               HD0,0 - - X -
+                 HDA - - S -
+                   B - - S -
+                 HDD - - O -
+           PARTITION - - O -
+              SYSTEM - - X -
+               START - - X -
+                GRUB - - X -
+                MENU - - O -
+                IDEM - - X -
+                 MAN - - - O

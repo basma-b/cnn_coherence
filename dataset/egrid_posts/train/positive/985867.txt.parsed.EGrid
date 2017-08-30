@@ -1,0 +1,43 @@
+                TIME O - - - -
+               ERROR X - - X -
+LIBHAL_DEVICE_GET_PROPERTY_TYPE X - - - -
+ORG.FREEDESKTOP.HAL.NOSUCHDEVICE X - - - -
+              DEVICE X - - - -
+                  ID X - - - -
+/ORG/FREEDESKTOP/HAL/DEVICES/BLOCK_3_6 X - - - -
+                  LN X - - - -
+                LINK O - - - -
+                  GB X - - - -
+                DISK X - - - -
+                HDB1 X - - - -
+           OPERATION S - - - -
+           /DEV/HDB1 O - - - -
+             WINDOWS S - - - -
+                 MAC X - - - -
+           PARTITION S - - - -
+                BOOT X - - - -
+              REBOOT X - - - -
+              THINGS O - - - -
+              PEOPLE X - - - -
+            SOFTWARE X - - - -
+               SETUP X - - - -
+            ANYTHING X O - - -
+          REPOSITORY O - - - -
+                WORK O - - - -
+                GAME - O - - -
+                   P - S - - -
+                 CVS - X - - O
+             PACKAGE - O - - O
+             ACLAGES - S - - -
+                YEAH - - S - -
+              COURSE - - X - -
+              SOURCE - - X - -
+                FILE - - X - -
+              CONFIG - - - X -
+               DIDNT - - - S -
+                KIND - - - X -
+            COMPILER - - - X -
+           SOMETHING - - - X -
+        DEPENDENCIES - - - S -
+              OTHERS - - - - O
+             COMMAND - - - - X

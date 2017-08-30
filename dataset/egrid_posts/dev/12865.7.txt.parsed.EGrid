@@ -1,0 +1,15 @@
+             COMMAND O - - -
+            IFCONFIG X - - -
+           INTERFACE X S - -
+                LINE - X - -
+           REFERENCE - O - -
+/ETC/NETWORK/INTERFACES - X - -
+      NETWORKMANAGER - X - -
+                HAND - O - -
+              DEVICE - X - -
+              PECKER - X - -
+               -RSB- - O - -
+             PACKAGE - - - X
+             VERSION - - - X
+               THERE - - - S
+                 2.6 - - - O

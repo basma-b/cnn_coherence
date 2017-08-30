@@ -1,0 +1,25 @@
+                COPY X - - - X - - - - - -
+             CONTENT O O - - - - - - - - -
+              FOLDER X O S - - - - - - - -
+                TREE X - - - - - - - - - -
+              PARENT S X - - - - - - - - -
+             COMMAND - X - - - - - - - - -
+               CHILD - X - - - - - - - - -
+             FOLDERS - O - - - - - - - - -
+               TRAIL - - X - - - - - - - -
+                   / - - X - - - - - - - -
+                   * - - S O - - - - - - -
+          /HOME/USER - - - X - - - - - - -
+               /HOME - - - X - - - - - - -
+         DESTINATION - - - X - - - - - - -
+              SYNTAX - - - - - S - - - - -
+/DESTINATION/NEWFOLDER - - - - - - S - - - -
+            DIFFERNT - - - - - - O - - - -
+          SUGGESTION - - - - - - X - - - -
+                FILE - - - - - - X - - - -
+         PERMISSIONS - - - - - - O - - - -
+              DETAIL - - - - - - - X - - -
+                  -R - - - - - - - - O - -
+                THAT - - - - - - - - - - S
+                 HMM - - - - - - - - - - X
+                 ONE - - - - - - - - - - S

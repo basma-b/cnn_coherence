@@ -1,0 +1,9 @@
+             PROCESS X - -
+    /SBIN/UREADAHEAD X - -
+              DAEMON X - -
+                 USE X - -
+                 PID X - -
+                 MAN - X -
+               PGREP - O -
+               PKILL - O -
+                  OK - - X

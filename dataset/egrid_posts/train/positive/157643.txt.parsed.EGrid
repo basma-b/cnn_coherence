@@ -1,0 +1,16 @@
+         APPLICATION O - - - -
+                FILE X - - - -
+                  .. O - - - -
+             COMMAND X - - - -
+                SUDO X - - - -
+             APT-GET S - - - -
+             PROCESS O - - - -
+               PURGE X - - - -
+                THAT - X - - -
+                  -L - X - - -
+             OUTSIDE - X - - -
+           DIRECTORY - X - - -
+         PERMISSIONS - O - - -
+                 DIR - X - - -
+               CHMOD - O - - -
+            EVERYONE - - - - X

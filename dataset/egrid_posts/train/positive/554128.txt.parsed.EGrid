@@ -1,0 +1,13 @@
+                DISK O - O -
+           PARTITION O X O -
+               TABLE X O O O
+                 ONE X - - -
+            HARDDISK X - - -
+                BOOT X - - -
+               GPART - X - -
+              UBUNTU - - X -
+             PARTION - - O -
+              OUTPUT - - - S
+            /DEV/SDC - - - X
+                HTTP - - - S
+//PASTEBIN.COM/D5AEA5905 - - - S

@@ -1,0 +1,45 @@
+             COMMAND O O - - - - - - - -
+             RESTART X - - - - - - - - -
+       IPTABLES-SAVE X - - - - - - - - -
+            IPTABLES O - - - - - - - - -
+              SCRIPT X O S - - - - - - -
+        /ETC/INIT.D/ - X - - - - - - - -
+                   < - X - - - - - - - -
+          SCRIPTNAME - X - - - - - - - -
+                   > - X - - - - - - - -
+             DEFAULT - O - - - - X - - -
+             STARTUP - X X - - - - - - -
+  /ETC/INIT.D/SCREEN - - O - - - - - - -
+                   K - - X - - - - - - -
+                 THX - - X - - - O - - -
+         FIRESTARTER - - O - O - - X - -
+                BOOT - - X - - - - - - -
+              PACKET - - X - - - - - - -
+                DROP - - O - - - - - - -
+                SELF - - S - - - - - - -
+                CALL - - O - - - - - - -
+             NETWORK - - X - - - - - - -
+              DEVICE - - S - - - - - - -
+                   U - - S - - - - - - -
+               YOURS - - - X - - - - - -
+/ETC/NETWORK/IP-UP.D/ - - - - S - - - - -
+                FILE - - - - X - - - - -
+                TYPO - - - - O - - - - -
+/ETC/NETWORK/IF-UP.D/ - - - - X - - - - -
+           SHOREWALL - - - - O - S - - -
+               ISSUE - - - - O - - - - -
+          STATEMENTS - - - - S - - - - -
+           INTERFACE - - - - S - - - - -
+                 WAY - - - - - X - - - -
+               OTHER - - - - - X - - - -
+            SETTINGS - - - - - X - - - -
+              CONFIG - - - - - - O - - -
+/USR/SHARE/DOC/SHOREWALL - - - - - - X - - -
+               THING - - - - - - - X - -
+          SHOREWALLS - - - - - - - X - -
+                REPO - - - - - - - X - -
+            UNIVERSE - - - - - - - X - -
+                MAIN - - - - - - - - S -
+             SUPPORT - - - - - - - - S -
+       NOTIFICATIONS - - - - - - - - O -
+             KILLALL - - - - - - - - - X

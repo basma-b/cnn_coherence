@@ -1,0 +1,6 @@
+             PACKAGE X -
+         LIBGNUTLS13 X -
+               SETHK O -
+               THERE S -
+     LIBGNUTLS.SO.13 O -
+             APT-GET - S

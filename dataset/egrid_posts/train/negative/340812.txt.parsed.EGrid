@@ -1,0 +1,17 @@
+             COMMAND X - -
+         GCONFTOOL-2 X - -
+                TYPE X - -
+                BOOL X - -
+                 SET X - -
+/APPS/NAUTILUS/PREFERENCES/SHOW_DESKTOP X - -
+             DESKTOP X - -
+             KILLALL O - -
+                 KEY X - -
+        GCONF-EDITOR X - -
+           INTERFACE S - -
+               GCONF X - -
+                THIS - S -
+             PROBLEM - X O
+               HTTPS - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/LINUX-RESTRICTED-MODULES-2.6.24/+BUG/244405 - - X
+              KERNEL - - X

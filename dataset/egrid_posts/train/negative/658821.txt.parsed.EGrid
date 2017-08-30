@@ -1,0 +1,14 @@
+               ENTRY O - - - - - - - -
+             STARTUP X X - - - - - - -
+                APPS X X - - - - - - -
+                LIST X - - - - - - - -
+             WINDOWS X - - - - - - - -
+               DRIVE O - - - - - - - -
+               ERROR S - - - - - - - -
+      AUTHENTICATION X - - - - - - - -
+             SOMEONE - S - - - - - - -
+                HELP - - X - - - - - -
+GNOME-KEYRING-DAEMON - - - - - - X - -
+            TERMINAL - - - - - - X - -
+                TIME - - - - - - - - X
+               ROBOT - - - - - - - - X

@@ -1,0 +1,25 @@
+               THERE X - X - - - -
+            IPTABLES X O - X X - -
+                  8. X - - - - - -
+/ETC/INIT.D/IPTABLES - X - - - - -
+                 WAY - - X - - - -
+              KERNEL - - X - - - -
+                  FW - - O - - - -
+           SHOREWALL - - - O - - -
+            FRONTEND - - - X - - -
+            VERSIONS - - - S - - -
+                 UFW - - - O O - -
+                TIME - - - - X - -
+       CONFIGURATION - - - - O - -
+              SCRIPT - - - - X - -
+                LOAD - - - - X - -
+             STARTUP - - - - X - -
+                 ONE - - - - X - -
+             NETWORK - - - - S - -
+              CHOICE - - - - O - -
+             SERVICE - - - - O - -
+                FILE - - - - - O -
+              SYSTEM - - - - - X -
+           SOMETHING - - - - - X -
+              BETTER - - - - - - S
+      OPENSSH-CLIENT - - - - - - O

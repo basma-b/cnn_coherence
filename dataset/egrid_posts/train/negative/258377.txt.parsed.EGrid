@@ -1,0 +1,12 @@
+                HELP O - - -
+           PARTITION O - - -
+               FSTAB - X S -
+               VALUE - X - -
+                PASS - X - -
+                DUMP - - X -
+                 USE - - X -
+            WRITABLE - - O -
+              ANYONE - - X -
+                 MAN - - X -
+                NTSF - - - X
+                 FAT - - - X

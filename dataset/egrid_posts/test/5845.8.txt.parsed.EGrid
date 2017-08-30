@@ -1,0 +1,15 @@
+         EQUIVALENCE X - - - - -
+             COMMAND X - - - - -
+           CHKCONFIG X - - - - -
+                LIST X - - - - -
+                NTPD X - - - - -
+                   > S - - - - -
+                 USE - - X - - -
+              SYSTEM - - X - - -
+                 JDK - - - O - -
+              OPTION - - - X - -
+                 LOL - - - - O -
+                USER - - - - X -
+               ERROR - - - - O -
+              PARDON - - - - - X
+           SOMETHING - - - - - O

@@ -1,0 +1,8 @@
+             COMMAND O - - -
+              VOLUME X - - -
+              APPLET O - - X
+               CHECK - X - -
+           ALSAMIXER - X - -
+                TYPE - - S -
+                TERM - - X -
+                  IM - - - S

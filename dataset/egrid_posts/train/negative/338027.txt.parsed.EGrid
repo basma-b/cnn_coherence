@@ -1,0 +1,14 @@
+           PARTITION S - - - - - - -
+                DEBS S - - - - - - -
+/VAR/CACHE/APT/ARCHIVES X - - - - - - -
+                CASE - X - - - - - -
+             REMOVAL - X - - - - - -
+              REASON - - S - - - - -
+              ANYONE - - X X - - - -
+         DEVELOPMENT - - - X - - - -
+             PROJECT - - - X - - - -
+                SIZE - - - - O - - -
+               CACHE - - - - X - - -
+/ETC/APT/APT.CONF.D/20ARCHIVE - - - - X - - -
+            PROTOCOL - - - - - - X -
+                 THX - - - - - - - X

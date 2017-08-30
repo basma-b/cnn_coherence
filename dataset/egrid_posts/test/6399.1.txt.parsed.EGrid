@@ -1,0 +1,11 @@
+                HOST O - - - - -
+               SETUP O - - - - -
+                RAID X - - - - -
+             MACHINE - X O - - -
+             VURTUAL - X - - - -
+                   * - - S - - -
+               DMESG - - - - X -
+              SYSLOG - - - - S -
+               BLKID - - - - - X
+                  -L - - - - - X
+                  .. - - - - - X

@@ -1,0 +1,16 @@
+                 HEY X - -
+             COMMAND X - -
+                 BOX X - -
+                LOAD X - -
+                BOOT X - -
+              STRING O - -
+   START-STOP-DAEMON X - -
+             PROGRAM O O -
+              SYSTEM X - -
+              BOOTUP X - -
+              SCRIPT - O -
+             STARTUP - X -
+               STORE - X -
+         /ETC/INIT.D - X -
+             CHANNEL - - X
+               JEBUS - - O

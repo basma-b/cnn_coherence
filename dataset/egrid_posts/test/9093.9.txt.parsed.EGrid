@@ -1,0 +1,16 @@
+             REALTEK X - - - - -
+                CARD O - - - - -
+                  PC X - O - - -
+              DRIVER - O - - - -
+            TERMINAL - - X - - -
+                TYPE - - X - - -
+                SUDO - - X - - -
+            MODPROBE - - X - - -
+               R8169 - - X - - -
+               ORDER - - X - - -
+                AUTO - - - - X -
+                LOAD - - - - X -
+                LIST - - - - O -
+             COMMAND - - - - O -
+       /ETC/RC.LOCAL - - - - X -
+              STATIC - - - - - O

@@ -1,0 +1,21 @@
+                 USE O - - - - - O
+             OPENSSH O - - - - - -
+               THERE S - - S - - -
+           LOCATIONS O - - - - - -
+                 ONE S - - X - - -
+/ETC/SSH/SSH_HOST_RSA_KEY X - - - - - -
+               OTHER X - - - - - -
+       ~/.SSH/ID_RSA X - - - - - -
+                BOTH - X - - - - -
+                 KEY - - O - - - S
+            SSH_HOST - - S - - - -
+                HOST - - X X - - -
+              ID_RSA - - S - - - -
+              CLIENT - - X - - - X
+               SSHDS - - - O - - -
+             MACHINE - - - X - - -
+              ACCESS - - - - - - X
+                 SSH - - - - - - X
+             SERVERS - - - - - - S
+              SERVER - - - - - - X
+              OTHERS - - - - - - S

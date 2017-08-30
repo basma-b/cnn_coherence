@@ -1,0 +1,16 @@
+              KERNEL X - - - - - -
+                RAID X X X - - - -
+              DRIVER S - - - - - -
+          SUPERBLOCK O - - - - - -
+      DISK/PARTITION X - - - - - -
+                INFO O - - - - - -
+               ARRAY X S - - - - -
+                  MD - X - - - - -
+               POINT - - X - - - -
+              CONFIG - - S - - - -
+              MKRAID - - O - - - -
+                GRUB - - - - O S -
+                UGLY - - - - X - -
+             ACRONIS - - - - - S -
+                BOOT - - - - - O -
+                   P - - - - - - X

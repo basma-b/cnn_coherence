@@ -1,0 +1,17 @@
+                AUTO X - - - -
+                ETH0 X - X - -
+               IFACE S - - - -
+                WONT X - - - -
+                WORK O - - - -
+               STICK O - - - -
+                  PC S - - - -
+                 YEP X - - - -
+          INTERFACES X - - - -
+              SCRIPT S - - - -
+          ASSIGNMENT S - - - -
+                UDEV X - - - -
+                DHCP - - O - -
+                ETH1 - - X - -
+       CONFIGURATION - - X - -
+/ETC/NETWORK/INTERFACES - - X - -
+      UPDATE-MANAGER - - - - S

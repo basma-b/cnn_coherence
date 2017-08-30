@@ -1,0 +1,22 @@
+               PROXY O - - - -
+             APT-GET X - - - -
+           APT-PROXY - O - - -
+             NETWORK - X - - -
+/ETC/APT/SOURCES.LIST - O - - -
+             ADDRESS - O - - -
+             MACHINE - X - - -
+          REPOSITORY - X - - -
+                 KDE - S - - -
+                MODE - O - - -
+       DOCUMENTATION - X - - -
+                  CD - - O - -
+                 TRY - - X - -
+                SPAT - - - S -
+                INFO - - - X -
+              METHOD - - - O O
+                USER - - - S -
+             ADDUSER - - - X -
+             COMMAND - - - O -
+                 FYI - - - X -
+              SCRIPT - - - - X
+             USERADD - - - - X

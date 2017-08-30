@@ -1,0 +1,8 @@
+             COMMAND O O O O O - O O
+                 END X X X X X - - -
+/ETC/INIT.D/BOOTMISC.SH X X X X X - - -
+         BOOTMISC.SH - - - - - S X X
+                ROOT - - - - - X - -
+                THAT - - - - - - X X
+                  EG - - - - - - X X
+          NVIDIA-GLX - - - - - - X X

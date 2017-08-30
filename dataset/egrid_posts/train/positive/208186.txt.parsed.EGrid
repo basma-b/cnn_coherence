@@ -1,0 +1,7 @@
+              SERVER X - - - -
+         ENVIRONMENT S - - - -
+              EXPORT - X - - -
+HTTP_PROXY=SOMETHING - X - - -
+                USER - - X - -
+                FILE - - X - -
+    /ETC/ENVIRONMENT - - - - X

@@ -1,0 +1,11 @@
+             COMMAND X - - - -
+           DIRECTORY S - - - -
+              ANYONE X - - - -
+                SUDO - S - - -
+               /FILE - O - - -
+               CHMOD - - X - -
+                  -R - - X - -
+        /PATH/TO/DIR - - X - -
+              REPEAT - - - - X
+                   | - - - - X
+          ESC_PHR34K - - - - X

@@ -1,0 +1,26 @@
+         HTTPD-2.2.0 X - - - - - -
+PREFIX=/USR/LOCAL/APACHE2 - X - - - - -
+                   C - X - - - - -
+            COMPILER - S - - - - -
+        EXECUTEABLES - O - - - - -
+                 ANY - S - - - - -
+                 CMD - - X - - - -
+             APT-GET - - S - - - -
+     BUILD-ESSENTIAL - - S - - - -
+               ERROR - - O - - - -
+                   E - - S - - - -
+  /VAR/LIB/DPKG/LOCK - - X - - - -
+                OPEN - - X - - - -
+            RESOURCE - - X - - - -
+                 RUN - - - O - - -
+                WUPS - - - S - - -
+          BACKGROUND - - - X - - -
+                WORK - - - X - - -
+            QUESTION - - - X - - -
+             INSTALL - - - - O - -
+             NOTHING - - - - S - -
+                FILE - - - - X - -
+              SYSTEM - - - - X - -
+                SUDO - - - - X - -
+           REINSTALL - - - - - - S
+                WONT - - - - - - S

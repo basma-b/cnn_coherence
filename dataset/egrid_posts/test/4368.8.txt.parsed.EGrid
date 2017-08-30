@@ -1,0 +1,17 @@
+             COMMAND X - - -
+                LINE O - - -
+             PACKAGE X - - -
+             MANAGER O - - -
+              GKSUDO - S - -
+                THAT - - O S
+                   * - - X -
+               SHELL - - S -
+               FILE1 - - S -
+                  .. - - O -
+               LIMIT - - O -
+              NUMBER - - X -
+                ARGS - - X -
+             PROBLEM - - - O
+                JRIB - - - S
+               -EXEC - - - O
+          WORKAROUND - - - X

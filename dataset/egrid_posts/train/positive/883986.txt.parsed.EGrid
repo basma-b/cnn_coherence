@@ -1,0 +1,31 @@
+        REPOSITORIES O - - - - - - - - - - - -
+                HAND X - - - - - - - - - - - -
+/ETC/APT/SOURCES.LIST X - - - - - - - - - - - -
+           DUPLICATE O - - - - - - - - - - - -
+           DIRECTORY - X - - - - - - - - - - -
+/ETC/APT/SOURCES.LIST.D - - S - - - - - - - - - -
+        SOURCES.LIST - - X - - - - - - - - - -
+          REPOSITORY - - S - - - - - - - - - -
+                FACT - - - X - - - - - - - - -
+     NVIDIA-SETTINGS - - - O - X - - - - - - -
+                 ONE - - - O - - - - - - - - -
+                REPO - - - X - - - - O - - - -
+                LIST - - - - O - - - - - - - -
+             PACKAGE - - - - X - - - - - - - -
+                MAIN - - - - - X - - - - - - -
+               THERE - - - - - - X - - - - - -
+              UPDATE - - - - - - O - O - X - -
+                 WAY - - - - - - X - - - - - -
+                   * - - - - - - - S - - O - X
+             UPGRADE - - - - - - - O - - - - -
+              DESIRE - - - - - - - - X - - - -
+   PPA.LAUNCHPAD.NET - - - - - - - - - - O - -
+         UBUNTU-WINE - - - - - - - - - - X - -
+       UBUNTU-X-SWAT - - - - - - - - - - X - -
+                SWAT - - - - - - - - - - X - -
+               THOSE - - - - - - - - - - S - -
+             REPLACE - - - - - - - - - - O - -
+               SWING - - - - - - - - - - - X -
+                HECK - - - - - - - - - - - S -
+             COMMAND - - - - - - - - - - - - O
+/VAR/LIB/APT/LISTS/PPA - - - - - - - - - - - - X

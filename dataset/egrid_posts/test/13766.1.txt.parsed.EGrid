@@ -1,0 +1,17 @@
+             APT-GET X - - - -
+               MYSQL O - - - -
+              CONFIG - - X - -
+                FILE - - S - -
+                ROOT - - X - -
+            PASSWORD - - X - -
+           REINSTALL - - X - -
+           SOMETHING - - O - -
+                   $ - - - X -
+                LINE - - - O -
+             CHANNEL - - - X -
+                   | - - - X -
+                 AWK - - - X -
+               /^RC/ - - - X -
+               PRINT - - - X -
+                SUDO - - - X -
+               XARGS - - - S -

@@ -1,0 +1,31 @@
+                 VLC O - - S - - - - - -
+                 CLI X - - - - - - - - -
+              STREAM O - - - - - - - - -
+                FILE X - - - - - X - - -
+             COMMAND - O O O - - - - - -
+              WINDOW - O X - - - - - - -
+                TIME - - X - - - - - - -
+                OPEN - - X - - - - - - -
+              SCRIPT - - X - - - - - - -
+                 ROW - - X - - - - - - -
+               MEDIA - - - X - - - - - -
+              PLAYER - - - O - - - - - -
+                LINE - - - X - - - - - -
+                THIS - - - X - - - - - -
+                HTTP - - - X - - - - - -
+//WIKI.VIDEOLAN.ORG/DOCUMENTATION - - - X - - - - - -
+STREAMING_HOWTO/RECEIVE_AND_SAVE_A_STREAM - - - S - - - - - -
+              FOLDER - - - X - - - - - -
+                 USE - - - - - - O O - -
+               SETUP - - - - - - S - - O
+       CONFIGURATION - - - - - - X - - -
+              PUPPET - - - - - - S X - -
+             PACKAGE - - - - - - - O - -
+                  -Y - - - - - - - X - -
+                  -O - - - - - - - X - -
+                DPKG - - - - - - - O - -
+             OPTIONS - - - - - - - O - -
+       FORCE-CONFOLD - - - - - - - S - -
+       DISTRIBUTIONS - - - - - - - - X -
+          SIMPLICITY - - - - - - - - X -
+                SIGN - - - - - - - - - O

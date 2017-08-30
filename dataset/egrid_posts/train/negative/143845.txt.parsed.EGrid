@@ -1,0 +1,12 @@
+               DRIVE X - - - -
+          PERMISSION X - - - -
+               USERS X - - - -
+                SUDO - X - - -
+                VFAT - S - - -
+/DEV/MAPPER/TRUECRYPT0 - X - - -
+           /MNT/DATA - O - - -
+                ROOT - S - - -
+                 EXT - X - - -
+             COMMAND - X - - -
+                LINE - X - - -
+                 RAR - - - - X

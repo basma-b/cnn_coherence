@@ -1,0 +1,17 @@
+             COMMAND X - -
+                LINE X - -
+            INSTANCE X - -
+      MYHOSTNAME.COM X - -
+                FILE X X -
+            FOO.CONF X - -
+-S/LOCALHOST/HOSTNAME.COM/ - X -
+          INPUT.CONF - O -
+           SOMETHING - O -
+                THIS - X -
+                  -I - X -
+          /FOO/BAR/G - X -
+                THAT - - S
+                LINK - - O
+             FIREFOX - - X
+             DESKTOP - - X
+            ANYTHING - - O

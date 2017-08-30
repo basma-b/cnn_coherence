@@ -1,0 +1,12 @@
+                ECHO X -
+             OPTIONS S -
+/ETC/MODPROBE.D/WIFIHACK.CONF X -
+               +SUDO O -
+                 RUN - X
+               GEDIT - S
+    /ETC/SYSCTL.CONF - O
+                LINE - O
+                HTTP - O
+//PASTE.UBUNTU.COM/1040243 - O
+                FILE - X
+                  -P - O

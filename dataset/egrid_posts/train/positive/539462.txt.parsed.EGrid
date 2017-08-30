@@ -1,0 +1,17 @@
+              FORMAT X - - - - - - -
+                  HD O O S - X - - -
+           PARTITION - O - - - - - -
+                 USE - - O - - - - -
+              BACKUP - - X - - - - -
+           /DEV/SDA4 - - - S - - - -
+                EXT3 - - - X - - - -
+               LABEL - - - - O - - -
+                NAME - - - - O - - -
+             BACKUPS - - - - X - - -
+          EVERYTHING - - - - O - - -
+                BOOT - - - - X - - -
+                 THE - - - - - O - -
+             TUNE2FS - - - - - S - -
+             COMMAND - - - - - X - -
+                   > - - - - - O - -
+                WHAT - - - - - O - -

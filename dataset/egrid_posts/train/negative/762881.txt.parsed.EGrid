@@ -1,0 +1,13 @@
+                HTTP X - - - - -
+                   < X - - - - -
+            PASSWORD X - - - - -
+                   > S - - - - -
+                   | X - - - - -
+                SUDO X - - - - -
+             COMMAND X - - O - -
+                  -S - - - X - -
+                  SU - - - X - -
+               STDIN - - - S - -
+                 TTY - - - O - -
+               ERROR - - - X - -
+                   Q - - - - - O

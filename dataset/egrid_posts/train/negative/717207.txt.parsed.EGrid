@@ -1,0 +1,13 @@
+            .PROFILE O - - O - - X - - - -
+                BASH - X X - X X - - - - -
+              C-M-F1 - X - - X - - - - - -
+                 ALL - S - - S - - - - - -
+             COMMAND - X X - X X - O - - -
+               ERROR - - O - - O - - - - -
+                  CD - - X - - X - - - - -
+                 PWD - - X - - X - - - - -
+             DEFAULT - - - - - - - X X - -
+                COPY - - - - - - - O - - -
+           /ETC/SKEL - - - - - - - X - - -
+           OVERWRITE - - - - - - - X - - -
+                 MIN - - - - - - - - - - X

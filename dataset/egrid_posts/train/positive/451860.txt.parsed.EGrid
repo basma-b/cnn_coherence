@@ -1,0 +1,23 @@
+              BACKUP X - X - X
+              SYSTEM X - - - -
+                 TAR - X X - -
+             COMMAND - X X - -
+                COOL - O - - -
+          EVERYTHING - X - - -
+                   / - - S - -
+                 SEC - - X - -
+                 ONE - - O - -
+               CVPZF - - X - -
+      BACKUPDELL.TGZ - - X - -
+EXCLUDE=/BACKUPDELL.TGZ - - O - -
+        EXCLUDE=/MNT - - X - -
+        EXCLUDE=/SYS - - X - -
+      EXCLUDE=/MEDIA - - O - -
+EXCLUDE=/ROOT/.TRASH - - O - -
+                 MAN - - O - -
+                 WAY - - X - -
+             MACHINE - - X - -
+                  .. - - - O -
+                NAME - - - - O
+                LOOP - - - - X
+           SITUATION - - - - O

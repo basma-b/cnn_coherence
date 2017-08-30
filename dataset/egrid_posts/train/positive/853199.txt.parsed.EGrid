@@ -1,0 +1,22 @@
+                  HI X - - - - - -
+               10.10 - X - - - - -
+               11.04 - X - - - - -
+  DO-RELEASE-UPGRADE - - S - - - -
+            PROBLEMS - - O - - - -
+               BREAK - - X - - - -
+             PACKAGE - - O - - - -
+                  -A - - - X - - -
+              UPDATE - - - O - - -
+             UPGRADE - - - O - - -
+              OUTPUT - - - S - - -
+                  OK - - - S - - -
+                HTTP - - - O - - -
+/ETC/UPDATE-MANAGER/RELEASE-UPGRADES - - - O - - -
+              RESULT - - - O - - -
+       PROMPT=NORMAL - - - - X - -
+              OPTION - - - - X - -
+                COOL - - - - X - -
+               THERE - - - - S - -
+          PROMPT=LTS - - - - S - -
+                LINE - - - - O - -
+              NORMAL - - - - - - X

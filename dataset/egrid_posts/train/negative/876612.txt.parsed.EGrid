@@ -1,0 +1,32 @@
+                HTTP X - - - - - -
+                PUNT X - - - - - -
+              SERVER O - - - - - -
+              WINDOW X - - - - - -
+               THING - S - - - - -
+           SMARTHOST - X - X - - -
+                 LOG - - O - - - -
+MSMTP/SSMTP/NULLMAILER - - - X - - -
+                SUDO - - - X - - -
+    DPKG-RECONFIGURE - - - X - - -
+             POSTFIX - - - S - - -
+            QUESTION - - - O - - -
+                SITE - - - X - - -
+          NULLMAILER - - - X - - -
+                WORK - - - O - - -
+              CONFIG - - - S - - -
+                LINE - - - X - - X
+/ETC/NULLMAILER/REMOTES - - - S - - -
+           SOMETHING - - - O - - -
+YOURSMARTHOST.EXAMPLE.COM - - - X - - -
+                SMTP - - - X - - -
+       USER=YOURUSER - - - X - - -
+            SPAMMERS - - - S - - -
+              TELNET - - - X X - -
+               CHECK - - - - X - -
+              ANSWER - - - - O - -
+       YOURSMARTHOST - - - - X - -
+               SENSE - - - - O - -
+                 -SC - - - - X - -
+         MAILHEADERS - - - - S - -
+             HEADERS - - - - X - -
+                BOTH - - - - X - -

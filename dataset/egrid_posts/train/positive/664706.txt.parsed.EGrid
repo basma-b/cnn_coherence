@@ -1,0 +1,12 @@
+          PERMISSION S - - - - - - - - -
+              ERRORS O - - - - - - - - -
+                FILE O - - - - - - - - -
+                HOME X - - - - - - - - -
+           DIRECTORY X - - - - - - - - -
+                 WWW - - - X - - - - - -
+                 ALL - - - S - - - - - -
+                PART - - - X - - - - - -
+               GROUP - - - X - - - - - -
+                USER - - - X - - - - - -
+                 FTP - - - - - - - - X -
+                SUDO - - - - - - - - O -

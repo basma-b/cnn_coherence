@@ -1,0 +1,20 @@
+               ERROR X - - - -
+        GLIBCONFIG.H X - - - -
+                FILE X - - - -
+           DIRECTORY O - - - X
+               THEME O - - - -
+             PROBLEM O - - - -
+               NATTY X - - - -
+                HELP - O - - -
+                HTTP - - X - -
+//PACKAGES.UBUNTU.COM/SEARCH - - X - -
+   SEARCHON=CONTENTS - - - X -
+KEYWORDS=GLIBCONFIG.H - - - X -
+  MODE=EXACTFILENAME - - - X -
+         SUITE=NATTY - - - X -
+            ARCH=ANY - - - S -
+                 BUG - - - O -
+               HTTPS - - - X -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/PKG-CONFIG/+BUG/780537 - - - X -
+             HEADERS - - - O -
+                WORK - - - - X

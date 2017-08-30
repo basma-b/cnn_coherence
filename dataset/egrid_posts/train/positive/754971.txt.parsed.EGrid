@@ -1,0 +1,16 @@
+        ARCHETECTURE X - - - -
+2.6.35-20-LOWLATENCY-PAE - O - - -
+                 SMP - X - - -
+             PREEMPT - X - - -
+                 MON - X - - -
+                 SEP - X - - -
+           GNU/LINUX - X - - -
+              KERNEL - - O - -
+              INSTAL - - S - -
+                 CPU - - S - S
+             CLFLUSH - - X - -
+                SIZE - - O - -
+                 IDK - - X - -
+                THAT - - - - O
+               64BIT - - - - X
+                 UOT - - - - X

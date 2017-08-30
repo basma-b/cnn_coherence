@@ -1,0 +1,20 @@
+          USR/BIN/LD X - - - - - - - -
+         APPLICATION - O - - - - - - -
+                THAT - - S - S - - - -
+             LIBRARY - - X - - O - - -
+                LIBZ - - O - - - - - -
+            WHATEVER - - S - - - - - -
+              SYSTEM - - X - - - - - -
+         /USR/BIN/LD - - O - - - - - -
+            COLLECT2 - - O - - - - - -
+              RETURN - - O - - - - - -
+                EXIT - - X - - - - - -
+              STATUS - - S - - - - - -
+               -LSB- - - O - - - - - -
+               -RSB- - - O - - - - - -
+                 SWR - - X - - - - - -
+               ERROR - - O - - - - - -
+              WHOOPS - - X - - - - - -
+                HTTP - - - - - - X - -
+//WWW.GOOGLE.COM/SEARCH - - - - - - X - -
+            GKTHXBAI - - - - - - - - X

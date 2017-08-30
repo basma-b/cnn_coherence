@@ -1,0 +1,22 @@
+                NONE - S - - - - - - - -
+               VMMON - X - - - - - - - -
+             MODULES - X - - - - - - - O
+              VMWARE - X - - - - - - - -
+              SERVER - X - - - - - - - -
+                 RUN - X - - - - - - - -
+             KERNEL. - X - - - - - - - -
+/LIB/MODULES/2.6.20-15-GENERIC/BUILD/INCLUDE - - - X - - - - - -
+                 TIP - - - - X - - - - -
+              KERNEL - - - - - X - - - -
+              SOURCE - - - - - X - - - -
+                TREE - - - - - X - - - -
+              INSTAL - - - - - O - - - -
+              UNPACK - - - - - O - - - -
+                LINK - - - - - O - - - -
+                STEP - - - - - X - - - -
+                 TUT - - - - - X - - - -
+                SUDO - - - - - - - X - -
+             APT-GET - - - - - - - S - -
+VMWARE-SERVER-KERNEL-MODULES-2.6.20-15 - - - - - - - O - -
+              FEISTY - - - - - - - X - -
+                THAT - - - - - - - - - S

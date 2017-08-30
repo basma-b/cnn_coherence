@@ -1,0 +1,27 @@
+ DPKG-CHECKBUILDDEPS O - - S - - - -
+                LIST O - - X - - - -
+        DEPENDENCIES X X - X O - - -
+              FORMAT X - - - - - - -
+                   B X X - - - - - -
+                   | X X - - - - - -
+                   C X X - - - - - -
+                   D X - - - - - - -
+                   E X - - - - - - -
+                THIS - S - - - - - -
+             APT-GET - X O - - - - -
+               STYLE - X - - - - - -
+          PARTICULAR - X - - - - - -
+                GOAL - O - X S - - -
+                  .. - - X - - - - -
+                LINE - - X - - - - -
+                BASE - - O - - - - -
+             CONTROL - - X - - X - -
+                FILE - - X - - O - -
+                 USE - - - X - - - -
+                 END - - - X X - - -
+        INSTALLATION - - - O - - - -
+                   * - - - X - - - -
+             PACKAGE - - - - O - - -
+         PACKAGENAME - - - - X - - -
+           BUILD-DEP - - - - - X - -
+PBUILDER-SATISFYDEPENDS - - - - - O - -

@@ -1,0 +1,18 @@
+              ANYONE X - - - - - -
+         MOD_REWRITE O - - - - - -
+             APACHE2 X - - - - - -
+              UBUNTU X - - - - - -
+              COUPLE - X - - - - -
+                LINE - X - X - - -
+        APACHE2.CONF - X - - - - -
+          LOADMODULE - - X - - - -
+MODULES/MOD_REWRITE.SO - - X - - - -
+       MOD_REWRITE.C - - X - - - -
+        INSTRUCTIONS - - - S - - -
+             A2ENMOD - - - - S - S
+        FORCE-RELOAD - - - - O - -
+                PART - - - - S - -
+                 USE - - - - - - X
+                ROOT - - - - - - S
+             COMMAND - - - - - - S
+                SUDO - - - - - - X

@@ -1,0 +1,21 @@
+             EXAMPLE - - X - - - - X - - - - - - - -
+               THEME - - S - - - - S - - - - - - - -
+                 THE - - - S - - - - S - - - - - - -
+             COMMAND - - - O - - - - O - - - - - - -
+                SUDO - - - X - - - - - - - - - - - -
+ UPDATE-ALTERNATIVES - - - O - - - - - - - - - - - -
+    UPDATE-INITRAMFS - - - X - - - - - - - - - S - -
+                  -R - - - X - - - - - - - - - - - -
+              SPLASH - - - X - - - - - - - - - - - -
+             VGA=791 - - - X - - - - S - - - - - - -
+                BOOT - - - X - - - - X - - - X - - -
+             PROCESS - - - X - - - - S - - - - - - -
+              SCREEN - - - X - - - - O - - - - - - -
+                HTTP - - - - - - - - O - - - - - - -
+//PASTE.UBUNTU-NL.ORG/52025/ - - - - - - - - O - - - - - - -
+    INITRAMFS-UPDATE - - - - - - - - - - O - - - - -
+             MENTION - - - - - - - - - - - X - - - -
+                  .. - - - - - - - - - - - - O - - -
+               IMAGE - - - - - - - - - - - - X - - -
+             USPLASH - - - - - - - - - - - - - O - -
+          DIFFERENCE - - - - - - - - - - - - - - - S

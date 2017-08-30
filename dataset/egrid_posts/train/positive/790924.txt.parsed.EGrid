@@ -1,0 +1,13 @@
+               MYSQL O - - -
+              SERVER X - - -
+             CONFIGS - O - -
+         CONNECTIONS - - O -
+             DEFAULT - - X -
+             CONNECT - - - X
+                 USE - - - O
+                BIND - - - X
+                PORT - - - O
+          INTERFACES - - - X
+                HOST - - - X
+             NETWORK - - - X
+                DICE - - - X

@@ -1,0 +1,23 @@
+         REPLACEMENT X X - - - -
+                  .. X X - - - -
+                DPKG S S - - - -
+               ERROR X X - - - -
+             PROCESS X X - - - -
+/VAR/CACHE/APT/ARCHIVES/PYTHON2.4_2.4.1-1_I386.DEB X X - - - -
+              UNPACK X X - - - -
+             PACKAGE X X - - - -
+            DPKG-DEB X - - - - -
+               PASTE S - - - - -
+              SIGNAL X - - - - -
+                PIPE X - - - - -
+              PYTHON X - - - - -
+             MODULES O - - - - -
+               WHICH - S - - - -
+   PYTHON2.4-MINIMAL - X - - - -
+              ERRORS - S - - - -
+                STOP - X - - - -
+                MORE - - - - O -
+                LINE - - - - O -
+                 USE - - - - - X
+           SOMETHING - - - - - O
+                HTTP - - - - - X

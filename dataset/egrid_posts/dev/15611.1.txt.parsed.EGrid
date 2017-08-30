@@ -1,0 +1,12 @@
+                   A X - - -
+             COMMAND X - - -
+                READ X - - -
+                 DMA X - - -
+                 RAM S - - -
+               ISSUE O X X -
+                THAT - S - -
+                DISK - X - -
+                FSCK - - - O
+            /DEV/SDA - - - O
+              NUMBER - - - X
+         SUPER-BLOCK - - - X

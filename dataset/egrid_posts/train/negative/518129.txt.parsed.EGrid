@@ -1,0 +1,26 @@
+            PROBLEMS O - -
+          PULSEAUDIO X O -
+            CONFLICT X - -
+        APPLICATIONS X - -
+                 WAY O - -
+              DAEMON O - -
+               CHECK O - -
+              INIT.D S - -
+              FOLDER S - -
+                CALL O - -
+/ETC/INIT.D/PULSEAUDIO X X -
+              RENDER X X -
+                   W X - -
+     LTDL-BIND-NOW.C X - -
+              LOADER O - -
+                FILE - S -
+                CASE - X -
+                STOP - S -
+              STRING - O -
+                STAT - X -
+                ALSA - X -
+                ASLA - O -
+                BOOT - - X
+                MENU - - S
+                PART - - O
+                BIOS - - X

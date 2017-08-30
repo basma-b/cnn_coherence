@@ -1,0 +1,22 @@
+           SOMETHING O - - - - -
+             MACHINE X - X - - -
+                 SSH X - - - - X
+            -DISPLAY - X - - - -
+                 0.0 - S - - - -
+              EXPORT - X - - - -
+        DISPLAY=:0.0 - S - - - -
+             DISPLAY - - X - X -
+                USER - - - S - X
+                HOST - - - O - -
+                   X - - - X - X
+           TUNELLING - - - S - -
+               CHECK - - - X - -
+/ETC/SSH/SSHD_CONFIG - - - O - -
+       X11FORWARDING - - - S - -
+                 WAN - - - O - -
+                  'T - - - O - -
+              TUNNEL - - - X - -
+            ANYTHING - - - X - -
+                 APP - - - - O -
+            COMPUTER - - - - X -
+             SESSION - - - - - X

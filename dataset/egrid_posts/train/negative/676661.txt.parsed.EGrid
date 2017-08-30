@@ -1,0 +1,21 @@
+                  .. - O O O -
+          SERVERNAME - X - - -
+            SITE.COM - O - - -
+             DEFAULT - X - - -
+                SITE - S - - -
+              APACHE - X - - -
+               ALIAS - O - - -
+            DOWNLOAD - S - - -
+                TYPE - X - - -
+               THERE - - S - -
+                HOST - - X - -
+/VAR/LOG/APACHE2/ACCESS.LOG - - - X -
+            ANYTHING - - - X -
+              VNSTAT - - - S -
+               TOTAL - - - O -
+                TOOL - - - O -
+              REPORT - - - X -
+                DATA - - - X -
+            IFCONFIG - - - X -
+                DONT - - - S -
+            APTITUDE - - - - S

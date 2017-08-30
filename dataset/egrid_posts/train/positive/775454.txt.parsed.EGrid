@@ -1,0 +1,15 @@
+                THIS X -
+              ANSWER S -
+                   * S -
+                 USE X X
+               SETUP X -
+              SCRIPT X -
+             UPGRADE O -
+             APT-GET - S
+                SUDO - X
+              EXPORT - X
+DEBIAN_FRONTEND=NONINTERACTIVE - S
+             PACKAGE - O
+               MYSQL - S
+            PASSWORD - S
+                GIVE - O

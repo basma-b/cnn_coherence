@@ -1,0 +1,17 @@
+                SASL S - - - - - -
+   /VAR/LOG/MAIL.LOG X - - - - - -
+/ETC/POSTFIX/MAIN.CF X - - - - - -
+BROKEN_SASL_AUTH_CLIENTS X - - - - - -
+SMTPD_SASL_AUTH_ENABLE X - - - - - -
+SMTPD_RECIPIENT_RESTRICTIONS X - - - - - -
+REJECT_UNKNOWN_SENDER_DOMAIN X - - - - - -
+REJECT_UNKNOWN_RECIPIENT_DOMAIN X - - - - - -
+REJECT_UNAUTH_PIPELINING X - - - - - -
+   PERMIT_MYNETWORKS X - - - - - -
+SMTPD_SASL_AUTHENTICATED_HEADER X - - - - - -
+   /VAR/LOG/MAIL.ERR - X - - - - -
+                  OH - - - S - - -
+                IDEA - - - - - X -
+               ERROR - - - - - S -
+             POSTFIX - - - - - X -
+          EXPERIENCE - - - - - O -

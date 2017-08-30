@@ -1,0 +1,15 @@
+              SERVER X - - - - - - -
+             PROBLEM O - - - - - - -
+         INFORMATION - X - - - - - -
+     /VAR/LOG/SYSLOG - - O - - - - -
+                KIND - - - - X - - -
+               ERROR - - - - X - - -
+             MESSAGE - - - - X - - -
+               START - - - - - X - -
+             APT-GET - - - - - S - -
+        DHCP3-SERVER - - - - - O - -
+               -LSB- - - - - - S - -
+             ATHEROS - - - - - - - S
+              SIGNAL - - - - - - - O
+              UBUNTU - - - - - - - X
+             WINDOWS - - - - - - - X

@@ -1,0 +1,21 @@
+                TOOL S - - -
+                  1G O - - -
+               ORDER S - - -
+              12.04. X - - -
+             PACKAGE X - X -
+            SCENARIO X - - -
+               CACHE - - X -
+/VAR/CACHE/APT/ARCHIVE - - S -
+              KERNEL - - S -
+                DOCS - - X -
+             LOCALES - - S -
+                USER - - S -
+                HOME - - O -
+              NOBODY - - S -
+              SOURCE - - O -
+                 ETC - - O -
+                LINE - - - S
+GRUB_CMDLINE_LINUX_DEFAULT= - - - X
+         REBOOT=BIOS - - - X
+                SUDO - - - X
+         UPDATE-GRUB - - - O

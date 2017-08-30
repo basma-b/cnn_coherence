@@ -1,0 +1,13 @@
+            TERMINAL S - - -
+             COMMAND O - - -
+                FILE S S - -
+                BASH O X - -
+           INIT-FILE S - - -
+           SOMETHING O - - -
+              SCRIPT X O - -
+               SHELL - X - -
+            HARDWARE - - X X
+             DRIVERS - - O O
+              SYSTEM - - - X
+                   > - - - X
+      ADMINISTRATION - - - S

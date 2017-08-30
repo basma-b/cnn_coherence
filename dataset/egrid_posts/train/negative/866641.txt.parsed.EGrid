@@ -1,0 +1,15 @@
+                  -F S - - - -
+             OPTIONS - X - - -
+             APACHE2 - - S - -
+         UPDATE-RC.D - - X - -
+              UPDATE - - O - -
+                 MAN - - X X -
+                  .. - - X - -
+               LEVEL - - X - -
+             STARTUP - - X - -
+                THAT - - - S -
+    UPDATE-RC.D|LESS - - - X -
+                  -P - - - X -
+      ADMINISTRATION - - - X -
+               ERROR - - - X -
+              RENDER - - - - X

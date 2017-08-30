@@ -1,0 +1,13 @@
+                USER S - - - - - -
+             SUDOERS X - - - - X -
+                FILE X X - X - X -
+               ADMIN O - X - - O -
+                NANO - X - - - - -
+          /ETC/GROUP - O - - - - -
+            USERNAME - S - - - - -
+                LINE - X - O - - -
+                 ADM - - - S - - -
+               GROUP - - - S - - -
+                GREP - - - X - - -
+               X:125 - - - - - O -
+          MYUSERNAME - - - - - O -

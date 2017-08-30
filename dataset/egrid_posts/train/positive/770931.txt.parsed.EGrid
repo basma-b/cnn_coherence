@@ -1,0 +1,24 @@
+               ERROR S - - - - -
+              ANYONE S - - - - -
+                CRON X - - - - -
+                   < S - - - - -
+                   > X - - - - -
+                TEST X - - - - -
+/ETC/INIT.D/SENDMAIL S - - - - -
+/USR/SHARE/SENDMAIL/SENDMAIL X - - - - -
+               MKDIR S - - - - -
+           DIRECTORY O - - - - -
+   /VAR/RUN/SENDMAIL O - - - - -
+          PERMISSION S - - - - -
+              PROCES S - - - - -
+         PERMISSIONS O - - - - -
+            SENDMAIL O - O - - -
+                INFO - X - - - -
+                ROOT - - X - X -
+                 USE - - X - - -
+                SUDO - - X - O -
+                MESS - - X - - -
+                THAT - - - - S -
+             APT-GET - - - - O -
+                   K - - - - O -
+                USER - - - - X -

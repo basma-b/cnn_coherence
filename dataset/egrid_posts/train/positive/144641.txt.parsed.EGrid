@@ -1,0 +1,11 @@
+            SYNAPTIC S - - - -
+                 KDE O - - - -
+             DEPENDS X - - - -
+              KDESDK X - - - O
+                THAT - X - - -
+        DEPENDENCIES - - X - -
+               REPOS - - - S -
+               ORDER - - - X -
+             CONSOLE - - - - X
+                SUDO - - - - X
+             APT-GET - - - - S

@@ -1,0 +1,14 @@
+             ACCOUNT X S -
+               FRESH - S -
+       ADMINISTRATOR - X -
+               OWNER - O -
+             SUDOERS - X -
+                FILE - X X
+                ROOT - S -
+            ANYTHING - O -
+             PROBLEM - - S
+              DAEMON - - S
+                USER - - X
+               CHECK - - X
+                IDEA - - O
+              ACCESS - - O

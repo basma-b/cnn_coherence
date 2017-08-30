@@ -1,0 +1,11 @@
+             COMMAND O O - - - - - - -
+                USER S S - - - - - - -
+              UBUNTU - - X - - - - - -
+             DESKTOP - - X X - - - - -
+                 GUI - - - X - - - - -
+             EDITION - - - - O - - - -
+                 TRY - - - - - - X - -
+          AUTOREMOVE - - - - - - X - -
+             PACKAGE - - - - - - - O -
+            CONFLICT - - - - - - - O -
+            ANYTHING - - - - - - - - O

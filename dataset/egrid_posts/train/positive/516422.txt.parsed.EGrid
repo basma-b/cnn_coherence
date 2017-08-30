@@ -1,0 +1,14 @@
+              ANYONE X - - -
+               SAMBA S - - -
+         PERMISSIONS S - - -
+                TIME - X - -
+               MKDIR - X - -
+               .WINE - X - -
+          .WINE/TEST - O - -
+           DIRECTORY - S - -
+          PERMISSION - S - -
+             TIMEOUT - S - -
+                   % - X - -
+      AUTHENTICATION - - - X
+              SERVER - - - X
+               SETUP - - - X

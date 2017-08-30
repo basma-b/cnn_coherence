@@ -1,0 +1,18 @@
+        DEPENDENCIES X - - - - -
+               XCHAT X - - X O -
+            TERMINAL X - - - - -
+              SOURCE - - X X - -
+            BINARIES - - O - - -
+                FILE - - - X - -
+/VAR/LIB/APT/LISTS/LB.ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_FEISTY-UPDATES_MAIN_SOURCE_SOURCES - - - O - -
+                  NO - - - X - -
+           DIRECTORY - - - X - -
+                  B4 - - - S - -
+             PROBLEM - - - X - -
+                SUDO - - - - X -
+                NANO - - - - X -
+/ETC/APT/SOURCES.LIST - - - - S -
+                LINE - - - - O -
+                 DEB - - - - X -
+              UPDATE - - - - X -
+              SERVER - - - - - X

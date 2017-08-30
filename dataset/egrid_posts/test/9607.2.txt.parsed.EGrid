@@ -1,0 +1,8 @@
+             COMMAND X - -
+                FILE O - -
+            TRUNCATE - X -
+            FILE.FOO - X -
+          MONKEYDUST - X -
+              ANSWER - S -
+                   % - - X
+                   / - - S

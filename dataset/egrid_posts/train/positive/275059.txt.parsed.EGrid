@@ -1,0 +1,55 @@
+               HTTPS S - - - - - - - - - - - - - - - - -
+//WIKI.UBUNTU.COM/SEVEASPACKAGES X - - - - - - - - - - - - - - - - -
+                   < S - - - - - - - - - - - - - - - - -
+                 IVE S - - - - - - - - - - - - - - - - -
+                 DEB O - - - - - - - - - - - - - - - - -
+        SOURCES.LIST X - - - - X - - - - - - - - - - - -
+                  IM S - - - - - - - - - - - - - - - - -
+                SUDO - X - - - - - - - - X X - - - - - -
+              UPDATE - O - - - - - - - - S X - - - - - -
+            APTITUDE - X - - - - - - - - S - - - - - - -
+           W32CODECS - O - O - - - - - - O - - - - - - -
+              SYSTEM - O - - - - - - - - - - - - - - - -
+                   > - X - - - - - - - - - - - - - - - -
+      ADMINISTRATION - X - - - - - - - - - - - - - - - -
+            SYNAPTIC - S - - - - - - - - - - - - - - - -
+/ETC/APT/SOURCES.LIST - O - - - - - - - - - X - - - - - -
+    LIST_OF_SECTIONS - X - - - O - - - - - - - - - - - -
+                LIST - O - - - - O S - - - - - - - - - -
+             SECTION - X X - - - X X X O O - - - - - - -
+                PAGE - - S - X - - - - - - - - - - - - -
+              SOURCE - - X - O - - - - - - - - - - - - -
+               RADIO - - - X - - - - - - - - - - - - - -
+                DONT - - - - X - - - - - - - - - - - - -
+                LOOK - - - - O - - - - - - - - - - - - -
+              SEVEAS - - - - X - - - - - - - - - - - - -
+                THAT - - - - - - S - - - - - - - - - - -
+         WIN32CODECS - - - - - - - O O - - - - - - - - -
+                HTTP - - - - - - - - - X - X - - - O - -
+//SEVEAS.THEPLAYBOYMANSION.NET/SEVEAS/DISTS/EDGY-SEVEAS/ - - - - - - - - - S - - - - - - - -
+                 ALL - - - - - - - - - - S - - - - - S -
+              EXTRAS - - - - - - - - - - S - - - - - - -
+               ERROR - - - - - - - - - - X - - - - - - -
+             MESSAGE - - - - - - - - - - O - - - - - - -
+           CANDIDATE - - - - - - - - - - X - - - - - - -
+             VERSION - - - - - - - - - - S - - - - - - -
+             PACKAGE - - - - - - - - - - S - - - S - - -
+             APT-GET - - - - - - - - - - - X - - - - - -
+            PASTEBIN - - - - - - - - - - - X - - - - - -
+              RESULT - - - - - - - - - - - X - - - - - -
+        ARCHITECTURE - - - - - - - - - - - X - - - - - -
+                I386 - - - - - - - - - - - - - X X - - -
+               AMD64 - - - - - - - - - - - - - X - - - -
+         ALTERNATIVE - - - - - - - - - - - - - - X - - -
+//WWW.BBC.CO.UK/RADIO1/ - - - - - - - - - - - - - - - X - -
+               CLICK - - - - - - - - - - - - - - - X O -
+                WORK - - - - - - - - - - - - - - - O - -
+           -PLAYLIST - - - - - - - - - - - - - - - X - -
+//WWW.BBC.CO.UK/RADIO1/REALAUDIO/MEDIA/R1LIVE.RAM - - - - - - - - - - - - - - - X - -
+                 BBC - - - - - - - - - - - - - - - O - -
+                 USE - - - - - - - - - - - - - - - - X -
+                LINK - - - - - - - - - - - - - - - - O -
+                REAL - - - - - - - - - - - - - - - - X -
+              PLAYER - - - - - - - - - - - - - - - - O -
+               LEAVE - - - - - - - - - - - - - - - - X -
+             COMMAND - - - - - - - - - - - - - - - - - O

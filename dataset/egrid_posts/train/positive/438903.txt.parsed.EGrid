@@ -1,0 +1,13 @@
+                CRON X S -
+                 LOG X S -
+                 JOB - O -
+                PIPE - X -
+              OUTPUT - O -
+              SCRIPT - X -
+                FILE - X -
+              BEHALF - X -
+              SYSTEM - S -
+               EMAIL - X -
+             ADDRESS - S -
+                 ONE - O -
+                 BOX - X -

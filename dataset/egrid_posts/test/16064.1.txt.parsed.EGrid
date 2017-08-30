@@ -1,0 +1,11 @@
+           VNCVIEWER - O - - - - S - -
+            TIGHTVNC - X - - - - - - -
+      AUTHENTICATION - X - - - - - - -
+            FAILURES - O - - - - - - -
+                THIS - - X - - - - - -
+              SERVER - - - O X - - - X
+            PASSWORD - - - - - - X - X
+               ERROR - - - - - - O - -
+                 LOG - - - - - - - X -
+           VNCSERVER - - - - - - - - X
+              CLIENT - - - - - - - - O

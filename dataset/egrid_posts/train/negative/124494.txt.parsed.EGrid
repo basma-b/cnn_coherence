@@ -1,0 +1,17 @@
+                 GET S - - - - - -
+              KERNEL X X - - - - -
+               PANIC S S - - - - -
+                SYNC X X - - - - -
+                INIT O O - - - - -
+        BUSHIDOSCARE - S - - - - -
+                BOOT - - X - - - -
+          PARAMETERS - - S - - - -
+               ENTRY - - S - - - -
+                   / - - X - - - -
+           PARTITION - - X - - - -
+             PACKAGE - - - - - - X
+            AVILABLE - - - - - - O
+             ECLIPSE - - - - - - X
+                SITE - - - - - - X
+          DEPENDENCY - - - - - - O
+             BROWSER - - - - - - X

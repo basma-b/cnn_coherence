@@ -1,0 +1,10 @@
+              INSERT O - - - - - - - - -
+          /ETC/FSTAB X - - - - - - - - -
+              SYSTEM - O - - - - - - - -
+            GID=1000 - - - X - - - - - -
+               CHECK - - - O - O - - - -
+                 UID - - - S - - - - - -
+                 GID - - - S - - - - - -
+                TYPE - - - - X - - - - -
+                  ID - - - - O - - - - -
+                NTFS - - - - - - - - X -

@@ -1,0 +1,9 @@
+                 NFS S - S X - X
+               ERROR - - O - - O
+               FSTAB - - X - - -
+                FILE - - - X - -
+                ROOT - - - X - -
+              SYSTEM - - - O - -
+                   / - - - O - -
+               MOUNT - - - X - -
+               SHARE - - - X - -

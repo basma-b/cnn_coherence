@@ -1,0 +1,11 @@
+             DEFAULT X - - - -
+            KEYBOARD X - O - -
+              LAYOUT X - - - -
+              UBUNTU S - - - -
+           XORG.CONF - X - - -
+        XSERVER-XORG - - O - -
+                LIST - - X - -
+                DPKG - - X - -
+              CONFIG - - O - -
+            SYMLINKS - - - - O
+             DESKTOP - - - - X

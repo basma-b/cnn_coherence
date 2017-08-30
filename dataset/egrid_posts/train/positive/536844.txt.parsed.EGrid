@@ -1,0 +1,35 @@
+                  HI S - - - - - - - - - -
+                  .. O - - - - - - - - - -
+             PROBLEM O - - - - - - - - - -
+               SAMBA X X - - - - - - - - -
+                CANT X - - - - - - - - - -
+              DAEMON X - - - - - - - - - -
+               ERROR X X - - - - - - - - -
+             MESSAGE X - - - - - - - - - -
+                  PC - O - - - - - - - - -
+             DAEMONS - X - - - - - - - - -
+               -LSB- - S - - - - - - - - -
+               CHECK - O - - - - - - - - -
+/VAR/LOG/SAMBA/LOG.SMBD - X - - - - - - - - -
+              ERRORS - X - - - - - - - - -
+             NETWORK - O - - - - - - - - -
+          INTERFACES - O O - - - - - - - -
+              CONFIG - X - - - - - - - - -
+                LINE - O - - - - - - - - -
+               THERE - - S - - - - - - - -
+              REVIEW - - S - - - - - - - -
+       DOCUMENTATION - - X - - - - - - - -
+/ETC/NETWORKS/SAMBA.CONF - - O - - - - - - - -
+                FILE - - X - - - - - - - -
+                NAME - - O - X S - - - - -
+               RIGHT - - - O - - - - - - -
+              MEMORY - - - - S - - - - - -
+           INTERFACE - - - - - X - - - - -
+                  IP - - - - - - - O X - -
+         CONNECTIONS - - - - - - - - O - -
+                AUTO - - - - - - - - X - -
+                ETH0 - - - - - - - - O - -
+                DHCP - - - - - - - - X - -
+             ANOTHER - - - - - - - - O - -
+       CONFIGURATION - - - - - - - - X - -
+               THATS - - - - - - - - - X -

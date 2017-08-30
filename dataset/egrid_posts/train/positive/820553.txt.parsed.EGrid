@@ -1,0 +1,22 @@
+127.0.0.1/PHPMYADMIN X - - - - -
+                   U - X S X S -
+              INSTAL - X - - - -
+             APT-GET - X - - - -
+                  HV - - X - - -
+                SUDO - - X - - -
+             TASKSEL - - O - - -
+              APACHE - - - O - -
+                 PHP - - - X - -
+               MYSQL - - - S - -
+              CONFIG - - - X - -
+              SCREEN - - - X - -
+          PHPMYADMIN - - - - X -
+                  OK - - - - X -
+      /USR/SHARE/DOC - - - - X -
+               THERE - - - - S -
+             SYMLINK - - - - O -
+              FOLDER - - - - X -
+                 HMM - - - - X -
+/ETC/PHPMYADMIN/APACHE.CONF - - - - S -
+/ETC/APACHE2/CONF.D/PHPMYADMIN.CONF - - - - O -
+          PERMISSION - - - - - S

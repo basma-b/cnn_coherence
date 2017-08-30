@@ -1,0 +1,21 @@
+              UMOUNT X - S -
+            /DEV/FD0 S - - -
+               FSTAB X - - -
+                   $ - - S -
+/HOME/ADMIN/DESKTOP/FLOPPY - - S -
+                TYPE - - X -
+                VFAT - - X -
+                  RW - - X -
+              DEVICE - - S -
+             WINDOWS - - S -
+              FOLDER - - S -
+                ARGH - - X -
+              STRIKE - - S -
+     LIBWWW-URI-PERL - - X -
+         LIBURI-PERL - - O -
+           BACKPORTS - - O -
+              ERRORS - - S -
+                 BOT - - X -
+           W32CODECS - - O -
+             MPLAYER - - X -
+          TITEM-XINE - - O -

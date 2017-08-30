@@ -1,0 +1,12 @@
+               THERE X - - - -
+             COMMAND X - - - -
+                FILE X - - - -
+              SYSTEM O - - - -
+             INOTIFY - O - - -
+                 API - O - - -
+             PROGRAM - - O - -
+             MONITOR - - - X -
+             GKRELLM - - - S -
+                 APP - - - O -
+                  UI - - - O -
+               SHELL - - - - O

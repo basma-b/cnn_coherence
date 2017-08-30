@@ -1,0 +1,28 @@
+                   ' X - - - - X - - - - -
+                  FS X - - - - - - - - - -
+                TYPE O - O S - - - - - - -
+              OPTION O - - - - - - - - - -
+          SUPERBLOCK O - - - - - - - - - -
+           /DEV/HDA1 X - - - - - - - - - -
+              ANYONE X - - - - - - - - - -
+               DIDNT - - X - - - - - - - -
+                   A - - - X - - - - - - -
+PARTITION/FILESYSTEM - - - S - - - - - - -
+              DAMAGE - - - O - - - - - - -
+          FILESYSTEM - - - X - - - - - - -
+                   * - - - X - - - - - - -
+                FILE - - - X - - - - - - -
+              SYSTEM - - - S - - - - - - -
+                KIND - - - O - - - - - - -
+               CHECK - - - X - - - - - - -
+           CORUPTION - - - X - - - - - - -
+                THAT - - - - X O - - - - -
+                FSCK - - - - - S - - - - -
+                SUDO - - - - - S - - - - -
+/HOME/TED/MOUNTS/EXT3 - - - - - O - - - - -
+               DRIVE - - - - - O - - - - -
+                 MAP - - - - - - X - - - -
+               MOUNT - - - - - - - S - - -
+                 YEP - - - - - - - X - - -
+                 ALL - - - - - - - - S - -
+                LINE - - - - - - - - - - X

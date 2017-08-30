@@ -1,0 +1,13 @@
+               SOUND X - - - -
+          INTERFACES X - - - -
+                HW:0 - O - - -
+                HW:1 - X - - -
+             PROBLEM - O - - -
+              DETAIL - X - - -
+                 PCI - - X X -
+                 BUS - - S - -
+                CARD - - S X -
+                  .. - - X - -
+                THIS - - S - -
+               ADDON - - X - -
+              DEVICE - - X - -

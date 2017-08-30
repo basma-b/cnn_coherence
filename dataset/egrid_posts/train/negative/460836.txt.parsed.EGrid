@@ -1,0 +1,11 @@
+                FILE X S -
+             CONTENT O - -
+             KEYWORD X - -
+             EXAMPLE - X -
+             CHANNEL - O -
+            /VAR/LOG - X -
+                GREP - X -
+                 IPS - - O
+                 LAN - - X
+                SORT - - S
+               THING - - X

@@ -1,0 +1,12 @@
+              DEVICE X O -
+                NAME X - -
+            WIRELESS X X -
+                CARD X - -
+         NDISWRAPPER - X -
+                  -L - S -
+              DRIVER - S -
+                LOAD - O -
+            HARDWARE - S -
+            IWCONFIG - O -
+          EXTENSIONS - X -
+               BERYL - - O

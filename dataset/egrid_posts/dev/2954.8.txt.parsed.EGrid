@@ -1,0 +1,17 @@
+               RIGHT O - - - -
+                GRUB - X - - -
+                TEST - S - - -
+            GRAPHICS - X - - -
+               VIDEO - X - - -
+                MODE - X - - -
+             SUPPORT - X - - -
+           NOMODESET - O - - -
+                BOOT - X - - -
+               IMAGE - O - - -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/NETWORK-MANAGER/+BUG/704123 - - - - S
+             COMMENT - - - - S
+             PROBLEM - - - - X
+              UBUNTU - - - - X
+             DESKTOP - - - - X
+             UPGRADE - - - - X
+               12.04 - - - - X

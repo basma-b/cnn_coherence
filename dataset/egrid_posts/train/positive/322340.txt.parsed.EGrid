@@ -1,0 +1,9 @@
+                FLAG X X - O -
+           PARTITION X - - - O
+              ENABLE X - - - -
+               FSTAB - - X - -
+             OPTIONS - - X - -
+             GPARTED - - - X -
+                BOOT - - - X -
+            ANYTHING - - - - X
+          FILESYSTEM - - - - O

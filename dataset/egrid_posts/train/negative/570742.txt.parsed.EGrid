@@ -1,0 +1,23 @@
+            LOCATION X - - - - -
+              INSTAL S - - - - -
+             WINDOWS X - - - - -
+            PARTITON X - - - - -
+                 HDD X - - - - -
+                GRUB X X - - - -
+            MENU.LST X S - - - -
+                THIS X - X - - -
+                 HD1 X - - - - -
+                SUDO - X - - - -
+               FDISK - X - - - -
+                  -L - X - - - -
+              NUMBER - S - - - -
+                ZERO - X - - - -
+         UPDATE-GRUB - O - - - -
+               DRIVE - X - - - -
+          ASSISTANCE - - X - - -
+                STEP - - - - X -
+        INSTALLATION - - - - X -
+            KEYBOARD - - - - X -
+               MODEL - - - - O -
+               HTTPS - - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/LINUX-META/+BUG/221282 - - - - - X

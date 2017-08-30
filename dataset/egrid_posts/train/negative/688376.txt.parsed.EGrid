@@ -1,0 +1,15 @@
+                 CAT X - - -
+/SYS/DEVICES/SYSTEM/CPU/CPU1/CPUFREQ/SCALING_GOVERNO S - - -
+           POWERSAVE O O - -
+             DEFAULT X X - -
+            GOVERNOR X - - -
+                BOOT X - - -
+/SYS/DEVICES/SYSTEM/CPU/CPU1/CPUFREQ/SCALING_GOVERNOR - - O -
+       /ETC/RC.LOCAL - - X -
+               SCALE - - O -
+            ONDEMAND - - X -
+              MINUTE - - X -
+              THANKS - - - X
+                TONS - - - X
+                 MAN - - - X
+                   D - - - X

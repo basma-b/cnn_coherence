@@ -1,0 +1,21 @@
+             DESKTOP - X - -
+         ENVIRONMENT - X - -
+                 USE - X - -
+               UNITY - X - -
+                XFCE - O - -
+                LXDE - X - -
+             FLUXBOX - O - -
+             APT-GET - X - -
+                   $ - - O -
+                THAT - - O -
+              KERNEL - - S -
+                 PID - - X -
+                FILE - - O -
+            /VAR/RUN - - X -
+               CHILD - - X -
+             PROCESS - - X -
+          BACKGROUND - - X -
+               TRACK - - O X
+            OPERATOR - - O -
+                PIDS - - - S
+//STACKOVERFLOW.COM/QUESTIONS/8279848/SUPERVISORD-ADDING-MULTIPLE-PROCESSES-FOR-PHP-AND-GEARMAN - - - X

@@ -1,0 +1,15 @@
+                PATH X X O - X
+            VARIABLE X - - - -
+              EXPORT - X - - -
+ PATH=/NEW/PATH/HERE - X - - -
+              REBOOT - S - - -
+                 AHH - X - - -
+              SYSTEM - X - - -
+   /ETC/GDM/GDM.CONF - - S - -
+                FILE - - X - -
+                  RE - - - - X
+               SHELL - - - - X
+                MAIL - - - - X
+            NOTIFIER - - - - O
+               POP3S - - - - X
+                  .. - - - - O

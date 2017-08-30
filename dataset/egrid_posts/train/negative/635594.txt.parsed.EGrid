@@ -1,0 +1,11 @@
+                KILL X - -
+                -HUP X - -
+             PROCESS - O -
+            TERMINAL - O -
+               NGINX - O -
+              VHOSTS - O -
+         CONNECTIONS - X -
+               VHOST - X -
+      PARTITIONMAGIC - - X
+    PARTITIONMANAGER - - S
+                CANT - - X

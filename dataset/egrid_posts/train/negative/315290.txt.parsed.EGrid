@@ -1,0 +1,23 @@
+                 MAN X - - - - - -
+          INTERFACES O - - - - - -
+                CASE X - - - - - -
+                RULE O - - - - - -
+/ETC/NETWORK/INTERFACES S - - - - - -
+                 WAY - X - - - - -
+            WIRELESS - X - - - - -
+            HARDWARE - X - X - - -
+              DRIVER - X - - - - -
+                  PC - - X - - - -
+                CARD - - X - - - -
+                 NIC - - X - - - -
+               CHARM - - X - - - -
+             DRIVERS - - - S - - -
+              KERNEL - - - X - - -
+             MODULES - - - O - - -
+               LSMOD - - - X - - -
+                LIST - - - X - - -
+                SIGH - - - - S - -
+                 GOT - - - - X - -
+                DUMP - - - - O - -
+                 YEP - - - - - X -
+           MEDIBUNTU - - - - - - S

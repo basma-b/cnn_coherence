@@ -1,0 +1,12 @@
+              .GCONF X - - - - -
+               GNOME - X - - - -
+              SUDOER - - X - - -
+              DELETE - - - X - -
+              RENAME - - - O - -
+              GCONFD - - - O - -
+             SESSION - - - X - -
+              REBOOT - - - - O -
+         CTRL-ALT-F1 - - - - S -
+               GCONF - - - - X -
+           BACKPORTS - - - - - S
+                 GUY - - - - - X

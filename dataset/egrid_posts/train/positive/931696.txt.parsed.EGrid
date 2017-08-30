@@ -1,0 +1,7 @@
+                DISK S - - -
+           PARTITION - S - -
+               /BOOT - O - -
+              KERNEL - - X -
+                 USE - - X S
+                  -R - - X -
+             PACKAGE - - - X

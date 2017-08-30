@@ -1,0 +1,23 @@
+             PROBLEM - O - - - - -
+LANGUAGE-SELECTOR-COMMON - X - - - - -
+          SUBPROCESS - X - - - - -
+              SCRIPT - X - - - - -
+              RETURN - X - - - - -
+               ERROR - X - - - - -
+                EXIT - X - - - - -
+              STATUS - X - - - - -
+              OUTPUT - X - - O - -
+               ISSUE - - - X - - -
+                 BUG - - - - S - -
+                FILE - - - - O - -
+                 FIX - - - - S - -
+                IIRC - - - - X - -
+                HAND - - - - X - -
+                THIS - - - - - S -
+                MORE - - - - - O -
+            QUESTION - - - - - X -
+                DPKG - - - - - S -
+               GUESS - - - - - S -
+                MINE - - - - - X -
+                 SID - - - - - - X
+           FORGOTTON - - - - - - X

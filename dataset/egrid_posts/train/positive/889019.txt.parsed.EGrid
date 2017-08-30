@@ -1,0 +1,11 @@
+               TABLE X - - - - -
+                DISC S - - - - -
+            TESTDISK - S - - - -
+          FILESYSTEM - X - - - -
+                TYPE - O - - - -
+                 GPT - - O - - -
+             GPARTED - - S - - -
+           PARTITION - - - - X -
+               LABEL - - - - O O
+                   L - - - - - S
+             WINDOWS - - - - - S

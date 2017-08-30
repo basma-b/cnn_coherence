@@ -1,0 +1,17 @@
+             COMMAND X - - -
+             VERISON X - - -
+                 RUN X - - -
+           MENU.LIST - O - -
+                 USE - O - -
+              BOOTUP - X - -
+       INSTALLATIONS - O - -
+                  ID - S S -
+                 ONE - - S -
+                 MBR - - X S
+        GRUB-INSTALL - - X -
+            /DEV/HDA - - S -
+                  IM - - - S
+               DRIVE - - - O
+                GRUB - - - S
+                 HDA - - - X
+               STORE - - - X

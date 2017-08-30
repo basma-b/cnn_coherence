@@ -1,0 +1,15 @@
+                 SMB X X - - - - -
+               MOUNT X - - - - - X
+               SETUP O - - - - - -
+               FSTAB X - - - - - -
+                BOOT - X - - - - -
+              SYSTEM - O - - - - -
+                 ALL - S X - - - -
+                NTFS - S - - - - -
+                  -A - - O - - - S
+                HTIS - - X - - - -
+             NETWORK - - - X X - S
+                 INS - - - S - - -
+             MANAGER - - - - X - -
+                 NET - - - - - - S
+             STARTUP - - - - - - X

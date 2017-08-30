@@ -1,0 +1,11 @@
+         DIRECTORIES X - -
+               /HOME X - -
+             UPGRADE X - -
+              BACKUP - O -
+               SAMBA - O -
+ /ETC/SAMBA/SMB.CONF - O -
+              APACHE - O -
+            /VAR/WWW - O -
+                DATA - S -
+                WORK - - O
+               ERROR - - O

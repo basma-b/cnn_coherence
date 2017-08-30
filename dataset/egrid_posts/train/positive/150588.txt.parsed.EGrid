@@ -1,0 +1,26 @@
+              SERVER S - - - -
+            USERNAME - - S - -
+           127.0.0.1 - - S - -
+             MACHINE - - X - -
+             NETWORK - - S - -
+                 ^^^ - - - S -
+             COMMAND - - - X -
+          REASONABLE - - - S -
+         CONNECTIONS - - - X -
+             OUTWARD - - - X -
+                BIND - - - O -
+               CLOSE - - - O -
+                  CD - - - - X
+                 T_T - - - - X
+                   W - - - - X
+                STAT - - - - O
+              SOURCE - - - - X
+             PACKAGE - - - - X
+                LIST - - - - X
+                HTTP - - - - O
+          HOARY/MAIN - - - - X
+            PACKAGES - - - - O
+/VAR/LIB/APT/LISTS/PH.ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_HOARY_MAIN_BINARY-I386_PACKAGES - - - - X
+                  NO - - - - X
+                FILE - - - - X
+           DIRECTORY - - - - X

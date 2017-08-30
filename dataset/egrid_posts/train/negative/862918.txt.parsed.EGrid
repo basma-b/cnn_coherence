@@ -1,0 +1,15 @@
+            TERMINAL X - - - -
+           SSHSERVER - X - - -
+                  -D - X - - -
+      127.0.0.1:1080 - X - - -
+               PROXY - O - - -
+              EXPORT - - - X -
+         HTTP_PROXY= - - - X -
+                HTTP - - - X -
+       //MYPROXY.COM - - - X -
+                PATH - - - - O
+                   > - - - - X
+                HOME - - - - X
+           DIRECTORY - - - - X
+                USER - - - - X
+             CRONTAB - - - - X

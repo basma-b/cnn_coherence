@@ -1,0 +1,26 @@
+              SYSTEM - X - - - - - - - - - - -
+             NETWORK - X - - X - - - - X - - -
+          CONNECTION - - X - - - - X - - - - -
+               SETUP - - S - - - - - - - - - -
+                ADSL - - X - - - - - - - - - -
+              ROUTER - - S - - - - - - - X - -
+            WIRELESS - - X - - - - - - - X - -
+                 SSH - - - X - - - - - - X - -
+             ROUTERS - - - S - X - - - X - - -
+                PORT - - - X - - - - - X - - -
+             OUTSIDE - - - - X - - - - - - - -
+             SYSTEMS - - - - X - - - - - - - -
+             PROBLEM - - - - - O - - - - - - -
+              OPTION - - - - - O - - - - - - -
+              CONFIG - - - - - - O - - - - - -
+                WORK - - - - - - X - - - - - -
+               STATE - - - - - - X - - - - - -
+SSH_EXCHANGE_IDENTIFICATION - - - - - - - X - - - - -
+                HOST - - - - - - - X - - - - -
+               ERROR - - - - - - - O - - - - -
+                THIS - - - - - - - - X - - - -
+               ISSUE - - - - - - - - - X - - -
+         192.168.1.4 - - - - - - - - - - X - -
+                 TCP - - - - - - - - - - S - -
+       CONFIGURATION - - - - - - - - - - X - -
+                 USE - - - - - - - - - - X - -

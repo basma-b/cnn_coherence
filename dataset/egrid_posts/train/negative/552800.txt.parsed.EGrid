@@ -1,0 +1,17 @@
+             .CONFIG X - - -
+                FILE O - - -
+              KERNEL O - - -
+             PROCESS X - - -
+          MENUCONFIG X - - -
+                LOAD X - - -
+              CONFIG O - - -
+              DRIVER O X - -
+              MODULE S X - -
+                LINK X - - -
+           SOMETHING - X - -
+        DEPENDENCIES - S - -
+                THAT - - O -
+              CHANGE - - O -
+            ANYTHING - - X -
+                 THX - - X -
+              PARDON - - - X

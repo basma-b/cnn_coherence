@@ -1,0 +1,10 @@
+         NDISWRAPPER - X - - - - -
+                 YES - - S - - - -
+               REPOS - - X - - - -
+              SOURCE - - X - - - -
+                   ' - - - S - - -
+/ETC/MODPROBE.D/BLACKLIST - - - O - - -
+               THERE - - - S O - -
+                LINE - - - O - - -
+             BCM43XX - - - X - - -
+                 ISI - - - - X - -

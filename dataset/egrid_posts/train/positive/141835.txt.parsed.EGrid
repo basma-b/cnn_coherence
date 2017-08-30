@@ -1,0 +1,17 @@
+             PROCESS S - - - - - - - -
+              SIGNAL X - - - - - - - -
+                TIME - X - - - - - - -
+             WARNING - X - - - - - - -
+                USER - X - - - - - - -
+          PERMISSION - X - - - - - - -
+               SETUP - X - - - - - - -
+            SCHEDULE - X - - - - - - -
+               POWER - - X - - - - - -
+         CALIBRATION - - S - - - - - -
+                  .. - - O - - - - - -
+               ERROR - - X O X - - - -
+                 USE - - - X - - - - -
+              OPTION - - - X - - - - -
+               FORCE - - - X - - - - -
+                FAIL - - - - O - - - -
+               PASTE - - - - - - - X -

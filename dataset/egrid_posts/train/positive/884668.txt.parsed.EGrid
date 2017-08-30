@@ -1,0 +1,11 @@
+           PARTITION O - - - X -
+              REBOOT X X - - - -
+               MOUNT - X - - - -
+             COMMAND - X - - - -
+          /ETC/FSTAB - X - - - -
+                SUDO - S - - - -
+                 HMM - - X - - -
+               ENTRY - - O - - -
+               FSTAB - - X X - -
+             OPTIONS - - - O O -
+             DEFAULT - - - - - X

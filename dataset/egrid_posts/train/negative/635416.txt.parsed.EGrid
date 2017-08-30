@@ -1,0 +1,15 @@
+       CONFIGURATION S - S - -
+               BREAK O - X - -
+                 SOL - - O - -
+              SERVER - - - S -
+                  W/ - - - S -
+                SITE - - - X -
+                FILE - - - X -
+          APACHE2CTL - - - S -
+             MODULES - - - - O
+        /ETC/MODULES - - - - X
+   CPUFREQ_POWERSAVE - - - - X
+    CPUFREQ_ONDEMAND - - - - X
+ CPUFREQ_PERFORMANCE - - - - X
+CPUFREQ_CONSERVATIVE - - - - S
+              REBOOT - - - - O

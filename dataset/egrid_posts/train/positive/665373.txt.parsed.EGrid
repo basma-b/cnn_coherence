@@ -1,0 +1,16 @@
+          FILESYSTEM X X - - - X - - -
+             UPGRADE - X - - - - - - -
+                EXT3 - - O - - - - - -
+             TUNE2FS - - X - - - - - -
+             EXTENTS - - X - - - - - -
+           UNINIT_BG - - X - - - - - -
+           DIR_INDEX - - X - - - - - -
+            /DEV/MD0 - - O - - - - - -
+              FOLLOW - - O - - - - - -
+             WARNING - - X - - - - - -
+               MOUNT - - - - - X - X -
+              E2FSCK - - - - - O - - -
+              DAMAGE - - - - - O - - -
+           PARTITION - - - - - - - O -
+               -RSB- - - - - - - - O -
+                  CD - - - - - - - - O

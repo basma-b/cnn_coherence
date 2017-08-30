@@ -1,0 +1,16 @@
+             MACHINE X X - - X - -
+                PORT - O - - - - -
+          CONNECTION - X - - - - -
+              REFUSE - S - - - - -
+                SSHD - O - O - - -
+                  PC - O X - - - -
+             NETWORK - X - - - - -
+      SERVICES-ADMIN - - - X - - -
+             COMMAND - - - S - - -
+             SERVICE - - - S - - -
+                SUDO - - - X - - -
+             APT-GET - - - S - - -
+                 ONE - - - S - - -
+      OPENSSH-SERVER - - - O - - -
+              SERVER - - - X - - -
+                THAT - - - - - - X

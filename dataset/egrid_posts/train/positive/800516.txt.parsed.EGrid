@@ -1,0 +1,9 @@
+               PROXY O - - X
+             NETWORK X - - -
+         ENVIRONMENT S - - -
+   //127.0.0.1:8086/ S - - -
+            TERMINAL O - - -
+            SOFTWARE O - - -
+           ~/.BASHRC - - X -
+               THERE - - - S
+                WORD - - - X

@@ -1,0 +1,25 @@
+            IFCONFIG - O - - - - - - - - - - -
+              LAPTOP - X - - - - - - S - - - -
+                  GB - X - - - - - - - - - - -
+              RETURN - X - - - - - - - - - - -
+          SIOCSIFMTU - X - - - - - - - - - - -
+            ARGUMENT - X - - - - - - - - - - -
+                  UB - - X - - - - - X - - - -
+              ADVICE - - - X - - - - - - - - -
+              RESULT - - - - X - - - - - - - -
+                ETH0 - - - - - X - - - - - - -
+                 MTU - - - - - S - - - - X - -
+                LINE - - - - - O - - - - - - -
+             SECTION - - - - - X - - - - - - -
+/ETC/NETWORK/INTERFACES - - - - - X - - - - - - -
+              REBOOT - - - - - X - - - - - - -
+             NETWORK - - - - - - X - - - - - -
+             MANAGER - - - - - - S - - - - - -
+                THIS - - - - - - - O - - - - -
+                 SSH - - - - - - - X - - - - -
+             EDITION - - - - - - - - O - - - -
+                 GUI - - - - - - - - - X - - -
+              ERRORS - - - - - - - - - - S - -
+                  AN - - - - - - - - - - - - S
+                 NAP - - - - - - - - - - - - O
+                BOOT - - - - - - - - - - - - X

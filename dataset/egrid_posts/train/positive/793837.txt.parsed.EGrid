@@ -1,0 +1,17 @@
+              ANYONE X - - - - - - -
+               CUPSD O - - - - - - -
+               10.10 X - - - - - - -
+             PROBLEM - - S - - - - -
+        SYSV-RC-CONF - - - X - - - -
+             UPSTART - - - X - - - -
+                 JOB - - - O - - - -
+               START - - - - X - - -
+               NEVER - - - - O - - -
+           CONDITION - - - - X - - -
+                BOOT - - - - X - - -
+ /ETC/INIT/CUPS.CONF - - - - X - - X
+             UPGRADE - - - - X - - -
+              INSTAL - - - - - X - -
+                 MMM - - - - - X - -
+                 CUP - - - - - - O -
+      UBUNTU-DESKTOP - - - - - - O -

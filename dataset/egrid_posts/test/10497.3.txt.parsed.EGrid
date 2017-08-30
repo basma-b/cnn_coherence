@@ -1,0 +1,16 @@
+                BOOT X - - - -
+              LIVECD X - - - -
+                ROOT O - - - -
+                /USR S - X - -
+   /MNT/OLDROOT/USR/ S - - - -
+        /MNT/NEWUSR/ S - - - -
+               FSTAB X - - - -
+              REBOOT O - - - -
+           HOPEFULLY - X - - -
+          EVERYTHING - - O - -
+           PARTITION - - O - -
+               THERE - - X - -
+             PROBLEM - - X - -
+             COMMAND - - X - X
+   /ETC/INIT.D/NGINX - - - - X
+               QUEUE - - - - X

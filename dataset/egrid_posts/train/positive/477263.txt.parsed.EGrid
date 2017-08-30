@@ -1,0 +1,36 @@
+               ERROR O - X - - - - - - -
+          SUGGESTION - S - - - - - - - -
+  /USR/BIN/X11/XAUTH - - X - - - - - - -
+           AUTHORITY - - X - - - - - - -
+                FILE - - X - - O - - - -
+/HOME/SIVAM/.XAUTHORITY - - X X - - - - - -
+         .XAUTHORITY - - X X - - X - - -
+       ~/.XAUTHORITY - - - X - - - - - -
+                 -RW - - - X - - - - - -
+                ROOT - - - S - X - - - -
+           OWNERSHIP - - - O - - - - - -
+                USER - - - X - - - - - -
+                SUDO - - - X - - - - - -
+               CHOWN - - - X - - - - - -
+               SIVAM - - - X - - - - - -
+            INSTANCE - - - O - - - - - -
+                NAME - - - S - - - - - -
+         PERMISSIONS - - - - X - - - - -
+                MESS - - - - X - - - - -
+          /HOME/SIVA - - - - - S - - - -
+          DRWXR-XR-X - - - - - X - - - -
+                HOME - - - - - X - - - -
+                 DIR - - - - - X - - - -
+                   ~ - - - - - - O - - -
+PERMISSIONS/OWNERSHIP - - - - - - S - - -
+             DISPLAY - - - - - - - X - -
+            VARIABLE - - - - - - - O - -
+              EXPORT - - - - - - - X - -
+            DISPLAY= - - - - - - - S - -
+                   > - - - - - - - O - -
+                 0.0 - - - - - - - X - -
+              XCLOCK - - - - - - - O - -
+            PROTOCOL - - - - - - - S - -
+                WORK - - - - - - - - - O
+               STUFF - - - - - - - - - O
+                   X - - - - - - - - - X

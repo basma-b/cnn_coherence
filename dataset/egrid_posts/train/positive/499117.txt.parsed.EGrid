@@ -1,0 +1,15 @@
+             NETBIOS O O - - -
+            FIREWALL X O X - -
+              UBUNTU - S - - -
+            HOSTNAME - X - - -
+             ANYBODY - S - - -
+         FIRESTARTER - - X - -
+          EVERYTHING - - S - -
+              ACCESS - - O - -
+                 GUI - - X - -
+            IPTABLES - - S - -
+          YOURSYSTEM - - X - -
+            NSSWITCH - - O - -
+                 WIN - - - - O
+                HOST - - - - X
+             NETWORK - - - - O

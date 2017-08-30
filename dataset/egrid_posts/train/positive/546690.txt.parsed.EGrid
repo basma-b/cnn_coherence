@@ -1,0 +1,11 @@
+                NTFS X - - -
+           PARTITION X - - -
+               LINUX X - - X
+                LILO - S - -
+                BOOT - X - -
+             MANAGER - O - X
+             RELEASE - S - -
+              UBUNTU - X - -
+                GRUB - - O -
+             DEFAULT - - X -
+                LIVE - - - X

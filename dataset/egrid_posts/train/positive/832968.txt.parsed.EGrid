@@ -1,0 +1,17 @@
+               SHELL X - X - - - -
+              SCRIPT X - X - - - -
+                FILE - O - - X - -
+             FOLDERS - X - - - - -
+           SUBFOLDER - X - - - - -
+              FOLDER - X - - - - -
+                THIS - - O - - - -
+                HELP - - - X - - -
+                  .H - - - - S - -
+               RSYNC - - - - O - -
+./PATH/TO/YOURS/FILES/ - - - - S - -
+           LINK_STAT - - - - X - -
+           DIRECTORY - - - - S - -
+           REPERTORY - - - - X - -
+                PATH - - - - X - -
+                COPY - - - - - X -
+                TOOL - - - - - O -

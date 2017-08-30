@@ -1,0 +1,21 @@
+                BOOT X - - - -
+             DESKTOP O - - - -
+               LOGIN X - - - -
+              SCREEN X - - - -
+           VNCSERVER - S - - -
+              ACCESS - - O - -
+                 BOX - - X - -
+                WORD - - - X -
+                 LOG - - - X -
+                USER - - - S -
+             FEATURE - - - O -
+                 GDM - - - X -
+             CONTROL - - - X -
+              APPLET - - - X -
+                   * - - - X -
+                 TAB - - - X -
+         MOUNTPOINTS - - - - S
+         DIRECTORIES - - - - X
+                  DD - - - - X
+       IF=/DEV/CDROM - - - - X
+OF=/PATH/TO/IMAGE.ISO - - - - O

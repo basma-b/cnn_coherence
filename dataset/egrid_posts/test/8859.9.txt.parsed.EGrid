@@ -1,0 +1,12 @@
+           XORG.CONF O O - - -
+       AUTODETECTION X - - - -
+       CONFIGURATION O - X - -
+              V-SYNC O - - - -
+             NOUVEAU X - - - -
+          EVERYTHING - O - - -
+                FILE - - O - -
+              NVIDIA - - - X -
+              DRIVER - - - X -
+                THAT - - - - X
+                HOST - - - - X
+                BOOT - - - - X

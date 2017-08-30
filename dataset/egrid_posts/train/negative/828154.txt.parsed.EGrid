@@ -1,0 +1,23 @@
+                BOOT - S - X - - - - - - -
+             LIVEUSB - X - - - - - - - - -
+               DRIVE - X X X - - X - - - -
+           PARTITION - X - X - - - - - - -
+            /VAR/LOG - X - - - - - - - - -
+               THUMB - - X S - - - - - - -
+                HARD - - - X - - - - - - -
+              NUMBER - - - O - - - - - - -
+             MACHINE - - - X - - - - - - -
+                 ALL - - - S - - - - - - -
+                THIS - - - S - - - - - - -
+              RECORD - - - X - - - - - - -
+              THINGS - - - O - - - - - - -
+       /VAR/LOG/BOOT - - - S - - - - - - -
+               SETUP - - - X - - - - - - -
+               DELAY - - - - - X - - - - -
+          CONNECTION - - - - - X - - - - -
+             PROBLEM - - - - - X - - - - -
+              SYSTEM - - - - - - X - - - -
+                 ONE - - - - - - - X - - -
+                  CD - - - - - - - - - X -
+          PASSPHRASE - - - - - - - - - - S
+ECRYPTFS-RECOVER-PRIVATE - - - - - - - - - - S

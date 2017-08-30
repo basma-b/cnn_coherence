@@ -1,0 +1,17 @@
+                 ONE S - - - -
+         ENVIRONMENT O - - - -
+              LIVECD X - - - -
+              CHROOT X - - - -
+               ENUFF O X - - -
+                  IE - S - - -
+ FILESYSTEM.SQUASHFS - O - - -
+           DIRECTORY - X - - -
+                USER - X - - -
+                JAIL - X - - -
+             OPTIONS - - X - -
+             SERVICE - - - X -
+                 I/O - - - S X
+           INTERRUPT - - - - S
+              SYSTEM - - - - X
+              FREEZE - - - - O
+            WIRELESS - - - - X

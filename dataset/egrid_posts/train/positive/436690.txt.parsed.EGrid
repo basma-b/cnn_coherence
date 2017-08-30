@@ -1,0 +1,11 @@
+                SUDO X - -
+              ACCESS O - -
+            PASSWORD X S -
+          COMPROMISE - S -
+           WEBSERVER - X -
+              SYSTEM - X -
+             COMMAND - O -
+                LINE - - S
+        ALL=NOPASSWD - - X
+          /BIN/FUSER - - X
+        /BIN/NETSTAT - - X

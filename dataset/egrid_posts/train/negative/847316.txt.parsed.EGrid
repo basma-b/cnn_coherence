@@ -1,0 +1,10 @@
+           VNCSERVER S - -
+             DEFAULT X - -
+               WHATS O - -
+        VNC/XSESSION - S -
+                FILE - O -
+          MARS:2.LOG - X -
+          MARS:2.PID - X -
+              PASSWD - X -
+            XSTARTUP - O -
+               THANX - - X

@@ -1,0 +1,7 @@
+                BODY S -
+              FORMAT O -
+           PARTITION X -
+            TESTDISK O -
+               AMNOW - X
+                 USE - S
+               10.10 - O

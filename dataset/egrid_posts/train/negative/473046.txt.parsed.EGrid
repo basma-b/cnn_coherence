@@ -1,0 +1,69 @@
+                UDEV O - - - - - S - - - - - - -
+         PERMISSIONS O O - - X - - - X - - - O -
+           OWNERSHIP X - - - - - S - - - - - - -
+             DEVICES X - - - - - - X X - - - - -
+40-PERMISSIONS.RULES - X - - - - - - - - - - - -
+40-BASIC-PERMISSIONS.RULES - X - - - - - - - - - - - -
+              EFFECT - X - - - - - - - - - - - -
+              DEVICE - X - X - - S X - - - - X -
+                MODE - - O - - - - - - - - - - -
+               GROUP - - X X - - - - - - - - - -
+             UML-NET - - O - - - X X - - - - - -
+        /DEV/NET/TUN - - X - - - - - - - - - - -
+               CHOWN - - X - - - - - - - - - - -
+               CHMOD - - X - - - - - - - - - - -
+                WORK - - X - - - - - - - - - - -
+                RULE - - O - - - O - - - - - - -
+                 HMM - - X - - - - - - - - - - -
+               THERE - - S - - - S S - - - - - -
+                 WAY - - O - - - - - - - - - - -
+                THIS - - X - - - - X - - - - - -
+             DEFAULT - - - X - - - - - - - - - -
+                ROOT - - - - X S - - - - - - - -
+                 CRW - - - - - S - - - - - - - -
+               19:49 - - - - - S - - - - - - - -
+                READ - - - - - O - - - - - - - -
+                THAT - - - - - - X - - - - - - -
+                FILE - - - - - - X - - - - - - -
+              CHANGE - - - - - - S - - - - - - -
+                HTTP - - - - - - X - - - - X X -
+                CASE - - - - - - X - - - - - - -
+            KERNEL== - - - - - - X X - - - - - -
+                 TUN - - - - - - X X - - - - - -
+              GROUP= - - - - - - X O - - - - - -
+               MODE= - - - - - - S S - - - - - -
+               THING - - - - - - S - - - - - - -
+             RULES.D - - - - - - X - - - - - - -
+                   * - - - - - - X S X - - - - -
+40-BASIC-PERMISSIONS-RULES - - - - - - X - - - - - - -
+             KERNEL= - - - - - - S - - - - - - -
+            DOCUMENT - - - - - - X - - - - - - -
+              COUPLE - - - - - - O - - - - - - -
+           UTILITIES - - - - - - X - - - - - - -
+            UDEVINFO - - - - - - X - - - - - - -
+          PROPERTIES - - - - - - O - - - - - - -
+                NAME - - - - - - O O S O - - - -
+      20-NAMES.RULES - - - - - - X - S - - - - -
+               NAME= - - - - - - S X - - - - - -
+                   % - - - - - - O X - - - - - -
+                   K - - - - - - S X - - - - - -
+          /ETC/UDEV/ - - - - - - - X - - - - - -
+/ETC/UDEV/RULES.D/20-NAMES.RULES - - - - - - - X - - - - - -
+/ETC/UDEV/RULES.D/40-BASIC-PERMISSIONS.RULES - - - - - - - X - - - - - -
+              LATTER - - - - - - - O - - - - - -
+                NONE - - - - - - - S - - - - - -
+              KERNEL - - - - - - - X - - - - - -
+          PERMISSION - - - - - - - O - - - - - -
+                LOOK - - - - - - - - O - - - - -
+             COMMENT - - - - - - - - X - - - - -
+               SENSE - - - - - - - - O - - - - -
+       CONFIGURATION - - - - - - - - O - - - - -
+              LITTLE - - - - - - - - - X - - - -
+                SAME - - - - - - - - - - S - - -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - - - - - - - - - - X - -
+            T=449493 - - - - - - - - - - - - X -
+                ELSE - - - - - - - - - - - - S -
+              SCRIPT - - - - - - - - - - - - X -
+       /ETC/RC.LOCAL - - - - - - - - - - - - X -
+//WWW.SHAREDMEMORY.NET/MYWIKI/VIRTUALBOX - - - - - - - - - - - - S -
+             PROGRAM - - - - - - - - - - - - - O

@@ -1,0 +1,10 @@
+             COMMAND X - - -
+             SERVICE - O X -
+                SYSV - - X -
+              SCRIPT - - O -
+                   < - - X -
+                NAME - - X -
+                   > - - X -
+  START/STOP/RESTART - - S -
+            SYNAPTIC - - - X
+             PROBLEM - - - O

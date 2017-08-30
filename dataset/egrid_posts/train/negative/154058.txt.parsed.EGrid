@@ -1,0 +1,26 @@
+            GDMSETUP S - - - - - - - - -
+        REPOSITORIES X - - - - - - - - -
+       WPASUPPLICANT - S - - - - - - - -
+              DAPPER - X - - - - - - - -
+         CONNECTIONS - - S - - - - - - -
+/ETC/NETWORK/INTERFACES - - X - - - - - - -
+                 WPA - - S - - - - - - -
+              CONFIG - - - X - - - - - -
+                FILE - - - X - - - - - -
+                 KEY - - - X - - - - - -
+            PASTEBIN - - - - S - - - - -
+                ETH1 - - - - S O S - - -
+            WIRELESS - - - - X - X - - -
+           INTERFACE - - - - X X X - - -
+                  .. - - - - O O X - - -
+                  YA - - - - S - - - - -
+        UNDERTANDING - - - - - X - - - -
+                SUDO - - - - - X - - - -
+                IFUP - - - - - X - - - -
+             VERBOSE - - - - - X - - - -
+                 RUN - - - - - - X - - -
+               YOURS - - - - - - X - - -
+              COURSE - - - - - - X - - -
+            QUESTION - - - - - - - O - -
+                PATH - - - - - - - X - -
+                THAT - - - - - - - - - S

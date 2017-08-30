@@ -1,0 +1,13 @@
+             SERVICE S - - -
+                 TCP X - - -
+                PORT - X - -
+             PROCESS - X S -
+             NETSTAT - - X -
+                -LNP - - S -
+             NETWORK - - X -
+             SOCKETS - - X -
+                PIPE - - X -
+              OUTPUT - - O -
+                LESS - - X -
+                GREP - - X -
+             KEYWORD - - - X

@@ -1,0 +1,11 @@
+               ERROR S - - O
+          FILESYSTEM X - - -
+                   > X - - -
+              BACKUP S - - -
+                  .. O - O -
+                GRUB - - S -
+                THIS - - - S
+           PARTITION - - - X
+              DEVICE - - - O
+               /BOOT - - - X
+               BLOCK - - - X

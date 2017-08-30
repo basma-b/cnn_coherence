@@ -1,0 +1,12 @@
+               ISSUE O - - - - -
+               CHOWN X - - - - -
+                ROOT X - - - - -
+                  IM S - - - - -
+           OPERATION S - - - - -
+               SAMBA X - - - - -
+               SHARE O - - - - -
+                TIME - X - - - -
+         PERMISSIONS - X - - - -
+           UMASK=000 - - X - - X
+              OPTION - - X - - X
+             OPTIONS - - - X - -

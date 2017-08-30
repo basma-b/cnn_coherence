@@ -1,0 +1,13 @@
+                FILE O - - -
+                CALL X - - -
+       /DEV/RANDBOOL O - - -
+              NUMBER O - - -
+                BITE X - - -
+             PROGRAM X - - -
+       /BIN/RANDBOOL X - - -
+               .SOCK - X - -
+        /DEV/URANDOM - - S -
+                   U - - S -
+              DETAIL - - - X
+                INFO - - - X
+                 WIN - - - X

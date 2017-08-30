@@ -1,0 +1,12 @@
+                   > O - - - -
+/PROC/DEV/RTC/MAX_USR-FREW X - - - -
+              SCRIPT S - - - -
+                 USE O - - - -
+                 ONE S - - - -
+                 TWO X - - - -
+              SYNTAX O - - - -
+                 ALL O - - - -
+                FILE - X - - -
+                 BOX - X - - -
+               CHECK - - - - X
+    /ETC/SYSCTL.CONF - - - - X

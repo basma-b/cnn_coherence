@@ -1,0 +1,17 @@
+              SYNTAX X - S -
+              FOLDER O - - -
+                USER X - - -
+                THAT - O - -
+                ROOT - S - -
+                SUDO - X X -
+               CHOWN - X - -
+                   < - X - -
+                  TY - S S -
+             COMMAND - O - -
+               GROUP - O - -
+                   > - - S -
+            /FOO/BAR - - X -
+                  .. - - X -
+              CHAOWN - - S -
+                 ALL - - O -
+        DEPENDENCIES - - - O

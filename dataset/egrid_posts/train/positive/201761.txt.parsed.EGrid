@@ -1,0 +1,13 @@
+         PERMISSIONS X - - - - -
+                FILE X O - - - -
+               OWNER X O - - - -
+                FLAG - O - - - -
+                SUDO - O - - - -
+                ROOT - X - - - -
+             COMMAND - X - - - -
+               ORDER - S - - - -
+             PROCESS - - - - X -
+                  PS - - - - X -
+                KILL - - - - - X
+                WORK - - - - - X
+                   > - - - - - X

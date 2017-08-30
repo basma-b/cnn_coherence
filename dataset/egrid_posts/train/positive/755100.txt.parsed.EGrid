@@ -1,0 +1,12 @@
+                PATH X - O
+            FILE.FOO X - X
+              |XARGS X - -
+               STUFF O - -
+                  NO X - -
+             CONTENT - O O
+                FILE - X X
+              STRING - X -
+               VALUE - X -
+               -EXEC - - S
+         STRINGSTUFF - - X
+                   + - - S

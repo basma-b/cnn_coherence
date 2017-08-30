@@ -1,0 +1,7 @@
+           PARTITION O - -
+               FDISK X - -
+              FORMAT X - -
+         COMMANDLINE X - -
+           MKFS.EXT3 - S -
+              IKONIA - - X
+                  TY - - X

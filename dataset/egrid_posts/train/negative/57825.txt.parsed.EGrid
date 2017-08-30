@@ -1,0 +1,15 @@
+        /ETC/APACHE2 S - - -
+             APT-GET X - - -
+             APACHE2 S S - -
+                FILE X - - -
+                LOOK - X - -
+/USR/SHARE/DOC/APACHE2/EXAMPLES - X - -
+     APACHE2.CONF.GZ - S - -
+                THAT - - S -
+             DEFAULT - - X -
+        APACHE2.CONF - - X -
+           PARTITION - - - S
+              VOLUME - - - X
+          DIFFERENCE - - - X
+              INSTAL - - - X
+          FILESYSTEM - - - X

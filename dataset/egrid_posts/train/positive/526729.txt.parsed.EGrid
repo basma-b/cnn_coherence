@@ -1,0 +1,12 @@
+                 USB X - - - -
+             DRIVERS X - - - -
+               ENTRY - X - - -
+                SUDO - - S - -
+                   < - - O - -
+              MODULE - - S - -
+                 USE - - X - -
+         MODPROBE.D/ - - - X -
+             OPTIONS - - - S -
+QUIRKS=15A4:1001:0X0004 - - - O -
+               LSMOD - - - - S
+                LOAD - - - - X

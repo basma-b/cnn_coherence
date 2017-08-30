@@ -1,0 +1,50 @@
+                THIS X X - - - - - - - - - - - - - - - - -
+             PROBLEM X - - X - - - - - - - - - - - - - - -
+              UPDATE - X O - - - - - - - - - - - - - - - -
+               ERROR - - X - - - - - - - - - - - - - - - -
+                LINE - - X - - - - - - - - - - - - - - - -
+              ERRORS - - S - - - - - - - - - - - - - - - -
+             PROCESS - - S - - - - - - - - - - - - - - - -
+                   | - - X - - - - - - - - - - - - - - - -
+/VAR/CACHE/APT/ARCHIVES/MOZILLA-FIREFOX-GNOME-SUPPORT_1.0+DFSG.1-6UBUNTU1_I386.DEB - - X - - - - - - - - - - - - - - - -
+                   W - - X - - - - - - - - - - - - - - - -
+                STAT - - O - - - - - - - - - - - - - - - -
+              SOURCE - - X - - - - - - - - - - - - - - - -
+             PACKAGE - - X - - - - - - - - - - - - - - - -
+                LIST - - X - - - - - - - - - X - - - - - -
+                HTTP - - X - - - - - - - - - - - - - - - -
+HOARY-BACKPORTS/MAIN - - X - - - - - - - - - - - - - - - -
+            PACKAGES - - X - - - - - - - - - - - - - - - -
+/VAR/LIB/APT/LISTS/UBUNTU-BP.SOURCEFORGE.NET_UBUNTU_DISTS_HOARY-BACKPORTS_MAIN_BINARY-I386_PACKAGES - - X - - - - - - - - - - - - - - - -
+                FILE - - X - - - - - - - - - - - - - - - -
+               CTORY - - X - - - - - - - - - - - - - - - -
+HOARY-BACKPORTS/UNIVERSE - - X - - - - - - - - - - - - - - - -
+/VAR/LIB/APT/LISTS/UBUNTU-BP.SOURCEFORGE.NET_UBUNTU_DISTS_HOARY-BACKPORTS_UNIVERSE_BINARY-I386_PACKAGES - - X - - - - - - - - - - - - - - - -
+           DIRECTORY - - X - - X - - - - - - - - - - - - -
+            PROBLEMS - - O - - - - - - - - - - - - - - - -
+       /USR/BIN/DPKG - - S - - - - - - - - - - - - - - - -
+                CODE - - O - - - - - - - - - - - - - - - -
+               ABOVE - - - X - - - - - - - - - - - - - - -
+             CHANNEL - - - - S - - - - - - - - - - - - - -
+           BACKPORTS - - - - X - - - - - - - - - - - - - -
+              REBOOT - - - - X - - - - - - - - - - - - - -
+                THAT - - - - - O - - - S - - - - - - - - -
+              BUNDLE - - - - - X - - - - - - - - - - - - -
+                HOME - - - - - X - - - - - X - - - - - - -
+                 TAR - - - - - X - - X O - X - - - - - - -
+            CDRECORD - - - - - X - - - - - - - - - - - - -
+              NEWBIE - - - - - - - O - - - - - - - - - - -
+               UNZIP - - - - - - - - - X - - - - - - - - -
+                HELP - - - - - - - - - S - X - - - - - - -
+                HINT - - - - - - - - - O - - - - - - - - -
+                  .. - - - - - - - - - X - O - - - - O - -
+                WORK - - - - - - - - - - X - - - - - - - -
+                 MAN - - - - - - - - - - - S - - - - - - -
+                LESS - - - - - - - - - - - X - - - - - - -
+             CONTENT - - - - - - - - - - - O - - - - - - -
+              FOLDER - - - - - - - - - - - X - - - O - - -
+                 DIR - - - - - - - - - - - X - - - - - - -
+                WHAT - - - - - - - - - - - - X - - - - - -
+             FOLDERS - - - - - - - - - - - - O - - - - - -
+               MUSIC - - - - - - - - - - - - - - - - X - -
+          COLLECTION - - - - - - - - - - - - - - - - X - -

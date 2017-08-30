@@ -1,0 +1,15 @@
+                 USE X - -
+             XBOXDRV S - -
+               INPUT X - -
+            PASSWORT S - -
+                SUDO X - -
+                LINE S - -
+        ALL=NOPASSWD X - -
+                 ALL X - -
+             SUDOERS O - -
+                FILE X - -
+               SHELL - - X
+              SCRIPT - - S
+                   X - - S
+              SWITCH - - X
+           SOMETHING - - O

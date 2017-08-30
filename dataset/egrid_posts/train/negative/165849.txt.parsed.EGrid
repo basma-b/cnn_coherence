@@ -1,0 +1,19 @@
+              SERVER X - - - -
+                6.06 X - - - -
+             PROBLEM O - - - -
+             NETWORK X O - - -
+                DHCP - X - - -
+                 OWN - X - - -
+            BOOTTIME - X - - -
+                  IP - X - - -
+                IFUP - X - - -
+                ETH0 - O X - -
+                THAT - - X - S
+/ETC/NETWORK/INTERFACES - - X - -
+                FILE - - X - -
+                HTTP - - X - -
+               IFACE - - S - -
+                AUTO - - O - -
+              INSERT - - O - -
+             CHANNEL - - - - O
+                THEN - - - - X

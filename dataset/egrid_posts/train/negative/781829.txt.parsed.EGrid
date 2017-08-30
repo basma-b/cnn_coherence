@@ -1,0 +1,11 @@
+             STARTUP X X -
+            SHUTDOWN X - -
+              CONFIG X - -
+                   S X - -
+             POSTFIX - S -
+              CHOICE - X -
+             CSCHEID - O -
+            MAILWITH - O -
+             COMMAND - X -
+              SCRIPT - O -
+               STUFF - - O

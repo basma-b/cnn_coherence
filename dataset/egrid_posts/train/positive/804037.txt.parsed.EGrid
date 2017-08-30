@@ -1,0 +1,22 @@
+/ETC/APT/MIRROR.LIST X - - - - - - - -
+          APT-MIRROR O - - - - - - - -
+                   * O - - - - - - - -
+/ETC/APT/SOURCES.LIST - X - - - - - - -
+               REPOS - S - - - - - - -
+          APT-MIRRIR - X - - - - - - -
+             APT-GET - O - - - - - - -
+               RIGHT - X - - - - - - -
+              CLIENT - - S - - - - - -
+                BOOT - - X - - - - - -
+                 PXE - - X - - - - - -
+           INSTALLER - - X - - - - - -
+          REPOSITORY - - X - - - - - -
+                FILE - - O - - - - - O
+         PACKAGES.GZ - - - O - - - O X
+                REPO - - - - - X - - -
+               PLACE - - - - - X - - -
+             BRANCHE - - - - - - X - -
+       MAVERICK/I386 - - - - - - - X -
+                 ALL - - - - - - - S -
+               AMD64 - - - - - - - S -
+               THERE - - - - - - - - S

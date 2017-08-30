@@ -1,0 +1,16 @@
+                 BOX X - - -
+               SETUP O - - -
+            WIRELESS X - - -
+              ROUTER X - - -
+                 WAY O - - -
+             TRAFFIC O - - -
+                  EG X - - -
+                PORT - O - -
+            OUTBOUND - X - -
+                GUFW - X - -
+            FIREWALL - O - -
+                RULE - O - -
+                 USE - O - -
+            IPTABLES - O X -
+                SORT - - X -
+                 ONE - - - O

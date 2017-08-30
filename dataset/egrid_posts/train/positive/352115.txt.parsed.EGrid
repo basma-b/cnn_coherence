@@ -1,0 +1,10 @@
+          DIFFERENCE O O - -
+                LINK X X S -
+            HARDLINK X X X -
+                FILE - - S -
+           DIRECTORY - - X -
+               ENTRY - - X -
+               POINT - - X -
+            PRACTICE - - - X
+                 ONE - - - O
+               OTHER - - - X

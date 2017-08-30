@@ -1,0 +1,13 @@
+             COMMAND S -
+           SOMETHING O -
+                 KEY S -
+                SUDO X -
+             APT-GET X -
+ALLOW-UNAUTHENTICATED S -
+               GUESS X -
+               STUFF O -
+                 GPG O -
+           SIGNATURE X -
+                FILE X -
+                   * O -
+                SIGN - S

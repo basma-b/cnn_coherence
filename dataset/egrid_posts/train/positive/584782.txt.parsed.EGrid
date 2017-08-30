@@ -1,0 +1,12 @@
+/VAR/LIB/DPKG/MYSQL-SERVER-5.0.POST X - - -
+             COMMAND - X - -
+                LINE - X - -
+              BACKUP - - O -
+                XORG - - O -
+             DESKTOP - - O -
+                SATA - - X -
+                PORT - - X -
+                 SSD - - - S
+                MOBO - - - X
+                DISK - - - X
+                CARD - - - X

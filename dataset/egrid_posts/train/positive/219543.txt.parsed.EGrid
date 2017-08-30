@@ -1,0 +1,12 @@
+                TIME S - - - - -
+        DHCP3-SERVER O - - - - O
+           SELF-TEST O - - - - -
+              CONFIG - X - - - -
+                FILE - O - - - -
+               ERROR - - S - - -
+             NOTHING - - S - - -
+                 BUG - - O - - -
+                EDGY - - X - - -
+             COMMAND - - - X - -
+                SUDO - - - - X -
+/ETC/INIT.D/DHCP3-SERVER - - - - S -

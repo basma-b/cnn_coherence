@@ -1,0 +1,7 @@
+/ETC/NETWORK/IF-UP.D/IPTABLES S - - - - -
+             NETWORK X - X X - -
+                IFUP - - S - - -
+                CALL - - O - - -
+                 USE - - X - - -
+             MANAGER - - O - - -
+/ETC/NETWORK/INTERFACES - - - X - -

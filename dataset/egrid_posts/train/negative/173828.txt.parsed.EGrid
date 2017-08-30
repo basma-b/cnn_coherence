@@ -1,0 +1,13 @@
+             COMMAND O - - - - - - -
+                TYPE - X - - - - - -
+               DRIVE - X - - O - - -
+           DIRECTORY - O - - - - - -
+                  FS - X - - - - - -
+                VFAT - X X - - - - -
+             WINDOWS - - - S - - - -
+              DOSENT - - - - X - - -
+               SUPER - - - - X X - -
+                GRUB - - - - X X - -
+              REPAIR - - - - X X - -
+                  CD - - - - O O - -
+              SCREEN - - - - - - - X

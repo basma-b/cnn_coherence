@@ -1,0 +1,27 @@
+                   * X - - - -
+             DEFAULT X - - X -
+        APPLICATIONS O - - - -
+            SETTINGS X - X - -
+GNOME-DEFAULT-APPLICATIONS-PROPERTIES O - - - -
+             COMMAND S - - - -
+            DROPDOWN S - - - -
+             BROWSER S O - - -
+               VALUE O - - - -
+/DESKTOP/GNOME/APPLICATIONS/BROWSER/EXEC X - - - -
+                TOOL X - - - -
+             FIREFOX O O X X -
+                PLOT X - - - -
+             THIKENS S - - - -
+                  .. O - - - -
+               ORDER S - - - -
+            BEHAVIOR S - - - -
+                 THE - S - - -
+                 TRY - X - - -
+                 ATM - O - - -
+             ANOTHER - O - - -
+            CHROMIUM - O - - -
+             PROBLEM - O - - -
+                   / - O - - -
+           SOMETHING - - O - -
+             PROFILE - - - O -
+                SAME - - - X -

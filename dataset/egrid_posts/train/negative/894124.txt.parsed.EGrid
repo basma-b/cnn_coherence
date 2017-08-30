@@ -1,0 +1,15 @@
+             DESKTOP X - -
+               CABLE X - -
+            NOTEBOOK X - -
+                WIFI X - -
+             NETWORK X - -
+                SSHD - S -
+          HOSTS.DENY - S -
+            HOSTNAME - O -
+              IKONIA - O -
+           OPERATION - X -
+             TIMEOUT - O -
+                 BUG - - O
+               ERROR - - X
+               HTTPS - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/UTIL-LINUX/+BUG/612249 - - X

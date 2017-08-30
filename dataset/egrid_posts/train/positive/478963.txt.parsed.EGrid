@@ -1,0 +1,15 @@
+                   | - O - - - - - -
+               ISSUE - O - - - - - -
+   SUSPEND/HIBERNATE - X - - - - - -
+            PASETBIN - X - - - - - -
+               DMESG - X - X - - - -
+              KERNEL - - X - - - - -
+             MESSAGE - - X - - - - -
+            TERMINAL - - O X - - - -
+                TYPE - - X - - - - -
+                 ALL - - O - - - - -
+              RESULT - - - X - - - -
+                 LOT - - - - O - - -
+           DMESG.TXT - - - - - - - O
+               GEDIT - - - - - - - X
+                   N - - - - - - - S

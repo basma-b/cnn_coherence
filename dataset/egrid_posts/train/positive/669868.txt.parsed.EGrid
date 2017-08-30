@@ -1,0 +1,17 @@
+                 USB S - - - - - - -
+              CHANGE - S - - - - S -
+          /ETC/FSTAB - X - - - - - -
+/ETC/NETWORK/INTERFACES - X - - - - - -
+       /ETC/HOSTNAME - X - - - - - -
+               IMAGE - - O - - - - X
+                FULL - - O - - - - -
+               STICK - - O - - - - -
+         READ/WRITES - - X - - - - -
+   PENDRIVELINUX.COM - - O - - - - -
+                YEAP - - - - X - - -
+                THAT - - - - - S - -
+               FSTAB - - - - - - X -
+          INTERFACES - - - - - - X -
+            HOSTNAME - - - - - - X -
+          FILESYSTEM - - - - - - - S
+                 RAM - - - - - - - X

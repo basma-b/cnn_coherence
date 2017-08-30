@@ -1,0 +1,15 @@
+                THAT S - -
+             EXAMPLE X - -
+                 USE O - -
+                  DD X - -
+             COMMAND X - -
+                 ISO X - -
+                DISK X - -
+               IMAGE O - -
+              CD-ROM X - -
+         IF=/DEV/SR0 X - -
+OF=/HOME/SAM/MYCD.ISO X - -
+        CONV=NOERROR X - -
+                SYNC X - -
+         CTRL+ALT+F5 - - S
+                 JOB - - O

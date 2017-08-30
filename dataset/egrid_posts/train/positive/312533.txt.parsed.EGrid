@@ -1,0 +1,16 @@
+              ANYONE X X - -
+                DHCP O O - -
+                USER X X S -
+               FEIST X X - -
+             NETWORK X X - -
+         UNREACHABLE O O - -
+            RECOVERY X X - -
+                MODE O O - -
+                BOOT X X - -
+                ROOT S S S -
+              SERVER X X - -
+              DHCPCD - - X S
+            DHCLIENT - - S X
+             PROGRAM - - O X
+                SUDO - - - X
+                 TRY - - - S

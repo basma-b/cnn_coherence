@@ -1,0 +1,13 @@
+         RECONFIGURE X X - - -
+                XORG X X - - -
+             COMMAND X X - - -
+                LINE X - - - -
+                SUDO - - X - -
+        XORG-XSERVER - - X - -
+                PART - - S - -
+                BITE - - X - -
+                TYPE - - X - -
+                   X - - X - -
+                 TAB - - X - -
+      AUTOCOMPLETION - - X - -
+                 JSP - - - - X

@@ -1,0 +1,13 @@
+                   ' X - -
+              OUTPUT S - -
+                SUDO X - -
+             APT-GET X - -
+                  -F S - -
+             PACKAGE X - -
+                HTTP O - -
+                   / X - -
+DEFAULT-JRE-HEADLESS - S X
+OPENJDK-7-JRE-HEADLESS - X -
+             INSTALL - - X
+OPENJDK-6-JRE-HEADLESS - - O
+          EVERYTHING - - O

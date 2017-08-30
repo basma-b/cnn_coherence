@@ -1,0 +1,12 @@
+             UPSTART - S - -
+                INIT - X - -
+               START - O - -
+        INIT=/BIN/SH - X - -
+                PIDS - O - -
+      WPA_SUPPLICANT - S - -
+      NETWORKMANAGER - X - -
+                MESS - - X -
+              DISTRO - - X -
+               7.04. - - X -
+          RE-INSTALL - - X -
+          PERLMONKEY - - - X

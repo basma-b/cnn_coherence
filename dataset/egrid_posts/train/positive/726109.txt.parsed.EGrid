@@ -1,0 +1,23 @@
+               10.04 X X - - - -
+               THERE S X - - - -
+             PACKAGE X X - O - -
+      MIT-SCHEME-DOC O - - - - -
+                DOCS O - - - - -
+          MIT-SCHEME O - - - - -
+               REPOS X - - - - -
+                 GNU - X - - - -
+              SCHEME - O - - - -
+                SUDO - - X - - -
+             APT-GET - - S - - -
+                 DOC - - - X - -
+            UNIVERSE - - - X - -
+              ACCORD - - - X - -
+                 MAN - - - S - -
+             PAM_ENV - - - X - -
+              FORMAT - - - S - X
+               -LSB- - - - S - -
+               VALUE - - - O - -
+             MYVALUE - - - O - -
+            MYENVVAR - - - - - X
+     DEFAULT=MYVALUE - - - - - S
+/ETC/SECURITY/PAM_ENV.CONF - - - - - O

@@ -1,0 +1,16 @@
+                LINK O - - - -
+                FORM X - - - -
+                   * O - - - -
+                  OK X - - - -
+               HTTPS - X - - -
+                  || - X - - -
+//HELP.UBUNTU.COM/COMMUNITY/RECOVERINGUBUNTUAFTERINSTALLINGWINDOWS - X - - -
+         ACTION=SHOW - - X - -
+REDIRECT=RESTOREGRUB - - S - -
+             PROBLEM - - O - -
+                 OK. - - - X -
+           PARTITION - - - O -
+             WINDOWS - - - X -
+               10.10 - - - X -
+   /ETC/DEFAULT/GRUB - - - - X
+                MENU - - - - O

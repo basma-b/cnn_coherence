@@ -1,0 +1,11 @@
+               /HOME X X -
+           PARTITION X - -
+                SUDO - X X
+                DPKG - O O
+                  -A - X -
+               FSTAB - S -
+               ENTRY - O -
+                 ETC - X -
+             APT-GET - - S
+                  RM - - X
+     TTF-DEJAVU-CORE - - S

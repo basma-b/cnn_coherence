@@ -1,0 +1,16 @@
+                 ALL S - - - - - -
+             PROGRAM X - - - - - -
+             COMMAND - X - - - - -
+                  .. - X - - - - -
+               PKILL - X - - - - -
+                PROG - S - - - - -
+                  ID - O - - - - -
+              REASON - X S - - - -
+                 DIE - - O - - - -
+                  HD - - X - - - -
+               CHECK - - - X - - -
+               DMESG - - - X - - -
+                 I/O - - - X X - -
+              ERRORS - - - X O - -
+                CASE - - - - O - -
+                COOL - - - - - - X

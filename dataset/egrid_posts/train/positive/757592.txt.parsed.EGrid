@@ -1,0 +1,11 @@
+                SUDO S - X -
+                NEED O - - -
+               CHMOD X - - -
+                TIME - O - -
+                ROOT - X - X
+                PRIV - O - -
+                   > - - X -
+                FILE - - - S
+                USER - - - X
+           DIRECTORY - - - X
+               PRIVS - - - O

@@ -1,0 +1,21 @@
+              SOURCE - - X - - - -
+          EASYSOURCE - - - X - - -
+/OPT/FIREFOX/FIREFOX-BIN - - - X - - -
+               ERROR - - - X - - -
+                LOAD - - - X - - -
+               SHARE - - - X - - -
+           LIBRARIES - - - S - - -
+      LIBSTDC++.SO.5 - - - X - - -
+              OBJECT - - - X - - -
+                FILE - - - O - - -
+           DIRECTORY - - - X - - -
+                 USE - - - X - - X
+                HTTP - - - X - - -
+//WIKI.UBUNTU.COM/FIREFOXNEWVERSION - - - X - - -
+    /USR/BIN/FIREFOX - - - O - - -
+             DEFAULT - - - - X - -
+             FIREFOX - - - - X - -
+                WORK - - - - - - X
+             PLUGINS - - - - - - S
+             COMMAND - - - - - - X
+    MOZILLA-ACROREAD - - - - - - X

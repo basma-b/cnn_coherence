@@ -1,0 +1,14 @@
+                   ' S - - - -
+              ANYONE X - - - -
+             MACHINE X - - - -
+              REBOOT X - - - -
+              SYSTEM X - - - -
+                   * S - X - -
+            /DEV/SDA S - X - -
+                  HD X - - - -
+               MOUNT - S - - -
+           PARTITION - X X - -
+                NONE - - O - -
+           /ETC/MTAB - - X - -
+                BOOT - - - - X
+              LIVECD - - - - X

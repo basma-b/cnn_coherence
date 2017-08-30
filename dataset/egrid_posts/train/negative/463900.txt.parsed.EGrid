@@ -1,0 +1,24 @@
+                 LAN X - - - - - - - - -
+                 USE X - - - - - - - - -
+                  IP X - - - - - - - - -
+                WORK - S - X - - - - - -
+              DRIVER - X - - - - - - - -
+              MODULE - S - - - - - - - -
+                LOAD - O - - - - - - - -
+              ROUTER - - O - - - - - - -
+                 BOX - - O - - - - - - -
+             NETWORK - - X - - - - - X -
+         DESTINATION - - - X - - - - - -
+                HOST - - - X - - - - - -
+         UNREACHABLE - - - X - - - - - -
+                IDEA - - - - O - - - - -
+            DHCLIENT - - - - - X - - - -
+             NETMASK - - - - - X O - - -
+                DHCP - - - - - - S - - -
+                 ONE - - - - - - O - - -
+              SERVER - - - - - - - S - -
+                 IPS - - - - - - - - O -
+/ETC/NETWORK/INTERFACES - - - - - - - - O -
+             MANPAGE - - - - - - - - O -
+              DETAIL - - - - - - - - X -
+                 YES - - - - - - - - - X

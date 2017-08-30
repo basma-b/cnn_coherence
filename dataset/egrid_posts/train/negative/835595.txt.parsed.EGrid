@@ -1,0 +1,14 @@
+           PARTITION O - - O -
+            GRUB.CFG S - - - -
+                 SAY - S - - -
+                 TOP - X - - -
+                  .. - - X - -
+                 ONE - - X - -
+                BOOT - - - S -
+             LIVE-CD - - - X -
+           REINSTALL - - - X -
+                GRUB - - - X -
+               GNOME - - - - X
+             APT-GET - - - - X
+                 KDE - - - - X
+      UBUNTU-DESKTOP - - - - X

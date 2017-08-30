@@ -1,0 +1,23 @@
+                REPO O - - - - - -
+         SOURCE.LIST X - - - - - -
+                SUDO - X S X - - -
+                 DEB - X - - - - -
+                HTTP - S - - - - -
+                  .. - X - - - - -
+/ETC/APT/SOURCE.LIST - O - - - - -
+          PERMISSION - S - - - - -
+                WHAT - - S - - - -
+              REASON - - O - - - -
+                  IO - - X - - - -
+         REDIRECTION - - X - - - -
+           OPERATORS - - O - - - -
+                FORM - - - O - - -
+                   | - - - X - - -
+                 TEE - - - O - - -
+        /PATH/TO/BAR - - - X - - -
+             SUPPORT - - - O - - -
+          REPOSITORY - - - - O - -
+            PROBLEMS - - - - - - O
+                BASH - - - - - - X
+              STRING - - - - - - X
+                   S - - - - - - X

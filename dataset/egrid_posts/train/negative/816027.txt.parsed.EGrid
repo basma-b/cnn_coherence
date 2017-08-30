@@ -1,0 +1,10 @@
+           /DEV/SDA1 S - X - -
+                SIZE O - - - -
+           /DEV/SDA4 S - - - -
+           /DEV/SDA5 S - - - -
+                SWAP X - - - -
+                FILE - X - - -
+     /VAR/LOG/SYSLOG - X - - -
+      /VAR/LOG/DMESG - O - - -
+                THAT - - - - S
+            COMPUTER - - - - X

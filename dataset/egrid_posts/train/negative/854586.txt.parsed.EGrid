@@ -1,0 +1,16 @@
+           XORG.CONF O - - -
+            SETTINGS X - - -
+                 USE O - - -
+                LOOK - S - -
+ /VAR/LOG/XORG.0.LOG - X - -
+                DONT - X - -
+            ANYTHING - O - -
+                DISK - O X -
+          FILESYSTEM - X - -
+                VBOX - - S -
+           DIRECTORY - - O -
+               MERGE - - O -
+                ROOT - - O -
+             DESKTOP - - X -
+            PRIORITY - - X -
+                BASE - - - O

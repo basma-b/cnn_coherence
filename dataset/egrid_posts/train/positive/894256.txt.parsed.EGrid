@@ -1,0 +1,21 @@
+                 LTS O - - - - - -
+              SEARCH X - - - - - -
+               IPERF S - - - - - -
+              RESULT X - - - - - -
+                HTTP X - - - - - -
+      KEYWORDS=IPERF - X - - - - -
+      SEARCHON=NAMES - S - - - - -
+         SUITE=LUCID - X - - - - -
+         SECTION=ALL - S - - - - -
+             PACKAGE - O - - - - -
+            UNIVERSE - - - X S - -
+          MULTIVERSE - - - X - - -
+                LINK - - - - S - O
+             DEFAULT - - - - - X -
+        SOURCES.LIST - - - - - X -
+                  .. - - - - - X -
+            SOFTWARE - - - - - - X
+              CENTER - - - - - - X
+//WIKI.UBUNTUUSERS.DE/SOURCES.LIST - - - - - - S
+              BOTTOM - - - - - - X
+                 ALL - - - - - - O

@@ -1,0 +1,15 @@
+               STEFG O - -
+             PROBLEM X - -
+    UBUNTU-PARTITION O X -
+                GRUB - S -
+                SUDO - X -
+              CHROOT - X -
+         /MNT/RESCUE - S -
+                  OK - O -
+                TYPE - X -
+            TERMINAL - X -
+                   > - X -
+                 YEA - S -
+   /BOOT/GRUB/STAGE1 - S -
+              HD0,10 - X -
+               ERROR - - X

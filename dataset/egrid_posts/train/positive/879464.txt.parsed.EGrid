@@ -1,0 +1,17 @@
+            MANDRIVA S - - S -
+             CONTROL O - - - -
+                BOOT X - - O -
+           SUPERGRUB X X - - -
+                DISC O - - - -
+                GRUB X - - X -
+                 MBR X - - X -
+         UPDATE-GRUB X - - X -
+          BOOTLOADER X - - - -
+           MANDRIVAV S - - - -
+                   * - S - - -
+                  OS - - - O -
+                SHOW - - - O -
+                LOAD - - - X -
+                MENU - - - X -
+                HTTP - - - - X
+//WWW.SUPERGRUBDISK.ORG/ - - - - X

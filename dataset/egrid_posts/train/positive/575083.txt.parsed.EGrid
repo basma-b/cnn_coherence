@@ -1,0 +1,13 @@
+                  PC O - -
+      OPENSSH-SERVER O X -
+              CLIENT X - -
+                 SSH X X -
+                WORK X X -
+                RULE O - -
+              ROUTER X - -
+                  IP X - -
+              SERVER X X -
+             MESSAGE - O -
+          CONNECTION - X -
+              REFUSE - X -
+                 POR - - X

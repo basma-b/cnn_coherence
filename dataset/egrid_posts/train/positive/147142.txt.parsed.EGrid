@@ -1,0 +1,21 @@
+               IMAGE O - - - - -
+                 ACC X - - - - -
+                INFO O - S - - -
+           FGLRXINFO X X - O - -
+              RENDER - X - - - -
+              OUTPUT - X X - - -
+              OPENGL - - X - - -
+            RENDERER - - X - - -
+              STRING - - X - - -
+               PASTE - - X - - -
+                 CAT - - X - X -
+ /VAR/LOG/XORG.0.LOG - - S - - -
+                GREP - - O - - -
+                  EE - - X - X X
+    CTRL+ALT+BKSPACE - - - X - -
+            GLXGEARS - - - O - -
+               ERROR - - - S - -
+                 RGB - - - O - -
+          INITIALIZE - - - X - -
+/VAR/LOG/XORG.0.LOG|GREP - - - - X -
+                 FOR - - - - - X

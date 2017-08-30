@@ -1,0 +1,12 @@
+            DOTBLANK - S - - -
+            DODBLANK - - X - -
+            TRANSFER - - - - X
+                 HDD - - - - S
+                 USB - - - - X
+            COMPUTER - - - - X
+                BOOT - - - - X
+                  .. - - - - X
+           PARTITION - - - - O
+                   / - - - - O
+           REFERENCE - - - - X
+               FSTAB - - - - X

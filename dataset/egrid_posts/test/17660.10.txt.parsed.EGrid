@@ -1,0 +1,17 @@
+                   $ X - - - - - -
+                  VM O - - O - - -
+                  .. O - - - - - -
+            GRAPHICS X - - - - - -
+             DRIVERS X - - - - - -
+                  UI O - - - - - -
+              SCREEN X - - - - - -
+             COMMAND S - - - - - -
+                 WAY X - - - - - -
+              DRIVER O - - - - - -
+             MACHINE - - X - - - -
+                VBOX - - - X - - -
+                VNOX - - - S - - -
+              ADDONS - - - S - - -
+                 HOS - - - - X - -
+                  OS - - - - S - -
+               GUEST - - - - - X -

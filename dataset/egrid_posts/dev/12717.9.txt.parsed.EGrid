@@ -1,0 +1,12 @@
+               12.04 O - - -
+                  PC X - - -
+                BOOT - X - -
+              SCREEN - O - -
+               SOUND - O - -
+             CONSOLE - X - -
+              SCRIPT - - - O
+                 GUI - - - X
+          NOTIFY-OSD - - - O
+            PROGRESS - - - O
+               PUTTY - - - X
+              GKSUDO - - - X

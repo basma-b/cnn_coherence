@@ -1,0 +1,17 @@
+                 HEY X - - - - - -
+                LINE - O - - - - -
+             SUDOERS - X - - - - -
+     ARCADIA-STAGING - X O - - - -
+                ROOT - X - - - - X
+            NOPASSWD - X - - - - -
+                SUDO - - S - - - -
+                USER - - X - - - -
+            PASSWORD - - X - - - -
+                THAT - - - - X - -
+        /ETC/RESTART - - - - - O -
+            WHATEVER - - - - - X -
+                  SU - - - - - - X
+                  ID - - - - - - X
+         ENVIRONMENT - - - - - - X
+              ACCESS - - - - - - X
+               RIGHT - - - - - - X

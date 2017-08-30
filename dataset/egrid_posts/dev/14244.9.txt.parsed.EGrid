@@ -1,0 +1,30 @@
+           BLACKLIST O - - - - - - - - - - - - - -
+                BOOT - O - - - - - - - X - - - - -
+                  XP - X - - - - - - - - - - - - -
+                WORK - X - - - - - - - - - - - - -
+              UBUNTU - X - - - - - - - - - - - - -
+                ETH0 - X - - - - - - - - - - - - -
+                WIRE - X - - - - - - - - - - - - -
+             NETWORK - X - - - - - - - - - - - - -
+             WINDOWS - - X - - - - - - - - - - - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - - X - - - - - S - - - - -
+             MINUTES - - - X - - - - - - - - - - -
+                TIME - - - - - X - - - - - - - - -
+                  .. - - - - - X - - - - - - - - -
+                MORE - - - - - O - - - - - - - - -
+                HELP - - - - - X - - - - - - - - -
+                THIS - - - - - - S - - - - - - - -
+                HTTP - - - - - - O - - - - S - - X
+              SYSTEM - - - - - - O - - - - - - - -
+                 NIC - - - - - - O - - - - - - - -
+              SECOND - - - - - - - S - - - - - - -
+                LSHW - - - - - - - O - - - - - - -
+                BIOS - - - - - - - - O - - - - - -
+            SETTINGS - - - - - - - - X - - - - - -
+             ONBOARD - - - - - - - - S - - - - - -
+                FILE - - - - - - - - - X - - - - -
+           SOMETHING - - - - - - - - - - S - - - -
+                THAT - - - - - - - - - - - S - - -
+             COMMAND - - - - - - - - - - - - - O -
+                LINK - - - - - - - - - - - - - X -
+//ASKUBUNTU.COM/QUESTIONS/125392/NO-NEW-RELEASE-FOUND-WHEN-UPGRADING-A-FROM-10-04-LTS-TO-12-04-LTS - - - - - - - - - - - - - - X

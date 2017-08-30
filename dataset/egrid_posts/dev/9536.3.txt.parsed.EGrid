@@ -1,0 +1,11 @@
+             OPTIONS X - -
+                FSCK X - -
+                SUCK - - X
+                DHCP - - X
+                 DNS - - X
+              SERVER - - S
+               THERE - - S
+                BIND - - X
+              CONFIG - - O
+         RESOLV.CONF - - S
+           127.0.0.1 - - X

@@ -1,0 +1,14 @@
+          VIRTUALBOX O - - - - - -
+              KERNEL X X S - - - S
+              DRIVER S - - - - - -
+              MODULE - S - - - - -
+                LOAD - O - - - - -
+              REASON - X - - - - -
+            RE-SETUP - - X - - - -
+ /ETC/INIT.D/VBOXDRV - - X - - - S
+               SETUP - - X - O - S
+                ROOT - - X - - - -
+              ANYONE - - - S - - -
+                THAT - - - - - O -
+               USAGE - - - - - - X
+                LUCK - - - - - - X

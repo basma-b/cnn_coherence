@@ -1,0 +1,26 @@
+            GDMSETUP - O - - - - - -
+                ROOT - X X - X - - -
+                USER - O X - - - - -
+              ZBLACH - - S - - - - -
+        DISCOINFERNO - - X - - - - -
+        EDITOR=GEDIT - - X - - - - -
+                SUDO - - X - - - - -
+              VISUDO - - X - - - - -
+            PASSWORD - - X - - - - -
+    /USR/SBIN/VISUDO - - X - - - - -
+LOCALHOST.LOCALDOMAIN - - X - - - - -
+                 CAT - - - X - - - -
+   /VAR/LOG/AUTH.LOG - - - X - - - -
+          PERMISSION - - - S - - - -
+             SUDOERS - - - - X - - -
+                FILE - - - - X - - -
+              PASSWD - - - - O - - -
+                   U - - - - S - - -
+                  FS - - - - O - - -
+                NOOB - - - - O - - -
+                THAT - - - - - X - -
+                BITE - - - - - X - -
+                THIS - - - - - - O -
+             KNOPPIX - - - - - - X -
+                  CD - - - - - - X -
+              BREEZY - - - - - - - X

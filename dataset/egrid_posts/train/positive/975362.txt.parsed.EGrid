@@ -1,0 +1,8 @@
+                 HMM X - - - -
+           PARTITION - O - - -
+               USERS - S - - -
+           UMASK=000 - - X - -
+              ANYONE - - S - -
+             OPTIONS - - S - -
+                VFAT - - - S -
+                BOOT - - - - X

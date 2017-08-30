@@ -1,0 +1,15 @@
+                TYPE X - - -
+                SUDO X - - -
+            IFCONFIG S - - -
+                ETH0 X - S -
+               ERROR O - - -
+           INTERFACE X - O -
+                FLAG O - - -
+              DEVICE X - - -
+               DMESG S - - -
+   00:1A:92:03:37:5A X - - -
+                IDEA - S - -
+                CARD - - X O
+             PROBLEM - - X -
+          CONNECTION - - S -
+              SYSTEM - - X -

@@ -1,0 +1,14 @@
+   /ETC/DEFAULT/GRUB X - - -
+ GRUB_CMDLINE_LINUX= X - - -
+                SUDO X - - -
+         UPDATE-GRUB O - - -
+             OPTIONS O X - -
+             KERNELS X - - -
+             ENTRIES - X - -
+                BOOT - X - -
+              KERNEL - O - -
+                 SET - X - -
+          SUGESTIONS - - - O
+                 URL - - - X
+                DARN - - - S
+                  .. - - - O

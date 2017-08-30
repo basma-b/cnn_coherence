@@ -1,0 +1,8 @@
+           PARTITION X X - -
+            SQUASHFS X - - -
+                SIZE - S - -
+                 APP - O - -
+                 RAM - X - -
+              DEMAND - X - -
+                FILE - X - -
+              SYSTEM - O - -

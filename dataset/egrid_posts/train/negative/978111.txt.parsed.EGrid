@@ -1,0 +1,17 @@
+            LOOPBACK O - - - -
+          INTERFACES X - - - -
+             NETWORK - - X - -
+/ETC/NETWORK/INTERFACES - - S - -
+               SETUP - - O - -
+                SHOW - - X - -
+                  LO - - X S -
+               ENTRY - - S - -
+               THING - - X - -
+                  ED - - X - -
+                 YIP - - - X -
+                LINE - - - O -
+                INET - - - X -
+          EVERYTHING - - - S -
+                WORK - - - O -
+                 USE - - - - X
+          JOCKEY-GTK - - - - X

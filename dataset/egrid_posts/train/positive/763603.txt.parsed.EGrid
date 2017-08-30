@@ -1,0 +1,20 @@
+                 ALL S - - -
+               SLAPD X - - -
+       CONFIGURATION X - - -
+                LDAP X - - X
+             ANYBODY O - - -
+            POINTERS S - - -
+                THIS O - - -
+                DOCS - O - -
+               THERE - X - -
+      AUTHENTICATION - X - -
+SIMPLEAUTHENTICATION - - - X
+                BIND - - - X
+                WELL - - - X
+                SIDE - - - X
+              SCHEMA - - - X
+              SYSTEM - - - O
+               FORCE - - - X
+                 SSL - - - X
+         CONNECTIONS - - - X
+                 ACL - - - X

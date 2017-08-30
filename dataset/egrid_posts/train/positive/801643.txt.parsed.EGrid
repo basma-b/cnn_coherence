@@ -1,0 +1,27 @@
+                RACE X - - -
+           CONDITION O - - -
+             NETWORK X - - S
+                  .. X - - -
+               POWER X - - -
+             FAILURE S - - -
+                TIME - X - -
+                 BOX - X - -
+                BOOT - S - -
+                DHCP - O - -
+              SERVER - X X -
+                 WAY - X - -
+           NM-APPLET - X - -
+     /ETC/NETWORKING - X - -
+                AUTO - X - -
+               DELAY - X - -
+           VARIABLES - - O -
+               VALUE - - X -
+              SCRIPT - - O -
+              STANZA - - X -
+/ETC/INIT/NETWORK-MANAGER.CONF - - X -
+                PING - - X -
+               REPLY - - S -
+              AMOUNT - - O -
+              SECOND - - X -
+                WAIT - - - X
+                NICE - - - S

@@ -1,0 +1,25 @@
+             PROBLEM O - - - - - - - - -
+             WINDOWS O - - - - - - - - -
+               TODAY X - - - - - - - - -
+                BODY S - - - - - - - - -
+                INFO X - - - - - - - - -
+                BOOT X - - - - - - - - -
+              LOADER O - - - - - - - - -
+                PART X - - - - - - - - -
+                  -L S - - - - - - - - -
+                NTFS X - - - - - - - - -
+           PARTITION O - - - - - - - - -
+                SUDO - X - - - - - - - -
+             APT-GET - S - - - - - - - -
+           OS-PROBER - S - - - - - - - -
+         UPDATE-GRUB - S - - - - - O - -
+/USR/SBIN/GRUB-PROBE - O - - - - - X - -
+               ERROR - S - - - - - X - O
+              DEVICE - S - - - - - O - -
+                   / - X - - - - - X - -
+                IDEA - - - X - - - - - -
+                GOOD - - - - - O - - - -
+                GRUB - - - - - X - - - -
+                 ALL - - - - - O - - - -
+                /DEV - - - - - - - X - -
+                WORK - - - - - - - - - S

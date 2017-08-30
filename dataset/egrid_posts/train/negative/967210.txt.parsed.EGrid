@@ -1,0 +1,11 @@
+              SYSTEM S - - - -
+               CDROM O - - - -
+              REASON - X - - -
+               DRIVE - - S - -
+                BOOT - - X - -
+              LIVECD - - O - -
+              UBUNTU - - O - -
+                REPO - - - - S
+            UNIVERSE - - - - X
+             APT-GET - - - - S
+               ETERM - - - - O

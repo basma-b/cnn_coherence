@@ -1,0 +1,31 @@
+              KERNEL X X - - - -
+              UPDATE - - S - - -
+            COMPUTER - - O - - -
+                 USE - - X - - -
+      UPDATE-MANAGER - - X - - -
+/VAR/LOG/APACHE2/ERROR.LOG - - - X - -
+               -LSB- - - - X - -
+               ERROR - - - X - -
+              CLIENT - - - X - -
+                 PHP - - - X - -
+             WARNING - - - X - -
+               FOPEN - - - X - -
+            DATA.TXT - - - X - -
+              STREAM - - - O - -
+          PERMISSION - - - O - -
+/VAR/WWW/PHP/SCRIPT.PHP - - - X - -
+                LINE - - - X - -
+             REFERER - - - X - -
+                HTTP - - - O - -
+//LOCALHOST/PHP/FORM.HTML - - - O - -
+                SUDO - - - X - -
+               CHOWN - - - X - -
+                  -R - - - X - -
+            WWW-DATA - - - X - -
+            /VAR/WWW - - - O - X
+           SOMETHING - - - - - X
+                FILE - - - - - O
+             COMMAND - - - - - X
+                  .. - - - - - X
+                IDEA - - - - - X
+                THIS - - - - - O

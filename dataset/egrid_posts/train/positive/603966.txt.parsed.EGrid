@@ -1,0 +1,13 @@
+                NULL S - -
+                SEAL X - -
+                  .. O - -
+                SUDO - X -
+               CHOWN - X -
+                ROOT - X -
+                FILE - O -
+               CHMOD - S -
+          PERMISSION - O -
+              LSATTR - S -
+           HEX-PERMS - S -
+              FORMAT - - X
+               FDISK - - X

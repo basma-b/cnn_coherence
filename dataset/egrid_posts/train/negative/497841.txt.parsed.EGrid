@@ -1,0 +1,14 @@
+                ROOT - X - - - - X - -
+                 USE - S - - - - - - -
+                SUDO - - S - S - O - S
+            POWEROFF - - X - - - - - -
+            PASSWORD - - X - X - O - -
+                   M - - - - X - - - -
+            SHUTDOWN - - - - O - - - -
+                CRON - - - - - X O - -
+                USER - - - - - - X - -
+             SUDOERS - - - - - - X - -
+           SITUATION - - - - - - X - -
+                   U - - - - - - S - -
+           /VAR/WWW/ - - - - - - - - X
+/HOME/OWNER/DESKTOP/WEBSERVER - - - - - - - - O

@@ -1,0 +1,17 @@
+        /DEV/TTYACM0 X - - - - -
+          /DEV/MODEM S - - - - -
+                TYPE X - - - - -
+                HELP - O - - - -
+               GNOME - - S - - -
+            IPKUNGFU - - O - - -
+            IPTABLES - - X - - -
+            FRONTEND - - X - - -
+                SUDO - - X - S -
+              IFDOWN - - X - - -
+                PPP0 - - S - - -
+           INTERFACE - - X O - -
+            IFCONFIG - - O - - -
+             NETWORK - - X - - -
+             DEVICES - - S - - -
+                 ONE - - - S - -
+       THATINTERFACE - - - - O -

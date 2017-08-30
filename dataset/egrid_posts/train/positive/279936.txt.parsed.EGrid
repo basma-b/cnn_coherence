@@ -1,0 +1,14 @@
+                 HEY X - - -
+              ANYONE - X - -
+                PORT - O - O
+               AMULE - X - -
+                SUDO - - S -
+            IPTABLES - - O -
+               INPUT - - X -
+                  -P - - X -
+                 TCP - - O -
+                   < - - S -
+                   > - - O -
+                  -J - - S -
+       CONFIGURATION - - O -
+              ROUTER - - - X

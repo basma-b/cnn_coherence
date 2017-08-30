@@ -1,0 +1,25 @@
+                 GUY X - - - - - - - -
+         ENVIRONMENT O O - - - - - - X
+           VARIABLES X - - - - - - - O
+             DEFAULT X - - - - - - - -
+                SUDO X - X - - - - - X
+             COMMAND S O - - - - - - S
+               APXS2 - O - - - - - - -
+                USER - X - - - - - - -
+PASSENGER-INSTALL-APACHE2-MODULE - O X - - - - - -
+             PHUSION - X - - - - - - -
+           PASSENGER - X - - - - - - -
+           INSTALLER - S - - - - - - -
+               VALUE - X - - - - - - -
+                 ANY - - O - - - - - -
+             PROBLEM - - O - - - - - -
+                ROOT - - O - - - - - -
+            FLOODBOT - - S - - - - - -
+             PROGRAM - - X - - O - - -
+                KIND - - - X - - - - -
+              SCRIPT - - - X - - - - -
+                RUBY - - - - - - X X -
+                GEMS - - - - - - X S -
+              FOLDER - - - - - - X - -
+                PATH - - - - - - - O -
+             .BASHRC - - - - - - - X -

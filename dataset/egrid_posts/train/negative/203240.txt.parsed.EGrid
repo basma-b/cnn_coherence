@@ -1,0 +1,22 @@
+            SYNAPTIC X - - - - - -
+               ERROR X - - - - - -
+                LOAD X - - - - - -
+               SHARE X - - - - - -
+           LIBRARIES S - - - - - -
+         LIBVTE.SO.4 X - X - - - -
+              OBJECT X - - - - - -
+                FILE O - - - - - -
+           DIRECTORY X - - - - - -
+             PACKAGE X - - - - - -
+              LIBVTE X - - - - - -
+             LIBVTE4 - S - - - - -
+         LIBVTE.SO.9 - - O - - - -
+                WHAT - - - X - - -
+             VERSION - - - X - - -
+              NUMBER - - - X - - -
+                SUDO - - - - X - -
+            APTITUDE - - - - S - -
+LIBCAIRO2=1.0.4-0UBUNTU1 - - - - O - -
+           LOCALHOST - - - - - S -
+                 USE - - - - - - O
+               ANNOY - - - - - - O

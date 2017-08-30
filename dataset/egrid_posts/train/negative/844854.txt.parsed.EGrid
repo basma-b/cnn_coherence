@@ -1,0 +1,22 @@
+                 WPA X - - - - - -
+          CONNECTION O - - - - - -
+       WPASUPPLICANT X - - - - - -
+             PACKAGE X - - - - - -
+      NETWORKMANAGER - O O - - - -
+             VERSION - X - - - - -
+              UBUNTU - X - - - - -
+              SERVER - - X - - - S
+                  PS - - X - - - -
+                   | - - X - - - -
+                GREP - - X - - - -
+                  NO - - S - - - -
+/ETC/WPA_SUPPLICANT.CONF - - S - - - -
+/ETC/WPA_SUPPLICANT/ - - X - - - -
+                CALL - - - X - - -
+      WPA_SUPPLICANT - - - O - - -
+               .CONF - - - S - - -
+              OUTPUT - - - - O - -
+ WPA_SUPPLICANT.CONF - - - - - O -
+             WPA_CLI - - - - - O -
+                PORT - - - - - - S
+                 SSH - - - - - - X

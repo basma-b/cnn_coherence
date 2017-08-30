@@ -1,0 +1,26 @@
+             PROBLEM O -
+           AUTHORITY O -
+               THERE S -
+       CONFIGURATION X -
+              SERVER X -
+/USR/LIB/LIBCCONF2-4/GCONF-SANITY-CHECK-2 X -
+                EXIT X -
+              STATUS X -
+                 KEY S -
+                 TRY X -
+               CHMOD X -
+/ETC/GCONF/GCONF.XML.SYSTEM X -
+              UPDATE - S
+                 LOG - O
+                 USE - X
+               CHOWN - X
+                  -R - X
+                USER - S
+                HOME - X
+              FOLDER - X
+                CANT - X
+                THIS - S
+              KERNEL - X
+              MEMORY - X
+                TEST - O
+              MIDDLE - X

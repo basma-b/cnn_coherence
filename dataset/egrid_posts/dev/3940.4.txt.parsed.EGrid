@@ -1,0 +1,15 @@
+                TEXT X - - - - - - -
+               SHELL X - - - - - - -
+             COMMAND - X - - - - - -
+             CONTENT - O - - - - - -
+                  OK - - S - - - - -
+               LSPCI - - - - X - X -
+                  -K - - - - X - S -
+                 LIE - - - - X - - -
+                 WAY - - - - S - - -
+               LSMOD - - - - X X - -
+              OUTPUT - - - - - S - X
+                GREP - - - - - O - -
+              DRIVER - - - - - - O X
+                NAME - - - - - - - O
+             CHANNEL - - - - - - - X

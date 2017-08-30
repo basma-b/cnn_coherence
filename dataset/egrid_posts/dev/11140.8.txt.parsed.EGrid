@@ -1,0 +1,17 @@
+               SHARE X - - -
+            INTERNET O - - -
+               WLAN0 X - - -
+              OTHERS X - - -
+               WLAN1 X - - -
+                  AP X - - -
+                 IPS S - - -
+                 RUN O - - -
+             DNSMASQ X O - -
+                 DNS S - - -
+       DOCUMENTATION - O - -
+        DNSMASQ-BASE - O - -
+             PACKAGE - O - -
+             SERVICE - - X -
+              RUNNIG - - O -
+                THAT - - - X
+           SOMETHING - - - O

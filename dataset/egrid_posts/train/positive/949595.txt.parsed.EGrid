@@ -1,0 +1,9 @@
+             OPTIONS O -
+                IVTV S -
+           SOMETHING X -
+               ALIAS X -
+         TUNER=47,47 X -
+/ETC/MODPROBE.D/IVTV X -
+                MINE O -
+            MODUTILS X -
+                THAT - S

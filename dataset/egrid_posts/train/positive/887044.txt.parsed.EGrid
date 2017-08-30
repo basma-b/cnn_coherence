@@ -1,0 +1,26 @@
+              ANYONE - X - - - - - - - -
+                THIS - X - - - - - - - -
+                  IP - - O - - - - - - -
+                DHCP - - X - - X O - - -
+                 BOX - - X X - - - - - -
+              SERVER - - - S - - - - - -
+             ADDRESS - - - X - - - - - -
+                BASE - - - X - - - - - -
+                 MAC - - - X - - - - - -
+                 RUN - - - - X - - - - -
+          NAMESERVER - - - - O - - - - -
+                SUDO - - - - X - - - - -
+                 TEE - - - - X - - - - -
+    /ETC/RESOLV.CONF - - - - S - - - - -
+                 WEB - - - - S - - - - -
+              ACCESS - - - - O - - - - -
+                BOOT - - - - - X - - - -
+             DESKTOP - - - - - X - - - -
+                DISK - - - - - X - - - -
+              INSTAL - - - - - - X - - -
+/SYS/CLASS/NET/ETH0/CARRIER - - - - - - S - - -
+            HARDWARE - - - - - - O - - -
+            DHCLIENT - - - - - - - X - -
+                ETH0 - - - - - - - X - -
+                THAT - - - - - - - - O -
+              REBOOT - - - - - - - - S -

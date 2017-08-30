@@ -1,0 +1,37 @@
+                   X S - - X - - - - - - - - - - O - -
+                 USE O - - - - - - - - - - - - - - - -
+                TIME - X - - - - - - - - - - - - - - -
+              SYSLOG - X - - - - - - - - - - - - - - -
+              THINGS - O - - - - - - - - - - - - - - -
+            INTEREST - X - - - - - - - - - - - - - - -
+GDM_CONFIG_VALUE_GET_BOOL - X - - - - - - - - - - - - - - -
+           ASSERTION - X - - - - - - - - - - - - - - -
+                TYPE - X - - - - - - - - - - - - - - -
+GDM_CONFIG_VALUE_BOOL - S - - - - - - - - - - - - - - -
+              PERIOD - X - - - - - - - - - - - - - - -
+               VIDEO - X - - - - - - - - - - - X - - -
+                CARD - X - - O - - - - - - - O X - - -
+              DRIVER - - X - - - O - X - - - - - - - -
+              CHANGE - - X - - - - - - - - - - - - - -
+               START - - - O - - - - - - - - - - - - -
+           SOMETHING - - - O - - - - - - - - - O - - -
+                 ATI - - - - X - - - - - - - X - - - -
+                  XL - - - - O - - - - - - - - - - - -
+                WORK - - - - - X - - - O - - - - - - -
+              JAUNTY - - - - - X - - - - - - - - - - -
+               IDEAS - - - - - - X - - - - - - - - - -
+              SCREEN - - - - - - S - - - - - - - - - -
+           XORG.CONF - - - - - - O - - O - - - - - - -
+             DRIVERS - - - - - - - O - - - - - - - - -
+               FGLRX - - - - - - - - O S - - - - - - -
+             UPGRADE - - - - - - - - - S - - - - - - -
+                 WAY - - - - - - - - - X - - - - - - -
+            PASTEBIN - - - - - - - - - X - - - - - - -
+                ROOT - - - - - - - - - X - - - - - - -
+             NETWORK - - - - - - - - - X - - - - - - -
+                RAGE - - - - - - - - - - - - O - - - -
+            COMPUTER - - - - - - - - - - - - S - - - -
+               BUILD - - - - - - - - - - - - O - - - -
+              MOMENT - - - - - - - - - - - - - S - - -
+              OPENGL - - - - - - - - - - - - - O - - -
+              DEBIAN - - - - - - - - - - - - - - - - X

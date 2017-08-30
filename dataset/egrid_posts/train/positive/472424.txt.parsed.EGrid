@@ -1,0 +1,12 @@
+                SUDO X - - -
+            PASSWORD X - - -
+                ALL= - X - -
+            NOPASSWD - O - -
+                 ALL - X - -
+              VISUDO - S - -
+                FILE - X - -
+             SESSION - X - -
+             MINUTES - X - -
+             SUDOERS - O - -
+                 YES - - - X
+                 SIR - - - X

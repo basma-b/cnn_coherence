@@ -1,0 +1,11 @@
+            IPTABLES X S - -
+           NETFILTER - X - -
+       KERNELMODULES - O - -
+             PROGRAM - X - -
+              KERNEL - - X -
+              MODULE - - X -
+                LOAD - - X -
+             DEFAULT - - X -
+                SUDO - - - X
+                  -I - - - S
+                GIMP - - - S

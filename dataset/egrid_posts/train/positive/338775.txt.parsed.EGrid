@@ -1,0 +1,16 @@
+      NETWORKMANAGER X - - - - -
+                PPTP X - - - - -
+              PLUGIN X - O - - -
+      CONFIGURATIONS X - - - - -
+               DEBUG - X - - - -
+              OUTPUT - X X - - -
+       CONFIGURATION - - X - - -
+              SYSLOG - - S - - -
+              CLIENT - - X - - O
+         PPTP-CLIENT - - O - - -
+              CONFIG - - - X - -
+                FILE - - - O - -
+            /ETC/PPP - - - X - -
+               STORE - - - - - O
+               GCONF - - - - - X
+               STUFF - - - - - S

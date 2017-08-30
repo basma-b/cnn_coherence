@@ -1,0 +1,17 @@
+             FOLDERS - O - - - - - - -
+               SHARE - X - - - X - - -
+              UBUNTU - X X - - - - - -
+                FILE - - X - - - - - -
+                 ETC - - O - - - - - -
+             WINDOWS - - - X X - - - -
+         PERMISSIONS - - - - O - - - -
+              ACCESS - - - - - O - - -
+            SMB.CONF - - - - - X - - -
+            WRITABLE - - - - - S - - -
+                 YES - - - - - O - - -
+                USER - - - - - S - X -
+                DIRS - - - - - X - - -
+                  ED - - - - - - - X -
+               OWNER - - - - - - - X -
+              FOLDER - - - - - - - X -
+              CONFIG - - - - - - - - S

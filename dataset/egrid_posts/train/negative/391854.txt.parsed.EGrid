@@ -1,0 +1,12 @@
+               SHELL X - - - -
+              SERVER O - - - -
+               GUIDE X - - - -
+              GETTIN X - - - -
+               START O - - - -
+                HELP - X - - -
+               TMPFS - - - - O
+                /TMP - - - - X
+            /VAR/TMP - - - - X
+                  .. - - - - X
+               STICK - - - - S
+      SWAP-PARTITION - - - - O

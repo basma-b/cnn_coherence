@@ -1,0 +1,20 @@
+             UPGRADE S - - - - -
+               ENTRY O - - - - -
+        SOURCES.LIST - X X - - -
+               ITEMS - O - - - -
+/ETC/APT/SOURCES.LIST - X - - - -
+           DIRECTORY - X - - - -
+/ETC/APT/SOURCES.LIST.D - X - - - -
+                  .. - X - - - -
+      SOURCES.LIST.D - S - - - -
+          DIFFERENCE - - X - - -
+                MAIN - - X - - -
+              NVIDIA - - - X - -
+             DRIVERS - - - X - -
+                SUCH - - - X - -
+           W32CODECS - - - S - -
+           MEDIBUNTU - - - X - -
+              REASON - - - X - -
+                REPO - - - O - -
+             ANOTHER - - - X - -
+                FILE - - - - - O

@@ -1,0 +1,10 @@
+             SPEAKER X - - - -
+              DEVICE S - - - -
+               LSPCI - X - X -
+                 USE - - X - -
+                 OSS - - O - -
+                ALSA - - O - -
+               PULSE - - O - -
+                JACK - - O - -
+                 USB - - - X -
+               LSUSB - - - - S

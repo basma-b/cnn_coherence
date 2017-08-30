@@ -1,0 +1,16 @@
+               HELLO S - - - - - -
+             SOMEONE X - - - - - -
+             ADAPTER X - - - - - -
+               ZONET - X - - - - -
+             ZEW2508 - S - - - - -
+             CHIPSET - O - - - - -
+                 USE - - X - - - -
+IFCONFIG/IWCONFIG/IWLIST - - O - - - -
+            IWCONFIG - - - S - - -
+              IWLIST - - - - X - -
+                LIST - - - - X - -
+             NOTHING - - - - X - -
+                SUDO - - - - - S -
+            DHCLIENT - - - - - X -
+               WLAN0 - - - - - O -
+        NODHCPOFFERS - - - - - - S

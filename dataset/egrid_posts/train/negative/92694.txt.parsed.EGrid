@@ -1,0 +1,15 @@
+        SOURCES.LIST O - - - - -
+                THAT - O - - - -
+               RIGHT - X - - - -
+                SUDO - - S - - -
+               GEDIT - - X - - -
+/ETC/APT/SOURCES.LIST - - O - - -
+                 USE - - X - - -
+               PRIVS - - O - - -
+                ROOT - - X - - -
+            TERMINAL - - X - - -
+             WARNING - - X - - -
+             DISPLAY - - O - - -
+             ACCOUNT - - - X - -
+             NOTHING - - - X - -
+                  AH - - - - - X

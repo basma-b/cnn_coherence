@@ -1,0 +1,17 @@
+             PROBLEM O - - - -
+                WIFI X - - - -
+              DRIVER - X - - -
+             VERSION - - X - -
+             NETBOOK - - X - -
+           2.6.32-24 - - X - -
+                SUDO - - X X -
+              IWLIST - - S - -
+            WIRELESS - - X X -
+             NETWORK - - O S -
+                  OK - - - S -
+                LSHW - - - X -
+             PRODUCT - - - X -
+                LINE - - - O -
+              DEVICE - - - X -
+                  .. - - - - X
+            ETHERNET - - - - X

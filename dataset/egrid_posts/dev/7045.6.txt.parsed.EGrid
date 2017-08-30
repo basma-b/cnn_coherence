@@ -1,0 +1,15 @@
+              STREAM X - - -
+            TERMINAL X X - -
+              OUTPUT O X - -
+                FILE X X X -
+         REDIRECTION - X - -
+              SERVER - X - -
+                  PC - X - -
+                 TEE - - O -
+                PIPE - - X -
+                LINE - - - X
+               USERS - - - X
+       WORKSTATIONS= - - - X
+              ADMINS - - - X
+          ADMIN_CMDS - - - X
+                USER - - - O

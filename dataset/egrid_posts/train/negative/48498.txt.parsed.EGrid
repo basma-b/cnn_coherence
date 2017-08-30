@@ -1,0 +1,8 @@
+        SOURCES.LIST S - - -
+             DEFAULT O - - -
+              SOURCE - S - -
+                SUDO - - X -
+           APT-SETUP - - X -
+                SORT - - - O
+        DEPENDENCIES - - - X
+             PROGRAM - - - S

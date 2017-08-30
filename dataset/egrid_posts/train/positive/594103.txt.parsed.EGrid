@@ -1,0 +1,14 @@
+             SUCCESS O - - - - - - -
+              FORMAT - X - X - - X X
+               DRIVE - - O - - - - -
+              SYSTEM - - X - - - - -
+                  ID - - O - - - - -
+          FILESYSTEM - - S - - - X -
+                 HDD - - - O - - - O
+               FAT32 - - - X - - - -
+               IDEAS - - - - X - - -
+           MKFS.VFAT - - - - - O - -
+            /DEV/SDX - - - - - S - -
+           PARTITION - - - - - - S O
+           FSCK.VFAT - - - - - - S -
+               CHECK - - - - - - O -

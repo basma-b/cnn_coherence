@@ -1,0 +1,29 @@
+      LOCALHOST:4001 X - - - - -
+           127.0.0.1 X - - - - -
+          CONNECTION - X - - - -
+               PROXY - O - - X -
+             MACHINE - X - - - -
+             PROXIES - O - - - -
+             FIREFOX - X - - - -
+                 ONE - O - - - -
+          CONENCTION - - X - - -
+            INTERNET - - X - - -
+            PASTEBIN - - X - - -
+/ETC/APT/SOURCES.LIST - - X - - -
+                 ANT - - X - - -
+              OUTPUT - - S - - -
+             COMMAND - - X - - -
+                 ENV - - X - - -
+            APT.CONF - - O - - -
+                 CAT - - X - - -
+/ETC/APT/APT.CONF.D/ - - X - - -
+                   * - - O - - -
+                HTTP - - - X - -
+               THATS - - - X - -
+              OTHERS - - - X - -
+                 WAY - - - O - -
+              SYSTEM - - - - X -
+                   > - - - - X -
+         PREFERENCES - - - - X -
+           SOMETHING - - - - X -
+              CARLFK - - - - - S

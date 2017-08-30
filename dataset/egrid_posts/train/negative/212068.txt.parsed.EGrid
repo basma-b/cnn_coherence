@@ -1,0 +1,16 @@
+            TERMINAL X - - -
+             SERVICE X - - -
+                 VNC S - - -
+                 USE X - - -
+            RDESKTOP O - - -
+              SERVER X - - -
+           INTERFACE S - - -
+            PROTOCOL O - - -
+         COMMANDLINE O - - -
+                  4G - - X -
+                 RAM - - X -
+                HOST - - X S
+                  OS - - X -
+             PROBLEM - - - S
+              REPORT - - - X
+                  1G - - - X

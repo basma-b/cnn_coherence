@@ -1,0 +1,12 @@
+PACKAGE+PACKAGE_DEPS X - - - - - -
+             APT-GET - X - - - - -
+                DEPS - X - - - - -
+              EITHER - - S - - - -
+            APTITUDE - - O - - - -
+                HTTP - - O - - - -
+//RELEASES.UBUNTU.COM/QUANTAL/ - - S - - - -
+         DESCRIPTION - - O - - - -
+                 TOP - - X - - - -
+                THAT - - - S - - -
+                  VM - - - X - - -
+                   U - - - - - - S

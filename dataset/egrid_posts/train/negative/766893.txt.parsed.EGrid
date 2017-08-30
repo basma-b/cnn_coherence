@@ -1,0 +1,15 @@
+             COMMAND X - - - - - -
+                LINE X - - - - - -
+          AUTOREMOVE O - - - - - -
+              OPTION O - - - - - -
+               PURGE - - S - - - -
+                FILE - - O - - - -
+                APPS - - - X - - -
+        DEPENDENCIES - - - S - - -
+             CONFIGS - - - O - - -
+                BIOS - - - - O - -
+               ISSUE - - - - O - -
+             PROBLEM - - - - S - S
+             SESSION - - - - S - -
+                 ALT - - - - - O -
+                XFCE - - - - - - S

@@ -1,0 +1,24 @@
+              SYSTEM O - - - O - X
+              ERRORS O - O - - - -
+             DETAILS X - - - - - -
+                BASH X - - - - - -
+                 LOG - X - - - - -
+               STORE - X - - - - -
+                   ' - - S - - - -
+              UPDATE - - O - - - X
+             UPGRADE - - O - - - -
+             MANAGER - - O - - - O
+                LOOK - - O - - - O
+            TERMINAL - - X - - - -
+             PACKAGE - - O - - - -
+             PACKEGS - - - X - - -
+             REQUIRE - - - X - - -
+          AUTOREMOVE - - - - X - -
+                HTTP - - - - - S -
+               PURGE - - - - - X -
+                SOME - - - - - - S
+       LINUX-HEADERS - - - - - - X
+LIBBOOST-PROGRAM-OPTIONS - - - - - - X
+                 DON - - - - - - X
+                   > - - - - - - X
+                  'T - - - - - - S

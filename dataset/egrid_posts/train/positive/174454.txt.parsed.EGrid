@@ -1,0 +1,6 @@
+        SOURCES.LIST X - -
+                SUDO - S -
+/ETC/APT/SOURCES.LIST - O -
+               GEDIT - - O
+               SHELL - - X
+               THERE - - S

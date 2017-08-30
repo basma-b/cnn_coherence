@@ -1,0 +1,8 @@
+             PROFTPD - S - - -
+          STANDALONE - X - - -
+                MODE - X - X O
+             SERVICE - X - - -
+       CONFIGURATION - - O - -
+        INETD/XINETD - - - X -
+                TYPE - - - X -
+              IDSTAT - - - X -

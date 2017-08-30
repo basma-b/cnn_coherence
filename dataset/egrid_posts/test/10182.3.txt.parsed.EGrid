@@ -1,0 +1,13 @@
+                FSCK - O - -
+                FILE - S - -
+             TRIGGER - S - -
+              PYTHON - X - -
+               THATS - O - -
+                  .. - X - -
+                HAND - X - -
+       /ETC/TIMEZONE - - O -
+              THINGS - - O -
+                LOOK - - - O
+/VAR/LIB/DPKG/INFO/TZDATA.POSTINST - - - X
+              TZDATA - - - S
+                CALL - - - O

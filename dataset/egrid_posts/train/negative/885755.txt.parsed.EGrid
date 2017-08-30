@@ -1,0 +1,14 @@
+   /ETC/DEFAULT/GRUB O - -
+GRUB_CMDLINE_LINUX_DEFAULT= O - -
+               QUIET S - -
+                SUDO X - -
+    UPDATE-INITRAMFS X - -
+                  -R X - -
+         UPDATE-GRUB X - -
+                WELL X - -
+            QUESTION O - -
+        BOOT-OPTIONS X - -
+              INITRD - X -
+                HOOK - O -
+/USR/SHARE/INITRAMFS-TOOLS/HOOKS - X -
+              SYSTEM - - O

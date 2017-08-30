@@ -1,0 +1,9 @@
+               MOUNT X - - - - -
+                EXT4 X - - - - -
+           PARTITION O - - - S -
+              EXT2/3 - - X - - -
+                EXT3 - - X - - -
+              REISER - - - X - -
+              VOLUME - - - - X -
+             PROJECT - - - - - O
+                DEAL - - - - - S

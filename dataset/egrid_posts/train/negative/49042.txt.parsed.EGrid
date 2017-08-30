@@ -1,0 +1,12 @@
+             TROUBLE O - - - - -
+LINUX-RESTRICTED-MODULES O - - - - -
+            LINUX-K7 X - - - - -
+             RESTART X - - - - -
+                XORG X - - - - -
+             STARTUP X - - - - -
+              ERRORS O - - - - -
+              SYMBOL X X - - - -
+__GLXGETACTIVESCREEN S S - - - -
+/USR/X11R6/LIB/MODULES/EXTENSIONS/LIBDRI.A X X - - - -
+                 DRI - - X - - -
+               ISSUE - - - - X -

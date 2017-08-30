@@ -1,0 +1,19 @@
+           DIRECTORY S - - -
+                READ X - - -
+         PERMISSIONS X - - -
+               RIGHT O - - -
+                DEAL O - - -
+                 ONE S - - -
+                REST S - - -
+              SYSTEM X - - -
+               POSIX X - - -
+           CONVETION O - - -
+                SIGN S - - -
+          RWXR-XR-X+ X - - -
+           GROUPWISE - - O -
+              UBUNTU - - X -
+              REASON - - - O
+               ERROR - - - S
+      INITIALIZATION - - - X
+VMJAVA/LANG/NOCLASSDEFFOUNDERROR - - - X
+    JAVA/LANG/OBJECT - - - X

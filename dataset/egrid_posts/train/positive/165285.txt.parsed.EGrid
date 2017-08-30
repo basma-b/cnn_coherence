@@ -1,0 +1,12 @@
+                 DNS O - - -
+                  IP O - - -
+/ETC/NETWORK/INTERFACES X - - -
+                 YES - X - -
+                NAME - X - -
+             SERVERS - O - -
+          INTERFACES - X - -
+              EFFECT - - X -
+         RESOLV.CONF - - S O
+                CARE - - O -
+                MOST - - X -
+             RESOLVE - - X -

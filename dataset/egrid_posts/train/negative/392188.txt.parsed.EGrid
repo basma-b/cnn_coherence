@@ -1,0 +1,25 @@
+              DRIVER O - X - - - - - -
+             NETWORK X - - - - - - - -
+                CARD X - - - - - - - -
+                MAKE - O - - - - - - -
+              SYSTEM - - X - - - - - -
+                 RUN - - - X - - - - -
+          README.TXT - - - S - - - - -
+               LSMOD - - - X - - - - -
+             8139TOO - - - O - - - - -
+             MESSAGE - - - X - - - - -
+               USAGE - - - X - - - - -
+                 USE - - - X - - - - -
+                SUDO - - - X - - - - -
+            MODPROBE - - - X - - - - -
+             COMMAND - - - X - - - - -
+                LINE - - - X - - - - -
+                  .. - - - X - - - - -
+           SOMETHING - - - O - - - - -
+              MODULE - - - - O - - - -
+               STUFF - - - - - O - - -
+/ETC/NETWORK/INTERFACES - - - - - X - - -
+                TALK - - - - - O - - -
+                ETH1 - - - - - X - - -
+                   P - - - - - - X - -
+                P229 - - - - - - - X -

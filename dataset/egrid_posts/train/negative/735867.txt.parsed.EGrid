@@ -1,0 +1,18 @@
+              ANYONE X - -
+                 SSH X - O
+               SSHFS X - -
+                ROOT - X -
+                 KEY - X -
+           DIRECTORY - X -
+/ETC/SSH/SSHD_CONFIG - O -
+     PERMITROOTLOGIN - S -
+                 YES - O -
+                SUDO - X -
+              PASSWD - O -
+            PASSWORD - O -
+          SSH-KEYGEN - X -
+             KEYPAIR - X -
+              CLIENT - - S
+            TERMINAL - - X
+             APT-GET - - S
+               AFAIK - - O

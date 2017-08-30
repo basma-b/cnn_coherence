@@ -1,0 +1,19 @@
+                  HI S - - - - -
+             ADDRESS O - X O - -
+                ETH1 X - - - - -
+              ETH1:0 X O - - - -
+                DHCP X - - X - -
+                IFUP - X - - - -
+                 ING - X - - - -
+        SIOCSIFFLAGS - S - - - -
+             REQUEST - X - - - -
+              ADDRES - O - - - -
+                 BOX - - X - - -
+              DEVICE - - - O - -
+              SERVER - - - X - -
+                AUTO - - - X - -
+                  IF - - - O - -
+               IFACE - - - X - -
+/ETC/NETWORKS/INTERFACES - - - S - -
+             IF=ETH1 - - - X - -
+           IF=ETH1:0 - - - X - -

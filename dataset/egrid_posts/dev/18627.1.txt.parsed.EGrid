@@ -1,0 +1,8 @@
+               MOUNT X - - X
+              DEVICE O - - -
+                TYPE - - S -
+         MOUNTPOINTS - - O -
+             COMMAND - - - S
+             LIVEUSB - - - X
+                /COW - - - O
+                   / - - - X

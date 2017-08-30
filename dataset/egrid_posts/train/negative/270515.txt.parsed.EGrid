@@ -1,0 +1,17 @@
+             COMMAND S - -
+             PACKAGE O S -
+              PROMPT X - -
+           UNINSTALL - X -
+             FEATURE - O -
+                BOOT - X -
+             PROCESS - O -
+             USELESS - S -
+             STARTUP - X -
+             MESSAGE - X -
+      PROMPTS/INPUTS - O -
+                USER - X -
+                HOST - X -
+               LINES - X -
+                CRAP - X -
+                   > - X -
+               INPUT - X -

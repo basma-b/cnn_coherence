@@ -1,0 +1,22 @@
+                 HMM X - - - - - - - -
+                CANT - X - - - - - - -
+                ROOT - X - X - - - - -
+                COPY - O - - - - - - -
+                BASH - X - - - - - - -
+                USER - O X S - - - - -
+        /ETC/SUDOERS - X - - - - - - -
+                FILE - X - - - - - - -
+              SCRIPT - - S O - - - - -
+            PASSWORD - - O - - - - - -
+                 SET - - - X - - - - -
+                BITE - - - S - - - - -
+           OWNERSHIP - - - O - - - - -
+              BYPASS - - - X - - - - -
+                SUDO - - - X - - - - -
+                HTTP - - - - X - - - -
+//EN.WIKIPEDIA.ORG/WIKI/STICKY_BIT - - - - X - - - -
+               USAGE - - - - X - - - -
+                PERM - - - - - - - O -
+               OWNER - - - - - - - X -
+              NOSUID - - - - - - - - O
+          FILESYSTEM - - - - - - - - X

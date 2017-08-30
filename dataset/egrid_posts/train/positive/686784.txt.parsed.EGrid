@@ -1,0 +1,22 @@
+              APACHE X - - - -
+              SERVER S - - - S
+              ACCESS X - - - -
+                 LOG O - - - X
+             DEFAULT X - - - -
+/ETC/APACHE2/APACHE2.CONF X - - - -
+           CUSTOMLOG O - X - X
+                LINE X - O - O
+                  .. X - X - -
+              REASON X - - - O
+              NORMAL X - - - -
+           SOMETHING - O - - -
+            ERRORLOG - X X - -
+      LOGS/ERROR_LOG - X - - -
+/VAR/LOG/APACHE2/ERROR.LOG - - X - -
+     LOGS/ACCESS_LOG - - S - -
+              STRING - - - - O
+             COMMENT - - - - X
+              FORMAT - - - - X
+         DEFINITIONS - - - - S
+/VAR/LOG/APACHE2/ACCES.LOG - - - - X
+                FILE - - - - X

@@ -1,0 +1,11 @@
+            FILENAME S - - - -
+                FILE S - - - X
+                  SH - - X - -
+         YOURFILE.SH - - S - -
+             COMMAND - - X - -
+             VERSION - - O - -
+               CHMOD - - - - X
+                  +X - - - - X
+              MYFILE - - - - X
+         PERMISSIONS - - - - O
+                  .. - - - - X

@@ -1,0 +1,21 @@
+             OPTIONS X - - - - -
+      FOLLOWSYMLINKS X - - - - -
+              APACHE X S - - - -
+              CONFIG X - - - - -
+                THAT - O - O - S
+               CHECK - X X - - -
+                FILE - X X - - -
+APACHE2/SITES-AVAILABLE/DEFAULT - X - - - -
+                LINK - O - S - -
+           DIRCONFIG - X - - - -
+                SITE - X - - - -
+         DIRECTORIES - - X - - -
+                HOST - - X - - -
+               ERROR - - O - - -
+                 LOG - - X - - -
+/VAR/LOG/APACHE2/ERROR.LOG - - X - - -
+                IDEA - - X - - -
+                  .. - - - O - -
+         VIRTUALHOST - - - X - -
+                   > - - - X - -
+          VIRTUALBOX - - - - - X

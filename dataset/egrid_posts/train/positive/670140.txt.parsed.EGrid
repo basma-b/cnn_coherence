@@ -1,0 +1,17 @@
+              FORMAT X - - - - - - - -
+                   C X X - - - - - - -
+               DRIVE O X - - - - - - -
+              UBUNTU O - - X - - - - -
+           PARTITION - X - - O - - - -
+              INSTAL - O - - - - - - -
+                WUBI - X - - - - - - -
+             WINDOWS - X - X O S - O S
+                DISK - - X - - - - - -
+           APRTITION - - - O - - - - -
+              SYSTEM - - - O - - - - -
+                UUID - - - - X - - - -
+         FILESYSTEMS - - - - X - - - -
+                 MBR - - - - - X - - X
+                 WHA - - - - - O - - -
+             PROCESS - - - - - - - - O
+                GRUB - - - - - - - - O

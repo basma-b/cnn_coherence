@@ -1,0 +1,16 @@
+               THERE X - - -
+             COMMAND X - - -
+                TYPE X - - -
+            TERMINAL X - - -
+            WIRELESS X - - -
+              DRIVER S - - -
+                 USE O - - -
+               LSPCI - X S -
+                THAT - - O -
+            HARDWARE - - X -
+         INFORMATION - - O -
+               SETUP - - X -
+         KISMET.CONF - - X -
+   SOURCE=SOURCETYPE - - - X
+           INTERFACE - - - X
+                NAME - - - X

@@ -1,0 +1,13 @@
+             PROGRAM X X - - - -
+             STARTUP X - - - - -
+                ROOT X - - - - -
+           PRIVILEGE O - - - - -
+              DAEMON - - - O - -
+           KEYBOARDS - - - X - -
+/ETC/INIT.D/BOOTMISC.SH - - - X - -
+                 MAN - - - X - -
+         UPDATE-RC.D - - - X - -
+              SCRIPT - - - O - -
+         /ETC/INIT.D - - - X - -
+                EDGY - - - - X X
+             UPSTART - - - - O X

@@ -1,0 +1,14 @@
+                 VPN X - - -
+              CLIENT O - - -
+               ERROR O - - -
+          CONNECTION S - - -
+              REASON X - - -
+               DMESG - O - -
+                  NO - S - -
+                 TRY - - X -
+                INFO - - X -
+                IDEA - - X -
+     /VAR/LOG/SYSLOG - - X -
+                FILE - - X -
+            /VAR/LOG - - X -
+               GNOME - - - O

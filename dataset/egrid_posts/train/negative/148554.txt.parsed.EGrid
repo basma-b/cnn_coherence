@@ -1,0 +1,25 @@
+                TYPE S - - - - O - - - - -
+                   | O - - - - - - - - - -
+               SOUND - - O - - - - - - - -
+              README - - - X - - - - - - -
+                  -L - - - - X S - - - - -
+               APLAY - - - - X - - - - - -
+                  .. - - - - - O - - - - -
+               RMMOD - - - - - S - - - - -
+              MODULE - - - - - X - - - - -
+                SUDO - - - - - X - - - - -
+            MODPROBE - - - - - X - - - - -
+            ISAPNP=0 - - - - - O - - - - -
+              DMA1=1 - - - - - X - - - - -
+               READY - - - - - X - - - - -
+              RELOAD - - - - - O - - - - -
+          SOUNDCARDS - - - - - S - - - - -
+                LINE - - - - - X - - - - -
+                THAT - - - - - - O - - - X
+              OUTPUT - - - - - - - X - - -
+               LSPCI - - - - - - - X - - -
+                  OK - - - - - - - - - X -
+                HTTP - - - - - - - - - X -
+//PASTE.UBUNTU-NL.ORG/13827 - - - - - - - - - X -
+                HELP - - - - - - - - - - X
+                LOOK - - - - - - - - - - O

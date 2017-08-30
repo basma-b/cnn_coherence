@@ -1,0 +1,27 @@
+                  DO O - - - - - - -
+               MOUNT X - - - - - - -
+                BIND X - - - - - - -
+              THANSK X - - - - - - -
+                DPKG S - - - - - - -
+             MD5SUMS S - - - - - - -
+            .MD5SUMS X - - - - - - -
+             PACKAGE S - - - - - - -
+             VERSION S - - - - - - -
+                FILE X - - - - O - -
+               STORE X - - - - - - -
+        INSTALLATION - X - - - - - -
+                  .. - - X - - - - -
+         RECONFIGURE - - O - - - - -
+                THAT - - - S - - - -
+PRE-/POSTINST-SCRIPTS - - - O - - - -
+              INSTAL - - - O - - - -
+ /VAR/LIB/DPKG/INFO/ - - - - X - - -
+                 TAR - - - - X - X X
+                 USE - - - - - X - -
+               RSYNC - - - - - S - -
+                   W - - - - - X - -
+                  CD - - - - - - X X
+                 -CF - - - - - - X -
+                /MNT - - - - - - - X
+                -XVF - - - - - - - X
+           TARGET-FS - - - - - - - S

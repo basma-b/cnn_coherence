@@ -1,0 +1,17 @@
+              FORMAT X X - - - - -
+               DRIVE O - - - - - -
+            /DEV/SDB X - - - - - -
+              RESCUE X - - - - - -
+             DOESNOT - S - - - - -
+                DATA - S - - - - -
+            TESTDISK - O - - - - -
+           SOMETHING - S - - O - -
+                LIST - X - - - - -
+             GPARTED - - X - - - -
+            DROPBOWN - - X - - - -
+             MKDOSFS - - O - - - -
+              OUTPUT - - O O - - -
+               FDISK - - X - - - -
+                  -L - - X - X - -
+                ROOT - - - - X - -
+               THANK - - - - - - X

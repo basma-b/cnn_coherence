@@ -1,0 +1,14 @@
+             COMMAND O X - - -
+               HTTPS O - - - -
+//BUGZILLA.GNOME.ORG/SHOW_BUG.CGI O - - - -
+           ID=551995 - X - - -
+           GCONFTOOL - X - - -
+                 SET - X - - -
+               GCONF - - X - -
+             SOMEONE - - X - -
+                 APP - - S - -
+                  F2 - - - X -
+                THAT - - - - S
+                 RUN - - - - X
+         APPLICATION - - - - X
+              DIALOG - - - - O

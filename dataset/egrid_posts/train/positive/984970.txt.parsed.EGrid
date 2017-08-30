@@ -1,0 +1,16 @@
+             PACKAGE O O O
+                  CD X X -
+                 WAY X - -
+              INSTAL - S -
+                 ALL - X -
+                DPKG - X -
+    /MNT/CDROM/BLAH/ - X -
+                   * - X -
+                .DEV - X -
+                WORK - O -
+                 DEB - X -
+                FILE - X -
+               THESE - S -
+                ONES - O -
+/VAR/CACHE/APT/ARCHIVES - X -
+              DEBIAN - X -

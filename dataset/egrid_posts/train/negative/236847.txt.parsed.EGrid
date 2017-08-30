@@ -1,0 +1,9 @@
+           PARTITION X - O - -
+           /DEV/SDA2 X - - - -
+                TIME - O - - -
+              ACCESS - O - - -
+                BOOT - X - - -
+          /ETC/FSTAB - - X - -
+                AUTO - - O - -
+             OPTIONS - - X - -
+               THANK - - - - X

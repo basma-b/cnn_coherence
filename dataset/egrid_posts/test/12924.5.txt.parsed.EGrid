@@ -1,0 +1,12 @@
+            LOCATION X -
+              SYNTAX O -
+                MOVE X -
+                FILE O -
+              FOLDER X -
+              PARENT X -
+           DIRECTORY S -
+/NEW/DIRECTORY/HERE/ O -
+                MENU - X
+             OPTIONS - X
+              UBUNTU - S
+                DISC - O

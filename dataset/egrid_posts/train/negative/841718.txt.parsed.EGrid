@@ -1,0 +1,27 @@
+                ETH0 - X - - - - - - - - - -
+             COMMAND - S - - - - X - - - - -
+                INFO - - X - - - - - - - - -
+         REMASTERSYS - - X - - - - - - - - -
+     NETWORK-MANAGER - - S - - - S - - S - -
+/ETC/NETWORK/INTERFACES - - O - - S - - - - - -
+               CABLE - - S - - - - - - - - -
+          INTERFACES - - X - - O X - - X - -
+             CONTENT - - O - - - - - - - - -
+                THAT - - - X - - - S - - X -
+            PROBLEMS - - - O - - - - - - - -
+            QUESTION - - - - S - - - - - - -
+               ISSUE - - - - O - - - - - - -
+            SETTINGS - - - - - O - - - - - -
+             NETWORK - - - - - - X - X - - -
+            IFCONFIG - - - - - - X - O - - -
+                FILE - - - - - - X - - X - -
+             RESPECT - - - - - - - - X - - -
+                  NM - - - - - - - - X - - -
+               ENDIP - - - - - - - - - O - -
+                KIND - - - - - - - - - O - -
+              CONFIG - - - - - - - - - X - -
+                LINE - - - - - - - - - O - -
+           INTERFACE - - - - - - - - - O - -
+             PACKAGE - - - - - - - - - - O -
+                  NO - - - - - - - - - - - X
+                 GUI - - - - - - - - - - - X

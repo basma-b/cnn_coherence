@@ -1,0 +1,13 @@
+              CLIENT X X - - - - -
+                 VNC - X - - - - -
+              SERVER - O - - - - X
+               ORDER - S - - - - -
+            TRAVERSE - X - - - - -
+                 NAT - O - - - - -
+                THIS - - - - X - -
+              TUNNEL - - - - X - -
+                 SSH - - - - X - -
+                PORT - - - - - S X
+      ROUTER/GATEWAY - - - - - X -
+                 XXX - - - - - - O
+              TARGET - - - - - - X

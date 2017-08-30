@@ -1,0 +1,16 @@
+               THERE X - - - - - - - - - - - - -
+                 WAY X - - - - - - - - - - - - -
+              KERNEL O - - - - - - - - - - - - -
+        SUBDIRECOTRY O - - - - - - - - - - - - -
+                ROOT X - - - - - - - X - - - - O
+              CHROOT - - X - - - - - - - - - - -
+           PARTITION - - - O - - - - O - - - - -
+              DISTRO - - - X - - - - - - - - - -
+                HOME - - - - X - - - X - - - - -
+                SWAP - - - - S - - - X - - - - -
+         INDIPENDENT - - - - - - - - O - - - - -
+             DISTROS - - - - - - - - S - - - - S
+      REPARTITIONING - - - - - - - - - - - S - -
+                THIS - - - - - - - - - - - O - -
+                BOTH - - - - - - - - - - - - - X
+      LIBS/UTILS/ETC - - - - - - - - - - - - - O

@@ -1,0 +1,14 @@
+       /PROC/CMDLINE S - - - - - - -
+                FILE O - X - - - - -
+             OPTIONS S - - - - - - -
+            BOOTTIME X - - - - - - -
+               SENSE - O - - - - - -
+              PROCFS - - - X - - - -
+              KERNEL - - - S - - - -
+               GUESS - - - X - - - -
+                GRUB - - - O - - X -
+          PARAMETERS - - - O - - - -
+           SOMETHING - - - - - O - -
+              INITRD - - - - - X - -
+            MENU.LST - - - - - - O -
+               GRUB2 - - - - - - - O

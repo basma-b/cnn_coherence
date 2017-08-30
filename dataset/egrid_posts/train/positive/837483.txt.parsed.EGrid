@@ -1,0 +1,14 @@
+                USER X S -
+          PERMISSION X - X
+             PROBLEM X - O
+                ROOT - X -
+         PERMISSIONS - O -
+/ETC/NETWORK/INTERFACES - X -
+                SHOW - X -
+               -RW-R - X -
+                   R - X -
+           AA-STATUS - - S
+             PROFILE - - S
+                LOAD - - X
+              AND/OR - - O
+             PROGRAM - - X

@@ -1,0 +1,12 @@
+               HTTPS X - - - -
+//HELP.UBUNTU.COM/COMMUNITY/BOOTOPTIONS X - - - -
+   ACTION=ATTACHFILE - X - - -
+              DO=GET - X - - -
+ TARGET=MAINBOOT.PNG - S - - -
+             UBUNTHU - X - - -
+              OPTION - X - - -
+                BOOT - - X - -
+             OPTIONS - - X - -
+                LINE - - O - -
+                USER - - - - O
+                  CD - - - - X

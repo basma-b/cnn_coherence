@@ -1,0 +1,21 @@
+   /ETC/DEFAULT/GRUB X - - - - -
+          PARAMETERS O - - - - -
+               QUOTE X - - X - -
+               SPACE X - - - - -
+             COMMAND X - - - - -
+                LINE X - X - - -
+             OPTIONS S - - - - -
+             EXAMPLE - X - - - -
+GRUB_CMDLINE_LINUX_DEFAULT= - O - - - -
+               QUIET - X - - - -
+              NOAPIC - X - - - -
+          EVERYTHING - - S - - -
+                 END - - X - - -
+             NOTHING - - S - - -
+              SYNTAX - - O - - -
+                 ONE - - - X - -
+                SOME - - - - S -
+            RECOVERY - - - - X -
+                MODE - - - - X -
+              REPAIR - - - - - X
+                  CD - - - - - X

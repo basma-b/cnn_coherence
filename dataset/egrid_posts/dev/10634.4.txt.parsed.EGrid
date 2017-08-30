@@ -1,0 +1,22 @@
+               GRUB2 X - - - - - - - - - -
+            GRAPHICS X - - - - - - - - - -
+              SCREEN - X - - - - - - - - -
+                BOOT - - X - - - - - - - -
+                MENU - - X - - - O - - - -
+                BIOS - - X - - - - - - - -
+               POSTS - - X - - - - - - - -
+          RESOLUTION - - - O - - - - - - -
+                TEXT - - - X - - - - - - -
+                MODE - - - X - - - - - - -
+                   X - - - - S - - - - - -
+                HIRE - - - - S - - - - - -
+                SUDO - - - - - S - - - - -
+   /ETC/DEFAULT/GRUB - - - - - O - - - - -
+GRUB_GFXMODE=640X480 - - - - - O - - - - -
+CONSOLE=TTYS0,115200 - - - - - O - - - - -
+         UPDATE-GRUB - - - - - - O - - - -
+              THANKS - - - - - - O - X - -
+                THAT - - - - - - - S - - -
+              JOCKEY - - - - - - - - - - X
+               HORSE - - - - - - - - - - O
+                 ALL - - - - - - - - - - X

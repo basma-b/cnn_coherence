@@ -1,0 +1,13 @@
+           PARTITION O O - - - - -
+                THIS - O O - - - -
+               /LOGS - X X - - - -
+               FSTAB - X - - - - -
+            LOCATION - - O - - - -
+                 LOG - - S - - - -
+               STORE - - X - - - -
+            TERMINAL - - X - - - -
+                 WAY - - X - - - -
+         FILE-SYSTEM - - - - O - -
+           /VAR/LOGS - - - - X - X
+               THERE - - - - - - S
+                FILE - - - - - - O

@@ -1,0 +1,9 @@
+              SCRIPT S - -
+                USER X - -
+             STARTUP X X -
+             COMMAND O - -
+                FILE X X -
+                  RC X - O
+           UPDATE-RC X - -
+        APPLICATIONS - X -
+              UPDATE - - X

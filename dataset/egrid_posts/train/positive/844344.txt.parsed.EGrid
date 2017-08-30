@@ -1,0 +1,15 @@
+               SAMBA X - - - - - - - -
+                 USE S - - - - - - - -
+               STORE X - - - - - - - -
+           PASSWORDS X X - - - - - - -
+             ENCRYPT - X - - - - - - -
+            EXCHANGE - X - - - - - - -
+             KEYRING - - S - S - - - -
+            PASSWORD - - O - - - - - -
+              SYSTEM - - - X - - - - -
+               FSTAB - - - X - - - - -
+         /ETC/PASSWD - - - - - O - - -
+               THERE - - - - - - X - -
+             PROCESS - - - - - - X - -
+              STRING - - - - - - S - -
+    PASSWORD=8EG47AF - - - - - - - - X

@@ -1,0 +1,16 @@
+                INFO X - - - - - - - - - -
+                 BOX X - - - - X - X - - -
+               BLOCK - O - - - - - - - - -
+            FIREWALL - - X - - - - - S - -
+             NETSTAT - - - - O - - - - - -
+                WORK - - - - - X - - - - -
+                PORT - - - - - - - X - - -
+              ROUTER - - - - - - - S - - X
+                 TCP - - - - - - - O - - -
+             DEFAULT - - - - - - - - X - -
+               THING - - - - - - - - X - -
+            IPTABLES - - - - - - - - S - -
+            ANYTHING - - - - - - - - O - -
+         CONNECTIONS - - - - - - - - O - -
+                 VNC - - - - - - - - - - X
+        HOSTCOMPUTER - - - - - - - - - - X

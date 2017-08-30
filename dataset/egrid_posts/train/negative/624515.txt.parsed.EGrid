@@ -1,0 +1,32 @@
+                THAT O - - - S S - -
+                SUDO X - X - X - - -
+             APT-GET S - X - S - - -
+UBUNTU-RESTRICTED-EXTRAS O - - - - - - -
+          EVERYTHING O - - O - - - -
+              CODECS O - - - - - - -
+                LUCK - X - - - - - -
+                 ATI - - X - - - - -
+            WIRELESS - - X - - - - -
+                 DVD - - S - - - - -
+               VIDEO - - X - - - - -
+             DRIVERS - - S - - - - -
+                HTTP - - O - - - - -
+//WWW.MEDIBUNTU.ORG/SOURCES.LIST.D/ - - S - - - - -
+                 -CS - - O - - - - -
+               .LIST - - S - - - - -
+OUTPUT-DOCUMENT=/ETC/APT/SOURCES.LIST.D/MEDIBUNTU.LIST - - X - - - - -
+              UPDATE - - S - - - - -
+           MEDIBUNTU - - O - X - - -
+          REPOSITORY - - - - O - - -
+                 USE - - - - X - - -
+          LIBDVDCSS2 - - - - S S - -
+             PACKAGE - - - - X O - -
+        INSTALLATION - - - - X X - -
+           CANDIDATE - - - - O O - -
+               REPOS - - - - - X - -
+                TURN - - - - - X - -
+             CALLUM_ - - - - - O - -
+            VIDEOLAN - - - - - X - -
+             WEBSITE - - - - - X - -
+                 BUG - - - - - - X O
+           SOMETHING - - - - - - - S

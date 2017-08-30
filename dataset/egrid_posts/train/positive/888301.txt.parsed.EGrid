@@ -1,0 +1,10 @@
+        COMMAND-LINE X - - -
+                TOOL X - - -
+                 USE X - - -
+             PACKAGE S - - X
+                 MAN - X - -
+             APT-GET - O - -
+              OPTION - O - -
+              POLICY - - X -
+                NAME - - - X
+             MOD_SSL - - - O

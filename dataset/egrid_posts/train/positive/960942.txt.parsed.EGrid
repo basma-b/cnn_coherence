@@ -1,0 +1,17 @@
+             COMMAND X O -
+             NETWORK X - -
+                DHCP X S S
+           INTERFACE - S -
+              FRIEND - S -
+             PROBLEM - O -
+                  .. - O -
+                 NET - S -
+            RESPONSE - X -
+                FORM - X -
+            TERMINAL - O -
+                CARD - S -
+            HARDWARE - X -
+                ETH0 - - O
+                LINE - - O
+                INET - - X
+/ETC/NETWORK/INTERFACES - - X

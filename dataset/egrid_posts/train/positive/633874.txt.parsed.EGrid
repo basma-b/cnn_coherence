@@ -1,0 +1,10 @@
+              DAEMON S - - -
+           DIFFERENT X - - -
+                  IP X - - -
+                PORT X - - -
+               SSHDS - O - -
+             DAEMONS - O - -
+    /ETC/INIT.D/SSHD - - - O
+               START - - - S
+                LOAD - - - O
+  /ETC/SSH/SSHD.CONF - - - X

@@ -1,0 +1,8 @@
+             POSTFIX X S -
+             DEFAULT - X -
+                 MTA - O -
+              UBUNTU - X -
+                MAIL - - X
+            TRANSFER - - X
+               AGENT - - X
+              DEVICE - - X

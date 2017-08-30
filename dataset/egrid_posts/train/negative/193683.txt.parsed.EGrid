@@ -1,0 +1,18 @@
+                 WAT S - - - -
+SYSTEM/ADMINISTRATION/USERS O - - - -
+            PASSWORD - O - - -
+                ROOT - X - - -
+                TYPE - X - - -
+              PASSWD - X - - -
+               USERS - X - - -
+            RUNLEVEL - - - O X
+              UBUNTU - - - X -
+                 WAY - - - - X
+                BOOT - - - - X
+               START - - - - X
+            RECOVERY - - - - X
+                MODE - - - - X
+                GRUB - - - - S
+ /BOOT/GRUB/MENU.LST - - - - X
+              XWATCH - - - - O
+                   P - - - - X

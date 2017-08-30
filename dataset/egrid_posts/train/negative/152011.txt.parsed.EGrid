@@ -1,0 +1,15 @@
+                SWAP S S -
+              DEVICE X - -
+                SHOW O - -
+           /DEV/HDA6 X - -
+               ENTRY X - -
+              ANYONE X - -
+                THIS S - -
+           HIBERNATE - X -
+         /PROC/SWAPS - X -
+           PARTITION - O -
+                  -1 - X -
+                WINE - - X
+             WINDOWS - - O
+         APPLICATION - - O
+              UBUNTU - - X

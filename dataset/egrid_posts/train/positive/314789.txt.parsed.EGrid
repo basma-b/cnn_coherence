@@ -1,0 +1,21 @@
+            QUESTION O - - - - -
+                BOOT X - - X - -
+                  IM X - - - - -
+                  .. O - - - - -
+        ROOT=BOOTARG - X - - - -
+                 CAT - X - - - -
+        /PROC/CMLINE - O - - - -
+             MODULES - X - - - -
+             DEVICES - O - - - -
+    CAT/PROC/MODULES - S - - - -
+/DEV/DISK/BY-UUID/ED8E6C38-6385-4810-9B20-8DD597E2A811 - - S - - -
+               SHELL - - X - - -
+               START - - X - - -
+            ANYTHING - - X O - -
+              UBUNTU - - - X - -
+               DIDNT - - - X - -
+               LINUX - - - O - -
+              INSTAL - - - X - -
+           PARTITION - - - O - X
+                DISK - - - - - X
+                 HDB - - - - - X

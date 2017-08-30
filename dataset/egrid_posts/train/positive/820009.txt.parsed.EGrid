@@ -1,0 +1,9 @@
+           INTERFACE O - - -
+               THING X - - -
+             SESSION S - - -
+                KILL - X - -
+                 TTY - X - -
+                 GDM - - S -
+                ROOT - - X -
+             SERVICE - - X -
+                COOL - - - S

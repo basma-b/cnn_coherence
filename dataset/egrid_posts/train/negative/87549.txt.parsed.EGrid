@@ -1,0 +1,17 @@
+               FGLRX S - - -
+              RADEON X - - -
+              8500DV O - - -
+               GRIEF X - - -
+             OPTIONS X - - -
+        VIDEOOVERLAY X - - -
+              DRIVER X - - -
+             SECTION X - - -
+        ACCELERATION O - - -
+           VIDEOCARD - X - -
+                THIS - X - -
+               |GREP - - O -
+                 VGA - - X -
+           XORG.CONF - - O -
+                THAT - - - S
+               SENSE - - - O
+                FILE - - - X

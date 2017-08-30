@@ -1,0 +1,21 @@
+      BLACKLIST.CONF O - - O - -
+                BASH X - - X - -
+              CHANGE S - - - - -
+                NANO O - - - - -
+               ERROR S - - - - -
+                  .. O - - - - -
+                FILE X - - - - -
+              SYSTEM X - - - - -
+                THIS X - - - - -
+               .CONF - X - - - -
+                SUDO - X - - - X
+                BOOT - - X X - -
+            ANYTHING - - O - - -
+                  CD - - - X - -
+               DRIVE - - - X - -
+             APT-GET - - - - - O
+                  -Y - - - - - S
+FLASHPLUGIN-INSTALLER - - - - - O
+          AUTOREMOVE - - - - - X
+              UPDATE - - - - - O
+ FLASHPLUGIN-NONFREE - - - - - O

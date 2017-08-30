@@ -1,0 +1,12 @@
+               12.04 X - - S - -
+            IPTABLES X S - - - -
+                 YES - X - - - -
+             SERVICE - X - - - -
+                THIS - X - - - -
+              EXPECT - X - - - -
+             REQUEST - - - O - -
+                HTTP - - - - - X
+               HTTPS - - - - - X
+//LAUNCHPAD.NET/SUBVERSION - - - - - X
+              SEARCH - - - - - O
+//PACKAGES.UBUNTU.COM/ - - - - - X

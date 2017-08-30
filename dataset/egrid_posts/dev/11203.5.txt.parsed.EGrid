@@ -1,0 +1,9 @@
+               BLOCK O - - -
+                PORT S - - -
+               OUTGO X - - -
+           INCOMMING X - - -
+             DISABLE O - - -
+                 EFI - - X -
+              SYSTEM - - X -
+           PARTITION - - X -
+          /BOOT/EFI/ - - - X

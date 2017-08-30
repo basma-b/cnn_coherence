@@ -1,0 +1,12 @@
+                 USE X - - X -
+                 TAR S - - X -
+          BACKUP.TGZ X - - - -
+                   / O - - - -
+ EXCLUDE=/LOST+FOUND X - - - -
+ EXCLUDE=/BACKUP.TGZ O - - - -
+        EXCLUDE=/MNT O - - - -
+        EXCLUDE=/SYS O - - - -
+                  .. O - - - -
+              /PROC/ - X - - -
+                PAGE - - - O -
+                TYPE - - - - X

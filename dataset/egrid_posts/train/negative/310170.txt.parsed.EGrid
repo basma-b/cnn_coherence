@@ -1,0 +1,15 @@
+             SOMEONE S - - - -
+             SUDOERS O - - - -
+                ROOT X - - - -
+            RECOVERY - X - - -
+                MODE - X - - -
+        INIT=/BIN/SH - - O - -
+              KERNEL - - X - -
+                LINE - - X - -
+              BOOTUP - - X - -
+                   E - - - X -
+                 KEY - - - O -
+               STUFF - - - O -
+                GRUB - - - X -
+                BOOT - - - X -
+           MICROSOFT - - - - O

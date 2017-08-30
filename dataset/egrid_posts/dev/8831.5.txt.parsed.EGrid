@@ -1,0 +1,18 @@
+                SUDO S - -
+                  RO O - -
+                LOOP X - -
+          /MNT/FLASH X - -
+/HOME/DJANGO/FLASH.IMG S - -
+               IOCTL X - -
+         LOOP_SET_FD X - -
+            ARGUMENT X - -
+                AUTO X - -
+              OPTION O - -
+            ATEMYRAM - - X
+                   | - - X
+              TBROWN - - X
+                   * - - X
+               BUNTU - - S
+              MEMORY - - O
+           GNU/LINUX - - X
+             DISTROS - - S

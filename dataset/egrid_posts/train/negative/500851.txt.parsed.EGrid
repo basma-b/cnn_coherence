@@ -1,0 +1,15 @@
+                  HI S - - - - -
+              ROUTER X - - - - -
+             NETWORK X O X - - -
+                CARD O - - - - -
+                ETH1 - S - - - -
+            INTERNET - O O - - -
+                DHCP - X - - - -
+                ETH0 - S - - - -
+                THIS - - - O - -
+              GENTOO - - - X - -
+            IPTABLES - - - X - -
+               CHECK - - - X - -
+          IP_FORWARD - - - S - -
+                ECHO - - - - X -
+                   > - - - - S -

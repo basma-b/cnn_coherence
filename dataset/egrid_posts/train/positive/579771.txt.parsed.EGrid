@@ -1,0 +1,19 @@
+               FSTAB X - - -
+                 USE X - - -
+               /HOME X - - -
+                UUID X - - S
+           PARTITION X - - -
+                HTTP - X - -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - X - -
+                   $ - - X -
+            T=349376 - - S -
+           /DEV/SDB1 - - X -
+               UUID= - - X -
+87888E41-0B8A-46FA-A107-9F0ADDA089A3 - - X -
+               TYPE= - - X -
+                EXT2 - - X -
+               BLKID - - - X
+                   | - - - X
+                GREP - - - X
+           REFERENCE - - - X
+             COMMAND - - - O

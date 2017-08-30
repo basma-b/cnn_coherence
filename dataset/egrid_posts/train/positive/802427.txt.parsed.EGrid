@@ -1,0 +1,16 @@
+                HTTP X - - - X - - -
+                FILE O - - - - - - -
+              MINUTE X - - - - - - -
+                PATH X X S X - - - -
+                   * - X - - - - - -
+             COMMAND - O - - - - - -
+              SCRIPT - X - X - X - X
+                   > - - - S - - - -
+      /TMP/SPOON.LOG - - - X - - - -
+              OUTPUT - - - O - - - -
+              ERRORS - - - O - - - -
+               ERROR - - - - O - - -
+             DISPLAY - - - - - - X -
+             NOTHING - - - - - - S -
+              EXPORT - - - - - - - X
+          DISPLAY=:0 - - - - - - - O

@@ -1,0 +1,14 @@
+               HERON X - - - -
+               MYSQL X - - X -
+             NETWORK X - - - -
+                 USE - S - - -
+                USER - X - - -
+                  -P - X - - -
+            PASSWORD - - O - -
+               ERROR - - O S -
+              SERVER - - - X -
+               HY000 - - - X -
+              SOCKET - - - X -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK - - - S -
+                SUDO - - - - X
+   /ETC/INIT.D/MYSQL - - - - S

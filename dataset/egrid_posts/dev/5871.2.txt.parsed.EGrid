@@ -1,0 +1,13 @@
+             COMMAND X - - -
+                FSCK S O - -
+              SYSTEM X - - -
+               CHECK O - - -
+              REBOOT X - - -
+            SHUTDOWN - O - -
+                  -F - X - -
+                 USE - - X O
+              VISUDO - - O -
+               THERE - - S -
+               ERROR - - O -
+               ISSUE - - - O
+             PROBLEM - - - S

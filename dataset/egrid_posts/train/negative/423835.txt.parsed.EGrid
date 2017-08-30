@@ -1,0 +1,14 @@
+              TARGET O - - - - - -
+                LINK X X O O - - -
+           DIRECTORY X - - - - - -
+             SYMLINK - - O - - - -
+         PERMISSIONS - - O - - - -
+/HOME/ME/APACHE-TOMCAT-5.5.20 - - O - - - -
+     /HOME/ME/TOMCAT - - X - - - -
+/HOME/ME/TOMCAT/APACHE-TOMCAT-5.5.20 - - X - - - -
+                  -F - - - O - - -
+              RETURN - - - - X - -
+./APACHE-TOMCAT-5.5.20 - - - - - O -
+            FILELIST - - - - - S -
+APACHE-TOMCAT-5.5.20 - - - - - X -
+             SOMEONE - - - - - - S

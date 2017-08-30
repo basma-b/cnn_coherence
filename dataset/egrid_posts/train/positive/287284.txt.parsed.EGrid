@@ -1,0 +1,17 @@
+             COMMAND X - X X - - -
+             STARTUP X - X X - - -
+                ROOT - X - - - - -
+              ACCESS - O - - - - -
+            PASSWORD - X - - - - -
+              SYSTEM - - X - - - -
+          PREFRENSES - - X - - - -
+            SESSIONS - - X - - - -
+             PROGRAM - - X O - - -
+                 FIX - - - X - - -
+     NETWORK-MANAGER - - - X - - -
+                PPTP - - - O - - -
+               THING - - - O - - -
+                ETH0 - - - O - - -
+             NETWORK - - - - - - X
+             MANAGER - - - - - - X
+                WCID - - - - - - X

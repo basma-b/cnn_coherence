@@ -1,0 +1,34 @@
+              KERNEL O O - - - - - - -
+             APT-GET - S - - - - - - -
+LINUX-RESTRICTED-MODULES - O - - - - - - -
+                SUDO - X - - - - - - -
+             INSTALL - X - - - - - - -
+LINUX-RESTRICED-MODULES-686-SMP - O - - - - - - -
+               QUOTE - X - - - - - - -
+                MARK - O - - - - - - -
+              REBOOT - X - - - - - - -
+                 BRB - X - - - - - - -
+    DPKG-RECONFIGURE - X - - - - - - -
+        XSERVER-XORG - O - - - - - - -
+               VIDEO - X - - - - - - -
+              DRIVER - X - - - - - - -
+               FGLRX - X - - - - - - -
+              NVIDIA - O - - - - - - -
+            WIRELESS - X - S - - - - -
+                CARD - X - - - - - - -
+             PROBLEM - O - - - - - - -
+                BOOT - - O X - - - - -
+                  .. - - - O - - - - -
+                WORK - - - X - - - - -
+              SCREEN - - - S - - - - -
+          EVERYTHING - - - S - - - - -
+                TIME - - - - O - - - -
+               BUNCH - - - - - - O - -
+            PROBLEMS - - - - - - X - -
+              ANYHOW - - - - - - X - -
+                XORG - - - - - - - S -
+                MESS - - - - - - - X -
+               PLACE - - - - - - - X -
+               CLEAN - - - - - - - - S
+                SEET - - - - - - - - S
+           HEADACHES - - - - - - - - X

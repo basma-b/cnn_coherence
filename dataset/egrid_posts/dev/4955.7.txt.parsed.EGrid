@@ -1,0 +1,5 @@
+ /BOOT/GRUB/GRUB.CFG X -
+             NETWORK - X
+             MANAGER - O
+                 CLI - X
+                FILE - O

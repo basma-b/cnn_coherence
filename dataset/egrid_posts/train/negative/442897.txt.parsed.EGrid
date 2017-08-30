@@ -1,0 +1,13 @@
+                JEOS O - - - -
+         METAPACKAGE X - - - -
+                LAMP X X S - -
+              SERVER O S - - -
+             PACKAGE - O S - -
+             PROCESS - X - - -
+             TASKSEL - - S - -
+            TERMINAL - - X - -
+                SUDO - - X - -
+          HTTPD.CONF - - - - S
+                 ONE - - - - S
+        /ETC/APACHE2 - - - - X
+                LINE - - - - O

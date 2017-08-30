@@ -1,0 +1,13 @@
+                SUDO X X -
+             APT-GET X - -
+               PURGE S - -
+                LINK O - -
+                 BIN X - -
+                DATA - O -
+             NETWORK - S -
+             COMMAND - S -
+            IFCONFIG - O -
+                  .. - - X
+                THIS - - O
+           OPERATION - - X
+               ERROR - - X

@@ -1,0 +1,17 @@
+              LOUNGE S -
+             NETWORK X -
+             MANAGER X -
+         RESOLV.CONF O -
+            DNS-MASQ O -
+               12.04 X -
+      NETWORKMANAGER O -
+              SCRIPT O -
+          INTERFACES O -
+       CONFIGURATION X -
+             SYTSTEM S -
+                /ETC X -
+                FILE - O
+GRUB_CMDLINE_LINUX_DEFAULT= - S
+           NOMODESET - X
+         UPDATE-GRUB - O
+            GRUB.CFG - O

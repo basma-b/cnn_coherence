@@ -1,0 +1,11 @@
+   /ETC/MYSQL/MY.CNF O - - - - -
+    LOG_SLOW_QUERIES O - - - - -
+               MYSQL S X - - - -
+                 WAY - X - - - -
+              RELOAD - O - - - -
+              APACHE - X - - - -
+               THERE - - - S - -
+              OPTION - - - O - -
+   /ETC/INIT.D/MYSQL - - - X - -
+                THAT - - - - - O
+              COURSE - - - - - X

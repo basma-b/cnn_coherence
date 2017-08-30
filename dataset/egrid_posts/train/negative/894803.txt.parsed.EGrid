@@ -1,0 +1,13 @@
+              SYSTEM S S -
+              EFFECT O X -
+              WINDOW X - -
+              SHADOW X - -
+            LAUNCHER X - -
+               CLICK X - -
+         PREFERENCES - X -
+          APPEARANCE - X -
+                NONE - O -
+                ECHO - - X
+               |SUDO - - X
+                 TEE - - X
+/ETC/X11/DEFAULT-DISPLAY-MANAGER - - X

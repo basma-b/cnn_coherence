@@ -1,0 +1,16 @@
+              NVIDIA X X -
+             DRIVERS X - -
+                 X11 - S -
+              DRIVER - O -
+                  NV - X -
+  /ETC/X11.XORG.CONF - X -
+                SAIS - X -
+               MATCH - X -
+              DEVICE - X -
+             SECTION - X -
+            INSTANCE - X -
+               BUSID - X -
+           PCI:1:0:0 - X -
+                  .. - O -
+             DEVICES - S -
+         MEDIAPLAYER - - O

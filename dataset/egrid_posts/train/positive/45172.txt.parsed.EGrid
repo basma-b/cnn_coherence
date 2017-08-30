@@ -1,0 +1,9 @@
+              EXPORT X - - -
+ ACLOCAL=ACLOCAL-1.8 S - - -
+                THIS S - - -
+             VERSION X - - -
+           VARIABLES - - S -
+           BEHAVIOUR - - O O
+          AUTORECONF - - X -
+            AUTOMAKE - - - X
+                 USE - - - S

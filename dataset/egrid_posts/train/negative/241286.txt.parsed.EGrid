@@ -1,0 +1,13 @@
+          RESOLUTION X - - - - -
+         FRAMEBUFFER - S - - - -
+COMMAND/FILE/PACKAGE - O - - - -
+                THAT - - O - - -
+               FBSET - - S - - -
+               CHECK - - - X - -
+                LIST - - - O - -
+                HTTP - - - - X -
+//GENTOO-WIKI.COM/HOWTO_FRAMEBUFFER - - - - X -
+          BOOTSPLASH - - - - X -
+          GRUBSPLASH - - - - X -
+ KERNEL_MODE_NUMBERS - - - - X -
+         PERMISSIONS - - - - - X

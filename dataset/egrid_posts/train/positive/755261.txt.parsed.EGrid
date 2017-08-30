@@ -1,0 +1,19 @@
+                  'S S - - - - - -
+                  HD - X - - - - -
+               SPACE - S - - - - -
+            SOLUTION - O - - - - -
+                MMAP - - S - - - -
+                ROOM - - X - - - -
+             APT-GET - - X - - - -
+            APTITUDE - - O - - - -
+         CACHE-LIMIT - - - S - - -
+                LINE - - - O - - -
+   /ETC/APT/APT.CONF - - - X - - -
+                FILE - - - S - - -
+/ETC/APT/APT.CONF.D/ - - - X - - -
+               ERROR - - - O - - -
+               VALUE - - - X - - -
+             ENTRIES - - - - O - -
+/ETC/APT/SOURCES.LIST - - - - X - -
+                THAT - - - - - - O
+                  .. - - - - - - O

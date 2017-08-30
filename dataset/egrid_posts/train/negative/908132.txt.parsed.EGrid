@@ -1,0 +1,11 @@
+          INITRD.IMG X - - - - -
+            INTEREST - S - - - -
+                NEED - O - - - -
+              KERNEL - O - - - -
+                BOOT - X - - - -
+              INITRD - S - - - -
+           MAKE-KPKG - - - X - -
+              TARGET - - - X - -
+                  IM - - - - - S
+             PROBLEM - - - - - O
+              UBUNTU - - - - - X

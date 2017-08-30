@@ -1,0 +1,20 @@
+                GUID O - - - - - -
+                  CD O - - - - - -
+                 ISO S - - - - - -
+           INITRD.LZ O - O O - - -
+                THIS - O - S - - -
+           INITRD.GZ - X - X - - -
+                  LZ - O - - - - -
+                GRUB - - X - S - -
+                BOOT - - X - - - -
+              UBUNTU - - - X - - -
+//WIKI.UBUNTU.COM/CUSTOMIZELIVEINITRD - - - S - - -
+                STEP - - - O - - -
+                   > - - - S - - -
+                LZMA - - - - O - -
+              KERNEL - - - - S - -
+                  .. - - - - O - -
+                THAT - - - - - O -
+                 VMS - - - - - S -
+                PAIN - - - - - O -
+            HARDWARE - - - - - O -

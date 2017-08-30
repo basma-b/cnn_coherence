@@ -1,0 +1,14 @@
+             DRIVERS O - -
+             NETWORK X X X
+                CARD X - -
+              UBUNTU X - -
+             MANAGER S O X
+              DEVICE S - -
+                 TRY - X -
+                SUDO - X -
+             APT-GET - S -
+     NETWORK-MANAGER - O -
+                WICD - - X
+          CONNECTION - - X
+               -LSB- - - S
+               -RSB- - - O

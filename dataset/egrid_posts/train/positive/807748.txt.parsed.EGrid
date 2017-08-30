@@ -1,0 +1,17 @@
+               CHMOD X - - - X - - - - - -
+         PERMISSIONS X - - - X - - - - - -
+          PHPMYADMIN X - - - - - - O - - O
+              SERVER X - - - - - - - - - -
+          INJECTIONS - - O - - - - - - - -
+              ATTACK - - O - - - - - - - -
+            DATABASE - - X X - - - - - - -
+                  .. - - X - - - - - - - -
+                 CMS - - - O - - - - - - -
+                SAFE - - - - X - - - - - -
+               USERS - - - - - - - X - - -
+                DATA - - - - - - - O - - -
+           WEBSERVER - - - - - - - X - - -
+                THIS - - - - - - - - - S -
+               ISSUE - - - - - - - - - O -
+              ACCESS - - - - - - - - - - O
+             SERVER_ - - - - - - - - - - X

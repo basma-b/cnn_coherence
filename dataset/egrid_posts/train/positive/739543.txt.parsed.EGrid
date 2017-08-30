@@ -1,0 +1,16 @@
+                TIME X - - - - - X -
+            GRUB.CFG X - - - - - - -
+               10.04 X - - - - - - -
+                LOAD X - - - - - - -
+   /ETC/DEFAULT/GRUB - O - - - - - -
+                SUDO - X - - - X - -
+         UPDATE-GRUB - X - - - X - -
+ /BOOT/GRUB/GRUB.CFG - O - - - - - -
+               ENTRY - - S - - - - -
+              UBUNTU - - S - - - - -
+                FILE - - - O - - X -
+             TIMEOUT - - - X - - - -
+        GRUB_TIMEOUT - - - - - O - -
+               THERE - - - - - - S -
+               VALUE - - - - - - X -
+                LINE - - - - - - - O

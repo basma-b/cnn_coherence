@@ -1,0 +1,15 @@
+                GRUB S - - -
+                BOOT X X - -
+              UBUNTU X - - -
+             NOTHING S - - -
+           BOOT-MENU X - - -
+             TIMEOUT - S S -
+ /BOOT/GRUB/MENU.LST - X - -
+                WORK - O - -
+                  OS - O - -
+                WAIT - - O -
+                USER - - X -
+               INPUT - - X -
+                   # - - - X
+              SYNTAX - - - S
+            MENU.LST - - - X

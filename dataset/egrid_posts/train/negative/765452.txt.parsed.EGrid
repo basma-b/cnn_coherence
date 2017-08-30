@@ -1,0 +1,10 @@
+                TIME - S - - -
+             SELINUX - X O - -
+         AUDIT2ALLOW - O - - -
+            F00BAR80 - X - - -
+            APPARMOR - - O - -
+              LEAGUE - - - - O
+                BETA - - - - X
+                SUDO - - - - X
+               EJECT - - - - S
+             COMMAND - - - - O

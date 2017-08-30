@@ -1,0 +1,11 @@
+           DIRECTORY - O - - -
+         DEBOOTSTRAP - S - - -
+                BASE - X - - -
+              SYSTEM - O - - -
+          APT-MIRROR - - S - -
+               CACHE - - O - -
+           /WHATEVER - - - O -
+                ROOT - - - X -
+                THAT - - - - X
+         PERMISSIONS - - - - S
+                IDEA - - - - O

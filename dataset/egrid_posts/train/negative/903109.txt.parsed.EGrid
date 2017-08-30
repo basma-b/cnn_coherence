@@ -1,0 +1,13 @@
+              KERNEL X X - - - -
+              CONFIG X O - - - -
+                FILE X O - O - -
+             SCRATCH X - - - - -
+              OBJECT - X - - - -
+            MRPROPER - S - - - -
+                TREE - O - - - -
+             DEFAULT - X - - - -
+          MENUCONFIG - - S - - -
+          EVERYTHING - - O - - -
+             BROTHER - - S - - -
+              MODULE - - X - - -
+                 SCP - - - - - X

@@ -1,0 +1,8 @@
+/ETC/APT/SOURCES.LIST S - - - -
+              ERRORS - - - S -
+              OUTPUT - - - O -
+            TERMINAL - - - X -
+               BUILD - - - O -
+                THIS - - - - O
+                 BUG - - - - X
+    DEBIAN-INSTALLER - - - - X

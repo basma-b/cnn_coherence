@@ -1,0 +1,12 @@
+         MEMORY-CARD X - -
+         CARD-READER X - -
+               MOUNT - S -
+      /MEDIA/USBDISK - O -
+              INSERT - - X
+                CARD - - X
+                7XX1 - - S
+              SOCKET - - X
+                 LOG - - X
+                 SDA - - X
+                   * - - O
+               /DEV/ - - X

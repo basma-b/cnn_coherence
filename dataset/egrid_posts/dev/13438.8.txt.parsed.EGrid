@@ -1,0 +1,14 @@
+                 CMD S - - - - -
+                   < X - - - - -
+                   > S - - - - -
+          FILESYSTEM X - - - - -
+                TYPE X - - - - -
+   LINUX_RAID_MEMBER X - - - - -
+               FSTAB O - - - - -
+              SYSTEM X - - - - -
+                WUBI - X - - - -
+              OUTPUT - - - - O -
+              STRING - - - - X -
+                 MAN - - - - - S
+            INTEREST - - - - - O
+              DETAIL - - - - - X

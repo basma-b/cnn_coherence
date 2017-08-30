@@ -1,0 +1,12 @@
+                 MBR X - - - - X - -
+             WINDOWS - X - - - - - -
+          BOOTLOADER - O - - - - - -
+                 IDE - - X - - - - -
+                  HD - - X - - - - -
+              VERIFY - - X - - - - -
+                 DMI - - X - - - - -
+                POOL - - X - - - - -
+                BOOT - - X - - - - -
+                SATA - - X - - - - -
+                GRUB - - - O - X - X
+        INSTRUCTIONS - - - - - - - X

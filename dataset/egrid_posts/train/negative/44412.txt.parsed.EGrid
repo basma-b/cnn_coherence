@@ -1,0 +1,9 @@
+        /ETC/INITTAB S - - - -
+             DEFAULT X - - - -
+           RUNLEVELS O - - - -
+                 RUN - X - - -
+               LEVEL - O S - -
+                ROLE - - O - -
+              DEBIAN - - X - -
+         DERIVITIVES - - X - -
+             DISTROS - - X - -

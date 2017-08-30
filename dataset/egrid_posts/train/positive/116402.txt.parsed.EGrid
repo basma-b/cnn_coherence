@@ -1,0 +1,19 @@
+            IPTABLES O S - X - - -
+             COMMAND S - - - - - -
+         IPTABLE_NAT S - - - - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD O - - - - - -
+              OUTPUT - X - - - - -
+                  -P - X - - - - -
+                 TCP - O - - - - -
+            REDIRECT - O - - - - -
+                RULE - O S - - - -
+          PREROUTING - X - - - - -
+                CASE - - X - - - -
+                TYPE - - X - - - -
+                  -L - - O S - - -
+                WORK - - - X - - -
+                 NAT - - - S - - -
+          EQUIVALENT - - - O - - -
+        DANSGUARDIAN - - - X - - X
+              FILTER - - - - - O -
+                IDEA - - - - - - O

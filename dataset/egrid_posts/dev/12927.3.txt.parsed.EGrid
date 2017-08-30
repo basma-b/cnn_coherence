@@ -1,0 +1,20 @@
+                 ALL O - - - - -
+           BLUETOOTH S - S - - -
+              11.10. X - - - - -
+                 ONE - - X - - -
+                FILE - - X - - X
+/ETC/INIT.D/BLUETOOTH - - X - - -
+           REINSTALL - - - S - -
+           SOMETHING - - - - - O
+               PARAM - - - - - X
+            GRUB.CFG - - - - - X
+              CUSTOM - - - - - X
+               THERE - - - - - S
+             NOTHING - - - - - O
+                 RUN - - - - - X
+         /BOOT/GRUB/ - - - - - X
+         ~/ELSEWHERE - - - - - X
+              UPDATE - - - - - X
+            NONSENSE - - - - - X
+        ~/ELSEWHERE/ - - - - - X
+                   * - - - - - X

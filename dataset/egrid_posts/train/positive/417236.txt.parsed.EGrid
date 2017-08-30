@@ -1,0 +1,11 @@
+                HELP X - - - -
+                  DD - S - - -
+               DRIVE - O - - X
+                .IMG - O - - -
+           PARTITION - O - - -
+               IMAGE - X - - O
+                 PLZ - - S - -
+                ROOT - - - X -
+                LOOP - - - X X
+       /PATH/TO/.IMG - - - S -
+             DEVICES - - - - X

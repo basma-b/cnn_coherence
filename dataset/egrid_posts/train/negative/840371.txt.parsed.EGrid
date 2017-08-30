@@ -1,0 +1,16 @@
+                PING X - - - -
+                HOST X - - - -
+                   / X - - - -
+                  IP O - - - -
+           LOCALHOST X - - - -
+             HOST/IP X - - - -
+                   % X - - - -
+              PACKET X - - - -
+                LOSS O - - - -
+              ROUTER - O - - -
+                 DNS - - S - -
+           SECONDARY - - S - -
+              UBUNTU - - - - X
+             PACKAGE - - - - O
+       NVIDIA-CURRET - - - - O
+      NVIDIA-GLX-180 - - - - O

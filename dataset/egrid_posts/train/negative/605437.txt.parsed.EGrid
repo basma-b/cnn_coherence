@@ -1,0 +1,17 @@
+                8.04 X X - - -
+                9.04 X X - - -
+                8.10 - X - - -
+                STEP - X - - -
+                   | - - - S -
+          RESOLUTION - - - - X
+             PROBLEM - - - - X
+               FAULT - - - - S
+              CUSTOM - - - - X
+              KERNEL - - - - O
+    UPDATE-INITRAMFS - - - - S
+              VESAFB - - - - O
+               FBCON - - - - O
+             MODULES - - - - O
+              INITRD - - - - X
+               STOCK - - - - X
+             KERNELS - - - - X

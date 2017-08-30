@@ -1,0 +1,14 @@
+             COMMAND O - - - -
+              UBUNTU S - - - -
+            PASSWORD O - - - -
+             SUDOERS - X - - -
+                FILE - O - - X
+              VISUDO - X - - -
+                PART - O - - -
+               GNOME - X - - -
+           INTERFACE - - O - -
+              SCRIPT - - O - -
+                BASE - - - - X
+                MAIL - - - - X
+              CLIENT - - - - O
+             CONFIGS - - - - X

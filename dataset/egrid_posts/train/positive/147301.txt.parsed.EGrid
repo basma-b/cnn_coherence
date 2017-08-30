@@ -1,0 +1,23 @@
+               THERE S - -
+             NETWORK X - -
+                CARD O - -
+              SERVER X - -
+             MACHINE S - -
+                ETH1 O - -
+           INTERFACE S - -
+            IFCONFIG X - -
+                  -A X - -
+              OUTPUT X - -
+/ETC/NETWORK/INTERFACES X - -
+              SEARCH O - -
+              SYSTEM O - -
+               LSPCI X - S
+                THIS - - X
+            ETHERNET - - X
+          CONTROLLER - - X
+               INTEL - - X
+               CORP. - - X
+             82540EM - - X
+             GIGABIT - - X
+              DEVICE - - X
+                27DC - - X

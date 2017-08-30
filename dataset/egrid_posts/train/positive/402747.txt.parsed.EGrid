@@ -1,0 +1,9 @@
+               HD0,0 S S - - X
+               VISTA X X - O X
+                SDA1 X X - - X
+                GRUB - - X X -
+                BOOT - - - X -
+               ENTRY - - - S -
+             WINDOWS - - - X -
+                  .. - - - O -
+                ROOT - - - - X

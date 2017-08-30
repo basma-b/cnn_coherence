@@ -1,0 +1,27 @@
+                HTTP X - - O - -
+//PACKAGES.DEBIAN.ORG/CGI-BIN/SEARCH_CONTENTS.PL X - - - - -
+      VERSION=STABLE - S - - - -
+           ARCH=I386 - S - - X -
+    CASE=INSENSITIVE - X - - - -
+WORD=GTK2-ENGINES-INDUSTRIAL - X - - - -
+ SEARCHMODE=FILELIST - S - - - -
+GTK2-ENGINES-INDUSTRIAL/UBUNTU - S - - - -
+        GTK2-ENGINES - X - - - -
+                FILE - O - X - O
+               THEME - S S - - -
+              UBUNTU - X - - - -
+                THAT - - S - - -
+                ICON - - X - - -
+             PACKAGE - - X - - -
+                 ATM - - O - - -
+                 FIX - - O - - -
+              BREEZY - - X - - -
+GTK2-ENGINES-INDUSTRIAL - - - O - -
+              NOBODY - - - S - -
+             CONTENT - - - X - -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_CONTENTS.PL - - - X - -
+ /BOOT/GRUB/MENU.LST - - - - - X
+                EDIT - - - - - X
+             SECTION - - - - - O
+              KERNEL - - - - - X
+              NUMBER - - - - - O

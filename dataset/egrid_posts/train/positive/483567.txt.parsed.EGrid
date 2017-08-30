@@ -1,0 +1,11 @@
+         PERMISSIONS X - - - - - -
+           PARTITION X - - - - - -
+                  IN - S - - - - -
+                KIND - O - - - - -
+                DATA - X - - - - -
+                NONE - - X - - - -
+             FOLDERS - - - X - - -
+            DOCUMENT - - - - X - -
+                SUDO - - - - S - -
+                USER - - - - O S -
+               POINT - - - - - - O

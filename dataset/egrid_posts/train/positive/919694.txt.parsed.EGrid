@@ -1,0 +1,14 @@
+             DSELECT - O - -
+            APTITUDE - - O -
+             APT-GET - - S -
+                  -B - - S -
+              SOURCE - - X -
+                   < - - X -
+                 FOO - - X -
+                   > - - O -
+                  CD - - X -
+         ALSA-DRIVER - - O -
+               THERE - - S -
+                 DIR - - O -
+                ALSA - - - S
+              KERNEL - - - X

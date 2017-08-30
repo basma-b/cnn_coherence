@@ -1,0 +1,21 @@
+            COMPUTER - O - - - -
+                TEXT - X X - - -
+                MODE - X - - - -
+                HTTP - - O - - -
+//FOONINJA.NET/2010/07/29/TEXT-BOOT-IN-UBUNTU-LUCID-LYNX-10-04-DISABLING-GDM/ - - X - - -
+ GRUB_CMDLINE_LINUX= - - X - - -
+   /ETC/DEFAULT/GRUB - - X - - -
+                FILE - - S X - -
+              SYSTEM - - X - - -
+            ANYTHING - - O - - -
+               10.04 - - - - X -
+ /BOOT/GRUB/MENU.LST - - - - O -
+                 VLC - - - - - S
+                SHOW - - - - - X
+               INPUT - - - - - S
+                 MRL - - - - - X
+                V4L2 - - - - - O
+       ///DEV/VIDEO0 - - - - - X
+              .CHECK - - - - - S
+                 LOG - - - - - X
+              DETAIL - - - - - X

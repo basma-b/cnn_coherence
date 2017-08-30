@@ -1,0 +1,16 @@
+       FUNCTIONALITY - O - X - - -
+            UPDATEDB - X - X - - -
+                THIS - - X - - - -
+             CONTEXT - - - X - - -
+           PARTITION - - - - O - O
+                DATA - - - - S - -
+         /MEDIA/DATA - - - - X - -
+                FILE - - - - - O -
+               DRIVE - - - - - X -
+                 USE - - - - - X -
+             COMMAND - - - - - X -
+          PRUNEPATHS - - - - - - S
+              /MEDIA - - - - - - S
+           BLACKLIST - - - - - - X
+                /MNT - - - - - - S
+                  NO - - - - - - O

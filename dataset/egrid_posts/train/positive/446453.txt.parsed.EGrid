@@ -1,0 +1,15 @@
+             DISPLAY X - -
+                 DIM S - -
+              BOOTUP X - -
+                 IVE X - S
+            ACPI=OFF O - S
+              KERNEL X - -
+               ISSUE O - O
+                ACPI X - S
+              SECOND - - X
+                LOAD - - X
+              SCREEN - - X
+                THIS - - O
+              DEBIAN - - X
+             PROBLEM - - S
+             NOTHING - - O

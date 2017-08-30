@@ -1,0 +1,13 @@
+                SUDO - S - - - -
+            PASSWORD - X - - - -
+              RFCOMM - X - - - -
+                BIND - O - - - -
+             COMMAND - X - - - -
+             RELEASE - X - - - -
+                THAT - - S - - -
+        /ETC/SUDOERS - - S X - -
+     /USR/BIN/RFCOMM - - O - - -
+            NOPASSWD - - X - - -
+               IDEAS - - - X - -
+              CHANGE - - - - S -
+             WG311V2 - - - - - O

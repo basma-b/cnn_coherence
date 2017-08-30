@@ -1,0 +1,16 @@
+            RECOVERY O - -
+                MODE X - -
+             NEWUSER X - -
+                   > S - X
+              ACCESS O - -
+                USER X - X
+                GRUB X - -
+                MENU X - -
+               GROUP - - S
+                TYPE - - X
+                 ALL - - O
+             DIALOUT - - X
+               CDROM - - X
+                 DIP - - X
+               VIDEO - - X
+             PLUGDEV - - S

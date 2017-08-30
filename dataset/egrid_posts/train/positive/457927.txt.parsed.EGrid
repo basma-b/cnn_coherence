@@ -1,0 +1,7 @@
+                FILE O -
+                DPKG O -
+            FILE.DEB S -
+           OPERATION X -
+           PRIVILEGE X -
+                SUDO X -
+               ERROR O X

@@ -1,0 +1,16 @@
+              SERVER X - - -
+                 XFS X S - -
+              KERNEL X - - -
+              AND/OR X - - -
+             MODULES X - - -
+               SETUP - X - -
+               RAID1 - O - -
+                 LVM - X - -
+                  .. - O X -
+                BOOT - S - X
+              CUSTOM - X - -
+              INITRD - O - -
+                EXT3 - - - S
+             PROBLEM - - - S
+                DISK - - - O
+               TRICK - - - O

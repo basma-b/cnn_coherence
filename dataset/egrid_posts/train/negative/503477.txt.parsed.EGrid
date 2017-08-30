@@ -1,0 +1,38 @@
+              KANTOR X - - - - - - - - - - - - - - - - -
+                 YES X - - - - - - - - - - - - - - - - -
+                SWAP - X - - - - - - - - - - - - - - - -
+           PARTITION - O - - - - - - - - - - - - - - - -
+               LINUX - X - - - - - - - - - - - - - - - -
+                DATA - - X - - - - - - - - - - - - - - -
+          OPERATIONS - - S - - - - - - - - - - - - - - -
+              EFFECT - - - X - - - - - - - - - - - - - -
+              SWITCH - - - X - - - - - - X - - - - - - -
+ CONFIG_VT_CONSOLE=Y - - - X - - - - - - X - - - - - - -
+/BOOT/CONFIG-2.6.24.21.GENERIC - - - X - - - - - - - - - - - - - -
+                FILE - - - - X - - - - O - - - - - - - -
+                  .. - - - - X - X - - - - - - - - - - -
+/DOCUMENTATION/CONFIGURE.HELP - - - - O - - - - - - - - - - - - -
+              UBUNTU - - - - X - - - - - - - - - - - - -
+       DOCUMENTATION - - - - - X X X - - X - - - - - - -
+               ORDER - - - - - S S - - - - - - - - - - -
+                   * - - - - - X - - - - - - - - - - - -
+             PACKAGE - - - - - X - - - - - X - - - - - -
+                   A - - - - - - X - - - - - - - - - - -
+              SOURCE - - - - - - S - - - - X - - - - - -
+             ARCHIVE - - - - - - X - - - - - - - - - - -
+            .TAR.BZ2 - - - - - - X - - - - - - - - - - -
+                THAT - - - - - - - S - - - - - - - - - -
+               BRAIN - - - - - - - X - - - - - - - - - -
+                FART - - - - - - - O - - - - - - - - - -
+              GERMAN - - - - - - - X - - - - - - - - - -
+              FOLDER - - - - - - - O - - - - - - - - - -
+      /DOCUMENTATION - - - - - - - - S - - - - - - - - -
+      CONFIGURE.HELP - - - - - - - - - X - - - - X - - -
+                 WWW - - - - - - - - - X - - - - - - - -
+              KERNEL - - - - - - - - - - - S - - - - - -
+DOCUMENTATION/CONFIGURE.HELP - - - - - - - - - - - X - - - - - -
+                MINE - - - - - - - - - - - - S - - - - -
+            UPDATEDB - - - - - - - - - - - - - O - - - -
+              OUTPUT - - - - - - - - - - - - - - O - - -
+              SERVER - - - - - - - - - - - - - - - - - X
+        ADMINSTRAION - - - - - - - - - - - - - - - - - O

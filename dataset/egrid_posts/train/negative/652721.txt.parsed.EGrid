@@ -1,0 +1,16 @@
+NPWRAPPER.LIBFLASHPLAYER.SO X X -
+               32BIT O O -
+             WRAPPER X - -
+               64BIT - X -
+               LINUX - O O
+               FLASH - X -
+               THERE - S -
+             PROGRAM - O -
+           ALTERNATE - - S
+             INSTALL - - S
+                  CD - - O
+             COMMAND - - X
+                LINE - - X
+               BLOAT - - O
+                ARCH - - X
+           SOMETHING - - S

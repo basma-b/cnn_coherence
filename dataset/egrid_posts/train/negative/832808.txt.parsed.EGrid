@@ -1,0 +1,22 @@
+                 USE S S - - - - -
+               64BIT X X - - - - -
+             DEFAULT O O - - - - -
+             WINDOWS X X - - - - -
+                BOOT X X - - - - -
+                SUDO - - S - - - -
+/ETC/GRUB.D/30_OS-PROBER - - X - - - -
+/ETC/GRUB.D/08_OS-PROBER - - X - - - -
+         UPDATE-GRUB - - X - - - -
+                THAT - - - S - - -
+             UBUNTUS - - - X - - -
+        INSTRUCTIONS - - - - X - -
+                GRUB - - - - O - -
+              LIVECD - - - - X - -
+              SYSTEM - - - - X - -
+                PAGE - - - - O X -
+              UBOTTU - - - - S - -
+                LINK - - - - O - -
+             MESSAGE - - - - X - -
+             ENGLISH - - - - X - -
+                TYPE - - - - - X -
+               GRUB2 - - - - - - X

@@ -1,0 +1,14 @@
+                TIME X - - - -
+    MYSQL-SERVER-5.1 O - - - -
+               STATE X - - - -
+             ATTEMPT X S - - -
+             REMOVAL X - - - -
+             PACKAGE - X - - -
+             MANAGER - S - - -
+             INSTALL - - - O -
+            ANYTHING - - - O -
+                SUDO - - - X -
+             APT-GET - - - X -
+                  -F - - - S -
+              DAMAGE - - - O -
+                 TRY - - - - O

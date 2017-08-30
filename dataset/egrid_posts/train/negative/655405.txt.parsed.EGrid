@@ -1,0 +1,12 @@
+            MENU.LST X - -
+               GRUB2 X - -
+             DEFAULT - X -
+               START - X -
+              KERNEL - O -
+               IMAGE - X -
+   /ETC/DEFAULT/GRUB - O -
+              CONFIG - X -
+                FILE - S -
+                THKS - O -
+             WINDOWS - - X
+           PARTITION - - O

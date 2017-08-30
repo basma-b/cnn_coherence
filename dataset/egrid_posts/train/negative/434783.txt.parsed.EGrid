@@ -1,0 +1,11 @@
+                TIME - S - -
+           DOWNGRADE - X - -
+              NAVETZ - X - -
+         RESOLV.CONF - X - -
+                 DNS - X - -
+                HOOK - X - -
+          INTERFACES - S - -
+            SETTINGS - O - -
+      NETWORKMANAGER - S - -
+             CONFIGS - O - -
+              RESULT - - - O

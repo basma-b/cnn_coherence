@@ -1,0 +1,24 @@
+             EXAMPLE - X - - -
+              SCRIPT - O S - -
+         /ETC/INIT.D - X - - -
+              DAEMON - O O - -
+           SOMETHING - O - - -
+                HTTP - - X - -
+//WWW.DEBIAN-ADMINISTRATION.ORG/ARTICLES/28 - - X - -
+              NOTICE - - X - -
+                SYSV - - X - -
+              UBUNTU - - X - -
+          MAINSTREAM - - X - -
+             DISTROS - - S - -
+                  ID - - S - -
+                 USE - - - - O
+         ALT-CTRL-F2 - - - - X
+               LOGIN - - - - S
+                SUDO - - - - X
+               /ETC/ - - - - X
+  /ETC/X11/XORG.CONF - - - - O
+              DRIVER - - - - S
+               DEPTH - - - - O
+             PROBLEM - - - - O
+                 GDM - - - - O
+     /ETC/INIT.D/GDM - - - - S

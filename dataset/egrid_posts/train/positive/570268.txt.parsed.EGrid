@@ -1,0 +1,10 @@
+                FILE X X - -
+              SYSTEM X X - -
+                BOOT X X X -
+                   * - - X -
+         /ETC/INIT.D - - X -
+          /ETC/RC2.D - - X -
+                SYSV - - X -
+       /ETC/RC.LOCAL - - O -
+              SCRIPT - - X -
+                  OK - - - X

@@ -1,0 +1,22 @@
+           SOMETHING S - - - - -
+               LIBC6 S - - - - -
+             COULDNT S - - - - -
+             COMMAND O - - - - -
+                SUDO X - - - - -
+             APT-GET S - - - - -
+             INSTALL O - - - - -
+                  -F O - - - - -
+              INSTAL - O X - - -
+             FEATURE - O - - - -
+               BREAK - X - - - -
+             PACKAGE - O - - - -
+             VERSION - O - - - -
+              11.10. - - X - - -
+               THERE - - S - - -
+               CRASH - - X - - -
+             HALFWAY - - O - - -
+                 X64 - - - X - -
+                HTTP - - - - X -
+//NL.ARCHIVE.UBUNTU.COM/UBUNTU/POOL/MAIN/A/APTITUDE/APTITUDE_0.6.4-1UBUNTU2_AMD64.DEB - - - - X -
+             PROBLEM - - - - - S
+            APTITUDE - - - - - X

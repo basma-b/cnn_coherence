@@ -1,0 +1,14 @@
+              SOURCE O X - - - - -
+              THINGS X - - - - - -
+             PACKAGE O - - - - - -
+                  .. X - - - - - -
+   DPKG-BUILDPACKAGE O - - - - - -
+              CONFIG X - - - - - -
+             OPTIONS X - - - - - -
+               PLACE X - - - - - -
+               -RSB- - O - - - - -
+               REPOS - S - - - - -
+        CHECKINSTALL - X - - - - -
+             SANDBOX - X - - - - -
+                .DEB - O - - - - -
+            BINARIES - X - - - - -

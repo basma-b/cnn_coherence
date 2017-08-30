@@ -1,0 +1,17 @@
+                HELP O - - - - - - - - - -
+               RSYNC X - - - - S - - - - -
+              SOURCE O - - - - - - - - - -
+                 DIR O X X - - - - - - - -
+         DESTINATION X X X - - - - - - - -
+                  -H - O - - - - - - - - -
+              /DEST/ - S - - - - - - - - -
+            DELETION - - O - - - - - - - -
+                FLAG - - - O - X - - - - -
+                DIRS - - - - X - - - - - -
+              DELETE - - - - - X - - - - -
+                THIS - - - - - S - - - - -
+              OPTION - - - - - O - - - - -
+                 RUN - - - - - X - - - - -
+                 HMM - - - - - - X - - - -
+                THAT - - - - - - - X - - -
+          VIRTUALBOX - - - - - - - - - - X

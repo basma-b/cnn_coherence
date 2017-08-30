@@ -1,0 +1,44 @@
+             MACHINE X - - - - - - S - - - -
+              REBOOT X - - - - - - - - - - -
+            POWER-ON X - - - - - - - - - - -
+               CYCLE X - O - - - - - - - - -
+             UPGRADE X - - - - - - - - - - -
+                BOTH - O - - - - - - - - - -
+               POWER - - X - - - - - - - - -
+                 SSH - - X - - - - - - - - -
+                LOVE - - X - - - - - X - - -
+                   V - - - X - - - - - - - -
+                 ONE - - - X - - - - - - - -
+               MOUSE - - - X - - - - - - - -
+                PLUG - - - O - - O - - - - -
+                 BOX - - - X - - - - - - - -
+              CURSOR - - - O - - - - - - - -
+            KEYBOARD - - - - S - - - - - - -
+                  'D - - - - - X - - - - - -
+XSERVER-XORG-INPUT-EVDEV - - - - - - S - - - - -
+                 UBS - - - - - - X - - - - -
+           SUBSYSTEM - - - - - - S - - - - -
+                HUBS - - - - - - X - - - - -
+                NONE - - - - - - O - - - - -
+             DEVICES - - - - - - X - - - - -
+              IN/OUT - - - - - - O - - - - -
+            INTERNET - - - - - - - O - - - -
+              INSTAL - - - - - - - - O - - -
+              OUTPUT - - - - - - - - O - - -
+              POLICY - - - - - - - - X - - -
+ XSERVER-XORG-INPUT- - - - - - - - - X - - -
+                   * - - - - - - - - X - - -
+                HTTP - - - - - - - - X - - -
+//PASTE.UBUNTU.COM/749726/ - - - - - - - - X - - -
+XSERVER-XORG-INPUT-KBD - - - - - - - - S - - -
+             XSERVER - - - - - - - - O - - -
+              RESULT - - - - - - - - - O - -
+                  LS - - - - - - - - - X - -
+ /DEV/INPUT/BY-PATH/ - - - - - - - - - S - -
+                FILE - - - - - - - - - X - -
+           DIRECTORY - - - - - - - - - S - -
+                LUCK - - - - - - - - - - - O
+             SUPPORT - - - - - - - - - - - X
+             DEFAULT - - - - - - - - - - - O
+               GNOME - - - - - - - - - - - X
+              PEOPLE - - - - - - - - - - - S

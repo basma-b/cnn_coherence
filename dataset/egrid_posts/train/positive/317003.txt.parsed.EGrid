@@ -1,0 +1,14 @@
+                GRUB X - - - - -
+                 GUI X - - - - -
+           RUNLEVELS - S - - - -
+               START - X - - - -
+                USER - X - - - -
+               MODES - X - - - -
+               VALUE - - X - - -
+                 SXX - - X - - -
+               POINT - - X - - -
+              SCRIPT - - S - - -
+                LOAD - - O - - -
+                 S11 - - - O - S
+                 S12 - - - X - X
+                BOOT - - - - - X

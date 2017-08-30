@@ -1,0 +1,15 @@
+                  DD S - S S - - -
+                GRUB O - - - - - -
+               THING - - O - - - -
+              BACKUP - - - X - - -
+               BLOCK - - - X - - O
+              DEVICE - - - O - - X
+                 USE - - - X - - -
+                FILE - - - X - - X
+                ROOT - - - X - - -
+               DRIVE - - - O - - X
+         DESTINATION - - - - X - X
+              SOURCE - - - - - - X
+                 FIT - - - - - - X
+              OUTPUT - - - - - - O
+                 END - - - - - - S

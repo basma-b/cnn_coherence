@@ -1,0 +1,10 @@
+             CONTEXT X - - - -
+                NTFS X - - - -
+              VOLUME X - - - -
+               FSTAB X - - - -
+                THIS - O - - -
+           /DEV/SDA7 - - S - -
+             DEFAULT - - O - -
+                TYPE - - X - -
+             OPTIONS - - X - S
+               ERROR - - - - O

@@ -1,0 +1,19 @@
+                TEST X - -
+             DEBCONF X - -
+            DBDRIVER X - -
+              CONFIG X - -
+/VAR/CACHE/DEBCONF/CONFIG.DAT S - -
+             PROCESS X - -
+              ANYONE X - -
+               ERROR X - -
+        DIST-UPGRADE - X -
+                 ALL - O -
+            INSTANCE - X -
+                 ETC - X -
+                  .. - X O
+                  PS - X -
+                 AUX - X -
+               THERE - S -
+             NOTHING - O -
+            LOCKFILE - O X
+          CONFIG.DAT - - X

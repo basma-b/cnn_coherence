@@ -1,0 +1,12 @@
+                NTFS X X - -
+           PARTITION X - - -
+           INSTALLER X - - -
+                DISK X - - -
+            ARGUMENT - X - -
+                SUDO - S - -
+        /DEVICE/BLAH - X - -
+  /LOCATIONTOMOUNTTO - O - -
+                THAT - - O -
+              DEVICE - - X O
+            /DEV/SDA - - - S
+               THERE - - - S

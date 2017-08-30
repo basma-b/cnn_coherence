@@ -1,0 +1,27 @@
+             APT-GET S S - -
+        MYSQL-CLIENT X - - -
+              OUTPUT O - - -
+              POLICY X - - -
+                HTTP X - - X
+              5.1.54 S - - -
+               ISSUE O - - -
+                 THE - S - -
+              DETAIL - O - -
+             PROGRAM - S - -
+             PACKAGE - O - -
+             WARNING - X - -
+             STARTUP - X - -
+             LIBRARY - O - -
+/USR/LIB/PHP5/20090626+LFS/MYSQL.SO - S - -
+LIBMYSQLCLIENT_R.SO.16 - X - -
+               SHARE - X - -
+              OBJECT - S - -
+                FILE - X - -
+           DIRECTORY - X - -
+                LINE - X - -
+           SOMETHING - X - -
+              CLIENT - X - -
+    LIBMYSQLCLIENT16 - O S -
+/USR/LIB/LIBMYSQLCLIENT_R.SO.16 - X - -
+             VERSION - - X -
+//PASTE.UBUNTU.COM/739941/ - - - X

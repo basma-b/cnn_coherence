@@ -1,0 +1,26 @@
+             WINDOWS S - - - - - - - -
+                GRUB O - - X - - - X S
+         UBUNTUGUIDE S - - - - - - - -
+                TYPE X - - - - - - - -
+            /DEV/HDA O - X - - - - - -
+              DEVICE O - S - - - - - -
+               /BOOT X - - - - - - - -
+               BLOCK X - - - - - - - -
+                BOOT - S S X X X - - X
+           PARTITION - X X - - - - - -
+                 ONE - O - - - - - - -
+               CHECK - - X - - - - - -
+                 MAP - - O - - - - - -
+/BOOT/GRUB/DEVICE.MAP - - X - - - - - -
+                 HD0 - - X - - - - - -
+                 AHH - - O - - - - - -
+                LILO - - - O - - - X -
+          PARITITION - - - X - - - - -
+                   * - - - S - - - - -
+                DISK - - - X - - - - -
+                 USE - - - - O - - O -
+               WINNT - - - - - X - - -
+             MANAGER - - - - - O - - -
+              SECTOR - - - - - - - - O
+               FILE_ - - - - - - - - X
+                  DD - - - - - - - - O

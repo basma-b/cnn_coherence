@@ -1,0 +1,6 @@
+            TERMINAL X -
+                SUDO X -
+/ETC/INIT.D/PULSEAUDIO S -
+                WORK O -
+          PULSEAUDIO S -
+             SERVICE O -

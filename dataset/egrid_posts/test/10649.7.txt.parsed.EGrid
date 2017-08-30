@@ -1,0 +1,18 @@
+               64BIT O - - -
+                MORE O - - -
+                 RAM S - - -
+               32BIT O - - -
+              SYSTEM - S - -
+                THAT - - S -
+               OWNER - - O -
+                ROOT - - X -
+          DPKG-QUERY - - O -
+                   | - - X -
+                SUDO - - X -
+               XARGS - - O -
+                FILE - - O -
+             EXAMPLE - - - X
+               CACHE - - - X
+                DPKG - - - X
+             CONTENT - - - X
+/VAR/CACHE/APT/ARCHIVES/MOUSEPAD.DEB - - - X

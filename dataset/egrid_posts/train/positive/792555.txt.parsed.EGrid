@@ -1,0 +1,27 @@
+               ROUTE X X X X X O - - - - -
+             PROBLEM X - - - - - - - - - -
+                   | - S S - - - - - - - -
+             GATEWAY - S - - - S O - X - -
+                MASK - O - - - - - - - - -
+                 LAN - X - - - - - - - - -
+                SUDO - - X - - - - - X - -
+                THIS - - O - - - - - - - -
+            WIRELESS - - X - - X - - - - -
+            TERMINAL - - - X X - - - - - -
+            INTERNET - - - O - - - - - - -
+                   > - - - X - - - - - - -
+            FILE.TXT - - - X - - - - - - -
+                  .. - - - X - - - - - - -
+//PASTEBIN.COM/BPQBRRX4 - - - - - S - - - - -
+             DEFAULT - - - - - - X - - - -
+               SETUP - - - - - - X - - - -
+                AUTO - - - - - - X X - - -
+                DHCP - - - - - - X X S - -
+            DHCLIENT - - - - - - - - X - -
+               WLAN0 - - - - - - - - S - -
+//PASTEBIN.COM/CY6EJBPQ - - - - - - - - S - -
+              OUTPUT - - - - - - - - O - -
+              SERVER - - - - - - - - S - -
+                WIFI - - - - - - - - O - -
+                  AP - - - - - - - - X - -
+             ENCRYPT - - - - - - - - - - O

@@ -1,0 +1,24 @@
+            COMPUTER X - - - - - - - - - - -
+                  .. X - - - - - - - - - - -
+                MOVE X - - - - - - - - - - -
+               NOISE X - - - - - - - - - - -
+               TIMID - S - - - - - - - - - -
+              SYSTEM - O - - - - - - - - - -
+                BOOT - X - X - X - - - - - -
+               PARAM - X - - - - - - - - - -
+          ACPI=FORCE - S - X - S - - - - - -
+               PANIC - X - - - S - - - - - -
+              ACCORD - O - - - - - - - - - -
+               HTTPS - X - - O - - - - - - -
+//LAUNCHPAD.NET/UBUNTU/+SOURCE/LINUX-SOURCE-2.6.17/+BUG/63134 - X - - S - - - - - - -
+             MESSAGE - - X - - - - - - - - -
+            ACPI=OFF - - - S - - - - - - - -
+                 NOW - - - - O - - - - - - -
+             OPTIONS - - - - - O - - - - - -
+              KERNEL - - - - - X - - - - - -
+              THANKS - - - - - - X - - - - -
+                   D - - - - - - - X - - - -
+                HEAP - - - - - - - - O - - -
+             INSTALL - - - - - - - - - X - -
+               ERROR - - - - - - - - - - - O
+                DISK - - - - - - - - - - - S

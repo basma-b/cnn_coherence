@@ -1,0 +1,14 @@
+                TYPE X - - - -
+             HFSPLUS X - - - -
+                  RW X - - - -
+               ERROR S - - - -
+                FILE X - - - -
+              SYSTEM X - - - -
+          JOURNALING - S - - -
+               DRIVE - - S - -
+           /DEV/SDG2 - - - X -
+             REMOUNT - - - O -
+               SHOOT - - - X -
+                 THX - - - X -
+               DIDNT - - - X -
+                WORK - - - X -

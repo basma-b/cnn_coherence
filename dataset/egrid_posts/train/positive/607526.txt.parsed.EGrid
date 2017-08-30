@@ -1,0 +1,12 @@
+         PERMISSIONS X - - - - - - -
+             PROCESS O - - O - - - -
+               GROUP - X - - - - - -
+                 WAY - - O - - - - -
+               USERS - - - S - - - -
+              ANYONE - - - - S - - -
+                APPS - - - - O - - -
+                 -20 - - - - X - - -
+                   ' - - - - - - X -
+              RENICE - - - - - - O -
+                SUDO - - - - - - X -
+            PASSWORD - - - - - - - X

@@ -1,0 +1,15 @@
+                SWAP X - - X - - -
+              MEMORY O - - - - - -
+              UBUNTU X - - X - - -
+                TIME - X - - - - -
+           SOMETHING - O - - - - -
+        VM.SWAPINESS - X - - - - -
+                  .. - - - X - - -
+              POLICY - - - O - - -
+                AREA - - - O - - -
+           PARTITION - - - X - - -
+                DISK - - - X - - -
+                PAGE - - - X - - -
+                FILE - - - O - - -
+                 RAM - - - - X - -
+                 VPS - - - - - X -

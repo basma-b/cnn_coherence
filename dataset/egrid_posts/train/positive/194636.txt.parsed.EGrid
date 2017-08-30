@@ -1,0 +1,10 @@
+             SERVICE X - - -
+            RUNLEVEL X - - -
+               START - O - -
+              BOOTUP - X - -
+             /ETC/RC - - S -
+                THEN - - X -
+             SYMLINK - - O -
+              INIT.D - - X -
+              FORMER - - X -
+                THAT - - - S

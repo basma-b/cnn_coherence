@@ -1,0 +1,15 @@
+            INTERNET O - - -
+            COMPUTER X - - -
+                ETH0 - X - -
+                ETH1 - O - -
+                MAKE - X - -
+            SOMETING - O - -
+                  SH - X - -
+                  -C - S - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - O - -
+            QUESTION - S - -
+                SUDO - - X -
+      /SBIN/IPTABLES - - S -
+                RULE - - - O
+               LINUX - - - O
+              BACKUP - - - X

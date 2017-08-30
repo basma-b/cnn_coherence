@@ -1,0 +1,8 @@
+                SAME O - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD O - - S
+               DNS53 - O - -
+              REBOOT - O - -
+              CHANGE - X - -
+              SYSCTL - - X -
+                  -W - - O -
+                 CAT - - - X

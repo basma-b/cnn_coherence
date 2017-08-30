@@ -1,0 +1,15 @@
+             PROBLEM O - -
+               FSTAB X - -
+      ROOT=/DEV/HDAX X - -
+                LINE O - -
+                BOOT X - -
+               CRASH X - -
+              MEMORY X - -
+              KERNEL X - -
+               PANIC X - -
+                  .. X - -
+                 PUT X - -
+              NOAUTO X - -
+             OPTIONS X - -
+             DEFAULT S - -
+                 UID - O -

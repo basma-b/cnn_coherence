@@ -1,0 +1,19 @@
+             DISPLAY X - - - - - -
+              DRIVER X - - - S - -
+                 X11 S - - - - - -
+                 USE O - - - - - -
+             KUBUNTU X - - - - - -
+           XORG.CONF - S - - - - -
+              DEVICE - X - - - - -
+ /VAR/LOG/XORG.0.LOG - - X - - - -
+          XORG.0.LOG - - - S - - -
+             LOADING - - - X - - -
+/USR/LIB/XORG/MODULES/DRIVERS//RADEON_DRV.SO - - - X - - -
+                 FIT - - - - O - -
+              RADEON - - - - X - -
+                 PRO - - - - X - -
+                  NP - - - - - - X
+              SYSTEM - - - - - - X
+                   > - - - - - - X
+         PREFERENCES - - - - - - X
+               SOUND - - - - - - X

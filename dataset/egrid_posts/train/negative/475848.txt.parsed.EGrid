@@ -1,0 +1,17 @@
+               SETUP X - - - - -
+            NXSERVER O - - - - -
+             APT-GET - O - - - -
+              INSTAL - - X - - -
+           LOCALHOST - - O - - -
+        AUTHENTICITY - - O - - -
+                HOST - - X - - -
+           127.0.0.1 - - X - - -
+              SERVER - - - O - -
+                WORK - - - X - -
+                   U - - - S - -
+              CONFIG - - - X - -
+                FILE - - - X - -
+                SUDO - - - - - X
+           /USR/SBIN - - - - - X
+                PATH - - - - - X
+/USR/SBIN/NVIDIA-GLX-CONFIG - - - - - O

@@ -1,0 +1,15 @@
+               GUIDE O - - - - - - -
+                HTTP X - - - - - - -
+//SUPERUSER.COM/QUESTIONS/19318/HOW-CAN-I-GIVE-WRITE-ACCESS-OF-A-FOLDER-TO-ALL-USERS-IN-LINUX X - - - - - - -
+            WRITABLE O - - - - - - -
+              ANYONE X - - - - - - -
+               GROUP X - - - - - - X
+                USER O - - - - - - -
+                 SID X - - - - - - -
+                FILE X - - - - - - -
+         DIRECTORIES O - - - - - - -
+           SOMETHING - X - - - - - -
+                  ER - - S - - - - -
+                THAT - - - - S - - -
+              CHANGE - - - - - - S -
+          MEMBERSHIP - - - - - - - X

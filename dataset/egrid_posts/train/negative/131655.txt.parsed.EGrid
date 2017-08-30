@@ -1,0 +1,28 @@
+             WINDOWS X - - - - - - - -
+           PARTITION O - - - - - - - -
+               FSTAB X - - X - - - - -
+                ROOT X - - X X S - - -
+           DIRECTORY - X - - - - - - -
+                   U - - S - - - S - -
+                 DIR - - X - - - - - -
+            LOCATION - - - X - - - - -
+                 THE - - - X - - - - -
+              ACCESS - - - X - - - - -
+                  NO - - - X - - - - -
+      /MEDIA/WINDOWS - - - S - - - - -
+/HOME/YOUR_USER_NAME_HERE/WINDOWS - - - S - - - - -
+            TERMINAL - - - X - - - - -
+               ENTRY - - - O - - - - -
+                TYPE - - - X - - - - -
+                SUDO - - - S X - - - -
+                  -A - - - O - - - - -
+               PLACE - - - O - - - - -
+           /DEV/HDA1 - - - O - - - - -
+              UMOUNT - - - - X - O - -
+                  -F - - - - S - - - -
+                  MM - - - - X - - - -
+            RE-MOUNT - - - - O - - - -
+             PROBLEM - - - - O - - - -
+               OWNER - - - - - O - - -
+                NEED - - - - - - - - O
+//PASTE.UBUNTU-NL.ORG/6163 - - - - - - - - X

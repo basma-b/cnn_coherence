@@ -1,0 +1,14 @@
+                 ONE X - - - -
+                 SET X - - - -
+            VARIABLE X X - - -
+            INSTANCE - X - - -
+              GBUILD - O - - -
+              EXPORT - - X - -
+             FOO=BAR - - X - -
+             .BASHRC - - X - -
+              SCRIPT - - - X -
+                DIST - - - X -
+                 ALL - - - - O
+               BUNCH - - - - X
+             PACKAGE - - - - X
+                BASE - - - - X

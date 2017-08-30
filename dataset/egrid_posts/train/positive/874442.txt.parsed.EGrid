@@ -1,0 +1,16 @@
+                FILE O - - -
+           PARTITION X S - -
+              UBUNTU S - - -
+          PERMISSION S - - -
+             OPTIONS - X X -
+   ERRORS=REMOUNT-RO - X - -
+                AUTO - X - -
+                EXEC - X - -
+                  RW - O - -
+                USER - X - -
+                  RO - X - -
+            PASSWORD - - O X
+                LINE - - X -
+                SUDO - - O -
+              GKSUDO - - - S
+                CASE - - - X

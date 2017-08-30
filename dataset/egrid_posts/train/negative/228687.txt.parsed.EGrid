@@ -1,0 +1,10 @@
+                LINK X - - - -
+               ENCAP O - - - -
+            ETHERNET X - - - -
+              HWADDR S - - - -
+/ETC/NETWORK/INTERFACES O O - - -
+                ETH0 - X - - -
+                NICK - S - - -
+                WORK - O - - -
+                LUCK - X - - -
+                   D - - - - X

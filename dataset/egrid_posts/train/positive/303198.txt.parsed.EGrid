@@ -1,0 +1,9 @@
+   /VAR/WWW/SITENAME X - - -
+  /HOME/FTP/SITENAME S - - -
+                BIND X - - -
+                FILE X - - -
+                DONT S - - -
+          /ETC/FSTAB - X - -
+                BOOT - X - -
+                  TY - - S -
+                HTTP - - - X

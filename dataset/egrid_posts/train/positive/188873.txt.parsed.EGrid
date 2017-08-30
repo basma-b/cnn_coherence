@@ -1,0 +1,11 @@
+             NETWORK X X - - -
+           INTERFACE X X - X -
+              DRIVER O O - - -
+                 MAN - - X S -
+          INTERFACES - - X S -
+                PAGE - - X - -
+             SECTION - - - X -
+               ERROR - - - S -
+                 ALL - - - X -
+                LIST - - - - O
+            IFCONFIG - - - - X

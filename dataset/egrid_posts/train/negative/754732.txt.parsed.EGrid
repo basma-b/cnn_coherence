@@ -1,0 +1,15 @@
+            MODPROBE O - - - - -
+              MODULE X X - - - -
+           BLACKLIST X - - - - -
+         PADLOCK_SHA X - - - S -
+              SYSTEM - S - - - -
+              ERRORS - X O - - -
+               THERE - - X - - -
+                BOOT - - O - - -
+                 OWN - - X - - -
+               ERROR - - - X S -
+                LINE - - - - X -
+           /DEV/SDA1 - - - - S -
+                FILE - - - - S -
+               BLOCK - - - - X -
+                THAT - - - - - S

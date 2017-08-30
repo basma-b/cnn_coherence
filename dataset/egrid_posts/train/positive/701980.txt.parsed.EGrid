@@ -1,0 +1,13 @@
+               DRIVE - X - - - - O S
+                 SDA - X - - - - - X
+                 SDB - X - - - - X -
+                GRUB - S - - - - - -
+   /ETC/DEFAULT/GRUB - - X - - - - -
+         /BOOT/GRUB/ - - X - - - - -
+              ANYONE - - S - - - - -
+               LINUX - - - - - - O -
+                BOOT - - - - - - - X
+              LOADER - - - - - - - S
+             WINDOWS - - - - - - - O
+              SYSTEM - - - - - - - X
+          UNBOOTABLE - - - - - - - O

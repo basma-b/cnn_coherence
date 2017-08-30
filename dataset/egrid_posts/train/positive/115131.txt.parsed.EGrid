@@ -1,0 +1,11 @@
+           PARTITION O - - - - - - - -
+                EXT3 X - - - - - - - -
+                BOTH X - - - - - - - -
+             WINDOWS S X - - - - - - -
+                NTFS O - - - - - - - -
+            REISERFS O - - - - - - - -
+                   U - X - - - - - - -
+               EXTFS - X - - - - - - -
+             DRIVERS - X - - - - - - -
+        SYSINTERNALS - - X - - - - - -
+              BARTPE - - - - - - - - X

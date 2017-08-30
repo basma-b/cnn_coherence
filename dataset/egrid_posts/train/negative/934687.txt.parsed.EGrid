@@ -1,0 +1,12 @@
+             COMMAND X - - X -
+              MYSQLD O - - - -
+   /ETC/INIT.D/MYSQL - S - - -
+                 RUN - - X - -
+            RUNLEVEL - - X - -
+                THAT - - - X -
+                LINK - - - O -
+          /ETC/RC0.D - - - X -
+           SOMETHING - - - O -
+                BUTA - - - O -
+               THERE - - - S -
+               RIGTH - - - - X

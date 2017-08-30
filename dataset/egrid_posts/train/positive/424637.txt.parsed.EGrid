@@ -1,0 +1,16 @@
+                HTTP - X - - - X - - -
+           INTERFACE - X - X X - - - -
+                  OK - - - X - - - - -
+            INTERNET - - - X - - - - -
+          INTERFACES - - - S - - - - -
+       CONFIGURATION - - - - X - - - -
+            MISMATCH - - - - O - - - -
+                  IP - - - - X - - - -
+             ADDRESS - - - - X - - - X
+                 ONE - - - - X X - - -
+                  .. - - - - - - - X -
+             NOWHERE - - - - - - - X -
+                LINE - - - - - - - - O
+       169.254.8.100 - - - - - - - - O
+           SOMETHING - - - - - - - - X
+        192.168.1.10 - - - - - - - - X

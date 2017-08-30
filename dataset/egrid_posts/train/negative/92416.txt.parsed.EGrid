@@ -1,0 +1,13 @@
+                AUTH X - -
+                SSHD X - -
+             DEFAULT - X -
+              UBUNTU - X -
+                   C - - X
+                TYPE - - X
+                ROOT - - X
+                  HD - - X
+              KERNEL - - X
+            /VMLINUZ - - S
+         /INITRD.IMG - - X
+                BOOT - - S
+              INSTAL - - O

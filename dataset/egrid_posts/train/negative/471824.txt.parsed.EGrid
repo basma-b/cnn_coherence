@@ -1,0 +1,11 @@
+                 BUG X - - -
+               -RSB- - X - -
+       GLIB-CRITICAL - X - -
+G_HASH_TABLE_LOOKUP_EXTENDED - X - -
+           ASSERTION - X - -
+                TIME - - X -
+                NULL - - S -
+             NOTHING - - X -
+           SOMETHING - - S -
+                TTYS - - O -
+              THANKS - - - X

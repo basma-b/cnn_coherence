@@ -1,0 +1,10 @@
+         PERMISSIONS O - - - O -
+               CHMOD X - - - - -
+                FILE X - - - X -
+          /TEMPLATES X - - - - -
+           DIRECTORY X - - - - -
+         /TEMPLATES/ - - - X - -
+                   * - - - S - -
+           RECURSIVE - - - - X -
+      SUBDIRECTORIES - - - - X -
+                 YES - - - - - X

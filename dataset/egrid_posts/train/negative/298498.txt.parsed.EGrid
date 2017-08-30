@@ -1,0 +1,10 @@
+         PERMISSIONS X - - -
+                 ALL X - - -
+                 HDD X - - -
+               FSTAB X - - -
+               UMASK - X - -
+                 UID - X - -
+                KIND - - X -
+          FILESYSTEM - - X -
+               AOBUT - - O -
+                 ONE - - - X

@@ -1,0 +1,24 @@
+              RELOAD X - - - - - - -
+                CRON X S - X - - - -
+               ENTRY X - - - - - - -
+             CRONTAB X - S - - - - -
+                HELP - X - - - - - -
+                 USE - X - - - - - -
+                   * - - X - - - - -
+/USR/BIN/TRANSMISSION - - X - - - - -
+               START - - X - - - - -
+             MINUITE - - S - - - - -
+             NOTHING - - S - - - - -
+              MASTER - - X - - - - -
+                FILE - - O - - - - -
+               ALTER - - O - - - - -
+                BASH - - - X - - - -
+              SCRIPT - - - O - - O O
+              FOLDER - - - - O - S X
+                 ETC - - - - X - - -
+                TIME - - - - - X - -
+             COMMAND - - - - - O - -
+                 DAY - - - - - X - -
+                   ' - - - - - - S -
+        TRANSMISSION - - - - - - X -
+             EXAMPLE - - - - - - - X

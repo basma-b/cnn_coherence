@@ -1,0 +1,11 @@
+                LOAD - X - - -
+                ROOT - X X - X
+          FILESYSTEM - O S - -
+                BOOT - X X - -
+             COMMAND - - O - -
+          DIFFERENCE - - S - -
+                SUDO - - X - -
+             ACCOUNT - - X - X
+          EVERYTHING - - - - S
+               CRASH - - - - X
+              UPDATE - - - - X

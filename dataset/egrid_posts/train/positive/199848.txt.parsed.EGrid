@@ -1,0 +1,19 @@
+            WIRELESS X - - - - -
+             PROBLEM X - - - - -
+              LAPTOP X - - - - X
+             DRIVERS - X - - - -
+             ORINOCO - X - X - -
+              HOSTAP - X - - - -
+                  .. - - X - - -
+/ETC/MODPROBE.D/BLACKLIST - - X - - X
+                FILE - - O - - -
+              FORMAT - - - X - -
+                TEXT - - - X - -
+                LINE - - - X - X
+                   / - - - - - S
+                LOOK - - - - - O
+                /ETC - - - - - X
+                   * - - - - - X
+                NAME - - - - - X
+                  IE - - - - - X
+              PCSPKR - - - - - O

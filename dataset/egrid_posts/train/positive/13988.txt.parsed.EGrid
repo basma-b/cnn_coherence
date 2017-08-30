@@ -1,0 +1,8 @@
+          -DEV=ATAPI O - -
+            -SCANBUS S - -
+              DEVICE X - -
+                NAME O - -
+              WRITER X - -
+                FILE O - X
+             EXAMPLE - - X
+            BURNFREE - - O

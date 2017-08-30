@@ -1,0 +1,13 @@
+                NMAP S - - - - -
+           INTERFACE S - - - - -
+               ROUTE X - - - - -
+             PACKETS O - - - - -
+                 HUH - X - - - -
+           SOMETHING - - - - X -
+              RESULT - - - - O -
+                GREP - - - - X -
+           LOCALHOST - - - - X -
+          /ETC/HOSTS - - - - X -
+                AUTO - - - - X X
+                  LO - - - - X X
+/ETC/NETWORK/INTERFACES - - - - X -

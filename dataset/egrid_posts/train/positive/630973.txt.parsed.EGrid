@@ -1,0 +1,13 @@
+              UBUNTU X - - - -
+           PRIVILEGE O - - - -
+              WINSCP O - - - -
+                 CLI X - - - -
+          PRIVILIGES - X - - -
+                ROOT - - X - S
+             ACCOUNT - - O - -
+         DIRECTORIES - - O - -
+                   / - - X - -
+                SUDO - - - - S
+                 SSH - - - - O
+/ETC/SSH/SSHD_CONFIG - - - - X
+                 YES - - - - X

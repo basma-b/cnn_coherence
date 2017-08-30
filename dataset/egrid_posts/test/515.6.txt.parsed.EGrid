@@ -1,0 +1,18 @@
+              EDITOR X - - - -
+         GCONFEDITOR O - - - -
+                FILE - O X - -
+                DIRS - X - - -
+      ~/.CONFIG/CONF - X - - -
+               THATS - X - - -
+               GCONF - S - - -
+         DEFINITIONS - - O - -
+              APACHE - - X - -
+                HOST - - X - -
+/ETC/APACHE2/SITES-AVAILABLE - - X - -
+                THAT - - - - S
+              MYSITE - - - - S
+               POINT - - - - O
+/SITES-AVAILABLE/MYSITE - - - - X
+          APACHE2CTL - - - - X
+          CONFIGTEST - - - - S
+                 LOG - - - - S

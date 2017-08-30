@@ -1,0 +1,12 @@
+              ACCESS - X - X O
+          MANAGEMENT - O - - -
+           HARDDRIVE - X - - -
+                EXT4 - O - - -
+           PARTITION - - O - -
+               DRIVE - - O - -
+             OPTIONS - - O - -
+               USERS - - S - -
+              OWNERS - - O - -
+                USER - - - X -
+           GID=USERS - - - - O
+                 ALL - - - - S

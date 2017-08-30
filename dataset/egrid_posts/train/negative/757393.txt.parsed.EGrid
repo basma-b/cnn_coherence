@@ -1,0 +1,16 @@
+               ERROR X X - - X
+/VAR/LOG/APCUPSD.EVENTS X - - - -
+          CONNECTION X - - - -
+              REFUSE X - - - -
+        TCP_WRAPPERS X - - - -
+             MONITOR - X - - -
+             PROGRAM - S - - -
+               BLOCK - O - - -
+     /ETC/HOSTS.DENY - X - - -
+       CONFIGURATION - X - - -
+             MACHINE - X - - -
+                WORK - S - - -
+               WEEKS - X - - -
+            SECURITY - X - - -
+            SOFTWARE - O - - -
+                GRUB - - - - X

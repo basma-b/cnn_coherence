@@ -1,0 +1,17 @@
+                TYPO S X - - -
+       LAUNCHPAD.NET O - - - -
+              DISTRO - O - - -
+            ANYTHING - X - - -
+                  GO - X - - -
+            BUGZILLA - O - - -
+             PACKAGE - O - - -
+                LOOK - - - X -
+                HTTP - - - X -
+//BUGZILLA.UBUNTU.COM/BUGLIST.CGI - - - X -
+QUERY_FORMAT=SPECIFIC - - - - X
+ORDER=BUGS.RESOLUTION - - - - X
+                   % - - - - X
+   2C+RELEVANCE+DESC - - - - X
+  BUG_STATUS=__ALL__ - - - - X
+            PRODUCT= - - - - X
+      CONTENT=KERNEL - - - - X

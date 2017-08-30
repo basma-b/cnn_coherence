@@ -1,0 +1,7 @@
+         192.168.1.1 S - - - -
+               MODEM S - - - X
+                ETH0 X - - - -
+                HELP - X - - -
+       192.168.1.254 - - - O -
+             ADDRESS - - - - O
+          STATISTICS - - - - O

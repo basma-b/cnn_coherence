@@ -1,0 +1,13 @@
+               SOUND X -
+               DIDNT X -
+                WORK X -
+              KERNEL X -
+               AUDIO X -
+                 USE X -
+             CONTENT S -
+/PROC/ASOUND/MODULES X -
+               CHECK X -
+                  PM O -
+        DEPENDENCIES - O
+             PACKAGE - O
+          DEPENDENCY - X

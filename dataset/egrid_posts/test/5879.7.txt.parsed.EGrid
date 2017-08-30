@@ -1,0 +1,16 @@
+                USER X - - X - -
+           PRIVILEGE X - - X - -
+       SPECIFICATION S - - X - -
+                ALL= O - - X - -
+                 ALL X - - X - -
+                JAYA X - - X - -
+              IKONIA S - - - - -
+            CONFLICT - O - - - -
+             SUDOERS - X - - - -
+                FILE - X - - - -
+                ROOT - - - X - -
+                TYPE - - - - X -
+             NETWORK - - - - X -
+                 USE - - - - - X
+              VMWARE - - - - - O
+                CANT - - - - - X

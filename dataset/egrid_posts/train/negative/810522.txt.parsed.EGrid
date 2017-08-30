@@ -1,0 +1,17 @@
+      APT-REPOSITORY - - X - - - - -
+     PACKAGE/PROGRAM - - X - - - - -
+             COMMAND - - S - - - - -
+             PACKAGE - - X - - - - -
+              STRING - - X - - - - -
+                E.G. - - X - - - - -
+                  .. - - - - O - - -
+                STEP - - - - S - - -
+      POLICY-COMMAND - - - - O - - -
+        PACKAGE-NAME - - - - S - - -
+                NAME - - - - O - - -
+              POLICY - - - - - X - -
+          FOOPACKAGE - - - - - X - -
+           AUDACIOUS - - - - - - X -
+               TOTEM - - - - - - - X
+             DEFAULT - - - - - - - X
+              PLAYER - - - - - - - X

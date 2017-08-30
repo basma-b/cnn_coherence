@@ -1,0 +1,16 @@
+               ARRAY S - - - - - -
+         /DEV/DEVICE S - - - - - -
+               FSTAB X - - - - - -
+             PROBLEM X - - - - - -
+           PARTITION S - - - S O -
+                 HMM - O - - - - -
+                TYPE - - X - - - -
+                UUID - - - O X - -
+                EXT3 - - - S - - -
+   /DEV/DISK/BY-UUID - - - X - S -
+              FORMAT - - - O X - -
+                TIME - - - - O - -
+              KERNEL - - - - S - -
+               UUIDS - - - - O - -
+            PARTTION - - - - O - -
+                 ONE - - - - - X -

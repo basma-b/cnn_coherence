@@ -1,0 +1,40 @@
+             COMMAND X - - - - - - - - - - -
+               PROBE X - - - - - - - - - - -
+             RMPROBE - X - - - - - - - - - -
+               RMMOD - - S - - - - - - - - -
+                   + - - X - - - - - - - - -
+                 ALT - - X - - - - - - - - -
+               BKSPC - - X - - - - - - - - -
+         PERFORMANCE - - - O X - - O - - - -
+              RADEON - - - X - - - X - - - -
+            MOBILITY - - - X - - - - - - - -
+               X1600 - - - X - - - - - - - -
+               ISSUE - - - - X - - - - - - -
+                 FPS - - - - - O - - - - - -
+              COMPIZ - - - - - X - - - - - -
+                GAME - - - - - X - - - - - -
+             UPGRADE - - - - - X - - - - - -
+              JAUNTY - - - - - X - - - - - -
+                FOSS - - - - - X - - - - - -
+             DRIVERS - - - - - O - - - - - -
+             PROBLEM - - - - - - X X - - - -
+              200FPS - - - - - - O - - - - -
+                 HMM - - - - - - X - - - - -
+                   A - - - - - - - X - - - -
+ /VAR/LOG/XORG.0.LOG - - - - - - - S - - - -
+              DRIVER - - - - - - - S - - - -
+                HTTP - - - - - - - X - X - -
+//PASTEBIN.COM/F45C21CAB - - - - - - - S - - - -
+                 IVE - - - - - - - X - - - -
+                 FAN - - - - - - - O - - - -
+                 ATI - - - - - - - X - - - -
+                 GPU - - - - - - - X - - - -
+               SHAME - - - - - - - O - - - -
+                 AMD - - - - - - - S - - - -
+              SOURCE - - - - - - - X - - - -
+            RADEONHD - - - - - - - - X - - -
+           XORG.CONF - - - - - - - - - O - -
+XSERVER-XORG-VIDEO-RADEONHD - - - - - - - - - X - -
+//PASTEBIN.COM/M77E8B49 - - - - - - - - - S - -
+        COPY/PASTING - - - - - - - - - X - -
+                 YEP - - - - - - - - - - - X

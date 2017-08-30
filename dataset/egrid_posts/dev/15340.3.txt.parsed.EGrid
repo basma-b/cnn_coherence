@@ -1,0 +1,15 @@
+                THAT S - - - - -
+                 ALL O - - - - -
+          PERMISSONS - S - - - -
+       /USR/BIN/JAVA - S - - - -
+             SYMLINK - O - O - -
+               TRAIL - - O - - -
+              BINARY - - X - - -
+             KNOPPIX - - - - - S
+                TOOL - - - - - X
+                  .. - - - - - O
+                HAND - - - - - O
+                 HEX - - - - - X
+            RECOVERY - - - - - X
+                 LOT - - - - - S
+                  FS - - - - - X

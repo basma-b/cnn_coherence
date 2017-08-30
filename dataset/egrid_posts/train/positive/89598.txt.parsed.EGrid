@@ -1,0 +1,13 @@
+            LDCONFIG - S - - - -
+             PROCESS - O - - - -
+                 SSH - - S - - -
+          CONNECTION - - S - - -
+                 CPU - - O - - -
+                DISK - - X - - -
+                  IO - - S - - -
+           NETAPPLET - - O - - -
+     NETWORK-MANAGER - - S - - -
+               THOSE - - X - X -
+               PANEL - - X - - -
+                BOTH - - - - X -
+                 ONE - - - - - X

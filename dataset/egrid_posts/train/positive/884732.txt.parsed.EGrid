@@ -1,0 +1,28 @@
+           RUNLEVELS O - - - - -
+               SHIFT - O - - - -
+                CANT - - X - - -
+                 VGA - - X - - -
+              KERNEL - - X - - X
+              OPTION - - O - - -
+                GRUB - - X X - -
+             CONFIGS - - X - - -
+                TEXT - - - X - -
+             OPTIONS - - - S - -
+              CONFIG - - - X - -
+                 USE - - - X - -
+               CHECK - - - O - -
+/ETC/INIT/LIGHTDM.CONF - - - X - -
+             SERVICE - - - S - -
+                SUDO - - - X - -
+                 TEE - - - X - -
+/ETC/INIT/LIGHTDM.OVERRIDE - - - O - -
+             ONEIRIC - - - O - -
+             LIGHTDM - - - X - -
+            ANYTHING - - - O - -
+             MACHINE - - - X - -
+                DEPS - - - X - -
+             VERSION - - - X - -
+              UBUNTU - - - X - -
+           EXCELLENT - - - - X -
+          PARAMETERS - - - - - X
+                IPV6 - - - - - X

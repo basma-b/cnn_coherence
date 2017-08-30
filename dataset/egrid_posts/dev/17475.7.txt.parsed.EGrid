@@ -1,0 +1,16 @@
+                TIME O - O - - -
+               RSYNC S - O - - -
+               ERROR X - - - - -
+            ARGUMENT O - - - - -
+      OMIT-DIR-TIMES X - - - - -
+                  -O - - S - - -
+        MODIFICATION - - X - - -
+                 MAN - - X - - -
+         DIRECTORIES - - O - - -
+               EMAIL - - - - O -
+                 ONE - - - - O -
+               TRACK - - - - - O
+            PROGRESS - - - - - X
+                 BUG - - - - - X
+               FLOOD - - - - - X
+            SPAMMING - - - - - O

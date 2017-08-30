@@ -1,0 +1,12 @@
+              REASON X - - - - -
+            PASSWORD X - - - - -
+                SUDO X - - - - S
+              GKSUDO O - - - - -
+                ROOT - X - - - -
+         PERMISSIONS - O - - - -
+         SUDO/GKSUDO - O - - - -
+             SESSION - O - - X -
+        /ETC/SUDOERS - - X - - -
+                LINE - - X - - -
+            TIMEOUTS - - - - - O
+               PLACE - - - - - X

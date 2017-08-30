@@ -1,0 +1,11 @@
+                 ANY S - - - - - -
+              MODULE X - - - - - -
+           INITRAMFS X - - - - - -
+                 USE X - - - - - -
+             CLIENTS X - - - - - -
+          MODULENAME - O - - - - -
+/ETC/INITRAMFS-TOOLS/MODULES - X - - - - -
+              INITRD - O - - - - -
+                   U - - S - - - -
+                TUTO - - - X - - -
+                  .. - - - - - O O

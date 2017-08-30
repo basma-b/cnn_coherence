@@ -1,0 +1,17 @@
+                CARD O - - -
+              REASON X - - -
+             GPARTED S - - -
+               DRIVE S X - -
+                BOTH - S - -
+                THIS - O - -
+             COMMAND - X - -
+                LINE - X - -
+                  .. - X - -
+              FORMAT - O - -
+                SWAP - X - -
+                EXT3 - X - -
+                FILE - O - -
+             PRINTER - X - -
+               FAT32 - O S -
+                STEP - - - S
+      /DEV/SOMETHING - - - O

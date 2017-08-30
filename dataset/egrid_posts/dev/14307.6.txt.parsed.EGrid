@@ -1,0 +1,24 @@
+                  .. S - - - O
+     /MEDIA/PICTURES S - - - -
+              OUTPUT S - - - -
+               ANKUR S - - - -
+                   ~ S - - - -
+                   / S - - - -
+                TYPE S - - - -
+   ERRORS=REMOUNT-RO S - - - -
+               SYSFS S - - - -
+                /SYS S - - - -
+                NONE S - - - -
+/SYS/FS/FUSE/CONNECTIONS S - - - -
+   /SYS/KERNEL/DEBUG S - - - -
+             DEBUGFS S - - - -
+/SYS/KERNEL/SECURITY S - - - -
+          SECURITYFS S - - - -
+            DEVTMPFS S - - - -
+              DEVPTS S - - - -
+            /DEV/PTS S - - - -
+              /MEDIA X - X - -
+                 ALL - O - - -
+          SCREENSHOT - O - - -
+              THREAD - X - - -
+              AMAROK - - - - X

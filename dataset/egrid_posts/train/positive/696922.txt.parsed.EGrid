@@ -1,0 +1,15 @@
+               SETUP X - - - -
+                NICS O - - - -
+              UBUNTU X - - - -
+              SERVER X - - - -
+             STATICS X - - - -
+                ETH0 X - - - -
+                ETH1 X - - - -
+/ETC/NETWORK/INTERFACES X - - - -
+             TROUBLE - O - - -
+                ROUT - S - - -
+             TRAFFIC - O - - -
+                EACH - X - - -
+              ANYONE - - S - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - - X -
+/PROC/SYS/NET/IPV4/IP_FOWARD - - - - X

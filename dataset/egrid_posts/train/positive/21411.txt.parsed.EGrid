@@ -1,0 +1,16 @@
+              ANYONE S - - - - - - - - -
+             PACKAGE - O - - - - - - - -
+                  .. - X - - O - - - - -
+       CONFIGURATION - X - - - - - - - -
+        APACHE2.CONF - X - - - - - - - -
+             MOD_PHP - - X - X - O - O -
+                 PHP - - - S - - - - - -
+           WORDPRESS - - - - - O - - - -
+           PHP4.CONF - - - - - - X - - -
+           PHP4.LOAD - - - - - - X - - -
+            SYMLINKS - - - - - - O S - -
+/ETC/APACHE2/MODS-ENABLED/ - - - - - - X - - -
+              MATTER - - - - - - X - - -
+             APACHE2 - - - - - - X - - -
+             PHP-CGI - - - - - - - X - X
+/ETC/APACHE2/MODS-ENABLED - - - - - - - X - -

@@ -1,0 +1,10 @@
+               IOCTL - - S -
+        SIOCSIFFLAGS - - X -
+                FILE - - X -
+           DIRECTORY - - O -
+              STRACE - - O -
+                  IM - - S -
+                MON0 - - O -
+                THAT - - - O
+               STORE - - - X
+                 WAY - - - O

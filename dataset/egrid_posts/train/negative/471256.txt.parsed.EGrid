@@ -1,0 +1,12 @@
+              FORMAT X - - -
+                 ALL O - - -
+            HARDDISK X - - -
+                FACT - S - -
+           PARTITION - O - -
+              CFDISK - X - -
+                 I/O - X - -
+               ERROR - S - -
+                DISK - X - -
+                 USE - O - -
+              REPAIR - - X -
+                SUDO - - X -

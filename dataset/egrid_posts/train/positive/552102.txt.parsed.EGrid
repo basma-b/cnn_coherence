@@ -1,0 +1,14 @@
+             CONNECT X - - - -
+                 SSL X - - - -
+               HTTPS X - - - S
+                 SSH - O - S -
+               PUTTY - X - - -
+    .SSH/KNOWN_HOSTS - - S - -
+               TRACK - - O O -
+                 KEY - - X X -
+         FINGERPRINT - - - O -
+              SERVER - - - X -
+                FILE - - - X -
+             BENEFIT - - - - O
+         CERTIFICATE - - - - X
+         AUTHORITIES - - - - X

@@ -1,0 +1,21 @@
+            QUESTION S - - -
+                USER X - - -
+           PRIVILEGE X - - -
+              ACCESS X - - -
+                WIFI X - - -
+             NETWORK X - - -
+                  .. X - - -
+                 USE X - - -
+      WPA_SUPPLICANT O - - -
+        WIFI-NETWORK O - - -
+                CONF O - - -
+              NOBODY X - - -
+                ROOT S - - -
+                RUAN O - - -
+                TOOL O - - -
+                 DON - X - -
+                   T - S - -
+                NAME - S - -
+      NETWORKMANAGER - - X -
+/ETC/NETWORK/INTERFACES - - - X
+           INTERFACE - - - O

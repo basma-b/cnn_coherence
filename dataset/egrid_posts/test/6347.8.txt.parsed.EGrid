@@ -1,0 +1,11 @@
+             COMMAND O - - - - -
+             ARECORD X - - - - -
+                 MIC O O X - - -
+            SPEAKERS X - X - - -
+                 WAY - - O - - -
+                 ONE - - O - - -
+                   / - - - S - -
+                  MB - - - O - -
+           INSTALLER - - - - S -
+              ROOTFS - - - - - S
+               ALIAS - - - - - O

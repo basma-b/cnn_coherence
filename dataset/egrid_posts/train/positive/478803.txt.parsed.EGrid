@@ -1,0 +1,13 @@
+                 SSH S - - - -
+               LOCAL - O - - -
+                JIGP - S - - -
+                  OK - O - - -
+                  PS - X - - -
+                GREP - X - - -
+                SSHD - X - - -
+            10.0.0.3 - O - - -
+                 BOX - - X X -
+                   B - - X - -
+            FIREWALL - - - S -
+                TEST - - - X -
+           LOCALHOST - - - - X

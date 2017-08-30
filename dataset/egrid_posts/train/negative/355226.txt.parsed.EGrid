@@ -1,0 +1,12 @@
+              FORMAT X - - - - -
+                  GB O - - - - -
+               DRIVE S - - - - -
+           PARTITION X - X - - -
+                EXT3 S - - - - -
+                 USE X - - - - -
+         /MEDIA/SDA1 O - - - - -
+                  -H X - - - - -
+               200GB - - X - - -
+              CFDISK - - - O - -
+          FILESYSTEM - - - S - -
+                 JOB - - - - - O

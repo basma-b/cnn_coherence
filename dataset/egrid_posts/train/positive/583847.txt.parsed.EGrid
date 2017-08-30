@@ -1,0 +1,15 @@
+           CONFIGURE X - - - - -
+               ERROR X - - - - -
+                   * S - - - - -
+              GL/GLU O - - - - -
+            FREEGLUT - O - - - -
+              RETURN - X - - - -
+/USR/INCLUDE/GL/FREEGLUT.H - X - - - -
+                LIBS - X - - - -
+                THAT - - X - - -
+        /USR/INCLUDE - - O - - -
+                PATH - - X - - -
+           SOMETHING - - X - - -
+                GLUT - - - X - -
+             PACKAGE - - - X - -
+                 ALL - - - - - X

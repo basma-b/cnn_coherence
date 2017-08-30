@@ -1,0 +1,11 @@
+                THAT S - -
+                  -D O - -
+           USING_DMA S - -
+              ENABLE O - -
+        HDIO_SET_DMA - S -
+            ARGUMENT - X -
+                ROOT - X -
+                SUDO - S -
+            /DEV/HDA - O -
+                   D - - X
+                 -D1 - - X

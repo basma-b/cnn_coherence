@@ -1,0 +1,16 @@
+               CHECK S - - - X - - -
+                   % X - - - X - - -
+            PROGRESS O - - - - - - -
+               MOUNT S - - - S - - -
+          FILESYSTEM X - - - X - - -
+               SHELL - S X - - S X -
+               START - O - - - O - -
+           CONTROL-D - - S - - - S -
+              RE-TRY - - O - - - O -
+                THIS - - - S - - - -
+                TREK - - - S S - - X
+               ERROR - - - O - - - -
+                FSCK - - - O - - - -
+             CONSOLE - - - - - - - X
+             COMMAND - - - - - - - X
+                  .. - - - - - - - X

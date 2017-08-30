@@ -1,0 +1,14 @@
+                  YO S - - - - - - - - - -
+             WINDOWS - S - - - - - - - - -
+           PARTITION - X - - - - - - X - -
+                BOOT - X - - - - - - - - -
+                MODE - X - - - - - - - - -
+             OPTIONS - - X - - - - - - - -
+          /ETC/FSTAB - - X - - - - S - - -
+                  RO - - - - - O - - - - -
+               INPUT - - - - - X - - - - -
+                FILE - - - - - X - - - - -
+                LINE - - - - - - - - O - -
+               THERE - - - - - - - - - S -
+               ENTRY - - - - - - - - - O -
+           /DEV/SDA2 - - - - - - - - - X -

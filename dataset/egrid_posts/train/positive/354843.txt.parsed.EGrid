@@ -1,0 +1,17 @@
+              OUTPUT S - - - -
+                TYPE X - - - -
+                EXT3 X - - - -
+                  RW X - - - -
+   ERRORS=REMOUNT-RO X - - - -
+            SETTINGS O - - - -
+             PROBLEM - S - - -
+             NETWORK - X - - -
+                   X - X - - -
+               RIGHT - - X - -
+            HARDWARE - - O - -
+              DEVICE - - - X -
+             MANAGER - - - O -
+            ANYTHING - - - O -
+                 HAL - - - - X
+               ERROR - - - - O
+             STARTUP - - - - X

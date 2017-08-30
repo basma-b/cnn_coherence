@@ -1,0 +1,14 @@
+              CHROOT X - - -
+                ROOT X - - -
+                  FS X - - -
+              LIVECD X X - -
+               DRIVE O - - -
+                LIST O - - -
+            /DEV/SDA X - - -
+               -LSB- S - - -
+               -RSB- S - - -
+           PARTITION O - - -
+                   U - X - -
+                BOOT - S - X
+                GRUB - - - O
+                  CD - - - X

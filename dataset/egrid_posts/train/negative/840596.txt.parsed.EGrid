@@ -1,0 +1,11 @@
+            SCHEDULE S - - - -
+                PIPE X - - - -
+                 LOG O - O - -
+                FILE X - - - -
+               ERROR X - - - -
+                   > - S - - -
+     /PATH/TO/SCRIPT - X - - -
+              STDERR - O - - -
+              SCRIPT - O - - -
+           ERROR.LOG - O - - -
+                THAT - - X - -

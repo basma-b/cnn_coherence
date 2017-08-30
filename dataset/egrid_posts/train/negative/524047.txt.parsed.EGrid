@@ -1,0 +1,13 @@
+                 CAT X X X X -
+                   < S X - - -
+                FILE X O X O -
+             CONTENT O - - - -
+              STDOUT X - - - -
+              OUTPUT S - - - -
+             COMMAND X - - - -
+            EVERYONE - - O - -
+                   > - - X - -
+               INPUT - - X - -
+               STDIN - - X - -
+            STANDARD - - - X -
+            TERMINAL - - - - X

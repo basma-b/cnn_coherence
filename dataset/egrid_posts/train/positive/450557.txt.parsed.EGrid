@@ -1,0 +1,19 @@
+VIRTUALBOX-MODULES-2.6.24-17-GENERIC S - - -
+              WHILST X - - -
+              KERNEL X X X -
+            MODPROBE X - - -
+                WORK X X - -
+                 WAY X - - -
+               ALERT X - - -
+             PACKAGE X - - -
+              UPDATE S - - -
+           GRUB.CONF - X - -
+                BOOT - X - -
+                 BOX - X - -
+             MODULES - - S -
+                SUDO - - X -
+ /ETC/INIT.D/VBOXDRV - - X -
+               SETUP - - X -
+                   * - - X -
+               USAGE - - O -
+             VERSION - - - O

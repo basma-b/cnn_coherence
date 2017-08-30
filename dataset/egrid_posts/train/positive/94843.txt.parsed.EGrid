@@ -1,0 +1,9 @@
+               PATCH X X X - -
+             VANILLA X - - - -
+              KERNEL X X - - -
+              SOURCE O - - - -
+              UBUNTU O X - - -
+                BOTH - - - X -
+             .CONFIG - - - - O
+             APT-GET - - - - S
+LINUX-PATCH-UBUNTU-2.6.12 - - - - O

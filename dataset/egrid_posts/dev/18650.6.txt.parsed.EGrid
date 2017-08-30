@@ -1,0 +1,27 @@
+               CHMOD S - - - -
+               OWNER O - - - -
+          PERISSIONS X - - - -
+         PERMISSIONS S - - - -
+                   < X - - - -
+               STEP= S - - - -
+                COPY O - - - -
+                 SSH X - - - -
+                  CP O - - - -
+             PFSENSE X - - - -
+               SNORT X - - - -
+                 RUN X - - - -
+                 LOG X - - - -
+                  RR - X - - -
+                  -L - X - - -
+               THERE - - S - -
+              STATUS - - O - -
+                   R - - S - -
+                CHAR - - X - -
+               AFAIK - - X - -
+                HTTP - - O - -
+                WORK - - - X -
+            PROGRESS - - - X -
+               HTTPS - - - X -
+//BUGZILLA.MOZILLA.ORG/SHOW_BUG.CGI - - - X -
+           ID=706973 - - - - X
+           MIGRATION - - - - X

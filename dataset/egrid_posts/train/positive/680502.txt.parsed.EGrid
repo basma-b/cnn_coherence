@@ -1,0 +1,11 @@
+              KERNEL X - - - - -
+             VERSION X - - - - -
+              ACCESS O - - - - -
+                 RAM X - - - - -
+ LINUX-IMAGE-GENERIC - S - - - -
+              MEMORY - - X - - -
+                BIOS - - X - - S
+             STARTUP - - X - - -
+                  .. - - - O - -
+          DIAGNOSTIC - - - O - -
+                  OK - - - - - O

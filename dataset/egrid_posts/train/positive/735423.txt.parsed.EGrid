@@ -1,0 +1,27 @@
+             PROBLEM O - - - - - - - - -
+               VIDEO X - - - - - - - X -
+                CARD X - - - - - - - - -
+               INTEL X - X - - - - - S -
+                 GMA X - - - - - - - - -
+             DRIVERS O - - - - - - - - -
+                  OK O - - - - - - - - -
+              DRIVER O X X O - - - - S -
+                SUDO - X - - - - - - - -
+             APT-GET - S - - - - - - - -
+                   > - O - - - - - - - -
+                NAME - O O - - - - - - -
+               LSPCI - - S - - - - - - -
+                 VGA - - X - - - - - - -
+          CONTROLLER - - X - - - - - - -
+         CORPORATION - - X - - - - - - -
+                 N10 - - X - - - - - - -
+              FAMILY - - X - - - - - - -
+          INTEGRATED - - X - - - - - - -
+            GRAPHICS - - X - - - - - - -
+                 ONE - - - - - S - - O -
+               LSMOD - - - - - - - - S -
+                   | - - - - - - - - X -
+                GREP - - - - - - - - X -
+                THIS - - - - - - - - - S
+SND_HDA_CODEC_REALTEK - - - - - - - - - X
+       SND_HDA_INTEL - - - - - - - - - X

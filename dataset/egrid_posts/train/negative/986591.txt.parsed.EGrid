@@ -1,0 +1,26 @@
+        DEPENDANCIES O - - - - -
+                  .. X - - - - -
+                HELP X - - - - -
+                DPKG - X - - - -
+               ERROR - X - - - -
+             PROCESS - X - - - -
+                   % - X - - - -
+3A0.8.0-3UBUNTU8_I386.DEB - S - - - -
+              UNPACK - X - - - -
+/USR/SHARE/LIBOFX/DTD/OPENSP.DCL - X - - - -
+             PACKAGE - X - - - -
+                HINT - X - - - -
+             ANYBODY - - S - - -
+        DEPENDANSIES - - X - - -
+         APT-SOURCES - - - S - -
+                 TRY - - - - X -
+               HTTPS - - - - O -
+             APT-GET - - - - S -
+                 DEB - - - - X -
+          DEPENDANCY - - - - X -
+            PROBLEMS - - - - O -
+        DIST-UPGRADE - - - - O -
+               THOSE - - - - S -
+                 LOT - - - - O -
+                  OS - - - - - X
+              SYSTEM - - - - - X

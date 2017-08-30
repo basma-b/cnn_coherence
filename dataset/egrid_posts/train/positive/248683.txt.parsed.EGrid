@@ -1,0 +1,6 @@
+           PARTITION X - -
+                DATA X - -
+                USER S - -
+               CHOWN - X -
+                   + - S -
+               UNAME - - X

@@ -1,0 +1,20 @@
+  HAL-DEVICE-MANAGER S - - - - - - -
+               GNOME X - - - - - - -
+            TERMINAL X - - - - - - -
+               PRINT X - - - - - - -
+DEVICE=/ORG/FREEDESKTOP/HAL/DEVICES/ACPI_BAT0 S - - - - - - -
+                  CD - S - - - - - -
+                  LS - S - - - - - -
+           DIRECTORY - X - - - - - -
+                /ORG - O - - - - - -
+                  .. - - X - - - - -
+              DEVICE - - - X - - - -
+             ADDRESS - - - O - - - -
+               THOSE - - - O - - - -
+            HARDWARE - - - X - - - -
+         INFORMATION - - - X - - - -
+             PROGRAM - - - X - - - -
+              UBUNTU - - - X - - - -
+              SWITCH - - - - X - - -
+                CHIP - - - - - S - -
+                 ALL - - - - - - - O

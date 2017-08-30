@@ -1,0 +1,27 @@
+             ANYBODY S S - - - -
+                TALK O - - - - -
+              AWSTAT X - - - - -
+                FILE O - - - - -
+           DIRECTORY X - - - - -
+                LOOK - - X - - -
+                THIS - - X - - -
+                 WWW - - - X - -
+               HTTPS - - - X - -
+                LINK - - - O - -
+               ALIAS - - - O - -
+           DIRECTIVE - - - X - -
+                HOST - - - X - -
+              CONFIG - - - S - -
+              APACHE - - - O - O
+YOURSITE.COM/AWSTATS - - - S - -
+             MARTIAN - - - - S -
+                   > - - - - S -
+             PROBLEM - - - - O -
+                 URL - - - - O -
+              MOMENT - - - - X -
+                 LOG - - - - - O
+            TERMINAL - - - - - X
+                TYPE - - - - - X
+/VAR/LOG/APACHE2/ERROR.LOG - - - - - S
+               THERE - - - - - S
+              ERRORS - - - - - O

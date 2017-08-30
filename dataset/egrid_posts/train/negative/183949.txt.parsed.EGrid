@@ -1,0 +1,26 @@
+       UBUNTU-SERVER X - - - - - - - - - - - - -
+       INTERFACENAME X - - - - - - - - - - - - -
+                 NIC X O S - - - - - - - - - - -
+                BOOT - X - - - - - X - - - - - -
+    /ETC/MODPROBE.D/ - - - X - - - - - - - - - -
+                ETH2 - - - - - - X - - - - - - -
+                HOOK - - - - - - X - - - - - - -
+             MONITOR - - - - - - X - - - - - - -
+/ETC/NETWORK/INTERFACES - - - - - - O - - - - - - -
+          DEFINITION - - - - - - O - - - - - - -
+            LOCATION - - - - - - - X - - - - - -
+                 AND - - - - - - - - S - - - - -
+                   O - - - - - - - - X - - - - -
+             NETWORK - - - - - - - - X - - - - -
+             DEVICES - - - - - - - - O - - - - -
+             MACHINE - - - - - - - - X - - - - -
+          /ETC/IFTAB - - - - - - - - - X - - - -
+                ETH1 - - - - - - - - - - O - - -
+                 USE - - - - - - - - - - X - - -
+              LAPTOP - - - - - - - - - - - X - -
+        MOTHERBOARDS - - - - - - - - - - - O - -
+                  .. - - - - - - - - - - - - O -
+                 WAY - - - - - - - - - - - - X -
+             PICTURE - - - - - - - - - - - - - O
+              PASSWD - - - - - - - - - - - - - S
+              SCREEN - - - - - - - - - - - - - O

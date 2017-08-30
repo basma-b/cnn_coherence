@@ -1,0 +1,32 @@
+             WARNING O - - - - -
+        REQUIRE_ONCE O - - - - -
+/ETC/WORDPRESS/CONFIG-WWW.YENODAWEBSITE.COM.PHP X - - - - -
+FUNCTION.REQUIRE-ONCE X - - - - -
+               -RSB- O - - - - -
+                OPEN S - - - - -
+              STREAM O - - - - -
+                FILE X - - - - -
+           DIRECTORY O - - - - -
+/ETC/WORDPRESS/WP-CONFIG.PHP X S - - - -
+                LINE X S - O - -
+               ERROR X X - - - -
+       INCLUDE_PATH= X - - - - -
+      /USR/SHARE/PHP - X - - - -
+     /USR/SHARE/PEAR - X - - - -
+           FLOODBOT2 - S - - - -
+                 PLS - S - - - -
+             CONTEXT - O - - - -
+               ISSUE - X - - - -
+  ~/.SSH/KNOWN_HOSTS - X - O - -
+                BITE - O - - - -
+              DETAIL - X - - - -
+            PASTEBIN - X - - - -
+                THIS - S - - - -
+                 URL - X - - - -
+                HTTP - O - - - -
+                 KEY - O - - - -
+/HOME/KRISHNAN/.SSH/KNOWN_HOSTS - X X - - -
+                TEXT - - - X - -
+              EDITOR - - - X - -
+             MACHINE - - - X X -
+              SERVER - - - X - -

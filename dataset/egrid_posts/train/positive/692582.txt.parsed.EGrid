@@ -1,0 +1,15 @@
+           OPERATION O - - -
+                /MNT X - - -
+                  CD X - - -
+              PROMPT O - - -
+            TERMINAL O - - -
+                WORK X - - -
+              DEVICE S - - -
+                 NFS S - S X
+               SHARE S - - -
+                  YA S - - -
+               SENSE O - - -
+                 SAY X - - -
+               ISSUE - - O -
+                TEST - - - X
+                 BOX - - - X

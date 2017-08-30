@@ -1,0 +1,32 @@
+               SOUND X - - - - - - - O
+              APPLET O - - - - - - - -
+                CANT - X - - - - - - X
+              ACCESS - O - - - - - - X
+              SYSTEM - X - - - - - - X
+                   > - X - - - - - - S
+         PREFERENCES - S - - - - - - X
+                TYPE - X - - - - - - -
+GNOME-VOLUME-CONTROL - O - - - - - - -
+            TERMINAL - X - - - - - - -
+                   * - - S - - - - - -
+GNOME-VOLUME-CONTROL:3962 - - X - - - - - -
+          CONNECTION - - X - - - - - -
+                  .. - - O - - - - - -
+          PULSEAUDIO - - X X - - - - -
+              SERVER - - O X - - - - -
+                GAME - - - S - - - - -
+GNOME-VOLUME-CONTROL-APPLET - - - S - - - - -
+                THAT - - - - - S - - -
+                WORK - - - - - X - - -
+               THING - - - - - S - - -
+                FILE - - - - - X - - -
+/USR/SHARE/GNOME/AUTOSTART/GNOME-VOLUME-CONTROL-APPLET.DESKTOP - - - - - O - - -
+TRYEXEC=/USR/BIN/PULSEAUDIO - - - - - X - - -
+              DOESNT - - - - - X - - -
+                  IM - - - - - S - - -
+/USR/SHARE/GNOME/AUTOSTART - - - - - X - - -
+                BASH - - - - - O - - -
+                  CD - - - - - O - - -
+           DIRECTORY - - - - - O - - -
+               DIDNT - - - - - S - - -
+              HANGON - - - - - X - - -

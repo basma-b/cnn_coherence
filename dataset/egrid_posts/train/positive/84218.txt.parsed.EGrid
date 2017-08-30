@@ -1,0 +1,17 @@
+                SUSE S - - - - - -
+               THING X - - - - - -
+                BOOT - X - - - - X
+              ACCESS - O - - - - -
+                TYPE - X - - - X -
+            DHCLIENT - X - - - - -
+                 NIC - X - - - - -
+                 PCI - S - - - - -
+/ETC/NETWORK/INTERFACES - S - S - - -
+                LINE - S - O - - -
+                ETH1 - X - X - - -
+                INET - X - X - - -
+                DHCP - S - X - - -
+                AUTO - X - X - - -
+             STARTUP - - - X - - -
+                 ALL - - - - - O -
+           INTERFACE - - - - - - O

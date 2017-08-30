@@ -1,0 +1,33 @@
+              ANYONE X - - - - -
+               TRICK O - - - - -
+               E160E S - - - - -
+           12D1:1003 X - - - - -
+            12.04/10 X - - - - -
+                THAT - X - - - -
+      USB_MODESWITCH - O - - - -
+               STICK - - X - - -
+               MODEM - - X - - -
+/LIB/UDEV/RULES.D/61-OPTION-MODEM-MODESWITCH.RULES - - O - - -
+                TEXT - - O - - -
+               ATTRS - - X - - -
+            IDVENDOR - - X - - -
+                  == - - X - - -
+                12D1 - - X - - -
+           IDPRODUCT - - X - - -
+               RUN+= - - X - - -
+                  0X - - X - - -
+                   % - - S - - -
+       OPTION-ZEROCD - - X - - -
+                SUDO - - X - - -
+             SERVICE - - X - - -
+              RELOAD - - X - - -
+                HOST - - - S - -
+                 OWN - - - X - -
+            PASSWORD - - - O - -
+               GUEST - - - S - -
+                THIS - - - O S -
+               HTTPS - - - - - X
+//HELP.UBUNTU.COM/COMMUNITY/VIRTUALBOX/SHAREDFOLDERS - - - - - S
+            DROPDOWN - - - - - O
+                 TOP - - - - - X
+                VBOX - - - - - X

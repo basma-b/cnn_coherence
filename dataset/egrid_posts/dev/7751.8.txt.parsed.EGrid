@@ -1,0 +1,15 @@
+             APACHE2 S - - - -
+    /VAR/LOG/APACHE2 S O - - -
+         PERMISSIONS - O - - -
+                 LOG - X X X -
+               SPACE - X - - -
+                 HMM - O - - -
+              SCRIPT - X - - -
+             SECTION - X - - -
+              APACHE - - X - -
+             PACKAGE - - O - -
+           DIRECOTRY - - O - -
+           DIRECTORY - - - S -
+               TMPFS - - - X -
+             RESTART - - - X -
+                TIME - - - - X

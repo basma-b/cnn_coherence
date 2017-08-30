@@ -1,0 +1,24 @@
+            SOFTWARE X - - - -
+                RAID X - - - -
+               ARRAY X - - - -
+                  .. X - - - -
+          BOOTLOADER O - - - -
+                GRUB S - - - -
+                LILO S - - - -
+               ERROR O - - - -
+              SYSLOG X - - - -
+              REPORT O - - - -
+             DEVICES S - - - -
+             SUPPORT O - - - -
+                BOOT X - - - -
+               THING O - - - -
+                ROOT - X - - -
+           PARTITION - O - - -
+                DISK - X - - -
+/ETC/APT/SOURCES.LIST - - - O -
+            UNIVERSE - - - X -
+          MULTIVERSE - - - X -
+                LINE - - - O -
+             APT-GET - - - - S
+              UPDATE - - - - O
+               IRSSI - - - - O

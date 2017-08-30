@@ -1,0 +1,12 @@
+               ORDER S - - - - -
+           GSTREAMER X - - - - -
+             PLUGINS S - - X - -
+              DEBIAN X - - - - -
+                4.31 O - - - - -
+                4.41 O - - - - -
+          DEPENDENCY - S - - - -
+         LIBWAVPACK1 - - X - - -
+          REPOSITORY - - - X - -
+                 MAN - - - - - X
+                DPKG - - - - - S
+          EVERYTHING - - - - - S

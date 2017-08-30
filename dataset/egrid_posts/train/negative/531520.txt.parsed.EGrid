@@ -1,0 +1,12 @@
+             COMMAND O - X - -
+             STARTUP X - - - -
+            SESSIONS X - - - -
+             MANAGER X - - - -
+              SYSTEM X - - - -
+               LOGON X S - - -
+                 WAY - X - - -
+              BOOTUP - X - - -
+              DAEMON - - - X -
+              SERVER - - - O -
+              STREAM - - - X -
+                WORK - - - - X

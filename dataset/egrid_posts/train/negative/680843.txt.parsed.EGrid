@@ -1,0 +1,22 @@
+               SHARE X - X - - - - - -
+             LIBRARY X - - - - - - - -
+               ISSUE X - - - - - - - -
+             LIBC.SO - X O X - - - - -
+               TRAIL - - S - - - - - -
+                   W - - S - - X - - -
+              OBJECT - - S - - - - - -
+         DIRECTORIES - - X - - - - - -
+/ETC/LD.SO.CONF.D/LIBC.CONF - - - - S - - - -
+      /USR/LOCAL/LIB - - - - O - - - -
+                LIBC - - - - S - - - -
+                /LIB - - - - X - - - -
+            /USR/LIB - - - - X - - - -
+            LDCONFIG - - - - O - - - -
+            PARANOIA - - - - - X - - -
+               START - - - - - S - - -
+             ROOTKIT - - - - - X - - -
+                ROOT - - - - - O O - -
+              SYSTEM - - - - - - S - -
+              NO-ONE - - - - - - - X -
+                THAT - - - - - - - - X
+                TYPE - - - - - - - - X

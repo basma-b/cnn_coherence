@@ -1,0 +1,8 @@
+             COMMAND X - - - -
+                SUDO - X - - -
+         ./CONFIGURE - S - - -
+WITH-KERNEL=/USR/SRC/LINUX-HEADERS- - S - - -
+                  -R - X - - -
+WITH-CARDS=HDA-CODEC-REALTEK - S - - -
+            STANDARD - - - X -
+                   / - - - - X

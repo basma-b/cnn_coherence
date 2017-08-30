@@ -1,0 +1,10 @@
+         ENVIRONMENT O - - -
+           RESOURCES X - - -
+        /ETC/INIT.D/ X - - -
+                  DM - S - -
+              RETURN - O - -
+                SUDO - - X -
+         UPDATE-RC.D - - S -
+                 1-5 - - O -
+                STOP - - - X
+               ERROR - - - X

@@ -1,0 +1,57 @@
+              ANYONE S - - - - - - - - - - - - - - - - - -
+              SOURCE X - - - - X - - - - - - - - - - - - -
+           SOMETHING O - - - - - - - - - - - - - - - - - -
+                 TRY X - - - - - - - - - - - - - - - - - X
+             PACKAGE - - X O - S - - - S X - - - X - - - -
+             PROGRAM - - O - - - - - - - - - - - - - - - -
+        REPOSITORIES - - X - - - - - - - - - - - - - - - -
+         REPLACEMENT - - - O - - - - - - - - - - - - - - -
+               SHOOT - - - X - - - - - - - - - - - - - - -
+                 APP - - - - X - - - - - - - - - - - - - -
+                THAT - - - - - S - - - - - - - - - - - - O
+               THERE - - - - - S - - - - - - - - - - - - -
+        ISCSI-TARGET - - - - - O - - - - - - - - - - - - -
+             VERSION - - - - - S - - - - X - S - - - - - -
+             PROBLEM - - - - - O - - - - - - - - - - - - -
+                7.10 - - - - - X - - - - - - - - - - - - -
+         DEVELOPMENT - - - - - X - - - - - - - - - - - - -
+                LIST - - - - - O - - - - - - - - - - - - -
+          REPOSITORY - - - - - X - - - - - - - - - - - - -
+                WEEK - - - - - X - - - - - - - - - - - - -
+                MESS - - - - - X - - - - - - - - - - - - -
+              INSTAL - - - - - X - - - - - - - - - - - - -
+        UNINSTALLING - - - - - - X - - - - - - - - - - - -
+                 BUG - - - - - - - X - O - - - X - - - - -
+               HTTPS - - - - - - - - X - - - - - - - - - -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+BUGS - - - - - - - - X - - - - - - - - - -
+FIELD.SEARCHTEXT=ISCSI-TARGET - - - - - - - - - X - - - - - - - - -
+ ORDERBY=-IMPORTANCE - - - - - - - - - X - - - - - - - - -
+       SEARCH=SEARCH - - - - - - - - - S - - - - - - - - -
+                   % - - - - - - - - - S - - - - - - - - -
+          3ALIST=NEW - - - - - - - - - X - - - - - - - - -
+3ALIST=INCOMPLETE_WITH_RESPONSE - - - - - - - - - X - - - - - - - - -
+   3ALIST=INPROGRESS - - - - - - - - - X - - - - - - - - -
+ FIELD.BUG_REPORTER= - - - - - - - - - O - - - - - - - - -
+ FIELD.OMIT_DUPES=ON - - - - - - - - - X - - - - - - - - -
+    FIELD.HAS_PATCH= - - - - - - - - - O - - - - - - - - -
+              SECOND - - - - - - - - - O - - - - - - - - -
+                LOOK - - - - - - - - - X - - - - - - - - -
+            NUTSHELL - - - - - - - - - X - - - - - - - - -
+               SETUP - - - - - - - - - X - - - - - - - - -
+               BREAK - - - - - - - - - - O - - - - - - - -
+                THIS - - - - - - - - - - S - - - - - - - -
+                NAME - - - - - - - - - - X - - - - - - - -
+  ISCSITARGET-MODULE - - - - - - - - - - O - - - - - - - -
+              KERNEL - - - - - - - - - - - - O - - - - - -
+                 LOT - - - - - - - - - - - - O - - - - - -
+            PROBLEMS - - - - - - - - - - - - X - - - - - -
+                 ONE - - - - - - - - - - - - - X - - - - -
+             MENTION - - - - - - - - - - - - - X - - - - -
+              REPORT - - - - - - - - - - - - - X - - - - -
+          OPEN-ISCSI - - - - - - - - - - - - - - S - - - -
+           INITIATOR - - - - - - - - - - - - - - O - - - -
+              TARGET - - - - - - - - - - - - - - O - - - -
+            BACKPORT - - - - - - - - - - - - - - O - - - -
+             REQUEST - - - - - - - - - - - - - - - - O S -
+                MEAN - - - - - - - - - - - - - - - - X - -
+//LAUNCHPAD.NET/GUTSY-BACKPORTS/+FILEBUG - - - - - - - - - - - - - - - - - X -

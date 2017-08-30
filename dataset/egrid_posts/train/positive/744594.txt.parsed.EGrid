@@ -1,0 +1,13 @@
+               10.04 - O - -
+              3.0GHZ - X - -
+           POWERNOWD - - O -
+/SYS/DEVICES/SYSTEM/CPU/CPUFREQ - - O -
+              FOLDER - - S -
+                FILE - - S -
+               SCALE - - X -
+                 APP - - O -
+               PANLE - - X -
+                 GUI - - O -
+             MACHINE - - X -
+                  .. - - X -
+                CANT - - - S

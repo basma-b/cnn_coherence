@@ -1,0 +1,17 @@
+                LOCK X - -
+               ERROR O - -
+             PACKAGE O - -
+             APT-GET S - -
+                OPEN O - -
+             PROCESS S - X
+                  NO X - -
+             MANAGER X - -
+          ADD/REMOVE X - -
+                  -F S - -
+           DIRECTORY O - -
+                SUDO - X -
+                  -A - X -
+            EVERYONE - X -
+               WHILE - X -
+            DATABASE - - X
+                AREA - - S

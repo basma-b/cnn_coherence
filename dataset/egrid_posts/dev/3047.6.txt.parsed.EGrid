@@ -1,0 +1,14 @@
+              ANYONE X - - - -
+                 TIP X - - - -
+              KERNEL X - X - -
+           ORCOMPILE - O - - -
+                GRUB - O - - -
+            LOCATION - - X - -
+                SUDO - - X - -
+         UPDATE-GRUB - - S - -
+               IMAGE - - O - -
+                FILE - - S - -
+               ORDER - - - - S
+                TEXT - - - - X
+                BASE - - - - O
+                 ISO - - - - O

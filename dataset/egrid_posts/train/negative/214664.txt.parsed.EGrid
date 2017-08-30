@@ -1,0 +1,14 @@
+       KERNEL-HELPER X - - - -
+               THERE - - S - -
+      KERNEL-PACKAGE - - O - -
+         AUTOBUILD=1 - - X - -
+        DEBIAN/RULES - - X - -
+         BINARY-DEBS - - X - -
+        FLAVOURS=386 - - X - -
+        KERNEL_IMAGE - - X - -
+             OPTIONS - - O - -
+                GRUB - - O - -
+             DEFAULT - - X - -
+              THERES - - - X -
+      LIBQT3-HEADERS - - - O -
+              THREAD - - - X -

@@ -1,0 +1,15 @@
+             PROGRAM S - - - - -
+              REBOOT X - - - - -
+            INTERNET X - - - - -
+              ACCESS O - - - - -
+           LOCALHOST S - - - - -
+              APACHE X - - - - -
+             NETWORK O - - - - -
+          CONNECTION - S - - - -
+            IFCONFIG - X - - - O
+                  -A - O X - S -
+             DEVICES - X - - O -
+                LIST - - - - - X
+                 MAN - - - - - X
+                ETH0 - - - - - X
+                ETH1 - - - - - O

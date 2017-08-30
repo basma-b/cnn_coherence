@@ -1,0 +1,15 @@
+                  NV S -
+                VESA S -
+               FDBEV S -
+             COMMAND X -
+             APT-GET X X
+               CHAIN X -
+             PACKAGE O -
+               ERROR S -
+                HTTP O -
+                SUDO - X
+  ADD-APT-REPOSITORY - X
+                 PPA - X
+UBUNTU-X-SWAT/X-UPDATES - X
+              UPDATE - X
+             UPGRADE - X

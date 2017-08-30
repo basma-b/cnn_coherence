@@ -1,0 +1,22 @@
+             COMMAND X - - - -
+                LINE X - - - -
+            INTERNET O - - - -
+          GOOGLE.COM O - - - -
+       64.233.197.99 O - - - -
+               REPLY X - - - -
+                  .. O - - - -
+             APT-GET O - - - -
+                  IM X - - - -
+            COMPUTER X - - - -
+                DHCP O - - - -
+                TYPE X - - - O
+            IFCONFIG X - - - -
+                 YES - O - - -
+                ETH0 - - O - O
+          CONNECTION - - O - -
+                KIND - - S - -
+             MACHINE - - X - -
+               THERE - - - - X
+                CARD - - - - S
+                NANO - - - - X
+/ETC/NETWORK/INTERFACES - - - - O

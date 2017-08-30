@@ -1,0 +1,15 @@
+                SWAP X - - - - - O - -
+           PARTITION S - - - - O - - -
+                 RUN X - - - - - - - -
+              SYSTEM X - - - - - - - -
+               DRIVE O - - - - - - - -
+              MKSWAP - - S - - S X - -
+          PARTITIONS - - - S - - - - -
+               LINUX - - - X - - - - -
+                SIZE - - - O - - - - -
+                FILE - - - - X X - - -
+                 USE - - - - - - X - -
+               THERE - - - - - - X - -
+          DIFFERENCE - - - - - - X - -
+                  VS - - - - - - X - -
+CLI-GRAPHIC-MANIPULATION-TOOL - - - - - - - - X

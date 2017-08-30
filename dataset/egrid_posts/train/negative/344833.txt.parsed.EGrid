@@ -1,0 +1,14 @@
+              HOW-TO S - - - - - - -
+               FSTAB O - O - - - - -
+               BLKID X - - - - - - -
+                 USE - O - - - - - -
+                UUID - X O - - - - -
+                YEAH - - S - - - - -
+              VOL_ID - - O - - - - -
+             DEVICES - - X - - - - -
+          /ETC/FSTAB - - - O - - - -
+                TYPE - - - - X - - -
+               UUID= - - - - X - - -
+            ANYTHING - - - - - - O -
+             THEBLUE - - - - - - - O
+             MESSAGE - - - - - - - X

@@ -1,0 +1,20 @@
+                ROOT X X - - - - -
+                USER X O - - - - -
+         PERMISSIONS - X - - - - -
+                SUDO - - O - X - -
+     XWRAPPER.CONFIG - - O - - - -
+           SOMETHING - - - S - - -
+                 VIM - - - O - - -
+             SUDOERS - - - X - - -
+             COMMAND - - - O S - -
+              EDITOR - - - - S - -
+           SUPERUSER - - - - X - -
+            TERMINAL - - - - O - -
+                TYPE - - - - O - -
+                 MAN - - - - X - -
+               QUOTE - - - - S - -
+                LINE - - - - O - -
+                  -E - - - - X - -
+/ETC/X11/XWRAPPER.CONFIG - - - - O - -
+               FSTAB - - - - - - O
+               GEDIT - - - - - - X

@@ -1,0 +1,12 @@
+             APACHE2 X O - - - - - -
+                 PHP X - - - - - - -
+             APT-GET - O - - - - - X
+                LIBS - O - - - - - -
+                FILE - X - - - - X -
+          WRITEABLEL - X - - - - - -
+               CHMOD - - X - - - - -
+         PERMISSIONS - - - - - - X -
+                 TAB - - - - - - X -
+          PROPERTIES - - - - - - X -
+               PURGE - - - - - - - X
+      APACHE2-COMMON - - - - - - - X

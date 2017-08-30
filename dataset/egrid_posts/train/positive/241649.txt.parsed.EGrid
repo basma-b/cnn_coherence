@@ -1,0 +1,25 @@
+               THERE X - - - - - -
+               HOWTO X - - - - - -
+              KERNEL X O - X - - -
+              UBUNTU X - - - - - -
+      /USR/SRC/LINUX - S - - - - -
+           SOMETHING - O - - - - -
+             MODULES - S - - - - -
+                TOOL - O - - - - -
+              SOURCE - O - - - - -
+           BUILD-DEP - X - - - - -
+                   $ - - X - - - -
+                 DIR - - X - - - -
+           VERSION.H - - O - - - -
+             PROCESS - - S - - - -
+                 ONE - - O - - - -
+              PERSON - - - O - - -
+                  -R - - - S - - -
+/USR/SRC/LINUX/INCLUDE/LINUX/VERSION.H - - - X - - -
+               POINT - - - X - - -
+             KERNELS - - - O - - -
+                 OYU - - - S - - -
+                  .. - - - O - - -
+             DRIVERS - - - X - - -
+               STOCK - - - X - - -
+LINUX-HEADERS-WHATEVER-THE-FUNK - - - - - - O

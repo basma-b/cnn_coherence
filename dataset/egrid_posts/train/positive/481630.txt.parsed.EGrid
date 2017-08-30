@@ -1,0 +1,10 @@
+                USER X - - -
+                FILE O - - -
+               CHOWN - S - X
+             EXAMPLE - X - -
+             COMMAND - X - -
+            USERNAME - - - X
+               GROUP - - - X
+       /PATH_TO_FILE - - - S
+                LOOK - - - O
+                 MAN - - - X

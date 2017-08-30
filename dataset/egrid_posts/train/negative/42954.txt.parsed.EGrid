@@ -1,0 +1,22 @@
+              OTHERS S - - - - -
+            CDRECORD O - S - - -
+              OPTION O - - - - -
+              DEVICE S - - - - -
+                E.G. - X - - - -
+           DEV=ATAPI - - X - - -
+             DEV=ATA - - O - - -
+               WEEKS - - O - - -
+             PROBLEM - - X - - -
+                 FOO - - - X - -
+            -SCANBUS - - - X - -
+/ETC/DEFAULT/CDRECORD - - - - X -
+                 END - - - - X -
+               ATAPI - - - - X -
+                LOOK - - - - O -
+             DEVICES - - - - O -
+                 CDR - - - - X -
+                DVDR - - - - X -
+               GUIDE - - - - - S
+                BTTV - - - - - O
+               BT878 - - - - - O
+               THOSE - - - - - X

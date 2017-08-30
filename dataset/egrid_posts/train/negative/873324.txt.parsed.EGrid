@@ -1,0 +1,10 @@
+         CLOCKGATING X - - - - - - - -
+   FORCELOWPOWERMODE X - - - - - - - -
+           DYNAMICPM X - - - - - - - -
+               11.10 X - - - - - - - -
+              SOURCE - X - - - - - - -
+              DRIVER - S - - - - - - -
+               POWER - X - - - - - - -
+          MANAGEMENT - O - - - - - - -
+              ANYONE - - - - - - - X -
+                 ALL - - - - - - - - X

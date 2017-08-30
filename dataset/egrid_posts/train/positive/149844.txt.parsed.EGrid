@@ -1,0 +1,20 @@
+          RESOLUTION S - - - - - - - - - - -
+           1280X1024 X - - - - - - - - - - -
+               SETUP - S - - - - O - - - - -
+                 REZ - - - X - - X - - - - -
+           XORG.CONF - - - - - - S - - - - -
+             OPTIONS - - - - - - S - - - - -
+              SYSTEM - - - - - - X - - - - -
+                MENU - - - - - - X - - - - -
+                 MAX - - - - - - X - - - - -
+              CHOICE - - - - - - S - - - - -
+             DEFAULT - - - - - - - S - - - -
+         PERFORMANCE - - - - - - - X - - - -
+              NVIDIA - - - - - - - - X - - -
+             DRIVERS - - - - - - - - X - - -
+                HTTP - - - - - - - - - X - -
+//UBUNTU.PASTEBIN.US/ - - - - - - - - - X - -
+                MORE - - - - - - - - - - S -
+              KERNEL - - - - - - - - - - X -
+             HEADERS - - - - - - - - - - O -
+       LINUX-HEADERS - - - - - - - - - - - O

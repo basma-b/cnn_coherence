@@ -1,0 +1,12 @@
+         DIFFERENCES O - - - - -
+                NAME O - - - - -
+               RSYNC - S - - - -
+                FILE - - - X - -
+                  LS - - - O - -
+                 DIR - - - X - -
+                DIFF - - - X - -
+            BEHAVIOR - - - O - -
+                LINE - - - - S -
+              CHANGE - - - - O -
+                FLAG - - - - X -
+             COMMAND - - - - - X

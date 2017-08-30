@@ -1,0 +1,15 @@
+           PARTITION X X -
+                TIME - X -
+               TABLE - S -
+               THERE - S -
+              KERNEL - X -
+              UPDATE - O -
+                GRUB - X -
+          UNBOOTABLE - O -
+              DEVICE - O -
+               HD0,3 - X -
+                NAME - X -
+               HD0,1 - X -
+               -LOOK - X -
+               GROOT - X -
+         UPDATE-GRUB - - O

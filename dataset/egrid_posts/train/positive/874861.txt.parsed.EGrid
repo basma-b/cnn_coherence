@@ -1,0 +1,18 @@
+               11.10 O - - - -
+             SOMEONE X - - - -
+               GUEST X - - - -
+               LOGIN O - - - -
+   ALLOW-GUEST=FALSE - X - - -
+        LIGHTDM.CONF - X - - -
+               SENSE - O - - -
+              EVINCE - - O - -
+                 PDF - - O - -
+                  OS - - S - -
+                BOOT - - X - -
+               SHIFT - - O - -
+            RECOVERY - - X - -
+                MODE - - O - -
+                ROOT - - X - -
+                PROF - - - - X
+/ETC/APPARMOR/DISABLE - - - - X
+    /USR/BIN/FIREFOX - - - - X

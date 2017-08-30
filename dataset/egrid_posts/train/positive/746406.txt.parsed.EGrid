@@ -1,0 +1,14 @@
+             10.04.1 O - - - -
+                   X X O - - -
+             STARTUP X - - - -
+                BOOT - X - - -
+            TERMINAL - X - - -
+               ENTRY - O - - -
+                 KDM - X - - -
+         /ETC/INIT.D - X - - -
+                THAT - - O - -
+             DEFAULT - - X - -
+            RUNLEVEL - - O - -
+                 ONE - - X - -
+                GRUB - - X - -
+             UPSTART - - - - X

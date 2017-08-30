@@ -1,0 +1,23 @@
+/ETC/NETWORK/INTERFACES O - -
+                ROOT X - -
+         PERMISSIONS X - -
+                LINE O - -
+                AUTO X - -
+                  LO O - -
+                INET X - -
+            LOOPBACK X - -
+         NAMESERVERS O - -
+                DHCP O - -
+             RESTART O - -
+             NETWORK X - -
+              DAEMON S - -
+              REBOOT X - -
+          EVERYTHING S - -
+                WORK X - -
+            ADAPTERS O - -
+            QUESTION O - -
+                SDA1 - S -
+               STUFF - O -
+               ERROR - X -
+                BOOT - X -
+            PROBLEMS - O -

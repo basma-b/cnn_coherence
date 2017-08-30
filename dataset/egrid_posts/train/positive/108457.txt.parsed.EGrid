@@ -1,0 +1,11 @@
+                THAT S - - - -
+               C/C++ X - - - -
+            COMPILER O - - - -
+ UPDATE-ALTERNATIVES X - - X -
+                 GCC - X X S -
+        ALTERNATIVES - - X O -
+              CONFIG - - - X -
+             GCC-4.0 - - - S -
+               THERE - - - S -
+             SYMLINK - - - O -
+          CC=GCC-3.4 - - - - O

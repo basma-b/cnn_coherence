@@ -1,0 +1,14 @@
+               -LSB- X - - - - - -
+              KERNEL S - - - - - -
+                SUDO X - - - - - -
+            MODPROBE X - - - - - -
+              DRIVER S - - - - - -
+                BOOT - X - - - - -
+              GKSUDO - - - X - - -
+               GEDIT - - - X - - -
+        /ETC/MODULES - - - S - - -
+              BOTTOM - - - X - - -
+                FILE - - - X - X S
+                 WAY - - - - O - -
+              RIGHTS - - - - - O -
+         /ETC/INIT.D - - - - - - X

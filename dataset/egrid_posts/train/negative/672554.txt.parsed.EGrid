@@ -1,0 +1,13 @@
+              SCRIPT O - - -
+           RUNLEVELS X - - -
+             MESSAGE O - O -
+              BOOTUP X - - -
+            SHUTDOWN X - - -
+            NOSPLASH - O - -
+               QUIET - X - -
+              OPTION - O - -
+              KERNEL - X - -
+                BOOT - X - -
+                LINE - X - -
+              SIGNAL - - - X
+                SRID - - - X

@@ -1,0 +1,17 @@
+                GRUB S - - -
+              KERNEL S - - -
+                BOOT X - - -
+             COMMAND O - - -
+                SYNC O O - -
+                 VFS X X - -
+                ROOT X X X -
+                  FS O O - -
+       UNKNOWN-BLOCK X X - -
+                 0,0 X X - -
+             MESSAGE S S - -
+               SHELL - X - -
+          FILESYSTEM - - S -
+           PARTITION - - O -
+                THAT - - - S
+        GCONF-EDITOR - - - X
+            WHATEVER - - - X

@@ -1,0 +1,36 @@
+                THAT O - - - - - - - - - O -
+                 THE S - - - - - - - - - - -
+     NETWORK-MANAGER S - - - - - - - - - - -
+              SCRIPT S - O - - - - - - - - -
+/ETC/NETWORKMANAGER/DISPATCHER.D X - - - - - - - - - - -
+           INTERFACE S - - - - - - - - - - -
+              PRE-UP O - - - - - - - - - - -
+             COMMAND O - - - - X - - - - - -
+/ETC/NETWORK/INTERFACES X - - - - - - - - - - -
+                CARD O - - - - - - - - - - -
+                  .. X - - - - X - X - - - -
+               WI-FI - O - - - - - - - - - -
+             NOTHING - O - - - - - - - - - -
+/ETC/NETWORKS/INTERFACES - X - - - - - - - - - -
+                FILE - X - - - X - - X - - -
+               THERE - - S - - - - - - - - -
+               STATE - - X - - - - - - - - -
+              CHANGE - - S - - - - - - - - -
+        /ETC/EXPORTS - - - S S - - - - - - -
+              SERVER - - - - X - - - - - - -
+                HTTP - - - - X - - - - - - -
+//UBUNTU.PASTEBIN.COM/1MBEYSKA - - - - S - - - - - - -
+             ENTRIES - - - - O - - - - - - -
+               FSTAB - - - - X - - - - - - -
+       /MEDIA/MOVIES - - - - - O - - - - - -
+                 NFS - - - - - S - - - - - -
+      /MEDIA/MOVIES/ - - - - - S - - - - - -
+                  'S - - - - - - S - - - - -
+                 RAT - - - - - - - X - - - -
+              ROUTER - - - - - - - S - - - -
+              ANSWER - - - - - - - - S - - -
+                FSID - - - - - - - - S - - -
+              EXPORT - - - - - - - - X - - -
+               YEARS - - - - - - - - - - - X
+              SCREEN - - - - - - - - - - - X
+            RECORDER - - - - - - - - - - - S

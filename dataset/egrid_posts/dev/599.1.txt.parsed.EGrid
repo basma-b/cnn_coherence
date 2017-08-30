@@ -1,0 +1,17 @@
+                GRUB S - -
+                  CD X - -
+           /DEV/SDA1 O - -
+       /MEDIA/UBUNTU O - -
+            /DEV/SDA O - -
+          APPLICABLE X - -
+                BIND X - -
+   /MEDIA/UBUNTU/DEV X - -
+   /ETC/DEFAULT/GRUB S - -
+              OPTION O - -
+                BOOT X X -
+               DELAY - X -
+               THERE - S -
+      HIDDEN_TIMEOUT - X -
+        GRUB_TIMEOUT - O -
+                PROB - - S
+               QUIET - - O

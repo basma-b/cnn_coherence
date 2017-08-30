@@ -1,0 +1,11 @@
+            MODPROBE X S -
+     PPP-COMPRESS-18 O - -
+            INTERNET O - -
+            COMPRESS - X -
+                  » - O -
+                LINK - - X
+                   < - - X
+            BLAH.DEB - - X
+                   > - - X
+               HTTPS - - O
+//WIKI.UBUNTU.COM/RESTRICTEDFORMATS - - X

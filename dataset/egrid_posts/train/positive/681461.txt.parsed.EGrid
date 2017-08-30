@@ -1,0 +1,15 @@
+                HTTP X - - - -
+                STOP X - - - -
+                LINE X - - - -
+            PASSWORD - X - - -
+                EXIT - - S X -
+              NATURE - - X - -
+              CHROOT - - X - -
+             COMMAND - - O - -
+              /MYDIR - - X - -
+         MYSCRIPT.SH - - X - -
+                   < - - X - -
+              SCRIPT - - O - -
+          ENVIROMENT - - X - -
+             |CHROOT - - - S -
+             WELCOME - - - - X

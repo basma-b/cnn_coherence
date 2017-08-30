@@ -1,0 +1,10 @@
+              VOLUME X O -
+             COMMAND X - -
+                LINE X - -
+             ALSACTL - S -
+           ALSAMIXER - O -
+                   % - X -
+           REINSTALL - - X
+                GRUB - - O
+                 HD0 - - O
+                LUCK - - X

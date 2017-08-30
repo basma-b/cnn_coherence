@@ -1,0 +1,17 @@
+                   X X X - - -
+              SERVER O - - - -
+                EXIT S - - - -
+                SUDO - - X - -
+             SERVICE - - S - -
+                STOP - - X - -
+           SOMETHING - - O - -
+                BOOT - - - O -
+              DEVICE - - - X -
+            PRIORITY - - - X -
+                  DD - - - X -
+       IF=UBUNTU.ISO - - - X -
+        OF=/DEV/SDC1 - - - X -
+              DEBIAN - - - - X
+                 ANY - - - - O
+             PROGRAM - - - - O
+               IMAGE - - - - O

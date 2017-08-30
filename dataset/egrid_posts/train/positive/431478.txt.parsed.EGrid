@@ -1,0 +1,12 @@
+               FLASH S -
+               VIDEO X S
+                STOP X -
+                PLAY X -
+            2SECONDS X -
+               AUDIO O X
+               THERE S -
+               ABSN1 S -
+  LIBFLASHSUPPORT.SO S -
+/USR/LIB32/LIBFLASHSUPPORT.SO X -
+                WORK - O
+               ISSUE - S

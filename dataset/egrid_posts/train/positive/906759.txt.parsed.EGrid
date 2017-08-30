@@ -1,0 +1,25 @@
+KERNEL-HEADERS-2.6.8.1-3-386 X - - - - - - - -
+               HOARY X S O S O - - - -
+                   * - O - - - - - - -
+                  -R - O - - - - - - -
+    MODULE-ASSISTANT - S - - - - - - -
+             PACKAGE - S - - - - O - -
+      XFREE86-COMMON - O - - - - - - -
+         XORG-COMMON - X - - - - - - -
+          EVERYTHING - O - - - - - - -
+                  .. - O - - - - - - -
+                XORG - - S X - - X - -
+                 ATI - - - X - - - - -
+             DRIVERS - - - O - X - - -
+               AMD64 - - - X - - - - -
+               LINUX - - - X - - - - -
+               X.ORG - - - X O - - - -
+                THIS - - - S - - - - -
+                 HEM - - - O - - - - -
+          TRANSITION - - - O - - - - -
+               FGLRX - - - - - X - - -
+                META - - - - - - X - -
+X-WINDOW-SYSTEM-CORE - - - - - - O - -
+              CONFIG - - - - - - - X -
+                FILE - - - - - - - X -
+             CAVEATS - - - - - - - - X

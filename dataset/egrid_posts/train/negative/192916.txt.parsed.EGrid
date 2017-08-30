@@ -1,0 +1,17 @@
+                ETH0 S - - - - -
+           INTERFACE - - S - - -
+            LOOPBACK - - X - - -
+              DEVICE - - O - - -
+             MESSAGE - - O - - -
+                LSHW - - S - - -
+             NETWORK - - X - - -
+              MOMENT - - X - - -
+               BREAK - - X - - -
+                  PC - - X - - -
+             DISABLE - - S - - -
+                CARD - - O - - -
+              MODULE - - - X S -
+               INTEL - - - X - -
+            HARDWARE - - - X - -
+              CONFIG - - - X - -
+//PASTE.UBUNTU-NL.ORG/27222/ - - - - - X

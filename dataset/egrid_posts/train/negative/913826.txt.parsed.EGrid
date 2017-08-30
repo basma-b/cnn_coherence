@@ -1,0 +1,8 @@
+/ETC/CUPS/CUPSD.CONF X - - -
+                  IP X - - -
+             CLIENTS X - - -
+                HTTP X - - -
+/ETC/CUPS/CUPSSD.CONF O - - -
+              SERVER X - - X
+                FORM - - - O
+               ORDER - - - S

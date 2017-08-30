@@ -1,0 +1,16 @@
+              KERNEL X - - X
+                ACPI S - S -
+         TEMPERATURE X - - -
+                 LOG O - - -
+               REACH X - - -
+                   C X - - -
+                TEMP - O O -
+                TIME - - O -
+                 FAN - - X -
+                  PC - - S -
+/BOOT/GRUB/MENU.LIST - - - X
+                THIS - - - O
+             COMMAND - - - X
+                LINE - - - X
+              NOACPI - - - X
+              EFFECT - - - O

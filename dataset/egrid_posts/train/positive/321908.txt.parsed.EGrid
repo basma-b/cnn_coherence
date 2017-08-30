@@ -1,0 +1,15 @@
+                  IM - S - - -
+            PROBLEMS - O - - -
+              PCMCIA - X X - -
+              MEMORY - X - - -
+                CARD - X X - X
+              PCCARD - - X - -
+              INSERT - - O - -
+                SLOT - - X - -
+              DEVICE - - X - -
+           PCMCIA0.0 - - O - -
+                CANT - - X - -
+         BLOCKDEVICE - - O - -
+        TECHNOLOGIES - - - - X
+                20MB - - - - X
+               FLASH - - - - X

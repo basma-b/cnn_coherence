@@ -1,0 +1,8 @@
+               THERE X - - -
+           SOMETHING O - - -
+          EXECUTABLE - O - -
+    NDISWRAPPER-DKMS - - - O
+       LINUX-HEADERS - - - O
+              KERNEL - - - X
+                DKMS - - - O
+                DEPS - - - X

@@ -1,0 +1,15 @@
+                NTFS X X - - - -
+             SUPPORT X - O - - -
+      PARTED/GPARTED X - - - - -
+          FILESYSTEM - O - - - -
+                 ONE - X - - - -
+             DEVICES - X - - - -
+             GPARTED - - S S - -
+              LIVECD - - X - - -
+                DISK - - X - - -
+           PARTITION - - - X - -
+              ENOUGH - - - O - -
+            FRONTEND - - - O - -
+                SUCH - - - X - -
+                NAME - - - - - X
+               |GREP - - - - - S

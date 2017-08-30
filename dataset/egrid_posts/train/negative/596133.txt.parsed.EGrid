@@ -1,0 +1,26 @@
+                NICS O - - - - - - - -
+           10.1.2.75 X - - - - - - - -
+                1.50 - S - - - - - - -
+                2.75 - S - O - S - - -
+                WIFI - - X - - - - - -
+            ETHERNET - - X - - - - - -
+      OPENSSH-SERVER - - X - - - - - -
+                 BOX - - - X - - - - -
+         SUGGESTIONS - - - - X - - - -
+                ETH0 - - - - - O - - -
+/ETC/NETWORK/INTERFACES - - - - - X - - -
+           INTERFACE - - - - - S - - -
+              LAPTOP - - - - - - - S -
+                 SEC - - - - - - - X -
+                 WAY - - - - - - - X -
+                NEWS - - - - - - - X -
+           CHANGELOG - - - - - - - - O
+     2.30.2-0UBUNTU1 - - - - - - - - X
+               HTTPS - - - - - - - - X
+             SESSION - - - - - - - - X
+                TYPE - - - - - - - - O
+         ~/.XSESSION - - - - - - - - O
+                LINK - - - - - - - - O
+                 BUG - - - - - - - - X
+              REPORT - - - - - - - - X
+             PACKAGE - - - - - - - - O

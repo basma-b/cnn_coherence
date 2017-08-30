@@ -1,0 +1,11 @@
+             ANYBODY S - - -
+           RAM-DRIVE O - - -
+               FSTAB X - X -
+                FILE - X - -
+               TMPFS - O S -
+                 RAM - X - -
+                   ' - - S -
+                NONE - - X -
+   /SOME/MOUNT/POINT - - X -
+                SIZE - - S -
+            ANYTHING - - O -

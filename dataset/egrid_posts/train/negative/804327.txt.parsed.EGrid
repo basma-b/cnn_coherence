@@ -1,0 +1,11 @@
+             OPTIONS X - - - - -
+                BOND S - X - - -
+         UPDELAY=200 O - - - - -
+                  'S - O - - - -
+             ADDRESS - - X - - -
+          THROUGHPUT - - O - - -
+              SERVER - - X - - -
+              OUTPUT - - - - O -
+                WORD - - - - O -
+                   | - - - - - X
+           SOMETHING - - - - - X

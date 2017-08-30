@@ -1,0 +1,13 @@
+                TYPE X -
+                SUDO X -
+/ETC/INIT.D/NETWORKING X -
+                STOP S -
+               START S -
+             STARTUP - X
+            POINTERS - X
+              UBUNTU - O
+                  .. - O
+             DISTROS - X
+             NOTHING - S
+                 FC3 - S
+                IMHO - O

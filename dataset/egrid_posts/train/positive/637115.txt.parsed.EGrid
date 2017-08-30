@@ -1,0 +1,19 @@
+/ETC/APT/SOURCES.LIST S - - -
+                HELP O - - -
+          EXPRESSION O - - -
+           CONDITION X - - -
+                  1. S - - -
+              STRING O - - -
+           BEGININIG X - - -
+                  2. X - - -
+          SUBSTRINGS X - - -
+                 DEB X - - -
+              или S - - -
+            -UPDATES O - - -
+          -BACKPORTS X - - -
+                THAT - X S -
+            SOFTWARE - X - -
+          PROPERTIES - X - -
+              MIRROR - O - -
+            DECISION - - O -
+              SCRIPT - - - O

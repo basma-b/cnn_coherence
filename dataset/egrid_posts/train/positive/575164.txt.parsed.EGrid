@@ -1,0 +1,13 @@
+                 HEY X - - - -
+                 GUY X - - - -
+                USER X S X - S
+             SUDOERS X - - - -
+               GROUP X X O - -
+                  ID - X - - -
+            WEBADMIN - S - - S
+                THIS - O - - -
+            UID=1001 - X - - -
+       GROUPS=1001,4 - X - - -
+               ADMIN - X X S -
+                 ADM - - X - -
+                   K - - - - X

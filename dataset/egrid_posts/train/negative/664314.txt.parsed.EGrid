@@ -1,0 +1,20 @@
+                PORT O - - - -
+/ETC/SSH/SSHD_CONFIG X - - - -
+                 SSH O X - - -
+          CONNECTION O X O - -
+              REFUSE O - - - -
+               RESET S - - - -
+                PEER X - - - -
+              TELNET X O - - -
+                HOST O - - - -
+             PROBLEM O - - - -
+               THERE S S - - -
+             MACHINE - X - - -
+                  IP - X - - -
+                SSHD - O - - -
+                SUCH - X - - -
+                   > - S - - -
+                ADDR - O - - -
+                ROUT - X - - -
+         FIREWALLING - X - - -
+                 ETC - X - - -

@@ -1,0 +1,13 @@
+                TIME X - - - - -
+               ISSUE O - - - - -
+            DHCLIENT X - - - - -
+                DHCP X - - - - -
+                BOOT X - - - - -
+                  IP O - - - - -
+                 DNS X - - - - -
+           RESOLVERS O - - - - -
+         RESOLV.CONF X S - - - -
+                  -R - S - - - -
+                  -N - X - - - -
+              SERVER - - - X - -
+               ORDER - - - - - X

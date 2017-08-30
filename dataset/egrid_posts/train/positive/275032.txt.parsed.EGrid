@@ -1,0 +1,15 @@
+             WINDOWS X - - - -
+              FOLDER X - - - -
+                ROOT X X - - -
+                USER S X - - -
+               GROUP - O - - -
+                UID= - X - - -
+                 MAN - - X - -
+                PAGE - - X - -
+              SYNTAX - - X - -
+                THAT - - - X -
+             UID=FOO - - - X -
+             GID=BAR - - - X -
+           SOMETHING - - - O -
+              APTGET - - - - S
+            SMBMOUNT - - - - O

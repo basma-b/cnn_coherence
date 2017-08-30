@@ -1,0 +1,8 @@
+              SPLASH O - - -
+                BOOT X - - -
+ /BOOT/GRUB/MENU.LST - - O -
+              KERNEL - - X -
+                DONT - - - X
+                GRUB - - - O
+              CHANGE - - - X
+                FILE - - - X

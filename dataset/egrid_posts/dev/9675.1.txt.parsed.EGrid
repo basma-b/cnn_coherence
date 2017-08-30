@@ -1,0 +1,28 @@
+                 WAY X - - - - - - -
+             DEFAULT X - X - - - - -
+                MASK O - - - - - - -
+                FILE S - - X - S S S
+               SAMBA - X - - - - - -
+               UMASK - S - - - X - -
+               CHMOD - - X - - - - -
+                 G+W - - X - - - - -
+            VARIABLE - - - X - - - -
+               GROUP - - - O - - X -
+                HTTP - - - X - - - -
+//EN.WIKIPEDIA.ORG/WIKI/SETUID - - - X - - - -
+SETUID_AND_SETGID_ON_DIRECTORIES - - - S - - - -
+                THIS - - - S - - S -
+          FILES/DIRS - - - S - - - -
+         PERMISSIONS - - - O - - - S
+              SETGID - - - - - S - -
+                 PUT - - - - - X - -
+              SETUID - - - - - X - -
+              FOLDER - - - - - X O -
+             FOLDERS - - - - - X - -
+          PERMISSION - - - - - S - -
+                 ONE - - - - - - S -
+               THING - - - - - - O -
+                NOTE - - - - - - S -
+             WINDOWS - - - - - - - X
+               MOUNT - - - - - - - X
+             OPTIONS - - - - - - - O

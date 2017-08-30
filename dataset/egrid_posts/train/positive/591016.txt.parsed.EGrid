@@ -1,0 +1,14 @@
+           PARTITION S - - - - -
+                NTFS X - S - - -
+                BOOT S - - - - -
+          /ETC/FSTAB - X X - - -
+               MOUNT - - O - - -
+             COMMENT - - O - - -
+           SOMETHING - - O - - -
+       MOUNT_OPTIONS - - X - - -
+             DEFAULT - - O - - -
+                PAGE - - O - - -
+              MANUAL - - - S - -
+             SOMEONE - - - O - -
+                DUMP - - - O - -
+                THAT - - - - - S

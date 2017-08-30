@@ -1,0 +1,27 @@
+             LIGHTDM X - - - S - -
+             PROBLEM O - - - - - -
+            USERNAME X - - - - - -
+                EXIT X - - - X - -
+/VAR/LOG/LIGHTDM/LIGHTDM.LOG S - - - - - -
+               VALUE X - - - - - -
+               GUEST - X - - - - -
+             ACCOUNT - X - - - - -
+                THIS - - S - - - -
+            SESSIONS - - X - - - -
+         GNOME-SHELL - - O - - - -
+                XFCE - - O - - - -
+            RECOVERY - - O - - - -
+          CTRL+ALT+F - - - O - - -
+                 TTY - - - X - - -
+                 WAY - - - X - - -
+             SESSION - - - - X - -
+                 ALT - - - - X - -
+             CONTROL - - - - X - -
+               LOGIN - - - - S - -
+                WELL - - - - - X -
+                GRUB - - - - - S X
+                BOOT - - - - - X O
+           PARTITION - - - - - X -
+               STICK - - - - - - O
+          BOOTLOADER - - - - - - S
+             NOTHING - - - - - - O

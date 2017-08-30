@@ -1,0 +1,15 @@
+                 ALL O - - -
+             PACKAGE X - - X
+           DIRECTORY X - - O
+        /NONEXISTENT O S - -
+                ROOT X - - -
+              DAEMON - O - -
+             NOTHING - - X -
+               MATCH - - O -
+                GREP - - - X
+                FILE - - - X
+ /VAR/LIB/DPKG/INFO/ - - - X
+               GUESS - - - S
+           SOMETHING - - - X
+              RESULT - - - X
+        INSTALLATION - - - X

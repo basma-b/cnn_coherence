@@ -1,0 +1,26 @@
+UBUNTU-9.10-SERVER-AMD64.ISO O - - - - - - - - - - -
+               FLASH X - - - - - - - - - - -
+                DISK X - - - - - - - - - - -
+      INSTALL/LIVECD X - - - - - - - - - - -
+              MEMORY X - - - - - - - - - - -
+               STICK X - - - - - - - - - - -
+                  .. - O - - - - X - - - - -
+             WINDOWS - X X - - - - - - - - -
+            FIREWALL - - X - - - - - - - - -
+                SUDO - - - X - - - - - - - -
+                 UFW - - - S - - - - - - - -
+                 YEP - - - O - - - - - - - -
+            IPTABLES - - - - X - - - - - - -
+               THERE - - - - - X - - - - - -
+                 GUI - - - - - X - - - - - -
+         MAINTENANCE - - - - - X - - - - - -
+                 FEW - - - - - - S - - - - -
+         FIRESTARTER - - - - - - X - - - - -
+            GUARDDOG - - - - - - X - - - - -
+                  K. - - - - - - S - - - - -
+              WEBMIN - - - - - - - - X - - -
+                LINK - - - - - - - - - - S -
+              VENDOR - - - - - - - - - - - X
+                  ID - - - - - - - - - - - O
+            HARDWARE - - - - - - - - - - - X
+              0X08D9 - - - - - - - - - - - X

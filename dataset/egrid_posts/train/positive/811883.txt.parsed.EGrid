@@ -1,0 +1,13 @@
+                IFUP - S -
+                ETH0 - S -
+            VERSIONS - X -
+     NETWORK-MANAGER - O -
+/ETC/NETWORK/INTERFACES - X -
+                 NOW - X -
+                SUDO - X -
+                  IP - S -
+            DHCLIENT - X -
+             NETWORK - S -
+                 USE - X -
+                DHCP - O -
+                 TRY - - X

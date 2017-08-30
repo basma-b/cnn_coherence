@@ -1,0 +1,18 @@
+                STEP O - - - -
+SETUPNDISWRAPPERHOWTO X - - - -
+         NDISWRAPPER X - X - -
+              MODULE X - - - -
+              KERNEL X - - - -
+             RELEASE X - - - -
+                  .. O - - - -
+           INTERFACE S - - - -
+            IWCONFIG X - - - -
+                CARD S - - - -
+            BROADCOM X - - - -
+             CHIPSET O - - - -
+                  -M S - - - -
+             PRESENT O - - - -
+         SUGGESTIONS - X - - -
+/ETC/APACHE2/ENVVARS - - - - O
+             DEFAULT - - - - X
+                USER - - - - X

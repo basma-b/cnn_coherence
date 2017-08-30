@@ -1,0 +1,9 @@
+        /ETC/INITTAB X - - - - - -
+             UPSTART - - - - S - -
+              HWILDE - - - - O - -
+               TTYS0 - - - - - O -
+                GRUB - - - - - X -
+              OUTPUT - - - - - X -
+                PORT - - - - - X -
+                THIS - - - - - X -
+                HTTP - - - - - - X

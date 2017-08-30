@@ -1,0 +1,11 @@
+                RULE S - - -
+             MESSAGE O - - -
+            RECOVERY - - X -
+                MODE - - X -
+            ANYTHING - - S -
+                 LOG - - O -
+     /VAR/LOG/SYSLOG - - X -
+                 ONE - - O -
+              ERUSUL - - S -
+                 USE - - - X
+                  -R - - - X

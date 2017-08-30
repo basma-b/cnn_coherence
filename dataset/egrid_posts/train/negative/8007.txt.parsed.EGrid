@@ -1,0 +1,15 @@
+                  .. X - - - - - - -
+              KERNEL - X - - - - - -
+              UBUNTU - X - - - - - -
+      KERNEL-HEADERS - - - O - - - -
+              SOURCE - - - X - - - -
+                   A - - - - - X - -
+                SUDO - - - - - S - -
+          MENUCONFIG - - - - - S - -
+               CAUSE - - - - - X - -
+       NCURSES-DEVEL - - - - - S - -
+               THERE - - - - - S - -
+NCURSES-DEVEL-THINGY - - - - - O - -
+      LIBNCURSES-DEV - - - - - X - -
+       KERNEL-SOURCE - - - - - O - -
+                 TIS - - - - - - S -

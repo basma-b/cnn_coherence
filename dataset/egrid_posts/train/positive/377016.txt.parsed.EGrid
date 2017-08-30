@@ -1,0 +1,25 @@
+                ROOM O - - - - - - - -
+                  IP S - - - X - - - -
+             GATEWAY X - - - - - - - -
+              36.253 O - - - - - - - -
+              SYSTEM - X - - - - - - -
+                   > - S - O - - - - -
+               ADMIN - S - - - - - - -
+                 NET - S - - - - - - -
+               SHELL - - - X - - - - -
+              ERUSUL - - - X - - S - -
+               ROUTE - - - X S - S - -
+             DEFAULT - - - X - - - - -
+                  GW - - - O - - - - -
+/ETC/NETWORK/INTERFACES - - - S - O - - -
+                 MAN - - - X - - - - -
+          INTERFACES - - - O - - - - -
+              DETAIL - - - X - - - - -
+             COMMAND - - - X S - - - -
+                TIME - - - - S - - - -
+              COMMND - - - - O - - - -
+               TOUTE - - - - S - - - -
+                ETH0 - - - - O - - - -
+                 USE - - - - - X - - -
+            SETTINGS - - - - - S - - -
+              REBOOT - - - - - O - - -

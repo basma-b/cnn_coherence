@@ -1,0 +1,14 @@
+                 LOG X X - - -
+                FILE O - - - -
+              ERRORS X - - - -
+               CHECK - O - - -
+            MANDRIVA - O - - -
+           PARTITION - O - - X
+            MESSAGES - O - - -
+                BOOT - X - - -
+             PROCESS - S - - -
+               ERROR - X - - -
+             MESSAGE - X - - -
+   /VAR/LOG/MESSAGES - S - - -
+        MESSAGES.LOG - O - - -
+              DISTRO - X - - -

@@ -1,0 +1,15 @@
+            OPTIMIZE X - - - - -
+          PROCESSORS X - - - - -
+              FEDORA - X - - - -
+                CORE - X - - - -
+              KERNEL - X - - - -
+                 SMP - O - - - -
+       LINUX-686-SMP - S - - - -
+            -GENERIC - S - - - -
+                CASE - - - - S -
+            SCENARIO - - - - X -
+               DRIVE - - - - O -
+                FILE - - - - O -
+              FORMAT - - - - X -
+            ORIGINAL - - - - O -
+                SUCK - - - - - X

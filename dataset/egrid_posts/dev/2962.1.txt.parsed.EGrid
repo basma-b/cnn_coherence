@@ -1,0 +1,22 @@
+               THERE X - - - S - - - - -
+                 WAY X - - - - - - - - -
+                SWAP X - - - - - - - - X
+            PRIORITY O - - - - - - - - -
+               SPACE X - O - - - - - - -
+               BASIS X - - - - - - - - -
+                 USE - X - - - - - - - -
+             CGROUPS - X - - - - - - - -
+            INTEREST - X - - - - - - - -
+             PROCESS - - O - - - - - - -
+        INSTRUCTIONS - - X - - - - - - -
+                THAT - - - - X - - - - -
+              DETAIL - - - - O - - - - -
+                HTTP - - - - X - - - - -
+//WWW.KERNEL.ORG/DOC/DOCUMENTATION/CGROUPS/MEMORY.TXT - - - - X - - - - -
+                GREP - - - - S - - - - -
+CONFIG_CGROUP_MEM_RES_CTLR_SWAP - - - - O - - - - -
+         PER-PROCESS - - - - - - - - X -
+          MANAGEMENT - - - - - - - - X -
+               LIMIT - - - - - - - - X -
+              SELECT - - - - - - - - - S
+           PARTITION - - - - - - - - - O

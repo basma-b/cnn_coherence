@@ -1,0 +1,26 @@
+                 GUY X - - - - - - - - -
+                PORT X - - - - - O - - -
+           SOMETHING X - - - - - - - - -
+        APACHE2.CONF S - - - - X - - - -
+        /ETC/APACHE2 X - - - - - - - - -
+/ETC/APACHE2/SITES-AVAIABLE/DEFAULT - - X - - - - - - -
+          PORTS.CONF - - - O - - - - - -
+                NAME - - - X X - - - - -
+               VHOST - - - O O - - - - -
+            CONFLICT - - - O - - - - - -
+/ETC/APACHE2/SITES-ENABLED/000-DEFAULT - - - X - - - - - -
+                   * - - - - X - - - - -
+                SITE - - - - X - - - - -
+            INSTANCE - - - - S - - - - -
+               SETUP - - - - O - - - - -
+               THERE - - - - S - - - - -
+                HOST - - - - O - - - - -
+              CHANGE - - - - - O - - - -
+                HTTP - - - - - X - - - -
+//PASTE.UBUNTU.COM/1034690/ - - - - - S - - - -
+                 ALL - - - - - - X - - -
+         000-DEFAULT - - - - - - O - - -
+             DEFAULT - - - - - - - O - -
+         GNOME+CAIRO - - - - - - - - - X
+                DOCK - - - - - - - - - X
+                  .. - - - - - - - - - O

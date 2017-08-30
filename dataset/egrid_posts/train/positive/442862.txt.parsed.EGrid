@@ -1,0 +1,7 @@
+                TYPE X -
+            IFCONFIG X -
+                HTTP X -
+//PASTE.UBUNTU.COM/12532/ X -
+                ETH0 - O
+                SUDO - X
+/ETC/INIT.D/NETWORKING - S

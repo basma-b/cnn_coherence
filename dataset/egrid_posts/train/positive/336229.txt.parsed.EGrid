@@ -1,0 +1,13 @@
+             ENTRIES S - -
+        SOURCES.LIST X - -
+           DOWNGRADE O X -
+                MOVE - X -
+      NETWORKMANAGER - S -
+              NVIDIA - S -
+               BREAK - X -
+                 BUG - X -
+              REPORT - O -
+               HTTPS - X -
+//BUGS.LAUNCHPAD.NET/UBUNTU/GUTSY/+SOURCE/NETWORK-MANAGER/+BUG/121439 - X -
+             NETWORK - - X
+             MANAGER - - X

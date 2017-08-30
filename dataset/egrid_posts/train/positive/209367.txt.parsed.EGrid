@@ -1,0 +1,6 @@
+                RULE O - -
+             FORWARD X - -
+            POLICIES - O -
+               BLOCK - O -
+             SUBNETS - - S
+               OTHER - - X

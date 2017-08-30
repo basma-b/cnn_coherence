@@ -1,0 +1,11 @@
+          AUTOREMOVE X - - - -
+               PURGE S - O - -
+                AUTO S - X - -
+             PACKAGE - O - - -
+             CONFIGS - O - - -
+                   ~ - X - - -
+               THERE - - X - -
+             COMMAND - - X - -
+                TIME - - - - O
+               ALIAS - - - - O
+           ~/.BASHRC - - - - X

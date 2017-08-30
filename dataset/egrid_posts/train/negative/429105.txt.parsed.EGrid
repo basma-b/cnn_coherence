@@ -1,0 +1,13 @@
+             COMMAND X - - -
+             PACKAGE O X - -
+                FILE O - - -
+                DPKG O - - -
+           LISTFILES S - - -
+                   > X - - -
+              OPTION X - - -
+                THAT - S - -
+               IDUNO - X - -
+                  -L - O - -
+                LIST - X - -
+                 LOG - - - X
+               /HOME - - - X

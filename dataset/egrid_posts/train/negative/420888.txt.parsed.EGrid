@@ -1,0 +1,12 @@
+             COMMAND X - - -
+                TYPE S - - -
+                 DVD O - - -
+               PLANT X - - -
+                 USE - O - -
+              MODULE - X - -
+                THAT - - O -
+                6.06 - - S X
+            SCSI_MOD - - - S
+                  SG - - - X
+              SD_MOD - - - X
+              LIBATA - - - X

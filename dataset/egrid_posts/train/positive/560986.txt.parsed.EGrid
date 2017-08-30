@@ -1,0 +1,10 @@
+XSERVER-XORG-VIDEO-ATI S - - -
+             VERSION - X - -
+  /ETC/X11/XORG.CONF - O - -
+              DRIVER - O - -
+              RADEON - X - -
+             SECTION - X - -
+              DEVICE - X - -
+               XCONF - - S -
+            RENDERER - - - X
+                 SAY - - - O

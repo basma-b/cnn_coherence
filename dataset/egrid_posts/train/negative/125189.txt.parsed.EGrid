@@ -1,0 +1,10 @@
+               FSTAB X X - -
+               DRIVE O - - -
+               USERS X - - -
+                ROOT O - - -
+             OPTIONS - X - -
+                PART - X - -
+                USER - S - -
+           PARTITION - X - -
+                TIME - - X -
+              SYSTEM - - O -

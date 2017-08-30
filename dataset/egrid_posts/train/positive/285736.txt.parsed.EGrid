@@ -1,0 +1,15 @@
+           PARTITION X X -
+                FORM X - -
+              MASTER X - -
+                  HD X - X
+               MOUNT X - -
+          /ETC/FSTAB - O -
+                ROOT - X -
+              NOAUTO - X -
+              OPTION - O -
+                LINE - X O
+             CONCERN - X -
+             STARTUP - X -
+              SAMPLE - X -
+               FSTAB - X -
+                 SEN - - S

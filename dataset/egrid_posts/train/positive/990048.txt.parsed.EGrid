@@ -1,0 +1,17 @@
+             WINDOWS X X -
+               DRIVE O - -
+               LINUX X - -
+                READ - X -
+          FILESYSTEM - O -
+         PERMISSIONS - O -
+                FILE - X -
+              SYSTEM - S -
+                LOOP - X -
+                  -T - O -
+                NTFS - X -
+                 HDX - S -
+           PARTITION - O -
+          MOUNTPOINT - S -
+           DIRECTORY - O -
+               MOUNT - - X
+               POINT - - S

@@ -1,0 +1,9 @@
+           SELECTION X - - - -
+             APT-GET X X - - -
+           REINSTALL - S - - -
+                 FOO - S - - -
+     KUBUNTU-DESKTOP - S - - X
+         METAPACKAGE - O - - -
+             PACKAGE - O - - -
+          AUTOREMOVE - - X - -
+                 KDE - - - X -

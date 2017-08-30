@@ -1,0 +1,24 @@
+              CASKEY S X - -
+            QUESTION O - - -
+         PERMISSIONS - S - -
+                HOME - X - -
+           DIRECTORY - X - -
+                 USE - O - -
+           /HOME/FOO - X - -
+               -TYPE - X - -
+                   D - S - -
+               CHMOD - S - -
+                   \ - X - -
+                 YES - O - -
+              FOLDER - X - -
+             DEFAULT - X - X
+             EXAMPLE - O - -
+         DIRECTORIES - O - -
+                LINK - X - S
+                HTTP - O - -
+//WWW.UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - X - -
+HIGHLIGHT=RECURSIVE+CHMOD - - X -
+           ION3LUNIX - - S -
+                APPS - - - S
+               MEDIA - - - X
+                SAME - - - O

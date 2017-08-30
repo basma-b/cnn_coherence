@@ -1,0 +1,10 @@
+                LINE O -
+/ETC/MODPROBE.D/LIRC.CONF X -
+                LIRC O -
+              MODULE X -
+              UBUNTU X -
+              OPTION O -
+             OPTIONS S -
+              TYPE=0 O -
+               POINT X -
+           DIRECTION X -

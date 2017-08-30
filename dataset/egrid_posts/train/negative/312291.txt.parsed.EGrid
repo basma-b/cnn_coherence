@@ -1,0 +1,16 @@
+           SMBSHARES S - -
+          /ETC/FSTAB X S -
+              MATTER X - -
+                CANT S - -
+              ACCESS O O -
+                USER X - -
+                ROOT X - -
+               GROUP S - -
+            SMBUSERS S O -
+               USERS O S -
+                LUCK X - -
+         MOUNTPOINTS - O -
+               CHMOD - O -
+                FILE - X -
+           FRONTENDS - - O
+            IPTABLES - - X

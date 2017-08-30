@@ -1,0 +1,11 @@
+               ITEMS X S S -
+               TRASH X X O -
+                COPY - X - -
+                MOVE - S - -
+               THERE - X - -
+                ELSE - X - -
+                  .. - X - -
+             POINTER - - O -
+                ICON - - X -
+             MESSAGE - - S -
+       ACTIONPARSNIP - - - S

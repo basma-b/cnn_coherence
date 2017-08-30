@@ -1,0 +1,9 @@
+           SOMETHING - O - - -
+               DLSYM - O - - X
+             DLERROR - X - - -
+             DLCLOSE - X - - -
+                 ANY - - S - -
+               ERROR - - - O -
+               ARROR - - - X -
+/SRC/.LIBS/LIBGLPK.SO - - - - X
+           REFERENCE - - - - X

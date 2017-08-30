@@ -1,0 +1,24 @@
+                OKIE S - -
+              SYSTEM S - -
+               NATTY S - -
+         LSB_RELEASE X - -
+              SOURCE O - -
+//REPOGEN.SIMPLYLINUX.CH S - -
+                TOOL O - -
+               REPOS O - -
+             DISTROS X - -
+                BOTH O - -
+                LIST O - -
+               BLOCK O - -
+                 KEY X - -
+              SCRIPT X - -
+             REPOGEN X - -
+                SITE X - -
+               EMPTY - S -
+                SUDO - X -
+             APT-GET - S -
+        SOURCES.LIST - O -
+             UPGRADE - O -
+                FILE - - S
+                TYPE - - X
+            LAUNCHER - - O

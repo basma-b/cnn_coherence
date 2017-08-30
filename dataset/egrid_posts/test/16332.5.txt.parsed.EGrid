@@ -1,0 +1,9 @@
+/ETC/APT/SOURCES.LIST X - - -
+                 USE X - - -
+          TRANSITION X X - -
+                 LTS X X - -
+             PACKAGE X X - -
+               11.10 - - - O
+          DIFFERENCE - - - S
+                DASH - - - X
+                 HUD - - - X

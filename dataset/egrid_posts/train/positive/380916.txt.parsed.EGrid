@@ -1,0 +1,25 @@
+                THAT O O - -
+              EVENIN S - - -
+                LOAD O O - -
+    MODEL=3STACK-660 X X X -
+               SOUND S S - -
+              ANYONE X X - -
+       SND-HDA-INTEL - - S X
+/ETC/MODPROBE.D/OPTIONS - - O -
+                LINE - - O O
+                THIS - - O -
+               ERROR - - O -
+       SND_HDA_INTEL - - O -
+                 USE - - X -
+             MODULES - - - X
+               LSMOD - - - X
+                LIST - - - O
+              QUIKER - - - O
+             MACHINE - - - O
+             EXAMPLE - - - X
+           PROCESSOR - - - O
+         POWERNOW_K8 - - - O
+             THERMAL - - - S
+            POWERNOW - - - X
+                  .. - - - O
+              OUTPUT - - - X

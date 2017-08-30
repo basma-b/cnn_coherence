@@ -1,0 +1,13 @@
+             DEFAULT X - - - - - - - - - -
+            RUNLEVEL X - - - - - O - - - -
+        /ETC/INITTAB - O X - - - - - S - -
+                 BOX - X - - - - - - - - -
+            SYSVINIT - - - - O - - - - - -
+                TOTO - - - - X - - - - - -
+                SOOO - - - - - - X - - - -
+              UBUNTU - - - - - - - O - - -
+                INIT - - - - - - - - S - -
+       COMPATABILITY - - - - - - - - X - -
+  UPSTART.UBUNTU.COM - - - - - - - - X - -
+             UPSTART - - - - - - - - - - X
+                SYSV - - - - - - - - - - O

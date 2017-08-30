@@ -1,0 +1,36 @@
+           ALSAMIXER S - - - - - -
+               SOUND X - - X O O -
+               GRAPH X - - - - - -
+/ETC/INIT.D/PULSEAUDIO O - - - - - -
+                THAT - S O - - - -
+                  .. - O - - - - -
+                CARD - X - - - - -
+                 ALL - X - - - - -
+          EXECUTABLE - O - - - - -
+          PULSEAUDIO - X - - - - -
+                WONT - S - - - - -
+                BOOT - X - - - - -
+                 RUN - - X - - - -
+             COMMAND - - O - - - -
+               PULSE - - X S - - -
+              VOLUME - - X - - - -
+          CONTROLLER - - S - - O -
+        NOTIFICATION - - X - - - -
+                AREA - - X - - - -
+            KEYBOARD - - X - - - -
+              BUTTON - - X - - - -
+             SUPPORT - - X - - - X
+                FILE - - - O - - -
+              CONFIG - - - X - - -
+             CONTROL - - - O - - -
+                LINK - - - O - O -
+                ALSA - - - - X - -
+GSTREAMER-PROPERTIES - - - - X - -
+           CONTROLER - - - - - S -
+               DUMMY - - - - - X -
+               AUDIO - - - - - O -
+                COMP - - - - - - S
+              FEISTY - - - - - - X
+                 CDS - - - - - - S
+                  CD - - - - - - S
+              INSTAL - - - - - - S

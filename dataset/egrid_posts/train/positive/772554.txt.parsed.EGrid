@@ -1,0 +1,13 @@
+             COMMAND X - - - - - -
+             DRIVERS X - - - - - -
+              AND/OR X - - - - - -
+                NEED O - - - - - -
+             DEVICES X - - - - - -
+                 USE - S - - - - -
+                LOAD - O - - - - -
+               LSMOD - - - X - - -
+                   | - - - X - - -
+                GREP - - - O - - -
+              DEVICE - - - X - - -
+            KEYBOARD - - - X - - -
+            TOUCHPAD - - - X - - -

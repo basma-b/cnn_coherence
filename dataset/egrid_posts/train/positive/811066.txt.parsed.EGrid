@@ -1,0 +1,11 @@
+                BIOS - X X - X
+              OPTION - X - - -
+               ORDER - S - - -
+           SOUNDCARD - S - - -
+             HDAUDIO - - X - -
+                 PCI - - X - -
+                SOND - - X - -
+                CARD - - O - -
+               SOUND - - - O X
+                 ALL - - - - O
+               BOARD - - - - X

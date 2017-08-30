@@ -1,0 +1,22 @@
+               FSTAB - S S - - - - -
+                HTTP - S - - - - O -
+//PASTEBIN.COM/NVE6Z8SW - S - - - - - -
+                SWAP - - S - - - - -
+                LIST - - X - - - - -
+                UUID - - X - - - - -
+                  YA - - O - - - - -
+                GRUB - - X X - - - -
+             CONFIGS - - X S - - - -
+             DEFAULT - - X - - - - -
+           GRUB.CONF - - X S - - - -
+                FILE - - X - - - X -
+                 ETC - - X - - - - -
+        /ETC/GRUB.D/ - - - X - - - -
+   /ETC/DEFAULT/GRUB - - - X - - - -
+              RESULT - - - X - - - -
+               AH-OK - - - - X - - -
+              THANKS - - - - - S - -
+       CONFIGURATION - - - - - - X -
+             PROBLEM - - - - - - O -
+//PASTEBIN.COM/XFBQ95JU - - - - - - O -
+               THANK - - - - - - - X

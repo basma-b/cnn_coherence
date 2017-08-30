@@ -1,0 +1,21 @@
+                  .. X - - - - - -
+        SOURCES.LIST - X - - - - -
+                LINE - O - - - - -
+            RESTRICT - X - - - - -
+                WAIT - X - - - - -
+                YEST - S - - - - -
+           BACKPORTS - X - - - - -
+            SECURITY - X - - - - -
+              DVDCSS - S - - - - -
+            HARDWARE - X - - - - -
+             SUPPORT - X - - - - -
+          MULTIVERSE - - X - - - -
+                HOPE - - - X - - -
+       DOCUMENTATION - - - - X - -
+           DIRECTORY - - - - X - -
+      /USR/SHARE/DOC - - - - X - -
+                THIS - - - - O - -
+                SUDO - - - - X - -
+/USR/SHARE/DOC/LIBDVDREAD3/EXAMPLES/INSTALL-CSS.SH - - - - S - -
+              ADVICE - - - - O - -
+              INSTAL - - - - - - O

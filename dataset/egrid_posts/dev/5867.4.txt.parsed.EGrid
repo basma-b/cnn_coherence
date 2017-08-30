@@ -1,0 +1,11 @@
+             COMMAND X - - - -
+                FSCK S - - - -
+              SYSTEM X - - - -
+               CHECK O - - - -
+              REBOOT X - - - -
+                SUDO - S - - -
+          /FORCEFSCK - O - - -
+                 ONE - - X - -
+                 LOT - - - S -
+                WORK - - - X -
+                HELP - - - - X

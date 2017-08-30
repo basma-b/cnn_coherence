@@ -1,0 +1,17 @@
+                  IM S - - -
+                SUDO X - - -
+               CHMOD S - - -
+                   * X - - -
+                FILE X - - -
+               OWNER O - - -
+              ANYONE X - - -
+               CHOWN - - X -
+                USER - - X -
+            FILENAME - - X -
+               GROUP - - X -
+               IFACE - - - X
+                ETH0 - - - S
+     STATIC\NADDRESS - - - X
+                  .. - - - S
+             NETMASK - - - X
+             NETWORK - - - S

@@ -1,0 +1,17 @@
+             NETWORK X - - - - -
+               WLAN0 O - - X - -
+             COMMAND X - - - - -
+                LINE X - - X - -
+               10.04 X - - - - -
+              ADVICE X - - - - -
+              SWITCH - X - - - -
+           ETTHERNET - - O - - -
+                TIME - - - O - -
+                ETH0 - - - O - -
+                WIRE - - - X - -
+            WIRELESS - - - X - -
+          CONNECTION - - - X - -
+                  ID - - - O - -
+                DONT - - - S - -
+                THAT - - - - - S
+               SENSE - - - - - O

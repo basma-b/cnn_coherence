@@ -1,0 +1,16 @@
+              MODULE X - - - - -
+                LOAD X - X - - -
+             NETGEAR - X - - - -
+            WIRELESS - X - - - -
+                CARD - O - - - -
+               LINUX - X - - - -
+              DRIVER - X X - - -
+         NDISWRAPPER - O X - - -
+              SYSTEM - - O - - -
+               ALIAS - - X - - -
+               WLAN0 - - O - - -
+            MODPROBE - - - - X -
+                LINK - - - - - X
+                 BR0 - - - - - S
+                 .SO - - - - - X
+                ETH1 - - - - - S

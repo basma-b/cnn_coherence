@@ -1,0 +1,16 @@
+              UBUNTU X - - - - - -
+                  FS X - - - - - -
+                FILE X - O - - - -
+             SLOCATE - S - - - - -
+               INDEX - - X - - - -
+              SEARCH - - X - - - -
+                THAT - - - O - X -
+           DIRECTORY - - - X - - -
+              UPDATE - - - - - O -
+            DATABASE - - - - - X -
+              BEAGLE - - - - - X -
+           SOMETHING - - - - - O -
+/ETC/CRON.DAILY/SLOCATE - - - - - - O
+            UPDATEDB - - - - - - S
+                CONF - - - - - - O
+  /ETC/UPDATEDB.CONF - - - - - - X

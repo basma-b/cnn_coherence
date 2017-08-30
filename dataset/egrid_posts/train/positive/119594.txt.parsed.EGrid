@@ -1,0 +1,10 @@
+            IFCONFIG X - -
+                   | S - -
+                ADDR X - -
+           SOMETHING O - -
+                LIST X - O
+             PACKAGE X - -
+    DPKG-RECONFIGURE S - -
+                 MAN - S -
+         RECONFIGURE - - X
+                 ALL - - O

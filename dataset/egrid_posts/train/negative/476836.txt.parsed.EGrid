@@ -1,0 +1,16 @@
+                GRUB X - - - - X -
+                SATA X - - - - - -
+                 HDD X - - - - - -
+                  HD - X - - - X -
+                 0,0 - X - - - - -
+             SIMILER - X - - - - -
+              METTER - X - - - - -
+               DRIVE - - S S X - -
+           PARTITION - - - - X - -
+               CHECK - - - - X - -
+/BOOT/GRUB/DEVICE.MAP - - - - X - -
+             COMMAND - - - - - X -
+                LINE - - - - - S -
+             DEVICES - - - - - S -
+             NOTHING - - - - - - O
+              APACHE - - - - - - X

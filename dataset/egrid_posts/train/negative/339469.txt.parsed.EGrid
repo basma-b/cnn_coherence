@@ -1,0 +1,28 @@
+               AFETR S - - - - -
+             MESSAGE O - - - - -
+                BOOT X - - - - -
+              SPLASH X - - - - -
+            PROGRESS X - - - - -
+                 BAR X - - - - -
+                   X O - - - - -
+/SBIN/APPARMOR_PARSER O - - - - -
+            .PROFILE O - - - - -
+            PROTOCOL X - - - - -
+/ETC/APPARMOR.D/USR.SBIN.CUPSD S - - - - -
+              RUNNIG - X - - - -
+               GUSTY - O - - - -
+               THERE - S - S - X
+              THREAD - O - - - -
+        UBUNTUFORUMS - X - - - -
+            SYMPTOMS - X - - - -
+               YOURS - X - - - -
+               REPLY - X - - - -
+            UBUNTU+1 - X - - - -
+             SUPPORT - X - - - -
+                THIS - S - - - -
+                HTTP - X - - - -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - X - - - -
+              MOTHER - - - X - -
+              HANGON - - - - S -
+                 IVE - - - - S S
+              UBUNTU - - - - - X

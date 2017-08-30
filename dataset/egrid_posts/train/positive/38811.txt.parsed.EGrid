@@ -1,0 +1,17 @@
+                HELP X - - - - - - -
+               POWER - - - - - X - -
+             FAILURE - - - - - O - -
+                BOOT - - - - - X - -
+             EXT3-FS - - - - - X - -
+               ERROR - - - - - X - -
+                LOAD - - - - - X - -
+             JOURNAL - - - - - X - -
+              KERNEL - - - - - X - -
+               PANIC - - - - - S - -
+                  CD - - - - - O - -
+               DRIVE - - - - - O - -
+                HOPE - - - - - X - -
+                   = - - - - - X - -
+                 OKS - - - - - S - -
+      FSCK~=SCANDISK - - - - - O - -
+                 AYE - - - - - - - X

@@ -1,0 +1,14 @@
+             COMMAND X - - -
+               STORE X - - -
+                TEXT - S - -
+                CRON - X - -
+                 JOB - S - -
+/VAR/SPOOL/CRON/CRONTABS/ - - X -
+                   U - - - S
+                RAID - - - X
+              DEVICE - - - O
+                  UR - - - S
+             PROBLEM - - - O
+                DEAL - - - X
+              DRIVER - - - X
+              MODULE - - - X

@@ -1,0 +1,12 @@
+             COMMAND S - - -
+                SUDO X - - -
+     /ETC/INIT.D/GDM X - - -
+                STOP O - - -
+            RECOVERY X - - -
+              SCREEN O - - -
+                CANT X - - S
+              NVIDIA - - - X
+             DRIVERS - - - S
+              SYSTEM - - - S
+             XSERVER - - - S
+             VERSION - - - O

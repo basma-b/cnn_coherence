@@ -1,0 +1,5 @@
+FILES-FROM=FILES.LIST X - - -
+             FOLDERS X - - -
+                 YRS - X - -
+               JIGAL - X - -
+               GROUP - X - -

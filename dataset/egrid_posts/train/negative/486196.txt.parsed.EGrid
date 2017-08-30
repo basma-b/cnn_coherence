@@ -1,0 +1,29 @@
+         PERMISSIONS O - - - - - -
+        /ETC/SUDOERS S - - - - - -
+                SUDO S - - - - - -
+                MODE O O - - - - -
+                  .. O - - - X - -
+                FILE X - - - - - -
+              REBOOT - S - - - - -
+            RECOVERY - X - - - - -
+                GRUB - X - - - - -
+                MENU - X - - - - -
+            NOPASSWD - O O - - - -
+             SUDOERS - X X - - - -
+                 MAN - - X - - - -
+                PATH - - O - - - -
+              SCRIPT - - X - O - -
+                LUCK - - S - - - -
+                USER - - S - S X -
+           PRIVILEGE - - - X - - -
+             SERVICE - - - - X - -
+                WORK - - - - X - -
+               ENTRY - - - - - S -
+                THIS - - - - - X -
+        ALL=NOPASSWD - - - - - X -
+/OPT/SCRIPTS/SERVICEHELPER.PL - - - - - X -
+               SPACE - - - - - X -
+                 ALL - - - - - O -
+/USR/LOCAL/BIN/REVOCO - - - - - X -
+               THEME - - - - - - O
+             DEFAULT - - - - - - X

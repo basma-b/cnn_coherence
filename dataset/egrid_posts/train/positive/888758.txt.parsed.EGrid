@@ -1,0 +1,15 @@
+              SERVER O - - -
+            QUESTION O - - -
+            SECURITY X - - -
+              FOLDER - O - -
+/VAR/WWW/EXAMPLEA.COM - X - -
+/VAR/WWW/EXAMPLEB.COM - X - -
+                FILE - S - -
+        EXAMPLEB.COM - X - -
+        EXAMPLEA.COM - X - -
+                   / - O - -
+            SAFEMODE - - O -
+                MODE - - - S
+            VERSIONS - - - X
+            ANYTHING - - - X
+               LEVEL - - - X

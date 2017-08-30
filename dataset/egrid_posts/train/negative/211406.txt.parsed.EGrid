@@ -1,0 +1,17 @@
+             WINDOWS O O - - - S - -
+                HDA1 X - - - - - - -
+               DRIVE X - O - - - - -
+                HDC1 X - - - - - - -
+                GRUB - S S - - - - -
+                BOOT - X - - - X - -
+              REASON - - X - - - - -
+               HD1,1 - - X - - - - -
+               HD2,1 - - X - - - - -
+                 ETC - - X - - - - -
+                THIS - - - X - - - -
+                   / - - - - - S - -
+           PARTITION - - - - - - O -
+                ROOT - - - - - - X -
+                REST - - - - - - O -
+                GOOD - - - - - - - X
+                 ^^^ - - - - - - - O

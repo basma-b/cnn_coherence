@@ -1,0 +1,41 @@
+                TIME - O - - - - - - -
+             NETWORK - X X - - - - X -
+        CONNECTIVITY - X - - - - - - -
+               ISSUE - O - - S - - - -
+              11.04. - X - - - - - - -
+                WIFI - S - - - - - - -
+             EXAMPLE - X - - - - - X -
+                KIND - X - - - - - - -
+                CARD - X X - - - - - -
+               THERE - - S - - - - - -
+                 BUG - - O - - - - - -
+               HTTPS - - O - X - - - -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+BUGS - - O - - - - - -
+                THAT - - - O - - - - -
+FIELD.SEARCHTEXT=BCM4313 - - - S - - - - -
+ ORDERBY=-IMPORTANCE - - - X - - - - -
+       SEARCH=SEARCH - - - X - - - - -
+                   % - - - S - - - - -
+          3ALIST=NEW - - - X - - - - -
+3ALIST=INCOMPLETE_WITH_RESPONSE - - - X - - - - -
+3ALIST=INCOMPLETE_WITHOUT_RESPONSE - - - X - - - - -
+   3ALIST=INPROGRESS - - - S - - - - -
+     FIELD.ASSIGNEE= - - - X - - - - -
+ FIELD.BUG_REPORTER= - - - S - - - - -
+  FIELD.OMIT_DUPES=O - - - S - - - - -
+              REPORT - - - S - - - - -
+               HINTS - - - O - - - - -
+                FILE - - - - O S - - -
+                CASE - - - - - X - - -
+              THINGS - - - - - - S - -
+               KINDA - - - - - - O - -
+                THIS - - - - - - X X -
+             ADDRESS - - - - - - - O -
+       255.255.255.0 - - - - - - - X -
+              BINARY - - - - - - - X -
+           WIKIPEDIA - - - - - - - S -
+                PAGE - - - - - - - O -
+            NETMASKS - - - - - - - X -
+          SUBNETTING - - - - - - - X -
+              NUMBER - - - - - - - - O
+          EVERYTHING - - - - - - - - O

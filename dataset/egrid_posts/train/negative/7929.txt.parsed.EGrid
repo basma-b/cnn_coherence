@@ -1,0 +1,21 @@
+               CHECK S - - - - - -
+               DMESG X - - - - - -
+              DEVICE - X - - - - -
+             MANAGER - X - - - - -
+                CALL - O - - - - -
+              ESDCAT - - X - - - -
+               THERE - - S - - - -
+               ERROR - - X - - - -
+             MESSAGE - - O - - - -
+                ALSA - - - X - - -
+GSTREAMER-PROPERTIES - - - X - - -
+                SINK - - - O - - -
+                DELL - - - - X - -
+              SYSTEM - - - - X - -
+               AOPEN - - - - - X -
+            BAREBONE - - - - - X -
+                GREP - - - - - O -
+               INTEL - - - - - S -
+               UMASK - - - - - - X
+               MOUNT - - - - - - X
+             COMMAND - - - - - - X

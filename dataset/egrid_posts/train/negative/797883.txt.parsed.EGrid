@@ -1,0 +1,19 @@
+            GRUB.CFG S - - - - - -
+                 USE X - - - - - -
+       GRUB-MKCONFIG X - - - - - -
+               ERROR S - - - - - -
+/USR/SBIN/GRUB-PROBE S - - - - - -
+                 MAP S - - - - - -
+                ROOT X - - - - - -
+             DEFAULT O - - - - - -
+                GRUB X - - - - - -
+                SITE X - - - - - -
+             CONFIGS - O - - - - -
+               PASTE - O - - - - -
+                COPY - - X - - - -
+                  IM - - S - - - -
+                 LVM - - O - - - -
+                SUDO - - - X - - -
+         UPDATE-GRUB - - - X - - -
+                WAIT - - - - S - -
+                 OK. - - - - - - X

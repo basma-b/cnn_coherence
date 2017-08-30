@@ -1,0 +1,17 @@
+                 MAN X - - - -
+             URANDOM X - - S -
+                  .. X - - - -
+         /DEV/RANDOM S - - - -
+                 USE X - - - -
+             QUALITY X - - - -
+          RANDOMNESS O - - - -
+              OUTPUT - X - - -
+                  IV - X - - -
+          ENCRYPTION - X - - -
+              ENOUGH - O - - -
+          GENERATION - - - X -
+                 LOT - - - X -
+              NUMBER - - - X -
+             ENTROPY - - - X -
+                THAT - - - - S
+          ASSUMPTION - - - - O

@@ -1,0 +1,14 @@
+                SUDO X X - - -
+            IFCONFIG S X - - -
+           INTERFACE O - - - -
+               WLAN1 - X - - -
+          INTERFACES - - X - -
+             NETWORK - - X - -
+            IWCONFIG - - - X -
+          DIFFERENCE - - - - S
+              OUTPUT - - - - X
+                 MSG - - - - X
+                SIZE - - - - X
+                  VS - - - - O
+              HEADER - - - - X
+                  ID - - - - O

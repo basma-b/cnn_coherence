@@ -1,0 +1,16 @@
+                 ALL O - - - - - -
+                 ONE S - - - - - -
+           CUSTOMERS X - - - - - -
+             MACHINE X - - - - - X
+          CHKROOTKIT - S - - - - -
+                DONT - S - - - - -
+            ANYTHING - O - - - - -
+                INIT - - X - - - -
+            ROOTPASS - - - S - - -
+            CUSTOMER - - - S - - -
+              CTRL+C - - - O - - -
+             PROGRAM - - - - O - -
+          SIGNATURES - - - - X - -
+             ROOTKIT - - - - - O O
+               USERS - - - - - O -
+               THERE - - - - - - S

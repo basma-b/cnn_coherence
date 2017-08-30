@@ -1,0 +1,17 @@
+          PULSEAUDIO S S -
+        AUTOSPAWN=NO - S -
+                WORK - O -
+             SERVICE - X S
+                TEXT - - X
+                FILE - - O
+           DIRECTORY - - X
+            RUNLEVEL - - S
+             CONTROL - - O
+            SYMLINKS - - O
+                  .D - - X
+               THERE - - S
+           RUNLEVELS - - O
+                 LOT - - X
+               TRACK - - O
+                MESS - - X
+                TOOL - - O

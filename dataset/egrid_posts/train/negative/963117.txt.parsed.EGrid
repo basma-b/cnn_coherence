@@ -1,0 +1,15 @@
+             ALRIGHT S - - - -
+             ETH1394 O - - - -
+            IEEE1394 O - - - -
+            OHCI1394 O - - - -
+            FIREWIRE X - - - -
+             MODULES S - O - -
+                BOOT X - - - -
+    HELP/SUGGESTIONS - X - - -
+             HOTPLUG - - S - -
+              MODULE - - O - -
+                LINE - - X - -
+        /ETC/MODULES - - X - -
+            MODPROBE - - O - -
+               FRONT - - X - -
+            UNIVERSE - - - - S

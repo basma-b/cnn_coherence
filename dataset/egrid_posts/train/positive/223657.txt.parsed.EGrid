@@ -1,0 +1,9 @@
+                KIND X - - -
+                APPS X - - -
+NETWORK-MANAGER-GNOME - S S -
+        DEPENDENCIES - X - -
+              SYSTEM - - X -
+                   > - - X -
+             NETWORK - - S -
+                 APP - - O -
+            SYNPATIC - - - X

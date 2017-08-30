@@ -1,0 +1,29 @@
+            RESOLVER X - - - - -
+         INFORMATION X - - - - -
+                DAYS X - - - - -
+    /ETC/RESOLV.CONF - S - - - -
+/ETC/RESOLVCONF/RESOLV.CONF.D - S - - - -
+                HEAD - O X - - -
+                BASE - O - - - -
+/RUN/RESOLVCONF/RESOLV.CONF - S - - - -
+    /VAR/RUN/DNSMASQ - S - - - -
+          RESOLUTION - X - - - -
+                WORK - O - - - -
+                PART - X - - - -
+                HOST - X - - - -
+               DEBUG - X - - - -
+                FILE - X - - - -
+                NAME - O - - - -
+                TAIL - X - - - -
+/ETC/RESOLVCONF/RESOLV.CONF.D/ - S - - - -
+                 WAY - O - - - -
+                 TOP - - X - - -
+           VARIABLES - - S - - -
+                USER - - X - - -
+                HOME - - X - - -
+                BASH - - X - - -
+                BITE - - - X - -
+            MEANTIME - - - - - X
+               THERE - - - - - S
+              PEOPLE - - - - - O
+             CHANNEL - - - - - X

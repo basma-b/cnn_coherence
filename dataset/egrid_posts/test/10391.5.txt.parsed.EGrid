@@ -1,0 +1,15 @@
+             PRIMARY - X -
+               LOGIC - X -
+              FUTURE - O -
+            SWAPFILE - O -
+                SWAP - X -
+           PARTITION - O -
+              DSOUND - - X
+                TEXT - - O
+            INSTANCE - - O
+              OUTPUT - - O
+                HTTP - - X
+//WWW.ALSA-PROJECT.ORG/ALSA-INFO.SH - - X
+               CHMOD - - X
+                  +X - - X
+      ./ALSA-INFO.SH - - X

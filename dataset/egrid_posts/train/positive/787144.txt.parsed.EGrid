@@ -1,0 +1,26 @@
+             APT-GET S - - - - -
+             APACHE2 O - - - - -
+                 DIR O - - - - -
+             NOTHING S - - - - -
+                SUDO X - - - - -
+            APTITUDE S - - - - -
+               PAKGE X - - - - -
+                LIST O - - - - -
+/ETC/APT/SOURCES.LIST - O X - - -
+             CONTENT - S - - - -
+                FILE - X - - - -
+/ET/APT/SOURCES.LIST.D - X - - - -
+             COMMAND - X - - - -
+                   $ - - X - - -
+            NULLGLOB - - O - - -
+                   F - - X - - -
+                   * - - X - - -
+                 CAT - - O - - -
+                   > - - X - - -
+            LIST.TXT - - S - - -
+             BRACKET - - O - - -
+                  -A - - X - - -
+             OPTIONS - - - X - -
+           REINSTALL - - - X - -
+               REPOS - - - - O O
+        DIST-UPGRADE - - - - O -

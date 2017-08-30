@@ -1,0 +1,14 @@
+               WEEKS X - - -
+        DIST-UPGRADE O - - -
+              KERNEL O - X -
+                BOOT X - - -
+              NVIDIA X - - -
+              MODULE S - - -
+               BREAK O - - -
+           SOMETHING X - - -
+             DRIVERS - X - -
+          NVIDIA-GLX - X - -
+             PACKAGE - O - -
+             MODULES - - S -
+LINUX-RESTRICTED-MODULES - - O -
+                THAT - - - O

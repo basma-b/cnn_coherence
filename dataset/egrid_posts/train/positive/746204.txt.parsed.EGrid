@@ -1,0 +1,25 @@
+/ETC/DEFAULTS/GRUB.CONF X - - - - - - - - - - -
+                  .. X - - - - O - X - O - -
+               IDEAS X - - - - - - - - - - -
+                BOOT X - - - - - - - - X - -
+                  OS S - - - - - - - - - - -
+                MENU X - - - - - - - - - - -
+             DEFAULT X - X - - - - - - O - -
+              UBUNTU - - O - - - - - - - - -
+  /BOOT/GRUB/GRUBENV - - O - - S - - - - - -
+               /BOOT - - - X - - - - - - - -
+            RAID/LVM - - - X - - - - - - - -
+                 LVM - - - - X X X - - - - -
+              VOLUME - - - - X - - - - - - -
+                THAT - - - - - S - - - - - -
+             NOTHING - - - - - O - - - - - -
+         SAVEDEFAULT - - - - - S - O - - - -
+               GRUB2 - - - - - - S - - - - -
+              ENOUGH - - - - - - O - - - - -
+                CRAP - - - - - - - X - - - -
+              ANSWER - - - - - - - X - - - -
+               STUFF - - - - - - - - - O - -
+            GRUB-FOO - - - - - - - - - X - -
+           SOMETHING - - - - - - - - - O - -
+             COMMAND - - - - - - - - - X - -
+                LINE - - - - - - - - - X - -

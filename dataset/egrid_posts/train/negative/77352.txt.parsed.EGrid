@@ -1,0 +1,13 @@
+            FIREWALL O - -
+              KERNEL - X X
+            IPTABLES - X -
+             COMMAND - X -
+            USERLAND - X -
+               PANIC - - X
+                SYNC - - X
+                 VFS - - X
+                ROOT - - X
+                  FS - - O
+             UNKNOWN - - X
+               BLOCK - - X
+                 0,0 - - X

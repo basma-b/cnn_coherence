@@ -1,0 +1,16 @@
+               10.04 O - - - -
+            APPARMOR X X - - -
+          EVERYTHING S - - - -
+                WORK O O - - -
+              SWITCH - X - - -
+              POLICY - O - - -
+                DAYS - O - - -
+          CONNECTION - S - - -
+                PORT - X - - -
+             PROCESS - X - - -
+             NETWORK - X - - -
+                 LOG - - X - X
+         CONNECTIONS - - S - -
+               DAMON - - O - -
+            SECURITY - - - - X
+              SYSLOG - - - - X

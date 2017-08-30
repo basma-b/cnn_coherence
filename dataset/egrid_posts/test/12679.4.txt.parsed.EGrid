@@ -1,0 +1,17 @@
+                  CD X - -
+                BOOT O - -
+                ROOT X - -
+               DRIVE O - -
+                GRUB O - -
+        GRUB-INSTALL X - -
+       /DEV/YOURDISK X - -
+           XORG.CONF O - -
+           SPECIFICY X - -
+              DRIVER X - -
+                 ALL - - O
+             DEFAULT - - X
+                MOST - - S
+               USERS - - X
+             RECIPIE - - O
+           SOMETHING - - X
+               PROXY - - O

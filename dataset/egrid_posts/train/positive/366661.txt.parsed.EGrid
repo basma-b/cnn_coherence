@@ -1,0 +1,12 @@
+             SERVICE X - O X -
+               GUSTY X - - - -
+              SERVER X - - - -
+           CHKCONFIG - - X - -
+         RHEL/FEDORA - - X - -
+/ETC/INIT.D/SERVICENAME - - S - -
+              REBOOT - - X - -
+               START - - - O -
+             APT-GET - - - X -
+                 BUM - - - O -
+                BOOT - - - X -
+                  OK - - - - X

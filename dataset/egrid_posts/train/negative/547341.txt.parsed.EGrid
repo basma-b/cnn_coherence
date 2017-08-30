@@ -1,0 +1,14 @@
+                RAID X - - -
+               ARRAY O - - -
+                UUID X - - -
+         /DEV/DEVICE S - - -
+                 ONE X - - -
+                LIST O - - -
+  /DEV/DISK/BY-UUID/ X - - -
+               MOUNT - O - -
+               FSTAB - X - -
+              DEVICE - X - -
+/DEV/DISK/BY-UUID/48AF03D8-D9BF-4D52-BAB7-19DDE43163D6 - S - -
+                  » - S - -
+                THEN - X - -
+                TIME - - - X

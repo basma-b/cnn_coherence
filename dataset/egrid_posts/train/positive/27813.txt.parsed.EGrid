@@ -1,0 +1,17 @@
+             SOMEONE - - X - - - - -
+          PARTIONING - - - X - - - -
+                BOOT - - - X X - - -
+                  CD - - - X X - - -
+               FDISK - - - O - - - -
+               DRIVE - - - X - - - -
+                  .. - - - O - - - -
+                GRUB - - - - S - - -
+                NTFS - - - - X - - -
+             PARTION - - - - O - - -
+               TABLE - - - - S - - -
+              SYSTEM - - - - O - - -
+               ERROR - - - - X - - -
+                  HD - - - - X - - -
+             VIRTUAL - - - - - X - -
+            LANGUAGE - - - - - X - -
+             OPTIONS - - - - - O - -

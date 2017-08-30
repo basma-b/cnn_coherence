@@ -1,0 +1,11 @@
+                RULE S - - - - -
+               SETUP X - - - - -
+                 ISO O - - - - -
+              FOLDER X - - - - -
+                  HD X - - - - -
+               IMAGE X O - - - -
+               HTTPS X - - - - -
+                PROB - - - O - -
+                ALSA - - - X - -
+                 USE - - - - S -
+          PULSEAUDIO - - - - X -

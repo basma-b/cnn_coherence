@@ -1,0 +1,25 @@
+  DO-RELEASE-UPGRADE X - - - - -
+                 ONE O - - - - -
+         COMMANDLINE X - - - - -
+                LINK S - - - - -
+        INSTRUCTIONS X - - - - -
+             APT-GET O S - - - -
+                SUDO - X - - - -
+               HTTPS - X - - - -
+SERVER_.2BAC8_COMMAND_LINE_UPGRADE - X - - - -
+                 HMM - O - - - -
+            APTITUDE - O - - - -
+             NOTHING - X - - - -
+             DESKTOP - X - - - -
+                THAT - - S - - -
+                  CD - - - X - X
+           DIRECTORY - - - X - X
+             PROTECT - - - X - -
+                HOME - - - X - -
+                  .. - - - - X X
+           SOMETHING - - - - O -
+                 RWX - - - - O -
+                   A - - - - - X
+                USER - - - - - X
+  /HOME/NEIL/DESKTOP - - - - - X
+                WORK - - - - - X

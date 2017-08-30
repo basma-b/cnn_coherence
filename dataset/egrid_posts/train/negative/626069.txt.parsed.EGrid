@@ -1,0 +1,8 @@
+             COMMAND X - -
+             PACKAGE O - -
+              SYSTEM X - -
+                SUDO - O -
+                   | - X -
+                GREP - X -
+                   < - X -
+                   > - X -

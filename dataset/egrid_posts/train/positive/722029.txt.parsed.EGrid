@@ -1,0 +1,23 @@
+             FOLDERS O - - - - - - - -
+                ROOT X - - X X - X - -
+           PRIVILEGE O - - - - - X - -
+              OTHERS O - - - - - - - -
+                USER X - - - - - - - -
+                PART S - - - - - - - -
+          PRIVELAGES X - - - - - - - -
+            JORDAN_U - - S - - - - - -
+                LINK - - O - - - - - -
+                 NOW - - X - - - - - -
+//GRUB.ENBUG.ORG/GRUB2LIVECDINSTALLGUIDE - - - S - - - - -
+                 CMD - - - S - - - - -
+           DIRECTORY - - - O - - X - X
+                  LS - - - - S - - - -
+              OUTPUT - - - - X - - - -
+               CHECK - - - - - X - - -
+                DISK - - - - - X - - -
+                FSCK - - - - - - O - -
+                HOME - - - - - - X - -
+             COMMAND - - - - - - O X -
+                  .. - - - - - - - X -
+         PERMISSIONS - - - - - - - O -
+                 HDD - - - - - - - - S

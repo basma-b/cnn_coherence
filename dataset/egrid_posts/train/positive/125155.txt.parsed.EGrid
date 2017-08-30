@@ -1,0 +1,12 @@
+               FSTAB X X - - -
+               DRIVE O - - - -
+               USERS X - - - -
+                ROOT O - - - -
+             OPTIONS - X - - -
+                PART - X - - -
+                USER - S - - -
+           PARTITION - X - - O
+                THAT - - X - -
+               MUSIC - - - - X
+               STUFF - - - - X
+           SOMETHING - - - - O

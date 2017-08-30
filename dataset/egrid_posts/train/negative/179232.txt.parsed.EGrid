@@ -1,0 +1,17 @@
+      NAUTILUS:11918 X X - - -
+        GTK-CRITICAL X X - - -
+                   * O X - - -
+GTK_WINDOW_REALIZE_ICON X X - - -
+           ASSERTION X X - - -
+                   > S - - - X
+                NULL S S - - -
+               THING X X - - -
+         ICON_PIXMAP - S - - -
+                  .. - O - - -
+                THAT - - X - -
+       CIRCUMSTANCES - - X - -
+              SYSTEM - - - - X
+               ADMIN - - - - X
+             STORAGE - - - - X
+              DEVICE - - - - X
+             MANAGER - - - - X

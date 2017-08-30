@@ -1,0 +1,27 @@
+           PHP5.CONF S - - - - - - - - - - - - - -
+ LIBAPACHE2-MOD-PHP5 S X - - - - - - - - - - - - -
+                FILE S - - - - - - - - X X X O - -
+             PACKAGE O - - - - - - - O - - - - - -
+                MESS X - - - - - - - - - - - - - -
+           PHP5.LOAD - O - - - - - - - - - - - - -
+              SERVER - X - - - O - S - - - - - - -
+                PART - O - - - - - - - - - - - - -
+            LIGHTTPD - - O - - - - X - - O - - - -
+             YOUTUBE - - - S - - - - - - - - - - -
+             VERSION - - - O - - - - - - - - - - -
+              APACHE - - - - - X - - - - - - - - -
+  /ETC/INIT.D/APACHE - - - - - S - - - - - - - - -
+              MONTHS - - - - - - - X - - - - - - -
+            PROBLEMS - - - - - - - X - - - - - - -
+              INSTAL - - - - - - - - - O - - - - -
+       CONFIGURATION - - - - - - - - - X - - - - -
+              MODULE - - - - - - - - - O - - - - -
+               THERE - - - - - - - - - - S - - - -
+                TYPE - - - - - - - - - - X - - - -
+             FASTCGI - - - - - - - - - - X - - - -
+/ETC/LIGHTTPD/CONF-AVAILABLE/10-FASTCGI.CONF - - - - - - - - - - X O - - -
+                CALL - - - - - - - - - - X - - - -
+   /USR/BIN/PHP5-CGI - - - - - - - - - - - S - - -
+                LOOK - - - - - - - - - - - - - - O
+                HTTP - - - - - - - - - - - - - - X
+//BLOG.IFITCANGOWRONG.COM/UBUNTU/CONFIGURE-THE-HP-DV2000-FOR-UBUNTU-SOUND - - - - - - - - - - - - - - X

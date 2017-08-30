@@ -1,0 +1,20 @@
+              OPTION X - - - - - - - -
+        INSTALLATION X - - - - - - - -
+             LIVE-CD X - - - - - - - -
+                GRUB - - O X - - - - -
+              SPLASH - - X - - - - X -
+              LAPTOP - - S - - - - - -
+              SCREEN - - S - - - - - -
+           NOMODESET - - X - - - - X -
+             PROBLEM - - O - - - - - -
+                THAT - - - O - - - - -
+              REBOOT - - - X - - - - -
+            SOLUTION - - - - X - - - -
+               THERE - - - - - X - - -
+                SUDO - - - - - - - X X
+               GEDIT - - - - - - - X -
+   /ETC/DEFAULT/GRUB - - - - - - - X -
+                LINE - - - - - - - X -
+GRUB_CMDLINE_LINUX_DEFAULT= - - - - - - - O -
+              CHANGE - - - - - - - - X
+         UPDATE-GRUB - - - - - - - - O

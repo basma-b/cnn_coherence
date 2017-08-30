@@ -1,0 +1,8 @@
+             STARTUP X - - -
+              DAEMON X - - -
+             SERVICE S - - -
+         UPDATE-RC.D - S - -
+              SYSTEM - X - -
+                 ALL - X - -
+             SYSTEMS - X - -
+                BASH - - O -

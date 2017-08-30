@@ -1,0 +1,10 @@
+             NETWORK X - -
+              SYSTEM X - -
+               LINUX - X -
+                IFUP - O -
+               CABLE - S -
+                BOOT - X -
+            SEQUENCE - X -
+                SUDO - X -
+/ETC/INIT.D/NETWORKING - X -
+               .CONF - - S

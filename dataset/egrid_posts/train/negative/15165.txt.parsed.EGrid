@@ -1,0 +1,26 @@
+                FILE X - - -
+            WIRELESS X X - -
+            SETTINGS X O - -
+/ETC/PCMCIA/NETWORK.OPTS - X - -
+              PCMCIA - X - -
+/ETC/NETWORK/INTERFACES - O - -
+                 GUI - X - -
+                TOOL - O - -
+              SYSTEM - X - -
+                MENU - X - -
+          ESSID/KEY/ - X - -
+                  .. - X - -
+                 USE - - X -
+             MESSAGE - - X -
+         UBUNTUROCKS - - X -
+                  ER - - X -
+                ROOT - - X -
+             ACCOUNT - - S -
+            SECURITY - - X -
+              REASON - - X -
+                SUDO - - O -
+        APPLICATIONS - - O -
+               LOGIN - - X -
+                  -I - - O -
+                 ONE - - X -
+                 YES - - - X

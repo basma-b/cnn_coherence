@@ -1,0 +1,10 @@
+            SQUASHFS - O - - O - - - -
+              LIVECD - X - - X - - X X
+              SYSTEM - - X - - X - - -
+                 USE - - X - - X - - -
+                BOOT - - X - - X - - -
+                HTTP - - - - - - X - -
+//EN.WIKIPEDIA.ORG/WIKI/SQUASHFS - - - - - - X - -
+          FILESYSTEM - - - - - - - X -
+              LAUNCH - - - - - - - O -
+              INSTAL - - - - - - - - X

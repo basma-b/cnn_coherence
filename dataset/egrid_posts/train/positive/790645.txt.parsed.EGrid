@@ -1,0 +1,19 @@
+                 USE S - - - - -
+              SCRIPT O X - O - -
+                INIT X X - - - X
+                  .. X - - - - -
+            QUESTION X - - - - -
+          RC.SYSINIT S - - - - -
+               10.10 X - - - - -
+/ETC/INIT/RC-SYSINIT.CONF S - - - - -
+                CARE S - - - - -
+                BASE X - - - - -
+             DAEMONS X - - - - -
+                REMJ - - - X - -
+          FILESYSTEM - - - X - -
+             TRIGGER - - - X - -
+         FILESYSTEMS - - - S - -
+            AFFINITY - - - - - O
+             PROCESS - - - - - X
+                BIND - - - - - O
+           PROCESSOR - - - - - O

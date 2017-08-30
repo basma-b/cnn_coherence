@@ -1,0 +1,15 @@
+                GRUB O - X - - -
+                 MBR X - X - - -
+                 HD0 X - - - - -
+                BOOT X - - - - -
+              LIVECD O - - - - -
+              SECTOR S - - - - -
+             PROBLEM - X - - - -
+            MENU.LST - - X - - -
+                THAT - - - O - -
+                ROOT - - - O - -
+                /MNT - - - X - -
+/MNT/BOOT/GRUB/MENU.LST - - - O - -
+                HDA1 - - - X - -
+                 ONE - - - - - X
+             DEFAULT - - - - - O

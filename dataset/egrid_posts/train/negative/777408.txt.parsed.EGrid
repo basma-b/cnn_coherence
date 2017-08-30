@@ -1,0 +1,24 @@
+J2EE-1_4_03-LINUX.BIN O - - - - - -
+                9.10 X - - - - - -
+               ERROR O - - O S - -
+                LOAD X - - - X - -
+               SHARE X - - - X - -
+           LIBRARIES S - - - X - -
+LIBSTDC++-LIBC6.2-2.SO.3 X - - - X - -
+              OBJECT X - - - X - -
+                FILE O - - - O - -
+           DIRECTORY S - - - S - -
+               LIBC6 O - - O - - -
+                SUDO - X - - X - -
+             APT-GET - S - - S - -
+             PROBLEM - - O - - - -
+                TIME - - - X - - -
+                J2EE - - - O - - -
+        INSTALLATION - - - X - - -
+                  OK - - - - S - -
+            TERMINAL - - - - X - -
+            LDCONFIG - - - - X - -
+          LIBSTDC++6 - - - - O - -
+               SOUND - - - - - X -
+              DEVICE - - - - - X -
+            /DEV/ESP - - - - - X -

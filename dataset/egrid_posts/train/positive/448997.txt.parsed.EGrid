@@ -1,0 +1,15 @@
+         DAISUKE_LDO X - - - -
+            ANYTHING O - - - -
+                WLAN X - - - -
+            FUNCTION O - - - -
+              DRIVER - O - - -
+            HARDWARE - - S - -
+           SOMETHING - - O - -
+                THAT - - - O -
+              OTHERS - - - S -
+                FILE - - - X -
+/ETC/MODPROBE.D/BLACKLIST - - - X O
+            TERMINAL - - - X -
+             PROBLEM - - - - S
+                LINE - - - - O
+              MODULE - - - - X

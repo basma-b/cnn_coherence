@@ -1,0 +1,25 @@
+             VERSION X X -
+              KERNEL X - -
+               IMAGE X - -
+             HEADERS X - -
+              UBUNTU X - -
+             APT-GET - S -
+KERNEL-HEADER-2.6-386 - S -
+   LINUX-HEADERS-FOO - X -
+                   U - S -
+               TAHAT - X -
+      KERNEL-HEADERS - O -
+       LINUX-HEADERS - O -
+                TIME - - O
+               HORIZ - - O
+               VALUE - - X
+             MACHINE - - X
+                  .. - - X
+                CHIP - - S
+            MODLINES - - X
+           SOMETHING - - O
+               INTEL - - X
+             PROBLEM - - O
+                DELL - - X
+            LATITUDE - - X
+                D620 - - X

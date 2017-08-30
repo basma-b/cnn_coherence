@@ -1,0 +1,8 @@
+                TIME X - - -
+              MODULE O - - -
+            AUTOLOAD X - - -
+                BOOT X - - -
+           BLACKLIST - X - -
+                 MAN - X - -
+/ETC/MODPROBE.D/BLACKLIST - - - S
+        /ETC/HOTPLUG - - - X

@@ -1,0 +1,22 @@
+                 SET X - - - -
+             NETWORK X - X - -
+           INTERFACE X - - - -
+                WIRE X - - - -
+          CONNECTION O - - - -
+             SUSPEND - X - - -
+            TERMINAL - - O - -
+                LSHW - - S - -
+              DRIVER - - X - -
+                CARD - - S - -
+                LOAD - - X - -
+             DISPLAY - - O - -
+                 PCI - - S - -
+               SYSFS - - X - -
+                LINE - - X - -
+             SECTION - - X - -
+              OUTPUT - - O - -
+                LOOK - - O - -
+                OKAY - - S - -
+/ETC/PM/CONFIG.D/CONFIG - - O - -
+               EMPTY - - X - -
+            OPENJDK7 - - - - O

@@ -1,0 +1,12 @@
+            MODPROBE X - -
+             MODULES S - -
+        /ETC/MODULES X - -
+                LOAD O - -
+                BOOT X - -
+            TERMINAL - - S
+        INSTALLATION - - X
+      AUTHENTICATION - - X
+            SOFTWARE - - X
+              CENTER - - S
+                STOP - - X
+        INSTALLATINO - - O

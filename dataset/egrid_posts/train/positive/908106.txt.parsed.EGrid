@@ -1,0 +1,21 @@
+              COURSE - X - - - - -
+                  .. - O - - - - -
+               SENSE - - S - - - -
+               THING - - O - - - -
+         FLASHPLAYER - - O - - - -
+             LIBRARY - - - S - - -
+               PLACE - - - X - - -
+                FILE - - - S - - -
+              OUTPUT - - - - - S -
+                LINE - - - - - X -
+               STRIP - - - - - X -
+             WARNING - - - - - X -
+        ARCHITECTURE - - - - - X -
+             UNKNOWN - - - - - O -
+      DPKG-SHLIBDEPS - - - - - - S
+             FAILURE - - - - - - X
+                 LDD - - - - - - X
+DEBIAN/FLASHPLAYER-MOZILLA/USR/LIB/MOZILLA/PLUGINS/LIBFLASHPLAYER.SO - - - - - - X
+               ERROR - - - - - - X
+                EXIT - - - - - - X
+              STATUS - - - - - - O

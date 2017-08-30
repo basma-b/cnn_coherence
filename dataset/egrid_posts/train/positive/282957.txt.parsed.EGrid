@@ -1,0 +1,17 @@
+               BEFOR X - - -
+        DIST-UPGRADE S - - -
+                 PHP X - X -
+                WORK O - - -
+             APACHE2 X - X S
+                CLUE - O - -
+                HELP - - S -
+           REINSTALL - - X -
+                SUDO - - S -
+             PACKAGE - - S -
+              OPTION - - X -
+             APT-GET - - S -
+         PACKAGENAME - - S -
+               |GREP - - X -
+              APACHE - - X X
+                 ABD - - - X
+                LIST - - - X

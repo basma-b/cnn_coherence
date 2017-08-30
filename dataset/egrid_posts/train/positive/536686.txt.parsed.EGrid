@@ -1,0 +1,13 @@
+              SERVER O - - - -
+                NEED O - - - -
+             ABILITY O - - - -
+              DOMAIN X - - - X
+                NAME O - - - O
+           UNINSTALL - X - - -
+                BIND - O - - -
+                WORK - - X - -
+         NAMESERVERS - - X - -
+                LIST - - O - -
+    /ETC/RESOLV.CONF - - X - -
+              SEARCH - - - - S
+           127.0.0.1 - - - - O

@@ -1,0 +1,10 @@
+             COMPARE X - - -
+                BASH X - - -
+              SCRIPT X - - -
+               -LSB- - S - -
+                VAR2 - X - -
+               -RSB- - X - -
+                   $ - - S -
+               UN_OP - - - X
+              STRING - - - O
+                INTS - - - X

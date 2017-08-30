@@ -1,0 +1,17 @@
+            MAXLOGIN O - - -
+                USER X S - -
+           MAXLOGINS O S - -
+               LOGIN O O - -
+                  1. X - - -
+                TIME - O - -
+                 KAD - S - -
+/ETC/SECURITY/LIMITS.CONF - S - -
+               USERS - S - -
+              NUMBER - O - -
+                  .. - O - -
+                 LOG - O - -
+                   X - X - -
+                 PAM - X - X
+               AUDIT - X - -
+                TALK - O - -
+                THIS - - X -

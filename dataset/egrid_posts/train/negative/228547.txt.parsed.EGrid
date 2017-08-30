@@ -1,0 +1,9 @@
+               UMASK X - - -
+              FOLDER X - - -
+                ACLS - O - -
+                  +S - - X -
+                  +T - - S -
+                CANT - - - X
+             XSERVER - - - X
+                THIS - - - S
+             MONITOR - - - O

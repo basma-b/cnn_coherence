@@ -1,0 +1,14 @@
+                TIME - X - -
+              DEVICE - O - O
+           TRUECRYPT - X - -
+            PASSWORD - O - -
+               ERROR - O - -
+       DEVICE-MAPPER - X - -
+              RELOAD - X - -
+               IOCTL - S - -
+            ARGUMENT - X - -
+             COMMAND - S - -
+                  .. - O - -
+                 DAY - O - -
+           SOMETHING - O - -
+                 DEV - - O -

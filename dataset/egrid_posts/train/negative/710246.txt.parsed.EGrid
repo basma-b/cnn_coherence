@@ -1,0 +1,14 @@
+              KERNEL O - O O - - - - -
+             DEFAULT X - - - - - - - -
+             STARTUP - X - - - - - - -
+                MENU - X - - - - - - -
+ /BOOT/GRUB/GRUB.CFG - S - - S - - - -
+            GENERATE - X - - - - - - -
+                LOAD - - X - - - - - -
+                FILE - - X X S - - - -
+                THAT - - - - S - - - -
+        /ETC/INIT.D/ - - - - X - - - -
+             COMMAND - - - - O - - - -
+           DIRECTORY - - - - X - - - -
+             REMEBER - - - - - - O - -
+              LAPTOP - - - - - - - O -

@@ -1,0 +1,13 @@
+               ROUTE X - - -
+                ETH0 X - - -
+                ETH1 X - - -
+            IPTABLES X X - -
+                ROUT - S - -
+             NOTHING - O - -
+                SUDO - - X -
+                  SH - - X -
+                  -C - - S -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - O -
+            /DEV/SDB - - - S
+                 SDB - - - X
+                SDB1 - - - X

@@ -1,0 +1,10 @@
+              CONFIG X - - - - - -
+         LINUX-IMAGE X - - - - - -
+             DEFAULT - O - - - - -
+     /PROC/CONFIG.GZ - - X - - - -
+              KERNEL - - X - O - -
+             VSERVER - - - - O - -
+                SAME - - - - X - -
+               PATCH - - - - X - -
+           WIKIPEDIA - - - - - X -
+                  NO - - - - - - X

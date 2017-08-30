@@ -1,0 +1,13 @@
+                 ONE S - - -
+           PARTITION X - - X
+           OWNERSHIP O O - -
+              DEVICE X - - -
+           DIRECTORY X - - -
+             UNMOUNT - X - -
+         MOUNT-POINT - X O -
+                USER - S - -
+              MEMBER - X - -
+               GROUP - X - -
+                 NOW - - X -
+        PREREQUISITE - - - S
+               LABEL - - - O

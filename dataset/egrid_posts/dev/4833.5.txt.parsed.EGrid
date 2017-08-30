@@ -1,0 +1,17 @@
+            SHUTDOWN X - - - - - - -
+             COMMAND S - - - - - - -
+                WORK O - - - - - - -
+                ROOT X - - - - X - -
+              ACCESS X - - - - - - -
+            SECURITY - X - - - - - -
+                FLAW - O - - - - - -
+            DECISION - - S - - - - -
+                SUDO - - - - S - - -
+      /SBIN/SHUTDOWN - - - - O - - -
+          PRIVELEGES - - - - - S - -
+    /HOME/.ENCRYPTFS - - - - - - - X
+                NAME - - - - - - - O
+             PACKAGE - - - - - - - X
+     NAME_OF_PACKAGE - - - - - - - S
+                FILE - - - - - - - X
+              INSTAL - - - - - - - O

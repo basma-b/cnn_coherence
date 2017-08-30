@@ -1,0 +1,16 @@
+              FOLDER O - - -
+                USER X - - -
+         PERMISSIONS O O - -
+                ROOT - X - -
+                  FS - X - -
+           PARTITION - O X -
+                  HD - X - -
+                 WIN - X - -
+                NTFS - X - -
+                WHAT - O - -
+                 MAC - - X -
+                HFS+ - - X -
+                HTTP - - X -
+//VIAFORENSICS.COM/COMPUTER-FORENSIC-HOWTOS/HOW-TO-MOUNT-MAC-OS-X-HSF-PARTITION-IN-LINUX.HTML - - X -
+               LSPCI - - - O
+                 PCI - - - X

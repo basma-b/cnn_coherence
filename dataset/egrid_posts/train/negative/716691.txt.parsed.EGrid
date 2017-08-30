@@ -1,0 +1,15 @@
+               ENTRY X - - -
+               FSTAB X - - -
+           PARTITION X - - -
+                BOOT X - - -
+               OWNER X - - -
+                ROOT - X - -
+                PERM - X - -
+                HTTP - X - -
+            ANYTHING - O - -
+                USER - O - -
+             DEFAULT - X - -
+                 IVE - - S -
+            MONITPRS - - O -
+             MONITOR - - - O
+             SYSTEMS - - - X

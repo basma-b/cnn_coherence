@@ -1,0 +1,15 @@
+                CANT X - - - -
+                 IMG X - O - -
+                FILE O - S - X
+              LIVECD X - - - -
+               IOCTL - O - - -
+         LOOP_SET_FD - O - - -
+                 ARG - X - - -
+               ERROR - O - - -
+                   * - - S - -
+               IMAGE - - O - -
+                 ISO - - X - X
+                TYPE - - O - -
+                SAME - - X - -
+/HOME/YOU-USER-NAME/IMAGE-FILE - - - - X
+              OUTPUT - - - - X

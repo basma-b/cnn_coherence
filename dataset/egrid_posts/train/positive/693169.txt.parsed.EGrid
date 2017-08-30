@@ -1,0 +1,12 @@
+               ROUTE X - - - - - -
+                  -N X - - - - - -
+         DESTINATION X - - - - - -
+             0.0.0.0 S - - - - - -
+                LINE X - - - - - -
+           INTERFACE O - - - - - -
+             OPINION O - - - - - -
+                 WAY - - S - - - -
+              EXT-IF - - O - - - -
+                MAIL - - - O - - O
+                NAME - - - O - - -
+             PROBLEM - - - - X - -

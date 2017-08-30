@@ -1,0 +1,8 @@
+             MACHINE O - - -
+                BOOT X - - -
+            ACPI=OFF X - - -
+              KERNEL - X - -
+               IMAGE - - - O
+                DPKG - - - X
+                SLEW - - - X
+              UPDATE - - - X

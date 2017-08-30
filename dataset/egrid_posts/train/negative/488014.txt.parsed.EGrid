@@ -1,0 +1,16 @@
+                THAT O - - -
+                TYPE X - - -
+                ROOT X - X -
+                 HD0 X - - -
+                   X X - - -
+              KERNEL - X X -
+               PANIC - O X -
+                SYNC - - X -
+                 VFS - - X -
+              UNABLE - - X -
+                  FS - - O -
+       UNKNOWN-BLOCK - - X -
+                 0,0 - - X -
+                PAGE - - - X
+               START - - - S
+                SUCH - - - S

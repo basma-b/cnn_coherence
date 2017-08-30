@@ -1,0 +1,17 @@
+               DHCP3 X - - - - -
+               BIND9 X - - - - -
+                WORK X - - - - -
+            ETHERNET X - - - - -
+              BRIDGE O - - - - -
+                THAT - S - - - S
+           INTERFACE - - S - - -
+             ADDRESS - - O - - -
+                 HOP - - - S - -
+                 ISP - - - - X -
+                   > - - - - X -
+               LINUX - - - - X -
+                WIFI - - - - X -
+            24.1.2.3 - - - - X -
+                 WAY - - - - - O
+               LAYER - - - - - X
+                  .. - - - - - X

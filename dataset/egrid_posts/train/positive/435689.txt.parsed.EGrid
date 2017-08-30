@@ -1,0 +1,13 @@
+                 NET X - - - -
+                 LAN X - - - -
+                 WIN X - - - -
+             NETBIOS - S - - -
+            SMB/CIFS - S - - -
+        RESTRICTIONS - O - - -
+                 NFS - O - - -
+                BOTH - X - - -
+                 TCP - O - - -
+                UNIX - X - - -
+             SYSTEMS - X - - -
+                WORK - - - - X
+                HOME - - - - O

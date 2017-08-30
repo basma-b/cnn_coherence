@@ -1,0 +1,19 @@
+                THAT X X X - -
+              TUNNEL X - - - -
+               MYSQL X - - - -
+          CONNECTION X - - - -
+     TCPKEEPALIVE=NO X - - - -
+             SSHUSER X - - - -
+                 -NF X - - - -
+              SERVER O - - - -
+             COMMAND X - - - -
+               ERROR S - - - -
+               HY000 X - - - -
+              SOCKET X O - - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK O - - - -
+          ADDITIONAL X - - - -
+            COMMEAND - O - - -
+              CHANCE - - X - -
+              DOESNT - - - - X
+                WORK - - - - X
+                  .. - - - - O

@@ -1,0 +1,15 @@
+          HTTP_PROXY O - - - - -
+                 USE X - - - - -
+         HTTP_PROXY= - X - - - -
+                HTTP - O - - - -
+              //HOST - X - - - -
+                PORT - X - - - -
+                FILE - X - - - -
+                LOAD - O - - - -
+                THIS - - X - - -
+             NOTHING - - - S - -
+        APPLICATIONS - - - S - -
+               PROXY - - - X - -
+            OPTIONAL - - - X - -
+                USER - - - X - -
+  /HOME/USER/PROFILE - - - - - X

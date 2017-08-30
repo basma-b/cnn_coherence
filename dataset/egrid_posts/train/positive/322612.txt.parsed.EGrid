@@ -1,0 +1,13 @@
+                PORT O - - - - - X
+                SITE S - - - - - -
+              APACHE - X - - - - S
+                 RUN - X - - - - -
+             NETSTAT - - - - X - O
+           -LPN|GREP - - - - S - -
+             MESSAGE - - - - - X -
+                LINE - - - - - X -
+                THAT - - - - - - X
+              SOCKET - - - - - - O
+  /ETC/INIT.D/APACHE - - - - - - S
+                   * - - - - - - O
+              ERRORS - - - - - - X

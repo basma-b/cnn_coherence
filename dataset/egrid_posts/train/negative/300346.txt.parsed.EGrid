@@ -1,0 +1,20 @@
+                INFO - S S - - - - - -
+      LIBGTK-X11-2.0 - - - O - - - - -
+              SYSTEM - - - X - - - - -
+/USR/LIB/LIBGTK-X11-2.0.SO.0 - - - X - - - - -
+                SHOW - - - O - - - - -
+LIBGTK-X11-2.0.SO.0.800.20 - - - O - - - - -
+                 LIB - - - X - - - - -
+             SYMLINK - - - - X O - - -
+                FILE - - - - - X - - -
+                THAT - - - - - - - - X
+                 USE - - - - - - - - X
+              DRIVER - - - - - - - - O
+              BINARY - - - - - - - - O
+              NVIDIA - - - - - - - - X
+                 ATI - - - - - - - - X
+                CARD - - - - - - - - S
+            MODPROBE - - - - - - - - X
+              KERNEL - - - - - - - - X
+               LEVEL - - - - - - - - X
+                DONT - - - - - - - - S

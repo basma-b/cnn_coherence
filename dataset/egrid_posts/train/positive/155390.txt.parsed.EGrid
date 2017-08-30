@@ -1,0 +1,21 @@
+               SETUP X - -
+             ARCHIVE X - -
+             MANAGER X - -
+                FILE O - -
+             APT-GET - S -
+                 RAR - S -
+               BREAK - X -
+                ^^^^ - S -
+                REPO - X -
+                  OK - S -
+                  IM - S -
+/ETC/APT/SOURCES.LIST - O -
+                HTTP - X -
+          MULTIVERSE - - O
+                WORD - - X
+               REPOS - - X
+            UNIVERSE - - X
+             INFRONT - - O
+                LINE - - X
+                 DEB - - X
+               CDROM - - O

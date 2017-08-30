@@ -1,0 +1,16 @@
+                THAT O - - - -
+               SHELL S - - - -
+                FILE O - - - -
+                 ESD - S - - -
+                ALSA - X - - -
+                 OSS - X - - -
+              COMPAT - X - - -
+           INTERFACE - X - - -
+               MIXER - O - - -
+              KERNEL - X - - -
+              MODULE - O - - -
+              DRIVER - - X - -
+              OUTPUT - - X - -
+              DEVICE - - S - -
+                   * - - - - S
+              COURSE - - - - X

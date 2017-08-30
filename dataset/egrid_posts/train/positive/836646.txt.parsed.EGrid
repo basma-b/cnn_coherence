@@ -1,0 +1,21 @@
+             VERSION X - - - - - - -
+                SUDO X X - - X - - -
+             APT-GET S S - - S - - -
+             PACKAGE - X - - - - - -
+                OUPS - O - - - - - -
+                FILE - - X S X - - -
+              FOLDER - - - O X O - -
+                  OK - - - - O - - -
+                LIST - - - - X - - -
+                DKMS - - - - O - - -
+           RUN-PARTS - - - - O - - -
+             VERBOSE - - - - X - - -
+       EXIT-ON-ERROR - - - - X - - -
+       ARG=2.6.38-10 - - - - X - - -
+/ETC/KERNEL/HEADER_POSTINST.D/2.6.38-10 - - - - O - - X
+                THIS - - - - S - - -
+             COMMAND - - - - O - - -
+               ERROR - - - - S - - -
+           DIRECTORY - - - - X - - -
+                TEST - - - - X - - -
+LINUX-HEADERS-GENERIC - - - - O - - -

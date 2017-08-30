@@ -1,0 +1,10 @@
+                 CMD S - - -
+                TYPE X - - -
+                 ZIP X - - -
+                FILE O - - -
+           DIRECTORY X - - O
+          /TEMPLATES X - - -
+               UNZIP - - X -
+                  -D - - S -
+/PATH/TO/ZIPFILE.ZIP - - O -
+          EXTRACTION - - - X

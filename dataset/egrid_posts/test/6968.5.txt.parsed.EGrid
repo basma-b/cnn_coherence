@@ -1,0 +1,10 @@
+            TERMINAL X -
+                TYPE X -
+                  IP S -
+                ADDR O -
+                FILE O -
+                 YES O -
+              SYSLOG X -
+                SUDO - X
+             APT-GET - S
+FLASHPLUGIN-INSTALLER - O

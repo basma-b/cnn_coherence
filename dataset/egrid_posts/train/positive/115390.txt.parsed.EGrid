@@ -1,0 +1,10 @@
+                NAME O - - -
+               MOUNT X - - -
+              SCRIPT X O - -
+           PARTITION O - - -
+          /ETC/FSTAB - - S O
+             COMMAND - - O -
+                  -A - - S -
+                FLAG - - X -
+          EVERYTHING - - O -
+                BOOT - - X -

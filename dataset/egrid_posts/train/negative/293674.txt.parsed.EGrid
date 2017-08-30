@@ -1,0 +1,7 @@
+       .BASH_PROFILE S - - - -
+           .XSESSION S - - X -
+                  NO - - O - -
+               SHELL - - - X -
+           .XPROFILE - - - X -
+              SOURCE - - - O -
+                 HEH - - - - S

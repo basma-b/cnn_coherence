@@ -1,0 +1,20 @@
+                THAT O - - - - S -
+              CLIENT O - - - - - -
+                FILE X - - - - - -
+              SYSTEM X - - - - - -
+                LINK O X O - - - -
+              SERVER X - - - - - -
+                 FTP - S - - - - -
+            PROTOCOL - O - - - - -
+             PROFTPD - S S - - - -
+            FTP-USER - X - - - - -
+                 USE - - X X - - -
+                USER - - X - - - -
+                PATH - - X - - - -
+              CHROOT - - O - - - -
+                WORK - - X - - - -
+                HTTP - - - O - - -
+//WWW.CASTAGLIA.ORG/PROFTPD/DOC/CONTRIB/PROFTPD-MINI-HOWTO-CHROOT.HTML - - - S - - -
+              DETAIL - - - X - - -
+                BIND - - - O - - -
+                 DIR - - - - - - O

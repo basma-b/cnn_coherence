@@ -1,0 +1,27 @@
+                  IM S - - - - - -
+               FSTAB O - - - - - -
+           PARTITION O - X - - X -
+                TYPE X - - - - O -
+                NAME - O - - - - -
+                KIND - - X - - - -
+               LINUX - - - S - - -
+               LOGIC - - - X - - -
+              EXTEND - - - X - - -
+           /DEV/HDA5 - - - - - X -
+                   < - - - - - S -
+          MOUNTPOINT - - - - - X -
+                   > - - - - - O -
+             DEFAULT - - - - - O -
+              THINGS - - - - - O -
+                FILE - - - - - X -
+                 ERM - - - - - - S
+              KERNEL - - - - - - S
+             PROCESS - - - - - - X
+                DATA - - - - - - X
+                GTK2 - - - - - - O
+  /ETC/X11/XORG.CONF - - - - - - O
+                HTTP - - - - - - X
+//PASTE.UBUNTU-NL.ORG - - - - - - X
+               VIDEO - - - - - - X
+                CARD - - - - - - X
+                 WAY - - - - - - X

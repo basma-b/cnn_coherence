@@ -1,0 +1,17 @@
+              ANYONE S - - -
+             COMMAND X - - -
+             PACKAGE X - - -
+                 ATI S - - -
+               VIDEO X X - -
+                CARD S O - -
+                 USE O - - -
+               LSPCI - X - -
+               |GREP - X - -
+                  -I - S - -
+                  CD - - - S
+                FILE - - - O
+          BOOTLOADER - - - O
+              KERNEL - - - O
+                 TAR - - - X
+               -XVJF - - - X
+         FOO.TAR.BZ2 - - - X

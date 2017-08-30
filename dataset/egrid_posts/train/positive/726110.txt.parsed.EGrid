@@ -1,0 +1,15 @@
+             SOMEONE X - - -
+                TYPE X - - -
+             COMMAND X - - -
+              SERVER X - - -
+                  GO O - - -
+                THAT - - O -
+                ROOT - - S -
+              ACCESS - - O -
+                SUDO - - X -
+             APT-GET - - S -
+      OPENSSH-SERVER - - O -
+             SERVICE - - O X
+             PACKAGE - - S -
+                BOOT - - - X
+                 SSH - - - S

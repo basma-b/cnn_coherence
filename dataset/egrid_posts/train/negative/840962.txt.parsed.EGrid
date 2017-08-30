@@ -1,0 +1,12 @@
+                 PHP S - - -
+              THREAD S - - -
+             PREFORK X - - -
+               MODEL O - - -
+              APACHE X - - -
+             FASTCGI X - - -
+        /ETC/SUDOERS - X - -
+           POTENTIAL - - - O
+               ISSUE - - - O
+             DEVICES - - - S
+                 BAT - - - X
+               SLACK - - - X

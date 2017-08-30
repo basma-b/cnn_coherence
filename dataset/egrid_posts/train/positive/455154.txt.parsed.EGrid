@@ -1,0 +1,11 @@
+               CDROM X - X O
+              INSERT X - - X
+                  CD O - - O
+                DONT - S - -
+                DATA - X X -
+                 CDS - S - -
+              DOESNT - - S -
+ HAL-DISABLE-POLLING - - X -
+              DEVICE - - X -
+           /DEV/SCD0 - - X -
+      ENABLE-POLLING - - X -

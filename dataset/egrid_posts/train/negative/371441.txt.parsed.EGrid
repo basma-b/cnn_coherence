@@ -1,0 +1,15 @@
+                BIND X - - - -
+            IPTABLES X - - - -
+                 NAT X - - - -
+                  -A S - - - -
+                 TCP O - - - -
+                  -J X - - - -
+            REDIRECT X - - - -
+                  IP X - - - -
+                   $ - S - - -
+                 USE - X - - -
+              SOURCE - X - - -
+            ARGUMENT - X - - -
+           INTERFACE - X - - -
+               PLACE - O - - -
+                THAT - - - - X

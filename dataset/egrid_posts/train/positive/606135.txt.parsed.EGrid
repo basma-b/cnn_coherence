@@ -1,0 +1,15 @@
+             COMMAND X - - -
+                 PHP S - S -
+              MODULE X - - -
+       CONFIGURATION X - - -
+              INSTAL X - - -
+             VERSION - X - -
+                SHOW - X - -
+               30MIN - - S -
+    5.2.6-3UBUNTU4.1 - - O -
+       SUHOSIN-PATCH - - X -
+                 CLI - - X -
+                 APR - - X -
+            14:35:05 - - X -
+              ERRORS - - - O
+/VAR/LOG/APACHE2/ERROR.LOG - - - X

@@ -1,0 +1,7 @@
+           AUTOMOUNT X - -
+           PARTITION X - X
+         NTFS-CONFIG - X -
+          /ETC/FSTAB - X -
+                LINE - - O
+               FSTAB - - X
+                HELP - - O

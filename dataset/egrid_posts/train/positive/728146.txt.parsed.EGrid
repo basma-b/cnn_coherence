@@ -1,0 +1,12 @@
+           PARTITION O - - - O - -
+                EXT4 X - - - - - -
+               SPACE X - - - - - -
+             WINDOWS X - - - - - -
+                DATA O - - - - - -
+            ANYTHING O - - - - - -
+                THIS - X - - - - X
+             GPARTED - X - - - - -
+                BOOT - - - X - X -
+                  CD - - - X - O X
+               ORDER - - - - - X -
+                ROOT - - - - - X -

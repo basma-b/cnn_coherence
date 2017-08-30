@@ -1,0 +1,10 @@
+               PROXY X - - - -
+             COMMAND X - - - -
+                LINE X - - - -
+        APPLICATIONS X - - - -
+         HTTP_PROXY= - X X - -
+                HTTP - X - - -
+               //XXX - X - - -
+              DIRECT - X - - -
+              EXPORT - - X - -
+          HTTP_PROXY - - - - X

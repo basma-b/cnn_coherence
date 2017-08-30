@@ -1,0 +1,13 @@
+              ANYONE X - - - -
+           AUTOMOUNT X - - - -
+              DEVICE X - - - -
+          /ETC/FSTAB O - - - -
+               MOUNT - X - - -
+               POINT - O - - -
+               LOCAL - S - - -
+                FLAG - X - - -
+                TEXT - - - X -
+              EDITOR - - - X -
+                SUDO - - - - O
+                 GUI - - - - X
+                ONES - - - - S

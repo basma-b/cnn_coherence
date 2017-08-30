@@ -1,0 +1,21 @@
+              MODEMS S - - - - - -
+                 IPS O - - - - - -
+               MODEM S S S - X - -
+                DHCP S - - X - - -
+              CONFIG O - - - - - -
+              ROUTER X - - X - - -
+           INTERFACE X - - - - - -
+           COMPUTERS - S - - - - -
+              SWITCH - X - - - - -
+                PORT - - X X - - -
+                  'S - - O - - - -
+            INTERNET - - X X - - -
+PORTS/SWITCHES/WHATEVER - - - X - - -
+                 WAY - - - O - - -
+           192.168.0 - - - X - - -
+         192.168.1.1 - - - X - - -
+         192.168.0.1 - - - - X - -
+             ADDRESS - - - - X - -
+             GATEWAY - - - - X - -
+                WORK - - - - - - X
+                FINE - - - - - - O

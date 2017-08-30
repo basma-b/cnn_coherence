@@ -1,0 +1,18 @@
+             KUBUNTU X - - - O -
+          CONSOLEKIT O - - - - -
+              SOCKET X - - - - -
+/VAR/RUN/DBUS/SYSTEM X - - - - -
+                 BUS X - - - - -
+                FILE X - - - - -
+           DIRECTORY X - - - - -
+              SYSTEM - X - - - -
+              NORMAL - - S - - -
+                BOOT - - - X - -
+              DETAIL - - - S - -
+              REPEAT - - - O - -
+            ROLLBACK - - - O - -
+                  NO - - - - S -
+               ERROR - - - - O -
+               USERS - - - - S -
+              UBUNTU - - - - O -
+               CACHE - - - - - O

@@ -1,0 +1,14 @@
+                  HW S - - - - -
+                TEMP O - - - - -
+          LM-SENSORS - X - - - -
+              VOLUME - - X - - -
+              SYSTEM - - X - - -
+                   > - - X - - -
+         PREFERENCES - - X - - -
+               SOUND - - X - - -
+               ERROR - - X - - -
+        AUDIOTESTSRC - - S - - -
+            FREQ=512 - - O - - -
+      GCONFAUDIOSINK - - - - - X
+              DEVICE - - - - - O
+            PLAYBACK - - - - - X

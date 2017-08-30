@@ -1,0 +1,32 @@
+                BOOT X - - - - - - - - - - - -
+              OPTION X - - - - - - - - - - - -
+            ACPI=OFF X - - - - - - - - - - - -
+               DRIVE X - - - - - - - - - - - -
+                GRUB - X - - - - - - - - - - -
+                MENU - X - - - - - - - - - - -
+                   E - X - - - - - - - - - - -
+               ENTRY - O - - - - - - - - - - -
+              KERNEL - - O - - - - - - - - - -
+            MENU.LST - - O - - - - - - - - - -
+                 END - - X - - - - - - - - - -
+                LINE - - X - - - - - - - - - -
+                  OS - - - - X - - - - - - - -
+                ACPI - - - - O - - - - - - - -
+                IDEA - - - - - O - - - - - - -
+            POSSIBLE - - - - - - X - - - - - -
+                DONT - - - - - - S - - - - - -
+          CONNECTION - - - - - - O - - - - - -
+              MATTER - - - - - - - O - - - - -
+                  .. - - - - - - - X - - - - -
+/HOME/USER/PUBLIC/WWW - - - - - - - - O - - - -
+                ROOT - - - - - - - - O - - - X
+          SUBFOLDERS - - - - - - - - S - - - -
+                WORK - - - - - - - - O - - - -
+                TEST - - - - - - - - X - - - -
+           WEBSERVER - - - - - - - - X - - - -
+                THAT - - - - - - - - - - S - -
+             EXAMPLE - - - - - - - - - - - - X
+/HOME/USER/PUBLIC/WWW/SITEB - - - - - - - - - - - - X
+           DIRECTORY - - - - - - - - - - - - X
+              APACHE - - - - - - - - - - - - X
+                USER - - - - - - - - - - - - X

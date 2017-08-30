@@ -1,0 +1,17 @@
+               ERROR O - - -
+                FILE X - - -
+           DIRECTORY X - - -
+                   < O - - -
+            HOSTLIST X X - -
+                   > X X - -
+           SCRIPT.SH S - - -
+   PATH/TO/SCRIPT.SH X X - -
+                TEST - S - -
+                PATH - X - -
+              DOESNT - X - -
+                WORK - X - -
+                 DSH - - S -
+                WELL - - X -
+          PARAMETERS - - O -
+            COMPUTER - - X -
+           PASSWORDS - - X -

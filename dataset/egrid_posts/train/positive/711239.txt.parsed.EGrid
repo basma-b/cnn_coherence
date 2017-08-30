@@ -1,0 +1,9 @@
+           PARTITION X - - - -
+              FORMAT O - - - -
+                EXT3 X - X - -
+                DATA - S S - -
+                LOSE - - O - -
+               PLACE - - X - -
+             UPGRADE - - O - -
+             SOMEONE - - X - -
+                EXT4 - - - - X

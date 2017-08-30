@@ -1,0 +1,16 @@
+               FSTAB X X -
+               THING S - -
+               DRIVE X X -
+             COMMAND S - -
+                ROOT - O -
+                EXT2 - O -
+                SAKE - X -
+          SUPERBLOCK - X -
+                   < - X -
+              NUMBER - X -
+                   > - X -
+               ORDER - S -
+                COPY - O -
+               BLOCK - X -
+                INFO - X -
+                BASH - - X

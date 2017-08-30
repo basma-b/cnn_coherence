@@ -1,0 +1,12 @@
+           AUTOLOGIN S - - -
+                WORK O - - -
+                 GDM - S - -
+              SYSTEM - X - -
+              BOOTUP - X - -
+            PROGRESS - X - -
+                BOOT - X - -
+      AUTHENTICATION - X - -
+              DETAIL - X - -
+AUTOMATICLOGIN=MYUSERNAME - - - O
+   /ETC/GDM/GDM.CONF - - - X
+AUTOMATICLOGINENABLE=TRUE - - - X

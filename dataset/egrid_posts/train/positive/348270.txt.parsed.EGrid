@@ -1,0 +1,14 @@
+                  IP X - - - - - - - -
+         NON-PRIVATE - X - - - - - - -
+             169.254 - - S - - - - - -
+             192.168 - - X - - - - - -
+            AUTOCONF - - X - - - - - -
+           SOMETHING - - S - - - - - -
+                DHCP - - X - - - - - -
+              OUTPUT - - O - - - - - -
+            IFCONFIG - - X - - - - - -
+            TERMINAL - - X - - - - - -
+                SECS - - - X - - - - -
+                ETH0 - - - X - - - - -
+           INTERFACE - - - X - - - - -
+             PACKETS - - - - - O - - -

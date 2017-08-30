@@ -1,0 +1,17 @@
+                 TWO S - - - - - - - -
+         METAPACKAGE - X - - - - - - -
+           DEVELOPER - X - - - - - - -
+                TOOL - X - - - - - - -
+               BASIC - - S - - - - - -
+           AUTOTOOLS - - X - - - - - -
+                META - - - - X - - - -
+              NUMBER - - - - X - - - -
+             PACKAGE - - - - X - - - -
+                 X11 - - - - X - - - -
+           LIBRARIES - - - - O - - - -
+              SERVER - - - - X - - - O
+           GRAPHICAL - - - - X - - - -
+               START - - - - X - - - -
+                XORG - - - - - X - - -
+              SCRIPT - - - - - X - - -
+     BUILD-ESSENTIAL - - - - - - X - -

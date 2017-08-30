@@ -1,0 +1,10 @@
+              KERNEL X - -
+               ENTRY O - -
+                 TOP X - -
+                GRUB X - -
+             DEFAULT - O -
+ /BOOT/GRUB/MENU.LST - X -
+                THIS - - O
+              RCCONF - - O
+                 GDM - - X
+              UBUNTU - - O

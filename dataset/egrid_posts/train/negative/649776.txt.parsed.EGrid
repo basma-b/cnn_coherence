@@ -1,0 +1,15 @@
+             MACHINE X X - - - -
+                 RUN O - - - - -
+                HOME X - - - - -
+             NETWORK X - - - - -
+             PACKAGE - X - - - -
+             UPGRADE - O - - - -
+               CACHE - X - - - -
+              MIRROR - - O - - -
+          APT-CACHER - - - X - -
+           APT-MIROR - - - X - -
+                   * - - - X - -
+          APT-MIRROR - - - O - -
+             COMMAND - - - X - -
+                TAKE - - - S - -
+               IDEAS - - - - - O

@@ -1,0 +1,16 @@
+              DEVICE X - - - - - - - -
+         PERMISSIONS X - - - - - X - -
+                RULE - X - - - - - - -
+                THAT - - X - X - - - -
+/ETC/UDEV/PERMISSION.RULES - - - X - - - - -
+                LOOK - - - - - S - - -
+                FILE - - - - - X O - -
+              UBUNTU - - - - - X - - -
+           DIRECTORY - - - - - X - - -
+                 AER - - - - - - S - -
+              BROWSE - - - - - - O - -
+                USER - - - - - - X - -
+               GROUP - - - - - - O - -
+                GREP - - - - - - - - X
+                MODE - - - - - - - - S
+                  -R - - - - - - - - O

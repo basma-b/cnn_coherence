@@ -1,0 +1,12 @@
+ LIBCURL4-GNUTLS-DEV X - - - - -
+LIBCURL4-OPENSSL-DEV S - - - - -
+         LIBCURL-DEV X - - - - -
+            CONFLICT O - - - - -
+               OTHER X - - - - -
+               CATCH - O - - - -
+/USR/LOCAL/BIN/PKG-CONFIG - - O - - -
+                HMMM - - - S - -
+                BITE - - - X - -
+               STUFF - - - S - -
+                CPUS - - - X - -
+                 DOH - - - - X -

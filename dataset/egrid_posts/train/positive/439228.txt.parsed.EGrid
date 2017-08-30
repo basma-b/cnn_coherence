@@ -1,0 +1,24 @@
+                READ S - - - - -
+               DRIVE X - - X - X
+                TIME - S - - - -
+                 HDS - X - - - -
+            /DEV/SDA - X O X - -
+               UUIDS - O - - - -
+                IDEA - - S - - -
+                CODE - - O - - -
+             COMMAND - - - O - -
+            TERMINAL - - - X - -
+                UUID - - - S - O
+               UNICE - - - X - -
+                  ID - - - O - -
+                BASE - - - X - -
+          PARAMETRES - - - X - -
+                /SDA - - - X - -
+                 SDB - - - X - -
+            PARTIONS - - - S - -
+              NUMBER - - - O - -
+UUID=WHATEVERNUMBERS - - - O - -
+              CONCKY - - - - X -
+               YEARS - - - - X -
+           PARTITION - - - - - O
+                 WAY - - - - - X

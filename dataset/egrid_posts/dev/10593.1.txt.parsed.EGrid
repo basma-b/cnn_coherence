@@ -1,0 +1,15 @@
+                HELP S - - - -
+               SHELL X - - - -
+              SCRIPT O - - - -
+              EDITOR X - - - -
+                DONT - - X - -
+             COMMAND - - O - -
+                TIME - - - S -
+                THEN - - - O -
+                  CD - - - X -
+             FOLDERS - - - X -
+                LIST - - - X -
+              FOLDER - - - X X
+             CONTENT - - - X -
+                TYPE - - - - X
+./THEFILEYOUWANTTORUN - - - - X

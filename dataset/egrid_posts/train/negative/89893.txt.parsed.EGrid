@@ -1,0 +1,8 @@
+         RECONFIGURE X - -
+                GRUB X - -
+LISTORDENING/BOOTTIME X - -
+ /BOOT/GRUB/MENU.LST - O -
+              SCRIPT - O -
+                  DD - - X
+        IF=/DEV/ZERO - - X
+         OF=/DEV/HD0 - - S

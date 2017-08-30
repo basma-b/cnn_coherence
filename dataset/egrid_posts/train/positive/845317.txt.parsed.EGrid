@@ -1,0 +1,14 @@
+             SOMEONE X - - -
+           PARTITION O - O -
+          FILESYSTEM - - X -
+                TYPE - - S -
+                EXT3 - - O -
+                EXT4 - - O -
+              OPTION - - X -
+          SUPERBLOCK - - X -
+           /DEV/SDB3 - - X -
+                DISK - - O X
+                BOOT - - X -
+             MACHINE - - X -
+                  .. - - O -
+              SYSTEM - - - X

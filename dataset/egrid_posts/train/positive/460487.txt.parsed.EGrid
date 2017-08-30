@@ -1,0 +1,13 @@
+             DEFAULT X X - - - -
+         PERMISSIONS S - - - O -
+               NEWLY X - - - - -
+                FILE O - - - S -
+              FOLDER X - - - - -
+               WORLD - X - - - -
+                ROOT - X - - X -
+                 MAN - - S - - -
+               CHMOD - - - - S -
+                THIS - - - - S -
+             VERYONE - - - - S -
+              SCRIPT - - - - S -
+                 END - - - - X -

@@ -1,0 +1,20 @@
+              KERNEL - X - - O
+             HEADERS - O - - -
+              VMWARE - O - - -
+              SERVER - S O - X
+               ERROR - X - - -
+/USR/LIB/VMWARE/BIN/VMWARE - O - - -
+/USR/LIB/VMWARE/LIB/LIBPNG12.SO.0/LIBPNG12.SO.0 - O - - -
+             VERSION - X - - -
+         INFORMATION - O - - -
+/USR/LIB/LIBCAIRO.SO.2 - X - - -
+                BIND - O - - -
+                 CLI - X - - -
+                TOOL - - O - -
+               LINUX - - X - -
+              UPDATE - - - - X
+              INSTAL - - - - O
+              UBUNTU - - - - X
+              CONFIG - - - - X
+              SCRIPT - - - - O
+                FILE - - - - O

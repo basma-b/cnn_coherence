@@ -1,0 +1,25 @@
+               ERROR - O - - - - - - -
+                SITE - X - - - - - - -
+                FILE - O - - - - - - -
+                .PHP - X - - - - - - -
+             WARNING - X - - - - - - -
+               FOPEN - S - O - - - - -
+         APPLES0.TXT - X - - - - - - -
+              STREAM - O - - - - - - -
+          PERMISSION - S - - - - - - -
+/VAR/WWW/APPLES/INDEX.PHP - X - - - - - - -
+                LINE - X - - - - - - -
+         PERMISSIONS - X - - - - - - -
+              ANYONE - - X - - - - - -
+              CHANCE - - - X - - - - -
+           WEBHOSTER - - - S - - - - -
+                HOST - - - X - - - - -
+              SERVER - - - O - - - - -
+             PREMISE - - - - X - - - -
+          DATACENTER - - - - - X S - -
+             CONTROL - - - - - O O - -
+             APACHE2 - - - - - - X - -
+                THIS - - - - - - - - X
+     ALLOW-URL-FOPEN - - - - - - - - X
+           SOMETHING - - - - - - - - O
+                 INI - - - - - - - - X

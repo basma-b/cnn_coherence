@@ -1,0 +1,15 @@
+        SPEAKER-TEST S - - - - - - - - - -
+               ERROR O - - - - - - - - - -
+                HTTP X - - - - - - - - - -
+                CARD - S O - - - - - - - -
+               AUDIO - - X - - - - - - - -
+       CONFIGURATION - - X - - - - - - - -
+                FILE - - X - - - - - - - -
+                SHOW - - S - - - - - - - -
+                DATA - - O - - - - - - - -
+               SOUND - - - - X - - - - - -
+                WELL - - - - S - - - - - -
+//ALSA.OPENSRC.ORG/DMIXPLUGIN - - - - S - - - - - -
+            TERMINAL - - - - - - X - - - -
+             APT-GET - - - - - - X - - - -
+                HEAD - - - - - - - - - - X

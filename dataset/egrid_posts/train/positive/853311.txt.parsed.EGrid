@@ -1,0 +1,26 @@
+               11.04 O - - - -
+                BOOT X - - - -
+               POINT O - - - -
+              SCREEN X - - - -
+                  GO S - - - -
+              MD5SUM O - - - -
+                FILE X - - - -
+             LIVEUSB O X - O -
+            COMPUTER - X - - -
+                 ISO - - X - -
+               WIFES - - X - -
+              LAPTOP - - X - -
+                  OK - - O - -
+             CULPRIT - - S - -
+            KEY/DISK - - X - -
+             PROCESS - - X - -
+           INITRAMFS - - S - -
+          /DEV/LOOP0 - - S - -
+//FILESYSTEM.SQUASJFS - - X - -
+              DEVICE - - S - -
+/CDROM/CASPER/FILESYSTEM.SQUASHFS - - O - -
+//FILESYSTEM.SQUASHFS - - X - -
+              SYSTEM - - - S -
+                DATA - - - O -
+                DISK - - - X -
+             WINDOWS - - - X -

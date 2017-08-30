@@ -1,0 +1,46 @@
+             DEFAULT X - - - - - -
+         NTFS-CONFIG - O - - - - -
+           PARTITION - O - - - - -
+          PERMISSION - X - - - - -
+                LINE - S O O S - -
+                LIST - X O O X - -
+                   > - X - - - - -
+       /PATH/TO/LIST - O - - - - -
+              SCRIPT - S X X - - -
+/ETC/APT/SOURCES.LIST - X - - - - -
+              EDITOR - X - - - - -
+                 PPA - X - - - - -
+                  YA - - S - - - -
+              OPTION - - O - - - -
+              UPDATE - - O - - - -
+                SUDO - - X - - - X
+                  SH - - X - - - -
+                  -C - - S - - - -
+                 LOT - - O - - - -
+                BASH - - X - - - -
+                 WAY - - X O - - -
+                SH-C - - X - - - -
+                THIS - - - S S S O
+                HTTP - - - O O O X
+                   | - - - O - - -
+                 DEB - - - X - X X
+               /PATH - - - X - - -
+             ANOTHER - - - S - - -
+                WGET - - - X - - -
+                THAT - - - - X - -
+                 ONE - - - - S - -
+               THERE - - - - S - -
+              CHANGE - - - - X - -
+                  \N - - - - O - -
+                PPAS - - - - X - -
+//PPA.LAUNCHPAD.NET/DELUGE-TEAM/PPA/UBUNTU/ - - - - X - -
+                 -SC - - - - X - -
+              OUTPUT - - - - X - -
+                 END - - - - - X -
+                CODE - - - - - O -
+                MAIN - - - - - X -
+               YOURS - - - - - S -
+/ETC/APT/SOURCE.LISTS - - - - - - X
+                 USE - - - - - - X
+                  .. - - - - - - X
+       //ANOTHER-ONE - - - - - - X

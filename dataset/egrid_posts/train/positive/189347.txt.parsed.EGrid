@@ -1,0 +1,16 @@
+              MODULE X - - - - - -
+               START X - - - - - -
+                BOOT X - - - - - -
+              RADEON - X X - - - -
+              DRIVER - X S - - O -
+           INTEL_AGP - - X - - - -
+             AGPGART - - X - - - -
+            ANYTHING - - O - - - -
+              RENDER - - O - - - -
+             SUPPORT - - - O - - -
+                   X - - - - - X -
+              CONFIG - - - - - S -
+                 USE - - - - - X -
+                 MAN - - - - - - X
+              DEPMOD - - - - - - X
+            MODPROBE - - - - - - X

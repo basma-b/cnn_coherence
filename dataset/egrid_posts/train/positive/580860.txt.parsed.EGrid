@@ -1,0 +1,12 @@
+               ARRAY X - - - - - - -
+                 HMM - S - - - - - -
+                WHAT - X - - - - - -
+             RAID5.1 - - X - - - - -
+                  NO - - - X - - - -
+        REMOVE/PURGE - - - O - - - -
+        DEPENDENCIES - - - O - - - -
+             PACKAGE - - - X - - - O
+           REINSTALL - - - X - - - -
+                 ONE - - - - X X - -
+            RECOVERY - - - - - - - X
+                MODE - - - - - - - X

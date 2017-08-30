@@ -1,0 +1,15 @@
+                |XON - - X - - -
+              DD-WRT - - X - - -
+                 USE - - - X - -
+                 QOS - - - X - -
+               SETUP - - - X - -
+            WIRELESS - - - X - -
+              BRIDGE - - - X - -
+          /ETC/HOSTS - - - - - O
+         INFORMATION - - - - - X
+           127.0.0.1 - - - - - X
+      SYNTAX-DESKTOP - - - - - X
+           127.0.1.1 - - - - - S
+                LINE - - - - - X
+                NAME - - - - - O
+             MACHINE - - - - - X

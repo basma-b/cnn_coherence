@@ -1,0 +1,29 @@
+                 ALL X - - - - - - - - - -
+              VMWARE - X - - - - - O - - -
+              SERVER - O - - O - - - - - -
+              UBUNTU - X - - - - - - - - -
+            SECURITY - - X - - - - - - - -
+              UPDATE - - O - - - - - - - -
+                FILE - - O O O - - - - - -
+/LIB/MODULES/2.6.28-11-GENERIC/MISC - - X - X - - - - - -
+                  VM - - X - - - - - - - -
+             NETWORK - - X - - - - - - - -
+        CONNECTIVITY - - O - - - - - - - -
+                THAT - - - S - S - - S - -
+              BACKUP - - - X - - - - - - -
+                WORK - - - X - - - - - - -
+          WORKAROUND - - - - S - - - - - -
+/LIB/MODULES/2.6.28-11-GENERIC/MISC/ - - - - - S - - - - -
+               IDEAS - - - - - - X - - - -
+         RECONFIGURE - - - - - - - X - - -
+                TYPE - - - - - - - - X - -
+                SUDO - - - - - - - - X - -
+          ANY-TO-ANY - - - - - - - - X - -
+               PATCH - - - - - - - - S - -
+              KERNEL - - - - - - - - O - S
+             MODULES - - - - - - - - O - -
+                  .. - - - - - - - - X - -
+    VMWARE-CONFIG.PL - - - - - - - - - X -
+               THATS - - - - - - - - - S -
+               PLACE - - - - - - - - - X -
+                CANT - - - - - - - - - - S

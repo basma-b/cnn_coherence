@@ -1,0 +1,15 @@
+           DIRECTORY O O - - - -
+                GREP - S - - S -
+                   * - O - - X -
+                 LOG - X - - X -
+               THERE - X - - - -
+              SWITCH - X - - - -
+        SUBDIRECTORY - X - - - -
+                  -R - - - - O -
+                 FOO - - - - X -
+                 MAN - - - - X -
+               -RSB- - - - - O -
+                NAME - - - - X -
+          CONVENTION - - - - O -
+  EXCLUDE-DIR=LOGDLL - - - - O -
+               THANK - - - - - X

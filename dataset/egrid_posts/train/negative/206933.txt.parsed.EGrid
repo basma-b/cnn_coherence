@@ -1,0 +1,13 @@
+                TIME S - - - - - -
+                BOOT X - - - - - -
+            MODPROBE O - - - - - -
+               MODEM O - - - - - -
+             PROCESS - S - - - - -
+             COMMAND - - O - - - -
+             STARTUP - - X - - - -
+       /ETC/RC.LOCAL - - X - - - -
+                SUDO - - X - - - -
+                  .. - - X - - - -
+                NANO - - X - - - -
+                OOPS - - - - - X -
+              CHANCE - - - - - - S

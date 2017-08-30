@@ -1,0 +1,12 @@
+             COMMAND S - - - -
+                SUDO X - - - -
+   DISPLAYCONFIG-GTK S - - - -
+            TERMINAL X - - - -
+                 USE X - - - -
+            GRAPHICS X X - - -
+            HARDWARE O - - - -
+             DRIVERS - S - - -
+                CARD - X - - -
+              DRIVER - - - O -
+              SYSTEM - - - X -
+              IDEALS - - - O -

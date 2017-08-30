@@ -1,0 +1,22 @@
+               NATTY - X - - - - -
+                ROOT - X - - - - -
+           PARTITION - X - - - - -
+                   + - X - - - - -
+                HOME - X - - - X -
+             ENCRYPT - X - - - - -
+             WEBSITE - - O - - - -
+               /HOME - - X - - - -
+              APACHE - - - S - - -
+          PERMISSION - - - O - - -
+               THERE - - - S - - -
+          FILESYSTEM - - - - X - -
+                 DUE - - - - - S -
+                 DIR - - - - - O -
+             USERDIR - - - - - X -
+               ADDON - - - - - O -
+           SOMETHING - - - - - S -
+                BIND - - - - - O -
+/SOMETHINGAPACHECANREAD - - - - - X -
+               VHOST - - - - - - O
+                  .. - - - - - - O
+        DOCUMENTROOT - - - - - - X

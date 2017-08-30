@@ -1,0 +1,12 @@
+              SYSTEM X - - -
+            LANGUAGE X - - -
+           INSTALLER X - - -
+         BASE-CONFIG - S - -
+            ANYTHING - O - -
+             DEBCONF - S - -
+            PRIORITY - X - -
+                  .. - O - -
+             POSTFIX - S - -
+               TODAY - O - -
+                EXIM - X - -
+             APT-GET - - - O

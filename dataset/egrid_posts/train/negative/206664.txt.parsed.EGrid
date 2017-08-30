@@ -1,0 +1,16 @@
+               MOUNT X - - -
+                NTFS X - - -
+                PART X - - -
+               USERS X - - -
+                ROOT X - - -
+              ANYONE - S - -
+                SUDO - - X -
+               CHOWN - - X -
+                 -HR - - S -
+          /WHATEVER/ - - O -
+      NVIDIA-DRIVERS - - X -
+              DRIVER - - - O
+                 ONE - - - O
+               INTEL - - - X
+                SITE - - - X
+              OTHERS - - - X

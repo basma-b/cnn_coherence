@@ -1,0 +1,11 @@
+             PACKEGE X - - -
+             TUN/TAP X X - -
+                WORK O - - -
+              DETAIL - - S -
+                SUDO - - X -
+            IFCONFIG - - X -
+                TAP0 - - S -
+              DEVICE - - O S
+              TUNNEL - - - X
+                  .. - - - O
+                 MAP - - - O

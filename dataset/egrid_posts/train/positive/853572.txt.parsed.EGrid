@@ -1,0 +1,16 @@
+             COMMAND O - - - - -
+                  RO X - - - - O
+                USER S - - - - X
+              NOAUTO X - - - - -
+               ERROR X - - - - -
+                HELP - X - - - -
+              RETURN - X - - - -
+               USAGE - X - - - -
+                PAGE - O - - - -
+               ORDER - - - X - -
+               MOUNT - - - - X -
+             OPTIONS - - - - X -
+              DEVICE - - - - S -
+          /DEV/CDROM - - - - - X
+        /MEDIA/CDROM - - - - - X
+                SUDO - - - - - S

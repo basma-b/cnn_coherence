@@ -1,0 +1,23 @@
+             DEFAULT - O - - - - - -
+               IBOOK - X - - - - - -
+                 PPC - X - - - - - -
+                BOOT - X - X - - - -
+               ERROR - X - - - - - -
+             MESSAGE - O - - - - - -
+                HTTP - X - - - - - -
+//32RWR.INFO/IPPC.TXT - S - - - - - -
+               SHELL - - X - - - - -
+               THERE - - S - - - - -
+               DRIVE - - O X - - - -
+            COMPUTER - - - S - - - -
+           HARDDRIVE - - - O - - - -
+              LIVECD - - - O - - - -
+              DEVICE - - - X - - - -
+                NAME - - - X - - - -
+ /BOOT/GRUB/MENU.LST - - - X - - - -
+          /ETC/FSTAB - - - X - - - -
+                GRUB - - - - S - - S
+          BOOTLOADER - - - - O - - -
+                 MBR - - - - X - - O
+                  DD - - - - - - - X
+             COMMAND - - - - - - - O

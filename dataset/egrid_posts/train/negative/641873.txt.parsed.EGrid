@@ -1,0 +1,7 @@
+              VOLUME S - - - - - -
+      AUTHENTICATION O - - - - - -
+          /ETC/FSTAB - - - O - - -
+           PARTITION - - - O O - -
+                BOOT - - - X - - -
+               USERS - - - - S - -
+       AUTHORIZATION - - - - X - -

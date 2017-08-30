@@ -1,0 +1,17 @@
+            SHORTCUT O - - - - -
+          APLICATION O - - - - -
+                ROOT X - - X - -
+                USIN - S - - - -
+            INSTANCE - X - - - -
+                THIS - O - S - -
+            DISALLOW - - - X - -
+            PASSWORD - - - X - -
+                AUTH - - - O - -
+             NOTHING - - - O - -
+              CLIENT - - - X - -
+                  .. - - - X - -
+     PERMITROOTLOGIN - - - S - S
+/ETC/SSH/SSHD_CONFIG - - - - X -
+         SSHD_CONFIG - - - - - X
+          SSH_CONFIG - - - - - O
+                 EYE - - - - - O

@@ -1,0 +1,16 @@
+           APT-CACHE S - S - - - - - -
+             PACKAGE X X - - - - - - -
+                   > S - - - - - - - -
+            RDEPENDS S - - - - - - - -
+              RESULT O - - X - - - - -
+                NAME - O - - - - - - -
+                DEPS - O - X - - - - -
+                   $ - - O - - - - - -
+               TRICK - - O - - - - - -
+               ADOBE - - - - - - - X -
+              PLUGIN - - - - - - - O -
+              OTHERS - - - - - - - S -
+            PROBLEMS - - - - - - - S -
+               REPOS - - - - - - - O -
+                SITE - - - - - - - X -
+                LINK - - - - - - - - O

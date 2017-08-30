@@ -1,0 +1,17 @@
+               FSTAB X - - O -
+             ENTRIES X - - - -
+                 USB X - - X -
+               DRIVE O - - - -
+           PARTITION X - - - -
+               FAT32 X - - - -
+                EXT3 X - - - -
+               USERS X - - - -
+                  RW X - - - -
+            LOCATION - O - - -
+               MOUNT - X - - -
+            ANYTHING - O - - -
+              UBUNTU - S - - -
+                NAME - S - - -
+                LOAD - - - S -
+                 IVE - - - S -
+             COMMAND - - - - X

@@ -1,0 +1,25 @@
+                 USE X - - - - - - -
+             MACHINE X - - - - - - -
+               USERS X - - - - - - -
+               WITCH X - - - - - - -
+                USER S S - - - - S -
+                 ANY - - S - - - - -
+            RTORRENT - - - O - - X O
+                 PLS - - - X - - - -
+                ROOT - - - X - - S -
+                CRON - - - X X - - -
+/USR/LOCAL/BIN/RTORRENT - - - S - - - -
+             COMMAND - - - - O - - -
+               /ROOT - - - - X - - -
+                HRMM - - - - - S - -
+              SCREEN - - - - - - X -
+             SESSION - - - - - - X -
+        TRANSMISSION - - - - - - X -
+                 WEB - - - - - - X -
+           INTERFACE - - - - - - O -
+                HTTP - - - - - - O -
+//TRAC.TRANSMISSIONBT.COM/WIKI/SCRIPTS - - - - - - O -
+                THIS - - - - - - S -
+//LIBTORRENT.RAKSHASA.NO/ - - - - - - S -
+    TRANSMISSION-CLI - - - - - - - O
+                LATE - - - - - - - X

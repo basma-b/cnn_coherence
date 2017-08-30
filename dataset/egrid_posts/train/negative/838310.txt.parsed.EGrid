@@ -1,0 +1,13 @@
+              DRIVER O - - - -
+               LSPCI - X - X -
+                MAKE - X - X -
+               MODEL - X - O -
+            WIRELESS - X - X -
+                 NIC - X - X -
+                THAT - - S - -
+            IWCONFIG - - S - -
+              REPORT - - - X -
+                  .. - - - O -
+                 URL - - - X -
+                SUDO - - - X -
+             APT-GET - - - S -

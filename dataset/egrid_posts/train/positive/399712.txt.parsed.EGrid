@@ -1,0 +1,13 @@
+            DHCLIENT S - - -
+     255.255.255.255 O - - -
+        DHCPDISCOVER X - - -
+             ROUTERS S - - -
+              SUBNET X - - -
+                MASK S - - -
+       255.255.255.0 O - - -
+               THESE - X - -
+               OTHER - X - -
+                IPV4 - - O -
+                TIME - - - O
+              SOURCE - - - X
+            SOFTWARE - - - O

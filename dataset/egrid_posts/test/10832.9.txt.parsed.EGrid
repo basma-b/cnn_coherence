@@ -1,0 +1,23 @@
+                 YES X - - - -
+                 MAN S - - - -
+              OPTION X O - X -
+             WINDOWS X - - - -
+              DOMAIN X - - - -
+            KERBEROS - S - - -
+                 PAM - X - - -
+                BOOT - X - - -
+             OPTIONS - O - - -
+               ISSUE - O - - -
+              CONFIG - X - - -
+                FILE - X - - -
+          REMOVE.FIX - X - - -
+       CONFIGURATION - O - - -
+               LUCID - X - - -
+               LOGIN - X - - -
+            PAM-KRB5 - X - - -
+             PRECISE - - X - -
+               ERROR - - X - -
+/ETC/PAM.D/COMMON-AUTH - - - O -
+               REALM - - - X -
+                LINE - - - X -
+               THANK - - - - X

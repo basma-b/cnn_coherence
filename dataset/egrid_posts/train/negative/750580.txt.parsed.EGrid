@@ -1,0 +1,13 @@
+      VIDIOC_REQBUFS S - - - -
+               ERROR X - - - -
+              DEVICE X - - - -
+            RESOURCE X - - - -
+                 USE O - - - -
+                SUDO - X - - -
+                LSOF - S - - -
+                  » - O - - -
+                NTFS - - X - -
+                   | - - - X -
+               GRUB2 - - - X -
+              SEREPH - - - X -
+                 DAY - - - - O

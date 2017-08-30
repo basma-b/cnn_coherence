@@ -1,0 +1,15 @@
+                QEMU S - - - - -
+               ERROR S - - - - -
+               IMAGE O X - - - -
+                DISK X - - - - -
+                FILE X S - - - -
+           DIRECTORY X - - - - -
+            LOCATION - X - - - -
+              SYSTEM - X - - - -
+            KEYBOARD - - - - S -
+                WORK - - - - X -
+                GRUB - - - - S -
+             LIGHTDM - - - - X -
+            SURPRISE - - - - O -
+            LIGHHTDM - - - - - S
+            .XMODMAP - - - - - O

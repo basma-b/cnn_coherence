@@ -1,0 +1,13 @@
+               ERROR O -
+               MYSQL X X
+               HY000 X -
+              SERVER X -
+              SOCKET X -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK X -
+                  PS X -
+                 -EF X -
+                   | S -
+             COMMAND X -
+             SERVICE - X
+                STOP - X
+               START - X

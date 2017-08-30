@@ -1,0 +1,15 @@
+             OPTIONS O - - - - -
+          MODPROBE.D X - - - - -
+              DRIVER X - O - - -
+                 USE O - - - - -
+             DEVICES X - - - X -
+                 ONE X - - - - -
+                THIS - X - - - -
+              DEVICE - X - - - -
+             CAPTURE - - X - - -
+                CARD - - X - - -
+              KERNEL - - - - X -
+             COMMAND - - - - X -
+                LINE - - - - X -
+              OPTION - - - - O -
+                GRUB - - - - X -

@@ -1,0 +1,20 @@
+            SOFTWARE X - - - -
+               RAID5 X - - - -
+               ARRAY X X - - X
+                BOOT X - - - -
+/ETD/MDADM/MDADM.CONF - S - - -
+              DEVICE - X - - -
+             /DEV/HD - S - - -
+               -RSB- - X - - -
+             /DEV/SD - S - - -
+              RESULT - X - - -
+               MDADM - X - - -
+              DETAIL - X - - -
+           SOMETHING - O - - -
+                THIS - X X - -
+               UUID= - X - - -
+                   > - X - - -
+         DEVICE-LINE - O - - -
+             CHANNEL - X - - -
+                LINE - - - - O
+             NOTHING - - - - X

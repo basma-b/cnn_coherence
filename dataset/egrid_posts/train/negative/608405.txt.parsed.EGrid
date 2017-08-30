@@ -1,0 +1,16 @@
+                USER X X X X - - O - -
+              NAGIOS S X X S - - - - -
+              SCRIPT S - S - - - - - -
+             COMMAND O - - - - - O - -
+                SUDO X X - X - S - - -
+               ACCES O - - - - - - - -
+             PROBLEM - S - - X - - - -
+               RIGHT - O - - - - - - -
+             SUDOERS - - X - - - - - -
+                FILE - - - O - - X - -
+              ACCESS - - - X - O O - -
+                ROOT - - - X - - - - -
+         PERMISSIONS - - - - - - S - -
+               ADMIN - - - - - - - X -
+               GROUP - - - - - - - X -
+            MENU.LST - - - - - - - - X

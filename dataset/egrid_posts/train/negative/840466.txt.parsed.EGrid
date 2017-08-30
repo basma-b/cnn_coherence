@@ -1,0 +1,16 @@
+             ANYBODY X - - - -
+          DIFFERENCE X - - - -
+/ETC/MODPROBE.D/BLACKLIST X - - - -
+/ETC/MODPROBE.D/BLACKLIST.CONF X - - - -
+               .CONF X - - - -
+           BLACKLIST - S - - -
+                 USE - O - - -
+              LEGACY - - X - -
+               THING - - O - -
+                DISK - - - O -
+           PARTITION - - - X -
+             WINDOWS - - - O X
+                 ONE - - - X -
+                DATA - - - - O
+                 USB - - - - O
+                 ISO - - - - O

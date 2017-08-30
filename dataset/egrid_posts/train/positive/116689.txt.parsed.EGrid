@@ -1,0 +1,15 @@
+          PERMISSION O - - -
+              ERRORS S - - -
+                FILE O - - -
+                ROOT X - - -
+             DESKTOP X - - -
+                USER X - - -
+                SUDO - S - -
+      /HOME/WHEREVER - O - -
+                LINE - X - -
+             FOO.TXT - - - X
+              COURSE - - - X
+           OWNERSHIP - - - O
+                COPY - - - X
+               CHOWN - - - X
+        YOURUSERNAME - - - X

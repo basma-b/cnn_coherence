@@ -1,0 +1,10 @@
+             COMMAND O - - - -
+     NETWORK-MANAGER O - X - -
+             BACKEND - X X - -
+                TOOL - X X - -
+       NETWORK-ADMIN - - - X -
+        POOL.NTP.ORG - - - O -
+             NETWORK - - - - X
+             MANAGER - - - - S
+              THINGS - - - - O
+                USER - - - - X

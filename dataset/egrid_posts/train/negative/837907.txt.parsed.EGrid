@@ -1,0 +1,13 @@
+               10.10 - S - - - - -
+                BOOT - - X - X - -
+           INITRAMFS - - X - S - -
+                LINE - - X - - - -
+                   > - - X - - - -
+             OPTIONS - - - X - - -
+          PARAMETERS - - - - X - -
+                TYPE - - - - X - -
+                EXIT - - - - X - -
+              SECOND - - - - X - -
+             DESKTOP - - - - X - -
+              KDEEDU - - - - - - X
+             PACKAGE - - - - - - S

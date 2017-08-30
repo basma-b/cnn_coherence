@@ -1,0 +1,18 @@
+            SMB.CONF O - - - - - - - - - - -
+          PERMISSION - O - - - - - - - - - -
+               OWNER - O S - - - - - - - - -
+                FILE - - X - - - - - X - - -
+                LIST - - X - - - - - - - - -
+                ROOT - - X - - - - - - - - -
+               CLICK - - X - - - - - - - - -
+                USER - - - O - - - - - - - -
+             MACHINE - - - X - - - - - - - -
+         PERMISSIONS - - - - - X - - - - - -
+                MESS - - - - - X - - - - - -
+                THIS - - - - - - - - S - - -
+                 WAY - - - - - - - - O - - -
+             PROTECT - - - - - - - - X - - -
+            TERMINAL - - - - - - - - - X - -
+                TYPE - - - - - - - - - - X -
+                SUDO - - - - - - - - - - S -
+/FILE/LOCATION/OF/SMB.CONF - - - - - - - - - - O -

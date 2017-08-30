@@ -1,0 +1,13 @@
+                   ' - O - - - S
+               ERROR - O - - - -
+   /VAR/LOG/MESSAGES - X - - - -
+            ADDRCONF - S - - - -
+       NETDEV_CHANGE - X - - - -
+               WLAN0 - S - - - -
+                LINK - X - - - -
+              DETECT - O - - - -
+             MACHINE - - - X - -
+                  IP - - - O - -
+             ADDRESS - - - - O -
+              ROUTER - - - - X O
+                   S - - - - X -

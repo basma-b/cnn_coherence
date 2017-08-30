@@ -1,0 +1,26 @@
+                SUDO X - - - - - -
+               FDISK X - - - - - -
+                  -L S - - - - - -
+                NAME - X - - - - -
+           PARTITION - X - X O - -
+                WHAT - - - - X - -
+                SDA2 - - - - S - -
+                  N' - - - - X - -
+                   T - - - - S - -
+          DEVICE.MAP - - - - S - -
+                 HD0 - - - - X - -
+            /DEV/SDA - - - - O - -
+                 HD1 - - - - S - -
+             WINDOWS - - - - X - -
+               HD0,1 - - - - X - -
+                LINE - - - - X - -
+               HD0,0 - - - - X - -
+             GRUB.FG - - - - - - X
+               THERE - - - - - - S
+             VERSION - - - - - - O
+                BOOT - - - - - - X
+              SCRIPT - - - - - - X
+              RESULT - - - - - - X
+                LZMA - - - - - - O
+                HTTP - - - - - - X
+//PASTEBIN.COM/LEP3SKV6 - - - - - - X

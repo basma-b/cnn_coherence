@@ -1,0 +1,23 @@
+                CANT X X -
+                 DSL O - -
+          CONNECTION X X -
+             NETWORK X X -
+                9.10 X - -
+               ERROR O - -
+              DEVICE X S -
+/ETC/NETWORK/INTERFACES O S -
+               PATCH X - -
+                FILE O - -
+             CONTENT O - -
+                DONT S - -
+            INTERNET X X -
+            TERMINAL - X -
+                TYPE - X -
+                 BBD - O -
+            ETHERNET - X -
+                LINE - O -
+     NETWORK-MANAGER - S -
+             MANAGER - S -
+               FRONT - O -
+                DEAL - X -
+                IDEA - - X

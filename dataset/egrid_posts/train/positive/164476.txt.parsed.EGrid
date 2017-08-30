@@ -1,0 +1,14 @@
+                 MBR - O - - - -
+             WINDOWS - X - - - -
+                BOOT - - X X - X
+              LIVECD - - X - - -
+                GRUB - - X - - -
+                  .. - - X O - -
+              REBOOT - - X - - -
+               SHELL - - O - - -
+                TYPE - - - X - -
+      /GRUB/MENU.LST - - - X - -
+            MENU.LST - - - X - -
+             DEFAULT - - - X - -
+ /BOOT/GRUB/MENU.LST - - - - O -
+             SYMLINK - - - - - O

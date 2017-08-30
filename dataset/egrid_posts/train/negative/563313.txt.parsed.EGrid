@@ -1,0 +1,11 @@
+             COMMAND X - -
+               PULSE X - -
+               AUDIO O - -
+             KILLALL - X -
+          PULSEAUDIO - S -
+                SUDO - O X
+               BEGIN - X -
+                   K - X -
+                TYPE - - X
+             APT-GET - - X
+         ENVYNG-CORE - - O

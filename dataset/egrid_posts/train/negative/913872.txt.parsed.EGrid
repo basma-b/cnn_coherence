@@ -1,0 +1,16 @@
+           EVERYBODY S - -
+             PROBLEM O - -
+                NTFS S - -
+           PARTITION X - -
+                 YEA - O -
+              KERNEL - S -
+        /LIB/KERNEL/ - O -
+                  -R - S -
+        /DRIVERS/FS/ - X -
+                FILE - X -
+           DIRECTORY - O -
+                HOLD - O -
+       /LIB/MODULES/ - O -
+                 PPA - - X
+               HTTPS - - X
+//LAUNCHPAD.NET/~C-KORN/+ARCHIVE/VLC - - X

@@ -1,0 +1,13 @@
+                ROOT X X - - -
+            PASSWORD X - - - -
+              UBUNTU X - - - -
+                SUDO - X - - -
+    /ETC/INIT.D/SSHD - X - - -
+               START - S - - -
+             APT-GET - - S - -
+                 SSH - - S - -
+         /ETC/INIT.D - - X - -
+               LINUX - - - - S
+                  TV - - - - X
+                CARD - - - - X
+                 ONE - - - - O

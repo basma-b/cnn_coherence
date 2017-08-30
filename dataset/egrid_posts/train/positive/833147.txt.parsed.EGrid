@@ -1,0 +1,14 @@
+        ARCHITECTURE S - - - - -
+                I386 X - - - - -
+                  OS O - - - - -
+                  -M - S - - - -
+               64BIT - - O - - -
+                 DEB - - X - S S
+                FILE - - X - - -
+                SUDO - - - - X X
+                DPKG - - - - X X
+                  -I - - - - X X
+  FORCE-ARCHITECTURE - - - - X -
+       COMPATIBILITY - - - - X -
+              INSTAL - - - - O -
+             FOO.DEB - - - - - X

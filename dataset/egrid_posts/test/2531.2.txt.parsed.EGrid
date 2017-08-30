@@ -1,0 +1,14 @@
+           SOMETHING X - - -
+            /DEV/DSP O - - -
+              UBUNTU X - - -
+                USER - O - -
+               GROUP - X - -
+               VIDEO - X - -
+             PLUGDEV - X - -
+                  NP - - S -
+                 APP - - S -
+            TERMINAL - - S -
+              PARENT - - X O
+             PROCESS - - O -
+            CHILDREN - - - S
+                WORK - - - O

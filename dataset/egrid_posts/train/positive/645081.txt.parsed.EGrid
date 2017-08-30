@@ -1,0 +1,7 @@
+             COMMAND S S
+               PASTE X -
+            TERMINAL S -
+        SHIFT+CTRL+C X -
+        SHIFT+CTRL+V X -
+                FILE O O
+      DESTINATIONDIR - X

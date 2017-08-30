@@ -1,0 +1,13 @@
+             WINDOWS O - - - - - -
+           PARTITION O - - - - - -
+                  CD O - - - - - -
+               DRIVE X - - - - - -
+                NTFS X - O - - - -
+                FILE X - - - - - -
+              SYSTEM X - - - - - -
+                  .. O - - - - - -
+              ANYONE X X - - - - -
+               ERROR - S - - - - -
+                VFAT - - X X - - X
+               DUNNO - - - - - - X
+          MOUNTPOINT - - - - - - O

@@ -1,0 +1,23 @@
+                HELP O - - - - - -
+              SERVER X - - - - - -
+              SYSTEM X - - - - - -
+               BLINK X - - - - - -
+              SECOND X - - - - - -
+              SCREEN X - - - - - -
+               FLASH O - - - - - -
+             MONITOR O - - - - - -
+              SIGNAL O - - - - - -
+              ACCESS - O - - - - -
+                CANT - S - - - - -
+               LOCAL - S - - - - -
+             DISPLAY - X - - - - -
+            ANYTHING - O - - - - -
+               IDEAS - - X - - - -
+              KERNEL - - - X - - -
+         FRAMEBUFFER - - - S X - -
+            SETTINGS - - - X X - -
+               POINT - - - - - X -
+           DIRECTION - - - - - X -
+             OPTIONS - - - - - - O
+                   > - - - - - - X
+/ETC/MODPROBE.D/NOUVEAU-KMS.CONF - - - - - - X

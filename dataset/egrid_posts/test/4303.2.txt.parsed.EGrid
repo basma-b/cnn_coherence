@@ -1,0 +1,25 @@
+               QUERY O - - - -
+               SETUP X - - - -
+                BIND O - - - -
+             MACHINE X - - - -
+           INTERFACE O - - - -
+                  IP O X - - -
+                NAME O X - - -
+              DOMAIN - X - - -
+              SYSTEM - S - - -
+            INTERNET - X - - -
+          DOMAINNAME - X - - -
+                IDEA - X - - -
+             SOMEONE - S - - -
+                HELP - X - - -
+               12.04 - S - - -
+               REPLY - O - - -
+             INQUERY - - O - -
+          SUGGESTION - - X - -
+              FOLDER - - - - X
+            TERMINAL - - - - X
+               TOUCH - - - - X
+/PATH/TO/FOLDER/TEST.TXT - - - - O
+                FILE - - - - S
+            TEST.TXT - - - - X
+              PROMPT - - - - X

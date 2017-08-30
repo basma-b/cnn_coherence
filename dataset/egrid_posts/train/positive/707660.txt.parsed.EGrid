@@ -1,0 +1,18 @@
+             UNMOUNT S - - - - -
+           OPERATION O - - - - -
+       SAFELY-REMOVE S - X - - -
+            MULTIPLE S - - - - -
+         FILESYSTEMS O O - - - -
+          FILESYSTEM - O - - - -
+               DRIVE - X - - - -
+                THAT - - S - - -
+              ASPECT - - O - - -
+                USER - - - - O -
+                SYNC - - - - X -
+              UMOUNT - - - - O -
+             HCITOOL - - - - - S
+           SOMETHING - - - - - O
+    .BASHRC/.PROFILE - - - - - X
+                HIDD - - - - - X
+DEVICEADDRFORKEYBOARD1 - - - - - X
+DEVICEADDRFORKEYBOARD2 - - - - - X

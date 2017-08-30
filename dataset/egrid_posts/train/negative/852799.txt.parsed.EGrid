@@ -1,0 +1,16 @@
+               ENTRY O - - - -
+                  -E X - - - -
+               START S - - - -
+              REBOOT X - - - -
+                 LOG X - - - -
+             ENTRIES O - - - -
+            SHUTDOWN X - - - -
+             POWERUP O - - - -
+             COMMAND - X - - -
+                THAT - - - S -
+               ERROR - - - O -
+           SOMETHING - - - - O
+                SOME - - - - X
+                 URL - - - - X
+                LIST - - - - X
+        SOURCES.LIST - - - - X

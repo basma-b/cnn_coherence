@@ -1,0 +1,16 @@
+            RESOURCE X - - -
+                VIRT S - - -
+             PROCESS S X - -
+                 RES X - - -
+                 RAM X - - -
+                 SHR S - - -
+               SHARE X - - -
+              MEMORY S - - -
+             PROGRAM X - - -
+                 ANY - S - -
+                DATA - X - -
+                SWAP - X - -
+                DISK - X - -
+             DEFAULT - - X -
+               THERE - - S -
+              OPTION - - O -

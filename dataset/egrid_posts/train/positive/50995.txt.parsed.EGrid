@@ -1,0 +1,11 @@
+           NETSPLITS S - - - - -
+              FORMAT X - - - - -
+           PARTITION O - - - O X
+              OPTION X - - - - -
+               SETUP X - - - - -
+                 LVM X - - - X -
+                  8E - X - - O -
+              MANUAL - - - X - -
+                 ONE - - - - X -
+                DISK - - - - X -
+                BOOT - - - - - X

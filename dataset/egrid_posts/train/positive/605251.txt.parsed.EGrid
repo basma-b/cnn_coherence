@@ -1,0 +1,11 @@
+               FSTAB X X - -
+                 JFS X O - -
+          FILESYSTEM X - - -
+            JFS_FSCK - S - -
+           FILESYSTM - S - -
+                THIS - O - -
+               GUIDE - X - -
+               HTTPS - O - -
+//HELP.UBUNTU.COM/COMMUNITY/FSTAB - O - -
+            EXAMPLES - - X -
+                  NP - - - X

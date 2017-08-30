@@ -1,0 +1,17 @@
+              BINARY X - - -
+           AUTOSTART X - - -
+                 GUI X - - -
+         APPLICATION X - X -
+                BOOT - X X O
+               LOGIN - X - -
+            TERMINAL - - X -
+              RESCUE - - - X
+               SHELL - - - X
+                  CD - - - X
+                 WAY - - - X
+             ANOTHER - - - X
+                GRUB - - - X
+              STAGE1 - - - O
+           PARTITION - - - X
+                 MBR - - - X
+             SECTOR0 - - - X

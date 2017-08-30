@@ -1,0 +1,11 @@
+         /.CONFIGURE X - - - - - -
+          ENABLE-ALL X - - - - - -
+         BLUEZ-UTILS X X S - - - -
+             PACKAGE - - O - - - S
+              SOURCE - - - O - - X
+              SCRIPT - - - O - - -
+                FILE - - - - X - -
+                REPO - - - - - - X
+                 WAY - - - - - - X
+                YEAH - - - - - - S
+             TARBALL - - - - - - S

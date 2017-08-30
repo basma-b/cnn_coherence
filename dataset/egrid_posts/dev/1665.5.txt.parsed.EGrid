@@ -1,0 +1,12 @@
+             NETWORK X - - -
+        NOTIFICATION S - - -
+             PACKAGE X - - O
+      NETWORKMANAGER - S - -
+               UTILS - - S -
+             UTILITY - - X -
+              EXTRAS - - O -
+         APPLICATION - - X -
+                  .. - - X -
+                  EG - - - X
+          ALSA-UTILS - - - S
+           ALSA-BASE - - - X

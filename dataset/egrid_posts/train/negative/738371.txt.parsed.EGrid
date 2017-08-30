@@ -1,0 +1,12 @@
+              VSFTPD O - - S - - -
+              CONFIG X - - - - - -
+                FILE O - - - - - -
+            SETTINGS - S - - - - -
+              EFFECT - O - - - - -
+  /ETC/INIT.D/VSFTPD - - S - - - -
+             SERVICE - - O X - - -
+             UTILITY - - O - - - -
+               ERROR - - - X - - -
+             MESSAGE - - - O - - -
+                 OCT - - - - - - X
+           TENTATIVE - - - - - - X

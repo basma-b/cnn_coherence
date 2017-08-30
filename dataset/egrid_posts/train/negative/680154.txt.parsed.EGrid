@@ -1,0 +1,10 @@
+               R8169 X - - - -
+      BLACKLIST.CONF - X - - -
+                  .. - X - - -
+           BLACKLIST - O - - -
+/ETC/MODPROBE.D/BLACKLIST-OSS.CONF - X - - -
+             BETWEEN - X - - -
+              THREAD - - - S -
+                 LOT - - - O -
+                INFO - - - X -
+              PAGE=3 - - - - X

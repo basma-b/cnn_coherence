@@ -1,0 +1,15 @@
+                 LOG X - - - -
+                BOOT X - - - -
+              ACTION O - - - -
+               DMESG - X - - -
+     VAR/LOGS/SYSTEM - X - - -
+                SUDO - X - - -
+             APT-GET - S - - -
+         BASTIDRAZOR - - X - -
+                LOOK - - O - -
+             DNSMASQ - - X - -
+              UNBIND - - X - -
+              DJBDNS - - - O -
+              UBUNTU - - - X -
+            SOLUTION - - - - O
+                 NET - - - - X

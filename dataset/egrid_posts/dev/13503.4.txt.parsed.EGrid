@@ -1,0 +1,10 @@
+               THOSE O - - -
+             COMMAND X - - -
+             CONTENT O - - -
+~/.SSH/AUTHORIZED_KEYS X - - -
+            COMPUTER X X - -
+             OPTIONS - - - S
+                SUDO - - - X
+                 TEE - - - X
+           /DEV/NULL - - - X
+              REBOOT - - - X

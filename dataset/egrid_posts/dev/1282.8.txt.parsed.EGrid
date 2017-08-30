@@ -1,0 +1,13 @@
+SYSTEM-SETTINGS-POWER S - - - -
+                SHOW O - - - -
+             BATTERY S - - - -
+                 PKG - S - - -
+              BINARY - O - - -
+              SYSTEM - - X - -
+           APT-CACHE - - X - -
+                THAT - - - - S
+                 UID - - - - O
+                USER - - - - X
+                NAME - - - - O
+                 BOB - - - - S
+          MESSAGEBUS - - - - S

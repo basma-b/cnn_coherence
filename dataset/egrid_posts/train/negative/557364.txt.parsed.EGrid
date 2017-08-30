@@ -1,0 +1,13 @@
+             OPTIONS O - - - - -
+             DEFAULT - - O - - -
+         PERMISSIONS - - X - - -
+                HTTP - - O - - -
+//NOPASTE.COM/P/ANAE8M6LC - - X - - -
+               ENTRY - - O - - -
+               STORY - - O - - -
+                ROOT - - - X - -
+           PARTITION - - - X - -
+                  .. - - - X - -
+          MOUNTPOINT - - - X - -
+                SUDO - - - - - X
+        XSERVER-XORG - - - - - X

@@ -1,0 +1,11 @@
+    DPKG-RECONFIGURE X -
+           SOMETHING O -
+             COMMAND S S
+        XSERVER-XORG O O
+           XORG.CONF S -
+               ERROR O -
+            POSTINST S -
+       CONFIGURATION X -
+                FILE X -
+              BACKUP X -
+/ETC/X11/XORG.CONF.20080506105510 X -

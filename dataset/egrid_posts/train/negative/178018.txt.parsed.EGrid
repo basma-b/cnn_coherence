@@ -1,0 +1,14 @@
+               MOUNT S - - - -
+              OPTION S - - - -
+                 USE O - - - -
+                NTFS X - - - -
+                 ONE S - - - -
+                FILE O - - - -
+          UMASK=0000 S - - - -
+                   U - X - - -
+              KERNEL - X - - -
+             PROGRAM - O - - -
+                SUDO - - - X -
+            APTITUDE - - - S -
+        REPOSITORIES - - - X -
+          REPOSITORY - - - - X

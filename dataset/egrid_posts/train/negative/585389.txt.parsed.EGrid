@@ -1,0 +1,33 @@
+                 USE X - - - - - -
+          /ETC/FSTAB O - O - - - -
+               /HOME X - O - - - -
+               QUOTA X - X - - - -
+              OPTION O - - - - - -
+             DEFAULT O - - - - - -
+                   > S - - - - - -
+              SYSTEM O - - - - - -
+                HOME X - X X - - -
+                EXT3 - - S - - - -
+               ENTRY - - X - - - -
+            RELATIME - - O - - - -
+           PARTITION - - X X - - -
+                LOOK - - O - - - -
+            PASTEBIN - - - X - - -
+               ERROR - - - S - - -
+              DEVICE - - - S - - -
+                TYPE - - - X - - -
+                SUDO - - - X - - -
+               FDISK - - - X - X -
+                  -L - - - X - - -
+                CASE - - - X - - -
+                   L - - - X - - -
+              HELPER - - - - X - -
+                HTTP - - - - - X -
+//PASTEBIN.COM/M3D58C926 - - - - - X -
+                BOTH - - - - - X -
+               FSTAB - - - - - X -
+             BRASERO - - - - - - S
+             PROGRAM - - - - - - O
+             WINDOWS - - - - - - X
+               HTTPS - - - - - - X
+//WIKI.UBUNTU.COM/BURNINGISOHOWTO - - - - - - X

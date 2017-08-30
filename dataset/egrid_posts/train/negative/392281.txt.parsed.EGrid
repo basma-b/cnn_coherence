@@ -1,0 +1,30 @@
+             VERSION O - - - - -
+             MPLAYER X - X - - -
+              UBUNTU X - - - - -
+ PACKAGES.UBUNTU.COM - X - - - -
+              UPDATE - O - - - -
+                HTTP - X - - - -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_PACKAGES.PL - X - - - -
+                TIME - - X - - -
+    KEYWORDS=MPLAYER - - S - - -
+      SEARCHON=NAMES - - X - - -
+           SUBWORD=1 - - X - - -
+         VERSION=ALL - - X - - -
+         RELEASE=ALL - - S - - -
+                 LOT - - O - - -
+               ERROR - - O - - -
+              FINISH - - X - - -
+            PLAYBACK - - X - - -
+            PASSWORD - - X - - -
+                 KEY - - X - - -
+~/.SSH/AUTHORIZED_KEYS - - X - - -
+                 WAY - - X - - -
+                LINK - - S - - -
+              TUNNEL - - X - - -
+                 VNC - - O - - -
+                 USE - - X - - -
+               PUTTY - - X - - -
+               GUESS - - - S - -
+                BOOT - - - - - X
+       USER/PASSWORD - - - - - X
+               LOGIN - - - - - X

@@ -1,0 +1,8 @@
+   /ETC/SOURCES.LIST O - -
+             COMMAND X - S
+              SOURCE X - -
+               CACHE X - -
+              UPDATE - O -
+                 RUN - S -
+                BASH - - X
+                   C - - X

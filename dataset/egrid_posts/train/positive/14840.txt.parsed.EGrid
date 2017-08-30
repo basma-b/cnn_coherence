@@ -1,0 +1,42 @@
+          ASSISTANCE X - - - - - - - - - - -
+/ETC/X11/XF86CONFIG-4 - - X - - - - - - - - -
+            PASTEBIN - - X - - - - - - - - -
+                 YEP - - - X - - - - - - - -
+               THING - - - X - - O - - - - -
+                COPY - - - O - - - - - - - -
+                SUDO - - - X - - - - - - - -
+                  CP - - - X - - - - - - - -
+/ETC/X11/XF86CONFIG-4.BAK - - - S - - - - - - - -
+              OPTION - - - O - - - - - - - -
+            PROTOCOL - - - X - - - - - - - -
+                LINE - - - X - - - - - - - -
+             SECTION - - - X - - - - - - - -
+         INPUTDEVICE - - - X - - - - - - - -
+          DEFINITION - - - X - - - - - - - -
+                BACK - - - O - - - - - - - -
+              ERRORS - - - X - - - - - - - -
+            PASSWORD - - - X - - - - - - - -
+            ANYTHING - - - - X - X - - - - -
+              THINGS - - - - - X - - - - - -
+           INTERFACE - - - - - S - - - - - -
+                TEXT - - - - - - X - - - - -
+                BASE - - - - - - X - - - - -
+            TERMINAL - - - - - - X - - - - X
+              CLIENT - - - - - - - S - - - -
+                 IRC - - - - - - - X - - - -
+               XCHAT - - - - - - - O - - - -
+               CHECK - - - - - - - - X - X -
+/PROC/BUS/INPUT/DEVICES - - - - - - - - S - - -
+            ALPSPS/2 - - - - - - - - X - - -
+                  .. - - - - - - - - O - - -
+                 CAT - - - - - - - - S - X -
+                PART - - - - - - - - O - - -
+             PROBLEM - - - - - - - - X - - -
+            TOUCHPAD - - - - - - - - - S S -
+                BIOS - - - - - - - - - X X -
+       /PROC/CMDLINE - - - - - - - - - - X -
+/VAR/LOG/XFREE86.0.LOG - - - - - - - - - - O -
+                THAT - - - - - - - - - - - O
+      ROOT=/DEV/HDA1 - - - - - - - - - - - S
+               THATS - - - - - - - - - - - O
+                TYPE - - - - - - - - - - - X

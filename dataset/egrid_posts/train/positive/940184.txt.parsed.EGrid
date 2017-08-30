@@ -1,0 +1,9 @@
+             SOMEONE X - - -
+          FILESYSTEM - O - -
+                ROOT - X - -
+           PARTITION - X - -
+                  .. - O - -
+              REISER - - - X
+                EXT3 - - - X
+              CHOICE - - - O
+                   * - - - X

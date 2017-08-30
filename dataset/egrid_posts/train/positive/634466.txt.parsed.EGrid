@@ -1,0 +1,9 @@
+               CHECK X - - -
+               LEAVE O - - -
+          FILESYSTEM X - - -
+                SUDO - - X -
+                   | - - X -
+                IIRC - - X -
+             TUNE2FS - - S -
+                INFO - - X -
+              EXT2/3 - - X -

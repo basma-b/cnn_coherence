@@ -1,0 +1,14 @@
+              FORMAT X - - - - -
+            PENDRIVE X - - - - -
+               FAT32 X - - - - -
+                NTFS - X - - - -
+               FAT16 - - X - - -
+         SUGGESTIONS - - - X - -
+                 MBR - - - - S -
+                GRUB - - - - S -
+                BOOT - - - - X -
+              SECTOR - - - - X -
+           PARTITION - - - - X -
+               SETUP - - - - - O
+                 HD0 - - - - - X
+               HD0,0 - - - - - X

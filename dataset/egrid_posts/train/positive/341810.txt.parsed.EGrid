@@ -1,0 +1,8 @@
+             COMMAND X X - - X
+             STARTUP X - - - -
+         INIT-SCRIPT - O - - -
+                 USE - X - - -
+                ONES - X - - -
+                SUDO - - - X -
+            RC.LOCAL - - - X -
+                NAME - - - - X

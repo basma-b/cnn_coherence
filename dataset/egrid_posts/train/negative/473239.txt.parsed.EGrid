@@ -1,0 +1,14 @@
+                FILE S X X -
+             PACKAGE X X O -
+           APT-CACHE - - S -
+                SHOW - - S -
+                   < - - X -
+                   > - - O -
+              SEARCH - - S -
+              RESULT - - X -
+/ETC/PULSE/DEFAULT.PA - - X -
+               PULSE - - S -
+           PULSEADIO - - X -
+                INFO - - O -
+          /ETC/PULSE - - O -
+              DOESNT - - S -

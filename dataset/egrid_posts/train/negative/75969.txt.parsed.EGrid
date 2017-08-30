@@ -1,0 +1,16 @@
+                CANT S - -
+                HDDS O - -
+              BOOTUP X - -
+          /ETC/FSTAB - S -
+                SUDO - S -
+                 MAN - X -
+               FSTAB - O -
+         INFORMATION - X -
+               FIELD - X -
+                VFAT - X -
+             DEFAULT - O -
+               USERS - S -
+               DRIVE - X -
+                HTTP - O -
+     MOUNTUNMOUNTFAT - X -
+LINUX-RESTRICTED-MODULES-2.6.17-10-386 - - X

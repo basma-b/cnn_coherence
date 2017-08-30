@@ -1,0 +1,11 @@
+                FILE X - X - -
+    USR/SRC/MYKERNEL - X - - -
+            MODPROBE - - O - -
+            WIRELESS - - X - -
+              DRIVER - - S - -
+               PLACE - - S - -
+            /KERNEL/ - - O - -
+                  .. - - X - -
+                 ETC - - - S -
+               STUFF - - - - X
+               THERE - - - - X

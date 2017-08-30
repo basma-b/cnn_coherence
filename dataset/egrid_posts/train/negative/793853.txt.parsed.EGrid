@@ -1,0 +1,12 @@
+                SWAP S - X - - - -
+               LINUX - X - - - - -
+              SYSTEM - X S - - - -
+                BOOT - X - X - - -
+           PARTITION - - O - - - -
+                 UHM - - X S - - -
+             NOTHING - - X - - - -
+               FSTAB - - - X - - -
+               RIGHT - - - X - - -
+              SWAPON - - - - X - -
+                  XP - - - - - - X
+                GRUB - - - - - - O

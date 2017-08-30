@@ -1,0 +1,21 @@
+            IPTABLES S - - - - - -
+              OUTPUT X - - - - - -
+                  -O O - - - - - -
+          MASQUERADE X - - - - - -
+NET.IPV4.IP_FORWARD=1 S - - - - - -
+             GKRELLM X - - - - - -
+               MODEM - X - - - - -
+           INTERFACE - S - S - - -
+   USERNAME/PASSWORD - - O - - - -
+                IDEA - - - O - - -
+            ANYTHING - - - - O - -
+          CONNECTION - - - - X - -
+              UBUNTU - - - - S X -
+              BUNDLE - - - - X - -
+            SOFTWARE - - - - O - -
+             DISTROS - - - - X - -
+              OTHERS - - - - - S -
+               STUFF - - - - - O -
+                 DVD - - - - - X -
+              SOURCE - - - - - X -
+                 ONE - - - - - - O

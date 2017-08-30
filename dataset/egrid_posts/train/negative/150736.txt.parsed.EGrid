@@ -1,0 +1,12 @@
+                KIND X - - -
+              DEVICE X - - -
+                ETH0 X - - -
+                MORE - X - -
+              10MBPS - X - -
+          HALFDUPLEX - X - -
+             ETHTOOL - - S -
+            100/FULL - - O -
+             10/HALF - - X -
+              EXPERT - - - O
+                SYNC - - - X
+               TOUCH - - - O

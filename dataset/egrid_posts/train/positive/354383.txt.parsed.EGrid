@@ -1,0 +1,17 @@
+                TIME X - - - - - - -
+              UPDATE S - - - - - - -
+             MACHINE O - - - - - - -
+             NETWORK - X X X X O - -
+            ZEROCONF - X - - - - - -
+              CONFIG - O - - - - - -
+                DHCP - - X - - X - -
+                TYPE - - O - - - - -
+                 USE - - - - X - - -
+             MANAGER - - - - X S - -
+       CONFIGURATION - - - - X - - -
+/ETC/NETWORK/INTERFACES - - - - - X - -
+             ADDRESS - - - - - O - -
+    /ETC/RESOLV.CONF - - - - - - O -
+               ROUTE - - - - - - - O
+                  IP - - - - - - - X
+              ROUTER - - - - - - - X

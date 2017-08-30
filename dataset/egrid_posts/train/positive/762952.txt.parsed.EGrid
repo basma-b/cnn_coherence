@@ -1,0 +1,17 @@
+                TIME X - - -
+          /ETC/FSTAB X - - -
+              SYSTEM S - - -
+           PARTITION O - - -
+                BOOT X - - -
+                USER S S - -
+              ACCESS - X - -
+               DRIVE - X - -
+             /MEDIA/ - X - -
+              FOLDER - S - -
+                 EXT - X - -
+                TYPE - X - -
+                AUTO - X - -
+               MEDIA - X - -
+             KEYWORD - O - -
+               USERS - O - -
+                 YES - - - X

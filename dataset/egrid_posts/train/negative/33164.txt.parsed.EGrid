@@ -1,0 +1,15 @@
+               ERROR S - - - - - - - -
+              KERNEL - X - X - - - - -
+              MODULE - X - - - - - - -
+                LOAD - X - - - - - - -
+                 HDA - - S - - - - - -
+                WORK - - X - - - - - -
+                 DMA - - X - - - - - -
+                  -A - - - - S - - - -
+        2.6.10-5-386 - - - - X - - - -
+                 -K7 - - - - X - - - -
+                 COS - - - - X - - - -
+                 AMD - - - - X - - - -
+                PROC - - - - - X - - -
+                PART - - - - - - - X -
+            WRITABLE - - - - - - - - S

@@ -1,0 +1,13 @@
+                   ' S - - -
+             MESSAGE O - - -
+             RELEASE X - - -
+                  .. X - - X
+         SETKEYCODES X - - -
+     /VAR/LOG/SYSLOG O - - -
+  /ETC/INIT.D/SYSLOG - X - -
+/ETC/INIT.D/SYSKLOGD - - O -
+                CLUE - - X -
+                CASE - - X -
+                NAME - - - S
+              KERNEL - - - X
+                 LOG - - - X

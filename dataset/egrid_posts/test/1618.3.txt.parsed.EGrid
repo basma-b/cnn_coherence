@@ -1,0 +1,15 @@
+                 YEA O - - - - - - - - -
+               FDISK O - - - - - - - - -
+            /DEV/SDB X S - - - - - - - -
+           PARTITION S - - - - - - - - X
+                THIS S - - - - - - - - -
+          READ-WRITE O - - - - - - - - -
+                FILE X - - - - - - - - -
+              SYSTEM X - - - - - - - - -
+                DISK - - O - - - - - - -
+                DATA - - - - S - - - - O
+                BOOT - - - - - - X - - -
+              LIVECD - - - - - - X - - -
+             WINDOWS - - - - - - - - - X
+              RECUVA - - - - - - - - - O
+            PHOTOREC - - - - - - - - - O

@@ -1,0 +1,17 @@
+              GENTOO O - - - - - - - -
+                LILO X X X - - - - - -
+              UBUNTU O O - - X - - - -
+                 MBR O - - - - - - - -
+             ANYBODY - X - - - - - - -
+                 MAN - - X - - - - - -
+                PAGE - - O - - - - - -
+        DISTRIBUTION - - - X - - - - -
+            /DEV/HDA - - - - X - - - -
+                   * - - - - O - - - -
+              KERNEL - - - - O - - - -
+                  .. - - - - S - - - -
+                WELL - - - - - - - S -
+      KERNEL-VERSION - - - - - - - - X
+                LINK - - - - - - - - S
+                ROOT - - - - - - - - X
+          INITRD.IMG - - - - - - - - O

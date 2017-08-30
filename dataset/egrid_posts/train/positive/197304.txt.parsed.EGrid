@@ -1,0 +1,16 @@
+                  HI S - -
+            HARDWARE X - -
+               VIDEO X - X
+                CARD S - S
+              LAPTOP X - -
+               LSPCI - X -
+                  .. - - O
+              RADEON - - X
+                 AGP - - S
+           XORG.CONF - - S
+               THING - - S
+            GLXGEARS - - S
+              120FPS - - O
+               POINT - - X
+       DOCUMENTATION - - X
+                THIS - - S

@@ -1,0 +1,15 @@
+       DEBIAN/UBUNTU X - -
+           SOMETHING X - -
+              REDHAT X - -
+/ETC/INIT.D/IPTABLES X - -
+          START|STOP X - -
+                RULE - O -
+            MANAGERS - X -
+       CONFIGURATION - O -
+                LOAD - S -
+                SUDO - X -
+            IPTABLES - S -
+               CHAIN - O -
+                THAT - - X
+               START - - X
+             NOTHING - - X

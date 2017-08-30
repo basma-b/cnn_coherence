@@ -1,0 +1,10 @@
+           PARTITION O - - - -
+               DRIVE X - - - -
+             WINDOWS X O - - -
+                NTFS O - - - -
+                EXT4 O - - - -
+                DATA X - - - -
+                BOOT - X - - -
+              LOADER - O - - -
+           DIRECTORY - - - - X
+                 GIG - - - - S

@@ -1,0 +1,12 @@
+              ACCESS O - - - - -
+              FOLDER O - - - - -
+          PERMISSION X - - - - -
+                 -LD X - S - - -
+           DIRECTORY X S - - - -
+         DIRECTORIES - - X - - -
+          OWNERSHIPS - - X - - -
+                   * - - - S - -
+               |GREP - - - X - -
+                  ^D - - - S - -
+            QUESTION - - - O - X
+                 IAM - - - - S -

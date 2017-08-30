@@ -1,0 +1,20 @@
+           PARTITION O - - -
+         QEMU-CREATE X - - -
+              SYSTEM - S - -
+                QEMU - X - -
+           SOMETHING - - O -
+               STUFF - - X -
+             DEVICES - - O -
+              VOLUME - - O -
+                BOOT - - X -
+               THERE - - S -
+               THING - - O -
+                LUBI - - X -
+                   W - - X -
+                WUBI - - X -
+                HOST - - X -
+                HTTP - - O -
+//LUBI.SOURCEFORGE.NET/INDEX.HTML - - X -
+             DOVECOT - - - S
+              TELNET - - - X
+               ISSUE - - - O

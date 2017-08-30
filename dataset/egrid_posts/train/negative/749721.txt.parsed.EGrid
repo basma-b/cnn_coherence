@@ -1,0 +1,15 @@
+           PARTITION S - - - -
+                 HDD X - - - -
+            TERMINAL X - - - -
+               /HOME X - - - -
+                SUDO X - - - -
+                  -L S - - - -
+               FSTAB X - - - -
+                  .. X - - - -
+                TYPE X - - - -
+                 CAT X - - - -
+          /ETC/FSTAB X - - - -
+                ROOT - - O - -
+                 ONE - - - O -
+                TIME - - - - S
+                MESS - - - - X

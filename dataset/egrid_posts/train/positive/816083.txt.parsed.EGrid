@@ -1,0 +1,13 @@
+              BADRAM X - - - - -
+          EQUIVALENT X - - - - -
+              LEGACY X - - - - -
+              MEMMAP O - - - - O
+               GRUB2 - O - - - -
+               CLEAN - O - - - -
+               NATTY - X - - - -
+              KERNEL - - X - - X
+           PARAMETER - - O - - X
+   /ETC/DEFAULT/GRUB - - X - - -
+                THIS - - X - - -
+             DEFAULT - - X - - -
+                THAT - - - - O -

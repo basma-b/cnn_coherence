@@ -1,0 +1,10 @@
+                WIRE X - -
+          CONNECTION S - -
+             STARTUP X - -
+             COMMAND X - -
+                SUDO - X -
+                   < - S -
+               THING - O -
+            IPCONFIG - X -
+              /RENEW - X -
+             WINDOWS - X -

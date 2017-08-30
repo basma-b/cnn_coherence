@@ -1,0 +1,13 @@
+                LIST S - - -
+                CANT X - - -
+               ERROR X - X -
+                FILE - - O -
+               THATS - - S -
+                 CAT - - O -
+          INITRD.IMG - - O -
+           DIRECTORY - - X -
+                PART - - X -
+                LUKS - - X X
+                GRUB - - O -
+          ENCRYPTION - - O -
+                 IRC - - - O

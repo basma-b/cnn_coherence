@@ -1,0 +1,16 @@
+               START X - - - -
+                 PON X - - - -
+        DSL-PROVIDER X - - - -
+    /ETC/RESOLV.CONF S - - - S
+                 DNS S - - - -
+                NAME X - - - -
+             SERVERS O - - - -
+                 ISP X - - - -
+               WHILE X - - - -
+             REPLACE O - - - -
+          NAMESERVER X - - - -
+               ENTRY X - - - -
+                 NET - S - - -
+                HELP - - X - -
+         192.168.1.1 - - - X -
+         RESOLV.CONF - - - O -

@@ -1,0 +1,11 @@
+             COMMAND X - - - - -
+                 UID X - - - - -
+                 GID X - - - - -
+                FILE X - - - - -
+           DIRECTORY X - X - - -
+                USER - X S - - -
+               GROUP - X - - - -
+                 DIR - X - - - -
+             DEFAULT - - S - - -
+            SOLUTION - - X - - -
+               CHMOD - - - X - -

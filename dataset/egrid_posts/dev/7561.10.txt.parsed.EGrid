@@ -1,0 +1,12 @@
+             DEFAULT X - - - -
+                TEXT X - - - -
+                MODE X - - - -
+                   X X - - - -
+               START X - - - -
+             OPTIONS - X X - -
+                NOFB - O - - -
+            NOSPLASH - - S - -
+            PLYMOUTH - - O - -
+            GRAPHICS - - O - -
+            HEADLESS - - - - X
+             MACHINE - - - - X

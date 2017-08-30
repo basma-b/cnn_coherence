@@ -1,0 +1,11 @@
+               ALIAS X - - -
+                FOO= - X - -
+                 BAR - X - -
+                THAT - - X -
+                WHAT - - S -
+               POINT - - O -
+                FILE - - - O
+GRUB_CMDLINE_LINUX_DEFAULT= - - - S
+           NOMODESET - - - X
+         UPDATE-GRUB - - - O
+            GRUB.CFG - - - O

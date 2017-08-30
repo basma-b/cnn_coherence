@@ -1,0 +1,16 @@
+                NTFS X S - -
+            SECURITY X O X -
+          FILESYSTEM - O - -
+               LINUX - X - -
+             NTFS-3G - O - -
+              VOLUME - O - -
+              ACCESS - X - -
+             WINDOWS - - X -
+                FILE - - X -
+         PERMISSIONS - - S -
+                WORD - - - X
+               USERS - - - S
+                DATA - - - O
+               DRIVE - - - X
+          EVERYTHING - - - S
+                ROOT - - - X

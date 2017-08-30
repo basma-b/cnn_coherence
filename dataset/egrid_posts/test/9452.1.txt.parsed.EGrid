@@ -1,0 +1,17 @@
+                FILE O - - - - - -
+             WINDOWS X X - - - - -
+           PARTITION - O - - - - -
+             SUPPORT - O - - - - -
+                 GUI - O - - - - -
+              SERVER - X - - - - -
+                PART - O - - - - -
+             MISREAD - X - - - - -
+                  .. - X - - - - -
+              ERRORS - O - - - - -
+             COMMAND - - - S - - -
+                SUDO - - - - X - -
+             SERVICE - - - - X - -
+             LIGHTDM - - - - S - -
+              SCREEN - - - - S - -
+                CANT - - - - - - X
+            ANYTHING - - - - - - O

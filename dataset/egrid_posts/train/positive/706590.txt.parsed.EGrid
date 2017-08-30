@@ -1,0 +1,11 @@
+         PERMISSIONS O O - O - - O -
+               MOUNT X X - - - - - -
+               DRIVE X X - X - - - -
+              ANYONE - X - - - - - -
+               SAMBA - - - X - - - -
+               CLICK - - - X - - - -
+               FSTAB - - - - - X X -
+                FACT - - - - - - X -
+                NTFS - - - - - - O -
+               HTTPS - - - - - - - X
+//HELP.UBUNTU.COM/COMMUNITY/FSTAB - - - - - - - X

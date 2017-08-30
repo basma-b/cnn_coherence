@@ -1,0 +1,23 @@
+               VIDEO X - - - - -
+               GROUP X - - - - -
+         PERMISSIONS S S - - - -
+              DEVICE - X S - - -
+                UDEV - - X - - -
+             PACKAGE - - - O - -
+/VAR/CACHE/APT/ARCHIVES - - - X - -
+              FOLDER - - - X - -
+                 THX - - - X - -
+                   * - - - O O -
+               XARGS - - - X X -
+                  CP - - - S X -
+/VAR/CACHE/APT/ARCHIVES/ - - - O X -
+                OOPS - - - X - -
+                LINE - - - O - -
+              CHANGE - - - X - -
+                SUDO - - - O - -
+             COMMAND - - - S - -
+                THIS - - - X - -
+               PATHS - - - S - -
+          EXPRESSION - - - O - -
+                   \ - - - - O -
+             SOMEONE - - - - - S

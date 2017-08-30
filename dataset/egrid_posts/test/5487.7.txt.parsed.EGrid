@@ -1,0 +1,14 @@
+              KERNEL X - - -
+               PANIC O - - -
+                SYNC X - - -
+               TIMER S - - -
+           INTERRUPT X - - -
+               TAINT O - - -
+               CHECK - X - -
+                THAT - - - S
+                BOOT - - - X
+           PARTITION - - - X
+              DOESNT - - - X
+            PHOTOREC - - - S
+                USER - - - X
+             ACCOUNT - - - O

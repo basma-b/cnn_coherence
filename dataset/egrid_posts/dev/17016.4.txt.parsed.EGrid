@@ -1,0 +1,11 @@
+                DISK X - - - -
+           PARTITION S - - - -
+               ENTRY - O - - -
+               FSTAB - X - - -
+                GRUB - - S - X
+                 MBR - - X - -
+               DRIVE - - X - -
+        DIR/PARTIION - - - S -
+                FILE - - - S -
+             CONFIGS - - - - S
+                NTFS - - - - X

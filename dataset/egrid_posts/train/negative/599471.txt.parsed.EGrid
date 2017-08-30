@@ -1,0 +1,15 @@
+             COMMAND X O - - - - - - - -
+                USER X O - - - - - - X -
+                  SU - S - - - - - - - -
+              SCRIPT - - - X - - - - - -
+                THAT - - - - - S - - - -
+              KERNEL - - - - - X - - - -
+             PROCESS - - - - - O - - - -
+                ROOT - - - - - - X - X -
+            SOMEBODY - - - - - - - X - -
+            KERBEROS - - - - - - - - X -
+      AUTHENTICATION - - - - - - - - O -
+               CACHE - - - - - - - - O -
+                 OWN - - - - - - - - O -
+                 GUI - - - - - - - - - X
+               EMACS - - - - - - - - - O

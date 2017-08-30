@@ -1,0 +1,17 @@
+                  DU S - - - -
+                SIZE O - - - -
+           PARTITION X O - - X
+             DISTROS - X - - -
+             MACHINE - X - - -
+                REST - O - - -
+                DISK - X - - -
+              KERNEL - - X X -
+               IMAGE - - X X -
+                   + - - - X -
+              INITRD - - - S -
+                MEGS - - - O -
+              DEBIAN - - - X -
+                   / - - - - S
+                 RAM - - - - X
+                MORE - - - - O
+                SWAP - - - - X

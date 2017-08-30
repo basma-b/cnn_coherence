@@ -1,0 +1,16 @@
+              KERNEL X - O - -
+             DEFAULT O - X - -
+                GRUB X X X - -
+              OPTION - O O - -
+                   % - - - O -
+             BATTERY - - - X -
+              LAPTOP - - - O -
+                PART - - - X -
+             PROBLEM - - - X -
+                YEAH - - - S -
+               DMESG - - - X -
+              ERRORS - - - X -
+              MODULE - - - - O
+       SPEEDSTEP_ICH - - - - X
+   CPUFREQ_USERSPACE - - - - X
+            HARDWARE - - - - X

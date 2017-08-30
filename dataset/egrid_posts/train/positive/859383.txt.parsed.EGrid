@@ -1,0 +1,17 @@
+               ISSUE S - - -
+              KERNEL O - - -
+               ERROR O X - -
+           DIRECTORY O - - -
+                FILE X - - -
+  /USR/BIN/MAKE-KPKG X - - -
+                LINE X - - -
+                TEST - - S -
+      DEBIAN/CONTROL - - S -
+                   \ - - S -
+   CONCURRENCY_LEVEL - - S -
+                   > - - S -
+/ETC/KERNEL-PKG.CONFNEYTIRI - - S -
+                   < - - S -
+       XRAY-HOPE.COM - - S -
+          EXPRESSION - - X -
+                 BUG - - - X

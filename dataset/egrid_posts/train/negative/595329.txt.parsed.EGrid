@@ -1,0 +1,17 @@
+           MEDIAWIKI S - - -
+                THAT - S - -
+             NETWORK - X X -
+       CONFIGURATION - X - -
+/ETC/NETWORK/INTERFACES - O - -
+          PERSISTENT - X - -
+                  TY - X - -
+                CARD - - S -
+              SUBNET - - X -
+                MASK - - X X
+              EITHER - - O -
+                BOTH - - - X
+                WIFI - - - S
+         192.168.0.2 - - - O
+                WIRE - - - S
+         192.168.0.3 - - - O
+                 NET - - - X

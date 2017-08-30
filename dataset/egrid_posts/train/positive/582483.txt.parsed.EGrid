@@ -1,0 +1,17 @@
+                  .. O - - - - - - -
+               THERE S - - - - - - -
+                 WAY O - - - - - - -
+              SERVER S - - - - - - -
+           SSLENABLE O - - - - - - -
+              CLIENT X - - - - - - -
+             BROWSER S - - - - - - -
+                 SSL X X - - - - - -
+             EXAMPLE - X - - - - - -
+             NON-SSL - O - - - - - -
+                HTTP - - - X - - - -
+               HTTPS - - - X - - - -
+         //SITE:5000 - - - X - - - -
+                KIND - - - - X - - -
+             CHANNEL - - - - X - - -
+               HTTPD - - - - X - - -
+                 HOP - - - - - - X -

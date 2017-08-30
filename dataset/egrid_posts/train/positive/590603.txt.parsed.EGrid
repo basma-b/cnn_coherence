@@ -1,0 +1,12 @@
+             COMMAND X - - - - -
+               GROUP O - - - - X
+                USER X - O - - -
+               USERS X - - - - -
+                HOME X - - - - X
+           DIRECTORY O - - - - -
+         PERMISSIONS O - - - - X
+                THAT - - - O - -
+            USERSADD - - - S - -
+                FLAG - - - O X -
+                  -G - - - - - S
+                 DIR - - - - - O

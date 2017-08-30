@@ -1,0 +1,12 @@
+             COMMAND O - - - -
+               ALIAS X - - - -
+                TYPE X - - - -
+                   < O - - - -
+                 -R8 X - - - -
+                   > S - - - -
+                LOOK - - O - -
+           ~/.BASHRC - - X - -
+           DIRECTORY - - O - -
+                  CD - - X - -
+               TIMER - - - S -
+                  .. - - - - X

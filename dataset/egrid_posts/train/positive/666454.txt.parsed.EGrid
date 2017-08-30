@@ -1,0 +1,21 @@
+                THAT O - - -
+               USERS X - - -
+                HOME X - - -
+           DIRECTORY X - - -
+             USERMOD X - - -
+                 MAN X - - -
+          FILESYSTEM X - - -
+             UNIX-FS X - - -
+             EXAMPLE X - - -
+                USER S - - -
+         /HOME/SHAWN X - - -
+               GROUP X - - -
+     UNIX-PERMISSION S - - -
+               LIMIT O - - -
+       /VAR/LOG/BOOT - S - -
+             DEFAULT - X X -
+/ETC/DEFAULT/BOOTLOGD - X - -
+  BOOTLOGD_ENABLE=NO - X - X
+                MINE - - S -
+                THIS - - - S
+                   > - - - X

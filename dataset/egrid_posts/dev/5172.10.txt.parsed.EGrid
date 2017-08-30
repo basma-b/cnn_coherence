@@ -1,0 +1,25 @@
+              CLIENT - X - - - - - - - -
+              UBUNTU - X - - - - - - - -
+              MAGNET - X - - - - - - - -
+                LINK - O - - - - - - - -
+            RTORRENT - - S - - - - - - -
+                HTTP - - - - - X - - - -
+TLS_V1_0_CIPHER_SUITES_ - - - - - X - - - -
+                BITE - - - - - S - - - -
+              SEARCH - - - - - X - - - -
+                TERM - - - - - O - - - -
+             CIPHERS - - - - - - X - - -
+          MECHANISMS - - - - - - X - - -
+                SOME - - - - - - S - - -
+               THOSE - - - - - - X - - -
+  DHE-RSA-AES256-SHA - - - - - - - X - -
+              CIPHER - - - - - - - X - -
+               NGINX - - - - - - - S - -
+           CIPHERSET - - - - - - - O - -
+            BLOWFISH - - - - - - - - X -
+             TWOFISH - - - - - - - - X -
+             SERPENT - - - - - - - - X -
+           WHILRPOOL - - - - - - - - S -
+                 SSH - - - - - - - - X -
+                IRCD - - - - - - - - - S
+           LOCALHOST - - - - - - - - - X

@@ -1,0 +1,14 @@
+             UPGRADE S - S - - -
+               10.10 X - X - - -
+               11.04 X - X - - -
+               PRESS - X - X - -
+                  OK - X - X - -
+             CLEANUP - X - X - -
+             PROCESS - O - O - -
+              ERRORS - - X - - X
+                POST - - - - X -
+               BREAK - - - - X X
+             PACKAGE - - - - O O
+             APT-GET - - - - S -
+             PROBLEM - - - - - S
+           PACKAGE/S - - - - - S

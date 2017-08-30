@@ -1,0 +1,13 @@
+              NOFILE X - - X
+               LIMIT O - - O
+                USER X - - X
+/ETC/SECURITY/LIMITS.CONF X - - X
+             ULIMITS S - - S
+             DEFAULT X - - X
+               VALUE O - - O
+                CLUE X - - X
+              NO-ONE - S - -
+              ANSWER - O - -
+            QUESTION - X X -
+             CHANNEL - X - -
+               SORRF - - X -

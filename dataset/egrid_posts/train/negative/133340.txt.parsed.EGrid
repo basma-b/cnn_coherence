@@ -1,0 +1,12 @@
+               PROXY - X - - - -
+            SETTINGS - X - - - -
+                 APT - X - - - -
+                ROOT - X - - - -
+               SHELL - X - - - -
+                 GDM - - S - - -
+             PACKAGE - - O - - -
+              EXPORT - - - - X -
+     HTTP_PROXY=HTTP - - - - X -
+              //USER - - - - X -
+                PASS - - - - X -
+                PORT - - - - X -

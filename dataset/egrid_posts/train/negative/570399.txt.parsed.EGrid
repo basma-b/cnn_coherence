@@ -1,0 +1,20 @@
+                IDEA S - X - - -
+            INSTANCE - - X - - -
+                LIST - - S - - -
+/ETC/MODPROBE.D/BLACKLIST.CONF - - X - - -
+             COMMAND - - S - - -
+           INITRAMFS - - O - - -
+                THIS - - O - - -
+              RETURN - - X - - -
+               IRQS- - - X - - -
+               THERE - - S - - -
+             PROBLEM - - O - - -
+              RADEON - - X - - -
+              DRIVER - - X - - -
+            BOOTOPTS - - X S - -
+                 USB - - S - - -
+             DEVICES - - - O - -
+               SOUND - - - X - -
+              KERNEL - - - X - -
+             OPTIONS - - - O - -
+                GRUB - - - X - -

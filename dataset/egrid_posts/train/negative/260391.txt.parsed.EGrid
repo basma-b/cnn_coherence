@@ -1,0 +1,21 @@
+                .BIN O - - - - - -
+              CD/DVD X - - - - - -
+               IMAGE X - - - - - -
+                SUDO - X S - - - -
+                LOOP - X O - - - -
+          /MEDIA/DVD - S - - - - -
+                 ONE - O - - - - -
+                TYPE - X - - - - -
+              OPTION - X - - - - -
+          SUPERBLOCK - X - - - - -
+          /DEV/LOOP0 - X - - - - -
+                NEED - X - - - - -
+/PATH/TO/MY/ISO/FILE.BIN - - X - - - -
+          /MEDIA/ISO - - S - - - -
+             SOMEONE - - - S - - -
+                FILE - - - O - - -
+           BLOCKSIZE - - - X - - -
+                .CUE - - - - X - -
+                  NO - - - - - S -
+                NERO - - - - - O -
+                HDA1 - - - - - - X

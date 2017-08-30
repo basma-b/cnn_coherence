@@ -1,0 +1,19 @@
+                ROOT X - X - -
+             ACCOUNT X - - - -
+             MACFUSE - - O - -
+                FILE - - O - -
+           TEXTEDTIT - - X - -
+                 MAC - - X - -
+                SUDO - - X - -
+             COMMAND - - O - -
+/ETC/SSH/SSHD_CONFIG - - O - -
+     PERMITROOTLOGIN - - O - -
+                  SU - - X - -
+                 SAY - - X - -
+                TYPE - - X - -
+              PASSWD - - O - -
+            PASSWORD - - O - -
+                DEBS - - - - O
+                 APT - - - - S
+                CARE - - - - O
+                DEPS - - - - X

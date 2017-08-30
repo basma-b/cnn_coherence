@@ -1,0 +1,17 @@
+             SOMEONE X - - - - - - - - - -
+             OPENSSH X X - - S - - - - - -
+              SERVER - X - - - - - - - - -
+               SETUP - O - - - - - - - - -
+                 KEY - O - - - - - - - - -
+              ACCESS - O - - - - - - - - -
+                 SET - - X - - - - - - - -
+          SSH-CONFIG - - X - - - - - - - -
+            PASSWORD - - O - O - - - - - -
+                USER - - X - - - - O - S -
+         /ETC/SHADOW - - - - O - - - - - -
+                 PAM - - - - - - O - - - -
+                SUDO - - - - - - - S - - -
+             WINDOWS - - - - - - - - X - -
+               PUTTY - - - - - - - - S - -
+             CULPRIT - - - - - - - - O - -
+              DESIRE - - - - - - - - - X -

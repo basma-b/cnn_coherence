@@ -1,0 +1,16 @@
+              FORMAT X - X - - - - - X -
+                DISK X - X - - - O - - -
+           MKFS.VFAT - - - S - - - - - -
+             NOTHING - - - S - - - - - -
+            /DEV/FD0 - - - - S - - - - -
+          /ETC/FSTAB - - - - X - - - - -
+               DRIVE - - - - O X X - - -
+           DIRECTION - - - - X - - - - -
+                 FD0 - - - - S - - - - -
+               LIGHT - - - - - S - - - -
+              SECOND - - - - - S - - - -
+               MEDIA - - - - - - O - - -
+                DONT - - - - - - - - S -
+                FORM - - - - - - - - O -
+            DISKETTE - - - - - - - - O -
+                 KDE - - - - - - - - - X

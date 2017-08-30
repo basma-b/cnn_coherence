@@ -1,0 +1,17 @@
+                 FIX X - -
+                 MBR X - -
+                BOOT X - -
+              REPAIR X - -
+                WERK X - -
+             WINDOWS - X -
+                GRUB - X -
+           SOMETHING - - S
+                  DD - - X
+         IF=/DEV/SDC - - X
+OF=MYKNACKEREDCARD.DSK - - X
+               BS=4M - - X
+                   = - - X
+               INPUT - - X
+                FILE - - X
+                PATH - - O
+              DEVICE - - X

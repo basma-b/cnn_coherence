@@ -1,0 +1,12 @@
+           SOMETHING O - - - -
+            IPTABLES X - - - X
+                RULE O - - - -
+              EFFECT O O - - -
+                IDEA - - - X -
+                THIS - - - S -
+                SUDO - - - - X
+               INPUT - - - - X
+                  -P - - - - X
+                 TCP - - - - X
+             IPRANGE - - - - X
+                  -J - - - - S

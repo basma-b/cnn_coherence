@@ -1,0 +1,9 @@
+GNOME-SESSION-FALLBACK X -
+              KERNEL - O
+                 LOG - O
+     CTRL+ALT+DELETE - S
+             NETWORK - O
+           INTERFACE - S
+            PING/SSH - X
+                LEDS - S
+               CABLE - X

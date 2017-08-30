@@ -1,0 +1,19 @@
+              SCREEN O X - - X -
+              ERRORS X - - - X -
+              CURSOR - X O - - -
+             COMMAND - - X - - -
+                LINE - - X - - -
+                 TTY - - - O - -
+                THIS - - - - S -
+              KERNEL - - - - X -
+               ISSUE - - - - O -
+                BOOT - - - - O -
+                 ESC - - - - O -
+                GRUB - - - - X -
+     /VAR/LOG/SYSLOG - - - - O -
+               ERROR - - - - - O
+              SYSLOG - - - - - X
+             WARNING - - - - - X
+GDM_SLAVE_XIOERROR_HANDLER - - - - - X
+             X-ERROR - - - - - X
+                  OM - - - - - X

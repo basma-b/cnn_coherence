@@ -1,0 +1,10 @@
+                ISNT X - -
+              SYNTAX X - -
+             SUDOERS X - -
+            DEFAULTS - S -
+TIMESTAMP_TIMEOUT=120 - S -
+              VISUDO - X -
+                MESS - X -
+          CONTROLLER - - X
+                 DMA - - X
+                  HD - - X

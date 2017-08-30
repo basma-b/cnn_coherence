@@ -1,0 +1,10 @@
+           PARTITION X X O -
+                USER X X X -
+                NAME X X X -
+               LINUX X X X -
+             DISTROS X X X -
+                MMMM - - S -
+              NOBODY - - S -
+                HOME - - X -
+              DISTRO - - O -
+                  CD - - - X

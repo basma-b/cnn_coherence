@@ -1,0 +1,11 @@
+             COMMAND X - - - -
+            REDETECT X - - - -
+            HARDWARE X - - - -
+          /ETC/FSTAB - - X - -
+                FILE - - X - -
+              SYSTEM - - S - -
+             FACTOID - - - - O
+                LINK - - - - X
+        REPOSITORIES - - - - X
+                 TOR - - - - X
+             PACKAGE - - - - O

@@ -1,0 +1,12 @@
+                COPY O - - O - - - - - -
+              FRIEND X - - X - - - - - -
+              SERVER X O - X O - - - - -
+             MACHINE X - - X - - - - - -
+                REPO - X - - X - - - - -
+              UBUNTU - S - - S - - - - -
+             PACKAGE - X - - X - - - X -
+              FOLDER - O - - O - - - - -
+                THIS - - X - - X - - - -
+                FILE - - - - - - O - X X
+               TOOKS - - - - - - - - X -
+/ETC/APT/SOURCES.LIST - - - - - - - - - O

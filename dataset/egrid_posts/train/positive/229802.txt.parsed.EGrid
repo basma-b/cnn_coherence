@@ -1,0 +1,29 @@
+              UBUNTU O - - - - - - - -
+                SCSI X - - - - - - - -
+                 AHA X - - - - - - - -
+                BOOT X X - - - - - - -
+                 HDA O - - - - - - - -
+             INSTALL - X - - - - - - -
+                 CAN - X - - - - - - -
+             SOMEONE - S - - - - - - -
+           PARAMETER - X - - - - - - -
+             DRIVERS - O - - - - - - -
+                 SDA - - O - - - - - -
+             MYSQL.H - - - O - O - - -
+                 ALL - - - - S - - - -
+               BUNCH - - - - O - - - -
+                PKGS - - - - X - - - -
+                  XX - - - - S - - - -
+              NUMBER - - - - O - - - -
+             PACKAGE - - - - - X - - -
+              SOURCE - - - - - O - - -
+              INSTAL - - - - - O - - -
+                 RUN - - - - - O - - -
+                   C - - - - - X - - -
+             PROGRAM - - - - - X - - -
+                HTTP - - - - - - - X -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_CONTENTS.PL - - - - - - - X -
+        WORD=MYSQL.H - - - - - - - - X
+SEARCHMODE=SEARCHFILES - - - - - - - - X
+    CASE=INSENSITIVE - - - - - - - - X
+        VERSION=EDGY - - - - - - - - X

@@ -1,0 +1,11 @@
+               POINT X - - -
+               DRIVE X - - -
+             UNMOUNT - X - -
+                  .. - - X -
+                SUDO - - X -
+              UMOUNT - - X -
+                 YAP - - O -
+                THIS - - - O
+        /MEDIA/SDA2/ - - - S
+               BLOCK - - - X
+              DEVICE - - - O

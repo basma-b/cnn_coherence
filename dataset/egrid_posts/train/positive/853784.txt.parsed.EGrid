@@ -1,0 +1,9 @@
+                PORT S - - -
+             PROBLEM X - - -
+             ADAPTER X - - -
+               DMESG - - X -
+               LSUSB - - X -
+       TTYS0/TTYUSB0 - - X -
+                BOTH - - S -
+            EMULATOR - - O -
+          INTERFACES - - - S

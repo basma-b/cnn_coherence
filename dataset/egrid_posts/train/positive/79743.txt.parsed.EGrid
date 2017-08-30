@@ -1,0 +1,29 @@
+               IDEAS X - - - - - - - - - - - - -
+            WIRELESS X X - - - - - - - - - - - -
+              PCMCIA X - - - - - - - - - - - - -
+                CARD O - - X - - - - - - X - - -
+              UBUNTU X - - - - - - - - - - - - -
+             PACKAGE - O - - - - - - - - - - - -
+              DRIVER - X - - - - - - S - - - - -
+               LSPCI - - X - - - - - - - - - - -
+            IWCONFIG - - S - - - - - - - - - - -
+           INTERFACE - - O - - - - - - - - - - -
+             NETWORK - - X - - - - - - X - - - -
+          CONNECTION - - X - - - - - - - - - - -
+               LIGHT - - - S - - - - - - S - - -
+                  G+ - - - - S - - - - - - - - -
+              KERNEL - - - - X - - - - - - - - -
+              MODULE - - - - O - - - - - - - - -
+                LOAD - - - - - O X - - - - - - -
+         NDISWRAPPER - - - - - O - - X X - - - -
+            MODPROBE - - - - - X - - - - - - - -
+/ETC/NETWOK/INTERFACES - - - - - X - - - - - - - -
+        /ETC/MODULES - - - - - - - - X - - - - -
+               THATS - - - - - - - - S - - - - -
+/PATH/TO/WINDOWS/CRIVER - - - - - - - - O - - - - -
+              ALEADY - - - - - - - - X - - - - -
+                  -L - - - - - - - - - S - - - -
+               GPLUS - - - - - - - - - O - - - -
+              CONFIG - - - - - - - - - X - - X -
+                TOOL - - - - - - - - - O - - X -
+                HINT - - - - - - - - - - - X - -

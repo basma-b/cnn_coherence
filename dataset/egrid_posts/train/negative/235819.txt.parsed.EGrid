@@ -1,0 +1,27 @@
+                 GDM - S - - - - - -
+             DISPLAY - X - - - - - -
+             MANAGER - O - - - - - -
+                TIME - - O - - - - -
+                NAME - - S - - - - -
+                BOTH - - S - - - - -
+                 USE - - O - - - - -
+             DESKTOP - - X - - - - -
+        ENVIRONMENTS - - X - - - - -
+              WINDOW - - X - - - - -
+            MANAGERS - - X - - - - -
+             PROGRAM - - X - - - - -
+               LINUX - - X - - - - -
+                 RAM - - X - - - - -
+           FREQUENCY - - X - - - - -
+           SOMETHING - - - X - - - -
+               CPU-Z - - - X - - - -
+             WINDOWS - - - X - - - -
+               REPOS - - - - - X - -
+          LM-SENSORS - - - - - X - -
+                   X - - - - - X - -
+           GDESKLETS - - - - - O - -
+             SENSORS - - - - - O - -
+                 FAN - - - - - X - -
+                 ETC - - - - - O - -
+                LINK - - - - - - O -
+HIGHLIGHT=LM-SENSORS - - - - - - - X

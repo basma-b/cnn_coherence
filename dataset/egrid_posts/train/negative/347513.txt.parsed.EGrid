@@ -1,0 +1,15 @@
+              CUSTOM X - - -
+                RULE X X - -
+           INTERFACE S - - -
+                ROUT - X - -
+/ETC/NETWORK/INTERFACES - O - -
+               ESSID - - S X
+                NAME - - O X
+            WIRELESS - - X X
+             NETWORK - - X X
+                  AP - - X -
+              ACCESS - - X -
+               POINT - - X -
+                LIST - - - S
+               ERROR - - - X
+                CALL - - - O

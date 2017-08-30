@@ -1,0 +1,29 @@
+                TIME X - - - - - - - - -
+                 WPA X - - - - - - - - -
+                 WEP X - - - - - - - - -
+             NETWORK X - - - - - - - X -
+       CONFIGURATION X - - - - - - - - -
+                FILE X - O X - - - - - -
+             DAEMONS O - - - - - - - - -
+              UBUNTU X - - - - - - - - -
+NETWORK-MANAGER-GNOME - O - - - - - - - -
+            WIRELESS - - X - - - X - - -
+           INTERFACE - - O - - - X - - -
+             UTILITY - - S - - - - - - -
+          INTERFACES - - X X - - - - - -
+              CONFIG - - X X - - - - - -
+                  LO - - - - O - - - - -
+            LOOPBACK - - - - X - - - - -
+/ETC/NETWORK/INTERFACES - - - - - S - - - -
+                ETH1 - - - - - X X - - -
+           WHATERVER - - - - - X - - - -
+                LINE - - - - - - X - - -
+                TALK - - - - - - O - - -
+              EFFECT - - - - - - - X - -
+     NETWORK-MANAGER - - - - - - - - S -
+             DEVICES - - - - - - - - O -
+               VAAPI - - - - - - - - - X
+              OPTION - - - - - - - - - O
+               VDPAU - - - - - - - - - S
+             BACKEND - - - - - - - - - X
+             PACKAGE - - - - - - - - - O

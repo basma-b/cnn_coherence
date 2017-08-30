@@ -1,0 +1,17 @@
+                TASK S X X O - - - -
+             HEADERS S S S - - - - -
+            PACKAGES X - - X - - - -
+                FILE X X - X - - - -
+               THERE S - - - - - - -
+              SECTOR X - - - - - - -
+                NAME O - - - - - - -
+             PACKAGE X - - - - - - -
+                HTTP - X - - - - - -
+//ARCHIVE.UBUNTU.COM/UBUNTU/DISTS/WARTY/MAIN/BINARY-I386/PACKAGES.GZ - S - - - - - -
+              HEADER - - - S - - - -
+             ARCHIVE - - - X - X - -
+          MANAGEMENT - - - X - X - -
+            SOFTWARE - - - X - X - -
+        DISTRIBUTION - - - - - - - O
+                SIZE - - - - - - - X
+              DEBIAN - - - - - - - X

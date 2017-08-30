@@ -1,0 +1,17 @@
+             UPGRADE X - - - - -
+              KERNEL X - - - - -
+             NETWORK X - - X X -
+        CAPABILITIES O - - - - -
+           SOMETHING X - - - - -
+            WIRELESS X - - X - -
+             HEADERS X - - - - -
+            BACKPORT - S - - - -
+            IFCONFIG - - S - - -
+             NOTHING - - O - - -
+              APPLET - - - X - -
+            TERMINAL - - - - X -
+              OUTPUT - - - - O -
+                SUDO - - - - X -
+                LSHW - - - - X -
+                  -C - - - - X -
+                COOL - - - - - X

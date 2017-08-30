@@ -1,0 +1,13 @@
+               STALL S - - - - - - - - - - - -
+                 LOG X - - - - - - - - - - - -
+                 SAY S - - - - - - - - - - - -
+            ANYTHING O - - - - - - - - - - - -
+               CRASH X - - - - - - - - - - - -
+              SYSLOG - X - - - - - - - - - - -
+               LSMOD - - - S - - - - - - - - -
+                LOAD - - - X - - - - - - - - -
+            IBM_ACPI - - - - S - - - - - - - -
+           SONY-ACPI - - - - - - - - - - - S -
+               RMMOD - - - - - - - - - - - X -
+             HOTPLUG - - - - - - - - - - - X -
+                THAT - - - - - - - - - - - - X

@@ -1,0 +1,23 @@
+                SUDO X - - X - - -
+             APT-GET X - - S - - -
+GSTREAMER0.8-PLUGINS X - - - - - -
+           W32CODECS S - - - - - -
+                 SOX X - - - - - -
+          MJPEGTOOLS X - - - - - -
+        VORBIS-TOOLS S - - - - - -
+                KRAX - X - - - - -
+              FORMAT - O - - - - -
+                 ONE - X - - - - -
+               JOXER - - X X - - -
+           LIBRARIES - - - X - - -
+        APPLICATIONS - - - O - - -
+                WORK - - - X - - -
+     BUILD-ESSENTIAL - - - - X - -
+            SYNAPTIC - - - - - X -
+                 MAN - - - - - O -
+                PATH - - - - - O -
+                 TCL - - - - - S -
+     /USR/LIB/TCL8.4 - - - - - X -
+                THIS - - - - - - O
+                HTTP - - - - - - O
+//S23.ORG/WIKI/LIBTCL.SO - - - - - - O

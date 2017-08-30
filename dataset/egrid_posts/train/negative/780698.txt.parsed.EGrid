@@ -1,0 +1,14 @@
+           PARTITION X - - - -
+                BOOT X - - X -
+             STARTUP X - - - -
+                   A - X - - -
+                BIOS - O - - -
+             MACHINE - X - X -
+               RERUN - - - X -
+                SUDO - - - X -
+         UPDATE-GRUB - - - X -
+                MENU - - - O -
+               WHATS - - - O -
+           INITRAMFS - - - S -
+              OPTION - - - O -
+                   K - - - - X

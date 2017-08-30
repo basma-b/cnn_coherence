@@ -1,0 +1,24 @@
+                 WAY X - - - - - - - - - -
+              UBUNTU O - - - - - - X - - -
+                ROOT X - - - - - - - - - -
+                  FS O - - - - - - - - - -
+              OTHERS O - - - - - - - - - -
+                VFAT X - - - - - - - - - -
+                ETC. X - - - - - - - - - -
+                BOOT - - X - - - - - - - -
+               CHECK - - - X - - - - - - -
+               MOUNT - - - X - - - - - - -
+           STATEMENT - - - O - - - - - - -
+            RC.LOCAL - - - X - - - - - - -
+             COMMAND - - - - S - - - - - -
+            PROBLEMS - - - - O - - - - - -
+        INSTALLATION - - - - X - - - - - -
+             PROBLEM - - - - - O - - - - -
+                SIDE - - - - - X - - - - -
+             PACKAGE - - - - - - O - - - -
+                FILE - - - - - - S - - - -
+             VERSION - - - - - - - X - - -
+                 HMM - - - - - - - - X - -
+/VAR/LIB/DPKG/INFO/LIBAPACHE2-SVN.PRERM - - - - - - - - - S -
+           CONFFILES - - - - - - - - - O -
+              REASON - - - - - - - - - - X

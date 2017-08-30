@@ -1,0 +1,15 @@
+              ANYONE X - - - - - -
+                 BOX S - - - - - -
+             GATEWAY X - O - - - -
+                 NIC X - - - - - -
+                CARD O - - - - - -
+               HOWTO - - S - - - -
+             TRAFFIC - - X - - - -
+                ETH1 - - X - - - -
+           LOCALHOST - - X - - - -
+                KIND - - - O - - -
+             NETWORK - - - X - - -
+               SHARE - - - X - - -
+             ROUTING - - - - - S -
+             DEFAULT - - - - - X -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - - - - - O

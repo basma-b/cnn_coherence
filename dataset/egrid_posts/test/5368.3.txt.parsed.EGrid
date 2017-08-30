@@ -1,0 +1,10 @@
+               12.04 S - -
+            /DEV/SHM S O -
+            /RUN/SHM O - -
+              UBUNTU - O -
+                DOCS - S -
+         RECONFIGURE - X -
+          /ETC/FSTAB - X -
+                 XEN - - S
+                TOSS - - X
+                 VMX - - S

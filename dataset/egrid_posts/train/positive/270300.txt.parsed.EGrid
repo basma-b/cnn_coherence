@@ -1,0 +1,14 @@
+                ICMP X X - - - - - - - -
+              DEAMON X X - - X - - - - -
+             REQUEST - - X - - - - - - -
+              KERNEL - - - - O - - - - -
+                 BOX - - - - - - S - - -
+       ECHO-REQUESTS - - - - - - O - - -
+            IPTABLES - - - - - - O - - -
+                RULE - - - - - - O - - -
+                TIME - - - - - - - O X -
+              LISTEN - - - - - - - X - -
+               PROBE - - - - - - - O - -
+               WASTE - - - - - - - - O -
+               THERE - - - - - - - - S -
+           SOMETHING - - - - - - - - - O

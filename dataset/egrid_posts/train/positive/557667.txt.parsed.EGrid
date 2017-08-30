@@ -1,0 +1,23 @@
+             ATHEROS S - - - - - - -
+                 USE X - - - - - - -
+                WORK X - - O - - - -
+             ATH_PCI - S - - - - - -
+                ATH0 - X - - - - - -
+               WLAN0 - S - - - - - -
+               ATH5K - - S - - - - -
+              MODULE - - X - - - - -
+           BLUETOOTH - - - S - - - -
+              DEVICE - - - S - - - -
+               POWER - - - O - - - -
+          EVERYTHING - - - O - - - -
+                IDEA - - - O - X - -
+                LOAD - - - - O O - -
+              MOMENT - - - - O - - -
+               STUFF - - - - O - - -
+       WLAN_SCAN_STA - - - - - S - -
+                 BUG - - - - - - X -
+                PAGE - - - - - - X -
+               HTTPS - - - - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/LINUX-RESTRICTED-MODULES-2.6.24/+BUG/182489 - - - - - - - X
+         NON-ENGLISH - - - - - - - X
+                ASIA - - - - - - - X

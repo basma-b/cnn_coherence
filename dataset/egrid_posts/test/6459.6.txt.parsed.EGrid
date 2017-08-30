@@ -1,0 +1,19 @@
+               USERS S - - - -
+         DIRECTORIES O - O - -
+                HOME X - X - -
+                 DIR X - O - -
+                 ALL - S - - -
+                PERM - O - - -
+                USER - - S - -
+         ENVIRONMENT - - X - -
+              SERVER - - X - -
+               PLACE - - X - -
+                ROOT - - S - -
+               ADMIN - - X - -
+          PERMISSION - - O - -
+              OUTPUT - - - - O
+                HTTP - - - - X
+//WWW.ALSA-PROJECT.ORG/ALSA-INFO.SH - - - - X
+               CHMOD - - - - X
+                  +X - - - - X
+      ./ALSA-INFO.SH - - - - X

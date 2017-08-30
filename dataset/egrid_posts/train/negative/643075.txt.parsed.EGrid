@@ -1,0 +1,15 @@
+       ~/.XRESOURCES S S - - - -
+                HTTP S - - - - -
+   //SPRUNGE.US/UBUA S - - - - -
+              COLOUR O - - - - -
+              CHANGE - O - - - -
+                FILE - O X - - -
+          .XDEFAULTS - O - - - -
+               -MERG - X - - - -
+        ~/.XDEFAULTS - S - - - -
+              SYSTEM - S - - - -
+         .XRESOURCES - X - - - -
+                 USE - O - - - -
+               MERGE - - S - - -
+            FILENAME - - O - - -
+          GNOMEBAKER - - - - - O

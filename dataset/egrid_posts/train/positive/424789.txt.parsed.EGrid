@@ -1,0 +1,16 @@
+                 WAY S - - - - -
+             IPTABLE O - - - - -
+                PORT O X - - - -
+               INPUT - X - - - -
+                  -P - X - - X -
+                 TCP - X - - O -
+               DPORT - X - - - -
+                  -J - X - - S -
+               HTTPS - O - - - -
+                 IRC - X - - - -
+               OUTGO - - - X - -
+                THAT - - - - X -
+              OUTPUT - - - - X -
+                FLAG - - - - O -
+               WHICH - - - - O -
+             MANPAGE - - - - - X

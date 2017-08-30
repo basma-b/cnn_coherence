@@ -1,0 +1,13 @@
+              SUBNET X - - - - - - - -
+                MASK X - - - - - - - -
+/ETC/NETWORK/INTERFACES X - - - - - - - -
+           INTERFACE O S - - - S - - -
+                  IP X - O - O - - - -
+             ADDRESS - S - - - O - X O
+          DIFFERENCE - - X - - - - - -
+                BOOT - - - X - - - - -
+              OTHERS - - - - X - - - -
+              BRIDGE - - - - - O - - -
+             0.0.0.0 - - - - - - - X -
+             NETMASK - - - - - - - O -
+                QEMU - - - - - - - - X

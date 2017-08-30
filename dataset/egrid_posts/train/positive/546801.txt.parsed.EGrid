@@ -1,0 +1,16 @@
+            IPTABLES S - - - - O -
+             SOMEONE X - - - - - -
+                HAND X - - - - - -
+                HOST - X - - - - -
+              SYSTEM - X X - - - -
+                  VM - X - - - - -
+                SYNS - - S - - - -
+            RESPONSE - - O - - - -
+           WIRESHARK - - - X - - -
+               VMNET - - - X - - -
+                 SYN - - - S - - -
+              SYNACK - - - S - - -
+                 RST - - - S - - -
+                THIS - - - - S - -
+                WIRE - - - - X - -
+               THANK - - - - - - X

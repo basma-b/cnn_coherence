@@ -1,0 +1,11 @@
+                   U X - - - - -
+           PARTITION X - - - - -
+                BOOT X - - - - -
+                  XP X - - - - -
+          LINUX-SWAP - S - - - -
+                EXT3 - S - - - -
+                 USE - - S - - -
+              IDEFIX - - - X - -
+                SUDO - - - X - -
+              SCRIPT - - - X - -
+              RAID-0 - - - - - X

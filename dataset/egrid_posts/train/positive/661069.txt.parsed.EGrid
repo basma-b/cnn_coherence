@@ -1,0 +1,6 @@
+          .CONFIGURE S -
+            TEMPLATE X -
+               POINT O -
+                NEED - X
+             CHANNEL - X
+        EXPECTATIONS - X

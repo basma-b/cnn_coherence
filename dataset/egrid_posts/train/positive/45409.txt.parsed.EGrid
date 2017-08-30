@@ -1,0 +1,26 @@
+               GET:5 S - - - -
+//SECURITY.UBUNTU.COM S - - - -
+             RELEASE S - - - -
+                 HIT S - - - -
+//ARCHIVE.UBUNTU.COM S - - - -
+               HOARY S - - - -
+               GET:6 S - - - -
+//US.ARCHIVE.UBUNTU.COM S - - - -
+       HOARY-UPDATES S - - - -
+    HOARY/MULTIVERSE S - - - -
+            PACKAGES S - - - -
+             SOURCES S - - - -
+     //FTP.NERIM.NET S - - - -
+         RELEASE.GPG S - - - -
+          HOARY/MAIN S - - - -
+                 RAT - S - - -
+               VIDEO - - X - -
+                CARD - - X - -
+                THAT - - - S X
+                HTTP - - - X -
+//WWW.UBUNTULINUX.ORG/WIKI/FIXVIDEORESOLUTIONHOWTO - - - S -
+              GOOGLE - - - O -
+             MONITOR - - - X -
+          MAKE/MODEL - - - X -
+              NUMBER - - - S -
+            UNIVERSE - - - X -

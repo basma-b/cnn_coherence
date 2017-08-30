@@ -1,0 +1,9 @@
+                SSHD S -
+                PORT X -
+/ETC/SSH/SSHD_CONFIG X -
+                FILE X -
+                LINE O -
+             ENTRIES X -
+                WORK X -
+              OUTPUT - O
+                WHAT - X

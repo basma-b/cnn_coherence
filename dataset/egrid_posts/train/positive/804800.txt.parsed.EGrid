@@ -1,0 +1,4 @@
+       SND_HDA_INTEL X -
+       MODEL=TOSHIBA X X
+        PROBE_MASK=1 X X
+             OPTIONS - X

@@ -1,0 +1,20 @@
+                 GUY X - - - - -
+              ANYONE - S - - - -
+               ISSUE - O - - - -
+                  QT - X - X - -
+          VIRTUALBOX - - X X - -
+                WORK - - O - - -
+               SKYPE - - - X - -
+            KEEPASSX - - - O - -
+SUPR3HARDENEDMAINGETTRUSTEDMAIN - - - X - -
+              DLOPEN - - - X - -
+/USR/LIB/VIRTUALBOX/VIRTUALBOX.SO - - - S - -
+/USR/LIB/LIBQTOPENGL.SO.4 - - - X - -
+              SYMBOL - - - O - -
+           LIBRARIES - - - S - -
+              LOOKUP - - - X - -
+               ERROR - - - O - -
+              BUNDLE - - - O - -
+             VERSION - - - X - -
+                 ALL - - - O - -
+            SOFTWARE - - - - O -

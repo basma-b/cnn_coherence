@@ -1,0 +1,10 @@
+           PARTITION X X - - -
+                EXT3 X - - - -
+               /BOOT - - S - -
+                 JFS - - S S -
+          DIFFERENCE - - X - -
+                FSCK - - - X -
+             JOURNAL - - - X -
+              REPLAY - - - X -
+                THAT - - - - S
+               -LSB- - - - - O

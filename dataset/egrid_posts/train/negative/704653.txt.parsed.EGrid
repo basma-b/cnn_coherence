@@ -1,0 +1,16 @@
+                HELP S - - - - - - -
+               10.04 - X - - - - - -
+           HARDDRIVE - O - - - - - -
+               DMESG - - S - - - - -
+           SOMETHING - - S - - - - -
+            UHCI_HCD - - X - - - - -
+             ADDRESS - - S - - - - -
+                DATA - - - O O - - -
+            COMPUTER - - - X - - - -
+                 USB - - - - O - - -
+                BOOT - - - - X - - -
+                  CD - - - - O - - -
+              KARMIC - - - - X - - -
+                 USE - - - - X - - -
+                 BUG - - - - - O - -
+              THANKS - - - - - - X -

@@ -1,0 +1,15 @@
+             SOMEONE X - - - - - - -
+                HELP X - - - - - - -
+            RECOVERY X - - - - - - -
+           PARTITION - S - - - - - -
+            REISERFS - O - - - - - -
+          DETECTABLE - X - - - - - -
+              REISER - X - - - - - -
+                FSCK - - X - - - - -
+          REBUILD-SB - - X - - O - -
+                DATA - - X O - X - -
+          SUPERBLOCK - - - O - - - -
+              ANYONE - - - - X - - -
+              BACKUP - - - - - O - -
+             PROBLEM - - - - - - - O
+               THERE - - - - - - - S

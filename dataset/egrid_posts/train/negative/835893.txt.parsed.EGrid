@@ -1,0 +1,9 @@
+                NTFS X - - -
+           PARTITION X - - -
+             STARTUP X - - -
+           AUTOSTART - - S -
+               MOUNT - - X -
+               POINT - - O -
+               ENTRY - - O -
+          /ETC/FSTAB - - X -
+               GUEST - - - X

@@ -1,0 +1,25 @@
+                LOAD X - - -
+              UBUNTU X - - -
+        /ETC/MODULES - X - -
+          MODPROBE.D - S - -
+           DIRECTORY - O - -
+                LINE - S - -
+                FILE - X - -
+            MODPROBE - X - -
+            ADDITION - X - -
+             APT-GET - X - -
+           REINSTALL - S - -
+   MODULE-INIT-TOOLS - S - -
+              SCRIPT - O - -
+                LOOK - O - -
+             PACKAGE - S - -
+               POINT - S - -
+            BINARIES - O - -
+                  .. - X O -
+               RIGHT - O - -
+/SBIN/UPDATE-MODULES.MODUTILS - - S -
+                MISS - - O -
+/SBIN/UPDATE-MODULES - - S -
+                WELL - - X -
+                SUDO - - - S
+              KERNEL - - - X

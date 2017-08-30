@@ -1,0 +1,16 @@
+             SYMLINK S - - - - -
+            READLINK - X - - - -
+                 G++ - S - - - -
+                FILE - - X - X X
+             COMMAND - - X - - -
+                LINE - - X - - X
+           SOMETHING - - - O - -
+               -WALL - - - X - -
+            MAIN.CPP - - - O S -
+           DIRECTORY - - - O - -
+                   > - - - O - -
+                PATH - - - X - -
+             GCC/G++ - - - S - -
+             HEADERS - - - X - -
+               ERROR - - - X S -
+             MESSAGE - - - X - -

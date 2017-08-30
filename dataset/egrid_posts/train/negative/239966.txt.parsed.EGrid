@@ -1,0 +1,10 @@
+                SUDO X - - -
+             APT-GET S - - -
+          LOCALECONF O - - -
+    DPKG-RECONFIGURE X - - -
+               PT_BR O - - -
+             LOCALES S - - -
+             NOTHING - S - -
+                  .. - O - -
+        DIST-UPGRADE - - - X
+              KERNEL - - - X

@@ -1,0 +1,32 @@
+             PROBLEM X - X - - - - - - -
+                FILE - X - - - - - - - -
+/USR/INCLUDE/SYS/STAT.H - X - - - - - - - -
+               STDIN - X - - - - - - - -
+                   > - X - - - - - - - -
+/USR/INCLUDE/BITS/STAT.H - O - - - - - - - -
+               ERROR - O - O X - - - - -
+               FIELD - O - - - - - - - -
+             ST_ATIM - S - - - - - - - -
+                TYPE - X - - - - - - - -
+             ST_MTIM - S - - - - - - - -
+             ST_CTIM - S - - - - - - - -
+                GULP - O - - - - - - - -
+                TEST - - - X - - - - - -
+             COMMAND - - - S S - - - - -
+             MESSAGE - - - X - - - - - -
+                WORK - - - X - - - - - -
+               RIGHT - - - X - - - - - -
+                MAIL - - - X X - - - - -
+                LIST - - - X X - - - - -
+             ANDARES - - - - X - - - - -
+                THAT - - - - - S - - - S
+             PACKAGE - - - - - O - - - -
+               GUESS - - - - - O - - - -
+                  -1 - - - - - S - - - -
+               3.3.5 - - - - - - - X - -
+              DEBIAN - - - - - - - X - -
+                  -R - - - - - - - - X -
+             ISNTEAD - - - - - - - - - X
+                 RUN - - - - - - - - - O
+                  MB - - - - - - - - - X
+                 RAM - - - - - - - - - X

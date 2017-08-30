@@ -1,0 +1,14 @@
+                 UHM O - - -
+                DONT X - - -
+        /ETC/INITTAB O - - -
+             UPSTART X - - -
+              SYSTEM X - - -
+                 USE S - - -
+             INITTAB O - - -
+                   > - - S -
+             MESSAGE - - O -
+               UBOTU - - X -
+            TTYSNOOP - - O -
+                LINK - - - X
+                  .. - - - X
+         INFORMATION - - - O

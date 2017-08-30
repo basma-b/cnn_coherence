@@ -1,0 +1,14 @@
+                 ALL S - - - - - - -
+            SOFTWARE X - - - X - - X
+             STARTUP X - - - - - - -
+                BOOT X X - X - - - -
+               LINUX O - - - - - - -
+              SCRIPT - - - O - - - -
+/ETC/INIT.D/SKELETON - - - X - - - -
+       /ETC/RC.LOCAL - - - X - - - -
+                 END - - - X - - - -
+                 DOC - - - X - - - -
+                EXIT - - - - X - - -
+                LINE - - - - S - - -
+                  .. - - - - O - - -
+                FILE - - - - X - - -

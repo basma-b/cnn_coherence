@@ -1,0 +1,17 @@
+               SETUP O - - - - -
+            COMPUTER O - - - - -
+                 HDD O - - - - -
+                BOOT X - - - - O
+               RAID1 - S - - - -
+                MINE - S - - - -
+           INITRAMFS - - S - S S
+              INITRD - - O - - -
+                   A - - - - O -
+                 MD0 - - - - S -
+                  .. - - - - O -
+               DRIVE - - - - X -
+                LIST - - - - O -
+               SPARE - - - - X -
+               MDADM - - - - S -
+                STOP - - - - X -
+            /DEV/MD0 - - - - X -

@@ -1,0 +1,11 @@
+        SOURCES.LIST O - - -
+            UNIVERSE - O X -
+             RECENTY - O - -
+                THIS - - S -
+/ETC/APT/SOURCES.LIST - - X -
+                 DEB - - S -
+                HTTP - - S -
+                MAIN - - S -
+          MULTIVERSE - - O -
+        DIST-UPGRADE - - - S
+                JAZZ - - - O

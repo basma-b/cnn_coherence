@@ -1,0 +1,16 @@
+           XORG.CONF X S -
+             SECTION O O -
+              MODULE X - -
+                XORG - X -
+               DOEAS - O -
+             DEFAULT - X -
+                SAME - X -
+                NONE - O -
+                  OK - X -
+             FLICKER - O -
+               CONKY - X -
+                LOAD - O -
+                 DBE - X -
+       915RESOLUTION - - S
+             USEFULL - - O
+             DRIVERS - - X

@@ -1,0 +1,10 @@
+                  NP X - -
+               RSYNC S - -
+                FILE O - -
+         COMPRESSION X - -
+             COMMAND - X -
+                LINE - X -
+             PROGRAM - O -
+            ANYTHING - O -
+            OVERHEAD - - X
+                  OS - - O

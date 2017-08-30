@@ -1,0 +1,18 @@
+               APLAY X - -
+     DEVICE_LIST:223 X - -
+          SOUNDCARDS S - -
+                  .. O - -
+               ANNOY X - -
+             ALRIGHT X - -
+                ALSA X - -
+                SUDO X - -
+/ETC/INIT.D/ALSA-UTILS X - -
+        FORCE-RELOAD X - -
+                 CAT X - X
+  /PROC/ASOUND/CARDS X - X
+               FORCE - - X
+              RELOAD - - X
+   PROC/ASOUND/CARDS - - X
+                LIST - - X
+               CHRIS - - X
+         /ETC/INIT.D - - X

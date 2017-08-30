@@ -1,0 +1,10 @@
+            INSTANCE O - - -
+              AMAZON X - - -
+                 EC2 X - - -
+               MYSQL S - - -
+                /TMP - X - -
+         PERMISSIONS - S - -
+            APPARMOR - O - -
+                FILE - X - -
+             SOMEONE - X - -
+          DIFFERENCE - - - O

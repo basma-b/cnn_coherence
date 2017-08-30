@@ -1,0 +1,16 @@
+                   * - S - - - - - - - - - -
+        DIST-UPGRADE - O S - - - X - - - - -
+              UPDATE - - S - - - - O - X - -
+             MANAGER - - S - - - - S - X - -
+                 LTS - - X - - - - - - - - -
+        REPOSITORIES - - O - - - - - - - - -
+             UPGRADE - - X - - - - S O - - -
+             PROBLEM - - - - X - - - - - - -
+        DISTRIBUTION - - - - - X - - - - - -
+            VERSIONS - - - - - O - - - - - -
+                   | - - - - - - X - - - - -
+             BARIBAL - - - - - - X O - - - -
+             APT-GET - - - - - - - S X - - -
+              UBUNTU - - - - - - - - S - - -
+             VERSION - - - - - - - - X - - -
+                TOOL - - - - - - - - - O - -

@@ -1,0 +1,23 @@
+                SUDO S - - - -
+           /DEV/SDXY S - - - -
+         JOURNALLING O - - - -
+              BACKUP O - - - -
+                BOOT X - - - -
+               DRIVE O - - - -
+                LIVE - X - - -
+               GUEST - X - - -
+                 ISO - - O - -
+         BOOT-DEVICE - - X - -
+               SENSE - - - O -
+              SCREEN - - - S -
+           INTERFACE - - - X -
+              CHANGE - - - X -
+                HTOP - - - X -
+                LOAD - - - O -
+            INSTANCE - - - X -
+              CURSOR - - - S -
+               MOUSE - - - X -
+                HMMM - - - X -
+                  .. - - - O -
+            INTEREST - - - S -
+UBUNTU-ORCHESTRA-CLIENT-JUJU - - - - O

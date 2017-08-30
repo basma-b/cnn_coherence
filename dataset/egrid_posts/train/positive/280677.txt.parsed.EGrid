@@ -1,0 +1,10 @@
+           DIRECTORY X - - -
+         COMPRESSION X - - -
+             COMMAND - X - -
+                LINE - X - -
+              OPTION - O - -
+                 TAR - X - -
+                  -C - S - -
+                   > - O - -
+              INSTAD - - - O
+                BZIP - - - X

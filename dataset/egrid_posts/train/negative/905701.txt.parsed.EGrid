@@ -1,0 +1,15 @@
+                HELP O - - - - -
+             NOTHING S - - X - -
+                WORK X - - X - -
+GNOME-VOLUME-MANAGER O - - - - -
+                UDEV X - - - - -
+             DEFAULT - - O - - -
+                 USE - - - X - -
+         DEBOOTSTRAP - - - O - -
+                BOOT - - - - S X
+           SEGFAULTS - - - - O -
+                 LOT - - - - X -
+              SCRIPT - - - - X -
+            FAILURES - - - - X -
+              SCREEN - - - - - X
+                  CD - - - - - O

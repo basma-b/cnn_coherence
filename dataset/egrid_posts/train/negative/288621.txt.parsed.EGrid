@@ -1,0 +1,10 @@
+               SSHFS S -
+                 SSH O -
+                 USE X -
+                FUSE X -
+                FILE O -
+         APPLICATION X -
+          FILESYSTEM O -
+              ACCESS - X
+                HTTP - S
+//WWW.TECHOTOPIA.COM/INDEX.PHP/REMOTE_ACCESS_TO_THE_UBUNTU_LINUX_DESKTOP - S

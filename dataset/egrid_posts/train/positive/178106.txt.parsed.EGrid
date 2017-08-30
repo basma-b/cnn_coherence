@@ -1,0 +1,7 @@
+                TYPE X X
+             APT-GET X S
+               ERROR X X
+      /LIB/LIBC.SO.6 X X
+             VERSION X X
+/USR/LIB/LIBSTDC++.SO.6 X X
+            QUESTION O -

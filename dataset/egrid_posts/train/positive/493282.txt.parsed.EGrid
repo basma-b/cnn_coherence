@@ -1,0 +1,20 @@
+                 GUY S - - - - - - -
+             NETWORK X - - - - - - -
+       CONFIGURATION X - - - - - - -
+                 GUI O X - - - - - -
+             COMMAND O - - - - - - -
+          BACKGROUND X - - - - - - -
+                DHCP O X - - - - - X
+                CARD X O - - - - - -
+                  IP - - O - - - - -
+            DHCLIENT - - - - S - - -
+          DHCPOFFERS - - - - S - - -
+                WORK - - - - - X - -
+               LEASE - - - - - X - -
+            DATABASE - - - - - X - -
+               SLEEP - - - - - X - -
+                THAT - - - - - - O -
+                SSID - - - - - - X -
+                 KEY - - - - - - O -
+/ETC/NETWORK/INTERFACE - - - - - - X -
+              ROUTER - - - - - - - X

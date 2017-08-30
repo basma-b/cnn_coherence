@@ -1,0 +1,20 @@
+                USER O - - - - - - - - - - -
+               SETUP X - - - - - - - - - - -
+             SUDOERS X - - - - - - - - - - -
+                 BOB X - - - - - X - - - S X
+       ADMINISTRATOR S - - - - - - - - - - -
+            NOPASSWD O S - - - - - - - - - -
+             OPT_BIN X - - - - - - - - - - -
+               ENTRY S - - - - - - - - - - -
+            PASSWORD X - - - - - - - - - X -
+                IDEA - X - - - - - - - - - -
+              TIDBIT - - O - - - - - - - - -
+                PAGE - - X - - - - - - - - -
+                HTTP - - - S - - - - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/SUDOERS - - - X - - - - - - - -
+                ROOT - - - - - X X - - - - -
+                WORK - - - - - - X - - - - -
+                  SU - - - - - - - - O - - -
+                 USE - - - - - - - - - X - -
+                SUDO - - - - - - - - - O - -
+             SOMEONE - - - - - - - - - - - S

@@ -1,0 +1,16 @@
+              KERNEL S - - - - - -
+             FEATURE O - - - - - -
+          FILESYSTEM X - - - - - -
+                TYPE X - - - - - -
+             MODULES - X - - - - -
+                EXT3 - X - - - - -
+                ROOT - S - - - - -
+              INITRD - X S - - - -
+                  .. - - - S - - -
+         FILESYSTEMS - - - X - - -
+              CRAMFS - - - - S - -
+             SMTHING - - - - X - -
+               THERE - - - - X - -
+                 RAM - - - - - - X
+                DISK - - - - - - X
+             SUPPORT - - - - - - X

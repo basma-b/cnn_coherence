@@ -1,0 +1,12 @@
+               THERE X - - -
+             COMMAND X - - -
+             DEVICES X - - -
+               MOUNT - S - -
+     /DEV/SDWHATEVER - O - -
+             NETWORK - - X X
+             MANAGER - - S X
+         RESOLV.CONF - - X -
+                   | - - - X
+                GREP - - - X
+             PACKAGE - - - X
+              INSTAL - - - O

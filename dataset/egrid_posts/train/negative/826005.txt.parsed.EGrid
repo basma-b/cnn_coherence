@@ -1,0 +1,23 @@
+                SUDO S - - - - - X -
+               BLOCK X - S - - - - -
+               COUNT O - - - - - - -
+             RESERVE O - X - - S - -
+              SHOULT - S - - - - - -
+                   % - O - - - - O -
+             DEFAULT - X - - - - - -
+             TUNE2FS - - S - - - S -
+                EXT3 - - X - - - - -
+          CONVENTION - - S - - - - -
+          FILESYSTEM - - S - - - X -
+                DATA - - X - - - - -
+                /VAR - - X - - - - -
+                /TMP - - X - - - - -
+                INFO - - - - X - - -
+           /DEV/SDXY - - - - - - S -
+                ROOT - - - - - - O -
+               STUFF - - - - - - O -
+               USERS - - - - - - X -
+               ALWYS - - - - - - S -
+                MORE - - - - - - X -
+              ERRORS - - - - - - - O
+/VAR/LOG/APACHE2/ERROR.LOG - - - - - - - X

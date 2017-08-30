@@ -1,0 +1,17 @@
+                  CD X - - - -
+             WINDOWS X X - - -
+        INSTALLATION X - - - -
+                LIST X - - - -
+                GRUB X - - - -
+                BOOT X - - - -
+             MANAGER X - - - -
+              GKSUDO - X - - -
+               GEDIT - X - - -
+ /BOOT/GRUB/MENU.LST - S - - -
+               ENTRY - O - - -
+             COMMENT - O - - -
+           PARTITION - O - - -
+               THERE - S - - -
+                HDA2 - - O - -
+             EXAMPLE - - - X -
+               LINUX - - - - X

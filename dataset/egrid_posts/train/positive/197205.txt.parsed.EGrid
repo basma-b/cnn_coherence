@@ -1,0 +1,10 @@
+              SERVER O - - - -
+                CANT X - X - -
+                 PCS X - X - -
+                OOPS S - S - -
+                THIS X - X - -
+            QUESTION - - O - -
+              VSFTPD - - X - -
+/ETC/VSFTPD/VSFTPD.CONF - - - X -
+    /ETC/VSFTPD.CONF - - - X -
+    LOCAL_ENABLE=YES - - - - X

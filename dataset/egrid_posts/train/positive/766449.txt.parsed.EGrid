@@ -1,0 +1,9 @@
+                USER S - - -
+               ADMIN X - - -
+               GROUP X - - -
+                  SU S - - -
+              ANYONE S - - -
+             SUDOERS - X - -
+                FILE - X - -
+                  YA - O - -
+              VISUDO - - - O

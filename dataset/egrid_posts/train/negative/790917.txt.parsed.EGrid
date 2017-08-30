@@ -1,0 +1,10 @@
+                TYPE O -
+                GRUB X -
+               PROMT X -
+FIND/BOOT/GRUB/STAGE1 X -
+               ERROR X -
+              SYNTAX S -
+    NAMEOFFILETOFIND O -
+                THIS - X
+            HARDWARE - S
+              LIVECD - O

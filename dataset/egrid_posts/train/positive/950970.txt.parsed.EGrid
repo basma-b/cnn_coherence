@@ -1,0 +1,20 @@
+      C-HEADER-FILES O - - - - - - -
+/USR/SRC/LINUX/INCLUDE X - - - - - - -
+           SOMETHING X - - - - - - -
+                  .. X - - - - - - -
+               THERE S - S - - - - -
+             PACKAGE O - - - - - - -
+                NAME X - - - - - - -
+         CONVENTIONS O - - - - - - -
+       LINUX-HEADERS - S O - X - - -
+                NONE - X - - - - - -
+             VERSION - - S - - - - -
+               LINUX - - X - - - - -
+              KERNEL - - X - - - - -
+             HEADERS - - O - - - - -
+             CONFUSE - - O - - - - -
+                   $ - - - O - - - -
+                SUDO - - - S - - - -
+                  -R - - - X - - - -
+LINUX-KERNEL-HEADERS - - - - X - - -
+           LINUX-386 - - - - - - - X

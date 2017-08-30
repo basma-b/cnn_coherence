@@ -1,0 +1,13 @@
+         LIBNSS-LDAP O - - - - -
+                THIS S - - - - -
+             PACKAGE O - - - - -
+       CONFIGURATION S - - - - -
+       PURGE/INSTALL X - - - - -
+            QUESTION O - - - - -
+              CONFIG X - - - - -
+                SUDO - - X - - -
+                   < - - S - - -
+                THAT - - - O - -
+            UPDATEDB - - - - - S
+               CYCLE - - - - - S
+          BACKGROUND - - - - - X

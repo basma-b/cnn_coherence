@@ -1,0 +1,17 @@
+             APT-GET S - - - - - - -
+               PURGE X - - - - - - -
+               SAMBA O - - S - - - -
+                 APT - S - - - - - -
+             SERVICE - O - - - - - -
+                  PS - X - - - - - -
+                GREP - X - - - - - -
+                 SMB - S - - X - - -
+             NOTHING - S - - - S - -
+          /ETC/SAMBA - - S - - - - -
+              DEAMON - - - O - - - -
+                SMBD - - - X - - - -
+            ANYTHING - - - - O - - -
+                LIST - - - - X - - -
+                MESS - - - - - - O -
+             PROBLEM - - - - - - X -
+                DAYS - - - - - - X -

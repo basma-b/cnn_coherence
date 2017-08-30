@@ -1,0 +1,12 @@
+              DEVICE - O - X -
+             COMMAND - X - X -
+                LINE - X - X -
+                GRUB - - - X -
+                TYPE - - - X -
+                THIS - - - O -
+/DEV/MAPPER/ISW_BUNCHOFLETTERS_RAID1 - - - S -
+               ARRAY - - - O -
+          FILESYSTEM - - - X -
+                THAT - - - - S
+             NOTHING - - - - X
+               HARDY - - - - X

@@ -1,0 +1,13 @@
+              DRIVER O S -
+                CANT X - -
+                  HD X - -
+                HYDH O - -
+             COMMAND S - -
+                CARD X - -
+                POST O - -
+               LSPCI - X -
+                   | - X -
+                GREP - X -
+                 VGA - X -
+                 PPA - S X
+UBUNTU-X-SWAT/X-UPDATES - - X

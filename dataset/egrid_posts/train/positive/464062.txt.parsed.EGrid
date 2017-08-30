@@ -1,0 +1,13 @@
+               NOONE S - - - -
+            MODPROBE X - - - -
+             MODULES - X S O -
+                LOAD - X - - -
+                BOOT - X - X -
+                  IM - - S - -
+              DRIVER - - S - -
+              NVIDIA - - X - -
+              MODULE - - O - -
+        /ETC/MODULES - - - X -
+                NAME - - - - O
+                 .KO - - - - X
+           EXTENSION - - - - X

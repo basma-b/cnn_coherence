@@ -1,0 +1,13 @@
+           PARTITION S - -
+              FORMAT O - -
+            REISERFS X - -
+                INFO O - -
+                 USE - X -
+              SYSTEM - X -
+                   > - X -
+      ADMINISTRATION - S -
+                DISK - O -
+               GURUS - - S
+             CHANNEL - - X
+              ANSWER - - O
+              SEARCH - - O

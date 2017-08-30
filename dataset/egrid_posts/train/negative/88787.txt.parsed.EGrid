@@ -1,0 +1,6 @@
+     BUILD-ESSENTIAL X - -
+              SYSTEM X - -
+            INTERNET X - -
+                ALSA - - O
+                 ESD - - X
+                BITE - - O

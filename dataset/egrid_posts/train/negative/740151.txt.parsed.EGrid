@@ -1,0 +1,7 @@
+                BOOT O - - -
+      I915.MODESET=0 X - - -
+                 KMS - X - -
+             PROBLEM - X - -
+             VERSION - X - -
+      I915.MODESET=1 - - S -
+                 FIX - - O -

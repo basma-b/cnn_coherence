@@ -1,0 +1,12 @@
+                   A O - - - - -
+               RMMOD X - - - - -
+            MODPROBE S X - - - -
+             NOTHING S - - - - -
+                ETH0 S O - - - -
+           INTERFACE X - - - - -
+               R8169 - X - - - -
+                   U - S - - O -
+               ALIAS - S - - - -
+                CONF - S - - - -
+                INFO - - - - X -
+                RTFM - - - - - X

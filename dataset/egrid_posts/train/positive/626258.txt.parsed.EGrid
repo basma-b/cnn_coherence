@@ -1,0 +1,14 @@
+              KERNEL X - - - -
+               PANIC X - - - -
+                SYNC X - - - -
+           EXCEPTION X - - - -
+           INTERRUPT X - - - -
+                READ - X - - -
+   /VAR/LOG/KERN.LOG - X - - -
+              UBUNTU - - O - -
+              DEBIAN - - X - -
+        INSTALLATION - - X - -
+            PROCCESS - - O - -
+               DRIVE - - - O S
+             MACHINE - - - - X
+                 IDE - - - - O

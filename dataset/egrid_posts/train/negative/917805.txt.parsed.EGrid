@@ -1,0 +1,13 @@
+           VARIABLES S - - -
+              CONFIG X - - -
+                TRUE S - - -
+                MAIL - - O -
+                CRON - - S -
+                USER - - X -
+              ERRORS - - O -
+                MUTT - - - X
+             EXAMPLE - - - X
+                INFO - - - O
+              TARGET - - - X
+                NAME - - - O
+                LINK - - - X

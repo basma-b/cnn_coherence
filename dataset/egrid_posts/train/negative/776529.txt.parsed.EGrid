@@ -1,0 +1,16 @@
+              ADVICE O - - - - -
+                CARD S - - - - -
+            FIRMWARE O S - - - -
+       /LIB/FIRMWARE - X - - - -
+               DMESG - X - - - -
+              DRIVER - X - - - -
+              MODULE - X - - - -
+              DEVICE - X X - - -
+                  TV - - X - - -
+        INSTRUCTIONS - - O - - -
+               LSUSB - - X - - -
+             APT-GET - - - - S -
+              THINGS - - - - O -
+                PART - - - - X -
+             PACKAGE - - - - - S
+        REPOSITORIES - - - - - X

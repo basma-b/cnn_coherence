@@ -1,0 +1,57 @@
+           LARD|ARSE X - - - - - - - - - -
+                 USE O - - - - - - - - - -
+              KERNEL X - - X - X - - - - -
+               THING - X - - - - - - - - -
+                BOOT - S - - - X - - - - -
+             MESSAGE - S - - - - - - - - -
+                   X - S - - - - - - - - -
+              OUTPUT - O - - - O X - - - -
+                HTTP - X - - - - - X - - X
+  //PASTE.UBUNTU.COM - O - - - - - - - - -
+             COMMAND - X - - - - X - - - -
+                SUDO - X - - - - - - - - -
+               LSPCI - O - - - - - - - - -
+//PASTE.UBUNTU.COM/117874/ - S - - - - - - - - -
+                LOAD - X - - - - - - - - -
+                VIEW - X - - - - - - - - -
+                PAN0 - X - - - - - - - - -
+         NETIF_F_UFO - O - - - - - - - - -
+     NETIF_F_HW_CSUM - X - - - - - - - - -
+             FEATURE - X - - - - - - - - -
+                8.10 - - X - - - - - - - -
+                CARD - - O - - - - - - - -
+       DRIVER/KERNEL - - X - - - - - - - -
+              MODULE - - X - - - - - - - -
+                WORK - - X - - X - - - - -
+                 MSI - - X X - - - - - - -
+                WIND - - X - - - - - - - -
+                P965 - - - S - - - - - - -
+         DIFFERENCES - - - S - - - - - - -
+                 SEC - - - - X - - X - - -
+             PACKAGE - - - - O - - - - - X
+             APT-GET - - - - S - - - - - -
+LINUX-RESTRICTED-MODULES-2.6.27-11-GENERIC - - - - O - - - - - -
+         RECONFIGURE - - - - X X - - - - -
+                 ONE - - - - - X - - - - -
+                 -11 - - - - - X - - - - -
+                  .. - - - - - X X - - - -
+       CONFIGURATION - - - - - X - - - - -
+                FILE - - - - - X X - - - O
+          EVERYTHING - - - - - X - - - - -
+                  OK - - - - - O - - - - -
+              ERRORS - - - - - X - - - - -
+                   > - - - - - S - - - - -
+                DIFF - - - - - X X X - - -
+                BOTH - - - - - O - - - - -
+             VERSION - - - - - X - - - - -
+                  -9 - - - - - X X - - - -
+          CONNECTION - - - - - X - - - - -
+                SHOW - - - - - - O - - - -
+               THERE - - - - - - S - - - -
+               ENTRY - - - - - - X - - - -
+              SEARCH - - - - - - - O - - -
+           SOMETHING - - - - - - - X - - -
+                 BUG - - - - - - - O - - -
+//PASTE.UBUNTU.COM/117888/ - - - - - - - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+FILEBUG - - - - - - - - - - X
+               LINUX - - - - - - - - - - X

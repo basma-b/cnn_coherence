@@ -1,0 +1,17 @@
+           JUMPDRIVE O - - -
+          BADSECTORS S - - -
+              ANYONE X - - -
+             UTILITY X - - -
+             SECTORS X - - -
+              ANSWER S - - -
+                  PM X - - -
+                FSCK X - - -
+           PARTITION X - - -
+                NAME S - - -
+              FORMAT X - - -
+                EXT3 X - - -
+               FAT32 X - - -
+                MESS - - X -
+              SCRIPT - - X -
+                   * - - - S
+/ETC/UDEV/RULES.D/70-PERSISTENT-CD.RULES - - - X

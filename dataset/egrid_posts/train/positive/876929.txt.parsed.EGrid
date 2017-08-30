@@ -1,0 +1,27 @@
+                 HEY X - - - - - -
+                 PPA X - O X - O -
+                 BOX X - - - - - -
+               ISSUE - X - - - - -
+            MAVERICK - - X - - - -
+                CANT - - X - - - -
+             PACKAGE - - X - - - -
+          MANAGEMENT - - X - - - -
+              SYSTEM - - X X - X -
+            PHP5-FPM - - - S - - -
+               BREAK - - - X - - -
+          DEPENDENCY - - - X - - O
+             POINTER - - - X - - -
+             VERSION - - - X - X -
+           REFERENCE - - - X - - -
+           PPA-PURGE - - - - S - -
+                 FIX - - - - S - O
+             COMMAND - - - - O - -
+                THAT - - - - - S -
+/ETC/APT/SOURCES.LIST.D/ - - - - - X -
+        DIST-UPGRADE - - - - - O O
+                SYNC - - - - - X -
+              NUMBER - - - - - O -
+                REST - - - - - X -
+               REPOS - - - - - X -
+                FILE - - - - - - O
+                  -F - - - - - - X

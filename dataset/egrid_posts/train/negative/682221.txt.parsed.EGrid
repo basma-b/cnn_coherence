@@ -1,0 +1,13 @@
+              SYSTEM X - - - -
+               CLOCK S - - - -
+              UBUNTU X - - - -
+                TIME - X - - -
+                 NTP - X - - -
+             NETWORK - X - - -
+            PROTOCOL - X - - -
+              DAEMON - - S - -
+                NTPD - - O - -
+                THAT - - - S X
+            INTEREST - - - X -
+                  .. - - - O -
+          ENCRYPTION - - - - S

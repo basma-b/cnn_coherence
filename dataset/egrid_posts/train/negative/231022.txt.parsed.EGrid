@@ -1,0 +1,14 @@
+             COMMAND O - - - - -
+            TRAVERSE X - - - - -
+           DIRECTORY X - - - - -
+                  -R S - - - - -
+                BITE X - - - - -
+                -R-X S - - - - -
+               CHMOD O - - - - -
+               ERROR - - S - - -
+             PROBLEM - - O - - -
+           SOMETHING - - X - - -
+              REASON - - - X - -
+          DEPENDENCY - - - O - -
+          VIRTUALBOX - - - X - -
+       CONFIGURATION - - - - O -

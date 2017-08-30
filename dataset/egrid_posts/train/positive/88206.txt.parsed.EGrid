@@ -1,0 +1,18 @@
+                TIME X - - - - - - - -
+             NETWORK X - - - - - - - -
+       CONFIGURATION S - - - - - - - -
+              LAPTOP X - - - - - - - -
+                BOOT X - - - - - - - -
+               GUESS - S - - - - - - -
+                ETH0 - O - - - - - - -
+            WIRELESS - X - - O - - - -
+/ETC/NETWORK/INTERFACES - X - - - - - - -
+              ANYONE - - X - - - - - -
+            ANYTHING - - - X - - - - -
+               DMESG - - - X - - - - -
+              ACCESS - - - - - X - - -
+               POINT - - - - - O - - -
+             DRIVERS - - - - - - X - -
+             NOTHING - - - - - - - S -
+                LSMO - - - - - - - X -
+               LSPCI - - - - - - - - X

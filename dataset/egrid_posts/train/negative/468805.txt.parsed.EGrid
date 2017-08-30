@@ -1,0 +1,25 @@
+               ERROR S - - - - - - -
+         COMPILATION X - - - - - - -
+               ABORT X - - - - - - -
+                LINE X - - - - - - -
+        APPCONFIG.PM O - - - - - - -
+                 INC X - - - - - - -
+      /USR/LIB/PERL5 S - - - - - - -
+/USR/LOCAL/LIB/SITE_PERL O - - - - - - -
+  /USR/BIN/APT-BUILD - X - - - - - -
+              ANYONE - - S - - - - -
+            ANYTHING - - X - - - - -
+           REINSTALL - - - O - - - -
+                PERL - - - X - - - -
+              SERVER - - - X - - - -
+                THIS - - - S - - - -
+           APPCONFIG - - - O X X - -
+                THAT - - - - S - - -
+                SUDO - - - - X S - -
+                CPAN - - - - X - - -
+                  -E - - - - - S - -
+                  OK - - - - - O - -
+                 ALL - - - - - O - -
+              SUDDEN - - - - - X - -
+           APT-BUILD - - - - - - S -
+                WORK - - - - - - X -

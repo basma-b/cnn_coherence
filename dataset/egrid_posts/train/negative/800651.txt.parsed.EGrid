@@ -1,0 +1,9 @@
+                MODE X - - - -
+                MASK - X - - -
+             ADDRESS - X - - -
+              DRIVER - - - X -
+               MOUSE - - - S -
+                 USE - - - X -
+  /ETC/X11/XORG.CONF - - - - X
+               LABEL - - - - O
+     CONFIGUREDMOUSE - - - - X

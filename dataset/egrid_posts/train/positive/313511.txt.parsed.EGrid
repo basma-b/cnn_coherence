@@ -1,0 +1,22 @@
+                 ALL O - - - - - - - -
+                  IM S - - - - - - - -
+              DRIVER O - - - - - - - -
+                FILE O - - O O - O X -
+              FOLDER X - - - - - - - -
+        /MODPROBE.D/ X - - - - - - - -
+          PERMISSION O X - - - - - - -
+             ANYBODY - X - - - - - - -
+             PROBLEM - O - - - - - - -
+/ETC/MODPROBE.D/BLACKLIST - - - X - X - - -
+         PERMISSIONS - - - - O - - - -
+              GKSUDO - - - - - X - - -
+                TEXT - - - - - X - - -
+              EDITOR - - - - - O - - -
+                  'S - - - - - S - - -
+               GEDIT - - - - - O - - -
+             COMMAND - - - - - X - - -
+            PASSWORD - - - - - - X - -
+               RIGHT - - - - - - X O -
+                TIRE - - - - - - - X -
+               LOGIC - - - - - - - X -
+            SOLUTION - - - - - - - - X

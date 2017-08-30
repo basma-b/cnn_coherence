@@ -1,0 +1,11 @@
+               AMD64 X - - - -
+         ./CONFIGURE O - - - -
+                 APP O - - - -
+              SIZEOF - - X - -
+           TOOLCHAIN - - - O -
+                 GCC - - - X -
+            BINUTILS - - - X -
+           LIBRARIES - - - X -
+                  .. - - - X -
+              EFFORT - - - X -
+             UPGRADE - - - - S

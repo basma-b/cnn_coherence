@@ -1,0 +1,24 @@
+                TIME - X - - - - - -
+             PROCESS - O - - - - - -
+                ROOT - X - - - - - -
+               START - X - - - - - -
+                BOOT - X X - - - - -
+                 WAY - X - - - - - -
+                USER - S - - - - - -
+                  EG - - S - - - - -
+                BOOK - - X - - - - -
+           PARAMETER - - O - - - - -
+                MODE - - X - - - - -
+                 ETC - - O - - - - -
+              DAEMON - - X - - - - -
+/ETC/INIT/LIGHTDM.CONF - - X - - - - -
+                TEXT - - X - - - - -
+              KERNEL - - X - - - - -
+            ARGUMENT - - S - - - - -
+             SERVICE - - S - - - - -
+               TRISM - - O - - - - -
+              ESCOTT - - X - - - - -
+                 TRY - - - X - - - -
+                 SEC - - - X - - - -
+    /VAR/LOG/TOMCAT6 - - - - X - - -
+                 LOG - - - - - X - -

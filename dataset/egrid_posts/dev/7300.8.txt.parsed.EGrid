@@ -1,0 +1,22 @@
+                 THE S - - - - -
+             PACKAGE S - S - - -
+                 PIN O - O - - -
+        DIST-UPGRADE O - O - - -
+             PRECISE X - - - - -
+/ETC/APT/PREFERENCES.D/FILE O - - - - -
+                PHP5 X - - - - -
+            PHP5-CGI X - - - - -
+              PHP5.2 O - - - - -
+             WEBSITE X - - - - -
+        COMMAND-LINE - O - - - -
+             COMMAND - X - - - -
+             UPGRADE - - O - - -
+              UPDATE - - X - - -
+                DPKG - - X - - -
+                SUDO - - X - - -
+                  -Y - - X - - -
+              INSTAL - - X - - -
+          EVERYTHING - - - - S -
+              VOLUME - - - - X -
+             NOTHING - - - - - S
+           SOMETHING - - - - - O

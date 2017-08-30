@@ -1,0 +1,16 @@
+             COMMAND O - - - - -
+               ORDER S - - - - -
+          OPERATIONS O - - - - -
+               MEDIA - X - - - -
+          UDEV-RULES - - O - - -
+                  CD - - X - - -
+    /MAGIC/DIRECTORY - - X - - -
+               -LSB- - - S - - -
+           SOMETHING - - O O - -
+              SCENES - - X - - -
+/VAR/SNAPSHOTS/SOMENUMBER - - - X - -
+            SNAPSHOT - - - O - -
+               XDMCP - - - - X -
+                 E.G - - - - O -
+               LOGIN - - - - - X
+              SCREEN - - - - - O

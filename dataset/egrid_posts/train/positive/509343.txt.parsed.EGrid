@@ -1,0 +1,16 @@
+              OUTPUT - S - - X - X - - - -
+             PATTERN - - - S - - - - - - -
+                PIPE - - - O X - - - - - -
+                 FOO - - - - S - - - - - -
+                NOTE - - - - O - - - - - -
+              STDERR - - - - O - - - - - -
+              STDOUT - - - - - X - - - - -
+                FILE - - - - - - X - - - -
+                   > - - - - - - X - - - -
+              ERRORS - - - - - - O - - - -
+                  OK - - - - - - X - - - -
+               MAGIC - - - - - - O - - - -
+                 ERM - - - - - - X - - - -
+                  =/ - - - - - - - - X - -
+                USER - - - - - - - - X - -
+               ERROR - - - - - - - - X - -

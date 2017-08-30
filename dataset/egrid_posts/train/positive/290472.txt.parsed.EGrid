@@ -1,0 +1,23 @@
+                COTL X - - - - - - - - - -
+    BCM43XX-FWCUTTER X - - - - - - - - - -
+                  TA X - - - - - - - - - -
+             WINDOWS X X - - - - - - - - -
+             DRIVERS O O - - - - - - - - -
+              INSTAL - O - - - - - - - - -
+            HARDWARE - - X - - - - - - - -
+             PRESENT - - O - - - - - - - -
+                SIGN - - X - - - - - - - -
+                SUDO - - - - - S X - - - -
+           BLACKLIST - - - - - X - - X - -
+             BCM43XX - - - - - O S X X - -
+/ETC/MODPROBE.D/BLACKLIST - - - - - X - - - - -
+              RETURN - - - - - O - - - - -
+             COMMAND - - - - - X - - - X -
+              NORMAL - - - - - O - - - - -
+                GREP - - - - - - O - - - -
+            RESPONSE - - - - - - - X - - -
+                THIS - - - - - - - - O - -
+                WORK - - - - - - - - - X -
+              TOUNGE - - - - - - - - - - X
+            SOUNDRAY - - - - - - - - - - X
+              REBOOT - - - - - - - - - - X

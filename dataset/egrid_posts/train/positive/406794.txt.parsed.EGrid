@@ -1,0 +1,17 @@
+                   ' S - - - - -
+              SPLASH O - - - - -
+              CHANGE X - - - - -
+            NOSPLASH O - - - - -
+             USPLASH - X O - - -
+              KERNEL - O - - - -
+                TEXT - X - - - -
+                MODE - X - - - -
+                   > - S - - - -
+                PART - O - - - -
+              INITRD - X - - - -
+                CALL - O - - - -
+               START - X X - - -
+                CARE - - O - - -
+                GRUB - - X - - -
+                INFO - - - - O -
+               THANK - - - - - X

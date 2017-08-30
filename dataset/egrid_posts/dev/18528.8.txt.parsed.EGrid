@@ -1,0 +1,13 @@
+            LOCATION O - - - -
+             PRINTER O - - - -
+                  IP O - - - -
+                PORT X - - - -
+              NUMBER O - - - -
+                CANT - X - - -
+              DRIVER - O - - -
+               KODAK - - X - -
+                 USE - - - X -
+                  RW - - - O -
+               ASYNC - - - X -
+          ALL_SQUASH - - - O -
+      NO_ROOT_SQUASH - - - - X

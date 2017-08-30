@@ -1,0 +1,30 @@
+               DRIVE S - - - - X
+               CHAIN X O - - - -
+                 WAY X - - - - -
+              UBUNTU O - - - - -
+                THIS X - - - - -
+                BOOT X - - - - -
+                 IDE - X - - - -
+                  CD - X - - - -
+                5.04 - X - - - -
+             PRIMARY - - X - - -
+             CHANNEL - - X - - -
+                GRUB - - - X - -
+ /BOOT/GRUB/MENU.LST - - - S - -
+                ROOT - - - X - -
+                MODE - - - X - -
+                 HD0 - - - X - -
+                   X - - - X X -
+        NOMENCLATURE - - - X - -
+                 HDB - - - - S -
+              KERNEL - - - - X -
+             COMMAND - - - - X -
+                LINE - - - - O -
+                SUDO - - - - S -
+         /MEDIA/HDB2 - - - - S -
+              GKSUDO - - - - O -
+               GEDIT - - - - X -
+/MEDIA/HDB2/BOOT/GRUB/MENU.LST - - - - X -
+                 OK. - - - - S -
+/MEDIA/HDB2/ETC/FSTAB - - - - X -
+          EVERYTHING - - - - - O

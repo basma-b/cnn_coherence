@@ -1,0 +1,15 @@
+              DISK-3 S - - - - - - - - - -
+                BOOT X - - - - - - - - - -
+           PARTITION O - - - - - - - - - -
+                SUDO - S - - - - - - - - -
+                GRUB - - X S - - - - - - -
+           /DEV/HDA3 - - X - - - - - - - -
+                   U - - - S - - - X - - -
+               BREAK - - - O - - - - - - -
+               ERROR - - - - - X - - - O -
+             VERSION - - - - - - - O - - -
+              UBUNTU - - - - - - - X - - -
+               64BIT - - - - - - - X - - -
+              SYSTEM - - - - - - - - X - -
+         PREFERENCES - - - - - - - - X - -
+                MENU - - - - - - - - X - -

@@ -1,0 +1,14 @@
+               11.04 X - - - - - - -
+                   X - S - - - - - -
+              WINDOW - S - - - - - -
+             MACHINE - - X - - - - -
+ /VAR/LOG/XORG.0.LOG - - - S - - - -
+              NVIDIA - - - X - - - -
+              MODULE - - - S - - - -
+             DRIVERS - - - S - - - -
+                THIS - - - - X - - -
+                SUDO - - - - - X - -
+    DPKG-RECONFIGURE - - - - - S - -
+             COMMAND - - - - - - S -
+            ANYTHING - - - - - - O -
+                  =/ - - - - - - - X

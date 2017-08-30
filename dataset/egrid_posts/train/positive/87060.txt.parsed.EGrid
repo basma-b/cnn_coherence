@@ -1,0 +1,11 @@
+           PARTITION X - - - -
+            HARDDISK X - - - -
+             WINDOWS - - O - -
+        /MNT/WINDOWS - - X - -
+                LINK - - X - -
+              FOLDER - - X - -
+             DESKTOP - - X X -
+                5.10 - - - O -
+                   > - - - S -
+               FSTAB - - - X X
+                ICON - - - O -

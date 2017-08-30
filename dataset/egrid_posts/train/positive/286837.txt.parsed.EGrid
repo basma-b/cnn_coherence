@@ -1,0 +1,10 @@
+             NETWORK X - - - -
+             MANAGER X - - - -
+             DEVICES X - - - -
+/ETC/NETWORK/INTERFACES - X - O -
+                AUTO - - X - -
+  DEVICENAME\NIFNACE - - X - -
+          DEVICENAME - - X - -
+                INET - - X - -
+                DHCP - - O - -
+      NETWORKMANAGER - - - S -

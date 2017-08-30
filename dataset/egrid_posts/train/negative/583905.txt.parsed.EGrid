@@ -1,0 +1,14 @@
+             NETWORK S - - - -
+              ROUTER O S X - -
+             GATEWAY S - X - -
+                MASK S - - S -
+            INTERNET - X - - -
+          CONNECTION - O - - -
+                  IP - - S S -
+             ADDRESS - - O - -
+           SOMETHING - - - O -
+         192.168.0.X - - - X -
+       255.255.255.0 - - - S -
+                 SIR - - - X -
+                   X - - - - X
+               BREAK - - - - O

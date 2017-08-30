@@ -1,0 +1,13 @@
+                 PGA X - S - - -
+           PARTITION X - - - X -
+             WINDOWS X - - - - -
+              UBUNTU X - - X - -
+                  CD - - O - - -
+              MEMORY - - X - - -
+            /DEV/HDA - - - - S -
+              DEVICE - - - - O -
+                 IDE - - - - X -
+          CONTROLLER - - - - X -
+           /DEV/HDA1 - - - - X -
+                SATA - - - - O -
+                  OK - - - - - X

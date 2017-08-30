@@ -1,0 +1,27 @@
+                TOOL X - - - - - -
+            FUNCTION S - - - - - -
+                MAKE X - - - - - -
+            BINUTILS X - - - - - -
+                 GCC X - - - - - -
+                 RUN X - - - - - -
+              KERNEL X X - - - - -
+              SOURCE S O - - - - -
+                LOOK - - - O - - -
+                 FAQ - - - X - - -
+                VBOX - - - X - - -
+                 ALL - - - S - - -
+                 SEC - - - O - - -
+               DIDNT - - - X - - -
+                 BOT - - - O - - -
+               SETUP - - - - X X -
+                  .. - - - - X - -
+                 NAT - - - - - X -
+                  VM - - - - - S -
+           INTERFACE - - - - - O -
+                 BR0 - - - - - O X
+/ETC/NETWORK/INTERFACES - - - - - X -
+             NETWORK - - - - - S -
+                PART - - - - - - S
+             PROBLEM - - - - - - X
+                  IP - - - - - - O
+                ETH0 - - - - - - X

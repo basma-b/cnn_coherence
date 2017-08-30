@@ -1,0 +1,15 @@
+             COMMAND X - - - X
+                FILE X - - X -
+           DIRECTORY X - - - -
+               LINUX X - - - -
+                 MAN - X - - -
+               XARGS - S - - X
+                   F - - X - -
+                   | - - S - -
+           MYCOMMAND - - O - -
+                THAT - - - X -
+                LIST - - - X -
+               SPACE - - - X -
+               STRIP - - - - X
+           EXTENSION - - - - X
+           FILENAMES - - - - X

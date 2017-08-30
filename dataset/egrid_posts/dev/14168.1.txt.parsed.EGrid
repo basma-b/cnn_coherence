@@ -1,0 +1,12 @@
+            GRUB.CFG S - -
+                GRUB X - -
+              CONFIG X - -
+                FILE O - -
+        /ETC/GRUB.D/ S - -
+               PLACE X - -
+             ENTRIES O - -
+                MENU X - -
+   /ETC/DEFAULT/GRUB - - O
+                BOOT - - X
+             OPTIONS - - O
+                  OS - - X

@@ -1,0 +1,11 @@
+               LINUX S - -
+           PARTITION O - -
+              SYSTEM X - -
+                BOOT X - -
+                HDA1 S - -
+              UBUNTU O - -
+                HDA2 S - O
+                SUSE O - O
+                SWAP X - -
+               RIGHT - - O
+                GRUB - - S

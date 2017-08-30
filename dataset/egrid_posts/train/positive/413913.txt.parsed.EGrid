@@ -1,0 +1,13 @@
+                LINE O - - - - - -
+               FSTAB X - - - - - -
+               SMBFS X - - - - - -
+               SHARE O - - - - - -
+                BOOT X - - - - - -
+             NETWORK X - - - - - -
+              REBOOT - X - - - - -
+              DEVICE - O - - - - -
+              SERVER - - X - - - -
+                 BOX - - - O - - -
+              SCREEN - - - X - - -
+               THING - - - - S - -
+                 SSH - - - - - - X

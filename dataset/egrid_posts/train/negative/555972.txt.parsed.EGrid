@@ -1,0 +1,14 @@
+                HMMM X - -
+                TYPE S - -
+       IPTABLES-SAVE S - -
+                   > X - -
+/ETC/IPTABLES.TEST.RULES S - -
+                BASH S - -
+          PERMISSION S - -
+             COMMAND X - -
+                ROOT X - -
+                FILE X - -
+           OPERATION S - -
+                USER X - -
+               UNITY - - O
+             SESSION - - O

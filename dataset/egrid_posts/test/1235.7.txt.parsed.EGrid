@@ -1,0 +1,14 @@
+               DMESG S - - -
+              KERNEL X - - -
+             MESSAGE X O - -
+              BUFFER O - - -
+            ANYTHING - S - -
+                BIOS - X - -
+                BOOT - X - -
+                 LOG - X - -
+                FILE - X - -
+                DATE - - - O
+               THOSE - - - O
+                 SEE - - - X
+                 MAN - - - X
+            STRFTIME - - - O

@@ -1,0 +1,31 @@
+             ANYBODY S - - - - - - -
+                 TIE - O - - - - - -
+          LIBMP3LAME - O - - - - - -
+                SUDO - X - - - X - -
+             APT-GET - S - - - - - -
+             READING - X - - - - - -
+             PACKAGE - X - S - - - -
+                LIST - X - - - - - -
+                  .. - O X - - - - -
+            BUILDING - - X - - - - -
+          DEPENDENCY - - X - - - - -
+                TREE - - X - - - - -
+               STATE - - X - - - - -
+         INFORMATION - - X - - - - -
+                TIME - - - - S - - -
+                 TIP - - - - O - - -
+           APT-CACHE - - - - - X - -
+              SEARCH - - - - - X - -
+             MP3LAME - - - - - O - -
+                HTTP - - - - - O - -
+//PACKAGES.UBUNTU.COM - - - - - X - -
+                NAME - - - - - O - -
+/ETC/APT/SOURCES.LIST - - - - - - X X
+                TEXT - - - - - - X -
+              EDITOR - - - - - - X -
+            UNIVERSE - - - - - - X -
+        REPOSITORIES - - - - - - S -
+              ENABLE - - - - - - O -
+               THERE - - - - - - - S
+               ENTRY - - - - - - - O
+          MULTIVERSE - - - - - - - X

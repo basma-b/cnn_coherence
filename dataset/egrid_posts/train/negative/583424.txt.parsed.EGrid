@@ -1,0 +1,19 @@
+/VAR/LIB/DPKG/INFO/IRDA-UTILS.POSTINST X - - - - - - - - -
+                LINE X - - - - - - - - -
+           ./MAKEDEV X - - - - - - - - -
+                FILE X - - - - - - - - -
+           DIRECTORY X - - - - - - - - -
+                   < X - - - - - - - - -
+                HELP X X - - - - - - - -
+               ERROR O - - - - - O - - -
+            PATIENCE - - - - - - S - - -
+             COMMAND - - - - - - X - - -
+             APT-GET - - - - - - - X X -
+          IRDA-UTILS - - - - - - - S O -
+               AFAIK - - - - - - - O - -
+/ETC/APT/SOURCES.LIST - - - - - - - O - -
+                HTTP - - - - - - - - X -
+//PASTEBIN.COM/M3B295C73 - - - - - - - - S -
+                SUDO - - - - - - - - X -
+              UPDATE - - - - - - - - O -
+                CANT - - - - - - - - - S

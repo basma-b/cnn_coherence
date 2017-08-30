@@ -1,0 +1,15 @@
+              OTHERS S - - - - -
+            CDRECORD O - S - - -
+              OPTION O - - - - -
+              DEVICE S - - - - -
+                E.G. - X - - - -
+           DEV=ATAPI - - X - - -
+             DEV=ATA - - O - - -
+               WEEKS - - O - - -
+             PROBLEM - - X - - -
+                 FOO - - - X - -
+            -SCANBUS - - - X - -
+                  OK - - - - S -
+              NVIDIA - - - - - S
+            PROBLEMS - - - - - O
+             DRIVERS - - - - - O

@@ -1,0 +1,14 @@
+             COMMAND O - - - -
+              SCRIPT X X X - -
+              OUTPUT S - - - -
+                SHOW O - - - -
+              SCREEN X - - - -
+                   $ - O - - -
+                  -V - O S - -
+                  .. - X - - -
+                 END - - - X -
+                  +V - - - O -
+              UPDATE - - - - X
+           APT-CACHE - - - - X
+              POLICY - - - - X
+        XSERVER-XORG - - - - S

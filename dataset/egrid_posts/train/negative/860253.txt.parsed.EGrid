@@ -1,0 +1,28 @@
+             MACHINE S - - X -
+               ERROR O - - - -
+                 JDK O - - S -
+               LOGIN X - - - -
+              SCREEN X - - - -
+               BREAK X - - - -
+        DEPENDENCIES O - - - -
+                DEPS - X - - -
+                  .. - - X O -
+                 USE - - X - -
+            PASTEBIN - - X - -
+              ROOTFS - - S - -
+                  -Y - - O - -
+                  CD - - X - -
+DEFAULT-JRE-HEADLESS - - S - -
+OPENJDK-6-JRE-HEADLESS - - X - -
+                   > - - X - -
+            MULTIPLE - - - S -
+               THERE - - - S -
+                LINE - - - X -
+              ERRORS - - - X -
+              MANGLE - - - S -
+             OPENJDK - - - X -
+                 SUN - - - X -
+                JAVA - - - X -
+             PACKAGE - - - O -
+             PLUGINS - - - - X
+             FIREFOX - - - - X

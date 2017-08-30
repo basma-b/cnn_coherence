@@ -1,0 +1,13 @@
+           DIRECTORY O - - - -
+                USER X - - - -
+               USERS X - - - -
+               GROUP X - - - -
+                  VE - S - - -
+          PERMISSION - O S - S
+               SAMBA - X - - S
+              UBUNTU - - X - -
+             WINDOWS - - X - -
+         /HOME/SHARE - - - - S
+               SHARE - - - - X
+               -RSB- - - - - X
+                   E - - - - X

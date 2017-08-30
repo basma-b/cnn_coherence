@@ -1,0 +1,7 @@
+        REPOSITORIES X - - - -
+SHUTDOWN/HALT/REBOOT/TELINIT X - - - -
+                 RUN - - - X -
+                SUDO - - - X -
+             APT-GET - - - S -
+             UPSTART - - - X -
+               THANK - - - - X

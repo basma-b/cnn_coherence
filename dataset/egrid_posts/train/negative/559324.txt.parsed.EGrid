@@ -1,0 +1,16 @@
+              ANYONE S - -
+/DEV/BUS/USB/DEVICES X - -
+                FILE O - -
+             SYMLINK - O -
+               USBFS - S -
+             FOLDERS - S -
+       /DEV/BUS/USB/ - X -
+             DEVICES - S -
+                THAT - - O
+                DUDE - - X
+              PYTHON - - S
+  /USR/BIN/PYTHON2.5 - - X
+              SCRIPT - - S
+                  PY - - X
+           SOMETHING - - O
+                USES - - X

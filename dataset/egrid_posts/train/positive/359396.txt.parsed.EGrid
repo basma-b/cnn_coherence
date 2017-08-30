@@ -1,0 +1,10 @@
+              ANYONE X - - - -
+            MODPROBE X - - - -
+            IDE_CORE S O - - -
+                NAME - O - - X
+                FILE - X - - X
+              KERNEL - O - - -
+/KERNEL/DRIVERS/IDE/IDE-CORE.KO - X - - -
+         IDE-CORE.KO - - - O -
+             FOO_BAR - - - - O
+          FOO-BAR.KO - - - - X

@@ -1,0 +1,14 @@
+             TROUBLE O - - - -
+              DRIVER O - S - -
+             PROBLEM - X - - -
+     BUILD-ESSENTIAL - - O - -
+               THREE - - S - -
+               CHECK - - O - -
+                HTTP - - - X -
+           SOMETHING - - - X -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_PACKAGES.PL - - - X -
+KEYWORDS=BUILD-ESSENTIAL - - - - X
+      SEARCHON=NAMES - - - - X
+           SUBWORD=1 - - - - X
+      VERSION=FEISTY - - - - X
+         RELEASE=ALL - - - - X

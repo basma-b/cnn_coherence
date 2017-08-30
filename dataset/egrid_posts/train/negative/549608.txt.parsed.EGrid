@@ -1,0 +1,21 @@
+              ANYONE S - - - - -
+                  DD S X - - - -
+              BACKUP - X - - - -
+           PARTITION - O - - - -
+               IMAGE - X - - - -
+                FILE - X - - - -
+               DRIVE - X - - - -
+        IF=/DEV/SDA1 - X - - - -
+OF=/DEV/SDB1/SDA.IMAGE - S - - - -
+         DESTINATION - S - X - -
+           DIRECTORY - O - - - -
+           /DEV/SDB1 - - S - - -
+           DIERCTORY - - O - - -
+              DEVICE - - X - - -
+            QUESTION - - - S - -
+/MEDIA/DRIVE/BACKUP.IMAGE - - - X - -
+               MOUNT - - - - X -
+                LOOP - - - - S -
+                BASE - - - - - X
+              THINGS - - - - - O
+              SCRIPT - - - - - X

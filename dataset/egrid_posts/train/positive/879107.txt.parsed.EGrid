@@ -1,0 +1,17 @@
+           SOMETHING S - - - - - - -
+            INCOMING X - - - - - - -
+              ROUTER - X - - - - - -
+            FIREWALL - - X - - - - -
+                 BOX - - X - - - - -
+                   | - - - X - - - -
+                GREP - - - S - - - -
+             SERVICE - - - O - - - -
+               BLOCK - - - - X - - -
+                PORT - - - - O - - -
+                THIS - - - - S - - -
+              SERVER - - - - O - - -
+             MACHINE - - - - X - - -
+           LOCALHOST - - - - - X - -
+               SORTA - - - - - X - -
+               THING - - - - - X - -
+                WORK - - - - - - - S

@@ -1,0 +1,11 @@
+  SCRIPT/APPLICATION - X - -
+               ORDER - S - -
+ /BOOT/GRUB/MENU.LST - O - -
+               ELIVE - - O -
+              OPTION - - X -
+                BOOT - - X -
+                TEXT - - X -
+              EDITOR - - X -
+          INITRD.IMG - - - O
+             PROCESS - - - S
+               TRICK - - - O

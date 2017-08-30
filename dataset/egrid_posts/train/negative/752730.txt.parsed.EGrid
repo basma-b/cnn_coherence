@@ -1,0 +1,32 @@
+              SCRIPT X - - - X - - -
+   START-STOP-DAEMON S - - X - - - -
+             PROGRAM O - - - - - - -
+              CONFIG X - - X X X - -
+                FILE O - - O O X - -
+                TYPE X - - - - - - -
+          EVERYTHING - S - - - - - -
+                ROOT - X - - - - - -
+           SOMETHING - - X - - X - -
+                NOTE - - - X - - - -
+              SERVER - - - S - - - -
+                PATH - - - - X O - -
+            VARIABLE - - - - S - - -
+         ENVIRONMENT - - - - X X - -
+                LINE - - - - O X - -
+/ETC/INIT.D/SKELETON - - - - O - - -
+              EXPORT - - - - X - - -
+               THING - - - - O - - -
+               ISSUE - - - - O - - -
+                CRON - - - - X - - -
+                 JOB - - - - X - - -
+                THAT - - - - - O S S
+              DAEMON - - - - - X - -
+           GEMEWITCH - - - - - X - -
+              BINARY - - - - - S - -
+/TMP/ENVIRONMENT_VARS - - - - - X - -
+                DUMP - - - - - O - -
+             COMMAND - - - - - X - -
+                 ONE - - - - - - O -
+                   % - - - - - - X O
+             PROCESS - - - - - - - S
+            NEIGHBOR - - - - - - - X

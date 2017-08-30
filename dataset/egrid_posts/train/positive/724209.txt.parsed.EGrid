@@ -1,0 +1,14 @@
+                 ERR X - - - - - -
+        DEPENDENCIES S S - - - - -
+             PACKAGE S X - - - - -
+              REMOVE - O - - - - -
+                 FOO - X - - - - -
+            APTITUDE - O X - - S -
+             SPECIFY - X - - - - -
+          AUTOREMOVE - O - - - - -
+             APT-GET - X X - - - -
+             BENEFIT - - X - - - -
+              SEARCH - - - - - X -
+             FEATURE - - - - - O -
+            CONFLICT - - - - - - X
+          SITUATIONS - - - - - - O

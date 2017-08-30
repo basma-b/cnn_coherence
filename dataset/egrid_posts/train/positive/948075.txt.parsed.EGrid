@@ -1,0 +1,13 @@
+             NETWORK - O - - - - - -
+             MACHINE - X X - - - - -
+                 NFS - X - - - - - -
+               SHARE - O - - - - - -
+                 BOX - X - - - - - -
+       NSM_MON_UNMON - - O - - - - -
+                 RPC - - S - - - - -
+               LOCKD - - X - - - - -
+       206.126.82.72 - - O - - - - -
+                 ADD - - O - - - - -
+            NEWLINES - - - - X - - -
+          NFS-COMMON - - - - X - - -
+                  NP - - - - - - - X

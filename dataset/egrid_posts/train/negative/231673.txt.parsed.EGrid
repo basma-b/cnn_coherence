@@ -1,0 +1,12 @@
+           PARTITION O - - - -
+                TYPE S O - - -
+                NAME O - - - -
+               DRIVE X S - - -
+              DEVICE X - - - -
+                  IE X - - - -
+                THAT - S - - -
+                  DD - X - - -
+        IF=/DEV/ZERO - S - - -
+               WHATS - O - - -
+           SOMETHING - - O - -
+               USERS - - O - -

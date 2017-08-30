@@ -1,0 +1,12 @@
+           DIRECTORY - O - - X - - -
+                 ALL - S - - - - - -
+                FILE - X - S - X - -
+        VENTRILO_SRV - S - O - - - -
+          EXECUTABLE - S - - - - - -
+    VENTRILO_SRV.INI - S - - - - - -
+       CONFIGURATION - X - - - - - -
+                 USE - - S - - - - -
+          PERMISSION - - S - - - - -
+               ERROR - - O - - - - -
+                SUDO - - - O X - - -
+                WORK - - - - X - - -

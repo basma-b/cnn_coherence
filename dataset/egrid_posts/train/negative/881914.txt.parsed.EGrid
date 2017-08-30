@@ -1,0 +1,9 @@
+               IMAGE O - - -
+            HARDDISK X - - -
+          BOOTLOADER - - O -
+                SOME - - O -
+                BOOT - - X -
+                QEMU - - X -
+                WINE - - - X
+          REPOSITORY - - - O
+            VERSIONS - - - X

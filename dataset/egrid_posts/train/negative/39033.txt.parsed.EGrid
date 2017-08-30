@@ -1,0 +1,16 @@
+              SOURCE X X - - -
+             PACKAGE O - - - -
+             OPTIONS X - - - -
+              UBUNTU X - - - -
+        ENABLE-DEBUG X - - - -
+                 TAR - X - - -
+                -ZXF - X - - -
+                -JXF - O - - -
+                  CD - - X - -
+    SOURCE_DIRECTORY - - S - -
+         ./CONFIGURE - - S - -
+                HELP - - S - -
+               THERE - - X - -
+               STUFF - - - - O
+               HOURS - - - - X
+                SEED - - - - X

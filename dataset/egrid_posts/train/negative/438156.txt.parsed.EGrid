@@ -1,0 +1,10 @@
+             PACKAGE X X -
+        DEPENDENCIES X - -
+                SUDO - X -
+            APTITUDE - X -
+                   > - X -
+            PROTOCOL - - X
+            ANALYZER - - O
+  ORIGIN/DESTINATION - - O
+                 30K - - X
+              STREAM - - X

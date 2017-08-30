@@ -1,0 +1,36 @@
+               EVENT O - - - - - - - - - - - -
+             COMMAND X - - - X X - - - - - - -
+                LINE X - - - - X - - - - - - -
+              SCRIPT - X - - O - - - - - - - -
+              RESUME - X - - - - - - - - - - -
+               POWER - X - X - - - X - - - - -
+          MANAGEMENT - S - S - - - X - - - - -
+                LINK - - - - O - - - - - - - -
+            QUESTION - - - - X - - - - - - - -
+               FORUM - - - - X - - - - - - - -
+         EXPLANATION - - - - O - - - - - - - -
+              SYSTEM - - - - S - - - - - - - -
+                 LID - - - - O S - O - X - - -
+              LAPTOP - - - - X - - X - - - - -
+              TYPIGN - - - - X - - - - - - - -
+                SUDO - - - - X - - - - - - - -
+/ETC/ACPI/HIBERNATEBTN.SH - - - - X - - - - - - - -
+        ACPI_FAKEKEY - - - - O - - - - - - - -
+                THIS - - - - S - - - - - - - -
+           HIBERNATE - - - - - O - - - - - - -
+                HIMM - - - - - - S - - - - - -
+                  SH - - - - - - X - - - - - -
+                  -C - - - - - - S - - - - - -
+                   > - - - - - - X - - - - - -
+/PROC/ACPI/BUTTON/LID/LID/STATE - - - - - - O - - - - - -
+               SLEEP - - - - - - X - - - - - -
+              BUTTON - - - - - - O - - - - - -
+               CLOSE - - - - - - - X - - - - -
+              EVENTS - - - - - - - S - - - - -
+         HIBERNATION - - - - - - - X - - - - -
+            INTERVAL - - - - - - - X - - - - -
+                 ETC - - - - - - - X - - - - -
+          CLOSE/OPEN - - - - - - - - - O - - -
+          WORKAROUND - - - - - - - - - O - - -
+                THAT - - - - - - - - - - O - -
+           ARGUEMENT - - - - - - - - - - - X -

@@ -1,0 +1,15 @@
+             SUDOERS X X -
+                FILE X - -
+                 TRY - X -
+                 MAN - X -
+        /ETC/SUDOERS - X -
+              SUDOES - X -
+              VISUDO - X -
+                USER - X -
+                ALL= - X -
+    /USR/BIN/APT-GET - X -
+  /USR/BIN/APT-CACHE - X -
+    /USR/BIN/TASKSEL - X -
+          ADD/REMOVE - S -
+            ANYTHING - O -
+/USR/BIN/GNOME-APP-INSTALL - X -

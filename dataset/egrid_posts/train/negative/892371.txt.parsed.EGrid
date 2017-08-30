@@ -1,0 +1,17 @@
+                USER S - X - -
+    WORK.EXAMPLE.ORG X - - - -
+                  -G O - - - -
+           127.0.0.1 X - - - -
+                THIS X - - - -
+           BLACKLIST - - S - -
+                   * - - X - -
+  10000:172.16.10.22 - - X - -
+                 END - - X - -
+                LOOK - - O - -
+     /VAR/LOG/SYSLOG - - X - -
+             ATTEMPT - - X - -
+               ISSUE - - X - -
+    .AUTHORIZED_KEYS - - X - -
+                FILE - - X - -
+             NALIOTH - - - - X
+                 ALL - - - - S

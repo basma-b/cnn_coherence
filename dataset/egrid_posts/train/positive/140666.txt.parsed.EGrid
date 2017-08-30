@@ -1,0 +1,17 @@
+             COMMAND X - - - - X - -
+         PERMISSIONS X - - - - - - -
+                USER X - - - - - - -
+            TEST.TXT - S - - - - - -
+                 ALL - X - - - - - -
+                THAT - - X - - - - -
+            COSMODAD - - O - - - - -
+               SHELL - - X - - - - -
+             TEST.PL - - X - X - - -
+           SOMETHING - - X - - - - -
+                PART - - - - - X - -
+                WORK - - - - - - S -
+               MOUNT - - - - - - X -
+                DISK - - - - - - X -
+           /DEV/HDB2 - - - - - - - S
+  /HOME/MYNAME/STORE - - - - - - - X
+             STORAGE - - - - - - - X

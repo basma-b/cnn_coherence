@@ -1,0 +1,22 @@
+                  TY X - - - - - - -
+             GPARTED - X - - - - - -
+               MOUNT - X - - - - - -
+               POINT - O - - - - - -
+/MEDIA/RANDOMSTRINGOFLETTERS - X - - - - - -
+         /MEDIA/DATA - X - - - - - -
+               LABEL - - O X - - - -
+                DATA - - O - - - - -
+                  ID - - X - - - - -
+               FSTAB - - X - - - - X
+                LINE - - S - - - - -
+                EXT4 - - S - - - - -
+               DRIVE - - - O - - - -
+                   S - - - - S - - -
+           PARTITION - - - - X - - X
+               ERKAN - - - - X - - -
+              CHANGE - - - - - - - S
+               BLKID - - - - - - - X
+                UUID - - - - - - - O
+              STRING - - - - - - - O
+              DIGITS - - - - - - - X
+                   > - - - - - - - O

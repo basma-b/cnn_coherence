@@ -1,0 +1,10 @@
+             COMMAND X - - -
+             PROGRAM O - - -
+           REINSTALL - X - -
+                SUDO - X - -
+            APTITUDE - X S -
+             PKGNAME - S - -
+        FULL-UPGRADE - O - -
+             APT-GET - O - -
+             DEFAULT - - X -
+                 SAD - - - S

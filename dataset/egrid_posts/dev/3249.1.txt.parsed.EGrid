@@ -1,0 +1,16 @@
+             CONTENT S - -
+                 DEB X - -
+             PACKAGE X - -
+          FILESYSTEM X - -
+               HTTPS X - -
+//HELP.UBUNTU.COM/COMMUNITY/LINUXFILESYSTEMTREEOVERVIEW X - -
+              LEEWAY X - -
+                FILE S - O
+           PARTITION S - -
+FILESYSTEM-PARTITION X - -
+            DOCUMENT - - O
+            SETTINGS - - O
+            ANYTHING - - O
+                USER - - X
+           DIRECTORY - - X
+        APPLICATIONS - - S

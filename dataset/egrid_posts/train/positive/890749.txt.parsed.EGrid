@@ -1,0 +1,7 @@
+      /SBIN/SHUTDOWN X -
+                CANT O -
+               POWER S -
+            SHUTDOWN X O
+            POWEROFF S -
+                ROOT O -
+                 APP - X

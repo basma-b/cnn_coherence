@@ -1,0 +1,12 @@
+            BEHAVIOR X - - - - -
+         UPDATE-GRUB X - - - - -
+                ROOT X O - - - -
+                 HDB O - - - - -
+                 HDD - S - - - -
+          /ETC/FSTAB - - S X - -
+                SUDO - - - X - -
+                NANO - - - X - -
+                   < - - - S - -
+                   / - - - S - -
+           PARTITION - - - X - -
+              REBOOT - - - - - X

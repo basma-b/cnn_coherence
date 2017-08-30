@@ -1,0 +1,17 @@
+           SOMETHING S - - - - -
+              UPDATE O - O - - -
+                THAT - O - - - -
+             UPGRADE - X - - - -
+           PROCEDURE - O - - - -
+               ERROR - X - - - -
+        SAFE-UPGRADE - - O - - -
+              ERRORS - - O - - -
+               ENTRY - - - O - -
+/ETC/DHCP3/DHCLIENT.CONF - - - X - X
+         NAMESERVERS - - - S - -
+              SYNTAX - - - - X -
+                LINE - - - - - O
+              FOLLOW - - - - - X
+                 DNS - - - - - X
+             SERVERS - - - - - X
+ DOMAIN-NAME-SERVERS - - - - - X

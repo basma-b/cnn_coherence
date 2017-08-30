@@ -1,0 +1,12 @@
+          /ETC/FSTAB O - - S - - - - - -
+           PARTITION O - - - - - X - - -
+                 ONE - S - - - - - - - -
+                TYPE - X - - - - - - - -
+                BOOT - - O - - - - - - -
+                SWAP - - - O - - X - - -
+                 USE - - - - X - - - - -
+              MOMENT - - - - X - - - - -
+                THIS - - - - - S - - - -
+                UUID - - - - - X O - - -
+               THERE - - - - - - S - - -
+            UBUNTU+1 - - - - - - - - - X

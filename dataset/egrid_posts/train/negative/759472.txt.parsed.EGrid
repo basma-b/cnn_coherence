@@ -1,0 +1,15 @@
+             COMMAND O O - - - -
+                FILE X X - - - -
+           DIRECTORY X - - - - -
+                   $ - O - - - -
+                   F - S - - - -
+                  ./ - S - - - -
+                   * - S - - - -
+                 DIR - X - - - -
+               VALUE - O - - - -
+            WILDCARD - O - - - -
+               PRINT - X - - - -
+                BITE - S - - - -
+                 END - X - - - -
+                PART - X - - - -
+                 WAY - X - - - -

@@ -1,0 +1,15 @@
+              MEMORY X - X -
+               STICK O - X -
+            ANYTHING S - - -
+               450MB X X - -
+             MEM=450 - O - -
+              KERNEL - X - -
+         COMMANDLINE - X - -
+                 USE - O - -
+           PARTITION - - S -
+                SIZE - - O -
+                REST - - O -
+               SPACE - - X -
+                 RAM - - X -
+                JAVA - - - X
+             VERSION - - - S

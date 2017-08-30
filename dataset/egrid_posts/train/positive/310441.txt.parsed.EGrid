@@ -1,0 +1,15 @@
+                SOME S - - - -
+                HELP O - - - -
+       VMWARE-PLAYER X X - - -
+              SERVER - S - - -
+              PLAYER - O - - -
+                   E - X - - -
+              SCRIPT - X X - -
+              RETURN - X - - -
+               ERROR - S X - X
+                EXIT - X X - -
+              STATUS - X X - -
+                CRAP - - X - -
+/VAR/LIB/DPKG/INFO/VMWAREPLAYER.POSRM - - X - -
+              .PRERM - - S - -
+VMWAREPLAYER.POSTINST - - - - X

@@ -1,0 +1,22 @@
+                  HI X - - - - - - - - - - -
+          DIFFERENCE - X - - - - - - - - - -
+      HOARY-SECURITY - X - - - - - - - - - -
+       HOARY-UPDATES - X - - - - - - - - - -
+              UPDATE - - S S X - - - - X - -
+              STABLE - - S - - - - - - - - -
+            SECURITY - - X - X - - - - - - -
+            ANYTHING - - O - - - - - - - - -
+           BACKPORTS - - X - - S - - - - - -
+               SENSE - - O - - - - - - - - -
+                  OK - - - X - - - - - - - -
+            SOFTWARE - - - X - O - O - - - -
+              BRANCH - - - - O X - - - - - -
+               PATCH - - - - X - - - X - - -
+                 I.E - - - - O - - - - - - -
+             FIREFOX - - - - - S - - - - - -
+               ISSUE - - - - - O - - - - - -
+HOARY-SECURITY=HOARY-UPDATES - - - - - X - - - - - -
+               HOARY - - - - - - - S - - - -
+        DEVELOPEMENT - - - - - - - - - X - -
+                   * - - - - - - - - - S - -
+            INTERNET - - - - - - - - - - - S

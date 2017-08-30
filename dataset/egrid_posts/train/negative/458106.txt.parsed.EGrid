@@ -1,0 +1,8 @@
+               SETUP X - - -
+             CRONJOB X - - -
+                HOUR O X - -
+                   * - S S -
+        /USR/BIN/FOO - O O -
+             COMMAND - X - -
+                   > - O - -
+               THANK - - - X

@@ -1,0 +1,16 @@
+                WIRE X - - - - - - -
+          CONNECTION O - - - - - - -
+             NETWORK X - - - - - - -
+             MANAGER X - - - - - - -
+              REBOOT X - - - - - - -
+/ETC/NETWORK/INTERFACES - X - X - - - -
+               SETUP - - X - - - - -
+                ETH0 - - O X X - O -
+           SOMETHING - - - O - - - -
+                AUTO - - - X X - X -
+               FRESH - - - S - - - -
+                  LO - - - O - - S -
+              CHANGE - - - - - - X -
+                DONT - - - - - - X -
+                DHCP - - - - - - O -
+              SCRIPT - - - - - - - X

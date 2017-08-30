@@ -1,0 +1,15 @@
+                 ANY S - - - - -
+     SUSPEND_MODULES O - - - - -
+                WORK O - - - - -
+              RESUME X - - - - -
+             SUSPEND X - - - - -
+                WICD - O - - - -
+             NETWORK - O - - - -
+             DEFAULT - O - - - -
+                .DEB - - - S - -
+           ADOBE.COM - - - X - -
+                BITE - - - O - -
+                THAT - - - - S X
+              SOURCE - - - - X -
+              TAR.GZ - - - - O -
+            SYNAPTIC - - - - X -

@@ -1,0 +1,12 @@
+                TIME X - -
+              UPDATE X - -
+             MANAGER O - -
+                OPEN O - -
+                NONE - S -
+               FRESH - S -
+              UBUNTU - X -
+                 APP - - S
+                LOCK - - X
+                FILE - - S
+                SUDO - - O
+/VAR/LIB/APT/LISTS/LOCK - - O

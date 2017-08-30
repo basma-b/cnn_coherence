@@ -1,0 +1,11 @@
+                FILE O - - - X
+          FILESYSTEM X - - - -
+               OWNER O - - - O
+                THAT - - - O -
+                COPY - - - - X
+                SUDO - - - - S
+                  .. - - - - X
+           OPERATION - - - - X
+           PARTITION - - - - X
+                 NFS - - - - X
+               SHARE - - - - X

@@ -1,0 +1,23 @@
+              ANYONE X - - -
+            SECURITY X - - -
+             MANAGER O - - -
+             TOMCAT6 X - - -
+              TOMCAT - X - -
+             CHANNEL - S - -
+             DEFAULT - - S -
+             TOMCATZ - - O -
+             PACKAGE - - X -
+                REPO - - X -
+                DPKG - - - S
+                  -A - - - S
+                  .. - - - O
+                 DEB - - - X
+              MIRROR - - - O
+//MIRRORS.UBUNTU.COM/MIRRORS.TXT - - - X
+                MAIN - - - S
+            UNIVERSE - - - X
+          MULTIVERSE - - - O
+     PRECISE-UPDATES - - - S
+/ETC/APT/SOURCES.LIST - - - X
+             APT-GET - - - X
+              UPDATE - - - X

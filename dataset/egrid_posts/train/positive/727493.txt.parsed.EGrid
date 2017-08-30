@@ -1,0 +1,17 @@
+                LIST O - -
+           MAKEFILES X - -
+                 GCC O - -
+       ARM-LINUX-GCC X - -
+                EACH X - -
+               PATCH X - -
+                   $ - X -
+            COMPILER - S -
+    CC=ARM-LINUX-GCC - O -
+                  CC - - O
+               THERE - - S
+                   = - - S
+                 CXX - - S
+                FILE - - X
+                   C - - X
+                TEST - - X
+               ERROR - - O

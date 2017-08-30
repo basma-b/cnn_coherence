@@ -1,0 +1,9 @@
+/ETC/SECURITY/LIMITS S - - - -
+               VALUE X - - - -
+            COMPUTER O - - - -
+                FILE - O - - -
+                WORK - X - - -
+           VARIABLES - O - - -
+                 LEM - - - X -
+           SOMETHING - - - O -
+                SURE - - - - X

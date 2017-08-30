@@ -1,0 +1,6 @@
+               PURGE X - -
+             PACKAGE - X X
+                SUDO - X -
+             APT-GET - S -
+                   > - X -
+                NAME - - O

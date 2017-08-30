@@ -1,0 +1,8 @@
+              NOBODY S - - - -
+             PACKAGE O O - - -
+               PURGE - X - - -
+               DRIVE - X - - -
+             APT-GET - - S - -
+                SUDO - - - - X
+                DPKG - - - - S
+         PACKAGE.DEB - - - - S

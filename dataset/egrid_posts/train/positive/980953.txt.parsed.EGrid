@@ -1,0 +1,12 @@
+      KERNEL-HEADERS X S - - - -
+             HEADERS X - - - - -
+      /USR/SRC/LINUX - X - - - -
+                  -R - X - - - -
+              /BUILD - S - - - -
+              VMWARE - O - - - -
+              KERNEL - X X - - -
+              MODULE - O - - - -
+              SOURCE - X - - - -
+             APT-GET - X - - - -
+               HOARY - - X - - -
+   LINUX-HEADERS-386 - - O - - -

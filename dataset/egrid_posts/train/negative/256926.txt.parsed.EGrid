@@ -1,0 +1,12 @@
+              NOBODY S - -
+             MODULES S - -
+               TMPFS X X -
+                BIOS - X -
+               ERROR - X -
+                BOOT - X -
+              LOADER - O -
+                  CD - X -
+                WORK - O -
+               INTEL - X -
+           /DEV/SDA1 - - O
+               UUIDS - - O

@@ -1,0 +1,11 @@
+ /BOOT/GRUB/MENU.LST S - - - - -
+          FILESYSTEM O - - - - -
+               FSTAB X - - - - -
+            MENU.LST S - - - - -
+           GUARANTEE - X - - - -
+        GREASEMONKEY - - X - X -
+           INSTALLER - - X - - -
+                /DEV - - - - X -
+                  .. - - - - X -
+        /DEV/CONSOLE - - - - X -
+            RECOVERY - - - - - X

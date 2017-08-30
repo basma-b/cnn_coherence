@@ -1,0 +1,25 @@
+              SOURCE X O - X
+                TREE X O - X
+              KERNEL - X - X
+             TARBALL - X - -
+          DEPENDENCY - X - -
+                LINK - S - -
+            MAKEFILE - O - -
+             DRIVERS - X - -
+             DESKTOP - X - -
+                  .. - X - O
+                IDEA - - O -
+                DUDE - - S -
+              KERNAL - - - X
+                FILE - - - X
+           KERNELDIR - - - S
+            COMPLIER - - - X
+                MAYT - - - S
+KERNELDIR=/SOMETHING/SOMETHING/SOMETHING - - - O
+             SOMEONE - - - S
+              DRIVER - - - O
+                  PC - - - X
+                MPEG - - - X
+               VIDEO - - - X
+             ENCODER - - - X
+                MORE - - - X

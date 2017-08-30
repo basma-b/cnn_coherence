@@ -1,0 +1,13 @@
+/ETC/SSH/SSHD_CONFIG X - - -
+  CLIENTALIVETIMEOUT - O - -
+                PORT - O - -
+            COMPUTER - X - -
+                 SSH - X - -
+                 YES - - X -
+            MGOLISCH - - X -
+               LOSHA - - X -
+                 USE - - X -
+               PUTTY - - X -
+                TYPE - - - X
+            USERNAME - - - O
+          IP_ADDRESS - - - X

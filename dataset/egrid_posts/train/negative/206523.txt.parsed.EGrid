@@ -1,0 +1,7 @@
+              SCREEN S - - -
+                  .. X - - -
+              BUFFER X - - -
+                GRUB - - S -
+               IMAGE - - O -
+SPLASHIMAGES=PATHTOSOMEXPM.GZ - - - X
+ /BOOT/GRUB/MENU.LST - - - X

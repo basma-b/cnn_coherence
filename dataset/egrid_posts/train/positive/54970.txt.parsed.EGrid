@@ -1,0 +1,23 @@
+             ANYBODY S - - -
+            MKCRAMFS O X - X
+           INITR.IMG O - - -
+                 USE - X - -
+              KERNEL - O - -
+              INITRD - O - -
+            MAKE-KPG - S - -
+/BOOT/INITRD.IMG-2.6.10 - O - -
+           DIRECTORY - X - -
+                 ONE - X - -
+                 ARG - X - -
+             UTILITY - X - -
+                  .. - X X -
+                TIME - - S -
+           MAKE-KPKG - - X -
+                DONT - - O -
+            MKINITRD - - O X
+                WORK - - X -
+             MKNITRD - - X -
+              OUTPUT - - O -
+                 YOI - - - S
+                 BUG - - - X
+             MANPAGE - - - O

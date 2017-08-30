@@ -1,0 +1,11 @@
+             PROGRAM S - - - -
+             PACKAGE X - - - -
+             MANAGER X - - - -
+                SAFE - X - - -
+                THAT - - X - -
+                HINT - - X - -
+                   > - - X - -
+                SUID - - X - -
+              SUEXEC - - O - -
+              EITHER - - - O -
+           SOMETHING - - - - S

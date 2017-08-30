@@ -1,0 +1,16 @@
+                LAMP X - -
+             PACKAGE O - -
+              SERVER X - -
+             EDITION X - -
+             APACHE2 X - -
+            PASSWORD X - -
+                TYPE O - -
+               START - X -
+                BOOT - X -
+              INIT.D - S X
+              RELOAD - X -
+                  .. - O -
+               ERROR - - X
+                SUDO - - X
+ /ETC/INIT.D/APACHE2 - - S
+                 WEE - - X

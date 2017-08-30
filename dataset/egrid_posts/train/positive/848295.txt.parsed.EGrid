@@ -1,0 +1,17 @@
+               11.04 O - -
+                SSHD O - -
+                 VNC X X -
+              SERVER O - -
+              CLIENT - S S
+                 SSH - X -
+         CONNECTIONS - X -
+              REBOOT - X -
+                 BOX - X X
+          CONNECTION - O O
+                  .. - X -
+                KIND - X -
+              ACCESS - X O
+                BITE - S -
+            SETTINGS - X -
+             SUSPEND - X -
+                TIME - - X

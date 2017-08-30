@@ -1,0 +1,23 @@
+             SOMEONE X - - - -
+             DEFAULT O S - - -
+                 LVL O - - - -
+                BOOT - X - - -
+              OPTION - O - - -
+                TEXT - X - - S
+              KERNEL - X - - -
+             OPTIONS - O - - -
+              SPLASH - O - - S
+                ONES - S - - -
+   /ETC/DEFAULT/GRUB - X - - -
+         UPDATE-GRUB - O - - -
+             KERNELS - X - - -
+               BUNCH - X - - -
+                 MAN - S - - -
+            PLYMOUTH - O - - -
+               BIGGY - - X - -
+               QUOTE - - X - -
+                THAT - - - - O
+             NOTHING - - - - S
+GRUB_CMDLINE_LINUX_DEFAULT= - - - - S
+              BECOME - - - - S
+                 CLI - - - - X

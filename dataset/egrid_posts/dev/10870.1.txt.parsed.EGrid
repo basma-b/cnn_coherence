@@ -1,0 +1,17 @@
+                GRUB X - - - - - - - - -
+                MENU O - - - - - - - - -
+                BOOT X - - - - - - - - -
+                FILE S - - - O - - X - X
+            READONLY - O - - - - - - - -
+             ENTRIES - O - - - - - S O -
+               LABEL - O - S - - - - - -
+               VALUE - O - - - - - - - -
+            GRUB.CFG - - - O - - - - - O
+              CONFIG - - - - X - - - - -
+                NEED - - - - X - - - - -
+                INFO - - - - - - O - - -
+                  .. - - - - - - X - - -
+         UPDATE-GRUB - - - - - - - - - S
+                TTHE - - - - - - - - - X
+   /ETC/DEFAULT/GRUB - - - - - - - - - S
+               THOSE - - - - - - - - - O

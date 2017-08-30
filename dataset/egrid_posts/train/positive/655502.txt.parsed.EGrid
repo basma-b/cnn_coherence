@@ -1,0 +1,14 @@
+           PARTITION X - - - - -
+                  CD X - - - - -
+               BREAK O - - - - -
+                GRUB - O - - - -
+              UBUNTU - - X - - -
+             VERSION - - X - - -
+               GRUB2 - - - O O -
+         GRUB-LEGACY - - - - O -
+                  HD - - - - X -
+                  FS - - - - X -
+               THERE - - - - S -
+                FILE - - - - O -
+/ETC/GRUB.D/00_HEADER - - - - X -
+                 SEC - - - - - X

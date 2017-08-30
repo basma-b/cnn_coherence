@@ -1,0 +1,11 @@
+                USER O - - X -
+              ACCESS X - - X -
+            REISERFS X - - - -
+           PARTITION X - - - -
+               FSTAB - X O - -
+         /MEDIA/HDA2 - - S - -
+                 ONE - - O - -
+                  .. - - X - -
+           /DEV/HDA2 - - - S -
+                COPY - - - - S
+               DRIVE - - - - O

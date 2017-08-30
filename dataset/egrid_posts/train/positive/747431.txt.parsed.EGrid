@@ -1,0 +1,18 @@
+                PLAN X - -
+                SWAP X - -
+               FLASH X - -
+                WEAR X - -
+               COUNT X - -
+               DRIVE X - -
+                   A - X -
+                MOVE - S -
+                 RWW - X -
+              ANSWER - X -
+                  YA - S -
+             COMMAND - - S
+                BITE - - O
+          BLUNDERBUS - - X
+             VERSION - - S
+/^GRUB_CMDLINE_LINUX_DEFAULT=/S/QUIET - - X
+            SPLASH// - - X
+   /ETC/DEFAULT/GRUB - - O

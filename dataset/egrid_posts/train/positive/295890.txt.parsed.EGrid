@@ -1,0 +1,10 @@
+               COLOR X - - - -
+               DEPTH S - - - X
+               16BIT - O - - -
+        DEFAULTDEPTH - X - - -
+               VALUE - O - - -
+  /ETC/X11/XORG.CONF - X - - -
+               MODES - - - - X
+                LIST - - - - O
+          SUBSECTION - - - - X
+             DISPLAY - - - - X

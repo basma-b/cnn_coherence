@@ -1,0 +1,17 @@
+              ANYONE S - - - - - -
+              DRIVER O S - - - - -
+                8.10 X - - - - - -
+     INTERFACE=WLAN0 - X - - - - -
+      DRIVER=MADWIFI - O - - - - -
+        HOSTAPD.CONF - X - - - - -
+              ERRORS - O - - - - -
+/ETC/HOSTAPD/HOSTAPD.CONF - S - - - - -
+                HTTP - X - - - - -
+             NETWORK - X - - - - -
+             MANAGER - O - - - - -
+             PACKAGE - O - - - - -
+                 YEA - - - X - - -
+                 HAT - - - - S - -
+                 IPS - - - - - X -
+                WICD - - - - - - O
+            WIRELESS - - - - - - X

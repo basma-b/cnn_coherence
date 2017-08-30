@@ -1,0 +1,18 @@
+              ANYONE X - -
+              CASPER - X -
+            ISOLINUX - O -
+              LIVECD - O -
+              CUSTOM - X -
+              SYSTEM - S -
+               ENTRY - S -
+                TEXT - X -
+              KERNEL - X -
+                LINE - X -
+                THIS - O -
+     /CASPER/VMLINUZ - S -
+INITRD=/CASPER/INITRD.GZ - O -
+              SPLASH - X -
+                SUDO - - X
+             APT-GET - - X
+                  .. - - O
+              CONFIG - - O

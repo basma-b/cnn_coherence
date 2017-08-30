@@ -1,0 +1,27 @@
+                  HI X - - - - - - - -
+               THERE - X S - - - - - -
+            ANYTHING - X - - - - - - -
+/ETC/INIT.D/IPTABLES - S - - - - - - -
+            IPTABLES - X - - - - - - -
+                AUTO - X - - - - - - -
+              SCRIPT - X - - - - - - -
+              UBUNTU - X - - - - - - -
+                  NO - - - X - - - S -
+                RACE - - - X - - - - -
+           CONDITION - - - O - - - - -
+                SUDO - - - - X - - - -
+            APTITUDE - - - - S - - - -
+           SOMETHING - - - - O - - - -
+          DEPENDENCY - - - - O - - - -
+               WARTY - - - - - S - - -
+               4.0.5 - - - - - O - - -
+             PACKAGE - - - - - - X - -
+             MANAGER - - - - - - O - -
+             VERSION - - - - - - O - -
+            UNIVERSE - - - - - - X - -
+         METAPACKAGE - - - - - - O - -
+               XFCE4 - - - - - - X X -
+                  EH - - - - - - X - -
+                 LOG - - - - - - - - X
+             SESSION - - - - - - - - O
+               FALSE - - - - - - - - X

@@ -1,0 +1,14 @@
+             DISPLAY X - - -
+             MANAGER X - - -
+                SUDO - X - X
+             APT-GET - S - -
+                 GDM - O - -
+             DEFAULT - X - -
+                 TRY - X - -
+             SERVICE - X - S
+               START - X S -
+                 JOB - - X -
+                THAT - - - S
+                   X - - - X
+             SESSION - - - X
+                  .. - - - O

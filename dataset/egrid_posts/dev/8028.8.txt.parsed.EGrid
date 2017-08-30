@@ -1,0 +1,13 @@
+             LIGHTDM S - - - - -
+               GROUP X - - - - -
+               OWNER O - - - - -
+         PERMISSIONS X - - - - -
+          PROPERTIES X - - - - -
+                ROOT O - - - - -
+           STATEMENT - - O - - -
+                 LOG - - - X - -
+            /VAR/LOG - - - X - -
+                 GPU - - - - X -
+                 CPU - - - - - X
+               TEMPS - - - - - X
+          LM_SENSORS - - - - - X

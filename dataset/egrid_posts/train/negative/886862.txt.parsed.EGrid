@@ -1,0 +1,10 @@
+               NODEV X - - - -
+              NOSUID X - - - -
+                   / X - - - -
+               FSTAB X - - - -
+               /HOME - X - - -
+                BOTH - - S - -
+                SUDO - - X - -
+                  -I - - S - -
+                HTTP - - - - X
+//GODD.NO-IP.ORG/SOURCES.LIST - - - - S

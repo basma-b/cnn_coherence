@@ -1,0 +1,16 @@
+             COMMAND X - - - -
+                FILE O - - - -
+                 USE - O - - -
+                 MAN - S - - -
+              RETURN - X - - -
+             NOTHING - O - - -
+               SOUND - - O - -
+          CTL.MIXER0 - - O - -
+                TYPE - - S - -
+                CARD - - O - -
+             MESSAGE - - O - -
+               JACKD - - X - -
+               FLASH - - X - -
+               VIDEO - - O - -
+                  FF - - X S -
+             DEFAULT - - - X -

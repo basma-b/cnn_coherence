@@ -1,0 +1,13 @@
+               DMOLE X - - -
+          DIFFICULTY O - - -
+      AUTHENTICATION X - X -
+             SMB.CON - S - -
+                FILE - O - -
+          /ETC/SAMBA - X - -
+                USER - - O -
+            PASSWORD - - O -
+                THAT - - - O
+           PASSWORDS - - - S
+            DATABASE - - - X
+           /VAR/RUN/ - - - X
+           SOMETHING - - - X

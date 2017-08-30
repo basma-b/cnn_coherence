@@ -1,0 +1,25 @@
+               VIDEO X - - - - - -
+              INSTAL O - - - - - -
+             PROBLEM X - - - - - -
+              REGION X - - - - - -
+                SUDO - X - - X - -
+             APT-GET - S - - S - -
+             BROWSER - O - - - - -
+                HTTP - - O - - - -
+        VGNID=179955 - - - S - - -
+             MPLAYER - - - X - - -
+                SAME - - - - O - -
+               WIN32 - - - - X - -
+         LOADLIBRARY - - - - S - -
+        AVISYNTH.DLL - - - - X - -
+/USR/LIB/WIN32/AVISYNTH.DLL - - - - X - -
+/USR/LOCAL/LIB/WIN32/AVISYNTH.DLL - - - - X - -
+                GOAL - - - - O - -
+           W32CODECS - - - - O X -
+                  .. - - - - - O -
+             PACKAGE - - - - - X -
+        INSTALLATION - - - - - X -
+           CANDIDATE - - - - - S -
+               HTTPS - - - - - O -
+//HELP.UBUNTU.COM/COMMUNITY/RESTRICTEDFORMATS/WINDOWSCODECS - - - - - X -
+         ACTION=SHOW - - - - - - X

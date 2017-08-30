@@ -1,0 +1,7 @@
+           PARTITION X O - - -
+                 LVM - X - - -
+                   / - X - - -
+          FILESYSTEM - O - - -
+              UBUNTU - X - - -
+                 ALL - O - - -
+              INSIDE - - - - X

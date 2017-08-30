@@ -1,0 +1,12 @@
+                TEST X - - - -
+              KERNEL X X - S -
+                SCSI O - - - -
+             MODULES X - - O -
+               PANIC - O - - -
+               THERE - S - S -
+               IMAGE - O - - -
+              ANYONE - - X - -
+             SUPPORT - - - O -
+             DEFAULT - - - X -
+         MKINITRAMFS - - - O -
+                 FIX - - - - O

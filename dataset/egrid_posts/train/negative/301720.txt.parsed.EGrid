@@ -1,0 +1,17 @@
+             PROBLEM O - - - - - -
+              SERVER O - - O - - -
+             APACHE2 X - - O - - -
+               ERROR O - - O X - -
+   /USR/SBIN/APACHE2 S - - - O - -
+APR_GLOBAL_MUTEX_LOCK+0X31 X - - - - - -
+              ANYONE S - - - - - -
+           MOD_PERL2 - - - O - - -
+               -RSB- - - - X - - -
+                 TIP - - - X - - -
+                   * - - - - O - -
+               GLIBC - - - - S - -
+                LIST - - - - O - -
+             MESSAGE - - - - O - -
+              APACHE - - - - O - -
+               REPOS - - - - X - -
+                   P - - - - - - X

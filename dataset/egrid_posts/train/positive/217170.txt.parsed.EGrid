@@ -1,0 +1,14 @@
+                 HEY X - - - - -
+              INITRD O - - - - -
+                LOAD X - - - - X
+              MODULE X - - - - -
+         MOTHERBOARD - S - - - -
+               BREAK - O - - - -
+          CONTROLLER - X - - - -
+              KERNEL - S - - - -
+              DRIVER - O - - - -
+                SUDO - - X - - -
+                  VI - - S - - -
+                MODE - - X - - -
+                ROOT - - - - - X
+          FILESYSTEM - - - - - S

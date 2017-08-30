@@ -1,0 +1,25 @@
+             MONITOR O - - -
+                  IM - X - -
+            KNXVILLE - S - -
+                FONT - S - -
+                 ONE - O - -
+     DISTRESSED_DUDE - O - -
+           PARTITION - X X -
+               STAGE - X - -
+                MODE - - X -
+               ERROR - - X -
+               TABLE - - O -
+              HELPER - - X -
+                EXIT - - X -
+                CODE - - X -
+PART_CREATE_PARTITION_TABLE - - X -
+DEVICE_FILE=/DEV/SDA - - X -
+            SCHEME=0 - - S -
+                DISK - - S -
+           BLKRRPART - - X -
+               IOCTL - - X -
+            /DEV/SDA - - X -
+              DEVICE - - X -
+            RESOURCE - - S -
+          EVERYTHING - - - X
+          THUNDEBIRD - - - X

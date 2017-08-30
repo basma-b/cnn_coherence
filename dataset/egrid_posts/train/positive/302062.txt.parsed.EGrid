@@ -1,0 +1,16 @@
+              ANYONE X - - - - -
+                 SCP X - S - - -
+             COMMAND - O - - - -
+            FILE.TXT - X - - - -
+                USER - X - - - -
+                HOST - X - - - -
+/DIR1/DIR2/DIR3/FILE.TXT - S - - - -
+                DIR1 - O - - - -
+                DIR2 - O - - - -
+         DIRECTORIES - O - - - -
+             OPTIONS - - O - O -
+                  CP - - X - - X
+                THAT - - - O - -
+              THERES - - - O - -
+              OPTION - - - X - O
+               MKDIR - - - - X S

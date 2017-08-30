@@ -1,0 +1,12 @@
+                ROOT X - - - - -
+                DISK O - - - - -
+           HARDDRIVE - O - - - -
+              LAPTOP - X - - - -
+             XUBUNTU - O - - - -
+            USBSTICK - X - - - -
+          BOOTLOADER - X - - - -
+                  HD - X - - - -
+                 1,0 - X - - - -
+                 CAT - - X - - -
+/BOOT/GRUB/DEVICE.MAP - - S - - -
+             COMMAND - - O - - -

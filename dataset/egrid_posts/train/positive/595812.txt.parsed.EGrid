@@ -1,0 +1,23 @@
+        AVAILABILITY O - - - - - - - -
+                FILE X - - - - - - - -
+            SETTINGS X - - - - - - - -
+                TIME - X - O - - - - -
+               CHECK - O - O X - - - -
+               STUFF - S - - - - - - -
+                HASH - O - O - - - - -
+                LOAD - - - S - - - - -
+             PROGRAM - - - X - - - - -
+           CONDITION - - - X - - - - -
+                GAWK - - - - X - - - -
+                  .. - - - - O - - - -
+             PORTION - - - - O - - - -
+           MAKEFILES - - - - X - - - -
+                 TRY - - - - X - - - -
+         RECONFIGURE - - - - X - - - -
+                SUDO - - - - X - - - -
+            ALSACONF - - - - X - - - -
+                WELL - - - - - S - - -
+              ACCORD - - - - - O - - -
+                HELP - - - - - X - - -
+CACHE-FILE=CONFIG.CACHE - - - - - O - - -
+                   U - - - - - - X - -

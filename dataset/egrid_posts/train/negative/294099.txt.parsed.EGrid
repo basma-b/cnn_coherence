@@ -1,0 +1,14 @@
+/ETC/X11/XORG.CONF_BACKUP1 X - -
+              DRIVER X - -
+             MANAGER O - -
+          NVIDIA/ATI X - -
+             DRIVERS O - -
+              NVIDIA X - -
+                ONES O - -
+                USER S - -
+             PACKAGE X - -
+               PARTY X - -
+              SOURCE - - O
+               PATCH - - X
+            MAKEFILE - - X
+                  .. - - O

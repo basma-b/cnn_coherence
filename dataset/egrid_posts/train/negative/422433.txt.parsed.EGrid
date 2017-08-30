@@ -1,0 +1,11 @@
+                BOOT X X X -
+        COMMAND-LINE X - - -
+                ROOT X - - -
+           PARTITION S - - -
+          /DEV/SDA3/ X - - -
+              ERRORS O - - -
+               CHECK O - - -
+               FORCE X - - -
+                  CD - - X -
+               DRIVE - - O -
+             PROBLEM - - - X

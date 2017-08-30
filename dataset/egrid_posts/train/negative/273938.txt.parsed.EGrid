@@ -1,0 +1,20 @@
+                ISET X - - - - -
+            IFCONFIG X - - - - -
+                DHCP - X X S - -
+                SUDO - X S - - -
+                NANO - X - - - -
+/ETC/NETWORK/INTERFACES - S - - - -
+              STATIC - O - - - -
+                LINE - O - - - -
+              CONFIG - X - - - -
+                FILE - X - - - -
+               IFACE - - X - - -
+                ETH1 - - S - - -
+                INET - - X X - -
+                 ETH - - O O - -
+                   > - - - S - -
+              CHANCE - - - X - -
+               AFAIK - - - X - -
+          NAMESERVER - - - X - -
+               IPDNS - - - X - -
+                GOOD - - - - - X

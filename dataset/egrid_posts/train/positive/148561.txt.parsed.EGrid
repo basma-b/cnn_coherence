@@ -1,0 +1,15 @@
+               PURGE X - - - -
+             APT-GET X - - - -
+                WORK O - - - -
+            SNYAPTIC X - - - -
+              OPTION X - - - -
+                 HMM - O O - -
+              APACHE - S - - -
+                 ALL - - S - -
+                CANT - - X - -
+          PHPMYADMIN - - X - O
+             PACKAGE - - X - -
+             COMMAND - - O - -
+                LINE - - X - -
+               ERROR - - O - -
+           OPERATION - - X - -

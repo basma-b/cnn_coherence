@@ -1,0 +1,11 @@
+              MODULE X - - - -
+                LOAD X - - O -
+                BOOT X - - - -
+             ALIASES - X - S -
+           BLACKLIST - - - O -
+                 ONE - - - X -
+                FILE - - - X -
+     /ETC/MODPROBE.D - - - X -
+           ~/.BASHRC - - - X -
+            QUESTION - - - O -
+                  NP - - - - X

@@ -1,0 +1,12 @@
+           INSTALLER S - - - -
+             DISPLAY X - - - -
+            VARIABLE S - - - -
+             COMMAND X - - - -
+/USR/X11R6/BIN/XDPYINFO O - - - -
+          CONNECTION S - - - -
+                 0.0 S - - - -
+              SERVER X - - - -
+              EXPORT - - - X -
+        DISPLAY=:0.0 - - - S -
+                   + - - - X -
+               LOCAL - - - - X

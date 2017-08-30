@@ -1,0 +1,19 @@
+                HI~I S - S - -
+                BOOT X - X - -
+                 LFS X - X X -
+            HARDDISK X - X - -
+            MENU.LST O - O - -
+                THIS X - X S -
+              KERNEL X - X - -
+   /BOOT/LFS/LINUX64 X - X - -
+            ROOT=ISO X - X - -
+           /DEV/SDA4 X - X - -
+              INITRD X - X - -
+/BOOT/LFS/INITRAMFS_DATA64.CPIO.GZ S - S - -
+            QUESTION - X - - -
+               LINUX - - O - -
+             SCRATCH - - X - -
+                YES~ - - - S -
+             CHANNEL - - - O -
+              UBUNTU - - - O -
+              SYSTEM - - - - O

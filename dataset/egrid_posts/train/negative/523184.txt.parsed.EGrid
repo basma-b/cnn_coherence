@@ -1,0 +1,14 @@
+               ASYNC O - X X - X - -
+             OPTIONS X - - X - - - -
+           PARAMETER X - - X - - - -
+               FSTAB X - - X - - - -
+                 WAY X - - X - - - -
+       COMMUNICATION S - - S - - - -
+          FILESYSTEM X - - X - - - -
+            PARALLEL - X - - X - - -
+                SYNC - X - - X - - -
+              SERIAL - - X - - X - -
+                 BOY - - - S - - - -
+                  ED - - - O - - - -
+            OPENLDAP - - - - - - - X
+             CHANNEL - - - - - - - O

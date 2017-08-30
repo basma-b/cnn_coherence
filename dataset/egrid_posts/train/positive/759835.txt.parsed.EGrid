@@ -1,0 +1,13 @@
+              UBUNTU S S - - - -
+/ETC/NETWORK/INTERFACES O O - - - -
+     NETWORK-MANAGER - O - - - -
+       UBUNTU-SERVER - X - - - -
+                BOOT - X - - - -
+      NETWORKMANAGER - S - - - -
+             NETWORK - X - - - -
+             MANAGER - O - - - -
+               THATS - - S - - -
+             PACKAGE - - O - - -
+NETWORK-MANAGER-GNOME - - - - - S
+               CHECK - - - - - O
+            SYNAPTIC - - - - - X

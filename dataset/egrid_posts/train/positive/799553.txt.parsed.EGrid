@@ -1,0 +1,9 @@
+             DEV/SHM X - -
+              ACCESS - X -
+                ROOT - X -
+               BUILD - O -
+             RAMDISK - X -
+             DESKTOP - X -
+       ~/DESKTOP/SHM - - S
+                SUDO - - X
+            /DEV/SHM - - X

@@ -1,0 +1,13 @@
+            LANGUAGE O - - - - - O
+             COMMAND X - - - - - O
+                LINE X - - - - - -
+                LOOK - - O - - - -
+                LANG - - O - - - X
+         ENVIRONMENT - - X - - - -
+            VARIABLE - - X - - - O
+              SYSTEM - - X - - - -
+    DPKG-RECONFIGURE - - - - - - S
+              OPTION - - - - - - O
+         /ETC/BASHRC - - - - - - X
+            EVERYONE - - - - - - S
+                BASH - - - - - - O

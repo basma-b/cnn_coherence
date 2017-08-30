@@ -1,0 +1,11 @@
+                BOOT S - X
+             MEMTEST X - -
+             DEFAULT X - -
+              CONFIG X - -
+                FILE X - -
+               ENTRY O - X
+            GRUB.CFG - - S
+              KERNEL - - O
+                HOLD - - X
+               SHIFT - - S
+                MENU - - O

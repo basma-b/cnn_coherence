@@ -1,0 +1,12 @@
+                MESS X - - - - -
+                GRUB X - - - O -
+           PARTITION O - X - - -
+             DEFAULT X - - - - -
+                  OS S - - - - -
+             LIVEUSB - X - - - -
+                FILE - O - - - -
+                SUDO - - X - X -
+         UPDATE-GRUB - - X - - -
+        GRUB-INSTALL - - - - X -
+              UPDATE - - - - - X
+              DASSIE - - - - - X

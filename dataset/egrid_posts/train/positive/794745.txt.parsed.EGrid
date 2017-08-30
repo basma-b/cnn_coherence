@@ -1,0 +1,21 @@
+                 GUY X - - - - - - - - - - - - -
+                CANT X - - - - - - - - - - - - -
+              REPAIR X - - - - - - - - - - - - -
+        INSTALLATION O - - - - - - - - - - - - -
+              OPTION O X - - - - - - - - X - - -
+                  CD X - X - - - - - - - - - - -
+                TYPE - - - - - X - - - - - - - -
+                BOOT - - - - - X - - - - - - - -
+             OPTIONS - - - - - X - - - - - - - -
+            GRUB.CFG - - - - - - O - - - - - - -
+          GENERATION - - - - - - X - - - - - - -
+GRUB_CMDLINE_LINUX_DEFAULT - - - - - - - - O - - - - -
+   /ETC/DEFAULT/GRUB - - - - - - - - X - - - - -
+                SUDO - - - - - - - - X - - - - -
+         UPDATE-GRUB - - - - - - - - X - - - - -
+              MOMENT - - - - - - - - - X - - - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - - - - - - - - X - - - -
+              SPLASH - - - - - - - - - O - X - -
+               SPLAH - - - - - - - - - - X - - -
+                 YES - - - - - - - - - - - X - -
+               SPACE - - - - - - - - - - - X - -

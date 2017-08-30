@@ -1,0 +1,17 @@
+             APT-SRC S - - - - - - -
+           BUILD-DEP - O - - - - - -
+                WORK - - X - - - - -
+                 KDE - - X - - - - -
+             KUBUNTU - - X - - - - -
+             FIREFOX - - X - - - - -
+                  QT - - X - - - - -
+              DOESNT - - X S - - - -
+            VERSIONS - - - X - - - -
+        DEPENDENCIES - - - O - - - -
+                DEPS - - - - O - - -
+             PACKAGE - - - - S - - -
+                 PPC - - - - - X - -
+            QUESTION - - - - - - - O
+              CHANGE - - - - - - - S
+                /DEV - - - - - - - X
+              REBOOT - - - - - - - X

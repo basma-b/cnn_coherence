@@ -1,0 +1,23 @@
+                SUDO X X - - - -
+             APT-GET X S - - - -
+               PURGE X - - - - -
+    NETBOOK-LAUNCHER X O - - - -
+             MAXIMUS X X - - - -
+          AUTOREMOVE X - - - - -
+              REBOOT X O - - - -
+             NETBOOK X - - - - -
+                MODE O - - - - -
+                 THE - - O - - -
+   /ETC/DEFAULT/GRUB - - S - - -
+              SPLASH - - S - - -
+                 ALL - - O - - -
+         UPDATE-GRUB - - - S - -
+ WHITELIST/BLACKLIST - - - O - -
+                APPS - - - S - -
+           INDICATOR - - - X - -
+             APPLETS - - - X - -
+                MESS - - - - X -
+                LIST - - - - X -
+               CHECK - - - - - X
+                HTTP - - - - - X
+//WWW.WEBUPD8.ORG/2011/04/THINGS-TO-TWEAK-FIX-AFTER-INSTALLING.HTML - - - - - X

@@ -1,0 +1,17 @@
+             COMMAND X - - - -
+             FOLDERS X - - - -
+         PERMISSIONS X - - O -
+                 ALL X - - - -
+                THAT - O - - O
+              SERVER - - - X -
+              SYSTEM - - - X -
+                  OT - - - S -
+               USERS - - - S -
+                FILE - - - X -
+               STUFF - - - O -
+             METHODS - - - - X
+               GROUP - - - - X
+            INSTANCE - - - - X
+               CHMOD - - - - X
+              AND/OR - - - - X
+               CHOWN - - - - X

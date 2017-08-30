@@ -1,0 +1,18 @@
+               ERROR S - - - -
+                FILE O - - - -
+             SOMEONE S - - - -
+                GZIP X - - - -
+              FORMAT - X - - -
+                 TAR - X - X -
+               CHILD - X - - -
+              RETURN - X - - -
+              STATUS - X - - -
+             EXITING - S - - -
+             FAILURE - X - - -
+              ERRORS - X - - -
+                   > - S - - -
+               WHATS - - O - -
+MSE-0.3.8-LINUX.TAR.GZ - - - O -
+               POSIX - - - X -
+             ARCHIVE - - - X -
+                 GNU - - - X -

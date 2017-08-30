@@ -1,0 +1,17 @@
+           XORG.CONF O - - - - -
+              DRIVER S - - - - -
+              NVIDIA X - - - - -
+               6200. X - - - - -
+                XORG X - - - - -
+     NVIDIA-SETTINGS O - - - - -
+                9.04 - X - - - -
+                9.10 - X - - - -
+                   X - X - - - -
+               ISSUE - O - - - -
+                FILE - - X - - -
+                SUDO - - X - - -
+             APT-GET - - S - - -
+       NVIDIA-COMMON - - O - - -
+      NVIDIA-XCONFIG - - - S - -
+               ERROR - - - - - X
+             MESSAGE - - - - - O

@@ -1,0 +1,27 @@
+                LOOK O - - - - - -
+        /ETC/CRONTAB - X S - - - -
+                  -E - X - - - - -
+               ITHER - X - - - - -
+                   * - - X - - - -
+/HOME/STEVE/SYNCFAIL.SH - - S - - - X
+ /HOME/STEVE/SYNCLOG - - X - - - X
+                USER - - X - - - -
+                NAME - - O - - - -
+              SCRIPT - - O - - - -
+             ENTRIES - - O - - - -
+                ROOT - - X - - - X
+                 TED - - - X - - -
+                CRON - - - X - - O
+             SERVICE - - - O - - -
+             NOTHING - - - X - - -
+                HOUR - - - X - - -
+              MINUTE - - - - - X -
+               ERROR - - - - - X -
+             MESSAGE - - - - - O -
+                MAIL - - - - - X -
+                TAIL - - - - - X -
+                  -N - - - - - X -
+     /VAR/LOG/SYSLOG - - - - - X -
+                   > - - - - - - X
+               -RSB- - - - - - - X
+                 CMD - - - - - - X

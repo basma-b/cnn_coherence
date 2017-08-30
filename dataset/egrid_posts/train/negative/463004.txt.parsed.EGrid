@@ -1,0 +1,15 @@
+        AUTOMOUNTING X - - -
+               DRIVE X - - -
+                  RO - O - -
+             NOTHING - S - -
+             SOMEONE - S - -
+                  RW - X - -
+                AUTO - S - -
+             DEFAULT - X - -
+         /DEVICEPATH - S - -
+              CHANCE - S - -
+            ANYTHING - X - -
+                DISK - X - -
+                BOOT - - - X
+            SYSTEM/S - - - O
+           PARTITION - - - O

@@ -1,0 +1,30 @@
+             SOMEONE X - - - - - - - -
+                  OS X - - - - - - - -
+             APT-GET - S - - - - - - -
+     CONNTRACK-TOOLS - S - - - - - - -
+             VERSION - X - - - - - - -
+                 BUG - X - - - - - - -
+              REPORT - X - - - - - - -
+/ETC/INIT.D/CONNTRACK - - X - - - - - -
+                FILE - - - X O - O X -
+                THAT - - - - - O - - -
+ DPKGTERMINALLOG.TXT - - - - - S - - -
+               DAVID - - - - - X - - -
+              CROSIO - - - - - S - - -
+/ETC/INIT.D/CONNTRACK-TOOLS - - - - - - O - -
+                STOP - - - - - - X - -
+                PART - - - - - - X - -
+                  .. - - - - - - O O -
+/VAR/RUN/CONNTRACD.PID - - - - - - S - -
+                MISS - - - - - - O - -
+               TOUCH - - - - - - X - -
+               RIGHT - - - - - - O - -
+                 PID - - - - - - O O -
+          CONNTRACKD - - - - - - X - -
+             PROCESS - - - - - - X - -
+                  PS - - - - - - X - -
+           CONNTRACK - - - - - - X - -
+               BUGGY - - - - - - - O -
+                THIS - - - - - - - S -
+               KINDA - - - - - - - X -
+           SOMETHING - - - - - - - - O

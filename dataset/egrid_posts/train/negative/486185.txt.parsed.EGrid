@@ -1,0 +1,7 @@
+               DHCPD X - -
+              OPTION O - -
+              CLIENT X - -
+             REQUEST O - -
+                FILE - X -
+       DHCLIENT.CONF - X -
+             PROCESS - - O

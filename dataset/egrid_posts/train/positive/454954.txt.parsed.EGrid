@@ -1,0 +1,16 @@
+               FDISK X X - -
+                  -L X S - -
+                SATA - X - -
+               DRIVE - O - -
+                   / - X - -
+               /HOME - X - -
+                SWAP - O - -
+                EXT3 - X - -
+               FSTAB - S - -
+                 ONE - S - -
+             DEV/SDA - O - -
+             DEV/SDB - S - -
+                 1-6 - O - -
+               WHICH - S - -
+ /ETC/INIT.D/NETWORK - - S -
+                  TY - - - X

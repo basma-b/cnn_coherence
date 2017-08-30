@@ -1,0 +1,16 @@
+                WHAT O - - - -
+               ERROR X S - - -
+/USR/LIB/CUPS/FILTER/FOOMATIC-RIP X - - - -
+             NETWORK - X - - -
+             WINDOWS - X - - -
+             PRINTER - O - - -
+                 FIX - O - - -
+/ETC/APT/SOURCES.LIST - X - - -
+                SUDO - X - - -
+             APT-GET - S X - -
+             PROBLEM - - S - -
+           DOWNGRADE - - X - -
+             PACKAGE - - X - -
+             VERSION - - X - -
+                 USE - - X - -
+              LIVECD - - - - S

@@ -1,0 +1,21 @@
+           APT-CACHE X - X X - - - - -
+              SEARCH X - - - - - - - -
+                 ONE X - - - - - - - -
+           APT-REPOS X - - - - - - - -
+                 LTS - X - - - - - - -
+              UPDATE - X - - - - - - -
+              POLICY - - O X - - - - -
+                SHOW - - - S - - - - -
+               REPOS - - - O - - X - -
+            ANYTHING - - - - O - - - -
+/ETC/APT/SOURCES.LIST - - - - X - - - -
+                 YUP - - - - - S - - -
+                  .. - - - - - - X - -
+               BUNCH - - - - - - X - -
+                FILE - - - - - - X - -
+           RACKSPACE - - - - - - X - S
+/ETC/APT/APT.CONFIG.D - - - - - - - X -
+             NOTHING - - - - - - - - O
+                 USE - - - - - - - - O
+                USER - - - - - - - - X
+             SUPPORT - - - - - - - - X

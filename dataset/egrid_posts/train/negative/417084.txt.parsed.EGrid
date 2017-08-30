@@ -1,0 +1,6 @@
+                 USE X -
+           AUTOMOUNT S -
+                SAME O -
+             WINDOWS X -
+            PHYSICAL - X
+               DRIVE - O

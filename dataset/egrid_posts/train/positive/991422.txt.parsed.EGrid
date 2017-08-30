@@ -1,0 +1,5 @@
+             KILLALL X -
+                  -9 S -
+                XMMS X -
+               -TERM S -
+                TIME - X

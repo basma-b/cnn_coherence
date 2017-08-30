@@ -1,0 +1,13 @@
+               THERE X - - -
+                  PC - X - -
+                 SSH - X - -
+               SOUND - S - -
+  /PROC/SOUND/ASOUND - O - -
+               THATS - - O -
+  /PROC/ASOUND/SOUND - - X -
+              SCRIPT - - - O
+                FILE - - - X
+             DESKTOP - - - X
+                 PWD - - - S
+                HOME - - - X
+           DIRECTORY - - - X

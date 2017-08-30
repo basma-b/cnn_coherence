@@ -1,0 +1,15 @@
+               L3TOP X - - -
+             DEFAULT X - - -
+                SUDO S - S -
+           VARIABLES O - - -
+          HTTP_PROXY O - - -
+             SUDOERS - S - -
+              OUTPUT - X - -
+            ANYTHING - O - -
+                   | - - X -
+               PROXY - - S X
+                 APT - - S -
+/ETC/APT/APT.CONF.D/ - - O -
+             NOTHING - - X -
+          ~/.PROFILE - - - S
+    /ETC/ENVIRONMENT - - - O

@@ -1,0 +1,19 @@
+       WPASUPPLICANT O - - - - - -
+/ETC/WPA_SUPPLICANT.CONF O - - - - - -
+                 ONE - S - - - - -
+               CHECK - X - - - - -
+/USR/SHARE/DOC/WPASUPPLICANT - X - - - - -
+                 YAY - - - O - - -
+              RETURN - - - X - - -
+                 ALL - - - - O - -
+             ONELINE - - - - O - -
+             STARTUP - - - - X - -
+             PROGRAM - - - - X - -
+                ETH0 - - - - X - -
+                THIS - - - - - - S
+               ERROR - - - - - - X
+                  IM - - - - - - S
+              ERRORS - - - - - - O
+           ENCOUNTER - - - - - - X
+               WHILE - - - - - - X
+             PROCESS - - - - - - O

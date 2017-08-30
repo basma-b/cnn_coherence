@@ -1,0 +1,24 @@
+                 HEY X - - - - - - - -
+              DRIVER X - - - - - - - -
+               FSTAB S - X S - - - - -
+                WORK O - - O - - - - -
+                NTFS S - - - - - - - -
+                THAT - X - S - - - - -
+             NTFS-3G - - X - - - - - -
+          FILESYSTEM - - X - - - - - -
+                LINE - - X - - - O - -
+                SUDO - - - - S - - X -
+             WINDOWS - - - - X - X - -
+           PARTITION - - - - O - X - -
+                DISK - - - - X - - - -
+/DEV/YOURDEVFORWINPART - - - - - - S - -
+                AUTO - - - - - - X X -
+                  RW - - - - - - X X -
+                EXEC - - - - - - X X -
+               USERS - - - - - - O O -
+               WHATS - - - - - - O - -
+      /MEDIA/WINDOWS - - - - - - - O -
+           /DEV/HDA1 - - - - - - - S -
+               MKDIR - - - - - - - X -
+             PACKAGE - - - - - - - - X
+              BINARY - - - - - - - - O

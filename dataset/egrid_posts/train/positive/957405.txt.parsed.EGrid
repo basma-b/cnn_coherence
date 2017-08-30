@@ -1,0 +1,11 @@
+                FILE X - - - - - -
+            TRANSFER O - - - - - -
+            SCP/SFTP X - - - - - -
+             OPENSSH - X - - - - -
+              SERVER - - S - - - O
+              SYSTEM - - O - - - -
+         ALTERNATIVE - - O - - - -
+             SOMEONE - - S - - - -
+              CLIENT - - - O - - -
+                GFTP - - - - - S -
+             FTP-SSL - - - - - - S

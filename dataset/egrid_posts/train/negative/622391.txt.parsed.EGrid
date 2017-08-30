@@ -1,0 +1,14 @@
+                FILE X - - - - -
+     /USR/LOCAL/SBIN X - - - O -
+          INSTALLERS - S - - - -
+           /USR/SBIN - O - - - -
+           SOMETHING - - - O - -
+        REPOSITORIES - - - X - -
+         /USR/LOCAL/ - - - X - -
+             DEFAULT - - - X - -
+                HTTP - - - X - -
+         -ENOCONTEXT - - - S - -
+               SLAPD - - - X - -
+             CONTEXT - - - - O -
+               PASTE - - - - X -
+                GOOD - - - - - X

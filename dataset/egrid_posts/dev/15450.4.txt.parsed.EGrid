@@ -1,0 +1,23 @@
+              PICKLE O - - - - - - - - -
+             COMMAND - O - - - - - - - -
+          DEPENDENCY - X - - - - - - - -
+             NETBASE - X - - - - - - - -
+              BREAKS - X - - - - - - - -
+            IFUPDOWN - O X - - - - - - -
+                   < - X - - - - - - - -
+                DPKG - - S - - - - - O -
+      UBUNTU-MINIMAL - - S - - - - - - -
+              THINGS - - - S - O - - - -
+            CONFLICT - - - X - - - - - -
+             PACKAGE - - - X - - - - - -
+                 PPA - - - X - - - - - -
+/ETC/APT/SOURCES.LIST.D - - - - O - - - - -
+               THERE - - - - - S - S - -
+           DIRECTORY - - - - - X - - - -
+              UPDATE - - - - - O - - - -
+                  TY - - - - - - X - - -
+                THAT - - - - - - - O - -
+      SOURCES.LIST.D - - - - - - - X - -
+                SUDO - - - - - - - - X -
+                  -A - - - - - - - - X -
+/USR/SHARE/DOC/BACULA-COMMON/EXAMPLES/ - - - - - - - - - X

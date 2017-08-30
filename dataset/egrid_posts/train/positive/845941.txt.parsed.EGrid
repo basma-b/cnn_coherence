@@ -1,0 +1,16 @@
+              SYSTEM O - - - -
+             APT-GET O - - - -
+              UPDATE X - - - -
+                DPKG S - - - -
+             MESSAGE X - - - -
+               ERROR S - - - -
+           ENCOUNTER O - - - -
+             KERNELS O - - - -
+                THIS S - - - -
+            APTITUDE O - O - -
+             PACKAGE X - - - -
+              INSTAL - O O - -
+                 MAN - - X - -
+                TEST - - X - -
+                PAGE - - O - -
+           INTERFACE - - - - S

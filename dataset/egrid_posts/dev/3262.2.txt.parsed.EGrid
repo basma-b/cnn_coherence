@@ -1,0 +1,20 @@
+                TIME X - - - - - - - - -
+ /BOOT/GRUB/GRUB.CFG S - - - - - - - - -
+               THERE S - - - S - - - - -
+              KERNEL X - - - - - - - - -
+             UPGRADE O - - - O - X - - -
+              CUSTOM - - X - - - - - - -
+                MENU - - X - - - - - - -
+             ENTRIES - - S - - - - - - -
+/BOOT/GRUB/CUSTOM.CFG - - X - - - - - - -
+            BOOTINFO - - - - X - - - - -
+                   | - - - - S - - - - -
+                GRUB - - - - X - X X - -
+                FILE - - - - X - - - - -
+                EDIT - - - - - S - - - -
+            ADDITION - - - - - - O - - -
+               GRUB2 - - - - - - - S - -
+              LEGACY - - - - - - - X - -
+               UNITY - - - - - - - - - S
+              THINGS - - - - - - - - - S
+              SCREEN - - - - - - - - - X

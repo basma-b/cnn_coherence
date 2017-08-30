@@ -1,0 +1,14 @@
+               XAUTH X -
+               ERROR S -
+                LOCK X -
+           AUTHORITY X -
+                FILE X -
+/HOME/SIMON/.XAUTHORITY O -
+             PROBLEM O -
+              TUNNEL S -
+           127.0.0.1 O -
+             DEFAULT S -
+                PORT O -
+           VNCSERVER X -
+                  CD - O
+                TOOL - O

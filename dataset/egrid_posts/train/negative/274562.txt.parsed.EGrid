@@ -1,0 +1,17 @@
+            ACPI=OFF O O - - -
+                GRUB X - - - -
+             MACHINE X - - X -
+                BOOT X - - - -
+              KERNEL - S S - -
+              UPDATE - O - - -
+            MENU.LST - S X - -
+             PACKAGE - X - - -
+             DEFAULT - X - - -
+               THERE - - X - -
+                 WAY - - X - -
+              UBUNTU - - X - -
+           PARAMETER - - O - -
+                LINE - - - O -
+               ISSUE - - - O -
+                THAT - - - - X
+         LIBREOFFICE - - - - O

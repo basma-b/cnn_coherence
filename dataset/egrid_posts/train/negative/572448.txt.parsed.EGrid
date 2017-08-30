@@ -1,0 +1,9 @@
+             COMMAND - X - -
+                 USE - X - -
+               MOUNT - - S -
+      /DEV/MMCBLK0P1 - - O -
+          /ETC/FSTAB - - X -
+           /ETC/MTAB - - X -
+                TALK - - - O
+              DRIVER - - - X
+            SETTINGS - - - X

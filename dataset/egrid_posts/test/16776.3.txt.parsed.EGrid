@@ -1,0 +1,25 @@
+            GRAPHICS X X - -
+                CARD X - - -
+              UBUNUT X - - -
+               LSPCI - X - -
+                 -NN - X - -
+                   | - X - -
+                GREP - X - -
+                 VGA - S - -
+          CONTROLLER - X - -
+               -LSB- - O - -
+               -RSB- - X - -
+               INTEL - X - -
+         CORPORATION - X - -
+          GENERATION - X - -
+                CORE - X - -
+           PROCESSOR - X - -
+              FAMILY - X - -
+          INTEGRATED - X - -
+                MEAN - O - -
+             COMMAND - - X -
+            TERMINAL - - X -
+              OUTPUT - - X -
+/ETC/APT/SOURCES.LIST.D/ - - - X
+                  LS - - - X
+                  CD - - - X

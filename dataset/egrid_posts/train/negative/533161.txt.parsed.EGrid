@@ -1,0 +1,31 @@
+                  OK O - - - X - -
+                SUDO X - - - - - -
+/ETC/INI.D/NETWORKING X - - - - - -
+/ETC/INIT.D/NETWORKING S - - - - - -
+                  IP O - - O - - -
+               LEASE - O - - - - -
+            DATABASE - X - - - - -
+           -SLEEPING - X - - - - -
+                  NO - - X - - - -
+          DHCPOFFERS - - S - - - -
+                DHCP - - S O X - -
+               REPLY - - O - - - -
+               CABLE - - S - - - -
+                   A - - - X - - -
+             MACBOOK - - - X - - -
+                 HUM - - - X - - -
+                  .. - - - X - - -
+/ETC/NETWORK/INTERFACES - - - O - - -
+                AUTO - - - X X - -
+                ETH0 - - - O X - -
+               IFACE - - - S - - -
+                INET - - - X X - -
+                  LO - - - X - - -
+            LOOPBACK - - - X - - -
+               COMMA - - - - X - -
+                LINE - - - - X - -
+             ENGLISH - - - - - - X
+              DOESNT - - - - - - X
+               SENSE - - - - - - O
+           UBUNTU-IT - - - - - - O
+            LANGUAGE - - - - - - X

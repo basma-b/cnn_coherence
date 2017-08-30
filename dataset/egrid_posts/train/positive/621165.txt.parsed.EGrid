@@ -1,0 +1,11 @@
+         HOSTS.ALLOW X - - -
+          HOSTS.DENY O - - -
+             SERVICE O - - -
+              CHANGE S - - -
+            PROBLEMS - X - -
+                BOOT - - X -
+                TIME - - - O
+              ACCORD - - - X
+                 MAN - - - X
+                PAGE - - - X
+                FILE - - - S

@@ -1,0 +1,37 @@
+               WHILE - O - - - X - - - - - - -
+                  PS - X - - - - - - - - - - -
+                  AX - X - - - - - - - - - - -
+                   | - S - - - - - - - - - - -
+                GREP - - X - - - - - - - - - -
+/USR/LIB/GNOME-PANEL/NOTIFICATION-AREA-APPLET - - X - - - - - - - - - -
+OAF-ACTIVATE-IID=OAFIID - - X - - - - - - - - - -
+GNOME_NOTIFICATIONAREAAPPLET_FACTORY - - X - - - - - - - - - -
+               PTS/4 - - X - - - - - - - - - -
+                  S+ - - X - - - - - - - - - -
+                 ONE - - X - - - - - - - - - -
+                 SEC - - X - - - - - - - - - -
+              PIDGIN - - X - - - - - - - - - -
+            SETTINGS - - X - - - - - - - - - -
+             PLUGINS - - S - - - - - - - - - -
+              ENABLE - - O - - - - - - - - - -
+        NOTIFICATION - - - X - - - - - - - - -
+              EVENTS - - - X - - - - - - - - -
+              CHANGE - - - - X - - - - - - - -
+              VOLUME - - - - X - - - - - - - -
+              DOESNT - - - - S - - - - - - - -
+              POPUPS - - - - O - - - X - X - -
+              HAVENT - - - - - X - - - - - - -
+              OTHERS - - - - - O - - - - - - -
+               PANEL - - - - - O - - - - - - -
+                PART - - - - - - X - - - - - -
+                ICON - - - - - - S - - - - - -
+               THOSE - - - - - - - X - - - - -
+                TALK - - - - - - - - O - - - -
+              DAEMON - - - - - - - - X - - - -
+                 RUN - - - - - - - - X - - - -
+              MOMENT - - - - - - - - - X - - -
+              REASON - - - - - - - - - - X - -
+                LACK - - - - - - - - - - X - -
+               KINDA - - - - - - - - - - - S -
+             COMMAND - - - - - - - - - - - O -
+/USR/LIB/NOTIFY-OSD/NOTIFY-OS - - - - - - - - - - - - X

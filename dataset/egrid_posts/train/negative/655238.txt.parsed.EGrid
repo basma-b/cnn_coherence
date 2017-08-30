@@ -1,0 +1,16 @@
+              CONFIG S -
+                GRUB X -
+                 USE O -
+ /BOOT/GRUB/MENU.LST X -
+                   * X -
+            GRUB.CFG O -
+                  XP X -
+              FEDORA O -
+             ENTRIES O -
+/ETC/GRUB.D/40_OTHER X -
+               HTTPS S -
+//ANSWERS.LAUNCHPAD.NET/UBUNTU/+SOURCE/GRUB2/+QUESTION/93043 X -
+           YESTERDAY O -
+               YOURS X -
+                 YES - S
+             DESKTOP - X

@@ -1,0 +1,15 @@
+            .XINITRC X - - -
+           .XSESSION X - - -
+                WORK X - - -
+                 THE - S - -
+/USR/SHARE/XSESSIONS/XSESSION.DESKTOP - O - -
+         INFORMATION - O - -
+             DESKTOP - X - -
+               ENTRY - X - -
+               -RSB- - X - -
+                LINE - X - -
+       NAME=XSESSION - X - -
+        COMMENT=THIS - S - -
+                FILE - O - -
+EXEC=/ETC/X11/XSESSION - X - -
+/ETC/APT/SOURCES.LIST - - - X

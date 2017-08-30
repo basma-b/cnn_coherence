@@ -1,0 +1,17 @@
+                THAT X - - - - - - -
+                  YO S - - - - - - -
+               HOARE O - - - - - - -
+               CDROM - O - - - - - -
+                INIT - X - - - - - -
+                 CD0 - X - - - - - -
+                DISK - X - - - - - -
+                READ - X - - - - - -
+               ERROR - O - - - - - -
+            QUESTION - - S - - - - -
+              DISTRO - - X - - - - -
+            ANYTHING - - - O - - - -
+                 CDS - - - X - - - -
+            GRUB4DOS - - - - X S - -
+               IMAGE - - - - X O - -
+                 USE - - - - - - - O
+       VM.SWAPPINESS - - - - - - - O

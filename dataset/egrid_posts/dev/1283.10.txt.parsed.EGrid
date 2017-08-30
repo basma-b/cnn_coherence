@@ -1,0 +1,12 @@
+        SOURCES.LIST S - - - - -
+                MESS O - - - - -
+               REPOS S - - - - -
+                 MIX O - - - - -
+                WHAT - - X - - -
+             RELEASE - - X - - -
+             UPGRADE - - X - - -
+                   * - - - X - -
+           PARTITION - - - - X -
+              SCHEME - - - - O -
+             BOOLEAN - - - - - S
+             PROBLEM - - - - - O

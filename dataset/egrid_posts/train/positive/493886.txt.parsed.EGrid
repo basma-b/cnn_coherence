@@ -1,0 +1,16 @@
+             SOMEONE X - - -
+                 RUN X - - -
+                VBOX X - - -
+             MESSAGE - O - -
+                USER - S X -
+         PERMISSIONS - O - -
+        /DEV/VBOXDRV - X - -
+           VBOXUSERS - S - -
+               GROUP - X - -
+                SUDO - X - -
+             USERMOD - X - -
+                 -AG - X - -
+                   > - O O -
+             NOTHING - - - O
+               LINUX - - - X
+                  XP - - - X

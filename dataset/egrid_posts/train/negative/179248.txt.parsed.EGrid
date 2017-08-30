@@ -1,0 +1,15 @@
+              SERVER O - - S - -
+              ROUTER X X - S - -
+              BEHIND - X - - - -
+                PORT - - X O - -
+                MOST - - - S - -
+                  'S - - - S - -
+             ADDRESS - - - O - -
+         192.168.0.7 - - - X - -
+                  OK - - - X - -
+         CONNECTIONS - - - O - -
+                   O - - - X - -
+                   * - - - X - -
+             SERVERS - - - O - -
+         192.168.0.8 - - - X - -
+                IDEA - - - X - -

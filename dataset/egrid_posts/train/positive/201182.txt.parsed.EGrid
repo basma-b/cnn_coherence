@@ -1,0 +1,15 @@
+              KERNEL X - - - -
+                CPUS X - - - -
+              DOESNT - - X - -
+                 SSH - - S - -
+              CLIENT - - O S -
+               AMD64 - - - X -
+             DEFAULT - - - X -
+                 USE - - - X -
+               32BIT - - - X -
+             VERSION - - - O -
+               OWNER - - - O -
+               GROUP - - - O -
+       /USR/BIN/SUDO - - - X X
+                 SKT - - - O -
+                ROOT - - - - X

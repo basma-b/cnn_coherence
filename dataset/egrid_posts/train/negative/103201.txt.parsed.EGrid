@@ -1,0 +1,13 @@
+         PERMISSIONS S - - - -
+         MOUNTPOINTS X - - - -
+                FILE X - - - -
+             SYSTEMS X - - - -
+             OPTIONS - S - - -
+           PARTITION - X - - -
+            DEV/HDA1 - - O - -
+                NTFS - - X - -
+            NLS=UTF8 - - S - -
+            /DEV/HDA - - S - -
+               UMASK - - S - -
+               TRICK - - O - -
+               THANK - - - - X

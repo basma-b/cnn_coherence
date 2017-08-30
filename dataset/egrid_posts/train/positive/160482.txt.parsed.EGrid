@@ -1,0 +1,15 @@
+                DATA X - - -
+           INTERFACE X - - -
+                ETH1 X - - -
+            COMPUTER X - - -
+              PERIOD X - - -
+               CHECK - X - -
+            IFCONFIG - X X -
+                SHOW - X - -
+                BITS - S - -
+            IWCONFIG - X - -
+               BYTES - - X -
+            WIRELESS - - O -
+                OPPS - - - X
+          PETROLBOMB - - - X
+            GKREALLM - - - O

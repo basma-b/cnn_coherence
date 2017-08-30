@@ -1,0 +1,14 @@
+         NDISWRAPPER O O - X X - - -
+           BLACKLIST X - - - - - - X
+              DRIVER X - - O O - - -
+      BLACKLIST.CONF X - - - - - - -
+    NDISWRAPPER.CONF - X - - - - X -
+               IDEAS - - X - - - - -
+                THAT - - - O - - X -
+                  -L - - - S - - - -
+           ALTERNATE - - - S - - - -
+              DEVICE - - - - X - - -
+           0BDA:8189 - - - - X - - -
+             RTL8187 - - - - X - - -
+                CASE - - - - X - - -
+                  IE - - - - - - - X

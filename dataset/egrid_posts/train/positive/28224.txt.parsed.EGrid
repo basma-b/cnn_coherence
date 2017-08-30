@@ -1,0 +1,24 @@
+                FILE S - - - - X - - - -
+/HOME/KHAN/PUBLIC_HTML/TEST.HTML X - - - - - - - - -
+                HTTP - - - S - - - - - -
+//LOCALHOST/USER/TEST1.HTML - - - X - - - - - -
+                   C - - - X - - - - - -
+//LOCALHOST/~USER/TEST1.HTML - - - X - - - - - -
+             REQUEST - - - X O - - - - -
+   /~USER/TEST1.HTML - - - S - - - - - -
+              SERVER - - - X X X - - - -
+                 URL - - - - X - - - - -
+                   < - - - - S - - - - -
+                   > - - - - X - - - - -
+       APACHE/2.0.50 - - - - X X - - - -
+              UBUNTU - - - - X X - - - -
+                PORT - - - - X X - - - -
+   /~KHAN/TEST1.HTML - - - - S - - - - -
+                 GOT - - - - - X - - - -
+                HECK - - - - - X - - - -
+                THAT - - - - - - S - - -
+                CANT - - - - - - - - X -
+            USERDIRS - - - - - - - - S -
+             DEFAULT - - - - - - - - X -
+              APACHE - - - - - - - - X -
+             SOMEONE - - - - - - - - - S

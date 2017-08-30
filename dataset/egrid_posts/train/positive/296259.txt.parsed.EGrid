@@ -1,0 +1,15 @@
+            IPTABLES X X X X - X
+                 TCP X - - - - -
+                DNAT X - - X - -
+                  IP X - - X - -
+               -RSB- X - - X - -
+         SUGGESTIONS O S S - - -
+               ISSUE X - - - - -
+                  -J - - - X - -
+             PROBLEM - - - S - -
+                 WAY - - - O - -
+               IDEAS - - - O - -
+          PREROUTING - - - - - O
+            FRONTEND - - - - - O
+             SUPPORT - - - - - X
+            UBUNTU+1 - - - - - X

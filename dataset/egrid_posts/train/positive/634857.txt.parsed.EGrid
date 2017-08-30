@@ -1,0 +1,15 @@
+                   ' X - -
+                 USE X - X
+             DEFAULT O - -
+                LILO O - -
+                BOOT X - -
+               LINUX X - -
+                  CD X - -
+               SHELL X - -
+           /MNT/ROOT O - -
+              CHROOT X - -
+             COMMAND O - -
+        GRUB-INSTALL S O X
+                GRUB O - -
+                 END - - X
+                LINE - - X

@@ -1,0 +1,17 @@
+                 ALL O - - - -
+                 USE X - - - -
+              KARMIC - O - - -
+           PARTITION - X S - -
+        INSTALLATION - - X - -
+             CONVERT - - O - -
+          LOST+FOUND - - X - -
+                  EX - - X - -
+                 ETC - - X - -
+           DIRECTORY - - O - -
+              FORMAT - - X - -
+                SHOW - - X - -
+                DATA - - S - -
+                30GB - - X - -
+                FSCK - - O - -
+              OUTPUT - - S O -
+           /DEV/SDA5 - - - X -

@@ -1,0 +1,14 @@
+                WIFI X - - - -
+                CHIP X - - - -
+             NETWORK - - O - -
+          CONTROLLER - - X - -
+               LSPCI - - X - -
+             OFFLINE - - O - -
+              METHOD - - O - -
+              LAPTOP - - S - -
+                 ALL - - X - -
+            ETHERNET - - S - -
+              UBUNTU - - S - -
+                  CD - - O - -
+              SYSLOG - - - - O
+     /VAR/LOG/SYSLOG - - - - O

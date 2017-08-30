@@ -1,0 +1,17 @@
+                 NTP O - - -
+             COMMAND S - - -
+                NTPD O - - -
+                SUDO - X - -
+     /ETC/INIT.D/NTP - S - -
+             DRIVERS - - X X
+             XSERVER - - X -
+                 ATI - - - X
+             PROBLEM - - - O
+                 ALL - - - S
+                TYPE - - - O
+                 MAN - - - X
+           XORG.CONF - - - X
+           SOMETHING - - - O
+HTTPL//WIKI.CCHTML.COM/INDEX.PHP/UBUNTU_FEISTY_INSTALLATION_GUIDE - - - X
+REVERT_TO_XORG_DRIVER - - - X
+                CASE - - - X

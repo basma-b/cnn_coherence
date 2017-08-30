@@ -1,0 +1,17 @@
+                BOTH - S - -
+               FSTAB - X X -
+                SDA1 - S - -
+               POINT - X - -
+                READ - O - -
+                 HDA - S - -
+              ANYONE - S - -
+         PERMISSIONS - X S -
+           /DEV/SDA1 - - O -
+                USER - - O -
+                 DIR - - S -
+         /MEDIA/WIN1 - - X -
+                NTFS - - S -
+               UMASK - - O -
+                 MAN - - S -
+               HMMMM - - - X
+                PART - - - X

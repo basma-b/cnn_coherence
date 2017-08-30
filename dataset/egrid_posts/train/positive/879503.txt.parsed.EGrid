@@ -1,0 +1,9 @@
+               ENTRY O - - -
+          /ETC/FSTAB X - - -
+               DRIVE X - O -
+                BOOT - X X -
+              SYSTEM - S - -
+          FILESYSTEM - X - -
+              RESULT - - O -
+              OPTION - - - X
+               FSTAB - - - X

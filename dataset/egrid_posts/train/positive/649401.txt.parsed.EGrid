@@ -1,0 +1,13 @@
+               FAT32 - X - - -
+                NTFS - X - - X
+                LOSS - X - - -
+                DATA - X - - O
+              UBUNTU - X - - -
+                  .. - X - - X
+                BOOT - O - - -
+             WINDOWS - X X - X
+                HTTP - O - - -
+           PARTITION - - - - X
+               LINUX - - - - X
+                 BOX - - - - X
+                 /FS - - - - O

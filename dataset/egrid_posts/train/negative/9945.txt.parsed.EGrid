@@ -1,0 +1,13 @@
+                TYPE O - -
+                  -T X - -
+                EXT3 - O -
+          /DEV/HDA11 - S -
+         /MNT/UBUNTU - X -
+               ERROR - O -
+       /MOUNT/UBUNTU - X -
+                FILE - X -
+           DIRECTORY - X -
+               THERE - - S
+                 WAY - - O
+             DEFAULT - - X
+                  .. - - O

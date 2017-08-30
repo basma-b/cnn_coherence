@@ -1,0 +1,9 @@
+                  .. X - - - - - -
+             OVERLAY X - - - - - -
+              DRIVER - - X O - - -
+                 ATI - - - X - - -
+                CARD - - - - - X -
+               LSPCI - - - - - - X
+               |GREP - - - - - - X
+                 VGA - - - - - - X
+              OUTPUT - - - - - - O

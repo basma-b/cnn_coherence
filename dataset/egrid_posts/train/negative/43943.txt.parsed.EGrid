@@ -1,0 +1,15 @@
+              SYSTEM O - - - -
+               SPACE S - - - -
+               LEAVE O - - - -
+             PROBLEM O - - - -
+             /CHROOT O - - - -
+              KERNEL X - - - -
+              DEVICE X - - - -
+              114GBS X X - - -
+               TOTAL O - - - -
+                 USE O - - - -
+           PARTITION O X - - -
+                 ONE - X - - -
+             NTFS-3G - - - - S
+                NTFS - - - - X
+           NTFSTOOLS - - - - O

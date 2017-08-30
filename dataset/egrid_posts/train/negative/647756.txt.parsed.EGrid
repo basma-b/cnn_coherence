@@ -1,0 +1,26 @@
+             INSTALL S - - - - - - - - - - -
+             UPGRADE X - X - - - - - - - - -
+             NETWORK - X - - X - - - O - - -
+             MANAGER - X - - X - - - - - - -
+         INFORMATION - - X - - - - - - - - -
+      NETWORKMANAGER - - X - - - - - - - - -
+              KARMIC - - X - - - - - - - - -
+     NETWORK-MANAGER - - O - - - - - - - - -
+                WILL - - X - - - - - - - - -
+                MESS - - O - - - - - - - - -
+              UPDATE - - X - - - - - - - - -
+              OPTION - - - O - - - - - - - -
+/ETC/NETWORKMANAGER/NM-SYSTEM-SETTINGS.CONF - - - X - - - - - - - -
+            ANYTHING - - - O - - - - - - - -
+                THAT - - - - O - - - - - - -
+               START - - - - X - - - - - - -
+              SYSTEM - - - - - X - - - - - -
+                   > - - - - - X - - - - - -
+         PREFERENCES - - - - - S - - - - - -
+             STARTUP - - - - - X - - - - - -
+        APPLICATIONS - - - - - O - - - - - -
+              SCRIPT - - - - - - X - - - - -
+                TIME - - - - - - - X S - - -
+              UBUNTU - - - - - - - - - X - -
+             VERSION - - - - - - - - - X - -
+                  OK - - - - - - - - - - - X

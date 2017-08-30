@@ -1,0 +1,15 @@
+             PROCESS O - - - -
+           RESOURCES O - - - -
+            TERMINAL X - - - -
+            INSTANCE S - - - -
+                RUBY X S - - -
+                 LOT O - - - -
+                 MEM X - - - -
+                PROC X - - - -
+              SCRIPT - X S - -
+                THAT - - X - -
+                 PID - - O O -
+             PROGRAM - - X - -
+                  PS - - - X -
+                  AX - - - S -
+             PROBLEM - - - - X

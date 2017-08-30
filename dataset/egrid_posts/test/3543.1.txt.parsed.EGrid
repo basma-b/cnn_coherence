@@ -1,0 +1,6 @@
+          PERMISSION S - X
+/PROC/SYS/NET/IPV4/TCP_SACK O - -
+              OUTPUT - O -
+                 LOT - - X
+                BASH - - X
+/ETC/SYSCTL.D/60-GIGABIT.CONF - - X

@@ -1,0 +1,11 @@
+            FIREWALL X O -
+              UBUNTU X - -
+             DEFAULT - S -
+               CHMOD - X -
+                A+RW - S -
+            FILENAME - O -
+                 ONE - S -
+                FILE - O -
+              OTHERS - X -
+                 HOP - - S
+              FUTURE - - X

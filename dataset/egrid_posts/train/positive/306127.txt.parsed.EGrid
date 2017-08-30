@@ -1,0 +1,14 @@
+                SHOW S - - - - - - -
+                SWAP X - X - - - X -
+                 USE O - X - - - - -
+                LINE - - O - - - - -
+           PARTITION - - O - - - S -
+              UBUNTU - - S - - - - -
+              MKSWAP - - - S - - - -
+                NAME - - - O - - - -
+              DEVICE - - - X X - - -
+             FS-TYPE - - - - X - - -
+                  .. - - - - X - - X
+          /ETC/FSTAB - - - - - - O -
+              NUMBER - - - - - - X -
+               MOUNT - - - - - - - S

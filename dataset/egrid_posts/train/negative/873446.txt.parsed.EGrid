@@ -1,0 +1,19 @@
+                SITE O O -
+                PLAN - O -
+             APACHE2 - O -
+                SELF - X -
+                LOOK - O -
+            /VAR/WWW - X -
+                  .. - O -
+                AREA - S -
+                FILE - X -
+              SYSTEM - X -
+              SCRIPT - X -
+LIBAPACHE2-MOD-PHP5FILTER - O -
+              APACHE - X -
+             SERVICE - O -
+              SEARCH - X -
+              DRUPAL - O -
+           NO-IP.ORG - O -
+        DEPENDENCIES - - O
+            APTITUDE - - O

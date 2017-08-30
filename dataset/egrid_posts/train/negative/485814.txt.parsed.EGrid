@@ -1,0 +1,15 @@
+                VFAT X - - - - - - - -
+                AUTO X - - - - - - - -
+                USER S - - - - - - - -
+                LINE O - - - - - - - -
+          /ETC/FSTAB X - - - - - - - -
+              ACCESS X - - - - - - - -
+               DRIVE X - - - - - - - -
+                ROOT - S - - - - - - -
+         PERMISSIONS - O - - - O - - -
+          MOUNTPOINT - X - - - - - - -
+                HELP - - O - - - - - -
+           UMASK=000 - - - - - - O - -
+                HTTP - - - - - - - X -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - - - - - - X -
+             T=83973 - - - - - - - - X

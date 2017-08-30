@@ -1,0 +1,21 @@
+              HERMAN X - - - - - - -
+              TOMCAT X - - - - - - -
+               SMBFS - O - - - - - -
+       USERNAME=USER - X - - - - - -
+//COMPUTERNAME/SHARE - X - - - - - -
+     /MNT/MOUNTPOINT - S - - - - - -
+               SHARE - O - - - - - -
+              FOLDER - X - - - - - -
+        APPLICATIONS - O - - - - - -
+                   > - X - - - - - -
+              SYSTEM - X - - - - - -
+               TOOLS - X - - - - - -
+              SHARES - S - - - - - -
+                 GUI - O - - - - - -
+                  AH - - S - - - - -
+                TOOL - - - O X - X -
+                NAME - - - - O - - -
+                SUDO - - - - - X - -
+        SHARES-ADMIN - - - - - S - -
+              INSTAL - - - - - - X -
+             PACKAGE - - - - - - - S

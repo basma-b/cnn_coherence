@@ -1,0 +1,26 @@
+               GARRY X - - - - - - - - -
+                 HDD X X - - - - - - - -
+               LINUX X X - - - - - - - -
+         PERMISSIONS - - O - - - - - - -
+               FSTAB - - X - - - - - - -
+                LINE - - - X - - - - - -
+                NTFS - - - - X - - - O -
+                SATA - - - - X - - - - -
+               DRIVE - - - - X - - - - -
+              DEVICE - - - - - X - - - -
+                NAME - - - - - O - - - -
+                PART - - - - - - S - - -
+                USER - - - - - - X - - -
+                MASK - - - - - - X - - -
+              OPTION - - - - - - X - - -
+                SIGN - - - - - - X - - -
+                TIME - - - - - - - X - -
+                  RO - - - - - - - S - -
+          UMASK=0722 - - - - - - - X - -
+              NOAUTO - - - - - - - X - -
+             DEFAULT - - - - - - - O - -
+                AUTO - - - - - - - X - -
+                BOOT - - - - - - - X - -
+SYSTEM/ADMINISTRATION/DISKS - - - - - - - - X -
+                IDEA - - - - - - - - - S
+             CONSOLE - - - - - - - - - X

@@ -1,0 +1,14 @@
+                 NFS X X - - - - -
+               SHARE O - - - - - -
+             ARCHIVE X - - - - - -
+                ROOT X - - - - - -
+                  LS O - - - - - -
+/VAR/CACHE/APT/ARCHIVES/ X - - - - - -
+          PERMISSION S - - - - - -
+              SERVER - X - - - - -
+        /ETC/EXPORTS - - X - - - -
+      /HOME/ARCHIVES - - - S - - -
+                  RW - - - X - - -
+                SYNC - - - X - - -
+           SOMETHING - - - S - - -
+              CLIENT - - - X - - -

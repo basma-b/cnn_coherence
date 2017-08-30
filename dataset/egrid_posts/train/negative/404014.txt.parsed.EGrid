@@ -1,0 +1,12 @@
+                LIST X - - - - - - -
+            HARDWARE X - - - - - - -
+             DEVICES X - - - - - - -
+            COMPUTER X - - - - - - -
+                LSHW - S - - - - - -
+         COMBINATION - S - - - - - -
+               LSPCI - X - - - - - -
+                SUDO - X - - - - - -
+             APT-GET - X - - - - - -
+                 G77 - X - - - - - -
+               REPOS - - X - - - - -
+            GFORTRAN - - - O - - - -

@@ -1,0 +1,17 @@
+                 ANY S - - -
+               ISSUE O - - -
+        XSERVER-XORG X - - -
+              UPDATE X S - -
+              DAPPER X - - -
+                XORG - O - -
+           DOWNGRADE - X - -
+              SETUPS - O - -
+             PACKAGE - O S -
+               REPOS - X - -
+                  .. - X - -
+               BREAK - - X -
+        DEPENDENCIES - - O -
+          DEPENDENCY - - X -
+                TREE - - O -
+                THAT - - - S
+         MAINTAINERS - - - X

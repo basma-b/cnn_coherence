@@ -1,0 +1,14 @@
+             FEATURE O - - -
+             REQUEST X - - -
+                 BUG X X X -
+              REPORT X - - O
+               GNOME X - - -
+          MANAGEMENT X - - -
+              SYSTEM X - - -
+             PACKAGE X - - -
+           LAUNCHPAD X - - -
+                   A - - O -
+               HTTPS - - X O
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/GNOME-KEYRING-MANAGER - - X -
+                   Y - - X -
+//BLUEPRINTS.LAUNCHPAD.NET/GNOME-KEYRING-MANAGER/+SPEC/SSH-AGENT-PROMPT-ON-USE - - - O

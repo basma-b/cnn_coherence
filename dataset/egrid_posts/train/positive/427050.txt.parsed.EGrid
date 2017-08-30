@@ -1,0 +1,10 @@
+             COMMAND X - - -
+                 APP X - - -
+             SERVICE X - - -
+               CHECK X - - -
+           RUNLEVELS X - - -
+                 YES - - S -
+                  'S - - S -
+                MESS - - X -
+         PERMISSIONS - - X -
+                 EYE - - - X

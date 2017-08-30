@@ -1,0 +1,15 @@
+                TIME X - - - -
+              SCRIPT S - S - -
+                BOOT X - - - -
+                CALL X - X - -
+/ETC/INIT.D/BOOTMISC.SH X - - - -
+                  VI X X - - -
+         BOOTMISC.SH X S - - -
+                ROOT - X - - -
+               WHATS - - S - -
+        FIREWALL-NEW - - O - -
+              LOCATE - - O - -
+     /ROOT/EXAMPLES/ - - X - -
+                 END - - X - -
+                LINE - - - X -
+                  OK - - - - X

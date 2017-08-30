@@ -1,0 +1,18 @@
+               LOGIN X - - - - - -
+                ROOT X - X - - - -
+              SCREEN X - - - - - -
+                DONT - - S - - - -
+                SUDO - - - X X - -
+                 CAT - - - X - - -
+    /ETC/LSB-RELEASE - - - X - - -
+/ETC/APT/SOURCES.LIST - - - O - - -
+            APTITUDE - - - X - - -
+              UPDATE - - - O X - -
+        DIST-UPGRADE - - - X - - -
+              DOESNT - - - - X - -
+               LIMIT - - - - S - -
+              PRGGIE - - - - O - -
+                EDGY - - - - X - -
+                 APT - - - - - S -
+          OPERATIONS - - - - - S -
+          CONNECTION - - - - - - X

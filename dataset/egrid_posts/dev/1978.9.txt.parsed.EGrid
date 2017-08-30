@@ -1,0 +1,9 @@
+        GRUB-INSTALL X - -
+             COMMAND X - -
+              SEARCH - X -
+              KERNEL - O -
+                   / - X -
+                 SYS - X -
+                BOOT - - S
+                ROOT - - X
+               SHELL - - X

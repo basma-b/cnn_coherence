@@ -1,0 +1,12 @@
+                 RUN O - - - -
+               GUEST X - - - -
+              ACCESS - O - - -
+             BROWSER - X - - -
+                THAT - - S - -
+                SUDO - - X - -
+            IPTABLES - - X - -
+               INPUT - - X - -
+                  -P - - S - -
+                 0/0 - - O - -
+                  -J - - O - -
+               WHATS - - - S -

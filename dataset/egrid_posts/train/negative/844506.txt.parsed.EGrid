@@ -1,0 +1,16 @@
+                HOST X X - - - -
+                  OS S - - - - -
+                 USB O - X - - -
+               GUEST X - - - - -
+              DRIVER - X - - - -
+          VIRTUALBOX - X - - - -
+             GUESTOS - - X - - -
+                PORT - - X - - -
+                 USE - - - - O -
+                   U - - - - S -
+       VIDEOS/AUDIOS - - - - O -
+             PROGRAM - - - - X -
+             MPLAYER - - - - - X
+                   < - - - - - X
+           SOUNDFILE - - - - - X
+                   > - - - - - S

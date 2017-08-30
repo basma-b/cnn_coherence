@@ -1,0 +1,14 @@
+         RECONFIGURE S - -
+        XSERVER-XORG O - -
+                  WM S - -
+       GNOME-SESSION S - -
+               STICK O - -
+                DONT - S -
+                XORG - S -
+                IDEA - O -
+                SOME - - S
+            HARDWARE - - X
+             FAILURE - - O
+                 RAM - - X
+             MEMTEST - - O
+              ERRORS - - X

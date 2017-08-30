@@ -1,0 +1,21 @@
+/ETC/NETWORK/INTERFACES O - - - - - - - - -
+                WHAT O - - - - - - - - -
+             DEFAULT - X - - - - - - - -
+            SETTINGS - O - - - - - O - -
+          INTERFACES - X - - - - - - - -
+               WHATS - - S - - - - - - -
+            PASTEBIN - - - X - - - - - -
+                SUDO - - - X - - - - - -
+/ETC/INIT.D/NETWORKING - - - X - - - - - -
+              OUTPUT - - - X - - - - - -
+                  OK - - - - X - - - - -
+                HTTP - - - - X - - - - -
+//PASTEBIN.CA/930175 - - - - X - - - - -
+              DEVICE - - - - - O - - - -
+              DRIVER - - - - - X - - - -
+         NDISWRAPPER - - - - - X - X - -
+                LOAD - - - - - - - X - -
+             NETWORK - - - - - - - X - -
+             MANAGER - - - - - - - S - -
+              FREEZE - - - - - - - O - -
+             TORRENT - - - - - - - - - O

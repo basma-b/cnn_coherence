@@ -1,0 +1,8 @@
+             PACKAGE S - -
+       NCURSES-DEVEL - X -
+          MENUCONFIG - O -
+              KERNEL - X -
+                 USE - S -
+             NCURSES - X -
+                  DA - - X
+                 MAN - - X

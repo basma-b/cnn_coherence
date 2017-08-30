@@ -1,0 +1,9 @@
+                SUDO X - - -
+             SERVICE X - - X
+          PULSEAUDIO S - - S
+                LINK - X - -
+             UPSTART - X - -
+             AETHNEN - - - X
+                PART - - - S
+                ALSA - - - X
+                TASK - - - S

@@ -1,0 +1,19 @@
+           W32CODECS O - - - - -
+                 ETC O - - - - -
+                FILE X - - - - -
+              PLAYER S X - - - -
+              SYSTEM X - - - - -
+             MPLAYER X - S - - X
+            SETTINGS O - - - - X
+               MEDIA - X - - - -
+           GSTREAMER - - X - - -
+             PLUGINS - - O - - -
+               WHATS - - X - - -
+                NAME - - X - - -
+                THIS - - - O - -
+                HTTP - - - O - -
+//PACKAGES.UBUNTU.COM/SEARCH - - - O - -
+KEYWORDS=GSTREAMER+PLUGINS - - - - X -
+      SEARCHON=NAMES - - - - X -
+        SUITE=JAUNTY - - - - X -
+         SECTION=ALL - - - - X -

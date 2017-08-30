@@ -1,0 +1,27 @@
+                  HI X - - - - - - - - -
+               SPACE - X - - - - - - - -
+              SERVER - X - - - - - - - -
+               /BOOT - X - - - - - - - -
+           DIRECTORY - X - - - - - - - -
+             KERNELS - - O - - - - - - -
+             PROBLEM - - O - - - - - - -
+                SUDO - - - X - - - - - -
+             APT-GET - - - S - - - - - -
+LINUX-IMAGE-2.6.32-21-SERVER - - - O - - - - - -
+        DEPENDENCIES - - - X - - X - - -
+               ERROR - - - O - - O - - -
+                HTTP - - - X - - - - - -
+                DONT - - - X - - - - - -
+              KERNEL - - - O X - - - - -
+  LINUX-IMAGE-SERVER - - - X - - - - - -
+    2.6.32-33-SERVER - - - - - X - - - -
+           PARTITION - - - - - X - - - -
+                  -F - - - - - O - S - -
+             COMMAND - - - - - X - - - -
+                   ' - - - - - - - X - -
+             PACKAGE - - - - - - - X - -
+            SOLUTION - - - - - - - X - -
+                SAME - - - - - - - - - O
+                  I. - - - - - - - - - X
+             DESKTOP - - - - - - - - - X
+          DIFFERENCE - - - - - - - - - O

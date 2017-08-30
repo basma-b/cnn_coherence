@@ -1,0 +1,9 @@
+             TIMEOUT O X - -
+                GRUB - X - -
+             DEFAULT - X - -
+                SECS - X - -
+                 SEQ - - - X
+            VERSIONS - - - O
+               CHECK - - - X
+/VAR/LOG/APACHE2/ERROR.LOG - - - X
+                  .. - - - O

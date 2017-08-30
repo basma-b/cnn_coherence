@@ -1,0 +1,11 @@
+               MYSQL O - -
+                SUDO X - -
+             APT-GET S - -
+    MYSQL-CLIENT-5.0 O - -
+               ERROR O - -
+               HY000 X - -
+              SERVER X - -
+              SOCKET X - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK S - -
+              ANYONE X - -
+              ENOUGH - - X

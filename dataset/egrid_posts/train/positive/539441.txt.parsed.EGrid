@@ -1,0 +1,13 @@
+                 DNS - S - - X - - -
+               TOPIC - - X - - - - -
+                 ONE - - S - - - - -
+              ANSWER - - O - - - - -
+            QUESTION - - - X S - - -
+                TIME - - - - X - - -
+             SERVERS - - - - O - - -
+             NETWORK - - - - X - - -
+               SETUP - - - - X - - -
+                DHCP - - - - - X - X
+              CLIENT - - - - - X - -
+    /ETC/RESOLV.CONF - - - - - X - -
+                 GUI - - - - - - - O

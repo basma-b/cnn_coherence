@@ -1,0 +1,19 @@
+                BIND S - - X X - - X
+                 RUN X - - - - - - -
+            EXAMPLES X - - - - - - -
+              GOOGLE X - - - - - - -
+             MACHINE O - - - - - - O
+                 DNS X - - - - - - S
+              SERVER X - - - - - - -
+             NETWORK X - - - - - - O
+                 BOY - X - - - - - -
+             XUBUNTU - - X - - - - -
+/ETC/BIND/NAMED.CONF - - - - - - O -
+/ETC/BIND/LOCAL.ZONE - - - - - - O -
+             ENTRIES - - - - - - O O
+               THOSE - - - - - - X -
+                TIME - - - - - - - O
+          LOCAL.ZONE - - - - - - - X
+      FOO.LOCAL.ZONE - - - - - - - X
+      BAR.LOCAL.ZONE - - - - - - - X
+            ANYTHING - - - - - - - O

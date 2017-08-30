@@ -1,0 +1,9 @@
+             PROBLEM O - - - - -
+          INITRAM-FS - O - - - -
+               ERROR - X - - - -
+             MESSAGE - O - X - -
+/ETC/MDADM/MDADM.CONF - S - - - -
+               ARRAY - O - - - -
+                RAID - - X - - -
+                EXT3 - - - - - S
+            FRAGMENT - - - - - X

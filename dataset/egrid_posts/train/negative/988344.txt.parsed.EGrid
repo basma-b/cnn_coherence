@@ -1,0 +1,10 @@
+    CONFIGURE-SCRIPT O - - - -
+               ERROR X - X - -
+             MESSAGE O - - - -
+           CONFIGURE - - X - -
+                 C++ - - X - -
+        PREPROCESSOR - - S - -
+               CHECK - - S - -
+                FILE - - - - X
+             MANAGER - - - - O
+             PREVIEW - - - - X

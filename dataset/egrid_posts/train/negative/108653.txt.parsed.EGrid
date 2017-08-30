@@ -1,0 +1,13 @@
+         ./CONFIGURE X - - -
+                LINE X - - -
+AC_LIB_PREPARE_PREFIX X - - -
+                  MM S - - -
+             VERSION O - - -
+            DHCLIENT - S - -
+            IFCONFIG - S - -
+             NOTHING - - X -
+              COMPIZ - - X -
+                THAT - - - O
+               IMAGE - - - O
+                GIMP - - - X
+           WALLPAPER - - - X

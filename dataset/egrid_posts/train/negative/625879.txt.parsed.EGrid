@@ -1,0 +1,15 @@
+             MACHINE X - - - - - - -
+                 USE X - - - - - - -
+           VMBUILDER O - - - - - - -
+                USER - X - - - - - -
+            PASSWORD - X - - - - - -
+                  .. - O - O - - - -
+             DEFAULT - X - - - - - -
+                PASS - X - - - - - -
+                BOOT - - - X - - - -
+                  -O - - - O - - - -
+             LIBVIRT - - - X - - - -
+            SOLUTION - - - - X - - -
+                FILE - - - - - - - O
+                 BOX - - - - - - - X
+                DPKG - - - - - - - X

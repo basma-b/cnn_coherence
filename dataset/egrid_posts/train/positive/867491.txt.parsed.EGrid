@@ -1,0 +1,16 @@
+          BACKTRACK5 X - -
+                  DD X O -
+         IF=/DEV/HDA X - -
+         OF=/DEV/HDC X - -
+        CONV=NOERROR X - -
+                SYNC S - -
+                DISK O O -
+               EQUAL X - -
+                 2ND X - -
+              SECOND S - -
+                 ONE O - -
+              BACKUP O - -
+                PART X - -
+              APPROX - O -
+                DATA - X -
+             CAUTION - - X

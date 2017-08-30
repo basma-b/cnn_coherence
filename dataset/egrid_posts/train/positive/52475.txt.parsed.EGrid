@@ -1,0 +1,12 @@
+             PROCESS S - -
+                ROOT X - -
+                PORT S - -
+              APACHE X - X
+              SERVER O - -
+             OUTSIDE X - -
+             STEALTH O - -
+            RESPONSE S - -
+            FIREWALL O - -
+              ROUTER - X -
+            REDIRECT - X -
+                COMP - X -

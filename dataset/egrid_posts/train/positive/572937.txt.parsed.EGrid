@@ -1,0 +1,17 @@
+               THERE S - - - - - - - - -
+            ANYTHING O - X - - - - - - -
+             DEFAULT - X - - - - - - - -
+              SCREEN - X - - - - - - - -
+          CONFIGURED - X - - - - - - - -
+             MONITOR - X - - - - - - - -
+                 ETC - X - - - - - - - -
+              DRIVER - - X - - - - - - -
+         INFORMATION - - X - - - - - - -
+                XORG - - - - X - - - - -
+                 LOG - - - - X - - - - -
+                FILE - - - - O - - - - X
+             DRIVERS - - - - S - - - - -
+                 USE - - - - O - - - - -
+                WONT - - - - O - - - - -
+ /VAR/LOG/XORG.0.LOG - - - - - - - X - -
+              VIEWRE - - - - - - - - - X

@@ -1,0 +1,9 @@
+              SERVER O O - - -
+                DHCP X X - - -
+                VLAN - X - - -
+           INTERFACE - X - - -
+              CHANGE - - S - -
+    /ETC/RESOLV.CONF - - X - -
+                TEXT - - - - O
+               12.04 - - - - O
+                MODE - - - - X

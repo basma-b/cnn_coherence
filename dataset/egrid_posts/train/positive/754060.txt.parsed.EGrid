@@ -1,0 +1,7 @@
+           PARTITION X - - - -
+                EXT3 X - - - -
+                DATA - O - - -
+               ERROR - - O - -
+              NUMBER - - O - -
+              UBUNTU - - - X -
+         GPARTED-GUI - - - - O

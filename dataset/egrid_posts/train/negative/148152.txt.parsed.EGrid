@@ -1,0 +1,13 @@
+             INSTALL S - - -
+                FILE O - - -
+          PERMISSION S - - -
+                ANY1 S - - -
+                SUDO - X - -
+                 ION - - O -
+                ROOT - - X -
+                  SU - - X -
+              DRIVER - - O -
+                 VGA - - X -
+               .MBOX - - - X
+                HTTP - - - O
+//EN.WIKIPEDIA.ORG/WIKI/MBOX - - - X

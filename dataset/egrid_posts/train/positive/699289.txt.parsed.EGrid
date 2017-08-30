@@ -1,0 +1,13 @@
+           LINUXSWAP X - - -
+           PARTITION X - - -
+              FORMAT X - - -
+           PRIMARIES - S - -
+                 ONE - S - -
+                SWAP - S - -
+              PEOPLE - - - S
+               /BOOT - - - O
+                FILE - - - X
+             SYSTEMS - - - X
+              KERNEL - - - X
+               USERS - - - X
+                MESS - - - X

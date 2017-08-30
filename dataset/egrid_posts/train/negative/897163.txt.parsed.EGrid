@@ -1,0 +1,12 @@
+                LIBS O - - -
+                WINE O - O -
+           IA32-LIBS - X - -
+                  .. - X X -
+                  IM - - O -
+               64BIT - - X -
+          DEPENDENCY - - S -
+                LINE - - O -
+           APT-CACHE - - X -
+               APRIL - - - S
+               HOARY - - - S
+                WEEK - - - X

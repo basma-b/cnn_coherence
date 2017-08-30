@@ -1,0 +1,12 @@
+             PACKAGE X - - - -
+              KERNEL X X - - X
+              SOURCE O O - - -
+       CONFIGURATION X - - - -
+                FILE X S - S -
+                 USE O - - - -
+             VERSION O - - - X
+              UBUNTU X - - - -
+              CONFIG - X - X -
+               /BOOT - X - - -
+            /.CONFIG - - - S -
+           OLDCONFIG - - - O O

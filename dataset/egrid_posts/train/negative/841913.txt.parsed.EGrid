@@ -1,0 +1,18 @@
+              KERNEL S X O O - - - -
+              2.6.32 X - - - - - - -
+              2.6.38 X - - - - - - -
+                STOP X - - - - - - -
+                WORK X - - - - - - -
+              UPDATE - X - - - - - -
+                HELP - S - - - - - -
+                SUDO - - X - - - - -
+             APT-GET - - S - - - - -
+LINUX-IMAGE-2.6.38.XXXX - - S - - - - -
+                THIS - - S - - - - -
+             VERSION - - S - - - - -
+              UBUNTU - - X - - - - -
+               10.04 - - O - - - - -
+                  OS - - X - - - - -
+           DOWNGRADE - - - X - - - -
+                NAME - - - - - - - X
+             CHANNEL - - - - - - - X

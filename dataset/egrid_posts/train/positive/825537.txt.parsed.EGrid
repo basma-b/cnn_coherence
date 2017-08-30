@@ -1,0 +1,8 @@
+               FSTAB O - - -
+               UUIDS - O - -
+                   / - X - -
+                FILE - O O -
+               CHECK - - O -
+           /ETC/MTAB - - O -
+            TEMPLATE - - X -
+           PARTITION - - - O

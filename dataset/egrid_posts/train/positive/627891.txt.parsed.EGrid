@@ -1,0 +1,13 @@
+                THIS O - - - - - -
+              KERNEL - O - - - - -
+               HOURS - - X - - - -
+        DEBIAN/RULES - - X - - - -
+         BINARY-DEBS - - O - - - -
+             KERNELS - - O - - - -
+             COMMAND - - X - - - -
+ CONCURRENCY_LEVEL=2 - - - X - - -
+         AUTOBUILD=1 - - - X - - -
+            FAKEROOT - - - S - - -
+                  GO - - - S - - -
+             MORNING - - - X - - -
+          NOEXTRAS=1 - - - X - - -

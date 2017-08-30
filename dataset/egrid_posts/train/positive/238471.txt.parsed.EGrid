@@ -1,0 +1,7 @@
+              CHROOT S - - - -
+         ENVIRONMENT X - - - -
+                USER X - - - -
+                 ALL - S - - -
+      /HOME/WHATEVER - - X - -
+              ACCESS - - O - -
+                /BIN - - X - -

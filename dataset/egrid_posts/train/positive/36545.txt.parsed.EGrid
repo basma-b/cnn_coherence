@@ -1,0 +1,5 @@
+             COMMAND X - - -
+              MYSQLD O - - -
+   /ETC/INIT.D/MYSQL - S - -
+                 RUN - - - X
+            RUNLEVEL - - - X

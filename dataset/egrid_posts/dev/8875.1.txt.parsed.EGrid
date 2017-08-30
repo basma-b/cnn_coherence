@@ -1,0 +1,8 @@
+                USER X - - -
+                SUDO O - - -
+               GROUP - X - -
+                 CMD - X - -
+             USERMOD - - X X
+                  -G - - - S
+              DOESNT - - - X
+                WORK - - - O

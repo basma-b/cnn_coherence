@@ -1,0 +1,9 @@
+                CODE O - -
+                 GCC X - -
+         INSTRUCTION X - -
+           LIBRARIES S - O
+                LIST O - -
+                 END - - X
+              TEST.C - - S
+               -LGLU - - X
+              -LGLUT - - O

@@ -1,0 +1,13 @@
+             .CONFIG X - -
+                FILE X - -
+                 USE X - -
+              KERNEL X - -
+             PACKAGE O X O
+               /BOOT - X -
+      SOURCE/HEADERS - X -
+              UBUNTU - - X
+                 MMM - - S
+              FUTURE - - S
+                 PPA - - O
+           DOWNGRADE - - X
+             DEFAULT - - X

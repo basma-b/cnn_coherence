@@ -1,0 +1,17 @@
+               10.04 X - - - - -
+               BTRFS X X X - - -
+              OPTION X - - - - -
+                 USE - X - - - -
+              UBUNTU - X - - - -
+           PARTITION - - O - - -
+                TEST - - X - - -
+              THEORY - - - - X -
+                 JOB - - - - O -
+                FILE - - - - X X
+            PASSWORD - - - - O X
+                 SAY - - - - X -
+         /DEV/RANDOM - - - - X -
+              RECORD - - - - - O
+             ENCRYPT - - - - - X
+              FOLDER - - - - - X
+             PROCESS - - - - - O

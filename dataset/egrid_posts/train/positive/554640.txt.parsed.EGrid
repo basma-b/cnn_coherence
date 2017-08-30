@@ -1,0 +1,22 @@
+        LINUX-IMAGES O - - - - - - - - - - -
+             SECTION X - - - - - - - - - - -
+            SYNAPTIC X - - - - - - - - - - -
+              SYSTEM - O - - - - - - - - - -
+                 ALL - - O - - - - - - - - -
+                 ONE - - X - - - - - - - - -
+             VERSION - - X - - - - - - - - -
+                  -A - - X - - - - - - - - -
+               THING - - - - - X - - - - - -
+             HEADERS - - - - - X - - - - - -
+             MODULES - - - - - X - - - - - -
+                 ETC - - - - - X - - - - - -
+           AUTOCLEAN - - - - - - O - - - - S
+        COMMAND-LINE - - - - - - X - - - - -
+               SPACE - - - - - - X - - - - -
+                MORE - - - - - - - O - - - -
+                FILE - - - - - - - O - - - -
+             PACKAGE - - - - - - - X - - - O
+          INSTALLERS - - - - - - - X O - - -
+             APT-GET - - - - - - - - S - - -
+                  CD - - - - - - - - - - X -
+/VAR/CACHE/APT/ARCHIVES - - - - - - - - - - X -

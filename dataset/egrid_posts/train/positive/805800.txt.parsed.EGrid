@@ -1,0 +1,10 @@
+               DMESG S - - -
+              KERNEL S - - -
+               MOUNT X - - -
+                   * - - X -
+                NAME - - X -
+             /DEV/SD - - X -
+              DEVICE - - - O
+                PATH - - - X
+                UUID - - - S
+               THING - - - X

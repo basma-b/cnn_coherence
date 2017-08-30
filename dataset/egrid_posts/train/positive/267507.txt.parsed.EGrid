@@ -1,0 +1,12 @@
+                NTPD S - -
+               CLOCK S - -
+                TIME - S -
+         CONSISTENCY - S -
+            ACCURACY - X -
+            HARDWARE - X -
+               LINUX - X -
+              +50MIN - X -
+                SYNC - - X
+             DEFAULT - - X
+              SOURCE - - X
+                POOL - - X

@@ -1,0 +1,17 @@
+                NDIS O - - - - - - - -
+             DRIVERS X - - - - - - - -
+             NETWORK - X - - - - - - -
+             MANAGER - X - - - - - - -
+            WIRELESS - - X - - - - - -
+             ADAPTER - - O - - X - - -
+               DMESG - - - S - - - - -
+                 LOT - - - O - - - - -
+              ERRORS - - - X - - - - -
+         NDISWRAPPER - - - X - - - - -
+             COMMAND - - - - S - - - -
+               YIKES - - - - O - - - -
+               BYTES - - - - X - - - -
+            HARDWARE - - - - - X - - -
+             SUPPORT - - - - - X - - -
+                PAGE - - - - - O - - -
+               THOSE - - - - - - S - -

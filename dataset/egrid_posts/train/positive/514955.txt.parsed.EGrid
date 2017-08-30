@@ -1,0 +1,16 @@
+                HELP O - - - - - - - - X -
+            APPARMOR - X - - - - O - - - -
+      APPARMOR-UTILS - O - - - - - - - - -
+             SELINUX - O - S - - - - - - X
+                FILE - - O - - - - - - - -
+               VALUE - - O - - - - - - - -
+ /ETC/SELINUX/CONFIG - - X - - - - - - - -
+              EFFECT - - X - - - - - - - -
+                BOOT - - - X - - - - - - -
+             DISABLE - - - X - - - - - - -
+             ENFORCE - - - - - - X - - - -
+                MOST - - - - - - - S - - -
+               HTTPS - - - - - - - X - - -
+//HELP.UBUNTU.COM/COMMUNITY/SELINUX - - - - - - - X - - -
+                THAT - - - - - - - - - X -
+              ANYONE - - - - - - - - - - X

@@ -1,0 +1,12 @@
+             COMMAND S - - - - - -
+            COMPUTER S - - - - - -
+                BOOT X - - - - - -
+             SERVICE X - - - - - -
+              SCRIPT - O - - - - -
+         /ETC/INIT.D - X - - - - -
+                USER - - S - - - -
+             SESSION - - X - - - -
+             MANAGER - - X - - - -
+              COURSE - - X - - - -
+                 ISO - - - S - - -
+             RELEASE - - - O - - -

@@ -1,0 +1,8 @@
+                 NAT X - - -
+                  -A S - - -
+          MASQUERADE X - - -
+                   > X - - -
+                 NIC O - - -
+                NTFS - - X -
+           PARTITION - - X -
+                MINE - - - X

@@ -1,0 +1,15 @@
+             PRINTER X X - - - - - -
+                 USB X X - - - - - -
+              SYSTEM X X - - - - - -
+               MODEL - - O - - - - -
+                  HP - - - X - - - -
+            LASERJET - - - S - - - -
+               HPLIP - - - O - - - -
+//WWW.LINUXPRINTING.ORG/SHOW_PRINTER.CGI - - - X - - - -
+            DOWNLOAD - - - - X - - -
+               CHMOD - - - - - - X -
+                  +X - - - - - - S -
+            TERMINAL - - - - - - X -
+                TYPE - - - - - - S -
+                FILE - - - - - - - S
+                NAME - - - - - - - O

@@ -1,0 +1,11 @@
+            MODPROBE X - -
+                TYPE S - -
+           I2C_PIIX4 X - -
+                LIST - O -
+             MODULES - X -
+              KERNEL - X -
+                MAKE - X -
+                  -A - X -
+               AFAIK - - X
+         GRUB-UPDATE - - S
+              UBUNTU - - S

@@ -1,0 +1,39 @@
+             SOMEONE X - - - - - - -
+               -RSB- X - - - - - - -
+                LOCK X - - - - - - -
+/VAR/RUN/NETWORK/MOUNTNFS S - - - - - - -
+                CARD - S - - - - - -
+                BOOT - X - - - - - -
+                   * - S - - - - - -
+               TALLY - S - - - - - -
+                 NIC - S - - - - - -
+            TERMINAL - O - - - - - -
+                GREP - X - - - - - -
+             NETWORK - X - - - - - -
+              RESULT - - X O - - - -
+                SLOT - - - S - - - -
+              FILTER - - - X - - - -
+                 BOX - - - X - - - -
+                HTTP - - - - X X - X
+//PASTE.UBUNTU.COM/220574/ - - - - S - - -
+                SUDO - - - - X - - X
+                NANO - - - - X - - O
+/ETC/NETWORK/INTERFACES - - - - S - - -
+//PASTE.UBUNTU.COM/220576/ - - - - S - - -
+               ERROR - - - - S - - -
+            SNIFF2-4 - - - - X - - -
+            ANYTHING - - - - O - - -
+             DEVICES - - - - S S - -
+            IFCONFIG - - - - X - - -
+                  -A - - - - X - - -
+              DOESNT - - - - X - - -
+               OFFER - - - - S - - -
+                THIS - - - - - X - -
+                CASE - - - - - X - -
+                PAGE - - - - - X - -
+              RENAME - - - - - O - -
+             PROBLEM - - - - - O - -
+                NAME - - - - - - O -
+                   K - - - - - - X -
+//PASTE.UBUNTU.COM/220585/ - - - - - - - X
+/ETC/INIT.D/NETWORKING - - - - - - - S

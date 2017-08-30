@@ -1,0 +1,15 @@
+                 HEY X - -
+             SERVICE X - -
+             UPSTART O - O
+     NETWORK-MANAGER - O -
+                LOAD - X -
+              SYSTEM - X -
+                   > - X -
+         PREFERENCES - X -
+             STARTUP - X -
+        APPLICATIONS - X -
+                SUDO - X -
+         UPDATE-RC.D - X -
+      NETWORKMANAGER - S O
+               THERE - - S
+              INIT.D - - X

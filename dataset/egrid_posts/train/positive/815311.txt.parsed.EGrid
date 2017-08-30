@@ -1,0 +1,9 @@
+              SYSTEM O O -
+             APT-GET X S -
+             VERSION X X -
+      UPDATE-MANAGER - S -
+               THING - S -
+                THIS - - O
+/ETC/UPDATE-MANAGER/RELEASE-UPGRADES - - O
+       PROMPT=NORMAL - - S
+                GOOD - - S

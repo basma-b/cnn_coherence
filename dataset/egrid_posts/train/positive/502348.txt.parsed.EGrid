@@ -1,0 +1,13 @@
+                HELP O - - -
+          VIRTUALBOX O - - -
+             MESSAGE O - - -
+              KERNEL X - - -
+              DRIVER S - - -
+                USER X S - -
+                THAT - X - -
+         PERMISSIONS - O - -
+        /DEV/VBOXDRV - X - -
+           VBOXUSERS - X S -
+               GROUP - X - -
+            USERNAME - - X -
+                DUDE - - - O

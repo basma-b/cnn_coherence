@@ -1,0 +1,16 @@
+           PARTITION O - O - - - - - - -
+                  FS O - - - - - - - - -
+               SPACE - O - - - - - - - -
+                RAID - - X O - - - - - -
+                BOOT - - X X X - - - - -
+               LEVEL - - X - - - - - - -
+          REDUNDANCY - - - X - - - - - -
+                GRUB - - - X - - - - - -
+                DISK - - - S - - - - - -
+                FINE - - - - X - - - - -
+                   / - - - - - O - - - -
+               /BOOT - - - - - O - - - -
+                THAT - - - - - - - O O -
+               GRUB2 - - - - - - - S - -
+               YEARS - - - - - - - X - -
+              THANKS - - - - - - - - - X

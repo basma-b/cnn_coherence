@@ -1,0 +1,5 @@
+                WIRE X - - -
+             NETWORK X - - -
+            IFCONFIG - S - -
+          PERMISSION - - S -
+                ROOT - - O -

@@ -1,0 +1,12 @@
+               ERROR S - - - - -
+           DIRECTORY S - - - - -
+          PERMISSION X - - - - -
+                THIS S - - - - -
+              ANYONE O - - - - -
+             PROBLEM X - - - - -
+                ROOM - O - - - -
+                /VAR - X - - - -
+                SUDO - O - - - -
+            SYNAPTIC - O - - - -
+                 YES - S - - - -
+             SELINUX - - - - - X

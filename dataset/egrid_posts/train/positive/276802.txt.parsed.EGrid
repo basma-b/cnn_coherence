@@ -1,0 +1,11 @@
+                 ALL O - - -
+                 WAY X - - -
+              UBUNTU X - - -
+            IPTABLES O - S -
+             STARTUP X - X -
+              SCRIPT - X - -
+IPTABLES-SAVE/RESTORE - O - -
+/ETC/NETWORK/INTERFACES - X - -
+                PART - - X -
+              KERNEL - - X -
+                RULE - - - O

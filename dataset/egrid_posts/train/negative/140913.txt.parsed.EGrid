@@ -1,0 +1,16 @@
+                 ONE S - - - - - - - - - - -
+       GNOME-DESKTOP X - - - - - - - - - - -
+                 TWO - X - - - - - - - - - -
+      UBUNTU-DESKTOP - - O - - - - - O - - -
+             NOTHING - - - - S - - - - - - -
+             ANYBODY - - - - - - S - - - - -
+             PACKAGE - - - - - - - S - - - -
+             DESKTOP - - - - - - - X - - - -
+                 LPR - - - - - - - - S - - -
+                ROOT - - - - - - - - - - X -
+                SUDO - - - - - - - - - - X -
+             CRONTAB - - - - - - - - - - X -
+                  -E - - - - - - - - - - O -
+            ANYTHING - - - - - - - - - - O O
+        /ETC/CRONTAB - - - - - - - - - - - O
+                 SET - - - - - - - - - - - X

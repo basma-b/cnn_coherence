@@ -1,0 +1,16 @@
+             BLUEKAJ X - - - -
+              THANKS X - - - -
+               THING - X - - -
+               WHILE - X - - -
+                 NFS - X - - -
+                 END - X - - -
+               SSHFS - - O - -
+               ENTRY - - - X O
+             WINDOWS - - - - X
+                MENU - - - - X
+/BOOT/GRUB/CUSTOM.CFG - - - - X
+           OS-PROBER - - - - O
+GRUB_DISABLE_OS_PROBER=TRUE - - - - X
+   /ETC/DEFAULT/GRUB - - - - X
+                SUDO - - - - X
+         UPDATE-GRUB - - - - O

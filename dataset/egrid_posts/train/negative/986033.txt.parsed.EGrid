@@ -1,0 +1,23 @@
+              ANYONE - X - - - - -
+              MODULE - S - - - - -
+       CONFIGURATION - O - - - - -
+                CARD - X - - - - -
+               ESSIS - - O - - - -
+                   * - - S - - O -
+         DESIREDSSID - - O - - - -
+                PLUG - - X - - - -
+              DEVICE - - X - - - -
+                  RE - - S - - - -
+/ETC/NETWORK/INTERFACES - - S - - - -
+            IWCONFIG - - - O - - -
+               ESSID - - - - O - -
+          INTERFACES - - - - X - -
+                 MSG - - - - O - -
+              CONFIG - - - - S - -
+              DRIVER - - - - - O -
+              FOLLOW - - - - - O -
+                SUDO - - - - - X -
+             APT-GET - - - - - S -
+      NVIDIA-GLX-177 - - - - - O -
+            ASTERISK - - - - - O -
+                THAT - - - - - - S

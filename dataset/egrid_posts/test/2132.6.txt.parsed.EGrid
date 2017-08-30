@@ -1,0 +1,8 @@
+      CHOWN-COMMANDS S - - - -
+            USERNAME X - - - -
+           GROUPNAME X - - - -
+                FILE S - - - O
+               SPACE X - - - -
+                   D - - - X -
+              DELETE - - - - O
+                 SEE - - - - X

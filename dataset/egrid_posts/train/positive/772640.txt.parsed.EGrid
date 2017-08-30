@@ -1,0 +1,15 @@
+             ANYBODY S - - -
+               STUFF X O - -
+                GRUB X X - -
+                MINT - S - -
+                HELP - X - -
+            SAFEMODE - X - -
+GRUB_DISABLE_LINUX_RECOVERY= - S - -
+   /ETC/DEFAULT/GRUB - S - -
+        UPDATE-GRUB2 - X - -
+                TEXT - X - -
+                FILE - O - -
+                ROOT - X - -
+              EDITOR - X - -
+                LINE - O - -
+                SUDO - X - -

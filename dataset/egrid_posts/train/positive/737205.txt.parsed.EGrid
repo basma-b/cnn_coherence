@@ -1,0 +1,17 @@
+          LIBSSL-DEV O O - - - - -
+            INTERNET X X - - - - -
+              ANYONE - X - - - - -
+          CONNECTION - O - - - X -
+                 DEB - O - - - - -
+                HTTP - X - - - - -
+//PACKAGES.UBUNTU.COM - S - - - - -
+                DEBS - X - - - - -
+                 USE - - O - - - -
+            PACKAGES - - O - - - -
+             SECTION - - X - - - -
+               THOSE - - O - - - -
+             PACKAGE - - X - - - -
+              SYSTEM - - - - S - -
+                DEPS - - - - X - -
+                WIRE - - - - - X -
+                MUCH - - - - - - X

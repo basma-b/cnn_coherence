@@ -1,0 +1,9 @@
+             COMMAND O - - - - -
+              REBOOT X - - - - -
+             CLUSTER O - - - - -
+              ADVICE - - X - - -
+               ROUTE - - - S - -
+             NETMASK - - - X - -
+              SCRIPT - - - O - -
+/ETC/NETWORK/IF-UP.D/ - - - X - -
+                THAT - - - - - O

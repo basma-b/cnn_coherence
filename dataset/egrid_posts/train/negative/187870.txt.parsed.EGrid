@@ -1,0 +1,13 @@
+                DATE - O -
+                 X11 - O -
+              DISTRO - X -
+                TYPE - X -
+                SUDO - X -
+             APT-GET - S -
+              UPDATE - S -
+XSERVER-XORG-CORE=1:1.0.2-0UBUNTU10.4 - O -
+             VERSION - X -
+              MIRROR - S -
+           DOWNGRADE - X -
+                THAT - - O
+                OOPS - - S

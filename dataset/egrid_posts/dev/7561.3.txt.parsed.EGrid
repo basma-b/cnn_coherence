@@ -1,0 +1,16 @@
+             DEFAULT X - - - -
+                TEXT X - - - -
+                MODE X - - - -
+                   X X - - - -
+               START X - - - -
+             OPTIONS - X X - -
+                NOFB - O - - -
+            NOSPLASH - - S - -
+            PLYMOUTH - - O - -
+            GRAPHICS - - O - -
+                TIME - - - - X
+               MUSIC - - - - X
+                LIST - - - - S
+               SHARE - - - - S
+              CLIENT - - - - X
+             MACHINE - - - - X

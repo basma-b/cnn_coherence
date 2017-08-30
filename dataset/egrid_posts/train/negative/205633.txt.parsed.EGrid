@@ -1,0 +1,18 @@
+               CLEAN S S - - - - -
+            THX-1138 O - - - - - -
+           PARTITION X - - - - - -
+               /HOME - O - - - - -
+               HTTPS - - - X - - -
+//WIKI.UBUNTU.COM/NETWORKMANAGER - - - X - - -
+         ACTION=SHOW - - - - X - -
+REDIRECT=NETWORKMANAGERHOWTO - - - - X - -
+             STARTUP - - - - X - -
+               GNOME - - - - - S -
+      NETWORKMANAGER - - - - - S -
+               SHARE - - - - - X -
+                AUTH - - - - - X -
+                  AP - - - - - X -
+                  .. - - - - - X -
+                  NM - - - - - S -
+            ANYTHING - - - - - - O
+            WIRELESS - - - - - - X

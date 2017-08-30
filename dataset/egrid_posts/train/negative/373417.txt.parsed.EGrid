@@ -1,0 +1,13 @@
+           GRUB.CONF X - - - -
+            MENU.LST - X - S -
+              UBUNTU - S - - -
+                MENU - O - - -
+                READ - - X - -
+              KERNEL - - - X -
+             UPGRADE - - - S -
+                  OS - - - X -
+              CUSTOM - - - X -
+             KERNELS - - - S -
+                HINT - - - O -
+                 DVD - - - O -
+                  AH - - - - X

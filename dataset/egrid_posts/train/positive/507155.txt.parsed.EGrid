@@ -1,0 +1,58 @@
+            INTREPID X - - - - - - - - X - - - - -
+           AUTOMOUNT S - - - - - - - - - - O - - -
+              DEVICE X - - - - - - - - - - - - - -
+               ERROR - X X - - - - - - - - - X - -
+             MESSAGE - X - X - - - - - - - - S - -
+ORG.FREEDESKTOP.HAL.DEVICE.UNKNOWNERROR - X - - - - - - - - - - - - -
+               REPLY - - O O - - - - - - - - - - -
+               CAUSE - - - S - - - - - - - - - - -
+         APPLICATION - - - S - - - - - - - - - - -
+                 BUS - - - X - - - - - - - - - - -
+            SECURITY - - - X - - - - - - - - - - -
+              POLICY - - - S - - - - - - - - - - -
+             TIMEOUT - - - S - - - - - - - - - - -
+             NETWORK - - - X - X X - - - - - - - -
+          CONNECTION - - - S - - - - - - - - - - -
+               BREAK - - - O - - - - - - - - - - -
+              8.04.1 - - - - X - - - - - - - - - -
+                8.10 - - - - X - - - - - - - - - -
+                 SEC - - - - - O - - S - - - - - -
+           OVERWRITE - - - - - O - - - - - - - - -
+             MANAGER - - - - - X X - - - - - - - -
+             DEFAULT - - - - - X - - - - - - - - -
+                FILE - - - - - X - - - - - - - - -
+           PROCEDURE - - - - - O - - - - - - - - -
+                DBUS - - - - - - X - - - - - - - -
+                 HAL - - - - - - X - - - - - - - -
+             PACKAGE - - - - - - O - - - - - - - -
+            ANYTHING - - - - - - - X - - - - - - S
+             UPGRADE - - - - - - - - S - - - - - -
+               IMAGE - - - - - - - - O - - - - - -
+                THAT - - - - - - - - - - X - X - -
+                  OK - - - - - - - - - - X - S - -
+                  'S - - - - - - - - - - S - - - -
+                BITE - - - - - - - - - - X - - - -
+                THIS - - - - - - - - - - X - O - -
+                WGET - - - - - - - - - - X - - - -
+                HTTP - - - - - - - - - - X - X - -
+                SUDO - - - - - - - - - - X - - - -
+                DPKG - - - - - - - - - - X - - - -
+                  -I - - - - - - - - - - X - - - -
+HAL_0.5.11-4UBUNTU4_I386.DEB - - - - - - - - - - S - - - -
+             COMMAND - - - - - - - - - - X - O - -
+DBUS_1.2.4-0UBUNTU1_I386.DEB - - - - - - - - - - X - - - -
+              REBOOT - - - - - - - - - - X - - - -
+             UTILITY - - - - - - - - - - - X - - -
+                DISK - - - - - - - - - - - - O - -
+                  PC - - - - - - - - - - - - X - -
+              MINUTE - - - - - - - - - - - - O - -
+              SECOND - - - - - - - - - - - - O - -
+                TAIL - - - - - - - - - - - - X - -
+             PROBLEM - - - - - - - - - - - - S - O
+                 BUG - - - - - - - - - - - - O - -
+//BUGS.LAUNCHPAD.NET/+FILEBUG - - - - - - - - - - - - X - -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+FILEBUG - - - - - - - - - - - - X - -
+               DMESG - - - - - - - - - - - - - X -
+          EVERYTHING - - - - - - - - - - - - - S -
+                HELP - - - - - - - - - - - - - - X
+             RELEASE - - - - - - - - - - - - - - X

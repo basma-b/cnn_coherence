@@ -1,0 +1,11 @@
+        DEPENDENCIES O O O - - - -
+             FEATURE - - X - - - -
+                HOLD - - O - - - -
+                 WAY - - X - - - -
+              SYSTEM - - - - O - -
+              MANUAL - - - - O - -
+                DPKG - - - - X - -
+                DEPS - - - - - O -
+                FARE - - - - - X -
+                LOOK - - - - - - O
+             COMMAND - - - - - - X

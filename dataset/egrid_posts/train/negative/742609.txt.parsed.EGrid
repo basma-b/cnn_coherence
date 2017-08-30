@@ -1,0 +1,17 @@
+                DATA S - - -
+                DISK X - - -
+          ENCRYPTION O - - -
+                HAND X - - -
+          FILESYSTEM X - - -
+                USER X - - -
+              ACCESS X - - -
+                RULE S - - -
+           PASSWORDS X - - -
+           MECHANISM X - - -
+                HTTP X - - S
+           TRUECRYPT S - - -
+                FILE - X O -
+                 ENC - O - -
+               DRIVE - - O -
+              VOLUME - - X -
+CONFIGURING_GDM_2.28 - - - O

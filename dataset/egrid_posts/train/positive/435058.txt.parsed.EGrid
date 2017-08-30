@@ -1,0 +1,20 @@
+              CHANGE X - - -
+/ETC/MODPROBE.D/ALSA-BASE X - - -
+                 WAY X - - -
+              EFFECT O - - -
+              REBOOT X - - -
+                ROOT - X - -
+               SHELL - O - -
+                SUDO - X - -
+                  -I - X - -
+/SYS/MODULE/SND_HDA_INTEL/PARAMETERS/MODEL - - - X
+                FILE - - - X
+             CONTENT - - - S
+              LENOVO - - - X
+                   < - - - X
+                NULL - - - X
+                   > - - - X
+              COUPLE - - - X
+               NULLS - - - X
+               -RSB- - - - X
+          PARAMETERS - - - S

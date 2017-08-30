@@ -1,0 +1,14 @@
+               OWNER X - - - - -
+                FILE X - - - - -
+                SUDO - X - - - -
+               CHOWN - S - - - -
+           FILEGROUP - O - - - -
+                  .. - - - O X -
+            COMPUTER - - - - O -
+             PACKAGE - - - - O -
+               FLASH - - - - X -
+               DRIVE - - - - X -
+        DEPENDANCIES - - - - O -
+          DIRECTIONS - - - - - O
+         COMMANDLINE - - - - - X
+               LEASE - - - - - O

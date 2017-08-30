@@ -1,0 +1,15 @@
+            /DEV/SR0 X - - -
+         /MEDIA/APT/ S - - -
+           APT-CDROM S - - -
+             COMMAND X - - -
+                LINE X - - -
+                ISNT X - - -
+                WORK O - - -
+            PROBLEMS O - - -
+                 NET X - - -
+             NETWORK X - - X
+             MANAGER X - - O
+           CONFIGURE X - - -
+/ETC/NETWORK/INTERFACES O - - -
+                DONT - - S -
+              HAVENT - - S -

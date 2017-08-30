@@ -1,0 +1,14 @@
+                 WAY - X - - - - - - -
+                DISK - O - - - - - - -
+                  CD - X - X - - - - -
+                FSCK - - X - - - - - -
+               FDISK - - - S - - - - -
+               BLOCK - - - X - - - - -
+              DEVICE - - - S - - - - -
+            /DEV/SDA - - - O S - - - -
+                ROOT - - - O - - - - -
+                 ALL - - - - X - - - -
+                  -H - - - - O - - - -
+              BOTTOM - - - - - X - - -
+              SEARCH - - - - - - - X -
+                TERM - - - - - - - S -

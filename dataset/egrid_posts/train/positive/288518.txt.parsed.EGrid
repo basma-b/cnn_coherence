@@ -1,0 +1,7 @@
+             COMMAND X - -
+               PURGE X - O
+             PACKAGE X X -
+              SERVER X - -
+                SUDO - X -
+             APT-GET - X -
+              REMOVE - - X

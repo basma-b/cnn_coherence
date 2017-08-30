@@ -1,0 +1,12 @@
+               THERE X - - - - - -
+                 WAY X O - - - - -
+                THIS O - - - - - -
+                FILE X - - - - - -
+                   > - X - - - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - S - - - - -
+     SERVER/FIREWALL - - X - - - -
+                TIME - - - X - - -
+              GOOGLE - - - - X - -
+NET.IPV4.CONF.DEFAULT.FORWARDING=1 - - - - O - -
+    /ETC/SYSCTL.CONF - - - - X - -
+               SOUND - - - - - - S

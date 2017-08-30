@@ -1,0 +1,24 @@
+               ISSUE O - - - -
+                LOAD X - - - -
+             COMMAND O - - - -
+               SHELL X - - - -
+               NOHUP X - - - -
+             LASTEST S - - - -
+            -UPDATES X - - - -
+                REPO - O - - -
+              ENABLE - O - - -
+       GUTSY-UPDATES - - X - -
+/ETC/APT/SOURCES.LIST - - O - -
+          REPOSITORY - - O - -
+           DIRECTION - - X - -
+                HTTP - - X X -
+//PASTEBIN.COM/M6AC2E7EA - - S - -
+              OUTPUT - - S - -
+              POLICY - - X - -
+             APT-GET - - - S -
+//PASTEBIN.COM/M3C468DF8 - - - S -
+             VERSION - - - S -
+            SECURITY - - - X -
+                SUDO - - - X -
+TOMBOY=0.8.0-1UBUNTU0.1 - - - O -
+                LINE - - - - X

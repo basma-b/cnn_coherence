@@ -1,0 +1,15 @@
+                HTTP X - - -
+//PASTE.UBUNTU-NL.ORG/35981/PLAIN/ X - - -
+                ROOT - X - -
+                  CD - X - -
+/HOME/THEUSER_YOU_WANT_TO_FIX - X - -
+                -ALH - X - -
+                USER - X - -
+               GROUP - S - -
+                  .. - O - -
+       /HOME/THEUSER - X - -
+          USER.GROUP - X - -
+               CHMOD - X - -
+             COMMAND - - X -
+                 MIX - - O -
+            UBIQUITY - - - S

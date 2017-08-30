@@ -1,0 +1,9 @@
+              CHANGE S - - -
+                FILE X - - -
+                SAME O - - -
+              REBOOT X - - -
+            IPTABLES - X - -
+                SUDO - - - X
+                TYPE - - - S
+                  -L - - - X
+              PASSWD - - - O

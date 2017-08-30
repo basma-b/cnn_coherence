@@ -1,0 +1,15 @@
+              CFDISK S - - - - - -
+           PARTITION O - - - - - -
+              FORMAT X - - - - - -
+               THERE X - - - - - -
+            ANYTHING X - - - - - -
+              SYSTEM X O - - - - -
+                TIME - - - X - - -
+              RESCUE - - - X - - -
+                 2TB - - - X - - -
+                DATA - - - X - - -
+               100MB - - - - O - -
+            DDRESCUE - - - - - - O
+       /DEV/HARDRIVE - - - - - - X
+/DEV/HARDDRIVE.PARTITION - - - - - - X
+                NAME - - - - - - X

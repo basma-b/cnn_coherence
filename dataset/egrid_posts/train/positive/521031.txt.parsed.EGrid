@@ -1,0 +1,10 @@
+        GRUB-INSTALL S - - -
+            QUESTION X - - -
+              CONFIG - X - -
+                FILE - O - -
+                 HDD - X - -
+              BACKUP - - O -
+                   S - - S -
+                HTTP - - O -
+//LINUX.DIE.NET/MAN/8/GRUB-INSTALL - - X -
+                 MAN - - - O

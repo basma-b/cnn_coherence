@@ -1,0 +1,26 @@
+                TIME S O - - - - - -
+            PROBLEMS O - - - - - - -
+               SETUP O - - - - - - -
+            NTP.CONF S - - - - - - -
+        POOL.NTP.ORG O - - - - - - -
+              SYSTEM X X - - - - - -
+             NTPDATE - - O - - - - -
+                  PS - - - X - - - -
+                  AX - - - X - - - -
+                GREP - - - X - X - -
+              RETURN - - - X - - - -
+                HTTP - - - - X O - -
+       /ETC/NTP.CONF - - - - X - - -
+                 NTP - - - - - X - -
+ /VAR/LOG/DAEMON.LOG - - - - - X - -
+           PEERSTATS - - - - - S - -
+              STATUS - - - - - X - -
+//WWW.PASTEBIN.ORG/24946 - - - - - X - -
+                PEER - - - - - X - -
+              SEARCH - - - - - - X -
+             PACKAGE - - - - - - X -
+             MANAGER - - - - - - X -
+              CHEESE - - - - - - - X
+                APPS - - - - - - - O
+         VIDEO/AUDIO - - - - - - - X
+              RECORD - - - - - - - X

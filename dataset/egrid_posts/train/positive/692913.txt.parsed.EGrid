@@ -1,0 +1,21 @@
+              KARMIC O - - - -
+              KERNEL X - - X -
+                BOOT X - - - -
+                LINE O - - - -
+                GRUB X - - - -
+ /BOOT/GRUB/MENU.LST O - - - -
+              CHANGE - X - - -
+                 USE - - X - -
+               GRUB2 - - S - -
+ /BOOT/GRUB/GRUB.CFG - - O - -
+                 LOT - - O - -
+                INFO - - X - -
+                PAGE - - X - -
+                YSIS - - - O -
+          PARAMETERS - - - X -
+   /ETC/DEFAULT/GRUB - - - O -
+               VALUE - - - O -
+GRUB_CMDLINE_LINUX_DEFAULT - - - X -
+                SUDO - - - X -
+         UPDATE-GRUB - - - O -
+              THANKS - - - - X

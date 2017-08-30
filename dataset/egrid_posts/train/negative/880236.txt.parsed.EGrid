@@ -1,0 +1,14 @@
+             SOMEONE S - - - -
+                USER X - - - -
+                 BOB S - - - -
+                LIST X - - - -
+               ERROR O - - - -
+          WRITE-LOCK X - - - -
+                LOCK O - - - -
+                FILE X X - - -
+/VAR/MAIL/.IMAP/INBOX/DOVECOT.INDEX.LOG X - - - -
+          DESCRIPTOR X - - - -
+                MEAN O - - - -
+                SUDO - - - - X
+        SHADOWCONFIG - - - - S
+                 ALL - - - - X

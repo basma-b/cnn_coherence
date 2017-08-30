@@ -1,0 +1,19 @@
+               AUDIO O - - O -
+              NVIDIA X - - - -
+                CARD X - - - -
+              UBUNTU - X - - -
+               SPDIF - - X - -
+           ALSAMIXER - - X - -
+                 YES - - - X -
+              KARMIC - - - S -
+               PULSE - - - X -
+             PROBLEM - - - O -
+               SOUND - - - O -
+                LINE - - - O -
+/ETC/PULSE/DEFAULT.PA - - - X -
+       DEVICE=HW:0,1 - - - S -
+                  -D - - - X -
+                 TRY - - - - X
+               THERE - - - - S
+          DEFAULT.PA - - - - X
+                 DIR - - - - X

@@ -1,0 +1,11 @@
+               11.10 X - - -
+             SESSION X - - -
+               LOGIN - X - -
+              SCREEN - X - -
+              SYSLOG - - S -
+             NOTHING - - X -
+                  .. - - X -
+         .XAUTHORITY - - X -
+                GRUB - - - O
+              UPDATE - - - X
+             MANAGER - - - S

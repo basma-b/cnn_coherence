@@ -1,0 +1,31 @@
+               ROUTE X - X - - - - - - - - -
+                HOST X - X - - - - - - - - -
+              TELNET O - - - - - - - - - - -
+                  =/ - S - - - - - - - - - -
+            LOOPBACK - O - - - S - - - - - -
+             MESSAGE - - - X - - - - - - - -
+               THING - - - - S - - - - - - -
+           127.0.0.1 - - - - - X - - - - - -
+             NETWORK - - - - - X - - - - - -
+               ISSUE - - - - - O - - - - - -
+              DISTRO - - - - - - X - - - - -
+             VERSION - - - - - - X - - - - -
+              SERVER - - - - - - - X - - - -
+                 X64 - - - - - - - O - - - -
+                 HRM - - - - - - - X - - - -
+     NETWORK-MANAGER - - - - - - - - O - - -
+              SCRIPT - - - - - - - - X - - -
+           IFUP/DOWN - - - - - - - - - S - -
+                KIND - - - - - - - - - O - -
+              EXPERT - - - - - - - - - X - -
+                HEHE - - - - - - - - - S - -
+             CONTENT - - - - - - - - - X - -
+/ETC/NETWORK/INTERFACES - - - - - - - - - X - -
+                AUTO - - - - - - - - - - X -
+                  LO - - - - - - - - - - X -
+               IFACE - - - - - - - - - - X -
+                LINE - - - - - - - - - - S -
+           SOMETHING - - - - - - - - - - O -
+                THIS - - - - - - - - - - X -
+                HTTP - - - - - - - - - - O -
+//WWW.PASTIE.ORG/703284 - - - - - - - - - - O -

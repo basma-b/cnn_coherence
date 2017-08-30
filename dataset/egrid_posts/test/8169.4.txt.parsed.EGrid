@@ -1,0 +1,13 @@
+                ETH0 S - - - -
+               SPEED X - - - -
+                THAT - O - - -
+            MII-TOOL - S - - -
+             SERVICE - - X - -
+                 UFW - - S - -
+             DEFAULT - - X - -
+             RULESET - - O O -
+           CONFIGURE - - X - -
+             CONFIGS - - X - -
+                SUDO - - - - S
+            IPTABLES - - - - O
+                  -F - - - - X

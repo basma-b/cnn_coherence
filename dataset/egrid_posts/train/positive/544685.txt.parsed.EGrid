@@ -1,0 +1,25 @@
+                SSHD S - - - S
+                BIND O - O - -
+             NETWORK X - - - -
+             DEVICES X - - - -
+            LOOPBACK X - - - -
+                THAT - X - - -
+/ETC/SSH/SSHD_CONFIG - - X - -
+                -NLT - - X - -
+                PORT - - X - -
+                 TCP - - X - -
+             0.0.0.0 - - X - -
+                   * - - S - -
+           SOMETHING - - - X -
+              MOMENT - - - - X
+                 USE - - - - X
+              TELNET - - - - X
+              NETCAT - - - - X
+              GENTOO - - - - X
+                 BOX - - - - X
+          CONNECTION - - - - O
+               PARAM - - - - X
+          FOREGROUND - - - - X
+            ANYTHING - - - - O
+            LOGFILES - - - - X
+               FIRST - - - - O

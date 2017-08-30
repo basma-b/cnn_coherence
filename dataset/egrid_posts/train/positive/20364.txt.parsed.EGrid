@@ -1,0 +1,17 @@
+                PART X - - - - - -
+               ENTRY X - - - - - -
+               FSTAB X - - - - - -
+           /DEV/SDA1 S - - - - - -
+              ACCESS O - - - - - -
+               USERS X - - - - - -
+                LINE O - - - O - -
+                AUTO - X - - - - -
+             DEFAULT - X X - - - -
+                 BRB - - S - - - -
+             OPTIONS - - X - - - -
+                LEAK - - - X - - -
+                 MDK - - - - X - -
+                VFAT - - - - - - X
+             UMASK=0 - - - - - - O
+ IOCHARSET=ISO8859-1 - - - - - - S
+              COURSE - - - - - - X

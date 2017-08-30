@@ -1,0 +1,15 @@
+             PACKAGE X - - - - -
+             DESKTOP X - - - - -
+              ROUTER X S - - - -
+                 NAT - X - - - -
+       CONFIGURATION - O - - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - X - - - -
+            IPTABLES - S - - - -
+                ETH0 - X - - - -
+                  -J - S - - - -
+               TABLE - X - - - -
+         POSTROUTING - O - - - -
+          MASQUERADE - X - - - -
+             NETWORK - - S - - -
+                ROOT - - - - - S
+                IDEA - - - - - O

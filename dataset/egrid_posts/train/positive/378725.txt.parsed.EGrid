@@ -1,0 +1,20 @@
+             PACKAGE O - - -
+              UPDATE - S - -
+      UPDATE-MANAGER - S - -
+            PASSWORD - O - -
+                TEXT - X - -
+              SYSTEM - X - -
+                   > - X - -
+               ADMIN - X - -
+                 NET - X - -
+                 MAN - - X -
+           LOCALHOST - - X -
+                FSCK - - X -
+         FILE-ROLLER - - X -
+           UNINSTALL - - S -
+               PARTY - - O -
+                 DEB - - X -
+                VBOX - - X -
+VIRTUALBOX-OSE-MODULES-2.6.24-19-GENERIC - - - X
+                SUDO - - - X
+             APT-GET - - - S

@@ -1,0 +1,26 @@
+                 USE - S - - - - - - -
+               WHILE - X - - - - - - -
+                  VM - - O - - - - - -
+             PRECISE - - X X - - - - -
+                TEST - - X - - - - - -
+  ADD-APT-REPOSITORY - - - S - - - - -
+             DEFAULT - - - - X - - - -
+           UTILITIES - - - - X - - - -
+              PACKGE - - - - X - - - -
+                SUDO - - - - - X X - X
+             APT-GET - - - - - S - - -
+PYTHON-SOFTWARE-PROPERTIES - - - - - O - - -
+                THAT - - - - - - X O -
+               SHELL - - - - - - O S -
+                FILE - - - - - - X - -
+                   > - - - - - - O - -
+                 FOO - - - - - - O - -
+                 BAR - - - - - - O - O
+                USER - - - - - - X - -
+                ROOT - - - - - - X S -
+              OUTPUT - - - - - - O - -
+                 RUN - - - - - - - S -
+          PERMISSION - - - - - - - O -
+                   | - - - - - - - - X
+                 TEE - - - - - - - - X
+                  .. - - - - - - - - O

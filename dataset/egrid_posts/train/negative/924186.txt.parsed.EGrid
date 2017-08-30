@@ -1,0 +1,7 @@
+           PARTITION O - - - - -
+               USERS S - - - - -
+                FILE O - - - - -
+           UMASK=000 - - - - X -
+                 USE - - - - - X
+            APTITUDE - - - - - X
+        DIST-UPGRADE - - - - - X

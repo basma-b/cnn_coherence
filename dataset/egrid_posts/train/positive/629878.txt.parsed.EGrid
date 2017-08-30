@@ -1,0 +1,15 @@
+             NETWORK X X - X
+             DEVICES S S - -
+          IP-ADDRESS O O - -
+             DEFAULT X X - -
+               ROUTE O O - -
+              SCRIPT - X - -
+              CONFIG - - O -
+/ETC/NETWORK/INTERFACES - - X -
+           INTERFACE - - S X
+                THAT - - - S
+         REQUIREMENT - - - O
+              DEVICE - - - X
+             ADDRESS - - - O
+GNOME-NETWORK-MANAGER - - - X
+                NAME - - - O

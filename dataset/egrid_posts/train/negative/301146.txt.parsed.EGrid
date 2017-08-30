@@ -1,0 +1,15 @@
+                 GUY X -
+             DEFAULT X -
+               ROUTE O -
+             COMMAND X -
+                LINE O -
+/ETC/NETWORK/INTERFACES X -
+              CONFIG S -
+                FILE X -
+             GATEWAY S -
+                   < S -
+                   > O -
+                 NIC X -
+               ORDER - O
+                PAST - X
+                DISC - X

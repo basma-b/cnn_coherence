@@ -1,0 +1,17 @@
+            COMPRESS X - - - -
+                ZLIB X - - - -
+                PERL X - - S -
+              MODULE S - - - -
+COMPRESS/RAW/ZLIB.PM O - - - -
+                 INC S - - - -
+      /USR/LIB/PERL5 O - - - -
+/USR/LOCAL/LIB/SITE_PERL X - - - -
+/USR/LOCAL/SHARE/PERL/5.8.7/COMPRESS/ZLIB.PM - X - - -
+                THAT - - O - -
+                LINE - - O - -
+         COMPILATION - - X - -
+               ABORT - - X - -
+                IDEA - - X - -
+             APT-GET - - - X -
+LIBCOMPRESS-ZLIB-PERL - - - O S
+             VERSION - - - - X

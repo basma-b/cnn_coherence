@@ -1,0 +1,11 @@
+           PARTITION X - - - -
+               FSTAB X - - - -
+                 ONE - X - - -
+             UNMOUNT - O - - -
+                BTDT - X - - -
+                   P - S - - -
+              ZOMBIE - - - O -
+              PARENT - - - X -
+             PROCESS - - - O -
+                INIT - - - - O
+                 PID - - - - X

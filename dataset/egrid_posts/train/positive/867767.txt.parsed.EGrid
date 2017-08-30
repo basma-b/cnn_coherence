@@ -1,0 +1,15 @@
+             USERADD S - S - - - - -
+            ANYTHING O - - - - - - -
+             ENTRIES X - - - - - - -
+         /ETC/PASSWD X - - - - - - -
+         /ETC/SHADOW X - - - - - - -
+                HOME X - X - - - - -
+                 DIR O - - - - - - -
+               GROUP O - - - - - - -
+                USER - - O - - - - -
+             ADDUSER - - S - - - - -
+           DIRECTORY - - O - - - - -
+                 ALL - - O - - - O -
+                 BAH - - - - X - - -
+                LINE - - - - - O - -
+                THAT - - - - - - S -

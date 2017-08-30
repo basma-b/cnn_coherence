@@ -1,0 +1,8 @@
+               START O - - - -
+              SYSTEM X - - - -
+           APACHECTL - S - - -
+             APACHE2 - - X - -
+           SOMETHING - - X - -
+  START|STOP|RESTART - - - O -
+             INSTALL - - - X -
+               THANK - - - - X

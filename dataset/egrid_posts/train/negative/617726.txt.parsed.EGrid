@@ -1,0 +1,18 @@
+              ANYONE X - - - -
+            DDCLIENT O - S - -
+                 RUN X - - - -
+              SYSTEM - O - - -
+                STOP - - O - -
+                SUDO - - X - -
+/ETC/INIT.D/DDCLIENT - - X - -
+                  -F - - X - -
+               START - - X - -
+              REBOOT - - X - -
+                  PS - - - X -
+               |GREP - - - S -
+              STATUS - - - X -
+                WORK - - - O -
+             MPLAYER - - - - O
+                IDEA - - - - S
+            SOFTWARE - - - - O
+              UBUNTU - - - - X

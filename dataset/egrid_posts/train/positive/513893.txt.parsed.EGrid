@@ -1,0 +1,14 @@
+              ANYONE X - - - - -
+         POSTROUTING O - - - X -
+         COMMANDLINE X - - - - -
+            SETTINGS - X - - - -
+             COMMAND - - X - - -
+                LINE - - X - - -
+                 NAT - - - X X -
+          INTERFACES - - - X - -
+           SOMETHING - - - - O -
+                  -I - - - - X -
+                  -J - - - - X -
+            IPTABLES - - - - - S
+                 MAN - - - - - X
+              FRIEND - - - - - O

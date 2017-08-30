@@ -1,0 +1,30 @@
+                  HI X - - - - - - - - -
+                 RTL - X - - - - - - - -
+                 NIC - O - - - - - - - -
+                TIME - - S - - - - - - -
+              DRIVER - - O X - - - - - -
+               R8169 - - X S - - X - - -
+                LOAD - - O X - - - - - -
+                  -R - - - S - - - - - -
+               R8168 - - - O - - - - - -
+                 RUN - - - - - X - - - -
+           BLACKLIST - - - - - S - - - -
+                SUDO - - - - - X - - - -
+                 TEE - - - - - X - - - -
+                  -A - - - - - X - - - -
+/ETC/MODPROBE.D/BLACKLIST.CONF - - - - - X - - - -
+                  TY - - - - - X - - X -
+                 OUT - - - - - - X - - -
+           CURIOSITY - - - - - - X - - -
+                LIST - - - - - - X - - -
+               LSMOD - - - - - - X - - -
+              KERNEL - - - - - - X - - -
+           DIRECTORY - - - - - - X - - -
+             KERNELS - - - - - - - X - -
+                   > - - - - - - - - S -
+             SOMEONE - - - - - - - - X -
+               HTTPS - - - - - - - - O -
+//COMMONS.WIKIMEDIA.ORG/WIKI/FILE - - - - - - - - X -
+                 USE - - - - - - - - S -
+             SYSTEMS - - - - - - - - X -
+                DHCP - - - - - - - - O -

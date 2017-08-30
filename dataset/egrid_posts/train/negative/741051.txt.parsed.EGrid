@@ -1,0 +1,15 @@
+               SSHFS S - - - - - -
+               FSTAB X - X - - - -
+         CREDENTIALS X - - - - - -
+                 KEY - O - - - S -
+                  PC - X - - - - -
+              SEARCH - O - - - - -
+                 SSH - X - - - - -
+           AUTOMOUNT - - X - - - -
+             OPENVPN - - - X - - -
+         WORKSTATION - - - X - - -
+               MOUNT - - - - X - -
+             ATTEMPT - - - - X - -
+                 DIR - - - - - X -
+                  .. - - - - - O -
+      AUTHENTICATION - - - - - O -

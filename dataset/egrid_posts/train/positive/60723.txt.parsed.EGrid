@@ -1,0 +1,14 @@
+        DIST-UPGRADE O - - - -
+               WARTY X - - - -
+               HOARY X - - - -
+                   X S - - - -
+              NVIDIA - S - - -
+          EVERYTHING - O - - -
+                SUDO - - X - X
+   NVIDIA-GLX-CONFIG - - S - -
+              WARTY- - - X - -
+                   > - - S - -
+                XORG - - X - -
+             APT-GET - - - - X
+             COMMAND - - - - O
+          NVIDIA-GLX - - - - X

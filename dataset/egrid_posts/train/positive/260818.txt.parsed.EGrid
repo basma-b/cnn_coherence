@@ -1,0 +1,9 @@
+         APPLICATION O O X -
+             COMMAND X X - -
+                LINE O O - -
+                 GUY X X - -
+                SUDO - - X -
+             APT-GET - - S -
+             PACKAGE - - X -
+                   > - - O -
+            SOUNDRAY - - - X

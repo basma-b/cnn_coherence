@@ -1,0 +1,14 @@
+               LINUX - S - - - - - -
+                SWAP - X - - O - X -
+           PARTITION - O - - - - - -
+                 ONE - - O - - - - -
+              MKSWAP - - - X - - - -
+      /DEV/SOMETHING - - - X - - - -
+              SWAPON - - - X - - - -
+      /DES/SOMETHING - - - X - - - -
+                THAT - - - - O - - -
+               ERROR - - - - - X - -
+             MESSAGE - - - - - X - -
+                FREE - - - - - - S -
+                 4GB - - - - - - O -
+                 USE - - - - - - X -

@@ -1,0 +1,17 @@
+                FSCK X - - - - -
+              REPAIR X - - - - -
+                BOOT X - - - - -
+               TOUCH - X - - - -
+          /FORCEFSCK - S - - - -
+            SHUTDOWN - S - - - -
+                  -R - X - - - -
+                BUTR - - - X - -
+            CHECKOUT - - - S - -
+               LINUX - - - - X -
+            HARDWARE - - - - S -
+                BIND - - - - X -
+             PROGRAM - - - - O -
+                LIRC - - - - - X
+              REMOTE - - - - - X
+               MYTTV - - - - - X
+            VIDEO/TV - - - - - O

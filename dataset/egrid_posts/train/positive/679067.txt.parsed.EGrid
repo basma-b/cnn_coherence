@@ -1,0 +1,18 @@
+              KERNEL X - - - X X - -
+                  ER - X - - - - - -
+                LYNX - X - - - - - -
+                HTTP - - X - - - - -
+//PACKAGES.UBUNTU.COM/SEARCH - - X - - - - -
+KEYWORDS=LINUX-IMAGE - - - X - - - -
+      SEARCHON=NAMES - - - X - - - -
+         SUITE=LUCID - - - X - - - -
+         SECTION=ALL - - - X - - - -
+              COURSE - - - - X - - -
+             VERSION - - - - O - - -
+             RELEASE - - - - X - - -
+              JAUNTY - - - - - X - -
+               HTTPS - - - - - - - X
+            CONFIG/S - - - - - - - O
+               START - - - - - - - X
+               POINT - - - - - - - X
+             BACKUPS - - - - - - - X

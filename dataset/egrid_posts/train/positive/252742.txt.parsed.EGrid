@@ -1,0 +1,18 @@
+             NETWORK X - - - - - -
+                 WPA X - - - - - -
+       NETWORK-ADMIN X X - - - - -
+                SSID - X - - - - -
+          PASSPHRASE - O - - - - -
+NETWORK-MANAGER-GNOME - O - - - - -
+            INTERNET - O - - - - -
+                 CDS - O - - - - X
+                 TO/ - S - - - - -
+           PARTITION - O - - - - -
+             APT-GET - - - S - S -
+        DOCUMENATION - - - O - - -
+             PACKAGE - - - O - - S
+            SOFTWARE - - - X - - -
+                 ALL - - - - - X -
+               REPOS - - - - - X S
+                  IM - - - - - - S
+                IDEA - - - - - - S

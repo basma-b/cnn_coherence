@@ -1,0 +1,16 @@
+                THIS X - - - -
+              REBOOT X - - - -
+                   E - X - - -
+                LOCK - X - - -
+/VAR/LIB/APT/LISTS/LOCK - S - - -
+            RESOURCE - X - - -
+                LIST - X - - -
+           DIRECTORY - X - - -
+                LSOF - S - - -
+                PROC - S - - -
+                FILE - O - - -
+           INTERFACE - - X X O
+                  -V - - X - S
+            TERMINAL - - - X -
+               LSPCI - - - - X
+              UBUNTU - - - - S

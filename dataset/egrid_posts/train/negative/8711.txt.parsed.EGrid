@@ -1,0 +1,16 @@
+                ACPI S - - O -
+            EMULATOR - O - - -
+                   X - X - - -
+             SOMEONE - - S - -
+            PLATFORM - - S S -
+             S4_BIOS - - X - -
+                  OS - - - O -
+               STATE - - - X -
+             MACHINE - - - O -
+               POWER - - - X -
+                MODE - - - X -
+             MODULES - - - - O
+           IEEE80211 - - - - X
+     IEEE80211_CRYPT - - - - X
+              RETURN - - - - S
+       /PROC/MODULES - - - - X

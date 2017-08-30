@@ -1,0 +1,25 @@
+              SCRIPT S - - S - - - - O - - - - -
+           VARIABLES O - - O - - - - - O - - - -
+              EXPORT - X - - - - - - - - - - - -
+          EVERYTHING - S - - - - - - - - - - - -
+                COPY - X - - - - - - - - - - - -
+                9.04 - S - - - - - - - - - - - -
+              THINGS - S - - - - - - - - - - - -
+               BREAK - X - - - - - - - - - - - -
+          PRODUCTION - X - - - - - - - - - - - -
+              SERVER - X - - - - - - - - - - - -
+              SCREEN - X S X - - - - - - - - - -
+              EFFECT - O - - - - - - - - - - - -
+              REASON - - O - - - - - - - - - - -
+             OUTSIDE - - - X - - - - - - - - - -
+         APPLICATION - - - S - - - - - S - - - -
+         ENVIRONMENT - - - O - - - - - X - - - -
+              PARENT - - - X - - - - - X - - - -
+             PROCESS - - - X - - - - X X - - - -
+                THAT - - - - - - - S - - - - - -
+              SOURCE - - - - - - - - X - X - - -
+ ./SETENVIRONMENT.SH - - - - - - - - - - S - - -
+              OUTPUT - - - - - - - - - - O - - -
+                  SH - - - - - - - - - - X - - -
+                 -EX - - - - - - - - - - X - - -
+/USR/SBIN/GRUB-MKCONFIG - - - - - - - - - - X - - -

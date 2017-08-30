@@ -1,0 +1,27 @@
+             DEFAULT X - - - - - X - - - - - - - -
+          PERMISSION O - - - - - - - - - - - - - -
+              DEVICE X - X - - X - - - - - - - - -
+/DEV/BUS/USB/XXX/XXX - O - - - - - - - - - - - - -
+              REBOOT - X - - - - - - - - - - - - -
+                SORT - - X - - - - - - - - - - - -
+                 HID - - - X - - - - - - - - - - -
+            KEYBOARD - - - X - - - - - - - - - - -
+               MOUSE - - - - X - - - - - - - - - -
+         TRANSMITTER - - - - - X - - - - - - - - -
+                RULE - - - - - X - - - - - - - - -
+               GROUP - - - - - O - - - - - - - - -
+                USER - - - - - S - - - - - - - - -
+                ROOT - - - - - - O - - - - - - - -
+             HIDRAW0 - - - - - - - O - - - - - - -
+                THIS - - - - - - - O - - - - - - -
+                FILE - - - - - - - X - - - - - - -
+             STARTUP - - - - - - - X - - - - - - -
+               THING - - - - - - - - - S - - - - -
+             SERVICE - - - - - - - - - X - - - - -
+               START - - - - - - - - - O - - - - -
+               CHMOD - - - - - - - - - - O - - - -
+         UBUNTUZILLA - - - - - - - - - - - - - S -
+             PROBLEM - - - - - - - - - - - - - O -
+            SOFTWARE - - - - - - - - - - - - - - X
+              SOURCE - - - - - - - - - - - - - - X
+             FIREFOX - - - - - - - - - - - - - - O

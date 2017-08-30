@@ -1,0 +1,25 @@
+                TIME O - - -
+          CONFERENCE X - - -
+                WORK S - - -
+               HOARY S - O -
+                  .. X - - -
+                 THE - - - O
+                 WAY - - - S
+                BIND - - - X
+            FUNCTION - - - X
+               MOUNT - - - X
+         LIMITATIONS - - - S
+            SYMLINKS - - - X
+            /VAR/WWW - - - O
+/ETC/APACHE2/SITES-AVAILABLE/000-DEFAULT - - - O
+            DOCUMENT - - - X
+                ROOT - - - O
+/VAR/WWW/DEFAULT/PUBLIC_HTML/ - - - X
+             CONTENT - - - O
+/VAR/WWW/VIRTUALHOSTNAME/PUBLIC_HTML/ - - - X
+                NAME - - - X
+                BASE - - - X
+               VHOST - - - X
+                 DEF - - - X
+                FILE - - - O
+/ETC/APACHE2/SITES-AVAILABLE/VIRTUALHOSTNAME - - - X

@@ -1,0 +1,25 @@
+           PARTITION O - - -
+         QEMU-CREATE X - - -
+              SYSTEM - S - -
+                QEMU - X - -
+           SOMETHING - - O -
+               STUFF - - X -
+             DEVICES - - O -
+              VOLUME - - O -
+                BOOT - - X -
+               THERE - - S -
+               THING - - O -
+                LUBI - - X -
+                   W - - X -
+                WUBI - - X -
+                HOST - - X -
+                HTTP - - O -
+//LUBI.SOURCEFORGE.NET/INDEX.HTML - - X -
+             ADDRESS - - - O
+                  IP - - - X
+              DOMAIN - - - X
+              TARGET - - - X
+            COMPUTER - - - S
+                SSHD - - - O
+             APT-GET - - - S
+      OPENSSH-SERVER - - - O

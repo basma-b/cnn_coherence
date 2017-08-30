@@ -1,0 +1,13 @@
+                TYPE X - - - -
+                BASH X - - - -
+                FILE O - - - -
+            INSTANCE X - - - -
+               CHILD X - - - -
+             PROCESS O - - - -
+                 ONE X X - - -
+                  .. - X - - -
+               LINUX - - S - -
+               DRIVE - - X - -
+               IMAGE - - - X -
+                 SAY - - - S -
+                  OK - - - - X

@@ -1,0 +1,33 @@
+               ERROR X - - X -
+                HTTP X - - - -
+//PASTE.UBUNTU.COM/1009247/ X - - - -
+LINUX-HEADERS-3.2.0-23-GENERIC-PAE X - - - -
+             DEPENDS X - - - -
+LINUX-HEADERS-3.2.0-23 O - O - -
+               VIDEO - X - - -
+             DRIVERS - X - - -
+             PACKAGE - - X X -
+        INSTALLATION - - X - -
+                  IM - - S - -
+                SAME - - O - -
+        DIST-UPGRADE - - S - -
+              SYSTEM - - O - -
+             RELEASE - - X - -
+                  OK - - X - -
+ LINUX-IMAGE-GENERIC - - - O -
+               CHAIN - - - O -
+                 END - - - X -
+                LIST - - - S -
+              UPDATE - - - X -
+        REPOSITORIES - - - S -
+              MIDDLE - - - X -
+                JULY - - - - X
+                PLAN - - - - X
+              ACCORD - - - - X
+               HTTPS - - - - O
+//WIKI.UBUNTU.COM/PRECISEPANGOLIN/RELEASESCHEDULE - - - - X
+                 USE - - - - X
+        INSTRUCTIONS - - - - X
+                WAIT - - - - X
+//HELP.UBUNTU.COM/COMMUNITY/PRECISEUPGRADES - - - - X
+UPGRADE_FROM_11.10_TO_12.04_LTS_AND_10.04_LTS_TO_12.04_LTS - - - - X

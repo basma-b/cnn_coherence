@@ -1,0 +1,13 @@
+             UPSTART S - - -
+        /ETC/INIT.D/ - - X -
+           SOMETHING - - - O
+                SUDO - - - X
+               MKDIR - - - X
+                /TMP - - - X
+               CHMOD - - - X
+           ROOT.ROOT - - - X
+                 TOP - - - X
+                HEAD - - - X
+            ANYTHING - - - O
+                   * - - - X
+                  .. - - - X

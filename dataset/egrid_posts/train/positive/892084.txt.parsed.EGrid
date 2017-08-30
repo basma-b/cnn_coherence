@@ -1,0 +1,15 @@
+            QUESTION X - X - - - -
+            VARIABLE X - - - - - -
+                BASH X - - - - - -
+              SCRIPT X - - - - - S
+                USER X - - - - - -
+             SESSION X - - - - - -
+             PROCESS S O - - - - -
+           VARIABLES - - - - O - -
+           ARGUMENTS - - - - X - -
+                FILE - - - - X - -
+                PIPE - - - - - X -
+         INDEPENDANT - - - - - - O
+           EACHOTHER - - - - - - X
+               VALUE - - - - - - S
+                 FOO - - - - - - X

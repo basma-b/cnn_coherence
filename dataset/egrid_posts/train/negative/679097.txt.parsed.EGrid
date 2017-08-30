@@ -1,0 +1,17 @@
+             ENTRIES X - - - - - -
+                GRUB X - - - - - -
+ /BOOT/GRUB/MENU.LST S - - - - - -
+              DOESNT - S - - - - -
+            MENU.LST - O - - - - -
+             COMMENT - - - - S - -
+                FILE - - - - X - -
+               TRISM - - - - O - -
+             ENVIRON - - - - - X -
+           VARIABLES - - - - - O -
+                TYPE - - - - - - S
+                BASH - - - - - - X
+                PATH - - - - - - O
+                THIS - - - - - - S
+                 WAY - - - - - - O
+               GEDIT - - - - - - X
+               OTHRS - - - - - - X

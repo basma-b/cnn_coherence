@@ -1,0 +1,14 @@
+               FSTAB X - - -
+               ENTRY X - - -
+                AUTO X - - -
+           UMASK=777 X - - -
+               IDEAS X - - -
+               WHATS X - - -
+               GUESS - S - -
+           PARTITION - X - O
+                 ONE - X - -
+                EXT3 - - X -
+               POINT - - - O
+             DECLARE - - - X
+              UBUNTU - - - X
+                CALL - - - X

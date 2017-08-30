@@ -1,0 +1,8 @@
+            MENU.LST O -
+              KERNEL X -
+                LINE X -
+   /ETC/DEFAULT/GRUB X -
+               START O -
+GRUB_CMDLINE_LINUX_DEFAULT= X -
+              UBUNTU - X
+                GRUB - X

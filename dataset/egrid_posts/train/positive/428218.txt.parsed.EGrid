@@ -1,0 +1,14 @@
+            QUESTION X - -
+            CRONJOBS X - -
+              SYSTEM - - X
+                  .. - - O
+                USER - - S
+                 RUN - - X
+                CRON - - O
+                 MIN - - S
+              SCRIPT - - S
+               QUERY - - X
+                FILE - - S
+                ROOT - - S
+               START - - O
+             CENTOS5 - - X

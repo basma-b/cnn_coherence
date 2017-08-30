@@ -1,0 +1,14 @@
+              OUTPUT O - - - -
+                FILE X - - - -
+                  LS - X - - -
+                   > - S - - -
+      THIS-IS-STDOUT - S - - -
+      THIS-IS-STDERR - O - - -
+                THIS - X - - -
+                 FOO - S - - -
+             NOTHING - S - - -
+           DIRECTORY - X - - -
+                TIME - - - - X
+            SECURITY - - - - X
+             FEATURE - - - - S
+               SWORD - - - - O

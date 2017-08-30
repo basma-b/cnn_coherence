@@ -1,0 +1,32 @@
+             ANYBODY X - - - - - - - - - - -
+               SOUND X O - - - - - - - - - -
+            QUESTION - O - - - - - - - - - -
+                ALSA - O - - - - - - - - - -
+           GHOSTTOWN - X - - - - - - - - - -
+                CARD - - X - - - - - - - - -
+           FULLMON-T - - X - - - - - - - - -
+              82801H - - - X - - - - - - - -
+                 ICH - - - X - - - - - - - -
+              FAMILY - - - X - - - - - - - -
+                  HD - - - X - - - - - - - -
+               AUDIO - - - X - - - - - - - -
+          CONTROLLER - - - S - - - - - - - -
+               INTEL - - - O X - - - - - - -
+                HTTP - - - - - X - - - - - -
+//PASTEBIN.CA/822523 - - - - - S - - - - - -
+/ETC/MODPROBE.D/ALSA-BASE - - - - - O - - - - - -
+                LINE - - - - - O - - - O - -
+              BOTTOM - - - - - X - - - - - -
+             OPTIONS - - - - - X - - - - - -
+       SND-HDA-INTEL - - - - - X - - - - - -
+        MODEL=3STACK - - - - - S - - - - - -
+        MODEL=LENOVO - - - - - X - - - - - -
+              LENOVO - - - - - - X X - - - -
+               T3000 - - - - - - - X - - - -
+                   ' - - - - - - - - X - - -
+                 TRY - - - - - - - - - X - -
+                BACK - - - - - - - - - O - -
+                 BRB - - - - - - - - - X - -
+                  OK - - - - - - - - - - S -
+              THREAD - - - - - - - - - - - S
+            MAVERICK - - - - - - - - - - - X

@@ -1,0 +1,16 @@
+             COMMAND O - -
+               MOUNT O - -
+                  -O X - -
+            NLS=UTF8 O - -
+           /DEV/SDB2 S - -
+                SDB2 S - -
+         PERMISSIONS S - X
+                ROOT X - -
+                  .. X - -
+             SOMEONE - S -
+            GID=1000 - O -
+             OPTIONS - X -
+             CONCERN - S -
+               FMASK - O -
+               DMASK - X -
+                USER - - X

@@ -1,0 +1,15 @@
+             SERVICE X - -
+                BOOT X X -
+            SHUTDOWN X - -
+                 ETC X - -
+               START - S -
+                THIS - S -
+              ETC… - O -
+              SCRIPT - O -
+           /ETC/INIT - X -
+              INIT.D - S -
+           XORG.CONF - - S
+              DRIVER - - O
+                   X - - X
+              SERVER - - O
+            ANYTHING - - O

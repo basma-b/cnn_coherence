@@ -1,0 +1,22 @@
+         IFUP/IFDOWN S - - - - -
+              SCRIPT O O X - - -
+/ETC/NETWORK/IF-DOWN.D/ X - - - - -
+            IF-UP.D/ X - - - - -
+                DIRS X - - - - -
+                DOCS - X - - - -
+         FIRESTARTER - - - X - X
+                  .. - - - X - -
+                 HOP - - - O - -
+                 ONE - - - S - -
+                   | - - - S - -
+               POINT - - - S - -
+            IPTABLES - - - O - -
+                 USE - - - X - -
+                THIS - - - - - X
+                RULE - - - - - S
+            INTERNET - - - - - X
+          CONNECTION - - - - - X
+               SHARE - - - - - X
+                 GUI - - - - - O
+               ISSUE - - - - - S
+                PART - - - - - X

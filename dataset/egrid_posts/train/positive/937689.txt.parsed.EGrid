@@ -1,0 +1,26 @@
+             WINDOWS X - - -
+               SHARE O - - -
+                TYPE S - - -
+              OPTION S - - -
+          SUPERBLOCK S - - -
+//192.168.0.1/SHAREDDOCS X - - -
+            CODEPAGE O - - -
+               ERROR O - - -
+               DMESG X - - -
+               THERE S - - -
+                CIFS X - - -
+                 VFS S - - -
+          CIFS_MOUNT X - - -
+                CODE S - - -
+                 -22 O - - -
+             COMMAND X - - -
+                LINE O - - -
+                 USE O - - -
+      SMB_FILL_SUPER X - - -
+                DATA X - - -
+            ARGUMENT O - - -
+                 ONE X - - -
+                DANG - X - -
+             PROBLEM - - S -
+               SMBFS - - X -
+                  .. - - O -

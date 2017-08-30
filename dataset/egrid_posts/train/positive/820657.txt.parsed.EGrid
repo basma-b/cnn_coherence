@@ -1,0 +1,11 @@
+                 APT X - - -
+  INSTALL-RECOMMENDS X - - -
+                 ONE X - - -
+                FILE - O - -
+             PROGRAM - X - -
+                FLAG - S - -
+            APTITUDE - X - -
+  WITHOUT-RECOMMENDS - - X -
+             DEFAULT - - - S
+           RECOMMEND - - - O
+     WITH-RECOMMENDS - - - S

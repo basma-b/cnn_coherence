@@ -1,0 +1,9 @@
+                SUDO X - X
+    DPKG-RECONFIGURE X - -
+        XSERVER-XORG O O -
+            SHUTDOWN X - -
+              EFFECT O - -
+                   X - O -
+             EXAMPLE - - X
+     /ETC/INIT.D/GDM - - S
+                 ETC - - O

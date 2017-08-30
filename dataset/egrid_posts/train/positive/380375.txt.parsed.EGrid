@@ -1,0 +1,16 @@
+          /ETC/FSTAB X - - - - - - - - - - -
+               FSTAB - S - - - - - X - - - -
+             OPTIONS - O - - - - - - - - - -
+               DRIVE - X - - - - - - - - - -
+       CIRCUMSTANCES - - X - - - - - - - - -
+                BOOT - - X - - - - - - - - -
+                PART - - O X - - - - - - - -
+                SWAP - - - X S - - S - - - -
+           PARTITION - - - O - - - - - - - -
+               LINUX - - - S - - - - - - - -
+              UBUNTU - - - - S - - - - - - -
+                 RAM - - - - S - - O - - - -
+           SOMETHING - - - - - - X - - - - -
+               ENTRY - - - - - - - O - - - -
+               /DEV/ - - - - - - - X - - - -
+              DEVICE - - - - - - - - - X - -

@@ -1,0 +1,18 @@
+         DESTINATION X - - -
+              MIRROR X - - -
+                PORT X S - -
+                LINE S - - -
+              SWITCH O - - -
+                ETH1 O - - -
+                LOAD O - - -
+                LIST X - - -
+             DEVICES X - - -
+              BRIDGE O - - -
+           WIRESHARK - S - -
+            FUNCTION - O - -
+           INTERFACE - X - -
+                ETH0 - S - -
+             TRAFFIC - X X -
+                 I.E - X - -
+               HTTPS - - X -
+//HELP.UBUNTU.COM/COMMUNITY/NTOP - - X -

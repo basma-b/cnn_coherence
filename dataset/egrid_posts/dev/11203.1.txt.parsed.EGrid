@@ -1,0 +1,11 @@
+               BLOCK O - - -
+                PORT S - - -
+               OUTGO X - - -
+           INCOMMING X - - -
+             DISABLE O - - -
+            FIREWALL - - X -
+              SERVER - - X -
+             NETWORK - - X -
+              ROUTER - - - X
+              LAPTOP - - - O
+              SYSTEM - - - S

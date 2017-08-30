@@ -1,0 +1,15 @@
+               BLOCK X X O -
+                SIZE O - O -
+          FILESYSTEM X - S -
+                FILE S S S -
+                EACH - O - -
+                  FS - X - -
+                COPY - - S -
+                DISK - - X -
+                RAID - - X -
+               SETUP - - X -
+              DEVICE - - X -
+               SPACE - - X -
+          INCREMENTS - - X -
+           SOMETHING - - - S
+               RIGHT - - - O

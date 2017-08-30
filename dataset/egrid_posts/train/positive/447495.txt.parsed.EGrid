@@ -1,0 +1,8 @@
+             COMMAND X - - -
+           DIRECTORY O - - -
+                FSCK - S - -
+      /OLD/DIRECTORY - X - -
+      /NEW/DIRECTORY - S - -
+              PIDGIN - S - -
+                  -D - O - -
+            TERMINAL - X - -

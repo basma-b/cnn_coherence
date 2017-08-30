@@ -1,0 +1,10 @@
+                 HDA X X X X - -
+                  CD X X X X - -
+            /DEV/HDA - - - - O -
+              DRIVER - - - - O -
+           PARTITION - - - - O -
+             EXAMPLE - - - - X X
+               FSTAB - - - - - O
+                BOOT - - - - - X
+              UBUNTU - - - - - X
+               HOWTO - - - - - S

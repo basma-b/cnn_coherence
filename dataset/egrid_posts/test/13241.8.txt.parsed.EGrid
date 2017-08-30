@@ -1,0 +1,21 @@
+                SUDO S - S - -
+                BIND O - S - -
+/LIB/INIT/RW/RESOLVCONF/RESOLV.CONFIG X - - - -
+/MNT/ETC/RESOLV.CONF S - S - -
+               POINT X - X - -
+                LINK O - O - O
+                HTTP X - - - -
+        POSTCOUNT=12 - X - - -
+                CANT - X - - -
+              CHROOT - X - - -
+         RESOLV.CONF - O - - -
+              MIRROR - O - - -
+             NOWHERE - - X - -
+    /ETC/RESOLV.CONF - - O - -
+                   D - - X - -
+                   > - - S - -
+             COMMAND - - - - O
+            FUNCTION - - - - O
+                PLAY - - - - X
+                  .. - - - - X
+              MOMENT - - - - X

@@ -1,0 +1,27 @@
+                 XEN - X - - - - - - -
+                   | - S - - - - - - -
+                THIS - S - - - - - - -
+               THING - O - - - - - - -
+            LIBC-XEN - X - - - - - - -
+          DEPENDENCY - O - - - - - - -
+      XEN-HYPERVISOR - X - - - - - - -
+                THAT - - S - - - - - -
+           SOMETHING - - O - - - - - -
+             LIBRARY - - X - - - - - -
+                LOAD - - X - - - - - -
+                PATH - - X - - - - - -
+           LIBC6-XEN - - S - - - - - -
+               THERE - - - S - - - - -
+                FILE - - - O - - - - -
+              SYSTEM - - - X - - - - -
+                 ONE - - - - O X - - -
+           /BIN/BASH - - - - - S - - -
+                HINT - - - - - X - - -
+/LIB/I386-LINUX-GNU/TLS/I686/NOSEGNEG/LIBC.SO.6 - - - - - - O - -
+              KERNEL - - - - - - O - -
+             COMMAND - - - - - - O - -
+                SUDO - - - - - - - X -
+            LDCONFIG - - - - - - - O -
+                GEEK - - - - - - - - X
+         GRANDMOTHER - - - - - - - - O
+               LINUX - - - - - - - - O

@@ -1,0 +1,13 @@
+             ATTEMPT S - - - - - - -
+              KERNEL O - - - - - - -
+                BOOT O - - - - - - -
+              LIVECD X - - - - - - -
+             PACKAGE - X - - - O - -
+                ROOT - X - - - - - -
+           PARTITION - X - - - - - -
+                HERE - X - - - - - -
+                  CD - - - S - - - -
+              OPTION - - - O - - - -
+               BREAK - - - O - X - -
+           XORG.CONF - - - - - - - O
+               START - - - - - - - X

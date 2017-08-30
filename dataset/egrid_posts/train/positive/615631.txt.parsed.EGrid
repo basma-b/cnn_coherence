@@ -1,0 +1,8 @@
+               CHMOD O X -
+         PERMISSIONS O S -
+                USER - X -
+               GROUP - S -
+              FOLDER - O -
+                NAME - X -
+                FILE - O -
+              THINGS - O -

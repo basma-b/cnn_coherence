@@ -1,0 +1,12 @@
+                ROUT S - - -
+             TRAFFIC O - - -
+                 VPN X - - -
+               ROUTE X S - -
+                  IP X - - -
+                   < - X - -
+                   > - X - -
+              DEVICE - X - -
+              IPSEC0 - O - -
+                SUDO - - - O
+               FRONT - - - X
+               TRICK - - - O

@@ -1,0 +1,23 @@
+             PACKETS S - - -
+            SEQUENCE O - - -
+FFFFFFFF54536F7572636520456E67696E6520517565727900 X - - -
+               INPUT - X - -
+                  -P - O - -
+              STRING - X - -
+                ALGO - X - -
+                  BM - X - -
+             TSOURCE - X - -
+              ENGINE - X - -
+               QUERY - X - -
+                 LOG - X - -
+               THERE - S - -
+             NOTHING - O - -
+                  .. - X - -
+       NORMALISATION - S - -
+               SOUND - - S -
+                 IDS - - O -
+                   X - - - X
+            SESSIONS - - - O
+             DISPLAY - - - X
+           SOMETHING - - - O
+              STARTX - - - X

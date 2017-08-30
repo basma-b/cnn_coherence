@@ -1,0 +1,22 @@
+                 VGA X - -
+          CONTROLLER X - -
+                 ATI X - X
+        TECHNOLOGIES X - -
+                 INC X - -
+              RADEON X - -
+                X300 X - -
+                PCIE X - -
+                9.04 X - -
+             FIREFOX S - -
+             WINDOWS S - -
+            SOLUTION - O -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/XSERVER-XORG-VIDEO-ATI/+BUG/363238/COMMENTS/8 - S -
+             OPTIONS - O -
+              DEVICE - X -
+             SECTION - X -
+           XORG.CONF - X -
+                CARD - - O
+                 USE - - X
+                8.10 - - X
+             SUPPORT - - O
+             VERSION - - X

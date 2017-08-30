@@ -1,0 +1,11 @@
+            QUESTION X - - - -
+             PROGRAM - X - - -
+                SUDO - X - - -
+               PRIVS - O - - -
+              SYSTEM - X - - -
+                FILE - O O - -
+              CONFIG - - X - -
+                ROOT - - X - -
+              GKSUDO - - X - -
+       /PATH/TO/FILE - - O - -
+                 MAN - - - - O

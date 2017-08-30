@@ -1,0 +1,21 @@
+             SOMEONE X - - -
+               GUIDE X - - -
+               LINUX X - - -
+              KERNEL O - S -
+﻿CONFIG_SECURITY_FILE_CAPABILITIES X O - -
+              DISTRO - X - -
+               HERON - X - -
+              SETCAP - X X -
+             COMMAND - O - -
+               PATCH - X - -
+                TIME - - O -
+             PROGRAM - - O -
+          PERMISSION - - X -
+            SOCK_RAW - - O -
+      CAP_NET_RAW=EP - - X -
+    /PATH/TO/THE/APP - - X -
+             ABILITY - - O -
+             SOCKETS - - S -
+            SECURITY - - X -
+                 SET - - O -
+           DEVELOPER - - - O

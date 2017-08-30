@@ -1,0 +1,15 @@
+         PERMISSIONS S S - - -
+                HOME X X - - -
+              FOLDER X - - - -
+                  .. X - - - -
+             MESSAGE - O - - -
+                 DIR - X - - -
+             DEFAULT - X - - -
+           SOMETHING - - - - O
+                COPY - - - - X
+                FILE - - - - X
+               THERE - - - - X
+                ROOT - - - - X
+                USER - - - - X
+                 ETC - - - - X
+             PROGRAM - - - - X

@@ -1,0 +1,25 @@
+              ANYONE S - - - - - - - -
+           SOMETHING O - - - - - - - -
+             COMMAND - O - - - - - - -
+            MODPROBE - X - - - - - - -
+/ETC/MODPROBE.D/BLACKLIST - - S - - - - - -
+                  .. - - - - O - X - -
+             BCM43XX - - - - O - O - -
+            WIRELESS - - - - O - - - -
+             ADAPTER - - - - X - - - -
+             NETWORK - - - - X - - - -
+            SETTINGS - - - - X - - - -
+               SORTA - - - - O - - - -
+              MODULE - - - - - S - O -
+           BLACKLIST - - - - - - X X -
+             SESSION - - - - - - X - -
+                BOOT - - - - - - X - -
+                THIS - - - - - - - O -
+               THATS - - - - - - - S -
+                SUDO - - - - - - - X -
+                 TEE - - - - - - - X -
+        /ETC/MODULES - - - - - - - S -
+                BLAH - - - - - - - O -
+                NAME - - - - - - - X -
+                FILE - - - - - - - X -
+              KERNEL - - - - - - - X -

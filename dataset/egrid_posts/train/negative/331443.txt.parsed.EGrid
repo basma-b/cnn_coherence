@@ -1,0 +1,14 @@
+                SWAP S S - - X -
+                KIND O - - - - -
+               MOUNT X - - - - -
+                BOOT - X - - - -
+           PARTITION - O S - X -
+             PARTION - - X S - -
+                   > - - S - - -
+                HOME - - X - - -
+                ROOT - - - X - -
+                   / - - - - X -
+                EXT3 - - - - X -
+               POINT - - - - X -
+                18GB - - - - O -
+               DRIVE - - - - - O

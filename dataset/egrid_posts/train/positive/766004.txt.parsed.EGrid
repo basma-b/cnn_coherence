@@ -1,0 +1,22 @@
+             DEGREES X - - - -
+              UBUNTU X - - - -
+            MENCODER - X - - -
+           ROTATE=XX - S - - -
+             OPTIONS - - - O -
+                FILE - - - S -
+                STEP - - - X -
+            ROTATE=1 - - - X -
+                COPY - - - S X
+          OUTPUT.AVI - - - O -
+                HELP - - - O -
+             COMMAND - - - O -
+              VIDEOS - - - S -
+             DESKTOP - - - X -
+                LAVC - - - - X
+                -OAC - - - - X
+~/DESKTOP/OUTPUT.AVI - - - - X
+              CHANGE - - - - S
+                 YES - - - - O
+               1,2,3 - - - - X
+                   > - - - - X
+           CLOCKWISE - - - - X

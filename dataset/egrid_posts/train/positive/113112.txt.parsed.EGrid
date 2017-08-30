@@ -1,0 +1,27 @@
+             LIBGPOD O - - - - - - -
+               ERROR O - - - - - - -
+          PKG-CONFIG S - O - - - - -
+           CONFIGURE O - - - - - - -
+             PACKAGE X - - - - - - -
+        REQUIREMENTS O - - - - - - -
+         GOBJECT-2.0 X - - - - - - -
+         ENVIRONMENT - X X - - - - -
+            VARIABLE - O - - - - - -
+            SOFTWARE - O - - - - - -
+              PREFIX - X - - - - - -
+      LIBGPOD_CFLAGS - - X - - - - -
+        LIBGPOD_LIBS - - X - - - - -
+           VARIABLES - - O - - - - -
+                NEED - - O - - - - -
+                 MAN - - - X - - - -
+                PAGE - - - O - - - -
+              DETAIL - - - X - - - -
+                   * - - - - X - - -
+                HERE - - - - X - - -
+                   > - - - - - O - -
+              SOURCE - - - - - X - -
+                LINE - - - - - O - X
+/ETC/APT/SOURCES.LIST - - - - - - - X
+                SUDO - - - - - - - X
+                FILE - - - - - - - O
+              EDITOR - - - - - - - X

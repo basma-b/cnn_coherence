@@ -1,0 +1,12 @@
+                BOOT X - -
+                QEMU X X -
+           PARTITION X X -
+              FORMAT X - -
+                FILE X - -
+                 RUN X - -
+              SYSTEM X O -
+              KERNEL - O -
+                DISK - X -
+               IMAGE - O -
+               ISSUE - - X
+                USER - - X

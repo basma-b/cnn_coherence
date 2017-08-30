@@ -1,0 +1,17 @@
+                 ANY S - - - - -
+              OWNERS O - - - - -
+               12.04 - O - - - -
+               POWER - X - X X -
+             ADAPTER - O S - - -
+/PROC/ACPI/AC_ADAPTER/STATE - - S - - -
+              GOOGLE - - - S - -
+               ISSUE - - - X O -
+            SOLUTION - - - X - -
+               CYCLE - - - X - -
+              CHARGE - - - - S -
+            SOFTWARE - - - - X -
+            SHUTDOWN - - - - - X
+              SCRIPT - - - - - O
+            VARIABLE - - - - - S
+              BACKUP - - - - - S
+                IDEA - - - - - O

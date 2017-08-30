@@ -1,0 +1,48 @@
+                THAT X - - S - - - - X - - S -
+                   $ - X - - - - - - - - - - -
+                INFO - S - - - - - - - - - - -
+              JUSTON - X - - - - X - - - - - -
+              NIXBOX - X - - - - X - - - - - -
+             APACHE2 - S X - - - - - - - - - -
+              APACHE - S - - - - - - - - - - -
+                PATH - X - - - - - - - - - - -
+                   * - O - - - - - - - - - - -
+              POLICY - X - - - - - - - - - - -
+//PASTEBIN.COM/619204 - - X - - - - - - - - - -
+                HTTP - - - X X - - X - - - - -
+                FILE - - - X - - - - - - - - -
+              INSTAL - - - O - - - - - - - - -
+             PACKAGE - - - O X - - - - - - - -
+                LOOK - - - X - - - - - - - - -
+             NOTHING - - - X - - - - - - - - -
+                TIME - - - - O - - - - - - - -
+                 ONE - - - - O - - - - - - - -
+                LIST - - - - X - - - - - - - -
+        /ETC/APACHE2 - - - - X - - - - - - - -
+             APT-GET - - - - S - - - - - - - -
+  APACHE2-MPM-WORKER - - - - O - - - - - - - -
+                SUDO - - - - - - X - - - - - -
+ /ETC/INIT.D/APACHE2 - - - - - - S - - - - - -
+  /ETC/INI.D/APACHE2 - - - - - - S - - - - - -
+                LINE - - - - - - X - - - - - -
+                BASH - - - - - - O - - - - - -
+            ANYTHING - - - - - - O - - - - - O
+                  SH - - - - - - X - - - - - -
+                 -XV - - - - - - X - - - - - -
+                HECK - - - - - - S - - - - - -
+              SCRIPT - - - - - - - O - S - - -
+                DONT - - - - - - - S - - - - -
+//PASTEBIN.COM/619244 - - - - - - - S - - - - -
+                SITE - - - - - - - O - - - - -
+          PORTS.CONF - - - - - - - - S - - - -
+               DUNNO - - - - - - - - - S - - -
+/ETC/DEFAULT/APACHE2 - - - - - - - - - O - - -
+            NO_START - - - - - - - - - O - - -
+              ACTION - - - - - - - - - - S - -
+                IFUP - - - - - - - - - - X - S
+              REASON - - - - - - - - - - X - -
+               ERROR - - - - - - - - - - - X O
+             MESSAGE - - - - - - - - - - - X -
+                MEAN - - - - - - - - - - - O -
+               THERE - - - - - - - - - - - - S
+/ETC/NETWORK/INTERFACES - - - - - - - - - - - - X

@@ -1,0 +1,12 @@
+               11.10 X - -
+                USER X O -
+           VBOXUSERS X S S
+               GROUP X X -
+                HOST - O -
+               GUEST - X -
+             MACHINE - X -
+               LINUX - X -
+            VBOXUSER - X -
+              ACCESS - O -
+               DRIVE - X -
+                 CLI - - X

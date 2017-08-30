@@ -1,0 +1,21 @@
+               DRIVE X - - - - - -
+                SLOW O - - - - - -
+              ENABLE - O - - - - -
+                READ - X - - - - -
+              TIMING - X - - - - -
+              BUFFER - X - - - - -
+                DISK - X - - - - -
+                  MB - S - - - - -
+               THATS - X - - - - -
+         MULTISECTOR - X - - - - -
+                  DO - - - X - X -
+                SUDO - - - S - S -
+            /DEV/HDA - - - O - X -
+           MULTCOUNT - - - - S - -
+                LINE - - - - - X -
+              SECTOR - - - - - X -
+            TRANSFER - - - - - X -
+                 MAX - - - - - X -
+                   N - - - - - X -
+             CURRENT - - - - - X -
+RXVT-UNICODE-256COLOR - - - - - - X

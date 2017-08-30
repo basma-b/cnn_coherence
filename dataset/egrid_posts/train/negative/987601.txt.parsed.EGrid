@@ -1,0 +1,12 @@
+               FSTAB X - - -
+               ENTRY X - - -
+                AUTO X - - -
+           UMASK=777 X - - -
+               IDEAS X - - -
+               WHATS X - - -
+               GUESS - S - -
+           PARTITION - X - -
+                 ONE - X - -
+                TIME - - - X
+                 ATI - - - S
+              NVIDIA - - - X

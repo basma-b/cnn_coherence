@@ -1,0 +1,15 @@
+                HTTP S - - - -
+                 LOG O - - X -
+             RESTART X - - - -
+                TIME - X X - -
+                JUMP - X - - -
+                LINE - X - - -
+               -RSB- - O - - -
+            RELATIVE - - S - -
+              SECOND - - - S -
+               KLOGD - - - S -
+                DATA - - - O -
+              KERNEL - - - X -
+          RINGBUFFER - - - X -
+           USERSPACE - - - X -
+                THAT - - - - O

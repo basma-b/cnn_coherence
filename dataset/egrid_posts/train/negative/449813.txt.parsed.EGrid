@@ -1,0 +1,15 @@
+            POSSIBLE - S - -
+              VISUDO - X - -
+             MY-USER - X - -
+                   > - S - -
+             APT-GET - O - -
+                SUDO - X - -
+                 W/O - X - -
+              PASSWD - X - -
+          EVERYTHING - X - -
+              SEARCH - S - -
+             SUDOERS - X - -
+               USERS - X - -
+               LIGHT - O - -
+              SYSTEM - - - O
+               FSTAB - - - X

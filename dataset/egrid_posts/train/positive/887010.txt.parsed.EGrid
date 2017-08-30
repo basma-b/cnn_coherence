@@ -1,0 +1,9 @@
+/ETC/DHCP3-SERVER/DHCPD.CONF S S - - - -
+                  .. O - - - - -
+              APACHE X - - - - -
+                CONF X - - - - -
+                DHCP X - - - - -
+/ETC/APACHE2.APACHE2.CONF - X - - - -
+                 MIX - - X - - -
+FILE/ETC/APACHE2/APACHE2.CONF - - - O - -
+              SERVER - - - - - O

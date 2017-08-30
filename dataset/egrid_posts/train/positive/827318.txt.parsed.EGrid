@@ -1,0 +1,11 @@
+             GRUB-PC X X - -
+         GRUB-COMMON O - - -
+           REINSTALL - O - -
+              REBOOT - X - -
+              CONFIG - X - -
+              SCREEN - S - -
+             COMMAND - X - -
+                LINE - O - X
+                GRUB - O - -
+                  .. - O - -
+           PARTITION - X - -

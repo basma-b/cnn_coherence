@@ -1,0 +1,11 @@
+                 ALL X - - - -
+           BACKTRACK X X - - -
+                  OS X - - - -
+             CHANNEL - X - - -
+        RDIFF-BACKUP - - - - S
+                /VAR - - - - S
+                /ETC - - - - S
+               /HOME - - - - S
+                   / - - - - X
+                   * - - - - X
+         DESTINATION - - - - S

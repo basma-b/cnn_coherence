@@ -1,0 +1,11 @@
+              LIVECD X - -
+                BOOT - S -
+              RESCUE - X -
+                MODE - X -
+           PARTITION - O -
+            /SOMEDIR - X -
+           /SOMEDIR/ - O -
+                THAT - - O
+            /DEV/HDA - - O
+                DISK - - S
+                  CD - - X

@@ -1,0 +1,6 @@
+             PROCESS X - - -
+               STATE X - - -
+/USR/LIB/FIREFOX/FIREFOX-BIN - X - -
+               PKILL - - S X
+             FIREFOX - - - X
+                SUDO - - - X

@@ -1,0 +1,14 @@
+                  IM S - - -
+          PERMISSION S - - -
+           UMASK=007 - S - -
+               GROUP - X - -
+                  ID - O - -
+           /DEV/SDA1 - - S -
+             DEFAULT - - O -
+                KATE - - S -
+                THIS - - S S
+               YOURS - - S -
+                NTFS - - S X
+                  RW - - - X
+                USER - - - X
+                AUTO - - - S

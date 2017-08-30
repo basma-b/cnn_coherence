@@ -1,0 +1,10 @@
+             COMMAND X - -
+             PACKAGE X - -
+             APT-GET - S -
+           PURE-FTPD - X -
+             CONFIGS - S -
+               STUFF - S O
+                /ETC - X -
+               HOARY - - X
+            KYNAPTIC - - O
+             OPTIONS - - O

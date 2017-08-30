@@ -1,0 +1,20 @@
+       CONFIGURATION - X - - - - - - - - - -
+             UTILITY - X - - - - - - - - - -
+            SETTINGS - O - - - - - - - - - -
+             COMMAND - - O - - - - - - - - -
+                TEXT - - X - - - - - - - - -
+                MODE - - X - - - - - - - - -
+               THERE - - - X - - - - - - - S
+                   ' - - - - X - - - - - - -
+                SUDO - - - - X - - - - - - -
+                  MV - - - - X - - - - - - -
+/ETC/X11/XORG.CONF-BACKUP - - - - S - - - - - - -
+         INVOKE-RC.D - - - - X - - - - - - -
+                 RUN - - - - - X - - - - - -
+                   X - - - - - O - - - - - -
+   DISPLAYCONFIG-GTK - - - - - - S - - - - -
+                  .. - - - - - - - - X - - -
+                 APP - - - - - - - - O - - -
+           XORG.CONF - - - - - - - - X - - -
+             MPLAYER - - - - - - - - - - O -
+              PLUGIN - - - - - - - - - - - O

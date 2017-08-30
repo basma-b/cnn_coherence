@@ -1,0 +1,10 @@
+             OPTIONS - O - - - -
+                GRUB - S - - - -
+                SOME - - X - - -
+ /BOOT/GRUB/MENU.LST - - X - - -
+        GRUB-INSTALL - - - X - -
+                  OK - - - - S -
+          MEMTEST86+ - - - - O -
+        RECOVERYMODE - - - - O -
+                 HDX - - - - - X
+                ROOT - - - - - S

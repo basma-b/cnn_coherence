@@ -1,0 +1,13 @@
+     /ETC/HOSTS.DENY O - - - - - -
+                SSHD S - - - - - -
+                 ALL X - - - - - -
+              ACCESS O - - - - - -
+                 SSH - O - - - - -
+             MESSAGE - O X - - - -
+                 ONE - - X - - - -
+               TWIST - - - X - - -
+                THIS - - - S - - -
+             COMMAND - - - S - - -
+                TIME - - - - X - -
+                THAT - - - - O - -
+                LUCK - - - - - - X

@@ -1,0 +1,6 @@
+           PARTITION O O - - - -
+                EXT3 - - S - - -
+             SECTORS - - - O - -
+                  DD - - - - - X
+   IF=/DEV/PARTITION - - - - - X
+        OF=/DEV/NULL - - - - - X

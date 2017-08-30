@@ -1,0 +1,18 @@
+                THAT X - - - - -
+               GROUP O - - - - -
+             PURPOSE X - - - - -
+               OWNER X - - - - -
+           DIRECTORY X - - - - -
+                ACLS S - - - - -
+                 WAY O - - - - -
+          FILESYSTEM S - - - - -
+                 ACL - O - - - -
+                SUDO - - - X - -
+                IFUP - - - X - -
+                ETH0 - - - S - -
+                LIST - - - O - -
+              N-CARD - - - X - -
+                 ISI - - - - X -
+/ETC/NETWORK/INTERFACES - - - - X X
+              GKSUDO - - - - - X
+               GEDIT - - - - - X

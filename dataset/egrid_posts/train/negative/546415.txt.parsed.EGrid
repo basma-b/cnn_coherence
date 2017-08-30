@@ -1,0 +1,16 @@
+               INDEX X - - - - -
+               MOUNT X - - - - -
+               SHARE O - - - - -
+              CONFIG - X - - - -
+                FILE - O - - X -
+       UPDATEDB.CONF - X - - - -
+                PATH - O - - - -
+                 MAN - - X - - -
+                PAGE - - S - - -
+             MANPAGE - - S - - -
+          PRUNEPATHS - - X - - -
+             PRUNEFS - - O - - -
+             NOTHING - - - S - -
+              SYSTEM - - - - X -
+        /MOUNTS/DATA - - - - O -
+                IDEA - - - - - O

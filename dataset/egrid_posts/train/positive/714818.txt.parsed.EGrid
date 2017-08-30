@@ -1,0 +1,14 @@
+               MOVIE O - - -
+             MPLAYER X - - -
+               VDPAU X - O -
+               -RSB- S - - -
+             LIBRARY O - - -
+       LIBVDPAU.SO.1 S - - -
+              NVIDIA X - - -
+             DRIVERS S - - -
+               THERE S - - -
+                 LIB O - - -
+/USR/LIB32/NVIDIA-CURRENT/VDPAU/LIBVDPAU_NVIDIA.SO.1 X - - -
+               MEDIA - X - -
+              PLAYER - O - -
+               ERROR - - - O

@@ -1,0 +1,14 @@
+                THIS - S - - - - -
+                FILE - X - - - - -
+          /ETC/FSTAB - X - - - - -
+                 WAY - - S - - - -
+                LINE - - O - - O -
+           PARTITION - - S X - O -
+               MOUNT - - - X - X -
+                 ONE - - - - - S -
+               NEWLY - - - - - S -
+                  .. - - - - - - S
+                NONE - - - - - - X
+                LOOP - - - - - - X
+         /PATH/TO/IT - - - - - - X
+     /WHERE/TO/MOUNT - - - - - - S

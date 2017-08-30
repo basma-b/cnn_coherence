@@ -1,0 +1,26 @@
+                SUDO X - -
+            MODPROBE X - -
+           MMC_BLOCK S - -
+              INSERT X - -
+                CARD S - -
+                 MMC X - -
+             NOTHING S - -
+               DMESG X - -
+               THERE S - -
+              KERNEL S - -
+                GREP X - -
+                  SD X - -
+                MINE S - -
+                LIST O - -
+                HOST X - -
+          CONTROLLER X - X
+               RICOH X - -
+                  CO X - -
+                 LTD X - -
+              R5C822 X - -
+SD/SDIO/MMC/MS/MSPRO X - -
+             ADAPTER X - -
+                 REV X - -
+             PC-CARD S - -
+              PCMCIA O - -
+            FIREWIRE - - O

@@ -1,0 +1,26 @@
+               POINT S -
+                FILE S O
+          PERMISSION X -
+             PROBLEM X -
+                  .. O -
+                ROOT X -
+               CHOWN X -
+                 DIR X -
+                NEED O -
+                 MAP X -
+              THINGS O -
+                 CAP X -
+                LOCK X -
+        LOGINMANAGER O -
+               OTHER X -
+             CHOICES O -
+          LOGIN-TIME X -
+                FWIW - S
+              HANDLE - X
+                 CAT - X
+             COMMAND - X
+               PDFTK - X
+A=LINEAR-ALGEBRA.PDF - X
+                AODD - X
+              OUTPUT - X
+LINEAR-ALGEBRA-FIXED.PDF - X

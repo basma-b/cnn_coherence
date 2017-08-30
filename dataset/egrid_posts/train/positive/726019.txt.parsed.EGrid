@@ -1,0 +1,12 @@
+                BOOT X - O - - -
+            PLYMOUTH X X - - - X
+              INITRD X - - - - -
+                TEXT - - X - - -
+                BASE - - X - - -
+              SPLASH - - - O - -
+                 END - - - X - -
+              KERNEL - - - X - -
+                LINE - - - X - -
+             PROCESS - - - - X X
+                  .. - - - - - X
+                SEGV - - - - - X

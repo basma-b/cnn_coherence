@@ -1,0 +1,11 @@
+                GRUB X X - -
+               THING X - - -
+                SUDO - X - -
+   /BOOT/GRUB/STAGE1 - O - -
+       /MEDIA/SERVER - - S -
+          MOUNTPOINT - - O -
+           PARTITION - - O -
+                 HDB - - X -
+                DISK - - O -
+               DRIVE - - X -
+                HDB1 - - S -

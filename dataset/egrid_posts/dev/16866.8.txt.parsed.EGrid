@@ -1,0 +1,27 @@
+             WINDOWS S S O - - - -
+              UBUNTU O - - - - - -
+           HARDDISKS X - - - - - -
+                 EFS O - - - - - -
+           PARTITION X - - - - - -
+                  .. X - - - - - -
+                UEFI S X - - - - -
+                BIOS X X - - - - -
+                GRUB S - S - - - -
+                 EFI X - - - - - -
+                PATH S - - - - - -
+ /BOOT/GRUB/GRUB.CFG X - - - - - -
+                HTTP - X - X - - -
+             PROBLEM - S - - - - -
+             ENTRIES - S - - O - -
+                BOOT - O - - - - -
+                LOAD - O - - - - -
+                AUTO - - X - - - -
+                BASE - - X - - - -
+               ENTRY - - O - - - -
+/BOOT/GRUB/CUSTOM.CFG - - X O - - -
+                FILE - - - X - - -
+                THIS - - - X - - -
+             CONTENT - - - X - - -
+                THAT - - - - X - -
+         UPDATE-GRUB - - - - O - -
+                 MAN - - - - - - X

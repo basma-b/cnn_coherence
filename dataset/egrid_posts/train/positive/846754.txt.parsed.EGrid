@@ -1,0 +1,10 @@
+/ETC/NETWORK/INTERFACES X - - - - -
+             SERVICE X - - - - -
+             NETWORK X - - X - -
+               START X - - - - -
+            IFCONFIG S - - - S -
+                 AKA - S - - - S
+             GARBAGE - X - - - X
+                 HEX - O - - - O
+                LIST - - - X - -
+          INTERFACES - - - X - -

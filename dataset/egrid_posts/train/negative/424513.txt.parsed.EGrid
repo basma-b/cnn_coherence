@@ -1,0 +1,19 @@
+              UBUNTU S - - - - - -
+/USR/SBIN/GRUB-INSTALL X - - - - - -
+            /DEV/HDA S - - - - - -
+              DEVICE O - - - - - -
+               /BOOT X - - - - - -
+               BLOCK X - - - - - -
+                THAT - X - - - - -
+              OUTPUT - - S - - - -
+                HTTP - - S - - - -
+                 TRY - - - S - - -
+        GRUB-INSTALL - - - O - - -
+               HD0,0 - - - X - - -
+                WAIT - - - X - - -
+                DONT - - - S - - -
+                 HD0 - - - X - - -
+                MESS - - - X - - -
+              THINGS - - - O - - -
+                CALL - - - - - X -
+                WORK - - - - - - S

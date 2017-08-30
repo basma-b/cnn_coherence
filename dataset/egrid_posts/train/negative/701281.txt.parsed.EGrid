@@ -1,0 +1,12 @@
+               LATER S - - - - -
+              SCRIPT - X - - - -
+                SAME - X - - - -
+                 YES - - S - - -
+              SEARCH - - O - - -
+/ETC/APT/SOURCES.LIST - - X - X -
+                FILE - - X - - -
+/ETC/APT/SOURCES.LIST.D/XXX - - X - - -
+                 CAT - - - - X -
+/ETC/APT/SOURCES.LIST.D/ - - - - S -
+    COMPLETE_SOURCES - - - - O -
+                HTTP - - - - - X

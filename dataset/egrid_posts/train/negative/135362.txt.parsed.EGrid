@@ -1,0 +1,15 @@
+             COMMAND O - - - -
+             PROCESS O - S - -
+                NAME X - O - -
+               TOTEM X X - X -
+                   * - S - - -
+                 PID - X - - -
+                   > - O - - -
+                 RUN - - X - -
+           TOTEM-BIN - - X - -
+           SOMETHING - - X - -
+                  PS - - - X -
+               |GREP - - - X -
+            HARDWARE - - - - O
+                  OS - - - - X
+                  VM - - - - X

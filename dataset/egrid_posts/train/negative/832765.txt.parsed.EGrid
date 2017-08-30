@@ -1,0 +1,21 @@
+       THINKPAD_ACPI - O - - - -
+              DRIVER - X - - - -
+               WHILE - X - - - -
+        /ETC/MODULES - X - - - -
+                MASK - - X - - -
+                   > - - S - - -
+                PLAY - - - S - -
+         ACPI_LISTEN - - - S - -
+               EVENT - - - O - -
+              BUTTON - - - X - -
+PLAY/STOP/PREVIOUS/NEXT - - - X - -
+                WORK - - - O - -
+               MUSIC - - - X - -
+                 KEY - - - O - -
+            KEYBOARD - - - X - -
+              EVENTS - - - X - -
+            INTEREST - - - O - -
+                  .. - - - X - -
+              SERVER - - - - - X
+                CASE - - - - - X
+                  /F - - - - - X

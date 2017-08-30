@@ -1,0 +1,38 @@
+                 THE X - - S - - - -
+              UPDATE X - - - - - - -
+              APACHE X - - - - - - -
+              MODULE S - - - - - - -
+               ERROR O - - O - - - -
+               START X - - - - - - -
+                 WEB S - - - - - - -
+              SERVER X - - - - - - -
+             APACHE2 S - - - - - - -
+              SYNTAX X - - - - - - -
+                LINE X - - - - - - -
+/ETC/APACHE2/APACHE2.CONF X - - - - - - -
+/ETC/APACHE2/MODS-ENABLED/PHP5.LOAD X - - - - - - -
+/USR/LIB/APACHE2/MODULES/LIBPHP5.SO O - - - - - - -
+               SHARE X - - - - - - -
+              OBJECT X - - - - - - -
+                FILE O - X - - - - -
+           DIRECTORY X - X - - - - -
+                  .. X - - - X - - X
+               IDEAS - X - - - - - -
+               THERE - - X S - - - -
+          LIBPHP5.SO - - - O - - - -
+/USR/LIB/APACHE2/MODULES - - - X - - - -
+              INSTAL - - - O - - - -
+             PACKAGE - - - S - O - -
+        DEPENDENCIES - - - X - - - -
+         PHP5-COMMON - - - S - - X -
+5.2.10.DFSG.1-2UBUNTU6.5 - - - X - - - -
+   5.2.14-0.DOTDEB.0 - - - S - - - -
+                   E - - - O - - - -
+              DOTDEB - - - S - - - -
+            ANYTHING - - - O - - - -
+              UBUNTU - - - - - S - -
+              DEBIAN - - - - - S - -
+        SOURCES.LIST - - - - - X - -
+                LOSS - - - - - X - -
+           APT-CACHE - - - - - - X -
+              POLICY - - - - - - X -

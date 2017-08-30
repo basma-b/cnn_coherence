@@ -1,0 +1,23 @@
+               /BOOT X O - - - - - - - - -
+           PARTITION X - - - O - - - - - -
+                 ONE - X - - - - - - - - -
+                   | - X - - - - - - - - -
+                BOOT - S - - - - - - - - -
+               THERE - - S - - - - - - - -
+                NONE - - O - - - - - - - -
+             DEFAULT - - X - - - - - - - -
+                GRUB - - - - O - - - - - -
+               LINUX - - - - X - - - - - -
+             WINDOWS - - - - X - - - O - -
+              OUTPUT - - - - - S - - - - -
+                  .. - - - - - - X - - O -
+ /BOOT/GRUB/MENU.LST - - - - - - S - - - -
+                HTTP - - - - - - - X - - -
+            MENU.LST - - - - - - - X - - -
+//PASTE.UBUNTU.COM/15563/ - - - - - - - X - - -
+               TITLE - - - - - - - - X - -
+             EXAMPLE - - - - - - - - X - -
+                  'S - - - - - - - - - X -
+               HD0,2 - - - - - - - - - X -
+             INFRONT - - - - - - - - - X -
+               SENSE - - - - - - - - - - O

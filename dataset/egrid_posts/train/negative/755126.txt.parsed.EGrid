@@ -1,0 +1,11 @@
+                 USE S - -
+            DOWNLOAD - X -
+                HTTP - X -
+//WUBI-INSTALLER.ORG/ - X -
+                SUDO - - X
+/ETC/INIT.D/IPTABLES - - X
+/ETC/RCS.D/S37IPTABLES - - O
+               MKDIR - - X
+       /ETC/IPTABLES - - X
+            IPTABLES - - S
+                RULE - - O

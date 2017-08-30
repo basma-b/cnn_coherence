@@ -1,0 +1,18 @@
+/LIB/MODULES/2.6.15-21-386/BUILD X - - - - - - -
+                FILE X - - - - - - -
+           DIRECTORY X - - - - - - -
+                STOP - X - - - - - -
+             RT73.KO - - S - - - - -
+                HELP - - - S - - - -
+             CAFUEGO - - - - O - - -
+             PACKAGE - - - - X - - -
+KERNEL-HEADERS-2.6.15-21-386 - - - - S - - -
+                  .. - - - - O - - -
+      KERNEL-HEADERS - - - - X - - -
+           APT-CACHE - - - - X - - -
+              SEARCH - - - - S - - -
+       LINUX-HEADERS - - - - O - - -
+           ARCH=I386 - - - - - S - -
+                   % - - - - - X - -
+2FLINUX-HEADERS-2.6.15-21-386_2.6.15-21.32_I386.DEB - - - - - S - -
+              KERNEL - - - - - S - -

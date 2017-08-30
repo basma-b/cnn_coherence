@@ -1,0 +1,10 @@
+             APACHE2 S - - -
+             DEFAULT X - - X
+                USER X - - -
+              COUPLE - - S -
+               USERS - - X -
+                FILE - - O -
+            /VAR/WWW - - X -
+            WWW-DATA - - - X
+                 OWN - - - X
+                ROOT - - - X

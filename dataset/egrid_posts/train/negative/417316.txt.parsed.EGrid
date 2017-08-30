@@ -1,0 +1,8 @@
+             COMMAND X - - - -
+                LINE X - - - -
+             PACKAGE O - - - -
+        DEPENDENCIES - X - - -
+           SOMETHING - - S - -
+             TCPDUMP - - O - -
+             APT-GET - - X - -
+              BINARY - - O - -

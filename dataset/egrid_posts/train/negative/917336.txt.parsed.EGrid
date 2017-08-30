@@ -1,0 +1,16 @@
+              ANYONE X - - -
+             SUDOERS O - - -
+                THAT - S - -
+        /ETC/SUDOERS - O - -
+             PROBLEM - O - -
+             PROGRAM - O - -
+            PASSWORD - X - -
+                LINE - O S -
+            NOPASSWD - X - -
+             COMMAND - X - -
+              MYUSER - - X -
+        ALL=NOPASSWD - - O -
+/USR/SBIN/FIRESTARTER - - X -
+             OPENSSL - - - X
+              GNUTLS - - - X
+             VERSION - - - O

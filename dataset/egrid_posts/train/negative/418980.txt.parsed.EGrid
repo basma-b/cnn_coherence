@@ -1,0 +1,11 @@
+             PROGRAM X - - - -
+              SERVER X - - - -
+                 ^^^ - X - - -
+        TRANSMISSION - S - - -
+    TRANSMISSION-CLI - O - - -
+              CLIENT - S - - -
+            RTORRENT - O - - -
+        /ETC/INITTAB - - - - O
+              KERNEL - - - - O
+              OPTION - - - - X
+WS_KERNEL_FG=WSCOL_BLACK - - - - X

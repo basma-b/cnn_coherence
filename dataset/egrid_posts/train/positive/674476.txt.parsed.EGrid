@@ -1,0 +1,12 @@
+                USER X - - - - - - - - - - -
+           DIRECTORY X - - - - - - - - - - -
+              VSFTPD - X O - - - - - - - - -
+              ACCESS - X O - - - - - - - - -
+                SFTP - - S - X - - - - - - -
+                FTPS - - S - - - - - - - - -
+             NOTHING - - O - - - - - - - - -
+                 FTP - - X - - - - - - - O -
+              SERVER - - X - - - - - - - - -
+              INSTAL - - O - - - - - - - - -
+               START - - - - - X - - - - - -
+                 USE - - - - - S - - - - - -

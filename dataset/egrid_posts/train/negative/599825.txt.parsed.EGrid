@@ -1,0 +1,22 @@
+             DEFAULT - X - - X X X S - X - -
+               LEVEL - X X - - - - - - - - -
+             DESKTOP - X - - - - - - - - - -
+                 RUN - - X - - - - - - - - -
+              UBUNTU - - X - - - - - - - - -
+           RUNLEVELS - - - - X - - - - - - -
+                 2-5 - - - - S - - - - - - -
+              STARTX - - - - O - - - - - - -
+               OTHER - - - - S - - - - - - -
+                 XDM - - - - O - - - - - - -
+                THAT - - - - - S - - - - - -
+                  .. - - - - - X - - - - - -
+                BOOT - - - - - - - X - - - -
+            COMPUTER - - - - - - - S - - - -
+             SESSION - - - - - - - X - - - -
+             MANAGER - - - - - - - O - S - -
+                   X - - - - - - - O - - - -
+                WORK - - - - - - - - X - - -
+             DISPLAY - - - - - - - - - X - -
+             CONTENT - - - - - - - - - O - -
+/ETC/X11/DEFAULT-DISPLAY-MANAGER - - - - - - - - - X - -
+                 HAH - - - - - - - - - - - X

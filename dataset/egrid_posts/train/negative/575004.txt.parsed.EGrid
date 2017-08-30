@@ -1,0 +1,10 @@
+                SWAP X - - - -
+            PARITION X - - - -
+               SPACE - - X O -
+               DRIVE - - X - -
+          /ETC/FSTAB - - - X -
+              REBOOT - - - X -
+              SWAPON - - - X -
+            ANYTHING - - - X -
+              ANSWER - - - X -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - - - S

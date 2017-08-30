@@ -1,0 +1,14 @@
+              DEVICE X X - - - -
+                NAME S O - - - -
+               DMESG - X - - - -
+              SYSLOG - X - - - -
+           SOMETHING - O - - - -
+            REMNANTS - - O - - -
+                RAID - - X - - O
+               ARRAY - - X - - -
+                THIS - - O - - -
+           BLACKLIST - - - X - -
+           DM_RAID45 - - - O - -
+                 XOR - - - X - -
+             MODULES - - - O - -
+                LOAD - - - O - -

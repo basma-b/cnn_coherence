@@ -1,0 +1,12 @@
+                ROOT X - - -
+           PARTITION X - O -
+                HDA1 X - - -
+                LINE - X - -
+             DEFAULT - X - -
+                  RW - X - -
+               USERS - X - -
+               FSTAB - S - -
+         PERMISSIONS - - O -
+                FILE - - X -
+                   X - - S -
+               WORRY - - - S

@@ -1,0 +1,6 @@
+                   ' X -
+                 RUN S -
+                SWAP S -
+           QUOTATION X -
+                MARK O -
+             MESSAGE - X

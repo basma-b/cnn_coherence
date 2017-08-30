@@ -1,0 +1,15 @@
+                SUDP X - - -
+             APT-GET X S - -
+            PRO-FTPD S - - -
+             SOMEONE X - - -
+         CONNECTIONS O - - -
+            COMPUTER X - - -
+                 SSH - O - -
+                SUDO - X - -
+     /ETC/INIT.D/SSH - O - -
+                   D - X - -
+               START - - S -
+             OPENBSD - - X -
+               SHELL - - X -
+              SERVER - - X -
+                  .. - - X -

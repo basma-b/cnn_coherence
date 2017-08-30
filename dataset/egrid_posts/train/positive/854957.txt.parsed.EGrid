@@ -1,0 +1,16 @@
+                THAT S - - - -
+           OCTAVE3.2 X - - - -
+           REFERENCE X - - - -
+                BLAS O - - - -
+             LIBBLAS X - O - -
+       OPTIMIZATIONS X - - - -
+               ATLAS O X - - -
+             PACKAGE - X X - -
+        DEPENDENCIES - S - - -
+           CONFLICTS - X - - -
+          LIBBLAS.SO - X - - -
+             WARNING - - X - -
+            LIBATLAS - - O - -
+             SUPPORT - - - - X
+          REPOSITORY - - - - X
+             APT-GET - - - - X

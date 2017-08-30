@@ -1,0 +1,14 @@
+                FILE O - - - - - - - - - - -
+           SEMANTICS - O - - - - - - - - - -
+               SENSE - O - - - - - - - - - -
+           FREQUENCY - X - - - - - - - - - -
+/SYS/DEVICES/SYSTEM/CPU/CPU0/CPUFREQ/SCALING_CUR_FREQ - S - - - - - - - - - -
+             CPUFREQ - - - - - O - - - - - -
+           YESTERDAY - - - - - - S - - - - -
+              REASON - - - - - - - X - - - -
+             PACKAGE - - - - - - - O - - - -
+           POWERNOWD - - - - - - - - O - - -
+                HELP - - - - - - - - - O - -
+                  .. - - - - - - - - - X - -
+             COMMAND - - - - - - - - - - O -
+              MINUTE - - - - - - - - - - - O

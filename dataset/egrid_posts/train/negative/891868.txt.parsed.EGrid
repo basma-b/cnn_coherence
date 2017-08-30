@@ -1,0 +1,12 @@
+                PATH O - - - -
+              SYSTEM O - - - -
+              EXPORT - S - - -
+                 VAR - O - - -
+              SCRIPT - X - - -
+             NETMASK - - S - -
+             GATEWAY - - X O O
+       255.255.255.0 - - - S -
+             X.X.X.1 - - - S S
+           SOMETHING - - - - X
+         192.168.0.1 - - - - X
+                 BOX - - - - X

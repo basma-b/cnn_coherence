@@ -1,0 +1,12 @@
+          IVANATWORK - X - - - -
+              REBOOT - - S - - -
+             NETWORK - - - - X -
+          10.1.1.255 - - - - S -
+      10.255.255.255 - - - - S -
+                   A - - - - - X
+             NETMASK - - - - - S
+       255.255.255.0 - - - - - O
+                 /24 - - - - - X
+                CIDR - - - - - X
+            NOTATION - - - - - X
+               CLASS - - - - - X

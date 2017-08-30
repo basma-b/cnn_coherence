@@ -1,0 +1,27 @@
+                ROOT O S - -
+                NEED - O - -
+                FILE - O S -
+                NTFS - S X -
+                 CDS - S - -
+         PERMISSIONS - O - -
+                  TS - X - -
+                CANT - S - -
+                SUDO - X S -
+                  CP - S X -
+                COPY - - X -
+                  TA - - S -
+            ETHERNET - - X -
+             DRIVERS - - S -
+             WINDOWS - - X -
+              DRIVER - - X -
+                DISK - - X -
+                  .. - - X -
+             DESKTOP - - S -
+                PART - - X -
+/MEDIA/DISK/PATH/TO/WHEREVER/THE/HELL/IT/GOES - - X -
+         /MEDIA/DISK - - O -
+                  CD - - O -
+                BITE - - X -
+                USER - - X -
+          PERMISSION - - S -
+                1-14 - - - X

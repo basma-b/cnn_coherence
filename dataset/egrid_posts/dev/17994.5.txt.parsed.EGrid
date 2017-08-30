@@ -1,0 +1,20 @@
+                 GUY S - - - - -
+                FILE X - - - - -
+          PERMISSION S - - - - -
+                SUDO X - - - - -
+                  RM S - - - - -
+                 CAP S - - - - -
+                PART O - - - - -
+               GROUP X - - - - -
+                 ONE X - - - - -
+               THERE - X - - - -
+           DIRECTORY - - X - - -
+                 DIR - - X - - -
+              ACCESS - - S - - -
+            MOUNTALL - - - - - X
+          MOUNTALL.C - - - - - S
+           ASSERTION - - - - - S
+                MAIN - - - - - X
+        UDEV_MONITOR - - - - - S
+UDEV_MONITO_NEW_FROM_NETLINK - - - - - O
+                UDEV - - - - - X

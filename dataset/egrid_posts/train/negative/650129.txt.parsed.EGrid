@@ -1,0 +1,15 @@
+                 IMG S S - -
+             HDD-IMG O - - -
+         LOOP/OFFSET - S O -
+                HTTP - O - -
+              FORMAT - X - -
+               DRIVE - O - -
+                NTFS - X - -
+               IMAGE - O - -
+                 HDD - X - -
+           PARTITION - X - -
+                THAT - - - X
+                SUDO - - - S
+     /PATH/TO/FOLDER - - - O
+                   < - - - O
+                  -R - - - O

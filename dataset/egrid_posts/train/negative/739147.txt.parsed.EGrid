@@ -1,0 +1,17 @@
+               SETUP X X - - - - -
+          VIRTUALBOX X X - - - - -
+              SERVER O O - - - - -
+             NETWORK O O O - - - -
+              BRIDGE X O X X - - -
+                 NAT X X - - - - -
+                  .. X O - - - - -
+           INTERFACE - - S - - - -
+                TIME - - - X - - -
+            SETTINGS - - - X - - -
+                THIS - - - O - - -
+            ADAPTER1 - - - O - - -
+             ADAPTER - - - X - - -
+                THAT - - - - O - -
+               XCHAT - - - - - S -
+        REPOSITORIES - - - - - X -
+            UNIVERSE - - - - - - S

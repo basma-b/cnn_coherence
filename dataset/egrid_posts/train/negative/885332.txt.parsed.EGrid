@@ -1,0 +1,14 @@
+           PARTITION O O - - - - -
+                 HDD X - - - - - -
+                /TMP X - - - - - -
+                 SSD X - - - - - -
+                   / S - - - - - -
+                MUCH O - - - - - -
+                  GB - X - - - - -
+               FSTAB - X - - O - -
+                UUID - X - - - - -
+                FILE - - O - - - -
+                BOOT - - X - - - X
+                  CD - - - - - - X
+                TYPE - - - - - - X
+                 ALT - - - - - - O

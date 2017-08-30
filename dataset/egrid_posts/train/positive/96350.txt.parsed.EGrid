@@ -1,0 +1,11 @@
+              MEMORY X - - - - -
+               STICK X - - - - -
+           AUTOMOUNT - O - - - -
+                   U - - X - X -
+                TYPE - - S X S -
+            TERMINAL - - X - - -
+             COMMAND - - - X - -
+                 SEC - - - S - -
+               USBFS - - - X - -
+                  RW - - - X - -
+       /DEV/WHATEVER - - - - - X

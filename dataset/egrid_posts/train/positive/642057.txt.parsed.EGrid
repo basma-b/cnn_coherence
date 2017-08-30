@@ -1,0 +1,19 @@
+                NAME X - - - - - - -
+               LASER X - - - - - - -
+             PRINTER X - - - X - - -
+              OUTPUT O - - - - - - -
+               LSUSB - X - - - - - -
+             NOTHING - - S - - - - -
+         REDIRECTION - - X - - - - -
+             COMMAND - - - X - - - -
+                   > - - - X - - - -
+        /DEV/USB/LP0 - - - X - - - -
+            LOCATION - - - - X - - -
+                 USB - - - - X - - -
+            /DEV/USB - - - - S - - -
+/DEV/BUS/USB/001/002 - - - - O - - -
+                 BUS - - - - X - - -
+                  GO - - - - - S - -
+                 BUG - - - - - - - X
+              REPORT - - - - - - - O
+               ISSUE - - - - - - - X

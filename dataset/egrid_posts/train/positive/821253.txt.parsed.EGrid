@@ -1,0 +1,14 @@
+                HDMI X - - - - - -
+               AUDIO X - - - - - -
+             DEFAULT S - - - - - -
+              OUTPUT O X - - - - -
+               APLAY - O - - - - -
+                CARD - X - - - - O
+              DEVICE - O - - X - -
+                THAT - - O - - - -
+            ASOUNDRC - - X - - - X
+                IDEA - - - X - - -
+             PROBLEM - - - - X - -
+          PULSEAUDIO - - - - X X -
+                ALSA - - - - - O -
+             NOTHING - - - - - - X

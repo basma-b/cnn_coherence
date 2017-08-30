@@ -1,0 +1,15 @@
+              STATIC O - - - - -
+          IP/GATEWAY X - - - - -
+                 GUI X - - - - -
+                DATA - X - - - -
+/ETC/NETWORK/INTERFACES - - S - - -
+              SYSTEM - - - S - -
+                  IP - - - O - -
+          INTERFACES - - - X - -
+                FILE - - - X - -
+           UNINSTALL - - - X - -
+             NETWORK - - - X - -
+             MANAGER - - - O - -
+                BOOT - - - O - -
+             PROCESS - - - O - -
+                   U - - - - X -

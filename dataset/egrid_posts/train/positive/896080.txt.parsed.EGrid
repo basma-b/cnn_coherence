@@ -1,0 +1,12 @@
+               FSTAB S - - - - -
+                FIRE X - - - - -
+              ERRORS X - - - - -
+            ANDLINUX O - - - - -
+                THIS - - X - - -
+                TASK - - X - - -
+               MOUNT - - - O X -
+            RC.LOCAL - - - X X -
+                LINE - - - X - -
+          /MEDIA/FOO - - - - S -
+                PATH - - - - O S
+                  .. - - - - X -

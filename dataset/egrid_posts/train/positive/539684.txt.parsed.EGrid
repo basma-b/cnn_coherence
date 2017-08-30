@@ -1,0 +1,11 @@
+              FORMAT X - - - S
+                 USB X - - - -
+                SUDO - X - - -
+           MKFS.VFAT - X - - X
+/DEV/WHATEVERDEVICEYOURUSBSTICKIS - X - - -
+               THREE - - - X -
+           PARTITION - - - O S
+                 USE - - - X -
+               FDISK - - - O -
+             WINDOWS - - - X X
+           /DEV/USB2 - - - - O

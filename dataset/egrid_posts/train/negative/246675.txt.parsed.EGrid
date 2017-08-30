@@ -1,0 +1,14 @@
+               WEIRD S -
+                BASH O -
+./JRE-1_5_0_10-LINUX-I586.BIN O -
+          PERMISSION O -
+               CHMOD X -
+                  +X X -
+JRE-1_5_0_10-LINUX-I586.BIN S -
+                   ~ - S
+                USER - X
+                HOME - X
+           DIRECTORY - X
+                TYPE - X
+                  CD - X
+            ~/.WINE/ - O

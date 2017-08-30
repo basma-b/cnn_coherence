@@ -1,0 +1,12 @@
+                FILE O - -
+                BOOT X X -
+                USER X S -
+        /ETC/INIT.D/ X - -
+                TIME - X -
+                 RUN - O -
+                LINE - O -
+/ETC/INIT.D/BOOTMISC.SH - X -
+               -RSB- - X -
+             COMMAND - X -
+                 NON - S -
+                  .. - O -

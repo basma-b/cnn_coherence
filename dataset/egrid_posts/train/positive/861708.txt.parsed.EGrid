@@ -1,0 +1,18 @@
+             COMMAND O - - - -
+              UBUNTU X - - - -
+/ETC/NETWORK/IF-UP.D - S - - -
+                HELP - O - - -
+                PART - X - - -
+          MASQUERADE - X - - -
+               HTTPS - - X - -
+//HELP.UBUNTU.COM/8.04/SERVERGUIDE/C/FIREWALL.HTML - - X - -
+                BITE - - - X -
+                  .. - - - O -
+            IPTABLES - - - - O
+                 UFW - - - - O
+                 WAY - - - - O
+                RULE - - - - O
+            INTERNET - - - - X
+          CONNECTION - - - - S
+               SHARE - - - - O
+           COMPUTERS - - - - X

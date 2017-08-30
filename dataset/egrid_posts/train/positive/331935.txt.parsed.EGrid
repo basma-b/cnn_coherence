@@ -1,0 +1,17 @@
+             COMMAND X X X - -
+                SUDO S S - - -
+          PERMISSION X X - - -
+                DENY X X - - -
+                ECHO - - - X -
+                NONE - - - S -
+       /PROC/BUS/USB - - - X -
+                AUTO - - - O -
+          /ETC/FSTAB - - - X -
+                  OK - - - X -
+         REDIRECTION - - - S -
+                USER - - - X -
+                BASH - - - X -
+                  -C - - - S -
+               FSTAB - - - X -
+                  -A - - - O -
+                 THX - - - - X

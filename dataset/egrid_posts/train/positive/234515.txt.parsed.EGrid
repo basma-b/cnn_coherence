@@ -1,0 +1,21 @@
+ /VAR/LOG/XORG.0.LOG O - - S - - -
+              ERRORS X - - - - - -
+                   U - S - - - - -
+                IDEA - O - - - - -
+              OPTION - - O - - - -
+        RENDERACCESS - - S - - - -
+         RENDERACCEL - - X - - - -
+             SECTION - - X - X - -
+              DEVICE - - X - X - -
+                 THX - - X - - - -
+              RENDER - - X - - - X
+           XORG.CONF - - - O - - -
+         VIDEO-CARDS - - - O - - -
+                CARD - - - - - X -
+             DISPLAY - - - - - X -
+           1280X1024 - - - - - X -
+            1024X768 - - - - - X -
+              SCREEN - - - - - - S
+             SUPPORT - - - - - - O
+                HTTP - - - - - - X
+//TONYWHITMORE.CO.UK/BLOG/2006/04/23/3D-ON-DUAL-HEAD-ATI-RADEON-9200-SE-ON-UBUNTU-BREEZY/ - - - - - - X

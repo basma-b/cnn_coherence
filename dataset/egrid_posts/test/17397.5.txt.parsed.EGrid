@@ -1,0 +1,18 @@
+             COMMAND O - - - - -
+       /ETC/RC.LOCAL X - - - - -
+               SHARE O - - - - -
+                BITE - O - - - -
+                WORK - X - - - -
+                 G++ - O - - - -
+                 PPA - - X - - -
+              SOURCE - - X - - -
+             PACKAGE - - O X - -
+            DIFFERNT - - X - - -
+             RELEASE - - X - - -
+            PROBLEMS - - S - - -
+                PULL - - - O - -
+              SYSTEM - - - O - -
+                THIS - - - - - O
+                SUDO - - - - - X
+                NANO - - - - - X
+/ETC/POLKIT-1/LOCALAUTHORITY/50-LOCAL.D/COM.UBUNTU.DESKTOP.PKLA - - - - - X

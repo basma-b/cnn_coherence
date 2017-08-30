@@ -1,0 +1,16 @@
+                DATE S - - - -
+              SYSTEM X - - - -
+             COMMAND X - - - -
+                 NTP S - X - -
+              VALUES O - - - -
+            TIMEZONE S - - - -
+                HINT - X - - -
+              SERVER - - X - -
+                TIME - - - X -
+     FR.POOL.NTP.ORG - - - X -
+      NTP.UBUNTU.COM - - - S -
+                SUDO - - - X -
+             NTPDATE - - - X -
+                DONT - - - - S
+              FRIEND - - - - S
+           NIGHTMARE - - - - O

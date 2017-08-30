@@ -1,0 +1,15 @@
+             PACKAGE X - - -
+           IA32-LIBS X - - -
+               DRIVE - O - O
+         UMASK=VALUE - X - -
+              OPTION - X - -
+                THAT - - S -
+                  EG - - X -
+         POSSIBILITY - - O -
+               OTHER - - - S
+                HAND - - - X
+          UMASK=0027 - - - O
+                SUDO - - - X
+               CHMOD - - - O
+/YOUR/PROGRAMS/DIRECTORY/ - - - X
+                   * - - - X

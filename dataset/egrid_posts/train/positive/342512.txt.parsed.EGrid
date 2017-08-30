@@ -1,0 +1,30 @@
+FLASH_FORCE_PULSE_AUDIO=1 X - - - - - - - -
+              EXPORT X - - - - - - - -
+FLASH_FORCE_PULSE_AUDIO S - - - - - - - -
+              OPTION O - - - - - - - -
+               ERROR O - - - - - - - -
+                CLVM - - - S - O O - -
+            DPKG-DEB - - - S - - - - -
+             ARCHIVE - - - O - - - - -
+                FILE - - - S - - - - -
+           DIRECTORY - - - X - - - - -
+             PACKAGE - - - X - - - - -
+             EXAMPLE - - - - X - - - -
+             COMMAND - - - - X - - - -
+              INSTAL - - - - X - - - -
+       /USR/SBIN/FOO - - - - O - - - -
+                TIME - - - - - S - - -
+            PASTEBIN - - - - - O - - -
+                DPKG - - - - - O X - -
+              STATUS - - - - - X - - -
+     HALF-CONFIGURED - - - - - S - - -
+                SUDO - - - - - X - - -
+                BOOT - - - - - O - - -
+                  .. - - - - - O X X -
+               THING - - - - - - S - -
+               FORCE - - - - - - O - -
+                LOOK - - - - - - O - -
+                PAGE - - - - - - X - -
+                 BOX - - - - - - - X -
+                 ATM - - - - - - - X -
+                HELP - - - - - - - - X

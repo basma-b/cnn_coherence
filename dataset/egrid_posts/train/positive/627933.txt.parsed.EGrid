@@ -1,0 +1,24 @@
+               HOWTO S - - - -
+              SYSTEM X X - - -
+             NETWORK X - - - -
+               PROXY X - X - -
+            SETTINGS S S - - -
+              REBOOT X - - - -
+             RESTART - O - - -
+              EFFECT - O - - -
+         APPLICATION - X - - -
+                 USE - X - - -
+GNOME-NETWORK-PROPERTIES - O - - -
+              OPTION - O - - -
+                THIS - S - - -
+          EVERYTHING - - S - -
+              CHANGE - - S - -
+          CONNECTION - - O - -
+                 DOW - - S - -
+            BROWSERS - - X - -
+             CONSOLE - - - S -
+            INSTANCE - - - X -
+              FIDDLE - - - - O
+         ENVIRONMENT - - - - X
+            VARIABLE - - - - X
+                   > - - - - O

@@ -1,0 +1,16 @@
+                TIME O X - - - -
+           START-UPS X X - - - -
+           SHUTDOWNS X X - - - -
+                 LOG - X - - - -
+      /VAR/LOG/DMESG - S - X - -
+   /VAR/LOG/MESSAGES - X - - - -
+                FILE - X - - - -
+         INFORMATION - - X - - -
+                 ONE - - X - - -
+                INFO - - - S - -
+             DEFAULT - - - X - -
+              SCRIPT - - - O - -
+              INIT.D - - - X - -
+             EVENT.D - - - X - -
+             PROCESS - - - X - -
+                HERE - - - - - X

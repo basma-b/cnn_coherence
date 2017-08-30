@@ -1,0 +1,19 @@
+                LIST X - O - - - -
+/ETC/APT/SOURCES.LIST O - - - - - -
+                THAT - O - - - - -
+                  .. - - X - - - -
+          INSPECTION - - X - - - -
+              RESULT - - O - - - -
+/ETC/DPKG/DPKG.CFG.D/MULTIARCH - - X - - - -
+FOREIGN-ARCHITECTURE - - S - - - -
+                THIS - - X - - - -
+             PACKAGE - - X - - - -
+                NEXT - - - X - - -
+               32BIT - - - O - - -
+              PEOPLE - - - X - - -
+               64BIT - - - S - - -
+              64-BIT - - - - - S -
+             SUPPORT - - - - - - O
+              MONKEY - - - - - - X
+              WRENCH - - - - - - O
+              THINGS - - - - - - X

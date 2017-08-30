@@ -1,0 +1,14 @@
+ DOMAIN-NAME-SERVERS X - - -
+              OPTION O - - -
+            DHCLIENT X - - -
+                LOOK - S - -
+             MANPAGE - X - -
+             EXAMPLE - X - -
+                FILE - S - X
+                 END - X - -
+           LOCALHOST - O - -
+         RESOLV.CONF - X - -
+                 SIR - X - -
+             TROUBLE - - X -
+              SYSTEM - - - X
+                LINE - - - S

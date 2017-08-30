@@ -1,0 +1,14 @@
+                 ALL O - - -
+              SYSTEM X X - -
+                USER O X - -
+             COMMAND X - - -
+             ADDUSER X - - -
+                 GDM X - - -
+               USERS X - - -
+                LIST X - - -
+               GROUP X - - -
+              KERNEL - - - X
+          PARAMETERS - - - O
+                BOOT - - - X
+               DRIVE - - - X
+               SHIFT - - - O

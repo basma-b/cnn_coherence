@@ -1,0 +1,14 @@
+                TIME X - - - - - -
+             ANYBODY X - - - - - -
+              SERVER X - - - - - -
+              APACHE - - X - - - -
+                   + - - X - - - -
+               MYSQL - - X - - - -
+            LANGUAGE - - - O - - -
+                FILE - - - - - - S
+                NAME - - - - - - O
+             NETWORK - - - - - - X
+          INTERFACES - - - - - - X
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - - - - - X
+                SUDO - - - - - - X
+                 VIM - - - - - - X

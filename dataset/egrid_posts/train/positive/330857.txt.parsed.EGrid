@@ -1,0 +1,10 @@
+             PACKETS S - - O
+             TO/FROM O - - -
+             MACHINE X - - -
+            IPTABLES - S - S
+              DETAIL - O S -
+                 E.G - O - -
+             MONITOR - - X -
+               SYTEM - - X -
+                HOOK - - - O
+               ROUTE - - - X

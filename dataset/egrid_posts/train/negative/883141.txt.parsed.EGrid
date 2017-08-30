@@ -1,0 +1,11 @@
+             DISABLE X - - -
+            ETHERNET X - X -
+           INTERFACE X - - -
+           BLACKLIST - - S -
+              MODULE - - X -
+                 USE - - X -
+                LOAD - - X -
+               ATL1C - - O -
+/ETC/MODPROBE.D/BLACKLIST.CONF - - X -
+                  PS - - - S
+                 KDM - - - X

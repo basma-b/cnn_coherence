@@ -1,0 +1,15 @@
+            SENDMAIL - S S -
+               CHDIR - X - -
+  /VAR/SPOOL/POSTFIX - S - -
+          PERMISSION - S - -
+               /VAR/ - X - -
+          /VAR/SPOOL - S - -
+                  ED - S - -
+                ROOT - X - -
+             POSTFIX - X - -
+                USER - X X -
+                MAIL - S - O
+               GROUP - X X -
+              FOLDER - S - -
+               RIGHT - O - -
+              UBUNTU - - - X

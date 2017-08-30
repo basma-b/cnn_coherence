@@ -1,0 +1,31 @@
+                TIME X - - - - -
+             PACKAGE O - - - - -
+             APACHE2 X - X - - -
+               ERROR O - - - - -
+                HTTP X - - - - -
+//BIN.CAKEPHP.ORG/VIEW/500305249 X - - - - -
+                  .. X - X - - -
+              DISTRO - X - - - -
+             VERSION - X - - - -
+                PPAS - O - - - -
+               11.10 - - X - - -
+                 PPA - - X - - -
+                 5.4 - - X - - -
+               ORDER - - S - - -
+              BUNDLE - - X - - -
+                FILE - - X - - -
+              APACHE - - X - - -
+             MODULES - - O - - -
+              BINARY - - S - - -
+                  IM - - S - - -
+               KITEN - - - - X -
+                 SAY - - - - S -
+                SUDO - - - - - X
+             APT-GET - - - - - X
+               CHECK - - - - - X
+                  -F - - - - - S
+                TYPE - - - - - X
+                 CAT - - - - - X
+/ETC/APT/SOURCES.LIST - - - - - X
+                   | - - - - - X
+          PASTEBINIT - - - - - X

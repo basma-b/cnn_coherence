@@ -1,0 +1,12 @@
+               12.04 O - - -
+               SOUND X - - -
+                CHIP X - - -
+                CARD X O - -
+                  .. O - - O
+         SUGGESTIONS O - - -
+               LSPCI - S - -
+                  -L - S - -
+           ALSA-BASE - O - -
+     DEVICE_LIST:252 - - - X
+          SOUNDCARDS - - - S
+              SYSTEM - - - O

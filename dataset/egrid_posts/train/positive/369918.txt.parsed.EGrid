@@ -1,0 +1,19 @@
+             SUDOERS S - - - -
+                FILE O X - - -
+           HARDDRIVE X - - - -
+              LIVECD X - - - -
+              SYSTEM X - - - -
+                CANT X - - - -
+          PERMISSION O - - - -
+              ANYONE S - - - -
+                  IM S - - - -
+                HTTP - X - - X
+             COMMAND - - O - -
+         ENVIRONMENT - - X - -
+                SUDO - - S - -
+       /MEDIA/UBUNTU - - O - -
+                LINK - - - O -
+//PASTE.UBUNTU-NL.ORG/45888/ - - - - S
+                LOOK - - - - O
+                MINE - - - - X
+               YOURS - - - - X

@@ -1,0 +1,13 @@
+             COMMAND S - - - -
+             NETWORK X - X X -
+              DEVICE X - - - -
+               WLAN0 X - - O -
+              ANYONE - X - - -
+   IFCONFIG/IWCONFIG - - O - -
+                TOOL - - X S -
+              UBUNTU - - X - -
+               FGLRX - - - - X
+              DRIVER - - - - O
+              RADEON - - - - X
+                SHIT - - - - X
+             DISTROS - - - - X

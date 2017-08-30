@@ -1,0 +1,11 @@
+             NTPDATE X - -
+              METHOD X - -
+                AUTO X - -
+                SYNC X - -
+               CLOCK X S -
+             ENTRIES - X -
+        WORKSTATIONS - X -
+          NTP-SERVER - O -
+             MINUTES - X -
+                DAYS - X -
+LIBMYSQLCLIENT15-DEV - - X

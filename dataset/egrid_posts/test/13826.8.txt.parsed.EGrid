@@ -1,0 +1,12 @@
+                USER S - - - -
+              NOBODY X - - - -
+                TEST - - - X -
+                  ~/ - - - O -
+              DBHOST - - - - X
+                  -U - - - - S
+                   < - - - - X
+/HOME/USERNAME/DATA.SQL - - - - S
+                  -P - - - - S
+            PASSWORD - - - - S
+               SPACE - - - - X
+                 ^^^ - - - - O

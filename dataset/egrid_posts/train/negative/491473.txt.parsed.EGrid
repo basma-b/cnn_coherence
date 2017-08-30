@@ -1,0 +1,16 @@
+             PACKAGE S - - -
+        DEPENDENCIES O - - -
+VIRTUALBOX-OSE-MODULES-GENERIC X - - -
+             DEPENDS X - - -
+VIRTUALBOX-OSE-MODULES-2.6.24-20-GENERIC X - - -
+                   E O - - -
+             CONTENT O O - -
+/ETC/APT/SOURCES.LIST X X - -
+            PSATEBIN X - - -
+        SOURCES.LIST O O - -
+            PASTEBIN - X - -
+                TEXT - X - -
+              EDITOR - X - -
+                THAT - - O -
+              UPDATE - - - O
+                  MO - - - X

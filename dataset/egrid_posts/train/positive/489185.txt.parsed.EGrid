@@ -1,0 +1,10 @@
+           LIBRARIES X X - O - - - - X S
+              SOCKET X X - - - - - - - -
+             PROGRAM O O O - - - - - - O
+                   C X X - - - - - - - -
+                  .. X X - - - - - - - -
+             WINDOWS - - X - - - - - - -
+               LINUX - - X - X - - - - -
+                CASE - - - - X - - - - -
+               GUESS - - - - X - - - - -
+             DEFAULT - - - - - - - - X -

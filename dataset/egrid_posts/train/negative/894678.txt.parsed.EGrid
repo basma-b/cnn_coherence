@@ -1,0 +1,11 @@
+             COMMAND X - - - X -
+                   ~ X X - - O -
+                   * - X S - X -
+            WILDCARD - - O - - -
+            ANYTHING - - - X O -
+              DELETE - - - - X -
+           DIRECTORY - - - - X -
+            MAKEFILE - - - - X -
+           FILENAMES - - - - O -
+          EVERYTHING - - - - O -
+              STATUS - - - - - O

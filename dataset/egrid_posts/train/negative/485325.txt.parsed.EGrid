@@ -1,0 +1,5 @@
+              MODULE X - -
+       SND_USB_AUDIO X - -
+                LOAD X - -
+/ETC/MODPROBE.D/BLACKLIST- - X -
+                   * - X -

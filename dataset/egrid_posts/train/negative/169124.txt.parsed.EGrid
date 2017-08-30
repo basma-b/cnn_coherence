@@ -1,0 +1,14 @@
+         PERMISSIONS X - - - -
+               MOUNT X - - - -
+              FOLDER X - - - -
+                 MAN - X - - -
+               CHMOD - X - - -
+               CHOWN - X - - -
+                  GO - - O - -
+                TERM - - X - -
+           BUILD-DEP - - - S -
+             PACKAGE - - - O -
+            ARGUMENT - - - O -
+                 ONE - - - - O
+               CLICK - - - - X
+             TORRENT - - - - O

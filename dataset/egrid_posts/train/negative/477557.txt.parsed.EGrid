@@ -1,0 +1,23 @@
+                CARD X S - S - - - - -
+                 MBR X O - - - - - - -
+                THAT - - - S - - - - O
+                  SD - - - X - - - - -
+            BOOTABLE - - - O - - - - -
+                  DD - - - X - - - - -
+IF=/USR/LIB/SYSLINUX/MBR.BIN - - - X - - - - -
+             OF=SDA1 - - - S - - - - -
+                FILE - - - O - - - - -
+              CAMERA - - - X - - - - -
+           PARTITION - - - O - - - - -
+            ANYTHING - - - - O - - - -
+               THERE - - - - - X - - -
+             COMMAND - - - - - X - - -
+              FORMAT - - - - - X - - -
+               ~ROOT - - - - - - - S -
+             NOTHING - - - - - - - X -
+   /VAR/LOG/MESSAGES - - - - - - - X -
+              SYSLOG - - - - - - - X -
+                WORK - - - - - - - - X
+               GCONF - - - - - - - - S
+             PROBLEM - - - - - - - - O
+              UPDATE - - - - - - - - X

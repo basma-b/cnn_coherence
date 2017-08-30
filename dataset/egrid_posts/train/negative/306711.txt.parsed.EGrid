@@ -1,0 +1,19 @@
+                BOTH S - - - -
+                  EM X - - - -
+                GRUB O X - X -
+                 MBR X - - - -
+             PROBLEM - S - - -
+              GRUBIS - X - - -
+                MESS - S - - -
+                   / - X - - -
+                ROOT - O - - -
+               HD0,0 - X - - -
+               SETUP - X - - -
+                 HD0 - X - - -
+             COMMAND - S - - -
+                  .. - X - - -
+                THAT - - - S -
+               DRIVE - - - X -
+           PARTITION - - - X -
+               /BOOT - - - X -
+GNOME-SESSION-PROPERTIES - - - - X

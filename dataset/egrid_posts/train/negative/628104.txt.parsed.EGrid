@@ -1,0 +1,15 @@
+             SECTION S - - -
+           IRCD.CONF S - - -
+                PRIV O - - -
+                USER X - S -
+                  .. X - - -
+            USERNAME O - - -
+            OPERATOR X - - -
+                  OP O - X -
+              O-LINE X - - -
+            FUNCTION O - O -
+            NICKSERV - - O -
+         INFORMATION - - O -
+            CHANSERV - - X -
+         PRIVILIDGES - - O -
+                BOOT - - - O

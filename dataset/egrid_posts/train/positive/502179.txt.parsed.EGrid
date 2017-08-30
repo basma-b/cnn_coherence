@@ -1,0 +1,13 @@
+             COMMAND X - - - - - -
+                LINE X - - - - - -
+            ETHERNET S - - - - - -
+             GIGABIT X - - - - - -
+             100MBIT X - - - - - -
+            IFCONFIG - S X - - - -
+               SPEED - - X - - - -
+               THING - - S - - - -
+               CABLE - - X - - - -
+                TYPE - - O - - - -
+                THAT - - - O - - -
+              OUTPUT - - - - O - -
+               FIELD - - - - - X X

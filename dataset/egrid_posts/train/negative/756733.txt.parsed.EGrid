@@ -1,0 +1,12 @@
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES O -
+                FILE S -
+75-PERSISTENT-NET-GENERATOR.RULES X -
+              SYSTEM X -
+/LIB/UDEV/RULES.D/75-PERSISTENT-NET-GENERATOR.RULES S -
+             4.2.2.1 - O
+             COMCAST - X
+                 DNS - X
+              SERVER - O
+                WORK - O
+                  PC - X
+             MACHINE - X

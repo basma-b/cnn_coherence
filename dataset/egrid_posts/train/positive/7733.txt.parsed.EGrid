@@ -1,0 +1,15 @@
+           PARTITION O - - - - -
+                  .. X - - - - O
+            COMPUTER - O - - - -
+                   > - X - - - -
+                DISK - X - - - -
+          FILESYSTEM - X - - - -
+      MNT/MULTIMEDIA - S - - - -
+                FILE - X - - - -
+                COPY - O - - - -
+             MINUTES - X - - - -
+          EVERYTHING - - - S - -
+CDROM-FLOPPY-FILESYSTEM - - - - X -
+                USER - - - - - X
+               GROUP - - - - - S
+     /MNT/MULTIMEDIA - - - - - S

@@ -1,0 +1,12 @@
+             NETWORK X - S -
+       CONFIGURATION X - - -
+               11.04 X - - -
+              CHANGE O - - -
+/ETC/NETWORK/INTERFACES X - - -
+/ETC/INIT.D/NETWORKING - O - -
+                SUDO - - X -
+             SERVICE - - X -
+            INSTANCE - - S -
+                THIS - - O -
+ /ETC/INIT.D/NETWORK - - S -
+           DEPRECATE - - - O

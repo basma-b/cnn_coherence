@@ -1,0 +1,12 @@
+               MOUNT S - - - - -
+                FILE O O - - - -
+               FSTAB X X - - - -
+               IMAGE - X - - O -
+               THERE - - X - - -
+             PROGRAM - - X - - -
+             PROCESS - - O - - -
+                ROOT - - - X - -
+                DISK - - - - X -
+                  .. - - - - - X
+                 USE - - - - - X
+           PARTITION - - - - - X

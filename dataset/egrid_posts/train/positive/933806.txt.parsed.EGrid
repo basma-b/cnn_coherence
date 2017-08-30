@@ -1,0 +1,20 @@
+             PROBLEM O - - - -
+           BROADCAST - X - - -
+                ETH0 - O - - -
+             SECTION - S - - -
+/ETC/NETWORK/INTERFACES - X - - -
+               BCAST - S - - -
+              ROUTER - X - - -
+             ADDRESS - X - - -
+               SHEEP - - X - -
+            IFCONFIG - - O - -
+             COMMAND - - X - -
+                LINE - - X - -
+                DHCP - - X - -
+              NUMBER - - O O -
+                  .. - - - X -
+                 USE - - - O -
+             NETWORK - - - X -
+            FUNCTION - - - X -
+              CONFIG - - - - X
+                BOOT - - - - X

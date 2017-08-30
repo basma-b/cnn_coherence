@@ -1,0 +1,13 @@
+                GRUB S - -
+           PARTITION - X -
+              MASTER - X -
+                BOOT - X -
+              RECORD - X -
+             CONFIGS - S -
+           /ETC/GRUB - X -
+            BINARIES - X -
+               /BOOT - X -
+                DISK - X -
+            HARDDISK - X -
+            QUESTION - - O
+           MEDIDUNTU - - X

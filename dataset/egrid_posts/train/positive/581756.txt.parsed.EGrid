@@ -1,0 +1,8 @@
+                SUDO X - -
+             APT-GET X - -
+              UPDATE X - -
+          AUTOREMOVE X S -
+                THIS - O -
+             PACKAGE - O O
+           DOWNGRADE - X -
+LINUX-HEADERS-2.6.28-11-GENERIC - - O

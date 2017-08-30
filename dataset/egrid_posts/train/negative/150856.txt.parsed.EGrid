@@ -1,0 +1,22 @@
+          PROTECTION X - -
+             POSTFIX S - -
+             HACKERS O - -
+               WHATS O - -
+             COMMAND X - -
+                LINE X - -
+              KERNEL X - -
+             HEADERS X - -
+             APT-GET S - -
+                  -R X - -
+            MYKERNEL X - -
+LINUX-HEADERS-2.6.12-10-686 O - -
+                -SMP X - -
+                 END X - -
+                  OK - S -
+                SUDO - - S
+                 GUI - - X
+             EDITORS - - S
+              GKSUDO - - X
+                GVIM - - X
+          /ETC/FSTAB - - S
+            BEHAVIOR - - O

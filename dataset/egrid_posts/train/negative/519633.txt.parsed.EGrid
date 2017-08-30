@@ -1,0 +1,24 @@
+                 USE X - - - - - - -
+              SERVER S - - - - - - -
+  /PATH/TO/TARGETDIR O - - - - - - -
+                MOVE X - - - - - - -
+                FILE X - - - - - - -
+                DIRS O - - - - - - -
+                TREE - S - - - - - -
+         DESTINATION - X - - - - - -
+                PATH - O - - - - - -
+                  MV - - X - - - - -
+                ROOT - - X - - - - -
+                SUDO - - X - - - - -
+                IFUP - - X - - - - -
+                  LO - - S O - - - -
+            LOOPBACK - - S - - - - -
+             COULDNT - - - S - - - -
+          INTERFACES - - - S - - - -
+/ETC/NETWORK/INTERFACES - - - O - - - -
+             NOTHING - - - - S - - -
+                TYPE - - - - - X - X
+               LSPCI - - - - - O - -
+                LINE - - - - - - O -
+            WIRELESS - - - - - - - X
+                CARD - - - - - - - X

@@ -1,0 +1,26 @@
+                 ALL O - - -
+           GID=USERS X - X -
+                USER X - O -
+               GROUP X - - -
+              ACCESS - X - -
+                 SMB - X - -
+               SHARE - X - -
+                 NAS - X O -
+//HELP.UBUNTU.COM/COMMUNITY/ADDUSERSHOWTO - - S -
+               THATS - - O -
+             MACHINE - - X -
+               FSTAB - - X -
+                FILE - - O -
+                LINE - - O -
+       /MEDIA/200GIG - - S -
+                AUTO - - X -
+      IOCHARSET=UTF8 - - X -
+      UID=EVILSHERPA - - X -
+CREDENTIALS=/ROOT/.CIFSCREDENTIALS - - S -
+                 WAY - - O -
+              BOTTOM - - X -
+             USERMOD - - X -
+                  -G - - S -
+                   > - - O -
+                  IM - - - S
+                TAHT - - - X

@@ -1,0 +1,26 @@
+                 WAY X - - - - - - - - - - - - - -
+             APT-GET S - - - - - - - - - - - - - -
+             PHP5-GD O - - - - - - - - - - - - - -
+              EFFECT O - - - - - - - - - - - - - -
+                THAT - O - - - - - X - - - - - - -
+             PACKAGE - X - - - - - - - - S - - - -
+             MANAGER - X - - - - - - - - - - - - -
+                FILE - - - O - - - - - - - - O - -
+                HELP - - - - O - - - - - - - - - -
+                SUDO - - - - - - O - - - - - - X -
+                 BUG - - - - - - - - O - - - - - -
+        JAVA-PACKAGE - - - - - - - - X - - S - - -
+                HTTP - - - - - - - - - X - - - - -
+//PACKAGES.DEBIAN.ORG/CGI-BIN/SEARCH_PACKAGES.PL - - - - - - - - - X - - - - -
+               THERE - - - - - - - - - - X - - - -
+      SEARCHON=NAMES - - - - - - - - - - X - - - -
+         VERSION=ALL - - - - - - - - - - X - - - -
+             EXACT=1 - - - - - - - - - - X - - - -
+KEYWORDS=JAVA-PACKAGE - - - - - - - - - - X - - - -
+                   < - - - - - - - - - - X - - - -
+                   > - - - - - - - - - - X - - - -
+                .DEB - - - - - - - - - - X - - - -
+                 ONE - - - - - - - - - - O - - - -
+                 JDK - - - - - - - - - - - O - - -
+                ROOT - - - - - - - - - - - - X - -
+       THAT-FILE.BIN - - - - - - - - - - - - - X -

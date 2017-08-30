@@ -1,0 +1,12 @@
+                   * X - - -
+                 MAP X - - -
+                  IP O - - -
+             NETWORK X - - -
+              STRING X - - -
+       192.168.1.101 O - - -
+           WEBSERVER O O - -
+                TYPE S - - -
+               CHECK X - - -
+          /ETC/HOSTS S - - -
+                HOST S - - -
+                 ALL - - - O

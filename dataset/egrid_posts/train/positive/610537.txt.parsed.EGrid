@@ -1,0 +1,13 @@
+             PROGRAM X X - S
+             COMMAND X X - -
+                LINE X X - -
+                 USE - O - -
+             APT-GET - O - -
+                 GUI - O - -
+                SUDO - X - -
+              MYPROG - S - -
+              SEARCH - X - -
+        CAPABILITIES - O - -
+                  OH - X - -
+                ICON - - - O
+            TERMINAL - - - X

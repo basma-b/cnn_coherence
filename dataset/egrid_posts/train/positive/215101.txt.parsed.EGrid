@@ -1,0 +1,11 @@
+ /ETC/INIT.D/APACHE2 S - - S -
+             NOTHING O - - - X
+                  PS - X - X -
+                 AUX - S - - -
+              APACHE - X - X X
+             PROCESS - X - - X
+                 RUN - O - - -
+               ERROR - - X - -
+                 LOG - - S - -
+                THIS - - X - -
+                   | - - - X -

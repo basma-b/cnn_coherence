@@ -1,0 +1,12 @@
+               WHICH S -
+                 IPC X -
+           MECHANISM O -
+             CONTROL X -
+             MESSAGE O -
+            PROCESSE X -
+                NAME X -
+                PIPE X -
+              FOLLOW - O
+            TERMINAL - X
+                 CAT - X
+~/.PULSE/CLIENT.CONF - X

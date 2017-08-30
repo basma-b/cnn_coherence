@@ -1,0 +1,14 @@
+         PERMISSIONS X - - -
+                 CLI X - - -
+               USER1 X - - -
+                SUDO X - S -
+                USER O - - -
+                SAME X - - -
+                MESS - X - -
+              THINGS - O - -
+                FILE - - O -
+           PARTIMAGE - - - S
+                  .. - - - O
+                DISK - - - O
+                CANT - - - S
+         DESTINATION - - - O

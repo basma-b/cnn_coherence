@@ -1,0 +1,21 @@
+               HTTPS X X - - - -
+//HELP.UBUNTU.COM/COMMUNITY/LDAPCLIENTAUTHENTICATION X - - - - -
+            QUESTION O - - - - -
+      AUTHENTICATION X - - - - -
+               SETUP X - - - - -
+              FILTER O - - - - -
+        POSIXACCOUNT X - - - - -
+                THAT - S - - - -
+          UNDERSTAND - O - - - -
+          DIFFERENCE - O - - - -
+       ROOTDN/ROOTPW - X - - - -
+                USER - O O - - -
+                LDAP - X - - - -
+                TREE - X - - - -
+             SECTION - X - - - -
+          SLAPD.CONF - - X - - -
+   ROOTDN/ROOTPASSWD - - S - - -
+                LDIF - - - X - -
+               ENTRY - - - S - -
+           PASSWORDS - - - - S -
+           REDUNDANT - - - - - X

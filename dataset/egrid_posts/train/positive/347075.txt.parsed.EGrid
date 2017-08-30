@@ -1,0 +1,14 @@
+             COMMAND O - - - - - - -
+             APT-GET X S - - - - - -
+              SOURCE O - - - - - - -
+                SUDO - X - - - - - -
+            UNIVERSE - X O - - - - -
+               THING - - - S - - - -
+           COMPLIANT - - - X - - - -
+              SCRIPT - - - O - - - S
+                BOOT - - - X - - - -
+       /ETC/RC.LOCAL - - - - X - - -
+                THAT - - - - - S X -
+              UPDATE - - - - - - - O
+                HERE - - - - - - - X
+            RC.LOCAL - - - - - - - X

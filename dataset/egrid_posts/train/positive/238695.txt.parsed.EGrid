@@ -1,0 +1,17 @@
+            WIRELESS X - - - - - -
+            PROBLEMS O - - - - - -
+             NETWORK - O - - - - -
+              IWLIST - X - - - - -
+          CONNECTION - - X - - - -
+          PROPERTIES - - X - - - -
+                 GUI - - O - - - -
+/ETC/NETWORK/INTERFACES - - O - - - -
+               BRINE - - X - - - -
+           INTERFACE - - O - - - -
+                IFUP - - X - - - -
+            IWCONFIG - - - S - - -
+         NETWORKNAME - - - O - - -
+              DOESNT - - - S - - -
+           IPADDRESS - - - O - - -
+                  IP - - - - - O -
+                 WAY - - - - - - X

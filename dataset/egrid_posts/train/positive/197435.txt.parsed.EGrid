@@ -1,0 +1,11 @@
+          DEPENDENCY X - - - - -
+              ERRORS O - - - - -
+              SEARCH O X - - - -
+             PACKAGE X - - - - -
+           APT-CACHE - X - - - -
+             LIBJPEG - X - - - O
+                 MSG - - O - - -
+          CONNECTION - - - O - X
+             MESSAGE - - - X - -
+                JPEG - - - - - X
+             LIBRARY - - - - - X

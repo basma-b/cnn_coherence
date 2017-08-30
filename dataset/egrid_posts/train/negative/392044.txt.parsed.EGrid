@@ -1,0 +1,13 @@
+                FILE O X - -
+              SERVER X - - -
+             NETWORK - X - -
+               SHARE - X - -
+            PROTOCOL - O - -
+                 NFS - X - -
+            SMB/CIFS - X - -
+              KERNEL - - S -
+              MEMORY - - X -
+          MANAGEMENT - - X -
+           SUBSYSTEM - - O -
+                 MEM - - - O
+             SYSTEMS - - - X

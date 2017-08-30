@@ -1,0 +1,22 @@
+            QUESTION X - - - - - - - - - -
+            TERMINAL X - - - - - - - - - -
+             SERVICE X - - - - - - - - - -
+              CLIENT O - - - - - - - - - -
+             MACHINE O - - X S - - - - - -
+                  IP O - - - - - - - - - -
+         CONNECTIONS O - - - - - - - - - -
+          CONNECTION - X - - - - - - - - -
+              REFUSE - X - - - - - - - - -
+               ERROR - O - - - - - - - - -
+            FIREWALL - - - X - - - X - - -
+                 LAN - - - - - X - - - - -
+            INTERNET - - - - - - X - - - -
+                 BOX - - - - - - - S - - -
+                PORT - - - - - - - - O - -
+     FIREWALL/ROUTER - - - - - - - - S - -
+              ROUTER - - - - - - - - X - -
+               GUIDE - - - - - - - - O - -
+                HTTP - - - - - - - - X - -
+//PORTFORWARD.COM/ROUTERS.HTM - - - - - - - - X - -
+                THAT - - - - - - - - - O -
+                DONT - - - - - - - - - S -

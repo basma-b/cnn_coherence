@@ -1,0 +1,33 @@
+                TIME O - - -
+               ERROR X - - -
+LIBHAL_DEVICE_GET_PROPERTY_TYPE X - - -
+ORG.FREEDESKTOP.HAL.NOSUCHDEVICE X - - -
+              DEVICE X - - -
+                  ID X - - -
+/ORG/FREEDESKTOP/HAL/DEVICES/BLOCK_3_6 X - - -
+                  LN X - - -
+                LINK O - - -
+                  GB X - - -
+                DISK X - - -
+                HDB1 X - - -
+           OPERATION S - - -
+           /DEV/HDB1 O - - -
+             WINDOWS S - - -
+                 MAC X - - -
+           PARTITION S - - -
+                BOOT X - - -
+              REBOOT X - - -
+                  OK O - - -
+                NTFS X - - -
+                   + S - - -
+              DANGER X - - -
+                DATA X - - -
+               THERE - - S -
+              SOURCE - - O -
+              DRIVER - - X -
+                 WAY - - O -
+                FILE - - O -
+               DRIVE - - X -
+                NOOB - - - O
+                THIS - - - X
+               THING - - - O

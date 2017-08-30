@@ -1,0 +1,12 @@
+           USB-DRIVE O - - - -
+                SUDO S - - - -
+           /DEV/SDA1 X - - - -
+           /MNT/USB/ O - - - -
+             /MEDIA/ - X - - -
+            ANYTHING - S - - -
+           DIRECTORY - X X - -
+              INSIDE - X - - -
+              /MEDIA - X X - -
+          EVERYTHING - - O - -
+                 YES - - - S -
+             NOTHING - - - - O

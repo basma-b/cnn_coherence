@@ -1,0 +1,9 @@
+           PARTITION O - -
+           /DEV/SDA1 S - -
+          BOOTLOADER O - -
+              FALCON O - -
+                   / X - -
+           /DEV/SDA2 S - -
+                SWAP X - -
+            /DEV/SDA X X -
+                THAT - - O

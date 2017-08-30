@@ -1,0 +1,23 @@
+                WLAN - O -
+             COMMAND - X -
+            IWCONFIG - X -
+               WLAN1 - S -
+              ACCESS - X -
+               POINT - X -
+             NETWORK - X -
+             MANAGER - S -
+                 APS - O -
+            NETWROKS - X -
+                  .. - O -
+           REFERENCE - O -
+               WLAN0 - X -
+/ETC/NETWORK/INTERFACES - X -
+          INTERFACES - X -
+                FILE - S X
+                AUTO - X -
+                  LO - S -
+                INET - X -
+            LOOPBACK - O -
+            NAUTILUS - - S
+                NAME - - O
+             BROWSER - - X

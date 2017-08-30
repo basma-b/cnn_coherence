@@ -1,0 +1,11 @@
+            ETHERNET X X - - - -
+                BOOT X - - - - -
+                KIND - - X - - -
+              DEVICE - - X - - -
+                BIOS - - - X - -
+               DMESG - - - - O -
+                TYPE - - - - X -
+            MODPROBE - - - - O -
+                THIS - - - - O -
+  /ETC/MODPROBE.CONF - - - - X -
+                FILE - - - - - O

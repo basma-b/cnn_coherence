@@ -1,0 +1,14 @@
+           DIRECTORY X X S - -
+           WRITEABLE X X - - -
+               CHMOD - - S - -
+                   < - - X - -
+                   > - - O - -
+                FILE - - X - -
+               PARTY - - X - -
+               REPOS - - S - -
+                WINE - - X - -
+              TARGET - - O - -
+        DEPENDENCIES - - X - -
+             WHATNOT - - X - -
+                  CD - - - - X
+                 HDD - - - - X

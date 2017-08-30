@@ -1,0 +1,8 @@
+           FORCE-ALL S - - - -
+             COMMAND X - - - -
+                CASE - X - - -
+               BREAK - X - - -
+             PACKAGE - X - - -
+              KERNEL - X - - -
+                  -F - - S - -
+                  -R - - - - X

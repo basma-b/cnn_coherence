@@ -1,0 +1,13 @@
+           DIRECTORY - X - - - - O
+            EVERYONE - S - - - - -
+               CHMOD - - S - - - -
+               GROUP - - X O - - S
+                WORK - - X - - - -
+             SUBDIRS - - O - - - -
+               SHARE - - - X - - -
+      SUBDIRECTORIES - - - S - - -
+              ANYONE - - - X - - -
+            SOMEBODY - - - X - - -
+                  -R - - - O - - -
+                USER - - - X - - -
+                  .. - - - O - - -

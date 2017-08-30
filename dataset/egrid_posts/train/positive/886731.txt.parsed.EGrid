@@ -1,0 +1,27 @@
+             PROBLEM O - - - - - - -
+        DHCP3-SERVER X - - O - - O -
+                TYPE X X - - - - - -
+/ETC/INIT.D/DHCP3-SERVER S - X - - - - -
+                THAT - O - - - - - -
+              OUTPUT - X - - - - - -
+                BASH - - X - - - - -
+                FILE - - X S S O O X
+           DIRECTORY - - X X S O S -
+            MTLAPTOP - - X - X - O -
+                  LS - - - S X - - -
+               DHCP3 - - - X - - - -
+             APT-GET - - - O - - - -
+                SAME - - - O - - - -
+                   * - - - - O - - -
+                ROOT - - - - X - S -
+         UPDATE-RC.D - - - - X - - -
+         DHCP-SERVER - - - - X - - -
+             DEFAULT - - - - O - - -
+/ETC/INIT.D/DHCP-SERVER - - - - X - - -
+               REPLY - - - - S - - -
+       CRAIGBASS1976 - - - - X - - -
+               THERE - - - - - S - -
+                 LOL - - - - - - X -
+DHCLIENT-ENTER-HOOKS.D - - - - - - S -
+    DPKG-RECONFIGURE - - - - - - X -
+             NOTHING - - - - - - O -

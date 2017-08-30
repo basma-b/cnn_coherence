@@ -1,0 +1,12 @@
+              DRIVER X - - - -
+                LOAD X - - - -
+                  -V - O - - -
+            ETHERNET - X - - -
+          CONTROLLER - X - - -
+             8139TOO - X - - -
+                BOOT - - X - -
+                  CD - - X - -
+           PARTITION - - - S -
+                  HD - - - X -
+                 USB - - - X X
+                GRUB - - - - X

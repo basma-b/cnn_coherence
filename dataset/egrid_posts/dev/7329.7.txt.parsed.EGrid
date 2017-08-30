@@ -1,0 +1,17 @@
+            LOCATION - X - - - -
+                TEXT - X - - - -
+                   | - S - - - -
+             DEFAULT - X X - - -
+                 X11 - X - - - -
+              CONFIG - X - - - -
+                TIME - - X - - -
+                CANT - - X - - -
+            /ETC/X11 - - X - - -
+  /ETC/X11/XORG.CONF - - O - - -
+                   X - - S - - -
+                MOST - - O - - -
+                 ONE - - - O - -
+             SECTION - - - X - -
+                HOME - - - - X -
+             NETWORK - - - - X -
+            SECURITY - - - - - S

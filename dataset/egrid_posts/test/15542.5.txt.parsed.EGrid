@@ -1,0 +1,14 @@
+                ISNT S - -
+             DEFAULT X - -
+               AFAIK X - -
+             PROBLEM X - -
+                SSHD - S -
+                  .. - O -
+            OPENSSHD - O -
+              DAEMON - S -
+                  OK - - X
+                BOOT - - X
+            MODPROBE - - X
+         NDISWRAPPER - - S
+                LOAD - - X
+                WORK - - X

@@ -1,0 +1,24 @@
+               THERE X - - - - - -
+                   / X - - - - - -
+                  RW X - - - - - -
+                BOOT X - - - - - -
+                  RO X - - - - - -
+              ERRORS X - - - - - -
+             REMOUNT - S - - - - -
+                SUDO - S - - - - -
+               BLOCK - X - - - - -
+              DEVICE - O - - - - -
+          FILESYSTEM - O - - - - -
+               CHECK - O - - - - -
+              JAUNTY - - S - - - -
+        REPOSITORIES - - S - - - -
+//HELP.UBUNTU.COM/COMMUNITY/EOLUPGRADES - - X - - - -
+             PACKAGE - - - S - - -
+                TEST - - - X - - -
+              DAPPER - - - X - - -
+             LEXMARK - - - - S - -
+               LASER - - - - - X -
+             PRINTER - - - - - S -
+                FILE - - - - - X -
+              INKJET - - - - - S -
+                SUCK - - - - - - X

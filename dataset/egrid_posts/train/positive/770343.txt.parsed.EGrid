@@ -1,0 +1,12 @@
+                  DO X - - -
+               GRUB2 X - X -
+              CUSTOM X - - -
+                MENU X - - -
+               ENTRY O - - -
+             SOMEONE - X - -
+                BOOT - X - -
+             WINDOWS - O - -
+                  HD - X - -
+            MENU.LST - - S -
+ /BOOT/GRUB/GRUB.CFG - - O -
+         /ETC/GRUB.D - - - X

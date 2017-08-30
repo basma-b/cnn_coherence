@@ -1,0 +1,23 @@
+                TIME O -
+              UBUNTU X -
+              SERVER S -
+                 DNS S -
+/ETC/NETWORK/INTERFACES X -
+         RESOLF.CONF S -
+         RESOLV.CONF O -
+                HAND X -
+         NAMESERVERS X -
+                 SOM X -
+                SAME O -
+              CENTOS X -
+                 BOX X -
+             NETWORK X -
+             MANAGER O -
+                FILE X -
+/ETC/SYSCONFIG/NETWORKING/DEVICES/IFCFG-ETH0 X -
+               MOUSE - X
+               FLASH - X
+               DRIVE - X
+              WEBCAM - X
+              TABLET - X
+          MP3-PLAYER - O

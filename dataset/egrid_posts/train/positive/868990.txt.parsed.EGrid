@@ -1,0 +1,25 @@
+              SERVER X - - - -
+             NETWORK X X - - -
+                DHCP O S - - -
+                THAT - X - - -
+               SETUP - X - - -
+                THIS - S - - -
+/ETC/NETWORK/INTERFACES - S - - -
+                LINE - O - - -
+               IFACE - S - - -
+                ETH0 - O S O -
+                INET - X - - -
+                 MAN - X - - -
+          INTERFACES - X - O -
+            EXAMPLES - X - - -
+                AUTO - X - - -
+                IFUP - - X - -
+           INTERFACE - - X - -
+             ADDRESS - - O - -
+            IFCONFIG - - - O -
+                ETH1 - - - X -
+               DUNNO - - - X -
+                CALL - - - X -
+                 ONE - - - - X
+              SYSTEM - - - - O
+               DRIVE - - - - X

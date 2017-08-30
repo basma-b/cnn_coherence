@@ -1,0 +1,21 @@
+               GUEST X X - -
+           ADDITIONS S - - -
+          VIRTUALBOX X - - -
+               CLICK - S - -
+                 ISO - X - -
+            SHUTDOWN - O - -
+                  CD - S - -
+              INSERT - O - -
+                BOOT - X - -
+               POWER - O - -
+              SYSTEM - X - -
+              SCRIPT - O - -
+                THAT - - S -
+/ETC/APT/SOURCES.LIST - - - O
+                TEXT - - - X
+                HTTP - - - X
+//PASTE.UBUNTU.COM/1135575/ - - - S
+                SUDO - - - X
+             APT-GET - - - X
+              UPDATE - - - O
+        DIST-UPGRADE - - - X

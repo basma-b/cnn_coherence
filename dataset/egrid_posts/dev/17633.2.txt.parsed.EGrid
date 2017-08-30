@@ -1,0 +1,25 @@
+            ETHERNET X - - - - - -
+                CHIP X - - - - - -
+           RTL-8139D - X - - - - -
+             8139TOO - - X - - - -
+             DRIVERS - - O - - - -
+              DEBIAN - - - X - - -
+           INSTALLER - - - S - - -
+              UBUNTU - - - X - - -
+                 ALT - - - X - - -
+             XUBUNTU - - - - S - -
+                  CD - - - - X - -
+          INSTALLERS - - - - S - -
+               SOUND - - - - O - -
+                 BUG - - - - S - -
+                MINI - - - - X - -
+           SOMETHING - - - - - - O
+                LINE - - - - - - X
+                SUDO - - - - - - X
+                  -I - - - - - - X
+                   > - - - - - - X
+/ETC/WPA_SUPPLICANT.CONF - - - - - - X
+         GROUP=WHEEL - - - - - - X
+              -DWEXT - - - - - - X
+                  -C - - - - - - X
+              DHCPCD - - - - - - X

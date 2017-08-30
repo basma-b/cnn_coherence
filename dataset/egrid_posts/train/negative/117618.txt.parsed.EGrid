@@ -1,0 +1,12 @@
+               THERE X - -
+                 WAY X - -
+     FILEPERMISSIONS O - -
+               GROUP X - -
+               USERS X X -
+              FOLDER X - -
+                FILE X - -
+                SUDO - S -
+       /PATHTOFOLDER - O -
+              NOBODY - X -
+               HTTPS - - O
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/ECRYPTFS-UTILS/+BUG/842647 - - X

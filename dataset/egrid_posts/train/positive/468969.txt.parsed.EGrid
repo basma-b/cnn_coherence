@@ -1,0 +1,13 @@
+              SYNTAX S - - - - - - -
+            IWCONFIG X - S - - X - -
+           INTERFACE X - - - - S - -
+               ESSID S - X - - - - -
+      NNN|ANY|ON|OFF X - - - - - - -
+                ETH1 - - X - - - - -
+                THEN - - X - - - - -
+             DEFAULT - - O - - - - -
+                THIS - - X - - - - -
+                SUDO - - - - - S - -
+                TYPE - - - - - X - -
+                 ETC - - - - - - X -
+             COMMAND - - - - - - - X

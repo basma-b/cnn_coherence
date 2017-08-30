@@ -1,0 +1,14 @@
+              SERVER X - - - - - - -
+  DO-RELEASE-UPGRADE - O - - - - - -
+               SHELL - S - - - - - -
+              APACHE - X - - - - - -
+              CONFIG - X - - - - - -
+              CTRL-C - O - - - - - -
+              UPDATE - - - X - - - -
+                LOCK - - - - X - - -
+  /VAR/LIB/DPKG/LOCK - - - - O - - -
+          SCREENSHOT - - - - - - S -
+                MUCH - - - - - - X -
+              DRIVER - - - - - - - X
+               ISSUE - - - - - - - O
+          SCREENSIZE - - - - - - - O

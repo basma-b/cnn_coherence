@@ -1,0 +1,16 @@
+./REALPLAYER10GOLD.BIN S - -
+               ERROR S - -
+                LOAD X - -
+               SHARE X - -
+           LIBRARIES X - -
+      LIBSTDC++.SO.5 S - -
+              OBJECT X - -
+                FILE O - -
+           DIRECTORY S - -
+                HELP S - -
+            TERMINAL X - -
+                SUDO X - -
+             APT-GET S - -
+          LIBSTDC++5 O - -
+                LINK - - X
+                 ^^^ - - X

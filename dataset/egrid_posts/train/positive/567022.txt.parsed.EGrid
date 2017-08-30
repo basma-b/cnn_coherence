@@ -1,0 +1,26 @@
+             PROBLEM S S - - - -
+               STORE O - - - - -
+                FILE S - - - - -
+                CIFS S - - - - -
+               SHARE O - - - - -
+      NOBODY/NOGROUP X - - - - -
+               UMASK X - - - - -
+          OPENOFFICE S - - - - -
+                THIS X X - - - -
+              REPORT - X - - - -
+                 NEW - S - - - -
+              DRIVER - O - - - -
+            GRAPHICS - X - - - -
+                CARD - X - X - -
+                USER - O - - - -
+                   X - X - - - -
+         PROMPT/INFO - O - - - -
+             DRIVERS - S - - - -
+                 CLI - X - - - -
+             PACKAGE - - O - - -
+             SYSTEMS - - X - - -
+                   U - - - X - -
+              NVIDIA - - - X - -
+                SUDO - - - - - X
+             APT-GET - - - - - S
+LINUX-RESTRICTED-MODULES - - - - - O

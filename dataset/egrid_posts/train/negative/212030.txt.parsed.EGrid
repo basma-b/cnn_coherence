@@ -1,0 +1,16 @@
+                FILE O - - - - -
+           SOMETHING X - - - - -
+          DEPENDENCY X - - - - -
+             PROBLEM S X - - - -
+                 WAY X - - - - -
+                ROOT - X - - - -
+               CAUSE - O - - - -
+    LIBFREETYPE6-DEV - - S - - -
+             DEPENDS - - S - - -
+        LIBFREETYPE6 - - S - - -
+     2.1.10-1UBUNTU2 - - X - - -
+   2.1.10-1UBUNTU2.2 - - S - - -
+              PEOPLE - - X - - -
+        REPOSITORIES - - - X - -
+/ETC/APT/SOURCES.LIST - - - X - -
+                  NP - - - - - X

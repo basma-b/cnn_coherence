@@ -1,0 +1,9 @@
+             PACKAGE X - -
+              SCRIPT S X -
+                DPKG - S -
+          FORCE-HELP - S -
+               PURGE - X -
+           FORCE-ALL - O -
+           PRECONFIG - X -
+                TUNE - - X
+             PROBLEM - - O

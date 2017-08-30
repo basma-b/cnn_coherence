@@ -1,0 +1,13 @@
+              GO-RWX S - - - -
+             COMMAND O - X - -
+               CHOWN - X - - -
+               CHMOD - O - - -
+                SUDO - - S S -
+              /HOME/ - - X - -
+                   * - - O O -
+               ABOVE - - S - -
+                   / - - X - -
+                SOME - - O - -
+                IIRC - - O - -
+                THAT - - - - S
+                LINK - - - - O

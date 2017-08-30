@@ -1,0 +1,16 @@
+                 ALL O - - - - -
+           PARTITION X - - - - -
+                EXT3 X - - - - -
+               START X - - - - -
+          /ETC/FSTAB - S - - - -
+                  K. - X - - - -
+             DEFAULT - X - - - -
+           UMASK=007 - X - - - -
+           SOMETHING - - O - - -
+               THERE - - - X - -
+                 TAB - - - X - -
+               SPACE - - - X - -
+             ENTRIES - - - X - -
+                TABS - - - - X -
+                AUTO - - - - - O
+             OPTIONS - - - - - X

@@ -1,0 +1,11 @@
+                DPKG X - - - -
+         RECONFIGURE X - - - -
+             XFREE86 X - - - -
+                 USE - - X - -
+        CHECKINSTALL - - X - -
+             INSTALL - - O - -
+                 DEB - - X - -
+               0.8.1 - - X - -
+             VERSION - - X - -
+                TOOL - - - - O
+             PACKAGE - - - - X

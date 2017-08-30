@@ -1,0 +1,11 @@
+             COMMAND X - - - -
+             ROUTERS X - - - -
+                  IP X - - - -
+             GATEWAY - O - - -
+           SOMETHING - - X - -
+            IPCONFIG - - X - -
+               LINUX - - X - -
+               ROUTE - - - X -
+             NETSTAT - - - X -
+                  -R - - - X -
+               ERROR - - - - X

@@ -1,0 +1,14 @@
+    MYSQL-SERVER-5.0 O - - -
+               ERROR O - - -
+/VAR/LIB/DPKG/INFO/MYSQL-SERVER-5.0.POSTINST O - - -
+                LINE O - - -
+/ETC/MYSQL/CONF.D/OLD_PASSWORDS.CNF O - - -
+                FILE O - - -
+           DIRECTORY X - - -
+         SUGGESTIONS O - - -
+            UPDATEDB - S - -
+             OPENDNS - - - X
+              CONFIG - - - X
+               ISSUE - - - S
+                THIS - - - X
+               HTTPS - - - O

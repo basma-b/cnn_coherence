@@ -1,0 +1,34 @@
+             SUPPORT - X - - -
+                   > - S - - -
+               ISSUE - O - - -
+                   W - X - - -
+                 GPG - X - - -
+               ERROR - X - - -
+                HTTP - X - - -
+             RELEASE - X - - -
+          SIGNATURES - S - - -
+              BADSIG - S - - -
+    40976EAF437D05B5 - X - - -
+              UBUNTU - X - - -
+             ARCHIVE - X - - -
+           AUTOMATIC - X - - -
+             SIGNING - X - - -
+                 KEY - O - - -
+                   < - X - - -
+           FTPMASTER - S - - -
+           KEYSERVER - X - - -
+                SUDO - X - - -
+             APT-KEY - X - - -
+                 ADV - X - - -
+           RECV-KEYS - X - - -
+KEYSERVER.UBUNTU.COM - X - - -
+  /VAR/LIB/APT/LISTS - O - - -
+              UPDATE - O - - -
+                WANG - X X - -
+                 HIT - - X - -
+              GOOGLE - - X - -
+               HTTPS - - X - -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/UPDATE-MANAGER/+BUG/24061 - - X - -
+               PROXY - - - X X
+                THAT - - - - X
+                 ALL - - - - X

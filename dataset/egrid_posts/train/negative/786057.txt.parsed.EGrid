@@ -1,0 +1,19 @@
+             COMMAND S - -
+               CLICK O - -
+                MINI X - -
+             OPTIONS O - -
+             PSMOUSE X - -
+          PROTO=EXPS S - -
+/ETC/MODPROBE.D/PSMOUSE.MODPROBE O - -
+              ANYONE X - -
+                FILE O - -
+                LOOK O - -
+                 CAT X - -
+                  » S - -
+                LINE S - -
+                MEAN O - -
+                 MMM - - S
+              BASICS - - O
+                  .I - - S
+     NETWORK-MANAGER - - O
+          EVERYTHING - - X

@@ -1,0 +1,14 @@
+             PACKAGE X O O - -
+        DEPENDANCIES O - - - -
+XSERVER-XORG-VIDEO-ALL - S - - -
+               108MB - O - - -
+                DATA - X - - -
+               GLIBC - O - - -
+              PYTHON - O - - -
+                 ETC - O - - -
+                XORF - O - - -
+              UPDATE - - O - S
+             APT-GET - - X - -
+                FILE - - X - -
+        PACKAGE_NAME - - - - O
+           ARGUMENTS - - - - O

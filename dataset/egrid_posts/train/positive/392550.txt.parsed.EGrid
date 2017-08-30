@@ -1,0 +1,22 @@
+             PROBLEM S - - S - -
+              CONFIG O - - - - -
+                GRUB - O O - - -
+LINUX-IMAGE-2.6.22-14-GENERIC - O - - - -
+            APTITUDE - X - - - -
+              KERNEL - X - - - -
+               IMAGE - O - - - -
+                BOOT - X X - - -
+           PARTITION - X - O - -
+             OPTIONS - - O - - -
+                  .. - - X - - -
+               WHOLE - - - O - -
+                 USE - - - O - -
+                 LVM - - - O - -
+                ROOT - - - X - -
+                 USR - - - X - -
+               /BOOT - - - O - -
+               WHATS - - - O - -
+             VERSION - - - X - -
+               XCHAT - - - X - -
+                FISH - - - - - X
+              PLUGIN - - - - - S

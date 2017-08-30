@@ -1,0 +1,16 @@
+          MENUCONFIG S - - - -
+              KERNEL O - - - -
+                 GCC S - - - -
+             VERSION O - - - -
+              HOSTCC X - - - -
+             /BIN/SH X - - - -
+                LINE O - - - -
+             COMMAND S - - - -
+               -LSB- X - - - -
+               -RSB- O - - - -
+              ERREUR S - - - -
+            COMPILER O - - - -
+                 ALL S - - - -
+             PACKAGE X O - - -
+               ERROR O - - - -
+                THAT - X - - -

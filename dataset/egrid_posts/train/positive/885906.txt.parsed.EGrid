@@ -1,0 +1,19 @@
+              CONFIG X - - - - X - -
+              OPTION X - - - X - - -
+              TABLET - O - - - - - -
+                 SSH - X - - - - - -
+              SERVER - S - - - - - -
+                 GUI - O - - - - - -
+                 HMM - X - - - - - -
+              SHOULD - X - - - - - -
+          VNC4SERVER - X X - - - - -
+      TIGHTVNCSERVER - O X - - - - -
+                 EJV - - X - - - - -
+             PACKAGE - - X - - O - -
+                 VNC - - - X - - - -
+                FILE - - - - X - - -
+             CONNFIG - - - - X - - -
+             DEFAULT - - - - - X - -
+                /ETC - - - - - X - -
+                 YES - - - - - - - X
+/ETC/SSH/SSHD_CONFIG - - - - - - - X

@@ -1,0 +1,8 @@
+                BOOT X - X -
+             MESSAGE O - X -
+             STARTUP X - - -
+            DUMPFILE - X - -
+               DMESG - - S -
+                 LOG - - S -
+ /VAR/RUN/DMESG.BOOT - - O -
+               PHAMM - - - O

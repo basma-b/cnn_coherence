@@ -1,0 +1,13 @@
+           DIRECTORY - O - -
+         DEBOOTSTRAP - S - -
+                BASE - X - -
+              SYSTEM - O - -
+          APT-MIRROR - - S -
+               CACHE - - O -
+                   * - - - X
+               THOSE - - - S
+        DEPENDENCIES - - - X
+             ANACRON - - - S
+            RUNLEVEL - - - X
+             NETWORK - - - X
+                 JOB - - - O

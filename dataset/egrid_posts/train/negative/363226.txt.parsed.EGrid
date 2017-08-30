@@ -1,0 +1,16 @@
+              DRIVER O - - -
+              KERNEL X - - -
+              SOURCE S - - -
+                TOOL O - - -
+               THESE X - - -
+           JOHNFICCA - X - -
+                SUDO - - X S
+             APT-GET - - S -
+LINUX-HEADERS-GENERIC - - O -
+       /MEDIA/USBMEM - - - X
+                  -O - - - O
+                  RW - - - X
+          UID=KHAGEN - - - X
+           FMASK=137 - - - X
+           DMASK=027 - - - X
+                WORK - - - X

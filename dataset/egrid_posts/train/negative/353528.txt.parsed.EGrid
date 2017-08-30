@@ -1,0 +1,22 @@
+              ANYONE S - - - - -
+           ALTERNATE X - - - - -
+          2007-10-18 - - - X - -
+               DEBUG - - - S - -
+              DISTRO - - - X - -
+KEEPINSTALLEDSECTION - - - X - -
+                RULE - - - X - -
+        TRANSLATIONS - - - X - -
+               ERROR - - - X - -
+        DIST-UPGRADE - - - S - -
+            PROBLEMS - - - O - -
+               BREAK - - - X - -
+             PACKAGE - - - O - -
+            APTITUDE - - - - S -
+                  .. - - - - X -
+                VIEW - - - - - X
+                SHOW - - - - - S
+                FILE - - - - - O
+                SUDO - - - - - X
+             APT-GET - - - - - S
+            NAUTILUS - - - - - O
+             XUBUNTU - - - - - X

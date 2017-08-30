@@ -1,0 +1,13 @@
+            1024X768 X - - - - - -
+           VGA=0X318 - O - - - - -
+              KERNEL - X - - - - -
+                LINE - X - - - - -
+            MENU.LST - X - - - - -
+            MENU.1ST - X - - - - -
+          /BOOT/GRUB - - S - - - -
+              SPLASH - - X - - - -
+                THAT - - - S - - -
+        VIDEO=VESAFB - - - O - - -
+              OPTION - - - O - - -
+              SCREEN - - - - O - -
+                 2.6 - - - - O - -

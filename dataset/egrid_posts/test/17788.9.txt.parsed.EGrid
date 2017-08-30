@@ -1,0 +1,14 @@
+             PACKAGE O - - - -
+             APT-GET - S - - -
+                SUDO - X - - -
+         PACKAGENAME - X - - -
+                SHOW - X - - -
+/ETC/APT/SOURCES.LIST - - - O -
+                LINE - - - O -
+        DISTRIBUTION - - - S -
+              UPDATE - - - O -
+        DIST-UPGRADE - - - O -
+            SOLUTION - - - X -
+              BACKUP - - - - X
+           REINSTALL - - - - X
+             SCRATCH - - - - X

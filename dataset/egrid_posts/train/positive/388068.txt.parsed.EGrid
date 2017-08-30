@@ -1,0 +1,26 @@
+                PLUG - O - - O - - - -
+                 LAN - X - - X - - - -
+               CABLE - X - - X - - - -
+              SERVER - X - - X - - - -
+             DESKTOP - X - - X - - - -
+              STATIP - S - - S - - - -
+                  .. - X - - X - - - -
+          CONNECTION - O - - O - - - -
+                CARD - - X X - X X - -
+               LIGHT - - S - - S - - -
+            HARDWARE - - X - - X - - -
+               ISSUE - - X - - X - - -
+       CONFIGURATION - - O - - O - - -
+                  HI - - - O - - - - -
+           IFCONFING - - - X - - X - -
+               LSPCI - - - S - - X - -
+             NETWORK - - - X - - X - -
+                  IP - - - - - - S - -
+                SHOW - - - - - - X - -
+             GATEWAY - - - - - - S - -
+                EACH - - - - - - S - -
+             ENTRIES - - - - - - - - O
+                FILE - - - - - - - - X
+/ETC/NETWORK/INTERFACES - - - - - - - - X
+                 MAN - - - - - - - - S
+            EXAMPLES - - - - - - - - X

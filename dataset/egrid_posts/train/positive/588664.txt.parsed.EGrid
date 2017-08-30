@@ -1,0 +1,12 @@
+             COMMAND X - - -
+                LINE X - - -
+              ACCESS - O - -
+                 BOX - X - -
+                   X - X - -
+         ENVIRONMENT - X - -
+              SERVER - O - -
+              CLIENT - X - -
+        X-FORWARDING - - X -
+                SUDO - - X -
+           GDM-SETUP - - O -
+                THAT - - - S

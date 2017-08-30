@@ -1,0 +1,9 @@
+                USER O - - -
+                DATA X X - -
+                FILE O - X -
+             WINDOWS X X X -
+           PARTITION X - - -
+                BASH X - - -
+            TERMINAL X - - -
+          ALSA-UTILS - - - S
+           ALSAMIXER - - - S

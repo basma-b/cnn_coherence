@@ -1,0 +1,14 @@
+               -BASH X - - - -
+/ETC/MDADM/MDADM.CONF X - - - -
+          PERMISSION S - - - -
+                 MAN X - - - -
+                 TEE X - - - -
+                UUID S - - - -
+              NUMBER X - - - -
+                DASH - X - - -
+              COLONS - X - - -
+              BASE64 - X - - -
+               MOUNT - - S - -
+                 TIP - - - - O
+              REPAIR - - - - X
+               UNITY - - - - X

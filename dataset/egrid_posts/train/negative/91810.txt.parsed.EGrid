@@ -1,0 +1,12 @@
+            MODPROBE X S - - - -
+              DRIVER S - - - - -
+             OPTIONS X - - - - -
+                   $ - O - - - -
+             SAA7134 - O - - - -
+             TUNER=2 - S - - - -
+            PROBLEMS - O - - - -
+                CARD - X - - - -
+                  AH - X - - - -
+   EPLAINSEVERYTHING - O - - - -
+        REPOSITORIES - - - - - S
+           KARL-ERIK - - - - - O

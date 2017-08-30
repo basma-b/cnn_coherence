@@ -1,0 +1,13 @@
+           MECHANISM S - - - -
+                DISK X X - - -
+                  RW O - - - -
+                USER X - - - X
+               USERS - X - - X
+                PART - X - - -
+               GROUP - X - - -
+                IIRC - S - - -
+         PERMISSIONS - O - - -
+               DRIVE - X X - -
+           PARTITION - - O X -
+              FORMAT - - - X -
+               FSTAB - - - - X

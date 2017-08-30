@@ -1,0 +1,9 @@
+           PARTITION X - - - -
+              LIVECD X - - - -
+               FSTAB X - - - -
+                SUDO - S - - -
+     /MEDIA/MAKEADIR - O - - -
+               MOUNT - - X - -
+                   | - - S - -
+                TOOL - - - - X
+              FREEZE - - - - O

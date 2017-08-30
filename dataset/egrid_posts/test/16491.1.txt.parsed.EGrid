@@ -1,0 +1,12 @@
+                 DNS O - - - -
+              GOOGLE X - - - -
+/ETC/DHCP/DHCLIENT.CONF S - - - -
+             PROBLEM O - - - -
+                   | X - - - -
+                SUDO X - - - X
+                 TEE X - - - X
+           /DEV/NULL X - - - X
+                WORK X - - - -
+              REBOOT - - X - -
+          NAMESERVER - - - - X
+/ETC/RESOLVCONF/RESOLV.CONF.D/TAIL - - - - X

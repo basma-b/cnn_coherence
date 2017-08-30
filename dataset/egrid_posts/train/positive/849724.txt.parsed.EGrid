@@ -1,0 +1,8 @@
+                 ALL O -
+             PROBLEM O -
+              REBOOT X -
+/VAR/RUN/DBUS/SYSTEM_BUS_SOCKET S -
+            UBUNTU+1 X -
+             SUPPORT X -
+              DAEMON - S
+               WEDGE - S

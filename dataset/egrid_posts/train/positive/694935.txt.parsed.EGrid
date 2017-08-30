@@ -1,0 +1,23 @@
+              ADVICE S - - -
+                 ALL - X - -
+             PACKAGE - O - O
+                NEED - X - -
+           XULRUNNER - S - -
+              PYTHON - X - -
+                PART - O - -
+         METAPACKAGE - X - -
+                  -I - X - X
+IGNORE-DEPENDS=XULRUNNER - X - -
+                   E - S - -
+            ARGUMENT - O - -
+               WORKY - X - -
+        INSTALLATION - - O -
+                DPKG - - - X
+             APT-GET - - - X
+                  -D - - - S
+                .DEB - - - S
+                FILE - - - X
+                EACH - - - O
+                SUDO - - - X
+                  .. - - - X
+            DOWNLOAD - - - S

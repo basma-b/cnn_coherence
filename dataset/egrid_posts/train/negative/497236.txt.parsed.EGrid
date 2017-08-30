@@ -1,0 +1,14 @@
+               IMAGE X - - - O - - - -
+                MENU X - - - - O X - -
+              BUTTON X - - - - - - - -
+        GCONF-EDITOR - - - X - - - - -
+               PANEL - - - X - - - - -
+              CUSTOM - - - - X - - - -
+                ICON - - - - O - - - -
+              OBJECT - - - - - S - - -
+               1,2,3 - - - - - S - - -
+                 ONE - - - - - X - - -
+                LINE - - - - - - X - -
+                TEXT - - - - - - - - X
+                FILE - - - - - - - - X
+/PROC/SYS/KERNEL/PERF_COUNTER_PARANOID - - - - - - - - O

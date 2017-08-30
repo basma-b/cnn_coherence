@@ -1,0 +1,9 @@
+             COMMAND O - - -
+           PARTITION O - - -
+                HELP - - X -
+                  -L - - O -
+              WORKIN - - O -
+                DISK - - - O
+                 HDA - - - X
+                 HDB - - - X
+                 ETC - - - X

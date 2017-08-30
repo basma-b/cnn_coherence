@@ -1,0 +1,13 @@
+             APACHE2 X - - - -
+                BASH - X - - -
+             APT-GET - X - - -
+                PATH - O - - -
+                THIS - - O - -
+PATH=/USR/LOCAL/SBIN - - X - -
+      /USR/LOCAL/BIN - - X - -
+           /USR/SBIN - - X - -
+            /USR/BIN - - X - -
+               /SBIN - - X - -
+                /BIN - - X - -
+          /USR/GAMES - - X - -
+                /USR - - - - O

@@ -1,0 +1,15 @@
+/ETC/NETWORK/INTERFACES X - - - - -
+         WLAN-DEVICE X - - - - -
+                ATH0 X - - - - -
+               ESSID - X - - - -
+          INTERFACES - S - - - -
+                THAT - - O - - -
+                SCAN - - X - - -
+                 GUY - - O - - -
+              ACCESS - - S - - -
+               POINT - - X - - -
+            ALLREADY - - O - - -
+              DEVICE - - X - - -
+                 WEP - - O - - X
+                 WPA - - X - O -
+                 YES - - - S - -

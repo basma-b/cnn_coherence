@@ -1,0 +1,21 @@
+             WINDOWS X - - - - - -
+               SHARE X - - - - - -
+              UBUNTU X - - - - - -
+                THAT - X - - - - -
+               SMBFS - O - - - - -
+                LINE - O - - - - -
+          /ETC/FSTAB - X - - - - -
+CREDENTIALS=~/.SMBCREDENTIALS - X - - - - -
+           DMASK=777 - X - - - - -
+              ANYONE - S - - - - -
+            ANYTHING - O - - - - -
+                CIFS - - X - - - -
+               THING - - O - - - -
+     .SMBCREDENTIALS - - - - X - -
+          /MEDIA/NAS - - - - - O -
+                 YEP - - - - - S -
+                SUDO - - - - - X -
+   USERNAME=WHATEVER - - - - - X -
+                 SET - - - - - X -
+                WORK - - - - - X -
+                FINE - - - - - O -

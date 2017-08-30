@@ -1,0 +1,15 @@
+             NETWORK X - - -
+             MANAGER S - - -
+                WIRE X - - -
+            WIRELESS X X X -
+         CONNECTIONS O - - -
+                GREY S - - -
+                   / S - - -
+            IFCONFIG - O - -
+             ADAPTER - O O -
+               LSUSB - S - -
+      NETWORKMANAGER - S - -
+         NDISWRAPPER - - O -
+             RT73USB - - X -
+                WORK - - O -
+              KERNEL - - - X

@@ -1,0 +1,14 @@
+                LOAD X - - - -
+                BOOT X - X - -
+              MODULE - - O - -
+              KERNEL - - X - -
+                 USE - - O - -
+              OPTION - - X - -
+           USBSERIAL - - X - -
+             MODULES - - O - -
+               MODEM - - X - -
+                   > - - X - -
+        /ETC/MODULES - - X - -
+                MESS - - - - X
+           SOMETHING - - - - X
+             FREEBSD - - - - O

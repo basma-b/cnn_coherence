@@ -1,0 +1,13 @@
+               SOUND X X -
+                CARD O X -
+                THIS X - -
+          PULSEAUDIO X - -
+                 USB - X -
+                ALSA - X -
+                 USE - S -
+              DRIVER - X -
+       SND-USB-AUDIO - O -
+                PART - O -
+               PULSE - O -
+               SETUP - O -
+               THANK - - X

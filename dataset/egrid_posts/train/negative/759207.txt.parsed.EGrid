@@ -1,0 +1,11 @@
+                 RUN X - - -
+      HYLAFAX-CLIENT S - - -
+                WAIT S - - -
+                 MAN X - - -
+             COMMAND X - - -
+                ROOT - - X -
+                PASS - - X -
+                THAT - - - S
+                USER - - - O
+                MODE - - - X
+        RESTRICTIONS - - - O

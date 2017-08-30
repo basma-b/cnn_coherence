@@ -1,0 +1,14 @@
+                MEAN X - -
+        SIOCSIFFLAGS X - X
+          PERMISSION S - -
+            IFCONFIG X - -
+                ETH1 O - -
+                WIFI X - -
+                 PCI X - -
+                 NIC O - -
+                SUDO - O X
+                ROOT - - O
+                  SU - - X
+             MESSAGE - - S
+                FILE - - X
+           DIRECTORY - - O

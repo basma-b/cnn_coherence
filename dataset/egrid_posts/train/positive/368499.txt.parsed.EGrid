@@ -1,0 +1,9 @@
+GNOME-SOUND-PROPERTIES X - -
+             COMMAND O - -
+           ALSAMIXER O - -
+                DICE S - -
+          ALSA-UTILS O - X
+           OPERATION X - -
+                OOPS - X -
+                SUDO - - X
+             APT-GET - - X

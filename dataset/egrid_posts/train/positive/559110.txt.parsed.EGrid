@@ -1,0 +1,15 @@
+            RUNLEVEL O X - - - -
+                 RUN - X - - - -
+                 LVL - O - - - -
+             SERVICE - X O - - -
+                BOOT - - X - - -
+           SOMETHING - - O O - -
+            SHUTDOWN - - X - - -
+           SYSV-CONF - - X - - -
+               LEVEL - - X - - -
+             TELINIT - - X - - -
+             DEFAULT - - O - - -
+                DOCS - - O - - -
+           DOWNGRADE - - - X - S
+            STRUGGLE - - - - - X
+                MODE - - - - - X

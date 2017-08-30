@@ -1,0 +1,25 @@
+               USERS S - - - -
+           WIRESHARK O - - - -
+       CAPTURE-FILES O - - - -
+                ROOT S S - - -
+              OPTION S S - - -
+               SENSE O O - - -
+                SUDO - - X - -
+             APT-GET - - S - -
+                .DEB - - O - -
+            IFCONFIG - - O - -
+                 LOG - - - X -
+           /VAR/LOG/ - - - X -
+                  .. - - - O -
+/VAR/LIB/DHCPD/DHCPD.LEASES - - - X -
+                 MAC - - - X -
+             ADDRESS - - - S -
+              SYSTEM - - - X -
+                  IP - - - O -
+              DOESNT - - - X -
+                LIST - - - X -
+                SIGH - - - X -
+                 WAY - - - - X
+           LIBDVDCSS - - - - O
+              NOBODY - - - - S
+              SCRIPT - - - - X

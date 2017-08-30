@@ -1,0 +1,12 @@
+                 LJL X - - - - -
+         UPDATE-GRUB O - - - - -
+              NOAPIC O - - - - -
+                LINE - - - X - -
+              KOPTS= - - - X - -
+               KOPT= - - - - X -
+             ONBOARD - - - - - S
+                 PCI - - - - - X
+                CARD - - - - - X
+               BUSID - - - - - O
+          EVERYTHING - - - - - S
+           XORG.CONF - - - - - X

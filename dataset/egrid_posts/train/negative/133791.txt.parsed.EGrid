@@ -1,0 +1,21 @@
+                THAT X - - - - - - -
+              FORMAT X S - - - - - -
+               DRIVE O - - - - - - -
+               FAT32 X O S - - - - -
+              UBUNTU S - - - S - - X
+                 USE - X - - - - - -
+                  .. - X - - - - - -
+           PARTITION - X X - - - - -
+           MKFS.VFAT - X - - - - - -
+/PATH/TO/YOUR/PARTITION - X - - - - - -
+                POST - X - - - - - -
+              RESULT - S - - - - - -
+                SUDO - X - - - - - -
+               FDISK - X - - - - - -
+                  -L - X - - - - - -
+                TYPE - X - - - - - -
+                PATH - - S - - - - -
+             MACHINE - - - - X - - -
+                 BOX - - - - O - - X
+                BOOT - - - - - - - X
+             WINDOWS - - - - - - - X

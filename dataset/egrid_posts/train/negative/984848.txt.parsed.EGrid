@@ -1,0 +1,11 @@
+             COMMAND S - - - -
+                   | X - - - -
+                GREP X S - - -
+             GLXINFO - X - - -
+               |GREP - X - - -
+           SOMETHING - S - - -
+                 OWN - X - - -
+             NOTHING - O - - -
+                THAT - - X - -
+               STUFF - - - X -
+              ENOUGH - - - - X

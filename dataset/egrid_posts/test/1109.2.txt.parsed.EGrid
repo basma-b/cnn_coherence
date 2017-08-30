@@ -1,0 +1,18 @@
+/ETC/SSH/SSHD_CONFIG O - - - -
+           PRINTMOTD O S - - -
+        PRINTLASTLOG X - - - -
+              SYSTEM - O - - -
+                MOTD - S - - -
+                  NO - X - - -
+               SORRY - S - - -
+               THERE - S S - -
+             DEFAULT - X - - -
+                 SET - X - - -
+               YEARS - - X - -
+               TRIAL - - X - -
+               ERROR - - X - -
+              UBUNTU - - O - -
+           HARDDRIVE - - X - -
+             WINDOWS - - - X -
+                GRUB - - - - S
+                  .. - - - - X

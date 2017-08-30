@@ -1,0 +1,20 @@
+         TEMPERATURE X - - - - -
+              DOESNT S - - - - -
+              OUTPUT O - - - S -
+/PROC/ACPI/PROCESSOR O - - - - -
+                  -T - X - - - -
+                TEMP - O - - - -
+           REFERENCE - O - - - -
+              DEBIAN - X - - - -
+             SENSORS - S S - X -
+                SUDO - X - - - -
+      SENSORS-DETECT - O - - - -
+                WORK - - X - - -
+                 ALL - - O - - -
+              KERNEL - - S - - -
+                TYPE - - X - - -
+              REBOOT - - O - - -
+                THEN - - X - - -
+             MODULES - - - - O -
+SUDO/ETC/INIT.D/MODULE-INIT-TOOLS - - - - S -
+              HOTTER - - - - - O

@@ -1,0 +1,24 @@
+                9.04 O - - - - - -
+                DELL X - - - - - -
+                MINI X - - - - - -
+                 A03 X - - - - - -
+            FIRMWARE X - - - - - -
+                XORG - X - - - - -
+          GNOME-CORE - X - - - - -
+           ALSA-BASE - X - - - - -
+             PACKAGE - O - - - - -
+             OPTIONS - - X - - - -
+          MODEL=DELL - - X - - - -
+              SWITCH - - O - - - -
+                 END - - X - - - -
+                FILE - - X - - - -
+              THINGS - - - X - - -
+            HARDWARE - - - O - - O
+             VOLUMES - - - O - - O
+               SOUND - - - S - X S
+            SPEAKERS - - - - X - -
+          HEADPHONES - - - - S - -
+           SOMETHING - - - - - O -
+ALSA-BASE/ALSA-DRIVER - - - - - S -
+             DRIVERS - - - - - O -
+              KERNEL - - - - - S -

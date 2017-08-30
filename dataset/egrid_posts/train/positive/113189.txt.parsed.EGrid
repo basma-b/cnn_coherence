@@ -1,0 +1,16 @@
+          COMPONENTS - X - - - - - -
+              UBUNTU - X - - - - S -
+              LAPTOP - X - - - - - -
+              KERNEL - - S - - - - -
+                ACPI - - X - - - - -
+                   D - - X - - - - -
+            -SUPPORT - - X - - - - -
+            SETTINGS - - O - - - - -
+                DEBS - - - O - - - -
+/VAR/CACHE/APT/ARCHIVES/ - - - X - - - -
+             HOTKEYS - - - - X - - -
+                USER - - - - - O - -
+    SLEEPING/STANDBY - - - - - O - -
+                WORK - - - - - X - -
+              FEDORA - - - - - - - X
+               SETUP - - - - - - - X

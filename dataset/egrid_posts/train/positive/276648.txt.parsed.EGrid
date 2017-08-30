@@ -1,0 +1,7 @@
+                 ALL O - - -
+              MODULE X - - -
+                 USE O - - -
+              MODREM - X - -
+            MODPROBE - - - X
+                  -R - - - X
+         SND_EMU10K1 - - - S

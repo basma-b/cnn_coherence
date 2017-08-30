@@ -1,0 +1,15 @@
+             SUDOERS X - - - - - -
+                FILE X - - - - - -
+          PERMISSION O O - O - - -
+            COMPUTER - - X - O - -
+                ROOT - - - X X - -
+              ACCESS - - - O X - -
+             EXAMPLE - - - X - - -
+               OWNER - - - - O - -
+                NMAP - - - - - - O
+              SCRIPT - - - - - - O
+                PING - - - - - - X
+             NETWORK - - - - - - S
+             NOTHING - - - - - - S
+                HOST - - - - - - O
+            ANYTHING - - - - - - X

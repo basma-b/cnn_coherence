@@ -1,0 +1,12 @@
+        /ETC/MODULES S - -
+                LINE O - -
+                FILE S - -
+                NAME O - -
+              KERNEL X - -
+             MODULES X - -
+                LOAD O O -
+             PROBLEM X - -
+                UDEV - S -
+/USR/SBIN/DPKG-RECONFIGURE - - X
+                 PGF - - S
+               BREAK - - X

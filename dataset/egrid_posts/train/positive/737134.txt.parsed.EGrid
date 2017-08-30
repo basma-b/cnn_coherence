@@ -1,0 +1,19 @@
+           APT-CACHE X - - - - - -
+              POLICY X - - X - - -
+       PYTHON2.6-DEV X - - - - - -
+                SIDE - - X - - - -
+               TRACK - - O - - - -
+             COMMAND - - - O - - -
+              MIRROR - - - S - - -
+    GTLIB.GATECH.EDU - - - X - - -
+             VERSION - - - O - - -
+              PYTHON - - - X - - -
+                   | - - - S - - -
+             PACKAGE - - - O - - -
+              UPDATE - - - X - - -
+      UPDATE/UPGRADE - - - - - S -
+              EFFECT - - - - - O -
+                  IM - - - - - - S
+             ARCHIVE - - - - - - O
+USU.ARCHIVE.UBUNTU.COM - - - - - - X
+                 NOW - - - - - - X

@@ -1,0 +1,15 @@
+               BUSID X - - X - -
+                CARD X O - - - -
+           XORG.CONF X - - - - -
+                FILE X - - X - -
+               LSPCI - X - X - -
+                 BUS - X - - - -
+             01:00.0 - - - X - -
+                 VGA - - - X - -
+          CONTROLLER - - - X - -
+                 ATI - - - X - -
+        TECHNOLOGIES - - - X - -
+                  .. - - - X - -
+                XORG - - - X - -
+           PCI:1:0:0 - - - X - -
+                 WIL - - - - - S

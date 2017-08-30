@@ -1,0 +1,19 @@
+             NETWORK X - - - -
+             MANAGER X - - - -
+               START X - - O -
+               LOGIN X - - - -
+                 BOX X - - S -
+                 SSH X - - - -
+                 VNC X - - - -
+                 LOG X - - - -
+               FIRST X - - - -
+                 SET - X - - -
+       CONFIGURATION - X - - -
+  WPASUPPLICANT.CONF - X - - -
+/ETC/NETWORK/INTERFACES - O - - -
+                INFO - - S - -
+           NM-APPLET - - - S -
+                 GUI - - - X -
+               RIGHT - - - - X
+                HOME - - - - X
+                 LAN - - - - X

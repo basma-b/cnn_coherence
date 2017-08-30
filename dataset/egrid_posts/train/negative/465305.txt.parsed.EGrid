@@ -1,0 +1,16 @@
+               CDROM X - - - -
+                GRUB X - - - -
+             WINDOWS X - - - -
+            RECOVERY O - - - -
+               FSTAB - X - - -
+                 SDA - S - - -
+                 HDA - O - - -
+           PARTITION - - S - -
+                THAT - - - S S
+                 YES - - - O -
+              SYSTEM - - - S -
+                SAME - - - O -
+                HDDS - - - X -
+                WAIT - - - O -
+                  .. - - - O -
+                PATH - - - - X

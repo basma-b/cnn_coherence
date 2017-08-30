@@ -1,0 +1,14 @@
+             COMMAND X - - - -
+                SFTP O - - - -
+               //BAZ S - - - -
+                THRU - X - - -
+             PROGRAM - X - - -
+               SSHFS - S X - -
+                   U - S - - -
+      172.16.113.134 - X - - -
+     /LOCALDIRECTORY - X - - -
+                USER - - S - -
+              SERVER - - O - -
+               TOUCH - - S - -
+                 HDD - - - X -
+                SIZE - - - - X

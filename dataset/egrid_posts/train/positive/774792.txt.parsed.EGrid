@@ -1,0 +1,17 @@
+            PROBLEMS O - - - - -
+                HOST - X - - - -
+             NETWORK - X - - - -
+                RDNS - - O - - -
+      WWW.DOMAIN.COM - - X - - -
+               REPLY - - O - - -
+OTHERCNAME.DOMAIN.CO - - X - - -
+                  M. - - S - - -
+    A-RECORDS/CNAMES - - X - - -
+                 SPF - - - X - -
+              RECORD - - - O - -
+                WILL - - - X - -
+           GENERATOR - - - O - -
+                .TXT - - - O - -
+                THIS - - - - S -
+                  MX - - - - X -
+             PROBLEM - - - - - O

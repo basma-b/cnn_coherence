@@ -1,0 +1,10 @@
+           BLOCKSIZE S S - - -
+           PARTITION X X - - -
+                SUDO X X - - -
+            DUMPE2FS S S - - -
+                GREP O - - - -
+               BLOCK X X - - -
+                SIZE X O - - -
+              REPEAT X - - - -
+              CLIENT S - - - -
+                THNX - - - X -

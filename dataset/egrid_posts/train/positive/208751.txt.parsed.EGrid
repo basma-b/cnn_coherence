@@ -1,0 +1,14 @@
+                   Q X - - - -
+             PROCESS S S - - -
+                 USE X - - - -
+            RESOURCE O - - - -
+                CASE - X - - -
+               CDROM - O - - -
+                VIEW - X - - -
+             CONTENT - O - - -
+                LSOF - - S - -
+                LIST - - X - -
+                FLAG - - O - -
+                TASK - - X - -
+              DEVICE - - - - X
+                   > - - - - O

@@ -1,0 +1,15 @@
+/VAR/LIB/NETWORKMANAGER/NETWORKMANAGER.STATE S - - -
+                  NM O O - -
+                THAT - S - -
+              GKSUDO - X - -
+               GEDIT - S - -
+              ALT+F2 - - X -
+            IFUPDOWN - - O -
+                 ALL - - S -
+NETWORKMANAGER.STATE - - X -
+               -RSB- - - X -
+ NETWORKENABLED=TRUE - - X -
+WIRELESSENABLED=TRUE - - X -
+    WWANENABLED=TRUE - - X -
+                TYPE - - X -
+     NETWORK-MANAGER - - X -

@@ -1,0 +1,21 @@
+       SUPER-GRUB-CD X - - - - S - - -
+               ISSUE X - - - - - - - -
+                GRUB - O - - - X - - -
+               STAGE - X O - X - - - -
+   /BOOT/GRUB/STAGE1 - - - O - - - - -
+               HTTPS - - - - O - - - -
+//HELP.UBUNTU.COM/COMMUNITY/RECOVERINGUBUNTUAFTERINSTALLINGWINDOWS - - - - X - - - -
+         ACTION=SHOW - - - - - X - - -
+REDIRECT=RESTOREGRUB - - - - - S - - -
+             TROUBLE - - - - - X - - -
+                TOOL - - - - - X - - -
+                  OK - - - - - O - - -
+                ROOT - - - - - O - - -
+               SETUP - - - - - S - - -
+               ERROR - - - - - S - - -
+             MACHINE - - - - - X S - -
+             LIVE-CD - - - - - X - - -
+                BOOT - - - - - - X - X
+               CHECK - - - - - - O - -
+              SECOND - - - - - - - - X
+                  CD - - - - - - - - X

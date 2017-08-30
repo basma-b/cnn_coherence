@@ -1,0 +1,17 @@
+          DEPENDENCY O - - - - - - - -
+                FILE X - - - - X - - -
+                 USE X - - - - - - - -
+             APT-GET X - - - - - - - -
+           APT-CACHE - - X - - - - - -
+             SHOWPKG - - S - - - - - -
+                   > - - X - - - - - -
+                NOTE - - X - - - - - -
+             PACKAGE - - - - S - - - -
+        DEPENDENCIES - - - - O - - - -
+                   M - - - - - X - - -
+                MOVE - - - - - X - - -
+              KERNEL - - - - - X - - -
+             MODULES - - - - - X - - -
+                 ONE - - - - - - - - S
+                WINE - - - - - - - - O
+               STEAM - - - - - - - - O

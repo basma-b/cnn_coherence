@@ -1,0 +1,25 @@
+                THAT X - - - - - -
+                DISK X - - - - - -
+               IMAGE X - - - - - -
+                FILE X X - - - - -
+                  .. O - - - - - -
+              FLOPPY - O - - - - -
+                VFAT - O - - - - -
+          VIRTUALBOX - X - - - - -
+                COPY - O - - - - -
+                  DD - X - X - - -
+               DRIVE - - - O - - -
+            COMPUTER - - - X - - -
+                  OK - - - X - - -
+                 USE - - - O - - -
+        IF=/DEV/ZERO - - - X - - -
+       OF=MYFILE.IMG - - - X - - -
+     BS=HOWMANYBYTES - - - S - - -
+          FILESYSTEM - - - X - - -
+               MOUNT - - - - X - X
+           MKFS.VFAT - - - - S - -
+             OPTIONS - - - - O - O
+           SUPERUSER - - - - O - -
+                HTTP - - - - - X -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - - - - X -
+            T=303295 - - - - - - S

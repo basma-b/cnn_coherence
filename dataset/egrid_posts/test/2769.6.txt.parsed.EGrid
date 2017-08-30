@@ -1,0 +1,31 @@
+             PROBLEM O - - - - - -
+             INSTALL X - - - - - -
+             ATTEMPT X - - - - - -
+                FILE X - - - - - -
+              SYSTEM O - - - - - -
+                VFAT X - - - - - -
+              SCSCSI X - - - - - -
+               0,0,0 X - - - - - -
+                 SDA X - - - - - -
+           /BOOT/EFI S - - - - - -
+                DOES X - - - - - -
+             SOMEONE S - - - - - -
+                IDEA O - - - - - -
+                BOOT - X - - - - -
+                UEFI - X - - - - -
+                  .. - - - S - - -
+                 ONE - - - X - - -
+             COMMAND - - - X - - -
+              RESULT - - - X - - -
+    UPDATE-INITRAMFS - - - X - - -
+          GENERATING - - - X - - -
+            GRUB.CFG - - - X - - -
+               IMAGE - - - O - - -
+              INITRD - - - X - - -
+/USR/SBIN/GRUB-PROBE - - - X - X -
+               ERROR - - - X - X -
+                GRUB - - - X - - -
+               DRIVE - - - O - O -
+/DEV/MAPPER/SIL_BHBGBJDCBCDJ5 - - - X - X -
+          DEVICE.MAP - - - - O - -
+                  CH - - - - - - X

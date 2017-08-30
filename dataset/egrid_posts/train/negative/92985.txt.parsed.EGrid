@@ -1,0 +1,27 @@
+                HMMM X - - - - - - -
+      OPENSSH-SERVER S - - - - - O -
+                SSHD O - - - O - - -
+                   | X - - - - - - -
+               START X - - - - - - -
+            ARGUMENT S - - - - - - -
+             COMMAND - X - - - - - -
+         /ETC/INIT.D - - S - - - - -
+                THAT - - - S - - - O
+             OPENBSD - - - S - - - -
+               SHELL - - - X - - - -
+              SERVER - - - X - - - -
+                  .. - - - O - - - -
+                HOST - - - X X - - -
+                 KEY - - - O X - - -
+/ETC/SSH/SSH_HOST_RSA_KEY - - - S - - - -
+            PROTOCOL - - - X - - - -
+             VERSION - - - X - - - -
+            HOSTKEYS - - - - O - - -
+                EXIT - - - - O - - -
+               -LSB- - - - - - S - -
+               -RSB- - - - - - O - -
+                KAYS - - - - - S - -
+              SYSTEM - - - - - X - -
+                 TRY - - - - - - X -
+             APT-GET - - - - - - X -
+           REINSTALL - - - - - - X -

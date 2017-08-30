@@ -1,0 +1,13 @@
+              NUMBER O - - -
+               DRIVE X - - -
+              SERIAL - O - -
+             COMMAND - - S -
+                HOLD - - O -
+            /DEV/SDA - - X -
+                   | - - X -
+             SYMLINK - - - O
+              BINARY - - - X
+                /OPT - - - X
+                LINK - - - X
+      /USR/LOCAL/BIN - - - O
+                PATH - - - X

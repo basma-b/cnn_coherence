@@ -1,0 +1,9 @@
+             DEFAULT X - - - - - -
+                NAME X - - - - - -
+         DEBOOTSTRAP - X - - - - -
+                USER - - X - X - -
+             ACCOUNT - - O - O - -
+                 KDM - - - S - - -
+                ROOT - - - X - - -
+              LOGINS - - - O - - -
+             SESSION - - - - X - -

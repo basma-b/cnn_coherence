@@ -1,0 +1,13 @@
+              ANYONE X - - - - - -
+          AUTOMOUNTS X - - - - - -
+               FSTAB - X X - - - -
+                SUDO - - X - - - -
+               BLKID - - S - - - -
+                UUID - - S - - - -
+               STICK - - X - - - -
+            EVERYONE - - X - - - -
+               ISSUE - - - S - - -
+                USER - - - - - O -
+                ROOT - - - - - O -
+           PRIVLEGES - - - - - X -
+                THAT - - - - - - S

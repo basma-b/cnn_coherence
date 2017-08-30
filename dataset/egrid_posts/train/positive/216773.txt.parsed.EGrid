@@ -1,0 +1,9 @@
+                GRUB O - -
+                ROOT X - -
+           PARTITION X O X
+                BOOT - O -
+           SOMETHING - O -
+                 MBR - X -
+                FILE - - X
+        GRUB-INSTALL - - X
+            /DEV/HDA - - X

@@ -1,0 +1,13 @@
+              ANYONE X - -
+                ROOT - S -
+               USERS - S -
+              OPTION - S X
+          /ETC/FSTAB - X -
+                USER - X -
+                 MAN - X -
+         DIFFERENCES - X -
+               FSTAB - X X
+          FILESYSTEM - X -
+                  -O - O -
+            UID=1000 - X -
+                THAT - - O

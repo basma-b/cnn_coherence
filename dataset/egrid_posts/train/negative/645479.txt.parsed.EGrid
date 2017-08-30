@@ -1,0 +1,20 @@
+              FORMAT X - - X - -
+                GRUB X - - - - -
+              CONFIG X - - - - -
+              CHANGE X - - - - -
+           MENUENTRY - O - - - -
+               TITLE - S - - - -
+               /BOOT - S - - - -
+            GRUB.CFG - O - - - -
+            ANYTHING - O - - - -
+  /ETC/DEFAULTS/GRUB - X - - - -
+                SUDO - X - - - -
+         UPDATE-GRUB - X - - - -
+                THAT - - O - - -
+               STUFF - - - X - -
+/ETC/GRUB.D/40_CONFIG - - - X - -
+                BOOT - - - X - -
+              CENTOS - - - X - -
+               POINT - - - - S -
+                FILE - - - - - O
+                SOME - - - - - S

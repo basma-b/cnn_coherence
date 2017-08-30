@@ -1,0 +1,13 @@
+            BANDWITH O - - - - -
+      UBUNTU-GATEWAY X - - - - -
+                NICS X - - - - -
+                 DMZ - - S - - -
+       10MBPS/10MBPS - - O - - -
+                 LAN - - S - - -
+       40MBPS/40MBPS - - O - - -
+                CANT - - - - - X
+                NEED - - - - - O
+                 MAN - - - - - X
+                PAGE - - - - - X
+            IPTABLES - - - - - X
+                  TC - - - - - O

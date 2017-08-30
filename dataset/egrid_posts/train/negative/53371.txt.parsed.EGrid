@@ -1,0 +1,18 @@
+             MESSAGE O - - - - X - - - -
+               ERROR X - - - - - - - - -
+               MYSQL X - X - - S - - S -
+              SERVER X - X - - X - - - -
+              SOCKET X - X - - - - - - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK X - X - - - - - - -
+               IDEAS X - X - - - - - - -
+             VERSION - - - - - O - - - -
+            DATABASE - - - - - X - - - -
+                  .. - - - - - X - - X -
+                LOOK - - - - - - O - - -
+              SYSLOG - - - - - - X X - -
+           SYSTEMLOG - - - - - - - X - -
+               THERE - - - - - - - S - -
+             NOTHING - - - - - - - O O -
+                TAIL - - - - - - - - X -
+                  -N - - - - - - - - S -
+   /VAR/LOG/MESSAGES - - - - - - - - S -

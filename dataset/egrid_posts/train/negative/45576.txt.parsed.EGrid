@@ -1,0 +1,31 @@
+                ALSA X - - - - - - - -
+/USR/SRC/MODULES/ALSA-DRIVER/PCI/AZX/AZX.C O - - - - - - - -
+          CODEC_MASK X - - - - - - - -
+/USR/SRC/MODULES/ALSA-DRIVER/PCI/AZX/HDA_CODEC.C X - - - - - - - -
+           HDA_CODEC X - - - - - - - -
+                 AFG X - - - - - - - -
+                 NOD S - - - - - - - -
+                 AZX X - - - - - - - -
+              CODECS S - - - - - - - -
+               INTEL X - - - - - - - -
+                 HDA O - - - - - - - -
+               PROBE S - - - - - - - -
+        0000:00:1B.0 X - - - - - - - -
+               ERROR X - - - - - - - -
+                  -6 S - - - - - - - -
+                 USE - X - - - - - - -
+        PASTEBIN.COM - X - - - - - - -
+               FLOOD - X - - - - - - -
+              CHANGE - - X - - - - - -
+              METHOD - - - O - - - - -
+                DPKG - - - O - - - - -
+ALSA-MODULES-2.6.10-5-686_1.0.8-4UBUNTU4+10.00.CUSTOM_I386.DEB - - - S - - - - -
+            FILENAME - - - O - - - - -
+             PACKAGE - - - - X X - - -
+                NAME - - - - X X - - -
+                   | - - - - - - X - -
+                GREP - - - - - - X - -
+        ALSA-MODULES - - - - - - S - -
+                YEAH - - - - - - - - S
+      GNOME-TERMINAL - - - - - - - - S
+              INSTAL - - - - - - - - O

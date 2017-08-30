@@ -1,0 +1,9 @@
+             COMMAND X - - - - -
+              MODULE O - - - - -
+            MODPROBE - X - - - -
+                BOOT - - X - - -
+               ENTRY - - - O - -
+        /ETC/MODULES - - - X - -
+              FORMAT - - - X - -
+         UPDATE-RC.D - - - - S -
+             WINDOWS - - - - - X

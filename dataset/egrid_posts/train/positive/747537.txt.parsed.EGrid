@@ -1,0 +1,22 @@
+                9.10 X - - - - - -
+            TERMINAL X - - - - - -
+           FILSYSTEM X - - - - - -
+              SYSLOG - X - - - - -
+                SHOW - S - - - - -
+               -LSB- - - X - - - -
+             EXT4-FS - - X X - - -
+                SDA2 - - X X - - -
+             JOURNAL - - X - - - -
+              SDA2:8 - - X - - - -
+               ERROR - - - X - - -
+              DEVICE - - - X - - -
+         EXT4_LOOKUP - - - X - - -
+               INODE - - - X - - -
+           REFERENCE - - - X - - -
+                WORK - - - X - - -
+           PARTITION - - - - O - -
+              LIVECD - - - - X - -
+          FILESYSTEM - - - - X - -
+          CORRUPTION - - - - X - -
+                 USE - - - - X - -
+PARTITION/FILESYSTEM - - - - O - -

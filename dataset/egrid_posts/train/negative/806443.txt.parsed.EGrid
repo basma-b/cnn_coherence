@@ -1,0 +1,11 @@
+              SYSTEM X - - - -
+    /ETC/RESOLV.CONF X - - - -
+                BOOT X - - - -
+                TIME - X - - -
+              GOOGLE - X - - -
+               RESET - X - - -
+                 IPS - X - - -
+                 DNS - - O - -
+NETWORKMANAGER-CONNECTION - - X - -
+       DHCLIENT.CONF - - O - -
+               WORRY - - - - X

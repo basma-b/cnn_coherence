@@ -1,0 +1,15 @@
+      UPDATE-MANAGER X - - -
+                  -D S - - -
+             NOTHING - O - -
+       ONETINSOLDIER - O - -
+                  -I - X - X
+        SOURCES.LIST - S - -
+              BACKUP - O - -
+                 SED - - S -
+          EXPRESSION - - X -
+                   S - - X -
+             COMMAND - - X -
+                   > - - O -
+               QUOTE - - O O
+      /KARMIC/LUCID/ - - - X
+/ETC/APT/SOURCES.LIST - - - O

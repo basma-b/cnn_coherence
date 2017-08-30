@@ -1,0 +1,16 @@
+             COMMAND X - - - - - -
+             ACQUIRE - X - - X - -
+                HTTP - X - - X - -
+                  -O - X - - - - -
+    BROKENPROXY=TRUE - X - - - - -
+              UPDATE - X - - - - -
+             MAX-AGE - S - - - - -
+            DISABLES - X - - - - -
+               CACHE - X - - - - -
+             FEATURE - X - - - - -
+                 APT - X - - - - -
+               THREE - - S - - - -
+                TIME - - - - S - -
+                 ABT - - - - X - -
+                 MAX - - - - X - -
+             PACKAGE - - - - O - -

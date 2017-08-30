@@ -1,0 +1,16 @@
+             UPSTART S - - -
+       RCX.D-SCRIPTS O - - -
+             DEFAULT X - - -
+                DATE - X - -
+                 RUN - S - -
+         STARTSCRIPT - S - -
+               MYSQL - S S O
+                LINE - O - -
+                   > - X - -
+      /TMP/MYSQL.RUN - X - -
+          MYSQL-LOGS - O - -
+              ERRORS - S - -
+                SUDO - - X -
+             SERVICE - - X -
+              SCRIPT - - - O
+                RC.D - - - X

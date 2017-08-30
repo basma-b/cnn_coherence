@@ -1,0 +1,16 @@
+              ANYONE X - - - -
+                BOOT X X - - -
+              SERVER O - - - -
+              CHROOT - X - - -
+/ETC/APPARMOR/INITFS - O - - -
+        INPUT/OUTPUT - X - - -
+               ERROR - O - - -
+                  IO - X - - -
+          FILESYSTEM - X - - -
+               DRIVE - S - - -
+              ISSUES - O - - -
+                  CD - O - - -
+         FILESYSTEMS - O - - -
+                  HD - X - - -
+             FAILURE - X - - -
+              THANKS - - - - X

@@ -1,0 +1,16 @@
+                 ALL O - - - -
+                 DEB X - - - -
+               AMD64 X - - - -
+               HTTPS - X - - -
+//WIKI.UBUNTU.COM/RESTRICTEDFORMATS - X - - -
+                BOOT - - X - X
+              LIVECD - - X - S
+                   ' - - - - X
+             COMMENT - - - - O
+              DETAIL - - - - O
+               ERROR - - - - X
+             MESSAGE - - - - S
+              UBUNTU - - - - X
+              CHANGE - - - - X
+              SYSTEM - - - - X
+             LIVEUSB - - - - O

@@ -1,0 +1,11 @@
+              CD-ROM - X - - - - - -
+            HARDDISK - - - O - - - -
+              LAYOUT - - - X - - - -
+               CDROM - - - - S - - -
+                 HDC - - - - - S - X
+               FDISK - - - - - X - -
+                  -L - - - - - S - -
+                  .. - - - - - O - -
+            /DEV/HDA - - - - - O - -
+          /DEV/CDROM - - - - - - O X
+                ROOT - - - - - - - X

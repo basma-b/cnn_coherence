@@ -1,0 +1,9 @@
+             SERVICE X X - - - -
+              VSFTPD O - - - - -
+                STOP - S - - - -
+               VSFTP - X - - - -
+             PROCESS - O - X - -
+               PKILL - - S - - -
+                NAME - - - X - -
+                   > - - - S - -
+                 ONE - - - - - O

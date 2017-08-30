@@ -1,0 +1,27 @@
+           PARTITION O - - - - - -
+                SUDO X - - - - - -
+               /MNT/ O - - - - - -
+/BOOT/GRUB/CUSTOM.CFG S O - - - - -
+                 TEE X - - - - - -
+/MNT/BOOT/GRUB/CUSTOM.CFG X - - - - - -
+              UBUNTU - X - - - - -
+                BOOT - X - - - - -
+   /ETC/DEFAULT/GRUB - O - - - - -
+     GRUB_TIMEOUT=-1 - O - - - - -
+                GRUB - - X - - - -
+                 USE - - X - - - X
+              CONFIG - - X - - - -
+                FILE - - X - - - -
+         CUSTOM.CFG - - X - - - -
+                THAT - - - - O - -
+              FORMAT - - - - X - -
+               FSTAB - - - - X - -
+                LINE - - - - X - -
+             NOTHING - - - - - X -
+                   A - - - - - - S
+                  -A - - - - - - O
+               SHARE - - - - - - X
+     DOMAIN/USERNAME - - - - - - O
+USERNAME=DOMAIN/USERNAME - - - - - - X
+          /ETC/FSTAB - - - - - - X
+               ERROR - - - - - - O

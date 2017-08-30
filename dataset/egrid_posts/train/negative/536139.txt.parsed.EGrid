@@ -1,0 +1,25 @@
+          PULSEAUDIO S - S - S - -
+               WIN32 X - - - - - -
+              STREAM - X - - - - -
+               AUDIO - X - - - - -
+             NETWORK - X X - X - -
+                 BOX - X - - - - -
+           SOUNDCARD - X O - - - -
+                TIME - - S - - - -
+             WINDOWS - - X X X - -
+               STEAM - - X - O - -
+                  .. - - X - X - -
+              SOURCE - - X - - - -
+             MACHINE - - S - - - -
+                 ONE - - O - - - -
+            SPEAKERS - - X - - - -
+               LINUX - - - X - - -
+                HOST - - - X - - -
+               GOOSE - - - X - - -
+               CHASE - - - X - - -
+                 TRY - - - X - - -
+              SUPORT - - - - X - -
+                HTTP - - - - O - -
+//WWW.PULSEAUDIO.ORG/WIKI/FAQ - - - - X - -
+HOWCANUSEMYWINDOWSBOXTOPLAYTHESOUNDFROMMYLINUXBOX - - - - X - -
+     /USR/SHARE/MENU - - - - - X -

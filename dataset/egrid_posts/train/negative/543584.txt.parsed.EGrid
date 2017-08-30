@@ -1,0 +1,31 @@
+                CASE - S - - - - - -
+               SETUP - X - - - - - -
+             ENCRYPT - X - - - - - -
+                HOME - X - - - - - -
+           PARTITION - O - - - - - -
+            ANYTHING - O - - - - - -
+              FORMAT - X - - - - - O
+              FOLDER - X X O - - - -
+                SUDO - X - - - - - -
+      MOUNT.ECRYPTFS - S - - - - - -
+                  .. - O - - - - - -
+             COMMAND - S - - - - - -
+             SUPPORT - O - - - - - -
+             PACKAGE - O - - - - - -
+              LOCATE - O - - - - - -
+MOUNT.ECRYPTFS_PRIVATE - O - - - - - -
+           DIRECTORY - S - - - - - -
+                  HI - - O - - - - -
+                 MBR - - - X - - - -
+                8.10 - - - S - - - -
+                 ETC - - - O - - - -
+               THERE - - - - X - - -
+               CHECK - - - - - X - -
+               HTTPS - - - - - X - -
+//HELP.UBUNTU.COM/COMMUNITY/FOLDERENCRYPTION - - - - - X - -
+                HTTP - - - - - X - -
+//WIKI.UBUNTU.COM/ENCRYPTEDPRIVATEDIRECTORY - - - - - X - -
+//WWW.UBUNTUGEEK.COM/HOW-TO-CREATE-A-PRIVATE-ENCRYPTED-FOLDER-ON-UBUNTU-810-INTREPID.HTML - - - - - X - -
+               SOUND - - - - - - - X
+               MUSIC - - - - - - - X
+                  CD - - - - - - - X

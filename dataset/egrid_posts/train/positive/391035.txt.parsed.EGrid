@@ -1,0 +1,9 @@
+                FILE O - - - -
+ /ETC/LOGROTATE.CONF X - - - -
+              CHANGE X - - - -
+              DAEMON - O - - -
+                SUDO - - X - -
+         INVOKE-RC.D - - S - S
+               START - - O - X
+               WEB01 - - - - S
+          INITSCRIPT - - - - S

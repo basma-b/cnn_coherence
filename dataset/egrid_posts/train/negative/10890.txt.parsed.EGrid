@@ -1,0 +1,7 @@
+               SOUND X -
+                 CAT X -
+        /DEV/URANDOM X -
+                   | O -
+               APLAY X -
+                 OSS X -
+                ALSA X -

@@ -1,0 +1,10 @@
+           XORG.CONF X - - -
+             SECTION X - - -
+              DEVICE S - - -
+              DRIVER S - O O
+                I810 X - - S
+                  OK X - - -
+           DIFFERENT O - - -
+               THERE - - S -
+               CLASS - - - X
+                I915 - - - O

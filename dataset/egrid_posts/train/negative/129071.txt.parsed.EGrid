@@ -1,0 +1,4 @@
+                SUDO S -
+    /PROC/ACPI/SLEEP X -
+                BASH O -
+          PERMISSION S -

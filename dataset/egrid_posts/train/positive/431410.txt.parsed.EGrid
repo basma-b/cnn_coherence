@@ -1,0 +1,15 @@
+        GCONF-EDITOR O S -
+                APPS X - -
+                   > X - -
+               PANEL X - -
+       DEFAULT_SETUP X - -
+           TOPLEVELS S - -
+               DELAY X - -
+              CHANGE X X -
+            SETTINGS O S -
+              WINDOW O - -
+               DIDNT S - -
+         GNOME-PANEL - S S
+             KILLALL - X X
+                 SET - O -
+                WORK - - O

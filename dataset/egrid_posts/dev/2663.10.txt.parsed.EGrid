@@ -1,0 +1,10 @@
+              OPTION X - - -
+              KERNEL X - - -
+                BOOT X - - -
+               GRUB2 X - - -
+              NOACPI - X - -
+              CHANGE - X - -
+ GRUB_CMDLINE_LINUX= - S - -
+                SUDO - X - -
+         UPDATE-GRUB - O - -
+             DEJA-VU - - - X

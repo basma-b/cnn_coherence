@@ -1,0 +1,10 @@
+         /ETC/INIT.D S - - - - -
+              SCRIPT O - - - - -
+           DIRECTORY X - - - - -
+             DEFAULT X - - - - -
+            RUNLEVEL - X - - - -
+                LINK - - X - - -
+             /ETC/RC - - X - - -
+                CORE - - - O - -
+           FOUTRELIS - - - - X -
+                GRUB - - - - - X

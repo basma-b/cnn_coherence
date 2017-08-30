@@ -1,0 +1,16 @@
+                 USB S S - - - - -
+               USERS X X X - - - -
+                USER - X X X - - -
+                 HDD - - S - - - -
+              TPALMA - - X - - - -
+                TYPE - - - S - - -
+          FILESYSTEM - - - X - - -
+               DRIVE - - - O - - -
+               FAT32 - - - - X - -
+                 UID - - - - - X X
+                 SID - - - - - O -
+          /ETC/FSTAB - - - - - X O
+                 ONE - - - - - - X
+                 SEC - - - - - - X
+                 GID - - - - - - X
+                KDAN - - - - - - O

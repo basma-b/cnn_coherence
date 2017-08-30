@@ -1,0 +1,13 @@
+                 BOX X - - -
+                REAL X - - -
+                 WMA X - - -
+              STREAM X - - -
+               AUDIO O - - -
+                BEEP - S - -
+              PLUGIN - O - -
+          REALPLAYER - - S -
+              KERNEL - - - X
+               IMAGE - - - X
+             PACKAGE - - - O
+              INITRD - - - O
+               /BOOT - - - X

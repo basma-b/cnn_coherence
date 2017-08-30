@@ -1,0 +1,10 @@
+               CHOWN O - -
+                BOTH O - -
+                USER - S -
+                .ICE - X -
+                   * - S -
+          REWRITABLE - X -
+              THINGS - O -
+                  RW - O -
+         LSB_RELEASE - - S
+                 JOY - - O

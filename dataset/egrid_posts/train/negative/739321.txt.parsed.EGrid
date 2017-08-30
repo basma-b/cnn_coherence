@@ -1,0 +1,26 @@
+             MACHINE O - - - - - - -
+             ADAPTER O - - - - - - -
+             ANOTHER X - - - - - - -
+              REASON S - - - - - - -
+                CARD - S - - - - - -
+                SHOW - S - - - - O -
+              KERNEL - X - - - - - -
+              MODULE - X - - - - - -
+                LOAD - O - - - - - -
+                  -K - X - - - - - -
+             NETWORK - S - - - - - -
+/ETC/NETWORK/INTERFACES - X - - - - - -
+                FILE - X - - - - - -
+                DHCP - O - - - - - -
+            IPCONFIG - X - - - X - -
+                NAME - - O - - - - -
+                ETH0 - - X - - - - -
+            ANYTHING - - X - - - - -
+                THAT - - - - S - - -
+            SURPRISE - - - - O - - -
+           MICROSOFT - - - - - X - -
+             WINDOWS - - - - - S - -
+             COMMAND - - - - - O - -
+            IFCONFIG - - - - - - X -
+                  -A - - - - - - O -
+           INTERFACE - - - - - - X -

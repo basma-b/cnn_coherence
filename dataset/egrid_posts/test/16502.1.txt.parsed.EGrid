@@ -1,0 +1,27 @@
+            SOFTWARE O - O X - - -
+               SOUND X - - - - O -
+                CARD X - - - - - -
+                FOAD S - - - - - -
+                SHOW S - - - - - -
+               LSPCI S - - - - - -
+             PROGRAM X - - - - - -
+                TYPE - X - - - - -
+                SUDO - X - - - - -
+             APT-GET - S - - - - -
+             UPGRADE - O - - - - -
+              REMOVE - X - - - - -
+                   E - - X - - - -
+/VAR/CACHE/APT/ARCHIVES/LOCK - - X - - - -
+            RESOURCE - - X - - - -
+           DIRECTORY - - X - - - -
+/VAR/CACHE/APT/ARCHIVES/ - - X - - - -
+                  OK - - S - - - -
+              CENTRE - - X X - - -
+               THERE - - - - X - -
+             KILLALL - - - - - X -
+           PULSEADIO - - - - - X -
+            ~/.PULSE - - - - - S -
+                   * - - - - - S -
+          PULSEAUDIO - - - - - O -
+              SECOND - - - - - O -
+             DEFAULT - - - - - X -

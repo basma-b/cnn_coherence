@@ -1,0 +1,16 @@
+               THERE S - - - -
+                PROB O - - - -
+                 DNS X - - - -
+                TYPE X - - - -
+                 IPS O - - - -
+            WEBSITES S - - - -
+            INTERNET - X - - -
+           BROADBAND - - X - -
+            WIRELESS - - X - -
+              ROUTER - - X - X
+                 DSL - - X - -
+                 NAT - - O - -
+    /ETC/RESOLV.CONF - - - X -
+         192.168.1.1 - - - - S
+                THIS - - - - S
+             ADDRESS - - - - O

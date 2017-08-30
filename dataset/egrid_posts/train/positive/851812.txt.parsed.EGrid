@@ -1,0 +1,16 @@
+                  DC O - - - -
+                   M X - - - -
+               ERROR O - - - -
+            SOFTWARE O - - - -
+               THERE - X - - -
+           LIBC.SO.6 - X - - -
+                /LIB - X - - -
+                THAT - - X - -
+                MINE - - S - -
+LIB/X86_64-LINUX-GNU - - X - -
+             SYMLINK - - S - -
+    /USR/LIB/LIBC.SO - - O - X
+        /LIB/LIBC.SO - - O - -
+                 LIB - - - X -
+              LOADER - - - S -
+                 APP - - - X -

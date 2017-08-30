@@ -1,0 +1,23 @@
+         TOUCHSCREEN O - - -
+     FUJITSU-SIEMENS S - - -
+               P1510 O - - -
+                HTTP O - - -
+//WWW.CONAN.DE/TOUCHSCREEN/P-SERIES.HTML X - - -
+                 SOM - X - -
+               DEBUG - X - -
+                INFO - O - -
+           SOMETHING - X - -
+   /VAR/LOG/XSESSION - - X -
+             WINDOWS - - - X
+               SHRES - - - O
+                BOOT - - - X
+          /ETC/FSTAB - - - S
+                 ONE - - - S
+             ENTRIES - - - X
+           //MAIN/C/ - - - X
+        /MEDIA/MAINC - - - X
+                CIFS - - - X
+               GUEST - - - X
+                  RW - - - X
+      IOCHARSET=UTF8 - - - X
+      FILE_MODE=0777 - - - X

@@ -1,0 +1,15 @@
+XSERVER-XORG-INPUT-EVDEV - X - - -
+               X.ORG - X - - -
+                   X - X - - -
+              SERVER - X - - -
+               INPUT - X - - -
+              DRIVER - X - - X
+                  NP - - X - -
+             REBECCA - - - S -
+  /ETC/X11/XORG.CONF - - - X -
+                FILE - - - O -
+        XSERVER-XORG - - - - X
+              RADEON - - - - X
+              UBUNTU - - - - S
+           RUNLEVELS - - - - O
+               RIGHT - - - - O

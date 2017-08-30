@@ -1,0 +1,16 @@
+                CARD X X -
+              DRIVER X - -
+                  IM S - -
+               VIDEO - X -
+               LSPCI - X -
+                   | - X -
+                GREP - X -
+                  -I - X -
+                 VGA - S -
+                PORT - X -
+                XORG - X -
+          INTERFACES - - O
+              OPTION - - X
+       SPEED/AUTONEG - - O
+            MII-TOOL - - S
+                 JOB - - O

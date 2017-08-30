@@ -1,0 +1,19 @@
+                THAT X - - - -
+      ACPI_OSI=LINUX - X - - -
+               TWEAK - - X - -
+                ACPI - - X - -
+              KERNEL - - X - X
+                 RUN - - O - -
+         PACKAGENAME - - O - -
+                HTTP - - O - -
+               CHMOD - - X - -
+                  +X - - X - -
+              OUTPUT - - O - -
+                 BUG - - X - -
+F=9CDCEEBD9AD1381F5138000AAC53968B9086EFB5 - - - S -
+               SPEED - - - X -
+                 NFS - - - - X
+              SERVER - - - - S
+               STYLE - - - - X
+                INIT - - - - X
+              SCRIPT - - - - O

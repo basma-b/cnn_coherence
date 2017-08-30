@@ -1,0 +1,34 @@
+             PROGRAM O - - - - - - - - -
+               ERROR X - - - - - - - - -
+                LOAD X - - - - - - - - -
+               SHARE X - - - - - - - - -
+           LIBRARIES S - - - - - - - - -
+ LIBGTK-X11-2.0.SO.0 X - - - - - - - - -
+              OBJECT X - - - - - - - - -
+                FILE O - - - - - - X - -
+           DIRECTORY O - - - - - - - - -
+                  .. - X - - - - - - - -
+            /ECLIPSE - X - - - - - - - -
+             SYMLINK - - S - - - - - - -
+              TARGET - - S - - - - - - -
+            /USR/LIB - - X - - - - - - -
+                THAT - - - S - - - - - -
+LD_LIBRARY_PATH=/USR/LIB - - - O - - - - - -
+               AVAIL - - - X - - - - - -
+              LATTER - - - - - S - - - -
+/USR/LIB/LIBGTK-X11-2.0.SO.0 - - - - - X - - - -
+                SHOW - - - - - X - - - -
+             PACKAGE - - - - - S - - - -
+                 THE - - - - - - - S - -
+              LIBGTK - - - - - - - S - -
+         LIBMYOWNLIB - - - - - - - X - -
+          DIFFERENCE - - - - - - - O - -
+         ECLIPSE.ORG - - - - - - - X - -
+                LINE - - - - - - - - - X
+              RETYPE - - - - - - - - - O
+                CTRL - - - - - - - - - X
+           CHARACTER - - - - - - - - - O
+                NTFS - - - - - - - - - X
+          RESOLUTION - - - - - - - - - X
+              ANYHOW - - - - - - - - - X
+                 YEP - - - - - - - - - O

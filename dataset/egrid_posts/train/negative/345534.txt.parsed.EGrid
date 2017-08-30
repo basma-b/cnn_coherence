@@ -1,0 +1,22 @@
+             ANYBODY S - - - - - - - - - - -
+                BIND X - - - - - - - - - - -
+               BIND9 - O - - - - - - - - - -
+             LOOKUPS - S - - - - - - - - - -
+                LOSS - X - - - - - - - - - -
+                 WHY - X - - - - - - - - - -
+               IDEAS - - X - - - - - - - - -
+       ERRORMESSAGES - - - X - - - - - - - -
+                ZONE - - - - X O - - - - - -
+    NAMED.CONF.LOCAL - - - - - X - - - - - -
+            PROBLEMS - - - - - X - - - - - -
+146.205.206.IN-ADDR.ARPA - - - - - X - - - - - -
+           REFERENCE - - - - - S - - - - - -
+                FILE - - - - - X X - - - - X
+                INFO - - - - - X - - - - - -
+            PASTEBIN - - - - - - - X - - - -
+                  ED - - - - - - - - - X - -
+             MESSAGE - - - - - - - - - - - O
+                TTY8 - - - - - - - - - - - X
+                 LOG - - - - - - - - - - - X
+            /VAR/LOG - - - - - - - - - - - X
+           DMESG.LOG - - - - - - - - - - - X

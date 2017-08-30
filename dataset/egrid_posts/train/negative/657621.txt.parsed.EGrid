@@ -1,0 +1,22 @@
+/ETC/GRUB.D/30_OS-PROBER X - - - - - - - -
+                GRUB O - - - - - - - -
+                OSES X - - - - - - - -
+                WONT S - - - - - - - -
+             MEMTEST X - - - - - - - -
+                 RYT O - - - - - - - -
+              PARSER - - S - - - - - -
+/ETC/GRUB.D/20_MEMTEST86+ - - X - - - - - -
+/ETC/GRUB.D/10_LINUX - - X - - - - - -
+              SCRIPT - - X - - - - - -
+                SUDO - - X - - - - - -
+        UPDATE-GRUB2 - - X - - - - - -
+                 OKI - - X - - - - - -
+             DISPLAY - - X - - - - - -
+                NAME - - O - - - - - -
+             ENTRIES - - X - - - - - -
+               GRUB2 - - X - - - - - -
+                   U - - - X - - - - -
+                IDEA - - - X - - - - -
+              THREAD - - - - - - O - -
+                WIKI - - - - - - S - -
+           PARTITION - - - - - - - - S

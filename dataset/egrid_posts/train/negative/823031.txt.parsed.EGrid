@@ -1,0 +1,19 @@
+                KIND X - X - - - - -
+          FILESYSTEM X - X - - - - -
+                RAID X - X - - - X -
+                DISK X - - X - - X -
+                 ANY - O - - - - - -
+                 EXT - X - - - - - -
+         FILESYSTEMS - X - - - - - -
+                 PLS - O - - - - - -
+               HTTPS - - X - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/INSTALLATION/SOFTWARERAID - - S - - - - -
+            QUESTION - - X - - - - -
+               RAID0 - - - X - - - -
+                DATA - - - X - - O -
+                DONT - - - - X - - -
+                THAT - - - - - S - -
+               ARRAY - - - - - - O -
+                 4TH - - - - - - X -
+               MDADM - - - - - - X -
+            COMPUTER - - - - - - - S

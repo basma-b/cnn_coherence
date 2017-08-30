@@ -1,0 +1,10 @@
+               .HELP O - - - - - - -
+                 USE - X - - - - - -
+             DEFAULT - - S - - - - -
+              UBUNTU - - X - - - - -
+              SCREEN - - - - - O - -
+              NOBODY - - - - - - - X
+                  -D - - - - - - - X
+/ETC/PGBOUNCER/PGBOUNCER.INI - - - - - - - S
+                SAME - - - - - - - O
+/ETC/DEFAULT/PGBOUNCER - - - - - - - X

@@ -1,0 +1,27 @@
+               MYSQL O - - -
+                SUDO X - - -
+             APT-GET S - - -
+    MYSQL-CLIENT-5.0 O - - -
+               ERROR O - - -
+               HY000 X - - -
+              SERVER X X - -
+              SOCKET X - - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK S - - -
+              ANYONE X - - -
+            PACKAGEE - O - -
+              CLIENT - X - -
+                BOOT - - - X
+           PARTITION - - - O
+                THIS - - - O
+        /CHROOT/BOOT - - - X
+              KERNEL - - - X
+                FILE - - - X
+                GRUB - - - X
+              CONFIG - - - S
+                LUCK - - - O
+              UBUNTU - - - X
+              THINGS - - - O
+              CENTOS - - - X
+                 HAT - - - X
+                BASE - - - O
+             SUCCESS - - - X

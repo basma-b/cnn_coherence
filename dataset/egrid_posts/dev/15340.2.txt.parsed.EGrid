@@ -1,0 +1,12 @@
+                THAT S - - - - - - -
+                 ALL O - - - - - - -
+          PERMISSONS - S - - - - - -
+       /USR/BIN/JAVA - S - - - - - -
+             SYMLINK - O - O - - - -
+               TRAIL - - O - - - - -
+              BINARY - - X - - - - -
+                FACT - - - - - - X -
+                FILE - - - - - - X -
+                NAME - - - - - - S -
+               SPACE - - - - - - O -
+          EVERYTHING - - - - - - - X

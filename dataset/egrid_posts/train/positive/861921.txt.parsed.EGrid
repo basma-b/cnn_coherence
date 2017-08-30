@@ -1,0 +1,7 @@
+            DISKETTE X -
+            DESKTOP/ X -
+                SUDO S -
+            UID=1000 O -
+            /DEV/FD0 X -
+                /MNT X O
+             NOTHING S -

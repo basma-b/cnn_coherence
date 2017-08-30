@@ -1,0 +1,12 @@
+              UBUNTU X - - - - - -
+               FSTAB O - - - - - -
+            ANYTHING - O - - - - -
+          /ETC/FSTAB - X - - - - -
+         FILESYSTEMS - X - - - - -
+                 CAT - - - - X - -
+            UMOUNTFS - - - - X - -
+              SCRIPT - - - - O - -
+         /ETC/INID.D - - - - X - -
+             MOUTNFS - - - - O - -
+                   * - - - - - S -
+            QUESTION - - - - - - O

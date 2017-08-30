@@ -1,0 +1,10 @@
+               CHECK O - - - - - - - -
+                 C++ X - - - - - - - -
+        PREPROCESSOR S - - - - - - - -
+                  .. O - - - - - - - O
+           CONFIGURE X - - - - - - - -
+               ERROR X - X - - - - - -
+          CONFIG.LOG X - - - - - - - -
+              DETAIL X - - - - - - - -
+             MESSAGE - - S - - - - - -
+            SOLUTION - - - - - - - - X

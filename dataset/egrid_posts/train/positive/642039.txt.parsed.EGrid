@@ -1,0 +1,17 @@
+             PROBLEM S - - - - -
+             NETWORK X - - - - -
+            ACTIVITY X - - - - -
+            ETHERNET - - X - - -
+              OUTPUT - - X - - O
+               ROUTE - - X X - -
+                  -R - - X - - -
+                SUDO - - X - - -
+            DHCLIENT - - X - - -
+                ETH0 - - X - - -
+                  -N - - - X - -
+             MACHINE - - - X - -
+                CANT - - - X - -
+              ACCESS - - - X - -
+            INTERNET - - - X - -
+               FLASH - - - - - X
+               DRIVE - - - - - X

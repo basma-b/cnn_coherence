@@ -1,0 +1,16 @@
+              SUBNET O - - - -
+              SCRIPT X - - - -
+             NETMASK O - - - -
+       255.255.255.0 - S - - -
+                ETH0 - X - - -
+        192.168.3.22 - O - - -
+                  YA - - X - -
+               THING - - - S -
+                 SSH - - - X -
+              SERVER - - - X -
+              REASON - - - S -
+            LOGGINGS - - - O -
+                 LOG - - - S -
+            /VAR/LOG - - - X -
+             MESSAGE - - - X -
+                NONE - - - - X

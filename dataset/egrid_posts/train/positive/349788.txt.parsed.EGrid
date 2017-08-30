@@ -1,0 +1,23 @@
+             PROBLEM X - - - - - -
+             NETWORK O X - - - - -
+            LOOPBACK - O - - - - -
+            IFCONFIG - X - - - - -
+                  -A - X - - - - -
+                CARD - O - - - - -
+             RTL8139 - X - - - - -
+                LSHW - X - - - - -
+                AUTO - - X - - - -
+              ETH0\N - - S - - - -
+                ETH0 - - O - S - -
+                INET - - X - - - -
+                DHCP - - O - - - -
+/ETC/NETWORK/INTERFACES - - X - - - -
+                SUDO - - X - X - -
+                IFUP - - X - X - -
+         SIOCSIFADDR - - O - - - -
+              DEVICE - - X - - - -
+              MODULE - - - O - - -
+             8139TOO - - - - O - -
+            MODPROBE - - - - X - -
+              OUTPUT - - - - X - -
+                  RE - - - - O - -

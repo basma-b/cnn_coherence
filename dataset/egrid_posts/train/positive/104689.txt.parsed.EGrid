@@ -1,0 +1,13 @@
+                THIS X S - - X
+                EXT3 - X - - -
+             DEFAULT - X - - -
+               FSTAB - X - - -
+                   > - X - - -
+                ROOT - X - - -
+           PARTITION - O - - X
+                 ALL - O - - -
+                  RO - X - - -
+                USER - X - - -
+                AUTO - X - - -
+                LINE - - - - O
+                NTFS - - - - X

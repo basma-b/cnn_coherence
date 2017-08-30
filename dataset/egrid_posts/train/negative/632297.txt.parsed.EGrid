@@ -1,0 +1,34 @@
+              SERVER X X S - - O - X - - - - - - -
+             NETWORK X - - - O - - - - - - - - - -
+          INTERFACES S - - - - - - - - S X - - - -
+            IFCONFIG X - - - - - - - - - - - - - -
+                  LO - S - - - - - - - - - - - - -
+              DEVICE - S - - - - - - - - - - - - -
+                LINE - S - - - - - - - - X - - - -
+                EACH - X - - - - - - - - - - - - -
+             EDITION - X - - - - - - - - - - - - -
+             COMMAND - X - - - - - - - - - - - - -
+             ATHEROS - O - - - - - - - - - - - - -
+             DRIVERS - S - - - - - - - - - - - - -
+                  .. - - X - - - - - - - - - - - -
+               .YOUR - - X - - - - - - - - - - - -
+                THAT - - - S - - - - - - - - - - -
+                BITE - - - O - - - - - - - - - - -
+                 ODD - - - S - - - - - - - - - - -
+               THING - - - - X - - - - - - - - - -
+           INTERFACE - - - - X - - S - - - - - - -
+               SETUP - - - - - X - - - - - - - - -
+                ETHX - - - - - O - - - - - - - - -
+/ETC/NETWORK/INTERFACES - - - - - - X - - - - - - - -
+              CONFIG - - - - - - O - S - - - - - -
+                ETH0 - - - - - - X - O - X - - - -
+              REASON - - - - - - - X - - - - - - -
+               DMESG - - - - - - - X - - - - - - -
+                ETH1 - - - - - - - X X - - - - - -
+             RESTART - - - - - - - - O - - - - - -
+                 TRY - - - - - - - - - X - - - - -
+                THIS - - - - - - - - - O - - - - -
+/ETC/INIT.D/NETWORKING - - - - - - - - - - S - - - -
+                AUTO - - - - - - - - - - X - - - -
+                DHCP - - - - - - - - - - S - - - -
+                FILE - - - - - - - - - - - - - - O

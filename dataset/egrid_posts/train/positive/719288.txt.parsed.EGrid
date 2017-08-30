@@ -1,0 +1,26 @@
+              DEVICE X - X - - -
+                 I.E X - - - - -
+                TTY0 - X - - - -
+                 USB - S - - - -
+                PLUG - X - - - -
+               INTO/ - O - - - -
+                   * - - S - - -
+            IWCONFIG - - X - - -
+            IFCONFIG - - S - - -
+             DEVICES - - O - - -
+                  .. - - O - - -
+                HTTP - - O - - -
+                LOOK - - S - - -
+                WORK - - O - - -
+             NETWORK - - X - - X
+               HHUTI - - O - - -
+                SUDO - - X - - -
+                LSHW - - X - - -
+                LINE - - O - - -
+                NAME - - X - - -
+                WEEK - - - O - -
+                   / - - - - X -
+KERNEL/DRIVERS/NET/WIRELESS/ATH/ATH9K/ATH9K.KO - - - - X -
+             DRIVERS - - - - - S
+                LOAD - - - - - X
+            WIRELESS - - - - - X

@@ -1,0 +1,26 @@
+         SSH-PROBLEM X - - - - - - - - - - - -
+              SERVER S - - - S X X - - - - - -
+                 KEY O - - X - - - - - - - - S
+          PASSPHRASE X - - X - - - - - - - - -
+                CANT - S - - - - - - - - - - -
+              CLIENT - - - S - X - - - X - - -
+                 OK. - - - - O - - - - - - - -
+             PROBLEM - - - - O - - - - - - - -
+               GUESS - - - - - S - - - - - - -
+         PERMISSIONS - - - - - S - - - - - - -
+              ~/.SSH - - - - - S - - - - - - -
+                  OK - - - - - O - - - - - - -
+                CASE - - - - - X - - - - - - -
+       ~/.SSH/ID_RSA - - - - - X - - - - - - X
+               FAULT - - - - - - - - - S - - -
+                SIDE - - - - - - - - - X - - -
+            PASTEBIN - - - - - - - - - - - X -
+              OUTPUT - - - - - - - - - - - X -
+                HTTP - - - - - - - - - - - X -
+//PASTE.UBUNTU.COM/127267/ - - - - - - - - - - - X -
+              DEBUG1 - - - - - - - - - - - - X
+                READ - - - - - - - - - - - - X
+                FILE - - - - - - - - - - - - X
+/HOME/ECHO/.SSH/ID_RSA - - - - - - - - - - - - S
+           DIRECTORY - - - - - - - - - - - - X
+                   * - - - - - - - - - - - - X

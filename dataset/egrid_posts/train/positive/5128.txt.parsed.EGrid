@@ -1,0 +1,24 @@
+              ANYONE S - - - -
+                SMTH O - - - -
+            SCANNERS X - O - -
+               XSANE - - X - -
+                IDEA - - S - -
+           INSTALLER - - S - -
+                BASE - - O - -
+               SARGE - - X - -
+            UID=1000 - - O - -
+             OPTIONS - - X - -
+               FSTAB - - X - -
+                LINE - - X - -
+                  .. - - O - -
+                PASS - - O - -
+             VGA=318 - - X - -
+              KERNEL - - X - -
+                BOOT - - X - -
+            1024X768 - - X - -
+              COLOUR - - X - -
+                GRUB - - S - -
+       NONALTOPTIONS - - X - -
+ /BOOT/GRUB/MENU.LST - - X - -
+                WHAT - - - - X
+NONALTOPTION=VGA=318 - - - - X

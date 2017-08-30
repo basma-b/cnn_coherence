@@ -1,0 +1,20 @@
+              DEVICE O - - - -
+                  ID X - - - -
+             SUPPORT O - - - -
+           DISK-BYID S - - - -
+                 'EM O - - - -
+           /DEV/SDA7 - X - - -
+                MENA - X - - -
+              LABELS - - S - -
+                BITE - - X - -
+               UUIDS - - S - -
+                GATE - - X - -
+            HELLBOMB - - O - -
+              KERNEL - - X O -
+              INITRD - - X - -
+             SECTION - - X - -
+                  RO - - - X -
+/BOOT/INITRD.IMG-2.6.24-16-GENERI - - - O -
+              NUMBER - - - X -
+               MATCH - - - O -
+                  OK - - - - X

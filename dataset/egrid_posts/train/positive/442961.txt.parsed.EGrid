@@ -1,0 +1,19 @@
+                  RE X - - - - - - - -
+                THIS X - - - - - - - -
+                  .. - X - - - - - S -
+          VIRTUALBOX - X - - - - O X -
+              KERNEL - X X S - - - X -
+              DRIVER - X - - - - - - -
+              MODULE - - S - - - - S -
+                LOAD - - O - - - - - -
+              REASON - - X - - - - - -
+ /ETC/INIT.D/VBOXDRV - - - X - - - - -
+               SETUP - - - X X - - - -
+                ROOT - - - X X - - - -
+             COMMAND - - - - - - O - -
+            STOPPING - - - - - - - X -
+               -RSB- - - - - - - - O -
+                SUDO - - - - - - - - X
+                   > - - - - - - - - X
+             APT-GET - - - - - - - - X
+VIRTUALBOX-OSE-MODULES - - - - - - - - X

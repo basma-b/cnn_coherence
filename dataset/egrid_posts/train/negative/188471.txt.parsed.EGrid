@@ -1,0 +1,17 @@
+                WORK S - - - - O - - -
+               REPOS - - X - - - - - -
+                 USE - - - X - - - - -
+               AGENT - - - X - - - - -
+           SSH-AGENT - - - - S - - - -
+             DEFAULT - - - - X - - - -
+                  .. - - - - - X X - -
+                 KEY - - - - - S S S -
+              CLIENT - - - - - X X - -
+                  PC - - - - - X - - -
+             WINDOWS - - - - - S - - -
+                GRIP - - - - - O - - -
+             MACHINE - - - - - S S - -
+               RIGHT - - - - - X - - -
+              SERVER - - - - - - X X -
+~/.SSH/AUTHORIZED_KEYS - - - - - - - S -
+                THAT - - - - - - - - X

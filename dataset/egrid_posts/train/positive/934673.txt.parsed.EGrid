@@ -1,0 +1,21 @@
+              ANYONE S - - - - -
+             DRIVERS S - - - - -
+              MODULE - S X - - -
+                 GLX - - X - - -
+                 CAT - - X - - -
+ /VAR/LOG/XORG.0.LOG - - X - - -
+                   | - - X - S -
+                GREP - - X - - -
+                  II - - X - - -
+          LOADMODULE - - X - - -
+             LOADING - - X - - -
+/USR/X11R6/LIB/MODULES/EXTENSIONS/LIBGLX.SO - - X - - -
+             VENDOR= - - X - - -
+              NVIDIA - - X - - -
+         CORPORATION - - X - - -
+                LOAD - - O - - -
+                 DRI - - X - - -
+                LINE - - S - - -
+                THAT - - - O - -
+            XDPYINFO - - - - X -
+                  NO - - - - - S

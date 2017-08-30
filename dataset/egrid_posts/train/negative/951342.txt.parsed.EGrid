@@ -1,0 +1,16 @@
+                HTTP - X - - - -
+                   % - X - - - -
+              PG_CTL - - S - - -
+            ANYWHERE - - X - - -
+                TIME - - - O - -
+            LOCATION - - - X - -
+                USER - - - - X -
+                PATH - - - - O O
+/USR/LIB/POSTGRESQL/8.4/BIN - - - - - X
+                TERM - - - - - X
+        MODIFICATION - - - - - O
+               SHELL - - - - - X
+                FILE - - - - - X
+             .BASHRC - - - - - X
+              .ZSHRC - - - - - X
+            WHATEVER - - - - - X

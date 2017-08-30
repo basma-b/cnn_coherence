@@ -1,0 +1,16 @@
+              UBUNTU X - - - - - - -
+              VESAFB X - - - - - - -
+                THAT - S - - - - - -
+                BIOS - X - - - - - -
+              DRIVER - O - - - - - -
+               VTTYS - X - - - - - -
+                PART - - - O - - - -
+              INITRD - - - X - - - -
+               LSMOD - - - - S - - -
+              MODULE - - - - O - - -
+/ETC/MODPROBE.D/WHATEVER.CONF - - - - - X - -
+           BLACKLIST - - - - - - X -
+                HTTP - - - - - - - X
+//WWW.MIKERUBEL.ORG/COMPUTERS/RSYNC_SNAPSHOTS/ - - - - - - - X
+                   < - - - - - - - X
+               GUIDE - - - - - - - X

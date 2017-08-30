@@ -1,0 +1,13 @@
+                LINE X - - - - -
+                THIS X - - - - -
+             IN=ETH1 - - - S - -
+                OUT= - - - S - -
+                  DF - - - S - -
+           PROTO=UDP - - - S - -
+           PREC=0XC0 - - - S - -
+              REPORT - - - S - -
+            FIREWALL - - - X - -
+              SCREEN - - - - X -
+               ELB0W - - - - X -
+           SOMETHING - - - - - O
+            PLYMOUTH - - - - - X

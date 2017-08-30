@@ -1,0 +1,10 @@
+               ERROR S - -
+                EXEC X - -
+/USR/LIB/VMWARE/BIN/VMWARE-VMX O - -
+              FORMAT X - -
+          PERMISSION X - -
+                FILE O - -
+                 RUN - - X
+                NTFS - - O
+              LIVECD - - X
+              GKSUDO - - S

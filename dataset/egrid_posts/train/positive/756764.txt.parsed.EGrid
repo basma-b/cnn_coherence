@@ -1,0 +1,9 @@
+                THAT X - - - - - - -
+            HARDWARE X - - - - - - -
+                ETH1 - X - - - - - -
+               GEDIT - - X - - - - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - O - - - - -
+                 ALL - - - O - - - -
+                LINE - - - X - - - -
+              REBOOT - - - X - - - -
+             SUCCESS - - - - X - - -

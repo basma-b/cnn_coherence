@@ -1,0 +1,15 @@
+                ATA2 S - - - -
+                 ATA X X - - -
+                PORT O X - - -
+          CONTROLLER X - - - -
+               DRIVE - S X - -
+               ERROR - X - - -
+             MESSAGE - S - - -
+                PATA - - X - -
+           INTERFACE - - X - -
+             JUMPERS - - - O -
+                  .. - - - - O
+             ATH_PCI - - - - O
+              UBUNTU - - - - X
+                  PS - - - - X
+               12.10 - - - - X

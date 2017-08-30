@@ -1,0 +1,12 @@
+                   X S - - -
+                 DOF X X - -
+         INPUTDEVICE O X - X
+             DEGREES - - - X
+             FREEDOM - - - X
+               INPUT - - - X
+              DEVICE - - - X
+               MOUSE - - - X
+             SECTION - - - O
+           XORG.CONF - - - X
+                LIST - - - O
+             ENTRIES - - - O

@@ -1,0 +1,12 @@
+              ANYONE S - - - - -
+              SDCARD S - - - - -
+                THAT - O - - - -
+         GNOME-MOUNT - S - - - -
+                  RW - S - - - -
+                CANT - X - - - -
+               UID=0 - X - - - -
+            UID=1000 - X - - - -
+           UMASK=000 - O - - - -
+                WORK - O - - - -
+                 BUG - - - X - -
+                DISK - - - O X -

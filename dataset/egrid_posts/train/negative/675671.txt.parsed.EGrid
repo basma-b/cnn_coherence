@@ -1,0 +1,6 @@
+             COMMAND X -
+                SUDO O -
+        XSERVER-XORG X -
+                DPKG X -
+                 USE X -
+              SCREEN - O

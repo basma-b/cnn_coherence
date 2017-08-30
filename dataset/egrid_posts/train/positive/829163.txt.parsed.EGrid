@@ -1,0 +1,14 @@
+            LOCATION X - - - - -
+                MOVE X - - - - -
+              BINARY X - - - - -
+              SCRIPT X - - - - -
+                PATH O - - - - -
+                 PWD S - - - - -
+              PARENT O - - - - -
+              FOLDER X - - - - -
+               ALIAS - X X - - -
+             COMMAND - - X - - -
+                 WAY - - - O - -
+                TASK - - - O - -
+                  RM - - - - - O
+               USERS - - - - - S

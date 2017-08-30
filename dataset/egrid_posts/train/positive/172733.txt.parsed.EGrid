@@ -1,0 +1,25 @@
+                SIZE X - - - - - - - - - - - - - -
+                BASH X - - S - - - - - - - - - - -
+           FONTSIZES - - - X - - - - - - - - - - -
+                CANT - - - - X - - - - - - - - - -
+             OPTIONS - - - - O - - - - - - - - - -
+                GRUB - - - - X - - - - - - - - - -
+            FONTSIZE - - - - - - O - - - - - - - -
+          TEXCONSOLE - - - - - - X - - - - - - - -
+                WAYS - - - - - - - X - - - - - - -
+                 YES - - - - - - - X - - - - - - -
+                 RES - - - - - - - - X - - - - - -
+                LOOK - - - - - - - - - O - - - - -
+                 STH - - - - - - - - - S - - - - -
+              VESAFB - - - - - - - - - X - - - - -
+/USR/SRC/LINUX/DOCUMENTATION - - - - - - - - - X - - - - -
+           VGA=0X305 - - - - - - - - - - O - - - -
+            1024X768 - - - - - - - - - - X - - - -
+           VGA=0X307 - - - - - - - - - - X - - - -
+            MENU.LST - - - - - - - - - - X - - - -
+/USR/SRC/LINUX/DOCUMENTATION/FB/ - - - - - - - - - - X - - - -
+              KERNEL - - - - - - - - - - - X - - X
+              SOURCE - - - - - - - - - - - O - - O
+             HEADERS - - - - - - - - - - - O - - -
+                DONT - - - - - - - - - - - - - - X
+            DOCUMENT - - - - - - - - - - - - - - O

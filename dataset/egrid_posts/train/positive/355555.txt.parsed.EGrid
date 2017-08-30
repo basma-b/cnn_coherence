@@ -1,0 +1,32 @@
+              ANYONE S - - - - - - - -
+                TYPE X - - - - - - - -
+           /DEV/HDA2 S - - - X - - - -
+             MESSAGE O - - - - - - - -
+                 USE X - - - - - - - -
+              SYSTEM X - - - - - O - -
+          FILESYSTEM O S - - - - - - -
+              FORMAT - X - - - - - - -
+               MOUNT - X - - X - - - -
+         FILESYSTEMS - O - - - - - - -
+              OUTPUT - X O - X X - - S
+                  -L - - X - - - - - -
+                THIS - - - - S - - - -
+                  .. - - - - O - - - -
+              UMOUNT - - - - X S - - -
+                HTTP - - - - O S - - -
+//PASTE.UBUNTU-NL.ORG/41401/ - - - - O - - - -
+//PASTE.UBUNTU-NL.ORG/41404/ - - - - X - - - -
+                MKFS - - - - - S X - -
+                EXT3 - - - - - S - - -
+                 HMM - - - - - S - - -
+           MKFS.EXT3 - - - - - O - - -
+                SAME - - - - - O - - -
+            FRONTEND - - - - - O - - -
+                   * - - - - - - X - -
+                BOOT - - - - - - O - -
+                  CD - - - - - - X - -
+             COMMAND - - - - - - O - -
+                LINE - - - - - - X - -
+              METHOD - - - - - - O - -
+                THAT - - - - - - - - O
+            /DEV/HDA - - - - - - - - X

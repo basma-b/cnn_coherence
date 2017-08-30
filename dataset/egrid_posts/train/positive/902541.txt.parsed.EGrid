@@ -1,0 +1,24 @@
+                TIME O - - - - -
+                HTTP O - - - - -
+         UBUNTU-BASE S - - - - -
+  ARCHIVE.UBUNTU.COM X - - - - -
+       82.211.81.138 X - - - - -
+          CONNECTION X - - - - -
+//ARCHIVE.UBUNTU.COM/UBUNTU/POOL/MAIN/U/UBUNTU-META/UBUNTU-BASE_0.3_I386.DEB O - - - - -
+             ARCHIVE O - - - - -
+              UPDATE O - - - - -
+                 THE - O - - - -
+        DIST-UPGRADE - O - - - -
+             PROCESS - X - - - -
+                SUCH - - X - - -
+               CLOCK - - O - - -
+                POOL - - X - - -
+          /ETC/RCS.D - - - - X -
+          /ETC/RC2.D - - - - S -
+              SCRIPT - - - - O -
+                BOOT - - - - X -
+               ORDER - - - - X -
+             COMMAND - - - - S -
+                  ~T - - - - S -
+                TASK - - - - X -
+                 CMD - - - - - S

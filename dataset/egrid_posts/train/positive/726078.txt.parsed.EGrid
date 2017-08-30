@@ -1,0 +1,15 @@
+          FILESYSTEM O - X - - - -
+                BOOT X - - - - - -
+                FSCK X - - - - - -
+                  -D X - X - - - -
+        /FSCKOPTIONS - S - - - - -
+            OPTIMIZE - - S - - - -
+                  .. - - O - - - -
+         DIRECTORIES - - X - - - -
+          REINDEXING - - X - - - -
+                SORT - - X - - - -
+            COMPRESS - - X - - - -
+                 GBS - - - O - - -
+            HARDDISK - - - X - - -
+              UBUNTU - - - S - - -
+                THAT - - - - O X -

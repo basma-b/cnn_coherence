@@ -1,0 +1,13 @@
+          PERMISSION - X - - - - - -
+          SRWXRWXRWX - X - - - - - -
+          PARAMETERS - - X - - - - -
+               CHMOD - - X - - - - -
+                READ - - - S - - - -
+             EXECUTE - - - O - - - -
+                  .. - - - - - S - -
+              DETAIL - - - - - X - -
+                DOCS - - - - - O - -
+              DEVICE - - - - - - X -
+              REMOTE - - - - - - - S
+                SORT - - - - - - - X
+                WORK - - - - - - - X

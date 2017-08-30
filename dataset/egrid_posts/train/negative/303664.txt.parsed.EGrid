@@ -1,0 +1,21 @@
+              UBUNTU - X - - - - - - - -
+                 LTS - X - - - - - - - -
+              SERVER - O - - - - - - - -
+             NETWORK - O - - - - - - - -
+                DHCP - - X - - - - - - -
+                 ALL - - S - - - - - - -
+                  IP - - O X - - - - - -
+         APPROPRIATE - - - O - - - - - -
+/ETC/NETWORK/INTERFACES - - - X - - - - - -
+                 LAN - - - O - - - - - -
+            INTERNET - - - X - - - - - -
+              DOMAIN - - - X - - - - - -
+             GATEWAY - - - O S O - - - -
+          INTERFACES - - - X - - - - - -
+                 END - - - - X - - - - -
+       SPECIFICATION - - - - X - - - - -
+           INTERFACE - - - - X - - - - -
+              SYSTEM - - - - - O - - - -
+                 NET - - - - - X - - - -
+                FILE - - - - - - - X - -
+             OPTIONS - - - - - - - - - S

@@ -1,0 +1,14 @@
+             COMMAND X - - -
+             SERVICE X - - O
+                BOOT X - - -
+           SOMETHING - X - -
+                 MAN - - X -
+         UPDATE-RC.D - - X -
+              SYSTEM - - X -
+                   > - - X -
+      ADMINISTRATION - - X -
+            SERVICES - - X -
+                  .. - - - X
+             UTILITY - - - O
+            TERMINAL - - - X
+           BLUETOOTH - - - O

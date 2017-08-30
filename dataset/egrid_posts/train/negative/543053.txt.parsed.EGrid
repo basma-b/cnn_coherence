@@ -1,0 +1,14 @@
+                 ALL X - - - - -
+                8.10 O - - - - -
+           OWNERSHIP O - - - - -
+                FILE X - - - - -
+       ~/PUBLIC_HTML X - - - - -
+            WWW-DATA X - - - - -
+         CREDENTIALS O - - - - -
+         CHGRP/CHOWN S - - - - -
+           OPERATION S - - - - -
+               CHGRP - - X - - -
+               CHOWN - - S O - -
+           PRIVILEGE - - X - - -
+                SUDO - - - X - -
+                   U - - - - - S

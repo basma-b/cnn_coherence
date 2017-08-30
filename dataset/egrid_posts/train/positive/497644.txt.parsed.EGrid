@@ -1,0 +1,11 @@
+                HELP O - - - - -
+                 SSH X - - - - -
+                PORT O - - - - -
+         SSHD_CONFIG X - - - - -
+            FIREWALL X - - - - -
+         FIRESTARTER X - - - - -
+             NETWORK X - - - - -
+               IDEAS - X - - - -
+                SUDO - - X - - -
+    /ETC/INIT.D/SSHD - - S - - -
+              RELOAD - - - - - S

@@ -1,0 +1,15 @@
+             NETWORK X - - X - X
+             ADAPTER X - - - - -
+                 NAT O - - - - -
+              BRIDGE - X - - - -
+               SHARE - X - - - -
+           LOCALHOST - S - - - -
+               GUEST - X - - - -
+              APACHE - X S - - X
+              SERVER - O - - - O
+             MACHINE - - X S - -
+                   U - - - - - S
+                 ONE - - - - - S
+                RULE - - - - - S
+                  IP - - - - - X
+             ADDRESS - - - - - S

@@ -1,0 +1,12 @@
+           LOCALHOST X - -
+      OPENSSH-SERVER - O -
+          /ETC/HOSTS - S -
+                   > - O -
+              SOURCE - X -
+             TARBALL - X -
+               LOGON - X -
+              SCREEN - X -
+             SESSION - O O
+               MOTIF - - X
+              CLIENT - - X
+             DEFAULT - - X

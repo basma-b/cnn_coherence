@@ -1,0 +1,14 @@
+         /USR/BIN/LD X - - -
+./.LIBS/LIBLAUNCHER-TYPE.A X - - -
+          LAUNCHER.O X - - -
+          RELOCATION X - - -
+         R_X86_64_32 X - - -
+              SYMBOL S - - -
+               SHARE X - - -
+              OBJECT O - - -
+           RECOMPILE X - - -
+                   R - X - -
+                   U - X - -
+          FILESYSTEM - - - X
+               FLASH - - - X
+                DISK - - - X

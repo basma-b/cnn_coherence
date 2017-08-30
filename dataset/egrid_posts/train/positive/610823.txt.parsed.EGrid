@@ -1,0 +1,10 @@
+             APT-GET X - -
+           APT-CACHE X X -
+              SOURCE X - -
+             PACKAGE O - -
+                SUDO - X -
+              SEARCH - X -
+            LIBCURL3 - X -
+               THING - S -
+LIBCURL4-OPENSSL-DEV - X -
+                 ALL - - O

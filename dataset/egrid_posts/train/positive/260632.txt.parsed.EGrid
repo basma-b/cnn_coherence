@@ -1,0 +1,27 @@
+                 ALL O - - - - - -
+             NETWORK X - - X - - -
+             ADAPTER O - - X - - -
+             COMMAND X - - - - - -
+                LINE X - - - - - -
+                DONT S - - - - - -
+              MOMENT X - - - - - -
+             TROUBLE - X - - - - -
+               WLAN0 - - O - O - -
+                SUDO - - X - - - -
+                IFUP - - X - - - -
+               ERROR - - S - - - O
+          INTERFACES - - X - - - -
+         WLAN0=WLAN0 - - O - - - -
+               THERE - - - - S - -
+/ETC/NETWORK/INTERFACES - - - - X - -
+              DAPPER - - - - - X -
+                VESA - - - - - X -
+      ADMINISTRATION - - - - - X -
+                   > - - - - - X -
+                SSID - - - - - X -
+               PRESS - - - - - X -
+                  OK - - - - - X -
+            IWCONFIG - - - - - S -
+           INTERFACE - - - - - X O
+                NAME - - - - - X -
+   IWCONFIG/DHCLIENT - - - - - - O

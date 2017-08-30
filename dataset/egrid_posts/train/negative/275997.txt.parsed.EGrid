@@ -1,0 +1,16 @@
+             COMMAND - S - - -
+               ALIAS - O - - O
+        .BASH_CONFIG - X - - -
+                FILE - X - - -
+                HOME - X - - -
+           DIRECTORY - X - - -
+            SESSIONS - X - - -
+                THIS - - X - -
+                 WAY - - X - -
+                BASH - - - S -
+      ~/.BASH_CONFIG - - - X -
+           ~/.BASHRC - - - O -
+                 TRY - - - - X
+                  LS - - - - X
+                 LS= - - - - X
+             /BIN/LS - - - - X

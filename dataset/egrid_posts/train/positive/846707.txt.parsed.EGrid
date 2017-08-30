@@ -1,0 +1,11 @@
+             DESKTOP X - - -
+                 ALL - X - -
+         GRUB-COMMON - O - -
+                GRUB - - X -
+             PACKAGE - - X -
+            CONFLICT - - S -
+               GRUB2 - - X O
+              INSTAL - - O -
+              SYSTEM - - O -
+                BOTH - - - O
+            APPROACH - - - S

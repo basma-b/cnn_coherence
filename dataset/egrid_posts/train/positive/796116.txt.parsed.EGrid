@@ -1,0 +1,17 @@
+            USERNAME S - - - - -
+                USER O O - - - -
+               ADMIN O X X - - -
+               GROUP X X S - - -
+                FILE X - - - - -
+              ACCESS O - - - - -
+                THAT - - O - - -
+             DEFAULT - - X - - -
+              UBUNTU - - S - - -
+             SUDOERS - - X - - -
+      UBUNTU-DESKTOP - - O - - O
+              X11VNC - - - - O -
+              SERVER - - - - O -
+                 VNC - - - - O -
+              WINDOW - - - - - X
+             MANAGER - - - - - O
+                   X - - - - - X

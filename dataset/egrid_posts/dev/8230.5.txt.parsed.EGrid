@@ -1,0 +1,15 @@
+                 ONE S - -
+               DRIVE X - -
+                RAID X X -
+                READ X - -
+                  CD O - -
+         /DEV/DEVICE - X -
+         /MOUNTPOINT - O -
+              DEVICE - S -
+              MIRROR - O -
+                FINE - S -
+                FILE - X -
+              SYSTEM - S -
+                TYPE - O -
+             ACCOUNT - - O
+             UNITY2D - - X

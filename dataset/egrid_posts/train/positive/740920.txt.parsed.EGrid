@@ -1,0 +1,17 @@
+              ANYONE X - - - - -
+           PARTITION O - X - - -
+             STARTUP X - - - - -
+                THIS S - - - - -
+               FSTAB X - - - - -
+           /MEDIA/OS O - - - - X
+                NTFS X - X - - -
+                  RW X - - - - -
+                AUTO X - - - - -
+                USER X - - - - -
+            UID=SABY X - - - - -
+           DIRECTORY X - - - X -
+           /DEV/SDA3 - X - - - -
+             COMMAND - - - X - -
+                FUSE - - - - O -
+          /MEDIA/OS/ - - - - O -
+                FILE - - - - X -

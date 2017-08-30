@@ -1,0 +1,11 @@
+            LANGUAGE - X - -
+                   | - S - X
+              MISTER - X - -
+           POLICEMAN - X - -
+             OPTIONS - - - X
+       11N_DISABLE=1 - - - X
+                SUDO - - - X
+                 TEE - - - O
+                   > - - - X
+           /DEV/NULL - - - X
+              REBOOT - - - S

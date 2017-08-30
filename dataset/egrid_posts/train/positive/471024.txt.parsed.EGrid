@@ -1,0 +1,13 @@
+                 HEY X - - - -
+                 GUY S - - - -
+                PORT O - - - X
+                SUDO X - S - -
+            IPTABLES X - X - -
+               INPUT X - X - -
+                  -P X - X - -
+                 TCP X - O - -
+                  -J X - S - -
+                THIS - - S - -
+           SOMETHING - - S - -
+      192.168.0.0/16 - - - X -
+            ANYTHING - - - - O

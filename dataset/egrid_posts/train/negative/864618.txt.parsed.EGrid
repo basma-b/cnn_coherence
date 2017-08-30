@@ -1,0 +1,27 @@
+                CROP X - - - - - - -
+                 JOB S - - - - - - -
+                DATE - - X - - - - -
+                WORK - - S O - - - -
+           SOMETHING - - O - - - - -
+                 1ST - - S - - - - -
+            CRON-JOB - - O - - - - -
+               TOUCH - - X - - - - -
+               /TMP/ - - X - - - - -
+           CRON-JOBS - - S - - - - -
+                 ALL - - X - - - - -
+    COMMANDS/SCRIPTS - - O - - - - -
+                BEST - - - S - - - -
+              PATHES - - - X - S - -
+                 ETC - - - O - - - -
+            CRONJOBS - - - S - - - -
+               LIMIT - - - X - - - -
+         ENVIRONMENT - - - X - - - -
+                   * - - - - X - - -
+/HOME/MYUSER/123/FOO.SH - - - - O - - -
+              FOO.SH - - - - O - - -
+                TEST - - - - X - - -
+                LINE - - - - X - - -
+      STATUS-REPORTS - - - - O - - -
+               CHECK - - - - - X - -
+               10.04 - - - - - - - X
+                YMMV - - - - - - - S

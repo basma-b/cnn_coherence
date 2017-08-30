@@ -1,0 +1,22 @@
+                 THE O - - - - - - - - -
+                 WAY X - - - - - - - - -
+                USER X - - - - - - - - -
+            PASSWORD O - - - - - - - - X
+                 ONE O - - - - - - - - -
+                BOOT X - X - - - - - - -
+            RECOVERY X - X - - - X - - -
+                MODE X - S - - - - - - -
+                   < S - - - - - - - - -
+                   > X - - - - - - - - -
+             COMMAND O - - - - - - - - -
+              OPTION - - X - - - - - - -
+                MENU - - X - - - X - - -
+            COMPUTER - - X - - - - - - -
+                SHOW - - - X - - - - - -
+                GRUB - - - X X - - - - -
+            SESSIONS - - - X - - - - - -
+                ROOT - - - - - - X - - -
+               SHELL - - - - - - S - - -
+               USERS - - - - - - O - - -
+            KEYRINGS - - - - - - - - - O
+~USER/.GNOME2/KEYRINGS/ - - - - - - - - - X

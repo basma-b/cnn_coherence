@@ -1,0 +1,17 @@
+               DMESG S - - - - -
+                LIST X - - - - -
+             THOOUGH X - - - - -
+                BOOT X - - - - -
+                  CD X - - - - -
+             REMOUNT - O - - - -
+                   / - O - - - -
+               POINT - X - - - -
+                ROOT - X - - - -
+               SLICE - O - - - -
+               DRIVE - X - O - -
+                THAT - - - O - -
+              OUTPUT - - - X - -
+                  -L - - - X - -
+               |GREP - - - - - X
+                  SD - - - - - S
+            /DEV/SDA - - - - - X

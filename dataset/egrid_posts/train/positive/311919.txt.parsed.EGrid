@@ -1,0 +1,11 @@
+            ACPI=OFF X - -
+              NOACPI O - -
+            MENU.LST X - -
+                  .. - X -
+                THIS - S -
+               TITLE - X -
+              UBUNTU - X -
+              KERNEL - X -
+   2.6.20-16-GENERIC - X -
+                THAT - - O
+                 TRY - - X

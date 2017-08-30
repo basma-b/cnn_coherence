@@ -1,0 +1,18 @@
+                   ' S - - -
+               THERE S - - -
+                ROOT S - - O
+                USER O - X -
+              MYSQLD O - - -
+           SAFE_MODE X - - -
+            PASSWORD S O - -
+                  .. O - - X
+                 USE - S S -
+              CHANGE - X - -
+         MYSQLD_SAFE - - O -
+   SKIP-GRANT-TABLES - - X -
+                 SET - - X -
+   PASSWORD=PASSWORD - - O -
+    ‘THENEWPASS’ - - X -
+     USER=’ROOT’ - - X -
+HOST=’LOCALHOST’ - - X -
+           SOMETHING - - - X

@@ -1,0 +1,9 @@
+             PACKAGE O - - - O
+             PROCESS X - - - -
+        LIBDB4.6-DEV - - O - -
+                SUDO - - X - -
+             APT-GET - - X - -
+           BUILD-DEP - - S - -
+             COMMAND - - - - S
+        DEPENDENCIES - - - - X
+        REPOSITORIES - - - - X

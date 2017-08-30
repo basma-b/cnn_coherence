@@ -1,0 +1,14 @@
+               10.04 X X - - - -
+             GATEWAY X X - - S -
+          NAMESERVER X X - X - -
+            INTERNET - - X - - -
+                 IPS - - O - - -
+    /ETC/RESOLV.CONF - - - X - -
+               ROUTE - - - - X -
+                  -N - - - - S -
+                  IP - - - - S -
+                LINE - - - - X -
+             0.0.0.0 - - - - X -
+                SUDO - - - - - X
+             APT-GET - - - - - S
+              TOMBOY - - - - - O

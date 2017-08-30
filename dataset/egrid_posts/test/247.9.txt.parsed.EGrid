@@ -1,0 +1,21 @@
+               USERS X - - -
+                 GUI X X - -
+                USER - S - -
+             SESSION - O - -
+             ACCOUNT - X - -
+                   > - X - -
+                  +K - O - -
+                WORK - X - -
+                   $ - - O -
+                THAT - - O -
+              KERNEL - - S -
+                 PID - - X -
+                FILE - - O -
+            /VAR/RUN - - X -
+               CHILD - - X -
+             PROCESS - - X -
+          BACKGROUND - - X -
+               TRACK - - O X
+            OPERATOR - - O -
+                PIDS - - - S
+//STACKOVERFLOW.COM/QUESTIONS/8279848/SUPERVISORD-ADDING-MULTIPLE-PROCESSES-FOR-PHP-AND-GEARMAN - - - X

@@ -1,0 +1,13 @@
+              METHOD X - - - -
+             CONTROL X - - - -
+             SERVICE X X - - -
+               HARDY X - - - -
+              FEDORA - X - - -
+           CHKCONFIG - O - - -
+                WAIT - S - - -
+                 XYZ - X - - -
+          START/STOP - X - - -
+             COMMAND - O - - -
+              KARMIC - - S - -
+                  HD - - - - S
+                BOOT - - - - X

@@ -1,0 +1,21 @@
+/VAR/CACHE/APT/ARCHIVES/LOCK X - - - - - - -
+               BLOCK O - - - - - - -
+              ACCESS S - - - - - - -
+                SUDO X - - - - - - -
+             APT-GET X - - - - - - -
+                  SU X - - - - - - -
+                ROOT X - - X - - - -
+               SHELL X - - - - - - -
+                  PS - X - - - - - -
+               |GREP - X - - - - - -
+             PROCESS - O - - X - - -
+                 ETC - X - - - - - -
+                 RUN - - X - X - - -
+               CHELL - - - X - - - -
+                KIND - - - - X - - -
+             PACKAGE - - - - X - - -
+            HANDLERS - - - - X - - -
+            SYNAPTIC - - - - - X - -
+                 HMM - - - - - - - X
+           SOMETHING - - - - - - - S
+          REPOSOTIRY - - - - - - - O

@@ -1,0 +1,16 @@
+               SOUND O - - - - - - -
+                CARD X - - - - - - -
+                LIST O - - - - - - -
+             MESSAGE - O - - - - - -
+                ALSA - X - - - - - -
+                GREP - O - - - - - -
+  /PROC/ASOUND/CARDS - X - - - - - -
+                FILE - X - - - - - -
+           DIRECTORY - X - - - - - -
+                THAT - - X - - - - X
+             PROBLEM - - X - - - - -
+               LSPCI - - - X - - - -
+                 -NN - - - X - - - -
+           SOUNDCARD - - - X - - - -
+              RESULT - - - - - X - -
+                HERE - - - - - - X -

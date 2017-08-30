@@ -1,0 +1,17 @@
+              SERVER X - - -
+                 DNS X X - -
+             SERVERS S S - -
+             OPENDNS O - - -
+                HOST - X - -
+           WEBSERVER - X - -
+       SREQUIREMENTS - O - -
+                NAME - O - -
+                LIST - O - X
+          INTERFACES - X - -
+                FILE - X - O
+              ROUTER - - S -
+                 USE - - O -
+         RESOLV.CONF - - - S
+               THERE - - - S
+           OVERWRITE - - - O
+         NAMESERVERS - - - X

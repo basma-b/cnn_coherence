@@ -1,0 +1,14 @@
+             PROGRAM X - -
+               VIDEO O - -
+             CAPTURE X - -
+                CARD X - -
+           COMPOSITE X - -
+              FFMPEG - S -
+                 ONE - O -
+             OPTIONS - X -
+             COMMAND - X -
+                LINE - X -
+                 GUI - O -
+             FIREFOX - - S
+             PROFILE - - O
+            INSTANCE - - O

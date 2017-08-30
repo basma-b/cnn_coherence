@@ -1,0 +1,27 @@
+               THING S - - O - - -
+                BOOT X - - X - - X
+              INITRD - O - - - - -
+       2.6.15-20-386 - - S - - - -
+                TIME - - - X - - -
+                WORK - - - X - - -
+                HERE - - - S - - -
+               ISSUE - - - O - - -
+               SHELL - - - X - - -
+               RAMFS - - - X - - -
+              DEVICE - - - X - - -
+                 NOD - - - X - - -
+                /DEV - - - X - - -
+                   / - - - O - - -
+              EXT2FS - - - X - - -
+                CANT - - - X - - -
+INITRD.IMG-2.6.15-20-386 - - - O - - -
+                 ONE - - - O - - -
+/BOOT/GRUB/GRUB.CONF - - - - O - -
+             DEFAULT - - - - - S -
+                SATA - - - - - X -
+               BREAK - - - - - X -
+               ROOT= - - - - - X -
+              OPTION - - - - - X -
+                  RE - - - - - - X
+           LILO.CONF - - - - - - O
+              LOADER - - - - - - O

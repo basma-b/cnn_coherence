@@ -1,0 +1,21 @@
+/ETC/NETWORK/INTERFACES X - - - - - - - - - - - - -
+              CUSTOM X - - - - - - - - - - - - -
+                 DNS O - S - - - - X - - X - - -
+    /ETC/RESOLV.CONF - - X - - - - - - - - - - -
+                   # - - - - O - - - - - - - - -
+                LINE - - - - X - - - O - - - - -
+                THAT - - - - - X - - O - - - - -
+     NETWORK-MANAGER - - - - - O - - - - - - - -
+                  IM - - - - - - S - - - - - - -
+      WPA_SUPPLICANT - - - - - - O - - - - - - -
+                EASY - - - - - - S - - - - - - -
+              STATIC - - - - - - O - - - - - - -
+                DHCP - - - - - - - S - - - - - -
+              CONFIG - - - - - - - O - - - - - -
+             SERVERS - - - - - - - O - - O - - -
+                FILE - - - - - - - - S - - - - -
+             EXAMPLE - - - - - - - - O - - - - -
+                 WHT - - - - - - - - X - - - - -
+           DHCP.CONF - - - - - - - - - - O - - -
+           INTERFACE - - - - - - - - - - - X - -
+               WLAN0 - - - - - - - - - - - - - X

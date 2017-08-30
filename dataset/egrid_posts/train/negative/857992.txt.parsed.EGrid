@@ -1,0 +1,17 @@
+            LANGUAGE - S -
+             SATANAA - X -
+                  IM - X -
+                WORD - O -
+                   P - X -
+//LAUNCHPAD.NET/DISTROS/UBUNTU/+SOURCE/GNOME-VOLUME-MANAGER/+FILEBUG - - S
+          HEAD-START - - O
+                 BUG - - O
+                NAME - - X
+                   * - - S
+        BLOCK.DEVICE - - S
+               DMESG - - O
+                LINE - - X
+           SOMETHING - - O
+           /DEV/SDA1 - - S
+           /DEV/SDB1 - - X
+            WHATEVER - - X

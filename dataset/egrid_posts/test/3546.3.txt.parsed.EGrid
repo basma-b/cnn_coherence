@@ -1,0 +1,10 @@
+          PERMISSION S - -
+/PROC/SYS/NET/IPV4/TCP_SACK O O -
+                SUDO - S -
+                   > - X -
+               |SUDO - X -
+                 TEE - X -
+                IMHO - - X
+              DISTRS - - X
+         BACTRACK5R1 - - S
+                BEST - - O

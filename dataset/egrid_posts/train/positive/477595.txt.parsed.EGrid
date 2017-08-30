@@ -1,0 +1,7 @@
+          EXECUTABLE O - - -
+                LSOF - S - -
+                LIST - S - -
+                FILE - O - -
+              KWRITE - - S -
+                 SVN - - - O
+               GEANY - - - X

@@ -1,0 +1,11 @@
+         ./CONFIGURE X - - - -
+             PROGRAM X - - - S
+                   X S - S - -
+                  .. X - - - -
+               ERROR X - - - -
+        INSTALLATION - O - - -
+               PATHS - O - - -
+             PACKAGE - - X X -
+             APT-GET - - - O -
+          BUILD-DEPS - - - O -
+                 APT - - - - X

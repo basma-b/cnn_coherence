@@ -1,0 +1,14 @@
+                HOST X X - - - -
+                 KEY O X O - - -
+            PROTOCOL X - - - - -
+             VERSION X - - - - -
+                SSHD - O - - - -
+            HOSTKEYS - O - - - -
+                EXIT - O - - - -
+/HOME/TYLER/.SSH/AUTHORIZED_KEYS - - X - - -
+                COPY - - - X - -
+                  ID - - - X - -
+             COMMAND - - - O - -
+            TERMINAL - - - - - X
+                NAME - - - - - X
+               FRONT - - - - - X

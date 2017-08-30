@@ -1,0 +1,17 @@
+            HOSTNAME - X - X
+                   | - X - -
+              BPOWER - X - -
+       ACTIONPARSNIP - X - -
+       /ETC/HOSTNAME - - - X
+               STATE - - - X
+                TYPE - - - X
+            TERMINAL - - - X
+               PRESS - - - X
+              SEARCH - - - X
+         LINUX-IMAGE - - - X
+             KERNELS - - - X
+                SUDO - - - X
+             SERVICE - - - X
+                 GDM - - - S
+                  .. - - - O
+               GNOME - - - O

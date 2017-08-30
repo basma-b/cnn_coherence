@@ -1,0 +1,10 @@
+             MODULES X - - - -
+                LOAD X - O - -
+             STARTUP X - - - -
+            WIRELESS - X - - -
+             NETCARD - O - - -
+              DRIVER - O - - -
+             DRIVERS - - S - -
+                CARD - - O - -
+/ETC/MODPROBE.D/BLACKLIST - - - X -
+              TETHER - - - - X

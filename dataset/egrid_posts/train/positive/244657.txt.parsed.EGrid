@@ -1,0 +1,8 @@
+                COPY X - - -
+                FILE O - - -
+           DIRECTORY X - - -
+           STRUCTURE X - - -
+              ANYONE X - - -
+              SCRIPT - O - -
+                 AWK - X - -
+           SOMETHING - X - -

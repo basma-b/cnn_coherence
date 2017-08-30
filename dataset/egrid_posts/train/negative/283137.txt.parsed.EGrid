@@ -1,0 +1,18 @@
+              ANYONE X - - - - - - - -
+              REGEXP X - - - - - - - -
+               MATCH X - - - - - - - -
+          EVERYTHING X - - - - - - - -
+               /TEST X - - - - - - - -
+         /TEST/TEST2 X - - - - - - - -
+                  IM - - - S - - - - -
+       LOCATIONMATCH - - - O - - - - -
+              APACHE - - - X - - - - -
+          EXPRESSION - - - - O - - - -
+            PASSWORD - - - - O - - - -
+   WWW.BLAH.COM/TEST - - - - X - - - -
+WWW.BLAH.COM/TEST/TEST2 - - - - X - - - -
+         PERMISSIONS - - - - O - - - -
+        SUBDIRECTORY - - - - X - - - -
+                THAT - - - - - X - - -
+          POINT2PLAY - - - - - - - X -
+                LAZY - - - - - - - - X

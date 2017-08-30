@@ -1,0 +1,4 @@
+                USER X S -
+               GROUP X X -
+             USERMOD - S -
+                SUDO - X -

@@ -1,0 +1,11 @@
+/ETC/PRIVOXY/CONFIG.TXT X - - -
+            TERMINAL X - - -
+         PERMISSIONS O - - -
+                SUDO X - - -
+/ETC/APACHE2/HTTPD.CONF O - - -
+         MPEGENCODER - O X -
+               BUILD - O - -
+              SERVER - X X -
+                REPO - - O -
+           SOMETHING - - X -
+                 WAY - - - X

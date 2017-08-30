@@ -1,0 +1,11 @@
+           QCONFIG.H X - - - - - - - -
+          QMODULES.H X - - - - - - - -
+         QT3-HEADERS - O - - - - - - -
+               ERROR - O - - - - - - -
+             COMPILE - X - - - - - - -
+                HELP - - O - - - - - -
+                 THE - - - - S - - - -
+       LIBGT3-MT-DEV - - - - X - - - -
+                DEPS - - - - X - - - -
+                 QT3 - - - - - - O - -
+                  .. - - - - - - - - S

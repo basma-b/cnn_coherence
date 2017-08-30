@@ -1,0 +1,16 @@
+         RECONFIGURE S - - - - -
+                SHOW S - - - - -
+               FGLRX O - - - - -
+              OPTION X - - - - -
+              LIVECD - O X - - -
+                 HDD - S - - - -
+             VERSION - O - - - -
+   DISPLAYCONFIG-GTK - - - S - -
+                BASH - - - X - -
+             COMMAND - - - X - -
+                 USE - - - - O -
+               LOGIN - - - - X -
+              SCREEN - - - - X -
+            LANGUAGE - - - - X -
+             SESSION - - - - X -
+                THAT - - - - - O

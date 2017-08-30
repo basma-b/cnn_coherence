@@ -1,0 +1,15 @@
+             PROCESS S - - - -
+              STATUS X - - - -
+                KILL X - - - -
+                 USE X - - - -
+                  -9 O - - - -
+                 WAY X - - - -
+             ZOMBIES - O - - -
+      PARENT-PROCESS - - O - -
+              UPDATE - - - S -
+             MANAGER - - - X -
+            PASSWORD - - - O -
+             NETWORK - - - - X
+              DETAIL - - - - X
+         DESCRIPTION - - - - S
+             CHANNEL - - - - X

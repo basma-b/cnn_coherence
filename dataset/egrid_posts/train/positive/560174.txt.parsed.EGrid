@@ -1,0 +1,29 @@
+                HELO S S - - -
+             NETWORK X X - - -
+          INTERFACES O O - - -
+             RESTART X X - - -
+                  IP X X O O -
+                DROP O O - - -
+            LOOPBACK X X - - -
+                ETH0 - - S S -
+                LINE - - X - -
+               IFACE - - X - -
+                AUTO - - X X -
+/ETC/NETWORK/INTERFACES - - X - -
+               THERE - - S - -
+               THATS - - X - -
+                BOOT - - X - -
+                 TOP - - X - -
+                  LO - - S - -
+               OTHER - - X - -
+                INET - - - S -
+             CLARITY - - - X -
+                FILE - - - X X
+                  YA - - - X -
+             ADDRESS - - - X -
+             GATEWAY - - - S -
+                TYPE - - - X -
+            IFCONFIG - - - X -
+/ETC/NETWORK/INTEFACES - - - X -
+                 YUP - - - X -
+                 SET - - - - X

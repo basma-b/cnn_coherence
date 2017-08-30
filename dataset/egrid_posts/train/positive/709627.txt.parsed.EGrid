@@ -1,0 +1,13 @@
+                MKFS S - - -
+                TOOL O - - -
+              FORMAT X - - -
+               SPACE O - - -
+                 MFT O - - -
+                 HUH - X - -
+                   Y - - X -
+                DISK - - - O
+           SOMETHING - - - O
+                SUDO - - - X
+                  DD - - - X
+        IF=/DEV/ZERO - - - X
+        OF=/DEV/SDX9 - - - X

@@ -1,0 +1,15 @@
+               LABEL - X - - - - - - - - - - -
+             DISPLAY - O - - - - - - - - - - -
+            GENERATE - - S - - - - - - - - - -
+              HAZARD - - X - - - - - - - - - -
+                 YES - - O - - - - - - - - - -
+           EXT2/EXT3 - - X - - - - - - - - - -
+               DUNNO - - - S - - - - - - - - -
+           PARTITION - - - - - - O - - - - - -
+                CANT - - - - - - X - - - - - -
+              FORMAT - - - - - - - - X - - - -
+             TUNE2FS - - - - - - - - - X - - -
+                UUID - - - - - - - - - O - - -
+               FSTAB - - - - - - - - - - O - -
+                 USE - - - - - - - - - - - - S
+               PLACE - - - - - - - - - - - - X

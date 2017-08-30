@@ -1,0 +1,33 @@
+                HTTP X - - O - - - -
+//PACKAGES.DEBIAN.ORG/CGI-BIN/SEARCH_CONTENTS.PL X - - - - - - -
+      VERSION=STABLE - S - - - - - -
+           ARCH=I386 - S - - X - - -
+    CASE=INSENSITIVE - X - - - - - -
+WORD=GTK2-ENGINES-INDUSTRIAL - X - - - - - -
+ SEARCHMODE=FILELIST - S - - X - - -
+GTK2-ENGINES-INDUSTRIAL/UBUNTU - S - - - - - -
+        GTK2-ENGINES - X - - - - - -
+                FILE - O - X - - - -
+               THEME - S S - - - - -
+              UBUNTU - X - - - - - -
+                THAT - - S - S O - -
+                ICON - - X - - - - -
+             PACKAGE - - X - - S - -
+                 ATM - - O - - - - -
+                 FIX - - O - - - - -
+              BREEZY - - X - - - - -
+GTK2-ENGINES-INDUSTRIAL - - - O - - - -
+              NOBODY - - - S - - - -
+             CONTENT - - - X - - - -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_CONTENTS.PL - - - X - - - -
+            DECISION - - - - X - - -
+                DAYS - - - - X - - -
+                PAGE - - - - S - - -
+             DEFAULT - - - - X - - -
+          BACKGROUND - - - - O - - -
+               THERE - - - - S - - -
+             EXAMPLE - - - - O X - -
+              DEBIAN - - - - - X - -
+          GNOME-AQUA - - - - - O - -
+   GNOME-BACKGROUNDS - - - - - - - O
+             APT-GET - - - - - - - S

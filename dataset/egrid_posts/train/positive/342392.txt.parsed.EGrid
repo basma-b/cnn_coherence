@@ -1,0 +1,14 @@
+              KERNEL X - - -
+                LOAD X O - -
+             AGPGART X - - -
+           INTEL_AGP X - - -
+                 DRM X - - -
+              RADEON X - - -
+          E7XXX_EDAC X - - -
+             EDAC_MC X - - -
+             MODULES X - S -
+        DEPENDENCIES - X - -
+               LSMOD - - S -
+         DEPENDACIES - - - X
+            MODPROBE - - - X
+                  -R - - - X

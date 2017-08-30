@@ -1,0 +1,13 @@
+             COMMAND X - - -
+               OWNER X S - -
+              FOLDER X - - -
+               CHOWN - X - -
+                   < - X - -
+                   > - S - -
+               GROUP - X - -
+                ROOT - O - -
+                TYPE - X - -
+                DATA - - - X
+                BOOT - - - X
+                 YES - - - X
+                 SDA - - - X

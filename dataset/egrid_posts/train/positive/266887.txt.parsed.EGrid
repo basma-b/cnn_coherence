@@ -1,0 +1,22 @@
+               THERE X - - - - -
+            ANYTHING X - - - - -
+               LINUX X - - - - -
+           HOSTNAMES O - - - - -
+             NETWORK X - - - - -
+             NETBIOS - X - - - -
+               THING - X - - - -
+               SAMBA - X - - - -
+           REFERENCE - - X - - -
+             MACHINE - - O - - -
+            HOSTNAME - - X - - -
+               AVAHI - - - O - -
+      IMPLEMENTATION - - - X - -
+               APPLE - - - S - -
+             BONJOUR - - - S - -
+          RENDEZVOUS - - - X - -
+                  OK - - - S - -
+                 WAY - - - X - -
+  SOME_COMPUTER_NAME - - - O - -
+SERVICE-DISCOVERY-APPLET - - - - - O
+              THINGS - - - - - S
+             SYSTEMS - - - - - X

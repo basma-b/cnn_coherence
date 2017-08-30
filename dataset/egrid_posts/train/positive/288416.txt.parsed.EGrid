@@ -1,0 +1,16 @@
+             NETWORK X -
+                CARD S -
+              SERVER X -
+               DMESG X -
+                 ONE O -
+                IFUP S -
+                ETH0 X X
+              CHANGE O -
+                SUDO X -
+               GEDIT X -
+/ETC/NETWORK/INTERFACES S -
+                TOOL X -
+                FILE O -
+              DEVICE - O
+         INFORMATION - X
+               THERE - X

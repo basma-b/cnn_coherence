@@ -1,0 +1,13 @@
+            WWW-DATA O - -
+               GROUP S - -
+              THINGS X - -
+                FILE O - -
+      GROUP-WRITABLE X - -
+              FOLDER O - -
+                ROOT O X -
+              VHOSTS X - -
+/VAR/WWW/SITEROOTDIR/ X - -
+                USER - X -
+           PARTITION - X -
+              CHROOT - - O
+              OPTION - - O

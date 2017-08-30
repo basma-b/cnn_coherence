@@ -1,0 +1,17 @@
+                   $ X - - - -
+                THAT - S - - -
+              KERNEL - X X - -
+             PROBLEM - X - - -
+          VIRTUALBOX - S - S -
+                MESS - X - - -
+      KERNEL/MODULES - X - - -
+       LINUX-GENERIC - - S - -
+              CUSTOM - - O - -
+                I386 - - S - -
+             DEFAULT - - S - -
+                   * - - S - -
+           FANCYNESS - - X - -
+             VERSION - - X - -
+                GRUB - - X - -
+           LINUX-386 - - - X -
+            INIRAMFS - - - - O

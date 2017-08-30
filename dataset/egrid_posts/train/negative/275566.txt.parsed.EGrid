@@ -1,0 +1,17 @@
+                 USE O - - - - - - -
+         AUTOMAKE1.6 - S - - - - - -
+          FILESYSTEM - X - - - - - -
+         DEVELOPMENT - X - - - - - -
+           LIBRARIES - S - - - - - -
+                 AFS - S - - - - - -
+            KASERVER - X - - - - - -
+                 PAM - X - - - - - -
+             APT-GET - S - - - - - -
+           AVAILABLE - X - - - - - -
+         AUTOMAKE1.4 - - - S - - - -
+                 1.7 - - - O X - - -
+                 1.6 - - - - X X O -
+                 KDE - - - - - - S -
+                SITE - - - - - - S -
+                   > - - - - - - S -
+                  OK - - - - - - - X

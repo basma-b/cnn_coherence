@@ -1,0 +1,17 @@
+             PACKAGE X - -
+             NETWORK O - -
+                 ONE - X -
+                TYPE - X -
+            IWCONFIG - X -
+          INTERFACES - X -
+              IWLIST - X -
+                INTF - S -
+                CARD - O -
+             ATHEROS - X -
+             IPW2200 - X -
+              OTHERS - X -
+             PCMANFM - - S
+             DEFAULT - - X
+                FINE - - X
+             MANAGER - - S
+             COMMAND - - X

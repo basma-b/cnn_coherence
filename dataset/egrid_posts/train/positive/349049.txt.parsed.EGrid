@@ -1,0 +1,14 @@
+                SUDO S - - -
+            PASSWORD X - - -
+              VISUDO O - - -
+                LINE O - - -
+                TEST X - - -
+        ALL=NOPASSWD O - - -
+                 ALL O - - -
+                TYPE X X - -
+            NON-ROOT X - - -
+                 GDM - O - O
+              PASSWD - X - -
+              REMOTE - - - O
+            KEYBOARD - - - O
+             MACHINE - - - X

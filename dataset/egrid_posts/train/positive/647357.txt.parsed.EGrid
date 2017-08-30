@@ -1,0 +1,12 @@
+            RELATION X - - - -
+               LINUX X - - - -
+               FLASH X - - - -
+              MEMORY O - - - -
+         DISTINCTION X - - - -
+       NONPERSISTENT - X O - -
+                CONF - - X - -
+                DATA - - O - -
+              CHANGE - - O - -
+               RAMFS - - X - -
+                CANT - - - - X
+            ANYTHING - - - - O

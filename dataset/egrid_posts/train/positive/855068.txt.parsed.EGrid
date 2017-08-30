@@ -1,0 +1,14 @@
+/MEDIA/BACKUP1/BACKUPS O -
+               -TYPE S -
+                  LS X -
+                  -S X -
+                   \ O -
+                SORT X -
+                  -N S -
+                TAIL X -
+        /MYDIR/MYDIR X -
+                THIS S -
+              OPTION X -
+              OUTPUT - O
+             COMMAND - X
+            VARIABLE - O

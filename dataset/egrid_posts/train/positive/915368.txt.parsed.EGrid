@@ -1,0 +1,37 @@
+              PCIEHP O - - - - - - - - - -
+/ETC/HOTPLUG.D/BLACKLIST X - - - - - - - - - -
+            HARDWARE S - - - - - - - - - -
+//WWW.UBUNTULINUX.ORG/WIKI/BOOTHOTPLUGERRORS S - - - - - - - - - -
+                PAGE X - - - - - - - - - -
+/ETC/HOTPLUG/BLACKLIST S - - - - - - - - - -
+                INFO X - - - - - - - - - -
+               ERROR - O - - - - - - - - -
+              UBUNTU - X - - - - - - - - -
+             STARTUP - X - - - - X - - - -
+              SCREEN - X - - - - X - - - -
+               CLOCK - - O - - - O - - - -
+ NTP.UBUNTULINUX.ORG - - X - - - - - - - -
+                   * - - X - - - - - - - -
+                TIME - - - - - O - - - - -
+                THIS - - - - - S - - - - -
+             DESKTOP - - - - - X - - - - -
+                HELP - - - - - - - O - - -
+                SURF - - - - - - - - X - X
+            INTERNET - - - - - - - - O - -
+                 DSL - - - - - - - - X - -
+               GNOME - - - - - - - - X - -
+              WARTHY - - - - - - - - X - -
+          ADSL-START - - - - - - - - - O -
+              STATUS - - - - - - - - - S -
+               CLICK - - - - - - - - - - X
+             FIREFOX - - - - - - - - - - X
+          WEBBROWSER - - - - - - - - - - O
+      WWW.GOOGLE.COM - - - - - - - - - - X
+                 ETC - - - - - - - - - - X
+                  .. - - - - - - - - - - O
+                STIL - - - - - - - - - - X
+           RESOLVING - - - - - - - - - - X
+              AZTECH - - - - - - - - - - X
+                305E - - - - - - - - - - O
+              ROUTER - - - - - - - - - - X
+               MODEM - - - - - - - - - - X

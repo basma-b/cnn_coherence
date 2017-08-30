@@ -1,0 +1,17 @@
+ /BOOT/GRUB/GRUB.CFG X - - - - - - - -
+             DEFAULT X - - - - - - - -
+                  CD - - - O - - - - -
+            GRUB.CFG - - - X - - - - -
+                FILE - - - O - - - - -
+        INSTALLATION - - - - X - - - -
+           DIRECTORY - - - - S - - - -
+                  .. - - - - X - - - -
+                 RUN - - - - - X - - -
+               MKDIR - - - - - X - - -
+          /BOOT/GRUB - - - - - O - - -
+                GRUB - - - - - - O - -
+        GRUB-INSTALL - - - - - - X S -
+             COMMAND - - - - - - O - -
+             WARNING - - - - - - - X -
+                 USE - - - - - - - O -
+                 MBR - - - - - - - O -

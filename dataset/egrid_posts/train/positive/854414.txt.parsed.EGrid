@@ -1,0 +1,23 @@
+                MESS X - - - -
+           SOMETHING X - - O -
+                /SYS X O - - -
+               /PROC X - - - -
+            HARDWARE X - - - -
+                TYPE - S - - -
+          BRIGHTNESS - X S - -
+                 CAN - X - - -
+           DIRECTORY - O - - -
+/SYS/DEVICES/VIRTUAL/BACKLIGHT/ACPI_VIDEO0 - - S - -
+              OUTPUT - - O - -
+               HTTPS - - S - -
+                SUDO - - X - -
+                 CAT - - X - -
+/SYS/DEVICES/PCI0000:00/0000:00:02.0/BACKLIGHT/ACPI_VIDEO0/BRIGHTNESS - - X - -
+               VALUE - - X - -
+                 MAX - - X - X
+               THING - - X - -
+               SENSE - - O - -
+         COINCIDENCE - - - S -
+               POWER - - - X -
+          MANAGEMENT - - - S -
+                 NOW - - - - X

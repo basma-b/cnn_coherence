@@ -1,0 +1,13 @@
+            MACHINEA O - - - - - - -
+            ETHERNET X - - - - - - -
+                CARD X - - - - - - -
+                EACH X - - - - - - -
+               -RSB- X - - X - - - -
+             MACHINE S - - - - - - -
+             GATEWAY O - - - - - - -
+        192.168.45.X X - - O - - - -
+               -LSB- - - - O - - - -
+            MACHINEB - - - X - - - -
+                GATE - - - O - - - -
+             NETWORK - - - X - - - -
+            NETMASKS - - - - - - X -

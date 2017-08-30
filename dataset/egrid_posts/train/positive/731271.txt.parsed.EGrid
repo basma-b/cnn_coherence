@@ -1,0 +1,10 @@
+             COMMAND X - - -
+             PROGRAM X - - -
+                OPEN O - - -
+                   | - S - -
+              NUMBER - S - -
+      SEAHORSE-AGENT - O - -
+           SSH-AGENT - S - -
+         CTRL+ALT+F1 - - - O
+               THERE - - - X
+               STUFF - - - O

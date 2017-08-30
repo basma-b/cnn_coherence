@@ -1,0 +1,26 @@
+             NETWORK X - - X - X -
+           INTERFACE X X - - - - -
+                 USE - S - - - - -
+              THINGS - O - - - - -
+          INTERFACES - - S O - - -
+/ETC/NETWORK/INTERFACES - - X - - - -
+               WLAN0 - - X - - - -
+                ETH0 - - X - - - -
+               IFACE - - X - - - -
+                  LO - - S S - - -
+                FILE - - X - - - -
+                DAYS - - - X - - -
+             MANAGER - - - S - - -
+             DEFAULT - - - X - - -
+            INTERNET - - - X X X -
+          CONNECTION - - - X X O -
+             EXAMPLE - - - - X - -
+                WIRE - - - - X - -
+            WIRELESS - - - - O - -
+                 WAY - - - - X - -
+               ALIAS - - - - X - -
+              BRIDGE - - - - - X -
+        VIRTUALBOXES - - - - - X -
+                VBOX - - - - - S -
+                  RM - - - - - - X
+                  -I - - - - - - S

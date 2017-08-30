@@ -1,0 +1,11 @@
+             COMMAND X X O - - - - -
+             CHARSET X X O X X - - -
+                FILE X X X - - - S -
+        MY_FILE.HTML - O O - - - - -
+              NOBODY - - S - - - - -
+                 MAN - - - - O - - -
+                 ACM - - - - O - - -
+                 USE - - - - X - - -
+                 ONE - - - - X - - -
+               G0/G1 - - - - X - - -
+                SLOT - - - - X - - -

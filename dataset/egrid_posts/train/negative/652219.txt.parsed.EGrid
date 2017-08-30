@@ -1,0 +1,32 @@
+                THAT - S X - - - - - - -
+            WIRELESS - X - S - - X - - -
+            INTERNET - O - - - - - - - -
+/ETC/NETWORKING/INTERFACES - X - - - - - - - -
+           IFUP/DOWN - X - - - - - - - -
+      NETWORKMANAGER - O - - - - - - - -
+             DEFAULT - O - - - - - - - -
+                SORT - X - - - - - - - -
+                WORK - X - - - - - - - -
+                 LOT - O - O - - - - - -
+               THERE - S - - - - - - - -
+            INSTANCE - O - - - - - - - -
+                 RUN - X - - - - - - - -
+                  -S - - - X - X - - - -
+                ETH0 - - - X - - - - - -
+                WEXT - - - X - - O - - -
+/VAR/RUN/WPA_SUPPLICANT.PID - - - S - - - - - -
+                 LOG - - - X - - - - - -
+              SYSLOG - - - X - - - - - -
+              ANYONE - - - X - - - - - -
+                  PS - - - X - - - - - -
+      WPA_SUPPLICANT - - - X - - - - - -
+             PROCESS - - - X - - - - - -
+                 ONE - - - - O X - - - -
+                  -I - - - - - - S - - -
+/VAR/RUN/WPA_SUPPLICANT.WLAN1.PID - - - - - - X - - -
+/VAR/RUN/WPA_SUPPLICANT - - - - - - X - - -
+             NETWORK - - - - - - X - - -
+             MANAGER - - - - - - O - - -
+            TERMINAL - - - - - - - - - O
+                TYPE - - - - - - - - - X
+/DIRECTORY/TO/COPY/TO - - - - - - - - - X

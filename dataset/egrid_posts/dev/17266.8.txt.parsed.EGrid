@@ -1,0 +1,14 @@
+                FILE O - -
+              SOURCE X - -
+/ETC/APT/SOURCES.LIST.D/ X - -
+           PPA-PURGE X - -
+                NAME X - -
+        SUBDIRECTORY X - -
+                 WAY - S -
+                   * - O -
+              UPDATE - O -
+               OTHER - - S
+               BREAK - - O
+             XBOX360 - - S
+               512MB - - O
+             LUBUNTU - - O

@@ -1,0 +1,31 @@
+               ROUND S - - - - - - - - - -
+              UPDATE X - - - - - - - - - -
+              SYSTEM X - - - - - - - - - -
+               BUNCH - O - - - - - - - - -
+               CRASH - X - - - - - - - - -
+                 BUG - X X - - - - - - - -
+/BUILD/BUILDD/LINUX-2.6.32/INCLUDE/LINUX/DCACHE.H - X - - - - - - - - -
+              KERNEL - - O O - - - - - - -
+                NULL - - X - - - - - - - -
+             POINTER - - X - - - - - - - -
+         DEREFERENCE - - S - - - - - - - -
+                TIME - - - X - - - - - - -
+                THIS - - - - S - - - - - O
+             MACHINE - - - - O - - - - - -
+                 ATI - - - - X - - - - - -
+            GRAPHICS - - - - X - - - - - -
+                SIGH - - - - X - - - - - -
+               DREAD - - - - X X - - - - -
+              RADEON - - - - X - - X - - -
+              DRIVER - - - - X - - O - - -
+                THAT - - - - - - - O - - -
+                SORT - - - - - - - O - - -
+              THINGS - - - - - - - X - - -
+            PLYMOUTH - - - - - - - O - - -
+                   X - - - - - - - S - S -
+                  .. - - - - - - - - - X -
+                 PUT - - - - - - - - - X -
+GRUB_CMDLINE_LINUX_DEFAULT= - - - - - - - - - X -
+           PCI=NOMSI - - - - - - - - - X -
+    RADEON.MODESET=1 - - - - - - - - - X -
+   /ETC/DEFAULT/GRUB - - - - - - - - - X -

@@ -1,0 +1,32 @@
+             GLXINFO X - - - - - - - -
+              NVIDIA X X - - X X - - -
+              DEVICE X - - - X - - - O
+                FILE X - - - X - - - -
+      /DEV/NVIDIACTL O - - - O - - - -
+          PERMISSION S - - - S - - - -
+              RENDER - X X - - X X - -
+             ATTEMPT - X - - - X - - -
+                  NO - - X - - - - - -
+ LIBGL_DEBUG=VERBOSE - - O - - - O - -
+            GLX|GREP - - O - S - - - -
+                BODY - - S - - - - - -
+                GREP - - - - S - - - -
+                SHOW - - - - O - - - -
+                HTTP - - - - - - X - -
+//WWW.NVNEWS.NET/VBULLETIN/SHOWPOST.PHP - - - - - - X - -
+         POSTCOUNT=9 - - - - - - - X -
+                 BUG - - - - - - - O -
+               HTTPS - - - - - - - X -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/NVIDIA-GRAPHICS-DRIVERS-180/+BUG/370249 - - - - - - - X -
+              MIDDLE - - - - - - - - X
+        CONVERSATION - - - - - - - - X
+                SUDO - - - - - - - - X
+            CDRECORD - - - - - - - - X
+        DEV=/DEV/HDC - - - - - - - - X
+          BLANK=FAST - - - - - - - - X
+           BLANK=ALL - - - - - - - - S
+            COMPLETE - - - - - - - - O
+                 HDC - - - - - - - - S
+               GUESS - - - - - - - - O
+                  CD - - - - - - - - X
+              WRITER - - - - - - - - S

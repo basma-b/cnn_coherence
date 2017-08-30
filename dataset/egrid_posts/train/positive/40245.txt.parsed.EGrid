@@ -1,0 +1,11 @@
+               FSTAB X - -
+               USERS S X -
+                 FAT X - -
+               GROUP - O -
+            SOMETHIN - X -
+              FSTYPE - X -
+             DEFAULT - O -
+             GID=100 - S -
+                  ID - O -
+                 BOX - X -
+              ANYONE - S -

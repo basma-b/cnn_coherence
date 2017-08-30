@@ -1,0 +1,14 @@
+                ATVR X X - - -
+           PARTITION O - - - X
+              E2FSCK O - - - -
+                LIVE X - - - -
+          FILESYSTEM O - - - -
+          /FORCEFSCK O - - - -
+                BOOT - X - - X
+                  CD - X - - -
+          SUGGESTION - X - - -
+             PROBLEM - X - O X
+                MENU - - - - X
+              OUTPUT - - - - O
+     /VAR/LOG/SYSLOG - - - - X
+           SOMETHING - - - - X

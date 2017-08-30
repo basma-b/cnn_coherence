@@ -1,0 +1,25 @@
+             COMMAND X X O - -
+                LINE X - - - -
+                 SVN O - - - -
+                LIST X - - - -
+                FILE X - S - -
+                 USE - O - - -
+                 WHT - S - - -
+                   U - X S - -
+                   R - X - - -
+                 TUT - - X - -
+                  CO - - X - -
+               HTTPS - - X - -
+//CMUSPHINX.SVN.SOURCEFORGE.NET - - X - -
+/SVNROOT/CMUSPHINX/TRUNK/SPHINXTRAIN - - X - -
+              FOLDER - - S - -
+                NAME - - X - -
+         SPHINXTRAIN - - X - -
+                TYPE - - - X S
+                NICK - - - O -
+             COMMENT - - - X -
+           HIGHLIGHT - - - O -
+                 TAB - - - - X
+               -RSB- - - - - O
+                AUTO - - - - X
+                 ONE - - - - O

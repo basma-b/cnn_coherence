@@ -1,0 +1,17 @@
+                 HMM X - -
+              RESYNC S - -
+         ZERO-BLOCKS O - -
+                DISK - X -
+               STATS - S -
+                READ - O -
+             100KB/S - S -
+              SYSTEM - O -
+               RAID6 - - X
+            CHECKSUM - - S
+                 1/3 - - O
+           BANDWIDTH - - X
+               DRIVE - - X
+               WORTH - - O
+              PARITY - - X
+                RAID - - X
+              BITMAP - - X

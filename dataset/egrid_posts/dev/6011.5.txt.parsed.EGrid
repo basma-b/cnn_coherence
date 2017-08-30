@@ -1,0 +1,10 @@
+                SIGN O - - -
+         SMBPASSWORD X - - -
+     .SMBCREDENTIALS X - - -
+ PASSWORD=MYPASS=123 X - - -
+               QUOTE O - - -
+               CLICK - - X -
+            TERMINAL - - - O
+                SUDO - - - X
+                DPKG - - - X
+        FILENAME.DEB - - - O

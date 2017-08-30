@@ -1,0 +1,5 @@
+                LOCK S - X
+                  .. - O -
+                FILE - - O
+             PROGRAM - - S
+            INSTANCE - - S

@@ -1,0 +1,11 @@
+              CONFIG S - - -
+                BOOT X X - -
+             MODULES - S - -
+                LOAD - O - -
+                NAME - O - -
+        /ETC/MODULES - X - -
+             DAEMONS - X - -
+              INIT.D - X - -
+                 YES - - S -
+       ACTIONPARSNIP - - O -
+                 MAN - - - X

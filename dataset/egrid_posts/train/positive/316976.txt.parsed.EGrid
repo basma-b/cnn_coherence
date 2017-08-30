@@ -1,0 +1,12 @@
+              UBUNTU X - S -
+            FIREWALL - - S -
+             DEFAULT - - X -
+              SERVER - - O -
+                THIS - - S -
+                 WAY - - - X
+            IPTABLES - - - O
+           SOMETHING - - - O
+               INPUT - - - X
+                  -P - - - X
+                 TCP - - - O
+                  -J - - - S

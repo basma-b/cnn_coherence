@@ -1,0 +1,46 @@
+/ETC/PULSEAUDIO/DAEMON.CONF O - - - - - - - -
+DEFAULT-SAMPLE-CHANNELS S - - - - - - - -
+                LINE O - - - - - - - -
+                THAT - O S - - - - - -
+                   L - S - - - - - - -
+              SYSTEM - X - - - - - - -
+            SPEAKERS - S - - - - - - -
+                WORK - O - - - - - - -
+           SUBWOOFER - O O X - - - - -
+                  .. - O - - - - - - -
+               CENTS - - X - - - - - -
+        CONTRIBUTION - - O - - - - - -
+            HARDWARE - - X - - - - - -
+             FAILURE - - X - - - - - -
+                HOOK - - X - - - - - -
+           SYSTEM/OS - - X - - - - - -
+             WINDOWS - - X - - - - - -
+               UPMIX - - X - - - - - -
+               CABLE - - O - - - - - -
+          PULSEAUDIO - - X O - - - - -
+                HTTP - - X - - - - - -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - X - - - - - -
+            T=795525 - - - S - - - - -
+            INSIGHTS - - - O - - - - -
+               SETUP - - - X - - - - -
+             METHODS - - - O - - - - -
+           PAVUMETER - - - X - - - - -
+               THERE - - - S - S - - -
+              OUTPUT - - - O - - - - -
+         PAVUCONTROL - - - - X - - - -
+             CHANNEL - - - - X - - - -
+              CHANGE - - - - - X - - -
+                 TRY - - - - - X - - -
+           ARGUMENTS - - - - - X - - -
+                 LFE - - - - - X - - -
+               STAND - - - - - X - - -
+           SOMETHING - - - - - X - - -
+/ETC/PULSE/DEFAULT.PA - - - - - S - - -
+                SPOT - - - - - O - - -
+          EXPERIMENT - - - - - X - - -
+                SINK - - - - - X - - -
+                 ETC - - - - - X - - -
+                  AI - - - - - - - S -
+                 MD5 - - - - - - - O -
+              SHA356 - - - - - - - O -
+                   * - - - - - - - - X

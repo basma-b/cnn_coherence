@@ -1,0 +1,25 @@
+                HELP O - - -
+                 WEB X - - -
+            BROWSERS O - - -
+            EPIPHANY X - - -
+               LINKS X - - -
+              MIDORI X - - -
+                 ANY - X - -
+                FILE - X - S
+                 TRY - - O -
+            DR_WILLS - - X -
+                CANT - - X -
+                LINK - - S -
+             GARBAGE - - X -
+               REPOS - - X -
+               HTTPS - - - X
+//WIKI.ARCHLINUX.ORG/INDEX.PHP/SECURE_SHELL - - - X
+              DAEMON - - - X
+       CONFIGURATION - - - X
+/ETC/SSH/SSHD_CONFIG - - - S
+              ACCESS - - - S
+               USERS - - - X
+                LINE - - - O
+          ALLOWUSERS - - - X
+               USER1 - - - X
+               USER2 - - - X

@@ -1,0 +1,14 @@
+                 ALL O - - - - - -
+            SYSADMIN O - - - - - -
+              SYSTEM S - - - - - -
+            LOGWATCH - O - - - - -
+             NOTHING - S - - - - -
+   /VAR/LOG/MESSAGES - X - - - - -
+              ADVICE - - X - - - -
+           CONFIGURE - - X - - - -
+              CONFIG - - - X - - -
+        /ETC/ALIASES - - - - - O -
+                MAIL - - - - - S -
+                ROOT - - - - - X -
+                WORK - - - - - - X
+             SYSTEMS - - - - - - X

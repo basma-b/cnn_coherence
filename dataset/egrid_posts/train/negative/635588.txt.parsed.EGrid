@@ -1,0 +1,29 @@
+            FIREWALL S - - - - - - - - - -
+            ADRESSES - O - - - - - - - - -
+              CLIENT - X - - - - - - - - -
+                 DNS - S X - X - - X - O -
+              ANYONE - X - - - - - - - - -
+         DHCP-SERVER - - X - - - - - - - -
+ARNO-IPTABLE-FIREWALL - - X - - - - - - - -
+              SERVER - - X - X - - - - - -
+                 ISP - - X - - - X - - - -
+               THERE - - - X - - S - - - -
+             COMMAND - - - X - - - - - - -
+                FILE - - - - X - - O O - -
+    /ETC/RESOLV.CONF - - - - S - - - - - -
+                 USE - - - - O - - - - - -
+                  IS - - - - - X - - - - -
+         RESOLV.CONF - - - - - O - - - - -
+             MACHINE - - - - - - - S - - -
+             SERVERS - - - - - - - O - - -
+     NETWORK-MANAGER - - - - - - - - S - -
+              THANKS - - - - - - - - - X -
+      NETWORKMANAGER - - - - - - - - - S -
+              REMOVE - - - - - - - - - O -
+            SOLUTION - - - - - - - - - S -
+             NETWORK - - - - - - - - - X -
+             MANAGER - - - - - - - - - X -
+/ETC/NETWORK/INTERFACES - - - - - - - - - O -
+                 OUT - - - - - - - - - - X
+             SPEAKER - - - - - - - - - - O
+                BOOT - - - - - - - - - - X

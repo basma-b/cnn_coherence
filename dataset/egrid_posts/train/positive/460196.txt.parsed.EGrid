@@ -1,0 +1,16 @@
+                GRUB O - - S - - -
+                BOOT X X X - - - -
+                FILE O O - - - - -
+             WINDOWS X - X - - - -
+           PARTITION X - X - X - -
+                DISK X - - - - - -
+                MENU - - O - - - -
+              PROMPT - - O - - - -
+               LINUX - - X - - - -
+               WHICH - - - - O - -
+                7.04 - - - - - X -
+                8.04 - - - - - X -
+                 ALL - - - - - - X
+              LIVECD - - - - - - O
+               WORRY - - - - - - X
+             COMMAND - - - - - - X

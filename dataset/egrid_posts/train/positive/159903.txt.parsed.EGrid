@@ -1,0 +1,9 @@
+                USER X - - -
+               GROUP X - - -
+              ANYONE - S - -
+               USERS - O O -
+             PROFTPD - X S -
+              SYSTEM - - X -
+            ADDUSERS - - - X
+              ACCESS - - - O
+                 DIR - - - X

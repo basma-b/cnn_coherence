@@ -1,0 +1,15 @@
+                USER X - - - - - - - -
+              FOLDER O X - - - - - - -
+                FILE O - - - - - - - -
+                 DOT X - - - - - - - -
+             PATTERN O - - - - - - - -
+                   * - X - - - X - X -
+         DIRECTORIES - X - - - - - - -
+      SUBDIRECTORIES - X - - - - - - -
+             COMMAND - - X - - - - - -
+                FIND - - - - - X - - -
+                  RM - - - - - X - X -
+                  -F - - - - - X - X -
+                   \ - - - - - X - X -
+               -TYPE - - - - - - X - -
+                   F - - - - - - S - -

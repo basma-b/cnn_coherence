@@ -1,0 +1,16 @@
+            LOCATION X - - - - -
+               GNOME X - - - - -
+    WINDOW-DECORATOR X - X - - -
+                PATH - X - - - -
+              BINARY - X - - - -
+               THEME - - X - - -
+          /USR/SHARE - - - X - -
+             COMMAND - - - - O -
+            IFCONFIG - - - - S -
+                  .. - - - - X -
+              OUTPUT - - - - X -
+                 PLS - - - - X -
+               THERE - - - - - S
+              ERRORS - - - - - O
+              IWLIST - - - - - S
+               ESSID - - - - - O

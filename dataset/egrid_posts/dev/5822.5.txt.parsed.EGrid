@@ -1,0 +1,20 @@
+          PARAMETERS X - - - - - - - - -
+              UBUNTU X - O - - - - - - -
+   /ETC/DEFAULT/GRUB - X - - - - - - - -
+             DEFAULT - S - - - - - - - -
+              SPLASH - X - - - - - - - -
+                BOOT - X X X - - - X - -
+              OPTION - X - O - - - - - -
+                 WAY - - X - - - - - - -
+VMLINUZ+INITRD+FILESYSTEM.SQUASHFS - - - S - - - - - -
+                 HDD - - - X - - - - - -
+              LIVECD - - - X - - - - - -
+                TEXT - - - X - - - O - -
+                   X - - - - - X - - - -
+              SERVER - - - - - S - - - -
+             SERVICE - - - - - O - - - -
+                SUCH - - - - - S - - - -
+                 USE - - - - - - - X - -
+             PROGRAM - - - - - - - - - O
+                LINK - - - - - - - - - O
+               HTTPS - - - - - - - - - S

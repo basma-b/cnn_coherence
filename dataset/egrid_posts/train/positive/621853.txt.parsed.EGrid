@@ -1,0 +1,24 @@
+            WIRELESS X - - - - -
+          NETWROKNGI X - - - - -
+                  HP X - - - - -
+                 RUN X - - - - -
+             ATHEROS O - X - - -
+             NETWORK X - - - - -
+                CARD X - O - - -
+              DRIVER S - - - - -
+             MANAGER X - - - - -
+              APPLET S - - - - -
+                CHIP S - - - - -
+                SUDO X - - - - -
+                LSHW O - - - - -
+            TERMINAL X - - - - -
+              MODULE - - S - - -
+               ATH5K - - O S - -
+            INTERNET - - - X - -
+          CONENCTION - - - O - -
+                NANO - - - X - -
+/ETC/MODPROBE.D/BLACKLIST - - - O - -
+                LIST - - - O - -
+           BLACKLIST - - - O - -
+                FILE - - - - X -
+                  NO - - - - - X

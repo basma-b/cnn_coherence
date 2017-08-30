@@ -1,0 +1,16 @@
+               FLASH X - - -
+               DRIVE O S - -
+             COMMAND X - - -
+                  DD X - - -
+        IF=/DEV/ZERO X - - -
+         OF=/DEV/SDB X - - -
+          UNETBOOTIN O - - -
+                 ISO O - - -
+           PARTITION - O - -
+                PART - S - -
+              FORMAT - O - -
+                 RWW - X - -
+              PLENTY - O - -
+                BOOT - X - -
+              SECTOR - S - -
+               STICK - - - O

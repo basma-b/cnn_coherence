@@ -1,0 +1,6 @@
+              EXPORT X -
+   VAR_NAME=VARIABLE X -
+            TERMINAL O -
+             COMMAND S -
+                THAT - X
+                GLUE - O

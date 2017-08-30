@@ -1,0 +1,13 @@
+          KERNEL.ORG S - - - - -
+              SOURCE X - - S - -
+               REPOS O - - - - -
+/ETC/APT/SOURCES.LIST X - - - - -
+                LINE O - - - - -
+             PACKAGE X - - - - -
+               RIGHT O - - - - -
+              TAR.GZ - O - - - -
+              UNPACK - - - O - -
+                .DEB - - - - O -
+             PROCESS - - - - X -
+                LOOK - - - - - O
+          FILESYSTEM - - - - - X

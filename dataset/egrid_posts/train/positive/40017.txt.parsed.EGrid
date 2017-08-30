@@ -1,0 +1,6 @@
+               GROUP S S
+                USER X -
+             COMMAND - X
+              RETURN - X
+             LPADMIN - O
+              COURSE - X

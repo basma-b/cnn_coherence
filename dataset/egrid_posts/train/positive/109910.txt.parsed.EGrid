@@ -1,0 +1,19 @@
+                FILE X X - - - - - - - -
+              SYSTEM S - - - - - - - - -
+                ISNT S - - - - - - - - -
+                LOCK - X - - - - - - - -
+/VAR/LIB/APT/LISTS/LOCK - X - - - - - - - -
+                CANT - - - - - X - - - -
+             APT-GET - - - - - O - - - -
+           /DEV/HDA1 - - - - - - X - - -
+                TYPE - - - - - - X - - -
+                EXT3 - - - - - - X - - -
+                  RW - - - - - - X - - -
+   ERRORS=REMOUNT-RO - - - - - - X - - -
+             REMOUNT - - - - - - X - - -
+                PART - - - - - - X - - -
+              DEVICE - - - - - - - S - -
+                THAT - - - - - - - - S -
+                  RO - - - - - - - - O -
+              INCASE - - - - - - - - - X
+            PROBLEMS - - - - - - - - - X

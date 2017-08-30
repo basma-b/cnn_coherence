@@ -1,0 +1,15 @@
+                 VFS X X - - - -
+              INODES X X - - - -
+               MEDIA X X - - - -
+              CHANGE - X - - - -
+             SOMEONE - X - - - -
+               SCORE - O - - - -
+             MESSAGE - - X - - -
+               DMESG - - X - - -
+                 CDS - - O - - -
+               DRIVE - - X - - -
+                THIS - - - X - -
+              REBOOT - - - X - -
+                SUDO - - - - X -
+ /ETC/INIT.D/HOTPLUG - - - - S -
+               PRICE - - - - - S

@@ -1,0 +1,22 @@
+     LIGHTDM-SESSION O - - - - -
+                WORK X O - - - -
+             DESKTOP X - - - - -
+ /ETC/INIT.D/LIGHTDM X - - - - -
+               START X X - - - -
+                TIME - - O - - -
+             STARTUP - - X - - -
+              SCRIPT - - S - - -
+                   X - - S - - -
+              SCREEN - - O - - -
+                THIS - - S X - -
+/VAR/LOG/LIGHTDM/X-0-GREETER.LOG - - X - - -
+              +0.02S - - S - - -
+            SETTINGS - - X - - -
+              SCHEMA - - S - - -
+               DEBUG - - X - - -
+    HIDE-USERS=FALSE - - X - - -
+HAS-GUEST-ACCOUNT=FALSE - - X - - -
+             PACKAGE - - O - - -
+               IDEAS - - - O - -
+               THERE - - - - - S
+               LOGIC - - - - - O

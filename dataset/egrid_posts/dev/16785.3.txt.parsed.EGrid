@@ -1,0 +1,15 @@
+                USER S S - S - - -
+                SSHD X - - - - - -
+              STRACE - S - X - - -
+              SYNTAX - S - - - - -
+                   < - X - - - - -
+                 PID - X - - - - -
+                   > - O - - - - -
+             PROGRAM - O - - - - -
+              SERVER - - X - - - -
+           PRIVILEGE - - - X - - -
+              ENOUGH - - - O - - -
+               LOGIN - - - X - - -
+          OPERATIONS - - - X - - -
+           PARTITION - - - - - - O
+              UBUNTU - - - - - - O

@@ -1,0 +1,10 @@
+              INITRD O - - S - X
+                EXT3 - O - - - -
+                ROOT - X - - - -
+           PARTITION - S - - - -
+              CRAMFS - - X - - -
+                THAT - - - S - -
+               IMAGE - - - S - X
+                GRUB - - - X - -
+                NAME - - - - - S
+           PARAMETER - - - - - O

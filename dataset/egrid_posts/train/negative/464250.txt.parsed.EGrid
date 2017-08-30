@@ -1,0 +1,7 @@
+                  DD X -
+       OF=/DEV/CDROM X -
+        OF=IMAGE.ISO X -
+               BS=2K O -
+                 WAY X -
+              RESULT X -
+                 YES - X

@@ -1,0 +1,26 @@
+              FAMILY S - - - - - - -
+             MACHINE O - - - - - - -
+               YEARS X - - - - - - -
+               THERE - - X - - - - -
+                 WAY - - X - - - - -
+            SHUTDOWN - - - X - - - -
+            SEQUENCE - - - O - - - -
+                 ALL - - - O - - - -
+              LIVECD - - - - O - - -
+               ERROR - - - - S - - -
+            HARDWARE - - - - O - - -
+                 FAN - - - - X - - -
+             COMMENT - - - - O - - -
+               ISSUE - - - - O - - -
+            COMPUTER - - - - - S - -
+               MILES - - - - - X - -
+           SOMETHING - - - - - - - O
+                LINE - - - - - - - X
+                SUDO - - - - - - - X
+                  -I - - - - - - - X
+                   > - - - - - - - X
+/ETC/WPA_SUPPLICANT.CONF - - - - - - - X
+         GROUP=WHEEL - - - - - - - X
+              -DWEXT - - - - - - - X
+                  -C - - - - - - - X
+              DHCPCD - - - - - - - X

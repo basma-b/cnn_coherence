@@ -1,0 +1,17 @@
+               SETUP O - - - - -
+              MOMENT X - - - - -
+                NTFS X X X - X -
+           PARTITION O S - - S S
+                BOOT - X X - X -
+          BOOTLOADER - O - - - -
+               LINUX - - O - - -
+                GRUB - - O - - -
+              LOADER - - X - - -
+                PART - - X - - -
+              FACTOR - - O - - -
+                INFO - - - X - -
+             GPARTED - - - - X -
+                FLAG - - - - O -
+             SECTION - - - - - X
+                  .. - - - - - X
+             PROBLEM - - - - - O

@@ -1,0 +1,12 @@
+                 ALL X - - - - -
+           DIRECTORY - X - - - -
+            /SRV/WWW - O - - - -
+           OWNERSHIP - O - - - -
+            WWW-DATA - X - - - -
+              WEBDEV - X - - - -
+               CHMOD - X - - - -
+         USERACCOUNT - S - - - -
+              MEMBER - O - - - -
+                USER - X - - - -
+              APACHE - - - S - -
+                 HEH - - - - - X

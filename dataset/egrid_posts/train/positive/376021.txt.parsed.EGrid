@@ -1,0 +1,24 @@
+                THAT S - - - - - X - - - - -
+             PROBLEM O X - - - O - - - - - -
+              FOLDER O X - - - - - - - - - -
+             SYMLINK O - - - - - O - - - - -
+               POINT - X - - - - - - - - - -
+          PERMISSION - O - - - - - - - - - -
+                  .. - O - - - - - - - - - -
+           DIRECTORY - - - - X - O - - - - -
+                FILE - - - - - - O - - O - -
+              APACHE - - - - - - - X - X - -
+            SETTINGS - - - - - - - O - - - -
+               ERROR - - - - - - - - X - - -
+             MESSAGE - - - - - - - - X - - -
+                WORK - - - - - - - - - O - -
+              UBUNTU - - - - - - - - - X - -
+            SYMLINKS - - - - - - - - - O - -
+           /VAR/WWW/ - - - - - - - - - X - -
+              CONFIG - - - - - - - - - X - -
+                TYPE - - - - - - - - - S - -
+             CONSOLE - - - - - - - - - X - -
+               MKDIR - - - - - - - - - X - -
+        ~/SOMEFOLDER - - - - - - - - - X - -
+ /VAR/WWW/SOMEFOLDER - - - - - - - - - O - -
+//LOCALHOST/SOMEFOLDER - - - - - - - - - X - -

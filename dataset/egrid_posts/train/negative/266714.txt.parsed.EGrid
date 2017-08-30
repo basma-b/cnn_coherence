@@ -1,0 +1,13 @@
+             ARCHIVE O - - - -
+              FORMAT X - - - -
+               P7ZIP - O - O -
+                   > - X - - -
+                   X - X - - -
+             FILE.7Z - O - - -
+                 ALL - S - - -
+                 .7Z - - O - -
+              ANYONE - - S - -
+             SMBTREE - - - - X
+  \\SERVERNAME\SHARE - - - - S
+                INFO - - - - O
+         /MOUNTPOINT - - - - O

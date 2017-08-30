@@ -1,0 +1,22 @@
+                AUTO O S - - - - - -
+           INTERFACE X S - - - S - -
+/ETC/NETWORK/INTERFACES X X - - - - - -
+    WIRELESS-TXPOWER - S - - - - - -
+                 MAN - S - - - - - -
+          INTERFACES - S - - - - - -
+            IWCONFIG - S - - - - - -
+               IFACE - S - - - X - -
+                INET - S - - - - - -
+            LOOPBACK - S - - - - - -
+                LINE - S - - - O - -
+             NETMASK - S - - - - - -
+                BLAH - S - - - - - -
+              SHOULD - S - - - - - -
+               WLAN0 - - - - - X - -
+                 ONE - - - - - O - -
+                 SET - - - - - O - -
+             EXAMPLE - - - - - X - -
+              SYSTEM - - - - - X - -
+               XIXAQ - - - - - - - S
+              UBUNTU - - - - - - - S
+             MACHINE - - - - - - - X

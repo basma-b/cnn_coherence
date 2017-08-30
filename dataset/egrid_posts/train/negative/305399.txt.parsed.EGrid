@@ -1,0 +1,18 @@
+                USER S - -
+                ROOT O - -
+            PASSWORD S - -
+             COMMAND X - -
+                SUDO X - -
+                  -I O - -
+             DEFAULT X - -
+SYSTEM-ADMINISTRATION-USERS X - -
+              GROUPS O - -
+               ADMIN X - -
+           PRIVILEGE S - -
+            ANYTHING O - -
+              REDHAT X - -
+              DEBIAN - X -
+             PACKAGE - S -
+              UBUNTU - S -
+              DISTRO - O -
+                  OK - - X

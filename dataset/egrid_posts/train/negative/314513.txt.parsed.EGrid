@@ -1,0 +1,13 @@
+                TIME X - - -
+ //PROXY.EXAMPLE.COM S - - -
+            VARIABLE O - - -
+              PROXYS O - - -
+                WGET S - X -
+                THIS - - X -
+         COMMANDLINE - - O -
+         DECLARATION - - X -
+ HTTP_PROXY=PROXYURL - - X -
+             FILEURL - - X -
+                PART - - - X
+              UBUNTU - - - X
+                BOOT - - - X

@@ -1,0 +1,26 @@
+                 HEY S - - - - - - - -
+             SOMEONE X - - - - - - - -
+            IFCONFIG X - S - - - - - -
+             OPTIONS O - - - - - - - -
+             NETWORK X - - - - - - - -
+            SETTINGS O - S - - - - - -
+                  IP X - - - - - - - -
+             DEFAULT X - X - - - - - -
+             GATEWAY X - S - - O - - -
+                 DNS X - X - - - - - -
+              SERVER X - - - - - - - -
+                MASK X - - - - - - - -
+                DHCP X - - - - - - - -
+              CHANGE - - O - - - - - -
+               ROUTE - - X - - O - - -
+    /ETC/RESOLV.CONF - - X - - O - - -
+/ETC/NETWORK/INTERFACES - - O - - - - - -
+                BASH - - X - - X - - -
+              SCRIPT - - S - - O - - -
+              SCHOOL - - S - - - X - -
+                HOME - - S - - - X - -
+                FILE - - O - - - - - -
+                THAT - - - O - - - - -
+            WHEREAMI - - - X - - - - -
+             PACKAGE - - - X - - - - -
+           INSTALLER - - - - - - - - X

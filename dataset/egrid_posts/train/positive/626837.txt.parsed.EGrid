@@ -1,0 +1,26 @@
+          GEOMETRIES S - - - - - - -
+                 COD O - - - - - - -
+      GNOME-TERMINAL X - X - - X - -
+                FLAG - X - - - - - -
+            GEOMETRY - O - - - - - -
+                WORK - O - O - - - -
+        GCONF-EDITOR - O - - - - - -
+                ITEM - O O - - - - -
+DESKTOP\GNOME\TERMINAL - - S - - - - -
+                EXEC - - O - - - - -
+      GEOMETRY=90X40 - - S - - - - -
+                 URL - - - X - - - -
+                HTTP - - - O - - - -
+              LOGOUT - - - O - - - -
+                POST - - - O - - - -
+              CONFIG - - - O - - - -
+                   $ - - - - S - - -
+/DESKTOP/GNOME/APPLICATIONS/TERMINAL - - - - X - - -
+        APPLICATIONS - - - - X - - -
+                PART - - - - O - - -
+                NAME - - - - O X - -
+                 KEY - - - - X - - -
+                   | - - - - - X - -
+               VALUE - - - - - X - -
+      GEOMETRY=80X37 - - - - - X - -
+GLOBAL/KEYBINDINGS/PROFILES - - - - - - - X

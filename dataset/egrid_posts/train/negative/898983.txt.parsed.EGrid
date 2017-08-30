@@ -1,0 +1,25 @@
+             NOLAPIC S - - - -
+              LAPTOP X - - - -
+                LOCK O - - - -
+                 LID S - - - -
+                 USE X - - - -
+         PNPBIOS=OFF X - - - -
+             PARPORT S - - - -
+           INTERRUPT O - - - -
+              IP2100 O - - - -
+               SOUND X - - - -
+              DRIVER O - - - -
+               AUDIO X - - - -
+                 BUG X - - - -
+               HTTPS O - - - -
+//BUGZILLA.UBUNTU.COM/SHOW_BUG.CGI X - - - -
+                INFO - X - - -
+                TIME - - X - -
+             IPW2100 - - O - -
+                 ONE - - - - X
+                  GB - - - - X
+                SYNC - - - - X
+              MEMORY - - - - X
+              TOMBOY - - - - X
+                NOTE - - - - X
+            ANYTHING - - - - X

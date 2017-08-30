@@ -1,0 +1,10 @@
+             COMMAND X - - - X - - -
+             EXECUTE X - - - S - - -
+                 PPA X - - - S - - -
+UBUNTU-X-SWAT/X-UPDATES X - - - S - - -
+          REPOSITORY - - - - O - - -
+             PACKAGE - - - - - X - -
+             DEFAULT - - - - - - X -
+                   | - - - - - - S -
+             UPGRADE - - - - - - O -
+             NOTHING - - - - - - - X

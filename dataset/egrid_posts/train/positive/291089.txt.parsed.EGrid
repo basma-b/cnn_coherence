@@ -1,0 +1,12 @@
+    MYSQL-SERVER-5.0 X - - - - -
+             POSTFIX O S - S - -
+          DEPENDENCY - O - - - -
+              SERVER - - S - - -
+                 LOG - - X - - -
+             MESSAGE - - O - - -
+                SEND - - O - - -
+              SYSTEM - - X - - -
+       ADMINISTRATOR - - X - - -
+MAIL-TRANSPORT-AGENT - - X - - -
+                 MTA - - - O - -
+                  AH - - - - - X

@@ -1,0 +1,13 @@
+                TYPE S - - - - -
+               FDISK X X - - - -
+           /DEV/SDA5 X - - - - -
+           PARTITION S - O X - -
+                 USE - X - - - -
+                DISK - - - X - -
+               SETUP - - - O - -
+                 DOS - - - X - -
+              SCHEME - - - X - -
+                 ONE - - - X O -
+                   ' - - - - S -
+             GPARTED - - - - - S
+               SPACE - - - - - O

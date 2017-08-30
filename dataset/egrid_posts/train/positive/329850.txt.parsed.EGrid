@@ -1,0 +1,16 @@
+                COPY O - - - - -
+             APT-GET X S - - - -
+              TAR.GZ X - - - - -
+           EXTENSION O - - - - -
+             PACKAGE X - - - O -
+             SERVICE X - - - - -
+              SERVER X - - O - X
+              UBUNTU - X - - - -
+                NONE - - - S - -
+             COMMAND - - - O - -
+              INSERT - - - - X -
+             DESKTOP - - - - X -
+                  CD - - - - X -
+                 HOP - - - - O -
+             MACHINE - - - - - X
+            INTERNET - - - - - X

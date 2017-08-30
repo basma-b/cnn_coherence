@@ -1,0 +1,26 @@
+             ANYBODY X - - -
+         RECONFIGURE X - - -
+       NETWORK-CARDS O - - -
+              UBUNTU X - - -
+            IFCONFIG - S - -
+                TYPE - X - -
+                  -A - O - -
+                ETH0 - O S -
+                CARD - X - -
+                TIME - - X -
+            ETHERNET - - X -
+          CONTROLLER - - S -
+             REALTEK - - X -
+       SEMICONDUCTOR - - X -
+                 CO. - - X -
+                LTD. - - X -
+RTL-8139/8139C/8139C+ - - X -
+                 REV - - X -
+            MODPROBE - - X -
+             8139TOO - - X -
+                   | - - X -
+                SUDO - - X -
+                 TEE - - X -
+        /ETC/MODULES - - O -
+              MODULE - - S -
+                BOOT - - X -

@@ -1,0 +1,22 @@
+                XFCE O - - - - - - - - - - - -
+                  GO X - - - - - - - - - - - -
+             APT-GET - X - - - - - - - - - - -
+           INTERFACE - - O - - - - - - - - - -
+         REPLACEMENT - - - - O - - - - - - - -
+              GNOME2 - - - - X - - - - - - - -
+NO-INSTALL-RECOMMENDS - - - - - X - - - - - - -
+                DONT - - - - - X - - - - - - -
+                  .. - - - - - O X - - - - - -
+             NOTHING - - - - - X - - - - - - -
+                  DE - - - - - - X - - - - - -
+            VERSIONS - - - - - - O - - - - - -
+                APPS - - - - - - X - - - - - -
+               STUFF - - - - - - X - - - - - -
+         METAPACKAGE - - - - - - - S - - - - -
+         ENVIRONMENT - - - - - - - O - - - - -
+                SAME - - - - - - - X - - - - -
+               FRESH - - - - - - - O - - - - -
+             DISPLAY - - - - - - - - - - X - -
+             MANAGER - - - - - - - - - - O - -
+          EVERYTHING - - - - - - - - - - - - S
+               ICONS - - - - - - - - - - - - X

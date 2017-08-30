@@ -1,0 +1,19 @@
+             DOMAINS O - - -
+         DESTINATION X - - -
+             EXAMPLE - S - -
+                SHOW - X - -
+                DONT - X - -
+                TYPE - X - -
+                SUDO - - S -
+    MAIL.FOSSEDU.ORG - - X -
+LOCALHOST.LOCALDOMAIN - - X X
+           LOCALHOST - - X X
+      YOURDOAMIN.COM - - X -
+               HOWTO - - O -
+               SETUP - - X -
+             POSTFIX - - X -
+               HTTPS - - X -
+//HELP.UBUNTU.COM/COMMUNITY/POSTFIXBASICSETUPHOWTO - - O -
+          MAILSERVER - - - S
+              DOMAIN - - - X
+                 AOU - - - S

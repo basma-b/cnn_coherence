@@ -1,0 +1,15 @@
+            MOUNTALL O - - - -
+/LIB/X86_64-LINUX-GNU/LIBC.SO.6 O - - - -
+             VERSION O - - - -
+          GLIBC_2.14 S - - - -
+    /LIB/LIBPLY.SO.2 X - - - -
+                NONE X - - - -
+                WORK X - - - -
+                 USB O X - - -
+               RIGHT X - - - -
+             CURRENT - O - - -
+              SYSTEM - X - - -
+              SCRIPT - - X - S
+                HTTP - - - X -
+//FREENODEWATCH.ORG/FIX-UBUNTU - - - X -
+              SOURCE - - - - X

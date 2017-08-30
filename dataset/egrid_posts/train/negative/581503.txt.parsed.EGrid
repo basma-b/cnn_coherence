@@ -1,0 +1,9 @@
+             POSTFIX S - S - -
+               EMAIL X - - - -
+/ETC/POSTFIX/MAIN.CF - - S - -
+             COMMAND - - S - -
+                SUDO - - X - -
+/ETC/INIT.D/NETWORKING - - S - -
+            SERVICES - - S - -
+             WARNING - - X - -
+             NETWORK - - O - -

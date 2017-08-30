@@ -1,0 +1,23 @@
+             PACKAGE X - X - - - - - - - -
+                GREP X - - - - - - - - - -
+              VMWARE O - - - - - - - - - -
+             NOTHING O - - - - - - - - - -
+                DPKG - - X - - - - - - - -
+                 MAN - - X - - - - - - - -
+                LIST - - O - - - - - - - -
+                  .. - - X - - - - - - O -
+              OPTION - - O - - - - - - - -
+              SEARCH - - - X - - - - - - -
+           APT-CACHE - - - X - - - - - - -
+                 BUG - - - X - - - - - - -
+              REPORT - - - X - - - - - - -
+            SOLUTION - - - X X - - - - - -
+                LINK - - - - X - - - - - -
+           BUGREPORT - - - - X - - - - - -
+               HTTPS - - - - - X - - - - -
+//BUGS.LAUNCHPAD.NET/BUGS/57957 - - - - - S - - - - -
+       VMWARE-SERVER - - - - - - - O - - -
+          REPOSITORY - - - - - - - X - - -
+             FEATURE - - - - - - - - - X -
+               POINT - - - - - - - - - - O
+       VMWARE-PLAYER - - - - - - - - - - X

@@ -1,0 +1,14 @@
+                DIAL X - - - -
+                 ISP X - - - -
+                   < - S - - -
+                   > - X - - -
+              DIALUP - X - - -
+             SERVICE - X - - -
+             NETWORK - X X - -
+          CONNECTION - X - - -
+             DOESNOT - S - - -
+                WORK - O O - -
+           PPPCONFIG - - O - -
+               SETUP - - S - -
+                 GUI - - X - -
+            ACPI=OFF - - - - S

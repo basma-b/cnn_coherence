@@ -1,0 +1,14 @@
+               ROUTE O X X X -
+                 NET X - - - -
+              SERVER S S - - -
+             PROCESS X - - - -
+                  -N - O - - -
+                   U - S - - -
+            89.0.0.0 - - S - -
+           255.0.0.0 - - X - -
+             NETMASK - - O S -
+                  GW - - - S -
+             COMMAND - - - S -
+              REASON - - - S -
+               DOESN - - - X -
+                   T - - - - S

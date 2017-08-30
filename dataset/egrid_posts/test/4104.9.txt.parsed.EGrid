@@ -1,0 +1,17 @@
+                DATA S - - - - -
+                DISK X - - - - -
+                  DD O - - - - -
+                  MB - O - - - -
+                FACT - - - O - -
+                 ZIP - - - X - -
+               FLASH - - - - X -
+               DRIVE - - - - X -
+                 DVD - - - - X O
+               INTEL - - - - - S
+                 AMD - - - - - X
+         INSTRUCTION - - - - - O
+             PROGRAM - - - - - S
+               IMAGE - - - - - O
+                FILE - - - - - O
+                DISC - - - - - X
+                BOOT - - - - - X

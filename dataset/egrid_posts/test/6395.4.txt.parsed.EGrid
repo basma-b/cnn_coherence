@@ -1,0 +1,12 @@
+                HOST O - - -
+               SETUP O - - -
+                RAID X O - -
+            SOFTWARE - X - -
+              DEVICE - - S -
+           SOMETHING - - O -
+             /DEV/MD - - X -
+                SWAP - - - O
+           PARTITION - - - S
+                DISK - - - X
+               SPACE - - - X
+               THERE - - - X

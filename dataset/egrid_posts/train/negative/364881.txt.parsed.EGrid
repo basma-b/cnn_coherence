@@ -1,0 +1,12 @@
+           PARTITION X - - - - -
+                 HDD X - S O - -
+                BOOT S - - - - -
+                 TNE X - - - - -
+                  CD O - - - - -
+      /PATH/TO/ROOT/ - - O - - -
+           /DEV/HDA6 - - X - - -
+                /MNT - - - X - -
+                USER - - - - S -
+                FILE - - - - O -
+          CONNECTION - - - - O -
+             SLOWEST - - - - - X

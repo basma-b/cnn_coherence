@@ -1,0 +1,22 @@
+                BODY S - -
+               ERROR X O X
+                   * - X -
+          RESTARTING - X -
+                 WEB - X -
+              SERVER - S -
+              SYNTAX - X -
+                LINE - X -
+/ETC/PHPMYADMIN/APACHE.CONF - X -
+             COMMAND - O -
+               ALIAS - S -
+              MODULE - X -
+       CONFIGURATION - X -
+               -LSB- - S -
+               -RSB- - S -
+                FILE - O -
+                SUDO - X -
+  /ETC/INIT.D/APACHE - S -
+               THERE - - S
+                HTTP - - O
+//PASTE.UBUNTU-NL.ORG/56832/ - - X
+                NEED - - O

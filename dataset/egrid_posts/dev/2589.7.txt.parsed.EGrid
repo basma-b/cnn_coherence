@@ -1,0 +1,19 @@
+            LOCATION X - - - -
+                 MID X - - - -
+             UPGRADE X - - - -
+                 LTS X - - - -
+               12.04 X - - - -
+               MYSQL S - - - -
+               ERROR X - - - -
+              SERVER X - - - -
+              SOCKET S - - - -
+                 │ X - - - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK X - - - -
+   /ETC/MYSQL/MY.CNF X - - - -
+                CANT S - - - -
+                 MAP - O - - -
+            ANYTHING - - X - -
+              CONFIG - - X - -
+                 DNS - - - - X
+              LOOKUP - - - - X
+            FAILURES - - - - X

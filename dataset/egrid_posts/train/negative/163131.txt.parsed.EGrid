@@ -1,0 +1,20 @@
+             WINDOWS X X - -
+             NETWORK X - - -
+               DRIVE X - - -
+               SMBFS - O - -
+\\MY\GREAT\WINDOWS\SHARE - X - -
+              MYDIR/ - S - -
+                THIS - S - -
+          FILESYSTEM - X - -
+                TYPE - X - -
+                SMBS - S - -
+                HTTP - O - -
+                  .. - X - -
+                SUDO - X - -
+             APT-GET - S - -
+              INSTAL - O - -
+                IDEA - X - -
+              DAEMON - O - -
+              SERVER - X - -
+                 USE - - - X
+               VISTA - - - X

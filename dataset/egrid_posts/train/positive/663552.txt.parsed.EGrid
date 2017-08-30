@@ -1,0 +1,15 @@
+                STOP X - - -
+                  IC X - - -
+              KARMIC X - - -
+               PLACE O - - -
+ /BOOT/GRUB/MENU.LST X - - -
+                MENU - X - -
+                LIST - O - S
+                FILE - O X -
+                SUDO - - X -
+   /ETC/DEFAULT/GRUB - - X -
+            GRUB.CFG - - O -
+         UPDATE-GRUB - - X -
+              DAPPER - - - X
+               REPOS - - - S
+                 END - - - X

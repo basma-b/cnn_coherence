@@ -1,0 +1,19 @@
+               FSTAB X X - -
+               ISSUE O - - -
+              RESCUE X - - -
+              KERNEL X - - -
+                BOOT X O - -
+                FILE X - - X
+       RESCUE-KERNEL S - - -
+         ROOT-PROMPT O - - -
+              SYSTEM - X - -
+                  HD - X - -
+                 YEP - - X -
+           DIRECTORY - - - O
+                  CD - - - X
+              FOLDER - - - X
+             ARCHIVE - - - S
+                 TAR - - - O
+                PATH - - - X
+DOWNLOADS/ARCHIVE.TAR.GZ - - - X
+            WHATEVER - - - X

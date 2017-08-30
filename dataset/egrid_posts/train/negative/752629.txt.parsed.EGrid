@@ -1,0 +1,14 @@
+ /ETC/SSH/SSH_CONFIG X - - - -
+                LINE S - - - -
+               LOGIN X - - - -
+                WORK O - - - -
+                 SSH X - X - -
+                 ONE - O - - -
+PASSWORDAUTHENTICATION - S - - -
+              OTHERS - X - - -
+          SSH_CONFIG - - S - -
+         SSHD_CONFIG - - S - -
+                 HMM - - - X -
+              TIMING - - - - X
+                 EST - - - - X
+                HOUR - - - - X

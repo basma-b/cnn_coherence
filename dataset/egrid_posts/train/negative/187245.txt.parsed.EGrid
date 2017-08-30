@@ -1,0 +1,24 @@
+              DEVICE S - S - - - - -
+            BOOTTIME X - - - - - - -
+         NDISWRAPPER - X - - - - - -
+              DRIVER - O - - - - - -
+               ENTRY - O - - - - - -
+        /ETC/MODULES - X - - - - - -
+               WLAN0 - - X - X - - -
+                BOOT - - X - - - - -
+              ACCESS - - X - - - - -
+               POINT - - X - - - - -
+       CONFIGURATION - - S - - - - -
+                IFUP - - S - - - - -
+               IDEAS - - - X - - - -
+/ETC/NETWORK/INTERFACES - - - - X - - -
+                LINE - - - - X - O -
+                AUTO - - - - X - - -
+                THAT - - - - - X - -
+       CONFIGUARTION - - - - - - O -
+                 WPA - - - - - - X -
+/ETC/WPA_SUPPLICANT.CONF - - - - - - X -
+                 USE - - - - - - - X
+               THING - - - - - - - X
+                  .. - - - - - - - O
+               ERROR - - - - - - - X

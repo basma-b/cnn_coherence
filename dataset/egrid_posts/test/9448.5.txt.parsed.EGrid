@@ -1,0 +1,36 @@
+               ERROR X - - - - - - - - - - - -
+                DPKG O - - - - - - - - - - - -
+             PROCESS X - - - - - - - - - - - -
+GETLIBS_2.06-0UBUNTU1~PPA2_ALL.DEB S - - - - - - - - - - - -
+             ARCHIVE O - - - - - - - - - - - -
+                FILE X - - - - - - - - - - - X
+           DIRECTORY X - - - - - - - - - - - -
+              ERRORS X - - - - - - - - - - - -
+                IDEA X - - - - - - - - - - - -
+               ISSUE O - - - - - - - - - - - -
+              WINEHQ - - X - - - - - - - - - -
+               APPDB - - X X - - X - - - - - -
+                HTTP - - - - X - - - - - - - -
+//APPDB.WINEHQ.ORG/OBJECTMANAGER.PHP - - - - X - - - - - - - -
+             GETLIBS - - - - - S - - - - - - -
+      SCLASS=VERSION - - - - - X - - - - - - -
+           IID=24878 - - - - - S - - - - - - -
+                  .. - - - - - - X - - - - - -
+              FOLLOW - - - - - - - S - - - - -
+             PROBLEM - - - - - - - - X - - - -
+                THAT - - - - - - - - - X - - -
+               THERE - - - - - - - - - S - - -
+                TALK - - - - - - - - - O - - -
+                PAGE - - - - - - - - - X X - -
+              OUTPUT - - - - - - - - - O - - -
+              POLICY - - - - - - - - - X - - -
+                WINE - - - - - - - - - X - - -
+                  » - - - - - - - - - X - - -
+                LOOK - - - - - - - - - - X - -
+                 RUN - - - - - - - - - - - - O
+             COMMAND - - - - - - - - - - - - O
+               SHELL - - - - - - - - - - - - O
+                SUDO - - - - - - - - - - - - X
+                  CP - - - - - - - - - - - - S
+                HOME - - - - - - - - - - - - O
+                USER - - - - - - - - - - - - X

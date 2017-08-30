@@ -1,0 +1,10 @@
+          /ETC/FSTAB X - - -
+           PARTITION O - S -
+             NTFS-3G X - X S
+         NTFS-CONFIG - X - -
+         APPLICATION - O - -
+               MOUNT - - S -
+                USER - - - X
+               SPACE - - - X
+              DRIVER - - - O
+          READ/WRITE - - - O

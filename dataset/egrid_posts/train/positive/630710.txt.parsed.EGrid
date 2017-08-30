@@ -1,0 +1,12 @@
+             COMMAND X - - X - - - - - -
+                USER X - - X - - - - - X
+            TERMINAL X - - X - - - - - -
+             USERADD - S - - S - - - - -
+                   > - O - - O - - - - -
+           DIRECTORY - O - - O - - O - -
+               /HOME - X - - X - - - - -
+             ADDUSER - - - - - - O S - -
+                HOME - - - - - - - X - -
+            LSTARNES - - - - - - - - - X
+             USERDEL - - - - - - - - - O
+          /HOME/ANT/ - - - - - - - - - S

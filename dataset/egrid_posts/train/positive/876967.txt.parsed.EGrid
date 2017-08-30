@@ -1,0 +1,12 @@
+             RAMDISK X - - - - -
+           PARTITION X X - - - -
+               TMPFS - O - O - -
+                 LVM - O - - - -
+              MODULE - - S - - -
+                THIS - - - S - -
+               BLOCK - - - X - -
+              DEVICE - - - O - -
+                 RAM - - - X - -
+         COMPRESSION - - - - S -
+                CASE - - - - X -
+                ZRAM - - - - - X

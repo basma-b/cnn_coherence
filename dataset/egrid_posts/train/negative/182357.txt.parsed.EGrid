@@ -1,0 +1,9 @@
+                COPY X - -
+                FILE O S -
+/VAR/CACHE/APT/ARCHIVES X - -
+             PACKAGE - S -
+             ARCHIVE - X -
+               CHECK - O -
+             DESKTOP - - X
+              OFFICE - - X
+               STUFF - - O

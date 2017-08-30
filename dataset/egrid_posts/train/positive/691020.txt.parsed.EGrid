@@ -1,0 +1,17 @@
+                  DD X - - - - - -
+           PARTITION O - - - - - O
+                 USE X - - - - - -
+               SPACE O - - - - - -
+           /DEV/SDA2 X - - - - - -
+           /DEV/SDC1 X - - - - - -
+               100GB - X - - - - -
+                RISK - X - - - - -
+            SDC2/3/4 - X - - - - -
+           OVERWRITE - X - - - - -
+                COPY - X - - - - -
+                 END - X - - - - -
+          FILESYSTEM - - X - - - -
+         CORRUPUTION - - X - - - -
+                  .. - - - X - - -
+                WORK - - - - X - -
+              COURSE - - - - - - X

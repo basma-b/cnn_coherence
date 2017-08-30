@@ -1,0 +1,11 @@
+             DEFAULT S - - -
+               LEVEL O - - -
+                   X - O - -
+                BOOT - X - -
+              RUNLVL - X - -
+                FILE - X - -
+             INITTAB - X - -
+              UBUNTU - - O -
+                BASE - - X -
+              DISTRO - - O -
+                 ONE - - - X

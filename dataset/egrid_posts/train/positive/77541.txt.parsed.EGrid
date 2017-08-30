@@ -1,0 +1,11 @@
+                FILE X - - - - -
+           PARTITION X - - - - -
+               GROUP X - - - - -
+                ROOT O - - - - -
+                   < - S - - - -
+                   > - O - - - -
+           OPERATION - S - - - -
+                   U - - - X - -
+                USER - - - - - X
+                UID= - - - - - S
+                 UID - - - - - O

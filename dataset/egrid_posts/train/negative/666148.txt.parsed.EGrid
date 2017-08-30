@@ -1,0 +1,14 @@
+            USERNAME S - - - -
+        ALL=NOPASSWD X - - - -
+             SUDOERS S - - - -
+                USER X - S - -
+            SHUTDOWN O - - - -
+                 USE X - - - -
+                SUDO X - O - -
+            PASSWORD - X X - -
+                FILE - - - - X
+               CHECK - - - - O
+              SCRIPT - - - - X
+                 .SH - - - - S
+                TYPE - - - - X
+               START - - - - O

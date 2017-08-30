@@ -1,0 +1,10 @@
+                USER X - - -
+                FILE - S - -
+                  MV - - X -
+          MYFILE.TXT - - S -
+                   $ - - - S
+              SCRIPT - - - S
+                   F - - - X
+                .FOO - - - X
+                   % - - - X
+                .BAR - - - X

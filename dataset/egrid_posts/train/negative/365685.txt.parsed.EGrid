@@ -1,0 +1,14 @@
+                BOOT X -
+              SCREEN S -
+               START S -
+              INSTAL S -
+              DRIVER O -
+                CARD X -
+                SUDO X -
+    DPKG-RECONFIGURE X -
+        XSERVER-XORG X -
+            RECOVERY X -
+                MODE X -
+/VAR/LIB/GCONF/DEFAULTS - X
+      /VAR/LIB/GCONF - X
+              ANSWER - S

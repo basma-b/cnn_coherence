@@ -1,0 +1,13 @@
+               GROUP X - - - - -
+          /ETC/GROUP - O - - - -
+                USER - X - - - -
+                NAME - O - X - -
+                 DBA - - X - - -
+              X:1002 - - X - - -
+                SUDO - - X - - -
+                 VIM - - X - - -
+                 USE - - X - - -
+              EDITOR - - X - - -
+             SERVICE - - - X - -
+              ORACLE - - - S - -
+            DATABASE - - - O - -

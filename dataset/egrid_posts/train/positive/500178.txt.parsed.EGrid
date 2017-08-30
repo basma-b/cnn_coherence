@@ -1,0 +1,36 @@
+               USER1 X - - - - - - - - -
+                SUDO X - - - - - - - - -
+                NANO X - - - - - - - - -
+        /ETC/SUDOERS X - - - - X - - - -
+                   > X - - - - - - - - -
+             SUDOERS X S X - - - - - - -
+                FILE X - X - - O - - - -
+               ERROR X - - - - X X - - S
+                LINE X - - - - X X - - -
+                   < X - - - - - X - - -
+              INSERT X - - - - - - - - -
+            NOPASSWD O - - - - - - - - -
+/USR/BIN/FIRESTARTER X - - - - - - - - -
+                 END X - - - - - - - - -
+                CANT X - - - - - - - - -
+                HELP X - - - - - - - - -
+              VISUDO - O X - - - - - - -
+                KIND - O - - - - - - - -
+            PROBLEMS - X - - - - - - - -
+              SYNTAX - - S - - - - - - -
+               CHECK - - X - - - - - - -
+                BOOT - - O - - - - - - -
+            RECOVERY - - X - - - - - - -
+                MODE - - X - - - - - - -
+                ROOT - - X - - - - - - -
+               SHELL - - X - - - - - - -
+               USAGE - - X - - - - - - -
+               -LSB- - - O - - - - - - -
+               -RSB- - - X - - - - - - -
+                  -V - - X - - - - - - -
+                HTTP - - - X - - - - - -
+//WWW.FS-SECURITY.COM/DOCS/FAQ.PHP - - - X - - - - - -
+            ANYTHING - - - - O - - - - -
+                  .. - - - - - X - - - -
+               THERE - - - - - - S - - -
+                 HMM - - - - - - - X - -

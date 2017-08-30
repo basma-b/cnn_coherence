@@ -1,0 +1,14 @@
+                  IM X - - - - - -
+           PARTITION - O - - - - -
+                THAT - - S - - - -
+                GRUB - - X - S - -
+                PART - - O - - - -
+                 SDA - - - X X - -
+             DEFAULT - - - - X - -
+              MASTER - - - - X - -
+                BOOT - - - - X - -
+              RECORD - - - - O - -
+                  .. - - - - - X -
+              REBOOT - - - - - - O
+                 ALL - - - - - - O
+             COMMAND - - - - - - O

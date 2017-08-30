@@ -1,0 +1,35 @@
+              AMOUNT S - - - - - - -
+                APPS S - - - - - - -
+                MENU X - X X X - - -
+       MENU-XDG|GREP O - - - - - - -
+            MENU-XDG X - - - - - - -
+               CACHE X - - - - - - -
+              DAEMON O X - - - - - -
+                 KDE O - S - S - - -
+                 RUN - - X - - - - -
+             NOTHING - - O - - - - -
+                  PS - - X - - - - -
+                AUXW - - S - - - - -
+            STANDARD - - X - - - - -
+              SYSTEM - - O S - - - -
+             PACKAGE - - S - - - - -
+           SOMETHING - - O - - - - -
+   /ETC/MENU-METHODS - - X - - - - -
+                 YEP - - - X - - - -
+                 COS - - - S - - - -
+               ITEMS - - - S - - - -
+        DIST-UPGRADE - - - X - - - -
+              DEBIAN - - - X - - - -
+                 PIN - - - O - - - -
+                 SID - - - X - - - -
+              WORLDS - - - - O - - -
+               MENUS - - - - O - - -
+            ANYTHING - - - - O - - -
+          POPULATION - - - - X - - -
+              SCRIPT - - - - X - - -
+  /ETC/MENU-METHODS/ - - - - X - - -
+                LOOK - - - - - O - -
+/ETC/MENU-METHODS/XDG-DESKTOP-ENTRY-SPEC-APPS - - - - - X - -
+                CALC - - - - - O - -
+               HTTPS - - - - - - - X
+//HELP.UBUNTU.COM/COMMUNITY/GRUB2 - - - - - - - X

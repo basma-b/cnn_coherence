@@ -1,0 +1,13 @@
+              SERVER S - - - - - - - - -
+             REQUEST O - - - - - - - - -
+            IPTABLES - S - - - - - - - -
+           LOCALHOST - - X - - - - - - -
+              CHANGE - - - O - - - - - -
+         SSHD_CONFIG - - - X - - - X - -
+            ANYTHING - - - - X - - - - -
+     /ETC/HOSTS.DENY - - - - X - - - - -
+             NOTHING - - - - - - - - X -
+              CLIENT - - - - - - - - X -
+              INSIDE - - - - - - - - X -
+          HOSTS.DENY - - - - - - - - X -
+                 HRM - - - - - - - - X -

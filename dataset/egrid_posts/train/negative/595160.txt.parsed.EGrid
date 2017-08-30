@@ -1,0 +1,11 @@
+            DENYHOST O - - -
+                FILE - S - -
+                 ALL - X - -
+                 ACE - X - -
+                  PC - O - -
+              LAPTOP - X - -
+                HELP - X - -
+          EVERYTHING - O - -
+             EXAMPLE - - X -
+              SYSTEM - - - S
+                I386 - - - O

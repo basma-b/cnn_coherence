@@ -1,0 +1,10 @@
+               START X - - - - - -
+                BOOT X - - - - - -
+           INTEL_AGP - - - O - O -
+/ETC/HOTPLUG/BLACKLIST - - - X - - -
+                CARD - - - - X - -
+                  VS - - - - X - -
+                SLOT - - - - X - -
+                FILE - - - - - O -
+/ETC/HOTPLUG/BLACKLIST.D/ - - - - - X -
+                THAT - - - - - - S

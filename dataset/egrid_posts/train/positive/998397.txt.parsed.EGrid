@@ -1,0 +1,12 @@
+                 GUY S - - -
+                LOAD X - O -
+          NVIDIA-AGP - O O -
+               WHERE - X - -
+             AGPGART - - S -
+LINUX-RESTRITCTED-MODULES - - S -
+             PACKAGE - - X -
+LINUX-RESTRICTED-MODULES-386 - - X -
+        /ETC/MODULES - - X -
+                BOOT - - X -
+                BASE - - - X
+              NVIDIA - - - X

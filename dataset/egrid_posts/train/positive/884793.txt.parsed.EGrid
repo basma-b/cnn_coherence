@@ -1,0 +1,17 @@
+              KERNEL X - - - - - -
+              UPDATE S - - - - - -
+                FILE O X - - - - -
+              CHANGE - X - - - - -
+         /ETC/GRUB.D - X - - - - -
+   /ETC/DEFAULT/GRUB - S - - - - X
+         UPDATE-GRUB - O - - - - -
+                GRUB - X - - - - -
+/ETC/GRUB.D/20_MEMTEST86+ - O - - - - -
+                 ONE - O - - - - -
+                BLAH - O - - - - -
+              NUMBER - - O - - - -
+                THAT - - - - S - -
+             ENTRIES - - - - O - -
+            GRUB.CFG - - - - - O -
+        /ETC/GRUB.D/ - - - - - - O
+               STICK - - - - - - O

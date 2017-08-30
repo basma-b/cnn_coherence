@@ -1,0 +1,19 @@
+                THAT S X - - - - - -
+             MKISOFS X - - S - - - O
+  /PATH/TO/SOME/DIR/ O - - - - - - -
+               IMAGE O - - - - - - -
+              LAYOUT S - - - - - - -
+                DATA S - - - - - - -
+                  .. O - - - - - - -
+              THINGS - - - O - - - -
+             DEFAULT - - - X - - - -
+                SAME - - - - X - - -
+                   $ - - - - - X - -
+          EXTENSIONS - - - - - O - -
+                  -R - - - - - S - -
+/VAULT/ISO/CDBACKUP.ISO - - - - - X - -
+       /MEDIA/CDROM/ - - - - - O - -
+               THING - - - - - O - -
+                  DD - - - - - X - -
+       IF=/DEV/CDROM - - - - - X - -
+                  CD - - - - - - - O

@@ -1,0 +1,14 @@
+                  CP S - - -
+           RECURSIVE X - - -
+        PRESERVE=ALL X - - -
+                /VAR X - - O
+         /BACKUP/VAR O - - -
+/VAR/LIB/UREADAHEAD/DEBUGFS/IEEE80211/PHY0/STATISTICS/DOT11RTSSUCCESSCOUNT O - - -
+           OPERATION X - - -
+                CANT - - X -
+             DEBUGFS - - O -
+               THERE - - X -
+          FILESYSTEM - - X -
+                   * - - S -
+            LOCATION - - - X
+                  -X - - - S

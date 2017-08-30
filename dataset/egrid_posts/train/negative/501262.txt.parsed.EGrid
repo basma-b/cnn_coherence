@@ -1,0 +1,19 @@
+             PROBLEM X - - - - - -
+          VIRTUALBOX X - - - - - -
+                  OS O - - - - - -
+              KERNEL X X X - - - -
+              DRIVER X - - - - - -
+              MODULE - S - - - - -
+                LOAD - O - - - - -
+              REASON - X - - - - -
+             PACKAGE - - O O - - -
+VIRTUALBOX-OSE-MODULES - - - - - S -
+                 USE - - - - - X -
+                SUDO - - - - - X -
+            APTITUDE - - - - - X -
+                   + - - - - - X -
+                   F - - - - - S -
+         PRINTSCREEN - - - - - X -
+              BUTTON - - - - - O -
+            KEYBOARD - - - - - X -
+               DRIVE - - - - - - O

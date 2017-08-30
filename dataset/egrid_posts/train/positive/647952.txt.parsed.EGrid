@@ -1,0 +1,8 @@
+              SYSTEM S - - -
+     NETWORK-MANAGER S - - -
+         CONNECTIONS O - - -
+            IFCONFIG - X - -
+              OUTPUT - S - -
+                 CAT - - - S
+           SOMETHING - - - O
+        MANAGED=TRUE - - - X

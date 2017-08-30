@@ -1,0 +1,17 @@
+            LOCATION S - - -
+                HOME X - - -
+                 LAN X - - -
+                ETH1 X - - -
+                ETH0 S - - -
+            NITERNET X - - -
+               TWEAK X - - -
+            IPTABLES O - - -
+                  .. X - - -
+                 DSL S - - -
+                 PPP O - - -
+             THINGIE O - - -
+             WINDOWS X - - -
+           FIREWALLS S - - -
+                FILE X - - -
+              OUTPUT - - O -
+             PROGRAM - - X -

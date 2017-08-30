@@ -1,0 +1,26 @@
+                SOME S - - - - - - -
+              NVIDIA X - X S - - - -
+              KERNEL X - - - X - - -
+            PROBLEMS - X - - - - - -
+                BITE - - X - - - - -
+                   X - - O - - - - -
+              MODULE - - X - - - - -
+           XORG.CONF - - X - - - - -
+              SCREEN - - O - - - - -
+                 VTS - - X - - - - -
+          XORG.0.LOG - - S - - - - -
+   /VAR/LOG/MESSAGES - - S - - - - -
+            ANYTHING - - O O - - - -
+              LITTLE - - O - - - - -
+               ERROR - - X - - - - -
+           DOWNGRADE - - O - - - - -
+              DRIVER - - X - - - - -
+              SERIES - - - X - - - -
+                   * - - - - O - - -
+                PAST - - - - X - - -
+              DEBIAN - - - - S - - -
+LINUX-RESTRICTED-MODULES - - - - X - - -
+             PACKAGE - - - - O - O -
+               BREAK - - - - - - X -
+             MANAGER - - - - - - X -
+             APT-FIX - - - - - - - X

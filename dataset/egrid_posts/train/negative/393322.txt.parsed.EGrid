@@ -1,0 +1,17 @@
+             WINDOWS X - - - - - -
+           PARTITION O - - - - - -
+              UBUNTU X - - - - - -
+                CANT - - - X - - -
+                 UID - - - X - - -
+                GUID - - - O - - -
+             OPTIONS - - - X - - -
+           UMASK=000 - - - X - - -
+             REMOUNT - - - - - O -
+               GUIDE - - - - - S -
+                LINK - - - - - S -
+              SCRIPT - - - - - O -
+                SUDO - - - - - S -
+      /MEDIA/WINDOWS - - - - - X -
+              PIDGIN - - - - - - S
+              CHOICE - - - - - - O
+                 IRC - - - - - - X

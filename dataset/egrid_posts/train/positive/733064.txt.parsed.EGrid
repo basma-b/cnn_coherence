@@ -1,0 +1,15 @@
+               10.04 S - - - - -
+               ISSUE O - - - - -
+            RUNLEVEL X X - - - -
+             UNKNOWN - X - - - -
+                 LOT - O - - - -
+             SERVICE - X - X - -
+               ARENT - X - - - -
+               START - X - O - -
+                CRON - - - - - S
+                 ONE - - - - - O
+              DELUGE - - - - - X
+            SYSVINIT - - - - - X
+              SCRIPT - - - - - O
+             TELINIT - - - - - X
+          EVERYTHING - - - - - S

@@ -1,0 +1,14 @@
+             COMMAND S - - - -
+             FIREFOX O - - - -
+                SUDO - X - - -
+             KILLALL - S - - -
+                   A - - X - -
+              SERIES - - X - -
+              KERNEL - - X - X
+                 TAR - - - X -
+ RT2500-X.X.X.TAR.GZ - - - S -
+           DIRECTORY - - - X -
+              DRIVER - - - - O
+              SOURCE - - - - S
+                  C. - - - - X
+              MODULE - - - - X

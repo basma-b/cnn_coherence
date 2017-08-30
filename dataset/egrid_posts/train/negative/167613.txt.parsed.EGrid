@@ -1,0 +1,30 @@
+                GRUB X X -
+             EXPERTS S - -
+           PARTITION X - -
+                 USE O O -
+                COPY X - -
+                  .. X - -
+               ERROR O - -
+              REBOOT X - -
+              SYSTEM S - -
+          /BOOT/GRUB - X -
+             LIVE-CD - X -
+           SOMETHING - X -
+              DEBIAN - - X
+               STUFF - - S
+            MISMATCH - - X
+              KERNEL - - X
+                  DI - - X
+                 ISO - - X
+              SOURCE - - X
+                 TWO - - X
+                HTTP - - X
+//ARCHIVE.UBUNTU.COM/UBUNTU/DISTS/LUCID/MAIN/INSTALLER-AMD64/CURRENT/IMAGES/HD-MEDIA/ - - X
+//RELEASES.UBUNTU.COM/LUCID/UBUNTU-10.04-DESKTOP-AMD64.ISO - - X
+               STUMP - - O
+               MORON - - O
+               CHECK - - X
+           TECHNIQUE - - S
+            VARIANTS - - O
+                 BUG - - O
+           LAUNCHPAD - - X

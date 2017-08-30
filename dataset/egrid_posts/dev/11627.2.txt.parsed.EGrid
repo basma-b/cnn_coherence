@@ -1,0 +1,20 @@
+                CANT X - - - - -
+             MACHINE S - - - - -
+             NETWORK X - - O - -
+            IFCONFIG X - - - - -
+                  -A X - - - - -
+                LIST X - - - - -
+                ETH0 X - X S - -
+                LINE - O - - - -
+/ETC/NETWORK/INTERFACES - X - - - -
+                AUTO - - X - - -
+                THAT - - - O - -
+                INET - - - X - -
+                DHCP - - - X - -
+                SUDO - - - X - -
+                IFUP - - - X - -
+            SECURITY - - - - X -
+                 ONE - - - - - S
+                HOME - - - - - X
+                  PC - - - - - X
+                  OS - - - - - X

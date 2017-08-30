@@ -1,0 +1,17 @@
+            ANYTHING X S - - -
+                 CAP - X - - -
+           APOLOGIES - O - - -
+             NOTHING - O - - -
+                SUDO - X - - X
+             APT-GET - O - - -
+               PURGE - S - - -
+        FGLRX-UPDATE - O - - -
+     GRUB_TIMEOUT=-1 - O - - -
+                MENU - S - - -
+                THAT - - X - -
+                NANO - - - - X
+    /ETC/SYSCTL.CONF - - - - S
+               WRITE - - - - O
+              ACCESS - - - - X
+                 TEE - - - - X
+                  -A - - - - O

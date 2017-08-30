@@ -1,0 +1,26 @@
+               FLASH X - - - - - - - - - - - -
+               DRIVE O - - - - - - - - - - - -
+                 HFS X - - - - - - - - - - - -
+              FORMAT X - - - - - - - - - - - -
+               MEDIA - - X - - - - - - - - - -
+               ERROR - - O - - - - - - - - - -
+                 CAN - - X - - - - - - - - - -
+             GPARTED - - - - X - - - - - - - -
+                THIS - - - - O - - - - - - - -
+              ERRORS - - - - - - X - - - - - -
+                FILE - - - - - - - - X - - - -
+              SYSTEM - - - - - - - - O - - - -
+                DATA - - - - - - - - - X - - -
+              DEVICE - - - - - - - - - O - - -
+            /DEV/SDB - - - - - - - - - X - - -
+                TYPE - - - - - - - - - X - - -
+                 HDD - - - - - - - - - O - - -
+            ANYTHING - - - - - - - - - O - - -
+             NOTHING - - - - - - - - - X - - -
+              OUTPUT - - - - - - - - - - X - -
+             COMMAND - - - - - - - - - - X - -
+                  TY - - - - - - - - - - - S -
+           MKFS.EXT3 - - - - - - - - - - - X -
+           /DEV/SDB1 - - - - - - - - - - - X -
+                HTTP - - - - - - - - - - - - X
+//PASTE.KDE.ORG/425144/ - - - - - - - - - - - - S

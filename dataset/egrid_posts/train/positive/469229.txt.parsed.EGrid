@@ -1,0 +1,15 @@
+UUID=8D83C03B-1EC4-404F-8E88-F39EEEA344FD S - -
+               ENTRY O - -
+               FSTAB X O -
+                NONE S S -
+                SWAP S O O
+              ANSWER O - -
+               POINT X X -
+           PARTITION - O X
+             PROBLEM - - S
+              DEBIAN - - S
+               SHARE - - X
+              UBUNTU - - X
+               DIDNT - - S
+                UUID - - X
+                 USE - - S

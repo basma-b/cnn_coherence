@@ -1,0 +1,12 @@
+            COMPILER S O S -
+              GCC3.4 X - - -
+             GCC-3.4 - S - -
+                MAKE - - X -
+             GCC-4.0 - - X -
+              FILE.C - - S -
+                 USE - - S -
+              VERSIN - - O -
+             COMMAND - - X -
+            MAKEFILE - - X -
+                FILE - - - S
+            LAN/TAKE - - - X

@@ -1,0 +1,16 @@
+            LOCATION X - - - - -
+     NETWORK-MANAGER S - - - - X
+       NETWORK-ADMIN S - - - - -
+              SWITCH X - - - - -
+                 ALT - - X - - -
+                   + - - X - - -
+                  F2 - - X - - -
+           NM-APPLET - - X - - -
+          SM-DISABLE - - X - - -
+                SUDO - - X - X -
+              DAEMON - - - - O -
+/ETC/INIT.D/NETWORK-MANAGER - - - - S -
+           SOMETHING - - - - X -
+              APPLET - - - - O -
+             SYSTRAY - - - - X -
+             APT-GET - - - - - O

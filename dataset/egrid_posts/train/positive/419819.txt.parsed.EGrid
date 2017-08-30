@@ -1,0 +1,9 @@
+             COMMAND X - - - -
+             UPGRADE X - - - -
+        DIST-UPGRADE - X - - -
+                ACPI - - X - -
+                  -V - - S - -
+               MBMON - - O - -
+               ERROR - - - - X
+             MESSAGE - - - - O
+                  /\ - - - - X

@@ -1,0 +1,16 @@
+             COMMAND O - - - -
+             STARTUP X - - - -
+                KIND X - - - -
+           SOMETHING - X - - -
+              SYSTEM - X - - -
+               START - O - - -
+              APACHE - - X - -
+                INIT - - X - -
+              SCRIPT - - X - -
+             SECTION - - S - -
+                BOOT - - X - -
+                MENU - - X - -
+              EDITOR - - O - -
+             PACKAGE - - - X -
+                NAME - - - O -
+                WORK - - - - X

@@ -1,0 +1,56 @@
+               CAUSE O - - - - - - - - - -
+               ISSUE X - - - - - - - - - -
+              OPTION O - X - - - - - - - -
+                THIS - X - - - - - - O - -
+              NOPERM - - O - - - - - - - -
+               HTTPS - - X - - - - - - - -
+               THING - - S S - - - - - - -
+               SHARE - - X X O - - - - - -
+              FOLDER - - S - - - - - - - -
+                 BOX - - X - - - - - - - -
+            SMB/CIFS - - S - - - - - - - -
+          DIFFERENCE - - O - - - - - - - -
+            LOCATION - - - O - - - - - - -
+                 USE - - - X - - - - - - -
+                  LS - - - O - - - - - - -
+             NOTHING - - - O - - - - - - -
+               THERE - - - S - - - - - - -
+              SERVER - - - X - - X - - - -
+                  .. - - - O - - - X - - -
+              SYSTEM - - - S - - - - - - -
+         PERMISSIONS - - - O O - O - - - -
+              REMOTE - - - X - - - - - - -
+            UID/GIDS - - - S - - - - - - -
+               USERS - - - O - - - - - - -
+            SENTENCE - - - S - - - - - - -
+                CIFS - - - O S - X - - - -
+                UNIX - - - X X - - - - - -
+                 E.G - - - X - - - - - - -
+               SAMBA - - - - X - - - - - -
+             DEFAULT - - - - X - - - - - -
+           OWNERSHIP - - - - X - - - - - -
+                UIDS - - - - O - - - - - -
+                HELP - - - - - - O - - - -
+                FILE - - - - - - S - - - -
+                 UID - - - - - - X - - - -
+              KERNEL - - - - - - S - - - -
+             MACHINE - - - - - - X - - - -
+                WORK - - - - - - X - - - -
+//192.168.0.207/DOCUMENTS - - - - - - X - - - -
+      /MNT/DOCUMENTS - - - - - - X - - - -
+                HTTP - - - - - - - S - S -
+//REPOGEN.SIMPLYLINUX.CH/GENERATE.PHP - - - - - - - S - - -
+                LINK - - - - - - - S - - -
+                HOME - - - - - - - X - - -
+                PAGE - - - - - - - X - - -
+//REPOGEN.SIMPLYLINUX.CH/INDEX.PHP - - - - - - - S - - -
+                DONT - - - - - - - X - - -
+           SOMETHING - - - - - - - X - - -
+                HANG - - - - - - - X - - -
+                 LIE - - - - - - - - O - -
+             ARCHIVE - - - - - - - - X - -
+               BASIS - - - - - - - - X - -
+                URLS - - - - - - - - S - -
+//OLD-RELEASES.UBUNTU.COM/ - - - - - - - - X - -
+        REPOSITORIES - - - - - - - - - O -
+                 LXC - - - - - - - - - - O

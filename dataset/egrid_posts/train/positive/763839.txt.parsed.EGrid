@@ -1,0 +1,13 @@
+              ACTION X -
+            AUTOMATE O -
+                ICON X -
+              EXPORT X -
+LD_LIBRARY_PATH=/USR/LIB/JNI X -
+             ARDUINO X -
+LD_LIBRARY_PATH=BLAH X -
+              RETURN - X
+           DIRECTORY - S
+                FILE - X
+               PROMT - S
+            TERMINAL - X
+                 JOB - O

@@ -1,0 +1,15 @@
+               BLKID - O - - - - - -
+           PARTITION - X - - X - - -
+           /DEV/SDA6 - X - - - - - -
+           /DEV/SDA7 - S - - - - - -
+               UUIDS - O - - - - - -
+                THIS - - X - - - - -
+                UUID - - - S - - - -
+               THATS - - - - - X - -
+               LABEL - - - - - X - -
+                SAME - - - - - O - -
+               THERE - - - - - - - S
+               ENTRY - - - - - - - X
+                   M - - - - - - - X
+              BOTTOM - - - - - - - X
+                TYPE - - - - - - - X

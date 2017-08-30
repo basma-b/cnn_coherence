@@ -1,0 +1,9 @@
+       /BOOT/VMLINUZ X - - - - -
+                FILE - - O - - -
+                PART - - - X - -
+              KERNEL - - - X - -
+             PACKAGE - - - X - -
+          VIRTUALBOX - - - - X -
+             MACHINE - - - - O -
+                 YES - - - - X -
+                PPTP - - - - - X

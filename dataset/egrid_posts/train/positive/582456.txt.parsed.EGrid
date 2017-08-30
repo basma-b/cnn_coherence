@@ -1,0 +1,16 @@
+              ACCESS - X - - - - - -
+              APACHE - X S - - - S -
+               USERS - X S O - - - -
+                  OK - - X - - - - -
+            IPTABLES - - S - - S - -
+            REWUESTS - - O - - - - -
+                PORT - - X - - - - -
+           INTERFACE - - X - - - X -
+                THAT - - - O - - - -
+             CONNECT - - - X - - - -
+              SYSTEM - - - X - - - -
+            LOOPBACK - - - - X - - -
+                 ILL - - - - - S - -
+                FILE - - - - - - X -
+                 ALL - - - - - - - X
+             DEFAULT - - - - - - - X

@@ -1,0 +1,34 @@
+       BLADENBROCADE X - - - - - - -
+              DOMAIN S - - - - - - -
+                HOST X - - - - - - -
+          AVHTECH.NL X - - - - - - -
+              RETURN X - - - - - - -
+              RECORD X - - - - - - -
+     213.188.134.201 X - - - - - - -
+                  MX X - - - - - - -
+                THAT - X - - - - - -
+                 LOG - X - - X - - -
+               ENTRY - X - - X - - -
+               THERE - - - S - - - -
+               CHECK - - - O - - - -
+             ADDRESS - - - X S - - -
+                  IP - - - - X - - -
+                 SAY - - - - X - - -
+             UNKNOWN - - - - X - - -
+                NAME - - - - X - - -
+           CONFIGURE - - - - O - - -
+             POSTFIX - - - - - X - -
+       CONFIGURATION - - - - - X X -
+             PACKAGE - - - - - - O -
+              README - - - - - - O -
+             OPTIONS - - - - - - S -
+/ETC/POSTFIX/MAIN.CF - - - - - - X -
+             ENTRIES - - - - - - X -
+             MAIN.CF - - - - - - X -
+                 ANY - - - - - - X S
+              FOLLOW - - - - - - X -
+SMTPD_CLIENT_RESTRICTIONS - - - - - - X -
+SMTPD_SENDER_RESTRICTIONS - - - - - - X -
+SMTPD_DATA_RESTRICTIONS - - - - - - X -
+               BLOCK - - - - - - - X
+                MAIL - - - - - - - O

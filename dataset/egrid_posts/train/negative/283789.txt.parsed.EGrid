@@ -1,0 +1,23 @@
+            LANGAUGE O - - - -
+                  .. X - - - -
+               NOOBS X - - - -
+            ATTITUDE X - - - -
+                CRAP X - - - -
+              THINGS S - - - -
+          VIRTUALBOX - X - - -
+              KERNEL - X - - -
+              DRIVER - S - - -
+                USER - X S - -
+         PERMISSIONS - - O - -
+        /DEV/VBOXDRV - - X - -
+           VBOXUSERS - - X - -
+               GROUP - - X - -
+              CHANGE - - - S -
+              EFFECT - - - O -
+              STATUS - - - X -
+                CODE - - - X X
+               -1909 - - - X -
+VERR_VM_DRIVER_NOT_ACCESSIBLE - - - X -
+           COMPONENT - - - - X
+           INTERFACE - - - - X
+            ICONSOLE - - - - X

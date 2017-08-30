@@ -1,0 +1,21 @@
+              PEOPLE X - - - - -
+             NETWORK X O - O - -
+             PROBLEM O - - - - -
+           SYSADMINS - - S - - -
+               LEASE - - X - - -
+                DHCP - - - O - -
+/ETC/NETWORK/INTERFACES - - - S - -
+                 USE - - - O - -
+                ETH0 - - - S - -
+               REPLY - - - S - -
+             REQUEST - - - X - -
+     255.255.255.255 - - - X - -
+               ROUTE - - - O - -
+              SUBNET - - - X - -
+             ADDRESS - - - O O -
+            IFCONFIG - - - X - -
+           DHCLIENT3 - - - S - -
+                  IP - - - X - -
+                CARD - - - X - -
+                 MAC - - - X - -
+               INPUT - - - - X -

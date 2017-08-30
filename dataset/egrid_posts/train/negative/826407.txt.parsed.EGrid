@@ -1,0 +1,11 @@
+                 NFS S - - - -
+           DIRECTORY X - - - -
+                ROOT X - - - -
+          PERMISSION O - - - -
+                  LS X - - - -
+      NO_ROOT_SQUASH - S - - -
+                LINK - - - X -
+              ADVICE - - - X -
+                SUDO - - - - X
+             APT-GET - - - - S
+             PROGRAM - - - - O

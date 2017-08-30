@@ -1,0 +1,14 @@
+           PARTITION X - - - -
+          READ/WRITE X - - - -
+                  CD X - - - -
+                GRUB - X - - -
+            MENU.LST - S - - -
+             COMMAND - O - - -
+                  RW - X - - -
+             OOPTION - X - - -
+           SOMETHING - X - - -
+         /MEDIA/SDA5 - X X - -
+                TYPE - - O - -
+               -RSB- - - S - -
+                EXT3 - - O - -
+                  -O - - - S -

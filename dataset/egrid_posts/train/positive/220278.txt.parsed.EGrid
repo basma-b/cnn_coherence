@@ -1,0 +1,11 @@
+                COPY O - - - -
+               WIN32 X - - - -
+           PARTITION X - - - -
+             WINDOWS - X - - -
+                GRUB - S O - -
+                 MBR - X - - -
+              ANYONE - - X - -
+           REINSTALL - - X - -
+               HTTPS - - - X -
+//HELP.UBUNTU.COM/COMMUNITY/RECOVERINGUBUNTUAFTERINSTALLINGWINDOWS - - - X -
+                  TY - - - - X

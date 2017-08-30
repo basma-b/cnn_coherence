@@ -1,0 +1,14 @@
+         DIRECTORIES O - - -
+                LINK - O - -
+             SYMLINK - O - -
+                  CD - X - -
+/FOLDER/TO/BE/LINKED/TO - O - -
+               THATS - S - -
+          MOUNTPOINT - S - -
+              FOLDER - O - -
+               OTHER - X - -
+                ICON - O - -
+           SOMETHING - O - -
+                 GUI - S - -
+              LINKTO - X - -
+                  OK - - - X

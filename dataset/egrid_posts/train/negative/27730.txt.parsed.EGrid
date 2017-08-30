@@ -1,0 +1,11 @@
+         AUDIO_SETUP X - -
+              DEVICE X - -
+            /DEV/DSP O - -
+            RESOURCE X - -
+                   < X - -
+             PROGRAM O - -
+               BLOCK X - -
+               SOUND X - -
+                CARD X - -
+         APPLICATION X - -
+               ENTER - - O

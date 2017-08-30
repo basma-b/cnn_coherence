@@ -1,0 +1,12 @@
+                LINK O - - - -
+           PARTITION O - - - -
+WUBI-MOVE-TO-PATITION X - - - -
+                  SH X - - - -
+WUBI-MOVE-TO-PARTITION X - - - -
+                   < X - - - -
+                SWAP X - S - -
+                   > - X - - -
+                 EEH - - - - X
+                TEXT - - - - X
+              EDITOR - - - - X
+    CONSOLE/TERMINAL - - - - X

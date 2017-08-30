@@ -1,0 +1,11 @@
+         PERMISSIONS S -
+         DIRECTORIES X -
+                SAVE X -
+FIRST-COMMENT-STANZA X -
+                LINE S O
+             COMMENT S -
+                SUDO - X
+                 HMM - S
+                USER - O
+               GROUP - X
+          /ETC/GROUP - X

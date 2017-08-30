@@ -1,0 +1,17 @@
+                 GUY X - - -
+                 PPA O - - -
+             PACKAGE O - - -
+              DISTRO X - - -
+               REPOS X - - -
+                  .. X - O -
+              UBUNTU S - - -
+             APT-GET - - S -
+PACKAGE=VERSION_FROM_REPO - - O -
+             VERSION - - O -
+                 ONE - - S -
+               ORDER - - X -
+              KERNEL - - - O
+            PROBLEMS - - - O
+              NVIDIA - - - X
+              DRIVER - - - X
+          NVIDIA.COM - - - X

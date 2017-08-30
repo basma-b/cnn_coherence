@@ -1,0 +1,29 @@
+                WORK X - - - - -
+           CONVERTER X - - - - -
+                 OGG X - - - - -
+               ALBUM - X - - - -
+              FORMAT - O - - - -
+               AIDAN - S - X - -
+                   ~ - S - - - -
+GSTREAMER0.10-PLUGINS-BAD - X - - - -
+GSTREAMER0.10-PLUGINS-BAD-MULTIVERSE - X - - - -
+ LIBXINE-EXTRACODECS - X - - - -
+             READING - X - - - -
+             PACKAGE - X - X X -
+                LIST - O - - - -
+                  .. - - O - - -
+          DEPENDENCY - - X - - -
+                TREE - - X - - -
+                   $ - - - X - -
+GSTREAMER0.10-PITFDLL - - - O - -
+                 ONE - - - - S -
+                REST - - - - O -
+                 TRU - - - - O -
+                 DAT - - - - X -
+         APPLICATION - - - - X -
+             COMMAND - - - - X -
+                LINE - - - - O -
+                BOTH - - - - O -
+            INSTANCE - - - - O -
+                 APT - - - - X -
+                PING - - - - - X

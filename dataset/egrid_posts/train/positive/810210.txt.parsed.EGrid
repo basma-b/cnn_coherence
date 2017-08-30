@@ -1,0 +1,18 @@
+              WEBCAM O - - -
+                   * O - - -
+                C510 X - - -
+               SKYPE X X - -
+              CHEESE X - - -
+             CALL.ON X - - -
+            GUVCVIEW O - - -
+                  .. O - - -
+                .ANY X - - -
+                HELP X - - -
+               ERROR - X - -
+               LD.SO - X - -
+              OBJECT - X - -
+/USR/LIB/LIBV4L/V4L1COMPAT.SO - X - -
+          LD_PRELOAD - S - -
+                 RUN - - - X
+       V4L1COMPAT.SO - - - O
+             PACKAGE - - - O

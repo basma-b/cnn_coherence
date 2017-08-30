@@ -1,0 +1,16 @@
+   /VAR/LOG/MESSAGES O - - - - -
+             AUTONEG - X - - - -
+        SPEED/DUPLEX - S - - - -
+              100BPS - O - - - -
+              DUPLEX - O - - - -
+              SWITCH - X - - - -
+                 HUB - X - - - -
+              ROUTER - - X - - -
+                624+ - - O - - -
+                WIRE - - X - - -
+          CONNECTION - - X - - -
+                THIS - - - X - -
+            QUESTION - - - X - -
+                   / - - - - X -
+              10MBPS - - - - - X
+             100MBPS - - - - - X

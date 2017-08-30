@@ -1,0 +1,14 @@
+                 ISO O - - - -
+            GROISOFS X - - - -
+ /DEV/DVD=IMAGE1.ISO X - - - -
+               ERRNO X - - - -
+                FILE X - - - -
+           DIRECTORY X - - - -
+            /DEV/DVD X - X S -
+              THERES X - - - -
+           /DEV/DVD1 S - X - -
+          /DEV/DVDRW X - - - -
+ /DEV/DVD1=IMAGE.ISO - O - - -
+                LINK - - - X -
+               BLOCK - - - X -
+              DEVICE - - - X -

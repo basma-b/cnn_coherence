@@ -1,0 +1,15 @@
+                 THE O - - -
+               SHRED S - - -
+               -ZN10 X - - -
+            /DEV/SDA S - - -
+                DISK X - X -
+           /DEV/SDA1 O - - -
+           PARTITION O - - -
+       SECURE-DELETE S - - -
+               SFILL X - - -
+             COMMAND O - O -
+            DATABASE - - X -
+              DBNAME - - S -
+                INIT - - X -
+               STATS - - S -
+                   U - - - X

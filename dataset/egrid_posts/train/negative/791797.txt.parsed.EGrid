@@ -1,0 +1,21 @@
+                DHCP X S - - - X - - - -
+                ETH0 X - - - - - - - - -
+              UBUNTU X - - - - - - - - -
+                 USE - X - - - - - - - -
+             NETWORK - X - - X - - - - -
+             MANAGER - O - - - - - - - -
+              STATIC - X - - - - - - - -
+            CONFLICT - X - - - - - - - -
+/ETC/NETWORK/INTERFACES - - - S - - - - - -
+             PROBLEM - - - - S - - - - -
+           INTERFACE - - - - X - - - - -
+                FILE - - - - S - - - - -
+               ENTRY - - - - O - - - - -
+          BACKGROUND - - - - - X - - - -
+             PACKAGE - - - - - - O - - -
+                EBOX - - - - - - - O - -
+              OUTPUT - - - - - - - - - S
+     DSELECT-UPGRADE - - - - - - - - - X
+                PIPE - - - - - - - - - X
+               ERROR - - - - - - - - - X
+                 Y/N - - - - - - - - - S

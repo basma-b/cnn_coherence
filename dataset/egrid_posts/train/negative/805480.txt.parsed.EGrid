@@ -1,0 +1,7 @@
+           XORG.CONF O -
+                 X11 X -
+               SETUP O -
+/ETC/X11/XORG.CONF.D/ X -
+                FILE O -
+               COLOR X -
+               DEPTH O -

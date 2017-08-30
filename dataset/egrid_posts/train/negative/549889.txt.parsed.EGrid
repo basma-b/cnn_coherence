@@ -1,0 +1,24 @@
+           PARTITION O O - - - - - - X - - S - - -
+        INSTALLATION S - S - - - - - - - - - - - -
+               /SWAP X - - - - - - - - - - - - - -
+               /HOME X - - - - - - - - - - - - - -
+               /ROOT X - - - - - - - - - - - - - -
+           CONFIGURE X - - - - - - - - - - - - - -
+          EVERYTHING O - - - - - - - - - - - - - -
+           INSTALLER - O - - - - - - - - - - - - -
+              FORMAT - X - - - - - - - - - - - - -
+                HTTP - O - - - - - - - - - - - - -
+//WWW.ULUGA.UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - X - - - - - - - - - - - - -
+           T=1076194 - - S - - - - - - - - - - - -
+            EXAMPLES - - X - - - - - - - - - - - -
+               SETUP - - - X - - - - - - - - - - -
+                PAGE - - - - X - - - - - - - - - -
+           INDICATOR - - - - - - - - X - - - - - -
+                NAME - - - - - - - - X - - - - - -
+                SIZE - - - - - - - - X - - - - - -
+             GPARTED - - - - - - - - - X - - - - -
+                SWAP - - - - - - - - - - S X - - -
+                 USE - - - - - - - - - - - O - - -
+               CLICK - - - - - - - - - - - X - - -
+             SWAPOFF - - - - - - - - - - - X - - -
+              RESULT - - - - - - - - - - - - - - X

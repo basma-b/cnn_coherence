@@ -1,0 +1,16 @@
+               FORCE O - - - -
+       UNMOUNT/EJECT X - - - -
+               CDROM X - S - -
+            TERMINAL - - X - -
+              BRW-RW - - O - -
+            /DEV/HDA - - X - -
+                SHOW - - X - -
+         DIRECTORIES - - X - -
+              THINGS - - X - -
+                LSOF - - - O -
+              RESULT - - - O O
+    WWW.PASTEBIN.COM - - - X -
+                LINK - - - X -
+                GREP - - - - X
+                THIS - - - - X
+       /MEDIA/CDROM0 - - - - X

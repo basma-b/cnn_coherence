@@ -1,0 +1,17 @@
+           PARTITION O - - - - S - - - -
+                 SDB S - - - - - - - - -
+                SDB1 X - - - - - - - - -
+                WAIT S - - - - - - - - -
+              MEMORY X - - - - - - - - -
+               STICK O - - - - X - - - -
+                 SDA - - - - - S - - - -
+                 HDD - - - - - O - - - -
+               DRIVE - - - - - O - - - -
+                 WAY - - - - - X - - - -
+             WINDOWS - - - - - X - - - -
+             MANAGER - - - - - S - - - -
+           INSTALLER - - - - - X - - - -
+                SDB2 - - - - - O - - - -
+             APT-GET - - - - - - - - - S
+        MYSQL-SERVER - - - - - - - - - S
+                  PW - - - - - - - - - X

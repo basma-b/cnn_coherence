@@ -1,0 +1,10 @@
+              KERNEL X - -
+              SOURCE X - -
+              CLIENT O - -
+             HEADERS - O -
+                SUDO - X -
+            APTITUDE - S -
+                  -R - O -
+             PACKAGE - - S
+                MAIN - - X
+            UNIVERSE - - X

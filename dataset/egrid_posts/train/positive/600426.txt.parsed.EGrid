@@ -1,0 +1,15 @@
+                LOAD X - - - - - -
+           ASSOCIATE X - - - - - -
+                CARD X - - - - - -
+             NETWORK - O - - - X -
+                LIST - - X X - - -
+            ETHERNET - - - X - - -
+           INTERFACE - - - X - - -
+                THAT - - - - X - -
+             LINKSYS - - - - - X -
+            WUSB11V4 - - - - - X -
+                 USB - - - - - X -
+             ADAPTER - - - - - O -
+                NDIS - - - - - - X
+                SHOW - - - - - - O
+            ANYTHING - - - - - - X

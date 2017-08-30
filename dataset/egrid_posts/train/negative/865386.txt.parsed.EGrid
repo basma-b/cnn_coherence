@@ -1,0 +1,23 @@
+              RECODE X - - - -
+          LINEBREAKS X - - - -
+           DOS2UNIX= - X - - -
+               IBMPC - X - - -
+                LAT1 - X - - -
+                THAT - - X - -
+IMAP-SSL/ETC/INIT.D/COURIER-IMAP - - X - -
+/USR/LIB/COURIER-IMAP/IMAPD-SSL.RC - - X - -
+           /BIN/SH^M - - X - -
+         INTERPRETER - - X - -
+                FILE - - S - -
+           DIRECTORY - - X - -
+                THIS - - S - -
+                HINT - - O - -
+             FOLDERS - - X - -
+               LLUTZ - - - S -
+            DOS2UNIX - - - O -
+               BREAK - - - X -
+                SUDO - - - X -
+             APT-GET - - - S -
+               THERE - - - - X
+                 LOG - - - - X
+      UPDATE-MANAGER - - - - X

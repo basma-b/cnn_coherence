@@ -1,0 +1,9 @@
+          EXECUTABLE X - - -
+         /ETC/INIT.D X - - -
+                LINK - X - -
+             /ETC/RC - X - -
+                  .D - - S -
+               ORDER - - X -
+              SCRIPT - - S -
+           RUNLEVELS - - S -
+                   K - - - X

@@ -1,0 +1,32 @@
+            PROBLEMS - O - - - - - - - -
+              UBUNTU - X - - - - - - - -
+             PRINTER - O - - - - - - X -
+INTERNAL-SERVER-ERROR - O - - - - - - - -
+                 CUP - X X - - - - - - -
+                 LOG - - X - - - - - - -
+                READ - - X - - - - - - -
+         ADD_PRINTER - - X - - - - - - -
+                 PPD - - X - - - O - - -
+                FILE - - O - - - - - - -
+/VAR/SPOOL/CUPS/00000002 - - X - - - - - - -
+/ETC/CUPS/PPD/HL1430.PPD - - X - - - - - - -
+          PERMISSION - - S - - - - - - -
+               IDEAS - - - - X - - - - -
+                SUDO - - - - - X X - - -
+            FOOMATIC - - - - - - X - - -
+  FOOMATIC-CONFIGURE - - - - - - S - - -
+                 ICH - - - - - - X - - -
+                 DAS - - - - - - X - - -
+                 ALS - - - - - - S - - -
+              LAEUFT - - - - - - X - - -
+                USER - - - - - - X - - -
+              CUPSYS - - - - - - S - - -
+                  -U - - - - - - X - - -
+                  .. - - - - - - X - - -
+                UID0 - - - - - - X - - -
+                 BTW - - - - - - S - - -
+                 GUI - - - - - - X - - -
+            FRONTEND - - - - - - X - - -
+                TOOL - - - - - - - - X -
+              SYSTEM - - - - - - - - - X
+                MENU - - - - - - - - - X

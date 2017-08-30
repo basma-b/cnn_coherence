@@ -1,0 +1,20 @@
+                HELP O - - - - -
+               BLUEZ X X - - - -
+                LIBS O - - X - S
+                FILE O - - - - -
+        REPOSITORIES X - - - - -
+             VERSION - X - - - -
+             PACKAGE - - O O - -
+         BLUEZ-UTILS - - X - - -
+               THATS - - X - - -
+               REPOS - - X - - -
+                 UHM - - X - - -
+             SERVERS - - X - - -
+         APPLICATION - - X - - -
+            NUTSHELL - - X - - -
+//PACKAGES.UBUNTU.COM/SEARCH - - X - - -
+      KEYWORDS=BLUEZ - - - X - -
+      SEARCHON=NAMES - - - X - -
+         SUITE=HARDY - - - X - -
+         SECTION=ALL - - - S - -
+                WORK - - - - - O

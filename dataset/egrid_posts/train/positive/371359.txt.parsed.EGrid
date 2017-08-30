@@ -1,0 +1,14 @@
+               INPUT X - -
+                  -P S - -
+                 TCP O - -
+     XXX.XXX.XXX.XXX X - -
+                  -J S - -
+                RULE S - -
+             TRAFFIC O - -
+             MACHINE X - -
+             X.X.X.X S - -
+              ANYONE X - -
+            HOSTNAME S - -
+               PLACE X - -
+             ADDRESS X - -
+            FUNCTION - S -

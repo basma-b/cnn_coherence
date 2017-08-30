@@ -1,0 +1,22 @@
+       FIREWIREDRIVE X - - -
+                BOOT X X - -
+                 MAC X X - -
+            ANYTHING - X - -
+                  FW - X - -
+                   A - - - X
+                  PS - - - X
+                GREP - - - X
+                DHCP - - - S
+                  .. - - - O
+/ETC/NETWORK/INTERFACES - - - S
+                ETH0 - - - X
+                INET - - - X
+                WELL - - - X
+               SETUP - - - O
+             PROCESS - - - S
+                CASE - - - X
+              HASSLE - - - X
+                  IP - - - X
+                CONF - - - O
+             EXAMPLE - - - X
+         RESOLV.CONF - - - O

@@ -1,0 +1,23 @@
+              SERVER O - - - - - - - -
+                PORT O - - S - - - - -
+              ROUTER X - - - - - - - -
+         FIRESTARTER X - - - - - - - -
+          CONNECTION X - - X - - - - -
+              REFUSE O - - S - - - - -
+                HELP - S - - - - - - -
+       LISTENADDRESS - - O - - - - - -
+             0.0.0.0 - - X - - - - - X
+         SSHD_CONFIG - - X - O - - - -
+                SUDO - - - X - - - - -
+             NETSTAT - - - X - - - - -
+                -LNP - - - X - - - - -
+              CHANGE - - - - X - - - -
+                 SSH - - - - O - - - -
+                   * - - - - S - - - -
+/ETC/SSH/SSHD_CONFIG - - - - - X - - -
+            QUESTION - - - - - - X - -
+                 IP6 - - - - - - S - -
+                 IP4 - - - - - - S - -
+                  IP - - - - - - X - -
+                THAT - - - - - - - - S
+             ADDRESS - - - - - - - - O

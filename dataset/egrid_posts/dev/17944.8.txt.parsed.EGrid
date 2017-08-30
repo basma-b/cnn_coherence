@@ -1,0 +1,26 @@
+      UPDATE-MANAGER X - - - -
+                 GUI X - - - -
+            SECURITY X - - - -
+              UPDATE O - - - -
+               UNITY X - - - -
+            PASSWORD X - - - -
+               INPUT - X - - -
+                ROOT - O - - -
+       ACTIONPARSNIP - - O - -
+             PRINTER - - X - O
+         PRINTERNAME - - X - -
+                 CUP - - X - -
+           QUEUENAME - - X - -
+HP_DESKJET_5400_SERIES - - X - -
+                MAKE - - X - -
+               MODEL - - X - -
+                  HP - - X - -
+             DESKJET - - X - -
+              SERIES - - S - -
+              REPEAT - - O - -
+               XCHAT - - X X -
+                 IPP - - - - O
+//192.168.0.105:631/PRINTERS/HP_DESKJET_5400_SERIES - - - - S
+                 URI - - - - X
+           LOCALHOST - - - - X
+       192.168.0.105 - - - - O

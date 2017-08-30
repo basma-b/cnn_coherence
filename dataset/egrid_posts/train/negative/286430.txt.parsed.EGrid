@@ -1,0 +1,26 @@
+              ANYONE X - X - - - - - - -
+              SYSTEM S - - - - - - - - -
+                FILE O - - - - - - - - -
+    /ETC/HOSTS.ALLOW X - - - - - - - - -
+     /ETC/HOSTS.DENY X - - - - - - - - -
+        /ETC/INITTAB X - - - - - - - - -
+             NETSTAT - - X - - - - - - -
+                 -NR - - S - - - - - - -
+                THIS - - - X - - - - - -
+               AVAHI - - - X - - - - - -
+               THATS - - - - - X - - - -
+             DEFAULT - - - - - X - - - -
+                LINK - - - - - X - - - -
+                  .. - - - - - S - - - -
+             WINDOWS - - - - - X - - - -
+             SERVICE - - - - - - X - - -
+         INFORMATION - - - - - - O - - -
+                 SET - - - - - - - X - -
+AVAHI_DAEMON_START=0 - - - - - - - S - -
+            SOLUTION - - - - - - - O - -
+              WINEHQ - - - - - - - - - O
+                WINE - - - - - - - - - X
+            QUESTION - - - - - - - - - X
+               CHECK - - - - - - - - - X
+         APPLICATION - - - - - - - - - X
+            DATABASE - - - - - - - - - X

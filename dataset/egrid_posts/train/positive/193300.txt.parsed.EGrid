@@ -1,0 +1,25 @@
+               SETUP X - - X - - - - - -
+              IPMASQ O - - X - - - - - -
+                 BOX X - - X - - - - - -
+               CABLE X - - X - - - - - -
+               MODEM O - - O - - - - - -
+             WINDOWS X - - X - - - - - -
+                ETH1 X - - X - - - - - -
+                DHCP - S - - S - - - - -
+                WORK - O - - O - - - - -
+           COMPUTERS - S - - S - - - - -
+               OTHER - O - - O - - - - -
+              WINBOX - S - - S - - - - -
+               WORLD - O - - O - - - - -
+             ANYBODY - - S - - S - - - -
+               VALUE - - - S - - - - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - - - - - S - - -
+                USER - - - - - - O - - -
+            SOFTWARE - - - - - - X - - -
+                HERE - - - - - - X - - -
+                MEAN - - - - - - - O - -
+             COMMAND - - - - - - - X - X
+               CHMOD - - - - - - - - X -
+              CONFIG - - - - - - - - - X
+              KERNEL - - - - - - - - - X
+                 CAT - - - - - - - - - X

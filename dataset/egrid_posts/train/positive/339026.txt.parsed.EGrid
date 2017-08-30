@@ -1,0 +1,11 @@
+           PARTITION X - X - X - - - - - -
+                EXT2 X - X - X - X - - S -
+                DATA O - O - O - - - - - -
+             JOURNAL - - - - - - - O O - -
+                 USE - - - - - - - O - - -
+           E2FSPROGS - - - - - - - S - - -
+             NOTHING - - - - - - - O - - -
+                EXT3 - - - - - - - - - X -
+              OMPAUL - - - - - - - - - S -
+           INTEGRITY - - - - - - - - - X -
+               THANK - - - - - - - - - - X

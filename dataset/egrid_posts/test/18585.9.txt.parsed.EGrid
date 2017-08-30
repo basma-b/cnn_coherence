@@ -1,0 +1,27 @@
+                  HI S - - - - -
+                EXT4 O - S - - -
+           PARTITION O X O - - -
+                  CD X - X - - -
+           MKFS.EXT4 X - - - - -
+                FILE O - X - - -
+              REBOOT - O - - - -
+                BOOT - - X - - -
+              SYSTEM - - O - - -
+           ARGUMENTS - - X - - -
+              OUTPUT - - O - O -
+             COMMAND - - X - - -
+               -LSB- - - X - - -
+             EXT4-FS - - S - - -
+                 VFS - - X - - -
+          FILESYSTEM - - X - - -
+                SUDO - - S - X -
+          /BLAH/BLAH - - X - - -
+                  -T - - X - - -
+            PASTEBIN - - - S X -
+                PART - - - X O -
+                  -L - - - O S -
+                 SEC - - - - O -
+                 YEA - - - - S -
+               WHATS - - - - S -
+                HTTP - - - - X -
+//PASTEBIN.COM/HRJNGHNE - - - - X -

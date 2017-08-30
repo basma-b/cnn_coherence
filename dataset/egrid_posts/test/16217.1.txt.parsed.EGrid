@@ -1,0 +1,10 @@
+             RAMDISK X - - -
+               TMPFS X - - -
+            /VAR/RUN - - - O
+               64BIT - - - X
+                /TMP - - - X
+            /VAR/LOG - - - O
+              MEMORY - - - X
+                 USE - - - X
+                APPS - - - X
+              LITTLE - - - X

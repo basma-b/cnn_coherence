@@ -1,0 +1,17 @@
+                  HI X - - - - - - - - - - - - - -
+               10.04 - O - - - - - - - - - - - - -
+                DISK - X - X - - - - - - - - - - -
+              RAID-1 - X - - S - - - - - - - - - -
+               MDADM - X - - - - - - - - - O - - -
+              RAID-5 - - - O - - - - - - - - - - -
+/ETC/MDADM/MDADM.CONF - - - - X - - - - - - - - - -
+               STATE - - - - O - - - - - - - - - -
+                BOTH - - - - - S - - - - S - - - -
+                RAID - - - - - O - - - - - - - - -
+              REBOOT - - - - - X - - - - - - - - -
+            POINTERS - - - - - - S - - - - - - - -
+              THANKS - - - - - - - X - - - - - - -
+                THAT - - - - - - - - - - - X - - -
+              DMRAID - - - - - - - - - - - - O - -
+               RAID0 - - - - - - - - - - - - O - -
+/ETC/X11/DEFAULT-DISPLAY-MANAGER - - - - - - - - - - - - - - O

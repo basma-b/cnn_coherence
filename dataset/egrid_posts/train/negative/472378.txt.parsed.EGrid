@@ -1,0 +1,19 @@
+            SECURITY X - - - -
+               WHOOP S - - - -
+             COMMENT X - - - -
+                 END S - - - -
+             DYNAMIC - S - - -
+                 /16 - X - - -
+                WORK - - S - -
+               RANGE - - O - -
+/USR/SHARE/DOC/IPTABLES/HTML - - - O -
+               STUFF - - - X -
+                 SSH - - - O -
+         CERTIFICATE - - - X -
+              TUNNEL - - - X -
+               SRUFF - - - O -
+          CONNECTION - - - X -
+                SUDO - - - - S
+               INPUT - - - - O
+              SOURCE - - - - X
+                  -J - - - - S

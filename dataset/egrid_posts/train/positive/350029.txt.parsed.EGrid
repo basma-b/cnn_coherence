@@ -1,0 +1,6 @@
+  APACHE2-MPM-WORKER X -
+                PHP5 S -
+                 APT S -
+              WORKER O -
+             PREFORK X -
+          MPM-WORKER X -

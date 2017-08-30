@@ -1,0 +1,5 @@
+           XORG.CONF O -
+            TERMINAL X -
+                NANO X -
+  /ETC/X11/XORG.CONF X -
+              PLUGIN - X

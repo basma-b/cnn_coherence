@@ -1,0 +1,14 @@
+               PURGE X - - - -
+           REINSTALL X - - - -
+             DEFAULT X - - - -
+              CONFIG X - - - -
+                FILE X - - - -
+                TOOL - X X - -
+           PARTITION - X - - -
+                PART - X X - -
+                LOOK - O - - -
+             ADVANCE - X - - -
+                 USE - - S - -
+                SAME - - O - -
+              CFDISK - - X - -
+                 YEP - - - - X

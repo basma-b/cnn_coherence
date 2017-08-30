@@ -1,0 +1,10 @@
+            POINTERS S - - - -
+               AUDIO X - - - -
+             SUSPEND X - - - -
+                WORK X - - - -
+              RESUME - X - - X
+              DRIVER - - S - -
+                CODE - - O - -
+               CYCLE - - X - -
+               RMMOD - - X - -
+           HIBERNATE - - - - X

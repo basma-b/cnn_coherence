@@ -1,0 +1,9 @@
+              SWITCH X - - - -
+      KERNEL-HEADERS X - - - -
+       LINUX-HEADERS X - - - -
+                DONT - S - - -
+                  EH - - X - -
+            UNIVERSE - - - - X
+          MULTIVERSE - - - - X
+               SETUP - - - - O
+/ETC/APT/SOURCES.LIST - - - - X

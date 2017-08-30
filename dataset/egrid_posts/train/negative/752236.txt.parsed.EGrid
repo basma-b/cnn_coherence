@@ -1,0 +1,25 @@
+                 RAM O - X - - - -
+             MACHINE X - - - - - -
+                SHOW X - - - - - -
+                 6GB O - - - - - -
+              REBOOT - S - - - - -
+                 ALL - O - - - - -
+              KERNEL - - O - - - -
+2.6.32-24-GENERIC-PAE - - X - - - -
+                 GIB - - X - - - -
+                BITS - - O - - - -
+                 8GB - - - O - - -
+                  .. - - - X - - -
+                 PAE - - - S - - -
+               AFAIK - - - - X - -
+               THERE - - - - S - -
+           SOMETHING - - - - O - -
+               DMESG - - - - X - -
+               DEMSG - - - - - S -
+                  » - - - - - O -
+                 USE - - - - - - X
+                 GPU - - - - - - X
+                LOAD - - - - - - O
+            PLAYBACK - - - - - - X
+           ATICONFIG - - - - - - X
+             PERCENT - - - - - - X

@@ -1,0 +1,17 @@
+          NAMESERVER X - - -
+            SETTINGS O - O -
+                DHCP X S - -
+                WORK O - - -
+                  .. X - - -
+             NETWORK X - - -
+              SYSTEM X - - -
+    /ETC/RESOLV.CONF - X - -
+                 DNS - O - -
+                PPPD - X - -
+             PROBLEM - - O -
+             MISTAKE - - O -
+               DHCPD - - X -
+                FACT - - - X
+                THIS - - - X
+             DEFAULT - - - X
+           BEHAVIOUR - - - X

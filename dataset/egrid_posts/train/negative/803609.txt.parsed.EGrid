@@ -1,0 +1,17 @@
+                 GUY O - - - -
+                INIT O - - - -
+            INSTANCE O - - - -
+             MACHINE X - - - -
+           TTY0-TTY3 - S - - -
+             CONSOLE - O - - -
+                TTY5 - S - - -
+                 WAY - - X - -
+             UPSTART - - X - -
+     UPSTART-SCRIPTS - - - X -
+           /ETC/INIT - - - X -
+              LAYOUT - - - O -
+                TIME - - - - X
+                 USE - - - - X
+             WINDOWS - - - - X
+                   % - - - - X
+                BOOT - - - - O

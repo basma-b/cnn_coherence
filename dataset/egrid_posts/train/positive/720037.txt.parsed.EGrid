@@ -1,0 +1,11 @@
+       GNOME-DEKSTOP O - -
+     LUBUNTU-DEKSTOP X - -
+               LUCID X - -
+      UBUNTU-DESKTOP - O -
+             ANYTIME - X -
+         METAPACKAGE - S -
+                SUDO - - X
+             APT-GET - - S
+      UBUNTU-DEKSTOP - - O
+                   > - - O
+             PACKAGE - - X

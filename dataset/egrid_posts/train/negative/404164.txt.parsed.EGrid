@@ -1,0 +1,18 @@
+             MONITOR S O - - - - - - - - - - -
+              UBUNTU X - - - - - - - - - - - -
+             CONSOLE - X - - - - - - - - - - -
+                XORG - X - - - - - - - - - - -
+                  PC - S - - - - - - - - - - -
+               LINUX - S - - - - - - - - - - -
+            TERMINAL - X - - - - - - - - - - -
+                 ONE - - S - - - - - - - - - -
+/ETC/CONSOLE-TOOLS/CONFIG - - O - - - - - - - - - -
+       CONSOLE-TOOLS - - O - - - - - - - - - -
+/ETC/INIT.D/CONSOLE-SCREEN.SH - - - O - - - - - - - - -
+      POWERDOWN_TIME - - - - - S - S - S - - -
+          BLANK_DPMS - - - - - - - S - - - - -
+             COMMENT - - - - - - - - O - - - -
+                FILE - - - - - - - - X - - - -
+          BLANK_TIME - - - - - - - - - - S - -
+               POWER - - - - - - - - - - X - -
+         WEBSEARCHES - - - - - - - - - - - - O

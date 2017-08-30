@@ -1,0 +1,16 @@
+               CHMOD X - - - - - -
+                /MNT X - - - - - -
+                  -R O - - - - - -
+                GOOD - X - - - - -
+              SYSTEM - - S - - - -
+              FOLDER - - O - - - -
+                  .. - - X - - - -
+              EFFECT - - O - - - -
+                VBOX - - - O - - -
+                DIST - - - - O - -
+                TEST - - - - X - -
+                 AHH - - - - X - -
+                GRUB - - - - - - X
+           DIRECTORY - - - - - - S
+                  IM - - - - - - X
+                  CD - - - - - - X

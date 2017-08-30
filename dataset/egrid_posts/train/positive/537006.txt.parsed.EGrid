@@ -1,0 +1,17 @@
+            MODPROBE X - - -
+          CAPABILITY S - X -
+                   > S - - -
+              ANYONE S - - -
+                 GUY X - - -
+        /ETC/MODULES - S - -
+              GKSUDO - X - -
+               GEDIT - X - -
+               PEDDY - - S -
+      OPENSSH-SERVER - - O -
+                  'S - - X -
+              BOTTOM - - X -
+                FILE - - X X
+                 END - - X -
+                LINE - - X -
+                EXIT - - - O
+               THERE - - - S

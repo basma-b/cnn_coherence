@@ -1,0 +1,16 @@
+            GRAPHICS X - -
+                CARD S - -
+                WORK X - -
+                  HD - X -
+               INTEL - O -
+              NVIDIA - X -
+                TYPE - O -
+                   < - S -
+                   > - O -
+            TERMINAL - X -
+              REPORT - X -
+          RESOLUTION - S -
+                SHOW - O -
+                BOOT - - X
+              OPTION - - O
+ NOUVEAU.BLACKLIST=1 - - X

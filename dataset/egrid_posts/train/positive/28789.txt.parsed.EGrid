@@ -1,0 +1,19 @@
+             ANYBODY S - - - - -
+                   * X - - - - -
+          BUILD-DEPS X - - - - -
+             SATISFY O - - - - -
+  BUILD-DEPENDENCIES - S - - - -
+LINUX-SOURCE-2.6.8.1 - X - - - -
+           BUILD-DEP - - O - - -
+               SOUND - - X - - -
+             NETWORK - - X - - -
+        REPOSITORIES - - S - - -
+                 ALL - - O - - -
+             PACKAGE - - X - - S
+                  CD - - X - - -
+               REPOS - - O - - -
+               WARTY - - - - - X
+                 MIX - - - - - X
+              BRANCH - - - - - X
+            PROBLEMS - - - - - O
+               HOARY - - - - - X

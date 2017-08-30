@@ -1,0 +1,9 @@
+                EXT3 X - - -
+                EXT4 O - - -
+           PARTITION X - - -
+               GPART - S - -
+             COMMAND - O - -
+                LIST - - - O
+                THIS - - - X
+/HOME/USER/DESKTOP/FILE1.TXT - - - X
+/HOME/USER/DESKTOP/FILE2.TXT - - - X

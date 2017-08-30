@@ -1,0 +1,13 @@
+              STRING X - - - -
+           DIRECTORY X - - - -
+                FILE X - - - -
+                FIND - O - - -
+                  .. - - X - -
+                 SED - - - X S
+                 MAN - - - X -
+           SOMETHING - - - - S
+  /OLDTEXT/NEWTEXT/G - - - - O
+                   \ - - - - S
+                THIS - - - - S
+             BACKUPS - - - - O
+              -I.BAK - - - - X

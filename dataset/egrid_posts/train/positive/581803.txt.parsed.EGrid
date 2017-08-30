@@ -1,0 +1,14 @@
+                9.04 - O - - - - - - -
+                NTFS - X - - - - - - -
+           PARTITION - S - - - - - - -
+             STARTUP - X - - - - - - -
+                THIS - - S - - - - - -
+             OPTIONS - - O - - - - - -
+             DEFAULT - - X - - - - - -
+                  RW - - X - - - - - -
+                USER - - X - - - - - -
+                AUTO - - X - - - - - -
+  LOCALE=RU_RU.UTF-8 - - X - - - - - -
+               /DEV/ - - - - O - - - -
+           /LOCATION - - - - - - - X -
+                FLAG - - - - - - - S -

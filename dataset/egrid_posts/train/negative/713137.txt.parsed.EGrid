@@ -1,0 +1,14 @@
+             PROBLEM S - - -
+             STARTUP O - - -
+             PRIVOXY - S - -
+/ETC/RC2.D/S20PRIVOXY - X - -
+ /ETC/INIT.D/PRIVOXY - S - -
+                 BUM - X - -
+               CHECK - X - -
+                  .. - O - -
+              CONFIG - - X -
+                FILE - - X -
+              DAEMON - - X -
+                 LOG - - O -
+               THOSE - - - O
+            TERMINAL - - - X

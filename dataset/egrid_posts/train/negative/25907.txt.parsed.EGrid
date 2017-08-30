@@ -1,0 +1,23 @@
+             HOTPLUG X - - - - - - -
+               HOARY X - - - - - - -
+             PREVIEW X - - - - - - -
+                  CD X - - - - - - -
+                THAT - X - - - - - -
+              ARNALD - - X - - - - -
+         SATA-DRIVER - - S - - - - -
+           RESOURCES - - X - - - - -
+                 USE - - O - - - - -
+              CD-ROM - - X - - - - -
+                LOAD - - O - - - - -
+            ATA-PIIX - - O - - - - -
+                SATA - - X - X - - -
+              DRIVER - - X - O - - -
+                OOPS - - O - - - - -
+              LIVECD - - - X - - - -
+        INSTALLATION - - - X - X - -
+               SHELL - - - - - - S -
+              ALT-F2 - - - - - - X -
+/ETC/HOTPLUG/BLACKLIST - - - - - - X -
+              REBOOT - - - - - - X -
+            UNIVERSE - - - - - - - X
+               REPOS - - - - - - - O

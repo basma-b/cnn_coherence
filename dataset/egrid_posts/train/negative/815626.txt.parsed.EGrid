@@ -1,0 +1,16 @@
+      /ETC/LILO.CONF X - - X - - - - - - -
+              UBUNTU - S - - - - - - - - -
+               GRUB2 - O - X X - - - - - -
+             DEFAULT - - X - - - - O S - -
+                 OWN - - - X - X - - - - -
+            SETTINGS - - - S - - - - - - -
+   /ETC/DEFAULT/GRUB - - - X - - - - - - -
+         UPDATE-GRUB - - - O - - - - - - -
+            GRUB.CFG - - - S - - - - - - -
+                LILO - - - - - - X S - - -
+               POINT - - - - - - X - - - -
+             SUPPORT - - - - - - O - - - -
+                TIME - - - - - - - X - - -
+              DEBIAN - - - - - - - X X - -
+                   * - - - - - - - X - - -
+                 ATA - - - - - - - - - - X

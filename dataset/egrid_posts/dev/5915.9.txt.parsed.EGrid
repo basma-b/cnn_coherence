@@ -1,0 +1,25 @@
+            SOMEBODY X - - - - -
+             PROBLEM X - - - - -
+               FSTAB X X X - - -
+               12.04 - X - - - -
+               SSHFS - X X - - -
+               ENTRY - S - - - -
+                WORK - O - - - -
+                BOOT - X - - - -
+                 NFS - - S - - -
+               HTTPS - - X - - -
+//HELP.UBUNTU.COM/COMMUNITY/FSTAB - - S - - -
+    FILE_SYSTEM_TYPE - - X - - -
+             NETWORK - - X - - -
+                FILE - - X - - -
+              SYSTEM - - O - - -
+              COMPIZ - - - X O -
+            SETTINGS - - - S O -
+                SUDO - - - - X -
+             APT-GET - - - - S -
+               PURGE - - - - X -
+                CCSM - - - - O X
+               STOCK - - - - X -
+           SOMETHING - - - - - O
+             WINDOWS - - - - - S
+               MENUS - - - - - S

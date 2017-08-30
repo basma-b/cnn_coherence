@@ -1,0 +1,15 @@
+              PEOPLE X - - - - - - - - - -
+                 HDD X - - - - - - - - - -
+           PARTITION X - S X - - - - - - -
+                EXT3 X - - X - - - - - - -
+                TIME - - X - - - - - - - -
+          /ETC/FSTAB - - O - - - - - - - -
+                BOOT - - X - - - - - - - -
+                NAME - - X - - - - - - - -
+              FORMAT - - X O - - - - - - -
+               REPLY - - - X - - - - - - -
+                HDC4 - - - X - - - - - - -
+                30GB - - - - - S - - - - -
+              UBUNTU - - - - - X S - X - -
+                SWAP - - - - - X - - - - -
+                COPY - - - - - - - - O - -

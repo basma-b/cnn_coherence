@@ -1,0 +1,12 @@
+               500MB S - - - -
+                SWAP X O O X -
+                FILE X - - - -
+                  DF X - - - -
+               FSTAB S - S - -
+           PARTITION X - - - -
+           /DEV/SDA5 X - - - -
+               FDISK - X - S -
+                  -L - S - - -
+          EVERYTHING - S - - -
+              DOESNT - - - S -
+                 USE - - - O -

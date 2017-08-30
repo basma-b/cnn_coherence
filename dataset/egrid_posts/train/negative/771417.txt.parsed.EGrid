@@ -1,0 +1,13 @@
+          BOOTLOADER X - - -
+                 SDA - - X -
+            PARTIONS - - O -
+               LINUX - - X -
+                SWAP - - X -
+                FILE - - X -
+                AREA - - O -
+                GRUB - - O -
+                 MBR - - X -
+               POINT - - - O
+                 WAY - - - O
+            SOFTWARE - - - S
+             WINDOWS - - - X

@@ -1,0 +1,15 @@
+                FILE X - -
+/VAR/WWW/IMAGES/INVALID.PNG X - -
+/VAR/IMAGES/INVALID.PNG X - -
+                SUDO - X -
+       /ONE/LOCATION - X -
+     /OTHER/LOCATION - X -
+               CHMOD - S -
+             OPTIONS - X X
+                   > - X X
+       /VAR/WHATEVER - O -
+              FOLDER - - X
+               OWNER - - X
+               GROUP - - X
+         PERMISSIONS - - S
+             CONTENT - - O

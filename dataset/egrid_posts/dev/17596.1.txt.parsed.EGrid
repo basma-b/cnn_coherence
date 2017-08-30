@@ -1,0 +1,18 @@
+                NAME X - -
+                 DEB X - -
+                FILE O - -
+/VAR/CACHE/APT/ARCHIVES X - -
+                SUDO X - X
+                DPKG X - X
+                  -I O - O
+       FORCE-DEPENDS S - X
+                LOCK X - -
+                 DIR O - -
+           SOMETHING - X -
+             APT-GET - X S
+           PHP5-CURL - - O
+               THERE - - X
+          DEPENDENCY - - X
+             VERSION - - X
+         PHP5-COMMON - - X
+             DEBFILE - - X

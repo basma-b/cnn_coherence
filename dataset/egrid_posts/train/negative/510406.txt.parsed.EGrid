@@ -1,0 +1,23 @@
+               THING X - - - - - -
+               ORDER S - - - - - -
+              REASON X - - - - - -
+                THIS X - - - - - -
+            KERN.LOG X - - - - - -
+                DATE - X - - - - -
+                 NOV - X - - - - -
+  DATAFLOW_CRESCENDO - X - - - - -
+              KERNEL - X X - - - -
+/BUILD/BUILDD/LINUX-2.6.24/DRIVERS/RTC/HCTOSYS.C - S - - - - -
+                 RTC - X O - - - -
+              DEVICE - O - - - - -
+                RTC0 - X - - - - -
+                  PC - X - - - - -
+                SHOW - O - - - - -
+               CLOCK - X O - - - -
+                BIOS - X X - - - -
+             MACHINE - - S - - - -
+             BATTERY - - S - - - -
+              DRIVER - - S - - - -
+                LOAD - - O - - - -
+               THATS - - - S - - -
+             PROBLEM - - - - X - -

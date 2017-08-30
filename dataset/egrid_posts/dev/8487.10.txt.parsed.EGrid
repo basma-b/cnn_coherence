@@ -1,0 +1,21 @@
+                BIOS X - - - - - - - -
+                BOOT X - - X - - - - -
+                 USB X - - - - - - - -
+            INTERNET - - X - - - - - -
+          CONNECTION - - X - - - - - -
+            ETHERNET - - X - - - - - -
+                GRUB - - - X - - - - -
+              LEGACY - - - S - - - - -
+              UBUNTU - - - X - - - - -
+             NETBOOT - - - X - - - - -
+           INSTALLER - - - O - - - - -
+                FROM - - - - X - - - -
+                 RAM - - - - X - - - -
+               DRIVE - - - - X - - - -
+               LEAVE - - - - - O - - -
+              SYSTEM - - - - - X - - -
+                   M - - - - - - - - S
+               UDEBS - - - - - - - - O
+              MIRROR - - - - - - - - X
+               VALUE - - - - - - - - X
+MIRROR/HTTP/HOSTNAME - - - - - - - - X

@@ -1,0 +1,15 @@
+                UUID X O O -
+              DEVICE X - - -
+               BLOCK X - - -
+                  RW - X - -
+               DRIVE - S - -
+             BUDDIES - X - -
+              LAPTOP - X - -
+                THIS - S - -
+          /ETC/FSTAB - X - -
+                SUDO - - X -
+            DUMPE2FS - - O -
+               |GREP - - X -
+                 UUI - - X -
+                   D - - X -
+               THANK - - - X

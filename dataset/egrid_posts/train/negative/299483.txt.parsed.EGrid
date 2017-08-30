@@ -1,0 +1,10 @@
+               FSTAB S - - -
+               SETUP O - - -
+                 WIN X - - -
+           PARTITION X - - -
+             DESKTOP X - - -
+        /MNT/WINDOWS X - - -
+             NOTHING - O - -
+                USER - - - O
+                DISK - - - X
+               GROUP - - - X

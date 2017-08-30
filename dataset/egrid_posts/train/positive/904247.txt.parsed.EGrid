@@ -1,0 +1,7 @@
+               CLOSE S - -
+             DEFAULT X - -
+                 NAT X - S
+              ROUTER X - -
+               WORLD S - -
+                 BOX S - -
+                 ALL - O -

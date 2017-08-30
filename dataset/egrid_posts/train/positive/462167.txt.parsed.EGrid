@@ -1,0 +1,17 @@
+               THERE X - - - -
+             COMMAND X - - - X
+             PROGRAM O - - - -
+              SYSTEM X - - - -
+                BOOT X - - - -
+              MEMORY - S - - -
+              GENTOO - X - - -
+              UBUNTU - - X - -
+       /ETC/RC.LOCAL - - - S -
+                THAT - - - - S
+               SHELL - - - - X
+              SCRIPT - - - - O
+    /ETC/INIT.D/SSHD - - - - S
+                 ALL - - - - X
+                 USE - - - - X
+         UPDATE-RC.D - - - - O
+                SSHD - - - - O

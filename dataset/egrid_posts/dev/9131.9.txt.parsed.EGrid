@@ -1,0 +1,12 @@
+              OUTPUT X - - -
+                NOTE X - - -
+              ROOTFS S - - -
+             /ROOTFS X X - -
+             PROBLEM - O - -
+                 USE - X - -
+              THOMAS - - - S
+             HOSTAPD - - - O
+               ROUTE - - - X
+                WLAN - - - O
+           BROADCAST - - - X
+                 LAN - - - X

@@ -1,0 +1,24 @@
+                 BTW S - - - - - -
+             GATEWAY S - - - - - -
+             NETWORK O - - - - - -
+               GRAFT O - O - - - -
+               LSPCI O - S - - - -
+            ETHERNET S - X - - - -
+                SUDO X - - - - - -
+/ETC/INIT.D/IFUPDOWN O - - - - - -
+                WORK O - - - - - -
+                ETH0 S - S - - - -
+                 HAW X - - - - - -
+                ADDR O - - - - - -
+                  IP S - - - - - -
+               THERE S - - S - - -
+                SIT0 O - - - - - -
+             ADDRESS X - X - - - -
+              HWADDR O - - - - - -
+                  .. - - O O - - -
+                LINE - - S - - - -
+                 ALL - - - S - - -
+              RESULT - - - S - - -
+              ROUTER - - - - X - -
+                SIGH - - - - - - X
+             GPODDER - - - - - - X

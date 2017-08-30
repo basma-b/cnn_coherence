@@ -1,0 +1,16 @@
+                 HMM S - - -
+                LANG S - - -
+                 NON X - - -
+              LOCALE X - - -
+              SYSTEM S - - -
+                THIS - X - -
+     /ETC/LOCALE.GEN - - O -
+                ROOT - - X -
+             RELOGIN - - X -
+                 DOH - - S -
+           PARTITION - - X -
+    /ETC/ENVIRONMENT - - O -
+                THAT - - - S
+               LANG= - - - O
+           EN_US.UTF - - - X
+         EN_US.UTF-8 - - - X

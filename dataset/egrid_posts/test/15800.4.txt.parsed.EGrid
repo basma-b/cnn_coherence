@@ -1,0 +1,25 @@
+                  -N O - - - - - - - - - -
+              SERVER X - - - - - - - - - -
+             MORNING X - - - - - - - - - -
+/DEV/MAPPER/MACHINENAME-ROOT - S - - - - - - - - -
+             BUSYBOX - S - - - - - - - - -
+                RAID - - X - - - - - - - -
+               ARRAY - - X - - - - - - - -
+                BOOT - - X - - - - - O - -
+             NOTHING - - - S - - - - - - -
+              SYSTEM - - - S - - - - - - -
+               TODAY - - - X - - - - - - -
+             SOMEONE - - - - X - - - - - -
+             ENCRYPT - - - - - S - - - - -
+         DIRECTORIES - - - - - X - - - - -
+        /DEV/MAPPER/ - - - - - - S - - - -
+                LINK - - - - - - O - - - -
+                   K - - - - - - X - - - -
+                 LVM - - - - - - X X - - -
+                ROOT - - - - - - S - - - -
+           INITRAMFS - - - - - - - X - X -
+              MODULE - - - - - - - S - - -
+                THAT - - - - - - - - S - -
+              KERNEL - - - - - - - - X - -
+                NEED - - - - - - - - - S -
+            INTRAMFS - - - - - - - - - X -

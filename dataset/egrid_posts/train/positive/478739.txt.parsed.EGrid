@@ -1,0 +1,15 @@
+             COMMAND X - - - -
+                 DNS X X - - -
+                 IPS X - - - -
+            NSLOOKUP - O - - -
+             WINDOWS - X - - -
+                HOST - X - - X
+         EXAMPLE.COM - X - - -
+                 DIG - X - - -
+              DETAIL - O - - -
+             REQUEST - X - - -
+                  TY - - S - -
+                TYPE - - - - X
+    IS-THATT-YOU.COM - - - - X
+                SHOW - - - - O
+             ADDRESS - - - - X

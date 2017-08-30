@@ -1,0 +1,11 @@
+                 SRC X - - - -
+                 DEB X - - - -
+             OPTIONS X O - - -
+              BINARY X - - - -
+                 ONE X - - - -
+         ./CONFIGURE - X - - O
+        DEBIAN/RULES - X - - -
+                FILE - O - - -
+             PACKAGE - X - - -
+     CONFIGURE-STAMP - - - X -
+           SLACKWARE - - - - O

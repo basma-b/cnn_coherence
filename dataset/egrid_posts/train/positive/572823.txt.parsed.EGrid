@@ -1,0 +1,17 @@
+              UBUNTU S - - - - - -
+               SOUND O - - - - - -
+                CARD O - - - - - -
+             CHIPSET - - O - - - -
+             VOLUMES - - S - - - -
+          PULSEAUDIO - - - O O - -
+                 BUG - - - X S - -
+              REPORT - - - O S - -
+              NVIDIA - - - - S - -
+                AC97 - - - - O - -
+               ISSUE - - - - X - -
+               HTTPS - - - - O - -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/PULSEAUDIO/+BUG/370102 - - - - O - -
+             DEVICES - - - - O - -
+             ENSONIQ - - - - X - -
+             DEFAULT - - - - O - -
+         PREFERENCES - - - - - - X

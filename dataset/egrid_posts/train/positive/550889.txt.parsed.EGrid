@@ -1,0 +1,10 @@
+          /ETC/FSTAB X - - - - -
+       UUID=BLAHBLAH O - - - - -
+                  NO - X - - - -
+             CAUTION - - X - - -
+               HTTPS - - - O - -
+//WIKI.UBUNTU.COM/LIBATAFORATADISKS - - - X - -
+                UUID - - - X - -
+             NOTHING - - - - - O
+                 ANY - - - - - X
+               DRIVE - - - - - X

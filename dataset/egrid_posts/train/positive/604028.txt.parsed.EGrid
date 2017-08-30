@@ -1,0 +1,15 @@
+          FILESYSTEM O - - -
+                 ONE - O - -
+           PARTITION - O - -
+         FILESYSTEMS - O - -
+             LIVE-CD - O - -
+                BOOT - - X -
+             INSTALL - - X -
+             CHOICES - - X -
+            SOFTWARE - - X -
+                RAID - - O -
+              UBUNTU - - X -
+               INTEL - - X -
+              MATRIX - - X -
+              DRIVER - - S -
+                 ENV - - - X

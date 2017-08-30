@@ -1,0 +1,27 @@
+               LSBLK - O O - - - X -
+                 TRY - - X - - - - -
+ PACKAGES.UBUNTU.COM - - X - - - - -
+                HTTP - - X - - X - -
+//PACKAGES.UBUNTU.COM/SEARCH - - X - - - - -
+   SEARCHON=CONTENTS - - - X - - - -
+      KEYWORDS=LSBLK - - - X - - - -
+  MODE=EXACTFILENAME - - - X - - - -
+       SUITE=PRECISE - - - X - - - -
+            ARCH=ANY - - - X - - - -
+              SEARCH - - - O - - - -
+             PACKAGE - - - X - - - -
+                NAME - - - X - - - -
+                 URL - - - X - - - -
+              STRING - - - O - - - -
+           EXCEPTION - - - S - - - -
+             RELEASE - - - X - - - -
+               HTTPS - - - X - - - -
+//LAUNCHPAD.NET/UBUNTU/LUCID/I386/UTIL-LINUX/2.17.2-0UBUNTU1.10.04.2 - - - X - - - -
+//LAUNCHPADLIBRARIAN.NET/62538739/UTIL-LINUX_2.17.2-0UBUNTU1.10.04.2_I386.DEB - - - - - S - -
+                PAGE - - - - - X - -
+                LINK - - - - - - S -
+                 DEB - - - - - - X -
+              UBUNTU - - - - - - X -
+             COMMAND - - - - - - O -
+                 LAN - - - - - - - X
+               CABLE - - - - - - - O

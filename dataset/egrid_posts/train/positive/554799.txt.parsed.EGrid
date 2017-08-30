@@ -1,0 +1,16 @@
+                FSCK X - - - -
+              ERRORS O S - - -
+                BOOT X - - - -
+             MACHINE O - - - -
+         MAINTENANCE X - - - -
+               SHELL S - - - -
+               START O - - - -
+ /VAR/LOG/FSCK/CHKFS - X - - -
+                HTTP - X - - -
+                  .. - X - - -
+                SUDO - - - X -
+               BLKID - - - O -
+                UUID - - - O S
+             ENTRIES - - - - X
+             ANYWAYS - - - - O
+                 USE - - - - X

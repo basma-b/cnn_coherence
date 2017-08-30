@@ -1,0 +1,17 @@
+             DEFAULT S - - - -
+                 TOP X - - - -
+                FILE X - - - -
+              NUMBER O - - - -
+                 NUM X - - - -
+               ITEMS X - - - -
+                LIST X - - - -
+                AUTO X - - - -
+                LOAD X - - - -
+                MENU - X - - -
+                  CP - X - - -
+ /BOOT/GRUB/MENU.LST - S - - -
+                .OLD - - X - -
+                .BAK - - S - -
+          EXTENSIONS - - O - -
+            TERMINAL - - - - O
+         GNOME-PANEL - - - - X

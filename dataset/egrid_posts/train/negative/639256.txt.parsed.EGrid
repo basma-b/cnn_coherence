@@ -1,0 +1,11 @@
+                   X X - X - - -
+          PERMISSION X - - - - -
+                TEXT X X X X X -
+                FILE X O X X O -
+          EXECUTABLE - X - - - -
+              SCRIPT - X - X X -
+                  RW - O - - - -
+                 RWX - O - - - -
+         PERMISSIONS - X - - - -
+             NOTHING - - - - X -
+                  OK - - - - - X

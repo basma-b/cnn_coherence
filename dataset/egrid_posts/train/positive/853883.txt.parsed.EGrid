@@ -1,0 +1,17 @@
+                 NO~ S - - -
+                FILE X - - -
+              SYSTEM O - - -
+                  FS X - - -
+                  OS - X - -
+               SHARE - X - -
+           PARTITION - O - -
+               DRIVE - X - -
+                VMDK - X - -
+    PARTITION.DEVICE - S - -
+                HOST - X - -
+          FILESYSTEM - - - O
+                   ~ - - - S
+                NFS/ - - - X
+               SAMBA - - - X
+                   / - - - X
+               SSHFS - - - O

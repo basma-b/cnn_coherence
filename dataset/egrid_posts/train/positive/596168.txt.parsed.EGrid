@@ -1,0 +1,12 @@
+/ETC/APPARMOR.D/USR.BIN.FRESHCLAM X - - - - -
+                   < X - - - - -
+                FILE X - - S - S
+             PACKAGE - X - X - X
+                DPKG - O - - - -
+   USR.BIN.FRESHCLAM - X - O - -
+                   * - S O O - -
+                 SEC - - X - - -
+                TEST - - X - - -
+               THERE - - X - - -
+                  .. - - - O - -
+                  -S - - - - - S

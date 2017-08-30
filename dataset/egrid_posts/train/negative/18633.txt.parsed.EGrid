@@ -1,0 +1,16 @@
+              DEBIAN X - - -
+              UBUNTU X - - -
+                 DOC S - - -
+             APT-GET X - - -
+      UBUNTU-DESKTOP O - - -
+         DEPEDENCIES O - - -
+              SOURCE - X - -
+          LIBC6-I686 - - O -
+          PREDEPENDS - - O -
+               LIBC6 - - O -
+2.3.2.DS1-13UBUNTU2.2 - - X -
+        2.3.2.DS1-20 - - S -
+              SEARCH - - - O
+             COMMAND - - - O
+                GRUB - - - S
+                  .. - - - O

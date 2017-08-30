@@ -1,0 +1,14 @@
+         .PROCMAILRC S - - - - - - - -
+                MAIL - S - - - - - - -
+               SPOOL - X - - - - - - -
+                THRU - X - - - - - - -
+         SPAMC/SPAMD - X - - - - - - -
+           MAILBOXES - X - - - - - - -
+               IDEAS - - X - - - - - -
+                THIS - - S - - - - - -
+              UBUNTU - - - X - - - - -
+     MAILBOX_COMMAND - - - - - X - - X
+/ETC/POSTFIX/MAIN.CF - - - - - X - - -
+            .FORWARD - - - - - O - S -
+                THAT - - - - - - - - X
+                CARE - - - - - - - - O

@@ -1,0 +1,12 @@
+             COMMAND X - - -
+             STARTUP X - - -
+               ROUTE - X - -
+          STATEMENTS - S - -
+             SERVERS - S - -
+             NETWORK - X - -
+              CONFIG - X - -
+/ETC/NETWORK/INTERFACES - S - -
+                  DW - - X X
+               -RSB- - - - X
+                THIS - - - X
+                   P - - - X

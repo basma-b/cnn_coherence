@@ -1,0 +1,29 @@
+                 HEY X - - - - - - - -
+                 GUY X - - - - - - - -
+            QUESTION O - - - - - - - -
+                 SSH X X - - - - - - -
+               SETUP - X - - - - - - -
+              FACTOR - X - - - - - - -
+      AUTHENTICATION - O - - - - - - -
+             MACHINE - X - - - - - - -
+                 IPS - - S - - - - - -
+               USERS - - X - - - - - -
+    /ETC/SSHD_CONFIG - - - X - - - - -
+          ALLOWUSERS - - - X - - - - -
+PASSWORDAUTHENTICATION - - - X - - - - -
+     PERMITROOTLOGIN - - - O - - - - -
+               ISSUE - - - - S - - - -
+              SERVER - - - - X - - - -
+                PORT - - - - - O - - -
+               UMASK - - - - - S - - -
+                TEST - - - - - X - - -
+                  -D - - - - - S - - -
+              ~/.SSH - - - - - O - - -
+               MKDIR - - - - - X - - -
+                 CAT - - - - - X - - -
+                   > - - - - - S - - -
+~/.SSH/AUTHORIZED_KEYS - - - - - O - - -
+             DEFAULT - - - - - X - - -
+              MATTER - - - - - - X - -
+               LAYER - - - - - - X - -
+          PROTECTION - - - - - - X - -

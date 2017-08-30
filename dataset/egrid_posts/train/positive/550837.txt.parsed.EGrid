@@ -1,0 +1,13 @@
+         PERMISSIONS X - X O
+      ~WWW-DATA/.SSH X - - -
+             CONTENT X - - -
+             FOLDERS - - X -
+               GROUP - - X -
+              OTHERS - - X -
+               AFAIK - - - X
+             PROBLEM - - - O
+               CHMOD - - - X
+           /VAR/WWW/ - - - X
+                SSHD - - - S
+                FILE - - - X
+              ACCESS - - - O

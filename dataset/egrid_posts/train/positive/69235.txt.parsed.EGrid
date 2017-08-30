@@ -1,0 +1,12 @@
+              UBUNTU X - - - -
+          INTERFACES X - - - -
+              BOOTUP X - - - -
+          BACKGROUND - X - - -
+                DHCP - X - - -
+                ETH0 - - X S -
+                ETH1 - - X - -
+/ETC/NETWORK/INTERFACES - - X O -
+              CHANGE - - X - -
+                THAT - - - O -
+                AUTO - - - X -
+                 YES - - - - X

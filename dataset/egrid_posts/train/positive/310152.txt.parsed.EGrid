@@ -1,0 +1,17 @@
+           PARTITION S - - X -
+                THAT - - S - -
+         PERMISSIONS - - O - -
+          MOUNTPOINT - - S - -
+               ISSUE - - O - -
+         FILESYSTEMS - - X - -
+               MOUNT - - - X -
+             COMMAND - - - O -
+            SETTINGS - - - S -
+          EVERYTHING - - - O -
+        /MEDIA/ASHES - - - X -
+                TYPE - - - X -
+                NTFS - - - O X
+                  RW - - - X -
+            NLS=UTF8 - - - X -
+          UMASK=0222 - - - X -
+             NTFS-3G - - - - O

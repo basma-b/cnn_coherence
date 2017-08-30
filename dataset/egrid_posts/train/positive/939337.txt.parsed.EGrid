@@ -1,0 +1,14 @@
+             PROBLEM - O - - O - -
+               PPPOE - X - - - - -
+          CONNECTION - X - - - - -
+                 MTU - - O - - - -
+     /ETC/PP/OPTIONS - - X - - - -
+     /ETC/PPP/PEERS/ - - X - - - -
+                SHOW - - X - - - -
+             ANYBODY - - - X - - -
+                IDEA - - - X - - -
+/ETC/NETWORK/INTERFACES - - - - O - -
+             COMMAND - - - - O - -
+           INTERFACE - - - - - X -
+          DEFINITION - - - - - - X
+                PPP0 - - - - - - X

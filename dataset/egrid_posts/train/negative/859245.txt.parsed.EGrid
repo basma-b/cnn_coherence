@@ -1,0 +1,25 @@
+             NETWORK X - - - - - - - - - -
+             MANAGER S - - - - - - - - - -
+               SHELL X - - - - - - - - - -
+                FILE O - - - - - - - - - -
+                 DNS O - - - - - - O - - -
+       DHCLIENT.CONF - X - - - - - - - - -
+PREPEND-DNS-NAMESERVER - X - - - - - - - - -
+/ETC/RESOLVCONF/RESOLV.CONF.D/BASE - O - - - - - - - - -
+                 FIX - X - - - - - - - - -
+         DNS-ENTRIES - O - - - - - - - - -
+                NEED - X - - - - - - - - -
+             PACKAGE - X - - - - - - - - -
+          RESOLVCONF - X - - - - - X - - -
+/ETC/RESOLVCONF/RESOLV.CONF.D - - X - - - - - - - -
+                  IP - - - - O - - - - - -
+          CONNECTION - - - - - - O - - - -
+                 FIE - - - - - - - X - - -
+                INFO - - - - - - - S - - -
+                 MAN - - - - - - - X - - -
+                SUDO - - - - - - - X - - -
+                  -U - - - - - - - X - - -
+             COMMAND - - - - - - - - - - S
+                   < - - - - - - - - - - X
+                USER - - - - - - - - - - X
+                   > - - - - - - - - - - O

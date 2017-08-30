@@ -1,0 +1,15 @@
+              SYNTAX X - -
+           MYSQLDUMP S X -
+           DATABASES O - -
+       ALL-DATABASES - S -
+              OPTION - X -
+              OUTPUT - X -
+               USAGE - S -
+            USERNAME - X -
+                  -P - O -
+                 THX - O -
+                 WAY - O -
+                WORK - O -
+             SPECIFY - X -
+            HOSTNAME - X -
+              MATTER - - X

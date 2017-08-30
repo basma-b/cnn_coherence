@@ -1,0 +1,10 @@
+             COMMAND X - -
+                FSCK S - S
+                 HDS O - O
+                BOOT X - X
+                SUDO - X -
+               TOUCH - S -
+                PATH - O -
+                 HDD - X -
+                   > - X -
+          /FORCEFSCK - X -

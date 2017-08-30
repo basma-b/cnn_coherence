@@ -1,0 +1,14 @@
+                HELP O - - - - - - -
+                GRUB X - - O - - - -
+               /BOOT - S - - - - - X
+                RAID - X X - - - - -
+          EVERYTHING - - S - - - - -
+                 LVM - - X - - - - -
+                 TOP - - X - - - - -
+           INSTALLER - - - S - - - -
+               100MB - - - - X - - X
+                  .. - - - - - - X -
+               ISSUE - - - - - - - O
+              UPDATE - - - - - - - S
+               LEVEL - - - - - - - X
+             KERNELS - - - - - - - O

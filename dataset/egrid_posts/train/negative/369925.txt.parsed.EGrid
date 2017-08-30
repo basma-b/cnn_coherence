@@ -1,0 +1,20 @@
+             SOMEONE X - - - - - -
+             NETWORK - O - - - - -
+               LINUX - X - - - - -
+             PROBLEM - - S - - - -
+                 NIC - - S - - - -
+                BOOT - - O - - - -
+            WIRELESS - - - X - - -
+                WIRE - - - X X X -
+              ROUTER - - - - O - -
+            ETHERNET - - - - X - -
+           INTERFACE - - - - X - -
+              DEVICE - - - - X S -
+                TYPE - - - - X - -
+            IFCONFIG - - - - O X -
+            LOOPBACK - - - - - S -
+         NDISWRAPPER - - - - - X -
+               HTTPS - - - - - O -
+//WIKI.UBUNTU.COM/SETUPNDISWRAPPERHOWTO - - - - - X -
+                 ALL - - - - - O -
+                KOOL - - - - - - X

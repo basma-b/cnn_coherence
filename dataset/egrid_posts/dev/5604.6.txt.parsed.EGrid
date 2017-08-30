@@ -1,0 +1,10 @@
+         CREDENTIALS X - -
+                FILE O - -
+           SMBCLIENT O - -
+          MOUNT.CIFS X - -
+         MOUNT.SMBFS S - -
+               ERROR O - -
+          PERMISSION X - -
+                SDUO X - -
+                SUDO - X -
+             OPENBOX - - O

@@ -1,0 +1,13 @@
+                SWAP X - - - - - - - - -
+           PARTITION X - - - O - - - - -
+               FSTAB - O X - - - - - - -
+                OKEJ - O - - - - - - - -
+              BACKUP - X - - - - - - - -
+                THAT - - X - - - - - - X
+                TYPE - - - X - - X - - -
+                HDA7 - - - - X - - - - -
+                HDA4 - - - - S - - - - -
+                 ONE - - - - X - - - - -
+          FILESYSTEM - - - - - - X - - -
+                VFAT - - - - - - - S - -
+              FORMAT - - - - - - - - X -

@@ -1,0 +1,14 @@
+             COMMAND O - - - -
+            TERMINAL X - - - -
+                FILE O - - - -
+                THAT - S - - -
+               SENCE - O - - -
+            FILE.RUN - - X - -
+          ./FILE.RUN - - X - -
+            IPTABLES - - - - S
+          NETFILTERS - - - - O
+           INTERFACE - - - - X
+               THERE - - - - S
+            SIMPLIER - - - - X
+                ONES - - - - O
+                 UFW - - - - X

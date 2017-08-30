@@ -1,0 +1,17 @@
+                 BOX O - - - - - - - - - - -
+             CHIPSET S - S - - X - - - - - -
+                PAST - X - - - - - - - - - -
+               AVAIL - X - - - - - - - - - -
+                CHIP - - - S - - - - - - - -
+                 PNP - - - X - - - - - - - -
+               THERE - - - S - - - - - - - -
+             OPTIONS - - - O - - - - - - - -
+                BIOS - - - X - - - - - - - -
+                HELP - - - - X - - - - - - -
+               LSPCI - - - - - - S - - X - -
+         INFORMATION - - - - - - - - X - - -
+         MOTHERBOARD - - - - - - - - X - - -
+                HOST - - - - - - - - - X - -
+              BRIDGE - - - - - - - - - S - -
+        MANUFACTURER - - - - - - - - - - X -
+               MODEL - - - - - - - - - - - X

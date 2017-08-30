@@ -1,0 +1,25 @@
+                USER O - - S - -
+               DRIVE - O - - - -
+    /MEDIA/DRIVENAME - - O - - -
+                  HD - - - O - -
+           PARTITION - - - X - -
+          FILESYSTEM - - - X - -
+               MUSIC - - - X - -
+              MOVIES - - - X - -
+                FILE - - - X - -
+              SYSTEM - - - O - -
+                  CD - - - X - -
+             SUDOERS - - - X - -
+                LIST - - - X - -
+                THIS - - - - O -
+               HTTPS - - - - O -
+//HELP.UBUNTU.COM/COMMUNITY/FILEPERMISSIONS - - - - O -
+         PERMISSIONS - - - - O -
+             DEVICES - - - - X -
+             /MEDIA/ - - - - X -
+               TRACK - - - - X -
+              SCREEN - - - - - X
+                   + - - - - - S
+                   N - - - - - X
+                BOOT - - - - - O
+                EDGY - - - - - X

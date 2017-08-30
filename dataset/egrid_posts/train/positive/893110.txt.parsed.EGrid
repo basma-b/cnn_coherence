@@ -1,0 +1,13 @@
+              SERVER O - - - - - - -
+                BOOT X - - - - - - -
+               ERROR X - - X - X - -
+           PARTITION X - - - - - - -
+                 CAT X - - - - - - -
+       /PROC/CMDLINE S - - - - - - -
+           STATEMENT X - - - - - - -
+              DEVICE - X - - - - - -
+/DEV/MAPPER/UBUNTU-ROOT - - - S - - - -
+                 PKG - - - O - O - O
+                SHOW - - - S - S - -
+    /DEV/MAPPER/XXXX - - - - S - S -
+               SHELL - - - - X - X -

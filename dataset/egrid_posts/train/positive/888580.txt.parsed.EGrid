@@ -1,0 +1,9 @@
+           PARTITION X - - - X -
+               LABEL - S - - - -
+          FILESYSTEM - - X - - -
+             COMMAND - - - - X -
+                SUDO - - - - S -
+                /MNT - - - - O -
+               DRIVE - - - - X -
+                BOOT - - - - - O
+                FILE - - - - - O

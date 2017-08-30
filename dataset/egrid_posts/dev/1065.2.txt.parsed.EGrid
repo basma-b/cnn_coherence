@@ -1,0 +1,24 @@
+       CONFIGURATION X - - - -
+                THAT - X - - -
+                CRON - - X - -
+                 JOB - - O - -
+              MINUTE - - O - -
+            AUTH.LOG - - S - -
+               AUTHS - - O - -
+              OUTPUT - - O - -
+             CRONJOB - - O - -
+             SESSION - - - X -
+                FILE - - - - O
+               THATS - - - - S
+                REST - - - - S
+             COMMAND - - - - X
+              STDOUT - - - - O
+                HTTP - - - - X
+                  || - - - - X
+             EXAMPLE - - - - O
+                 TAR - - - - X
+               -CVPJ - - - - X
+      DIRECTORY/NAME - - - - O
+                   | - - - - X
+               4000M - - - - O
+/NAME/OF/ARCHIVE.TAR.BZ2 - - - - O

@@ -1,0 +1,17 @@
+              OUTPUT O - - - -
+               LSUSB X - - - -
+                BOTH - S - - -
+                LIST - X - - -
+                 USB - X X - -
+              DRIVER - O - - -
+                   S - X - - -
+                 SAY - - X - -
+               POWER - - X - -
+          MANAGEMENT - - X - -
+               ISSUE - - X - -
+             DISABLE - - O - -
+                 HUB - - X - -
+                   K - - - S -
+                SUDO - - - - X
+             APT-GET - - - - S
+FLASHPLUGIN-INSTALLER - - - - O

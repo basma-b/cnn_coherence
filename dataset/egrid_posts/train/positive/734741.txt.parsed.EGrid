@@ -1,0 +1,8 @@
+             COMMAND X X -
+                WLAN X - -
+                CHIP X - -
+                 SET O - -
+                 ATM - X -
+               LSPCI - X O
+               LSUSB - O -
+                  TY - - X

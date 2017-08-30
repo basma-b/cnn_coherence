@@ -1,0 +1,10 @@
+              ANYONE X - - -
+             COMMAND O - - -
+                  DD - X - -
+        IF=/DEV/ZERO - X - -
+        OF=/TMP/SWAP - X - -
+               BS=1M - X - -
+              MKSWAP - X - -
+           /TMP/SWAP - S - -
+                /TMP - S - -
+             RESTART - X - -

@@ -1,0 +1,23 @@
+             PACKAGE O X - - - -
+        CHECKINSTALL X - - - - -
+             SYMLINK O - - - - -
+            CONFLICT X - - - - -
+           SOMETHING X - - - - -
+           SMBCLIENT X X - - - -
+             MACHINE S - - - - -
+                 TRY - X - - - -
+                   < - X - - - -
+                   > - S - - - -
+/USR/LIB/CUPS/BACKEND/SMB - X - - - -
+              ANYONE - X - - - -
+               FORCE - - O - - -
+                 MAN - - X - - -
+                PAGE - - O - - -
+            HARDWARE - - - - O -
+       OPTIMIZATIONS - - - - O -
+                THAT - - - - - O
+              SERVER - - - - - S
+               STUFF - - - - - O
+             PREEMPT - - - - - X
+                 PAE - - - - - S
+              THINGS - - - - - S

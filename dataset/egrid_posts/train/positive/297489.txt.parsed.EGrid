@@ -1,0 +1,15 @@
+             COMMAND X - O - - -
+             DEVICES O - - - - -
+                LSHW - S - - - -
+                 DEB - X - - - -
+             PACKAGE - O - - - -
+             WINDOWS - X - - - -
+             MACHINE - X - - - -
+               FLASH - X X - - -
+               DRIVE - X X - - -
+                THAT - - X - - -
+                VFAT - - O - - -
+                NTFS - - O - - X
+             NTFS-3G - - O - - -
+               VOUME - - O - - -
+                 USE - - - O - -

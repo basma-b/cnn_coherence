@@ -1,0 +1,17 @@
+              FORMAT X - - -
+                DISK O - - -
+               FDISK X - - -
+           PARTITION - X - -
+                SIZE - O - -
+            CYLINDER - X - -
+                 WAY - X - -
+                 +XG - - O -
+                   X - - S -
+              NUMBER - - O -
+                   M - - S -
+           MEGABYTES - - X -
+                   G - - X -
+           GIGABYTES - - X -
+         MKSFS.FAT32 - - - S
+  BINARY/APPLICATION - - - X
+                NAME - - - O

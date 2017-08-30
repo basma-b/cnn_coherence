@@ -1,0 +1,24 @@
+                ETH0 S - - - - - - -
+           INTERFACE O - - - - - - -
+/ETC/NETWORK/INTERFACE X - - - - - - -
+                LINE O - - - - - - -
+                 USE - X - - - - - -
+             NETWORK - X - - - - - -
+             MANAGER - X - - - - - -
+              APPLET - O - - - - - -
+               CLOCK - X - - - - - -
+                  .. - O - - - - - -
+             STARTUP - X - - - - - -
+             PROBLEM - X - - - - - -
+                EDGY - X - - - - - -
+            ETHERNET - O - - - - - -
+                THAT - - S O - - - -
+                 SIR - - X - - - - -
+/ETC/NETWORK/INTERFACES - - - O - - - -
+                WHAT - - - O - - - -
+                INET - - - - X - - -
+                DHCP - - - - X - - -
+            INTERNET - - - - X - - -
+              ROUTER - - - - - X O -
+        INVISIBILITY - - - - - - - X
+               USERS - - - - - - - X

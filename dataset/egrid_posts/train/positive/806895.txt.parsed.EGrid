@@ -1,0 +1,13 @@
+               GRUB2 S - -
+               ERROR X - -
+               -RSB- X - -
+              INITRD X - -
+               ADDR= X - -
+                SIZE O - S
+         UPDAGE-GRUB O - -
+              KERNEL X - X
+               IMAGE O - X
+               /BOOT - X -
+                THIS - - O
+                   U - - S
+                 HEX - - X

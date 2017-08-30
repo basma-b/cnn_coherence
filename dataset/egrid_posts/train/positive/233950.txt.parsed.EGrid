@@ -1,0 +1,10 @@
+              DEVICE X S - S -
+                  CD O - - - -
+          /DEV/CDROM - S - - S
+                LINK - O - - -
+               CDROM - O - - -
+               LINUX - - - X -
+                 USE - - - O -
+                 CDS - - - X -
+            CDRECORD - - - - S
+          FILESYSTEM - - - - O

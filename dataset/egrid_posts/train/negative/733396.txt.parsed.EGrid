@@ -1,0 +1,9 @@
+                   $ X -
+              EXPORT X -
+PYTHONPATH=/USR/SHARED/PYSHARED/ X -
+                TYPE X -
+                BASH X -
+             PRESENT O -
+               ERROR X -
+/USR/SHARED/PYSHARED/ S -
+           DIRECTORY O -

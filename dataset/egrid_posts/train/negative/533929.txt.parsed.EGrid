@@ -1,0 +1,14 @@
+                TIME O -
+               DRIVE O O
+                SHOW O -
+                UUID X -
+                 FIX S -
+                DISK X -
+           HALDAEMON X -
+               GROUP X -
+HALD-GENERATE-FDI-CACHE O -
+              METHOD X -
+                 IDE X -
+                SATA X -
+                INFO - X
+               RIGHT - O

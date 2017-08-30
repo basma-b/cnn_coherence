@@ -1,0 +1,9 @@
+       ./BIN/LDMINFO X - - - - -
+                FILE X - - - - -
+           DIRECTORY X - - - - -
+          SUGGESTION - X - - - -
+      /BIN/./LDMINFO - - X - - -
+                   L - - X - - -
+                GREP - - - X - -
+         SOMEPROGRAM - - - X - -
+      OPENSSH-SERVER - - - - - O

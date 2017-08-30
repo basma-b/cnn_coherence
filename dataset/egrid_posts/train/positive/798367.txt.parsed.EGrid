@@ -1,0 +1,17 @@
+         WORKSTATION X - -
+                BOOT X - -
+                 PXE X - -
+         DEBOOTSTRAP O - -
+              CLIENT X - -
+          FILESYSTEM O - -
+              ANYONE X - -
+                ROOT X X O
+            PASSWORD X X -
+         ENVIRONMENT X - -
+            MAVERICK - S -
+                LOVE - X -
+             ACCOUNT - S -
+                FILE - - X
+              SYSTEM - - O
+               CHARM - - S
+                INFO - - X

@@ -1,0 +1,11 @@
+                   U S - S
+                THIS X - -
+           /DEV/HDB7 - X -
+     /MEDIA/PROGRAMS - S -
+                  RW - O -
+            UID=1000 - O -
+            GID=1000 - O -
+           UMASK=000 - O -
+                USER - O -
+                 BAD - - X
+            QUESTION - - S

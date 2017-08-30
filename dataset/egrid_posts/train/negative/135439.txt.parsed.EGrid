@@ -1,0 +1,16 @@
+                FILE X - - - - - - - - -
+     ALLOW=127.0.0.1 O - - - - - - - - -
+     NONLOCALHOSTERS - O - - - - - - - -
+           SOMETHING - - O - - - - - - -
+              WEBMIN - - - O - X - - - -
+              ACCESS - - - O X - - - - -
+               ERROR - - - - X X X - - -
+                   < - - - - X - - - - -
+                THIS - - - - S - - - - -
+                 ALL - - - - O - - - - -
+                 HRM - - - - - X - - - -
+                MUCH - - - - - X - - - -
+             BROWSER - - - - - - - X - -
+               POPUP - - - - - - - X - -
+                 LOG - - - - - - - X - -
+                COOL - - - - - - - - - X

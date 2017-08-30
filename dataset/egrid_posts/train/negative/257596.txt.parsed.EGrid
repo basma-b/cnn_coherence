@@ -1,0 +1,9 @@
+            WINECNFG X -
+                   C S -
+          FILESYSTEM X -
+               DRIVE X -
+                  .. S -
+/HOME/USERNAME/.WINE/ X -
+               THERE S -
+                SUDO - X
+                ROOT - X

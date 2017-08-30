@@ -1,0 +1,15 @@
+            /ETC/X11 X - - - - - - -
+              FOLDER S - - - - - - -
+           XORG.CONF X - - - - - - -
+                  .. O - - - - - - -
+             DEFAULT - - X - - - - -
+                XORG - - - S - - - -
+              THINGS - - - O - - - -
+              SCREEN - - - O - - - -
+                BOOT - - - X - - - -
+             DRIVERS - - - O - X - -
+                TEXT - - - - X - - -
+                MODE - - - - X - - -
+               SHELL - - - - O - - -
+                 YES - - - - - - - S
+              REBOOT - - - - - - - S

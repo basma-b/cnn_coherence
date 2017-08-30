@@ -1,0 +1,17 @@
+                LINE O - - X - -
+/ETC/NETWORK/INTERFACES X - - - - -
+                FILE X - - - - -
+     DNS-NAMESERVERS - S - O - -
+      208.67.220.220 - O - - - -
+                 END - X - - - -
+           INTERFACE - X - S - -
+                INFO - X - - - -
+    /ETC/RESOLV.CONF - - S - - -
+                THAT - - - S - -
+                THIS - - - X - -
+         RESOLV.CONF - - - S - -
+             OPENDNS - - - S - -
+              SYSTEM - - - - - X
+          FILESYSTEM - - - - - X
+               CHECK - - - - - X
+             UTILITY - - - - - O

@@ -1,0 +1,14 @@
+               /BOOT X - - - - -
+                 MBR X - - - - -
+                THAT - X - - - -
+        GRUB-INSTALL - - S - - -
+              DEVICE - - X O - -
+                NAME - - X - - -
+                GRUB - - - O - -
+            WHATEVER - - - S - -
+            /DEV/SDA - - - X - -
+                TYPE - - - O - -
+           PARTITION - - - X - -
+               /HOME - - - O - -
+             PACKAGE - - - - - X
+                 VLC - - - - - O

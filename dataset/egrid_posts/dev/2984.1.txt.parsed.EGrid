@@ -1,0 +1,23 @@
+               12.04 O - - - - - - -
+                 KVM X - - - - - - -
+              CENTOS X - - - - - - -
+                HOST X - - - - - - -
+               START - O - - - - - -
+               ERROR - S - - - - - X
+              KERNEL - O - - - - - -
+                TREE - X - - - - - -
+               IDEAS - - X - - - - -
+                THIS - - - S - - - -
+             MESSAGE - - - O - - - -
+               GUEST - - - X - - - -
+              WINDOW - - - X - - - -
+                WHAT - - - X - - - -
+        VIRT-INSTALL - - - - - X - -
+              SERIAL - - - - - - X -
+                PASS - - - - - - X -
+CONSOLE=TTYS0,115200 - - - - - - X -
+            STARTING - - - - - - - S
+                  .. - - - - - - - O
+          RETRIEVING - - - - - - - S
+                   B - - - - - - - X
+                LINE - - - - - - - X

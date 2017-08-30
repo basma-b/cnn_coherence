@@ -1,0 +1,9 @@
+            DHCLIENT O S - - -
+               11.10 X - - - -
+               11.04 X - - - -
+             SERVICE S S - - O
+              CHANGE O - - - -
+          STATUS-ALL - S - - -
+              SCRIPT - O - - -
+            ANYTHING - - X - -
+                LIST - - - O -

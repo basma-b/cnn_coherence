@@ -1,0 +1,15 @@
+            IFCONFIG - X - - - - - -
+                  -A - S - - - - - -
+                LIST - O - - - - - -
+          INTERFACES - X - - - - - -
+                ETH0 - X - - S - - -
+                  LO - X - - - - - -
+                PPP0 - X X - - - - -
+               WLAN0 - X - - - - - -
+                  IP - - O - - - - -
+                WILL - - X - - - - -
+                   A - - - X - - - -
+            SEPERATE - - - X - - - -
+              DEVICE - - - S - - - -
+             ADDRESS - - - - O X - -
+                WORD - - - - - - - X

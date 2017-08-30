@@ -1,0 +1,12 @@
+    /ETC/ENVIRONMENT X - -
+               PLACE X - -
+               ~/BIN O - -
+                PATH X - -
+              SYSTEM - X -
+            IPTABLES - - X
+                 NAT - - X
+                  -D - - S
+                 TCP - - O
+            REDIRECT - - O
+           OTHERPORT - - X
+                   > - - O

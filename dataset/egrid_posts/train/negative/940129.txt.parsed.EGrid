@@ -1,0 +1,20 @@
+           PRISM2_CS X - - - - -
+              PCMCIA X - - - - -
+               LINUX X - - - - -
+              PRISM2 X - - - - -
+                CARD X - - - - -
+                  SN X - - - - -
+P80211KNETDEV_HARD_START_XMIT X X - - - -
+                  TX X S - - - -
+             ATTEMPT X - - - - -
+         ASSOCIATION X X - - - -
+               FRAME X X - - - -
+                DROP X X - - - -
+                /MSG - - X - - -
+               /HELP - - X - - -
+                PART - - X - - -
+                INFO - - - S - -
+               /PART - - - - S -
+                  .. - - - - O -
+                 LIK - - - - X -
+                USER - - - - X -

@@ -1,0 +1,11 @@
+               SETUP X - -
+            INTRANET O - -
+             GATEWAY X - -
+                 NAT X - -
+                  .. X - -
+                PORT X X -
+             REQUEST S X -
+         DESTINATION S - -
+                LOCK - X -
+                THIS - - X
+                 UFW - - X

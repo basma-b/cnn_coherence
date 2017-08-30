@@ -1,0 +1,18 @@
+                THIS X - - - - - -
+                DPKG X - - - - - -
+               ERROR X - - - - - -
+             PROCESS X - - - - - -
+/VAR/CACHE/APT/ARCHIVES/LIBNCURSES5-DEV_5.4-9UBUNTU4_I386.DEB X - - - - - -
+              UNPACK X - - - - - -
+./USR/INCLUDE/CURSES.H X - - - - - -
+        INPUT/OUTPUT X - - - - - -
+              ERRORS S - - - - - -
+            HARDWARE X - - - - - -
+               ISSUE X - - - - - -
+                 RAM - O - - - - -
+          MEMTEST86+ - X - - - - -
+                DISK - - X - - - -
+                THAT - - - X - - -
+            BONNIE++ - - - - - - S
+          STRESSTEST - - - - - - O
+       SMARTMONTOOLS - - - - - - O

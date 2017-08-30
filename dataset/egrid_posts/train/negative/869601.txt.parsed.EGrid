@@ -1,0 +1,10 @@
+         CONNECTIONS X - - -
+              ROUTER - X - -
+            IPTABLES - - S -
+                  -I - - S -
+      COMMAND.SHOULD - - O -
+            ANYTHING - - O S
+                CANT - - - X
+               CLICK - - - X
+               MOUSE - - - X
+            KEYBOARD - - - X

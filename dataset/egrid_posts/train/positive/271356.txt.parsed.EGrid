@@ -1,0 +1,15 @@
+             COMMAND X O -
+                LINE X - -
+                SUDO X - -
+                  SU X - -
+                  -C X - -
+/SYS/DEVICES/SYSTEM/CPU/CPU0/CPUFREQ/SCALING_GOVERNOR X - -
+                BASH O - -
+                FILE X - -
+           DIRECTORY X - -
+                 SDU S - -
+                ROOT - X -
+               SHEEL - O -
+                  HM - X -
+                  .. - O -
+                 BAD - - X

@@ -1,0 +1,17 @@
+              VOLUME X - - - - X - - -
+               LABEL X - - S - X - - -
+              DEVICE X - - - - - - - -
+             EXAMPLE X - - - - - - - -
+                 USB - X - - - - - - -
+                DISK - O - - - - - - -
+              FORMAT - X - - - - - - -
+               FAT32 - O - - - - - - -
+             WINDOWS - - X - X - - - -
+                DATA - - X - X - - - -
+               LINUX - - X X - - - - -
+           PARTITION - - - O - X - - -
+                   < - - - X - - - - -
+                   > - - - X - - - - -
+                 /HT - - - X - - - - -
+                VFAT - - - - - - S - -
+              ANSWER - - - - - - O - -

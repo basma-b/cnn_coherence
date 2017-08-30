@@ -1,0 +1,31 @@
+                  AM X - - - - -
+                 USE O - - - - -
+               LINUX X - - - - -
+               REPOS X - - - - -
+               GUIDE X - - - - -
+                HTTP X - - - - -
+//WWW.GOOGLE.COM/LINUXREPOSITORIES/APT.HTML X - - - - -
+             COMMAND O - - - - -
+                SUDO X X - - - -
+                WGET X - - - - -
+               HTTPS S X - - - -
+                   | X - - - - -
+             APT-KEY S - S - - -
+               ERROR S - - - - -
+                 GPG O - - - - -
+            WRITABLE O - - - - -
+              IMPORT O - - - - -
+           SOMETHING O - - - - -
+                THAT - O - - - -
+//DL-SSL.GOOGLE.COM/LINUX/LINUX_SIGNING_KEY.PUB - X - - - -
+            DOWNLOAD - S - - - -
+                FILE - O - - - -
+                 KEY - X - S - -
+                  CD - X - - - -
+                   ~ - O - - - -
+LINUX_SIGNING_KEY.PUB - X O - - -
+                REPO - - - O - -
+               USERS - - - X - -
+                 RUN - - - - - O
+                 HMM - - - - - S
+                USER - - - - - X

@@ -1,0 +1,10 @@
+           PARTITION X - -
+               MOUNT X - -
+             STARTUP X - -
+              NOAUTO - O -
+               ENTRY - X -
+          /ETC/FSTAB - X -
+             OPTIONS - X -
+                PART - X -
+             DEFAULT - S -
+               COMMA - O -

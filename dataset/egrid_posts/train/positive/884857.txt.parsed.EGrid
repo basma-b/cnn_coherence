@@ -1,0 +1,15 @@
+             PROBLEM X - - - - -
+            USBSTICK X - - - - -
+              SERVER X - - - - -
+                 USE - X - - - -
+            /DEV/SDC - X - - - -
+       /MNG/USBSTICK - X - - - -
+                TYPE - O - O - -
+               USBFS - O - S - -
+            ARGUMENT - - O - - -
+                FILE - - - X - -
+              SYSTEM - - - X - -
+              OUTPUT - - - - - X
+                SUDO - - - - - X
+                PART - - - - - X
+                  -L - - - - - X

@@ -1,0 +1,15 @@
+                 KEY O - O -
+          REPOSITORY X - - -
+             COMMAND X - - -
+                HTTP X - - -
+                   | X - - -
+             APT-KEY S - - -
+           SOMETHING X - - -
+            RESPONSE - O - -
+             OPENPGP - X - -
+                DATA - S - -
+        REPOSITORIES - - X -
+             PACKAGE - - O -
+               ISSUE - - - X
+               CACHE - - - X
+             ARCHIVE - - - X

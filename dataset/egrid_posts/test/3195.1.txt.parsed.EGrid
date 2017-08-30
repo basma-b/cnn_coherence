@@ -1,0 +1,15 @@
+            RUNLEVEL X - - - - -
+                THIS - S - - - -
+                TYPE - O - - - -
+             DESKTOP - S - - - -
+      UBUNTU-DESKTOP - - X - - -
+         METAPACKAGE - - X - - -
+                THAT - - - X - O
+         TESTINSTALL - - - O - -
+          VIRTUALBOX - - - X - -
+               SETUP - - - - X -
+                XORG - - - - X -
+                 XDM - - - - X -
+                  I3 - - - - X -
+              WINDOW - - - - X -
+             MANAGER - - - - O -

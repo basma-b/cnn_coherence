@@ -1,0 +1,16 @@
+              DRIVER - - O - - - - - -
+              KERNEL - - X O - - - - -
+              SCRIPT - - - - O - - - -
+            RECOVERY - - - - X - - - -
+                MODE - - - - X - - - -
+             MESSAGE - - - - O - - - -
+                FILE - - - - O - - - -
+               /TMP/ - - - - X - - - -
+             DRIVERS - - - - - X - - -
+             UTILITY - - - - - O - - -
+            ANYTHING - - - - - O - - -
+                  DF - - - - - - - S -
+           PARTITION - - - - - - - S -
+             CULPRIT - - - - - - - O -
+  ~/.XSESSION-ERRORS - - - - - - - - X
+            APPROACH - - - - - - - - O

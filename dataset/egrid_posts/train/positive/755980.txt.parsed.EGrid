@@ -1,0 +1,12 @@
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES X - - - -
+               THERE - S S - -
+                ETH0 - S - - -
+                ETH1 - X - - -
+                LINK - O - - -
+                 MAC - X - - -
+             ADDRESS - X - - -
+                  OK - X - - -
+                CANT - - X - -
+             MACHINE - - O - -
+               OTHER - - O - -
+             NETWORK - - - - O

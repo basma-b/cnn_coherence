@@ -1,0 +1,11 @@
+             COMMAND X -
+           PARTITION X -
+               SPACE O -
+                  -K X -
+          SSH-KEYGEN - O
+/ETC/SSH/SSH_HOST_RSA_KEY - X
+                  -N - X
+                RSA1 - O
+               THERE - S
+               QUOTE - O
+          EVERYTHING - X

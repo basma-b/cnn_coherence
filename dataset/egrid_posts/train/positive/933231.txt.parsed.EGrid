@@ -1,0 +1,36 @@
+              PCMCIA X X X - - - - -
+                CARD S - - - - X S -
+              DRIVER X - - - - - - -
+       /PROC/DEVICES X - - - - - - -
+             PACKAGE X O S - - - - -
+               -LSB- O - - - - - - -
+                CANT - S - - - - - -
+              ACCESS - O - - - - - -
+                WORK - - X - - - - O
+                FINE - - X - - - - -
+          ORINOCO-CS - - X - - - - -
+                  NB - - X - - - - -
+             MODULES - - S - - - - -
+           PCMCIA-CS - - X - - - - -
+LINUX-IMAGE-2.6.10-5-386 - - S - - - - -
+LINUX-RESTRICTED-MODULES-2.6.10-5-386 - - S - - - - -
+                 ETC - - X - - - - -
+               HOARY - - - - O - X -
+                CASE - - - - X - - -
+                LIST - - - - O - - -
+                HTTP - - - - X - - -
+//WIKI.XIPH.ORG/INDEX.PHP/PORTABLEPLAYERS - - - - S - - -
+                   U - - - - X - - -
+                 USE - - - - X - - -
+                   / - - - - - S - -
+                HALD - - - - - S - -
+              SEEING - - - - - X - -
+                DISK - - - - - X - -
+       APPEAR/REMOVE - - - - - O - -
+         PROBLEMWITH - - - - - O - -
+             UPGRADE - - - - - - X -
+                THUL - - - - - - X -
+                  HA - - - - - - X -
+           NO-DAEMON - - - - - - - X
+               THING - - - - - - - S
+GNOME-VOLUME-MANAGER - - - - - - - X

@@ -1,0 +1,12 @@
+             COMMAND X - -
+             MACHINE X - -
+      LOCALHOST:8080 - O -
+             PROGRAM - S -
+             DEFAULT - X -
+               JBOSS - - X
+             MESSAGE - - O
+                 BOX - - X
+           INTERFACE - - X
+              SERVER - - S
+                  .. - - X
+                TOOL - - O

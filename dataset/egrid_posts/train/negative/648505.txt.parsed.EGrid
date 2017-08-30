@@ -1,0 +1,11 @@
+             ADAPTER X X - -
+               CABLE O - - -
+          SERIAL2USB X - - -
+              DEVICE - S - -
+               LSUSB - X - -
+                FILE - X - -
+                LSOF - - - X
+                   | - - - X
+                GREP - - - X
+            ^FIREFOX - - - S
+                  -L - - - O

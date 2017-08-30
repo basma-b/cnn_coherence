@@ -1,0 +1,9 @@
+             COMMAND X - - - - -
+                FILE X - X - - -
+                 TAR - X - X - -
+         FILE.TAR.GZ - X - - - -
+              OPTION - X - - - -
+                   G - S - - - -
+            ARGUMENT - O - - - -
+             CONTENT - - X - - -
+               -XZVF - - - S - -

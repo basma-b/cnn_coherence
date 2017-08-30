@@ -1,0 +1,19 @@
+                  CD O - - - - - -
+        DIST-UPGRADE X O - - - - -
+/ETC/APT/SOURCES.LIST - O - - - - -
+              UPDATE - O - - - - -
+               HOARY - - - X - - -
+               WARTY - - - X - - -
+                 CDS - - - O - - -
+                 5.4 - - - X - - -
+         SOURCES.LST - - - S - - -
+               START - - - X - - -
+  UPDATE/DIST-UPDATE - - - O - - -
+                   * - - - - O - -
+                 LOT - - - - X - -
+             PACKAGE - - - - X X -
+             UPGRADE - - - - - O -
+                TEST - - - - - X -
+                  MB - - - - - O -
+              SERVER - - - - - X -
+                5.04 - - - - - - X

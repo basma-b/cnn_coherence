@@ -1,0 +1,25 @@
+              NAT/OR X - - - - -
+                HOST O - - - - -
+/USR/BIN/VMWARE-CONFIG.PL - S - - - -
+                 IPS - O - - - -
+               GUEST - X X - - -
+                FILE - S - - - -
+           DIRECTORY - O - - - -
+              SERVER - O - - - -
+                  .. - O - - - -
+                  OS - S X - - -
+                  XP - O S X - -
+                TYPE - X - - - -
+            TERMINAL - X - - - -
+                SUDO - X - - - -
+             NOTHING - X - - - -
+              BRIDGE - - X - O -
+              INSTAL - - O - - -
+             WINDOWS - - O - - -
+               SETUP - - X - X -
+             NETWORK - - X - - -
+             ADDRESS - - O - - -
+              INSIDE - - - O - -
+              VMWARE - - - - X -
+    VMWARE-CONFIG.PL - - - - - O
+   VMWARE-INSTALL.PL - - - - - O

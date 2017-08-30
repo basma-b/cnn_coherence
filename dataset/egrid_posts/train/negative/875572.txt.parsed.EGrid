@@ -1,0 +1,10 @@
+             COMMAND X - - -
+                TEXT X - X -
+                 BOX O - - -
+               ERROR X - X -
+             MESSAGE O - - -
+              ZENITY - X X -
+                OOPS - - X -
+                INFO - - X -
+                HELP - - X -
+             PROBLEM - - - X

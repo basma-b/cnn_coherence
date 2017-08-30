@@ -1,0 +1,9 @@
+                 HMM X - - - -
+       NVIDIA-KERNEL O - - - -
+                XORG O - - - -
+                 GLX O - - - -
+             MODULES S - - - -
+           LIBGLX.SO - S - - -
+/USR/X11R6/LIB/MODULES/EXTENSIONS/ - X - - -
+                SUDO - - S - -
+/USR/X11R6/LIB/MODULES/EXTENSIONS/LIBGLX - - O - -

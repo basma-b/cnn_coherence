@@ -1,0 +1,16 @@
+                FILE O - O - - - -
+                USER S - - - - - -
+              NOBODY O - - - - - -
+          CRON.ALLOW X - - - - - -
+                CRON - X - - - - -
+             COMMAND - O - - - - -
+/PATH/TO/COMMAND.TXT - X - - - - -
+              FUTURE - X - - - - -
+                LINE - X - - - - -
+               CRONS - - X - - - -
+                LIST - - X - - - -
+             CRONTAB - - - S - - -
+                  -E - - - X - - -
+                 SSH - - - - S - -
+              EDITOR - - - - - X -
+                 USE - - - - - - X

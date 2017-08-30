@@ -1,0 +1,7 @@
+                ROOT - X - -
+           PRIVILEGE - X - -
+              GKSUDO - - X -
+/ETC/SSH/SSHD_CONFIG - - - X
+       X11FORWARDING - - - O
+                 YES - - - X
+             MACHINE - - - X

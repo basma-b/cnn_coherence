@@ -1,0 +1,17 @@
+              KERNEL X X - -
+              SOURCE O - X -
+        APPLICATIONS S - - -
+                  .. - X - -
+              CHANCE - - S -
+             HEADERS - - O X
+               ERROR - - O -
+         NETFILTER.H - - X -
+                8:26 - - X -
+      LINUX/CONFIG.H - - X -
+                FILE - - X -
+           DIRECTORY - - X -
+                SUDO - - - X
+             APT-GET - - - O
+                 USE - - - X
+          _ELEMENTAL - - - X
+             COMMAND - - - O

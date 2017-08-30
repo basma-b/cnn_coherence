@@ -1,0 +1,6 @@
+             ATA2.01 X - - -
+            XFERMODE O - - -
+        ERR_MASK=0X4 X - - -
+               ERROR O - - -
+           IDE=NODMA - X - -
+                BOOT - X - -

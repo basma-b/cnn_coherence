@@ -1,0 +1,20 @@
+             FIREFOX - O - - - - -
+                THIS - - - S - - -
+               ERROR - - - O - - -
+               SENSE - - - O - - -
+       PROCESS:14239 - - - - X - -
+                   * - - - - X - -
+GTK_CLIPBOARD_GET_FOR_DISPLAY - - - - X - -
+           ASSERTION - - - - X - -
+             DISPLAY - - - - X - -
+                NULL - - - - - S -
+               ADOBE - - - - - X -
+               FLASH - - - - - X -
+              PLAYER - - - - - X -
+   GTK_CLIPBOARD_GET - - - - - X -
+GDK_SELECTION_PRIMARY - - - - - X -
+            GTK_INIT - - - - - - O
+                 0,0 - - - - - - X
+             QWIDGET - - - - - - O
+                 GUI - - - - - - S
+                 USE - - - - - - O

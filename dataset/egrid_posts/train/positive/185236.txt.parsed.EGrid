@@ -1,0 +1,15 @@
+                  .. - O - - - -
+               FSTAB - S - - - -
+                MESS - X - - - -
+              REBOOT - X - - - -
+              KERNEL - X - - - -
+               PANIC - X - - - -
+                  CD - - O - - -
+            HARDDISK - - O - - -
+            WRITABLE - - X - - -
+         SUGGESTIONS - - X - - -
+                NOTE - - - X - -
+                 SAS - - - X - -
+                RAID - - - O - -
+              SYSTEM - - - S - -
+                DISK - - - X - -

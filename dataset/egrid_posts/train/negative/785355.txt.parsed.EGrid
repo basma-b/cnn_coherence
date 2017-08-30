@@ -1,0 +1,26 @@
+             VERSION X - - - - - - - - - - - - - -
+                JAVA X - - - - - - - - - - - - - -
+               LUCID X - - - - - - - - - - - - - -
+       SUN-JAVA6-JRE - O - - - - - - - - - - - - -
+              SYSTEM - O - - - - - - - - - - - - -
+             PARTNER - - X - - - - - - - - - - - -
+               REPOS - - X - - - - - - - - - - - -
+              CENTER - - - - X - - - - - - - - - -
+            APTITUDE - - - - - - X - - - - S - - -
+               THERE - - - - - - - X - - - - - - -
+          DIFFERENCE - - - - - - - X - - - - - - -
+                 USE - - - - - - - - S - - - - - -
+                 GUI - - - - - - - - - - - O - - -
+             APT-GET - - - - - - - - - - - - S - -
+                 APT - - - - - - - - - - - - S - -
+               ERROR - - - - - - - - - - - - X - -
+             MESSAGE - - - - - - - - - - - - X - -
+                  OK - - - - - - - - - - - - - - S
+CXT5045_LAPTOP_HPSENSE - - - - - - - - - - - - - - X
+                FILE - - - - - - - - - - - - - - X
+               -RSB- - - - - - - - - - - - - - - S
+/ETC/MODPROBE.D/ALSA-BASE.CONF - - - - - - - - - - - - - - S
+                LINE - - - - - - - - - - - - - - O
+             OPTIONS - - - - - - - - - - - - - - X
+MODEL=LAPTOP-HPSENSE - - - - - - - - - - - - - - X
+              REBOOT - - - - - - - - - - - - - - X

@@ -1,0 +1,13 @@
+           PARTITION X - - - - -
+             UBUNTU/ X - - - - -
+              KERNEL - X - - - -
+              MODULE - O - - - -
+                TYPE - O - - - -
+                FILE - X - - - -
+              SYSTEM - X - - - -
+             POSTFIX - - O - - -
+                MAIL - - X - - O
+              SERVER - - X - - -
+             MESSAGE - - - X - -
+           FETCHMAIL - - - X - S
+      SMTP.GMAIL.COM - - - X - -

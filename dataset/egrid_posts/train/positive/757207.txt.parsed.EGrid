@@ -1,0 +1,19 @@
+                BOOT X - - - - X
+               LOGIN - O - - - -
+                MENU - - X O O -
+              NORMAL - - X - - -
+                 ONE - - X - - -
+                 OHH - - X - - -
+               GRUB2 - - - X - -
+   /ETC/DEFAULT/GRUB - - - X - -
+              CHANGE - - - X - -
+GRUB_CMDLINE_LINUX_DEFAULT=TEXT - - - X - -
+         UPDATE-GRUB - - - O - -
+/ETC/GRUB.D/40_CUSTOM - - - X - -
+              CUSTOM - - - X - -
+                GRUB - - - X - -
+               ENTRY - - - S - -
+         GRUB-UPDATE - - - O - -
+             SERVICE - - - - X -
+                STOP - - - - X -
+             ANOTHER - - - - - S

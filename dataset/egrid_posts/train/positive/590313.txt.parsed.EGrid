@@ -1,0 +1,29 @@
+                STAB O - - - - -
+                TIME - X - - X O
+              SERVER - X - - - X
+              CLIENT - X - - - X
+               ISSUE - X - - - -
+                  .. - O - - - -
+                 RPC - - X - - -
+               ERROR - - X - - -
+             PROGRAM - - S - - -
+             COMMAND - - X - - -
+                SUDO - - - S X -
+         192.168.0.3 - - - O - -
+/MEDIA/MAGI/DOWNLOAD/ - - - X - -
+/MEDIA/ARCHIVE/DOWNLOAD - - - - S -
+192.168.0.5/255.255.255.255.0 - - - - X -
+                  RO - - - - X -
+               ASYNC - - - - X -
+       SUBTREE_CHECK - - - - X -
+       CONFIGURATION - - - - X -
+              DEVICE - - - - X -
+                 ONE - - - - O -
+             NETMASK - - - - S -
+                 SEC - - - - S -
+            EXPORTFS - - - - O -
+/ETC/INIT.D/NFS-WHATEVER - - - - S -
+               THOSE - - - - - O
+              REBOOT - - - - - O
+              RESULT - - - - - S
+                SAME - - - - - O

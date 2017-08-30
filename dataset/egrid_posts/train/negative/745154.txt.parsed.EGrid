@@ -1,0 +1,17 @@
+             NETWORK X - - -
+               SHARE O O - -
+ /ETC/SAMBA/SMB.CONF X - - -
+               THERE S - - -
+              SCRIPT O - - -
+       CONFIGURATION O - - -
+             PACKAGE O - - -
+              ERRORS O - - -
+              SYNTAX X - - -
+               SAMBA - X X -
+               10.04 - X - -
+                 USE - - X -
+             UPSTART - - S -
+                SUDO - - S -
+                  » - - O -
+                NMBD - - X -
+            APTITUDE - - - S

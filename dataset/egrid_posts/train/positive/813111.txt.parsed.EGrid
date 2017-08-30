@@ -1,0 +1,36 @@
+                 KEY S - - - - - - - -
+                SUDO X - - - - - - - -
+             APT-KEY X - - - - - - - -
+                 ADV S - - - - - - - -
+           KEYSERVER X - - - - - - - -
+KEYSERVER.UBUNTU.COM S - - - - - - - -
+                   < S - - - - - - - -
+               -THIS S - - - - - - - -
+              NUMBER O - - - - - - - -
+           NO_PUBKEY O - - - - - - - -
+             SOMEONE S - - - - - - - -
+               ISSUE O - - - - - - - -
+                   * X - - - - - - - -
+                SIGH X - - - - - - - -
+               SPLIT O - - - - - - - -
+                FILE X - - - - - - - -
+                 ISO O - - - - - - - -
+             PROBLEM S - - - - - - - -
+                THAT - S - - - - - - -
+               RIGHT - X - - - - - - -
+                 BUG - - X O S O - - -
+              REPORT - - X - - - - - -
+                PLUG - - - S - - - - -
+               YEARS - - - X - - - - -
+              REASON - - - - O - - - -
+                 ONE - - - - O - - - -
+               LINUX - - - - - S - - -
+             VANILLA - - - - - X X - -
+              KERNEL - - - - - O X - -
+               10.10 - - - - - - O - -
+               PATCH - - - - - - X - -
+                HTTP - - - - - - - - X
+//KERNEL.UBUNTU.COM/~KERNEL-PPA/MAINLINE/ - - - - - - - - S
+             HEADERS - - - - - - - - O
+             DRIVERS - - - - - - - - O
+              NVIDIA - - - - - - - - X

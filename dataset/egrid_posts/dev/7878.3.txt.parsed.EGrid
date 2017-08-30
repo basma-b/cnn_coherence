@@ -1,0 +1,20 @@
+/VAR/LOG/DIST-UPGRADE/20120528-0450/MAIN.LOG X X - -
+/VAR/LOG/DIST-UPGRADE/20120528-0450/APT.LOG X X - -
+                PLAN O - - -
+                GOAL - O - -
+              MUELLI - - S -
+             PROBLEM - - O -
+             VERSION - - X -
+                 BED - - X -
+/ETC/APT/SOURCES.LIST - - O -
+                SUDO - - S -
+             APT-GET - - S -
+              OUTPUT - - X -
+                HTTP - - O -
+//PASTE.UBUNTU.COM/1010665/ - - X -
+                  -R - - O -
+                LINE - - S -
+                TYPE - - X -
+                  MV - - X -
+/ETC/APT/SOURCES.LIST.BAK - - S -
+//PASTE.UBUNTU.COM/1010678/ - - S -

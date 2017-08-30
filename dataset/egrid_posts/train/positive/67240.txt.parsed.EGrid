@@ -1,0 +1,16 @@
+                FILE X - - -
+         NDISWRAPPER O O O -
+               LSPCI - S - -
+            WIRELESS - X - -
+                CARD - S - -
+            BROADCOM - O - -
+             NETWORK - X - -
+          CONTROLLER - X - -
+         CORPORATION - X - -
+              DEVICE - X - -
+                 INF - - X -
+              KERNEL - - - S
+               HOARY - - - X
+                WORK - - - X
+                 DMA - - - X
+               ISSUE - - - O

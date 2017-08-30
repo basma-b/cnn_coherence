@@ -1,0 +1,22 @@
+              ANYONE S - - - - -
+                THIS O - - - - -
+        DIST-UPGRADE X - - - - -
+/USR/SBIN/DPKG-RECONFIGURE - X - - - -
+               BREAK - X O - - -
+                HTTP - X - - - -
+//PACKAGES.UBUNTU.COM/SEARCH - X - - - -
+   SEARCHON=CONTENTS - - X - - -
+    KEYWORDS=SYSLOGD - - S - - -
+  MODE=EXACTFILENAME - - X - - -
+        SUITE=JAUNTY - - X - - -
+            ARCH=ANY - - S - - -
+          CANDIDATES - - O - - -
+             PACKAGE - - X - - -
+           SOMETHING - - O - - -
+                SUDO - - X - - -
+             APT-GET - - S - - -
+         PACKAGENAME - - X - - -
+           CONFIGURE - - - S - -
+                  .. - - - - O -
+              THANKS - - - - - S
+   INETUTILS-SYSLOGD - - - - - S

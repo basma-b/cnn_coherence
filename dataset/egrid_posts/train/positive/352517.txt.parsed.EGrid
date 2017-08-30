@@ -1,0 +1,17 @@
+                CARD X X - - - - - - -
+             COMMAND - X - - - - - - -
+                NAME - X - - - - - - -
+                LSHW - - X - - - - - -
+               LSPCI - - O - - - - - -
+             WINDOWS - - O - - - - - -
+              SYSTEM - - X - - - - - -
+                ROOT - - - - X X - - -
+               LOGIN - - - - O X - - -
+                SELF - - - - O - - - -
+                SUDO - - - - - X - - -
+              PASSWD - - - - - S - - -
+            PASSWORD - - - - - O - - -
+   /ETC/GDM/GDM.CONF - - - - - O - - -
+                LINE - - - - - O - - -
+                HELP - - - - - - X - -
+              THINGS - - - - - - O - -

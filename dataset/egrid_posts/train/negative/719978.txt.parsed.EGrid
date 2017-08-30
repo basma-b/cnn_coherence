@@ -1,0 +1,9 @@
+              SERVER O - - - -
+                DISK O - - - -
+               FSTAB - X - - -
+           /ETC/MTAB - O - - -
+          FILESYSTEM - X - - -
+               DRIVE - - X - -
+              EXPERT - - - - O
+           SOMETHING - - - - O
+           XORG.CONF - - - - X

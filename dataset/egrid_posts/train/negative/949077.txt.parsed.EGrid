@@ -1,0 +1,16 @@
+               THERE S - - - -
+                 WAY O - - - -
+               GNOME O - - - -
+                 CPU - X - - -
+              1.5GHZ - - X - -
+             PENTIUM - - X - -
+              MOBILE - - X - -
+              MATTER - - - X -
+/ETC/SSH/SSHD_CONFIG - - - O -
+       X11FORWARDING - - - O -
+                 YES - - - X -
+                SSHD - - - O -
+              SERVER - - - X -
+                 ALL - - - - S
+               HOWTO - - - - X
+     /ETC/INIT.D/SSH - - - - X

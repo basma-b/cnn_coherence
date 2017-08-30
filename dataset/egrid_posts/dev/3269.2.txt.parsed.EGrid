@@ -1,0 +1,9 @@
+        RELATIONSHIP O - - - -
+                XORG X - - - -
+                 GDM X - - - -
+               GNOME X - - - -
+             DESKTOP - - X - -
+                 ENV - - O - -
+              SERVER - - X - -
+                 SSH - - - - X
+               AGENT - - - - X

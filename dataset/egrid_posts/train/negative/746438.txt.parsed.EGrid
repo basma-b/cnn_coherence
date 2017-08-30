@@ -1,0 +1,17 @@
+                 RUN O X - - - - -
+                 XEN X - - - - - -
+                DOMU X - - - - - -
+                ROOT X - - - - - -
+          FILESYSTEM S - - - - - -
+          /SBIN/INIT O - - - - - -
+                BOOT - O - - - - -
+          BREAK=INIT - X - - - - -
+              PROMPT - O - - - - -
+        /ROOT/BIN/SH - S - - - - -
+             /BIN/SH - - X - - - -
+                SUDO - - - - - X -
+             APT-GET - - - - - X -
+            INKSCAPE - - - - - X -
+             PACKAGE - - - - - O -
+         LIBSVG-PERL - - - - - - X
+     LIBXML-XQL-PERL - - - - - - X

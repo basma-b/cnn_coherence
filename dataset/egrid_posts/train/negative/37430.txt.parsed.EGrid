@@ -1,0 +1,16 @@
+              PEOPLE S - - - - -
+              KERNEL X - - - - -
+                .DEB O - - - - -
+      KERNEL-PACKAGE S - - - - -
+                SAME O - - - - -
+           MAKE-KPKG S - - - - -
+                CALL X - - - - -
+             PACKAGE X - - - - -
+                NAME X - - - - -
+                DOCS - O - - - -
+/USR/SHARE/DOC/KERNEL-PACKAGE - X - - - -
+                 TIP - X - - - -
+                   < - - - X - -
+    PATH-TO-FILENAME - - - X - -
+                   > - - - S - -
+ LIBXINE-EXTRACODECS - - - - - O

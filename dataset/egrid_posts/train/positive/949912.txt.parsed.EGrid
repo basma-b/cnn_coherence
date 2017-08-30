@@ -1,0 +1,10 @@
+                 MP3 X - - -
+                HTTP - X - X
+                 THX - X - -
+                SUDO - - X -
+             APT-GET - - S -
+GSTREAMER0.8-PLUGINS - - O -
+    GST-REGISTER-0.8 - - S -
+/ETC/APT/SOURCES.LIST - - S -
+                COPY - - O -
+   EXTRAREPOSITORIES - - - O

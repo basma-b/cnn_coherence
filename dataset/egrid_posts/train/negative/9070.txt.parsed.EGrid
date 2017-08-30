@@ -1,0 +1,23 @@
+               THERE X - - - -
+              KERNEL X - - X -
+              LATEST - - O - -
+          KERNEL.ORG - - X - -
+                  OK - - X - -
+              SYSTEM - - - X -
+                  .. - - - O -
+               PATCH - - - O -
+              SOURCE - - - O -
+                HTTP - - - O -
+//SECURITYTRACKER.COM/ALERTS/2004/NOV/1012165.HTML - - - S -
+              AUTOFS - - - S -
+                FILE - - - O -
+                LINE - - - S -
+    /ETC/AUTO.MASTER - - - X -
+              THINGS - - - O -
+                 USE - - - X -
+                CIFS - - - X -
+               SMBFS - - - X -
+              THANKS - - - S S
+        -FSTYPE=CIFS - - - X -
+CREDENTIALS=/HOME/USERNAME/.CREDENTIALS.TXT - - - X -
+              SERVER - - - X -

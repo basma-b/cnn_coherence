@@ -1,0 +1,10 @@
+            IPTABLES S - - -
+               INPUT X - - -
+                  -S O - - -
+                  -M - S - -
+                DROP - X - -
+              THANKS - O - -
+                SUDO - - - X
+             APT-GET - - - S
+             G++-4.7 - - - O
+             PACKAGE - - - X

@@ -1,0 +1,16 @@
+             PATTERN O - - - - -
+             EXAMPLE X - - - - -
+                THAT - S - - - -
+                FILE - X - - - -
+                NAME - O - - - -
+                 GCC - S - - - -
+                  .. - X - - - -
+              FOLDER - X - - - -
+                CASE - X - - - -
+                WORK - O - - - -
+                   | - - - - X -
+                PIPE - - - - O -
+              SYMBOL - - - - X -
+              SYSTEM - - - - X -
+                XORG - - - - O -
+                 ETC - - - - X -

@@ -1,0 +1,15 @@
+                MASS X - -
+              SENDER S - -
+                  VB X - -
+          CONNECTION - S -
+               CABLE - S -
+             NETWORK - X -
+             MANAGER - O -
+            ANYTHING - O -
+                BOOT - X -
+             COMMAND - - X
+                LINE - - X
+                SUDO - - O
+            IFCONFIG - - O
+             RESTART - - X
+            WIRELESS - - S

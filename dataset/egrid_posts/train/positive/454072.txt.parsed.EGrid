@@ -1,0 +1,10 @@
+                HELP X - - - - - -
+          POSTGRESQL - X - - - - -
+              DAEMON - S - - - - -
+              BOOTUP - X - - - - -
+             PROBLEM - - X - - - -
+                 LOG - - - X - - -
+               WHICH - - - - X - -
+              SYSLOG - - - - - X -
+                WORD - - - - - - S
+     /VAR/LOG/SYSLOG - - - - - - X

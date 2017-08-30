@@ -1,0 +1,11 @@
+            MODPROBE O X -
+              MODULE S O -
+                LOAD O - -
+               ISSUE O - -
+               SOUND X - S
+                SUDO - X -
+       SND-HDA-INTEL - X -
+               RMMOD - X -
+          HEADPHONES - - X
+                FOMR - - X
+            SPEAKERS - - S

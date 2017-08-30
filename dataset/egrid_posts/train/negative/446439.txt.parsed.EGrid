@@ -1,0 +1,16 @@
+             DISPLAY X - -
+                 DIM S - -
+              BOOTUP X - -
+                 IVE X - -
+            ACPI=OFF O - -
+              KERNEL X - -
+               ISSUE O - -
+              SECOND X - -
+                LOAD X - -
+              SCREEN X - -
+              NOAPIC O - -
+                  .. - - X
+                LINK - - O
+                HTTP - - O
+//UBUNTUGUIDE.ORG/WIKI/UBUNTU - - O
+HOW_TO_INSTALL_FLASH_PLAYER_.28MACROMEDIA_FLASH.29_PLUG-IN_FOR_MOZILLA_FIREFOX - - O

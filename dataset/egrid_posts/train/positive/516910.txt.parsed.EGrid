@@ -1,0 +1,9 @@
+          FILESYSTEM X - -
+            HARDDISK X - -
+                BOOT X - -
+              LIVECD X - -
+                SUDO - S X
+                DISK - S -
+               MOUNT - O -
+            /DEV/HDA - X X
+              UMOUNT - - X

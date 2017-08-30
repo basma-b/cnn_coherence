@@ -1,0 +1,16 @@
+             DEFAULT X - - - -
+             ACCOUNT X - O - -
+                 LOG X - - - -
+     ANONYMOUS/GUEST X - - - -
+               SHARE X - X - -
+              UBUNTU X - - - -
+         GUEST/GUEST - X - - -
+     AUTHETIFICATION - - X - -
+              ERRORS - - O - -
+               GUEST - - X - -
+                   / - - S - -
+            SMB.CONF - - O - -
+              LOGINS - - S - -
+                PASS - - - - X
+            DATABASE - - - - O
+          EVERYTHING - - - - O

@@ -1,0 +1,16 @@
+             MACHINE S - - - - - - -
+             NETWORK X X - - - - - X
+             SERVICE - S - - - - X -
+           LOCALHOST - X - - - - - -
+                 PCS - X - - - - - -
+                 SSH - - S - - - - -
+                HOST - - O - - - - -
+                  .. - - - X - - - O
+              ADVICE - - - X - - - -
+            FIREWALL - - - - O - S -
+            IPTABLES - - - - - S S -
+                  -N - - - - - O - -
+               THERE - - - - - X - -
+                DROP - - - - - - X -
+                THIS - - - - - - O O
+               STUFF - - - - - - - X

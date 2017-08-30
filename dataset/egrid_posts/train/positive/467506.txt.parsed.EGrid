@@ -1,0 +1,12 @@
+            IPTABLES S X X - -
+             TRAFFIC O - - - -
+                RULE X - - - -
+                DROP - O - - -
+              MOMENT - X - - -
+               INPUT - S - - -
+              POLICY - X - - -
+                NAME - X - - -
+            MANPAGES - - O - -
+             SECTION - - O - -
+              TARGET - - X - -
+               THANK - - - - X

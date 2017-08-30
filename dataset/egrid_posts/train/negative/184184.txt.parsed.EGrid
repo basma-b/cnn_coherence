@@ -1,0 +1,20 @@
+              DEVICE X - - - - - - -
+           /DEV/SDA1 O - - - - - - -
+           OPERATION X - - - - - - -
+             SUPPORT X - - - - - - -
+             WINDOWS S X - - - - - -
+              VOLUME - O - - - - - -
+               MOUNT - - S - - - - -
+                FUSE - - - X - - - -
+                WORK - - - X - - - -
+               DRIVE - - - X - - - -
+                BETA - - - - X - - -
+                TEST - - - - X - - -
+             NTFS-3G - - - - O - - -
+                ERRM - - - - - - X -
+                HTTP - - - - - - X -
+//PACKAGES.UBUNTU.COM/SEARCH - - - - - - X -
+   SEARCHON=CONTENTS - - - - - - - X
+        KEYWORDS=LEX - - - - - - - X
+  MODE=EXACTFILENAME - - - - - - - X
+         SUITE=GUTSY - - - - - - - X

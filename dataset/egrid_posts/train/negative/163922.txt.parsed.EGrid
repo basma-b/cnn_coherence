@@ -1,0 +1,8 @@
+             PROGRAM X - -
+                 NET O - -
+             MACHINE - O -
+                 TRY - - X
+                SUDO - - X
+               CHMOD - - X
+               OG+RW - - S
+/ETC/UDEV/RULES.D/40-BASIC-PERMISSIONS.RULES - - O

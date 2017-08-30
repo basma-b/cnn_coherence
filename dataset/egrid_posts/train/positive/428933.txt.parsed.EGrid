@@ -1,0 +1,25 @@
+              SCRIPT O O S - X - - - - -
+                TEST X - - - - - - X - -
+          FILESYSTEM X - - - - - - - - -
+              CHROOT X - - - - X - - - -
+                USER - X X - - - - - - -
+                 UID - O X - - - - - - -
+                SUID - - O - - - X X - -
+                  PS - - X - - - - - - -
+                  -O - - S - - - - - - -
+               FNAME - - X - - - - - - -
+                   | - - O - - - - - - -
+             TEST.SH - - X - - - - - - -
+               OWNER - - X - - - - - - -
+              ANYONE - - - X - - - - - -
+          EXECUTABLE - - - - - O - - - -
+     /USR/SBIN/SSMTP - - - - - X - - - -
+                MAIL - - - - - O - - - -
+              INSIDE - - - - - X - - - -
+                FILE - - - - - - O - - -
+           USER/PASS - - - - - - O - - -
+         INFORMATION - - - - - - X - - -
+          MAILSERVER - - - - - - X - - -
+              OTHERS - - - - - - S - - -
+/ETC/SSMTP/SSMTP.CONF - - - - - - - O - -
+               FRESH - - - - - - - - - S

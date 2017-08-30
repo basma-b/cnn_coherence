@@ -1,0 +1,9 @@
+         PERMISSIONS X X - - -
+                USER - X - - -
+               GROUP - X - - -
+           DIRECTORY - X S - -
+             ANOTHER - X - - -
+               CHMOD - - - X -
+               THATS - - - - S
+               BASIS - - - - O
+                  .. - - - - X

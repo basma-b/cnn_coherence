@@ -1,0 +1,11 @@
+                  HI O - - - -
+                GRUB O - - - -
+                  CD X - - - -
+                ROOT - X - - -
+          FILESYSTEM - S - - -
+                LIST - X - - X
+DEV/DISCS/DISC0/PARTX - X - - -
+           PARTITION - - S - -
+           /DEV/HDA6 - - X X -
+            /DEV/HDA - - - X -
+              PROMPT - - - - O

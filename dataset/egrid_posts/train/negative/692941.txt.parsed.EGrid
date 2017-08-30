@@ -1,0 +1,21 @@
+               ERROR S - - -
+    MYSQL-SERVER-5.0 O - - -
+                HTTP O - - -
+//PASTE.UBUNTU.COM/401178/ O - - -
+                 5.1 S - - -
+                 5.0 X - - -
+               CAUSE O - - -
+               MYSQL X X - -
+            DATABASE X - - -
+              SERVER X X - -
+              REPORT - S - -
+             MESSAGE - X - -
+              SOCKET - X S -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK - X - -
+              CONFIG - - X -
+             ADDRESS - - X -
+                IDEA - - O -
+                SUDO - - - X
+               FDISK - - - X
+                  -L - - - S
+             NOTHING - - - O

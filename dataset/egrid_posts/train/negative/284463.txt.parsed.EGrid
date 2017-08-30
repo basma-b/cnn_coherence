@@ -1,0 +1,11 @@
+                ROUT O - S -
+              UBUNTU X - - -
+             EXAMPLE - X - -
+               ROUTE - S - -
+       172.20.0.0/14 - O - -
+        172.20.1.254 - X - -
+/ETC/NETWORK/INTERFACES - - X -
+         PERMISSIONS - - - X
+          OWNERSHIPS - - - O
+          FILES/DIRS - - - X
+               DRIVE - - - X

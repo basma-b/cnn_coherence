@@ -1,0 +1,21 @@
+               11.04 X - - - - -
+   USERNAME/PASSWORD O - - - - -
+               SAMBA - X - S - -
+             DEFAULT - X - - - -
+              CONFIG - S - - - -
+            SECURITY - X - - - -
+                USER - O - - - -
+             ACCOUNT - S - - - -
+               USERS - - O - - -
+           SMBPASSWD - - X - - -
+              DOESNT - - - X - -
+           PASSWORDS - - - X - -
+                SYNC - - - O - -
+                 YEA - - - - - X
+                 SEC - - - - - X
+  /YOUR/SCRIPT/FILE/ - - - - - S
+           ~/DESKTOP - - - - - X
+              FOLDER - - - - - X
+              SCRIPT - - - - - S
+COMPIZ-CONFIGURATION - - - - - X
+           SOMETHING - - - - - O

@@ -1,0 +1,11 @@
+                HOUR X - - -
+                 BOX X - - -
+         CONNECTIONS O - - -
+      OPENSSH-SERVER - X - -
+      OPENSSH-CLIENT - S - -
+                SUDO - - X -
+                PATH - - O -
+           SOMETHING - - O -
+                 SEE - - X -
+    /ETC/INIT.D/SSHD - - S -
+               TRICK - - O -

@@ -1,0 +1,17 @@
+              FOLDER O - - - - -
+            /VAR/RUN X S - - - X
+          FILESYSTEM - O - - - -
+                 ONE - - X - - -
+               STUFF - - - O - -
+                  IM - - - - X -
+                 RUN - - - - S -
+               MYSQL - - - - X -
+                USER - - - - X -
+              ACCESS - - - - O -
+                FILE - - - - O -
+                  .. - - - - X -
+     /VAR/RUN/MYSQLD - - - - O -
+     /USR/RUN/MYSQLD - - - - X -
+                ROOT - - - - - X
+               RIGHT - - - - - O
+         PERMISSIONS - - - - - O

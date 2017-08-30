@@ -1,0 +1,13 @@
+             PROCESS - - - O - - -
+             VERBOSE - - - X - - -
+             CRONTAB - - - - S - -
+                HOME - - - - X - -
+                 SET - - - - O - -
+                PATH - - - - O O -
+             COMMAND - - - - X - -
+                LINE - - - - X - -
+             NTPDATE - - - - - S -
+   /USR/SBIN/NTPDATE - - - - - X -
+               CHMOD - - - - - - X
+                  ED - - - - - - X
+          EXECUTABLE - - - - - - X

@@ -1,0 +1,15 @@
+           PARTITION X - - -
+                EXT3 X O X X
+              UBUNTU X - - -
+                EXT2 - X - -
+              FORMAT - X - -
+              OPTION - O - -
+        INSTALLATION - X - -
+                  CD - - X -
+            REISERFS - - S -
+              CHANGE - - O -
+              TUNEFS - - X -
+              KERNEL - - S S
+             SUPPORT - - O -
+              ACCORD - - - S
+             DEFAULT - - - O

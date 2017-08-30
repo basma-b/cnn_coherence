@@ -1,0 +1,12 @@
+           PARTITION O - -
+           TESTDDISK X - -
+                GRUB - S X
+            TESTDISK - S -
+                THIS - O -
+                BOOT - X -
+               ERROR - X -
+                  .. - X -
+            /DEV/HDA - O -
+                 HDA - O -
+                  CD - - X
+              EITHER - - S

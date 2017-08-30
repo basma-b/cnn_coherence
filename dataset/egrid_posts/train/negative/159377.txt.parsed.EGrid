@@ -1,0 +1,16 @@
+              SCRIPT X S S -
+            UBUNTERS X - - -
+                INIT - X X -
+             APT-GET - S - -
+                NEED - O - -
+ /ETC/INIT.D/APACHE2 - - S -
+                PART - - O -
+             PACKAGE - - S -
+                 CUP - - X -
+                CUPS - - O -
+                BASH - - - X
+                  CD - - - X
+      ./.GNOME-PANEL - - - X
+                FILE - - - X
+           DIRECTORY - - - S
+/ETC/BONOBO-ACTIVATION - - - X

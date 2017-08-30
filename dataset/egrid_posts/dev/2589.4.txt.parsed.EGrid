@@ -1,0 +1,24 @@
+            LOCATION X - - - - -
+                 MID X - - - - -
+             UPGRADE X - - - - -
+                 LTS X - - - - -
+               12.04 X - - - - -
+               MYSQL S - - - - -
+               ERROR X - - - - -
+              SERVER X - - - - -
+              SOCKET S - - - - -
+                 │ X - - - - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK X - - - - -
+   /ETC/MYSQL/MY.CNF X - - - - -
+                CANT S - - - - -
+           PASSWORDS - - O - - -
+                   > - - X - - -
+               USERS - - X - - -
+                USER - - S - - -
+            PASSWORD - - O - O -
+                HACK - - - X - -
+              FEDORA - - - - X -
+                 WAY - - - - O -
+               THERE - - - - S -
+              UBUNTU - - - - - S
+                 BUG - - - - - O

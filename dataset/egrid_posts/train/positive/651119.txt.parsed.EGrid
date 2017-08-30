@@ -1,0 +1,14 @@
+             SOMEONE X - - - - -
+                 MED S - - - - -
+             WINDOWS X - - - - -
+              FOLDER X - - - - -
+                 USE S S - - - -
+                  IM - S - - - -
+                SUDO - S - - - -
+                CIFS - S - - - -
+  USERNAME=SAMB_USER - O - - - -
+           SAMB_USER - X - - - -
+                ROOT - X - - - -
+              GKSUDO - - X - - -
+               DRIVE - - - O - -
+               SMBFS - - - X - X

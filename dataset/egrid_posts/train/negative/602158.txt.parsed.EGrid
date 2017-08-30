@@ -1,0 +1,18 @@
+          PHPMYADMIN O - - - -
+                BASE O - - - -
+              CONFIG - O - - -
+                ROOT - X - - -
+            PASSWORD - O - - -
+               MYSQL - X - - -
+           SOMETHING - S - - -
+               SETUP - O - - -
+            TERMINAL - X - - -
+               ERROR - O - - -
+          MYSQLADMIN - X - - -
+              SERVER - X X - -
+           LOCALHOST - X - - -
+              SOCKET - X - - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK - S - - -
+               CHECK - X - - -
+              MYSQLD - S - - -
+          FORBIDDENS - - - O -

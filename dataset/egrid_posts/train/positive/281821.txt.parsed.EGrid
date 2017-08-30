@@ -1,0 +1,33 @@
+            LOG_XXXX O - - - -
+              ERRORS X X - - -
+    /ETC/INIT.D/DBUS X - - - -
+LOG_ACTION_BEGIN_MSG X - - - -
+         INVOKE-RC.D O - - - -
+                DBUS S - - - -
+              ACTION S - - - -
+/ETC/DBUS-1/EVENT.D/22DHCDBD - X - - -
+      LOG_DAEMON_MSG - X X - -
+                DPKG - X - - -
+               ERROR - O - - -
+             PROCESS - X S - -
+              DHCDBD - X - - -
+           CONFIGURE - X - - -
+              SCRIPT - X - - -
+              RETURN - X - - -
+                EXIT - X - - -
+              STATUS - X - - -
+           ENCOUNTER - O - - -
+            ANYTHING - S - - -
+             STARTUP - - X - -
+              INSTAL - - X - -
+             PACKAGE - - X - -
+               START - - X - -
+                  -A - - O - -
+                DONT - - S - -
+              FOLLOW - - O - -
+              SYSTEM - - - - S
+                WORK - - - - O
+               WEEKS - - - - X
+                DAYS - - - - O
+               TODAY - - - - X
+            PROBLEMS - - - - O

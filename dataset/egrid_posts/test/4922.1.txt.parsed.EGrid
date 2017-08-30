@@ -1,0 +1,25 @@
+                  BE O - - - -
+               CHECK S - - - -
+         DIRECTORIES X - - - -
+                FILE X - - - -
+           DIRECTORY X - - X -
+               ~USER S - - - -
+              PARENT X - - - -
+~USER/.SSH/AUTHORIZED_KEYS X - - - -
+               OWNER X - - - -
+                SSHD S - - - -
+     AUTHORIZED_KEYS S - - - -
+          PERMISSION S - - - -
+               PASTE - S - - -
+               THING - X - - -
+         PERMISSIONS - - - O -
+                HOME - - - X -
+                TREE - - - O -
+                   / - - - X -
+           OWNERSHIP - - - S -
+                 KEY - - - - X
+              SERVER - - - - X
+              ADMINS - - - - X
+      AUTHENTICATION - - - - O
+              SYSTEM - - - - X
+       CONFIGURATION - - - - X

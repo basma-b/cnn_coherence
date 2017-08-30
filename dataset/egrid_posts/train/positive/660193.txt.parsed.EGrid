@@ -1,0 +1,14 @@
+              MEMORY X X X -
+               VIDEO X X X -
+                CARD S - - -
+       /PROC/CPUINFO - X - -
+                 COD - O - -
+               ERROR - O - -
+     VIDEOMEMORYSIZE - S - -
+                WINE - X - -
+                SIZE - O S -
+               PLACE - O - -
+            QUESTION - - O -
+             COMMAND - - O -
+                INFO - - O -
+             DISPLAY - - - O

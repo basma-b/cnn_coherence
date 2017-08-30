@@ -1,0 +1,13 @@
+                THIS X - - - - -
+         LIRC_ATIUSB X - - - - -
+             VERSION X - - - - -
+LIRC_UNREGISTER_PLUGIN X - - - - -
+              KERNEL X X - - - X
+               TAINT X - - - - -
+              SOURCE - X - - - -
+                PATH - X - - - -
+        /USR/SRC/FOO - - X - - -
+             PACAKGE - - - O - -
+              COURSE - - - X - -
+             HEADERS - - - O - O
+              MODULE - - - - - O

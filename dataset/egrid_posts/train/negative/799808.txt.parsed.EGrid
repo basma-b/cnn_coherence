@@ -1,0 +1,9 @@
+              TVTIME X S - - -
+                 SSH X X - - -
+             PACKAGE - O - - -
+        X-FORWARDING - O - - -
+                FILE - - S - -
+        XSERVER-XORG - - - S -
+         METAPACKAGE - - - O -
+              SOURCE - - - - X
+          X11-COMMON - - - - O

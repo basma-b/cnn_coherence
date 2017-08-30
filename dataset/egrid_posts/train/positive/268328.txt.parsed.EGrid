@@ -1,0 +1,10 @@
+              SERVER X - - -
+                ROOT S - X -
+              APACHE X X - O
+   /USR/LOCAL/APACHE - X - -
+                BOOK - X - -
+          HTTPD.CONF - O - -
+                PATH - O - -
+            LOCATION - - O -
+                SITE - - X -
+              HTDOCS - - X -

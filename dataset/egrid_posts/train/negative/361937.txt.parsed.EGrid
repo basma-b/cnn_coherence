@@ -1,0 +1,16 @@
+              FORMAT X - - - - -
+               DRIVE X - - - - -
+               FAT32 X - - - - -
+                LIST - O - - - -
+             MKDOSFS - S - - - -
+               ISSUE - X - - - -
+               FDISK - X - X - -
+                  -L - O - - - -
+             COMMAND - X - - - -
+                NTFS - O S - - X
+                DISK - - - - - X
+            UTILITYS - - - - - O
+              FOLDER - - - - - O
+              ACCESS - - - - - X
+               POINT - - - - - X
+           PARTITION - - - - - O

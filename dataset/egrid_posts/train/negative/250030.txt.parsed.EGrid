@@ -1,0 +1,21 @@
+                 ALL O - - - -
+              KERNEL O O - O -
+                 WAY X - - - -
+             PACKAGE - O - - -
+               ET.AL - X - - -
+                  .. - - X - -
+             OPTIONS - - X - -
+               TIMER - - X - -
+                FREQ - - X - -
+             PREEMPT - - X - -
+              SOURCE - - X - -
+       LINUX-KERNEL- - - O - -
+                  -R - - X - -
+               .ORIG - - X - -
+               .DIFF - - X - -
+                .DSC - - X - -
+               TWEAK - - - X -
+         MAKE-KERNEL - - - X -
+             DRIVERS - - - S -
+                HTTP - - - - X
+//PASTE.UBUNTULINUX.NL/297 - - - - X

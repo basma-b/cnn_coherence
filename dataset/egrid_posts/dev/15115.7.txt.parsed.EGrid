@@ -1,0 +1,14 @@
+                 DEB - - X -
+                HTTP - - O X
+            NON-FREE - - X -
+                SUDO - - X X
+                 TEE - - X -
+/ETC/APT/SOURCES.LIST.D/OPERA.LIST - - X -
+                WGET - - X -
+                  -O - - X -
+                   | - - - S
+//DEB.OPERA.COM/ARCHIVE.KEY - - - X
+             APT-KEY - - - O
+             APT-GET - - - S
+              UPDATE - - - O
+               OPERA - - - O

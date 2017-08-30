@@ -1,0 +1,36 @@
+            IPTABLES X - - - - - -
+            WIRELESS X - - - - - -
+                CARD X - - - - - -
+                  PC X - - - - - -
+           INTERFACE X - - - - - -
+                THIS S - - - - - -
+              SCRIPT O - - - - - O
+//PASTEBIN.CA/2000429 S - - - - - -
+             FORWARD - O - - - - -
+               CHECK - O - - - - -
+                PATH - O - - - - -
+                 CAT - X - - - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - X - - - - -
+              RETURN - X - - - - -
+           DIRECTION - X - - - - -
+               OTHER - X - - - - -
+             TRAFFIC - X - S O - -
+              OUTPUT - - S - - - -
+             DEFAULT - - X - - - -
+                LINE - - O - - - -
+             INVERSE - - X - - - -
+         IN-INTERACE - - O - - - -
+      -OUT-INTERFACE - - O - - - -
+                THAT - - - X S - -
+           PROBABLYI - - - S - - -
+             PACKETS - - - S - - -
+             MACHINE - - - X - - -
+              BRIDGE - - - - X - -
+            FIREWALL - - - - O - -
+               THERE - - - - S - -
+             METHODS - - - - O - -
+                RULE - - - - O - -
+              INSIDE - - - - O - -
+             OUTSIDE - - - - X - -
+              FORUMS - - - - - - X
+             SUCCESS - - - - - - O

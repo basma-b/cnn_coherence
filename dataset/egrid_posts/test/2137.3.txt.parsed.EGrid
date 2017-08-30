@@ -1,0 +1,10 @@
+          FILESYSTEM O S - -
+               FAT32 O O - -
+               FDISK - X - -
+                  -L - S - -
+             NETWORK - - - X
+                CARD - - - X
+               THING - - - S
+                 LIE - - - O
+                NDIS - - - S
+             DRIVERS - - - X

@@ -1,0 +1,14 @@
+               FAULT O - - - - - -
+      /ETC/MOTD.TAIL - X - - - - -
+                FILE - O - - - - -
+              BACKUP - - X - - - -
+              SWITCH - - - - X - -
+             WINDOWS - - - - - O -
+              SCREEN - - - - - X O
+            INSTANCE - - - - - - O
+                 ONE - - - - - - O
+NAME_OF_SCREEN_INSTANCE - - - - - - X
+                 ETC - - - - - - X
+                  .. - - - - - - X
+              COLUMN - - - - - - X
+              OUTPUT - - - - - - X

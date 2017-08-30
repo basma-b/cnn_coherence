@@ -1,0 +1,10 @@
+                 ALL O - - - -
+/ETC/SQUID/SQUIDGUARD.CONF O - - - -
+                TEST S - - - -
+                 ANY - S - - -
+                CANT - - X - -
+                SUDO - - - X -
+                  VI - - - S -
+               ORDER - - - - X
+              EFFECT - - - - X
+            ANYTHING - - - - X

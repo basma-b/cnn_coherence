@@ -1,0 +1,17 @@
+                 SET X - -
+GREETER-HIDE-USERS=TRUE S - -
+        SEATDEFAULTS X - -
+             SECTION X - -
+               COMBO O - -
+                WORK S - -
+       UNITY-GREETER X - -
+             LIGHTDM O - -
+/ETC/LIGHTDM/LIGHTDM.CONF X - -
+              CHANGE X - -
+              EFFECT O - -
+                SUDO S - -
+                 THX - S -
+               MINUT - X -
+        GREETER-HIDE - O -
+              LOGGIN - - X
+        LIGHTDM.CONF - - O

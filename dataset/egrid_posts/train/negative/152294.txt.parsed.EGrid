@@ -1,0 +1,16 @@
+          BOOTLOADER - - X - - - -
+            /DEV/HDX - - - S - - -
+           HARDDRIVE - - - S - - -
+             WINDOWS - - - X - - -
+                 MBR - - - O - - -
+                  IP - - - X - - -
+                ETH0 - - - X - - -
+      192.168.15.100 - - - - O - -
+              ANYONE - - - - X - -
+              ETH0:1 - - - - - O -
+/ETC/NETWORK/INTERFACES - - - - - X -
+                   * - - - - - X -
+               ERROR - - - - - S -
+             ADDRESS - - - - - O -
+               FLASH - - - - - - X
+               BLOCK - - - - - - X

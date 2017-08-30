@@ -1,0 +1,16 @@
+           PARTITION X - - - -
+             VERSION O - - - -
+              UBUNTU X - - S S
+                9.04 - S - - -
+                  CD - S - - -
+              FEDORA - X - - -
+                EXT4 - S - - -
+                BITE - X - - -
+              KERNEL - X - - -
+                REPO - X - - -
+              UPDATE - X - - O
+                 YES - X - - -
+                 LVM - - - O -
+             PACKAGE - - - O -
+              2.6.30 - - - - S
+            SECURITY - - - - X

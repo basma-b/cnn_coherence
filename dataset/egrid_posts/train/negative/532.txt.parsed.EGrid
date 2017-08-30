@@ -1,0 +1,10 @@
+               THERE X - - -
+              OPTION X - - -
+        GROUPINSTALL - X - -
+               GNOME - X - -
+              DEPEND - - X -
+        METAPACKAGES - - O -
+                 ONE - - O -
+             APT-GET - - - X
+                SUDO - - - X
+                  -F - - - S

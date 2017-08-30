@@ -1,0 +1,20 @@
+        INSTRUCTIONS O - - - -
+      SUSPEND-TO-RAM O - - - -
+                WORK O - - - -
+              NVIDIA X - - - -
+                CARD X - - - -
+               HTTPS X - - - -
+//WIKI.UBUNTU.COM/NVIDIALAPTOPBINARYDRIVERSUSPEND X - - - -
+              BUTTON O - - - -
+                ECHO - - X - -
+                 MEM - - X - -
+                   | - - X - -
+                SUDO - - X - -
+                 TEE - - X - -
+    /SYS/POWER/STATE - - S - -
+             COMMAND - - X - -
+                  IM - - - - S
+             STARTUP - - - - X
+             MANAGER - - - - O
+             SPLASHY - - - - O
+           BOOTSPLAH - - - - O

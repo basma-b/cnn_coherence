@@ -1,0 +1,16 @@
+             DNSMASQ S - - X - - -
+                 DNS O - - - - - -
+               12.04 X - - - - - -
+              SOCKET - - - O - - -
+                PORT - - - X - - -
+          PERMISSION - - - S - - -
+                SUDO - - - O - - X
+                 IDK - - - - X - -
+                FILE - - - - - S O
+        CONSEQUENCES - - - - - - S
+                  IM - - - - - - O
+             OPTIONS - - - - - - X
+               UUIDS - - - - - - S
+               BLKID - - - - - - O
+   UUID=BLAHBLAHBLAH - - - - - - X
+            /DEV/SDA - - - - - - O

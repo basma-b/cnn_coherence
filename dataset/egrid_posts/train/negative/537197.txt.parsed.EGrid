@@ -1,0 +1,11 @@
+           PARTITION O O - -
+               DRIVE S - - -
+                 HFS S - - -
+               BLOCK X - - -
+            HFSPROGS X - - -
+             PACKAGE O - - -
+             GPARTED - S - -
+                HTTP - S - -
+         ASSOCIATION - - X -
+                THAT - - - O
+                 TRY - - - X

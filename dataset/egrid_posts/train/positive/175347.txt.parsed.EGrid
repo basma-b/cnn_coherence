@@ -1,0 +1,17 @@
+          DIFFERENCE X - - - - - -
+                 RUN X - - - - - -
+              SERVER X - - - - - -
+              DAEMON X - - - - - -
+                 WAY X - - - - - -
+               INETD X O - - - - -
+              XINETD X - - - - - -
+            POLICIES - O - - - - -
+              ACCESS - O - - - - -
+                WHAT - O - - - - -
+             CONTROL - O - - - - -
+            IPTABLES - - O - - - -
+            FIREWALL - - - X - - -
+                RULE - - - S - - -
+             PURPOSE - - - X - - -
+               THERE - - - - X - -
+                 YES - - - - - - X

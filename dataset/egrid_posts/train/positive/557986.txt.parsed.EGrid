@@ -1,0 +1,23 @@
+                LINE O - - - - -
+/ETC/APT/SOURCES.LIST X - - - - -
+                 THE - S - - - -
+              UPDATE - O - - - -
+             MESSAGE - O - - - -
+                   W - O - - - -
+                 GPG - X - - - X
+               ERROR - O - - - -
+                HTTP - O - - - -
+             RELEASE - O - - - -
+          SIGNATURES - S - - - -
+                 KEY - S X O - -
+           NO_PUBKEY - X - - - -
+                FILE - - - - O -
+             NOTHING - - - - X -
+           KEYSERVER - - - - - X
+KEYSERVER.UBUNTU.COM - - - - - X
+                   & - - - - - X
+              EXPORT - - - - - X
+               ARMOR - - - - - X
+                   | - - - - - X
+                SUDO - - - - - X
+             APT-KEY - - - - - S

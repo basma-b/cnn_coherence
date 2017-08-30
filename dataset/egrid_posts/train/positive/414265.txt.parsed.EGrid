@@ -1,0 +1,15 @@
+               ERROR O - - -
+             WARNING O - - -
+           CHARACTER O - - -
+           INTERFACE X - - -
+              ETH0:0 X - - -
+                  NO X - - -
+             ALIASES X - - -
+                   * - X - -
+                 TCP - - X X
+              OPTION - - O -
+                THIS - - - O
+            IPTABLES - - - X
+                 ARG - - - S
+             CONCEPT - - - O
+             TCP/UDP - - - O

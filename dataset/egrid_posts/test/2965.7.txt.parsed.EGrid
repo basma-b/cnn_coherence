@@ -1,0 +1,11 @@
+             DEFAULT X - - -
+                 NTP O X - -
+                THAT - O - -
+          NTPDEFAULT - X - -
+                TIME - - O -
+             NTPDATE - - S -
+                SYNC - - X -
+                LOAD - - - S
+              DEVICE - - - X
+                FILE - - - O
+               12.04 - - - X

@@ -1,0 +1,17 @@
+                   $ X - -
+             COMMAND X - -
+            MODPROBE - X -
+             SEN-SEQ - X -
+                ALSA - X -
+            SEQ_HW.C - X -
+        /DEV/SND/SEQ - S -
+                FILE - X -
+           DIRECTORY - X -
+             SND-SEQ - X -
+              MODULE - X -
+             SEN_SEQ - S -
+              SYNTAX - S -
+              RETURN - O -
+         SEN-SEQ-OSS - X -
+                 SEN - X -
+           APOLOGIES - - S

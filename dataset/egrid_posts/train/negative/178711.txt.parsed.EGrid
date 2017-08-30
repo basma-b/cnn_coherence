@@ -1,0 +1,22 @@
+   USERNAME/PASSWORD X - - - - -
+                CUPS X - - - - -
+                HTTP X - - - - -
+     //LOCALHOST:631 X - - - - -
+                ROOT - X - - - -
+             ACCOUNT - X - - - -
+            PASSWORD - X - - - -
+            NON-ROOT - - S - - -
+                 USE - - X X - -
+              SYSTEM - - O - - -
+                   > - - S - - -
+      ADMINISTRATION - - X - - -
+           INTERFACE - - X X - -
+               PRINT - - - X - -
+                TRAY - - - O - -
+         INFORMATION - - - S - -
+/USR/SHARE/DOC/CUPSYS/README.DEBIAN.GZ - - - X - -
+                TOOL - - - X - -
+                 WAY - - - - O -
+              BOTTOM - - - - X -
+            DOCUMENT - - - - X -
+              UBUNTU - - - - - O

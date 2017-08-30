@@ -1,0 +1,18 @@
+               CHART O - - - - - - -
+                 MAC - X - - - - - -
+            ADDRESSE - X - - - - - -
+/ETC/NETWORK/INTERFACES - - - X - - - -
+ /ETC/INIT.D/NETWORK - - - - X - - -
+                SUDO - - - - - - X -
+/ETC/INIT.D/NETWORKING - - - - - - X -
+            IFCONFIG - - - - - - X -
+                ETH0 - - - - - - X -
+                  HW - - - - - - S -
+   00:11:22:33:22:11 - - - - - - O -
+                BOOT - - - - - - X -
+                 OK. - - - - - - S -
+                  .. - - - - - - O -
+                HTTP - - - - - - X -
+//EN.WIKIBOOKS.ORG/WIKI/TRANSWIKI - - - - - - X -
+CHANGING_MAC_ADDRESSES - - - - - - X -
+             VERSION - - - - - - - O

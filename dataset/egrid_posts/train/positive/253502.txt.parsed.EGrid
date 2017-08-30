@@ -1,0 +1,16 @@
+                BOOT X - - - - -
+            RECOVERY X X - - - -
+                MODE X S - - - -
+                 VIM X - - - - -
+               FSTAB O - - - - -
+          PERMISSION O X - - X -
+                SUDO - O - - - -
+                ROOT - X - - - -
+                  VI - S - - - -
+                TEXT - X - - - -
+              EDITOR - S - - - -
+               ISSUE - - X - - -
+                 CAT - - - X X -
+          /ETC/FSTAB - - - X - -
+                NANO - - - - - X
+             SOMEONE - - - - - S

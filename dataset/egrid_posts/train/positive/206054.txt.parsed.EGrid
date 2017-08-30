@@ -1,0 +1,14 @@
+                THIS O - - - O -
+           CONFIGURE - - - X O -
+               ERROR - - - X O -
+                 X11 - - - X - -
+           LIBRARIES - - - X - -
+                 USE - - - - S -
+      X-INCLUDES=DIR - - - - S -
+     X-LIBRARIES=DIR - - - - S -
+               KINDA - - - - X -
+                 FIX - - - - X -
+           GDK_IMLIB - - - - X -
+             LIBRARY - - - - O -
+PYTHON-GDK-IMLIB-1.2 - - - - O -
+             PACKAGE - - - - - O

@@ -1,0 +1,10 @@
+              SERVER X X - -
+              CLIENT O - - -
+                 FTP - X - -
+             APT-GET - S - -
+              VSFTPD - S - -
+                SUDO - X - -
+    /ETC/VSFTPD.CONF - O - -
+                  IP - O - -
+            INTERNET - X - -
+       71.175.49.213 - - - X

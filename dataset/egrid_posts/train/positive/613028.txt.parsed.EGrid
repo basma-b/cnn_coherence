@@ -1,0 +1,16 @@
+        INSTALLATION - X - - - -
+         FRAMEBUFFER - O - - - -
+                 USE - X - - - -
+              UBUNTU - S X - - -
+                  CD - O X - - -
+                SUDO - - S - - -
+            MODPROBE - - S - - -
+                  -R - - X - - -
+               FBCON - - X - - -
+                BOOT - - X - - -
+              OPTION - - S - - -
+DEBIAN-INSTALLER/FRAMEBUFFER=FALSE - - S - - -
+                  -G - - O - - -
+                IDEA - - - X - -
+              ROUTER - - - - X -
+                MODE - - - - X -

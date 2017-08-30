@@ -1,0 +1,12 @@
+             COMMAND X - - - -
+                   > S - - S -
+            ANYTHING O O - - -
+            TERMINAL X X - X X
+                 LOG X - - - X
+                FILE - S - - -
+               THING - O - - -
+           SOMETHING - O - - -
+                  OK - X - - -
+              STDOUT - - - O -
+             PROGRAM - - - - S
+              STDERR - - - - X

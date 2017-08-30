@@ -1,0 +1,13 @@
+                RULE - O - - -
+           USB-DRIVE - O - - -
+              VOLUME - - S - -
+               MOUNT - - O - -
+                FILE - - X - -
+                NAME - - S - -
+           CHARACTER - - X - -
+                 SEE - - O - -
+                UDEV - - - S -
+           HAL/DEBUS - - - S -
+              DEVICE - - - X -
+                NODE - - - O -
+ UPDATE-ALTERNATIVES - - - - X

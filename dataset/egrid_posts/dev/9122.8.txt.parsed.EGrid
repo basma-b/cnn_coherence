@@ -1,0 +1,15 @@
+                HEAD X - - - -
+                  -N S - - - -
+              ROOTFS X - O - -
+                   % X - - - -
+                   / S - - - -
+                 VPS O - - - -
+                ARCH - O - - -
+               LINUX - O - - -
+                8.17 - O - - -
+            ANYTHING - - O - -
+                  .. - - X - -
+              UBUNTU - - X X -
+              OUTPUT - - X - -
+                SHOW - - X - -
+           /DEV/SDA1 - - O - -

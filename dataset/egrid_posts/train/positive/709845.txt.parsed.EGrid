@@ -1,0 +1,11 @@
+                 ALL O - -
+          PERMISSION O X -
+               ERROR O O -
+             COMMAND S - -
+/PROC/SYS/KERNEL/SHMALL O - -
+               SHARE X - -
+              MEMORY O - -
+              ANYONE X - -
+               IDEAS S - -
+                SUDO - O -
+                READ - - X

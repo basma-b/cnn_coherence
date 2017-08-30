@@ -1,0 +1,10 @@
+               ERROR S - -
+             ADDRESS S - -
+                 USE X - -
+           MAKE_SOCK X - -
+                BIND X - -
+          0.0.0.0:80 O - -
+             SOCKETS S - -
+                  TA S - -
+             0.0.0.0 - - S
+                  IP - - O

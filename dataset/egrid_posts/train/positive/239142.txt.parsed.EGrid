@@ -1,0 +1,17 @@
+              DEVICE S - - - - - - - X
+               CHECK - S - - - - - - -
+                 YES - O - - - - - - -
+                  RW - - O - - - - - -
+               GROUP - - X X S X - - -
+              OTHERS - - X - - - - - -
+             EXAMPLE - - - X - - - - -
+            /DEV/DSP - - - X - - - - -
+                ROOT - - - X - X - - -
+               AUDIO - - - X - - - - -
+         PERMISSIONS - - - - S - - - -
+               OWNER - - - - S - - - -
+             MEMBERS - - - - - S - - -
+                THAT - - - - - - X - -
+           DIRECTORY - - - - - - - - X
+           SOMETHING - - - - - - - - X
+              /MEDIA - - - - - - - - X

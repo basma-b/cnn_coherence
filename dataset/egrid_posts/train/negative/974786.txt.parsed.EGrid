@@ -1,0 +1,31 @@
+               LOGIC X - - - -
+             DESKTOP X - - - -
+                 BOX X - - - -
+             SERVERS O - - - -
+           SHOREWALL O - - - -
+                 DNS X - - - -
+          RESOLUTION O - - - -
+             FIREHOL O - - - -
+            FIREWALL S - - - -
+          EVERYTHING X - - - -
+                  .. - O - - -
+               DOZEN - O - - -
+                BOTH - O - - -
+                THIS - X - - -
+             APT-GET - X - - -
+          ASSUME-YES - S - - -
+              DRIVER - O - - -
+      WPA_SUPPLICANT - S S - -
+             NETWORK - X X - -
+          MANAGEMENT - X X - -
+           FRAMEWORK - S X - -
+               VALUE - - X - -
+/ETC/NETWORK/INTERFACES - - X - -
+                   * - - S - -
+ETC/NETWORK/INTERFACES - - X - -
+                FILE - - X - -
+             SENSORS - - S - -
+             PACKAGE - - X - -
+            INTEREST - - - - X
+             OPINION - - - - X
+                 ALL - - - - O

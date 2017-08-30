@@ -1,0 +1,18 @@
+/SYSDEPS/I386/ELF/START.S X - - - -
+             NOTHING O - - - -
+            REMINDER - X - - -
+          PROGRAMMER - X - - -
+                 GCC - S - - -
+                FILE - X - - -
+                CALL - X - - -
+               A.OUT - S - - -
+              OUTPUT - X - - -
+             ./A.OUT - X - - -
+              BINARY - S - - -
+           ASSEMBLER - X - - -
+             ACTUALY - X - - -
+                 ELF - X - - -
+            DEFFAULT - X - - -
+               WORLD - O - - -
+                  NO - - S - -
+               ERROR - - O - -

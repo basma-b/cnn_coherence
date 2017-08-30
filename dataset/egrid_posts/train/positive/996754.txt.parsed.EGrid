@@ -1,0 +1,13 @@
+               SETUP X - -
+                 BOX X - -
+              ROUTER X - -
+                 PCS X - -
+                   A - X -
+                 GUI - X -
+            FRONTEND - X -
+                TOOL - X -
+         FIRESTARTER - - O
+               ERROR - - S
+                FILE - - X
+/ETC/FIRESTARTER/INBOUND/ALLOW-SERVICE - - O
+           DIRECTORY - - X

@@ -1,0 +1,18 @@
+                GRUB X - -
+               ORDER O - -
+                OSES X - -
+                 THE - X -
+             DEFAULT - X -
+                  OS - O -
+              CHOICE - S -
+/BOOT/GRUB/GRUB.CONF - O -
+                FILE - S X
+              CONFIG - X X
+           GRUB.CONF - S -
+                   * - X -
+   /ETC/DEFAULT/GRUB - X -
+                LOOK - - O
+            QUESTION - - S
+                WELL - - X
+               11.04 - - X
+               11.10 - - X

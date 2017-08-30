@@ -1,0 +1,14 @@
+             COMMAND X - - - - - - -
+                 JDK X O - - - - - -
+              UPDATE - O - - - - - -
+                LIST - - S - - X - -
+             APT-GET - - - - - S - -
+              OUTPUT - - - - - X - -
+           OPERATION - - - - - X - -
+                SUDO - - - - - X - -
+                JAVA - - - - - X - -
+             PROGRAM - - - - - S - -
+             PACKAGE - - - - - O - O
+/USR/SBIN/DPKG-RECONFIGURE - - - - - - - X
+         RECONFIGURE - - - - - - - X
+                 ALL - - - - - - - X

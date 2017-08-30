@@ -1,0 +1,6 @@
+               GUEST S - - S
+         /HOME/GUEST O - - -
+             ADDUSER - - O -
+             DELUSER - - O -
+             USERDEL - - - X
+                USER - - - X

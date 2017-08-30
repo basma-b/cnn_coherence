@@ -1,0 +1,12 @@
+             COMMAND X - - - -
+              FOLDER X - - - -
+                FILE X - - O -
+                TEXT X - - - -
+                LINE X - - - -
+                THAT - O - - -
+                GREP - X X - -
+            LOCATION - - X - -
+              STRING - - X - -
+             PACKAGE - - - X -
+                 DIR - - - X -
+                  -B - - - - S

@@ -1,0 +1,25 @@
+             APACHE2 X - - - - - - - -
+             ANYBODY X - - - - - - - -
+                WORK - X - - X - - - -
+                LOAD - - X - - - - - -
+             STARTUP - - X X - X - - -
+               ERROR - - - X - - - X -
+              SCRIPT - - - X - S - - -
+                TYPE - - - - S - - - -
+ /ETC/INIT.D/APACHE2 - - - - X - - - -
+               START - - - - X - - - -
+              PROMPT - - - - S - - - -
+             COMMAND - - - - X O - - -
+            PASTEBIN - - - - - O - - -
+                TEXT - - - - - O - - -
+                 SEC - - - - - - X - -
+                HTTP - - - - - - X - -
+              STATUS - - - - - - X - -
+                LINE - - - - - - X X -
+    /VAR/LOG/APACHE2 - - - - - - X - -
+           DIRECTORY - - - - - - O - -
+                 LOG - - - - - - - O -
+              ACCESS - - - - - - - X -
+/VAR/LOG/APACHE2/ERROR.LOG - - - - - - - X -
+               BUNCH - - - - - - - - X
+                INFO - - - - - - - - X

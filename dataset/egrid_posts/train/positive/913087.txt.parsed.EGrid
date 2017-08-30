@@ -1,0 +1,10 @@
+              SYSTEM X - -
+            LANGUAGE X - -
+           INSTALLER X - -
+                SUDO - X -
+    DPKG-RECONFIGURE - X -
+             LOCALES - S -
+         TR_TR.UTF-8 - O S
+                CHAR - O -
+                 TTY - X -
+                EURO - - O

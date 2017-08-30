@@ -1,0 +1,25 @@
+               SAMBA X - - - - - - -
+             DAEMONS - O - - - - - -
+              ERRORS - X - - - - - -
+                TAIL - X - - - - - -
+                  -N - X - - - - - -
+     /VAR/LOG/SYSLOG - X - - - - - -
+              OUTPUT - - X - - - - -
+                 HMM - - X - - - - -
+             NOTHING - - X - - - - -
+               THERE - - X - - - - -
+            ANYTHING - - - X - - O -
+/VAR/LOG/SAMBA/SMBD.LOG - - - X - - - -
+               STUFF - - - - - S - -
+                HOME - - - - - X - -
+           OWNERSHIP - - - - - X - -
+              CHANGE - - - - - O - -
+             LIGHTDM - - - - - - S -
+              CONFIG - - - - - - X S
+                FILE - - - - - - S -
+        /ETC/LIGHTDM - - - - - - X -
+              PEOPLE - - - - - - O -
+                CANT - - - - - - X -
+       DOCUMENTATION - - - - - - O -
+             CONTROL - - - - - - - O
+/USR/LIB/ACCOUNTSSERVICE/ACCOUNTS-DAEMON - - - - - - - X

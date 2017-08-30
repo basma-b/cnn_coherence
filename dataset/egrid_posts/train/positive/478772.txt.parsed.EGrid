@@ -1,0 +1,9 @@
+             SERVICE X - - - - -
+                SUDO - X - - - -
+                SSHD - S - - - -
+           EXECUTION - S - - - -
+                PATH - X - - - -
+     /ETC/INIT.D/SSH - X - - - -
+      /USR/SBIN/SSHD - X - - - -
+               START - - O - - -
+                PORT - - O - - -

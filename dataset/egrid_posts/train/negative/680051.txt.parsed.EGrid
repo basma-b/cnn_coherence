@@ -1,0 +1,17 @@
+                  .. X - - - - - - - - O
+            QUESTION - O - - - - - - - -
+              OPTION - - O X - - - - - -
+                GRUB - - X - - - - - - -
+                BOOT - - - X - - - - - -
+             CHOICES - - - O - - - - - -
+                SHOW - - - X - - - - - -
+               IMAGE - - - - O - - - - -
+             KERNELS - - - - - O X - - -
+         UPDATE-GRUB - - - - - X - - - -
+                 WAY - - - - - - X - - -
+                   X - - - - - - - - X -
+                 APP - - - - - - - - O -
+                HOST - - - - - - - - X -
+                SSHD - - - - - - - - S -
+                HSOT - - - - - - - - - X
+              CLIENT - - - - - - - - - S

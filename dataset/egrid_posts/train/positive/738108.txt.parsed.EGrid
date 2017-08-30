@@ -1,0 +1,15 @@
+             DEFAULT X - - - - - - -
+              EDITOR X X - - - - - -
+            TERMINAL X - - - - - - -
+                THAT - X - - - - - -
+            VARIABLE - O - - - - - -
+             .BASHRC - X - - - - - -
+                 ^^^ - - X - - - - -
+             EDITOR= - - X - - - - -
+       /WHATPATH/VIM - - S - - - - -
+        /USR/BIN/VIM - - - S - - - -
+              EXPORT - - - O - X - -
+              SOURCE - - - - X - - -
+ EDITOR=/USR/BIN/VIM - - - - - S - -
+                MANY - - - - - O - -
+                 TEE - - - - - - X O

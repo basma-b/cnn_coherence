@@ -1,0 +1,25 @@
+        FOOMATIC-GUI O - - - - - - -
+              FORMAT X - - - - - - -
+             PRINTER X S X - - X - -
+                 URI X - - - - - - -
+                 SMB - X - X - - - -
+//HOSTNAME/PATH/TO/PRINTER - S - - - - - -
+                  .. - - X - - O - -
+             WINDOWS - - X - X - - -
+             MACHINE - - O - X - - -
+              FIGURE - - X - - - - -
+               SHARE - - S - - X - -
+                NAME - - X - X O - -
+             DESKJET - - X - - - - -
+              SYNTAX - - X - - - - -
+//192.168.1.103/DESKJET - - - X - - - -
+             CORRECT - - - X - - - -
+       192.168.1.103 - - - - O - - -
+             NETBIOS - - - - - X - -
+                HOST - - - - - X - -
+                WELL - - - - - X - -
+                   * - - - - - S - -
+              FOLDER - - - - - X - -
+                THAT - - - - - - S -
+         APPLICATION - - - - - - S -
+               PROXY - - - - - - O -

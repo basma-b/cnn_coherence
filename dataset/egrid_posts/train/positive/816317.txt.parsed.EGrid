@@ -1,0 +1,12 @@
+          FILESYSTEM S - - -
+                SUDO X - - -
+               FDISK X - - -
+               PRINT X - - -
+       PARTITION-IDS O - - -
+         FILESYSTEMS S - - -
+                  FS S - - -
+            /DEV/SDB O O - -
+               DRIVE X X - X
+           PARTITION X X - X
+                   M - - - X
+          DIFFERENCE - - - X

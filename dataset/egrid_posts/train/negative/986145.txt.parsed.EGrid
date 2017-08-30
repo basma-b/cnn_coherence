@@ -1,0 +1,14 @@
+                USER - X - - - - -
+             COMMAND - O - O - - -
+              SYSTEM - X - - - - -
+                TOOL - X - - - - -
+                MENU - X - - - - -
+              ANYONE - X - - - - -
+                ROOT - X - - - - -
+       /USR/BIN/GKSU - - O - - - -
+                FILE - - X - - - -
+           DIRECTORY - - X - - - O
+                GKSU - - - O - - -
+             MESSAGE - - - O - - -
+                SUDO - - - - X - -
+             APT-GET - - - - S - -

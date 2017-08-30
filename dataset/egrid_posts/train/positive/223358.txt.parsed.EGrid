@@ -1,0 +1,25 @@
+               SOME1 - X - - - - - - - - -
+                 S/W - - O X X - - - - - -
+             VERSION - - X - - - - - - - -
+                 G77 - - X - - - - - - - -
+           DOWNGRADE - - - X - - - - - - -
+           COMPILERS - - - O - - - - - - -
+             GCC-4XX - - - O - - - - - - -
+             GCC-346 - - - - O - X - - - -
+                HOME - - - - X - X - - - -
+           CONFIGURE - - - - O - - - - - -
+          EVERYTHING - - - - - S - - - - -
+             PROGRAM - - - - - O - - - - -
+              SEARCH - - - - - - O - - - -
+                LIBS - - - - - - X - - - -
+           SOMEWHERE - - - - - - - O - - -
+             PROBLEM - - - - - - - - X - -
+                THAT - - - - - - - - - O -
+              EXPORT - - - - - - - - - X -
+PATH=PATH_TO_GCC-346_BINARY - - - - - - - - - X -
+                PATH - - - - - - - - - S -
+             PATH_TO - - - - - - - - - O -
+                 HMM - - - - - - - - - - S
+     /ETC/LD.SO.CONF - - - - - - - - - - O
+               PLACE - - - - - - - - - - X
+                LINK - - - - - - - - - - O

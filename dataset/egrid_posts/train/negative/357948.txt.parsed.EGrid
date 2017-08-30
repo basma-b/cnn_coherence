@@ -1,0 +1,13 @@
+                7.10 X - - - - - - -
+                BOOT X - - - - - - -
+                HALT S - - - - - - -
+                 RUN X - - - - - - -
+                FILE - S - - - - - -
+         CTRL-ALT-F1 - - X - - - - -
+               GNOME - - X - - - - -
+              PROMPT - - - X - - - -
+                SUDO - - - X - - - -
+     /ETC/INIT.D/GDM - - - S - - - -
+               -RSB- - - - O - - - -
+                 ALL - - - - - - - X
+                  CD - - - - - - - X

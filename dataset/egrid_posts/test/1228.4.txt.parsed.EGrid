@@ -1,0 +1,15 @@
+           PARTITION O X - X -
+               DRIVE X S - - -
+                 USE X - - - -
+               1,2,3 - O - - -
+               BEGIN - X - - -
+                THIS - - X - -
+                  P3 - - X - -
+              SEVEAS - - - O -
+                 HDD - - - O -
+               SPACE - - - O -
+               CHOWN - - - - X
+               CHMOD - - - - X
+                FILE - - - - O
+                NTFS - - - - X
+                VFAT - - - - X

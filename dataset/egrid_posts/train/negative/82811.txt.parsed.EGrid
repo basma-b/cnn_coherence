@@ -1,0 +1,6 @@
+      KERNEL-HEADERS X - -
+             HEADERS X - -
+      /USR/SRC/LINUX - S -
+                  -R - X -
+              /BUILD - O -
+                THAT - - S

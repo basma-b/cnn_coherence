@@ -1,0 +1,15 @@
+             COMMAND S - - - -
+              OUTPUT X - - O -
+            IWCONFIG O - - - -
+             NETWORK X - - - -
+           INTERFACE S - - O -
+                DHCP - X - - -
+               PHONE - - X - -
+                  IP - - - O -
+                IFUP - - - O -
+                  AP - - - X -
+                HTTP - - - X -
+             NOTHING - - - O -
+             WINDOWS - - - - S
+                 HDA - - - - X
+                 HDB - - - - X

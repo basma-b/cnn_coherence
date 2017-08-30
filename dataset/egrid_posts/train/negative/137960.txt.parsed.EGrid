@@ -1,0 +1,14 @@
+             INSTALL O - - - -
+               /BOOT X - - - -
+           PARTITION O - - - -
+                FLAG X X - - -
+                   / X - - - -
+            BOOTABLE - X - - -
+               LINUX - S - - -
+           PARTIONER - S - - -
+              UBUNTU - X - - -
+           INSTALLER - X - - -
+             PROBLEM - - - S -
+             DNSMASQ - - - S O
+                  .. - - - X -
+        APPLICATIONS - - - - X

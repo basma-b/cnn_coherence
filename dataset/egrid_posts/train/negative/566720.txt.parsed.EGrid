@@ -1,0 +1,10 @@
+                TIME X - - - -
+            WILDCARD O - - - -
+                 -RF O - - - -
+           SOMETHING O - - - -
+           /FOO/BAR/ X - - - -
+                   * X - - - -
+                 CWD S - - - -
+         /HOME/BRUCE O - - - -
+               CHMOD - X - - -
+             WEBSITE - - S - -

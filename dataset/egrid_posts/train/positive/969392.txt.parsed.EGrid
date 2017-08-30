@@ -1,0 +1,15 @@
+                RC.D S -
+                LINK S -
+                  LS O -
+           RED/GREEN S -
+                  -L S -
+                 WAY O -
+                FILE X -
+                LOOK - O
+                INIT - X
+              SCRIPT - X
+               USAGE - X
+       LOG_BEGIN_MSG - X
+         LOG_END_MSG - X
+            FUNCTION - O
+/LIB/LSB/INIT-FUNCTIONS - X

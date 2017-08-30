@@ -1,0 +1,10 @@
+               LSPCI S - - - -
+             NOTHING O - - - -
+                SUDO - S - - -
+           /PROC/PCI - - O - -
+             NETWORK - - X - -
+                CARD - - X - -
+                LOAD - - S - -
+              MODULE - - X - -
+               STUFF - - O - -
+               POINT - - - - X

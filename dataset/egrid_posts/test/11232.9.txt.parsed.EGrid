@@ -1,0 +1,18 @@
+                HELP O - -
+                  HD X - -
+                AUTO X X -
+                THIS - O -
+              NOSUID - X -
+               NODEV - X -
+              NOFAIL - X -
+         X-GVFS-SHOW - X -
+                BOOT - X -
+        /MNT/STORAGE - X -
+                 HDD - X -
+                FLAG - S -
+                UDER - X -
+           INTERFACE - X -
+                   U - S -
+               HTTPS - O -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/GNOME-DISK-UTILITY/+BUG/1011257 - X -
+           EXCELLENT - - X

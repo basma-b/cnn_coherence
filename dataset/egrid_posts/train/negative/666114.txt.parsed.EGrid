@@ -1,0 +1,27 @@
+                USER O - - - - -
+               ADMIN X - - - - -
+           PRIVILEGE X - - - - -
+                HOME X - - - - -
+           DIRECTORY X - - - - -
+                SUDO - X - - - -
+               SOUND - X - - - -
+                  .. - X - - - -
+               USERS - O - - - -
+              ACCESS - X - - - -
+              SYSTEM - X - - - -
+             COMMAND - X - - - -
+            CONTROLL - - X - - -
+              THERES - - O - - -
+                UID= - - X - - -
+                GID= - - X - - -
+             OPTIONS - - X - - -
+               FSTAB - - X - - -
+                LINE - - X - - -
+                 UID - - O - - -
+         /ETC/FSTAB/ - - X - - -
+              OTHERS - - O - - -
+       FILES/FOLDERS - - X - - -
+             DEFAULT - - - X - -
+              OPTION - - - X - -
+                HTTP - - - - X -
+//UBUNTU.PASTEBIN.COM/D23C6783E - - - - X -

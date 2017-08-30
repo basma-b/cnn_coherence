@@ -1,0 +1,16 @@
+             PROBLEM O - - - -
+            APPARMOR X - - - -
+              RESCUE X - - - -
+               RSYNC X - - - -
+              KERNEL X - - - -
+                 LSM X - - - -
+               ERROR X - - - -
+            ANYTHING - X - - -
+             INTERUM - X - - -
+               PURGE - S X - -
+             PACKAGE - X - - -
+             APT-GET - - S - -
+                SUDO - - X - -
+                 OK. - - S - -
+            COMPUTER - - - - X
+             WINDOWS - - - - X

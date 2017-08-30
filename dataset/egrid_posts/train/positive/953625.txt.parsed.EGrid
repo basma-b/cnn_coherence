@@ -1,0 +1,9 @@
+                 DNS - - X - - -
+              SERVER - - S - - X
+                SFTP - - - O - -
+                 WAY - - - O - -
+               USERS - - - S - -
+             ACCOUNT - - - O - -
+            PUREFTPD - - - S - -
+                  .. - - - X - -
+                SSHD - - - - - X

@@ -1,0 +1,13 @@
+       -PRINT0|XARGS - O - - -
+             MP3GAIN - X - O -
+                FILE - O - - X
+              SIGNAL - O - - -
+          EQUIVALENT - - X - -
+               -EXEC - - X - -
+                .MP3 - - - X -
+               XARGS - - - O -
+                  IM - - - - S
+                 ONE - - - - O
+                TERM - - - - X
+                  W/ - - - - O
+                 SIG - - - - X

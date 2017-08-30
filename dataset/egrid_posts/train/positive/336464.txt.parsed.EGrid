@@ -1,0 +1,18 @@
+             SYSKLOG X - - - - X - - - - - - -
+             COMMAND - X - - - - - - - - - - -
+                LINE - X - - - - - - - - - - -
+         /ETC/INIT.D - - X - - - - - - - - - -
+               START - - - O - - - - - - - - -
+               STORY - - - - S - - - - - - - -
+           INSTALLER - - - - - S - - - - - - -
+           UNINSTALL - - - - - X - - - - - - -
+/ETC/INIT.D/SYSKLOGD - - - - - - - S - - - - -
+             PROCESS - - - - - - - O - - - - S
+             MESSAGE - - - - - - - - O - - - -
+           SOMETHING - - - - - - - - O - - - -
+               GUESS - - - - - - - - S - - - -
+                MINE - - - - - - - - X - - - -
+             APT-GET - - - - - - - - - - X - -
+               KLOGD - - - - - - - - - - O - -
+              INSTAL - - - - - - - - - - - S -
+             PACKAGE - - - - - - - - - - - O -

@@ -1,0 +1,14 @@
+                 DIR O - - -
+                 .SO X - - -
+                SUDO X - - -
+            LDCONFIG O - - -
+              FINISH X - - -
+              CONFIG - X - -
+                FILE - X - X
+           DIRECTORY - X - -
+                 ANY - - O -
+                 OWN - - O -
+               THING - - - X
+               TILDE - - - X
+                   ~ - - - X
+                PATH - - - X

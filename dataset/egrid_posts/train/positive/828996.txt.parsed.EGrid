@@ -1,0 +1,13 @@
+                TIME X - - -
+                BOOT X - - X
+              SYSTEM X - - -
+                   > X - - -
+              SCREEN X - - -
+                LIST O - - -
+             COMMAND X - - -
+                 RUN S - - -
+             SUCCESS X - - -
+                GRUB - X - -
+          CONFIGFILE - - - S
+               HD0,1 - - - X
+               ROOT= - - - O

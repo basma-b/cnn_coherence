@@ -1,0 +1,13 @@
+            IFCONFIG X - -
+                  -A X - -
+/ETC/NETWORK/INTERFACES X - -
+             CONTENT X - -
+                HTTP - X -
+                   > - S -
+              ROUTER - X -
+                 USE - X -
+              SECOND - S -
+            10.1.1.1 - X -
+                 ONE - - S
+                NAME - - O
+                  CD - - X

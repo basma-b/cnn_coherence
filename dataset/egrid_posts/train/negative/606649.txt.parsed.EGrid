@@ -1,0 +1,12 @@
+            MKINITRD X - O - -
+          MENUCONFIG - S - - -
+             MODULES - O - - -
+              KERNEL - O S - -
+                DONT - O - - -
+               IMAGE - O - - -
+                  IM - - S - -
+              ADEMAN - - O - -
+             COMMAND - - X - -
+                THIS - - O - -
+              UBUNTU - - - - X
+               FDISK - - - - X

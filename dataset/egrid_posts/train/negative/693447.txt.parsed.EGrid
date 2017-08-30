@@ -1,0 +1,15 @@
+                FAKE X - - - -
+                FSCK O - - - -
+             WINDOWS X - - - -
+              CHKDSK X - - - -
+                NTFS O - - - -
+              DEVICE - X - - -
+            RESOURCE - S - - -
+            ANYTHING - O - - -
+                KIND - O - - -
+          FILESYSTEM - X - - -
+               DRIVE - - X - -
+           /MEDIA/AV - - - X -
+           /MNT/HDA2 - - - - S
+                SUDO - - - - X
+               MKDIR - - - - S

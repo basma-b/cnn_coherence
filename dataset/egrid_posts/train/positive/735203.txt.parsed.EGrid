@@ -1,0 +1,9 @@
+          FILESYSTEM O - - - -
+               10.04 X - - - -
+           FSCK.EXT3 - X - - -
+             PROBLEM - - X - -
+                DISK - - - S -
+             SECTORS - - - O O
+               CHECK - - - - S
+                FILE - - - - X
+              SYSTEM - - - - X

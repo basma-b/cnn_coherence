@@ -1,0 +1,16 @@
+        DIST-UPGRADE O - - - - - -
+              SERVER X - - - - - -
+               START O - - - - - -
+               ERROR S - - X - - -
+            SECURITY X - - - - - -
+             SECTION S - - - - - -
+              MANUAL X - - - - - -
+                ROOT X - X X - - -
+              ANYONE - S - - - - -
+                 TRY - - X - - - -
+             MESSAGE - - - X - - -
+             NONROOT - - - - - X -
+                  ID - - - - - - S
+         WIKI/FORUMS - - - - - - O
+                 DOC - - - - - - S
+             MENTION - - - - - - O

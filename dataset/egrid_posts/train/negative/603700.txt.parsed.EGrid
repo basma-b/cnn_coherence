@@ -1,0 +1,18 @@
+               SETUP X - - -
+             SERVICE O - O -
+                BOOT X - - -
+               START - X - -
+/ETC/INIT.D/SKELETON - X - -
+                FILE - O X -
+             COMMAND - X - -
+                STOP - - X -
+               STUFF - - X -
+            ANYTHING - - O -
+                USER - - X -
+             STARTUP - - X -
+            SESSIONS - - X -
+                RULE - - S -
+                ROOT - - X -
+                THIS - - - O
+        DIST-UPGRADE - - - X
+               HOARY - - - O

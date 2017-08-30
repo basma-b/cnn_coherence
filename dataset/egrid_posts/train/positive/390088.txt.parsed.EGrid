@@ -1,0 +1,15 @@
+                TYPE - X - - -
+                SUDO - X - - -
+             APT-GET - S - - -
+UBUNTU-RESTRICTED-EXTRAS - O - - -
+            INTERNET - X - - -
+          CONNECTION - X - - -
+           APT-CDROM - - X - -
+             APT-ZIP - - X - -
+          SNEAKERNET - - S - -
+             PACKAGE - - O - -
+            COMPUTER - - X - -
+                 USB - - X - -
+ PACKAGES.UBUNTU-COM - - - - S
+             EXAMPLE - - - - X
+        DEPENDENCIES - - - - X

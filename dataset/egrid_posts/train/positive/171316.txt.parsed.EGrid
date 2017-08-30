@@ -1,0 +1,19 @@
+                   $ X - - - - -
+                 GUY O - - - - -
+                  -R X X - - - -
+             PROCESS - O - - - -
+             PACKAGE - X O - - -
+                 I.E - X - - - -
+              KERNEL - - O - - -
+                  CD - - O - - -
+              SCREEN - - O - - -
+                FILE - - O - - -
+   FILESYSTEM.SQUASH - - X - - -
+          FILESYSTEM - - O - - -
+          INITRD.IMG - - X - - -
+/VAR/LIB/INITRAMFS-TOOLS - - X - - -
+            ANYTHING - - O - - -
+              CHROOT - - X - - -
+                WORK - - X - - -
+                IDEA - - X X - -
+                TIME - - - - - X

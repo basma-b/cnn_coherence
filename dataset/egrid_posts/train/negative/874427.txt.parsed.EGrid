@@ -1,0 +1,17 @@
+                 BOX S - - - - -
+            HOMEDIRS S - - - - -
+                LIST - X - - - -
+            SOFTWARE - X - - - -
+                DPKG - X - - - -
+      GET-SELECTIONS - X - - - -
+                  CD - X - O O -
+               -LSB- - O - - - -
+               -RSB- - X - - - -
+          REPOSITORY - X - - - -
+                 WAY - - S - - -
+               THOSE - - - S - -
+         INFORMATION - - - - - X
+            RESPONSE - - - - - X
+              RESULT - - - - - X
+                TABS - - - - - O
+           PORT=PORT - - - - - X

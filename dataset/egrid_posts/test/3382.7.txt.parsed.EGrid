@@ -1,0 +1,15 @@
+           PARTITION X - - O -
+              UBUNTU X - - - -
+             INSTALL O - - - -
+               STAGE X - - - -
+              DURING - S - - -
+                BOOT - - S - -
+                 MBR - - X - -
+           SOMETHING - - - O -
+               OTHER - - - S -
+                GRUB - - - S -
+                 USB - - - X -
+                 ETC - - - X -
+                SWAP - - - - S
+                 RAM - - - - X
+           HIBERNATE - - - - X

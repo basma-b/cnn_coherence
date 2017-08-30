@@ -1,0 +1,16 @@
+           PARTITION O - - - -
+                EXT4 X - - - -
+  /HOME/DB/DOWNLOADS X X - - -
+               IDEAS X - - - -
+               FSTAB - S - - -
+                HTTP - X - - -
+                POST - X - - -
+        /PROC/MOUNTS - X - - -
+                  RW - O - - -
+                   < - S - - -
+               WRITE - O - - -
+             OPTIONS - X - - -
+              FOLDER - - - - S
+              EMBLEM - - - - O
+                FILE - - - - O
+            ANYTHING - - - - O

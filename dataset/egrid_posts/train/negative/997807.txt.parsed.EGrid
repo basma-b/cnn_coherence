@@ -1,0 +1,15 @@
+                  FS S - - - - -
+             MODULES O - - - - -
+        DEVELOPEMENT - S - - - -
+              KERNEL - X - - - -
+              BRANCH - X - - - -
+          FILESYSTEM - X - - - -
+              MODULE - X - O - -
+           PARTITION - X - - - -
+               PROBS - - - X - -
+                FILE - - - S - -
+           MAKE-KPKG - - - O - -
+       MODULES_IMAGE - - - O - -
+               ERROR - - - O - -
+          DEPENDENCY - - - - X -
+                 YEP - - - - - X

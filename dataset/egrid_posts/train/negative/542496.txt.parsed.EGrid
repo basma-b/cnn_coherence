@@ -1,0 +1,29 @@
+                THIS X X - -
+            EXTERNAL X X - -
+                 USB X - - -
+                 HDD O O - -
+                UUID S - - -
+           /DEV/SDE1 X - - -
+               FSTAB X - - -
+                  FS - X - -
+                 USE - X - -
+                EXT3 - X - -
+               MKDIR - X - -
+    /MNT/EXTERNALHDD - S - -
+                ISNT - O - -
+                   < - S - -
+              DEVICE - X - -
+                   > - X - -
+          FILESYSTEM - X - -
+             OPTIONS - S - -
+            ANYTHING - O - -
+               HTTPS - X - -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/LINUX-SOURCE-2.6.15/+BUG/39315 - X - -
+             PROBLEM - S - -
+                8.10 - O - -
+                DONT - X - -
+             CHANNEL - S - -
+               FAVOR - O - -
+                HTTP - - X -
+//WWW.YOUTUBE.COM/WATCH - - X -
+       V=2TBRQWRBHHK - - - X

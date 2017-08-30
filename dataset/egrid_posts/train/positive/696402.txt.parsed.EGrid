@@ -1,0 +1,17 @@
+                FILE X S - -
+                NAME X - - -
+         EXCLUDE=LOG X X - -
+                BASH - X - -
+               SHELL - X - -
+                  RM - O - -
+        EXCLUDE\=LOG - X - -
+              OPTION - X - -
+                  .. - X - -
+               -NAME - - - X
+                   * - - - X
+                XCLU - - - X
+                 LOG - - - X
+               XARGS - - - S
+                   < - - - O
+               DIDNT - - - X
+          SUGGESTION - - - O

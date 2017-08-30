@@ -1,0 +1,12 @@
+       /ETC/RC.LOCAL S X - - -
+                BOOT X - - - -
+                ROOT X - - - -
+               STUFF - O - - -
+             COMMAND - O - - -
+                SUDO - - X - -
+             DESKTOP - - - - X
+         ENVIRONMENT - - - - X
+               GNOME - - - - X
+                XFCE - - - - X
+                LXDE - - - - X
+            COLORBOX - - - - X

@@ -1,0 +1,11 @@
+          CRYPTSETUP X - - -
+                DISK X - - -
+             ENCRYPT O - - -
+              AES256 X - - -
+                 LUK X - - -
+                LUKS X - - -
+                LOOK - O - -
+                THIS - X - -
+                FILE - - - X
+         PERMISSIONS - - - S
+               PRIVS - - - O

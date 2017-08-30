@@ -1,0 +1,20 @@
+             COMMAND O - - - - - - -
+/APPS/METACITY/GENERAL/BUTTON_LAYOUT X - - - - - - -
+                TYPE X - - - - - - -
+              STRING X - - - - O - -
+                MENU S - - - - - - -
+                 MIN X - - - - - - -
+                 MAX X - - - - - - -
+              BUTTON O - - - - - - -
+               RIGHT X - - - - - - -
+                WHAT - - - X - - - -
+                LINK - - - S - - - -
+                HECK - - - S - - - -
+             CONTROL - - - - X - - -
+                   | - - - - X - - -
+           INCOGNITO - - - - S - - -
+             MESSAGE - - - - - O - -
+                 USE - - - - - X - -
+           UPPERCASE - - - - - X - -
+   NVIDIA-GLX-CONFIG - - - - - - - O
+             DRIVERS - - - - - - - O

@@ -1,0 +1,26 @@
+                .DEB X - O - -
+             PACKAGE X - S - -
+           INSTALLER X - - - -
+                  .. O - - - -
+               ERROR - O - - -
+          DEPENDENCY - S - - -
+             LIBLQR1 - S - - -
+                THIS - X - - -
+                THAT - - O - -
+             APT-GET - - S - -
+             VERSION - - S O -
+              PLUGIN - - X S -
+            VERSIONS - - O - -
+         UBUNTU-8.10 - - X - -
+               CHECK - - O - -
+                8.10 - - S X -
+//PACKAGES.UBUNTU.COM - - X - -
+          EXPERIENCE - - X - -
+               USERS - - X - -
+           BACKPORTS - - S - -
+               FIRST - - X - -
+               2.6.1 - - O - -
+                GIMP - - - S -
+              UPDATE - - - X -
+              SCRIPT - - - X -
+         BACKPORTING - - - X -

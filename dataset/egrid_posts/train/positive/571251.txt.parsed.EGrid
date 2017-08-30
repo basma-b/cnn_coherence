@@ -1,0 +1,15 @@
+               TRACE X - - - -
+            POSTGRES X X - - -
+         APPLICATION X - - - -
+             PACKAGE X - - - -
+             MANAGER X - - - -
+               PURGE - S - - -
+                   * - X - - -
+                  DE - - X - -
+                   | - - S - -
+                THIS - - - X -
+                SUDO - - - - X
+             APT-GET - - - - S
+          POSTGRESQL - - - - O
+                TYPE - - - - O
+      POSTGRESQL-8.3 - - - - O

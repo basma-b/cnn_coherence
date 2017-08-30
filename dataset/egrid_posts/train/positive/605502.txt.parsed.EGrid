@@ -1,0 +1,14 @@
+                SWAP O X - - - -
+     SWAPOFF-COMMAND X - - - - -
+               FSTAB X - - - - -
+           PARTITION - S - - - -
+      SWAP-PARTITION - O - - - X
+              SWAPON - X - - - X
+                  -A - X - - - -
+              REBOOT - X - - - -
+                FILE - X - - - -
+                THAT - - O - - -
+               MOUNT - - X - - -
+             COMMAND - - - S - -
+              OUTPUT - - - S - O
+            ANYTHING - - - S - -

@@ -1,0 +1,27 @@
+                CRON X - - - -
+                 JOB X - - - -
+                 USE X - - - -
+                SUDO X - - - -
+             CRONTAB X - S - -
+                  -E O - - - -
+                   * X - - - -
+/HOME/USER/MYFILE.SH O - - - -
+              SCRIPT - X - - -
+                 SCP - O - - -
+                THIS - - O - -
+            TUTORIAL - - - O -
+            SUDOUSER - - - X -
+               SETUP - - - - S
+              BRIDGE - - - - O
+                ETH0 - - - - X
+                TAP0 - - - - O
+                QEMU - - - - S
+                 VM1 - - - - X
+                WORK - - - - O
+                  .. - - - - O
+                 WAY - - - - O
+                HOST - - - - X
+              ROUTER - - - - X
+                  IP - - - - X
+              STATIC - - - - X
+              SUBNET - - - - X

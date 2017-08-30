@@ -1,0 +1,12 @@
+                PLUG S - -
+              FORMAT X - -
+                USER X - -
+                PERM X - -
+                 INT X - -
+             DEFAULT - X -
+              OPTION - X -
+                EXT4 - - X
+           /DEV/SDC1 - - X
+                TYPE - - X
+              NOSUID - - X
+               NODEV - - X

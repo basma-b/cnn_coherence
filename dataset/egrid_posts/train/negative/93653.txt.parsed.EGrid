@@ -1,0 +1,12 @@
+                ROOT S O S O - - - - -
+             DEFAULT X - - - - - - - -
+                USER - S - - - - - - -
+                SUDO - - S - - - - - -
+                TASK - - S - - - - - -
+              SYSTEM - - X - - - - - -
+                APPS - - X - - - - - -
+      /ETC/SECURITY/ - - - X - - - - -
+         PARTICULARS - - - - - X - - -
+                HUNT - - - - - - O - -
+               PROBS - - - - - - - X -
+                  YA - - - - - - - - O

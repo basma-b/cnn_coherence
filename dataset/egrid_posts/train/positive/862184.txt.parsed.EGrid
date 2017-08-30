@@ -1,0 +1,17 @@
+            KEYBOARD X X - - -
+             LAYOUTS X X - - -
+               THERE S S S - -
+              SYNTAX O - - - -
+           XORG.CONF X - - - -
+           XKBLAYOUT X - - - -
+             SECTION - O O - S
+         INPUTDEVICE - X - - -
+            VERSIONS - X - - -
+                 WAY - X - - -
+          IDENTIFIER - - O - -
+              DRIVER - - X - -
+                NAME - - O - -
+          INPUTCLASS - - O S -
+                DONT - - X - -
+          HOTPLUGGIN - - S - -
+                   X - - - S -

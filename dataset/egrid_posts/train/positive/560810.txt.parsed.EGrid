@@ -1,0 +1,11 @@
+                   ' X - - -
+              UBUNTU X - - -
+                WORK X - - -
+             COMMAND X - - -
+                TYPE O - - -
+              CRAMFS - S - -
+              INITRD - - O -
+            MKINITRD - - X O
+              MODULE - - O -
+                BOOT - - X -
+                QEMU - - X -

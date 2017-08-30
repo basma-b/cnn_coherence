@@ -1,0 +1,13 @@
+           PARTITION O - - - - - - -
+               DRIVE X - - - S X X -
+               RSYNC O - - - - - - -
+                DATA O - - - - - - -
+            TRANSFER X - - - - - - -
+            /DEV/SDA - O - - - - - -
+                  CD - X - - - - - -
+                BOOT - - X - - - - -
+             COMMAND - - X - - - - -
+                LINE - - O - - - - -
+               ERROR - - X - - - - -
+               IDEAS - - - X - - - -
+                THIS - - - - S - - -

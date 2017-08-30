@@ -1,0 +1,16 @@
+               PROXY X S - - - -
+         ENVIRONMENT X - - - - -
+           VARIABLES X - - - - -
+              EXPORT - X - - - -
+         HTTP_PROXY= - X - - - -
+                NAME - X - - - -
+            PASSWORD - X - - - -
+     HTTP_PROXY=HTTP - - X - - -
+              //USER - - X - - -
+                PASS - - X - - -
+         ADDRESS.COM - - S - - -
+            QUESTION - - - X - -
+            VARIABLE - - - S - -
+                  IQ - - - - - X
+                TEST - - - - - X
+               SCORE - - - - - O

@@ -1,0 +1,24 @@
+               LINUX O - - - - - -
+              UBUNTU X - - - - - -
+              LAPTOP X - - - - - -
+                TEST X - - - - - -
+                BOOT O - X - - - -
+               OTHER X - - - - - -
+                GRUB X - O O - - -
+                FLAG S - S - - - -
+                 MBR X - - - - - -
+            MENU.LST - - O O - - -
+           CONFIGURE - - O - - - -
+             ANOTHER - - - X - - -
+                  .. - - - X - - -
+                 ONE - - - O - - -
+           PARTITION - - - X - - -
+                  CD - - - X - - -
+                ROOT - - - X - - -
+               /BOOT - - - - S - -
+               SENSE - - - - O - -
+                LOAD - - - - - - X
+           TRUECRYPT - - - - - - X
+               GRUB2 - - - - - - X
+                HTTP - - - - - - X
+//GITORIOUS.ORG/GRUB2TC/GRUB2TC/BLOBS/MASTER/README - - - - - - X

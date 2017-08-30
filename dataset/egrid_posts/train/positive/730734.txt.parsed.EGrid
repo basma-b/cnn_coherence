@@ -1,0 +1,17 @@
+              INSTAL O - - -
+                  IM S - - -
+                 NFS O - - -
+         DIRECTORIES O S - -
+         /EXPORT/FTP - X - -
+        /EXPORT/HTTP - X - -
+              CLIENT - X - -
+              OUTPUT - X - -
+                FILE - X - -
+           DIRECTORY - X - -
+              SERVER - O O -
+      /PATH/TO/SHARE - S - -
+             COMMAND - O - -
+            EXPORTFS - - S -
+        /EXPORTS/FTP - - X -
+                WORD - - - X
+               ERROR - - - X

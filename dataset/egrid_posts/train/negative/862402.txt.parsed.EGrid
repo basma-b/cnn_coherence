@@ -1,0 +1,27 @@
+               THERE S - - - - - - - -
+            MENU.LST O - - - - - - - -
+              DOSENT X - - - - - - - -
+                 USE X - - - - - - - -
+   /ETC/DEFAULT/GRUB X - - - - - - - -
+        /ETC/GRUB.D/ X - - - - - - - -
+                FILE O - - - - - - - -
+              THERES X - - - - - - - -
+            SETTINGS O - - - - - - - -
+                 RES X - - - - - - - -
+                GRUB X - - - - O - X -
+                MENU X - - - - - - X -
+              SCREEN X - - - - - - - -
+                 TRY O - - - - - - - -
+             MONITOR X - - - - - - - -
+                CANT S - - - - - - - -
+           TIMEOUT=0 - O - - - - - - -
+GRUBTERMINAL=CONSOLE - X - - - - - - -
+            TERMINAL - - - - X - - - -
+                TYPE - - - - - X - - -
+                SUDO - - - - - X - - -
+               GEDIT - - - - - X - - -
+GRUB_TERMINAL=CONSOLE - - - - - - O - -
+                   / - - - - - - - - X
+         PREFERENCES - - - - - - - - O
+               MEDIA - - - - - - - - X
+            NAUTILUS - - - - - - - - X

@@ -1,0 +1,14 @@
+             SERVICE X - - -
+               MYSQL S - - -
+                STOP X - - -
+            INSTANCE X - - -
+               START X - - -
+                 JOB S - - -
+                 LOG O - - -
+     /VAR/LOG/SYSLOG - X - -
+              PEOPLE - - - X
+                 NIS - - - O
+               THOSE - - - O
+              SCRIPT - - - O
+                USER - - - X
+             ACCOUNT - - - O

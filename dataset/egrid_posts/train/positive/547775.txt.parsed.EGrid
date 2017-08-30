@@ -1,0 +1,13 @@
+               USERS X S - - - -
+                 SSH X - - - - -
+/ETC/SSH/SSHD_CONFIG - S - - - -
+           SOMETHING - O - - - O
+          ALLOWUSERS - X - - - -
+               USER1 - X - - - -
+               USER2 - S - - - -
+               USER3 - S - - - -
+               SPACE - X - - - -
+                ONES - - - - X -
+                LIST - - - - X -
+           DENYUSERS - - - - - X
+                   * - - - - - X

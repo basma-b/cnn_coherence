@@ -1,0 +1,15 @@
+                HELP O - - -
+                  .. X - - -
+                TIME - O - -
+             NETWORK - X - -
+          CONNECTION - X - -
+               DMESG - S - -
+                THIS - O - -
+           LOCALHOST - X - -
+              KERNEL - X - -
+            WATCHDOG - X - -
+                ETH1 - X - -
+                 NIC - O - -
+           INTERFACE - - - O
+                WORK - - - X
+                IFUP - - - X

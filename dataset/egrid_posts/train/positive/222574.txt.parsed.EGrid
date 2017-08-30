@@ -1,0 +1,17 @@
+                  SB X - -
+            WIRELESS O - -
+                ASUS X - -
+                A6TC X - -
+                THAT - S -
+                SUDO - X -
+                IFUP - S -
+                ETH1 - X -
+              DEVICE - O X
+                NAME - O O
+            IWCONFIG - S -
+           INTERFACE - X X
+               CHECK - X -
+/ETC/NETWORK/INTERFACES - S X
+                 ALL - - S
+                BIND - - X
+              SOCKET - - O

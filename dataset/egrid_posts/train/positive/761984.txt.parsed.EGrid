@@ -1,0 +1,14 @@
+              FORMAT S - - - - - -
+               DRIVE S - - - - - -
+         PERMISSIONS X - - - - - -
+                USER S - - - - - -
+              ACCESS O - - - - - -
+               OWNER X - - - - - -
+               CHOWN - - X - - X -
+           /DEV/SDB1 - - - S - - -
+               WHERE - - - O - - -
+               MEDIA - - - X - - -
+       /MEDIA/TIAMAT - - - - - X -
+                 JAG - - - - - X -
+                  -R - - - - - X -
+                COOL - - - - - - X

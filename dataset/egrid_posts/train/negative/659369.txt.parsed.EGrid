@@ -1,0 +1,17 @@
+              NVIDIA O - X -
+               INTEL X - - -
+         CORPORATION X - - -
+          INTEGRATED X - - -
+            GRAPHICS X - - -
+          CONTROLLER X - - -
+           UNINSTALL - - X -
+             PACKAGE - - S -
+                SUDO - - X -
+             APT-GET - - O -
+               PURGE - - S -
+                   * - - O -
+        XSERVER-XORG - - O -
+              SYSTEM - - - X
+             STARTUP - - - X
+              SCRIPT - - - S
+/ETC/INIT.D/MYTHTV-BACKEND - - - X

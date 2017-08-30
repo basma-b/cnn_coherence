@@ -1,0 +1,32 @@
+                THAT S - - - - - - -
+       ACTIONPARSNIP O - - - - - - -
+             CHANNEL O - - - - - - -
+              POLICY O - - - - - - -
+                 SAY X - - - - - - -
+             RELEASE - - X - - - - -
+              UBUNTU - - X - - - - -
+         APPLICATION - - - X - - - -
+             MESSAGE - - - X - - - -
+                  == - - - - X - - -
+      DESCRIPTION-EN - - - - X - - -
+       DOCUMENTATION - - - - X - - -
+               CLASS - - - - X - - -
+            FUNCTION - - - - X - - -
+                 ICU - - - - - S X -
+                 C++ - - - - - X - -
+                   C - - - - - X - -
+             LIBRARY - - - - - O - -
+             UNICODE - - - - - X - -
+              LOCALE - - - - - X - -
+             SUPPORT - - - - - O - -
+             PACKAGE - - - - - - S -
+                HTML - - - - - - S -
+                APIS - - - - - - O -
+              SEARCH - - - - - - - X
+                SHOW - - - - - - - X
+/USR/LIB/LIBICUI18N.SO - - - - - - - X
+          LIB32ICU48 - - - - - - - X
+/USR/LIB32/LIBICUI18N.SO.48 - - - - - - - X
+                   < - - - - - - - X
+                 ONE - - - - - - - O
+              SYSTEM - - - - - - - S

@@ -1,0 +1,45 @@
+                TIME X - - - - - - - - - - - - - - -
+                 DAY X - - - - - - - - - - - - - - -
+             REFRESH X - - - - - - - - - X - - X - -
+                RATE O - - - - - - - - - - - - - - -
+              OPTION X - - - - - - - - - - - - X - -
+                 VGA S X - - - - - - - - - - - - - -
+                CARD - X - - - - - - - - - - - - - -
+                 ATI - X - - - - - - - - - - - - - -
+              NVIDIA - - X - X - - - - - - - - - - -
+                TYPE - - - X - O - - - - - - - - - -
+              6800GT - - - - X - - - - - - - - - - -
+               PCI-X - - - - S - - - - - - - - - - -
+                THIS - - - - O - - - - - - S - - - -
+               HTTPS - - - - O - - - - - - - - - - -
+//WIKI.UBUNTU.COM/BINARYDRIVERHOWTO/NVIDIA - - - - O - - - - - - - - - - -
+                   % - - - - - X - - - - - - - - - -
+            28NVIDIA - - - - - X - - - - - - - - - -
+                  NP - - - - - X - - - X - - - - - -
+                PART - - - - - X - - - - - - - - - -
+LINUX-RESTRICTED-MODULES - - - - - X - - - - - - - - - -
+               4400+ - - - - - O - - - - - - - - - -
+LINUX-RESTRICTED-MODULES-K7-SMP - - - - - - O - - - - - - - - -
+  LINUX-IMAGE-K7-SMP - - - - - - O - - - - - - - - -
+          DIFFERENCE - - - - - - - - X - - - - - - -
+                  K8 - - - - - - - - X - - - - - - -
+              K8-SMP - - - - - - - - X - - - - - - -
+                 SMP - - - - - - - - - S - - - - - -
+                 CPU - - - - - - - - - X - - - - - -
+                GOOD - - - - - - - - - - O - - - - -
+              REBOOT - - - - - - - - - - X - - - - -
+          COMPLETION - - - - - - - - - - X - - - - -
+             OPTIONS - - - - - - - - - - X - - - - -
+                   | - - - - - - - - - - S - - - - -
+            TERMINAL - - - - - - - - - - X X - - - -
+               HSYNC - - - - - - - - - - - X - - - -
+               VSYNC - - - - - - - - - - - S - - - -
+  /ETC/X11/XORG.CONF - - - - - - - - - - - O - - - -
+           SOMEWHERE - - - - - - - - - - - X - - - -
+              MIDDLE - - - - - - - - - - - X - - - -
+             PROBLEM - - - - - - - - - - - O - - - -
+                  OS - - - - - - - - - - - - X - - -
+             SECTION - - - - - - - - - - - - - S - -
+              SCREEN - - - - - - - - - - - - - X - -
+                FILE - - - - - - - - - - - - - X - -
+                  OK - - - - - - - - - - - - - - - X

@@ -1,0 +1,10 @@
+                 USE S - - -
+               LSPCI - X - -
+                   | - S - -
+                 VGA - S - -
+             COMMAND - X - -
+            TERMINAL - - X -
+                 RUN - - S -
+                LINE - - S X
+                NTFS - - X -
+           PARTITION - - O -

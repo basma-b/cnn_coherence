@@ -1,0 +1,12 @@
+        DIST-UPGRADE S - - - -
+               12.04 O - - - -
+                BOOT X X - - -
+              KERNEL S - - - -
+                ROOT X - - - -
+           PARTITION O - - - -
+               ISSUE O - - - -
+                 IDO - X - - -
+              ERRORS - X - - -
+            S/IDO/DO - - X - -
+                THAT - - - X -
+           /BIN/BASH - - - - O

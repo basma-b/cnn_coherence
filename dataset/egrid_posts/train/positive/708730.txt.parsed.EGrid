@@ -1,0 +1,16 @@
+            BROADCOM X - - - - - -
+                 B43 - X - - - - -
+              SYSTEM - - - X - - -
+                   > - - - X - - -
+               ADMIN - - - X - - -
+            HARDWARE - - - X - - -
+             DRIVERS - - - O - - -
+                   P - - - - S - -
+                 STA - - - - X O -
+              DRIVER - - - - O - -
+               LSMOD - - - - - X -
+                   | - - - - - S -
+                GREP - - - - - X -
+                  PS - - - - - X -
+               PGREP - - - - - - S
+                  WM - - - - - - X

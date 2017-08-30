@@ -1,0 +1,30 @@
+             DEFAULT X - - - - - - -
+               LOGIN X - - - - - - -
+              WINDOW X - - - - - - -
+            SETTINGS O - - - - - - -
+            RECOVERY X - - - - - - -
+                MODE X - - - - - - -
+                THIS - X - - - - - -
+              CONFIG - - X - X - - -
+/ETC/X11/GDM/GDM.CONF - - - X - - - -
+/ETC/X11/GDM/GDM.CONF.OLD - - - S - - - -
+           REINSTALL - - - X - X - -
+                 GDM - - - X - X - -
+         CTRL-ALT-F7 - - - X - - - -
+            ANYTHING - - - O - X - -
+                FILE - - - - O - - -
+           SHORTCUTS - - - - O - - -
+              SYSTEM - - - - X - - -
+                   > - - - - X - - -
+         PREFERENCES - - - - X - - -
+               CAUSE - - - - X - - -
+               PROBS - - - - X - - -
+               ERROR - - - - O - - -
+ /VAR/LOG/XORG.0.LOG - - - - X - - -
+               WHATS - - - - O - - -
+             COMMAND - - - - S - - -
+                NANO - - - - - O - -
+                 VIM - - - - - O - -
+            QUESTION - - - - - O - -
+                HURT - - - - - X - -
+             PROBLEM - - - - - O - -

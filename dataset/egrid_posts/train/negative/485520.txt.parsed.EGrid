@@ -1,0 +1,20 @@
+             DEFAULT X - - - - -
+                8.04 X - X - - -
+           PARTITION X - S - - -
+             NTFS-3G - X - - - -
+                NTFS - - X - - -
+              BLAERG - - X - - -
+                MESS - - X - - -
+            SENTENCE - - X - - -
+            QUESTION - - O - - -
+             FUSEBLK - - X - - -
+                MTAB - - X - - -
+                WORD - - O - - -
+                TIME - - - - X -
+            ANYTHING - - - - O -
+               1.1.X - - - - X -
+              DEBIAN - - - - X X
+                 1.2 - - - - O -
+                 BUG - - - - - S
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/MANTIS - - - - - X
+         MAINTAINERS - - - - - X

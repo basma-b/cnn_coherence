@@ -1,0 +1,13 @@
+             AMMOUNT O O - - - - -
+             COMMAND X X - - - - -
+               STORE X X - - - - -
+             HISTORY X - - - - - -
+                FILE O - - - - - -
+              EXPORT - X - - - - -
+       HISTSIZE=2000 - O - - - - -
+               2000. - X - - - - -
+HISTCONTROL=IGNOREDUPS - O - - - - -
+HISTCONTROL=IGNOREBOTH - S - - - - -
+             ENTRIES - - - - - X -
+                 YES - - - - - - X
+          LM-SENSORS - - - - - - S

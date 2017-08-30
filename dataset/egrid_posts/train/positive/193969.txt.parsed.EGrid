@@ -1,0 +1,16 @@
+                  IM S - - -
+            PROBLEMS O - - -
+       FAT-PARTITION X - - -
+                  RW X - - -
+                WORK O - - -
+           UMASK=000 O - S -
+          /ETC/FSTAB X - - -
+      /MEDIA/WINDOWS X - - -
+                VFAT X - X -
+             DEFAULT X - - -
+                USER X - - -
+           UMASK=007 O - - -
+           PARTITION S - - -
+                 WAY X - - -
+                 ONE X - - -
+               USERS - - - X

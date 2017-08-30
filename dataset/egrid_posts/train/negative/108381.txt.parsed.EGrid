@@ -1,0 +1,13 @@
+                HELP X - - - - - - - - - - -
+              SYSTEM S - - - - - - - - - - -
+               POWER O - - - - - - - - - - -
+                FSCK O - - - - - - - - - - -
+                PART X - - - - - - - - - - -
+              DEVICE S - - - - - - - - - - -
+              UBUNTU - - X - - - - - - - - -
+          FILESYSTEM - - O - - - - - - - - -
+              REBOOT - - X - - - - - - - - -
+                TIME - - - - - - - - - - X -
+                FLAG - - - - - - - - - - O -
+            SHUTDOWN - - - - - - - - - - X -
+             COMMAND - - - - - - - - - - X -

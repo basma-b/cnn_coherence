@@ -1,0 +1,17 @@
+             COMMAND X - -
+             ADDRESS O - -
+                MASK O - -
+             GATEWAY O - -
+                 DNS X X X
+             SERVERS O - -
+              SERVER - X -
+            IFCONFIG - O -
+               ROUTE - X X
+               STUFF - X -
+                  OK - X -
+                LIST - O -
+             NETWORK - X -
+          PARAMETERS - S -
+                 MAN - X -
+                PAGE - X -
+                TYPE - - X

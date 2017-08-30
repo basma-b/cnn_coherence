@@ -1,0 +1,21 @@
+                HELP X X - - - - -
+                FILE S S - - - - -
+      VOICEENABLED=0 O O - - - - -
+SETTINGS/APPLICATION X X - - - - -
+DATA/CCP/EVE/SETTINGS/PREFS.INI O O - - - - -
+                CARE O O - - - - -
+                   ~ - - S - - - -
+                HOME - - X - - - -
+           DIRECTORY - - O - - - -
+                 URL - - - O - - -
+          PRICECHILD - - - S - - -
+              SEARCH - - - - X - -
+               BERYL - - - - X - -
+            DOWNLOAD - - - - X - -
+          EVERYTHING - - - - X - -
+                 USE - - - - - S -
+                DPKG - - - - - X -
+     /PATH/TO/FILES/ - - - - - X -
+                SUDO - - - - - X -
+             INFORNT - - - - - X -
+                ROOT - - - - - - O

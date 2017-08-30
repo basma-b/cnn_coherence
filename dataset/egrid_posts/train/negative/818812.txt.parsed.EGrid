@@ -1,0 +1,17 @@
+              REPEAT X - - - - - - -
+                TIME - O - - - - - -
+                WORK - X - - - - - -
+                 DAY - X - - - - - -
+               HOURS - - O - - - - -
+                CRON - - - X X - - -
+                LINE - - - O - - - -
+                 ONE - - - X - O - -
+                ONES - - - X - - - -
+                THAT - - - - O - - -
+             MINUTES - - - - X - - -
+0100,0600,1100,1600,2100 - - - - - X - -
+330,830,1330,1830,2330 - - - - - X - -
+           AMBIGUITY - - - - - O - -
+                0/24 - - - - - X - -
+              SYNTAX - - - - - X - -
+               THANK - - - - - - - X

@@ -1,0 +1,11 @@
+               10.10 - O - - - - -
+              KERNEL - X - - O X -
+                BOOT - X - - - - -
+             VERBOSE - X - - - - -
+            PLYMOUTH - - S S - - -
+          RESOLUTION - - S - - - -
+              SCREEN - - X - - - -
+            1600X900 - - X - - - -
+          REPOSITORY - - - - X - -
+                WORK - - - - - X -
+           INITRAMFS - - - - - - O

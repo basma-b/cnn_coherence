@@ -1,0 +1,6 @@
+         ./CONFIGURE X - - - S
+                MAKE X - - - -
+            MAKEFILE - O - - -
+              SOURCE - O - - -
+                TYPE - X X - -
+                LINE - - X - X

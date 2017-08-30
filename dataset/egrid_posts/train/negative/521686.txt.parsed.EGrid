@@ -1,0 +1,11 @@
+                USER O - - - -
+             MACHINE X - - X -
+                FILE O - - - -
+           WEBSERVER X - - X -
+         PERMISSIONS - O - - -
+            /VAR/WWW - X - - -
+               THING - - - X -
+                TIME - - - - X
+        INSTALLATION - - - - X
+             APT-GET - - - - O
+             WINDOWS - - - - X

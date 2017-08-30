@@ -1,0 +1,11 @@
+            RUNLEVEL X - - - - -
+              UBUNTU X - - - - -
+                FILE - X - - - -
+        /ETC/INITTAB - X - - - -
+                THAT - - X - - -
+/ETC/DEFAULTS/SMARTMONTOOLS - - O - - -
+           SOMETHING - - O - - -
+                SUDO - - - - - X
+             APT-GET - - - - - X
+           REINSTALL - - - - - X
+             PACKAGE - - - - - X

@@ -1,0 +1,12 @@
+          REALPLAYER X - - - - -
+                CHIP - - O - - -
+              DRIVER - - - O - -
+    BCM43XX-FWCUTTER - - - X - -
+         NDISWRAPPER - - - O - -
+             WINDOWS - - - X - -
+              UBUNTU - - - S - -
+                .DEB - - - O - -
+  /ETC/X11/XORG.CONF - - - S - -
+                 ALL - - - X - -
+               PURGE - - - - X -
+              800MHZ - - - - - X

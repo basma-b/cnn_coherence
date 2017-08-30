@@ -1,0 +1,20 @@
+                   > X - - - -
+/PROC/DEV/RTC/MAX_USR-FREW O - - - -
+/PROC/DEV/RTC/MAX_USR-FREQ O - - - -
+                INIT X - - - -
+              SCRIPT X O - - -
+                 USE - X - - -
+                 RTC - O - - -
+             MPLAYER - O - - -
+                  TI - S - - -
+                 ONE - X - - -
+                SORT - S - - -
+            VARIABLE - X - - -
+             TROUBLE - O - - -
+               MOVIE - - O - -
+              ERRORS - - - O -
+               IMAGE - - - O -
+                 VLC - - - - S
+                  .. - - - - O
+              SYSTEM - - - - X
+               SOUND - - - - X

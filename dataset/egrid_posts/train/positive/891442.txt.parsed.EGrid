@@ -1,0 +1,9 @@
+                WORK X - - - -
+             NOTHING - S - - -
+                 LOG - O - - -
+/ETC/DEFAULT/BOOTLOGD - - S - -
+ BOOTLOGD_ENABLE=YES - - X - -
+              DISTRO - - S - -
+              DEBIAN - - X - X
+                THIS - - - - S
+              UBUNTU - - - - O

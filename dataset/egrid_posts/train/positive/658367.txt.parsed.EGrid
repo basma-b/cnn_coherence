@@ -1,0 +1,8 @@
+      LIBODBCPSQL.SO O - - - -
+         PSQLODBC.SO - X - - -
+             MODULES - - - O -
+          POSTGRESQL - - - O -
+              SERVER - - - X -
+           LIBRARIES - - - - O
+              ASTRIX - - - - X
+            POSTGRES - - - - X

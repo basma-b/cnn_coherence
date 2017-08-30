@@ -1,0 +1,14 @@
+               SETUP X - - - - - -
+                  IP X - - - - - -
+             ADDRESS O - - - - - -
+              UBUNTU X - - - - - -
+                 GUI - - X - - - -
+            IFCONFIG - - - X - - -
+/ETC/NETWORK/INTERFACES - - - - X - -
+                ROOT - - - - - O -
+             APT-GET - - - - - O -
+              SOURCE - - - - - X -
+                  ~/ - - - - - X -
+                DONT - - - - - X -
+                FILE - - - - - - S
+                 BTW - - - - - - X

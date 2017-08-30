@@ -1,0 +1,23 @@
+                  HI X - - - - - - - - -
+               SAMBA - S - - - - - - - -
+               HOARY - X - - - - - - - -
+               SHARE - X - - - - - - - -
+              DAEMON - - S - - - - - - -
+               ERROR - - X - - - - S - -
+             MESSAGE - - O - - - - - - -
+/VAR/LOG/SAMBA/LOG/SMBD - - - X - - - - - -
+            PRINTCAP - - - - - X - - - -
+                FILE - - - - - O - - - -
+                 ONE - - - - - S - - - -
+             PROBLEM - - - - - O - - - -
+            PARAMS.C - - - - - - - X - -
+             SECTION - - - - - - - - S -
+                NAME - - - - - - - - X -
+       CONFIGURATION - - - - - - - - X -
+              PLACES - - - - - - - - - X
+                   > - - - - - - - - - X
+             NETWORK - - - - - - - - - X
+             SERVERS - - - - - - - - - X
+             WINDOWS - - - - - - - - - X
+             MACHINE - - - - - - - - - X
+                 NET - - - - - - - - - X

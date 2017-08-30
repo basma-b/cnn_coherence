@@ -1,0 +1,11 @@
+               MEDIA O - - X - - -
+           /DEV/SDB1 X - - - - - -
+/HOME/GUY/MOUNTPOINT X - - - - - -
+               FSTAB - - X X - - -
+               ENTRY - - X O - - -
+                ROOT - - - S - - -
+                USER - - - - X - -
+          PREMISSION - - - - S - -
+                SUDO - - - - S - -
+              GNOME2 - - - - - X -
+                 ALL - - - - - O -

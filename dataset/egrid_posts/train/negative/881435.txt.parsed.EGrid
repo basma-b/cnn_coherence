@@ -1,0 +1,21 @@
+                FILE O - - - X - - - -
+              MASTER X - - - - - - - -
+                NODE X - - - - - - - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - S - - - - - - -
+            TEMPLATE - - - O X - - - -
+             PROBLEM - - - O - - - - -
+            SOLUTION - - - - S - - - -
+            INSTANCE - - - - X - - - -
+                XFCE - - - - - S - O O
+                  .. - - - - - X - O -
+                DISK - - - - - X - - -
+               SPACE - - - - - O - - -
+              MEMORY - - - - - X - - -
+               FANCY - - - - - - X - -
+             CONTROL - - - - - - - X -
+               FREAK - - - - - - - O -
+               MENUS - - - - - - - X -
+             PACKAGE - - - - - - - O -
+              THUNAR - - - - - - - O -
+            SESSIONS - - - - - - - - X
+                MENU - - - - - - - - X

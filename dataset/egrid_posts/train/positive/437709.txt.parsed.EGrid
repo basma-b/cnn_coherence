@@ -1,0 +1,14 @@
+             APACHE2 O X - - - O -
+              ERRORS X - - - - - -
+           DIRECTORY - X - - - - -
+ /ETC/INIT.D/APACHE2 - X - - - - -
+                FILE - O - - - - -
+              CONFIG - X - - - - -
+                INIT - X - - - - -
+              SCRIPT - X - - - - -
+              SERVER - - X - - - -
+         APACHE2-MPM - - O - - - -
+              APACHE - - X - - - -
+             PACKAGE - - O - - - O
+         DIRECTORIES - - - - - O -
+                 TRY - - - - - - X

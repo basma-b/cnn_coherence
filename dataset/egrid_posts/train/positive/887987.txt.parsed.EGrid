@@ -1,0 +1,17 @@
+                GRUB X -
+                MENU S -
+                 SP1 X -
+                WUBU O -
+           PARTITION X X
+         RECONFIGURE X -
+          BOOTLOADER O -
+              NORMAL O -
+            ANYTHING O -
+                WUBI - X
+              UBUNTU - S
+             WINDOWS - O
+            PROBLEMS - X
+                CASE - S
+               STORE - O
+DRIVE/UBUNTU/DISKS/ROOT.DISK - X
+               DRIVE - S

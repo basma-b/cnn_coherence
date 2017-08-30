@@ -1,0 +1,15 @@
+                CUPS X - - - - - -
+            USERNAME X X - - - - -
+            PASSWORD X - - - - - -
+           INTERFACE O - - - - - -
+                  .. - O X - O - -
+              ACCESS - - O - - - -
+                SUDO - - - X - - -
+             ADDUSER - - - S X - -
+              SHADOW - - - X - - -
+  /ETC/INIT.D/CUPSYS - - - S - - -
+              CUPSYS - - - - S - -
+                USER - - - - S - -
+              PASSWD - - - - O - -
+                 CUP - - - - O - -
+                  'S - - - - - - S

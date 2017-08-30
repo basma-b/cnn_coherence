@@ -1,0 +1,13 @@
+             NETWORK X - X -
+             MANAGER X - X -
+           INTERFACE O - - -
+                  IP - - O O
+                  .. - - X -
+/ETC/NETWORK/INTERFACES - - S -
+          INTERFACES - - O -
+              CONFIG - - X -
+                 THX - - - S
+                 GUI - - - X
+              APPLET - - - O
+                ETH0 - - - S
+            IFCONFIG - - - X

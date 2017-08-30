@@ -1,0 +1,12 @@
+       /MEDIA/DISK-1 O - - -
+                FILE X - - -
+           DIRECTORY X - - X
+               ERROR O - - -
+                SUDO - S - -
+           /DEV/SDA7 - S - -
+               FORCE - X - X
+              DOESNT - X - -
+              /MEDIA - - S -
+             NTFS-3G - - - O
+               MKDIR - - - X
+     /MEDIA/NTFSDISK - - - S

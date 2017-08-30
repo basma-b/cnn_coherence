@@ -1,0 +1,10 @@
+              KERNEL X X - -
+              OBJECT X S - -
+                FILE X O - -
+            COMPILER - X - -
+              SOURCE - S - -
+              MODULE - O - -
+                LINK - O - -
+                HALT - - X X
+             COMMAND - - O -
+                   > - - - S

@@ -1,0 +1,11 @@
+               USERS O - -
+                 LOG X - -
+                 SSH X - -
+               GROUP X - -
+/ETC/SSH/SSHD_CONFIG - O -
+                LINE - S -
+         ALLOWGROUPS - X -
+           GROUPNAME - X -
+                USER - S -
+                PORT - O -
+                THAT - - X

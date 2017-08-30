@@ -1,0 +1,19 @@
+                 ALL O - - -
+         CPUGOVERNOR O - - -
+                RULE X - - -
+            ONDEMAND - X - -
+                ECHO - X - -
+                   | - X - -
+                SUDO - X - -
+                 TEE - X - -
+/SYS/DEVICES/SYSTEM/CPU/CPU0/CPUFREQ/SCALING_GOVERNOR - S - O
+              REBOOT - X - -
+                   ' - - - S
+               DUNNO - - - S
+               THERE - - - S
+              KERNEL - - - X
+                 ARG - - - O
+             DEFAULT - - - X
+               SCALE - - - X
+            GOVERNOR - - - O
+/ETC/INIT.D/BOOTMISC.SH - - - X

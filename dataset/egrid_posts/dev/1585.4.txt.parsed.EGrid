@@ -1,0 +1,12 @@
+            LOCATION O - - -
+/BOOT/GRUB/GRUB.CONF O - - -
+              INITRD X - - -
+/DEV/DISK/BY-ID/ASDASDSA X - - -
+           /DEV/SDA1 X - - -
+                 USE X - - -
+               GHOST X - - -
+             SERVERS O - - -
+        GRUB-INSTALL X - - -
+                FILE O - - -
+               GRUB1 - O - -
+             TIMEOUT - - - X

@@ -1,0 +1,13 @@
+/USR/LIB/FIREFOX/FIREFOX-BIN X -
+              SYMBOL X -
+              LOOKUP X -
+               ERROR X -
+/USR/LIB/FIREFOX/COMPONENTS/LIBMYSPELL.SO X -
+                 HRM S -
+           REINSTALL X -
+          LIBMYSPELL O -
+             FIREFOX X -
+      REINSTALLATION O -
+              OPTION O -
+            SYNAPTIC - X
+                HELP - X

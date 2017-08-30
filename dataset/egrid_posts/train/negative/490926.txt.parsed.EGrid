@@ -1,0 +1,11 @@
+                GRUB O - -
+                 MBR X - -
+                DISK X - -
+            /DEV/HDA - O -
+              DEVICE - X -
+                LINE - - O
+               ERROR - - X
+             MESSAGE - - X
+                SELF - - O
+              STDERR - - X
+              STDOUT - - X

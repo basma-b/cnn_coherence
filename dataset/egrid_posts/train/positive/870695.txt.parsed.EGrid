@@ -1,0 +1,19 @@
+               THERE X - - - - - - -
+                 WAY X - - - - - - -
+              SCREEN O - - - - - - -
+              UBUNTU X - - - - - - -
+               START X - - - - - - -
+               ISSUE - O - - - - - -
+                BOOT - X X - - - - -
+            RECOVERY - - X - - - - -
+                MODE - - X - - - - -
+                FILE - - O - - - - -
+                THAT - - - O - - - -
+              SPLASH - - - X S - - -
+           XORG.CONF - - - S - - - -
+                GRUB - - - X - - - -
+            PLYMOUTH - - - S - - - -
+                   ' - - - - O - - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - - - X - - -
+              REBOOT - - - - - O - -
+         UPDATE-GRUB - - - - - - - X

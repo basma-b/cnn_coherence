@@ -1,0 +1,12 @@
+              OPTION X - - -
+                DISK X - - X
+             MOUNTER X - - X
+              APPLET X - - O
+                 USE S - - -
+               DRIVE O - - X
+               FSTAB - O - -
+                AUTO - X - X
+                THAT - - S -
+                  .. - - X -
+              NOEXEC - - - O
+                THIS - - - O

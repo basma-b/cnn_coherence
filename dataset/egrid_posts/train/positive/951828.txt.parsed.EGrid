@@ -1,0 +1,15 @@
+                 HEY X - - - - - - - - -
+              PEOPLE X - - - - - - - - -
+              KERNEL - X - - - - - - S X
+               PANIC - S - - - - - - - O
+                BOOT - - - X - - - - - -
+               SOUND - - - - - - S - - -
+      /BOOT/MENU.LST - - - - - - X - - -
+               ENTRY - - - - - - O - - -
+            BLCK_IDE - - - - - - - S - -
+              MEMORY - - - - - - - X - -
+CONFIG_BLK_DEV_IDE=Y - - - - - - - O - -
+             .CONFIG - - - - - - - X - -
+               YIKES - - - - - - - X - -
+                 MAN - - - - - - - - X -
+                ELSE - - - - - - - - - O

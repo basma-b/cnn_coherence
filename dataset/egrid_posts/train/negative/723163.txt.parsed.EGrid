@@ -1,0 +1,13 @@
+ÓÐÖÐ¹úÈËÂð£¿ S - -
+            LANGUAGE X S -
+              LITTLE - O -
+              DETAIL - - O
+                 SSD - - S
+                HDDS - - S
+            /DEV/SDA - - X
+            /DEV/SDD - - X
+                   = - - S
+                 LVM - - X
+               UUIDS - - O
+               THING - - S
+              SYSTEM - - O

@@ -1,0 +1,11 @@
+               THERE X X - -
+             COMMAND X X - -
+              DEVICE O O - -
+               LSPCI - - X -
+                   | - - X -
+                GREP - - X -
+                  -I - - X -
+                 VGA - - S -
+               THEME - - X -
+             MANAGER - - O -
+                FILE - - O -

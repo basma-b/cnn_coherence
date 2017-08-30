@@ -1,0 +1,10 @@
+        SOURCES.LIST S - - - -
+                MESS O - - - -
+               REPOS S - - - -
+                 MIX O - - - -
+                WHAT - - X - -
+             RELEASE - - X - -
+             UPGRADE - - X - -
+                   * - - - X -
+                 PPA - - - - X
+                HOST - - - - O

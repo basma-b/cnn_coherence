@@ -1,0 +1,26 @@
+          CONNECTION O - - - - - - - - - - - -
+              SERVER X - X - - - - - X X - - -
+              NOVICE - X - - - - - - - - - - -
+      ADMINISTRATION - X - - - - - - - - - - -
+               STUFF - X - - - - - - - - - - -
+                PORT - - X O - - - - - X - - -
+              ROUTER - - - X O - - - X X - - -
+ /SUDO/SBIN/IPTABLES - - - - - - X - - - - - -
+       —LIST-RULES - - - - - - O - - - - - -
+INPUT/FORWARD/OUTPUT - - - - - - S - - - - - -
+                HOME - - - - - - X - - - - - -
+               GRADE - - - - - - X - - - - - -
+                 TRY - - - - - - - O - - - - -
+              REBOOT - - - - - - - X - - - - -
+                NOTE - - - - - - - - - X - - -
+                 WAN - - - - - - - - - X - - -
+                SIDE - - - - - - - - - X - - -
+                SORT - - - - - - - - - S - - -
+          CO-WORKERS - - - - - - - - - X - - -
+/ETC/SSH/SSHD_CONFIG - - - - - - - - - X - - -
+            SECURITY - - - - - - - - - X - - -
+             MEASURE - - - - - - - - - X - - -
+                NAME - - - - - - - - - - - X -
+                FILE - - - - - - - - - - - X -
+                TEXT - - - - - - - - - - - X -
+                MODE - - - - - - - - - - - X -

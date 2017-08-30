@@ -1,0 +1,34 @@
+             MORNING X - - - - - - - - - - - - - - - - -
+                USER O - - - - - - X - X - - - - - - - -
+           INTERFACE X - X - - X - - - - - - - - - - - -
+                NAME O - - - O X X - X - - - - - - - - -
+                ETH0 S - - - - - - - - - - - - - - - - -
+                THIS X - - - - - - - - - - - - - - - - -
+/ETC/NETWORK/INTERFACES - X - - S - - - - - - - - - - - - -
+            HARDWARE - - X - - - - - - - - - - - - - - -
+             ADDRESS - - O - - O - - - - - - - - - - - -
+         DEFINITIONS - - X - - - - - - - - - - - - - - -
+          INTERFACES - - - - X - O - X - - - - - - - - -
+                 MAC - - - - - X - - - - - - - - - - - -
+         ASSIGNMENTS - - - - - X - - - - - - - - - - - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - - - - X - - - - - - - - - - - -
+                PART - - - - - - S - - - - - - - - - - -
+            VARIABLE - - - - - - O - - - - - - - - - - -
+                 END - - - - - - X - - - - - - - - - - -
+                LINE - - - - - - X - - - - - - - - - - -
+                FILE - - - - - - - S - - - - - - O - - -
+                  VM - - - - - - - X - - - - - - - - - -
+                  -/ - - - - - - - X - - - - - - - - - -
+             MACHINE - - - - - - - X - O - - - - - - - -
+                EACH - - - - - - - - S - - - - - - - - -
+                LIST - - - - - - - - O - - - - - - - - -
+                 WAY - - - - - - - - O - - - - - - - - -
+              DEVICE - - - - - - - - X - - - - - - - - -
+                 VMS - - - - - - - - - - S - - - - - - -
+                THAT - - - - - - - - - - - - O - - S - -
+              MOBILE - - - - - - - - - - - - - X - - - -
+               THERE - - - - - - - - - - - - - - S - - X
+             COMMENT - - - - - - - - - - - - - - - X - -
+         EXPLANATION - - - - - - - - - - - - - - - X - -
+               BLOCK - - - - - - - - - - - - - - - X - -
+               START - - - - - - - - - - - - - - - X - -

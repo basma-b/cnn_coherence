@@ -1,0 +1,13 @@
+                TIME S S -
+              SCRIPT O - -
+                GREP X - -
+             KEYWORD O - -
+            TEXTFILE X - -
+S/WHATEVERL/WHATEVER - X -
+                MENU - - X
+                ITEM - - X
+               AUDIO - - X
+             ENCODER - - S
+                 MP3 - - X
+                   > - - X
+                SAVE - - X

@@ -1,0 +1,11 @@
+           DIRECTORY X - - -
+              DAPPER X - - -
+             HOTPLUG - S - -
+                UDEV - X - -
+                  FW - S - -
+              DRIVER - - - S
+            GRAPHICS - - - X
+                CARD - - - X
+                  TA - - - S
+                 HES - - - S
+              SEARCH - - - O

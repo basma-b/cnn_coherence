@@ -1,0 +1,23 @@
+                 HMM S - - - - - - - - - - -
+             SERVERS - X - - X - - - - - - -
+               PLACE - X - - - - - - - - - -
+              UPDATE - - O - - - - - - - - -
+               CHECK - - X - - - - - - - - -
+           TRACEPATH - - X - - - - - - - - -
+      GETHOSTBYNAME2 - - X - - - - - - - - -
+                HOST - - X - - - - - - - - -
+           SOMETHING - - O - - - - - - - - -
+                 END - - X - S - - - - - - -
+              MIRROR - - - O - - - - - - - -
+                ISPS - - - - X - - - - - - -
+IE.ARCHIVE.UBUNTU.COM - - - - O - - - - - - -
+               THERE - - - - - X - - - - - -
+                NAME - - - - - X - - - - - -
+               GUTSY - - - - - X - - - - - -
+             PACKAGE - - - - - - O X - - - -
+               WHATS - - - - - - - S - - - -
+              SOURCE - - - - - - - X - - - -
+                FILE - - - - - - - X - - - -
+             ARCHIVE - - - - - - - X - - - -
+                TIME - - - - - - - - - S - -
+              REMOVE - - - - - - - - - - - X

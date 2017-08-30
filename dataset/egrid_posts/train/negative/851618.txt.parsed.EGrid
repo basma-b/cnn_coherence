@@ -1,0 +1,11 @@
+               THERE X - -
+                 WAY X - -
+/ETC/NETWORK/INTERFACES X - -
+                DHCP X - -
+              CLIENT X - -
+  IP/GATEWAY/NETMASK S - -
+    /ETC/RESOLV.CONF S - -
+             CONTROL - O -
+              SERVER - X -
+                  IP - O -
+               RSYNC - - X

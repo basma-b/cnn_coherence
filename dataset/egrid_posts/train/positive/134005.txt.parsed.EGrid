@@ -1,0 +1,17 @@
+                USER S - - -
+                 APP O - - -
+            PASSWORD X - - -
+                SUDO X - - -
+                 MAN - X - -
+             SUDOERS - X - -
+             EXAMPLE - O - -
+                  TY - - S X
+               LINUX - - S -
+        /ETC/SUDOERS - - X -
+        ALL=NOPASSWD - - X -
+                 ALL - - X -
+                FILE - - X -
+                  VI - - O -
+    /ETC/INIT.D/SUDO - - S -
+              VISUDO - - - O
+             PROBLEM - - - O

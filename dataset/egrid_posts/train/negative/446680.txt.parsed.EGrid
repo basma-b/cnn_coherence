@@ -1,0 +1,7 @@
+           DIRECTORY O O - -
+                ROOT X X - -
+                PERM X X - -
+                SUDO - - X -
+                  CD - - S -
+             COMMAND - - X -
+                HTTP - - - X

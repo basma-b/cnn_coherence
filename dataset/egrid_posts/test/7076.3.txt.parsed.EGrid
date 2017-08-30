@@ -1,0 +1,16 @@
+  PRINT-ARCHITECTURE S - - - - -
+        ARCHITECTURE O - - - - -
+                  -M X - - - - -
+                DPKG - S - - - -
+               UNAME - S - - - -
+             PACKAGE - X - - - -
+              KERNEL - O - - - -
+                 MIX - - X - - -
+                  .. - - O - - -
+                IDEA - - X - - -
+           DIRECTORY - - - S - -
+                 ALL - - - - - S
+                  TV - - - - - S
+                PORT - - - - - O
+        TRANSMISSION - - - - - X
+               PROXY - - - - - X

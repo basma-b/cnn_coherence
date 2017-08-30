@@ -1,0 +1,11 @@
+                LINK O - -
+         DIRECTORIES X - -
+                 FOO - O -
+                 BAR - O -
+             -RTPRIO - - X
+              MEMBER - - S
+               GROUP - - X
+            PRIORITY - - X
+                 99. - - X
+           .DISABLED - - O
+              ENOUGH - - O

@@ -1,0 +1,9 @@
+         LIMITS.CONF - S -
+                BIND - O -
+                 PAM - S -
+          /BIN/FALSE - S -
+               SHELL - O -
+            HARDWARE - - X
+                TEST - - O
+           BUGREPORT - - O
+                   U - - S

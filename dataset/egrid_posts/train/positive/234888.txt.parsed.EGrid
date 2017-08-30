@@ -1,0 +1,17 @@
+              DRIVER X - - - - - - -
+       SND-USB-AUDIO - S - - - - - -
+                SUDO - X - - - - - X
+            MODPROBE - X - - - - - -
+                LOAD - - - S - - - -
+               SOUND - - - S - - - -
+              CONFIG - - - O - - - -
+                CARD - - - O - - - -
+                GOOD - - - X - - - -
+                ROOT - - - - X - - -
+     /USR/BIN/GKSUDO - - - - X - - -
+          DIFFERENCE - - - - O - - -
+             COMMAND - - - - X - - -
+                  .. - - - - - X - -
+              PEOPLE - - - - - - - S
+                TYPE - - - - - - - X
+              GKSUDO - - - - - - - O

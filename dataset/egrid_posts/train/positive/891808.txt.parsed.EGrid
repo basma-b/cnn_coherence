@@ -1,0 +1,15 @@
+    10-VBOXDRV.RULES S - -
+70-PERSISTENT-CD.RULES X - -
+    51-ANDROID-RULES O - -
+                 NOW X - -
+            SOLUTION O - -
+                 WAY S - -
+                  CD X - -
+                SUDO X - -
+               CHMOD X - -
+                  +R X - -
+/ETC/UDEV/RULES.D/51-ANDROID.RULES X - -
+             NOTHING X S -
+               ERROR - - S
+             SUCCESS - - O
+         LIBREOFFICE - - X

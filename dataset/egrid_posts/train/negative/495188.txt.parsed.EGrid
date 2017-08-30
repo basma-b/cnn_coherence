@@ -1,0 +1,22 @@
+                WICD S O O - - - - - -
+            SYNAPTIC S - - - - - - - -
+             MESSAGE - O - - - - - - -
+                HTTP - X - - - - - - -
+         INVOKE-RC.D - X - - - - - - -
+              ACTION - S - - - - - - -
+                STOP - - O - - - - - -
+              REASON - - X - - - - - -
+              SYSTEM - - S - - - - - -
+              DAEMON - - O - - - - - -
+REINSTALLING/REMOVING - - S - - - - - -
+               DUNNO - - O - - - - - -
+                SUDO - - X - - - - - -
+    /ETC/INIT.D/WICD - - X - - - - - -
+              SCRIPT - - S - - - - - -
+                   | - - - - - X - - -
+                 TRY - - - - - - S - -
+                THIS - - - - - - X - -
+         PROCCESS.SH - - - - - - X - -
+              DISOWN - - - - - - O - -
+              RENTER - - - - - - X - -
+               WRONG - - - - - - - - O

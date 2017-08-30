@@ -1,0 +1,8 @@
+                  DO X - -
+               S-ATA S - -
+                SCSI O - -
+             DRIVERS - - S
+              KERNEL - - X
+                BOOT - - X
+                SATA - - X
+                 HDS - - X

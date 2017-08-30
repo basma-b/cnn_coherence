@@ -1,0 +1,16 @@
+              MEMORY S - - -
+                 RUN X - - -
+             PROCESS X X - -
+                  PS X - - -
+               |GREP X - - -
+            PROCNAME X - - -
+                  'S S - - -
+                 MEM X - - -
+               USAGE X - - -
+            TERMINAL X - - -
+               START - X - -
+           TERMINALS - X - -
+               MENUS - X - -
+             NOTHING - - - S
+                SWAP - - - O
+          EVERYTHING - - - X

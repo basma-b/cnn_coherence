@@ -1,0 +1,17 @@
+                   ^ S - -
+                 TEE X X -
+            /DEV/TTY O - -
+              OUTPUT - S -
+          EVERYTHING - X -
+               STDIN - X -
+              STDOUT - X -
+                FILE - S -
+              SOURCE - S -
+                 FOO - O -
+              MODULE - O -
+                CARD - X -
+        MANUFACTURER - X -
+           DIRECTROY - - S
+             COMMAND - - X
+                LINE - - X
+                 SAY - - O

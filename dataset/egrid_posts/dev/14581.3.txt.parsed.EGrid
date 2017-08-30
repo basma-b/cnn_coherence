@@ -1,0 +1,9 @@
+/ETC/DHCP3/DHCPD.CONF O - -
+          PERMISSION S - -
+                IDEA O - -
+                 A+X S - -
+            TERMINAL - X -
+            DOWNLOAD - - X
+             APT-GET - - X
+                LOAD - - X
+       ~/.BASH_ALIAS - - X

@@ -1,0 +1,8 @@
+             NETWORK O - -
+            MODPROBE - O -
+              DRIVER - X -
+                CARD - X -
+           ZANDVOORT - X -
+                SUDO - X -
+/ETC/NETWORK/INTERFACES - S -
+               PLACE - - O

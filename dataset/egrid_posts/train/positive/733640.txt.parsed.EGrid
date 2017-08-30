@@ -1,0 +1,13 @@
+NETWORKMANAGER/SRC/DHCP-MANAGER/NM-DHCP-MANAGER.C X - - -
+     NM_DHCP_TIMEOUT X - - -
+                   / X - - -
+                   * X - - -
+                DHCP X - - -
+             TIMEOUT X - - -
+                NEED X - - -
+                KIND X - - -
+             COMMENT X - - -
+             PROBLEM - X - -
+                THAT - - S -
+               GUESS - - O -
+                  OS - - - X

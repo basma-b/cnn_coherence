@@ -1,0 +1,11 @@
+/ETC/PYTHON/DEBIAN.CONFIG O - - - -
+                THAT - - O - -
+              UPDATE - - X - -
+             PROCESS - - S - -
+                FILE - - O - -
+   OVERWRITE-LOCAL=1 - - S - -
+/ETC/PYTHON/DEBIAN.CONF - - X - -
+            FEEDBACK - - - X -
+               HTTPS - - - X -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/PYTHON-CENTRAL/+BUG/291262 - - - X -
+                  UR - - - - S

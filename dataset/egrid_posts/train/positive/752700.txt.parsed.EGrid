@@ -1,0 +1,12 @@
+               DRIVE O - - O - - - - - -
+              FORMAT - X - - - - - - - -
+                EXT3 - X - - - - - - - -
+                EXT4 - X - - - - - - - -
+                FILE - - X - - - - - - -
+               DRIVA - - - - O - - - - -
+                DATA - - - - X - - - - -
+               SPACE - - - - X - - - - -
+           PARTITION - - - - - - - O - -
+               FDISK - - - - - - - - S -
+             DEVICES - - - - - - - - - X
+                NAME - - - - - - - - - X

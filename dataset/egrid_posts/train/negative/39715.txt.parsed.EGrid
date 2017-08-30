@@ -1,0 +1,13 @@
+            SYNAPTIC S - -
+      UBUNTU-DESKTOP S S -
+     PYTHON2.4-PGSQL X - -
+             PACKAGE X - -
+                THAT - O -
+             DRIVERS - X -
+              KERNEL - - X
+              MODULE - - S
+LINUX-RESTRICTED-MODULES-2.6.17BLAHBLAH - - X
+             VERSION - - S
+              DRIVER - - X
+            MISMATCH - - O
+           INTERFACE - - X

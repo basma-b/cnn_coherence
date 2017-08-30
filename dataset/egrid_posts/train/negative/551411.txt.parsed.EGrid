@@ -1,0 +1,9 @@
+                PORT X - -
+          MAILSERVER - S -
+                BIND - X -
+               FUSER - X -
+                  TX - O -
+              25/TCP - S -
+                 PID - O -
+             COMMAND - - X
+                  SU - - X

@@ -1,0 +1,15 @@
+             SOMEONE X - - - - - -
+           PARTITION - O - - - - -
+                  RW - X - - - - -
+                FILE - O - - - - -
+              SYSTEM - X - - - - -
+                TYPE - - - S - - -
+          FILESYSTEM - - - X - - -
+                NTFS - - - X - - -
+               FAT32 - - - X - - -
+                 EXT - - - X - - -
+                ROOT - - - S - - -
+             DEFAULT - - - X - - -
+                SUDO - - - - S - -
+                 ETC - - - - O - -
+               FSTAB - - - - X - -

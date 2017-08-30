@@ -1,0 +1,14 @@
+           WORKGROUP X - - - - - - - -
+                8.10 X - - - - - - - -
+            SMB.CONF - O - - - - - - -
+             PACKAGE - - - - O - - - -
+              CONFIG - - - - - X - - -
+                FILE - - - - - S - - -
+             DEFAULT - - - - - X - - -
+                 BOX - - - - - X - - -
+               SETUP - - - - - O - - -
+              SERVER - - - - - X - - -
+               SAMBA - - - - - - X O -
+             SERVICE - - - - - - S - -
+                ANTE - - - - - - - O -
+                SITE - - - - - - - - X

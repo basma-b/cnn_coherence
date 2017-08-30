@@ -1,0 +1,17 @@
+              SYSTEM O - - - -
+              KERNEL O - - - -
+             BUSYBOX X - - - -
+           SOMETHING - S - - -
+                WAIT - X - - -
+                ROOT - X X - -
+                  .. - X - - -
+              SERVER - - O - -
+                 LVM - - S - -
+             DESKTOP - - O - -
+                LVMS - - X - -
+                DISK - - S - -
+               ISSUE - - O - -
+                 ANY - - O - -
+             DEVICES - - X - -
+                TYPE - - - - X
+                MOCP - - - - X

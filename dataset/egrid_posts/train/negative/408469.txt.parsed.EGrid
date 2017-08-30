@@ -1,0 +1,12 @@
+              MODULE X X O - - -
+                BOOT X X X - - -
+                TIME - - X - - -
+                LOAD - - O - - -
+         NDISWRAPPER - - S - - -
+                LINE - - X - - -
+               ENTRY - - S - - -
+        /ETC/MODULES - - X - - -
+              KERNEL - - S - - -
+           INITRAMFS - - - X - -
+               IMAGE - - - O - -
+               THANK - - - - - X

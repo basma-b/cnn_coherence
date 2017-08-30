@@ -1,0 +1,21 @@
+                 HMM X - - - - - -
+               ERROR O - - - - - -
+                 IRC X - - - - - -
+             SERVICE O - - - - - -
+                LOAD X - - - - - -
+               SHARE X - - - - - -
+           LIBRARIES X - - - - - -
+LIBMYSQLCLIENT.SO.15 O - - - - - -
+              OBJECT S - - - - - -
+                FILE X - - - - - X
+           DIRECTORY S - - - - - -
+             LIBRARY - X - - - - -
+             VERSION - - X - - - S
+            CONFLICT - - O - - - -
+              INSTAL - - - O - - -
+             SYMLINK - - - O - - -
+                 .SO - - - X X - -
+                NAME - - - X - - -
+               ANOPE - - - S - - -
+              DOESNT - - - - S - -
+                  .. - - - - - - X

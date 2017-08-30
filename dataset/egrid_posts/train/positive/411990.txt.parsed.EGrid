@@ -1,0 +1,6 @@
+              DEVICE X -
+             NETMASK X -
+       255.255.255.0 O -
+             GATEWAY X -
+            IFCONFIG S -
+               ROUTE O -

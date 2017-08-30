@@ -1,0 +1,9 @@
+               CLEAN X - - - - - -
+                 JOB - - O - - - -
+             UPGRADE - - O - - - -
+                 APT - - S - - - -
+             PACKAGE - - - O - - -
+               IMAGE - - - - - O O
+               STUFF - - - - - - O
+         COMMANDLINE - - - - - - X
+                 ^^^ - - - - - - O

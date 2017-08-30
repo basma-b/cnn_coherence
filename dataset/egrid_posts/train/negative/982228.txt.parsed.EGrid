@@ -1,0 +1,9 @@
+           LOCALHOST O - - - - -
+             APACHE2 - S - - - -
+/VAR/LOG/APACHE2/ERROR.LOG - - X - - -
+                 LOG - - - O - -
+                DISK - - - - X -
+               DMESG - - - - - S
+                  « - - - - - X
+                 ATA - - - - - X
+                  » - - - - - O

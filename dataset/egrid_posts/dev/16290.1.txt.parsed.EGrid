@@ -1,0 +1,15 @@
+                 ALL X - - - -
+                BIND - X - - -
+                 VLC - - S - -
+             CAPTURE - - X X -
+              DEVICE - - O O -
+               VIDEO - - X - -
+         /DEV/VIDEO0 - - X X -
+                 TRY - - - S -
+                   > - - - S -
+             NOTHING - - - X -
+                 HIT - - - X -
+                PLAY - - - O -
+           /DEV/NULL - - - O -
+               BLANK - - - X -
+                THIS - - - - O

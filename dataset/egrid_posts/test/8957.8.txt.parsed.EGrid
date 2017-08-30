@@ -1,0 +1,11 @@
+               ALIAS S O - -
+                 USE X - - -
+             COMMAND X - - -
+                 ASK X - - -
+                  RC S - - -
+              BASHRC X - - -
+                  IP - - - O
+                DHCP - - - X
+                POOL - - - X
+            CONFLICT - - - O
+                 LAN - - - X

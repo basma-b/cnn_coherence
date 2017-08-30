@@ -1,0 +1,16 @@
+                  HI S S - - -
+                 ONE X S - - -
+                THIS O O - - -
+            FUNCTION - X X - -
+        SND_CTL_OPEN - S S - -
+             DEFAULT - X X - -
+              DEVICE - X X - -
+                 MAN - - S - -
+             ALSACTL - - X X -
+                NAME - - X - -
+             DEVICES - - O - -
+                  .. - - - X -
+             COMMAND - - - X -
+               NAMES - - - X -
+                SUDO - - - - X
+/ETC/INIT.D/ALSA-UTILS - - - - S

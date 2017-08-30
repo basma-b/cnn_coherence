@@ -1,0 +1,22 @@
+                FACT S - - -
+             PROGRAM S - - -
+                SUDO O - X -
+               ERROR X X - -
+             MESSAGE O - - -
+               START X - - -
+             SHOWIMG S - - -
+              FOLDER O - - -
+          PERMISSION S X - -
+/HOME/RWABEL/.KDE/SOCKET-RALPH/ S - - -
+             KDEINIT O - - -
+            ABORTING X - - -
+                BIND - S - -
+              SOCKET - X - -
+  KUNIQUEAPPLICATION - X - -
+               SETUP - X - -
+       COMMUNICATION - O - -
+                 USE - - X -
+                GKSU - - X S
+               THERE - - - S
+                ROOT - - - X
+                USER - - - O

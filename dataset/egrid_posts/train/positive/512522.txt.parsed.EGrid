@@ -1,0 +1,8 @@
+             COMMAND X - -
+               CLOCK O - X
+                TIME - X O
+           INTERFACE - O -
+              REBOOT - X -
+                 NTP - - O
+            HARDWARE - - X
+                BIOS - - O

@@ -1,0 +1,33 @@
+UBUNTU-8.10-DESKTOP-I386 O - - - - - - -
+              UPDATE X - - - - - - -
+             UPGRADE O - - - - - - -
+               ERROR O - - - X - - -
+LINUX-IMAGE-2.6.27-7-GENERIC_2.6.27-7.16_I386.DEB X - - - - - - -
+                HTTP - O - - X - - -
+             SERVICE - O - - - - - -
+             FIREFOX - S - - - - - -
+               STATE - X - - - - - -
+               ISSUE - - X - - - - -
+                TIME - - - O - - - -
+                THAT - - - O - - - S
+                SUDO - - - X - - - -
+             APT-GET - - - X - - - -
+              REPEAT - - - X - - - -
+            QUESTION - - - O - - - -
+              FIGURE - - - X - - - -
+                 THA - - - X - - - -
+                  -F - - - S - X - -
+               LINUX - - - X - - - -
+               IMAGE - - - O - - - -
+        DIST-UPGRADE - - - S - - - -
+                ERRR - - - O - - - -
+                .DEB - - - X - - - S
+                FILE - - - X - - - -
+              OUTPUT - - - - S - - -
+             BROWSER - - - - S - - -
+         SUGGESTIONS - - - - X - - -
+                BOTH - - - - - X - -
+/VAR/CACHE/APT/ARCHIVES/LINUX-IMAGE-2.6.27-9-GENERIC_2.6.27-9.19_I386.DEB - - - - - X - -
+         DEPENDENCES - - - - - O - -
+                 YEP - - - - - - X -
+              RESULT - - - - - - - X

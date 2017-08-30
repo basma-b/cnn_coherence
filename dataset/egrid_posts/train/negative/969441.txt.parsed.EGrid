@@ -1,0 +1,10 @@
+              OUTPUT X - - - - - - -
+               DMESG - S X - - - - -
+               ISSUE - X - - - - - -
+                  .. - X - - - - - -
+            ANYTHING - - O - - - - -
+                   | - - - X - - - -
+                GREP - - - X - - - -
+                 IPW - - - X - - - -
+                NADA - - - - X - - -
+            MODPROBE - - - - - X - -

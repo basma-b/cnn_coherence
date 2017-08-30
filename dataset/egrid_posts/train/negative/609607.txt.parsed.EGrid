@@ -1,0 +1,22 @@
+              SERVER X X - - - -
+                  IP X - O - - -
+             ADDRESS X O - - - -
+            IFCONFIG - O - - - -
+        192.168.1.77 - X - - - -
+              REBOOT - X - - - -
+                DHCP - X - - - -
+                 LAN - X - - - -
+               ENTRY - - O - - -
+/ETC/NETWORK/INTERFACES - - X - - -
+              ROUTER - - X - - -
+                IDEA - - X - - -
+                HTTP - - X - - -
+            SYNAPTIC - - - S - -
+               ADMIN - - - X - -
+                MENU - - - X - -
+            SOFTWARE - - - - X -
+             COMMAND - - - - - X
+                LINE - - - - - X
+                 MAN - - - - - X
+                PAGE - - - - - O
+             APT-GET - - - - - X

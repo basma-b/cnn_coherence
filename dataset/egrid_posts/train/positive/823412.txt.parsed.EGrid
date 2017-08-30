@@ -1,0 +1,15 @@
+        /ETC/INITTAB O - - -
+                SUDO - X - -
+                 ADV - O - -
+KEYSERVER.UBUNTU.COM - X - -
+    40976EAF437D05B5 - S - -
+                  -Y - S - -
+            APTITUDE - X - O
+                  -O - S - -
+             ACQUIRE - X - -
+                HTTP - X S -
+    BROKENPROXY=TRUE - X - -
+              UPDATE - S - -
+               ADDED - - X -
+             APT-GET - - - X
+           FORCE-YES - - - S

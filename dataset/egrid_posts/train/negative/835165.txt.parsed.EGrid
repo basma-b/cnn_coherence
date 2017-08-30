@@ -1,0 +1,14 @@
+             DEFAULT - X X -
+                 LIB - X - -
+                PATH - X - -
+              LINKER - X S -
+             LIBDIR= - - X -
+            /USR/LIB - - S -
+                THIS - - S -
+LD_LIBRARY_PATH=/USR/LIB - - X -
+                 X64 - - O -
+         COMPILATION - - X -
+             WINDOWS - - - S
+               512MB - - - S
+                  HD - - - X
+              UBUNTU - - - X

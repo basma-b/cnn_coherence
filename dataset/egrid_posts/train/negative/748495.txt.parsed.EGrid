@@ -1,0 +1,30 @@
+            PASTEBIN - X - - - - -
+          /ETC/FSTAB - S - - - - -
+                FILE - O - - - - -
+                HTTP - X - - - O -
+//PASTEBIN.COM/KKYHC0GW - S - - - - -
+             VOLUMES - O - - - - -
+                TYPE - O - - - S -
+                SUDO - X - - - - -
+              LVSCAN - S - - - - -
+                LINE - X - - - - -
+/DEV/VG_SKJOEDT/LV_ROOT - X - - - - -
+/DEV/VG_SKJOEDT/LV_SWAP - X - - - - -
+                 ONE - X - - - - -
+                 USE - - X X - - -
+                LVM2 - - - O - - -
+           PARTITION - - - O - S -
+              BOTTOM - - - X - - -
+              COLOUM - - - X - - -
+           /DEV/SDA6 - - - X - - -
+                WORK - - - X - - -
+          EXPERIENCE - - - - X - -
+               THATS - - - - X - -
+        INSTALLATION - - - - X - -
+                 LVM - - - - - X -
+                 WAY - - - - - O -
+               SPACE - - - - - X -
+                ROOT - - - - - X -
+                 LVS - - - - - O -
+                  VG - - - - - X -
+                   S - - - - - - X

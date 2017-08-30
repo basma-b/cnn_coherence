@@ -1,0 +1,21 @@
+                 GUY X - - - - - -
+             SESSION - O - - - - -
+               LOGIN - X - - - - -
+              SCREEN - X - - - - -
+             OPTIONS - X - - - - -
+                FILE - O - - - - -
+/USR/SHARE/XSESSIONS - X - - - - -
+                 GDM - S - - - - -
+                   / - S - - - - -
+               EVENT - X - - - - -
+            COMPUTER - - X - - - -
+                 ONE - - O S - - -
+                PATH - - O - - - -
+                 DWM - - X - - - -
+                NAME - - O - - - -
+         HIDDEN=TRUE - - - O - - -
+             MACHINE - - - - X - -
+            QUESTION - - - - X - -
+       GNOME.DESKTOP - - - - S - -
+                LINE - - - - O - -
+          VIRTUALBOX - - - - - O X

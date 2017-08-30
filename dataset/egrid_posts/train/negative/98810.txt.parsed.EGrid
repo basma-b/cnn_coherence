@@ -1,0 +1,14 @@
+          FILESYSTEM X - - - - -
+               THUMB X - - - - -
+               DRIVE X X - - - -
+                EXT2 - X - - - -
+                EXT3 - S - - - -
+                VFAT - X - - - -
+                WORK - - - X - -
+               THING - - - - S -
+       LIBQT3-MT-DEV - - - - S -
+                THIS - - - - O -
+             DEPENDS - - - - O -
+       LIBQT3C102-MT - - - - X -
+           3:3.3.4-3 - - - - X -
+          LIBXFT-DEV - - - - - X

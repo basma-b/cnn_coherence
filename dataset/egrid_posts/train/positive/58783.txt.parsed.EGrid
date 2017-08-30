@@ -1,0 +1,25 @@
+              FORMAT X X - - -
+           PARTITION X - - - -
+           PARITITON - X - - -
+                  .. - O - - -
+               THERE - S - - -
+               STUFF - O - - X
+                   K - S - - -
+          PARITITONS - X - - -
+               DRIVE - X - - -
+           SOMETHING - X - - -
+               FDISK - X - - -
+                SUDO - X - - -
+                FSCK - S - - -
+             DEFAULT - X - - -
+          FILESYSTEM - X - - -
+            /DEV/FOO - X - - -
+        /MOUNT/POINT - X - - -
+                VFAT - O - - -
+               FAT32 - X - - -
+              DISTRO - O - - -
+           COMPILERS - X - - -
+                 ETC - O - - -
+              INSTAL - O - - -
+            ANYTHING - - X - -
+/ETC/APT/SOURCES.LIST - - - - X

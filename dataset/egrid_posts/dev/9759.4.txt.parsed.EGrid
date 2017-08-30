@@ -1,0 +1,8 @@
+                  -Y S - -
+               PARAM O - -
+                DPKG - O -
+             OPTIONS - X -
+       FORCE-CONFNEW - X -
+            THEADMIN - - X
+             COMMAND - - O
+            TIMEZONE - - O

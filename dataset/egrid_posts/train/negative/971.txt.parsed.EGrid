@@ -1,0 +1,13 @@
+                  -E S - - -
+         /NV/NVIDIA/ X - - -
+                  -I S - - -
+            MODPROBE X - - -
+              NVIDIA O - - -
+               LLUTZ - - X -
+              STRING - - X -
+          COMPARISON - - X -
+                  .. - - O -
+             BRACKET - - X -
+        WHITESPACING - - X -
+                WORK - - - X
+             VERSION - - - O

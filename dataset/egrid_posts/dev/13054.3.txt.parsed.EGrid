@@ -1,0 +1,14 @@
+                  .. O - - - - - -
+                  PC S O - - - - -
+              INSTAL O - - - - - -
+                BOOT - X - X - - -
+                SHOW - X - - - - -
+                GRUB - X - S X - -
+ /BOOT/GRUB/MENU.LST - - O - - - -
+            MENU.LST - - - - S - -
+             VERSION - - - - X - -
+   /ETC/DEFAULT/GRUB - - - - - S -
+                 USE - - - - - X -
+                  OK - - - - - S -
+                  VM - - - - - - X
+           X.FOO.COM - - - - - - X

@@ -1,0 +1,12 @@
+               CHMOD S - - -
+              OPTION O - - -
+         DIRECTORIES - O - -
+            TRAVERSE - X - -
+          FIXDIRS.SH - O - -
+                   D - X - -
+                   | - X - -
+               XARGS - X - -
+                 KEY - O - -
+               FORUM - - X -
+         THREAD/POST - - O -
+               TOPIC - - X -

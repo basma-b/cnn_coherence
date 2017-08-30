@@ -1,0 +1,12 @@
+             PACKAGE O - -
+              SOURCE X - -
+              BINARY X - -
+             OPTIONS O - -
+                  IM S - -
+             APT-GET S - -
+              EXPORT X - -
+CC=/USR/BIN/GCC-2.95 X - -
+                 USE - S -
+                 3.4 - O -
+             GCC-3.4 - O -
+                 ^^^ - - X

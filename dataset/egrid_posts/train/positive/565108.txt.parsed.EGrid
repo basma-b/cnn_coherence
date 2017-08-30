@@ -1,0 +1,13 @@
+                UUID O X - - X -
+           /DEV/SDB1 X X - - - -
+                SUDO X - - - - -
+               FDISK X - - - - -
+                  -L S - - - - S
+              UBUNTU S - - O - -
+           /DEV/SDA1 O - - - - -
+          /ETC/FSTAB - - X - - -
+               DRIVE - - - S X X
+              SYSTEM - - - X - -
+               BLKID - - - - X -
+                SHOW - - - - - O
+              INSTAL - - - - - O

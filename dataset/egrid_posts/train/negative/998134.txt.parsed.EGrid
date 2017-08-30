@@ -1,0 +1,8 @@
+             COMMAND X X - -
+                FILE X X - -
+               CHMOD - - S -
+            FILE.RUN - - O -
+          ./FILE.RUN - - X -
+             FIREFOX - - - X
+                TABS - - - X
+               PASTE - - - X

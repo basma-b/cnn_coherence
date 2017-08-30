@@ -1,0 +1,22 @@
+                HELP O - - - - -
+               HTTPS O - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/FILEPERMISSIONS X - - - - -
+              SYNTAX O - - - - -
+               CHOWN X - - - - -
+               GROUP O - - S - -
+           DIRECTORY X - - - - -
+                INFO X - - X - -
+           GIGENIEKS X - - O - -
+/HOME/GIGENIEKS/DOCUMENTS/ X - - O - -
+                COPY O - - O - -
+               OWNER O - - - - -
+                USER X - - S - -
+           OWNERSHIP X - - - - -
+                ROOT O - - - - -
+             COMMAND O - - O - -
+                NEED - - - X - -
+               CHGRP - - - X - -
+             EXAMPLE - - - X - -
+           SITUATION - - - X - -
+             NOTHING - - - - - X
+                WONT - - - - - S

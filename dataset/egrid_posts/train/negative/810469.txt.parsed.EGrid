@@ -1,0 +1,8 @@
+                 BOX S - - - -
+                BOOT X X - - -
+                FSCK O - - - -
+                DISK - O - - -
+            ANYTHING - - X - -
+      /VAR/LOG/FSCK/ - - - X -
+                 DNS - - - - X
+       RESOLV.CONFIG - - - - X

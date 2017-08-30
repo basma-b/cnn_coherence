@@ -1,0 +1,21 @@
+               /PROC X - - - - - - - -
+              DEVICE X O - - - - - - -
+                FILE O O - - - - - - -
+         /DEV/VIDEO0 - X - - - - - - -
+         /DEV/VIDEO1 - S - - - - - - -
+             PROGRAM - S - - - - - - -
+               THOSE - - O - - - - - -
+           SOMETHING - - S - - - - - -
+              SYSTEM - - X - - - - - -
+                READ - - - X - - - - -
+               UBOTU - - - S - - - - -
+               GUIDE - - - O - - - - -
+                MEAN - - - - O - - - -
+                THIS - - - - - X - - -
+               DRIVE - - - - - X - - -
+     BUILD-ESSENTIAL - - - - - - O - -
+      KERNEL-HEADERS - - - - - - O - -
+              KERNEL - - - - - - X - -
+LINUX-HEADERS-2.6.17-6-686 - - - - - - X - -
+              WEBCAM - - - - - - - - X
+              DRIVER - - - - - - - - X

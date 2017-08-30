@@ -1,0 +1,14 @@
+           PARTITION X X - -
+                FILE O - - -
+              UBUNTU X - - -
+                VFAT - O - -
+       /MNT/WHATEVER - X - -
+                HDA1 - S - -
+             EXAMPLE - O - -
+              COURSE - X - -
+              LAYOUT - X - -
+             APT-GET - - S -
+             PACKAGE - - X -
+               CACHE - - O -
+COMPUTER-JANITOR-GTK - - - O
+                MORE - - - X

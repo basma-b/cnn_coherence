@@ -1,0 +1,5 @@
+             COMMAND X - - -
+        /MNT/STORAGE X - - -
+                NTFS - - X -
+           PARTITION - - O -
+           UMASK=022 - - X -

@@ -1,0 +1,13 @@
+               POWER X X - -
+          REGRESSION X X - -
+              UBUTNU X X - -
+               12.04 X X - X
+             PROBLEM - - S -
+               INTEL - - X -
+            GRAPHICS - - S -
+              DRIVER - - X -
+           DEVELOPER - - X -
+                  .. - - O -
+                 FIX - - - O
+     PCIE_ASPM=FORCE - - - X
+                IDEA - - - X

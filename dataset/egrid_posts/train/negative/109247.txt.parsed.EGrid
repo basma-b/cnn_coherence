@@ -1,0 +1,17 @@
+              ANYONE S - - - - - -
+                HELP X - - - - - -
+                BOOT X - - - - - -
+           PARTITION X - - - - - -
+           /DEV/HDA1 - - O - - - -
+          FILESYSTEM - - X X X - -
+            REVISION - - S S - - -
+             VERSION - - - X - - -
+              E2FSCK - - - X - - -
+          SUPERBLOCK - - - - S - -
+           SOMETHING - - - - O - -
+                  DD - - - - X - -
+       OF=/SOME/DIR/ - - - - X - -
+             COMMAND - - - - X - -
+             SECTORS - - - - X - -
+                THIS - - - - - - O
+                SFTP - - - - - - S

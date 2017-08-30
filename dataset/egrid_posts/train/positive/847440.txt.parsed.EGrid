@@ -1,0 +1,13 @@
+                ROOT X - -
+                FACT O - -
+               SHELL S - -
+                FILE X - -
+                   > O - -
+                USER X - -
+             COMMAND - O -
+                   | - X X
+                ECHO - - X
+                 FOO - - X
+                SUDO - - X
+                 TEE - - X
+                  -A - - S

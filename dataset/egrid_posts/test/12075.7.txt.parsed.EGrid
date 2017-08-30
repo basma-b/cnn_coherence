@@ -1,0 +1,5 @@
+              MODULE S - -
+                LOAD O - -
+          MODPROBE.D X - -
+               AFTER O - -
+               WATCH - - X

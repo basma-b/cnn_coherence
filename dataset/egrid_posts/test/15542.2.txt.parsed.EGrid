@@ -1,0 +1,13 @@
+                ISNT S - -
+             DEFAULT X - -
+               AFAIK X - -
+             PROBLEM X - -
+                SSHD - S -
+                  .. - O -
+            OPENSSHD - O -
+              DAEMON - S -
+                  NP - - S
+             PACKAGE - - X
+                NAME - - O
+              SEARCH - - X
+           PARAMETER - - X

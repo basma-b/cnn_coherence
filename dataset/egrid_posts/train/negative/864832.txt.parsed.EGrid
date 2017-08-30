@@ -1,0 +1,24 @@
+                TIME X - - -
+                FILE X - - -
+             ENTRIES O - - -
+                BOOT X - - -
+              KERNEL S X - -
+              CHANGE - O - -
+                HAND - X - -
+   /ETC/DEFAULT/GRUB - X - -
+        /ETC/GRUB.D/ - X - -
+                   * - O - -
+       LINUX-HEADERS - S - -
+             KERNELS - S - -
+               IMAGE - X - -
+                GRUB - S - -
+              UPDATE - O - -
+            ANYTHING - - O -
+               THERE - - - S
+               HTTPS - - - O
+//HELP.UBUNTU.COM/COMMUNITY/ENCRYPTEDFILESYSTEMHOWTOEDGY - - - X
+                TYPE - - - S
+          FILESYSTEM - - - X
+                SITE - - - O
+     HELP.UBUNTU.COM - - - X
+              GOOGLE - - - X

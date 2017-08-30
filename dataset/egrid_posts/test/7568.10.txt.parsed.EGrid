@@ -1,0 +1,17 @@
+          CLUSTERSSH O - - - - - -
+                KEYS O - - - - - -
+                TYPE X - - - - - -
+            PASSWORD O - - - - - -
+             COMMAND X X X - - - -
+                 BOX X O - - - - -
+                 USE - - X - - - -
+                FLAG - - X - - - -
+           PASSWORDS - - X - - - -
+              WINDOW - - - O - - -
+             MACHINE - - - X - - -
+          PULSEAUDIO - - - - X - -
+            SETTINGS - - - - X - -
+           SOMETHING - - - - - O -
+              SOURCE - - - - - - O
+             MADNESS - - - - - - X
+              REVERT - - - - - - X

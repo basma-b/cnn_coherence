@@ -1,0 +1,23 @@
+               ENEMY X - - - -
+           TERRITORY S - - - -
+                DMIX X - - - -
+                  -L - S - - -
+                CARD - O X - -
+               AUDIO - X - - -
+               SOUND - X - - -
+                 USE - - X - -
+                  .. - - X - -
+               CARD0 - - X - -
+               CARD2 - - X - -
+            RC.LOCAL - - X - -
+                TEST - - X - -
+                THIS - - X - -
+                   > - - X - -
+                SUDO - - S - -
+                  SH - - X - -
+                  -C - - X - -
+/PROC/ASOUND/CARD0/PCM0P/OSS - - O - -
+                IDEA - - X - -
+                 DSP - - S - -
+               RMMOD - - - - S
+         NDISWRAPPER - - - - S

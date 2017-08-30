@@ -1,0 +1,26 @@
+         PERMISSIONS O - - - X - - - - - - -
+           DIRECTORY X - O X X - X - - X - -
+                  CD X - - - - - - - - - - -
+               STUFF O - - - - - - - - - - -
+                LIST O - - - - - - - - O - -
+                  LS - - - O - - S - - - - -
+                THIS - - - S - - - - - - - -
+              PEOPLE - - - O - - - S - - - -
+             CONTENT - - - X - - - - - - - -
+                 USE - - - X - - - - - - - -
+                TEST - - - X - - - - - - - -
+               SETUP - - - X - - - - - - - -
+               TEST/ - - - X - - - - - - - -
+          PERMISSION - - - S - - S - S X O -
+                HTTP - - - - - X - - - - - -
+//PASTE.UBUNTU.COM/495333/ - - - - - X - - - - - -
+             EXAMPLE - - - - - S - - - - - -
+        NOXONDIR/FOO - - - - - - O - - - - -
+              OUTPUT - - - - - - - - O - - -
+                FILE - - - - - - - - S X - -
+                LOOK - - - - - - - - - S - -
+                LINE - - - - - - - - - O - -
+                DENY - - - - - - - - - - X -
+              ENOUGH - - - - - - - - - - X -
+            FILENAME - - - - - - - - - - O -
+                THAT - - - - - - - - - - - S

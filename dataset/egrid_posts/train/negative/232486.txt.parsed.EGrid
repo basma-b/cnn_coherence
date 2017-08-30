@@ -1,0 +1,10 @@
+              MEMORY X X - -
+              DETAIL - O - -
+              DEVICE - X - -
+             MANAGER - X - -
+              SYSTEM - X - -
+           DIRECTORY - - X -
+                 CAT - - X -
+       /PROC/MEMINFO - - X -
+              KERNEL - - - X
+             PACKAGE - - - O

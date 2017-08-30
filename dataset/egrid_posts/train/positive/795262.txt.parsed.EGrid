@@ -1,0 +1,20 @@
+                GRUB S - -
+                BOOT X - -
+              LOADER S - -
+                  DD X - -
+         IF=/DEV/SDA X - -
+                   | X - -
+              STRING X - -
+                HEAD S - -
+               DRIVE O - -
+               LINUX O - -
+                HTTP X - X
+               THATS X - -
+              DEVICE X - -
+                 ^^^ X - -
+                 MBR O - -
+                  .. O - -
+           PARTITION X - -
+                 ONE X - -
+              RETURN - - X
+//WWW.PASTIE.ORG/1583871 - - X

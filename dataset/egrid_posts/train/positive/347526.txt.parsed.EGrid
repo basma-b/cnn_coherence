@@ -1,0 +1,7 @@
+             COMMAND O - O - - -
+           NOHUP.OUT X - - - - -
+                FILE O - - - - O
+               NOHUP - X - - X -
+                   > - S - - S -
+              OUTPUT - - S - - -
+                NULL - - - - - S

@@ -1,0 +1,9 @@
+             RESTART O - - -
+                ETH0 X - - -
+               WLAN0 O - - -
+/ETC/NETWORK/INTERFACES - X - -
+/ETC/INIT.D/NETWORKING - - S -
+             NETWORK - - S -
+                WORK - - O -
+              EUPHUS - - - X
+               CABLE - - - X

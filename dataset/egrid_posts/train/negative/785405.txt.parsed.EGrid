@@ -1,0 +1,13 @@
+                   % X - - - - -
+               USERS X - - - - -
+        ALL=NOPASSWD X - - - - -
+                   / S - - - - -
+              ACCESS X - - - - -
+             SUDOERS - S - - - -
+                WORK - X - - - -
+                ROOT - X - - - -
+                /VAR - X - - - -
+                /ETC - X - - - -
+              SWITCH - - - - - S
+              GNOME3 - - - - - X
+                 LTS - - - - - O

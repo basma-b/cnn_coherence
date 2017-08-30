@@ -1,0 +1,10 @@
+            WILDCARD X - - - -
+                USER X - X - X
+                BASH - - X - -
+            VARIABLE - - O - -
+                   $ - - - - X
+               PRINT - - - - X
+                TEXT - - - - X
+                FILE - - - - O
+                 LOG - - - - X
+             DESKTOP - - - - X

@@ -1,0 +1,33 @@
+          TOTEM-XINE X - - - - - - - - - - -
+            UNIVERSE - X - - - - - - - - - -
+                LINE - X X - - - - - - - - -
+/ETC/APT/SOURCES.LIST - X - - - - - - - - - -
+              UPDATE - X - - - - - - - X - -
+            SYNAPTIC - - X - - - - - - - - -
+             PACKAGE - - X - - - - - - - - -
+             MANAGER - - O - - - - - - - - -
+             COMMAND - - X - - - - - - - - -
+           CHRISTIAN - - X - - - - - - - - -
+            MARILLAT - - X - - - - - - - - -
+          REPOSITORY - - O - - - - - - - - -
+                 FAQ - - S - - - - - - - - -
+              THANKS - - O - - - - - - - - -
+               ISSUE - - - O - - - - - - - -
+               HOARY - - - X - - - - - - - -
+             KERNELS - - - - S - X S - - - -
+                IDEA - - - - - - X - - - - -
+              KERNEL - - - - - - X - - - - -
+                   * - - - - - - S - - - - -
+               HOURS - - - - - - - X - - - -
+             APT-GET - - - - - - - - S - - -
+             VERSION - - - - - - - - S - - -
+LINUX-RESTRICTED-MODULES-2.6.8-686 - - - - - - - - O - - -
+                   $ - - - - - - - - - X - -
+LINUX-RESTRICTED-MODULES-2.6.8-686=SOMEVERSION - - - - - - - - - S - -
+                  -R - - - - - - - - - X - -
+               |GREP - - - - - - - - - X - -
+             ^II|AWK - - - - - - - - - O - -
+               PRINT - - - - - - - - - X - -
+                SUDO - - - - - - - - - X - -
+             UPGRADE - - - - - - - - - X - -
+               RUMOR - - - - - - - - - - - S

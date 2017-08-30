@@ -1,0 +1,25 @@
+              SERVER O X O O X - -
+             PACKAGE O - O O X - -
+                LDAP - X - - X - -
+    LDAP-AUTH-CLIENT - - - - X - -
+            ANYTHING - - - - O - -
+ AUTH-CLIENT-CONFIOG - - - - S - -
+  AUTH-CLIENT-CONFIG - - - - S O X
+                  OK - - - - X - -
+              SEARCH - - - - X - -
+               |GREP - - - - S - -
+               YIELD - - - - O - -
+                CANT - - - - S - -
+                LOOK - - - - O - -
+     PAM-AUTH-UPDATE - - - - X - -
+                   / - - - - X - -
+         LIBPAM-LDAP - - - - - S -
+                TOOL - - - - - O -
+           LDAP.CONF - - - - - X -
+                FILE - - - - - O -
+                TYPE - - - - - X -
+                SUDO - - - - - X -
+             PROFILE - - - - - S -
+             REQUIRE - - - - - O -
+/ETC/AUTH-CLIENT-CONFIG - - - - - - X
+                 MAN - - - - - - X

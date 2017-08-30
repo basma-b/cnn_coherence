@@ -1,0 +1,9 @@
+                GRUB O - X - -
+                BOOT X - - - -
+                DISK X O S - -
+                 HDD O - - - -
+            /DEV/HDA - O - - -
+                 HD0 - X - - -
+                SATA - - X - -
+            /DEV/SDA - - X - -
+               DRIVE - - O - -

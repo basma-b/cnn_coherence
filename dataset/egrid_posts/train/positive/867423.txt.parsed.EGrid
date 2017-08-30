@@ -1,0 +1,17 @@
+                 UFW X - - -
+              STATUS X - - -
+             DEFAULT X X - -
+          ALLOW/DENY X - - -
+              POLICY X X - -
+                TIME - X - -
+              SCRIPT - S - -
+      INCOMING/ALLOW - X - -
+            OUTBOUND - O - -
+              CHANGE - O - -
+                MORE - X - -
+              PERIOD - X - -
+                THIS - O - -
+               THATS - S - -
+                RULE - S - -
+                DONT - - - S
+                  .. - - - X

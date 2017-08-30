@@ -1,0 +1,36 @@
+              UBUNTU X - - - - -
+     FIRMWARE_HELPER X - - - - -
+               -RSB- S - - - - -
+                MAIN X - - - - -
+               ERROR X - - - - -
+                LOAD X - - - - -
+/LIB/FIRMWARE/BCM43XX_MICROCODE5.FW X - - - - -
+              DEVICE X - - - - -
+/CLASS/FIRMWARE/0000:03:00.0 X - - - - -
+              DRIVER X - - - - -
+              SYSLOG S - - - - -
+             MESSAGE X - - - - -
+                LOOK X - - - - -
+            WIRELESS X - - - - -
+               PLACE - X - - - -
+                DISK - X - - - -
+               SPACE - O - - - -
+            TERMINAL - X - - - -
+           AUTOCLEAN - O - - - -
+                   A - - X - - -
+                  CD - - X - - -
+/VAR/CACHE/APT/ARCHIVES - - O - - -
+                -SRS - - X - - -
+                  -N - - X - - -
+                THAT - - - S - -
+                LIST - - - X - -
+             PACKAGE - - - X - O
+              INSTAL - - - X - -
+                 ANY - - - - O -
+                SUDO - - - - - X
+             APT-GET - - - - - X
+               PURGE - - - - - S
+         PACKAGENAME - - - - - S
+          EVERYTHING - - - - - O
+                   _ - - - - - X
+            FILENAME - - - - - X

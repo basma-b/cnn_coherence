@@ -1,0 +1,17 @@
+             COMMAND X X - - -
+                LINE X X - - -
+              OPTION X X - - -
+              NVIDIA X X - X X
+                   X X X - - X
+              SERVER X X - - -
+                SUDO - - X - -
+      NVIDIA-XCONFIG - - X - -
+            DENDRITE - - S - -
+              SYSTEM - - - X -
+                   > - - - X -
+         PREFERENCES - - - X -
+             XSERVER - - - X -
+            SETTINGS - - - X O
+                TIME - - - - X
+              CONFIG - - - - S
+              WRITNG - - - - X

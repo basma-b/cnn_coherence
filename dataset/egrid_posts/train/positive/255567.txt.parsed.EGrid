@@ -1,0 +1,22 @@
+                ROOT X - - - - O
+          FILESYSTEM X - - - - -
+              VOLUME X - - - - -
+                EDGY - X - - - -
+                THAT - - X - - -
+           INSTALLER - - S - - -
+                 LVM - - O - - -
+              OPTION - - X - - -
+                  CD - - S - - -
+                  OH - - O - - -
+ROOT=/DEV/MAPPER/WHATEVER - - - X - -
+            ARGUMENT - - - X - -
+                GRUB - - - X - -
+             PROBLEM - - - - - S
+              KERNEL - - - - - S
+                IDEA - - - - - O
+/DEV/MAPPER/WHATEVER - - - - - O
+               HOWTO - - - - - X
+           SOMETHING - - - - - O
+              INITRD - - - - - X
+               IMAGE - - - - - O
+             VOLUMES - - - - - O

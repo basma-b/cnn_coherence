@@ -1,0 +1,17 @@
+             TCL-DEV S - - -
+             PACKAGE X - - -
+              ANYONE - X - -
+                USER - O S -
+                SUDO - S X -
+                  PW - O - -
+              PROMPT - X - -
+                TYPE - X - -
+              ERRORS - X - -
+            ANYTHING - X - -
+            LOCATION - - O -
+                ROOT - - O -
+                   < - - S -
+                   > - - S -
+        /ETC/SUDOERS - - X -
+                ISNT - - O -
+                TOOL - - - X

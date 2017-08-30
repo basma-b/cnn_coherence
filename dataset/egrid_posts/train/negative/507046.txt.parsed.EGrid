@@ -1,0 +1,13 @@
+               THERE X - - - - - -
+                 WAY X - - - - - -
+           INTERFACE S - - - - - -
+             NETWORK X - - - - - -
+               SETUP X - - - - - -
+             DEFAULT X - X - - - -
+                ROUT O - - S - - -
+               ROUTE - - S - - - -
+                  GW - - O - - - -
+                ETH0 - - X - - - -
+         RESOLV.CONF - - O - - - -
+              RESOLV - - - S - - -
+                 NET - - - - X - -

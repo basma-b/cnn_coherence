@@ -1,0 +1,18 @@
+                SUDO X - - - - - - -
+             SERVICE X - - - - - - -
+                 SSH S - - - - - - -
+               SPACE - - S - - - - -
+              UBUNTU - - X - - - - -
+/HOST/UBUNTU/DISKS/ROOT.DISK - - X - - - - -
+                FILE - - O - - - - -
+          FILESYSTEM - - O - - - - -
+               POINT - - - X - - - -
+           ROOT.DISK - - - - S - - -
+             SUPPORT - - - - O - - -
+                BOOT - - - - X - - -
+                 USE - - - - O - - -
+           PARTITION - - - - S - - -
+UBUNTU/DISKS/ROOT.DISK - - - - - - X -
+                  .. - - - - - - - S
+                 MAN - - - - - - - O
+                FISH - - - - - - - X

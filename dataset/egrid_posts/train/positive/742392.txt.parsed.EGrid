@@ -1,0 +1,15 @@
+                PORT O X - X S S
+                 MAN - X - - - -
+                 UFW - S - S - -
+            PROTOCOL - - X - - -
+            3520/TCP - - - S - -
+                SUDO - - - X - -
+                  UP - - - S - -
+                 SSH - - - - X -
+            IPTABLES - - - - S -
+           BEHAVIOUR - - - - O -
+            FIREWALL - - - - X -
+             TRAFFIC - - - - O -
+                 APP - - - - S -
+               BLOCK - - - - - O
+          CONNECTION - - - - - S

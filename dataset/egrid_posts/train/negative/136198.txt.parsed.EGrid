@@ -1,0 +1,17 @@
+                   < S -
+              SYSTEM X -
+                   > X -
+               POINT X -
+                TYPE O -
+             OPTIONS X -
+             DEFAULT S -
+           /DEV/HDA5 X -
+                VFAT X -
+                NTFS X -
+                  RO X -
+           UID=GUEST S -
+                NONE X -
+                SWAP O -
+                HTTP X -
+//PASTE.UBUNTU-NL.ORG/ S -
+                 YES - X

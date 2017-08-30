@@ -1,0 +1,22 @@
+               12.04 X - - - - - - - -
+              KERNEL S - - - - - - - -
+2.6.32-39-GENERIC-PAE S - - - - - - - -
+             PROBLEM O - - O - - - - -
+                WAKE X - - - - - - - -
+                 WOL X - - - - - - - -
+             KERNELS - S - - - - - - -
+                THIS - - S - - - - - -
+       RTL8111/8168B - - X - - - - - -
+                 PCI - - X - - - - - -
+             EXPRESS - - X - - - - - -
+             GIGABIT - - X - - - - - -
+            ETHERNET - - X - - - - - -
+          CONTROLLER - - O - - - - - -
+             NOTHING - - - S - - - - -
+                 WEB - - - X - - - - -
+                 ALL - - - - O - - - -
+                LUCK - - - - - X - - -
+             ETHTOOL - - - - - X - - -
+       .BASH_ALIASES - - - - - - - O -
+                 ONE - - - - - - - X -
+                WORK - - - - - - - - X

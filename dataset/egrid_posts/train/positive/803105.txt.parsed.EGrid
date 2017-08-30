@@ -1,0 +1,14 @@
+               FSTAB S X - -
+                 MAN - X - -
+                  LS - O - -
+                GREP - X - -
+                  SD - X - -
+             ENTRIES - S - -
+                LIST - X - -
+              LAPTOP - - - X
+                 USB - - - O
+                FILE - - - X
+              SYSTEM - - - X
+                  HD - - - X
+                ROOT - - - X
+              ACCESS - - - X

@@ -1,0 +1,10 @@
+            RC.LOCAL X - - -
+           S20USHARE - O - -
+         UPDATE-RC.D - O - -
+                SAME - O - -
+           S80USHARE - X - -
+                THAT - - S -
+            RUNLEVEL - - X -
+               RC3.D - - X -
+                 USE - - - S
+             SERVICE - - - X

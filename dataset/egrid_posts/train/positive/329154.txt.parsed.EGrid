@@ -1,0 +1,21 @@
+                HELP X - - - - -
+                  .. O - - - - -
+                 ONE S - - X - -
+                DISK X S - - - -
+              ERRORS O O - - - -
+LDM_VALIDATE_PARTITION_TABLE - X - - - -
+           INITRAMFS - S - - - -
+                 JOB - X - - - -
+             CONTROL - O - - - -
+         WORKAROUNDS - - O X - -
+             DEVICES - - X - - -
+                HOOK - - O - - -
+       PRIMARY/SLAVE - - X - - -
+               HTTPS - - - - - X
+              KERNEL - - - - - X
+                BOOT - - - - - X
+               PARAM - - - - - X
+            MODPROBE - - - - - X
+                PIIX - - - - - X
+                EXIT - - - - - X
+                 YAH - - - - - X

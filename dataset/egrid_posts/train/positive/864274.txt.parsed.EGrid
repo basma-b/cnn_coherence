@@ -1,0 +1,41 @@
+KEYSERVER.UBUNTU.COM O - - - - - -
+                 KEY X - - - O - X
+             APT-KEY X - - - S - -
+              STRING X - - - - - -
+                  .. O - - - O - -
+              STIRNG O - - - - - -
+               ERROE S - - - - - -
+             REQUEST O O - - - - -
+                HASH S - - - - - -
+                  0X X - - - - - -
+               ERROR - S - - - - -
+           EXCEPTION - - X - - - -
+               RAISE - - X - - - -
+             FAILURE - - S - - - -
+               RANGE - - X - - - -
+          CONVERSION - - X - - - -
+                TYPE - - O - - - -
+                HTTP - - X - - X -
+//KEYSERVER.UBUNTU.COM - - X - - X -
+    11371/PKS/LOOKUP - - X - - X -
+SEARCH=0X40976EAF437D05B5 - - - X - - -
+           OP=VINDEX - - - S - - -
+            DOWNLOAD - - - - X - -
+           KEYSERVER - - - - O - -
+                PAGE - - - - X - -
+               DIDNT - - - - S - -
+            QUESTION - - - - X - -
+                  OK - - - - X - -
+              INSTAL - - - - X - -
+                LINK - - - - - X -
+                 TOP - - - - - X -
+                 ONE - - - - - X -
+             SELFSIG - - - - - S -
+               THATS - - - - - - S
+              OP=GET - - - - - - S
+               ASCII - - - - - - X
+               ARMOR - - - - - - X
+                PART - - - - - - O
+                LINE - - - - - - O
+                FILE - - - - - - X
+            FILENAME - - - - - - O

@@ -1,0 +1,24 @@
+             PROBLEM O O - - - - -
+              APACHE S S X - - - -
+               10.10 X X - - - - -
+           LOCALHOST X X - - - - -
+             BROWSER S X - - - - -
+             COMMAND O O - - - - -
+                SUDO X X - - - - -
+ /ETC/INIT.D/APACHE2 S S - - - - -
+             MESSAGE X X - - - - -
+             APACHE2 S S - - - - -
+              SYNTAX X X - - - - -
+               ERROR X X X - - - -
+                LINE X X X O - O -
+/ETC/APACHE2/APACHE2.CONF X X X - - - -
+       CONFIGURATION X X - - - - -
+                FILE X X - - - - -
+/ETC/APACHE2/CONF.D/PHPMYADMIN.CONF O O - - - - -
+           DIRECTORY X X - - - - -
+              ACTION X X - - - - -
+          CONFIGTEST O O - - - - -
+                 LOG - S S - - - -
+               LOGIC - - S - - - -
+             CONF.D/ - - - O - O -
+                WHAT - - - X - X -

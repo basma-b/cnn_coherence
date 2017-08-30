@@ -1,0 +1,23 @@
+              U12.04 - X - - - - -
+              SERVER - O - - - - -
+                FILE - X - - O X -
+             COMMAND - X - - - - -
+            LOADKEYS - S - - - - -
+                  .. - X - - - - -
+                 MAN - X - X - - -
+                PAGE - X - O - - -
+             DEFAULT - X - - - - -
+              OPTION - S - - - - -
+              KEYMAP - O - - X - -
+       DEFKEYMAP.MAP - X - - - S -
+  /USR/SHARE/KEYMAPS - X S - - - -
+/USR/SRC/LINUX/DRIVERS/CHAR - X - - - - -
+           DIRECTORY - - X - - - -
+             INSTALL - - X - - - -
+             VERSION - - - X - - -
+                SAME - - - - O - -
+/USR/SRC/LINUX/DRIVERS/CHAR/ - - - - - X -
+                CASE - - - - - - X
+              SYSTEM - - - - - - S
+            KEYBOARD - - - - - - X
+              LAYOUT - - - - - - X

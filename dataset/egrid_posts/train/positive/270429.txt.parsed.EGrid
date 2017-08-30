@@ -1,0 +1,23 @@
+               WLAN0 S - - - - - -
+                ETH0 X - - - - - -
+             BCM43XX X - S - - - -
+                LOAD O - - - - - -
+              DRIVER X - O - - - -
+         NDISWRAPPER - O - - - - -
+                NOTE - - X - - - -
+               |GREP - - X - - - -
+            ^BCM43XX - - X - - - -
+              RETURN - - X - - - -
+              BCMWL5 - - O - - - -
+                SSID - - O - - - -
+            BROADCOM - - X - - - -
+              DEVICE - - X - - - -
+                THAT - - - X - - -
+                 USE - - - - X - -
+               LSPCI - - - - X - -
+            PASTEBIN - - - - X - -
+                HTTP - - - - X - -
+//PASTE.UBUNTU-NL.ORG/13485/ - - - - X - -
+                  HP - - - - X - -
+            PAVILION - - - - X - -
+            DV2214US - - - - - - X

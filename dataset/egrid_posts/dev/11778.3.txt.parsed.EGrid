@@ -1,0 +1,15 @@
+                BASH O - - - - -
+             CONSOLE X - - - - -
+                  CD X O - - - -
+             COMMAND O - - - - O
+           DIRECTORY X - - - - -
+             WINDOWS - S - - - -
+             SYMLINK - - X - - -
+                FAKE - - - S - -
+                WORK - - - O - -
+                LINK - - - X - -
+          DIFFERENCE - - - - - X
+                PPAS - - - - - S
+           LAUNCHPAD - - - - - X
+           DEB-LINES - - - - - O
+        SOURCES.LIST - - - - - X

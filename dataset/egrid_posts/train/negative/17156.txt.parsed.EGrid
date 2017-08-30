@@ -1,0 +1,28 @@
+                DPKG S - - - - - - -
+               ERROR X - - - - - - -
+             PROCESS X - - - - - - -
+/VAR/CACHE/APT/ARCHIVES/GIMP-DATA_2.2.2-1UBUNTU1_ALL.DEB X - - - - - - -
+              UNPACK X - - - - - - -
+/ETC/GIMP/2.0/GIMPRC X - - - - - - -
+             PACKAGE X - S - - - - -
+                GIMP X - - - - - - -
+           GIMP-DATA O - - - - - - -
+            CONFLICT X - - - - - - -
+                BOTH O - - - - - - -
+           DEPENDECY - X - - - - - -
+            PROBLEMS - X - - - - - -
+               ORDER - - - S - - - -
+          MAINTAINER - - - O - - - -
+              MEMBER - - - O - - - -
+              UBUNTU - - - X - - - -
+             PROJECT - - - X - - - -
+                THAT - - - - X - - -
+             PROFILE - - - - - - X -
+                SITE - - - - - - X -
+                   / - - - - - - S -
+                FILE - - - - - - O -
+                /ETC - - - - - - X -
+             DEFAULT - - - - - - X -
+                 SET - - - - - - X -
+            ANYTHING - - - - - - - X
+                 RAM - - - - - - - X

@@ -1,0 +1,21 @@
+         UPDATE-GRUB S - - -
+              OPTION O X - -
+                THAT - S - -
+       GRUB-MKCONFIG - X - -
+/USR/SBIN/UPDATE-GRUB - S - -
+               SHELL - X - -
+              SCRIPT - O - -
+ /BOOT/GRUB/GRUB.CFG - O - -
+                LINE - O - -
+               ENTRY - S - -
+          /ETC/HOSTS - X - -
+           127.0.0.1 - O - -
+                HOST - X - -
+           INTERFACE - X X -
+            IFCONFIG - S - -
+                  LO - S S -
+                NAME - - O -
+                HTTP - - X -
+//PASTE.UBUNTU.COM/1280057/ - - X -
+             WINDOWS - - - S
+                  XD - - - O

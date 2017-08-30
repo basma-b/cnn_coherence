@@ -1,0 +1,23 @@
+                  HD O - - - - X - - - - -
+              FORMAT X - - - - - - - - - -
+                TYPE S - - - - - - - - - -
+              ACCESS X - - - - X - - - - -
+                PATH S - - - - S - - - - -
+                 SAY - - S - - - - - - - -
+             EXAMPLE - - - X - - - - - - -
+                NTFS - - - X - - - - - - -
+           PARTITION - - - S - - - - - - -
+         /MEDIA/NTFS - - - X - - - - - - -
+                THAT - - - - X X - - - - -
+                   / - - - - O - - - - - -
+            ANYTHING - - - - X - - - - - -
+          /MEDIA/HD1 - - - - - O - - - - -
+          /MEDIA/HD2 - - - - - X - - - - -
+                  .. - - - - - O - - - - -
+            SOMTHING - - - - - O - - - - -
+             CHIPSET - - - - - - - - O - -
+               STUFF - - - - - - - - - O -
+                 HMM - - - - - - - - - - X
+           BUGREPORT - - - - - - - - - - O
+               HTTPS - - - - - - - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/NDISWRAPPER/+BUG/188621 - - - - - - - - - - X

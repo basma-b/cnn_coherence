@@ -1,0 +1,7 @@
+             COMMAND S - -
+            IPCONFIG X - -
+              /RENEW O - -
+              UBUNTU X - -
+            DHCLIENT - S -
+                ETH0 - O -
+           INTERFACE - X -

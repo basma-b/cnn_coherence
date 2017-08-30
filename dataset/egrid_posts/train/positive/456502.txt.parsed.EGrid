@@ -1,0 +1,6 @@
+              SCRIPT S -
+                MESS X -
+                 ONE O -
+        XSERVER-XORG S -
+                LINK O -
+                 USE - X

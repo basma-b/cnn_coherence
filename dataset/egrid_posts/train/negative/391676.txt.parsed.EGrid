@@ -1,0 +1,23 @@
+                PLL1 X - - - - -
+                YEAP X - - - - -
+ /ETC/SSH/SSH_CONFIG X - - - - -
+             SHUGGLE O X - - - -
+             PROCESS X - - - - -
+            ANOTHERS - O - - - -
+           FREQUENCY - X - - - -
+           GOVERNORS - S - - - -
+                 ONE - O - - - -
+                 USE - S - - - -
+            GOVERNOR - O - - - -
+             MACHINE - X - - - -
+                  HZ - - S - - -
+             MONITOR - - X - - -
+              CHANCE - - O - - -
+                FILE - - X - - -
+/SYS/DEVICES/SYSTEM/CPU/…ALING_AVAILABLE_GOVERNORS - - O - - -
+/SYS/DEVICES/SYSTEM/CPU/CPU0/CPUFREQ/ - - - X - -
+   SCALING_GOVERNORS - - - - S -
+                 LOT - - - - - O
+                TEST - - - - - S
+                HOST - - - - - X
+              ACCESS - - - - - S

@@ -1,0 +1,17 @@
+               SHELL X - - - - -
+              SCRIPT X - - X - -
+                WINE O - X X - -
+                AOSS X - - - - -
+             WRAPPER X - - - - -
+               EQUIV - X - - - -
+             PROGRAM - - X - - -
+                TEXT - - S - - -
+           /BIN/BASH - - - S - -
+                LINE - - - O - -
+                 APP - - - O - -
+            TERMINAL - - - X - -
+                 YES - - - X - -
+          EXECUTABLE - - - O - -
+    /ETC/SYSLOG.CONF - - - - X -
+             DEFAULT - - - - - X
+   /VAR/LOG/AUTH.LOG - - - - - O

@@ -1,0 +1,11 @@
+               SETUP X - - - -
+              SERVER X - - - -
+             OPENSSH O - - - -
+            10.04LTS X - - - -
+                 SCP - X - - -
+         PERMISSIONS - - X - -
+                FILE - - O - -
+            /VAR/WWW - - X - -
+                SUDO - - - O -
+               ERROR - - - - X
+             MESSAGE - - - - X

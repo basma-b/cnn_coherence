@@ -1,0 +1,15 @@
+           SOMETHING X - - - - -
+        /ETC/INIT.D/ X - - - - -
+                INIT X - - - - -
+              SCRIPT - O - X - -
+         /ETC/INIT.D - X - - - -
+               PLACE - O - - - -
+             SYMLINK - O - - - -
+          /ETC/RCX.D - X - - - -
+            RUNLEVEL - O - - - -
+          /ETC/RC6.D - X - - - -
+               KEXEC - - S - - -
+            FILENAME - - - X - -
+           DIRECTORY - - - X - -
+              REASON - - - - - X
+                  .. - - - - - X

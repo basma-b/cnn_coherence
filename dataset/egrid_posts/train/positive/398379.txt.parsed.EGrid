@@ -1,0 +1,9 @@
+             NETWORK X X - -
+             PROBLEM O - - -
+            IFCONFIG X - - -
+                  -A O - - -
+                ETH1 S - - -
+                ETH0 X - - -
+                CARS - O - -
+               CHECK - - - X
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - - X

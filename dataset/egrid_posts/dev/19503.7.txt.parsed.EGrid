@@ -1,0 +1,26 @@
+                WORK O - - - - -
+                LOAD - X - - - -
+                PART - X - - - -
+                 GIF - S - - - -
+               IMAGE - X - - - -
+              UPDATE - O - - - -
+                 ISH - - S - - -
+               TRICK - - O X - -
+   /ETC/DEFAULT/GRUB - - X - - -
+                LINE - - X - - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - X - - -
+         REBOOT=BIOS - - S - - -
+                SAVE - - S - - -
+                FILE - - X - - -
+         UPDATE-GRUB - - O - - -
+               ISSUE - - S - - -
+                 ATI - - X - - -
+             DRIVERS - - X - - -
+                   / - - X - - -
+             MONITOR - - X - - -
+                XORG - - X - - -
+             REMEBER - - - - - X
+                LINK - - - - - X
+          PENGUINCSC - - - - - S
+                ROOT - - - - - X
+            PASSWORD - - - - - O

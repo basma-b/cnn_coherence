@@ -1,0 +1,8 @@
+              PREFIX O - - - -
+                ROOT X - - - -
+                THIS - X - - -
+                USER - - X - -
+                THAT - - - O -
+              CHROOT - - - - O
+                TYPE - - - - X
+           /BIN/BASH - - - - O

@@ -1,0 +1,16 @@
+            IFCONFIG S - - X - - - - - - - -
+              UBUNTU S - - - - - - - - - - -
+           INTERFACE - S - - - - - - - - - -
+                  LO - X - - - - - - - - - -
+                 YEP - X - - - - - - - - - -
+             COMMAND - O - - - - - - - - - X
+               ROUTE - S - - - - - - - - - X
+                LIST - X - - - - - - - - - -
+                ROUT - X - - - - - - - - - -
+                  IP - - O - - O - X S - - -
+                 ADN - - - - - X - - - - - -
+              DRIVER - - - - - - S - - - - -
+                  .. - - - - - - O - O - - -
+                PING - - - - - - - - S - - -
+               REPLY - - - - - - - - X - - -
+              ROUTER - - - - - - - - - O - -

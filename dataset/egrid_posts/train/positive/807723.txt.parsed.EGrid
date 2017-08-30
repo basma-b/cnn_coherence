@@ -1,0 +1,18 @@
+             LIVEUSB X - - - - - -
+               VALUE O - - - - - -
+                GRUB X - - X - - -
+         UPDATE-GRUB S X - - - - -
+/USR/SBIN/GRUB-PROBE - X - - - - -
+               ERROR - X - - - - -
+              DEVICE - O - - - - -
+                   / - X - - - - -
+                /DEV - X - - - - -
+        INSTRUCTIONS - - - X S - -
+              REPAIR - - - X X - -
+                THAT - - - - O - -
+                FILE - - - - O - -
+              SYSTEM - - - - O - -
+               GRUB2 - - - - X - -
+               BEGIN - - - - X - -
+                   U - - - - - - X
+                LINK - - - - - - X

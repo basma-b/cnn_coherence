@@ -1,0 +1,16 @@
+                  IM S - - -
+              KERNEL X - - -
+               PANIC O - - -
+             KMALLOC X - - -
+                BOOT X - - -
+              ANYONE X - - -
+                ACPI X - - -
+            NOLAPICC - O - -
+                 IVE - - S -
+                   N - - X -
+              SPLASH - - X -
+               ERROR - - O -
+                 USE - - - X
+                SUDO - - - X
+             COMMAND - - - X
+               TRASH - - - O

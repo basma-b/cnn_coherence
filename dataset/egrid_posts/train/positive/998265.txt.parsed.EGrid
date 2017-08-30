@@ -1,0 +1,13 @@
+             PROBLEM X - - - - - - -
+               FLASH - X - - - - - -
+               DRIVE - O - - - - - -
+               DMESG - - X - - - - -
+                   | - - S - - - - -
+               LSUSB - - X - - - - -
+                  HD - - X - - - - -
+              OUTPUT - - O X - - - -
+                  SD - - - X - - - -
+               MKDIR - - - - X - - -
+    /HOME/CHRIS/TEMP - - - - S - - -
+               MOUNT - - - - - X - -
+              ERRORS - - - - - X - O

@@ -1,0 +1,15 @@
+                SUDO - S - - - - - - -
+            SOMEUSER - X - - - - - - -
+          MUDDLEFTPD - O - - - - - X -
+                ROOT - X - - - - - - -
+             HOMEDIR - X - - - - - - -
+              FOREST - - O - - - - - -
+               RIGHT - - X - - - - - -
+               ERROR - - - O - - - - -
+                 BAD - - - X - - - - -
+            PASSWORD - - - X - - - - -
+                 HUH - - - X - - - - -
+                WHAT - - - - - - X - -
+               GROUP - - - - - - - - X
+              CHANGE - - - - - - - - X
+              EFFECT - - - - - - - - O

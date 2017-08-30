@@ -1,0 +1,13 @@
+                ROOT X - - - O
+                  CD X - - - X
+              CHROOT - S - - X
+             COMMAND - O - - X
+           /BIN/BASH - X - - -
+                FILE - X - - -
+           DIRECTORY - X - - -
+                TYPE - X O - -
+                THAM - X - - -
+                 MSG - O - - -
+                SUDO - - - - O
+                HOST - - - - X
+              UBUNTU - - - - S

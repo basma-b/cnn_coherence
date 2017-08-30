@@ -1,0 +1,18 @@
+                THIS X - - - - - - - - S -
+               PLACE X - - - - - - - - - -
+            QUESTION O - - - - - - - - - -
+             MOD_SSL X - - - - - - - - - -
+         CERTIFICATE X - S - - O - - - - -
+                FILE X - - - - O - - X - -
+               10.04 - X - - - - - - - - -
+              SERVER - - S - - - - - - X -
+         PERMISSIONS - - S - - - - - - - -
+               ERROR - - - - X - - - - - -
+             MESSAGE - - - - X - - - - - -
+/VAR/LOG/APACHE2/ERROR.LOG - - - - - X - - - - -
+                INIT - - - - - O - - - - -
+/FULLPATH/TO/FILE.CRT - - - - - X - - - - -
+               PATHS - - - - - - - - S - -
+               THING - - - - - - - - - S -
+              SET-UP - - - - - - - - - O -
+              UBUNTU - - - - - - - - - - X

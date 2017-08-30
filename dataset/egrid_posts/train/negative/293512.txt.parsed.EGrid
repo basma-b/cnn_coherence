@@ -1,0 +1,8 @@
+     PERMITROOTLOGIN X - -
+/ETC/SSH/SSHD_CONFIG X - -
+                SUDO O - -
+             SUDOERS - X -
+                HOST - X -
+               WEIRD - - X
+               INTEL - - X
+            GRAPHICS - - O

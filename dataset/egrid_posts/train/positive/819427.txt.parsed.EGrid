@@ -1,0 +1,14 @@
+             COMMAND X - - -
+                WORK X - - -
+                SUDO X - - -
+            MODPROBE X - - -
+                  .. X - - -
+       MODPROBE.CONF - X - -
+                 B43 - - X O
+        /ETC/MODULES - - O -
+                FILE - - S -
+              DISTRO - - X -
+           CONFUSION - - S -
+               NATTY - - X -
+                WIRE - - - X
+         CONNECTIONS - - - X

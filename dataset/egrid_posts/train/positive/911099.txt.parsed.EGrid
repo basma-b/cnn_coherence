@@ -1,0 +1,28 @@
+               THERE X - - -
+                 WAY X - - -
+              CHANGE X - - -
+             DEFAULT X - - -
+              WINDOW X - X -
+             MANAGER O - X -
+               GNOME X S S -
+ UPDATE-ALTERNATIVES - S - -
+/ETC/ALTERNATIVES/X-WINDOW-MANAGER - X - -
+    /USR/BIN/OPENBOX - X - -
+   X-SESSION-MANAGER - X - -
+/DESKTOP/GNOME/APPLICATIONS/WINDOW_MANAGER/DEFAULT - - O -
+    X-WINDOW-MANAGER - - X -
+               TRICK - - X -
+              ACCORD - - O -
+   /USR/BIN/GNOME-WM - - X -
+          INITIALIZE - - X -
+/USR/BIN/GNOME-SESSION - - S -
+                LOOK - - O -
+/ETC/X11/XSESSION.D/50XORG - - X -
+                   * - - S -
+              SECOND - - S -
+           PARAGRAPH - - X -
+                   ' - - - X
+               WARTY - - - X
+                 ONE - - - X
+             STARTUP - - - X
+               -RSB- - - - X

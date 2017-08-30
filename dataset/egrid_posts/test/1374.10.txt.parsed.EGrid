@@ -1,0 +1,12 @@
+                LOAD X - - -
+              SCREEN X - - -
+              UBUNTU O - - -
+                TEXT - X - -
+               QUIET - - O -
+                GRUB - - X -
+                BOOT - - X -
+             CONTENT - - - O
+                HOST - - - X
+                FILE - - - X
+            HOSTNAME - - - S
+       /ETC/HOSTNAME - - - X

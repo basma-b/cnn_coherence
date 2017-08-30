@@ -1,0 +1,20 @@
+              KERNEL X - - - X - X
+               IMAGE X - S - - - -
+              INITRD S - - - - - -
+           DIRECTORY X - - - - - -
+               PANIC X - - - S - -
+            LOCATION - X - - - - -
+               /BOOT - - X - - - -
+                FIND - - - - O - -
+               CRASH - - - - S - -
+            INTREPID - - - - - X X
+                 TRY - - - - - - X
+              INSTAL - - - - - - O
+LINUX-BACKPORTS-MODULES - - - - - - O
+                8.10 - - - - - - S
+                 TAB - - - - - - X
+          COMPLETION - - - - - - O
+             VERSION - - - - - - O
+                 LBM - - - - - - X
+                SUDO - - - - - - X
+             APT-GET - - - - - - S

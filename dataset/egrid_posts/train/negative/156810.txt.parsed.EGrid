@@ -1,0 +1,11 @@
+                GRUB X S -
+              CONFIG X X -
+                FILE O - -
+             COMMAND O - -
+              CHANGE S - -
+              EFFECT O - -
+                LILO X - -
+DEVICE-MAP=/BOOT/GRUB/DEVICE.MAP - S -
+                   \ - S -
+              HD0,0\ - X -
+              THANKS - O -

@@ -1,0 +1,13 @@
+           SOMETHING S - - - - -
+              KERNEL X - - - - -
+             PACKAGE X - - - - -
+         METAPACKAGE - S - - - -
+           2.6.28-13 - X - - - -
+             VERSION - - O - - -
+             PROPOSE - - X - - -
+                   S - - - S - -
+LINUX-IMAGE-2.6.28-13 - - - - X -
+                   P - - - - X -
+                SUDO - - - - - X
+             APT-GET - - - - - S
+         NTFS-CONFIG - - - - - O

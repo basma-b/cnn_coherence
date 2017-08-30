@@ -1,0 +1,17 @@
+        DIFFICULTIES X - -
+                BOOT X - -
+                GRUB X X -
+               HD0,2 X - -
+              KERNEL X - -
+   /BOOT/VMLINUX-ETC X - -
+                  RO X - -
+      ROOT=/DEV/HDD3 X - -
+INITRD=/BOOT/INITRD-ETC O - -
+                LINE S S -
+              ERRORS O - -
+                FILE X - -
+                TYPE X - -
+                PATH X - -
+                NAME O - -
+             OPTIONS X - -
+                  IM - - X

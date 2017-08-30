@@ -1,0 +1,12 @@
+             COMMAND S - X - - - - - -
+             LIGHTDM X - - S - - - - -
+             SERVICE S - - X - - - - -
+                TYPE - - X - - - - - -
+                SUDO - - - X - - - - -
+                THEN - - - X - - - - -
+                XORG - - - - O - - - -
+             VERSION - - - - - X - - -
+              UBUNTU - - - - - X - - -
+               11.04 - - - - - - - - X
+              LAPTOP - - - - - - - - S
+             CRYSTAL - - - - - - - - X

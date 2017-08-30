@@ -1,0 +1,27 @@
+            SOMEBODY X - - - - - - -
+                GRUB X - - - - - - -
+              KARMIC - X - - - - - -
+               THERE - S - - - - - -
+               ENTRY - O - - - - - -
+                BOOT - X - - - - - -
+               VISTA - X - X S - - -
+              SYSTEM - - X - - - - -
+             PACKAGE - - X - - - - -
+           OS-PROBER - - O - - - - -
+                SUDO - - X - - - - -
+        UPDATE-GRUB2 - - X - - - - X
+              ENTRRY - - - O - - - -
+/ETC/GRUB.D/40_CUSTOM - - - X X - - -
+/ETC/GRUB.D/11_WINDOWS - - - X - - - -
+            TUTORIAL - - - O - - - -
+           PARTITION - - - - X - - -
+             COMMAND - - - - S - - -
+           /DEV/SDA1 - - - - X - - -
+                LINE - - - - S - - -
+/BOOT/GRUB/DEVICE.MAP - - - - X - - -
+            /DEV/SDA - - - - X - - -
+                 HD0 - - - - - X X -
+                WORK - - - - - - - X
+                THIS - - - - - - - O
+           40_CUSTOM - - - - - - - X
+                HTTP - - - - - - - X

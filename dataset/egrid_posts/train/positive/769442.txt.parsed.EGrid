@@ -1,0 +1,13 @@
+                 USE - O - - - - X
+               DRIVE - X - - - - -
+           PARTITION - X - - - - -
+                 LVM - X X - X - X
+                DISK - X - - - - -
+                ROOT - - S - - - -
+                GRUB - - - S - - -
+                BOOT - - - - X - -
+              SCREEN - - - - O - -
+               /BOOT - - - - - O -
+               GRUB2 - - - - - S -
+                  LV - - - - - X -
+               THING - - - - - X -

@@ -1,0 +1,20 @@
+PASSWORDAUTHENTICATION S - - - - -
+                  NO X - - - - -
+/ETC/SSH/SSHD_CONFIG X - - - - -
+               11.10 X - - - - -
+             MACHINE X - - X - -
+                 KEY S - - X - -
+                 SSH - - X X - -
+                TIME - - - X - -
+                USER - - - X - -
+            PASSWORD - - - X - -
+               LOGIN - - - X - -
+               SHELL - - - O - -
+               AGENT - - - O - -
+          SEARCHABLE - - - - - X
+              SEARCH - - - - - X
+                APPS - - - - - X
+                   / - - - - - S
+        REPOSITORIES - - - - - X
+                LIST - - - - - X
+/ETC/APT/SOURCES.LIST - - - - - X

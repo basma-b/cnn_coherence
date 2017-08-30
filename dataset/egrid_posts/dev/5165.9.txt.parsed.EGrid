@@ -1,0 +1,14 @@
+              NVIDIA - X - - -
+                CARD - X - - -
+              GOOGLE - - S - -
+               LSPCI - - X - -
+                   | - - S - -
+                 VGA - - O - -
+             CONTROL - - - X -
+                SIDE - - - X -
+             EASYBCD - - - - O
+              UBUNTU - - - - X
+              CUSTOM - - - - O
+                GRUB - - - - O
+                ROOT - - - - X
+           PARTITION - - - - O

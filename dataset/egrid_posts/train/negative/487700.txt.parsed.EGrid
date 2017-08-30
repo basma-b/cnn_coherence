@@ -1,0 +1,15 @@
+                PIPE X - - - -
+                FILE O - - - -
+                LINE X - X - -
+                 CAT - X X - -
+            FILE.TXT - X - - -
+                   > - S - - -
+                CANT - - X - -
+           SPECIFIER - - X - -
+             CONTROL - - S - -
+             MANPAGE - - X - -
+                HEAD - - X - -
+                TAIL - - O - -
+            SPEAKERS - - - O X
+                 B/C - - - - S
+              LAPTOP - - - - X

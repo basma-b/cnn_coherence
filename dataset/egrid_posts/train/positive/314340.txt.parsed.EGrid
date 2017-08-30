@@ -1,0 +1,14 @@
+                SWAP X - S -
+           PARTITION X - - -
+                 USE S - O -
+                 ANY - S - -
+                SUDO - - X -
+              SWAPON - - X -
+  /DEV/SWAPPARTITION - - X -
+                FILE - - X -
+           DIRECTORY - - O -
+                  -L - - O -
+           /DEV/SDA5 - - X -
+              SYSTEM - - X -
+                   % - - X -
+                FREE - - S -

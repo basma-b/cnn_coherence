@@ -1,0 +1,12 @@
+                TIME S S -
+              SCRIPT O - -
+                GREP X - -
+             KEYWORD O - -
+            TEXTFILE X - -
+S/WHATEVERL/WHATEVER - X -
+             COMMAND - - S
+               PATCH - - X
+DIFF_WEBCAMSTUDIO.PATCH - - O
+                FILE - - S
+           DIRECTORY - - X
+        WEBCAMSTUDIO - - X

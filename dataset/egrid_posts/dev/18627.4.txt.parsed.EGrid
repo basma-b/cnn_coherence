@@ -1,0 +1,14 @@
+               MOUNT X - - -
+              DEVICE O - - -
+                TYPE - - S -
+         MOUNTPOINTS - - O -
+               CHECK - - - S
+                TRAP - - - O
+             SIGEXIT - - - X
+            SIGABORT - - - X
+              SIGNAL - - - X
+             COMMAND - - - O
+             PROCESS - - - O
+                STOP - - - O
+          BACKGROUND - - - X
+              CONFIG - - - O

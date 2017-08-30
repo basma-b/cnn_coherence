@@ -1,0 +1,16 @@
+               FSTAB X - - -
+                 HDD O - - -
+                   < - X - -
+             OPTIONS - X - -
+                   > - X - -
+                DUMP - X - -
+                PASS - X - -
+           BEHAVIOUR - - O -
+                  HD - - X -
+                LINE - - O -
+           PARTITION - - X -
+              PEOPLE - - - S
+                 WAY - - - O
+               USERS - - - X
+           MYTHBUNTU - - - X
+                 NFS - - - X

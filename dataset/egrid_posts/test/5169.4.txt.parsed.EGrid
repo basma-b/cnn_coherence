@@ -1,0 +1,11 @@
+         PERMISSIONS S - - -
+                 USB X - - -
+               DRIVE X - - -
+                 BOX X - - -
+                 ONE - X - -
+                SUDO - - S -
+/MEDA/YOURUSBDRIVEHERE - - X -
+               CHOWN - - O -
+                 BAD - - - X
+                 CAT - - - X
+         /ETC/ISSUE/ - - - X

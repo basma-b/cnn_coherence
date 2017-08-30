@@ -1,0 +1,11 @@
+                HELP O - -
+                FILE - O -
+                 TAR - X -
+                 EOF - X -
+             ARCHIVE - X -
+               ERROR - S -
+                EXIT - S -
+        YOURFILE.TAR - X -
+                SUDO - - X
+             APT-GET - - X
+          RESOLVCONF - - S

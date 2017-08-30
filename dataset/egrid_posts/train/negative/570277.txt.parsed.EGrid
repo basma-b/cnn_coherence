@@ -1,0 +1,12 @@
+                HELP O - - - -
+                 DVD - O - - -
+          LIBDVDCSS2 - O - - -
+               THERE - - S S -
+                 ONE - - O - -
+              SAMPLE - - - O -
+/USR/SHARE/ZABBIX-AGENT - - - X -
+                HTTP - - - O -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_CONTENTS.PL - - - O -
+ SEARCHMODE=FILELIST - - - - X
+   WORD=ZABBIX-AGENT - - - - S
+                 YEP - - - - O

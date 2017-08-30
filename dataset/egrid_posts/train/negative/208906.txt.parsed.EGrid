@@ -1,0 +1,15 @@
+                DATA O X - -
+                EXT3 X - - -
+           PARTITION O - - -
+                  DD X - - -
+               STALL X - - -
+               THERE - X - -
+                 WAY - O - -
+           DD_RESCUE - - X -
+                 ONE - - - X
+             PROGRAM - - - X
+            TERMINAL - - - X
+              YES/NO - - - X
+            QUESTION - - - O
+             DEFAULT - - - X
+                ONES - - - X

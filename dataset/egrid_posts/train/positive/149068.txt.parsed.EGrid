@@ -1,0 +1,9 @@
+         RECONFIGURE X - - -
+        XSERVER-XORG O - - -
+            1024X768 O - - -
+              SCREEN X - - -
+          RESOLUTION X - - -
+            GRAPHICS X - - X
+             ADAPTER X - - X
+               LSPCI - - - S
+              OUTPUT - - - X

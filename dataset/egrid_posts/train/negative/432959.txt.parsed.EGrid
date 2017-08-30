@@ -1,0 +1,13 @@
+             VAR/LOG X - - -
+              FOLDER S - - -
+               KINDA X - - -
+                 1GB O - - -
+                SIZE X - - -
+              SYSLOG S - - -
+            KERN.LOG X - - -
+               DEBUG X - - -
+               200MB S - - -
+         LOGROTATION - S - -
+            ROTATION - O - -
+               CHECK - - X -
+              SOURCE - - - S

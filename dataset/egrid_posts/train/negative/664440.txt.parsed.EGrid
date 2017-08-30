@@ -1,0 +1,10 @@
+          MOUNT.CIFS O - - - - -
+             ADDRESS O - X - - -
+                NODE X - X - - -
+           SMBCLIENT - O - - - -
+                WINS - X - - - -
+                NAME - O - - - -
+             FINDSMB - - - O - -
+             COMMAND - - - O - -
+                  RE - - - - - S
+               UNITY - - - - - X

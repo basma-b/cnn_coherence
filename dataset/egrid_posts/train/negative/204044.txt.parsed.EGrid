@@ -1,0 +1,10 @@
+         RECONFIGURE - X - -
+              LOCALE - O - -
+                SUDO - X - -
+    DPKG-RECONFIGURE - X - -
+             LOCALES - O X -
+             APT-GET - - - S
+          NTP-SERVER - - - O
+                CALL - - - O
+                DPKG - - - O
+                 NTP - - - X

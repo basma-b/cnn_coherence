@@ -1,0 +1,14 @@
+             COMMAND X - - - -
+              FORMAT X - X - -
+                 USB X - - - -
+               STICK X - - - -
+             WINDOWS - X X - -
+              EITHER - - S - -
+           /DEV/SDXX - - O - -
+                  XX - - S - -
+              LETTER - - O - -
+                PART - - X - -
+                 NUM - - X - -
+           MKFS.VFAT - - - X -
+                 TNX - - - O -
+             PROBLEM - - - - X

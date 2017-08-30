@@ -1,0 +1,10 @@
+            WINDOWS7 S - - - -
+           PARTITION X - - - -
+                WUBI - S - - -
+                NICK - - O - -
+         DISTUPGRADE - - - O -
+             PACKAGE - - - X -
+              UPDATE - - - O -
+          GLPACKAGES - - - - O
+             DRIVERS - - - - O
+                   = - - - - X

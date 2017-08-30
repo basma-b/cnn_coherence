@@ -1,0 +1,13 @@
+          RESOLUTION S - - -
+                 ONE X - - -
+            /DEV/SDA - S X -
+                DISK - X - -
+              DEVICE - O - -
+           PARTITION - X - -
+          FILESYSTEM - O - -
+             MESSAGE - O - -
+              OUTPUT - X X -
+                 ANY - - X -
+               LABEL - - O -
+                SOME - - - S
+              OTHERS - - - X

@@ -1,0 +1,10 @@
+             DEFAULT X - O -
+                 END X - - -
+               ENTRY X - - -
+               FSTAB - - X -
+                 MAN - - X -
+              LEGACY - - X -
+                ROOT - - X -
+          FILESYSTEM - - O -
+             MESSAGE - - - O
+           UNTRUSTED - - - X

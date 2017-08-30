@@ -1,0 +1,10 @@
+             SOMEONE X - -
+              CONFIG X - -
+            IPTABLES - S -
+           WEBSERVER - O -
+                 FTP - O -
+           DIRECTORY - X -
+                LIST - X -
+                HTTP - O -
+           NETFILTER - S -
+             CHANNEL - O -

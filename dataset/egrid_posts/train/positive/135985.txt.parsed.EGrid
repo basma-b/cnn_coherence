@@ -1,0 +1,11 @@
+            HOSTNAME X X - - -
+                THAT - O - - -
+  /ETC/HOSTNAME.CONF - - O - -
+                SUDO - - S - -
+           SOMETHING - - S - -
+       /ETC/HOSTNAME - - O - -
+          /ETC/HOSTS - - X - -
+                NAME - - X - -
+                   > - - S - -
+            RECOVERY - - X - -
+                MODE - - X - -

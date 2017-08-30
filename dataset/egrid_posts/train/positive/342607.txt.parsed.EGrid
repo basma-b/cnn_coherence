@@ -1,0 +1,17 @@
+                NTFS - X - - X - X
+           PARTITION - O - - X - X
+          PERMISSION - O X - - - -
+                 USE - - - X - - -
+             NTFS-3G - - - S - - -
+                  .. - - - X - O -
+         /LIB/DUMP.C - - - O - - -
+               ERROR - - - X - - -
+              VERREL - - - X - - -
+              ACCESS - - - - O O -
+                 ACE - - - - O - -
+                   U - - - - S - -
+              DRIVER - - - - O - -
+                 ONE - - - - O - -
+                READ - - - - - X -
+              SERVER - - - - - - X
+               7.04. - - - - - - X

@@ -1,0 +1,13 @@
+                   A X - - - - -
+                 ACE O - - - - -
+           PARTITION O - - - - -
+                ROOT X - - - - -
+                HTTP O - - - - -
+           NTFS/VFAT X - - - - -
+             OPTIONS - X - - - -
+               UMASK - X - - - -
+               USERS - S - - - -
+                FILE - - O - - -
+                LINE - - X - - -
+               THING - - - - S -
+             WINDOWS - - - - - X

@@ -1,0 +1,6 @@
+             PACKAGE O -
+            DPKG-DEB X -
+                FILE X -
+                NAME O X
+         DESTINATION X -
+           DIRECTORY O O

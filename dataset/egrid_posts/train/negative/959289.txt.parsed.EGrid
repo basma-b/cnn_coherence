@@ -1,0 +1,10 @@
+                SMTP X - - - - - - -
+            SENDMAIL X - - O - O - -
+                 USE O - - - - - - -
+               RELAY - - X - - - - -
+         RECONFIGURE - - - - X - - -
+             POSTFIX - - - - O S X -
+             COMMAND - - - - - X - -
+                TYPE - - - - - - X -
+             GALLERY - - - - - - - X
+                 APP - - - - - - - S

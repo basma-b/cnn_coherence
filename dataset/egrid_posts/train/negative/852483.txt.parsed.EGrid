@@ -1,0 +1,24 @@
+       DELUGE-DAEMON S - - - - X - - - - -
+             STARTUP X - - - - - - - - - -
+                TIME - X - - - - - - - - -
+                SUDO - X - - X - - - - - X
+              DELUGE - O - - - - - X - - -
+              ANYONE - - X - - - - - - - -
+                THAT - - - - O - - - - - -
+                HTTP - - - - X - - - - - -
+/ETC/INIT.D/DELUGE-DAEMON - - - - S - - - - - -
+                STOP - - - - O - - - - - -
+               WHATS - - - - X - - - - - -
+     /VAR/LOG/SYSLOG - - - - X - - - - - -
+               THERE - - - - - S - - S S -
+           REFERENCE - - - - - O - - - - -
+              SYSLOG - - - - - X - - - - -
+              CHANGE - - - - - O - - - - -
+              SCRIPT - - - - - X - - - - -
+            USERNAME - - - - - - O - - - -
+                USER - - - - - - - S O - -
+                PAGE - - - - - - - - - X -
+                 LOG - - - - - - - - - O -
+/VAR/LOG/DELUGE/DAEMON - - - - - - - - - X -
+             APT-GET - - - - - - - - - - X
+        DIST-UPGRADE - - - - - - - - - - O

@@ -1,0 +1,24 @@
+                EXIM S - - - - -
+           EXIM.CONF X - X - - -
+                FILE O - O O - -
+           DIRECTORY S - - - - -
+               ERROR X - - - - -
+/ETC/EXIM4/UPDATE-EXIM4.CONF.CONF X - - - - -
+                EXIT X - - - - -
+/USR/SBIN/UPDATE-EXIM4.CONF - O - - - -
+               THERE - X - S - S
+                 WAY - X X X - -
+               SHORT - - S - - -
+             MAUALLY - - X - - -
+   /ETC/INIT.D/EXIM4 - - O - - -
+              CONFIG - - - X - -
+             COMMAND - - - X - -
+                LINE - - - X - -
+                 MAN - - - - S -
+               START - - - - - X
+                 LOT - - - - - O
+          DIFFERENCE - - - - - X
+             SUPPORT - - - - - S
+            HARDWARE - - - - - X
+            SOFTWARE - - - - - X
+          EXTENSIONS - - - - - O

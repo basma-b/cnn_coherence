@@ -1,0 +1,12 @@
+             COMMAND O - S - - - -
+              LAPTOP O - - - - - -
+             GATEWAY X - - - - - -
+             DESKTOP S - - - - - -
+            INTERNET X - - - - - -
+                ROOT - O - - X - -
+         PERMISSIONS - X - - - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - O - - - -
+                 ANY - - - S - - -
+                SUDO - - - - - X -
+                  -S - - - - - S -
+                USER - - - - - O -

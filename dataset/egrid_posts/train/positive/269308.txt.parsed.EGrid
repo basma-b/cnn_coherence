@@ -1,0 +1,18 @@
+/HOME/TEST/MNT/EBUNTO-6.10-LIVE.ISO O - - - -
+          /ETC/FSTAB X - - - -
+            ETC/MTAB X - - - -
+                  CD X - - - -
+                 ISO O - - - S
+              CUSTOM X - - - -
+                SUDO S S - - X
+                LOOP S - - - X
+          MOUNTPOINT O - - X -
+/MEDIA/SOMEDIRECTORY - O - - -
+           DIRECTORY - O - - -
+              /MEDIA - X - - -
+               IMAGE - - S - -
+            ANYTHING - - - O -
+               THERE - - - X -
+                 USE - - - - S
+        FILENAME.ISO - - - - X
+      /HOME/TEST/MNT - - - - O

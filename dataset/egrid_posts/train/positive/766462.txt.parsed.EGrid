@@ -1,0 +1,12 @@
+                USER S - - - O
+               ADMIN X - - - -
+               GROUP X - - - -
+                  SU S X - - S
+              ANYONE S - - - -
+                SUDO - S - X -
+                ROOT - X - - -
+              ACCESS - S - - -
+           SOMETHING - O - - -
+                  -I - S - S -
+               PLACE - X - - -
+       FUNCTIONALITY - - - - X

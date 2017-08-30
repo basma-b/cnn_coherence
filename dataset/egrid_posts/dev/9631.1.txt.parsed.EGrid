@@ -1,0 +1,6 @@
+     /USR/BIN/UDISKS X - - - -
+               MOUNT S - - - -
+              ACCESS - - X - O
+                SUDO - - X - -
+                ROOT - - - - X
+               USERS - - - - S

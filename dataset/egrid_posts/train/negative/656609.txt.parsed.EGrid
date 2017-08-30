@@ -1,0 +1,11 @@
+                GRUB - X - -
+                   | - S - -
+              SOURCE - S - -
+               SHELL - X - -
+             BUILTIN - O - -
+              SCRIPT - O - -
+             CONTEXT - X - -
+             PROCESS - X - -
+               ORDER - - - S
+                  FS - - - O
+                DEV/ - - - O

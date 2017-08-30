@@ -1,0 +1,13 @@
+                THAT O - - -
+                   A X - - -
+                EXT3 O - - -
+           HDD-IMAGE X - - -
+              OFFSET X - - -
+           PARTITION O X X -
+             LOSETUP - X - -
+          /DEV/LOOP0 - S - -
+             FOO.IMG - S - -
+                LIST - X - -
+               THATS - - - X
+          HDD-IMAGES - - - X
+    PARTITION-IMAGES - - - X

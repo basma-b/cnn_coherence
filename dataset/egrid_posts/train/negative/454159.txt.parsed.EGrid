@@ -1,0 +1,14 @@
+         PERMISSIONS O - - - - -
+           DIRECTORY X - - - - -
+               CHMOD X - - - - -
+               VALUE X - - - - -
+                MODE - S - - - -
+              KERNEL - - O - - -
+            WIRELESS - - - - S -
+                WORK - - - - O -
+                HTTP - - - - - X
+//PPA.LAUNCHPAD.NET/KERNEL-PPA/PPA/UBUNTU - - - - - X
+                 ONE - - - - - S
+            SYNAPTIC - - - - - O
+               THERE - - - - - S
+              2.6.35 - - - - - X

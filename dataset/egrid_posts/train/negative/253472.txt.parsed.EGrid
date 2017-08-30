@@ -1,0 +1,15 @@
+        FILES+PHOTOS O - - - - -
+        \HOME\MYUSER X - - - - -
+         \MULTIMEDIA X - - - - -
+                ROOT X - - - - -
+         /MULTIMEDIA X - - - - -
+           ACESSIBLE X - - - - -
+            WRITABLE X - - - - -
+               USERS X - - - - -
+              SERVER - - X - - -
+               CHMOD - - - X - -
+                A+RW - - - X - -
+      /DIRECTORYNAME - - - O - -
+            EVERYONE - - - X - -
+                WORK - - - - - X
+                 LOL - - - - - X

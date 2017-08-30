@@ -1,0 +1,25 @@
+               PATCH X - - - - - - - - - - - - -
+              KERNEL O - - - X - - - - - - - - -
+               /BOOT X - - - - - - - - - - - - -
+         RECONFIGURE - X - - - - - - - - - - - -
+                GRUB - O - - - - - - - - - - - -
+           /DEV/HDA4 - - X - - - - - - - - - - -
+                ERMM - - - X - - - - - - - - - -
+           /DEV/HDA3 - - - - S - - - - - - - - -
+                ROOT - - - - X - - - - - - - - -
+           DIRECTORY - - - - S - - - - - - - - -
+            MKINITRD - - - - S - - - - - - - - -
+                TREE - - - - O - - - - - - - - -
+             ALRIGHT - - - - - - O - - - - - - -
+             MODULES - - - - - - - O X - - - - -
+        REALTIME-LSM - - - - - - - - - S - - - -
+                  .. - - - - - - - - - - - X - -
+                THIS - - - - - - - - - - - S O -
+              UPDATE - - - - - - - - - - - O - -
+              OPTION - - - - - - - - - - - O - -
+        INSTALLATION - - - - - - - - - - - X - -
+                HTTP - - - - - - - - - - - - X -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - - - - - - - - - - - X -
+               THING - - - - - - - - - - - - - S
+               UNITY - - - - - - - - - - - - - O
+              REBOOT - - - - - - - - - - - - - O

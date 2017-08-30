@@ -1,0 +1,32 @@
+             ANYBODY S - - - - - - - -
+            QUESTION O - - - - - - - -
+                 ONE - S - - - - - - -
+             MINUTES - X - - - - - - -
+               ERROR - X - - X - - - -
+               STATE - O - - - - - - -
+          DEPENDENCY - X - - - - - - -
+            PROBLEMS - S - - - - - - -
+       CONFIGURATION - O - - - - - - -
+MOZILLA-FIREFOX-GNOME-SUPPORT - X - - O - - - -
+                ERRO - X - - - - - - -
+                MAUS - O - - - - - - -
+     MOZILLA-FIREFOX - S - - X - - - -
+             FIREFOX - X - O S - - - -
+             PACKAGE - O - - - - - - -
+      MOZILA-FIREFOX - - - X - - - - -
+            CONFLICT - - - X - - - - -
+                THAT - - - - X - - - -
+                DPHG - - - - O - - - -
+             PROCESS - - - - X - - - -
+              SCRIPT - - - - X - - - -
+              RETURN - - - - X - - - -
+                EXIT - - - - X - - - -
+              STATUS - - - - X - - - -
+                LINE - - - - O - - - -
+                DPKG - - - - - S - - -
+            REGISTRY - - - - - X - - -
+                  .. - - - - - O - - -
+/VAR/LIB/MOZILLA-FIREFOX/EXTENSIONS/INSTALLED-EXTENSIONS.TXT - - - - - X - - -
+           OPERATION - - - - - S - - -
+                SUDO - - - - - - O - -
+            SYNAPTIC - - - - - - - - O

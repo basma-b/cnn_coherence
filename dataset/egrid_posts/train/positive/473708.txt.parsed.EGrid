@@ -1,0 +1,13 @@
+        GRUB-INSTALL O - - -
+                  CD X - - -
+          FILESYSTEM X - - -
+                 HDX X - - -
+                 SDX S - - -
+           PARTITONS O - - -
+              CHROOT X - - -
+                ROOT - X - -
+           PARTITION - S - -
+                  .. - O - -
+              TARGET - X - -
+               POINT - X - -
+                PROC - X - -

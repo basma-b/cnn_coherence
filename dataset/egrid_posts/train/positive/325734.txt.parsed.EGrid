@@ -1,0 +1,14 @@
+      OPENSSH-SERVER O - - - - - - -
+             PURPOSE - - X - - - - -
+           STRATJAKT - - X - - - - -
+                SUDO - - - X - - - -
+     /ETC/INIT.D/SSH - - - S - - - -
+                STOP - - - O - - - O
+             COMMAND - - - - - - - S
+               START - - - - - - - X
+                TYPE - - - - - - - X
+               XKILL - - - - - - - X
+            TERMINAL - - - - - - - X
+               ENTER - - - - - - - O
+               CLICK - - - - - - - X
+         APPLICATION - - - - - - - X

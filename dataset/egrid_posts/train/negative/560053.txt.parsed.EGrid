@@ -1,0 +1,13 @@
+               CHMOD O - - -
+         PERMISSIONS O - - -
+           DIRECTORY X - - -
+                SUDO - X - -
+       YOUR_USERNAME - O - -
+          DIRECTORY/ - X - -
+                   * - S - -
+               CHOWN - X - -
+        YOUR_USRNAME - X - -
+            USERNAME - X - -
+      /MY/DIRECTORY/ - X - -
+                SURE - - - X
+                  TA - - - X

@@ -1,0 +1,11 @@
+              UBUNTU O - - - -
+     BUILD-ESSENTIAL O - - - -
+       LINUX-HEADERS - O X - -
+          VIRTUALBOX - X - - -
+               GUEST - X - - -
+           ADDITIONS - O - - -
+                   $ - - - O -
+                SUDO - - - X -
+             APT-GET - - - S -
+                  -R - - - X -
+               NIGHT - - - - X

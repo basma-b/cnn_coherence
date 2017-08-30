@@ -1,0 +1,45 @@
+                 MAX X - - - - - - - - - - - -
+                PAGE O - - - - - - - - - - - -
+                 JOB X - - - - - - - - - - - -
+               PRINT O - - - - X - - - - - - -
+              AMOUNT X - - - - - - - - - - - -
+              RESULT X - - - - S - - - - - - -
+           PAGELIMIT - X - - - - - - - - - - -
+              OPTION - O - - - - - - - - - - -
+       PRINTERS.CONF - X - - - - - - - - - - -
+               ERROR - O O - - S - - - - - - -
+             COMMAND - - S - - - - - - - - - -
+                THIS - - S - - - - - - S - - -
+   /USR/SBIN/LPADMIN - - O - - - - - - - - - -
+                 CUP - - O - - X X - - - - - -
+                 IPP - - X - - - - - - - - - -
+CLIENT-ERROR-NOT-POSSIBLE - - O - - - - - - - - - -
+          CREATE-JOB - - X - - - - - - - - - -
+//LOCALHOST:631/PRINTERS/ML-1610 - - X - - - - - - - - - -
+           LOCALHOST - - X - - - - - - - - - -
+              OFFICE - - - - - X - - - - - - -
+                WORD - - - - - S - - - - - - -
+                SUDO - - - - - X - - - - - - -
+                TAIL - - - - - X - - - - - - -
+/VAR/LOG/CUPS/ERROR.LOG - - - - - S - - - - - - -
+                LATE - - - - - X - - - - - - -
+             BROWSER - - - - - - O - - - - - -
+             ADDRESS - - - - - - O - - - - - -
+                HTTP - - - - - - X - - O O - -
+    //LOCALHOST:631/ - - - - - - S - - - - - -
+               POINT - - - - - - O - - - - - -
+              SERVER - - - - - - X - - - - - -
+                 BOX - - - - - - X - - - - - -
+               THERE - - - - - - - X - - - - -
+                  1. - - - - - - - - S - - - -
+               SETUP - - - - - - - - O - - - -
+             PRINTER - - - - - - - - X - - - -
+//PRINTING.KDE.ORG/DOCUMENTATION/TUTORIALS/QUOTAS.PHP - - - - - - - - - S - - -
+               QUOTA - - - - - - - - - X X - -
+                LINK - - - - - - - - - O - - -
+                CUPS - - - - - - - - - X - - -
+               ISSUE - - - - - - - - - O X - -
+             SOMEONE - - - - - - - - - - X - -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - - - - - - - - - O - -
+            T=545747 - - - - - - - - - - - S -
+                 YEP - - - - - - - - - - - - X

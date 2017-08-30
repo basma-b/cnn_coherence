@@ -1,0 +1,9 @@
+                SWAP X X S X - -
+           /DEV/SDA4 - - O - S -
+              SWAPON - - X - X -
+                  -A - - O - O -
+              MEMORY - - - X - -
+                 2GB - - - - X -
+                 RAM - - - - S -
+              MKSWAP - - - - X -
+                WORK - - - - - X

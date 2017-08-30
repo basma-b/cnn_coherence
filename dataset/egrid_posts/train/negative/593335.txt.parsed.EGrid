@@ -1,0 +1,10 @@
+           SEVERITY1 X - - -
+              BRIDGE - X - -
+             NETWORK - O - -
+             VMWARES - S - -
+               GUEST - S - -
+               CABLE - X - -
+                HOST - X - -
+           LOCALHOST - S - -
+               LINUX - - - X
+              MATRIX - - - X

@@ -1,0 +1,13 @@
+                FILE S - - - O S - O
+            HARDLINK X - - - - X - -
+           HARDLINKS - S - - S - S -
+             IFILES - O - - - - - -
+                   * - - X - - - - -
+               FILES - - S - - - - -
+            LOCATION - - - - - - X -
+          _SYM_LINKS - - - - - - S -
+            POINTERS - - - - - - O -
+                DATA - - - - - - X -
+                DISK - - - - - - X -
+                  MB - - - - - - - X
+               SPACE - - - - - - - O

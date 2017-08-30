@@ -1,0 +1,12 @@
+             PROCESS S - - - -
+            TERMINAL X - - - -
+              SCREEN X - - - -
+        XSERVER-XORG X - - - -
+            POSTINST S - - - -
+       CONFIGURATION X - - - -
+                FILE O - - - -
+              BACKUP X O - - -
+/ETC/X11/XORG.CONF.20061105214852 X - - - -
+                   X S - - O -
+                  .. - - X - -
+              VMWARE - - - - X

@@ -1,0 +1,19 @@
+/LIB/MODULES/3.5.0-17-GENERIC/BUILD X - - - -
+                FILE X - - O -
+           DIRECTORY S - - - -
+                   < X - - - -
+              SOURCE - X - - -
+           ACPI_CALL - - X - -
+              MODULE - - X - -
+         /DEV/RANDOM - - - S -
+              NUMBER - - - X -
+           GENERATOR - - - X -
+              ADVICE - - - X -
+             STORAGE - - - O -
+                JUNK - - - X -
+                DATA - - - X -
+                   > - - - - X
+               FLEXM - - - - X
+                  DD - - - - X
+      IF=/DEV/RANDOM - - - - X
+ OF=/DEV/YOUR_DEVICE - - - - X

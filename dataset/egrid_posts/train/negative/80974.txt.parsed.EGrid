@@ -1,0 +1,12 @@
+         PERMISSIONS X - - - -
+           PARTITION X O - - -
+                AUTO S - - - -
+             NETWORK - X - - -
+                 MAN - X - - -
+               FSTAB - X - - -
+                 UID - - X - -
+             OPTIONS - - O - -
+         FILESYSTEMS - - X - -
+         INFORMATION - - X - -
+                HOST - - - - X
+                 -IS - - - - X

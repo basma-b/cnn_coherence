@@ -1,0 +1,16 @@
+               -LSB- S - - - - - - - - - -
+               -RSB- O - X - - - - - - - -
+           DIRECTORY S - S - - - - - - - -
+                RULE O - - - - - - - - - -
+             MODULES O - - - - - - - - - -
+                STOP - X - - - - - - - - -
+             DEFAULT - - X - - - - - - - -
+               ERROR - - X - - - - - - - -
+      KERNEL-HEADERS - - X - - - - - - - -
+                 SEC - - - - X - - - - - -
+              KERNEL - - - - X - - - - - -
+              2.6.11 - - - - - - - O - - -
+               HOARY - - - - - - - - X - -
+                 USE - - - - - - - - X - -
+           SOMETHING - - - - - - - - X - -
+               BREAK - - - - - - - - X - -

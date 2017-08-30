@@ -1,0 +1,12 @@
+          EXECUTABLE X - - - -
+                PATH - X - - -
+                   < - X - - -
+             PACKAGE - O - - -
+   /USR/SBIN/APACHE2 - - - X -
+              DAEMON - - - X -
+               USERS - - - X -
+                SUDO - - - X -
+               FRONT - - - X -
+    /USR/BIN/FIREFOX - - - O -
+                WORD - - - - O
+           DIRECTORY - - - - X

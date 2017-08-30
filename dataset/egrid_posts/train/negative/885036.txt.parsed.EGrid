@@ -1,0 +1,14 @@
+              SCRIPT S - - -
+                WORK O - - -
+              SYSTEM X - - -
+                 LOG X - - -
+              VIEWER X - - -
+       /VAR/LOG/CRON X - - -
+   /VAR/LOG/MESSAGES X - - -
+     /VAR/LOG/SYSLOG O - - -
+                 TRY - S - -
+                BOOT - - S -
+                  CD - - O -
+                DISK - - O -
+               THERE - - X -
+           GUARANTEE - - - X

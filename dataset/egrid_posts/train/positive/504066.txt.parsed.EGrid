@@ -1,0 +1,13 @@
+            INTREPID O - - - - - - -
+                  DD - X - - - - - -
+               KLOGD - X - - - - - -
+             SYSLOGD - S - - - - - -
+                 CPU - X - - - - - -
+                ROOT - X - - - - - -
+           PARTITION - S - - - - - -
+                DISK - - S - - - - -
+                BOOT - - X - - - - -
+              LIVECD - - X - - O - X
+                 ONE - - - X - - - -
+               IDEAS - - - - - - X -
+              REBOOT - - - - - - O -

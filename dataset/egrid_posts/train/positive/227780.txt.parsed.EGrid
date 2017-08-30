@@ -1,0 +1,22 @@
+        XSERVER-XORG O - -
+            RECOVERY X X -
+                MODE X X -
+              SYSTEM O - X
+                XORG S - -
+               THERE S - -
+             PROBLEM S - -
+              NVIDIA X - -
+              DRIVER X - -
+                  .. X - -
+          XORG.0.LOG X - -
+            /VAR/LOG X - -
+                SITE X - -
+                HTTP X - -
+//PASTE.UNI.CC/12202 S - -
+               LSMOD O - S
+              KERNEL X - -
+              MODULE O - -
+                BOOT X - -
+             WINDOWS X - -
+              THINGS X - -
+             MODULES - - X

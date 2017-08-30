@@ -1,0 +1,15 @@
+                  HI X - - - - - -
+                 LTS O - - - - - -
+            LIGHTTPD O - - - - - -
+            APTITUDE X - - - - - -
+/ETC/INIT.D/LIGHTTPD - X - - O - -
+               ERROR - O - - - - -
+           OWNERSHIP - X - - - - -
+   /VAR/RUN/LIGHTTPD - X - - - - -
+           OPERATION - S - - - - -
+              SCRIPT - - - O - - -
+                ROOT - - - X - - -
+                THAT - - - - O - -
+                SUDO - - - - X - -
+                 AHH - - - - - - X
+                   P - - - - - - X

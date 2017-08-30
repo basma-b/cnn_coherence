@@ -1,0 +1,12 @@
+            QUESTION O - - -
+          /ETC/FSTAB - O - -
+                DISK - O - -
+            /VAR/FOO - X - -
+           DIRECTORY - X - -
+             MY_USER - X - -
+            MY_GROUP - X - -
+             UID/GID - X - -
+                 MAN - - - X
+                PAGE - - - X
+                  .. - - - X
+                HINT - - - X

@@ -1,0 +1,15 @@
+                 USE X - - -
+                SUDO X - - -
+             APT-GET S - - -
+               PURGE X - X -
+                WINE O - - X
+                FILE X - O X
+              FOLDER X - - -
+                  NO - X - -
+             COMMAND - X - O
+                STEP - - S -
+             PACKAGE - - S -
+       CONFIGURATION - - X -
+                /ETC - - X -
+             VERSION - - - O
+             PROGRAM - - - O

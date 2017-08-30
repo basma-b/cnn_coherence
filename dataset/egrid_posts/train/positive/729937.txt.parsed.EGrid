@@ -1,0 +1,37 @@
+              SERVER X - - - - - - - - - O - - -
+              APACHE X X X - - - - - - - - - - -
+            DOCUMENT X - - - - - - - - - - - - -
+                ROOT O - - - - - - - - - - - - -
+             SERVERS X - - - - - - - - - - - - -
+               INPUT X - - - - - - - - - - - - -
+              ANYONE - S - - - - - - - - - - - -
+             PROBLEM - X - - - O - - - - - - - -
+  APACHE-MPM-PREFORK - - - S - - - - - - - - - -
+                SITE - - - X - - - - - - - - - -
+           SOMETHING - - - - X - - - - - - - - -
+       SITES-ENABLED - - - - X - - - - - - - - -
+                 USE - - - - - S - - - - - - - -
+          EVERYTHING - - - - - S - - - - - - - -
+               THERE - - - - - - S - - - - - - -
+              REASON - - - - - - O - - - - - - -
+              CONFIG - - - - - - X - - - - - - -
+                FILE - - - - - - S - - - - X - -
+                CALL - - - - - - O - - - - - - -
+             DOCROOT - - - - - - - O - X - - - -
+            QUESTION - - - - - - - - X - S - - -
+             CGI-BIN - - - - - - - - - X - - - -
+WWW.AFTERMATHZONE.COM - - - - - - - - - - S - - -
+/HOME/AMZ/PUBLIC_HTML - - - - - - - - - - X - - -
+IMAGES.AFTERMATHZONE.COM - - - - - - - - - - S - - -
+~/PUBLIC_HTML/IMAGES - - - - - - - - - - X - - -
+                 WWW - - - - - - - - - - O - - -
+               IMAGE - - - - - - - - - - - X - -
+           DIRECTORY - - - - - - - - - - - X - -
+             APACHE2 - - - - - - - - - - - O - -
+               ERROR - - - - - - - - - - - X - -
+                LINE - - - - - - - - - - - X - -
+/ETC/APACHE2/APACHE2.CONF - - - - - - - - - - - X - -
+       CONFIGURATION - - - - - - - - - - - X - -
+/ETC/APACHE2/SITES-ENABLED/000-DEFAULT - - - - - - - - - - - O - -
+              OUTPUT - - - - - - - - - - - - - X
+                 SAY - - - - - - - - - - - - - X

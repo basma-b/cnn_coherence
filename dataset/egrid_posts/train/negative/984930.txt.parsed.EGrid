@@ -1,0 +1,14 @@
+                 USB X X - - - -
+            PROBLEMS X - - - - -
+              ANYONE X S - - - -
+                 USE - X - - - -
+               LSUSB - X - X - -
+               CHECK - O - - - -
+             DRIVERS - - - O - -
+                SUDO - - - X - -
+            MODPROBE - - - X - -
+            UHCI-HCD - - - O - -
+            OHCI-HCD - - - X - -
+            EHCI-HCD - - - X - -
+                NEED - - - - - O
+               LOGIC - - - - - O

@@ -1,0 +1,35 @@
+              OUTPUT X - - - - - - - - - - -
+            IFCONFIG X - - - - - - - - X - -
+            INTERNET X - - - - - X - - - - -
+              ACCESS O - - - - - O - - - - -
+            COMPUTER X - - - - - - - - - - -
+                  XD X - - - - - - - - - - -
+                HAND - X - - - - - - - - - -
+               FIELD - X - - - - - - - - - -
+                 TWO - - S - - - - - - - - -
+/ETC/NETWORK/INTERFACES - - - X - - - - - - - X
+                ETH0 - - - X - - - - - - O S
+                ETH1 - - - S - - - - - - O -
+              RESULT - - - X - - - - - - - -
+                 CAT - - - X - - - - - - - -
+                DHCP - - - S - O - - - - - X
+            ANYTHING - - - O - - - - - - - -
+                 ALL - - - O - - S - - - - -
+                FILE - - - X - - - - X - X -
+             ADDRESS - - - X - - - - X - - -
+                THIS - - - S - - - - - - - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - - X - - - - - - X -
+               ORDER - - - - S - - - - - - -
+           DISCOVERY - - - - X - - - - - - -
+                THAT - - - - - S S - - - - S
+                GOAL - - - - - - O - - - - -
+                REST - - - - - - - X - - - -
+                 MAC - - - - - - - - X - - -
+                  'S - - - - - - - - - S - -
+                LINE - - - - - - - - - - S X
+                 ONE - - - - - - - - - - S -
+                WORD - - - - - - - - - - X -
+                AUTO - - - - - - - - - - - X
+               IFACE - - - - - - - - - - - X
+                INET - - - - - - - - - - - X
+             RESTART - - - - - - - - - - - O

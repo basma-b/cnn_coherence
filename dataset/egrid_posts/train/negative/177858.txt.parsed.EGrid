@@ -1,0 +1,17 @@
+             HEADERS X X - - - -
+        /USR/INCLUDE - - S - - -
+              KERNEL - - X X S -
+              SOURCE - - X - - -
+                 ANY - - X - - -
+            /USR/SRC - - - X - -
+                 LAS - - - X - -
+            QUESTION - - - X - -
+             VERSION - - - O - O
+                  -A - - - - S -
+                LIFE - - - - - S
+            DEB-FILE - - - - - S
+                WINE - - - - - O
+                SUDO - - - - - X
+             APT-GET - - - - - S
+           SOMETHING - - - - - X
+                 DEB - - - - - O

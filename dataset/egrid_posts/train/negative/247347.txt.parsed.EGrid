@@ -1,0 +1,7 @@
+             SNDCARD O -
+                 PCI O -
+                BOOT X -
+            ALSACONF S -
+                CARD X -
+             SERVERS - S
+         MAINTENANCE - X

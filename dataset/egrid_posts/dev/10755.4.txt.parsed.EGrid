@@ -1,0 +1,9 @@
+             COMMAND O - - -
+                SUDO S - - -
+                   > X - - -
+        /ETC/MODULES S O - -
+          PERMISSION O - - -
+            REDIRECT S - - -
+                USER X - - -
+                ROOT - O - -
+              OPTION - - - X

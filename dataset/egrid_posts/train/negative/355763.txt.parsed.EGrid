@@ -1,0 +1,19 @@
+                 VAR X O - X - X - - - - - - - -
+           ACPI_DSDT X - - - - X - - - - - - - -
+              UBUNTU X X - X - X - - - - - - - -
+              REDHAT - S - - - - S - - - - - - -
+              KERNEL - X - X - - - - - - - - - -
+                  .. - X - X - - - - - - - - - -
+/ETC/SYSCONFIG/KERNEL - - - - - - O - - - - - - -
+              SYSCTL - - - - - - S - - - - - - -
+                IDEA - - - - - - - - X - - - - -
+                SUDO - - - - - - - - - X S - - -
+            ATITVOUT - - - - - - - - - X - - - -
+                   T - - - - - - - - - O - - - -
+              OUTPUT - - - - - - - - - X - - - -
+                   L - - - - - - - - - - S - - -
+                 LCD - - - - - - - - - - X - - -
+                 MAP - - - - - - - - - - - X - -
+              BUTTON - - - - - - - - - - - X - -
+              REMOTE - - - - - - - - - - - X - -
+           AUTOLOGIN - - - - - - - - - - - - - X

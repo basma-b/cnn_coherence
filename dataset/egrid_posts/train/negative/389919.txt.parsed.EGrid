@@ -1,0 +1,18 @@
+             PROCESS X - - - - - -
+            PRIORITY X - - O - - -
+               LEVEL O - - - - - -
+              VALUDE - O - - - - -
+             COMMAND - X O - - - -
+                HTTP - X - - - - -
+//LINUX.ABOUT.COM/LIBRARY/CMD/BLCMDL1_NICE.HTM - X - - - - -
+               VALUE - S - - - - -
+             EXECUTE - X - - - - -
+                  OF - - X - - - -
+                XMMS - - - - S - -
+                 FEW - - - - O - -
+                USER - - - - - - X
+      AUTHENTICATION - - - - - - X
+                 NIS - - - - - - X
+                LDAP - - - - - - X
+              HESIOD - - - - - - X
+             WINBIND - - - - - - O

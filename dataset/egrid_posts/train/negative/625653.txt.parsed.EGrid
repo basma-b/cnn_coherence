@@ -1,0 +1,8 @@
+         INVOKE-RC.D S - - - - - - -
+                STOP X - - - - - - -
+               INETD - - S - - - - -
+         /USRB/SBIN/ - - X - - - - -
+             PROBLEM - - O - - - - -
+         UPDATE-RC.D - - - X - - - -
+                WONT - - - - - O - -
+                   * - - - - - - - S

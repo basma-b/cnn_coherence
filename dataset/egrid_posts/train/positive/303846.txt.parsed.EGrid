@@ -1,0 +1,12 @@
+            ARGUMENT X - - -
+               FSTAB O - - -
+           PARTITION X - - -
+                BOOT X - - -
+                 USE - X - -
+             COMMENT - O - -
+                LINE - X - -
+                AINT - - O -
+               THERE - - - X
+                 WAY - - - X
+              DEVICE - - - O
+               PRIVS - - - O

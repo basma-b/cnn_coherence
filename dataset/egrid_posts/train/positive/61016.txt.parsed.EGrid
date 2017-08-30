@@ -1,0 +1,11 @@
+             COMMAND X - - X - - - - - -
+                GRUB X - - X - - - - - -
+                 HD0 X - - - - - - - - -
+                ROOT - X - - - - - - - -
+           PARTITION - O - - - - - - - -
+                NOOB - - O - O - - - - -
+            QUESTION - - O - - - - - - -
+               HD0,0 - - - X - - - - - -
+              ANSWER - - - X - - - - - -
+                HELP - - - - - O - - - -
+                  PM - - - - - - - - - X

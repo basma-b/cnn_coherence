@@ -1,0 +1,17 @@
+               SETUP X - - -
+             UPSTART X - - O
+             SERVICE X - - -
+                WORK X - - O
+                SUDO S - - -
+               START O - - -
+         SERVICENAME O - - -
+              DOESNT S - - -
+              REBOOT X - - -
+               IDEAS X - - -
+       /ETC/RC.LOCAL - X - -
+               LOGIN - X - -
+              SCREEN - X - -
+             COMMAND - - O -
+               THERE - - X -
+                EXIT - - X -
+                LINE - - X -

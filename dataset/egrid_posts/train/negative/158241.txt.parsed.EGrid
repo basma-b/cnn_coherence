@@ -1,0 +1,12 @@
+        DEPENDENCIES X - - - -
+     LIBAPACHE2-PHP5 X - - - -
+         LIBC6_2.3.2 O - - - -
+                SITE X - - - -
+           DOWNGRADE - X - - -
+             VERSION - O - - -
+             PACKAGE - O - - -
+                THIS - - O - -
+                TIME - - - X -
+                  .. - - - X -
+               REPOS - - - X -
+                THAT - - - - O

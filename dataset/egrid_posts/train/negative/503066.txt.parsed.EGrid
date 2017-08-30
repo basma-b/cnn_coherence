@@ -1,0 +1,16 @@
+           BEHAVIOUR S - - -
+                MODE X - - -
+                BOOT X X X -
+              OPTION X X - -
+           USERSPACE X - - -
+                INIT X - - -
+          CHECKPOINT X - - -
+           BUSYSHELL - - X -
+                 IDE - - S -
+                  .. - - O -
+                THIS - - O -
+              DEBIAN - - X -
+              UPDATE - - X -
+              KERNEL - - X -
+            HARDWARE - - X -
+                 HEH - - - X

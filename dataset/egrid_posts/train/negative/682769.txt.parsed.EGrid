@@ -1,0 +1,17 @@
+              SERVER O - - -
+                FAWN X - - -
+                 WAY O - O -
+                9.10 X - - -
+              ACCESS O - - -
+              SYSTEM X - - -
+       DIST-UPGRADES S - - -
+              ANYONE - S - -
+        DIST-UPGRADE - - O -
+        SOURCES.LIST - - X -
+                 USE - - X -
+             APT-GET - - X -
+                SUDO - - X O
+  DO-RELEASE-UPGRADE - - X -
+                 ALL - - - O
+           LEFT-OVER - - - S
+              RESULT - - - O

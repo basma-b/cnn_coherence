@@ -1,0 +1,14 @@
+                 HDA S - -
+        TASK_IN_INTR X - -
+         STATUS=0X59 X - -
+          DRIVEREADY X - -
+        SEEKCOMPLETE X - -
+         DATAREQUEST X - -
+               ERROR X - -
+             SECTORS O S -
+            HARDDISK - X -
+              ERRORS - O -
+                 NUT - X -
+         POSSIBILITY - O -
+                THIS - - O
+         SUGGESTIONS - - S

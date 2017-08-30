@@ -1,0 +1,34 @@
+               GNOME X X - - - - - - - -
+               CLICK X - - - - - - - - -
+               PLACE S - - - - - - - - -
+              SEARCH O - - - - - - - - -
+                FILE X - - - - - - - - -
+                CALL O - - - - - - - - -
+                THAT - S - - - - - - - S
+                 BUG - X - - - S - - - -
+              REPORT - X - - - - - - - -
+   GNOME-SEARCH-TOOL - O - - - - - - - -
+                PART - S - O - - - - - -
+             PACKAGE - X - X - - - - - -
+                DONT - S - - - - - - - -
+              DEBIAN - X X - X - - - - -
+                 SID - X - - - - - - - -
+                 UMM - X - - - - - - - -
+             SQUEEZE - - O - - - - - - -
+               THERE - - X - - - - - - -
+                  IM - - S - - - - - - -
+               LENNY - - X - O - - - - -
+KEYWORDS=GNOME-SEARCH-TOOL - - - X - - - - - -
+      SEARCHON=NAMES - - - S - - - X - -
+           SUITE=ALL - - - X - - - X - -
+         SECTION=ALL - - - X - - - S - -
+SOURCEID=MOZILLA-SEARCH - - - S - - - - - -
+                HELP - - - - X - - - - -
+                HTTP - - - - - - X - - -
+//PACKAGES.DEBIAN.ORG/SEARCH - - - - - - X - - -
+         GNOME-UTILS - - - - - - - O - -
+            ARCH=ANY - - - - - - - X - -
+KEYWORDS=GNOME-UTILS - - - - - - - S - -
+          FILESYSTEM - - - - - - - - - X
+                   / - - - - - - - - - O
+                  RO - - - - - - - - - X

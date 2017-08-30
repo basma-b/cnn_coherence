@@ -1,0 +1,17 @@
+                COPY X - - - - - -
+               DMESG X - - - - - -
+              REBOOT X - - - - - -
+                TIME - X - - - - -
+              SERVER - S - - - - -
+               HOURS - X - - - - -
+                IDEA - O - - - - -
+               DUNNO - X - - - - -
+                NEED - O - - - - -
+                 LOG - X - - X - -
+   /VAR/LOG/KERN.LOG - X - - - - -
+              CHATTR - - S - - - -
+               WHATS - - - X - - -
+                  -A - - - X - - -
+            KERN.LOG - - - - S - -
+            ANYTHING - - - - O - -
+                VBOX - - - - - - X

@@ -1,0 +1,9 @@
+             PROGRAM O - - -
+            COMPILER - S - -
+            STDLIB.H - S - X
+  LIBRARIES/INCLUDES - S - -
+         SUGGESTIONS - O - -
+     /ETC/LD.SO.CONF - - - O
+           DIRECTORY - - - O
+          LD.SO.CONF - - - X
+            LDCONFIG - - - X

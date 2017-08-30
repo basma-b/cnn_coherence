@@ -1,0 +1,19 @@
+             DESKTOP X - - -
+              KERNEL S - X -
+       OPTIMIZATIONS O - - -
+                 GUI S - - -
+               STUFF S - - -
+                 CAN O - - -
+             EXAMPLE O - X -
+                 SEC - - O -
+          PREEMPTION - - X -
+               MODEL - - S -
+          COMPROMISE - - O -
+          THROUGHPUT - - X -
+             LATENCY - - X -
+   //GIT.KERNEL.ORG/ - - X -
+P=LINUX/KERNEL/GIT/TORVALDS/LINUX-2.6.GIT - - - X
+              A=BLOB - - - X
+F=KERNEL/KCONFIG.PREEMPT - - - X
+H=BF987B95B3560FBD0A7D8A820335100A55E1D105 - - - X
+             HB=HEAD - - - X

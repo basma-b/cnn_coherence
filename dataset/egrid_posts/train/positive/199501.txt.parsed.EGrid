@@ -1,0 +1,17 @@
+                  CP X - - - - -
+                FILE O - O - - -
+/HOME/SBNC/SBNC/TICKLE.SO O - - - - -
+          PERMISSION O - O - - -
+              ANYONE S - - - - -
+                THIS O - - - - -
+                SUDO - X - - - -
+           DIRECTORY - - X - - -
+         PERMISSIONS - - O - - -
+                ROOT - - X - - -
+                STEP - - O - - -
+               ERROR - - S - - -
+       GETHOSTBYNAME - - O - - -
+                 DNS - - X - - -
+            HOSTNAME - - - S - -
+          /ETC/HOSTS - - - X - -
+                LINE - - - - - X

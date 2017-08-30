@@ -1,0 +1,13 @@
+                 ALL X - - - - - - - - - -
+            FIREWALL - O X S - - - - - - -
+             STARTUP - X X - - - - - - - -
+        APPLICATIONS - X - - - - - - - - -
+                ROOT - - X - - - - - - - -
+/USR/SBIN/FIRESTARTER - - - X - - - - - - -
+         FIRESTARTER - - - S X - - - - - -
+                 GUI - - - O - - - - - - -
+            IPTABLES - - - X - - - - - - -
+              DOESNT - - - S - - - - - - -
+         APPLICATION - - - - O - - - - - -
+              REPEAT - - - - - - X - - - -
+               SHOCK - - - - - - - - - - X

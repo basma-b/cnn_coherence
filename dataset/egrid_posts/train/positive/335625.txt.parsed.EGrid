@@ -1,0 +1,20 @@
+                 ALL O - - -
+                 RUN X - - -
+                  .. O - O -
+      UPDATE-MANAGER X - - -
+              FEISTY - X - -
+               GUTSY - X - -
+                TYPE - S - -
+/ETC/APT/SOURCES.LIST - O - -
+            INSTANCE - O - -
+              UPDATE - O - -
+        DIST-UPGRADE - O - -
+                 KDE - O - -
+                 NOP - - S -
+                 BUG - - X X
+              REPORT - - S X
+               HTTPS - - X -
+                WELL - - S -
+               ISSUE - - - O
+               FORUM - - - X
+                 EYE - - - O

@@ -1,0 +1,9 @@
+               /BOOT X - - - -
+           PARTITION X - O X -
+              LIVECD X - - - -
+            FUNCTION - X - - -
+                BOOT - - X O -
+                /TMP - - - X -
+              CFDISK - - - O -
+              SYSTEM - - - X -
+          GRUB-SETUP - - - - X

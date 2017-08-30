@@ -1,0 +1,15 @@
+              FORMAT X - - - - -
+              MEMORY X - - - - -
+               STICK O - - - - -
+                LSOF - - X - - -
+               FUSER - - S - - -
+              RESULT - - O - - -
+             PROCESS - - X - - -
+                THIS - - - X - -
+         /DEV/DEVICE - - - - X -
+               ESSID - - - - - X
+                MODE - - - - - X
+              ACCESS - - - - - X
+               POINT - - - - - X
+         TX=POWER=20 - - - - - X
+                 DBM - - - - - X

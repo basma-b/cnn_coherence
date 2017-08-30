@@ -1,0 +1,26 @@
+               ERROR X - - - - - - - - - - -
+           FORCEFSCK X - - - - - - - - - - -
+                ROOT X - - - - X - - X - - -
+              VOLUME X - - - - - - - - - - -
+               ENTRY - O - - - - - - - - - -
+               FSTAB - X - - - - - - - - - -
+       DOCUMENTATION - - S - - - - - - - - -
+                 WAY - - O - - - - - - - - -
+             ANOTHER - - X - - - - - - - - -
+              SOURCE - - - X - - - - - - - -
+                CODE - - - X - - - - - - - -
+/ETC/INIT/MOUNTALL.SH - - - - X - - - - - - -
+                FILE - - - - - X X - - - - -
+              SYSTEM - - - - - X - - - - - -
+                TIME - - - - - - O - - - - -
+                THAT - - - - - - S - - S - -
+               ORDER - - - - - - X O - - - -
+                FSCK - - - - - - S O - - - -
+         FILESYSTEMS - - - - - - - X - - - -
+                 YEP - - - - - - - X - - - -
+                 BUG - - - - - - - - X - - -
+              REPORT - - - - - - - - X - - -
+             REQUEST - - - - - - - - X - - -
+             ABILITY - - - - - - - - X - - -
+          FILESYSTEM - - - - - - - - O - - -
+               THING - - - - - - - - - - - X

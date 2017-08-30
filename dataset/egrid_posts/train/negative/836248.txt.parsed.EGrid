@@ -1,0 +1,22 @@
+                TIME X - - - -
+                SWAP S - - X -
+                 A-D O - - - -
+               GUIDE X - - - -
+                THIS - O - X -
+            SWAPFILE - O - - -
+                 USE - X - - -
+                  CD - X - - -
+               FSTAB - - - O -
+              SYSTEM - - - X -
+               DRIVE - - - O -
+              LIVECD - - - X -
+          /ETC/FSTAB - - - O -
+                LINE - - - X -
+                NONE - - - S -
+                  0. - - - O -
+      UUID=RTGSEFTGS - - - X -
+                PART - - - O -
+                PATH - - - X -
+           PARTITION - - - X -
+               THOUG - - - O -
+/WHEREVER/ROOT/IS/MOUNTED/ETC/FSTAB - - - O -

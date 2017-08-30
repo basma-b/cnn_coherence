@@ -1,0 +1,16 @@
+             DEVICES S S -
+                PORT X - -
+               THERE - S -
+         LS-VARIANTS - O -
+                  LS - X -
+               LSPCI - S -
+         INFORMATION - X -
+         CONTROLLERS - X -
+              DEVICE - X -
+                PLUG - O -
+                 ALL - S -
+                  .. - X -
+     USB-CONTROLLERS - O -
+          USB-DEVICE - S -
+                TRUE - - X
+             ATROPHY - - X

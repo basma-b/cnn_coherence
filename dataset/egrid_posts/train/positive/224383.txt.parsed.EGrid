@@ -1,0 +1,11 @@
+                   < X - -
+                SUDO X - -
+            MODPROBE X - -
+             SND-SEQ X - O
+                WINE X - X
+               SOUND - - O
+        /ETC/MODULES - - X
+               ERROR - - X
+             MESSAGE - - O
+       CONFIGURATION - - X
+                APPS - - S

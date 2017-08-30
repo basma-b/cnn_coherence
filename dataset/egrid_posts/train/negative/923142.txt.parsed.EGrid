@@ -1,0 +1,14 @@
+       /PROC/VERSION O X - -
+                 GCC O - - -
+                 3.4 X - - -
+              KERNEL O O - -
+                LIST - S - -
+             VERSION - X O -
+                 USE - O - -
+                  OK - - S -
+         ./CONFIGURE - - O -
+             PACKAGE - - X -
+          CONFIG.LOG - - S -
+      CONFIGURE:1354 - - O -
+                 G++ - - O -
+           /DEV/NULL - - X -

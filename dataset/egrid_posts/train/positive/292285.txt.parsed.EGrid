@@ -1,0 +1,9 @@
+               FSTAB X - - - -
+               FAT32 - X - - -
+           PARTITION - X - - -
+             STARTUP - X - - -
+                  VI - - S X -
+          /ETC/FSTAB - - - X -
+                 ING - - - X -
+                LINE - - - - X
+               MATCH - - - - X

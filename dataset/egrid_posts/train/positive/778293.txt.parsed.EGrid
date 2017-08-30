@@ -1,0 +1,13 @@
+                  HI S - -
+             RSYSLOG S - -
+                 USE S - -
+           CROSSOVER S - -
+             MESSAGE S - -
+        INPUTIN=ETH0 S - -
+                OUT= S - -
+                  DF S - -
+           PROTO=TCP S - -
+                 ACK S - -
+              URGP=0 S - -
+                 LOG - - X
+               THESE - - X

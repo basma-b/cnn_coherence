@@ -1,0 +1,13 @@
+              SYSTEM O - - - X - - -
+              POLICY S - - - - - - -
+               USERS S - - - - - - -
+                TYPE - X - - - - - -
+                 TOP - X - - - - - -
+              NUMBER - S - - - - - -
+        APPLICATIONS - X - - X - - -
+                ROOT - X - - X - - -
+           KSOFTIRQD - - S - - - - -
+                 LOT - - - - S - - -
+             STARTUP - - - - X - - -
+             MACHINE - - - - - X - -
+             SOMEONE - - - - - - - S

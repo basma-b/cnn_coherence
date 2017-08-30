@@ -1,0 +1,16 @@
+                 IDE - X - - - - - - - - -
+                DISK - O - - - - - - - - -
+                 USB - S - - - - - - - - -
+                   > - X - - - - - - - - -
+          CONTROLLER - X - - - - - - - - -
+               MOUNT - - X - - - - - - - -
+             DEFAULT - - X - - - - - - - -
+             OPTIONS - - X - - - - - - - -
+                TUNE - - - X - - - - - - -
+                 ACL - - - X - - - - - - -
+              DEVICE - - - X - - O - - - -
+          /ETC/FSTAB - - - - - X - - - - -
+                UUID - - - - - - - - X - -
+               FSTAB - - - - - - - - X - -
+           PARTITION - - - - - - - - X - -
+               GUEST - - - - - - - - - - X

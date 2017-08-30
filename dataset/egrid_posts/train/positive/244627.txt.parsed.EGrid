@@ -1,0 +1,10 @@
+         PERMISSIONS X - O
+                NTFS X - -
+                DATA X - -
+           PARTITION X - -
+               UMASK - O -
+             SUPPORT - O -
+                TYPE - - X
+                   < - - X
+               DRIVE - - X
+                   > - - O

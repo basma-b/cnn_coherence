@@ -1,0 +1,13 @@
+              SERVER O - O - -
+                 LTS X - O - -
+               12.10 X - - - -
+             DEFAULT - X - - -
+             RELEASE - O X - -
+          UPGRADABLE - X - - -
+              UBUNTU - - X - -
+  DO-RELEASE-UPGRADE - - S - -
+              OPTION - - - O -
+                 TRY - - - X -
+  DO-REELASE-UPGRADE - - - X -
+                HELP - - - X -
+                THAT - - - - O

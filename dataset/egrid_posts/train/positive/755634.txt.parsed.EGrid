@@ -1,0 +1,13 @@
+               CHOWN - O - - - -
+                SUDO - S - - - -
+                USER - O - - - -
+/PATH/TO/DIRECTORY-TO-CHANGE - S - - - -
+                ISNT - O - - - -
+         PERMISSIONS - X - - - -
+                   * - S - - - -
+               THERE - X - - - -
+           PARTITION - - O - - -
+             WINDOWS - - X - - -
+************************************ - - - - - S
+            COMPUTER - - - - - X
+               WORLD - - - - - O

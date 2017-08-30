@@ -1,0 +1,10 @@
+               DRIVE O X -
+                FSCK X - -
+               ORDER X - -
+            ANYTHING - S -
+                BOOT - X -
+            READLINK - - X
+                  -E - - S
+            SYMLINKS - - O
+                PATH - - X
+                FILE - - X

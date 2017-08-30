@@ -1,0 +1,11 @@
+               FSTAB X - - - - -
+               USERS X - - - - -
+              DEVICE O - - - - -
+                ROOT - S - - - X
+                THIS - O - - - -
+                USER - - S - - -
+              OPTION - - O X - -
+                 OHH - - O - - -
+                TIME - - - X - -
+                BOOT - - - X - -
+                AUTO - - - X - -

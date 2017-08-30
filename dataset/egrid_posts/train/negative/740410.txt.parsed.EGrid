@@ -1,0 +1,9 @@
+                LOOK X - - - - - - - -
+           GRUB.CONF X - - - - - - - -
+            BOOTABLE - - O - - - - - -
+              KERNEL - - - O - - - - -
+ ROOT=UUID=/DEV/SDA3 - - - X - - - - -
+              SPLASH - - - X - - - - -
+              THANKS - - - - - X - - -
+                 TRY - - - - - - X - -
+             PROBLEM - - - - - - - - O

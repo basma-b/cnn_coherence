@@ -1,0 +1,15 @@
+              DEVICE X - - -
+                  IP X - O -
+            IFCONFIG - S - -
+             NETMASK - X - -
+       255.255.255.0 - O - -
+                THIS - - X -
+                 USE - - X -
+           CONTAINER - - X -
+                MAIL - - X -
+              SERVER - - O -
+             MACHINE - - X -
+                HTTP - - X -
+//WIKI.OPENVZ.ORG/VIRTUAL_ETHERNET_DEVICE - - S -
+             PROBLEM - - - X
+                MATE - - - X

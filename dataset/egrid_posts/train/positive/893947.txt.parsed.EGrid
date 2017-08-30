@@ -1,0 +1,10 @@
+                 MAX X - X
+               COUNT X - S
+          FILESYSTEM X - -
+               STORE X - -
+           REFERENCE - X -
+               MOUNT - - X
+                  FS - - X
+                AUTO - - X
+                FSCK - - O
+              REBOOT - - X

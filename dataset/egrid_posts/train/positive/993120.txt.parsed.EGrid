@@ -1,0 +1,15 @@
+                BOOT X - - - - - - - -
+                RAID - X - - - - - - -
+                ACPI - X - - - - - - -
+               MDADM - X - - - - - - -
+                LOOK - - O - - - - - -
+ /BOOT/GRUB/MENU.LST - - X - - - - - -
+                KOPT - - X - - - - - -
+                LINE - - X - - - - - -
+            ACPI=OFF - - - X - - - - -
+                  RO - - - O - - - - -
+          ~/.XINITRC - - - O - - - - -
+              MIDDLE - - - - - - X - -
+               CLICK - - - - - - - X -
+               XTERM - - - - - - - X -
+               WHICH - - - - - - - - O

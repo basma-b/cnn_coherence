@@ -1,0 +1,12 @@
+               FSTAB X X -
+                USER X O -
+                  RW X - -
+               ACCES O - -
+                 HDD X - -
+           PARTITION - S -
+                CASE - X -
+             NOTHING - O -
+              ACCESS - X -
+           DIRECTORY - X -
+         PERMISSIONS - X -
+              FOLDER - - X

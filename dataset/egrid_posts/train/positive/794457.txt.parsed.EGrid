@@ -1,0 +1,14 @@
+                FILE O - - O O
+               STICK X - - - -
+             DEFAULT - - X - -
+           /DEV/SDB1 - - - S -
+                TYPE - - - X -
+                VFAT - - - X -
+                  RW - - - X -
+              NOEXEC - - - X -
+               NODEV - - - X -
+                SYNC - - - X -
+             NOATIME - - - X -
+          NODIRATIME - - - X -
+             DOLPHIN - - - O -
+             MESSAGE - - - - X

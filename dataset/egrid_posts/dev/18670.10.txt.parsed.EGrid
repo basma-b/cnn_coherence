@@ -1,0 +1,14 @@
+              FORMAT X - - -
+            PENDRIVE S - - -
+               ERROR S - X -
+         PERMISSIONS X - - -
+                FILE X - X -
+              SYSTEM S - O O
+              HELPER X - X -
+                EXIT O - X -
+                CODE X - X -
+           /DEV/SDC1 O - O -
+                   U S - - -
+              ANSWER - O - -
+             VERSION - X - -
+                 BUG - - S -

@@ -1,0 +1,13 @@
+             DISABLE X - - - -
+            IPTABLES X X X - -
+                THAT - O - - -
+                IPV6 - X X - -
+                BOOT - X - - -
+              OPTION - O - - -
+      IPV6.DISABLE=1 - S - - -
+                 ALL - - S - -
+             PORTION - - O - -
+                 PPA - - O - X
+             COMMAND - - - - X
+                USER - - - - X
+                NAME - - - - X

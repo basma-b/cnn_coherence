@@ -1,0 +1,26 @@
+               ERROR X - - - - - - - - - - -
+             MESSAGE S - - - - - - - - - - -
+                  FS O - - - - - - - - - - -
+                 SAY X - - - - - - - - - - -
+            REISERFS O - O O - - - - - - - -
+             SUPPORT O - - O - - - - - - - -
+              KERNEL O - - X - X - - O O - -
+         RECONFIGURE X - - - - - - - - - - -
+             FEATURE - S - - - - - - - - - -
+              MODULE - X - X - - - - - - - -
+              CONFIG - - X - - - - - - - - -
+                FILE - - S - - - - - - - - -
+             DEFAULT - - O X - - - - - X - -
+                THIS - - - O - - - - - - - -
+                GRUB - - - S - - - - - - - -
+               CHECK - - - O - - - - - - - -
+                 SET - - - X - - - - - - - -
+                  .. - - - O - - - - - - - -
+                BOOT - - - X - - - - - - - -
+           INITRAMFS - - - - X - - - - - - -
+/BOOT/CONFIG-2.6.12-9-386 - - - - - - X - - - - -
+            FALLBACK - - - - - - - - X - - -
+          EXPERIMENT - - - - - - - - X - - -
+             KERNELT - - - - - - - - - O - -
+             ALRIGHT - - - - - - - - - - X -
+              THANKS - - - - - - - - - - - X

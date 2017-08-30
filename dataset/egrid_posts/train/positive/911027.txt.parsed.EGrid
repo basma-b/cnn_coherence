@@ -1,0 +1,19 @@
+LINUX-RESTRICTED-MODULES X S - - -
+              SYSTEM O - - - -
+             APT-GET - X - - -
+           SOMETHING - - O - -
+              CODECS - - - O -
+                DIVX - - - X -
+                HTTP - - - O -
+//WWW.UBUNTULINUX.ORG/WIKI/RESTRICTEDFORMATS - - - S -
+                SITE - - - X -
+            MERILLAT - - - X -
+               ENTRY - - - S -
+               HOARY - - - X -
+            SYNAPTIC - - - - X
+/ETC/APT/SOURCES.LIST - - - - X
+          COPY-PASTE - - - - O
+                LINE - - - - O
+                 URI - - - - X
+               FIELD - - - - X
+                  .. - - - - X

@@ -1,0 +1,16 @@
+         ./CONFIGURE X - - - - - -
+       WITH-KERNEL=/ X - - - - - -
+             USR/SRC - - S - - - -
+            /USR/SRC - - - - S - -
+             PACKAGE - - - - X - -
+              INSTAL - - - - O - -
+/USR/SRC/LINUX-2.6.X - - - - X - -
+           SOMETHING - - - - S - -
+               CRDLB - - - - X - -
+              SOURCE - - - - O - -
+              KERNEL - - - - X - -
+             APT-GET - - - - X - -
+                  -R - - - - O - -
+                 MAN - - - - - - X
+              REMBER - - - - - - O
+                HAND - - - - - - X

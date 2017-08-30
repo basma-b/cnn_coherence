@@ -1,0 +1,10 @@
+               FSTAB S - - - - -
+           PARTITION O - - - - -
+                  EX X - - - - -
+     /MEDIA/EXT3DISK - S - - - -
+                SUDO - S - - - -
+                USER - X - - - -
+                DISK - X - - - -
+                THIS - - - S - -
+           INSTALLER - - - - - X
+          REPOSITORY - - - - - X

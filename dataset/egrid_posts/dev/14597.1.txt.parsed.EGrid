@@ -1,0 +1,20 @@
+            RESOLVER X - -
+         INFORMATION X - -
+                DAYS X - -
+    /ETC/RESOLV.CONF - S -
+/ETC/RESOLVCONF/RESOLV.CONF.D - S -
+                HEAD - O -
+                BASE - O -
+/RUN/RESOLVCONF/RESOLV.CONF - S -
+    /VAR/RUN/DNSMASQ - S -
+          RESOLUTION - X -
+                WORK - O -
+                PART - X -
+                HOST - X -
+               DEBUG - X -
+                FILE - X -
+                NAME - O -
+                TAIL - X -
+/ETC/RESOLVCONF/RESOLV.CONF.D/ - S -
+                 WAY - O -
+                THAT - - O

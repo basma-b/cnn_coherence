@@ -1,0 +1,15 @@
+              SCRIPT O - - - - - -
+                ROOT X - - - X - -
+           PRIVILEGE O - - - - - -
+               USERS S - - - - - -
+                SUDO - X - - - - -
+               CHMOD - X - - - - X
+                  +S - X - - - - S
+               XXXXX - S - - - - -
+            PASSWORD - X - - - - -
+                LIRC - - X - - - X
+              UNLINK - - X - - - -
+             ARCHIVE - - S - - - -
+                  .. - - - - - - O
+                   S - - - - - - X
+              DAEMON - - - - - - X

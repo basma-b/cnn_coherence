@@ -1,0 +1,20 @@
+           CONTAINER O - -
+           PARTITION O O -
+                DATA O O -
+                EXT4 - S -
+          LINUX-SWAP - S -
+            COMPUTER - S -
+              MEMORY - X -
+                 RAM - X -
+                SWAP - O -
+            HARDDISK - X -
+              EXPERT - - X
+                THIS - - X
+               12.04 - - S
+              CHANGE - - S
+                 DNS - - X
+              DETAIL - - O
+/ETC/NETWORK/INTERFACES - - X
+                  IP - - X
+                HTTP - - X
+//WWW.STGRABER.ORG/2012/02/24/DNS-IN-UBUNTU-12-04/ - - S

@@ -1,0 +1,14 @@
+       LIBJPEG-PROGS S - -
+               IFYOU X - -
+           BUILD-DEP O - -
+            MENCODER O - -
+                 DVD O - -
+          TITEL2.AVI O - -
+           -LAVCOPTS X - -
+        VCODEC=MPEG4 X - -
+               MBD=1 O - -
+                COPY X - -
+                PART X - -
+             MPLAYER X - -
+                 RIP O - -
+             FIREFOX - - O

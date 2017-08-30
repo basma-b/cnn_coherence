@@ -1,0 +1,17 @@
+              NVIDIA X - - - -
+             DRIVERS O - - - -
+             DISPLAY S X - - -
+                MODE - O - - -
+          RESOLUTION - X - - -
+           1280X1024 - X - - X
+        XSERVER-XORG - - S - -
+             GEFORCE - - X - -
+                  MX - - S - -
+  /ETC/X11/XORG.CONF - - O - -
+               MODES - - S - -
+                TYPE - - X - -
+                LINE - - O - -
+           XORG.CONF - - - - O
+               ENTRY - - - - X
+                COPY - - - - S
+               VALUE - - - - O

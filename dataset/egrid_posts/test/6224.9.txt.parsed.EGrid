@@ -1,0 +1,16 @@
+                USER X -
+                 CLI X -
+                 LOG O -
+                 USE X -
+                 PEN X -
+               DRIVE X -
+                  .. X -
+          NAMEOFUSER X -
+                THRU O -
+               STICK X -
+                  HD X -
+           GSETTINGS - S
+COM.CANONICAL.DESKTOP.INTERFACE - X
+      SCROLLBAR-MODE - S
+                APPS - O
+              CHANGE - O

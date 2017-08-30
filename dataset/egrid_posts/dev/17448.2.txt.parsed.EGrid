@@ -1,0 +1,28 @@
+             COMMAND S - - - - - -
+/PROC/SYS/VM/DROP_CACHES O X - - - - -
+               CACHE X - - - - - -
+/PROC/SYS/VM/DROP_CACHE X - - - X - -
+                BASH O - - - - - -
+               ERROR O - - - - - -
+            ARGUMENT X - - - - - -
+          PARAMETERS S - - - - - -
+               VALUE - S O - S - -
+             DEFAULT - X - - - - -
+                MEAN - O - - - - -
+                 BOX - - X - - - -
+                WELL - - - S - - -
+                  DO - - - - X - -
+                  .. - - - - O - -
+                BASE - - - - X - -
+                 1-3 - - - - S - -
+                LOOK - - - - O - -
+               EVENT - - - - O - -
+              ORIENT - - - - X - -
+           INTERFACE - - - - X - -
+          HTTP_PROXY - - - - - - X
+                HTTP - - - - - - X
+              //USER - - - - - - X
+            PASSWORD - - - - - - X
+             ADDRESS - - - - - - S
+                 TRY - - - - - - X
+                 THO - - - - - - O

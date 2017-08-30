@@ -1,0 +1,10 @@
+             COMMAND S - X - - -
+               ERROR O - - - - -
+                DEAL - X - - - -
+               SETUP - - - - X -
+         HOSTS.ALLOW - - - - S -
+                AUTO - - - - X -
+                USER - - - - O -
+              FINGER - - - - X -
+              WHOAMI - - - - - X
+                ROOT - - - - - O

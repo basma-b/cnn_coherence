@@ -1,0 +1,15 @@
+                 WAY X - - -
+             SYMLINK X - - -
+                FILE X O - -
+           DIRECTORY X - - -
+               /FOO/ - X - -
+            WILDCARD - O - -
+                   * - S - -
+                  LN - S - -
+       /TMP/FOLDER1/ - X - -
+       /TMP/FOLDER2/ - S - -
+                  MV - X - -
+              SOURCE - O - -
+         DESTINATION - X - -
+              SECOND - X - -
+              COMENT - - - X

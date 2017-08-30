@@ -1,0 +1,16 @@
+                SUDO S -
+               CHOWN O -
+                ROOT S -
+ /HOME/MY_USER/.GVFS O -
+          PERMISSION S -
+              FOLDER S -
+               ERROR X -
+             PROGRAM S -
+           PRIVILEGE X -
+                   < S -
+             ~/.GVFS X -
+             MY_USER X -
+ECRYPTFS-MIGRATE-HOME O -
+            FUNCTION O -
+                JAVA - X
+                 JRE - O

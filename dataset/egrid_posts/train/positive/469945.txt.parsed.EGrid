@@ -1,0 +1,5 @@
+               PURGE X -
+             PACKAGE O -
+             APT-GET X -
+         PACKAGENAME X -
+                SUDO X -

@@ -1,0 +1,22 @@
+              METHOD X X X X X X X - - - - - - - - - -
+              /CDROM X - S - - - - - - - - - - - - - -
+                EGGY X X X X X X X X - - - - - - - - -
+             ARCHIVE X - - - - - - - - - - - - - - - -
+           DIRECTORY X - - - - - - - - - - - - - - - -
+            /PARTIAL S - - - - - - - - - - - - - - - -
+               CDROM - S - - - - - - - - - - - - - - -
+              DRIVER - - S S S S S - - - - - - - - - -
+                   E - - - - - - - X - - - - - - - - -
+               ERROR - - - - - - - X - - - - - - - S -
+               DMESG - - - - - - - - X - - - - - - - -
+                DISK - - - - - - - - X - - - - - - - -
+              ERRORS - - - - - - - - X - - - - - - - -
+             NOTHING - - - - - - - - - X - - - - - - -
+                 HRM - - - - - - - - - X - - - - - - -
+               FLOOD - - - - - - - - - - - - X - - - -
+             MACHINE - - - - - - - - - - - - O - - - -
+              MONTHS - - - - - - - - - - - - X - - - -
+                  CD - - - - - - - - - - - - - X - - X
+APT-GET/SYNAPTIC/APTITUDE - - - - - - - - - - - - - - - O -
+              SOURCE - - - - - - - - - - - - - - - - O
+/ETC/APT/SOURCES.LIST - - - - - - - - - - - - - - - - X

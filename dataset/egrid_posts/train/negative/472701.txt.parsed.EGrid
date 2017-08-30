@@ -1,0 +1,17 @@
+         PERMISSIONS - X - - -
+                   | - S - - -
+              DEVICE - X - - -
+                FILE - X - - -
+                   > - O - - -
+              FORMAT - - X - -
+                  .I - - S - -
+                TYPE - - X - -
+              OPTINO - - X - -
+          SUPERBLOCK - - X - -
+            /DEV/FD0 - - O - -
+                 ETC - - X - -
+               LINUX - - S - -
+          FILESYSTEM - - X - -
+                DATA - - O - -
+             PROGRAM - - - O -
+                GAME - - - - S

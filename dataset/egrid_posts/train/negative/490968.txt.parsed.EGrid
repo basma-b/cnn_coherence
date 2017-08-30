@@ -1,0 +1,10 @@
+             PACKAGE O O -
+              SOURCE X - -
+                LIST X - -
+             MANAGER X - -
+                 USE - S -
+        CHECKINSTALL - X -
+             APT-GET - S -
+                WORK - - O
+             COMMAND - - X
+                 SMB - - X

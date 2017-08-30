@@ -1,0 +1,15 @@
+   DISPLAYCONFIG-GTK O X - O - -
+                ROOT X - - - - -
+                SUDO X - - X - -
+              GKSUDO X - - - - -
+             COMMAND X - - - - -
+             PACKAGE - X - - - -
+              SYSTEM - - - X - -
+                   > - - - X - -
+      ADMINISTRATION - - - X - -
+            SYNAPTIC - - - X - -
+             APT-GET - - - S - -
+            INTREPID - - - O - -
+             CHANNEL - - - - X -
+                HELP - - - - - X
+            UBUNTU+1 - - - - - X

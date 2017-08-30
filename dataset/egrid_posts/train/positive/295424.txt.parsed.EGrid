@@ -1,0 +1,12 @@
+               ALIAS X O -
+                TYPE - X -
+                ADSL - O -
+            TERMINAL - X -
+             COMMAND - X -
+                 PON - X -
+       ADSL-PROVIDER - O -
+              SCRIPT - O -
+                BASH - X -
+              CONFIG - X -
+                LINE - - X
+          BASHCONFIG - - X

@@ -1,0 +1,13 @@
+        CHECKINSTALL O - -
+                MESS X - -
+           WALLPAPER X - -
+                 GTK X - -
+               THEME X - -
+               LOGIN X - X
+              SCREEN X - X
+              GKSUDO - - X
+                  -U - - S
+GNOME-APPEARANCE-PROPERTIES - - O
+          APPEARANCE - - O
+              DIALOG - - O
+             SESSION - - X

@@ -1,0 +1,6 @@
+                LINK X - - -
+           DIVERSION - - - O
+ /USR/LIB/LIBGL.SO.1 - - - X
+          NVIDIA-GLX - - - X
+/USR/LIB/FGLRX/LIBGL.SO.1.XLIBMESA - - - X
+   XORG-DRIVER-FGLRX - - - X

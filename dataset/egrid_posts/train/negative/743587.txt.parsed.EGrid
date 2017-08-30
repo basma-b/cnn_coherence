@@ -1,0 +1,17 @@
+             PROGRAM X - - -
+             PROCESS X - - -
+              SYSTEM - X - -
+               START - S - -
+             UPSTART - X - -
+                   * - X - -
+                INIT - X - -
+         /ETC/INIT.D - X - -
+              SCRIPT - X X -
+GNOME-SESSION-PROPERTIES - - S -
+             SESSION - - X -
+             SYSTEM- - - X -
+                   > - - X -
+              PREFS- - - X -
+             STARTUP - - X -
+        APPLICATIONS - - O -
+               ERROR - - - X

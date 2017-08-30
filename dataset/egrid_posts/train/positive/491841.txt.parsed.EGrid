@@ -1,0 +1,15 @@
+             PROBLEM S - - - -
+           PARTITION X - X S -
+            QTPARTED X - - - -
+               FDISK X - - - -
+              FORMAT X - - - -
+          /ETC/FSTAB X - - - -
+               IDEAS X - - - -
+             COMMAND - X - - -
+                LINE - X - - -
+               ENTRY - O - - -
+               FSTAB - X - - -
+               THERE - - S - -
+                UUID - - O O X
+                NAME - - - O -
+                TYPE - - - X -

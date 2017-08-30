@@ -1,0 +1,8 @@
+              CHROOT X X X -
+           SOMETHING - X - -
+             PROCESS - X - -
+            APPARMOR - - X -
+                  UI - - - S
+                 BOX - - - X
+                  GB - - - X
+                 RAM - - - X

@@ -1,0 +1,12 @@
+                ROOT X - - - - - -
+              ACCESS X - - - - - -
+               -LSB- X - - - - - -
+           PARTITION X - - - - - -
+              LIVECD X - - - - - -
+                SUDO - O - - - - -
+            WHATEVER - - - X - - -
+           /DEV/HDXX - - - - - - S
+            /MNT/TMP - - - - - - O
+           /DEV/HDA1 - - - - - - S
+                MTAB - - - - - - X
+/TMP/DISKS-CONF-HDA1 - - - - - - X

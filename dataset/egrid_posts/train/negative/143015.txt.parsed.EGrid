@@ -1,0 +1,17 @@
+                 HAL O - - - -
+               GNOME - X - - -
+                 USE - X - - -
+            FAILSAFE - X - - -
+                  .. - O - - -
+              BOOTUP - - X - -
+             MESSAGE - - - O -
+                 RUN - - - X -
+     /ETC/INIT.D/GDM - - - S -
+                USER - - - X -
+                MODE - - - X -
+                 ESC - - - - X
+              SCREEN - - - - X
+                GRUB - - - - X
+                LOAD - - - - O
+            RECOVERY - - - - S
+               -THIS - - - - S

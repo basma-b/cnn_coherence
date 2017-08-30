@@ -1,0 +1,14 @@
+             COMMAND O - - - - - -
+                  FD X - - - - - -
+              DEVICE O - - - - - X
+            RESOURCE S - - - - - S
+             PROCESS - X - - S - -
+                THAT - - S - - - -
+        PROCESS-NAME - - O - - - -
+                  ID - - O - - - -
+                   ' - - - S - - -
+               -KILL - - - O - - -
+           ARGUMENTS - - - X - - -
+              MATTER - - - - X - -
+               DEMUX - - - - - - X
+               ERROR - - - - - - O

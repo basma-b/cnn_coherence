@@ -1,0 +1,27 @@
+        XSERVER-XORG X - -
+            POSTINST S - -
+       CONFIGURATION X - -
+                FILE X X -
+              BACKUP X - -
+/ETC/X11/XORG.CONF.20090223192447 X - -
+             800X600 X - -
+                  IM X - -
+              DRIVER O - -
+              NVIDIA X - -
+         CORPORATION X - -
+            GEFORCE4 X - -
+                  MX S - -
+               -RSB- X - -
+                  C1 X - -
+                 GPU S - -
+                CARD O - -
+                8.04 O X -
+               ISSUE O - -
+            INTREPID X - -
+             DRIVERS O - O
+             REDVAMP X - -
+                   U X - -
+                COPY X - -
+                XORG X X -
+                 CUZ - S -
+                 USE - X -

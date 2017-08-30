@@ -1,0 +1,11 @@
+  NETWORK/INTERFACES S X -
+                TRIP O - -
+                BOOT - X -
+             HOTPLUG - S -
+             NETWORK - X X
+           INTERFACE - O -
+                 MAP - X -
+                 TAG - O -
+               GNOME - - X
+                TOOL - - O
+          CONNECTION - - S

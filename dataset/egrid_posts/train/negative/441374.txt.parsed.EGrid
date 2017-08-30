@@ -1,0 +1,22 @@
+      OPENSSH-CLIENT X - - - - -
+     OPEN-SSH-SERVER O - - - - -
+            TEMPLATE S - - - - -
+               PARSE X - - - - -
+               ERROR O - S - - -
+/TMP/OPENSSH-SERVER.TEMPLATE.282110 X - - - - -
+               FIELD S - - - - -
+              SYSTEM - X - - - -
+             PROBLEM - O - - - -
+              REPORT - X - - - -
+               ISSUE - O - - - -
+              CLIENT - X - - - -
+              SERVER - O - - - -
+                 OK. - - S - - -
+           TEMPLATES - - S - - -
+            SEPARATE - - X - - -
+             NEWLINE - - X - - -
+                FILE - - - S - -
+             PROCESS - - - X - -
+             COMMAND - - - X - -
+             OPENSSH - - - O - -
+              OPTION - - - - - O

@@ -1,0 +1,24 @@
+               GEDIT X - - -
+               CAUSE X - - -
+            TERMINAL X X - -
+              PLUGIN S - - -
+             VERSION X - - -
+                RAIL X - - -
+              INSTAL X - - -
+                TYPE S - - -
+              GKSUDO - S - -
+                PATH - X - -
+                 LOG - - X -
+              DEAMON - - - S
+                  PS - - - X
+               |GREP - - - X
+                ZEIT - - - S
+         POSSIBILITY - - - O
+                  RW - - - O
+     ACTIVITY.SQLITE - - - X
+~/.LOCAL/SHARE/ZEITGEIST/ACTIVITY.SQLITE - - - O
+                HMOD - - - X
+                 +RW - - - S
+    PYTHON-ZEITGEIST - - - X
+      ZEITGEIST-CORE - - - X
+                 YUP - - - X

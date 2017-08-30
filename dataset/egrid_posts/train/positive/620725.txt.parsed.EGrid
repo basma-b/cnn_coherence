@@ -1,0 +1,19 @@
+                 PAM O - - - - -
+         RECONFIGURE - S - - - -
+           PASSWORDS - O - - - -
+                 SSH - X - - - -
+            PASSWORD - O - - - -
+                USER - X - - - -
+                AUTH - O - - - -
+         SSHD_CONFIG - X - - X X
+      AUTHENTICATION - O - - - -
+              _SSHD_ - X - - - -
+PASSWORDAUTHENTICATION - X - - - -
+                   | - - S - X -
+KBDINTERACTIVEAUTHENTICATION - - O - - S
+                THAT - - - X O -
+                PAST - - - - X -
+            DOCUMENT - - - - O O
+                 MAN - - - - X -
+                PAGE - - - - X -
+               THESE - - - - S -

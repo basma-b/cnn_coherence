@@ -1,0 +1,8 @@
+                /DEV X - -
+                /SYS X X -
+         DIRECTORIES X - -
+               /PROC - S -
+                  .. - X -
+            /DEVICES - X -
+             /SYSTEM - X -
+             SYMLINK - - X

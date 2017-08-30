@@ -1,0 +1,15 @@
+                 ALL O - - -
+              SYSTEM O - - -
+                CANT S - - -
+                DPKG O - - -
+               ERROR X - - -
+                FILE X - - -
+/VAR/LIB/DPKG/STATUS X - - -
+                LINE X - X X
+             PACKAGE S - X -
+XSERVER-XORG-VIDEO-NEWPORT - - S -
+                SUDO - - X -
+             APT-GET - - S -
+               WHATS - - S -
+           SOMETHING - - O -
+             NOTHING - - - O

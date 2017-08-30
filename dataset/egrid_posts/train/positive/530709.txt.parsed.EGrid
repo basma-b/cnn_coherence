@@ -1,0 +1,30 @@
+              BACKUP X - - - - - - - -
+             FOLDERS X - - - - - - - -
+                .KDE X - S - - - - - -
+              FOLDER X X - - - - - - -
+         PERMISSIONS X X - - - - - - -
+                FILE X - - - - - - - -
+          SUBFOLDERS X - - - - - - - -
+                SAME - X - - - - - - -
+                  CD - - X - - - - - -
+               /HOME - - X - - - - - -
+                 TAR - - X - X - - - -
+                 THA - - S - - - - - -
+                USER - - X - - - - - -
+           DIRECTORY - - X - - - - - -
+                  .. - - X - - - - - -
+                IDEA - - X - - - - - -
+                  OK - - X - - - - - -
+              OPTION - - S - - - O - -
+              -CZPVF - - X - X - - - -
+         .KDE.TAR.GZ - - X - - - - - -
+               -XZVF - - X - - - - - -
+            FILENAME - - O - - - - - -
+                THIS - - X - - - - - -
+           SOMETHING - - - X - - - - -
+KDE-CONFIGURATION.TAR.GZ - - - X S - - - -
+                THAT - - - - O - - - -
+                 OK. - - - - - - S - -
+             ARCHIVE - - - - - - O - -
+                  -P - - - - - - - - X
+PRESERVE-PERMISSIONS - - - - - - - - X

@@ -1,0 +1,25 @@
+                THAT X X - - - - - - -
+        INSTALLATION X - X - - X - - -
+                 USE X - - - - - - - -
+             WINDOWS S - - - - - - - -
+                 ONE S - - - - - - - -
+             OPTIONS X - O - - - - - -
+                SIZE O X S X - X O - -
+              UBUNTU - X O - - - - - -
+           PARTITION - X X - - - - - -
+       WIN-INSTALLER - - S - - X - - -
+              FOLDER - - X - - - - - -
+     WINDOWS-INSTALL - - X - - - - - -
+               DRIVE - - O - - - - - -
+                   E - - X - - - - - -
+                 FIX - - - X - - - - -
+                 5GB - - - - X - - - -
+             DEFAULT - - - - O - - - -
+         DESCRIPTION - - - - - X - - -
+      PARTITION-SIZE - - - - - X - - -
+                EXEC - - - - - - - X -
+                LINE - - - - - - - O -
+/USR/SHARE/APPLICATIONS/SOFTWARE-CENTER.DESKTOP - - - - - - - X -
+         EXEC=GKSUDO - - - - - - - X -
+     SOFTWARE-CENTER - - - - - - - X -
+                FILE - - - - - - - - S

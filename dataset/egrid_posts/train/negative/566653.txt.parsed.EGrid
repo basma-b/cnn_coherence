@@ -1,0 +1,12 @@
+          DIFFERENCE X - - -
+          SSH_CONFIG X S - -
+         SSHD_CONFIG X S - -
+              SERVER - X - -
+             MACHINE - X - X
+                SSHD - X - -
+              CLIENT - X - -
+                  .. - O - -
+            DATABASE - - - X
+                FILE - - - X
+                NAME - - - X
+              INSTAL - - - X

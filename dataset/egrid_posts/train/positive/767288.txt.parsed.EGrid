@@ -1,0 +1,11 @@
+            LOCATION X - -
+                 SMB X - -
+             ~/.GVFS - S -
+               SHARE - X O
+                FUSE - O -
+    /HOME/USER/.GVFS - X -
+               MOUNT - - O
+          /ETC/FSTAB - - X
+                BASH - - X
+              SCRIPT - - O
+                IDEA - - X

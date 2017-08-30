@@ -1,0 +1,27 @@
+              CONFIG X - - - - - - - - - - -
+                FILE X - - - - - - - - - - -
+                SSHD X - - - - - - - - - - -
+             DEFAULT X - - - - - - - - - - -
+/ETC/SSH/SSHD_CONFIG - S - - - - - - - - - -
+               TOPIC - O - - - - - - - - - -
+                 ONE - - X - - O - - - - - -
+               REPOS - - X - - - - - - - - -
+              XBOARD - - - O - - - - - - - -
+            BOOK.BIN - - - O - - - - - - - -
+           BOOKS.BIN - - - O - - - - - - - -
+           BOOKC.BIN - - - O - - - - - - - -
+                 ANY - - - O - - - - - - - -
+             ENDGAME - - - X - - - - - - - -
+               TABLE - - - X - - - - - - - -
+              SOURCE - - - - X - O - - - - -
+                BOOK - - - - - X - - - - - -
+             PACKAGE - - - - - X O - - - - -
+CRAFTY-BOOKS-MEDTOSMALL - - - - - X - - - - - -
+                THAT - - - - - - O - - - - -
+              ERRORS - - - - - - - O - - - -
+            WARNINGS - - - - - - - - S - - -
+               THATS - - - - - - - - - - X -
+                 TRY - - - - - - - - - - - X
+              RESULT - - - - - - - - - - - S
+                HTTP - - - - - - - - - - - S
+//PASTE.UBUNTU.COM/135558/ - - - - - - - - - - - S

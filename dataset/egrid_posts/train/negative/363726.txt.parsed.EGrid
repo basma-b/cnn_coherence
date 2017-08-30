@@ -1,0 +1,8 @@
+           UMASK=000 X - - -
+             OPTIONS - S - -
+                VFAT - X - -
+             EBCAUSE - - S -
+          PERMISSION - - X -
+             FEATURE - - O -
+                SUDO - - - S
+/HOME/WHATEVER/WHEREVER - - - O

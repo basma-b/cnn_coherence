@@ -1,0 +1,15 @@
+            IPTABLES X X - - -
+             COMMAND - O - - -
+                HTTP - X - - -
+                RULE - O O - -
+              EFFECT - X - - -
+              BOOTUP - - X - -
+                ROOT - - X - -
+                SUDO - - X - -
+                BASH - - X - -
+                   > - - X - -
+ /ETC/IPTABLES-RULES - - S - -
+                   < - - X - -
+/ETC/NETWORK/INTERFACES - - X - -
+                 TIP - - O - -
+             PROBLEM - - - - X

@@ -1,0 +1,17 @@
+                 SEC - X - -
+                SUDO - O - -
+       /USR/BIN/SUDO - S - -
+            ANYTHING - S - -
+                PATH - X - -
+               CHMOD - X - -
+                WORK - X - -
+         PERMISSIONS - X - -
+              NOSUID - X - -
+                 AKA - - X -
+             PROGRAM - - O -
+                ROOT - - O -
+              SETUID - - S -
+              EFFECT - - O -
+                 WAY - - - O
+                DEVS - - - O
+             NTFS-3G - - - X

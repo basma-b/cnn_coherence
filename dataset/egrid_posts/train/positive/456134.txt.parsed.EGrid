@@ -1,0 +1,21 @@
+                   / X - - - - - - -
+           PARTITION O - - - - - - -
+                  OS X - - - - - - O
+/ETC/SSH/SSH_HOST_RSA_KEY O - - - - - - -
+           DIRECTORY X - - - - - - -
+            LOCATION - - X X - - - -
+                RHEL - - X - - - - -
+                FILE - - - - O - - X
+                THAT - - - - - X - O
+           REFERENCE - - - - - O - -
+              CLIENT - - - - - X - -
+             MACHINE - - - - - X - X
+                 KEY - - - - - S - -
+               CACHE - - - - - O - -
+                HOST - - - - - - O -
+  ~/.SSH/KNOWN_HOSTS - - - - - - X -
+                TIME - - - - - - - X
+                COPY - - - - - - - X
+                  .. - - - - - - - X
+    .SSH/KNOWN_HOSTS - - - - - - - O
+              CHANGE - - - - - - - O

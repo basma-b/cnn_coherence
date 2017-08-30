@@ -1,0 +1,26 @@
+                 ONE X - - - - - - - -
+                IDEA X - - X - - - - -
+               ENTRY S - - - - - - - -
+               FSTAB X - - - - - - - -
+               10.04 S - - - - - X - -
+        FILE/FOLDERS S - - - - - - - -
+//192.168.1.106/DROBO - X - - - - - - -
+        /MEDIA/DROBO - X - - - - - - -
+                CIFS - S X S - - - - -
+                   X - S - - - - - - -
+             PURPOSE - X - - - - - - -
+                HERE - X - - - - - - -
+             OPTIONS - X - - - - - - -
+     //192.X.X.X/BLA - - - X - - - - -
+          /MEDIA/BLA - - - X - - - - -
+                USER - - - O - - - - -
+                 USE - - - O - - - - -
+                AUTH - - - X - - - - -
+         PERMISSIONS - - - S - - - - -
+               SHARE - - - X - - - - -
+                CANT - - - S - - - - -
+              SIMPLE - - - X - - - - -
+             COMMAND - - - O O - X - -
+              SINGLE - - - - S - - - -
+                 CLI - - - - - X - - -
+                 SAY - - - - - - S - -

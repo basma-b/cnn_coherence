@@ -1,0 +1,17 @@
+                 WAY X - - - - - - - -
+              CHROOT X - - - - - - - -
+             CHROOT/ X - X - - - - - -
+              SYSTEM X - - - - - - - -
+           /BIN/BASH - O - - - - - - -
+             /BIN/SH - - O - - - - - -
+             SUCCESS - - X - - - - - -
+         PERMISSIONS - - - X - - - - -
+/MNT/CHROOT/BIN/BASH - - - - - - O - -
+                BASH - - - - - - O X -
+                   ' - - - - - - - S -
+              BINARY - - - - - - - O -
+               BASH2 - - - - - - - X -
+               CHMOD - - - - - - - O -
+          /BIN/BASH2 - - - - - - - O -
+                SASH - - - - - - - O -
+      UBUNTU-DESKTOP - - - - - - - - X

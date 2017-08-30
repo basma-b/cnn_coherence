@@ -1,0 +1,15 @@
+                  IP O - - - -
+                 UFW - S - - -
+//PASTEBIN.COM/89P1BSQ4 - X - - -
+        68.237.205.4 - S - - -
+            IPTABLES - X - X -
+                  -A - X - - -
+               INPUT - X - - -
+                  -S - X - - -
+                 TCP - X - - -
+                  -J - S - - -
+                  .. - - - X -
+                LINE - - - X -
+                 LOT - - - X -
+              802.1D - - - - S
+               SETUP - - - - X

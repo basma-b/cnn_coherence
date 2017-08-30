@@ -1,0 +1,16 @@
+              ANYONE X - - - -
+               ERROR X - - - -
+             DEBCONF - X - - -
+            DBDRIVER - S - - -
+              CONFIG - X - - -
+/VAR/CACHE/DEBCONF/CONFIG.DAT - S - - -
+             PROCESS - X - - -
+                   | - - S - -
+              RESULT - - O - -
+                LOCK - - - O -
+                SUDO - - - X -
+               FUSER - - - X -
+                  -V - - - S -
+             PROGRAM - - - X -
+                KILL - - - - O
+                PROG - - - - O

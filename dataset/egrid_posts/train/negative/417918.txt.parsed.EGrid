@@ -1,0 +1,14 @@
+               MOUNT - X - - - - -
+                SWAP - X - X - - -
+          PARTITIONS - O - - - - -
+                 ONE - - S - - - -
+              SYSTEM - - S - - - -
+              METHOD - - - S - - -
+                BOOT - - - X - - -
+             LIVE-CD - - - X - - -
+           PARTITION - - - O - - -
+               FSTAB - - - X - - -
+              THANKS - - - X - - -
+              REBOOT - - - - X - -
+                   X - - - - - - X
+          -CONFIGURE - - - - - - X

@@ -1,0 +1,9 @@
+             COMMAND X - -
+               IMAGE O - -
+                SUDO - S -
+            MODPROBE - X -
+                LOOP - S -
+     /SOMEMOUNTPOINT - X -
+                 THE - - S
+            TERMINAL - - X
+           PARTITION - - O

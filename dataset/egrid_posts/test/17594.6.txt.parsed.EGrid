@@ -1,0 +1,13 @@
+                SWAP X - - -
+              SWAPON - S - -
+           OPERATION - S - -
+                SUDO - X - -
+          /SWAPFILE1 - X - -
+                HOLE - O - -
+            IPTABLES - - - S
+          NETFILTERS - - - O
+           INTERFACE - - - X
+               THERE - - - S
+            SIMPLIER - - - X
+                ONES - - - O
+                 UFW - - - X

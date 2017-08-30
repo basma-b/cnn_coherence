@@ -1,0 +1,14 @@
+             COMMAND X - - - -
+              FOLDER O - - - -
+               MOUNT - X - - -
+               SHARE - S - - -
+             SYMLINK - - O - -
+                /MNT - - X - -
+                  CD - - X - -
+               NOOBS - - S - -
+           PARTITION - - O - -
+                NTFS - - S - -
+               DRIVE - - O - -
+          /ETC/FSTAB - - X - -
+                BOOT - - X - -
+           BLUEEAGLE - - - S -

@@ -1,0 +1,13 @@
+             MACHINE S - - - - -
+              UBUNTU - O - - - -
+               IMAGE - X - - - -
+               GUTSY - X - - - -
+                SUDO - - - X - -
+                  RM - - - X - -
+                  -R - - - S - -
+                FILE - - - O - -
+             COMMAND - - - - O -
+            FUNCTION - - - - X -
+                NAME - - - - X -
+                MKFS - - - - X -
+           MKFS.EXT3 - - - - - O

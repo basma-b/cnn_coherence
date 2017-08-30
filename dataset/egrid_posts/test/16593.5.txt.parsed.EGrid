@@ -1,0 +1,16 @@
+               PURGE S - - - - - - - -
+       CONFIGURATION X X - - - - - - -
+                FILE O O - - - - - - -
+             PACKAGE - O - X - - - - -
+       DIST-UPGRADES - X - - - - - - -
+               CLEAN - S - - - - - - -
+             APT-GET - - S - - - - - -
+                THAT - - - - X - S - -
+      CONFIGURATIONS - - - - X - - - -
+                20GB - - - - - - S - -
+                SWAP - - - - - - X - -
+             SESSION - - - - - - X - -
+               SPACE - - - - - - - S X
+              NUMBER - - - - - - - - S
+                DISK - - - - - - - - X
+                  GB - - - - - - - - X

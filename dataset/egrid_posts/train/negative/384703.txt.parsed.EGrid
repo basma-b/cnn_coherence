@@ -1,0 +1,14 @@
+                EXT3 O - - - - -
+               FSTAB S - - - - -
+               /DATA X - - S - -
+               POINT O - - - - -
+               MEDIA X - - - - -
+             INSTALL - X - - - -
+                HERE - - X - - -
+                ROOT - - - X - -
+                  CD - - - X - -
+                NAME - - - O - -
+           PARTITION - - - X S -
+              /MEDIA - - - - X -
+          CONVENTION - - - - O -
+                  HA - - - - - S

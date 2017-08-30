@@ -1,0 +1,12 @@
+               HOARY S - - - -
+          VNC-COMMON O - X - -
+             DEFAULT X - - - -
+      TIGHTVNCSERVER O X - - -
+             PACKAGE - X - - -
+                  .. - S - - -
+       CONFIGURATION - X - - -
+            CONFLICT - - - X -
+                 FIX - - - - X
+              CHANGE - - - - S
+               10.10 - - - - X
+              11.10. - - - - X

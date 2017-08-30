@@ -1,0 +1,12 @@
+              SCRIPT S - - -
+              OUTPUT O - - -
+                BOOT X - - -
+             VERBOSE X - - -
+             NETWORK - S - -
+                  OK - X - -
+               -RSB- - X - -
+/BOOT/GRUB/MENU.LIST - S - -
+               ENTRY - O - -
+                LINE - O - -
+           VGA=0X317 - X - -
+         FRAMEBUFFER - X - -

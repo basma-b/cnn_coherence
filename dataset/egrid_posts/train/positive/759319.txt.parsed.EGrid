@@ -1,0 +1,13 @@
+         APPLICATION O - - - - -
+              ACCESS - O - - - -
+                DATA - X - - - -
+            INTERNET - X - X - -
+                LSOF - - S - - X
+             PROBLEM - - - S - -
+          GOLDENDICT - - - S - -
+           WIKIPEDIA - - - X - -
+         CREDENTIALS - - - O O -
+               PROXY - - - X - -
+                FORM - - - - O -
+                   | - - - - - S
+           SOMETHING - - - - - O

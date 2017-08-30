@@ -1,0 +1,17 @@
+                SUDO S X -
+                ROOT O S -
+                 UMM X - -
+              SETUID - O -
+             MESSAGE - O -
+                USER - X -
+                MODE - S -
+                DONT - S -
+                PERM - O -
+                   + - X -
+              PEOPLE - S -
+               ADMIN - X -
+               GROUP - X -
+                  SU - O -
+                 WAY - - X
+                GRUB - - X
+            MENU.LST - - O

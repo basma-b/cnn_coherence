@@ -1,0 +1,25 @@
+                SHOW S - -
+             VERSION X X -
+1:1.1.1~GIT-20070709-3UBUNTU1 X - -
+                TERM X - -
+              NFS3/4 X - -
+             PACKAGE - X -
+                NAME - S -
+             ENTRIES - O -
+        /ETC/EXPORTS - X -
+              FORMAT - X -
+                NFS3 - X -
+                DOCS - S -
+                HTTP - X -
+//WWW.CYBERCITI.BIZ/FAQ/HOW-TO-UBUNTU-NFS-SERVER-CONFIGURATION-HOWTO/ - X -
+               HTTPS - X -
+//HELP.UBUNTU.COM/7.10/SERVER/C/NETWORK-FILE-SYSTEM.HTML - X -
+                HELP - X -
+              OPTION - X -
+      NO_ROOT_SQUASH - S -
+            PRESENCE - X -
+               SPACE - X -
+             OPTIONS - X -
+                 NFS - O -
+                 SSH - O -
+              COMMAS - O -

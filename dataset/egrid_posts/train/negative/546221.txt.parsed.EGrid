@@ -1,0 +1,7 @@
+                FILE X S -
+                 TEE S X -
+              OUTPUT O - -
+              SCREEN X S -
+                DATA - S -
+             PROCESS - O -
+               ERROR - O -

@@ -1,0 +1,19 @@
+               TWEAK X - - - -
+                TOOL X - - - -
+            SOFTWARE X - - - -
+              CENTER X - - - -
+          DEPENDENCY X - - - -
+               ERROR X - - - -
+       GNOME-SESSION O - - - -
+   GNOME-SESSION-BIN X - - - -
+                   > X - - - -
+      3.2.1-0UBUNTU8 S - - - -
+GNOME-SESSION-COMMON S - - - -
+                 PPA X - - - -
+       ACTIONPARSNIP - S - - -
+             CONTENT - O O - -
+               THERE - X X - -
+/ETC/APT/SOURCES.LIST.D - - X - -
+              UPDATE - - - O -
+          EXTENSIONS - - - - S
+GNOME-SESSION-FALLBACK - - - - X

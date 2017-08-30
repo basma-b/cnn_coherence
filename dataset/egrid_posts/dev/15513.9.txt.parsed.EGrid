@@ -1,0 +1,15 @@
+              RESULT S - - -
+              DEVICE S - - -
+            SETTINGS O - - -
+/ETC/NETWORK/INTERFACES X - - -
+              REBOOT X - - -
+         IFDOWN/IFUP O - - -
+                 NOW O - - -
+             NOTHING S - - -
+                ROUT X - - -
+               TABLE X - - -
+                NANO - O - -
+             COMMAND - - X -
+               ISSUE - - X -
+              CTRL-X - - - X
+              EDITOR - - - X

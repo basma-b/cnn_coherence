@@ -1,0 +1,7 @@
+                ROOT X X - -
+         CONNECTIONS - S - -
+             DUMPCAP - O - -
+                USER - X - -
+             CONTENT - - - X
+                FILE - - - X
+/BOOT/GRUB/DEVICE.MAP - - - X

@@ -1,0 +1,15 @@
+               DRIVE O - - - - -
+                DISC O - - - - -
+              FLOPPY - S - - - -
+           FLOPPY.KO - S - - - S
+            MODPROBE - O - - - -
+               ERROR - X - - - -
+              INSERT - O - - - -
+                PATH - X - - - -
+              DEVICE - X - - - -
+                HELP - - X - - -
+        /LIB/MODULES - - - X - -
+                GREP - - - X - -
+            ANYTHING - - - X - -
+     /DRIVERS/BLOCK/ - - - - - X
+           /DRIVERS/ - - - - - X

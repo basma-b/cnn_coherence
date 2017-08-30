@@ -1,0 +1,26 @@
+                MAIL X - X X - - - - - - - - -
+             PACKAGE S - - - - - - - - - - - -
+                 MUA X - - - - - - - - - - - -
+                USER X - - - - - - - - - - - -
+               AGENT X - - - - - - - - - - - -
+                5.10 X - - - - - - - - - - - -
+              CLIENT - - O - - - - - - - - - -
+             ACCOUNT - - X - - - - - - - - - -
+              SERVER - - - X - - - - - - - - -
+             DEFAULT - - - X - - - - - - - - -
+           EVOLUTION - - - O - - - - - - - - -
+        APPLICATIONS - - - X - - - - - - - - -
+                MENU - - - X - - - - - - - - -
+             POSTFIX - - - - - S - - X - - - -
+                SUDO - - - - - - - - S - - - -
+                  .. - - - - - - - - O - - - -
+            QUESTION - - - - - - - - O - - - -
+/ETC/POSTFIX/MAIN.CF - - - - - - - - - X - - -
+              DYNDNS - - - - - - - - - S - - -
+                  IP - - - - - - - - - O - - -
+               THERE - - - - - - - - - S - - -
+             CLIENTS - - - - - - - - - O - - -
+                 ISP - - - - - - - - - - S - -
+               BLOCK - - - - - - - - - - X - -
+                PORT - - - - - - - - - - O - -
+               THING - - - - - - - - - - - - X

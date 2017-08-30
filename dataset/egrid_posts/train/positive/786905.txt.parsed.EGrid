@@ -1,0 +1,13 @@
+              ANYONE S - -
+                 LIB S - -
+                FILE S - -
+                 SDL - S -
+                   * - X -
+    /USR/INCLUDE/SDL - X -
+                LIBS - X -
+                 USE - - X
+          PKG-CONFIG - - O
+                PATH - - O
+              LINKER - - X
+                   / - - X
+           COMPILIER - - X

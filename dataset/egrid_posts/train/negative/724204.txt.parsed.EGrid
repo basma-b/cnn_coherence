@@ -1,0 +1,14 @@
+              ANYONE X - - - -
+         DMASK/FMASK X - - - -
+               FSTAB S - - - -
+                BITE X - - - -
+           PARTITION X - - - -
+HOMEPAGE/DOCS/EXAMPLES - S - - -
+                MASK - - O - -
+               FMASK - - O S -
+               AFAIK - - X - -
+                BOTH - - O - -
+             DEFUALT - - - S -
+           UMASK=007 - - - O -
+         DIRECTORIES - - - S -
+                   X - - - O -

@@ -1,0 +1,13 @@
+             PROBLEM S - -
+/VAR/LOG/APACHE2/ERROR.LOG O - -
+            ANYTHING X - -
+        /MNT/HDB/WWW X - -
+              FOLDER - X -
+              CHANGE - X -
+        DOCUMENTROOT - S -
+/ETC/APACHE2/SITES-AVAILABLE/DEFAULT - X -
+                FILE - S -
+                   D - S -
+                DISK - - S
+         PERMISSIONS - - O
+          /ETC/FSTAB - - X

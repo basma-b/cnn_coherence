@@ -1,0 +1,10 @@
+               ERROR X - -
+/VAR/RUN/DHCP-SERVER X - -
+                FILE X - -
+  /VAR/RUN/DHCPD.PID O - -
+          PERMISSION S - -
+             COMMAND X - -
+                 USE X - -
+              SERVER O - -
+              SUDOED O - -
+               DHCPD - - X

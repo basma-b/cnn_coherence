@@ -1,0 +1,11 @@
+                DISK O - - - -
+              FORMAT X - - - -
+            REISERFS X - - - -
+               FSTAB X - X - -
+             DEFAULT X - - - -
+                HELP - X - - -
+            UID=1000 - - O - -
+             OPTIONS - - X - -
+                LINE - - X - -
+               SPEED - - - S -
+                MUCH - - - - X

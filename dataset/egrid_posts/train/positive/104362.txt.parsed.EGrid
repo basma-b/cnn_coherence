@@ -1,0 +1,27 @@
+             COMMAND O O -
+             KUBUTNU X - -
+                SUDO X - -
+            APTITUDE S - -
+     KUBUNTU-DESKTOP S - -
+                 BOX X - -
+             XINITRC X S -
+/ETC/X11/XINIT/XINITRC O - -
+             PROGRAM O - -
+                BOOT X - -
+                  BE - X -
+                   X - S -
+            BOOTMISC - X -
+              BOTTOM - X -
+                  FP - O -
+                FONT - O -
+               THERE - S -
+             SECTION - O -
+             COMMENT - X -
+                THIS - S -
+               XTERM - X -
+                  .. - O -
+               ATERM - X -
+                   $ - - O
+                TERM - - X
+              OUTPUT - - X
+            TERMINAL - - X

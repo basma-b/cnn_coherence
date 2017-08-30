@@ -1,0 +1,14 @@
+               FSTAB S - -
+        SOURCES.LIST S - -
+           XORG.CONF S - -
+                USER S - -
+                FILE X - -
+                  .. X - -
+                BACK X - -
+              UBUNTU O - -
+                BOOT X - -
+              LOADER O - -
+               BREAK - - X
+             VERSION - - O
+                 LOG - - X
+                 BRB - - X

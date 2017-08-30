@@ -1,0 +1,17 @@
+             DEFAULT X - - -
+                PASS X - - -
+               PRINT X - - -
+                PORT X - X -
+                 IPP - - O -
+                 CAT - - X -
+       /ETC/SERVICES - - S -
+                LIST - - O -
+             SERVICE - - S -
+                 WEB - - X -
+           INTERFACE - - X O
+                 CUP - - S -
+                  MO - - - X
+             PRINTER - - - X
+           LOCALHOST - - - X
+                CUPS - - - X
+         V1.1.21.RC1 - - - X

@@ -1,0 +1,14 @@
+             DEFAULT X - - - -
+                PATH X - - - -
+              SYSTEM X - - - -
+             .BASHRC - X - - -
+             PROFILE - X - - -
+                ROOT - X X - -
+                USER - - S - -
+       /ROOT/.BASHRC - - O - -
+              STATIC - - - O -
+                THIS - - - - S
+                 ALL - - - - O
+              BINARY - - - - O
+            -FOPENMP - - - - X
+                HELO - - - - X

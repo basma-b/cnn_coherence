@@ -1,0 +1,14 @@
+           DIRECTORY X - - - - -
+           STRUCTURE O - - - - -
+             MACHINE X - - - - -
+                   B X - - - - -
+             WINDOWS X - - - - -
+               NCFTP - S - - - -
+          DIFFERENCE - O - - - -
+          NVIDIA-GLX - X - - - -
+      NVIDIA-GLX-NEW - X - - - -
+           SYNAPTICS - - - X - -
+             PACKAGE - - - X - -
+             MANAGER - - - X - -
+                 FTP - - - - - X
+              SERVER - - - - - X

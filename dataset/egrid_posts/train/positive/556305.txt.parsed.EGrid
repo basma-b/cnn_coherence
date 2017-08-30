@@ -1,0 +1,17 @@
+       NAUTILUS-GKSU X - - -
+             HACKERS X - - -
+              CHANCE - O - -
+                MESS - X - -
+           SOMETHING - X - -
+                SSHD - X - -
+                ROOT - S X -
+             DEFAULT - X - -
+     PERMITROOTLOGIN - - X X
+           DIRECTIVE - - X -
+/ETC/SSH/SSHD_CONFIG - - X -
+              PERMIT - - X -
+               LOGIN - - X -
+                FIND - - O -
+                   ' - - - X
+                LINE - - - X
+                 SSH - - - O

@@ -1,0 +1,20 @@
+             COMMAND O X S - - O - - - - - - S
+             NETWORK S - - - - X - - - - - - -
+            COMPUTER S - - - - - - - - - - - -
+               PLACE - X - - - - - - - - - - -
+               ISSUE - - O - - - - - - - - - -
+           BROADCAST - - O - - - - - - - - - -
+       /ETC/RC.LOCAL - - - X - - X - - - - - -
+                 BOX - - - - - S - - - - - - -
+  /ETC/WAKEONLAN.WOL - - - - - X - - - - - - -
+                THAT - - - - - - O O - - - - -
+                EXIT - - - - - - X - - - - - -
+             KEYWORD - - - - - - X - - - - - -
+                 ONE - - - - - - - - X - - - -
+                 SEC - - - - - - - - X - - - -
+/ETC/NETWORK/INTERFACES - - - - - - - - - - - - O
+           INTERFACE - - - - - - - - - - - - X
+              STANZA - - - - - - - - - - - - X
+                 MAN - - - - - - - - - - - - X
+          INTERFACES - - - - - - - - - - - - O
+               IFACE - - - - - - - - - - - - S

@@ -1,0 +1,15 @@
+             COMMAND X - - - - -
+           PARTITION - O - - - -
+               SETUP - X - - - -
+                BOOT - O - X X -
+                   U - - X X - -
+              INSTAL - - X - - -
+              SECTOR - - - X - -
+                  -L - - - X - -
+              LAPTOP - - - - X -
+              SEARCH - - - - - X
+              WIDGET - - - - - O
+             WHITTLE - - - - - X
+                LIST - - - - - X
+              TARGET - - - - - O
+                TYPE - - - - - O

@@ -1,0 +1,14 @@
+       WPASUPPLICANT O O - - -
+        /ETC/DEFAULT X - - - -
+               INPUT X - - - -
+         ETC/DEFAULT - X - - -
+               TOUCH - X - - -
+                LINE - O - - -
+                RULE - O - - -
+                HTTP - X - - -
+                FILE - O - - -
+             COMMAND - X - - -
+                TEXT - X - - -
+              EDITOR - O - - -
+                NANO - - O - -
+          PERMISSION - - - - S

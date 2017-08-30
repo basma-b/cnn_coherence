@@ -1,0 +1,17 @@
+              PCMCIA X - - X -
+             SERVICE X - - O -
+                8.04 X - - - -
+               THERE - S - - -
+              SCRIPT - O - - -
+              KERNEL - X - - -
+             VERSION - X - - -
+              MODULE - X - - -
+                STOP - - - X -
+  /ETC/INIT.D/PCMCIA - - - X -
+           BLACKLIST - - - S -
+            WOBBLYW1 - - - O -
+           HOSTAP_CS - - - X -
+               PRISM - - - X -
+           SOMETHING - - - O -
+               STUFF - - - O -
+                  OK - - - - X

@@ -1,0 +1,40 @@
+                 ALL X S - - - - - - - - - - - - - - - -
+              ANYONE S - - - - - - - - - - - - - - - - -
+          FORWARDING X - - - - - - - - - - - - - - - - -
+    /ETC/SYSCTL.CONF - O - - - - - - - - - - - - - - - -
+                LINE - O - - - - - - - - S S - X - - - -
+NET.IPV4.CONF.DEFAULT.FORWARDING=1 - S - - - - - - - - - - - - - - - -
+                  IP - - S - - - - - - - - - - - - - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - - X - - - - - - - O - - - - - -
+               VALUE - - - S - - - - - - - - - - - - - -
+                  .. - - - X - - - - - - - - - - - - - -
+              UBUNTU - - - - X - - - - - - - - - - - - -
+             DESKTOP - - - - X - - - - - - - - - - - - -
+            REBOOTET - - - - O - - - - - - - - - - - - -
+              CHANGE - - - - X - - - - - - - - - - - - -
+                THAT - - - - - O - - - - - - X X - - O -
+        DISTRIBUTION - - - - - O - - - - - - - - - - - -
+              THINGS - - - - - X - - - - - - - - - - - -
+              SCRIPT - - - - - X - - O - - - - - - - S -
+          IP_FORWARD - - - - - X - - - - - - - - - - - -
+                WORK - - - - - S - - - - - - - - - - - -
+                  TM - - - - - X - - - - - - - - - - - -
+             COMMAND - - - - - - - - - S - - - - - - X -
+               KINDA - - - - - - - - - S - - - - - - - -
+                THIS - - - - - - - - - X - - - - - - - -
+           TWO-LINER - - - - - - - - - - X - - - - - - -
+                   A - - - - - - - - - - - O - - - - - -
+           /BIN/BASH - - - - - - - - - - - S - - - - - -
+                FILE - - - - - - - - - - - X - X - - - -
+                NAME - - - - - - - - - - - X - - - - - -
+    START_FORWARD.SH - - - - - - - - - - - O - - - - - -
+                COOL - - - - - - - - - - - - X - - - - -
+                BOOT - - - - - - - - - - - - X - - X - -
+/ETC/NETWORK/INTERFACES - - - - - - - - - - - - - X - - - -
+                POST - - - - - - - - - - - - - - O - - -
+              SECOND - - - - - - - - - - - - - - - - O -
+               THING - - - - - - - - - - - - - - - - O -
+ S99START_FORWARD.SH - - - - - - - - - - - - - - - - X -
+/ETC/RC2.D/S99START_FORWARD.SH - - - - - - - - - - - - - - - - X -
+                 BRB - - - - - - - - - - - - - - - - X -
+                  NP - - - - - - - - - - - - - - - - - X

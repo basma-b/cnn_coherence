@@ -1,0 +1,9 @@
+             COMMAND X - - - - - -
+               XTERM S - - - - - -
+                 DIR X - - - - - -
+    -GOTODIR=/FOOBAR X - - - - - -
+              /FUBAR X - - - - - -
+                  .. X - - - - - -
+                 PWD - - - - X - -
+                 QWD - - - - - S -
+             SERVERS - - - - - - S

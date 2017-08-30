@@ -1,0 +1,14 @@
+               BLOCK O - - - -
+                PORT S - - - -
+               OUTGO X - - - -
+           INCOMMING X - - - -
+             DISABLE O - - - -
+             COMMAND - - O - -
+         RECONFIGURE - - - X -
+            PLYMOUTH - - - X -
+               THERE - - - - S
+         ALTERNATIVE - - - - O
+                LINK - - - - X
+               GROUP - - - - X
+    DEFAULT.PLYMOUTH - - - - X
+/LIB/PLYMOUTH/THEMES/UBUNTU-LOGO/UBUNTU-LOGO.PLYMOUTH - - - - X

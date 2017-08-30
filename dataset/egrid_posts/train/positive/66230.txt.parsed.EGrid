@@ -1,0 +1,22 @@
+                 PLZ S - - - - - -
+          PERMISSION - S - X - - -
+              ACCESS - S - - - - -
+               FSTAB - - S - - - -
+                USER - - X - - - -
+                UID= - - X - - - -
+               MYUID - - O - - - -
+               UMASK - - - - S - -
+          /ETC/FSTAB - - - - O - -
+              OUTPUT - - - - S - -
+                /MNT - - - - S - -
+            PASTEBIN - - - - X - -
+                EHRM - - - - O - -
+                LINE - - - - X - -
+            DOWNLOAD - - - - O - -
+                HTTP - - - - O - -
+//WWW.UBUNTULINUX.NL/FILES/WINMAC_FSTAB - - - - X - -
+             WINDOWS - - - - O - -
+                 MAC - - - - X - -
+            PARTIONS - - - - S - -
+                HELP - - - - - - X
+        WINMAC_FSTAB - - - - - - S

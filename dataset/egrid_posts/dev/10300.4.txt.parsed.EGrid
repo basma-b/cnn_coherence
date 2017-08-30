@@ -1,0 +1,10 @@
+             COMMAND X - - - -
+          AUTOREMOVE X - - - -
+             PACKAGE O - - - -
+                 ALL X - - - -
+        DEPENDENCIES O - - - -
+              CONFIG X - - - -
+                FILE O - - - -
+                 ANY X - - - -
+               VIDEO - - - O O
+             YOUTUBE - - - - O

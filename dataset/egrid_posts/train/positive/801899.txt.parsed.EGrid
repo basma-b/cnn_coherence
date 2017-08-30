@@ -1,0 +1,12 @@
+                  IS - X - -
+             UPSTART - S - -
+                INIT - X - -
+             CONTROL - X - -
+             PROCESS - O - -
+                PART - X - -
+            SYSVINIT - X - -
+               10.10 - X - -
+                 USE - - S -
+              SCRIPT - - O -
+         /ETC/INIT.D - - X -
+                 JOB - - - S

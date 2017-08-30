@@ -1,0 +1,11 @@
+         MAIL-SERVER O - - - -
+             POSTFIX - O - - -
+              COURSE - X - - -
+             MAILBOX - X - - -
+               STUFF - O - - -
+             DOVECOT - S - - -
+              SERVER - O O - -
+                BIND - - X - -
+                MAIL - - X - -
+                 DNS - - - - O
+                ELSE - - - - X

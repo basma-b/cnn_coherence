@@ -1,0 +1,16 @@
+                   | - X - - - - - -
+            THIPTHIP - X - - - - - -
+           JOSSPYKER - X - - - - - -
+         NTFS-CONFIG - X - - - - - -
+                   / - S - - - - - -
+                ROOT - X - - - - - -
+               FSTAB - - O - - - - -
+                FILE - - - S - - - -
+          PERMISSION - - - O - - - -
+           SOMETHING - - - O - - - -
+           UMASK=000 - - - X - - - -
+               UMASK - - - - X - - -
+               CHMOD - - - - - X - -
+                HTTP - - - - - - - X
+ ALLOWROOTLOGINGNOME - - - - - - - X
+                   D - - - - - - - X

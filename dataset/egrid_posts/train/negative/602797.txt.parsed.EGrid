@@ -1,0 +1,23 @@
+            MODPROBE X - S -
+               FATAL X - O -
+/LIB/MODULES/2.6.28-11-GENERIC/MODULES.DEP O - O -
+                FILE X - X -
+           DIRECTORY X - X -
+                  .. X X - -
+             LOADING - X - -
+            /UBNKERN - X - -
+            /UBNINIT - X - -
+               -LSB- - - X -
+             MP-BIOS - - X -
+                 BUG - - X -
+               TIMER - - S -
+                ATA1 - - S -
+           SOFTRESET - - S -
+              DEVICE - - X -
+                DONT - - X -
+               PASTE - - S -
+                LINE - - S -
+    PASTE.UBUNTU.COM - - O -
+             VERSION - - X -
+              UBUNTU - - X -
+              JANUTY - - X -

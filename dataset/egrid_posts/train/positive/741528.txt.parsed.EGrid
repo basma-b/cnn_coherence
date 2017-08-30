@@ -1,0 +1,14 @@
+              OUTPUT X - - - -
+                FILE - X - - -
+           DIRECTORY - X - - -
+                SUDO - S - - -
+              MODULE - X - - -
+              KERNEL - X - X -
+                  -R - - X - -
+   2.6.32-24-GENERIC - - X - -
+              PL2303 - - - O -
+                  .. - - - X -
+             KERNELS - - - S -
+LINUX-IMAGE-2.6.32-21-GENERIC - - - - S
+              DRIVER - - - - O
+              DEVICE - - - - X

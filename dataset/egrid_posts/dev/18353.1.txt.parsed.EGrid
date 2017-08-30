@@ -1,0 +1,40 @@
+               DIMOS X - - - - - - -
+           OWNERSHIP X - - - - - - -
+         PERMISSIONS O - - - - - - -
+                FILE X - - X X - - O
+                SUDO - S - - - X - -
+          SCRIPT.PHP - O - - - - - -
+             NOTHING - S - - - - - -
+           DIRECTORY - X - - - - - -
+                PATH - O - - - - - -
+                THAT - - S - - - - -
+               ISSUE - - O - - - - -
+                  .. - - - X S - - X
+              DETAIL - - - X - - - -
+                INFO - - - S - - - -
+                 LOG - - - X X - - -
+                SEAM - - - S - - - -
+                THIS - - - S - - - O
+                IDEA - - - O - - - X
+                  'S - - - - S - - -
+               CHOWN - - - - - X - -
+            WWW-DATA - - - - - X - -
+/VAR/LOG/APACHE2/ERROR.LOG - - - - - X - -
+               -LSB- - - - - - X - -
+               ERROR - - - - - X - -
+              CLIENT - - - - - X - -
+                 PHP - - - - - X - -
+             WARNING - - - - - X - -
+               FOPEN - - - - - X - -
+            DATA.TXT - - - - - X - -
+              STREAM - - - - - O - -
+          PERMISSION - - - - - O - -
+/VAR/WWW/PHP/SCRIPT.PHP - - - - - X - -
+                LINE - - - - - X - -
+             REFERER - - - - - X - -
+                HTTP - - - - - O - -
+//LOCALHOST/PHP/FORM.HTML - - - - - O - -
+                  -R - - - - - X - -
+            /VAR/WWW - - - - - O - X
+           SOMETHING - - - - - - - X
+             COMMAND - - - - - - - X

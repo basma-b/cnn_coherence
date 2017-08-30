@@ -1,0 +1,11 @@
+         RECONFIGURE S - -
+        XSERVER-XORG O - -
+                  WM S - -
+       GNOME-SESSION S - -
+               STICK O - -
+                DONT - S -
+                XORG - S S
+                IDEA - O -
+             SOMEONE - - S
+               PANEL - - O
+                STAB - - X

@@ -1,0 +1,12 @@
+              REBOOT O - -
+                8.10 X - -
+             UPGRADE X - -
+              NVIDIA O - -
+                   | S - -
+                GREP X - -
+                  .. O - -
+              MODULE - S -
+                   > - X -
+/KERNEL/DRIVERS/VIDEO/NVIDIA.KO - O -
+KERNEL/DRIVERS/VIDEO/NVIDIA/NVIDIAFB.KO - - O
+                 ALL - - O

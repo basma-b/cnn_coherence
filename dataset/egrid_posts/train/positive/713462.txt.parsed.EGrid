@@ -1,0 +1,21 @@
+              CAMERA - S S - - - - - - -
+            COMPUTER - X - - - - - - - -
+                 RUN - X - - - - - - - -
+             PROBLEM - O - - - - - - - -
+                ETH1 - S S - - O - - - X
+             CONNECT - - O - - - - - - -
+                IFUP - - S - - - - - - -
+            IFCONFIG - - X - - - - - - -
+              OUTPUT - - X - - - - - - -
+            SETTINGS - - O X - - - - - -
+                ADDR - - X - - - - - - -
+               BCAST - - X - - - - - - -
+                MASK - - X - - - - - - -
+                 SET - - - X - - - - - -
+             ADDRESS - - - - - O - - - -
+             NETMASK - - - - - X - - - -
+/ETC/NETWORK/INTERFACES - - - - - X - - - -
+     /E/N/INTERFACES - - - - - X - - - -
+                THAT - - - - - - - - X -
+               IFACE - - - - - - - - - X
+             SECTION - - - - - - - - - X

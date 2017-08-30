@@ -1,0 +1,17 @@
+               THERE S - - - -
+           XORG.CONF O - - - -
+            /ETC/X11 X - - - -
+                 USE O - - - -
+             DRIVERS - S - - -
+               INTEL - X - - -
+                CARD - X - - -
+                I915 - O - - -
+                9.10 - - X - -
+                   A - - - S -
+                YEPP - - - S -
+    PASTE.UBUNTU.COM - - - X -
+              OUTPUT - - - S -
+               LSPCI - - - X -
+                   | - - - X -
+                GREP - - - X -
+                 VGA - - - O -

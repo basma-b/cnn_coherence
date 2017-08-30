@@ -1,0 +1,13 @@
+    /MNT/DRIVE/ROOT/ X - - - -
+                THAT - - O - -
+              UBUNTU - - S - -
+                /MNT - - X - -
+                 HDA - - X - -
+            /DEV/HDA - - X - -
+              CHROOT - - - - X
+        GRUB-INSTALL - - - - O
+               THERE - - - - S
+              RESCUE - - - - X
+                  CD - - - - X
+                NEED - - - - O
+                  .. - - - - X

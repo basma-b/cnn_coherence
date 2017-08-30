@@ -1,0 +1,16 @@
+              UBUNTU - X - -
+             LIVEUSB - O - -
+                  DD - X X -
+             COMMAND - X - -
+            /DEV/SDB - S - -
+                 USB - X - -
+              DEVICE - O - -
+         OF=/DEV/SDB - - X -
+               DRIVE - - - S
+            /DEV/SDA - - - X
+              ERRORS - - - X
+              REPORT - - - X
+                 TRY - - - X
+                BOOT - - - X
+                GRUB - - - X
+                MENU - - - O

@@ -1,0 +1,14 @@
+             COMMAND O - -
+              KERNEL X - -
+             VERSION X - -
+                 ETC X - -
+                 USE O - -
+                BASH X - -
+              BINARY O - -
+              X11VNC - O -
+             PACKAGE - X -
+             APT-GET - S -
+                  -A - O -
+         LSB_RELEASE - X -
+                 PPA - O X
+                REPO - X -

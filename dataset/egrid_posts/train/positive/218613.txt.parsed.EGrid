@@ -1,0 +1,12 @@
+              KERNEL X - - - -
+               PANIC O - - - -
+              BOOTUP X - - - -
+               ERROR O - - - -
+                ROOT X - - - -
+                  FS O - - - -
+               BLOCK X - - - -
+                KIND - X - - -
+                BOOT - X - - -
+                LILO - - O - -
+              BACKUP - - - - X
+           LILO.CONF - - - - X

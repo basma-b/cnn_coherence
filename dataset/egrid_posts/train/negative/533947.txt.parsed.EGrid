@@ -1,0 +1,10 @@
+                DISK X - - -
+              UBUNTU X - - -
+          FILESYSTEM - X - -
+                NTFS - O - -
+               LINUX - X - -
+          FILEFORMAT - O - -
+                DATA - O - -
+               FUSER - - - X
+  /VAR/LIB/DPKG/LOCK - - - S
+             PROCESS - - - O

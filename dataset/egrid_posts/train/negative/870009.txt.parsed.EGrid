@@ -1,0 +1,26 @@
+         APPLICATION - O - - - - - - - - -
+                PAGE - O - - - - - - - - -
+           LOCALHOST - X X - - - - X - - -
+                   * - X - - - - - - - - S
+             BROWSER - X - - - - - - - - -
+            COMPUTER - X - - - - - - - - -
+             NETWORK - X - - - - - - - - -
+   HOSTNAME/PAGE.HTM - - X - - - - - - - -
+                LINK - - X X X - - - - - -
+                  .. - - - - X - - - O - -
+            RESOURCE - - - - O - - - - - -
+                 URL - - - - - X - X - - -
+             ADDRESS - - - - - X - - - - -
+                WORK - - - - - - - X - - -
+                HTTP - - - - - - - X - - -
+//LOCALHOST:5800/FILE.HTM - - - - - - - X - - -
+              SERVER - - - - - - - X - - -
+              APACHE - - - - - - - X - - -
+      LOCALHOST:8080 - - - - - - - - X - -
+       /LIB/MODULES/ - - - - - - - - - - O
+                  -R - - - - - - - - - - S
+                 ACX - - - - - - - - - - S
+             NOTHING - - - - - - - - - - O
+             AIRPLAY - - - - - - - - - - X
+          PULSEAUDIO - - - - - - - - - - X
+              KERNEL - - - - - - - - - - X

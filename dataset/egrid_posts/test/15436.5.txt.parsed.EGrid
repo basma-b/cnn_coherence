@@ -1,0 +1,15 @@
+              CHANGE X - - - -
+DEFAULT_FORWARD_POLICY= X - - - -
+                DROP X - - O -
+    /ETC/DEFAULT/UFW X - - - -
+                 UFW - O - - -
+            IPTABLES - X - - -
+                RULE - O - - -
+             QUANTAL - - - S -
+             VERSION - - - O -
+              DRIVER - - - X -
+             SUPPORT - - - X -
+                CARD - - - X -
+                  HD - - - - X
+                2XXX - - - - X
+              SERIES - - - - X

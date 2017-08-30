@@ -1,0 +1,16 @@
+                THAT X - S - - - - -
+            SYSLINUX O - - - - X - -
+          UBUNTU.ISO O - - - - - - -
+                  DD X - X - X - - -
+       IF=UBUNTU.ISO X - - - - - - -
+    OF=/DEV/WHATEVER S - - - - - - -
+                 ISO - - S - - - - -
+          HYBRID-ISO - - X - - - - -
+              UBUNTU - - S - - - - -
+             DEFAULT - - X - - - - -
+                THIS - - X - - - - -
+          USB-DEVICE - - X - - - - -
+                .ISO - - - - X - - -
+                 ALL - - - - X - - -
+                 USB - - - - X - - -
+               TRICK - - - - - X - -

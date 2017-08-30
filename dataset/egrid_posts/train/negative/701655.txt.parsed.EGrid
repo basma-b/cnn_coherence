@@ -1,0 +1,26 @@
+             WINDOWS O O - - - - -
+             OPTIONS S - - - - - -
+                BOOT - X - - - - -
+           PARTITION - X - X - - -
+                REST - X - - - - -
+                DISK - X - - - - -
+               CDROM - S - - - - -
+               BREAK - X - - - - -
+                THAT - - X - - - -
+                 DVD - - - X - - -
+             MACHINE - - - - X - -
+          UNETBOOTIN - - - - O - -
+                HTTP - - - - X - -
+//UNETBOOTIN.SOURCEFORGE.NET/ - - - - S - -
+              FRUGAL - - - - X - -
+              OPTION - - - - O - -
+             VERSION - - - - - S -
+              DEVICE - - - - - X X
+                 NOD - - - - - O -
+                 OWN - - - - - X -
+                UDEV - - - - - X -
+               NODES - - - - - - S
+              PCMCIA - - - - - - X
+             PACKAGE - - - - - - S
+          DIFFERENCE - - - - - - O
+                FINE - - - - - - X

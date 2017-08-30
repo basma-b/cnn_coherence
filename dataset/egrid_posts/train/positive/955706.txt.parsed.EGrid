@@ -1,0 +1,23 @@
+                CANT X X - - - - -
+                BOOT O - - - - - -
+                GRUB O - - - - - -
+                MENU X - - - - - -
+             COMMAND O - - - - - -
+                  CD O - - - - - -
+              ACCESS O - - - - - -
+                FILE O - - - - - -
+                  PC X - - - - - -
+               FLASH X - - - - - -
+                DISK X O - - - - -
+             NETWORK X - - - - - -
+              LIVECD O - - - - - -
+               HTTPS - X - - - - -
+//WIKI.UBUNTU.COM/RECOVERINGUBUNTUAFTERINSTALLINGWINDOWS - S - - - - -
+              OUTPUT - O - - - - -
+            /DEV/HDA - X - - - - O
+                ROOT - X - - - - -
+       SMARTMONTOOLS - - O - - X -
+            DOWNLOAD - - X - - - -
+                TEST - - - S - - -
+            SMARTCTL - - - - - - S
+             MESSAGE - - - - - - O

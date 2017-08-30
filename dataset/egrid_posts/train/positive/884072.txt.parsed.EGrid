@@ -1,0 +1,17 @@
+               GCONF X X - - - - -
+             OPTIONS S - - - - - -
+              CHANGE O - - - - - -
+              SCHEMA - O - - - - -
+               DCONF - X - - - - -
+                 KEY - - O - - - X
+                THAT - - - X - - -
+                   A - - - - - X -
+                 USE - - - - - X -
+        GCONF-EDITOR - - - - - O -
+        DCONF-EDITOR - - - - - - O
+           DIRECTORY - - - - - - X
+                BASE - - - - - - O
+             SCHEMAS - - - - - - X
+           GSETTINGS - - - - - - X
+                 CLI - - - - - - O
+               VALUE - - - - - - O

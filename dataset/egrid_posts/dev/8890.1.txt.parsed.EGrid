@@ -1,0 +1,12 @@
+               MDADM X - -
+             MESSAGE X - -
+        ADD_NEW_DISK X - -
+              DEVICE X - X
+            RESOURCE S - -
+            /DEV/SDC - X -
+           SOMETHING - X -
+             NOTHING - - S
+     ZERO-SUPERBLOCK - - X
+                PASS - - S
+                 SDD - - O
+                RAID - - X

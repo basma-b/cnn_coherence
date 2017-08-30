@@ -1,0 +1,15 @@
+               ARRAY X O - - -
+               RAID0 - X - - -
+                RAID - X - - -
+          AUTODETECT - X - - -
+           PARTITION - O - X -
+                BOTH - X - - -
+                HDDS - X - - -
+               /BOOT - X - O -
+                SWAP - X - - -
+                   / - X - - -
+                BOOT - - X - -
+                THAT - - - - S
+               DUNNO - - - - X
+             DESKTOP - - - - X
+             EDITION - - - - O

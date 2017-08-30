@@ -1,0 +1,17 @@
+               GROUP X - - -
+                SUDO O O - -
+                   % X X - -
+        ALL=NOPASSWD O - - -
+        /ETC/SUDOERS X - - -
+            PASSWORD - O - -
+                 SED - X - -
+              /TO/A/ - S - -
+                USER - X - -
+                NAME - X - -
+                  OK - X - -
+              COUPLE - X - -
+               USERS - X - -
+                LINE - O - -
+                TTY2 - X - -
+              VISUDO - O - -
+                 WAY - X - -

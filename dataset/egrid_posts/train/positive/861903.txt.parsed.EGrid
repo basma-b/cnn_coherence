@@ -1,0 +1,9 @@
+             SETFACL X - -
+              ACCESS X - -
+             CONTROL X - -
+                LIST X - -
+                   < - X -
+               LLUTZ - X -
+                   > - S -
+                ACLS - O -
+                LINE - - X

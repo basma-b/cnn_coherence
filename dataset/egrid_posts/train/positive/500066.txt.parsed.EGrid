@@ -1,0 +1,11 @@
+                COPY O - - -
+                FILE X - - -
+           SOMETHING O - - -
+                ROOT - X - -
+          FILESYSTEM - S - X
+           PARTITION - X - -
+                 USE - X - -
+               /BOOT - O - -
+              SYSTEM - - - X
+                 LVM - - - O
+             ANOTHER - - - X

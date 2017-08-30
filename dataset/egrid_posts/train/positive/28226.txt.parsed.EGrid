@@ -1,0 +1,13 @@
+             WINDOWS X - -
+           PARTITION X - -
+                 USE X - -
+               FSTAB O - -
+               ENTRY S - -
+                NTFS O - -
+             DEFAULT X - -
+                USER X - -
+                  CD - - X
+           DIRECTORY - - X
+             COMMAND - - X
+                SUDO - - O
+                YEAH - - O

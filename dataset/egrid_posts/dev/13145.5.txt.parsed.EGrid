@@ -1,0 +1,19 @@
+           THEBORGER X - - - -
+/ETC/NETWORKMANAGER/NETWORKMANAGER.CONF O - - - -
+         DNS=DNSMASQ X - - - -
+         NAMESERVERS O - - - -
+                SUDO - S - - -
+             PREPEND - X - - -
+ DOMAIN-NAME-SERVERS - O - - -
+                 BUG - - O - -
+               UNITY - - - O -
+                 USE - - - - O
+              COMPIZ - - - - S
+                WORK - - - - O
+              PERIOD - - - - O
+                GAME - - - - X
+               FLASH - - - - O
+             NOTHING - - - - X
+            ANYTHING - - - - X
+                  GL - - - - S
+                 ALL - - - - X

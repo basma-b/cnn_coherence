@@ -1,0 +1,16 @@
+                 ANY S - - - - - - - - - - - - - - -
+                   U - - - - S - - - - - - - - - - -
+                 HEY - - - - - - X - - - - - - - - -
+               ERROR - - - - - - S - - - - - - - - -
+VAR/LOG/APACHE2/ERROR.LOG - - - - - - X - - - - - - - - -
+                  SH - - - - - - X - - - - - - - - -
+              MKFIFO - - - - - - X S - - - - - - - -
+          PERMISSION - - - - - - S - - O - - - - - -
+              SCRIPT - - - - - - - S - - - - - - - -
+                CODE - - - - - - - O - O - - - - - -
+              SYSTEM - - - - - - - X - - - - - - - -
+                THIS - - - - - - - - X - - - - - - -
+     REPLY_FIFO_PATH - - - - - - - - X - - - - - - -
+              APACHE - - - - - - - - - S - - - - - -
+           SOMETHING - - - - - - - - - - O - - - - -
+            WWW-DATA - - - - - - - - - - X - - - - -

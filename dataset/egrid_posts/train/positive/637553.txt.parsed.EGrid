@@ -1,0 +1,17 @@
+             COMMAND X - - - - - - -
+              CHANGE X - - - - - - -
+         SSHD_CONFIG X - - - - - - -
+            TERMINAL X - X - - - - -
+                 VIM - - X - - - - -
+                NANO - - X - - - - -
+                 GUI - - X - - - - -
+                  OK - - X - - - - -
+                   X - - X - - - - -
+                CANT - - X - - - - -
+                SUDO - - X - S - - -
+                  .. - - O - - - - -
+               GEDIT - - - - S - - -
+                 USE - - - - S - - -
+              GKSUDO - - - - X - - -
+/ETC/SSH/SSHD_CONFIG - - - - X - - -
+                   = - - - - - - - X

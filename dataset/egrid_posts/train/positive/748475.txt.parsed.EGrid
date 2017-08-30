@@ -1,0 +1,23 @@
+             PROBLEM O - - - - - - - - -
+         LIBNCURSES5 S - - - - - - - - -
+5.7+20100626-0UBUNTU1 S - - - - - - - - -
+             NOTHING S - - - - - - - - -
+               CACHE O - - - - - - - - -
+                LINE O - - - - - - - - -
+             PACKAGE - S - - - - O - - -
+             VERSION - X - - - - - - - -
+      IMPLEMENTATION - X - - - - - - - -
+5.7+20090803-2UBUNTU3 - - S - - - - - - -
+               LUCID - - X - - - - - - -
+                THAT - - - S S - - - - -
+             LIBRARY - - - O X - - - - -
+            SYNAPTIC - - - - X - - - - -
+     LIBNCURSES5-DEV - - - - - S - - - -
+          AUTOREMOVE - - - - - X - - - -
+        DIST-UPGRADE - - - - - X - - - -
+               WEDGE - - - - - - X - - -
+          DEPENDENCY - - - - - - X - - -
+            PROBLEMS - - - - - - O - - -
+               SHELL - - - - - - - O - -
+             EXAMPLE - - - - - - - - X -
+              DESIRE - - - - - - - - - X

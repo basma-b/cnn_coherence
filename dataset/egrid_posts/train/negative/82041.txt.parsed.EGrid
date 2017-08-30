@@ -1,0 +1,7 @@
+             COMMAND X - -
+             PACKAGE X - -
+                FILE S - -
+            REISERFS - - S
+                  .. - - X
+                EXT3 - - X
+                EXT4 - - S

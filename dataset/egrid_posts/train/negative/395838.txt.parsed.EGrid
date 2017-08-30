@@ -1,0 +1,16 @@
+           PARTITION O - -
+              MASTER X - -
+                DISK X - -
+                 BOX X - -
+             WINDOWS O - -
+                BOOT X - -
+              SYSTEM O - -
+              UBUNTU - X -
+         RECONFIGURE - X -
+                GRUB - X -
+                  .. - O -
+                CLUE - O -
+                REST - X -
+               UBOTU - S -
+                INFO - O -
+              SERVER - S -

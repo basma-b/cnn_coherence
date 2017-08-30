@@ -1,0 +1,17 @@
+                 TIK X - - -
+                  .. S O - X
+             PROCESS O - - -
+                 PID O - - -
+                SUDO X X X X
+              REBOOT - X - S
+                PIDS - X - -
+             KILLALL - X X -
+        TRANSMISSION - X S -
+             NOTHING - - S -
+              FOLLOW - - X -
+               -KILL - - X -
+               -SEGV - - X -
+             COMMAND - - X -
+                   X - - - O
+     /ETC/INIT.D/GDM - - - S
+     CORRESPONDENTLY - - - X

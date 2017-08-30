@@ -1,0 +1,16 @@
+                  SD X - - X - - X - - - -
+                CARD S - - S - - S - - X -
+              UBUNUT X - - X - - X - - - -
+              CAMERA - X - - X - - X - - -
+              FEDORA - - X - - X - - X - -
+                FILE - - O - - O - - O - O
+                ERIN - - - O - - O - - - -
+              INSERT - - - - - - - - - X -
+                HTTP - - - - - - - - - O -
+                SUDO - - - - - - - - - - X
+             APT-GET - - - - - - - - - - S
+ UPDATE-MANAGER-CORE - - - - - - - - - - O
+               GEDIT - - - - - - - - - - O
+/ETC/UPDATE-MANAGER/RELEASE-UPGRADES - - - - - - - - - - O
+       PROMPT=NORMAL - - - - - - - - - - S
+  DO-RELEASE-UPGRADE - - - - - - - - - - O

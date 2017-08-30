@@ -1,0 +1,16 @@
+                  -I O - - -
+                ROOT X - - -
+               SHELL O - - -
+             APT-GET O S - -
+         PACKAGENAME - O - -
+              SEARCH - X S -
+             PACKAGE - X S -
+                NAME - O O -
+                 ETC - O - -
+             INSTALL - - X -
+           APT-CACHE - - X -
+                 MAN - - S -
+                  .. - - O -
+              STATUS - - O -
+                DPKG - - O -
+                INFO - - - O

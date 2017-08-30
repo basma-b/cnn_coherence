@@ -1,0 +1,17 @@
+            EVERYONE X - - - - -
+                HELP - O - - - -
+               FSTAB - X - - - -
+                LINE - - O - - -
+               USERS - - S - - -
+                  RW - - S - - -
+           GID=USERS - - S - - -
+          UMASK=0002 - - S - - -
+           PARTITION - - O X - -
+                BOOT - - X - - -
+                  PC - - O - - -
+              CHANGE - - - X - -
+                 GID - - - X - -
+                USER - - - X - -
+               GROUP - - - X - -
+                  ID - - - X - -
+              REBOOT - - - - O -

@@ -1,0 +1,16 @@
+            QUESTION O - - - - - - -
+                BOOT X - - - - - - -
+                  IM X - - - - - - -
+                  .. O - - - - - - -
+        ROOT=BOOTARG - X - - - - - -
+                 CAT - X - - - - - -
+        /PROC/CMLINE - O - - - - - -
+             MODULES - X - - - - - -
+             DEVICES - O - - - - - -
+    CAT/PROC/MODULES - S - - - - - -
+/DEV/DISK/BY-UUID/ED8E6C38-6385-4810-9B20-8DD597E2A811 - - S - - - - -
+                GRUB - - X - O - - -
+                DISC - - X - - - - -
+                THAT - - - O - - - -
+               SHELL - - - - X X - -
+            MENU.LST - - - - - O - -

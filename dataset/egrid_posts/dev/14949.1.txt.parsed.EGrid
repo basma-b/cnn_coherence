@@ -1,0 +1,10 @@
+             COMMAND X - - -
+                 KEY O - - -
+                COPY - X - -
+             MACHINE - X - -
+                 USE - O - -
+              SERVER - X - X
+              LAPTOP - X - X
+                  .. - X - -
+                FILE - - - X
+                .SSH - - - O

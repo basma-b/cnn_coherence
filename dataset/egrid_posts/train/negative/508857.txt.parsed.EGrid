@@ -1,0 +1,10 @@
+              MODULE X - -
+              KERNEL X - -
+                TIME - X -
+             STARTUP - X -
+            MODPROBE - X -
+               HDAPS - O -
+                NAME - O -
+        /ETC/MODULES - X -
+             COMMAND - - O
+              OUTPUT - - X

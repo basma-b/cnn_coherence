@@ -1,0 +1,16 @@
+                GZIP O - - - - -
+                TEXT X - - - - -
+                FILE X - - - S -
+               SPACE X - - - - -
+                  DF - S - - - -
+                DISK - X - - - -
+               USAGE - X - - - -
+           REDUCTION - O - - - -
+                  DU - S - X X -
+                HINT - - X - - -
+             LOGFILE - - - S - -
+              SYSLOG - - - O - -
+                OKAY - - - - S -
+           DISKSPACE - - - - S -
+                 HMM - - - - - S
+              CHANGE - - - - - O

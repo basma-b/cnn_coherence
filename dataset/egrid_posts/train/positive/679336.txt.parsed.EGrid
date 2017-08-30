@@ -1,0 +1,10 @@
+             COMMAND X - -
+              OUTPUT O - -
+            DHCLIENT X X -
+            TERMINAL - X -
+                TYPE - O -
+                SUDO - X -
+            WIRELESS - - X
+             NETWORK - - X
+             ADAPTER - - S
+          DCHPOFFERS - - S

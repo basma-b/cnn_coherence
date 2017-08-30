@@ -1,0 +1,14 @@
+               USERS S - -
+              ACCESS O O -
+                FILE O - -
+                HOME X - -
+         DIRECTORIES X - -
+                SUDO - S -
+      /HOME/USERNAME - O -
+                THIS - S -
+               OWNER - O -
+               GROUP - X -
+                DATA - X -
+                GOOD - X -
+           MULTIUSER - X -
+             SYSTEMS - X -

@@ -1,0 +1,36 @@
+            APPARMOR X - - - -
+                CANT - S - - -
+           APPARMOUR - X - - -
+                THAT - - S - -
+               MYSQL - - O - -
+                 AUG - - X - -
+              GALPAO - - X - -
+              KERNEL - - O - -
+               AUDIT - - X - -
+  1281710469.385:437 - - X - -
+          OPERATION= - - X - -
+                OPEN - - X - -
+            PROFILE= - - X - -
+    /USR/SBIN/MYSQLD - - X - -
+     REQUESTED_MASK= - - X - -
+        DENIED_MASK= - - X - -
+             FSUID=0 - - X - -
+              OUID=0 - - X - -
+               NAME= - - X - -
+/SYS/DEVICES/SYSTEM/CPU/ - - X - -
+             DEFAULT - - X - -
+            APPAMOUR - - X - -
+             PROFILE - - S - -
+                9.10 - - X - -
+                TEST - - X - -
+             APPAMOR - - X - -
+                HTTP - - X - -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - X - -
+            T=875986 - - - S -
+                SITE - - - X -
+                 USE - - - O -
+                 DNS - - - X -
+                NAME - - - X -
+              DRUPAL - - - - X
+           MULTISITE - - - - O
+                WORK - - - - O

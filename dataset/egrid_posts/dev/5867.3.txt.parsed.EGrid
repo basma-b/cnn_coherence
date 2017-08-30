@@ -1,0 +1,12 @@
+             COMMAND X - -
+                FSCK S - -
+              SYSTEM X - -
+               CHECK O - -
+              REBOOT X - -
+                SUDO - S -
+          /FORCEFSCK - O -
+               VIDEO - - X
+            HARDWARE - - X
+               INTEL - - X
+              NVIDIA - - X
+                 ETC - - O

@@ -1,0 +1,16 @@
+           /DEV/HDA1 X - - - - - - - -
+                LINE X X - - - - - - -
+           /DEV/HDC1 X - - - - - - - -
+                FILE O - - - - - - - -
+             COMMAND - X - - - - - - -
+                SUDO - - X X - - - - -
+          /MNT/WINXP - - O X - - - - -
+              ERRORS - - X - - - - - -
+               VALID - - - S - - - - -
+              SYNTAX - - - O - - - - -
+                   > - - - - S - - - -
+              DEVICE - - - - X - - - -
+          /ETC/FSTAB - - - - - - X - -
+                 ALL - - - - - - X - -
+                 ONE - - - - - - O - -
+               OTHER - - - - - - O - -

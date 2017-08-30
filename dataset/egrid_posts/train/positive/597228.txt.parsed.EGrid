@@ -1,0 +1,15 @@
+                XEON X - -
+               QUADS S - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES O - -
+                 END X - -
+                LINE X - -
+                NAME O - -
+              DEVICE X - -
+                ETH1 O - -
+               REBOT X - -
+           INTERFACE S - -
+              CHANGE - - X
+                SUDO - - S
+/ETC/INIT.D/NETWORKING - - X
+               DIDNT - - X
+                  .. - - O

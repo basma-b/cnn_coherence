@@ -1,0 +1,16 @@
+       EXTERNAL-DISK O - - - - - - - - - -
+             DOLPHIN X - - - - - - - - - -
+               ERROR - S - O - - - - - - -
+              ACCESS - S - - - - - - - - -
+              SYSTEM - - S - - - - - - - -
+ORG.FREEDESKTOP.UDISK.ERROR.PERMISSIONDENIED=NOT - - S - - - - - - - -
+          PERMISSION - - - O - - - - - - -
+                USER - - - X X - - - - - O
+            COMPUTER - - - - - X - - - - -
+              MEMBER - - - - - - X - - - -
+               GROUP - - - - - - X - - - -
+                NTFS - - - - - - - S - - -
+                THAT - - - - - - - - - X -
+             SOMEONE - - - - - - - - - - S
+             KUBUNTU - - - - - - - - - - O
+                 KDE - - - - - - - - - - X

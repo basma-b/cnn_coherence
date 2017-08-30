@@ -1,0 +1,26 @@
+                 LOG - - X - - - - -
+                CLUE - - X - - - - -
+ /VAR/LOG/VSFTPD.LOG - - X - - - - -
+               THERE - - X - - - - -
+     /VAR/LOG/SYSLOG - - - X - - - -
+              RETURN - - - X - - - -
+                THIS - - - X - - S -
+                INIT - - - X - - - -
+             SERVICE - - - O - - - -
+              CONFIG - - - X - - - -
+                FILE - - - O - - - -
+              BINARY - - - X - - - -
+             COMMAND - - - X - - - -
+                LINE - - - X O - - -
+                CANT - - - X - - - -
+               START - - - X O - - -
+          EVERYTHING - - - X - - - -
+                 SSH - - - X - - - -
+                ROOT - - - - X - - -
+/PATH/TO/CONFIG/FILE/VSFTPD.CONF - - - - S - - -
+            PROGRESS - - - - O - - -
+              SYSTEM - - - - - - X -
+              UPDATE - - - - - - X -
+                  GO - - - - - - O -
+               ISSUE - - - - - - - S
+              MOMENT - - - - - - - X

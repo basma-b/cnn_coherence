@@ -1,0 +1,16 @@
+      GNOME-TERMINAL S - - - - - -
+                CANT - X - - - - -
+             PROCESS - S - - - - X
+             SIGTERM - X - - - - -
+             SIGKILL - X - - - - -
+                THIS - - X - - - -
+                  -9 - - - X - - -
+               PKILL - - - - X S -
+          DIFFERENCE - - - - O - -
+             KILLALL - - - - X - -
+                WORK - - - - - O -
+                  PS - - - - - - X
+                   | - - - - - - X
+                GREP - - - - - - X
+                   Z - - - - - - S
+                LIST - - - - - - O

@@ -1,0 +1,20 @@
+             PROGRAM S - - - - - - - -
+             NETWORK O - - - - - - - -
+               USERS - X - - - - - - -
+                 LAN - X - - - - - - -
+               SETUP - - X - - - - - -
+                MODE - - X - - - - - -
+             PACKETS - - O - X - - - -
+           WIRESHARK - - - S - - - - -
+            PROTOCOL - - - - X - - - -
+                BASE - - - - O - - - -
+             HARVEST - - - - - S - - -
+              OUTPUT - - - - - O - - -
+                HTTP - - - - - X - - -
+//ALSA-PROJECT.ORG/ALSA-INFO.SH - - - - - X - - -
+                BASH - - - - - X - - -
+               PATCH - - - - - X - - -
+               QUIET - - - - - X - - -
+               SOUND - - - - - X - - -
+                 HMM - - - - - - - X -
+               IDSEA - - - - - - - - X

@@ -1,0 +1,17 @@
+                 ALL O - - - - - -
+           PARTITION O - - - O - -
+           /DEV/SDA6 S - - - - - -
+              SYSTEM O O - - - - -
+           /DEV/SDA7 S - - - - - -
+                SDA6 - X - - X - -
+               SPACE - X X - - - -
+                SDA7 - X S - O - -
+                GRUB - - S X - - -
+             CONTROL - - X - - - -
+               FRONT - - O - - - -
+                 MBR - - X - - - -
+                BOOT - - X - X - -
+              LIVECD - - - - O - -
+             SYSTEMS - - - - X - -
+         FIRESTARTER - - - - - X -
+         CONNECTIONS - - - - - - O

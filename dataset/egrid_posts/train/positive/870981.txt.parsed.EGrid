@@ -1,0 +1,27 @@
+            QUESTION X - - - - - - - - - - -
+70-PERSISTENT-NET-RULES O - - - - - - - - - - -
+                NICS O - - X - - O - - - - -
+              BOOTUP X - - - - - - - - - - -
+             ONBOARD - - S - - - - - - - - -
+                 PCI - - S - - - - - X - - -
+                DEMO - - - X - - - - - - - -
+            COMPUTER - - - X - - - - - - - -
+               CLASS - - - X - - - - - - - -
+              THINGS - - - O - - - - - - - -
+                 HMM - - - - S - - - - - - -
+            VISIABLE - - - - O - - - - - - -
+               LSPCI - - - - X - - - - - - -
+             NETWORK - - - - - - - X - - X -
+             MANAGER - - - - - - - X - - - -
+            ANYTHING - - - - - - - X - - - -
+          INTERFACES - - - - - - - - S - - -
+                CARD - - - - - - - - X - - -
+                PLUG - - - - - - - - O S - -
+        POSSIBITLIES - - - - - - - - - S - -
+                WORK - - - - - - - - - X - -
+              DOESNT - - - - - - - - - S - -
+              UBUNTU - - - - - - - - - - S -
+              SECOND - - - - - - - - - - X -
+             STARTUP - - - - - - - - - - X -
+       CONFIGURATION - - - - - - - - - - X -
+/ETC/NETWORK/INTERFACES - - - - - - - - - - - S

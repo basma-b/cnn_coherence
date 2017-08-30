@@ -1,0 +1,7 @@
+                   < X -
+                USER S -
+              CUPSYS - X
+              SHADOW - S
+             ADDUSER - X
+                 CUP - O
+  /ETC/INIT.D/CUPSYS - S

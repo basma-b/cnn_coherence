@@ -1,0 +1,16 @@
+                  IP O - - - - - -
+          INTERFACES X - - S - - -
+                FILE X - - X - - -
+             NETWORK X - - - - - O
+              EFFECT O - - O - - -
+               IDEAS - X - - - - -
+              IFDOWN - - X - - - -
+                IFUP - - S - - - -
+      NETWORKMANAGER - - - S - - -
+                 WAY - - - X - - -
+           INTERFACE - - - X - - -
+               THERE - - - - - - S
+             SERVICE - - - - - - X
+                NAME - - - - - - X
+            DHCLIENT - - - - - - O
+            ANYTHING - - - - - - O

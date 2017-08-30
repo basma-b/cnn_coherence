@@ -1,0 +1,13 @@
+                  .. X - - - X - - - X - - - - - -
+             PROGRAM - S X - - S X - - S X - S - -
+                FILE - O - - - O - - - O - - - - -
+            RESTRICT - O - - - O - - - O - - - - -
+         RESTRICTION - - X - - - X - - - X - - - -
+               ORDER - - S - - - S - - - S - - - -
+       MODIFICATIONS - - O - - - O - - - O - - - -
+                ROOT - - - - - - - - - - - - X - -
+                SUDO - - - - - - - - - - - - X - -
+              GKSUDO - - - - - - - - - - - - X - -
+                 GUI - - - - - - - - - - - - X - -
+                 APP - - - - - - - - - - - - O - -
+               BUDDY - - - - - - - - - - - - - - O

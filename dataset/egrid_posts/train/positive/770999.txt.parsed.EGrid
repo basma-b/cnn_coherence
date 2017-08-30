@@ -1,0 +1,16 @@
+                SSHD - O - - - -
+                STOP - - S - - -
+                SUDO - - X - - -
+     /ETC/INIT.D/SSH - - X - - -
+                SAME - - O - - -
+                  -9 - - X - - -
+              DAEMON - - X - - -
+                   * - - S - - -
+                WORK - - - - O -
+                  NO - - - - - S
+                ROOT - - - - - O
+              OUTPUT - - - - - O
+                  PS - - - - - X
+                GREP - - - - - X
+                  -I - - - - - X
+                 SSH - - - - - X

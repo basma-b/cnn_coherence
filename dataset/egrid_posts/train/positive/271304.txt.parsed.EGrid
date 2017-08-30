@@ -1,0 +1,14 @@
+                 USE X - -
+            SENDMAIL X - -
+             COMMAND - X O
+                LINE - X -
+           SOMETHING - O -
+                 FOO - X -
+                WORK - O -
+                TYPE - X -
+             MESSAGE - X -
+             POSTFIX - - O
+                 ONE - - O
+                EXIM - - X
+             PACKAGE - - X
+                PATH - - X

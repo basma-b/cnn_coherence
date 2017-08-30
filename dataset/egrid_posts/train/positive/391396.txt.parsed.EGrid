@@ -1,0 +1,17 @@
+                DISK O O O - -
+                ROMS X X X - -
+             FLOPPES X - - - -
+            FLOPPIES - X X - -
+         FILEBROWSER - - X - -
+            NAUTILUS - - - X -
+                /MNT - - - O -
+              SYSTEM - - - X -
+                 DIR - - - O -
+              /MEDIA - - - X -
+                BIUT - - - X -
+                LINE - - - X -
+               FSTAB - - - X -
+           /DEV/SDB1 - - - S -
+       /MEDIA/MYDISK - - - O -
+                SHOW - - - - X
+                  .. - - - - O

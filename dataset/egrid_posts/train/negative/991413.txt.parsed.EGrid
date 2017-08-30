@@ -1,0 +1,15 @@
+                PATH X S X - -
+            VARIABLE X - - - -
+            /USR/LIB - X X - -
+                   > - S - - -
+                WORK - O - - -
+                GOAL - O - - -
+                FILE - - S - -
+                 GCC - - S - -
+           /USR/BIN/ - - - X -
+           /USR/LIB/ - - - S -
+           LIBRARIES - - - O -
+              HELPER - - - X -
+             PROGRAM - - - X -
+         EXECUTABLES - - - X -
+             WINDOWS - - - - O

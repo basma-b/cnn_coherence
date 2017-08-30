@@ -1,0 +1,11 @@
+                FILE O -
+           STRUCTURE S -
+                   X X -
+            FILE.RAR O -
+               ERROR - O
+/LIB/MODULES/2.6.12-10-386/BUILD/INCLUDE/NET/SOCK.H - S
+              TARGET - S
+                PASS - X
+            ARGUMENT - X
+CSUM_AND_COPY_FROM_USER - X
+          SIGNEDNESS - X

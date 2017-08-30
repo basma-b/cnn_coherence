@@ -1,0 +1,14 @@
+            THERMITE - X - - -
+           ALUMINIUM - X - - -
+                 MIX - X - - -
+               STEEL - - X - -
+                THIS - - - X -
+        DEPENDENCIES - - - O -
+             APT-GET - - - O -
+              OPTION - - - O -
+                DPKG - - - - X
+              SEARCH - - - - O
+                ROOT - - - - X
+             COMMAND - - - - X
+                LINE - - - - O
+                WORK - - - - O

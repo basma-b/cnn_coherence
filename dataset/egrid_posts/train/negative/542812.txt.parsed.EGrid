@@ -1,0 +1,11 @@
+ /ETC/INIT.D/PROFTPD S - - - -
+             RESTART O - - - -
+            RESPONSE O - - - -
+             PROFTPD S - - - -
+        INETD/XINETD X - - - -
+                THAT - - X - -
+             COMMAND - - S X -
+/ETC/XINET.D/PROFTPD - - - S -
+                SUDO - - - S -
+              THANKS - - - - S
+             RELEASE - - - - S

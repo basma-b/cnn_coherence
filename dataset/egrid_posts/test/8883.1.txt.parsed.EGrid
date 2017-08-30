@@ -1,0 +1,13 @@
+               12.04 X - - S - - - - -
+            IPTABLES X S - - - - - - -
+                 YES - X - - - - - - -
+             SERVICE - X - - - - - - -
+                THIS - X - - - - - - -
+              EXPECT - X - - - - - - -
+             REQUEST - - - O - - - - -
+             DEFAULT - - - - - - X - -
+            FIREWALL - - - - - - O - -
+                   ' - - - - - - - X -
+           WIRESHARK - - - - - - - O -
+                DATA - - - - - - - O -
+             FORWARD - - - - - - - - X

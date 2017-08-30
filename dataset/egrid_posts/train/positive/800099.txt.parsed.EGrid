@@ -1,0 +1,11 @@
+                9.04 X - - - - -
+             APT-GET - X - - - -
+               MYSQL - O - - X O
+             VERSION - X - - - -
+                HAND - - X - - -
+           APT-CACHE - - X - - -
+              POLICY - - S - X -
+             COMMAND - - - S - -
+             PACKAGE - - - X - S
+                NAME - - - X - -
+                TYPE - - - - X -

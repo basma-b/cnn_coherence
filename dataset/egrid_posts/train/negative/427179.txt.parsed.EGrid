@@ -1,0 +1,22 @@
+                   > S S - S - - - - -
+/ETC/MODPROBE.D/ALIASES X - - - - - - - -
+               ALIAS X - - - - - - - -
+                  .. X X - - - - - - -
+                DONT - S - - - - - - -
+                IPV6 - O - - - - - - -
+                CARD - - X - - - - - -
+             XMODMAP - - - - X - O - -
+                REST - - - - - - X - -
+              CONFIG - - - - - - X - -
+                   / - - - - - - X - -
+                I/LL - - - - - - - S -
+        INSTRUCTIONS - - - - - - - O -
+                PART - - - - - - - S -
+         ACTION=SHOW - - - - - - - - S
+REDIRECT=RESTOREGRUB - - - - - - - - X
+         OVERWRITING - - - - - - - - X
+                   % - - - - - - - - S
+               20THE - - - - - - - - X
+              20BOOT - - - - - - - - X
+             COMMAND - - - - - - - - O
+                WARN - - - - - - - - O

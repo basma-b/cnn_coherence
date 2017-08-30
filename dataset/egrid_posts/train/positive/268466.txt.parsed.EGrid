@@ -1,0 +1,13 @@
+               ERROR X - - - O
+             MESSAGE O - - - -
+                SUDO S - - S S
+        /ETC/SUDOERS O - X - O
+          PERMISSION S - - - S
+                BOOT O - - - -
+                FILE X - X - -
+              VISUDO O - - - -
+             ANYBODY - X X - -
+               ISSUE - - O - -
+          /PATH/FILE - - - O -
+                   T - - - S -
+                 CMD - - - - O

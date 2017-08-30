@@ -1,0 +1,12 @@
+           FILSYSTEM X - - - -
+                 XFS - X - - -
+            REISERFS - X - - -
+                EXT3 - - S - -
+             DEFAULT - - X - -
+              KERNEL - - X - -
+               PANIC - - O - -
+              UBUNTU - - - - S
+             NETWORK - - - - O
+            SETTINGS - - - - O
+                BOOT - - - - X
+                ETH0 - - - - S

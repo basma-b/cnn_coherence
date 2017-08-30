@@ -1,0 +1,17 @@
+                ROOT X - - - -
+           PARTITION O - - - -
+               BTRFS X - - S -
+               ERROR S - - - -
+                   / O - - X -
+                BOOT X - - - -
+                DROP S - - - -
+            RECOVERY X - - - -
+               SHELL X - - - -
+           /DEV/SDA1 X - - - -
+               IDEAS X - - - -
+          FILESYSTEM - S - - -
+          /ETC/FSTAB - X - - -
+                  HM - - X - -
+             PROBLEM - - - - O
+              OPTION - - - - S
+              SCREEN - - - - X

@@ -1,0 +1,12 @@
+                  FW - S - - -
+            FIREWALL - - S - -
+            IPTABLES - - X - -
+                  .. - - - O X
+                 WAY - - - O -
+           INTERFACE - - - X -
+                 ANY - - - S -
+           FRONTENDS - - - X -
+           FRONT-END - - - - X
+                 UFS - - - - X
+         FIRESTARTER - - - - O
+              OPTION - - - - S

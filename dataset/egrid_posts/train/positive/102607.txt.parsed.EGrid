@@ -1,0 +1,9 @@
+             ARCHIVE X - -
+              FOLDER X - -
+                 TAR X - X
+               -CVVF X - X
+           DIRECTORY X - -
+                /X/Y X - -
+             FOO.TAR - - X
+               /FOO/ - - X
+   EXCLUDE=/FOO/BAR/ - - X

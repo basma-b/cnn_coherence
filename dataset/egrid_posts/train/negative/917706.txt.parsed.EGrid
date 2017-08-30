@@ -1,0 +1,13 @@
+             PROBLEM - O - - - - - S -
+            PROVIDER - - S - - - - - -
+                 DNS - - X - - - - - -
+             SERVERS - - O - - - - O -
+             DNSMASQ - - - O - - - - -
+            NSLOOKUP - - - X - - - - -
+         RESOLV.CONF - - - - S X - O -
+                FILE - - - - - O - - -
+   /ETC/DNSMASQ.CONF - - - - - - X - -
+               RESET - - - - - - - X -
+               BREAK - - - - - - - X -
+                 DAY - - - - - - - - O
+                LUCK - - - - - - - - S

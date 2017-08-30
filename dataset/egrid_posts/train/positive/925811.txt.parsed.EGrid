@@ -1,0 +1,47 @@
+                LINE S - - - - - - - - -
+      KERNEL-VERSION O - - - - - - - - -
+                IDEA X - - - - - - - - -
+                   $ - O - - - - - - - -
+                SUDO - X - - - - - - X -
+             APT-GET - S - - - - - - S -
+      LINUX-HEADERS- - S - - - - - - - -
+                  -R - X - - - S - - X -
+             SYMLINK - O - - - - - - - -
+                 USE - X - - - - - - - -
+   LINUX-HEADERS-FOO - X - - - - - - - -
+             PACKAGE - S - - - - - - - -
+                TYPE - X - - - - - - - -
+                FILE - O - - - - - - - -
+        2.6.10-5-FOO - O - - - - - - - -
+               THERE - S - - - - - - - -
+              KERNEL - X - - - X X - - -
+              UPDATE - X - - - - - - - -
+                DPKG - S - - - - - - - -
+               |GREP - X - - - - - - - -
+             ^II|AWK - X - - - - - - - -
+               PRINT - X - - - - - - - -
+              OUTPUT - O - - - - - - - -
+             COMMAND - X - - - - - - - -
+                THIS - - S - - - - - - -
+                COPY - - X - - - - - - -
+           HIGHLIGHT - - X - - - - - - -
+              BUTTON - - X - - - - - - -
+              MIDDLE - - X - - - - - - -
+              FORMAT - - X - - - - - - -
+               ERROR - - O - - - - - - -
+          DMESG|TAIL - - - X - - - - - -
+                 HUH - - - - X - - - - -
+         NDISWRAPPER - - - - - X - - - -
+              MODULE - - - - - S - - - -
+                 SET - - - - - S - - - -
+             HEADERS - - - - - X S - - -
+             NOTHING - - - - - O - - - -
+              WONDER - - - - - O - - - -
+                WORK - - - - - - - X - -
+            INTERNET - - - - - - - X - -
+          CONNECTION - - - - - - - O - -
+                HTTP - - - - - - - - O X
+//RAFB.NET/PASTE/RESULTS/SYAISM14.HTML - - - - - - - - S -
+/ETC/APT/SOURCES.LIST - - - - - - - - O -
+            RAFB.NET - - - - - - - - X -
+//RAFB.NET/PASTE/RESULTS/EDPHL413.HTML - - - - - - - - - X

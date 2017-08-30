@@ -1,0 +1,7 @@
+              OPTION X - - -
+            UID=USER X - - -
+           GID=GROUP O - - -
+            SOLUTION S - - -
+               GROUP O - - -
+             GID=100 - X - -
+               UMASK - - O -

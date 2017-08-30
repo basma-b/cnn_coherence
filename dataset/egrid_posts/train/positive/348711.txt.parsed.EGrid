@@ -1,0 +1,13 @@
+                TIME X - - - - -
+/ETC/OPENVPN/SERVER.CONF X - - - - -
+                THAT - S - - - -
+             STARTUP - X - - - -
+              SCRIPT - O X - - O
+              CLIENT - S - - - S
+                  IP - X - - - -
+             ADDRESS - O - - - -
+        APPLICATIONS - - S - - -
+             SERVICE - - O - - -
+         /ETC/INIT.D - - - X - -
+               THESE - - - O - -
+              SERVER - - - - - S

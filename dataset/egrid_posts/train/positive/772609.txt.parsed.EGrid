@@ -1,0 +1,12 @@
+            QUESTION X - - - -
+              SOURCE O - - S -
+             PACKAGE X O - - -
+                  .. X - - - -
+               PATCH S S - O O
+           DIRECTORY - X - - -
+              KERNEL - - X - O
+                LINK - - - S -
+             NOTHING - - - S -
+                SURE - - - - X
+           MAKE-KPKG - - - - O
+                STEP - - - - O

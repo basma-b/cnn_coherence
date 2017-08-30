@@ -1,0 +1,15 @@
+            PROBLEMS S - - - - -
+          SYSTEMCALL O - - - - -
+/USR/SRC/LINUX-2.6.29/ARCH/X86/INCLUDE/ASM/SYSCALLS.H O - - - - -
+            FUNCTION X - - - - -
+         DECLARATION S - - - - -
+           PROTOTYPE O - - - - -
+                 SET O - - - - -
+        INSTRUCTIONS X - - - - -
+                 UHM O - - - - -
+                MAKE - - X - - -
+                   C - - O - X -
+                 IRC - - - - X -
+             CHANNEL - - - - O O
+                THIS - - - - - S
+             PROGRAM - - - - - X

@@ -1,0 +1,25 @@
+                ROOT S - - - - - - - - - -
+                CANT X - - - - - - - - - -
+               LOGIN X - - X - - X - - - -
+              WEBMIN X - - - - - - - - - -
+              PASSWD O - - - - - - - - - -
+                FILE X - O - - - - - - - -
+/ETC/WEBMIN/MINISERV.USERS O - - - - - - - - - -
+             DEFAULT X - - - - - - - - - -
+            PASSWORD S - - - - - - - - - -
+         /ETC/SHADOW X - X - - - - - - - -
+                PAST X - - - - - - - - - -
+                WORK - - - X X - - - - - -
+  /ETC/INIT.D/WEBMIN - - - S - - - - - - -
+                  MA - - - X - - - - - - -
+                 INN - - - X - - - - - - -
+                 YER - - - S - - - - - - -
+                DONT - - - S - - S - - - -
+                HOST - - - - O - - O - - -
+       MINISERV.CONF - - - - - - - O - - -
+     ALLOW=127.0.0.1 - - - - - - - - X - -
+                 TOP - - - - - - - - - X -
+              OUTPUT - - - - - - - - - X -
+             COMMAND - - - - - - - - - X -
+            SYNAPTIC - - - - - - - - - - O
+              APACHE - - - - - - - - - - O

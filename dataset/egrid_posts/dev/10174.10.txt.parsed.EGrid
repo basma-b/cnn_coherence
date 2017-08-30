@@ -1,0 +1,19 @@
+              UPDATE O - -
+             APT-GET O - O
+          DEPENDENCY X - -
+               ISSUE X - -
+                 GPG X - -
+               ERROR O X -
+                URLS - S -
+                REST - S -
+             PACKAGE - X -
+                FILE - X O
+/VAR/LIB/APT/LISTS/ARCHIVE.CANONICAL.COM_UBUNTU_DISTS_PRECISE_PARTNER_SOURCE_SOURCES.INDEXDIFF - O -
+                THAT - - X
+                WORK - - X
+                 FIX - - S
+                ROOT - - X
+             COMMAND - - S
+            PASSWORD - - X
+              VISUDO - - X
+        /ETC/CRON.D/ - - X

@@ -1,0 +1,13 @@
+               THERE X - - -
+                FILE X S - -
+            TRANSFER X - - -
+              METHOD X - - -
+                 FTP X - - -
+               SSHFS X - - -
+             ENCRYPT O - - -
+              SERVER X - - -
+          FILESYSTEM - S - -
+               ERROR - - - O
+/USR/SBIN/DPKG-RECONFIGURE - - - O
+              USHARE - - - O
+               BREAK - - - X

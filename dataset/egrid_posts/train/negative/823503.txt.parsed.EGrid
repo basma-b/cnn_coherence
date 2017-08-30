@@ -1,0 +1,22 @@
+                  -F S - - - - -
+LINUX-RESTRICTED-MODULES-2.6.28-11-SERVER O - - - - -
+                THIS - S - - - -
+               SENSE - O - - - -
+              2.6.32 - X - - - -
+             PACKAGE - O - - - -
+             VERSION - X - - - -
+             MODULES - - - - S -
+              KERNEL - - - - X -
+               ERROR - - - - - S
+           SIGNATURE - - - - - X
+        VERIFICATION - - - - - X
+                  .. - - - - - X
+                 GPG - - - - - X
+                HTTP - - - - - O
+             RELEASE - - - - - X
+          SIGNATURES - - - - - S
+              BADSIG - - - - - X
+           MEDIBUNTU - - - - - X
+           PACKAGING - - - - - X
+                TEAM - - - - - X
+                IDEA - - - - - O

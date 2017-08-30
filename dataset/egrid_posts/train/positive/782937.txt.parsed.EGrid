@@ -1,0 +1,15 @@
+                TIME X - - - - -
+            IPTABLES X - - - - -
+              METHOD X - - - - -
+                  IP O - - - - -
+                   X X - - - - -
+              NUMBER O - - - - -
+            FAIL2BAN - X - - - -
+                 IPS - O - - - -
+                ROOT - X - - - -
+                SUDO - - X - - -
+             APT-GET - - S - - -
+              CONFIG - - - S - -
+                  TY - - - - X X
+                TUNE - - - - X -
+/ETC/DEFAULT/FAIL2BAN - - - - X -

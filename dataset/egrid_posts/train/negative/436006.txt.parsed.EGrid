@@ -1,0 +1,18 @@
+          INTERFACES O - - - - - - - - - - - -
+                ETH0 - S - - - - - - - - - - -
+                 LAN - X - O - - - - - - - - -
+                  IP - X X - - - - - - - - - -
+                ETH1 - - S - - X O O - - - - -
+            INTERNET - - X - - - - - - - - - -
+              ROUTER - - - X - - - - - - - - -
+             DEFAULT - - - - - X - - - - - - -
+             NETWORK - - - - - X - - - - - - -
+           INTERFACE - - - - - X - - - - - - -
+             GATEWAY - - - - - - X X - - - - -
+              EFAULT - - - - - - - X - - - - -
+                   * - - - - - - - X - - - - -
+                   D - - - - - - - X - - - - -
+                THIS - - - - - - - - O O - - -
+/ETC/NETWORK/INTERFACES - - - - - - - - X - - - -
+              CHANGE - - - - - - - - - X - - -
+                 MAN - - - - - - - - - - - - X

@@ -1,0 +1,15 @@
+                XORG X -
+               FGLRX X -
+              DRIVER O -
+             APT-GET S -
+           FORCE-YES X -
+               ERROR X -
+           SOMETHING O -
+            FILENAME X -
+             SOMEONE S -
+                DPKG X -
+             PROCESS X -
+/VAR/CACHE/APT/ARCHIVES/XLIBMESA-GL_6.8.2-10_I386.DEB X -
+              UNPACK X -
+/USR/X11R6/LIB/LIBGL.SO.1.2 X -
+             PACKAGE X -

@@ -1,0 +1,16 @@
+             SUPPORT O - - - -
+              COMPIZ S X - - -
+                WORK - O - - -
+                 ATI - X - - -
+              RADEON - X - - -
+                CARD - O - - -
+              EFFECT - - S - -
+            ﻿MKDIR - - X - -
+                  -P - - X - -
+    ~/.CONFIG/COMPIZ - - X - -
+     SKIP_CHECKS=YES - - X - -
+                   > - - X - -
+~/.CONFIG/COMPIZ/COMPIZ-MANAGER - - S - -
+              SOURCE - - X - -
+              DRIVER - - S - -
+   XORG-DRIVER-FGLRX - - - - O

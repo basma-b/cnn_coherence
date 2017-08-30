@@ -1,0 +1,19 @@
+                SIZE O - - - -
+               IMAGE X - - - -
+               PHOTO X - - - -
+              VIEWER O - - - -
+                GIMP - S - - -
+               REPOS - X - - -
+       ACTIONPARSNIP - - S - -
+         SIDEWINDER1 - - X - -
+                SUDO - - - X -
+         DPKG-DIVERT - - - X -
+/USR/BIN/FIREFOX.UBUNTU - - - X -
+    /USR/BIN/FIREFOX - - - X -
+             TARBALL - - - - O
+                /OPT - - - - X
+             SYMLINK - - - - O
+             FIREFOX - - - - X
+            /USR/BIN - - - - X
+                   * - - - - O
+              UPDATE - - - - X

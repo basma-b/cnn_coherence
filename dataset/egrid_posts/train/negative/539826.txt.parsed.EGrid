@@ -1,0 +1,16 @@
+                   X X X X X -
+         ENVIRONMENT X - - - -
+           ALTERNATE - O - - -
+   XSERVER-XORG-CORE - O - - -
+      EMULATOR+XINIT - X - - -
+             DISPLAY - - S O -
+               MOUSE - - O - -
+                TYPE - - X - -
+            ANYTHING - - O - -
+XSERVER-XORG-INPUT-MOUSE - - - O -
+           XORG.CONF - - - S -
+              CODECS - - - - X
+                LIST - - - - O
+                NAME - - - - S
+                SAME - - - - O
+               HOARY - - - - X

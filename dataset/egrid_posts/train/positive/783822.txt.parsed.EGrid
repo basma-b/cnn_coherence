@@ -1,0 +1,17 @@
+            APPARMOR O - - -
+             FIREFOX O - - -
+                FILE O - - -
+                  // S - - -
+              ACCESS O - - -
+               SHELL O O - O
+             BROWSER O - - -
+                HOME X - - -
+                 DIR X - - -
+                THAT - X - -
+         /ETC/PASSWD - X - -
+           /BIN/BASH - O - -
+          /BIN/FALSE - X - -
+                BLOW - O - -
+             DESKTOP - - X -
+        APPLICATIONS - - S -
+                 USE - - - X

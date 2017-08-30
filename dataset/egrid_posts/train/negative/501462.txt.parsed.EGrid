@@ -1,0 +1,34 @@
+LINUX-RESTRICTED-MODULES X - S - - - - - - -
+NVIDIA-KERNEL-COMMON X - - - - - O - - -
+              NVIDIA - X - - - - - - - -
+                CARD - O - - - - - - - -
+              DRIVER - X - - - - - - - -
+               REPOS - X - - - - - - - -
+             ATHEROS - X - - - - - - - -
+                BASE - X - - - - - - - -
+             CHIPSET - X - - - - - - - -
+               STUFF - O S - - - - - - -
+             DRIVERS - S - - - - - - - -
+          SUBPACKAGE - X - - - - - - - -
+                 THX - X - - - - - - - -
+                SUDO - - X - - - - - - -
+             APT-GET - - X - - - S - - -
+                  NO - - O - - - - - - -
+              COMMON - - O - - - - - - -
+           /DEV/SDA5 - - X X - - - - - -
+              FORMAT - - X - - - - - - -
+                SDA4 - - - - X - - - - -
+                HTTP - - - - - X - - - -
+//TINYPIC.COM/VIEW.PHP - - - - - X - - - -
+                THAT - - - - - - O - S -
+         PIC=14T0RNO - - - - - - X - - -
+                 S=4 - - - - - - X - - -
+                ZENO - - - - - - X - - -
+             VERSION - - - - - - O - - -
+               LINUX - - - - - - X - - -
+              KERNEL - - - - - - X - - -
+                FACT - - - - - - X - - -
+                 WAY - - - - - - X - - -
+          DEPENDENCY - - - - - - O - - -
+              INSTAL - - - - - - - O - -
+                   \ - - - - - - - - - X

@@ -1,0 +1,18 @@
+                BUZZ X - - - X -
+               SOUND O - - X - -
+            SHUTDOWN X - - - X -
+              SYSTEM O - - - - X
+             DRIVERS - O - - - -
+                 HDA - - X X X -
+             TIMEOUT - - X S - -
+                 HMM - - - S - -
+             COMMENT - - - O - -
+                LINE - - - X - -
+                CARD - - - X - -
+/ETC/MODPROBE.D/ALSA-BASE.CONF - - - O - -
+                  .. - - - - O -
+              BUMMER - - - - S -
+              OPTION - - - - X -
+            ANYTHING - - - - O -
+         SUGGESTIONS - - - - O -
+              KARMIC - - - - - X

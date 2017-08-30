@@ -1,0 +1,13 @@
+        RELATIONSHIP X - - -
+          DEVICE.MAP X O - -
+              STAGE1 X - - -
+                 MBR X - - -
+                GRUB X - X -
+              SYSTEM - O - -
+                 FD0 - X - -
+                 HD2 - X - -
+             ENTRIES - X - -
+                BOOT - O - -
+               ERROR - - S -
+             NOTHING - - O -
+       UNCOMPRESSION - - - X

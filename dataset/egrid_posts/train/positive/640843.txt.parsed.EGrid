@@ -1,0 +1,15 @@
+             DEFAULT - X - - - X - - - -
+              UBUNTU - - X - - - - - - -
+             VERSION - - - X - - - - - -
+                9.10 - - - - O - - - - -
+                 RUN - - - - - O - - - -
+             EDITION - - - - - S - - - -
+                CUPS - - - - - X - - - -
+           ALTERNATE - - - - - - X - - -
+                 HMM - - - - - - - S - -
+              BOOTUP - - - - - - - - X -
+               CHECK - - - - - - - - - S
+                  PS - - - - - - - - - X
+                GREP - - - - - - - - - X
+                 CUP - - - - - - - - - O
+/ETC/CUPS/CUPSD.CONF - - - - - - - - - X

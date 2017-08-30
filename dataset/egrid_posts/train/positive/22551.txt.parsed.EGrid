@@ -1,0 +1,23 @@
+                THIS X - - - - -
+            REISERFS - S - O - -
+                 UID - X - - - -
+               VALUE - O - - - -
+               FSTAB - S - - - -
+           PARTITION - O - - - -
+               USERS - X - - - -
+              COULDN - - X - - -
+             DEFAULT - - X - - -
+             OPTIONS - - X - - -
+                ROOT - - - X - -
+                USER - - - S - -
+              ACCESS - - - X - -
+                HTTP - - - O - -
+//WWW.NAMESYS.COM/MOUNT-OPTIONS.HTML - - - S - -
+                INFO - - - O - -
+              REISER - - - X - -
+            ANYTHING - - - X - -
+              NORMAL - - - S - -
+            /DEV/HDA - - - X - -
+     /MNT/MOUNTPOINT - - - X - -
+                CONV - - - - X -
+          FILESYSTEM - - - - - O

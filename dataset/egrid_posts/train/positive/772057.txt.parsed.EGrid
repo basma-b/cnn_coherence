@@ -1,0 +1,14 @@
+                   Q X - -
+              FORMAT X - -
+               DRIVE X - -
+                EXT3 X - -
+                 WAY X - -
+                DISK O - -
+                 CLI X - -
+                  DD - S -
+         READ/WRITES - O -
+                READ - O -
+                THIS - - O
+        HDIO_SET_DMA - - S
+               IOCTL - - X
+              DEVICE - - X

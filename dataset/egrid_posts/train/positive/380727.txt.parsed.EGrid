@@ -1,0 +1,12 @@
+               LINUX S - - - - - -
+          CONNECTION O - - - - - -
+                BOOT X - - - - - -
+         NDISWRAPPER - S - - - - -
+              INSERT - O - - - - -
+            DHCLIENT - O - - - - -
+              OUTPUT - - S - - O -
+                HTTP - - X - - - -
+                LINK - - X - - - -
+      NETWORKMANAGER - - - - - O -
+             PROCESS - - - - - X -
+                THAT - - - - - - O

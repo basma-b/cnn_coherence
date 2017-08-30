@@ -1,0 +1,7 @@
+               ENTRY O - - -
+               FSTAB X - - -
+      SUBDIRECTORIES X - - -
+           PARTITION X - - -
+              REBOOT X - - -
+              BUFFER - - - O
+                 LOG - - - O

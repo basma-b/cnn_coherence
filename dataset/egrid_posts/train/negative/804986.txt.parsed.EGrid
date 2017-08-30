@@ -1,0 +1,16 @@
+                  LN X - - - - -
+                FILE X - - - O -
+                 FIX - X - - - -
+                 WAY - X - - - -
+             SYMLINK - O - - - -
+                LINK - - S - X -
+               FILE1 - - O - - -
+               FILE2 - - X - - -
+                   * - - - - O -
+                 DOC - - - - S -
+             COMMAND - - - - X -
+                  RM - - - - X -
+                 -RF - - - - S -
+                  .. - - - - X -
+                 ONE - - - - - X
+                INFO - - - - - O

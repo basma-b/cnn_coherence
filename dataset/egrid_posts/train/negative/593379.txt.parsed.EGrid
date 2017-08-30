@@ -1,0 +1,8 @@
+            IWCONFIG X - - - -
+                PASS X - - - -
+            SENTENCE X - - - -
+                 WPA - - O - -
+      WPA_SUPPLICANT - - O - -
+              HELPER - - - X -
+              SCRIPT - - - X -
+         SUGGESTIONS - - - - O

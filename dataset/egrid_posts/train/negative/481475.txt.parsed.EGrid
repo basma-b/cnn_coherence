@@ -1,0 +1,26 @@
+                 ALL O - - - - -
+                HELP O - - - - -
+               ALICE - O - - - -
+                GAME - X - - - -
+                DEVE - X - - - -
+                  PC - X - - - -
+                 USE - - X - - -
+                BITE - - X - - -
+             VERSION - - X - X -
+               ERROR - - - O - -
+             PROGRAM - - - X - -
+JAVA.LANG.UNSATISFIEDLINKERROR - - - - X -
+/OPT/GAME/ALICE/REQUIRED/JOGL/LIB/LINUX-I586/LIBJOGL_DRIHACK.SO - - - - X -
+                 ELF - - - - X -
+               CLASS - - - - X -
+          ELFCLASS32 - - - - X -
+               CAUSE - - - - X -
+        ARCHITECTURE - - - - X -
+                WORD - - - - X -
+               WIDTH - - - - X -
+            MISMATCH - - - - X -
+               64BIT - - - - O -
+             LIBRARY - - - - X -
+                LOOK - - - - O -
+                 KIT - - - - X -
+               RIGHT - - - - - X

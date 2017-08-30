@@ -1,0 +1,20 @@
+                 ALL X - - - -
+             SOMEONE - X - - -
+             SPEAKER - O - - -
+            COMPUTER - X - - -
+                SUDO - - X - -
+               RMMOD - - X - -
+              PCSPKR - - S - -
+            ANYTHING - - X - -
+             COMMAND - - X - -
+           PARTITION - - - - O
+                 TAR - - - - X
+                  .. - - - - X
+               CVPZF - - - - X
+      BACKUPDELL.TGZ - - - - S
+EXCLUDE=/BACKUPDELL.TGZ - - - - S
+        EXCLUDE=/MNT - - - - X
+        EXCLUDE=/SYS - - - - X
+      EXCLUDE=/MEDIA - - - - X
+EXCLUDE=/ROOT/.TRASH - - - - S
+             BACKUPS - - - - X

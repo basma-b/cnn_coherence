@@ -1,0 +1,18 @@
+         TOUCHSCREEN O - X - O -
+               LSUSB X - - - - -
+               MOUSE X X - - - -
+             DRIVERS S O - - - -
+/PROC/BUS/INPUT/DEVICES O - - - - -
+         MULTI-TOUCH - S - - - -
+                 WAY - X - - - -
+               BRAND - - X - - -
+               MODEL - - X - - -
+               ATMEL - - - - X -
+                  ID - - - - X -
+           03EB:201C - - - - X -
+                WORK - - - - O -
+               12.10 - - - - X -
+                BETA - - - - S -
+              TABLET - - - - X -
+              KERNEL - - - - - O
+                 3.4 - - - - - X

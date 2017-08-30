@@ -1,0 +1,12 @@
+                HELP O - - - - - -
+         NDISWRAPPER - O - - - O -
+                BLAH - O - - - - -
+                  -L - S - - - - -
+              DRIVER - X - - - - -
+             PRESENT - X - - - - -
+            HARDWARE - X - - - - -
+             NETWORK - X - - - - -
+          INTERFACES - O - - - - -
+                TYPE - - X - - - -
+            IWCONFIG - - X - - - -
+               WLAN0 - - S - - - -

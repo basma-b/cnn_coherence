@@ -1,0 +1,14 @@
+                   | - S - - - -
+                 DNS - X - - - -
+              SERVER - S - - - X
+                 SET - O - - - -
+                 IPS - X - - - -
+             8.8.4.4 - - X - - -
+                  NM - - O - X -
+ETC/NETWORK/INTERFACES - - S - - -
+                WORK - - O - - -
+                SUDO - - S - - -
+            DHCLIENT - - S - - -
+             RESTART - - X - - -
+          CONNECTION - - X - - -
+                THAT - - - - - X

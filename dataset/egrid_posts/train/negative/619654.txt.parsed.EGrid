@@ -1,0 +1,14 @@
+             CONCERN O - - - - -
+          EXECUTABLE X - - - - -
+          DEPENDENCY X - - - - -
+               SHARE X - - - - -
+             LIBRARY X - X - - -
+            VERSIONS X - X - - -
+          PARTICULAR X - - - - -
+              KERNEL - X - - - -
+                THIS - - X - - -
+             PACKAGE - - S - - -
+            PROBLEMS - - X - - -
+              CHROOT - - - X - -
+                 LAN - - - - - O
+          MYNETWORKS - - - - - X

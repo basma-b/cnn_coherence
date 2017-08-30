@@ -1,0 +1,17 @@
+                GRUB O - - - X - -
+                 MBR X - - - - - -
+              CHROOT X - - - X - -
+                RAID X - - - - - -
+               ERROR X - - - - - -
+             MESSAGE O - - - - - -
+       /PROC/DEVICES X - - - - - -
+               FOPEN S - - - - - -
+                FILE X - - - - - -
+           DIRECTORY X - - - - - -
+              DRIVER - X - - - - -
+              KERNEL - X - - - - -
+              ANYONE - - - X - - -
+                OOPS - - - - X - -
+                  -T - - - - O - -
+                LOOK - - - - X - -
+                  -R - - - - X - -

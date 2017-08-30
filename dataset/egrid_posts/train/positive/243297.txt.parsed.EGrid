@@ -1,0 +1,13 @@
+                FILE X - - - - - - -
+          /USR/SBIN/ X - - - - - - -
+          EXECUTABLE X - - - - - - -
+                USER X - - - - - - X
+         EXECUTABLES - - - - S - - -
+                ROOT - - - - X - - -
+                PERM - - - - X - - -
+            SECURITY - - - - X - - -
+                HOLE - - - - O - - -
+                 BOX - - - - - O - -
+              CHOICE - - - - - O - -
+             ANYBODY - - - - - - - S
+           PRIVILEGE - - - - - - - X

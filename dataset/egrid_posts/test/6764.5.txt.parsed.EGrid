@@ -1,0 +1,18 @@
+             SOMEONE X - - - - -
+             NETWORK X - - - - -
+              CONFIG X - - - - -
+                FILE O - - - X -
+                DHCP O - - - - -
+              UBUNTU - - X - - -
+              SERVER - - O - - -
+             DEFAULT - - O - - -
+                TYPE - - - S - -
+                SUDO - - - X - -
+                NANO - - - X - -
+/ETC/NETWORK/INTERFACES - - - X - -
+              MD5SUM - - - - X -
+             TARBALL - - - - X -
+             PACKAGE - - - - O -
+             CONTROL - - - - X -
+             INSTALL - - - - O -
+                 WAY - - - - - S

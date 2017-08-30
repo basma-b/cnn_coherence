@@ -1,0 +1,20 @@
+             PROBLEM O - - - - - -
+                  IM - S - - - - -
+             COMMAND - O - - - - -
+                BOOT - X - - - - -
+              DIRECT - X - - - - -
+/PROC/ASOUND/CARD0/PCM0P/OSS - X - - - - -
+                 OSS - X - - - - -
+                FILE - X - X X - -
+         PERMISSIONS - S - - - - -
+          EVERYTHING - S - - - - -
+                THIS - - X - - - -
+                POST - - - X - - -
+                MEAN - - - X - - -
+            RC.LOCAL - - - O X - -
+           /ETC/INIT - - - X - - -
+                LINE - - - O - - -
+             DEFAULT - - - - O - -
+               BEGIN - - - - X - -
+                 PUT - - - - X - -
+        PARTITION-ID - - - - - - X

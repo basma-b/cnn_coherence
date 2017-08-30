@@ -1,0 +1,17 @@
+              CHANGE X - - - - - -
+             GPARTED X - - - - - -
+             PRECISE - X - - - - -
+              POLICY - - X - - - -
+             PACKAGE - - S - - - S
+            VERSIONS - - S - - - -
+             INSTALL - - X - - - -
+             VERSION - - O - - - X
+             APT-GET - - X - - - -
+     PACKAGE=VERSION - - O - - - -
+           CHANGELOG - - - O - - -
+              UPDATE - - - O - - -
+            SECURITY - - - - X - -
+                 FIX - - - - O - -
+                 APT - - - - - S -
+                 LOT - - - - - - O
+              THINGS - - - - - - X

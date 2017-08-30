@@ -1,0 +1,15 @@
+             COMMAND S - - - - -
+              MODULE - X - - - -
+                DKMS - - X - - -
+             VERSION - - X - - -
+             CURRENT - - X - - -
+                SUDO - - - X - -
+          AUTOREMOVE - - - S - -
+              SOURCE - - - X - -
+             PACKAGE - - - S - -
+           DIRECTORY - - - X - -
+                AUTO - - - O - -
+              DRIVER - - - - O -
+                HTTP - - - - - X
+ //WWW.MIRANDAIM.ORG - - - - - X
+           SOMETHING - - - - - X

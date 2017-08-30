@@ -1,0 +1,22 @@
+                  HI X - - - - - - - - - - -
+       CONFIGURATION - O - - - - - - - - - -
+                TIME - - X - - - - - - - - -
+         RESOLV.CONF - - O - - - - - - - - -
+                NEED - - X - - - - - - - X -
+                 YEA - - X - - - - - - - - -
+          NAMESERVER - - O O - - - - - - - -
+ DOMAIN-NAME-SERVERS - - - S - - - - - - - -
+/ETC/DHCP3/DHCLIENT.CONF - - - S - - - - - - - -
+             COMMAND - - - - - - - X - X - -
+              SEARCH - - - - - - - - X X - -
+              OPTION - - - - - - - - X - - -
+                 THE - - - - - - - - - S - -
+               HELLO - - - - - - - - - S - -
+                  .. - - - - - - - - - O - -
+              CHANGE - - - - - - - - - X - -
+              DOMAIN - - - - - - - - - X - -
+                NAME - - - - - - - - - X - -
+                 DNS - - - - - - - - - X - -
+          DOMAINNAME - - - - - - - - - O - -
+                  IP - - - - - - - - - - S -
+               GLIBC - - - - - - - - - - - S

@@ -1,0 +1,13 @@
+                   < - X - - -
+                  IP - S - X -
+                   > - X - - -
+                MASK - X - - -
+               ALIAS - O - - -
+             ADDRESS - - X O -
+             PACKAGE - - - O -
+           INTERFACE - - - X -
+                 DEV - - - O -
+                 KEY - - - - S
+       XF86AUDIOMUTE - - - - X
+            ANYTHING - - - - O
+              VOLUME - - - - S

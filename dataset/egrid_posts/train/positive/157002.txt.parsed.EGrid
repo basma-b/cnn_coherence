@@ -1,0 +1,17 @@
+                HELP X - - - - - - -
+             SUDOERS X - - - - - - -
+                FILE X - - - - - - -
+             SOMEONE O - - - - - - -
+             ABILTIY X - - - - - - -
+                SUDO O - - - - - - -
+              SYNTAX O - - - - - - -
+    ALL=/SBIN/REBOOT - O - - - - - -
+                HOLE - X - - - - - -
+              VISUDO - - - S S - - -
+                USER - - - X - - - X
+                 MAN - - - - X - - -
+                INFO - - - - X - - -
+        SPEIFICATION - - - - - - - S
+                 ONE - - - - - - - O
+              USERID - - - - - - - X
+             COMMAND - - - - - - - O

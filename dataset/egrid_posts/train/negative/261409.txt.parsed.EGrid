@@ -1,0 +1,16 @@
+              DEVICE X - - - - -
+                 HDC S - - - - -
+                DISK - O S - - -
+                  HD - - S - - -
+                 A-Z - - S - - -
+         HDA=PRIMARY - - X - - -
+           HDB=SLAVE - - X - - -
+             CHANNEL - - O - - -
+              CD-ROM - - X - - -
+               DRIVE - - X - - -
+               1.3.X - - - - S -
+               THOSE - - - - - S
+          REPOSITORY - - - - - X
+               GUTSY - - - - - S
+               1.2.6 - - - - - O
+            UNSTABLE - - - - - X

@@ -1,0 +1,14 @@
+             COMMAND X - - -
+            TERMINAL X - - -
+                USER X - - -
+                TREE - X - -
+                VIEW - X - -
+                  PS - X - -
+           SWAP-FILE - - O -
+                  DD - - X -
+        IF=/DEV/ZERO - - X -
+       OF=TARGETFILE - - X -
+             COUNT=1 - - X -
+             SEEK=1G - - S -
+          TARGETFILE - - O -
+               PHONE - - - X

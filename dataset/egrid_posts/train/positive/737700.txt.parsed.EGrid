@@ -1,0 +1,37 @@
+                  HI X - - - - X - - - - - - - - -
+             UPGRADE - X - - - - - - - - - - - - -
+               10.04 - X - - - - - - - - - X - - -
+           SOMETHING - O - - - - - - - - - - - - -
+       CONFIGURATION - X - - - - - - - - S - - - -
+             NOTHING - - O - - - - - - - - - - - -
+         POLKIT-AUTH - - - X - - - - - - - - - - -
+                LIST - - - X - - - - - - - - - - -
+ORG.FREEDESKTOP·POLICYKIT.READ - - - X - - - - - - - - - - -
+ORG.FREEDESKTOP·POLICYKIT.REVOKE - - - X - - - - - - - - - - -
+ORG.FREEDESKTOP·POLICYKIT.GRANT - - - X - - - - - - - - - - -
+ORG.FREEDESKTOP·POLICYKIT.MODIFY-DEFAULTS - - - X - - - - - - - - - - -
+                 HON - - - - S - - - - - - - - - -
+                THIS - - - - O - O X - - - - - - -
+             PACKAGE - - - - - O - - X - - - - - -
+                  'S - - - - - - X - - - - - - - -
+                HINT - - - - - - - X - - - - - - -
+               PURGE - - - - - - - - X - - - - - -
+                NAME - - - - - - - - O - - - - - -
+              CONFIG - - - - - - - - X - - - - - -
+                FILE - - - - - - - - O - - - - - -
+            VERSIONS - - - - - - - - O - - - - - -
+              INSTAL - - - - - - - - X - - - - - -
+           SITUATION - - - - - - - - - X - - - - -
+             MACHINE - - - - - - - - - X - - - - X
+                MESS - - - - - - - - - - X - - - -
+        DIST-UPGRADE - - - - - - - - - - - O - - -
+                9.10 - - - - - - - - - - - X - - -
+              SYSTEM - - - - - - - - - - - X - - -
+              FREEZE - - - - - - - - - - - X - - -
+           POLICYKIT - - - - - - - - - - - - S - -
+                WELL - - - - - - - - - - - - X - -
+                NEWS - - - - - - - - - - - - X - -
+              RESULT - - - - - - - - - - - - - O -
+               -TYPE - - - - - - - - - - - - - X -
+                   F - - - - - - - - - - - - - X -
+                   ^ - - - - - - - - - - - - - - X

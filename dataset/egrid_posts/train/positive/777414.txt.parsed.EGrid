@@ -1,0 +1,11 @@
+                UDEV O - - X
+                LOCK O - - -
+                ROOT X - - -
+             COMMAND O - - S
+                USER X - - -
+             REVERSE - O - -
+                  SU - X - -
+            OPPOSITE - X - -
+                SUDO - X - -
+                EXIT - - X -
+                THAT - - - X

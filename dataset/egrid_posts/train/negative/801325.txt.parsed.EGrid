@@ -1,0 +1,25 @@
+/ETC/GRUB.D/40_CUSTOM O - - - - -
+                MENU X X - - - -
+               ENTRY S O - - - -
+           PERAMETER O X - - - -
+                SUDO X - - - - -
+         UPDATE-GRUB O - - O - -
+                LOOK - X - - - -
+ /BOOT/GRUB/MENU.1ST - X - - - -
+            MENU.1ST - O - - - -
+                LINE - X - - - -
+                SURE - - O - - -
+                THIS - - - O - -
+/BOOT/GRUB/40_CUSTOM - - - X - -
+              PERAMS - - - X - -
+                HTTP - - - - X -
+                   < - - - - X -
+                GRAB - - - - S -
+                 RAW - - - - X -
+              OUTPUT - - - - - O
+           INDICATOR - - - - - X
+              THANKS - - - - - O
+                 ONE - - - - - O
+             PACKAGE - - - - - X
+             DEFAULT - - - - - X
+                MINE - - - - - X

@@ -1,0 +1,17 @@
+       DOCUMENTATION X - - - -
+               SAMBA X X - - X
+               SHARE O X - - -
+      AUTHENTICATION O - - - -
+                  AD X X - - X
+              DOMAIN X X O - -
+             MACHINE - O - - X
+                BIND - O - - -
+            COMPUTER - O - - -
+                AUTH - O - - -
+                USER - - X - -
+                 I.E - - - X -
+ DOMAINNAME\USERNAME - - - X -
+                 WAY - - - - X
+           SOMETHING - - - - O
+               LINUX - - - - X
+               USERS - - - - O

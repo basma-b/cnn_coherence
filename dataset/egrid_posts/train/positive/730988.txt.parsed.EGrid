@@ -1,0 +1,10 @@
+   NFS-KERNEL-SERVER O - - - - -
+        /PATH/TO/DIR S - X - - -
+                 NFS O - - - - -
+                   A - X - - - -
+             CONFIGS - S - - - -
+              KERNEL - X - - - -
+               ISSUE - O - - - -
+               PINTS - - X - - -
+           PARTITION - - - - X O
+                EXT2 - - - - - S

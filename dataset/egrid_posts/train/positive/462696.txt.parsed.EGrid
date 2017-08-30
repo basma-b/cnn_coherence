@@ -1,0 +1,17 @@
+           SITUATION X - - - X - - - - - -
+                DISK X - - - X - - - - X -
+            /DEV/SDA X - - - X - - - - - -
+            /DEV/SDB X - - - X - - - - - -
+                 SDA - S - - - S - - - - -
+             DEFAULT - X - - - X - - - - -
+           PARTITION - X O X - X O X - O -
+               TABLE - O - - - O - - - - -
+                 SDB - - S - - - S - - - -
+                NTFS - - O X - - O X - - -
+              SECOND - - S - - - S - - - -
+            QUESTION - - - X - - - X - - -
+     FORM/CONVENTION - - - X - - - X - - -
+              NUMBER - - - - - - - - - X -
+               START - - - - - - - - - X -
+               HD1,0 - - - - - - - - - O -
+                UNOP - - - - - - - - - - O

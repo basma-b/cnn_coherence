@@ -1,0 +1,14 @@
+     /VAR/LOG/SYSLOG X - -
+       /VAR/LOG/BOOT X - -
+              SYSLOG S - -
+             COMMENT O - -
+              UBUNTU S - -
+                LOAD O - -
+                BOOT X - -
+                 LOG S - -
+             NOTHING O - -
+              RECORD X - -
+               PRESS - - X
+                 ESC - - X
+        SPLASHSCREEN - - X
+                TTY1 - - O

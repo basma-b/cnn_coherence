@@ -1,0 +1,21 @@
+          DEPENDENCY X - - - X -
+            PROBLEMS X - - - X -
+             FIREFOX O - - S S -
+               CAUSE - S - - - -
+           XULRUNNER - S - X - -
+             VERSION - S - - - -
+                PART - S - - - -
+             PACKAGE - X - - - -
+             MANAGER - X - - - -
+            CONFLICT - - X - - -
+           UNINSTALL - - - X - -
+             APT-GET - - - S S -
+                THAT - - - - S -
+               ERROR - - - - X -
+                SUDO - - - - X X
+                 MKA - - - - O -
+/VAR/CACHE/APT/ARCHIVES - - - - - X
+                 USE - - - - - X
+                DPKG - - - - - X
+                   * - - - - - X
+                .DEB - - - - - X

@@ -1,0 +1,15 @@
+        APPLICATIONS S - - - -
+                 USE X - - - -
+         ENVIRONMENT - O - - -
+               MENUS - O - - -
+             SYMLINK - - O - -
+                FILE - - X - -
+/USR/SHARE/APPLICATIONS - - X - -
+ ~/.CONFIG/AUTOSTART - - S - -
+                 KDE - - X - -
+            ANYTHING - - O - -
+    ~/.KDE/AUTOSTART - - X - -
+               THING - - O - -
+                SORT - - X - -
+         INDEPENDANT - - - - S
+                 ANY - - - - X

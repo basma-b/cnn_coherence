@@ -1,0 +1,9 @@
+                   U X - -
+                 FTP X - -
+              SERVER X - -
+              VSFTPD - X -
+    /ETC/INIT.D/FTPD - S -
+                THIS - S -
+                FILE - X -
+           DIRECTORY - X -
+               INETD - O X

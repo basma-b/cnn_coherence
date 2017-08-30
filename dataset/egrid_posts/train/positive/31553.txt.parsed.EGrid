@@ -1,0 +1,12 @@
+               MYSQL X - - - -
+            DATABASE - X - - -
+                 DIR - X - O -
+               /VAR/ - - X - -
+                 PHP - - X - -
+WITH-MYSQL=/VAR/LIB/ - - X - -
+                SUDO - - - S -
+                  -U - - - X -
+                FILE - - - X -
+             APT-GET - - - - X
+              ANSWER - - - - O
+                 SEC - - - - X

@@ -1,0 +1,16 @@
+                TIME X - - X - - -
+             COMMAND X - - X X - -
+                BOOT X - - X - - -
+                PATH X - - X - - -
+                FILE X - - X - - -
+           /ETC/RC.2 - X - - - - -
+            RUNLEVEL - - - - X - -
+                SUDO - - - - X - -
+             CRONTAB - - - - X - -
+                  -U - - - - S - -
+                 JOB - - - - O - -
+                KIND - - - - X - -
+               THING - - - - X - -
+           RUNLEVELS - - - - - O -
+     /PATH/TO/SCRIPT - - - - - - X
+               XNEST - - - - - - O

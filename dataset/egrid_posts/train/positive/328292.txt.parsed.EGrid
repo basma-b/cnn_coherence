@@ -1,0 +1,17 @@
+               DRIVE S - - - - -
+                  MB X - - - - -
+                 SCP - X - - - -
+                BOOT - - X - - -
+              LIVECD - - X - - -
+                SSHD - - X S - -
+                 USE - - - O - -
+                FILE - - - O - -
+                  PC - - - X - -
+            INTERNET - - - X - -
+                 SSH - - - X - X
+                SFTP - - - - - S
+            PROTOCOL - - - - - O
+              CLIENT - - - - - X
+            SOFTWARE - - - - - O
+              SYSTEM - - - - - X
+              LOGINS - - - - - O

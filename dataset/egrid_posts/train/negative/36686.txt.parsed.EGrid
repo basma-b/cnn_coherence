@@ -1,0 +1,14 @@
+                LINE O - - -
+                FILE X - - -
+    /ETC/MODPROBE.D/ X - - -
+                NAME X - - -
+         PERMISSIONS S - - -
+                THIS - - O -
+               MODEM - - X -
+              DRIVER - - S -
+                BITE - - - X
+             PACKAGE - - - S
+                  CD - - - X
+             GCC-3.4 - - - O
+        GCC-3.4-BASE - - - O
+             CPP-3.4 - - - O

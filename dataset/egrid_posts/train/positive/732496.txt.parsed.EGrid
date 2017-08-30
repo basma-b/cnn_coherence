@@ -1,0 +1,26 @@
+              KERNEL X - X - - - - - - - -
+                LINE X - X - - - O - - - X
+   2.6.32-23-GENERIC X - - - - - - - - - -
+             PROBLEM - - O - - - - - - - -
+                 VGA - - X - - - - - - - -
+                 OUT - - X - - - - - - - -
+    RADEON.NEW_PLL=0 - - O - - - - - - - -
+                FILE - - O - - X O - - - X
+                GRUB - - X - - O - - - - -
+               GRUB2 - - X - - - X - - - -
+ /BOOT/GRUB/MENU.LST - - - - - S - - - - -
+            MENU.LST - - - - - S - - - - -
+              EDITOR - - - - - X - - - - -
+   /ETC/DEFAULT/GRUB - - - - - X O - - - -
+                   * - - - - - - S - - - -
+                PAGE - - - - - - X - - - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - - - - - S - - - S
+              SPLASH - - - - - - O - - - X
+          EQUIVALENT - - - - - - S - - - -
+                MENU - - - - - - X - - - -
+                  .. - - - - - - O - - - -
+                HALT - - - - - - - X - - -
+           PARAMETER - - - - - - - X - O -
+           PAREMETER - - - - - - - - - - O
+                 END - - - - - - - - - - X
+                TEXT - - - - - - - - - - X

@@ -1,0 +1,13 @@
+           PARTITION O - - -
+                ROOT X - - -
+              LIVECD X - - -
+           CRYPTROOT X - - -
+             PACKAGE O - - -
+                SUDO - X - -
+              CHROOT - S - -
+           KNOWLEDGE - - O -
+                GRUB - - X -
+                 LVM - - X -
+              SYSTEM - - X -
+                NAME - - - S
+                 HIT - - - X

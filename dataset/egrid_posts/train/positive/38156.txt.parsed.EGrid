@@ -1,0 +1,11 @@
+        SOURCES.LIST O - - -
+        DEBIAN-REPOS O - - -
+                ISNT - X - -
+            VERSIONS - - S -
+                SYNC - - X -
+                 MIX - - X -
+               MATCH - - O -
+              NOBODY - - S -
+       COMPATIBILITY - - X -
+             QUALITY - - O -
+               THATS - - - S

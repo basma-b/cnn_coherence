@@ -1,0 +1,13 @@
+          FILESYSTEM O - - - -
+                ROOT S - - - -
+              PERMIT O - - - -
+         PERMISSIONS X - - - -
+                FILE X - - - -
+              SYSTEM X - - - -
+               USERS - S - - -
+           PARTITION - - X - -
+                NTFS - - - X -
+               MOUNT - - - - X
+             OPTIONS - - - - X
+                 MAN - - - - X
+                PAGE - - - - S

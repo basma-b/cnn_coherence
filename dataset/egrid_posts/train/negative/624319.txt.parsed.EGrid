@@ -1,0 +1,14 @@
+                MODE O - - -
+               /ETC/ O - - -
+                SUDO X - - -
+        /ETC/SUDOERS S - - -
+             SOMEONE X - - -
+         PERMISSIONS - - O -
+                /ETC - - X -
+        SUBDIRECTORY - - X -
+                FILE - - X -
+                SAME - - O -
+              DAPPER - - - S
+                  CD - - - O
+              UBUNTU - - - S
+               STUFF - - - O

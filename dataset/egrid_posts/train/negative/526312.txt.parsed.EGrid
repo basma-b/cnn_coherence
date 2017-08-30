@@ -1,0 +1,24 @@
+         PERMISSIONS S - - -
+                 USE O - - -
+               WHATS O - - -
+             COMMAND X - - -
+                SUDO O - - -
+             PROGRAM O - - -
+                ROOT X - - -
+              REASON X - - -
+                   ~ S - - -
+                HOME X - - -
+           DIRECTORY O - - -
+                TYPE S - - -
+               SHELL O - - -
+                USER X - - -
+SH./THINKORSWIM_INSTALLER.SH X - - -
+               ERROR X - - -
+             /BIN/SH O - - -
+                FILE O - - -
+             BCM43XX - X - S
+              MODULE - S - -
+            FIRMWARE - - O -
+             WINDOWS - - X -
+                 SYS - - X -
+              DRIVER - - X -

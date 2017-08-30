@@ -1,0 +1,8 @@
+               DMESG S - - -
+             COMMAND X - - -
+   /VAR/LOG/MESSAGES X - - -
+            IFCONFIG X X - X
+                /ALL - O - -
+                DHCP - X - -
+                 VIA - - X -
+                OOPS - - - X

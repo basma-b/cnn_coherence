@@ -1,0 +1,10 @@
+              SCREEN O - - - - - -
+                 USE - S - - - - -
+               CHMOD - - - X - - -
+                A=RW - - - S - - -
+              SOURCE - - - - O - -
+                SINK - - - - O - -
+                SOME - - - - - - X
+            SECURITY - - - - - - X
+                HOLE - - - - - - O
+               WORLD - - - - - - S

@@ -1,0 +1,12 @@
+              LINT01 X - -
+            /VAR/LOG S - -
+          PASSPHRASE X - -
+              DIALOG O - -
+             OPENSSH X - -
+            VARIANTS X - -
+                 SSH X S -
+                 GUI - O -
+             NOTHING - O -
+                CRON - X -
+             ANACRON - X -
+                  TY - - X

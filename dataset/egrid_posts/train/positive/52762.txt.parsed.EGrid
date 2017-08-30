@@ -1,0 +1,21 @@
+              ANYONE X - - - - - - -
+             COMMAND X - - - - - - -
+             NETWORK X - - - - - - -
+          INTERFACES O - - - - - - -
+                 ETC - X - - - - - -
+            IFCONFIG - - X - - X - -
+                 ALL - - X - - - - -
+            MINDPSIN - - - X - - - -
+                LIST - - - - - X - -
+                  -A - - - - - X - -
+                ETH0 - - - - - S - -
+                DHCP - - - - - S - -
+               CHECK - - - - - X X -
+ /ETC/NET/INTERFACES - - - - - O - -
+/ETC/NETWORK/INTERFACES - - - - - O X -
+           INTERFACE - - - - - S - -
+                LINK - - - - - - X -
+               ENCAP - - - - - - X -
+            ETHERNET - - - - - - X -
+                HTTP - - - - - - - X
+                LOOK - - - - - - - O

@@ -1,0 +1,13 @@
+           PARTITION X X -
+                 ALL X - -
+                 SET - O -
+             OPTIONS - X -
+               FEILD - X -
+          /ETC/FSTAB - X -
+               USERS - O -
+         DIRECTORIES - S -
+                USER - X -
+               GROUP - X -
+         PERMISSIONS - X -
+               THOSE - S -
+                  YW - - X

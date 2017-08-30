@@ -1,0 +1,21 @@
+              CONFIG - X - - -
+                FILE - X - S -
+              CUSTOM - X - - -
+             COMMAND - O - - -
+             PACKAGE - S X X -
+     DEBIAN/POSTINST - S - - -
+                SUDO - X - - -
+             APT-GET - X - - -
+                 FOO - O - - -
+COMMAND-AFTER-A-SUCCESSFULL-INSTALLATION - O - - -
+              SCRIPT - S - - -
+                THIS - S - - -
+  UNATTENDED-UPDATES - X - - -
+PACKAGE-INSTALLATION - X - - -
+               CAUSE - - - X -
+             COUCHDB - - - S -
+           XULRUNNER - - - O -
+           GIGABYTES - - - O -
+            LOGFILES - - - X -
+             VERSION - - - O -
+                 BUG - - - - S

@@ -1,0 +1,16 @@
+                 GUY X - - - - -
+                  CD - O - - - -
+                 RAM - X - - - -
+                DATA - X - - - -
+             BOOT-UP - X - - - -
+              FLOPPY - - - O - -
+                BASE - - - O - -
+                GRUB - - - X - O
+        INSTALLATION - - - X - -
+               ERROR - - - - O -
+          FILESYSTEM - - - - X -
+              RESCUE - - - - X -
+                   > - - - - X -
+                  HM - - - - O -
+           PARTITION - - - - - O
+                BOOT - - - - - X

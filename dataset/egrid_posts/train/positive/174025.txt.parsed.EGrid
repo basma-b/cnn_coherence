@@ -1,0 +1,8 @@
+           PARTITION S - X
+               DRIVE O - -
+                BOOT X - -
+              SYSTEM X - -
+            BOOTABLE S - -
+                GRUB - O O
+                 MBR - X X
+             CORRECT - - X

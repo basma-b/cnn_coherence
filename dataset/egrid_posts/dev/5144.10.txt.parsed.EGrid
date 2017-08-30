@@ -1,0 +1,16 @@
+              SERVER S - - - - - -
+                 LOG - X X - - - -
+                FILE - X - - - - -
+   /VAR/LOG/KERN.LOG - S - - - - -
+               PLACE - O - - - - -
+            KERN.LOG - - S - - - -
+             NOTHING - - - S - - -
+              UBUNTU - - - - O - -
+               11.04 - - - - X - -
+                YEAR - - - - X - -
+               12.04 - - - - S - -
+               GUEST - - - - - X -
+          VIRTUALBOX - - - - - X -
+             WINDOWS - - - - - X -
+             VERSION - - - - - - X
+                 ETC - - - - - - X

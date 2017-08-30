@@ -1,0 +1,12 @@
+           NETSPLITS S - - - -
+              FORMAT X - - - -
+           PARTITION O - - - -
+              OPTION X - - - -
+               SETUP X X - - -
+                 LVM X - - - -
+                EXT3 - X - - -
+             OPTIONS - X - - -
+               100MB - S - - -
+             WUCKERS - - X - -
+                WORK - - - - X
+              THINGS - - - - X

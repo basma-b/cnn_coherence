@@ -1,0 +1,11 @@
+                CERT S - - -
+                SITE O - - -
+           COMPONENT X - - -
+                CALL X - - -
+            UNIVERSE O - - -
+             DEFAULT - - X -
+                THIS - - - S
+                 APP - - - O
+             CONTROL - - - O
+             SERVICE - - - X
+  START/STOP/RESTART - - - X

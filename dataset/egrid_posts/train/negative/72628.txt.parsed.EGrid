@@ -1,0 +1,12 @@
+             DEFAULT X X X - -
+               ROUTE - X X - -
+                ETH1 - - S - -
+            INTERNET - - X - -
+                  GW - - O - -
+                   > - - X - -
+                 THE - - - O -
+                   < - - - S -
+               PATCH - - - X -
+                 -P1 - - - X -
+             DRY-RUN - - - S -
+              CHANGE - - - X -

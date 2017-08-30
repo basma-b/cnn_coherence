@@ -1,0 +1,14 @@
+                 WAY - O - - -
+               MDADM - O - S -
+             STARTUP - X - - -
+             COMMAND - - O - -
+                 ETC - - X - -
+                THAT - - - S -
+                NICS - - - S -
+         INVOKE-RC.D - - - X -
+               START - - - S -
+            COMPUTER - - - X -
+             SYMLINK - - - O -
+         /ETC/INIT.D - - - X -
+            RUNLEVEL - - - X -
+         UPDATE-RC.D - - - - O

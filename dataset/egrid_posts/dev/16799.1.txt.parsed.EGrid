@@ -1,0 +1,14 @@
+              ANYONE S - - - - - -
+                 HAT S - - - - - -
+             PACKETS O - S - - - -
+                HOST S - - - - - -
+              BUFFER - X - - - - -
+                DROP - X - - - - -
+                 UDP - - X - - - X
+             CONTROL - - X - - - -
+               CHECK - - O - - - -
+                 TCP - - S - - - X
+               LEVEL - - X - - - -
+                CALL - - - X - - -
+              DETAIL - - - - O - -
+          DIFFERENCE - - - - - - O

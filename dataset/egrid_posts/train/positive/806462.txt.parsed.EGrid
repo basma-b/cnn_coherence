@@ -1,0 +1,16 @@
+                 SSH S - - - -
+             COMMAND O - - - -
+                USER - S - - -
+        192.168.1.51 - O - - -
+            QUESTION - O - - -
+                 FTP - O - X -
+                 SSL - X - - -
+                 YUP - X - - -
+                SFTP - O - - -
+                FILE - X - - -
+            TRANSFER - X - - -
+             PROGRAM - X - - -
+           PROTOCOLS - - O - -
+              THINGS - - O - -
+                FTPS - - - X -
+                 BOT - - - - X

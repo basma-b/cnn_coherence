@@ -1,0 +1,13 @@
+            LOCATION X X O -
+                /VAR X - - -
+                APPS - S - -
+           REFERENCE - X - -
+               GUESS - - S -
+           PARTITION - - O -
+                 YES - - O -
+                 VAR - - X -
+                 SET - - X -
+                  .. - - X X
+              ANSWER - - S -
+             NOTHING - - - O
+       FAKERAIDDEBUG - - - X

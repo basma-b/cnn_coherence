@@ -1,0 +1,17 @@
+   LIBNSS_FILES.SO.1 O - - O
+             BUSYBOX X - - -
+               TRUSH - S - -
+                   / - O - -
+              SEARCH - X - -
+              LIBNSS - S - -
+             PACKAGE - S - -
+              UBUNTU - X - -
+        REPOSITORIES - X - -
+                 OLD - O - -
+        DISTRIBUTION - O - -
+                COPY - - - X
+                 RUN - - - X
+            SYMLINKS - - - O
+                 WHT - - - X
+                HAND - - - X
+             COULDNT - - - S

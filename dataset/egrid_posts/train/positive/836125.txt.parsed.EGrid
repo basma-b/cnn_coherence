@@ -1,0 +1,26 @@
+            IFCONFIG X - - - - - - - - - -
+               WLAN0 O - - - - - - - - - -
+                 TRY - X - - - - - - - - -
+               SHORT - S - - - - - - - - -
+/ETC/NETWORK/INTERFACES - O - - - - - - - - -
+              REBOOT - O - - - - - - - - -
+                 YEP - - X - - - - - - - -
+                 ALL - - O - - - - - - - -
+          INTERFACES - - X - - - S - - - -
+                FILE - - X - - - - - - - -
+              FOLLOW - - O - - - - - - - -
+                AUTO - - X - - - - - - - -
+                  LO - - X - - - - - - - -
+              CONFIG - - X - - - - - - - -
+                MINE - - - X - - - - - - -
+             EXAMPLE - - - X - - - - - - -
+            IWCONFIG - - - - - - O - - - -
+                 NOW - - - - - - X - - - -
+         WLAN1-WLAN0 - - - - - - S - - - -
+                SAME - - - - - - - S - - -
+            BLUESKAJ - - - - - - - X - - -
+              CHANGE - - - - - - - - O - -
+                 ONE - - - - - - - - - S -
+                HTTP - - - - - - - - - S -
+//PASTEBIN.COM/RAW.PHP - - - - - - - - - S -
+          I=CUBBEQHN - - - - - - - - - - X

@@ -1,0 +1,8 @@
+         PERMISSIONS X - - -
+           DIRECTORY X - - -
+                 ALL O - - -
+             EXECUTE O - - -
+               CHMOD - S - -
+              GKSUDO - - - X
+                   | - - - X
+       MIDNIGHTJULIA - - - X

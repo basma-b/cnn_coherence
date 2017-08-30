@@ -1,0 +1,7 @@
+                 DEB X - - -
+             PACKAGE O - - -
+   DPKG-BUILDPACKAGE X - - -
+      DPKG-SHLIBDEPS S X - -
+         LIBDB2.SO.2 O - - -
+LD_LIBRARY_PATH=/PATH/TO/LIB - - O -
+                BEEP - - - X

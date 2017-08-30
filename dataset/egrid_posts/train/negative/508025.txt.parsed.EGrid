@@ -1,0 +1,16 @@
+/ETC/INIT.D/PURE-FTPD X - - - -
+    DPKG-RECONFIGURE - S - - -
+               DIDNT - S - - -
+          BOOTLOADER - - S - S
+                 HDD - - X - -
+                 PEN - - X - -
+               DRIVE - - X - -
+                BOOT - - O - -
+               10.04 - - X - -
+                SUDO - - X - -
+         UPDATE-GRUB - - O - -
+               RIGHT - - X - -
+            PENDRIVE - - - - X
+                THIS - - - - S
+              INSTAL - - - - O
+                LINK - - - - O

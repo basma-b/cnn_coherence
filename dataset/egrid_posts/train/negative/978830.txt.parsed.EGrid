@@ -1,0 +1,14 @@
+           PARTITION O - S - - - -
+                 ONE - S - - - - -
+                EXT2 - O - - - - -
+              RESIZE - - X - - - -
+               FAT32 - - S - - - -
+              NATIVE - - X - - - -
+                CRAP - - X - - - -
+                SIZE - - X - - - -
+          SUPERBLOCK - - X - - - -
+               COUNT - - S - - - -
+            SOLUTION - - X - - - -
+                MKFS - - X - - - -
+                THAT - - - - X - -
+            RESPONSE - - - - - - O

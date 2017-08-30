@@ -1,0 +1,15 @@
+                CRON S - - - X - -
+               ENTRY O - - - - - -
+             CRONTAB X S - S - - -
+                 END X - - X - - -
+           CHARACTER X - - - - - -
+             COMMAND S - S - - - -
+              DAEMON X - - - - - -
+               ERROR O - - - - - -
+              CHOICE - - - S - - -
+                LINE - - - O - - -
+                THAT - - - - X - -
+                  .. - - - - S - X
+           CRON.ALOW - - - - X - -
+           CRON.DENY - - - - X - -
+                LIST - - - - X - -

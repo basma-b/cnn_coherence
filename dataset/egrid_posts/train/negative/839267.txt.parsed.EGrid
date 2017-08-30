@@ -1,0 +1,9 @@
+           VARIABLES O - O X - - -
+                FILE X - - - - - -
+                BASH - - X - - - -
+              SCRIPT - - X - - - -
+VARIABLE=/PATH/TO/DIR - - - - S - -
+              EXPORT - - - - X - -
+        VARIABLE=FOO - - - - O - -
+              SIMPLE - - - - - X -
+              KERNEL - - - - - - O

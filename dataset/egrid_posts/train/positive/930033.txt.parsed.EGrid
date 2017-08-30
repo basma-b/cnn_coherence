@@ -1,0 +1,44 @@
+             PROBLEM X - - - - - - - - - - - - -
+               DUNNO X - - - - - - - - - - - - -
+GNOME-SETTINGS-DAEMON - X - - - - - - - - - - - -
+               ERROR - X - - - - - - - - - - - -
+                LOAD - X - - - - - - - - - - - -
+               SHARE - X - - - - - - - - - - - -
+           LIBRARIES - X - - - - - - - - - - - -
+LIBGNOME-WINDOW-SETTINGS.SO.1 - S - - - - - - - - - - - -
+                DPKG - - S - - - - - - - - - - -
+           SOMETHING - - X - - - - - - - - - - -
+                SHOW - - X - - - - - - - - - - -
+                TERM - - X - - - - - - - - - - -
+                FILE - - O X - - - - - - - - - -
+            CAPPLETS - - O - - - - O - X - - - -
+               GNOME - - S - - - - - - - - - - -
+               CRASH - - O X - - - - - - - - - -
+               LOGIN - - X - - - - - - - - - - -
+                STAT - - - X - - - - - - - - - -
+              DAEMON - - - O - - - - - - - - - -
+                CANT - - - X - - X - - - - - - -
+               PLACE - - - X - - - - - - - - - -
+              SYSTEM - - - X - - - - - - - - - -
+                FACT - - - - - X - - - - - - - -
+             PACKAGE - - - - - - X - - - - - - -
+                  -F - - - - - - O - - - - - - -
+             APT-GET - - - - - - S - - - - - - -
+                   > - - - - - - O - - - - - - -
+           REINSTALL - - - - - - - X - - - - - -
+                  OK - - - - - - - X - - - - - -
+               THATS - - - - - - - - S - - - - -
+            QUESTION - - - - - - - - O - - - - -
+                   = - - - - - - - - X - - - - -
+./USR/LIB/LIBGNOME-WINDOW-SETTINGS.SO.1.0.0 - - - - - - - - - O - - - -
+            ARGUMENT - - - - - - - - - X - - - -
+                  .. - - - - - - - - - - X - - -
+                SURE - - - - - - - - - - X - - -
+           GUARANTEE - - - - - - - - - - X - - -
+            SETTINGS - - - - - - - - - - O - - -
+                   < - - - - - - - - - - - O - -
+               CLOCK - - - - - - - - - - - S - -
+               BREAK - - - - - - - - - - - X - -
+                TIME - - - - - - - - - - - - X -
+             MESSAGE - - - - - - - - - - - - - X
+                WORK - - - - - - - - - - - - - O

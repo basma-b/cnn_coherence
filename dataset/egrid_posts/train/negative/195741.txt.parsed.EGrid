@@ -1,0 +1,17 @@
+          RESOLUTION X O - - - -
+           TERMINALS X - - - - -
+             KNOPPIX - X - - - -
+            TERMINAL - X - - - -
+                THAT - - O - - -
+                INFO - - S - - -
+              KERNEL - - X O - -
+              OPTION - - O - - -
+                BOOT - - X - - -
+                FORM - - X - - -
+             VGA=791 - - X X - -
+             EXAMPLE - - X - - -
+             DISPLAY - - X - - -
+                LILO - - X - - -
+  /BOOT/BRUB/MENU1ST - - - O - -
+      ROOT=/DEV/HDA1 - - - S - -
+                MATE - - - - X -

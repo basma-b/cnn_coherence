@@ -1,0 +1,14 @@
+             COMMAND S - - -
+         PERMISSIONS X - - -
+              OTHERS X - - -
+              FOLDER X - - -
+       FILES/FOLDERS X - - -
+               CHMOD - X - -
+                  -R - S - -
+             BROWSER - - O -
+             ADDRESS - - X -
+          REPOSITORY - - X -
+                HTTP - - - X
+//ARCHIVE.UBUNTU.COM/UBUNTU/DISTS/HOARY/ - - - S
+                 FUN - - - O
+             EXPLORE - - - X

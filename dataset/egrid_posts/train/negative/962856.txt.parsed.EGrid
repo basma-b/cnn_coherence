@@ -1,0 +1,13 @@
+                /ETC X - - - -
+              KERNEL X - - - -
+              MODULE X - - - -
+                NAME O - - - -
+                BOOT X - - - -
+                  IN - S - - -
+                COPY - - S - -
+                DATA - - O - O
+          FILESYSTEM - - - - S
+                 4+2 - - - - S
+                 R+W - - - - O
+              UBUNTU - - - - O
+                FILE - - - - S

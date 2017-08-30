@@ -1,0 +1,14 @@
+                SUDO X -
+  ADD-APT-REPOSITORY X -
+                 PPA X -
+UBUNTU-MOZILLA-DAILY/PPA X -
+                BITE X -
+                APPS X -
+              SYSTEM X -
+             APT-GET X -
+           IA32-LIBS O -
+                 APP X -
+              KERNEL - X
+             PROGRAM - O
+    DEBIAN-INSTALLER - X
+              CASPER - X

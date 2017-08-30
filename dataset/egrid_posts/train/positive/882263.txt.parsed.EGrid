@@ -1,0 +1,10 @@
+             COMMAND X - - -
+                FILE O X - -
+              MYFILE X - - -
+            /VAR/FOO X X - -
+           SOMETHING O - - -
+                  RM X - - -
+              SYNTAX - X - -
+                 ^^^ - - S -
+                   F - - S -
+             -DELETE - - X -

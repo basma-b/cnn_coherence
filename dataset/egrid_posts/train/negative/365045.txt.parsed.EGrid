@@ -1,0 +1,8 @@
+             COMMAND O - - -
+                LOAD X - - -
+       .BASH_ALIASES X X - -
+                LIKE X - - -
+              SOURCE - X - -
+      ./BASH_ALIASES - - X -
+            ANYTHING - - - O
+          HTTPD.CONF - - - X

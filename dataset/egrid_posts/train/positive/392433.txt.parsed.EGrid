@@ -1,0 +1,14 @@
+         PERMISSIONS S - -
+              FORMAT X - -
+                ROOT - X -
+               PASSW - S -
+                THIS - X -
+     /PATH/TO/MPOINT - O -
+            MODE=755 - X -
+                   X - S -
+              LETTER - S -
+               DRIVE - O -
+                THAT - - O
+                PATH - - X
+                CASE - - X
+         /MEDIA/DISK - - X

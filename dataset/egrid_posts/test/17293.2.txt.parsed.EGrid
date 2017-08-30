@@ -1,0 +1,26 @@
+                  IP - O - - - -
+          EVERYTHING - O - - - -
+                 DNS - S - - - -
+          RESOLUTION - X - - - -
+/ETC/NETWORK/INTERFACES - X - - - -
+     DNS-NAMESERVERS - - O - - -
+              ROUTER - - X - - -
+             ADDRESS - - X - - -
+          DNS-SEARCH - - X - - -
+              DOMAIN - - X - - -
+               SOUND - - X - - -
+          NAMESERVER - - O - - -
+                KIND - - - S - -
+                 WAY - - - S - -
+               OSSEC - - - X X -
+               EMAIL - - - - O -
+            SOMEBODY - - - - S -
+               FORCE - - - - X -
+              SYSTEM - - - - X -
+                TOOL - - - - - O
+            FAIL2BAN - - - - - X
+       DOCUMENTATION - - - - - O
+            STANDARD - - - - - X
+              UBUNTU - - - - - X
+              DOESNT - - - - - S
+                 ONE - - - - - O

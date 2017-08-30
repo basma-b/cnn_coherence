@@ -1,0 +1,17 @@
+                   $ X - - - - - -
+                  IM S - - - - - -
+               RSYNC O - - - - - -
+                BASH X - - - - - -
+              SCRIPT O - - - - - -
+              OUTPUT O - - - - - -
+                 LOG X - S - - - -
+                   > X - S - - - -
+                  .. X - - - - - -
+             COMMAND S - - - - - -
+                 LTS O - - - - - -
+                STOP - O - - - - -
+              STDOUT - - X - - - -
+              ERRORS - - X - - - -
+                  DA - - - X - - -
+                 MAN - - - O - - -
+                THNX - - - - - - X

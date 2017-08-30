@@ -1,0 +1,21 @@
+                CRON S - - X X - - S
+              SYSLOG X - - - X - - -
+             EXECUTE - - O - - - - -
+                TIME - - - S S - - -
+                 BOT - - - O - - - -
+             COMMAND - - - S - X - O
+         ENVIRONMENT - - - S - - - -
+                LACK - - - O - - - -
+                PATH - - - O - - - -
+                THAT - - - - X - - -
+                THIS - - - - S - - -
+              OUTPUT - - - - O - - -
+                 SEP - - - - X - - -
+                 VPS - - - - S - - -
+               -RSB- - - - - O - - -
+                IEGG - - - - X - - -
+                 CMD - - - - X - - -
+/HOME/IEGG/F0UND/BIN/SUPYBOT-BOTCHK - - - - X - - -
+BOTDIR=/HOME/IEGG/F0UND/BIN - - - - X - - -
+SUPYBOT=/HOME/IEGG/F0UND/BIN/SUPYBOT - - - - X - - -
+             PACKAGE - - - - - X - -

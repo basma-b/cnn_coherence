@@ -1,0 +1,12 @@
+                FILE O - O S -
+            .MOZILLA - X - X -
+                  .. - X - X -
+                LOCK - - - O -
+               THING - - - O -
+         .PARENTLOCK - - - X -
+            PATHNAME - - - X -
+ DEFAULT/.PARENTLOCK - - - O -
+                BOOT - - - - X
+             WINDOWS - - - - S
+                GAME - - - - O
+             EASIEST - - - - O

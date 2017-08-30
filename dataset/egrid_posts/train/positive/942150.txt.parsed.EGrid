@@ -1,0 +1,23 @@
+            QUESITON X - - - -
+                5.04 O - - - -
+                  CD X - - - -
+              CHOICE O - - - -
+             KERNELS X - - - -
+                PICK X - - - -
+             CHOICES S - - - -
+           LINUX-386 O - - - S
+     LINUX-IMAGE-386 O X - - -
+LINUX-IMAGE-2.6.10-5-386 O - - - -
+        IMPLICATIONS S - - - -
+             ANOTHER X - - - -
+          DIFFERENCE O O - - -
+                 TWO - S - - -
+       META-PACKAGES - X - - -
+              KERNEL - X - - -
+                 ONE - - X - -
+               IMAGE - - S - X
+                 THE - - - - X
+          DEPENDENCY - - - - O
+  RESTRICTED-MODULES - - - - X
+             PACKAGE - - - - X
+               OTHER - - - - S

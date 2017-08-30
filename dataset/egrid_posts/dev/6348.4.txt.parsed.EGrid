@@ -1,0 +1,26 @@
+            PROBLEMS - O - - - -
+               12.04 - X - - - -
+     /ETC/RESOL.CONF - O - - - -
+             8.8.8.8 - X - - - -
+             NETWORK - X - - - -
+/ETC/DHCP/DHCPLIENT.CONF - O - - - -
+ DOMAIN-NAME-SERVERS - O - - - -
+             OPENDNS - S - - - -
+                 FIX - X - - - -
+             PROBLEM - O - - - -
+                DAYS - X - - - -
+            SOLUTION - S - - - -
+             DEFAULT - X X - - -
+             GATEWAY - O X - - -
+            QUESTION - X - - - -
+                  .. - X X - - -
+              ROUTER - - X - - -
+                BOOT - - - X - -
+                FLAG - - - X - -
+                   | - - - X - S
+           EMBEDDING - - - S - -
+                GRUB - - - - S -
+               SETUP - - - - X -
+                 USE - - - - X S
+          BLOCKLISTS - - - - X S
+           BLOCKLIST - - - - - X

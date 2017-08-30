@@ -1,0 +1,17 @@
+                SUDO O - - - - -
+               MYSQL - X - - - -
+                USER - O O - - -
+               GROUP - X - - - -
+                  .. - X - - - -
+         PERMISSIONS - X - - - -
+          EXECUTABLE - X - - - -
+              ACCESS - - S - - -
+           SOMETHING - - X - - -
+                 USE - - X - - -
+            PASSWORD - - X - - -
+                ROOT - - O - - -
+           WRITEABLE - - X - - -
+               OWNER - - X - - -
+                RWD_ - - X - - -
+            DATABASE - - X - - -
+                LUCK - - - - - X

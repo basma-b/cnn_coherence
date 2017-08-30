@@ -1,0 +1,28 @@
+                  'S S - - - - - - - -
+                SASL O - - - - - - - -
+             POSTFIX X - - - - - S - -
+                DOCS S - - - - - - - -
+/USR/LOCAL/LIB/SASL2/SMTPD.CONF O - - - - - - - -
+              FOLDER S - - - - - - - -
+                THAT - X - - - - X - -
+               PLACE - X - X - - - - -
+              UBUNTU - X - - - - - - -
+               HTTPS - - O - - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/POSTFIX - - S - - - - - -
+               LLUTZ - - S - - - - - -
+               USERS - - S - - X - - -
+               LOGIN - - X - - - - - -
+           SMTP.CONF - - - O - - - - -
+                AUTH - - - O - - - - -
+             MAIN.CF - - - X - - - - -
+                USER - - - O - - - - -
+              ACCESS - - - O - - - - -
+      PASSWORD/LOGIN - - - X - - - - -
+                INFO - - - O - - - - -
+SMTP_SASL_PASSWORD_MAPS - - - X - - - - -
+                UNIX - - - - - X - - -
+              SYSTEM - - - - - O - - -
+                LINK - - - - - - S - -
+              CHROOT - - - - - - X - -
+             DEFAULT - - - - - - X - -
+                GREP - - - - - - - - X

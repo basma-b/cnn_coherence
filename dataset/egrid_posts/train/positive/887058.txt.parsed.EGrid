@@ -1,0 +1,8 @@
+              SERVER O - - - -
+               BLOCK O O - - -
+            IPTABLES - - O - -
+               CHECK - - O - -
+     /ETC/HOSTS.DENY - - X - -
+                  IP - - - S -
+                FILE - - - X -
+             DEFAULT - - - - X

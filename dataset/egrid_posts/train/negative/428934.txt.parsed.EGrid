@@ -1,0 +1,8 @@
+            OPTIMIZE X - - - - - -
+              KERNEL X - - - - - -
+                 SMP - - - X - X -
+                   > - - - S - - -
+                WHAT - - - O - - -
+        KERNEL-IMAGE - - - - - - S
+              INITRD - - - - - - O
+                REST - - - - - - X

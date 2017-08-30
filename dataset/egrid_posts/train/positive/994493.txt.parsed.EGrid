@@ -1,0 +1,14 @@
+          DEVICEFILE X - - - -
+       PARALLELPOPRT X - - - -
+              UBUNTU X - - - -
+           /DEV/PORT - O - - -
+         PERMISSIONS - - O - -
+             SCANNER - - X - O
+             PARPORT - - X - -
+             /DEV/LP - - X - -
+                 LP0 - - O - -
+                  OK - - O - -
+                 THX - - X - -
+                 WAY - - - - X
+                USER - - - - X
+           INTERFACE - - - - X

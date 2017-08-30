@@ -1,0 +1,31 @@
+               FGLRX O X S -
+                10.2 X - - -
+               ERROR O X - -
+                 USE X - - -
+                 APP X - - -
+              COMPIZ X - - -
+            GLZGEARS X - - -
+                  .. X - - -
+                HTTP X - O X
+//PASTEBIN.COM/F6D4A4155 X - - -
+              OUTPUT O - - -
+             GLXINFO X - - -
+                  1. - S - -
+              MODULE - S X -
+                 GLX - O S -
+                LOAD - X - -
+           XORG.CONF - X - X
+              ERRORS - S - -
+              REPORT - X - -
+ /VAR/LOG/XORG.0.LOG - X - -
+/USR/LIB/XORG/MODULES/EXTENSIONS/LIBGLX.SO - S X -
+                FILE - O O -
+               LSMOD - - X -
+                XORG - - X -
+           EXTENSION - - O -
+              KERNEL - - X -
+               GGLRX - - X -
+//PASTEBIN.COM/M74134C05 - - S -
+                 LOG - - X -
+                THIS - - - O
+//PASTEBIN.COM/F789439D - - - X

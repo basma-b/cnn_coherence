@@ -1,0 +1,24 @@
+             -STILL- - X - - - - - - - - -
+            PASSWORD - X - - X - - - - - -
+              ACCESS - O - - - - - - - - -
+                HOST - X - - - - X - - - -
+                 KEY - X - - - - - - - - -
+                SSHD - - O - - - - - - - -
+             NOTHING - - X X - - - - - - -
+            COMPUTER - - - O - - - - - - -
+                 ANY - - - - - S - - - - -
+              OUTPUT - - - - - - O - - - -
+                USER - - - - - - X - - - -
+      AUTHENTICATION - - - - - - S - - - -
+                LINE - - - - - - - X - - -
+PASSWORDAUTHENTICATION - - - - - - - X - - -
+                  NO - - - - - - - X - - -
+               QUOTE - - - - - - - X - - -
+/ETC/SSH/SSHD_CONFIG - - - - - - - X - - -
+              DISTRO - - - - - - - - - X -
+              SOURCE - - - - - - - - - X -
+              UBUNTU - - - - - - - - - X -
+               THERE - - - - - - - - - - X
+             ADVANCE - - - - - - - - - - X
+              OPTION - - - - - - - - - - X
+               WHILE - - - - - - - - - - X

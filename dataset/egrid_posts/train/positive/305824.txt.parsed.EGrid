@@ -1,0 +1,13 @@
+                 DNS X X - -
+/ETC/DCHP3/DHCLIENT.CONF - X - -
+                LINE - X - -
+             PREPEND - X - -
+ DOMAIN-NAME-SERVERS - O - -
+208.67.222.222,208.67.220.220 - X - -
+             SERVERS - X - -
+               THERE - X - -
+                YEAH - X - -
+             OPENDNS - - X O
+                BEST - - O -
+                  IP - - - O
+    /ETC/RESOLV.CONF - - - X

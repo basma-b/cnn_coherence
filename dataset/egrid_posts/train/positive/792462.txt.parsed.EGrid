@@ -1,0 +1,15 @@
+                BOOT X X X X - - - - - - -
+            SETTINGS X X X X X - - - - - -
+             DEFAULT - X X X X - - - - - -
+              SYSTEM - X X X X - - - - - -
+              FOLDER - - - - X - - - - - -
+   /ETC/DEFAULT/GRUB - - - - - S - - - - -
+                FILE - - - - - O - X - - -
+         UPDATE-GRUB - - - - - - O - - - -
+                THIS - - - - - - - O - - -
+      GRUB_DEFAULT=0 - - - - - - - X - - -
+              NUMBER - - - - - - - - S - -
+                LINE - - - - - - - - - - O
+       INSTALLIEREN= - - - - - - - - - - X
+                SUDO - - - - - - - - - - X
+             APT-GET - - - - - - - - - - S

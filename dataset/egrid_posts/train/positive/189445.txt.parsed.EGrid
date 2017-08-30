@@ -1,0 +1,9 @@
+                USER S - S -
+               OWNER X - - -
+               GROUP X - - -
+                TYPE O - - -
+            SECURITY X - - -
+              SYSTEM - - X -
+                PAGE - - - O
+                THIS - - - S
+             PROBLEM - - - O

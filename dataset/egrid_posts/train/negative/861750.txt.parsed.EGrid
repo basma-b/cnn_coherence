@@ -1,0 +1,27 @@
+              IPMASK O - - X - - X - - - - - - -
+                 BOX X - - - - - - - - - - - - -
+             ANYBODY - - X - - - - - - - - - - -
+              ANYONE - - - - X X - - - - - - - -
+             COMMAND - - - - S S - - - - - - - -
+            IFCONFIG - - - - - - - - S - - - - -
+                 MAN - - - - - - - - X - - - - -
+               USAGE - - - - - - - - X - - - - -
+                SUDO - - - - - - - - X - X - - -
+                  MV - - - - - - - - X - - - - -
+                THAT - - - - - - - - - - O - - -
+           BLACKLIST - - - - - - - - - - X - - -
+                IPV6 - - - - - - - - - - O - - -
+                  .. - - - - - - - - - - X - - -
+                WORK - - - - - - - - - - S - S -
+NET.IPV6.CONF.ALL.DISABLE_IPV6=1 - - - - - - - - - - S - - -
+                 ILL - - - - - - - - - - X - - -
+              RELOAD - - - - - - - - - - O - - -
+                FILE - - - - - - - - - - X - - -
+                 YES - - - - - - - - - - - - X -
+        BLACKLISTING - - - - - - - - - - - - S -
+                 WAY - - - - - - - - - - - - O -
+              DOESNT - - - - - - - - - - - - S -
+               HTTPS - - - - - - - - - - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/LINUX-SOURCE-2.6.20/+BUG/108382 - - - - - - - - - - - - - X
+              KERNEL - - - - - - - - - - - - - X
+                 BUG - - - - - - - - - - - - - O

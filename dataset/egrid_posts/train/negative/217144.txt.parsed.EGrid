@@ -1,0 +1,12 @@
+         FLASHPLAYER X - - - - - -
+                TYPE X - - - - - -
+             DISTROS X - - - - - -
+           INSTALLER - S - - - - -
+        ARCHITECTURE - S - - - - -
+              CHROOT - - X - X - -
+                THAT - - - X - - -
+                USER - - - X - - -
+              UPDATE - - - - - - X
+           APT-CACHE - - - - - - X
+              POLICY - - - - - - X
+        XSERVER-XORG - - - - - - S

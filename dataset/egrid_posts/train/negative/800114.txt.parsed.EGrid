@@ -1,0 +1,8 @@
+               DRIVE X O - - - -
+              DEVICE X - - - - -
+            /DEV/SDA - X - - - -
+            /DEV/SDD - X - - - -
+               FSTAB - - X - - -
+                UUID - - O - - -
+                BOOT - - - - - X
+                  CD - - - - - X

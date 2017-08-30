@@ -1,0 +1,16 @@
+             PROGRAM X - - - - -
+                 USE O - - - - -
+             COMMAND X - - - - -
+              EXPGUI X - - - - -
+               ERROR X - - - - -
+                LOAD X - - - - -
+               SHARE X - - - - -
+           LIBRARIES S - - - - -
+      LIBSTDC++.SO.5 X - - X - -
+              OBJECT X - - - - -
+                FILE O - - - - -
+           DIRECTORY X - - - - -
+             LIBRARY - X - - - -
+                WORD - - - X - -
+              SYSTEM - - - X - -
+          LIBSTDC++5 - - - - - X

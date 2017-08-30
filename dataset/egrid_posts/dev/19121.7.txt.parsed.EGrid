@@ -1,0 +1,20 @@
+                HELP O - - - - -
+        REPOSITORIES - X - - - -
+             KERNELS - X - - - -
+                HTTP - - X - - -
+DISABLING-A-JOB-FROM-AUTOMATICALLY-STARTING - - X - - -
+            OVERRIDE - - X - - -
+                FILE - - X - - -
+              LIVECD - - - - X -
+            FIXPARTS - - - - O -
+            SOFTWARE - - - - X -
+              CENTER - - - - O -
+               GDISK - - - - O -
+            TERMINAL - - - - X -
+                SUDO - - - - X -
+            UNIVERSE - - - - S -
+             APT-GET - - - - S -
+              UPDATE - - - - S -
+                HOUR - - - - - X
+                 OWN - - - - - X
+            SOMEBODY - - - - - S

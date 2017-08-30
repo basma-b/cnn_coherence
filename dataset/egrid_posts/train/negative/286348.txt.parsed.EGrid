@@ -1,0 +1,11 @@
+               MOUNT S - - - - -
+                FILE O O - - - -
+               FSTAB X X - - - -
+               IMAGE - X - - - -
+               THERE - - X - - -
+             PROGRAM - - X - - -
+             PROCESS - - O - - -
+             COMMAND - - - X - -
+             MESSAGE - - - - - O
+        SOURCES.LIST - - - - - O
+        DIST-UPGRADE - - - - - O

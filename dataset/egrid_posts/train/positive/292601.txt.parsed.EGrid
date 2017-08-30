@@ -1,0 +1,10 @@
+                DIRS X - -
+             LIBRARY X - -
+                PATH X - -
+                FILE - O -
+              SEARCH - O -
+          EXECUTABLE - X -
+     /ETC/LD.SO.CONF - X -
+                SUDO - X -
+            LDCONFIG - X -
+               THANK - - X

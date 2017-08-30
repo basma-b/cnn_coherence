@@ -1,0 +1,22 @@
+GNOME-SCREENSAVER-PREFERENCES X - - - - - - -
+             COMMAND X - - - - - - -
+                LINE X - - - - - - -
+              FOLLOW O - - - - - - -
+               LIBGL S - - - - - - -
+              DRIVER S - - - - - - -
+                0X4B X - - - - - - -
+                   | X - - X - - - -
+GNOME-SCREENSAVER-MESSAGE O - - - - - - -
+                  GL X - - - - - - -
+                TYPE X - - X - - - -
+               VIDEO X - - - - - - -
+                CARD X - - - - X - -
+                  .. - X - - X - - -
+              MATROX - - S - - - - -
+             MACHINE - - - S - - - -
+            RESPONSE - - - X - - - -
+                GREP - - - X - - - -
+              RENDER - - - X - - - -
+            TERMINAL - - - X - - - -
+             DRIVERS - - - - - X - -
+               ANYON - - - - - - - X

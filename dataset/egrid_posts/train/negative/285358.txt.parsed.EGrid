@@ -1,0 +1,16 @@
+               CHECK X - - - -
+                  .. X - - - -
+                   C X - - - -
+            COMPILER S - - - -
+             DEFAULT X - - - -
+              OUTPUT X - - - -
+                FILE X - - - -
+                NAME X - - - -
+           CONFIGURE X S - - -
+               ERROR X - - - -
+         EXECUTABLES S - - - -
+              DETAIL X - - - -
+          SRCLIB/APR - X - - -
+    BUILD-ESSENTIALS - O - - -
+             APT-GET - - S - -
+              BORDER - - - - X

@@ -1,0 +1,44 @@
+         PERMISSIONS O - X - O X - - - - - - - - -
+               SOUND X - X - - - - - - - - - - - -
+              DEVICE O - - - - - - - - - - - - - -
+            ANYTHING O - - - - - - - - - - - - - -
+                   * S - - - - - - - - - - - - - -
+                THIS X - - - - - - S - - - - - - -
+               GNOME S - - - - - - - - - - - - - -
+                  CO S - - - - - - - - - - - - - -
+              OUTPUT O - - - - - - - - - - - - - -
+             DEVICES - O X - - - - - - - - - - - -
+              REBOOT - X X - X - X - - - - - - - -
+                DEVS - - - - X - - - - - - - - - -
+            QUESTION - - - - - X - - - - - - - - -
+                MUSI - - - - - - O - - - - - - - -
+               OWNER - - - - - - X - - - - - - - -
+               GROUP - - - - - - O X - - X - - - -
+                FILE - - - - - - X - - - O - - - -
+          EVERYTHING - - - - - - - S - - - - - - -
+                 DEV - - - - - - - O - - - - - - -
+                IDEA - - - - - - - X - - - - - - -
+               PLACE - - - - - - - X - - - - - - -
+           YESTERDAY - - - - - - - - - O - - - - -
+             PROBLEM - - - - - - - - - O - O - - -
+                THAT - - - - - - - - - - S - - - -
+                CLUE - - - - - - - - - - X - - - -
+            USERNAME - - - - - - - - - - S - - - -
+               THERE - - - - - - - - - - - S - - -
+              SEARCH - - - - - - - - - - - - - X -
+                BOSE - - - - - - - - - - - - - X X
+              KERNEL - - - - - - - - - - - - - X -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/LINUX - - - - - - - - - - - - - X -
+FIELD.SEARCHTEXT=BOSE - - - - - - - - - - - - - - X
+                   % - - - - - - - - - - - - - - S
+          3ALIST=NEW - - - - - - - - - - - - - - X
+3ALIST=INCOMPLETE_WITH_RESPONSE - - - - - - - - - - - - - - X
+3ALIST=INCOMPLETE_WITHOUT_RESPONSE - - - - - - - - - - - - - - X
+   3ALIST=INPROGRESS - - - - - - - - - - - - - - X
+ FIELD.BUG_REPORTER= - - - - - - - - - - - - - - X
+           FIELD.OMI - - - - - - - - - - - - - - S
+              SYSTEM - - - - - - - - - - - - - - O
+                 BUG - - - - - - - - - - - - - - X
+            TERMINAL - - - - - - - - - - - - - - X
+             COMMAND - - - - - - - - - - - - - - X
+               LINUX - - - - - - - - - - - - - - X

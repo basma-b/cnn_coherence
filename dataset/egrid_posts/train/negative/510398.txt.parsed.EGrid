@@ -1,0 +1,26 @@
+             COMMAND S S - - - - - -
+             MESSAGE - - O - - - - -
+                LINE - - O - - - - -
+                 MD5 - - X - - - - -
+             FIREFOX - - - S - - - -
+              PLUGIN - - - S - - - -
+             SCANNER - - - O - - - -
+             -PLUGIN - - - O - - - -
+                WGET - - - - S - - -
+           MD5/CRC32 - - - - X - - -
+               HTTPS - - - - X - - -
+//ADDONS.MOZILLA.ORG/EN-US/FIREFOX/ADDON/3362 - - - - X - - -
+                DATE - - - - - S - -
+                 SED - - - - - X - -
+            COMPUTER - - - - - X - -
+               CHECK - - - - - S - -
+                PART - - - - - O - -
+                PAGE - - - - - X - -
+                  W. - - - - - X - -
+                   > - - - - - X - -
+                TEXT - - - - - X - -
+                FILE - - - - - O - -
+                   W - - - - - X - -
+              NORMAL - - - - - - - S
+               BREAK - - - - - - - O
+          EXPERIENCE - - - - - - - O

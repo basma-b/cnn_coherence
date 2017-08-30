@@ -1,0 +1,17 @@
+               START - O - - - -
+         FIRESTARTER - O - - S -
+                SUDO - S - - - X
+            PASSWORD - X - - - X
+              VISUDO - O - - - -
+                LINE - O - - - -
+              CRISTI - X - - - -
+                 ALL - X - - - -
+                   = - X - - - -
+/USR/SBIN/FIRESTARTER - X - - - -
+              EFFECT - - - - O -
+               PRIVS - - - - O -
+             SOMEONE - - - - S -
+                USER - - - - X -
+                PERM - - - - O -
+           PRIVILEGE - - - - - X
+             SUDOERS - - - - - O

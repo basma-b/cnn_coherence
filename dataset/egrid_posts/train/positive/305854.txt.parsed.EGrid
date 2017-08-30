@@ -1,0 +1,16 @@
+               UMASK O O - - - -
+              OPTION O - - - - -
+                 MAN S - - - - -
+             BITMASK X - - - - -
+         PERMISSIONS X - - - - -
+             DEFAULT - S - - - -
+                  .. - X - - - -
+             PROBLEM - - O - - -
+                AUTO - - X - - -
+                FILE - - S - - -
+        APPLICATIONS - - O - - -
+                SOME - - S - - -
+                 FAT - - - - X -
+                  YO - - - - S -
+                FUSE - - - - O -
+                 SEC - - - - - X

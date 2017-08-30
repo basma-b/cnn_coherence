@@ -1,0 +1,15 @@
+             NETWORK X - S S
+                 USE X - - -
+             COMMAND X - - -
+                SUDO - X - -
+            IFCONFIG - X - S
+                   < - X - -
+              DEVICE - S - -
+                   > - O - -
+            DHCLIENT - S X S
+                THAT - - O X
+               ORDER - - X -
+                IFUP - - - O
+               THERE - - - S
+           SOMETHING - - - O
+                CARE - - - O

@@ -1,0 +1,16 @@
+                AUTO X - - - - -
+           PARTITION O - - X - -
+             STARTUP X - - - - -
+             WINDOWS - O - - - -
+                NTFS - O - - - -
+             ADDRESS - S - - - -
+               FSTAB - - X - - -
+              ANYONE - - X - - -
+               ENTRY - - X X - -
+                HELP - - - O - -
+                 RUN - - - X - -
+               BLKID - - - X - -
+                TYPE - - - O - -
+             COMMAND - - - X - -
+            TERMINAL - - - X - -
+                LIST - - - X - -

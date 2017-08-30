@@ -1,0 +1,12 @@
+               STATE X - - - -
+               INTEL X - - - -
+            GRAPHICS X - - - -
+             DRIVERS X - - - X
+               LINUX X - - - -
+    FREE/PROPRIETARY X - - - -
+XSERVER-XORG-VIDEO-INTEL - X - - -
+   LIBVA-DRIVER-I965 - X - - -
+       ACCELLERATION - X - - -
+             PRECISE - - X - -
+             CHIPSET - - S - -
+                I740 - - O - -

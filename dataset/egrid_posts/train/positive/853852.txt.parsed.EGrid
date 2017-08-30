@@ -1,0 +1,9 @@
+              SCRIPT S - - -
+                 SSH S - - S
+             UPSTART X - - X
+              REBOOT X - - -
+              INSTAL - O - -
+                SSHD - - S -
+         /ETC/RC2.D/ - - X -
+             EXAMPLE - - - X
+                   ^ - - - O

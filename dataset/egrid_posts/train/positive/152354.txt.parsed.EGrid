@@ -1,0 +1,17 @@
+           INTERFACE X - - -
+               DRIVE S - - -
+               THERE X X - -
+             COMMAND X X - -
+               LINUX - X - -
+              SYSTEM - X - -
+         INFORMATION - X - -
+               LSPCI - - X X
+                LSHW - - X -
+                 CAT - - S -
+       /PROC/CPUINFO - - X -
+                INFO - - O -
+            HARDWARE - - X -
+                KIND - - X -
+            GRAPHICS - - X -
+                CARD - - X -
+                 ETC - - X -

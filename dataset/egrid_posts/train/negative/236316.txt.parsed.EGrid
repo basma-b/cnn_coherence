@@ -1,0 +1,15 @@
+              KERNEL S - - -
+           DIRECTORY S S - -
+       CONFIGURATION S S - -
+              SYSTEM X X - -
+                DATA O O - -
+                MAIL X X - -
+              OUTPUT X X - -
+             PRINTER X - - -
+              DAEMON X - - -
+                /ETC - X - -
+                KILL - X - -
+             TROUBLE - X - -
+                SUDO - - - X
+                  -A - - - O
+          EVERYTHING - - - O

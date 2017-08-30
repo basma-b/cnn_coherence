@@ -1,0 +1,10 @@
+               CHECK O - - -
+             DISPLAY X - - -
+              DRIVER X - - -
+             MACHINE S - - -
+                 USE O - - -
+               LSPCI - S - -
+                 AHH - - S -
+                 ONE - - - X
+              RADEON - - - X
+             DRIVERS - - - O

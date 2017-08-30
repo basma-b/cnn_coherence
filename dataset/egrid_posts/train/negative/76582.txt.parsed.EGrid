@@ -1,0 +1,21 @@
+           STANDARDS X - - - - -
+             EXAMPLE - X - - - -
+                HTTP - X - - - -
+//VINELINUX.ORG/FSSTND-1.2.TXT - S - - - -
+                 2.0 - X - - - -
+           PARTITION - S - - - -
+                MOVE - O - - - -
+                /MNT - X - - - -
+              /MEDIA - X - - - -
+           /SERVICES - S - - - -
+                LINK - - O - - -
+                 ONE - - X - - -
+               CDROM - - X - - -
+               OTHER - - S - - -
+                   > - - X - - -
+        ARCHITECTURE - - X - - -
+               STUFF - - X - - -
+                TALK - - - - O -
+                 SET - - - - X -
+                 USE - - - - O -
+              DEVICE - - - - - X

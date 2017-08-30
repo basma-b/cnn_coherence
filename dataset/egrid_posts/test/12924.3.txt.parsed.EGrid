@@ -1,0 +1,16 @@
+            LOCATION X -
+              SYNTAX O -
+                MOVE X -
+                FILE O X
+              FOLDER X -
+              PARENT X -
+           DIRECTORY S -
+/NEW/DIRECTORY/HERE/ O -
+                 ONE - O
+              ANYONE - S
+              SYSTEM - O
+                DISC - O
+             PACKAGE - O
+               IMAGE - X
+                COPY - X
+             DEFAULT - X

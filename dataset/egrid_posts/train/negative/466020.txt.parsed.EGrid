@@ -1,0 +1,15 @@
+              ANYONE S - - - - -
+                CLUE O - - - - -
+          VIRTUALBOX X - - - - -
+              KERNEL X - - - - -
+              DRIVER S - - - - -
+                USER X S - S - -
+         PERMISSIONS - O - - - -
+        /DEV/VBOXDRV - X - - - -
+           VBOXUSERS - X - X - -
+               GROUP - X - X - -
+              CHANGE - - S - - -
+              EFFECT - - O - - -
+                HELP - - - - - X
+                TYPE - - - - - X
+         DESCRIPTION - - - - - O

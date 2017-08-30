@@ -1,0 +1,17 @@
+              DEVICE X - - -
+                 USB O - - -
+                  HD S - - -
+             MESSAGE - O - -
+               DMESG - X - -
+                 LOG - O - -
+           /DEV/SDB1 - X - -
+        /MEDIA/MEDIA - O - -
+               ERROR - X - -
+                DAYS - X - -
+                TIME - - X -
+   /VAR/LOG/MESSAGES - - X -
+           BEHAVIOUR - - O -
+               THOSE - - S -
+                ONES - - O -
+             COMMAND - - - X
+   LIBFLASHPLAYER.SO - - - X

@@ -1,0 +1,7 @@
+            IPTABLES S -
+              OUTPUT X -
+                  -O O -
+          MASQUERADE X -
+NET.IPV4.IP_FORWARD=1 S -
+             GKRELLM X -
+                 HMM - X

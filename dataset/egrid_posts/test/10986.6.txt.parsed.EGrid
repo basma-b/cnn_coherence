@@ -1,0 +1,33 @@
+                DROP S - - - - - -
+           INITRAMFS X - - - - - -
+            SOMEBODY S - - - - - -
+/DEV/DISK/BY-UUID/BLAH-BLAH X - - - - - -
+             DOESNOT S - - - - - -
+         INFORMATION O - - - - - -
+             VERSION X - - - - - -
+              REPAIR - - X - X - -
+                MODE - - X - - - -
+                  CD - - O - S - -
+                DISK - - X - S - -
+               FIRST - - - S - - -
+                   / - - - S S - -
+               MOUNT - - - O - - -
+                  .. - - - - O - -
+                 USE - - - - O - -
+              DETAIL - - - - S - -
+               ABOVE - - - - S - -
+                FILE - - - - O - -
+              SYSTEM - - - - X - -
+           /DEV/SDA1 - - - - O - -
+                EXT3 - - - - O - -
+             NOTHING - - - - O - -
+             PROBLEM - - - - O - -
+            ANYTHING - - - - O - -
+               PASTE - - - - - S -
+               ENTRY - - - - - X -
+                 ALL - - - - - O -
+                /TMP - - - - - X -
+                 RAM - - - - - X -
+               THERE - - - - - - X
+                HTTP - - - - - - X
+//PASTE.UBUNTU.COM/1175013/ - - - - - - X

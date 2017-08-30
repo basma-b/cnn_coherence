@@ -1,0 +1,15 @@
+               LABEL X - - - - -
+           PARTITION X X - - - -
+          MYCOMPUTER X - - - - -
+                  .. X - - - - -
+               FSTAB X - - - - -
+          FILESYSTEM - X - - - -
+             WINDOWS - - X - - -
+       FAT/VFAT/NTFS - - S - - -
+              LABLES - - O - - -
+                 USE - - - X - -
+             TUNE2FS - - - S - -
+                EXT3 - - - S - -
+              CHANGE - - - - X -
+              REBOOT - - - - X -
+                  OK - - - - - X

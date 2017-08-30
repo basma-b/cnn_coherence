@@ -1,0 +1,12 @@
+           PARTITION S - - - -
+                HOME X X - - -
+         PERMISSIONS - O - - -
+                FILE - X X - -
+           DIRECTORY - X - - -
+                  CD - O - - -
+               THERE - - X - -
+                 WAY - - X - -
+              ACCESS - - O - -
+                SUDO - - - X -
+                  SU - - - X -
+              EDITOR - - - - S

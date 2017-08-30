@@ -1,0 +1,9 @@
+                BIND X X - - -
+                  F1 X - - - -
+              SCREEN X X - - -
+                 KEY - O - - -
+              ESCAPE - X - - -
+            SEQUENCE - X - - -
+             XMODMAP - - X - -
+                ONES - - - - X
+        XSERVER-XORG - - - - X

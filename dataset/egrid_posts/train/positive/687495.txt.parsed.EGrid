@@ -1,0 +1,35 @@
+              MODULE X S - O O - - - -
+                9.10 X - - - - - - - -
+              PCIEHP - S - - S X - - -
+             DEFAULT - X - - - - - - -
+                  NO - X - - - - - - -
+                WONT - X - - - - - - -
+             BECOUSE - O - - - - - - -
+              KERNEL - X - - - - X X -
+               IMAGE - X - - - - - - -
+                GREP - X - - - - - - -
+  CONFIG_HOTPLUG_PCI - X - - - - - - -
+CONFIG_HOTPLUG_PCI_PCIE - X - - - - - - -
+                   Y - S - - - - - - -
+                   M - S - - - - - - -
+             OPTIONS - - - X - - - X -
+                TIME - - - - O - X S -
+                LOAD - - - - X - - O -
+                BOOT - - - - X - - X -
+               ERROR - - - - X - - - -
+            MODPROBE - - - - - X - - -
+      PCIEHP_FORCE=1 - - - - - O - - -
+              OPTION - - - - - - O S -
+PCIHP.PCIEHP_FORCE=1 - - - - - - O O -
+           PARAMETER - - - - - - X - -
+               THERE - - - - - - - S -
+       MODULE/OPTION - - - - - - - S -
+                   * - - - - - - - O -
+                CODE - - - - - - - S -
+                LINK - - - - - - - O -
+                THIS - - - - - - - - O
+   /ETC/DEFAULT/GRUB - - - - - - - - S
+                LINE - - - - - - - - O
+              STRING - - - - - - - - S
+               QUIET - - - - - - - - X
+PCIEHP.PCIEHP_FORCE=1 - - - - - - - - X

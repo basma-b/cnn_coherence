@@ -1,0 +1,13 @@
+                   X S - - - - -
+                FILE O - - - - -
+        /USR/INCLUDE X - - - - -
+          ./MYCONFIG X - - - - -
+                LINE X X X - - -
+         COMPILATION - S X - - -
+             REQUIRE - X - - - -
+         MAKEFILE.PL - X X - - -
+               ABORT - - X - - -
+                SUDO - - - X - -
+             APT-GET - - - S - -
+                THAT - - - - S -
+                 ^^^ - - - - - X

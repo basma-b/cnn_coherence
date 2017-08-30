@@ -1,0 +1,17 @@
+                GRUB X X - - - - - -
+             PROBLEM O - X - - - - -
+               /BOOT - S - - - - - -
+           DIRECTORY - O - - - - - -
+                   / - X - - - - - -
+                BOOT - X - - - - - -
+                SIDE - X - - - - - -
+                THAT - - O - - - - -
+           /DEV/SDA1 - - S S - - - -
+              KERNEL - - O - - - - -
+              /BOOT/ - - X - - - - -
+              LAPTOP - - - - X - - -
+             DESKTOP - - - - X - - -
+               DRIVE - - - - - S O -
+            /DEV/SDA - - - - - O - -
+            /DEV/HDA - - - - - O - -
+                 TWO - - - - - - - X

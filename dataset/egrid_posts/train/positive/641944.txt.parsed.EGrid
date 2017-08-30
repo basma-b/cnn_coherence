@@ -1,0 +1,13 @@
+             COMMAND X - - -
+          EVERYTHING S - - -
+           DIRECTORY X - - -
+         PERMISSIONS - S - X
+                LIST - O - -
+                 ALL - X - -
+                 -LA - - S -
+             EXAMPLE - - X -
+              FOLDER - - O -
+               CHMOD - - - X
+   PLACES/FOLDER.PNG - - - X
+           OPERATION - - - S
+                SUDO - - - O

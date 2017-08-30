@@ -1,0 +1,16 @@
+                ETH0 O X - - - -
+/ETC/NETWORK/INTERFACES X - - - - -
+            CONFLICT X - - - - -
+              UBUNTU X - - - - -
+             NETWORK X - - - - -
+                CARD O - - - - -
+                 WAY X - - - - -
+            IFCONFIG - S - S - -
+               ERROR - O - X - -
+              SECOND - - X - - -
+         SIOCSIFADDR - - - X - -
+              DEVICE - - - X - -
+           INTERFACE - - - X - -
+                FLAG - - - O - -
+                 YES - - - - - X
+                   ^ - - - - - X

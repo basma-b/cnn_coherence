@@ -1,0 +1,8 @@
+                 USE - X -
+           ALSAMIXER - O -
+                ALSA - - X
+                 LIB - - X
+          PCM_DMIX.C - - X
+   SND_PCM_DMIX_OPEN - - X
+              UNABLE - - X
+               SLAVE - - O

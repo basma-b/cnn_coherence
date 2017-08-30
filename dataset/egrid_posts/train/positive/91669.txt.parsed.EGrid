@@ -1,0 +1,10 @@
+           PROCEDURE X - - - -
+              VOLUME - X - - -
+             MANAGER - X - - -
+                 LVM - - O - -
+           PARTITION - - O - X
+              SYSTEM - - X - -
+             WINDOWS - - O - -
+             CHOICES - - X - -
+                DISK - - O - O
+                 USE - - X X -

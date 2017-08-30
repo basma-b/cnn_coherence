@@ -1,0 +1,17 @@
+               SETUP X - - - - - - -
+              SERIAL S - - - - - - -
+               THERE S - - - - - - -
+        /ETC/INITTAB - O - - - - - -
+            EXAMPLES - S - - - - - -
+                FILE - - X - - - - -
+    /ETC/EVENT.D/TTY - - X - - - - -
+                   * - - X - - - - -
+             UPSTART - - - X - - - -
+                   | - - - S S - - -
+             INITTAB - - - - X - - -
+                INFO - - - - - X - -
+           SHOUTCAST - - - - - S - -
+              DEBIAN - - - - - S - -
+                THIS - - - - - X - -
+               DUNNO - - - - - - - X
+              FEDORA - - - - - - - S

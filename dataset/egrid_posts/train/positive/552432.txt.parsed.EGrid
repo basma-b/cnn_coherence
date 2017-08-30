@@ -1,0 +1,11 @@
+             DEFAULT X - - -
+           SOUNDCARD X X - -
+                LIST - O - -
+               LSCPI - - X -
+                POST - - - X
+                  ID - - - O
+              EXPIRE - - - O
+              MODULE - - - O
+              KERNEL - - - X
+              LITTLE - - - X
+                   * - - - O

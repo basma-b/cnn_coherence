@@ -1,0 +1,21 @@
+               ERROR S - - - - - - - -
+/VAR/WWW/W3PERL/RESOURCES/ADMIN/LOCCONF O - - - - - - - -
+         PERSMISSION X - - - - - - - -
+              FOLDER S - - - - - - - -
+                STAT - X - - - - - - -
+                FILE - S - - - - - - -
+         PERMISSIONS - S - - - - - - -
+             BESOGON - X - - - - - - -
+              DOESNT - S - - - - - - -
+                THRU - X - - - - - - -
+        WEBINTERFACE - O - - - - - - -
+             COMMAND - X - - - - - - -
+                   / - S - - - - - - -
+                 WEB - X - - - - - - -
+           INTERFACE - X - - - - - - -
+             PROCESS - X - - - - - - -
+           WEBSERVER - X - - - - - - -
+                LIKE - X - - - - - - -
+                SUDO - - - - - S - - -
+               POINT - - - - - - - - X
+               STUFF - - - - - - - - O

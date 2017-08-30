@@ -1,0 +1,33 @@
+              AMOUNT X - - - - - - - -
+              MEMORY X S - - - - - - -
+                 USE X O - - - - - - -
+                DISK X X - - X - - - -
+               CACHE X X - - O - - - -
+           BUFFERMEM - X - - - - - - -
+              DOESNT - S - - - - - - -
+                 2.6 - X - - - - - - -
+                APPS - - X - S - - - -
+                  MB - - - O - - - - -
+                 RAM - - - X - - - - -
+               THERE - - - S S - - - -
+                 LOT - - - O - - - - -
+                SWAP - - - X - - - - -
+              ACCESS - - - - O - - - -
+                LOAD - - - - O - - - -
+             MAXIMUM - - - - X - - - -
+      RESPONSIVENESS - - - - O - - - -
+           PARAMETER - - - - X - - - -
+                CALL - - - - X - - - -
+           SWAPINESS - - - - O - - - -
+              KERNEL - - - - S - - - -
+                TUNE - - - - - X - - -
+               VALUE - - - - - O - - -
+/PROC/SYS/VM/SWAPPINESS - - - - - X - - -
+              NUMBER - - - - - - X - -
+              SYSTEM - - - - - - S - -
+                HTTP - - - - - - - X -
+//KERNELTRAP.ORG/NODE/3000 - - - - - - - S -
+               IRSSI - - - - - - - - S
+                DAYS - - - - - - - - X
+                 IRC - - - - - - - - X
+             CLIENTS - - - - - - - - S

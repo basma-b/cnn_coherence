@@ -1,0 +1,9 @@
+              KERNEL O - - -
+               SETUP - X - -
+              SYSTEM - X - -
+             BCM43XX - X - -
+         NDISWRAPPER - - O -
+              MODULE - - O -
+             STARTUP - - X -
+        /ETC/MODULES - - X -
+                  OK - - - X

@@ -1,0 +1,13 @@
+                THAT - X S
+                SUDO - X -
+        /ETC/INIT.D/ - X -
+             NETWORK - S -
+                ETH0 - X -
+              SYSTEM - X -
+                   > - X -
+                 DNS - S -
+         NAMESERVERS - X -
+                 PPP - X -
+                 USE - O -
+          CONNECTION - - S
+             ADDRESS - - X

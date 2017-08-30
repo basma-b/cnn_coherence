@@ -1,0 +1,15 @@
+               CHMOD O - - - - -
+                PERM O - - - - -
+                USER X X - - - -
+               CHOWN - - O - - -
+               OWNER - - - O - -
+                THAT - - - - O -
+               LLUTZ - - - - X -
+              THANKS - - - - X -
+                BITE - - - - X -
+                 OTT - - - - O -
+              MOMENT - - - - X -
+            WWW-DATA - - - - - X
+               GROUP - - - - - O
+               CHGRP - - - - - X
+               WRITE - - - - - O

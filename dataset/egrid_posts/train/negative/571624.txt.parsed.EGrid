@@ -1,0 +1,18 @@
+            QUESTION X - - - - -
+           DIRECTORY S - - - - -
+                 ALL X - - - - -
+             INCLUDE O - - - - -
+               DRIVE X - - - - -
+         PERMISSIONS S - - - O -
+         DIRECTORIES X - - - - -
+             FOLDERS S - - - - -
+                ROOT X - - - - -
+              TARGET X - - - X -
+                SUDO - S - - - -
+/MEDIA/EXTERNAL/BACKAPS - O - - - -
+                COPY - - - - X -
+                BOTH - - - - O -
+          FILESYSTEM - - - - S -
+                  FS - - - - S -
+               RSYNC - - - - O -
+                NTFS - - - - O -

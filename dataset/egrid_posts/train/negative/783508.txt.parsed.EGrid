@@ -1,0 +1,5 @@
+                COPY O - - - -
+                FILE X - - - -
+             CORRUPT - - - S -
+               CDROM - - - X -
+                 TWO - - - - O

@@ -1,0 +1,29 @@
+               THERE X - - - - - - - - - - - -
+                REPO X - - - - - - - - - - - -
+           GHC-7.6.1 X - - - - - - - - - - - -
+              UBUNTU X - - - - - - - - - - - -
+               HTTPS - X - - - - - - - - - - -
+//LAUNCHPAD.NET/UBUNTU/+PPAS - X - - - - - - - - - - -
+     NAME_FILTER=GHC - - S - - - - - - - - - -
+             SECTION - - - - X - - - - - - - -
+              KERNEL - - - - X - - - - - - - -
+                BOOT - - - - X - - - - - - - -
+             OPTIONS - - - - O - - - - - - - -
+                  OS - - - - X - - - - - - - -
+          DIRECTIONS - - - - O - - - - - - - -
+                THIS - - - - - O - - - X - - -
+                 ALT - - - - - - O - - - - O -
+                  F2 - - - - - - O - - - - X -
+                TYPE - - - - - - - S - - - X X
+   /ETC/DEFAULT/GRUB - - - - - - - O - - - - -
+            PASSWORD - - - - - - - X - - - - -
+       CONFIGURATION - - - - - - - X - - - - -
+                FILE - - - - - - - X - - O - -
+                LINE - - - - - - - - X - - - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - - - - - - - O X - - -
+              SPLASH - - - - - - - - X X - - -
+           NOMODESET - - - - - - - - - O - - -
+               PRESS - - - - - - - - - - - S -
+      GNOME-TERMINAL - - - - - - - - - - - X -
+                SUDO - - - - - - - - - - - - X
+         UPDATE-GRUB - - - - - - - - - - - - X

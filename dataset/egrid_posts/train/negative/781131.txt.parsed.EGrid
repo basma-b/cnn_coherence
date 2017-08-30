@@ -1,0 +1,9 @@
+             COMMAND X - -
+            QUESTION X - -
+                 GUI O - -
+              GKSUDO - X -
+                SUDO - - X
+                NEED - - X
+                   | - - X
+                 TEE - - X
+        /ETC/MODULES - - O

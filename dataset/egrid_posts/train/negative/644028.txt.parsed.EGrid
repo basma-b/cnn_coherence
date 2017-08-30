@@ -1,0 +1,21 @@
+               ERROR X X - - -
+             GRUB-PC - X - - -
+                  .. - O - - -
+             DEBCONF - X - - -
+            DBDRIVER - X - - -
+              CONFIG - X - - -
+/VAR/CACHE/DEBCONF/CONFIG.DAT - X - - -
+             PROCESS - X - - -
+            RESOURCE - X - - -
+                DPKG - X - - -
+               PURGE - X - - -
+              SCRIPT - X - - -
+              RETURN - X - - -
+                EXIT - X - - -
+              STATUS - X - - -
+             PACKAGE - X - - -
+                TYPE - X - - -
+             PROGRAM - O - - -
+              WINDOW - - - O -
+                APPS - - - X -
+              SYSTEM - - - X -

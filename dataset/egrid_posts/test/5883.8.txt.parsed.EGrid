@@ -1,0 +1,13 @@
+              CHANGE S - - - - -
+        /ETC/SUDOERS S - - - - -
+          /ETC/HOSTS S - O - O -
+                SUDO X O - O - -
+                HOST S - - - - -
+             SUDOERS S - - - - -
+             DEFAULT X - - - - -
+                RULE S - - - - -
+             COMMAND - X X X X -
+                THAT - - O - - X
+                 USE - - X - X -
+             HCANNEL - - X - - -
+            QUESTION - - O - - -

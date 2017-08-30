@@ -1,0 +1,16 @@
+              WINDOW O -
+             MPLAYER X -
+               MOVIE S -
+                5.10 X -
+          MULTIVERSE X -
+              CONFIG X -
+                FILE O -
+              DRIVER X -
+/ETC/MPLAYER/MPLAYER.CONF S -
+                NAME O -
+            PARAMTER X -
+                  .. O -
+              VO=X11 O -
+               HOURS - X
+           SOMETHING - O
+             MINUTES - X

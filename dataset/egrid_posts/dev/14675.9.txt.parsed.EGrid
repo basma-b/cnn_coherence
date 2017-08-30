@@ -1,0 +1,11 @@
+         UNIFICATION X - - -
+          FILESYSTEM X - - -
+             UNIONFS X - - -
+                AUFS X - - -
+         ALTERNATIVE X - - -
+              MHDDFS - S - -
+                FUSE - O - -
+              DEVICE - S - -
+               DRIVE - - X -
+               SPACE - - X -
+                  TY - - - X

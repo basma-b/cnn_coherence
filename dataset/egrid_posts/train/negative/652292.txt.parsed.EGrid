@@ -1,0 +1,15 @@
+              DRIVER X - -
+        WIRELESSCARD S - -
+                 USE X - -
+                LSHW - S -
+             NETWORK - O -
+                 ISO - - O
+             WEBSITE - - X
+             STARTUP - - X
+                 USB - - X
+             CREATOR - - O
+               FLASH - - X
+               DRIVE - - X
+                FILE - - O
+           DIRECTORY - - X
+                BOOT - - X

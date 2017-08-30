@@ -1,0 +1,13 @@
+             SOMEONE X - - -
+               ERROR X - - -
+             WU-FTPD - S - -
+               -LSB- - X - -
+               -RSB- - X - -
+                BIND - X - -
+              SOCKET - X - -
+          PERMISSION - X - -
+                 FTP - X - -
+              DAEMON - O - -
+                ROOT - X - -
+             PROFTPD - - - S
+                NICE - - - O

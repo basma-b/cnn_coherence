@@ -1,0 +1,27 @@
+                CUDA X - - - - - - - -
+               ERROR X - - - - - - - -
+              DEVICE X - - - - - - - -
+                 SDK - O - - - - - - -
+             DRIVERS - X - - - - - - -
+                   X - - S - - - - - -
+                 TRY - - X - - - - - -
+                SUDO - - X - - - - - -
+      NVIDIA-XCONFIG - - X - - - - - -
+              REBOOT - - S - - - - - -
+             NOTHING - - O - - - - - -
+              OUTPUT - - O - - - - - -
+               LSPCI - - X - - - - - -
+                HTTP - - X - - - - - -
+              NVIDIA - - S - X - - - -
+               IDEAS - - - X - - - - -
+           DEVELOPER - - - - X - - - -
+              DRIVER - - - - X - - - -
+DEVDRIVER_4.2_LINUX_32_295.41.RUN - - - - X - - - -
+                 TTY - - - - - X - - -
+                 GDM - - - - - X - - -
+            PASTEBIN - - - - - - S - -
+                FILE - - - - - - X - -
+ /VAR/LOG/XORG.0.LOG - - - - - - O - -
+              CONDOR - - - - - - - S -
+           APT-CACHE - - - - - - - X -
+              SYSTEM - - - - - - - X -

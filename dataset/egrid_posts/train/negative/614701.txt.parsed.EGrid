@@ -1,0 +1,18 @@
+             TROUBLE O - -
+              UBUNTU X - -
+               SAMBA X - -
+              SERVER X - -
+             DEVICES - X -
+                SUDO - S -
+               FSTAB - X -
+//THE_BORG/BORGFILES - S -
+                CIFS - X -
+CREDENTIALS=/ROOT/.SMBCREDENTIALS - O -
+      IOCHARSET=UTF8 - O -
+      FILE_MODE=0777 - O -
+                AUTO - X -
+                 END - X -
+            OPETIONS - X -
+                 FAN - - S
+                WORK - - O
+                 CPU - - S

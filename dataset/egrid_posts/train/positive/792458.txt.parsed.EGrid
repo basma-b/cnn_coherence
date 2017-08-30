@@ -1,0 +1,24 @@
+                PATH X - - - X
+            VARIABLE X - - - O
+                WORK - X - - -
+                 WAY - - X - -
+              EXPORT - - X - -
+PATH=/USR/LOCAL/SBIN - - X - -
+      /USR/LOCAL/BIN - - X - -
+           /USR/SBIN - - X - -
+            /USR/BIN - - X - -
+               /SBIN - - O - -
+                /BIN - - O - -
+          /USR/GAMES - - X - -
+                GREP - - X - S
+                 -RI - - X - -
+/OPT/REAL/REALPLAYER - - X - -
+                   * - - O - -
+            EVERYONE - - - X -
+                ALOT - - - O -
+          REALPLAYER - - - X -
+               HOWTO - - - X -
+              ONLINE - - - O -
+               THERE - - - S -
+        UN-INSTALLER - - - O -
+                HTTP - - - - O

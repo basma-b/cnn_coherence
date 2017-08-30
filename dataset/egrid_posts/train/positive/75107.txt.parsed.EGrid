@@ -1,0 +1,16 @@
+              KERNEL O X - X - -
+              SOURCE O - - S - -
+      /USR/SRC/LINUX X - - - - -
+           DIRECTORY X - - - - -
+           OLDCONFIG O - - - - -
+             HEADERS - S S - - -
+             PROBLEM - O - - - -
+                 ALL - X - - - -
+              NVIDIA - O - - - -
+             DRIVERS - S - - - -
+             MODULES - - S - - -
+                MEAT - - - X - -
+            POTATOES - - - O - -
+                MEAL - - - - S -
+                  HI - - - - - S
+                   U - - - - - O

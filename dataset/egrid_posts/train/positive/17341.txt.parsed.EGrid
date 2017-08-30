@@ -1,0 +1,12 @@
+            MODPROBE X - - -
+               FATAL X - - -
+               ERROR X - - -
+              INSERT X - - -
+           HW_RANDOM X - - -
+/LIB/MODULES/2.6.8.1-4-386/KERNEL/DRIVERS/CHAR/HW_RANDOM.KO X - - -
+              DEVICE S - - -
+               SORTA - S - -
+                BOOT - O - -
+                 JIM - - X -
+                 LEM - - O -
+                LOOK - - O -

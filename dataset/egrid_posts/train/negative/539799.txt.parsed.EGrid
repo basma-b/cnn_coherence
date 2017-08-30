@@ -1,0 +1,14 @@
+POLKIT-GNOME-AUTHORIZATION O - - -
+             KEYRING X - - -
+                8.10 - O - -
+                TIME - - X -
+             BOOT-UP - - X -
+                 WPA - - X -
+             NETWORK - - O -
+                LIST - - X -
+              OPTION - - O -
+            PASSWORD - - S -
+                 POP - - S -
+              INSERT - - X -
+                USER - - O -
+               LOGIN - - X -

@@ -1,0 +1,27 @@
+        DIST-UPGRADE S - - -
+                SAME O - - -
+              DEBIAN X - - -
+              UBUNTU X - - -
+             COMMAND - X - -
+                  .. - X - -
+             UPGRADE - X - O
+             RELEASE - X - -
+                  -D - X - -
+         DEVELOPMENT - O - -
+          ALPHA/BETA - X - -
+                FE80 - - X -
+                   M - - X -
+               BETAS - - X -
+                 FTP - - O -
+              OPTION - - X -
+                LINK - - X -
+              ACCESS - - X -
+         APPLICATION - - X -
+                HTTP - - O X
+//MYWIKI.WOOLEDGE.ORG/FTPMUSTDIE - - X -
+              SCRIPT - - - S
+             APT-GET - - - O
+                SUDO - - - X
+                GRAB - - - X
+         APT-FAST.SH - - - X
+            APT-FAST - - - X

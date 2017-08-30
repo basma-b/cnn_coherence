@@ -1,0 +1,24 @@
+                  IP O O - - S -
+              SUBNET X - - - - -
+                KIND X - - - - -
+              ROUTER X X - X - -
+             MACHINE - O - - - -
+                DHCP - S - - - -
+         192.168.2.2 - X - - - -
+             NETWORK - O - - - -
+          CONNECTION - O - - - -
+/ETC/NETWORK/INTERFACES - X - - - -
+           COMPUTERS - X - - - -
+                HTTP - O - - - -
+              A=2824 - - X - - -
+           DIAGNOSIS - - S - - -
+             VERSION - - - O - -
+                 DIE - - - X - -
+               YEARS - - - X - -
+                 ONE - - - S - -
+                 DNS - - - O X -
+             DEFAULT - - - - X -
+             GATEWAY - - - - X -
+             ADDRESS - - - - O -
+              SERVER - - - - - S
+             CHANNEL - - - - - X

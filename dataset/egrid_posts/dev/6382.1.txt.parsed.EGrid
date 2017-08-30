@@ -1,0 +1,14 @@
+                WIRE X - - - -
+              ROUTER S - - - X
+                DHCP O - - - -
+              STATIC - O - - -
+             0.0.0.0 - - O - -
+             GATEWAY - - X X X
+              ADRESS - - X - -
+                WORK - - X - -
+                 TRY - - - X -
+                 GUI - - - X -
+             ADDRESS - - - O -
+                NEED - - - - S
+/ETC/NETWORK/INTERFACES - - - - X
+                  IP - - - - O

@@ -1,0 +1,7 @@
+            LOOPBACK S -
+           127.0.0.1 O -
+               127.0 S -
+             NETWORK X -
+               127.1 S -
+                HOST O -
+              MEMORY - X

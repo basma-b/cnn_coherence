@@ -1,0 +1,10 @@
+        DIST-UPGRADE O O - -
+              UPDATE O - - -
+                NEED - S - -
+                STOP - X - -
+               ERROR - X - -
+              ACCESS - - X -
+                  .. - - O O
+    VINO-PREFERENCES - - - O
+            PASSWORD - - - O
+              REFUSE - - - X

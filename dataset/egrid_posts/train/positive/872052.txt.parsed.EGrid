@@ -1,0 +1,12 @@
+              ANSWER O - -
+               HTTPS X - -
+      BIND-ADDRESSES O - -
+               MYSQL X - -
+              CONFIG X - -
+                FILE X - -
+  /ETC/MYSQL/MY.CONF - S -
+        BIND-ADDRESS - O -
+             DEFAULT - O -
+           127.0.0.1 - X -
+             0.0.0.0 - O -
+          INTERFACES - X -

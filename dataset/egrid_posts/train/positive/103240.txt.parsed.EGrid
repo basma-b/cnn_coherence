@@ -1,0 +1,9 @@
+            IPTABLES X - - -
+                PORT O X - -
+             COMMAND X - - -
+               INPUT - X - -
+                  -P - X - -
+                 TCP - O - -
+                ETH0 - X - -
+                  -J - S - -
+                DROP - X - -

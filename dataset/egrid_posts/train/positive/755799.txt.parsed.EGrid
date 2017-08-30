@@ -1,0 +1,13 @@
+                GRUB O - -
+                BOOT X - -
+                TEXT X - -
+                MODE X - -
+                FILE O - -
+             SESSION X - -
+              ANYONE S - -
+               GRUB2 S - -
+GRUB_CMDLINE_LINUX_DEFAULT= - X -
+              SPLASH - S -
+             WELCOME - O -
+              SYSTEM - - X
+             CONSOLE - - X

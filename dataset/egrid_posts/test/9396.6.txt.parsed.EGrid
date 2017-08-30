@@ -1,0 +1,15 @@
+               FSTAB S - - X - - - -
+                   | S - - - - - - -
+               MOUNT O - - - - - - -
+         DESCRIPTION O - - - - - - -
+           /ETC/MTAB - X - - - - - -
+                MTAB - - - - S - - -
+                INFO - - - - X - - -
+              /THIS\ - - - - O - - -
+                   < - - - - - X - -
+                THIS - - - - - X - -
+         ALTERNATIVE - - - - - X - -
+                SUDO - - - - - - - X
+             APT-GET - - - - - - - S
+             TASKSEL - - - - - - - S
+         LAMP-SERVER - - - - - - - O

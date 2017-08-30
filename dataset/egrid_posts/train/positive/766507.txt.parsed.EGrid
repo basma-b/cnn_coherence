@@ -1,0 +1,15 @@
+               ROUTE X - X X - - - - -
+               VLANS X O - O - - - - -
+           INTERFACE X X - - - - - - -
+              POLICY - - X - - - - - -
+                BASE - - X - - - - - -
+            ETH1.111 - - - X - - - - -
+             ETH.112 - - - X - - - - -
+                 ETC - - - X - - - - -
+                 ALL - - - X - - - - -
+             SUBNETS - - - X - X - - -
+                  .. - - - X - - - - -
+                ETH0 - - - - X - X - -
+              SUBNET - - - - X - S - -
+             TRAFFIC - - - - X - - - -
+                ROUT - - - - O - - - -

@@ -1,0 +1,33 @@
+             CONVIRT - O - - - - - - - - S - - -
+           XENSERVER - O - - - - - - - - - - - -
+            TERMINAL - X - - - - - - - - - - - -
+               ERROR - O - O - - - - - O - - - -
+                  .. - - - X - - - - - - - - - -
+                   | - - - S - - - - - - - - - -
+                MAIN - - - X - - - - - - - - - -
+                   < - - - - - X - - - X - - - -
+                LINE - - - - - S - - - - - - - -
+/USR/SHARE/CONVIRT/SRC/CONVIRT/CORE/UTILS/UTILS.PY - - - - - - X - - - - - - -
+  DEPRECATIONWARNING - - - - - - X - - - - - - -
+              MODULE - - - - - - X - - - - - - -
+                 USE - - - - - - X - - - - - - -
+             HASHLIB - - - - - - X - - - - - - -
+              IMPORT - - - - - - - X - - - - - -
+                 SYS - - - - - - - S - - - - - -
+                  OS - - - - - - - X - - - - - -
+             OS.PATH - - - - - - - X - - - - - -
+              SOCKET - - - - - - - X - - - - - -
+                TYPE - - - - - - - X - - - - - -
+                  RE - - - - - - - X - - - - - -
+/USR/SHARE/CONVIRT/SRC/CONVIRT/CLIENT/DIALOGS.PY - - - - - - - - X - - - - -
+          GTKWARNING - - - - - - - - X - - - - -
+       GTKSPINBUTTON - - - - - - - - X - - - - -
+          ADJUSTMENT - - - - - - - - X - - - - -
+                PAGE - - - - - - - - X - - - - -
+                SIZE - - - - - - - - S - - - - -
+                HTTP - - - - - - - - - X - - - -
+                THIS - - - - - - - - - S - - - -
+                ERRO - - - - - - - - - X - - - -
+             PROBLEM - - - - - - - - - O - - - -
+             ENGLISH - - - - - - - - - - X - - -
+               ITALY - - - - - - - - - - - - - X

@@ -1,0 +1,20 @@
+               SETUP X X X - - -
+                HOME X - - - - -
+      GATEWAY/ROUTER O - - - - -
+              SERVER O O X - O -
+                NICS X - - - - -
+                DIAL X - - - - -
+               PPPOE O - - - - -
+                MWEB X - - - - -
+                ETH0 S - - - - -
+              SWITCH X X - - - -
+                DHCP - O - - - -
+                 IPS - S - - - -
+             CLIENTS - O S - - -
+         SWITCH.FROM - X - - - -
+            INTERNET - X - - - -
+           LOCATIONS - O - - - -
+                CANT - X - - - -
+             GATEWAY - X - - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - - - X -
+                THAT - - - - - S

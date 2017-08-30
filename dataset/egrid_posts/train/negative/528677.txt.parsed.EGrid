@@ -1,0 +1,14 @@
+                ETH0 S - - - -
+                DHCP X - - - -
+             DEFAULT X - - - -
+    /ETC/RESOLV.CONF S - X - -
+                 DNS X - X - -
+         INFORMATION X - - - -
+              SUPPLY O - - - -
+              SERVER X - - - -
+/ETC/NETWORK/INTERFACES - - - S -
+             CONTROL - - - X -
+     DNS-NAMESERVERS - - - S -
+                REST - - - O -
+                WORK - - - X -
+                   P - - - - X

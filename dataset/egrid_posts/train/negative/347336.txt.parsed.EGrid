@@ -1,0 +1,21 @@
+                 HDD X - - - -
+                  .. - O - - -
+                FSCK - X - - -
+/HARD/DRIVE/LOCATION - X - - -
+            /DEV/HDA - S - - -
+            /DEV/SDA - S - - -
+               USR13 - S - - -
+              OPTION - S - - -
+              ERRORS - O - - -
+          SUPERBLOCK - S - - -
+                PART - O - - -
+               ISSUE - X - - -
+                  -L - S - - -
+               DRIVE - S - - -
+              OUTPUT - X - - -
+            /DEV/HDB - S - - -
+           DIRECTORY - O - - -
+           PARTITION - X - - -
+           /DEV/HDB2 - - O - -
+                FILE - - - - X
+          DEFINITION - - - - X

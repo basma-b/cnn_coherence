@@ -1,0 +1,13 @@
+              SERVER O O - - -
+                DHCP X X - - -
+                VLAN - X - - -
+           INTERFACE - X - - -
+              CHANGE - - S - -
+    /ETC/RESOLV.CONF - - X - S
+                  IP - - - - X
+                 SET - - - - X
+           ATTRIBUTE - - - - O
+                FILE - - - - S
+                 USE - - - - O
+              METHOD - - - - S
+                  +I - - - - S

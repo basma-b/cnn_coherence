@@ -1,0 +1,35 @@
+                 FFM O - - - - - - - - -
+                LAMP X X X - - - - - - -
+                7.04 X X - - - - - - - -
+                PAGE - - S - - - - - - -
+         SUGGESTIONS - - O - - - - - - -
+                 GUI - - X - - - - - - -
+/VAR/WWW/APACHE2-DEFAULT/INDEX.HTML - - X - - - - - - -
+                 DIR - - X X O - - - - -
+         PERMISSIONS - - X - - - - - - -
+          EVERYTHING - - X - - - - - - -
+                PERM - - O - - - - - - -
+               INDEX - - - O - - - - - -
+                 USE - - - S - - - - - -
+                SUDO - - - X X O - - - -
+                FILE - - - O O - - - X -
+                  CP - - - S - S - - - -
+               WHATS - - - O - - - - - -
+             COMMAND - - - X O S - - - -
+/HOME/JORDAN/DESKTOP - - - X - - - - - -
+/VAR/WWW/APACHE2-DEFAULT - - - O - - - - - -
+/HOME/JORDAN/DESKTOP/INDEX.HTML - - - X - - - - - -
+                THIS - - - O - - - - - -
+/HOME/JORDAN/DESKTOP/VANILLA-1.1.2 - - - S - O O - - -
+               ERROR - - - X - - - - - -
+             MESSAGE - - - O - - - - - -
+           DIRECTORY - - - O - X - - - X
+                  -R - - - O - - - - - -
+               STUFF - - - X O - - - - -
+                 THE - - - - O - - - - -
+          INDEX.HTML - - - - O - - - - -
+             BROWSER - - - - X - - - - -
+            ANYTHING - - - - - X - - - -
+                HOME - - - - - X - - - -
+                TYPE - - - - - - - - X -
+            TERMINAL - - - - - - - - X -

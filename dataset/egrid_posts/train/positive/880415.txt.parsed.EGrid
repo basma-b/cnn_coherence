@@ -1,0 +1,18 @@
+XF86-INPUT-WACOM-0.13.0 O - -
+               SHELL X - -
+                 END X - -
+           XEXTPROTO O - -
+                   > X - -
+             VERSION X - -
+               7.1.2 O - -
+             7.2.0-3 X - -
+            SOFTWARE X - -
+              CENTER X - -
+                  .. X - O
+               11.10 X - -
+XSERVER-XORG-INPUT-WACOM O - -
+              DRIVER - X -
+               WACOM - - X
+              BAMBOO - - X
+                 FUN - - S
+             DRIVERS - - O

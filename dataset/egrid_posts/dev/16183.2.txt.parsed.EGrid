@@ -1,0 +1,16 @@
+             PROCESS S S - O -
+                  SH X - - - -
+           RESOURCES - O - - -
+               CHECK - - - X -
+              PARENT - - - O -
+                 IDS - - - S -
+                PPID - - - X -
+              SYSTEM - - - S -
+                LIST - - - X -
+                VIEW - - - X -
+                   > - - - X -
+        DEPENDANCIES - - - S -
+                TREE - - - X -
+                TEXT - - - - X
+                BASE - - - - X
+                 LOL - - - - O

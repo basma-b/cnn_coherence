@@ -1,0 +1,11 @@
+  /ETC/X11/XORG.CONF O - O - -
+             SECTION X - - - -
+              SCREEN X - - - -
+          SUBSECTION X - - - -
+             DISPLAY X - - - -
+              DESIRE X - - - -
+          RESOLUTION O - - - -
+               MODES X - - - -
+                ROOT X - S - -
+           XORG.CONF O - - - -
+                SUDO - - X - -

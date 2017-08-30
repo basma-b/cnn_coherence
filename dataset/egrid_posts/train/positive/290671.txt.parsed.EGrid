@@ -1,0 +1,5 @@
+           XORG.CONF S - -
+  /ETC/X11/XORG.CONF O - -
+           PARTITION S X -
+               MOUNT - X -
+   ETC/X11/XORG.CONF - - X

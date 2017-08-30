@@ -1,0 +1,11 @@
+            ARGUMENT O - - - -
+              DEVICE O - - - -
+               EJECT - S - - -
+            /DEV/SCD - - O - -
+                WORK - - - O -
+              SECOND - - - S -
+               FSTAB - - - X X
+                BASH - - - X -
+             COMMAND - - - X -
+                 CAT - - - - X
+          /ETC/FSTAB - - - - X

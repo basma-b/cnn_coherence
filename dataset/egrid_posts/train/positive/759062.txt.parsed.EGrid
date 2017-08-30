@@ -1,0 +1,23 @@
+                 DNS X - X - - - - - - -
+               ENTRY O - - - - - - - - -
+           127.0.0.1 X - - - - - - - - -
+               GUIDE - O - - - - - - - -
+             DNSMASQ - X - - - - - - - -
+               HTTPS - X - - - - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/DNSMASQ - X - - - - - - - -
+             NOTHING - S X - - - - - - -
+            NSLOOKUP - X - - - - - - - -
+                 DIG - X - - - - - - - -
+              SERVER - - X - - - - - - -
+                HOST - - - X X - - - - -
+                FILE - - - O - - - - - -
+           WILDCARDS - - - - S - - - - -
+              OPTION - - - - - X - - - -
+             NETWORK - - - - - X - - - -
+             MANAGER - - - - - X - - - -
+                 USE - - - - - - X - - -
+                THIS - - - - - - X - - -
+                HTTP - - - - - - - X - -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - - - - - - X - -
+            T=765776 - - - - - - - - X -
+                BIND - - - - - - - - - O

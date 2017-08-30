@@ -1,0 +1,14 @@
+             PROCESS S - O - - -
+              UBUNTU O - - - - -
+              SCRIPT - O O - - -
+                FILE - O O - - -
+              SYSTEM - - X - - -
+                   | - - X - - -
+         PREFERENCES - - X - - -
+            SESSIONS - - X - - -
+             STARTUP - - X - - -
+             PROGRAM - - O - - -
+NAME-OF-YOUR-KERNEL-PACKAGE - - - - X -
+             KERNELS - - - - - O
+                GRUB - - - - - X
+                BOOT - - - - - X

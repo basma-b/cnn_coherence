@@ -1,0 +1,16 @@
+                 IVE S - - - - - - -
+                FILE O - - - - - - -
+                  HD X - - - - - - -
+               MOUNT - X - - - - - -
+              DEVICE - X - - - - - -
+                MOVE - S - - - - - -
+                THAT - - X - - - - -
+                KIND - - X - X - - -
+            SECURITY - - X - - - - -
+             FEATURE - - X - - - - -
+         EXECUTABLES - - - - X - - -
+                 SEC - - - - X - - -
+          FILESYSTEM - - - - - - X -
+             FUSEBLK - - - - - - S -
+                   ^ - - - - - - O -
+                EXT3 - - - - - - - S

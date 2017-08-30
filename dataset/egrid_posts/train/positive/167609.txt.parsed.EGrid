@@ -1,0 +1,15 @@
+             ACCOUNT O - - -
+               THERE S - - -
+             OPTIONS O - - -
+              ENCODE O - - -
+                  RW S - - -
+             DEFAULT X X - -
+              OPTION O - - -
+                LINE - O - -
+                VFAT - X - -
+                UTF8 - X - -
+           UMASK=007 - X - -
+              GID=46 - X - -
+           READ-ONLY - X - -
+               GROUP - - X -
+                  ID - - - X

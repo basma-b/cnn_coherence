@@ -1,0 +1,13 @@
+                UUID - O - X - -
+          FILESYSTEM - X - - - -
+                COPY - X - - - -
+               FSTAB - X - - - -
+            GRUB.CFG - O - - - -
+           INITRAMFS - - O - - -
+                 USB - - X - - -
+             DRIVERS - - O - - -
+         FILESYSTEMS - - - O - -
+             TROUBLE - - - X - -
+               CLONE - - - - O -
+                GRUB - - - - O -
+                SURE - - - - - X

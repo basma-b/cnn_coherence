@@ -1,0 +1,12 @@
+          DIFFERENCE - X - -
+         LIBNSS-LDAP - X - -
+              MODULE - X - -
+                 USE - X - -
+                LDAP - X - -
+                NAME - X - -
+             SERVICE - X - -
+        LIBNSS-LDAPD - X - -
+                   D - - S -
+              DAEMON - - O X
+               QUERY - - - X
+              SERVER - - - X

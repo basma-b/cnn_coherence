@@ -1,0 +1,13 @@
+              ANYONE S - - -
+             DEFAULT X - - -
+              WINDOW X - - -
+             MANAGER O - - -
+                 GDM X O - -
+                 KDM X - O -
+             GDM/KDM - S - -
+    DPKG-RECONFIGURE - O - -
+     KUBUNTU-DESKTOP - X - -
+                  .. - X - -
+                SUDO - - - X
+            MODPROBE - - - X
+         NDISWRAPPER - - - O

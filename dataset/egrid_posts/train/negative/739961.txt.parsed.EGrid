@@ -1,0 +1,20 @@
+               POINT X - - - - -
+               USERS X O - - - -
+              ADMINS O - - - - -
+               WHICH S - - - - -
+          WORKAROUND O - - - - -
+             ABILITY - X - - - -
+ADMINISTRATION/USERS - X - - - -
+              GROUPS - X - - - -
+               MOUNT - - X - - -
+                USER - - O - - -
+           USERSPACE - - X - - -
+         FILESTYTEMS - - X - - -
+         FILESYSTEMS - - X - - -
+                FUSE - - X - - -
+              SYSTEM - - O - - -
+                TIME - - - X - -
+           SOMETHING - - - X - -
+                  .. - - - O - -
+                   * - - - S - -
+          /ETC/FSTAB - - - O - -

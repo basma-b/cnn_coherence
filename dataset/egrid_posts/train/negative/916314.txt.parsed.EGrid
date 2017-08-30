@@ -1,0 +1,7 @@
+             COMMAND X -
+                LIST O -
+             ADDRESS X -
+            IFCONFIG X -
+                  -A S -
+                MUTT O -
+                DONT - S

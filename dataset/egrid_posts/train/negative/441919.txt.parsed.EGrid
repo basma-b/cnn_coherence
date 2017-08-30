@@ -1,0 +1,16 @@
+         RECONFIGURE X - - -
+             XSERVER X - - -
+             COMMAND X - - -
+                LINE X - - -
+                SUDO - X - -
+        XSERVER-XORG - X - -
+              DOESNT - S - -
+                ROOT - X - -
+              OPTION - X - -
+            FAKERAID - X - -
+                 USE - - X -
+            SOFTWARE - - X -
+                RAID - - X -
+                 CAT - - - S
+               FRONT - - - X
+              SCREEN - - - X

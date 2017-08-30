@@ -1,0 +1,11 @@
+             NETWORK X - -
+           INTREFACE X - -
+               WLAN0 - S -
+                IFUP - S -
+                 FUN - O -
+              KERNEL - O -
+             BATTERY - X -
+             MONITOR - O -
+             CONTROL - X -
+                WORK - O -
+             SESSION - - O

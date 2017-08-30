@@ -1,0 +1,13 @@
+          HYPERVISOR X - - O - -
+                 KVM - S X - - -
+                 XEN - O - - - -
+                QEMU - - X - - -
+                BITE - - - O - -
+              MODULE - - - O - -
+              KERNEL - - - X - -
+           SIMULATOR - - - O - -
+                 END - - - X - -
+                 ALL - - - X - X
+                 JOB - - - O - -
+                WAYS - - - - X -
+                BEST - - - - - S

@@ -1,0 +1,11 @@
+                 AUG X - -
+               -RSB- X - -
+     STARTTLS=CLIENT X - -
+RELAY=GMAIL-SMTP-IN.L.GOOGLE.COM X - -
+ VERSION=TLSV1/SSLV3 - X -
+         VERIFY=FAIL - X -
+      CIPHER=RC4-SHA - X -
+        BITS=128/128 - X -
+              ERRORS - X -
+                 LOG - X -
+                FILE - X -

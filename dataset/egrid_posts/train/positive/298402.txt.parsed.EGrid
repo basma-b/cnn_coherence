@@ -1,0 +1,18 @@
+                TYPE X - - - - - -
+             NM-TOOL S X - - - - -
+                ETH0 O - - - - - -
+               LSPCI - O - - X - -
+             NETWORK - X X - - - -
+                CARD - O X - - - -
+             COMMAND - O - - - - -
+/ETC/NETWORK/INTERFACES - X - - X - -
+             ONBOARD - - S - - - -
+             MACHINE - - X - - - -
+                 2ND - - - S - - -
+                 ONE - - - - S - -
+                ETH1 - - - - O - -
+                  AD - - - - - X -
+                MASK - - - - - - O
+                 ETC - - - - - - X
+          INTERFACES - - - - - - X
+           ETH0/ETH1 - - - - - - X

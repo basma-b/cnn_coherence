@@ -1,0 +1,14 @@
+                 GDM S - - X - - - -
+                 USE X - - - - - - -
+             UPSTART X - - - - - - -
+                THIS O - - - - - - -
+     /ETC/INIT.D/GDM - S - - - - - -
+         CONVENIENCE - X - - - - - -
+                TEXT - - - - O - - -
+   /ETC/DEFAULT/GRUB - - - - X - - -
+         UPDATE-GRUB - - - - O - - -
+                STOP - - - - - - O -
+                LINE - - - - - - S -
+            RC.LOCAL - - - - - - X -
+              BOOTUP - - - - - - X -
+                 ISO - - - - - - - S

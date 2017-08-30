@@ -1,0 +1,18 @@
+             COMMAND X - X - - -
+                DISK O - O - - -
+                 WAY - O - - - -
+              FORMAT - - X - - -
+                NTFS - - X - - -
+          FILESYSTEM - - X - - -
+               FDISK - - O - - -
+             GPARTED - - - O - -
+            SIMIPLER - - - - - X
+           SOMETHING - - - - - O
+                  RM - - - - - S
+                  -R - - - - - S
+                ROOT - - - - - X
+                 DIR - - - - - X
+               STUFF - - - - - O
+/HOME/ZAK/STUFFTOREMOVE - - - - - S
+                  CD - - - - - X
+                   * - - - - - O

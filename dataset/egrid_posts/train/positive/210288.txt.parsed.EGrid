@@ -1,0 +1,12 @@
+                CANT X - - - - -
+                COPY X - - - - -
+           PARTITION X - - - - -
+                 ISO - X - - - -
+               FAT32 - - O - - -
+                EXT3 - - X X - -
+              DRIVER - - O X - -
+             WINDOWS - - X - - -
+                HTTP - - - - X X
+                 TKS - - - - X -
+               ERROR - - - - X -
+     //FS-DRIVER.ORG - - - - - X

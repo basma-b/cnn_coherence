@@ -1,0 +1,36 @@
+                 CAT X - - - - -
+        /PROC/ASOUND X - - - - -
+           DIRECTORY X - - - - -
+  /PROC/ASOUND/CARDS X - - - - -
+          SOUNDCARDS S - - - - -
+                SUDO X - - - - -
+          LSPCI|GREP X - - - - -
+               AUDIO X - - - - -
+            MODPROBE X - - - - -
+        SND_INTEL8X0 X - - - - -
+          MULTIMEDIA X - - - - -
+          CONTROLLER X - - - - -
+            ROCKWELL X - - S X -
+       INTERNATIONAL X - - - - -
+              DEVICE X - - - - -
+/ETC/INIT.D/ALSA-UTILS S - - - - -
+             WARNING X - - - - -
+             ALSACTL X - - - - -
+               STORE X - - - - -
+               ERROR X - - - - -
+             MESSAGE X - - - - -
+     SAVE_STATE:1163 X - - - - -
+                  .. O - - - - -
+                CARD - O - - - -
+                LSHW - - - O - -
+                HTTP - - - O - -
+                   < - - - X - -
+                 RAF - - - X - -
+              OUTPUT - - - X - -
+             SUPPORT - - - X - -
+//WWW.MAIL-ARCHIVE.COM/ALSA-USER - - - X - -
+               CHECK - - - X - -
+            HARDWARE - - - X - -
+               ORDER - - - O - -
+       DOCUMENTATION - - - O - -
+            ANYTHING - - - - O -

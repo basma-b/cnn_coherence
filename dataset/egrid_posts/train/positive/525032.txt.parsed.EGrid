@@ -1,0 +1,17 @@
+              LIVECD S - - - - -
+               RAMFS O - - O - -
+                THAT - S - X - -
+            SQUASHFS - - S - - -
+                BOOT - - X X - -
+                 RAM - - X X - -
+             DEFAULT - - X - - -
+          FILESYSTEM - - O - - -
+                  CD - - X - - -
+               THERE - - - S - -
+              KERNEL - - - X - -
+                LINE - - - X - -
+              OPTION - - - O - -
+                   % - - - O - -
+                  .. - - - X - -
+                DISC - - - - X -
+                   D - - - - X -

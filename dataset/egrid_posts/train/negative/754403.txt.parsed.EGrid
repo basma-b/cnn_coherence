@@ -1,0 +1,10 @@
+      OPENSSH-SERVER X - - - - -
+             UPSTART X - X S - -
+              UBUNTU X - - - - -
+              SCRIPT X - - - - -
+             SERVICE - O - - - O
+               START - - - X - -
+            SYSVINIT - - - O - -
+             COMMAND - - - O - -
+                SSHD - - - O - -
+             PROGRAM - - - - - X

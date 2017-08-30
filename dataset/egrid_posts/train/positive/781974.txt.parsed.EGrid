@@ -1,0 +1,12 @@
+             COMMAND S - - - -
+                SUDO - X - - -
+ /ETC/INIT.D/TOMCAT6 - S - - -
+              OUTPUT - X O - -
+               GROUP - X X - O
+                  .. - - X - X
+                   U - - S - -
+                MESS - - X - -
+           OPENBRAVO - - - - O
+              UBUNTU - - - - S
+            RECOVERY - - - - X
+                MODE - - - - X

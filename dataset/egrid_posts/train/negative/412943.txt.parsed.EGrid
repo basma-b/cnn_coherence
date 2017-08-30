@@ -1,0 +1,20 @@
+        CRASH-TO-GDM O - - -
+            ANYTHING O - - -
+             REMOVAL O - - -
+XSERVER-XORG-VIDEO-INTEL X - - -
+                 TIP X - - -
+               VIDEO - - X -
+                CARD - - X O
+                SUDO - - X -
+             APT-GET - - X -
+          PASTEBINIT - - X -
+                 CAT - - X -
+/ETC/APT/SOURCES.LIST - - S -
+                LINK - - X -
+                MIND - - O -
+               LSPCI - - - S
+                 PCI - - - X
+             DEVICES - - - O
+             NETWORK - - - X
+         MOTHERBOARD - - - X
+                SLOT - - - X

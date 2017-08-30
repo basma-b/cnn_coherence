@@ -1,0 +1,10 @@
+              ROOTFS O - - -
+                 LVM X - S -
+              MIRROR X S O -
+                  LV X - - -
+           INITRAMFS - S - -
+                ROOT - O - -
+           DM_MIRROR - S - -
+                LOAD - O - -
+               IDEAS - X - -
+         MIRROR-VIEW - - O -

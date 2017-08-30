@@ -1,0 +1,11 @@
+                FILE O - -
+             RW-RW-R X - -
+               GROUP X X -
+                LIST O - -
+             COMMAND X - -
+              GROUPS X - -
+            USERNAME X - -
+               RIGHT - O -
+               HTTPS - X -
+           NOMODESET - - O
+               SHELL - - X

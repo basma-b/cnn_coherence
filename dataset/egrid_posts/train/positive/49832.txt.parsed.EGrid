@@ -1,0 +1,14 @@
+               STUFF X - - - -
+              OPENGL X - - - -
+              UBUNTU X - - - -
+                CARD - X - - -
+              NVIDIA - X - X -
+              GFORCE - X - - -
+                  MX - X - - -
+  /ETC/X11/XORG.CONF - - - X -
+              BINARY - - - O -
+              KERNEL - - - - X
+             MODULES - - - - O
+LINUX-RESTRICTED-MODULES - - - - O
+              SEARCH - - - - X
+       NVIDIA-KERNEL - - - - X

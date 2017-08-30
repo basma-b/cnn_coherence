@@ -1,0 +1,11 @@
+         SSHD_CONFIG X - - - - - - -
+                FILE - - O - - - - -
+                INFO - - O - - - - -
+                 SSH - - X - - - - -
+               ISTHE - - - X - - - -
+             COMMAND - - - X - - - -
+                SSHD - - - - - - O -
+              SCRIPT - - - - - - O -
+                SUDO - - - - - - X -
+    /ETC/INIT.D/SSHD - - - - - - S -
+               THANK - - - - - - - X

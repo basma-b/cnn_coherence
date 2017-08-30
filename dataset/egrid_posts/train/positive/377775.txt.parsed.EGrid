@@ -1,0 +1,21 @@
+               RANGE X - - - - - -
+                STEP - X - - - - -
+                  IM - - S - - - -
+               THERE - - - S - - -
+                 CAT - - - X - X -
+/SYS/DEVICES/SYSTEM/CPU/CPU0/CPUFREQ/SCALING_MAX_FREQ - - - O - - -
+                   > - - - X - - -
+                  HM - - - X - - -
+                THIS - - - S - - -
+                 MAX - - - X X S -
+           FREQUENCE - - - O - - O
+                 MIN - - - X X - -
+/SYS/DEVICES/SYSTEM/CPU/CPU0/CPUFREQ/SCALING_AVAILABLE_FREQUENCIES - - - X - - -
+              DAMAGE - - - X - - -
+            HARDWARE - - - X - - O
+               VALUE - - - - X - -
+                 COU - - - - - X -
+                CANT - - - - - S -
+AVAILIBLE_FREQUALENCIES - - - - - O -
+              PETIUM - - - - - X -
+             MASHINE - - - - - O -

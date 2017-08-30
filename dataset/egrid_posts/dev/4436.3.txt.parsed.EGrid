@@ -1,0 +1,15 @@
+                BOOT X - -
+             NETWORK X X -
+                IFUP - X -
+                ETH0 - S -
+                CANT - S -
+              DEVICE - X -
+                SUDO - S -
+             PRODUCT - X -
+                LINE - X -
+             PROCESS - - X
+              ERRORS - - X
+            HARDWARE - - X
+       COMPATABILITY - - O
+           STABILITY - - O
+             CHOICES - - S

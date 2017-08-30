@@ -1,0 +1,10 @@
+           PARTITION O - - -
+        GRUB-INSTALL O - - -
+            /DEV/SDA S - - -
+                GRUB X - - -
+              FOLDER O - - -
+     PARTITION/BOOT/ X - - -
+                BOOT X X - -
+                DISK - S - -
+             MESSAGE - O - -
+               RIGHT - - - X

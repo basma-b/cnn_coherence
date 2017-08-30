@@ -1,0 +1,14 @@
+                TIME X - - -
+                TYPE X - - -
+         .XRESOURCES O - - -
+                  WM - O - -
+             INSTEAE - S - -
+              STARTX - O - -
+              XMONAD - O - X
+                FILE - - O -
+/USR/SHARE/GNOME-SESSION - - X -
+/USR/SHARE/XSESSIONS - - X -
+               LOGIN - - X -
+              SCREEN - - X -
+         STARTUPHOOK - - - O
+             WRAPPER - - - O

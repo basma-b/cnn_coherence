@@ -1,0 +1,14 @@
+                HELP O - - -
+                DISK X - - -
+           PARTITION O X - -
+           /DEV/SDA1 S - - -
+                 USE X - - -
+              SYSTEM X - - -
+          FILESYSTEM O - - -
+                  .. - X - -
+               CLICK - X - -
+             UNMOUNT - X - -
+              OPTION - S - -
+              VOLUME - S - -
+                THIS - - - S
+               FRESH - - - O

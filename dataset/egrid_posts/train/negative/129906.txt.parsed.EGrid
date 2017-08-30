@@ -1,0 +1,13 @@
+             COMMAND S - - - -
+          SWAPPINESS O - - - -
+                TUNE - X - - -
+               VALUE - O - - -
+/PROC/SYS/VM/SWAPPINESS - X - - -
+              NUMBER - - X - -
+              SYSTEM - - S - -
+                FORK - - - O -
+                WINE - - - S -
+             LICENSE - - - X -
+                 WAY - - - O -
+           COMMUNITY - - - X -
+                 AYE - - - - X

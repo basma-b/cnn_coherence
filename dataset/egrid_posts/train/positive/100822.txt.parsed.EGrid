@@ -1,0 +1,7 @@
+               -WALL X -
+ -WSTRICT-PROTOTYPES X -
+           RTL8139.C S X
+-I/USR/SRC/LINUX/PCMCIA-CS-3.0.9/INCLUDE/ X -
+               FLDER X -
+                 CAT X O
+               FRONT - X

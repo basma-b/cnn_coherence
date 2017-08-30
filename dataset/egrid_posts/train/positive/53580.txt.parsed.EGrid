@@ -1,0 +1,13 @@
+               THERE X - - -
+                 WAY X - - -
+              IFDOWN O - - -
+                IFUP X - - -
+                  IP S - - O
+                PING - - - X
+                TUNE - - - S
+             SENDMSG - - - S
+             NETWORK - - - X
+            IFOCNFIG - - - X
+              SIGNAL - - - X
+             STENGTH - - - S
+                   % - - - X

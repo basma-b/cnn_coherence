@@ -1,0 +1,20 @@
+              HDPARM S - X - S
+                SATA X - - - X
+        INFORMATIONS O - - - X
+                DISK X - X - -
+             COMMAND - - X - -
+                LINE - - O - -
+           INTERFACE - - X - -
+              IOCTLS - - X - -
+               STOCK - - X - -
+               LINUX - - X - -
+             ATA/IDE - - X - -
+              DEVICE - - X - -
+              DRIVER - - X - -
+           SUBSYSTEM - - X - -
+            GOOGLINE - - - S -
+                READ - - - - X
+                HTTP - - - - X
+//GENTOO-WIKI.COM/HOWTO_USE_HDPARM_TO_IMPROVE_IDE_DEVICE_PERFORMANCE - - - - X
+               LIMIT - - - - X
+       FUNCTIONALITY - - - - O

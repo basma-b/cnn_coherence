@@ -1,0 +1,9 @@
+                   | - X -
+                 Q0S - O -
+             PACKAGE - S -
+                FILE - O -
+              KERNEL - - X
+              DRIVER - - O
+                  .. - - X
+LINUX-RESTRICTED-MODULES- - - S
+      KERNEL-VERSION - - X

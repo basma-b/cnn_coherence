@@ -1,0 +1,13 @@
+                FSCK S - -
+                EXT3 X - -
+                EXT4 X - -
+                TIME - X -
+          DIFFERENCE - S -
+                MORE - X -
+                DONT - - S
+          PERMISSION - - O
+              SYSTEM - - X
+                HOME - - X
+                 DIR - - O
+           APT-CACHE - - X
+              SEARCH - - X

@@ -1,0 +1,12 @@
+           INTERFACE X - -
+                BIND X - -
+                  IP X - -
+                 USE X - -
+                TYPE X - -
+            IFCONFIG O X X
+                ETH2 O - -
+                LIST X - -
+                 IPS S - -
+                  -A - S -
+          INTERFACES - O -
+                  .. - - O

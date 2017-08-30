@@ -1,0 +1,26 @@
+                 RC1 O - - - - - - - - - - - -
+       COMPIZ-FUSION - X - - X - - - - - - - -
+              SYSTEM - X - - - - S - - - - - -
+                   > - X - - - - - - - X - - -
+         PREFERENCES - X - - - - - - - - - - -
+          APPEARANCE - X - - - - - - - - - - -
+           EXTENSION - X - - - - - - - - - - -
+             PACKAGE - O - - - - - - - - - - -
+             SUPPORT - - O - - - - - - - - - -
+             DEFAULT - - X - - - - - - - - - -
+                CARD - - - X X - - - - - - - -
+              RADEON - - - - S - - - - - - - -
+             DRIVERS - - - - S - - - - - - - -
+               THERE - - - - S - - - - - - - -
+               ISSUE - - - - O S - - - - - - -
+           BLACKLIST - - - - - - O - - - - - -
+                   U - - - - - - - - - X - - -
+              HOW-TO - - - - - - - - - X - - -
+            TERMINAL - - - - - - - - - X - - -
+                TYPE - - - - - - - - - S - X -
+               QUOTE - - - - - - - - - X - - -
+                  .. - - - - - - - - - X - - -
+     SKIP_CHECKS=YES - - - - - - - - - X - - -
+~/.CONFIG/COMPIZ/COMPIZ-MANAGER - - - - - - - - - O - - -
+                  NP - - - - - - - - - - - X -
+                 HUG - - - - - - - - - - - - X

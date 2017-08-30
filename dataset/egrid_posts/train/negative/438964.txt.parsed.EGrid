@@ -1,0 +1,15 @@
+              NVIDIA X - - - - - -
+                  NV X - - - - - -
+              DRIVER X - - - - - -
+             MODULES - O - - - - -
+              KERNEL - X - - - - -
+               MATCH - O - - - - -
+        XSERVER-XORG - O S - X - -
+            ANYTHING - O - - - - -
+                   X - - S - - - -
+                SUDO - - - X - - -
+     DPKG-RECONFIGRE - - - X - - -
+                   U - - - S - - -
+             COMMAND - - - X - - -
+            POSTINST - - - - X - -
+       CONFIGURATION - - - - X - -

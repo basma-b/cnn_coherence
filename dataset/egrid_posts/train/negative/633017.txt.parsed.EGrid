@@ -1,0 +1,25 @@
+              DRIVER X O - - - O - - -
+                  HP S - - - X - - - -
+             MONITOR O - - - - - - - -
+             DISPLAY - S - - - - - - -
+                NEED - X - - - - - - -
+       CONFIGURATION - O - - - - - - -
+                CARD - - S X - - - - -
+              NC6220 - - - - O - - - -
+                HTTP - - - - S - - - -
+              MOBILE - - - - X - - - -
+    915GM/GMS/910GML - - - - X - - - -
+             EXPRESS - - - - X - - - -
+            GRAPHICS - - - - X - - - -
+          CONTROLLER - - - - X - - - -
+DRIVER=AGPGART-INTEL - - - - X - - - -
+    MODULE=INTEL_AGP - - - - S - - - -
+//PASTEBIN.COM/FEACDAB4 - - - - S - - - -
+        INTEL-DRIVER - - - - S - - - -
+          RESOLUTION - - - - O - - - -
+               INTEL - - - - - X - - -
+           XORG.CONF - - - - - - O - -
+                LOAD - - - - - - X - -
+           SOMETHING - - - - - - X - -
+              SECOND - - - - - - - - X
+                 LOG - - - - - - - - O

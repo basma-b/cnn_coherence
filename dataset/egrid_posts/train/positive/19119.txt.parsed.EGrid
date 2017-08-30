@@ -1,0 +1,24 @@
+              DEPEND X - - - - -
+              SCREEN - S - - - -
+            1152X864 - - S - - -
+               SPACE - - X - - -
+              SAMPLE - - X - - -
+                GRID - - X - - -
+          CORRECTION - - X - - -
+                 WAY - - X - - -
+                   X - - S - - X
+           FREQUENCY - - X X - -
+                THAT - - - X - -
+             MONITOR - - - S - -
+            1024X768 - - - O - -
+                85HZ - - - X - -
+                75HZ - - - X - -
+               RANGE - - - O - -
+/ETC/X11/XF86CONFIG-4 - - - S - -
+               50-85 - - - - O -
+                TIME - - - - - X
+            APPROACH - - - - - S
+                 SET - - - - - O
+            MODELINE - - - - - X
+              SERVER - - - - - S
+            XVIDTUNE - - - - - X

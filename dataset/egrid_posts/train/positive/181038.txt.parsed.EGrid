@@ -1,0 +1,17 @@
+                THAT X - -
+               SPEED O O O
+             COMMAND X - -
+                WORK O - -
+               RSYNC - S -
+            /DEV/HDA - S -
+                TIME - - X
+           INSTALLER - - S
+                COPY - - S
+                 TAR - - S
+          FILESYSTEM - - X
+                 USE - - X
+                CPIO - - X
+            TRANSFER - - X
+                  .. - - X
+                THIS - - O
+             FREEBSD - - X

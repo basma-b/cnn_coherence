@@ -1,0 +1,28 @@
+                 HMM O - - - -
+                 TRY X - - - -
+            LOCATION - O - - -
+                IO.H - O - - -
+/USR/INCLUDE/LINUX/IO.H - O - - -
+               ERROR - S - - -
+              FOLOWS - X - - -
+/USR/INCLUDE/LINUX/LIMITS.H - S - - -
+                14:1 - X - - -
+                THIS - S - - -
+          DEFINITION - X - - -
+          COMMON.CPP - X - - -
+               32:16 - O - - -
+                FILE - X - - -
+           DIRECTORY - O - - -
+              INSTAL - O - - -
+                MAKE - - O - -
+     BUILD-ESSENTIAL - - - O -
+              SEARCH - - - X -
+             MESSAGE - - - X -
+             CHANNEL - - - X -
+                   ' - - - - S
+                  NO - - - - X
+                   / - - - - O
+               FRONT - - - - X
+              THINGS - - - - O
+                  .. - - - - X
+                 LJL - - - - S

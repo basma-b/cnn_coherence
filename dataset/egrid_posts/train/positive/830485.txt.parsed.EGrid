@@ -1,0 +1,24 @@
+              UBUNTU S - X - - - - -
+             SOMEONE X X - - - - - -
+               WHATS S - - - - - - -
+                SWAP X X X S - - - -
+               SPACE X S X - - - - -
+              SYSTEM - S - - - - - -
+                APPS - S - - - - - -
+             MONITOR - O - - - - - -
+               BYTES - S O - - - - -
+               SETUP - X - - - - - -
+                  GB - - O - - - - -
+                 RAM - - S - - - - -
+          /ETC/FSTAB - - X - - - - -
+           /DEV/SDA5 - - - X - - - -
+        INSTALLATION - - - X - - - -
+               BLKID - - - X - - X -
+                UUID - - - S - - - -
+           PARTITION - - - O - - - -
+              SWAPON - - - - X X - -
+                  -A - - - - X - - -
+              DEVICE - - - - - O - -
+UUID=E46F75C6-868B-4AD5-B3B1-3DD49908F708 - - - - - X - -
+               FDISK - - - - - - - X
+                  -L - - - - - - - X

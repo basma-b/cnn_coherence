@@ -1,0 +1,10 @@
+              DEVICE X - - - -
+                FILE X - - - -
+              DRIVER X - - - -
+          PLUGIN-MIC O - - - -
+         BUILTIN-MIC O - - - -
+                 -C0 - O - - -
+          PULSEAUDIO - S - - -
+             BACKEND - O O - -
+                ALSA - - S - -
+                  TY - - - - X

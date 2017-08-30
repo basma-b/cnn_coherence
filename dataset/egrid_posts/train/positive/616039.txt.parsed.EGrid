@@ -1,0 +1,19 @@
+       PROGRAM/SUITE X - - -
+REMOTE-ADMINISTRATION X - - -
+             SERVERS X - - -
+                EBOX - - X -
+                 SSH - - S -
+                 WAY - - O -
+            PASSWORD - - O -
+             SENSORS - - O -
+                SUDO - - X -
+             APT-GET - - S -
+                NEED - - X -
+                  DF - - S X
+                  -H - - S S
+                PATH - - X -
+                 IMO - - X -
+              CDROMS - - O -
+               DRIVE - - - X
+                WORK - - - X
+             BANSHEE - - - X

@@ -1,0 +1,15 @@
+         ENVIRONMENT X O - - - -
+            VARIABLE O - - - - -
+            SOFTWARE O - - - - -
+              PREFIX X - - - - -
+           VARIABLES - X - - - -
+         GLIB_CFLAGS - X - - - -
+           GLIB_LIBS - S - - - -
+                NEED - O - - - -
+          PKG-CONFIG - O - - - -
+               TROLL - - X - - -
+             CHANNEL - - - - S -
+              REDHAT - - - - X -
+               USERS - - - - X -
+                FILE - - - - - X
+             FOLDERS - - - - - O

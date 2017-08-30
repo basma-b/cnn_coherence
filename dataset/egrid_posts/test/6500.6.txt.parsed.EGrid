@@ -1,0 +1,11 @@
+               RSYNC O - -
+             OPTIONS X - -
+                -APV X - -
+                  -E X - -
+   -ONONEENABLED=YES X - -
+                COPY S - -
+                FILE O - -
+                THIS X - -
+               VALUE - - O
+      USE_LXC_BRIDGE - - X
+    /ETC/DEFAULT/LXC - - X

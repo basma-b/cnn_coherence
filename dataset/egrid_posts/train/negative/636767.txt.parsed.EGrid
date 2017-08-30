@@ -1,0 +1,21 @@
+                  BE X - - - -
+                  HI S - - - -
+                 4PF O - - - -
+                GRUB X - - - -
+                LINE X - - - -
+TRUECRYPT_NOGUI_INITRD O - - - -
+                  -L S - - - -
+            /DEV/HDA X - - - -
+          /DEV/LOOP0 S - - - -
+   INITRAMFS/BUSYBOX X - - - -
+                BOOT X - - - -
+                BASE - S - - -
+              UBUNTU - X - - -
+           BACKTRACK - - X - -
+            QUESTION - - O - -
+                 IRC - - X - -
+             CHANNEL - - X - -
+              FORUMS - - X - -
+               XCHAT - - - - O
+                TEST - - - - X
+                CASE - - - - O

@@ -1,0 +1,15 @@
+                BOOT X - - - - - - -
+               11.10 O - - - - - - -
+                 USB X - - - - - - -
+               CRASH X - - - - - - -
+                DATA - O - - - - - -
+               DRIVE - X - O - - O -
+             DEFAULT - - X - - - - -
+               ORDER - - S - - - - -
+              CHANGE - - O - - - - -
+           /DEV/SDA1 - - S - - - - -
+               CDROM - - X - - - - -
+         COMMANDLINE - - - X - - - -
+              LETTER - - - - O X - -
+             MACHINE - - - - - - - X
+            /DEV/SDF - - - - - - - X

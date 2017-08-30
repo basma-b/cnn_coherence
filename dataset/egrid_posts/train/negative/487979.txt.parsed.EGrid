@@ -1,0 +1,9 @@
+              DRIVER X X O -
+              UBUNTU S S S -
+            WIRELESS X - - -
+                CARD X X - -
+               LSPCI - S - -
+               LSMOD - S - -
+              MODULE - S - -
+               INTEL - X S -
+               THINK - - X -

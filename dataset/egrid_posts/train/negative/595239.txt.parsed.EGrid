@@ -1,0 +1,8 @@
+               CHOWN X - - -
+               OWNER - X - -
+               GROUP - O - -
+            APTITUDE - - - S
+             PACKAGE - - - O
+               THERE - - - S
+            CONFLICT - - - O
+        ALTERNATIVES - - - X

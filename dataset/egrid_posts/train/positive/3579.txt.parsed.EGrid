@@ -1,0 +1,15 @@
+                 DMA O - - X - -
+                UDMA - X - - - -
+               MODES - X - - - -
+               UDMA4 - X - - - -
+               UDMA5 - S - - - -
+           BADBLOCKS - O - S O X
+                THIS - - X - - -
+                READ - - - X - -
+                 I/O - - - X - -
+              ERRORS - - - X - -
+             TIMOUTS - - - X - -
+                LIST - - - X - -
+              NUMBER - - - X - -
+                TIME - - - - X -
+              OUTPUT - - - - - S

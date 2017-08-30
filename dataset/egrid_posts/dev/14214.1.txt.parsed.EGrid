@@ -1,0 +1,13 @@
+              MEMORY X -
+            UNSECURE - X
+           PROTOCOLS - S
+               SCOPE - X
+               THERE - S
+             DESKTOP - X
+                FILE - O
+/USR/SHARE/APPLICATIONS - X
+                 USE - O
+                DASH - X
+                 ETC - S
+                NTFS - X
+           PARTITION - X

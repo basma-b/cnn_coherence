@@ -1,0 +1,18 @@
+                THAT X - O - - - - - -
+/VAR/RUN/POSTGRESQL/.S.PGSQL.5432.LOCK X - - - - - - - -
+              REASON X - - - - - - - -
+            POSTGRES - O - - - - - - -
+               ERROR - S - S - - - - -
+                LOCK - X - - X - - - -
+                FILE - S O O S - - - -
+           DIRECTORY - - X - - - - O -
+   /VAR/RUN/POSTGRES - - S - - - - - -
+             PROGRAM - - - - S - - - -
+            /VAR/RUN - - - - - - X X -
+               THERE - - - - - - - S -
+                   > - - - - - - - S -
+               -NAME - - - - - - - O -
+                   * - - - - - - - X -
+     PGSQL.5432.LOCK - - - - - - - X -
+             NOTHING - - - - - - - S -
+                 WAY - - - - - - - - O

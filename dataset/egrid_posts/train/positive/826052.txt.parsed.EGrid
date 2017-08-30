@@ -1,0 +1,14 @@
+             ADDUSER S S - - S -
+               USERS S - - - - -
+               GROUP X - - - - -
+             ACCOUNT O - - - - -
+            EXAMPLES - X - - - -
+             MANPAGE - X - - - -
+               LEVEL - O X - - S
+             COMMAND - - X - - -
+             USERADD - - - - S -
+             NOTHING - - - - O -
+                BITE - - - - X -
+                 GUI - - - - - X
+             VERSION - - - - - O
+             DEFAULT - - - - - X

@@ -1,0 +1,13 @@
+             DRIVERS O - - -
+              NVIDIA X - - -
+            GRAPHICS X - - -
+                CARD X - - -
+                6XXX - X - -
+              SERIES - X X -
+               LSPCI - - S -
+                 VGA - - S -
+            TERMINAL - - X -
+              OUTPUT - - S -
+                SUDO - - X -
+             APT-GET - - O -
+            PCIUTILS - - O -

@@ -1,0 +1,9 @@
+             NETWORK X S -
+       CONFIGURATION X - -
+               11.04 X - -
+              CHANGE O - -
+/ETC/NETWORK/INTERFACES X - -
+                SUDO - X -
+/ETC/INIT.D/NETWORKING - S -
+             SERVICE - X -
+            INSTANCE - - X

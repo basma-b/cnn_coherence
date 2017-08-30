@@ -1,0 +1,15 @@
+              SYSTEM X - - - - - - - -
+                BOOT X - - S - - - - -
+              LOCALE X - - - - - - - -
+           LANGUAGES O - - - O - - - -
+              SCRIPT - X - - - X - - -
+             MACHINE - - S - - - - - -
+               POSIX - - O - - - - - -
+             LOCALES - - S - - - - - -
+           SOMETHING - - - O - - - - -
+               CHECK - - - X - - - - -
+    /ETC/ENVIRONMENT - - - X - - S - -
+             NOTHING - - - - - - S - -
+                   * - - - - - - X - -
+                  .D - - - - - - X - -
+         /ETC/RCS.D/ - - - - - - - - X

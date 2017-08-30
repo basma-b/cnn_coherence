@@ -1,0 +1,13 @@
+         NTFS-CONFIG S O - -
+           PARTITION O - - -
+               FSTAB X - - -
+                DONT - X - -
+                TOOL - O - -
+                NTFS - S - -
+        APPLICATIONS - X - -
+                   > - X - -
+              SYSTEM - X - -
+               TOOLS - X - -
+                  .. - O - -
+             PACKAGE - - O -
+                  OK - - - X

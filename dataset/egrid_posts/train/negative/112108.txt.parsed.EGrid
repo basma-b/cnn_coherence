@@ -1,0 +1,16 @@
+                SUDO X - - - - - -
+     /ETC/INIT.D/GDM S - - - - - -
+             KERNELS S - - - - - -
+              OPTION O - - - - - -
+                .WHY - - S - - - -
+          PREEMPTION - - O - - - -
+             PROBLEM - - - - O - -
+             MODULES - - - - - O -
+              KERNEL - - - - - X -
+                FILE - - - - - - S
+SCRIPTS/UPDATE-INITRAMFS - - - - - - S
+                LINE - - - - - - O
+                  -R - - - - - - X
+              /BUILD - - - - - - O
+              FOLDER - - - - - - X
+              SCRIPT - - - - - - X

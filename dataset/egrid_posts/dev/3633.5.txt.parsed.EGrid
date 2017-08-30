@@ -1,0 +1,12 @@
+             COMMAND X - -
+                LINE X - -
+              WINDOW X - -
+               XTERM - X -
+      GNOME-TERMINAL - X -
+                THIS - - S
+                CODE - - S
+          SHELL_EXEC - - O
+                SUDO - - X
+              PYTHON - - X
+/MEDIA/SF_VM_SHARE/OPENCV_PYTHON/TEST2.PY - - X
+                 ETC - - S

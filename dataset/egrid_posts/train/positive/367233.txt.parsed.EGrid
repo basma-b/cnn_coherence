@@ -1,0 +1,11 @@
+           DIRECTORY X - - -
+           PARTITION X - - O
+                THIS - O - -
+                THAT - - - O
+               /HOME - - - O
+             INSTALL - - - X
+               FSTAB - - - X
+                FILE - - - S
+              FOLDER - - - X
+              CUSTOM - - - X
+               THING - - - O

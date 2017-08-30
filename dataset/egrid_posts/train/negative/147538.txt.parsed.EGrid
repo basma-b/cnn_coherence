@@ -1,0 +1,13 @@
+      DAPPER-FLIGHT3 O - - - - -
+             UPGRADE O - - - - -
+              REBOOT - X - - - -
+               ERROR - S - - - -
+          DEPENDANCY - X - - - -
+             PROCESS - X - - - -
+                INIT - S - - - -
+                KILL - O - - - -
+                SUDO - - - X - -
+             APT-GET - - - S - -
+                NICK - - - - X -
+                MESS - - - - X -
+                 BOX - - - - X -

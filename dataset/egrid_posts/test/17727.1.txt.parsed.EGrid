@@ -1,0 +1,13 @@
+                FILE X S - -
+          PERMISSION X - - -
+               -RW-R X - - -
+               OWNER - X - -
+              OWNERS - X - -
+               GROUP - O - -
+                SAME - O - -
+            EVERYONE - S - -
+         PERMISSIONS - O - -
+                USER - S - -
+                SUDO - X - -
+              ADMINS - S - -
+                  .. - - - X

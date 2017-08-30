@@ -1,0 +1,16 @@
+                NOTE O -
+             CRONTOB X -
+                ROOT S -
+                 USE O -
+     GNOME-SCHEDULER O -
+       X-APPLICATION X -
+              OUTPUT O -
+                   * O -
+             MESSAGE O -
+PYGOBJECT_REGISTER_SINKFUNC S -
+           GTKWINDOW X -
+        GTKINVISIBLE X -
+           GTKOBJECT X -
+                SUDO X -
+             CRONTAB X -
+                CRON X -

@@ -1,0 +1,16 @@
+               USERS O - - - - - - - - - - -
+             COMMAND X - - - - - - - - - - -
+                USER O - X O X X - - X - - -
+             DEFAULT X - X - - - O - - O - -
+       CONFIGURATION X - - - - - - - - - - -
+               GROUP X - - - - - - - - - - -
+               SHELL X - S - O O X - - O - -
+             HOMEDIR X - - - - - - - - - - -
+            CREATION - - - - X - - - X - - -
+                TIME - - - - - X - - - - - -
+                 ONE - - - - - O - - - - - -
+             ADDUSER - - - - - - X - - - - -
+         REQUIREMENT - - - - - - S - - - - -
+               THERE - - - - - - S - - - - -
+              OPTION - - - - - - O - - - - -
+   /ETC/ADDUSER.CONF - - - - - - - - - - - O

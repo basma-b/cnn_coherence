@@ -1,0 +1,5 @@
+             APT-GET S -
+               QMAKE S -
+                 QT4 X S
+                 WAY X -
+           CONFIGURE - S

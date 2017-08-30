@@ -1,0 +1,17 @@
+               CHECK O - - - - - - -
+         FILESYSTEMS X - - - - - - -
+               WHILE O - - - - - - -
+             COMMAND O - - - - - - -
+         UBUNTU10.04 - O - - - - - -
+           PARTITION - - S - - - - -
+                FLAG - - X O - - - -
+               START - - - X - - X -
+                FSCK - - - O - - - -
+             MANUALL - - - O - - - -
+              FINISH - - - O - - - -
+                RAID - - - O - O - -
+               THERE - - - S - - - -
+                NEED - - - O - - - -
+                THAT - - - - - - O -
+    FAT32-PARTITIONS - - - - - - O -
+                TIME - - - - - - - O

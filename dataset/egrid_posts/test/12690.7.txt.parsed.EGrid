@@ -1,0 +1,13 @@
+             ACCOUNT X S - -
+               FRESH - S - -
+       ADMINISTRATOR - X - -
+               OWNER - O - -
+             SUDOERS - X - -
+                FILE - X - -
+                ROOT - S - -
+            ANYTHING - O - -
+                BOOT - - X -
+             PROBLEM - - - S
+                   X - - - X
+             MONITOR - - - S
+              DETECT - - - O

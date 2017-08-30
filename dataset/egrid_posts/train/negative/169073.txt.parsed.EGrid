@@ -1,0 +1,19 @@
+                 ALL O - - - -
+             PROBLEM O - - - -
+         COMPILATION X - - - -
+              KERNEL X O - - -
+            SOMEBODY S - - - -
+              2.6.17 - O - - -
+               2.6.8 - X - - -
+          MENUCONFIG - - S - -
+             MESSAGE - - X - -
+      /USR/SRC/LINUX - - O - -
+/USR/INCLUDE/BITS/SOCKET.H - - O - -
+              304:24 - - O - -
+        ASM/SOCKET.H - - O - -
+             KNOPPIX - - X - -
+                DIST - - X - -
+                EXT4 - - - S -
+          FILESYSTEM - - - O -
+              KARMIC - - - X -
+             SUPPORT - - - - O

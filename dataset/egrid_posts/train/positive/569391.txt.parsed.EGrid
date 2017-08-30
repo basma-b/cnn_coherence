@@ -1,0 +1,13 @@
+ PHONON-BACKEND-XINE O - - - -
+PHONON-BACKENED-GSTREAMER O - - - -
+             NOTHING O - - - -
+             RESTART - X - - -
+               CHECK - - O - -
+              SYSTEM - - O - -
+          PULSEAUDIO - - O - -
+                 ALL - - S - -
+             OPTIONS - - X - -
+               SOUND - - X - X
+         PREFERENCES - - X - -
+              SERVER - - X - O
+                   X - - - - O

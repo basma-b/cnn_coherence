@@ -1,0 +1,22 @@
+     KDEBASE-RUNTIME O - - - - -
+     FORCE-OVERWRITE X - - - - -
+                .DEB - O - - O -
+                  -I - X - - X -
+        WHATEVER.DEB - X - - - -
+             APT-GET - - X - X -
+                FLAG - - X - - -
+               ERROR - - - X - -
+             OPTIONS - - - - O -
+                TACK - - - - X -
+           SOMETHING - - - - X -
+                IIRC - - - - X -
+                FILE - - - - S -
+             COMMAND - - - - X -
+                   % - - - - X -
+3A4.3.1-0UBUNTU1~JAUNTY1~PPA2_I386.DEB - - - - X -
+              MIGHHT - - - - O -
+                  .. - - - - O -
+                BITE - - - - X -
+               QUOTE - - - - X -
+                BASH - - - - S -
+                   ~ - - - - O -

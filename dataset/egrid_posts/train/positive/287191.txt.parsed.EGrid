@@ -1,0 +1,13 @@
+                ROOT X X -
+              ACCESS X O -
+              UBUNTU X X O
+                NEED - X -
+              VMWARE - O -
+           PARTITION - X -
+                  -I - X -
+/^ALLOWROOT=FALSE/ALLOWROOT=TRUE/ - S -
+                IDEA - O -
+                ONES - O -
+             PACKAGE - - S
+                FILE - - O
+        DISTRIBUTION - - O

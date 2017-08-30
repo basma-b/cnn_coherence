@@ -1,0 +1,15 @@
+               ERROR O - - -
+              ACCESS X - - -
+                DENY X - - -
+                USER X O - S
+              MYTHTV X - - O
+                 USE X - - -
+            PASSWORD X O - -
+                  .. X - - -
+             SOMEONE X - - -
+             PROBLEM - S - -
+                ROOT - - - X
+                   > - - - X
+              UPDATE - - - X
+   PASSWORD=PASSWORD - - - O
+          PRIVILEGES - - - O

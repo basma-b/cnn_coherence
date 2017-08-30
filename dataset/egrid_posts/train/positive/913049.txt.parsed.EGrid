@@ -1,0 +1,10 @@
+             WINDOWS X - - - -
+          /ETC/FSTAB - X - - -
+              LITTLE - X - - -
+               FSTAB - - O - -
+           PARTITION - - - O -
+             COMMAND - - - X -
+               PLACE - - - X -
+               MOUNT - - - - X
+                  -T - - - - S
+        /MNT/WINDOWS - - - - O

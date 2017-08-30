@@ -1,0 +1,18 @@
+             COMMAND X - - - - -
+                 USE X - - - - -
+                CRON X - - - - -
+                ROOT X X X - - -
+           PRIVILEGE X - - - - -
+             CRONTAB - X X - - -
+                 LOT - - O - - -
+                  IM - - S - - -
+                  -C - - - X - -
+                  -E - - - X - -
+                TIME - - - - X -
+            FOO.CRON - - - - O -
+           SOMETHING - - - - O -
+               TOUCH - - - - X -
+/HOME/CROSMILEY/CRON_WORKS - - - - X -
+           RHYTHMBOX - - - - O -
+             DISPLAY - - - - - X
+         ENVIRONMENT - - - - - S

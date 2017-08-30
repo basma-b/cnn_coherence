@@ -1,0 +1,14 @@
+            MODPROBE X - - -
+               FGLRX X - - -
+              REBOOT X - - -
+                THAT - S - -
+                 HMM - - S -
+              KERNEL - - X X
+             MODULES - - X -
+              MODULE - - S -
+            AUTOLOAD - - X -
+                LIST - - X -
+       /ETC/MODULES/ - - X -
+/LIB/MODULES/UNAME/VOLATILE - - X -
+           DIRECTORY - - - X
+                   > - - - X

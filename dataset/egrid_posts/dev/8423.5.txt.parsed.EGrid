@@ -1,0 +1,19 @@
+                 USB X - - - - - - - -
+           HARDDRIVE X - X - - - - - -
+               FLASH X - - - - - - - -
+                BIOS - - X - - - - - -
+            SETTINGS - - S - - - - - -
+                BOOT - - O - - - X - -
+              INSTAL - - O - - - - - -
+                  HD - - X - - X - - -
+                  CD - - X - - - - - -
+               PANIC - - X - - - - - -
+PARTITIONER/INSTALLER - - O - - - - - -
+               DRIVE - - X X - - - - -
+                GRUB - - - O - - - - -
+                 MBR - - - X - - - - -
+               REPLY - - - - X - - - -
+               LIGHT - - - - - X - - -
+             FLICKER - - - - - S - - -
+               ERROR - - - - - - O - -
+              RESCUE - - - - - - X - -

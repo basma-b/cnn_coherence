@@ -1,0 +1,15 @@
+                   $ O X S -
+              STRING O - - -
+                FILE O - - -
+             COMMAND S - - -
+                TADA X X X -
+                EXEC - X - -
+                   | - X - -
+                GREP - X - -
+                 TEE - X - -
+          ~/TADA.TXT - S - -
+            SUBSHELL - O - -
+              SAFETY - - - X
+                 NON - - - S
+               FONTS - - - X
+              CLIENT - - - X

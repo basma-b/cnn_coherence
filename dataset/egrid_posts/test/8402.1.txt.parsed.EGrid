@@ -1,0 +1,24 @@
+                TIME X - - - -
+             EDITION O - - - -
+               12.04 X - - - -
+                TEST O - - - -
+              MEMORY X - - - -
+                SIZE O - - - -
+                 2GB - O - - -
+        SEGMENTATION - X - - -
+               FAULT - O - - -
+                MORE - - O - -
+                CODE - - - O -
+                 PLX - - - S -
+              RETURN - - - X -
+               VALUE - - - O -
+              MALLOC - - - X -
+                  GB - - - X -
+                 RAM - - - X -
+                THIS - - - S -
+//PASTEBIN.COM/S7B3H9H3 - - - X -
+                 USE - - - - X
+            VALGRIND - - - - X
+            SEGFAULT - - - - S
+                FLAG - - - - X
+       ./TESTPROGRAM - - - - X

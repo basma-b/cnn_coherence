@@ -1,0 +1,12 @@
+        CHECKINSTALL S X S -
+                 DEB X - - -
+                FILE O - - -
+                DEBS - - O -
+         ./CONFIGURE - - X -
+                MAKE - - X -
+             PROCESS - - X -
+                THAT - - - S
+              LAPTOP - - - X
+        INSTALLATION - - - S
+              THINGS - - - O
+             DESKTOP - - - X

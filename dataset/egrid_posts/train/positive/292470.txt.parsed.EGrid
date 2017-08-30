@@ -1,0 +1,11 @@
+             COMMAND X - -
+          DEACTIVATE X - -
+             NETWORK X - -
+           INTERFACE X - -
+                ETH0 - S -
+                NAME - O -
+             ADAPTER - X -
+                THIS - - S
+                SAME - - O
+     NETWORK-MANAGER - - O
+          CONNECTION - - O

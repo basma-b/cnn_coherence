@@ -1,0 +1,10 @@
+              THINGS S - -
+              KERNEL X - -
+    /ETC/MODPROBE.D/ - S -
+             OPTIONS - X -
+                FILE - S O
+              REUILT - O -
+              BOOTUP - X -
+       /ETC/MODUTILS - - X
+              EFFECT - - O
+               BREAK - - X

@@ -1,0 +1,15 @@
+             DEFAULT X - - - - -
+                USER S - - - - -
+   WINDOWS-PARTITION O - - - - -
+    READ-ONLY-SYSTEM - S - - - -
+               CHMOD - O - - - -
+             WINDOWS - X - - - -
+           PARTITION - O - - - -
+                ROOT - - X - - -
+               FSTAB - - - X - -
+            PASTEBIN - - - X - -
+                LOOK - - - O - -
+          BUGTRACKER - - - - S -
+           LAUNCHPAD - - - - X -
+                 BUG - - - - - S
+                 FIX - - - - - O

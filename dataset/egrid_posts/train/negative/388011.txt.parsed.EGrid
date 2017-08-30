@@ -1,0 +1,19 @@
+                 MAN X - - - - - - -
+           PM-ACTION X - - - - - - -
+VAR/LOG/PM-SUSPEND.LOG X - - - - - - -
+                 LOG X - - - - - - -
+                FILE S - - - - - - -
+   SUSPEND/HIBERNATE X - - - - - - -
+         RESUME/THAW X - - - - - - -
+                THAW - X - - - - - -
+               STATE - - X - - - - -
+          TRANSITION - - X - - - - -
+           UN-FREEZE - - - X - - - -
+                HELP - - - O - - - -
+          DEFINITION - - - X - - - -
+               STUFF - - - - - X - -
+                 SEC - - - - - - X -
+                CANT - - - - - - - S
+             PROBLEM - - - - - - - O
+                 USB - - - - - - - X
+               DRIVE - - - - - - - X

@@ -1,0 +1,17 @@
+                 USB X - - - -
+                  CF X - - - -
+              READER S - - - -
+                HELP O - - - -
+              OUTPUT - O - - -
+           XORG.CONF - - - O -
+                  .. - - - X -
+             SESSION - - - X -
+                TYPE - - - X -
+                 GDM - - - - X
+             CONSOLE - - - - X
+                   X - - - - O
+                SUDO - - - - S
+                XORG - - - - O
+          -CONFIGURE - - - - S
+                  MV - - - - S
+            /ETC/X11 - - - - X

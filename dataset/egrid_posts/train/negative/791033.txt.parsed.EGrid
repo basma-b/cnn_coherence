@@ -1,0 +1,16 @@
+             GPARTED S - - - - - - -
+               LEAVE X - - - - - - -
+                HOME X - - - - - - -
+           PARTITION O - - - - - - -
+                BOOT - X - - - - - -
+                GRUB - X - - - O - -
+             LOADING - X - - - - - -
+               STAGE - X - - - - - -
+                 1.5 - X - - - - - -
+                LOAD - - S - - - - -
+               ERROR - - - S - - - -
+                THIS - - - - O - - -
+              INSERT - - - - - O - -
+              LIVECD - - - - - O - -
+                  CD - - - - - S - -
+                  OK - - - - - - - X

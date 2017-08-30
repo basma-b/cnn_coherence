@@ -1,0 +1,14 @@
+           PARTITION O - - - - -
+               LINUX X - - - - -
+              SERVER X - - - - -
+                 USE O - - - - -
+             WINDOWS X - - - - -
+             CLIENTS X - S - - -
+             NETWORK X - X - - -
+               DRIVE X - O - - -
+                NTFS - X - - - -
+              ACCESS - - X - X -
+          FILESYSTEM - - O - - -
+                  FS - - - O - -
+                SIDE - - - X - -
+            PASSWORD - - - - - X

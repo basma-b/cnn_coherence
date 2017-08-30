@@ -1,0 +1,10 @@
+               ERROR S - - - -
+/VAR/LOG/APACHE2/ERROR.LOG - X - - -
+          PERMISSION - - O - -
+              ACCESS - - S - -
+ /~MIKAEL/INDEX.HTML - - X - -
+         DIRECTORIES - - S - -
+         PUBLIC_HTML - - X - -
+              APACHE - - X - -
+                   / - - - S -
+                  OK - - - - X

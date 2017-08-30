@@ -1,0 +1,14 @@
+                  IM S - - - - - -
+              SERVER O - - - - - -
+               ERROR O - - - - - -
+                FILE X - - - S - -
+  /VAR/RUN/DHCPD.PID O - - - - - -
+          PERMISSION S - - - - - -
+                ROOT - O - - - - -
+         SUGGESTIONS - - X - - - -
+            /VAR/RUN - - - X - - -
+                 DIR - - - S - - -
+           DHCPD.PID - - - S - - -
+               START - - - - X - -
+             SERVICE - - - - X - -
+               RIGHT - - - - X - -

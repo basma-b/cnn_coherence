@@ -1,0 +1,14 @@
+             COMMAND O - S - - -
+              LAPTOP O - - - - -
+             GATEWAY X - - - - -
+             DESKTOP S - - - - -
+            INTERNET X - - - - -
+                ROOT - O - - - -
+         PERMISSIONS - X - - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - O - - -
+                 ANY - - - S - -
+                THAT - - - - X -
+              PREFIX - - - - X -
+                SUDO - - - - X X
+            MATTHEWV - - - - - X
+          PERMISSION - - - - - X

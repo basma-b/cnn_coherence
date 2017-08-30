@@ -1,0 +1,12 @@
+             PROBLEM O S -
+            GRAPHICS X - -
+         PERMISSIONS - O -
+               SHARE - X -
+              FOLDER - O -
+             WINDOWS - X -
+               GROUP - X -
+                USER - S -
+           DIRECTORY - O -
+                UTIL - - S
+/VAR/LIB/SAMBE/USERSHARES - - O
+          PERMISSION - - S

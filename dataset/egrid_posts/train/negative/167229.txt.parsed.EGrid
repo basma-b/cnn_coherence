@@ -1,0 +1,15 @@
+               GROUP X - - - - - - -
+         PERMISSIONS O - - - - - - -
+               DRIVE X - - S - - - -
+                SUDO - X - - - - - -
+               CHGRP - X - - - - - -
+           GROUPNAME - O - - - - - -
+               ERROR - X - - - - - -
+               STATE - X - - - - - -
+           OPERATION - X - - - - - -
+                THAT - - X - - - - -
+                XARG - - - O - - - -
+              FORMAT - - - - X - - -
+               FAT32 - - - - X - - -
+             VERSION - - - - - - X -
+               1.2.3 - - - - - - - O

@@ -1,0 +1,27 @@
+                HELP S - - - - - -
+               START X - - - - - -
+            START-UP X - - - - - -
+            TERMINAL - X - X - - -
+                MINE - S - - - - -
+              WINDOW - X - - - - -
+             MANAGER - X - - - - -
+           SOMETHING - O - - - - -
+              WEIGHT - X - - - - -
+             DESKTOP - X - - - - -
+                 ENV - X - - - - -
+/ETC/XDG/LXSESSION/LXDE/AUTOSTART - S - S - - -
+                HTTP - O - - - - -
+//WIKI.LXDE.ORG/EN/LXSESSION - X - - - - -
+AUTOMATICALLY_START_SOME_APPLICATIONS_ON_LOGIN - X - - - - -
+                TYPE - X - X - - -
+                SUDO - X - X - - -
+                NANO - X - X - - -
+                FILE - X X X - - -
+             COMMAND - O - - - - -
+              FORMAT - - X - - - -
+             ENTRIES - - X - - - -
+                LINE - - - X - - -
+      /USR/BIN/XTERM - - - O O - -
+                 END - - - X - - -
+                WAHT - - - - - - S
+            FILENAME - - - - - - O

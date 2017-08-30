@@ -1,0 +1,14 @@
+              AND/OR S - - - - -
+              LAPTOP O - - - - -
+ ACPI_HIBERNATE=TRUE - S - - - -
+     ACPI_SLEEP=TRUE - S - - - -
+/ETC/DEFAULT/ACPI-SUPPORT - X - - - -
+               POWER - - X X - -
+             MANAGER - - O - - -
+             OPTIONS - - - O - -
+              SYSTEM - - - X - -
+                   > - - - S - -
+         PREFERENCES - - - O - -
+           MANGEMENT - - - X - -
+               SWEAR - - - - - X
+                WORD - - - - - O

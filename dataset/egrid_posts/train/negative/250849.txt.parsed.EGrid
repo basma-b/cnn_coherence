@@ -1,0 +1,17 @@
+                WORK X - - -
+        CRON/CRONTAB X - - -
+                THAT - S - -
+             0-59/30 - X - -
+                   * - X - -
+   /USR/SBIN/NTPDATE - X - -
+   0.CA.POOL.NTP.ORG - S - -
+        /ETC/CRONTAB - X - -
+                 NTP - O - -
+             NTPDATE - X - -
+              DAEMON - O - -
+                SYNC - X - -
+              KERNEL - - X -
+           OLDCONFIG - - X -
+            STEFANO_ - - - O
+               SOUND - - - S
+    SND-HDA-INTEL.KO - - - O

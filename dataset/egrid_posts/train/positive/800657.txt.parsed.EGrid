@@ -1,0 +1,13 @@
+           DIRECTORY O - - O - - - - -
+               USERS X - - X - - - - -
+             MACHINE X - - X - - - - -
+                THIS - X - - X - - - -
+               MKDIR - - X - - X - - -
+              RETURN - - X - - X - - -
+          PERMISSION - - S - - S - - -
+               /HOME - - X - - X - - -
+              /MEDIA - - X - - X - - -
+                SUDO - - O - - O - - -
+                ROOT - - X - - X - - -
+         EXPLANATION - - - - - - X - -
+                 MAN - - - - - - - - S

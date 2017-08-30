@@ -1,0 +1,11 @@
+                HELP X - - - -
+           XORG.CONF - X - - -
+                CANT - - - S -
+               CHMOD - - - X -
+                SUDO - - - X -
+                 VIM - - - X -
+  /ETC/X11/XORG.CONF - - - O -
+            TERMINAL - - - - O
+              SCREEN - - - - O
+             COMMAND - - - - O
+         APPLICATION - - - - S

@@ -1,0 +1,22 @@
+                CRON X - - X - -
+                 JOB X - - - - -
+                WONT S - - - - -
+               PLACE - O - - - -
+               -RW-R - X - - - -
+                ROOT - X - - - -
+             CONTENT - X - - - -
+                   * - X - O - -
+/VAR/WWW/STAGING/SCRIPTS/JOBS/MAILQUEUE.PHP - X - - - -
+                  -E - X - - - -
+                STAG - X - - - -
+            CRON.LOG - - X - - -
+               -BASH - - - X - -
+   /VAR/LOG/CRON.LOG - - - X - -
+                FILE - - - X - -
+           DIRECTORY - - - X - -
+                  CD - - - X - -
+           /VAR/LOG/ - - - X - -
+                SUDO - - - S - -
+             ENTRIES - - - O - -
+             NOTHING - - - S - -
+              SCRIPT - - - O - -

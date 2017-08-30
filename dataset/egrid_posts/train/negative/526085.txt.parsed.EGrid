@@ -1,0 +1,16 @@
+                 CPP O -
+               ERROR X -
+        ‘MEMSET’ S -
+               SCOPE X -
+                SUDO X -
+             APT-GET S -
+             SUPPORT - X
+                   > - S
+            UBUNTU+1 - X
+        DSL-PROVIDER - S
+             DEFAULT - X
+                 PPP - X
+              CONFIG - O
+/ETC/PPP/CHAP-SECRETS - S
+                CHAP - S
+              DETAIL - O

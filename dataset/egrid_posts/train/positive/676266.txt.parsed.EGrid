@@ -1,0 +1,6 @@
+                SUDO X -
+        /ETC/INITTAB O -
+                RULE X -
+              GKSUDO O -
+             COMMAND X -
+                ARCH - O

@@ -1,0 +1,10 @@
+             PACKAGE X - -
+               STUFF O - -
+           REBOOTING - - X
+                  CD - - X
+                  .. - - X
+   /ETC/DEFAULT/GRUB - - X
+                DISK - - X
+GRUB_CMDLINE_LINUX_DEFAULT= - - O
+           NOMODESET - - O
+ GRUB_CMDLINE_LINUX= - - O

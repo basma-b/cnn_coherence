@@ -1,0 +1,11 @@
+               MOUNT - X - - -
+                   | - S - - -
+              DEVICE - O - - -
+                SUDO - - X - -
+              UMOUNT - - X - -
+           /PATH/XXX - - S - -
+                 NFS - - O - -
+                 MUM - - - S -
+               CRASH - - - O -
+                DATA - - - O -
+              OUTPUT - - - - X

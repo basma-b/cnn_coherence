@@ -1,0 +1,12 @@
+             COMMAND X - - - - X -
+            DHCLIENT X X O - - X -
+                ETH0 X - - - - S -
+              EFFECT X - - - - - -
+              ANSWER - O - - - - -
+                 MAN - X - - - - -
+           SUPERUSER - - X - - - -
+       CONFIGURATION - - O - X - X
+            PROTOCOL - - O - - - -
+             REQUEST - - - O - - -
+              SERVER - - - S - - -
+                SUDO - - - - - X -

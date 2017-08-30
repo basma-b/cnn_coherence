@@ -1,0 +1,31 @@
+               MYSQL X - - - X - - - - - - -
+              UBUNTU X - - - - - - - - - - -
+                TIME - S - - - - - - - - - -
+             JALCINE - X - - - - - - - - - -
+                THAT - - - S O - X - - - - -
+         USERACCOUNT - - - O - - - - - - - -
+               ERROR - - - - X - - - - - - -
+               HY000 - - - - X - - - - - - -
+              SERVER - - - - X - - - - - - -
+              SOCKET - - - - X - - - - - - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK - - - - X - - - - - - -
+                   * - - - - - - X - - - - -
+                 JOB - - - - - - O - - - - -
+             SERVICE - - - - - - X - - - - -
+                FILE - - - - - - - X - - - X
+           DIRECTORY - - - - - - - X - - - -
+             PACKAGE - - - - - - - X - - - -
+              INSTAL - - - - - - - O - - - -
+             VERSION - - - - - - - - X - - -
+/ETC/APT/SOURCES.CONF - - - - - - - - - O - -
+       KERNEL-PANICS - - - - - - - - - - - O
+             DEFAULT - - - - - - - - - - - X
+              KERNEL - - - - - - - - - - - X
+              CONFIG - - - - - - - - - - - S
+                 IMO - - - - - - - - - - - X
+     NETWORK-LOGGERS - - - - - - - - - - - O
+               STORE - - - - - - - - - - - X
+              OUTPUT - - - - - - - - - - - O
+              CAMERA - - - - - - - - - - - X
+          BUG-REPORT - - - - - - - - - - - X
+                SAME - - - - - - - - - - - O

@@ -1,0 +1,23 @@
+                HOME O - - -
+          PERMISSION O O - -
+                USER X - - -
+            WWW-DATA O - - -
+               GROUP X - - -
+         PUBLIC_HTML S X - -
+           DIRECTORY O - - -
+               WORLD X - - -
+            READABLE X - - -
+               OWNER O - - -
+       /HOME/ALNOKTA O - - -
+/HOME/ALNOKTA/PUBLIC_HTML S - - -
+           /~ALNOKTA O O - -
+              SERVER X X - -
+             ALNOKTA - X O -
+               THATS - S - -
+               /HOME - X - -
+                DRWX - X - -
+                HTTP - X X -
+ //LOCALHOST~ALNOKTA - X - -
+                WORK - - O -
+                   * - - S -
+                NEWS - - - S

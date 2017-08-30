@@ -1,0 +1,14 @@
+         PERMISSIONS X X - - X
+               DRIVE X X O - -
+                ROOT X X - - -
+                USER S S - - -
+                   A - - S - -
+                SUDO - - S - -
+               CHMOD - - X - -
+               /PATH - - O - -
+           /DEV/SDA5 - - X - -
+               POINT - - O - -
+            PARTITON - - X - -
+                ONLY - - - - X
+             PROBLEM - - - - O
+              DRIVER - - - - S

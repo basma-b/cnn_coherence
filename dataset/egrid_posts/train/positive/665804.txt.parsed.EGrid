@@ -1,0 +1,11 @@
+XSERVER-XORG-VIDEO-1.0 S - - - - - -
+                  ID S - - - - - -
+              UPDATE - S - - - - -
+             PACKAGE - X X - - - -
+            CONFLICT - X - - - - -
+                KIND - - - - - X -
+               THING - - - - - X -
+                 FIX - - - - - O -
+             UPGRADE - - - - - - S
+             WOULDNT - - - - - - S
+            ANYTHING - - - - - - O

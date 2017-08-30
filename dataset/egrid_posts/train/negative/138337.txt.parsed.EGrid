@@ -1,0 +1,14 @@
+           PARTITION X X - - -
+                BIOS S - - - -
+                BOOT X - - - -
+              LOADER X - - - -
+             DISTROS - O - - -
+               DRIVE - X - - -
+                GRUB - S - - -
+                LOAD - O - - -
+                 MBR - X - - -
+                THIS - X S - -
+        INSTALL-GRUB - - X - -
+                 UMM - - - X -
+        GRUB-INSTALL - - - X -
+               DUNNO - - - - X

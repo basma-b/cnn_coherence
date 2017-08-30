@@ -1,0 +1,10 @@
+             CHIPSET S - - - - - - -
+               LSPCI - S - - - - - -
+              UBUNTU - S - - - - - -
+              DRIVER - O - - - - - -
+              OUTPUT - O - - - - - -
+             COMMAND - X S - - - - -
+            HARDWARE - - O - - - - -
+                 PCI - - X - - - - -
+                 BUS - - X - - - - -
+                 KDE - - - - - - - O

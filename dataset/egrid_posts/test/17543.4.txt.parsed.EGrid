@@ -1,0 +1,15 @@
+                SUDO S - - -
+           /DEV/SDXY S - - -
+         JOURNALLING O - - -
+              BACKUP O - - -
+                BOOT X - - -
+               DRIVE O - - -
+                LIVE - X - -
+               GUEST - X - -
+                 ISO - - O -
+         BOOT-DEVICE - - X -
+                 ONE - - - S
+                  HD - - - O
+                GRUB - - - X
+      RADEON.AUDIO=1 - - - X
+               CHNGE - - - X

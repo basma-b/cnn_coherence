@@ -1,0 +1,24 @@
+               ISSUE S - - - - - - -
+             PROFTPD X - - - - - - -
+          CONNECTION S - - - - - - -
+              CONFIG X - - - - - - -
+               CHECK O - - - - - - -
+                HOST X - - X - - - -
+              SERVER - X X O - - - -
+                  IP - S - - - - - -
+    /ETC/HOSTS.ALLOW - - X - - - - -
+                THAT - - - O - - - -
+                  DO - - - O - - - -
+             ADDRESS - - - X - - - -
+                LINE - - - X - X - -
+                   * - - - X - - - -
+                 ALL - - - X - - - -
+                 E.G - - - - O - - -
+         192.168.0.5 - - - - - S - -
+           SEVERNAME - - - - - X - -
+                SUDO - - - - - X - -
+/ETC/INIT.D/NETWORKING - - - - - X - -
+               ERROR - - - - - O - -
+               SERER - - - - - X - -
+                COMP - - - - - X - -
+             MACHINE - - - - - - - X

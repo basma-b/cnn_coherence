@@ -1,0 +1,12 @@
+                 ALL S S -
+                FILE X O -
+              DELETE X X -
+             FOLDERS S S -
+                  .. O O -
+             DESKTOP - X -
+                DATA - S -
+         FILEBROWSER - X -
+                   + - X -
+                   H - O -
+           EXCEPTION - - O
+                THIS - - X

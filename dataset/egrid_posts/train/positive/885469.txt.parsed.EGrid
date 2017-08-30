@@ -1,0 +1,13 @@
+            QUESTION X - - - - -
+                COPY X - - - X -
+             WINDOWS X - - - - -
+               SHARE X - - - - -
+                CIFS S - - - - -
+ PRESERVE=TIMESTAMPS - S - - - -
+                FILE - X - - X -
+         DIRECTORIES - X - - - -
+                HELP - - S - - -
+                CPIO - - O - X -
+                TREE - - - - X -
+                USER - - - - - X
+                DATA - - - - - O

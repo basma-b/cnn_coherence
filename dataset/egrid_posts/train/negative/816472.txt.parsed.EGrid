@@ -1,0 +1,14 @@
+             COMMAND X - - -
+           DIRECTORY X - - -
+           STRUCTURE X - - -
+                  CP - X - -
+                  EG - X - -
+/HOME/NEWDIRECTORY/MYFILE - X - -
+                 MAN - X - -
+         PERSONALITY - O - -
+                ROOT - - S -
+                SUDO - - X -
+                  .. - - O -
+            ANYTHING - - S -
+            EVERYONE - - - X
+               USSER - - - S

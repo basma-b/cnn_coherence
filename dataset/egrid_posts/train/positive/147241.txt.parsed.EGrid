@@ -1,0 +1,11 @@
+           PARTITION X - - - - -
+                BOOT X - X - - -
+                GRUB X - X - - X
+          DEVICE.MAP X - - - - -
+               ERROR - - X - - -
+             MESSAGE - - O - - -
+                DISK - - X - - -
+              SECTOR - - S - - -
+                 HD0 - - S - - -
+             INSTALL - - - - - X
+           /DEV/HDA1 - - - - - X

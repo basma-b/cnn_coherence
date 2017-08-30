@@ -1,0 +1,22 @@
+/VAR/TMP/XORG.CONF.XXLF1V8F X - - - - - - - - - - - - -
+/VAR/TMP/XORG.CONF/XXXXXXXX - - - X - - - - - - - - - -
+             DRIVERS - - - - O - - - - - - - - -
+             MONITOR - - - - - X - - - - - - - -
+                ISNT - - - - - S - - - - - - - -
+            TERMINAL - - - - - - S - - - - - - -
+            PROGRAMS - - - - - - O - - - - - - -
+/PATH/TO/FILE/TO/EDIT.TXT - - - - - - X - - - - - - -
+                FILE - - - - - - - O - - - - - -
+                SUDO - - - - - - - - X - - - - -
+                  .. - - - - - - - - X - - - - -
+              EDITOR - - - - - - - - X - - - - -
+                  VI - - - - - - - - - X - - - -
+                NANO - - - - - - - - - - X - - -
+                PICO - - - - - - - - - - - X - -
+              NOTICE - - - - - - - - - - - - - X
+              BOOTOM - - - - - - - - - - - - - X
+                  ^H - - - - - - - - - - - - - X
+                  ^X - - - - - - - - - - - - - O
+                   ^ - - - - - - - - - - - - - S
+                CTRL - - - - - - - - - - - - - X
+                 KEY - - - - - - - - - - - - - O

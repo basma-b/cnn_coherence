@@ -1,0 +1,11 @@
+                LINE O - - -
+           LOGROTATE X - - -
+   /VAR/LOG/MESSAGES O - - -
+          EVERYTHING - O - -
+            /VAR/LOG - X - -
+      /ETC/LOGROTATE - - S -
+               THERE - - - S
+            ANYTHING - - - O
+             MESSAGE - - - X
+           /VAR/LOG/ - - - X
+    /VAR/LOGROTATE.D - - - X

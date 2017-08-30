@@ -1,0 +1,20 @@
+                EXIT X - - - - -
+                OOPS S - - - - -
+               CHMOD O - - - - -
+/ETC/SSH/SSHD_CONFIG S - S - - -
+               SETUP X - - - - -
+              PUBKEY X - O - - -
+                AUTH O - - - - -
+                THAT - X - - - -
+               SHARE - O - - - -
+              ACCESS - X - - - -
+         SSHD_CONFIG - X - - - -
+                 CAT - - X - - -
+PUBKEYAUTHENTICATION - - S - - -
+                -VVV - - X - - -
+                HTTP - - X - - -
+                 KEY - - X - - X
+                TYPE - - S - - -
+            QUESTION - - - O - -
+            PASSWORD - - - X - -
+          PASSPHRASE - - - - - X

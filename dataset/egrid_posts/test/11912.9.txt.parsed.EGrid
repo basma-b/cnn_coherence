@@ -1,0 +1,16 @@
+              RADEON O X -
+             DRIVERS X X -
+                BOTH - O -
+             SECTION - X -
+               FGLRX - X -
+       FGLRX-UPDATES - X -
+                  HD - X -
+                SAME - - X
+              UBUNTU - - X
+              CENTOS - - X
+                 BOX - - X
+             NETWORK - - X
+             MANAGER - - O
+                 DNS - - O
+                FILE - - X
+/ETC/SYSCONFIG/NETWORKING/DEVICES/IFCFG-ETH0 - - X

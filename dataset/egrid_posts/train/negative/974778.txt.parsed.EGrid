@@ -1,0 +1,17 @@
+             COMMAND X - - - -
+                LINE X - - - -
+                   * S - - - -
+             OPTIONS O - - - -
+               DRIVE X - - - -
+                TIME - O - - -
+               MOUNT - X - - -
+           /DEV/HDA1 - X - - -
+       /MNT/WINDOWS/ - S - - -
+                BOOT - X - - -
+                HTTP - - X - -
+//WWW.UBUNTULINUX.NL/FILES/WINMAC_FSTAB - - S - -
+             WINDOWS - - O - -
+                 MAC - - X - -
+            PARTIONS - - S - -
+             APT-GET - - X - -
+                PAGE - - - - X

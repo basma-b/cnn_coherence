@@ -1,0 +1,15 @@
+         NDISWRAPPER O X - X - -
+              KERNEL S - - - - -
+                THIS X - - - - -
+            WIRELESS - - X - - -
+                CARD - - S - - -
+            BROADCOM - - O - - -
+        NDISWRAPPERS - - X - - -
+               HOARY - - X - - -
+              DRIVER - - X - - X
+             BCMWLL5 - - O - - -
+            MODPROBE - - - X - -
+                  -L - - - X - -
+                FILE - - - X - -
+             PRESENT - - - - - X
+            HARDWARE - - - - - X

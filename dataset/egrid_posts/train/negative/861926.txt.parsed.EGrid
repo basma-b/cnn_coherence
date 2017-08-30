@@ -1,0 +1,5 @@
+ NOUVEAU.BLACKLIST=1 X - - -
+              KERNEL X - - -
+                LINE X - - -
+                GRUB X - - -
+                YEAH - - - X

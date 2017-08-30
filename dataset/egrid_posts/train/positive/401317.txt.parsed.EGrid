@@ -1,0 +1,20 @@
+                  IM S - - - -
+               HARDY S X - - -
+              KERNEL O X - - X
+               AMD64 X - - - -
+               GUIDE X - - - -
+               HTTPS X - - - -
+//HELP.UBUNTU.COM/COMMUNITY/KERNEL/COMPILE X - - - -
+DEB_BUILD_OPTIONS=PARALLEL=2 X - - - -
+         AUTOBUILD=1 X - - - -
+          NOEXTRAS=1 S - - - -
+            FAKEROOT X - - - -
+        DEBIAN/RULES X - - - -
+             PACKAGE O - - - O
+                MISS X - - - -
+             SOMEONE X - - - -
+               POINT X - - - -
+               GUTSY - X - - -
+                 DEB - X - - -
+              CUSTOM - - - - X
+              FUTURE - - - - X

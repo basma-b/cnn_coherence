@@ -1,0 +1,10 @@
+       IPTABLES-SAVE S - - - - -
+             OPTIONS O - - - - -
+             ENTRIES X - - - - -
+            CONTRACK X - - - - -
+                THAT - O X - - S
+                 BUG - S O - - -
+                 ANY - - S - - -
+            ANYTHING - - - O - -
+                WIRE - - - - O -
+            DANTE123 - - - - - X

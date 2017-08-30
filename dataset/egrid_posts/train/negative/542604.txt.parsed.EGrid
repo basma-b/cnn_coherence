@@ -1,0 +1,9 @@
+           CHKCONFIG O - -
+                  IM - S -
+         UPDATE-RC.D - S -
+          EQUIVALENT - O -
+                 ONE - O -
+        SYSC-RC.CONF - X -
+               COLOR - X -
+                CALL - O -
+                THAT - - O

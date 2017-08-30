@@ -1,0 +1,24 @@
+            QUESTION X - - - - -
+              TUNNEL X X - - - X
+                 SSH - S - - - -
+              ANSWER - X - - - -
+                HTTP - O - - - -
+/ETC/SSH/SSHD_CONFIG - X - - - -
+              UBUNTU - S - - - -
+               THERE - - S - - -
+              OPTION - - O - O X
+                NAME - - S - - -
+                 ALL - - - - X -
+  ALLOWTCPFORWARDING - - - - S -
+        PERMITTUNNEL - - - - X -
+                 MAN - - - - X -
+         SSHD_CONFIG - - - - X -
+                LIST - - - - O -
+               ISSUE - - - - S -
+              PEOPLE - - - - S -
+               PROXY - - - - X -
+               USERS - - - - - X
+              BOTTOM - - - - - S
+              CONFIG - - - - - X
+               GROUP - - - - - O
+                 TCP - - - - - O

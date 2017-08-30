@@ -1,0 +1,13 @@
+              CRON.D X - X - - - - -
+               CHECK - X - - - - - -
+              MINUTE - X - - - - - -
+                TIME - - X - - - - -
+                CRON - - X - S - - -
+                FILE - - X - - - - -
+                MAIL - - - X O - - -
+               USERB - - - - S - - -
+                 JOB - - - - S - - -
+               NIGHT - - - - O - - -
+             NIRVANA - - - - X - - -
+       MAIL-DELIVERY - - - - - X - -
+                  NO - - - - - - - X

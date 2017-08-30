@@ -1,0 +1,9 @@
+/ETC/INIT.D/NETWORKING S - - - -
+              SERVER S - - - -
+             MESSAGE X - - - -
+             COMMAND - X - - -
+                SUDO - - X - -
+             SERVICE - - X - -
+             NETWORK - - S - -
+          START/STOP - - O - -
+            INSTANCE - - X - -

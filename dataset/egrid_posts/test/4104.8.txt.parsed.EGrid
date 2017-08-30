@@ -1,0 +1,15 @@
+                DATA S - - - - -
+                DISK X - - - - -
+                  DD O - - - - -
+                  MB - O - - - -
+         CONTROLLERS - - - X - -
+             DRIVERS - - - X - -
+                 MIX - - - S - -
+               INTEL - - - X - -
+           NON-INTEL - - - X - -
+                PORT - - - X - -
+                MASK - - - X - -
+            REGISTER - - - S - -
+               ISSUE - - - O - -
+          DISCUSSION - - - - S -
+                HTTP - - - - - X

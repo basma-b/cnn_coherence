@@ -1,0 +1,10 @@
+          STATISTICS O - - - - - -
+              DEVICE S - - - S - -
+               CAUSE O - - - - - -
+           INTERRUPT X S - - - - -
+                 IRQ - X - - - - -
+              KERNEL - - - - S - -
+           KSOFTIRQD - - - - S - -
+                SPEW - - - - X - -
+           INTERUPTS - - - - O - -
+             PROBLEM - - - - O - -

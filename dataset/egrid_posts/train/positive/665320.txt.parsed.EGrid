@@ -1,0 +1,16 @@
+                  DD X - X - - - - S
+        IF=/DEV/ZERO X - - - - - - -
+        OF=/DEV/SDAX X - - - - - - -
+                DATA O - - O - - - -
+           PARTITION X - X - - - S -
+                SDAX X X - - - - - -
+            ANYTHING - X - O - - - -
+         /DEV/RANDOM - - O - X - - -
+           /DEV/SDAX - - S - - - X -
+        IF=/DEV/SDAX - - X - - - - -
+OF=/TMP/PARTITIONFILE.DD - - O - - - - -
+            FILESIZE - - S - - - - -
+                SAME - - O - - - - -
+                  .. - - X - - - O -
+              ANYONE - - - S - - - -
+                THAT - - - - - - O -

@@ -1,0 +1,15 @@
+                   ' S S S - - - - -
+              ACCESS O O O - - - - -
+                 DVD X X X - - - S -
+                USER X X X - - - - X
+          PERMISSION X X X S - - - -
+               FSTAB - S S S - - - -
+                HTTP - S S S - - - -
+               MOUNT - - - X - - - -
+         PERMISSIONS - - - - X - - X
+            SOMEBODY - - - - O - - -
+           UMASK=022 - - - - X - - -
+               UMASK - - - - - O - -
+                CANT - - - - - - - X
+               POINT - - - - - - - X
+               LINUX - - - - - - - X

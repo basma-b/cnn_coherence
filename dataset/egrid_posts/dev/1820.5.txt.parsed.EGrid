@@ -1,0 +1,15 @@
+           PARTITION X - - - - -
+                IDEA X - - - - -
+            /VAR/TMP - X - - - -
+               USERS - - S - - -
+                HOME - - X X - -
+              SYSTEM - - X - - S
+               FILES - - X - - -
+                USER - - S - - -
+            .XINITRC - - X - - -
+           .XSESSION - - O - - -
+                NOTE - - X - - -
+           DIRECTORY - - - X - -
+                THAT - - - - S -
+                FILE - - - - O -
+                TEXT - - - - X -

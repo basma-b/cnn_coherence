@@ -1,0 +1,13 @@
+                HELP S - - - - - - - -
+               USERS - S - - - - - - -
+               GROUP - X X - - - - - -
+             MACHINE - - - O - - - - -
+             ACCOUNT - - - X - - - - -
+            ANYTHING - - - - - X - - -
+                BOOT - - - - - X - - -
+              LIVECD - - - - - X - - -
+              CHROOT - - - - - O - - -
+           PARTITION - - - - - X - - -
+                ROOT - - - - - O - - -
+              THINGS - - - - - - O - -
+              THANKS - - - - - - - - X

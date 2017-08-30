@@ -1,0 +1,10 @@
+                 KEY O - - - -
+             GEN-KEY X - - - -
+                  ID - O - - X
+              GPGKEY - X - - -
+         ENVIRONMENT - X - - -
+            VARIABLE - O - - -
+                 GPG - - - X -
+               CHECK - - - X -
+           LIST-KEYS - - - X -
+              NUMBER - - - - X

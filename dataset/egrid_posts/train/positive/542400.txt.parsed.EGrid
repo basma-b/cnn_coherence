@@ -1,0 +1,26 @@
+GSTREAMER-PROPERTIES S X - - - - -
+               GCONF S - - - - - -
+                 THE - O - - - - -
+               SOUND - X - - - - -
+         PREFERENCES - S - - - - -
+              MOVIES - X - - - - -
+               MUSIC - X - - - - -
+              OUTPUT - S - - - - -
+                ALSA - X - - - - -
+          EVERYTHING - O - - - - -
+GNOME-SOUND-PROPERTIES - X - - - S -
+               TOTEM - X - - - - -
+                   / - S - - - - -
+                TEST - X - - - - -
+              BUTTON - X - - - - -
+                WORK - O - - - - -
+               PANEL - X - - - - -
+                THAT - - S - - - -
+                 ERM - - X - - - -
+               THING - - - O - - -
+          PULSEAUDIO - - - - X S -
+                TIME - - - - - X -
+                CARE - - - - - O -
+             SUPPORT - - - - - O -
+                  XD - - - - - O -
+                  OK - - - - - - X

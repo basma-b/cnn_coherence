@@ -1,0 +1,14 @@
+                 ALL S - - -
+             COMMAND O - - -
+             ADDRESS X - - -
+                ROUT X X - -
+               TABLE X O - -
+            IFCONFIG X - - -
+               ROUTE X S O -
+               TRACE X - X -
+               RIGHT O - - -
+              KERNEL - X - -
+          TRACEROUTE - - S -
+                   U - - - S
+                LIFE - - - X
+               SAVER - - - O

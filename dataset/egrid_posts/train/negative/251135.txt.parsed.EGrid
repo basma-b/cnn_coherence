@@ -1,0 +1,16 @@
+           PARTITION X X -
+                UUID X - -
+               FSTAB X - -
+               FAT32 - X -
+                WONT - S -
+                SUDO - S -
+               ERROR - O -
+                TYPE - S -
+              OPTION - S -
+          SUPERBLOCK - S -
+           /DEV/HDA4 - X -
+            CODEPAGE - O -
+               FDISK - S -
+                  -L - O -
+               OTHER - - S
+                GUID - - X

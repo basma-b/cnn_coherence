@@ -1,0 +1,18 @@
+             VERSION O - - -
+               HTTPS X X - -
+//LAUNCHPAD.NET/UBUNTU/+PPAS X - - -
+NAME_FILTER=FIREFOX-3.6 - X - -
+//LAUNCHPAD.NET/~MOZILLATEAM/+ARCHIVE/FIREFOX-STABLE - S - -
+                REPO - O - -
+                SOME - X - -
+        INSTALLATION - X - -
+                  FF - S - -
+             REMOVAL - O - -
+             FIREFOX - X - -
+                  .. - X - -
+        DEPENDENCIES - - S -
+                 PPA - - O -
+        SOURCES.LIST - - X -
+                 CAT - - - X
+          /ETC/ISSUE - - - X
+                ^^^^ - - - X

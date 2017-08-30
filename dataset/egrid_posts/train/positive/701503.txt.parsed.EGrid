@@ -1,0 +1,12 @@
+             APACHE2 O - - - -
+                 PHP S - - - -
+            DOWNLOAD X O - - -
+               CHECK O - - - -
+           PHP5.CONF O - - - -
+         SUGGESTIONS O - - - -
+                DONT - X - - -
+             MESSAGE - O - - -
+            /VAR/WWW - - X - -
+             RESTART - - - - S
+              APACHE - - - - O
+         POSTINSTALL - - - - X

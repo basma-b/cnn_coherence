@@ -1,0 +1,28 @@
+                 ONE X - - - - - - - - - -
+              UBUNTU - O - - - - - - - - -
+           PARTITION - O - - - - - - - - -
+                SWAP - X - - - - - - - - -
+               SPACE - X - - - - - - - - -
+                THAT - - X - - - S - - - -
+                SUDO - - - - X - X - - - -
+                  RM - - - - X - - - - - -
+/VAR/CACHE/APT/ARCHIVES/ - - - - X - X - - - -
+             APT-GET - - - - S - - - S - -
+        DIST-UPGRADE - - - - O - - - O - -
+                THIS - - - - S - - - - - -
+                 NON - - - - - S - - - - -
+                TIME - - - - - - O - - - -
+                DONT - - - - - - S - - - -
+           DIRECTORY - - - - - - O - - - -
+             CONTENT - - - - - - X - - - -
+               MKDIR - - - - - - X - - - -
+/VAR/CACHE/APT/ARCHIVES/PARTIAL - - - - - - O - - - -
+               THING - - - - - - X - - - -
+             UPGRADE - - - - - - - O - - -
+                DPKG - - - - - - - O - - -
+             PACKAGE - - - - - - - O - O -
+                DIST - - - - - - - X - - -
+                THEN - - - - - - - - X - -
+               SAMBA - - - - - - - - X - -
+/VAR/CACHE/ARCHIVES/ - - - - - - - - - X -
+                LUCK - - - - - - - - - - X

@@ -1,0 +1,7 @@
+           PARTITION O - - -
+           /DEV/SDA5 - O - -
+           ETC/FSTAB - X - -
+           /ETC/MTAB - X - -
+              ANYONE - X - -
+                SUDO - - S X
+         /MOUNTPOINT - - O -

@@ -1,0 +1,28 @@
+               ISSUE O - - - - - - - - - -
+              K9COPY X O - - - - - - - - -
+          LIBDVDREAD X - - - - - - - - - -
+                 DVD - O - - - - - - - - -
+               MENUS - S - - - - - - - - -
+               ERROR - O - X - - - - - - -
+             ANYBODY - - S - - - - - - - -
+            ANYTHING - - O - - - - - - - -
+                THIS - - X - - - - - - - -
+             MESSAGE - - - S - - - - - - -
+             CONSOLE - - - X - - - - - - -
+              SYSTEM - - - - S - - - - - -
+              DEBIAN - - - - X - - - - - -
+          SARGE/ETCH - - - - O - - - - - -
+              ERRORS - - - - - X - - - - -
+                 URL - - - - - X - - - - -
+               FLOOD - - - - - - X - - - -
+                   | - - - - - - - - S - -
+                GREP - - - - - - - - X - -
+             COMMAND - - - - - - - - O X -
+                 ALL - - - - - - - - O X -
+               FLASH - - - - - - - - - O O
+             PLUGINS - - - - - - - - - X -
+              PLUGIN - - - - - - - - - X -
+                  CD - - - - - - - - - - X
+/USR/LIB/FIREFOX/PLUGINS - - - - - - - - - - X
+                  LN - - - - - - - - - - X
+~/.MOZILLA/PLUGINS/LIBFLASHPLAYER.SO - - - - - - - - - - S

@@ -1,0 +1,9 @@
+/ETC/APT/SOURCE.LIST O - - - -
+                LINE - O - - -
+                  CD - X - - -
+                SUDO - - X - -
+             APT-GET - - S - -
+              UPDATE - - X - -
+               PATCH - - S - -
+               GENII - - - - S
+              OTHERS - - - - S

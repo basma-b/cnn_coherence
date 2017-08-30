@@ -1,0 +1,10 @@
+          ANILOMAKER X - - - -
+               CHMOD X - - - -
+                 A+X S - - - -
+ /ETC/SAMBA/SMBUSERS S - - - -
+                  .. O - - - -
+             ANYBODY X - - - -
+            SMBUSERS - O - - X
+            ANYTHING - O - - -
+                SUDO - - - - X
+            UPDATEDB - - - - X

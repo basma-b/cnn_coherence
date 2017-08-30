@@ -1,0 +1,17 @@
+             COMMAND O O X - - -
+                LINE X - X - - -
+                 PHP X - - - - -
+              UBUNTU X - - - - -
+                PIPE X - - - - -
+              OUTPUT O - - - - -
+                TEXT X - - - - -
+                 LOG X - - - - -
+          PERMISSION - S - - - -
+               WRITE - O - - - -
+                FILE - X - - - -
+                SUDO - O - X - -
+             ACCOUNT - - X - - -
+                   | - - - X - -
+                 TEE - - - X - -
+             LOGFILE - - - X - -
+                THAT - - - - - O

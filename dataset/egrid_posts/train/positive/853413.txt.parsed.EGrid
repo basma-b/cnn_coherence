@@ -1,0 +1,14 @@
+            FIREWALL S - - - - - - - -
+                  IP - X - - X - - - -
+                SAME - X - - - - - - -
+            IFCONFIG - - O - - - - - -
+       CONFIGURATION - - X - - - - - -
+              ROUTER - - - X X - - - -
+              OPTION - - - X - - - - -
+                 SSH - - - - O - - - -
+            IPTABLES - - - - - O - - X
+               THERE - - - - - S - - -
+           SOMETHING - - - - - O - - -
+                DROP - - - - - - X - -
+           DIRECTION - - - - - - - - X
+             PROBLEM - - - - - - - - O

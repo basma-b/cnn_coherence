@@ -1,0 +1,26 @@
+                 MD5 X - - - - - - - - - - - - -
+UBUNTU-12.04-DESKTOP-AMD64.ISO S - - - - - - - - - - - - -
+128F0C16F4734C420B0185A492D92E52 O - - - - - - - - - - - - -
+                LILO X - - - X - - - - - O - - -
+                BOOT X - - X X - - - X X - - - -
+              LOADER O - - O - - - - - - - - - -
+                THAT - O - - - - - - - - - - - -
+           SLACKWARE - X - - - - - - - - - - - -
+              FORMAT - - X S - - - - - - - - - -
+           PARTITION - - O - - - - - - - - - - -
+             PROBLEM - - - S - - - - - - - - - -
+          FILESYSTEM - - - S - - - - - - - - - -
+                 MBR - - - X - X - - - - X - - -
+                  DD - - - - - O - - - - - - - -
+               DRIVE - - - - - - X - X X - - - -
+                 AER - - - - - - - - X - - - - -
+              REASON - - - - - - - - - - X - - -
+                GRUB - - - - - - - - - - S O - -
+                  ID - - - - - - - - - - - S - -
+                 FIX - - - - - - - - - - - X - -
+               GUIDE - - - - - - - - - - - X - -
+           REINSTALL - - - - - - - - - - - X - -
+                DATE - - - - - - - - - - - - - X
+                 LIB - - - - - - - - - - - - - S
+                LINE - - - - - - - - - - - - - S
+      LIBIRECOVERY.A - - - - - - - - - - - - - S

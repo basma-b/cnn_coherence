@@ -1,0 +1,16 @@
+           OWNERSHIP X - - - -
+              FOLDER X - - - -
+                ROOT X X - X -
+                USER X - X - -
+                  -R - O X - X
+               OWNER - O - - -
+                LIST - X - - -
+                 TRY - - X - -
+              SYNTAX - - X - -
+                 NCA - - - X O
+         /MNT/MEDIA/ - - - X -
+               CHOWN - - - - X
+                SUDO - - - - X
+           DIRECTORY - - - - S
+             COMMAND - - - - S
+          /MNT/MEDIA - - - - X

@@ -1,0 +1,11 @@
+            NLS=UTF8 O X -
+             OPTIONS X - -
+                 SOO X - -
+          UMASK=0222 - X -
+               .DEBS - - S
+                BOOT - - X
+                ROOT - - X
+              COURSE - - X
+                SUDO - - X
+/OPT/QUASAR/BIN/QUASAR_SETUP - - X
+                USER - - X

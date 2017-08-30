@@ -1,0 +1,28 @@
+                 KEY S - - - - -
+                ACPI X - - - - -
+              SYSTEM X X - - - -
+              SEARCH - O - - - -
+               THERE - S - - S -
+         WORKAROUNDS - S - - - -
+   /ETC/DEFAULT/GRUB - O - - - -
+                LINE - O X - - -
+           SOMETHING - X - - - -
+                ROOT - O - - - -
+ACPI_BACKLIGHT=VENDOR - O - - - -
+         UPDATE-GRUB - O - - - -
+          DIFFICULTY - X - - - -
+                GRUB - X - - - -
+              KERNEL - X - - - -
+                  .. - X - - - -
+                  IM - X - - - -
+               START - X - - - -
+               LINUX - X - - - -
+              GKSUDO - X - - - -
+               GEDIT - X - - - -
+                 ADD - - X - - -
+                THIS - - S - - -
+             COMMAND - - O - - -
+              NUMBER - - - - O -
+                ONES - - - - X -
+                 ONE - - - - - O
+//WIKI.KUBUNTU.ORG/KERNEL/DEBUGGING/BACKLIGHT - - - - - X

@@ -1,0 +1,9 @@
+              SOURCE X - - -
+          /ETC/FSTAB X - - -
+              SYSTEM S - - -
+              CONFIG O - - -
+               SHARE - - O -
+UBUNTU-RESTRICTED-EXTRAS - - - S
+               FLASH - - - S
+              BUNDLE - - - O
+             PACKAGE - - - X

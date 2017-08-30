@@ -1,0 +1,20 @@
+              GOTCHA S - - - - -
+             ADAPTER X - - - - -
+                PLUG O - - - - -
+                   A - S - - - -
+             NDISGTK - O - - - -
+        RESERVATIONS - O - - - -
+            HARDWARE - X - - - -
+             PRESENT - O - - - -
+                 INF - X - - - -
+                 SYS - X - - - -
+                FILE - X - S S -
+               ERROR - - O S - -
+              MODULE - - S - - -
+                LOAD - - O - - -
+             WARNING - - - X X -
+              CONFIG - - - X X -
+             RELEASE - - - X X -
+/ETC/MODPROBE.D/NDISWRAPPER - - - - X -
+               .CONF - - - - - O
+                 DIR - - - - - O

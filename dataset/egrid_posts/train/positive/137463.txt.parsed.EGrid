@@ -1,0 +1,36 @@
+                PORT O - - - X O - - - -
+                BIOS X - - - - - - - - -
+                UART X - - X - - - - - -
+                NONE O - - S - - - - - -
+               THERE S - - - - - - - - -
+                 WAY O - - X X - - - - -
+              DRIVER O X - - - - S - - -
+                  TU X - - - - - - - - -
+                 USE S - - - - - - - - -
+                 0-9 - - X - - - - - - -
+                TTYS - - S - - - - - - -
+                MORE - - X - - - - - - -
+              DEVICE - - O - - - - - - -
+               TTYS1 - - - O - - - - - -
+                COM2 - - - X - - - - - -
+             COMMAND - - - S - - O - - -
+             MODULES - - - S - - - - - -
+        /ETC/MODULES - - - X - - - - - -
+                LOAD - - - O - - - - - -
+              SERIAL - - - - X - - - - -
+               LINUX - - - - O - - - - -
+                FILE - - - - O - - - - -
+                CASE - - - - - X - - - -
+               THOSE - - - - - - X - - -
+                 ONE - - - - - - O - - -
+                BOTH - - - - - - X - - -
+              KERNEL - - - - - - X - - -
+              MODULE - - - - - - X - - -
+/ETC/INIT.D/SETSERIAL_DISABLE - - - - - - X - - -
+                LINK - - - - - - O - - -
+/ETC/RC2.D/S10SETSERIAL_DISABLE - - - - - - X - - -
+                 OK. - - - - - - X - - -
+               SOUND - - - - - - X - - -
+                 TIP - - - - - - - X - -
+          S20MAKEDEV - - - - - - - - - X
+S30SETSERIAL_DISABLE - - - - - - - - - O

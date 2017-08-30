@@ -1,0 +1,10 @@
+             COMMAND X - -
+           DIRECTORY O - -
+             DIRNAME - S -
+           WILDCARDS - O -
+                 NSM - O -
+                FILE - O -
+           /DIR/NAME - X -
+                  CD - X -
+                   * - O -
+           RECURSIVE - O -

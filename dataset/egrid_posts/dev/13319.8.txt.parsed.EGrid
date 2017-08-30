@@ -1,0 +1,15 @@
+                  -E O -
+                   * X -
+/HOME/ACAP/BACKUPS/ACAPBACKUP.SH S -
+                ROOT O -
+              SCRIPT S -
+              BACKUP O -
+                USER X -
+                FILE O O
+                CRON X -
+             PROCESS X -
+             PACKAGE - S
+             MANAGER - O
+              OUTPUT - X
+                TEXT - X
+              FOLDER - X

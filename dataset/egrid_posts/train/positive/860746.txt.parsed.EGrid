@@ -1,0 +1,30 @@
+            QUESTION X - - - - - - - - - - - -
+               FGLRX X - - - - - - - - - - - -
+             DRIVERS O - - - - - - - - - - - -
+                 ATI X - - - X - - - - - - - -
+                  HD X - - - - - - - - - - - -
+            GRAPHICS X - - - - - - - - - - - -
+                CARD X - - - - - - - - - - - -
+         PERFORMANCE - X O - - - - - - - - - -
+                 BUG - X - - - - - - - - - - -
+              SOURCE - - - X X - - - - - - - -
+              DRIVER - - - X X - - - - - - - -
+                 USE - - - X - - - - - - - - -
+                LINK - - - - - - O - - - - - -
+              PARDON - - - - - - X - - - - - -
+               GUIDE - - - - - - - O - - - - S
+            LANGUAGE - - - - - - - X - - - - -
+              CHROME - - - - - - - - S - - - -
+//WIKI.UBUNTUUSERS.DE/GRAFIKKARTEN/ATI/FGLRX/MANUELLE_TREIBERINSTALLATION - - - - - - - - - X - - -
+      DEINSTALLATION - - - - - - - - - X - - -
+                SUDO - - - - - - - - - X - - -
+             APT-GET - - - - - - - - - S - - -
+XSERVER-XORG-VIDEO-RADEON - - - - - - - - - X - - -
+   XSERVER-XORG-CORE - - - - - - - - - X - - -
+                THAT - - - - - - - - - - O - -
+                LOOK - - - - - - - - - - - - O
+      FGLRX-AMDCCCLE - - - - - - - - - - - - O
+               PURGE - - - - - - - - - - - - S
+           XORG.CONF - - - - - - - - - - - - O
+              CHANGE - - - - - - - - - - - - O
+  /ETC/X11/XORG.CONF - - - - - - - - - - - - X

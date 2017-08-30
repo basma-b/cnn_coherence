@@ -1,0 +1,21 @@
+                 SSH X - - - - -
+         PERMISSIONS X - - - - -
+~/.SSH/AUTHORIZED_KEYS X - - - - -
+                AUTH - O - - - -
+                 LTS - X - - - -
+              SERVER - X - - - -
+             PROBLEM - O - - - -
+                HOME - - S - - -
+               POSIX - - X - - -
+          FILESYSTEM - - X - - -
+                THAT - - - O O -
+             GPARTED - - - - S -
+             DEFAULT - - - - X -
+           PARTITION - - - - - S
+               TABLE - - - - - X
+               BEGIN - - - - - X
+                DISK - - - - - X
+             NOTHING - - - - - X
+               TOUCH - - - - - O
+           PARITIONS - - - - - S
+             GARBAGE - - - - - O

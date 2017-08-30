@@ -1,0 +1,12 @@
+               SETUP X X - - - -
+                 SSH X X - - S -
+               ERROR X X - - - X
+             MESSAGE S S - - - X
+             SERVICE X X - O X -
+            PASTEBIN - - X - - -
+              SCRIPT - - - O X -
+         /ETC/INIT.D - - - X - -
+             UTILITY - - - S X -
+               START - - - - O S
+                 JOB - - - - X -
+                 LOG - - - - - O

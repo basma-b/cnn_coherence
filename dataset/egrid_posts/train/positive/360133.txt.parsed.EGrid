@@ -1,0 +1,10 @@
+          LD.SO.CONF X - -
+                FILE O - -
+                NAME - X -
+                LIST - O O
+         DIRECTORIES - X -
+              SEARCH - O -
+           LIBRARIES - X X
+                 MAN - X -
+            LDCONFIG - X X
+                  -P - - O

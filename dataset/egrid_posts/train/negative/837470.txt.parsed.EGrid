@@ -1,0 +1,36 @@
+/ETC/NETWORK/INTERFACES O - X - - - X - -
+           OPERATION S - - - - - - - -
+              NORMAL O - - - - - - - -
+                ROOT - X O O - - - - -
+         PERMISSIONS - O - - - - - - -
+                FILE - X - - - O - - -
+                LINE - O - - - - - - -
+               -RW-R - - X - - - - - -
+              WHOAMI - - S S - - - - -
+                  ID - - - - S - - - -
+                ID=0 - - - - S - - - -
+               GID=0 - - - - S - - - -
+                 ONE - - - - S - - - -
+                 SEC - - - - X - - - -
+           SOMETHING - - - - X - - - -
+               IDEAS - - - - X - - - -
+             SELINUX - - - - S - - - -
+              ACCESS - - - - O - - - -
+               POINT - - - - O - - - -
+            /SELINUX - - - - S - - - -
+              REASON - - - - O - - - -
+               THERE - - - - - S - - -
+             PROBLEM - - - - - O - - -
+           INTERFACE - - - - - O - - -
+                BOOT - - - - - X - - -
+           DIRECTORY - - - - - X - - -
+               TOUCH - - - - - X - - -
+                TEST - - - - - S - - -
+                NAME - - - - - X - - -
+            PROBLEMS - - - - - X - - -
+                THAT - - - - - - S - -
+               ABOUT - - - - - - S - -
+        /ETC/NETWORK - - - - - - X - -
+                HTTP - - - - - - - X -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - - - - - - X -
+            T=455644 - - - - - - - - X

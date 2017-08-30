@@ -1,0 +1,13 @@
+              KERNEL X - - -
+              MODULE O - - -
+            MODPROBE S - - -
+                   / O - - -
+       /LIB/MODULES/ - X - -
+              /MISC/ - X - -
+               ERROR - O - -
+                 MOL - - X -
+         METAPACKAGE - - - X
+             REQUIRE - - - X
+        DISTRIBUTION - - - X
+             UPGRADE - - - X
+             KERNELS - - - X

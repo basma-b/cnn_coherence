@@ -1,0 +1,13 @@
+             COMMAND X - - -
+                LINE X - - -
+              SCRIPT O - - -
+              FOLDER X - - -
+           DIRECTORY - X - -
+                DONT - - X -
+                 BOX - - X -
+         REPARTITION - - X -
+                MEAN - - X -
+               BTRFS - - - X
+                TOOL - - - O
+          FILESYSTEM - - - O
+           PARTITION - - - O

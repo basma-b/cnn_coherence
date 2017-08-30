@@ -1,0 +1,15 @@
+                RULE S - -
+              CLIENT S - -
+                PORT X X -
+           HIGH-PORT O - -
+               OUTGO O - -
+                   * O - -
+                 LAN X - -
+            ETHERNET X - -
+           INTERFACE X - -
+                ETH1 O - -
+                 TCP - X -
+         DESTINATION - X -
+             DEFAULT - - S
+                 ONE - - O
+                   U - - S

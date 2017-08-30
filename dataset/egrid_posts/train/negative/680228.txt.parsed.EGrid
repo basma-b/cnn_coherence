@@ -1,0 +1,25 @@
+                 SDB X - - - - -
+               CHECK - S - - - -
+             COMMAND - O X - - -
+                  -L - S - - - -
+            ANYTHING - O - - - -
+            /DEV/SDB - X - - - -
+               DRIVE - X - - - -
+          PARTITIONS - O - - - -
+           RECOGNISE - S - - - -
+                THIS - S - S - -
+            EHCI-HCD - X - - - -
+               ERROR - - O - - -
+              MODULE - - X - - -
+            EHCI_HCD - - S - - -
+       /PROC/MODULES - - X - - -
+                   | - - X - - -
+                GREP - - X - - -
+                 USB - - X - - -
+              OUTPUT - - - X - -
+                HTTP - - - O - -
+//PASTEBIN.COM/F548BDB88 - - - X - -
+            POSITION - - - - X -
+              STRING - - - - O -
+                 MAN - - - - - X
+                PAGE - - - - - S

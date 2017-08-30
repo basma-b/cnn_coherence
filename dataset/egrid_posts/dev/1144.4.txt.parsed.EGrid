@@ -1,0 +1,21 @@
+            MODPROBE O X - - -
+              MODULE S O - - -
+                LOAD O - - - -
+               ISSUE O - - - -
+               SOUND X - - - -
+                SUDO - X - - -
+       SND-HDA-INTEL - X - - -
+               RMMOD - X - - -
+              UBUNTU - - - X -
+               ARMEL - - - S -
+             PACKAGE - - - S -
+    PORTS.UBUNTU.COM - - - X -
+             SUPPORT - - - X -
+                PORT - - - X -
+                 ONE - - - O -
+              SYSTEM - - - - X
+        REPOSITORIES - - - - X
+             APT-GET - - - - X
+                HTTP - - - - X
+  //PORTS.UBUNTU.COM - - - - X
+//ARCHIVE.UBUNTU.COM - - - - X

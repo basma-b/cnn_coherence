@@ -1,0 +1,8 @@
+             COMMAND S - - -
+                NMAP - - X -
+                SUDO - - X -
+             APT-GET - - X -
+                HTTP - - X -
+                  RM - - X -
+                  -R - - X -
+                WORK - - - O

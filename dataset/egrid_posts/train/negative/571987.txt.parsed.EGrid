@@ -1,0 +1,17 @@
+      UPDATE-MANAGER - S - - - - S - - - - - -
+               ERROR - - X - - - - X - - X - -
+             PACKAGE - - X - - - - X - - - - -
+               CACHE - - X - - - - X - - - - -
+                FILE - - X - - - - X - - - - -
+                   > - - S - - - - S - - - - -
+              REPORT - - O - - - - O - - - - -
+                THAT - - - X - - - - X - - - -
+                   < - - - X - - - - X - - - -
+              UPDATE - - - O - - - - O - - - -
+             TRACKER - - - - - - - - - - X - -
+              DAEMON - - - - - - - - - - S - -
+             MACHINE - - - - - - - - - - X - -
+                SUDO - - - - - - - - - - O - -
+            AUTODATE - - - - - - - - - - S - -
+           OPERATION - - - - - - - - - - S - -
+             BUNZIP2 - - - - - - - - - - - X -

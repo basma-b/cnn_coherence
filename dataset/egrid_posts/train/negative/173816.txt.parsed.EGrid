@@ -1,0 +1,15 @@
+          FILESYSTEM X X X - - - - - -
+              UBUNTU X X X - - - - - -
+             DEFAULT X X X - - - X - -
+                E2FS - - - X - - - - -
+                E3FS - - - - X - - - -
+            REISERFS - - - - - X O - -
+                EXT3 - - - - - - X - -
+                 XFS - - - - - - X - -
+                LIFT - - - - - - - X -
+           SOMETHING - - - - - - - O -
+               GNOME - - - - - - - X -
+                SOME - - - - - - - - X
+                XFCE - - - - - - - - X
+                LXDE - - - - - - - - X
+                  WM - - - - - - - - O

@@ -1,0 +1,30 @@
+              SYSLOG X O X - - - - - - -
+                LINE O - X - X - - - - -
+                FILE X - - - - - - - - -
+/ETC/RSYSLOG.D/10-SELINUX.CONF O - - - - - - - - -
+               PRINT X O - - - - - - - -
+           AUDIT.LOG X - - - - - - - - -
+                THAT - S - - - - - - - S
+                 USE - S - - - - - - - -
+         30-UFW.CONF - X - - - - - - - -
+           SOMETHING - O - - O - - - - -
+            TEMPLATE - X - - - - - - - -
+                 ALL - O - - - - - - - -
+                 LOG - S - - - - - - - -
+             RSYSLOG - - - O - - - O - -
+                   * - - - - X O X S - -
+     /VAR/LOG/SYSLOG - - - - - O - - - -
+              SYSTEM - - - - - - O - - -
+              MOMENT - - - - - - X - - -
+           EVERYTHIN - - - - - - - S - -
+             KERNELS - - - - - - - - O -
+            PROBLEMS - - - - - - - - - O
+               THERE - - - - - - - - - S
+          REGRESSION - - - - - - - - - O
+                 LTS - - - - - - - - - X
+              KERNEL - - - - - - - - - O
+              CENTOS - - - - - - - - - X
+                HTTP - - - - - - - - - O
+//KERNELNEWBIES.ORG/LINUX26CHANGES - - - - - - - - - X
+            READABLE - - - - - - - - - O
+                FACT - - - - - - - - - X

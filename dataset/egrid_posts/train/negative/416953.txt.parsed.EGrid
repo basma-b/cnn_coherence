@@ -1,0 +1,12 @@
+                   > S - - - -
+                USER O X - - -
+  PERMISSIONS/GROUPS X - - - -
+            SETTINGS X X - - -
+              DIALOG X X - - -
+             COMMAND - X - - -
+             ADDUSER - - X - -
+                   < - - S - -
+               ADMIN - - O - -
+             USERADD - - - X -
+                   | - - - S -
+              THINGY - - - - X

@@ -1,0 +1,13 @@
+             CRONJOB S - -
+               SETUP O X -
+              OUTPUT - O -
+                  -L - X -
+                TASK - O -
+               CHECK - X -
+              SYSLOG - X -
+             PACKAGE - - O
+          VIRTUALBOX - - X
+              FIREFO - - O
+               THOSE - - X
+        DEPENDENCIES - - X
+               12.04 - - O

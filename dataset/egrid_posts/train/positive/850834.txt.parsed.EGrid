@@ -1,0 +1,24 @@
+                 ALL O - - - - -
+              NUMBER O - - - - -
+               ISSUE X - - - - -
+               CAUSE X - - - - -
+           APPARMOUR X - - - - -
+              UBUNTU X - - - - -
+               PLACE - X - - - -
+                HELP - X - - - -
+             DEFAULT - - X - - X
+            APPARMOR - - X - - -
+             PROFILE - - X - - S
+              CHANGE - - - S - -
+/ETC/APPARMOR.D/USR.BIN.EVINCE - - - O - -
+                ROOT - - - S - -
+            PROBLEMS - - - X - -
+                USER - - - X - -
+                HOME - - - X - -
+         DIRECTORIES - - - O - -
+                 NFS - - - X - -
+              VOLUME - - - X - -
+                  EG - - - X - -
+          FILESERVER - - - X - -
+           LOCATIONS - - - - - X
+               AFAIK - - - - - X

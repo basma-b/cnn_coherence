@@ -1,0 +1,17 @@
+                FILE O - - - - - -
+             WINDOWS X - - - - - -
+               GUEST X - - - - - -
+                VBOX X - - - - - -
+                HOST X - - - - - -
+                USER S S - - - - -
+              CHANGE O X - - - - -
+              NOBODY X - - - - - -
+             NOGROUP X - - - - - -
+              SCRIPT - - - O - - -
+               CHOWN - - - - O - -
+               THERE - - - - S - -
+                 WAY - - - - O - -
+               SAMBA - - - - - X -
+               ENTRY - - - - - X -
+                 JOB - - - - - - O
+          PADDY_EIRE - - - - - - X

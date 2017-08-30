@@ -1,0 +1,25 @@
+                SUDO X - - - - - -
+   FIRSTNAME.SURNAME X - - - - - -
+        /ETC/SUDOERS X - - - - - -
+                ROOT - X - - - - -
+              SSHING - X - - - - -
+               CHECK - - X - - - -
+/ETC/SSH/SSHD_CONFIG - - S - - - -
+               RAYLU - - X - - - -
+                HOST - - S - - - -
+                LIST - - O - - - -
+          /ETC/HOSTS - - X - - - -
+              AACRON - - X - - - -
+             PROBLEM - - S - - - -
+                  PC - - S - - - -
+             ADDRESS - - O - - - -
+                TIME - - - - X - -
+                 COZ - - - - X - -
+               UNITY - - - - X - -
+             REMOVAL - - - - X - -
+              METHOD - - - - S - -
+                 DAY - - - - X - -
+             RELEASE - - - - X - -
+              OPTION - - - - - O -
+             SESSION - - - - - O X
+               SAVED - - - - - - S

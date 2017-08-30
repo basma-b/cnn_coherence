@@ -1,0 +1,17 @@
+                  LS S - - - - - -
+            GRUB.CFG O - - - - - -
+         UPDATE-GRUB S - - - - - -
+              CHANGE O O - - - - -
+              SCRIPT - X - - - - -
+              CONFIG - X - - - - -
+                FILE - O - - - - -
+             WINDOWS - - X - - - -
+              UBUNTU - - X - - - -
+                THAT - - - X - - -
+                LESS - - - - O - -
+              DETAIL - - - - O O -
+              THINGS - - - - - S -
+               TONNE - - - - - X -
+/ETC/GRUB.D/08_OS-PROBER - - - - - O -
+        30_OS-PROBER - - - - - - O
+        10_OS-PROBER - - - - - - O

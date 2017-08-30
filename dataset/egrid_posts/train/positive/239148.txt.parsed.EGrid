@@ -1,0 +1,10 @@
+         PRIVELEDGES X O -
+              FOLDER - X -
+               CHMOD - X -
+                 +RW - X -
+                  TY - X -
+                DOSE - S -
+           PARTITION - X -
+            BOOTTIME - X -
+                  RW - - X
+          /ETC/FSTAB - - O

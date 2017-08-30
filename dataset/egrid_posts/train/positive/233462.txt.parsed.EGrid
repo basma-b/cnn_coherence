@@ -1,0 +1,14 @@
+                 USB - S X - - - -
+               START - O - - - - -
+              BREEZY - S - - - - -
+               DMESG - - O - - - -
+               SPEED - - X - - - -
+              DEVICE - - S - - - -
+            EHCI_HCD - - O - - - -
+            /DEV/XXX - - X - - - -
+           SOMETHING - - - X - - -
+            /DEV/SDA - - - X - - -
+               LSUSB - - - - - X -
+               H3XIS - - - - - - X
+               THANX - - - - - - X
+          GUYS/GIRLS - - - - - - X

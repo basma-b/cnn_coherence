@@ -1,0 +1,16 @@
+     BUILD-ESSENTIAL S - - -
+             G++-4.0 O - - -
+             GCC-3.4 O - - -
+         BAMBINO|GYM X - - -
+                 PKG S - - -
+                 3.4 X - - -
+               ASSOC X - - -
+         TOOLS/UTILS - X - -
+                SUDO - - - X
+             APT-GET - - - S
+               LEAVE - - - X
+        IRC.OFTC.NET - - - O
+       KERNELNEWBIES - - - X
+                 USE - - - X
+                  -R - - - X
+              /BUILD - - - X

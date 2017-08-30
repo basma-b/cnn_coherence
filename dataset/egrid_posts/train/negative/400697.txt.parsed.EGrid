@@ -1,0 +1,8 @@
+             COMMAND X - - -
+         RECONFIGURE X - - -
+             XSERVER X - - -
+                SUDO - X - -
+    DPKG-RECONFIGURE - X - -
+        XSERVER-XORG - X - -
+                THAT - - S -
+                NEWS - - O -

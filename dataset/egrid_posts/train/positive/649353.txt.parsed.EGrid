@@ -1,0 +1,13 @@
+                FILE X - - - - - -
+                 USB X - - - - - X
+                 KEY X - - - - - X
+                WIPE - X - - - - -
+          FILESYSTEM - - X - - - -
+            DELETION - - - O - - -
+                NTFS - - - X - X -
+                 UHM - - - X - - -
+               MSDOS - - - O - - -
+               SHRED - - - - - - O
+               DRIVE - - - - - - X
+             OPTIONS - - - - - - X
+                PASS - - - - - - O

@@ -1,0 +1,21 @@
+                FILE X S - - X - - S - - - - - - -
+         PERMISSIONS X - - - - - - - - - - - - - -
+                XORG - X - - - - - - - - - - - - -
+                  .. - X - - - - - - - - - - - - -
+                SUDO - X - - - - - O - - - - - - -
+             COMMAND - O - - - - - - - - - - - - -
+            /ETC/X11 - - - X - - - - - - - - - - -
+                HOLD - - - - X - - - - - - - - - -
+          PERMISSION - - - - - X - - - - - - - - -
+              CHANGE - - - - - - O - - - - - - - -
+                OPEN - - - - - - - S - - - - - - -
+                NANO - - - - - - - X - - - - X - -
+/ETC/X11/XORG.D/51-SYNAPTICS-QUIRKS.CONF - - - - - - - S - - - - - - -
+                 DIR - - - - - - - O - - - - - - -
+                THAT - - - - - - - - O - - S - - -
+            TERMINAL - - - - - - - - - S - - - - -
+           DIRECTORY - - - - - - - - - - X - - - -
+             FOLDERS - - - - - - - - - - O - - - -
+                  ^X - - - - - - - - - - - - - X -
+                CTRL - - - - - - - - - - - - - X -
+                   X - - - - - - - - - - - - - X -

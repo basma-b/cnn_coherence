@@ -1,0 +1,14 @@
+                ROOT X - - - - -
+           PARTITION X - - - - -
+               SPACE X - - - - -
+                HOME X - - - - -
+                DATA X - - - - -
+             GPARTED - O - - - -
+                  CD - X - - - -
+         ENVIRONMENT - X - - - -
+                 TAR - - - X - -
+               -CPVF - - - X - -
+                   J - - - O - -
+           EXTENSION - - - - S -
+               BZIP2 - - - - - S
+                   > - - - - - O

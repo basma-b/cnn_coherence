@@ -1,0 +1,22 @@
+                CARD S - - - - - - - - -
+             SUPPORT O - - - - - - - - -
+                   U S - - - - - - - - -
+                ALSA - S - - - - - - - -
+          PULSEAUDIO - O - S - - - - - -
+               APLAY - X - - - - - - - -
+     DEVICE_LIST:215 - S - - - - - - - -
+          SOUNDCARDS - S - - - - - - - -
+                SUDO - - - X - - - - - -
+          AUTOREMOVE - - - X - - - - - -
+/ETC/INIT.D/ALSA-UTILS - - - S - - - - - -
+                  PC - - - S - - - - - -
+                  .. - - - - X X - - - -
+             MESSAGE - - - - - X - - - -
+             PROBLEM - - - - - S - - - -
+               THING - - - - - - X - - -
+         SUGGESTIONS - - - - - - X - - -
+               SOUND - - - - - - - - - X
+                  CD - - - - - - - - - O
+              DISTRO - - - - - - - - - O
+                GIRL - - - - - - - - - X
+                CALL - - - - - - - - - S

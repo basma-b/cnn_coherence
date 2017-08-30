@@ -1,0 +1,16 @@
+         PERMISSIONS X - - -
+              FOLDER X - S -
+                ROOT X - - -
+                THAT - X - -
+                DONT - X - -
+                  .. - X - -
+             COMMAND - X - -
+                LINE - O - -
+               CHOWN - O - -
+            TERMINAL - - X -
+                TYPE - - X -
+                SUDO - - X -
+                BASH - - S -
+                  CD - - X -
+                   > - - S -
+               CHMOD - - O -

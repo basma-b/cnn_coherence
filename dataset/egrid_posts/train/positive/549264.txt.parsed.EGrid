@@ -1,0 +1,25 @@
+             ANYBODY X - - -
+                HELP X - - -
+      NETWORKMANAGER X - - -
+               ISSUE X - X -
+             CHANNEL - X - -
+             SOMEONE - S - -
+                   * - - X -
+      NM-APPLET:7260 - - X -
+               ERROR - - X -
+          CONNECTION - - X -
+                 VPN - - X -
+            PROPERTY - - O -
+              METHOD - - X -
+           SIGNATURE - - X -
+                  SS - - S -
+           INTERFACE - - X -
+ORG.FREEDESKTOP.DBUS.PROPERTIES - - X -
+                KIND - - O -
+                DBUS - - S X
+                 HAL - - X -
+                  PS - - O -
+             APT-GET - - S -
+               PURGE - - X -
+     NETWORK-MANAGER - - S -
+                 ITO - - - X

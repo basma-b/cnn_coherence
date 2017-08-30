@@ -1,0 +1,13 @@
+                   U X - - -
+                GRUB O - - -
+                 CAN - X - -
+                HELP - X - -
+                  .. - X - -
+                WIKI - X - -
+                BOOT - X X X
+                  CD - - X -
+                ROOT - - X -
+          PRIVILEDGE - - O -
+              KERNEL - - - X
+           PARAMETER - - - X
+           PARTITION - - - O

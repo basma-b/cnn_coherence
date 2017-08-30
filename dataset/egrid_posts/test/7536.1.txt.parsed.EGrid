@@ -1,0 +1,19 @@
+               12.04 X - - - - - -
+                 DNS S - - X - - -
+          GOOGLE.COM - O - - - - -
+               ERROR - X - - - - -
+              GOOGLE - X - - - - -
+                  IP - S - - - - -
+                   > - O - - - - -
+          INDEX.HTML - O - - - - -
+                BIND - - O - - - -
+               CACHE - - S - - - -
+              SERVER - - - X - - -
+          BLACKSHIRT - - - - - X -
+            ANYTHING - - - - - O -
+             NETWORK - - - - - X -
+             MORNING - - - - - X -
+             PROBLEM - - - - - - O
+ADDED'DNS-NAMESERVERS - - - - - - X
+             8.8.8.8 - - - - - - O
+/ETC/NETWORK/INTERFACES - - - - - - X

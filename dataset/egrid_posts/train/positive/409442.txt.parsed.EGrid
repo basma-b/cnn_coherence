@@ -1,0 +1,17 @@
+              ANYONE X - - -
+              KERNEL X - - X
+                PART - X - -
+                  .. - - O -
+              DEVICE - - O -
+                ACPI - - X -
+                WORK - - X -
+      S/ACPI/SUSPEND - - O -
+                 RAM - - X -
+               DMESG - - S -
+           DEVICE:25 - - S -
+        /PROC/DEVICE - - S -
+              OUTPUT - - O -
+                  PM - - X -
+                INFO - - O -
+               REALM - - - X
+           KNOWLEDGE - - - X

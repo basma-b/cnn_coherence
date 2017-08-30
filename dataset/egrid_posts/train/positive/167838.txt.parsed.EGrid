@@ -1,0 +1,13 @@
+          /DOWNLOADS S - - - S
+               GROUP X - - - -
+               DRIVE - X X - -
+                THAT - - S - -
+            UID=1000 - - O - -
+               FSTAB - - X - -
+             OPTIONS - - X - -
+              OPTION - - O - -
+                EXT3 - - X - -
+                LINE - - O - -
+           /DEV/HDB1 - - - - X
+             DEFAULT - - - - X
+                USER - - - - O

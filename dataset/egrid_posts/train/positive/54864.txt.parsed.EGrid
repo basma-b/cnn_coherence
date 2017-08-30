@@ -1,0 +1,13 @@
+           UMASK=002 X - - - - -
+               FSTAB X - S - - -
+             OPTIONS - X - - - -
+                 E.G - S - - - -
+                THAT - - O - - -
+             DEFAULT - - X - - -
+         /MNT/SHADOW - - X - - -
+                NTFS - - X - - -
+                AUTO - - X X - -
+                  RO - - X X - -
+               USERS - - X O - -
+           /MNT/LYNX - - - S - -
+                 YES - - - - - X

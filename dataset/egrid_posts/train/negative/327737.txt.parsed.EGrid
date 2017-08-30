@@ -1,0 +1,9 @@
+             COMMAND X - - -
+                XORG X - - -
+               .CONF O - - -
+              GKSUDO - X - -
+  /ETC/X11/XORG.CONF - S - -
+ /BOOT/GRUB/MENU.LST - O - -
+            MENU.LST - O - -
+             SUPPORT - - - X
+               GNOME - - - X

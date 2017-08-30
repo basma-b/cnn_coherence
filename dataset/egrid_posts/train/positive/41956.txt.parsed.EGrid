@@ -1,0 +1,12 @@
+                FILE X - - - -
+              FORMAT O X - - -
+                EXT3 X - - - -
+               FAT32 X - - - -
+                DISC X - - - -
+           PARTITION - - O - -
+                 ONE - - O - -
+              CFDISK - - X - -
+                 HDA - - O - -
+                 HDB - - X - -
+            /DEV/HDB - - - X -
+              GOOGLE - - - - X

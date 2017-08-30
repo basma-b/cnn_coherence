@@ -1,0 +1,15 @@
+             SOMEONE - X - - - -
+         RECONFIGURE - X - - - -
+             NETWORK - O X - - -
+                DHCP - O - O O -
+                 CLI - X - - - -
+              SERVER - - O - - -
+          CONNECTION - - O - - -
+/ETC/NETWORK/INTERFACES - - - - O -
+                AUTO - - - - X -
+              ETH0\N - - - - S -
+                INET - - - - X -
+             RESTART - - - - O -
+          INTERFACES - - - - - O
+           INTERFACE - - - - - O
+              CHANGE - - - - - O

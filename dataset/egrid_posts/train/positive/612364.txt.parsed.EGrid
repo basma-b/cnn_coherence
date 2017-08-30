@@ -1,0 +1,9 @@
+             COMMAND X - -
+            IPCONFIG X - -
+            IFCONFIG - S -
+           INTERFACE - X -
+            WIRELESS - X X
+                 MAC - O -
+              HWADDR - S -
+               WLAN0 - - S
+             ADAPTER - - O

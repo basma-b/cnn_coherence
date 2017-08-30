@@ -1,0 +1,10 @@
+              SERVER X - - - -
+                 RUN O - - - -
+                BASE X - - - -
+      AUTHENTICATION O - - - -
+                 BOX S - - - X
+              DAMEON O - - - -
+                 KEY - - - - O
+                COPY - - - - X
+.SSH/AUTHORIZED_KEYS - - - - X
+                FILE - - - - X

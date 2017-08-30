@@ -1,0 +1,18 @@
+        DIST-UPGRADE O - S - - - - - -
+           2.6.15-23 X - - - - - - - -
+              KERNEL X - - X - - - - -
+               PANIC O - - - - - - - -
+             MACHINE S - - - - - - - -
+                BOOT X X - - - - - - -
+                THAT - X - - - - - - -
+             APT-GET - - X - X - - - -
+               DRIVE - - O - O - - - -
+/ETC/APT/SOURCE.LIST - - X - - - - - -
+        SOURCES.LIST - - S - - - - - -
+               BUNCH - - O - - - - - -
+        REPOSITORIES - - X - - - - - -
+                DISK - - - - - O - - -
+                THIS - - - - - X - - -
+                   > - - - - - S - - -
+              CHROOT - - - - - - - - X
+                 MAN - - - - - - - - X

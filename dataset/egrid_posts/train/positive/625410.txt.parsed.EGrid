@@ -1,0 +1,16 @@
+            QUESTION X - - - -
+                  .. X - X - -
+                 SSH - S - - -
+              TUNNEL - X - - -
+                 NAT - X - - -
+              SERVER - X - - -
+            PASSWORD - X - - -
+             KEYFILE - X - - -
+              CLIENT - X - - -
+             MACHINE - O - - -
+            ANYTHIGN - - X - -
+            POINTERS - - S - -
+/ETC/SSH/SSHD_CONFIG - - - X -
+      AUTHORIZEDKEYS - - - - X
+                FILE - - - - X
+                PART - - - - X

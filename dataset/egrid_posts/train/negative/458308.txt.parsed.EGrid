@@ -1,0 +1,14 @@
+             COMMAND X - - -
+                LINE X - - -
+          EQUIVALENT O - - -
+                USER X - - -
+          PRIVILAGES X - - -
+               GROUP X - - -
+                 GUI X - - -
+            MODGROUP X - - -
+             ADDUSER X - - -
+            ADDGROUP X - - -
+                CARD - X - -
+            IFCONFIG - X X X
+                  -A - - X -
+                NAME - - - X

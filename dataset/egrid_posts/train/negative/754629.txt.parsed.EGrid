@@ -1,0 +1,26 @@
+                BITE O - - - - -
+             PROBLEM X - - X - -
+              SYSTEM - X - - - -
+              RESCUE - X - - - -
+               RSYNC - X - - - -
+            APPARMOR - - S - - -
+              KERNEL - - X - - -
+                 LSM - - X - - -
+                   $ - - - X - -
+                THIS - - - S - -
+               CHECK - - - X - -
+/ETC/INIT.D/APPARMOR - - - X - -
+          SECURITYFS - - - S S -
+                TEST - - - X O -
+                  -D - - - O - -
+                  || - - - X - -
+                EXIT - - - X - -
+        /PROC/MOUNTS - - - S - -
+                   ^ - - - O - -
+                   ' - - - - S -
+                FACT - - - - X -
+                NONE - - - - S -
+                TYPE - - - - X -
+                  RW - - - - X -
+        LIVE/INSTALL - - - - - S
+            TORRENTS - - - - - O

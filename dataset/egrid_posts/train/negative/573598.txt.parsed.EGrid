@@ -1,0 +1,12 @@
+               ALIAS X - - -
+            MODPROBE X - - -
+                 USE - X - -
+              DRIVER - O O -
+            CONFLICT - - X -
+               GNOME - - - X
+         APPLICATION - - - O
+              SYSTEM - - - X
+                   > - - - X
+      ADMINISTRATION - - - X
+                DISK - - - X
+             UTILITY - - - O

@@ -1,0 +1,14 @@
+                HELP X - - - - - - -
+                ROOT - X - - - - - -
+           PARTITION - S - - - - - -
+                 LVM - X X X - - - -
+                BOOT - X - - - - - -
+             PROCESS - S - - - - - -
+             BUSYBOX - X - - - - - -
+            RAMDISKS - - - X - - - -
+               STUFF - - - X - - - -
+                TIME - - - - - - O -
+               THERE - - - - - - - S
+               PAUSE - - - - - - - O
+                MENU - - - - - - - S
+             EXAMPLE - - - - - - - X

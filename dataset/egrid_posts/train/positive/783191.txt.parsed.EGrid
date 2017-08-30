@@ -1,0 +1,15 @@
+              ANYONE X - - - -
+              SYSTEM O - - - -
+     NETWORK-MANAGER O O - - -
+       CONFIGURATION X - - - -
+             NETWORK - X - - -
+             DISABLE - X - - -
+                  NM - S - - -
+          INTERFACES - O - - -
+/ETC/NETWORK/INTERFACES - X - - X
+             ENTRIES - O - - -
+                FILE - X - - -
+                  ON - X - - -
+           INTERFACE - - - O -
+               WIFI0 - - - - O
+               IDEAS - - - - S

@@ -1,0 +1,14 @@
+           SOMETHING S - -
+              UPDATE X - -
+             SOMEONE X - -
+                HTTP O - -
+             NOTHING O - -
+             COMMAND S - O
+             UPGRADE O - -
+             INSTALL O - -
+                SUDO - X X
+                  -R - X -
+  ORACLE-7-INSTALLER - X -
+                LINK - O -
+                  RM - - S
+/VAR/LIB/DPKG/INFO/ORACLE-JAVA7-INSTALLER.POSTINST - - X

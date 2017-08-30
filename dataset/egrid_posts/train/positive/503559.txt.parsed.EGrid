@@ -1,0 +1,15 @@
+              SCRIPT O - - S -
+             SUDOERS O X - - -
+          SUDOVISUDO X - - - -
+             COMMAND X - - - -
+            PASSWORD X - - - -
+              CHANGE - O - - -
+                FILE - X - - -
+                ROOT - - X - -
+                ALL= - - S - -
+                USER - - X - -
+        ALL=NOPASSWD - - O - -
+    /PATH/SCRIPTNAME - - X - -
+                THAT - - - S -
+        INTERPRETERS - - - X -
+                 ETC - - - - O

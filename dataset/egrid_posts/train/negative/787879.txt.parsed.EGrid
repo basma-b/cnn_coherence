@@ -1,0 +1,19 @@
+                HELP O - - - - - - -
+                GRUB X - - O - - - -
+               /BOOT - S - - - - - -
+                RAID - X X - - X - -
+          EVERYTHING - - S - - - - -
+                 LVM - - X - - S - -
+                 TOP - - X - - - - -
+           INSTALLER - - - S - S - -
+                HTTP - - - - X - - -
+//GRUB.ENBUG.ORG/LVMANDRAID - - - - X - - -
+           COMMUNITY - - - - - X - -
+                DOCS - - - - - X - -
+                  .. - - - - - O - -
+              DEBIAN - - - - - X - -
+             COMMAND - - - - - S - -
+       UBUNTU/DEBIAN - - - - - X - -
+             DEFAULT - - - - - X - -
+   /ETC/DEFAULT/GRUB - - - - - X - -
+               GEDIT - - - - - - - X

@@ -1,0 +1,15 @@
+            BOOT.INI O - - -
+              UBUNTU X - - -
+             DEFAULT X - - -
+                  OS S - - -
+       DEFAULT=MULTI X - - -
+                DISK X - - -
+               RDISK X - - -
+           PARTITION X - - -
+       \WUBILDR.MBR= O - - -
+                WUBI - X - S
+                REAL - - S -
+                 EHM - - X -
+             WINDOWS - - X -
+                BOOT - - X -
+              LOADER - - S -

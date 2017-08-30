@@ -1,0 +1,18 @@
+             ANYBODY X - -
+              SYNTAX X X -
+    /ETC/HOSTS.ALLOW X - -
+             ADDRESS X - -
+                IPV6 - O -
+                HTTP - X X
+//WWW.RHCE2B.COM/CLUBLINUX/RHCE-33.SHTML - S -
+                  .. - X -
+             NOTHING - S -
+         HOSTS.ALLOW - X -
+             SERVICE - X -
+                  AA - X -
+                  BB - X -
+                   % - X -
+                ETH0 - S -
+               BREAK - X -
+         TCP-WRAPPER - X -
+//WWW.MIRRORSERVICE.ORG/SITES/RELEASES.UBUNTU.COM/7.04/MD5SUMS - - X

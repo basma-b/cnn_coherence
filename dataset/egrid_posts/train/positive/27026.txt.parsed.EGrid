@@ -1,0 +1,20 @@
+              ANYONE X - - -
+        SIOCGIFFLAGS X - - -
+               ERROR S O - -
+            WIRELESS X X - -
+              DEVICE X - - -
+               CLICK - X - -
+             NETWORK - X - -
+         CONNECTIONS - X - -
+                ICON - X - -
+            IFCONFIG - X - -
+                  -A - X - -
+                CARD - O - -
+                THAT - - X O
+                IFUP - - O -
+/ETC/NETWORK/IFSTATE - - O -
+          PERMISSION - - S -
+                  -S - - - O
+               DMESG - - - S
+           DMESG.TXT - - - X
+              UPLOAD - - - O

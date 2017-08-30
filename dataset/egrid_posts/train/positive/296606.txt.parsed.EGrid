@@ -1,0 +1,13 @@
+                BOOT X S - -
+         DESTINATION X - - -
+                ROOT X - - X
+              DEVICE X - - -
+              INITRD - X - -
+               /BOOT - S - -
+                  OK - S - -
+              SYSTEM - O - -
+              KERNEL - S - -
+         COMMANDLINE - S - -
+                THIS - S - -
+                MINE - - - S
+               HD0,2 - - - X

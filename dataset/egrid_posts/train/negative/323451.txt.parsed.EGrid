@@ -1,0 +1,25 @@
+                RULE O - - - O - - -
+             RECOVER X - - - - - - -
+              REBOOT X - - - - X - -
+                   $ - - - X - X - -
+                THAT - - - O - - - -
+                HTTP - - - X - - - -
+//PASTE.UBUNTU-NL.ORG/32012/ - - - O - - - -
+/ETC/INIT.D/IPTABLES - - - X X - - -
+             SYMLINK - - - O - - - -
+/ETC/RCS.D/S37IPTABLES - - - X O - - -
+       /ETC/IPTABLES - - - O X - - -
+              SCRIPT - - - S - - - -
+               START - - - O - O - -
+             STARTUP - - - X - - - -
+             RULESET - - - O - - - -
+/ETC/IPTABLES/RULESET - - - X - - - -
+            IPTABLES - - - - S - - -
+                SUDO - - - - X - - -
+               MKDIR - - - - X - - -
+                  .. - - - - - - - S
+             NON-DRM - - - - - - - X
+                  ED - - - - - - - X
+               MEDIA - - - - - - - X
+                   * - - - - - - - X
+                 DUH - - - - - - - S

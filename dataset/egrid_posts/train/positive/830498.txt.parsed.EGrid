@@ -1,0 +1,16 @@
+                GRUB X - - - -
+            MENU.LST O - O - -
+               NUTTY X X - - -
+             NARWHAL X - - - -
+              KERNEL X X X - -
+             COMMAND X X X - -
+                LINE O O X - -
+            POINTERS - X - - -
+               ITEMS - - O - -
+GRUB_CMDLINE_LINUX_DEFAULT - - X - -
+                SUDO - - X - -
+         UPDATE-GRUB - - O - -
+               NATTY - - S - -
+               GRUB2 - - O S -
+                INFO - - - X -
+              THANKS - - - - X

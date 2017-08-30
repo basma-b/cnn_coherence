@@ -1,0 +1,12 @@
+             COMMAND X - - - -
+           SOMETHING X - - X -
+                DPKG X - - - -
+           XORG.CONF O - - - -
+                THAT - O - - -
+    DPKG-RECONFIGURE - S - - -
+                   S - X - - -
+         XORG-SERVER - - S - -
+                  NP - - X - -
+                   D - - S - -
+              KARMIC - - S - -
+               FILE5 - - - - S

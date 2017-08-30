@@ -1,0 +1,14 @@
+            QUESTION X - - -
+            BINARIES S - - -
+             APT-GET X - S -
+/VAR/CACHE/APT/ARCHIVES - S X -
+             NOTHING - O - -
+                 DIR - X - -
+             PACKAGE - - O -
+                LOCK - - S -
+              UPDATE - - X -
+                  .. - - O -
+            INTERNET - - X -
+              TABLET - - X -
+              SEARCH - - - S
+                   * - - - X

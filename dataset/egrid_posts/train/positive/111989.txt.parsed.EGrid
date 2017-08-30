@@ -1,0 +1,17 @@
+        META-PACKAGE O - - - - - -
+             PACKAGE X O S - - - -
+                META X - - - - - -
+         METAPACKAGE - O - - - - -
+                 SUM - - X - - - -
+               ERROR - - X X - - -
+                REST - - O - - - -
+        INSTALLATION - - X - - - -
+/VAR/CACHE/APT/ARCHIVES - - X - - - -
+            DOWNLOAD - - - X - - -
+             APT-GET - - - S - - -
+      UBUNTU-DESKTOP - - - O - - -
+             MINUTES - - - X - - -
+                FILE - - - S - - -
+ OPENOFFICE.ORG-CORE - - - X - - -
+                TIME - - - - - X -
+          REPOSITORY - - - - - - X

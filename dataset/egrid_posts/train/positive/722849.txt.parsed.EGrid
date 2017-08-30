@@ -1,0 +1,16 @@
+        BIND-ADDRESS S - - - -
+           127.0.0.1 O - - - -
+               -RSB- X - - - -
+             SECTION X - - - -
+                FILE X - - - -
+              ACCESS O - - - -
+                HTTP - X - - -
+               HOKAY - X - - -
+           SOMETHING - - O - -
+         FIRESTARTER - - X - X
+            FIREWALL - - X - -
+         CONNECTIONS - - O - -
+        RESTRICTIONS - - - S -
+           +FIREWALL - - - S -
+            SECURITY - - - O -
+            ANYTHING - - - - O

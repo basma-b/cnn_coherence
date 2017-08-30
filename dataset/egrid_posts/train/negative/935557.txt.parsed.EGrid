@@ -1,0 +1,10 @@
+                ROOT - X - X - - -
+              PASSWD - O - - - - -
+                HTTP - - - X - - -
+SETCHANGEENABLEROOTPASSWORD - - - O - - -
+            RECOVERY - - - X - - -
+                MODE - - - X - - -
+               LOGIN - - - O - - -
+              NORMAL - - - O - - -
+              UBUNTU - - - - - - X
+               REPOS - - - - - - X

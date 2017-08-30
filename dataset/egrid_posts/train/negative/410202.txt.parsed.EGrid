@@ -1,0 +1,14 @@
+              FORMAT X - - - -
+         UNPARTITION X - - - -
+               SPACE O - - - -
+                HFS+ X - - S -
+                AREA O - - - -
+                GREY X - - X -
+             GPARTED - - - X -
+                CANT - - - O -
+                 HFS - - - X -
+                TOOL - - - O -
+              SEARCH - - - O -
+             SCANNER - - - - X
+         PERMISSIONS - - - - O
+           DIRECTORY - - - - X

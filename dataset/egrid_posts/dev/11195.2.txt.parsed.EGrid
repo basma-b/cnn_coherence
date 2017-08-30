@@ -1,0 +1,11 @@
+             PROCESS X X - - -
+            PRIORITY O - - - -
+           SOMETHING - X - - -
+            SPECIFIC - O - - -
+                SUDO - - O - -
+            NICENESS - - X - -
+                COOL - - X - -
+                  .. - - O - -
+              ERRORS - - - - X
+                 VIM - - - - X
+             STARTUP - - - - X

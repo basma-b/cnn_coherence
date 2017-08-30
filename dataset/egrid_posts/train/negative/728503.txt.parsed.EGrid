@@ -1,0 +1,11 @@
+               /BOOT X S - - -
+               FSTAB X X - - -
+             OPTIONS X - - - -
+          FILESYSTEM - O - - -
+                THIS - X - - -
+           /DEV/SDA1 - S - - -
+             DEFAULT - O - - -
+              SYSTEM - O - - -
+                PART - - S - -
+                 WAY - - - X -
+           IRCHELPER - - - - X

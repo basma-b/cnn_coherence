@@ -1,0 +1,11 @@
+                THAT S - - - - - -
+                 ALL O - - - - - -
+          PERMISSONS - S - - - - -
+       /USR/BIN/JAVA - S - - - - -
+             SYMLINK - O - O - - -
+               TRAIL - - O - - - -
+              BINARY - - X - - - -
+               /BOOT - - - - - - O
+               512MB - - - - - - X
+           PARTITION - - - - - - X
+                 SSD - - - - - - X

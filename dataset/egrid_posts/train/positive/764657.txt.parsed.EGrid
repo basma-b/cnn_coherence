@@ -1,0 +1,15 @@
+               10.10 X - - - - - -
+                GIMP O - - - - - -
+              TARGET X - - - - - -
+             RELEASE O - - - - - -
+             PACKAGE X - - - - - -
+                 USE X - - - - - -
+              ANYONE - S - - - - -
+               REPOS - - X - - - -
+               TRUNK - - X - - - -
+           BUILD-DEP - - - - X - -
+                 BUG - - - - X - O
+           BEHAVIOUR - - - - X - -
+        INSTRUCTIONS - - - - - - X
+          DEPENDENCY - - - - - - X
+             FAILURE - - - - - - O

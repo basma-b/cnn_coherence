@@ -1,0 +1,22 @@
+                FILE O X S - X -
+                PATH O - S - - -
+             PROGRAM - - X - S -
+                  .. - - O - - -
+             NOTHING - - O - - -
+                LINK - - X - - -
+           DIRECTORY - - X - - -
+                 .IF - - X - - -
+            LAUNCHER - - O - - -
+/HOME/STRATOCASTER/PROGRAM/FILENAME - - X - - -
+                 YES - - X - - -
+               IWANT - - - - S -
+               DPATH - - - - S -
+                TYPE - - - - O -
+                ROOT - - - - - X
+           PARTITION - - - - - O
+            SYMLINKS - - - - - O
+                /USR - - - - - X
+                /VAR - - - - - X
+               /HOME - - - - - X
+           INSTALLER - - - - - O
+                DATA - - - - - O

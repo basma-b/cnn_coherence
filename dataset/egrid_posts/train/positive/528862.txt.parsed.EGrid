@@ -1,0 +1,10 @@
+             POSTFIX O O O
+             DOVECOT O - -
+       POSTFIX-ADMIN O S -
+               CABLE X - -
+               MODEM X - -
+           INTERFACE O - -
+            INTERFAC - O -
+                 ONE - X -
+             PACKAGE - X -
+            SENDMAIL - - X

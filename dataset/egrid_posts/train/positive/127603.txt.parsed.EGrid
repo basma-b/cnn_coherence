@@ -1,0 +1,17 @@
+            WIRELESS X - - - -
+                CARD O - - - -
+              PCMCIA O - - X -
+              DEVICE X - - X -
+                PORT X - - - -
+                THAT - S - - -
+              DRIVER - X - - -
+                ETHX - - O - -
+           SOMETHING - - O - -
+            IFCONFIG - - - O -
+                  -A - - - X -
+                 YEA - - - X -
+                  .. - - - X X
+              AND/OR - - - X -
+             HOTPLUG - - - X -
+                LIST - - - S -
+                   * - - - X -

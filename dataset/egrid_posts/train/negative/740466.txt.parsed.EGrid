@@ -1,0 +1,20 @@
+              REBOOT S - - -
+               SOUND S - - -
+              DRIVER X - - -
+                LOAD S - - -
+                BOOT X - - -
+               POWER X - - -
+             PROBLEM - O - X
+              ACCESS - - - S
+              FOLDER - - - S
+                THIS - - - X
+                SFTP - - - X
+               //BAZ - - - X
+172.16.113.134/VAR/WWW/ROUNDCUBE - - - X
+                SUDO - - - X
+               SSHFS - - - X
+                 BAZ - - - S
+      172.16.113.134 - - - O
+  /VAR/WWW/ROUNDCUBE - - - S
+ /HOME/BAZ/ROUNDCUBE - - - O
+               ERROR - - - O

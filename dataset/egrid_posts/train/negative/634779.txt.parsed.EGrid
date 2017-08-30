@@ -1,0 +1,16 @@
+             APT-GET X - - - - - -
+                FILE O - - - - - -
+              SWITCH X - - - - - -
+             PACKAGE S - - - - - -
+                 ADD - O - - - - -
+                 DEB - O - - - - -
+           DIRECTORY - X - - - - -
+                DEBS - - X - - - -
+            COMPUTER - - X - - - -
+               THING - - O - - - -
+           BUILD-DEP - - X O - - -
+               WOOPS - - - X - - -
+                THAT - - - - S X X
+             WINDOWS - - - - X - -
+               ENTRY - - - - O - -
+                 ONE - - - - - X X

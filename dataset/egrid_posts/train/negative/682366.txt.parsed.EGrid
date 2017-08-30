@@ -1,0 +1,14 @@
+                BOOT X X - -
+           PARTITION O O - -
+            /DEV/SDA X - - -
+               100MB O - - -
+               BEGIN X - - -
+                DISK X - - -
+                9.10 O - - -
+           /DEV/SDA2 X - - -
+                ROOT X - - -
+                GRUB - S - -
+               ERROR - X - -
+                LIFE - O - -
+              FORMAT - X - -
+                HMMM - - - X

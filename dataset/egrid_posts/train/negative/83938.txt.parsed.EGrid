@@ -1,0 +1,20 @@
+               SETUP X - - - -
+               SOUND X O - - -
+             MPLAYER X - - - -
+                 SEC - - S - -
+                FILE - - X - -
+                SUDO - - O - -
+/ETC/MPLAYER/MPLAYER.CONF - - S - -
+               THERE - - S - -
+              BACKUP - - X - -
+                COPY - - S - -
+              CHANGE - - X - -
+                  VO - - X - -
+                  AO - - X - -
+                LINE - - X - -
+               VO=XV - - X - -
+              AO=ESD - - X - -
+                 ICE - - X - -
+              FREEZE - - X - -
+                  -L - - - - S
+              COMPIZ - - - - O

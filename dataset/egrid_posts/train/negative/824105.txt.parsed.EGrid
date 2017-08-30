@@ -1,0 +1,17 @@
+            GRAPHICS X - - - - - - -
+                CARD X - - - - - - -
+               MODEL X - - - - - - -
+       SND_HDA_INTEL - X - - - - - -
+           SOUNDCARD - X - - - - - -
+                SUDO - X - - X - - -
+                LSHW - S - - - - - -
+               THANK - O - - - - - -
+          PARAMETERS - X - - - - - -
+             DRIVER= - - X - S - - -
+             DISPLAY - - - X - - - -
+              NORMAL - - - O - - - -
+               LSPCI - - - - - - X X
+            TERMINAL - - - - - - - X
+             WEBSITE - - - - - - - X
+                 URL - - - - - - - O
+                HERE - - - - - - - X

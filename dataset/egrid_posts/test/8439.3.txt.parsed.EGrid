@@ -1,0 +1,4 @@
+           PARTITION O -
+                 USE X -
+              BACKUP - X
+                DATA - S

@@ -1,0 +1,8 @@
+               SETUP X X - -
+            IPTABLES O - - X
+                 LOG X - - -
+              TARGET O - - -
+       /VAR/MESSAGES X - - -
+              SYSLOG - O - X
+             DEFAULT - - - X
+              CONFIG - - - X

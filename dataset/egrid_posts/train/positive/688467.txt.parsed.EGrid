@@ -1,0 +1,16 @@
+                 1TB O - - -
+                DATA O - - -
+             WINDOWS X - - -
+                VFAT S - - -
+              FORMAT O - - O
+                WHAT S - - -
+          DIFFERENCE O - - -
+               FAT32 X - - -
+                 LBA X - - -
+                 EXT X - - -
+               FDISK X - - -
+          NTFS-WRITE - S - -
+                WORK - X - -
+             NTFS-3G - - - X
+             UTILITY - - - S
+           PARTITION - - - X

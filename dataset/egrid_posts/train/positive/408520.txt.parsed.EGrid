@@ -1,0 +1,17 @@
+             NETWORK X - - - - - -
+                CARD X - O - - - -
+                 BOX X O - - - - X
+               INTEL X - - - - - -
+                 NIC O - - - O - -
+            ANYTHING - O - - - - -
+               LSPCI - - S - - - -
+                BIOS - - - - X - -
+                 AYE - - - - - X -
+                ETH0 - - - - - - X
+                 ONE - - - - - - O
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - - - - - O
+             ENTRIES - - - - - - O
+             CHANGES - - - - - - S
+                FILE - - - - - - X
+              EFFECT - - - - - - O
+                UDEV - - - - - - O

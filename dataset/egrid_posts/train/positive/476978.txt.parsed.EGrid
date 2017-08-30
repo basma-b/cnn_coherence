@@ -1,0 +1,12 @@
+              OUTPUT X - - -
+               ROUTE X - - -
+                  -N X - - -
+                   / - X - -
+                  AL - X - -
+                HELP - - X -
+              CONFIG - - - S
+             GATEWAY - - - O
+/ETC/NETWORK/INTERFACES - - - X
+   /ETC/GRUB/DEFAULT - - - O
+GRUB_CMDLINE_LINUX_DEFAULT= - - - S
+      ROOT=/DEV/SDA5 - - - X

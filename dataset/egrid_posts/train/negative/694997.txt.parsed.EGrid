@@ -1,0 +1,13 @@
+                   ' S - -
+               GRUB2 X - -
+           1400X1050 O - -
+            GRAPHICS X - -
+          RESOLUTION X - -
+                LUCK O - -
+GRUB_GFXMODE=1400X1050 O - -
+   /ETC/DEFAULT/GRUB X - -
+ /BOOT/GRUB/GRUB.CFG X - -
+         UPDATE-GRUB O - -
+              CHANGE X - -
+             DISABLE - - X
+            WIRELESS - - X

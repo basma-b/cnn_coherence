@@ -1,0 +1,13 @@
+           PARTITION X - O - - -
+               MAGIC S - - - - -
+            ANYTHING O - - - - -
+                 FAT X - - - - -
+                NTFS X - - - - -
+                DATA O - S - - -
+                WORK O - - - - -
+             EXT2IFS - O - - - -
+               CHECK - - O - - -
+              INODES - - X - - -
+               DRIVE - - X - - -
+              EFFORT - - - O - -
+                SAFE - - - - - X

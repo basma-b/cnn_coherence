@@ -1,0 +1,13 @@
+                 BOX S - - -
+                ETH0 X X - O
+             NETWORK X - - -
+                FINE X - - -
+               OTHER X - - -
+                ETH1 - X - O
+        BRIDGE-UTILS - O - -
+                ROUT - X - -
+      192.168.0.0/24 - X - -
+      192.168.1.0/24 - X - -
+              BRIDGE - X - -
+                SUDO - - - X
+               ROUTE - - - S

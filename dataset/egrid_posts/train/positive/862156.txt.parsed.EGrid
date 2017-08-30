@@ -1,0 +1,11 @@
+                RULE X - - - - - -
+                CALL X - - - - - -
+             TRIGGER - - X - - - -
+                SSHD - - - X - - -
+             SERVICE - - - - X X X
+              UBUNTU - - - - X - -
+                LIKE - - - - S - -
+                SUDO - - - - - X -
+                 SSH - - - - - S -
+               THERE - - - - - - X
+           CONFIGURE - - - - - - X

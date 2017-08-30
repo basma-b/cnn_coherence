@@ -1,0 +1,27 @@
+                 MAC X - - - - - - - - -
+             ADDRESS O - - - O - - - - -
+           HWADDRESS X - - - - - - - - -
+/ETC/NETWORK/INTERFACES X - - - - - - - - -
+             NOTHING - O - - - - - - - -
+                THAT - - O - - - - - - -
+             COMMAND - - X - - - - - - -
+            HARDWARE - - X - X - - - - -
+            SOFTWARE - - - - X - - - - -
+              CONFIG - - - - X - - - - -
+                FILE - - - - X - - - O -
+                 WAY - - - - X - - - - -
+               SHELL - - - - - X - - - -
+              SCRIPT - - - - - X - - - -
+            SOLUTION - - - - - X - - - -
+                 PID - - - - - - - X - -
+            INSTANCE - - - - - - - X - -
+             PROCESS - - - - - - - X - -
+                 LOG - - - - - - - - X -
+           /VAR/LOG/ - - - - - - - - X -
+            DPKG.LOG - - - - - - - - S -
+            TERMINAL - - - - - - - - O X
+                TAIL - - - - - - - - X -
+   /VAR/LOG/DPKG.LOG - - - - - - - - X -
+     SOFTWARE-CENTER - - - - - - - - - O
+              OUTPUT - - - - - - - - - O
+             PACKAGE - - - - - - - - - O

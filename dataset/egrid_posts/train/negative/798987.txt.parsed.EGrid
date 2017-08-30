@@ -1,0 +1,15 @@
+                TIME X - -
+                MESS X - -
+             SUDOERS X - -
+                CANT S - -
+                SUDO X - -
+             COMMAND O - -
+              ACCESS X - -
+                BOOT O - -
+              LIVECD X - -
+              VISUDO O - -
+                ROOT - - O
+         /ETC/PASSWD - - S
+               X:0:0 - - X
+               /ROOT - - X
+            /BIN/ETC - - X

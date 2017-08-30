@@ -1,0 +1,15 @@
+               START X -
+  HAL-DEVICE-MANAGER S -
+               ERROR X -
+             MESSAGE S -
+                SHOW O -
+              SOCKET X -
+/VAR/RUN/DBUS/SYSTEM_BUS_SOCKET X -
+                FILE X -
+           DIRECTORY S -
+                 HAL X -
+               THERE - S
+         DBUS-DAEMON - X
+         DBUS-LAUNCH - O
+    /ETC/INIT.D/DBUS - S
+             PROBLEM - O

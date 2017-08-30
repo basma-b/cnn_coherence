@@ -1,0 +1,13 @@
+            APTITUDE S - - - - - S - - X
+         LIBVIRT-BIN O - - - - - X - - -
+             PACKAGE O - O - - - - - - -
+      NETCAT-OPENBSD X - - - O - - - - -
+               PURGE X - - - - - - - - X
+                THIS S X - - - - - - - -
+               SENSE O - - - - - - - - -
+             COMMAND - - - - - S - - - -
+            SEQUENCE - - - - - X - - - -
+           INBETWEEN - - - - - X - - - -
+              RESULT - - - - - - X - - -
+             APT-GET - - - - - - - O - -
+        DEPENDANCIES - - - - - - - - - S

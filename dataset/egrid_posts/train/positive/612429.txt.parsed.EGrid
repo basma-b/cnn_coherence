@@ -1,0 +1,10 @@
+                USER X S - - - -
+                ROOT - X - - - -
+              NAGIOS - X X - - -
+               SHELL - O O - S -
+         /ETC/PASSWD - X - - - -
+           X:101:126 - - X - - -
+    /VAR/RUN/NAGIOS3 - - X - - -
+                 AHH - - - - S -
+         ./BIN/FALSE - - - - - S
+         SYSTEMUSERS - - - - - X

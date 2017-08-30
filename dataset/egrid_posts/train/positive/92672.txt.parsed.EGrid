@@ -1,0 +1,12 @@
+                FILE X O O
+        FILENAME.RPM - O -
+                 APP - - O
+               ERROR - - X
+          ./SDALOGON - - O
+                LOAD - - X
+               SHARE - - X
+           LIBRARIES - - S
+LIBSTDC++-LIBC6.2-2.SO.3 - - X
+              OBJECT - - X
+           DIRECTORY - - S
+             TRILIUM - - X

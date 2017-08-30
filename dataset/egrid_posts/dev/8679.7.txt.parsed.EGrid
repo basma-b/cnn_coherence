@@ -1,0 +1,25 @@
+                GUYS X - - - - - - - - -
+             SOMEONE S - - - - - - - - -
+         BOOT-REPAIR - O - - - - - - - -
+              SYSTEM - O - X - - - - - -
+                BOOT - X X - - X - - - -
+                BIOS - X - - - - - - - -
+                MENU - X - - - - - - - -
+               DRIVE - O - X - - - - - -
+              DEVICE - - S - - - - - - -
+                  CD - - - X - - - - - -
+              SERVER - - - - O - - - - -
+               INTEL - - - - S - - - - -
+           PARTITION - - - - - X - - - -
+               LSPCI - - - - - - - X - -
+                   | - - - - - - - S - -
+            ETHERNET - - - - - - - S - S
+             COMPDOC - - - - - - - S - -
+                 USE - - - - - - - - - X
+                GREP - - - - - - - - - X
+                  -I - - - - - - - - - X
+/ETC/NETWORK/INTERFACES - - - - - - - - - S
+                 CAT - - - - - - - - - X
+           HIGHLIGHT - - - - - - - - - X
+                LINE - - - - - - - - - S
+              KERNEL - - - - - - - - - X

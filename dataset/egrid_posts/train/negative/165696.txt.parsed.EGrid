@@ -1,0 +1,11 @@
+             COMMAND O - -
+                .TGZ O - -
+              GUNZIP - X -
+                 MAN - - X
+                 TOP - - X
+             OPTIONS - - S
+                 -MS - - X
+              MEMORY - - X
+               USAGE - - X
+                 SEC - - X
+            INTERVAL - - X

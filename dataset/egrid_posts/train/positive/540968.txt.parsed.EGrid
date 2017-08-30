@@ -1,0 +1,15 @@
+               ENTRY O - -
+        /ETC/SUDOERS X - -
+            PASSWORD X - -
+                SUDO X X -
+             POSTFIX X - -
+              RELOAD O - -
+                HTTP X - -
+                ROOT - O -
+             EXAMPLE - - S
+               HTTPS - - S
+//HELP.UBUNTU.COM/COMMUNITY/SUDOERS - - S
+                   % - - S
+              20FROM - - S
+               20THE - - S
+           20WITHOUT - - S

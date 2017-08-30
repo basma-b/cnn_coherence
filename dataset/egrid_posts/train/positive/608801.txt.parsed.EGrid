@@ -1,0 +1,14 @@
+                 USE X - - - - - - -
+                EXT4 O O X - X - - -
+           PARTIMAGE - O - - - - - -
+             BACKUPS - X - - - - - -
+                  DD - - X - - - - -
+               THERE - - - X - - - -
+           SOMETHING - - - X - - - -
+                GRUB - - - - O - - -
+               GRUB2 - - - - - O - -
+                  .. - - - - - - O -
+                TEST - - - - - - X -
+             MACHINE - - - - - - X -
+               DRIVE - - - - - - X -
+                  OK - - - - - - - X

@@ -1,0 +1,10 @@
+             PROGRAM O - - - - - - -
+                 USE X - - - - - - -
+              SCRIPT X - - - - - - -
+                RULE - X - - - - - -
+              TARGET - S - - - - - -
+            MAKEFILE - X - - - - - -
+                FILE - - - S - - - -
+              README - - - - - X - -
+        DEPENDENCIES - - - - - S - -
+                  .. - - - - - - - X

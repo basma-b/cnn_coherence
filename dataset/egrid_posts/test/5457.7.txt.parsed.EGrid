@@ -1,0 +1,15 @@
+                FILE O - -
+                PATH X - -
+             EXAMPLE X - -
+                TYPE X - -
+ /SOME/THING/FOO.BIN O - -
+           DIRECTORY X S -
+                  CD X - -
+             COMMAND O - -
+               THING O - -
+            QUESTION - S -
+                GRUB - X X
+                BOOT - X X
+              SECTOR - S S
+                 MBR - - X
+           PARTITION - - X

@@ -1,0 +1,12 @@
+                 USE S - -
+             SUDOERS X - -
+                FILE X - -
+                WHAT O - -
+                TYPE - - S
+               NIGHT - - X
+                 ALL - - O
+              UPDATE - - O
+             MANAGER - - X
+                SUDO - - X
+             UPGRADE - - X
+             COMMAND - - X

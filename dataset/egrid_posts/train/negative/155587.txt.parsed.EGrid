@@ -1,0 +1,6 @@
+                LINK X -
+                SUDO S -
+  /PATH/TO/REAL/FILE X -
+       /PATH/TO/LINK O -
+               ERROR - O
+             WINFUCK - O

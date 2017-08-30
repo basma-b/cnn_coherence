@@ -1,0 +1,9 @@
+           PARTITION S - -
+              RENAME O - -
+           /DEV/SDA2 X - -
+           /DEV/SDA3 X - -
+                BOOT X - -
+                 USB X - -
+                  HD O - -
+              LITTLE - - X
+            QUESTION - - X

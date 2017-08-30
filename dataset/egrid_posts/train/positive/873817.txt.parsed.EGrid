@@ -1,0 +1,17 @@
+                 IPS X - - - -
+                 ONE S - - - -
+       192.168.1.123 S - - - X
+             DEFAULT X - - - -
+                  GW S - - - -
+            ANYTHING O - - - -
+                .1.0 X - - - -
+            INTERNET X - - - -
+              SERVER X - - - -
+         192.168.0.9 X - - - X
+              CLIENT X - - - -
+              SUBNET O - - - -
+                 /16 - X - - -
+                 YUP - - X - -
+                 EHH - - X - -
+                 /24 - - X - -
+             SUBNETS - - - - X

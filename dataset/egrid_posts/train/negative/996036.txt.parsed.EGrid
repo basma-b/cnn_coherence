@@ -1,0 +1,18 @@
+                HELP X - - - - -
+                WORK O - - - - -
+                 DNS - S - O - -
+                 USE - O - - - -
+         RESOLV.CONF - S - - - -
+                HOST - X - X - -
+                LINE - O O O - -
+                THAT - - O - - -
+               THERE - - X - - -
+              MOMENT - - X - - -
+          NAMESERVER - - X - - -
+       NSSWITCH.CONF - - X - - -
+                FILE - - - X - -
+                MDNS - - - S - -
+                SUDO - - - - S -
+/ETC/INIT.D/NETWORKING - - - - S -
+                 BOX - - - - X -
+             COMMAND - - - - - X

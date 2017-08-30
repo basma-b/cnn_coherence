@@ -1,0 +1,10 @@
+                SUDO X - - - - -
+    DPKG-RECONFIGURE X - - - - -
+        XSERVER-XORG X - - - - -
+               RIGHT X - - - - -
+                AUTO - X - - X -
+                ETH0 - S - - O -
+/ETC/NETWORK/INTERFACES - X - - X -
+            WIRELESS - X - - - -
+                CARD - X - - - X
+                THAT - - - - - X

@@ -1,0 +1,14 @@
+                TIME X - - - -
+                 GUY S - - - -
+             DEFAULT X - - - -
+            RUNLEVEL O - - - -
+        /ETC/INITTAB X - - - -
+                  IL S - - - -
+                 GDM O - - - O
+      TERMINAL-LOGIN X - - - -
+         COMMANDLINE - - X - -
+                EXIT - - O O -
+                 TOP - - X - -
+     /ETC/INIT.D/GDM - - X X -
+GNOME-CONTROL-CENTER - - - - X
+               PLACE - - - - X

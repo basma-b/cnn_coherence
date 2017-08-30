@@ -1,0 +1,15 @@
+             COMMAND X - - -
+                FILE X - - -
+             CONTENT O - - -
+                 CAT - X - -
+               FILE1 - X - -
+               FILE2 - S - -
+                   X - X - -
+                   > - X - -
+             NEWFILE - X - -
+            MODPROBE - X - -
+                  -L - S - -
+             MODULES - O - -
+SWAP=1.5XRAM+VIDEORAM - O - -
+               2XRAM - - X -
+            NONSENSE - - - X

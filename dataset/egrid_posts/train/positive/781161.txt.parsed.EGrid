@@ -1,0 +1,13 @@
+              TARGET S - - - -
+               LEAVE O - - - -
+               STATE X - - - -
+               DELTA S S - - -
+            INSTANCE - S - - -
+                FILE - - S - -
+                CRON - - S - -
+              MINUTE - - O - -
+              RSYNCS - - S - -
+                 ALL - - S - -
+           BANDWIDTH - - X - -
+                LOCK - - - - O
+                 JOB - - - - X

@@ -1,0 +1,37 @@
+             SOMEONE X - - - - - - - - - - - - - - - - -
+               FAVOR X - - - - - - - - - - - - - - - - -
+                  -Y S - - - - - - - - - - - - - - - - -
+PYTHON-MYSQLDB=1.2.2-10BUILD1 O - - - - - - - - - - - - - - - - -
+                 ANY X - - - - - - - - - - - - - - - - -
+               HTTPS - X - - - - - - - - - - - - - - - -
+             RELEASE - X - - - - - - - - - - - - - - - -
+              SERVER - - X - - - - - - - - - - - - - - -
+                 DIG - - - - O - - - - - - - - - - - - -
+        MYSQL-COMMON - - - - S - - - - - - S - X - - - -
+          DEPENDENCY - - - - X - - - - - - O - - - - - -
+      PYTHON-MYSQLDB - - - - X - - - - - - S - - - - - -
+             PERCONA - - - - O - X - - X - - - O X - - -
+                DICE - - - - X - - - - - - - - - - - - -
+               ISSUE - - - - - O - - - O - - - - - - - -
+                REPO - - - - - - X - - X - - - - X - - -
+              ENABLE - - - - - - X - - - - - - - - - - -
+                 ONE - - - - - - - O - - - - - - - - - -
+                DEBS - - - - - - - X - - - - - - - - - -
+                 AHH - - - - - - - O - - - - - - - - - -
+               LUCID - - - - - - - - X - - - - X - - - -
+                LOOK - - - - - - - - O - - - - - - - - -
+                HTTP - - - - - - - - X - - - - - - - - -
+//REPO.PERCONA.COM/APT/DISTS/LUCID/MAIN/BINARY-I386/PACKAGES - - - - - - - - S - - - - - - - - -
+            VERSIONS - - - - - - - - S - - - - - - - - O
+                 MIX - - - - - - - - - S - - - - - - - -
+             PACKAGE - - - - - - - - - X - - - - S - - -
+                MAIN - - - - - - - - - X - - - - - - - -
+           SOMETHING - - - - - - - - - - - X - - - - - -
+    LIBMYSQLCLIENT16 - - - - - - - - - - - - O S - - - X
+                   > - - - - - - - - - - - - - X - - - -
+               LIBC6 - - - - - - - - - - - - - - X - - -
+              ZLIBG1 - - - - - - - - - - - - - - X - - -
+                 SIR - - - - - - - - - - - - - - - - X -
+             APT-GET - - - - - - - - - - - - - - - - - S
+              INSTAL - - - - - - - - - - - - - - - - - O
+                SUDO - - - - - - - - - - - - - - - - - X

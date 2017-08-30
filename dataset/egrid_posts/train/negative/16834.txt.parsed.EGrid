@@ -1,0 +1,13 @@
+              SOURCE O - - -
+        REPOSITORIES - S - -
+               ERROR - X - -
+             MESSAGE - O - -
+                DPKG - - X -
+                LIST - - X -
+                   | - - X S
+                GREP - - X -
+                 ^II - - X -
+                   * - - - X
+                  -D - - - X
+                  -F - - - O
+                SORT - - - X

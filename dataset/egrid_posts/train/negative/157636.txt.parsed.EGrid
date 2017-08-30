@@ -1,0 +1,8 @@
+           .XSESSION S X -
+                BOOT - X -
+             FLUXBOX - O -
+                  DM - X -
+            .XINITRC - X -
+               YAHOO - - X
+             ACCOUNT - - X
+                USER - - O

@@ -1,0 +1,27 @@
+               DARCS - S O - - -
+             VERSION - X - - - -
+             CONTROL - X - - - -
+                TOOL - X - - - -
+            UNIVERSE - X - - - -
+          REPOSITORY - O - - - -
+              ACCORD - X - - - -
+                HTTP - X - - - -
+//PACKAGES.UBUNTULINUX.ORG/EDGY/DEVEL/DARCS - X - - - -
+                SUDO - X - - - -
+            APTITUDE - X - - - -
+              SEARCH - X O S - -
+             NOTHING - S X - - -
+             PACKAGE - - X - - -
+                NAME - - S - - -
+           APT-CACHE - - X - - -
+                   < - - S - - -
+                EBEL - - X - - -
+              RETURN - - O - - -
+                SAME - - - O - X
+              NVIDIA - - - - - X
+                 ATI - - - - - S
+             DRIVERS - - - - - S
+              SOURCE - - - - - O
+                VBOX - - - - - X
+              VMWARE - - - - - X
+                 TON - - - - - X

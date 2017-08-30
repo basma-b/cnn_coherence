@@ -1,0 +1,10 @@
+               ERROR O - - - - - - - -
+              DEVICE O - - - - - - - -
+                   / X - - - - - - - -
+                /DEV X - - - - - - - -
+               IDEAS - - - X - - - - -
+              CHROOT - - - - X - - - -
+            SETTINGS - - - - - - - S -
+     DCONF/GSETTINGS - - - - - - - X -
+GCONF/DCONF/GSETTINGS - - - - - - - - S
+                USER - - - - - - - - X

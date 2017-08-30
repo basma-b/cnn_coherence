@@ -1,0 +1,20 @@
+             VERSION X - - - - -
+             PACKAGE X - - - - -
+           APT-CACHE - X - - - -
+              POLICY - X - - - -
+       ACTIONPARSNIP - X - - - -
+               WHATS - S - - - -
+     ERRORS/WARNINGS - - X - - -
+                   ' - - - X - -
+                LINE - - - S - -
+       MOUNT-OPTIONS - - - O - -
+                  RW - - - S - -
+   ERRORS=REMOUNT-RO - - - X - -
+                  RO - - - O - -
+                CASE - - - X - -
+              ERRORS - - - S - -
+                NEWS - - - O - -
+              ADVICE - - - X - -
+                FILE - - - - O -
+                 -RF - - - - - X
+/HOME/USERNAME/.UNISON/ - - - - - X

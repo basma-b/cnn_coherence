@@ -1,0 +1,6 @@
+                 ALL O - - -
+         /ETC/SUDOER O - - -
+              ANYONE X - - -
+              VISUDO - X - -
+                  VI - - - X
+        /ETC/SUDOERS - - - O

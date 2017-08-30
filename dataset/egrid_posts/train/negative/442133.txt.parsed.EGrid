@@ -1,0 +1,12 @@
+               FAT32 S - S - - O - S - -
+            FRAGMENT - X - - - - - - - -
+                   U - - - - X - - - - -
+           PARTITION - - - - - X - - - -
+                FILE - - - - - O - - O -
+              DRIVER - - - - - - - O - -
+                CANT - - - - - - - - S -
+                BOOT - - - - - - - - - X
+              DEVICE - - - - - - - - - X
+           /DEV/SDA1 - - - - - - - - - X
+                ROOT - - - - - - - - - X
+               HD0,1 - - - - - - - - - X

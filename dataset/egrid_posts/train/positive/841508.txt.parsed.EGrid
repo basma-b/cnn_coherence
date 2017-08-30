@@ -1,0 +1,6 @@
+                 USE O -
+                 ISO X -
+                DISK X -
+          ENCRYPTION X -
+                LUKS - X
+            DM_CRYPT - X

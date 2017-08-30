@@ -1,0 +1,16 @@
+                CANT S - - - - - -
+                  OS X - - - - - -
+              SCREEN - S - - - - -
+               LOGIN - X - - - - -
+                HELP - - X - - - -
+             MONITOR - - - X - - -
+                GRUB - - - S - - -
+              KERNEL - - - X - - -
+            GRAPHICS - - - X - - -
+                MODE - - - X - - -
+             SUPPORT - - - O - - -
+GRUB_GFXMODE=640X480 - - - - X - -
+   /ETC/DEFAULT/GRUB - - - - X - -
+                SUDO - - - - X - -
+         UPDATE-GRUB - - - - X - -
+             PERFECT - - - - - - X

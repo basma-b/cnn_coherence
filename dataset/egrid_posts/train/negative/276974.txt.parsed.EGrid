@@ -1,0 +1,21 @@
+            WIRELESS X X X - - - - -
+                CARD X X X - - - - -
+              DRIVER X X X - - - - -
+                  =/ - X - - - - - -
+             SCRATCH - X - - - - - -
+         NDISWRAPPER - X - - - - - -
+                  =P - X - - - - - -
+               DRIVE - - - X - - - -
+                WORK - - - O - - - -
+            FWCUTTER - - - X - X - -
+                NDIS - - - X - S - -
+                 ONE - - - - O - - -
+             BCM43XX - - - - - X O -
+/ETC/MODPROBE.D/BLACKLIST - - - - - X - -
+               SETUP - - - - - X - -
+               IVOKS - - - - - O - -
+                WIFI - - - - - X - -
+                   K - - - - - X - -
+           BLACKLIST - - - - - - X -
+/DEV/MODPROBE.D/BLACKLIST - - - - - - X -
+                 PHP - - - - - - - O

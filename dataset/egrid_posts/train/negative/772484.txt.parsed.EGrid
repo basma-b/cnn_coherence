@@ -1,0 +1,16 @@
+               CHMOD S O -
+             SERVICE X X -
+             COMMAND S - -
+                WORK O X -
+                SSHD - S -
+                SUDO - X -
+           PROCESSID - O -
+                STOP - O -
+             PROCESS - X -
+                  ID - X -
+                 SSH - X -
+                PATH - X -
+                THIS - S -
+               GRAVE - X -
+            CHROMIUM - - X
+             FIREFOX - - X

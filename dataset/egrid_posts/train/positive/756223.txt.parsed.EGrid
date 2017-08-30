@@ -1,0 +1,14 @@
+                TYPE X - - - - -
+             ADDUSER X X - - - -
+            NEWADMIN O - S - - -
+               GROUP X - X - - -
+               ADMIN O X X - - -
+                NAME O - - - - -
+                MODE X - - - - -
+                SUDO - X - - - -
+            USERNAME - X - - - -
+                  .. - S - - - -
+                REST - S - - - -
+             COMMAND - - S - - -
+                USER - - O - - X
+                 ONE - - - - - X

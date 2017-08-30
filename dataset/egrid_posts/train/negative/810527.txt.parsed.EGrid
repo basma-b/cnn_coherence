@@ -1,0 +1,17 @@
+WLAN-HARDWARE-SWITCH X - - - - - -
+               CHECK - X - - - - -
+              OUTPUT - S - - - - -
+              RFKILL - X - - - - -
+                LIST - X - - - - -
+               LIGHT - X - - - - -
+              BUTTON - X - - - - -
+              ORANGE - O X - - - -
+              ALWAYS - - X - - - -
+                PHY0 - - - X - - -
+            WIRELESS - - - X - - -
+                 LAN - - - X - - -
+                SAME - - - - O - -
+                JAVA - - - - O - -
+                  FF - - - - X - -
+                SITE - - - - - X -
+                   U - - - - - - O

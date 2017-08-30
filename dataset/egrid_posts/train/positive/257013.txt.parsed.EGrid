@@ -1,0 +1,23 @@
+               SHARE S - - - - S S - -
+                BOOT X - - - - - - - -
+          READ/WRITE X - - - - - - - -
+               USERS X - - S - - - - -
+              SYSTEM X - - - - - - - -
+               FSTAB - X - - - - - - -
+                HTTP - O - - - - - - -
+//PASTE.UBUNTU-NL.ORG/8040/ - S - - - - - - -
+                WHAT - - - - O - - - -
+                SUDO - - - - X - - - -
+              GKSUDO - - - - X - - - -
+               GEDIT - - - - S - - - -
+                USER - - - - - O - - X
+         PERMISSIONS - - - - - - O - O
+           DIRECTORY - - - - - - O - -
+             PROBLEM - - - - - - S - -
+               POINT - - - - - - O - -
+                OTHE - - - - - - X - -
+              RUSERS - - - - - - X - -
+                 -RF - - - - - - - - X
+               CHMOD - - - - - - - - X
+             CORRECT - - - - - - - - S
+              FOLDER - - - - - - - - X

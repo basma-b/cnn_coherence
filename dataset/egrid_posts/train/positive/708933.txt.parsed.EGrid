@@ -1,0 +1,10 @@
+        DIST-UPGRADE S - - - -
+         FIX-MISSING X - - - -
+             PACKAGE O - - - -
+              KARMIC X - - - -
+             RELEASE X - - - -
+                SUDO - X - - -
+  DO-RELEASE-UPGRADE - S - - -
+                 MAN - X X - -
+                PAGE - X X - -
+             COMMAND - - X - -

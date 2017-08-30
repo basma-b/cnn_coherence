@@ -1,0 +1,14 @@
+             COMMAND X - -
+                LINE X - -
+/ETC/APT/SOURCES.LIST O - -
+                  DI - X -
+              SOURCE - O -
+  APT-ADD-REPOSITORY - X -
+                 DEB - X -
+                HTTP - X -
+                  .. - X -
+               QUOTE - X -
+                WORK - X -
+                  TY - O -
+                 USE - - S
+               GUESS - - O

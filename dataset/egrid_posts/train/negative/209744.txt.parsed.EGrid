@@ -1,0 +1,29 @@
+              SOURCE X - - - - - - - - - -
+                FILE O - - S - - - - - - -
+             APT-GET S - - - - - - - - - -
+                COPY O - - - O - - - - - -
+                GZIP X - - - - - - - - - -
+               STDIN X - - - - - - - - - -
+              FORMAT X - - - - - - - - - -
+               CACHE X - - - X - - - - - -
+                  GZ - X O - - - - - - - -
+                 BZ2 - X - - - - - - - - -
+                 URL - - - O - - - - S - -
+                HAND - - - X - - - - - - -
+              UPDATE - - - - - O - - - - -
+             MESSAGE - - - - - X - - - - -
+               ISSUE - - - - - - O - O - -
+/ETC/APT/SOURCES.LIST - - - - - - - S - - -
+                HTTP - - - - - - - - - O -
+                CANT - - - - - - - - - S -
+                REPO - - - - - - - - - O -
+               SENSE - - - - - - - - - X X
+//PASTEBIN.CA/223347 - - - - - - - - - O -
+                THIS - - - - - - - - - S -
+                TEXT - - - - - - - - - O -
+               ERROR - - - - - - - - - O -
+                  OK - - - - - - - - - S -
+           BACKPORTS - - - - - - - - - X -
+          MULTIVERSE - - - - - - - - - O -
+            SECURITY - - - - - - - - - X -
+             CONTROL - - - - - - - - - X -

@@ -1,0 +1,15 @@
+               SETUP X - -
+                  IP O - -
+                 DNS X - -
+              ROUTER S - -
+                 USE X - -
+                  .. O - -
+             WINDOWS X - -
+            IPCONFIG X - -
+                /ALL O - -
+            IFCONFIG S - -
+                 CAT - X -
+    /ETC/RESOLV.CONF - S -
+                 LOT - O -
+                   D - X -
+                  NP - - X

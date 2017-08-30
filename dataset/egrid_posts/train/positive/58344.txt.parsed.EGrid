@@ -1,0 +1,6 @@
+              SCRIPT S -
+           PARTITION O X
+                NTFS S X
+                 R/W O -
+               WRITE - S
+                LOSS - O

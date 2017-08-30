@@ -1,0 +1,27 @@
+                THIS S - -
+        /BOOT/CONFIG - X -
+                FILE - O -
+/USR/SRC/2.6.10/.CONFIG - X -
+              KERNEL - O -
+                SAME - X -
+              INITRD - O -
+                WORK - X -
+             ENTRIES - X -
+                GRUB - X -
+               AUDIT - X -
+                LINE - O -
+               PANIC - X -
+             SYNCING - X -
+                 VFS - X -
+                ROOT - X -
+              DEVICE - X -
+                 0,0 - X -
+           MAKE-KPKG - O -
+        KERNEL_IMAGE - X -
+               THING - - O
+             PROGRAM - - S
+             BROWSER - - O
+         APPROPRAITE - - X
+                BASE - - S
+             CHOICES - - X
+                   X - - X

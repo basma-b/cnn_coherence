@@ -1,0 +1,12 @@
+               SOUND X - - -
+                CARD X - - O
+            /DEV/DSP - - S -
+                 OSS - - X -
+                ALSA - - X -
+           EMULATION - - S -
+            MODPROBE - - X -
+         SND-PCM-OSS - - O -
+                 HMM - - - X
+             DRIVERS - - - S
+                MINE - - - X
+              NVIDIA - - - X

@@ -1,0 +1,22 @@
+              BADGER O - - - - - - -
+           POWERBOOK X - - - - - - -
+              ERRORS O X - - - - - -
+           PARTITION O - - - - - - -
+                KIND - X - - - - - -
+               ERROR - - S - - - - O
+                FILE - - X - - - - -
+              SYSTEM - - O - - - - -
+                EXT3 - - S - - - - -
+            CREATION - - O - - - - -
+              MASTER - - X - - - - -
+                 HDA - - S - - - - -
+              LIVECD - - - O - - - -
+                 HFS - - - - X X - -
+              VOLUME - - - - O - - X
+                GOOD - - - - O - - -
+               CHECK - - - - - - - X
+                  CD - - - - - - - O
+                DISK - - - - - - - X
+             UTILITY - - - - - - - X
+           VERIFYING - - - - - - - X
+UBUNTU_POWERPC_BREEZY - - - - - - - X

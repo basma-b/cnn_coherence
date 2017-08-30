@@ -1,0 +1,4 @@
+   /PROC/ACPI/EVENTS S - - - -
+               MKDIR - - - S -
+         PERMISSIONS - - - - X
+               /PROC - - - - X

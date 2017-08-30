@@ -1,0 +1,11 @@
+   /ETC/DEFAULT/GRUB O - - - - -
+                LINE O - - - - -
+GRUB_GFXPAYLOAD_LINUX=1920X1080 S - - - - -
+        UPDATE-GRUB2 O - - - - -
+GRUB_GFXMODE=1360X768 - S - - - -
+          RESOLUTION - O - - - -
+             OPTIONS - - O - - -
+              XRANDR - - - S - -
+                  .. - - - - - X
+                   X - - - - - X
+                 TTY - - - - - X

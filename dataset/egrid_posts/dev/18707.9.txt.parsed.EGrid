@@ -1,0 +1,9 @@
+                IFUP S -
+                CALL O -
+/ETC/INIT/NETWORK-INTERFACE.CONF X -
+             UPSTART X -
+             SYSTEMS - X
+GNOME-SYSTEM-MONITOR - S
+               USAGE - O
+             TRUMPET - X
+             FANFARE - X

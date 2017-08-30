@@ -1,0 +1,17 @@
+       SPECIFICATION X - - - -
+                AUTO X - - - -
+                FILE O S - - -
+               MEDIA X - - O -
+                PATH X - - - -
+               POINT X - - - -
+         ENVIRONMENT S - - - -
+                 WAY - X - - -
+            AUTOOPEN - X - - -
+           AUTOSTART - X - - -
+                NAME - O - - -
+              SCRIPT - O - - O
+                   / - X - - -
+              INSERT - - - X -
+/MEDIA/FOO/AUTORUN.SH - - - - X
+                   * - - - - S
+                  SH - - - - X

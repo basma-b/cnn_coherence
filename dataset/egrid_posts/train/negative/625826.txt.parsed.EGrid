@@ -1,0 +1,24 @@
+           WEBSERVER O - - - - - - - - - - - -
+             USERDIR O - - - - - - - - - - - -
+              MODULE S - - - - - - - - - - - -
+                FIND O - - - - - - - - - - - -
+             APACHE2 - - X X - - - X - - - - -
+             VERSION - - X X - - - - - - - - -
+              INSTAL - - - X - - - - - - - - -
+    APACHE2.2-COMMON - - - - S - - - X - - - -
+              POLICY - - - - X - - - - - - - -
+        USERDIR.LOAD - - - - - S - - - - - - -
+/ETC/APACHE2/MODS-AVAILABLE - - - - - X - - - - - - -
+              APACHE - - - - - - X - - - - - -
+                PATH - - - - - - - S - - - - -
+              BACKUP - - - - - - - - X - - - -
+              CUSTOM - - - - - - - - X - - - -
+               STUFF - - - - - - - - O - - - -
+       /ETC/APACHE2/ - - - - - - - - X - - - -
+               PURGE - - - - - - - - X - - - -
+            THANKYOU - - - - - - - - O - - - -
+               THING - - - - - - - - - - - X -
+              UBUNTU - - - - - - - - - - - - O
+             CLASSIC - - - - - - - - - - - - O
+               LOGIN - - - - - - - - - - - - X
+                  .. - - - - - - - - - - - - X

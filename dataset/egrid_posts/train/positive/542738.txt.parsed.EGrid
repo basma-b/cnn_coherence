@@ -1,0 +1,17 @@
+           PARTITION O - X - X -
+                USER X - O - O -
+           UMASK=000 O - - - - -
+          /ETC/FSTAB X - - - - -
+                HINT - X - - - -
+             OPTIONS - - X - - -
+               FIELD - - X - - -
+                FILE - - X - - -
+             ACCOUNT - - O - S -
+              OPTION - - O - O -
+                THAT - - - - S -
+                WORK - - - - O -
+                ROOT - - - - O -
+              UMOUNT - - - - O -
+              ACCESS - - - - O -
+              MOMENT - - - - X -
+                HELP - - - - - X

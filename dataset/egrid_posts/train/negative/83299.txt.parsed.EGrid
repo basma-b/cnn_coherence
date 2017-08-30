@@ -1,0 +1,13 @@
+           PARTITION O - - - - -
+                NTFS X - - S - -
+              FORMAT X - - - - -
+                BOOT - X - - - -
+              UBUNTU - S - - - -
+                MODE - - O - - -
+          FILESYSTEM - - - O - -
+              ACCESS - - - X - -
+           READ-ONLY - - - S - -
+             ACRONYM - - - - - X
+             PACKAGE - - - - - S
+                TEST - - - - - X
+            FUNCTION - - - - - O

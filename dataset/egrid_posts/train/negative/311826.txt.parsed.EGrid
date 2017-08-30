@@ -1,0 +1,17 @@
+             NETWORK X X X - -
+            SETTINGS X O X - -
+                 SET O - - - -
+         CONNECTIONS S - - - -
+      LOCALHOST:3128 X X - - -
+               SQUID X O - - -
+               PROXY - X X - -
+             APT-GET - X - - -
+               ERROR - O - - -
+             PACKAGE - O - - -
+              CHANGE - - X - -
+             REVERSE - - O - -
+            QUESTION - - - O -
+             RESPOND - - - X -
+               LINUX - - - - X
+           PARTITION - - - - O
+                GRUB - - - - S

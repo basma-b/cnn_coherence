@@ -1,0 +1,10 @@
+                 SCP S -
+   ~/.SSH/ID_RSA.PUB O -
+       OTHER_MACHINE X -
+/PATH/TO/DIRECTORY/.AUTHORIZED_KEYS2 S -
+            FILENAME S -
+           OVERWRITE X -
+                 KEY O -
+                 WAY X -
+                 OK. - X
+             PROGRAM - X

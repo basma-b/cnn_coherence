@@ -1,0 +1,13 @@
+              SCRIPT X - - -
+             STARTUP X - - -
+             PROCESS O O - -
+                DEAL - X - -
+             NETWORK - X S -
+          INTERFACES - X - -
+                SMTP - S - -
+                BOOT - X - -
+/ETC/NETWORK/INTERFACES - - X -
+                LINK - - X -
+             /ETC/RC - - X -
+                   * - - - X
+                   / - - - X

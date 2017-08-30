@@ -1,0 +1,9 @@
+                  DD S S S
+        IF=/DEV/HDA1 X - -
+        OF=/DEV/SDA1 X - -
+           SOMETHING X - -
+               CLOSE X - -
+                BITE S - -
+               RSYNC - X -
+               LEVEL - - X
+              SYSTEM - - O

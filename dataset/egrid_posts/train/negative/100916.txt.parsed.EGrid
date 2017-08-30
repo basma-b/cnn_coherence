@@ -1,0 +1,9 @@
+             COMMAND X - -
+              SCREEN X - -
+          RESOLUTION O - -
+                SUDO - X -
+    DPKG-RECONFIGURE - X -
+        XSERVER-XORG - X -
+                NSCD - - O
+                LDAP - - X
+              SERVER - - O

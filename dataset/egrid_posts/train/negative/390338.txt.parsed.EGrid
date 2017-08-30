@@ -1,0 +1,22 @@
+                CARD O - - - O - -
+              OUTPUT O - - - O - -
+               THERE S - - - - - -
+                ALSA - - S - - - -
+                 API - - X - - - -
+           SUBSYSTEM - - O - - - -
+                APPS - - - S - - -
+              DEVICE - - - X - - -
+                 USE - - - O - - -
+               SOUND - - - - X - -
+                 ONE - - - - O - -
+                  .. - - - - O - -
+               INTEL - - - - O - -
+                NAME - - - - X - -
+                 CAT - - - - X - -
+/PROC/ASOUND/MODULES - - - - O - -
+             COMMAND - - - - X - -
+            TERMINAL - - - - X - -
+                FILE - - - - - - X
+           DIRECTORY - - - - - - X
+ /USR/BIN/AUTORECONF - - - - - - X
+                LINE - - - - - - X

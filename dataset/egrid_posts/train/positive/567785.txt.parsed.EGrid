@@ -1,0 +1,16 @@
+               SLICE O - - -
+           PARTITION X - - -
+              DEVICE X - - X
+           /DEV/SDC1 - X - -
+              NUMBER - O - -
+                 END - X - X
+               THING - O - -
+              RESULT - - X -
+            /DEV/SDC - - X -
+                   P - - X -
+          SUBCOMMAND - - X -
+                BOOT - - - X
+               START - - - X
+              BLOCKS - - - X
+                  ID - - - X
+              SYSTEM - - - X

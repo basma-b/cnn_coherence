@@ -1,0 +1,17 @@
+          DIFFERENCE X - - - -
+           /USR/SBIN X - - - -
+                SBIN - S - - -
+            BINARIES - X - - -
+                ROOT - X - - -
+          PERMISSION - O - - -
+/ETC/INIT.D/GEARMAN-JOB-SERVER - - X - -
+                PATH - - S - -
+                AUTO - - X - -
+              SYSTEM - - X - -
+              REBOOT - - X - -
+                 BIN - - X - -
+                  .. - - X - -
+              BINARY - - S - -
+             MINUTES - - - - O
+               CRASH - - - - O
+              FREEZE - - - - O

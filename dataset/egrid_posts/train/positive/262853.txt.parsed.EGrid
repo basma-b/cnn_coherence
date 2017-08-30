@@ -1,0 +1,13 @@
+               OUTGO X - - - - - - -
+            FIREWALL - X - - - - - -
+                ROOT - X - - - - - -
+              ACCESS - O - - - - - -
+            COMPUTER - X X - - - - -
+                 WAY - - X - - - - -
+               PROXY - - X - - - X -
+              TUNNEL - - X - - - - -
+            INTERNET - - X - - - - -
+               SQUID - - - S - - - -
+                 P75 - - - - - X - -
+           SOMETHING - - - - - X - O
+               CACHE - - - - - - O -

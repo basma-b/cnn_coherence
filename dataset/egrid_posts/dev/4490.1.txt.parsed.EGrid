@@ -1,0 +1,25 @@
+             ANYBODY S - - - - - -
+             EXPERTS O - - - - - -
+       CONFIGURATION - O - - - - -
+DISCOVERY.SENDTARGETS.AUTH.AUTHMETHOD=CHAP - O - - - - -
+                 SET - X - - - - X
+                  OT - S - - - - -
+                  .. - X - - - - -
+            ISCSIADM - - - S - - -
+                MODE - - - X - - -
+           DISCOVERY - - - S - - X
+                  OP - - - X - - -
+              UPDATE - - - S - - -
+                NAME - - - X - - -
+DISCOVERY.SENDTARGETS.AUTH.AUTHMETHOD - - - S - - -
+              VALUE= - - - S - - -
+              RETURN - - - X - - -
+          OPERATIONS - - - S - - -
+                 NEW - - - S - - -
+                NODE - - - X - - -
+              TARGET - - - - O - S
+                 THE - - - - - - X
+            UNSECURE - - - - - - X
+                CHAP - - - - - - O
+             SESSION - - - - - - X
+              DETAIL - - - - - - X

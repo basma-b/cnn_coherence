@@ -1,0 +1,10 @@
+            /VAR/WWW X - - - -
+               POINT X - - - -
+                DISK X - - - -
+               FSTAB X - - - -
+          /ETC/FSTAB - S - - -
+               WHICH - - - S -
+              ACCESS - - - X -
+           PARTITION - - - S -
+              DEVICE - - - X -
+                NOPE - - - - X

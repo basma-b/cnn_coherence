@@ -1,0 +1,17 @@
+               CHMOD O - - -
+                PERM O - - -
+                USER X X - -
+               CHOWN - - O -
+              MOMENT - - - O
+            TERMINAL - - - X
+                SUDO - - - X
+                BASH - - - X
+                 DEB - - - X
+                 URL - - - X
+                   | - - - X
+                 TEE - - - X
+                  -A - - - S
+            -APT-KEY - - - X
+KEYSERVER.UBUNTU.COM - - - X
+          -RECV-KEYS - - - S
+             COMMAND - - - O

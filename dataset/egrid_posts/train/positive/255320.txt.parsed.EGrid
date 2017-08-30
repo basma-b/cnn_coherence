@@ -1,0 +1,15 @@
+             PROBLEM X - - - - -
+                 CAT X - O - O -
+               FILE1 O - X - - -
+               FILE2 X - - - X -
+                BASH X - - - - -
+          PERMISSION S - - - - -
+                  OK - - S - - -
+                SUDO - - X - X -
+                   | - - X - X -
+                 TEE - - S - X -
+                FILE - - O - - -
+             COMMAND - - - S - -
+                THAT - - - - S -
+                   > - - - - - O
+              WHOOPS - - - - - S

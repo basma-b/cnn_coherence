@@ -1,0 +1,21 @@
+               SOUND O - - - - - - - -
+             OPTIONS - X - - - - - - -
+         PREFERENCES - X - - - - - - -
+              DIALOG - X - - - - - - -
+                CARD - O - - - - - - -
+              OUTPUT - X - X - - - - -
+             NOTHING - O - - - - - - -
+              VOLUME - - S - - - - - -
+          EVERYTHING - - S - - - - - -
+               IN/ON - - O - - - - - -
+/PROC/ASOUND/OSS/SNDSTAT - - - X - - - - -
+             REALTEK - - - - X - - - -
+            SIGMATEL - - - - S - - - -
+                HTTP - - - - O - - - -
+//WWW.LINUX-SOUND.INFO/ALSA/INDEX.PHP - - - - X - - - -
+                 URL - - - - - S - - -
+               PASTE - - - - - X - - -
+              SCRIPT - - - - - X - - -
+                LINK - - - - - X - - -
+                PAGE - - - - - X - - -
+           ALSA-INFO - - - - - - O - -

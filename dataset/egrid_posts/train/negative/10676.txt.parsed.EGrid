@@ -1,0 +1,17 @@
+           PARTITION O - - - - - - - -
+                DISK O - - - - - - - -
+                PART S - - - - - - - -
+               TABLE X - - - - - - - -
+                CASE X - - - - - - - -
+           INSTALLER O - - - - - X - -
+                 END X - - - - - - - -
+               FDISK X X - - - - - - -
+                 TRY - X - - - - - - -
+             CONSOLE - X - - - - - - -
+          UTIL-LINUX - X - - - - - - -
+               WHERE - X - - - - - - -
+              UBUNTU - - S - - - - - -
+             APT-GET - - - X - - - - -
+               THERE - - - - - - S - -
+          EQUIVILANT - - - - - - O - -
+                 YES - - - - - - - - X

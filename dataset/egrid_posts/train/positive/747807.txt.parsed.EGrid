@@ -1,0 +1,16 @@
+                DATE X S -
+              OUTPUT X - -
+            DATETIME O - -
+            TIMEZONE X - -
+                TIME - O -
+                 TZ= - S -
+                 MST - X -
+                  TZ - X -
+                 MDT - X X
+                 CDT - X S
+           TIMEZONES - - O
+             MACHINE - - X
+                  .. - - X
+           SOMETHING - - O
+                HTTP - - X
+//EN.WIKIPEDIA.ORG/WIKI/LIST_OF_TZ_DATABASE_TIME_ZONES - - X

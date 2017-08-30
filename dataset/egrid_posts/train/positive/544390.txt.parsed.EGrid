@@ -1,0 +1,6 @@
+           FSCK.NTFS X -
+             COMMAND S -
+          NTFS-UTILS O -
+           NTFSPROGS X -
+            NTSPROGS - S
+             VERSION - X

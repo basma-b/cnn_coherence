@@ -1,0 +1,15 @@
+             NETWORK X - - -
+              SYSTEM X - - -
+               LINUX - X - -
+                IFUP - O - -
+               CABLE - O - -
+                BOOT - X - -
+            SEQUENCE - X - -
+             SERVICE - O - -
+             WINDOWS - X S -
+               YEARS - - O -
+             ADVANCE - - X -
+               LEVEL - - X -
+              DHCPCD - - - S
+              DAEMON - - - O
+              CLIENT - - - O

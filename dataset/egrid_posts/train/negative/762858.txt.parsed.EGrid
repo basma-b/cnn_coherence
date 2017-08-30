@@ -1,0 +1,8 @@
+                SUDO X - -
+                 CAT X - -
+/PROC/SYS/NET/IPV4/TCP_LOW_LATENCY X O -
+                BASH X - -
+          PERMISSION S - -
+                ECHO - S -
+                 TEE - X -
+             CORRECT - - X

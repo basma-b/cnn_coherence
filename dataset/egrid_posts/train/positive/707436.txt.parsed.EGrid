@@ -1,0 +1,10 @@
+             COMMAND X - - - -
+             UPGRADE X - - - -
+                LINE X - - - -
+        DIST-UPGRADE - S - - -
+                SUDO - - X - -
+  DO-RELEASE-UPGRADE - - S - -
+                  -H - - O - -
+             OPTIONS - - X - -
+             RELEASE - - X - X
+                 DAY - - X - X

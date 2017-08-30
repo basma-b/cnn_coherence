@@ -1,0 +1,16 @@
+                THAT S - - - -
+                READ - X - - -
+                 MAN - X - - -
+             APT-GET - X - - -
+             OPTIONS - S - - -
+              CONFIG - X - - -
+                FILE - X - - -
+                 ETC - X - - -
+            REVISION - X - - -
+        DIST-UPGRADE - O S - -
+             PACKAGE - S - O -
+        DEPENDENCIES - O O - -
+             UPGRADE - - - S -
+                THIS - - - S -
+              OTHERS - - - S -
+          10.66.2.12 - - - - O

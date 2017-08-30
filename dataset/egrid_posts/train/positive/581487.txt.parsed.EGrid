@@ -1,0 +1,15 @@
+               PRINT S - - - -
+           INTERFACE X X - - -
+           ETH0=ETH0 O O - - -
+            TERMINAL - S - - -
+             NETWORK - - X - -
+              DEVICE - - X - -
+                 USE - - X - -
+                ETH0 - - - S -
+       CONFIGURATION - - - X -
+                FILE - - - O -
+             POSTFIX - - - X O
+                SUDO - - - X -
+/ETC/INIT.D/NETWORKING - - - S -
+               ERROR - - - X -
+/ETC/POSTFIX/MAIN.CF - - - S -

@@ -1,0 +1,12 @@
+              VOLUME O - -
+              DETAIL S - -
+             LOGFILE S - -
+            SHUTDOWN O - -
+              ASAD_N X - -
+             NTFSFIX O X -
+                SUDO X X -
+           /DEV/SDB2 - X -
+              DEVICE - X -
+             COMMAND - X -
+           NTFSPROGS - - S
+             APT-GET - - S

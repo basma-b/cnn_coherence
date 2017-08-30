@@ -1,0 +1,14 @@
+               GROUP O X X - - -
+             DEFAULT X - - - - -
+                USER S X - - - -
+              SUDOER X - - - - -
+                 THE - - X - - -
+              REBOOT - - X - - -
+            RECOVERY - - X - - -
+                MODE - - X - - -
+                GRUB - - X - - -
+                MENU - - X - - -
+               ADMIN - - - X - -
+               ISSUE - - - X - -
+             ALRIGHT - - - X - -
+             APT-GET - - - - - X

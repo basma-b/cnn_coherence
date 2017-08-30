@@ -1,0 +1,13 @@
+                THAT X - - -
+          SSH_CONFIG S - - -
+              CLIENT X - - -
+         SSHD_CONFIG S - - -
+             NOTHING S - - -
+                HOLE - X - -
+            FIREWALL - X - -
+                NOTE - X - -
+                 USE - X - -
+               GROUP - X - O
+               USERS - - O -
+              NOBODY - - - S
+                FILE - - - O

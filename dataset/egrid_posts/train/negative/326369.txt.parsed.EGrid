@@ -1,0 +1,26 @@
+               ERROR O - - - - - -
+              UPDATE X S - - - - -
+                   E X - - - - - -
+                LOCK X - - - - - -
+/VAR/LIB/APT/LISTS/LOCK X - - - - - -
+                OPEN O - - - - - -
+            RESOURCE X - - - - - -
+                LIST X - - - - - -
+           DIRECTORY S - - - - - -
+                ISNT X - - - - - -
+                 ATM S - - - - - -
+             PROCESS X - - - - - -
+                SUDO - S - - - - -
+             APT-GET - O - - - - -
+                   W - X - - - - -
+           DUPLICATE - O - - - - -
+               ENTRY - X - - - - -
+                HTTP - O X - - - -
+//MX.ARCHIVE.UBUNTU.COM - X - - - - -
+   FEISTY/MULTIVERSE - X - - - - -
+            PACKAGES - S - - - - -
+/VAR/LIB/APT/LISTS/MX.ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_FEISTY_MULTIVERSE_BINARY-I386_PACKAGES - X - - - - -
+/ETC/APT/SOURCES.LIST - O - - - - -
+                 ANY - S - - - - -
+                TIME - - - O - O -
+                   % - - - X - X -

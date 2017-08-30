@@ -1,0 +1,11 @@
+              FORMAT X - - -
+           PARTITION O - - -
+               LINUX X - - -
+                EXT3 X - - X
+             CLUSTER X - - -
+                SIZE X - - -
+                  4K X - - -
+               AFAIK - X - -
+            REISERFS - O X -
+             BESTEST - - X -
+                 JFS - - - X

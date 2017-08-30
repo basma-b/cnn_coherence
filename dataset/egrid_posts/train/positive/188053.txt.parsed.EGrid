@@ -1,0 +1,10 @@
+             NETWORK X - - -
+          INTERFACES X - X X
+            IFCONFIG X - - -
+                SUDO - X - -
+              IFDOWN - O - -
+/ETC/NETWORK/INTERFACES - X - -
+                ETH0 - S - -
+           INTERFACE - X - -
+                AUTO - - X -
+                FILE - - - X

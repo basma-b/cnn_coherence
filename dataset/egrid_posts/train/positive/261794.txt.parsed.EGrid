@@ -1,0 +1,11 @@
+               AMD64 O - - -
+                MODE X - - -
+     LINUX-IMAGE-386 X - - -
+             PACKAGE X - - -
+             GENERIC - S - -
+                BOTH - S - -
+                THAT - - S O
+     LINUX-IMAGE-686 - - S -
+               FAVOR - - X -
+            -GENERIC - - X -
+            SYNAPTIC - - - X

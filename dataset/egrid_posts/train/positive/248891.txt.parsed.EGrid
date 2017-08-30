@@ -1,0 +1,35 @@
+                THAT X - S - S - - - - - - S
+                FILE O X - X - - - - - - - X
+                SUDO X - - - - - - - - - - -
+                 TEE X - - - - - - - - - - -
+/ETC/MODPROBE.D/BLACKLIST-BCM43XX O - - - - - - - - - - -
+          MODPROBE.D - X - - - - - - - - - -
+           DIRECTORY - X - - - - - - - - - -
+              CONFIG - X - - - - - - - - - -
+             PROBLEM - - - X - - - - - - - -
+             MINUTES - - - X - - - - - - - -
+              DRIVER - - - X - - - - - - - -
+                LOAD - - - S - - O - - - - -
+/ETC/NETWORK/INTERFACES - - - X - - - - - - - -
+                IDEA - - - - O O - - - - - -
+                TEST - - - - - X - - - - - -
+     /VAR/LOG/SYSLOG - - - - - - X - - - - -
+         NDISWRAPPER - - - - - - S - - - - -
+              KERNEL - - - - - - X - - - - -
+              MODULE - - - - - - O - - - - -
+                PART - - - - - - X - - - - -
+                 LOG - - - - - - X O - X S -
+               RIGHT - - - - - - X - - - - -
+             MESSAGE - - - - - - - X - - - -
+              SYSLOG - - - - - - - - O - - -
+            DHCLIENT - - - - - - - - S - - -
+                BOOT - - - - - - - - X - X -
+               WHICH - - - - - - - - - S - -
+              STRING - - - - - - - - - O - -
+             ATTEMPT - - - - - - - - - X - -
+               THERE - - - - - - - - - - X -
+                 WAY - - - - - - - - - - X -
+             PROCESS - - - - - - - - - - X -
+         CONFIGURING - - - - - - - - - - - X
+             NETWORK - - - - - - - - - - - X
+          INTERFACES - - - - - - - - - - - S

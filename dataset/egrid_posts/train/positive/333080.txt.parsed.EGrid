@@ -1,0 +1,18 @@
+               STUFF O - - - - - - - - - -
+          /VAR/CACHE - S - - - - - - - - -
+                KERN - - - S - - - - - - -
+               SPACE - - - O - - - - - - -
+           CHARACTER - - - X - - - - - - -
+                SWAP - - - X - - - - - - -
+                PAGE - - - X - - - - - - -
+                THAT - - - - - - - O - - -
+           PARTITION - - - - - - - O - - -
+                 MAX - - - - - - - X - - -
+                  DU - - - - - - - X - - -
+/VAR/CACHE/APT/ARCHIVES - - - - - - - X - - -
+             INITTAB - - - - - - - O - - -
+        /ETC/INITTAB - - - - - - - - X - -
+              THINGS - - - - - - - - S - -
+                BOOT - - - - - - - - X - -
+                 USE - - - - - - - - - - X
+             UPSTART - - - - - - - - - - X

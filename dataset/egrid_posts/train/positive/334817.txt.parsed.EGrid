@@ -1,0 +1,15 @@
+                GREP X - - - -
+                 SSH S - - - -
+                CASE X - - - -
+                PORT X - X - -
+                   * S - - - -
+           4938/SSHD O - - - -
+               HTTPS - - O - -
+         RECONFIGURE - - X - -
+/ETC/SSH/SSHD_CONFIG - - O - -
+     /ETC/INIT.D/SSH - - - S -
+            IFCONFIG - - - X -
+                SURF - - - O -
+                HTTP - - - X -
+    //WHATISMYIP.COM - - - X -
+              THNAKS - - - - X

@@ -1,0 +1,39 @@
+                HTTP X X X - - - -
+  //PASTE.UBUNTU.COM X - - - - - -
+           -SECURITY - O - - - - -
+        DISTRIBUTION - X - - - - -
+            -UPDATES - O - - - - -
+             SUPPORT - X - - - - -
+             PACKAGE - S - - - X -
+              UPDATE - O - - - - X
+            SECURITY - X - - - - -
+//PASTE.UBUNTU.COM/1119071/ - X - - - - -
+        SOURCES.LIST - X - - - - -
+             PRECISE - X - - - - -
+              OUTPUT - - O - S - -
+           APT-CACHE - - X - - - -
+              POLICY - - X - - - -
+         LIBBIND9-80 - - X - - - -
+//PASTE.UBUNTU.COM/1119080/ - - X - - - -
+           REFERENCE - - X - - - -
+              CHANGE - - - - O - -
+            ANYTHING - - - - X - -
+               BIND9 - - - - X - -
+             VERSION - - - - O - O
+                LIBS - - - - S - -
+                TIME - - - - - X -
+                 SET - - - - - O -
+              APEARS - - - - - S -
+               ISSUE - - - - - X -
+                SYNC - - - - - X -
+              MIRROR - - - - - X -
+                   $ - - - - - - X
+                THAT - - - - - - O
+                  AN - - - - - - X
+                 ONE - - - - - - S
+             SYSTEMS - - - - - - X
+                 LIB - - - - - - O
+1:9.8.1.DFSG.P1-4UBUNTU0.2 - - - - - - X
+             ANOTHER - - - - - - S
+1:9.8.1.DFSG.P1-4UBUNTU0.1 - - - - - - S
+                PATH - - - - - - X

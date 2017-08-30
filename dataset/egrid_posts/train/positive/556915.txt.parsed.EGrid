@@ -1,0 +1,9 @@
+         FILESYSTEMS X - - - -
+         PERMISSIONS S - - - -
+               CHMOD X - - - -
+               CHOWN X - - - -
+             COMMAND O - - - -
+             OPTIONS X - - - -
+                THAT - S - - -
+                PERM - - O - -
+              ACCESS - - - - O

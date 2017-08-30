@@ -1,0 +1,15 @@
+                  TA S - - - - - -
+              UBUNTU O - - - - - -
+                  CD X - - - - - -
+                DPKG - X - - - - -
+                  OS - - S - - - -
+                 MBR - - X - - - -
+             DEFAULT - - X - - - -
+                BOOT - - - X X - X
+                WUBI - - - - X - S
+           INSTALLER - - - - O - -
+                GRUB - - - - O - -
+        INSTALLATION - - - - X - -
+             WINDOWS - - - - O - X
+          BOOTLOADER - - - - X - -
+         APPLICATION - - - - - - O

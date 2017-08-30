@@ -1,0 +1,5 @@
+             COMMAND S -
+/PROC/SYS/VM/LAPTOP_MODE O -
+                SUDO X -
+                 TEE X -
+                EDGY - S

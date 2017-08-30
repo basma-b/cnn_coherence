@@ -1,0 +1,16 @@
+                GREP X - -
+                  -L X - -
+              SEARCH X - -
+              STRING X - -
+                   * X - -
+                 TXT O - -
+                FILE X X -
+           DIRECTORY X - -
+              SCRIPT - O -
+             COMMAND - O -
+                LIST - O -
+                PIPE - X -
+             SOMEHOW - X -
+                 PIP - X -
+           DIRECTION - - X
+              DEUCEP - - O

@@ -1,0 +1,11 @@
+             COMMAND X O -
+             XDOTOOL X - -
+               GNOME X - -
+                 VNC X - -
+               ERROR X - -
+             DISPLAY O - -
+                THIS O - -
+          DISPLAY=:0 - X -
+               REPOS - - X
+             VERSION - - X
+              THINGY - - X

@@ -1,0 +1,12 @@
+/ETC/DHCP3/DHCPD.CONF O -
+          PERMISSION S -
+                IDEA O -
+                 A+X S -
+                BOOT - X
+            RECOVERY - X
+                MODE - X
+                GRUB - X
+               BREAK - X
+                PIPE - X
+          RESOLUTION - O
+                BITE - O

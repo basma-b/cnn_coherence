@@ -1,0 +1,15 @@
+             COMMAND X - - -
+                BOOT X X - -
+             MONITOR - O - -
+               GAMMA - O - -
+                  -D - S - -
+              -GAMMA - X - -
+             MACHINE - X - -
+                LINE - O - -
+                EXEC - X - -
+              BOOTUP - X - -
+/ETC/INIT.D/BOOTMISC.SH - - O -
+           REINSTALL - - - S
+                  PC - - - X
+             VERSION - - - X
+                  CD - - - O

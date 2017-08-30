@@ -1,0 +1,15 @@
+             SOMEONE X - - -
+                WIRE X - - -
+            ETHERNET S - - -
+                 MAN - X - -
+            IFCONFIG - S O -
+             DRIVERS - O S -
+                LOAD - - O -
+             MODULES - - X -
+              KERNEL - - X -
+             NETWORK - - X -
+           INTERFACE - - X -
+                 USE - - O -
+                  IP - - X -
+                TOLL - - X -
+                TOOL - - - X

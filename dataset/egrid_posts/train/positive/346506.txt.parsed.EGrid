@@ -1,0 +1,17 @@
+              GO-RWX X - -
+               GROUP X X -
+              ACCESS - O -
+                 RWX - X -
+               OTHER - X X
+               CAUSE - O -
+               MINUS - X -
+              OCTALS - X X
+                WELL - O -
+               LEAVE - O -
+                USER - S O
+                SAME - O -
+               7=RWX - X -
+                 MAN - - X
+                PAGE - - O
+                 NON - - X
+              OWNERS - - S

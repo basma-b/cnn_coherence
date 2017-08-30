@@ -1,0 +1,25 @@
+             NETWORK O O - -
+              CUSTOM O - - -
+/ETC/NETWORK/INTERFACES S - - -
+                FILE - X - -
+             PROFILE - S - -
+            EXAMPLES - O - -
+/USR/SHARE/DOC/IFUPDOWN/EXAMPLES - X - -
+             EXAMPLE - X - -
+                SAME - X - -
+                   S - S - -
+                 MAP - X - -
+/NETWORK-INTERFACES.GZ - X - -
+              USALLY - S - -
+                 ALL - O - -
+     /E/N/INTERFACES - X - -
+               THATS - X - -
+                WORK - X - -
+             ALIASES - O - -
+                 ^^^ - O - -
+              ETH0:1 - X - -
+                  IP - S - -
+            SOLUTION - X - -
+               CHMOD - - - X
+         PERMISSIONS - - - S
+               OWNER - - - S

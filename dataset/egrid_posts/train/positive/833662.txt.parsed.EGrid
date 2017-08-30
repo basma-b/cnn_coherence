@@ -1,0 +1,17 @@
+                DATA O - - - - - - -
+                DISK X O - - - - - -
+              FORMAT X - X - - - - -
+                DONT - X - - - - - -
+              DEVICE - - O - - - - -
+                BOOT - - - X - - - -
+              SECTOR - - - O - - - -
+              ACCESS - - - - - O - -
+                 FAT - - - - - X - -
+          FSCK.MSDOS - - - - - - X -
+                FILE - - - - - - S O
+                THAT - - - - - - - O
+             PROGRAM - - - - - - - X
+                CALL - - - - - - - O
+               THATS - - - - - - - S
+         PARTEDMAGIC - - - - - - - X
+              LIVECD - - - - - - - X

@@ -1,0 +1,10 @@
+           MKFS.VFAT O - -
+                /MNT O O -
+                LIST - X -
+                TYPE - O -
+          FILESYSTEM - X -
+                VFAT - X -
+                THIS - O -
+                 BAD - S -
+               POINT - - O
+           REFERENCE - - X

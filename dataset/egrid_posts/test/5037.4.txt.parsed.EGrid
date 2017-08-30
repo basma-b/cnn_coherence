@@ -1,0 +1,43 @@
+               ERROR O - O - - - - - - - - - - - - -
+         APPLICATION X - X - - - - - - X - - - - - -
+                 LOG X - X - - - - - - - - - - - - -
+                FILE X - X - - - - - - - - - - - - -
+             LIBRARY X - X - - - - - - - - O - - - -
+             ICUI18N O - O - - - - - - - - - - - - -
+                 ICU X - X - - - - - - - - S X - - -
+             PACKAGE O X O X S - - - - - - - S - - -
+              SEARCH X - X - - - - - - - - - - X - -
+               -RSB- X - X - - - - - - - - - - - - -
+                  .. - - X - - - - - - - - - - - - -
+            APTITUDE - - X - - - - - - - - - - - - -
+                 ONE - - S - O - - - - - - - - O - -
+                PAGE - - X - X - - - - - - - - - - -
+               HTTPS - - X - X - - - - - - - - - - -
+INTERNATIONALISATION - - - - X - O - - - - - - - - -
+               ITEMS - - - - O - - - - - - - - - - -
+                THAT - - - - - S - - - - - - - - - -
+             RELEASE - - - - - - - - X - - - - - - -
+              UBUNTU - - - - - - - - X - - - - - - -
+             MESSAGE - - - - - - - - - X - - - - - -
+                  == - - - - - - - - - - X - - - - -
+      DESCRIPTION-EN - - - - - - - - - - X - - - - -
+       DOCUMENTATION - - - - - - - - - - X - - - - -
+               CLASS - - - - - - - - - - X - - - - -
+            FUNCTION - - - - - - - - - - X - - - - -
+                 C++ - - - - - - - - - - - X - - - -
+                   C - - - - - - - - - - - X - - - -
+             UNICODE - - - - - - - - - - - X - - - -
+              LOCALE - - - - - - - - - - - X - - - -
+             SUPPORT - - - - - - - - - - - O - - - -
+                HTML - - - - - - - - - - - - S - - -
+                APIS - - - - - - - - - - - - O - - -
+                SHOW - - - - - - - - - - - - - X - -
+/USR/LIB/LIBICUI18N.SO - - - - - - - - - - - - - X - -
+          LIB32ICU48 - - - - - - - - - - - - - X - -
+/USR/LIB32/LIBICUI18N.SO.48 - - - - - - - - - - - - - X - -
+                   < - - - - - - - - - - - - - X - -
+              SYSTEM - - - - - - - - - - - - - S - -
+            LIBICU48 - - - - - - - - - - - - - X - -
+              SOMSIP - - - - - - - - - - - - - - X -
+              UBOTTU - - - - - - - - - - - - - - X -
+                 ALL - - - - - - - - - - - - - - - X

@@ -1,0 +1,15 @@
+             ANYBODY X - - -
+                 MAP X - - -
+               SHARE O - - -
+              BOOTUP X - - -
+           ETC/FSTAB - X - -
+     /SAMBA/SMBFSTAB - X - -
+              SCRIPT - X - -
+          /ETC/FSTAB - O - -
+                USER - X - -
+                  RO - X - -
+                EXEC - X - -
+         USERID=USER - X - -
+               ENTRY - - - O
+            SETTINGS - - - X
+              INSERT - - - X

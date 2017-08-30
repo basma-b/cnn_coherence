@@ -1,0 +1,15 @@
+           PARTITION X - - - -
+               DRIVE X O - - -
+         PERMISSIONS - O - O -
+               PYSDM - X - - X
+                 USE - - O - -
+                SUDO - - - X -
+               FDISK - - - X -
+                  -L - - - X -
+                  -H - - - X -
+                NTFS - - - X -
+              UBUNTU - - - X -
+               UMASK - - - O S
+               THATS - - - - S
+                MENT - - - - X
+               ISSUE - - - - O

@@ -1,0 +1,27 @@
+                CTRL X - - - - - -
+                  +C X - - - - - -
+             APT-GET O - - S - - -
+                FILE X - - - - - -
+               ERROR O - X X - - -
+/VAR/CACHE/APT/ARCHIVES/LOCK - S - - - - -
+                LOCK - - X - - - -
+                LINE - - X - - - -
+                   E - - X - - - -
+  /VAR/LIB/DPKG/LOCK - - X - - - -
+            RESOURCE - - X - - - -
+      ADMINISTRATION - - X - - - -
+           DIRECTORY - - O - - - -
+      /VAR/LIB/DPKG/ - - X - - - -
+             PROCESS - - S - - - -
+                SUDO - - - X - - -
+              STILLT - - - O - - -
+                NOTE - - - X - - -
+             ENTRIES - - - O - - -
+                LIKE - - - - - - X
+                PAGE - - - - - - O
+               FLOOD - - - - - - O
+              ERRORS - - - - - - X
+              OUTPUT - - - - - - O
+             WEBPAGE - - - - - - X
+             SOMEONE - - - - - - O
+                LINK - - - - - - X

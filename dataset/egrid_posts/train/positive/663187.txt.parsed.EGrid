@@ -1,0 +1,22 @@
+             DEFAULT X - - -
+              DOESNT S - - -
+          /DEV/VIDEO X - - -
+                   * O - - -
+              DRIVER - O - -
+                 CAM - X - -
+                LOAD - X - -
+                HTTP - X - X
+         /DEV/VIDEOX - S - -
+              DEVICE - S - X
+                  .. - O - -
+              OUTPUT - X - -
+               DMESG - X - -
+//PASTEBIN.COM/F5F921A48 - - - X
+              WEBCAM - - - X
+                 BUS - - - X
+                  ID - - - X
+                 ALI - - - X
+               CORP. - - - X
+               VIDEO - - - X
+              CAMERA - - - X
+          CONTROLLER - - - X

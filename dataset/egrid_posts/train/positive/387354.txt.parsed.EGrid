@@ -1,0 +1,13 @@
+           SYNTAX=ON O - - - - -
+            ~/.VIMRC X - - - - -
+     SQL-SCRIPT-FILE O - - - - -
+              SYNTAX S - - - - -
+                 VIM - - X - - X
+             PACKAGE - - - O - -
+                 ETC - - - X - -
+           HIGHLIGHT - - - - - S
+                IDEA - - - - - X
+                 TRY - - - - - X
+              SEARCH - - - - - X
+                FILE - - - - - X
+                CALL - - - - - S

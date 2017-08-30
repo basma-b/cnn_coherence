@@ -1,0 +1,20 @@
+             NETWORK X - - - X - -
+              SYSTEM O - - - - - O
+                SUDO - - X X - - -
+/ETC/INIT.T/NETWORKING - - S - - - -
+/ETC/INIT.D/NETWORKING - - S S - - -
+              DETAIL - - S - - - -
+                 ONE - - - S - - -
+             COMMAND - - - S - - -
+                SAME - - - O - - -
+                   * - - - - X - -
+       RECONFIGURING - - - - X - -
+           INTERFACE - - - - X - -
+                  .. - - - - X - -
+               -RSB- - - - - S - -
+               START - - - - S - -
+             WIRLESS - - - - X - -
+                CARD - - - - O - -
+                WIFI - - - - - - O
+            WFCONFIG - - - - - - X
+                ATH0 - - - - - - X

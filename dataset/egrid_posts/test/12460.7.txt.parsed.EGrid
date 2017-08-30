@@ -1,0 +1,13 @@
+               EQUIV X - -
+        WHATPROVIDES X - -
+             APT-GET X - -
+            APT-FILE - S -
+             DEFAULT - X -
+                CANT - - S
+            ANYTHING - - O
+                 USB - - X
+                  CD - - X
+                LUKS - - S
+                BOOT - - O
+                DIFF - - X
+               DRIVE - - X

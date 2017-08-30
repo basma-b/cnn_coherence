@@ -1,0 +1,17 @@
+              ACCESS X - - - -
+                NTFS X - X - -
+               DRIVE X - - - -
+               RIGHT - O - - -
+         PERMISSIONS - X - - -
+                  ER - X - - -
+                   > - X - - -
+                TYPE - - X - -
+               TODAY - - O - -
+               MOUNT - - O - -
+               LINUX - - X - -
+               USERS - - - S -
+              ACCASS - - - O -
+          UMASK=0222 - - - O -
+             OPTIONS - - - X -
+          /ETC/FSTAB - - - X -
+             DEFAULT - - - - O

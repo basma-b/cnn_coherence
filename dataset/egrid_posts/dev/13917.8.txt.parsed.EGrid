@@ -1,0 +1,23 @@
+               USERS O - - - -
+             GERMANY X - - - -
+                THAT - S - - -
+              MIRROR - S - - -
+            PACKAGES - O - - -
+         PACKAGES.GZ - O - - -
+             PROBLEM - O - - -
+               ERROR - S - - -
+                FILE - O - - -
+           SOMETHING - S - - -
+                 END - X - - -
+/ETC/APT/SOURCES.LIST - O - - -
+                LOOK - O - - -
+                SUDO - - O - X
+                USER - - X S S
+        /USR/LIB/SRC - - S - X
+           OWNERSHIP - - X - -
+                THIS - - - O -
+                ROOT - - - O -
+                  .. - - - - O
+               GROUP - - - - X
+             COMMAND - - - - S
+                 BOB - - - - O

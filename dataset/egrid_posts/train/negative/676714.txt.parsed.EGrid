@@ -1,0 +1,16 @@
+            NICKNAME O - -
+                RULE - X -
+            EVERYONE - S -
+               TOTHE - - X
+               USERS - - X
+                LIST - - O
+                   X - - S
+                 ONE - - X
+            XSESSION - - X
+                FILE - - X
+                 GDM - - S
+                 RUN - - X
+       GNOME-SESSION - - O
+               GNOME - - X
+             SESSION - - O
+         ~/.XSESSION - - O

@@ -1,0 +1,17 @@
+               POWER X - - - - -
+          MANAGEMENT O - - - - -
+                XORG X - - - - -
+              DRIVER X - - - - -
+              UBUNTU X - - - - -
+             AGPGART O - - - - -
+              MODULE - X - - - -
+                LOAD - X - - - -
+        /ETC/MODULES - - X - - -
+            MODPROBE - - X - - -
+                 FOO - - X - - -
+               -RSB- - - S - - -
+                   X - - - X - -
+                 RUN - - - X - -
+                THAT - - - - - X
+              RELOAD - - - - - X
+              REBOOT - - - - - X

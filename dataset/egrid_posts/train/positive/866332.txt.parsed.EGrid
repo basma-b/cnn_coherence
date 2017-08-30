@@ -1,0 +1,16 @@
+                SYNC X - X - -
+             SERVERS X - O - -
+               USERS X - - - -
+               RSYNC - S - - -
+                 WAY - O - - -
+              UNISON - S - - -
+                 GUI - O - - -
+                   * - X - - -
+                 IST - X - - -
+         /ETC/PASSWD - X - - -
+         /ETC/SHADOW - X - - -
+            QUESTION - - O - -
+                 SHH - - X - -
+                USER - - - - S
+              SERVER - - - - X
+                   B - - - - X

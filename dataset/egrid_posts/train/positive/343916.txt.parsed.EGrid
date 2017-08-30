@@ -1,0 +1,13 @@
+                GRUB X - - -
+                MENU S - - -
+              METHOD O - - -
+               SUPER X - - -
+                DISK X - - -
+            TERMINAL X - - -
+                  CD X - - -
+                TYPE - - X -
+   /GRUB/GRUB/STAGE1 - - O -
+                FILE - - X -
+              SEARCH - - O -
+           DIRECTORY - - X -
+   /BOOT/GRUB/STAGE1 - - - S

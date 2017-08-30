@@ -1,0 +1,8 @@
+ /BOOT/GRUB/MENU.LST X - - - - -
+                   X - X - - - -
+              BINARY - X - - - -
+                ROOT - - X - - -
+               FRESH - - X - - -
+             INSTALL - - - - - X
+               ERROR - - - - - X
+             MESSAGE - - - - - X

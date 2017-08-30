@@ -1,0 +1,20 @@
+              SERVER S - - - - - - - - - -
+                 USE X - - - - - - - - - -
+             COMMAND X - - - - - - - - - -
+                LINE X - - - - - - - - - -
+           INTERFACE X - - - - - - - - - -
+                 GUI - O - - - - - - - - -
+                WAHT - - X - - - - - - - -
+           SOLID_LIQ - - S X - - - - - - -
+                   ^ - - S - - - - - - - -
+             APT-GET - - S - - - - - - - -
+                  ER - - X - - - - - - - -
+                 ANT - - S - - - - - - - -
+                INFO - - - - - S - - - - -
+                  CD - - - - - O - - - - -
+              INSTAL - - - - - X - - - O -
+            FLEXIBLE - - - - - - S - - - -
+                 WAY - - - - - - X - - - -
+          WORKAROUND - - - - - - - - - - S
+          AUTO-LINES - - - - - - - - - - O
+/ETC/NETWORK/INTERFACES - - - - - - - - - - X

@@ -1,0 +1,12 @@
+               ERROR S - - - - - -
+                SUDO X - - - - - -
+             APT-GET X - - - - - -
+                FILE X - S - - - -
+           DIRECTORY X - - - - - -
+                BITE X - - - - - -
+               TOUCH O - - - - - -
+/VAR/LIB/DPKG/STATUS S - - - - - -
+             NOTHING S - - - - - -
+              STATUS - - X - - - -
+                 ALL - - - - - O -
+              SOURCE - - - - - X -

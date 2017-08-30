@@ -1,0 +1,14 @@
+                FILE X - - - - - -
+              SYSTEM O - - - - - -
+               FAT32 - S - - - - -
+                 USE - O - - - - -
+                NTFS - - O - - - -
+             WINDOWS - - X - - - -
+               LINUX - - X - - - -
+             RESERVE - - - X - - -
+                   % - - - X - - -
+                ROOT - - - X - - -
+                USER - - - X - - -
+                 HMM - - - - - X -
+              OUTPUT - - - - - - O
+               MOUNT - - - - - - X

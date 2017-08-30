@@ -1,0 +1,16 @@
+                 TAR X X - -
+               BZIP2 S - - -
+               STDIN X - - -
+                FILE O X - -
+               CHILD - X - -
+              RETURN - X - -
+              STATUS - X - -
+               ERROR - X - -
+                EXIT - X - -
+               DELAY - X - -
+              ERRORS - X - -
+                GZIP - O - -
+                 BTW - X - -
+              GUNZIP - X - -
+             NOTHING - - S -
+         FILE-ROLLER - - - O

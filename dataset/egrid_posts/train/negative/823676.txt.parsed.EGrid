@@ -1,0 +1,15 @@
+               CACHE X - - -
+               PROXY X - - -
+                 RUN O - - -
+                 END X - - -
+          WHATISMYIP - S - -
+                  IP - O - -
+               SQUID - X - -
+                PORT - X - -
+                  NO - X - -
+                NAME - S - -
+            CRITERIA - O - -
+                 TOR - O - -
+                 ODD - - - X
+               XCHAT - - - S
+               REPOS - - - X

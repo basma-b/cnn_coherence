@@ -1,0 +1,9 @@
+ FLASHPLUGIN-NONFREE O - - -
+               THERE S - - -
+               MATCH O - - -
+/USR/LIB/MOZILLA/PLUGINS X - - -
+             VERSION - O - -
+           BACKPORTS - X - -
+               DUNNO - - X -
+               |GREP - - - X
+                 ^II - - - O

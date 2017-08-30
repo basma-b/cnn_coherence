@@ -1,0 +1,25 @@
+                TIME S - - - - -
+                USER S - - - - -
+             HWCLOCK X - - - - -
+            INTERNET X - - - - -
+              UBUNTU S - - - - -
+                SYNC O - - - - -
+                BOOT X - - - - -
+                THIS - S - - - -
+            COMPUTER - X - - - -
+               STALL - X - - - -
+                STOW - O - - - -
+          /USR/LOCAL - X - - - -
+               /OPT/ - X - - - -
+                BASH - - X - - -
+              SCRIPT - - O - - -
+               LINUX - - - - O -
+                  .. - - - - - X
+                 MAN - - - - - X
+               SHRED - - - - - S
+/USR/BIN/GNOME-PANEL - - - - - X
+           REINSTALL - - - - - O
+             CONSOLE - - - - - X
+                 RUN - - - - - X
+            TERMINAL - - - - - X
+               FLOOD - - - - - X

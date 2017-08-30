@@ -1,0 +1,14 @@
+            CRITERIA O - - - - - -
+               THREE O - - - - - -
+             OPTIONS X - - - - - -
+               START - - X - - - -
+             COMMAND - - X - - - -
+                NEED - - X - - - -
+                 WAY - - X - - - -
+           SOMETHING - - O - - - -
+                  DD - - X - - - -
+        IF=/DEV/SDB1 - - X - - - -
+                 OF= - - X - - - -
+           PARTITION - - - - - O -
+                SIZE - - - - - X -
+                   > - - - - - - X

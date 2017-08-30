@@ -1,0 +1,10 @@
+           DIRECTORY X - - - -
+              ACCESS X O - - -
+                 GUI - X - - -
+            SETTINGS - S - - -
+           SOMETHING - - - O -
+     KUBUNTU-DESKTOP - - - X -
+             APT-GET - - - X -
+        META-PACKAGE - - - S -
+            APTITUDE - - - - O
+        DEPENDENCIES - - - - O

@@ -1,0 +1,14 @@
+               FRONT X - - - - -
+               GNOME X - - - - -
+              KERNEL X - - - - -
+               RESET S - - - - -
+              REBOOT O - - - - -
+                TTY1 X X - - - -
+           RESOURCES - X - - - -
+               CRASH - - O - - -
+          SUGGESTION - - - - X -
+             MEMTEST - - - - - O
+            SEATOOLS - - - - - O
+            FAILURES - - - - - X
+               STUFF - - - - - O
+              MPRIME - - - - - X

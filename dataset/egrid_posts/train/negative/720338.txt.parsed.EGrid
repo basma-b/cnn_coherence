@@ -1,0 +1,10 @@
+               REPOS X O - - -
+             PACKAGE - - O - -
+                HTTP - - O - -
+//PACKAGES.UBUNTU.COM/DAPPER/G++-4.0 - - O - -
+                SUDO - - - - X
+         UPDATE-GRUB - - - - S
+            MENU.LST - - - - O
+ /BOOT/GRUB/GRUB.CFG - - - - S
+               GRUB2 - - - - X
+        UPDATE-GRUB2 - - - - X

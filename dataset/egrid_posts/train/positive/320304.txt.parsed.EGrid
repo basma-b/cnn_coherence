@@ -1,0 +1,16 @@
+                 CAT X - - - - - - - - - -
+        /PROC/MOUNTS S - - - - - - - - - -
+                THAT - S - - - - - - - - -
+             KNOPPIX - - - X - - - - - S -
+           PARTITION - - - X - - - - - - -
+               SETUP - - - O - - - - - - -
+                GRUB - - - - - - X - - - -
+        INIT=/BIN/SH - - - - - - O - - - -
+                ROOT - - - - - - X - - - -
+               SHELL - - - - - - O - - X -
+                UPGR - - - - - - - - X - -
+                RAID - - - - - - - - O - -
+                TYPE - - - - - - - - X - -
+                NONE - - - - - - - - X - -
+                  .. - - - - - - - - O X -
+              BOOTUP - - - - - - - - X - -

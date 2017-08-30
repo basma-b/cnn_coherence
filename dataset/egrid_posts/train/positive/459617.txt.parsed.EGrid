@@ -1,0 +1,9 @@
+            IFCONFIG X - -
+                 DNS S - X
+    /ETC/RESOLV.CONF - S -
+              SERVER - - X
+     /ETC/RESOLVCONF - - S
+           DIRECTORY - - O
+             DEAMONS - - X
+             NOTHING - - S
+             ADDRESS - - X

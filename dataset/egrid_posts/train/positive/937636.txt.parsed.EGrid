@@ -1,0 +1,15 @@
+             NETWORK X - - - - -
+           INTERFACE X X - - - -
+              IFDOWN - X - - - -
+                ETHX - S - - - -
+                IFUP - X - - - -
+            WIRELESS - X - - - -
+                CARD - O - - - -
+               STOCK - - - - X -
+              UBUNTU - - - - X -
+              KERNEL - - - - X O
+                ETH0 - - - - - O
+              CONFIG - - - - - X
+             EMODULE - - - - - S
+                LOAD - - - - - O
+               THERE - - - - - S

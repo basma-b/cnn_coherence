@@ -1,0 +1,16 @@
+                SIDE X - - -
+                SUDO S - - -
+                CIFS S - - -
+USERNAME=WINUSERNAME O - - -
+PASSWORD=WINPASSWORD O - - -
+      IOCHARSET=UTF8 O - - -
+      FILE_MODE=0777 O - - -
+                WILL O - - -
+          DISCONNECT O - - -
+                 SEC - X - -
+                POST - X - -
+           PERMENANT - S - -
+            PASSWORD - O - -
+           SOMETHING - - O -
+               FSTAB - - X -
+                  NO - - - X

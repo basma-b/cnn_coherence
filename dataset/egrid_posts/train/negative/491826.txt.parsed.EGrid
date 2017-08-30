@@ -1,0 +1,17 @@
+        /ETC/SUDOERS X - - - - -
+                USER O - S - - -
+                ROOT X - X - - -
+              ACCESS X - X - - -
+              FOLDER X - O - - -
+            /VAR/WWW X - - - - -
+                THAT - - X - - -
+                 WEB - - X - - -
+           DEVELOPER - - X - - -
+          PERMISSION - - O - - -
+            USERNAME - - S - - -
+               GROUP - - X - - -
+                FILE - - O - - -
+        REPOSITORIES - - - X - -
+              NVIDIA - - - - - S
+         INFORMATION - - - - - X
+               THERE - - - - - X

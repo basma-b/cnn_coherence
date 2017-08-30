@@ -1,0 +1,25 @@
+                 HMM S - O -
+               THERE S - - -
+               ISSUE O - - -
+              SWITCH X - - -
+           SOUNDCARD X X - -
+              DRIVER X - S -
+                WORK X - - -
+            QUESTION X - - -
+             DEVICES - O - -
+              CMEDIA - X X -
+             ONBOARD - X - -
+                EMUK - X - -
+                 PCI - X - -
+          PCI-DEVICE - S - -
+                PLUG - O - -
+                 ONE - O - -
+             PROBLEM - - S -
+                SHOW - - O -
+                LOAD - - X -
+/USR/SHARE/DOC/ALSA-BASE/README.DEBIAN.GZ - - X -
+                HINT - - X -
+              UPDATE - - - X
+                   < - - - S
+              ACCESS - - - O
+                   > - - - O

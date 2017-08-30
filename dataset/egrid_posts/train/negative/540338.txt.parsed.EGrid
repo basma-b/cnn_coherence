@@ -1,0 +1,15 @@
+         ENVIRONMENT S - - - - -
+              SYSTEM - X - - - -
+         ~/.XPROFILE - - X - - -
+                HOME - - X - X -
+           DIRECTORY - - X - - -
+                LINE - - X - - -
+              EXPORT - - O - - -
+ VARIABLE_NAME=VALUE - - O - - -
+            XPROFILE - - O - - -
+            TERMINAL - - O - - -
+            REGISTER - - O - - -
+           .XPROFILE - - - - X -
+              FOLDER - - - - X -
+                ICON - - - - - S
+                 FTP - - - - - X

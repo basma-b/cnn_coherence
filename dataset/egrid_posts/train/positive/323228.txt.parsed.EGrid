@@ -1,0 +1,10 @@
+            FTPGROUP X - - - - -
+               GROUP X - - - - -
+             FTPUSER X - - - - -
+                USER X - X - - -
+                 SET - - O - - -
+             DEFAULT - - - O - -
+           DIRECTORY - - - X - O
+                LOAD - - - X - -
+                FILE - - - - - X
+/ETC/PUREFTPD.PASSWD - - - - - O

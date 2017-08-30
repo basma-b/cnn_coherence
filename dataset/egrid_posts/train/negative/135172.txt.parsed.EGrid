@@ -1,0 +1,10 @@
+           APT-BUILD S - - -
+             PACKAGE X - - -
+            UNIVERSE X - - -
+        REPOSITORIES X - - -
+               REPOS X - - -
+             APT-GET - - S -
+     APT-LISTCHANGES - - O -
+           APT-UTILS - - S -
+            TERMINAL - - O -
+                SUDO - - X -

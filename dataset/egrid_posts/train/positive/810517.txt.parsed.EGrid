@@ -1,0 +1,34 @@
+             SERVICE X - - - - - - - - - - -
+                LOAD O - - - - - - - - - - -
+                BOOT X - - - - - - - - - - -
+                NONE X - - - - - - - - - - -
+                  .. X - - - - - - - - - - -
+                LINE X - - - - - - - - - - -
+                DONT X - - - - - - - - - - -
+                THIS - S - - - - - - - - - -
+                   > - X - - - - - - - - - -
+/ETC/INIT/GDM.OVERRIDE - O - - - - - - - - - -
+             EMPATHY - S - - - - - - - - - -
+             REQUEST - O - - - - - - - - - -
+             MESSAGE - X - - O - - - - - - -
+                 HMM - X - - - - - - - - - -
+       NOTIFICATIONS - O - - - - - - - S - -
+               UNITY - - - X - - - - - - - -
+                 BUG - - - O - - - - - - - -
+               CHALK - - - X - - - - - - - -
+                 ONE - - - O - - - - - - - -
+                SAME - - - X - - - - - - - -
+          NOTIFY-OSD - - - - S O - - - - - -
+               GNOME - - - - O - - - - - - -
+~/.CACHE/NOTIFY-OSD.LOG - - - - X - - - - - - -
+         NOTIFY-SEND - - - - X - - - - - - -
+       LIBNOTIFY-BIN - - - - X - - - - - - -
+                 RUN - - - - X - - - - - - -
+              OTHERS - - - - O - - - - - - -
+          .CACHE/LOG - - - - X - - - - - - -
+                  OK - - - - - S - - - - - -
+              EFFECT - - - - - - X - - - - -
+             DESKTOP - - - - - - X - - - - -
+               ME-TV - - - - - - - - X - - -
+                THAT - - - - - - - - - O - -
+              THANKS - - - - - - - - - - - X

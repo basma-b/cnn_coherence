@@ -1,0 +1,16 @@
+                WORK X - - -
+             SUDOERS - S - -
+                 GIT - S - -
+        ALL=NOPASSWD - S - -
+/USR/BIN/FIXPERMISSIONS.SH - X - -
+                SUDO - O - -
+              SCRIPT - S - -
+            PASSWORD - X X -
+            BINARIES - S - -
+                  OK - S - -
+          EVERYTHING - O - -
+               THERE - S - -
+          /BIN/CHMOD - X - -
+                BASH - X - -
+                   * - - S -
+                 MAN - - - S

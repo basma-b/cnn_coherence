@@ -1,0 +1,10 @@
+        DIST-UPGRADE - O - - - -
+                PAST - X - - - -
+             COMMAND - - X - - -
+                TYPE - - X - - -
+                SUDO - - - X - -
+  DO-RELEASE-UPGRADE - - - S - -
+             RELEASE - - - O - -
+              KERNEL - - - - S -
+               LSMOD - - - - - S
+              NVIDIA - - - - - O

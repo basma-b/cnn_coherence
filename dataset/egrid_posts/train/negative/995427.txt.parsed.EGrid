@@ -1,0 +1,16 @@
+               ERROR O - - - - -
+             PACKAGE O - - - - -
+              KERNEL X X - - - -
+              SOURCE X - - X - -
+        DISTRIBUTION X - - - - -
+                 USE X - - - - -
+              OPTION X - - - - -
+           DIRECTORY O - - - - -
+             DEFAULT S - - - - -
+             HEADERS - S - - - -
+              ANYONE - X - - - -
+      /USR/SRC/LINUX - - X X - -
+                LINK - - - O - -
+        LINUX-2.6.12 - - - X - -
+                 MAN - - - - - X
+        CHECKINSTALL - - - - - X

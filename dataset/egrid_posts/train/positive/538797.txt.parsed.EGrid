@@ -1,0 +1,14 @@
+                WUBI X X X - O
+              INITRD X - - - -
+             LOSETUP X - - - -
+         DIFFERENCES - O - - -
+               DRIVE - S - - -
+           PARTITION - - S - -
+              INSTAL - - O - -
+              UPDATE - - O - -
+              KERNEL - - O - -
+                BOOT - - X - -
+             PROBLEM - - - - X
+           RECOMMEND - - - - O
+                CANT - - - - X
+                HELP - - - - X

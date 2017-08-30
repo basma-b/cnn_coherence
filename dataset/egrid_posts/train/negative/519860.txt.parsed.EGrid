@@ -1,0 +1,21 @@
+               CHECK O - - - - - -
+             WARNING X S - - - - -
+              NOTICE O - - - - - -
+             EXAMPLE - X - - - - -
+                ROOT - X X - - - -
+              ACCESS - S - - - - -
+                 ONE - S - - - - -
+PERMITROOTLOGINS=YES - X - - - - -
+/ETC/SSH/SSHD_CONFIG - X - - - - -
+                 SET - - S - - - -
+              UBUNTU - - O - - - -
+                USER - - S - - - -
+              DETAIL - - - O - - -
+                WARN - - - X - - -
+/VAR/LOG/RKHUNTER.LOG - - - X - - -
+                THAT - - - - S - -
+                TALK - - - - O - -
+                 BUG - - - - - X -
+               FOLKS - - - - - O -
+             MINUTES - - - - - X -
+              SOURCE - - - - - - X

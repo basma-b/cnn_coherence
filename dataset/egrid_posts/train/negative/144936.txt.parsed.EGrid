@@ -1,0 +1,10 @@
+             APT-GET O - -
+                  -F S - -
+             PACKAGE O O -
+          DEPENDENCY X - -
+            FAILURES S - -
+              HAMMER X - -
+                SUDO - X -
+            APTITUDE - X -
+                  -V - S -
+                  .. - - O

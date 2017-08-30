@@ -1,0 +1,16 @@
+                 GUY O - - - - - -
+                NTFS O - - - - - -
+                EXT3 X - - - - - -
+           PARTITION - X - X - O -
+               TABLE - X - X O - -
+                  .. - O - - - - -
+                DATA - S - - - - -
+              FORMAT - - - S - X -
+             NOTHING - - - O - - -
+                LIST - - - - X - -
+                ROOT - - - - X - -
+           DIRECTORY - - - - X - -
+                   * - - - - - S -
+              RESULT - - - - - X -
+             SECTORS - - - - - S -
+          FILESYSTEM - - - - - X -

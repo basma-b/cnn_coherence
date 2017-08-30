@@ -1,0 +1,16 @@
+        AUDIOTESTSRC S - - - - - - - - -
+            FREQ=512 O - - - - - - - - -
+      GCONFAUDIOSINK - - - X - - - - - -
+              DEVICE - - - O - - - - - -
+            PLAYBACK - - - X - - - - - -
+               IDEAS - - - - X - - - - -
+                ALSA - - - - - X - - - -
+             SETUP.C - - - - - S - - - -
+    SND_SCTL_INSTALL - - - - - S - - - -
+                 CTL - - - - - S - - - -
+                ELEM - - - - - O - - - -
+                LINE - - - - - X X - - O
+                 USE - - - - - - X - - -
+                HTTP - - - - - - - - X -
+//UBUNTU.WORDPRESS.COM/2006/01/29/MOVE-HOME-TO-ITS-OWN-PARTITION/ - - - - - - - - X -
+                THAT - - - - - - - - - S

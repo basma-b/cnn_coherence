@@ -1,0 +1,14 @@
+             COMMAND X O - -
+                ALSA X - - -
+            SETTINGS X - - -
+                TIME - X - -
+                  .. - O - -
+           ALSAMIXER - S - -
+                   Q - S - -
+                 USE - X - -
+          NDIWRAPPER - O - -
+              SCRIPT - - O O
+         /ETC/INIT.D - - X -
+/ETC/INIT.D/WHATEVER.SH - - - X
+         WHATEVER.SH - - - X
+             DEFAULT - - - X

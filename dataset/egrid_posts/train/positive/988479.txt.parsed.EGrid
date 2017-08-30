@@ -1,0 +1,16 @@
+             PACKAGE X - - - - - -
+        SPLASHSCREEN O - - - - - -
+                LOAD S - - - - - -
+             VERSION - - X - - - -
+              SCREEN - - O - - - -
+                BOOT - - X - - - -
+                  .. - - X - - - -
+                WORD - - S - - - -
+              KERNEL - - X - - - -
+           ARGUMENTS - - X - - - -
+ /BOOT/GRUB/MENU.LST - - X - - - -
+              SPLASH - - - - X - X
+                LINE - - - - X O X
+                FILE - - - - X - -
+      /ETC/LILO.CONF - - - - X - -
+           LILO.CONF - - - - - X X

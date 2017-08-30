@@ -1,0 +1,17 @@
+              SOURCE X - - - - -
+               LOGIN X - - - - -
+            TERMINAL X - - - - -
+/ETC/APT/SOURCES.LIST - O X - - -
+               BEGIN - O - - - -
+                LINE - X - - - -
+                FILE - O S - X -
+             APT-GET - X - - - -
+              UPDATE - O - - - -
+                NANO - - X - - -
+      SOURCES.LIST.D - - X - - -
+              MD5SUM - - - - X -
+             TARBALL - - - - X -
+             PACKAGE - - - - O -
+             CONTROL - - - - X -
+             INSTALL - - - - O -
+                 WAY - - - - - S

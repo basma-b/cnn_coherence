@@ -1,0 +1,10 @@
+                CHIP X S -
+                 USB O - -
+                 USE - O -
+               LSPCI - X -
+                   | - X -
+                GREP - X -
+                  -I - X -
+            ETHERNET - S -
+                CARD - X -
+                NAME - X -

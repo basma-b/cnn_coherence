@@ -1,0 +1,41 @@
+                LINK S - - X - - -
+                FACT X - - - - - -
+               THEME S - - - - - -
+                 ONE X - - - - - -
+                 USE O - - - - - -
+              OFFICE O - X - - - -
+                WINE X - - - - - -
+               LIMIT - X - - - - -
+       FUNCTIONALITY - O - - - - -
+                 ALL - S - - - - S
+                WORK - O - - - - -
+                FINE - X - - - - -
+                GOOD - O - - - - -
+              ACCESS - S - - - - -
+               AFAIK - O - - - - -
+               HOWTO - X - - - - -
+             SECTION - O - - - - -
+                HTTP - X X - - - -
+//APPDB.WINEHQ.ORG/OBJECTMANAGER.PHP - X X - - - -
+      SCLASS=VERSION - - S - - - -
+           IID=12811 - - S - - - -
+                 APP - - X - - - -
+  SCLASS=APPLICATION - - - S - - -
+              IID=31 - - - S - - -
+                  .. - - - X - - -
+                APPS - - - O - - -
+           PARAMETER - - - O - - -
+                THAT - - - - O - -
+  REQUIRED_COMPONENT - - - - X - -
+               PANEL - - - - S - -
+             STARTUP - - - - X - -
+         APPLICATION - - - - X - -
+                  OK - - - - S - -
+/DESKTOP/GNOME/SESSION - - - - S - -
+/DESKTOP/GNOME/SESSION/REQUIRED_COMPONENTS - - - - X - -
+                 YEA - - - - S - -
+/DESKTOP/GNOME/SESSION/REQUIRED_COMPONENTS_LIST - - - - X - -
+          COMPONENTS - - - - S - -
+               THESE - - - - - - X
+               DRIVE - - - - - - X
+           PARTITION - - - - - - O

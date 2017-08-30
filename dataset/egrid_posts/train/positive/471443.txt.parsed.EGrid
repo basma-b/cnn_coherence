@@ -1,0 +1,8 @@
+             DEFAULT X X - - -
+               GNOME X X - - -
+               SOUND X X - - -
+             MANAGER X X - - -
+               PULSE - - S - -
+    UPDATE-INITRAMFS - - S - -
+           SOMETHING - - O - -
+           INITRAMFS - - - - O

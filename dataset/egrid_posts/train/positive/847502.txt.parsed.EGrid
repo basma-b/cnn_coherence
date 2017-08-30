@@ -1,0 +1,6 @@
+               CHMOD S -
+             ROOTDIR O -
+                FILE O -
+          PERMISSION X -
+            SETTINGS O -
+             SESSION - X

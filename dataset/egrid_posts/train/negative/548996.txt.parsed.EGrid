@@ -1,0 +1,15 @@
+              RESCAN X - -
+                DISK X - -
+               MOUNT - X -
+               DRIVE - X -
+                  .. - O -
+              REBOOT - X -
+           SOMETHING - S -
+               DMESG - S -
+               FDISK - S -
+               FSTAB - S -
+             COMMAND - O -
+              EITHER - S -
+               TABLE - O -
+                 ONE - O -
+               OOOOO - - X

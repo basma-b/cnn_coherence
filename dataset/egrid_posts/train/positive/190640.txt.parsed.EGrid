@@ -1,0 +1,34 @@
+           START=YES - O - - - - - - - - - - - - - - -
+                ETH0 - X - - - - - - - - - - - - - - -
+                FILE - O - - - - - X - - - - - - - - -
+                 ONE - O - - - - - - - - - - - - - - -
+             FIREHOL - - O - X - - O - - - - - - - - X
+              ROUTER - - X - - - - - - - - - - - - - -
+               STUFF - - O - - - - - - - - - - - - - -
+       HOME2INTERNET - - S - - - - - - - - - - - - - -
+          MASQUERADE - - X - - - - - - - - - - - - - -
+              CLIENT - - X - - - - S - - - - - - - - -
+                THIS - - - - S - - - - - - - - - - - -
+              OUTPUT - - - - O - - - - - - - - - - - -
+/ETC/DEFAULT/FIREHOL - - - - X S - - - - - - - - - - -
+                   > - - - - X - - - - - - - - - - - -
+            STOPPING - - - - - X - - - - - - - - - - -
+                  IE - - - - - - - S - - - - - - - - -
+                HTTP - - - - - - - O - - - - - - - - -
+//PASTEBIN.COM/778617 - - - - - - - X - - - - - - - - -
+                 LAN - - - - - - - X - - - - - - - - -
+            COMPUTER - - - - - - - X - - - - - - - - -
+               WHILE - - - - - - - X - - - - - - - - -
+              SERVER - - - - - - - - X - - - - X - - -
+                 IRC - - - - - - - - - O - - - X - - -
+               SHARE - - - - - - - - - X - - - - - - -
+            INTERNET - - - - - - - - - X - O - - - - -
+          CONNECTION - - - - - - - - - O - - - - - - -
+             NETWORK - - - - - - - - - X - - - - - - -
+          EVERYTHING - - - - - - - - - - - - S - - - -
+                 YUP - - - - - - - - - - - - - X - - -
+             ATTEMPT - - - - - - - - - - - - - X - - -
+                 BTW - - - - - - - - - - - - - X - - -
+              UPDATE - - - - - - - - - - - - - X - - -
+        FIREHOL.CONF - - - - - - - - - - - - - O - - -
+                MEAN - - - - - - - - - - - - - - - - S

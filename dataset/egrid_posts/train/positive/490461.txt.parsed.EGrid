@@ -1,0 +1,16 @@
+            PROBLEMS O - - - - - - - -
+         PERMISSIONS X - O - - - - - -
+              FOLDER - O - - - X - - -
+                ROOT - X X - - - - - -
+               WHEEL - X X - - - - - -
+                 FTP - X - - - - - - -
+                 SEP - - X - - - - - -
+               15:35 - - X - - - - - -
+          SRKIBACKUP - - X - - - - - -
+                USER - - - X - - - - -
+         DIRECTORIES - - - O - - - - -
+                FILE - - - - O - - - -
+              ACCESS - - - - - X - - -
+               CHMOD - - - - - - X X -
+                WHAT - - - - - - - X -
+                DRWX - - - - - - - - X

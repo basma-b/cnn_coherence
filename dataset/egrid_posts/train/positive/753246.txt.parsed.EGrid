@@ -1,0 +1,30 @@
+                  OK X - - S - - -
+       UBUNTU-SERVER X - - - - - -
+               PHONE S - - - - - -
+                PORT - X - - - - -
+               THING - - X - X - -
+             SOMEONE - - - S - - -
+                 LOG - - - X - - -
+     /VAR/LOG/SYSLOG - - - X - - -
+              DEVICE - - - S - - -
+VIRTUALBOX-OSE-SOURCE - - - O - - -
+              SOURCE - - - S - - -
+                   U - - - X S - -
+           IMPORTANT - - - X - - -
+                  IM - - - - S - -
+           BACKTRACK - - - - X - -
+                  R1 - - - - O - -
+              UBUNTU - - - - X - -
+               ERROR - - - - S - -
+              KERNEL - - - - O - -
+                  -R - - - - X - -
+              2.6.34 - - - - S - -
+                LINK - - - - X - -
+                SUDO - - - - X - S
+             APT-GET - - - - X - -
+             ISNTALL - - - - X - -
+      LINUX-HEADERS- - - - - X - -
+ /ETC/INIT.D/VBOXDRV - - - - X - -
+               SETUP - - - - X - O
+LINUX-HEADERS-2.6.34 - - - - S - -
+             VERSION - - - - X - -

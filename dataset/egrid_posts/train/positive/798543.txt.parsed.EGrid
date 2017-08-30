@@ -1,0 +1,10 @@
+               RSYNC S X - -
+          PERMISSION O - O -
+               ERROR X - - -
+                ROOT X - S -
+                FILE O - - -
+              SERVER X X - -
+         PERMISSIONS - X - -
+                USER - X - -
+           DIRECTORY - - X -
+                  .. - - O X

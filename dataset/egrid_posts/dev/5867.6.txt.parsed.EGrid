@@ -1,0 +1,11 @@
+             COMMAND X - -
+                FSCK S - -
+              SYSTEM X - -
+               CHECK O - -
+              REBOOT X - -
+                SUDO - S -
+          /FORCEFSCK - O -
+                  LS - - S
+              STRING - - X
+                 FOO - - X
+           DIRECTORY - - X

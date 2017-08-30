@@ -1,0 +1,15 @@
+               CHOWN O - - -
+              SCRIPT X - - -
+              ACCESS O - - -
+                 GUY S - X -
+                  .. O - - -
+               CHMOD S - - -
+             COMMAND O - - -
+              CHANGE O - - -
+               OWNER X - - -
+         PERMISSIONS X - - -
+                 ONE - - O -
+               OTHER - - X -
+                HELP - - X -
+              UPDATE - - - O
+                REPO - - - O

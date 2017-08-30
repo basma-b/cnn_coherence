@@ -1,0 +1,23 @@
+               SETUP - X - - - X - - - - - -
+              SYSTEM - O - - - - - - - - - -
+             TRAFFIC - S S - - O - - - O - -
+                 VPN - X X - - - - - - - - -
+                PPTP - X - - - - - - - - - -
+             OPENVPN - O - - - - - - - - - -
+             SERVICE - - O - - - - - - O - -
+        SUBSCRIPTION - - X - - - - - - - - -
+                 FEE - - O - - - - - - - - -
+             PRIVACY - - X - - - - - - - - -
+              REASON - - X - - - - - - - - -
+                PORT - - - X - - - - - - - O
+                9.10 - - - - X - - - - - - -
+                RULE - - - - - O X - - - - -
+                HOST - - - - - X - - - - - -
+            FIREWALL - - - - - - X - - O - -
+                EASY - - - - - - X - - - - -
+                   A - - - - - - - X - - - -
+                MESS - - - - - - - X - - - -
+               OUTGO - - - - - - - - - X - -
+             MACHINE - - - - - - - - - X - -
+               HTTPS - - - - - - - - - - X -
+//HELP.UBUNTU.COM/9.04/SERVERGUIDE/C/FIREWALL.HTML - - - - - - - - - - X -

@@ -1,0 +1,14 @@
+             PROBLEM O - - - - - - - -
+           MKFS.EXT3 X X - - - - - - -
+           /DEV/SDB1 - O - - - - - - -
+               ERROR - - S - - - - - -
+           PARTITION - - S S - O S - -
+                 USE - - X X - - X - -
+                THIS - - - O X - - - -
+    FUSER/LSOF/MOUNT - - - X - - - - -
+              SYSTEM - - - - - X - - -
+              LIVECD - - - - - X - - -
+                   U - - - - - X - - -
+                READ - - - - - O - - -
+     SYSTEMPARTITION - - - - - - O - -
+                 CLI - - - - - - - - X

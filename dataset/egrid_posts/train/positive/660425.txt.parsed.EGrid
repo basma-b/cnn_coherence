@@ -1,0 +1,17 @@
+                 ALL S - - - - - - -
+                GRUB O - - - - - - -
+                9.10 - S - - - - - -
+               GRUB2 - - X - - - - -
+            VERSIONS - - X - - X - -
+                   * - - X - - - - -
+                XORG - - X - X S - S
+              COURSE - - - X - - - -
+             DEFAULT - - - - - X - -
+        XSERVER-XORG - - - - - X - -
+             PACKAGE - - - - - S - -
+           XORG.CONF - - - - - X - -
+       /ETC/X11/XORG - - - - - S - -
+               THERE - - - - - - X S
+  /ETC/X11/XORG.CONF - - - - - - - O
+                 HAL - - - - - - - X
+                DBUS - - - - - - - O

@@ -1,0 +1,9 @@
+             PROCESS S - - - - - - -
+                FILE X - - - - - - -
+                  IM - S - - - - - -
+            BOOT.LOG - X - - - - - -
+            ANYTHING - O - - - - - -
+              NORMAL - X - - - - - -
+               THERE - - X - - - - -
+      /VAR/LOG/DMESG - - - - - S - S
+   /VAR/LOG/DEMESG.0 - - - - - X - X

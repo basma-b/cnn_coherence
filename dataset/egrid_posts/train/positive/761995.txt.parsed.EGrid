@@ -1,0 +1,17 @@
+                RAID - S - - - -
+               MDADM - O - - - -
+               RIGHT - X - - - -
+                   O - X - - - -
+                   X - X - - - -
+            SOFTWARE - X - - - -
+                CARD - O - - - -
+                 RUN - - - X - -
+           PARTITION - - - X X O
+                NTFS - - - O - -
+                 ATI - - - X - -
+         SOUTHBRIDGE - - - X - -
+            FAKERAID - - - O - -
+               ISSUE - - - O - -
+             GPARTED - - - - S -
+               DRIVE - - - - O -
+               TABLE - - - - O S

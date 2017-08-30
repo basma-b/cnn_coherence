@@ -1,0 +1,14 @@
+                BOOT X - - - - -
+                  HD X - - - - -
+              OPTION O - - - - -
+             LIVEUSB X - - - - -
+               10.10 X - - - - -
+           INITRAMFS X - - O - O
+           INTEGRITY - X - - - -
+                DISK - X - - - -
+               THERE - X X S - S
+             COMMAND - - X - - -
+                FSCK - - X - - -
+              E2FSCK - - X - - -
+              LIVECD - - - O - -
+               IDEAS - - - - - X

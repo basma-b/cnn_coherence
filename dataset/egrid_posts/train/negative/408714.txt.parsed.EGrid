@@ -1,0 +1,13 @@
+             DEFAULT X - - - - - -
+            RUNLEVEL X - - - - - -
+                THAT - X - O - - -
+        /ETC/INITTAB - S - - - - -
+                BOOT - X - - - - -
+                   X - X S - - - -
+             WINDOWS - X - - - - -
+               LEVEL - O X X - - -
+                 2-5 - - X - - - -
+                 BUM - - - O - - -
+                 GDM - - - X - - -
+                 FFS - - - - X - -
+           SHOREWALL - - - - - - X

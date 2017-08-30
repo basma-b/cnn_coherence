@@ -1,0 +1,12 @@
+              UMASKS X - - - O - - - -
+            LOGFILES S - - - - - - - -
+            SYSKLOGD X - - - - S - - -
+               USERS - X - - - - - - -
+               UMASK - - S - - - - - X
+                FILE - - - X S X - - -
+                MASK - - - O - O - - -
+                WRAP - - - X - - - - -
+    SYSCONFIG/SYSLOG - - - - - - - - X
+        SYSLOG_UMASK - - - - - - - - X
+              OPTION - - - - - - - - X
+              GOOGLE - - - - - - - - X

@@ -1,0 +1,16 @@
+              SYSTEM X - - - - -
+                 USE X - - - - -
+                 X11 X X - - - -
+           LOCALHOST O - - - - -
+        APPLICATIONS - O - - - -
+          CONNECTION - S - - - -
+      AUTHENTICATION - X - - - -
+              ANYONE - - S - - -
+            SSHDCONF - - - X - -
+/ETC/SSH/SSHD_CONFIG - - - - X -
+                INFO - - - - - O
+                TYPE - - - - - X
+                 XFS - - - - - X
+                  RW - - - - - X
+            GRPQUOTA - - - - - X
+            USRQUOTA - - - - - X

@@ -1,0 +1,19 @@
+                TYPE X - - - - -
+                EXT4 - X - O - -
+               TRUST - X - - - -
+              EXT2/3 - X - - - -
+                HTTP - - X - - -
+DELAYED_ALLOCATION_AND_POTENTIAL_DATA_LOSS - - X - - -
+                9.10 - - S - - -
+             DEFAULT - - X - - -
+                 DEV - - O - - -
+              SERVER - - - X - -
+                DATA - - - X - -
+                 NET - - - S - -
+          BOTTLENECK - - - O - -
+                EXT3 - - - O - -
+              JAUNTY - - - X - -
+             MACHINE - - - X - -
+          EXPERIENCE - - - S - -
+             CLIENTS - - - - - X
+               LINUX - - - - - X

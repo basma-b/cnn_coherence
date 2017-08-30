@@ -1,0 +1,28 @@
+                HELP O - - - - - - -
+             FRIENDS - X - - - - - -
+                WLAN - S - - - - - -
+                MINE - X - - - - - -
+                POST - - - - X - - -
+              CONFIG - - - - X X - -
+                FILE - - - - X X X X
+                 USE - - - - X - - -
+          SUPPLICANT - - - - O - - -
+                DONT - - - - - X - -
+        INSTALLATION - - - - - O - -
+                9.10 - - - - - X - -
+               SSIDS - - - - - S - -
+                 LOG - - - - - O - -
+                 OWN - - - - - X - -
+/ETC/NETWORK/INTERFACES - - - - - - S -
+                AUTO - - - - - - X -
+                  LO - - - - - - X -
+           LINEBREAK - - - - - - O -
+                INET - - - - - - X -
+            LOOPBACK - - - - - - X -
+               DIDNT - - - - - - S -
+               THING - - - - - - X -
+            PASTEBIN - - - - - - X -
+/ETC/WPA_SUPPLICANT.CONF - - - - - - O -
+           DIRECTORY - - - - - - - O
+     WPA_SUPPLICANTS - - - - - - - X
+                 ALL - - - - - - - S

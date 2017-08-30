@@ -1,0 +1,17 @@
+             OPTIONS X S - - - - -
+               FSTAB X S - - - S -
+                 MAN - S - - - - -
+                 ONE - X - - - - -
+           LOCATIONS - - O - - - -
+                SWAP - - X - - - -
+               DRIVE - - - X - - -
+                CASE - - - - - X -
+             ADDRESS - - - - - O -
+               POINT - - - - - X -
+           PARTITION - - - - - - O
+                 HDD - - - - - - X
+             /MEDIA/ - - - - - - X
+                UUID - - - - - - X
+                TYPE - - - - - - X
+                PATH - - - - - - X
+                AUTO - - - - - - X

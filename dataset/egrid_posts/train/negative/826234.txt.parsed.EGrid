@@ -1,0 +1,17 @@
+              REASON - X - - - - - -
+                CRON - X - - - - - -
+                 JOB - S - - - - - -
+              SERVER - X - - - - - -
+                 LTS - X - - - - - -
+                 BOX - X - - - - - -
+               ENTRY - - O - - - - -
+             CRONTAB - - X - - - - -
+                USER - - X - - - - -
+            SYSADMIN - - X - - - - -
+                SUDO - - X X X - - -
+        BACKUPSCRIPT - - X - - - - -
+/HOME/SYSADMIN/BACKUPSCRIPT - - - O - - - -
+       SYSTEMCRONTAB - - - - X - - -
+              PATHES - - - - - X - -
+              SCRIPT - - - - - X - -
+                  OK - - - - - - - S

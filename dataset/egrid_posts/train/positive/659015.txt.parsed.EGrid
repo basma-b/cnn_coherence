@@ -1,0 +1,16 @@
+                GRUB X - - - - - -
+                LIST X - - - - - -
+                FILE - X O - - - -
+            MENU.LST - O - - - - -
+              /BOOT/ - X - - - - -
+                9.10 - O X - - - -
+            LOCATION - - O - - - -
+                 USE - - X - - - -
+               GRUB2 - - O - - - -
+                   * - - S - - - -
+              CONFIG - - X - - - -
+             COMMAND - - X - - - O
+         GRUB-CONFIG - - O - - - -
+           SOMETHING - - - - - S -
+                THAT - - - - - - X
+            GRUB.LST - - - - - - O

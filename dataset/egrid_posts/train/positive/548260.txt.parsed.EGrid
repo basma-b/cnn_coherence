@@ -1,0 +1,10 @@
+                NEED S S - -
+           PRIVILEGE O O - -
+           DIRECTORY O O - -
+                TYPE - - S -
+                SUDO - - X -
+            TERMINAL - - X -
+               MKDIR - - X -
+       YOUR_DIR_NAME - - O -
+                FILE - - - O
+              FOLDER - - - X

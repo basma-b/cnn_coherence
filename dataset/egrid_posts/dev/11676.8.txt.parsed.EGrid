@@ -1,0 +1,13 @@
+                TIME S X -
+                BOOT X - -
+                GRUB - X -
+                CONF - S -
+   /ETC/DEFAULT/GRUB - X -
+                 ALL - S -
+         UPDATE-GRUB - O -
+            PASTEBIN - - X
+                SUDO - - X
+        SPEAKER-TEST - - X
+                  -C - - X
+              HW:0,0 - - S
+               NOISE - - O

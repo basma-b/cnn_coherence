@@ -1,0 +1,17 @@
+           .HTACCESS X - - O - - - -
+            NAUTILUS X - - X - - - -
+       FILES/FOLDERS - S - S - - - -
+                FILE - - X - O S - -
+               OTHER - - - O - - - -
+             SYMLINK - - - O - - - -
+            SOLUTION - - - O - - - -
+                 SEE - - - - - O - -
+                LINK - - - - - S - -
+              ACCESS - - - - - O - -
+                KIND - - - - - X - -
+               MOUNT - - - - - - X -
+               POINT - - - - - - O -
+            /DEV/FOO - - - - - - X -
+ /PATH/TO/MOUNTPOINT - - - - - - O -
+               FSTAB - - - - - - X -
+        INSTRUCTIONS - - - - - - - X

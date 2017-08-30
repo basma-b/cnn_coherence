@@ -1,0 +1,12 @@
+                ROOT X - - X -
+          FILESYSTEM S - - - -
+              ERRORS O - - - -
+                  RO O - - - -
+             COMMAND - O - - -
+            TEMPFILE - O - - -
+                /VAR - X - - -
+                USER - - - X -
+                MODE - - - X X
+                 W/O - - - S -
+              OPTION - - - - O
+            GRAPHICS - - - - X

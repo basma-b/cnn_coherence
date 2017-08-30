@@ -1,0 +1,15 @@
+               11.10 O - - -
+                  +A X - - X
+             COMMAND O - - -
+         PERMISSIONS O - - -
+                FILE - X O -
+           DIRECTORY - X X -
+                HOME - X X -
+                TEST - - X -
+                 TRY - - X -
+         RIGHT-CLICK - - X -
+                 BOX - - X -
+                 SSH - - X -
+              SERVER - - X -
+                SUDO - - X -
+               CHMOD - - - S

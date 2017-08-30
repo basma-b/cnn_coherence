@@ -1,0 +1,15 @@
+              ANYONE X - - - - -
+               CHOWN X - - - - -
+               CHGRP S - - - - -
+            SYMLINKS O X X S - -
+              UBUNTU X - - - - -
+                THAT - S - - - -
+         PERMISSIONS - O S S - -
+              EFFECT - O - - - -
+              ACCESS - - O - - -
+                FILE - - X - - -
+              FOLDER - - X - - -
+            LOCATION - - - X - -
+                 OWN - - - X - -
+            POINTERS - - - O - -
+                LINK - - - X - -

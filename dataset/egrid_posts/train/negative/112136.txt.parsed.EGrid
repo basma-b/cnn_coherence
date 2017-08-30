@@ -1,0 +1,21 @@
+                SUDO X X - S
+/ETC/INIT.D/NETWORKING S - - -
+                   * S - - -
+             NETWORK X - - -
+          INTERFACES O - - -
+             NOTHING X - - -
+                  TA - X - -
+               CHECK - X - -
+               DMESG - O - -
+                 LOG - X - -
+                FILE - O - -
+              POLICY - X - -
+              REASON - O - -
+            SOFTWARE - O - -
+             DEFAULT - X - -
+                  UM - X - -
+                PART - O - -
+    DPKG-RECONFIGURE - X - -
+        XSERVER-XORG - X - -
+                USER - - - X
+                 YEP - - - O

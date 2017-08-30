@@ -1,0 +1,17 @@
+          EVERYTHING X - - - -
+                FINE O - - - -
+                 BOX X - - - O
+            INTERNET X - - - -
+               PPPOE X - - - -
+           PPPOECONF X - - - -
+                 PON X - - - -
+             OFFLINE O - - - -
+                POFF S - - - -
+       /USR/BIN/POFF O - - - -
+                NONE - S - - -
+            IFCONFIG - - S - -
+             KILLALL - - X - -
+                PPPD - - X - -
+                THAT - - - - O
+                 DAD - - - - X
+                USER - - - - X

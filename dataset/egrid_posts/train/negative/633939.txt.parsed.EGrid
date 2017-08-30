@@ -1,0 +1,5 @@
+           CONFIG_HZ - O - -
+            RELATION - S - -
+           PARAMETER - X - -
+ CLOCKSOURCE=ACPI_PM - X - -
+                 TSC - O - -

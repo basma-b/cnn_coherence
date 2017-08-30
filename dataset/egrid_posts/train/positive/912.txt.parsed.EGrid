@@ -1,0 +1,17 @@
+             PROBLEM S - - - -
+            UNIVERSE - O - - -
+              SOURCE - X - - -
+    /PROC/ACPI/SLEEP - X - - -
+             MESSAGE - O - - -
+             SUSPEND - X - - -
+              DEVICE - O - - -
+              KERNEL - X - - -
+               THING - O - - -
+                BIOS - X - - -
+              HOTKEY - O - - -
+                  .. - - X - -
+           MAKE-KPKG - - S - O
+                .DEB - - S - -
+            QUESTION - - O - -
+               STUFF - - O - -
+             PACKAGE - - - - O

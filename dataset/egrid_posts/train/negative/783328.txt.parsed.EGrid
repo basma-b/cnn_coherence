@@ -1,0 +1,11 @@
+             STARTUP X - X - X - - -
+             SERVICE X - X - X - X -
+          STATUS-ALL - - - - X - - -
+                SOME - - - - S - - -
+                NMBD - - - - X - - -
+        INSTALLATION - - - - X - - -
+                SMBD - - - - - - X -
+                  .. - - - - - - X -
+               START - - - - - - X -
+                SUDO - - - - - - X -
+       START-COMMAND - - - - - - O -

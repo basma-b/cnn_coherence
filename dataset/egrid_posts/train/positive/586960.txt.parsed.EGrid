@@ -1,0 +1,12 @@
+                KIND X - - - -
+          CONNECTION X X - - -
+                  .. X - - - -
+/ETC/PPP/RESOLV.CONF - S - - -
+                 DNS - X - - -
+          RESOLUTION - X - - -
+                 NAT - X - - -
+             GATEWAY - X - - -
+         RESOLV.CONF - O - - -
+                  FS - O - - -
+                 USE - - - - X
+             UNIONFS - - - - X

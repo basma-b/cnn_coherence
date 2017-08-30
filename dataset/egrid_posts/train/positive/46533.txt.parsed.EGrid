@@ -1,0 +1,11 @@
+       NSSWITCH.CONF S - X - -
+                 SET O - - - -
+           LOCALHOST - S - - -
+                PING - X - - -
+            ANYTHING - - - O -
+               THOSE - - - S -
+             PROBLEM - - - S -
+               CAUSE - - - O -
+            SETTINGS - - - X -
+               THERE - - - X -
+                  OK - - - - X

@@ -1,0 +1,12 @@
+               AFAIK X - -
+              CFDISK S - -
+          FILESYSTEM X - X
+                TYPE O - -
+              FORMAT S - S
+           PARTITION O - -
+                  DD X - -
+           DEV/ZERO= X - -
+           STRUCTURE - - O
+          SUPERBLOCK - - X
+                   S - - X
+              INODES - - S

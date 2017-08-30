@@ -1,0 +1,11 @@
+                FILE X X -
+           WRITEABLE X - -
+              DEAMON X - -
+               CHOWN - X -
+  /ETC/MT-DAAPD.CONF - S -
+                 TRY - X -
+                   > - X -
+                BIOS - - S
+             NETWORK - - X
+                BOOT - - O
+             PCCARDS - - X

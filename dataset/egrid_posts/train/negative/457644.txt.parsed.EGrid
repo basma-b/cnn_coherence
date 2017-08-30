@@ -1,0 +1,25 @@
+                ALSA - X - - - - - - -
+                HELP - - X - - - - - -
+               SOUND - - X - - - - - -
+              KERNEL - - S - - - - - -
+           2.6.24-19 - - S - - - - - -
+           2.6.24-16 - - X - - - - - -
+                  .. - - - - O O - - -
+                SUDO - - - - X - - - -
+/ETC/INIT.D/ALSA-UTILS - - - - S - - - -
+                ICON - - - - S - - - -
+               BLOCK - - - - X - - - -
+              SIGNAL - - - - X - - - -
+             MESSAGE - - - - - X O - -
+               CLICK - - - - - O - - -
+              AND/OR - - - - - X - - -
+              DEVICE - - - - - X - - -
+              OUTPUT - - - - - X - - -
+            -NV|GREP - - - - - X - - -
+               -RSB- - - - - - X - - -
+                 REV - - - - - - X - -
+           SUBSYSTEM - - - - - - X - -
+           1043:829F - - - - - - S - -
+                DIFF - - - - - - - - X
+             DOMAINS - - - - - - - - S
+                 USE - - - - - - - - O

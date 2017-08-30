@@ -1,0 +1,8 @@
+                   X S - - - - - - -
+              SCREEN - S - - - - - -
+               ERROR - O - - - - - -
+        XSERVER-XORG - O - - - - - -
+           XORG.CONF - - X - - - - -
+        CONSOLE-ONLY - - - X - - - -
+              DRIVER - - - - X - - S
+               FGLRX - - - - - X - -

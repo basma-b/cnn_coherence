@@ -1,0 +1,13 @@
+           DIRECTORY X - -
+                 USE O - -
+             COMMAND - X -
+                LINE - X -
+           OPERATION - X -
+                  CD - X -
+                   ~ - S -
+         TEST1/TEST2 - S -
+                DPKG - S -
+                  -L - X -
+               SOULD - X -
+                 MAN - S -
+               THERE - - X

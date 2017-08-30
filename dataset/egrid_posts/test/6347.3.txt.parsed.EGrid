@@ -1,0 +1,12 @@
+             COMMAND O - - - - -
+             ARECORD X - - - - -
+                 MIC O O X - - -
+            SPEAKERS X - X - - -
+                 WAY - - O - - -
+                 ONE - - O - - -
+                WORK - - - - O O
+           ALSAMIXER - - - - X -
+           SCROLLBAR - - - - X -
+               UNITY - - - - X -
+               AUDIO - - - - - X
+                 BAR - - - - - X

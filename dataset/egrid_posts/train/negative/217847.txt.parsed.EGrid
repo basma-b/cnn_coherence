@@ -1,0 +1,7 @@
+             COMMAND X - -
+             DRIVERS O - -
+                SUDO - X -
+             APT-GET - X -
+   XORG-DRIVER-FGLRX - S -
+            SYNAPTIC - - S
+             PACKAGE - - O

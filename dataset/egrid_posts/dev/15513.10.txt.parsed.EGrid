@@ -1,0 +1,14 @@
+              RESULT S -
+              DEVICE S -
+            SETTINGS O -
+/ETC/NETWORK/INTERFACES X -
+              REBOOT X -
+         IFDOWN/IFUP O -
+                 NOW O -
+             NOTHING S -
+                ROUT X -
+               TABLE X -
+                THAT - S
+              DOESNT - X
+                WORK - O
+             NEITHER - X

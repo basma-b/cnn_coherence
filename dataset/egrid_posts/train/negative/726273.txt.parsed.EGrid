@@ -1,0 +1,15 @@
+                LOAD O - - - -
+        KERNEL-MODUL O - - - -
+            MODPROBE X - - - -
+               MODUL S O - - -
+             SESSION X - - - -
+              REBOOT X - - - -
+ /BOOT/GRUB/MENU.LST - - O - -
+                 WAY - - X - -
+                THAT - - - X -
+        /ETC/MODULES - - - X -
+                LOOK - - - O -
+             NOTHING - - - X -
+               LUCID - - - X -
+                 DNS - - - - X
+            SETTINGS - - - - O

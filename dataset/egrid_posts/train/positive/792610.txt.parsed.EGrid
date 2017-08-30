@@ -1,0 +1,24 @@
+                SUDO X - - - - -
+            LDCONFIG O - - - - -
+/USR/LIB32/LIBSTDC++.SO.5 S - - - - -
+                LINK O - - - - -
+                THAT - S X - - -
+               CHECK - O - - - -
+             SYMLINK - O - - - -
+               64BIT - - - S - -
+            /USR/LIB - - - X - X
+                  .. - - - X - X
+              THINGS - - - S - -
+          /USR/LIB32 - - - - - X
+        INSTALLATION - - - - - O
+             PROGRAM - - - - - X
+                CALL - - - - - X
+               PCSX2 - - - - - X
+                DATA - - - - - O
+               ORDER - - - - - S
+                BITE - - - - - X
+         ENVIRONMENT - - - - - X
+                WINE - - - - - X
+             PRINTER - - - - - X
+                SUCK - - - - - O
+                 END - - - - - X

@@ -1,0 +1,10 @@
+         PERMISSIONS X - - - -
+               CHMOD - X - - -
+     /PATH/TO/FOLDER - X - - -
+                   * - S - - -
+          PERMISSION - O - - -
+                HOME - X - - -
+             COMMAND - O - - -
+              MEMORY - - X - -
+                SUDO - - X - -
+            MAVERICK - - - - X

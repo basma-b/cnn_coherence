@@ -1,0 +1,16 @@
+               EARTH X - - - -
+         NAMESERVERS S - - - -
+         RESOLV.CONF X - - - -
+             4.2.2.2 - X - - -
+             DEFAULT - X - - -
+             GATEWAY - X - - -
+                LINE - O - - -
+/ETC/DHCP3/DHCLIENT.CONF - X - - -
+                THIS - S - - -
+                  IP - S - - -
+    /ETC/RESOLV.CONF - X - - -
+             ADDRESS - O - - -
+                DHCP - X - - -
+                 ONE - - - X -
+ DOMAIN-NAME-SERVERS - - - - S
+              OPTION - - - - X

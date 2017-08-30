@@ -1,0 +1,13 @@
+               .DEBS X - -
+               THING O - -
+              SYSTEM O - -
+             PACKAGE X - -
+          MANAGEMENT X - -
+             APT-GET X - -
+            APTITUDE O - -
+        GUI-SYNAPTIC O - -
+                  -C O - -
+ CHECK-DIST-UPGRADES - S -
+        DISTRIBUTION - X -
+             RELEASE - S -
+                  OK - - X

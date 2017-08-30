@@ -1,0 +1,14 @@
+              DOMAIN S - - - - - - -
+              CLIENT S X - - - - - -
+                 UDP - X - - - - - -
+             PACKETS - O - - - - - -
+                 PDC - X S - - - - -
+                 WAY - X - - - - - -
+          CONNECTION - - X - - - - -
+             BACKEND - - X - - - - -
+       SMBLDAP-TOOLS - - - O - - - -
+       NSSWITCH.CONF - - - X - - - -
+             SOMEONE - - - - S - - -
+                THIS - - - - X - - -
+               SAMBA - - - - - X - -
+               AGIAN - - - - - - - X

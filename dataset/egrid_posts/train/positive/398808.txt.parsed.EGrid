@@ -1,0 +1,27 @@
+               HTTPS X - - - - - - - -
+                  AP X X - S - - - - -
+              ACCESS X - - - - - - - -
+               POINT X - - - - - - - -
+                   > - X - - - - - - -
+                SUDO - X - - - - - - -
+            DHCLIENT - S - - - - - - -
+                   < - X - - - - - - -
+           INTERFACE - X - - - - - - -
+        DHCPDISCOVER - X - - - - - - -
+               _NOT_ - S - - - - - - -
+                  IP - O - - - - - - -
+           COMPUTERS - - - S - - O - -
+                 ONE - - - O - - - - -
+             COOKIES - - - X - - - - -
+            WIRELESS - - - - O - - - -
+             PROBLEM - - - - - S - - -
+              ROUTER - - - - - X X - -
+              MOMENT - - - - - - X - -
+              UBUNTU - - - - - - S - -
+           YESTERDAY - - - - - - X - -
+/ETC/NETWORK/INTERFACES - - - - - - - X -
+/ETC/NETWORK/INTERFACES.BACKUP - - - - - - - X -
+               WLAN0 - - - - - - - X O
+                IFUP - - - - - - - X -
+              MINUTE - - - - - - - - X
+                ETH1 - - - - - - - - O

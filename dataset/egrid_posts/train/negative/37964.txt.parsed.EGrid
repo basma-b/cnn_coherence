@@ -1,0 +1,14 @@
+               IMAGE X - - - -
+               BLOCK X - - - -
+              DEVICE X - - - -
+            FILE.ISO - O X - -
+                LOOP - O - - -
+          FILESYSTEM - X - - -
+                TYPE - X - - -
+             ISO9660 - - X - -
+                FILE - - X - -
+              SYSTEM - - X - -
+                GAME - - - - O
+               BLAME - - - - X
+                PATH - - - - O
+             PROBLEM - - - - O

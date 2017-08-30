@@ -1,0 +1,17 @@
+          CONNECTION X - - - - -
+                SSHD X - S - - -
+               TABLE - S - - - -
+             NOTHING - X - - - -
+            AUTH.LOG - S - - - -
+                SHOW - X - - - -
+              REFUSE - X - - - -
+         CONNECTIONS - O - - - -
+                 DEC - X - - - -
+             SERVER5 - X - - - -
+               -RSB- - X - - - -
+                FFFF - X - - - -
+                   > - S - - - -
+             ENTRIES - O - - - -
+/ETC/SSH/SSHD_CONFIG - X - - - -
+         SUGGESTIONS - X - - - -
+             NETSTAT - - X - - -

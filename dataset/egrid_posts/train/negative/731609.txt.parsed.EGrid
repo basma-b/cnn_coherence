@@ -1,0 +1,17 @@
+              KERNEL X X - - - -
+                LIST X - - - - -
+               LINUX X - - - - -
+2.6.32-23-GENERIC-PAE X - - - - -
+            POSSIBLE - - X - - -
+             PRESENT - - X - - -
+                  PC - - X - - -
+                THIS - - - O - -
+              UPDATE - - - S X -
+               FAULT - - - - O -
+            APTITUDE - - - - X -
+            INSTANCE - - - - X -
+          PERMISSION - - - - - X
+               ISSUE - - - - - X
+              ACCESS - - - - - O
+               MOUNT - - - - - X
+           UMASK=022 - - - - - X

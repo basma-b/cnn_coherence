@@ -1,0 +1,13 @@
+                  HI X - - - -
+              APACHE O - - - -
+                  .. X - - - -
+             PACKAGE X X - - -
+                GZIP X - - - -
+            MOD_GZIP - X O - -
+             INSTALL - - X - -
+         MOD_DEFLATE - - S - -
+             APACHE2 - - X - -
+                SUDO - - X - -
+             A2ENMOD - - S - -
+             DEFAULT - - X - -
+            ANYTHING - - - - O

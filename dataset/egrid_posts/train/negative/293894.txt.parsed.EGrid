@@ -1,0 +1,12 @@
+             COMMAND O O - O -
+                USER O O - - -
+             SUDOERS X X - X -
+               GROUP X X - X -
+             ANYBODY - S - - -
+                 MAN - - X - -
+               USERS - - S O -
+                CANT - - - X -
+                THIS - - - - S
+                  RM - - - - O
+                FILE - - - - X
+/ETC/.GROUP.EDIT.SWP - - - - O

@@ -1,0 +1,10 @@
+             COMMAND X - -
+             WINDOWS X - -
+           PARTITION X - -
+        /MEDIA/SDA1/ - S -
+           /DEV/SDA1 - O -
+             ARCHIVE - X -
+             MANAGER - S -
+                 RAR - O -
+                SAME - - X
+              BUNTUS - - X

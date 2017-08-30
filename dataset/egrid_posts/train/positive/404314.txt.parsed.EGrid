@@ -1,0 +1,23 @@
+                THAT - O - - -
+                  OK - X - - -
+               ERROR - S - - X
+          MENUCONFIG - S - - -
+             NCURSES - O - - -
+                 LIB - X - - -
+               BUNCH - O - - -
+              ERRORS - X - - -
+             LIBRARY - S - - -
+         SYS/TYPES.H - X - - -
+            PASTEBIN - S - - X
+              MOMENT - X - - -
+SCRIPTS/BASIC/FIXDEP.C - X - - -
+              107:23 - X - - -
+                FILE - X - - -
+           DIRECTORY - X - - -
+                 USE - X - - -
+               THERE - O - - -
+                LINE - O - - -
+           LIBRARIES - X - - -
+                ONES - X - - -
+                POST - - - - X
+             MESSAGE - - - - O

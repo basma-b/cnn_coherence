@@ -1,0 +1,11 @@
+                IPV6 X X -
+                SUDO - S -
+           BLACKLIST - S -
+                   > - X -
+/ETC/MODPROBE.D/BLACKLIST - S -
+             COMMAND - O -
+            TERMINAL - X -
+            VERSIONS - X -
+              UBUNTU - X -
+              SERVER - O -
+                WORK - - X

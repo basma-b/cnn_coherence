@@ -1,0 +1,21 @@
+               WHATS X - - -
+             COMMAND S - - -
+             NETWORK X - - -
+       CONFIGURATION O - - -
+                FILE X - - -
+                   ' - X - -
+              SERVER - X - -
+                JEOS - X - -
+/ETC/NETWORK/INTERFACES - X - -
+                 MAN - S - -
+                INET - X X -
+             ADDRESS - X - -
+             NETMASK - X - -
+             GATEWAY - X - -
+                ETH0 - - O O
+                AUTO - - X -
+              REBOOT - - X -
+                THAT - - - O
+                  IM - - - S
+          PARAMETERS - - - S
+                LINE - - - X

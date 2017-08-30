@@ -1,0 +1,12 @@
+              DRIVER X -
+                WONT S -
+               USERS O -
+             APT-KEY - S
+    /TMP/VBOXKEY.TXT - O
+            DOWNLOAD - X
+                PAGE - X
+              BOTTOM - X
+               THERE - S
+                LINK - O
+                HTTP - X
+//DOWNLOAD.VIRTUALBOX.ORG/VIRTUALBOX/DEBIAN/ORACLE_VBOX.ASC - X

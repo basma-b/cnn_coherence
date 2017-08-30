@@ -1,0 +1,17 @@
+          GAM_SERVER X - S - -
+              ANYONE X - - - -
+             LOCKUPS - X - - -
+              KERNEL - - X - -
+               PANIC - - X - -
+            S/KERNEL - - O - -
+            2.6.10-3 - - X - -
+               ISSUE - - O - -
+                TIME - - - - X
+             COMMAND - - - - O
+              REMOVE - - - - X
+               PURGE - - - - S
+                SUDO - - - - X
+             APT-GET - - - - S
+             PROGRAM - - - - X
+                   > - - - - O
+             PACKAGE - - - - X

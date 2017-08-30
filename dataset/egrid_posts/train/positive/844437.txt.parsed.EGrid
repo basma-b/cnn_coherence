@@ -1,0 +1,11 @@
+                 U+X - S - - -
+               CHMOD - X - - -
+           EXECUTION - X - - -
+               RIGTS - O - - -
+               OWNER - X - - -
+                USER - X - - -
+                THAT - - X - -
+                SAME - - X - -
+                  SH - - X - X
+             FILE.SH - - X - -
+           ./FILE.SH - - - - O

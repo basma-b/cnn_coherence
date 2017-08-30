@@ -1,0 +1,36 @@
+                 LOT O - - - - - - - - - - - - - -
+            PROBLEMS X - - - - - - - - - - - - - -
+         ENVIRONMENT X - X - - - X - - - - - - - -
+           VARIABLES S - X - - - - - - - - - - - -
+             DEFAULT X - - - - - - - - X - - - - -
+                FILE X - - - - - - - - - - - - - O
+         DEFINITIONS O - - - - - - - - - - - - - -
+                KIND - X - - - - - - - - - - - - -
+          DEFINTIONS - X - - - - - - - - - - - - -
+         EXECUTABLES - - - S - - - - - - - - - - -
+               SHARE - - - X - - - - - - - - - - -
+           LIBRARIES - - - X - - - - - - - - - - -
+             HEADERS - - - O - - - - - - - - - - -
+                THIS - - - O - - - - - - - - - - -
+            LDCONFIG - - - - X - - - - - - - - - -
+             EXAMPLE - - - - X - - - - - - - - - -
+          EXECUTABLE - - - - S - - - - - - - - - S
+            IOSTREAM - - - - X - - - - - - - - - -
+            RTYPES.H - - - - X - - - - - - - - - -
+/USR/LOCAL/INCLUDE/ROOT/RTYPES.H - - - - X - - - - - - - - - -
+/USR/LOCAL/INCLUDE/ROOT - - - - - X - - - - - - - - -
+                   * - - - - - S - - - - - - - - -
+                PATH - - - - - X - - - X - - - - -
+              UNELSS - - - - - X - - - - - - - - -
+           DIRECTORY - - - - - - - S - - - - - - -
+          /USR/LOCAL - - - - - - - X - - - - - - -
+                YOUT - - - - - - - - X - - - - - -
+            SOFTWARE - - - - - - - - O - - - - - -
+             LIBRARY - - - - - - - - - X - - - - -
+              SEARCH - - - - - - - - - X - - - - -
+       ROOT/FILENAME - - - - - - - - - O - - - - -
+                 ETC - - - - - - - - - - - - X - -
+         DIRECTORIES - - - - - - - - - - - - - X -
+/USR/LOCAL/LIB/ROOT/ - - - - - - - - - - - - - X -
+                MAKE - - - - - - - - - - - - - - O
+      /USR/LOCAL/BIN - - - - - - - - - - - - - - X

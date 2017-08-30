@@ -1,0 +1,17 @@
+                 NAT O - - -
+            IPTABLES X - - -
+          MASQUERADE X - - -
+                  -T S - - -
+      192.168.0.0/24 O - - -
+              CLIENT S - - -
+            INTERNET X - - -
+                HTTP X - - -
+//PASTE.UBUNTULINUX.NL/4836 X - - -
+              SCRIPT O - - -
+                FILE X - - -
+                  IP O - - -
+                 LAN X - - -
+                 WAN X - - -
+       ./THEFILENAME X - - -
+                   % - - X -
+         PROBABILITY - - O -

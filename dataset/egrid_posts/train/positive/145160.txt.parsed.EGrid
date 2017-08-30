@@ -1,0 +1,6 @@
+            SHUTDOWN - X - - -
+               WLAN0 - O - - -
+                SUDO - - X - -
+              IFDOWN - - S - -
+                LINE - - - - X
+                  IF - - - - S

@@ -1,0 +1,14 @@
+                HELP X - - - -
+              ANYONE - X - - -
+             WINDOWS - X X - -
+           PARTITION - O X - -
+                  DD - - - X -
+        IF=/DEV/ZERO - - - X -
+         OF=/DEV/HDA - - - O -
+             COUNT=2 - - - X -
+              LIVECD - - - - O
+              CD-ROM - - - - X
+                  HD - - - - O
+                 BAY - - - - S
+              OCCUPY - - - - O
+                LUCK - - - - X

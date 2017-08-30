@@ -1,0 +1,22 @@
+                  HI S - - - - - - - - - -
+             PROBLEM - O - - - - - - - - -
+           PARTITION - O - - - - - - - - -
+               FSTAB - X - - - - - - - - -
+                BOOT - X X - - - - X - - -
+                FSCK - - S - - - X - - - -
+                URGE - - S - - - - - - - -
+               ERROR - - X - - - - - - - -
+             MESSAGE - - S - - - - - - - -
+              ERRORS - - S - - - - - - - -
+                DISK - - X - - - - - - - -
+            PROBLEMS - - - S - - - - - - -
+                  DU - - - - X - - - - - -
+                RACE - - - - - X - - - - -
+           CONDITION - - - - - X - - - - -
+                 USE - - - - - - X - - - -
+                  -F - - - - - - X - - - -
+              MIRROR - - - - - - - - - - O
+                LINK - - - - - - - - - - O
+WWW.UBUNTU.COM/DOWNLOAD/DESKTOP - - - - - - - - - - X
+          CONNECTION - - - - - - - - - - X
+               SPEED - - - - - - - - - - X

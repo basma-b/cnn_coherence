@@ -1,0 +1,17 @@
+                BOOT O - X - - -
+              SECOND O - - - - -
+          PARTITIONS O - - - - -
+                 MBR X - - - - -
+              UBUNTU - S - - - -
+                GRUB - S - - - -
+           PARTITION - O - - - -
+                /SDA - - X - - -
+              MASTER - - X - - -
+              RECORD - - S - - -
+                 SET - - O - - -
+               BLOCK - - X - - -
+               BEGIN - - X - - -
+               DRIVE - - X S - -
+            /DEV/SDA - - - X - -
+                 GUY - - - - - S
+                2.17 - - - - - O

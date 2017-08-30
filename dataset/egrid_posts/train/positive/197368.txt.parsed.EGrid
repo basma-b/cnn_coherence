@@ -1,0 +1,15 @@
+            LANGUAGE O - - - - - - - - - - - -
+        /ETC/SUDOERS - S - - - - - - - - - - -
+                SUDO - X - - - - - - - - - - -
+          PRIVELEGES - O - - - - - - - - - - -
+          MEMBERSHIP - X - - - - - - - - - - -
+               GROUP - X - - - - - - - - - - -
+              DAPPER - X - - - - - - - - - - -
+           GFXSTYLER - - - O - - - - - - - - -
+         PERMISSIONS - - - S - - - - - - - - -
+             SUDOERS - - - X - - - - - - - - -
+              SYSTEM - - - X - - - - - - - - -
+                FILE - - - X - - - - - - - - -
+                WHAT - - - - - - - X - - - - -
+               CHMOD - - - - - - - X - - - - -
+         /ETC/SUDOES - - - - - - - - - - - - O

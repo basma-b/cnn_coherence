@@ -1,0 +1,17 @@
+             COMMAND S S - -
+              FORMAT X X X -
+               DRIVE - O - -
+                FILE - O - -
+               MOUNT - X - -
+                 R/W - X - -
+          FILESYSTEM - X - -
+                TIME - - X -
+                  .. - - X -
+                THIS - - S -
+               THEME - - X -
+                 USE - - X -
+             WINDOWS - - X -
+                USER - - X -
+                  XD - - O -
+          MULTIVERSE - - - X
+                NAME - - - O

@@ -1,0 +1,11 @@
+                USER - X - -
+               GROUP - X - -
+              SYSTEM - O - -
+              CHANGE - S - -
+                 TAR - - S X
+                FILE - - O O
+          EVERYTHING - - S -
+              SCRIPT - - - O
+                WORK - - - X
+         PERMISSIONS - - - S
+               IDEAS - - - X

@@ -1,0 +1,21 @@
+              OPTION X - -
+           PROCESSOR X - -
+                TYPE X - -
+             FEATURE X - -
+                   > X - -
+                 SMT X - -
+      HYPERTHREADING X - -
+             SUPPORT X - -
+          MENUCONFIG X - -
+                 CAT - X -
+/USR/SRC/LINUX/.CONFIG - X -
+                   | - X -
+                GREP - X -
+    CONFIG_SCHED_SMT - X -
+                  OK - S -
+              KERNEL - O -
+               DRIVE - O -
+                 BUG - - X
+          MANAGEMENT - - X
+              SYSTEM - - O
+              PEOPLE - - S

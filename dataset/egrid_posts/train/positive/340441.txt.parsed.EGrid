@@ -1,0 +1,7 @@
+             COMMAND X - - - -
+              MIRROR X - - - O
+               IMAGE X - - - -
+   FILES/DIRECTORIES X - - - X
+              CHANGE O - - - O
+               RSYNC - - X - -
+                MINS - - - - O

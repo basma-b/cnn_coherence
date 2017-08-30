@@ -1,0 +1,13 @@
+                BOOT X - - - - X -
+                 ISO O - - - - - -
+               GRUB2 X - - - - - -
+               ENTRY X - - - - - -
+            ISOFILE= - - X - - - -
+/BOOT/ISOS/UBUNTU.ISO - - X - - - -
+                  .. - - O - - - -
+            SQUASHFS - - S - - - -
+                FILE - - - X - - -
+              SYSTEM - - - X - - -
+                 BIG - - - - O - -
+                LINK - - - - - - X
+                 MAN - - - - - - S

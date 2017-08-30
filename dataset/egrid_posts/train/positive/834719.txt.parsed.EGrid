@@ -1,0 +1,17 @@
+              SCRIPT X - - O
+                BOOT X - - X
+           PRIVILEGE X - - -
+        /ETC/INIT.D/ - S X -
+             COMMAND - O - -
+       /ETC/RC.LOCAL - X - -
+                CASE - X - -
+              OPTION - X - -
+                ROOT - X - -
+                   @ - X - -
+              REBOOT - X - -
+        /PATH/SCRIPT - O - -
+                 USE - - X -
+                CRON - - S -
+                 SSH - - - O
+              SECOND - - - X
+              SYSTEM - - - X

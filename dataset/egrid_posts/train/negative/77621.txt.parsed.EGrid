@@ -1,0 +1,8 @@
+             PROGRAM X - -
+               IMAGE O - -
+                  CD X S -
+                  DD - X -
+       IF=/DEV/CDROM - X -
+       OF=FOOBAR.ISO - S -
+            FRONTEND - O -
+         .VIRTUALBOX - - X

@@ -1,0 +1,17 @@
+                 NMB X - S - S
+             SERVICE X - - - X
+                NMBD X - - - -
+             DEFAULT O - - S -
+               START X - - - -
+            MKCONFIG - S - - -
+           CHKCONFIG - - X S X
+              SERVER - - - S X
+               SETUP - - - X -
+      REDHAT-CENTRIC - - - X -
+                TIME - - - - X
+                  .. - - - - X
+                 SMB - - - - S
+                STOP - - - - O
+                LIST - - - - O
+             STARTUP - - - - X
+                 ONE - - - - S

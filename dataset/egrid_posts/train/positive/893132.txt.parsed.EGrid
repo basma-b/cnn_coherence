@@ -1,0 +1,14 @@
+                  BY S - - - - - -
+                DIR1 S S - X - - -
+              GROUP1 X - - - - - -
+               USER2 S - - S - S -
+           DIRECTORY X - S X - - -
+                SFTP X - - - - - -
+              GROUP2 - O - - - - -
+               USERS - O - - - - -
+               GROUP - X X X X - -
+               OWNER - S - S S - -
+               CHMOD - X - - - - -
+                  .. - - - O - - -
+         PERMISSIONS - - - - O - -
+                THAT - - - - - - S

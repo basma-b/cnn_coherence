@@ -1,0 +1,27 @@
+             COMMAND X - - X O - - - - -
+             PROGRAM X - - - - - - - - -
+                SUDO - X - - - - - - - -
+             APT-GET - S - - - - - - - -
+    PACKAGENAME/SUDO - X - - - - - - - -
+              SEARCH - X - - - - - - - -
+         PACKAGENAME - O - - - - - - - -
+             PACKAGE - X O - - - - - - -
+                 GUI - X - - - - - - - -
+     ADDING/REMOVING - X - - - - - - - -
+              SYSTEM - - X - - - - - - -
+                   > - - X - - - - - - -
+      ADMINISTRATION - - S - - - - - - -
+             MANAGER - - X - - - - - - -
+               ADMIN - - X - - - - - - -
+                USER - - X - - - - - - -
+                 USE - - - X - - - - - -
+           PRIVILEGE - - - - O - - - - -
+        APPLICATIONS - - - - - X - - - -
+         APPLICATION - - - - - X - - - -
+                NAME - - - - - O - - - -
+     APPLICATIONNAME - - - - - O - - - -
+SYNAPTIC-PACKAGE-MANAGER - - - - - X - - - -
+                OOPS - - - - - X - - - -
+            SYNAPTIC - - - - - - X - - -
+              WINDOW - - - - - - X - - -
+                THAT - - - - - - - - S -

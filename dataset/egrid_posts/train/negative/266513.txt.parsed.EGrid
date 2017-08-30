@@ -1,0 +1,13 @@
+                 HMM X - - -
+           DISKIMAGE O - - -
+                FILE X - - -
+                  HP - X - -
+                  DD - X - -
+         IF=/DEV/HDA - X - -
+                  .. - O - -
+                SUDO - - S -
+      /MNT/DISKIMAGE - - O -
+                LOOP - - X -
+   /PATHTO/YOURIMAGE - - X -
+            BEHAVIOR - - - X
+             MACHINE - - - X

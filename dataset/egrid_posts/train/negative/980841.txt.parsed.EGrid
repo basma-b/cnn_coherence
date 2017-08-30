@@ -1,0 +1,13 @@
+             PACKAGE O -
+              SOURCE X -
+              BINARY X -
+                 SET X -
+                 GCC X -
+             OPTIONS X -
+                  IM X -
+             APT-GET O -
+              EXPORT X -
+CC=/USR/BIN/GCC-2.95 O -
+         /ETC/VMWARE - O
+            UNISTALL - X
+                FILE - S

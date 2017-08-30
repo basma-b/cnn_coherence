@@ -1,0 +1,18 @@
+                 ISO X - - - -
+                  IM X - - - -
+                BOOT X - - - -
+             WINDOWS S X - - -
+                 USE X - - - -
+             VERSION O - - - -
+               LINUX - X - - -
+            BOOTABLE - X - - -
+               BOXIN - S - - -
+             GPARTED - X - - -
+                  .. - X - - -
+                DISK - X - - -
+       /ETC/TIMEZONE - - - O -
+              THINGS - - - O -
+                LOOK - - - - O
+/VAR/LIB/DPKG/INFO/TZDATA.POSTINST - - - - X
+              TZDATA - - - - S
+                CALL - - - - O

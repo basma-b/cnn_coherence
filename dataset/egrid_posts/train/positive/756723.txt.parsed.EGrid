@@ -1,0 +1,15 @@
+                PLAN O - - - - - - - - - - - -
+              SERVER - O - - - - - - - - - - -
+                8.04 - X - - - - - - - - - - -
+               10.04 - X - - - - - - - - - - -
+                BOOT - X X - - - S X - - - - -
+              KERNEL - - X - - - - - - - - - -
+               PANIC - - X - - - - - - - - - -
+          FILESYSTEM - - O - - - - - - - - - -
+          LVM-SYSTEM - - - O - - - - - - - - -
+         SATA-DRIVES - - - X - - - - - - - - -
+               MEDIA - - - - - - X - - - - - -
+               WHATS - - - - - - S - - - - - -
+                  CD - - - - - - - X - - - - X
+              THINGS - - - - - - - - O - - - -
+               DRIVE - - - - - - - - - - X - -

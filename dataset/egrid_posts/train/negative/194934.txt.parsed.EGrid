@@ -1,0 +1,16 @@
+             COMMAND X - - - - - - - - -
+         PERMISSIONS O - O - - - - - - -
+               DRIVE X - - - - - - - - -
+           OWNERSHIP - X - - - - - - - -
+                AUTO - - X - - - - - - -
+                  -O - - X - - - - - - -
+           UMASK=000 - - O - - - - - - -
+      /DEV/SOMETHING - - S - - - - - - -
+               THERE - - S - - - - - - -
+             PROGRAM - - O - - - - - - -
+                DISK - - X - - - - - - -
+                 GUI - - X - - - - - - -
+                 USE - - - - - O - - - -
+           PROFANITY - - - - - S - - - -
+             CHANNEL - - - - - X O - - -
+              FAMILY - - - - - - X - - -

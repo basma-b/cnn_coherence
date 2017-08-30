@@ -1,0 +1,13 @@
+             COMMAND - S - - O - -
+              FIXMBR - X - S - - -
+                TIME - - O - - - -
+                BOOT - - - X - - -
+                  CD - - - X - - -
+             DEFAULT - - - - X - -
+              RESCUE - - - - X - -
+                 USE - - - - O - -
+                GRUB - - - - O - -
+              INSTAL - - - - - X -
+                 MBR - - - - - X -
+           PARTITION - - - - - X -
+            QUESTION - - - - - - X

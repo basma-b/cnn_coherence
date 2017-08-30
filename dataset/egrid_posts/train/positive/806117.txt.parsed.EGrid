@@ -1,0 +1,13 @@
+               THERE X - - - -
+                 WAY X - - - -
+                RULE O - - - -
+              SERVER - O - X -
+                  VM - O - X -
+                 NAT - X - - -
+             BRIDGED - X - - -
+               SETUP - S - - -
+               GUEST - O - O -
+                HOST - X - - -
+          VIRTUALBOX - X - - -
+                  RM - - - - X
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - - - S

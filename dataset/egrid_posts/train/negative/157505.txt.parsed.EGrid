@@ -1,0 +1,35 @@
+                FILE O - - - - X O - - -
+             COMMAND O - - - - S - - - -
+          PERMISSION - S S - - - - - - -
+              SCRIPT - S - - - O - - - -
+                 HMM - - X - - - - - - -
+               ERROR - - O - - - - - X -
+                LINE - - X O - - - - - -
+                SUDO - - - S - - - - - -
+            IPTABLES - - - O - - - - - -
+                 NAT - - - X - - X - - -
+                  -O - - - S - - - - - -
+          MASQUERADE - - - X - - X - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - - O - - - - - -
+           UNCOMMENT - - - X - - - - - -
+NET/IPV4/IP_FORWARD=1 - - - O - - - - - -
+    /ETC/SYSCTL.CONF - - - X - - - - - -
+/ETC/NETWORK/INTERFACES - - - X - - X - - -
+                TIME - - - - O - - - - -
+               SENSE - - - - O - - - - -
+             NETWORK - - - - X - - - - -
+                CARD - - - - S - - - - -
+            COMPUTER - - - - S - - - - -
+           INTERFACE - - - - O - - - - -
+            INTERNET - - - - X - - - - -
+                THAT - - - - - X - - - -
+                ROOT - - - - - X X - - -
+               OWNER - - - - - O - - - -
+                  -A - - - - - - O - - -
+      /SBIN/IPTABLES - - - - - - O - - -
+             SECTION - - - - - - X - - -
+                 URL - - - - - - - X - -
+            WEBSITES - - - - - - - X - -
+                CODE - - - - - - - X - -
+             MESSAGE - - - - - - - - X -
+             COOKIES - - - - - - - - - X

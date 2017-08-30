@@ -1,0 +1,14 @@
+        /DEV/NET/TUN X - X - -
+               GROUP X X X - -
+                USER X - S O -
+              CRW-RW - - O - -
+                ROOT - - S - -
+               17:50 - - S - -
+                 HMM - - O - -
+            SOLUTION - - S - -
+          PERMISSION - - O - -
+                RULE - - X - -
+              SYSTEM - - X - -
+              DEVICE - - O - -
+              REBOOT - - X - -
+                 CMD - - - - S

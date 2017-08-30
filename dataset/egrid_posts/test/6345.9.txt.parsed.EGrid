@@ -1,0 +1,15 @@
+              APACHE O - -
+             COMMAND X - -
+                SUDO X - -
+             APT-GET S - -
+             APACHE2 O - -
+               HTTPD - X -
+               START - X -
+             SERVICE - O -
+                BOTH - - S
+               SOUND - - X
+              EITHER - - X
+          SOUNDMIXER - - X
+              APPLET - - X
+              OUTPUT - - O
+                 ONE - - X

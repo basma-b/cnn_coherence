@@ -1,0 +1,14 @@
+               SOUND X - - - -
+                CARD X - - - -
+            /DEV/DSP - - S - -
+                 OSS - - X - -
+                ALSA - - X - -
+           EMULATION - - S - -
+            MODPROBE - - X - -
+         SND-PCM-OSS - - O - -
+              VIDEOS - - - O -
+                 NOT - - - - O
+                SOME - - - - S
+                 VLC - - - - X
+              FORMAT - - - - S
+               TOTEM - - - - O

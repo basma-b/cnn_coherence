@@ -1,0 +1,15 @@
+              SCRIPT X S X - - - - - -
+                ROOT X - - - - - - - -
+           PRIVILEGE X - - - - - - - -
+            PASSWORD O O - - - - - - -
+         COMBINATION - O - - - - - - -
+             MONITOR - S - - - - - - -
+        /ETC/SUDOERS - X - - - - - - -
+            NOPASSWD - X - - - - - - -
+         PERMISSIONS - - O - - - - - -
+                FILE - - X - - - - - -
+        INSTALLATION - - - - - S - - -
+              ERRORS - - - - - - X - -
+             PACKAGE - - - - - - - O -
+                NAME - - - - - - - X -
+                   * - - - - - - - - S

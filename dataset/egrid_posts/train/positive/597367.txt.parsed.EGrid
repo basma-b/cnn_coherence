@@ -1,0 +1,13 @@
+                GUID X - - - - -
+           PARTITION X X - - - -
+          /ETC/FSTAB - X - X - -
+               GUIDS - O - - - -
+               POINT - O - - - -
+              SYSTEM - O - O - X
+         INFORMATION - O - - - -
+               FSTAB - X - - - -
+                BOOT - - - X - -
+               DRIVE - - - X O X
+                THAT - - - - O -
+              DEVICE - - - - - X
+           /DEV/SDB2 - - - - - X

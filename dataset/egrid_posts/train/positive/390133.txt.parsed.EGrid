@@ -1,0 +1,16 @@
+             COMMAND O - - - - -
+                PORT X - - - - -
+                PICI O - - - - -
+                 GUI S - - - - -
+             DEFAULT O - - - - -
+             PROCESS O - - - - -
+          CHKROOTKIT S - - - - -
+                STEP O - - - - -
+                  .. - X - - - -
+                IRCD - S - - - -
+              GOOGLE - X - - - -
+            HOMEPAGE - X - - - -
+                 IRC - - X - - -
+              SERVER - - O - - -
+             SERVICE - - - X - -
+                 SSH - - - - - S

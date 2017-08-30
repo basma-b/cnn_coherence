@@ -1,0 +1,11 @@
+              ACCESS O - - - - -
+             MACHINE X - - - - -
+              SERVER X - - - X -
+             DISPLAY X - - - - -
+            VARIABLE S - - - - -
+                SSHD O X - O - -
+            SETTINGS O O - - - -
+              CLIENT - - - X - -
+                TIME - - - - - X
+       X11FORWARDING - - - - - S
+                 YES - - - - - X

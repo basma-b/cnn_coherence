@@ -1,0 +1,14 @@
+                LINE O - - - -
+                FILE X - O O -
+    /ETC/MODPROBE.D/ X - - - -
+                NAME X - - - -
+         PERMISSIONS S - - - -
+               ORDER - - X X -
+              A-ZA-Z - - X X -
+                 ETC - - X X -
+                OOPS - - - X -
+                TIME - - - - X
+                THIS - - - - S
+         NDISWRAPPER - - - - S
+              FEISTY - - - - X
+               ISSUE - - - - X

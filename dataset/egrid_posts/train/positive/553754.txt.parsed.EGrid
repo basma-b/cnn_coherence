@@ -1,0 +1,12 @@
+            QUESTION O - - -
+                ROOT X - - -
+                USER S - - -
+              UPDATE O - - -
+             MESSAGE X - - -
+             SUDOERS X - - -
+        /ETC/SUDOERS - O - -
+          PERMISSION - O - -
+                 CAT - - X -
+                NAME - - S -
+                SUDO - - - S
+                  -I - - - O

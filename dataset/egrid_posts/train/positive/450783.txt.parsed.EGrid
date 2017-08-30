@@ -1,0 +1,15 @@
+                TIME X - O - - - - -
+              ACCESS X - X - - - - -
+               BREAK - X - - - - - -
+           SOMETHING - X - - O - - -
+                FILE - - O - - - - -
+              CHANGE - - O - - - - -
+             NOATIME - - O - - - - -
+                  .. - - X - - - - -
+            RELATIME - - - S - - - -
+             DEFAULT - - - X - - - -
+          /ETC/FSTAB - - - X - - - -
+           PARTITION - - - X - - - -
+              ATIMES - - - - X - - -
+               ATIME - - - - - O - -
+                THAT - - - - - - - S

@@ -1,0 +1,7 @@
+                DEBS - O - - -
+              REBOOT - X - - -
+           AUTOCLEAN - - - X -
+   /VAR/APT/ARCHIVES - - - O -
+               TMPFS - - - X -
+          FILESYSTEM - - - X -
+/VAR/CACHE/APT/ARCHIVES - - - - O

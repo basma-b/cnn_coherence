@@ -1,0 +1,22 @@
+              ANYONE S - - -
+             NETWORK X - - -
+             MANAGER O - - -
+                8.10 X - - -
+                THIS O - - -
+                HTTP X - - -
+            T=964900 - X - -
+             NOTHING - X - -
+             COMMAND - O - -
+            TERMINAL - X - -
+               ERROR - O - -
+             MESSAGE - - O -
+                   * - - S S
+      NM-APPLET:8293 - - X X
+APPLET_DBUS_MANAGER_START_SERVICE - - O -
+NETWORKMANAGERUSERSETTINGS - - X -
+             SERVICE - - O -
+              RETURN - - - X
+      G_OBJECT_UNREF - - - S
+           ASSERTION - - - X
+         G_IS_OBJECT - - - S
+              OBJECT - - - X

@@ -1,0 +1,25 @@
+                 HMM - X - - - - - - - - - - - -
+                 USE - - - X - - - - - - - - - -
+                CASE - - - X - - - - - - - - - -
+               THING - - - O - - - - - - - - - -
+             DESKTOP - - - X - - - - - - - - - -
+             DEFAULT - - - X - - - - - - - - - -
+LINUX-RESTRICTED-MODULES - - - - X - - - - - - - - -
+          SEELEYUSMC - - - - - S - - - - - - - -
+             ATHEROS - - - - - X - - - - - - - -
+                BASE - - - - - X - - - - - - - -
+            MINI-PCI - - - - - X - - - - - - - -
+                CARD - - - - - O - - - - - - - -
+             ATH_PCI - - - - - - S - - - - - - -
+             NETWORK - - - - - - X - - - - - - -
+           INTERFACE - - - - - - O - - X - - - -
+                THAT - - - - - - - S - - - - - -
+            IFCONFIG - - - - - - - - - S - - - -
+               CHECK - - - - - - - - - - X - - -
+               DMESG - - - - - - - - - - X - - -
+             NOTHING - - - - - - - - - - O - - -
+              OUTPUT - - - - - - - - - - X - - -
+                LOAD - - - - - - - - - - - X - -
+                FINE - - - - - - - - - - - X - -
+                  .. - - - - - - - - - - - O - -
+        /ETC/MODULES - - - - - - - - - - - - - X

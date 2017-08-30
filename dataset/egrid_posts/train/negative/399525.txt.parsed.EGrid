@@ -1,0 +1,13 @@
+                HTTP - X X X
+             VERSION - O - -
+                JAVA - X - -
+                SUDO - - X -
+                 UFW - - S -
+/ETC/UFW/BEFORE.RULES - - O -
+                LINE - - X -
+               START - - O -
+  UFW-BEFORE-FORWARD - - X -
+             PATTERN - - X -
+                LINK - - X -
+                COPY - - O -
+//WWW.HACKORAMA.COM/NETWORK/PORTFWD.SHTML - - - X

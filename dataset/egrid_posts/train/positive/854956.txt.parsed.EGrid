@@ -1,0 +1,12 @@
+            CONFLICT X X - - -
+              ACCORD - X - - -
+                LIST - X - - -
+            SYNAPTIC - X - - -
+          LIBBLAS3GF - S O - -
+               1.2-5 - O - - -
+             VERSION - X - - -
+             LIBBLAS - - X - -
+               STATE - - O - -
+               ATLAS - - - O -
+             PACKAGE - - - X X
+                THAT - - - - O

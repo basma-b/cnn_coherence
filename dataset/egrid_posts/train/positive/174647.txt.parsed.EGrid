@@ -1,0 +1,10 @@
+             COMMAND X - - - -
+              SOURCE X O - - -
+             HEADERS X - S - -
+              KERNEL X X - - -
+               THERE - S - - -
+             KERNELS - X - - -
+              2.5.15 - X - - -
+                SUDO - - X - -
+             APT-GET - - S - -
+                  -R - - O - -

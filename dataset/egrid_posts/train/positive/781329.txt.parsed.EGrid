@@ -1,0 +1,15 @@
+               10.04 X - - -
+   /VAR/LOG/MESSAGES X - - -
+               ERROR X - - -
+          AUTOLAUNCH X - - -
+      INITIALIZATION X - - -
+ /VAR/LOG/XORG.0.LOG - X - -
+              ERRORS - O - -
+                 ONE - S - -
+           DIRECTORY - S O -
+               GNOME - - O -
+                DONT - - X -
+             SESSION - - O -
+                WARN - - - X
+                 GDM - - - S
+                XORG - - - S

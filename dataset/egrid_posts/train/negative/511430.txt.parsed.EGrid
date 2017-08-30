@@ -1,0 +1,18 @@
+                BENS S - -
+/PROC/SYS/VM/DIRTY_WRITEBACK_CENTISECS S - -
+                BASH S - -
+          PERMISSION S - -
+                THIS O - -
+                THAT - O -
+                NEED - S -
+                ROOT - X -
+         PERMISSIONS - O -
+                   > - - S
+                  OK - - S
+             CONSOLE - - O
+               PRINT - - X
+              SCREEN - - X
+              OUTPUT - - X
+                CARD - - X
+              UPLOAD - - X
+                  RW - - X

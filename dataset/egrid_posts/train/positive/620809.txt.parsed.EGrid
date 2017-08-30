@@ -1,0 +1,23 @@
+              SCRIPT X - X S - - -
+               PLACE S - - - - - -
+       /ETC/RC.LOCAL X - - - - - -
+                WORK O X - - - - -
+                BOOT X - X - - - -
+               SHELL X - - - - - -
+             ACCOUNT - X - - - - -
+           VARIABLES - X - - - - -
+           DIRECTORY - - X X - - -
+                 ETC - - S - - - -
+                KIND - - S - - - -
+                USER - - X X - - -
+          INDEPENDED - - X - - - -
+              ACCESS - - O - - - -
+                 KEY - - X O - - -
+                PERM - - - S - - -
+/HOME/USER/.SSH/ID_RSA - - - O - - -
+                ROOT - - - X - - -
+                 LOG - - - - - X -
+            RC.LOCAL - - - - - X -
+                CANT - - - - - - X
+       /VAR/LOG/BOOT - - - - - - X
+             MESSAGE - - - - - - X

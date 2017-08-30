@@ -1,0 +1,15 @@
+              UBUNTU X - - - - -
+                STOP X - - - - -
+              SCRIPT X - - - - -
+                 RUN O - - - - -
+/LIB/UDEV/WRITE_NET_RULES X - - - - -
+              ANYONE S S - - - -
+                UDEV - X - - - -
+                FILE - - S - - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - O - - -
+                 LIB - - X - - -
+             COMMENT - - O - - -
+                LINE - - S - - -
+                THIS - - - O - -
+                WHAT - - - X - -
+                THAT - - - - - X

@@ -1,0 +1,13 @@
+             PROCESS S - - - -
+                SUDO - - X - -
+               FUSER - - S - -
+                THIS - - - X -
+            ANYTHING - - - X -
+                THAT - - - - S
+                  PS - - - - S
+                DCOP - - - - X
+                  OK - - - - O
+              OUTPUT - - - - S
+             COMMAND - - - - X
+                TYPE - - - - O
+             NOTHING - - - - O

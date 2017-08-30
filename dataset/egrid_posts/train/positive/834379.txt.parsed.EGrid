@@ -1,0 +1,17 @@
+          INTERFACES X - -
+               AFAIK X - -
+           INTERFACE O - -
+               SHARE X - -
+             GATEWAY X - -
+             NETMASK X - -
+                AUTO X - -
+                ETH0 O - -
+                   N X - -
+            NOTATION X - -
+               BLOCK - O -
+                 IPS - X X
+                LINE - X -
+ETC/NETWORK/INTERFACES - X -
+                 ALL - - S
+             MACHINE - - X
+                 NIC - - X

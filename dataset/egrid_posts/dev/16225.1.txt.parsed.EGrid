@@ -1,0 +1,14 @@
+            PROBLEMS O - - - - - - -
+                ALSA - X - - O - - S
+                CARD - X - - - - - -
+                SINK - X - - - - - -
+                THAT - - X - - - - -
+              CHANGE - - O - - - - -
+         ASOUND.CONF - - X - - - - -
+               PULSE - - - X X - - S
+               AUDIO - - - X O - - -
+                BOTH - - - - - X - X
+             MANAGER - - - - - - - X
+                  .. - - - - - - - O
+               LAYER - - - - - - - O
+                 TOP - - - - - - - X

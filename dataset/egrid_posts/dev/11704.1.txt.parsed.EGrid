@@ -1,0 +1,14 @@
+              ANYONE X - - - - -
+          AUTOMOUNTS X - - - - -
+               FSTAB - X X - - -
+                SUDO - - X - - -
+               BLKID - - S - - -
+                UUID - - S - - -
+               STICK - - X - - S
+            EVERYONE - - X - - -
+               ISSUE - - - S - -
+                CONF - - - - - O
+             DEVICES - - - - - S
+                USER - - - - - X
+                 MPD - - - - - X
+               EARTH - - - - - X

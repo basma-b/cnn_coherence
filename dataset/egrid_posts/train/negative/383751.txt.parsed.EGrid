@@ -1,0 +1,14 @@
+          PERMISSION S - - - - - - -
+                FILE O - - - - - - -
+                DISK X - - - - - - -
+               DRIVE X - - - - - - -
+              VMWARE X - - - - - - -
+              SERVER X - - X - - - -
+                  .. X - X - - - - -
+              ANYONE - S - - - - - -
+                THIS - O - - - - - -
+                SUDO - - O - - - - -
+                   U - - - X - - - -
+                SELF - - - X - - - -
+               GROUP - - - X - - - -
+                THAT - - - - - X - -

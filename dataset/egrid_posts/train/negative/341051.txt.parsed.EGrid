@@ -1,0 +1,45 @@
+                REPO X - X - - X - - -
+              DEBIAN X - - - - - X - -
+                 SID X - - X - - - - -
+            QUESTION - S - - - - - - -
+              DISTRO - O - - - - - O -
+              UBUNTU - - O - - - X - -
+             VERSION - - O - X - - - -
+               1.2.6 - - X - - - - - -
+                 DEB - - - X - - - - -
+                HTTP - - - O - O - X -
+                MAIN - - - X - - - - -
+/ETC/APT/SOURCE.LIST - - - X - - - - -
+/ETC/APT/PREFERENCES - - - X - - - - -
+                THAT - - - - S - - X -
+                 USE - - - - O - - - -
+              UPDATE - - - - X - - - -
+               ERROR - - - - O - - - -
+                   E - - - - X - - - -
+             DYNAMIC - - - - X - - - -
+                MMAP - - - - X - - - -
+                ROOM - - - - X - - O -
+             PROBLEM - - - - X - - - -
+           MERGELIST - - - - X - - - -
+/VAR/LIB/APT/LISTS/FTP.AU.DEBIAN.ORG - - - - X - - - -
+               REPOS - - - - X - - - -
+              DESIGN - - - - X - - - -
+              SOURCE - - - - X - - - -
+                PART - - - - O - - - -
+                 MIX - - - - - X - - -
+                IDEA - - - - - S - - X
+             WEBSITE - - - - - X - - -
+//WWW.WESNOTH.ORG/WIKI/WESNOTHBINARIESLINUX - - - - - X - - -
+                PAGE - - - - - - S - -
+             PACKAGE - - - - - - O - -
+        DEPENDENCIES - - - - - - S - -
+                DPKG - - - - - - O - -
+         ENVIRONMENT - - - - - - O - -
+            OFFICIAL - - - - - - - S -
+               BREAK - - - - - - - X -
+        INSTRUCTIONS - - - - - - - O -
+              SYSTEM - - - - - - - O -
+         COMPILING_2 - - - - - - - X -
+                  .. - - - - - - - X -
+               GUIDE - - - - - - - O -
+                   / - - - - - - - - X

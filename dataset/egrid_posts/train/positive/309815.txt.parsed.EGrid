@@ -1,0 +1,10 @@
+                 PCI X - - - - - - -
+              BUSSES X - - - - - - -
+                BUSS - - X - - - - -
+               PLACE - - X - - - - -
+            HARDWARE - - - X - - - -
+   PCI=ASSIGN-BUSSES - - - - X - - -
+                   | - - - - - S - -
+                RATE - - - - - X - -
+               THING - - - - - X - -
+               DMESG - - - - - - - S

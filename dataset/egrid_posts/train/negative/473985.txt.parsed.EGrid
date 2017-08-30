@@ -1,0 +1,20 @@
+       CONFIGURATION S - - - - -
+               ERROR - O - - - -
+                BOOT - X - - - -
+                 USE - - X - - -
+             COMMAND - - X - - -
+                LINE - - O - - -
+            TERMINAL - - X - - -
+/HOME/MAEVA/.KDE4/SHARE/CONFIG/KLIPPERRC - - - X X -
+                FILE - - - - X -
+                  LS - - - - O -
+               MOUSE - - - - X -
+               CLICK - - - - X -
+                  OK - - - - X -
+           DIRECTORY - - - - S -
+                ROOT - - - - X -
+/HOME/CEDRIC/.KDE4/SHARE/CONFIG/KLIPPERRC - - - - X -
+             NETWORK - - - - - X
+            SETTINGS - - - - - X
+                DHCP - - - - - S
+             ADDRESS - - - - - O

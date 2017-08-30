@@ -1,0 +1,16 @@
+           LIBRARIES X S - - - -
+                 G++ X - - - - -
+                ONES - O - X - -
+             APT-GET - - - O S -
+            STANDARD - - - O - -
+                ZLIB - - - X - -
+              PNGLIB - - - X - -
+                  'S - - - S - -
+              SOURCE - - - X - -
+           DIRECTIVE - - - O - -
+             COMMAND - - - - O -
+ /USR/INCLUDE/ZLIB.H - - - - S -
+                HOLD - - - - O -
+             PACKAGE - - - - X -
+                 TRY - - - - S -
+             DEFAULT - - - - - X

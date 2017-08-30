@@ -1,0 +1,22 @@
+                  -R X - - - O - - - -
+              SOURCE - X - - - S - - -
+        2.6.12-8-386 - - S - - - - - -
+ LINUX-SOURCE-2.6.12 - - X - - - - - -
+               MATCH - - O - - - - - -
+             MODULES - - O - - - - - -
+LINUX-HEADERS-2.6.12-8-386 - - O - - - - - -
+              DRIVER - - - X - - - - X
+                 YEP - - - O - - - - -
+                SUDO - - - - X X - - -
+            APTITUDE - - - - S - - - -
+          EVERYTHING - - - - S - - - -
+                 THE - - - - - S - - -
+                THIS - - - - - O - - -
+    MODULE-ASSISTANT - - - - - X X - -
+        REPOSITORIES - - - - - X - - -
+       UNIVERSE/MISC - - - - - - - X -
+            MAKEFILE - - - - - - - - S
+                KSRC - - - - - - - - X
+                KVER - - - - - - - - X
+              /BUILD - - - - - - - - X
+            /.CONFIG - - - - - - - - X

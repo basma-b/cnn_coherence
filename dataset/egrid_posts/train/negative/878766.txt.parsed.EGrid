@@ -1,0 +1,15 @@
+      AUTHENTICATION O - - - -
+            OPENLDAP X - - - -
+                 WAY X - - - -
+               SQUID O - - - -
+               GROUP X - - - -
+                USER S - - - -
+           CONDITION O - - - -
+                HTTP - X - - -
+//WWW.OPENLDAP.ORG/DOC/ADMIN24/ACCESS-CONTROL.HTML - X - - -
+             SUBNETS - - X - -
+              DESIRE - - - X -
+                HOST - - - O -
+          /ETC/HOSTS - - - X -
+              ROUTER - - - X -
+               THANK - - - - X

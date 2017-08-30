@@ -1,0 +1,13 @@
+           INTERFACE X - - -
+                 USE X - - -
+            IFCONFIG X - - -
+            DHCLIENT S - - -
+             ADDRESS X - - -
+                THIS X - - -
+                THAT - O S -
+          /ETC/FSTAB - X - -
+                LINE - S - -
+                AUTO - X - -
+/ETC/NETWORK/INTERFACES - X - -
+        CHECKINSTALL - - - O
+               BUILD - - - O

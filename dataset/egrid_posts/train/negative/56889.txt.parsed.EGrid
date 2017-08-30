@@ -1,0 +1,17 @@
+              MODULE O - - - - - -
+               IMAGE X X - X - - -
+               FGLRX - X - - - - -
+               ERROR - X - - - - -
+              INSERT - X - - - - -
+/LIB/MODULES/2.6.10-5-686/KERNEL/DRIVERS/VIDEO/FGLRX.KO - X - - - - -
+              DEVICE - X - - - - -
+               -RW-R - X - - - - -
+                   R - X - - - - -
+                ROOT - S - - - - -
+              ANYONE - S S - - - -
+              DRIVER - O - - - - -
+                WORK - - O - - - -
+                XORG - - - - - O -
+             PACKAGE - - - - - X -
+               THATS - - - - - X -
+                 TRY - - - - - - X

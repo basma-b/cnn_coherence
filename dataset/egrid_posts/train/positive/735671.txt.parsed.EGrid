@@ -1,0 +1,22 @@
+                 GUY X - - - - -
+         PERMISSIONS S - - - - X
+            QUESTION X - - - - -
+/USR/LOCAL/BIN/MYFOLDER/MYPROGAM.PID O - - - - -
+                USER X - - - X -
+              MYUSER O - - - O -
+                NEED O - - - - -
+               ORDER S - - - - -
+                FILE O - - - - -
+            MYFOLDER X - - - - -
+              FOLDER - X - - - -
+              ACCESS - X - - - -
+                PATH - X - - - -
+                 ETC - O - - - -
+               GROUP - - - - X X
+                CALL - - - - X -
+             MYGROUP - - - - O X
+                 WAY - - - - - O
+               CHMOD - - - - - X
+                  -R - - - - - X
+ /USR/LOCAL/MYFOLDER - - - - - O
+                WORK - - - - - O

@@ -1,0 +1,19 @@
+              SYSTEM - O - -
+                   > - X - -
+      ADMINISTRATION - X - -
+             DEVICES - X - -
+             MANAGER - X - -
+               ERROR - O - -
+             PACKAGE - X S -
+LINUX-RESTRICTED-MODULES-2.6.21.1.EMP3 - O - -
+                SUDO - X - -
+             APT-GET - S - -
+                  .. - O - X
+               THING - - X -
+                TYPE - - X -
+              KITTEN - - S -
+               REPOS - - X -
+          ADD/REMOVE - - - X
+             PROGRAM - - - O
+        APPLICATIONS - - - X
+        REPOSITORIES - - - O

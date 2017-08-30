@@ -1,0 +1,9 @@
+             .CONFIG X - - -
+                FILE X - - -
+                 USE X - - -
+              KERNEL X - - -
+             PACKAGE O X - -
+               /BOOT - X - -
+      SOURCE/HEADERS - X - -
+              EFFECT - - X -
+                   O - - - X

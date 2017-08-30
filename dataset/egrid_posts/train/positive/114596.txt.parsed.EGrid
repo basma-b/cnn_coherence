@@ -1,0 +1,9 @@
+                SUDO S - -
+     BUILD-ESSENTIAL - S -
+         COLLECTIONS - O -
+                TOOL - X -
+                   * - O -
+              SOURCE - X -
+                 GCC - - X
+                INC. - - X
+                 ALL - - X

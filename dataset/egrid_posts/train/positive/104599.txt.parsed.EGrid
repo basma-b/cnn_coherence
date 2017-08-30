@@ -1,0 +1,31 @@
+           WIFI-WIKI - O - - - - - - - - -
+             ADAPTER - S - - - - - - - - -
+            IWCONFIG - X - - - - - - - - -
+                  .. - X - - - - - O O - -
+         NDISWRAPPER - O - X X - X - - - -
+            MODPROBE - - - - X - X - - - -
+               ERROR - - - - X - - - X - -
+              INSERT - - - - X - - - - - -
+            ARGUMENT - - - - X - - - - - -
+                 YEP - - - - - X - - - - -
+                SHOW - - - - - - O - - - -
+       ROOT-TERMINAL - - - - - - X - - - -
+                WHAT - - - - - - S - - - -
+                   | - - - - - - O - - - -
+                  KO - - - - - - X - - - -
+/LIB/MODULES/2.6.10-5-386/KERNEL/DRIVERS/NET/NDISWRAPPER/NDISWRAPPER.KO - - - - - - - S - S -
+              INSMOD - - - - - - - X - X X
+       /LIB/MODULES/ - - - - - - - X - - -
+/KERNEL/DRIVERS/NET/NDISWRAPPER/NDISWRAPPER.KO - - - - - - - X - - -
+                 HMM - - - - - - - X - - -
+             MESSAGE - - - - - - - - O - -
+                SUDO - - - - - - - - - X X
+                HMMM - - - - - - - - - S -
+               ENTER - - - - - - - - - O -
+                  CD - - - - - - - - - X X
+      NDISWRAPPER.KO - - - - - - - - - X X
+                BASH - - - - - - - - - X -
+           DIRECTORY - - - - - - - - - O -
+                ERRR - - - - - - - - - - X
+                   P - - - - - - - - - - X
+/LIB/MODULES/2.6.10-5-386/KERNEL/DRIVERS/NET/NDISWRAPPER - - - - - - - - - - X

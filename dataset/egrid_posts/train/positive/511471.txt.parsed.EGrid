@@ -1,0 +1,27 @@
+             TROUBLE X - - - - - - - - - - - - -
+             LINKSYS X - - - - - - - - - - - - -
+                   V S - - - - - - - X - - - - -
+             CHIPSET X - - - - - - - X - - - - -
+                  .. - S - - - - - X - - - - - -
+             NOTHING - X - - - - - - - - - - - -
+             NETWORK - X - - - - - - - - - - - -
+             MANAGER - X - - - - - - - - - - - -
+               DMESG - - - X - - X - - - - - - -
+               LSPCI - - - - X - X - - - - - - -
+               LSMOD - - - - - X X - - - - - - -
+              DRIVER - - - - - - O - - - - - - -
+                 USE - - - - - - O - - - - - - -
+               GUIDE - - - - - - X - - - - - - -
+               HTTPS - - - - - - - X - - - - - -
+//WIKI.UBUNTU.COM/WIFIDOCS/DEVICE/LINKSYSWUSB11 - - - - - - - X - - - - - -
+                PAGE - - - - - - - O - - - - - -
+                 ONE - - - - - - - - S - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/WIFIDOCS/DRIVER/NDISWRAPPER - - - - - - - - S - - - - -
+             MENTION - - - - - - - - O - - - - -
+             ADAPTER - - - - - - - - X - - - - -
+            MODPROBE - - - - - - - - - X - - - -
+                  -V - - - - - - - - - S - - - -
+              FOLLOW - - - - - - - - - - - - O -
+              INSMOD - - - - - - - - - - - - X -
+/LIB/MODULES/2.6.27-8-GENERIC/KERNEL/DRIVERS/NET/WIRELESS/ATMEL.KO - - - - - - - - - - - - X -
+            IWCONFIG - - - - - - - - - - - - - X

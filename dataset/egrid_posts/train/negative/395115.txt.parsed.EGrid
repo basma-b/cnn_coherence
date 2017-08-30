@@ -1,0 +1,27 @@
+                DISK X - - X - - -
+/DEV/MAPPER/NVIDIA_BBGHCACA X - X X - - -
+                 USE - - X O - - -
+                ROOT - - X - - - -
+                 OUT - - S - - - -
+                RAID - - X S - - -
+               ARRAY - - X S - - -
+           PARTITION - - O - - - -
+                 WAY - - X - - - -
+                   * - - - X - - -
+             WINDOWS - - - X - - -
+             PARTION - - - X - - -
+                NTFS - - - S - - -
+              ACCESS - - - X - - -
+                FILE - - - X S - -
+                 DEV - - - X - - -
+                CASE - - - X - - -
+              THROUG - - - O - - -
+               CHECK - - - S - - -
+                  .. - - - O - - -
+            TERMINAL - - - X - - -
+               QUOTE - - - X - - -
+             NTFS-3G - - - - - X -
+                TIME - - - - - - X
+                  PC - - - - - - S
+               DMESG - - - - - - X
+             XSERVER - - - - - - S

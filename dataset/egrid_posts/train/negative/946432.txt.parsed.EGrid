@@ -1,0 +1,14 @@
+            PARITION O - - - - - - - -
+          PERMISSION - S - - - - - - -
+              ERRORS - O - - - - - - -
+                  CD - X - - - - - - -
+              ACCESS - X - - - - - - -
+               POINT - X - - - - - - -
+                TYPE - - X - - - - - -
+           PARTITION - - X - - - S - -
+                NTFS - - - O - - - - -
+               UMASK - - - - - O - - -
+             OPTIONS - - - - - O - - -
+             WINDOWS - - - - - - X - -
+                BOOT - - - - - - X - -
+              CODECS - - - - - - - - X

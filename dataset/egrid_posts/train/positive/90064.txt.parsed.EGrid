@@ -1,0 +1,17 @@
+               ENTRY X X - - - - - -
+             DETAILS X O - - - - - -
+               CHILD X X - - - - - -
+             PROCESS O O - - - - - -
+            TERMINAL O X - - - - - -
+                  NO X X - - - - - -
+                FILE X X - - - - - -
+           DIRECTORY X X - - - - - -
+//WWW.OS-CILLATION.COM/INDEX.PHP X - - - - - - -
+               ID=42 - X - - - - - -
+                 L=5 - X - - - - - -
+               RAISE - X - - - - - -
+               ERROR - X - - - - O -
+               CLICK - - - - - - X -
+             TERMIAL - - - - - - O -
+               UBOTU - - - - - - - S
+                 MSG - - - - - - - X

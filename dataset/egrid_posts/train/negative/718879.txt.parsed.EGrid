@@ -1,0 +1,10 @@
+             DEFAULT X - -
+            RUNLEVEL O - -
+                TEXT - O -
+                 NOW - X -
+                 MD1 - - S
+              RAID10 - - X
+           /DEV/SDC1 - - X
+           /DEV/SDD1 - - O
+           /DEV/SDB1 - - X
+            ANYTHING - - X

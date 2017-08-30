@@ -1,0 +1,24 @@
+            IWCONFIG O - - - X -
+            WIRELESS X - - - - -
+                 USE X - - - - -
+         NDISWRAPPER X X X X - -
+                LOAD - X X - - -
+                   U - - X X - X
+            MODPROBE - - X - - -
+               LOADS - - - X - -
+              DRIVER - - - X - -
+              INSTAL - - - X - -
+              DEVICE - - - S - -
+              14E:53 - - - X - -
+             BCM43XX - - - X - -
+                 SET - - - X - -
+               ALIAS - - - O S -
+                HTTP - - - - O -
+//WWW.LINUXSCREW.COM/2007/09/19/GET-WI-FI-WORKING-ON-DELL-INSPIRON-1501-WITH-UBUNTU/ - - - - S -
+                STEP - - - - O -
+                 SEC - - - - X -
+//PASTE.UBUNTU-NL.ORG/42134/ - - - - X -
+             NETWORK - - - - - X
+              MANGER - - - - - X
+              APPLET - - - - - X
+                DOCK - - - - - X

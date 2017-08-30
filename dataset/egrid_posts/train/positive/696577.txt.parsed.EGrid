@@ -1,0 +1,13 @@
+              FOLDER X X - - - -
+                NTFS X X - - - -
+           PARTITION X X - - - -
+               OWNER S S - - - -
+                ROOT O O - - - -
+           /DEV/SDA1 - - S - - -
+                AUTO - - X - - -
+                  RW - - O - - -
+                USER - - X - - -
+          /ETC/FSTAB - - X - - -
+               ENTRY - - X - - -
+              ADVICE - - - X - -
+             DEFAULT - - - - O -

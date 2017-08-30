@@ -1,0 +1,15 @@
+            QUESTION X - - - - - - - - -
+               CDROM - X - - - - - - - -
+               DRIVE - S - - - - - - - -
+               FSTAB - X - - - - - - - -
+              DEVICE - X - - - - - - - -
+                 HDA - - O - - - - - - -
+                 HDD - - X - - - - - - -
+                NONE - - X - - - - - - -
+                  EM - - X - - - - - - -
+                WORK - - X - - - - - - -
+          /DEV/CDROM - - - X - - - - - -
+         /DEV/CDROM0 - - - - X - - - - -
+              DOESNT - - - - - - - S - -
+                 IRC - - - - - - - - - X
+             PROGRAM - - - - - - - - - O

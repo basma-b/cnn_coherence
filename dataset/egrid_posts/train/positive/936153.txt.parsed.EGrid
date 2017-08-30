@@ -1,0 +1,19 @@
+             HOTPLUG S -
+                CRAP X -
+                BOOT X -
+                FILE O X
+/ETC/HOTPLUG/BLACKLIST.D X -
+             MODULES O -
+               THERE S -
+                 ONE X -
+                LINE X -
+ /ETC/INIT.D/HOTPLUG X -
+             MESSAGE S -
+           ALREADGOT - S
+           BLACKLIST - X
+/ETC/HOTPLUG/BLACKLIST - X
+         BLACKLIST.D - S
+           DIRECTORY - O
+           YESTERDAY - X
+             MORNING - O
+                   * - O

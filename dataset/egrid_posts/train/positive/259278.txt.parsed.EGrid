@@ -1,0 +1,15 @@
+                TIME O - - - - - -
+          CONNECTION X - - - - - -
+            RP-PPPOE S - - - - - -
+         PPPOE-START S - - - - - -
+               MODEM S - - - - - -
+                ROUT O - - - - - -
+                 ISP X - - - - - -
+                NEED - X - - - - -
+               PPPOE - O - - - - -
+             GATEWAY - - X - - - -
+                  IP - - X - - - -
+        MODEM/ROUTER - - X - - - -
+               ROUTE - - - - - - S
+             DEFAULT - - - - - - X
+                  GW - - - - - - O

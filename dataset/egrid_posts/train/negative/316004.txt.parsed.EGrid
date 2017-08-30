@@ -1,0 +1,10 @@
+                BOOT X - -
+              SCRIPT S - -
+              GKSUDO X - -
+      /ETC/INIT.D/RC S - -
+    CONCURRENCY=NONE O - -
+   CONCURRENCY=SHELL X - -
+               THERE - - S
+        INSTRUCTIONS - - O
+             MANAGER - - O
+                PAGE - - X

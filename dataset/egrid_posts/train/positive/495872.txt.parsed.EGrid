@@ -1,0 +1,12 @@
+           DIRECTORY X X - -
+              ACCESS X - - -
+                USER X - - -
+             NETWORK X - X -
+               SHARE - X - -
+               USERS - X - -
+                DONT - S - -
+            PASSWORD - O - -
+               SAMBA - - X X
+                 NFS - - X -
+                 PCS - - X -
+                  OS - - X -

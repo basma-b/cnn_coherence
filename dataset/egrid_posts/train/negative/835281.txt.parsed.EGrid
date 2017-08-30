@@ -1,0 +1,43 @@
+             PACKAGE S X X - - - - - - - X - - - -
+                READ - S - - - - - - - - - - - - -
+              SOURCE - X - - - - - - - - - - - - -
+                FILE - - O - - - X - - - - - - - -
+ /VAR/LIB/DPKG/INFO/ - - X - - - - - - - - - - - -
+          SUBVERSION - - - X - - - - - - - - - - -
+             OPTIONS - - - X - - - - - - - - - - -
+                RUBY - - - X - - - X - X - - - - -
+                BIND - - - S - S - - - - - - - - -
+             SITEDIR - - - X - - - - X - - - - - -
+      LIBSVN-RUBY1.8 - - - - O - - - - - - - - - -
+               CHECK - - - - X - - - - - - - - - -
+/USR/LOCAL/LIB/SITE_RUBY - - - - X - - - - - - - - - -
+             NOTHING - - - - S - - - - - - - - - -
+              REPORT - - - - - X - - - - - - - - -
+/USR/LIB/RUBY/1.8/SVN - - - - - X - - - - - - - - -
+                LAND - - - - - O - - - - - - - - -
+                 APT - - - - - - S - - - - - - - -
+              THANKS - - - - - - O - - - - - - - -
+  /VAR/LIB/DPKG/INFO - - - - - - X - - - - - - - -
+                THIS - - - - - - X - - - - - - - -
+                 DEB - - - - - - S - X - - - - - -
+                LIST - - - - - - O - - - - - - - -
+DPKG/INFO/PKGNAME/LIST - - - - - - X - - - - - - - -
+          FILESYSTEM - - - - - - X - - - - - - - -
+            POSTINST - - - - - - X - - - - - - - -
+               THERE - - - - - - - - S - - - - - -
+               GUESS - - - - - - - - S - - - - - -
+               PATHS - - - - - - - - O - - - - - -
+                HOOK - - - - - - - - X - - - - - -
+              SYSTEM - - - - - - - - S - - - - - -
+                   % - - - - - - - - X - - - - - -
+           CONFIGURE - - - - - - - - - S - - - - -
+                SITE - - - - - - - - - X - - - - -
+           LIBRARIES - - - - - - - - - X - - - - -
+RUBY_LIB_PREFIX/SITE_RUBY - - - - - - - - - X - - - - -
+               -RSB- - - - - - - - - - X - - - - -
+             CHANNEL - - - - - - - - - O - - - - -
+               ISSUE - - - - - - - - - - O - - - -
+            COMPUTER - - - - - - - - - - - X - - -
+                THAT - - - - - - - - - - - - O - -
+                WORK - - - - - - - - - - - - O - -
+                WINE - - - - - - - - - - - - X - -

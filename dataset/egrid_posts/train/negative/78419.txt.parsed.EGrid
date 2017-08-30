@@ -1,0 +1,9 @@
+               MKDIR X - -
+        /IMAGE/USER/ X - -
+              /IMAGE - S -
+                  -P - S -
+         /IMAGE/USER - X -
+                DIRS - X -
+             SUBDIRS - O -
+                ONCE - X -
+            QUESTION - - O

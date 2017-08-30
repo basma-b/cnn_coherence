@@ -1,0 +1,18 @@
+             TECHNEL S - - - - -
+            /DEV/HDA O - - - O -
+             COMMAND O - - - O -
+               DRIVE - X - - - -
+           PARTITION - O X - - -
+          DIFFERENCE - X - - - -
+INSTALL-PARTITION=PAR - - X - - -
+                 MAN - - X - - -
+                GRUB - - X - - -
+           PARAMETER - - - X - -
+   INSTALL-PARTITION - - - X - -
+                FLAG - - - - O -
+               MKDIR - - - - S -
+           DIRECTORY - - - - X -
+          /BOOT/GRUB - - - - O -
+          PERMISSION - - - - S -
+            HARDWARE - - - - - X
+             DRIVERS - - - - - X

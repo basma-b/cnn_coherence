@@ -1,0 +1,11 @@
+             UFSTYPE - X - - - -
+        FREEBSD-DISK - X - - - -
+                AUTO - - S S - -
+                  -T - - - X - -
+          FILESYSTEM - - - O - -
+                 UFS - - - O - -
+                  .. - - - X - -
+               WRONG - - - S - -
+               DRIVE - - - O - -
+                DISK - - - S - -
+            SOLUTION - - - - - X

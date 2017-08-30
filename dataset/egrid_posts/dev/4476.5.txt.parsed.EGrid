@@ -1,0 +1,15 @@
+              FORMAT X O - -
+               FLASH X - - -
+               DRIVE O - - -
+               FAT32 - S - -
+                NTFS - X - -
+             WINDOWS - S - -
+                 4GB - X - -
+          DIFFERENCE - O - -
+              UBUNTU - X - -
+            PACKAGE- - - - X
+                   > - - - X
+               FORCE - - - X
+             VERSION - - - S
+                 INS - - - S
+        REPOSITORIES - - - X

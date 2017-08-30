@@ -1,0 +1,16 @@
+              SCRIPT S S - - - - -
+             STARTUP X - - - - - -
+             DAEMONS S - - - - - -
+               START X - - - - - -
+       /ETC/RC.LOCAL - X - - - - -
+                 END - X X - - - -
+            RUNLEVEL - X X - - X -
+                TIME - - - X - - -
+                THAT - - - X - - -
+           SOMETHING - - - X - - -
+                  .. - - - - - X -
+                USER - - - - - X -
+                   S - - - - - X -
+             CONCEPT - - - - - X -
+                 USE - - - - - - X
+             UPSTART - - - - - - O

@@ -1,0 +1,17 @@
+              SERVER O - - - -
+                 VPS X - - - -
+             RESTART - X X - -
+             APACHE2 - X - - -
+                FINE - X - - -
+                  -K - S S - -
+               ERROR - X - - -
+             MESSAGE - O - - -
+                USER - X - - -
+                NAME - O - - -
+     APACHE_RUN_USER - X - - -
+                SUDO - X - - -
+ /ETC/INIT.D/APACHE2 - S - - -
+           SOMETHING - O - - -
+                 WAY - O O - -
+              APACHE - X - - -
+              SCRIPT - - - - O

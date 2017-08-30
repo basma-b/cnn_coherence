@@ -1,0 +1,9 @@
+                 HDD X - - - - -
+                GRUB - X - - - -
+                 HDA - X - - - -
+                 MBR - X - - - -
+        /DEV/HDA/MBR - - X - - -
+                BOOT - - X - - -
+              LIVECD - - X - - -
+              CHROOT - - O - - -
+              IDIOMA - - O - - -

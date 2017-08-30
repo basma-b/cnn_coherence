@@ -1,0 +1,9 @@
+          NAMED-XFER - O - - -
+                SUDO - X - - -
+             APT-GET - S - - -
+       /PATH/TO/FILE - - - S -
+               TOUCH - - - O -
+                FILE - - - X -
+                 JOB - - - O -
+                HTTP - - - X -
+            T=867030 - - - - X

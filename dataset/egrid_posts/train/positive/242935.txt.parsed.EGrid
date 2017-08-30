@@ -1,0 +1,23 @@
+             PROBLEM O - - - - - - - - - -
+               SETUP - X - - - - - - - - -
+            INTERNET - X - - - - - - - - -
+          CONNECTION - O - - - - - - - - -
+             MACHINE - X - - - - - - - - -
+                  IP - - O - - - - - - - -
+/ETC/NETWORK/INTERFACES - - - O - - - - - - -
+              DEVICE - - - O - - - - - - -
+      CONFIGURATIONS - - - - O - - - - - -
+          EVERYTHING - - - - S - - - - - -
+                ETH0 - - - - - O - - - O -
+            ARGUMENT - - - - - X - - - - -
+            IFCONFIG - - - - - - O - - - -
+             NETMASK - - - - - - S - - - -
+           255.0.0.0 - - - - - - X - - - -
+               IDEAS - - - - - - - X - - -
+                TYPE - - - - - - - - X - -
+                SUDO - - - - - - - - X - -
+/ETC/INIT.D/NETWORKING - - - - - - - - S - -
+             RESTART - - - - - - - - X - -
+             CONFIGS - - - - - - - - O - -
+                IFUP - - - - - - - - - X -
+               ERROR - - - - - - - - - - O

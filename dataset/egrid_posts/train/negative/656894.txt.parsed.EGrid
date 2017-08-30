@@ -1,0 +1,19 @@
+                WHAT S - -
+   /ETC/INIT.D/BIND9 - S -
+            STOPPING - X -
+              DOMAIN - X -
+                NAME - X -
+             SERVICE - X -
+                  .. - O -
+                BIND - X -
+                RNDC - O -
+ /ETC/BIND/RNDC.CONF - X -
+  /ETC/BIND/RNDC.KEY - S -
+                SUDO - X -
+             INSTEAT - O -
+     INIT.D/WHATEVER - X -
+          OBSOLETED_ - O -
+               START - - X
+                LINK - - O
+                HTTP - - O
+//PASTE.UBUNTU-NL.ORG/23025 - - O

@@ -1,0 +1,23 @@
+                TIME S - - -
+               CHECK X - - -
+   /VAR/LOG/KERN.LOG S - - -
+          INDICATION X - - -
+              KERNEL X - - -
+                  .. O - - -
+                  PC S - - -
+                ALOT X - - -
+             BATTERY O - - -
+                 RTC X - - -
+                WHAS X - - -
+               CLOCK S - - -
+              SYSTEM X - - -
+              LAPTOP X - - -
+                ACCU X - - -
+              SYNTAX - S - -
+                 BAR - X X -
+                   | - X - -
+TIME-CONSUMING-COMMAND - O - -
+          PARAMETERS - X - -
+               THERE - - S -
+               ENTRY - - O -
+                 BAD - - - X

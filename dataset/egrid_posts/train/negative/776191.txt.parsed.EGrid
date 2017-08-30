@@ -1,0 +1,12 @@
+             COMMAND S - - -
+           PROCESSOR X - - -
+                 CAT - X - -
+       /PROC/CPUINFO - S - -
+                 WAY - O - -
+            TSIMPSON - X - -
+                BASH - O - -
+    CAT/PROC/CPUINFO - O - -
+                FILE - X - -
+           DIRECTORY - X - -
+               SPACE - O - -
+                   F - - - X

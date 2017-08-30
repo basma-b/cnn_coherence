@@ -1,0 +1,14 @@
+             PACKAGE - - X X - -
+          DEPENDENCY - - X - X -
+              SOURCE - - X - - -
+                 TAR - - - - O -
+      /USR/LOCAL/SRC - - - - X -
+                 RUN - - - - S -
+               ERROR - - - - O -
+            GLIB-2.0 - - - - X -
+                   > - - - - X -
+                THAT - - - - - S
+                SUDO - - - - - X
+             APT-GET - - - - - X
+                  -F - - - - - S
+                TELL - - - - - O

@@ -1,0 +1,16 @@
+            ETHERNET X X -
+                CARD X - -
+            IFCONFIG X - -
+                 LEM - S -
+                LINK - X -
+               ENCAP - X -
+              HWADDR - X -
+                TIME - - X
+              SYSTEM - - X
+             NETWORK - - X
+          CONNECTION - - S
+              ROUTER - - X
+         192.168.1.1 - - X
+             BATTERY - - X
+               THATS - - O
+               ISSUE - - O

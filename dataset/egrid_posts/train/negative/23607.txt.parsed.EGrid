@@ -1,0 +1,13 @@
+            MODPROBE X - - - - - -
+             OPL3SA2 O - - - - - -
+                CARD O - - - - - -
+              DEVICE X - - - - - -
+               MIXER O - - - - - -
+            SOFTWARE - X - - - - -
+          /DEV/MIXER - X - - X X -
+                THAT - - S X - - -
+                LOAD - - - O - - -
+                NODE - - - S - - -
+                UDEV - - - - - S -
+             SYMLINK - - - - - O -
+              MIXER1 - - - - - X -

@@ -1,0 +1,28 @@
+                HELP O - - - - - - - -
+                DPKG - X S - - - - - -
+           DEPEDENCY - X X - - - - - -
+            PROBLEMS - S S - - - - - -
+       CONFIGURATION - O - - - - - - -
+XORG-DRIVER-FGLRX-DEV - X X - - - - - -
+   XORG-DRIVER-FGLRX - S - - - - - - -
+6.8.0-8.8.25-0UBUNTU11 - X - - - - - - -
+             PACKAGE - X - - - - X - -
+               ERROR - - S - - - - - -
+              ERRORS - - - S - - - - -
+                   O - - - - S - - - -
+             PROBLEM - - - - X - - - -
+             COMMAND - - - - O O - - -
+                SUDO - - - - X - - - -
+             APT-GET - - - - S - - - -
+           DEBHELPER - - - - O - - - -
+            INTERNET - - - - X - X - -
+          CONNECTION - - - - X - - - -
+           CONFIGURE - - - - O - - - -
+              UBUNTU - - - - X - - - -
+                BASH - - - - X - - - -
+             SOMEONE - - - - - X - - -
+         ALTERNATIVE - - - - - X - - -
+              INSTAL - - - - - - X - -
+        /USR/INCLUDE - - - - - - - - O
+                PATH - - - - - - - - X
+             ECLIPSE - - - - - - - - S

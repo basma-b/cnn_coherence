@@ -1,0 +1,20 @@
+                 HUH O - - - - - -
+              VOLUME - - X - - - -
+          ENCRYPTION - - O - - - -
+                  .. - - X - - - -
+           DIRECTORY - - X - - - -
+            PASSWORD - - - X - - -
+                 KEY - - - S - - -
+               STORE - - - X - - -
+             ON-DISK - - - O - - -
+                  IM - - - - S - -
+         /HOME/USER/ - - - - X - -
+                LOOK - - - - O - -
+ECRYPTFS-UNWRAP-PASSPHRASE - - - - X - -
+                 HMF - - - - X - -
+  WRAPPED-PASSPHRASE - - - - S - -
+                 ILL - - - - S - -
+/HOME/.ECRYPTFS/USERNAME - - - - O - -
+            ECRYPTFS - - - - X - -
+             PACKAGE - - - - - - S
+                TOOL - - - - - - O

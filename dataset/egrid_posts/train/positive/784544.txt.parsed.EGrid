@@ -1,0 +1,19 @@
+            QUESTION O - - - -
+              UBUNTU X - - - -
+                 LTS O - - - -
+              VMWARE X - - - -
+                ESXI X - - - -
+                THAT - X - - -
+              KERNEL - O - - -
+         GENERIC-PAE - O - - -
+LINUX-IMAGE-2.6.32-27-VIRTUAL - - - X -
+                FILE - - - X X
+/BOOT/VMLINUZ-2.6.32-27-GENERIC-PAE - - - X -
+          EVERYTHING - - - S -
+                HTTP - - - X X
+//PACKAGES.UBUNTU.COM/LUCID/LINUX-IMAGE-VIRTUAL - - - S -
+                SUDO - - - X -
+             APT-GET - - - S -
+                  .. - - - - O
+                MUCH - - - - S
+//PACKAGES.UBUNTU.COM/LUCID/I386/LINUX-IMAGE-2.6.32-27-VIRTUAL/FILELIST - - - - X

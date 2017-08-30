@@ -1,0 +1,29 @@
+               WLAN0 X - - - - - - - - -
+                ETH0 S - - - X - - - - -
+                AUTO X - - - X - - - - -
+              SERVER X S - - - - - - - -
+             NETWORK X - X - O - - - - -
+                DHCP - X X - - - - - - -
+                LINE - X - - - - - - - -
+              PLEASE - O - - - - - - - -
+/ETC/NETWORK/INTERFACES - - X - S - - - - -
+             PROBLEM - - O - - - - - - -
+               THERE - - S - - S - - - -
+                   ~ - - X - - - - - - -
+/ETC/DHCP3/DHCPD.CONF - - O - - - - - - -
+                  IP - - - - O - - - - -
+              STATIC - - - - O - - - - -
+                 HEY - - - - S - - - - -
+              CHANGE - - - - S - - - - -
+                 SET - - - - - O - - - -
+            IPTABLES - - - - - X - - - -
+                FILE - - - - - - X - - -
+/ETC/COMPLETION.D/IPTABLES - - - - - - X - - -
+      /SBIN/IPTABLES - - - - - - X - - -
+        DCHP-SERVEVR - - - - - - X - - -
+                 LAN - - - - - - - X - -
+                SIDE - - - - - - - S - -
+                 WAN - - - - - - - O - -
+              ROUTER - - - - - - - X - O
+                 BOX - - - - - - - O - -
+               U-BOX - - - - - - - - - S

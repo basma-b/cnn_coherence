@@ -1,0 +1,18 @@
+                 USB X - - -
+               STICK X - - -
+              SYSTEM X - - -
+                   > - S - -
+            /DEV/SDX - X - -
+                THAT - - S -
+              OUTPUT - - X -
+              DEVICE - - X -
+                ROOT - - X -
+/DEV/DISK/BY-ID/USB-HP_V125W_UTA10615000698-0:0 - - X -
+                /SDB - - X -
+/DEV/DISK/BY-ID/USB-HP_V125W_UTA10615000698-0:0-PART1 - - X -
+               /SDB1 - - X -
+                BOOT - - - O
+                  CD - - - X
+           SOMETHING - - - S
+                DISC - - - X
+               DRIVE - - - X

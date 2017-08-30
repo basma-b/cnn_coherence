@@ -1,0 +1,16 @@
+               GRUB2 X - - - - - S
+                BOOT X - - - - - -
+             WINDOWS X - - - - - -
+           PARTITION X - - - - - -
+                PAGE - S - - - - -
+             PURPOSE - X - - - - -
+                THIS - - O - - - -
+         UPDATE-GRUB - - S - - - -
+              DEVICE - - X - - - -
+                NAME - - O - - - -
+               DRIVE - - X - - - -
+                LINE - - - X - - -
+ /BOOT/GRUB/MENU.LST - - - X - - -
+                THAT - - - - S - -
+              CHANGE - - - - - O -
+            MENU.LST - - - - - - O

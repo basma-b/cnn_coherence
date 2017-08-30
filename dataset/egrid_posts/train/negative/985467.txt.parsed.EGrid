@@ -1,0 +1,28 @@
+                   K - X - - - - - - - - - -
+                ROOT - X - X - - - - - - - -
+                  .. - - X S - - - - - - - -
+                USER - - - X - - - - - - - -
+               USERS - - - - S - - - - - - -
+                   E - - - - - X - - - - - -
+                FILE - - - - - X - - - - - O
+/VAR/LIB/APT/LISTS/LOCK - - - - - X - - - - - -
+          PERMISSION - - - - - S - - - - - -
+                LIST - - - - - X - - - - - -
+           DIRECTORY - - - - - O - - - - - -
+                GFTP - - - - - O - - - - - -
+                 USE - - - - - X - - - - - -
+                SUDO - - - - - S - - - - - X
+            INSTANCE - - - - - S - - - - - -
+                ONES - - - - - - S - - - - -
+                 FAQ - - - - - - O - - - - -
+                 YEA - - - - - - - X - - - -
+   /ETC/DEFAULT/GRUB - - - - - - - - O - - -
+      IPV6.DISABLE=1 - - - - - - - - O - - -
+                LINE - - - - - - - - X - - -
+         UPDATE-GRUB - - - - - - - - - O - -
+              SYSTEM - - - - - - - - - O - -
+              UBUNTU - - - - - - - - - - X -
+             VERSION - - - - - - - - - - X -
+                 AHH - - - - - - - - - - - S
+                GRUB - - - - - - - - - - - S
+/ETC/INIT.D/NETWORKING - - - - - - - - - - - X

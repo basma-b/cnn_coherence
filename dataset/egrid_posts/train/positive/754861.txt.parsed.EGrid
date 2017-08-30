@@ -1,0 +1,6 @@
+        FFMPEG-DEVEL X - - -
+                XBMC O - - -
+                LIBS X X - -
+            LOCATION - X - -
+              SCRIPT - S - -
+CFLAGS=-I/USR/INCLUDE/LIBAVCODEC - - - X

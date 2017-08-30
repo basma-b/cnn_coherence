@@ -1,0 +1,21 @@
+                PATH X O X -
+                USER X - - -
+             COMMAND O - - -
+                SUDO S X - -
+                ROOT O - - -
+         PERMISSIONS O O - -
+               STUFF X - - -
+             NETWORK X - - -
+                HOME X - - -
+           DIRECTORY X - - -
+/HOME/YOUR_NAME/BIN/SCRIPT.SH - O - -
+              SETUID - O - -
+              SCRIPT - O O -
+                 OWN - X - -
+                 TRY - X - -
+                 DIR - - X -
+          EXPERIMENT - - O -
+                ARCH - - X -
+            ABSOLUTE - - O -
+              CUSTOM - - - X
+               ALIAS - - - O

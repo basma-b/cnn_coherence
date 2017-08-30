@@ -1,0 +1,14 @@
+                 PIN X - - - - - -
+                 MAN - S - - - - -
+             PURPOSE - S - - - - -
+           BACKPORTS - X - - - - -
+               ROUTE - O - - - - -
+             PACKAGE - O - - - - -
+               WARTY - X - - - - -
+   NVIDIA-GLX-CONFIG - - - S - - -
+              BACKUP - - - - O - -
+                  VM - - - - X - -
+                  DD - - - - O - X
+           PARTITION - - - - O - -
+        IF=/DEV/SDA2 - - - - - - X
+   OF=/SOME/FILE.VDI - - - - - - X

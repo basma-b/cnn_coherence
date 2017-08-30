@@ -1,0 +1,6 @@
+                RULE X - - - -
+                BOOT - X - - -
+              THRLCE - - X - -
+              INIT.D - - X - -
+/ETC/RC.D/RC.FIREWALL - - - O -
+/ETC/RC2.D/RC.FIREWALL - - - - X

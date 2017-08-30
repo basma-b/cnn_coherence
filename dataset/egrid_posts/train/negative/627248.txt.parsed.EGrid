@@ -1,0 +1,17 @@
+              SERVER X - - - - -
+         PERMISSIONS X - - - - -
+               USERS X - - - - -
+                NONE O - - - - -
+               GROUP X - - - - -
+            ANYTHING O - - - - -
+                ROOT S - - - - -
+         LSB_RELEASE X - - - - -
+                  -A O - - - - -
+             OPENDNS X - - - - -
+             DOMAINS - O - - - -
+                FILE - - X - - -
+              SYSTEM - - X - - -
+                 BIG - - - O - -
+                BOOT - - - - X -
+                LINK - - - - - X
+                 MAN - - - - - S

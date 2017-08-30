@@ -1,0 +1,14 @@
+               ROUTE X - - -
+                HOST X - - -
+      /VAR/WWW/MYDIR X - - -
+                ROUT S - - -
+       DOCUMENT-ROOT - X - -
+         SITE-CONFIG - X - -
+       CONFIGURATION - O - -
+     SITES-AVAILABLE - X - -
+      SITES-ENABLESD - - S -
+                 SET - - - S
+       SITES-ENABLED - - - X
+                  YA - - - S
+              APACHE - - - S
+         000-DEFAULT - - - O

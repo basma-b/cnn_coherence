@@ -1,0 +1,21 @@
+                 HEY X - - -
+                 GUY X - - -
+               ERROR O - - -
+        PACKETTRACER O - - X
+              KARMIC X - - -
+              ALPHA3 X - - -
+                DPKG X - - -
+             PROCESS X - - -
+PACKETTRACER-5.2-U.I386.DEB X - - -
+         BUFFER_COPY X - - -
+            DPKG-DEB X - - -
+./USR/LOCAL/PACKETTRACER5/LIB/LIBQTWEBKIT.SO.4.4.3 X - - -
+             PROBLEM O - - -
+                 APP - X - -
+             PACKAGE - - - O
+                NAME - - - O
+               BEGIN - - - X
+        INSTALLATION - - - X
+                 TAR - - - X
+                GZIP - - - S
+                DATA - - - O

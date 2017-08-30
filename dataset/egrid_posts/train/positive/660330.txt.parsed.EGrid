@@ -1,0 +1,14 @@
+                LINE X - - - -
+                NTFS X - - - -
+                AUTO X X - - -
+                BOOT X - - - -
+        /MEDIA/STUFF - X - - -
+              NOUSER - X - X -
+                  RW - X - - -
+                UUID - S - - -
+                USER - - X S -
+               ACCES - - - O -
+                 USE - - - X -
+              OPTION - - - X -
+             ENTRIES - - - - X
+              REBOOT - - - - X

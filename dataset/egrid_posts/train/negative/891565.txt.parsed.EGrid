@@ -1,0 +1,10 @@
+           AUTOMOUNT X X - -
+               DRIVE - X - -
+             PLUGDEV - - X -
+                THAT - - - O
+                SUDO - - - X
+/ETC/INIT.D/NETWORKING - - - S
+              SCRIPT - - - X
+            ANYTHING - - - O
+                 NIC - - - X
+            TERMINAL - - - X

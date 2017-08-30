@@ -1,0 +1,34 @@
+                  LN X S - - -
+                LINK O - - - -
+/USR/LIB32/LIBCRYPTO.SO.4 O - - - -
+                FILE O O - - -
+           DIRECTORY X X - - -
+                  LS X - - - -
+                  -L O - - - -
+/USR/LIB32/LIBCRYPTO.SO.0.9.8 X - - - -
+                SUDO X - - - -
+                 NON S - - - -
+         SYMLINKNAME - S - - -
+                 WAY - X - - -
+./DESKTOP/K7/WRAPPER-LINUX - X - - -
+               ERROR - X - - -
+                LOAD - X - - -
+               SHARE - X - - -
+           LIBRARIES - S - - -
+      LIBCRYPTO.SO.4 - X - - -
+              OBJECT - X - - -
+                   F - S - - -
+             NOTHING - S - - -
+                LACK - O - - -
+                LIBS - S - - -
+         LIBSSL0.9.8 - O - - -
+               WHERE - - X - -
+                WORM - - - X X
+                 SEC - - - X -
+             UNKNOWN - - - X -
+                HOST - - - S -
+             ROUTERS - - - X -
+                  IP - - - X -
+             SCANNER - - - X -
+                HTTP - - - - X
+//PASTEBIN.COM/0T6S2MFX - - - - X

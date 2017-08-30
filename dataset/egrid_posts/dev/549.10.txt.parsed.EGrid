@@ -1,0 +1,12 @@
+         RESOLV.CONF S - -
+                TIME - O -
+                FILE - - O
+                JAVA - - X
+           EXCEPTION - - X
+              THREAD - - X
+           MINECRAFT - - X
+JAVA.LANG.UNSATISFIEDLINKERROR - - X
+/HOME/USER/.MINECRAFT/BIN/NATIVES/LIBLWJGL.SO - - X
+          LIBJAWT.SO - - X
+               SHARE - - X
+              OBJECT - - X

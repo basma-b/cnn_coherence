@@ -1,0 +1,15 @@
+                  IM S O -
+           SHOREWALL O O -
+   VAR/LOG/SHOREWALL X - -
+          PERMISSION S - -
+                SUDO X - -
+            /VAR/LOG O S -
+                DONT - X -
+           DIRECTORY - X O
+               THATS - X -
+                  CD - X -
+                FILE - X -
+                 ETC - - X
+             PROGRAM - - O
+           SYNAPTICS - - X
+               ERROR - - X

@@ -1,0 +1,14 @@
+            KEYBOARD - O - - - -
+             DESKTOP - O - - - -
+             RESPOND - O - - - -
+             COMMAND - X - - - -
+             NUMLOCK - - X - - -
+                BOOT - - - X - -
+         CREDENTIALS - - - O - -
+                  ID - - - X - -
+            RECOVERY - - - X - -
+         RECONFIGURE - - - X - -
+        XSERVER-XORG - - - O - -
+     /ETC/INIT.D/GDM - - - S - -
+              DRIVER - - - X - -
+             DISPLAY - - - X - -

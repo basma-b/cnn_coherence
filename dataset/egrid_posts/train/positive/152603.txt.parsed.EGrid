@@ -1,0 +1,17 @@
+           DIRECTORY X - - - - -
+                 DIR O - - - - X
+             SYMLINK O - - - - -
+                 SYM X - - - - -
+                  .. O - - - - X
+      GNOME-TERMINAL X - - - - -
+                 TAB S - - - - -
+                THIS - X - - - O
+             FEATURE - X X - - -
+                 BUG - X - - - -
+               MKDIR - - - - - X
+              /TMP/A - - - - - X
+              /TMP/B - - - - - X
+                  CD - - - - - X
+                 PWD - - - - - X
+                DIRS - - - - - X
+            /BIN/PWD - - - - - S

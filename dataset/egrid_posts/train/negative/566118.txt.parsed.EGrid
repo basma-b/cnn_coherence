@@ -1,0 +1,12 @@
+         PERMISSIONS X - -
+             FOLDERS X - -
+               USERS X - -
+                FILE - X -
+              REASON - X -
+          PERMISSION - S -
+            EXTERNAL - X -
+                ROOT - O -
+                SUDO - S -
+/PATH/TO/UNSECURED/DIRECTORY - O -
+                 TAB - - X
+          COMPLETION - - X

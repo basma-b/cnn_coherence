@@ -1,0 +1,30 @@
+               HELLO S - - - - - - -
+             FRIENDS X - - - - - - -
+                   U X - - S - - - -
+                HTTP S - - - - - - -
+                  .. X - - - - - - -
+                FILE X - - - X - - -
+               SQUID - X - - O - - S
+              SQUID3 - - X - - - - -
+                THAT - - - O - X - -
+                SUDO - - - X X - - X
+            UPDATEDB - - - S S - - -
+          SQUID.CONF - - - - O - - -
+            DATABASE - - - - X - - -
+              SEARCH - - - - O - - -
+           REINSTALL - - - - X - - S
+           LOCATIONS - - - - O - - -
+            APTITUDE - - - - - - - S
+               PURGE - - - - - - - X
+              CONFIG - - - - - - - S
+             EXAMPLE - - - - - - - X
+               THERE - - - - - - - S
+/ETC/SQUID/SQUID.CONF - - - - - - - O
+              BACKUP - - - - - - - O
+/ETC/SQUID/SQUID.CONF.BACKUP - - - - - - - X
+               KDESU - - - - - - - X
+                KATE - - - - - - - S
+                LINE - - - - - - - O
+                NEED - - - - - - - X
+          SERVERNAME - - - - - - - X
+           LOCALHOST - - - - - - - X

@@ -1,0 +1,14 @@
+             COMMAND X - - - -
+                 TAB - X - - -
+            TERMINAL - X - - -
+         ABOUTBLANKZ - - X - -
+              ROUTER - - X - -
+            FIREWALL - - X - -
+                 WAY - - - S -
+           SOMETHING - - - O -
+                FILE - - - - O
+/ETC/MODPROBE.D/TOUCHPAD-FIX.CONF - - - - X
+             CONTENT - - - - X
+             OPTIONS - - - - X
+             PSMOUSE - - - - X
+       RESETAFTER=10 - - - - X

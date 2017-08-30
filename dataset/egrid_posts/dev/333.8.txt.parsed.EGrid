@@ -1,0 +1,17 @@
+        UPDATE-GRUB2 S X -
+                FILE X - -
+               IMAGE O - -
+             WINDOWS - X -
+                ONES - S -
+              CUSTOM - X -
+                RULE - O -
+              PEOPLE - - S
+           REFERENCE - - X
+                 BUG - - O
+           LAUNCHPAD - - X
+                 MAC - - X
+            PLATFORM - - S
+            HARDWARE - - O
+          VARIATIONS - - O
+                SOME - - S
+             PROBLEM - - X

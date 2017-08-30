@@ -1,0 +1,9 @@
+         RESOLV.CONF O - - -
+             OPENDNS O - - -
+                FILE - S - -
+          WILLUBUNTU - S - -
+             SERVERS - - O -
+/ETC/DHCP3/DHCLIENT.CONF - - X -
+ DOMAIN-NAME-SERVERS - - X -
+             SECTION - - X -
+              COMPIZ - - - O

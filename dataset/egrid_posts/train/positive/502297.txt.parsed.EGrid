@@ -1,0 +1,13 @@
+              SCRIPT O X -
+         IF-PRE-UP.D X - -
+                WONT S - -
+           INTERFACE O - -
+                PATH - S X
+                NAME - O -
+      INITIALIZATION - X -
+                 CLI - X -
+                DONT - - S
+              SYSTEM - - S
+                FILE - - O
+           DIRECTORY - - X
+              MATTER - - O

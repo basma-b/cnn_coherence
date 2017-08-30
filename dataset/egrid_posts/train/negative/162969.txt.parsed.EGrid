@@ -1,0 +1,13 @@
+             IPW2200 S - -
+                 BOX X - -
+                WIFI X - -
+      WPA_SUPPLICANT - S -
+                  .. - O -
+      AUTHENTICATION - X -
+               IFACE - X -
+                ETH1 - O -
+                INET - X -
+              PRE-UP - S -
+                WEXT - X -
+                  -C - S -
+      /SBIN/DHCLIENT - X -

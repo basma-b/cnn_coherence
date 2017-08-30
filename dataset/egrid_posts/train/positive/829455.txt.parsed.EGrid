@@ -1,0 +1,16 @@
+                SUDO S - - X - - - -
+             NETWORK S - - - - - - S
+            WIRELESS X - - - - - - -
+             ADAPTER O - - - - - - -
+                   < O - - - - - - -
+              DRIVER - S - - - - - -
+                  -K - - X - - - - -
+                HTTP - - - X - - - -
+               ATH5K - - - O - - - -
+              IWLIST - - - S - - - -
+           SUMMARIZE - - - - - S - -
+                SCAN - - - - - - O -
+                  LO - - - - - - X -
+                ETH0 - - - - - - X -
+           INTERFACE - - - - - - S S
+               WLAN0 - - - - - - - X

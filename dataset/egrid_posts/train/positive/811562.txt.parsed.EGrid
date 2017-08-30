@@ -1,0 +1,14 @@
+                FILE X X X - O
+               REPOS O O O - -
+                 APT X X X - -
+            SOFTWARE - - - X -
+              CENTRE - - - X -
+/ETC/APT/SOURCES.LIST - - - O -
+                PATH - - - - S
+            UNIVERSE - - - - X
+              SOURCE - - - - O
+        APPLICATIONS - - - - X
+            PROBLEMS - - - - O
+              CHROME - - - - X
+                REPO - - - - X
+/ETC/APT/SOURCES.LIST.D - - - - X

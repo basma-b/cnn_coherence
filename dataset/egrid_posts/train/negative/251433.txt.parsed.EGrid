@@ -1,0 +1,6 @@
+   DISABLED_MODULES= S -
+             ATH_HAL S -
+             CMP1988 S -
+/ETC/DEFAULT/LINUX-RESTRICTED-MODULES-COMMON O -
+                THAT - O
+             PROBLEM - O

@@ -1,0 +1,14 @@
+             TIMEOUT X - - - -
+                MENU X - - - -
+          FILESYSTEM X - - - -
+               CHECK X - - - -
+   /ETC/DEFAULT/GRUB - X - - -
+             SECTION - X - - -
+        GRUB_TIMEOUT - - S - -
+              SECOND - - X - -
+                FILE - - O - -
+ /BOOT/GRUB/GRUB.CFG - - O - -
+            ANYTHING - - - O -
+                  .. - - - X -
+               MOUSE - - - O -
+            POINTERS - - - - X

@@ -1,0 +1,14 @@
+              OUTPUT X - -
+              FORMAT S - -
+               FLASH - X -
+                SUDO - X -
+             APT-GET - S -
+       FLASH-NONFREE - O -
+                   E - S -
+             PACKAGE - X -
+              INSTAL - S -
+               ERROR - O -
+         APPLICATION - S -
+             FEATURE - O -
+             MINIMUM - X -
+             FIREFOX - O -

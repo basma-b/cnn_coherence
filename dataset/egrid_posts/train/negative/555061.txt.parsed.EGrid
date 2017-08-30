@@ -1,0 +1,22 @@
+               SPEED X - - - - - -
+                 HUH - - - X - - -
+                 CPU - - - - S - -
+               SCALE - - - - O - -
+    CPUFREQ-SELECTOR - - - - O O -
+                 GUI - - - - X - -
+ORG.GNOME.CPUFREQSELECTOR - - - - O - -
+          CONNECTION - - - - X - -
+               1.141 - - - - X - -
+             SERVICE - - - - O - -
+            SECURITY - - - - X - -
+            POLICIES - - - - X - -
+       CONFIGURATION - - - - X - -
+                FILE - - - - X - X
+               ERROR - - - - X - -
+                SUDO - - - - - X -
+                LIST - - - - - - S
+         /ETC/PAM.D/ - - - - - - X
+                HTTP - - - - - - S
+//PASTEBIN.COM/F814MUCY - - - - - - S
+             NOTHING - - - - - - S
+                 POP - - - - - - X

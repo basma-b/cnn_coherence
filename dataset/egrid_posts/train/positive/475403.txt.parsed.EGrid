@@ -1,0 +1,6 @@
+             COMMAND S - -
+               USERS O - -
+              ANYONE S - -
+                USER - - S
+               NOTTY - - X
+         CONNECTIONS - - S

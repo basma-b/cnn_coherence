@@ -1,0 +1,17 @@
+                THAT O - - - - - - X - - - O
+               TOTEM O X - X - - - - X - - -
+                ALSA X X X - X X - - - - - O
+        AUDIO.DRIVER - - X - - - - - - - - -
+           SOMETHING - - X - - - - - - - - -
+           GSTREAMER - - - - X - - - - - - -
+             DEFAULT - - - - X - - - - - - -
+              OUTPUT - - - - O X - - - - - -
+                XINE - - - - - X - - - - - -
+              PLUGIN - - - - - O - - - - - -
+                 GUI - - - - - - - - S - - -
+             OPTIONS - - - - - - - - X - - -
+                  .. - - - - - - - - X - - X
+                 USE - - - - - - - - - - - X
+              SOURCE - - - - - - - - - - - X
+              DEVICE - - - - - - - - - - - S
+                 ESD - - - - - - - - - - - S

@@ -1,0 +1,10 @@
+           PARTITION X - X -
+          FILESYSTEM X - - -
+                EXT2 O - - -
+                FILE - O - -
+             WINDOWS - X - X
+                BOOT - X - -
+             PROGRAM - - O -
+                EXT3 - - - X
+             SUPPORT - - - O
+                THIS - - - O

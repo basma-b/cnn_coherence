@@ -1,0 +1,22 @@
+                FILE X - - - O
+                CIFS X S - - -
+                LINE X - - - -
+    /ETC/MODPROBE.D/ X - - - -
+           SUPERUSER - X - - -
+            QUESTION - O - - O
+           SOMETHING - X - - -
+      IGNORE-INSTALL - S - - -
+     .IGNORE-INSTALL - X - - -
+               ERROR - O - - -
+               CHECK - X - - -
+               DITTO - X - - -
+                  .. - O - - -
+                THAT - - X - -
+                LINK - - O - -
+                THIS - - - - S
+          WORKAROUND - - - - X
+              ANSWER - - - - O
+                HTTP - - - - X
+//SUPERUSER.COM/QUESTIONS/459689/HOW-TO-DISABLE-OPPORTUNITY-LOCKING-ON-RED-HAT-5-CENTOS-5 - - - - X
+                 ONE - - - - O
+                TEST - - - - X

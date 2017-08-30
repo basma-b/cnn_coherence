@@ -1,0 +1,14 @@
+             COMMAND O - - - -
+                  IP O - - - -
+              6.06.1 X - - - -
+                THAT - S - - -
+            IFCONFIG - S - - -
+                ROOT - O - - -
+                   L - O - - -
+                SUDO - - - - X
+     /ETC/INIT.D/SSH - - - - S
+             KILLALL - - - - X
+               IRSSI - - - - S
+                USER - - - - S
+             APT-GET - - - - S
+        MYSQL-SERVER - - - - O

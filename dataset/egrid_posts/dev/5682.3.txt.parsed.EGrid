@@ -1,0 +1,17 @@
+                BIND X - - X - -
+                 DNS O S - X - -
+           BEHAVIOUR O - - - - -
+            SPECIFIC X - - - - -
+                ISPS - X - - - -
+                 USE - O - - - -
+          EVERYTHING - X - - - -
+    /ETC/RESOLV.CONF - - S - - -
+           127.0.0.1 - - O - - -
+                THIS - - - X - -
+              SERVER - - - O - -
+               ENTRY - - - - O -
+               RSYNC - - - - - X
+             SESSION - - - - - S
+              SCREEN - - - - - X
+          RSYNC-CRON - - - - - X
+           ARGUMENTS - - - - - X

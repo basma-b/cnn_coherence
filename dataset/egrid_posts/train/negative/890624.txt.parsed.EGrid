@@ -1,0 +1,13 @@
+          CONNECTION S - - -
+                EXT4 S - - -
+                 BIN - X - -
+                TYPE - X - -
+              OPTION - X - -
+          SUPERBLOCK - X - -
+              OUTPUT - X - -
+                HTTP - X - -
+                  .. - X - -
+                SDA3 - - X -
+                SDA5 - - X -
+            FIREWALL - - - O
+             MONITOR - - - X

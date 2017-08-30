@@ -1,0 +1,14 @@
+              LIVECD X - -
+         PERSISTENCE O X -
+                 NFS X - -
+              CASPER - O -
+                DOCS - S -
+            PXE-BOOT - O -
+            NETSHARE - X -
+                BOOT - O -
+                 PXE - X -
+                 COW - X -
+                HINT - - X
+                  DD - - X
+                SYNC - - X
+               SHARE - - X

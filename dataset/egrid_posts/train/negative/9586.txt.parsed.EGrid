@@ -1,0 +1,6 @@
+         RECONFIGURE X -
+            FIREWALL O -
+              UBUNTU X -
+             DEFAULT X -
+            IPTABLES O -
+              DEVICE - O

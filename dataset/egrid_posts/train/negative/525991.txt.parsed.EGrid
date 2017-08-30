@@ -1,0 +1,8 @@
+             COMMAND X - -
+                FILE O - -
+              GUNZIP - S -
+                 ZIP - X -
+             ARCHIVE - O -
+           SOMETHING - O -
+                   U - - X
+              UBUNTU - - X

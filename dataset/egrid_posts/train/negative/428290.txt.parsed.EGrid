@@ -1,0 +1,20 @@
+             MACHINE O - - - - X - - X - - - -
+            INTERNET X - - - - X - - X - - - -
+             PACKAGE O - - - - X - - - X - - -
+                THIS - X - - - - - - - - - - -
+               .DEBS - - O - - - - - - - - - -
+                  CD - - X - - - - - X - - - -
+                DEBS - - - X - - - - - - - - -
+                 ETC - - - - O - - - - - - - -
+                NAME - - - - - O - - - X - - -
+                FILE - - - - - - - S - - - - -
+/VAR/CACHE/APT/ARCHIVES - - - - - - - - O - - - -
+                TYPE - - - - - - - - X - - - -
+              AT-GET - - - - - - - - - S - - -
+                   > - - - - - - - - - O - - -
+             ARCHIVE - - - - - - - - - X - - -
+                SUDO - - - - - - - - - - X - -
+                DPKG - - - - - - - - - - X - -
+               FILES - - - - - - - - - - S - -
+                .DEB - - - - - - - - - - S - -
+        DEPENDENCIES - - - - - - - - - - S - -

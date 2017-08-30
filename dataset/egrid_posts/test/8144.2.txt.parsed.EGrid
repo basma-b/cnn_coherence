@@ -1,0 +1,11 @@
+             COMMAND S - - -
+                TERM X - - -
+         APPLICATION X - - -
+                  SU - X - -
+            PASSWORD - O - -
+      AUTHENTICATION - X - -
+             FAILURE - X - -
+                ROOT - - O -
+             DEFAULT - - X -
+                SUDO - - O -
+               BREAK - - - X

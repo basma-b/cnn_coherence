@@ -1,0 +1,29 @@
+   /ETC/DEFAULT/GRUB O - - - - - X X - -
+                GRUB S - X - X - - - - -
+                MENU O - O - X - - - - -
+                THAT - - S - - - - - - -
+           SOMETHING - - O - - - - - - -
+                HAND - - O - - - - - - -
+              KERNEL - - X X - - - - - -
+                  .. - - X - - - - - - -
+              SPLASH - - - X - - - - - -
+            FUNCTION - - - O - - - - - -
+          VISIBILITY - - - X - - - - - -
+                BOOT - - - X - - - - - -
+            WHATEVER - - - X - - - - - -
+             NOTHING - - - - O - - - - -
+                 BAD - - - - - X - - - -
+                IDEA - - - - - - X - - -
+            SETTINGS - - - - - - O - - -
+ /BOOT/GRUB/GRUB.CFG - - - - - - X - - -
+         UPDATE-GRUB - - - - - - S - - -
+            GRUB.CFG - - - - - - - O - -
+              CHANGE - - - - - - - X - -
+               TRISM - - - - - - - - X -
+GRUB_HIDDEN_TIMEOUT=0 - - - - - - - - X -
+                   / - - - - - - - - X -
+GRUB_HIDDEN_TIMEOUT_QUIET=FALSE - - - - - - - - X -
+      GRUB_TIMEOUT=0 - - - - - - - - X -
+                THIS - - - - - - - - - S
+                WORK - - - - - - - - - O
+              REBOOT - - - - - - - - - X

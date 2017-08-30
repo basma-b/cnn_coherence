@@ -1,0 +1,12 @@
+                COPY X - - - - -
+               CDROM X - - - - -
+                   * - S - - - -
+                THAT - - - - - S
+                SUDO - - - - - X
+             APT-GET - - - - - S
+           BOOTCHART - - - - - O
+              SYSTEM - - - - - X
+                 LOG - - - - - X
+               IMAGE - - - - - S
+               PLACE - - - - - O
+   VAR/LOG/BOOTCHART - - - - - X

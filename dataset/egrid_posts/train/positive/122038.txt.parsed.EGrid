@@ -1,0 +1,12 @@
+        SOURCES.LIST O - - -
+              SYSTEM O - - -
+             VERSION X - - -
+       BREEZY-UPDATE - X - -
+            SECURITY - X S -
+               REPOS - O - -
+                 YAH - - S -
+             UPDATES - - O -
+/ETC/APT/SOURCES.LIST - - O -
+                SITE - - X -
+               UBOTU - - S -
+                  OK - - - X

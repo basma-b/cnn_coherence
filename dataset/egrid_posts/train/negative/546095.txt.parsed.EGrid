@@ -1,0 +1,15 @@
+               SLAPD O - - - - - -
+             DEFAULT X - X - - - -
+               ADMIN X - X - - - -
+             ACCOUNT O - X - - - -
+               SETUP - - X - - - -
+             CONFIGS - - X - - - -
+                HTTP - - O - - - -
+       ARTICLE=10921 - - - S - - -
+                LOOK - - - - O - -
+                LINK - - - - S - -
+            CN=ADMIN - - - - O - -
+                THAT - - - - - S X
+            SECURITY - - - - - - S
+               SHARE - - - - - - O
+            SMB.CONF - - - - - - X

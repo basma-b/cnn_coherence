@@ -1,0 +1,14 @@
+            PRIORITY O O X X O - - - -
+         APPLICATION X - - - - - - - -
+              PIDGIN - S X - - - - - -
+                  MB - O - - - - - - -
+              MEMORY - X - - - - - - -
+             PROCESS - - X - - - - - -
+      SYSTEM-MONITOR - - X - - - - - -
+                 RAM - - - - X - - - -
+                CASE - - - - - X - - -
+             COMMAND - - - - - S - - -
+                LINE - - - - - X - - -
+              RENICE - - - - - X - - -
+                THAT - - - - - - - S -
+           LOCALHOST - - - - - - - - X

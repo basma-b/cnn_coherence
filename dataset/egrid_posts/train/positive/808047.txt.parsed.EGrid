@@ -1,0 +1,17 @@
+                THIS O - - -
+                HOST X - - X
+                SUDO X - - -
+                 UFW S - - -
+          CONNECTION O - - -
+                PORT X - - O
+             MACHINE X - - -
+                 WAN X - - -
+         CONNECTIONS O - - -
+             NETWORK - S - -
+           EXCEPTION - - O -
+                  IP - - X -
+                  OS - - - S
+                 BOX - - - X
+                 SSH - - - O
+                  VB - - - S
+                MODE - - - X

@@ -1,0 +1,15 @@
+             DEFAULT X - - -
+         PERMISSIONS O X - X
+                KIND - O - -
+             INVERSE - X - -
+                MASK - X - -
+          PERMISSION - X - -
+            SETTINGS - O - -
+            INSTANCE - - - X
+                USER - - - S
+           UMASK=022 - - - X
+                 ALL - - - S
+                  ~/ - - - X
+               THOSE - - - S
+                ROOT - - - X
+               AFAIK - - - O

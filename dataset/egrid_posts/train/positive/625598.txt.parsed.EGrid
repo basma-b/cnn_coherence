@@ -1,0 +1,16 @@
+         /SBIN/GETTY X - X - -
+                 TTY X X - - -
+           TERMINALS X - - - -
+              BOOTUP X - - - -
+             OPTIONS - S - - -
+                   X - S - - -
+              RENAME - X - - -
+             EXAMPLE - X - - -
+                 TIP - S - - -
+                LINE - - O - -
+     CNETWORKMANAGER - - - X -
+//VIDNER.NET/MARTIN/SOFTWARE/CNETWORKMANAGER/ - - - - S
+      IMPLEMENTATION - - - - O
+            ZEROCONF - - - - X
+               APPLE - - - - S
+               DUNNO - - - - X

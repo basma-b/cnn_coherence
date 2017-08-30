@@ -1,0 +1,27 @@
+              UBUNTU - O - - - - - - -
+             WINDOWS - O - - X X - S -
+                MENU - X - - - - - - -
+              SCREEN - X - - - - - - -
+             NOTHING - O - - - - - - -
+             SOMEONE - - X - - - - - -
+                BOOT - - - X - - X - -
+                FINE - - - X - - X - -
+                FILE - - - - X X - - -
+                ITEM - - - - X X - - -
+           MENUENTRY - - - - - X - - -
+             CONTENT - - - - - X - X -
+               LINUX - - - - - - X - -
+/ETC/GRUB.D/30_OS-PROBER - - - - - - - X -
+           MICROSOFT - - - - - - - X -
+        PROFESSIONAL - - - - - - - S -
+           /DEV/SDA1 - - - - - - - X -
+              INSMOD - - - - - - - X -
+                NTFS - - - - - - - S -
+               ROOT= - - - - - - - O -
+               HD0,1 - - - - - - - X -
+              SEARCH - - - - - - - O -
+           NO-FLOPPY - - - - - - - O -
+             FS-UUID - - - - - - - O -
+    A854308054305374 - - - - - - - O -
+                BEST - - - - - - - - S
+                  .. - - - - - - - - O

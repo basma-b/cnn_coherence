@@ -1,0 +1,17 @@
+             ANYBODY X - - - -
+             SUCCESS X - - - -
+   ATA-OVER-ETHERNET X - - - -
+                   M - X - - -
+                TYPE - S - - -
+                 AOE - X X X S
+     /VAR/LOG/SYSLOG - X - - -
+                CANT - S - - -
+              ACTION - O - - -
+               CAUSE - O - - -
+               ERROR - - - S -
+/LIB/MODULES/2.6.27-9-GENERIC/KERNEL/DRIVERS/BLOCK/AOE/AOE.KO - - - X -
+           OPERATION - - - X -
+                ROOT - - - - O
+              COURSE - - - - X
+                LOAD - - - - O
+            TAIL-ING - - - - X

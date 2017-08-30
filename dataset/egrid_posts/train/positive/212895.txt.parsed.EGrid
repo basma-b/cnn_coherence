@@ -1,0 +1,15 @@
+                THAT O - - - - - -
+                LINE O X - - - - -
+        /ETC/INITTAB X - - - - - -
+         /SBIN/GETTY - X - - - - -
+                 FEW - O - - - - -
+                OPEN - - O - - - -
+               GDM/X - - - S - - -
+                   X - - - X - - -
+              SWITCH - - - X - - -
+                USER - - - X - - -
+             USPLASH - - - O - - -
+                 GDM - - - X - - -
+                FILE - - - - S - -
+             INITTAB - - - - - - S
+             UPSTART - - - - - - X

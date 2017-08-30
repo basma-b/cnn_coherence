@@ -1,0 +1,23 @@
+              ANYONE S - - - - - - - -
+               IDEAS O - - - - - - - -
+               PPPOE - X - - - - - - -
+          CONNECTION - S - - - - - - -
+               START - O - - - - - - -
+              REBOOT - X - - - - - - -
+              STANZA - - O - - - - - -
+/ETC/NETWORK/INTERFACES - - X - - - - - -
+                BOOT - - - X - - X - -
+           PARTITION - - - O - - - - S
+              ACCESS - - - O - - - - -
+         EVERYTRHING - - - X - - - - -
+               DRIVE - - - X - - - - -
+            COMPUTER - - - X - - - - -
+             CONTENT - - - - - S - - -
+               /BOOT - - - - - X - - -
+               AFAIK - - - - - - - - O
+              KERNEL - - - - - - - - S
+           INITRAMFS - - - - - - - - X
+              INITRD - - - - - - - - X
+               IMAGE - - - - - - - - S
+                ROOT - - - - - - - - X
+               PANIC - - - - - - - - O

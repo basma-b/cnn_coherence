@@ -1,0 +1,27 @@
+LIBSASL2-MODULES-LDAP O - - - - -
+               ERROR X - O X - -
+             MESSAGE O - - S - -
+                 LDD O - - - - -
+                LDAP X - - - - -
+              BINARY X - - - - -
+        ./LDAPSEARCH - O - - - -
+                TTHE - - X - - -
+              OUTPUT - - X - - -
+                HTTP - - X - - -
+//PASTE.UBUNTU.COM/54163/ - - X - - -
+                SASL - - S X - -
+/USR/LIB/LIBSASL2.SO.2 - - X - - -
+  0X00002AF9F9D12000 - - X - - -
+          LDAPSEARCH - - O - - -
+             SUPPORT - - - X - -
+                TYPE - - - X - -
+               DC=SC - - - X - -
+          DC=BIBALEX - - - X - -
+              DC=ORG - - - X - -
+              GSSAPI - - - X - -
+LIBSASL2-MODULES-GSSAPI-MIT - - - X - -
+LIBSASL2-MODULES-GSSAPI-HEIMDAL - - - O - -
+                THAT - - - - O -
+              SERVER - - - - - X
+             MACHINE - - - - - X
+        INSTALLATION - - - - - X

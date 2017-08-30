@@ -1,0 +1,7 @@
+                FILE O - -
+               CHMOD X - -
+             DEFAULT - X -
+               UMASK - O O
+                THAT - - O
+        /ETC/PROFILE - - X
+                 ALL - - X

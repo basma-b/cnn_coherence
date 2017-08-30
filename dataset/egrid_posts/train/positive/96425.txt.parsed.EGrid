@@ -1,0 +1,17 @@
+              OUTPUT O - -
+             COMMAND S - -
+               CHMOD X - -
+         PERMISSIONS X - -
+         /MEDIA/HDB1 X S -
+                FILE X - -
+              SYSTEM X - -
+                SUDO - S -
+              UMOUNT - X -
+           /DEV/HDB1 - X -
+            UID=1000 - X -
+                 ONE - O -
+            ANYTHING - O -
+                  FS - X -
+             SUPPORT - X -
+                NTFS - X -
+               THATS - - S

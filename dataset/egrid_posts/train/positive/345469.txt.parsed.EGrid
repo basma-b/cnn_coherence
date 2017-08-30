@@ -1,0 +1,12 @@
+             COMMAND X X O
+              DIALOG X X -
+                 BOX O X -
+            TERMINAL X - -
+                THAT - O -
+                 RUN - X -
+                TYPE - X -
+                   < - X -
+                 ALT - X -
+                   > - X -
+                  F2 - O S
+                BIND - - O

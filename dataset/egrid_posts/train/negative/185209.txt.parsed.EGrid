@@ -1,0 +1,8 @@
+               CHECK X - -
+               ERROR O - -
+                DONT - - X
+                USER - - O
+               ADMIN - - X
+               GROUP - - X
+                ROOT - - X
+             COMMAND - - X

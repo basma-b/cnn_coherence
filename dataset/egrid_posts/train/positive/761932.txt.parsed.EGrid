@@ -1,0 +1,17 @@
+               LINUX X - - S - -
+            PAGESIZE O O - - - -
+              MEMORY - - O - - -
+                 YES - - - X - -
+                PAGE - - - X X -
+                FILE - - - O - -
+             WINDOWS - - - S - -
+                SWAP - - - - X -
+           PARTITION - - - - O -
+            TERMINAL - - - - O -
+                TYPE - - - - X -
+              SWAPON - - - - X -
+                  -S - - - - O -
+             SUMMARY - - - - O -
+                SIZE - - - - O -
+               USAGE - - - - O -
+                INFO - - - - O -

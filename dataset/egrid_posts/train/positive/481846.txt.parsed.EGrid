@@ -1,0 +1,20 @@
+                 GUY X - - - - - - - - - - -
+              DEVICE - S - - - - - - - - - -
+               ERROR - O - - - - - - - - - -
+           SOUNDCARD - - - X - - - - - S - -
+            BUILT-IN - - - - O - - - - - - -
+               WHICH - - - - X - - - - - - -
+          PULSEAUDIO - - - - - X - - X - - -
+            REDIRECT - - - - - X - - - - - -
+               HOWTO - - - - - - O - - - - -
+               NIGHT - - - - - - X - - - - -
+                HTTP - - - - - - X - - - - -
+           SOMETHING - - - - - - X - - - - -
+          ALSASYSTEM - - - - - - - O - - - -
+              REBOOT - - - - - - - X - - - -
+                SUDO - - - - - - - - - X - -
+/ETC/INIT.D/ALSA-UTILS - - - - - - - - - X - -
+                   > - - - - - - - - - S - -
+             PROGRAM - - - - - - - - - O - -
+                   ^ - - - - - - - - - X - -
+             PROBLEM - - - - - - - - - O - -

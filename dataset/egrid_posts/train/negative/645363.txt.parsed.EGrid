@@ -1,0 +1,15 @@
+               INDUS X - - - -
+           PARAMETER O - - - -
+ GRUB_CMDLINE_LINUX= - O - - -
+     GFXPAYLOAD=TRUE - S - - -
+              UBUNTU - O - - -
+                PLAY - S - - -
+       VISTA/WINDOWS - X - - -
+                FILE - X - - X
+               SHARE - X - - -
+             WINDOWS - S - - -
+         FILEBROWSER - - - O -
+             PICTURE - - - S -
+          OPERATIONS - - - - O
+              PHOTOS - - - - O
+             SUCCESS - - - - X

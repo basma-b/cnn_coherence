@@ -1,0 +1,9 @@
+        X-FORWARDING X - - - - - -
+                USER X - - X - - -
+           OTHERUSER - - X - - - -
+               X-APP - - O - - - -
+          CONNECTION - - S X - - -
+      AUTHENTICATION - - X - - - -
+              KILNUX - - - - - O -
+                 BOX - - - - - - O
+             PASWORD - - - - - - O

@@ -1,0 +1,17 @@
+                 NSS X X X
+              CRYPTO X X -
+               CHECK - X -
+                  .. - X -
+           CONFIGURE - X -
+               ERROR - X -
+           LIBRARIES - O -
+              LIBNSS - X -
+              UBUNTU - S -
+             COOLKEY - - O
+                 CAC - - X
+                CARD - - O
+               LINUX - - X
+              ANSWER - - S
+         MOZILLA-NSS - - X
+              SOURCE - - O
+        CONFIGURE.IN - - X

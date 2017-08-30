@@ -1,0 +1,11 @@
+             CRONJOB X - - - - -
+        /ETC/CRONTAB X - - - - -
+          CRON.DAILY - X - - - -
+             FOLDERS - S - - - -
+                CRON - O - - - -
+                SUDO - - X - - -
+             CRONTAB - - S - - -
+                THAT - - - O - -
+                FILE - - - - X -
+     /VAR/SPOOL/CRON - - - - X -
+              REBOOT - - - - - X

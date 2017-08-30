@@ -1,0 +1,10 @@
+                THAT O - - - -
+               CODEC - X O - -
+            SIGMATEL - - O - -
+                WORK - - O - -
+              ANALOG - - X - -
+             DEVICES - - S - -
+              AD1981 - - X - -
+             REALTEK - - S - -
+WITH-CARD-OPTIONS=HDA-CODEC-ANALOG - - O - -
+WITH-CARDS=HDA-INTEL - - - - X

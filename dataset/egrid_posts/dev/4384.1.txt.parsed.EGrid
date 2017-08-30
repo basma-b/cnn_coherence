@@ -1,0 +1,17 @@
+                WORK X - - X
+           PARTITION X X - -
+                SUDO X - - -
+         UPDATE-GRUB X - - -
+        GRUB-INSTALL X - - -
+            /DEV/SDA S - - -
+                  HD X - - -
+                 SDA X - - -
+                  OK O - - -
+                  .. O - - -
+             CORRECT X - - -
+               FLASH X X - -
+               DRIVE S S - -
+              INSERT O O - -
+                BOOT - X - -
+                 IDE - X - -
+       POSSIBILITIES - S - -

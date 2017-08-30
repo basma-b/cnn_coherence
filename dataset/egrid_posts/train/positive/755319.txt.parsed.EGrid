@@ -1,0 +1,18 @@
+         GCONFTOOL-2 O - - - -
+              DIRECT S - - - -
+                 XML X - - - -
+           READWRITE X - - - -
+/ETC/GCONF/GCONF.XML.MANDATORY X - - - -
+                TYPE X - - - -
+              STRING X - - - -
+/USR/SHARE/BACKGROUNDS/WARTY-FINAL-UBUNTU.PNG X - - - -
+             COMMAND X - - - -
+               NOONE X - - - -
+               ADMIN X - - - -
+           WALLPAPER O - - - -
+                THIS O - - - -
+              ANYONE X - - - -
+                THAT - X - - -
+             VERSION - X - - -
+              UBUNTU - X - - -
+                9.10 - - - - X

@@ -1,0 +1,24 @@
+               ERROR - X O O - -
+             POSTFIX - - O - - -
+               -RSB- - - S X - -
+                 LOG - - O - - -
+                 MAR - - - X - -
+       BACKUP-SERVER - - - X - -
+               FATAL - - - X - -
+/ETC/POSTFIX/MASTER.CF - - - X - -
+                LINE - - - O - -
+           TRANSPORT - - - X - -
+                TYPE - - - X - -
+              CONFIG - - - S - -
+               FIELD - - - X - -
+               VALUE - - - X - -
+                   S - - - X - -
+             EXAMPLE - - - - X -
+                 ATI - - - - X -
+             DRIVERS - - - - S -
+            HARDWARE - - - - X -
+             MANAGER - - - - O -
+                   X - - - - O -
+              BINARY - - - - - O
+              JAUNTY - - - - - S
+               STUFF - - - - - O

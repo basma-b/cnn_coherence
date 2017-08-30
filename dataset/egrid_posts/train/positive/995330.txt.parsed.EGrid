@@ -1,0 +1,17 @@
+            SOMEBODY X - -
+            TUTORIAL O - -
+         DEVELOPMENT X - -
+             HEADERS O - -
+             GNOME.H X - -
+             GLIDE.H X - -
+             PACKAGE - S -
+                COPY - O -
+        DEPENDENCIES - S -
+                DPKG - X -
+                  -S - X -
+                   < - S -
+                FILE - S -
+                   > - S -
+                 GUI - - O
+                   U - - S
+               PUTTY - - X

@@ -1,0 +1,13 @@
+  DO-RELEASE-UPGRADE O - S X - -
+        DIST-UPGRADE O - - - - -
+             UPGRADE X - X - - -
+              THINGS - - O - - -
+             PACKAGE - - X - - -
+      UPDATE-MANAGER - - - O - -
+             RELEASE - - - X - -
+                NEXT - - - X - -
+             DEFAULT - - - - - S
+        REPOSITORIES - - - - - X
+             WHATNOT - - - - - X
+               STUFF - - - - - X
+              INSTAL - - - - - O

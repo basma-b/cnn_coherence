@@ -1,0 +1,12 @@
+               WLAN0 O - O - -
+           INTERFACE X - X - -
+         WLAN0=WLAN0 O - - - -
+            IFCONFIG - - X - -
+                NAME - - X - -
+         INSTALATION - - O - -
+               ALIAS - - O - -
+                FILE - - X - -
+              DETAIL - - X - -
+                  .. - - O - -
+         SHFIT-CTL-T - - - - O
+                 ONE - - - - O

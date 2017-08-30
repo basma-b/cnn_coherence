@@ -1,0 +1,17 @@
+                   $ O - - - -
+               ALIAS S - - - -
+                GREP X - - - -
+                  -V S - - - -
+                   ~ X - - - -
+              DEVICE S - - - -
+             TUNE2FS - S - - -
+               LABEL - X - - -
+          FILESYSTEM - O - - -
+              FORMAT - X - - -
+                  -L - X - - -
+                 GAH - X - - -
+                   * - S - - -
+               CHECK - - S - -
+           BACKPORTS - - O - -
+              SEARCH - - - - O
+ PACKAGES.DEBIAN.ORG - - - - X

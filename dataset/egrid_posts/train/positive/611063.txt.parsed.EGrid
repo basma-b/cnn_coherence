@@ -1,0 +1,15 @@
+             PACKAGE O - - - - -
+              SOURCE X - - - - -
+            SYNAPTIC X - - - - -
+         ./CONFIGURE - S - - - -
+              DEPEND - - S - - -
+             SATISFY - - O - - -
+             COMMAND - - - X - -
+                 DEB - - - S - -
+        UNINSTALLING - - - X - -
+                 LTS - - - O - -
+                EDGE - - - O - O
+                  HA - - - - S -
+                THAT - - - - - X
+              FEDORA - - - - - O
+              MONTHS - - - - - O

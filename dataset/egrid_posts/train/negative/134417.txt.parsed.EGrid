@@ -1,0 +1,17 @@
+             COMMAND S - - - - - - - -
+                SUDO X - - - - - - - -
+              SYSTEM - - X - - - - - -
+                USER - - X X - - - - -
+             INSTALL - - - X - - - - -
+            SYNAPTIC - - - - O - - - -
+             SYSTEM- - - - - X - - - -
+                   > - - - - X - O - -
+              ADMIN- - - - - X - - - -
+             NOTHING - - - - - X - - -
+                FILE - - - - - - S - -
+              .GNUPG - - - - - - X - -
+         OWNER/GROUP - - - - - - O - -
+                   < - - - - - - X - -
+           YOURGROUP - - - - - - - X -
+            SOMEBODY - - - - - - - S -
+                   \ - - - - - - - - X

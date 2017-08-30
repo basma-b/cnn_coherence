@@ -1,0 +1,13 @@
+                 DIR X - -
+              ACCESS S - -
+                SUDO X X -
+                  RM X - -
+             DIRNAME X - -
+                ROOT X - -
+                   + X - -
+             APT-GET - S -
+        CPUFREQUTILS - O -
+             COMMAND - O -
+              ANYONE - - S
+              SERIES - - X
+                CARD - - O

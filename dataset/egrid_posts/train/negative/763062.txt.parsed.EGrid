@@ -1,0 +1,13 @@
+   CPUFREQ_USERSPACE O - - - -
+               10.10 X - - - -
+              MODULE O - - - -
+           CPUPOWERD X - - - -
+             PACKAGE X O - - -
+              ANYONE S - - - -
+               THERE - S - - -
+                RAID - - - X -
+                 USE - - - - X
+             NETWORK - - - - O
+               RSYNC - - - - O
+           POWERNOWD - - - - O
+              LAPTOP - - - - X

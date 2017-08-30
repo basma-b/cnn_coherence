@@ -1,0 +1,12 @@
+                ROOT S - - - -
+                FILE O - - - -
+              SCRIPT O - - - -
+                SUDO X - - - -
+             CRONTAB X - - - -
+          PERMISSION O - - - -
+              DRIVER - - - O -
+                 NEW - - - X -
+              METHOD - - - - O
+                 ATI - - - - X
+           INSTALLER - - - - X
+                  .. - - - - O

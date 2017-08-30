@@ -1,0 +1,9 @@
+             COMMAND X - - -
+/SYS/CLASS/GPIO/EXPORT X S - -
+                   > - S - -
+               PRINT - S - -
+              SCREEN - X - -
+                FILE - O - -
+                 PIN - O - -
+                MEAN - O - -
+              UBUNTU - - - X

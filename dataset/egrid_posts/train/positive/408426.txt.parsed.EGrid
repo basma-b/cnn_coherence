@@ -1,0 +1,17 @@
+               LEVEL O - - - - - - -
+               ACPID X - S - - - - -
+              SYSLOG X - - X - - - X
+                FILE O - - - - - - -
+                  -D O - - - - - - -
+             OPTIONS X - - - - - - -
+            VARIABLE X - - - - - - -
+   /ETC/INIT.D/ACPID - O - - - - - -
+                 LOG - O - - - - - -
+       STDOUT/STDERR - X - - - - - -
+            DOCUMENT - X - - - - - -
+             FEATURE - X - - - - - -
+               THESE - - O - - - - -
+      /VAR/LOG/ACPID - - X - - - - -
+              OPTION - - - S - - - -
+                   > - - - X - - - -
+             MESSAGE - - - - - - - O

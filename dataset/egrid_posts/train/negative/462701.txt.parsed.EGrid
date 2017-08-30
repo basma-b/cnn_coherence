@@ -1,0 +1,13 @@
+                BOOT X - - - - -
+              LIVECD X - - - - -
+               PROMT X - - - - -
+              KERNEL X - S - - -
+              ANYONE - X - - - -
+ROOT=UUID=8F249E8E-18A7-467B-860E-D8EB245FE03D - - X - - -
+                PART - - X - - -
+                THAT - - - X - -
+                DISC - - - X - -
+              DEVICE - - - - X -
+                PATH - - - - O -
+      ROOT=/DEV/SDA1 - - - - X -
+               AMD64 - - - - - X

@@ -1,0 +1,23 @@
+            SOFTWARE O - X - -
+                AREA X - - - -
+             NETWORK O O - - -
+             DEVICES O - - - -
+              LOGGIN X - - - -
+                  IP O - - - -
+             MACHINE X - - - -
+                NAME S - - - -
+            TERMINAL X - - - -
+              SEARCH X - - - -
+                   | X - - - -
+               EGREP X - - - -
+ANALYZE|ROUTING|MACHINE|DETECT|DEVICE X - - - -
+             COMMAND O O - - -
+        REPOSITORIES O - - - -
+            PEDANTIC O - - - -
+                WORD X - - - -
+               MATCH O - - - -
+                THAT - S - - -
+                HINT - - X - -
+/ETC/INIT.D/SETSERIAL - - - - S
+                BASE - - - - O
+                  .. - - - - X

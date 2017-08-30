@@ -1,0 +1,7 @@
+         NDISWRAPPER O - -
+                 USE - O -
+              DRIVER - X -
+                 LTS - X -
+                BOOT - - X
+              OPTION - - O
+      ACPI_OSI=LINUX - - X

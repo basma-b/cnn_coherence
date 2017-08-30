@@ -1,0 +1,25 @@
+             PROCESS S - S - - -
+            ANYTHING O - - - - -
+             NETWORK X - - - - -
+             TCPDUMP - S - - - -
+                LINE - X - - - -
+           SIG_BLOCK - X - - - -
+                NULL - X - - - -
+               -LSB- - X - - - -
+               -RSB- - S - - - -
+              STRACE - - X - - -
+                MASK - - X - - -
+                 WAY - - O - - -
+             PACKAGE - - O - - -
+                 CAT - - - S - -
+       /PROC/CPUINFO - - - S - -
+                 CPU - - - O - -
+                LSHW - - - - S -
+                 ONE - - - - O -
+               SOUND - - - - X -
+//PASTEBIN.UBUNTU.COM/71112/ - - - - S -
+                THAT - - - - - X
+             DEFAULT - - - - - X
+              UBUNTU - - - - - X
+              KERNEL - - - - - X
+             VERSION - - - - - X

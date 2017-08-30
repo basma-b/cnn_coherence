@@ -1,0 +1,10 @@
+              WINDOW X - -
+             MANAGER S - -
+                  PS - X -
+                   | - X -
+               EGREP - X -
+UNITY|METACITY|KWIN|OPENBOX - S -
+              MUTTER - O -
+              COMPIZ - O -
+                 ETC - O -
+                IDEA - - O

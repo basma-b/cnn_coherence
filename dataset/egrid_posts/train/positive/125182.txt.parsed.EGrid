@@ -1,0 +1,9 @@
+                ROOT S -
+              JAMMIN O -
+/HOME/FEK/TEMP/WAM-NSMW.ISO O -
+                LOOP X -
+           DIRECTORY X O
+               MKDIR X -
+           /MNT/TEMP O X
+              COURSE X -
+                   * - S

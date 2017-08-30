@@ -1,0 +1,15 @@
+             DEFAULT X - - - -
+                TEXT X - - - -
+                MODE X - - - -
+                   X X - - - -
+               START X - - - -
+             OPTIONS - X X - -
+                NOFB - O - - -
+            NOSPLASH - - S - -
+            PLYMOUTH - - O - -
+            GRAPHICS - - O - -
+         REQUIREMENT - - - - S
+                SIZE - - - - X
+               DRIVE - - - - X
+               LIMIT - - - - X
+              FACTOR - - - - O

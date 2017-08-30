@@ -1,0 +1,16 @@
+             POSTFIX O - - -
+      SPAMASS-MILTER O - - -
+                UNIX X - - -
+/VAR/RUN/SENDMAIL/SPAMASS.SOCK X - - -
+                FILE S - - -
+           DIRECTORY X - - -
+             PSOTFIX S - - -
+                 INA X - - -
+              CHROOT S X - X
+                ROOT X - X -
+              DEGREE - - X -
+                 MTA - - S -
+                 ANY - - - O
+           MASTER.CF - - - S
+                   Y - - - S
+             NOTHING - - - O

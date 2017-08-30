@@ -1,0 +1,14 @@
+             PROGRAM S - - - - -
+             LIBRARY S - X - - -
+            FOO.SO.0 X O - - - -
+           DIRECTORY - X X - - -
+               ERROR - O - - - -
+               ./FOO - X - - - -
+                LOAD - X - - - -
+               SHARE - X - - - -
+           LIBRARIES - S - - - -
+              OBJECT - X - - - -
+                FILE - O - - - -
+            QUESTION - - X - - -
+                PATH - - X O - -
+               FLASH - - - - - O

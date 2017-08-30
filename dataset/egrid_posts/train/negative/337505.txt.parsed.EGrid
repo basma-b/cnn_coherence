@@ -1,0 +1,12 @@
+            SYNAPTIC S - - -
+               BREAK O - - -
+             PRINTER S - - -
+                FILE O - - -
+                SUDO - X - S
+             APT-GET - X - -
+                  -F - S - -
+             PACKAGE - X - X
+                NEED - O - -
+                HOLD - - - O
+                NAME - - - X
+                   > - - - O

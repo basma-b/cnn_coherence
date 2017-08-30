@@ -1,0 +1,16 @@
+       CONFIGURATION X - -
+                BOOT X X -
+       NETWORKCONFIG - O -
+/ETC/NETWORK/INTERFACES - X -
+                CANT - S -
+               START - O -
+                  IP - X -
+                WIRE - X -
+           INTERFACE - X -
+               RAID0 - - S
+               DRIVE - - X
+                 DIE - - X
+          EVERYTHING - - O
+               FAULT - - X
+            TOLERANT - - O
+                 WAY - - X

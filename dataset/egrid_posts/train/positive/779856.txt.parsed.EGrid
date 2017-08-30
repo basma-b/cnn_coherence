@@ -1,0 +1,17 @@
+             PACKAGE O - - - - -
+           HIERARCHY X - - - - -
+                DISK - X - - - -
+               SPACE - O - - - -
+                   / - X - - - -
+                 MAN - S - - - X
+                NEWS - O - - - -
+             APT-GET - - S - - -
+                   % - - O - - -
+                THIS - - X - - -
+              DISTRO - - S - - -
+             PROGRAM - - X - - -
+                HTTP - - X - - -
+           T=1050570 - - - X - -
+             INSTDIR - - - - O -
+                DPKG - - - - X -
+             OPTIONS - - - - X -

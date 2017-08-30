@@ -1,0 +1,11 @@
+             ADDRESS X X - -
+           INTERFACE X X - -
+                BOOT X - - -
+              ETH0:1 X - - -
+                ETH0 - O - -
+                 WAY - X - -
+                 USE - X - -
+                FILE - - - S
+               CHMOD - - - X
+                 G+W - - - S
+            FILE2… - - - O

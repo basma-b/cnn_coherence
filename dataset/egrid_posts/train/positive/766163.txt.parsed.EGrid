@@ -1,0 +1,13 @@
+/ETC/NETWORK/INTERFACES X - - - - - -
+           DHCLIENT3 X - - - - - -
+               WLAN0 X - - - - - -
+               STUFF X - - - - - -
+           DEPRECATE - X - - - - -
+             NETWORK - - - X - - X
+            SOFTWARE - - - X S - -
+             MANAGER - - - X - - S
+           SOMETHING - - - X - - -
+                 YES - - - - - - X
+             DEFAULT - - - - - - X
+          INTERFACES - - - - - - X
+                FILE - - - - - - O

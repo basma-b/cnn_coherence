@@ -1,0 +1,16 @@
+             SOMEONE X - - -
+              SYSTEM S - - -
+               BLOCK X - - -
+             NETWORK X - - -
+         CONNECTIONS O - - -
+                TAIL - X X -
+      /VAR/LOG/DMESG - S - -
+                LINK - O - -
+              DUPLEX - X - -
+             CONTROL - X - -
+                  RX - X - -
+             MESSAGE - - S -
+     /VAR/LOG/SYSLOG - - O -
+              ROUTER - - - O
+          CONNECTION - - - S
+               RIGHT - - - O

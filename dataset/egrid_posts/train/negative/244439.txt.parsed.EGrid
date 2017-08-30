@@ -1,0 +1,17 @@
+GNOME-NETWORKMANAGER X - - -
+                LIBS O - - -
+          .CONFIGURE S - - -
+              ERRORS O - - -
+               ERROR O - - -
+/GNOME/LIBNM_GLIB/.LIBS/LIBNM_GLIB.SO X - - -
+           REFERENCE X - - -
+                   < X - - -
+               ISSUE S - - -
+           SOMETHING O - - -
+       LIBNM_GLIB.SO - X - -
+                PATH - X - -
+              DOESNT - - S -
+            VARIABLE - - S -
+             LIBRARY - - X -
+                   $ - - - X
+              OUTPUT - - - O

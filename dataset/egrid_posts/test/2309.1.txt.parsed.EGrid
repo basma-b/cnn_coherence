@@ -1,0 +1,16 @@
+                ROOT X X - - -
+           ERROR.LOG X X - - -
+              RETURN O O - - -
+           OWNERSHIP O O - - -
+                FILE X S X - X
+              SYSTEM X X - - S
+                 PLZ - X - - -
+            WRITABLE - - O - -
+          BACK-TRACK - - X - -
+               CHECK - - O - -
+          FILESYSTEM - - S - -
+             APACHE2 - - - - X
+              APACHE - - - - O
+               ERROR - - - - X
+                 LOG - - - - X
+/VAR/LOG/APACHE2/ERROR.LOG - - - - O

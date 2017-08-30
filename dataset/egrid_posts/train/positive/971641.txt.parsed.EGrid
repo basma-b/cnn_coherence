@@ -1,0 +1,28 @@
+               SOUND X - - - - - -
+             DRIVERS X - - - - - -
+                WHAT - X - - - - -
+               LSPCI - - X - - - -
+                  -I - - X - - - -
+               AUDIO - - S - - - -
+                 CAT - - X - - - -
+/PROC/ASOUND/MODULES - - S - - - -
+                TYPE - - O X - - -
+            TERMINAL - - X X - - -
+              OUTPUT - - X X - - -
+          MULTIMEDIA - - X - - - -
+          CONTROLLER - - X - - - -
+            CREATIVE - - X - - - -
+                LABS - - X - - - -
+                  SB - - X - - - -
+              AUDIGY - - X - - - -
+               HOARY - - O - - - -
+                LIVE - - O - - - -
+             DEFAULT - - X - - - -
+                THIS - - - X - - -
+             OPTIONS - - - X X - -
+                SUDO - - - X X - -
+                 TEE - - - X X - -
+/ETC/MODPROBE.D/ALSA-BASE - - - S X - -
+                  -A - - - - X - -
+              JUSTIN - - - - X - -
+                 NOW - - - - - - S

@@ -1,0 +1,7 @@
+    S/HARDY/INTREPID O - - -
+/ETC/APT/SOURCES.LIST X - - -
+        DIST-UPGRADE O - - -
+               WRONG - X - -
+             SESSION - - X -
+             MANAGER - - X -
+  /ETC/X11/XORG.CONF - - - X

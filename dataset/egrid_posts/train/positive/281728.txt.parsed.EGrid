@@ -1,0 +1,13 @@
+      LOG_DAEMON_MSG O - - - - -
+             CONSOLE X - - - - -
+             PACKAGE O - - - - -
+                INIT X - - - - -
+              THINGS S - - - - -
+               LOCAK X - - - - -
+       CONFIGURATION S - - - - -
+                SUDO X - - - - -
+             APT-GET S - - - - -
+               PURGE X - - - - -
+    APPLICATION-NAME O - - - - -
+                TYPE - X - - - -
+                 LOT - - O - - -

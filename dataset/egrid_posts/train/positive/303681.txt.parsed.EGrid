@@ -1,0 +1,23 @@
+           FREQUENCY X X - - -
+              UBUNTU - S S S -
+            NOTEBOOK - S S S -
+                PLUG - O X O -
+               SCALE - - O S -
+                 ONE - - X O -
+                   * - - - X -
+               THERE - - - S -
+                 CAT - - - X -
+/SYS/DEVICES/SYSTEM/CPU/CPU0/CPUFREQ/SCALING_MAX_FREQ - - - O -
+                 MAX - - - X -
+               VALUE - - - O -
+             PROBLEM - - - S -
+                 MIN - - - O -
+            ANYTHING - - - O -
+             WINDOWS - - - S -
+               USAGE - - - S -
+                 VOX - - - X -
+                LOOK - - - O -
+         PERFORMANCE - - - - X
+             BATTERY - - - - X
+/ETC/DEFAULT/ACPI-SUPPORT - - - - X
+ENABLE_LAPTOP_MODE=FALSE - - - - O

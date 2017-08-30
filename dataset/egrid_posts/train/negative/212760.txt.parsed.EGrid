@@ -1,0 +1,14 @@
+             PACKAGE S - -
+              CONFIG S - -
+                MODE X - -
+             APT-GET O - -
+             COMMAND - X -
+    DPKG-RECONFIGURE - X -
+         PACKAGENAME - O -
+                SHOW - - X
+                BOOT - - X
+                 ESC - - O
+               POINT - - X
+               THERE - - S
+             MESSAGE - - O
+              SCREEN - - X

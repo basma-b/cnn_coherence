@@ -1,0 +1,17 @@
+                NTFS X - - - - - - - S -
+                READ X - - - - - - - X -
+                MODE X - - - - - - - X -
+                  RW - - X - - - - - - -
+                  RX - - - - X - - - - -
+                FILE - - - - X X - - - -
+              FOOADD - - - - - X - - - -
+                  .. - - - - - O - - O -
+               THERE - - - - - S - - - -
+                 NFS - - - - - - - X O -
+               SHARE - - - - - - - O - -
+                 BOX - - - - - - - X - -
+              KERNEL - - - - - - - - X -
+                 OPS - - - - - - - - O -
+                 BAD - - - - - - - - S -
+                   P - - - - - - - - X -
+             PROBLEM - - - - - - - - - X

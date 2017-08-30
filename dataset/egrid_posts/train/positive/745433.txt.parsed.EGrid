@@ -1,0 +1,14 @@
+          BACKGROUND X - - -
+        DIST-UPGRADE O - - O
+              CONFIG X - - -
+                FILE O - - -
+          FOREGROUND - X - -
+                  FG - - S -
+             CURRENT - - X -
+                 JOB - - X -
+             PROCESS - - S X
+               THERE - - - S
+            LOCKFILE - - - O
+              ACCORD - - - X
+                  PS - - - X
+                 -EF - - - X

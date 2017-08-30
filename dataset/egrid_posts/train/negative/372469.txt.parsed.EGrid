@@ -1,0 +1,27 @@
+              ANYONE X - - - - - - - - - - -
+            IWCONFIG - O - - - - - X - O - -
+               WLAN0 - O O - - - - S S - - -
+           INTERFACE - - X - - - - - - - - -
+         WLAN0=WLAN0 - - O - - - - - - - - -
+              CONFIG - - - - X - - - - - - -
+                LINE - - - - X - - X - - - -
+/ETC/NETWORK/INTERFACES - - - - X - - X - - - -
+               THERE - - - - - X - - S - - -
+              SYNTAX - - - - - - X - - - - -
+             COMMAND - - - - - - - X - - - -
+                BLAH - - - - - - - O - - - -
+            EXAMPLES - - - - - - - O - - - -
+                 MAN - - - - - - - X - - - -
+          INTERFACES - - - - - - - X - - - -
+              NUMBER - - - - - - - O - - - -
+               ESSID - - - - - - - - O - - -
+            WIRELESS - - - - - - - - X - - -
+              ROUTER - - - - - - - - X - - -
+             PROBLEM - - - - - - - - O - - -
+                TYPE - - - - - - - - O - - -
+              ACCESS - - - - - - - - X - - -
+               POINT - - - - - - - - X - - -
+             ALRIGHT - - - - - - - - X - - -
+                 USE - - - - - - - - - X - -
+           THE_ESSID - - - - - - - - - X - -
+             NOTHING - - - - - - - - - O - -

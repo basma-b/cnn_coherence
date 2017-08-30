@@ -1,0 +1,8 @@
+           PARTITION S - - - - -
+                BOOT X - - - - -
+               WINXP - X - - - -
+                GRUB - X - - - -
+                MENU - X - - - -
+ /BOOT/GRUB/MENU.LST - - - X - -
+              OUTPUT - - - X - -
+               WHATS - - - - X -

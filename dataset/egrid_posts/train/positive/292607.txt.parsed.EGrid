@@ -1,0 +1,15 @@
+           PARTITION O - - - - -
+              BOOTUP X - - - - -
+               ENTRY - - X - - -
+                EXT3 - - - X - -
+                AUTO - - - X - -
+                USER - - - S - -
+               POINT - - - X - -
+            WRITABLE - - - O - -
+                ROOT - - - - X -
+                  .. - - - - X -
+               MUSIC - - - - X -
+                THAT - - - - - S
+             PROBLEM - - - - - O
+          PERMISSION - - - - - O
+               USERS - - - - - X

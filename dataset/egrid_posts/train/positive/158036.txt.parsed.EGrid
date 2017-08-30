@@ -1,0 +1,27 @@
+                 HUH - X - - - - - - - - - - - -
+                LINE - - O - - - - - - - - - - -
+ DEFOPTIONS=NOSPLASH - - X - - - - - - - - - - -
+              SPLASH - - - X - - - - - - - - - -
+          DEFOPTIONS - - - X - - - - - - - - - -
+             PROBLEM - - - O - - - - - - - - - -
+                GRUB - - - - S - - - - - - X - -
+                BIOS - - - - - X - - - - - - - X
+             TIMEOUT - - - - - O - - - - - - - -
+                 ALL - - - - - - X - - - - - - -
+              SCREEN - - - - - - X - - - - - - -
+               BLINK - - - - - - X - - - - - - -
+           CHARACTER - - - - - - O - - - - - - -
+                THAT - - - - - - - X - - - S - -
+               LINUX - - - - - - - S - - - - - -
+             WINDOWS - - - - - - - S - - - X - -
+                YEAH - - - - - - - - - - X - - -
+               ANYWA - - - - - - - - - - X - - -
+           PARTITION - - - - - - - - - - - O - -
+                BOOT - - - - - - - - - - - X - -
+                  CD - - - - - - - - - - - O - -
+                   / - - - - - - - - - - - X - -
+           REINSTALL - - - - - - - - - - - X - -
+                PART - - - - - - - - - - - O - -
+            /DEV/HDA - - - - - - - - - - - - - X
+/DEV/MAPPER/CASPER-SNAPSHOT - - - - - - - - - - - - - S
+               DRIVE - - - - - - - - - - - - - O

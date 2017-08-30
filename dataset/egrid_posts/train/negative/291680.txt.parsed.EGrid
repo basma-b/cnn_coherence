@@ -1,0 +1,8 @@
+                 RUN X - -
+              DEVICE X - -
+                BOOT X - -
+             TUNE2FS - O -
+           FREQUENCY - O -
+               CHECK - X -
+               FSTAB - O -
+                  NO - - X

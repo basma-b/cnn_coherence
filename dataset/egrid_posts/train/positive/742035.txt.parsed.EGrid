@@ -1,0 +1,7 @@
+             MPLAYER X - -
+               INPUT S - -
+            MENCODER S - -
+                FIFO X - S
+                  .. O - -
+              PLAYER O - -
+                GIST - - O

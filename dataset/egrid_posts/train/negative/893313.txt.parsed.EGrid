@@ -1,0 +1,31 @@
+               SETUP X - - - - - - - - -
+                AUTH O - - - - - - - - -
+                 KEY X O - - - - - - - -
+              CLIENT X - - - - - - - - -
+              SERVER X X - - - - - - - -
+                PAIR - O - - - - - - - -
+     AUTHORIZED_KEYS - X - - - - - - - -
+            PASSWORD - X - - - - - - - -
+              CENTOS - - X - - - X - - -
+               THERE - - X - - - - - - -
+               ISSUE - - X - - - - - - -
+             VERSION - - X - - - - - - -
+         COMBINATION - - X - - - - - - -
+                 LOT - - - O - - - - - -
+              THINGS - - - X - - - - - -
+       OPENSSH_5.3P1 - - - - O - - - - -
+             OPENSSL - - - - S - - - - -
+                 MAR - - - - O - - - - -
+   RSAAUTHENTICATION - - - - O - - - - -
+PUBKEYAUTHENTICATION - - - - X - - - - -
+  AUTHORIZEDKEYSFILE - - - - X - - - - -
+.SSH/AUTHORIZED_KEYS - - - - X - - - - -
+              TARGET - - - - X - - - - -
+              DAEMON - - - - - O - - - -
+         PERMISSIONS - - - - - - S - - -
+           SSHD.CONF - - - - - - S - - -
+             NOTHING - - - - - - O - - -
+                PATH - - - - - - X - - -
+                   D - - - - - - - X - -
+                BOOT - - - - - - - - X -
+               MACOS - - - - - - - - X -

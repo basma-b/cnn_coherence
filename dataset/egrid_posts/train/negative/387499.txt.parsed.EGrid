@@ -1,0 +1,11 @@
+             PROGRAM X - - - -
+                BOOT X - - - -
+                STOP - O - - -
+    /ETC/INIT.D/BLAH - X - - -
+              SYSTEM - - X - -
+                   > - - X - -
+               ADMIN - - X - -
+            SERVICES - - X - -
+           LIBC6-DEV - - - O -
+                 WAY - - - - S
+               STUFF - - - - O

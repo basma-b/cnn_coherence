@@ -1,0 +1,16 @@
+             MODULES X O -
+                BOOT X - -
+                LINE X - -
+           DETECTION X - -
+               ORDER - X -
+                LIST - S -
+/ETC/INITRAMFS-TOOLS/MODULES - X -
+                TYPE - X -
+                SUDO - X -
+    UPDATE-INITRAMFS - O -
+                  » - X -
+              MODULE - S -
+                CHIP - X S
+                MODE - - O
+                BIOS - - X
+          COMPATIBLE - - O

@@ -1,0 +1,12 @@
+              SYSTEM S - - -
+                WORK X - - -
+                GRUB X - X -
+                BOOT X - - -
+              FOLLOW S - - -
+                WAIT X - - -
+                ROOT X - - -
+              DEVICE X - - -
+              KERNEL - O X -
+    ROOT=UUID=XXXXXX - X - -
+           PARAMETER - - X -
+              PROMPT - - - O

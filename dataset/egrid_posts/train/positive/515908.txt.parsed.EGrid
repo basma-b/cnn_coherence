@@ -1,0 +1,9 @@
+               PROXY S X X -
+              SERVER O - S X
+              CLIENT S - S -
+                 ONE X - - -
+            HUNDREDS O - - -
+             PROXIES X - - -
+             SERVERS - - S -
+                THIS - - - X
+            SOFTWARE - - - X

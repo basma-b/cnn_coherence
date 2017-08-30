@@ -1,0 +1,18 @@
+ SECURITY.UBUNTU.COM X - - - - - -
+             PROBLEM - O - - - - -
+             UPGRADE - X - - - - -
+               LINUX - - X - - - -
+                UNIX - - X - - - -
+            ANCESTRY - - X - - - -
+           EVERTHING - - S - - - -
+                FILE - - O X X - -
+                /DEV - - - S - - -
+                  DD - - - - - X -
+COUNT=PARTITION_SIZE_IN_MIB - - - - - O -
+        IF=/DEV/SDA1 - - - - - S -
+           PARTITION - - - - - X -
+                SIZE - - - - - S -
+                SUDO - - - - - X -
+      /DEV/HDDDEVICE - - - - - X -
+              RESIZE - - - - - - X
+               50GIB - - - - - - X

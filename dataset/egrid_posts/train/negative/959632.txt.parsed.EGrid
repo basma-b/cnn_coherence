@@ -1,0 +1,11 @@
+        GRUB-INSTALL S S X - -
+                 HD0 X - - - -
+               ERROR - O - X -
+              UBUNTU - - O - -
+           INSTALLER - - - X -
+            /DEV/HDA - - - X -
+               HD0,0 - - - S -
+           PARTITION - - - O -
+                GRUB - - - O -
+                HELP - - - - O
+           SPECIFICS - - - - X

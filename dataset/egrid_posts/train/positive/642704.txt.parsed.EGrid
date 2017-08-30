@@ -1,0 +1,7 @@
+     /SOME/DIRECTORY - - O - O -
+               MOUNT - - - - S X
+           /DEV/SDB1 - - - - - S
+              DEVICE - - - - - X
+                DISK - - - - - O
+               FDISK - - - - - X
+                  -L - - - - - X

@@ -1,0 +1,11 @@
+                ROOT O X - -
+              PASSWD - O - -
+                BOOT - X - -
+                  CD - X - -
+                FILE - X - X
+              SYSTEM - O - -
+         PERMISSIONS - O - -
+                 WAY - X - -
+             LIBRARY - - - X
+                   * - - - O
+             RELEASE - - - X

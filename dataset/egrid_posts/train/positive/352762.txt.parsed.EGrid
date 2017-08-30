@@ -1,0 +1,13 @@
+              BACKUP O X -
+       SIMPLE-BACKUP X - -
+             MESSAGE O X -
+              DAEMON X X -
+                EXIT X X -
+                  .. X - -
+             PROCESS O S -
+                   E - X -
+                 PID - S -
+                  PS - X -
+                  -X - S -
+                   / - X -
+             COMMAND - - X

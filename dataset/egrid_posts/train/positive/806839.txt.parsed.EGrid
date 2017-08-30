@@ -1,0 +1,26 @@
+                 RSA X - - - - - - - - - - - -
+                HOST X - - - - - - - - O - - -
+                 KEY O - - - - - - - - - - - -
+       UBUNTU-SERVER X - - - - - - - - - - - -
+           COMPUTERS X - - - - - - - - - - - -
+              SERVER - X - - - - - - - - - - -
+            PROTOCOL - - X - - - - - - - - - -
+                 SSH - - - - X - - - - - - S -
+  ~/.SSH/KNOWN_HOSTS - - - - - O - - - - - - -
+           SOMETHING - - - - - O - - - - - - -
+                FILE - - - - - X - - - - - - -
+              CLIENT - - - - - X - X - X - X -
+                  ~/ - - - - - X - - - - - - -
+                USER - - - - - X - S - S - X -
+         CONNECTIONS - - - - - - - O - - - - -
+                THAT - - - - - - - - S X - - -
+               LOGIN - - - - - - - - X - - - -
+             DISABLE - - - - - - - - O - - - -
+                SSHD - - - - - - - - X - - - -
+                  PC - - - - - - - - - X - - -
+                 EC2 - - - - - - - - - - X - -
+            COMPTUER - - - - - - - - - - X - -
+                SUDO - - - - - - - - - - - X -
+             SERVICE - - - - - - - - - - - X -
+                  NO - - - - - - - - - - - - X
+PASSWORDAUTHENTICATION - - - - - - - - - - - - X

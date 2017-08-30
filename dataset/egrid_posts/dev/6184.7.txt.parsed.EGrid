@@ -1,0 +1,17 @@
+                NTFS S - -
+               FSTAB X - -
+               BREAK O - -
+               ENTRY - O -
+               ERROR - O -
+                BOOT - X -
+                AUTO - X -
+               USERS - X -
+               UID=0 - S -
+                UUID - O -
+                SUDO - X -
+               BLKID - X -
+             EFFECTS - - X
+                MENU - - X
+                OPEN - - X
+                LOOK - - X
+           NEVERMIND - - X

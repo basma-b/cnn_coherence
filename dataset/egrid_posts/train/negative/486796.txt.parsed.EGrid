@@ -1,0 +1,23 @@
+                  RE X - - - -
+             ATHEROS X X - - -
+            WIFICARD X - - - -
+                WORK O - - - -
+              LAPTOP X - - - -
+               LSPCI - S - - -
+          CONTROLLER - O - - -
+      COMMUNICATIONS - X - - -
+                INC. - S - - -
+            WIRELESS - X - - -
+                 PCI - X - - -
+             EXPRESS - X - - -
+             ADAPTER - O - - -
+                LIST - - - - S
+              DRIVER - - - - X
+                   / - - - - X
+          RESOLUTION - - - - X
+            QUESTION - - - - X
+                SUDO - - - - X
+             APT-GET - - - - S
+XSERVER-XORG-VIDEO-INTEL - - - - O
+            ANYTHING - - - - O
+                 NOW - - - - X

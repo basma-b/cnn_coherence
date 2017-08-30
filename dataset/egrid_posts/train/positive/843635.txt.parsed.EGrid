@@ -1,0 +1,14 @@
+             CONTROL X - - - -
+           DIRECTORY X - S - S
+                  .. - X - - -
+                 .IF - S - - -
+               CHMOD - O - - -
+                USER - X - - -
+               GROUP - X - - -
+               RIGHT - O - - -
+         PERMISSIONS - - X - X
+           DOWNLOADS - - - - X
+             DEFAULT - - - - X
+            DIRECOTY - - - - O
+                SUDO - - - - X
+                  CP - - - - O

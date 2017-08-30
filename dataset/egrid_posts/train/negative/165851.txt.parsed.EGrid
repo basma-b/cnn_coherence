@@ -1,0 +1,13 @@
+             ADDTYPE X - - - - - -
+APPLICATION/X-HTTPD-PHP S - - - - - -
+            ANYTHING O - - - - - -
+                HOSE X - - - - - -
+              CONFIG X - - X - - -
+                FILE O - - O - - -
+               POINT - X - - - - -
+             APACHE2 - - - X - - -
+                PHP5 - - - X - - -
+             PACKAGE - - - O - - -
+             VERSION - - - - - - X
+                THIS - - - - - - S
+         XORG-SERVER - - - - - - X

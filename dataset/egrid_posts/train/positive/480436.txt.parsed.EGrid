@@ -1,0 +1,21 @@
+              FOLDER O - - - - - O - - -
+             NETWORK X - - - - - - - - -
+           USERSHARE X O - - - - - - - -
+              RETURN X - - - - - - - - -
+               ERROR S X - - - - - O - -
+           DIRECTORY X - - - - - - - - -
+/VAR/LIB/SAMBA/USERSHARES O - - - - - - - - -
+          PERMISSION - S - - - - - - - -
+               SHARE - - O - - - - - - -
+       ADMINISTRATOR - - O - - - - - - -
+         PERMISSIONS - - X - - - - - - -
+                HELP - - - - S - - - - -
+                 USE - - - - - X - - - -
+                 GUI - - - - - O - - - -
+                THIS - - - - - - O - - -
+            TERMINAL - - - - - - X - - -
+                SUDO - - - - - - O - - -
+            NAUTILIS - - - - - - O - - -
+                DONT - - - - - - - - - X
+              ACCESS - - - - - - - - - O
+            DIRECTOY - - - - - - - - - S

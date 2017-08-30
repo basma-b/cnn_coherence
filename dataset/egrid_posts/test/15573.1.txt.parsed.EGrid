@@ -1,0 +1,11 @@
+                THAT S - - - - -
+                  .. O - - - - -
+                PERM X - - - - -
+          -RWXR-XR-X O - - - - -
+               -BASH X - X - - -
+          PERMISSION S - S - - -
+           PARTITION X - - - - -
+              NOEXEC X - - - - -
+          ./TEST1.PY - - X - - -
+                OOPS - - - X - -
+                DANG - - - - - X

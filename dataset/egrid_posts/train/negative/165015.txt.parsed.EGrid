@@ -1,0 +1,14 @@
+              CONFIG O - - - - - -
+              KERNEL X - - - - - -
+                 GAH X - - - - - -
+  RESTRICTED-MODULES X - - - - - -
+                LOAD X - - - - - -
+               TMPFS X - - X - - -
+             NOTHING - S - - - - -
+             MACHINE - - X - - - -
+              MEMORY - - X - - - -
+                20MB - - - S - X -
+           SOMETHING - - - O - - -
+                  PC - - - - X - -
+           DISKCACHE - - - - - X -
+                 ONE - - - - - - S

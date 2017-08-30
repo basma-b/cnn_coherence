@@ -1,0 +1,10 @@
+             DISPLAY X X - -
+             DRIVERS X X - -
+               SETUP - - X -
+             MONITOR - - X -
+                  .. - - O -
+                 SEC - - X -
+             COMMAND - - O -
+        XSERVER-XORG - - X -
+     PRIORITY=MEDIUM - - X -
+                THAT - - - O

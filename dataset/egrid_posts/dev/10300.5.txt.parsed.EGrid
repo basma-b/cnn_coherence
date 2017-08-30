@@ -1,0 +1,13 @@
+             COMMAND X - - - -
+          AUTOREMOVE X - - - -
+             PACKAGE O - - - -
+                 ALL X - - - -
+        DEPENDENCIES O - - - -
+              CONFIG X - - - -
+                FILE O - - - -
+                 ANY X - - - -
+             SOMEONE - - S - -
+                DATA - - O - -
+          BOOTCHARTS - - X - -
+               WHATS - - S - -
+                 ETC - - - - O

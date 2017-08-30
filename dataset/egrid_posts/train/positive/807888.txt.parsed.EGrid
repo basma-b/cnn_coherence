@@ -1,0 +1,16 @@
+               STUFF X - - - - -
+                 USE X - - - - -
+           DEBHELPER O - - - - -
+                FILE O S - - - -
+             PACKAGE - X - - - -
+                LINE - X - - - -
+               POINT - O - - - -
+              CONFIG - X - - - -
+                MINE - X - - - -
+                TREE - X - - - -
+/ETC/FOO/BAR/BAZ.CONF - X - - - -
+               ERROR - - X - - -
+             MESSAGE - - O - - -
+                HELP - - - S - -
+    UBUNTU-PACKAGING - - - S - -
+               PLACE - - - O - -

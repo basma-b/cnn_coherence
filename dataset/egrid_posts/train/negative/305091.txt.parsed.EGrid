@@ -1,0 +1,24 @@
+               ERROR O - - - -
+               MYSQL X - - - -
+              ACCESS X - - - -
+                USER X - - O -
+                ROOT X - - - -
+           LOCALHOST X - - - -
+                 USE X - - - -
+            PASSWORD O - - X O
+               SETUP X - - - -
+               HTTPS - X - - -
+HEAD-39085275BC28194CCA77D021EC362FF3003B10BC - X - - -
+                PART - - - O -
+               GROUP - - - X -
+                NEED - - - - S
+               THING - - - - X
+                WONT - - - - S
+                 ONE - - - - O
+              WITOUT - - - - O
+               TOUCH - - - - X
+           /FASTBOOT - - - - S
+                FSCK - - - - O
+            SHUTDOWN - - - - O
+              REBOOT - - - - X
+          /FORCEFSCK - - - - S

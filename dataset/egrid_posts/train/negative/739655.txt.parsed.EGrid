@@ -1,0 +1,16 @@
+                DATA S - - - - - O
+                  CD O - - X - - -
+              BACKUP - - X - - - -
+                 MAN - - X - - - -
+           MYSQLDUMP - - S X - - -
+                  DB - - O - - - -
+                 USE - - - - - - O
+            DATABASE - - - - - - O
+              MEMORY - - - - - - X
+                 RAM - - - - - - X
+                DISK - - - - - - X
+               CACHE - - - - - - X
+        AVAILABILITY - - - - - - X
+               SHARE - - - - - - O
+                 I/O - - - - - - X
+          OPERATIONS - - - - - - X

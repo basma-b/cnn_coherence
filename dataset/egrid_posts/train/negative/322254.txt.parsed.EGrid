@@ -1,0 +1,33 @@
+              ISSSUE O - - - - - -
+                CANT X - - - - - -
+              ACCESS X - - - - - -
+             ALTOUGH X - - - - - -
+              MEMBER O - - - - - -
+               GROUP X - - - - - -
+              UBUNTU X - - - - - -
+         /ETC/GROUPS - X - - - - -
+             MODULES - O - - - O -
+/ETC/MODULES.D/BLACKLIST - X - - - - -
+            ANYTHING - - - X O - -
+                   A - - - - X - -
+               SOUND - - - - X - -
+        DEPENDENCIES - - - - S - -
+               LSMOD - - - - O - -
+                BASE - - - - O - -
+              OTHERS - - - - S - -
+      UBUNTU-MINIMAL - - - - S - -
+                META - - - - X - -
+             PACKAGE - - - - O O -
+                   * - - - - S - -
+               FIRST - - - - O - -
+                SOME - - - - S - -
+              SYSTEM - - - - X X -
+              DESIRE - - - - O - -
+                 USE - - - - - O -
+          TRANSITION - - - - - X -
+                ALSA - - - - - O -
+              DRIVER - - - - - X -
+/ETC/MODPROBE.D/BLACKLIST - - - - - X -
+                 IVE - - - - - - S
+              SOURCE - - - - - - O
+              KERNEL - - - - - - X

@@ -1,0 +1,17 @@
+                ACPI X - -
+                BOB2 - S -
+              BOOTUP - X -
+               START - X -
+             HOTPLUG - X -
+           SUBSYSTEM - X -
+              LAPTOP - X -
+                 END - - X
+                GRUB - - X
+                BOOT - - X
+                LINE - - X
+              SYSTEM - - S
+                  F2 - - O
+              SCREEN - - S
+                   E - - X
+             ACPI=NO - - X
+              CHANGE - - O

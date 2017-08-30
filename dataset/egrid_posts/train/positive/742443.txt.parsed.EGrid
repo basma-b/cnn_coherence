@@ -1,0 +1,16 @@
+            IFCONFIG X X - - -
+                INFO X - - - -
+                WIRE X O - - -
+            INTERNET X - - - -
+               STUFF - X - - -
+                SUDO - X - - -
+             APT-GET - S - - -
+          PASTEBINIT - O - - -
+                   | - X - - -
+                 URL - S - - -
+             ETHTOOL - X - - -
+                ETH0 - O - - -
+                SIDE - X - - -
+              ROUTER - X - - -
+                DHCP - X - - -
+/ETC/NETWORK/INTERFACES - - - - X

@@ -1,0 +1,18 @@
+                  DI X - - -
+              SEARCH - - X -
+             COMMAND - - O -
+        /SCREENSAVER - - X -
+ORG.FREEDESKTOP.SCREENSAVER.LOCK - - X -
+                   > - - O O
+              SCREEN - - O -
+                CHSH - - - S
+                SUDO - - - X
+                NANO - - - X
+         /ETC/PASSWD - - - S
+             /BIN/SH - - - O
+           /BIN/BASH - - - X
+                LINE - - - X
+               START - - - X
+            USERNAME - - - X
+             USERMOD - - - X
+                  -S - - - S

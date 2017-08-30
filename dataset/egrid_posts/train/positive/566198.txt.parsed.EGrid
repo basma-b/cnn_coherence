@@ -1,0 +1,17 @@
+                 FD0 - O - - - - - - - - - - - -
+             /DEV/FD - - - - X - - - - - - - - -
+                LINK - - - - O - - - - - - - - -
+              ERUSUL - - - - - - S - - - - - - -
+          DESCRIPTOR - - - - - - O - - - - - - -
+          ASSUMPTION - - - - - - O - - - - - - -
+                  PC - - - - - - O - - - - - - -
+                TYPE - - - - - - - - - X - - - X
+                SUDO - - - - - - - - - S - - - -
+            MODPROBE - - - - - - - - - X - - - -
+                WORK - - - - - - - - - O - - - -
+            INTEREST - - - - - - - - - - X - - -
+             MESSAGE - - - - - - - - - - X - - -
+   /VAR/LOG/MESSAGES - - - - - - - - - - X - - -
+                 IDE - - - - - - - - - - - S - -
+                HELP - - - - - - - - - - - O - -
+          MEMTEST86+ - - - - - - - - - - - - - O

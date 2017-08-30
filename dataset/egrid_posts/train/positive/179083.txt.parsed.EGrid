@@ -1,0 +1,18 @@
+                NMAP X - - -
+               ERROR S - - -
+                LOAD X - - -
+               SHARE X - - -
+           LIBRARIES X - - -
+        LIBPCRE.SO.3 X - - -
+              OBJECT X - - -
+                FILE O - - -
+           DIRECTORY X - - -
+             LIBPCRE X S - -
+                HTTP - X - -
+//UBUNTU.IPACCT.COM/UBUNTU/POOL/MAIN - X - -
+           APT-CACHE - X - -
+              SEARCH - X - -
+                PERL - O - -
+          EXPRESSION - X - -
+             LIBRARY - X - -
+                 YUP - - - X

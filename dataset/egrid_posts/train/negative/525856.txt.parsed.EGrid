@@ -1,0 +1,11 @@
+             COMMAND X - -
+                FILE O - -
+             PACKAGE X X -
+                DPKG - X -
+                  -L - S -
+      GET-SELECTIONS - O -
+                   > - X -
+            QUESTION - X -
+                  .. - O -
+                THAT - - S
+                 BUG - - O

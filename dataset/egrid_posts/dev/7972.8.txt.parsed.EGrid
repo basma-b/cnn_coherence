@@ -1,0 +1,16 @@
+                BOOT X - X -
+              LOADER O - O -
+               /BOOT - X - -
+              MASTER - - X -
+              RECORD - - X -
+                 MBR - - X -
+               GRUB2 - - X -
+                DISK - - X -
+           PARTITION - - X -
+             EXAMPLE - - X -
+            /DEV/SDA - - S -
+           /DEV/SDA2 - - X -
+               HTTPS - - O -
+              DETAIL - - X -
+             VERSION - - - X
+              UBUNTU - - - X

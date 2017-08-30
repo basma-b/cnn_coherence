@@ -1,0 +1,7 @@
+              WINDOW O - -
+             ADVANCE - X -
+            STDLIB.H - - X
+           DIRECTORY - - O
+          LD.SO.CONF - - X
+            LDCONFIG - - X
+     /ETC/LD.SO.CONF - - O

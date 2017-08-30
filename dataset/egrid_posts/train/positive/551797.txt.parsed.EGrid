@@ -1,0 +1,17 @@
+                SUDO S X X S -
+            DATATEXT O - - - -
+          /ETC/FSTAB X O O O -
+              ACCESS S - - - -
+                DATA - X X X -
+                   | - X X - -
+                 TEE - X X - -
+             COMMAND - X O - -
+         REDIRECTION - S - - -
+                   > - - S X -
+                USER - - X - -
+           SUPERUSER - - S - -
+             ENGLISH - - S - -
+               SHELL - - X - -
+                  -C - - - S -
+                 ONE - - - X -
+              SCRIPT - - - - X

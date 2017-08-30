@@ -1,0 +1,12 @@
+                  DD X - -
+                COPY O - -
+               DRIVE X S -
+        OF=/DEV/SDB1 X - -
+           PARTITION X - -
+                 SDA X - X
+                 SDB X - X
+                DISK - X -
+            UTITLITY - X -
+              SYSTEM - S -
+           /DEV/SDB1 - X -
+            /DEV/SDA - X -

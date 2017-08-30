@@ -1,0 +1,13 @@
+             NETWORK X - -
+            ANALYSIS X - -
+                TOOL X - -
+                 USE X - -
+              SOURCE X - -
+                 IPS S - -
+             TRAFFIC O - -
+                HTTP X - -
+                 SYN S - -
+            FAIL2BAN - S -
+              PLUGIN - X -
+          DEFINITION - - S
+                WORD - - X

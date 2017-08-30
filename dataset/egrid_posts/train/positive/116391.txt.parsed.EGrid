@@ -1,0 +1,17 @@
+            IPTABLES O S -
+             COMMAND S - -
+         IPTABLE_NAT S - -
+/PROC/SYS/NET/IPV4/IP_FORWARD O - -
+              OUTPUT - X -
+                  -P - X -
+                 TCP - O -
+               DPORT - X -
+                  -J - X -
+            REDIRECT - O -
+            TO-PORTS - O -
+                SUDO - O -
+            ANYTHING - O -
+              SYNTAX - X -
+     UBUNTU-OFFTOPIC - - S
+                 ONE - - S
+             MESSAGE - - O

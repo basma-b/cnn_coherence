@@ -1,0 +1,19 @@
+             SOMEONE X - - -
+                  IM - S - -
+               SETUP - X - -
+            IPTABLES - X - -
+            TUTORIAL - S - -
+                TYPE - X - -
+                   > - X - -
+/ETC/SYSCONFIG/IPTABLES - O - -
+                WORK - X - -
+/USR/SHARE/DOC/IPTABLES/README.DEBIAN.GZ - X - -
+             COMMAND - O - -
+             LESSONE - - X -
+              CONFIG - - X -
+                FILE - - X -
+                SUDO - - X -
+                  -P - - O -
+       FORCE-DEPENDS - - S -
+             APT-GET - - S -
+                   U - - - O

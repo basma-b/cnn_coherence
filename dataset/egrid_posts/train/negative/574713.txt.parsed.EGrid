@@ -1,0 +1,13 @@
+                NTFS X X -
+               IMAGE X - -
+           DD_RESCUE X X -
+            ANYTHING O - -
+                COPY - X -
+                DATA - X -
+                FILE - X -
+               BLOCK - X -
+              DEVICE - X -
+             ANOTHER - X -
+              OUTPUT - X -
+           PARTITION - O -
+              ERRORS - O -

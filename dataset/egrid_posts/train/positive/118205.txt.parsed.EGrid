@@ -1,0 +1,15 @@
+              UBUNTU X - - - - -
+          XORGCONFIG X - - - - -
+                TOOL - X - - - -
+                FILE - O - - - -
+               LSPCI - - S - - -
+               0:1:0 - - O - - -
+                LINE - - - X - -
+           PCI:0:1:0 - - - X - -
+                WHAT - - - X - -
+              COLUMN - - - - - O
+/PROC/BUS/PCI/DEVICES - - - - - X
+           CHARACTER - - - - - S
+              VENDOR - - - - - X
+                  ID - - - - - O
+              DEVICE - - - - - X

@@ -1,0 +1,28 @@
+                  MB - O - - - - - - - - - -
+                 DEB - X - - - - - - - - - -
+                FILE - X - - X X - - - - - -
+              COUPLE - X - - - - - - - - - -
+                 CDS - X - - - O - - - - - -
+              UBUNTU - X - - - - - - - - - -
+           DIRECTORY - X - - - - - - - - - -
+                REPO - X - - - - - - - - - -
+/VAR/CACHE/APT-PROXY - - X - - - - - - - - -
+              DISTRO - - - X - - - - - - - -
+           APT-PROXY - - - - X - - O - - - -
+             APTONCD - - - - X O - - - - - -
+               CACHE - - - - - X - - - - - -
+             PURPOSE - - - - - O - - - - - -
+                COPY - - - - - X - - - - - X
+             COMMAND - - - - - O - - - - - O
+               SOUND - - - - - O - - - - - -
+             DISTROS - - - - - - X X - - - -
+           INSTALLER - - - - - - - X - - - -
+          CONNECTION - - - - - - - O - - - -
+              700BMB - - - - - - - X - - - -
+                  CD - - - - - - - X X X - -
+           ALTERNATE - - - - - - - - - - X -
+                 ONE - - - - - - - - - - X -
+             DEFUALT - - - - - - - - - - X -
+              SERVER - - - - - - - - - - X -
+           SOMETHING - - - - - - - - - - - X
+/VAR/CACHE/APT/ARCHIVES - - - - - - - - - - - X

@@ -1,0 +1,19 @@
+                   * X - - - -
+GNOME-LANGUAGE-SELECTOR:3223 X - - - -
+MENU_PROXY_MODULE_LOAD X - - - -
+           ASSERTION X - - - -
+           DBUSPROXY X - - - -
+                NULL - X - - -
+               FAULT - X - - -
+                   > - X - - -
+               ERROR - X - - -
+            SELECTOR - O - - -
+                 BUG - - O O -
+               HTTPS - - X - -
+//BUGS.LAUNCHPAD.NET/INDICATOR-APPMENU/+BUG/594877 - - X - -
+            ANYTHING - - O - -
+               TODAY - - X - -
+             NOWHERE - - X - -
+                THAT - - - S -
+                  IE - - - X -
+            BEHAVIOR - - - X -

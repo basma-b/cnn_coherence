@@ -1,0 +1,17 @@
+                 ANY S - - -
+             DRIVERS S - - -
+           FGLRXINFO - S - -
+              OPENGL - X - -
+              VENDOR - X - -
+            TUNGSTEN - X - -
+            GRAPHICS - O - -
+                MESA - X - -
+               MODEL - X - -
+                 ATI - X - X
+                CARD - X - -
+              RADEON - - - S
+                 IGP - - - X
+                320M - - - X
+          CORRECTION - - - O
+                 CHI - - - X
+                340M - - - X

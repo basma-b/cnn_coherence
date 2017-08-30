@@ -1,0 +1,27 @@
+        LINUX-SOURCE O - - - - - - - - -
+                MOST S - - - - - - - - -
+                  IE X - - - - - - - - -
+                LOAD O - - - X - - - - -
+                BOOT X - - - - - - - - X
+              MEMORY X - - - - - - - - -
+                  FF - X - - - - - - - -
+             FIREFOX - - X X - - - - - -
+          -SAFE-MODE - - S - - - - - - -
+              BINARY - - - S - - - - - -
+           /USR/LIB/ - - - X - - - - - -
+                MOVE - - - S - - - - - -
+                 DIR - - - X - - - - - -
+                DONT - - - - S - - - - -
+             SYMLINK - - - - X - - - - -
+            SHOULDNT - - - - S - - - - -
+               FGLRX - - - - X - - - - -
+              MODULE - - - - S - - - - -
+               ERROR - - - - X X O - - -
+FIREGL_STUB_REGISTER - - - - X - - - - -
+            COMMANDO - - - - - X - - - -
+          DREAMERHXC - - - - - X - - - -
+             PROBLEM - - - - - O O - - -
+                SEEE - - - - - - - X - -
+           OOBERMICK - - - - - - - X - -
+             COMMENT - - - - - - - S - -
+             NETWORK - - - - - - - - - X

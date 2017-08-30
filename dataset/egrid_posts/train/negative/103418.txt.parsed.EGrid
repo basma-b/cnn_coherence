@@ -1,0 +1,9 @@
+              ACCESS X - -
+             WINDOWS X - -
+           PARTITION X - -
+             UMASK=0 - X -
+              OPTION - O -
+          /ETC/FSTAB - X -
+                 SUN - - X
+          VIRTUALBOX - - O
+                 USB - - O

@@ -1,0 +1,17 @@
+                USER X - - - - - -
+              SYSTEM X - - - - - -
+               ADMIN X - - - X - -
+               GROUP X - - - X - -
+                THIS - X - - - - X
+                BOOT - X - - - - -
+                  CD - X - - - - -
+                SUDO - - O - O - -
+            PASSWORD - - - X O - -
+             USERMOD - - - - X - -
+                  -G - - - - O - -
+                 -G. - - - - O - -
+                  IM - - - - X - -
+                FILE - - - - O - -
+  /ETC/X11/XORG.CONF - - - - - - O
+            ANYTHING - - - - - - X
+              CONFIG - - - - - - O

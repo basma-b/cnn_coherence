@@ -1,0 +1,26 @@
+GRUB_CMDLINE_LINUX_DEFAULT= X - - -
+ACPI_BACKLIGHT=VENDOR X - - -
+              SPLASH X - - -
+                LINE X - - -
+              VENDOR O X - X
+               MODEL O - - -
+                WHAT O - - -
+                 FIX - O - -
+           BACKLICHT - X - -
+                WORK - O - -
+                  IM - S - -
+                FOFR - S - -
+             COMMAND - X - -
+                INFO - O - -
+                MESS - X - -
+              THINGS - - X -
+               LSPCI - - X -
+            HARDWARE - - O -
+               THERE - - - S
+       DOCUMENTATION - - - X
+                FILE - - - O
+              KERNEL - - - X
+              STRING - - - X
+             KERNELS - - - X
+           BACKLIGHT - - - X
+              OPTION - - - X

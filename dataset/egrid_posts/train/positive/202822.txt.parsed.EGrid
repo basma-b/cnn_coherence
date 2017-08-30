@@ -1,0 +1,19 @@
+                HELP O - - - - -
+                GRUB O - - - - -
+                 BOX O - - - - -
+             PARTION O - - - - -
+                HDA3 X - - - - -
+                HDA1 X - - - - -
+               FSTAB O - - - - -
+                ROOT X - - - - -
+               SETUP X - - - - -
+           COMMMANDS O - - - - -
+        GRUB-INSTALL O - - - - -
+              KERNEL - - X - - -
+               ENTRY - - X - - -
+              UBUNTU - - X - - -
+                HTTP - - X - - -
+//PASTE.UBUNTU-NL.ORG - - X - - -
+                 MIN - - - S - -
+              NUMBER - - - O - -
+                LINK - - - - X -

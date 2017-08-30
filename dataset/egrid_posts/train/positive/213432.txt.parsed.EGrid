@@ -1,0 +1,16 @@
+           PLUGGABLE X - - - -
+                   * X - - - -
+      AUTHENTICATION X - - - -
+             MODULES X - - - -
+    DPKG-RECONFIGURE S - - - -
+              BACKUP O - - - -
+           XORG.CONF X - - - -
+                FILE O - - - -
+                 AYE - X - - -
+               ASKER - - X - -
+             KERNELS - - X - -
+              KERNEL - - X - X
+               PATCH - - O - X
+             VANILLA - - X - -
+                GOOD - - - - X
+             PROCESS - - - - O

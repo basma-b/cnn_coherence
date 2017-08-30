@@ -1,0 +1,27 @@
+              UBUNTU O - - - - - - - - - -
+                HOME X - - - - - - - - - -
+                 VPN X - - - S X - - - - -
+                 PEM - X - - - - - - - - -
+                FILE - X - - - - - - - - -
+                  IP - X - - - - - - - - -
+            PASSWORD - O - - - - - - - - -
+              DEVICE - - O - - - - - - - -
+                 ADD - - X - - - - - - - -
+/ETC/NETWORK/INTERFACES - - X - - - - - - - -
+             NETWORK - - O - - - - - - - X
+                TIME - - - O - - - - X - -
+          CONNECTION - - - X - - - - X X -
+             WINDOWS - - - - X - - - - - -
+                SIDE - - - - X - X - - - -
+                KIND - - - - - X - - - - -
+             OPENVPN - - - - - - S - - - -
+                   * - - - - - - X - - - -
+              ERRORS - - - - - - O - - - -
+              SERVER - - - - - - X - S - -
+              CLIENT - - - - - - X X X - -
+                   $ - - - - - - - - X - -
+                   M - - - - - - - - X - -
+                PORT - - - - - - - - O - -
+             DEFAULT - - - - - - - - - X -
+             MANAGER - - - - - - - - - X X
+                THIS - - - - - - - - - - O

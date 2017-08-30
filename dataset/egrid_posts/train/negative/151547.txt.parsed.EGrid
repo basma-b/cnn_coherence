@@ -1,0 +1,16 @@
+                  HD O - - -
+                 2,0 S - - -
+                GRUB X - - -
+                 CAT X - - -
+/BOOT/GRUB/DEVICE.MAP S - - -
+                ROOT - X - -
+               HD0,0 - X - -
+              KERNEL - - - O
+       CONFIGURATION - - - S
+                FILE - - - X
+                 RUN - - - X
+             XCONFIG - - - O
+                 GUI - - - X
+                  .. - - - O
+              RESULT - - - X
+               ERROR - - - X

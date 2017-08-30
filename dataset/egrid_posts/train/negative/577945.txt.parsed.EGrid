@@ -1,0 +1,17 @@
+               CHMOD X - -
+               DRIVE X - -
+               FAT32 S - -
+                WORK S - -
+              CHANGE O - -
+         PERMISSIONS O - -
+       /MEDIA/JIMENA X - -
+                FILE X - -
+              SYSTEM S - -
+                   ' - X -
+               FDISK - X -
+           PARTITION - X -
+                TYPE - O -
+                 HFS - X -
+               VALUE - O -
+                  DD - - X
+      IF=THEFILE.DMG - - X

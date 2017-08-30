@@ -1,0 +1,14 @@
+             PACKAGE O - -
+                SUDO X - -
+       START/RESTART O - -
+              TOMCAT O O -
+              APACHE X X -
+                SITE X - -
+                 BOX - X -
+               SETUP - X -
+        APPLICATIONS - X -
+             TARBALL - X -
+                  .. - X -
+      CONFIGURATIONS - O -
+   /VAR/LIB/WHATEVER - S -
+               FOLKS - S -

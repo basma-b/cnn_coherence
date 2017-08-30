@@ -1,0 +1,15 @@
+             COMMAND X S O
+                SIZE X X -
+                 RAM X X -
+             MACHINE X - -
+                   | - X -
+                GREP - O -
+                PHYS - S -
+                FREE - S -
+                   U - O -
+              OUTPUT - O -
+              MEMORY - X -
+                 MAP - X -
+             SYSTEMS - X -
+               VALUE - O -
+                  YA - - X

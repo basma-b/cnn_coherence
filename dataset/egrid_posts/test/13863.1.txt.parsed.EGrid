@@ -1,0 +1,14 @@
+                ANY1 S - - - -
+            HARDWARE O - - - -
+                JACK X - - - -
+               INPUT - X - - -
+            QJACKCTL - X - - -
+            QTRACTOR - X - - -
+              DEVICE - X - - -
+               SOUND - X - - X
+            SETTINGS - X - - -
+           ALSAMIXER - - X - -
+               LEVEL - - X - -
+                MUTE - - - - O
+              EITHER - - - - X
+                CARD - - - - X

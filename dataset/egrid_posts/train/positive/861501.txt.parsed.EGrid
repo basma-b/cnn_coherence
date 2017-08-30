@@ -1,0 +1,15 @@
+                HELP S - - - - - - - - -
+                SUDO - X - - - - - - X -
+               FDISK - X - - - - - - X -
+            /DEV/SDB - O - - - - - - - -
+              UNABLE - X - - - - - - - -
+                FILE - X - - - - - - - -
+           DIRECTORY - X - - - - - - - -
+                  -L - X - - - - - - O -
+                THIS - - - - - S - - - -
+           PARTITION - - - - - X - - - -
+                 ONE - - - - - - X - - -
+                ROOT - - - - - - - - X -
+                DROP - - - - - - - - S -
+                 PUT - - - - - - - - - O
+              POLICY - - - - - - - - - X

@@ -1,0 +1,17 @@
+              OUTPUT X X O X - - - - - - -
+                CARD S - - - - O - - - - -
+              KERNEL X - - - - - - - - - -
+         INDICATIONS - X - - - - - - - - -
+              DRIVER - X - - - - - - - - -
+                LOAD - S - - - - - - - - -
+                LOOK - - X S - - - - - - -
+                HELP - - X - - - - - - - -
+               LSPCI - - - X - - - - - - -
+             NETWORK - - - - X - - - X - -
+             DEVICES - - - - O - - - - - -
+               THERE - - - - - - - - S - -
+          CONTROLLER - - - - - - - - O - -
+                 ONE - - - - - - - - X - O
+              RALINK - - - - - - - - - - X
+              RT2400 - - - - - - - - - - S
+    CARDBUS/MINI_PCI - - - - - - - - - - O

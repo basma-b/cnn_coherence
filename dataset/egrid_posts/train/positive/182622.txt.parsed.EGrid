@@ -1,0 +1,11 @@
+        GLXINFO|GREP S - -
+                 ATI X - -
+            PROPERTY X - -
+             DRIVERS O - -
+               UTILS O - -
+                 DRI S - -
+                WORK O - O
+        FGL_GLXGEARS - S -
+              THINGS - O -
+          MESA-UTILS - S -
+              RENDER - - O

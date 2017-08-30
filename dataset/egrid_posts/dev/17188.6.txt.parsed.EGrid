@@ -1,0 +1,20 @@
+                 GRR X - - - - -
+                PERL X - - - - -
+              MODULE O - - - - -
+           SOMETHING O - - - - -
+               SLAPD X - - - - -
+         EXPLANATION O - - - - -
+              KERNEL - X - - - -
+              CHANGE - X - - - -
+        DIST-UPGRADE - X - - - -
+                HTTP - - - X - -
+              METHOD - - - X - -
+                PERM - - - - S -
+                .SSH - - - - X -
+               MKDIR - - - - - O
+                  CD - - - - - X
+        INSTRUCTIONS - - - - - S
+                 CAT - - - - - X
+          ID_RSA.PUB - - - - - X
+                   > - - - - - S
+.SSH/AUTHORIZED_KEYS - - - - - O

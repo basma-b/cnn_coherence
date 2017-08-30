@@ -1,0 +1,15 @@
+              KERNEL X - X -
+                LINE X - - -
+              CONFIG X - - -
+                BOOT X - - -
+              UBUNTU X - - -
+             MACHINE - X - -
+      ROOT=/DEV/HDA1 - - X -
+                  RO - - S -
+              NOAPIC - - O -
+                 BIN - - - S
+                KIND - - - O
+                 GUY - - - X
+                TYPE - - - X
+                 LOT - - - X
+                TEXT - - - X

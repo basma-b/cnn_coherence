@@ -1,0 +1,15 @@
+             EDITION O - - - - -
+             COMMAND X - - - - -
+                LINE X - - - - -
+      UBUNTU-DESKTOP O - - - - -
+              SCREEN - X - - - -
+                 ANY - - S - - -
+ /VAR/LOG/XORG.0.LOG - - - - X -
+    DPKG-RECONFIGURE - - - - X -
+                 VIM - - - - X -
+  /ETC/X11/XORG.CONF - - - - X -
+            DELIVERY - - - - O -
+                 _I_ - - - - S -
+                MUTT - - - - O -
+                TERM - - - - X -
+                MATE - - - - - O

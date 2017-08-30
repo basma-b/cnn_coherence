@@ -1,0 +1,13 @@
+        /ETC/SUDOERS - - X - - X - - - - - - - -
+                FILE - - X - - X - X - - - - - -
+             NOTHING - - X - - X - - - - - - - -
+               ADMIN - - O - - O - - - - - - - -
+                TASK - - - S - - S - - - - - - -
+                BOOT - - - - - - O - - - - - - -
+                  CD - - - - - - X O - - - O - -
+           PARTITION - - - - - - O - - - - O - -
+               ENTRY - - - - - - - O - - - - - -
+                  TY - - - - - - - - - X - - - -
+                THAT - - - - - - - - - - X - - -
+                 USE - - - - - - - - - - - - - S
+/PATHTOFILEYOUMESSEDUP - - - - - - - - - - - - - O

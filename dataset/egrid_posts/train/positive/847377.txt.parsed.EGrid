@@ -1,0 +1,13 @@
+                SUDO X - X -
+            WWW-DATA X - X -
+            /VAR/WWW X - - -
+                MEAN O - - -
+            USERNAME - X - -
+                PASS - X - -
+              CHANGE - - X -
+           OWNERSHIP - - S -
+                USER - - X -
+               GROUP - - X -
+   /ETC/DEFAULT/GRUB - - O -
+       GRUB_GFXMODE= - - X -
+        UPDATE-GRUB2 - - X -

@@ -1,0 +1,14 @@
+                TIME O -
+                  HI S -
+                BOOT S -
+               CHECK X -
+              SERVER X -
+             NTPDATE S -
+           RC-UPDATE O -
+                BASH X -
+         UPDATE-RC.D O -
+                CASE X -
+                SUDO X -
+                ALOT O -
+                LOOK - O
+/ETC/DEFAULT/NTPDATE - X

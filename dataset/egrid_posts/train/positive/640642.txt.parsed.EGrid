@@ -1,0 +1,10 @@
+                 POP X - -
+                LINE - X -
+                 HDA - X -
+               SOUND - X -
+                CARD - X -
+/ETC/MODPROBE.D/ALSA-BASE.CONF - O -
+               AUDIO - O -
+                APPS - X -
+                 AFK - O -
+                THAT - - S

@@ -1,0 +1,12 @@
+              SERVER O - -
+        REPOSITORIES - X -
+                  PS - X -
+                GREP - X -
+                SSHD - O -
+                LINE - X -
+      /USR/SBIN/SSHD - X -
+               KEMIK - S -
+                SUDO - X -
+     /ETC/INIT.D/SSH - S -
+                HOST - X -
+/ETC/SSH/SSH_HOST_RSA_KEY - O -

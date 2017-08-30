@@ -1,0 +1,17 @@
+               MOUNT X - - -
+                DISK X - - -
+                BOOT - O - -
+           SOMETHING - O - -
+             WINDOWS - X - -
+           PARTITION - X - -
+          ZONEMINDER - - - X
+                 DBI - - - S
+         DATABASE=ZM - - - S
+      HOST=LOCALHOST - - - X
+              ZMUSER - - - X
+                  .. - - - X
+            DATABASE - - - X
+                  ZM - - - X
+                LINE - - - O
+               SETUP - - - X
+               MYSQL - - - O

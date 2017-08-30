@@ -1,0 +1,22 @@
+                LUCK S - - - -
+        B43-FWCUTTER - S - - -
+                CARD - O - - -
+                REV3 - - X - -
+               CHECK - - O - -
+/ETC/MODPROBE.D/BLACKLIST - - X - -
+       CONFIGURATION - - S - -
+          MODULE=SSB - - X - -
+            ADDRCONF - - X - -
+           NETDEV_UP - - X - -
+               WLAN0 - - X - -
+                LINK - - S - -
+                LINE - - O - -
+               DMESG - - X - -
+                 PRO - - O - -
+                THIS - - X - -
+                MINE - - S X -
+             MESSAGE - - - S -
+              OUTPUT - - - O -
+                   | - - - X -
+                SUDO - - - X -
+            MODPROBE - - - S -

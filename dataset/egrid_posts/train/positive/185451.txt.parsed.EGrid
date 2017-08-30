@@ -1,0 +1,12 @@
+                  IP - S - X - -
+                 USE - X - - - -
+               PROXY - O - - - -
+           ONE-LINER - - - X - -
+/PROC/SYS/IPV4/IP_FORWARD - - - O - -
+                 NAT - - - X - -
+                  -A - - - O - -
+          MASQUERADE - - - X - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - - O - -
+             COUNTRY - - - - X -
+               RANGE - - - - X -
+            ARGUMENT - - - - - O

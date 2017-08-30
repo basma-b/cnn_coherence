@@ -1,0 +1,18 @@
+                 END - X - - - - -
+              STRING - X - - - - -
+               IDEAS - X - - - - -
+               DRIVE - - O - - - -
+             MACHINE - - X - - - -
+         PERMISSIONS - - S - - - O
+                 ONE - - S - - - -
+                ROOT - - S - - - -
+                DISK - - X - - - -
+           DIRECTORY - - - X - - -
+/DIRECTORY/IN/QUESTION - - - - O - -
+             DEFAULT - - - - X - -
+               GROUP - - - - O - -
+                NAME - - - - S - -
+                SAME - - - - O - -
+            USERNAME - - - - X - -
+                UTHE - - - - X - -
+               USERS - - - - X - -

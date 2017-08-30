@@ -1,0 +1,13 @@
+              ANYONE S - - -
+                IDEA O - - -
+                   * S - - -
+                ROOT X - - -
+             ACCOUNT X - - -
+           WRITEABLE O - - -
+          MOUNTPOINT O - - -
+           PARTITION X - - X
+               FSTAB X - - -
+               ENTRY X - - -
+           UID=MYUID X - - -
+                /OPT - - - S
+                  .. - - - X

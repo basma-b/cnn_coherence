@@ -1,0 +1,17 @@
+                COPY X - - -
+              UBUNTU S - - -
+           PARTITION O - - -
+           /DEV/HDA1 O - - O
+           /DEV/HDD1 X - - X
+               FSTAB X - - S
+           MENU.LIST X - - -
+                FILE O - - -
+                HDD1 X - - -
+             PROBLEM X - - -
+          /ETC/FSTAB - S - -
+               LABEL - O X -
+              DEVICE - X - -
+                LIST - O - -
+                   ' - - - S
+                  'S - - - S
+                HDA1 - - - S

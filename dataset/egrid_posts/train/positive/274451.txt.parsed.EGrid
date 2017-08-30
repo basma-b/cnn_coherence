@@ -1,0 +1,10 @@
+             PROGRAM X - -
+                ISOS X - -
+                 CDS X - -
+                  CD O - -
+                CALL O - -
+                  DD - X -
+       IF=/DEV/CDROM - X -
+     OF=FILENAME.ISO - S -
+                 CAT - X -
+            FILE.ISO - O -

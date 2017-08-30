@@ -1,0 +1,11 @@
+/ETC/CONF/UWSGI.CONF O - - - -
+                SUDO X - - X -
+               START X - - X -
+               UWSGI S - - - -
+                 JOB X - - - -
+             SERVICE - - - X -
+          UWSGI.CONF - - - S -
+              SCRIPT - - - O -
+            SUCHLIKE - - - O -
+             UPSTART - - - X -
+                 HEY - - - - X

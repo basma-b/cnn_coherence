@@ -1,0 +1,20 @@
+            GRUB.CFG X - - - - - - -
+               ROOT= O - - - - - - -
+              MSDOS1 X - - - - - - -
+           PARTITION - X - - X - - -
+               STYLE - X - - - - - -
+               TABLE - S - - X - - -
+              LEGACY - X - - - - - -
+                GRUB - X - - - - - -
+                 GPT - - - - S - - -
+               GRUB1 - - - - S - - -
+               MSDOS - - - - X - - -
+               DRIVE - - - - X - - -
+               GRUB2 - - - - S - - -
+                THAT - - - - - X - -
+               SENSE - - - - - X - -
+                 ASK - - - - - X - -
+              ANSWER - - - - - - - S
+                 USB - - - - - - - O
+                HTTP - - - - - - - O
+//ASKUBUNTU.COM/QUESTIONS/69432/LIVECD-WITH-NVIDIA-BINARY-DRIVERS - - - - - - - O

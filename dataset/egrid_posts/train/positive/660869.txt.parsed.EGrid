@@ -1,0 +1,12 @@
+                THAT X - S
+             USERADD - X -
+            FTPUSERS - S -
+              SYSTEM - O -
+      ADMINISTARTION - O -
+               USERS - O -
+               GROUP - X -
+              ACCESS - O -
+                 X11 - X -
+             ADDUSER - X -
+                HTTP - X -
+             PROBLEM - - O

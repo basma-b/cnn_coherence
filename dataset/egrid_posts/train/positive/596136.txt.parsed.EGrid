@@ -1,0 +1,19 @@
+              SERVER X - -
+                9.04 O - -
+             MACHINE X - -
+                NICS X - -
+/ETC/NETWORK/INTERFACES X - -
+               OTHER O - -
+                CARD O - -
+              SYSTEM S - -
+               THERE S S -
+           INTERFACE O - -
+          CONTROLLER - S O
+           SOMETHING - X -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - X -
+          INTERFACES - X -
+            IFCONFIG - O -
+             MODULES - S -
+                NEED - X -
+              COURSE - X -
+                 NET - X -

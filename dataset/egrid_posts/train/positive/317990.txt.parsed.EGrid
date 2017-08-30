@@ -1,0 +1,20 @@
+                WINE X - X - X
+            EMULATOR X - - - -
+                FILE O - - - -
+                TYPE - - X - -
+                   < - - X - -
+                NAME - - X - -
+                   > - - X - -
+               PRINT - - X - -
+               ERROR - - X - -
+             MESSAGE - - S - -
+               NTDLL - - X - -
+NTQUERYINFORMATIONTOKEN - - X - -
+           UNHANDLED - - X - -
+         INFORMATION - - X - -
+               CLASS - - X - -
+                EXES - - - - S
+                WORK - - - - O
+                 BET - - - - S
+         APPLICATION - - - - X
+                DONT - - - - X

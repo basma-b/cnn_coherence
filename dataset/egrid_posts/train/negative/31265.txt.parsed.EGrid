@@ -1,0 +1,14 @@
+         BUNGUNDAVIA X - -
+               FAT32 X X -
+           PARTITION - O -
+                  HD - X -
+                MOVE - X -
+                NTFS - X -
+                  .. - X -
+             DEFAULT - X -
+               /DEV/ - X -
+              DEVICE - X -
+                   / - X -
+      MOUNTDIRECTORY - X -
+             COMMAND - - O
+                /ETC - - X

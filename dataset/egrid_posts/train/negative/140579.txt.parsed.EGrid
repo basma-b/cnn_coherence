@@ -1,0 +1,15 @@
+ /BOOT/GRUB/MENU.LST X - - - -
+                MENU X - - - -
+                THAT - X - - -
+              CONFIG - X - - -
+                FILE - O - - -
+               ERROR - X - - -
+                GRUB - - O - -
+                ROOT - - X - -
+               HD0,0 - - X - -
+               SETUP - - O - -
+                 HD0 - - X - -
+                 ALL - - S - -
+             WINDOWS - - O - -
+           /DEV/HDA1 - - X - -
+              GNOMER - - - - X

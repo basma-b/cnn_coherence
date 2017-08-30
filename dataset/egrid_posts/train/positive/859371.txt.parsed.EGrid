@@ -1,0 +1,16 @@
+              ANYONE S - - -
+                SURE - S - -
+                GRUB - X - -
+              REBOOT - X - -
+              UPDATE - X - -
+                DISK - - O -
+                BOOT - - X -
+                  CD - - O -
+             COMMAND - - O -
+               THIS- - - X -
+                  DD - - X X
+        IF=/DEV/ZERO - - X -
+                SIZE - - X -
+             OSEEK=0 - - X -
+                  DS - - S -
+                THAT - - - S

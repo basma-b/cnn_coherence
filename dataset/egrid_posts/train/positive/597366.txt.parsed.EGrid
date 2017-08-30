@@ -1,0 +1,6 @@
+           DIRECTORY S -
+            TERMINAL X -
+             NOTHING S X
+                PATH O -
+          EXECUTABLE X -
+                SUDO S -

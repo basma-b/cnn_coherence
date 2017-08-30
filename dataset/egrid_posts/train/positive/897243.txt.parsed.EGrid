@@ -1,0 +1,24 @@
+                LIST X - - - - - -
+                ROOT X - - - - - -
+                  SS - X - - - - -
+               FEB02 - S - - - - -
+      /USR/SBIN/CRON - O - O - - -
+                  S+ - X - - - - -
+                GREP - X - - - - -
+                CRON - X - - - - -
+                 LOG - O - - - - -
+              SYSLOG - - - S - - -
+                 APR - - - X - - -
+               -RSB- - - - X - - -
+/ETC/PHP5/APACHE2/PHP.INI - - - S - - -
+                FILE - - - O - - -
+                LOAD - - - - O - -
+               EMAIL - - - - X - -
+               CRASH - - - - X - -
+                STOP - - - - X - -
+           SOMETHING - - - - X - -
+                 DIE - - - - S - -
+                MAIL - - - - - - S
+                USER - - - - - - X
+                 LOT - - - - - - X
+              THINGS - - - - - - X

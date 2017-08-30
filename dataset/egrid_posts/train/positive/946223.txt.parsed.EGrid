@@ -1,0 +1,13 @@
+                   D X - - - -
+             PROCESS X X - - -
+     UNINTERRUPTIBLE - - S - -
+               SLEEP - - X - -
+             PROGRAM - - S - -
+               TIMES - - O - -
+            RHYTMBOX - - X - -
+                  EM - - X - -
+                   U - - S - -
+                 PID - - O - -
+                 YAP - - - X -
+              REBOOT - - - - S
+              ANSWER - - - - O

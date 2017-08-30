@@ -1,0 +1,16 @@
+                 USE X - - - - -
+          TRIPLEBOOT X - - - - -
+              SYSTEM S - - - - -
+              REASON X - - - - -
+                 WAY X - - - - -
+             DEFAULT X - - - - -
+             STARTUP O - - X - -
+                GRUB X - - - - S
+           PARTITION - - - X - -
+                   ~ - - - O - -
+                   | - - - - X -
+                 SNN - - - - X -
+              MACOSX - - - - - O
+              INSTAL - - - - - O
+              SECOND - - - - - O
+               DELAY - - - - - X

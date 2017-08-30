@@ -1,0 +1,15 @@
+           PARTITION O - - - - - -
+                 PEN X - - - - - -
+               DRIVE X - - - - - -
+             GPARTED - X - - - - -
+              FORMAT - X - - - - -
+               TABLE - X - - - - -
+               MSDOS - - X - - - -
+                 AIX - - - X - - -
+                 BSD - - - - X - -
+               LINUX - - - - - X -
+               FAT32 - - - - - X -
+                NTFS - - - - - O -
+           PENDRIVES - - - - - X -
+                MESS - - - - - X -
+                THAT - - - - - - X

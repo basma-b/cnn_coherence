@@ -1,0 +1,11 @@
+               CHILD X - - X
+             PROCESS X - O O
+                SUDO - X - -
+             KILLALL - X - -
+               -LSB- - X - -
+                 APP - S - -
+               -RSB- - O - -
+                PIDS - O - -
+               DOSNT - - X -
+            NAME/PID - - O -
+        SUBPROCESSES - - X -

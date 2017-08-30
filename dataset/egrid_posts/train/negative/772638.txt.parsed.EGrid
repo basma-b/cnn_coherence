@@ -1,0 +1,17 @@
+          HISTFILE=0 X - - - - - - -
+  HISTFILE=/DEV/NULL O - - - - - - -
+              BASHRC X - - - - - - -
+                 MAN - S - - - - - -
+                THAT - - X - - - - -
+             COMMAND - - - S - - - -
+                TYPE - - - X - - - -
+                LINE - - - X - - O -
+                 LOG - - - O - - - -
+                TEXT - - - - S - - -
+                 ETC - - - - O - - -
+                BASH - - - - - - S -
+             DEFAULT - - - - - - X -
+                FILE - - - - - - - X
+                  CD - - - - - - - X
+              BURNER - - - - - - - O
+          IMAGES/CDS - - - - - - - X

@@ -1,0 +1,12 @@
+                SUDO X - -
+               FDISK X - -
+                 -LU S - -
+            LOCATION - - S
+                ROOT - - S
+              UBUNTU - - O
+                  DD - - O
+                 IF= - - X
+        /MEDIA/MOVIE - - S
+PLATFORM/UBUNTU/UBUNTU-12.04-DESKTOP-AMD64.ISO - - O
+                   > - - S
+               DRIVE - - X

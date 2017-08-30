@@ -1,0 +1,10 @@
+      VAR/LOG/SYSLOG X - - - -
+                TYPO - X - - -
+     /VAR/LOG/SYSLOG - - X O -
+                PICO - - - O -
+                FILE - - - S -
+               ERROR - - - X -
+             MESSAGE - - - O -
+         PERMISSIONS - - - - O
+                ROOT - - - - O
+                RW-R - - - - X

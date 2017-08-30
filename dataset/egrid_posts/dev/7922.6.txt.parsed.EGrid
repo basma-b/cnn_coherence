@@ -1,0 +1,9 @@
+             COMMAND X - - -
+               MOUNT X - - -
+             DEVICES O - - -
+                LIST X - - -
+                USER - X - -
+                  ID - O - -
+                 RSA - X - -
+              NAGIOS - - S -
+              THINGS - - - S

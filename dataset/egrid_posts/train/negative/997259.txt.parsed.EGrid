@@ -1,0 +1,13 @@
+             SOMEONE X - - - -
+                NTFS X - - - -
+           PARTITION X - - - -
+             DESKTOP X - - - -
+           PERMISSON S - - - -
+               OWNER X - - - -
+               FSTAB O - - - -
+       USERMASK=0777 X - - - -
+             OPTIONS X - - - -
+                IIRC X - - - -
+                USER - - O - -
+              EFFECT - - O - -
+               /ETC/ - - - X -

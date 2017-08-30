@@ -1,0 +1,13 @@
+             COMMAND X - - - - - -
+                ETH0 O - - X - - -
+                DHCP O - - X - - -
+                 GUI - - O - - - -
+                  .. - - - O X - -
+                  UP - - - X - - -
+                  IP - - - O - - -
+            IFCONFIG - - - X - - -
+/ETC/INI.D/NETWORKING - - - - X - -
+                SUDO - - - - X - -
+              COURSE - - - - X - -
+           127.0.0.1 - - - - O - -
+            YEAHYEAH - - - - - - X

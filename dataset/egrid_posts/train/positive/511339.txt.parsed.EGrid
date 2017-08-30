@@ -1,0 +1,23 @@
+                  CD X X - X
+           DIRECTORY X - - -
+                THIS X - - X
+                 HDD X X - O
+                NAME - O - -
+               QUOTE - X - -
+     /MEDIA/FREECOM\ - - - S
+               PLACE - - - S
+               SPACE - - - O
+      /MEDIA/FREECOM - - - X
+              \SPACE - - - X
+                WORK - - - S
+                  RW - - - X
+      NO_ROOT_SQUASH - - - X
+               ASYNC - - - X
+        /ETC/EXPORTS - - - X
+                 NFS - - - X
+              SERVER - - - O
+                SUDO - - - X
+/ETC/INIT.D/NFS-KERNEL-SERVER - - - S
+               ERROR - - - O
+            EXPORTFS - - - X
+             WARNING - - - X

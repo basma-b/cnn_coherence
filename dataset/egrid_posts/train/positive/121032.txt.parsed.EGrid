@@ -1,0 +1,8 @@
+               PLACE - X - - - -
+                 CAP - - S - - -
+                FSCK - - X - - -
+          FILESYSTEM - - S - - -
+                 RUN - - X - - -
+               FORCE - - X X - -
+                 LVM - - - - S -
+                 JOB - - - - O -

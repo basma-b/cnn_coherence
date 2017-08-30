@@ -1,0 +1,37 @@
+              APACHE X - - X - - - - - - -
+                 SSI S - - - - - X - - - -
+               THING O - - - - - - - - - -
+                   U S - - - - - - - - - -
+                  UR - S - - - - - - - - S
+                THIS - - - S - - - - - - O
+                TYPE - - - O - - - - - - -
+            TERMINAL - - - X - - - - - - -
+                DOCS - - - X - - - - - - -
+                PAGE - - - X - - - - - - -
+                 -IR - - - S - - - - - - -
+              OPTION - - - X - - - - - - -
+                   * - - - S - - - - - - -
+                NONE - - - X X - - - - - -
+./SITES-AVAILABLE/DEFAULT-SSL.ORIG - - - O - - - - - - -
+      OPTIONAL_NO_CA - - - X X - - - - - -
+            OPTIONAL - - - - X - - - - - -
+               DEPTH - - - - S S - - - - -
+./SITES-AVAILABLE/DEFAULT-SSL - - - - O - - - - - -
+               PASTE - - - - - O - - - - -
+                   < - - - - - X O S - - -
+             ERRMSG= - - - - - - X - - - -
+               -RSB- - - - - - - X - - - -
+                   P - - - - - - X - - - -
+            DOCUMENT - - - - - - X - - - -
+                   > - - - - - - - O X - -
+        ./TEST.SHTML - - - - - - - X - - -
+            VIRTUAL= - - - - - - - - X - -
+./CONTENT/HOME.SHTML - - - - - - - - X - -
+                   | - - - - - - - - - S -
+                  HI - - - - - - - - - X -
+               HTTPS - - - - - - - - - - O
+                   % - - - - - - - - - - O
+             20HOSTS - - - - - - - - - - X
+//HELP.UBUNTU.COM/COMMUNITY/SERVERSIDEINCLUDES - - - - - - - - - - X
+                HERE - - - - - - - - - - X
+                CLUE - - - - - - - - - - O

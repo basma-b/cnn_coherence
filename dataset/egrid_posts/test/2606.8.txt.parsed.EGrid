@@ -1,0 +1,7 @@
+        DEPENDENCIES X - - -
+          DEPENDENCY S - - -
+              ERRORS - - X -
+           UNINSTALL - - X O
+                SUDO - - - O
+                  PS - - - X
+                   | - - - S

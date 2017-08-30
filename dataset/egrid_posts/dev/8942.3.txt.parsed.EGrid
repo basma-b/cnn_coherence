@@ -1,0 +1,14 @@
+              UBUNTU X - - - -
+                PING O - - - -
+              IKONIA - X - - -
+                 LOG - - O - -
+            IPTABLES - - X - -
+           SOMETHING - - X - O
+                THIS - - X - -
+               INPUT - - X - -
+                  -P - - X - -
+                ICMP - - O - -
+           ICMP-TYPE - - X - -
+                  -J - - X - -
+          LOG-PREFIX - - O - -
+              OTHERS - - - - S

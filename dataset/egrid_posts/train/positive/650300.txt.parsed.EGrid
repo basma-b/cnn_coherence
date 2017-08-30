@@ -1,0 +1,17 @@
+              UBUNTU - - X - - - - X - - - - -
+                LAMP - - X - - - - X - - - - -
+              SERVER - - O - - - - O - - - - -
+             PACKAGE - - X - - - - X - - - - -
+             MANAGER - - X - - - - X - - - - -
+                STOP - - - X - - - - X - - - -
+            SERVICES - - - S - - - - S - - - -
+             SERVICE - - - - - - - - - - X - -
+               START - - - - - - - - - - - X -
+              APACHE - - - - - - - - - - - S -
+                SUDO - - - - - - - - - - - X -
+ /ETC/INIT.D/APACHE2 - - - - - - - - - - - X -
+                 HMM - - - - - - - - - - - X -
+                  .. - - - - - - - - - - - X -
+                 RUN - - - - - - - - - - - X -
+              STATUS - - - - - - - - - - - X -
+             APACHE2 - - - - - - - - - - - - X

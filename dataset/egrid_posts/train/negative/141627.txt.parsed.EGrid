@@ -1,0 +1,24 @@
+              KERNEL O - - - - - -
+   2.6.15-20-POWERPC X - - - - - -
+             USPLASH S - - - - - -
+LINUX-IMAGE-2.6.15-20-POWERPC O - - - - - -
+              SYSTEM S - - - X - -
+                BOOT O - - - - - -
+                 BUG X - - - - - -
+               IMAGE O - - - - - -
+            MKINITRD X - - - - - -
+          BOOTSPLASH O - - - - - -
+             COMMAND X X - - - - -
+                FILE O X - - - - -
+                 SAY X - - - - - -
+              INITRD - X - - - - -
+                TYPE - - - X - - -
+               LINUX - - - - S - -
+                 ROM - - - - S - -
+                DATA - - - - O - -
+           EXTENSION - - - - O - -
+              GUNZIP - - - - - X -
+INITRD.IMG-2.6.15-20-POWERPC - - - - - X -
+              SUFFIX - - - - - X -
+              IGNORE - - - - - X -
+                YUKI - - - - - - S

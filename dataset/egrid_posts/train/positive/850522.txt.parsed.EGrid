@@ -1,0 +1,10 @@
+                PATH X - - - -
+           VARIABLES O - - - -
+         SYSTEM-WIDE - X - - -
+                USER - X - - -
+              SCRIPT - - X - -
+            LOCATION - - - - X
+                BIND - - - - X
+                   < - - - - X
+                   > - - - - O
+              TARGET - - - - X

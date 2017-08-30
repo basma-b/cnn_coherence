@@ -1,0 +1,11 @@
+             WINDOWS S O O -
+           PARTITION X - - -
+                BOOT X - - -
+                GRUB X - - -
+               ENTRY O - - -
+                SHOW - X - -
+                SUDO - - X -
+         UPDATE-GRUB - - S -
+                FILE - - - O
+                ROOT - - - X
+          PRIVILAGES - - - X

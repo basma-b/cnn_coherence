@@ -1,0 +1,16 @@
+              STAGE1 O - - -
+                 HD1 - X - -
+                ROOT - O - -
+               HD1,4 - X - -
+               SETUP - O O -
+                 HD0 - X - -
+                 USE - X - -
+                 BUT - - X -
+          BOOTLOADER - - S -
+                DISK - - X -
+                BOOT - - X -
+              LOADER - - X -
+             MACHINE - - S -
+                 MBR - - O -
+               SHELL - - X -
+              CHOICE - - O -

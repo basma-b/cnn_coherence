@@ -1,0 +1,15 @@
+        SOURCES.LIST - O - - -
+                   A - - S - -
+            INSTANCE - - O - -
+                  UK - - X - -
+              LETTER - - X - -
+             COUNTRY - - X - -
+                CODE - - X - -
+             VERSION - - - S -
+               DUNNO - - - X -
+                HTTP - - - X -
+//PACKAGES.UBUNTU.COM/CGI-BIN//SEARCH_PACKAGES.PL - - - X -
+         VERSION=ALL - - - - X
+              EXACT= - - - - X
+        RELEASES=ALL - - - - X
+      SEARCHON=NAMES - - - - X

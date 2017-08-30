@@ -1,0 +1,14 @@
+                 AWK S - S -
+               CHECK O - - -
+             PROGRAM X - X -
+            LANGUAGE O - O -
+                KIND O - - -
+             EXAMPLE X - - O
+              SYNTAX - - S -
+                  'S - - - X
+                 FOO - - - X
+                 BAR - - - S
+                 BAZ - - - X
+               /^FOO - - - X
+             BAZ/FOO - - - X
+                BAZ/ - - - S

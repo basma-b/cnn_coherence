@@ -1,0 +1,11 @@
+           GRAPHICAL X - - -
+         APPLICATION - O - -
+              UBUNTU - X - -
+           PARTITION - - - O
+              LAYOUT - - - X
+                  DD - - - X
+             COMMAND - - - X
+                  IE - - - S
+           RESIZE2FS - - - O
+                GRUB - - - O
+          /ETC/FSTAB - - - O

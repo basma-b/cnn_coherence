@@ -1,0 +1,14 @@
+         CONSEQUENCE X - - - - -
+             UPSTART - - S - - -
+                BOOT - - X X - -
+               ORDER - - - X - -
+              LAUNCH - - - X - -
+             PROCESS - - - X - -
+        SOURCES.LIST - - - - - X
+                SUDO - - - - - X
+             APT-GET - - - - - X
+              FFMPEG - - - - - S
+                NOTE - - - - - X
+              PLUGIN - - - - - S
+              DECODE - - - - - X
+              FORMAT - - - - - X

@@ -1,0 +1,20 @@
+        DEPENDENCIES X - - - - - -
+UBUNTU-SYSTEM-SERVICE - - S - - - -
+                   > - - X - - - -
+             APT-GET - - X - - - -
+             VERSION - - X - - - -
+                 TRY - - X - - - -
+                SUDO - - X - - - -
+                  -F - - S - - - -
+                REPO - - X - - - -
+                 DEP - - - - O - -
+              OUTPUT - - - - O - -
+                  -D - - - - S - -
+                 PPA - - - - X - -
+               PURGE - - - - O - -
+               GNOME - - - - - O -
+                 LOT - - - - - O -
+          EVERYTHING - - - - - X -
+                WARN - - - - - O -
+           REINSTALL - - - - - - O
+                  OS - - - - - - O

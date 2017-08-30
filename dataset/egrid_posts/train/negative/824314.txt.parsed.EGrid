@@ -1,0 +1,16 @@
+             COMMAND S S - - - - -
+            /DEV/DSP O O - - - - -
+               AUDIO O O S - - - -
+          PULSEAUDIO X X - - - - -
+           SOMETHING - - O - - - -
+                WORK - - X - - - -
+         APPLICATION - - S - - - -
+                 USE - - X - - - -
+               SOUND - - X - - - -
+                CARD - - O - - - -
+                THAT - - - - - S -
+              OPTION - - - - - O -
+              NVIDIA - - - - - X -
+            SETTINGS - - - - - X -
+            TWINVIEW - - - - - - O
+            XSCREENS - - - - - - O

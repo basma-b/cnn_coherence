@@ -1,0 +1,16 @@
+             DEFAULT X - - - -
+                 NTP O X - - -
+                THAT - O - - -
+          NTPDEFAULT - X - - -
+                TIME - - O - -
+             NTPDATE - - S - -
+                SYNC - - X - -
+                GREP - - - X -
+       ONLY-MATCHING - - - X -
+               REGEX - - - X -
+               SOUND - - - X -
+                UNIQ - - - S O
+              REPEAT - - - X -
+               /BOOT - - - X -
+                 -OP - - - X -
+                   | - - - - S

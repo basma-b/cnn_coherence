@@ -1,0 +1,8 @@
+     ACCESS/SECURITY O - - - - -
+              APACHE - - O - - -
+                USER - - - O - -
+               GROUP - - - X - -
+                NAME - - - X - -
+            SECURITY - - - - X -
+               ISSUE - - - - O -
+                 APP - - - - - O

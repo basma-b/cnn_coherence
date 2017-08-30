@@ -1,0 +1,6 @@
+              ANYONE S - - -
+            KVM/QEMU O - - -
+              DEVICE - - O X
+                HOST - - X O
+                  .. - - X X
+                 USB - - - X

@@ -1,0 +1,12 @@
+                 ALL X - - - - -
+         SPLASHIMAGE O - - - - -
+                GRUB X - - - - -
+             DEFAULT - - X - - X
+                BOOT - - X - - X
+           PARTITION - - X - - -
+              CHANGE - - - - - X
+              OPTION - - - - - X
+             COMMAND - - - - - O
+              GKSUDO - - - - - X
+               GEDIT - - - - - X
+ /BOOT/GRUB/MENU.LST - - - - - X

@@ -1,0 +1,15 @@
+            XSESSION X - - -
+        XSERVER-XORG X - - -
+         XFONTS-BASE O - - -
+                  WM S - - O
+             FLUXBOX X - - -
+                   > S - - -
+               XINIT X - - -
+            SOMESUCH O - - -
+                 FEW S - - -
+           PROCESSER X - - -
+                BASE O - - -
+              MATTER O - - -
+                 VNC - - S -
+                 SSH - - X -
+           VNCPASSWD - - - O

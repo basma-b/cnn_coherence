@@ -1,0 +1,9 @@
+                SWAP X - -
+           PARTITION O - -
+              SWAPON - S -
+               FSTAB - X -
+                  TA - - X
+               MOUNT - - O
+                   % - - S
+                 USE - - O
+              MEMORY - - S

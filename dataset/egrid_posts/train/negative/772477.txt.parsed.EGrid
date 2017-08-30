@@ -1,0 +1,13 @@
+               ENTRY O - - -
+                FILE X - - -
+        /ETC/CRON.D/ X - - -
+             ANACRON X X - -
+                LIST X X - -
+           SCHEDULER X - - -
+            SCHEDULE - X - -
+              ACTION - X - -
+             CRONTAB - - X -
+                  -E - - X -
+                SUDO - - X -
+                CLUE - - - S
+                  CD - - - O

@@ -1,0 +1,17 @@
+               GRUB2 X - - - -
+                BOOT X X - - -
+              OPTION X O - - -
+        PCI=ROUTEIRQ X - - - -
+            GRUB.CFG X X - - -
+                FILE - S - O -
+         INFORMATION - - O - -
+               QUOTE - - - X -
+              SPLASH - - - X -
+   /ETC/DEFAULT/GRUB - - - O -
+              GKSUDO - - - X -
+               GEDIT - - - X -
+              ACCESS - - - O -
+                SUDO - - - X -
+         UPDATE-GRUB - - - O -
+            SETTINGS - - - O -
+                 WAY - - - X -

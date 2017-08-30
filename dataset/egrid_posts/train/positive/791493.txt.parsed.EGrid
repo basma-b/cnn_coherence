@@ -1,0 +1,14 @@
+        ALTERNATIVES X - - -
+                 EXT X - - -
+            HARDWARE X - - -
+                RAID X X - -
+                CARD X - - -
+            ADDITION X - - -
+                 ZFS X - - -
+               BTRFS X - - -
+                THAT - O - -
+          REDUNDANCY - O - -
+                  MD - S - -
+            SOFTWARE - X - -
+                DISK - - - X
+               ARRAY - - - X

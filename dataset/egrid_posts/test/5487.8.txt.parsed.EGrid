@@ -1,0 +1,11 @@
+              KERNEL X - - -
+               PANIC O - - -
+                SYNC X - - -
+               TIMER S - - -
+           INTERRUPT X - - -
+               TAINT O - - -
+               CHECK - X - -
+                TIME - - - X
+             DRIVERS - - - O
+         NDISWRAPPER - - - X
+              CONFIG - - - X

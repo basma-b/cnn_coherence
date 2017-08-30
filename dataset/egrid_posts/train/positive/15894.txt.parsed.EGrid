@@ -1,0 +1,15 @@
+       2.6.8.1-4-386 O - - - - -
+             APT-GET S - - - - -
+LINUX-HEADERS-2.6.8.1-4-686 O - - - - -
+                  P4 - S - - - -
+      KERNEL-HEADERS - S - O O -
+                CANT - X - - - -
+NVIDIA-LINUX-X86-1.0-6629 - S - - - -
+              KERNEL - X - - - -
+             VERSION - O - - - -
+                   U - - - S - -
+            ANYTHING - - - O - -
+              NVIDIA - - - X - -
+              DRIVER - - - S - -
+                 ALL - - - - - X
+                LOVE - - - - - O

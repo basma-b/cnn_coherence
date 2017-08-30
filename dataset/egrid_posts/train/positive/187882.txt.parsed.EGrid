@@ -1,0 +1,25 @@
+               HTTPS O - - - - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/BINARYDRIVERHOWTO/NVIDIA S - - - - - - - -
+                  3D O - - - - - - - -
+             GEFORCE X - - - - - - - -
+   NVIDIA-GLX-CONFIG S - - - - - - - -
+               ERROR X - - - - - - - -
+                   X X - - - - - - - -
+       CONFIGURATION S - - - - - - - -
+               ALTER O - - - - - - - -
+              SCRIPT - S - - - - - - -
+                SUDO - - X - - - - X -
+                THIS - - S - - - - - -
+              MD5SUM - - X S - - - - -
+               ENTRY - - S - - - - - -
+             COMMAND - - O - - - - - -
+                 TEE - - X - - - - - -
+/VAR/LIB/X11XORG.CONG - - X - - - - - -
+              DRIVER - - - X - - - - -
+             SECTION - - - O - - - - -
+                  NV - - - X - - - O -
+              NVIDIA - - - X - - - X -
+  /ETC/X11/XORG.CONF - - - - - - - S -
+                NANO - - - - - - - X -
+              DEVICE - - - - - - - X -
+               SETHK - - - - - - - - X

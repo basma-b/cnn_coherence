@@ -1,0 +1,36 @@
+         192.168.2.1 O - - - - - - - - -
+                  IP O - - - - - - - - -
+              ROUTER X - - - - X - - - -
+              OUTPUT O - - - - - - - - -
+               ROUTE X - O - - - - - - -
+             COMMAND X - - - - - - - - -
+                DEST X - - - - - - - - -
+             GATEWAY X - - - - - - - - -
+             GENMASK X - - - - - - - - -
+               FLAGS X - - - - - - - - -
+                   U X - - - - - - - - -
+              METRIC X - - - - - - - - -
+                 REF X - - - - - - - - -
+                 USE X - - - - - - - - -
+               IFACE X - - - - - - - - -
+                ETH0 S - - - - - - - - -
+                LINE O - - - - X - - - -
+             DEFAULT - - X X - - - - - -
+             PROBLEM - - O - - - - - - -
+                 ONE - - - O - - - - - -
+               THERE - - - S - - X - - -
+           INTERFACE - - - - X - - - - -
+/ETC/NETWORK/INTERFACES - - - - - O - - - -
+             ADDRESS - - - - - O - - - O
+                  'S - - - - - S - - - -
+                 WAY - - - - - - X - - -
+      REFRESH/RELOAD - - - - - - S - - -
+                 ORS - - - - - - X - - -
+                SUDO - - - - - - - X - -
+/ETC/INIT.D/NETWORKING - - - - - - - S - -
+        38.99.67.116 - - - - - - - O - -
+               REPLY - - - - - - - O - -
+            INTERNET - - - - - - - - X -
+                 DNS - - - - - - - - X X
+              SERVER - - - - - - - - O -
+          GOOGLE.COM - - - - - - - - - X

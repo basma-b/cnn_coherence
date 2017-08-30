@@ -1,0 +1,13 @@
+                 ALL O - - - -
+            MODPROBE - X - - -
+                  -R - X - - -
+            EHCI_HCD - S - - -
+                CLUE - X - - -
+        EXPLANATIONS - - X - -
+              MODULE - - - O -
+                EHCI - - - O -
+           SOMETHING - - - X -
+                CARD - - - - X
+              READER - - - - S
+                BITE - - - - X
+               DOGDY - - - - O

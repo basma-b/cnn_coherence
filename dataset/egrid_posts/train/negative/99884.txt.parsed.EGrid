@@ -1,0 +1,22 @@
+                TIME S - - -
+                BOOT X - - -
+         /DEV/TTYSXX S - - -
+             DIVISOR O - - -
+             DEVICES X - - -
+                 PCI X - - -
+                CARD O - - -
+                  ID X - - -
+                PORT X - - -
+              SCRIPT X X - -
+             COMMAND O - - -
+                ROOT X - - -
+            COMPUTER X - - -
+/ETC/INIT.D/BOOTMISC.SH - X - -
+             SYSTEM- - - S -
+            SESSIONS - - O -
+             STARTUP - - X -
+             PROGRAM - - X -
+             SECTION - - X -
+              IMPORT - - - X
+               THEME - - - O
+              BUTTON - - - X

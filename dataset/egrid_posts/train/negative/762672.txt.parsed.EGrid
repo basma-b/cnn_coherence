@@ -1,0 +1,17 @@
+                 HDD X - - - - - -
+              FORMAT O - - - - - -
+                EXT4 X - - - - - -
+              DEVICE - X - - - - -
+                 APP - X - - - - -
+               SHELL - - X - - - -
+                DISK - - X - - - -
+        /DEV/YOURHDD - - - X - - -
+               FUSER - - - X - - -
+                 HMM - - - X - - -
+          /ETC/FSTAB - - - X - - -
+            NAUTILUS - - - - S - -
+            CONFLICT - - - - O - -
+               GUESS - - - - X - -
+           SOMETHING - - - - - O -
+               REPOS - - - - - X -
+               ERROR - - - - - - O

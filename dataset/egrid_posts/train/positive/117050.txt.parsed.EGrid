@@ -1,0 +1,26 @@
+              CLIENT X - X -
+             MACHINE X - - -
+              SERVER X - X -
+/ETC/SANE.D/NET.CONF X - - -
+          DIFFICULTY O - - -
+                WORK X - - -
+         PERMISSIONS O - - -
+                RULE X - - -
+                LIFE O - - -
+                OKAY O - - -
+              XINETD X - - -
+          USER/GROUP - S - -
+             CONFIGS - - X -
+                  .. - - X -
+             NOTHING - - X -
+                HTTP - - X -
+          SANED.CONF - - S -
+                SIDE - - X -
+            HOSTNAME - - O -
+               GROUP - - S X
+             SCANNER - - X X
+               SETUP - - S -
+                PERM - - O -
+            SCANNERS - - X -
+                THAT - - - S
+                USER - - - S

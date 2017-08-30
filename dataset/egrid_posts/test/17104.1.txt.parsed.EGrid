@@ -1,0 +1,10 @@
+          PULSEAUDIO S S -
+        AUTOSPAWN=NO - S -
+                WORK - O -
+             SERVICE - X -
+             PORTION - - O
+              SYSTEM - - X
+                DEPS - - S
+                  .. - - O
+               THERE - - S
+             PACKAGE - - O

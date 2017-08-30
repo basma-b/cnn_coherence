@@ -1,0 +1,13 @@
+                HOST - X X X - - - -
+               GUEST - X X S - - - -
+              SYSTEM - X - - - - - -
+                   M - - X - - - - -
+                 NAT - - X - - - - -
+         CONNECTIONS - - X - - - - -
+                 USE - - - X - - - -
+              BRIDGE - - - S - - - -
+                  IP - - - O - - - -
+             NETWORK - - - X - - - -
+               SETUP - - - - - - - X
+            IPTABLES - - - - - - - X
+            FIREWALL - - - - - - - X

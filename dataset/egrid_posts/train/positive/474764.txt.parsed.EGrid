@@ -1,0 +1,10 @@
+               OWNER X - - -
+                FILE - X - -
+         PERMISSIONS - O - -
+                 ETC - X - -
+               FSTAB - O - X
+            FILESWAP - O - -
+              STATUS - O - -
+                ROOT - - X -
+                 SET - - X -
+            PASSWORD - - O -

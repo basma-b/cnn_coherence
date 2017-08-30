@@ -1,0 +1,9 @@
+              ROOTFS X - - -
+             MACHINE X - - -
+           PARTITION O - - -
+              OPTION X - - -
+                BOOT - X X -
+                CANT - X S -
+                 NFS - - O -
+              KERNEL - - X -
+               BOARD - - X -

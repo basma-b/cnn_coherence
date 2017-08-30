@@ -1,0 +1,10 @@
+                FILE X -
+             DYNAMIC X -
+                  IP X -
+/ETC/NETWORK/INTERFACES S -
+     /ETC/INIT.D/NTP S -
+                 SAY S -
+             NOTHING O -
+             NTPDATE X -
+              INIT.D X -
+        DIST-UPGRADE - O

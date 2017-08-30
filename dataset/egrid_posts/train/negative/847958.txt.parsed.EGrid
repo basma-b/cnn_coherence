@@ -1,0 +1,11 @@
+                 HEY X - - -
+            SHUTDOWN X - - -
+             XSERVER X - - -
+     /ETC/INIT.D/GDM - S - -
+                SUDO - X - -
+             SERVICE - X - -
+                 GDM - X - -
+                STOP - X - -
+           PARAMETER - - - S
+               MOUNT - - - X
+           UMASK=777 - - - O

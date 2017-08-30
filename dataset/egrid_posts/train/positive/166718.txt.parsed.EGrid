@@ -1,0 +1,12 @@
+GNOME-VOLUME-MANAGER S - - - - - - -
+               START X - - - - - - -
+                EXIT - - O - - - - -
+            TERMINAL - - - X - - - -
+             MESSAGE - - - X S - - -
+               PRINT - - - X - - - -
+                  -N - - - - X - - -
+          FOREGROUND - - - - X - - -
+            ANYTHING - - - - - X - -
+                 LOG - - - - - X - -
+               CHECK - - - - - - - X
+     /VAR/LOG/SYSLOG - - - - - - - S

@@ -1,0 +1,13 @@
+                MAKE S - - - -
+           PARTITION X - - - -
+                VFAT O - - - -
+         /MEDIA/HDB6 X - - - -
+                STAY X - - - -
+              REBOOT X - - - -
+               FSTAB - X - - -
+                 AVI - - - X X
+     TOTEM-GSTREAMER - - - X -
+                WORK - - - X -
+           SOMETHING - - - - O
+              ENCODE - - - - X
+                  .. - - - - X

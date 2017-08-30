@@ -1,0 +1,16 @@
+              ANYONE S - - - - -
+          BOOTLOADER O - - - - -
+              SYNTAX - X - - - -
+                 VGA - X - - - -
+             COMMAND - X - - - -
+              CHANGE - X - - - -
+   /ETC/DEFAULT/GRUB - - S - - -
+               GRUB2 - - - X - -
+                  AD - - - X - -
+                BOOT - - - X - -
+             OPTIONS - - - O - -
+        GCONF-EDITOR - - - - S -
+/DESKTOP/GNOME/SESSION/REQUIRED_COMPONENTS - - - - X -
+               THERE - - - - - X
+               ENTRY - - - - - X
+                CALL - - - - - S

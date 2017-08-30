@@ -1,0 +1,8 @@
+         CONDDBMYSQL S - - - -
+           CONDITION - X - - -
+            DATABASE - S - - -
+                FACT - - - X -
+                FILE - - - S -
+                POST - - - - X
+             CLEANUP - - - - X
+              SCRIPT - - - - S

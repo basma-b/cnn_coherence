@@ -1,0 +1,27 @@
+               GUIDE O - - - - - -
+             MACHINE O - - - - - -
+             GATEWAY X - - - - - -
+                 USE X - - - - - -
+              WEBMIN X - - - - - -
+                  .. X - O O - - -
+             PACKAGE - O O - X - X
+              FORMAT - X - - - - -
+              UBUNTU - - X - - - -
+  LIBNET-SSLEAY-PERL - - O - X - -
+                SUDO - - X - - - -
+             APT-GET - - S - - - -
+             COMMAND - - O - - - -
+               ERROR - - X - - - -
+             MESSAGE - - X - - - -
+                ROOT - - O - X - -
+             READING - - X - - - -
+                LIST - - X - - - -
+          DEPENDENCY - - - X - - -
+                TREE - - - X - - -
+  /HOME/ZOMORFUBUNTU - - - - X - -
+            INTERNET - - - - X - -
+          REPOSITORY - - - - S - -
+/ETC/APT/SOURCES.LIST - - - - X - -
+               THING - - - - X - -
+                INFO - - - - - S -
+               HOARY - - - - - O -

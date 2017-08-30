@@ -1,0 +1,11 @@
+        DEPENDENCIES X - - - -
+             APT-GET X - - - -
+               GNOME X - - - -
+                 X11 X - - - -
+              STARTX X - - - -
+               XINIT - X - - -
+             PROCESS - X - - -
+           .XSESSION - - X - -
+                FILE - - O - -
+                 RUN - - - X -
+     /ETC/INIT.D/GDM - - - X -

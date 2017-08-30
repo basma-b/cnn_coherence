@@ -1,0 +1,16 @@
+                GRUB S - - - - - - - -
+            MAVERICK S - - - - - - - -
+               FRESH X - - - - - - - -
+              LIVECD - X - - - - - - -
+                ROOT - - X - - - - - -
+           PARTITION - - O - - - - - -
+               /MNT/ - - X - - - - - -
+         UPDATE-GRUB - - O - - - - - -
+              DEVICE - - O - - - - - -
+                   / - - X - - - - - -
+                /DEV - - X - - - - - -
+                 ANY - - - - S - - - -
+                 THE - - - - - O - - -
+             FIXGRUB - - - - - - S - -
+              CHROOT - - - - - - - X -
+               /DEV/ - - - - - - - O -

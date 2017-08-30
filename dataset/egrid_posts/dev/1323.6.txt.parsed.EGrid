@@ -1,0 +1,14 @@
+            ETHERNET X X -
+                CARD X - -
+            IFCONFIG X - -
+                 LEM - S -
+                LINK - X -
+               ENCAP - X -
+              HWADDR - X -
+                ALSA - - S
+             MANAGER - - X
+                  .. - - O
+               PULSE - - S
+               LAYER - - O
+                 TOP - - X
+                BOTH - - X

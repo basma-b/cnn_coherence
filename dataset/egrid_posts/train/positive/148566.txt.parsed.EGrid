@@ -1,0 +1,17 @@
+         DIRECTORIES X - - -
+             MACHINE X - - -
+               SHARE X - - -
+           COMPUTERS X - - -
+             NETWORK X - - -
+            PASSWORD X - - -
+               SAMBA - S - -
+            CONSTANT - O - -
+                 NFS - X - -
+            SECURITY - S - -
+                BASE - O - -
+                  IP - X - -
+                 SFS - - X -
+               SSHFS - - O S
+              ACCESS - - - O
+           DIRECTORY - - - O
+                ROOT - - - X

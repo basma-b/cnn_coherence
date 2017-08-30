@@ -1,0 +1,7 @@
+                LINK O -
+              DEVICE X -
+                /DEV X -
+                  CD S -
+                SHOW O -
+                TYPE X -
+          /DEV/CDROM X -

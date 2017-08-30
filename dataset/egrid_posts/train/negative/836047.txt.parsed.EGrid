@@ -1,0 +1,26 @@
+            DOCUMENT X - - - - - - - - -
+                LINK O - - - - - - - - -
+        REPOSITORIES O - - - - - - - - -
+               THOSE X - - - - - - - - -
+OLD-RELEASES.UBUNTU.COM X - - - - - - - - -
+             COMMAND O - - - - - - - - -
+/ETC/UPDATE-MANAGER/RELEASE-UPGRADES X S O - - - X - - -
+          PROMPT=LTS - X X - - - - - - -
+             UPGRADE - X S - - - - X - -
+                  .. - O O - X O - - - -
+                 LTS - S - - - - - X - -
+       DOCUMENTATION - O - - - - - - - -
+             PACKAGE - - - O - - - - - -
+              NUMBER - - - - - S - - - -
+          OPERATIONS - - - - - X - - - -
+             MINUTES - - - - - X - - - -
+                HELP - - - - - X - - - -
+              UPDATE - - - - - - X - - -
+                SUDO - - - - - - X X - -
+            APTITUDE - - - - - - X - - -
+        SAFE-UPGRADE - - - - - - X - - -
+  DO-RELEASE-UPGRADE - - - - - - X X - -
+              KARMIC - - - - - - - X - -
+               SORRY - - - - - - - - X -
+            QUESTION - - - - - - - - X -
+         GNOME-SHELL - - - - - - - - - S

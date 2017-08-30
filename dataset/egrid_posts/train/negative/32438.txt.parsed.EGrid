@@ -1,0 +1,17 @@
+                BOOT X - - -
+              SYSTEM O - - -
+           PARTITION X - - -
+                DATA O - - -
+                  OS X - - -
+              UBUNTU X - - -
+             WINDOWS X - - -
+         PERMISSIONS O - - -
+          /ETC/FSTAB - X - -
+                  MD - - - S
+          DATA-CHECK - - - X
+                RAID - - - X
+               ARRAY - - - X
+                 MD0 - - - X
+                THIS - - - S
+               WEEKS - - - X
+               CHECK - - - X

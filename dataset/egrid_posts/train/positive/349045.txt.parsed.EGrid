@@ -1,0 +1,16 @@
+         ACPI=NOCAPI X - - - - - -
+                BOOT X X - - - - -
+                MENU X X - - - - -
+                DONT - X - - - - -
+                LINE - O - - - - -
+                 END - X - - - - -
+              KERNEL - X X X - - -
+             EXAMPLE - - X - - - -
+              SPLASH - - X X - - -
+         ACPI=NOACPI - - X X - - -
+                 AHA - - X - - - -
+                  .. - - - S - - -
+                WORK - - - O - - -
+                MINE - - - S - - -
+               RIGHT - - - X - - -
+ROOT=UUID=04749E17-AEDA-40D2-923F-AB4257BD4095 - - - X - - -

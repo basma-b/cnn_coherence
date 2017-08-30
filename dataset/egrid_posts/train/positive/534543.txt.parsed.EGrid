@@ -1,0 +1,17 @@
+             DEFAULT X - - - -
+             GATEWAY X - - - O
+                WIRE X - - - -
+          CONNECTION X - - - -
+           127.0.0.1 - X - - -
+              ROUTER - X - - X
+       CONFIGURATION - O - - -
+           INTERFACE - S - - -
+                DHCP - X - X -
+           CONFIGURE - O - - -
+                  IP - X - - S
+         192.168.0.1 - - O - -
+                INFO - - O - -
+                  PC - - S - -
+                LOOK - - - O -
+                SAME - - - - O
+                   * - - - - S

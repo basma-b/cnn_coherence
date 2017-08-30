@@ -1,0 +1,16 @@
+              KERNEL O - -
+            REGISTER O - -
+             PACKAGE O - -
+             MANAGER X - -
+ LINUX-IMAGE-GENERIC S - -
+             REQUIRE O - -
+              THERES X - -
+               ISSUE S - -
+        DEPENDENCIES X - -
+                WORK X - -
+                USER - - O
+               GROUP - - S
+            EVERYONE - - O
+               USERS - - O
+            COMPUTER - - X
+             GID=100 - - X

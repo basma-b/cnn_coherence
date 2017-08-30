@@ -1,0 +1,17 @@
+          PROCESSORS O - - - -
+                  PC X - - - -
+      HYPERTHREADING X - - - -
+                 MBR - S - - -
+            /DEV/SDA - X - - -
+                  DD - X X X -
+         IF=/DEV/SDA - X - - -
+             COUNT=1 - O - - -
+                 ^^^ - - S - -
+         OF=/DEV/SDA - - S - -
+               IMAGE - - O - -
+               DRIVE - - X - -
+                   C - - X - -
+             WINDOWS - - X - -
+          BOOTLOADER - - S - -
+               LINUX - - O - -
+                THAT - - - O -

@@ -1,0 +1,10 @@
+              UPDATE X - -
+                LIST - X -
+                   | - X -
+                GREP - X -
+                  ^I - X -
+                  -V - S -
+              OUTPUT - O -
+                 BAD - - X
+                MISS - - X
+               BLOCK - - O

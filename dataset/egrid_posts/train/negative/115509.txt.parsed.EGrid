@@ -1,0 +1,17 @@
+              ANYONE S - - -
+                BITE X - - -
+                HELP X - - -
+              SCRIPT O - S -
+             STARTUP X - - -
+       WIFICLIENT.SH - O - -
+              PCMCIA - X - -
+                CARD - X - -
+            WIRELESS - X - -
+             NETWORK - X - -
+             DRIVERS - O - -
+                ROOT - - X -
+                PATH - - O -
+/ETC/INIT.D/BOOTMISC.SH - - X -
+                 TAR - - - X
+              REFUSE - - - S
+             ARCHIVE - - - O

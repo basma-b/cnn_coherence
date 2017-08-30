@@ -1,0 +1,17 @@
+                FILE O X - X - -
+                LOOP - X X - - -
+               MOUNT - - X - - -
+               IOCTL - - O - - -
+         LOOP_CLR_FD - - O - - -
+              DEVICE - - X - - -
+            RESOURCE - - O - - -
+          FILESYSTEM - - X - - -
+                TYPE - - O - - -
+              CHANGE - - - X - -
+    /BOOT/INITRD.IMG - - - - X -
+                   > - - - - S -
+               YIELD - - - - S -
+              SUFFIX - - - - X -
+                WORK - - - - O -
+                HELP - - - - - X
+                LOOK - - - - - O

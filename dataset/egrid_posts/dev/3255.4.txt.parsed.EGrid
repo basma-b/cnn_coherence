@@ -1,0 +1,22 @@
+             NETWORK X - - -
+           INTERFACE X - - -
+             POST-UP S - - -
+              SCRIPT O - - -
+         RESOLV.CONF X - - -
+            RESOLVER O - - -
+     NETWORK-MANAGER X - - -
+/ETC/NETWORK/INTERFACES X - - -
+               IFACE X - - -
+              CHANGE X - - -
+              DAEMON O X - -
+          STATEMENTS X - - -
+                NAME X - - -
+             SERVERS O - - -
+                   * - S - -
+                 5.4 - - - X
+                 PPA - - - X
+               HTTPS - - - O
+               5.4.X - - - X
+             SUPPORT - - - O
+               LUCID - - - X
+             PRECIES - - - X

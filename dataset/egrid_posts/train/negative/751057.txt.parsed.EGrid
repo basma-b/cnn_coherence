@@ -1,0 +1,15 @@
+                 ALL X - - - - - - -
+             OFFLINE - O - - - - - -
+             10.04.1 - X - - - - - -
+              SERVER - - O - - - - -
+             NETWORK - - X - - - - -
+      OPENSSH-SERVER - - O - - - - -
+                THIS - - - O O - - -
+             PACKAGE - - - S - - - -
+        DEPENDENCIES - - - O - - - -
+            LIBWRAP0 - - - O - - - -
+                   > - - - X - - - -
+                 KVM - - - - X - - -
+            INTERNET - - - - - X - -
+              ACCESS - - - - - X - -
+             MACHINE - - - - - X - -

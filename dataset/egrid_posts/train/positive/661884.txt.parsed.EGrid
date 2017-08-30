@@ -1,0 +1,13 @@
+             COMMAND X - - - O
+                LINE X - - - -
+               BATCH X - - - -
+             PROCESS X - - - -
+                FILE O - - O O
+         OUTPUT-FILE X - - - -
+            MENCODER - - - O -
+                 AVI - - - X -
+           DIRECTORY - - - - X
+           WILDCARDS - - - - X
+                WORK - - - - X
+               INPUT - - - - X
+              OUTPUT - - - - X

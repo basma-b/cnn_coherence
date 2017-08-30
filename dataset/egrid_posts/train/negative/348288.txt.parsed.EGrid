@@ -1,0 +1,16 @@
+                LADY S - - - - -
+                 USE X - - - - -
+            TERMINAL - O - - - -
+                ROOT - X - - - -
+                SUDO - X - - - -
+                USER - O - - - -
+                NANO - X - - - -
+        /ETC/SUDOERS - S - - - -
+                BASH - X - - - -
+               USERS - S - - - -
+                  -R - - - - - S
+          CONFIG\\.H - - - - - X
+                   < - - - - - O
+                LIST - - - - - X
+            CONFIG.H - - - - - S
+      LINUX/CONFIG.H - - - - - O

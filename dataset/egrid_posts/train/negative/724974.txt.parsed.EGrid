@@ -1,0 +1,26 @@
+               ISSUE X - - - - -
+            SYNAPTIC X - - - - -
+                CANT X - - - - -
+             UPGRADE X - - - - -
+             PACKAGE X - - - - -
+        APPLICATIONS X - - - - -
+                   > X - - - - -
+         ACCESSORIES X - - - - -
+            TERMINAL O - - - - -
+             COMMAND O - - - - -
+                SUDO X X X X - -
+                  -I X - - - - -
+              UPDATE X - - - - -
+                DPKG S S S - - -
+                  -A X X - - - -
+             PROBLEM O - - - - -
+               ERROR - X - - X -
+                HTTP - X S - X -
+            SOLUTION - O - - - -
+           CONFIGURE - - S - - -
+/VAR/CACHE/APT/PKGCACHE.BIN - - O - - -
+/VAR/CACHE/APT/SRCPKGCACHE.BIN - - O X - -
+                  RM - - - X - -
+          PERMISSION - - - X - -
+                  OK - - - X - -
+                  -F - - - - S -

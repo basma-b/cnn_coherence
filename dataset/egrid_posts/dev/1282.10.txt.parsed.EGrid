@@ -1,0 +1,16 @@
+SYSTEM-SETTINGS-POWER S - - - - - - - -
+                SHOW O - - - - - - - -
+             BATTERY S - - - - - - - -
+                 PKG - S - - - - - - -
+              BINARY - O - - - - - - -
+              SYSTEM - - X - - - - - -
+           APT-CACHE - - X - - - - - -
+              GOOGLE - - - - - X - - -
+              CHROME - - - - - S - X -
+               FLASH - - - - - X - - -
+              PLUGIN - - - - - X - - -
+                BASE - - - - - X - - -
+                 API - - - - - X - - -
+         CLICKTOPLAY - - - - - - - X -
+       FUNCTIONALITY - - - - - - - O -
+              THINGS - - - - - - - - X

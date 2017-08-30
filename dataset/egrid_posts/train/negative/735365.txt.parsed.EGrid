@@ -1,0 +1,23 @@
+           INSTALLER X - - - - - - - -
+                 USE X - - - - - - - -
+         FRAMEBUFFER X - - - - S - - -
+            FB=FALSE - X - - - - - - -
+DEBIAN-INSTALLER/FRAMEBUFFER=FALSE - S - - - - - - -
+                NOFB - O - - - - - - -
+                 WAY - - X - - - - - -
+                  CD - - X - - - - - -
+              DOSENT - - X - - - - - -
+               WORKV - - X - - - - - -
+                WERY - - X - - - - - -
+              NVIDIA - - X - - - X - -
+             SYSTEMS - - X - - - - - -
+            PLYMOUTH - - - - O - - - -
+                TIME - - - - - - X - -
+               ISSUE - - - - - - X - -
+                CARD - - - - - - O - -
+             DRIVERS - - - - - - X - -
+                DONT - - - - - - S - -
+                 TRY - - - - - - - - X
+              COURSE - - - - - - - - X
+               THERE - - - - - - - - S
+             NOTHING - - - - - - - - O

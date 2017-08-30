@@ -1,0 +1,21 @@
+               POINT - X - - - - - - - - -
+               FILE2 - X - - - - - - - - -
+                FILE - - S - - - - X - - -
+             SYMLINK - - X - - - - - - - -
+                 MAN - - X - - - - - - - -
+                  LN - - X - - - - - - - -
+                  -S - - - O - S - - - - -
+               THESE - - - - X - - - - - -
+                THAT - - - - - - O - - - -
+                LINK - - - - - - - O - - -
+           BASICALLY - - - - - - - X - - -
+            ANYTHING - - - - - - - - X - -
+/SITES-AVAILABLE/MOO - - - - - - - - X - -
+             DEFAULT - - - - - - - - X - -
+                 MOO - - - - - - - - X - -
+                 TRY - - - - - - - - X - -
+               SETUP - - - - - - - - X - -
+              APACHE - - - - - - - - X - -
+            WEBSITES - - - - - - - - X - -
+               THING - - - - - - - - - - X
+             CORRECT - - - - - - - - - - O

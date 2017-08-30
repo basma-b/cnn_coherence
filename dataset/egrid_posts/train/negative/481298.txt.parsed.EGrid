@@ -1,0 +1,27 @@
+               ALIAS S - X X - -
+                WORK O - - - - -
+                  .. - X - O - -
+                 WAY - - S - - -
+                TYPE - - X - - X
+             COMMAND - - - S - -
+               |GREP - - - X - -
+        ALIASTOCHECK - - - S - -
+               THERE - - - S - -
+           SOMETHING - - - O - -
+            STANDARD - - - X - -
+                 HOP - - - S - -
+                 CUP - - - S - -
+             DRIVERS - - - O - -
+/USR/LOCAL/SHARE/FOOMATIC/DB/SOURCE/PRINTER - - - X - -
+                THAT - - - - - S
+                  LS - - - - - X
+                  ~/ - - - - - X
+            .XINITRC - - - - - S
+                 PUT - - - - - X
+       GNOME-SESSION - - - - - S
+                EXIT - - - - - X
+              STARTX - - - - - S
+                SUDO - - - - - X
+             KILLALL - - - - - O
+                   X - - - - - X
+             SESSION - - - - - O

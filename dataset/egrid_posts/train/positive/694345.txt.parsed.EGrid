@@ -1,0 +1,12 @@
+                HELP X - - -
+                GRUB O - - -
+                BOOT X - X -
+           PARTITION X - X -
+             PROBLEM - X - -
+              LIVECD - - S -
+                SUDO - - X -
+            /DEV/SDA - - O -
+              CHROOT - - X -
+           /DEV/SDA1 - - X -
+         UPDATE-GRUB - - X -
+               RAID1 - - - X

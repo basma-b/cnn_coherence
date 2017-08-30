@@ -1,0 +1,22 @@
+                 USB X - - - X - -
+               STICK O - - - X - -
+            INTREPID X - - - - - -
+                 ISO - O - - - - -
+                ROOT - X - - - - -
+               FLASH - X - - - - -
+               DRIVE - X - - - - -
+           /ISOLINUX - O - - - - -
+           /SYSLINUX - X - - - - -
+/SYSLINUX/SYSLINUX.CFG - X - - - - -
+             VERSION - - O - - - -
+            SYSLINUX - - X - - - -
+                THAT - - - X - - -
+                 JOB - - - X - - -
+               THERE - - - - S - -
+              OPTION - - - - X - -
+              LIVECD - - - - X - -
+                IIRC - - - - X - -
+         METAPACKAGE - - - - - - S
+          EVERYTHING - - - - - - O
+          DEPENDENCY - - - - - - X
+            NONSENSE - - - - - - X

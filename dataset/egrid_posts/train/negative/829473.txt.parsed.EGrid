@@ -1,0 +1,23 @@
+                   * S - S - - - - -
+             SOMEONE X - X - - - - -
+          PHPMYADMIN O - O - - - - -
+            USERNAME - X - X - - - -
+            PASSWORD - X - X - O - -
+              SECOND - - - - O - - -
+               MYSQL - - - - O - O -
+               ERROR - - - - X - - -
+               HY000 - - - - X - - -
+              SERVER - - - - X - - -
+              SOCKET - - - - X - - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK - - - - X - - -
+                  OK - - - - X - - -
+                CODE - - - - - O - -
+                PICI - - - - - S - -
+               LOGIN - - - - - X - -
+                 WAY - - - - - X - -
+                DOWN - - - - - - S -
+         MYSQLD_SAFE - - - - - - X -
+   SKIP-GRANT-TABLES - - - - - - X -
+               PKILL - - - - - - X -
+                HTTP - - - - - - O -
+//CODEPAD.ORG/XIHU1YR2 - - - - - - O -

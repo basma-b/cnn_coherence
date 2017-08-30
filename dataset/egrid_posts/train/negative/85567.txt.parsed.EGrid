@@ -1,0 +1,14 @@
+               BREAK S - - - -
+                 GCC - O - - -
+              KERNEL - O - - -
+               3.4.5 - X - - -
+              SYSTEM - X - - -
+                 4.0 - X - - -
+              VMWARE - - O - -
+                 DMK - - X - -
+              DETLEF - - - - S
+             MD97600 - - - - O
+           /DEV/SDB1 - - - - O
+              BRW-RW - - - - X
+                ROOT - - - - O
+             PLUGDEV - - - - X

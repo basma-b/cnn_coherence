@@ -1,0 +1,16 @@
+             PROCESS S - - - - - - - - -
+             IFPLUGD S - X - - - - - - -
+              SYSTEM S X - - - - - - - -
+                LIST O - - - - - - - - -
+             /ETC/RC X - - - - - - - - -
+              STARTS - O - - - - - - - -
+              THINGS - X - - - - - - - -
+           DIRECTORY - - - - X - - - - -
+                   > - - - - - S - - - -
+             ADDRESS - - - - - S - - - -
+                  PC - - - - - X - - - -
+   /USR/SBIN/IFPLUGD - - - - - - S - - -
+              DAPPER - - - - - - X X - -
+               STOCK - - - - - - - - X -
+             PACKAGE - - - - - - - - O -
+             VERSION - - - - - - - - - X

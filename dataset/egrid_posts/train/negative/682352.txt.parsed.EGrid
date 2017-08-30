@@ -1,0 +1,10 @@
+              SYSTEM S - -
+              CHANGE O - -
+         ASOUND.CONF X - -
+                SUDO - X -
+             SERVICE - X -
+          ALSA-UTILS - S -
+           ALSASOUND - O -
+              ZEE1OT - - S
+             PACKAGE - - O
+                 OPS - - X

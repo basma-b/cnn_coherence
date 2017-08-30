@@ -1,0 +1,16 @@
+                   A S - - - - -
+                LINE X - - - - -
+ GRUB_CMDLINE_LINUX= X - - - - -
+               QUOTE X - - - - -
+                FILE X - - - - -
+         UPDATE-GRUB O - - - - -
+          EVERYTHING - - - - S -
+                  'S - - - - X -
+           SOMETHING - - - - O -
+    DPKG-RECONFIGURE - - - - S -
+                 HDB - - - - X -
+            DATABASE - - - - O -
+                LDIF - - - - X -
+                BASE - - - - X -
+           CN=CONFIG - - - - X -
+              METHOD - - - - O -

@@ -1,0 +1,27 @@
+             REALVNC X - -
+             EDITION S - -
+               THERE S - -
+             PROBLEM S - -
+              LAUNCH O - -
+           VNCVIEWER O - -
+               ERROR X - -
+                LOAD X - -
+               SHARE X - -
+           LIBRARIES S - -
+LIBSTDC++-LIBC6.2-2.SO.3 X - -
+              OBJECT X - -
+                FILE O - -
+           DIRECTORY S - -
+             SYMLINK O O -
+             VERSION X X -
+                CALL S S -
+             EXAMPLE - X -
+/USR/LIB/LIBSTDC++-SOME-VERSION-HERE.SO - X -
+           WORKGROUP - - X
+ /ETC/SAMBA/SMB.CONF - - S
+                LINE - - O
+             WINDOWS - - X
+                 BOX - - S
+             COMMAND - - S
+             CONFIGS - - S
+             SERVICE - - O

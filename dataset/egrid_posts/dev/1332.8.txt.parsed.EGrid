@@ -1,0 +1,6 @@
+                WIRE X X -
+             CONNECT - O -
+              SOURCE - - X
+                LIST - - O
+             NETWORK - - X
+               ERROR - - O

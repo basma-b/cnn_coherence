@@ -1,0 +1,14 @@
+                LSOF S - - - - - -
+                   ' - X - - - - -
+                SUDO - S - - - - -
+                  -S - S - - - - -
+                ROOT - X - - - - -
+               SHELL - O - - - - -
+                 -RF - X - - - - -
+/CHROOT/WHATEVER/BADNESS - X - - - - -
+           INTERFACE - - X - - - -
+             SUPPORT - - X - - - -
+                BASE - - - X - - -
+           LIBRARIES - - - O - - -
+                GTK2 - - - O - - -
+               UNITY - - - - - S -

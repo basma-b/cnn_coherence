@@ -1,0 +1,27 @@
+                NICE S - - - -
+             PROGRAM S - - - -
+                 CPU S - - - -
+             PROCESS X X X - -
+              IONICE S - - - -
+                 I/O X - - - -
+            SCHEDULE X - - - -
+               THERE X - - - -
+              MEMORY X X - - -
+             EXAMPLE - X - - -
+              UBUNTU - X - - -
+                MUCH - X - - -
+               BLOAT - X - - -
+   NON-TIME-CRITICAL - X - - -
+                 WAY - X - - -
+                 USE - X - - -
+                THAT - - O - -
+               LOOKS - - S - -
+/PROC/SYS/VM/SWAPINESS - - X - -
+                 SET - - X - -
+           SOMETHING - - X - -
+          SWAPPINESS - - O - -
+              CGROUP - - X - -
+                HTTP - - X - -
+//WWW.KERNEL.ORG/DOC/DOCUMENTATION/CGROUPS/CGROUPS.TXT - - X - -
+//WWW.KERNEL.ORG/DOC/DOCUMENTATION/CGROUPS/MEMORY.TXT - - X - -
+                  .. - - - - O

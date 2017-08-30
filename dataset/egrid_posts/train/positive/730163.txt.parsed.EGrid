@@ -1,0 +1,14 @@
+           PARTITION X O - -
+              SERVER X - - -
+               DRIVE X - - -
+                 BOX - S - -
+               10.04 - O - -
+              ACCESS - O - -
+                WIN7 - X - -
+                FILE - O - -
+ /DEV/DRIVEPARTITION - - X -
+      /MOUNTLOCATION - - O -
+                 SDA - - - O
+                SUDO - - - S
+               /TEST - - - S
+               POINT - - - X

@@ -1,0 +1,22 @@
+                LINK X X - - -
+              FOLDER X O - - -
+                NAME - O - - -
+             COMMAND - X - - -
+                   K - X - - -
+           DIRECTORY - S - - -
+           SUPERUSER - S - - -
+         DIRECTORIES - X - - -
+                NOTE - X - - -
+              SYSTEM - X - - -
+        RESTRICTIONS - X - - -
+                   > - S - - -
+                RISK - X - - -
+                FILE - S - - -
+                TERM - X - - -
+              SAFETY - X - - -
+                  OS - X - - -
+           INTEGRITY - X - - -
+              FORMAT - - X - -
+                   D - - - X -
+                SUDO - - - - X
+/ETC/MODPROBE.D/BLACKLIST - - - - X

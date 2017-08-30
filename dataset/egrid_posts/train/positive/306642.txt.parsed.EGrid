@@ -1,0 +1,14 @@
+        CHECKINSTALL O - - - - - - -
+            SOFTWARE O - - - - - - -
+                SUDO - - S - - - - -
+            APTITUDE - - O - - - - -
+             PROGRAM - - O - - - - -
+                   H - - X - - - - X
+                PAGE - - - - - S - -
+                PROB - - - - - X - -
+                TYPE - - - - - - X -
+             /FFMPEG - - - - - - X -
+                  HA - - - - - - S -
+                   / - - - - - - S -
+              SEARCH - - - - - - O -
+                  VI - - - - - - - X

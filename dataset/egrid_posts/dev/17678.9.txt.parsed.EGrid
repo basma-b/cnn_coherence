@@ -1,0 +1,33 @@
+              EXPORT X - - - S - - - - - -
+PYTHONDONTWRITEBYTECODE=1 X - - - - - - - - - -
+              PYTHON S - - - - - - - - - -
+              SCRIPT O - - X - - - - - - -
+                FILE O - - - - - - - - - -
+                  .. - - O - - - - - - - -
+              BASHRC - - X - - - - - - - -
+            TERMINAL - - - X - - - - - - -
+                   $ - - - - O - - - - - -
+             PROBLEM - - - - O - - - - - -
+             COMMAND - - - - X - - - - - -
+              LAUNCH - - - - O - - - - - -
+               SHELL - - - - X - - - - - -
+                HTTP - - - - - - X - - - -
+TLS_V1_0_CIPHER_SUITES_ - - - - - - X - - - -
+                BITE - - - - - - S - - - -
+              SEARCH - - - - - - X - - - -
+                TERM - - - - - - O - - - -
+               THOSE - - - - - - - X - - -
+             CIPHERS - - - - - - - X - - -
+          MECHANISMS - - - - - - - X - - -
+                SOME - - - - - - - S - - -
+  DHE-RSA-AES256-SHA - - - - - - - - X - -
+              CIPHER - - - - - - - - X - -
+               NGINX - - - - - - - - S - -
+           CIPHERSET - - - - - - - - O - -
+            BLOWFISH - - - - - - - - - X -
+             TWOFISH - - - - - - - - - X -
+             SERPENT - - - - - - - - - X -
+           WHILRPOOL - - - - - - - - - S -
+                 SSH - - - - - - - - - X -
+                IRCD - - - - - - - - - - S
+           LOCALHOST - - - - - - - - - - X

@@ -1,0 +1,25 @@
+                 DSL - X - - - - - -
+              MODEMS - S - - - - - -
+              DEVICE - X - - - - - -
+               PPPOE - - X - O - - -
+                WICH - - X - - - - -
+                 MAC - - S - - - - -
+                PPP0 - - X - - - - -
+               WHICH - - X - - - - -
+                PPP1 - - X - - - - -
+          /ETC/IFTAB - - - X X - - -
+            VERSIONS - - - X - - - -
+              UBUNTU - - - X - - - -
+               HARDY - - - X - - - -
+             EXAMPLE - - - O - - - -
+                 THE - - - - X - - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - - - X - - -
+               GUTSY - - - - S - - -
+                THIS - - - - O - - -
+                HMMM - - - - X - - -
+                ETH+ - - - - X - - -
+          CONNECTION - - - - X - - -
+              ANSWER - - - - - O - -
+                 ONE - - - - - X - X
+                  -I - - - - - - - X
+          DIFFERENCE - - - - - - - X

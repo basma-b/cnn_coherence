@@ -1,0 +1,16 @@
+             COMMAND X - - S - - -
+                LINE X - - - - - -
+               FSTAB X - - - - - -
+       FACTBOY818181 - O - - - - -
+             NTFS-3G - X - - S - -
+            UNIVERSE - - - X - - -
+               REPOS - - - S - - -
+                 USE - - - O - - X
+               WRITE - - - O - - -
+                NTFS - - - - X - -
+              ACCESS - - - - X O -
+              UBUNTU - - - - X - -
+                SITE - - - - X - -
+                .DEB - - - - O - -
+                 DEB - - - - X - -
+                   ' - - - - - X -

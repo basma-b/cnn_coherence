@@ -1,0 +1,16 @@
+                LAMP X - - - - - -
+               12.04 S - - - - - -
+                TYPE X - - X - - -
+       127.0.0.1/SUB O - - - - - -
+              APACHE S - X - - - -
+           INDEX.PHP O - - - - - -
+          INDEX.HTML S - - - - - -
+                THIS - X - - - - -
+               SHELL - - O - - - -
+                 PHP - - - S - - -
+LOCALHOST/SUB/INDEX.PHP - - - O - - -
+       LOCALHOST/SUB - - - - S - -
+                 ONE - - - - O - -
+                HTTP - - - - - X X
+//1.221.147.11:8080/ICOUP/ - - - - - S -
+                WORK - - - - - - X

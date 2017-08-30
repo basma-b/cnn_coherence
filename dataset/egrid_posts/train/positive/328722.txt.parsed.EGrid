@@ -1,0 +1,40 @@
+               AUDIT S - - - - - - - - - - - -
+               THERE S - - - - - - - - - - - -
+               ERROR O - - - - - - - - - - - -
+               FAULT - X - - - - - - - - - - -
+                  NO - - S - - - - - - - - - -
+/ETC/CUPS/CUPSD.CONF - - O - - - - - - - - - -
+                ROOT - - O - - - - - - - - - -
+                 CUP - - O S - - - - - X - - -
+               ENTRY - - - X - - - - - - - - -
+              FIDDLE - - - X - - - - - - - - -
+             DEFAULT - - - X - - - - - - - - -
+               1.2.8 - - - S - - - - - - - - -
+            ANYTHING - - - - X - - - - - - X -
+                 BUG - - - - - X - - - - - - -
+               HTTPS - - - - - O - - - - - - -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/CUPSYS/+BUG/131952 - - - - - S - - - - - - -
+ETC/APPARMOR.D/USR.SBIN.CUPSD - - - - - - X - - - - - -
+          WORKAROUND - - - - - - X - - - - - -
+                HTTP - - - - - - - X - - - - -
+//WWW.WEBHOSTINGTALK.COM/ARCHIVE/INDEX.PHP/T-618209.HTML - - - - - - - X - - - - -
+             ARCHIVE - - - - - - - X - - - - -
+               FORUM - - - - - - - S - - - - -
+         WORKAROUNDS - - - - - - - O - - - - -
+                WORK - - - - - - - - O - - - -
+             PRINTER - - - - - - - - S - - - -
+                HINT - - - - - - - - X - - - -
+                7.04 - - - - - - - - X - - - -
+                7.10 - - - - - - - - X - - - -
+          GUTENPRINT - - - - - - - - - X - - -
+              -STUFF - - - - - - - - - O - - -
+            VERSIONS - - - - - - - - - X - - -
+                 JOB - - - - - - - - - - - O -
+             BROTHER - - - - - - - - - - - X -
+             HL-2030 - - - - - - - - - - - X -
+               NOISY - - - - - - - - - - - X -
+                LEDS - - - - - - - - - - - X -
+               PRINT - - - - - - - - - - - X -
+                   / - - - - - - - - - - - - S
+                HELP - - - - - - - - - - - - X
+             ANYWAYS - - - - - - - - - - - - X

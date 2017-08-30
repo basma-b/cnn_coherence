@@ -1,0 +1,19 @@
+/ETC/NETWORK/INTERFACES X X X - - - - - - -
+                FILE - - - X - - - - - -
+            SETTINGS - - - X - - - - - -
+                ETH0 - - - - O - - - - -
+                THAT - - - - - O X - - -
+                NAME - - - - - O - - - -
+              DRIVER - - - - - X - - - -
+           BLACKLIST - - - - - X X - - -
+              DETAIL - - - - - - X - - -
+               MODEL - - - - - - O - - -
+                CARD - - - - - - X - - -
+              NVIDIA - - - - - - - X - -
+            ETHERNET - - - - - - - X - -
+             ADAPTER - - - - - - - X - -
+            PASTEBIN - - - - - - - - - O
+              RESULT - - - - - - - - - O
+             COMMAND - - - - - - - - - O
+               LSPCI - - - - - - - - - X
+               LSMOD - - - - - - - - - O

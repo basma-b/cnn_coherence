@@ -1,0 +1,7 @@
+               FIRST X -
+             COMMAND X -
+         DPKG-DIVERT S -
+             PACKAGE S -
+           DIVERSION O -
+                  IM - S
+               LINUX - X

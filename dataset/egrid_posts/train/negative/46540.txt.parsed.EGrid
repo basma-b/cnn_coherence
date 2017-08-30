@@ -1,0 +1,15 @@
+              KERNEL X X - - - - -
+        2.6.10-5-686 X - - - - - -
+         2.6.10-34.1 X - - - - - -
+               PANIC - X - - - - -
+                 SAY - S - - - - -
+                SYNC - X - - - - -
+                 VFS - X - - - - -
+                ROOT - X - - - - -
+        UNKNOW_BLOCK - O - - - - -
+                 0,0 - X - - - - -
+             MACHINE - - - X - - -
+                LILO - - - X - - -
+                GRUB - - - X - - -
+                SUDO - - - - X - -
+         UPDATE-GRUB - - - - X - -

@@ -1,0 +1,13 @@
+             PROGRAM X - - -
+               IMAGE O - - -
+                  CD X S - -
+                  DD - X - -
+       IF=/DEV/CDROM - X - -
+       OF=FOOBAR.ISO - S - -
+            FRONTEND - O - -
+              DAPPER - - X -
+         DEVELOPMENT - - - X
+             VERSION - - - X
+               GNOME - - - X
+               THATS - - - O
+                2.14 - - - X

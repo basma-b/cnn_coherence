@@ -1,0 +1,23 @@
+      WPA_SUPPLICANT - - - S - - - - - - - -
+                SUDO - - - X - - - - - - - -
+             KILLALL - - - X - - - - - - - -
+              COURSE - - - O - - - - - - - -
+             NETWORK - - - - X - - - - - - -
+            SECURITY - - - - O - - - - - - -
+              RESULT - - - - - - X - - - - -
+           SOMETHING - - - - - - X - - - - -
+                BOOT - - - - - - - - X - - -
+                 BUG - - - - - - - - - - - O
+               HTTPS - - - - - - - - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/LIVECD-ROOTFS/+BUG/424643 - - - - - - - - - - - S
+    UBUNTU-INSTALLER - - - - - - - - - - - X
+            SOLUTION - - - - - - - - - - - O
+                 WAY - - - - - - - - - - - S
+                TASK - - - - - - - - - - - S
+                NOTE - - - - - - - - - - - X
+               CARET - - - - - - - - - - - X
+                  .. - - - - - - - - - - - O
+             TASKSEL - - - - - - - - - - - X
+                 USE - - - - - - - - - - - O
+             BACKEND - - - - - - - - - - - X
+               WHILE - - - - - - - - - - - X

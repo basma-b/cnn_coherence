@@ -1,0 +1,14 @@
+ FLASHPLUGIN-NONFREE X - - - -
+               ERROR X S X - -
+           RHYTHMBOX X - X - X
+                 TRY - - X - -
+                SUDO - - X - -
+                DPKG - - X - -
+             PROCESS - - X - -
+              SCRIPT - - X - -
+              RETURN - - X - -
+                EXIT - - X - -
+              STATUS - - X - -
+             APT-GET - - X - -
+           REINSTALL - - X - -
+           OPERATION - - X - X

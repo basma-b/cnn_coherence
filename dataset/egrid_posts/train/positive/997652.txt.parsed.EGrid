@@ -1,0 +1,26 @@
+                LINE S - - - - -
+              OUTPUT X - - - - -
+                DPKG O - - - - -
+             SERIOUS S - - - - -
+                FILE O X - - - -
+                LIST S - - - - -
+             PACKAGE S X O - X -
+LINUX-IMAGE-2.6.12-10-386 S - - - - -
+                LOOK - X - - - -
+               IMAGE - O - - - -
+                POST - X S - - -
+                 PRE - S X - - -
+                INFO - X - - - -
+                DARK - - X - - -
+                 DIR - - X - - -
+          PERMISSION - - X - - -
+       /VAR/LIB/DPKG - - - X - -
+             APT-GET - - - - S -
+                WORK - - - - X -
+                FINE - - - - O -
+               LIMIT - - - - O -
+           KNOWLEDGE - - - - X -
+             PROBLEM - - - - X -
+         LINUX-IMAGE - - - - - X
+LINUX-RESTRICTED-MODULES-COMMON - - - - - X
+   LANGUAGE-SELECTOR - - - - - X

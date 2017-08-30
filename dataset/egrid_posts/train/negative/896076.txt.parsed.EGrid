@@ -1,0 +1,13 @@
+        SOURCES.LIST X - - - - X - - -
+        CANONICALAND - O - - - - - - -
+              EXTRAS - X - - - - - - -
+               REPOS - X - - X - - - -
+               SENSE - - X - - - - - -
+              UPDATE - - - O - - - - -
+            QUESTION - - - - X - - - -
+             COMMENT - - - - O - - - -
+             SQUEEZE - - - - X - - - -
+            STANDARD - - - - - O - - -
+               FRESH - - - - - X - - -
+                  OK - - - - - - - - O
+                 TRY - - - - - - - - O

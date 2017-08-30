@@ -1,0 +1,10 @@
+                FILE X - - - - -
+           PARTITION X - - - - -
+               GROUP X - - - - -
+                ROOT O - - - - -
+                   < - S - - - -
+                   > - O - - - -
+           OPERATION - S - - - -
+               CHOWN - - - S - -
+                USER - - - - X -
+               GROOP - - - - X -

@@ -1,0 +1,17 @@
+              INITRD O - - - O
+                LILO - X O - X
+                 WAY - - O - -
+                THIS - - S - -
+           INSTALLER - - X - -
+             MODULES - - O - -
+             DEVICES - - O - -
+                  FS - - O - -
+               THERE - - X - -
+               MAGIC - - O - -
+                BOOT - - X - -
+             LOADERS - - X - -
+                GRUB - - S - -
+              LOADER - - O - -
+                THAT - - - S -
+                CONF - - - - X
+                HELP - - - - X

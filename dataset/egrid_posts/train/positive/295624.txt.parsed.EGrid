@@ -1,0 +1,13 @@
+             COMMAND O - - -
+                 ISO O S - -
+                LOOP - X O X
+          DIRTOMOUNT - O - -
+/DIR/TO/WHERE/TO/MOUNT - - X -
+               MEDIA - - X -
+              FOLDER - - X -
+               MKDIR - - X -
+         /MEDIA/ISO/ - - X -
+               THERE - - X -
+/HOME/IMAGES/STARCRAFT.ISO - - - X
+          /MEDIA/ISO - - - O
+             EXAMPLE - - - X

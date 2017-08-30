@@ -1,0 +1,13 @@
+                9.04 O - - - - - -
+              LAPTOP X - - - - - -
+           INSTALLER - O - - - - -
+                8.10 - O - - - - -
+                  HD - X X X - - -
+                BOOT - - X - - - -
+              LOADER - - O - - - -
+           PARTITION - - X - - - -
+          BOOTLOADER - - - X - - -
+              EITHER - - - - S - -
+                GRUB - - - - X X -
+                DISK - - - - O - -
+              FOLLOW - - - - O - -

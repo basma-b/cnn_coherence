@@ -1,0 +1,12 @@
+               STATE X - - - - - -
+         INFORMATION O - - - - - -
+GSTREAMER0.10-FFMPEG - S - - - - -
+             VERSION - X X X X - -
+    GSTREAMER0.10-GL - - S - - - -
+VERSION.GSTREAMER0.10-PLUGINS-BASE - - X - - - -
+GSTREAMER0.10-PLUGINS-GOOD - - - S - - -
+GSTREAMER0.10-PLUGINS-UGLY - - - - S - -
+              ANYONE - - - - - S -
+                 MP3 - - - - - X X
+                  IM - - - - - - S
+      SOUNDCONVERTER - - - - - - O

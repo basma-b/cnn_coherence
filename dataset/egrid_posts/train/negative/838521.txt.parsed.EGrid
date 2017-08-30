@@ -1,0 +1,17 @@
+               GROUP X - - - S - - X - - -
+             APACHE2 X - - - - - - - - - -
+                FILE O - - S X - O - - - -
+           WEBSERVER X - - - - - - - - - -
+            WWW-DATA - - S - X - X S - - -
+                USER - - O - - - - - - - -
+              APACHE - - X - - - - - - - -
+              DAEMON - - X - - - - - - - -
+          PERMISSION - - - S - - - O - - -
+         PERMISSIONS - - - - - - O - - - -
+                 ARE - - - - - - - O - - -
+               OWNER - - - - - - - O - - -
+              CHANGE - - - - - - - - O - -
+               POINT - - - - - - - - X - -
+                 USE - - - - - - - - - - X
+                 VIM - - - - - - - - - - X
+                  VI - - - - - - - - - - X

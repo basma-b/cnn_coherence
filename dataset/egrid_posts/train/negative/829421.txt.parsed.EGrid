@@ -1,0 +1,11 @@
+               START - X - - - -
+                BOOT - X - - - -
+                WICD - - X S O -
+      NETWORKMANAGER - - O - - -
+         WICD-DAEMON - - O - - -
+                 USE - - X - - -
+             APT-GET - - X - - -
+              MOMENT - - - X - -
+                SUDO - - - X - -
+             SERVICE - - - X - -
+           SHORTCUTS - - - - - O

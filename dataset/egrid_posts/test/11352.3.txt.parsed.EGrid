@@ -1,0 +1,12 @@
+           /DEV/LPT0 S - - -
+                FILE X - - -
+           DIRECTORY X - - -
+                LOAD O - - -
+              MODULE O - - -
+                  NP - - S -
+                 APP - - S -
+            TERMINAL - - S -
+              PARENT - - X O
+             PROCESS - - O -
+            CHILDREN - - - S
+                WORK - - - O

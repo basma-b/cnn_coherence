@@ -1,0 +1,16 @@
+                STOP X - - - - - - - -
+                WORK X - - - - - - - -
+              SCRIPT - O - - - - - - -
+             FIREFOX - S - - - - - - -
+                FILE - O - - - - - - -
+              APACHE - - X X - - - - -
+                MODE - - S - - - - - -
+                DONT - - - S - - - - -
+             HANDLER - - - - - O - - -
+          HTTPD.CONF - - - - - X - - -
+                THAT - - - - - - - X -
+                  .. - - - - - - - - S
+              SYNTAX - - - - - - - - X
+               ERROR - - - - - - - - O
+                LINE - - - - - - - - X
+/ETC/APACHE2/HTTPD.CONF - - - - - - - - X

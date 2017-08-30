@@ -1,0 +1,24 @@
+                CANT X - - - - - - - -
+             UPGRADE O - - - - - - - -
+                DPKG - X - - - - - - -
+               ERROR - X O - - - - - -
+                FILE - X X - - - - - -
+/VAR/LIB/DPKG/AVAILABLE - X - - - - - - -
+                LINE - X - - - - - - -
+             PACKAGE - X - - - - - - -
+               VALUE - O - - - - - - -
+               FIELD - X - - - - - - -
+ ORIGINAL-MAINTAINER - X - - - - - - -
+             VERSION - S - - - - - - -
+              UBUNTU - X - - - - - - -
+              BACKUP - - O - - - - - -
+                PART - - - X - - - - -
+               THERE - - - - - - S - -
+               ENTRY - - - - - - O - -
+                 ONE - - - - - - O - -
+           APT-CACHE - - - - - - - X -
+              POLICY - - - - - - - X -
+    LIBGTKSOURCEVIEW - - - - - - - X -
+                 BTW - - - - - - - X -
+                 USE - - - - - - - - X
+//PASTE.UBUNTU-NL.ORG - - - - - - - - X

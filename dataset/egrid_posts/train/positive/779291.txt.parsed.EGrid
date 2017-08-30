@@ -1,0 +1,37 @@
+             PACKAGE X S - - - - - - - - -
+             OPENVPN S - - - - - - - X - -
+            UNIVERSE X - - - - - - - - - -
+          MULTIVERSE O - - - - - - - - - -
+              ENABLE O - - - - - - - - - -
+              SOURCE X - - - - - - - - - -
+                GUYS S - - - - - - - - - -
+             SOMEONE X - - - - - - - - - -
+               ERROR - O - - - - - - - - -
+    KEYWORDS=OPENVPN - - X - - - - - - - -
+       SUITE=DEFAULT - - X - - - - - - - -
+         SECTION=ALL - - X - - - - - - - -
+            ARCH=ANY - - X - - - - - - - -
+      SEARCHON=NAMES - - X - - - - - - - -
+             VERSION - - - X - - - - - - -
+              UBUNTU - - - X - - - - - - -
+               HTTPS - - - - X - - - - - -
+//HELP.UBUNTU.COM/10.10/SERVERGUIDE/C/OPENVPN.HTML - - - - S - - - - - -
+                THIS - - - - O - - - - - -
+                STEP - - - - S - - - - - -
+            TERMINAL - - - - - X - - - - -
+                HTTP - - - - - - X X - - -
+//PASTEBIN.COM/UZK3LWG8 - - - - - - S - - - -
+               10.10 - - - - - - O - - - -
+                 YUP - - - - - - - X - - -
+                 APT - - - - - - - S O - -
+                WORK - - - - - - - O - - -
+                HERE - - - - - - - S - - -
+           ALTERNATE - - - - - - - O - - -
+//PACKAGES.UBUNTU.COM/MAVERICK/OPENVPN - - - - - - - X - - -
+              BOTTOM - - - - - - - X - - -
+        ARCHITECTURE - - - - - - - X - - -
+          DEPENDENCY - - - - - - - O - - -
+           LIBLZO2-2 - - - - - - - X - - -
+                 ONE - - - - - - - - S - -
+             MESSAGE - - - - - - - - O - -
+            ANYTHING - - - - - - - - X - -

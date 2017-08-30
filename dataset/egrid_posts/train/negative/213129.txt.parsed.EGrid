@@ -1,0 +1,15 @@
+              ANYONE X - - - -
+        SIOCSIFFLAGS O - - - -
+                FILE O - - - -
+           DIRECTORY O - - - -
+            IFCONFIG X X - - -
+                ETH1 O O - - -
+            IWCONFIG X - - - -
+                SHOW X - - - -
+            WIRELESS X - - - -
+          CONNECTION X - - - -
+                SUDO - X - - -
+                  MV - - - X -
+                 DSC - - - S -
+           0001,0100 - - - X -
+              /HOME/ - - - O -

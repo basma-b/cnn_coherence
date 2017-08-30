@@ -1,0 +1,24 @@
+          NVIDIA-GLX X - - - - - - - -
+              DRIVER O - X - - - S - -
+               ERROR O - - - - - - - -
+                   X X - - - - - - - -
+       CONFIGURATION S - - - - - - - -
+               ALTER O - - - - - - - -
+              SCRIPT - S - - - - - - -
+                THIS - - S - - - - - -
+              MD5SUM - - X - - - - - -
+               ENTRY - - S - X - - - -
+             COMMAND - - O - - - - - -
+                   | - - X - - - - - -
+                SUDO - - X - - - - - -
+                 TEE - - X - - - - - -
+/VAR/LIB/X11/XORG.CONF.MD5SUM - - S - - - - - -
+             SECTION - - O - - - - - -
+                  NV - - X - X - S - -
+              NVIDIA - - X - - - X - -
+              ANYONE - - - X - - - - -
+                FILE - - - - X - - - -
+                COPY - - - - - - X - -
+           XORG.CONF - - - - - - X - -
+                  .. - - - - - - X - -
+                  NC - - - - - - O - -

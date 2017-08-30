@@ -1,0 +1,11 @@
+             COMMAND X - - -
+              TARGET X - - -
+           DIRECTORY X - - -
+           PARTITION - - O -
+             KEYFILE - - O -
+          PASSPHRASE - - O -
+                BOTH - - S -
+          ENCRYPTION - - X -
+                LOCK - - - X
+                DOOR - - - X
+                 KEY - - - O

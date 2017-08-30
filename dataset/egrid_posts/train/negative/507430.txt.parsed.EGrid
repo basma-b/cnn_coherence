@@ -1,0 +1,16 @@
+                HELP X - - -
+              DAMAGE X X - -
+                FILE X X - -
+              SYSTEM X O O -
+             GPARTED - X S -
+                FSCK - - O -
+         FILESYSTEMS - - X -
+                NTFS - - O -
+             NTFSFIX - - O -
+                   K - - X -
+             WINDOWS - - O -
+                TOOL - - X -
+                THAT - - - S
+                HINT - - - X
+                REST - - - X
+                  IM - - - X

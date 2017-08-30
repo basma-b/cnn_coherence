@@ -1,0 +1,9 @@
+        DIST-UPGRADE - O - - - -
+                PAST - X - - - -
+             COMMAND - - X - - -
+                TYPE - - X - - -
+                SUDO - - - X - -
+  DO-RELEASE-UPGRADE - - - S - -
+             RELEASE - - - O - -
+              KERNEL - - - - S -
+               12.04 - - - - - O

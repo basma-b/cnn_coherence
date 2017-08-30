@@ -1,0 +1,15 @@
+             WINDOWS O - X - - -
+                BOOT - X X X - -
+              SCREEN - - X - - -
+              BOTTOM - - X - - -
+              DEVICE - - O - - -
+              LOADER - - X - - -
+        INSTALLATION - - X - - -
+            /DEV/SDA - - X S - -
+                 ATA - - X - - -
+                 WDC - - X - - -
+                  TB - - X - - -
+          BOOTLOADER - - - X - -
+            /DEV/ATA - - - X - -
+              RECORD - - - O - -
+                OKAY - - - - - X

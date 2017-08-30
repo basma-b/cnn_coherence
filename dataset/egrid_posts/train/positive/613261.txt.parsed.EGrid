@@ -1,0 +1,11 @@
+              SCRIPT X - - - -
+            MODPROBE X - - - -
+              FAN.KO X - - - -
+          THERMAL.KO O - - - -
+                BOOT X - - - -
+             SOEKRIS - X - - -
+        /ETC/MODULES - - X - -
+                LOOP - - O - -
+                LIST - - O - -
+               THERE - - X - -
+/ETC/MODPROBE.D/BLACKLIST - - - - X

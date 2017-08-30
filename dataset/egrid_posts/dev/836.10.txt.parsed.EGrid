@@ -1,0 +1,13 @@
+               12.04 X - - -
+              KERNEL X - - -
+                   ^ - X - -
+            PATCHSET - X - -
+                WANT - O - -
+            FILENAME - - O -
+             PROGRAM - - X -
+                 END - - X -
+             EXAMPLE - - - X
+   EXAMPLEPROGRAM.SH - - - O
+             DESKTOP - - - X
+                  SH - - - X
+/HOME/PLUSTAX/DESKTOP/EXAMPLEPROGRAM.SH - - - X

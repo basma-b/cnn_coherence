@@ -1,0 +1,11 @@
+             APACHE2 O - - -
+           LOCALHOST S - - -
+             PHPFILE O - - -
+             FIREFOX S - - -
+                 PHP O - - -
+              FOLDER X - - -
+                 DIR - X - -
+                FILE - O - -
+              APACHE - - X -
+                SUDO - - - X
+ /ETC/INIT.D/APACHE2 - - - S

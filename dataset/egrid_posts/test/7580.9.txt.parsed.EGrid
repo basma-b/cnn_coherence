@@ -1,0 +1,10 @@
+                POLL - X -
+                   | - X -
+              NORDOM - X -
+   /ETC/INIT.D/NGINX - S -
+                USER - - O
+                SUDO - - O
+               GROUP - - O
+                ROOT - - X
+               PRIVS - - O
+           PRIVILEGE - - O

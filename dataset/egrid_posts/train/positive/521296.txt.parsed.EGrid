@@ -1,0 +1,22 @@
+                DATA X - - - - -
+           PARTITION X X - X - -
+               FSTAB S - - - - -
+             OPTIONS O - - - - -
+                AUTO X - - - - -
+               USERS X X - - - -
+                  RW X - - - - -
+                  .. X X - - - -
+           SOMETHING O - - - - -
+                THAT - S - - - -
+           DIRECTORY - X - - - -
+                USER - X - - S -
+                CARE - O - - - -
+              EXT2/3 - - X - - -
+PERMISSION/OWNSERSHIP - - X - - -
+            FEATURES - - O - - -
+           VFAT/NTFS - - X - - -
+             PROBLEM - - - O - -
+          MOUNTPOINT - - - - S -
+                  FS - - - - X -
+                 DIR - - - - O -
+          FILESYSTEM - - - - X -

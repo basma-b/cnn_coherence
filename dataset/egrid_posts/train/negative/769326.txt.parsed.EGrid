@@ -1,0 +1,13 @@
+              ANYONE S - -
+           PARTITION O - -
+          LSOF/FUSER S - -
+                FILE O - -
+                  -F S - -
+                BUSY O - -
+           TERMINALS - S -
+                  CD - O -
+             PROGRAM - X -
+              ACCESS - O -
+              DAEMON - - X
+               THING - - O
+                PROB - - X

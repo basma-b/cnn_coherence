@@ -1,0 +1,7 @@
+                FILE O O -
+         PERMISSIONS X - -
+               -RW-R O - -
+                  -R X - -
+                ROOT X - -
+                THIS X - -
+                SUDO - S -

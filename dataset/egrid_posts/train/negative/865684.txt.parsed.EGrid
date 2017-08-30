@@ -1,0 +1,13 @@
+               PFIFO X - - - - -
+             DEFAULT X - - - - -
+                  DD X S S X - -
+            PROGRESS X S - - - -
+              SIGNAL - O - - - -
+            TERMINAL - X - - - -
+              SECOND - X - - - -
+                SUDO - - X - - -
+               ERROR - - - O - -
+             GARBAGE - - - X - -
+             PROCESS - - - X - -
+                  ID - - - S - -
+          ADD/REMOVE - - - - - X

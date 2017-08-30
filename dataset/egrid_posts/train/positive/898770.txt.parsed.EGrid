@@ -1,0 +1,10 @@
+              UMOUNT S - -
+       /MEDIA/CDROM0 X - -
+              DEVICE S - -
+                 FAM O - -
+                 BUT O - -
+              OUTPUT X - -
+                LSOF - - X
+             PROBLEM - - O
+             PROCESS - - O
+               FUSER - - X

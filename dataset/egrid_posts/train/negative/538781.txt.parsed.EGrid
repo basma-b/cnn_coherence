@@ -1,0 +1,12 @@
+                ROOT X - - - X - -
+              ACCESS X - - - - - -
+                USER X - - S - - -
+        /ETC/SUDOERS - O - - - - -
+                ALL= - X - - - - -
+/USR/BIN/MOBLOCK-CONTROL - X - - - - -
+                  YA - - S - - - -
+              SYNTAX - - O - - - -
+               GROUP - - - X X - -
+               CACHE - - - - - - X
+                 USE - - - - - - O
+            RESOLVER - - - - - - X

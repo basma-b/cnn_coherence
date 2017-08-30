@@ -1,0 +1,15 @@
+           /DEV/HDB5 X - - -
+               FAT32 O - - -
+               FSTAB X - - -
+              ACCESS O - - -
+             DEFAULT X - - -
+                USER X - - -
+               MKDIR - - S -
+          /MNT/FAT32 - - O -
+                VFAT - - O -
+           USER=1000 - - X -
+            /MNT/187 - - X -
+              FOLDER - - X -
+             COMMAND - - X -
+                WORK - - - X
+               -LSB- - - - X

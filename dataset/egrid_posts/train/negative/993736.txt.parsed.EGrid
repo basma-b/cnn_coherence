@@ -1,0 +1,13 @@
+               IMAGE X - - - X - -
+           PARTITION X - - - - - -
+              BACKUP - X - - - - -
+             SYSTEMS - X - - - - -
+                 TAR - - X - - - -
+                GZIP - - X - - - -
+                 SSH - - X - - - -
+               RSYNC - - X - - - -
+              SYSTEM - - O O - - -
+                DISK - - X - - - -
+             CURRENT - - S - - - -
+               WARTY - - - - - - S
+             2.6.8.1 - - - - - - O

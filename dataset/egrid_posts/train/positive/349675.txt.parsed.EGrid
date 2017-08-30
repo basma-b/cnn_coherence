@@ -1,0 +1,10 @@
+             WINDOWS X - - -
+           PARTITION X - - -
+                GRUB X - - -
+               FSTAB - O - -
+                 USE - X - -
+               FDISK - S - -
+            /DEV/SDA - O - -
+                 YUP - - X -
+                THAT - - - S
+           /DEV/SDA1 - - - X

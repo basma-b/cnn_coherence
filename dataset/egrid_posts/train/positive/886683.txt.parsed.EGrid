@@ -1,0 +1,23 @@
+                BITE X - - - - - - -
+                 SIR - - - X - - - -
+             NOTHING - - - - X - - -
+                   D - - - - X - - -
+             PROBLEM - - - - O - - -
+                THAT - - - - - - X -
+               GEDIT - - - - - - X -
+   /ETC/DEFAULT/GRUB - - - - - - X -
+            TERMINAL - - - - - - X -
+                LINE - - - - - - S -
+           SOMETHING - - - - - - O -
+                THIS - - - - - - X -
+GRUB_CMDLINE_LINUX_DEFAULT= - - - - - - X -
+                 FOO - - - - - - X -
+                 BAR - - - - - - S -
+                 BAZ - - - - - - O -
+         REBOOT=BIOS - - - - - - O -
+                FILE - - - - - - O -
+                SUDO - - - - - - X -
+         UPDATE-GRUB - - - - - - O -
+              REBOOT - - - - - - X -
+                 WAY - - - - - - X -
+             STARTUP - - - - - - - X

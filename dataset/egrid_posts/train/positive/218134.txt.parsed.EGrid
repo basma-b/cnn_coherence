@@ -1,0 +1,13 @@
+        COMMAND-LINE X - - - -
+                TOOL X - - - -
+             NETWORK O - - - -
+              SERVER X - - - -
+            IFCONFIG - X - - -
+                IFUP - X - - -
+              IFDOWN - X - - -
+            IWCONFIG - X - - -
+            WIRELESS - X - - -
+/ETC/NETWORK/INTERFACES - X - - -
+                DOCS - - X - -
+                FILE - - X - -
+              GOOGLE - - - - X

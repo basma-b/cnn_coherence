@@ -1,0 +1,17 @@
+             ANYBODY X - - - - - - - -
+           PROXYPASS - O - - - - - - -
+                   M - S - - - - - - -
+               ERROR - O - - - - - - -
+               IDEAS - - X - - - - - -
+             CONTEXT - - - X - - - - -
+              APACHE - - - - X S - - -
+              DAEMON - - - - - S - - -
+             CONTENT - - - - - O - - -
+                /FOO - - - - - X X - -
+                  -D - - - - - - O - -
+           MOD_PROXY - - - - - - O - -
+                SUDO - - - - - - - X -
+             A2ENMOD - - - - - - - X -
+          PROXY_HTTP - - - - - - - O -
+              ENABLE - - - - - - - - X
+             APACHAE - - - - - - - - O

@@ -1,0 +1,16 @@
+               IMAGE O - - - - - -
+            PRTITION X - - - - - -
+                  GB X - - - - - -
+           PARTIMAGE X - - - - - -
+                40GB O - - - - - X
+           PARTITION X - - - S - -
+                SHOW X - - - - - -
+                SIZE X - - X - - -
+               CLICK X - - - - - -
+          PROPERTIES X - - - - - -
+                  -L X - - - - - -
+          FILESYSTEM - S - - - - -
+                WHAT - - X - - - -
+           RESIZE2FS - - O - - S -
+                SUDO - - - - - X -
+                   K - - - - - - X

@@ -1,0 +1,11 @@
+             GPARTED S - - - -
+               LSUSB X - - - -
+               SHELL X - - - -
+              FORMAT X - - - -
+               FAT32 O - - - -
+                /DEV - O - - -
+                SUDO - - X - -
+               FDISK - - S - -
+             ALRIGHT - - - S -
+              MINUTE - - - X -
+                  -C - - - - S

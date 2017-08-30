@@ -1,0 +1,8 @@
+             PROBLEM O - -
+                KPPP - S -
+    /ETC/RESOLV.CONF - S -
+               TOUCH - O -
+               CHMOD - S -
+               WORLD - X -
+            WRITABLE - X -
+          MIS-TABBED - - X

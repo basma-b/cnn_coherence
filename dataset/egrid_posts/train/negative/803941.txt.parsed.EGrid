@@ -1,0 +1,20 @@
+               ERROR S X - - -
+           ENCOUNTER O - - - -
+                DPKG - X X - -
+              STATUS - X X - -
+              RECORD - O O - -
+       LIBSLF4J-JAVA - X - - -
+/VAR/LIB/DPKG/STATUS - X - - -
+               SPACE - X X - -
+               LEAVE - X X - -
+              DEVICE - X X - -
+           AUTOCLEAN - O S - -
+             PACKAGE - O - - -
+             MESSAGE - X X - -
+                WORK - - X - -
+                  CD - - S - -
+                 DEB - - X - -
+                FILE - - X - -
+                HTTP - - O - -
+             PROGRAM - - - - O
+             COMMAND - - - - O

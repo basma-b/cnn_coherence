@@ -1,0 +1,15 @@
+               THERE X - - - - - -
+           DIRECTORY X - - - - - -
+              UBUNTU X - - - - - -
+     /USR/SRC/KERNEL X - - - - - -
+              KERNEL X - - X - - -
+              SOURCE O - - X - - -
+             DEFAULT X - - - - - -
+             COMMAND - X - - - - -
+        SUBDIRECTORY - - X - - - -
+            /USR/SRC - - X - - - -
+             PACKAGE - - - O - - -
+                ROOT - - - - - O -
+                SUDO - - - - - - X
+             APT-GET - - - - - - S
+        MYSQL-SERVER - - - - - - O

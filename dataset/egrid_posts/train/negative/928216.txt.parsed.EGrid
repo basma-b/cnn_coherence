@@ -1,0 +1,9 @@
+               MOUNT X - -
+             COMMAND X - -
+               USERS S X -
+           GID=GROUP - S -
+            USERNAME - X -
+               GROUP - X -
+           UMASK=022 - O -
+            TUXFILES - - S
+                BITE - - X

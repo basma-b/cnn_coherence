@@ -1,0 +1,13 @@
+              SERVER X - - - -
+                 RUN O - - - -
+           DIRECTORY X - - - -
+       /FTP/DOWNLOAD O - - - -
+            /BACKUPS X - - - -
+                LIST O - - - -
+/FTP/DOWNLOAD/BACKUPS X - - - -
+                KIND - X - - -
+                LINK - X - - -
+               MOUNT - - X - -
+                BIND - - X - -
+                  .. - - X - -
+            QUESTION - - - - O

@@ -1,0 +1,16 @@
+                HELP O - - -
+             COMMAND X - - -
+                LINK S O - -
+           DIRECTORY S - - -
+  /VAR/WWW/LIGHTTPD/ X - - -
+~/DOCUMENTS/LOCAL_HTML/ O - - -
+  ~/VAR/WWW/LIGHTPPD O - - -
+            DOCUMENT O X - -
+  /VAR/WWW/LIGHTPPD/ O - - -
+          LOCAL_HTML S - - -
+              TARGET X - - -
+            LINKNAME O - - -
+           ARGUMENTS O - - -
+                LIST - O - -
+                  -R - - O -
+              UNLINK - - - X

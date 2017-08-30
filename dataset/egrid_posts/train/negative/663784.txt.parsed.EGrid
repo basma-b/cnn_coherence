@@ -1,0 +1,35 @@
+                THAT O - - - - - - -
+                SWAP O - - - - - - -
+                ROOT X X - - - - - -
+D008E651-227D-470E-A4DD-6EA1FF10688E X - - - - - - -
+                  .. X - - - - - - -
+                SDA1 S - - - - - - -
+           PARTITION O - - - - - - -
+                UUID O - - - - - - -
+              DEVICE X - - - - - - -
+             UUIDGEN X - - - - - - -
+             TUNE2FS X - - - - - - -
+NUMBERGENERATEDBYUUIDGEN S - - - - - - -
+               ERROR - O - - - - - -
+               STATE - X - - - - - -
+          SUPERBLOCK - O - - - - - -
+                 ASK - O - - - - - -
+                WORK - O - X - - - -
+               BLKID - - S - - - - -
+             NOTHING - - S - - - - -
+          FILESYSTEM - - S - - - - -
+              HEALTH - - - - X - - -
+           FSCK.EXT3 - - - - - S - -
+               MOUNT - - - - - X - -
+                FILE - - - - - X - -
+              SYSTEM - - - - - X - -
+           RECOMMEND - - - - - O - -
+         MAINTENANCE - - - - - X - -
+               SHELL - - - - - X - -
+               INTEL - - - - - - - X
+         CORPORATION - - - - - - - X
+             EXPRESS - - - - - - - X
+          INTEGRATED - - - - - - - X
+            GRAPHICS - - - - - - - X
+          CONTROLLER - - - - - - - X
+                 REV - - - - - - - X

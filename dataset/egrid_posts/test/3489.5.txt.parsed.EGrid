@@ -1,0 +1,14 @@
+             SERVICE X - - -
+               MYSQL S - - -
+                STOP X - - -
+            INSTANCE X - - -
+               START X - - -
+                 JOB S - - -
+                 LOG O - - -
+     /VAR/LOG/SYSLOG - X - -
+                MORE - - - O
+              REBOOT - - - X
+             TRIGGER - - - X
+                  OS - - - X
+                HTTP - - - X
+//WWW.WEBUPD8.ORG/2010/10/HOW-TO-REBOOT-IN-WINDOWS-FROM-UBUNTU.HTML - - - X

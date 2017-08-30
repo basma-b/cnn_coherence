@@ -1,0 +1,15 @@
+           STRUCTURE O - - - - - - - - - -
+           DIRECTORY X - - - - - - - - - -
+            EXTERNAL X - - - - - - - - - -
+           OWNERSHIP X - - - - - - - - - -
+               GROUP X - - - - - - - - - -
+         PERMISSIONS X - - - - - - - - - -
+          EVERYTHING O - - - - - - - - - -
+                COPY - X - - - - - - - - -
+              OPTION - O - - - - - - - - -
+             COMMAND - X - - - - - - - - -
+                   R - - O - - - - - - - -
+                SUDO - - - S - - - - - - -
+          /MY/FOLDER - - - X - - - - - - -
+     /EXTERNAL/DRIVE - - - O - - - - - - -
+              COURSE - - - - - - X - - - -

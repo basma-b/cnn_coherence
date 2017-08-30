@@ -1,0 +1,12 @@
+             FREEBSD X - - - -
+                BOOT X - X - -
+              LOADER S - S - -
+                GRUB O - - - -
+          BOOTLOADER X - - - -
+                CALL - - O - -
+             PROBLEM - - - S -
+          FILESYSTEM - - - - S
+                 UFS - - - - O
+           PARTITION - - - - X
+              SCHEME - - - - X
+                  PC - - - - X

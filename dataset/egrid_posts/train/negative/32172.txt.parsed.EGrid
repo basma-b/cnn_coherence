@@ -1,0 +1,17 @@
+                SWAP X - - - - - -
+           PARTITION X O - - O - -
+                DISK X - - - - - -
+               DRIVE X - - - - - -
+             SPINDLE X - - - - - -
+                 WAY - X - - - - -
+              BACKUP - X - - - - -
+             WINDOWS - X - - X - -
+        RDIFF-BACKUP - - - O - - -
+               LINUX - - - - X - -
+NETWORK-MANAGER-VPNC - - - - - - S
+                 VNC - - - - - - X
+              OPTION - - - - - - S
+             NETWORK - - - - - - X
+             MANAGER - - - - - - X
+               WORTH - - - - - - S
+                 TRY - - - - - - X

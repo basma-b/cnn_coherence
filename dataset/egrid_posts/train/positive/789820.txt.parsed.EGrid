@@ -1,0 +1,33 @@
+               CHECK S - - - - - - - - - -
+    /ETC/RESOLV.CONF X - - - - - - - - - -
+          /ETC/HOSTS X - - - - - - - - - -
+/ETC/NETWORK/INTERFACES S - X - - - - - - - -
+               THOSE X - - - - - - - - - -
+                 USE O - - - - - - - - - -
+                IFUP O - O X - - O - - - -
+               THING S - - - - - - - - - -
+             NETWORK X - O O - - S X - - -
+             COMMAND X - - - X - - - - - -
+              RESORT X - - - - - - - - - -
+              CONFIG X - - - - - S - - X -
+                STOP O - - - - - - - - - -
+/ETC/INIT.D/NETWORKING - - S - - - - - - - -
+         INFORMATION - - S - - - - - - - -
+               PLACE - - X - - - - - - - -
+             PROBLEM - - S - - - - - - - -
+                ETH0 - - X - - - - - - - -
+          EVERYTHING - - - - O - - - - O -
+                LINE - - - - X - - - - - -
+          PARAMETERS - - - - X - - - - - -
+            IFCONFIG - - - - X - - - - - -
+            DHCLIENT - - - - X - - - - - -
+               ROUTE - - - - X - - - - - -
+                THAT - - - - - - O - X - -
+                  .. - - - - - - O - - - -
+           SOMETHING - - - - - - O - X - -
+                 I.E - - - - - - O - - - -
+             PROCESS - - - - - - - O - - -
+       CONFIGURATION - - - - - - - O - - -
+                FILE - - - - - - - - - O -
+              CHANGE - - - - - - - - - - S
+              REBOOT - - - - - - - - - - X

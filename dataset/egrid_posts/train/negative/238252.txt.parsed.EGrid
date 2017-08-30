@@ -1,0 +1,13 @@
+              SYNTAX S - - -
+                HELP X - - -
+                SUDO X - - -
+               ROUTE S - - -
+                  GW O - - -
+             DEFAULT O - - -
+                  .. X - - -
+              DOESNT S - - -
+               ERROR O - - X
+               USAGE X O - -
+              DIALOG O - - -
+             NETMASK - O - -
+           FILENAMES - - - X

@@ -1,0 +1,16 @@
+                LOCK - X X S - - - - -
+                FILE - O O - - - - - -
+             BROWSER - - O O - - - - -
+                ROOT - - X X - - - - -
+                SUDO - - - X - - - - -
+  /VAR/LIB/DPKG/LOCK - - - S - - - - -
+            TERMINAL - - - X - - - - -
+                WORK - - - O - - - - -
+                TIME - - - - X - - - -
+             UPGRADE - - - - O - - - -
+         COMMANDLINE - - - - X - - - -
+               PLACE - - - - - X - - -
+             COMMAND - - - - - - - X -
+                  -M - - - - - - - O -
+              UBUNTU - - - - - - - X -
+                HTTP - - - - - - - - X

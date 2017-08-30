@@ -1,0 +1,17 @@
+                9.10 - O - - - - - - -
+                BOOT - X - - - - - - -
+               GRUB2 - - X - - - - - -
+                MENU - - O - - X - - -
+              UBUNTU - - X - - - - - -
+              OPTION - - O - - - - - -
+             EASYBCD - - X - - - - - -
+             EXAMPLE - - - - X - - - -
+             COMMAND - - - - O - - - -
+                LOAD - - - - - S - - -
+                LOOK - - - - - X - - -
+            GRUB.CFG - - - - - X - - -
+             CHANNEL - - - - - - S - -
+            QUESTION - - - - - - O O -
+              ANYONE - - - - - - - X -
+                GRUB - - - - - - - O -
+             WEBSITE - - - - - - - - X

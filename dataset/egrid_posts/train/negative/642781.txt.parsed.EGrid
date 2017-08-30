@@ -1,0 +1,13 @@
+                TIME X - O - -
+             DEFAULT X - - - -
+                GRUB X - - - -
+ /BOOT/GRUB/MENU.LST - O - - -
+                ROOT - X - - -
+           DEFAULT=0 - - S - -
+                ITEM - - X - -
+                 5TH - - X - -
+      TIME_IN_SECOND - - - X -
+           SITUATION - - - - O
+             SABAYON - - - - X
+                USER - - - - X
+                  NP - - - - O

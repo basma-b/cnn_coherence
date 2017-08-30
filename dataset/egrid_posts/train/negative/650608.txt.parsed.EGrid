@@ -1,0 +1,12 @@
+            FIREWALL O - - -
+                TEST X - - -
+               SETUP O - - -
+          PRODUCTION X - - -
+             SERVERS X - - -
+                THAT - O - -
+           NFS-SETUP - - X -
+              ACCESS - - O -
+                 ALL - - X -
+          HOSTS.DENY - - X -
+           127.0.0.1 - - S -
+               ITEMS - - - O

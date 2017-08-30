@@ -1,0 +1,26 @@
+                WHAT O - - -
+             COMMAND X X - -
+              ALT+F2 X O - -
+/ETC/MODPROBE.D/ALSA-BASE.CONF X O O -
+                LINE X O O -
+              BOTTOM X X X -
+                FILE X - S -
+             OPTIONS X X X -
+       SND-HDA-INTEL X S X -
+             INDEX=0 X - X -
+             NOTHING S - - -
+                 THE - S - -
+                 BOX - X - -
+                PATH - S - -
+              EDITOR - O - -
+                  VS - X - -
+                SUDO - O - -
+            TERMINAL - - O -
+                NANO - - X -
+                 ALT - - X -
+                  +O - - X -
+                DONT - - - S
+                BOOT - - - X
+               64BIT - - - X
+             KERNELS - - - O
+                   P - - - X

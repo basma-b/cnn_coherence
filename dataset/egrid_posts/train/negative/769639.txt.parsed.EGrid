@@ -1,0 +1,12 @@
+              32BITS - X - - - - -
+               10.10 - O - - - - -
+                 X11 - X - - - - -
+          FORWARDX11 - X - - - - -
+/ETC/SSH/SSH_CONFIG/ - X - - - - -
+             MACHINE - - O - X - -
+                   * - - X - - - -
+          SSH_CONFIG - - X - - - -
+                FILE - - X - - - -
+               OTHER - - S - - - -
+            FIREWALL - - - - S - -
+              MEMORY - - - - - - O

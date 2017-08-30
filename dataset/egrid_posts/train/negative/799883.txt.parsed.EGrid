@@ -1,0 +1,11 @@
+               GRUB2 O - - - - - -
+            SOFTWARE X - - - - - -
+                RAID X - - - - - -
+              MIRROR - - X - - - -
+               /BOOT - - X - - - -
+                PUNT - - - O - - -
+                BOOT - - - - X - -
+               DRIVE - - - - X - -
+                DATA - - - - O - -
+                THIS - - - - - - X
+        XSERVER-XORG - - - - - - X

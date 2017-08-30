@@ -1,0 +1,12 @@
+                 GUY X - - - - - - -
+               ALIAS - O - - - - - -
+                ROOT - S - - - - - -
+                USER - X X - - - - -
+           COMPUTERS - X - - - - - -
+         SSHD_CONFIG - X - - - - - -
+           PRIVILEGE - - O - - - - -
+                THAT - - - - X - - -
+                SUDO - - - - X - - -
+             APT-GET - - - - S - - -
+            PHP-PEAR - - - - O - - -
+         GO-PEAR.PHP - - - - - - X -

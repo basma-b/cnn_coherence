@@ -1,0 +1,12 @@
+        DIST-UPGRADE - O - - - -
+                PAST - X - - - -
+             COMMAND - - X - - -
+                TYPE - - X - - -
+                SUDO - - - X - X
+  DO-RELEASE-UPGRADE - - - S - -
+             RELEASE - - - O - -
+              KERNEL - - - - S -
+               FDISK - - - - - X
+                  -L - - - - - X
+                 ALL - - - - - S
+               SHARE - - - - - X

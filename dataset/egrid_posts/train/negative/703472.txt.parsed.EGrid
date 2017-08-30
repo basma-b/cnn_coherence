@@ -1,0 +1,17 @@
+             VANILLA X - - -
+              KERNEL S - - -
+    INITRD/INITRAMFS X - - -
+              UBUNTU X - - -
+                BOOT X O - -
+             PROCESS X - - -
+                  NO - S - -
+           INITRAMFS - S - -
+                ROOT - X - -
+                  FS - S - -
+                UUID - X - -
+             KERNELS - X - -
+        FILESSYSTEMS - O - -
+            PROBLEMS - X - -
+               GRANT - - X -
+           SLACKWARE - - X -
+             TROUBLE - - - X

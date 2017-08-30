@@ -1,0 +1,11 @@
+               FOLKS S S - -
+              ANYONE X X - -
+               FSTAB X X - -
+              CONFIG O O - -
+                USER - - S -
+                 FAT - - X -
+             OPTIONS - - X -
+              COLUMN - - X -
+                  RW - - S -
+                  RO - - - X
+                FILE - - - O

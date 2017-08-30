@@ -1,0 +1,34 @@
+         NDISWRAPPER O X - - X - - - - - O
+                  -I - X - - - - - - - - -
+~/.DRIVER/WIFI/DRIVER/BCMWL5.INF - O - - - - - - - - -
+              DRIVER - S - - - - S - - - -
+                CASE - - X - - - - - - - -
+              IWLIST - - S - - - - - - - -
+                SCAN - - O - - - - - - - -
+                NONE - - S - - - - - - - -
+          INTERFACES - - X - - - - - - - -
+               WHATS - - - X - - - - - - -
+             NETWORK - - - - X - - - - - -
+                CARD - - - - X - - X - - -
+            WIRELESS - - - - X - - - - - -
+              KERNEL - - - - X - - - - - -
+              MODULE - - - - O - - - - - -
+                CHIP - - - - X - - - - - -
+                 ALL - - - - - X - - - - -
+            FIRMWARE - - - - - O - - - - X
+       /LIB/FIRMWARE - - - - - X - - - - -
+                   U - - - - - X - - - - -
+                LINK - - - - - O - - - - X
+             TARBALL - - - - - X - - - - -
+              UBUNTU - - - - - O - - - - -
+                 USE - - - - - - O - - - -
+             WRAPPER - - - - - - X - - - -
+                 IVE - - - - - - - S - - -
+                MOST - - - - - - - O - - -
+                 DAY - - - - - - - X - - -
+               HTTPS - - - - - - - O - - -
+//HELP.UBUNTU.COM/COMMUNITY/WIFIDOCS/DRIVER/1390 - - - - - - - O - - -
+                KIND - - - - - - - X - - -
+                THAT - - - - - - - - - - O
+            ACTUALYL - - - - - - - - - - X
+                  IM - - - - - - - - - - S

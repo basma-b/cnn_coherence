@@ -1,0 +1,27 @@
+             NETWORK X - - - -
+             MANAGER X - - - -
+                CANT - X - - -
+                TYPE - X - - -
+                  NM - S S - -
+            TERMINAL - X - - -
+               PRESS - X - - -
+                 TAB - X - - -
+                   * - O - - -
+     NM-APPLET:13935 - X - - -
+                   < - S - - -
+APPLET_DBUS_MANAGER_START_SERVICE - O - - -
+NETWORKMANAGERUSERSETTINGS - X - - -
+             SERVICE - O - - -
+              RETURN - - X - -
+             APT-GET - - S - -
+          WIFI-RADAR - - X - -
+              REBOOT - - O - -
+             DESKTOP - - X - -
+               PANEL - - X - -
+                  PS - - X - -
+                 -EF - - X - -
+                   | - - S - -
+                 ANY - - O - -
+                  ID - - S - -
+                 PID - - O - -
+                 LOT - - - - O

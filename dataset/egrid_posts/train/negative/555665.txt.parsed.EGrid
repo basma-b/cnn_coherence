@@ -1,0 +1,12 @@
+             WINDOWS - S - - - -
+           PARTITION - X - - - -
+              FORMAT - O - - - -
+          OPERATIONS - S - - - -
+          /ETC/FSTAB - X - - - -
+              OTHERS - S - - - -
+             COMMAND - - X - - -
+               DRIVE - - - X - -
+              DETECT - - - X - -
+                ROOT - - - - - X
+                USER - - - - - X
+            NAUTILUS - - - - - X

@@ -1,0 +1,21 @@
+                TYPE X - X - - X -
+                SUDO X - X - - X S
+                CHSH X - S - - - -
+             COMMAND X - - - - - -
+               INPUT X - - - - - -
+                BASH O - - O - - -
+            PROBLEMS - X - - - - -
+                 PAM - - X - - - -
+      AUTHENTICATION - - S - - - -
+               ERROR - - X X - - -
+                  SU - - - O - - -
+                FILE - - - X - - -
+           DIRECTORY - - - X - - -
+                THAT - - - - X - -
+             NOTHING - - - - - O -
+             WHEREIS - - - - - X X
+              RESULT - - - - - O -
+       /USR/BIN/SUDO - - - - - - X
+       /USR/LIB/SUDO - - - - - - X
+     /USR/LIB64/SUDO - - - - - - X
+/USR/SHARE/MAN/MAN8/SUDO.8.GZ - - - - - - X

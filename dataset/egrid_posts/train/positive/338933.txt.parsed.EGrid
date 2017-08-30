@@ -1,0 +1,26 @@
+                HELP X - - - - - - - - -
+           PARTITION O O - - - O - - O -
+            QUESTION X - - - - - - - - -
+               FDISK O S - X - - - - - -
+/DEV/YOURHARDDISKDEVICE X - - - - - - - - -
+                NTFS X - - - - X - - - -
+                 TAG X - - - - - - - - -
+               LINUX O - - - - - - - - -
+           MKFS.EXT3 S - - - - - - - - -
+          FILESYSTEM O - - - - - - - - -
+                DISK - X - - - - - - S -
+               GPART - S - - - - - - - -
+                ROOT - X - - - - - - - -
+               NOICE - - X - - - - - - -
+               THATS - - - - S - - - - -
+              BACKUP - - - - - X - - - -
+               DRIVE - - - - - - O - - -
+                BOOT - - - - - - X X X -
+            PARTITON - - - - - - X - - -
+                GRUB - - - - - - - S - -
+             PROGRAM - - - - - - - O - -
+                MORE - - - - - - - - S -
+              SECTOR - - - - - - - - O -
+              OUTPUT - - - - - - - - - O
+                HTTP - - - - - - - - - O
+//PASTE.UBUNTU-NL.ORG/36931/ - - - - - - - - - O

@@ -1,0 +1,11 @@
+               IMAGE O O O -
+                 DVD X - - -
+               CDROM - X - -
+             BRASERO - S - -
+                DISC - X - -
+                COPY - X - -
+             FEATURE - O - -
+             COMMAND - - - S
+                INFO - - - X
+               DMESG - - - S
+              ERRORS - - - S

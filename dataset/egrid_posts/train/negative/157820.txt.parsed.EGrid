@@ -1,0 +1,26 @@
+         DIFFERENCES X - - - - - - -
+         LINUX-IMAGE X - - - - - - -
+  LINUX-IMAGE-SERVER X - - - - - - -
+                CANT - X - - - - - -
+         INFORMATION - S X - - - - -
+            ELEVATOR - X - - - - - -
+           SCHEDULER - X - - - - - -
+             PREEMPT - X - - - - - -
+             DISABLE - O - - - - - -
+              MEMORY - X - - - - - -
+               SPACE - X - - - - - -
+             SUPPORT - O - - - - - -
+             DEFAULT - X - - - - - -
+                 ETC - O - - - - - -
+                THAT - - X - - - - -
+              DETAIL - - X X - - - -
+                INFO - - - S - - - -
+              KERNEL - - - X X - - -
+CONFIGURATION/SOURCE - - - X - - - -
+                CODE - - - - O - - -
+              SOURCE - - - - X - - -
+                  -P - - - - - X - -
+             HISTORY - - - - - - S -
+             FLANNEL - - - - - - - S
+               CLEAR - - - - - - - X
+                EXIT - - - - - - - X

@@ -1,0 +1,16 @@
+/ETC/MODPROBE.D/BLACKLIST.CONF O - - -
+                FILE X - - -
+                CALL X - - -
+           BLACKLIST X - - -
+      BLACKLIST.CONF S - - -
+/ETC/MODPROBE.D/BLACKLIST X - - -
+                NEED O - - -
+           SOMETHING X - - -
+             DEFAULT X - - -
+                 ONE O - - -
+             VERSION X - - -
+              UBUNTU X - - -
+              JAUNTY - S X -
+                THAT - - S -
+             NOTHING - - - O
+//PASTEBIN.COM/F52980095 - - - X

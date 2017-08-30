@@ -1,0 +1,16 @@
+             SUDOERS O - - - - -
+                USER S X - - - -
+             COMMAND O - - - - -
+                SUDO X X O O - -
+                NEED X X - - - -
+            PASSWORD X X - X - -
+             EXAMPLE - X - - - -
+                   X - S - - - -
+       /USR/BIN/BLAH - X - - - -
+                ROOT - X - - - -
+               GROUP - X - - - -
+               THERE - - S - - -
+                 WAY - - O - - -
+                TIME - - - X - -
+            TERMINAL - - - X - -
+              PERIOD - - - - X -

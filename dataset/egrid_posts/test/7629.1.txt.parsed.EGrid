@@ -1,0 +1,9 @@
+                TIME - X - - -
+                BOOT - O X X -
+            SHUTDOWN - X - - -
+             STARTUP - X - - -
+             COMMAND - O - - -
+               LOGIN - - X - -
+                ICMP - - - S -
+                CLUE - - - O -
+              INIT.D - - - - X

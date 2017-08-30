@@ -1,0 +1,17 @@
+                 2.4 X - - - - - - - - - - - -
+             WINDOWS - - - - - - - - X - - - -
+           PARTITION - - - - - - - - O O X - -
+           /DEV/HDA1 - - - - - - - - X - X - X
+                SWAP - - - - - - - - X - - - -
+           /DEV/HDA2 - - - - - - - - X - - - -
+                ROOT - - - - - - - - X X - - -
+           /DEV/HDA3 - - - - - - - - X - X - -
+               /HOME - - - - - - - - - X - - -
+           /DEV/HDA4 - - - - - - - - - X - - -
+                DATA - - - - - - - - - - S - S
+              COURSE - - - - - - - - - - X X -
+             DESTROY - - - - - - - - - - O - O
+               TABLE - - - - - - - - - - X - -
+             SECTION - - - - - - - - - - O - -
+                DISK - - - - - - - - - - X - -
+                THAT - - - - - - - - - - - - X

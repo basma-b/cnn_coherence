@@ -1,0 +1,10 @@
+/HOME/ROBBIE/.GNOME2/ O -
+          PERMISSION S -
+             HOMEDIR X -
+             SESSION X -
+              CHANGE O -
+             ~/.DMRC S -
+               -RW-R X -
+              ROBBIE S -
+  /HOME/ROBBIE/.DMRC O -
+               CHMOD - X

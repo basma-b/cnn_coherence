@@ -1,0 +1,18 @@
+                  OK S - -
+               ERROR X - -
+             MESSAGE O - -
+                   E X - -
+             PACKAGE X - -
+   ADOBE-FLASHPLUGIN S - X
+             ARCHIVE O - -
+               ADOBE - X -
+             INSTALL - O -
+               FLASH - O -
+                 DEB - X -
+                FILE - O -
+           UNINSTALL - - X
+/VAR/LIB/DPKG/INFO/ADOBE-FLASHPLUGIN - - X
+                SUDO - - O
+               FORCE - - X
+                DPKG - - X
+               PURGE - - X

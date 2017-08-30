@@ -1,0 +1,16 @@
+            SECURITY X - - -
+               THING X - - -
+                  .. X - - -
+            APPARMOR X - - -
+             SELINUX - S - -
+              KERVEL - O - -
+                TIME - - O -
+             UPGRADE - - S -
+              SYSTEM - - X -
+                 KDE - - X -
+          FILESYSTEM - - X -
+         PERMISSIONS - - O -
+                /TMP - - X -
+                FILE - - X -
+              SOCKET - - X -
+                MINE - - - S

@@ -1,0 +1,19 @@
+               ALFA3 X - - - -
+              OUTPUT - X - - -
+                  -A - X - - -
+                 USE - - X - -
+             COMMAND - - X - -
+                LINE - - O - -
+                  .. - - O - -
+           PPA-PURGE - - O - -
+                 PPA - - S - -
+               THERE - - S - -
+            FRONTEND - - X - -
+                TIME - - - - S
+           DOWNGRADE - - - - X
+MYSQL-SERVER-CORE-5.5 - - - - S
+                SUDO - - - - X
+             APT-GET - - - - S
+                   + - - - - X
+                BLEH - - - - O
+MYSQL-SERVER-CORE-5.5=5.5.24-0UBUNTU0.12.04.1 - - - - O

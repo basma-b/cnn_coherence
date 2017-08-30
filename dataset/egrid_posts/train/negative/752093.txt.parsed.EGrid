@@ -1,0 +1,13 @@
+              SCRIPT X - - - - -
+                ROOT - X - - - -
+             DEFAULT - - X - - -
+               CHMOD - - X - - -
+              ADVICE - - X - - -
+                FILE - - - X - -
+                WORK - - - X - -
+           DIRECTORY - - - S - -
+              SEARCH - - - O - -
+                PATH - - - O - -
+/HOME/USERNAME/SCRIPT - - - X - -
+            ./SCRIPT - - - X - -
+              UBUNTU - - - - O -

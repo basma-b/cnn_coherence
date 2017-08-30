@@ -1,0 +1,34 @@
+                ETH2 S X - - - - - - - - - - -
+                ETH0 X - - S - - - - - - - - -
+                ETH1 S - - - - - - - - - - - -
+             NETWORK X - O - - - X - X X - - -
+          CONNECTION O - - - - - - - - - - - -
+               CABLE X - - - - - - - - - - - -
+                UDEV O - - - - - - - - - - - -
+                FILE O - - - - - - - - - - - -
+              CHANGE - - S - - - - - - - - - -
+/ETC/NETWORK/INTERFACES - - X - - - - - - - - - -
+              DEVICE - - - S - - - - - - - - -
+                THAT - - - - S - - S - - - - -
+                 LOT - - - - O - - - - - - - -
+               SENSE - - - - X - - O - - - - -
+                PART - - - - - X - - - - - - -
+           INTERFACE - - - - - - S - - - - - -
+                NAME - - - - - - O - O - - - -
+               ORDER - - - - - - - - O X - - -
+                CARD - - - - - - - - X X - - -
+                LOAD - - - - - - - - X S - - -
+                 LOG - - - - - - - - - - - X -
+              DEAMON - - - - - - - - - - - - S
+                  PS - - - - - - - - - - - - X
+               |GREP - - - - - - - - - - - - X
+                ZEIT - - - - - - - - - - - - S
+         POSSIBILITY - - - - - - - - - - - - O
+                  RW - - - - - - - - - - - - O
+     ACTIVITY.SQLITE - - - - - - - - - - - - X
+~/.LOCAL/SHARE/ZEITGEIST/ACTIVITY.SQLITE - - - - - - - - - - - - O
+                HMOD - - - - - - - - - - - - X
+                 +RW - - - - - - - - - - - - S
+    PYTHON-ZEITGEIST - - - - - - - - - - - - X
+      ZEITGEIST-CORE - - - - - - - - - - - - X
+                 YUP - - - - - - - - - - - - X

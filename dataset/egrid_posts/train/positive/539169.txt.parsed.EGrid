@@ -1,0 +1,11 @@
+             GPARTED X - - -
+               DRIVE - O - O
+              FORMAT - O - -
+               FAT32 - X - -
+                PART - O - -
+                 ONE - O - -
+                   = - - X -
+              SECOND - - - O
+              OUTPUT - - - O
+             COMMAND - - - X
+             SERVICE - - - X

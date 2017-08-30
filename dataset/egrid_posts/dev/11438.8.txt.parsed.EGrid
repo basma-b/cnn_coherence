@@ -1,0 +1,12 @@
+               ACCES X X X - - -
+        MODIFICATION X X X - - -
+                FILE X X X - - O
+               TOUCH X X X - S -
+             COMMAND - X X X - -
+                 DEV - - - S - -
+                 USE - - - - X -
+              MYFILE - - - - O -
+            DOWNLOAD - - - - - X
+              DRIVER - - - - - O
+               EPSON - - - - - X
+                 TAR - - - - - X

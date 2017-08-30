@@ -1,0 +1,12 @@
+         CONNECTIONS X - - - - - -
+               RANGE O - - - - - -
+                PORT - X - - - - X
+            IPTABLES - X - - - - -
+         FIRESTARTER - X - - - - -
+     /ETC/HOSTS.DENY - - X - - - -
+            ALL:10.3 - - - O - - -
+                   * - - - - - S -
+              PEOPLE - - - - - S -
+          UNIVERSITY - - - - - X -
+            ETHERNET - - - - - X -
+     VULNERABILITIES - - - - - X -

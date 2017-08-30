@@ -1,0 +1,16 @@
+                LINE X - - - -
+/ETC/SSH/SSHD_CONFIG X - - - -
+                 LOG O - X - -
+                 KEY X - - - O
+                THIS - S - - -
+              SERVER - O - X -
+             PROCESS - X - - -
+PUBKEYAUTHENTICATION - - - X -
+                 YES - - - X -
+  AUTHORIZEDKEYSFILE - - - S -
+                FILE - - - O -
+                COPY - - - X -
+         ID_RSA2.PUB - - - X -
+               MATCH - - - X -
+              CLIENT - - - X -
+             MACHINE - - - - X

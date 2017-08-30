@@ -1,0 +1,10 @@
+       CONFIGURATION X - - - -
+                THAT - X - - -
+                CRON - - X - -
+                 JOB - - O - -
+              MINUTE - - O - -
+            AUTH.LOG - - S - -
+               AUTHS - - O - -
+              OUTPUT - - O - -
+             CRONJOB - - O - -
+             SESSION - - - X -

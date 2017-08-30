@@ -1,0 +1,14 @@
+                 ANY S - - - -
+                HERE - X - - -
+             PRINTER - X - - -
+               PRINT - X - - -
+                  PC - X - - -
+                THAT - - X - -
+                QEMU - - - X -
+           /DEV/SDB1 - - - - O
+                   \ - - - - X
+             WARNING - - - - X
+                 USB - - - - X
+              DEVICE - - - - X
+                DISK - - - - O
+            /DEV/SDB - - - - X

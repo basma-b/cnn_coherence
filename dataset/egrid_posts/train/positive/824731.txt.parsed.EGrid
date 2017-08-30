@@ -1,0 +1,33 @@
+               10.10 O - - - - - - - - - - - - - - - - -
+                USER - O - - - - - - - - - - - - - - - -
+               USERS - X - S - - - - - - - - - - - - - -
+               GROUP - X - O - - - - - - - - - - - - - -
+                THAT - - X - - - - - - - - - - - - X - -
+               SAMBA - - - X - - - - - - - - - - - - - -
+       CONFIGURATION - - - O - - - - - - - - - - - - - -
+       DOCUMENTATION - - - O - - - - - - - - - - - - - -
+               DRIVE - - - - X - - - - - - - - - - - - -
+              FORMAT - - - - X - X X - - - - - - - - - -
+              REASON - - - - - - - X - - - - - - - - - -
+         PERMISSIONS - - - - - - - O - - - - - - - - - -
+                MINE - - - - - - - X - - - - - - - - - -
+                NTFS - - - - - - - S O - - - - - - - - -
+                UNIX - - - - - - - X - - - - - - - - - -
+                  .. - - - - - - - X - - - - - - - - - O
+             PROBLEM - - - - - - - - O - - - - - - - - -
+                EXT4 - - - - - - - - O - - - - - - - - -
+              SERVER - - - - - - - - X - - - - - - - - -
+              CLIENT - - - - - - - - X - - - - - - - - -
+                MORE - - - - - - - - - O - - - - - - - -
+               SETUP - - - - - - - - - X - - - - - - - -
+                GOOD - - - - - - - - - O - - - - - - - -
+                PART - - - - - - - - - - X - - - - - - X
+             ARTICLE - - - - - - - - - - O - - - - - - -
+            FBDSTANG - - - - - - - - - - - X X X - - - X
+                HTTP - - - - - - - - - - - X X X - - - -
+//WWW.LINUXJOURNAL.COM/MAGAZINE/PARANOID-PENGUIN-SAMBA-SECURITY-PART-I - - - - - - - - - - - X - - - - - -
+//WWW.LINUXJOURNAL.COM/MAGAZINE/PARANOID-PENGUIN-SAMBA-SECURITY-PART-II - - - - - - - - - - - - X - - - - -
+             AWESOME - - - - - - - - - - - - - X - - - -
+               HOURS - - - - - - - - - - - - - - - S - -
+               HOWTO - - - - - - - - - - - - - - - O - -
+                LINK - - - - - - - - - - - - - - - - X -

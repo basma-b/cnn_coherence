@@ -1,0 +1,12 @@
+             MODULES S - - - -
+              INITRD X X X - -
+          FILESYSTEM X - - - -
+                SOME X - - - -
+             CONTENT - O - - -
+               IMAGE - O - - -
+              CRAMFS - X - - -
+                LOOP - X - - -
+               STOCK - X - - -
+              KERNEL - O - - -
+               USBFS - - X - -
+               THERE - - - - X

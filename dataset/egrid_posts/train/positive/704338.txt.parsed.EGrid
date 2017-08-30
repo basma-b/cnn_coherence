@@ -1,0 +1,17 @@
+                   | X -
+            ETHERNET S -
+                SUDO X -
+            DHCLIENT X -
+                ETH0 S -
+                FILE X -
+           SOMETHING S -
+             NETWORK X -
+SETUP/SETTING/SYSTEM O -
+              EXPERT - O
+             INSTALL - X
+                 ISO - X
+                BASE - O
+             SUPPORT - O
+                WORK - O
+                 CMD - X
+           CONFIGURE - X

@@ -1,0 +1,26 @@
+               SOUND X - X - - -
+                CARD X - X - - -
+              UBUNTU X - - - - -
+               POINT X - - - - -
+          SOUND-TEST X - - - - -
+            SPEAKERS O - - - - -
+              STATIC X - - - - -
+               MOVIE - - O - - -
+                PLAY - - X - - -
+               TOTEM - - X - - -
+              DEVICE - - O - - X
+              MOVIES - - S - - -
+              OTHERS - - X - - -
+                  HD - - X - - -
+                 5.1 - - O - - -
+                 DTS - - O - - -
+                 AC3 - - X - - -
+             DEFAULT - - X - - -
+              CHANGE - - O - - -
+            SETTINGS - - X - - -
+               GNOME - - X - - -
+              AUDIGY - - O - - -
+          PULSEAUDIO - - O - - -
+/ETC/PULSE/DEFAULT.PA - - - X - -
+ ~/.PULSE/DEFAULT.PA - - - O - -
+                FILE - - - X - -

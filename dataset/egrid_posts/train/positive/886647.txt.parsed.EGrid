@@ -1,0 +1,11 @@
+           10.9.0.28 X X - -
+                   > X X - -
+                   < X - - -
+                WORK X - - -
+              REBOOT - X - -
+          NAMESERVER - O - -
+    /ETC/RESOLV.CONF - X - -
+                SUDO - X - -
+             CRONTAB - X - -
+                 TEE - O - -
+               GUESS - S - -

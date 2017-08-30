@@ -1,0 +1,16 @@
+                PORT X - O O - - -
+                BIND X X - - - - -
+        SLAVE/MASTER X - - - - - -
+                MODE X - - - - - -
+               BIND9 - S S - - - -
+                 TCP - X - - - - -
+                 UDP - X - - - - -
+              SOURCE - - X X - - -
+             SERVERS - - - S - - -
+         PROPAGATION - - - - S - -
+                WORK - - - - O - -
+              ERRORS - - - - X X -
+                 LOG - - - - X - -
+              UPDATE - - - - - O -
+               SLAVE - - - - - X -
+              SERVER - - - - - S -

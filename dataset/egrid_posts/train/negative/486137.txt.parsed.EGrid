@@ -1,0 +1,11 @@
+                FILE O O -
+          CONNECTION X - -
+                 SCP O S -
+       YOUR_USERNAME - S -
+      REMOTEHOST.XXX - O -
+          FOOBAR.TXT - X -
+/SOME/LOCAL/DIRECTORY - X -
+               RSYNC - S -
+           DIRECTORY - O -
+               STALL - O -
+               DEBUG - - O

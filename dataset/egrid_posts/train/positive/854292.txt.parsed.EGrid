@@ -1,0 +1,11 @@
+                HOUR X - - -
+            WIRELESS X - - -
+            PROBLEMS O - - -
+               COMPS X - - -
+                 FIX - X - -
+                PAGE - X - -
+                SUDO - - X -
+            MODPROBE - - S -
+              IWLAGN - - S -
+          SWCRYPTO=1 - - O -
+/ETC/MODPROBE.D/IWLAGN.CONF - - - X

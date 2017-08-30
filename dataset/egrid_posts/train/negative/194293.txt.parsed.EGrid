@@ -1,0 +1,13 @@
+           BADBLOCKS - X - - - - - - - -
+            /DEV/HDA - S - - - - - - - -
+                 USE - X - - - - - - - -
+              SYSTEM - X - - - - - - - -
+           PARTITION - - - X - - - - - -
+                DISK - - - X - - - - - -
+                   ' - - - - - X - - - -
+        /PROC/MOUNTS - - - - - O - - - -
+               MOUNT - - - - - - X - - -
+             COMMAND - - - - - - - X - -
+                KIND - - - - - - - - X -
+               ERROR - - - - - - - - X -
+            VERBATIM - - - - - - - - - X

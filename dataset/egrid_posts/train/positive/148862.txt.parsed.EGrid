@@ -1,0 +1,61 @@
+               ERROR O - - - - - - - - - - - - -
+             MESSAGE X - - - - - - - - - - - - -
+             READING X - - - - - - - - - - - - -
+             PACKAGE X - S X - - - - - - - - - -
+                LIST O - S - - - - - - - - - - -
+                  .. - O - - - - - - O - - - - -
+          DEPENDENCY - X - - - - - - - - - - - -
+                TREE - X - - - - - - - - - - - -
+                   W - - S - - - - - - - - - - -
+                STAT - - S - - - - - - - - - - -
+              SOURCE - - S O - - - - - - O O - -
+//IN.ARCHIVE.UBUNTU.COM - - S - - - - - - - - - - -
+            PACKAGES - - S - - - - - - - - - - -
+/VAR/LIB/APT/LISTS/IN.ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_BREEZY-UPDATES_MAIN_BINARY-AMD64_PACKAGES - - S - - - - - - - - - - -
+           DIRECTORY - - S - - - - - - - - - - -
+/VAR/LIB/APT/LISTS/IN.ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_BREEZY-UPDATES_RESTRICTED_BINARY-AMD64_PACKAGES - - S - - - - - - - - - - -
+/VAR/LIB/APT/LISTS/IN.ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_BREEZY-UPDATES_UNIVERSE_BINARY-AMD64_PACKAGES - - S - - - - - - - - - - -
+/VAR/LIB/APT/LISTS/IN.ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_BREEZY-UPDATES_MULTIVERSE_BINARY-AMD64_PACKAGES - - S - - - - - - - - - - -
+            PROBLEMS - - S - - - - - - - - - - -
+                   E - - S - - - - - - - - - - -
+                SUDO - - S - - - - - - X - - - -
+                HTTP - - - X - X S X - - - - - -
+                FILE - - - X - X - - - - - - - -
+IN.ARCHIVE.UBUNTU.COM - - - X - - - - - - - - - -
+                REPO - - - S - - - - - - - - - -
+/ETC/APT/SOURCES.LIST - - - S - - - O X - - X - -
+                   U - - - S - O - S - - - - - -
+                THAT - - - - S - - - - - - - - -
+                 FIX - - - - O - - - - - - - - -
+                OPEN - - - - - X - - - - - - - -
+               GEDIT - - - - - X - - - - - - - -
+             CONTENT - - - - - O - - - - - - - -
+                LINK - - - - - X S - - - - - - -
+              OOOKKK - - - - - - S - - - - - - -
+              UPDATE - - - - - - - O - X - - S -
+               THOSE - - - - - - - O - - - - - -
+               THERE - - - - - - - S - - - - - -
+                 SET - - - - - - - O - - - - - -
+//PASTE.UBUNTU-NL.ORG/6047 - - - - - - - X - - - - - -
+             PROBLEM - - - - - - - O - - - - - -
+                 ONE - - - - - - - X - - - - - -
+//PASTE.UBUNTU-NL.ORG/972 - - - - - - - X - - - - - -
+              FOLLOW - - - - - - - - O - - - - -
+                TYPE - - - - - - - - X - - S - -
+            TERMINAL - - - - - - - - X - - - - -
+                 CAT - - - - - - - - X - - - - -
+                SAME - - - - - - - - X - - - O -
+                WIKI - - - - - - - - X - - - - -
+             APT-GET - - - - - - - - - S - - - -
+     KUBUNTU-DESKTOP - - - - - - - - - X - - - -
+                   R - - - - - - - - - S - - - -
+              SAMULI - - - - - - - - - S - - - -
+               POINT - - - - - - - - - O - - - -
+            APTITUDE - - - - - - - - - X - - - -
+                HECK - - - - - - - - - - X - - -
+         CONVENTIONS - - - - - - - - - - X - - -
+              GKSUDO - - - - - - - - - - - X - -
+            PASTEBIN - - - - - - - - - - - X - -
+               STUFF - - - - - - - - - - - - X -
+                   N - - - - - - - - - - - - S -
+               GREAT - - - - - - - - - - - - - X

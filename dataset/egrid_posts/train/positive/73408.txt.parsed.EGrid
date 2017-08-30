@@ -1,0 +1,16 @@
+               SD0,0 X - - - -
+               SD0,1 S - - - -
+           SEQUENCER S - - - -
+            TIMIDITY O - - - -
+             DISPLAY - X - - -
+                INFO - X - - X
+           SDL_MIXER - X - - -
+              SIGNAL - X - - X
+        SEGMENTATION - X - - X
+               FAULT - X - - X
+                 SDL - X - - X
+           PARACHUTE - S - - S
+              SCREEN - O - - -
+              CTRL-X - O - - -
+             SOMEONE - - - S -
+                  .. - - - - X

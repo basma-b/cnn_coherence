@@ -1,0 +1,17 @@
+              SCRIPT O - - - - - -
+             STARTUP X X - - - - -
+               POINT - X - - - - -
+                USER - - X - - - -
+               LOGON - - X - - - -
+                BOOT - - - X S - -
+             COMMAND - - - - O - -
+                 END - - - - X - -
+             DEFAULT - - - - X - -
+                   < - - - - X - -
+                THIS - - - - X - -
+         UPDATE-RC.D - - - - - S -
+              ABC.SH - - - - - S -
+         INITSCRIPTS - - - - - O -
+          INITSCRIPT - - - - - X -
+           /DEV/SDB1 - - - - - - O
+              DEVICE - - - - - - O

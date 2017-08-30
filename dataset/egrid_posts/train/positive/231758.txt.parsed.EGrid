@@ -1,0 +1,13 @@
+                 DNS X - - X - -
+                  .. - X - - - -
+              CLIENT - - X - - -
+                 RUN - - X - - -
+              SERVER - - S - - -
+                FROM - - - X - -
+           SSHSERVER - - - X - -
+              DOMAIN - - - X X -
+         CONNECTIONS - - - S - -
+       MY-DOMAIN.COM - - - - O -
+            IPADRESS - - - - X -
+             OUT-DNS - - - - O -
+                RDNS - - - - - S

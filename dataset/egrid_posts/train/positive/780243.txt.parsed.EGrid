@@ -1,0 +1,12 @@
+           PARTITION X X - S
+              CFDISK S - - -
+               ERROR O X - -
+                ROOT O - - -
+                SUDO X - - -
+                 END - X - -
+              CYLIND - X - -
+              OPTION - - O -
+              LAYOUT - - X -
+             WARNING - - - X
+              REMOVE - - - O
+                DATA - - - X

@@ -1,0 +1,25 @@
+                DATE X - - - -
+  LIBDATE-MANIP-PERL S - O - -
+               LUCID X - - - -
+              ACCORD O - - - -
+             CREATOR X - - - -
+               MANIP X - - - -
+             VERSION S - O - -
+               ERROS O - - - -
+                 FIX X - - - -
+                6.06 X - - - -
+              LATEST S - - - -
+                6.24 O - - - -
+                HTTP - X - - -
+//PACKAGES.UBUNTU.COM/SEARCH - X - - -
+SUITE=LUCID-BACKPORTS - - X - -
+         SECTION=ALL - - X - -
+            ARCH=ANY - - S - -
+      SEARCHON=NAMES - - X - -
+KEYWORDS=LIBDATE-MANIP-PERL - - S - -
+               SUITE - - X - -
+                   S - - X - -
+     LUCID-BACKPORTS - - S - -
+           AVAILABLE - - - S -
+       LAUNCHPAD.NET - - - X -
+                   K - - - - X

@@ -1,0 +1,13 @@
+             KERNELS O - -
+                GRUB X - -
+             MESSAGE S - -
+                LOAD X - -
+             CHOICES X - -
+                 KEY X - -
+              CHOICE X - -
+               MENUE O - -
+              ESCAPE - O -
+                ROOT - - O
+                  CD - - X
+          FILESYSTEM - - X
+               CHECK - - O

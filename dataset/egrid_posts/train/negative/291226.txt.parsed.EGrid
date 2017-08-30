@@ -1,0 +1,12 @@
+             BCM43XX S - - -
+/ETC/MODPROBE.D/BLACKLIST X - - -
+              EFFECT O - - -
+           BLACKLIST - X - -
+             MODULES - S - -
+                LOAD - X - -
+              DRIVER - - X -
+              UBUNTU - - X -
+                SHIP - - X -
+               THATS - - S -
+                 ^^^ - - O -
+                THAT - - - S

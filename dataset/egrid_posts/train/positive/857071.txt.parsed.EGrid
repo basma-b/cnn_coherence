@@ -1,0 +1,17 @@
+             RT73USB X - - - - - - - - - - -
+              ANYONE X - - - - - - - - - - -
+            INTERNET X - - - - - - - - - - -
+               10.04 X - - - - - - - - - - -
+               10.10 X - - - - - - - - - - -
+             KERNELS X - - - - - - - - - - -
+              KERNEL - - - - X X - - - - - -
+              DRIVER - - - - X - X - X - - -
+         NDISWRAPPER - - - - - - X - - - - -
+         PROPRIETARY - - - - - - X - - - - -
+             PACKAGE - - - - - - - X S - - -
+                HOLD - - - - - - - - X - - -
+             COMMAND - - - - - - - - O - - -
+                PAGE - - - - - - - - - X - O
+            SPECIFIC - - - - - - - - - X - -
+       COMPATABILITY - - - - - - - - - - - X
+             CHIPSET - - - - - - - - - - - O

@@ -1,0 +1,10 @@
+          SSL-VHOSTS - S -
+             APACHE2 - S -
+                8.04 - X -
+               ERROR - O -
+             MESSAGE - X -
+          APACHE2CTL - S -
+                  \N - X -
+                  § - S -
+/VAR/LOG/APACHE2/ERROR.LOG - O -
+              DOESNT - - S

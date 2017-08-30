@@ -1,0 +1,15 @@
+                HELP X - - - -
+             SUDOERS X - - - -
+               10.04 X - - - -
+                TIME - X - - -
+             COMMAND - O - - -
+            PASSWORD - X - O -
+               PETER - - X - -
+                ALL= - - X - -
+                 ALL - - X - -
+            NOPASSWD - - O - -
+              VISUDO - - X - -
+                LUCK - - X - -
+                SUDO - - - S -
+         SUGGESTIONS - - - S -
+                SAME - - - - S

@@ -1,0 +1,9 @@
+                 NIC X X - - -
+                ETH1 - - O - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - O - -
+              DEVICE - - X - -
+                NAME - - X - -
+                ETH0 - - X - -
+                  .. - - X - -
+               ENTRY - - O - -
+                  -/ - - - - X

@@ -1,0 +1,10 @@
+                LINK X S -
+                EXT3 X - -
+                NTFS X X -
+           PARTITION X - -
+             SYMLINK - O -
+          FILESYSTEM - X -
+               POINT - X -
+                FILE - X -
+                 DIR - X -
+               ERROR - - X

@@ -1,0 +1,16 @@
+              ANYONE S - - -
+               THERE S - - -
+             UTILITY O - - -
+              FORMAT X - - -
+          FILESYSTEM O - - O
+              YAFFS2 X - - -
+                TYPE O - - -
+              SDCARD X - - -
+         MKFS.YAFFS2 - X - -
+            ANYTHING - O - -
+             APT-GET - X - -
+               FAT32 - - X -
+                 FAT - - - S
+               POWER - - - O
+           SOMETHING - - - O
+              DEVICE - - - S

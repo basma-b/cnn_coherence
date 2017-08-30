@@ -1,0 +1,27 @@
+/USR/SBIN/GRUB-PROBE O - - - - -
+               ERROR X - - - - -
+              DEVICE O - - - - -
+                   / X - - - - -
+                /DEV X - - - - -
+        INSTALLATION - - X - - -
+         UPDATE-GRUB - - X - - -
+              LIVECD - - X - - -
+              CHROOT - - - X X -
+                SUDO - - - O - -
+                /MNT - - - S - -
+                BIND - - - X - -
+               /DEV/ - - - O - -
+              /PROC/ - - - O - -
+               /SYS/ - - - O - -
+               HTTPS - - - - X -
+//HELP.UBUNTU.COM/COMMUNITY/GRUB2 - - - - X -
+               DIDNT - - - - - S
+                LOOK - - - - - X
+              PEOPLE - - - - - S
+       DOCUMENTATION - - - - - X
+                THIS - - - - - S
+            DOCUMENT - - - - - S
+             NETWORK - - - - - X
+          CONNECTION - - - - - O
+                 BOX - - - - - X
+             SUCCESS - - - - - X

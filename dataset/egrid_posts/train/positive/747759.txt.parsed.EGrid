@@ -1,0 +1,16 @@
+              DEVICE - - S - - - X -
+              DRIVER - - X - - - S -
+              INSTAL - - O - - - - -
+           /DEV/SDA6 - - X - - - - -
+                TIME - - - - - - X -
+                  .. - - - - - - X -
+                CASE - - - - - - X -
+            /DEV/SDA - - - - - - X -
+             COMMAND - - - - - - X -
+                BOOT - - - - - - X -
+               ERROR - - - - - - X -
+             MESSAGE - - - - - - O -
+                 -DC - - - - - - - X
+        /DEV/URANDOM - - - - - - - X
+                   | - - - - - - - S
+                  -4 - - - - - - - O

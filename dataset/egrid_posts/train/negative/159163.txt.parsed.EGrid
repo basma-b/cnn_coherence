@@ -1,0 +1,37 @@
+                 ANY S - - - - - - - - - - - -
+             EXPERTS O - - - - - - - - - - - -
+               HOUSE X - - - - - - - - - - - -
+             AWSTATS - X - X - - - S - - - - -
+              CONFIG - X - - - - - - - - - - -
+                FILE - X - - - - - - - - - - -
+                 ONE - X X - - - - - - - - - -
+            SETTINGS - S - X - O O - - - - - -
+             EXAMPLE - - X - - - - - - - - - -
+             DEFAULT - - - X - - - - - - - - -
+/ETC/AWSTATS/AWSTATS.CONF - - - X - - - - - - - - -
+/ETC/AWSTATS/AWSTATS.CONF.LOCAL - - - S - - - - - - - - -
+              CHANGE - - - O - - - - - - - - -
+              UPDATE - - - X - - - - - - - - -
+             MINUTES - - - O - - - - - - - - -
+                THAT - - - - X - - - - - - - -
+               STATS - - - - - O - - - - - - -
+                DATA - - - - - X - - - - - - -
+                 LOG - - - - - O X - - - - - -
+                 NEW - - - - - - S - - - - - -
+         INFORMATION - - - - - - X - - - - - -
+                 SET - - - - - - O - - - - - -
+             PROBLEM - - - - - - S - - - - - -
+             BROWSER - - - - - - X - - - - - -
+              ROBOTS - - - - - - O O - - S - -
+                TIME - - - - - - - X - X - - -
+                LOGS - - - - - - - S - - - - -
+             WEBSITE - - - - - - - O - - - - -
+                CRON - - - - - - - X X - - - -
+                 JOB - - - - - - - S - - - - -
+     /VAR/LOG/SYSLOG - - - - - - - X - - - - -
+              APACHE - - - - - - - - O - - - -
+                 HIT - - - - - - - - - X - - -
+                LUCK - - - - - - - - - X - - -
+                SITE - - - - - - - - - X - - -
+             CONFIGS - - - - - - - - - - O - -
+               YAHOO - - - - - - - - - - S - -

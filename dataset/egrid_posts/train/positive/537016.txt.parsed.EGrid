@@ -1,0 +1,16 @@
+                USER S - X -
+                PART O - - -
+               GROUP X X - -
+               CHOWN X S - -
+                  -R O - - -
+               /PATH X - - -
+             FOLDERS X - - -
+                PATH X - - -
+             NOTHING - O - -
+         PERMISSIONS - X - -
+                FILE - X O -
+               OWNER - S - -
+           GROUPNAME - - - O
+                PAGE - - - S
+//HELP.UBUNTU.COM/COMMUNITY/FILEPERMISSIONS - - - S
+            USERNAME - - - S

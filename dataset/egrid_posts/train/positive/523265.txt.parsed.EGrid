@@ -1,0 +1,13 @@
+               RIGHT X - - - -
+                TTYS - S - - -
+               SETUP - O - - -
+                   X - X - - -
+             OPTIONS - O - - -
+           FIRSTVT=7 - X - - -
+   VTALLOCATION=TRUE - O - - -
+   /ETC/GDM/GDM.CONF - X - - -
+             SPECIFY - - S - -
+                  VT - - O - -
+                  7+ - - - O -
+                 USE - - - - X
+                TTY8 - - - - X

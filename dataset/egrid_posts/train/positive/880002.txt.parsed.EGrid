@@ -1,0 +1,15 @@
+              UBUNTU X - - - - - -
+           XORG.CONF X - - - - - -
+            /ETC/X11 - X - - - - -
+             DEFAULT - X - - X O -
+              KERNEL - S - - S O -
+                GRUB - - X X - - -
+                BOOT - - X X - - -
+                MENU - - X O - - -
+              OPTION - - - - S - -
+              SCREEN - - - - O - -
+   /ETC/DEFAULT/GRUB - - - - - X -
+                 RUN - - - - - X -
+                   * - - - - - O -
+               START - - - - - X -
+                THAT - - - - - - S

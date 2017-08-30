@@ -1,0 +1,14 @@
+               SETUP X X - - - - - - - - -
+                 MBR X X - - - - - - - - -
+                 HDD X X - - - - - - - - -
+           PARTITION - O X - - - - - - - -
+                ﻿I - S - - - - - - - - -
+               MOUNT - - X - - - - - - - -
+             ANYBODY - - - X - - - - - - -
+               CHECK - - - - - - - X - - -
+          /ETC/FSTAB - - - - - - - S - - -
+                  IM - - - - - - - - X - S
+                  CD - - - - - - - - X - -
+               FSTAB - - - - - - - - - S -
+              MATTER - - - - - - - - - - O
+         ENVIRONMENT - - - - - - - - - - X

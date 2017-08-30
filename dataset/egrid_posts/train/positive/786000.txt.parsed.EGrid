@@ -1,0 +1,30 @@
+                TIME X - - - - -
+              SCRIPT O - - - - -
+                FILE O X - - O -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES X - - - - -
+              FRIEND X - - - - -
+               IMAGE X - - - - -
+                 ALL S - - - - -
+          INTERFACES X - - - - -
+                COPY - X - - - -
+             VERSION - O - - - -
+              THINGS - O - - - -
+              ANYONE - - X - - -
+                THIS - - X - - -
+                   A - - - X - -
+70-PERSISTENT-CD.RULES - - - S - -
+                ORIG - - - S - -
+               POWER - - - X - -
+              SYSTEM - - - X - -
+            ORIGINAL - - - O - -
+                  CD - - - S - -
+               DRIVE - - - X - -
+                BOOT - - - X X -
+            ANYTHING - - - O O -
+            MOD_PHP5 - - - - - S
+                SUDO - - - - - X
+             APT-GET - - - - - S
+             A2ENMOD - - - - - X
+                PHP5 - - - - - S
+ /ETC/INIT.D/APACHE2 - - - - - S
+      UBUNTU-DESKTOP - - - - - O

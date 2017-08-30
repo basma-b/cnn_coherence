@@ -1,0 +1,22 @@
+                  HI X -
+           INSPECTOR O -
+             FIREFOX S -
+                THIS O -
+             PACKAGE S -
+        DEPENDENCIES O -
+FIREFOX-DOM-INSPECTOR X -
+1.5.DFSG+1.5.0.3-0UBUNTU3 X -
+1.5.DFSG+1.5.0.10-0UBUNTU0.6.06.2 S -
+                SUDO O -
+                  -F S -
+              CONFIG - X
+                FILE - S
+           INTERFACE - X
+                 GUI - X
+                APPS - X
+             NETWORK - X
+             MANAGER - X
+                BASE - X
+            FRONTEND - O
+            TERMINAL - X
+                  DE - O

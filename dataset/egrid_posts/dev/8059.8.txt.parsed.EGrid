@@ -1,0 +1,16 @@
+                COPY X - - - - - -
+                FILE O - - - - - -
+               LINUX X - - - S - -
+             WINDOWS X - - - X - -
+           PROCESSOR - S - - - - -
+                   % - O - - - - -
+                SWAP - S - - - - -
+                 USE - O - - - - X
+                DISK - - S - - - -
+               SPEED - - X - - - -
+               DRIVE - - - O X - -
+                 GDM - - - - - S -
+                MESS - - - - - X -
+             SESSION - - - - - X -
+               UNITY - - - - - - X
+             LIGHTDM - - - - - - X

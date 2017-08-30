@@ -1,0 +1,12 @@
+            HARDWARE - X X - -
+                  SB - X X - -
+              DEVICE - X X - -
+                  ID - X X - -
+         ISAPNP.CONF - X X - -
+                  .. - X O - -
+  /ETC/INIT.D/ISAPNP - S S - -
+                HTTP - X X - -
+//PACKAGES.DEBIAN.ORG/STABLE/BASE/ISAPNPTOOLS - S S - -
+             CTL0043 - - X - -
+                HELP - - S X -
+                STOP - - - S -

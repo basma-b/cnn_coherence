@@ -1,0 +1,17 @@
+               MOUSE X S - - -
+                POLL X S - - -
+                RATE X - - - -
+              UBUNTU X - - - -
+                  .. - X - - -
+           .REDUCING - X - - -
+            INCREASE - X - - -
+             PROBLEM - O - - -
+                THAT - - X - -
+                 CAT - - - X -
+/SYS/MODULE/USBHID/PARAMETERS/MOUSEPOLL - - - X -
+                SUDO - - - - S
+             REMOUNT - - - - O
+            UID=1000 - - - - X
+                SYNC - - - - X
+            /DEV/FD0 - - - - X
+              OPTION - - - - X

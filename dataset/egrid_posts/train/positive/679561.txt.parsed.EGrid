@@ -1,0 +1,23 @@
+             NETWORK X - O - - -
+             MANAGER X - - - - -
+             COMMAND X - - - - -
+                LINE X - - - - -
+             SERVICE - X - - - -
+              RETURN - X - - - -
+                 WAY - - O - - -
+                SUDO - - X - - -
+/ETC/INIT.D/NETWORK-MANAGER - - S - - -
+                WORK - - O - - -
+            WIRELESS - - - X - -
+          CONNECTION - - - X - -
+               GNOME - - - X - -
+            IFCONFIG - - - - X -
+               WLAN0 - - - - O -
+      NETWORKMANAGER - - - - X -
+               STORE - - - - X -
+           INTERFACE - - - - X -
+              DETAIL - - - - X -
+                CARD - - - - O -
+          INTERFACES - - - - X -
+                 USE - - - - - S
+                IFUP - - - - - S

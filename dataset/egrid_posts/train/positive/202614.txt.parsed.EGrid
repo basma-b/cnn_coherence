@@ -1,0 +1,24 @@
+               IDEEA X - - - - - - - - - -
+                THIS S - - - - - - - - - -
+                ALSA X - - - - - - - - - -
+                 LIB X - - - - - - - - - -
+               SEQ.C X - - - - - - - - - -
+   SND_SEQ_OPEN_CONF X - - - - - - - - - -
+              SYMBOL X - - - - - - - - - -
+    _SND_SEQ_HW_OPEN S - - - - - - - - - -
+            QSAMPLER - - - - - S - - - - -
+                  1. - - - - - S - - - - -
+               SOUND - - - - - X - - - - -
+                CARD - - - - - O - X - - -
+                  2. - - - - - - S - - - -
+/ETC/MODPROBE.D/ALSA - - - - - - X - - - -
+           SOUNDCARD - - - - - - O - - - -
+                 RME - - - - - - - X - - -
+           MULTIFACE - - - - - - - X - - -
+                  II - - - - - - - S - - -
+              SEARCH - - - - - - - O - - -
+                COPY - - - - - - - X - - -
+              CONFIG - - - - - - - X - - -
+                FILE - - - - - - - X - - -
+                  TP - - - - - - - X - - -
+MODPROBE.D/ALSA-BASE - - - - - - - - - - O

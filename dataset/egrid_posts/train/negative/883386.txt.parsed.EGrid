@@ -1,0 +1,13 @@
+    /ETC/ENVIRONMENT S -
+                 USE O -
+              SCRIPT O -
+              CHANGE O -
+                PATH O -
+               POINT X -
+                 DOC X -
+//HELP.UBUNTU.COM/COMMUNITY/ENVIRONMENTVARIABLES S -
+SYSTEM-WIDE_ENVIRONMENT_VARIABLES S -
+            ANYTHING O -
+                THAT - S
+                SUDO - S
+                  -A - O

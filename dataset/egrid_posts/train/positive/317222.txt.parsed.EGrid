@@ -1,0 +1,12 @@
+              SIGNAL O - - - - -
+             PROCESS O - - - - -
+                KILL - X - - - -
+                  -9 - S - - - -
+            ANYTHIGN - S - - - -
+         FIREFOX-BIN - X - - - -
+                TALK - - S - - -
+           TEMPORARY - - X - - -
+                COPY - - O X - -
+           DIRECTORY - - - - - X
+                FILE - - - - - S
+.FAMILY_LOCATE.C.SWP - - - - - X

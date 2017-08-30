@@ -1,0 +1,21 @@
+                 THE S - - - - - -
+                   _ X - - - - - -
+             PACKAGE S - - - - O S
+        DEPENDENCIES O - - - - - -
+MOZILLA-FIREFOX-DOM-INSPECTOR X - - - - X -
+FIREFOX-DOM-INSPECTOR S - - - - S -
+  2.0+0DFSG-0UBUNTU3 X - - - - - -
+                SUDO X - - - - - -
+             APT-GET X - - - - - -
+             UPGRADE O - - - - - -
+        DIST-UPGRADE O - - - - - -
+                BOTH - - X - - - -
+               LINUX - - - X - - -
+                 SMP - - - X - - -
+                 THU - - - X - - -
+                 FEB - - - S - - -
+                I686 - - - O - - -
+           GNU/LINUX - - - X - - -
+              INSTAL - - - - - - O
+            CONFLICT - - - - - - X
+             FAILURE - - - - - - X

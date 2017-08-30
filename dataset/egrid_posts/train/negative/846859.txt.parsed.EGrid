@@ -1,0 +1,16 @@
+              UBUNTU O - - - - - - - - - -
+               GUEST X - - - - - - - - - -
+                  VM X - - - - - - - - - -
+              ACCESS O - - - - - - - - - -
+                HOST X - - - - - - - S - -
+                 USE - X - - - - - - - - -
+             OPENSSH - X - - - - - - - - -
+               HTTPS - - - - O - - - - - -
+              CLIENT - - - - - X - O - - -
+              SERVER - - - - - X - - - - -
+             MACHINE - - - - - - X - - - -
+      OPENSSH-SERVER - - - - - - O - - - -
+               VISTA - - - - - - - - O - -
+                PLAN - - - - - - - - X - -
+               PUTTY - - - - - - - - O - -
+             PROBLEM - - - - - - - - - - X

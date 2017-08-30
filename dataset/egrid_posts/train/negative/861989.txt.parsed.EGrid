@@ -1,0 +1,14 @@
+                GRUB S X - - - - -
+                  HD X - - - - - -
+               FLASH X - - - - - -
+               DRIVE X - - - - - -
+         APPLICATION - O - - - - -
+             DEFAULT - X - - - - -
+                BOOT - X - - - - -
+                  OS - X - - - - -
+          WIDESCREEN - - - O - - -
+            1280X768 - - - - S - -
+          RESOLUTION - - - - O - -
+               CHECK - - - - - X -
+           XORG.CONF - - - - - - O
+                 ONE - - - - - - O

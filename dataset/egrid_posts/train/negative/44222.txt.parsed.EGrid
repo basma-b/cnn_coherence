@@ -1,0 +1,12 @@
+              UBUNTU X - -
+           DOWNGRADE - - O
+                 LTS - - X
+                THIS - - O
+               INPUT - - X
+                  -J - - O
+                DROP - - O
+              OUTPUT - - X
+                  -P - - X
+                 TCP - - O
+                   > - - X
+       /ETC/RC.LOCAL - - S

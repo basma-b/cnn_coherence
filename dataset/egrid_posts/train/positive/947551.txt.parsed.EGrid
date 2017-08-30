@@ -1,0 +1,12 @@
+             ANYBODY S - - - - - - -
+             COMMAND O - - - - - - -
+         FILESYSTEMS O - - - - - - -
+           PARTITION X - - - - - - -
+           /DEV/HDB1 X - - - - - - -
+               FSTAB - X - - - - - -
+                   | - X - - - - - -
+                GREP - X - - - - - -
+                HDB1 - X - - - - - -
+               AH-HA - - - X - - - -
+          /ETC/FSTAB - - - - O - - -
+              GENIUS - - - - - - O -

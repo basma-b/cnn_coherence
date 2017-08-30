@@ -1,0 +1,8 @@
+             COMMAND X O -
+             DEFAULT X O -
+             DESKTOP X - -
+             MANAGER O - -
+               GNOME - S -
+                 XDM - O -
+                LAMP - - X
+               DRIVE - - X

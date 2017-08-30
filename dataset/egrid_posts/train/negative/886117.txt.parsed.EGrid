@@ -1,0 +1,15 @@
+             COMMAND O - -
+              UDISKS S - -
+            /DEV/XXX O - -
+                ROOT X - -
+               BATCH X - -
+                FILE X - -
+               CLICK X - -
+                 GUI X - -
+             APT-GET - S -
+      OPENSSH-SERVER - O -
+              SERVER - S O
+               THING - O -
+              ACCESS - - X
+            PROTOCOL - - S
+                 SSH - - X

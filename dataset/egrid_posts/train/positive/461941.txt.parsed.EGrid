@@ -1,0 +1,13 @@
+                TIME S -
+             APT-GET O -
+                 USE S -
+               VALUE X -
+        SUBSTITUTION X -
+                S/// X -
+/USR/SHARE/PERL5/DEBCONF/FORMAT/822.PM X -
+                LINE O -
+              OTHERS S -
+              GOOGLE X -
+              ERRORS O -
+                 ONE S -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/DEBCONF/+BUG/13130 X -

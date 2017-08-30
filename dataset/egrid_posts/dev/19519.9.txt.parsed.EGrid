@@ -1,0 +1,23 @@
+                SWAP O - -
+               FSTAB X S -
+                 TRY X - -
+          /DEV/SDXXX O - -
+               UUID= O - -
+                DISK X X -
+                NAME S X -
+                LINE O - -
+                HTTP - S -
+               UUIDS - O -
+           REFERENCE - S -
+              RESUME - X -
+              DEVICE - X -
+                  .. - O X
+/ETC/INITRAMFS-TOOLS/CONF.D/RESUME - X -
+               WHATS - O -
+                AHEM - - X
+          PUBKEYAUTH - - X
+                  NO - - O
+             DEFAULT - - X
+               GROUP - - X
+                 USE - - X
+               MATCH - - X

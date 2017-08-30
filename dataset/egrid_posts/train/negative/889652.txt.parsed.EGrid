@@ -1,0 +1,16 @@
+              SERVER O - -
+                ROOT X O -
+              ACCESS O O -
+                USER X S -
+                 FTP - X -
+                   U - X -
+                 DON - S -
+                SUDO - X -
+               CHMOD - X -
+                  -R - X -
+            /VAR/WWW - X -
+               WORLD - - X
+             PACKAGE - - S
+             PROGRAM - - X
+               FILES - - X
+             WINDOWS - - X

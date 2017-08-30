@@ -1,0 +1,12 @@
+               DRIVE S - - -
+              DEVICE X X - -
+                 SDA O - - -
+           PARTITION O - - -
+                SUDO X - - -
+ /MNT/USBDRIVEFOLDER O - - -
+             PROBLEM O - - -
+           DIRECTORY X - - -
+                 HUH - S - -
+/PROC/BUS/USB/DEVICES - X - -
+             DEVICES - - - O
+       /PROC/BUS/USB - - - X

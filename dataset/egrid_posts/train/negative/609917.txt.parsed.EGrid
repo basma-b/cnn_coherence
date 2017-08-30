@@ -1,0 +1,14 @@
+                BOOT X X - - - -
+              LOADER X O - - - -
+              PARAMS S - - - - -
+                SUDO O - - - - -
+               FAULT - X - - - -
+                LIKE - S - - - -
+             COULDNT - O - - - -
+         UPDATE-GRUB - O - - - -
+               ERROR - - X - - -
+                MORE - - - - O -
+              INITRD - - - - O -
+                UUID - - - - X -
+            RUNLEVEL - - - - - O
+               START - - - - - X

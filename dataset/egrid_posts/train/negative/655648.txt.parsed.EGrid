@@ -1,0 +1,14 @@
+                BOOT X X X X - - -
+            GRAPHICS X X X - - - -
+                MODE X X X - - - -
+            RECOVERY - - - X - - -
+             OPTIONS - - - S - - -
+                XORG - - - X - - -
+                FILE - - - O - - -
+              DRIVER - - - X - - -
+                  CD - - - X - - -
+                ROOT - - - - - X -
+            PASSWORD - - - - - X -
+              CLIENT - - - - - - O
+            SETTINGS - - - - - - O
+              SERVER - - - - - - X

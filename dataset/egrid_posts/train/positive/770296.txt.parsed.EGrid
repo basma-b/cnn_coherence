@@ -1,0 +1,23 @@
+            WIRELESS O - - - - - - -
+/ETC/NETWORK/INTERFACES X - - - - - - -
+             NETWORK X - - - - - - -
+             MANAGER X - - - - - - -
+                DONT - X - - - - - -
+                 RUN - O - - - - - -
+            ANYTHING - X - - - - - -
+                FILE - X - - - - - -
+             IWILIST - - X - - - - -
+                WLAN - - S - - - - -
+/ETC/NETWORKING/INTERFACES - - S - - - - -
+                HTTP - - X - - - - -
+             COMMENT - - O - - - - -
+              CHANGE - - - - X - - -
+                SSID - - - - X - - -
+          DIFFERENCE - - - - - O - -
+               SPACE - - - - - O - -
+              ESCAPE - - - - - O - -
+              OUTPUT - - - - - - X -
+                SUDO - - - - - - X X
+                IFUP - - - - - - X X
+                ETH1 - - - - - - X -
+               WLAN0 - - - - - - - X

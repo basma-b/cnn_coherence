@@ -1,0 +1,35 @@
+             PROCESS X - - - - - - -
+                  ES X - - - - - - -
+                 RAM X X X X - - - -
+                  OK O - - - - - - -
+GNOME-SYSTEM-MONITOR - S - - - - - -
+         COMMANDLINE - X - - - - - -
+                TOOL - X - - - - - -
+                  PS - X - - - - - -
+              MEMORY - X - X - - - -
+                 RSS - X - X O - S -
+               FIELD - X - - - - - -
+               USAGE - X - X - - - -
+                SIZE - X - - - - O -
+                   * - S - - - - - -
+               MEMOY - X - - - - - -
+         CONSUMPTION - O - - - - - -
+                 TOP - - S S S - S -
+                SWAP - - - X - - - -
+              OTHERS - - - X - - - -
+          EVERYTHING - - - X - - - -
+              SHARED - - - X - - - -
+                 RES - - - X - - - -
+                 SHR - - - X - - - -
+              AMOUNT - - - X - - - -
+               SHARE - - - X - - - -
+             DISPLAY - - - - X - - -
+              CONFIG - - - - O - - -
+                THAT - - - - - S - -
+               N2DIY - - - - - - X -
+                 SET - - - - - - X -
+                 SSH - - - - - - - X
+               HTTPS - - - - - - - X
+                  .. - - - - - - - X
+                 NFS - - - - - - - X
+//HELP.UBUNTU.COM/COMMUNITY/SETTINGUPNFSHOWTO - - - - - - - X

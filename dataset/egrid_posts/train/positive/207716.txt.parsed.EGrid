@@ -1,0 +1,23 @@
+              LAPTOP - O X - X - - - - - - - - - -
+            COMPUTER - O - - - - - - - - - - - - -
+              DEBIAN - X - - - - - - - - - - - - -
+             DESKTOP - - S - - - X - - - - - X - -
+          CONNECTION - - O - - - - - X - - - - - -
+                WORK - - - O - - - - - - - - - - -
+           COMPUTERS - - - - S S - - - - - - - - -
+               OTHER - - - - O - - - - - - - - - -
+                 DNS - - - - S - - - - - - - - - -
+                 IPS - - - - - O - - - - - - - - -
+                ROUT - - - - - - X - - - - - - - -
+          MASQUERADE - - - - - - X - - - - - - - -
+         FIRESTARTER - - - - - - - - O - - - - - -
+             PROGRAM - - - - - - - - X - - - - - -
+                 GUI - - - - - - - - X - - - - - -
+            INTERNET - - - - - - - - X - - - - - -
+               SHARE - - - - - - - - O - - - - - -
+                RULE - - - - - - - - - O - X - - -
+                HAND - - - - - - - - - X - - - - -
+                MUCH - - - - - - - - - - - O - - -
+              OUTPUT - - - - - - - - - - - - X - -
+                 CAT - - - - - - - - - - - - X - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - - - - - - - - - - - X - -

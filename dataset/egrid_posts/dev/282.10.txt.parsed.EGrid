@@ -1,0 +1,17 @@
+             SUPPORT X - - -
+                ISOS X - - -
+            HARDWARE - - S -
+              SCRIPT - - - S
+               START - - - S
+               RSYNC - - - O
+              SCREEN - - - X
+                -DMS - - - X
+          RSYNC-CRON - - - O
+                  .. - - - X
+              EXPORT - - - X
+          DISPLAY=:0 - - - X
+             SESSION - - - X
+                CRON - - - X
+                 JOB - - - O
+              CTRL-A - - - X
+                   D - - - X

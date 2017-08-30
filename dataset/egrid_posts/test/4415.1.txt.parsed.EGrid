@@ -1,0 +1,13 @@
+             MAILMAN - X - - - -
+                 USE - O - - - -
+                HTTP - X - - - O
+//MYHOST.COM/CGI-BIN - S - - - -
+               ERROR - X - - - -
+                PAGE - - X - - -
+               HTTPS - - X - - -
+//HELP.UBUNTU.COM/COMMUNITY/MAILMAN - - X - - -
+             POSTFIX - - X - - -
+                PORT - - O - - X
+             MACHINE - - X - - -
+        //MYHOST.COM - - - - - O
+             SERVICE - - - - - O

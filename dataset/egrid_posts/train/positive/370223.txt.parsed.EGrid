@@ -1,0 +1,14 @@
+              FORMAT X - -
+               FLASH X - -
+               DRIVE O - -
+                THIS X - -
+             GPARTED - X -
+              DEVICE - S -
+                LOCK - X -
+                  .. - O -
+           PARTITION - O -
+                 CLI - X -
+                MKFS - O -
+                VFAT - - X
+                SAME - - X
+               FAT16 - - X

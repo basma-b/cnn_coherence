@@ -1,0 +1,16 @@
+             ANYBODY S - -
+             PROBLEM O X -
+             NETWORK X X -
+             DISABLE - X -
+                SHOW - X -
+          NETWORKING - X -
+             MESSAGE - X -
+                SUDO - X -
+/ETC/INIT.D/NETWORKING - S -
+              RESUME - S -
+               START - S -
+                  .. - O -
+             SERVICE - X -
+               ERROR - X -
+               STUMP - O -
+                  TY - - X

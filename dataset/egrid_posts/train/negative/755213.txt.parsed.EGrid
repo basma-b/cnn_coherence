@@ -1,0 +1,23 @@
+          EXECUTABLE O - - - - - - - - - - - -
+             COMMAND - O - - - - - - - - - - -
+               NOGUI - X - - - X - - - - - - -
+             STARTUP - - X - - - - - - - - - -
+              SERVER - - - X - - - - - - O - -
+              FOLDER - - - X - - - - - - - - -
+/HOME/MYUSER/MINECRAFT - - - X - - - - - - - - -
+                LINE - - - - O - - - - - - - -
+            RC.LOCAL - - - - X - - - - - - - -
+                 USE - - - - - X - - - - - - -
+       /ETC/RC.LOCAL - - - - - X - - - - - - -
+/HOME/MYUSER/MINECRAFT.JAR - - - - - X - - - - - - -
+              OUTPUT - - - - - S - - - - - - -
+                FILE - - - - - X S - - - - - -
+        /HOME/MYUSER - - - - - X - - - - - - -
+                  .. - - - - - X - - - - - - -
+                BOOT - - - - - X - - - - - - -
+                POST - - - - - - O - - - - - -
+            ANYTHING - - - - - - - - - O - - -
+              CLIENT - - - - - - - - - - O - -
+              EASIER - - - - - - - - - - - - X
+                   U - - - - - - - - - - - - S
+            OFCOURSE - - - - - - - - - - - - X

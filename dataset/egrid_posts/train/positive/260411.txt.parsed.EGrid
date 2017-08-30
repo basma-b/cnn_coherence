@@ -1,0 +1,10 @@
+             COMMAND X - - -
+                KIND X - - -
+                CARD X - - -
+               LSPCI - X - -
+                   | - X - -
+                GREP - X - -
+                 VGA - S - -
+                 MP3 - - - S
+                 VII - - - S
+             PROBLEM - - - X

@@ -1,0 +1,10 @@
+                 GCC O O O - - -
+                   C X X X - - -
+                FILE O O O - - -
+              FOLDER X X X - - -
+           SOMETHING O O O - - -
+                THAT - - - O S -
+             PACKAGE - - - O - -
+          /ETC/ISSUE - - - - O -
+                WORK - - - - X -
+  ./DEBIAN/CHANGELOG - - - - - X

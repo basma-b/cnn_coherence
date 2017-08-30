@@ -1,0 +1,8 @@
+          FILESYSTEM O - - - -
+           PARTITION X - - - -
+          /DEV/DRBD0 - S - S -
+               ERROR - O - - -
+                 USE - X - - -
+              SYSTEM - X - - -
+              ANYONE - - S - -
+                TYPE - - - S -

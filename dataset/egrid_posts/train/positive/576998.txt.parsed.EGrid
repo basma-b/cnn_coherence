@@ -1,0 +1,28 @@
+~/DESKTOP/ALSA-INFO.SH X - - - - - - - - - -
+                HTTP X O - X - - - - - - -
+//WWW.ALSA-PROJECT.ORG/ALSA-INFO.SH X - - - - - - - - - -
+                BASH X - - - - - - - - - -
+//WWW.ALSA-PROJECT.ORG/DB/ X X - X - - - - - - -
+F=0BEC99E8D58CE4410FE11E831E9F0108A8B44BA4 - X - - - - - - - - -
+                 SEC - X - - - - - - - - -
+                  OK - S - - - - S - - - -
+            MODPROBE - O - - - - - - - - -
+              SCRIPT - O - - - - - - - O -
+F=42D5D993F1CCC1F42B81FFE35667AF34CF90CB00 - - S - - - - - - - -
+                SUDO - - - X - - - - - - -
+             APT-GET - - - S - - - - - - -
+           REINSTALL - - - S - - - - - - -
+          ALSA-UTILS - - - O - - - - - - -
+               THATS - - - X - - - - - - -
+              CONFIG - - - X - - - - - X -
+        /ETC/MODULES - - - - O - - - - - -
+                LINE - - - - - O - - - - -
+          SND_CA0106 - - - - - X - - - - -
+          POWER-DOWN - - - - - X - - - - -
+                BOOT - - - - - X - - - - -
+             MINUTES - - - - - X - - - - -
+                MINS - - - - - - - - X - -
+                  .. - - - - - - - - - - X
+        SND_CTL_OPEN - - - - - - - - - - S
+             DEFAULT - - - - - - - - - - X
+              FILE/D - - - - - - - - - - X

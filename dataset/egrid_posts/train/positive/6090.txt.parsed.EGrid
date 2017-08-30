@@ -1,0 +1,10 @@
+         INITDEFAULT X - -
+             INITTAB X - -
+                THAT - S -
+                  .. - S -
+             SYSTEMS - O -
+                 ALL - O -
+              CUSTOM - - X
+            RUNLEVEL - - X
+      CONFIGURATIONS - - O
+              COURSE - - X

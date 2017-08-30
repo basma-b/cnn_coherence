@@ -1,0 +1,17 @@
+             COMMAND X S - - -
+                 RUN X - - - -
+         APPLICATION X - - - -
+              DIALOG X - - - -
+              ALT+F2 - O - - -
+                MENU - X - - -
+            ALACARTE - X - - -
+             PROCESS - X - - -
+                LIST - X - - -
+               PLIST - - X - -
+            TERMINAL - - - X -
+                  PS - - - S -
+               OWNER - - - - X
+               CHMOD - - - - O
+                FLAG - - - - O
+                SUDO - - - - O
+                ROOT - - - - X

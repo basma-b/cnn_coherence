@@ -1,0 +1,10 @@
+  /ETC/MODPROBE.CONF O - - -
+             STARTUP X - - -
+                FILE - X - -
+             OPTIONS - X - -
+                LOOP - X - -
+         MAX_LOOP=64 - X - -
+       LESLIEVILJOEN - O - -
+                 MAN - - X -
+       MODPROBE.CONF - - X -
+                 TKS - - S -

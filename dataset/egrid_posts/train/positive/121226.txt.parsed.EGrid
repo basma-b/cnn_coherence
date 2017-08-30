@@ -1,0 +1,19 @@
+             COMMAND S - - - - - - - - S - - -
+                ROOT X - - - - O - X X - - - X
+             CRONTAB X - - - - - X - - - - - X
+                CRON - X - - - - - - - - - - -
+                 JOB - S - - - - - - - - - - -
+              EDITOR - S - - - - - - - - - - -
+                BASH - - - X - - - - - - - - -
+              SCRIPT - - - O - - S - - - - - -
+           SCRIPT.SH - - - - X - - - - - - - -
+        /ETC/CRONTAB - - - - - X - - - - - - -
+                 ONE - - - - - S - - - - - - -
+                LINE - - - - - - S - - - - - -
+          ROOTSCRIPT - - - - - - - O - - - - -
+                THIS - - - - - - - - S - - - -
+                   * - - - - - - - - S - - - -
+                  -E - - - - - - - - O - - - S
+/VAR/SPOOL/CRON/CRONTABS/ROOT - - - - - - - - - X - - -
+                 TMP - - - - - - - - - - - - S
+             CONTENT - - - - - - - - - - - - O

@@ -1,0 +1,15 @@
+                XORG X - - S - - - - -
+               START X - - - - - - - -
+                BOOT X X - O - - - - -
+             COMMAND - X - - - - - - -
+                LINE - X - - - - - - -
+             STARTUP - - - X - - - - -
+               LOGIN - - - X - - - - -
+            RUNLEVEL - - - - X - - - -
+        /ETC/INITTAB - - - - - O - - -
+                FILE - - - - - O - - X
+                 ALL - - - - - X - - -
+           RUNLEVELS - - - - - - - S -
+                MISS - - - - - - - - X
+                HTTP - - - - - - - - X
+//WWW.HANDHELDS.ORG/HYPERMAIL/FAMILIAR/256/25689.HTML - - - - - - - - X

@@ -1,0 +1,10 @@
+             INITTAB O - - O - - - S - -
+              SYSTEM X - - X - - - X - -
+               GETTY X - - X - - O - - -
+                LINE X - - - - - X S - -
+                SYSV - - - X - - - - - -
+             UPSTART - - - X - - - - - -
+             GETTIES - - - - X - - - - -
+           CHALLENGE - - - - - - X - - -
+                THAT - - - - - - - - S -
+                 ONE - - - - - - - - O -

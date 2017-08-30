@@ -1,0 +1,15 @@
+         PERMISSIONS X - - -
+           DIRECTORY X X - -
+      SUBDIRECTORIES O - - -
+              ALWAYS X - - -
+                  -R - X - -
+           RECURSIVE - X - -
+                THIS - X - -
+                 ONE - X - -
+              PARENT - X - -
+                   < - - X -
+                 DIR - - X -
+                   > - - X -
+            SUB-DIRS - - O -
+                A+RW - - - X
+                  .. - - - X

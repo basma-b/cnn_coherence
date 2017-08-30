@@ -1,0 +1,9 @@
+               ENTRY O - - -
+          /ETC/FSTAB X - - -
+           PARTITION S - - -
+                BOOT X - - -
+                UUID - X - -
+             COMMAND - - S -
+            PARTIONS - - O -
+               UUIDS - - X -
+                 TKS - - - X

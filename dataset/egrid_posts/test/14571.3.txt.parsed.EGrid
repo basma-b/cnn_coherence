@@ -1,0 +1,21 @@
+             NETWORK X S -
+                  TI X - -
+              RELOAD X - -
+           INTERFACE X X -
+              CONFIG X - -
+                SUDO - O -
+             SERVICE - X -
+                ROOT - X -
+                NEED - X -
+                HURT - O -
+                STOP - X -
+             COMMAND - O -
+                 JOB - S -
+               START - S -
+                ONES - O -
+                   D - X -
+/ETC/INIT.D/NETWORKING - O -
+/ETC/INIT.D/NETWORK-INTERFACES - S -
+               STEAD - - X
+               GNOME - - O
+            HARDWARE - - X

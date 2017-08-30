@@ -1,0 +1,10 @@
+                SWAP X - - -
+              SWAPON - S - -
+           OPERATION - S - -
+                SUDO - X - -
+          /SWAPFILE1 - X - -
+                HOLE - O - -
+               ERROR - - - X
+                APPS - - - S
+         ENVIRONMENT - - - X
+                   X - - - X

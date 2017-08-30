@@ -1,0 +1,27 @@
+          CONNECTION O - - - -
+         CREDENTIALS O - - - -
+                 USE X - - - -
+            USERNAME O - - - -
+               DEBUG - X - - -
+                 LOG - S - X -
+                CANT - - S - -
+                  .. - - X - -
+                USER - - O O -
+                 CAN - - - S -
+                 TLS - - - X -
+            DOWNLOAD - - - X -
+                FILE - - - X -
+                 HMM - - - S -
+         RESTRICTION - - - X -
+              SERVER - - - X -
+               USERS - - - O -
+                 LAN - - - X -
+            PASTEBIN - - - O -
+                 CAT - - - X -
+/ETC/NETWORK/INTERFACES - - - S -
+                HTTP - - - X -
+//LINUX.DERKEILER.COM/MAILING-LISTS/UBUNTU/2009-12/MSG00328.HTML - - - X -
+ //OLD.NABBLE.COM/LO - - - X -
+/PROC/SYS/NET/IPV6/CONF/LO/USE_TEMPADDR - - - X -
+                 HUB - - - - X
+           COMPUTERS - - - - O

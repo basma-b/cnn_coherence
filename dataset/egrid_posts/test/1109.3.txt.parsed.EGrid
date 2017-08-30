@@ -1,0 +1,12 @@
+/ETC/SSH/SSHD_CONFIG O - -
+           PRINTMOTD O S -
+        PRINTLASTLOG X - -
+              SYSTEM - O -
+                MOTD - S -
+                  NO - X -
+               SORRY - S -
+               THERE - S -
+             DEFAULT - X -
+                 SET - X -
+                  -M - - S
+              X86_64 - - X

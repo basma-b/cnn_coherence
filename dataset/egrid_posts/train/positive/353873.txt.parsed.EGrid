@@ -1,0 +1,17 @@
+             DEFAULT S - - -
+             OPTIONS O - O -
+                  HI - S - -
+              UBUNTU - X - -
+              VOLUME - O - -
+               FSTAB - X X -
+              OPTION - - S -
+              NOAUTO - - O -
+                 MAN - - X -
+                FILE - - S -
+                WGET - - X -
+              OUTPUT - - X -
+              STDOUT - - X -
+             APT-KEY - - X -
+             APT-GET - - S -
+              UPDATE - - O -
+               THANK - - - X

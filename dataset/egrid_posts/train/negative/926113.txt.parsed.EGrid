@@ -1,0 +1,16 @@
+                 GDM S - - - - -
+                 BOX X - - - - -
+                TYPE X - - - - -
+             USENAME X - - - - -
+               LOGIN O - - - - -
+                BOOT - X X X - -
+            RECOVERY - X X - - -
+                MODE - X X - - -
+              UPDATE - O - - - -
+              OPTION - - - O - -
+           DIRECTORY - - - - X O
+                 RUN - - - - X -
+             APT-GET - - - - S -
+                  -R - - - - O -
+/LIB/MODULES/2.6.15-26-386/KERNEL/NET/IEEE80211_1_1_13/IEEE80211_1_1_13.KO - - - - - S
+LINUX-IMAGE-2.6.15-26-386 - - - - - X

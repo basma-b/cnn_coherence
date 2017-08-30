@@ -1,0 +1,13 @@
+AUTOMAKE=AUTOMAKE-1.8 O - - - - -
+ ACLOCAL=ACLOCAL-1.8 S - - - - -
+                THIS S - - - - -
+AUTOMAKE=AUTOMAKE-1.7 X - - - - -
+ ACLOCAL=ACLOCAL-1.7 X - - - - -
+            AUTOMAKE X - X - - -
+             VERSION S - - - - -
+           VARIABLES - S - - - -
+           BEHAVIOUR - O O - - -
+          AUTORECONF - X - - - -
+                 USE - - S - - -
+        DEPENDENCIES - - - - X -
+                  .. - - - - - O

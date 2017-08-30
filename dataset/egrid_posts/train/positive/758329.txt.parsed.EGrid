@@ -1,0 +1,15 @@
+                USER O S - - - X - - - - -
+             ADDUSER X - - - - - - - - - -
+             COMMAND - X - - - - - - - - -
+             STARTUP - X - - - - - - - - -
+               LOGIN - - - - - X - - - - -
+           AUTOLOGIN - - - - - X - - - - -
+                 GDM - - - - - S - - - - -
+             FEATURE - - - - - O - - - - -
+                AUTO - - - - - X - - - - -
+            TERMINAL - - - - - X - - - - -
+                IDEA - - - - - - X - - - -
+                MENU - - - - - - - X - - -
+             MANAGER - - - - - - - X - - -
+                NAME - - - - - - - X - - -
+             NOTHING - - - - - - - - - - S

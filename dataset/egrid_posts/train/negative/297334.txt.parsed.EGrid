@@ -1,0 +1,14 @@
+               FORCE X - - - -
+              ATTACK O - - - -
+              VSFTPD X - - - -
+                 ALL X - - - -
+                  IP O - - - -
+                 WAY O - - - -
+                 SSH - X - - -
+         HOSTS.ALLOW - - X - -
+            IPTABLES - - S - -
+                THAT - - - S -
+                THIS - - - X -
+            QUESTION - - - S -
+                HTTP - - - - X
+                TOOL - - - - X

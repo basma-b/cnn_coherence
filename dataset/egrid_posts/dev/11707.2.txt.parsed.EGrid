@@ -1,0 +1,11 @@
+                SWAP X S - - -
+           PARTITION O - - - -
+                TIME - S - - -
+                BOOT - X - - -
+                 USE - X - - -
+                 CAT - X - - -
+         /PROC/SWAPS - S - - -
+             COMMAND - - O - -
+                FILE - - O - -
+ /BOOT/GRUB/MENU.LST - - - X -
+                 Y/N - - - - X

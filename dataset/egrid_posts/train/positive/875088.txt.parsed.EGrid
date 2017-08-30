@@ -1,0 +1,14 @@
+               SHARE X - - - - - -
+                HOST X - - - - - -
+              SERVER X - - - - - -
+                 RUN X - - - - - -
+                FILE O - X - - - -
+             ACCOUNT X - - - - - -
+/HOME/DOMAIN1/FILE.EXT - X - - - - -
+/HOME/DOMAIN2/SOME_SCRIPT.SH - X - - - - -
+                HELP - - X - - - -
+              DEBIAN - - - O - - -
+                SAME - - - O - - -
+              UBUNTU - - - X - - -
+             SYMLINK - - - X - - -
+            NICKNAME - - - - X - -

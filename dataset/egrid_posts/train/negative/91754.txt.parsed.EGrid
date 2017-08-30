@@ -1,0 +1,10 @@
+               ENTRY X - - - -
+           /DEV/LIRC - O - - -
+                SUDO - X - - -
+               TOUCH - X - - -
+               MKNOD - - X - -
+           SOMETHING - - O - -
+              DEVICE - - - X -
+                  .. - - - O -
+                FILE - - - X -
+                 THX - - - - X

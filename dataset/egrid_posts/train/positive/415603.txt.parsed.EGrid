@@ -1,0 +1,15 @@
+         HOSTS.ALLOW X - - -
+                 E.G O - - -
+     /ETC/HOSTS.DENY - X - -
+                SSHD - X - -
+                 ALL - S - -
+          HOSTS.DENY - X - -
+               ALLOW - O - -
+              APACHE - X X -
+               ORDER - S - -
+                  .. - O - -
+    /ETC/HOSTS.ALLOW - X - -
+            PRIORITY - O O -
+                DENY - - S -
+                JOKE - - X -
+                 LOL - - - X

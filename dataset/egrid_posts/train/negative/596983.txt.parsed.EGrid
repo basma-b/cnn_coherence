@@ -1,0 +1,15 @@
+           DIRECTORY O - - -
+             MISTAKE X - - -
+             APT-GET - S - -
+                 TRY - X - -
+                SUDO - X - -
+    DPKG-RECONFIGURE - X - -
+             DEBCONF - O - -
+              EBCONF - O - -
+            DBDRIVER - X - -
+              CONFIG - S - -
+/VAR/CACHE/DEBCONF/CONFIG.DAT - O - -
+                  .. - X - -
+                 ALL - - - S
+             PROGRAM - - - X
+             PACKAGE - - - X

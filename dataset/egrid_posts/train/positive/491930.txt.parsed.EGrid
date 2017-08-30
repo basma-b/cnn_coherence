@@ -1,0 +1,14 @@
+               CDROM O - - -
+               DRIVE O - - O
+            ANYTHING O - - -
+                BOOT X - - X
+                BIOS X - - -
+              KERNEL - - - S
+             MESSAGE - - - O
+                  SR - - - X
+               SG0/1 - - - O
+                FILE - - - X
+           DIRECTORY - - - S
+              STREAM - - - S
+              ERRORS - - - X
+              DEVICE - - - O

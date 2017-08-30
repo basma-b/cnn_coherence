@@ -1,0 +1,10 @@
+                 ALL O - - - -
+             PACKAGE O - O - -
+               BREAK O - - - -
+                  .. - - X - -
+                DPKG - - O O -
+               PURGE - - X - S
+           REINSTALL - - - X -
+               SHOOT - - - X -
+      SET-SELECTIONS - - - S -
+                  IN - - - O -

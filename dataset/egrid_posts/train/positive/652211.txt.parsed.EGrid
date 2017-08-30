@@ -1,0 +1,16 @@
+              KERNEL X - - - - - -
+              SYSTEM X - - - O - -
+                DATA S - - - - - -
+             KERNELS - - S - - - -
+                 LVM - - - S - - -
+                BOOT - - - X - X -
+               CRASH - - - X - - -
+             BUSYBOX - - - X - - -
+                  CD - - - X - - -
+             MODULES - - - O - - -
+         /DEV/MAPPER - - - - X - -
+               BASIS - - - - X - -
+       LINUX-HEADERS - - - - - O -
+               ERROR - - - - - X -
+           PARTITION - - - - - X -
+          EXPERIENCE - - - - - - X

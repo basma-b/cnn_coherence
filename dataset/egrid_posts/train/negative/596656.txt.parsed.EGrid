@@ -1,0 +1,8 @@
+           PARTITION S - - - -
+                BOOT X - - - -
+          /ETC/FSTAB X - - - -
+           /DEV/SDAX - X - - -
+         /MEDIA/DISK - - X - -
+          ATTACHMENT - - - - X
+            SHOULDNT - - - - S
+             WINDOWS - - - - X

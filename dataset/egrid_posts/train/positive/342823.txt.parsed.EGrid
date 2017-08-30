@@ -1,0 +1,24 @@
+                 ISP S - -
+                CHAP S - S
+/ETC/PPP/CHAP-SECRETS O - S
+/ETC/PPP/PEERS/DSL-PROVIDER S - -
+                LINE O - -
+                USER X - -
+            YOURUSER X - -
+                BLAH X - -
+  PEERS/DSL-PROVIDER X - -
+              DIALUP X - -
+                THAT - X -
+            LINUXANT - X -
+             DRIVERS - O -
+            CONEXANT - X -
+                 HSF - X -
+                  .. - X -
+             SUPPORT - - X
+                   > - - S
+            UBUNTU+1 - - X
+        DSL-PROVIDER - - S
+             DEFAULT - - X
+                 PPP - - X
+              CONFIG - - O
+              DETAIL - - O

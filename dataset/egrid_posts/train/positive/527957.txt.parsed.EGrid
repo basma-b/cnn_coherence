@@ -1,0 +1,8 @@
+                SWAP X - -
+              MEMORY X - -
+               LINUX X - -
+              MKSWAP - X -
+             COMMAND - X -
+                  DD - - X
+        IF=/DEV/ZERO - - S
+        COUNT=100000 - - O

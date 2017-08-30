@@ -1,0 +1,11 @@
+                TYPE X - - -
+                  CD X - - -
+                /DEV X - - -
+               MKNOD X - - -
+                MODE O - - -
+                ROOT X - - -
+                WORK X - - -
+              ANYONE O - - -
+               BLUEZ - X - -
+         BLUESNARFER - O - -
+           SOMETHING - - - O

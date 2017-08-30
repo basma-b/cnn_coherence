@@ -1,0 +1,13 @@
+            QUESTION X - - -
+             ADDRESS O - - -
+               OUTGO X - - -
+         CONNECTIONS S - - -
+                 2ND O - - -
+                 USE - X - X
+            IPTABLES - O - -
+              OUTPUT - X - -
+               CHAIN - O - -
+                IPV6 - - X -
+           MECHANISM - - S -
+                IPV4 - - X -
+           SHOREWALL - - - O

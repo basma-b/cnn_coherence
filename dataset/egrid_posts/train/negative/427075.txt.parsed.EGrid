@@ -1,0 +1,11 @@
+              KERNEL O X - - -
+           PARAMETER S X - - -
+           SOMETHING - X - - -
+                 USE - X - - -
+              INITRD - - O - -
+               PUTTY - - - X S
+              CLIENT - - - - O
+                PORT - - - - X
+              SERVER - - - - X
+              NETCAT - - - - O
+            MYSERVER - - - - X

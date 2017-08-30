@@ -1,0 +1,14 @@
+               SHARE X - - -
+           LIBRARIES S - - -
+                LIBS O - - -
+                   X - X - -
+                WONT - S - -
+       LIBXDCMP.SO.6 - O - -
+                  IM - S - -
+              INSTAL - O - -
+                SUDO - - X -
+             APT-GET - - X -
+        DIST-UPGRADE - - S S
+             VERSION - - O -
+                FILE - - - S
+/USR/LIB/LIBXDMCP.SO.6 - - - S

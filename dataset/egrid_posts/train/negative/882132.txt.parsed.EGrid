@@ -1,0 +1,22 @@
+                HTTP O - - - - - - - - - -
+//LOCALHOST/CGI/SMOKEPING.CGI X - - - - - - - - - -
+       SMOKEPING.CGI - - S - - - - - - - -
+                 DIR - - X - - - - - - - -
+/ETC/APACHE2/SITES-AVAILABLE/DEFAULT - - X - - - - - - - -
+            +EXECCGI - - S - - - - - - - -
+              ANYONE - - - X - - - - - - -
+               THERE - - - - X - - - - - S
+              APACHE - - - - X - X - - - -
+                 IRC - - - - X - - - - - -
+             CHANNEL - - - - X - O - - - -
+               HTTPD - - - - - X - - - - -
+                THIS - - - - - - S - - - -
+             SUPPORT - - - - - - X - - - -
+               SPEED - - - - - - - - - X -
+                TEST - - - - - - - - - X -
+                IDEA - - - - - - - - - - O
+             PACKAGE - - - - - - - - - - X
+                 PPA - - - - - - - - - - O
+                DEVS - - - - - - - - - - X
+        INSTALLATION - - - - - - - - - - X
+        INSTRUCTIONS - - - - - - - - - - O

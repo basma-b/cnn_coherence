@@ -1,0 +1,14 @@
+         CREDENTIALS X - -
+                FILE O - X
+           SMBCLIENT O - -
+          MOUNT.CIFS X - -
+         MOUNT.SMBFS S - -
+               ERROR O - -
+          PERMISSION X - -
+                SDUO X - -
+                SUDO - X -
+               SPEED - - X
+           .HTACCESS - - X
+         PERMISSIONS - - O
+              APACHE - - X
+              CONFIG - - X

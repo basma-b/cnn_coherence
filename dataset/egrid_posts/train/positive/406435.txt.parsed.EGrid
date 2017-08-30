@@ -1,0 +1,10 @@
+         PERMISSIONS X - - - - - O
+                VFAT X - - - - - -
+          FILESYSTEM X - - - - - -
+           PARTITION - S - - - - -
+         DIRECTORIES - S - - - - -
+                USER - X - - - - X
+                ROOT - - X - - - -
+               CHMOD - - - X - - -
+               CHOWN - - - S - - -
+                FILE - - - - - - X

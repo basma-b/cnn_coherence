@@ -1,0 +1,24 @@
+             BACKEND X - -
+              SERVER X - -
+               SHARE X - -
+             SCANNER X X -
+               ERROR O - -
+              SYSLOG X - -
+               -LSB- X - -
+               -RSB- X - -
+       SANE-PORT/TCP X - -
+                USER X - -
+             SERVICE S - -
+              PASSWD S - -
+           X:119:125 X - -
+               GROUP S X -
+               SANED - S -
+                PART - O -
+                 CAT - - X
+/PROC/ASOUND/MODULES - - S
+              KERNEL - - X
+               SOUND - - X
+             MODULES - - S
+                LOAD - - O
+           SOMETHING - - O
+                CARD - - O

@@ -1,0 +1,18 @@
+             COMMAND X - - -
+                   < X - - -
+         FLAGS/FLAGS X - - -
+                   > - S - -
+            ANYTHING - O - -
+                PART - O - -
+                CORE - X - -
+              SYSTEM - X - -
+        DPKG-COMMAND - - X -
+                   | - - X -
+                GREP - - X -
+                 ^II - - S -
+        PACKAGENAMES - - O -
+         CORE-SYSTEM - - X -
+                DIFF - - X -
+              RESULT - - S -
+                LINK - - - S
+//HELP.UBUNTU.COM/COMMUNITY/WIFIDOCS/DRIVER/BCM43XX - - - S

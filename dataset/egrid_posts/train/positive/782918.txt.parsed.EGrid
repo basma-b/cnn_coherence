@@ -1,0 +1,36 @@
+             COMMAND X - - - - O -
+             SUDOERS X - - - - X O
+          HOST_ALIAS - X - X - - -
+              DELUGE - - O - - O -
+                SUDO - - O - - - -
+                THAT - - - O - S -
+           SOMETHING - - - S - - -
+          CMND_ALIAS - - - X - - -
+DELUGE=/USR/BIN/DELUGE - - - X - - -
+LOCAL=YOUR_HOST_NAME - - - X - - -
+          USER_ALIAS - - - X - X -
+                 YES - - - O - - -
+                BASH - - - - X - -
+              SCRIPT - - - - O - -
+                THIS - - - - - S -
+             FLEXGET - - - - - S -
+      FEED=MYTRACKER - - - - - X -
+          CLI-CONFIG - - - - - X -
+           DIRECTORY - - - - - X -
+           YOUR_HOST - - - - - X -
+             NOPASSD - - - - - X -
+              OPTION - - - - - O -
+              COURSE - - - - - X -
+               KINDA - - - - - O -
+                   * - - - - - S -
+                WORK - - - - - O -
+                 MAN - - - - - O -
+               THERE - - - - - S -
+                 LOT - - - - - O -
+            EXAMPLES - - - - - X -
+                USER - - - - - O -
+          FULLTIMERS - - - - - S -
+                TIME - - - - - - X
+              REASON - - - - - - X
+                CANT - - - - - - X
+               TODAY - - - - - - O

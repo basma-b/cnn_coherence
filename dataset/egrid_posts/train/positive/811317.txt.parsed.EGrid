@@ -1,0 +1,27 @@
+             MESSAGE X - - - - - - - - X - -
+                 BOX X - - - - - - - - - - -
+          /ETC/ISSUE - S - - - - - - - - - -
+                WORK - X - - O - - - - - - -
+               CHECK - O - - - - - - - - - -
+              OPTION - X - - - - - - - - - -
+/ETC/SSH/SSHD_CONFIG - X - - X - - - - - - -
+                FILE - X X S X - X - - - - -
+                TIME - - S - - - - - - X - -
+           /ETC/MOTD - - O - - - - - - - - -
+          LRWXRWXRWX - - S - - - - - - - - -
+                ROOT - - X - - - - - - - - -
+               18:18 - - X - - - - - - - - -
+       /VAR/RUN/MOTD - - X - - - - - - - - -
+           DIRECTORY - - X - - - - - - - - -
+            RUNPARTS - - - X - - - - - - - -
+                 SET - - - - O - - - - - - -
+              DAEMON - - - - - O - - - - O -
+ /ETC/UPDATE-MOTD.D/ - - - - - - X - - - - -
+               DUNNO - - - - - - - X - - - -
+               PRINT - - - - - - - - - X - -
+                FLAG - - - - - - - - - - X -
+                 SSH - - - - - - - - - - - X
+                THIS - - - - - - - - - - - S
+                MOTD - - - - - - - - - - - O
+                 PAM - - - - - - - - - - - X
+       CONFIGURATION - - - - - - - - - - - X

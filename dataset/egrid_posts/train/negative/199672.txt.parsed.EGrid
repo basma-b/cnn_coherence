@@ -1,0 +1,19 @@
+            RESOURCE S - - - - -
+                 GET X - - - - -
+            IPTABLES X - X S - -
+              SCRIPT - X - X - -
+                DOCS - - S - - -
+               BLOCK - - X - - -
+                 NAT - - X - - -
+                RULE - - - O - -
+                 WAY - - - O - -
+               STYLE - - - X - -
+             NETWORK - - - X - -
+                 LOT - - - O - -
+          INTERFACES - - - X - -
+             UP/DOWN - - - O - -
+/ETC/NETWORK/INTERFACES - - - X - -
+             RELEASE - - - X - -
+                XMMS - - - - - O
+                ICON - - - - - O
+                MENU - - - - - O

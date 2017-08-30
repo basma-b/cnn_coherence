@@ -1,0 +1,16 @@
+             PROGRAM X X - - - - -
+              REPORT O O - - - - -
+             SUMMARY X X - - - - -
+              SYSTEM X X - - - - -
+            HARDWARE X X - - - - -
+               LSPCI - - X - - - -
+                MORE - - O - - - -
+               ORDER - - - - - X -
+                BABE - - - - - X -
+           YESTERDAY - - - - - O -
+                HTTP - - - - - O -
+//T-ONLINE-SHOP.DE/TONLINE/PRODUCT.DO - - - - - O -
+ACTION=GETPRODUCTDETAIL - - - - - - X
+        PRODUCT=9533 - - - - - - X
+                PKGS - - - - - - O
+                NECK - - - - - - X

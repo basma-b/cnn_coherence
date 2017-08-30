@@ -1,0 +1,10 @@
+         PERMISSIONS X - - - -
+           DIRECTORY X - S - -
+               CHMOD - S - - -
+                THAT - - S - -
+               OWNER - - X - -
+                  RW - - X - -
+               GROUP - - X - -
+            EVERYONE - - X - -
+                 ONE - - O - -
+                  OK - - - - X

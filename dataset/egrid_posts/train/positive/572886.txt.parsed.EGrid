@@ -1,0 +1,11 @@
+NETWORK-MANAGER-APPLET O - - - -
+             COMMAND X - - - -
+                LINE X - - - -
+                WICD - O S - -
+             NETWORK - - X X -
+             MANAGER - - O - -
+                 WAY - - X - -
+                SUDO - - - X -
+             APT-GET - - - X -
+NETWORK-MANAGER-GNOME - - - O -
+                 LOT - - - - O

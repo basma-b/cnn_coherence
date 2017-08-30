@@ -1,0 +1,16 @@
+            MODPROBE O O O - -
+              RALINK X - - - -
+              DRIVER X - - - -
+/LIB/MODULES/2.6.17-11-GENERIC/KERNEL/DRIVERS/NET/WIRELESS/RT61.KO - X - - -
+              MODULE - S - - -
+                PATH - - X - -
+                FILE - - X S -
+               ERROR - - X - -
+             MESSAGE - - X - -
+                  .. - - S - X
+             MONITOR - - - X -
+           EXTRAWIDE - - - X -
+            1280X800 - - - O -
+              ASPECT - - - X -
+               RATIO - - - O -
+            1024X768 - - - - O

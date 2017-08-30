@@ -1,0 +1,16 @@
+             COMMAND X - - - -
+               DRIVE X - - - -
+                SHOW - O - - -
+                  DF - X - - -
+                SWAP - S X - -
+                 TOP - - S - -
+               USAGE - - O - -
+           PARTITION - - O - -
+          /ETC/FSTAB - - - X -
+              OUTPUT - - - X -
+               FDISK - - - X -
+                  -L - - - X -
+                HTTP - - - X -
+//PASTEBIN.COM/845008 - - - X -
+                HOME - - - - X
+              REPORT - - - - X

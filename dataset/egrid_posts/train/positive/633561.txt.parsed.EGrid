@@ -1,0 +1,6 @@
+                USER S -
+              SCRIPT O -
+                 RUN X -
+                ROOT S -
+                FILE - O
+                  RM - X

@@ -1,0 +1,30 @@
+            SETTINGS X - - - - - - - - - - - -
+               LINUX X S - - - - - - - - - - -
+              KERNEL S - - - - - - - - - - - -
+                BIOS X - - X - O - - - - - - -
+            HARDWARE - X - - - - - - - - - - -
+            CONFLICT - O O - - - - - - - - - -
+                CARD - - X S S - - - - - - - -
+             CONTROL - - S - - - - - - - - - -
+             DEVICES - - X S - - - - - - - - -
+                ETH0 - - - - S - - - - - - - -
+                 USB - - - - X - - - - - - - -
+             STORAGE - - - - X - - - - - - - -
+              DEVICE - - - - S - - - - - - - -
+              INSERT - - - - O - - - - - - - -
+         BOOTOPTIONS - - - - - O - - - - - - -
+             VERSION - - - - - O - - - - - - -
+             IRQPOLL - - - - - - O - - - - - -
+              COUPLE - - - - - - O - - - - - -
+              OTHERS - - - - - - X - - - - - -
+                HTTP - - - - - - - X - - - - -
+//PACKAGES.UBUNTU.COM/SEARCH - - - - - - - X - - - - -
+   SEARCHON=CONTENTS - - - - - - - - X - - - -
+KEYWORDS=PYTHON-PSYCO - - - - - - - - X - - - -
+  MODE=EXACTFILENAME - - - - - - - - X - - - -
+         SUITE=LUCID - - - - - - - - X - - - -
+            ARCH=ANY - - - - - - - - X - - - -
+              THANKS - - - - - - - - X - X - -
+               AMD64 - - - - - - - - - O - - -
+        PYTHON-PSYCO - - - - - - - - - S - - -
+                 NON - - - - - - - - - X - - -

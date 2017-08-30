@@ -1,0 +1,15 @@
+             ANYBODY X - - - - -
+         CONNECTIONS X - - - - -
+      AUTHENTICATION X - - - - -
+                 IVE - S - - - -
+           REMOTEBOX - O - - - -
+           SOMETHING - O - X - -
+                 BOX - X - - - -
+   B43.BLACKLIST=YES - - - X - -
+         UPDATE-GRUB - - - X - -
+           BLACKLIST - - - S - -
+                GRUB - - - X - -
+              CONFIG - - - X - -
+                FILE - - - O - -
+                  .. - - - X - -
+             MODULES - - - X - -

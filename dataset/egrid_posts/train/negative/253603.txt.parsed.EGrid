@@ -1,0 +1,14 @@
+       LIBGTK2.0-DEV X - - -
+             PACKAGE S O - -
+        DEPENDENCIES O - - -
+             DEPENDS X - - -
+     LIBPANGO1.0-DEV X - - -
+                   > S - - -
+            1.10.0-2 O - - -
+                   E O - - -
+              DAPPER - S - -
+              SYSTEM - O - X
+               PANGO - O - -
+           REINSTALL - - X -
+               THERE - - - S
+             COMMAND - - - O

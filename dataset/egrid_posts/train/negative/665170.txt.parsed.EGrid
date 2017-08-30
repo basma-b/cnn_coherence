@@ -1,0 +1,12 @@
+                RULE O - - - - -
+                NEED S - - - - -
+                   * X - - - - -
+               RULES X - - - - -
+            /ETC/UFW X - - - - -
+              REBOOT - S - - X -
+                 UFW - - S - - -
+                SUDO - - X - - -
+                STOP - - X - - -
+               START - - X - - -
+               DRIVE - - - S - -
+                THAT - - - - - O

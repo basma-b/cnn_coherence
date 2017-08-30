@@ -1,0 +1,26 @@
+                TIME O - - -
+          FILESERVER X - - -
+           WRITEBACK X X - -
+                 SEC X - - -
+               WRITE O - - -
+              SYSTEM X - - -
+             STORAGE X X - -
+                HDDS X - - -
+             NETWORK X X - -
+              ACCESS X - - -
+                 ETC X - - -
+          SUBSYSTEMS - S - -
+             NOTHING - O - -
+                 HOP - X - -
+             COMMAND - S - -
+              KERNEL - S - -
+DIRTY_WRITEBACK_CENTISECS - S - -
+             CONTROL - X - -
+              DAEMON - O - -
+             CONCERN - X - -
+              MEMORY - X - -
+                PAGE - O - -
+                DISK - X - -
+           SWEDEMIKE - X - -
+           THRESHOLD - O - -
+              BUFFER - X - -

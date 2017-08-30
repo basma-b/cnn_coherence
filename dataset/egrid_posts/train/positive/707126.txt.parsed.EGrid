@@ -1,0 +1,20 @@
+           DIRECTORY X X - - - -
+                FILE S - - - - X
+               LUCID X - - X - -
+                .DEB - S - - - -
+                LIST - O - - - -
+        SOURCES.LIST - X - - - -
+         DIRECTORIES - O - - - -
+                 DOT - X - - - -
+              REASON - - - X - -
+                GRUB - - - X - -
+             PACKAGE - - - O - -
+             MACHINE - - - X - -
+             UPGRADE - - - S - -
+         TRIPLE-BOOT - - - O - -
+               ORDER - - - X - -
+             NOTHING - - - X - -
+/VAR/CACHE/APT/ARCHIVES - - - - X -
+                HTTP - - - - - X
+                  // - - - - - X
+                  .. - - - - - X

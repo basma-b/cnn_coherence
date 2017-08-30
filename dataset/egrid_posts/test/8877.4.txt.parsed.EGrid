@@ -1,0 +1,11 @@
+                 ALL O - - - - -
+             NETWORK X - - - - -
+          INTERFACES O - - - - -
+            TERMINAL X - - - - -
+                 USE - X - - - -
+/ETC/INIT.D/NETWORKING - S - - - -
+               IDEAS - - X - - -
+             COMMAND - - - S - -
+             SERVICE - - - - X -
+     NETWORK-MANAGER - - - - S -
+                 YES - - - - - X

@@ -1,0 +1,13 @@
+                NAME X X -
+             PACKAGE X X X
+                NEED X - -
+           GSTREAMER X O -
+              CODECS O - -
+              SEARCH - X -
+               THERE - S -
+                SUDO - X -
+             APT-GET - X -
+             USPLASH - S -
+             OPTIONS - - S
+              AMOUNT - - O
+        DEPENDENCIES - - S

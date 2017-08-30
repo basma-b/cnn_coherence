@@ -1,0 +1,17 @@
+                   ' O - - - - -
+                 ALL X - - - - X
+                RULE O - - - - -
+            ACTION== S - - - - -
+               MODEL X - - - - -
+                  == O - - - - -
+              RD1000 O - - - - -
+               NAME= X - - - - -
+                   % X - - - - -
+                   N S - S - - -
+              INSERT X - - - - -
+        /DEV/RD10001 O - - - - -
+                 USB X - - - - -
+                  .. O - - - - X
+             RD10002 X - - - - -
+                TIME - - X - - -
+                CASE - - - - X -

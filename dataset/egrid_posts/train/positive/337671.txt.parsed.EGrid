@@ -1,0 +1,18 @@
+             PROBLEM O - - - - - - - - -
+             NETWORK X - - - - - - - - -
+               PRINT X X - - - - - - - -
+             PRINTER - S - - - - - - - -
+            ANYTHING - O - - - - - - - -
+                 IPP - - S - - - - - - -
+//192.168.1.2/PRINTERS/HP_DESKJET_5740 - - X - - - - - - -
+                RULE - - - O - - - - - -
+            FIREWALL - - - X - - - - - -
+         CONNECTIONS - - - O - - - - - -
+192.168.0.0/255.255.0.0 - - - X - - - - - -
+              ANYONE - - - - - S - - - -
+              TELNET - - - - - - S - - -
+          CONNECTION - - - - - - X - - -
+              REFUSE - - - - - - X - - -
+                DONT - - - - - - - S - -
+                PORT - - - - - - - - O S
+             ANSWSER - - - - - - - - - X

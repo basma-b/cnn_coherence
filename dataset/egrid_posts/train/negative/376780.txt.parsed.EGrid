@@ -1,0 +1,16 @@
+             PROGRAM X - -
+           SOUNDCARD O - -
+                SUDO - S -
+                LSOF - X -
+           /DEV/SND/ - X -
+               SOUND - S -
+                   U - S -
+             NOTHING - X -
+              DEVICE - X -
+                   * - O -
+             PROBLEM - - S
+                SOME - - O
+                FILE - - X
+                BOOT - - X
+                ONES - - X
+              DRIVER - - X

@@ -1,0 +1,8 @@
+                TIME X - -
+           DIRECTORY X - -
+            MODPROBE X - -
+             MODULES O - -
+                BOOT X - -
+    /ETC/MODPROBE.D/ - X -
+        /ETC/MODULES - O -
+            /KERNEL/ - - X

@@ -1,0 +1,15 @@
+                  .. O - - - - - -
+               GROUP - X X X - - -
+           OWNERSHIP - O - - - - -
+            /VAR/WWW - X - - - - -
+            WWW-DATA - X - - - - -
+                USER - - S - - - -
+                FILE - - O - - - -
+           DIRECTORY - - X - - - -
+              ACCESS - - - X - - -
+                 THR - - - X - - -
+              FOLDER - - - O - - -
+                  LS - - - - - X -
+/ETC/APT/SOURCES.LIST.D - - - - - X -
+            ANYTHING - - - - - X -
+              UPDATE - - - - - - O

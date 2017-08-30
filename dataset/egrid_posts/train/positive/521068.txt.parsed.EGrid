@@ -1,0 +1,16 @@
+                   > O - - - - -
+             WINDOWS X - - O - -
+           PARTITION X - - - - -
+                  FS O - - - - -
+              DEVICE - - X - - -
+                NAME - - X - - -
+           HARDDRIVE - - X - - -
+                FSCK - - - S - -
+           /DEV/SDA1 - - - X - -
+           FSCK.NTFS - - - O - -
+               ERROR - - - O - -
+            RECOVERY - - - X S -
+                  CD - - - X - -
+               VISTA - - - - O -
+                 USE - - - - X -
+              CHKDSK - - - - O -

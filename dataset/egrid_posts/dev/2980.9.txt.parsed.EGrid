@@ -1,0 +1,16 @@
+      OPENSSH-SERVER O S - - - - - -
+          CONNECTION S - - - - - - -
+             APT-GET - O - - - - - -
+              MIRROR - S - - - - - -
+              UPDATE - - X - - - - -
+             COMMAND - - O - - - - -
+              ERRORS - - X - - - - -
+              COOLIO - - X - - - - -
+              DRIVER - - O - - - - -
+                NONE - - X - - - - -
+                IDEA - - - O - - - -
+              CLIENT - - - - O - X -
+                ROOT - - - - X - X -
+                 RUN - - - - - - X -
+                USER - - - - - - X X
+              GKSUDO - - - - - - - O

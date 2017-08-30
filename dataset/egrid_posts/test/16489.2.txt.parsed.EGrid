@@ -1,0 +1,23 @@
+            QUESTION O - - - - - -
+             MACHINE X - - - - - -
+                 SSH X - - - - - -
+              22/TCP - S - - - - -
+               LOGIN - - X - - - -
+                TYPE - - X - - - -
+             COMMAND - - X - - - -
+                 ETC - - X - - - -
+            COMPUTER - - S - - - -
+                 UFW - - - S - - -
+           COMPJUTER - - - O - - -
+                LOAD - - - S - - -
+             LIGHTDM - - - - S - -
+                 GDM - - - - S - -
+                 HMM - - - - - - X
+                  .. - - - - - - X
+                 SEC - - - - - - X
+                HTTP - - - - - - X
+//ROLLING-UBUNTU.BLOGSPOT.COM/2012/06/UBUNTU-1204-TIP-BOOTING-TO-TEXT-MODE.HTML - - - - - - S
+   /ETC/DEFAULT/GRUB - - - - - - O
+              SPLASH - - - - - - O
+                TEXT - - - - - - X
+         UPDATE-GRUB - - - - - - O

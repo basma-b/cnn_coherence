@@ -1,0 +1,17 @@
+             PACKAGE X - -
+  COLOR-THEME-SELECT O - -
+             CONTROL X - -
+                   M X - -
+                 ALT - X -
+                HTTP - S -
+                PAGE - X -
+            DOCUMENT - O -
+               THEME - X -
+             FEATURE - O -
+              ELINKS - O -
+                 W3M - O -
+             APT-GET - S -
+          AUTOREMOVE - S -
+                DEPS - O -
+                   * - O -
+               ERROR - - O

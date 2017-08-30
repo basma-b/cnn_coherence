@@ -1,0 +1,36 @@
+              DRIVER S - - - - - - - - - - -
+                CARD X - - - - - - - - - - -
+              INSTAL O - - - - - - - - - - -
+               IDEAS X - - - - - - X - - - -
+             MADWIFI - O - - - - - - - - - -
+               HTTPS - X - - - - - - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/HARDWARESUPPORTCOMPONENTSWIRELESSNETWORKCARDSDLINK - X - - - - - - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/WIFIDOCS/DRIVER/MADWIFI - X - - - - - - - - - -
+                 DOC - X - - - - - - - - - -
+               STATE - X - - - - - - - - - -
+                  .. - X - - - O - - - - - -
+                LINK - X - - - - - - - - - -
+            TERMINAL - - X - - - - - - - - -
+                SUDO - - S - - - - - - - - X
+             APT-GET - - S - - - - - - - - X
+       MADWIFI-TOOLS - - S - - - - - - - - -
+             PACKAGE - - O - - - - - - - - -
+             NETWORK - - O - - - - - - - - -
+               CDROM - - - - O - - - - - - -
+                   > - - - - X - - - - - - -
+            SOFTWARE - - - - X - - - - - - -
+              SOURCE - - - - X - - - - - - -
+               HERON - - - - X - - - - - - -
+                  CD - - - - O - O - - X - -
+             NOTHING - - - - - X - - - - - -
+             VERSION - - - - - - O - - X - -
+              UBUNTU - - - - - - X - - - - -
+                7.04 - - - - - - O - - X - -
+                TYPE - - - - - - - - - X - -
+                BOOT - - - - - - - - - O - -
+                WORK - - - - - - - - - S - -
+            COMPUTER - - - - - - - - - X - -
+               WHILE - - - - - - - - - X - -
+               PURGE - - - - - - - - - - - X
+LINUX-IMAGE-2.6.28-13-GENERIC - - - - - - - - - - - X
+          AUTOREMOVE - - - - - - - - - - - X

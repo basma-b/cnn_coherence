@@ -1,0 +1,25 @@
+                  .. X X - -
+             PROBLEM - X - -
+/ETC/NETWORK/INTERFACES - X - -
+               IFACE - X - -
+                ETH2 - S S -
+             ADDRESS - X - -
+             NETMASK - X - -
+             GATEWAY - X - -
+               ISSUE - S - -
+             NETWORK - X - -
+               CHECK - X - -
+            IFCONFIG - O - -
+              DEVICE - S - -
+              REBOOT - X - -
+                  IP - X - -
+                AUTO - - X -
+              SYSTEM - - X -
+                BOOT - - O -
+              DOESNT - - S -
+               PLACE - - O -
+                   | - - S -
+              SEARCH - - X -
+                 PHP - - X -
+                NICK - - - X
+               FIRST - - - O

@@ -1,0 +1,11 @@
+          AUTOREMOVE X S -
+                WORK X - -
+             PACKAGE - O -
+        DEPENDENCIES - O -
+             SCP/CVS - - S
+                 ETC - - X
+                THIS - - O
+               SETUP - - O
+                 CVS - - X
+                IDEA - - O
+                  .. - - O

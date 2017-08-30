@@ -1,0 +1,16 @@
+               THERE S - S -
+                 WAY O - - -
+               USERS O - - -
+            TERMINAL X - - -
+              PASSWD - - S -
+   /VAR/LOG/APACHE2/ - - O O
+           DIRECTORY - - O O
+              APACHE - - X -
+             COMMAND - - O -
+              OUTPUT - - X -
+           APT-CACHE - - X -
+              POLICY - - X -
+             APACHE2 - - X X
+                  LS - - - O
+             PACKAGE - - - X
+                FILE - - - X

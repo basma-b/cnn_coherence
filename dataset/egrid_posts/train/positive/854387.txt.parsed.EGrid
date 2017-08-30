@@ -1,0 +1,14 @@
+                SWAP S - - - S
+                FILE O - - - -
+            POINTERS - X - - -
+              REBOOT - - X - -
+         /PROC/SWAPS - - - S -
+           PARTITION - - - X X
+                  -1 - - - X -
+                 USE - - - - X
+             DEFAULT - - - - X
+                SIZE - - - - O
+              LIVECD - - - - X
+                 RAM - - - - O
+                DIRT - - - - X
+               CHEAP - - - - X

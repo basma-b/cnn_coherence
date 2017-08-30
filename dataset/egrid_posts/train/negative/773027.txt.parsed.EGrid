@@ -1,0 +1,9 @@
+         PERMISSIONS X - - -
+               MOUNT X - - -
+               DRIVE X - - -
+                 ARE - S - -
+               CHMOD - S - -
+                WORK - O - -
+                ROOT - X - -
+                SUDO - - X -
+                 ^^^ - - - O

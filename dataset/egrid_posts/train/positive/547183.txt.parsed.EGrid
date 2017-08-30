@@ -1,0 +1,8 @@
+                  IM S - - S - - - -
+                 DNS X - - X - - - -
+              SERVER O - - O - - - -
+                DHCP X - - X - - - -
+              CHANGE - O - - O - - -
+                 FIX - - X - - X - -
+            OVERRIDE - - - - - - O -
+/ETC/DHCP3/DHCLIENT.CONF - - - - - - X -

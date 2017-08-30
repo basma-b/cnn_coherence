@@ -1,0 +1,14 @@
+             ACCOUNT X S - - -
+               FRESH - S - - -
+       ADMINISTRATOR - X - - -
+               OWNER - O - - -
+             SUDOERS - X - - -
+                FILE - X - - -
+                ROOT - S - - -
+            ANYTHING - O - - -
+               GEDIT - - X - -
+                 PPA - - - S -
+                 APP - - - O -
+         REMASTERSYS - - - - S
+                 ISO - - - - O
+          CLONEZILLA - - - - X

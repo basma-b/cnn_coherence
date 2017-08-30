@@ -1,0 +1,13 @@
+                 DMA S - - - -
+                DISK - X X - -
+               DRIVE - X - - -
+                 USE - - X - -
+            /DEV/HDA - - O - -
+              DEVICE - - O - -
+                  O0 - - X - -
+            UPDATEDB - - - S -
+           SOMETHING - - - S -
+             CONVERT - - - - X
+              SCRIPT - - - - O
+         PERFORMANCE - - - - X
+               LIMIT - - - - O

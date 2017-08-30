@@ -1,0 +1,16 @@
+                   > X X - - - S
+                 MAN S X - - - -
+          INTERFACES X S - O - -
+                HTTP O - - - - -
+               SETUP O - - - - -
+                  IP O X - - - -
+             ADDRESS - O - - - -
+                 ONE - O - - - -
+                ETH1 - - O - - X
+/ETC/NETWORK/INTERFACES - - S - - -
+                  .. - - X - - -
+            IFCONFIG - - S - - -
+                ETH0 - - - - S -
+                DHCP - - - - O -
+                 ISP - - - - X -
+              ROUTER - - - - - X

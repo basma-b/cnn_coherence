@@ -1,0 +1,28 @@
+                FILE X - - - - -
+                 USE X - - - - -
+            SENDMAIL O X - - - -
+               IDEAS - X - - - -
+              CONFIG - S - S - -
+              UBUNTU - X - S - -
+              CENTOS - - X - - -
+/ETC/MAIL/SENDMAIL.MC - - X - - -
+                CANT - - S - - -
+            ANYTHING - - O - - -
+              SERVER - - X - - -
+             POSTFIX - - - O - -
+             WRAPPER - - - O - -
+        /ETC/POSTFIX - - - X - -
+                OPPS - - - X - -
+     /PATH/NEWFOLDER - - - O - -
+   /OPT/ZIMBRA/STORE - - - X S -
+                MAKE - - - X - -
+/OPT/ZIMBRA/STORE/TEMP_STORE - - - X - -
+                 HOP - - - O - -
+              INSERT - - - X - -
+                   / - - - O S -
+                 END - - - X - -
+              SYSTEM - - - - X -
+/OPT/ZIMBRA/STORETEMP - - - - X -
+       ACTIONPARSNIP - - - - - X
+               L3TOP - - - - - X
+              CONLEY - - - - - S

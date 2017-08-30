@@ -1,0 +1,20 @@
+             OPTIONS X - - -
+                 GDM X - - -
+              REGARD - X - -
+               SOUND - X - -
+             STARTUP - X - -
+               LOGIN - X - -
+           OPERATION - X - -
+                TEXT - X - -
+                FILE - X - -
+            TERMINAL - X - X
+                XFCE - - X -
+             XUBUNTU - - X -
+                  OK - - O -
+             CHANNEL - - X -
+/ETC/GDM/CUSTOM.CONF - - O -
+                ROOT - - - X
+        APPLICATIONS - - - O
+                   > - - - X
+              SYSTEM - - - X
+               TOOLS - - - S

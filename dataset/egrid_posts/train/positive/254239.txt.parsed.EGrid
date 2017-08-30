@@ -1,0 +1,17 @@
+                 HEY X - - -
+                FSCK - O - -
+                BOOT - X X -
+         MAINTENANCE - X O -
+              CHANGE - X - -
+           PARTITION - X - -
+                TIME - - X -
+                  ^D - - X -
+               THERE - - S -
+          CHECKFS.SH - - X -
+            SOMESUCH - - O -
+        /ETC/INIT.D/ - - X -
+/ETC/INIT.D/WHATEVER - - O -
+                  -F - - O -
+          FILESYSTEM - - - X
+               CHECK - - - X
+                 THO - - - O

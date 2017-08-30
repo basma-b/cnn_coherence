@@ -1,0 +1,9 @@
+                EXEC S - - S
+               FSTAB X - - -
+                 MAN X - - -
+            BOTSNACK - S - -
+            CONFLICT - X - -
+              SCRIPT - X - -
+           AUTOMOUNT - - - O
+              MATTER - - - S
+                 ALT - - - O

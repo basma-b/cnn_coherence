@@ -1,0 +1,15 @@
+                LINE S - - -
+PKGSEL/INSTALL-LANGUAGE-SUPPORT=FALSE X - - -
+        LOCALE=EN_GB O - - -
+            URL=HTTP X - - -
+                  ** S - - -
+                   * X - - -
+            QUESTION O - - -
+             OPTIONS - O - -
+              SUPPLY - X - -
+            HOSTNAME - O - -
+               THERE - S - -
+                 BUG - X - -
+                FILE - O - -
+             CLOSEST - - - S
+                THIS - - - O

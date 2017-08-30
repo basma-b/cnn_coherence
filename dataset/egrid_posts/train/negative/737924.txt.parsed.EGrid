@@ -1,0 +1,14 @@
+           PARTITION X - - - -
+                SIZE X - - - -
+              UBUNTU X - - - -
+                /TMP - S - - -
+              SYSTEM - X - - -
+                   / - X - - -
+                 TMP - X - - -
+                FILE - S - - -
+                 DVD - S - - -
+             EXAMPLE - X - - -
+               IMAGE - X - - -
+               AUDIO - S - - -
+               VIDEO - - - O -
+                   \ - - - - X

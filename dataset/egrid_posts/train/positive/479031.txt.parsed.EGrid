@@ -1,0 +1,35 @@
+                THAT - S - - - - - - - - -
+             PROBLEM - S - - - - - - - - -
+              KERNEL - X - - - X X - - - -
+             MODULES - O - - - - - - - - -
+             MECHA25 - - S - - O O - - - -
+            TUTORIAL - - S - - - - - - - -
+              DAPPER - - X - - - - - - - -
+              DRIVER - - O S - - - - - - -
+                 ATI - - - X - - - - - - -
+             WEBSITE - - - X - - - - - - -
+               FGLRX - - - - S - - - - - -
+              SOURCE - - - - - S - - - - -
+            EVERYONE - - - - - S - - - - -
+                SITE - - - - - X - - - - -
+          200-300FPS - - - - - X - - - - -
+            GLXGEARS - - - - - X - - - - -
+                 WHI - - - - - X - - - - -
+LINUX-RESTRICTED-MODULES - - - - - O - - - - -
+              NUMBER - - - - - O - - - - -
+       LINUX-HEADERS - - - - - O - - - - -
+             VERSION - - - - - - X - - - -
+   LINUX-HEADERS-386 - - - - - - O - - - -
+LINUX-HEADERS-GENERIC - - - - - - S - - - -
+               ERROR - - - - - - S S - - -
+                 LOG - - - - - - X - - X -
+                FILE - - - - - - S - - S X
+               44:26 - - - - - - S - - - -
+      LINUX/CONFIG.H - - - - - - S - - - -
+           DIRECTORY - - - - - - S - - - -
+                NOPE - - - - - - - S - - -
+     LINUX/CONFIG.IN - - - - - - - - - - O
+                LOOK - - - - - - - - - - X
+              THINGS - - - - - - - - - - S
+           CONFIG.IN - - - - - - - - - - O
+            CONFIG.H - - - - - - - - - - X

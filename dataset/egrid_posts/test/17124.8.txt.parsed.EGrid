@@ -1,0 +1,14 @@
+                 HAI X - - - -
+              CAMERA O - - - -
+             MPLAYER X - - - -
+                  TV O - - - -
+         DRIVER=V4L2 X - - - -
+           WIDTH=640 X - - - -
+          HEIGHT=480 X - - - -
+  DEVICE=/DEV/VIDEO0 X - - - -
+              WINDOW O - - - -
+             NOTHING S - - - -
+               ISSUE O - - - -
+                  LS - X - - -
+                  -L - S - - -
+                IDEA - - O - -

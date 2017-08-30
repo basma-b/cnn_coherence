@@ -1,0 +1,15 @@
+             PROCESS S - - - -
+              BOTTOM X - - - -
+             PYRAMID X - - - -
+              UBUNTU S - - - -
+              TUMBLE O - - - -
+            PLYMOUTH - - S - -
+          DEPENDENCY - - O - -
+            ANYTHING - - X - -
+              FEDORA - - X - -
+                RHEL - - S - -
+        DEPENDENCIES - - O - -
+                WALL - - - - O
+                BANG - - - - X
+                HEAD - - - - X
+                 LOL - - - - X

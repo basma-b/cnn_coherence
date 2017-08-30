@@ -1,0 +1,16 @@
+             NETWORK X - - - -
+             MANAGER S - - - -
+               WLAN0 X - - - -
+            QUESTION O - - - -
+              CONFIG X - - - -
+                FILE X - - - -
+             SECTION X - - - -
+ADDRESSES1=192.168.1.102 X - - - -
+                  .. X - - - -
+         192.168.1.1 - X - - -
+       192.168.1.102 - X - - -
+       255.255.255.0 - X - X -
+            INTERWEB - - - O -
+                BITE - - - S -
+                 /24 - - - X -
+               THANK - - - - X

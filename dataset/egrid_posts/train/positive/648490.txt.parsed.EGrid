@@ -1,0 +1,14 @@
+   LIBFLASHPLAYER.SO O S - X - - -
+           DIRECTORY X - - - - - -
+             COMMAND - X - - - - -
+               ORDER - S - - - - -
+               BUNCH - - O - - - -
+                FILE - - X - - - -
+             MACHINE - - X - - - -
+              LOCATE - - X - - - -
+                 DIR - - O - - - -
+     MOZILLA/PLUGINS - - - S - - -
+            /USR/LIB - - - X - - -
+            INSTANCE - - - O - - -
+               THOSE - - - - - - S
+  ~/.MOZILLA/PLUGINS - - - - - - O

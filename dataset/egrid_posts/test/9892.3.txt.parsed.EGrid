@@ -1,0 +1,25 @@
+               12.04 O - - - - - - - - - -
+                LXDE X - - - - - - - - - -
+            SYNAPTIC S - - - - - - - - - -
+             NOTHING - X - - - - - - - - -
+               IDEAS - X - - - - - - - - -
+             PROBLEM - - O - - - - - - - -
+               ISSUE - - - O - - S - - - -
+       GNOME-KEYRING - - - X - - - - - - -
+             TERMIAL - - - - X - - - - - -
+                SUDO - - - - X - - - - - -
+                THAT - - - - - S - - - - -
+            VARIABLE - - - - - - S - - - -
+              SCREEN - - - - - - S - - - -
+              KERNEL - - - - - - X X - - -
+                BOOT - - - - - - X X - - -
+             MESSAGE - - - - - - X O - - -
+                TEXT - - - - - - - X - - -
+               PROBE - - - - - - - X - - -
+             DEVICES - - - - - - - X - - -
+             BUSYBOX - - - - - - - X - - -
+GRUB_GFXPAYLOAD_LINUX=TEXT - - - - - - - - - X -
+   /ETC/DEFAULT/GRUB - - - - - - - - - X -
+                THIS - - - - - - - - - - S
+            DOCUMENT - - - - - - - - - - O
+/ETC/GRUB.D/10_LINUX - - - - - - - - - - X

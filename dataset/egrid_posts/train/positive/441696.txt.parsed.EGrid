@@ -1,0 +1,15 @@
+             NETWORK X - -
+           INTERFACE X - -
+                 BR0 X O -
+/ETC/NETWORK/INTERFACES - S -
+               STUFF - O -
+              KERNEL - X -
+              MODULE - O -
+                LOAD - X -
+         ALLTOGETHER - X -
+           BLACKLIST - X -
+                UDEV - X -
+                LIST - O -
+          INTERFACES - X -
+            IFCONFIG - X -
+               VBOX0 - X -

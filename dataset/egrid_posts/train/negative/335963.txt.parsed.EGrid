@@ -1,0 +1,21 @@
+             COMMAND X - - - - -
+             FIREFOX X O - - - -
+                LINE X - - - - -
+                 SSH O X - - - -
+                 BOX X - - - - -
+                  IM - S - - - -
+              SERVER - X - X - -
+              WINDOW - X - - - -
+             MACHINE - X - - - X
+                 USE - - X - - X
+             DISPLAY - - S - - -
+                USER - - X - - -
+               ERROR - - O - - -
+            VARIABLE - - O - - -
+/ETC/SSH/SSHD_CONFIG - - X - - -
+       X11FORWARDING - - X - - -
+                CALL - - - X - -
+               XINIT - - - O - -
+        XSERVER-XORG - - - - O -
+              ANYONE - - - - - X
+                HERE - - - - - X

@@ -1,0 +1,15 @@
+           OWNERSHIP O - - - -
+                VFAT X - - - -
+           PARTITION X - - - -
+             PROGRAM S - - - -
+               STUFF O - - - -
+                LINE O - - - -
+               FSTAB X O - X -
+                CRAP - O - - -
+               USERS - S - - -
+          PERMISSION - O - - -
+                 YEP - - S - -
+           UMASK=000 - - X - -
+                DONT - - X - -
+                 GID - - O - -
+                 MAN - - - - X

@@ -1,0 +1,13 @@
+                   % X X O - - -
+              PACKET X - - - - -
+                LOSS O - - - - -
+                ADSL X - - - - -
+               MODEM O - - - - -
+            10.1.1.1 X - - - - -
+                   > - - S - - -
+              DOMAIN - - - - X -
+                NAME - - - - O -
+               HOUSE - - - - X -
+                HOST - - - - - X
+                 DNS - - - - - S
+                  IP - - - - - X

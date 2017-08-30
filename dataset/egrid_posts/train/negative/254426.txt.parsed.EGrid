@@ -1,0 +1,11 @@
+ /BOOT/GRUB/MENU.LST O - - - -
+              UBUNTU X - - - -
+              OPTION - X - - -
+                MENU - X - - -
+                ITEM - X - - -
+               SPASH - - - S -
+          PASSPHRASE - - - O -
+           PARTITION - - - X -
+               REPOS - - - - X
+               GNOME - - - - S
+                GTK2 - - - - X

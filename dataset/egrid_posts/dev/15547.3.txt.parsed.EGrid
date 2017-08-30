@@ -1,0 +1,11 @@
+               CHOWN X - - - - - -
+              FOLDER O - - X - - -
+                FILE O - - O - - -
+                THIS - X - - - - -
+                  -R - - X - - - -
+              PERSON - - - O - - -
+           DIRECTORY - - - X - - -
+                  .. - - - X - - -
+                SUDO - - - X - - -
+                ROOT - - - X - - -
+                LUCK - - - - - - X

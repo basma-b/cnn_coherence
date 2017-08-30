@@ -1,0 +1,21 @@
+              PMOUNT S - - - - -
+              DEVICE X - - - - -
+                PATH X - - - - -
+             MACHINE S - - - - -
+                BOOT X X - - - -
+             MINUTES - S - - - -
+              SYSTEM - X - - - -
+                 HAL - X - - - -
+             MESSAGE - O - - - -
+                 LOG - - X - - -
+               AFAIK - - X - - -
+             PROBLEM - - S - - -
+               HTTPS - - O - - -
+//BUGZILLA.UBUNTU.COM/SHOW_BUG.CGI - - X - - -
+             COMMENT - - - X - -
+           SITUATION - - - X - -
+                LIST - - - - - S
+             SOLARIS - - - - - X
+                   / - - - - - X
+               LINUX - - - - - S
+               SPACE - - - - - O

@@ -1,0 +1,20 @@
+                   ' S - - - - - - -
+             MESSAGE O - - - - - - -
+             RELEASE X - - - - - - -
+                  .. X - X - - - - -
+         SETKEYCODES X - - - - - - -
+     /VAR/LOG/SYSLOG O - - - - - - -
+  /ETC/INIT.D/SYSLOG - X - - - - - -
+            SYSKLOGD - - O - - - - -
+/ETC/INIT.D/SYSKLOGD - - O - - - - -
+                CLUE - - X - - - - -
+                CASE - - X - - - - -
+                NAME - - S - - - - -
+              KERNEL - - X - - - - -
+                 LOG - - X - - - - -
+                BOOT - - - - X - - -
+                FILE - - - - X - - -
+               DRIVE - - - - X X - X
+                  OS - - - - - X - -
+             MACHINE - - - - - - - X
+            QUESTION - - - - - - - X

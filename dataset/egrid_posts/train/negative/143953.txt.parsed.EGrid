@@ -1,0 +1,9 @@
+              FORMAT X - - X - - X - - - - - - -
+            USBSTICK X - - X - - X - - - - - - -
+          FILEFORMAT - - - - - - - - - X - - - -
+            /DEV/SDA - - - - - - - - - - - X - -
+               FAT32 - - - - - - - - - - - X - -
+             COMMAND - - - - - - - - - - - - - X
+                LINE - - - - - - - - - - - - - X
+                THIS - - - - - - - - - - - - - S
+              /MEDIA - - - - - - - - - - - - - O

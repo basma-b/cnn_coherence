@@ -1,0 +1,16 @@
+       X11FORWARDING X - - -
+             DEFAULT X - X -
+         SSHD_CONFIG X - - -
+              UBUNTU X - X -
+      OPENSSH-SERVER - X - -
+                 YES - - O -
+                 HEH - - X -
+                MINE - - S -
+              FEISTY - - S -
+          DIRECTIONS - - S -
+           PARTITION - - S -
+               STUFF - - O -
+               /HOME - - X -
+      /MEDIA/NEWDISK - - X -
+                   * - - O -
+               FSTAB - - O -

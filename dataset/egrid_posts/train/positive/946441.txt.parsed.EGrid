@@ -1,0 +1,19 @@
+                TIME O - - - - - -
+                PKGS O - - - - - -
+               ERROR - X - - - - -
+510MOD_DYNVHOST.INFO - S - - - - -
+          LOADMODULE - X - - - - -
+          ENTRY.DPKG - O - - - - -
+             PROCESS - X - - - - -
+   LIBAPACHE-MOD-DAV - X - - - - -
+               PURGE - X - - - - -
+              SCRIPT - X - - - - -
+              RETURN - X - - - - -
+                EXIT - X - - - - -
+              STATUS - X - - - - -
+                NAME - - - X - - -
+             PACKAGE - - - X - - -
+               THOSE - - - - - X -
+                 ALL - - - - - S -
+              APACHE - - - - - X -
+LIBAPACHE-MOD-AUTH-PLAIN - - - - - - X

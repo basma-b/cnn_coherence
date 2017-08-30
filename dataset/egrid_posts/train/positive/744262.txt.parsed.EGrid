@@ -1,0 +1,17 @@
+               PRINT S - - - - - -
+              SYSLOG O - - - - - -
+              FOLLOW O - - - - - -
+                  .. - X - - - - -
+                 FIX - X - - - - -
+            PROFILE= - - X - - - -
+/USR/LIB/CUPS/BACKEND/CUPS-PDF - - X - - - -
+     REQUESTED_MASK= - - X - - - -
+                   R - - X - - - -
+        DENIED_MASK= - - X - - - -
+               NAME= - - X - - - -
+   /PROC/FILESYSTEMS - - X - - - -
+                  UH - - X - - - -
+                 BUG - - - O - - -
+                THAT - - - - S - -
+               HTTPS - - - - - - O
+//BUGS.LAUNCHPAD.NET/BUGS/147551 - - - - - - X

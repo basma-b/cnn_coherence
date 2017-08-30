@@ -1,0 +1,13 @@
+                 USB X X - - X
+          THUMBDRIVE X - - - -
+               WINXP X - - - -
+                QEMU X - - X -
+         PASSTHROUGH - O - - -
+              DEVICE - X - - X
+                  ID - X - - -
+                THAT - - X - -
+           /DEV/SDB1 - - - - O
+                   \ - - - - X
+             WARNING - - - - X
+                DISK - - - - O
+            /DEV/SDB - - - - X

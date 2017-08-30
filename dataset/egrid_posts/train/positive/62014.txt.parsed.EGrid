@@ -1,0 +1,11 @@
+             COMMAND X - -
+                TYPE X - -
+               .DIFF O - -
+               PATCH X X X
+                THAT - S S
+                 -P0 - X O
+                   < - S -
+                FILE - O -
+                  CD - - X
+           DIRECTORY - - X
+  /PATH/TO/THE/PATCH - - X

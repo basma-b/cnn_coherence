@@ -1,0 +1,10 @@
+                DISK O - - -
+             MACHINE X - - -
+            /DEV/SDA X - - -
+           PARTITION O - - -
+             GPARTED X - - -
+                TOOL X - X -
+          /ETC/FSTAB - X - -
+               FSTAB - - - S
+UUID=80EC3E86-AA4E-484B-94E3-16AB7BA1C193 - - - X
+                UUID - - - X

@@ -1,0 +1,12 @@
+                FILE X S - O - -
+              SYSTEM S - - X - -
+                FSCK - X - - - -
+              KERNEL - X - - - -
+               PANIC - O - - - -
+                BOOT - X - - - -
+           PARTITION - - X - - -
+          EVERYTHING - - O - - -
+              THEORY - - - - X -
+              DAMAGE - - - - O -
+              CHROOT - - - - - X
+             COMMAND - - - - - X

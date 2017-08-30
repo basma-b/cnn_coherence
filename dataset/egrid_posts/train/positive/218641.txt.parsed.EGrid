@@ -1,0 +1,15 @@
+              KERNEL X - - - - - -
+               PANIC O - - - - - -
+              BOOTUP X - - - - - -
+               ERROR O - - - - - -
+                ROOT X - - - - - -
+                  FS O - - - - - -
+               BLOCK X - - - - - -
+                KIND - X - - - - -
+                BOOT - X - - - - -
+               BREAK - - X - - - -
+                NEED - - - - X - -
+                 MAN - - - - X - -
+             TUNE2FS - - - - X - -
+                USER - - - - X - -
+             TELINIT - - - - X - -

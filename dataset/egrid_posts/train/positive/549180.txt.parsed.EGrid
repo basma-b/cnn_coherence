@@ -1,0 +1,24 @@
+                JAVA - X - -
+                   | - S - -
+                   S - - X -
+             DNSMASQ - - S -
+     BIND-INTERFACES - - X -
+       192.168.122.1 - - X -
+                  LO - - X -
+DHCP-LEASEFILE=/VAR/LIB/LIBVIRT/DHCP-DEFAULT.LEASES - - X -
+               THATS - - X -
+                  PS - - X -
+                  AX - - X -
+               START - - X -
+             DEFUNCT - - X -
+                DPKG - - S -
+                SUDO - - X -
+             APT-GET - - S -
+             KILLALL - - X -
+          AUTOREMOVE - - X -
+               THING - - X -
+               IKONA - - S -
+              ANSWER - - O -
+                  -L - - - S
+                APPS - - - O
+                 END - - - X

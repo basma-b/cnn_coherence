@@ -1,0 +1,11 @@
+             PROGRAM S - - - - O -
+         PERMISSIONS O - - - - - -
+               OWNER S - - - - - -
+                ROOT O - O - - X -
+                BITE S - - - - - X
+              MATTER X - - - - - -
+                 UID - S S - - - -
+                USER - O - - - - -
+                THAT - - - - X - -
+                SUDO - - - - - X -
+                   S - - - - - - X

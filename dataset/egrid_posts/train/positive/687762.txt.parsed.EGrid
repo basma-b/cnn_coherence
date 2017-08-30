@@ -1,0 +1,15 @@
+      OPENSSH-SERVER O - - -
+               ORDER S - - -
+              TUNNEL O X - -
+                SELF - O - -
+              SERVER - X - -
+          CONNECTION - O - -
+                 BOX - X - -
+                USER - - S -
+           REMOTEBOX - - O -
+               PROXY - - X -
+            SETTINGS - - O -
+      LOCALHOST:9999 - - X -
+                  IP - - - X
+             ADDRESS - - - O
+               RIGHT - - - O

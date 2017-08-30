@@ -1,0 +1,27 @@
+                THAT S - - -
+                  AN X - - -
+                MOVE S - - -
+       CONFIGURATION X - - -
+             DEFAULT S - - -
+             NON-LTS S - - -
+                ROOT O - - -
+                 UID S - - -
+         SSHD_CONFIG X - - -
+                FILE S - - -
+               CHECK S - - -
+      REINSTALLATION O - - -
+           SOMETHING O - - -
+             SERVICE X - - -
+         SERVICENAME X - - -
+                CALL S - - -
+/ETC/INIT.D/SERVICENAME X - - -
+                 USE - X - -
+             UPSTART - X - -
+         UPDATE-RC.D - X - -
+                 MAN - - X -
+                PAGE - - S -
+              SYSTEM - - X -
+                   V - - X -
+              SCRIPT - - O -
+         MOUNT-POINT - - - O
+              UMOUNT - - - X

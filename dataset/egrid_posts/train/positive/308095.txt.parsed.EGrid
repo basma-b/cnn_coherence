@@ -1,0 +1,12 @@
+/ETC/PRIVOXY/CONFIG.TXT X - - - - - -
+            TERMINAL X - - - - - -
+         PERMISSIONS O - - - - - -
+              EDITOR - X - - - - -
+                 E.G - O - - - - -
+       /PATH/TO/FILE - - X - - - -
+                FILE - - O - - - -
+                HTTP - - - - X - -
+//PASTE.UBUNTU-NL.ORG/26828/ - - - - X - -
+               GEDIT - - - - - X -
+                 EYE - - - - - - O
+               PRIZE - - - - - - X

@@ -1,0 +1,17 @@
+                 HEY X - - - - -
+                 ALL X - - - - -
+                LINE X - - - - -
+                MEAN O - - - - -
+         DPKG-DIVERT X - - - - -
+            MISMATCH S - - - - -
+             PACKAGE X - X - - -
+           DIVERSION O - - - - -
+/USR/LIB/XORG/MODULES/EXTENSIONS/LIBDRI.SO X - - - - -
+/USR/LIB/FGLRX/LIBDRI.SO.XLIBMESA X - - - - -
+               FGLRX X - - - - O
+   XORG-DRIVER-FGLRX X - - - - -
+              ANYONE X - - - - -
+                DEAL - X - - - -
+                  IM - - - - - S
+               ERROR - - - - - S
+                FILE - - - - - O

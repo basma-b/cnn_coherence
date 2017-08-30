@@ -1,0 +1,12 @@
+       /ETC/NETWORK/ S - - -
+              OPTION O - - -
+             DNSNAME O O - -
+                 DNS X - - -
+    /ETC/RESOLV.CONF X - - -
+                 BOX X - - -
+            KERBEROS - S - -
+                 HMM - X - -
+                NAME - X - -
+       /ETC/HOSTNAME - X - -
+                ROOT - - - X
+            PASSWORD - - - O

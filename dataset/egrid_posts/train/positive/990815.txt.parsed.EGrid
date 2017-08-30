@@ -1,0 +1,16 @@
+             WARNING - X - - - - - - -
+              KERNEL - X - - - - - - -
+              MODULE - S - - - - - - -
+                LOAD - O - - - - - - -
+                NEED - O - - - - - - -
+           BEHAVIOUR - X - - - - - - -
+            FAILURES - - O - - - - - -
+         MULTILINING - - - - - X - - -
+                   O - - - - - S - - -
+                 RUN - - - - - O - - -
+             PORTMAP - - - - - - - O -
+                CALL - - - - - - - S -
+                  PS - - - - - - - X -
+                  AX - - - - - - - X -
+                   | - - - - - - - X -
+                GREP - - - - - - - X -

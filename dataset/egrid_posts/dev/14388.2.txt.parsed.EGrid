@@ -1,0 +1,12 @@
+           PARTITION O - - -
+              FORMAT X - - -
+                FILE X - - -
+              SYSTEM S - - -
+              DEVICE X - - -
+              UMOUNT - - O -
+               FORCE - - X -
+             ADAPTER - - - O
+              BRIDGE - - - X
+               SETUP - - - X
+             NETWORK - - - X
+           INSTALLER - - - X

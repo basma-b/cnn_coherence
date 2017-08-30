@@ -1,0 +1,24 @@
+             PROGRAM X - - - - - - - - - - -
+              BINARY - X - - - - - - - - - -
+             PACKAGE - X - - - - - - - - - -
+                WHAT - - - O - - - - - - - -
+  /ETC/X11/XORG.CONF - - - X - - - - - - - -
+/ETC/NETWORK/INTERFACES - - - S - - - - - - - -
+             HOTPLUG - - - X - - - - - - - -
+                UTIL - - - O - - - - - - - -
+         INFORMATION - - - O - - - - - - - -
+               SYSFS - - - X - - - - - - - -
+                 USE - - - - X - - - - - - -
+              SCRIPT - - - - S - - - - - - -
+       CONFIGURATION - - - - X - - - - - - -
+                FILE - - - - S - - - - - - -
+               /SYS/ - - - - X - - - - - - -
+                 BAD - - - - S - - - - - - -
+                COPY - - - - O - X - - - - -
+             TROUBLE - - - - O - - - - - - -
+               LIGHT - - - - - - - X - - - -
+               ERROR - - - - - - - - X - - -
+            ARGUMENT - - - - - - - - S - - -
+          GAM_SERVER - - - - - - - - - - X -
+                 FDS - - - - - - - - - - - O
+              DEVICE - - - - - - - - - - - X

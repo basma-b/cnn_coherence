@@ -1,0 +1,14 @@
+              OUTPUT X X - - - -
+             COMMAND X - O - X -
+                FILE X - - - - -
+              ERRORS - X O - - -
+         REDIRECTION - - X - - -
+              SYMBOL - - X - - -
+                  .. - - X - O -
+                 CAT - - X - - -
+           /VAR/LOG/ - - X - - -
+                   > - - X - - -
+          MYFILENAME - - S - - -
+               ISSUE - - - - X -
+            QUESTION - - - - - O
+             EXAMPLE - - - - - X

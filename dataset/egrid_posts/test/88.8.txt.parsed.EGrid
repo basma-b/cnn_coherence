@@ -1,0 +1,9 @@
+         MYSQLIMPORT O - -
+           MYSQLDUMP X - -
+                DATA O - -
+            DATABASE X - -
+                 SEE - S -
+            ARGUMENT - - S
+          MODPROBE.D - - X
+                LOAD - - O
+                INIT - - X

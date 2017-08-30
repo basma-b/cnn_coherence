@@ -1,0 +1,13 @@
+            FIREWALL X - - - -
+                BOOT - X - - -
+                STOP - O - - -
+            INTERNET - X - - -
+                WORK - X - - -
+                  .. - O - - -
+                 ONE - X - - -
+  INIT.D/FIRESTARTER - - O - -
+        _FIRESTARTER - - X - -
+           SOMETHING - - X - -
+            IPTABLES - - - - S
+             PACKAGE - - - - O
+     UBUNTU-STANDARD - - - - O

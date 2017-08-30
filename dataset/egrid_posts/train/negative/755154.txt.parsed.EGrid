@@ -1,0 +1,23 @@
+                HELP O - - - - - - - - -
+                USER X - - - - - - - - -
+               GROUP X - - - - - - - - -
+          PERMISIONS X - - - - - - - - -
+           DIRECTORY O - - - - - - - - -
+                ROOT X - - - - - - - - -
+             MEMBERS O - - - - - - - - -
+          PERMISSION X - - - - - - - - -
+                THIS - X - - - - - - - -
+             MYGROUP - - X - - - - - - -
+               CHGRP - - X - - - - - - -
+         MYDIRECTORY - - S - - - - - - -
+               CHMOD - - X - - - - - - -
+               G+RWX - - X - - - - - - -
+                FILE - - - - - S - - - -
+            SETTINGS - - - - - - O - - -
+SYSTEM-ADMINISTRATION-TIMEANDDATE - - - - - - X - - -
+                 NTP - - - - - - O - - -
+              EITHER - - - - - - - O - -
+              GOOGLE - - - - - - - - X -
+               THING - - - - - - - - O -
+              SERVER - - - - - - - - - X
+                TERM - - - - - - - - - X

@@ -1,0 +1,24 @@
+             PROGRAM X - - - - - -
+                  CD O - - - - - -
+                 K3B - X - - - - -
+                 KDE - X - - - - -
+             EASIEST - X - - - - -
+                SUDO - X - - - - -
+             APT-GET - S - - - - -
+                GRUB - O - - - - -
+           PARTITION - S S - O - -
+        GRUB-INSTALL - O - - - - -
+            /DEV/SDA - X - - - - -
+               ERROR - O - - - - -
+                FILE - X - - - - -
+/MNT/BOOT/GRUB/BOOT/GRUB/STAGE2 - X - - - - -
+                  .. - - O - O - -
+                INFO - - O - - - -
+             COMMAND - - X - - - -
+      ROOT-DIRECTORY - - - X - - -
+              UBUNTU - - - - O - -
+           /DEV/SDA6 - - - - X - -
+                   / - - - - X - -
+                /MNT - - - - X - -
+                THIS - - - - S - -
+               HOWTO - - - - - - O

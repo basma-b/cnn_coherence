@@ -1,0 +1,9 @@
+    /ETC/RESOLV.CONF S -
+             8.8.8.8 O -
+NETWORKMANAGER/DOMAIN X -
+       BELKIN/SEARCH X -
+   BELKIN/NAMESERVER X -
+                  IP X S
+                 LAN X -
+         192.168.2.1 - O
+         192.168.2.3 - O

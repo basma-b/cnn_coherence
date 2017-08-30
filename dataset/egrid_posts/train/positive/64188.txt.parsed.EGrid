@@ -1,0 +1,17 @@
+                 HMM X - - - - -
+             PROCESS - O - - - -
+                KILL - X - - - -
+                  -S - S - - - -
+              PSTREE - - O - - -
+              PARENT - - S - - -
+       WINDOWMANAGER - - O - - -
+                OOPS - - X - - -
+                  PS - - X - - -
+                  -A - - S - - -
+                   > - - O - - -
+            INSTANCE - - - O - -
+                 APP - - - S - -
+             COMMAND - - - X - -
+              SIGNAL - - - O - -
+               REPLY - - - O - -
+                THAT - - - - - O

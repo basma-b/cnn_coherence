@@ -1,0 +1,11 @@
+             COMMAND X - - -
+            WIRELESS X - - -
+             NETWORK X X - -
+              DEVICE O - - -
+                  .. - S - O
+              KISMET - X - -
+                CARD - X - -
+                NAME - O - -
+               CLICK - X - -
+             MANAGER - X - -
+ /ETC/INIT.D/SERVICE - - - S

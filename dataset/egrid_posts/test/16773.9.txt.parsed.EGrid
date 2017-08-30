@@ -1,0 +1,14 @@
+                  OT - X -
+                   | - X -
+               PSUSI - S -
+              CHOICE - O -
+          FILESYSTEM - X -
+              UBUNTU - S S
+                EXT4 - O -
+           RECOMENDS - X -
+              PERIOD - X -
+         UPDATE-GRUB - - X
+              STUDIO - - X
+              NSTALL - - S
+               ENTRY - - S
+/ETC/GRUB.D/40_CUSTOM - - S

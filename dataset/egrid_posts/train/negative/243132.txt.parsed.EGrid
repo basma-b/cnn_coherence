@@ -1,0 +1,35 @@
+                 ALL O - - - - - - - - - - -
+               INTEL X - - - - - - - - - - -
+             NETWORK X - - - - - - - - - - -
+                CARD S - - - - - - - - - - -
+              DAPPER X - - - - - - - - - - -
+              ERRORS - X - - - - - - - - - -
+                 ANY - X - - - - - - - - - -
+              ARTMAN - - X - - - - - - - - -
+           SOMETHING - - X - - - - - - - - -
+               MOUNT - - X - - - - - - - - -
+                LOOP - - X - - - - - - - - -
+        /PATH/TO/ISO - - X - - - - - - - - -
+             /MNTDIR - - X - - - - - - - - -
+                HTTP - - X - - - - - - - - -
+//WWW.UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - X - - - - - - - - -
+                WORK - - - X - - - - - - - -
+           P=2048527 - - - X - - - - - - - -
+              FEDORA - - - X - - - - - - - -
+                CORE - - - O - - - - - - - -
+           PPPOECONF - - - O - - - - - - - -
+/ETC/NETWORK/INTERFACES - - - - X - - - - - - -
+              INSTAL - - - - - O - - - - - -
+/ETC/NETWORK/INTERFACE - - - - - O - - - - - -
+           COMPUTERS - - - - - - O - - - - -
+              UBUNTU - - - - - - O - - - - -
+           CONFIGURE - - - - - - O - - - - -
+                 PON - - - - - - X - - - - -
+        DSL-PROVIDER - - - - - - O - - - - -
+             MACHINE - - - - - - X - - - - -
+              DRIVER - - - - - - - S - - - -
+                ETH0 - - - - - - - - X - - -
+               DMESG - - - - - - - - X X - -
+ E100/E1000/EEPRO100 - - - - - - - - - X - -
+                  NO - - - - - - - - - - S -
+               BUDDY - - - - - - - - - - - O

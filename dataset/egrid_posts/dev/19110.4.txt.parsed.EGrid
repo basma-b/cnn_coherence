@@ -1,0 +1,13 @@
+                USER X S O -
+             SUDOERS X - - -
+               12.04 X - - -
+                 USE - O - -
+               GROUP - X X -
+               WHEEL - S - -
+                ROOT - O - -
+                 WAY - X - -
+                SUDO - - X -
+                COPY - - X -
+               ERROR - - S -
+                HTTP - - - X
+//PASTEBIN.COM/NMPYGFYG - - - X

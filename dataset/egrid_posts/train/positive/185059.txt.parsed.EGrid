@@ -1,0 +1,28 @@
+             CONFIGS - X - - - - - -
+                META - X X - - - - X
+             PACKAGE - S X - - - - O
+               THESE - O - - - - - -
+LINUX-HEADERS-2.6.15-26-686_2.6.15-126.46_I386.DEB - X - - - - - -
+LINUX-IMAGE-2.6.15-26-386_2.6.15-126.46_I386.DEB - X - - - - - -
+LINUX-IMAGE-2.6.15-26-686_2 - X - - - - - -
+             KERNELS - O - - X - - S
+    CONFIG_REGPARM=Y - X - - - - - -
+              KERNEL - X X X O - - -
+              CONFIG - O - - O - - X
+                 ABI - X - - - - - -
+             VERSION - O - - - - - -
+             .CONFIG - - X - - - - -
+                FILE - - X - O - - X
+              SOURCE - - X - - - - -
+           DIRECTORY - - X - - - - -
+             REGULAR - - X - - - - -
+               THERE - - - - S - - S
+         METAPACKAGE - - - - X - - -
+           OLDCONFIG - - - - X - - -
+                 ETC - - - - O - - -
+            MRPROPER - - - - - S - -
+                 ALL - - - - - - - X
+                  .. - - - - - - - O
+              CHANGE - - - - - - - S
+                 WAY - - - - - - - O
+                TYPE - - - - - - - X

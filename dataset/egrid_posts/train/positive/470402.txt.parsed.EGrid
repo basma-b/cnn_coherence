@@ -1,0 +1,23 @@
+                FILE O - - - - -
+              STRING O - - - - -
+          DISKLAYOUT X - - - - -
+              SCRIPT - O - - - S
+          PERCENTAGE - - X - - -
+              RESULT - - O - - -
+                  -L - - X - - -
+           PARTITONS - - O - - -
+               DRIVE - - X - - -
+                TYPE - - O - - -
+                 EXT - - X - - -
+                SWAP - - X - - -
+                THAT - - - O - -
+                SAME - - - O - -
+             COMMAND - - - O - -
+            PARTITON - - - X - -
+                INFO - - - X - -
+              FORMAT - - - - X -
+                HTTP - - - - X -
+//D-I.ALIOTH.DEBIAN.ORG/SVN/DEBIAN-INSTALLER/INSTALLER/DOC/DEVEL/PARTMAN-AUTO-RECIPE.TXT - - - - S -
+             PRESEED - - - - X X
+           DIRECTIVE - - - - - X
+               VALUE - - - - - S

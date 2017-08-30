@@ -1,0 +1,6 @@
+           PARTITION O O -
+             INSTALL - S -
+                 ONE - O -
+                 ALL - - X
+                DATA - - X
+                DISK - - X

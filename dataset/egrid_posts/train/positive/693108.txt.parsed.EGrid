@@ -1,0 +1,12 @@
+            OPENLDAP S - - - - - -
+      IMPLEMENTATION O - - - - - -
+                LDAP X X - - - - X
+            PROTOCOL X - - - - - -
+             SERVICE X - - - - - -
+              CLIENT - O - - - - -
+               RIGHT - X - - - - -
+              SERVER - - X - - X -
+                LIKE - - - S - - -
+                  AD - - - O - - -
+              SEARCH - - - - - - O
+         LDAP-CLIENT - - - - - - S

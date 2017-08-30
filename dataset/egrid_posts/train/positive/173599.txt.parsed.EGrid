@@ -1,0 +1,13 @@
+             NETWORK O - -
+             MANAGER S - -
+                 RUN X - -
+              IWLIST X - -
+                ETH1 S - -
+                LIST O - -
+            NETWORKS X - -
+              ANYONE X - -
+      NETWORKMANAGER O - S
+            WIRELESS O X -
+                 USE - O -
+            TERMINAL - X -
+                WORK - - X

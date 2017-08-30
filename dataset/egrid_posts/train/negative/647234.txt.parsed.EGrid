@@ -1,0 +1,30 @@
+             DEFAULT X - - O - -
+           FREQUENCY X X - - - -
+            GOVERNOR X - - - - -
+                 CPU - X - - - -
+             MONITOR - X - - - -
+              APPLET - O X - - -
+          PREFERENCE - O O - - -
+               PANEL - X - - - -
+                TIME - - X - X -
+                THAT - - S - O -
+              CHANGE - - O - - -
+               CLICK - - X - - -
+                MENU - - O - - -
+            PASSWORD - - S - X -
+                  OH - - - O - -
+              OPTION - - - X - -
+             COMMAND - - - X - -
+                LINE - - - X - -
+                 E.G - - - X - -
+/SYS/DEVICES/SYSTEM/CPU/CPU0/CPUFREQ/SCALING_GOVERNOR - - - - O -
+            QUESTION - - - - S -
+           SOMETHING - - - - O -
+               THING - - - - S -
+                   + - - - - X -
+               ENTRY - - - - O -
+             MACHINE - - - - X -
+/ETC/DEFAULT/CPUFREQUTILS - - - - X -
+              ACCORD - - - - O -
+/ETC/INIT.D/CPUFREQUTILS - - - - X -
+              THANKS - - - - - X

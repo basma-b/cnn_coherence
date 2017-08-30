@@ -1,0 +1,16 @@
+                NAME S - - - -
+     TRACKPAD-DAEMON X - - - -
+                DONT - X - - -
+          DUCKDUCKGO - - O - -
+     VDPAU-VA-DRIVER - - - - X
+           VDPAUINFO - - - - O
+              VAINFO - - - - X
+ GSTREAMER0.10-VAAPI - - - - X
+                SUDO - - - - X
+            MODPROBE - - - - X
+              NVIDIA - - - - S
+             SERVICE - - - - X
+             LIGHTDM - - - - S
+                BOOT - - - - O
+                TTY1 - - - - X
+                  F1 - - - - O

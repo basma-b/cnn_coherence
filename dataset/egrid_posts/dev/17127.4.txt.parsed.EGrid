@@ -1,0 +1,16 @@
+                SUDO O - - -
+             SUDOERS X - - -
+              SOURCE S - - -
+               ERROR O - - -
+        /ETC/SUDOERS S - - -
+             COMMAND O - - -
+            ANYTHING X - - -
+           OWNERSHIP - O - -
+                ROOT - X - -
+           DIRECTORY - X - -
+            USERNAME - X - -
+                BOOT - - X -
+                USER - - X -
+                MODE - - X -
+                   U - - - X
+                THIS - - - O

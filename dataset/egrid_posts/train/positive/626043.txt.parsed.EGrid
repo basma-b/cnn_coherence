@@ -1,0 +1,13 @@
+             COMMAND X - - -
+           SOMETHING X - - -
+             CRONJOB X - - -
+                   * - X S X
+/USR/BIN/SOMEDIRECTORY/SOMECOMMAND - S - -
+              MINUTE - - O X
+              FORMER - - S -
+                HOUR - - X -
+              LATTER - - S -
+                  AD - - X -
+                 MAN - - O -
+             CRONTAB - - X -
+                  /1 - - - S

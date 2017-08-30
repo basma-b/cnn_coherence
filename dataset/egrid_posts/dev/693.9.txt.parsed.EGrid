@@ -1,0 +1,14 @@
+             COMMAND X - - - -
+            TERMINAL X - - - -
+                 ALL X - - - -
+          HARDDRIVES X - - - -
+           PARTITION X - - - -
+                  -H - S - - -
+                ONES - X - - -
+               DRIVE - - - O -
+          /ETC/FSTAB - - - X -
+                AUTO - - - X -
+                SHOW - - - - X
+                WORM - - - - S
+                INFO - - - - O
+                 ARP - - - - X

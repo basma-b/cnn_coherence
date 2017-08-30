@@ -1,0 +1,15 @@
+                  HI S - - - - -
+              DEVICE X X - - - -
+              WRITER S - - - - -
+          /DEV/CDROM X - - - - -
+            /DEV/DVD X - - - - X
+          /DEV/DVDRW O - - - - S
+                 ONE - O - - - -
+               CHECK - - X - - -
+          /ETC/FSTAB - - X - - -
+             NOTHING - - O - - -
+                THIS - - X - - -
+                 UDF - - - O - -
+                USER - - - S - -
+              NOAUTO - - - X - -
+             ALIASES - - - - - O

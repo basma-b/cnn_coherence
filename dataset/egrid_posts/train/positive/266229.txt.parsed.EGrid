@@ -1,0 +1,5 @@
+/PROC/SYS/NET/IPV4/IP_FORWARD - S - - - -
+                PORT - S - - - -
+              ROUTER - X - - - -
+         INFORMATION - - - - - X
+                HELP - - - - - O

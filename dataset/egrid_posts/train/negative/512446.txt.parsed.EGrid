@@ -1,0 +1,13 @@
+               CDROM X X -
+              OPTION X - -
+              UNHIDE - O -
+                SUDO - S X
+                  RO - O -
+            UID=1000 - O -
+          /DEV/CDROM - O -
+              UMOUNT - X -
+       /MEDIA/CDROM0 - O -
+            APTITUDE - - X
+              UPDATE - - S
+                LIST - - O
+        REPOSITORIES - - X

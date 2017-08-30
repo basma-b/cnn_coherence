@@ -1,0 +1,8 @@
+            ROOTSUDO - X -
+                   | - X -
+              NICOFS - S -
+                SUDO - S X
+                  .. - X -
+                LINK - - O
+                  -I - - O
+                GOAL - - O

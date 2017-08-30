@@ -1,0 +1,30 @@
+                 SSH O - - - - - - - - - - - - -
+                DEMO X - - - - - - - - - - - - -
+               ERROR X O X X X - - - - - - - - -
+                PORT O - - - - - - - - - - - - -
+          CONNECTION X X - - - - - - - - - - - -
+              REFUSE X - - - - - - - - - - - - -
+                 MAN S - - - - - - - - - - - - -
+             MACHINE - X - - - - - - - - - - - -
+              SOCKET - X - - - - - - - - - - - -
+               RESET - X - - - - - - - - - - - -
+                PEER - X - - - - - - - - - - - -
+             CULPRIT - O O - - - - - - - - - - -
+   /VAR/LOG/AUTH.LOG - X - - - - - - - - - - - -
+                   @ - - X - - - - - - - - - - -
+                HTTP - - O - - - - - - - - - - -
+//PASTEBIN.COM/A7BY0TNR - - X - - - - - - - - - - -
+            AUTH.LOG - - S - - - - - - - - - - -
+                SSHD - - X S X - - - - - - - - -
+               -RSB- - - X O X - - - - - - - - -
+         PERMISSIONS - - X - - - - - - - - S - -
+/ETC/SSH/SSH_HOST_RSA_KEY - - X - - - - - - - - - - -
+                FILE - - - S - X - - - - - - - -
+              OTHERS - - - X - - - - - - - - - -
+                  .. - - - - X - - - - - - - - -
+              ACCESS - - - - - O - - - - O - - -
+               VALUE - - - - - - - - O - - - - -
+/ETC/SSH/SSH_HOST_DSA_KEY - - - - - - - - - - - X - -
+               HTTPS - - - - - - - - - - - - X -
+//WIKI.UBUNTU.COM/DAPPERFLIGHT4 - - - - - - - - - - - - X -
+                   % - - - - - - - - - - - - - S

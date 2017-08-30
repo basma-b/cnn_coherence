@@ -1,0 +1,15 @@
+               THING X - - -
+                ROOT S S - -
+             CONTENT O - - -
+           UMASK=077 - O - -
+                WORK - O - -
+               FSTAB - X - -
+             COMMAND - X - -
+//192.168.178.100/BACKUP - X - -
+         /VAR/BACKUP - X - -
+                CIFS - S - -
+               THATS - O - -
+                LINE - S - -
+                USER - X - -
+                   U - S - -
+         PERMISSIONS - - - S

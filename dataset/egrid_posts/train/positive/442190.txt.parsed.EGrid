@@ -1,0 +1,15 @@
+                GRUB O -
+              LIVECD X -
+             WINDOWS O -
+               DRIVE X -
+             ANOTHER X -
+   /BOOT/GRUB/STAGE1 O -
+               ERROR O -
+                ROOT O -
+               HD0,1 X -
+              NUMBER S -
+                DISK X -
+                 CAT X -
+/BOOT/GRUB/DEVICE.MAP O S
+              DEVICE X -
+                FILE - O

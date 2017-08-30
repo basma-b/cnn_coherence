@@ -1,0 +1,16 @@
+                THAT O - - - - - -
+           PARTITION O - - - - - -
+                BIND - - X - - - -
+                 DEV - - X - - - -
+                 SYS - - X - - - -
+       GRUB-MKCONFIG - - X - - - -
+                /SYS - - O - - - -
+              CHROOT - - - X - - -
+                 END - - - X - - -
+/ETC/INITRAMFS-TOOLS/MODULES - - - X - - -
+                  -K - - - O - - -
+                 ALL - - - X - - -
+                FILE - - - - - X -
+                 SSD - - - - - X -
+    UPDATE-INITRAMFS - - - - - - S
+                CARE - - - - - - O

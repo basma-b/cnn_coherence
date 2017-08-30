@@ -1,0 +1,7 @@
+                   S X - X - - -
+         PERMISSIONS X - - - - -
+                 RWX X - - - - -
+              ANYONE - S - - - -
+                FILE - O - O - -
+               GROUP - X - - - -
+              APACHE - - - X - -

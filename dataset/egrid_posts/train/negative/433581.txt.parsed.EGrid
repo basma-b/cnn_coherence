@@ -1,0 +1,14 @@
+         RECONFIGURE X - - -
+              METHOD - S - -
+            KEYBOARD - X - -
+               MOUSE - X - -
+                 SET - S - -
+        XSERVER-XORG - O - -
+           XORG.CONF - X - -
+               STATE - X - -
+                DONT - S - -
+              BACKUP - X - -
+               THERE - - S -
+             NOTHING - - O -
+                CALL - - X -
+          FILESYSTEM - - - O

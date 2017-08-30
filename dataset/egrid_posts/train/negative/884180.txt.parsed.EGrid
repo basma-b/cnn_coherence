@@ -1,0 +1,8 @@
+            LOOPBACK O -
+                DHCP X -
+               RIGHT O -
+             NETWORK X -
+             MANAGER O -
+               STUFF X -
+/ETC/NETWORK/INTERFACES S -
+                 N-M O -

@@ -1,0 +1,11 @@
+             COMMAND X - - -
+                FILE X - - -
+                 SSH X - - -
+                 SCP - S - -
+              TX-DAN - X - -
+         192.168.0.2 - O - -
+          MYFILE.TXT - X - -
+         192.168.0.3 - X - -
+        MYNEWFIL.TXT - X - -
+            SOMESUCH - X - -
+                IDEA - - - X

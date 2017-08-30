@@ -1,0 +1,8 @@
+                IFUP S - - -
+                CALL O - - -
+/ETC/INIT/NETWORK-INTERFACE.CONF X - - -
+             UPSTART X - - -
+                HOME - - X -
+           DIRECTORY - - O X
+                ALSA - - - X
+             PROBLEM - - - X

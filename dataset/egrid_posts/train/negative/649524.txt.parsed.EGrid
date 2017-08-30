@@ -1,0 +1,25 @@
+               POWER S - - - - - - - - - -
+              INSTAL S - - - - - - - - - -
+             PACKAGE O - - - - - - - - - -
+               BREAK X - - - - - - - - - -
+                 RPM - - - X - - - - - - -
+             VERSION - - - S - - - - - - -
+                SITE - - - X - - - - - - -
+A2ENSITE/MOD/WHATEVER - - - - S - - - - - -
+           SYM-LINKS - - - - O O - - - - -
+              VHOSTS - - - - X - - - - - -
+             MODULES - - - - X - - - - - -
+                MORE - - - - - O - - - - -
+              BOTHER - - - - - X - - - - -
+            INSTANCE - - - - - - X - - - -
+               VHOST - - - - - - S - O - -
+                CALL - - - - - - X - - - -
+            MYDOMAIN - - - - - - X - - - -
+            SYM-LINK - - - - - - O - - - -
+           DIRECTORY - - - - - - X - - - -
+             COMMAND - - - - - - - S - - -
+/ETC/APACHE2/SITES-ENABLED/MYDOMAIN - - - - - - - O - - -
+                THAT - - - - - - - - O - -
+              CHANGE - - - - - - - - O - -
+              APACHE - - - - - - - - - O -
+              RELOAD - - - - - - - - - - X

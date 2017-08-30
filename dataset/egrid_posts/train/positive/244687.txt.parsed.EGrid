@@ -1,0 +1,13 @@
+             NETWORK X - - - -
+             MANAGER O - - - -
+            SYNAPTIC X - - - -
+                 WAY - O - - -
+                THIS - O - - -
+        DEPENDENCIES - O - O -
+              DOESNT - - - S -
+          AUTOREMOVE - - - O -
+             NOTHING - - - S -
+                SUDO - - - - X
+             APT-GET - - - - S
+                 RUN - - - - X
+     NETWORK-MANAGER - - - - O

@@ -1,0 +1,17 @@
+            CONFLICT O - - - - X - - - -
+             PACKAGE X - - - - - - - - -
+              SYSTEM X S - - - - - - - -
+                 K3B - O - - - - - - - -
+            KCONTROL - O S - - - - - - -
+   /USR/BIN/KCMSHELL - - X - - - - - - -
+               BREAK - - - X - - - - - -
+                PIPE - - - X - - - - - -
+              ANYONE - - - - S - - - - -
+                HERE - - - - X - - - - -
+     PACKAGE/VERSION - - - - - X - - - -
+                FILE - - - - - X - - - -
+                   % - - - - - - S - - -
+                THAT - - - - - - - O - -
+               CLICK - - - - - - - - S -
+              SERVER - - - - - - - - - X
+             ADDRESS - - - - - - - - - X

@@ -1,0 +1,15 @@
+                  PS X - - - -
+                GREP X - - - -
+               APACH O - - - -
+                LINE O - - - -
+   /USR/SBIN/APACHE2 X - - - -
+                  -K O - - - -
+                FORK - O - - -
+             APACHE2 - X - - -
+             PROCESS - X - - -
+                WORK - X - - -
+          CONNECTION - - X - -
+             TIMEOUT - - O - -
+                SSHD - - - S -
+              SERVER - - - - X
+                 SSH - - - - O

@@ -1,0 +1,5 @@
+           CHKCONFIG X - - -
+         UPDATE-RC.D - S - -
+             PRIMARY - - - X
+                BOOT - - - X
+                REST - - - X

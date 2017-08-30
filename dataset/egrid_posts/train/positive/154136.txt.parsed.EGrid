@@ -1,0 +1,12 @@
+              SYSTEM X - -
+             MODULES O - -
+                BOOT X - -
+                WIRE - X -
+                 NIC - O -
+                ETH0 - S -
+                  IP - O -
+                DHCP - X -
+                WIFI - O -
+                CARD - S -
+                THAT - - S
+                LOAD - - X

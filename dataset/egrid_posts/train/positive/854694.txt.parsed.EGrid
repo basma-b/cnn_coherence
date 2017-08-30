@@ -1,0 +1,31 @@
+              PEOPLE X - - - - - - - - -
+              LOCALE X - - - - - - - - -
+               POSIX X - - - - - - - - -
+             COMMAND X - - - - - - - - -
+                SUDO X - - - - - - - - -
+/USR/SBIN/UPDATE-LOCALE X - - - - - - - - -
+    LANG=EN_US.UTF-8 X - - - - - - - - -
+                THIS X - - - - - X - - -
+              CHANGE S - - - - - - - - -
+              EFFECT O - - - - - - - - -
+ /ETC/DEFAULT/LOCALE X - O - - - - - - -
+              UBUNTU - X - - - - - - - -
+             VERSION - X - - - - - - - -
+               10.04 - - X - - - - - - -
+                LANG - - S X X - - X - O
+    /ETC/ENVIRONMENT - - X - S - - - - -
+             CONTENT - - O - - - - - - -
+                 SET - - - O - - - - - -
+            LANGUAGE - - - X - - - - - -
+                PATH - - - O X - - - - -
+               VALUE - - - O S - - - - -
+            VARIABLE - - - - S - - - - -
+              SERVER - - - - - O - - - -
+            SOLUTION - - - - - O - - - -
+/ETC/SSH/SSHD_CONFIG - - - - - - X - - -
+               ISSUE - - - - - - X - - -
+              CLIENT - - - - - - - X - X
+             MACHINE - - - - - - - X - X
+         EN_US.UTF-8 - - - - - - - - - S
+                 BTW - - - - - - - - - X
+               THING - - - - - - - - - X

@@ -1,0 +1,15 @@
+                GRUB X - - -
+             PROBLEM - X - -
+             NETWORK - - X -
+             MANAGER - - X -
+              DEVICE - - O -
+               DRIVE - - S -
+                LOAD - - X -
+               CHECK - - X -
+       MESSAGES/DMSG - - O -
+              ERRORS - - X S
+              REPORT - - X -
+              DRIVER - - X -
+       CONFIGURATION - - - X
+               ISSUE - - - O
+      AUTHENTICATION - - - O

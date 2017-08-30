@@ -1,0 +1,20 @@
+                 ALL X - - - - -
+             APT-GET X - - - - -
+           GSTREAMER X - - - - -
+              CODECS X - - - - -
+                THAT - X - - - -
+              LAPTOP - - X - - -
+               XCHAT - - O - - -
+    /USR/BIN/FIREFOX - - S - - -
+             WARNING - - X - - X
+           DIRECTORY - - O X - O
+                FILE - - O - - -
+               FLASH - - O - - -
+         FLASHPLAYER - - X - - -
+           INSTALLER - - X - - -
+        INSTALLATION - - X - - -
+                PATH - - O - - -
+             MOZILLA - - X - - -
+/USR/LIB/MOZILLA/PLUGINS/ - - - X - -
+/USR/LIB/FIREFOX/PLUGINS - - - O - -
+/USR/BIN/MOZILLA/PLUGINS/ - - - - - S

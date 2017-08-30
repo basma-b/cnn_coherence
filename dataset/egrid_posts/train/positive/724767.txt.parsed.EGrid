@@ -1,0 +1,11 @@
+             COMMAND X - -
+            TERMINAL X - -
+             SESSION X - -
+                GRUB X - -
+              BACKUP - O -
+                 MBR - X -
+              SFDISK - O -
+                  DD - X -
+          OF=MBR.IMG - X -
+             COUNT=1 - O -
+               THANK - - X

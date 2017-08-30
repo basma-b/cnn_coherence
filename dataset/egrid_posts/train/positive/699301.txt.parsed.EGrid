@@ -1,0 +1,19 @@
+                 HMM X - - - - -
+              ERRORS O - - - - -
+/LIB/MODULES/2.6.18-028STAB067.4/MODULES.DEP O - O O - -
+                FILE X - - X - -
+           DIRECTORY X - - X - -
+            IPTABLES S - - - S -
+              KERNEL - X - - - -
+             MODULES - X - - - -
+           SOMETHING - X - - - -
+              OUTPUT - - X X - -
+                SUDO - - - O X -
+                  LS - - - X - -
+                 CAN - - - X - -
+                   P - - - - X -
+        /LIB/MODULES - - - - S -
+                BOTH - - - - S -
+              DEPMOD - - - - X -
+                  -A - - - - O -
+              ERRROS - - - - O -

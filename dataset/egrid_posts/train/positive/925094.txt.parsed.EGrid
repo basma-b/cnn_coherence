@@ -1,0 +1,11 @@
+                PORT O - -
+               INPUT X - X
+                   P O - X
+               DPORT X - -
+                   J X - X
+                DROP X - O
+            IPTABLES - - O
+                 TCP - - S
+                SUDO - - X
+            ARGUMENT - - X
+                  -P - - O

@@ -1,0 +1,15 @@
+           PARTITION S - - - - - - O - - - -
+                  HD X X - - - - S - O - - -
+           SOMETHING - O - - - - - - - - - -
+                   X - X - - - - - - X - - -
+              FORMAT - X - - - - - - - - - -
+                SDA1 - - - - S - - - - - - -
+                 END - - - - - - X - - - - -
+                GOAL - - - - - - S - - - - -
+                GRUB - - - - - - X - - - - -
+                 0,1 - - - - - - X - X - - -
+                 0,2 - - - - - - X - X - - -
+                SDAX - - - - - - - - X - - -
+                SDA2 - - - - - - - - S - - -
+             FLANNEL - - - - - - - - O - - -
+             ALRIGHT - - - - - - - - - X - -

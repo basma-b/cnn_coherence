@@ -1,0 +1,24 @@
+                FILE X - - - - - -
+              SYSTEM X - - - - O -
+           PARTITION X - - - - - -
+                CARD X - - - - - -
+                FIRE - S - - - - -
+                DISK - X - - - - -
+             UTILITY - X - - - - -
+             GPARTED - - S - - - -
+              SDCARD - - O - - - -
+                PART - - - X - - -
+              LAPTOP - - - X - - -
+        DIST-UPGRADE - - - - - S -
+             RELEASE - - - - - X -
+                  OK - - - - - X -
+LINUX-HEADERS-3.2.0-23 - - - - - O -
+               ERROR - - - - - - O
+ LINUX-IMAGE-GENERIC - - - - - - O
+               CHAIN - - - - - - O
+                 END - - - - - - X
+             PACKAGE - - - - - - X
+                LIST - - - - - - S
+              UPDATE - - - - - - O
+        REPOSITORIES - - - - - - S
+              MIDDLE - - - - - - X

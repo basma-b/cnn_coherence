@@ -1,0 +1,16 @@
+             CRONJOB S - - - -
+             PROCESS - S - - -
+                 USE - X - - -
+                  PS - X - - -
+                   | - X - - -
+                GREP - X - - -
+         COMMANDNAME - X - - -
+             CRONTAB - O - - -
+                 JOB - - O - -
+            SCHEDULE - - X - -
+                CRON - - S - -
+    /ETC/INIT.D/CRON - - X - -
+              STATUS - - O - -
+              SYSTEM - - - S -
+                FILE - - - O O
+              MIRROR - - - O -

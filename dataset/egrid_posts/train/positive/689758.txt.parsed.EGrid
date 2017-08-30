@@ -1,0 +1,9 @@
+     NAMEVIRTUALHOST X - - - -
+                   * X - - - -
+            80LISTEN X - - - -
+                THAT - S - - -
+               ADMIN - X - - -
+              ROUTER - - X - X
+                KIND - - X - -
+                 NAT - - - X -
+                HOME - - - - X

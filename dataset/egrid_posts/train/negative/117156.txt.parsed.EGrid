@@ -1,0 +1,12 @@
+             COMMAND X - - -
+                LINE X - - -
+            WIRELESS X X - -
+                CARD X X - -
+                DHCP O - - -
+              PCMCIA - X - -
+                SUDO - X - -
+            DHCLIENT - X - -
+               WLAN0 - S - -
+                HTTP - - X -
+//WWW.MOZILLA.COM/PRODUCTS/DOWNLOAD.HTML - - X -
+                  NP - - - X

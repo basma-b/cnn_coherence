@@ -1,0 +1,18 @@
+             PACKAGE X - - - -
+              KERNEL X - - - -
+             MODULES O O - - -
+              MODULE - O - - -
+                CANT - X - - -
+                   < - X - - -
+      /BUILD/.CONFIG - O - - -
+              CONFIG - S - - -
+               THERE - S S - -
+        BUILD-FOLDER - O - - -
+                RULE - O - - -
+KERNEL-SOURCE-2.6.12 - - O - -
+                 APT - - X - -
+/ETC/APT/SOURCES.LIST - - S - -
+           SYNAPTICS - - - O -
+               REPOS - - - S -
+               ERROR - - - X -
+             MESSAGE - - - S -

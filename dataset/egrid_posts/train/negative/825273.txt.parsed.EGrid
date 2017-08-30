@@ -1,0 +1,17 @@
+               GRUB2 S - -
+             DEFAULT O - -
+               10.10 - X -
+             VERSION - O -
+            VERSIONS - S -
+                GRUB - X -
+              LEGACY - O -
+                   $ - - O
+               STORY - - X
+                TYPE - - X
+              OUTPUT - - O
+                HOME - - X
+                 DIR - - X
+           INSTALLER - - S
+                  CD - - X
+             COMMAND - - O
+           DIRECTORY - - X

@@ -1,0 +1,8 @@
+           PARTITION X - -
+                  -L - S -
+           /MNT/NTFS - O -
+             EXAMPLE - X -
+       /DEV/WHATEVER - X -
+                ROOT - X -
+          /ETC/FSTAB - X -
+         CONNECTIONS - - S

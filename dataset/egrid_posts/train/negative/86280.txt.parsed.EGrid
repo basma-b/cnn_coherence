@@ -1,0 +1,9 @@
+                 USE X - - -
+                SUDO S X - -
+                 VNC S - - -
+             DEFAULT O - - -
+               LOGON X - - -
+              SCREEN S - - -
+            SHUTDOWN X - - -
+                BOOT X - - -
+    DPKG-RECONFIGURE - S - -

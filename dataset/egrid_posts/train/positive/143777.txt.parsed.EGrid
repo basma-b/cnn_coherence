@@ -1,0 +1,15 @@
+              FORMAT O X - - -
+             WINDOWS S - - - -
+          EVERYTHING O - - - -
+                  .. O - - - -
+               LINUX X - - - -
+           MKFS.VFAT - X - - -
+            /DEV/FD0 - S - - -
+           SOMETHING - O - - -
+               DRIVE - O - - -
+                FILE - X - S -
+              SYSTEM - O - - -
+                COPY - - - X -
+                 RAM - - - X -
+                DISK - - - - X
+              CHANGE - - - - S

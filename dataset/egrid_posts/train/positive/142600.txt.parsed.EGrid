@@ -1,0 +1,26 @@
+                THAT O - - - -
+               THERE S - - - -
+           APT-CACHE X - - - -
+            APTITUDE X - - - -
+/ETC/APT/SOURCES.LIST S - - - -
+            IPTABLES O S - - -
+               INPUT X O - - -
+                  -D X X - - -
+            HOSTNAME X X - - -
+                  -J S S - - -
+                OOPS S - - - -
+                  .. O - X - -
+             SERVICE X X - - -
+         CONNECTIONS O - - - -
+      HOST=LOCALHOST - S - - -
+                 TCP - X - - -
+            SETTINGS - O - - -
+                  OK - X - - -
+           WORKGROUP - O X - -
+ /ETC/SAMBA/SMB.CONF - X - - -
+            COMPUTER - - X - -
+             WINDOWS - - X - -
+             NETWORK - - X - -
+               SMB4K - - - - S
+                SUDO - - - - X
+                LSHW - - - - O

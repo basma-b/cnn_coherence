@@ -1,0 +1,27 @@
+             SOMEONE S - - - - - -
+                DPKG S - - - - - -
+           SOMETHING O - - - - - -
+                WORK S - - - - - -
+              SYSTEM S - - X - - -
+              ERRORS X - - - - - -
+             PACKAGE O - - - - - -
+                 RUN X - - - - - -
+                SUDO X - - - - X -
+             APT-GET X - - - - X -
+                  -F S - - - - - -
+              OUTPUT O - - - - - -
+                HTTP X X - - - - -
+//PASTE.UBUNTU-NL.ORG S - - - - - -
+                LINK O - - - - - -
+//PASTE.UBUNTU-NL.ORG/38164/ - X - - - - -
+               THING - X - - - - -
+                FILE - - - S - - -
+/VAR/LIB/DPKG/INFO/DAEMONTOOLS.POSTINST - - - - X - -
+              INSERT - - - - S - -
+                LINE - - - - X - -
+         DAEMONTOOLS - - - - - O -
+               PURGE - - - - - S -
+                EXIT - - - - - - X
+               ERROR - - - - - - O
+              SCRIPT - - - - - - S
+              STATUS - - - - - - O

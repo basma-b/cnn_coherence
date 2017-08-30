@@ -1,0 +1,12 @@
+               USERS X - - -
+               STORE X - - -
+               11.10 X - - -
+/VAR/SPOOL/CRON/CRONTABS - S - -
+        /ETC/CRON.D/ - X - -
+           /ETC/CRON - O - -
+                /ETC - - S -
+                ROOT - - X -
+                THAT - - - X
+         PERMISSIONS - - - X
+        /HOME/MYUSER - - - X
+             WHATNOT - - - X

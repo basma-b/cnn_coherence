@@ -1,0 +1,12 @@
+             KILLALL X - - - -
+                KIND X - - - -
+             PROCESS - X - - -
+                  ID - X - - -
+              CHANGE - O - - -
+                THIS - O - - -
+              GKSUDO - X - - -
+GNOME-SYSTEM-MONITOR - X - - -
+                 GUI - O - - -
+         TASKMANAGER - - X - -
+              GOTCHA - - - - S
+                INFO - - - - X

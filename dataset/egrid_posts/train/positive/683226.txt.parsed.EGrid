@@ -1,0 +1,25 @@
+.GNOME2/PANEL2.D/DEFAULT/LAUNCHERS S - - - - - -
+                USER - O S - - - -
+             DEFAULT - O - - - - -
+                 ETC - X - - - - -
+                LINE - X - - - - -
+            USERNAME - X - - - - -
+           SOMETHING - X - - - - -
+           /DEV/SDD1 - X - - - - -
+           UMASK=000 - O - - - - -
+               RIGHT - O - - - - -
+               ERROR - X - - - - -
+                NTFS - - O - - - -
+               BLOCK - - X - - - -
+             DEVICES - - S - - - -
+                FUSE - - X X - - -
+             LIBRARY - - O - - - -
+              EITHER - - - S - - -
+              VOLUME - - - O - - -
+                ROOT - - - X - - -
+             SUPPORT - - - O - - -
+                THAT - - - - S - -
+         ABRACADABRA - - - - O - -
+         PERMISSIONS - - - - X X -
+               SHARE - - - - X O -
+           PROBLLEMS - - - - - - X

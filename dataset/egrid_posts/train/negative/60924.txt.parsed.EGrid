@@ -1,0 +1,23 @@
+                 NFS S - - - - - - - - -
+               SETUP X - - - - - - - - -
+              EXPORT - O - - - - - - - -
+             PROBLEM - O - O - - - - - -
+          PERMISSION - - S - - S - - - -
+10.0.0.0/255.255.0.0 - - - X - - - - - -
+                SYNC - - - X - - - - - -
+                  RW - - - X - - - - - -
+              LAPTOP - - - S - - - - - -
+                SUDO - - - - - O - X - -
+               MOUNT - - - - - X - - - -
+                GOOD - - - - - - X - - -
+                 GOD - - - - - - X - - -
+                TIME - - - - - - - X - -
+             DESKTOP - - - - - - - O - -
+                /NFS - - - - - - - X - -
+               HAHAH - - - - - - - X - -
+                OOPS - - - - - - - X - -
+               TENET - - - - - - - - S -
+                NEWS - - - - - - - - X -
+              CLIENT - - - - - - - - O -
+             TIUNNEL - - - - - - - - - X
+           LOCALHOST - - - - - - - - - X

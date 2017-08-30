@@ -1,0 +1,6 @@
+             COMMAND S - -
+         RECONFIGURE X - -
+             PACKAGE O - -
+                SUDO - X -
+    DPKG-RECONFIGURE - S -
+             NOTHING - - X

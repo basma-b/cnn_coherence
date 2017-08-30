@@ -1,0 +1,46 @@
+                 ALL X - - - - - - - - - - - - - - -
+                CANT X - - - - - - - - - - - - - - -
+                 USE X - - - - - - - - - - - - - - -
+             APT-GET O - - - - - - - - X - - - X - -
+              SOURCE - S - X - - - - - - - - - - - -
+               ERROR - - - X X - - - - - - - - - - -
+                   W - - - X - - - - - - - - - - - -
+             PACKAGE - - - X - - - - - S - - - X - -
+                LIST - - - X - - - - - - - - - - - -
+                HTTP - - - X - - - - - - - - - - - -
+          HOARY/MAIN - - - X - - - - - - - - - - - -
+            PACKAGES - - - X - - - - - - - - - - - -
+/VAR/LIB/APT/LISTS/ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_HOARY_MAIN_BINARY-I386_PACKAGES - - - X - - - - - - - - - - - -
+                  NO - - - X - - - - - - - - - - - -
+                FILE - - - X - - - S - - - - - - - -
+           DIRECTORY - - - X - - - - - - - - - - - -
+                 PLS - - - S - - - - - - - - - - - -
+             MESSAGE - - - - S - - - - - - - - - - -
+             LIVE-CD - - - - X - - - - - - - - - - -
+                 MON - - - - - S - - - - - - - - - -
+                 K3B - - - - - O - - - - - - - - - -
+              SEARCH - - - - - X - - - - - - - - - -
+                 DVD - - - - - X - - - - - - - - - -
+            FUNCTION - - - - - O - - - - - - - - - -
+            SYNAPTIC - - - - - X - - - - - - - - - -
+              GOOGLE - - - - - - S - - - - - - - - -
+                THAT - - - - - - - S - - - - - S - -
+             SUPPORT - - - - - - - X - - - - - - - -
+               HTTPS - - - - - - - X - - - - - - - -
+//WIKI.UBUNTU.COM/JAVA - - - - - - - S - - - - - - - -
+             FIREFOX - - - - - - - O - - - - - - - -
+              INSTAL - - - - - - - - - O - - - - - -
+                 BUR - - - - - - - - - S - - - - - -
+             MOZILLA - - - - - - - - - X - - - - - -
+             PROTECT - - - - - - - - - X - - - - - -
+           SOMETHING - - - - - - - - - X - - - S - -
+                WICH - - - - - - - - - X - - - - - -
+                DONT - - - - - - - - - - - - - S - -
+               1.0.6 - - - - - - - - - - - - - X - -
+             UPGRADE - - - - - - - - - - - - - X - -
+     MOZILLA-FIREFOX - - - - - - - - - - - - - O - -
+                SUDO - - - - - - - - - - - - - X - -
+              UPDATE - - - - - - - - - - - - - X - -
+              SYSTEM - - - - - - - - - - - - - X - -
+/ETC/APT/SOURCES.LIST - - - - - - - - - - - - - O - -
+         HDPARM.CONF - - - - - - - - - - - - - - - X

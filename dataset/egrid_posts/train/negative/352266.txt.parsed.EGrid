@@ -1,0 +1,18 @@
+           CROSSOVER X - - X -
+              ROUTER X - - - -
+             CHANNEL - S - - -
+             MESSAGE - O - - -
+                STAB - X - - -
+              CHOICE - O - - -
+              CLIENT - X - - -
+                 WAY - X - - -
+                MDIX - - O - -
+                NICS - - X - -
+               PATCH - - O X -
+         TERMINOLOGY - - X - -
+               RIGHT - - X - -
+              OUTPUT - - - - X
+               FATAL - - - - X
+/LIB/MODULES/2.6.38-10-GENERIC/MODULES.DEP.TEMP - - - - O
+               WRITE - - - - X
+          PERMISSION - - - - X

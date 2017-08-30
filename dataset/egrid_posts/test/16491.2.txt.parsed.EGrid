@@ -1,0 +1,21 @@
+                 DNS O - - - -
+              GOOGLE X - - - -
+/ETC/DHCP/DHCLIENT.CONF S - - - -
+             PROBLEM O - - - -
+                   | X - - - -
+                SUDO X - - - -
+                 TEE X - - - -
+           /DEV/NULL X - - - -
+                WORK X - - - -
+              REBOOT - - X - -
+          DIFFERENCE - - - - O
+         CHROOT/JAIL - - - - X
+                 DIR - - - - X
+             SOMEONE - - - - S
+                HOME - - - - X
+              CHROOT - - - - O
+                CANT - - - - X
+            ANYTHING - - - - O
+                RIDE - - - - O
+                FILE - - - - X
+         PERMISSIONS - - - - O

@@ -1,0 +1,17 @@
+              SOURCE O - - - - - - -
+                REPO S - - - - - - -
+        SOURCES.LIST X - - - - - - -
+            ANYTHING - S - - - - - -
+              ERRORS - - S - - - - -
+                LIST - - O - - - - -
+                HTTP - - - O - - - -
+                GZIP - - - X - - - -
+              RETURN - - - O - - - -
+               ERROR - - - X - - - -
+                CODE - - - X - - - -
+             ARCHIVE - - - S - - - -
+         PERMISSIONS - - - X - - - -
+             FAILURE - - - O - - - -
+                 LOT - - - - O - - -
+              DRIVER - - - - - - X -
+               SENSE - - - - - - X -

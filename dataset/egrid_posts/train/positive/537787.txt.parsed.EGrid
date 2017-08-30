@@ -1,0 +1,15 @@
+             DEFAULT X - - - -
+         PERMISSIONS X - O - -
+         DIRECTORIES S O - - -
+                WORK O - - - -
+                FILE O - - - -
+               ICANT S - - - -
+                  CD X - - - -
+           DIRECTORY X - - O -
+                   D - X - - -
+               CHMOD - S - - -
+                   \ - X - - -
+            SETTINGS - S - - -
+                TIME - - X - -
+                DONT - - X - -
+               UMASK - - - O S

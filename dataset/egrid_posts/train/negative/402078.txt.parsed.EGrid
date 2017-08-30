@@ -1,0 +1,19 @@
+               ERROR X - - -
+              ACCESS S - - -
+                USER X - - -
+                ROOT X - - -
+                 USE X - - -
+            PASSWORD S - - -
+                LOSE S - - -
+              PACKET O - - -
+              ANSWER - - O -
+             APT-GET - - S S
+       MYSQL-DOC-5.0 - - O -
+             BROWSER - - X -
+/USR/SHARE/DOC/MYSQL-DOC-5.0/REFMAN-5.0-EN.HTML-CHAPTER/INDEX.HTML - - S -
+                 LOT - - O -
+         NDISWRAPPER - - - O
+             WINDOWS - - - X
+             DRIVERS - - - X
+               HTTPS - - - O
+//HELP.UBUNTU.COM/COMMUNITY/WIFIDOCS/DRIVER/NDISWRAPPER - - - X

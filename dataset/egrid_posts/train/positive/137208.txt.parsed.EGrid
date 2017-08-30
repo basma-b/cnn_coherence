@@ -1,0 +1,18 @@
+               3C509 O - - - - - - -
+        /ETC/MODULES X - - - - X - -
+/ETC/NETWORK/INTERFACES O - - - - - - -
+              DRIVER O S - - - - - -
+          INTERFACES X - - - - - - -
+                FILE O - - - - - - -
+             WINDOWS - X - - - - - -
+               THING - X - - - - - -
+             NETWORK - X - - - - - -
+                CARD - S - S - - - -
+              SYSTEM - X - - - - - -
+             PACKAGE - X - - - - - -
+              KERNEL - X - X X - - -
+              MODULE - O X - - - - X
+            HARDWARE - X - - X - - -
+             SUPPORT - - - O - - - -
+             MODULES - - - - S - - -
+                LOAD - - - - - X - -

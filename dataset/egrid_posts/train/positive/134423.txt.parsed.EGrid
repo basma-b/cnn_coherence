@@ -1,0 +1,9 @@
+              GCC3.4 O - - - -
+                 SMT - X - - -
+              EXPORT - X - - -
+                 CC= - X - - -
+              KERNEL - X - X -
+             HEADERS - O - - -
+              NEWBIE - O - - -
+  KERNEL-HEADERS-386 - - - O -
+             PACKAGE - - - - O

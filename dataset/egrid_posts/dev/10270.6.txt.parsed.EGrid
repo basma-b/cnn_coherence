@@ -1,0 +1,13 @@
+             PACKAGE X O - - -
+             APT-GET - S - - -
+               PURGE - S - - -
+             CONFIGS - O - - -
+                 ALL - S - - -
+                SUDO - X - - -
+             FIREFOX - - S - -
+            FACEBOOK - - X - -
+              UPDATE - - O - -
+                 BOX - - - X -
+                  PS - - - - X
+               |GREP - - - - X
+              PROSVC - - - - X

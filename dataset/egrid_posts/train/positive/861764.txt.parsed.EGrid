@@ -1,0 +1,11 @@
+             VERSION O - - - -
+             LIBRARY X - - - -
+               ORDER S - - - -
+                 PKG - S - - -
+                  LD - X - - -
+                PATH - - O - -
+          LDCONFIG-V - - X - -
+              OUTPUT - - S - -
+                 LDD - - - - S
+           REFERENCE - - - - X
+                  .. - - - - X

@@ -1,0 +1,18 @@
+          INTERFACES S - -
+/ETC/INIT.D/NETWORKING S - -
+                  .. O - -
+           SOMETHING S - -
+               DRIVE X - -
+                 NUT X - -
+            GUNTBERT O - -
+             APT-GET S S -
+        DHCP3-CLIENT O - -
+                 LEM - X -
+            DHCLIENT - O X
+               DHCPD - - O
+                 NET - - X
+                 BOX - - X
+                  IP - - X
+             ADDRESS - - O
+                  -S - - S
+             PACKAGE - - X

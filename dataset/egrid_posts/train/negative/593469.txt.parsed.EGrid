@@ -1,0 +1,5 @@
+           PARTITION X -
+             SHCEMES S -
+                 MAC X X
+              ROUTER - S
+                DHCP - O

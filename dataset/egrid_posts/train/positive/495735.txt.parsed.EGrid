@@ -1,0 +1,15 @@
+       BACKING-STORE X - - - -
+                  VG X - S - -
+              INSTAL - X - - -
+              INITRD - X - X -
+               IMAGE - X - X -
+                TIME - - X - -
+              UBUNTO - - S - -
+             DEVICES - - S - -
+               POINT - - O - -
+               SOUND - - - S -
+              UPDATE - - - O -
+                TOOL - - - O -
+                 ALL - - - - O
+                SUDO - - - - X
+    UPDATE-INITRAMFS - - - - S

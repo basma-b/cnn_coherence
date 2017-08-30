@@ -1,0 +1,20 @@
+      WPA-SUPPLICANT O - - - - - -
+          ENCRYPTION X - - - - - -
+              ROUTER X - - - - - -
+                 WEP - S - - - - -
+                 WPA - - S - - - -
+               SETUP - - X - - - -
+              DRIVER - - O - - X -
+         NDISWRAPPER - - - X X - -
+             BCM43XX - - - X O - -
+               LSMOD - - - - X - -
+               |GREP - - - - S - -
+               THERE - - - - - S -
+                NAME - - - - - O -
+             BCM4318 - - - - - X -
+                 BCM - - - - - - O
+         INSTRUCTION - - - - - - O
+                PAGE - - - - - - X
+               HTTPS - - - - - - X
+//HELP.UBUNTU.COM/COMMUNITY/WIFIDOCS/DRIVER/BCM43XX/FEISTY_NO-FLUFF - - - - - - X
+                STEP - - - - - - X

@@ -1,0 +1,12 @@
+          KEYBOARD.C X - - -
+             RAWMODE O - - -
+             KEYCODE X - - -
+               ERROR O - - -
+               DMESG X - - -
+                BIOS X - - -
+                BEEP O - - -
+                HELP X - - -
+                 KEY - O - -
+              KEYMAP - S - -
+              KERNEL - X - -
+                SURE - - - X

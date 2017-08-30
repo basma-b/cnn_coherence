@@ -1,0 +1,13 @@
+             PACKAGE S - - -
+        DEPENDENCIES O - - -
+               FORCE - X - -
+                RISK - X - -
+                DPKG - S - -
+              OPTION - X - -
+                 MAN - X - -
+                BORK - X - -
+              SYSTEM - X - -
+               STORY - O - -
+GNOME-SHELL-EXTENSIONS-USER-THEME - - - O
+  WEBUPD8TEAM-GNOME3 - - - X
+GNOME-SHELL-EXTENSIONS-COMMON - - - X

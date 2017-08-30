@@ -1,0 +1,26 @@
+            COMMAND1 X - - - - - - -
+            COMMAND2 O - - - - - - -
+                BASH X - - - - - - -
+              SCRIPT X - - - - X - -
+             COMMAND X - - - - - - -
+                 ONE X S - - - - - -
+               OTHER X - - - - - - -
+               SLEEP - X - - - - - -
+           APT-CACHE - X - - - - - -
+              POLICY - X - - - X - -
+             PACKAGE - X - - X - S -
+                LIST - - X - X - - -
+             UPGRADE - - X - - - X -
+                THEN - - - X - - - -
+                NEED - - - - X - - -
+              SOURCE - - - - X S - -
+              UPDATE - - - - X - - -
+                 ALL - - - - - O - -
+                KIND - - - - - X - -
+              OUTPUT - - - - - X - -
+                  .. - - - - - O - -
+                THIS - - - - - X - -
+               SETUP - - - - - - O -
+STABLE/TESTING/STABLE-VOLATILE - - - - - - X -
+                 ERM - - - - - - - X
+              UBUNTU - - - - - - - X

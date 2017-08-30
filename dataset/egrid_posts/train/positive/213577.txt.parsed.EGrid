@@ -1,0 +1,14 @@
+              ROUTER O - - - - -
+                  PC X X - - - -
+               LINUX O - - - - -
+             WINDOWS X - - - - -
+            INTERNET O - - - - -
+                  IP - O - - - -
+             GATEWAY - X - - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - O - - - -
+                   O - - - - X -
+                 NAT - - - - - X
+                  -A - - - - - S
+                ETH0 - - - - - X
+                  -J - - - - - X
+          MASQUERADE - - - - - X

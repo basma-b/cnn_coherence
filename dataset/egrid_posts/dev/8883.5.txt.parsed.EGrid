@@ -1,0 +1,13 @@
+           DISKSPACE O - - -
+                /VAR X - - -
+              SERVER - X - -
+                 LOG - X - -
+               VALUE - - - O
+           /DEV/SDA1 - - - X
+            /DEV/SDA - - - X
+           DIRECTORY - - - X
+                /MNT - - - S
+                LINE - - - S
+             EXAMPLE - - - O
+                DISK - - - X
+      CONFIGUREATION - - - X

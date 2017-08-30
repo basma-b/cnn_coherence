@@ -1,0 +1,13 @@
+             INITTAB X - O X - - -
+            NOTFOUND O - - - - - -
+                USER X - - - - - -
+                ROOT X - - - - - -
+             MANAGER X - - - - - -
+               CERTO O - - - - - -
+              SCRIPT - X - - - - -
+            MINGETTY - - O - - - -
+            PASSWORD - - X - - - -
+                INIT - - - X - - -
+             SYMLINK - - - O - - -
+                   ' - - - - S - -
+                  -F - - - - S - -

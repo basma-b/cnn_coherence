@@ -1,0 +1,26 @@
+            QUESTION O - - - - - - -
+                  DD - X - - - - - -
+     IF=/DEV/URANDOM - X - - - - - -
+         OF=/DEV/FB0 - O - - - - - -
+                   X - S - S - - - -
+                KIND - - X - - - - -
+              DEVICE - - X - - - - -
+               FRAME - - - X - - - -
+              BUFFER - - - X - - - -
+            INTEREST - - - O - - - -
+               START - - - X - - - -
+           SOMETHING - - - O - - - -
+                TIME - - - - S - - -
+        SOURCES.LIST - - - - O - - -
+                FILE - - - - - X - -
+               PRESS - - - - - X - -
+               -LSB- - - - - - S - -
+               -RSB- - - - - - X - -
+                   + - - - - - X - -
+                  F2 - - - - - X - -
+                TYPE - - - - - O - -
+/ETC/APT/SOURCES.LIST - - - - - X - -
+                   < - - - - - X - -
+                 WAY - - - - - X - -
+             BUREPE2 - - - - - - S -
+             PROCESS - - - - - - - O

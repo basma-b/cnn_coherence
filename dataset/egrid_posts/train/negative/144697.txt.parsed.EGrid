@@ -1,0 +1,27 @@
+           2.6.15-20 X - - - - - - - - -
+             NOTHING - S - - - - - - - -
+             MODULES - S - X O - - - - -
+                 IMO - S - - - - - - - -
+             SUPPORT - O - - - - - - - -
+             DEFAULT - X - - - - - - - -
+              KERNEL - X - X - - - - - -
+                  .. - X - - - - - - - -
+            REISERFS - - S - - - - - - -
+              MODULE - - X O - - - - - -
+                 DIR - - - X - - - - - -
+                 WAY - - - - - O - - - -
+                TIME - - - - - - - X - -
+      OPENSSH-SERVER - - - - - - - S - -
+              UPDATE - - - - - - - X - -
+                REPO - - - - - - - S - -
+             VERSION - - - - - - - O - -
+                SUDO - - - - - - - X - -
+                  -I - - - - - - - X - -
+           /BD./US./ - - - - - - - S - -
+/ETC/APT/SOURCES.LIST - - - - - - - X - -
+             APT-GET - - - - - - - X - -
+              CHANGE - - - - - - - O - -
+             COUNTRY - - - - - - - - X -
+                   C - - - - - - - - O -
+                   \ - - - - - - - - X -
+                  OK - - - - - - - - - X

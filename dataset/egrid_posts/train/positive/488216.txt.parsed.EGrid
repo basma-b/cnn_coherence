@@ -1,0 +1,10 @@
+              STRING X X S X
+                FILE X - - -
+                 DIR X - - -
+            TERMINAL X - - -
+                   * - S - O
+               SPACE - - O -
+               QUOTE - - X -
+               STUFF - - - O
+                 DOT - - - X
+                STAR - - - X

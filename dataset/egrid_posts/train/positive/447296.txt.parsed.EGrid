@@ -1,0 +1,15 @@
+                RULE O - - - -
+              VENDOR X - - - -
+              DEVICE X O - - -
+              INSERT X - - - -
+              MODULE S - - - -
+                LOAD O - - - -
+                 USB X X - - -
+                   A - X - - -
+               LSMOD - X - - -
+                   | - X - - -
+                GREP - X - - -
+               APPLE - S - - -
+              SECOND - - O - -
+               DMESG - - - - S
+            ANYTHING - - - - O

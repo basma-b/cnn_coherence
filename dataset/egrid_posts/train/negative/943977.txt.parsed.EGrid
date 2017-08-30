@@ -1,0 +1,16 @@
+          PARAMETERS O - - - - -
+             VERSION X - - - - -
+               SCITE - S - - - -
+              DEBIAN - X - - - -
+               HOARY - X - - - -
+                GRUB - - S - - -
+             INSTALL - - X - - -
+           PARTITION - - - S - -
+              DRIVER - - - S - -
+                DATA - - - X - -
+             WINDOWS - - - X - -
+                DISK - - - - X -
+              SYSTEM - - - - X -
+            /DEV/SDA - - - - - X
+              OUTPUT - - - - - O
+            PASTEBIN - - - - - X

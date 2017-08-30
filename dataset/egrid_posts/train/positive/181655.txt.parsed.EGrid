@@ -1,0 +1,10 @@
+                USER X - - -
+         PERMISSIONS O O - -
+          FILESYSTEM X - - X
+               FAT32 - S - -
+              ACCESS - X - -
+                DATA - O - -
+               DRIVE - X - -
+            CHECKOUT - - - X
+                 SVN - - - O
+                  =/ - - - O

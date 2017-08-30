@@ -1,0 +1,15 @@
+                BODY X - - - - -
+          CONNECTION S - X - - -
+             TIMEOUT - O - - - -
+/ETC/SSH/SSHD_CONFIG - X - - - -
+              NUMBER - X - - - -
+                TIME - - O - - -
+              SERVER - - X - - -
+                 SSH - - - X - -
+       FUNCTIONALITY - - - O - -
+                  .. - - - - X -
+                HTTP - - - - O -
+           WEBSEARCH - - - - S -
+              ESCOTT - - - - - X
+                FILE - - - - - O
+       /HOME/DEXTER/ - - - - - X

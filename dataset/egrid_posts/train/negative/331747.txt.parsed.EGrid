@@ -1,0 +1,13 @@
+                SWAP X - - - -
+               SPACE X - - - -
+              SYSTEM X - - - -
+                TYPE O - - - -
+           PARTITION S - - X X
+           /DEV/SDA1 - - S - -
+                   / - - S - -
+                ROOT - - O - -
+               DRIVE - - - X -
+              NUMBER - - - X -
+               FDISK - - - - X
+                  -L - - - - O
+                LIST - - - - O

@@ -1,0 +1,10 @@
+                 ALL S - - - -
+                EXPR O - - - -
+               CHMOD - X - X -
+           WILDCARDS - S - - -
+                  ./ - X - - -
+                THIS - - X - -
+                FILE - - - X -
+                LIST - - - O -
+         EXPRESSIONS - - - O -
+              SAMPLE - - - - X

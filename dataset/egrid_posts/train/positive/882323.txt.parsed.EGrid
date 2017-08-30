@@ -1,0 +1,17 @@
+       OPTIMISATIONS X - -
+               10.04 X - -
+             NETBOOK X - -
+                THAT - S -
+       GNOME/OPENBOX - S -
+            POWERTOP - X -
+                 SSD - X -
+             NOATIME - O -
+               FSTAB - X -
+                NOOP - O -
+           SCHEDULER - O -
+               SPEED - O -
+                DISK - S -
+                EXT4 - S -
+                THIS - - X
+                /TMP - - X
+                 RAM - - X

@@ -1,0 +1,10 @@
+              EFFECT X - - -
+                LINE X - - -
+CONFIG_NETFILTER_NETLINK=M X - - -
+CONFIG_NF_CT_NETLINK=M X - - -
+CONFIG_SCSI_NETLINK=Y X - - -
+IN/USR/SRC/LINUX-HEADERS-2.6.24-22-GENERIC/.CONFIG X - - -
+            USERPACE - S - -
+           INTERFACE - O - -
+                   % - - X -
+                THIS - - - S

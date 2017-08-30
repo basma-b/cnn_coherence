@@ -1,0 +1,26 @@
+              ANYONE S - - - -
+                TASK O - - - -
+                12PM X - - - -
+                 7PM X - - - -
+                LINE - O O - -
+             CRONTAB - X - - -
+                TIME - - O - -
+                 DAY - - X - -
+                  /2 - - X - -
+                HOUR - - X - -
+               FIELD - - X - -
+                WAIT - - X - -
+                   * - - - S -
+                  -L - - - O -
+                  -U - - - S -
+            USERNAME - - - X -
+                SUDO - - - X -
+              OUTPUT - - - S -
+                 TIM - - - X -
+/HOME/TIME/SCRIPTS/BACKUP_FIT_WIT - - - X -
+              SCRIPT - - - S -
+                 CAT - - - O -
+                USER - - - X -
+              STRACE - - - X -
+  /HOME/TIM/WHATEVER - - - O -
+                  TY - - - - X

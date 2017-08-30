@@ -1,0 +1,20 @@
+             CONTROL - X - -
+                   | - S - -
+                 BUG - X - -
+                LINK - S - -
+                 WAY - O - -
+             COMMENT - X - -
+               THERE - S - -
+             COMMAND - O - -
+               GCONF - S - -
+                  F2 - S - -
+         GCONFTOOL-2 - X - -
+                 SET - X - -
+/APPS/METACITY/GENERAL/BUTTON_LAYOUT - X - -
+                TYPE - O - -
+              STRING - X - -
+                MENU - S - -
+            TERMINAL - X - -
+                WORK - - X -
+            MAN-PAGE - - - S
+              DETAIL - - - X

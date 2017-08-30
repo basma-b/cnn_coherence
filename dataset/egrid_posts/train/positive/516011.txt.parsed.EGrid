@@ -1,0 +1,13 @@
+              DOESNT X - -
+                WORK S - -
+    /ETC/VSFTPD.CONF O O -
+                SUDO X X -
+  /ETC/INIT.D/VSFTPD S S -
+              VSFTPD - O -
+                LIKE - X -
+              CHANGE - X -
+              EFFECT - O -
+                LIST - X -
+             OPTIONS - X -
+                 MAN - X -
+         VSFTPD.CONF - X -

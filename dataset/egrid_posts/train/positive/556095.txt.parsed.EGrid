@@ -1,0 +1,25 @@
+                HELP O - - -
+             RRDTOOL X - - S
+            QUESTION O - - -
+              REASON O - - -
+              ANSWER S - - -
+                 MAX X - - -
+                 AVG X - - -
+                 MIN X - - -
+               VALUE O - - O
+            DATABASE S - S -
+                DATA O - O -
+              SECOND X - - -
+              OUTPUT X - - -
+               TOTAL X - - -
+             NOTHING X - - -
+                   | - X - -
+               DAMIR - O - -
+                HTTP - - S -
+//PASTE-IT.NET/PUBLIC/VCA4A59/ - - S -
+              MINUTE - - X -
+              SCRIPT - - X -
+                THIS - - X -
+              UPDATE - - S -
+           STATS.RRD - - S -
+           N:123:432 - - S -

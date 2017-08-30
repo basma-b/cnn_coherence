@@ -1,0 +1,15 @@
+              LIVECD - X - - - - - - - - -
+                SUDO - - X - - - - - - - -
+             SWAPOFF - - X - - - - - - - -
+                  -A - - S - - - - - - - -
+                TYPE - - - X - - - - - - -
+                /COW - - - X - - - - - - -
+           OVERLAYFS - - - X - - - - - - -
+                THIS - - - - S - - - - - -
+                  CD - - - - X - - - - - -
+          DIFFERENCE - - - - - - O - - - -
+                BOOT - - - - - - - X X - -
+                FLAG - - - - - - - X X - -
+              SYSTEM - - - - - - - X - - -
+                GRUB - - - - - - - - S - -
+                 OKY - - - - - - - - - - X

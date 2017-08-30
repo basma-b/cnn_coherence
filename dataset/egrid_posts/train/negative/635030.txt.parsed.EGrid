@@ -1,0 +1,14 @@
+           PARTITION S - -
+              OPTION O - -
+           INSTALLER X - -
+                   / - X -
+               SHELL - X -
+             DESKTOP - X -
+                  WM - O -
+              OUTPUT - - X
+         LSB_RELEASE - - X
+                 -SC - - X
+             COMMAND - - X
+               PRESS - - X
+          CTRL+ALT+T - - X
+            TERMINAL - - O

@@ -1,0 +1,6 @@
+         ./CONFIGURE O -
+             INSTALL O -
+              ERRORS S -
+             PROGRAM S -
+             MPLAYER S -
+          EVERYTHING O -

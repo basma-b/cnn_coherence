@@ -1,0 +1,20 @@
+                GRUB - X - - -
+               ISSUE - X - - -
+              FORMAT - X X - -
+             WINDOWS - X O O -
+               LINUX - S - - -
+                 HDD - O - - -
+              UBUNTU - - S - -
+                  CD - - O - -
+               DRIVE - - X - -
+                DISK - - X - -
+             UTILITY - - X - -
+           PARTITION - - O - -
+               LABEL - - O - -
+               RIGHT - - O - -
+                BOOT - - - X -
+                REST - - - O -
+            TERMINAL - - - - X
+             APT-GET - - - - S
+LINUX-HEADERS-GENERIC - - - - S
+                CARD - - - - X

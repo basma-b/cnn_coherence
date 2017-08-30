@@ -1,0 +1,16 @@
+          EQUIVALENT X - - - - - -
+        CONF.MODULES X - - - - - -
+    /ETC/MODPROBE.D/ - - X - - - -
+                THAT - - - X - S -
+      UPDATE-MODULES - - - O - O -
+                FILE - - - - O O -
+                  TA - - - - - S -
+                LINE - - - - - X -
+           HOMEPNA=1 - - - - - X -
+               PARAM - - - - - O -
+            MODPROBE - - - - - O -
+                XORG - - - - - - X
+               XFREE - - - - - - S
+            XSERVERS - - - - - - O
+               WARTY - - - - - - S
+             RELEASE - - - - - - O

@@ -1,0 +1,13 @@
+            QUESTION - X - - - -
+              UBUNTU - - X - - -
+                DISK - - X S - -
+               CHECK - - X O - -
+              ERRORS - - X - - -
+                BOOT - - X - - -
+              LIVECD - - - X - -
+                   / - - - - - X
+                SUDO - - - - - X
+             APT-GET - - - - - S
+             LIGHTDM - - - - - O
+          AUTOREMOVE - - - - - O
+        DEPENDENCIES - - - - - O

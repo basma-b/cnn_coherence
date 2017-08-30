@@ -1,0 +1,9 @@
+                SWAP X X - - X O
+           PARTITION S X - - X -
+                 USE O - - - - -
+              SWAPON - X - - - -
+                  -S - S - - - -
+                LIST - O - - - -
+          /ETC/FSTAB - X - - - -
+          DEFINITION - - - - O -
+               FSTAB - - - - X -

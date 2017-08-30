@@ -1,0 +1,16 @@
+              ACCESS X - - - - - -
+                USER X - - - - - -
+     /ETC/HOSTS.DENY - X - - - - -
+                   < - S - - - - -
+               USERS - S - - - - -
+                  IP - S - - - - O
+               RANGE - X - - - - -
+             192.168 - - X - - - -
+                   * - - - - X - -
+    /ETC/HOSTS.ALLOW - - - - X - -
+          HOSTS.DENY - - - - S - -
+                FILE - - - - O - -
+               THING - - - - S - -
+               CHECK - - - - O - -
+              LOGINS - - - - - - O
+              SERVER - - - - - - X

@@ -1,0 +1,10 @@
+              KERNEL X - - -
+              DRIVER X - - -
+                SUDO - X - -
+    UPDATE-INITRAMFS - O - -
+           BLACKLIST - - - X
+    /ETC/MODPROBE.D/ - - - O
+                FILE - - - X
+        NOUVEAU.CONF - - - O
+                LINE - - - O
+      BLACKLIST.CONF - - - X

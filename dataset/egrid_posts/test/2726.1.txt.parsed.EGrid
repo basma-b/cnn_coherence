@@ -1,0 +1,9 @@
+                  DD X - X
+       IF=/DEV/CDROM X - X
+          OF=/MY.ISO S - S
+                 ISO - O -
+                   / - X -
+              MY.ISO - - S
+               ERROR - - O
+               BLOCK - - X
+              DEVICE - - O

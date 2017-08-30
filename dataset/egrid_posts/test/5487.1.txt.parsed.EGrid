@@ -1,0 +1,7 @@
+              KERNEL X - - -
+               PANIC O - - -
+                SYNC X - - -
+               TIMER S - - -
+           INTERRUPT X - - -
+               TAINT O - - -
+               CHECK - X - -

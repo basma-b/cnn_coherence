@@ -1,0 +1,14 @@
+             ADDRESS X X - - O -
+             COMMAND X - - - - -
+                LINE X - - - - -
+            IFCONFIG - S - - - -
+            10.0.0.2 - O - - - -
+              .0.0.2 - O - - - -
+                 HMM - - X - - -
+              SUBNET - - X - - -
+                MASK - - X - - -
+             GATEWAY - - X - - -
+             DINAMIC - - - - S -
+                 ONE - - - - X -
+                   / - - - - - S
+                CARE - - - - - X

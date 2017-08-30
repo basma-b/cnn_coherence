@@ -1,0 +1,12 @@
+           SOMETHING O - - - - - -
+           DIRECTORY X - - - - - -
+         PERMISSIONS O - - - - O -
+                ROOT - X - X - O -
+            TERMINAL - - - X - X -
+                SUDO - - - - - S -
+                  .. - - - - - X -
+                CANT - - - - - S -
+                   < - - - - - O -
+               VALUE - - - - - X -
+                   > - - - - - S -
+                 DIR - - - - - O -

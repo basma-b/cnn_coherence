@@ -1,0 +1,25 @@
+               FSTAB X - - - X -
+                LINE X - - - S -
+               KANJI - - X X S -
+               MEDIA - - X - - -
+                 NFS - - S - - -
+             HELLION - - O - - -
+               MOUNT - - X - - -
+             COMMAND - - X - - -
+              EXPORT - - - O O -
+             ADDRESS - - - X - -
+                THIS - - - - X -
+                SUDO - - - - X -
+           AUTOMOUNT - - - - X -
+                  -A - - - - O -
+                 ONE - - - - X -
+             MACHINE - - - - X -
+               HTTPS - - - - O -
+//HELP.UBUNTU.COM/COMMUNITY/SETTINGUPNFSHOWTO - - - - X -
+                 MAN - - - - X -
+                PAGE - - - - O -
+                HINT - - - - S -
+         /HOME/USERS - - - - X -
+       /EXPORT/USERS - - - - X -
+                NONE - - - - X -
+                BIND - - - - X -

@@ -1,0 +1,9 @@
+                FSCK S - - X - -
+                WUBI X - - - - -
+              REBOOT - X - - - -
+              CHKDSK - - - O - -
+            ANYTHING - - - O - -
+               TOUCH - - - - - X
+          /FORCEFSCK - - - - - S
+                FILE - - - - - X
+AFTER/DURING/WHATEVER - - - - - O

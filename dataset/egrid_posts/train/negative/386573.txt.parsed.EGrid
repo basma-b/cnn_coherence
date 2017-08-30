@@ -1,0 +1,14 @@
+             COMMAND X - - - -
+                DISK O - - - -
+              ERRORS X - - - -
+              CHKDSK X - - - -
+                 WIN X - - - -
+              THANKS - S - - -
+                FILE - X X - -
+              SYSTEM - O O - -
+                ROOT - - X - -
+              REBOOT - - - X -
+                SUDO - - - X -
+               TOUCH - - - X -
+          /FORCEFSCK - - - X -
+               TOTEM - - - - O

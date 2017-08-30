@@ -1,0 +1,23 @@
+            SKELETON O - X - - - - - - - - -
+                FILE O - X X - X X - - - - -
+             STARTUP X - - - - - - - - - - -
+                NAME X - - - - X - - - - - -
+         STARTVNC.ON X - - - - - - - - - - -
+                BOOT O - X - X - X - - - - -
+          PERMISSION X - - - - - - - - - - -
+              ANYONE O - - - - - - - - - - -
+                HELP X - - - - - - - - - - -
+                  .. - X - O - O X - - - - -
+             MESSAGE - - O - - - - - - - - -
+               XAUTH - - O - X - - - - - - -
+                PATH - - X X - - S - - - - -
+                COPY - - X - - - - - - - - -
+            SYMLINKS - - O - - - - - - - - -
+                 WTF - - X - - - - - - - - -
+                 USE - - - X - - - - - - - -
+                  -E - - - X - - - - - - - -
+/ETC/INIT.D/SKELETON - - - - - O - - - - - -
+            STARTVNC - - - - - X - - - - - -
+/USR/BIN/TIGHTVNCSERVER - - - - - - O - - - - -
+         UPDATE-RC.D - - - - - - - S - - - -
+             DEFAULT - - - - - - - O - - - -

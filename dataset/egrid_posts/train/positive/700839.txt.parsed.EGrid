@@ -1,0 +1,8 @@
+               CHMOD S - - - -
+                NAME O - - - -
+            IPTABLES S X - - S
+         FIRESTARTER - X S - X
+            FRONTEND - X - - -
+                   X - - O - -
+                LOAD - - - - O
+                BOOT - - - - X

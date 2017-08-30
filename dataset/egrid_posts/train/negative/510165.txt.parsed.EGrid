@@ -1,0 +1,16 @@
+             COMMAND X - - - - - - - -
+                ADSL X - - S - - - - -
+          CONNECTION X - - - - - - - -
+               MODEM X X - X - - - - -
+            PROVIDER X - - - - - - - -
+                 USB - - X - S - - - -
+             METHODS - - - O - - - - -
+               PPPOE - - - X - - - - -
+               PPPOA - - - X - - - - -
+            HARDWARE - - - X - - - - -
+                 BUS - - - - X - - - -
+            STANDARD - - - - O - - - -
+                BOTH - - - - - S - - -
+             NOTHING - - - - - O - - -
+               OTHER - - - - - X - - -
+                THAT - - - - - - - - X

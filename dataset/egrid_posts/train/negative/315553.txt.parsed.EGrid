@@ -1,0 +1,12 @@
+                DATA S -
+            HARDDISK X -
+           PARTITION O -
+          PARTITIION S -
+            TESTDISK X -
+              FRIEND O -
+                SUDO - X
+            IFCONFIG - X
+               CHECK - X
+                NANO - X
+                  -W - X
+/ETC/APACHE/HTTPD.CONF - X

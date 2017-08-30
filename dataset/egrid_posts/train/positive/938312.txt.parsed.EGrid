@@ -1,0 +1,10 @@
+             COMMAND X - - - -
+                .DEB X - - - -
+                PAGE - S - - -
+    /PATH/TO/DEBFILE - - O - -
+           DIRECTORY - - X - -
+                KIND - - X - -
+                FILE - - X - -
+             DESKTOP - - S - -
+              SYSTEM - - - - X
+             MONITOR - - - - X

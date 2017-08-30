@@ -1,0 +1,13 @@
+                THAT X - -
+       LIBSDL1.2-DEV S - -
+     LIBSDL1.2DEBIAN X - -
+    1.2.9-0.0UBUNTU2 X - -
+     1.2.10-3UBUNTU1 X - -
+            CONFLICT - O -
+/ETC/APT/SOURCES.LIST - X -
+              SERVER - O -
+                MAIN - X -
+            UNIVERSE - X -
+          MULTIVERSE - X -
+              UPDATE - - X
+          REPOSITORY - - O

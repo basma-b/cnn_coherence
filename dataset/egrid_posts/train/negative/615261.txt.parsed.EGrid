@@ -1,0 +1,15 @@
+              ANYONE S - X - - -
+            SEGFAULT X - - - - -
+                DPKG S S - - - -
+             PROCESS X - - O - -
+             TRIGGER O O - - - -
+            LDCONFIG - S - - - -
+               LIBC6 - O - - - -
+             PACKAGE - O - - - -
+            QUESTION - X - - - -
+                 APT - S - - - -
+               STATE - X - - - -
+                  .. - X - S - -
+                SUDO - - - - - O
+               FRONT - - - - - X
+             COMMAND - - - - - X

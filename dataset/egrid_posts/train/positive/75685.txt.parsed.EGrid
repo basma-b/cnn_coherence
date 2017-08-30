@@ -1,0 +1,21 @@
+              FILTER X - - - - - - - - - -
+                 EVO X S - - - - - - - - -
+                THAT - S - S - - - - - - -
+        SPAMASSASSIN - O - - - - - - - - O
+                JUNK - S - - - - - - - - -
+/ETC/DEFAULT/SPAMASSASSIN - - X - - - - - - - -
+           FETCHMAIL - - - - X - - - - - -
+               SPOOL - - - - X - - - - - -
+            DOWNLOAD - - - - X - - - - - -
+                MAIL - - - - - X - - - - X
+                 SEC - - - - - - - X - - -
+                  .. - - - - - - - X - - -
+                HTTP - - - - - - - X - - -
+//WWW.YARDBIRD.NET/INDEX.PHP - - - - - - - X - - -
+  OPTION=COM_CONTENT - - - - - - - - X - -
+           TASK=VIEW - - - - - - - - X - -
+           ITEMID=59 - - - - - - - - X - -
+           EVOLUTION - - - - - - - - X - -
+             PROCESS - - - - - - - - X - -
+           RETRIEVAL - - - - - - - - - - X
+                 LOT - - - - - - - - - - X

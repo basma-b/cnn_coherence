@@ -1,0 +1,14 @@
+              FOLDER X - O - - - O -
+         PERMISSIONS X - X - - - - -
+            NAUTILUS X - - - - - - -
+              ACCESS S - - - - - - -
+                DENY O - - - - - - -
+                SUDO - - X - - - - -
+               CHOWN - - S - - - - -
+                   > - - X - O - - -
+                FILE - - O - S - - -
+                CANT - - S - - - - -
+                  CD - - - X - - - X
+                   < - - - - S - - -
+           DIRECTORY - - - - X - - -
+              RESULT - - - - O - - -

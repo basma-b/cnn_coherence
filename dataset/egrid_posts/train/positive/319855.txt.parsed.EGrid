@@ -1,0 +1,12 @@
+                 HMM X - - - - - -
+             TROUBLE - O - - - - -
+              CONFIG - X - - - - -
+           DIRECTORY - O - - - - -
+               MKDIR - - X - - - -
+        /ETC/APACHE2 - - O - - - -
+                 USE - - - X - - -
+      FORCE-CONFMISS - - - X - - -
+             COMMAND - - - X - - -
+             APT-GET - - - - - X X
+              OPTION - - - - - O -
+             APACHE2 - - - - - - X

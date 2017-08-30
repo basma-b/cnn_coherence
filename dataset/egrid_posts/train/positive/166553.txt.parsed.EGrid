@@ -1,0 +1,14 @@
+             VERSION O - - - - - - - - - -
+             APT-GET - S - - - - - - S - -
+        MINORVERSION - - O - - - - - - - -
+            VERSIONS - - X - - - - - - - -
+                 PHP - - - X - - X - - - -
+                 CLI - - - X - - - - - - -
+              APACHE - - - - X - - X - - -
+              SCRIPT - - - - - - - O - - -
+               RIGHT - - - - - - - X - - -
+                PHP4 - - - - - - - - O - -
+             CONSOLE - - - - - - - - X - -
+                SUDO - - - - - - - - X - -
+ LIBAPACHE2-MOD-PHP5 - - - - - - - - O - -
+          LIBAPACHE2 - - - - - - - - - - S

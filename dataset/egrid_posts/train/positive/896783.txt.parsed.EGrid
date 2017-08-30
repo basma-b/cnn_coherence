@@ -1,0 +1,15 @@
+             COMMAND S - - - - -
+                WORK O - - - - -
+               IMAGE O - - - - -
+              STRING X X - - - -
+                  -S X - - - - -
+/DESKTOP/GNOME/BACKGROUND/PICTURE_FILENAME X - - - - -
+                 PIC X - - - - -
+           WALLPAPER O - - - - -
+              UBUNTU X - - - - -
+/USR/BIN/GCONFTOOL-2 - S - - - -
+                TYPE - X - - - -
+/DESKTOP/GNOME/BACKGROUND/PICTURE_OPTIONS - O - - - -
+                 GUI - - - X - -
+             DESKTOP - - - X - -
+                 PNG - - - X - -

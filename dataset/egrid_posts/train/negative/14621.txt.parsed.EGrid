@@ -1,0 +1,25 @@
+              SCIZZO X - - - - - - -
+      FALLENHITOKIRI X - - - - - - -
+       DOCUMENTATION X - - - - - - -
+                LOOK - O - - - - - -
+ /BOOT/GRUB/MENU.LST - X - - - - - -
+              OPTION - X - - - - - -
+              KERNEL - X - - - - - -
+/BOOT/VMLINUZ-2.6.10 - S - - - - - -
+              SPLASH - X - - - - - -
+               THATS - O - - - - - -
+                BOOT - - X - - - - -
+              SCREEN - - O - - - - -
+            NOTHINGS - - O - - - - -
+                  FB - - - O - O - -
+             VGA=791 - - - - X - - -
+                 STH - - - - O - - -
+                GRUB - - - - - O - -
+              FOLDER - - - - - - - O
+               /HOME - - - - - - - X
+                FILE - - - - - - - O
+                SYNC - - - - - - - X
+             MACHINE - - - - - - - X
+            PLATFORM - - - - - - - X
+              UBUNTU - - - - - - - X
+             WINDOWS - - - - - - - X

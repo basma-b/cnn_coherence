@@ -1,0 +1,15 @@
+                NEED O - - - - - -
+              SYSTEM X - - - - - -
+                BOOT X - - - - - -
+                ROOT - X - - - - -
+           PARTITION - O - - - - -
+                SDA6 - X - - - - -
+                SDA1 - - S - - - -
+            FUNCTION - - O - - - -
+                 MBR - - - X - - -
+                  -L - - - - X - -
+             GATEWAY - - - - - X -
+                LINE - - - - - O -
+                ETH0 - - - - - X -
+                  BE - - - - - - X
+           SOMETHING - - - - - - X

@@ -1,0 +1,9 @@
+           PARTITION O - O X - O -
+               SPACE X - - - - - -
+               DRIVE X - - - - - -
+            QTPARTED X - - - - - -
+              DEVICE - - X X X X -
+                NAME - - O X O O -
+            /DEV/HDA - - - - S - -
+               BLOCK - - - - - X -
+                DISK - - - - - X -

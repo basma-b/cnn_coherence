@@ -1,0 +1,26 @@
+             SOMEONE X S - - - -
+              KERNEL O O - X - -
+        10.00-CUSTOM O O - - - -
+             PACKAGE X X X O - -
+                NAME X X - - - -
+          EVERYTHING - S - - - -
+            DPKG-DEB - - X - - -
+LINUX-IMAGE-2.6.24.2-C2D - - O - - -
+/LINUX-IMAGE-2.6.24.2-C2D_2.6.24.2-C2D-10.00.CUSTOM_I386.DEB - - X - - -
+               THERE - - - S - -
+              OPTION - - - O - -
+   APPEND-TO-VERSION - - - X - -
+        10.00.CUSTOM - - - O - -
+                 MAN - - - X X -
+                PAGE - - - X - -
+                .DEB - - - S - -
+             COMMAND - - - O - -
+                THIS - - - S - -
+            FAKEROOT - - - X - -
+           MAKE-KPKG - - - X O -
+        KERNEL_IMAGE - - - X - -
+      KERNEL_HEADERS - - - S - -
+                IDEA - - - O - -
+                MESS - - - - O -
+               POINT - - - - X -
+            REVISION - - - - - X

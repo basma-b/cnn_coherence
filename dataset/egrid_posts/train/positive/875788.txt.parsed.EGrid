@@ -1,0 +1,10 @@
+                   / X - - -
+              E2FSCK - O - -
+                  FS - X - -
+                LOOK - - X -
+          /ETC/FSTAB - - O -
+            MAPPINGS - - O -
+                CANT - - X -
+            TERMINAL - - X -
+                GRUB - - - X
+              SCREEN - - - S

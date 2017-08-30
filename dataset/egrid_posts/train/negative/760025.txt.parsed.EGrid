@@ -1,0 +1,11 @@
+                /DEV S - - -
+          FILESYSTEM O - - -
+         UPDATE-GRUB O - - -
+                LIST O - - -
+           PARTITION X - - -
+               /ETC/ - X - -
+                THIS - - S -
+               HTTPS - - X -
+                GRUB - - S -
+              LIVECD - - X -
+                ROOT - - - X

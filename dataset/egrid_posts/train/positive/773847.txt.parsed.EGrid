@@ -1,0 +1,12 @@
+          /ETC/FSTAB X - - -
+          LABEL=DATA X - - -
+             DEFAULT X - - -
+           UMASK=007 X - - -
+            UID=1000 X X - X
+                NTFS X - - -
+               DRIVE X S - -
+                ROOT - X - -
+               OWNER - X - -
+                USER - - X -
+              OPTION - - O -
+               USERS - - X -

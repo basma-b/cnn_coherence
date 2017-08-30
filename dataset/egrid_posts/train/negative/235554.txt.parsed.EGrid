@@ -1,0 +1,12 @@
+              CUSTOM - X - - - -
+              KERNEL - O - - - -
+     IPW3945-DRIVERS - X - - - -
+         LINUX-IMAGE - - O - - -
+                SHIP - - X - - -
+              UBUNTU - - X - - -
+             PACKAGE - - - O O -
+                THAT - - - - X -
+             IPW3945 - - - - S -
+              SEARCH - - - - X -
+            DPKG-DEB - - - - - X
+            FILE.DEB - - - - - X

@@ -1,0 +1,13 @@
+                TIME - X - - - - - -
+              DAEMON - O - - - - - -
+                BOOT - X - - - - - X
+/ETC/INIT.D/SKELETON - - O - - - - -
+                BITS - - O - - - - -
+             PROGRAM - - X - - - - -
+                TEST - - - S - - - -
+              SCRIPT - - - O - - - -
+            ARGUMENT - - - X - - - -
+             PROCESS - - - O - - - -
+                WORK - - - - - X - -
+             STARTUP - - - - - - X -
+              RCCONF - - - - - - - O

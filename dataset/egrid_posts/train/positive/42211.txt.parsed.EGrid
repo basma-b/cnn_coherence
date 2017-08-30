@@ -1,0 +1,14 @@
+                BOOT X - - - - -
+              LOADER X - - - - -
+                RAID X - - - X -
+               SETUP X - - - - -
+            /DEV/HDA - X - - - -
+                 LVM - X - - S -
+                   U - - - S - -
+           RAIDTOOLS - - - O - -
+                 USE - - - - X -
+                 TOP - - - - X -
+              DEVICE - - - - X -
+              MIRROR - - - - S -
+               SMOKE - - - - O -
+                PITA - - - - - O

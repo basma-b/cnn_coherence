@@ -1,0 +1,17 @@
+           OVERWRITE X X X - - - - -
+          BOOTSCREEN X X X - - - - -
+               INTEL - - - - S - - -
+            DONAVAN_ - - - - S - - -
+             NETWORK - - - - S X - -
+             MANAGER - - - - X X - -
+              DEVICE - - - - S S - -
+               -RSB- - - - - X - - -
+      NETWORKMANAGER - - - - S - - -
+         APPLICATION - - - - O - - -
+            WIRELESS - - - - X - - -
+                WORK - - - - X - - -
+     NETWORK-MANAGER - - - - - S - -
+               SETUP - - - - - X - -
+           INTERFACE - - - - - O - -
+/ETC/NETWORK/INTERFACES - - - - - X - -
+              THINGS - - - - - - - O

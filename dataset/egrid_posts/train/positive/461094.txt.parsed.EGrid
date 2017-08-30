@@ -1,0 +1,16 @@
+                HELP O - - - -
+                SUDO S - - - -
+                USER O - - - -
+               WHEEL X - - - -
+               GROUP X - - - -
+                THAT - - - X -
+                SOES - - - S -
+             PASWORD - - - X -
+                TASK - - - O -
+             SUDOERS - - - X -
+                FILE - - - O -
+              VISUDO - - - X -
+                CANT - - - S -
+              CHANGE - - - O -
+                 ESC - - - - S
+                  WQ - - - - X

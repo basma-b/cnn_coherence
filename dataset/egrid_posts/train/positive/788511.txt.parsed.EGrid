@@ -1,0 +1,13 @@
+ MINIMAL_STARTSCRIPT X - S -
+                USER X - S -
+                 JOB - X - -
+                SUDO - - S -
+            /OPT/TS3 - - O S
+                FILE - - O O
+                WORK - - O -
+              DETAIL - - O -
+              SERVER - - S -
+                 NUT - - S -
+                  -R - - - O
+                   > - - - X
+            TERMINAL - - - X

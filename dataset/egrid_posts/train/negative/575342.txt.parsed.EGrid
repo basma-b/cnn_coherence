@@ -1,0 +1,15 @@
+               THERE X - -
+             CHANNEL X - -
+       CONFIGURATION X - -
+            IPTABLES X X -
+             REQUEST - O -
+                PORT - X -
+           LOCALHOST - O -
+               INPUT - X -
+                  -P - X -
+                 TCP - X -
+                DROP - X -
+                OOPS - O -
+                 VLC - - X
+                CORE - - X
+                DAYS - - X

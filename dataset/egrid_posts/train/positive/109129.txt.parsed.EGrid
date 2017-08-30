@@ -1,0 +1,6 @@
+  CONFIG_CRYPTO_ARC4 X - - -
+              KERNEL - O - -
+              MODULE - X - -
+           SOMETHING - X - -
+            MODPROBE - - S -
+                THIS - - - X

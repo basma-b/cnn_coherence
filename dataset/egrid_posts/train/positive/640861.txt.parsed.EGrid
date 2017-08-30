@@ -1,0 +1,10 @@
+               GRUB2 X - - - O
+                BOOT X - - - -
+         UPDATE-GRUB - S - - -
+                  OS - O - - -
+               CHECK - - X - -
+   /ETC/DEFAULT/GRUB - - X - -
+    ETC/DEFAULT/GRUB - - O - -
+                 USE - - - X -
+               GRUB1 - - - O -
+               CLEAN - - - - S

@@ -1,0 +1,17 @@
+             SOMEONE X - - - -
+               GROUP - O - - -
+                USER - X - - -
+               ADMIN - X - - -
+          PRIVELAGES - S - - -
+                PART - - X - -
+             SUDOERS - - X - -
+                FILE - - X - O
+                  .. - - X - -
+                SUDO - - - X -
+            USERNAME - - - O -
+                DONT - - - X -
+          PREMISSION - - - O -
+                BOOT - - - X -
+            RECOVERY - - - X -
+                MODE - - - X -
+             USERMOD - - - - X

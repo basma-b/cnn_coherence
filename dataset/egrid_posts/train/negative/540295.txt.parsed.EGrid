@@ -1,0 +1,10 @@
+              ROUTER S - - -
+            INTERNET X - - -
+            WIRELESS O - - -
+              SUBNET X - - -
+                BUMP - X - -
+                  .. - X - -
+    DISALLOWTCP=TRUE - - - S
+              SERVER - - - X
+                  -X - - - X
+              CLIENT - - - X

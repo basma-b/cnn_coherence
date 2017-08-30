@@ -1,0 +1,19 @@
+                 END X X X -
+                FILE X X X -
+                   > X X X -
+          ~/TEST.TXT S S O -
+             COMMAND X - - -
+                ROOT O - - -
+/ETC/APT/SOURCES.LIST X - - -
+                SUDO - X X -
+                  SH - X X -
+                  -C - S S -
+           SOMETHING - X - -
+                   | - X - -
+                 TEE - X - -
+                  -A - X - -
+            FILENAME - O - -
+              DOESNT - S - -
+                 WAY - - - O
+                BOOT - - - X
+              UBUNTU - - - X

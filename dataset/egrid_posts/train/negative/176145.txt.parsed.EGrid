@@ -1,0 +1,16 @@
+                 ALL X - - -
+             APT-GET S - - -
+             APACHE2 O - - -
+                 DIR S - - -
+                HELP X - - -
+               PURGE - X - -
+              DELETE - X - -
+            ADDITION - X - -
+      APACHE2-COMMON - - O -
+                 GUI - - - X
+          PRIORITISE - - - X
+              SERVER - - - X
+             PROCESS - - - O
+                USER - - - X
+                ONES - - - X
+             DEFAULT - - - X

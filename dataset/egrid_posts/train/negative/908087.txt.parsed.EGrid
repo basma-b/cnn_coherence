@@ -1,0 +1,15 @@
+                TYPE O - - - -
+                  -T X - - - -
+                EXT3 - O - - -
+          /DEV/HDA11 - S - - -
+         /MNT/UBUNTU - X - - -
+               ERROR - O - - -
+       /MOUNT/UBUNTU - X - - -
+                FILE - X - - -
+           DIRECTORY - X - - -
+               FDISK - X - - -
+                  -L - X - - -
+             FIREFOX - - - S -
+              GOOGLE - - - - S
+                LINK - - - - S
+                 WAY - - - - X

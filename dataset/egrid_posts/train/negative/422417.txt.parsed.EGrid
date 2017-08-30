@@ -1,0 +1,25 @@
+              ANYONE S - - - - - - - - -
+                 PLS S - - - - - - - - -
+              DEPMOD O X - - - - - - - -
+/LIB/MODULES/2.6.22-8-SERVER/MODULES.DEP S - - - - - - - - -
+              KERNEL O - - - O - - O - -
+              UBUNTU X - - - - - - - - -
+                SUDO - X - - - - - X - -
+                  -A - X - - - - - - - -
+              OUTPUT - - X - - - - - - -
+             WARNING - - - X - - - - - -
+           DIRECTORY - - - X - - - - - -
+/LIB/MODULES/2.6.22-8-SERVER - - - O - - - - - -
+                FILE - - - X - - - - - -
+                WHAT - - - - S - - - - -
+                  CD - - - - X - - - - -
+/LIB/MODULES/2.6.22-8-SERVER/ - - - - X - - - - -
+                NONE - - - - - X - - - -
+                TYPE - - - - - X X - - -
+                  LS - - - - - X X - - -
+        INSTRUCTIONS - - - - - - - X - -
+               HTTPS - - - - - - - X - -
+//HELP.UBUNTU.COM/COMMUNITY/UPGRADEKERNEL - - - - - - - X - -
+            APTITUDE - - - - - - - X - -
+  LINUX-IMAGE-SERVER - - - - - - - S - -
+              THANKS - - - - - - - - - X

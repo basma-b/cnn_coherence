@@ -1,0 +1,13 @@
+            HOSTNAME S - X - -
+             MACHINE X - X - -
+                 USE O O - - -
+             NETWORK X - X - -
+                  IP - S - - -
+                CASE - X - - -
+             GATEWAY - - X - -
+                 NAT - - O - -
+             ADDRESS - - S - -
+                 WAY - - X - -
+                 TCP - - - X -
+                PORT - - - O -
+                 UDP - - - X -

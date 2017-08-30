@@ -1,0 +1,8 @@
+              MODULE S - -
+                LOAD O - -
+          MODPROBE.D X - -
+               AFTER O - -
+   MOTD/LASTLOG/MAIL - - O
+                 ONE - - O
+                HTTP - - X
+                MOTD - - O

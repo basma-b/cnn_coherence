@@ -1,0 +1,25 @@
+              UBUNTU - X - - - X - - - -
+                 LTS - X - - - - - - - -
+              SERVER - O - - - - - - - -
+             NETWORK - O - - - - - - - -
+                DHCP - - X - - - - - - -
+                 ALL - - S - - - - - - -
+                  IP - - O X - - - - - -
+              CHANGE - - - X - - - - - -
+/ETC/NETWORK/INTERFACES - - - X - - - - - -
+    /ETC/RESOLV.CONF - - - X - - - - - -
+                 LAN - - - O - - - - - -
+            INTERNET - - - X - - - - - -
+              DOMAIN - - - O - - - - - -
+             GATEWAY - - - S - - - - - -
+                CASE - - - O - - - - - -
+          INTERFACES - - - S - - - - - -
+              MOMENT - - - S - - - - - -
+              SYSTEM - - - - - X - - - -
+                 ONE - - - - - - O - - -
+              FEDORA - - - - - - O - - -
+                WORK - - - - - - O - - -
+            PASTEBIN - - - - - - - X - -
+                THIS - - - - - - - O - -
+                 CLI - - - - - - - X - -
+                HTTP - - - - - - - - - X

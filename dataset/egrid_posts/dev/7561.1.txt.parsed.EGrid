@@ -1,0 +1,13 @@
+             DEFAULT X - - - - -
+                TEXT X - - - - X
+                MODE X - - - - -
+                   X X - - - - -
+               START X - - - X -
+             OPTIONS - X X - - -
+                NOFB - O - - - -
+            NOSPLASH - - S - - -
+            PLYMOUTH - - O - - -
+            GRAPHICS - - O - - -
+              OPTION - - - - - S
+               LOGIN - - - - - X
+             MANAGER - - - - - O

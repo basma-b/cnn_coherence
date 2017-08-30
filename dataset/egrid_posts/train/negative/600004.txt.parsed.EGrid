@@ -1,0 +1,27 @@
+                TIME O - - - - -
+                 TRY S - - - - -
+/DEV/SR0=PATH_TO_MYISO.ISO X - - - - -
+               HMMMM O - - - - -
+/DEV/DVD=PATH_TO_MYISO.ISO X - - - - -
+                  IM S - - - - -
+                 DVD X - - - - -
+                 ISO O - - - - -
+              BURNER O S - - - -
+            /DEV/SR0 - X - - - -
+             BRASERO - X - - - -
+                 K3B - X - - - -
+               START - X - - - -
+              ERRORS - O X - - -
+                DISC - O - - - -
+                 IVE - - S - - -
+                BOTH - - O - - -
+            TERMINAL - - X - - -
+             NOTHING - - O - - -
+   /VAR/LOG/MESSAGES - - X - - -
+              ANYONE - - - X - -
+             INSIGHT - - - X - -
+             PROBLEM - - - X - -
+                CORE - - - - - X
+                 DUO - - - - - S
+                 RAM - - - - - X
+               STICK - - - - - O

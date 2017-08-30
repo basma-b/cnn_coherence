@@ -1,0 +1,16 @@
+              DAEMON O - - - - - - X - -
+              SYSTEM - X - - - X - - S -
+             STARTUP - X - - - S - - - -
+             SERVICE - - X - - - - X - -
+                   > - - S - - - - X - -
+                THAT - - - - S - - - - -
+     /ETC/INIT.D/SSH - - - - - X - - - -
+                 SSH - - - - - - - S - -
+               START - - - - - - - S - -
+                  PS - - - - - - - X - -
+                   | - - - - - - - X - -
+                GREP - - - - - - - X - -
+             APT-GET - - - - - - - - - X
+               THING - - - - - - - - - S
+        DEPENDENCIES - - - - - - - - - X
+            TUTORIAL - - - - - - - - - O

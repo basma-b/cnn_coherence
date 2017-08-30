@@ -1,0 +1,13 @@
+                HELP O - - - -
+            WIRELESS X - - - -
+             ADAPTER X X - - -
+                CHIP - - X - -
+               LSPCI - - - X -
+                   | - - - S -
+                 NET - - - O -
+             NETWORK - - - - X
+          CONTROLLER - - - - X
+            BROADCOM - - - - X
+         CORPERATION - - - - X
+             BCM43XG - - - - X
+           802.11B/G - - - - X

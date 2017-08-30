@@ -1,0 +1,11 @@
+             COMMAND S -
+                 DEB X -
+                8.04 X -
+                HTTP X -
+                   < X -
+            DOWNLOAD X -
+                 SVN X -
+               THERE S -
+/ETC/APT/SOURCES.LIST O -
+                LINE O -
+//WWW.GNU.ORG/SOFTWARE/GRUB/MANUAL/HTML_NODE/INSTALLING-GRUB-NATIVELY.HTML - X

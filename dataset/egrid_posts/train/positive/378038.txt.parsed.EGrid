@@ -1,0 +1,18 @@
+       CONFIGURATION X - - - - - -
+                FILE X - - - - - -
+ /ETC/SSH/SSH_CONFIG O - - - - - -
+STRICTHOSTKEYCHECKING S - - - - - -
+             COMMENT X - - - - - -
+              RESORT - - X - - - -
+              FOLDER - - O - - O -
+                HOME - - X - - - -
+           DIRECTORY - - X - - - -
+                  RM - - - S - - -
+                 KEY - - - - O - -
+                THAT - - - - - S -
+              ~/.SSH - - - - - S -
+                 -RF - - - - - X -
+            COMPUTER - - - - - X X
+                 USE - - - - - O -
+                TYPE - - - - - - O
+                  .. - - - - - - X

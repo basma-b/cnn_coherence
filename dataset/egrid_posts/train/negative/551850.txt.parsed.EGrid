@@ -1,0 +1,23 @@
+                 WHA X - - - - - - - - - -
+                  .. - X - - - O - - - - -
+         LAMP-SERVER - X - - - - - - - - -
+            SYNAPTIC - X - - S - - - - - -
+                INFO - - - X - - - - - - -
+             TASKSEL - - - S - - - - - - -
+                TASK - - - O - S - S - - -
+               GROUP - - - O - - - - - - -
+             PACKAGE - - - X O - - - X - -
+         METAPACKAGE - - - - - O - - X - -
+                 USE - - - - - - - X - - -
+              UBUNTU - - - - - - - X - - -
+           INSTALLER - - - - - - - S - - -
+                 D-I - - - - - - - X - - -
+                SUDO - - - - - - - - S - -
+            APTITUDE - - - - - - - - X - -
+             DEFAULT - - - - - - - - X - -
+            BEHAVIOR - - - - - - - - X - -
+            MANAGERS - - - - - - - - X - -
+        DEPENDENCIES - - - - - - - - O - -
+                 SET - - - - - - - - - O -
+/ETC/APT/APT.CONF.D/ - - - - - - - - - X -
+                 YES - - - - - - - - - - X

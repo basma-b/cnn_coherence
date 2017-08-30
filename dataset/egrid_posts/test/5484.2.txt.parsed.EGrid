@@ -1,0 +1,27 @@
+       CONFIGURATION S - - - - -
+               12.04 X - - - - -
+               IPSEC - S - - - -
+                FILE - X - - - -
+              STRING - X - - - -
+              SYNTAX - X - - - -
+               ERROR - O - - - -
+                HTTP - O - - - -
+//PASTEBIN.COM/PQEQPJWM - S - - - -
+     VIRTUAL_PRIVATE - X - - - -
+              OPTION - O - - - -
+             MESSAGE - X - - - -
+            PASTEBIN - - O - - -
+                  .. - - - - X X
+           PARTITION - - - - X -
+          FILESERVER - - - - X -
+              BACKUP - - - - X -
+             STORAGE - - - - X -
+              SYSTEM - - - - S -
+                EXT3 - - - - X -
+                EXT4 - - - - X X
+BEHAVIOR/PERFORMANCE - - - - X -
+            SCENARIO - - - - X -
+                THAT - - - - - X
+               AFAIK - - - - - X
+              THINGS - - - - - S
+                TOOL - - - - - S

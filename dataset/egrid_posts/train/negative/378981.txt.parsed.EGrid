@@ -1,0 +1,13 @@
+                TIME O - - - - - - -
+            HARDWARE X - X - X - - -
+               CLOCK O S X - S - - -
+                SYNC - - X - - - - -
+            SOFTWARE - - X - - - - -
+               HOURS - - - - X - - -
+            TIMEZONE - - - - X - - -
+                 UTC - - - - X X - -
+                  DO - - - - - O - -
+                   + - - - - - S - -
+             WINDOWS - - - - - X - -
+        XSERVER-XORG - - - - - - - O
+           XORG.CONF - - - - - - - O

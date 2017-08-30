@@ -1,0 +1,14 @@
+                 SMP X - S - - -
+              ENABLE X - - - - -
+             VERSION X - - - - -
+              LIVECD X - - - - -
+             MACHINE - - X - - -
+       COMPATIBILITY - - O - - -
+                BOOT - - X - - -
+              KERNEL - - O - - -
+              OPTION - - X - S -
+          BOOTLOADER - - - - - S
+              SMP/UP - - - - - O
+            HARDWARE - - - - - S
+              DESIGN - - - - - O
+      SPECIFICATIONS - - - - - X

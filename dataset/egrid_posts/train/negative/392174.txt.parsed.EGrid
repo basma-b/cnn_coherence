@@ -1,0 +1,15 @@
+             COMMAND X - - -
+                LINE X - - -
+                FILE O - - -
+                NANO - X - -
+               GNOME - S - -
+           XORG.CONF - O S -
+        XSERVER-XORG - - X -
+              SERVER - - O -
+             PACKAGE - - X -
+              INSTAL - - X -
+               SETUP - - X -
+             DEFAULT - - X -
+                   * - - - X
+            FUNCTION - - - O
+        BASH_PROFILE - - - X

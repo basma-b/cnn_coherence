@@ -1,0 +1,11 @@
+              VOLUME O - -
+           OWNERSHIP - X -
+         PERMISSIONS - X -
+             OPTIONS - O -
+          WORKAROUND - X -
+           /DEV/SDA1 - O -
+            MODE=755 - X -
+               LSPCI - - X
+               DMESG - - S
+                CARD - - X
+                HMMM - - O

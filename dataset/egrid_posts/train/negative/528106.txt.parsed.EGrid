@@ -1,0 +1,14 @@
+             DEFAULT X - - - - -
+                ROOT X - - - - -
+            PASSWORD X - - - - -
+                IDEA - O - - - -
+                LINK - - - O - -
+/USR/LOCAL/LIB/CODECS - - - O - -
+/USR/LOCAL/LIB/WIN32 - - - X - -
+         WIN32CODECS - - - O - -
+            /FOO/BAR - - - X - -
+              CODECS - - - S - -
+                WORK - - - O - -
+             ﻿HAVE - - - - X -
+         HELIXPLAYER - - - - X -
+              PLAYER - - - - - O

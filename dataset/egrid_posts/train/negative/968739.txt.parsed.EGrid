@@ -1,0 +1,15 @@
+UBUNTU-STANDARD-KERNEL O - - - - -
+          CRYPTOPART - X - - - -
+        /BOOT/CONFIG - X - - - -
+                  .. - X - - - -
+                 AES - - S X - -
+              MODULE - - O O - -
+CONFIG_CRYPTO_AES_586=M - - X - - -
+                THIS - - - O - -
+            PROBLEMS - - - O - -
+KERNEL/ARCH/I386/CRYPTO/AES-I586.KO - - - X - -
+                   $ - - - - O -
+            RELATIVE - - - - S -
+                  -R - - - - X -
+                   U - - - - - X
+                STEP - - - - - O

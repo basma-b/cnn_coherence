@@ -1,0 +1,24 @@
+                FILE O - - - - - - - - - -
+           PARTITION X - - - O - - - - - -
+               GUTSY X - - - - - - - - - -
+               ERROR O - - - - - - - - - -
+          PERMISSION O - - - - - - - - - -
+                  .. X - - X - - - - - - -
+                THIS X - - - - - - - - - -
+                SUDO - X - - - - - - - - -
+               CHOWN - X - - - - - - - - -
+                USER - X - - - - - - - - -
+               GROUP - X - - - - - - - - -
+    /MEDIA/PARTITION - X - - - - - - - - -
+               MOUNT - - - X - - - - - - -
+            SETTINGS - - - X - - - - - - -
+                 CAT - - - - X - - - - - -
+          /ETC/FSTAB - - - - X - - - - - -
+              OPTION - - - - S - - - - - -
+                HTTP - - - - X - - - - - -
+//PASTEBIN.CA/811167 - - - - X - - - - - -
+                THAT - - - - - - O - - - -
+       FILES/FOLDERS - - - - - - O - - - -
+                  CP - - - - - - - S - - -
+                 URL - - - - - - - - X - -
+         ./CONFIGURE - - - - - - - - - - X

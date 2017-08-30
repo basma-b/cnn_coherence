@@ -1,0 +1,12 @@
+              ANYONE X - - - - -
+             PACKAGE O - - - - -
+             APT-GET - S - - - -
+                DONT - S - - - -
+               PURGE - - S - - -
+                SUDO - - X - - -
+              CONFIG - - X - - -
+                FILE - - O - - O
+           ~/.CONFIG - - X - - -
+                 DIR - - - X - -
+                  .. - - - - - O
+              SOURCE - - - - - X

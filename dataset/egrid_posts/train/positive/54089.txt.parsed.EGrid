@@ -1,0 +1,19 @@
+             COMMAND X - - -
+            TERMINAL X - - -
+                WINE X - S X
+         AUTORUN.EXE - - S -
+                HELP - - X -
+                MOVE - - X -
+           DIRECTORY - - X O
+                  CD - - X S
+                TYPE - - - X
+                FILE - - - X
+           SETUP.EXE - - - O
+                 END - - - X
+               FIXME - - - X
+                 MSI - - - X
+ACTION_PERFORMUIACTION - - - X
+           UNHANDLED - - - X
+              ACTION - - - X
+                  L' - - - X
+         FATAL_ERROR - - - X

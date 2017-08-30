@@ -1,0 +1,15 @@
+             ACCOUNT S - - -
+                SUDO X - - -
+         PRIVELEDGES O - - -
+             ANYBODY - S - -
+          CONNECTION - O - -
+                 BOX - X - -
+             DISABLE - - X -
+             NETWORK - - X -
+           INTERFACE - - S -
+                CASE - - X -
+             PROCESS - - O -
+             SESSION - - S -
+                 BRO - - X -
+                MTAB - - - X
+           PARTITION - - - S

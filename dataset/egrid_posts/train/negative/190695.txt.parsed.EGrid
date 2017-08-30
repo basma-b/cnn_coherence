@@ -1,0 +1,34 @@
+               SARGE - X - - - - - - - - - - -
+              DAPPER - S S - - - - - - - - - -
+                 MD0 - O O - - - - - - - - - -
+              DEVICE - S - - - - O X - - - - -
+                DISK - O - - - - - - - - O - -
+                /MNT - O - - - - - - - - - - -
+             RAIDTAB - - S S - - - - - - - - -
+            UNCHANGE - - O - - - - - - - - - -
+               MDADM - - - X S - X S - - - - -
+            /DEV/MD0 - - - O - - X - - - - - -
+                FILE - - - X - - X - - - - - -
+           DIRECTORY - - - X - - X - - - - - -
+            WHAT/WHO - - - S - - - - - - - - -
+                RAID - - - - X - - - - - - - -
+               ARRAY - - - - X - - - - - X - -
+                  .. - - - - - - O X - - - - -
+               ERROR - - - - - - X - - - - - -
+            /DEV/SDA - - - - - - X - - - - - -
+            /DEV/SDB - - - - - - X - - - - - -
+//PASTEBIN.CA/152997 - - - - - - X - - - - - -
+              MIRROR - - - - - - S - - - - - -
+                HTTP - - - - - - - X - - - - X
+                DONT - - - - - - - X - - - - -
+                DATA - - - - - - - X - - - - -
+               DUNNO - - - - - - - O - - - - -
+                WELL - - - - - - - X - - - - -
+//PASTEBIN.CA/153006 - - - - - - - X - - - - -
+                 ONE - - - - - - - S - - - - -
+              CHANGE - - - - - - - - - O - - -
+                 HDD - - - - - - - - - X - - -
+                 HDC - - - - - - - - - X - - -
+                SYNC - - - - - - - - - - O - -
+                 WAY - - - - - - - - - - X - -
+//SE.RELEASES.UBUNTU.COM/7.04/MD5SUMS - - - - - - - - - - - - X

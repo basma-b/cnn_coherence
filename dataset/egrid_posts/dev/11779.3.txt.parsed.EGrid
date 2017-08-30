@@ -1,0 +1,13 @@
+           PARTITION X - - - -
+              LIVECD X - - - -
+               FSTAB X - - - -
+                SUDO - S - - -
+     /MEDIA/MAKEADIR - O - - -
+               MOUNT - - X - -
+                   | - - S - -
+                PAGE - - - X -
+                  .. - - - X -
+                HTTP - - - - X
+            HARDWARE - - - - X
+             SENSORS - - - - X
+           INDICATOR - - - - X

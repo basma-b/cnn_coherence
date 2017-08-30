@@ -1,0 +1,15 @@
+               SHELL X - - - -
+               LABEL X - - - -
+           INITRAMFS X - - - -
+               /BOOT - O - - -
+            MENU.LST - X - - -
+                GRUB - X - - -
+               ERROR - O - - -
+             BUSYBOX - - X - -
+            QUESTION - - O - -
+               THERE - - X - -
+              EDITOR - - X - -
+                FILE - - O - -
+         UPDATE-GRUB - - O - -
+                  VI - - - X -
+                NANO - - - X -

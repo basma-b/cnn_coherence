@@ -1,0 +1,10 @@
+                THAT X - X - -
+              SYSLOG S - - - -
+               FLOOD S - - - -
+             IN=PPP0 X - - - -
+                OUT= X - - - -
+                MAC= X - - - -
+                  IP X - - - -
+               -RSB- O - - - -
+                 LOG - - - - X
+            FIREWALL - - - - O

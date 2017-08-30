@@ -1,0 +1,16 @@
+                GRUB X X - - - - - - - -
+   /ETC/DEFAULT/GRUB - X - - - - - - - -
+         UPDATE-GRUB - X - - - - - - - -
+                MENU - X - - - - - - - -
+                   E - X - - - - - - - -
+              SPLASH - X - - - - - - - -
+           NOMODESET - X - - - - - - - -
+              CHANGE - - O - - - - - - -
+                FILE - - X - - - - - - -
+              UBUNTU - - - X - - X - - -
+              SYSTEM - - - - O - - - - -
+            ANYTHING - - - - - O - - - -
+                TIME - - - - - - X - - -
+                WORK - - - - - - X - - -
+                COPY - - - - - - - - - X
+          HTTPD.CONF - - - - - - - - - X

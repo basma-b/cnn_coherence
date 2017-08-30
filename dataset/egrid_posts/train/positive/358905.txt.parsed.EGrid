@@ -1,0 +1,15 @@
+                LINK X - - - - - - - - - - -
+           PARTITION X - - - - - - - - - - -
+          FILESYSTEM - - - - S - - - - - - -
+            SYMLINKS - - - - O - - - - - - -
+         PERMISSIONS - - - - - X - - - - - -
+                FILE - - - - - - X - - - - -
+            JOURNALS - - - - - - - X - - - -
+                 WAY - - - - - - - - X X - -
+              FORMAT - - - - - - - - X X - -
+               THUMB - - - - - - - - X - - -
+               DRIVE - - - - - - - - O - - -
+                EXT3 - - - - - - - - X X - -
+              DEVICE - - - - - - - - - O - -
+                   U - - - - - - - - - - - X
+          THUMBDRIVE - - - - - - - - - - - X

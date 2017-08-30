@@ -1,0 +1,33 @@
+               WHILE O - - -
+               LOGIN X - - -
+               ISSUE X - - -
+              SYSTEM X - - -
+               ERROR S - - -
+               THERE S - - -
+               SPACE X - - -
+               LEAVE O - - -
+              DEVICE X - - -
+                DUMP X - - -
+                POST X - - -
+/ETC/GDM/PRESESSION/DEFAULT X - - -
+             SESSION O - - -
+                WTMP X - - -
+                UTMP X - - -
+       /VAR/LOG/WTMP O - - -
+       /VAR/LOG/UTMP X - - -
+                  -X S - - -
+/VAR/LIB/GDM/:0.XSERVERS X - - -
+                  -H X - - -
+             VIENDIN X - - -
+   /ETC/GDM/XSESSION X - - -
+               SETUP X - - -
+                  .. O - - -
+              SOCKET X - - -
+                 DIR X - - -
+                 USE X X - -
+                HTTP X - - -
+                  GO - O - -
+                IDEA - - - X
+                BEEP - - - S
+            HARDWARE - - - X
+             FAILURE - - - X

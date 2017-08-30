@@ -1,0 +1,11 @@
+               ERROR S -
+                SUDO X -
+             APT-GET X -
+                FILE X -
+           DIRECTORY X -
+                BITE X -
+               TOUCH O -
+/VAR/LIB/DPKG/STATUS S -
+             NOTHING S -
+            USERNAME - X
+                   > - O

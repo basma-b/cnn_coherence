@@ -1,0 +1,15 @@
+             SOMEONE X - - - -
+                 GCC X - - S -
+                FILE - X S - X
+               A.OUT - - X O -
+                   C - - X X -
+              FILE.C - - S - -
+              LINKER - - X - -
+                 ELF - - - S -
+                 ATM - - - O -
+                 APP - - - S -
+           ASSEMBLER - - - X -
+              OUTPUT - - - X -
+             BOOTC.O - - - - X
+                   > - - - - X
+              FORMAT - - - - X

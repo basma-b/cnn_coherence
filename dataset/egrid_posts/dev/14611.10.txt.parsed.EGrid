@@ -1,0 +1,13 @@
+                  -P X - -
+             OPTIONS - X -
+                 GUI - X -
+               CRASH - S -
+                  3D - S -
+            HARDWARE - O -
+                SUDO - - S
+        /ETC/SUDOERS - - X
+                MODE - - X
+             SUDOERS - - X
+              SOURCE - - X
+              POLICY - - X
+              PLUGIN - - O

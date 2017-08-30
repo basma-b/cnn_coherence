@@ -1,0 +1,16 @@
+              SYSTEM X - - - - - -
+              DOESNT S - - - - - -
+               SOUND - - X - - - -
+                CARD - - X - - - -
+            MODPROBE - - - X - - -
+              OUTPUT - - - - X - -
+             CHANNEL - - - - O - -
+           ALSAMIXER - - - - O - -
+               NOISE - - - - O - -
+                LINE - - - - X - -
+              MODULE - - - - S - -
+            FUNCTION - - - - X - -
+        SND_CTL_OPEN - - - - S - -
+             DEFAULT - - - - X - -
+              DEVICE - - - - X - -
+                 MAC - - - - - X X

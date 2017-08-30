@@ -1,0 +1,15 @@
+             PROGRAM O - - - - - - - - - - -
+                LIST S - - - - - - - - - - -
+          PERMISSION X - - - - - - - - - - -
+                  .. - O - - - X - - - - - -
+         PERMISSIONS - X - - - - - - - - - -
+                FILE - O - - - - - X - - - -
+               PLACE - X - - - - - - - - - -
+             ANOTHER - X - - - - - - - - - -
+                THIS - - - - - S - - - - - -
+               STAND - - - - - O - - - - - -
+              SYSTEM - - - - - X - - - - - -
+                SUDO - - - - - - - O - - - -
+             COMMAND - - - - - - - S - - - -
+               FRONT - - - - - - - X - - - -
+             PROBLEM - - - - - - - - - - - X

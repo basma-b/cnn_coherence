@@ -1,0 +1,26 @@
+              MANUAL X - - - - - - - - -
+         SSHD_CONFIG X - - - - - - - - -
+     PERMITROOTLOGIN X - - - - - - - - -
+              OPTION S - - - - - - - - -
+FORCED-COMMANDS-ONLY X - - - - - - - - -
+                ROOT X - - - - - - - - -
+               LOGIN S - - - - - - - - -
+      AUTHENTICATION X - - - - - - - - -
+             COMMAND X - - - O - X - - -
+                PART O - - - - - - - - -
+           EXECUTION X - - - - - - - - -
+                THAT - S - - - - - - - -
+            QUESTION - - O X - - - - - -
+                THIS - - - X O - O - - -
+                HTTP - - - X - - - - - -
+                  PC - - - - X - - - - -
+                 KEY - - - - - O - - - -
+           SHORTCUTS - - - - - O - - - -
+             WINDOWS - - - - - X - - - -
+               PLINK - - - - - X - - - -
+             DAEMONS - - - - - S - - - -
+                 BOX - - - - - O - - - -
+               SHARE - - - - - X - - - -
+             ACCOUNT - - - - - - X - - -
+           PRIVILEGE - - - - - - X X - -
+                SUDO - - - - - - - X - -

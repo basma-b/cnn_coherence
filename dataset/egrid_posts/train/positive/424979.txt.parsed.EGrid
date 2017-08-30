@@ -1,0 +1,21 @@
+    POSTFIX/PROCMAIL X X - - -
+             MAILDIR X X - - -
+                MAIL - - S O -
+      /VAR/MAIL/USER - - X X -
+             PROCESS - - X - -
+ /HOME/USER/.MAILDIR - - X - -
+            DELIVERY - - - X -
+               AGENT - - - O -
+                USER - - - X -
+               INBOX - - - X -
+             INBOXES - - - S -
+          FILESYSTEM - - - X -
+                  VS - - - X -
+                 MDA - - - X -
+       CONFIGURATION - - - X -
+               THERE - - - S -
+           SOMETHING - - - O -
+       DOCUMENTATION - - - X -
+                THIS - - - X -
+HOME_MAILBOX=.MAILDIR/ - - - - O
+            ANYTHING - - - - O

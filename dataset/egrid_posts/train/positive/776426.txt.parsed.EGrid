@@ -1,0 +1,4 @@
+              UPDATE X -
+        DIST-UPGRADE X -
+                SUDO - X
+            SHUTDOWN - S

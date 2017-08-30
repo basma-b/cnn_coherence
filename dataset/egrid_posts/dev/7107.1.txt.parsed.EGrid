@@ -1,0 +1,15 @@
+             DEFAULT X - - - -
+               LOGIN X - - - -
+             MANAGER X - - O -
+                 KDM - - - X O
+                   * - - - S -
+                USER - - - S -
+                FILE - - - O -
+              WINDOW - - - X -
+                   X - - - X -
+            SESSIONS - - - O -
+             SESSION - - - X -
+           .XSESSION - - - X -
+         CUSTOM/USER - - - X -
+             PRESENT - - - - X
+             DESKTOP - - - - O

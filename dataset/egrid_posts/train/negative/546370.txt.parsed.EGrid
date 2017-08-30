@@ -1,0 +1,20 @@
+/LIB/MODULES/2.6.27-7-GENERIC/BUILD S - -
+                   T S - -
+            WIRELESS X - -
+             DRIVERS S - -
+      KERNEL-HEADERS O - -
+                   $ - O -
+                   ' - S -
+                LINK - O -
+             HEADERS - O -
+           DIRECTORY - X -
+                 USE - X -
+                SUDO - X -
+             APT-GET - S -
+                  -R - X -
+                 RUN - X -
+              KERNEL - X -
+                EXT4 - - S
+          FILESYSTEM - - O
+      PARTITION-TYPE - - S
+               LINUX - - X

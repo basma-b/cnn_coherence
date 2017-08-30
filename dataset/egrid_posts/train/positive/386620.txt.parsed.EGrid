@@ -1,0 +1,15 @@
+               THERE X - - -
+             COMMAND X - - -
+         RECONFIGURE X - - -
+             PACKAGE O - X -
+       CONFIGURATION X - - -
+                MESS X - - -
+             EXAMPLE - X - -
+             SYMLINK - S - -
+                 TRY - - X -
+                DPKG - - X -
+          -CONFIGURE - - S -
+               ERROR - - X -
+                 FOO - - S -
+    DPKG-RECONFIGURE - - X -
+                THAT - - - S

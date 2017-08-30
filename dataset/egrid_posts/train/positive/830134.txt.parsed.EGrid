@@ -1,0 +1,13 @@
+                 USE X - - -
+      WINDOW_MANAGER - O - -
+            .GNOMERC - X - -
+    .XSESSION-ERRORS - X - -
+           SOMETHING - X - -
+                LOAD - X - -
+              COMPIZ - X - -
+             VERSION - X - -
+              UBUNTU - X - -
+               XFWM4 - - - O
+/DESKTOP/GNOME/SESSION/REQUIRED_COMPONENTS/WINDOW_MANAGER - - - X
+            ADDITION - - - X
+GNOME-SESSION-PROPERTIES - - - X

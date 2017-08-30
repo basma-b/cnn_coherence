@@ -1,0 +1,15 @@
+              DRIVER S - -
+                LOAD O - -
+               LSMOD - X -
+            TERMINAL - - O
+                TYPE - - S
+               LSPCI - - X
+               QUOTE - - S
+                   L - - X
+                 BUS - - X
+             DEVICES - - X
+                LIST - - O
+            WIRELESS - - X
+              DEVICE - - O
+             VERSION - - X
+             NOTHING - - X

@@ -1,0 +1,11 @@
+              KERNEL X - - - - - -
+               PANIC O - - - - - -
+                SYNC X - - - - - -
+               TIMER S - - - - - -
+           INTERRUPT X - - - - - -
+               TAINT O - - - - - -
+               CHECK - X - - - - -
+              UBUNTU - - - X - - X
+         LSP_RELEASE - - - S - - -
+             VERSION - - - O - - X
+                  -A - - - - O - -

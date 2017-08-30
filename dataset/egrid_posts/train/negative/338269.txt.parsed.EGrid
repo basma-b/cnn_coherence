@@ -1,0 +1,14 @@
+             ANYBODY X - - - -
+                 WAY X - - - -
+           PARTITION O - - - -
+             COMMAND - O - - X
+          FILESYSTEM - X - - -
+            LVVOLUME - X - - -
+              LIVECD - X - - -
+                STEP - X - - -
+                CARD - - - X X
+              SYSTEM - - - S -
+            IFCONFIG - - - - S
+               LSPCI - - - - X
+               LSUSB - - - - S
+             CHIPSET - - - - O

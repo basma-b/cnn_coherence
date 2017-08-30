@@ -1,0 +1,19 @@
+                  SH X - - - - -
+                  -C S - - - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD O - - - - -
+               THERE - X - - - -
+              DETAIL - X - - - -
+            TUTORIAL - X - - - -
+    /ETC/SYSCTL.CONF - - X - - -
+             COMMAND - - - X X -
+                LINE - - - O O -
+              ETH0-S - - - O X -
+           CONNTRACK - - - X O -
+               NEW-J - - - S S -
+             DEVICES - - - S S -
+              SUBNET - - - X - -
+                 LAN - - - X - -
+       10.0.0.0/24-I - - - - X -
+              ETH1-M - - - - X -
+                THAT - - - - - S
+             EXAMPLE - - - - - O

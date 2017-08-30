@@ -1,0 +1,24 @@
+         DIRECTORIES O - - - -
+             PATTERN O - - - -
+                MOVE X - - - -
+                 HIT O - - - -
+           DIRECTORY S - - - -
+                WORK O - - - -
+             COMMAND S - S - -
+               CAUSE O - - - -
+                 WAY X - - - -
+                 THE - - X - -
+                 USE - - S - -
+                  MV - - X - -
+               -TYPE - - X - -
+                   * - - X - -
+                   \ - - X - -
+                  IM - - X - -
+               TRAIL - - X - -
+                   / - - X - -
+         DESTINATION - - X - -
+      DIRECTORY-NAME - - X - -
+            TERMINAL - - - - X
+             APT-GET - - - - S
+LINUX-HEADERS-GENERIC - - - - S
+                CARD - - - - X

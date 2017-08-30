@@ -1,0 +1,17 @@
+        HTTP-TRAFFIC X - - -
+                  PC X - - -
+             FIREHOL - X - -
+            IPTABLES - X - -
+                DNAT - X - -
+                  -A - S - -
+                ETH0 - X - -
+                 TCP - X - -
+               DPORT - X - -
+                  -J - X - -
+      192.168.0.2:80 - X - -
+                  TY - X - -
+             COMMAND - O X -
+                RULE - - O -
+               CHAIN - - X -
+           UNCOMMENT - - - X
+            NODAEMON - - - O

@@ -1,0 +1,9 @@
+                TYPE X O S - - -
+          FILESYSTEM X X - - - -
+           PARTITION - X X - - -
+               LINUX - - O - - -
+                  AN - - - - X -
+                 SSH - - - - X -
+          BACKGROUND - - - - X -
+             PROCESS - - - - O -
+             COMMAND - - - - - X

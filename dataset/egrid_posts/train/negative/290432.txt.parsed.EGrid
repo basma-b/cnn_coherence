@@ -1,0 +1,7 @@
+             PROGRAM X - -
+        DEPENDENCIES O - -
+                  PC - X -
+             APT-GET - X -
+          AUTOREMOVE - O -
+                BOOT - - X
+                HOME - - X

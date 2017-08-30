@@ -1,0 +1,17 @@
+               IMAGE X - - S - - -
+              FLOPPY - - O S - - -
+              FORMAT - - - X - - -
+                 WAN - - - X - - -
+             WINDOWS - - - X - - -
+              RESCUE - - - X - - -
+                DISK - - - O - - -
+                NTFS - - - X - - -
+             THINGEE - - - S - - -
+                  DD - - - X - - -
+         IF=FILENAME - - - X - - -
+         OF=/DEV/FD0 - - - S - - -
+                 I/O - - - X - - -
+              ERRORS - - - O - - -
+                  HD - - - - S - -
+               BREAK - - - - O - O
+                PART - - - - - - X

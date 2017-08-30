@@ -1,0 +1,9 @@
+                   * S - -
+                INFO - X -
+       WPASUPPLICANT - X -
+                   | - X -
+        NIC_SELTZER1 - S -
+             VERSION - O -
+     NETWORK-MANAGER - - O
+                 WPA - - O
+                FILE - - O

@@ -1,0 +1,13 @@
+         PERMISSIONS O S -
+                FILE X X -
+               CHMOD - O -
+                  -R - O -
+    /VAR/WWW/FOLDER/ - X -
+         DIRECTORIES - O -
+             FOLDERS - X -
+                   D - X -
+                   \ - S -
+           SOMETHING - X -
+                   F - O -
+            ARGUMENT - O -
+                  IM - X -

@@ -1,0 +1,17 @@
+              SWAPON X X X
+             COMMAND X O -
+                NONE S - -
+                SWAP S O -
+                THIS S - -
+               FSTAB X - -
+                   U X - -
+              SYSTEM S - -
+                SHOW O - -
+               BYTES X - -
+             NOTHING - S -
+                TYPE - X X
+            TERMINAL - X -
+               LINUX - X -
+                 MAN - - X
+                 CMD - - X
+                LINE - - X

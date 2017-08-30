@@ -1,0 +1,17 @@
+              ERRROR O - - -
+                VBOX X - - -
+ /ETC/INIT.D/VBOXDRV X - - -
+               SETUP O - - -
+             COMMAND S - - -
+            VBOXDKMS X - - -
+                 PKG S - - -
+             SOMEONE X - - -
+               ASIST X - - -
+              OUTPUT O - X -
+                FILE S - - -
+          VIRTUALBOX O - - -
+            LIBC-BIN - - X -
+             VERSION - - O -
+             APT-GET - - - X
+                SUDO - - - X
+          ROOT-SHELL - - - X

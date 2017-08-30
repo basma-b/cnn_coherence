@@ -1,0 +1,17 @@
+             OPTIONS X - - -
+               ENTRY X - - -
+           PARTITION X - - -
+                TIME - X X -
+             NOTHING - S - -
+             NOATIME - O - -
+              ACCESS - X X -
+               TABLE - O - -
+             DEFAULT - - X -
+                 EXT - - S -
+              UPDATE - - X -
+              RECORD - - O -
+                FILE - - S -
+               ATIME - - X -
+                DISK - - X -
+             TRAFFIC - - O -
+              THANKS - - - X

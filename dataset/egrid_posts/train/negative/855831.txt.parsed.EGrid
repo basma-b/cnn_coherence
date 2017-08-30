@@ -1,0 +1,15 @@
+                BIND O S - - - -
+          /ETC/FSTAB X - - - - -
+                 DEV - X - - - -
+            MOUNTPNT - X - - - -
+                NONE - X - - - -
+                PART - X - - - -
+              FOLDER - O - - - -
+                THX~ - - S - - -
+                 WAY - - X - - -
+                FILE - - O - - S
+                 VIM - - X - - -
+                SUDO - - - X - -
+                /ETC - - - - - X
+                /VAR - - - - - X
+               BREAK - - - - - X

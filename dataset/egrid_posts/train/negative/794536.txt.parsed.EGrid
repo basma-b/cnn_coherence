@@ -1,0 +1,10 @@
+               SAMBA - X - -
+                   | - X X -
+         MRMINTANET2 - X S -
+            IPTABLES - - X -
+             WINDOWS - - X -
+            COMPUTER - - S -
+             NETWORK - - S -
+            INTERNET - - X -
+                  .. - - X -
+       /VAR/LOG/WTMP - - - X

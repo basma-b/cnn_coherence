@@ -1,0 +1,11 @@
+             DEFAULT X - - -
+                USER S - - -
+                SUDO X - - X
+                ROOT O O - -
+             INSTALL S - - -
+               PRIVS O - - -
+            PASSWORD X - - -
+             PROBLEM O - - -
+                   A - - - O
+                PROB - - - S
+  /ETC/INIT.D/SYSLOG - - - S

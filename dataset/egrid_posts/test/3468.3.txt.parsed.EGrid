@@ -1,0 +1,23 @@
+               WITCH X - - -
+              CODECS X O - -
+              SYSTEM X - - O
+                 USE X - - -
+                   * - S - -
+UBUNTU-RESTRICTED-EXTRAS - S - -
+           W32CODECS - O - -
+           W64CODECS - X - -
+           MEDIBUNTU - X - -
+                   M - S - -
+             PROBLEM - O - -
+          MULTIMEDIA - X - -
+                THAT - - S -
+              KERNEL - - X -
+                BOOT - - X X
+           PARAMETER - - O -
+                 ONE - - S -
+   /ETC/DEFAULT/GRUB - - X X
+             DEFAULT - - O -
+                GRUB - - X X
+                TEST - - - X
+                LINE - - - X
+              EDITOR - - - X

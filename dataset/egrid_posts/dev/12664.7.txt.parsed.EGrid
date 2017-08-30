@@ -1,0 +1,6 @@
+        DIST-UPGRADE O O -
+              UPDATE O - -
+                NEED - S -
+                STOP - X -
+               ERROR - X -
+                  NP - - X

@@ -1,0 +1,9 @@
+              SYSTEM O - - - -
+           PARTITION S - O - -
+                NAME X - - - -
+                UUID X X X X -
+               FSTAB X - X - -
+                   < - - - X -
+                   > - - - S -
+         FILESYSTEMS - - - - X
+      EXT2/EXT3/EXT4 - - - - X

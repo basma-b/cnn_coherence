@@ -1,0 +1,9 @@
+              OUTPUT S - - -
+                ALSA X - O -
+               AUDIO X - - -
+               ERROR O - - -
+                PIPE X - - -
+               SOUND - X - -
+          PULSEAUDIO - - O -
+              EFFECS - - - X
+              COMPIZ - - - X

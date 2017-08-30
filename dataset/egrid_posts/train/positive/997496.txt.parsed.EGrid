@@ -1,0 +1,20 @@
+             COMMAND O - - - - - - - - -
+           XORG.CONF - S - - - - - - - -
+                TEXT - X - - - - - - - -
+                HTTP - O - - - - - - - -
+           CONFIGURE - S - - - - - - - -
+/ETC/X11/XF86CONFIG-4 - O - - - - - - - -
+                FILE - - - O - - - - - -
+            TERMINAL - - - - O - - - - -
+                TYPE - - - - S - - - - -
+  /ETC/X11/XORG.CONF - - - - X - - - - -
+/ETC/X11/XORG.CONF.BAK - - - - O - - - - -
+  CTRL+ALT+BACKSPACE - - - - O - - - - -
+                   X - - - - X - - - - -
+              SERVER - - - - X - - - - -
+               RIGHT - - - - O - - - - -
+          BACKGROUND - - - - - - - O X -
+               MOUSE - - - - - - - X X -
+             POINTER - - - - - - - O - -
+                   K - - - - - - - - - X
+                IDEA - - - - - - - - - S

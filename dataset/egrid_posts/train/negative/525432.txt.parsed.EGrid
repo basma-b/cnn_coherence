@@ -1,0 +1,10 @@
+              REBOOT X S X - -
+             CRONTAB X S X - -
+                ROOT - X - - -
+          PRIVELAGES - O - - -
+              SYSTEM - X - - -
+                USER - X X - -
+             PACKAGE - - - - O
+                  TH - - - - S
+                SUDO - - - - X
+             APT-GET - - - - S

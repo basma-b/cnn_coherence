@@ -1,0 +1,10 @@
+/ETC/NETWORK/INTERFACES S - - -
+                AUTO - X - -
+                  LO - X - -
+                INET - X - -
+            LOOPBACK - X - -
+                ETH0 - X - -
+                DHCP - X - -
+               CAUSE - O - -
+               ERROR - X - -
+                BOOT - X - -

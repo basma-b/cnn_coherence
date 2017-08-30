@@ -1,0 +1,15 @@
+                BOOT X - - - -
+                GRUB O - - - -
+            RECOVERY X - - - -
+                MODE X - - - -
+                ROOT X - - - -
+            TERMINAL X - X - -
+                USER - X - - -
+                 SSH - - X - -
+             MACHINE - - X - -
+              WINDOW - - X - -
+                SUDO - - - X -
+             APT-GET - - - S -
+      OPENSSH-SERVER - - - S -
+              UPDATE - - - X -
+GSETTINGS-DESKTOP-SCHEMAS - - - - X

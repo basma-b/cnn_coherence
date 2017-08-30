@@ -1,0 +1,15 @@
+              KERNEL X X - -
+             MODULES X - - -
+             IPW2200 X - - -
+              DRIVER X - - -
+                BOTH - S - -
+                BLOW - O - -
+            INTERNET - O - -
+                 MAN - - X -
+               RMMOD - - X -
+            MODPROBE - - X -
+                  .. - - - X
+                DONT - - - X
+              RESULT - - - X
+                TEST - - - X
+                 RUN - - - X

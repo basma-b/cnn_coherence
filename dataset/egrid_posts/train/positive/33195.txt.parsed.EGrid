@@ -1,0 +1,32 @@
+        DIST-UPGRADE X - - - - - - - -
+             PACKAGE S - - - - - - - -
+         XSERVER-ORG S - - - - - - - -
+        PRECONFIGRIG X - - - - - - - -
+                IDEA X - - S - - - - -
+                THIS O - - - - - - - -
+                THAT - S S - - - - - -
+              EXPORT - X - - - - - - -
+DEBUG_XORG_PACKAGE=DEVELOPER - O - - - - - - -
+DEBUG_XORG_DEBCONF=DEVELOPER - O - - - - - - -
+                  TY - X - - - - - - -
+              OWNERS - S X - - - - - -
+             CHOICES - O - - - - - - -
+        XSERVER-XORG - X - O - - - - -
+                   $ - - S - - - - - -
+                   = - - S - - - - - -
+               VALUE - - O - - - - - -
+SHARED/DEFAULT-X-SERVER - - S - - - - - -
+                WOAH - - O - - - - - -
+         SUGGESTIONS - - X - - - - - -
+                DPKG - - - O - - - - -
+               PURGE - - - O - - - - -
+           XSERVER-X - - - O - - - - -
+                 ORG - - - X - - - - -
+              FREE86 - - - X - - - - -
+                 TRY - - - - S - - - -
+              CONFIG - - - - X - - - -
+                DISK - - - - - O - - -
+                DATA - - - - - O - - -
+                  NO - - - - - - - S -
+            ANYTHING - - - - - - - - X
+            INTEREST - - - - - - - - O

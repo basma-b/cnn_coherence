@@ -1,0 +1,14 @@
+                 APP X - - - - - -
+              NEWBIE X - - - - - -
+            QUESTION S - - - - - -
+                GRUB X - - - - - -
+                LIST X - - - O - -
+                LILO - - X - - - -
+          /SBIN/LILO - - O - - - -
+                CONF - - S - - - -
+/BOOT/GRUB/MENU.LIST - - X - - - -
+              CHANGE - - - S - - -
+              EFFECT - - - O - - -
+                 DNS - - - - - - X
+            SETTINGS - - - - - - O
+             BROWSER - - - - - - X

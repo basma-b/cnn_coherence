@@ -1,0 +1,12 @@
+            SCENARIO X - -
+         ENVIRONMENT X - -
+            VARIABLE X - -
+               HTTPS - X -
+//BUGS.LAUNCHPAD.NET/NAUTILUS-ELEMENTARY/+BUG/662837 - X -
+                FORK - - S
+                  CD - - S
+               CHDIR - - O
+                  .. - - O
+                 WAY - - X
+       /PROC/PID/CWD - - S
+                HACK - - O

@@ -1,0 +1,13 @@
+                I915 O O - - - - -
+         FRAMEBUFFER S - - - - - -
+              DRIVER O - - - - - -
+               EFIFB X - - - - - -
+/ETC/MODPROBE.D/BLACKLIST.CONF - X - - - - -
+              MODULE - S - - - - -
+                LOAD - X - - - - -
+/ETC/MODPROBE.D/BLACKLIST-FRAMEBUFFER.CONF - - - X - - -
+                THAT - - - - - O -
+              LUCENT - - - - - - X
+            SOLUTION - - - - - - S
+                 ONE - - - - - - O
+                WORK - - - - - - O

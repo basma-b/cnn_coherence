@@ -1,0 +1,36 @@
+             COMMAND S - - - - - - - - - - - - - -
+               DRIVE X X S - - - - - - - - - - - -
+                BOOT - - - O - - - - - - - - - - -
+                  OS - - - S - - - - - - - - - - -
+                  CD - - - X - - - X - - - - - - -
+           /PROC/SYS - - - - - X - X - - - - - - -
+               THERE - - - - - S S - - S - - - - -
+            ANYTHING - - - - - O - - - - - - - - -
+              THINGS - - - - - - X - - - - - - - -
+              KERNEL - - - - - - X O - - - - - - -
+           DIRECTORY - - - - - - X - - - - - - - -
+             FOLDERS - - - - - - - S - - - - - - -
+                 ONE - - - - - - - S - - - - - - -
+               DEBUG - - - - - - - X - - - - - - -
+                 NET - - - - - - - S - - - - - - -
+               SEVEN - - - - - - - S - - - - - - -
+         PERMISSIONS - - - - - - - X - - - - - - -
+           R-XR-XR-X - - - - - - - O - - - - - - -
+               THREE - - - - - - - - S S - - - - -
+                FILE - - - - - - - - X O - - - - -
+                LIST - - - - - - - - S - - - - - -
+                THAT - - - - - - - - - S - - - - -
+PERF_COUNTER_PARANOID - - - - - - - - - O - - - - -
+    /PROC/SYS/KERNEL - - - - - - - - - X X - - - -
+              THREAD - - - - - - - - - - - X - - -
+                HTTP - - - - - - - - - - - X - - -
+//FORUMS.VIRTUALBOX.ORG/VIEWTOPIC.PHP - - - - - - - - - - - X - - -
+             T=23223 - - - - - - - - - - - - S - -
+               ERROR - - - - - - - - - - - - S - -
+             VBOXDRV - - - - - - - - - - - - X - -
+                OOPS - - - - - - - - - - - - - X -
+                 CAT - - - - - - - - - - - - - X S
+/PROC/SYS/KERNEL/PERF_EVENT_PARANOID - - - - - - - - - - - - - X -
+                   S - - - - - - - - - - - - - - X
+             PROBLEM - - - - - - - - - - - - - - X
+             PRODUCE - - - - - - - - - - - - - - O

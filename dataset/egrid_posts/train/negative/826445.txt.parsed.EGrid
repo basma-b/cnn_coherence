@@ -1,0 +1,12 @@
+           PRIVILEGE O - - -
+                USER X S - -
+                   < - X - -
+                 RUN - X - -
+              SYSTEM - O O -
+               IMAGE - S - -
+                FILE - X - -
+               WRITE - O - -
+        /ETC/SUDOERS - - S -
+             SUDOERS - - O -
+                LIST - - - O
+                LINE - - - X

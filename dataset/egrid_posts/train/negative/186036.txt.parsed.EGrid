@@ -1,0 +1,7 @@
+        CHECKINSTALL O - - - - -
+                FILE O - - - - -
+                THIS - X - - - -
+             PROGRAM - X - - - -
+                .DEB - - - - O -
+           INSTALLER - - - - X -
+             NETWORK - - - - - S

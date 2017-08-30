@@ -1,0 +1,23 @@
+                 HEY X - - - - - -
+                 GUY X - - - - - -
+             TROUBLE O - - - - - -
+              APACHE X - - - - - -
+               SETUP X - - - - - -
+                PAGE - S - - - - -
+              FORBID - S - - - - -
+                 OWN - X - - - - -
+         PERMISSIONS - - - O - - -
+            EVERYONE - - - S - - -
+                FILE - - - X - - -
+             VAR/WWW - - - X - - -
+           DIRECTORY - - - X O - -
+          DIFFERENCE - - - O - - -
+        READ/EXECUTE - - - - X - -
+              FEDORA - - - - X - -
+               WORLD - - - - X - -
+                PERM - - - - O - -
+                CASE - - - - X - -
+              UBUNTU - - - - X - -
+/ETC/APACHE2/SITES-AVAILABLE/DEFAULT - - - - - O -
+            SYMLINKS - - - - - O -
+                BOTH - - - - - - S

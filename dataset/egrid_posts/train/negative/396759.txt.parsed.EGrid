@@ -1,0 +1,8 @@
+             PROBLEM - O - -
+           READ-ONLY - X - -
+               FAT32 - - X -
+          READ/WRITE - - O -
+           SOMETHING - - O -
+       /PATH/SMTHIGN - - X -
+  /MDIA/DISK/SMTHING - - X -
+               QUOTA - - - X

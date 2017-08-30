@@ -1,0 +1,30 @@
+            STUBBORN S - - - - - - - -
+               CLAIM O - - - - - - - -
+         APPLICATION - X - - - - - - -
+            TERMINAL - O - - - - - - -
+               POINT - X - - - - X - -
+              DEVICE - - S - X - - - -
+              REASON - - X - - - - - -
+                SUDO - - - X - - - X -
+            /DEV/XXX - - - S - - - - -
+                APPS - - - S S - - - -
+                  .. - - - - X - - O -
+              OUTPUT - - - - X - - - -
+                  PS - - - - X - - X -
+               |GREP - - - - X - - - -
+         /MEDIA/DISK - - - - X - - - -
+                TYPE - - - - S - - X -
+               THUMB - - - - - S - - -
+               MOUNT - - - - - - - X -
+              UMOUNT - - - - - - - X -
+   /SBIN/MOUNT.SMBFS - - - - - - - X -
+                 SMB - - - - - - - O -
+               SHARE - - - - - - - O -
+               FSTAB - - - - - - - X -
+//VA01WEBWIN07DEV/WEBSITES - - - - - - - S -
+/MEDIA/VA01WEBWIN07DEV/WEBSITES - - - - - - - O -
+               SMBFS - - - - - - - X -
+                  RW - - - - - - - X -
+             COMMAND - - - - - - - O -
+               ISSUE - - - - - - - O -
+           SOMETHING - - - - - - - - X

@@ -1,0 +1,26 @@
+                FILE X - O - - - -
+                 SSH X - - - - - -
+     DESKTOP/LOCALLY X - - - - - -
+               MUSIC - - X - - - -
+               DRIVE - - X - - - -
+                PLAY - - O - - - -
+             MACHINE - - X - - - -
+              EXPORT - - - X - - -
+          DISPLAY=:0 - - - X - - -
+                  .. - - - S X - -
+             NETWORK - - - X - - -
+               SHARE - - - O - - -
+               SETUP - - - X - - -
+                THIS - - - O O - -
+              SERVER - - - - O - -
+                 RUN - - - - O - -
+                NEED - - - - O - -
+             SERVICE - - - - X - -
+                   D - - - - S - -
+                BOOT - - - - X - -
+              OPTION - - - - O - -
+ACPI_BACKLIGHT=VENDOR - - - - X - -
+                SUDO - - - - - X -
+         UPDATE-GRUB - - - - - X -
+              REBOOT - - - - - X -
+                 YES - - - - - - X

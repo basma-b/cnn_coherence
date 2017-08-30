@@ -1,0 +1,23 @@
+               THERE S - - -
+                 MAN O - - -
+                SSHD O - O -
+               SETUP X - - -
+            COMPUTER X - - -
+             COULDNT X - - -
+             PACKAGE X - - -
+             MANAGER X - - -
+               START S - - -
+              SERVER O X - -
+                THAT - S - -
+             OPENBSD - S - -
+               SHELL - X - -
+                  .. - O - -
+                HOST - X X -
+                 KEY - O X -
+/ETC/SSH/SSH_HOST_RSA_KEY - S - -
+            PROTOCOL - X - -
+             VERSION - X - -
+            HOSTKEYS - - O -
+                EXIT - - O -
+               -LSB- - - - S
+               -RSB- - - - O

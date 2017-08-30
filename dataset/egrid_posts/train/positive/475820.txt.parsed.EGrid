@@ -1,0 +1,11 @@
+               FORCE O - - - -
+               STUFF - S - - -
+                SUDO - X - - -
+           FORCE-ALL - S - - -
+                   < - O - - -
+                   > - X - - -
+                BOOT - X - - -
+              CHEESE - - X - X
+                BASH - - - - X
+                  -C - - - - X
+LD_PRELOAD=/USR/LIB/LIBV4L/V4L1COMPAT.SO - - - - X

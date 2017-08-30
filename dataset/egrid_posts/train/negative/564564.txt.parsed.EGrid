@@ -1,0 +1,11 @@
+         PERMISSIONS O - -
+                FILE X - -
+                  .. X - -
+               BLANK - - O
+            NOPASSWD - - X
+                   % - - X
+               ADMIN - - X
+        ALL=NOPASSWD - - X
+                 ALL - - X
+                USER - - X
+               GROUP - - X

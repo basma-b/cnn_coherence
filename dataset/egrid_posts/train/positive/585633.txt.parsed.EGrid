@@ -1,0 +1,15 @@
+          DIFFERENCE O - - - - - -
+         FSTAB/MSTAB X - - - - - -
+                 ONE - S - - - - -
+                 MAP - O - - - - -
+             DEVICES - X - - - - -
+         MOUNTPOINTS - X - - - - -
+               OTHER - S - - - - -
+                LIST - S - - - - -
+              DEVICE - - O S - S -
+          AUTO-MOUNT - - X - - - -
+                THAT - - - X - - -
+           /ETC/MTAB - - - O - - -
+          /ETC/FSTAB - - - O - - -
+           SOMETHING - - - - - X -
+           YESTERDAY - - - - - - X

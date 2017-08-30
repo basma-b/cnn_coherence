@@ -1,0 +1,17 @@
+                LINE S - - - - -
+                NAME X - - - - -
+            PASSWORD O - - - - -
+                   M X - - - - -
+               -RSB- X - - - - -
+             NETWORK X - X - - -
+             MANAGER X - X - - -
+      WPA_SUPPLICANT - X - - - -
+                CARD - X - - - -
+                WORK - O - - - -
+         NDISWRAPPER - X - - - -
+                WLAN - - O - - -
+              DEVICE - - - X - -
+             VISABLE - - - X - -
+      NETWORKMANAGER - - - X - -
+             COMMAND - - - X - -
+                POST - - - X - -

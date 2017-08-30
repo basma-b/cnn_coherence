@@ -1,0 +1,17 @@
+                DHCP X X - - X - X
+               LEASE X X - - - - -
+                 DNS X X - X - - -
+             CHANNEL - X - - - - -
+            QUESTION - O - - - - -
+            DHCLIENT - S - - - - -
+             SERVERS - S - - - - -
+    /ETC/RESOLV.CONF - X - - - - -
+                SAME - O - - - - -
+             ATLEAST - - X - - - -
+              CLIENT - - - S - - -
+             NETWORK - - - O X - -
+         INFORMATION - - - O - - -
+              SERVER - - - X - - -
+               ENTRY - - - X - - -
+               REPLY - - - - X - -
+           CONFIGURE - - - - O - -

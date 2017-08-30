@@ -1,0 +1,17 @@
+                TIME - X - - - -
+               THERE - X - - - -
+                 WAY - X - - - -
+            LOOPBACK - X - - - -
+             DEVICES - X - - - -
+                BOOT - X - - - -
+              DEVICE - - O - - -
+                  LO - - S - - -
+          /DEV/LOOPN - - O - - -
+         FILESYSTEMS - - X - - -
+          INTERFACES - - O - - -
+               FSTAB - - X - - -
+                LOOP - - X - - -
+          CRYPTSETUP - - - - X -
+             PROBLEM - - - - - O
+             WINDOWS - - - - - X
+                BIOS - - - - - O

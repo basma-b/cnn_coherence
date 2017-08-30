@@ -1,0 +1,10 @@
+                RULE X - -
+                BASE X - -
+             EXAMPLE X - -
+                SUDO X - -
+                 TCP X - -
+         192.168.0.2 X - -
+                PORT X - -
+                 UFW - S -
+                 ONE - - S
+              KAMION - - S

@@ -1,0 +1,6 @@
+                ROOT S X -
+            PASSWORD - S -
+              SYSTEM - X -
+                SUDO - X -
+              PASSWD - O -
+                  OK - - X

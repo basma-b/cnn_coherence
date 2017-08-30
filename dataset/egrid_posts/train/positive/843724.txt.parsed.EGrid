@@ -1,0 +1,16 @@
+    ~/VAR/LOG/SYSLOG - X - - - - - - -
+                FILE - - S S - - - - -
+             ARCHIVE - - X - - - - - -
+ /VAR/LOG/SYSLOG7.GZ - - - - - S - - -
+              OPTION - - - - - - X - -
+                GZIP - - - - - - - - X
+                   | - - - - - - - - X
+                LESS - - - - - - - - S
+                  -D - - - - - - - - S
+                  -C - - - - - - - - S
+              OUTPUT - - - - - - - - O
+              STDOUT - - - - - - - - X
+                SAME - - - - - - - - O
+                MORE - - - - - - - - X
+                 MAN - - - - - - - - X
+              AND/OR - - - - - - - - X

@@ -1,0 +1,14 @@
+  /ETC/X11/XORG.CONF X - -
+                XORG - X -
+            VERSIONS - S -
+               CHMOD - - O
+                 FOO - - S
+                 O+T - - O
+                   T - - S
+                SHOW - - O
+                  -L - - X
+              FOLDER - - S
+               COLOR - - O
+                LIST - - X
+                STAT - - X
+             COMMAND - - S

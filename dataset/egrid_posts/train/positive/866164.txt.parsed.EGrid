@@ -1,0 +1,14 @@
+                 AWS X - - - - S - - -
+              UBUNTU X - - - - - - - -
+            INSTANCE S - - - - - - - -
+                 LOG - X - - - - - - -
+                FILE - X - - - - - - -
+                STOP - - - - - - S - -
+             SERVICE - - - - - - X - -
+               REDIS - - - - - - - - S
+             DEFAULT - - - - - - - - X
+             PROCESS - - - - - - - - X
+            SHOULDNT - - - - - - - - X
+                 … - - - - - - - - O
+                   % - - - - - - - - O
+                 RAM - - - - - - - - X

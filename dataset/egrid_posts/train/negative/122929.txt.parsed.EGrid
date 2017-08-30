@@ -1,0 +1,13 @@
+               CHECK O - - - - -
+                  CC S - - - - -
+           CONFIGURE O - - - - -
+               ERROR X - - - - -
+                PATH X - - - - -
+                OOPS X - - - - -
+               DIDNT X - - - - -
+           BUILD-DEP O - - - - -
+                  TA - X - - - -
+                   E - X - - - -
+             PACKAGE - O - - - -
+           BUILDDEPS - O - - - -
+                 ONE - - - O - -

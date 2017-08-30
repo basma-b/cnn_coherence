@@ -1,0 +1,16 @@
+              ANYONE X - -
+               USERS O - -
+          /ETC/FSTAB X - -
+               ENTRY X - -
+                CIFS X - -
+CREDENTIALS=/ETC/CREDENTIALS S - -
+                  RW X - -
+      IOCHARSET=UTF8 X - -
+      FILE_MODE=0777 X - -
+       DIR_MODE=0777 X - -
+            TERMINAL X - -
+                TYPE - X -
+               CHMOD - X -
+                  -R - X -
+                 ALL - - X
+          READ/WRITE - - X

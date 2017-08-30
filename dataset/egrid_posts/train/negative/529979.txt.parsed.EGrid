@@ -1,0 +1,21 @@
+             MACHINE S - - - - - - - - -
+             NETWORK X - - - - - - - - -
+              SCRIPT O - - - - - - - - -
+                BOOT X - - - - - - - - -
+                 WAY - X - - - - - - - -
+                THIS - O - - - - - - S -
+                8.04 - - X - - - - - - -
+/ETC/NETWORK/INTERFACES - - - - - S - - - -
+                FILE - - - - - - - - O -
+            TERMINAL - - - - - - - - X -
+        APPLICATIONS - - - - - - - - X -
+                   > - - - - - - - - X -
+         ACCESSORIES - - - - - - - - X -
+                TYPE - - - - - - - - X -
+                SUDO - - - - - - - - X X
+               GEDIT - - - - - - - - X -
+  /ETC/X11/XORG.CONF - - - - - - - - X X
+               ADMIN - - - - - - - - X -
+                  CP - - - - - - - - - X
+/ETC/X11/XORG.CONF.BACKUP - - - - - - - - - X
+                PROB - - - - - - - - - X

@@ -1,0 +1,6 @@
+             COMMAND X - - -
+                ROUT O - - -
+            IPTABLES S - - -
+                DROP O - - -
+              REBOOT X - - -
+              SCRIPT - O - -

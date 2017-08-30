@@ -1,0 +1,21 @@
+               KMENU S - - - - -
+        APPLICATIONS O - - - - -
+                MENU - X - - - -
+             ENTRIES - O - - - -
+               GNOME - - X - - -
+                 KDE - - X - - -
+              PEOPLE - - S - - -
+          0X7FFFFFFF - - O - - -
+                SUDO - - X S - -
+                 TEE - - X O - -
+/PROC/SYS/KERNEL/SHMMAX - - X - - -
+             COMMAND - - X - - -
+               THERE - - - X - -
+                ECHO - - - X - -
+               THING - - - X - X
+                   > - - - O - -
+            REDIRECT - - - X - -
+                PIPE - - - X - -
+                USER - - - O - -
+             PROCESS - - - X - -
+         SND-BT-SCOD - - - - X -

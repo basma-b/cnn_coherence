@@ -1,0 +1,26 @@
+                WIRE X - - - -
+            ETHERNET X - - - -
+                 NIC X - - - -
+                 MAC X - - - -
+             ADDRESS X - - - -
+            INTREPID X - - - -
+              SCRIPT - X - - -
+              SERIES - O - - -
+             COMMAND - X - - -
+                 WAY - X - X -
+                THIS - O O - -
+/ETC/NETWORK/INTERFACES - X - - -
+                FILE - X - O -
+                SUDO - - X - -
+            IFCONFIG - - X - -
+                ETHX - - S - -
+               ETHER - - S - -
+            QUESTION - - O - -
+                 ONE - - O - -
+                  KK - - S - -
+           HWADDRESS - - X - -
+                  .. - - O - X
+          INTERFACES - - - X -
+                CALL - - - X -
+  010_WHATEVER.RULES - - - O -
+                 YEA - - - - X

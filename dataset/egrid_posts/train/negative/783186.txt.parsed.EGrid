@@ -1,0 +1,24 @@
+               HTTPS S - - - - -
+                  TL X - - - - -
+               XDMCP O - - - - -
+                 GDM X - O - - -
+                 ODD - X - - - -
+             MACHINE - X - - - -
+               ISSUE - - X O - -
+                HTTP - - X - - -
+//BUGS.DEBIAN.ORG/CGI-BIN/BUGREPORT.CGI - - X - - -
+          BUG=579033 - - - S - -
+                 BUG - - - X - -
+              REPORT - - - S - -
+               BREAK - - - X - -
+             SUPPORT - - - S - -
+                 FIX - - - S - -
+                CODE - - - S - -
+               11.04 - - - X - -
+               PATCH - - - X - -
+               10.10 - - - X - -
+               THERE - - - S - -
+            BACKPORT - - - X - -
+                THAT - - - - - S
+              UPDATE - - - - - X
+              DAEMON - - - - - O

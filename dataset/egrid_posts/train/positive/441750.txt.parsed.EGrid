@@ -1,0 +1,15 @@
+               FLASH X - - - -
+               DRIVE S - - - -
+                WONT S - - - -
+                 WAY - X - - -
+                SUDO - - X - -
+                FSCK - - X - -
+               /DEV/ - - S - -
+                  IM - - O - -
+              DEVICE - - X - -
+                NAME - - O - -
+          DEVICENAME - - - O -
+             DEVICES - - - X -
+                TYPE - - - X -
+               DMESG - - - O -
+                  OK - - - - X

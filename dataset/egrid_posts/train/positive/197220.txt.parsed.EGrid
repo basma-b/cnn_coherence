@@ -1,0 +1,8 @@
+           PARTITION X X -
+                READ X - -
+              ACCESS X - -
+         DISK/LAPTOP - X -
+              FORMAT - O -
+          /ETC/FSTAB - X -
+      ~/FSTAB.BACKUP - S -
+              BACKUP - O -

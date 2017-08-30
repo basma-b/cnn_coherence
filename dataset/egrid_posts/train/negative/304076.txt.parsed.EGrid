@@ -1,0 +1,15 @@
+               CLICK S - - - -
+           PARTITION X - - - -
+               ERROR - S - - -
+           /DEV/SDA1 - - S - -
+              UMOUNT - - - X -
+          /ETC/FSTAB - - - O -
+           REFERENCE - - - S -
+                SUDO - - - X -
+                  -A - - - S -
+             BROWSER - - - X -
+              WINDOW - - - O -
+                NAME - - - X -
+                DISK - - - S -
+             UNMOUNT - - - S -
+            WIKIPAGE - - - - O

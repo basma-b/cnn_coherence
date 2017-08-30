@@ -1,0 +1,15 @@
+                SIZE X X - O - - - -
+          FILESYSTEM X - - - - - - -
+              FORMAT - X - - - - - -
+           PARTITION - O - - - - - -
+               INODE - - - X - - - -
+                EXT4 - - - X - - - -
+          DIFFERENCE - - - X - - - -
+         APPLICATION - - - X - - - -
+              ANYONE - - - X - - - -
+                MESS - - - X - - - -
+             COMMAND - - - - - S - -
+          PROTECTION - - - - - O - -
+                FLAG - - - - - - O X
+                  .. - - - - - - O X
+              PEOPLE - - - - - - - S

@@ -1,0 +1,17 @@
+              STRING X X - - -
+                FILE X - - - -
+         RECURSIVLEY X - - - -
+                DIR/ - S - - -
+          /ETC/INIT/ - X - - -
+                   * - X - - -
+               .CONF - S - - -
+                THIS - O - - -
+                LIST - O - - -
+             PACKAGE - X - - -
+                 CUT - X - - -
+                  -D - X - - -
+                SORT - X - - -
+                  -U - S - - -
+            INSTANCE - - O - -
+                 ONE - - S - -
+              CONFIG - - O - -

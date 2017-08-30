@@ -1,0 +1,11 @@
+           DIRECTORY X - - O -
+        SUBDIRECTORY X - - - -
+                FILE X S - O -
+              CHANGE X O - - -
+                 LOG - X - - -
+             INOTIFY - - X - -
+              ACCESS - - - O -
+             MANPAGE - - - - X
+            ANYTHING - - - - O
+              OUTPUT - - - - X
+           FILENAMES - - - - O

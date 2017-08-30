@@ -1,0 +1,11 @@
+             COMMAND X X - -
+             STARTUP X - - -
+                 TAR - - - X
+               CVPZF - - - X
+          BACKUP.TGZ - - - S
+  EXCLUDE=/ETC/FSTAB - - - S
+       EXCLUDE=/BOOT - - - S
+ EXCLUDE=/LOST+FOUND - - - X
+ EXCLUDE=/BACKUP.TGZ - - - S
+        EXCLUDE=/MNT - - - S
+                   / - - - O

@@ -1,0 +1,10 @@
+             ANYBODY X - - - - -
+             ARTWORK O O X - - -
+ UPDATE-ALTERNATIVES - O - - - -
+              CONFIG - S - - - -
+            SHUTDOWN - X - - - -
+              BOOTUP - - S - - -
+                   $ - - - O - -
+                SUDO - - - X - -
+    UPDATE-INITRAMFS - - - S - -
+                  -R - - - X - -

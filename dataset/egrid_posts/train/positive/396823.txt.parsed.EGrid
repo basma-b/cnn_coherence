@@ -1,0 +1,5 @@
+        CONVERSATION O -
+             GATEWAY X -
+                ISNT S -
+               ROUTE S S
+              ROUTER - O

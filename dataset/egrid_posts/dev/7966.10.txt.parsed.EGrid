@@ -1,0 +1,9 @@
+             COMMENT X - X - -
+           SUBSYSTEM X - X - -
+                SFTP X - X - -
+/USR/LIB/OPENSSH/SFTP-SERVER X - X - -
+/ETC/SSH/SSHD_CONFIG - X - - -
+                INIT - - X - -
+      OPENSSH-SERVER - - S - -
+                 GPU - - - X -
+              GOTCHA - - - - X

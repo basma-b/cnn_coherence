@@ -1,0 +1,16 @@
+                NAME O - - - - - -
+                 PNG X - X - - - -
+             LIBRARY X - - - - - -
+             DEFAULT - - X - - - -
+                   E - - S - - - -
+               CHECK - - X - - - -
+                EVAS - - S - - - -
+                 ALL - - S - - - -
+        DEPENDENCIES - - S - - - -
+             IOERROR - - - - - - X
+               ERRNO - - - - - - X
+              SOCKET - - - - - - X
+               ERROR - - - - - - X
+          CONNECTION - - - - - - X
+               RESET - - - - - - X
+                PEER - - - - - - X

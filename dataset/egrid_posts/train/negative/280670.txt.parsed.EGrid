@@ -1,0 +1,21 @@
+             COMMAND X - - - - - - - - - - -
+                SUDO X - X - S - - - - - - -
+               RMMOD X - - - - - - - - - - -
+        SND_INTEL8X0 X - O - - - - - - - - -
+              MODPRO X - - - - - - - - - - -
+              KERNEL X - - - - - - - - - - -
+            MODPROBE - - O - - - - - - - - -
+        SND-INTEL8X0 - - S - - - - - - - - -
+                WORK - - O - - - - - - - - -
+              MODULE - - - S - - - - - - - -
+/LIB/MODULES/2.6.20-15-GENERIC/KERNEL/SOUND/PCI/SND-INTEL8X0M.KO - - - - O - - - - - - -
+              SYSTEM - - - - S - - - - - - -
+               BREAK - - - - O - - - - - - -
+                   S - - - - X - - - - - - -
+           SOMETHING - - - - O - - - - - - -
+                KIND - - - - - - X - - - - -
+              ERRORS - - - - - - X - O O - -
+                BOOT - - - - - - - - X - - -
+                 LOG - - - - - - - - - X - -
+                THAT - - - - - - - - - - S -
+              REPORT - - - - - - - - - - - O

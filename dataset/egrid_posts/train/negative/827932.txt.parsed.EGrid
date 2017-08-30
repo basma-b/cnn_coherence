@@ -1,0 +1,21 @@
+                 NFS O - - - - - - - -
+               SHARE X - - - - - - - -
+               NATTY X - - - - - - - -
+               USERS X - - - - - - - -
+                AUTO X - - - - - - - -
+              VERS=3 X - - - - - - - -
+           RPC.STATD S - - - - - - - -
+                 RUN O - - - - - - - -
+                LOCK X - - - - - - - -
+             WARNING - X - - - - - - -
+             INITCTL - S - - - - - - -
+             NOTHING - O - - - - - - -
+               STATD - - S - - - - - -
+      NEED_STATD=YES - - S - - - - - -
+/ETC/DEFAULT/NFS-COMMON - - X - - - - - -
+              NOLOCK - - - X - - - - -
+          EVERYTHING - - - - - - O - -
+                HTTP - - - - - - - X -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - - - - - - X -
+            T=763995 - - - - - - - - X
+                  YA - - - - - - - - S

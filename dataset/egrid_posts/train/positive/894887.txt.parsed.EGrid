@@ -1,0 +1,11 @@
+           DIRECTORY X X - - - -
+               GROUP S X - - - -
+              ACCESS O O - - - -
+             DEFAULT - S - - - -
+               UMASK - - X - - O
+        /ETC/PROFILE - - O - - -
+               G=RWX - - O - - -
+              REBOOT - - - X - -
+              EFFECT - - - O - -
+              CHANGE - - - - - X
+                 ONE - - - - - S

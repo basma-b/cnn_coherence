@@ -1,0 +1,12 @@
+               SHARE X - - - -
+              MEMORY X S - - -
+             REGIONS X - - - -
+                IPCS - S - - -
+                CALL - X - - -
+             PROCESS - S - - -
+                KILL - O - - -
+                 APP - - X O -
+                 GUI - - - X -
+            FIREWALL - - - X -
+         FIRESTARTER - - - - X
+           SOMETHING - - - - O

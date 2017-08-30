@@ -1,0 +1,11 @@
+             GPARTED S - - - - -
+             SESSION X - - - - -
+                 CDS X - - - - -
+                 OSD O - - - - -
+                WUBI - - X O - S
+          BOOTLOADER - - S - - -
+                GRUB - - O - - -
+           PARTITION - - - X - -
+             WINDOWS - - - O - -
+                NTFS - - - - - X
+          FILESYSTEM - - - - - X

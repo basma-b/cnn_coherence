@@ -1,0 +1,25 @@
+                   P X - - - - - - - - - -
+                LOAD - X - - - - - - - - -
+             BALANCE - S - - X - - - - - -
+                FACE - X - - - - - - - - -
+                  IP - X - - - - O - - - -
+                ADSL - O - - - - X - - - -
+            OUTBOUND - X - - - - - O - - -
+            UPSTREAM - - S - - - - - - - -
+                 DSL - - X - - - - - - - -
+               GOUKI - - - S - - - - - - -
+//LARTC.ORG/HOWTO/LARTC.RPDB.MULTIPLE-LINKS.HTML - - - S - - - - - - -
+                THAT - - - - S S - - - - -
+               OUTGO - - - - O - - - - - -
+               CABLE - - - - - X - - - - -
+               MODEM - - - - - X - - - - -
+          CONNECTION - - - - - X - - - - -
+             TRAFFIC - - - - - O - - - - -
+           INTERFACE - - - - - - S - - - -
+                 FIX - - - - - - X - - - -
+           WEBSERVER - - - - - - O - - - -
+          INTERFACES - - - - - - - X - - -
+             BROWSER - - - - - - - - - - S
+             REQUEST - - - - - - - - - - O
+            RESPONSE - - - - - - - - - - O
+75792.BHOEHG.FRED.MODEMCABLE.COMCAST.NET - - - - - - - - - - X

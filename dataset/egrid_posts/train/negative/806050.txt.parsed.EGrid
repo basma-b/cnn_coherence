@@ -1,0 +1,15 @@
+             SYMLINK O O - S -
+                BASH X - - - -
+              SCRIPT X S X - -
+                 JOU - - S - -
+                 -LA - - - X -
+                PATH - - - X -
+                LINK - - - O -
+              INIT.D - - - X -
+         /ETC/INIT.D - - - X -
+                XORG - - - - X
+                 LOG - - - - X
+            /VAR/LOG - - - - X
+               WHATS - - - - S
+                 RUN - - - - X
+ /VAR/LOG/XORG.0.LOG - - - - X

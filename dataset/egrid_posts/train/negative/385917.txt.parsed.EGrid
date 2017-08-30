@@ -1,0 +1,12 @@
+              KERNEL X - - -
+              MODULE S - - -
+                ETH0 O - O -
+                  .. - X - -
+               DMESG - - S -
+               LSMOD - - X -
+ /BOOT/GRUB/MENU.LST - - - S
+                LINE - - - X
+              EDITOR - - - X
+                SUDO - - - X
+         UPDATE-GRUB - - - X
+              REBOOT - - - O

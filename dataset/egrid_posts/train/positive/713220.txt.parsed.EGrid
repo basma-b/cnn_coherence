@@ -1,0 +1,14 @@
+             VERSION X - - - -
+            CONFLICT O - - - -
+              MIRROR X - - - -
+                 APT - X - - -
+               FAULT - O - - -
+          DEPENDENCY - X - - -
+            APTITUDE - - X - -
+             APT-GET - - X - -
+              DEBIAN - - X - -
+                   X - - - X -
+                 BUG - - - X -
+              SQUASH - - - O -
+                THAT - - - - X
+           SOMETHING - - - - X

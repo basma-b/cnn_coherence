@@ -1,0 +1,24 @@
+            USERNAME O - - -
+              ACCESS O O - -
+                 SQL X - - -
+                THIS O - - -
+               ERROR O O - -
+               MYSQL X S - -
+           USER=TEST X - - -
+               HY000 X X - -
+              SERVER X X - -
+              SOCKET X S - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK X - - -
+                 HPW X - - -
+               THERE - S - -
+                SUDO - X - -
+                ROOT - S - -
+                USER - X - -
+                 FOO - X - -
+            ANYTHING - X - -
+                  -P - S - -
+            PASSWORD - O - -
+             ACCOUNT - X - -
+                 ONE - O - -
+             NOTHING - X - -
+  /ETC/INIT.D/MYSQLD - S - -

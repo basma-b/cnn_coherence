@@ -1,0 +1,17 @@
+                 ALL O - - - - -
+             PROFTPD O - S - O -
+               ERROR O - - - - -
+              XINETD O - - - - -
+               ABOVE O - - - - -
+              FORMAT X - - - - -
+/USR/SHARE/DOC/XINETD/README.DEBIAN - O - - - -
+         INFORMATION - X - - - -
+          STANDALONE - - S - O -
+                MODE - - S - - -
+       CONFIGURATION - - - O - -
+                THIS - - - - X -
+         RECONFIGURE - - - - X -
+             APT-GET - - - - X -
+               PURGE - - - - S -
+           REINSTALL - - - - X -
+          EVERYTHING - - - - S -

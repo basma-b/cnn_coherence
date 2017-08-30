@@ -1,0 +1,17 @@
+              BTB103 X - -
+            TERMINAL X - -
+        XSERVER-XORG X X -
+              CHOICE X X -
+                VESA X - -
+              DRIVER O - -
+                CARD X - -
+                SUDO - X -
+    DPKG-RECONFIGURE - X -
+                LIST - X -
+                TYPE - X -
+             COMMAND - O -
+              OPTION - O -
+                   X - X -
+                   O - X -
+                   R - X -
+                   G - X -

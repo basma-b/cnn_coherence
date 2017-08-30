@@ -1,0 +1,15 @@
+                TYPE S - - -
+            IWCONFIG X X - -
+            WIRELESS X S - -
+             ADAPTER X - - -
+               WLAN0 O - - -
+              NORMAL O - - -
+           INTERFACE - X - -
+                   ' - - - X
+                 AHA - - - X
+                  .. - - - X
+                  -Z - - - X
+IF=HMC_RECOVERY_V6R1.0_1.ISO - - - X
+         OF=/DEV/DVD - - - S
+              SEEK=0 - - - O
+             FINGERS - - - S

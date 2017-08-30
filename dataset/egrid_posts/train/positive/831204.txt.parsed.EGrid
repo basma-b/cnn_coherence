@@ -1,0 +1,13 @@
+                .EXE O - - -
+                LIST X - - -
+                KIND O - - -
+              THINGY X - - -
+                 DEP - S - -
+           EXECUTION - S - -
+          WORKAROUND - S - -
+             WINDOWS - X - -
+                 YES - O - -
+                WINE - O - -
+              WINEHQ - X - -
+              KERNAL - X - -
+                BITE - - - O

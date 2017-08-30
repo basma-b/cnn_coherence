@@ -1,0 +1,13 @@
+               ALIAS X - - - - - -
+               STORE X - - - - - -
+                FILE - X - - - - -
+        /ETC/ALIASES - - X - - - -
+              SOURCE - - O - - - -
+           ~/.BASHRC - - X - - - -
+                   | - - X - - - -
+          .EXTENSION - - O - - - -
+                FIND - - O - - - -
+                GREP - - - S - - -
+                 HUH - - - - X - -
+              RETURN - - - - - - O
+              OUTPUT - - - - - - X

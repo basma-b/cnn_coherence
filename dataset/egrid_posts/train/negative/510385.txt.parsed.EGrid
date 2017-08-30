@@ -1,0 +1,14 @@
+             USERADD X - - - - - - -
+            PASSWORD X - - - - - - -
+              RETURN X - - - - - - -
+               CRYPT X - X S - - - -
+             DEFAULT - S - - - - - -
+             ACCOUNT - O - - - - - -
+                   < - - X - - - - -
+             PACKAGE - - X - - - - -
+                   C - - - X - - - -
+             LIBRARY - - - X - - - -
+            FUNCTION - - - O - - - -
+             COMMAND - - - X - - - -
+              BOTHER - - - - - - - X
+                WINE - - - - - - - O

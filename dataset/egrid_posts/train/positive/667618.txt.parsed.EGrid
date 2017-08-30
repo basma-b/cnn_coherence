@@ -1,0 +1,27 @@
+               USERS O S - - - - - - - - - - -
+              PEOPLE S - - - - - - - - - - - -
+             ACCOUNT O - - - - - - - - - - - -
+             MACHINE X - - - X - - - - - - - -
+            INTERNET - X - - - - - - - - - - -
+                 ONE - O - - - - - - - - - - -
+                USER - O - - - - - - - - - - -
+            COMPUTER - X - - - - - - - - - - -
+                CASE - - X - - - - - - - - - -
+              SERVER - - S - - - - - - - S - -
+              ROUTER - - - X - - - - - - - - -
+                PORT - - - - O O - - - X O - -
+            QUESTION - - - - X - - - - - - - -
+             TCP/UDP - - - - - X - - - - - - -
+              CONFIG - - - - - X X S - - - - -
+                FILE - - - - - S S - - - S - -
+                 SEC - - - - - - S - - - - - -
+              DAEMON - - - - - - X - - - - - -
+              VSFTPD - - - - - - - X - - - - -
+             DEFAULT - - - - - - - X - - - - -
+CONNECT_FROM_PORT_20=YES - - - - - - - - S - - - -
+              OUTPUT - - - - - - - - - X - - -
+             PROCESS - - - - - - - - - S - - -
+                PLAN - - - - - - - - - - S - -
+               DEPTH - - - - - - - - - - X - -
+           CONFIGURE - - - - - - - - - - S - -
+IP.ADDRESS.OF.SERVER - - - - - - - - - - - - X

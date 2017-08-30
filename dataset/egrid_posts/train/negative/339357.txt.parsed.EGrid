@@ -1,0 +1,8 @@
+                 DNS O O - - -
+                 CLI X X - - -
+           INTERFACE - X - - -
+    /ETC/RESOLV.CONF - O - - -
+              CHANGE - O - - -
+            QUESTION - - S - -
+                  IP - - X - -
+             ADDRESS - - O - -

@@ -1,0 +1,12 @@
+                GRUB X - - - - - - -
+                MENU X - - - - - - -
+               ENTRY - O - - S - - -
+               TITLE - - X - X - - -
+ /BOOT/GRUB/MENU.LST - - - - X - - -
+                ROOT - - - - X - - -
+              KERNEL - - - - X - - -
+         SAVEDEFAULT - - - - X - - -
+                BOOT - - - - O - - -
+            EVERYONE - - - - - X - -
+            HOSTNAME - - - - - - - O
+          /ETC/HOSTS - - - - - - - X

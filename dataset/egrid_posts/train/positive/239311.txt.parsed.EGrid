@@ -1,0 +1,5 @@
+             PACKAGE X - - -
+          DEPENDENCY O - - -
+          NVIDIA-GLX X - - -
+NVIDIA-KERNEL-COMMON - - X -
+NVIDIA-KERNEL-SOURCE - - - X

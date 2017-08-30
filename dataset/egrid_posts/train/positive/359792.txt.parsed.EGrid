@@ -1,0 +1,14 @@
+            QUESTION S - - -
+                 LOG X - - -
+                THIS S X - -
+               -RSB- O - - -
+            DATABASE X - - -
+/ETC/POSTFIX/VMAPS.DB S - - -
+              SOURCE X - - -
+                FILE X - X -
+  /ETC/POSTFIX/VMAPS X - - X
+             POSTMAP - - X -
+                HASH - - X -
+   /ETC/POSTFIX/VMAP - - X -
+               FATAL - - X -
+           DIRECTORY - - X -

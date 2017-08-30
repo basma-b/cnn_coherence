@@ -1,0 +1,13 @@
+            LOCATION X X - - -
+             WINDOWS O O - - -
+                NTFS X X - - -
+//192.168.0.106/SERVER S S - - -
+     /STORAGE/SERVER O O - - -
+              DEVICE X X - - -
+               WHATS S S - - -
+               SMBFS - - O - -
+                CIFS - - O - -
+            WIRELESS - - - X -
+             NETWORK - - - O -
+              UBUNTU - - - O -
+              THANKS - - - - X

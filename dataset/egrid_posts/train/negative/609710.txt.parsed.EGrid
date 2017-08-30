@@ -1,0 +1,16 @@
+         RECONFIGURE X - - - - -
+             PACKAGE O - - - - -
+             DEFAULT X - - - - -
+            SETTINGS X - - - - -
+                   < X - - - - -
+         PACKAGENAME X - - - - -
+                   > S - - - - -
+           .EPIPHANY - X - - - -
+    .CONFIG/EPIPHANY - X - - - -
+            SOFTWARE - O - - - -
+                  .. - - X - - -
+           DIRECTORY - - X - - -
+         DIRECTORIES - - O - - -
+                DONT - - - S - X
+             COMMAND - - - O X -
+              OUTPUT - - - - O -

@@ -1,0 +1,14 @@
+             ANYBODY X - - - -
+               THERE - X - - -
+             WINDOWS - X - - -
+         APPLICATION - X - - -
+               EVENT - X - - -
+              VIEWER - X - X -
+               DMESG - X - - -
+                TAIL - - X X -
+                  -F - - X S -
+     /VAR/LOG/SYSTEM - - X - -
+                  IM - - - S -
+                FILE - - - X -
+               XTERM - - - X -
+              SCREEN - - - - O

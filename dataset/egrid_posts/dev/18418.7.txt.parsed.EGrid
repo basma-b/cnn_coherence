@@ -1,0 +1,30 @@
+                 HEY X - - - - - - - - - - - -
+             TROUBLE O - - - - - - - - - - - -
+                BOOT X X X - - X X - - - - - -
+       CONFIGURATION X - - - - - - - - - - - -
+               12.04 - O - - - - - - - - - - -
+             WINDOWS - X X - - - X - - X - - -
+              OPTION - O - - - - - - O - - - -
+              ANYONE - O - - - - - - - - - - -
+              UBUNTU - - X - - - - - - - - - -
+               HTTPS - - X - - S - - - - - - -
+              LIVECD - - O - - X - - - - - - -
+        INSTRUCTIONS - - O - - - - - - - - - -
+                GRUB - - S - - - X - - - - - -
+              MASTER - - X - - - - - - - - - -
+              RECORD - - X - - - - - - - - - -
+               DRIVE - - X - - - - - - X - - -
+              LOADER - - O - - - O - - - - - -
+         BOOT-REPAIR - - - S - O - - - - - - -
+               CLICK - - - X - S - - - - - - -
+              REPAIR - - - O - X - - - - - - -
+                  .. - - - - S - - - - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/RECOVERINGUBUNTUAFTERINSTALLINGWINDOWS - - - - X - - - - - - - -
+         ACTION=SHOW - - - - - X - - - - - - -
+REDIRECT=RESTOREGRUB - - - - - X - - - - - - -
+             LIVEUSB - - - - - X - - - - - - -
+                 USE - - - - - - - O - - - - -
+               LINUX - - - - - - - - - X - - S
+                 TWO - - - - - - - - - O - - -
+                 ONE - - - - - - - - - O - - -
+             KUBUNTU - - - - - - - - - - - - O

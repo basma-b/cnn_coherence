@@ -1,0 +1,16 @@
+                FILE X - - - - - -
+    /ETC/RESOLV.CONF O - - - - - -
+             SYSTEMS X - - - - - -
+                NAME - X - - - O -
+              RESOLV - O - - - - -
+             PROGRAM - X - - - - -
+            NSLOOKUP - X X - - - -
+                 CLI - X - - - - -
+                TYPE - - X - - - -
+                   < - - X - - - -
+         NAME.DOMAIN - - S - - - -
+         RESOLV.CONF - - O - - - -
+                DHCP - - - O - - -
+                 LAN - - - X - - -
+        RESOLVE.CONF - - - X - - -
+               ERROR - - - - - X -

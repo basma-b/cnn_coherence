@@ -1,0 +1,24 @@
+             MONITOR X - - - -
+              SWITCH S - - - -
+                 USE X - - - -
+              DRIVER O - X - -
+           XORG.CONF O - - S -
+                WORK X - - X -
+              BACKUP X - - - -
+                COPY X - - - -
+                  .. O - O - -
+              MODULE S - - - -
+              NVIDIA X - - - -
+             DRIVERS X - - - -
+               ERROR O - - - -
+              SCREEN S - - X -
+                CARD X - - - -
+                 TWO - S - - -
+              CHANGE - - - S -
+          RESOLUTION - - - X -
+                MESS - - - O -
+        XSERVER-XORG - - - X -
+              -PHIGH - - - S -
+             OPTIONS - - - S -
+              GKSUDO - - - - X
+/ETC/GNOME/DEFAULTS.LIST - - - - X

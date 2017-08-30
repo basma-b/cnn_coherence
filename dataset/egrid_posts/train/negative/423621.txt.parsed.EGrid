@@ -1,0 +1,12 @@
+         PERMISSIONS S O -
+               DRIVE X - -
+                 GUI O - -
+                DATA O O -
+          PERMISSION - X -
+               MOUNT - X -
+               POINT - X -
+                LIST - - O
+                RULE - - X
+               THEM/ - - O
+             VERSION - - O
+/ETC/IPTABLES.UP.RULES - - X

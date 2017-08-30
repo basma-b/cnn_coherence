@@ -1,0 +1,27 @@
+            PASTEBIN - X - - - - -
+              RESULT - X - - - - -
+            IFCONFIG - X - - - - -
+            IWCONFIG - X - - - - -
+               ROUTE - X - - - - -
+                  -N - X - - - - -
+                 CAT - X - - - - -
+/ETC/NETWORK/INTERFACES - X - - - - -
+    /ETC/RESOLV.CONF - X - - - - -
+                MAIN - X - - - - -
+             PORTION - X - - - - -
+                FINE - - X - - - -
+                WIRE - - - X - - -
+              ROUTER - - - O - - -
+             PROBLEM - - - - - X -
+                SUDO - - - - - - O
+            PASSWORD - - - - - - X
+               BATCH - - - - - - X
+                MODE - - - - - - X
+              OPTION - - - - - - S
+                USER - - - - - - S
+              SCRIPT - - - - - - O
+        /ETC/SUDOERS - - - - - - S
+                LINE - - - - - - O
+                 ALL - - - - - - O
+            NOPASSWD - - - - - - X
+     /PATH/TO/BINARY - - - - - - X

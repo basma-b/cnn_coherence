@@ -1,0 +1,10 @@
+            MAINLINE - S - -
+             KERNELS - - S -
+                KGDB - - O -
+            IPTABLES - - - S
+          NETFILTERS - - - O
+           INTERFACE - - - X
+               THERE - - - S
+            SIMPLIER - - - X
+                ONES - - - O
+                 UFW - - - X

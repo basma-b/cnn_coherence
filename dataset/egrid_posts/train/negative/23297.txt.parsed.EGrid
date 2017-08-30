@@ -1,0 +1,10 @@
+                THAT O - - -
+                  .. O - - -
+          DEPENDENCY X - - -
+               CYCLE X - - -
+            ANYTHING S - - -
+       APACHE-COMMON - S X -
+             PACKAGE - S - -
+        DEPENDENCIES - O - -
+          EVERYTHING - - O -
+                 APP - - - O

@@ -1,0 +1,12 @@
+          PERMISSION S - -
+                TYPE X - -
+                 UDF X - -
+                  RO S - -
+           UMASK=000 X - -
+             OPTIONS X - -
+                 IVE - S -
+                AGI= - X -
+                SUDO - X -
+             APT-GET - X -
+              CHANGE - X -
+                ROOT - - X

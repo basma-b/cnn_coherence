@@ -1,0 +1,17 @@
+             COMMAND O - - - - -
+          CONNECTION O - - - - -
+       DELUGE-DAEMON X - - - - -
+                USER X - - X - -
+            PASSWORD X - - - - -
+     127.0.0.2:58846 - X - - - -
+               SETUP - X - - - -
+                 KEY - X - - - -
+                HOST - X - - - -
+                THAT - - X - - -
+               RSYNC - - X - - -
+                   / - - X - - -
+          SSH-KEYGEN - - O - - -
+               ISSUE - - X - - -
+            APPROACH - - - O - -
+     ID/PASSWORD/ETC - - - S - -
+  MICRO-OPTIMIZATION - - - - - O

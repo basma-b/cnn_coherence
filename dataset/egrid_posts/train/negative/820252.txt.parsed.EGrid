@@ -1,0 +1,11 @@
+           PARTITION X X - - -
+             GPARTED X - - - -
+                FILE - O - - -
+              SYSTEM - O - - -
+                 ALL - S - - -
+         CHROMIUM-OS - O - - -
+                DONT - S - - -
+             BACKUPS - - - O -
+                 EAR - - - - O
+             SPEAKER - - - - X
+             WINDOZE - - - - X

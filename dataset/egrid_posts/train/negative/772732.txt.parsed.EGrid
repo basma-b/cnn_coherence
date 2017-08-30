@@ -1,0 +1,9 @@
+              SERVER - X - - X - - - -
+              APACHE - - S - - X - - -
+              ROUTER - - - - X - - - -
+                 SSH - - - - - X - - -
+                PORT - - - - - O - - -
+             USERADD - - - - - - X - -
+             COMMAND - - - - - - - O -
+                TYPE - - - - - - - X X
+                MANY - - - - - - - - O

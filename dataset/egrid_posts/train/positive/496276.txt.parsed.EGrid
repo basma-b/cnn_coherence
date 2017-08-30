@@ -1,0 +1,15 @@
+                GRUB X - - S X
+               ERROR S - - S -
+              ACCESS O O - - -
+                BOOT X - - - X
+                MENU X - - O X
+              CHANGE X - - - -
+                ROOT X - - - -
+               HD0,0 X - - - -
+               ENTRY O - - - -
+      DISK/PARTITION X - - - -
+              NUMBER O - - - -
+                 KEY S - - - -
+              REPORT - - - O -
+                CASE - - - - O
+              LIVECD - - - - X

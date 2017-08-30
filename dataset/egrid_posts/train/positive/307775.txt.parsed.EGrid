@@ -1,0 +1,14 @@
+             DEFAULT X - -
+             WINDOWS X - -
+             MANAGER X - -
+                SUDO - X -
+    DPKG-RECONFIGURE - S -
+              SECOND - X -
+                 KDE - O -
+                 GDM - - X
+                 KDM - - X
+                  DM - - S
+               UNDES - - X
+            SESSIONS - - X
+             OPTIONS - - X
+                LOOK - - O

@@ -1,0 +1,18 @@
+             CONTENT S - - -
+                 DEB X - - -
+             PACKAGE X - - -
+          FILESYSTEM X - X -
+               HTTPS X - - -
+//HELP.UBUNTU.COM/COMMUNITY/LINUXFILESYSTEMTREEOVERVIEW X - - -
+              LEEWAY X - - -
+                FILE S - - -
+           PARTITION S - - -
+FILESYSTEM-PARTITION X - - -
+                 WAY - - S -
+               RAID0 - - O X
+                DATA - - O O
+                RAID - - O -
+                 THE - - - X
+         FILESYSTEMS - - - S
+                PART - - - O
+                DISK - - - X

@@ -1,0 +1,18 @@
+                BOOT X - - - - -
+              SYSTEM X - - - - -
+    /ETC/RESOLV.CONF S - - - - -
+          NAMESERVER X - - - - -
+             NETWORK - X - - - -
+         RESOLV.CONF - - X - - -
+                 DNS - - O - - -
+                 GUI - - O - - -
+              SERVER - - - X - -
+        COMMAND-LINE - - - S - -
+/ETC/NETWORKING/INTERFACES - - - X - -
+                HTTP - - - O - -
+//PASTIE.ORG/PRIVATE/EXGHQN79LBSB4SDOYNPWA - - - S - -
+                FILE - - - - - O
+            TRANSFER - - - - - S
+             DEFALUT - - - - - X
+             HANDLER - - - - - X
+          FUNCTIOONS - - - - - O

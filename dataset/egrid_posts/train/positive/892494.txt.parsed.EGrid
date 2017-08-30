@@ -1,0 +1,21 @@
+                 PHP S S - -
+              ACCESS O - - -
+                FILE X - - X
+           /VAR/WWW/ X - - -
+               RIGHT O - - -
+             WARNING - O - -
+               FOPEN - X - -
+  /CONFIG/CONFIG.INI - X - -
+      FUNCTION.FOPEN - S - -
+               -RSB- - S - -
+              STREAM - O - -
+          PERMISSION - S - -
+/VAR/WWW/INSTALL/INSTALL.PHP - X - -
+                LINE - X - -
+                USER - X S -
+             APT-GET - S - -
+                PHP5 - O - -
+              APACHE - X - -
+               THATS - - S -
+            WWW-DATA - - - X
+            /VAR/WWW - - - X

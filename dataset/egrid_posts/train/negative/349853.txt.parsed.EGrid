@@ -1,0 +1,15 @@
+                HELP O - - - - - -
+              KERNEL X - - - - - -
+               PANIC X S - - - - -
+                 X11 - O - - - - -
+             CONSOLE - O - - - - -
+            1024X768 - X - - - - -
+                 TOP - X - - - - -
+              SCREEN - X - - - - -
+         SUGGESTIONS - - X - - - -
+              SYSLOG - - - X - - -
+             MESSAGE - - - X - - -
+           /VAR/LOG/ - - - X - - -
+                THIS - - - - - - S
+             PACKAGE - - - - - - X
+             MANAGER - - - - - - O

@@ -1,0 +1,17 @@
+              IWLIST X - - - -
+               WLAN0 S - - - -
+              ACCESS X - - - -
+               POINT O - - - -
+             DRIVERS - S - - -
+                LOAD - X - - -
+       WPASUPPLICANT - - X - -
+                THRU - - X - -
+                HELP - - X - -
+                 USE - - X - -
+                 WPA - - S - -
+                FILE - - - O S
+            SETTINGS - - - O -
+                 WEP - - - X -
+               STUFF - - - X -
+                THAT - - - - O
+/ETC/NETWORK/INTERFACES - - - - X

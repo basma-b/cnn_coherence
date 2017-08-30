@@ -1,0 +1,9 @@
+              FORMAT X X - - - -
+               STICK X - - - - -
+                NTFS - - - X - -
+                FILE - - - - - S
+             FILE.SH - - - - - O
+             CRONTAB - - - - - X
+             SYMLINK - - - - - X
+                  .. - - - - - O
+      /ETC/FILE.BASH - - - - - S

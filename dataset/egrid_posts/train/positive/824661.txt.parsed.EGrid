@@ -1,0 +1,16 @@
+              SERVER X - - - - - - O
+            FIREWALL S - - - - X - -
+                  IP O - - - - - - -
+    ALLOW/WHITELISTS X - - - - - - -
+              ANYONE - S - - - - - -
+                THIS - O - - - - - -
+            ANYTHING - - - - X - X -
+                PING - - - - X - X -
+                 FTP - - - - X - X -
+                 SSH - - - - X - X -
+                 ALL - - - - - O - -
+               THOSE - - - - - X - -
+                PORT - - - - - - - O
+                WORK - - - - - - - O
+              OTHERS - - - - - - - S
+               ISSUE - - - - - - - X

@@ -1,0 +1,17 @@
+      NESSUS-PLUGINS X - - - - -
+               PURGE - - X - - -
+             PACKAGE - - O - - -
+          MANAGEMENT - - O - - -
+//PASTE.UBUNTU.COM/187906/ - - S - - -
+                SUDO - - X - - -
+             APT-GET - - S - - -
+          LIBNESSUS2 - - O - - -
+                   ' - - - X - -
+              NESSUS - - - X - -
+               THOSE - - - S - -
+          AUTOREMOVE - - - O - -
+                TYPE - - - O - -
+              OUTPUT - - - O - -
+                   L - - - O - -
+                HTTP - - - - X -
+//PASTE.UBUNTU.COM/187917/ - - - - X -

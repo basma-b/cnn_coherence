@@ -1,0 +1,15 @@
+                ANY1 S - - - -
+             PROBLEM O - - - -
+           PARTITION X - - - -
+              SYSTEM S - - - -
+                BOOT X - - - -
+                /ETC O - - - -
+          /ETC/FSTAB - O - - -
+         FILESYSTEMS - S - - -
+             INITTAB - X - - -
+              INITRD - - X O -
+             KANOTIX - - - X -
+               DRIVE - - - X -
+                 WAY - - - - X
+                  CD - - - - O
+              EXT3FS - - - - X

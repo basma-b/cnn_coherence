@@ -1,0 +1,11 @@
+              BRIDGE X - - -
+                 NAT X - - -
+                MODE X - - -
+                 DLI - X - -
+          VIRUTALBOX - O - -
+           INTERFACE - X - -
+                  .. - O - -
+                WORK - O - -
+             COMMAND - X X O
+      VIRUTALMACHINE - - X -
+                 SSH - - X -

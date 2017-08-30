@@ -1,0 +1,17 @@
+       DOCUMENTATION X - - - - - -
+            MENU.CFG X - - - - - -
+                HTTP - X - - - - -
+               THING - X - - - - -
+           CHARACTER - - X - - - -
+                   ^ - - X - - - -
+                CASE - - - X - - -
+               LABEL - - - X X - -
+                LOAD - - - X X - -
+               ^GRUB - - - O - - -
+               HIREN - - - X X - -
+           UTILITIES - - - X X - -
+               ^LOAD - - - - X - -
+                GRUB - - - - O - -
+                WORD - - - - O - -
+                MENU - - - - X - -
+           OPERATION - - - - - - X

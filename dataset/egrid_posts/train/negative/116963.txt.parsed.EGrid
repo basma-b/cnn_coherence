@@ -1,0 +1,14 @@
+            IPTABLES S - - - - -
+              CHANGE O - - - - -
+      /SBIN/IPTABLES S - - - - -
+               SHELL X - - - - -
+              SCRIPT O - X - - -
+                BOOT X - - X - -
+         /ETC/INIT.D - X - - - -
+/ETC/INIT.D/SKELETON - - O - - -
+            TEMPLATE - - X - - -
+         UPDATE-RC.D - - - O - -
+               THERE - - - S - -
+                 WAY - - - O - -
+            10-15MIN - - - - X -
+                 LOL - - - - - X

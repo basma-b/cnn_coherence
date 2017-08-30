@@ -1,0 +1,9 @@
+                USER X X - - O
+           PRIVILEGE O O - - X
+                ROOT X - - - -
+                THIS - - S - -
+               HTTPS - - O - -
+               USERS - - O - -
+                SUDO - - - - X
+             ADDUSER - - - - X
+            USERNAME - - - - O

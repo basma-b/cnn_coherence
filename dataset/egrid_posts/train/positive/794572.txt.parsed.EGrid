@@ -1,0 +1,17 @@
+                  TV - X - - - - - -
+                CARD - S - - - - - -
+                WORK - X - - - - - -
+           YESTERDAY - O - - - - - -
+               TODAY - - X - - - - -
+            KAFFEINE - - X - - - - -
+              DEVICE - - X - - - - -
+              DRIVER - - - - X - - -
+               ISSUE - - - - X - - -
+              OUTPUT - - - - - O - -
+ TDA18271_WRITE_REGS - - - - - - - X
+               ERROR - - - - - - - X
+                 IDX - - - - - - - X
+                 LEN - - - - - - - X
+        I2C_TRANSFER - - - - - - - X
+              RETURN - - - - - - - X
+                  -5 - - - - - - - X

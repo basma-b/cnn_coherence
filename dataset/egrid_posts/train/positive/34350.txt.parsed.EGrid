@@ -1,0 +1,10 @@
+                GRUB X - - -
+                DISK X - - -
+           FIRSTDISK - S - -
+          PARTITION1 - X - -
+       0,1-FIRSTDISK - X - -
+           PENGUIN42 - - X -
+              NUMBER - - S -
+                 SDA - - X -
+                 0,1 - - - S
+                SDA5 - - - O

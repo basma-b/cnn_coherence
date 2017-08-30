@@ -1,0 +1,14 @@
+              SYNTAX S - - - -
+                  CD X - - - -
+                 ISO O - - - -
+              FOLLOW O - - - -
+            CDRECORD - S - - -
+        THEIMAGE.ISO - S - - -
+                CALL - S - - -
+               WODIM - O - - -
+                DAYS - X - - -
+                   O - - S - -
+               REPLY - - X - -
+                FORK - - O - -
+             LICENSE - - X - -
+                THAT - - - - O

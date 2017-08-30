@@ -1,0 +1,10 @@
+         NON-PACKAGE X - - - - -
+              KERNEL - - X - - -
+              MODULE - - O - - -
+          FILESYSTEM - - X - - -
+             PACKAGE - - O - - -
+                FILE - - O - - -
+               QUERY - - - S - -
+/ETC/RESOLVCONF/RESOLV.CONF.D/ - - - - - X
+                   * - - - - - O
+       DHCLIENT.CONF - - - - - X

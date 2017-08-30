@@ -1,0 +1,15 @@
+              CHANGE O - - - - -
+ BOOTLOGD_ENABLE=YES X - - - - -
+/ETC/DEFAULT/BOOTLOGD X - - - - -
+              UBUNTU S - - - X -
+                  .. O - - - - -
+              KARMIC - - O - - -
+                THAT - - - S - -
+             PACKAGE - - - O - -
+            SYSVINIT - - - O - -
+            BOOTLOGD - - - X - -
+                 AHA - - - X - -
+             VERSION - - - - O -
+                7.10 - - - - X -
+           SOMETHING - - - - X -
+              INSTAL - - - - - X

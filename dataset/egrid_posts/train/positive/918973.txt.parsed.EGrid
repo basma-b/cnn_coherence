@@ -1,0 +1,23 @@
+               HOARY X - - - -
+             PROBLEM O - - - -
+        DIST-UPGRADE X - - - -
+             MACHINE X - - - -
+          MID-UPDATE X - - - -
+              ANYONE - X - - -
+               ERROR - X - - -
+             READING - X - - -
+            DATABASE - X - - -
+                  .. - X - - -
+                DPKG - X - - -
+             PROCESS - X - - -
+/VAR/CACHE/APT/ARCHIVES/DBUS-1-UTILS_0.23-1UBUNTU3_I386.DEB - X - - -
+                FILE - O - - -
+                LIST - X - - -
+             PACKAGE - X X - -
+        DBUS-1-UTILS - X - - -
+        INPUT/OUTPUT - X - - -
+             ARCHIVE - S - - -
+               CACHE - - X - -
+                TYPE - - O - -
+                 TRY - - S - -
+                BOOT - - X - -

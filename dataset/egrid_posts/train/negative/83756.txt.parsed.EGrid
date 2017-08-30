@@ -1,0 +1,21 @@
+                USER O -
+                 HMM X -
+              MOMENT X -
+                 WEB X -
+            TERMINAL O -
+               THERE S -
+              GKSUDO O -
+                 ^^^ S -
+                  .. O -
+              CHANGE X -
+       ALLOWED_USERS O -
+             ANYBODY X -
+/ETC/X11/XWRAPPER.CONFIG X -
+                THIS - S
+                APPS - O
+                 ALL - X
+             PACKAGE - O
+               POINT - S
+               HTTPS - O
+//FEATURES.LAUNCHPAD.NET/DISTROS/UBUNTU/+SPEC/32BIT-BROWSER-ON-AMD64 - X
+                TALK - O

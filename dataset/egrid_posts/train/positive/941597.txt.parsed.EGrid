@@ -1,0 +1,10 @@
+        RTL8139-DIAG X - - - - - X
+              REPORT S - - - - - -
+             CONTROL O - - - - - -
+                  TX X - - - - - -
+                  RX X - - - - - -
+                ETH1 X - - - - - -
+                THIS - X - - - - X
+                PING - S - - - - -
+                DATA - - - O - - -
+                TOOL - - - - - - X

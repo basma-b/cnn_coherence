@@ -1,0 +1,17 @@
+                MOVE O - - - - -
+                DIRS O S - - - -
+                 DIR X - - - - -
+               TEST2 X - - - - -
+               THERE S - - - - -
+                NAME O - - - - -
+                ONES X - - - - -
+                  MV - S - - - -
+           DIRECTORY - X - - - -
+                  .. - O - - - -
+               OTHER - X - - - -
+                THAT - - X - - -
+               RSYNC - - S - - -
+           SOMETHING - - O - - -
+             OPTIONS - - O - - -
+           /DEV/BLAH - - - - - S
+             DEFAULT - - - - - O

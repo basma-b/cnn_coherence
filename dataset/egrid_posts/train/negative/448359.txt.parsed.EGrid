@@ -1,0 +1,8 @@
+                UUID O S - -
+               FSTAB X - - -
+              VFAT32 S - - -
+            /DEV/SDX - S - -
+              EFFECT - X - -
+              LAPTOP - - - S
+                BOOT - - - O
+                 CSD - - - X

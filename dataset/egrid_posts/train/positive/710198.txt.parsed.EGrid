@@ -1,0 +1,22 @@
+                FILE X - O - - - - -
+              UBUNTU X - - - - - - -
+                  CD X - - - - - - -
+   /ETC/DEFAULT/GRUB - O - - - - - -
+            INSTANCE - X - - - - - -
+                PATH - - X - - - - -
+               HWERE - - - X - - - -
+                DISK - - - X - - - -
+           PARTITION - - - X - - - -
+               RSYNC - - - X - - - -
+                 MAN - - - X - - - -
+                PAGE - - - S - - - -
+              OPTION - - - O - - - -
+                THAT - - - - O - - -
+                IIRC - - - - S - - -
+     EXCLUDE=FOLDER/ - - - - X - - -
+             ADVANCE - - - - X - - -
+             OPTIONS - - - - X - - -
+             COMMAND - - - - - X - -
+              FOLDER - - - - - O - -
+                HOME - - - - - X - -
+EXCLUDE=/HOME/USER/VIDEOS - - - - - - - X

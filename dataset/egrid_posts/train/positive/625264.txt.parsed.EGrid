@@ -1,0 +1,10 @@
+              MEMORY X - -
+             PROCESS S - X
+                 USE O - -
+             COMMAND X S -
+                USER S - -
+                  PS - X -
+                 AUX - O -
+                   | - X -
+                GREP - X -
+              LEGEND - O -

@@ -1,0 +1,15 @@
+                MODE O - - - - - - -
+                  PC O - - - - - - -
+              ROUTER X - - - - - - -
+             NETWORK - O - - - - - X
+             MACHINE - X S - - - - S
+               OTHER - X - - - - - -
+              UBUNTU - - X - - - - -
+       AVAHI/BONJOUR - - X - - - - -
+                NAME - - O - - - - -
+      OPENSSH-SERVER - - X - - - - -
+                SFTP - - O - - - - -
+          TECHNOLOGY - - - - - - - O
+               APPLE - - - - - - - X
+ LINUX/DEBIAN/UBUNTU - - - - - - - S
+             ADDRESS - - - - - - - O

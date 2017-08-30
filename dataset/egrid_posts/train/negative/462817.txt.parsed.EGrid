@@ -1,0 +1,14 @@
+                 ANY X - - -
+             MACHINE X - - -
+                 ^^^ - X - -
+       HONDO_KITSUNE - S - -
+                 PCI - - X -
+                 USB - - S -
+               LSPCI - - O -
+            PROBLEMS - - - S
+                USER - - - X
+                 ETL - - - O
+               /DATA - - - O
+           /HOME/ETL - - - X
+             PROBLEM - - - O
+//DPASTE.COM/184164/ - - - X

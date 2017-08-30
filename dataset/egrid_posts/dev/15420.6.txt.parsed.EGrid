@@ -1,0 +1,19 @@
+                HTTP S - - - - - -
+                  .. X - - - - - -
+                SUDO X - - - - - -
+            MODPROBE O - - - - - -
+                 B43 S - - - - - -
+              ERRORS - X - - - - -
+               GUESS - X - - - - -
+           BLACKLIST - O - - - - -
+             VERSION - O - - - - -
+             PROBLEM - - X - - - -
+                HELP - - O - - - -
+               WLAN0 - - S - - - -
+              OUTPUT - - X - - - -
+                WIFI - - - S - - -
+            WIRELESS - - - - X - -
+             NETWORK - - - - O - -
+                 BUG - - - - - - X
+               HTTPS - - - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/LINUX/+BUG/773154 - - - - - - X

@@ -1,0 +1,23 @@
+                THIS S - X - - - -
+       DOCUMENTATION O - X - - - -
+                TIME - - S - - - -
+            ETHERNET - - X - - - -
+                CARD - - X - - - -
+                  .. - - X - O - -
+                WICD - - S - - - -
+            WIRELESS - - X - - - -
+               START - - S - - - -
+                BOOT - - X - - - -
+              SERVER - - - - X - -
+               10.04 - - - - S - -
+/ETC/NETWORK/INTERFACES - - - - O - -
+                 MAN - - - - S - -
+          INTERFACES - - - - S - -
+            PASSWORD - - - - O - X
+      WPA_SUPPLICANT - - - - X - -
+              CONFIG - - - - X - -
+                FILE - - - - S - -
+          ENCRYPTION - - - - X - -
+         PERMISSIONS - - - - O - -
+             DEFAULT - - - - - X -
+               ESSID - - - - - - X

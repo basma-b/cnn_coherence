@@ -1,0 +1,14 @@
+             COMMAND X - - -
+           BANDWIDTH X O - -
+               USAGE O - - -
+                 OUT X - - -
+            SOFTWARE O - - -
+                SUDO - X - X
+            IFCONFIG - S - -
+             NETWORK - - - X
+             MONITOR - - - X
+              APPLET - - - O
+               PANEL - - - X
+                DATA - - - S
+            APTITUDE - - - S
+     XUBUNTU-DESKTOP - - - O

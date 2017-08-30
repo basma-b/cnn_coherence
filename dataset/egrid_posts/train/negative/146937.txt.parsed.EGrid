@@ -1,0 +1,12 @@
+              DRIVER O O -
+                 LCD O X -
+                 USE - O -
+                CHIP - X -
+           HORIZSYNC - X -
+        VERTRREFRESH - O -
+           XORG.CONF - X -
+             UTILITY - X -
+                 OKE - S -
+                 GPU - - S
+                 70C - - X
+            GRAPHICS - - X

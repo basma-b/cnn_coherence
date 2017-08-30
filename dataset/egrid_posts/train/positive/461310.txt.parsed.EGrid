@@ -1,0 +1,17 @@
+                SUDO X - -
+/ETC/INIT.D/G15DAEMON S - -
+            STOPPING - X -
+           G15DAEMON - O -
+ /USR/SBIN/G15DAEMON - O -
+               ERROR - O -
+                LOAD - X -
+               SHARE - X -
+           LIBRARIES - S -
+         LIBG15.SO.1 - X -
+              OBJECT - X -
+                FILE - O -
+           DIRECTORY - X -
+             PACKAGE - X -
+            LIBG15-1 - X -
+                HTTP - - X
+//WWW.PASTEBIN.CA/1059401 - - S

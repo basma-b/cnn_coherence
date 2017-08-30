@@ -1,0 +1,16 @@
+      VGA_SWITCHEROO O - - - -
+               THESE S - - - -
+              KERNEL X X X - -
+             OPTIONS O - - - -
+GRUB_CMDLINE_LINUX_DEFAULT= S - - - -
+              SPLASH X - - - -
+                GRUB O - - - -
+/SYS/KERNEL/DEBUG/VGASWITCHEROO - S - - -
+             PACKAGE - X - - -
+                THAT - - X - -
+             HEADERS - - X - -
+       LINUX-HEADERS - - - - O
+                TYPE - - - - X
+            SOFTWARE - - - - X
+             MANAGER - - - - X
+             VERSION - - - - S

@@ -1,0 +1,6 @@
+             COMMAND S - - -
+           BUILD-DEP O - - -
+             PACKAGE O X - -
+        DEPENDENCIES - O - -
+                OOPS - - - X
+                   S - - - X

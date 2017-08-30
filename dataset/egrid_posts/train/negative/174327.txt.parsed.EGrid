@@ -1,0 +1,14 @@
+                TYPE S -
+              STARTX X -
+             MESSAGE X -
+               ERROR O -
+                LOCK X -
+           AUTHORITY S -
+                FILE X -
+/HOME/B00GZ/.XAUTHORITY S -
+                SUDO X -
+/HOME/B00GZ/.SERVERAUTH.10864 O -
+              SERVER X -
+                  .. X O
+         .XAUTHORITY X -
+                 OAF - X

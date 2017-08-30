@@ -1,0 +1,17 @@
+          INITSCRIPT O - - - - -
+             PACKAGE X X - - - -
+             CONTENT - X - - - -
+        INSTRUCTIONS - - O - - -
+               GUIDE - - X - - -
+                WIKI - - X - - -
+              PLEASE - - - X - -
+                DPKG - - - X - -
+            DPKG-DEB - - - X - -
+             ARCHIVE - - - S - -
+                FILE - - - X - X
+           DIRECTORY - - - X - X
+                  .. - - - X - -
+                THAT - - - - S -
+/VAR/CACHE/APT/ARCHIVES/POSTFIX - - - - X X
+                   * - - - - O O
+                  LS - - - - - X

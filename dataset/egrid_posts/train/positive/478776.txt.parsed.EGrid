@@ -1,0 +1,16 @@
+             SERVICE X - - - - -
+                 SSH - O - - - -
+                SUDO - X - - - -
+                SSHD - S - - - -
+             RE-EXEC - S - - - -
+           EXECUTION - S - - - -
+                PATH - X - - - -
+      OPENSSH-SERVER - S - - - -
+                  .. - O O - - -
+              MOMENT - O - - - -
+           DIRECTORY - X - - - -
+             APT-GET - S - - - -
+/ETC/SSH/SSHD_CONFIG - - O - - -
+                PORT - - S X - -
+              COMMAS - - X - - -
+                 ROW - - - - - X

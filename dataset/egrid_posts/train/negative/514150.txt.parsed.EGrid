@@ -1,0 +1,13 @@
+                 BOX O - - - - -
+                BOOT X X - - - -
+                FILE X - - - - X
+              SYSTEM X - - - - -
+              ERRORS X - - - - -
+                FSCK - O - - - -
+             PROBLEM - - X - - -
+                 ANY - - - S - -
+                  CD - - - - O -
+            TERMINAL - - - - X -
+                DPKG - - - - - S
+                LIST - - - - - O
+             PACKAGE - - - - - X

@@ -1,0 +1,16 @@
+           PARTITION X - - - -
+              UBUNTU X - - - -
+                  -O - X - - -
+                  RW - O - - -
+         /MEDIA/WIN/ - S - - -
+          READ-ONLY. - O - - -
+          JOURNALING - - X - -
+                HFS+ - - - X -
+               STUFF - - - O -
+                EXT4 - - - X -
+            QUESTION - - - - O
+              LOGOUT - - - - S
+                A\ND - - - - O
+              REBOOT - - - - X
+                AUTO - - - - O
+               LOGIN - - - - X

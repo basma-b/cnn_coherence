@@ -1,0 +1,16 @@
+               FLASH X - - - - -
+               DRIVE X - - - - -
+                FILE O - - - - -
+            MOUNTDIR - O - - - -
+                USER - X - - - -
+                SUDO - X - - - -
+               CHOWN - X - - - -
+                   < - X - - - -
+            USERHERE - X - - - -
+                   > - X - - - -
+/MEDIA/YOURMOUNTPOINT - X - - - -
+                  CD - X - - - -
+             SESSION - X - - - -
+                TYPE - - X - - -
+                OOPS - - - - X -
+       /ETC/HOSTNAME - - - - - S

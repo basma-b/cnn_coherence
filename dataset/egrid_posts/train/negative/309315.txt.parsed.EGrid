@@ -1,0 +1,13 @@
+                TIME X - -
+              SCRIPT X - -
+               GNOME X - -
+                CRON - S -
+                TASK - O -
+                ROOT - - S
+                SUDO - - O
+             DEFAULT - - X
+                 USE - - X
+                  SU - - X
+/ETC/APT/SOURCES.LIST - - X
+              CHANGE - - O
+            MARILLAT - - X

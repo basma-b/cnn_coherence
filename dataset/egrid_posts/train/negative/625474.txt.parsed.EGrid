@@ -1,0 +1,27 @@
+                  HI S - - - -
+                INIT O O - - -
+             UPSTART X - X - -
+              CHANGE X - - - -
+                FILE S - S - -
+/ETC/EVENT.D/RC-DEFAULT S - - - -
+                 FOR - - S - -
+                TASK - - O - -
+            RUNLEVEL - - X - -
+              SCRIPT - - X - -
+                 USE - - X - -
+        /ETC/INITTAB - - S - -
+           RUNLEVELS - - S - -
+                SAME - - O - -
+            RC.LOCAL - - X - -
+                THIS - - - - S
+              EVINCE - - - - S
+                HTTP - - - - X
+//LIVE.GNOME.ORG/EVINCE/ROADMAPPDF - - - - S
+                PLAN - - - - X
+          MULTIMEDIA - - - - X
+               SOUND - - - - X
+               MOVIE - - - - X
+             FEATURE - - - - O
+               YEARS - - - - O
+          DEVELOPERS - - - - X
+              RHYTHM - - - - X

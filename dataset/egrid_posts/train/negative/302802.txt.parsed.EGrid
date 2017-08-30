@@ -1,0 +1,14 @@
+            WIRELESS S - - - -
+              KERNEL X - - - -
+                CARD X - - - -
+           2.6.20-16 - X - - -
+            BROADCOM - X - - -
+    BCM43XX-FWCUTTER - X - - -
+         NDISWRAPPER - O - - -
+                SUDO - X - X X
+            MODPROBE - X - - -
+                  -R - X - - -
+             BCM43XX - O - - -
+               RIGHT - O - - -
+             REMOUNT - - - X -
+             COMMAND - - - X -

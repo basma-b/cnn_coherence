@@ -1,0 +1,13 @@
+                 ALL O - - - - - -
+             MODCONF O - - S - - -
+             DEFAULT - X - - - - -
+                NEED - O - - - - -
+                 USE - S - O - - -
+               LSMOD - - S - - - -
+                LOAD - - O - - - -
+              UBUNTU - - - X - - -
+                UDEV - - - X - - -
+             HOTPLUG - - - X - - -
+                MP3S - - - - S - -
+              KERNEL - - - - X - -
+                  YO - - - - - - X

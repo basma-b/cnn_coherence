@@ -1,0 +1,17 @@
+            OWNERHIP X - -
+           DIRECTORY X - -
+      SUBDIRECTORIES X - -
+                READ X - -
+              ACCESS O O -
+                 MAN - O -
+               CHOWN - X -
+         INFORMATION - X -
+                  -R - X -
+                   < - X -
+                USER - X -
+                   > - O -
+                PATH - S -
+             SUB-DIR - X -
+                   / - X X
+               /PATH - X -
+                WORK - - X

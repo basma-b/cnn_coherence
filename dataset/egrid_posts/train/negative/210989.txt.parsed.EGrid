@@ -1,0 +1,23 @@
+             ANYBODY S - - - - -
+         INFORMATION O - - - - -
+              DEVICE O - - - - -
+          /ETC/FSTAB X - - - - -
+                THAT - O - - - -
+                   A - S - - - -
+                 SMB - X - - - -
+                BOOT - X - X - -
+                LINE - X - - - -
+               FSTAB - S - - - -
+             COMMAND - S - - - -
+                SUDO - X - - - -
+                  -A - S - - - -
+               SHARE - S - - - -
+              SOURCE - O - - - -
+               SAMBA - S - - - -
+                 FIX - S - - - -
+            RC.LOCAL - X - - - -
+                 WAY - X X - - -
+/ETC/INIT.D/MOUNTSAMBADEVICESINFSTAB - - X - - -
+            SEQUENCE - - - X - -
+                 GUI - - - - X -
+                 MAN - - - - O -

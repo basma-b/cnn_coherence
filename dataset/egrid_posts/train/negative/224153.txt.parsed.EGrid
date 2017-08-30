@@ -1,0 +1,15 @@
+                BITE X - - - -
+               CHMOD - S - - -
+                   > - S - - -
+                FILE - O - X -
+           DIRECTORY - X - X -
+                  .. - - X - -
+           ./PANDORA - - X - -
+               ERROR - - - O -
+        ./PANDORA.SH - - - X -
+         /BIN/BASH^M - - - X -
+         INTERPRETER - - - X -
+             VERSION - - - - O
+          PRERELEASE - - - - X
+              UBUNTU - - - - X
+      4.0.1-4UBUNTU9 - - - - X

@@ -1,0 +1,10 @@
+           PARTITION X - -
+               TABLE X - -
+                RAID X X -
+            STANDARD - X -
+            FAKERAID - O -
+               SETUP - X -
+                BIOS - X -
+                DISK - O -
+                UTIL - X -
+                  NO - - X

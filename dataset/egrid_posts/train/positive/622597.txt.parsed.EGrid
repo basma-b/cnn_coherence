@@ -1,0 +1,17 @@
+       DEBIAN/UBUNTU X - - - - - -
+         UPDATE-RC.D S - - - - - -
+              REDHAT O - - - - - -
+           CHKCONFIG X X - - - - -
+             SERVICE X - - - S - -
+             SYSTEMV X - - - - - -
+                 MAN - X - - X - -
+                PAGE - O - - O - -
+           SOMETHING - O - - O - -
+                LIST - X - - X - -
+                THAT - - O - - - -
+             COMMAND - - X - - - -
+         INVOKE-RC.D - - - X - - -
+             EXAMPLE - - - - O - -
+           RUNLEVELS - - - - X - -
+          /ETC/RC0.D - - - - - - S
+               PROCS - - - - - - S

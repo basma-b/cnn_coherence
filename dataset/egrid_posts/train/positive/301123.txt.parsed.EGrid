@@ -1,0 +1,23 @@
+                BASH - - - - X - - - - - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - - - S - - - - - - -
+          PERMISSION - - - - S - - - - - - -
+                ROOT - - - - O - - - - - - -
+                  EH - - - - S - - - - - - -
+                SUDO - - - - S - - - - - - -
+            REDIRECT - - - - S - - - - - - -
+NET/IPV4/IP_FORWARD=1 - - - - - O O - - - - -
+    /ETC/SYSCTL.CONF - - - - - X X - - - - -
+         CONVENIENCE - - - - - X X - - - - -
+                 WAY - - - - - - - X - - - -
+              REBOOT - - - - - - - X - - - -
+                  OK - - - - - - - - S - - -
+            EXAMPLES - - - - - - - - O - - -
+                FILE - - - - - - - - X - - -
+           UNCOMMENT - - - - - - - - - S - -
+                LINE - - - - - - - - - X - -
+              PACKET - - - - - - - - - O - -
+                IPV4 - - - - - - - - - X - -
+               THERE - - - - - - - - - S - -
+                 ONE - - - - - - - - - O - -
+NET.IPV4.CONF.DEFAULT.FORWARDING=1 - - - - - - - - - - X -
+                 YUP - - - - - - - - - - - X

@@ -1,0 +1,12 @@
+                  PS X - - - -
+               MYSQL X - S - -
+         PROCESESSES S - - - -
+             SERVICE - - X S -
+               START - - X - -
+                 JOB - - X - -
+              OUTPUT - - O - -
+              STATUS - - X O -
+                 USE - - - X -
+  RESPAWN/POST-START - - - - X
+          POST-START - - - - X
+             PROCESS - - - - X

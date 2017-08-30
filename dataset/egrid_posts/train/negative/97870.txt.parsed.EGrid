@@ -1,0 +1,10 @@
+           GRUB.CONF X - -
+ /BOOT/GRUB/MENU.LST - S -
+               CHECK - O -
+              LAPTOP - - X
+             WINDOWS - - S
+                BOOT - - X
+                GRUB - - O
+                THIS - - S
+                  PM - - X
+                  YA - - O

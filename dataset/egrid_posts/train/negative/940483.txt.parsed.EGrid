@@ -1,0 +1,13 @@
+               CLICK S - - - -
+               PANEL X - - - -
+                 WAY X - - - -
+   DPKG-BUILDPACKAGE - X - - -
+           GNOME-TSC - - O - -
+            COMPLETE - - S - -
+              CONFIG - - X - -
+                FILE - - O - -
+             PACKAGE - - X - -
+             COMMAND - - - - S
+DRIVERS/CHAR/SONYPI.C - - - - X
+        SONYPI_CALL2 - - - - X
+                LINE - - - - X

@@ -1,0 +1,12 @@
+             STARTUP X X X - -
+                SMBD X X - - -
+             WINBIND S - - - -
+               START O X - - -
+              SYSTEM - - X - -
+                   > - - X - -
+         PREFERENCES - - X - -
+        APPLICATIONS - - X - -
+              ANSWER - - - X -
+               SAMBA - - - - O
+      PACKAGEMANAGER - - - - S
+     KUBUNTU-DESKTOP - - - - O

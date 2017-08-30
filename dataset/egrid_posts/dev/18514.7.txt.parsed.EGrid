@@ -1,0 +1,10 @@
+/ETC/LIGHTDM/LIGHTDM.CONF X -
+             GREETER O -
+       UNITY-GREETER X -
+             DEFAULT X -
+              UBUNTU X -
+             NOTHING S -
+                FILE X -
+        SEATDEFAULTS X -
+GREETER-SESSION=UNITY-GREETER X -
+               THANK - X

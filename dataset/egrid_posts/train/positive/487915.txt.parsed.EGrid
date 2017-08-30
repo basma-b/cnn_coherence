@@ -1,0 +1,16 @@
+OPENSSL-0.9.8G-4UBUNTU3.3 X - - - - - -
+             VERSION - O - X - - -
+             PACKAGE - - X - - - -
+                   > - - X - - - -
+     0.9.8G-4UBUNTU3 - - X - - - -
+                DPKG - - - - X - X
+               CACHE - - - - X - -
+            LOCATION - - - - - X -
+                SUDO - - - - - X -
+             APT-GET - - - - - X -
+                  -F - - - - - S -
+                FILE - - - - - X -
+             NETWORK - - - - - X -
+        CONNECTIVITY - - - - - O -
+               FORCE - - - - - - X
+                 MAN - - - - - - X

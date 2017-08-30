@@ -1,0 +1,13 @@
+            LOCATION X - - - -
+                FILE X - - X -
+          EXECUTABLE X - - - -
+             WINDOWS - X - - -
+           PARTITION - X - - -
+                READ - - O - -
+                SUDO - - X - -
+               CHMOD - - X X -
+                  +X - - S - -
+         PERMISSIONS - - - X -
+       INSTALLER.EXE - - - X -
+              SYSTEM - - - X -
+                  CD - - - - O

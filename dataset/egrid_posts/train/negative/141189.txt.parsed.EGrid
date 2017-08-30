@@ -1,0 +1,33 @@
+                FILE O - - - X - - - S O -
+         PERMISSIONS O - - - - - - - - - -
+              MYFILE O - - - - - - - - - -
+    USER/GROUP/WORLD S - - - - - - - - - -
+            FILENAME O - - - - - - - - - -
+               CHMOD - - X - - - - - - - -
+              ERRORS - - X - - - - - - - -
+               RIGHT - - - O - - - - - - -
+                  LS - - - - X - - - - - -
+                  -L - - - - X - - - - - -
+             ACCOUNT - - - - X - - - - - -
+               OWNER - - - - O - - - - - -
+                 VIM - - - - - X - - - - -
+         SSHD.CONFIG - - - - - O - - - - -
+/ETC/SSH/SSHD_CONFIG - - - - - O - - - - -
+               USERS - - - - - S - - - - -
+                 USE - - - - - - - O - - -
+                 SSH - - - - - - - X - - -
+          CONNECTION - - - - - - - S - - -
+               WENKO - - - - - - - X - - -
+                EXIT - - - - - - - O - - -
+             METHODS - - - - - - - S - - -
+               ERROR - - - - - - - - X - -
+         SSHD_CONFIG - - - - - - - - - X -
+                 VNC - - - - - - - - - X -
+               ISSUE - - - - - - - - - X -
+                  .. - - - - - - - - - O -
+              MOMENT - - - - - - - - - S -
+                   K - - - - - - - - - S -
+                HTTP - - - - - - - - - S -
+//PASTE.UBUNTU-NL.ORG/12220 - - - - - - - - - S -
+              FORMAT - - - - - - - - - - O
+               CLICK - - - - - - - - - - X

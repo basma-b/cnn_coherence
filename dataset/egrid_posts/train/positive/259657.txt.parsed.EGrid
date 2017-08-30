@@ -1,0 +1,11 @@
+         PERMISSIONS O O - - O - -
+               FSTAB X - - - - - -
+                THAT - S - - - - -
+              OWNERS - X - - - - -
+           PARTITION - X - - - X X
+          MOUNTPOINT - - - X - - -
+                FILE - - - - O - X
+              SYSTEM - - - - X - -
+                  RW - - - - - O -
+                USER - - - - - S -
+             NOTHING - - - - - - O

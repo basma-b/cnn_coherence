@@ -1,0 +1,17 @@
+                TIME O - - - - - - - -
+            RC.LOCAL S - - - - - - - -
+              SCRIPT O - - - - - - - -
+              SYSTEM S - - - - - - - -
+                ROOT X - - - - - - - -
+           PRIVILEGE X - - - - - - - -
+          EQUIVALENT - X - - - - - - -
+                 DOS - X - - - - - - -
+               WIN9X - X - - - - - - -
+        AUTOEXEC.BAT - X - - - - - - -
+             COMMAND - - O - - - - - -
+             STARTUP - - X - - - - - -
+         REQUIREMENT - - - S - - - - -
+              JAUNTY - - - X - X - - X
+                 RAM - - - S - - - - -
+           WINDOWSXP - - - X - - - - -
+             VERSION - - - - - - X - -

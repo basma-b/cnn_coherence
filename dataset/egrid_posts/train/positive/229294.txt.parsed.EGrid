@@ -1,0 +1,14 @@
+            IFCONFIG - S O - - - - -
+             ADDRESS - X - - - - - -
+    /ETC/RESOLV.CONF - S - - - - - -
+             SERVERS - X - - - - - -
+                LINK - - S - - - - -
+                HELP - - S - - - - -
+         INFORMATION - - S - - - - -
+             EXACTLY - - X - - - - -
+            IPCONFIG - - - - X - - -
+                /ALL - - - - X - - -
+                  IP - - - - - - - O
+               MODEM - - - - - - - O
+            INTERNET - - - - - - - X
+                HOST - - - - - - - X

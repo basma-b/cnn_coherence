@@ -1,0 +1,13 @@
+                   ' X - - - - -
+            IFCONFIG S - - S - -
+             KEYWORD X - - - - -
+           INTERFACE - - O - S -
+            DHCLIENT - - S - - -
+                  IP - - O - - -
+                 MAN - - - X - -
+              COURSE - - - - X -
+          SUBSTITUTE - - - - S -
+                  NO - - - - - X
+           BUILD-DEP - - - - - O
+             PACKAGE - - - - - O
+               BUILD - - - - - S

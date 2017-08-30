@@ -1,0 +1,17 @@
+             SOMEONE X - - - -
+              FORMAT X - - - -
+                 HDD O - - - -
+                  OS O - - - -
+                 ERR - S - - -
+              DISTRO - X - - -
+                BOOT - O - - -
+                  CD - X - - -
+             GPARTED - O - - -
+           PARTITION - X O - -
+              EDITOR - O - - -
+                 USE - - O - -
+                LOAD - - S - -
+                .DEB - - - - O
+           MAKE-JPKG - - - - O
+                  .. - - - - X
+                DEBS - - - - X

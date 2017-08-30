@@ -1,0 +1,12 @@
+                HOST S - - - - - -
+             NETWORK X - - - - X X
+                 DNS X - - - - - -
+              APACHE S - - - - - -
+             WEBSITE - - X - - X -
+                  IP - - X - S S -
+             ADDRESS - - X - - - -
+                WORK - - X - - - -
+            HOSTNAME - - X - - - -
+                 HMM - - - - - S -
+    WWW.BYTEBIND.COM - - - - - - S
+                 LAN - - - - - - X

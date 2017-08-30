@@ -1,0 +1,11 @@
+                THAT X - -
+            IPTABLES X - -
+               INPUT X - -
+                  -I S - -
+                 TCP O - -
+                  -J S - -
+                   < O - -
+            ANYTHING X - -
+                SUDO - X -
+               FRONT - X -
+                 HUH - - X

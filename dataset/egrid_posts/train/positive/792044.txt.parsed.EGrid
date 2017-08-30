@@ -1,0 +1,14 @@
+                UUID O - - - -
+               FSTAB X - - - -
+                STEP O - X - -
+             COMMAND - O - - -
+   /DEV/DISK/BY-UUID - S - - -
+          PARTITOINS - O - - -
+              STRING - X - - -
+              LETTER - X - - -
+               GREEN - X - - -
+                BOOT - - O - -
+                  CD - - X - -
+                 USB - - X - -
+               POINT - - - O -
+           /DEV/SDA1 - - - - S

@@ -1,0 +1,12 @@
+                DISK X X - - -
+               CHECK O O - - -
+               FSTAB X - - - -
+              SYSTEM S - - - -
+                BOOT X - - - -
+              DELETE - X - - -
+              E2FSCK - X - - -
+                 WAY - X - - -
+               AFAIK - - S - -
+              CONFIG - - X - -
+              THINGY - - S - -
+                  OK - - - - X

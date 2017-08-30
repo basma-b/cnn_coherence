@@ -1,0 +1,20 @@
+               FSTAB X - - - -
+                LINE S - - - -
+                THIS X - - - -
+/HOME/IZMAELIS/STUFF X - - - -
+               SMBFS X - - - -
+                AUTO X - - - -
+           FMASK=777 X - - - -
+           DMASK=777 X - - - -
+           USERNAME= X - - - -
+            IZMAELIS X - - - -
+               SHARE S - - - -
+                BOOT X - - - -
+                  -A O - - - -
+                PROB O - - - -
+                SUDO - S - - -
+                 HRM - - X - -
+             NETWORK - - - X -
+                THAT - - - - S
+                STEP - - - - O
+            ANYTHING - - - - O

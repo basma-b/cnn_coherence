@@ -1,0 +1,17 @@
+    APACHE2.2-COMMON X - - - - - -
+ APACHE2-MPM-PREFORK O - - - - - -
+              ERRORS - O - - - - -
+              SCRIPT - O - - - - -
+              RETURN - - X - - - -
+               ERROR - - S - - O -
+              STATUS - - O - - - -
+                BOTH - - X - - - -
+              FIXRES - - - - - X -
+                   > - - - - - X X
+          LJANANRDAN - - - - - S -
+             MESSAGE - - - - - O O
+               UBOTU - - - - - X X
+             COMMAND - - - - - O -
+              PLEASE - - - - - O -
+            PASTEBIN - - - - - - X
+           JOETHOMAS - - - - - - X

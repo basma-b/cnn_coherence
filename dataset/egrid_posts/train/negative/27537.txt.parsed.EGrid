@@ -1,0 +1,14 @@
+             UMASK=0 S - - -
+                EXT3 X - - -
+             EXT3-FS S - - -
+              OPTION S - - -
+                USER S - - -
+           PARTITION O - - -
+               GROUP - X - -
+               USERS - O - -
+                  EG - S - -
+                CALL - X - -
+               SHARE - O - -
+                TOOL - X - -
+                THIS - O - -
+              UBUNTU - X - -

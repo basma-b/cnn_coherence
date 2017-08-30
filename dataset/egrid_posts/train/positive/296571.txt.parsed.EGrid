@@ -1,0 +1,9 @@
+           WEBALIZER S -
+               ERROR S -
+                 LOG S -
+                FILE X X
+/VAR/LOG/APACHE2/ACCESS.LOG.1 O S
+         PERMISSIONS O -
+                   ' - S
+                  LS - S
+           DIRECTORY - S

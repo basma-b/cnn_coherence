@@ -1,0 +1,10 @@
+                UUID X - - - - -
+           PARTITION O - - - - -
+                SWAP X - - - - -
+               FSTAB - O - - - -
+                BOOT - X - - - -
+              REBOOT - - O - - -
+              SWAPON - - - S - -
+          /ETC/FSTAB - - - X - -
+              THANKS - - - - X -
+                THAT - - - - - X

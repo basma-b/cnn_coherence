@@ -1,0 +1,11 @@
+             DEFAULT X - - -
+               LOGIN X - - -
+             MANAGER O - - -
+                SUDO - X - -
+    DPKG-RECONFIGURE - S - -
+                LIST - X - -
+            MANAGERS - X - -
+                COPY - - O -
+                TEST - - O -
+            QUESTION - - S -
+                  .. - - - O

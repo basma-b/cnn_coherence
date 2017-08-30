@@ -1,0 +1,25 @@
+GNOME-VOLUME-MANAGER S - - - -
+               TOTEM X - - - -
+         SOUNDJUICER S - - - -
+                 WAY X - - - -
+                TYPE X - - - -
+     RECOMMENDATIONS X O X - -
+            APTITUDE - S - X -
+          PREFERENCE - O - - -
+                THIS - O - - -
+                 MAN - X - - -
+                PAGE - X - - -
+            FLOODBOT - X - - -
+                  -R - X - O -
+  WITHOUT-RECOMMENDS - S - - -
+        DEPENDENCIES - X - - -
+             PACKAGE - X - - -
+            OVERRIDE - X - - -
+            SETTINGS - X - - -
+   /ETC/APT/APT.CONF - X - - -
+  ~/.APTITUDE/CONFIG - X - - -
+            PACKAGES - - S - -
+                FILE - - - X -
+                IDEA - - - - O
+        INSTRUCTIONS - - - - O
+               LINUX - - - - X

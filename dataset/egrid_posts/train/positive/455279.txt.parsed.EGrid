@@ -1,0 +1,9 @@
+                 PID O O -
+             PROCESS X - -
+                   $ - X -
+                 CAT - X -
+      /PROC/PID/STAT - X -
+                   | - X -
+                 AWK - O -
+               PRINT - X -
+              BODSDA - - S

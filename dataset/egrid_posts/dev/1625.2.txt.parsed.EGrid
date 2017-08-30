@@ -1,0 +1,12 @@
+             DEFAULT X - - -
+         APPLICATION X - - -
+             FOLDERS O - - -
+                   < - X - -
+              FOLDER - X - -
+                   > - O - -
+              SYSTEM - X - -
+            SETTINGS - X - -
+              DETAIL - O - -
+              DAEMON - - - O
+               NOHUP - - - X
+           SOMEHTING - - - X

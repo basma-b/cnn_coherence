@@ -1,0 +1,14 @@
+             APT-GET S S - - -
+                LINE X - - - -
+/ETC/POSTFIX/MAIN.CF X X - - -
+                MAIL S S - - -
+                USER S S - - -
+              DOMAIN O O - - -
+LOCALHOST.LOCALDOMAIN X O - - -
+                SUDO - X - - -
+                XFCE - O - - -
+              DETAIL - - O - -
+   VIRTUAL_ALIAS_MAP - - X - -
+       CANONICAL_MAP - - O - -
+                 USE - - S - -
+      OPENOFFICE.ORG - - - - X

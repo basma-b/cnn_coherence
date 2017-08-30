@@ -1,0 +1,13 @@
+             PACKAGE X O - -
+          AUTOREMOVE X - - -
+         PACKAGENAME - O - -
+                SUDO - X - -
+                DPKG - X - -
+      SET-SELECTIONS - X - -
+             COMMAND - O O -
+                READ - - O -
+             MANPAGE - - X -
+               -RW-R - - - X
+               CHRIS - - - X
+               16:12 - - - X
+            MYPROG.S - - - X

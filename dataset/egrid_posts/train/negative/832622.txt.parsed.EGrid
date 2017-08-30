@@ -1,0 +1,15 @@
+                 HDD X - - - -
+                AUTO X - - - -
+                SUDO - S - - -
+               MKDIR - X - - -
+   /MEDIA/MOUNTPOINT - O - - -
+                FILE - X - - -
+              SYSTEM - X - - -
+               TABLE - S - - -
+              MASTER - X - - -
+               ERROR - - X - -
+                ROOT - - O - -
+              THINGS - - S - -
+               FSTAB - - S - -
+             COMMAND - - O - -
+            SESSSION - - - O -

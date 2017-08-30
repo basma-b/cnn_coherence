@@ -1,0 +1,11 @@
+             COMMAND X - - - -
+                TYPE X - - - -
+              WINDOW X - - - -
+           PARTITION S - - - -
+              FORMAT O - - - -
+               MOUNT - S - - -
+                 WAY - X - - -
+             DEVICES - O - - -
+                FILE - - X - -
+                  -S - - S - -
+                THAT - - - - S

@@ -1,0 +1,17 @@
+                USER S - - - - -
+                 USE X - - - - -
+                SUDO X O - - - -
+               GROUP - X - X - -
+                ROOT - X - - - -
+                 HMM - - X - - -
+                 LEM - - - X - -
+             SUDOERS - - - S - -
+                  .. - - - O X -
+               OOOOH - - - X - -
+                CALL - - - X - -
+            SHUTDOWN - - - X - -
+           SOMETHING - - - X - -
+               USERS - - - X - -
+              REBOOT - - - - - X
+               /SBIN - - - - - X
+           RWXRWXRWX - - - - - O

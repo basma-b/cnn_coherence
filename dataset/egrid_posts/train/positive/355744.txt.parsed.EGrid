@@ -1,0 +1,11 @@
+              ANYONE S - - - -
+              MANUAL O - - - -
+              SERVER O - - - -
+            TFTP-HPA - X - - -
+                ITLL - S - - -
+              SCRIPT - O - - -
+                SUDO - - X - -
+/ETC/INIT.D/WHATEVER - - S - -
+/ETC/INIT.D/TFTP-HPA - - - X -
+                TEXT - - - X -
+                FILE - - - O -

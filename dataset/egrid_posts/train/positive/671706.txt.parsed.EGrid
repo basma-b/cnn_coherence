@@ -1,0 +1,10 @@
+             COMMAND X X -
+                 LOG O - X
+             DEVICES X - -
+             CONNECT X - -
+                 USB X - -
+             VERSION - X -
+            QUESTION - O -
+              OUTPUT - - O
+            TERMINAL - - X
+              DEVICE - - O

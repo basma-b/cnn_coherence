@@ -1,0 +1,12 @@
+          C-COMPILER X - - -
+     BUILD-ESSENTIAL X - - -
+                 GCC S - - -
+                TOOL S - - -
+                 CMD X - - -
+                SUDO - X - -
+             APT-GET - S - -
+               INTEL - - X -
+            CENTRINO - - X -
+          WIRELESS-N - - S -
+                   N - - - X
+         REGRESSIONS - - - O

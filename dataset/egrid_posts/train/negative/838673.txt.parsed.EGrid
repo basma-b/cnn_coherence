@@ -1,0 +1,9 @@
+             COMMAND X - - - -
+               ISSUE X - - - -
+          EXECUTABLE S - - - -
+                 USE X - - - -
+           LIBRARIES - X - - -
+                FILE - - X - -
+                 LDD - - S - -
+                   > - - O - -
+                TIME - - - S -

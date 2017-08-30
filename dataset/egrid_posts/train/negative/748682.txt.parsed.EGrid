@@ -1,0 +1,20 @@
+            QUESTION X - - - - - -
+          BASHSCRIPT S - - - - - -
+                FILE O - - - - X -
+                HOST X - - X - O -
+              ACCESS O - - - - - -
+            PROTOCOL X X - - - - -
+                 SSH - - S - - X -
+                  .. - - O - - - -
+                THIS - - - S - - -
+                USER - - - X - S -
+/PATH/TO/SCRIPT/RUNME.SH - - - X - X -
+                THAT - - - - X - -
+                COPY - - - - X - -
+           DIRECTORY - - - - - X -
+                PATH - - - - - S -
+                 CAT - - - - - X -
+          EVERYTHING - - - - - - O
+             COMMAND - - - - - - X
+              PEOPLE - - - - - - S
+    COMMAND-LINE-WAY - - - - - - O

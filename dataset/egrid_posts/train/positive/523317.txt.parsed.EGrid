@@ -1,0 +1,14 @@
+               WI-FI X - - - - - -
+              DRIVER X - - - - - -
+                LOAD O - - - - - -
+              IWLIST - X - - - - -
+                SCAN - X - - - - -
+                 NOW - - X - - - -
+ WLAN0/ETH1/WHATEVER - - O - - - -
+       LPF/RA0/00:18 - - - X - X -
+               E7:49 - - - S - S -
+                 C8M - - - X - X -
+                  C8 - - - X - X -
+               LEASE - - - - S - S
+             ADDRESS - - - - X - X
+                CARD - - - - X - X

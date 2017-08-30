@@ -1,0 +1,20 @@
+              ANYONE X - - - - -
+             UPSTART X - - - - -
+RELATIONSHIPS/DEPENDENCIES O - - - - -
+             SERVICE X - - - - -
+               START X - - - - -
+                BOOT X - - - - -
+           /ETC/INIT - X - - - -
+              DOCTEH - O - - - -
+             PROBLEM - S - - - -
+               DHCPD - S X - - -
+              BRIDGE - X - - - -
+           INTERFACE - S - - - -
+              CONFIG - - S - - -
+              FOLDER - - X - - -
+                 WAY - - - X - -
+                 ONE - - - O - -
+                 LOK - - - X - -
+               VALUE - - - - - O
+             SUPPORT - - - - - X
+             COMMENT - - - - - O

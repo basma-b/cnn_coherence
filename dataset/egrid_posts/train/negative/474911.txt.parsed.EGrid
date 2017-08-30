@@ -1,0 +1,18 @@
+                  AN O - - - - - - -
+             COMMAND X - - - - - - -
+           PARTITION S - - - - - - -
+                NAME O - - - - - - -
+                LINE X - - - - - - -
+           PARTIONER X - - - - - - -
+                  -L X - - - - - - -
+              CFDISK X O - - - - - -
+                NEED O - - - - - - -
+             GPARTED - - - S - - - -
+                 GTK - - - - O - - -
+                   X - - - - - X - -
+              SERVER - - - - - X - -
+                PITY - - - - - O - -
+            SETTINGS - - - - - - O -
+             FORWARD - - - - - - S -
+             DEFAULT - - - - - - X -
+/ETC/SSH/SSHD_CONFIG - - - - - - - O

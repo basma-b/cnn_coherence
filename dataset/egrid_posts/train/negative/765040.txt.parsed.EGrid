@@ -1,0 +1,13 @@
+             COMMAND X - - - - - - - - - - - - -
+                USER O - - - - - - - - S - - - -
+             USERADD - X - - - - X - - - - - - -
+                FLAG - - X - O - - - - - - - - -
+            USERNAME - - X S - - - - - - - - - -
+            ARGUMENT - - - O - - - - - - - - - -
+             EXAMPLE - - - - - X - - - - - - - -
+           MINDVIRUS - - - - - - X - - - - - - -
+                THIS - - - - - - - S - - - - - -
+                HOME - - - - - - - - X - - - - -
+           DIRECTORY - - - - - - - - O - - - - -
+               GROUP - - - - - - - - - O - - - -
+               ADMIN - - - - - - - - - - O - - -

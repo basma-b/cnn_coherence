@@ -1,0 +1,14 @@
+             NETWORK S - - - - - - - X
+              BOOTUP X - - - - - - - -
+/ETC/NETWORK/INTERFACES - O - - - - - - -
+      NETWORKMANAGER - X - - - - - - -
+                THIS - - X - - - - - -
+             ENTRIES - - - X - - - - -
+          INTERFACES - - - X S - - - X
+                 MAN - - - - X - - - -
+            DHCLIENT - - - - - - - - O
+             DEVICES - - - - - - - - X
+                ETH2 - - - - - - - - X
+                ETH3 - - - - - - - - O
+                ETH0 - - - - - - - - O
+                FILE - - - - - - - - X

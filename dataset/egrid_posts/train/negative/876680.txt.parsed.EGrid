@@ -1,0 +1,13 @@
+                  IP X - -
+           255.0.0.0 O - -
+               ROUTE X - -
+             DEFAULT X - -
+                  GW O - -
+                WORK - O -
+             ADDRESS - O -
+            INTERNET - X -
+                 DNS - S -
+              SERVER - O -
+    /ETC/RESOLV.CONF - X -
+               ENCFS - - S
+            ECRYPTFS - - X

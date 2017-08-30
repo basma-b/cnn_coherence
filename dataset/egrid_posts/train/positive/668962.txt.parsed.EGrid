@@ -1,0 +1,17 @@
+               ARRAY X - - - - -
+               MDADM X - - - - -
+          FILESYSTEM O - X - - -
+                  DF - X - - - -
+                  -H - S - - - -
+           SIZE=1.8T - O - - - -
+               THERE - - S - - -
+             NOTHING - - O - - -
+                196M - - X - - -
+               SPACE - - - X - -
+             RESERVE - - - X - -
+                ROOT - - - X - -
+                SUDO - - - - X -
+             TUNE2FS - - - - O -
+            /DEV/MD0 - - - - X -
+        RESERVATIONS - - - - O -
+                  .. - - - - - O

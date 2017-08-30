@@ -1,0 +1,20 @@
+SYSTEM-TOOL-BACKENDS X - - - - -
+               THERE - X - - - -
+                 WAY - X - - - -
+              AMOUNT - O - - - -
+              MEMORY - X - - - -
+                 USE - X - - - -
+              KERNEL - X - - - -
+             NETWORK - - X - - -
+            SETTINGS - - X - - -
+                CARD - - O - - -
+              SYSTEM - - X - - -
+                   > - - X - S -
+      ADMINISTRATION - - X - - -
+              INSERT - - - X - -
+                  CD - - - S X -
+                REPO - - - X - -
+                 ROM - - - - X -
+          REPOSITORY - - - - X -
+                  .. - - - - O -
+            SYNAPTIC - - - - - X

@@ -1,0 +1,17 @@
+                  CD X - - - - - - - -
+                SUDO - X - - - - - - -
+           APT-CDROM - S - - - - - - -
+             APT-GET - X - - - - - - -
+              UPDATE - S - - - - - - -
+                ROOT - X - - - - - - -
+               LOGIN - O - - - - - - -
+                 USE - - S - - - - - -
+               ERROR - - - X - - - - -
+                 MSG - - - S - - - - -
+           CONFIGURE - - - X - - - - -
+                FLEX - - - S - - - - -
+                 LEX - - - - S - - - -
+             SUPPORT - - - - O - - - -
+                TIME - - - - - - - - O
+        DIST-UPGRADE - - - - - - - - S
+             PROCESS - - - - - - - - X

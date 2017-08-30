@@ -1,0 +1,14 @@
+         ENVIRONMENT X - - -
+            VARIABLE X - - -
+                ROOT X - - -
+               THING - O - -
+              EXPORT - X - -
+               PATH= - O - -
+                PATH - X - -
+        /OPT/FOO/BAR - X - -
+             COMMAND - S - -
+               ERROR - O - -
+                APPS - - - S
+              OPTION - - - X
+               CHECK - - - X
+             NOTHING - - - S

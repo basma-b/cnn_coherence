@@ -1,0 +1,17 @@
+                HELP X - - - - - - - - - - - -
+             MONITOR - - O - - - - - - - - - -
+                WONT - - - - X - - - - - - - -
+              SAVING - - - - X - - - - - - - -
+                   X - - - - X - - - - - - - -
+       CONFIGURATION - - - - S - - - - - - - -
+         PERMISSIONS - - - - X - - O - - - - -
+             ABHIJIT - - - - S - - - - - - - -
+           XORG.CONF - - - - - - - O - - - - -
+             XSERVER - - - - - - - X - - - - -
+            SETTINGS - - - - - - - X - - - - -
+                ROOT - - - - - - - - - - X - -
+          PERMISSION - - - - - - - - - - X - -
+                SUDO - - - - - - - - - - - X -
+                 TYE - - - - - - - - - - - O -
+        YOUR_COMMAND - - - - - - - - - - - X -
+                 GTK - - - - - - - - - - - - X

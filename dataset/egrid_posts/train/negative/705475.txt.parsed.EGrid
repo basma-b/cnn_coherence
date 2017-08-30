@@ -1,0 +1,10 @@
+                GRUB X - - -
+             OPTIONS X - - -
+                BOOT X - - -
+                 KMS X - - -
+              ANYONE - X - -
+              NVIDIA - - X -
+      I915.MODESET=0 - - O -
+                LINE - - X -
+              KERNEL - - S -
+                  .. - - O -

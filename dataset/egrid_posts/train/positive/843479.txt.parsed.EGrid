@@ -1,0 +1,46 @@
+                THAT O - - - X - - -
+              DYNDNS S - - - - - - -
+                  IP X - - - - - - -
+               LOGIN X - - - - - O -
+              ROUTER X - - - - - - -
+                SAME O - - - - - - -
+            FIREWALL S - - - - - - -
+                FRMO O - - - - - - -
+             ADDRESS X - - - - - - -
+                 MAC X - - - - - - -
+                 BOX S - - - - - - -
+                HOST X - - - - - - X
+                 SSH X - - - - - - -
+                MESS X - - - - - - -
+                  -L O - - - - - - -
+               THERE S - - - S - - -
+                RULE O - - - - - - -
+            IPTABLES O - - - - - - -
+             SERVICE X - - - - - - -
+            SHUTDOWN X - - - - - - -
+                 UFW - S - - - - - -
+/ETC/SSH/SSHD_CONFIG - O - - - - - -
+             MISREAD - X - - - - - -
+     S/WITHOUT/WITH/ - O - - - - - -
+                -VVV - - X - - - X -
+                LIST - - - X - - - -
+             OPTIONS - - - X - - - -
+                 USE - - - X - - - -
+             MESSAGE - - - X - - - -
+              OPTION - - - X - - - -
+         SSHD_CONFIG - - - X - - - -
+               ENTRY - - - X - - - -
+                 SAY - - - - X - - -
+PASSWORDAUTHENTICATION - - - - O - - -
+             COMMENT - - - - X - - -
+                LINE - - - - S - - -
+                THIS - - - - O - - -
+                TEXT - - - - O - - -
+             NETWORK - - - - X - - -
+                 KEY - - - - - - - O
+    .AUTHORIZED_KEYS - - - - - - - X
+          POSSESSION - - - - - - - O
+                .SSH - - - - - - - X
+              CLIENT - - - - - - - X
+.SSH/AUTHORIZED_KEYS - - - - - - - O
+              SERVER - - - - - - - X

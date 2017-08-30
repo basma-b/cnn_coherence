@@ -1,0 +1,9 @@
+             APT-GET S - -
+         IMAGEMAGICK S - -
+              SYSTEM S - -
+             COMMAND X - -
+                WGET - - X
+                HTTP - - O
+  //URL_TO_SCRIPT.SH - - X
+                  SH - - X
+           SCRIPT.SH - - X

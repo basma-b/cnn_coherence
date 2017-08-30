@@ -1,0 +1,26 @@
+                TYPE X - - - - - - - - -
+                SUDO X - - - - - - - - X
+                DPKG X - - - - - - - - -
+       -FILENAME.DEB X - - - - - - - - -
+               ERROR O - - - - - - - - -
+            CONFLICT X - - - - - - - - -
+              ACTION O - - - - - - - - -
+               FIELD O - - - - - - - - -
+                 UHM X - - - - - - - - -
+                  .. O - - - - - - - - -
+                  IM S - - - - - - - - -
+                 BOT S - X - - O - - - -
+                NAME X - - - - - - - - -
+                WELL - S - - - - - - - -
+                THAT - - X - - - - - - -
+            SOMEBODY - - - - - S - - - -
+                   A - - - - - - X - - -
+            SPECIFIC - - - - - - S - - -
+                JAVA - - - - - - - X - X
+               HTTPS - - - - - - - O - -
+HEAD-68565AE07A003332E82C9F23706638777396C249 - - - - - - - S - -
+             APT-GET - - - - - - - O - -
+          WHITESAPCE - - - - - - - O - -
+         SUN-J2RE1.4 - - - - - - - - - S
+ UPDATE-ALTERNATIVES - - - - - - - - - X
+              CONFIG - - - - - - - - - X

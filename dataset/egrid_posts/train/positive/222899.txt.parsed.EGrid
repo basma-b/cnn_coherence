@@ -1,0 +1,12 @@
+                THIS O - - -
+               FSTAB S - - -
+            /DEV/HDD S - - -
+       /MEDIA/CDROM0 X - - -
+                 UDF O - - -
+                USER X - - -
+               MOUNT O - - -
+              DEVICE X - - -
+                   * S - - O
+                WHAT O - - -
+                  LL - S - S
+             /DEV/HD - - - X

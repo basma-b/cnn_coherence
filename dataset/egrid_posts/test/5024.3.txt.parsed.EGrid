@@ -1,0 +1,18 @@
+              NEWBIE S - - - - - - -
+               THERE S - - - - - - -
+                 ONE O - - - - - - S
+                USER S - - O - - - -
+               OWNER O - - - - - - -
+           DIRECTORY X - - - - - - -
+              MEMBER O - - - - - - -
+               GROUP X - - X - - - -
+         PERMISSIONS - S - X - - - -
+              FOLDER - X X - - - - -
+                FILE - - X - - - - -
+             MEMBERS - - - S - - - -
+              OUT/IN - - - O - - - -
+GRUB_CMDLINE_LINUX_DEFAULT - - - - - - - X
+            RECOVERY - - - - - - - X
+            SESSIONS - - - - - - - X
+              SCREEN - - - - - - - X
+              ANYHOW - - - - - - - O

@@ -1,0 +1,16 @@
+                 IVE S S - -
+              REGNUM X X - -
+                GAME O O - -
+               ERROR O O - -
+        ./ROLAUNCHER O O - -
+                LOAD X X - -
+               SHARE X X - -
+           LIBRARIES S S - -
+ LIBGTK-X11-2.0.SO.0 X X - -
+              OBJECT X X - -
+                FILE O O - -
+           DIRECTORY O O - -
+                SUDO - - X -
+             APT-GET - - S -
+              LIBGTK - - - O
+             PACKAGE - - - X

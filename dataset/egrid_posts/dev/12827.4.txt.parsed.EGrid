@@ -1,0 +1,9 @@
+               BYTES O - - -
+           PARTITION X - - -
+                DISK X - - -
+            512BYTES X - - -
+            /DEV/SDA X - - -
+             DOVECOT - O O -
+               SETUP - - S -
+             POSTFIX - - X -
+           KNOWLEDGE - - - X

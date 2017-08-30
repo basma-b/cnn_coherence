@@ -1,0 +1,23 @@
+             PACKAGE O - X - - - - - - - - - -
+       CONFIGURATION - X - - X - - - - - - - -
+            QUESTION - - - X - - - - - - - - -
+            ANYTHING - - - O - - - - - - - - -
+             WINDOWS - - - X - X - X - - - - -
+          CONNECTION - - - - O - - O - - - - -
+                 WIN - - - - X - - - - - - - -
+              IPMASQ - - - - - O - O - - - - -
+             MACHINE - - - - - S - - - - - - -
+                 ONE - - - - - O - - - - - - -
+             GATEWAY - - - - - O - - - - - - -
+                FILE - - - - - X - - - - - - -
+                NONE - - - - - - X - - - - - -
+           INTERFACE - - - - - - - - S - - - -
+             PORTION - - - - - - - - - - S - -
+             COMMAND - - - - - - - - - - X - -
+               SLASH - - - - - - - - - - X - -
+          EXPRESSION - - - - - - - - - - O - -
+               REGEX - - - - - - - - - - O - -
+               LEAVE - - - - - - - - - - X - -
+              STRING - - - - - - - - - - X - -
+               RIGHT - - - - - - - - - - X - -
+/MYREGEX/MYREPLACEMENT/ - - - - - - - - - - - - X

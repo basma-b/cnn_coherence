@@ -1,0 +1,15 @@
+                 SDA O - - -
+              CHANGE X - - -
+             DRIVERS X - - -
+                  .. X - - -
+                SCSI X - - -
+           EMULATION X - - -
+              DEVICE O - - -
+               THING O - - -
+             STORAGE X - - X
+              KERNEL S - - -
+                  HD O - - -
+             DEVICES - X - S
+                 SDX - - - X
+              DRIVER - - - S
+              ACCESS - - - O

@@ -1,0 +1,15 @@
+                IFUP X - - - S - -
+           INTERFACE X - - - - - -
+              OUTPUT - X - - - - -
+            TERMINAL - X - - - - -
+                CARD - - X - - - -
+                  W/ - - X - - - -
+               LSPCI - - S - - - -
+                SORT - - O - - - -
+         FIREWALLING - - X - - - -
+                  FW - - - X - - -
+             MACHINE - - - X - - -
+                THIS - - - - X - -
+               THERE - - - - - S -
+                FILE - - - - - X -
+              DONGLE - - - - - - X

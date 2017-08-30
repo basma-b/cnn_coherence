@@ -1,0 +1,59 @@
+                FILE X O - - - - - - - - - - - - -
+            COMPUTER X - - - - - - - - - X - - - -
+             WINDOWS X S - O - - - X X - - - - - -
+             NETWORK X - - - - - - X - - - - - - -
+              REMOTE - X - - - - - - - - - - - - -
+               PLACE - X - - - - - - - - - - - - -
+                   > - S - - - - - - - - - - - - -
+              RESULT - S - - - - - - - - - - - - -
+                 WAY - X - - - - - - - - - - X - -
+               IDEAS - - X - - - - - - - - - - - -
+                THAT - - - X - - - - - - - - - - -
+                BITE - - - O - - - - - - - - - - -
+               DRIVE - - - S - - - - - - - - - - -
+              FOLDER - - - O - - - - - - - - - - -
+            TORRENTS - - - O - - - - - - - - - - -
+              /MEDIA - - - X - - - - - - - - - - -
+                SUDO - - - X X - - - - - - - - - -
+               MKDIR - - - X - - - - - - - - - - -
+     /MEDIA/TORRENTS - - - X O - - - - - - - - - -
+            SBALNEAV - - - S - - - - - - - - - - -
+            MOONUNIT - - - X - - - - - - - - - - -
+               CROWD - - - X - - - - - - - - - - -
+               SMBFS - - - O - - - - - - - - - - -
+                TYPE - - - S S - - - - - - - - - -
+             APT-GET - - - S - - - - - - - - - - -
+USERNAME=USERNAMEHERE - - - X - - - - - - - - - - -
+PASSWORD=PASSWORDHERE - - - X - - - - - - - - - - -
+           DMASK=777 - - - X - - - - - - - - - - -
+           FMASK=777 - - - X - - - - - - - - - - -
+                THIS - - - S - - - - - - - - - - -
+                HOME - - - X - - - - - - - - - - -
+             MACHINE - - - S - - - - - - - - - - -
+            PASSWORD - - - S - - - - - - - - - - -
+                   K - - - X - - - - - - - - - - -
+            ANYTHING - - - O - - - - - - - - - - -
+            USERNAME - - - X - - - - - - - - - - -
+USERNAME=USERNAMEBLAH - - - X - - - - - - - - - - -
+             TROUBLE - - - O - - - - - - - - - - -
+                STEP - - - O - - - - - - - - - - -
+NETWORK/MSHOME/HOME/F - - - - O - - - - - - - - - -
+                 BOX - - - - - - - S X - - - - - -
+                NAME - - - - - - - O - - X - - - X
+             ADDRESS - - - - - - - X - - - - - - -
+                IDEA - - - - - - - O - - - - - - -
+              ACCESS - - - - - - - - O - - - - - -
+               THERE - - - - - - - - - - S - - - -
+               PANEL - - - - - - - - - - S - - - -
+              SYSTEM - - - - - - - - - - O - - - -
+               CLICK - - - - - - - - - - X - - - -
+                 TAB - - - - - - - - - - S - - - -
+               THING - - - - - - - - - - - - S - -
+/ETC/INIT.D/RC.LOCAL - - - - - - - - - - - - O - O
+       /ETC/RC.LOCAL - - - - - - - - - - - - O - -
+                 I.E - - - - - - - - - - - - O - -
+            SHUTDOWN - - - - - - - - - - - - - X X
+            INSTANCE - - - - - - - - - - - - - X -
+              SCRIPT - - - - - - - - - - - - - - O
+                   * - - - - - - - - - - - - - - X
+              UPDATE - - - - - - - - - - - - - - X

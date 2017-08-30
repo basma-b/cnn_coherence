@@ -1,0 +1,21 @@
+             SOMEONE X - - -
+             DEFAULT S - - -
+              CONFIG S S - -
+                MINE S - - -
+/USR/SHARE/DOC/IFUPDOWN/EXAMPLES/NETWORK-INTERFACES.GZ X - - -
+               IFACE X - - -
+                ETH0 S - - -
+               THATS O - - -
+                BOOT X - - -
+                AUTO X - - -
+                LINE X X - -
+              DEVICE - O - -
+                  IP - O - -
+                LINK - X - -
+               ENCAP - O - -
+            ETHERNET - X - -
+           MULTICAST - X - -
+                 WAY - X - -
+          INTERFACES - X - -
+                DHCP - - - X
+             PROBLEM - - - O

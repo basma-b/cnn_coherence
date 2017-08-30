@@ -1,0 +1,19 @@
+                 USE O - - - - - -
+           127.0.0.1 X - - - - - -
+                 WAY O - - - - - -
+                USER X - - - - - -
+                NAME X - - - - - -
+            PASSWORD X - - - - - -
+           .HTPASSWD - - O - - - -
+                HTTP - - X - - - -
+//HTTPD.APACHE.ORG/DOCS/2.0/HOWTO/AUTH.HTML - - X - - - -
+                 OWN - - O - - - -
+                THIS - - S - - - -
+  /USR/LOCAL/APACHE/ - - X - - - -
+           DIRECTORY - - - X - - -
+                MORE - - - - O - -
+           .HTACCESS - - - - X - -
+            .HPASSWD - - - - X - -
+              PLENTY - - - - - X -
+         INFORMATION - - - - - S -
+ S/HPASSWD/HTPASSWD/ - - - - - - X

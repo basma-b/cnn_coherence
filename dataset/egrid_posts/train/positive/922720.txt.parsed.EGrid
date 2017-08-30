@@ -1,0 +1,10 @@
+              SYSTEM O - - -
+               MOUNT - X - -
+                VFAT - X - X
+         /MOUNTPOINT - S - -
+              DRIVER - S - -
+                THAT - - - S
+           PARTITION - - - O
+            /DEV/HDA - - - O
+                 ONE - - - S
+              KERNEL - - - O

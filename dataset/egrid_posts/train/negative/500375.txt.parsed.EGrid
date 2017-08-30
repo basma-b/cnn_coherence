@@ -1,0 +1,13 @@
+             DEFAULT X - O -
+                BOOT X O X -
+              OPTION X - O -
+                GRUB X - X -
+               ORDER - S - -
+                 FOO - X - -
+                 FUM - O - -
+ /BOOT/GRUB/MENU.LST - - O -
+                LINE - - O -
+              BOOTAS - - X -
+                  NM - - - S
+          INTERFACES - - - S
+                FILE - - - X

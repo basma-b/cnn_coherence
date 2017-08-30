@@ -1,0 +1,17 @@
+                CARD O O - O - - - X
+                LIST X X - X - - - -
+             SUPPORT X X - X - - - -
+             DEVICES X X - X - - - -
+                WORK X X - X - - - -
+                 BOX X X - X - - - -
+               LSPCI X X - X - - - -
+             ATHEROS X X - X - - - -
+                BASE X X - X - - - -
+            ETHERNET X X - X - - - -
+          CONTROLLER S S - X - - - -
+              D-LINK - - - X - - - -
+               A/B/G - - - X - - - -
+            WIRELESS - - - S - - - -
+                NAME - - - - X - - -
+              DRIVER - - - - X - - -
+                  .. - - - - - - X -

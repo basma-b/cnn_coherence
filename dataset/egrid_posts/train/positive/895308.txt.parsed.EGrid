@@ -1,0 +1,14 @@
+           MECHANISM X - - -
+                 SET X - - -
+          BACKGROUND X X - -
+               IMAGE O - - -
+                MENU X - - -
+               12.04 X - - -
+           TUTORIALS - O - -
+     GRUB-CUSTOMIZER - O - -
+            PLYMOUTH - - S X
+              SPLASH - - - O
+   /ETC/DEFAULT/GRUB - - - X
+                  .. - - - X
+ BOOTSPLASH/SHUTDOWN - - - O
+               THEME - - - O

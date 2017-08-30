@@ -1,0 +1,16 @@
+                  OS O - - - - -
+           PARTITION X O - - - -
+                SIZE O - - - - -
+               FLASH X - - - - -
+               DRIVE X - - - - -
+                FULL S - - - - -
+                 ONE - X - - - -
+                SWAP - O - - - -
+                BOOT - - X - - -
+           DEPENCIES - - - - - O
+          ENVIROMENT - - - - - X
+               REPOS - - - - - X
+               11.10 - - - - - X
+              GNOME2 - - - - - S
+                XFCE - - - - - O
+                DASH - - - - - O

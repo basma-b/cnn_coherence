@@ -1,0 +1,31 @@
+                 HEY X - - - - - - - - - - -
+                 GUY X - - - - - - - - - - -
+            ETHERNET S - - X - - - - - - - -
+                WORK O - - - - - - - - - - -
+/ETC/NETWORK/INTERFACES X X - - - - - - - - - -
+                INET - X - - - - - - - - - -
+                DHCP - O - - - - - - - - - -
+                MESS - X - - - - - - - - - -
+                LINE - - X O - - - - - - - -
+          INTERFACES - - - X - - - - - - - -
+             NETWORK - - - X X - - - O - - -
+             MANAGER - - - S - - - - O - - -
+                CARD - - - O - - - - - - - -
+             PROBLEM - - - - S - - - - - - -
+                 -RN - - - - O - - - - - - -
+                ROUT - - - - X - - - - - - -
+               ROUTE - - - - O - - - - - - -
+                THAT - - - - - S - - - - - -
+                 USE - - - - - X - - - - - -
+                DONT - - - - - S - - - - - -
+             169.254 - - - - - O - - - - - -
+           INTERFACE - - - - - O - - - - - -
+              SERVER - - - - - X - - - - - -
+      NETWORKMANAGER - - - - - - X - - - - -
+                ICON - - - - - - - - X - - -
+                  IP - - - - - - - - - X - -
+             ADDRESS - - - - - - - - - O - -
+            IFCONFIG - - - - - - - - - X - -
+                  MV - - - - - - - - - - - X
+/ETC/APT/SOURCES.LIST.D/MEDIBUNTU.LIST - - - - - - - - - - - X
+          PERMISSION - - - - - - - - - - - S

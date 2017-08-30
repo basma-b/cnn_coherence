@@ -1,0 +1,18 @@
+                BOND - X - X - - X - -
+             SUPPORT - X - - - - X - -
+               ERROR - O - - - - X - -
+                TYPE - S - - - - - - -
+             MODULES - O - - - - S - -
+               -RSB- - O - - - - - - -
+                RULE - X - - - - - - -
+              TARGET - S - - - - - - -
+                NEED - X - - - - - - -
+DRIVERS/NET/BONDING/BONDING.O - X - - - - - - -
+                STOP - - X - - - - - -
+                   * - - - X - - - - -
+              MODULE - - - X - - - - -
+                HAND - - - - X - - - -
+              KERNEL - - - - - - O - -
+              CONFIG - - - - - - O - -
+                 WAY - - - - - - - O -
+               IDEAS - - - - - - - - X

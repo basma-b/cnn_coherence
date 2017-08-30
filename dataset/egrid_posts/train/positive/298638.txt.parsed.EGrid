@@ -1,0 +1,22 @@
+               SOUND O - - - - - - -
+            SPEAKERS X - - - - - - -
+               SETUP X - - - - - - -
+                 USE - X - - - - - -
+         CHAN-ID.WAV - O - - - - - -
+                HTTP - X - - X - - -
+               APLAY - O - - - - - -
+                 HDA - - X - - - - -
+               INTEL - - X - - - - -
+            SIGMATEL - - X - - - - -
+            STAC9221 - - O - - - - -
+              ANYONE - - - X - - - -
+                THAT - - - - O - - -
+                  'S - - - - X - - -
+                WIKI - - - - O - - -
+//ALSA.OPENSRC.ORG/TROUBLESHOOTING - - - - X - - -
+              DRIVER - - - - O - - -
+               RMMOD - - - - - S - -
+              KERNEL - - - - - X - -
+             MODULES - - - - - O - -
+           VIDEOCARD - - - - - X - -
+         REMEMBERPOL - - - - - - - X

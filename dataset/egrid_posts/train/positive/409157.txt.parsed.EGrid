@@ -1,0 +1,9 @@
+               DRIVE O - - -
+              FORMAT X - - -
+           PARTITION X - - -
+                EXT2 - - X X
+                EXT3 - - X X
+                 XFS - - O O
+             DEFAULT - - X -
+             GPARTED - - - S
+          DIFFERENCE - - - X

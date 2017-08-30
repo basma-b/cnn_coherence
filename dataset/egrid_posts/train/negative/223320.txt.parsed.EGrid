@@ -1,0 +1,14 @@
+               VALUE - X - - -
+                  .. - X - - -
+              NVIDIA - - - X -
+             DRIVERS - - - S S
+               MAGIC - - - O -
+                 DRI - - - X X
+       CONFIGURATION - - - X -
+                LINE - - - O -
+           XORG.CONF - - - X -
+              KERNEL - - - - X
+              MODULE - - - - O
+               STUFF - - - - S
+        ACCELERATION - - - - X
+             SUPPORT - - - - O

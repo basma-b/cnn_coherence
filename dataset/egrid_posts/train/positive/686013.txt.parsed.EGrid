@@ -1,0 +1,11 @@
+                FILE X - - - - -
+             PACKAGE X - - - - -
+               PURGE - X - - - S
+          DIFFERENCE - X - - - -
+                LAMP - - - - X -
+              RENAME - - - - X -
+          APACHE2CTL - - - - X -
+              HTDOCS - - - - X -
+            /VAR/WWW - - - - X -
+               LEAVE - - - - - X
+             CONFIGS - - - - - O

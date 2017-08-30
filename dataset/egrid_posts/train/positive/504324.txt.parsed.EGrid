@@ -1,0 +1,16 @@
+               SOUND S - - -
+                SUDO X X - S
+/ETC/INIT.D/ALSA-UTILS S - - -
+        /DEV/SND/PCM - X - -
+                   * - O - -
+    PASTE.UBUNTO.COM - X - -
+                LINE - O - -
+   /DEV/SND/PCMC0D0P - X - -
+                  PS - X - -
+                   | - X - -
+                GREP - S - -
+              WILLEM - O - -
+ /USR/BIN/PULSEAUDIO - - X -
+                  -D - - X -
+   LOG-TARGET=SYSLOG - - X -
+               PULSE - - - S

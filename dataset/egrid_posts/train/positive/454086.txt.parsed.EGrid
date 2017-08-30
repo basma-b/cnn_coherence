@@ -1,0 +1,10 @@
+           INTERFACE X X -
+                 USE X - -
+/ETC/NETWORK/INTERFACES X - -
+               WIFI0 - O -
+                CANT - X -
+              RELOAD - X -
+             NETWORK - S -
+                   < - X -
+                   > - O -
+                  TY - - X

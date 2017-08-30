@@ -1,0 +1,10 @@
+                THIS X - -
+SSH_EXCHANGE_IDENTIFICATION - X -
+          CONNECTION - X -
+                HOST - X -
+                USER - X -
+              -VVVVV - X -
+                 DIE - X -
+   /VAR/LOG/AUTH.LOG - X -
+ /VAR/LOG/DAEMON.LOG - O -
+               GENIL - - X

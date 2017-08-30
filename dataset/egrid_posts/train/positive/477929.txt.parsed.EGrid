@@ -1,0 +1,15 @@
+                LIST X - - - - -
+             LOCALES X X S - - -
+    DPKG-RECONFIGURE - X - - - -
+                ROOT - - X - - -
+                LINK - - X X - S
+                 ^^^ - - O - - -
+                THAT - - - X - -
+                 ICA - - - S - -
+                  OK - - - S - -
+                OOPS - - - X - -
+                  .. - - - - - O
+/USR/SBIN/DPKG-RECONFIGURE - - - - - X
+          LOCALECONF - - - - - S
+         RECONFIGURE - - - - - X
+             PACKAGE - - - - - S

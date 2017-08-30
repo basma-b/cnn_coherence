@@ -1,0 +1,15 @@
+                READ O - - - - - - - -
+               CACHE O - - - - - - - -
+              MEMORY X - - - - - - - -
+                DISK X - - - - - - - -
+                TASK - X - X - - - - -
+             MANAGER - O - O - - - - -
+              INSTAL - O - - - - - - -
+                THIS - - S - - - - - -
+              SERVER - - O - - - - - -
+             PACKAGE - - - - S - - - -
+           SOMETHING - - - - O - - - -
+  GNOME-TASK-MANAGER - - - - X - - - -
+        DEPENDANCIES - - - - - X - - -
+                 CLI - - - - - - X - -
+                  .. - - - - - - - - X

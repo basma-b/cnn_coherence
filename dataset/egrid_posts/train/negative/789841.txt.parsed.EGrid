@@ -1,0 +1,13 @@
+               DRIVE X - - - -
+                 CLI X - - - -
+                SUDO - X - - -
+            /MNT/USB - O - - -
+          FILESYSTEM - X - - -
+                TYPE - O - - -
+               FAT32 - X - - -
+                VFAT - O - - -
+                THAT - - - S -
+            /DEV/SDB - - - S -
+             PROBLEM - - - O -
+              DEVICE - - - S -
+                TAIL - - - O -

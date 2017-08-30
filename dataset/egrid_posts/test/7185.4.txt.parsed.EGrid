@@ -1,0 +1,21 @@
+     KUBUNTU-DESKTOP S - - - - -
+                SUDO X - - - X -
+             APT-GET S - - - - -
+      REINSTALLATION X - - - - -
+             PROCESS S - - - - -
+                 WAY X - - - - -
+                 ALL O - - - - -
+        DEPENDENCIES O - - - - -
+         METAPACKAGE X - - - - -
+               THERE S - - - - -
+              ERRORS O - - - - -
+            PROBLEMS X - - - - -
+              KERNEL - - X - - -
+             OPTIONS - - X - - -
+   /ETC/DEFAULT/GRUB - - - X - -
+                FILE - - - O - -
+ACPI_BACKLIGHT=LEGACY - - - O - -
+             DEFAULT - - - X - -
+                LINE - - - X - -
+      ACPI_OSI=LINUX - - - - - O
+                BOTH - - - - - O

@@ -1,0 +1,12 @@
+                 IDE O - - -
+          PERMISSION O - - -
+            WRITABLE X - - -
+                 RUN X - - -
+                ROOT X - - -
+            /VAR/WWW - O - -
+                USER - O - -
+               GROUP - X - -
+                LIST - O - -
+              ANYONE - - S -
+                FILE - - O -
+             EXAMPLE - - - X

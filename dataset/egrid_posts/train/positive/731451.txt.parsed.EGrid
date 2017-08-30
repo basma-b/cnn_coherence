@@ -1,0 +1,17 @@
+                GRUB S - - - -
+               SPLSH S - - - -
+                TEXT X X X - X
+                MODE X - - - -
+              SCREEN O - - - -
+              SPLASH X S - - -
+              THERES X - - - -
+              CHANGE - X - - -
+                MARK - - S - -
+                  TY - - X - -
+              OPTION - - S - -
+                SORT - - O - -
+            FAILSAFE - - X - -
+                CASE - - X - -
+               ISSUE - - O - -
+         UPDATE-GRUB - - - - S
+            GRUB.CFG - - - - X

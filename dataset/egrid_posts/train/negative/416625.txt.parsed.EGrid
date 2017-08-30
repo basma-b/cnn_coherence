@@ -1,0 +1,14 @@
+                 PLS - O - O - - - - - -
+                ROOT - - X - X - - - - -
+             DESKTOP - - X - X - - - - -
+       UBUNTU-STUDIO - - X - O - - - - -
+            COMPUTER - - O - O - - - - -
+               ERROR - - O - O - - - - -
+               LOGIN - - S - S - - - - -
+      ALLOWROOT=TRUE - - O - - O - - - -
+                 USE - - - - X - - - - -
+                NEWS - - - - - - X - - -
+           CONFIGURE - - - - - - S - - -
+              SYNTAX - - - - - - O - - -
+           -PASSWORD - - - - - - - X - -
+             ADDUSER - - - - - - - - X -

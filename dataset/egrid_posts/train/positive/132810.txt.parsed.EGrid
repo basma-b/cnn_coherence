@@ -1,0 +1,18 @@
+           INTELIKEY S - -
+/ETC/GDM/PRESESSION/DEFAULT S - -
+             SESSION S - -
+                WTMP S - -
+                UTMP S - -
+       /VAR/LOG/WTMP S - -
+       /VAR/RUN/UTMP S - -
+/VAR/LIB/GDM/:0.XSERVERS S - -
+      NEWCOMPLEXLIFE S - -
+   /ETC/GDM/XSESSION S - -
+           BEGINNING S - -
+               SETUP S - -
+          PREDEFINED S - -
+               MACRO S - -
+                LINE S - -
+/USR/BIN/GNOME-SESSION S - -
+                SUDO - X -
+             APT-GET - S -

@@ -1,0 +1,9 @@
+               THING S - -
+             ENTRIES O - -
+GRUB_DISABLE_OS_PROBER=TRUE S - -
+                SUDO X - -
+               CHMOD X - -
+                  -X X - -
+/ETC/GRUB.D/30_OS-PROBER S - -
+           OS-PROBER O - -
+                THAT - S -

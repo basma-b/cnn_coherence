@@ -1,0 +1,27 @@
+               BUILD S - - - - - - - -
+             ADAPTER X - - - - - - - -
+               LINUX X - - - - - - - -
+                  BE - - X - - - - - -
+            ANYTHING - - O - - - - - -
+              UBUNTU - - S - - - - - -
+                   L - - - X - - - - -
+           FIREPOKEM - - - X - - - - -
+             COMMAND - - - X - - - - -
+                LINE - - - X - - - - -
+                WIRE - - - - S - - - -
+            IFCONFIG - - - - - - S - -
+               BUNCH - - - - - - O - -
+               STUFF - - - - - - X - -
+            ETHERNET - - - - - - - - X
+                ETH0 - - - - - - - - X
+                LINK - - - - - - - - X
+               ENCAP - - - - - - - - X
+              HWADDR - - - - - - - - X
+                INET - - - - - - - - X
+BCAST:169.254.255.255 - - - - - - - - X
+    MASK:255.255.0.0 - - - - - - - - X
+           MULTICAST - - - - - - - - X
+            METRIC:1 - - - - - - - - X
+        INTERRUPT:17 - - - - - - - - X
+                BASE - - - - - - - - X
+                   ^ - - - - - - - - S

@@ -1,0 +1,16 @@
+                 BOX X - -
+                BOOT X - -
+               SHELL X - -
+               GNOME X - -
+                TIME - X -
+                TEXT - S X
+   /ETC/DEFAULT/GRUB - O -
+           GRUB-MENU - X -
+   GRUB_DISTRIBUTOR= - S -
+           /DEV/NULL - X -
+                  || - S -
+              DEBIAN - O -
+                 ADD - - O
+                SUDO - - X
+         UPDATE-GRUB - - X
+                GREP - - S

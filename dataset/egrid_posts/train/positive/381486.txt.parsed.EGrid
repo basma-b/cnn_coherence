@@ -1,0 +1,11 @@
+             MESSAGE S -
+LINUX-RESTRICTED-MODULES O -
+              ANYONE X -
+             COMMAND X -
+                SUDO X -
+             APT-GET X -
+                 RUN X -
+              DEPMOD X -
+                  -A X -
+                TYPE X -
+                ROOT - S

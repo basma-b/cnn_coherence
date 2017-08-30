@@ -1,0 +1,15 @@
+      UBUNTU-DESKTOP S - - - - - -
+        META-PACKAGE O - - - - - -
+            ANYTHING - O - - - - -
+                LIST - - O - - - -
+                FILE - - X - - - -
+             DESKTOP - - X - - - -
+             FIREFOX - - - X - - -
+        TRANSMISSION - - - X - - -
+                 ETC - - - X - - -
+                 END - - - - X - -
+             PACKAGE - - - - O - -
+       DEPENDENCIES+ - - - - O - -
+           NEVERMIND - - - - - S -
+             PROBLEM - - - - - O -
+               OFFER - - - - - X -

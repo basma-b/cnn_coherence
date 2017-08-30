@@ -1,0 +1,12 @@
+             COMMAND X - - X
+             NETBIOS X - - -
+             MACHINE X - - -
+                NAME X - - -
+               TABLE X - - -
+             NBTSCAN O - - X
+             PACKAGE O - - -
+          PERMISSION S - - -
+                FINE - O - -
+                  -V - - - X
+                  -S - - - X
+             MYIP/24 - - - X

@@ -1,0 +1,25 @@
+                 HEY X - - - - - - -
+                  IM S - - - - - - -
+             TROUBLE O - - - - - - -
+           WEBSERVER S S - - - - - -
+                 WAN X - - - - - - -
+              ROUTER O - - - - O - X
+                TYPE X - - - - - - -
+             ROUTERS O - - - - - - -
+              PUBLIC O - - - - - - -
+                  IP X - X - - - - X
+             BROWSER X - - - - - - -
+                TALK X - - - - - - -
+                 ISP S S - - - - - S
+                PORT - O - - - - - -
+               BLOCK - X - - - - - O
+              APACHE - S - - - - - -
+             TRAFFIC - X - - - - - -
+            POSSIBLE - - S - - - - -
+                BIND - - X - - - - -
+/ETC/APACHE2/PORTS.CONF - - O - - - - -
+           127.0.0.1 - - - X - - - -
+                 LAN - - - - - - X -
+              TELNET - - - - - - X -
+                TERM - - - - - - - X
+             SERVICE - - - - - - - X

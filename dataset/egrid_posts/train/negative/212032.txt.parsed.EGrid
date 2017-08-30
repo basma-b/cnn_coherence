@@ -1,0 +1,15 @@
+                USER X - - - -
+               GROUP X - - - -
+              MODULE S - - - -
+           SOUNDCARD X - - - -
+                LOAD O - - - -
+               MIXER X - - - -
+            SETTINGS S - - - -
+               SOUND - X - - -
+             KILLALL - - X - -
+                 ESD - - S - -
+              EFFECT - - O - -
+             PROCESS - - X - -
+                KILL - - X - -
+                  2G - - - - O
+               INTEL - - - - O

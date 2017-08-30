@@ -1,0 +1,21 @@
+                   $ X - - - - -
+                THAT O - - - - -
+         UPDATE-GRUB X - - - - -
+        UPDATE-GRUB2 O - - - - -
+                   L X - - - - -
+                   % X - - - - -
+               FILES S - - - - -
+          COMPONENTS O - - - - -
+            VERSIONS S - - - - -
+               ORDER X - - - - -
+                   * S - - X - -
+              KERNEL - S - - - -
+                  .. - O - O - -
+              INITRD - - S - - -
+             PRESENT - - O - - -
+ /VAR/LIB/APT/LISTS/ - - - X - -
+            PACKAGES - - - O - -
+             SOURCES - - - S - -
+       APT-CACHER-NG - - - X - -
+                HTTP - - - - - X
+//PASTEBIN.COM/PBURBRYU - - - - - X

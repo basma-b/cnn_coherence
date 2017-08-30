@@ -1,0 +1,16 @@
+                  MV S - - - - - - - - - -
+     SUB-DIRECTORIES O - - - - - - - - - -
+               RIGHT - X - - - - - - - - -
+              GETENT - X - - - - - - - - -
+               GROUP - X O - - - - - - - -
+                  NO - - X - - - - - - - -
+             COMMAND - - X - - - - - - - -
+                 GID - - X - - - - - - - -
+             MEMBERS - - X - - - - - - - -
+                   A - - - - X - - - - - -
+                   * - - - - S - - - - S X
+                FILE - - - - O X - - - - -
+            ANYTHING - - - - S - - - - - -
+               SHELL - - - - - - - X - - -
+                 WAY - - - - - - - - S - -
+                FOO/ - - - - - - - - - X -

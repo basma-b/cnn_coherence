@@ -1,0 +1,23 @@
+                 BOX S - - - - - -
+                WAKE X - - - - - -
+             SUSPEND X - - - - - -
+               THERE - S - - - - -
+            SETTINGS - O - X - - -
+/ETC/DEFAULT/ACPI-SUPPORT - X - - - - -
+                ONES - X - - - - -
+              CHANGE - X - - - - -
+               VIDEO - - S - - - -
+                TIME - - - X - - -
+                SUDO - - - X - - -
+/ETC/INIT.D/ACPI-SUPPORT - - - X - - -
+                   R - - - X - - -
+                   E - - - X - - -
+                   U - - - X - - -
+                   B - - - O - - -
+                   X - - - O - - -
+                CORE - - - - - O -
+              IOWAIT - - - - - - S
+                 CPU - - - - - - S
+               THUMB - - - - - - X
+                WAIT - - - - - - X
+                DISK - - - - - - X

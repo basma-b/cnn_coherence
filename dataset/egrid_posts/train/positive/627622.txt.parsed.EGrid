@@ -1,0 +1,11 @@
+             SERVICE - X - -
+                /DEV - O - -
+        /DEV/TTYACM0 - X - -
+               WRITE - X - -
+                  AN - - O -
+                BITS - - X -
+                FILE - - X -
+                  DD - - O -
+             COMMAND - - X -
+           SOMETHING - - X -
+                CODE - - O -

@@ -1,0 +1,14 @@
+               UUIDS O - - - -
+              DRIVES X - - - -
+        PARTITIONSSO X - - - -
+                CANT - X - - -
+               /HOME - O - - -
+         FILESYSTEMS - - X - -
+               STYLE - - X - -
+              DEVICE - - X - -
+                NAME - - O - -
+           /DEV/BLAH - - S - -
+               DRIVE - - O - -
+                   < - - - - S
+               XCODE - - - - X
+                  .. - - - - O

@@ -1,0 +1,12 @@
+             COMMAND S - - - -
+             PACKAGE O - - - -
+               LEAVE O - - - -
+              SYSTEM X - - - -
+        DEPENDENCIES X - - - -
+                SUDO - X - - -
+          AUTOREMOVE - X - - -
+                TIME - - X - -
+                WORK - - S - -
+                XMMS - - O - -
+              CHANGE - - X - -
+                BOTH - - O - -

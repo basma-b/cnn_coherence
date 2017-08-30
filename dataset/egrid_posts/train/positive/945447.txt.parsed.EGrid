@@ -1,0 +1,12 @@
+               HOWTO S - - -
+                 IDE X X - -
+           HARDDISKS S - - -
+                 PCI X - - -
+          CONTROLLER X - - -
+              DEVICE - S - -
+             HPT372A - O - -
+             CHANNEL - X X -
+                LOOK - - O -
+           /PROC/IDE - - X -
+                 ETC - - X -
+              DETECT - - O -

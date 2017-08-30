@@ -1,0 +1,11 @@
+                 LOG X - - -
+          SQUIDGUARD X - - X
+                SITE X - - -
+                USER S - - -
+                KIND - X - -
+               PROXY - X - -
+                HOME - X - -
+               SQUID - - O -
+              SERVER - - O -
+                PAGE - - - O
+/VAR/LOG/SQUID/ACCESS.LOG - - - X

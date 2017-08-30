@@ -1,0 +1,27 @@
+           CONFIGURE X - - - - - - - -
+            FIREWALL X - - - - - - - X
+            IPTABLES X - - - - - - - -
+                PORT - O - - - - - - -
+               SAMBA - X - - - - - - -
+                CUPS - X - - - - - - -
+                 SSH - X - - - - - - -
+                HTTP - X - - X - - - -
+                   S - X - - - - - - -
+                 FTP - X - - - - - - -
+                 DNS - X - - X - - - -
+              SERVER - X O - X X - - -
+          SOMEREASON - - X - - - - - -
+             ADDRESS - - X - - - - - -
+            HOSTNAME - - X - - - - - -
+             MAINHUB - - X - - - - - -
+         SUGGESTIONS - - - X - - - - -
+                  IP - - - - O S - - -
+              OUTPUT - - - - X - - - -
+       IPTABLES-SAVE - - - - X - - - -
+                  4/ - - - - X - - - -
+//PASTE.UBUNTU.COM/30194/ - - - - S - - - -
+                 BOX - - - - X - - - -
+                NAME - - - - X - - - -
+              ROUTER - - - - - S - - -
+                DHCP - - - - - - X - -
+            ANYTHING - - - - - - - - O

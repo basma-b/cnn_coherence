@@ -1,0 +1,25 @@
+                 GUY X - - -
+                 PPA O - - -
+             PACKAGE O - - -
+              DISTRO X - - -
+               REPOS X - - -
+                  .. X - O -
+              UBUNTU S - - -
+             APT-GET - - S -
+PACKAGE=VERSION_FROM_REPO - - O -
+             VERSION - - O -
+                 ONE - - S -
+               ORDER - - X -
+                AUTO - - - X
+                ETH0 - - - S
+                  /N - - - S
+               IFACE - - - X
+             NETMASK - - - X
+               LSPCI - - - X
+                   | - - - X
+                GREP - - - O
+                 VGA - - - X
+              OUTPUT - - - O
+                 -NN - - - X
+               LSMOD - - - X
+               FGLRX - - - X

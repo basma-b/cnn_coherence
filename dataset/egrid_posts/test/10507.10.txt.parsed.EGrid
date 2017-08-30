@@ -1,0 +1,21 @@
+       /ETC/RC.LOCAL S - - - - - -
+             COMMAND O - - - - - -
+             STARTUP X - - - - - -
+                   M - X - - - - -
+                WORK - X - - - - -
+                   X - S - - - - -
+                BOTH - - X - - - -
+                THAT - - - O - - -
+                 YES - - - X - - -
+         ~/.XPROFILE - - - X - - -
+         ~/.XSESSION - - - - X - -
+          ~/.XINITRC - - - - X - -
+~/.CONFIG/AUTOSTART/ - - - - S - -
+       POSSIBILITIES - - - - S - -
+             LIGHTDM - - - - O - -
+             CLASSIC - - - - X - -
+                 COZ - - - - - - O
+             PROBLEM - - - - - - O
+            PASSWORD - - - - - - X
+              SCREEN - - - - - - S
+                   U - - - - - - S

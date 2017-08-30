@@ -1,0 +1,26 @@
+                DISK X X - - -
+               IMAGE X - - - -
+         NONSTANDARD X - - - -
+          FILESYSTEM X X - - -
+           PARTITION X X - - -
+               TABLE X - - - -
+               FDISK - X - - -
+               STALL - S - - -
+         INFORMATION - O - - -
+                  DD - S - X -
+                COPY - O - - -
+               16KIB - X - - -
+                   > - X - - -
+                   _ - S - - -
+                 ALL - O - - -
+                FILE - X - - -
+                 MAP - X - - -
+                THAT - - S - -
+         IF=/DEV/SDB - - - X -
+OF=/HOME/ASDF/HDD.IMG - - - O -
+       ACTIONPARSNIP - - - - X
+            DDRESCUE - - - - O
+              ADVICE - - - - O
+                 GNU - - - - X
+           GDDRESCUE - - - - X
+             PACKAGE - - - - X

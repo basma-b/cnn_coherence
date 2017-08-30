@@ -1,0 +1,12 @@
+                COPY X - - -
+               IMAGE O - - -
+               FLASH X - - -
+                DISK X - - -
+                  DD X - - -
+         SUGGESTIONS X - - -
+                BOOT - X - -
+          UNETBOOTIN - O - -
+                FILE - O - -
+                 IMG - X - -
+                 ISO - X - -
+              FORMAT - S - -

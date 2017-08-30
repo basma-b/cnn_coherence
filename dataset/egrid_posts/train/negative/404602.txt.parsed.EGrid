@@ -1,0 +1,13 @@
+             PROBLEM O - - - -
+                 HDD S - - - -
+              DOESNT - S - - -
+               CHECK - - X S -
+               DMESG - - S - -
+     /VAR/LOG/SYSLOG - - X - -
+   /VAR/LOG/MESSAGES - - X - -
+                DISK - - O X -
+                NTFS - - O - -
+             WINDOWS - - - O -
+              FORMAT - - - X -
+                CASE - - - - O
+               YEARS - - - - X

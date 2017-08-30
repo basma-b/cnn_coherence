@@ -1,0 +1,10 @@
+             COMMAND X - - - - - -
+                 ALL X - - - - - -
+             DEVICES X - - - - - -
+                LSHW - S - - - - -
+               FRESH - X - - - - -
+             DEFAULT - - X - - X -
+           GTK-THEME - - X - - - -
+               THEME - - - X - X S
+                  BY - - - - - S -
+                USER - - - - - O -

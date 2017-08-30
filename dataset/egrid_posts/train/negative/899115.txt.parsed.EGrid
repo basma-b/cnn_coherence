@@ -1,0 +1,35 @@
+              ERRORS O - - - -
+             UPGRADE O - - - -
+                 HAL X - X - -
+ UPDATE-ALTERNATIVES X - - - -
+/USR/LIB/MOZILLA-CVS/PLUGINS/JAVAPLUGIN_OJI O - - - -
+         SO.DPKG-TMP - X - - -
+             SYMLINK - X - - -
+/ETC/ALTERNATIVES/JAVAPLUGIN_OJI-MOZILLA-CVS.SO - X - - -
+                   H - X - - -
+                FILE - X - - -
+           DIRECTORY - X - - -
+                   N - S S - -
+               -LSB- - S S - -
+           RUN-PARTS - O - - -
+                EXIT - X X - -
+              RETURN - X - - -
+                CODE - X - - -
+         INVOKE-RC.D - X - - -
+              DBUS-1 - X - - -
+              ACTION - X - - -
+               -RSB- - - O - -
+                DPKG - - S - -
+               ERROR - - O - -
+             PROCESS - - X - -
+           CONFIGURE - - X - -
+              SCRIPT - - X - -
+              STATUS - - O - -
+                  .. - - X - -
+               FLOOD - - X - -
+                   < - - X - -
+           TOOTHPICK - - X - -
+                   > - - X - -
+                LINE - - O - -
+              CHROME - - - - S
+            ANYTHING - - - - O

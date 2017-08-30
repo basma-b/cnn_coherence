@@ -1,0 +1,20 @@
+                CANT X - - -
+                 MP3 X - - -
+                PLAY - X - -
+              NOATUN - X - -
+              MPG123 - X - -
+               JUICE - X - -
+          EVERYTHING - X - -
+               SOUND - S - -
+                 KDE - X - -
+                BEEP - X - -
+//WWW.UBUNTULINUX.ORG/WIKI/RESTRICTEDFORMATS - S - -
+                WHAT - X - -
+               ERROR - - - X
+SSLCERTIFICATEKEYFILE - - - X
+                FILE - - - X
+/ETC/SSL/PRIVATE/SERVER.KEY - - - S
+          SERVER.KEY - - - S
+              DELETE - - - O
+               POWER - - - X
+             FLICKER - - - X

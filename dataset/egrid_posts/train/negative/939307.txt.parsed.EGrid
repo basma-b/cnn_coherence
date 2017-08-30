@@ -1,0 +1,7 @@
+              SYNTAX X - -
+        /ETC/SUDOERS S - -
+                 BOB - X -
+                ALL= - X -
+                DAVE - X -
+                CCSM - - S
+COMPIZCONFIG-SETTINGS-MANAGER - - O

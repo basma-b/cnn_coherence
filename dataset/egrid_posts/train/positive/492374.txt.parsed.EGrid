@@ -1,0 +1,22 @@
+               THERE S - - -
+      IMPLEMENTATION O - - -
+             PROGRAM X - - -
+                WINE X - X -
+                FILE X - - O
+              ACCESS O - O -
+             WINDOWS X - - -
+    MALICIOUSPROGRAM O - - -
+               POINT O - X -
+             PROCESS S - X -
+                CODE O - - -
+               VIRUS X - - O
+         CONSEQUENCE X - - -
+             SYMLINK X - - -
+           HEIRARCHY X - - -
+                  .. X - - -
+~/.WINE/DOSDEVICES/Z - - X -
+                   / - - S -
+                   Z - - X -
+                   \ - - X -
+                   * - - X -
+             PROBLEM - - - X

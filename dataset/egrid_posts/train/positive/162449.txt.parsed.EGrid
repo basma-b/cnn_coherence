@@ -1,0 +1,7 @@
+               INETD X - -
+     /ETC/INETD.CONF - S -
+                HOLD - S -
+                   | - X -
+                INET - X -
+            ANYTHING - S -
+             NOTHING - - X

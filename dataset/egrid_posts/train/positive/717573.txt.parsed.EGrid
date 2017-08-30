@@ -1,0 +1,14 @@
+            IPTABLES X X - - -
+             MODULES O O - - X
+            MODPROBE O O - - -
+               FATAL X X - - -
+                FILE X X O - -
+           DIRECTORY X X - - -
+        /LIB/MODULES - S X - X
+              DEPMOD - X - - -
+                  -A - X - - -
+                WORK - - X - -
+      KERNEL-VERSION - - - X -
+                   > - - - X -
+                  .. - - - O -
+               WHEEL - - - O -

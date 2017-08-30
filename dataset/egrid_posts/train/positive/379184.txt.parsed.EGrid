@@ -1,0 +1,16 @@
+              KERNEL X - - -
+              UPDATE X - - -
+                GRUB X - - -
+          /BOOT/GRUB - X - -
+           DIRECTORY - O - -
+                THIS - O - -
+         UPDATE-GRUB - O - -
+                  .. - O - -
+               MKDIR - X - -
+                 HMM - X - -
+           PARTITION - - O O
+             MACHINE - - X -
+           SOMETHING - - O -
+                SUDO - - - S
+               MOUNT - - - X
+                TYPE - - - X

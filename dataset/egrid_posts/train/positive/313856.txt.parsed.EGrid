@@ -1,0 +1,17 @@
+            /DEV/SBA X - - - -
+               DRIVE O - - - O
+            /DEV/SDA X - - - -
+                  XP - X X - -
+                BIOS - S - - -
+                BOOT - X - - -
+                GRUB - O - - -
+             SECTION - X - - -
+                SUDO - - X - -
+         UPDATE-GRUB - - S - -
+              OPTION - - O - -
+             WINDOWS - - - - S
+                  HD - - - - O
+                 1.0 - - - - X
+               FIRST - - - - X
+           PARTITION - - - - O
+                 YES - - - - X

@@ -1,0 +1,22 @@
+              ANYONE S -
+                WORK O -
+              UBUNTU X -
+               AMD64 X -
+              BINARY O -
+                SUDO X -
+                DPKG O -
+IGNORE-DEPENDS=LIBWXBASE2.4 S -
+AMULE_1.2.6+RC7-1_AMD64.DEB X -
+            SYNAPTIC S -
+               BREAK X -
+             PACKAGE X -
+                NEED X -
+ UNIVERSE/MULTIVERSE O -
+    /ETC/APT/SOURCES X -
+              DEBIAN - O
+                  EM - O
+            UNIVERSE - X
+               TRUST - X
+                 APC - O
+            SOFTWARE - X
+                TEXT - X

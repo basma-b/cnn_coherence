@@ -1,0 +1,16 @@
+              FORMAT X - - - -
+                 USB X - - - -
+               FLASH X - - - -
+               DRIVE O - - - -
+                OSES X - - - -
+               LINUX X - - - -
+                 MAC X - - - -
+             WINDOWS X - - - -
+             GPARTED - S - - -
+             PARTION - O - - -
+               FAT32 - - O - -
+               CACHE - - - - O
+                SUDO - - - - X
+             APT-GET - - - - S
+            UBUNTU+1 - - - - X
+             PRECISE - - - - X

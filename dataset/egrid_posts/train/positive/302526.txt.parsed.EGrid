@@ -1,0 +1,15 @@
+             PROGRAM X - - - - -
+               AMD64 X - O - - -
+              REASON X - - - - -
+          __X86_64__ S - - - - -
+          __WORDSIZE X - - - - -
+                  .. O - - - - -
+            ANYTHING - S - - - -
+            STDLIB.H - X - - - -
+                 USE - O - - - -
+               HTTPS - - X - - -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/GLIBC/+BUG/108946 - - S - - -
+                THIS - - - O S -
+     BUILD-ESSENTIAL - - - S - -
+               GUTSY - - - X - -
+                -M64 - - - - - X

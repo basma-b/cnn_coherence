@@ -1,0 +1,13 @@
+            SONGBIRD O - - - -
+          EVERYTHING - O - - -
+          EXECUTABLE - O - - -
+           /USR/BIN/ - X - - -
+           DIRECTORY - O - - -
+                DATA - X - - -
+            /USR/BIN - - O - -
+               STUFF - - X - -
+      /USR/LOCAL/BIN - - - X -
+                /OPT - - - O -
+                CANT - - - - X
+                EXEC - - - - S
+            TERMINAL - - - - X

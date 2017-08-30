@@ -1,0 +1,14 @@
+                QEMU S - - - - -
+               ERROR S - - - - -
+               IMAGE O X - - - -
+                DISK X - - - - -
+                FILE X S - - - -
+           DIRECTORY X - - - - -
+            LOCATION - X - - - -
+              SYSTEM - X - - - -
+               ISSUE - - - - O -
+           STATEMENT - - - - O -
+            SETTINGS - - - - - O
+              DEVICE - - - - - O
+/ETC/NETWORK/INTERFACES - - - - - X
+                 N-M - - - - - S

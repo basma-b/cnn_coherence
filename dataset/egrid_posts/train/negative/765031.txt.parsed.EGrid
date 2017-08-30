@@ -1,0 +1,40 @@
+                 MAN X - - - - - - -
+            FAIL2BAN S - - - S - - -
+              CONFIG X - - - - - - -
+       CONFIGURATION X - - - - - - -
+                FILE O - - - - - - -
+              GKSUDO - - S - - - - -
+/ETC/FAIL2BAN/FAIL2BAN.CONF - - O - - - - -
+               THERE - - S - - S - -
+             REMOVAL - - X - - - - -
+              CLIENT - - X - - - - -
+                SIDE - - X - - - - -
+                 GUI - - X - - - - -
+            RDESKTOP - - O - X - - -
+                MENU - - - X - - - -
+            ULTRAVNC - - - O X - - -
+               REPOS - - - X X - - -
+         COMPRESSION - - - S - - - -
+                 VNC - - - S S - - -
+                 THE - - - - X - - -
+                WORK - - - - S - - -
+      AUTHENTICATION - - - - O - - -
+                 ONE - - - - X - - -
+                 WIN - - - - X - - -
+                  PC - - - - S - - -
+              UBUNTU - - - - X - - -
+             DESKTOP - - - - X - - -
+               SHARE - - - - X - - -
+             SERVICE - - - - X - - -
+                  XP - - - - X - - -
+                PORT - - - - X - - -
+           PASSWORDS - - - - X - - -
+             HOSTKEY - - - - X - - -
+               GEDIT - - - - - X - -
+                   K - - - - - O - -
+             PROBLEM - - - - - X - -
+             APT-GET - - - - - S - -
+/ETC/SSH/SSHD_CONFIG - - - - - O - -
+                 YES - - - - - - X -
+PASSWORDAUTHENTICATION - - - - - - O -
+         EXPLANATION - - - - - - - O

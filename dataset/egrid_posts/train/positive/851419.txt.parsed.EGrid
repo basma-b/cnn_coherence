@@ -1,0 +1,10 @@
+               FSTAB X X - - -
+              NOEXEC X - - - -
+                THIS - O - - -
+                TYPE - X - - -
+             FUSEBLK - X - - -
+         ALLOW_OTHER - X - - -
+                GURU - S - - -
+                FUSE - X - - -
+               GNOME - X - X -
+                THAT - - - - X

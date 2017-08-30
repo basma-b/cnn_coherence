@@ -1,0 +1,10 @@
+               DRIVE O - -
+             MACHINE X - -
+                SWAP X X -
+                TYPE X - -
+           PARTITION X - -
+               FSTAB O - -
+          FILESYSTEM - O -
+        /DEV/NEWSWAP - X -
+                ROOT - - X
+            PASSWORD - - S

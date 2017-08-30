@@ -1,0 +1,14 @@
+             NETWORK X - - - -
+                CARD X - - - -
+                 USE X - - - -
+            IWCONFIG X S - - -
+           INTERFACE - X X - -
+                SSID - O - - -
+          CONNECTION - X - - -
+                 KEY - S - - -
+                  IP - - S - -
+            DHCLIENT - - X - -
+                DHCP - - O - -
+            IFCONFIG - - O - -
+                NAME - - O - -
+                ETH1 - - - - X

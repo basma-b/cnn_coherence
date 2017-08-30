@@ -1,0 +1,19 @@
+             PROBLEM O - - - - -
+             UPGRADE X - - - - -
+XORG-DRIVER-SYNAPTICS S O - - - -
+  /USR/BIN/SYNCLIENT O - - - - -
+             PACKAGE X - - - - -
+XFREE86-DRIVE-SYNAPTICS X - - - - -
+               STUFF - O - - - -
+XFREE86-DRIVER-SYNAPTICS - O - - - -
+        DEPENDANCIES - X - - - -
+             APT-GET - X - - - -
+                  -F - S - - - -
+                 USE - X - - - -
+                 YEA - - X - - -
+                 SEC - - X - - -
+                 ONE - - - - O -
+      UBUNTU-DESKTOP - - - - O -
+          DEPENDANCY - - - - X -
+                 THO - - - - O -
+        DIST-UPGRADE - - - - - X

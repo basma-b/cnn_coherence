@@ -1,0 +1,16 @@
+          FILESYSTEM X - - - - - - -
+       COMPATIBILITY X - - - - - - -
+               FAT32 - X - S - - - -
+                  FS - X - - - - - -
+                EXT4 - - S - - - - -
+              ACCESS - - O - - - - -
+             WINDOWS - - X - - - - -
+             PARTION - - X - - - - -
+                BOOT - - X - - - - -
+                NTFS - - - S - - - -
+                DISK - - - X - - - -
+               WASTE - - - X - - - -
+               SPACE - - - X - - - -
+                ROOT - - - O O - - -
+                 W/O - - - - O - - -
+                THIS - - - - - - - O

@@ -1,0 +1,19 @@
+          VIRTUALBOX X - X X -
+               GUEST X - - - -
+           ADDITIONS S - - - -
+                  VM X - - - -
+                FILE X - - - O
+         PREFERENCES X - - - -
+               THERE S - - - -
+          EXTENSIONS X - - - -
+              OPTION O - - - -
+                 BOX X - - - -
+              SERVER - O - - -
+             MANAGER - - - X -
+                SUDO - - - - X
+             APT-GET - - - - S
+ UPDATE-MANAGER-CORE - - - - O
+               GEDIT - - - - O
+/ETC/UPDATE-MANAGER/RELEASE-UPGRADES - - - - O
+       PROMPT=NORMAL - - - - S
+  DO-RELEASE-UPGRADE - - - - O

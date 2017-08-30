@@ -1,0 +1,11 @@
+         NDISWRAPPER X - - - -
+               AMD64 X - - - -
+          /ETC/FSTAB - - - O -
+            RUNLEVEL - - - O -
+              REBOOT - - - S -
+                MODE - - - X -
+             PACKAGE - - - X -
+                XORG - - - X -
+                 ECT - - - X -
+                  .. - - - X -
+             APT-GET - - - - S

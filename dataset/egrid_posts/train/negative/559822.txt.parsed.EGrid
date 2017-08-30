@@ -1,0 +1,14 @@
+      OPENSSH-SERVER X X - - -
+             DEFAULT X X - - -
+         CONNECTIONS X X - - -
+             NETWORK X X - - -
+                PORT S S X - -
+                RAGE - - X - -
+                CRON - - - - X
+                 JOB - - - - X
+             ARCHIVE - - - - O
+                 NFS - - - - X
+                 DEB - - - - X
+                FILE - - - - O
+             PROGRAM - - - - O
+           COMPUTERS - - - - X

@@ -1,0 +1,13 @@
+           PASSENGER X - - - -
+              BINARY S - - - -
+                WORK - O - - -
+                SUDO - X - X -
+           MECHANISM - - O - -
+          EXECUTABLE - - X - -
+            EVERYONE - - - X -
+          -RWXR-XR-X - - - X -
+                ROOT - - - X -
+PASSENGER-INSTALL-APACHE2-MODULE - - - X -
+                WIRE - - - - X
+           INTERFACE - - - - X
+               LEASE - - - - X

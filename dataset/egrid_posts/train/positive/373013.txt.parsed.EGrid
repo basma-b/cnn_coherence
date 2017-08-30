@@ -1,0 +1,7 @@
+                HOST S - -
+           INTERFACE O - O
+                 NIC X - -
+                  VM X - -
+                  IP O - -
+            IFCONFIG - S -
+                ETH1 - - O

@@ -1,0 +1,13 @@
+                TIME O - -
+            COMPUTER X - -
+                BOOT X - -
+                LOAD - O -
+               |SUDO - X -
+                 TEE - X -
+        /ETC/MODULES - X -
+                 CAT - X -
+/PROC/ASOUND/MODULES - O -
+                LIST - - X
+        SND_INTEL8X0 - - O
+                  TV - - X
+                CARD - - O

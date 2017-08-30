@@ -1,0 +1,14 @@
+                SIZE X O -
+                 MP3 X O -
+           DIRECTORY X - -
+                 ALL X - -
+      SUBDIRECTORIES X - -
+                FIND - S -
+                DIRS - X -
+                  DU - X -
+           WHATEVER/ - X -
+                FILE - O -
+                MP3S - S -
+    TRAVERSING-THING - - X
+                 DIR - - X
+                  .. - - X

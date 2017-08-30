@@ -1,0 +1,15 @@
+       IPTABLES-SAVE S - - - - - -
+             OPTIONS O - - - - - -
+             ENTRIES X - - - - - -
+            CONTRACK X - - - - - -
+                THAT - O X - - - -
+                 BUG - S O - - - -
+                 ANY - - S - - - -
+            ANYTHING - - - O - - -
+                  +X - - - - - O -
+                 JAR - - - - - X -
+                FILE - - - - - X -
+               ORDER - - - - - S -
+                JAVA - - - - - X -
+                  VM - - - - - S -
+                IDEA - - - - - - X

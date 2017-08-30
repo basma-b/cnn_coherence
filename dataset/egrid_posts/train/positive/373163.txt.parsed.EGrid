@@ -1,0 +1,16 @@
+               ERROR X - - - - - - - -
+              DEVICE O - - - - - - - -
+               /BOOT X - - - - - - - -
+               BLOCK X - - - - - - - -
+                ROOT - S - S - - - - -
+ /BOOT/GRUB/MENU.LST - X - - - - - - -
+                LIST - - - O - - - - -
+               HD0,4 - - - X - - - - -
+               DRIVE - - - - O - - - -
+                GRUB - - - - S - - - -
+           PARTITION - - - - O X - - -
+               THERE - - - - S - - - -
+            PARTIION - - - - - O - - -
+             CONTENT - - - - - X - - -
+               DUNNO - - - - - - - X -
+              GOOGLE - - - - - - - - S

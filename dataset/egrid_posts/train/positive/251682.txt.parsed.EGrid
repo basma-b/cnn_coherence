@@ -1,0 +1,16 @@
+                 HEY X - - - - - - - - -
+                 ALL X - - - - - - - - -
+             SERVICE - X - O - - - - - -
+                 RUN - O - - - - - - - -
+             MACHINE - X - - - - - - - -
+                 BOX - - O - - - - - - -
+             BATTERY - - X - - - - - - -
+              STATUS - - S - - - - - - -
+             DISPLAY - - X - - - - - - -
+                ACPI - - - - X X - - - -
+              EVENTS - - - - O - - - - -
+/VAR/RUN/ACPID.SOCKET - - - - X - - - - -
+                WORK - - - - - O - - - -
+           SUBSYSTEM - - - - - S - - - -
+              DAEMON - - - - - S - - - -
+               IDEAS - - - - - - X - - -

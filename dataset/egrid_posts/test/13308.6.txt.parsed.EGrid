@@ -1,0 +1,16 @@
+                WUBI S - - - - -
+             MACHINE O - - - - -
+            LOOPBACK X - - - - -
+               MOUNT X - - - - -
+                FILE X - - - - -
+              SYSTEM O - - - - -
+                HOST - X - - - -
+               SENSE - X - - - -
+             VIRTUAL - - S - - -
+               LIMIT - - O - - -
+                 VMS - - X - - -
+                  VM - - - - S -
+                  RC - - - - X -
+                THAT - - - - - X
+              STABLE - - - - - O
+             SCRATCH - - - - - X

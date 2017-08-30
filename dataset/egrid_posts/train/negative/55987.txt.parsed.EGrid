@@ -1,0 +1,15 @@
+                USER S - -
+               ADMIN O - -
+            PASSWORD S - -
+                SUDO X - -
+            AMARANTH O - -
+            IFCONFIG X - -
+                  DF X - -
+                  -H O - -
+           LIBRARIES - - O
+             MESSAGE - - O
+                CLVM - - X
+   POST-INSTALLATION - - X
+              SCRIPT - - S
+               ERROR - - S
+              STATUS - - O

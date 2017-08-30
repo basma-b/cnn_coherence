@@ -1,0 +1,7 @@
+               PURGE X - S - - -
+             APT-GET X - - - - -
+             PACKAGE - S - S S O
+                 APT - - X - - -
+                DPKG - - X X - -
+                FILE - - - O - -
+                 WAY - - - - - X

@@ -1,0 +1,17 @@
+           PARTITION O - - - - - - -
+                 MBR S - - - - - - -
+                 SDA X - - - - - - -
+               /BOOT X - - - - - - -
+                SDC2 X - - - - - - -
+        GRUB-INSTALL - X - - - - - -
+           SITUATION - X - - - - - -
+                BOOT - - X - - - - -
+          LIVECD/USB - - X - - - - -
+               HTTPS - - - X - - - -
+          VIA_CHROOT - - - O - - - -
+              METHOD - - - X - - - -
+              LIVECD - - - - X S - -
+                BITE - - - - X - - -
+              MATTER - - - - X - - -
+                 ONE - - - - - X - -
+                OKIE - - - - - - - X

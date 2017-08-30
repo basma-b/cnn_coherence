@@ -1,0 +1,26 @@
+         PERMISSIONS X O - - - - -
+               USERS X - - - - - -
+           HARDDRIVE X X - - - - -
+              ANYONE - X - - - - -
+            EXTERNAL - - X O - X -
+                KIND - - X - - - -
+           PARTITION - - X - - - -
+                EXT3 - - - X - - -
+                VFAT - - - - - X -
+               MOUNT - - - - - X -
+               POINT - - - - - O -
+                 SEC - - - - - O -
+                THIS - - - - - S -
+                PLUG - - - - - O -
+                LINE - - - - - X -
+        AUTOMOUNTING - - - - - S -
+               STUFF - - - - - S -
+             DEFAULT - - - - - O -
+              /MEDIA - - - - - X -
+        GCONF-EDITOR - - - - - S -
+             DEVICES - - - - - O -
+               STICK - - - - - O -
+           SOMETHING - - - - - - O
+               /VFAT - - - - - - X
+/EXTERNAL-WINDOWS-CRAP - - - - - - X
+          MOUNTPOINT - - - - - - X

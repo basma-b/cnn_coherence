@@ -1,0 +1,16 @@
+             COMMAND O - - - - -
+                SUDO - X - - - -
+             ADDUSER - S - - - -
+                USER - X - - - -
+                DISK - X - - - -
+               USERS - O - - - -
+              MEMBER - X - - - -
+             PROGRAM - O - - X -
+              FORMAT - - X - - -
+                 PEN - - O - - -
+                WBFS - - X - - -
+                MENU - - - - - X
+                ITEM - - - - - O
+                  PC - - - - - O
+             OPTIONS - - - - - S
+           SOMETHING - - - - - O

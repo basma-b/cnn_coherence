@@ -1,0 +1,13 @@
+                  .. S X X - -
+             SOMEONE X - - - -
+                MISS X - - - -
+          DEPENDENCY X - - - X
+            KIBADOCK - X - - -
+             PLUGINS - X - - -
+                 DEB - X - - -
+             PACKAGE - O - - -
+               OTHER - O - - -
+                SUDO - - - S -
+            DEB1.DEB - - - X -
+            DEB2.DEB - - - O -
+            PROBLEMS - - - - S

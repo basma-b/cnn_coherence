@@ -1,0 +1,6 @@
+                SUDO S S X -
+/PROC/SYS/NET/IPV4/IP_FORWARD O O - -
+          PERMISSION S S - -
+             RESTART X X - -
+                 TEE - - O -
+                THAT - - - O

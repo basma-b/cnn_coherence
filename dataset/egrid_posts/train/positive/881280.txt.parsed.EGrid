@@ -1,0 +1,26 @@
+               ENTRY S O - - -
+             EXAMPLE X - - - -
+   /DEV/DISK/BY-UUID - X - - -
+                SDC1 - X - - -
+                OHER - X - - -
+               LINUX - S - - X
+       GRUB-MKCONFIG - S - - -
+           /DEV/SDC1 - O - - -
+                SUDO - X - - -
+               BLKID - X - - -
+                HTTP - X - - -
+//PASTEBIN.COM/G8F2VAUK - X - - -
+                  LS - X - - -
+                 CAT - X - - -
+/PROC/SELF/MOUNTINFO - X - - -
+//PASTEBIN.COM/ZENK61UA - X - - -
+ /BOOT/GRUB/GRUB.CFG - X - - -
+//PASTEBIN.COM/FUYULZEX - X - - -
+                MOST - - S - -
+             ENTRIES - - X - -
+                FILE - - X - -
+                 ALL - - - X -
+                FORM - - - X -
+              STANZA - - - - X
+                ARCH - - - - X
+             PROBLEM - - - - X

@@ -1,0 +1,38 @@
+              SYSLOG O - X - - - -
+              SERVER X - X - - - -
+           AVAILABLE X - - - - - -
+                /MNT - X - - - - -
+                  -P - S - - - - -
+                IDEA - O - - - - -
+                 SIR - X - X - - -
+                 NFS - - X - - - -
+              ACCESS - - X - - - -
+                 YES - - - X - - -
+                HTTP - - - X - - -
+//PASTE.UBUNTU-NL.ORG/22248 - - - X - - -
+             CONTENT - - - S - - -
+        /ETC/EXPORTS - - - X - - O
+                  RW - - - X - - X
+                 RUN - - - X - - -
+                ROOT - - - X - - -
+/ETC/INIT.D/NFS-KERNEL-SERVER - - - S - - S
+   /VAR/LIB/NFS/XTAB - - - X - - -
+                TIME - - - - X - -
+               ERROR - - - - O - -
+          PERMISSION - - - - S - -
+                FILE - - - - X - -
+                  CD - - - - S - -
+           DIRECTORY - - - - X - -
+       /VAR/LIB/NFS/ - - - - - X -
+                  SM - - - - - X -
+              SM.BAK - - - - - X -
+               STATE - - - - - S -
+                STOP - - - - - X -
+               START - - - - - X X
+/ETC/INIT.D/NFS-KERNEL-START - - - - - X -
+            EXPORTFS - - - - - O X
+                  -R - - - - - S X
+              CHANGE - - - - - X -
+/ETC/INIT.D/NFS-COMMON - - - - - - X
+192.168.0.0/255.255.255.0 - - - - - - S
+                SYNC - - - - - - X

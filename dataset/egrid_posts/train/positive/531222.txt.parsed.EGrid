@@ -1,0 +1,15 @@
+                PORT S - - - - - - -
+            FIREWALL - S - - - - - -
+               BLOCK - O - - - - - -
+              APACHE - S - - - - - -
+           COMPUTERS - X - - - - - -
+             NETWORK - X - - - - - -
+                OPEN - - X - - - - -
+              GOOGLE - - - X - - - -
+             SHIELDS - - - X - - - -
+                TEST - - - - O - - -
+            IPTABLES - - - - - X - -
+         FIRESTARTER - - - - - - - O
+                -OR- - - - - - - - O
+              ROUTER - - - - - - - X
+                 WAY - - - - - - - X

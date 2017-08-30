@@ -1,0 +1,13 @@
+              KERNEL X - O - -
+               VALUE - X - - -
+       CONFIG_BRIDGE - X - - -
+             EXAMPLE - X - - -
+/USR/SRC/LINUX/.CONFIG - S O - -
+             APT-GET - - S - -
+             DEFAULT - - X - -
+               HOARY - - X - -
+                THIS - - - S -
+                 CAT - - - X -
+           CONFIG.GZ - - - X -
+              GUNZIP - - - X -
+             SERVICE - - - - O

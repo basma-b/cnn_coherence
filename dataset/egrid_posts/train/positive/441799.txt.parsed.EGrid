@@ -1,0 +1,14 @@
+              PEOPLE S - - - - -
+             PROBLEM O - - - - O
+            SOLUTION S - - - - -
+                 WWW X - - - - -
+              SERVER O - - - - -
+              VSFTPD - X S - - -
+             PROFTPD - X - X - -
+                PAIN - - O - - -
+            USERNAME - - - S - -
+                FILE - - - X - -
+               SLART - - - - - X
+                THIS - - - - - S
+    /ETC/VSFTPD.CONF - - - - - X
+PAM_SERVICE_NAME=FTP - - - - - X

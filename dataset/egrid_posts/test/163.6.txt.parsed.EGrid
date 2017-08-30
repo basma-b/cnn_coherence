@@ -1,0 +1,14 @@
+/ETC/NETWORK/INTERFACES X - - - - -
+                FILE O - - - - -
+                HTTP X - - - - -
+//PASTEBIN.COM/BCLRHMNH X - - - - -
+             MACHINE - S - - - -
+                  IP - O - - - -
+                 DNS - S - - - -
+          RESOLUTION - X - - - -
+                THAT - - X - - -
+    /ETC/RESOLV.CONF - - - X - -
+          DEPENDENCY - - - - - S
+            CONFLICT - - - - - O
+                STEP - - - - - O
+                SAME - - - - - X

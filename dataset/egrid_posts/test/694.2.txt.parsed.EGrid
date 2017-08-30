@@ -1,0 +1,13 @@
+GNOME-CONTROL-CENTER - S - - - - - - -
+            TERMINAL - - X X - - - - -
+               ANNOY - - - X - - - - -
+             MESSAGE - - - O - - - - -
+ /ETC/DEFAULT/APPORT - - - O O - - - -
+           ENABLED=0 - - - S - - - - -
+                FILE - - - - X - - - -
+                   > - - - - S - - - -
+                TEXT - - - - O - - - -
+              CHOICE - - - - O - - - -
+               THING - - - - - - - - X
+             CHANNEL - - - - - - - - X
+               DRIVE - - - - - - - - X

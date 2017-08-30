@@ -1,0 +1,29 @@
+              FORMAT X - - X - - - - - - -
+               DRIVE X - - - - - - - - - -
+                 MAN - S - - - - - - - - -
+              DEVICE - - O O - - - - - - -
+      /DEV/SOMETHING - - X - - - - - - - -
+          MOUNTPOINT - - X - - - - - - - -
+    /MEDIA/SOMETHING - - X - - - - - - - -
+              OPTION - - O - - - - - - - -
+          FILESYSTEM - - X - - - - - - - -
+                TYPE - - S - X S - - - - -
+                FILE - - - - S S - - - - -
+                EACH - - - - S - - - - - -
+                THIS - - - - X - - - - - -
+               OWNER - - - - X - - - - - -
+               GROUP - - - - X - - - - - -
+               USERS - - - - X - - - - - -
+           EVERYBODY - - - - X - - - - - -
+            FILENAME - - - - - X - - - - -
+            ENTITIES - - - - - X - - - - -
+             PROGRAM - - - - - O - - - - -
+                SOME - - - - - - X - - - -
+              MIRROR - - - - - - X - - - -
+              OTHERS - - - - - - O - - - -
+                 USE - - - - - - - - - X -
+                 WAY - - - - - - - - - X -
+/ETC/APT/SOURCES.LIST - - - - - - - - - O -
+                URLS - - - - - - - - - O -
+                FORM - - - - - - - - - - X
+TWO-LETTERS-COUNTRYCODE.ARCHIVE.UBUNTU.COM - - - - - - - - - - X

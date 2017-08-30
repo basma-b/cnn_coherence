@@ -1,0 +1,12 @@
+                  .. - X - - -
+           PARTITION - O - - -
+                SWAP - S - - -
+              MKSWAP - O - - -
+              RELIEF - O - - -
+          PM-SUSPEND - - S - -
+                BOOT - - - X -
+              OPTION - - - X -
+              SOURCE - - - X -
+                HTTP - - - X -
+//CODE.GOOGLE.COM/P/VAIO-F11-LINUX/ISSUES/DETAIL - - - X -
+               ID=23 - - - - X

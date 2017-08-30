@@ -1,0 +1,13 @@
+              OUTPUT X X -
+             COMMAND X - -
+                LINE X S -
+                 LOT - S -
+           K3BDEVICE - X -
+              DEVICE - X -
+            /DEV/HDC - X -
+              NUMBER - S -
+             SUPPORT - X -
+               SPEED - O -
+                  2A - X -
+                  -1 - X -
+           BACKTRACE - - X

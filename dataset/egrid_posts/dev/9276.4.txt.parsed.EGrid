@@ -1,0 +1,14 @@
+            HFSPROGS S - -
+                SUDO X S -
+             APT-GET S - -
+        CAPABILITIES O - -
+               PRIVS O - -
+             REMOUNT - O -
+        /MOUNT/POINT - O -
+                TIME - - X
+                 WAY - - O
+              RESULT - - O
+          PROCESSING - - X
+                CIFS - - X
+                HOST - - X
+                 WAT - - S

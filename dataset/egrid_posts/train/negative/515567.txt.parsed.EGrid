@@ -1,0 +1,13 @@
+             MACHINE O - - - X - -
+            INTERNET X - - - - - -
+                  .. O - - - - - X
+            FIREWALL - X - - - - -
+              ROUTER - - O - - - -
+                 DNS - - - X - - -
+                PING - - - - X - -
+             ADDRESS - - - - X - -
+             NETWORK - - - - X - -
+                 YEP - - - - - - X
+             NOTHING - - - - - - S
+                 LOG - - - - - - O
+                DROP - - - - - - X

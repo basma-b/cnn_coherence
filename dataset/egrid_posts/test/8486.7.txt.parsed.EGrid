@@ -1,0 +1,10 @@
+              RFKILL X - - - -
+                 ALL S - - - -
+              OUTPUT - X - - -
+               LSMOD - X - - -
+               |GREP - X - - -
+                 WMI - O - - -
+                LIVE - - - S -
+             WINDOWS - - - S -
+                GRUB - - - O -
+                USER - - - - S

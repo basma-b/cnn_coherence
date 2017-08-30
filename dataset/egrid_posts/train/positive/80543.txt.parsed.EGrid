@@ -1,0 +1,16 @@
+              FORMAT X - -
+           PARTITION O X X
+               LINUX X - -
+                EXT3 X - X
+             CLUSTER X - -
+                SIZE X S -
+                  4K X - -
+               BLOCK - X -
+               THERE - S -
+              NUMBER - O -
+                TERM - X -
+                DISK - X -
+               USAGE - X -
+         PERFORMANCE - X -
+             DEFAULT - O -
+                TYPE - - X

@@ -1,0 +1,14 @@
+               THERE X - - - - - -
+                 WAY X - - - - - -
+               LABEL O X X - - - O
+     NTFS-FILESYSTEM X - - - - - -
+           PARTITION - - O - - - -
+              ACCESS - - X - - - -
+          /ETC/FSTAB - - X - - - -
+             EXAMPLE - - X - - - -
+                CASE - - S - - - -
+              DEVICE - - - S X - X
+                NAME - - - - O - -
+                   < - - - - - - S
+                   > - - - - - - S
+                SUDO - - - - - - S

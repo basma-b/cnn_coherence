@@ -1,0 +1,24 @@
+               ROUTE X S X - - -
+             COMMAND O - - - - -
+             CONSOLE X - - - - -
+             GATEWAY - O O - - -
+                   * - X X - - -
+                STAR - X - - - -
+              COLUMN - X - - - -
+                MEAN - X - - - -
+                SUDO - - X - - -
+              OUTPUT - - X - - -
+                  .. - - X - - -
+                   U - - X - - -
+                ETH0 - - O S - -
+                 NAT - - X - - -
+              ROUTER - - S - - -
+        192.178.42.1 - - X - - -
+                   K - - O - - -
+/ETC/NETWORK/INTERFACES - - - S - -
+                FILE - - - O - -
+                  BE - - - - S -
+         AREA51PILOT - - - - X -
+    /ETC/RESOLV.CONF - - - - S -
+              NORMAL - - - - O -
+      NETWORKMANAGER - - - - - X

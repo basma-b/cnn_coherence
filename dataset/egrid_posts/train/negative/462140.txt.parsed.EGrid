@@ -1,0 +1,17 @@
+         PERMISSIONS S X - - - - -
+                FILE - S - S - - -
+                ROOT - X - X - - -
+                USER - X - - - - -
+             DESKTOP - X - - - - -
+              FOLDER - X - - - - -
+                 USE - O - - - - -
+            TERMINAL - X - - - - -
+             ACCOUNT - - - X - - -
+                 LOG - - - X - - -
+                SUDO - - - X - - -
+             COMMAND - - - O - - -
+                6GIG - - - - - S -
+                PAIN - - - - - O -
+              VIRTUE - - - - - X -
+                /USR - - - - - - S
+                 ATM - - - - - - O

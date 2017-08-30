@@ -1,0 +1,19 @@
+               GUTSY O - - - - - - - - -
+         ALTERNATECD X - - - - - - - - -
+                BOOT X X - - - - - - - -
+        AVAHI-DAEMON X O - - - - - - - -
+            RECOVERY - X - - - - - - - -
+                MODE - X - - - - - - - -
+              SOCKET - X - - - - - - - -
+/VAR/RUN/DBUS/SYSTEM_BUS_SOCKET - X - - - - - - - -
+                FILE - X - - - O - - - -
+           DIRECTORY - X - - - - - - - -
+                 ANY - - S - - - - - - -
+              DAMEON - - - O - - - - - -
+             NETWORK - - - - X - X - - -
+                LOOK - - - - - O - - - -
+                 CDS - - - - - O - - - -
+               STUFF - - - - - O - - - -
+                   X - - - - - - - - O -
+           XORG.CONF - - - - - - - - - O
+                HAND - - - - - - - - - X

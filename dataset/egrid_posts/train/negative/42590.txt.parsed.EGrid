@@ -1,0 +1,7 @@
+           PARTITION S - -
+              SYSTEM S - -
+                BOOT X - -
+          /ETC/FSTAB - X -
+              CTRL-C - - X
+              CTRL-Z - - X
+               SHELL - - X

@@ -1,0 +1,25 @@
+                TIME X - O - - -
+            PROBLEMS S - - - - -
+             DRIVERS O - - - - -
+           NSWRAPPER O - - - - -
+            PRIORITY O - - - - -
+              DRIVER - O - X - -
+               IUNNO - - S - - -
+                 BED - - X - X -
+                HELP - - X - - -
+                WAIT - - X - - -
+             COMMAND - - - X - -
+        TRANSPARENCY - - - O - -
+  BCM43XX\NBLACKLIST - - - X - -
+      B43\NBLACKLIST - - - X - -
+B43LEGACY\NBLACKLIST - - - X - -
+                 SSB - - - X - -
+                SUDO - - - X - -
+                 TEE - - - O - -
+/ETC/MODPROBE.D/BLACKLIST.CONF - - - X - -
+              UPDATE - - - O O -
+               10.04 - - - X - -
+             MANAGER - - - S - -
+                  OK - - - - X -
+           BLACKLIST - - - - X -
+                LINK - - - - O -

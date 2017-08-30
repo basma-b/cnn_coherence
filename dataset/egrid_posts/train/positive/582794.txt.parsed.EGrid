@@ -1,0 +1,16 @@
+                  -A X - - - - - -
+                SWAP - X - X - - -
+               SPACE - O - O - - -
+          /ETC/FSTAB - X - - - - -
+               FAT32 - X - - - - -
+                FLAG - X - - - - -
+           PARTITION - X - X - - X
+                  -U - - X - - - -
+                  -L - - S - - - -
+                 USE - - O - - - -
+                 ONE - - O - - - -
+              ADVICE - - S - - - -
+                SPOT - - X - - - -
+                SIZE - - X - - - -
+            DATALOSS - - - - - S -
+            ANYTHING - - - - - - O

@@ -1,0 +1,29 @@
+                THAT S - - - -
+                LINE O - - - -
+            FIREWALL X - - - -
+              SERVER X - - - -
+                HTTP X - - - -
+                 WAN X - - - -
+              SOURCE X - - - -
+                  IP O - - - -
+                DEST X - - - -
+                 LAN X - - - -
+                COMP X - - - -
+                 ONE S - - - -
+               LAPPY S - - - -
+             YOUR_IP O - - - -
+              TELNET S - - - -
+MEZNAK.HOMELINUX.NET O - - - -
+           80/TELNET X - - - -
+                NAME S - - - -
+             SERVICE S - - - -
+70.176.28.98:80/TELNET O - - - -
+                  PS X - - - -
+                  AX X - - - -
+                   | O - - - -
+              APACHE S - - S -
+            INSTANCE S - - - -
+               .CONF - X - - -
+              SYSTEM - - - - X
+             APACHE/ - - - - X
+            APACHE2/ - - - - O

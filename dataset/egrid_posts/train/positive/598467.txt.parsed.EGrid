@@ -1,0 +1,10 @@
+/ETC/MODPROBE.D/BLACKLIST.CONF O - - - - - -
+                LINE O - - - - - X
+               LSMOD - O - - - - -
+                LOAD - X - - - - -
+                  .. - O - - - - -
+               R8169 - - O - - - O
+       SND_HDA_INTEL - - O - - - -
+             NOTHING - - S - - - -
+               SPELL - - - - - O -
+             EXACTLY - - - - - - O

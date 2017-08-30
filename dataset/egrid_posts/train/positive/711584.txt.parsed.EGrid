@@ -1,0 +1,12 @@
+           127.0.0.1 S - - -
+                NAME O - - -
+                HOME X - - -
+            OCCASION X - - -
+                SPOT X - - -
+                   U S - - -
+         NAMESERVERS O - - -
+     NETWORK-MANAGER - - S -
+         DHCP-CLIENT - - X -
+             ENTRIES - - O -
+            OVERRIDE - - - O
+    REBOOT/RECONNECT - - - X

@@ -1,0 +1,15 @@
+                FILE X - - -
+              ROLLER O - - -
+             PROBLEM - X - -
+                  .. - - O -
+                   * - - X -
+                 NIX - - X -
+               REGEX - - - X
+                 WAY - - - X
+                THIS - - - O
+                 CAT - - - X
+            FILE.TXT - - - X
+                   | - - - S
+                  -E - - - X
+           /\S+/\N/G - - - X
+           FILE2.TXT - - - O

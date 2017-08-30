@@ -1,0 +1,12 @@
+             COMMAND X - - - - -
+             SERVICE X - - - - -
+                SSHD X - - - - -
+                SUDO - S - - - -
+              LOADER - - X - - -
+                MENU - - O - - -
+                BOOT - - - O - -
+              SYSTEM - - - O - -
+              CD/DVD - - - O - -
+               WORRY - - - - O -
+         COMMANDLINE - - - - X -
+               12.04 - - - - - X

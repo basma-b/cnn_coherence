@@ -1,0 +1,14 @@
+                FILE O - O - - O - O - - - - O - O - - O
+              UBUNTU X - - - - X - - - - - - X - - - - -
+                 EXT X - - S - X - - X - - - X - - X - -
+           PARTITION X - - - - X - - O - X - X - - O - O
+                GRUB - X - - - - X - - - - - - X - - O -
+              LOADER - S - - - - S - - - - - - S - - - -
+                MESS - X - - - - X - - - - - - X - - - -
+             MACHINE - - O - - - - O - - - - - - O - - -
+                BOOT - - - X - - - - X - X - - - - X - -
+                  CD - - - X X - - - X X - - - - - X - -
+               OWNER - - - O - - - - O - - - - - - O - -
+          PERMISSION - - - O - - - - O - - - - - - O - O
+                ROOT - - - - X - - - - X - - - - - - - -
+              LIVECD - - - - - - - - - - X - - - - - - -

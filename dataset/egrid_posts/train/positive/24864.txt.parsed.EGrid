@@ -1,0 +1,11 @@
+              THINGS X - - - -
+                LINK - O - - -
+           PARTITION - O X - -
+              /STUFF - X - - -
+         PERMISSIONS - - X - -
+               CHMOD - - - S -
+  /PATH/TO/PARTITION - - - O -
+               OWNER - - - S -
+             EXECUTE - - - O -
+               GROUP - - - X -
+             NEWNAME - - - - O

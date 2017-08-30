@@ -1,0 +1,12 @@
+                APPS X X -
+               SOUND O - -
+               PULSE - O -
+                ALSA - O -
+                DMIX - S -
+               FAVOR - X -
+                ROLL - X -
+          PULSEAUDIO - X -
+             SUPPORT - X -
+                SUDO - - X
+             APT-GET - - X
+                  -F - - X

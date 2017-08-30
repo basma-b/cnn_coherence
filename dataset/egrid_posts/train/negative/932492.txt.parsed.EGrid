@@ -1,0 +1,12 @@
+                GRUB X - - -
+                DISK X - - -
+           FIRSTDISK - S - -
+          PARTITION1 - X - -
+       0,1-FIRSTDISK - X - -
+                  .. - - O O
+                  TA - - S -
+                LILO - - X -
+                IRST - - O -
+                  GO - - X -
+                DELL - - - X
+            PURCHASE - - - X

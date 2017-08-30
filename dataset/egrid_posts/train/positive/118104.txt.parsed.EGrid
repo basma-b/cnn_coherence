@@ -1,0 +1,11 @@
+                HELP O - - -
+                ALSA X - - -
+            MODPROBE X - - -
+                IDEA O O - -
+              CUSTOM X - - -
+        /ETC/MODULES O - X -
+                HMMM - S - -
+            ALSA-BAS - - X -
+/ETC/MODPROBE.D/ALSA-BASE - - X -
+                 ONE - - - S
+            PRIORITY - - - O

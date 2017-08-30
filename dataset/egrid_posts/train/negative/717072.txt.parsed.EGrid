@@ -1,0 +1,13 @@
+              /MEDIA S - -
+             FLOPPY0 S - -
+               STORE X - -
+                   N X - -
+              MD5SUM O X -
+        /MEDIA/CDROM O - -
+               MOUNT X - -
+                  CD X - -
+                 ISO - X -
+                 ALL - - S
+                LINK - - X
+             NETWORK - - X
+             MACHINE - - X

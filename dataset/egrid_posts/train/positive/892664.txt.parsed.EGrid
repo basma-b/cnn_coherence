@@ -1,0 +1,14 @@
+              ANYONE X - - - - -
+              BINDFS S - - - X -
+               FILES O - - - - -
+          FILESYSTEM X - - - X -
+                FILE - X - - O -
+               MOUNT - - X - - -
+             COMMAND - - X - - -
+                LOOP - - X - - -
+              OPTION - - O - - -
+              QUOTAS - - - - O -
+               USERS - - - - X -
+               SHARE - - - - X -
+         DIRECTORIES - - - - X O
+              NORMAL - - - - - S

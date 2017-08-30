@@ -1,0 +1,18 @@
+           CONDITION X - - -
+                GRUB X - - -
+                BOOT X - - -
+                ROOT X - - -
+               HD0,0 X - - -
+               SETUP X - - -
+                 HD0 X - - -
+             COMMAND X - - -
+                SDA1 - S - -
+              UBUNTU - O - -
+              FOLDER - X - -
+              STAGE1 - S - -
+             MESSAGE - S - -
+               STAGE - O - -
+                 1.5 - O - -
+LD_PRELOAD=/USR/LIB/LIBV4L/V4L1COMPAT.SO - - - X
+               SKYPE - - - S
+                WORK - - - O

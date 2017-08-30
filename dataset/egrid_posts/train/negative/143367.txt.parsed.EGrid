@@ -1,0 +1,6 @@
+             COMMAND O - - -
+         DPKG-DIVERT O - - -
+/USR/SHARE/MAN/MAN1/XSERVER.1X.GZ.XGL O - - -
+/USR/SHARE/MAN/MAN1/XSERVER.1X.GZ O - - -
+                THAT - - - O
+                N280 - - - S

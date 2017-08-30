@@ -1,0 +1,15 @@
+             PROFTPD S - - - - -
+                FLAG X - - - - -
+               DEBUG X - - - - -
+                WORK O - - - - -
+            GPROFTPD - O - - - -
+                  IM - S - - - -
+                CANT - X - - - -
+             FOLDERS - O X - - -
+             HOMEDIR - - X - - -
+/VAR/WWW/WORDPRESS/WP-CONTENT/PLUGINS/ - - - O - -
+                 LOG - - - - X -
+         PERMISSIONS - - - - X -
+           DIRECTORY - - - - X -
+                USER - - - - X -
+               ERROR - - - - - X

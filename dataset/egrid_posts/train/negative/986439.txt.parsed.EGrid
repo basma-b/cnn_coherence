@@ -1,0 +1,14 @@
+       MKINITRD.CONF X - - - -
+            SUSPEND2 O - - - -
+                 GTE - X - - -
+                LINE - X - - -
+                 USE - - S - -
+              INITRD - - O - -
+              BREEZY - - X - -
+           INITRAMFS - - S - -
+              KERNEL - - X - -
+              OPTION - - X - -
+               WHILE - - X - -
+            BUIDLING - - X - -
+                 CDS - - - - S
+            SOLUTION - - - - O

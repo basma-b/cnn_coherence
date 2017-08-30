@@ -1,0 +1,15 @@
+         CREDENTIALS X - - -
+                FILE O - - -
+           SMBCLIENT O - - -
+          MOUNT.CIFS X - - -
+         MOUNT.SMBFS S - - -
+               ERROR O - - -
+          PERMISSION X - X -
+                SDUO X - - -
+                SUDO - X - O
+              BROWSE - - X -
+              SERVER - - X -
+             FUSESMB - - X -
+            SMBNETFS - - X -
+                  .. - - X -
+                CASE - - - X

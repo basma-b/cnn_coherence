@@ -1,0 +1,24 @@
+                  HI X - - - - -
+            DHCLIENT - O X - - -
+               10.10 - X - - - -
+             NETWORK - X - - - -
+           INTERFACE - X - - - -
+                KILL - - X - - -
+                STOP - - - S - -
+                SUDO - - - X - -
+             SERVICE - - - X - -
+        DHCP3-CLIENT - - - X - -
+/ETC/UFW/BEFORE.RULES - - - - X -
+/ETC/UFW/AFTER.RULES - - - - S -
+              SYNTAX - - - - X -
+              POLICY - - - - S -
+                 DIR - - - - X -
+                 POL - - - - X -
+               IPSEC - - - - X -
+                  -P - - - - X -
+                 UDP - - - - X -
+          PORTNUMBER - - - - X -
+                   > - - - - X -
+                  -J - - - - S -
+                WORK - - - - - X
+                FINE - - - - - O

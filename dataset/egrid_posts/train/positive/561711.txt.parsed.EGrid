@@ -1,0 +1,10 @@
+             GATEWAY O - - X
+       192.168.100.1 X - - -
+             DEFAULT X - - X
+               MODEM X - - S
+             ADDRESS X - - O
+             COMCAST O - - -
+                WONT - - - S
+              ROUTER - - - O
+           CONFIGURE - - - O
+         PASSTHROUGH - - - X

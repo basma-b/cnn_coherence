@@ -1,0 +1,11 @@
+                TYPE X -
+                SUDO X -
+            IPTABLES S -
+                  -A S -
+          MASQUERADE O -
+              SYSCTL X -
+NET.IPV4.IP_FORWARD=1 O -
+                NAME X -
+                 NAT X -
+                 MAN - X
+            FUNCTION - X

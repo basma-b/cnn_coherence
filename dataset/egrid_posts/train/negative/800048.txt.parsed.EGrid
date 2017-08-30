@@ -1,0 +1,7 @@
+               GUEST O - - - - -
+              KERNEL - O O - - -
+                BOOT - - X - - X
+   /ETC/DEFAULT/GRUB - - - O - -
+             DEFAULT - - - O - -
+               ORDER - - - - - X
+                GRUB - - - - - O

@@ -1,0 +1,16 @@
+                  RW S - - - - - -
+              ROOTFS S - - - - - -
+             REMOUNT O - - - - - -
+                   / S - - - - - -
+              CHANGE O - O - - - -
+            REVISION - X - - - - -
+             CONTROL - X - - - - -
+              SYSTEM - O - - - - -
+                  FS - - X - - - -
+                THAT - - - O - - -
+              UMOUNT - - - X - - -
+                CANT - - - X - - -
+                SYNC - - - S - - -
+             ANDROID - - - - - - X
+                  OS - - - - - - X
+               PHONE - - - - - - X

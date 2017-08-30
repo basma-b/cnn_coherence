@@ -1,0 +1,6 @@
+/ETC/HOTPLUG/BLACKLIST S -
+                 DEB - X
+                 FTP - X
+                MAIN - S
+                THIS - O
+/ETC/APT/SOURCES.LIST - X

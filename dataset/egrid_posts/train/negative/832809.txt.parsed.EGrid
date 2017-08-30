@@ -1,0 +1,7 @@
+                SUDO S X - -
+/ETC/INIT/APACHE2.CON O - - -
+         UPSTART-JOB X - - -
+                  .. - X - -
+        SYSV-RC-CONF - S - -
+             DEFAULT - X - -
+              K9COPY - - - O

@@ -1,0 +1,10 @@
+            PER-USER X - - - - -
+            CRONTABS X - - - - -
+                PATH - X - - - -
+                FILE - - X - - -
+                USER - - - X - -
+           /.CRONTAB - - - O - -
+             MANPAGE - - - - - S
+               THERE - - - - - S
+/VAR/SPOOL/CRON/CRONTABS - - - - - X
+               USERS - - - - - X

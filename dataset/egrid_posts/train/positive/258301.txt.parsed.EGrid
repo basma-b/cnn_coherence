@@ -1,0 +1,50 @@
+           ALSAMIXER S - - - - - - - - - - - - - - -
+                CARD O - - - - - - - - - - - - - - -
+                 SIS X - - - - - - - - - - - - - - -
+               SOUND S - - - - - - - - - - - - - - -
+                WORK O - - - - - - - - - - - - - - -
+                IDEA - X - - - - - - - - - - - - - -
+                THIS - O - - - - - - - - - - - - - -
+                EDGY - - X - - - - - - - - - - - - -
+                INFO - - - X - - - - - - - - - - - -
+             REQUEST - - - O - - - - - - - - - - - -
+WIKI.UBUNTU.COM/DEBUGGINGSOUNDPROBLEMS - - - X - - - - - - - - - - - -
+                 URL - - - X - - - - - - - - - - - -
+                HTTP - - - X - - - - - - - - - - - -
+//PASTEBIN.COM/893102 - - - X - - - - - - - - - - - -
+               HTTPS - - - X - - - - - - - - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/DEBUGGINGSOUNDPROBLEMS - - - X - - - - - - - - - - - -
+         SUGGESTIONS - - - X - - - - - - - - - - - -
+           AMPLIFIER - - - - X - S - - - - - - - - -
+               NOPES - - - - - X - - - - - - - - - -
+            EXTERNAL - - - - - - X - - - - - - - - -
+        APPLICATIONS - - - - - - S - S - - - - - - S
+                ALSA - - - - - - X - - - - - - - - -
+             DRIVERS - - - - - - O - O - - - - - - -
+               STATE - - - - - - X - X - - - - - - -
+                FILE - - - - - - O - O - - - - - - -
+              RELOAD - - - - - - S - - - - - - - - -
+              DRIVER - - - - - - X - X - - - - - - -
+                THAT - - - - - - - X - - - S - - - -
+                LOOK - - - - - - - - - S - - - - - -
+             WEBSITE - - - - - - - - - X - - - - - -
+                  .. - - - - - - - - - O - - - - - -
+            MODPROBE - - - - - - - - - S - - - X - -
+            ANYTHING - - - - - - - - - O - - - - - -
+           SOMETHING - - - - - - - - - - S - - - - -
+                 CAT - - - - - - - - - - - X - - - -
+/PROC/ASOUND/MODULES - - - - - - - - - - - X - - - -
+                 HEH - - - - - - - - - - - S - - - -
+         SND_TRIDENT - - - - - - - - - - - X - S - -
+                   $ - - - - - - - - - - - - - O - -
+                 USE - - - - - - - - - - - - - X - -
+              MODULE - - - - - - - - - - - - - X - -
+         SND-TRIDENT - - - - - - - - - - - - - S - -
+                   * - - - - - - - - - - - - - X - -
+           /DEV/SND/ - - - - - - - - - - - - - X - -
+                SUDO - - - - - - - - - - - - - S - -
+                  -R - - - - - - - - - - - - - S - -
+                ^SND - - - - - - - - - - - - - X - -
+                |AWK - - - - - - - - - - - - - X - -
+               PRINT - - - - - - - - - - - - - X - -
+/VAR/LIB/ALSA/ASOUND.STATE - - - - - - - - - - - - - X - -

@@ -1,0 +1,15 @@
+                DHCP S - - -
+             SERVICE O - - X
+               11.04 X - - X
+                TYPE S - - -
+                 TAB X - - -
+             NOTHING S - - -
+               DHCPD S - - -
+                  .. O - - -
+              SERVER O O - O
+            DHCLIENT X - - -
+              .AFTER O - - -
+              SEARCH X - - -
+                 ONE O - - -
+             ADDRESS - O - -
+                WORK - - - X

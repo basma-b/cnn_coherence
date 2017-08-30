@@ -1,0 +1,25 @@
+                HELP X - - - - - - - - - - - - -
+               SHELL X - - - - - - - - - - - - -
+              SCRIPT X - - - - - - - X - - - - O
+             PROCESS S - - - - - - - - - - - S -
+          BACKGROUND - X - X X - - - - - - - - -
+              SCREEN - - X X - - - - X - X - S -
+                THAT - - - X - - O - - - - - - -
+                GOAL - - - - - X - - - - - - - -
+               START - - - - - - - - X - - - - -
+             CRONJOB - - - - - - - - O - - - - -
+           SOMETHING - - - - - - - - O - - - - -
+                NAME - - - - - - - - X - - - - -
+                TIME - - - - - - - - - - X - - O
+                THIS - - - - - - - - - - O - - -
+//PASTIE.ORG/1321781 - - - - - - - - - - X - - -
+             PROGRAM - - - - - - - - - - S - - -
+                MOST - - - - - - - - - - X - - -
+                CRON - - - - - - - - - - X - - -
+              OUTPUT - - - - - - - - - - X - O -
+                FILE - - - - - - - - - - - X - -
+              SYSLOG - - - - - - - - - - - X - -
+            FACILITY - - - - - - - - - - - X - -
+             KUBUNTU - - - - - - - - - - - - - X
+            GUARDDOG - - - - - - - - - - - - - O
+            IPTABLES - - - - - - - - - - - - - X

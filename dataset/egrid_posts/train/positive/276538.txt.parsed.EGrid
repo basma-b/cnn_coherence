@@ -1,0 +1,8 @@
+       IPTABLES-SAVE S - -
+            SETTINGS O - -
+                FILE X - -
+    IPTABLES-RESTORE - X -
+             STARTUP - X -
+                  .. - O -
+                 MAN - - X
+                PAGE - - O

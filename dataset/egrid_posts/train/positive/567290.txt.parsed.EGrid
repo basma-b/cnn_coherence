@@ -1,0 +1,7 @@
+            MODPROBE X X S - -
+             ATH_PCI X X - - -
+               START X X - - -
+                SUDO - X X - -
+                   * - X - - -
+             NETWORK - - - - X
+                 ETC - - - - S

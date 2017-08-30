@@ -1,0 +1,15 @@
+               CDROM S - - -
+              REASON X - - -
+             COMMAND X - - -
+               LSPCI X - - -
+              DEVICE O - - -
+                  CD - X - -
+               DRIVE - O - -
+                 ONE - - S -
+               CD-RW - - O -
+               OTHER - - S -
+           DVD/CD-RW - - O -
+                FILE - - O -
+                 TWO - - O -
+                WORK - - - X
+              UPDATE - - - X

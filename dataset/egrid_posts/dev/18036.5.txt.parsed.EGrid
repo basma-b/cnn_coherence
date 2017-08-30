@@ -1,0 +1,10 @@
+             COMMAND S - - -
+                SUDO X - - -
+     /ETC/INIT.D/GDM X - - -
+                STOP O - - -
+            RECOVERY X - - -
+              SCREEN O - - -
+                CANT X - - -
+                 PID - - - S
+             PROCESS - - - X
+                  ID - - - O

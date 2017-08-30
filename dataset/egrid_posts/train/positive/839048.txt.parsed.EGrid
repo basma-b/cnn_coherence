@@ -1,0 +1,25 @@
+            SOMEBODY X X - - - - - -
+          ELEMENTARY O O - - - - - -
+                 PPA - X X O - - - -
+               PURGE - S S S - - - -
+                LINE - - - S - - - -
+/ETC/APT/SOURCES.LIST.D/ - - - X - - - -
+               SORRY - - - X - - - -
+              SOURCE - - - O - - X -
+                 USE - - - X - - - -
+                 END - - - X - - - -
+             APT-GET - - - S - - - -
+             PACKAGE - - - X - - - -
+                SUDO - - - X - - - -
+                  .. - - - - O - - -
+              OOPSIE - - - - S - - -
+                LIST - - - - - - S -
+                  -Q - - - - - - O -
+       NAUTILUS:2553 - - - - - - - X
+ UNIQUE-DBUS-WARNING - - - - - - - X
+                   * - - - - - - - X
+               ERROR - - - - - - - X
+             MESSAGE - - - - - - - S
+               REPLY - - - - - - - O
+             TIMEOUT - - - - - - - X
+                 BUS - - - - - - - X

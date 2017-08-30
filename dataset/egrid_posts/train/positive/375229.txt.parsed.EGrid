@@ -1,0 +1,9 @@
+             SERVICE S - -
+                 SSH S - -
+                 FTP X - -
+               |GREP X - -
+                  PS X - -
+                 -EF O - -
+              DAEMON - - O
+             DEFAULT - - X
+              BOOTUP - - X

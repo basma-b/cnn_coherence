@@ -1,0 +1,12 @@
+           PARTITION X X - - -
+              OPTION - O - - -
+            QTPARTED - X - - -
+                 USE - X - - -
+                EXT3 - - O - -
+               DUNNO - - X - -
+              NUMBER - - - O -
+              THINGS - - - X -
+               CHECK - - - - X
+               VIDEO - - - - X
+              DRIVER - - - - X
+              INSTAL - - - - O

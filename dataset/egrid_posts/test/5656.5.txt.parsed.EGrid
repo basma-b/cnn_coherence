@@ -1,0 +1,14 @@
+               12.04 X - - - - -
+               12.10 X - S - - -
+            SOFTWARE - - X - - -
+            ANYTHING - - - O - -
+              NAGIOS - - - X - -
+             CHANNEL - - - - O -
+             GENERAL - - - - X -
+       CONFIGURATION - - - - - S
+                FILE - - - - - X
+              CHANGE - - - - - S
+               STATE - - - - - X
+               ERROR - - - - - S
+             DISPLAY - - - - - O
+                FULL - - - - - X

@@ -1,0 +1,6 @@
+          /DIRECTORY X -
+             SYMLINK S -
+             EXAMPLE X -
+                  .. - S
+                 MAN - O
+                FISH - X

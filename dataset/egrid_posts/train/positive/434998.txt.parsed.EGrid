@@ -1,0 +1,12 @@
+                TIME S S - -
+             COMMAND S S - -
+                SUDO X X - -
+            MODPROBE X X - -
+         NDISWRAPPER O O - -
+            WIRELESS S S - -
+                 WAY X X - -
+        /ETC/MODULES - - S -
+             MODULES - - O -
+                LOAD - - O -
+             STARTUP - - X -
+               THERE - - - X

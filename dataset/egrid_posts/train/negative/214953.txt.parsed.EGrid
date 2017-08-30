@@ -1,0 +1,17 @@
+               UMASK - O - - -
+                FILE - X - - -
+              SYSTEM - X - - -
+                USER - S - - -
+      FILE/DIRECTORY - O - - -
+             DEFAULT - X - - -
+               GROUP - X - - -
+            WRITABLE - O - - -
+                THIS - - S - -
+               THATS - - X - -
+                FINE - - X - -
+                WORK - - O - -
+             COMMAND - - X - -
+                LINE - - X - -
+             BORLAND - - - S -
+             COMPANY - - - O -
+                CLUE - - - O -

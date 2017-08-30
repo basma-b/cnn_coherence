@@ -1,0 +1,20 @@
+                  HI X - - - - - - -
+             SYMLINK - O - - - - - -
+                SUDO - X - - - - - -
+/USR/LIB/XI386-LINUX-GNU - X - - - - - -
+          /USR/LIB64 - X - - - X - -
+            TERMINAL - - S - - - - -
+           DIRECTORY - - S - - X - -
+                 GCC - - - X - - - -
+              FOLDER - - - - X X - -
+              LINKER - - - - S - - -
+              CRTI.O - - - - O - - -
+               32BIT - - - - - X - -
+              OUTPUT - - - - - O - -
+                LINK - - - - - O - -
+         DESTINATION - - - - - X - -
+                 WAY - - - - - O - -
+              SEARCH - - - - - X - -
+                LIBS - - - - - O - -
+      I386-LINUX-GNU - - - - - X - -
+                 YEA - - - - - - - S

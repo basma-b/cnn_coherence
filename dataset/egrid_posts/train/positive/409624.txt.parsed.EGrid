@@ -1,0 +1,12 @@
+             COMMAND X - - -
+                LINE X - - -
+                TOOL X - - -
+             SERVICE O - - -
+                BOOT X - - -
+                SSHD - - O -
+                XORG - - X -
+         UNDATE-RC.D - - O -
+              RCCONF - - S -
+                 GUI - - X -
+             DEFAULT - - X -
+                  XD - - - O

@@ -1,0 +1,16 @@
+                BOOT X - - - - -
+              ERRORS X - - - - -
+            APT-FILE - X - - - -
+             COMMAND - S - - - -
+             NOTHING - O - - - -
+          INDICATION - O - - - -
+            ANYTHING - O - - - -
+                 ^^^ - O - - - -
+                 N/M - - X - - -
+                FILE - - X - - O
+                 APT - - X - - -
+             PACKAGE - - - X - -
+               RIGHT - - - X - -
+                 OUT - - - - - O
+             PROGRAM - - - - - X
+/LIB/MODULES/2.6.15-27-K7/VOLATILE - - - - - X

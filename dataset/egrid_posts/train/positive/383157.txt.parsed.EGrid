@@ -1,0 +1,11 @@
+                GRUB O - - - -
+             DEFAULT X - - - -
+                LILO - O - - -
+                 WAY - X - - -
+                 RUN - X - - -
+               WORLD - - S - -
+                ROOT - - - X X
+                FILE - - - X -
+              SYSTEM - - - X -
+                  .. - - - X -
+                  FS - - - - S

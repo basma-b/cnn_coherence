@@ -1,0 +1,17 @@
+              SESION - O - - - - -
+                DISK - - S X - - -
+                  RW - - X - - - -
+                   R - - X - - - -
+                  .. - - - O - - -
+               DMESG - - - X - - -
+     /VAR/LOG/SYSLOG - - - O - - -
+              ERRORS - - - X - - -
+             UTILITY - - - O - - -
+              STATUS - - - X - - -
+            ANYTHING - - - O - - -
+                  FS - - - O - - -
+                MODE - - - X - - -
+                LINK - - - - - X -
+                 ISO - - - - - X -
+              MIRROR - - - - - - X
+                HTTP - - - - - - X

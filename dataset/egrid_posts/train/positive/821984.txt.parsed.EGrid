@@ -1,0 +1,16 @@
+             PROBLEM O S - - - -
+              SERVER S - - - - -
+           PARTITION O - - S - -
+           /DEV/SDA1 X - - - - -
+           /DEV/SDA6 X - - - - -
+                   / X - - - - -
+               /DATA X - - - - -
+                SDA1 - O X - - -
+                  MB - X - - - -
+                SDA6 - S X - - -
+                  GB - O - - - -
+                THAT - - X - - -
+                SOME - - O - - -
+               SPACE - - X - - -
+             COMMAND - - - - - X
+                LINE - - - - - X

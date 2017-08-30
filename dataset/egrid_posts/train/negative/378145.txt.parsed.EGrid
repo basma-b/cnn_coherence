@@ -1,0 +1,15 @@
+                SUDO X - - - - -
+               SMBFS O - O - - -
+        USERNAME=XXX S - - - - -
+/HOME/XXX/DESKTOP/SHARED/TEMP O - X - O -
+             WINDOWS X - - - - -
+               SHARE X - - - - -
+                 DIR O - - - - -
+                AUTO X - - - - -
+                BOOT X - - - - -
+                FILE - X - - X -
+           SOMETHING - O - - - -
+                DIRS - S - - - -
+               FSTAB - - X - - -
+              DAPPER - - - - - X
+              FLIGHT - - - - - O

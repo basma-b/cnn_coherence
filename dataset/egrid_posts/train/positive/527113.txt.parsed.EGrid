@@ -1,0 +1,16 @@
+              SYSTEM - O - - - - - - - - -
+         DEBOOTSTRAP - X - - - - - - - - -
+          /DEV/AUDIO - - X - - O - - - - -
+            /DEV/DSP - - O - - - - - - - -
+          ALSA-UTILS - - S - - - - - - - -
+            MODPROBE - - - X - - - - - - -
+         SND-PCM-OSS - - - O - - - - - - -
+              MODULE - - - S - - - - - - -
+                FAQS - - - - - S - - - - -
+          ASSUMPTION - - - - - X - - - - -
+                HTAT - - - - - X - - - - -
+             ANYBODY - - - - - - X - - - -
+                 DOC - - - - - - X - - - -
+                CARD - - - - - - - O - - -
+              KERNEL - - - - - - - - X - -
+               MATCH - - - - - - - - - - X

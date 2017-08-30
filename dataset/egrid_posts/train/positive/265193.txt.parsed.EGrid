@@ -1,0 +1,25 @@
+              APACHE S - - - - -
+                CANT S - - - - -
+             FOLDERS S - - - - -
+                SITE X - - - - -
+              ACCESS X - - - - -
+               ERROR S - - - - -
+         PERMISSIONS O - - - - -
+            WWW-DATA S - - X - -
+                 DAT S - - - - -
+                SUDO X - - - - -
+/DIRECTORY-YOU-WANT-TO-CHANGE-HERE X - - - - -
+                TYPE X - - - - -
+            /VAR/WWW O - - - - -
+           /VAR/WWW/ - S S - - -
+              ANYONE - X X - - -
+               CHOWN - - O - - -
+             MEMBERS - - - X - -
+               GROUP - - - X - -
+            QUESTION - - - - X -
+                TIME - - - - - X
+                DISK - - - - - S
+                   X - - - - - X
+                DAYS - - - - - O
+                FSCK - - - - - X
+               FORCE - - - - - X

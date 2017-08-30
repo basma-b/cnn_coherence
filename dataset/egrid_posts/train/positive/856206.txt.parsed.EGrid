@@ -1,0 +1,23 @@
+                 HEY X - - - - - - - - -
+                HELP O - - - - - - - - -
+               SETUP - - O - - - - - - -
+               PPPOE - - X - - - - - - -
+          CONNECTION - - X - - - - - - -
+               WLAN0 - - S - - - - - - -
+              DEVICE - - S - - - - - - -
+             WINDOWS - - X - - - - - - -
+                ETH0 - - - S - - - - - -
+             PROBLEM - - - - - O - - O -
+             ADVANCE - - - - - - - X - -
+            WIRELESS - - - - - - - X - -
+           INTERFACE - - - - - - - X - -
+/ETC/NETWORK/INTERFACES - - - - - - - X - -
+                  .. - - - - - - - X - -
+               ISSUE - - - - - - - O - -
+          INTERFACES - - - - - - - O - -
+                FILE - - - - - - - X - -
+             NETWORK - - - - - - - X - -
+             MANAGER - - - - - - - S - -
+              CONFIG - - - - - - - - O -
+                AUTO - - - - - - - - X -
+                  LO - - - - - - - - X -

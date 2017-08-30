@@ -1,0 +1,11 @@
+        /ETC/SUDOERS X - - -
+           OWNERSHIP O - - -
+                SUDO O - - -
+                BOOT - X - -
+            RECOVERY - X - -
+               SHELL - X - -
+              ACCESS - X - -
+                MENU - X - -
+              SERVER - O - -
+                 WAY - O - -
+              SCRIPT - - - X

@@ -1,0 +1,8 @@
+              ACCESS X - -
+                SUDO - X -
+               GEDIT - X -
+  /ETC/X11/XORG.CONF - S -
+                 ALL - O -
+             DISPLAY - O -
+                ROOT - - X
+                  -E - - O

@@ -1,0 +1,25 @@
+LINUX-IMAGE-2.6.11-1-K7 O - - - - - - -
+                TIME - X - - - - - -
+                BOTH - O - - - - - -
+                BOOT - X - - - - - -
+                 -K7 - O - - - - - -
+           DEBFOSTER - - O - - - - -
+        DEPENDENCIES - - S - - - - X
+         METAPACKAGE - - O - - - - -
+               RESTR - - X - - - - -
+             MODULES - - - S - - - -
+                DRAG - - - O - - - -
+                GIVE - - - X - - - -
+               WARTY - - - X - - - -
+               HOARY - - - S - - - -
+                 SID - - - X - - - -
+                 TRY - - - X - - - -
+                 TOP - - - X - - - -
+             INSTALL - - - - O - - -
+                THIS - - - - - O S X
+             OPTIONS - - - - - - X -
+           CONFIGURE - - - - - - - X
+               THOSE - - - - - - - O
+               ERROR - - - - - - - O
+               RANDR - - - - - - - X
+              METHOD - - - - - - - X

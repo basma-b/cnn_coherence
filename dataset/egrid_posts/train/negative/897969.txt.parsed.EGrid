@@ -1,0 +1,8 @@
+          FILESYSTEM X - - -
+           NTFS/VFAT - X - -
+                VFAT - - S -
+       MOUNT-OPTIONS - - O -
+       UMASK/UID/GID - - X -
+                THIS - - X -
+         CHMOD/CHOWN - - S -
+             ICEROOT - - - O

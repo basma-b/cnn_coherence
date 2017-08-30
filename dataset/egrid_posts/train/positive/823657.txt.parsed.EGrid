@@ -1,0 +1,15 @@
+             ANYBODY X - - - -
+               ISSUE X - - - -
+               ENTRY - O - - -
+/BOOT/GRUB/DEVICE.MAP - X - - -
+                SORT - X - - -
+                LINE - O - - -
+                FILE - X S - -
+               PROBE - - O - -
+                 ONE - - O - -
+                SUDO - - X - -
+    GRUB-MKDEVICEMAP - - X - -
+               DRIVE - - S S -
+             PROBLEM - - - O -
+               PLACE - - - O -
+                VBOX - - - - S

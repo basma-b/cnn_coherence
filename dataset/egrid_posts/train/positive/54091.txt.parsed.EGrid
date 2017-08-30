@@ -1,0 +1,35 @@
+                 CAT X - - - - - - - - - - - -
+/VAR/LOG/CUPS/ERROR_LOG X - - - - - - - - - - - -
+               -RSB- O O - - - - - - - - - - -
+           LISTENING O - - - - - - - - - - - -
+        7F000001:631 X - - - - - - - - - - - -
+       CONFIGURATION S - - - - - - - - - - - -
+/ETC/CUPS/CUPSD.CONF O - - - - - - - - - - - -
+             CLIENTS X - - - - - - - - - - - -
+              CLIENT - X - - - - - - - - - - -
+         CONNECTIONS - X - - - - - - - - - - -
+                HOST - X - - - - - - - - - - -
+              RELOAD - - S - - S - - - - - - -
+            LOADPPDS - - - O O - - - - - - - -
+                READ - - - S - - - - - - - - -
+                PPDS - - - S S - - - - - - - -
+      STARTLISTENING - - - - - - X - - - - - -
+                BIND - - - - - - X - - - - - -
+              SOCKET - - - - - - O - - - - - -
+             ADDRESS - - - - - - X - - O - - -
+         IMPOSSIBILE - - - - - - X - - - - - -
+                  RE - - - - - - - X - - - - -
+                PART - - - - - - - - O - - - -
+                 CUP - - - - - - - - X - - - -
+                MEAN - - - - - - - - - X - - -
+                 KDE - - - - - - - - - - O - X
+               SAMBA - - - - - - - - - - X - X
+             PARTNER - - - - - - - - - - O - -
+             PRINTER - - - - - - - - - - X - -
+                  .. - - - - - - - - - - - X -
+            PROTOCOL - - - - - - - - - - - - O
+                  .I - - - - - - - - - - - - S
+               THERE - - - - - - - - - - - - S
+           SOMETHING - - - - - - - - - - - - O
+            INTERNET - - - - - - - - - - - - X
+                HAHA - - - - - - - - - - - - X

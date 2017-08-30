@@ -1,0 +1,17 @@
+            WIRELESS S - - - - -
+                  IP O - - - - -
+                TIME - O - - - -
+                  AP - X - - - -
+               ISSUE - - X - - -
+                THIS - - - X - -
+           DHCLIENTS - - - O - -
+                PPPD - - - O X O
+                 BOX - - - X - -
+                   U - - - X - -
+                DONT - - - S - -
+           INTERFACE - - - X - -
+            DHCLIENT - - - - X O
+                SUDO - - - - X -
+             KILLALL - - - - X -
+                   D - - - - X -
+             PROCESS - - - - - S

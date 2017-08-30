@@ -1,0 +1,16 @@
+                HELP O - - - - -
+                 END X - - - - -
+                 WPA X - - - - -
+          CONNECTION X - - - - -
+                  AP - O - - - -
+  IP/NETMASK/GATEWAY - O - - - -
+             DEFAULT - - X - - -
+               ROUTE - - O X - -
+              OUTPUT - - X - - -
+                THAT - - - S - -
+                INFO - - - O - S
+                WORK - - - - S -
+      WPA_SUPPLICANT - - - - - O
+               DEBUG - - - - - X
+                MODE - - - - - X
+                   D - - - - - O

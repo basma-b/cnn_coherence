@@ -1,0 +1,11 @@
+        /ETC/INITTAB X - -
+             DEFAULT O - -
+              UBUNTU S - -
+               CHECK X - -
+/ETC/EVENT.D/RC-DEFAULT O - -
+                 MAN - X -
+                ONES - - X
+               PHONE - - X
+                WORK - - X
+                FINE - - X
+                YEAH - - X

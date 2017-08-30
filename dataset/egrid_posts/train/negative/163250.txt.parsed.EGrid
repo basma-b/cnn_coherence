@@ -1,0 +1,36 @@
+                USER O X X - O - X X X - - - -
+               SAMBA X - X - X - X - - - - - -
+                UNIX - X - - X - - X X - - - -
+                HOME - X - - - - - - - - - - -
+           DIRECTORY - O - - - - - - - - - - -
+              SERVER - - - X - - - - - - - - -
+             MACHINE - - - X - - - - - - - - -
+               USERS - - - - S - - - - - - - -
+            USERNAME - - - - O - X - O - - - -
+            PASSWORD - - - - - - O X - - - - -
+                FILE - - - - - - O - - - - - -
+               SHARE - - - - - - O - - - - - -
+                ROOT - - - - - - X - - - - - -
+                 BTW - - - - - - X - - - - - -
+               ERROR - - - - - - O - X - - - -
+         SAM_ACCOUNT - - - - - - O - - - - - -
+            DATABASE - - - - - - - X - - - - -
+                 USE - - - - - - - - X - - - -
+                NAME - - - - - - - - O - - - -
+             MESSAGE - - - - - - - - O - - - -
+             SESSION - - - - - - - - X - - - -
+               SETUP - - - - - - - - S - - - -
+NT_STATUS_LOGON_FAILURE - - - - - - - - X - - - -
+           SMBCLIENT - - - - - - - - O - - - -
+//192.168.0.X/USERNAME - - - - - - - - O - - - -
+            COMPUTER - - - - - - - - X - - - -
+                 ONE - - - - - - - - - X - - -
+                THIS - - - - - - - - - - S - -
+              CONFIG - - - - - - - - - - X - -
+                HTTP - - - - - - - - - - O - -
+//RAFB.NET/PASTE/RESULTS/9VNSO246.HTML - - - - - - - - - - X - -
+                THAT - - - - - - - - - - - S -
+            VERSIONS - - - - - - - - - - - - O
+              PYTHON - - - - - - - - - - - - X
+               BOXEN - - - - - - - - - - - - X
+             TROUBLE - - - - - - - - - - - - O

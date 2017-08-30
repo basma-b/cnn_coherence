@@ -1,0 +1,17 @@
+                  PC X - - - - -
+         SOUND/AUDIO X - - - - -
+        APPLICATIONS X - - - - -
+                 APP - O - - - -
+           SOUNDCARD - S - - - -
+                 USE - - S - - -
+                DMIX - - X - - -
+              DAEMON - - O - - -
+                ALSA - - - S - -
+              KERNEL - - - X - -
+              MODULE - - - O - -
+             DEFAULT - - - X - -
+              DAPPER - - - X - -
+               DRAKE - - - X - -
+               128MB - - - - - X
+                 END - - - - - X
+                CARD - - - - - X

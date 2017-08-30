@@ -1,0 +1,12 @@
+             COMMAND X O - - O -
+                USER X S S O X X
+             ACCOUNT - X - - - -
+               ADMIN - X - - - -
+                THIS - S - - - -
+                ROOT - X - - - -
+           PRIVILEGE - O - X - -
+               GROUP - - X - - -
+              MEMBER - - O - - -
+                 USE - - X - - -
+             SOMEONE - - - - - S
+            PASSWORD - - - - - O

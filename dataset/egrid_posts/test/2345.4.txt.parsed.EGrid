@@ -1,0 +1,18 @@
+           PARTITION X - - - - - - - - -
+               DRIVE X - - - - - - - - -
+             COMMAND - X - - - - - - - -
+                SUDO - X - - - - - - - -
+           MKFS.EXT3 - X - - - - - - - -
+            /DEV/SDB - O - - - - - - - -
+              DEVICE - O - - - X - - - -
+        CONFIRMATION - X - - - - - - - -
+                 WAY - - - X - - - - - -
+            FILETYPE - - - X - X - - - -
+              FORMAT - - - X - X - - - -
+                 SDB - - - - - S - - - -
+             ENGLISH - - - - - - - X - -
+            LANGUAGE - - - - - - - X - -
+                INFO - - - - - - - - O -
+                HTTP - - - - - - - - O -
+//PASTEBIN.COM/VXJNG6FA - - - - - - - - O -
+             FOREVER - - - - - - - - - X

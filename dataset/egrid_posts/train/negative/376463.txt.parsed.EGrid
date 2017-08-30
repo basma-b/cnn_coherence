@@ -1,0 +1,13 @@
+         FIRESTARTER O - - - - - - -
+                AUTO - X - - - - - -
+                TRAY - X X - - - - -
+                 RUN - - X X - - - -
+                SUDO - - - X - - - -
+/ETC/INIT.D/FIRESTARTER - - - X - - - -
+              STATUS - - - X - - - -
+                LINE - - - X - - - -
+             SUDOERS - - - X - - - -
+            DEFAULTS - - - X - - - -
+         TTY_TICKETS - - - - X - - -
+                FQDN - - - - - X - -
+                 FAQ - - - - - - - X

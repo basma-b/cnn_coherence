@@ -1,0 +1,26 @@
+             READING X - - - -
+             PACKAGE X X - - -
+                LIST X X - - -
+                  .. X - - - -
+               ERROR X X - - -
+                   E - S - - -
+             PROBLEM - X - - -
+               PARSE - X - - -
+          DEPENDENCY - X - - -
+             PROCESS - X - - -
+                BTNX - X - - -
+         NEWVERSION1 - X - - -
+           MERGELIST - X - - -
+/VAR/LIB/APT/LISTS/REPOUBUNTUSOFTWARE.INFO_DISTS_HARTY_ALL_BINARY-I386_PACKAGES - X - - -
+              STATUS - X - - -
+                FILE - S - - -
+               HARTY - - S - -
+              UBUNTU - - X - X
+             VERSION - - X - -
+/ETC/APT/SOURCES.LIST - - O - -
+               THERE - - - S -
+        ALTERNATIVES - - - O -
+                  IM - - - - S
+ SERVER-INSTALLATION - - - - O
+             MPLAYER - - - - S
+        DEPENDENCIES - - - - O

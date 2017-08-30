@@ -1,0 +1,15 @@
+             COMMAND X - - -
+             APACHE2 O - - -
+                SUDO - X - -
+ /ETC/INIT.D/APACHE2 - S - -
+              RENDER - O - -
+                 YES - X - -
+              OPENGL - X - -
+            RENDERER - X - -
+              STRING - O - -
+                MESA - X - -
+                 DRI - X - -
+                RAGE - O - -
+                  1X - X - -
+                WORK - X X -
+             FLUXBOX - - - X

@@ -1,0 +1,7 @@
+                FUSE X - - X
+              KERNEL - S - X
+              DRIVER - - X -
+         FILESYSTEMS - - X -
+              MODULE - - - X
+               SOUND - - - X
+            MODPROBE - - - X

@@ -1,0 +1,21 @@
+                TIME - O - - -
+                GPRS - X - - -
+               MODEM - O - - -
+               PHONE - X - - -
+               CABLE - O - - -
+            OHCI_HCD - X - - -
+                PORT - O - - -
+                /DEV - X - - -
+                  .. - X - - -
+                RULE - - X - -
+                HTTP - - O - -
+//REACTIVATED.NET/WRITING_UDEV_RULES.HTML - - X - -
+            RC.LOCAL - - O - -
+                 YES - - - - X
+              UBUNTU - - - - X
+             NETBOOK - - - - X
+               REMIX - - - - S
+             TROUBLE - - - - O
+                 POS - - - - X
+                  OS - - - - O
+                DAYS - - - - X

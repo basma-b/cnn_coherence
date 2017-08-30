@@ -1,0 +1,16 @@
+                 USE X - -
+                 LVM X X -
+              MIRROR X X -
+          TECHNOLOGY X - -
+                  MD X - -
+               RAID1 X - -
+                HEAD X - -
+                LINK X - -
+                KIND - O -
+                RAID - X -
+      BACKUPSOLUTION - O -
+               RSYNC - X -
+           INSTALLER - X -
+           PARTITION - O O
+                 ANY - - X
+                 ALL - - X

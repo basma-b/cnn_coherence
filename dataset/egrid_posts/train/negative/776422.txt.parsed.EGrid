@@ -1,0 +1,12 @@
+            HOSTNAME O - - -
+             ADDRESS X - - -
+             NETWORK X - - -
+          /ETC/HOSTS - O - -
+                 MAP - X - -
+           HOSTNAMES - O - -
+                 IPS - X - -
+             MACHINE - X - -
+                SUDO - - - X
+             APT-GET - - - X
+              UPDATE - - - O
+             UPGRADE - - - O

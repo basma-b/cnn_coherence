@@ -1,0 +1,16 @@
+                HELP S - - - - - - - - - - - - - - -
+             WINDOWS - X - - - - - - - - - - - - - -
+               DRIVE - X - - - - - - - - - - - - - -
+           READ-ONLY - - - S - - - - - S - - - - - -
+          DIFFERENCE - - - - - X S - - - - - - - - -
+                CASE - - - - - - - X - - - - - - - -
+           PARTITION - - - - - - - X - - - - - - - -
+               LINUX - - - - - - - - X - - - - - - -
+                  .. - - - - - - - - X - - - - - - -
+          FILESYSTEM - - - - - - - - X - - - - - - -
+            ANYTHING - - - - - - - - - O - - - - - -
+            INTERNET - - - - - - - - - - - O - - - -
+             COMMAND - - - - - - - - - - - O - - - -
+             OPTIONS - - - - - - - - - - - - X - - -
+                THAT - - - - - - - - - - - - - - - S
+                 LOT - - - - - - - - - - - - - - - O

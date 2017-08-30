@@ -1,0 +1,13 @@
+               ERROR S - - - - - -
+                 I/O X - - - - - -
+         PERMISSIONS O - X - - - -
+                 VGA - O - X - - -
+                SUDO - X - - - - -
+                USER - - X - - - -
+             PROGRAM - - - X - O -
+            EXAMPLES - - - X - - -
+                   C - - - - S - -
+             HEADERS - - - - O - -
+             SVGALIB - - - - - S -
+            GRAPHICS - - - - - X -
+            SOLUTION - - - - - - X

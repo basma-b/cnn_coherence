@@ -1,0 +1,9 @@
+                BIND X O - -
+           DIRECTORY O - - -
+                USER X X - -
+              ACCESS O - - -
+               /DEST - O - -
+                DEST - O - -
+                  RO - - - X
+               CHMOD - - - S
+               POINT - - - O

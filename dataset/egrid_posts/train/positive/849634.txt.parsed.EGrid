@@ -1,0 +1,24 @@
+                   * S - - - - -
+                 GPM O - - - - -
+    GDM-BINARY:24645 X - - - - -
+              SYSTEM X - - - - -
+                 BUS X - - - - -
+              SOCKET X - - - - -
+/VAR/RUN/DBUS/SYSTEM_BUS_SOCKET X - - - - -
+                FILE X - - - - -
+           DIRECTORY X - - - - -
+             SERVICE X O X - - -
+                DBUS S - X - - -
+                  .. O - - - - -
+             INSTALL - S - - - -
+               THERE - - S - - -
+                 LOT - - O - - -
+           GDM/GNOME - - S - - -
+               VERSE - - O - - -
+             COMMAND - - X - - -
+                LINE - - X - - -
+                INIT - - - X - -
+               START - - - - - O
+             UPSTART - - - - - O
+               ERROR - - - - - X
+              REGARD - - - - - X

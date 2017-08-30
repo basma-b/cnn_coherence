@@ -1,0 +1,15 @@
+              KERNEL O - - - X X -
+                  GO - S - - - - -
+              MODULE - - S - - - O
+               CHECK - - - X - - -
+            MODUTILS - - - S - - -
+             MODCONF - - - S O - -
+                WORK - - - X - - -
+              DRIVER - - - - O - -
+             DEFAULT - - - - X - -
+                SUDO - - - - - X -
+             APT-GET - - - - - S -
+              UBUNTU - - - - - X -
+             KERNELS - - - - - X -
+             MODULES - - - - - X -
+                 ALL - - - - - - X

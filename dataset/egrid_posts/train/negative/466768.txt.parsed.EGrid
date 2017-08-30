@@ -1,0 +1,22 @@
+              FEISTY - X - - - - - - - - -
+            INTREPID - X X - - - - - - - -
+                   A - - X - - - - - - - -
+/ETC/APT/SOURCES.LIST - - O - - - - - - - -
+        DIST-UPGRADE - - X - - - - - - - -
+               ERROR - - S - - - - - - - -
+       CONFIGURATION - - O - - - - - - - -
+               LIBC6 - - X - - - - - - - -
+                SUDO - - X - - - - - - - -
+             APT-GET - - S - - - - - - - -
+          DEPENDENCY - - X - - - - - - - -
+               CYCLE - - X - - - - - - - -
+                THIS - - - X - - - - - - -
+                  OS - - - - O - - - - - -
+                OUCH - - - - - X - - - - -
+                HINT - - - - - - X - - - -
+              INTEAD - - - - - - O - - - -
+           SOMETHING - - - - - - - X - - -
+               FIRST - - - - - - - X - - -
+              DETAIL - - - - - - - - - X -
+               THATS - - - - - - - - - - S
+                 RUN - - - - - - - - - - X

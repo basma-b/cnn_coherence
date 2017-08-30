@@ -1,0 +1,21 @@
+         MUSICPLAYER X - - -
+                 MPD - X - -
+               MUSIC - X - -
+              PLAYER - X - -
+              DAEMON - X - -
+             SERVICE - X - -
+                BASE - X - -
+           FRONTENDS - O - -
+                   A - - X -
+                 URL - - O -
+            PLAYLIST - - X -
+                 ALL - - S -
+           DIRECTORY - - X -
+                FILE - - S -
+                URLS - - O -
+/HOME/BLABLA/BAJS.MP3 - - X -
+                 USB - - - S
+                 SDA - - - X
+                  .. - - - O
+                RAID - - - X
+               DRIVE - - - O

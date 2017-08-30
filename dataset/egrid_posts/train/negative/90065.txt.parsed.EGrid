@@ -1,0 +1,13 @@
+                 HMM X - - - - -
+                BOOT O - - - - -
+               START X - - - - -
+             HOTPLUG X - - - - -
+           SUBSYSTEM X - - - - -
+                THAT - X - - - -
+                   * - - S - - -
+                FAIL - - O - - -
+         NDISWRAPPER - - - - S X
+              DRIVER - - - - O -
+             PROBLEM - - - - O -
+            MODPROBE - - - - X -
+    MODULE-ALSA-SINK - - - - - X

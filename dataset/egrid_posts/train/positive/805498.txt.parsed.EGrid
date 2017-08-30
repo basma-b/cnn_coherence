@@ -1,0 +1,16 @@
+          RE-INSTALL O - - - -
+                 ONE X - - - -
+             MACHINE X - - - -
+               ERROR - - X - -
+             WARNING - - O - -
+                HOST - - X O -
+      IDENTIFICATION - - S - -
+         FINGERPRINT - - - X -
+                FILE - - - S -
+                LINE - - - O O
+               TRUST - - - X -
+                 KEY - - - X -
+                THIS - - - O -
+/ROOT/.SSH/KNOWN_HOSTS - - - S -
+          ENCRYPTION - - - X -
+  ~/.SSH/KNOWN_HOSTS - - - - X

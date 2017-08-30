@@ -1,0 +1,13 @@
+                USER X - -
+              ACCESS X - -
+             WINDOWS X - -
+           PARTITION X - -
+                LINK - O -
+                  LN - X -
+  /MEDIA/HDA1/FOLDER - X -
+                ROOT - S -
+                  .. - X -
+          UMASK=0000 - X -
+              OPTION - O -
+                 RUN - - X
+            PARALLEL - - X

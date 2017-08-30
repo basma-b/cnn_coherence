@@ -1,0 +1,8 @@
+                /VAR X - -
+         APPLICATION X - -
+            DATABASE O - O
+              BACKUP - - X
+                 USE - - X
+           MYSQLDUMP - - O
+            /VAR/WWW - - O
+             CONTENT - - X

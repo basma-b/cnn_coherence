@@ -1,0 +1,14 @@
+                RAID X X -
+                  HD - O X
+                WORK - O -
+           SOMETHING - O -
+                GRUB - O -
+                 MBR - X -
+        GRUB-INSTALL - O -
+             DEVICES - S -
+             COMMENT - O -
+                DISK - X -
+              SECOND - X -
+                 USE - - X
+                BIOS - - X
+               SETUP - - O

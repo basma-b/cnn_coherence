@@ -1,0 +1,12 @@
+         AUTHORITIES X - - - -
+               GEDIT - O - - -
+      AUTHENTICATION - S - - -
+                ROOT - X - - -
+                USER - X - - -
+               LOGIN - X - - -
+              MANUAL - - O - -
+               XAUTH - - X - -
+              ANYONE - - X - -
+                SUDO - - - O -
+                I686 - - - - S
+                BITE - - - - O

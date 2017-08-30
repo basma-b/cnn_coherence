@@ -1,0 +1,12 @@
+            FIREWALL O - -
+              UBUNTU X - -
+             DEFAULT X - -
+               CHECK S - -
+            IPTABLES O - -
+                SUDO X - -
+                  -L O - -
+                TYPE S - -
+                  .. O - -
+              OUTPUT X - -
+             PROBLEM - X -
+             CHANNEL - - O

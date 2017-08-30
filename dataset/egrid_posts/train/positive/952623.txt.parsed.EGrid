@@ -1,0 +1,12 @@
+            QUESTION X - - X - - - -
+                   > S - - - - - - -
+              SERVER X - - X - - X -
+              CLIENT X - - X - - - -
+                 VNC X - - X - - - X
+      TIGHTVNCSERVER - - - - - - S -
+     XTIGHTVNCVIEWER - - - - - - O -
+              VIEWER - - - - - - O -
+                VNC4 - - - - - - S -
+          VNC4SERVER - - - - - - X -
+         XVNC4VIEWER - - - - - - O -
+            PRODUCTS - - - - - - - O

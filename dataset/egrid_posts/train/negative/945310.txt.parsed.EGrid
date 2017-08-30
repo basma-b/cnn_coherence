@@ -1,0 +1,15 @@
+                LOAD X - - - -
+               PRISM X - - - -
+             DRIVERS S - - - -
+                 USE X X - - -
+             HOTPLUG O - - - -
+                 NOD - S - - -
+                 ALL - O - - -
+            IWCONFIG - X - - -
+      WIRELESS-TOOLS - X - - -
+                  OK - O - - -
+               WLAN0 - O - - -
+            ATHENEOS - X - - -
+               ERROR - - O - -
+                ROOT - - X - -
+                NOOB - - - - X

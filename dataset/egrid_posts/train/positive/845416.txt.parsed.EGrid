@@ -1,0 +1,21 @@
+                BOOT S - - - - - X
+                  CD X - X - - - X
+               ERROR X - - - - - -
+             MESSAGE X - - - - - -
+             WARNING O - - - - - -
+           MIME-TYPE X - - - - - -
+          REPOSITORY O - - - - - -
+                GRUB X X - - X - -
+                REPO - X - - - - -
+             SORUCES - - X - - - -
+                DISK - - - X - - -
+              LIVECD - - - X - - -
+/ETC/APT/SOURCES.LIST - - - X - - -
+            TERMINAL - - - X - - -
+             COMMAND - - - - O - -
+        REPOSITORIES - - - - O - X
+                 END - - - - - X -
+              RESULT - - - - - X -
+                 FIX - - - - - - O
+            ANYTHING - - - - - - O
+               POINT - - - - - - X

@@ -1,0 +1,22 @@
+             COMMAND S - - -
+             TRIGGER O - - -
+             APT-GET X - - -
+             OUTCOME O - - -
+               SHELL X - - -
+              SCRIPT O - - -
+                TREE X - - -
+              -FILHD O - - -
+               STORE X - - -
+              OUTPUT O - - -
+                FILE X - - -
+              MD5SUM O S - -
+                HOUR X - - -
+      UPDATE/UPGRADE - S - -
+            SNAPSHOT - X - X
+              FAMILY - X - -
+               HTTPS - O - -
+A.2BAC8-ETC.2BAC8-DEFAULT.2BAC8-GRUB_.28FILE.29 - X - -
+        GRUB_DEFAULT - S - -
+         UPDATE-GRUB - - O -
+              ANSWER - - - X
+            QUESTION - - - X

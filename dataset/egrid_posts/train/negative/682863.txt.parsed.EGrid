@@ -1,0 +1,25 @@
+                GRUB O O - O X -
+                STEP O - - O - -
+              DEBIAN X - - X - -
+                 ONE X - - - X -
+           PARTITION X X - - - -
+             WINDOWS X - - - - -
+               ORDER X - - - - -
+              LIVECD - X - - - -
+                HTTP - X - - - -
+//GRUB.ENBUG.ORG/GRUB2LIVECDINSTALLGUIDE - S - - - -
+                FACT - X - - - -
+                /SYS - O - - - -
+                TYPE - - X - - -
+            /DEV/SDA - - S - - -
+               ERROR - - O - - -
+             MESSAGE - - O - - -
+          GRUB-PROBE - - O - - -
+               DRIVE - - O - - -
+           /DEV/SDA3 - - X - - -
+          DEVICE.MAP - - - S - -
+             DEFAULT - - - S - -
+                LINK - - - - O -
+         INFORMATION - - - - O -
+                  .. - - - - X -
+               THERE - - - - S -

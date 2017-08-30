@@ -1,0 +1,10 @@
+               DISK1 X - - - - -
+                SDA3 O - - - - -
+         PARTIOTIONS O - - - - -
+                SIZE X - - - - -
+               DISK2 X - - - - -
+              RAID-0 X - - - - -
+                RAID - S - S - -
+                DISK - O - - - -
+                 ONE - - - X - -
+              MIRROR - - - S - -

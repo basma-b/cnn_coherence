@@ -1,0 +1,16 @@
+               SPACE X - - -
+                  FS X - - -
+                  DD X - - -
+        IF=/DEV/ZERO S - - -
+       MKFS.REISERFS O - - -
+            DISK.IMG S - - -
+                 NFS O - - -
+              SERVER O - - -
+                  OS - - S -
+               CACHE - - X -
+               STUFF - - X -
+                 USB - - X -
+               FLASH - - O -
+                 HDD - - S -
+                TEAR - - O -
+          EVERYTHING - - - X

@@ -1,0 +1,24 @@
+                 ONE S - - - - - -
+               BREAK X - - - - - -
+                   * X - - - - - -
+        INSTALLATION X - - - - - -
+              ERRORS - X - - - - -
+             APT-GET - - S - S - -
+                HTTP - - X - X - -
+                 TRY - - X - - - -
+                SUDO - - X - X - -
+MYSQL-CLUSTER-SERVER-5.1 - - O - O - -
+             PROCESS - - O S X - -
+               ERROR - - - - O - -
+                 RUN - - - - X - -
+                  RM - - - - O - -
+  /VAR/LIB/DPKG/LOCK - - - - X - -
+                  OK - - - - S - -
+             DEBCONF - - - - X - -
+            DBDRIVER - - - - X - -
+              CONFIG - - - - S - -
+/VAR/CACHE/DEBCONF/CONFIG.DAT - - - - X - -
+            RESOURCE - - - - S - -
+              REBOOT - - - - O - O
+            COMPUTER - - - - X - -
+              THINGS - - - - - - O

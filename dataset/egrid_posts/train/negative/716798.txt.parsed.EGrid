@@ -1,0 +1,11 @@
+         MOD_REWRITE X - - - - - -
+             APACHE2 X - - - S - -
+                FILE - X - - - - -
+                SUDO - X - - - - -
+             A2ENMOD - S - - - - -
+                 THT - S - - - - -
+              APACHE - O - - - - -
+               REPOS - - - - X - -
+           ALSAMIXER - - - - - - X
+               THERE - - - - - - S
+             CHANNEL - - - - - - O

@@ -1,0 +1,13 @@
+                 HEY X - - -
+               THERE X - - -
+            QUESTION - X - -
+                UUID - X - -
+          /ETC/FSTAB - X - -
+           PARTITION - O - -
+            DUMPE2FS - - S -
+                GREP - - X -
+               LABEL - - O -
+              KERNEL - - S -
+                 JFS - - X -
+                FILE - - X -
+              SYSTEM - - O -

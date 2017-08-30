@@ -1,0 +1,13 @@
+ /BOOT/GRUB.MENU.LST O - - -
+              GROOT= O - - -
+               HD0,0 X - - -
+ /BOOT/GRUB/MENU.LST O - - -
+             COMMENT O X - -
+                 USE X - - -
+               FRONT X - - -
+                 YES - S - -
+            MENU.LST - O - -
+             RELEASE - - X -
+               PARTY - - X -
+             CHANNEL - - S -
+                HAHA - - - X

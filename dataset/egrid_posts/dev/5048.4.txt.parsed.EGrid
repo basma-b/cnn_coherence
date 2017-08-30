@@ -1,0 +1,27 @@
+                   U X - - - - - - -
+                 USE X - X - - - - -
+                AUFS X - X - - - - -
+           OVERLAYFS X - - - - - - -
+                 END - X - - - - - -
+                GOAL - X - - - - - -
+                 APP - - O - - - - -
+         ENVIRONMENT - - X - - - - -
+                 ALL - - X - - - - -
+              CHANGE - - O - X - - -
+                DISK - - X - - - - -
+                ROOT - - X - X - - -
+          FILESYSTEM - - X - - - - -
+             OVERLAY - - X X - - - -
+              REBOOT - - - X - - - -
+                 RUN - - - - X - - -
+           FILESYTEM - - - - X - - -
+            PROBLEMS - - - - O - - -
+              SYSTEM - - - - X - - -
+                THAT - - - - - - S -
+                 VAR - - - - - - O -
+                WORK - - - - - - X -
+                FINE - - - - - - X -
+               ISSUE - - - - - - O -
+/LIB/MODULES/KERNELVER/BUILD - - - - - - - O
+            CAPITALS - - - - - - - X
+            EMPHASIS - - - - - - - X

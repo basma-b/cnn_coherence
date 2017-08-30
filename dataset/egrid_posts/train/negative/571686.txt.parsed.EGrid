@@ -1,0 +1,15 @@
+          HTTPD.CONF S - - - - -
+                USER X - - - X -
+               GROUP X - - - X -
+             SECTION X - - - - -
+                   / S - - - - -
+                FILE X - - - - -
+        APACHE2.CONF - - - X - -
+              CHANGE - - - - S -
+                  UR - - - - X -
+              SEARCH - - - - S -
+          PARAMETERS - - - - X -
+            USERNAME - - - - X -
+          APACHE2CTL - - - - X -
+               MOUNT - - - - - X
+                 -AV - - - - - X

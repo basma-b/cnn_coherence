@@ -1,0 +1,16 @@
+             SOMEONE X - - - -
+             COMMAND X - - - -
+            /DEV/SDA X - - - -
+                   * X - - - -
+                   / X - - - -
+       /MNT/MYMOUNT/ O - - - -
+               START X - - - -
+                FILE - X - - -
+               FSTAB - - S - -
+                LINK - - S - -
+                 MAN - - X - -
+          /ETC/FSTAB - - X S -
+        /MOUNT/POINT - - O - -
+         /ETC/FSTAB/ - - O - -
+               TABLE - - - - X
+               FIELD - - - - X

@@ -1,0 +1,9 @@
+             DVD-RAM S - - - - - - -
+                 DMA O - - - - - - -
+            /DEV/HDA - - X - - - - -
+        HDIO_SET_DMA - - S - - - - -
+          PERMISSION - - S - - - - -
+              HDPARM - - - - - O - -
+                ROOT - - - - - X - -
+                TALK - - - - - - - O
+                 BAD - - - - - - - X

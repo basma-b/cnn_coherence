@@ -1,0 +1,17 @@
+                 HEY S - - - - - - -
+           PARTITION O - - - O - - -
+               DRIVE X - - - - - - -
+           /DEV/SDA1 X - - - S - O -
+               FDISK O X - - - - X -
+                   P - O - - - - O -
+                SHOW - X - - - - - -
+              SDA1P2 - X - - - - - -
+               /DEV/ - - X - - - - -
+               THERE - - S - - - - -
+              FORMAT - - - X - - - -
+                THAT - - - - S - - -
+                MKFS - - - - O - - -
+                  -L - - - - X - - -
+                LIST - - - - - - O -
+            /DEV/SDA - - - - - - O -
+                  PM - - - - - - - X

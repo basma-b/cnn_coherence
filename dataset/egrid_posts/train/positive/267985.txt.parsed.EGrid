@@ -1,0 +1,16 @@
+        SOURCES.LIST S - - X - - -
+               CHMOD X - - - X - -
+                 +RW S - - - O - -
+             SUCCESS X - - - - - -
+           WRITEABLE - X - - - - -
+                   * - X - - - - -
+              ANYONE - - X - - - -
+                FILE - - - - S - -
+         PERMISSIONS - - - - O - -
+                SUDO - - - - X - -
+              GKSUDO - - - - S - -
+                 USE - - - - X - -
+                LAMP - - - - O - X
+              WINDOW - - - - X - -
+             MANAGER - - - - X - -
+              SERVER - - - - - - O

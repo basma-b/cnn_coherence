@@ -1,0 +1,13 @@
+               THERE X - - -
+             COMMAND X - - -
+           LOGOGRATE X - - -
+                CRON O - - -
+            LOCATION - X - -
+           LOGROTATE - S - -
+         CONFIG-FILE - X - -
+                   > - O - -
+   /ETC/LOGROTATE.D/ - - X -
+                   * - - S -
+         MAIN-CONFIG - - X -
+                BOOT - - - X
+              OPTION - - - X

@@ -1,0 +1,17 @@
+              UBUNTU X - - -
+             RELEASE X X - X
+             NETWORK X O O -
+          INTERFACES X - - -
+             HOTPLUG X - - -
+                 BOX - X - -
+                AUTO - X - -
+                ETH0 - O - -
+/ETC/INIT.D/NETWORKING - S - -
+         PROBLEMATIC - - S -
+              SCRIPT - - O -
+                STOP - - O -
+             SUSPEND - - X -
+              RESUME - - X -
+               THERE - - S -
+                SORT - - X -
+          WORKAROUND - - X -

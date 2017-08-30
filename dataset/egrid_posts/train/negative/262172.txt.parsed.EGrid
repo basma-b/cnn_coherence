@@ -1,0 +1,13 @@
+             COMMAND X - - -
+                DPKG O - - -
+                  -A X - - -
+               ERROR X - - -
+             PROCESS S - - -
+             PACKAGE S - - -
+               SHAPE X - - -
+             TCPDUMP - X - -
+               PURGE - X - -
+                   / - - X -
+                 GUI - - X -
+ /VAR/LOG/XORG.0.LOG - - - X
+             CHANNEL - - - X

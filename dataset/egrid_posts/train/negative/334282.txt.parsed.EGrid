@@ -1,0 +1,30 @@
+               ISSUE X - - - - -
+              UBUNTU X - - - - -
+             NETWORK X - - - - -
+                 GUI S - - - - -
+                 WPA O - - - - -
+         NDISWRAPPER X - - - - -
+              FEISTY X - - - - -
+      WPA_SUPPLICANT X - - - - -
+                TIME - X - - - -
+                EVNE - O - - - -
+/ETC/NETWORK/INTERFACES - X O - - -
+               AVAHI - S X S - -
+                 WAY - X - - - -
+             ADDRESS - - O - - -
+            ANYTHING - - O - - -
+                   * - - S - - -
+           INTERFACE - - X - - -
+               ALIAS - - O - - -
+                  IP - - X - - -
+       CONFIGURATION - - X - - -
+               WLAN0 - - S - - -
+ WPA_SUPPLICANT.CONF - - O - - -
+              OPTION - - X O - -
+                WORK - - - O - -
+                 ONE - - - X - -
+               THERE - - - X - -
+                BOOT - - - X - -
+                SUDO - - - - X -
+/ETC/INIT.D/AVAHI-DAEMON - - - - S -
+                  NO - - - - - X

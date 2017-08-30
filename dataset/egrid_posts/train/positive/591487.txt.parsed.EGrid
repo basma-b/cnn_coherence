@@ -1,0 +1,17 @@
+               LEVEL X - - -
+            RUNLEVEL - O - -
+             DEFAULT - X - -
+                 2-5 - O - -
+         DIRECTORIES - X - -
+                LINK - X - -
+            SYMLINKS - - O -
+                  SU - - X -
+                TEST - - X -
+            SUBPARTS - - O -
+              SCRIPT - - X -
+                SUDO - - O -
+                  » - - O -
+              MATTER - - - X
+                  .. - - - X
+              DEBIAN - - - X
+           SLACKWARE - - - O

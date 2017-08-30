@@ -1,0 +1,14 @@
+                TIME X - - -
+                GRUB X - - -
+                SUDO X - - -
+ /BOOT/GRUB/MENU.LST X - - -
+             TIMEOUT X S - -
+             MRWILLY S - - -
+      HIDDEN_TIMEOUT - S - -
+             OPTIONS - O - -
+             ALRIGHT - - S -
+             MEMTEST - - O -
+             COMMAND - - - X
+               PRESS - - - X
+          CTRL+ALT+T - - - O
+            TERMINAL - - - X

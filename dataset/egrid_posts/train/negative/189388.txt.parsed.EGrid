@@ -1,0 +1,17 @@
+                TIME X - - - -
+            WIRELESS S - - - -
+               START O - - - -
+                CARD - S - - -
+            BROADCOM - O - - -
+                TAIL - O - - -
+                HTTP - O - - -
+               RMMOD - O - - -
+             DRIVERS - X - - -
+                  .. - O - - -
+    /ETC/MODPROBE.D/ - X - - -
+             OPTIONS - X - - -
+                PAST - X - - -
+              SERVER - - - S -
+                SUDO - - - - S
+        /MEDIA/CDROM - - - - O
+              OPTION - - - - O

@@ -1,0 +1,14 @@
+         SIOCSIFADDR - X - - -
+              DEVICE - X - - -
+             ATTEMPT - S - - -
+                ETH0 - O - - -
+            IFCONFIG - X - - -
+                SHOW - X - - O
+               LSMOD - - - - S
+                CARD - - - - O
+                  .. - - - - X
+               LSPCI - - - - S
+                THIS - - - - S
+        INSTALLATION - - - - S
+             MACHINE - - - - X
+                WORK - - - - O

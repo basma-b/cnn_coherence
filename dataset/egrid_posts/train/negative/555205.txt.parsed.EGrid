@@ -1,0 +1,13 @@
+                DISK O - -
+               FSTAB X - -
+               -DISK X - -
+                NAME O - -
+                LSHW - S -
+            /DEV/SDB - X -
+           /DEV/SDB1 - O -
+                   > - S -
+                UUID - O -
+           /DEV/SDAX - O -
+                WORK - X -
+                CANT - S -
+                OKAY - - X

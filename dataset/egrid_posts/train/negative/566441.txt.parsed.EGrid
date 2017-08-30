@@ -1,0 +1,16 @@
+                TIME X - -
+            MODPROBE X - -
+               ATH5K X - -
+                BOOT X X -
+            WIRELESS - X -
+                WORK - O -
+                 LEM - X -
+            BROADCOM - X -
+             CHIPSET - S -
+            BCM51415 - O -
+              DRIVER - X -
+             NOTHING - S -
+               LSMOD - X -
+                THAT - - S
+                MESS - - X
+                GRUB - - X

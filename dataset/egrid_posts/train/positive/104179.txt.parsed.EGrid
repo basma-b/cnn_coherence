@@ -1,0 +1,6 @@
+                TYPE X - - -
+ /ETC/INIT.D/APACHE2 S - - -
+             NOTHING S - - X
+           ERROR.LOG S - - -
+   /VAR/LOG/MESSAGES - X - -
+              APACHE - - - X

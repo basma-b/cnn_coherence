@@ -1,0 +1,15 @@
+               CHMOD - S - -
+              SETUID - O - -
+                BITE - O - -
+                FILE - X - -
+READ/WRITE/EXECUTABLE - O - -
+               OWNER - X - -
+               GROUP - X - -
+              OTHERS - X - -
+             SOMEONE - - S -
+                 U-S - - O -
+             CHANNEL - - X -
+                WORK - - O -
+              NUMBER - - S -
+               SENSE - - O -
+                  NP - - - X

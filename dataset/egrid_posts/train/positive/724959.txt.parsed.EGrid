@@ -1,0 +1,14 @@
+               FDISK X X - - -
+            /DEV/SDB S - - - -
+               FLASH X - - - -
+               DRIVE O - - - -
+            /DEV/SDA - S - - -
+           /DEV/SDA/ - X - - -
+               IDEAS - X - - -
+           PARTITION - - X - -
+               TABLE - - X - -
+                THIS - - O - -
+                  ID - - - - S
+               RIGHT - - - - O
+                  CD - - - - X
+                 RAM - - - - X

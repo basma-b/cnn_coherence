@@ -1,0 +1,17 @@
+                HELP O - - - -
+              SCRIPT O - - - -
+                HTTP X - - - -
+                 ANY X - - - -
+               THOSE X - - - -
+                 URL O - - - -
+                .PHP X - - - -
+                THAT - X - S -
+                 USE - X - - -
+         MOD_REWRITE - S - - -
+              APACHE - X - - -
+                 TRY - O - - -
+       REWRITEENGINE - X - - -
+             REQUEST - - - O -
+              FOLDER - - - X -
+           INDEX.PHP - - - X -
+       ARGS=WHATEVER - - - - X

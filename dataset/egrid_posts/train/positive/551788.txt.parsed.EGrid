@@ -1,0 +1,22 @@
+                   X S - - - - -
+             NETWORK X - X - - -
+                TIME - O - - - -
+             COMMAND - S X - - -
+              EFFECT - O - - - -
+               SHELL - X - - - -
+                ROUT - O X - - -
+/ETC/NETWORK/INTERFACES - X - - - -
+                  UM - X - - - -
+                HTTP - - X - - X
+//WWW.CYBERCITI.BIZ/TIPS/CONFIGURING-STATIC-ROUTES-IN-DEBIAN-OR-RED-HAT-LINUX-SYSTEMS.HTML - - S - - S
+             GATEWAY - - O - - -
+           169.0.0.0 - - S - - -
+                 USE - - O - - -
+                  GW - - O - - -
+                LINE - - X - - -
+                  .. - - X - - -
+                THIS - - - S - -
+                THAT - - - - - O
+                ETH1 - - - - - X
+             EXAMPLE - - - - - X
+             ADDRESS - - - - - X

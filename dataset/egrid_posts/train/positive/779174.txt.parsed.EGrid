@@ -1,0 +1,39 @@
+             OPTIONS X - - - - - -
+                  1. S - - - - - -
+               SETUP O - - - - - -
+              SERVER O - X O - - -
+              SYSTEM S - X - - - -
+            SETTINGS O - O - - - -
+              ANSWER - O - - - - -
+             METHODS - S - - - - -
+                 DNS - - X - S - -
+              STATIC - - O - - - -
+                 OWN - - O - - - -
+                 PLS - - S - - - -
+             CONTROL - - O O - - -
+                 USE - - - S - - -
+             MACHINE - - - X - - -
+    /ETC/RESOLV.CONF - - - S - - -
+                FILE - - - O X O -
+/ETC/DHCP3/DHCPD.CONF - - - X - - -
+                SUDO - - - O - - -
+                UNIT - - - X - - -
+                   M - - - - X - -
+                ROOT - - - - S - -
+                 SEC - - - - X - -
+                   U - - - - X - -
+    DHCPCLIENT3.CONF - - - - S - -
+                LINE - - - - O - -
+              OPTION - - - - X - -
+ DOMAIN-NAME-SERVERS - - - - X - -
+IPYOUWANTASSERVERSHERE - - - - X - -
+                HTTP - - - - O - -
+//PASTE.UBUNTU.COM/548166/ - - - - O - -
+       CONFIGURATION - - - - X - -
+               THERE - - - - S - -
+             PROBLEM - - - - O - -
+                LOOP - - - - S - -
+             ADDRESS - - - - O - -
+                THAT - - - - - S -
+              CONFIG - - - - - X -
+                 YES - - - - - - X

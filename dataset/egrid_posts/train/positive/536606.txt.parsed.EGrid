@@ -1,0 +1,16 @@
+             PACKAGE X X - - - -
+             HEADERS O O - - - -
+                CANT - S - - - -
+            DATABASE - X - - - -
+              SEARCH - - S - - -
+                 DEV - - O - - -
+                 YEA - - - X - -
+         PROGRAMNAME - - - X - -
+      LIBSQLITE3-DEV - - - - O -
+             APT-GET - - - - X -
+                SUDO - - - - X -
+           BUILD-DEP - - - - - S
+                MOST - - - - - O
+                NEED - - - - - X
+DEVELOPMENT-PACKAGES - - - - - X
+             PROGRAM - - - - - X

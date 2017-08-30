@@ -1,0 +1,15 @@
+             COMMAND X - - -
+              SERVER S - - -
+                  PS - S X -
+                GREP - S X -
+                 VNC - - X -
+                   | - - X -
+               GNOME - - O -
+            METACITY - - O -
+             DEFAULT - - X -
+             EGGHELP - - O -
+               EFNET - - X -
+            UNDERNET - - X -
+                BIOS - - O -
+             TRIFFID - - - O
+                GAME - - - O

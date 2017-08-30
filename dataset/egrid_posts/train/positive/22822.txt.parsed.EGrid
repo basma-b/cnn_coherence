@@ -1,0 +1,11 @@
+                SSHD S - - O -
+        INETD/XINETD X - - - -
+         TCPWRAPPERS - X - - -
+           SOMETHING - X - - -
+              REASON - - - O -
+               INETD - - - X -
+              MEMORY - - - X -
+             SYSTEMS - - - X -
+            RESIDENT - - - X -
+                THAT - - - - X
+             RESPECT - - - - S

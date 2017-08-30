@@ -1,0 +1,17 @@
+                  IP X - S
+               RANGE O - -
+              ROUTER S O S
+             DEFAULT X - -
+             GATEWAY X - S
+             ADDRESS O O -
+             CLIENTS X - S
+            INTERNET - X X
+             SYSTEMS - X -
+             NETWORK - X O
+           10.0.0.30 - S -
+                   U - S -
+                HOME - - X
+                HAND - - X
+                DHCP - - X
+               SETUP - - O
+        CONNECTIVITY - - S

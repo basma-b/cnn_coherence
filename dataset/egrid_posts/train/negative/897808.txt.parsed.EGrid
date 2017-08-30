@@ -1,0 +1,16 @@
+               THERE S - - - -
+                 WAY X - - - -
+                FSCK O - - - -
+                SUDO X - - - -
+               TOUCH X - - - -
+          /FORCEFSCK X - - - -
+                RAID X - - - -
+          REDUNDANCY O - - - -
+               DRIVE - S - - -
+               ARRAY - S - - -
+                 LVM - - S - -
+       FUNCTIONALITY - - O - -
+              KERNEL - - X - -
+                LOOK - - - O -
+                TYPE - - - - S
+            TERMINAL - - - - X

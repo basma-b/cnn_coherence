@@ -1,0 +1,9 @@
+                FILE X - X
+                TYPE X - -
+                LIST S - X
+            TERMINAL X - -
+                LSOF - - O
+               CDROM - - X
+                GREP - - O
+              OUTPUT - - X
+        /MEDIA/CDROM - - S

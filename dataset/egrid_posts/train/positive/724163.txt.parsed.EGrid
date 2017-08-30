@@ -1,0 +1,11 @@
+              UBUNTU X - -
+                SWAP X X X
+           PARTITION O O O
+                DIST X - -
+               LINUX - S -
+         HIBERNATION - X -
+               WHOLE - S -
+              MKSWAP - X -
+          /ETC/FSTAB - X -
+               FDISK - X -
+        DISTRIBUTION - - X

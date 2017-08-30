@@ -1,0 +1,11 @@
+                   $ - O -
+      /SBIN/IFCONFIG - X -
+                   | - X -
+                GREP - X -
+                 ^\W - S -
+                 AWK - O -
+               PRINT - X -
+               XARGS - X -
+                SUDO - X -
+                 DEL - X -
+                  .. - - X

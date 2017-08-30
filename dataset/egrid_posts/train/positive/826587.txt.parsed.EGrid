@@ -1,0 +1,27 @@
+              LAPTOP O - - - - - - - - - -
+                 CPU - X - - - - - - - - O
+            GOVERNOR - X - - - - - - - O -
+                THAT - - X X - X S - - - -
+                CPUS - - S - - - - - - - -
+           FREQUENCY - - O - - - - - - - -
+           INFLUENCE - - X - - - - - - - -
+               POWER - - X - - - - - - - -
+          CONSUMTION - - O - - - - - - - -
+                 CAT - - - X - - - - - - -
+/SYS/DEVICES/SYSTEM/CPU/CPU0/CPUFREQ/SCALING_GOVERNOR - - - S X - - - - - -
+           USERSPACE - - - - S - - - - - -
+                  OK - - - - S - - - - - -
+                SUDO - - - - O - - - - - -
+                   > - - - - X - - - - - -
+             RESTART - - - - X - X - - - -
+              SCRIPT - - - - - - - O X - -
+                BOOT - - - - - - - X - - -
+           PROCESSOR - - - - - - - - X - -
+               SPEED - - - - - - - - X - -
+                NEED - - - - - - - - O - -
+              KERNEL - - - - - - - - O O X
+                 WAY - - - - - - - - O - -
+                THIS - - - - - - - - - S -
+              APPLET - - - - - - - - - O -
+             TASKBAR - - - - - - - - - X -
+             NOTHING - - - - - - - - - O -

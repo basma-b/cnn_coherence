@@ -1,0 +1,16 @@
+              LAPTOP - X - -
+                THIS - X - -
+              UBUNTU - X - -
+                 PUT - - X -
+  CENTRINO_SPEEDSTEP - - X -
+             HOTPLUG - - X -
+           BLACKLIST - - X -
+   SPEEDSTEP-MODULES - - O -
+                LOAD - - X -
+                  .. - - X -
+                 WAY - - O -
+             EASIEST - - S -
+/ETC/INIT.D/SERVICENAME - - X -
+         UPDATE-RC.D - - S -
+                FILE - - O -
+              INIT.D - - X -

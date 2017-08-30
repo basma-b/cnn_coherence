@@ -1,0 +1,14 @@
+              SYSTEM X - - - -
+               FLOOD X - - - -
+              SYSLOG O - - - -
+             WARNING X - - - -
+                LOAD X - - - -
+                IPV6 X X - - -
+           REFERENCE - O - - -
+             NETWORK - X - - -
+              CONFIG - X - - -
+                FILE - - X - -
+/ETC/NETWORK/INTERFACES - - - X -
+    /ETC/RESOLV.CONF - - - X -
+              OTHERS - - - X O
+               THESE - - - - S

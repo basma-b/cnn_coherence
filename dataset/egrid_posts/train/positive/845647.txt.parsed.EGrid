@@ -1,0 +1,7 @@
+               CHMOD S - - - - -
+                TEST O - - - - -
+                FILE X - O O - -
+                CODE - X S X - -
+                HTTP - - S - - -
+                 C++ - - - X X X
+                CANT - - - S - -

@@ -1,0 +1,18 @@
+ DOMAIN-NAME-SERVERS X - - - -
+           127.0.0.1 X - - - -
+             REQUEST X - - - -
+         SUBNET-MASK X - - - -
+   BROADCAST-ADDRESS X - - - -
+         TIME-OFFSET X - - - -
+             ROUTERS X - - - -
+NETBIOS-NAME-SERVERS X - - - -
+       NETBIOS-SCOPE X - - - -
+                 DNS X S - - -
+             SERVICE X - - - -
+             MACHINE - S - - -
+             NETWORK - X - - -
+              ROUTER - O - - -
+                 ISP - X - - -
+          NAMESERVER - - X - -
+               CACHE - - X - -
+           SOMETHING - - - O -

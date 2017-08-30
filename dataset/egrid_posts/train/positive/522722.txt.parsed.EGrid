@@ -1,0 +1,12 @@
+    /ETC/RESOLV.CONF S - - - - - - -
+          PERMISSION S - - - - - - -
+               ASCII X - - - - - - -
+                TEXT X - S - - - - -
+                FILE O - O - - - - -
+             SYMLINK X X - - - - X -
+         RESOLV.CONF - - S - - - - -
+               .CONF - - X - - - - -
+               THERE - - - - - S - -
+                 WAY - - - - - O - -
+                 BOX - - - - - X - -
+                PASS - - - - - O - -

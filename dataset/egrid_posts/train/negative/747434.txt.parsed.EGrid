@@ -1,0 +1,10 @@
+GRUB_CMDLINE_DEFAULT= X X - - - - -
+              SPLASH X - - - - - -
+   /ETC/DEFAULT/GRUB X - - - - - -
+                LINE - - O - - - -
+         UPDATE-GRUB - - - O - - -
+                THIS - - - - O - -
+                   \ - - - - X - -
+               LINUX - - - - - S -
+                NTFS - - - - - X -
+                FILE - - - - - O -

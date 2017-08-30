@@ -1,0 +1,9 @@
+         PERMISSIONS X - - - -
+                /VAR X - - - -
+                /TMP X - - - -
+             FOLDERS X - - - -
+             CONTENT X - - - -
+       /VAR/RUN/SUDO - S - - -
+                  CD - - - - X
+               MOUNT - - - - X
+ PARTITION/DIRECTORY - - - - X

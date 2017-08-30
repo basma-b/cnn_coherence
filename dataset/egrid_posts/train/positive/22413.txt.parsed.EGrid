@@ -1,0 +1,27 @@
+             PROBLEM X - - - - - - - - - - - - - - -
+                  .. X - - S - - X - - - - - - - - -
+                CARD - O X - X - X X - - - - - - - -
+                 DEV - X - - - - - - - - - - - - - -
+             MANAGER - - X - - - - - - - - - - - - -
+                CANT - - S - - - - - - - - - - - - -
+                  RX - - X - - - - - - - - - - - - -
+           IFCONGFIG - - X - - - - - - - - - - - - -
+          PCI.STRING - - - X - - - - - - - - - - - -
+                 ONE - - - X - - - - - X - - - - - -
+             INSTALL - - - - - - X - - - - - - - - -
+             DEFAULT - - - - - - X - - - - - - - - -
+             NETWORK - - - - - - X - - - - - - - - -
+                KIND - - - - - - - X - - - - - - - -
+             ATHEROS - - - - - - - - X S - - - - - -
+         NDISWRAPPER - - - - - - - - O - - - - - - -
+           PAGEFAULT - - - - - - - - - S - - - - - -
+LINUX-RESTRICTED-MODULES - - - - - - - - - X - - - - - -
+              KERNEL - - - - - - - - - X - - - - - -
+             VERSION - - - - - - - - - O - - - - - -
+               THING - - - - - - - - - - S - - - - -
+              FREEZE - - - - - - - - - - X - - - - -
+               LOGIN - - - - - - - - - - X - - - - -
+              SCREEN - - - - - - - - - - X - - - - -
+               ERROR - - - - - - - - - - - S - - - -
+               WARTY - - - - - - - - - - - - X - - -
+ /VAR/LOG/XORG.0.LOG - - - - - - - - - - - - - - - X

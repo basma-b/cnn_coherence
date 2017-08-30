@@ -1,0 +1,15 @@
+                 HDD S - - - - - - - - - -
+               MOUNT O - - - - - - - - - -
+             GPARTED - S - - - - - - - - -
+                DATA - - X - - - - O - - -
+               CHECK - - - X X - - - - - -
+           PARTITION - - - - X S - - - - -
+                SIZE - - - - - O - - - - -
+                 ETC - - - - - X - - - - -
+             NOTHING - - - - - - X - - - -
+          FILESYSTEM - - - - - - X - S - -
+              ACTION - - - - - - X - - - -
+                  .. - - - - - - O - - - -
+                SAFE - - - - - - - - O - -
+                  TA - - - - - - - - - - S
+                PART - - - - - - - - - - O

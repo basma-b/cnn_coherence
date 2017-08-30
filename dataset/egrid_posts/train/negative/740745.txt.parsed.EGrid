@@ -1,0 +1,22 @@
+             KERNELS O - - - -
+2.6.33.29-REALTIME-PAE X - - - -
+                BOOT O - - - -
+     STARTUP-MANAGER X - - - -
+               POINT X - - - -
+              SCREEN S - - - -
+                TEXT X - S - -
+               LOGIN X - - - -
+                   X - S - S -
+            SETTINGS - - X - -
+               ERROR - - S O -
+                   * - - - X -
+             MESSAGE - - - X -
+          SYNC3TIMES - - - X -
+                 ANY - - - O -
+     /VAR/LOG/SYSLOG - - - X -
+                 LOG - - - X -
+                FILE - - - O -
+                TYPE - - - S -
+              ERRORS - - - O -
+              7300GT - - - - O
+                 FAN - - - - S

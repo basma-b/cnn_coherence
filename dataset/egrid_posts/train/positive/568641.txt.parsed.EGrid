@@ -1,0 +1,23 @@
+                   | - S - - -
+               THOSE - - O - -
+                  ~/ - - X - -
+                SMAE - - X - -
+                USER - - X - -
+            SETTINGS - - S - -
+              THINGS - - X - -
+                WIRE - - X - -
+          CONNECTION - - O - -
+                 BOX - - X - -
+              OUTPUT - - O - -
+                HTTP - - X - -
+                BASH - - X - -
+                ALSA - - X - -
+         INFORMATION - - S - -
+F=6C8D532104D3D5B61376AA0067063A85301B86DA - - - X -
+             OPTIONS - - - - X
+           MODEL=REF - - - - X
+      POSITION_FIX=1 - - - - S
+              REBOOT - - - - X
+            MODPROBE - - - - X
+       SND_HDA_INTEL - - - - X
+        PROBE_MASK=1 - - - - X

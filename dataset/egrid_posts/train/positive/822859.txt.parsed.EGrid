@@ -1,0 +1,11 @@
+                 USE O - - - - - -
+                 RUN X - - - - - -
+             SERVICE O - - - - - -
+             STARTUP X - - - - - -
+                INIT - - - S - - -
+        MYSERVICE.SH - - - O - - -
+         /ETC/INIT.D - - - X - - -
+                BOOT - - - X - - -
+         UPDATE-RC.D - - - - - S -
+                WORK - - - - - O -
+             PROBLEM - - - - - - X

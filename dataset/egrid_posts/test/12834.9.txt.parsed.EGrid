@@ -1,0 +1,12 @@
+                HELP O - - - - - - - -
+               UNITY - - - X - - - - -
+            LLVMPIPE - - - X - - - - -
+              DRIVER - - - O - - - - -
+                HINT - - - - O - - - -
+                HTTP - - - - - X - - -
+               RSYNC - - - - - - S O -
+                TOOL - - - - - - O - -
+               SETUP - - - - - - - X -
+             CRONJOB - - - - - - - O -
+                 JOB - - - - - - - - X
+              ROUTER - - - - - - - - X

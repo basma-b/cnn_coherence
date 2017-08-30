@@ -1,0 +1,17 @@
+             ANYBODY S - - - - -
+             PROBLEM X - - - - -
+             NOTHING - S - - - -
+            TERMINAL - X - - - -
+                MENU - X - - - -
+                ITEM - X - - - -
+               CAIRO - - - - X X
+                DOCK - - - - O -
+CAIRO_DOCK_CREATE_SURFACE_FROM_IMAGE - - - - O -
+           ASSERTION - - - - O -
+                NULL - - - - - S
+                WARN - - - - - S
+   CAIRO-DOCK-LOAD.C - - - - - X
+CAIRO_DOCK_LOAD_TASK_INDICATOR:786 - - - - - X
+               IMAGE - - - - - X
+ DOCK/1208712452.SVG - - - - - O
+          INDICATORS - - - - - X

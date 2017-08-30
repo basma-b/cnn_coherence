@@ -1,0 +1,22 @@
+                 ALL S - - - - -
+               GUEST O - - - - -
+               10.04 X - - - - -
+               12.04 X - - - - -
+               ERROR O - - - - -
+           INITRAMFS X - - - - -
+               ALERT S - - - - -
+                ROOT X - - - - -
+              DEVICE S - - - - -
+                   * - S - - - -
+             NOTHING - O - - - -
+            POINTERS - X - - - -
+             COMMAND - - S - - -
+              LAPTOP - - - - X -
+            KEYBOARD - - - - S -
+                 USB - - - - X -
+               MOUSE - - - - S -
+           BLUETOOTH - - - - X -
+            RECEIVER - - - - O -
+            PASTEBIN - - - - - S
+                HTTP - - - - - S
+//PASTE.UBUNTU.COM/1039669/ - - - - - S

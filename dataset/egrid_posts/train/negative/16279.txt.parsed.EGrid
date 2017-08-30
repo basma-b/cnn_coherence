@@ -1,0 +1,16 @@
+                TIME X - - - -
+            POINTERS - X - - -
+             PROBLEM - X - - -
+               GNOME - - S - -
+               ISSUE - - O - -
+            LOOPBACK - - X - -
+                 KDE - - S - -
+           INTERFACE - - S X -
+                 THE - - - X -
+      10.10.128.0/24 - - - X -
+                ETH0 - - - X -
+             PACKETS - - - S -
+              ROUTER - - - X -
+              KERNEL - - - X -
+                ETH1 - - - - X
+             TCPDUMP - - - - X

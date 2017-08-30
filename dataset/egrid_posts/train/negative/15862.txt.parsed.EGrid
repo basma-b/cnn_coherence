@@ -1,0 +1,26 @@
+                HELP O - - - - - - - - - - - -
+               FSTAB - - O - - - - - S - - - -
+           /DEV/HDB1 - - O - - - - - - - - - -
+                NTFS - - X - - - - - - - - - -
+                THAT - - - O - - - - - - O - -
+                SUDO - - - X - X - - - O - - -
+                NANO - - - X - X - - S - - - -
+          /ETC/FSTAB - - - S - X - - S - - - -
+                FILE - - - - S - - - O - - - -
+           FILENAMES - - - - - X - - - - - - -
+                   ~ - - - - - X - - - - - - -
+                HOME - - - - - X - - - - - - -
+           DIRECTORY - - - - - O - - X - - - -
+/HOME/POOF/.XSESSION - - - - - S - - - - - - -
+             NOTHING - - - - - - X - - - - - -
+               BEGIN - - - - - - - X - - - - -
+                  OK - - - - - - - - O - - - -
+                LINE - - - - - - - - O - - - -
+                CALL - - - - - - - - X - - - -
+                /ETC - - - - - - - - X - - - -
+                TEXT - - - - - - - - X - - - -
+              EDITOR - - - - - - - - O - - - -
+                ROOT - - - - - - - - O - - - -
+                USER - - - - - - - - - S - - -
+                 USE - - - - - - - - - X - - -
+            TERMINAL - - - - - - - - - O O - -

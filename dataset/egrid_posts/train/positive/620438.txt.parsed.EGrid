@@ -1,0 +1,17 @@
+                IDEA - X - - - - -
+                GRUB - S - - - - -
+                BOOT - X - - - - -
+           PARTITION - X - - - X -
+              ERRORS - - X - - - -
+                FILE - - - - X - -
+               ERROR - - - - X - O
+           DIRECTORY - - - - X - -
+                TYPE - - - - X - -
+              KERNEL - - - - X - X
+            /VMLINUZ - - - - X - -
+                ROOT - - - - - S -
+               HD0,0 - - - - - X -
+           SOMETHING - - - - - S -
+              EXT2FS - - - - - X -
+                 TAB - - - - - - O
+                   / - - - - - - X

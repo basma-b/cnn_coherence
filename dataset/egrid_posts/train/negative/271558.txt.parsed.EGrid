@@ -1,0 +1,9 @@
+         RECONFIGURE X - -
+        XSERVER-XORG O - -
+             PACKAGE - O -
+               PATCH - O -
+                THAT - - O
+                 FHS - - S
+            DOCUMENT - - O
+                THIS - - O
+              DETAIL - - O

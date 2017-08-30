@@ -1,0 +1,27 @@
+              ANYONE - S - - - - -
+           BLUETOOTH - X S - - - -
+                HTTP - - X - - - -
+                DOES - - X - - - -
+               LSMOD - - X - - - -
+               |GREP - - X - - - -
+            ANYTHING - - S - - - -
+           SOMETHING - - - X - - -
+                YELD - - - X - - -
+                BNEP - - - S - - -
+              RFCOMM - - - X - - -
+            MODPROBE - - - O - - -
+               THERE - - - S - - S
+                 BUG - - - O - - -
+         NDISWRAPPER - - - S - - -
+                LOAD - - - X - - -
+                STOP - - - X - - -
+             MODULES - - - X - - -
+            HARDWARE - - - X - - -
+                 RUN - - - - X - -
+               HTTPS - - - - - X -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/NDISWRAPPER/+BUG/666206 - - - - - S -
+               STORY - - - - - O -
+                DONT - - - - - X -
+                  OS - - - - - - O
+              SYSTEM - - - - - - X
+                  T^ - - - - - - X

@@ -1,0 +1,10 @@
+             COMMAND X - -
+             PACKAGE X S -
+                SUDO - X -
+             APT-GET - S -
+             CONFIGS - S -
+               STUFF - S -
+               PURGE - S -
+                   > - S -
+               CONFS - O -
+                FILE - O -

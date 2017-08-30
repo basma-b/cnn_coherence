@@ -1,0 +1,17 @@
+                 USB X - X - - - X - -
+               IMAGE X O O O - - - - -
+              NORMAL - S S - - - - - -
+                BOOT - X X - - - - - -
+               FLASH - - X - - - - - -
+               DRIVE - - O - - - X - -
+               STICK - - - O - - O - -
+                  CD - - - - S - - - -
+          BOOTLOADER - - - - O - - - -
+              KERNEL - - - - O S - - -
+                THIS - - - - - O - - -
+              THINGS - - - - - O - - -
+            SQUASHFS - - - - - O - - -
+               TMPFS - - - - - X - - -
+                   * - - - - - - O - -
+              UBUNTU - - - - - - X - -
+              HAPPEN - - - - - - - - S

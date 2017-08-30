@@ -1,0 +1,17 @@
+                 NAT X - - - - - - -
+                  -A X - - - - - - -
+          MASQUERADE S - - - - - - -
+         CONNECTIONS X - - - - - - -
+              REASON X - - - - - - -
+                SNAT - - O - - - - -
+                ETH1 - - - S - - - -
+                THAT - - - - - O - -
+              DIALIN - - - - - X - -
+                 FIX - - - - - X - -
+                  IP - - - - - X - -
+              ADRESS - - - - - X - -
+              SETUPS - - - - - X - -
+            PROBLEMS - - - - - - X -
+            IPTABLES - - - - - - - S
+              COURSE - - - - - - - X
+               YOURS - - - - - - - X

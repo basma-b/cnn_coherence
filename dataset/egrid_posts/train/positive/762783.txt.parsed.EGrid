@@ -1,0 +1,11 @@
+           MODEPROBE O - - -
+               FATAL X - - -
+/LIB/MODULES/2.6.35-22-GENERIC/MODULES.DEP O - - -
+                FILE X - - -
+           DIRECTORY X - - -
+                TTY1 X - - -
+                 USE X - - -
+              DEPMOD X X - -
+                  -A X - - -
+                SUDO - X - -
+                 YEA - - - X

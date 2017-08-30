@@ -1,0 +1,32 @@
+                SUDO X - - - X - - - - - - - - - -
+            PASSWORD X - - - - - - - - - - - - - -
+             DEFAULT - - X - - - - - - - - - - - -
+               SOUND - - X - - - - - - - - - - - -
+              DEVICE - - X - - - - - - - - - - - -
+                THAT - - - X - - - - - - - - - - S
+                 CAT - - - X - - - - - - - - - - -
+  /PROC/ASOUND/CARDS - - - X - - - - - - - - - - -
+                HTTP - - - X - - - - - - - - - - -
+//PASTEBIN.COM/269480 - - - X - - - - - - - - - - -
+             OPTIONS - - - - O - - - - - - - - - -
+                 TEE - - - - X - - - - - - - - - -
+/ETC/MODPROBE.D/ALSA-BASE - - - - S - - - - - - - - - -
+                   $ - - - - - - X - - - - - - - -
+             ^II|AWK - - - - - - S - - - - - - - -
+               PRINT - - - - - - X - - - - - - - -
+          GST-LAUNCH - - - - - - O - - - - - - - -
+                JACK - - - - - - O - - - X - - - -
+                  .. - - - - - - - - X - - - - - -
+                PART - - - - - - - - X - - - - - -
+           AUDIOSINK - - - - - - - - X - - - - - -
+            JACKSINK - - - - - - - - O - - - - - -
+                FILE - - - - - - - - X - - - - - -
+      GST-LAUNCH-0.8 - - - - - - - - S - - - - - -
+               ERROR - - - - - - - - X - - - - - -
+              MODULE - - - - - - - - - - S - - - -
+                 GST - - - - - - - - - - X - - - -
+             VERSION - - - - - - - - - - - - S - -
+            ANYTHING - - - - - - - - - - - - - - O
+              CLIENT - - - - - - - - - - - - - - X
+                SIDE - - - - - - - - - - - - - - X
+  POLICY/RESTRICTION - - - - - - - - - - - - - - O

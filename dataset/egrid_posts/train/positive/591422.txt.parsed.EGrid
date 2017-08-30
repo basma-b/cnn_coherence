@@ -1,0 +1,27 @@
+             SOMEONE X - -
+             PACKAGE X X -
+         NDISWRAPPER O O -
+                9.04 X - -
+                .DEB - S -
+                SUDO - X -
+             APT-GET - S -
+                HTTP - O -
+//PACKAGES.UBUNTU.COM/JAUNTY/NDISWRAPPER-COMMON - O -
+//PACKAGES.UBUNTU.COM/JAUNTY/NDISWRAPPER-UTILS-1.9 - O -
+               THERE - S -
+                NAME - X -
+//PACKAGES.UBUNTU.COM/JAUNTY/NDISGTK - X -
+                 GUI - O -
+                FILE - O X
+NDIWRAPPER-UTILS-1.9 - X -
+               ERROR - X -
+        ARCHITECTURE - X -
+               AMD64 - X O
+                 AMD - X X
+              ATHLON - X -
+                  X2 - X -
+               64BIT - - X
+              UBUNTU - - X
+              WETHER - - X
+           PROCESSOR - - S
+               INTEL - - O

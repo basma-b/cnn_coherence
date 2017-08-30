@@ -1,0 +1,22 @@
+               VIDEO X - - - - - - -
+                FILE O - - - - - - -
+                KIND S - - - - - - -
+                DPKG O - - O - - - -
+                  -A X - - O - - - -
+             PROBLEM O - - - - - - -
+                   > - S - - - - - -
+                THIS - - - S - - - -
+            TERMINAL - - - O - - X -
+                SUDO - - - X - - - -
+             DEFAULT - - - X - - - -
+              SCREEN - - - X - - - -
+             SESSION - - - O - - O -
+               STATE - - - - X - - -
+             PACKAGE - - - - - X - X
+              ERRORS - - - - - - O -
+    UPDATE-INITRAMFS - - - - - - X -
+          GENERATING - - - - - - X -
+/BOOT/INITRD.IMG-2.6.22-14-GENERIC - - - - - - X -
+                THAT - - - - - - - S
+               ERROR - - - - - - - O
+             MESSAGE - - - - - - - X

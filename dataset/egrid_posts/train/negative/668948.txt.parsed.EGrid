@@ -1,0 +1,17 @@
+                NEED O - - - - - -
+           PARTITION X - - X - O -
+        /GRUB/STAGE1 O - - - - - -
+                  XP - O - - - - -
+               VISTA - X - - - O -
+            VISTA=HD - O - - - - -
+                 0,1 - X - - - - -
+                  HD - O - - - - -
+                BOOT - X - - - - -
+                MENU - - - X - - -
+               STORE - - - O - - -
+               HD0,2 - - - - - S -
+         CTRL-ALT-F1 - - - - - - O
+                FVWM - - - - - - O
+             COMMAND - - - - - - S
+               UNITY - - - - - - X
+             BACKUPS - - - - - - O

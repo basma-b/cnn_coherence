@@ -1,0 +1,15 @@
+              OUTPUT X - - - - - - - - - -
+              AUTOFS X - - S - - - - S - -
+             VERBOSE - X - - - - - - - - -
+               PARAM - O - - - - - - - - -
+                 END - - X - - - - - - - -
+              STRING - - X - - - - - - - -
+             SERVICE - - - X - O - - X - -
+             OPTIONS - - - - X - - - - - -
+                   ^ - - - - - S - - - - -
+                 ARG - - - - - X - - - - -
+              ADVICE - - - - - - X - - - -
+                 YUO - - - - - - X - - - -
+                SUDO - - - - - - - - X - -
+                ARGS - - - - - - - - X - -
+                THAT - - - - - - - - - - X

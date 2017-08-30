@@ -1,0 +1,15 @@
+           PARTITION - O - -
+                DATA - O - -
+               MOUNT - - X -
+                SUDO - - S -
+               MKDIR - - X -
+                 GAH - - S -
+                   * - - X -
+          /MEDIA/U10 - - S -
+                  .. - - O -
+             COMMAND - - X -
+                WORK - - X O
+             CONTENT - - X -
+               DRIVE - - X -
+      POSTGRESQL-8.0 - - - O
+      POSTGRESQL-7.4 - - - X

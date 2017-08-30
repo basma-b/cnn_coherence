@@ -1,0 +1,20 @@
+             OVERLAY X - - - - - - -
+          SCROLLBARS X - - - - - - -
+                SANE X - - - - - - -
+             VERSION - X - - - - - -
+/ETC/INIT/ISC-DHCP-SERVER.CONF - - - X - - - -
+                DHCP - - - - X - - -
+              SERVER - - - - X - - -
+                THAT - - - - - O - -
+             PACKAGE - - - - - S - -
+                LINK - - - - - X - -
+     ISC-DHCP-SERVER - - - - - X - -
+                SUDO - - - - - - X X
+             APT-GET - - - - - - X -
+              UPDATE - - - - - - X -
+              UBUNTU - - - - - - - O
+        DHCP3-SERVER - - - - - - - S
+                8.04 - - - - - - - X
+                CALL - - - - - - - O
+             UPSTART - - - - - - - X
+             SERVICE - - - - - - - X

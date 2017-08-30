@@ -1,0 +1,8 @@
+          PERMISIONS O - - - - -
+                 ALL - - X - - -
+      NETWORKMANAGER - - - - X -
+             COMMAND - - - - X -
+                LINE - - - - X -
+                DIFF - - - - - O
+         RESOLV.CONF - - - - - X
+                HOST - - - - - X

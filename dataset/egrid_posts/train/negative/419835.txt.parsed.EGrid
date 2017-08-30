@@ -1,0 +1,12 @@
+                 HEY X - - - - -
+              MODULE O - - O - -
+             ENTRIES - O - - - -
+/ETC/MODPROBE.D/BLACKLIST - X - - X -
+                FILE - X - - - -
+/ETC/MODPROBE.D/BLACKLIST-SMSC_IRCC2 - O - - - -
+         SUGGESTIONS - - X - - -
+                LOAD - - - O - -
+              ANYONE - - - S - -
+                 HWO - - - O - -
+                BOOT - - - X - -
+                HTTP - - - - - X

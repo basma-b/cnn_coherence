@@ -1,0 +1,27 @@
+              APACHE O - - - X - -
+            TERMINAL X - - - - - -
+                USER X - - - S - -
+                NAME O - - - - - -
+               SETUP - X - - - - -
+            USERNAME - O - - - - -
+             ENVVARS - X - - - - -
+               THING - O - - - - -
+              ANYONE - X - - - - -
+                KNOE - X - - - - -
+              CHANGE - - O - - - -
+                SUDO - - - X - - -
+ /ETC/INIT.D/APACHE2 - - - S - - -
+             COMMAND - - - O - - -
+                   $ - - - - O - -
+                THAT - - - - O - -
+                FQDN - - - - X - -
+                TYPE - - - - O - -
+             APACHE2 - - - - O - -
+     APACHE_RUN_USER - - - - X - -
+                  OK - - - - X - -
+/ETC/APACHE2/ENVVARS - - - - O - -
+              EXPORT - - - - X - -
+APACHE_RUN_USER=WWW-DATA - - - - X - -
+APACHE_RUN_GROUP=WWW-DATA - - - - X - -
+                FILE - - - - S - -
+                 LOT - - - - - - O

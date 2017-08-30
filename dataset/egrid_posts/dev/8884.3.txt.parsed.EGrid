@@ -1,0 +1,17 @@
+                  .. S - - - - -
+                 UFW X - - - - -
+            IPTABLES X - - - - -
+                MINE - S - - - -
+         CONNECTIONS - O - - - -
+                TIME - - S - - -
+                  IP - - X - - -
+                PORT - - X - - -
+                DEST - - X - - -
+                 LOG - - - X - -
+              SERVER - - - X - -
+                THAT - - - - - S
+                RULE - - - - - X
+             DEFAULT - - - - - O
+            INCOMING - - - - - S
+               OUTGO - - - - - S
+                NEAD - - - - - O

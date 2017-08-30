@@ -1,0 +1,24 @@
+              STATUS X - - - - - - - - -
+      NVIDIA-CURRENT - X - - - - - - - -
+           260.19.06 - X - - - - - - - -
+   2.6.35-22-GENERIC - X - - - - - - - -
+              X86_64 - X - - - - - - - -
+           NVIDIA-96 - X - - - - - - - -
+            96.43.18 - X - - - - - - - -
+          NVIDIA-173 - X - - - - - - - -
+           173.14.28 - X - - - - - - - -
+            INTEREST - X - - - - - - - -
+              INSTAL - - O - - - - - - -
+                 ANY - - - - S - - - - -
+               CHECK - - - - - X - - - -
+/VAR/LOGS/XORG.0.LOG - - - - - S - - - -
+                 GLX - - - - - O - - - -
+              GOOGLE - - - - - - S - - -
+                 PPA - - - - - - X - - -
+               ERROR - - - - - - O - - -
+                 FTP - - - - - - - - O -
+                PORT - - - - - - - - X -
+                 TCP - - - - - - - - X -
+                 PID - - - - - - - - O O
+                  PS - - - - - - - - - X
+             THE-PID - - - - - - - - - X

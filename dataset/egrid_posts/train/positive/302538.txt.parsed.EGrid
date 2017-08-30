@@ -1,0 +1,11 @@
+                 UID X X -
+                 GID X - -
+                 NEW X - -
+               USINF X - -
+          CIFS/SAMBA O - -
+               FSTAB - X -
+                IIRC - X -
+                WORK - - X
+            UID=1000 - - O
+                 SMB - - X
+                CIFS - - X

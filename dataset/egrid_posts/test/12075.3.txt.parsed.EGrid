@@ -1,0 +1,6 @@
+              MODULE S - - -
+                LOAD O - - -
+          MODPROBE.D X - - -
+               AFTER O - - -
+             CHANNEL - - X -
+                NAME - - O -

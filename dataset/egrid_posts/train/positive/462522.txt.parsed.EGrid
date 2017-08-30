@@ -1,0 +1,6 @@
+               MYSQL O -
+                  -U S -
+            PASSWORD O -
+   SKIP-GRANT-TABLES X -
+              SERVER X -
+                STOP - X

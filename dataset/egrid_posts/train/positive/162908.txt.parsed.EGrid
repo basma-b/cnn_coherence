@@ -1,0 +1,16 @@
+         PERMISSIONS X - - -
+              FOLDER X - - -
+               CHMOD - X - -
+                 USE - X - -
+          /ETC/FSTAB - S - -
+             WHEREIS - X - -
+                 ONE - S - -
+                BOTH - O - -
+              APACHE - X - -
+              CONFIG - X - -
+                FILE - X - -
+                THAT - - - S
+             A2ENMOD - - - X
+            A2DISMOD - - - X
+             COMMAND - - - O
+     BUILD-ESSENTIAL - - - O

@@ -1,0 +1,14 @@
+         PERMISSIONS - X - - - - - -
+               USERS - X - S - - O -
+           DIRECTORY - X - - - O - -
+               CHMOD - - X - - - - -
+ SOMETHINGHEREIGUESS - - S - - - - -
+          EVERYTHING - - - - O - - -
+                DUMP - - - - - X - -
+             NETWORK - - - - - X - -
+               WORLD - - - - - S - -
+               OWNER - - - - - X - -
+               GROUP - - - - - X - -
+          PERMISSION - - - - - X - -
+              SYSTEM - - - - - - X -
+              THANKS - - - - - - - X

@@ -1,0 +1,20 @@
+                BIND O - - - -
+      127.0.0.1:8080 X - - - -
+          ITERATIONS - X - - -
+             NETSTAT - X - - -
+             COMMAND - X - - -
+           ZYKOTICK9 - X - - -
+               GREAT - X - - -
+                PORT - - S - -
+          CLOSE_WAIT - - X - -
+                TIME - - - X -
+                THIS - - - S -
+               HTTPS - - - X -
+//ANSWERS.LAUNCHPAD.NET/UBUNTU/+QUESTION/4356 - - - X -
+                HTTP - - - X -
+               II.B2 - - - S -
+             SOLARIS - - - X -
+       /USR/SBIN/NDD - - - S -
+              SOCKET - - - X -
+            /DEV/SDA - - - - S
+              DEVICE - - - - O

@@ -1,0 +1,10 @@
+                 CAT X - - - -
+/SYS/DEVICES/SYSTEM/CPU/CPU0/CPUFREQ/SCALING_AVAILABLE_FREQUENCIES S - - - -
+           FREQUENCY X - - - -
+        ACPI-CPUFREQ - X - - -
+                LOAD - S - - -
+              ANYONE - X - - -
+               SCALE - - X - -
+                BIOS - - X - -
+                BOTH - - - - S
+                AUTO - - - - X

@@ -1,0 +1,17 @@
+             COMMAND X - - - - - -
+                LINE X - - - - - -
+            WIRELESS X - - - - - -
+             NETWORK X - - - X - -
+            IWCONFIG - S - - - - -
+               WLAN0 - X - - - - -
+               ESSID - O - - - - -
+             MYESSID - S - - - - -
+                SUDO - - X - - - -
+            IFCONFIG - - S - - - -
+             MANAGER - - - - X - -
+            CONFLICT - - - - X - -
+                HTTP - - - - - - X
+           AVAILABLE - - - - - - O
+        REPOSITORIES - - - - - - X
+            SYNAPTIC - - - - - - X
+          REPOSITORY - - - - - - O

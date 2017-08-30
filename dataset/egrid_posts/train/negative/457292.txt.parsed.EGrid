@@ -1,0 +1,18 @@
+      KERNEL-HEADERS X - - - - - - - -
+              CUSTOM - X - X - - - - -
+              KERNEL - X - - - - O - -
+           MAKE-KPKG - - X - - - - - -
+      KERNEL_HEADERS - - X - - O - - -
+                HTTP - - - X - - - - -
+//HOWTOFORGE.COM/KERNEL_COMPILATION_UBUNTU - - - X - - - - -
+                INFO - - - X - - - - -
+                  OK - - - X - - - - -
+                LOOK - - - O - - - - -
+                LINK - - - X - - - - X
+                 WAY - - - - O - - - -
+             KERNELS - - - - X - - - -
+             SYSTEMS - - - - X - - - -
+             PACKAGE - - - - O - - - -
+             /BIN/SH - - - - - O - - -
+                DASH - - - - - X - - -
+               THING - - - - - - - - O

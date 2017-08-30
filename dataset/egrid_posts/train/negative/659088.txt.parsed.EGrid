@@ -1,0 +1,19 @@
+                FILE X - - - -
+/VAR/LIB/DPKG/INFO/ADOBE-FLASHPLUGIN.PRERM S - - - -
+          AUTOREMOVE O - - - -
+             APT-GET X - - - -
+                  -F S - - - -
+              ERRORS X - - - -
+                BITE - O - - -
+             TROUBLE - O - - -
+               FLASH - O - - -
+             PLUGINS - O - - -
+              SCRIPT - - S - -
+                HTTP - - O - -
+                NAME - - X - -
+          FLASHUP.PY - - O O -
+            TERMINAL - - - S -
+              FOLDER - - - X -
+                SUDO - - - X -
+                  PY - - - X -
+            BROADCOM - - - - X

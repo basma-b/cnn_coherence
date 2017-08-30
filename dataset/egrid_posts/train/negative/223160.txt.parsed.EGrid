@@ -1,0 +1,16 @@
+                USER S - - -
+           PRIVILEGE O - - -
+              DEVICE O - - -
+         PERMISSIONS S - - -
+                 USE - O - -
+                  .. - O - -
+             MPLAYER - O - -
+                FILE - X - -
+              OUTPUT - X - -
+                 OSS - X - -
+                ARTS - X - -
+              DAEMON - X - -
+              RESULT - O - -
+               GNOME - X - -
+                   U - - - S
+             FRITSCH - - - S

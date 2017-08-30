@@ -1,0 +1,11 @@
+                 USE X - - -
+                ALSA O X - X
+               PULSE X - - X
+               AUDIO O - - -
+                BOTH O - - -
+             NEITHER O - - -
+          PULSEAUDIO - S - -
+                 TOP - X - -
+        INSTRUCTIONS - - - O
+            FESTIVAL - - - X
+                 TTS - - - S

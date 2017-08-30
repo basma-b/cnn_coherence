@@ -1,0 +1,12 @@
+               STICK X - -
+           /DEV/SDD1 - X -
+                TYPE - X -
+                VFAT - X -
+                  RW - X -
+              NOEXEC - X -
+               NODEV - X -
+                SYNC - X -
+             NOATIME - X -
+          NODIRATIME - X -
+            ANYTHING - - O
+                USER - - O

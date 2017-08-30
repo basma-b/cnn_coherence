@@ -1,0 +1,12 @@
+//GENTOO-WIKI.COM/HARDWARE_SAA7134 S - -
+               INPUT O - -
+                  TV X - -
+             CHANNEL X - -
+               TUNER X X -
+                LOAD X - -
+               QUESS X - -
+            MODPROBE X - -
+              CARD=2 X - -
+             TUNER=2 X - -
+                TUNE X - -
+                PITY - - X

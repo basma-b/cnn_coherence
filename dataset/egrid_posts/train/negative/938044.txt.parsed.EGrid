@@ -1,0 +1,16 @@
+              DRIVER O - - -
+              DEVICE - O O -
+                 USE - X - -
+               LIBAO - - X -
+           APT-CACHE - - X -
+              SEARCH - - S -
+              WINDOW - - O -
+                TYPE - - X -
+              LIBAO2 - - S -
+                 HMM - - O -
+                 CAT - - X -
+        /DEV/URANDOM - - X -
+                   > - - S -
+                 CDS - - X -
+             WHATNOT - - S -
+             COMMAND - - - O

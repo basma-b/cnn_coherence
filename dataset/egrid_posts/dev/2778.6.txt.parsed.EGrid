@@ -1,0 +1,15 @@
+             CRONJOB S - -
+               SETUP O X -
+              OUTPUT - O -
+                  -L - X -
+                TASK - O -
+               CHECK - X -
+              SYSLOG - X -
+                 MAC - - X
+               USERS - - S
+                 LOT - - O
+             TROUBLE - - X
+                DISC - - O
+                BOOT - - X
+                  CD - - S
+                 ISO - - O

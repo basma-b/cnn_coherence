@@ -1,0 +1,13 @@
+             DEFAULT X - - -
+              UBUNTU S - - -
+             ENTRIES X - - -
+           W32CODECS X - - -
+           LIBDVDCSS O - - -
+         WIN32CODECS - O - -
+        SOURCES.LIST - - O -
+/ETC/APT/SOURCES.LIST - - X -
+               .DEBS - - S -
+            APTITUDE - - S -
+                   A - - - X
+              SCRIPT - - - S
+          AUTOMATION - - - X

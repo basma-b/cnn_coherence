@@ -1,0 +1,17 @@
+               GUEST S - - - -
+                HOST X - - - -
+              BRIDGE X - - - -
+                 USE X - S - -
+              SERVER - X - - -
+             VERSION - S - - -
+              VIRBR0 - O - - -
+          IP-ADDRESS - X - - -
+           INTERFACE - X - - -
+           SOMETHING - - - O -
+/ETC/NETWORK/INTERFACES - - - X -
+              SCRIPT - - - O -
+               THERE - - - - S
+              CONFIG - - - - X
+                FILE - - - - O
+               THING - - - - X
+                  .. - - - - O

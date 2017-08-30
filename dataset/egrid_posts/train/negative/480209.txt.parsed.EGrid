@@ -1,0 +1,12 @@
+               STORE X - - - - -
+/ETC/SYSCONFIG/IPTABLES - S - - - -
+                  OK - S - - - -
+                  .. - O - - - -
+          .SYSCONFIG - X - - - -
+              FOLDER - X - - - -
+              DOESNT - S - - - -
+                GRUB - - X X - -
+                   | - - S S - -
+ /ETC/IPTABLES.RULES - - - O - -
+                MAIN - - - - - X
+                 PXE - - - - - X

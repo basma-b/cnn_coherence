@@ -1,0 +1,34 @@
+             CRONTAB S - - O - X - - - - - - - - -
+               ENTRY - S O - - - - - - - - - - - -
+                   * - X - - - - - - - - - - - - -
+/HOME/BRIAN/LAUNCHSTUFF - X - - - - - - - - - - - - -
+              MINUTE - O - - - - - - - - - - - - -
+                TEST - X - - - - - - - - - - - - -
+            ANYTHING - O - - - - - - - - - - - - -
+                FILE - S X - - - S - - - - S - - -
+             COMMAND - X - - - - - O X - - - - - -
+                LINE - X - - - - - - - - - - - - -
+                USER - S - - X - - - - - - - - - -
+                CRON - O - - - - - S - - - - - - -
+     /VAR/LOG/SYSLOG - - S - - - - - - - - - - - -
+/ETC/POSTFIX/MAIN.CF - - X - - - - - - - - - - - -
+           DIRECTORY - - X - - - - - - - - - - - -
+                 WAY - - - X - - - - - - - - - - -
+             POSTFIX - - - - S X - - - - S S - - -
+              AND/OR - - - - X - - - - - - - - - -
+           CONFIGURE - - - - O - - - - - - - - - -
+              OUTPUT - - - - O - - - S - - - - - -
+                 JOB - - - - X - - - - - - - - - -
+                MAIL - - - - X - - - - X X - - - -
+                SORT - - - - X - - - - - - - - - -
+                 SET - - - - X - - - - - - - - - -
+             PRODUCE - - - - - - - - X - - - - - -
+              SYSTEM - - - - - - - - S X O - - - -
+             DEFAULT - - - - - - - - X - - - - - -
+                THAT - - - - - - - - - S - - - - -
+                KIND - - - - - - - - - O - - - - -
+            DELIVERY - - - - - - - - - X - - - - -
+               ERROR - - - - - - - - - - - S - - -
+              CONFIG - - - - - - - - - - - X - - -
+                 TIP - - - - - - - - - - - - - X -
+                WORK - - - - - - - - - - - - - - O

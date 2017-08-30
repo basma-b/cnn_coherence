@@ -1,0 +1,13 @@
+                EXT2 S - - - -
+               TRACK O - - - -
+         PERMISSIONS X - S S -
+          FILESYSTEM X - - - -
+               CHMOD O - - - -
+                TIME - O - - -
+               MOUNT - - X - X
+               DRIVE - - - O -
+              SYSTEM - - - X -
+                BASE - - - O -
+             GID/UID - - - X -
+                 HAL - - - - O
+               POINT - - - - O

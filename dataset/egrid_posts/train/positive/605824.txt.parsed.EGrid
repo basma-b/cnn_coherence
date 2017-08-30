@@ -1,0 +1,13 @@
+                SUDO X - - S - -
+              UMOUNT X - - - - -
+            /DEV/SDA X - - X - -
+              /CDROM X - X - - -
+              DEVICE X - - - - -
+             UNMOUNT - O - - - -
+                  CD - X X - X -
+                 ROM - X X - - -
+                SDA1 - - O - - -
+          HARD-DRIVE - - X - - -
+              NUMBER - - - O - -
+           PARTITION - - - X - -
+                  =O - - - - - X

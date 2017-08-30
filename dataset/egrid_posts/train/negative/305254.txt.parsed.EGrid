@@ -1,0 +1,17 @@
+             KUBUNTU X - - - - - - - - -
+               RMMOD X - - - - - - - - -
+         SND-PCM-OSS X X - - - - - - - -
+              MODULE O S - - - - - - - -
+            MODPROBE - X - S - - - - - -
+             PROGRAM - S - - - - - - - -
+                LOAD - - X - - - - - - -
+              REBOOT - - X - - - - - - -
+               THERE - - S - S - - - - -
+              KERNEL - - X - - - - - - -
+             MODULES - - O X - - - - - -
+                 ANY - - - O - - - - - -
+              SYSTEM - - - - X - - O - -
+                SUDO - - - - - - - - X -
+              DEPMOD - - - - - - - - X -
+                 -AE - - - - - - - - O -
+                BIOS - - - - - - - - - X

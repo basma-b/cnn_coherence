@@ -1,0 +1,16 @@
+                FILE X O - - -
+                WORK X - - - -
+ /ETC/CRON.DAILY/APT - O - - -
+             COMMENT - O - - -
+             UPGRADE - O - - -
+                DONT - S - - -
+            ANYTHING - X - - -
+               CHMOD - S - - -
+               THERE - S - - -
+              CONFIG - X - - -
+           REFERENCE - X - - -
+           /ETC/CRON - - X - -
+                   * - - - S -
+              ACCORD - - - O -
+        /ETC/CRONTAB - - - X -
+           LOCALHOST - - - - X

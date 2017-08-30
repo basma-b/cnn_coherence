@@ -1,0 +1,31 @@
+               MODEM O - - - -
+             ECIADSL X - - - -
+            INTERNET X - - - X
+          CONNECTION X - X - -
+                  PC X - - - -
+             WINDOWS X - X - X
+         FIRESTARTER - O - - -
+                 GUI - O - - -
+                PPP0 - S - - -
+                SURF - X - - -
+                   > - X - - -
+                HTTP - X - - -
+//WWW.UBUNTULINUX.ORG/WIKI/SHAREINTERNETCONNECTION - X - - -
+                PART - O - - -
+               RIGHT - X - - -
+               SHARE - - S - -
+              CLIENT - - S - -
+              SYSTEM - - O - -
+                 NIC - - X - -
+                CARD - - X - -
+                FILE - - S - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - O - X
+           SOMETHING - - O - -
+                 USE - - - - X
+             MACHINE - - - - O
+                 .IE - - - - X
+             DEFAULT - - - - X
+             GATEWAY - - - - S
+                 BOX - - - - X
+                 CAT - - - - X
+              OUTPUT - - - - O

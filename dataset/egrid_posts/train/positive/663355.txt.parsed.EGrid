@@ -1,0 +1,11 @@
+         PERMISSIONS S - - -
+                NTFS X - - -
+              CHANGE O - - -
+             SOMEONE X - - -
+              DEVICE - X - -
+           PARTITION - X - -
+                SUDO - - S -
+              UMOUNT - - X -
+           /DEV/SDA3 - - S -
+              ~/NTFS - - S -
+          UMASK=0002 - - X -

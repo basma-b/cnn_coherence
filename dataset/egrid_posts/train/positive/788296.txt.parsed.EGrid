@@ -1,0 +1,15 @@
+              OUTPUT X - - - - - -
+              LIVECD S - - X - - -
+                HANG - X - - - - -
+              KERNEL - - X - - - -
+          PARAMETERS - - S - - - -
+           BOOT-MENU - - X - - - -
+               THING - - X - - - -
+             DEFAULT - - X - - - -
+              SPLASH - - X - - - -
+              SCREEN - - - X - - X
+                GRUB - - - - S - -
+                 KEY - - - - X - -
+           SOMETHING - - - - X - -
+           SELECTION - - - - - - X
+                DONT - - - - - - S

@@ -1,0 +1,13 @@
+               MOUNT - X - - - - - - - -
+            PARTITON - X - - - - - - - -
+               FSTAB - X - - - - - - - -
+           UMASK=000 - X S - - - - - - -
+                SOME - X - - - - - - - -
+          DIRECTORYS - X - - - - - - - -
+          PERMISSION - - O - - - - - - -
+         PERMISSIONS - - - - - - - X - -
+               UMASK - - - - - - - - X -
+               RIGHT - - - - - - - - O -
+           EVERYBODY - - - - - - - - X -
+                  IL - - - - - - - - S -
+           PARTITION - - - - - - - - - O

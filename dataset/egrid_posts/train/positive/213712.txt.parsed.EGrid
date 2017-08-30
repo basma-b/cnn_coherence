@@ -1,0 +1,17 @@
+               FSTAB - S - S - -
+             SOMEONE - X - - - -
+               UUIDS - O - O - -
+                 HDD - X - - - -
+                SUDO - - X - - S
+             TUNE2FS - - S - - -
+           PARTITION - - X X - -
+                GRUB - - - X - -
+            MENU.LST - - - S - -
+               LABEL - - - O - -
+           /DEV/HDA1 - - - X - -
+                NTFS - - - X - -
+                 HMM - - - - X -
+              GOOGLE - - - - X -
+                 MAN - - - - - X
+              VOL_ID - - - - - X
+           /DEV/HDXX - - - - - S

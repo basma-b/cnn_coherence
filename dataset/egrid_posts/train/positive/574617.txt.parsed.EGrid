@@ -1,0 +1,13 @@
+           PARTITION O - - - - -
+               FSTAB X - - - - -
+        /MEDIA/MUSIK - O - - O -
+                VFAT - X - - - -
+                AUTO - X - - - -
+                  RW - X - - - -
+                USER - X - - - -
+               ASYNC - S - - - -
+               ERROR - O - - - O
+           DIRECTORY - - S - - -
+            TERMINAL - - - - X -
+              HAVENT - - - - - S
+             STARTUP - - - - - X

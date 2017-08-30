@@ -1,0 +1,25 @@
+              SERVER O - - - - - - - - - -
+                HOST X - - - - - - - - - -
+               PUTTY X - - - - - - - - S -
+             WINDOWS X - - - - - - - - - -
+                 BOX O - - - - - - - - - -
+            DIAGNOSE X - - - - - - - - - -
+                PORT - O - X X X O - O O -
+             DEFAULT - - X X - X - - - - -
+              CHANGE - - - - X X - X - X -
+        RESTRICTIONS - - - - X - - - - - -
+               ISSUE - - - - - O - - - - -
+                WAIT - - - - - O - - - - -
+                 SSH - - - - - - X - - X -
+             MACHINE - - - - - - X - - - -
+                DONT - - - - - - - S - - -
+              EFFECT - - - - - - - X - - -
+           LOCALHOST - - - - - - - - O - -
+                 USE - - - - - - - - - X -
+                HERE - - - - - - - - - S -
+                STEP - - - - - - - - - O -
+/ETC/SSH/SSHD_CONFIG - - - - - - - - - X -
+                 CLI - - - - - - - - - X -
+           INTERFACE - - - - - - - - - X -
+                  -P - - - - - - - - - X -
+             AUTHKEY - - - - - - - - - - O

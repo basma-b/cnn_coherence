@@ -1,0 +1,12 @@
+           XORG.CONF S - - - - -
+               WORLD X - - - - -
+            READABLE X - - - - -
+                  .. O - - - - -
+            WRITABLE X - - - - -
+                FILE O - - O - -
+                ROOT - - - X X -
+             WITHOUT - - - - S -
+                USER - - - - O -
+             GNUCASH - - - - - O
+         APPLICATION - - - - - X
+                LOOK - - - - - X

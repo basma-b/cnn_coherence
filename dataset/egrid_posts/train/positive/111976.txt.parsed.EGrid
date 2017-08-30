@@ -1,0 +1,6 @@
+DEFAULT-DISPLAY-MANAGER O - - -
+                NANO - X - -
+/ETC/X11/DEFAULT-DISPLAY-MANAGER - O - -
+                LIST - X - -
+                 KDM - - - O
+                 GDM - - - X

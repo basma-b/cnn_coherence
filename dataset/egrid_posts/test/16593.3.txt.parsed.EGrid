@@ -1,0 +1,11 @@
+               PURGE S - - - - - -
+       CONFIGURATION X X - - - - -
+                FILE O O - - - - -
+             PACKAGE - O - X - - -
+       DIST-UPGRADES - X - - - - -
+               CLEAN - S - - - - -
+             APT-GET - - S - - - -
+                THAT - - - - X - X
+      CONFIGURATIONS - - - - X - -
+        /VAR/LIB/APT - - - - - - X
+           SOMETHING - - - - - - X

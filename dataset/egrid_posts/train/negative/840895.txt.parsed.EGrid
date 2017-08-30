@@ -1,0 +1,13 @@
+             MACHINE X - -
+             NETWORK X - -
+                   A - X -
+              ROUTER - O -
+             ROUTERS - S -
+            NETWORKS - O -
+                 WAN - X -
+           INTERFACE - X -
+                SUDO - - X
+             APT-GET - - O
+           REINSTALL - - S
+ PACKAGENAMEGOESHERE - - O
+             REMOVAL - - O

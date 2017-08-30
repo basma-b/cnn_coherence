@@ -1,0 +1,14 @@
+                THAT X X - -
+                LILO O O - -
+                 MBR X X - -
+                GRUB - - X -
+                   \ - - S -
+                HD0\ - - X -
+               SHELL - - X -
+                ROOT - - X -
+               HD0,0 - - S -
+               SETUP - - X -
+                 HD0 - - S -
+           PARTITION - - O -
+                DISK - - O -
+                BOOT - - O -

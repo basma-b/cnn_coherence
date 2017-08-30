@@ -1,0 +1,9 @@
+             COMMAND X O -
+                LINE X - -
+                TOOL X - -
+                 LOG O O -
+           MULTITAIL - S -
+  INDICATOR-MESSAGES - - X
+              PIDGIN - - S
+   SYSTRAY-WHITELIST - - O
+                ICON - - O

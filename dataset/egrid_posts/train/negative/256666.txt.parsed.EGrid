@@ -1,0 +1,20 @@
+                FILE X - - - - - -
+           DIRECTORY X - - - - - -
+                  =P - X - - - - -
+                  CD - X - - - - -
+   /TARGET/DIRECTORY - X - - - - -
+                 TAR - X X - - - -
+                 ZXF - X S - - - -
+/PATH/TO/FILE.TAR.GZ - X - - - - -
+                CANT - X - - - - -
+          FILESYSTEM - - - X - - -
+                NTFS - - - - X - -
+                VFAT - - - - X - -
+           ATTENTION - - - - - O -
+               TABLE - - - - - X X
+         PERMISSIONS - - - - - X X
+              MIDDLE - - - - - X -
+                PAGE - - - - - X O
+                HTTP - - - - - O -
+               DRIVE - - - - - O -
+               FSTAB - - - - - X O

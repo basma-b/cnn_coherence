@@ -1,0 +1,16 @@
+                /OPT O S -
+                SUDO - S -
+              ACCESS - S -
+            ANYTHING - X -
+                 USE - X -
+                  EG - O -
+                FILE - O -
+                 ETC - X -
+             COMMAND - O -
+                  PC - O -
+                BOOT - X X
+           INTERFACE - X -
+               FUSER - X -
+             NOTHING - X -
+             PROCESS - X -
+                /OPY - X -

@@ -1,0 +1,26 @@
+           DIRECTORY O - -
+                PATH X X X
+          EXECUTABLE S - -
+                 USE O - -
+                SUDO X X -
+                ROOT X - -
+    /ETC/BASH.BASHRC X - -
+     /ETC/LOGIN.DEFS O - -
+                DICE X - -
+ /ROOT/.BASH_PROFILE S - -
+        /ETC/PROFILE O - -
+                THAT - X -
+/VAR/LIB/GEMS/1.8/BIN - O -
+              EXPORT - X -
+               PATH= - X -
+                PART - O -
+                  .. - O -
+     /USR/LOCAL/SBIN - X -
+      /USR/LOCAL/BIN - X -
+           /USR/SBIN - X -
+            /USR/BIN - X -
+               /SBIN - X -
+                /BIN - X -
+          /USR/GAMES - O -
+               GROUP - - X
+               RITES - - X

@@ -1,0 +1,15 @@
+           DIRECTORY X - X - - -
+              KERNEL X X - - - -
+             EXAMPLE - X - - - -
+              SOURCE - X - - - -
+                FILE - O - - - -
+               WHOLE - S - - - -
+            MYFILE.O - - O - - -
+            MYFILE.C - - X - - -
+                WELL - - - S - -
+                  DO - - - - X -
+               RSYNC - - - - X -
+              BACKUP - - - - O -
+              SERVER - - - - X -
+                LDAP - - - - X -
+           SOMETHING - - - - - X

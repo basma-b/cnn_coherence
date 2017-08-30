@@ -1,0 +1,9 @@
+              KERNEL - X - - X X - -
+                  .. - X - - - - - -
+              ERRORS - - O - - - - -
+              INITRD - - X - - - - -
+ S/INITRD/INITRAMFS/ - - S - - - - -
+              2.6.15 - - - O - - - -
+             DRIVERS - - - - O - X -
+             MODULES - - - - X O - -
+            HARDWARE - - - - O - O -

@@ -1,0 +1,10 @@
+/ETC/APT/SOURCES.LIST X - - -
+                 USE X - - -
+          TRANSITION X X - -
+                 LTS X X - -
+             PACKAGE X X - -
+              OUTPUT - - - O
+                  -A - - - X
+                   | - - - X
+                GREP - - - X
+         LINUX-IMAGE - - - O

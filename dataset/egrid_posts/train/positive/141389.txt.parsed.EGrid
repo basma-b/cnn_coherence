@@ -1,0 +1,30 @@
+               SOUND X X - S - X -
+            /DEV/DSP O O - - - - -
+                USER - - X - - - -
+               GROUP - - X S - - -
+               CHECK - - - S - - -
+                 USE - - - S - - -
+             COMMAND - - - S - - -
+                ALSA - - - S - - -
+                 LIB - - - S - - -
+SND_DETERMINE_DRIVER - - - S - - -
+             CONTROL - - - S - - -
+                CARD - - - S - X -
+            FUNCTION - - - S - - -
+SND_FUNC_CARD_DRIVER - - - S - - -
+              RETURN - - - S - - -
+               ERROR - - - S - - -
+           DIRECTORY - - - S - - -
+     SND_FUNC_CONCAT - - - S - - -
+              STRING - - - S - - -
+      SND_FUNC_REFER - - - S - - -
+                NAME - - - S - - X
+   SND_CONFIG_EXPAND - - - S - - -
+                 PCM - - - S - - -
+             DEFAULT - - - S - - -
+                LINK - - - S - - -
+             MODCONF - - - - - S -
+                SUDO - - - - - X -
+            APTITUDE - - - - - X -
+             PACKAGE - - - - - - O
+         DESCRIPTION - - - - - - X

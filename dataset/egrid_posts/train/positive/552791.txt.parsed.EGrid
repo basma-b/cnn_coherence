@@ -1,0 +1,13 @@
+             STORAGE X - - -
+           PARTITION X - - -
+            WRITABLE X - - -
+                USER X S - X
+           /DEV/SDA4 - S - -
+                WORK - S - -
+               DRIVE - - O -
+                  -R - - O -
+           RECURSIVE - - X -
+                FILE - - O -
+              FOLDER - - X -
+              CHANGE - - - X
+         PERMISSIONS - - - X

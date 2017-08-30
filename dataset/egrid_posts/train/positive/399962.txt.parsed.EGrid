@@ -1,0 +1,22 @@
+               USERS O - - - - - - -
+                DONT X - - - - - - -
+               GROUP O X - - - - - -
+                USER - O - - - - - -
+              THINGS - O - - - - - -
+              APACHE - S - - - - - -
+                 WEB - S - - - - - -
+              SCRIPT - O - - - - - -
+                SITE - - - O - - - -
+            VISITORS - - - S - - - -
+              UPLOAD - - - O - - - -
+               IMAGE - - - O - - - -
+               OWNER - - - S - - - -
+         PUBLIC_HTML - - - X - - - -
+          PERMISSION - - - X - - - -
+         PERMISSIONS - - - O - - O -
+/HOME/MYNAME/PUBLIC_HTML - - - - X O - -
+               CHMOD - - - - S - - -
+              RETURN - - - - O - - -
+            WWW-DATA - - - - - S S -
+              SERVER - - - - - - - S
+               RIGHT - - - - - - - X

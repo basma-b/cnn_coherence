@@ -1,0 +1,11 @@
+                  RM X - - - -
+        INPUT/OUTPUT X - - - -
+               ERROR X - - - -
+                 EXT X - - - -
+               DRIVE O - - - -
+           PARTITION - X X - O
+                FILE - - X - -
+              SYSTEM - - X - -
+                SHOW - - - S -
+                FSCK - - - - O
+             OPTIONS - - - - X

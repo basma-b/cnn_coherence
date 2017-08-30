@@ -1,0 +1,8 @@
+           LOCALHOST X - - - - - - -
+         CLNT_CREATE X - - - - - - -
+                 RPC X - - - - - - -
+             PROGRAM S - - - - - - -
+             SELINUX - - - - - S - -
+                  .. - - - - - O - -
+               |GREP - - - - - - - X
+              AUTOFS - - - - - - - X

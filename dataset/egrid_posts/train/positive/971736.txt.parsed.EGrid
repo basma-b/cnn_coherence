@@ -1,0 +1,16 @@
+               IDENT X - - - - -
+                WORK X - - - - -
+                 BRB - - S - - -
+             DEFAULT - - X - - -
+                TIME - - - X - -
+              BOOTUP - - - X - -
+                 GPL - - - O - -
+             PACKAGE - - - O - -
+                HAND - - - X - -
+             STARTUP - - - X - -
+                 YES - - - - X -
+                  PS - - - - X -
+               |GREP - - - - S -
+             NOTHING - - - - O -
+     /ETC/INETD.CONF - - - - - S
+           SOMETHING - - - - - O

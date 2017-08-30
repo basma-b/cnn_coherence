@@ -1,0 +1,11 @@
+GNOME-DISPLAY-PROPERTIES X X - - -
+                 BOX - - - S S
+               SETUP - - - X -
+                 LAN - - - X X
+              SERVER - - - - O
+              ROUTER - - - - X
+               DHCPD - - - - O
+                  IP - - - - S
+                 MAC - - - - X
+              ADRESS - - - - X
+              DEVICE - - - - X

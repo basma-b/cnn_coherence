@@ -1,0 +1,23 @@
+                TIME X X - - - - - - - - - - -
+                   A X - - - - - - - - - - - -
+                SATA S - - - - - - - - - - - -
+               DRIVE X - X - - O - - - - - - -
+               ERROR X - - - - - - - - - - - -
+HOSTBYTE=DID_BAD_TARGET X - - - - - - - - - - - -
+                 BUG O - - - - - - - - - - - -
+         MOTHERBOARD O - - - - X - - - - - - -
+              DRIVES - S - - - - - - - - - - -
+                MAKE - X - - - - - - - - - - -
+               MODEL - X - - - - - - - - - - -
+              SECOND - - X - - - - - - - - - -
+                PATA - - X - - - - - - - - - -
+               RAID1 - - X - - - - - - - - - -
+                CANT - - - - - X - - - - - - -
+               LINUX - - - - - X S - - - - - -
+               BOARD - - - - - - X - - - - - -
+             PROJECT - - - - - - - - S - - - -
+                NAME - - - - - - - - X - - - -
+           SOMETHING - - - - - - - - O - - - -
+                  .. - - - - - - - - X - - - -
+            HOMEPAGE - - - - - - - - - - X - -
+             PACKAGE - - - - - - - - - - - O -

@@ -1,0 +1,17 @@
+             NETWORK - X - - - -
+                 BOX - S - - - -
+             GATEWAY - X - - - -
+            INTERNET - X - - - -
+                 LAN - X X - - -
+                 NAT - O - - - -
+                DHCP - X - - - -
+              SERVER - X - - - -
+                   + - X - - - -
+            FIREWALL - O - X - -
+               IDEAS - - S - - -
+            IPTABLES - - - X - -
+           SOMETHING - - - X - -
+                 GUI - - - X - -
+          BITTORRENT - - - - X -
+                PORT - - - - O -
+               USERS - - - - S -

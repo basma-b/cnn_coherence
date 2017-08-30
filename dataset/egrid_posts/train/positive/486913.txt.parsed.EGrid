@@ -1,0 +1,13 @@
+ SYSTEM-CONFIG-USERS S - O - -
+              SOURCE X X - - -
+             MACHINE S X - - -
+                   X X X - - -
+              SERVER O - - - -
+              TUNNEL - X - - -
+             VERSION - O - - -
+                 SSH - X - - -
+         DESTMACHINE - X - - -
+              CLIENT - O - - -
+                 -XC - - S - -
+              REMOTE - - X - -
+                  OK - - - - X

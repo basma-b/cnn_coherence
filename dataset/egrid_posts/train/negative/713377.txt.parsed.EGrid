@@ -1,0 +1,10 @@
+                PORT X - - -
+         CONNECTIONS S - - -
+            IPTABLES O - O -
+               INPUT - X - -
+                  -J - S - -
+                  AD - X - -
+           SOMETHING - X - -
+              ERRORS - X - -
+                THAT - - S -
+               THANK - - - X

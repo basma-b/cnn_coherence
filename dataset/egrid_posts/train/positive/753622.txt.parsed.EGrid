@@ -1,0 +1,12 @@
+             PROBLEM O - - - -
+              E2FSCK O - - - -
+              DEVICE X - - - -
+                  .. X - - - -
+              REPAIR X - - - -
+              INODES X - - - -
+                WONT X - - - -
+                BOOT X - - - -
+              SYSTEM - - O - X
+               MOUNT - - - - X
+                FSCK - - - - S
+                FILE - - - - X

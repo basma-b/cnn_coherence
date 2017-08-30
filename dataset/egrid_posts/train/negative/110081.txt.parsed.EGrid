@@ -1,0 +1,7 @@
+               DRIVE X - -
+             REMOUNT - O -
+                  RW - O -
+                USER - X -
+        /MOUNT/POINT - O -
+              GKSUDO - - X
+   DISPLAYCONFIG-GTK - - X

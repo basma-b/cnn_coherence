@@ -1,0 +1,16 @@
+             .XINIRC O - - - - - -
+           .XSESSION - X - - - - -
+ ALLOW-USER-XSESSION - - O - - - -
+                USER - - X - - - -
+              CONFIG - - X - - - -
+            .XINITRC - - - S - - -
+             STARTUP - - - X - - -
+                   X - - - X - - -
+             SESSION - - - X - - -
+                THAT - - - - O - -
+          EXECUTABLE - - - - O - -
+            ANYTHING - - - - - O -
+              SEARCH - - - - - O -
+               EMPTY - - - - - O -
+                CANT - - - - - - X
+              SOURCE - - - - - - O

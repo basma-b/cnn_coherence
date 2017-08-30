@@ -1,0 +1,13 @@
+             WEP/WPA X - - - - -
+                 KEY O - - - - -
+       DOCUMENTATION X - - - - -
+      WPA_PASSPHRASE X - - - - -
+                TIME - O - - - -
+            PASSWORD - O - - - -
+               CHGRP - - - - - X
+                   < - - - - - X
+                   > - - - - - X
+            DAFOLDER - - - - - S
+              FOLDER - - - - - X
+          PROPERTIES - - - - - S
+             CHANNEL - - - - - O

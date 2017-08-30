@@ -1,0 +1,8 @@
+             PROCESS X - -
+              DOESNT S - -
+            SOMEHOST - S -
+                  PS - S -
+                GREP - S -
+                KILL - X -
+                  -9 - X -
+ /PATH/TO/AUDIO_FILE - - X

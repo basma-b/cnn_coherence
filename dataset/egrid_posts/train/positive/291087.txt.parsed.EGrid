@@ -1,0 +1,26 @@
+               VISTA - S - - - - - - - -
+                DISK - X - - - - - - - -
+              UBUNTU - X - - - - - - - -
+             WINDOWS - X - - - - - - - -
+                  XP - O - - - - - - - -
+        INSTALLATION - X - - - - - - - -
+                GRUB - S - - - - - - - -
+                BOOT - O - - - - - - - -
+                  CD - X - - - - - - - -
+                ROOT - X - - - - - - - -
+            PARITION - O - - - - - - - -
+           PARTITION - X - - - - - - - -
+               ORDER - S - - - - - - - -
+            /DEV/HDA - S - - - - - - - -
+                THER - S - - - - - - - -
+              DEVICE - O - - - - - - - -
+                   S - X - - - - - - - -
+                /DEV - X - - - - - X S X
+             SOMEONE - - - - - - - X - -
+             DEVICES - - - - - - - O - -
+                BIND - - - - - - - - X X
+               DEVFS - - - - - - - - O -
+                UDEV - - - - - - - - O -
+/YOURNEWROOT/DEV/TMPFS - - - - - - - - O -
+                TYPE - - - - - - - - - X
+/MY_MOUNTET_ROOT/DEV - - - - - - - - - O

@@ -1,0 +1,17 @@
+              DBUS-1 O - - - -
+               ORDER S - - - -
+               DRIVE O - - - -
+                  .. X - - - -
+GNOME-VOLUME-MANAGER X - - - -
+                 USE X - - - -
+                 HAL X O X - -
+                DBUS - X X - -
+              REASON - S - - -
+               CAUSE - O - - -
+              EFFECT - X - - -
+              VOLUME - X - - -
+             MANAGER - S - - -
+               BEGIN - X - - -
+                LOAD - - X - -
+                CLUE - - - O -
+              LAPTOP - - - - O

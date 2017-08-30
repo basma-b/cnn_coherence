@@ -1,0 +1,11 @@
+             COMMAND X X -
+             DEVICES X - -
+                 USE O - -
+             PROCESS X - -
+              LETTER - X -
+               WHILE - O -
+                LSOF - X -
+               FUSER - O -
+                SUDO - - X
+             APT-GET - - X
+               EXIM4 - - X

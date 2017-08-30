@@ -1,0 +1,15 @@
+                HELP O - - - -
+             COMMAND O - - - -
+              MIRROR S - - - -
+                FILE O - - - -
+              SERVER X - - - -
+                 JOB X - - - -
+              UPDATE O - - - -
+                THAT - X - - -
+             ARCHIVE - X - - -
+               RSYNC - - X - -
+              OPTION - - X - -
+                SUDO - - - - O
+               -NAME - - - - O
+           THUMBS.DB - - - - X
+             -DELETE - - - - X

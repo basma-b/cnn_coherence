@@ -1,0 +1,12 @@
+           DOWNGRADE X - - -
+         APPLICATION X - - -
+             VERSION X - - -
+                THAT - - - S
+               PRCTL - - - O
+      PR_SET_SECCOMP - - - X
+ SECCOMP_MODE_STRICT - - - X
+              KERNEL - - - X
+              2.6.30 - - - X
+                 MAN - - - X
+       DOCUMENTATION - - - O
+ SECCOMP_MODE_FILTER - - - X

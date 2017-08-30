@@ -1,0 +1,13 @@
+          RESOLVCONF X S -
+                 LTS X X -
+             APT-GET - S -
+             PACKAGE - X -
+        ISNTALLATION - X -
+           CANDIDATE - O -
+         RESOLV.CONF - S -
+                FILE - O -
+                /ETC - X -
+                 DNS - O -
+         INFORMATION - X -
+             DEFAULT - X -
+                 USE - - S

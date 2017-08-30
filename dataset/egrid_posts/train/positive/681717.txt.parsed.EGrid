@@ -1,0 +1,11 @@
+                COPY S - -
+             DEFAULT X - -
+            SMB.CONF X - -
+                HTTP S - -
+//PASTE.UBUNTU.COM/380118/ S - -
+        SAMBA-COMMON O - -
+           REINSTALL X - -
+                COOL - X -
+                NONE - X -
+               THERE - - S
+           INTERFACE - - O

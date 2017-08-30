@@ -1,0 +1,17 @@
+                 OOM O - - - - - - - - - -
+                 TEE - X - - - - - - - - -
+              STDOUT - O - - - - - - - - -
+               WRITE - X - - - - - - - - -
+               /PROC - X - - - - - - - - -
+            THEORIES - X - - - - - - - - -
+     /VAR/LOG/SYSLOG - O - - - - - - - - -
+                   / - - X - - - - - - - -
+                EXT3 - - O - - - - - - - -
+          FLASHDRIVE - - X - - - - - - - -
+                   > - - - S - - - - - - -
+    /ETC/SYSLOG.CONF - - - X - - - - - - -
+                 USE - - - S - - - - - - -
+              SYSLOG - - - - - S - - - - -
+              THANKS - - - - - - X - - - -
+                  .. - - - - - - - - - - X
+              PLAYER - - - - - - - - - - X

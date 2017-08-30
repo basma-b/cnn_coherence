@@ -1,0 +1,15 @@
+                   + X - - - -
+                 LVM O - - - -
+          BOOTLOADER - O - - -
+            /DEV/SDA - X - - -
+         SUGGESTIONS - - X - -
+               /BOOT - - - X -
+               DRIVE - - - O -
+               GRUB2 - - - S -
+                BOOT - - - O -
+            RAID+LVM - - - X -
+       UBUNTU-SERVER - - - S -
+                SUIT - - - O -
+              ANSWER - - - X -
+                   $ - - - - O
+                  RO - - - - S

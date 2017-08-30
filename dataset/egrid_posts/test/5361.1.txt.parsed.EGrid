@@ -1,0 +1,13 @@
+             MACHINE X - - - -
+           LOCALHOST X - - - X
+               USER2 S X - - S
+          REMOTEHOST O - - - O
+          SSH-ACCESS X - - - -
+             ACCOUNT X - - - -
+                 DEV - X - - X
+          ID_RSA.PUB - X - - -
+                 KEY - O - - -
+.SSH/AUTHORIZED_KEYS - X - - -
+           DIRECTORY - X - - -
+                THAT - - - S -
+            PASSWORD - - - - X

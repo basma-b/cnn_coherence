@@ -1,0 +1,14 @@
+             COMMAND X - - -
+             NETWORK X - - -
+               SPEED S - - -
+              SYSTEM O - - -
+             MONITOR S - - -
+               STUFF S - - -
+             PROGRAM X - - -
+          INTERFACES X - - -
+                 APT - S - -
+             PACKAGE - O - -
+              LIBGDL - X - -
+        SOURCES.LIST - - X -
+                 URL - - - X
+                 SET - - - X

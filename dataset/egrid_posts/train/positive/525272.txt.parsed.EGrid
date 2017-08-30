@@ -1,0 +1,8 @@
+                DEPS X - -
+             PACKAGE X - -
+             APT-GET - S -
+               KINDA - S -
+                 FOO - S -
+                LOOK - O -
+         APT-DEPENDS - X -
+        APT-RDEPENDS - O -

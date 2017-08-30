@@ -1,0 +1,13 @@
+               ZSNES X -
+            JOYSTICK O -
+              EXPORT X -
+SDL_JOYSTICK_DEVICE=/DEV/INPUT/JS0 S -
+/USR/LOCAL/BIN/MUPEN64PLUS X -
+               NOGUI X -
+               NOASK X -
+                   % X -
+                   S X -
+                   X O -
+                PART X -
+                 N64 X -
+          CONTROLLER S -

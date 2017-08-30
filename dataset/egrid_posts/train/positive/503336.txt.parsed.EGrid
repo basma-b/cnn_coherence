@@ -1,0 +1,9 @@
+                SWAP X X - - -
+           PARTITION X O X - -
+           HARDDRIVE X - - - -
+               FSTAB - X - - -
+              SWAPON - - X - -
+         /DEV/DEVICE - - S - -
+                ROOT - - X - -
+               INODE - - X - -
+                FILE - - O - O

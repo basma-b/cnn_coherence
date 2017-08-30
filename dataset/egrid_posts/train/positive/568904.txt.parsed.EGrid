@@ -1,0 +1,13 @@
+        DIST-UPGRADE S - X -
+             UPGRADE O - - -
+             VERSION X - - -
+        DISTRIBUTION X - - -
+      UPDATE-MANAGER S - - -
+          FRONT-ENDS O - - -
+            APT/DPKG - X - -
+                THAT - - X -
+              UPDATE - - S -
+              RELOAD - - X -
+                MARK - - X -
+                 ALL - - X -
+            UPGRADES - - O -

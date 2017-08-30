@@ -1,0 +1,13 @@
+                UMMM S - - - - - -
+              FORMAT X - - X - - -
+             WINDOWS X - - - - - -
+                 USB X - - - - - -
+               DRIVE O - - - - - -
+             GPARTED - - S - - - -
+           PARTITION - - - O - - O
+         UNALLOCATED - - - O - - -
+                EXT3 - - - X - - -
+               CRETE - - - - X - -
+           DISKLABEL - - - - X - -
+                DISK - - - - - - X
+              EXT2/3 - - - - - - X

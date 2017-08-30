@@ -1,0 +1,17 @@
+                DISK O - - - - - - -
+           PARTITION - X - - - X - -
+               TABLE - O - - - - - -
+               FDISK - X - - - - - -
+              OUTPUT - O - - - - - -
+               DISK1 - - X - - - - -
+                  ID - - X X - - - -
+                  EE - - X - - - - -
+              SYSTEM - - X X - - - -
+                 GPT - - X - - - - -
+               DISK2 - - - X - - - -
+               LINUX - - - X - - - -
+          DIFFERENCE - - - - O - - -
+          FILESYSTEM - - - - - O - -
+                BOTH - - - - - X - -
+                SIZE - - - - - O - -
+             NON-GPT - - - - - - - O

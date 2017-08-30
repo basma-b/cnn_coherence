@@ -1,0 +1,16 @@
+           DIRECTORY X - - - - - -
+          PERMISSION O - - - - - -
+          DRWXRWSRWX X - - - - - -
+                   S X - - - - - -
+                BITE - X - - - - -
+               CHMOD - X - - - - -
+                 G-S - X - - - - -
+            SYSLINUX - - X - - O -
+            SQUASHFS - - X X - - O
+              CONFIG - - - X - - -
+                FILE - - - X - - -
+                PATH - - - O - - -
+                CARD - - - - O - -
+                GRUB - - - - X O -
+                BOOT - - - - - X -
+                  OS - - - - - O -

@@ -1,0 +1,22 @@
+              JAUNTY - O - - - S - - - -
+                 USE - X - - - - - - - -
+         DEBOOTSTRAP - X X - - - - - - -
+               HARDY - - O - - S - - - -
+        INSTRUCTIONS - - O - - - - - - -
+                 GET - - O - - - - - - -
+              SCRIPT - - O - O - S - - -
+/USR/SHARE/DEBOOTSTRAP/SCRIPTS/JAUNTY - - O - - - - - - -
+                YELP - - - X - - - - - -
+                 BOX - - - - X - - - - -
+             SYMLINK - - - - - X - - - -
+                  CD - - - - - X O - - -
+/USR/SHARE/DEBOOTSTRAP/SCRIPTS/ - - - - - X - - - -
+                SUDO - - - - - X - - - -
+                  LN - - - - - X - - - -
+               GUSTY - - - - - X - - - -
+                WORK - - - - - X - - - -
+        INSTALLATION - - - - - - - O - -
+             PACKAGE - - - - - - - O - -
+                  .. - - - - - - - - - X
+               IMAGE - - - - - - - - - O
+               GNOME - - - - - - - - - X

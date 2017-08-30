@@ -1,0 +1,15 @@
+                BIND S - - - - -
+                TREE O - - - - -
+             ADVANCE - X - - - -
+             COMMAND - - X - - -
+              SYSTEM - - - O - -
+               POINT - - - S - -
+          FILESYSTEM - - - O - -
+           DIRECTORY - - - S - -
+             SYMLINK - - - - - O
+                 FTP - - - - - X
+              ACCESS - - - - - X
+              PUBLIC - - - - - S
+                 DIR - - - - - O
+              CHROOT - - - - - X
+                ROOT - - - - - X

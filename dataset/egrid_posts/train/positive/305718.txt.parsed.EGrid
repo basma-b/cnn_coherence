@@ -1,0 +1,17 @@
+            LOCATION X - - - - -
+             PROGRAM O - X - - -
+               SHARE X X X X - -
+           LIBRARIES O - - - - -
+               ERROR - O - - O -
+                  .. - X - - - -
+       LIBWS.SO.3.97 - X - - - -
+              OBJECT - X - - - -
+             LIBRARY - - O - - -
+                NEED - - - X - -
+                 LIB - - - X - -
+                DISK - - - X - -
+   /USR/LOCAL/WS/LIB - - - - S -
+                 USE - - - - O -
+             COMMAND - - - - X -
+           DIRECTORY - - - - - X
+     /ETC/LD.SO.CONF - - - - - X

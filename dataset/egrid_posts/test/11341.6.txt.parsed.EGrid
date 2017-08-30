@@ -1,0 +1,13 @@
+           PARTITION X X - -
+            SQUASHFS X - - -
+                SIZE - S - -
+                 APP - O - -
+                 RAM - X - -
+              DEMAND - X - -
+                FILE - X - -
+              SYSTEM - O - -
+                 RUN - - X -
+                THIS - - O -
+             COMMAND - - X -
+                -TAN - - - O
+                HTTP - - - X

@@ -1,0 +1,10 @@
+               STUMP O - - - - - - -
+                 URL - O - - - - - -
+           AMPERSAND - O - X - - - -
+              RESULT - S - - - - - -
+                HTTP - X - - X - - -
+//WWW.FOO.COM/BAR.PHP - - X - - - - -
+                 A=1 - - X X - - - -
+                 B=2 - - X - - - - -
+          EVERYTHING - - - O - - - -
+  //FOO.COM/BAR.PHP\ - - - - X - - -

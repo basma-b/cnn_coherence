@@ -1,0 +1,9 @@
+             COMMAND X - -
+                LIST X - -
+             PACKAGE X - -
+               |GREP - X -
+                 ^II - S -
+                 USE - X -
+       MOUNT-OPTIONS - X -
+       GID/UID/UMASK - O -
+                VFAT - X -

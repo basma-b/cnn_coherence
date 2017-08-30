@@ -1,0 +1,11 @@
+              FLOPPY O - - - - -
+                FILE - O - - - -
+         BOOTIMG.BIN - X - S - -
+                LOOP - O - - - -
+                  TX - X - - - O
+              DEVICE - - X - - -
+          READ/WRITE - - X - - -
+             DEFAULT - - X - - -
+            LOOPBACK - - - X - -
+                .ISO - - - X - -
+                 ISO - - - - O -

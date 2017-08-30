@@ -1,0 +1,17 @@
+           DIRECTORY O - X - - -
+         PERMISSIONS O - O - - -
+                 WAY X - - - - -
+                USER X - - - - -
+          READ-WRITE X - - - - -
+                ROOT - X X - - -
+                 I.E - S - - - -
+             COMMAND - O X - - -
+            TERMINAL - - O - - -
+                FILE - - O - - -
+               STUFF - - O - - -
+                 OWN - - S - - -
+                  .. - - - - X -
+               THING - - - - - S
+                  -I - - - - - S
+            IDENTITY - - - - - O
+              DOESNT - - - - - S

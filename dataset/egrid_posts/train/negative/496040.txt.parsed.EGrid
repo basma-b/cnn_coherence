@@ -1,0 +1,16 @@
+                COPY X - - - - -
+            FILETREE O - - - - -
+                DISK O - - - - -
+                   B O - - - - -
+      SUBDIRECTORIES O - - - - -
+             ANYBODY - X - - - -
+             PROBLEM - S - - - X
+                  CD - X - - - -
+             COMMAND - O - - - -
+               MKDIR - - S - - -
+               RMDIR - - X - - -
+                 ETC - - X - - -
+                KILL - - X - - -
+                  -9 - - X - - -
+                  .. - - - X - -
+                  -1 - - - X - -

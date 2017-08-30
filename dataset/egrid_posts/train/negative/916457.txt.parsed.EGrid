@@ -1,0 +1,6 @@
+      /SBIN/IWCONFIG O - - -
+              CHATTR S - - -
+                  +I O - - -
+              UPDATE O - - -
+                SIM2 - - - O
+                   U - - - O

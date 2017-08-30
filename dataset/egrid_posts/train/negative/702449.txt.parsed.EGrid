@@ -1,0 +1,16 @@
+           PARTITION O O X X - - -
+              SYSTEM X X - - - - -
+                DATA X X - - - - -
+         APPLICATION O - - - - - -
+               /HOME - O - - - - -
+                H00K - X - - X - -
+                 ONE - S - - - - -
+              UBUNTU - S - - - - -
+              SECOND - S - - - - -
+             NOTHING - X - - - - -
+             PACKAGE - - O O - - -
+                CANT - - - - X - -
+             APT-GET - - - - X - -
+              BREEZY - - - - - - X
+          FILESYSTEM - - - - - - X
+                ROOT - - - - - - X

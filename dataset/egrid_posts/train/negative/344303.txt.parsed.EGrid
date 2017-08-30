@@ -1,0 +1,7 @@
+            MODPROBE X X - -
+         NDISWRAPPER X X - -
+              MODULE - - O -
+              KERNEL - - X -
+             SUPPORT - - O -
+              FREENX - - - O
+               NEATX - - - S

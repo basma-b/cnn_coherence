@@ -1,0 +1,16 @@
+               SHARE O - - - -
+                  FS X - - - -
+                TAIL O - - - -
+                THIS - S - - -
+               ERROR - O - - -
+                LOAD - X - - -
+                 NLS - X - - -
+             CHARSET - X - - -
+           ISO8859-1 - S - - -
+                 FAT - X - - -
+                  IO - X - - -
+             COMMAND - X - - -
+                TYPE - O - - -
+               FSTAB - - - X -
+           /DEV/SDA5 - - - - X
+          /MNT/SHARE - - - - O

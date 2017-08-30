@@ -1,0 +1,17 @@
+                 GUY X - -
+              UBUNTU X - -
+             NETBOOK X - -
+             EDITION X - -
+               10.10 O - -
+                HELP O - -
+                BOOT X X -
+          PARAMETERS X - -
+USBCORE.AUTOSUSPEND=1 O - -
+                GRUB X X -
+               ENTRY X - -
+                THIS X - -
+             OPTIONS - S -
+           SOMETHING - S -
+GRUB_CMDLINE_LINUX_DEFAULT - - S
+              KERNEL - - X
+              PARAMS - - O

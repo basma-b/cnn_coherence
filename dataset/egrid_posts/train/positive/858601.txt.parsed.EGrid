@@ -1,0 +1,9 @@
+ INTERNET-CONNECTION X - -
+            TERMINAL X - -
+                SUDO - X -
+              IFDOWN - S -
+                WORK - X -
+            /VAR/RUN - X -
+           /VAR/LOCK - S -
+            SYMLINKS - O -
+                 UHM - - S

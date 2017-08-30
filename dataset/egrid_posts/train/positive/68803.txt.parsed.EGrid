@@ -1,0 +1,14 @@
+      NFTS-PARTITION O - - - X -
+               BEGIN X - - - - -
+           HARDDRIVE X - - - - -
+      EXT3-PARTITION O - - - - -
+            ANYTHING - O S O - -
+                BIOS - - S - - -
+                BOOT - - X - - -
+               LINUX - - - S - -
+                 MBR - - - O S -
+                DATA - - - X - -
+           PARTITION - - - X - -
+               REPLY - - - - X -
+                 USE - - - - - X
+                  XP - - - - - O

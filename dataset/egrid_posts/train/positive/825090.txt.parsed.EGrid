@@ -1,0 +1,16 @@
+               11.04 S - - - - - - - -
+                BOOT X - - - - - - - -
+               DEVCE S - - - - - - - -
+                GRUB S X - O - - - - -
+                 ALL O - - - - - - - -
+                SUDO - X X - - - - - -
+        GRUB-INSTALL - X S - - - - - -
+           DIRECTORY - X - - - - - - -
+                   > - X - - - - - - -
+                 I.E - X - - - - - - -
+            /DEV/SDA - - X - - - - - -
+/USR/SBIN/GRUB-PROBE - - O - - - - - -
+               ERROR - - X - - - - - -
+                AUFS - - X - - - - - -
+               DRIVE - - - X - - - - -
+          LIVECD/USB - - - - X - - - -

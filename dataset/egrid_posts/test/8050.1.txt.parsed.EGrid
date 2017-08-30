@@ -1,0 +1,16 @@
+ VERSION_FIND_LATEST - S - - - O - -
+        /ETC/GRUB.D/ - X - - - - - -
+                   * - X - - - - - -
+/USR/SBIN/GRUB-MKCONFIG - X - - - - - -
+/USR/SBIN/UPDATE-GRUB - X - - - - - -
+                 … - S - - - - - -
+         UPDATE-GRUB - O - - X - - -
+             PACKAGE - - - S - - - -
+             COMMAND - - - - X - - -
+           OPERATION - - - - X - - -
+                GRUB - - - - - X - -
+               STUFF - - - - - S - -
+                  SH - - - - - X - -
+              NOBODY - - - - - S - -
+             PATH… - - - - - O - -
+                GAME - - - - - - S -

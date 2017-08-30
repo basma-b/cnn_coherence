@@ -1,0 +1,27 @@
+                 ALL X - - - - - -
+               WARTY S - - - - - -
+         APT.SOURCES O - - - - - -
+               HOARY X X - - - - -
+             APT-GET X - - - S - -
+              UPDATE X - - - - - -
+        DIST-UPGRADE X - - - - - -
+            BUSINESS O - - - - - -
+                XORG X S - - - - -
+         XORG-SERVER O - - - - - -
+              NORMAL O - - - - - -
+        XSERVER-XORG - - O - - - -
+            QUESTION - - - S - - -
+        INSTALLATION - - - X - - -
+                THIS - - - - O - -
+            PRIORITY - - - - S - -
+             COMMAND - - - - O - -
+           APT-CACHE - - - - S - -
+                 FOO - - - - X - -
+                WORK - - - - X - -
+             PROFILE - - - - O - -
+                BELL - - - - O - -
+             OPTIONS - - - - X - -
+                HTTP - - - - X - -
+//GENTOO-WIKI.COM/TIP_NOBEEP - - - - X - -
+                 AHA - - - - - X -
+              BETTER - - - - - X -

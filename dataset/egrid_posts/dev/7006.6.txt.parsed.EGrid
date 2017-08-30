@@ -1,0 +1,29 @@
+            ETHERNET X - - - - - - -
+             ADAPTER O S - - - - - -
+                SHOW O - - - - - - -
+                AUTO X - - - - - - -
+                WIRE X - - - - - - -
+         CONNECTIONS X - - - - - - -
+                SUDO - X X - - - - -
+             APT-GET - S - - - - - -
+                 CAN - O - - - - - -
+          CONNECTION - O - - - - - -
+              OUTPUT - O - - - - - -
+      NETWORKMANAGER - X - - - - - -
+     /VAR/LOG/SYSLOG - X X - - - - -
+                GREP - - O - - - - -
+             COMMAND - - S - - - - -
+NETWORKMANAGER/VAR/LOG/SYSLOG - - S - - - - -
+                 UMM - - X - - - - -
+                  OK - - O - - - - -
+             NOTHING - - O O - - - -
+               THERE - - - - S - - -
+                 IRC - - - - X - - -
+                HTTP - - - - - X - -
+//SAVANNAH.GNU.ORG/MAIL/ - - - - - X - -
+                  'S - - - - - - S -
+              NOBODY - - - - - - S -
+                GRUB - - - - - - X -
+            QUESTION - - - - - - O -
+               LINUX - - - - - - - X
+           SOMETHING - - - - - - - O

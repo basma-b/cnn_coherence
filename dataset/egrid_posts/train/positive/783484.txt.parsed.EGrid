@@ -1,0 +1,14 @@
+               ORDER S - - -
+              AMOUNT S - - -
+              SCRIPT O X S -
+              BOOTUP X - - -
+                   @ X - - -
+              REBOOT O - - -
+             CRONTAB X - - -
+              METHOD X - - -
+            RC.LOCAL - X S -
+                INIT - - X -
+                PART - - O -
+              SYSTEM - - X -
+                ONES - - - X
+                   * - - - X

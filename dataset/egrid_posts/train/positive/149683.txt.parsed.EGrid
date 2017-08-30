@@ -1,0 +1,14 @@
+                 USE O - - - -
+             DEFAULT X - - - -
+               ROUTE O - - - -
+                ETH1 X - - - -
+             ADDRESS O - - - -
+                 ARP X - - S -
+                THIS - X - - -
+               PROXY - - - X -
+              ROUTER - - - O -
+             REQUEST - - - O -
+             NETWORK - - - X -
+          CONNECTION - - - - S
+             PACKETS - - - - X
+              FILTER - - - - X

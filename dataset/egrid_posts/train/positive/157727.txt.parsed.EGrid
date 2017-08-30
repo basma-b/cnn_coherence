@@ -1,0 +1,14 @@
+                   U X - - S
+               MEDIA O - - -
+                  NG - X - -
+               DRIVE - - S -
+                LIST - - O -
+                  -L - - X -
+              DEVICE - - O -
+FILES/NODES/WHATEVER - - S -
+               MKNOD - - X -
+           /DEV/HDA1 - - S -
+               BLOCK - - X -
+                 CUD - - - S
+                TYPE - - - O
+             COMMAND - - - X

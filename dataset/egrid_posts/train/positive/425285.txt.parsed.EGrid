@@ -1,0 +1,8 @@
+              SYSLOG X - - - -
+            KERN.LOG X - - - -
+             MESSAGE S - - - -
+                EACH O - - - -
+            ROLLOVER - X - - -
+                 LOG - - X - -
+                FILE - - O - -
+                NEED - - - O -

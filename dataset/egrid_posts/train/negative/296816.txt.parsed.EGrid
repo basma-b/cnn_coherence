@@ -1,0 +1,11 @@
+              KERNEL - X - -
+           PARTITION - S - -
+                USER - X - -
+                THIS - O - -
+           /DEV/HDA1 - S - -
+               FSTAB - - S -
+                  .. - - O -
+                 UID - - S -
+              OPTION - - X -
+                WIN/ - - O -
+          UMASK=0222 - - X -

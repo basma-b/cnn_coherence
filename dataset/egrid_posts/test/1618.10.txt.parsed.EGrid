@@ -1,0 +1,13 @@
+                 YEA O - - - - - - - - -
+               FDISK O - - - - - - - - -
+            /DEV/SDB X S - - - - - - - -
+           PARTITION S - - - - - - - - -
+                THIS S - - - - - - - - -
+          READ-WRITE O - - - - - - - - -
+                FILE X - - - - - - - - -
+              SYSTEM X - - - - - - - - -
+                DISK - - O - - - - - - -
+                DATA - - - - S - - - - -
+                BOOT - - - - - - X - - -
+              LIVECD - - - - - - X - - -
+        GCONF-EDITOR - - - - - - - - - O

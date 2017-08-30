@@ -1,0 +1,26 @@
+            LOCATION X - - - -
+                 HEY X - - - -
+              ANYONE O - - - -
+                 VPN X - - - -
+              SERVER X - - - -
+                 USE O - - - -
+              UBUNTU S - - - -
+            OPENSWAN S - - - -
+               IPSEC X - - - -
+               STUFF X - - - -
+                  GE X - - - -
+                TTHE X - - - -
+             FAILURE X - - - -
+/PROC/SYS/NET/IPV4/CONF/ X - - - -
+                   * X - S - X
+     /SEND_REDIRECTS O - - - -
+               THERE O - - - -
+                SUDO O S - - -
+      SEND_REDIRECTS O - - - -
+          PERMISSION S - - - -
+              MANUAL X - - - -
+NET.IPV4.CONF.ETH0.SEND_REDIRECTS - O - - -
+       NET.IPV4.CONF - O - - -
+               ERROR - - - X -
+     .SEND_REDIRECTS - - - - X
+                 KEY - - - - X

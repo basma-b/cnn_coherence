@@ -1,0 +1,30 @@
+                THIS S - - - S
+             WINDOWS X - S - -
+               SHARE X - - - -
+                SUDO X - S - -
+               MKDIR X - - - -
+/MEDIA/WINDOWS.SHARE S - S - -
+                CIFS X - S - -
+//192.168.1.64/WINDOWS.SHARE X - X - -
+       WINDOWS.SHARE X - - - -
+                NAME X - - - -
+                AUTO X - - - -
+               FSTAB X - O - -
+                CIFC - O - - -
+                TYPE - X - - -
+                STEP - - X - -
+  USERNAME=LINUXUSER - - S - -
+  PASSWORD=LINUXPASS - - S - -
+            UID=1000 - - S - -
+           SHARENAME - - X - -
+                  IP - - X - -
+             ADDRESS - - O - -
+             WELCOME - - X - -
+                 WAY - - O - -
+           SOMETHING - - O - -
+        192.168.1.64 - - X - -
+                SAIS - - X - -
+          FILESYSTEM - - X - -
+              OPTION - - S - -
+            CODEPAGE - - X - -
+              METHOD - - - - O

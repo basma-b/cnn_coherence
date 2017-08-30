@@ -1,0 +1,17 @@
+         BOOTIMG.BIN O - - -
+               IMAGE O - - -
+          EQUIVALENT O - - -
+             RAWRITE X - - -
+              UBUNTU X - - -
+              FLOPPY - O X -
+                   T - S - -
+                   A - - X -
+                  DD - - X -
+                 USE - - X -
+                 IF= - - X -
+                   < - - S -
+                FILE - - O -
+         OF=/DEV/FD0 - - O -
+               MSDOS - - X -
+                  .. - - - O
+            HARDWARE - - - X

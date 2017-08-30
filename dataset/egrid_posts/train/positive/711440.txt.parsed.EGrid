@@ -1,0 +1,21 @@
+             COMMAND X - - - - - -
+                ROOT X - - - - - -
+             STARTUP X X - X - X -
+            PASSWORD O - - - - - -
+             SESSION - X - - - - -
+            COMPUTER - S - - - - -
+                BOOT - X - - - - -
+                BIND - - X O - - -
+                 PPP - - O - - - -
+                 DEV - - X - - - -
+              RFCOMM - - O - - - -
+                BASH - - - X - - -
+              SCRIPT - - - O - X -
+               HTTPS - - - - X - -
+//HELP.UBUNTU.COM/COMMUNITY/UBUNTUBOOTUPHOWTO - - - - S - -
+                LINE - - - - S - -
+                FILE - - - - X O -
+                   A - - - - - X -
+              INIT.D - - - - - S -
+              FOLDER - - - - - S -
+                   K - - - - - - X

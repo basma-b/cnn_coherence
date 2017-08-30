@@ -1,0 +1,7 @@
+             COMMAND X - - -
+                 FTP X - - -
+                 NFS - - X S
+                THAT - - - S
+       CONFIGURATION - - - S
+            IPTABLES - - - X
+                RULE - - - O

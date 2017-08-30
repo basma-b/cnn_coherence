@@ -1,0 +1,15 @@
+                  .. O - - - - -
+          IDENTIFIER O - - - - -
+           XORG.CONF X - - - - -
+              DRIVER - X - - - -
+                  NV - S - - - -
+              NVIDIA - X - - - -
+                   X - S - - - -
+              SCREEN - S - - - -
+             MODULES - X - - - -
+             HEADERS - O - - - -
+              KERNEL - X - - - -
+               XINIT - - X - - -
+          CONNECTION - - S - - -
+                PEER - - X - - -
+              LATEST - - - - - X

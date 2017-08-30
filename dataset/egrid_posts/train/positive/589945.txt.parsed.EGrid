@@ -1,0 +1,9 @@
+               RANGE X - -
+                 UFW X - S
+               ERROR - O -
+              REASON - X -
+           8080:8090 - O -
+                 MAN - S -
+            EXAMPLES - X -
+                 HMM - X -
+       8080:8090/TCP - - O

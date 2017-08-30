@@ -1,0 +1,13 @@
+ /BOOT/GRUB/MENU.LST X - -
+  /ETC/X11/XORG.CONF O - -
+            BROCCOLY X - -
+              DOESNT S - -
+              CHANGE O - -
+               LOGON S - -
+             SESSION O - -
+           XORG.CONF - X -
+         RESOLUTIONS - X -
+                 ONE - S -
+               FORCE - O -
+                XORG - - X
+              SCRIPT - - X

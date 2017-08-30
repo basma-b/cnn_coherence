@@ -1,0 +1,21 @@
+               ERROR O O - - - - - -
+            SYNAPTIC O O - - - - - -
+             PACKAGE O O - - - - - -
+                HTTP S - X - - - - -
+//US.ARCHIVE.UBUNTU.COM/UBUNTU/DISTS/FEISTY/RELEASE.GPG X - X - - - - -
+      LOCALHOST:4001 X - X - - - - -
+           127.0.0.1 X - X - - - - -
+          CONNECTION - X - X - - - -
+              REFUSE - X - X - - - -
+              ANYONE - S - - - - - -
+            QUESTION - - - X - - - -
+        REPOSITORIES - - - X - - - -
+                 RUN - - - X - - - -
+            COMPUTER - - - X - - - -
+              SOURCE - - - - X - - -
+                LIST - - - - O - - -
+                THAT - - - - - X - -
+                  LS - - - - - - - X
+    /ETC/APT/CONF.D/ - - - - - - - X
+                FILE - - - - - - - X
+           DIRECTORY - - - - - - - X

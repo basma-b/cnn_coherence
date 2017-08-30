@@ -1,0 +1,10 @@
+              ANYONE X - - -
+           DIRECTORY X - - -
+            WRITABLE X - - -
+               GROUP X O - -
+               CHMOD - X S -
+           ARGUMENTS - S - -
+               ORDER - S - -
+             G=GROUP - - X -
+             W=WRITE - - O -
+                   K - - - X

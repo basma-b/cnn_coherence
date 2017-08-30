@@ -1,0 +1,17 @@
+              CUSTOM - X X X - - - - - -
+            APPARMOR - X - X S - - - - -
+                RULE - O S O - - - - - -
+/ETC/APPARMOR.D/USR.BIN.FIREFOX - X - - - - - - - -
+                TIME - - X - X - - - - -
+             UPGRADE - - S - O - - - - -
+                FILE - - S - - - - - - -
+             FIREFOX - - - X - - - - - -
+               THERE - - - X S - - - - -
+                 WAY - - - X - - - - - -
+               FORCE - - - - O - - - - -
+             VERSION - - - - O - - - - -
+                  .. - - - - O - - - - -
+             APT-GET - - - - X - - - - -
+              UPDATE - - - - - O - - - -
+             REQUEST - - - - - - - - X -
+                PORT - - - - - - - - X -

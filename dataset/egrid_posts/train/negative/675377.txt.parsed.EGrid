@@ -1,0 +1,26 @@
+                  HI S - -
+                FILE O - -
+                  IM S - -
+                BOOT X - -
+                MENU X - -
+               ORDER O - -
+/BOOT/GRUB/GRUB.CONF - O -
+            READONLY - S -
+                ROOT - X -
+ /BOOT/GRUB/MENU.LST - O -
+              SERVER - - X
+                   > - - S
+              QUOTES - - S
+                  PC - - S
+                HOOK - - X
+               CHECK - - X
+                MARK - - X
+             SETTING - - X
+                SHOW - - X
+            PRINTERS - - X
+             SYSTEMS - - X
+            PRINTING - - X
+            INTERNET - - X
+                 PCS - - S
+             PRINTER - - O
+             NETWORK - - X

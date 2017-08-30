@@ -1,0 +1,19 @@
+              ANYONE X - - - - - - - -
+                  DD X - - X - - - - -
+             COMMAND X - O - - - - - -
+                 HDD O - - - - - - - -
+IF=INTERNALDEVICENAME X - - - - - - - -
+OF=EXTERNALDEVICENAME X - - - - - - - -
+  INTERNALDEVICENAME O - - - - - - - -
+              DEVICE X - - - X X - - -
+                NAME X - - - O S - - -
+  EXTERNALDEVICENAME - X - - - - - - -
+              IF=ATA - - - X - - - - -
+             TOSHIBA - - - X - - - - -
+           MK1234GSX - - - S - - - - -
+            PASSPORT - - - S - - - - -
+               THOSE - - - - S - - - -
+            /DEV/SDA - - - - - X - - -
+           SOMETHING - - - - - X - - -
+               FIELD - - - - - - - X -
+            WHADDAYA - - - - - - - - S

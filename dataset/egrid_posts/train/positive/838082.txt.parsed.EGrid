@@ -1,0 +1,12 @@
+                SWAP X - - - - O
+                SIZE X - - - - -
+               WRONG - X - - - -
+                 BUG - X - - - -
+           PARTITION - - S - - -
+               UUIDS - - O - X -
+          /ETC/FSTAB - - X - - O
+               BLKID - - - X - -
+                   | - - - X - -
+              COJABO - - - X - -
+              FORMAT - - - - - X
+           HIBERNATE - - - - - X

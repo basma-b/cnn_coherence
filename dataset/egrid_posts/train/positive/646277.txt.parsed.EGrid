@@ -1,0 +1,12 @@
+                CARD X X - - -
+               VIDEO - X - - -
+               LSPCI - X - - -
+                   | - X - - -
+                GREP - X - - -
+                 VGA - X - - -
+              SYSTEM - - S - -
+            HARDWARE - - X - -
+             DRIVERS - - S - S
+                THIS - - - - O
+                  CD - - - - O
+                BOOT - - - - X

@@ -1,0 +1,17 @@
+              PACKET X - - - -
+              FILTER S - - - -
+              KERNEL X - - X -
+           NETFILTER - O X X -
+            IPTABLES - S - X -
+                 USE - S - - -
+                THIS - X - - -
+             APT-GET - X - - -
+         FIRESTARTER - O - S -
+              SYSTEM - O - - -
+              ADMINS - O - - -
+            INTERNET - X - - -
+          CONNECTION - X - - -
+               SHARE - X - - -
+                CANT - S - - -
+                SAME - - X - -
+               LEVEL - - - X -

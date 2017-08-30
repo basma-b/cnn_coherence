@@ -1,0 +1,16 @@
+               THERE X - -
+                 WAY X - -
+           PARTITION O - -
+               MEDIA X - -
+               DRIVE X - -
+                NTFS - S -
+              SEARCH - X -
+               ^NTFS - X -
+            ^LIBNTFS - O -
+                PART - O -
+               FSTAB - X -
+            LOCATION - - O
+               MOUNT - - X
+                /MNT - - X
+              /MEDIA - - X
+         DIRECTORIES - - O

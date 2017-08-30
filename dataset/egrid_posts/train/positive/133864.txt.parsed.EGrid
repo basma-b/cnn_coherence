@@ -1,0 +1,17 @@
+                TIME O - - - - - -
+              INSTAL - O - - - - -
+                COPY - X - - - - -
+        LIBSTDC++.SO - O - - - - -
+      LIBSTDC++.SO.5 - O - - - - -
+  LIBSTDC++.SO.5.0.3 - O - - - - -
+          GAMESERVER - S - - - - -
+                 TIP - O - - X - -
+              README - X - - - - -
+           LIBSTDC++ - - - X - - -
+                FILE - - - S - - -
+            CONFLICT - - - O - - -
+             PACKAGE - - - X - - -
+            LDCONFIG - - - - - O -
+           DIRECTORY - - - - - X -
+ /LIB/LIBSTDC++.SO.5 - - - - - - S
+                LINK - - - - - - O

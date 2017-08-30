@@ -1,0 +1,20 @@
+                TIME X - - -
+               RMMOD X - - -
+         NDISWRAPPER S - - -
+/ETC/HOTPLUG/BLACKLIST X - - -
+             STARTUP X - - -
+              OPTION O - - -
+            SYNAPTIC X - - -
+              KERNEL X - - -
+               PURGE S - - -
+       KERNELPACKAGE O - - -
+                IDEA S - - -
+                 HEH O - - -
+                 GAP O - - -
+               HOURS - X - -
+               SETUP - X - -
+                HALO - O - -
+              INSMOD - X O -
+               THERE - - - X
+              MODULE - - - O
+        /LIB/MODULES - - - X

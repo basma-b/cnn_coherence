@@ -1,0 +1,25 @@
+                GRUB X - - - - -
+              2.6.10 - O - - - -
+             BZIMAGE - O - - - -
+/BOOT/GRUB/KERNEL-2.6.10 - X - - - -
+              INITRD - X - - - -
+              KERNEL - X X O - -
+                FILE - - X - - -
+             SUPPORT - - O - - -
+             SYSTEMS - - X - - -
+                 ALL - - - X - -
+                 HRM - - - S - -
+               ENTRY - - - O - -
+            MENU.1ST - - - X - -
+             DEFAULT - - - X - -
+            MENU.LST - - - X - -
+                MANY - - - O - -
+                BOOT - - - X - -
+              PEOPLE - - - S - -
+             DISTROS - - - O - -
+             MACHINE - - - X - -
+            HUNDREDS - - - X - -
+             MODULES - - - X - -
+              THANKS - - - - X -
+                THIS - - - - S -
+                  -A - - - - - X

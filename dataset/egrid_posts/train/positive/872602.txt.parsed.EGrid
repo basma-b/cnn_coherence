@@ -1,0 +1,24 @@
+            EVERYONE S - - - - - -
+               CRASH O - - - - - -
+                 JRE X - - - - - -
+                 BUG S - - - - - -
+                 JDK O O - - - X -
+             ECLIPSE - S - - X - -
+              ORACLE - X - - - X -
+                 SET - O - - - - -
+JAVA_HOME=/PATH/TO/JAVA - X - - - - -
+                FILE - X - - - - -
+         COMMANDLINE - - X - - - -
+             PROBLEM - - O - - - -
+             PROFILE - - X - - - -
+ UPDATE-ALTERNATIVES - - S - - - -
+                JAVA - - O - - X -
+                  .. - - O - - - -
+                HELP - - - O - - -
+             VERSION - - - - X - -
+             PLUGINS - - - - X - -
+             OPENJDK - - - - - O -
+            TERMINAL - - - - - O -
+                   | - - - - - X -
+         ENVIRONEMET - - - - - X -
+               IDEAS - - - - - - X

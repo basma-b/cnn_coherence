@@ -1,0 +1,13 @@
+               UBUNT X - - - -
+           PARTITION X - - - -
+               MEDIA - X X S -
+             DEV/HDA - - S - -
+                 DEV - - O - -
+/DEV/MEDA/PARTIONNAME - - X - -
+           SOMETHING - - X - -
+                  .. - - - X -
+       /DEV/SOMEDISK - - - X -
+                 HDA - - - X -
+              DEVICE - - - S -
+           DIRECTORY - - - O -
+          DIFFERENCE - - - - X

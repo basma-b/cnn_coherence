@@ -1,0 +1,16 @@
+               MOUNT O - S - - X -
+                 USB X - - - - - -
+              DEVICE X - O - - O -
+                  RO S - - - - - O
+                   U - - S - - - -
+           ETC/FSTAB - - S - - - O
+                UUID - - X - - - -
+                LIST - - O - - - -
+               FSTAB - - X - - - -
+                  .. - - - - - S -
+               PLACE - - - - - X -
+                SUDO - - - - - - X
+               BLKID - - - - - - O
+        /MOUNT/POINT - - - - - - X
+                 ANS - - - - - - S
+                  RW - - - - - - X

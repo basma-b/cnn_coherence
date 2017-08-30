@@ -1,0 +1,19 @@
+              ANYONE X - - - -
+                HERE X - - - -
+               MYSQL X X - S -
+               ERROR - X - - -
+              SERVER - X - - -
+              SOCKET - S - - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK - X - - -
+              MYSQLD - S - - -
+               OWNER - - - O -
+           DIRECTORY - - - X -
+          MYSQL-USER - - - X -
+               RIGHT - - - O -
+             SERVICE - - - S -
+              STATUS - - - S -
+                SUDO - - - X -
+                   / - - - S -
+               /ETC/ - - - X -
+        MYSQL-SERVER - - - O -
+               10.04 - - - - X

@@ -1,0 +1,8 @@
+             COMMAND X - - -
+                 WAV O - - -
+                LINE X - - -
+               APLAY - S - -
+              ENCODE - X - -
+             MPLAYER - O - -
+             DEFAULT - - X -
+                THAT - - - X

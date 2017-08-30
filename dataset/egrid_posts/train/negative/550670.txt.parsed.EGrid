@@ -1,0 +1,13 @@
+                 USE O - - - - - -
+              SERVER X - - - - - -
+            HOSTNAME - O S - - - -
+       /ETC/HOSTNAME - X - - - - -
+             POSTFIX - X O - - - -
+/ETC/POSTFIX/MAIN.CF - - O - - - -
+                 ONE - - O - - - -
+             COMMAND - - - X - - -
+              BACKUP - - - - - X -
+                  .. - - - - - X -
+                HOME - - - - - X -
+              FOLDER - - - - - X -
+                FILE - - - - - - O

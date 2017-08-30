@@ -1,0 +1,17 @@
+             VERSION X - - - - -
+             DESKTOP X - - - - -
+              UBUNTU X - - - - -
+               32BIT X - - - - -
+                 PAE X - O - - -
+               64BIT X - X - - -
+                 RAM - X - - - -
+              AMOUNT - X - - - -
+            WIRELESS - - - - X -
+              DRIVER - - - - X -
+                 BUG - - - - - O
+                 TRY - - - - - X
+            IWCONFIG - - - - - X
+               WLAN0 - - - - - X
+               POWER - - - - - O
+                HTTP - - - - - X
+//ASKUBUNTU.COM/QUESTIONS/85214/HOW-CAN-I-PREVENT-IWCONFIG-POWER-MANAGEMENT-FROM-BEING-TURNED-ON - - - - - O

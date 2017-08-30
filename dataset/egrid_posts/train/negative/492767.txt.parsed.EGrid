@@ -1,0 +1,14 @@
+             PROCESS X - X -
+                  ID O - O -
+             PROGRAM X - X -
+                 RUN X - - -
+          BACKGROUND X - X -
+                 BRG X - - -
+          FOREGROUND X - X -
+              NOBODY X - - -
+              ANSWER O - - -
+            QUESTION X - - -
+                  .. X - - -
+             COMMAND - O - -
+                SUDO - - - O
+              COURSE - - - X

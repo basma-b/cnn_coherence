@@ -1,0 +1,10 @@
+                THAT X - -
+               ROUTE S X -
+             DEFAULT X X -
+                  GW O O -
+        192.168.11.1 S - -
+                TYPE - S -
+             COMMAND - S -
+                SUDO - X -
+             RESTART - - S
+                  IP - - O

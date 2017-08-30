@@ -1,0 +1,17 @@
+                TMUX S S - - -
+                 VPS X - - - -
+                TYPE - X - - -
+               ERROR - S - - -
+             SESSION - S - - -
+                FILE - X - - -
+           DIRECTORY - X - - -
+                SUDO - X - - -
+                THIS - - X - -
+              STRACE - - S - -
+          /DEV/PTYP0 - - S - -
+              O_RDWR - - X - -
+              EACCES - - O - -
+          PERMISSION - - S - -
+                 ONE - - S - -
+                HINT - - X - -
+               PRIVS - - - O -

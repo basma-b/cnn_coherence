@@ -1,0 +1,16 @@
+        TROUBLESHOOT X - - -
+              SCREEN S - - -
+               BLACK O - - -
+            PROGRESS X - - -
+                 BAR X - - -
+               MODEL - X - -
+            GRAPHICS - X - -
+                CARD - X - -
+            TERMINAL - X - -
+               LSPCI - - X -
+                   | - - X -
+                GREP - - X -
+                  -I - - X -
+                 VGA - - S -
+             ALRIGHT - - O -
+       CONSOLE-SETUP - - - S

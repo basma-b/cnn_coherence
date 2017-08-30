@@ -1,0 +1,33 @@
+             MODULES S - - - - - -
+         MOTHERBOARD X - - - - - -
+              INSTAL O - - - - - -
+          ALSA-UTILS S - - - - - -
+             CONTROL O - - - O - -
+            ARGUMENT X - - - X - -
+                SUDO - X - X - - -
+        FORCE-RELOAD - S - - - - -
+                YEAH - X - - - - -
+                 TRY - X - - - - -
+    SOFTWARE/DRIVERS - X - - - - -
+               APLAY - X - - - - -
+                  -L - X - - - - -
+                HTTP - - X - X - -
+                 CAT - - X - - - -
+/PROC/ASOUND/MODULES - - X - - - -
+       SND_HDA_INTEL - - - S - - -
+            MODPROBE - - - X - - -
+                 MIX - - - X - - -
+               AFAIK - - - X - - -
+                CARD - - - X - - -
+//PASTEBIN.COM/UGL66XA3 - - - S - - -
+            TERMINAL - - - X - - -
+               SOUND - - - - X - -
+           ALSAMIXER - - - - O - -
+               MIXER - - - - X - -
+                   ^ - - - - S - -
+            PASTEBIN - - - - X - -
+//PASTEBIN.COM/8QC4NJQB - - - - S - -
+          SOUNDCARDS - - - - O - -
+                   | - - - - X - -
+                INFO - - - - - - X
+     NIC-USB-MODULES - - - - - - X

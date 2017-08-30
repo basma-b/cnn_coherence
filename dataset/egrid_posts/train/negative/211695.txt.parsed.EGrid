@@ -1,0 +1,10 @@
+      UBUNTU-MINIMAL S - - - - -
+              REMOVE O - - - - -
+         METAPACKAGE - O - - - -
+             INSTALL - O - - - -
+                SORT - X - - - -
+           ALSA-BASE - - S - - -
+        CHECKINSTALL - - - O - -
+                 USE - - - - X -
+               THERE - - - - - S
+             KUBUNTU - - - - - O

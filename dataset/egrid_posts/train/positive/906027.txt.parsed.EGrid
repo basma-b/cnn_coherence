@@ -1,0 +1,17 @@
+              KERNEL X - - - - - -
+                 VIA X - - - - - -
+             CHIPSET X - - - - - -
+                 DMA - - - - O - -
+               DRIVE - - - - X - -
+                BOB2 - - - - X - -
+              HDPARM - - - - X - -
+                SUDO - - - - X - -
+             APT-GET - - - - S - -
+                  -R - - - - X - -
+            /DEV/SDA - - - - O - -
+       HDIO_GET_QDMA - - - - S - -
+            ARGUMENT - - - - X - -
+         DISKS-ADMIN - - - - X - -
+                THIS - - - - - - S
+                INFO - - - - - - O
+                HTTP - - - - - - X

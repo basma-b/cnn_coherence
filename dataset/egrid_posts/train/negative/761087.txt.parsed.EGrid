@@ -1,0 +1,20 @@
+                COPY X O - - - - - - -
+                FILE O S - - - - O - -
+/HOME/ALLKINDOFFILES X - - - - - - - -
+      /HOME/MSGFILES X - - - - - - - -
+           DIRECTORY - X - - - - - - -
+           STRUCTURE - S - - - - - - -
+              THANKS - - X - - - - - -
+                 TIP - - X - - - - - -
+              MANUAL - - - O - - - - -
+               XARGS - - - X - - - - -
+           DIMENSION - - - - X - - X -
+             PROBLEM - - - - - - X - X
+               DRIVE - - - - - - O - -
+                CIFS - - - - - - X - -
+                PERM - - - - - - X - -
+                  .. - - - - - - O - -
+             MACHINE - - - - - - - X -
+             COMMAND - - - - - - - O -
+              ACCESS - - - - - - - - X
+              FOLDER - - - - - - - - X

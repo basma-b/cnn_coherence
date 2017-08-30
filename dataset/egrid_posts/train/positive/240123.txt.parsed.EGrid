@@ -1,0 +1,13 @@
+             PROBLEM O - - - -
+             PACKAGE X O - - X
+      APACHE2-COMMON S - X X X
+             APT-GET S - - - -
+               BREAK X X - - -
+                THIS S - - X -
+               ERROR X - - - -
+             COMMAND - - - X -
+                SUDO - - - X -
+                DPKG - - - X -
+                  -R - - - X -
+               PURGE - - - X -
+                CLUE - - - - X

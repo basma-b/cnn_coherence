@@ -1,0 +1,6 @@
+             SYMLINK S -
+                USER X -
+                  LS X -
+         PERMISSIONS X S
+            READABLE X -
+               USERS X -

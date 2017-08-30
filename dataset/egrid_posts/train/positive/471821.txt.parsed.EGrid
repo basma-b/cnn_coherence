@@ -1,0 +1,22 @@
+/ETC/APACHE2/HTTPD.CONF X - - -
+                FILE X - - -
+                  IV - S - -
+               DITCH - X - -
+               ERROR - X - -
+             MESSAGE - X - -
+             ADDRESS - O - -
+                 USE - X - -
+           MAKE_SOCK - S - -
+                BIND - X - -
+          0.0.0.0:80 - X - -
+             SOCKETS - S - -
+           SOMETHING - S - -
+                PORT - X - -
+             NETSTAT - - S -
+                ROOT - - X -
+                  OK - - X -
+            CHEROKEE - - O -
+                PAGE - - S -
+              DOESNT - - O -
+               RC2.D - - - X
+                   S - - - X

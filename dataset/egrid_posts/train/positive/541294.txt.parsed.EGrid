@@ -1,0 +1,17 @@
+/ETC/DHCP3/DHCLIENT.CONF S -
+                TEXT X -
+              EDITOR X -
+                LINE O -
+ DOMAIN-NAME-SERVERS S -
+              ACCORD X -
+                NEED X -
+               THERE S -
+           127.0.0.1 X -
+               CHINA X -
+                 DAY X -
+          GOVERNMENT S -
+                NAME X -
+             SERVERS O -
+             OPENDNS - X
+               FRONT - O
+             ADDRESS - X

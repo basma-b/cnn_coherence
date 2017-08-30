@@ -1,0 +1,26 @@
+                HTTP X - - X - - - - - - - -
+                   ^ X - - - - - - - - - - -
+                WAIT - X - - - - - - - - - -
+           SOMETHING - - S - - - - - - - - -
+              CHANGE - - O - - - - - - - - -
+           INDEX.PHP - - - O - - O - - - - -
+                THIS - - - X - - - - - - - -
+//LOCALHOST/FLOW3/WEB/INDEX.PHP - - - X - - - - - - - -
+//LOCALHOST/FLOW3/WEB/ - - - S - - - - - - - -
+/ETC/APACHE2/MODS-ENABLED/DIR.CONF - - - - - - X - - - - -
+            DIR.CONF - - - - - - S - - - - -
+           DIRECTORY - - - - - - X - - - - -
+               THERE - - - - - - S - - - - -
+                NEED - - - - - - O - - - - -
+/ETC/APACHE2/APACHE2.CONF - - - - - - S - - - - -
+             DEFAULT - - - - - - X X - - - -
+              CONFIG - - - - - - O - - - - -
+          DIRECTIVES - - - - - - - X - - - -
+               .LOAD - - - - - - - O - - - -
+        INSTALLATION - - - - - - - X - - - -
+                 ALL - - - - - - - S - - - -
+ INSTALLATION/CONFIG - - - - - - - - X - - -
+               THATS - - - - - - - - - S - -
+              THREAD - - - - - - - - - X - -
+              ACCESS - - - - - - - - - - O -
+                 SSH - - - - - - - - - - X -

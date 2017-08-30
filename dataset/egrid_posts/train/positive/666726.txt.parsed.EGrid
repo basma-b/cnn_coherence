@@ -1,0 +1,12 @@
+             COMMAND S - - - -
+           DIRECTORY O - - - -
+             WINDOWS X - - - -
+                 USE X - - - -
+                PSCP - S - - -
+        /DESTINATION - X - - -
+                USER - S - - -
+                HOST - O - - -
+             OPTIONS - O - - -
+                 SCP - X - - -
+                 MAN - - O - -
+                THAT - - - S -

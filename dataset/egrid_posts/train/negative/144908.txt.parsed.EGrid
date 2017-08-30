@@ -1,0 +1,26 @@
+               SLAVE X - - - - - -
+                  HD X - - - O - -
+              CHANGE - X - - - - -
+            ANYTHING - O - - - - -
+            WIKIPAGE - O - - - - -
+                THIS - - X - - - -
+                LOOK - - X - - - -
+                READ - - X - - - -
+               HTTPS - - X - - - -
+//WIKI.UBUNTU.COM/AUTOMATICALLYMOUNTPARTITIONS - - X - - - -
+         ACTION=SHOW - - - X - - -
+REDIRECT=AUTOMATICALLYMOUNTMSWINDOWSPARTITIONS - - - X - - -
+                HELP - - - O - - -
+                INFO - - - O - - -
+                 USE - - - S - - -
+            TERMINAL - - - O - - -
+        APPLICATIONS - - - X - - -
+                   > - - - X - - -
+         ACCESSORIES - - - X - - -
+             COMMAND - - - S - - -
+                SUDO - - - X - - -
+               FDISK - - - X - - -
+                  -L - - - X - - -
+            PASSWORD - - - O - - -
+              OUTPUT - - - - O - -
+                HTTP - - - - X - -

@@ -1,0 +1,16 @@
+GSTREAMER0.10-PITFDLL S - -
+                 USE X - -
+             WINDOWS O - -
+                DLLS X - -
+            INSTANCE - X -
+             MPLAYER - X -
+     /USR/LIB/CODECS - O -
+                HTTP - S -
+//WIKI.CERKINFO.BE/HOWTO - S -
+                  OU - S -
+           W32CODECS - X O
+               THING - - S
+              THEORA - - X
+               VIDEO - - O
+                NIMO - - X
+                PACK - - O

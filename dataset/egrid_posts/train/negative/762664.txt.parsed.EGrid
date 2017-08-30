@@ -1,0 +1,12 @@
+                SUDO X - -
+            DHCLIENT X - -
+                ETH0 X - -
+/ETC/NETWORK/INTERFACES/RESTART S - -
+              REBOOT - X -
+                MIND - X -
+                WORK - O -
+                BOOT - X -
+             NETWORK - S -
+             COMMAND - S -
+           RETENTION - X -
+             PROBLEM - O -

@@ -1,0 +1,9 @@
+/ETC/FIREFOX/FIREFOXRC X -
+        FIREFOX_DSP= X -
+                NONE O -
+                 OSS S X
+             PROBLEM S -
+           SOUNDCARD O -
+             DEFAULT - X
+               SOUND - X
+              DEVICE - O

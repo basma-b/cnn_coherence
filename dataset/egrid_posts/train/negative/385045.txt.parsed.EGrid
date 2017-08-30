@@ -1,0 +1,15 @@
+            MODPROBE X - - - -
+                  -R S - - - -
+              MODULE X - - - -
+       SND_HDA_INTEL S - X - -
+                 USE X - O - -
+       SND-HDA-INTEL - - X - -
+               LSMOD - - X - -
+                   | - - S - -
+                SHOW - - X - -
+               WHATS - - S - -
+                HTTP - - O - -
+        PASTEID=9296 - - - X -
+              SCRIPT - - - - O
+                 RUN - - - - X
+             WEBPAGE - - - - X

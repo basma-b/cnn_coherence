@@ -1,0 +1,16 @@
+             SOMEONE X - - -
+           SOMETHING - O - -
+               ERROR - O - -
+          LIBGL.SO.1 - S - -
+                LIBS - O - -
+              INSTAL - S - -
+            LIBGL.SO - X - -
+                   * - O - -
+             LIBRARY - X - -
+            /USR/LIB - X - -
+   /USR/LIB/LIBGL.SO - O - -
+       MESA/LIBGL.SO - O - -
+                THAT - - - S
+                MESA - - - X
+             PACKAGE - - - O
+                 JOB - - - O

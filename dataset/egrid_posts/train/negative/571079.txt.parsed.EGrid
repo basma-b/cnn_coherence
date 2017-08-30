@@ -1,0 +1,19 @@
+                GRUB O S - X X -
+                 BCD X X S - - -
+             EASYBCD X - - - - -
+                THAT - X - - - S
+                 MBR - X - - - -
+           PARTITION - O - X - -
+               SETUP - X - - X -
+               ENTRY - O - - - -
+          MASTER-MBR - - X - - -
+                SOME - - X - - -
+                ROOT - - - X X -
+                  .. - - - X - -
+               VISTA - - - O - -
+                BOOT - - - X - -
+                HTTP - - - - S -
+//WWW.GNU.ORG/SOFTWARE/GRUB/MANUAL/HTML_NODE/INSTALLING-GRUB-NATIVELY.HTML - - - - X -
+                   > - - - - X -
+               HD0,6 - - - - X -
+                MORE - - - - - O

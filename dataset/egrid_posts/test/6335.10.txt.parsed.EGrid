@@ -1,0 +1,18 @@
+        LORSAMPAU_W_ X - -
+             WINDOWS S - -
+            RECOVERY S - -
+                 USE X - -
+             FIXBOOT O - -
+              FIXMBR S - -
+              UBUNTU X - -
+      FIXBOOT/FIXMBR X - -
+                WORK O - -
+              ROUTER - - O
+          NAMESERVER - - O
+/ETC/RESOLVCONF/RESOLV.CONF.D/BASE - - X
+                 RUN - - X
+         192.168.0.1 - - S
+                   | - - X
+                SUDO - - X
+                 TEE - - X
+                   > - - S

@@ -1,0 +1,14 @@
+               ERROR X - - - - - -
+                THAT - - X - - - -
+    GNOME-AUTOGEN.SH - - X - - - -
+              SCRIPT - - S - - - -
+               GNOME - - X - - - -
+             PACKAGE - - X - - - -
+                SITE - - - - X - S
+                HTTP - - - - X - -
+//CODE.GOOGLE.COM/P/GNOME2-GLOBALMENU/WIKI/BUILDFROMSCRATCH - - - - X - -
+UPDATED=BUILDFROMSCRATCH - - - - - X -
+             COMMAND - - - - - X -
+        ./AUTOGEN.SH - - - - - X -
+   PREFIX=/USR/LOCAL - - - - - X -
+              SYSTEM - - - - - - O

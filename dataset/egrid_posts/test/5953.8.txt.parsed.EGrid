@@ -1,0 +1,12 @@
+              DEVICE S - -
+             SUPPORT O - -
+              DRIVER X - -
+                 ONE X - -
+                USER - O -
+             SUDOERS - X -
+               GROUP - X -
+                THRU - X -
+                 CLI - O -
+                SUDO - - X
+                NANO - - X
+        /ETC/SUDOERS - - X

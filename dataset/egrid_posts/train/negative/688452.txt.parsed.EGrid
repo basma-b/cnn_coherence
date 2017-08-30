@@ -1,0 +1,11 @@
+              FORMAT S - -
+             WINDOWS X - -
+                 BOX - O -
+                 USB - X -
+                HOOK - X -
+                VFAT - S -
+                DISK - X X
+           PARTITION - S -
+                 IDE - - X
+             DEVICES - - X
+            ORIGINAL - - O

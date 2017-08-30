@@ -1,0 +1,38 @@
+              UBUNTU X - - - - - - - -
+              LIVECD O - - - - - - - -
+           PARTITION O - - S - - - - -
+          README.TXT X - - - - - - - -
+                FILE O - - - - - - - -
+           DIRECTORY S - - S - - - - -
+           DATA.FROM S - - - - - - - -
+             DESKTOP X - - - - - - - -
+               CLICK X - - - - - - - -
+             PRIVATE X - - - - - - - -
+                DATA O - - - - - - - -
+             COMMAND X - - - - - - - O
+                LINE X - - - - - - - -
+ECRYPTFS-MOUNT-PRIVATE X - - - - - - - -
+ACCESS-YOUR-PRIVATE-DATA.DESKTOP - S - - - - - - -
+         APPLICATION - X - - - - - - -
+            LAUNCHER - O - - - - - - -
+               TRUST - X - - - - - - -
+                 CLI - - - X - - - - -
+              METHOD - - - S - - - - -
+               ERROR - - - O - - - - -
+                HOME - - - X - - - - X
+                  CD - - - X - - - - -
+           /HOME/EDA - - - - X - - - -
+             MENTION - - - - O - - - -
+              FOLDER - - - - - O - - -
+              SYSTEM - - - - - - S - -
+              BACKUP - - - - - - - O -
+              ACCESS - - - - - - - - X
+                 WAY - - - - - - - - S
+//BLOG.UNDECIM.ORG/2010/05/FIX-BOOT-PROBLEMS-WITH-A-LIVE-CD-AND-CHROOT/ - - - - - - - - S
+                PAGE - - - - - - - - X
+             SECTION - - - - - - - - O
+         DIRECTORIES - - - - - - - - S
+              CHROOT - - - - - - - - O
+                STEP - - - - - - - - O
+               SETUP - - - - - - - - X
+                USER - - - - - - - - X

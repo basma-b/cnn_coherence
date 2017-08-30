@@ -1,0 +1,5 @@
+           PARTITION S - - -
+              SYSTEM S - - -
+                BOOT X - - -
+          /ETC/FSTAB - X - -
+                   D - - - X

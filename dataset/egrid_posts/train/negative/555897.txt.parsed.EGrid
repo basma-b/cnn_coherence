@@ -1,0 +1,16 @@
+              NVIDIA X - - -
+             DRIVERS O - - -
+                   X S S - -
+           XORG.CONF - O - -
+               BUSID - S - -
+                CARD - X X -
+                  ID - O - -
+               LSPCI - X - -
+                 ATI - - - O
+                FILE - - - S
+                ALOT - - - O
+              ERRORS - - - O
+                GLUT - - - X
+         GLUT_DOUBLE - - - S
+                 USE - - - X
+            FUNCTION - - - X

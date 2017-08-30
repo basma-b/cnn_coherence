@@ -1,0 +1,17 @@
+   /VAR/LOG/MESSAGES X - - - -
+                TAIL X - - - -
+              OUTPUT O - - - -
+             NETWORK X - - - -
+             MANAGER X - - - -
+                EDGE X - O - -
+               MODEM X - - - -
+        CONNECTIVITY S - - - -
+                DEAL O - - - -
+                WWAN X - - - -
+            HARDWARE X - - - -
+                MENU - - S - -
+                 USE - - O - -
+             UPGRADE - - X - -
+                9.10 - - X - -
+              LIVECD - - - X -
+                  .. - - - - O

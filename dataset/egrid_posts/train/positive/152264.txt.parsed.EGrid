@@ -1,0 +1,25 @@
+               FLOOD - X - - -
+             FREEZEY - X - - -
+            IPTABLES - X - - -
+                  ~/ - - X - -
+              KERNEL - - S - -
+             DRIVERS - - O - -
+              UPDATE - - X - -
+/ETC/NETWORK/INTERFACES - - S - -
+         MOTHERBOARD - - S - -
+                 ONE - - S - -
+            ETHERNET - - X - -
+          CONNECTION - - O - -
+                PORT - - X - -
+                CARD - - X - -
+                 PCI - - O - -
+              DEBIAN - - S - -
+          LINUX-HELP - - S - -
+                 O.O - - X - -
+                  NO - - X - -
+                MIPS - - S - -
+             WRT54GS - - O - -
+             NETGEAR - - - X -
+             WGT634U - - - X -
+            QUESTION - - - - O
+         OPENWRT.ORG - - - - X

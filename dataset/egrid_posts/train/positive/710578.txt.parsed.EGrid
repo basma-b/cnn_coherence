@@ -1,0 +1,22 @@
+             APT-GET X - - - -
+     BUILD-ESSENTIAL O - - - -
+                 USE O - - - -
+                8.04 X - - - -
+                9.10 X - - - X
+                  UK X - - - -
+              MIRROR X - - - -
+                FILE X - - - -
+                LIBC S - - - -
+             SERVERS X - - - -
+                HTTP - O - - -
+ KARMIC-UPDATES/MAIN - S - - -
+      LINUX-LIBC-DEV - O - - -
+                  IP - O - - -
+               -RSB- - S - - -
+                 ^^^ - O - - -
+              UPDATE - S - - -
+/ETC/APT/SOURCES.LIST - - O - -
+             DEB-SRC - - - O -
+              SERVER - - - X -
+              SOURCE - - - X X
+              KERNEL - - - - X

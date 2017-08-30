@@ -1,0 +1,14 @@
+          FILESYSTEM S S - - S
+          LSOF/FUSER X - - - -
+                SUDO - X - - -
+             APT-GET - O - - -
+               IOTOP - O - - -
+                THAT - - S - -
+                TOOL - - O - -
+         INFORMATION - - - - O
+              ACCESS - - - - O
+               FUSER - - - - X
+                LSOF - - - - S
+            ANYTHING - - - - X
+             PROBLEM - - - - S
+                FILE - - - - S

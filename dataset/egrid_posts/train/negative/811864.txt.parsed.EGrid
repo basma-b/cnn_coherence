@@ -1,0 +1,16 @@
+                THAT O - - - - - - -
+              KERNEL - - X - - - - -
+        SOURCES.LIST - - - O - - - -
+             RELEASE - - - X - - - -
+              UBUNTU - - - S - - - -
+                  CD - - - S - - - -
+                  .. - - - O - O - -
+             KERNELS - - - O - - - -
+           PARTITION - - - X X O - -
+             MACHINE - - - X - - - -
+           CHROOTING - - - O - - - -
+               /BOOT - - - - X S - -
+                HTTP - - - - - - X -
+            DOWNLOAD - - - - - - X -
+                 DEB - - - - - - S -
+             DEFAULT - - - - - - O -

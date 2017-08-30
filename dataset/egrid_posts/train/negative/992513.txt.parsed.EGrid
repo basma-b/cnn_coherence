@@ -1,0 +1,21 @@
+              INSTAL X - - - - -
+          NVIDIA-GLX X - - - - -
+/LIB/MODULES/2.6.12-9-686/VOLATILE/NVIDIA.KO X - - - - -
+                FILE X - - - - -
+           DIRECTORY X - - - - -
+LINUX-RESTRICTED-MODULES O - - - - -
+              KERNEL X X - - - -
+               IMAGE - O - - - -
+           LINUX-686 - O - O - -
+          METPACKAGE - O - - - -
+               L-R-M - X - - - -
+                SUDO - S - - - -
+             APT-GET - S - - - -
+                THAT - - X - - -
+                  -A - - S - - -
+             PACKAGE - - - X - -
+                  -R - - - X - -
+              SEARCH - - - - S -
+           WORKSPACE - - - - X -
+           SOMETHING - - - - X -
+               UNITY - - - - - X

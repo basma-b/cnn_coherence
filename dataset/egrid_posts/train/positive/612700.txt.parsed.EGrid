@@ -1,0 +1,16 @@
+                ROOT X - - - -
+           DIRECTORY O - - - -
+               USERS X - - - -
+                USER - X - - S
+         PERMISSIONS - O - - -
+                /VAR - X - - -
+              APACHE - - - - S
+                WORK - - - - O
+               RIGHT - - - - O
+                   T - - - - S
+            HOMEPAGE - - - - O
+             TROUBLE - - - - X
+             CONFIGS - - - - O
+                HOME - - - - X
+                 DIR - - - - X
+                  .. - - - - O

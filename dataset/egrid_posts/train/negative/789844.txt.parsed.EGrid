@@ -1,0 +1,16 @@
+            LOCATION X - - -
+            TEMPLATE O O - -
+            GRUB.CFG O - - -
+                 ISO O - - -
+                HTTP S - - -
+HOW_DO_YOU_USE_A_LOOPBACK.CFG_TO_BOOT_AN_ISO.3F X - - -
+           40_CUSTOM X - - -
+                FILE S - - -
+         /ETC/GRUB.D X - - -
+                GRUB O - - -
+                  .. O - - -
+               ENTRY - X - -
+                PAGE - X - -
+                SUDO - X - -
+         UPDATE-GRUB - O - -
+              STREAM - - - X

@@ -1,0 +1,12 @@
+             DEFAULT X - - - -
+               UMASK O - - - -
+                USER - S X - -
+            SECURITY - O - - -
+          SOLARISBOY - X - - -
+                TEST - X - - -
+                  .. - - X - -
+              ACCESS - - S - -
+               GROUP - - X - -
+            EVERYONE - - S - -
+             EXECUTE - - O - -
+                 YES - - - - X

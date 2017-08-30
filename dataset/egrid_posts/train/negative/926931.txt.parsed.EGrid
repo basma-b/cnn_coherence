@@ -1,0 +1,20 @@
+             ANYBODY S - - - - -
+                   * X - - - - -
+          BUILD-DEPS X - - - - -
+             SATISFY O - - - - -
+  BUILD-DEPENDENCIES - S - - - -
+LINUX-SOURCE-2.6.8.1 - X - - - -
+           BUILD-DEP - - O - - -
+               SOUND - - X - - -
+             NETWORK - - X - - -
+        REPOSITORIES - - S - - -
+                 ALL - - O - - -
+             PACKAGE - - X - - -
+                  CD - - X - - -
+        JAMIEJACKSON - - - X - -
+         PERMISSIONS - - - O - -
+                FILE - - - O - -
+            LOCATION - - - - O -
+                TYPE - - - - X -
+/USR/LOCAL/IRCD/ECT/ - - - - - X
+               ERROR - - - - - O

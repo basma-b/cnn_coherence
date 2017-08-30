@@ -1,0 +1,15 @@
+                TIME X - - - - -
+                 ONE S - - - - -
+               AUDIO O - - - - -
+               SOUND - O - - - -
+                ALSA - X - - - -
+                 OSS - O - - - -
+         PREFERENCES - - X - - -
+                 ALL - - S - - -
+              LAPTOP - - - S - X
+               INTEL - - - S - -
+                IDEA - - - O - -
+                HELP - - - - X -
+                WORK - - - - X -
+                  FB - - - - - X
+/ETC/MODPROBE/BLACKLIST-FRAMEBUFFER - - - - - X

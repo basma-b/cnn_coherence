@@ -1,0 +1,21 @@
+             CONNECT O - - - - - -
+            WINDOWS7 X - - - - - -
+               SHARE X - O - - - -
+              SERVER X - - - - - -
+              METHOD X - - - - - -
+               IDEAS - X - - - - -
+                   C - - X - - - -
+                   E - - X - - - -
+                TYPE - - X - - - -
+             NOTHING - - O - - - -
+                 SMB - - - O - - -
+             COMMAND - - - - - X -
+                SUDO - - - - - O -
+                 -HR - - - - - O -
+/USR/LIB/CUPS/FILTER - - - - - O -
+/USR/LIB/CUPS/BACKEND - - - - - O -
+               CHGRP - - - - - X -
+                   U - - - - - S -
+                ROOT - - - - - O X
+                  EG - - - - - X -
+/USR/LIBS/CUPS/FILTER - - - - - - X

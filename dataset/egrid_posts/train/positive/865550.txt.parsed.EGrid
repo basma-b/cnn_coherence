@@ -1,0 +1,17 @@
+             WINDOWS X X X X - -
+        INSTALLATION X - - - - -
+              UBUNTU X - - - - -
+                BOOT - - X - - -
+           PARTITION - - O - - -
+                HOME - - X S - -
+                WUBI - - O - - -
+                FILE - - - X - -
+              SYSTEM - - - S - -
+            RECOVERY - - - O - X
+                DISC - - - O - -
+          BOOTLOADER - - - S - -
+                 MBR - - - X - -
+                  OS - - - - - X
+              INSTAL - - - - - X
+                 OEM - - - - - S
+                DISK - - - - - X

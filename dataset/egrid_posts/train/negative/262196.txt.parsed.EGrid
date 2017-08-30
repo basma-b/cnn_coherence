@@ -1,0 +1,14 @@
+           HIBERNATE - S - - - - - - - - -
+                SWAP - O - - - - O - - - -
+           PARTITION - X - - - - X - - - -
+                MOVE - - - X - - - - - - -
+                HELP - - - X - - - - - - -
+          /ETC/FSTAB - - - O - - - - - - -
+              SWAPON - - - - O - - - - - -
+              OUTPUT - - - - - X - - - - -
+                 CAT - - - - - X - - - - -
+         /PROC/SWAPS - - - - - X - - - - -
+             PRIMARY - - - - - - X - - - -
+          FILESYSTEM - - - - - - - X - - -
+             PROBLEM - - - - - - - - O - -
+              DIALOG - - - - - - - - - - O

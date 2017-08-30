@@ -1,0 +1,14 @@
+                 GLX S - -
+              DRIVER X - S
+                SUDO - - X
+             APT-GET - - S
+               PURGE - - S
+NVIDIA-71-MODALIASES - - X
+NVIDIA-180-MODALIASES - - X
+NVIDIA-173-MODALIASES - - X
+              UPDATE - - O
+                 GCC - - S
+                  -R - - O
+                  +X - - X
+NVIDIA-LINUX-X86-185.18.14-PKG1.RUN - - O
+                   X - - X

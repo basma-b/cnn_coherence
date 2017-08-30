@@ -1,0 +1,19 @@
+         PERMISSIONS S - - - - - - - - - -
+            LOCATION - O - - - - - - - - -
+                /USR - X - - - - - - - - -
+          /ETC/FSTAB - X - - - - - - - - -
+             PROGRAM - - - O - - - - - - -
+                NANO - - - X - - - - - - -
+             COMMAND - - - X - - X - - - -
+                LINE - - - X - - X - - - -
+            COMPUTER - - - - - S - - - - -
+               LOGIN - - - - - - X - - - -
+                SUDO - - - - - - X - - - -
+     /ETC/INIT.D/GDM - - - - - - S - - - -
+                FAIL - - - - - - - O - - -
+               ERROR - - - - - - - - X - -
+             MESSAGE - - - - - - - - X - -
+            WIRELESS - - - - - - - - - - X
+       DOCUMENTATION - - - - - - - - - - O
+               HTTPS - - - - - - - - - - X
+//HELP.UBUNTU.COM/COMMUNITY/WIFIDOCS/DRIVER/NDISWRAPPER - - - - - - - - - - X

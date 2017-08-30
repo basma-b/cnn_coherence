@@ -1,0 +1,12 @@
+           MYSQLDUMP S - - - - - -
+                DATA O O O - - - -
+                  DB X - - - - - -
+             RESTART X - - - - - -
+              SERVER - X - - - - -
+                FILE - X S - - - -
+                 USE - - O - - - -
+                 AFD - - - S - - -
+           DUMP-FILE - - - O - - -
+             COMMAND - - - O - - -
+             KNOPPIX - - - - - - S
+           PARTITION - - - - - - O

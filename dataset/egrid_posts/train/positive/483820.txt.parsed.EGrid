@@ -1,0 +1,11 @@
+             COMMAND X - - - - -
+                COPY X X - - - -
+                FILE X - - - - -
+                VIEW O - - - - -
+              STATUS X - - - - -
+                   % - X - - - -
+                BYTE - X - - - -
+               RSYNC - - X - - -
+                LOOK - - - - X -
+                 MAN - - - - X X
+                PAGE - - - - X O

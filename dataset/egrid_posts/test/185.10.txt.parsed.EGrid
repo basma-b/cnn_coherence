@@ -1,0 +1,15 @@
+               THERE X - - - - -
+              LENGTH X - - - - -
+          LIMITATION X - - - - -
+            HOSTNAME X - - - - -
+                 SSH X - - - - -
+                CHAR - X - - - -
+                FQDN - X X - - -
+                FILE - - - - O -
+               MATCH - - - - X -
+                LINE - - - - O -
+                  EG - - - - - X
+     /VAR/LOG/SYSLOG - - - - - X
+              SYSTEM - - - - - X
+             PROGRAM - - - - - X
+             PROBLEM - - - - - S

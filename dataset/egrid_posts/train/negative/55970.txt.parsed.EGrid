@@ -1,0 +1,10 @@
+               SPACE X - - -
+                  FS X - - -
+                  DD X - - -
+        IF=/DEV/ZERO S - - -
+       MKFS.REISERFS O - - -
+            DISK.IMG S - - -
+                 NFS O - - -
+              SERVER O - - -
+                  OK - O - -
+             PORTMAP - X - -

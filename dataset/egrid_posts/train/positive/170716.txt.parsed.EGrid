@@ -1,0 +1,24 @@
+             COMMAND X - - - - - - - -
+                SUDO X - - - - - - - -
+            MODPROBE X - - - - - - - -
+         NDISWRAPPER X - - - - - - - -
+             STARTUP X - - - - - - - -
+                   > - X - - - - - - -
+        /ETC/MODULES - O - - - - - - -
+             DEFAULT - X - - - - - - -
+              UBUNTU - X - - - - - - -
+              KERNEL - O - - - - - - -
+                CARD - - O - - - - - -
+             DRIVERS - - - O - - - - -
+               HTTPS - - - O X - - - -
+//HELP.UBUNTU.COM/COMMUNITY/REPOSITORIES/UBUNTU - - - X - - - - -
+   ACTION=FULLSEARCH - - - - X - - - -
+         CONTEXT=180 - - - - X - - - -
+        VALUE=RALINK - - - - X - - - -
+                   % - - - - X - - - -
+                  C3 - - - - X - - - -
+             ADTULOS - - - - X - - - -
+//HELP.UBUNTU.COM/COMMUNITY/WIFIDOCS/DRIVER/RALINKRT73 - - - - X - - - -
+            VERSIONS - - - - - O - X -
+              DRIVER - - - - - X - X -
+        DISTRIBUTION - - - - - - - - X

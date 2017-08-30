@@ -1,0 +1,17 @@
+           DIRECTORY X X - - -
+               SETUP X - - - -
+               RSYNC X - - - -
+                  .. O O - - -
+                 DIR S - - - -
+                   > X X - - -
+      /USR/BIN/RSYNC X X - - -
+              DAEMON X X - - -
+          EVERYTHING S - - - -
+                PLAN X - - - -
+             COMMAND X X - - -
+              CHROOT - O X - -
+                   < - X - - -
+               ERROR - X - - -
+                FILE - X - - -
+                 ONE - - - - O
+                SITE - - - - X

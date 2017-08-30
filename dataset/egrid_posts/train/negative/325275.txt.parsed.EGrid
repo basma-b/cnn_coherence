@@ -1,0 +1,15 @@
+               USERS - S - - - - -
+               DRIVE - O - - - - -
+          READ/WRITE - - O - - - -
+                FILE - - - O - - -
+               FSTAB - - - - - X -
+UUID=12891911-3E30-48CB-9118-E750FB171938 - - - - - X -
+                EXT3 - - - - - X -
+                USER - - - - - X -
+                 DEV - - - - - X -
+               CHECK - - - - - X -
+         PERMISSIONS - - - - - S -
+               THERE - - - - - - S
+             MISSION - - - - - - X
+           STATEMENT - - - - - - O
+              DEBIAN - - - - - - O

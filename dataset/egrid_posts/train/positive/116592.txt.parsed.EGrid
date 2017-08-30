@@ -1,0 +1,12 @@
+                 ONE X - - - - - - - - -
+               FAT32 X - - - - - - - - -
+                EXT3 X - - - - - - - - -
+                DATA X - O - - - - - - -
+           PARTITION - - X - - - S - - -
+              SCRIPT - - O - - - - - - -
+                THAT - - - X - - - - - -
+                FROM - - - - - - O - - -
+                IIRC - - - - - - X - - -
+             DEFAULT - - - - - - X - - -
+          /ETC/FSTAB - - - - - - - - X -
+              OPTION - - - - - - - - O -

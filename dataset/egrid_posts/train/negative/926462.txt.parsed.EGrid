@@ -1,0 +1,14 @@
+              MIRROR X - - - - -
+        SOURCES.LIST X - - - - -
+                 ANY - O - - - -
+              SOURCE - X - - O -
+              UBUNTU - X - - - -
+                FILE - - - O - -
+/VAR/CACHE/APT/ARCHIVES - - - X - -
+            VERSIONS - - - O - -
+              ACCORD - - - - O -
+                 PIN - - - - X -
+               VALUE - - - - O -
+             PACKAGE - - - - O -
+            PRIORITY - - - - X -
+                 FUN - - - - - O

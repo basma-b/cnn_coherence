@@ -1,0 +1,14 @@
+                FILE O O - -
+             NEWFILE X - - -
+                  MV - S - -
+          /ETC/A.TXT - S - -
+          /ETC/B.TXT - X - -
+                TYPE - X - -
+          A.TXT.BACK - X - -
+               LSPCI - - - X
+                -NNK - - - X
+                   | - - - X
+                GREP - - - X
+                 VGA - - - X
+                  -I - - - X
+              KERNEL - - - X

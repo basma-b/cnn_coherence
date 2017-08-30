@@ -1,0 +1,21 @@
+               SETUP X - - - -
+              IPMASQ O - - - -
+                 BOX X - - - -
+               CABLE X - - - -
+               MODEM O - - - -
+             WINDOWS X - - - -
+                ETH1 X - - - -
+                DHCP - S - - -
+                WORK - O - - -
+           COMPUTERS - S - - -
+               OTHER - O - - -
+              WINBOX - S - - -
+               WORLD - O - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - S - -
+             ANYBODY - - O - -
+              CONFIG - - - X -
+            SOLUTION - - - S -
+                 SET - - - X -
+                THAT - - - - S
+               THING - - - - O
+             SOMEONE - - - - S

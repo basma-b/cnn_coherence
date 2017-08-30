@@ -1,0 +1,14 @@
+             POSTFIX O - - - - - -
+                 RUN O - - - - - -
+             PACKAGE - O - - - - -
+                THIS - - S - - - -
+              OUTPUT - - O - - - -
+                EHLO - - X - - - -
+                MAIL - - X - - - -
+              SERVER - - X - - - -
+               HTTPS - - O - - - -
+//GIST.GITHUB.COM/3730109 - - O - - - -
+                INFO - - X - - - -
+               ERROR - - X - - - -
+        AUTO-CORRECT - - - - X - -
+           INSTALLER - - - - - - X

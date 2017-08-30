@@ -1,0 +1,13 @@
+             COMMAND X - - -
+          AUTOREMOVE X - - -
+             PACKAGE O - - -
+                 ALL X - - -
+        DEPENDENCIES O - - -
+              CONFIG X - - -
+                FILE O - - O
+                 ANY X - - -
+             MACHINE - - X -
+                 GUI - - X -
+                THIS - - - S
+               SETUP - - - X
+~/.CONFIG/DELUGE/AUTH - - - X

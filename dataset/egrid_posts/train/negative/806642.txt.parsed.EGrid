@@ -1,0 +1,16 @@
+                GRUB - X X - - -
+          /BOOT/GRUB - - X - - -
+              UBUNTU - - O - - -
+            /DEV/SDB - - O - - -
+                DISK - - O - - -
+              SYSTEM - - O - - -
+               /GRUB - - X - - -
+              RESCUE - - - X - -
+                   > - - - O - -
+                BOOT - - - X - -
+                 HDD - - - X - -
+               HTTPS - - - - O -
+              METHOD - - - - X -
+                   % - - - - X -
+            20CHROOT - - - - S -
+            ANYTHING - - - - - O

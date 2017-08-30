@@ -1,0 +1,14 @@
+               SOUND X - - - - -
+                CARD X - X - - -
+                NAME - O - - - -
+              DRIVER - X - X - -
+                 CAT - - X - X -
+  /PROC/ASOUND/CARDS - - S - - -
+             PRIMARY - - - X - -
+/PROC/ASOUND/MODULES - - - - O -
+                THIS - - - - - S
+             PACKAGE - - - - - S
+               ISSUE - - - - - X
+              GENTOO - - - - - X
+             LIBVIRT - - - - - S
+                 BUG - - - - - O

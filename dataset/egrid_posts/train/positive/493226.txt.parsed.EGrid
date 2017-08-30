@@ -1,0 +1,24 @@
+               SETUP X - - - -
+             MACHINE S - - - -
+              APACHE X - - - -
+                ROOT X - - - -
+            PASSWORD X X - - -
+                 USE X - - - -
+              VISUDO X - - - -
+                  .. O - - - -
+                   % - X - - -
+               JASON - X - - X
+ALL=/OPT/LAMPP/LAMPP - S - - -
+                .ETC - O - - -
+                SUDO - X - - -
+              ANYONE - - S - -
+          EXPERIENCE - - O - -
+             SUDOERS - - X O -
+             COMMAND - - - O -
+            NOPASSWD - - - X -
+                DONT - - - S -
+                 MAN - - - X -
+                PAGE - - - X -
+                OPPS - - - - S
+        ALL=NOPASSWD - - - - O
+    /OPT/LAMPP/LAMPP - - - - S

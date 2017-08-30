@@ -1,0 +1,16 @@
+            PRIORITY X O - -
+        APPLICATIONS X - - -
+            STANDARD X - - -
+              SYSTEM - X - -
+             MONITOR - X - -
+               CLICK - X - -
+         PERMISSIONS - S - -
+                SUDO - - - S
+                ROOT - - - O
+               SONY/ - - - X
+                  .. - - - X
+               ERROR - - - O
+           OWNERSHIP - - - O
+           OPERATION - - - S
+                FILE - - - X
+           DIRECTORY - - - X

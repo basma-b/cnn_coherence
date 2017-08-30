@@ -1,0 +1,13 @@
+                SFTP S - - -
+              VOLUME O - - -
+                 USE O - - -
+               MOUNT - X X -
+               POINT - X - -
+          FILESYSTEM - X - -
+             COMMAND - - S -
+             NOTHING - - O -
+              FOLDER - - X -
+   /ETC/DEFAULT/GRUB - - - O
+              SPLASH - - - O
+                SUDO - - - X
+         UPDATE-GRUB - - - O

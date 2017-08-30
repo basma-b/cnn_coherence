@@ -1,0 +1,21 @@
+                BOOT X - - - X - - - - -
+             PROCESS S - - - - - - - - -
+            RUNLEVEL O - - - - X - - - -
+/ETC/INIT.D/CRYPTDISKS S - - - - - - - - -
+                WORK O - - - - - - - - -
+          PASSPHRASE X X X - X - - - - -
+              DIALOG - X - - - - - - - -
+              BOOTUP - X - - - - - - - -
+               THERE - - S - - - - - - -
+               ERROR - - X - X - - - - -
+              SCRIPT - - - - S - - - - -
+              FINISH - - - - S - - - - -
+                SAME - - - - - O - - - -
+                IDEA - - - - - - X - - -
+                SUDO - - - - - - - X - -
+                   * - - - - - - - S - -
+                ROOT - - - - - - - X - -
+     ./ETC/INIT.D/CR - - - - - - - - O -
+                THAT - - - - - - - - - S
+            SYMLINKS - - - - - - - - - O
+               POINT - - - - - - - - - O

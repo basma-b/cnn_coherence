@@ -1,0 +1,16 @@
+                HELP O - - - -
+                DISK X - - - -
+           PARTITION X - - - -
+                 HDD X O - - -
+         /MEDIA/SDA1 X - - - -
+         /MEDIA/SDB1 O - - - -
+                BOTH S - - - -
+            PRIORITY X - - - -
+                 ONE - X - - X
+             PARTION - S - - -
+               DRIVE - X - - O
+               SETUP - X - - -
+                HDDS - - X - -
+                   M - - - - S
+              SYSTEM - - - - S
+                SDB1 - - - - O

@@ -1,0 +1,24 @@
+           INSTALLER S - - - - - - - - - -
+                GRUB O - - - - - - - - - -
+               DISCS X - - - - - - - - - -
+               MDADM - S - - - - - - - - -
+                 TOP - X - - - - - - - - -
+             /DEV/SD - - X - - - - - - - -
+                   D - - X - - - - - - - -
+/USR/SBIN/GRUB-SETUP - - X - - - - - - - -
+                WARN - - X - - - - - - - -
+            CORE.IMG - - S - - - - - - - -
+               EMBED - - - S - - - - - - -
+                AREA - - - X - - - - - - -
+               ERROR - - - X - - - - - - -
+                THIS - - - S - - - - - - -
+                ROOT - - - X - - - - - - -
+              DEVICE - - - S - - - - - - -
+                RAID - - - X - - - - - - -
+               ARRAY - - - X - - - - - - -
+              VOLUME - - - X - - - - - - -
+                IDEA - - - - X - - - - - -
+                 EFI - - - - - O - X - - -
+               APPLE - - - - - - - - X - -
+            COMPUTER - - - - - - - - X - -
+               10.10 - - - - - - - - - - X

@@ -1,0 +1,15 @@
+                LINE S -
+              SOURCE X -
+                LIST X -
+/ETC/APT/SOURCES.LIST.D/EDGY-UNIVERSE.LIST X -
+                DIST X -
+               PARSE X -
+               WHATS X -
+                THIS S -
+                CANT X -
+/ETC/APT/SOURCES.LIST.D/EDGY-UNIVERSE X -
+                HTTP O -
+//PASTEBIN.COM/826619 X -
+                  .. - S
+         RECONFIGURE - X
+            SYNAPTIC - X

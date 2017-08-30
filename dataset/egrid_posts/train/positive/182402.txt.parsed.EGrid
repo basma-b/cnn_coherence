@@ -1,0 +1,11 @@
+                 GUY S - -
+                 USB X X -
+            ANYTHING - O -
+       /PROC/BUS/USB - S -
+                NONE - X -
+            USBDEVFS - S -
+               FSTAB - X -
+             SUCCESS - S -
+   /VAR/LOG/MESSAGES - O O
+              SYSTEM - S -
+              CHANGE - - X

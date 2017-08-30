@@ -1,0 +1,14 @@
+             MACHINE O - - - -
+             TELINIT - S - - -
+             NOTHING - X - - -
+                 GUI - O - - -
+        SYSV-RC-CONF - S - - -
+          RUNLEVELES - X - - -
+                THIS - S - - -
+             SERVICE - O - - -
+                 RAM - S - - -
+                  -M - - X - -
+             ACCOUNT - - O - -
+               CACHE - - X - -
+              MEMORY - - X - -
+                   ^ - - - - X

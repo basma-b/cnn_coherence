@@ -1,0 +1,24 @@
+              ERRORS O - - - - - - - -
+               THING O - - - - - - - -
+             UPGRADE X - - - - - - - -
+              REMOVE X - - - - - - - -
+           OPERATION - - X - - - - - -
+                  0B - - S - - - - - -
+                DISK - - X - - - - - -
+               SPACE - - X - - - - - -
+                 USE - - O - - - - - -
+2.4.9-0UBUNTU0.8.04.1 - - - X - - - - -
+                  .. - - - X - O - - -
+/ETC/LDAP/SLAPD.CONF - - - - X - - - -
+/VAR/BACKUPS/SLAPD-2.4.9-0UBUNTU0.8.04 - - - - X - - - -
+                DPKG - - - - - X - - -
+                  -A - - - - - O - - -
+             PROBLEM - - - - - S - - -
+          AUTOREMOVE - - - - - X - - -
+              OUTPUT - - - - - - X - X
+                CANT - - - - - - - - X
+               PASTE - - - - - - - - S
+                 WAY - - - - - - - - O
+                EVEN - - - - - - - - S
+               SOUND - - - - - - - - X
+                CARD - - - - - - - - O

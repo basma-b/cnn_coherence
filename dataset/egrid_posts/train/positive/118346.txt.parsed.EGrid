@@ -1,0 +1,12 @@
+                 -RF X - - - - -
+ /HOME/NAME/DESKTOP/ X - - - - -
+           /DEV/HDB1 X - S - - -
+              DEVICE - - O - - -
+               MOUNT - - - X - -
+          FILESYSTEM - - - O - -
+               POINT - - - X - -
+               CHECK - - - - - X
+                   | - - - - - X
+                GREP - - - - - X
+                HDB1 - - - - - O
+                MIND - - - - - S

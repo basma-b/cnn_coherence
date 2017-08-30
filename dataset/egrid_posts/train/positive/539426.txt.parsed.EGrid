@@ -1,0 +1,10 @@
+           ARGUMENTS O - - - - - -
+                GRUB X - - - - - -
+          PARAMETERS - X - - - - -
+       LDAP+DHCP+DNS - X - - - - -
+              SERVER - X - - - - -
+                ETH0 - - S - - - -
+                ETH1 - - - X X - -
+                 IRQ - - - - O - -
+              KERNEL - - - - X - -
+UBUNTU-CLASSROOM-CHAT - - - - - - X

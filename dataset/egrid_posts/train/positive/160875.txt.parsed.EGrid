@@ -1,0 +1,10 @@
+              SCRITP O - - - - - - -
+      WPA_SUPPLICANT O - O - - - - -
+              LAPTOP - - X - - - - -
+          INITSCRIPT - - O - - - - -
+       GNOME-SESSION - - - X - - - -
+              DAEMON - - - - O - - -
+             STANZAS - - - - - O - -
+/ETC/NETWORK/INTERFACES - - - - - X - -
+          INTERFACES - - - - - - - S
+            NMANAGER - - - - - - - X

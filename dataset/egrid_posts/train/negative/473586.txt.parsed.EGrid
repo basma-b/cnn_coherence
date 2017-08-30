@@ -1,0 +1,9 @@
+              NOAPIC - - S - - -
+              KERNEL - - O - - -
+                 USE - - O - - -
+I/O_ADVANCED_PROGRAMMABLE_INTERRUPT_CONTROLLERS - - X - - -
+             IOAPICS - - X - - -
+              SYSTEM - - X - - -
+           SOMETHING - - - - X -
+                THIS - - - - X -
+       USERNAME=USER - - - - - X

@@ -1,0 +1,7 @@
+           WRITEABLE X - - -
+               USERS X - - -
+                NTFS - O - -
+               FAT32 - O S -
+                  RW - - X -
+          /ETC/FSTAB - - O -
+                SURE - - - X

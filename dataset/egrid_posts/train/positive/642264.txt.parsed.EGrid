@@ -1,0 +1,12 @@
+          FILESYSTEM O - - -
+                DISK X - - -
+                FILE X - S X
+                NTFS X - X -
+                EXT4 X - - -
+         PERMISSIONS - - S O
+               LINUX - - X -
+              SYSTEM - - O -
+          PERMISSION - - O -
+                   * - - X -
+            NAUTILUS - - - X
+              FOLDER - - - X

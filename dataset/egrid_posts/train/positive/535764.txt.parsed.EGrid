@@ -1,0 +1,12 @@
+             ANYBODY X - - -
+                MOST - - - X
+                 BUG - - - X
+              REPORT - - - O
+         SUGGESTIONS - - - X
+           INSTALLER - - - S
+              DRIVER - - - X
+             PACKAGE - - - X
+                LINE - - - O
+          VERSIONS.H - - - X
+              EXPORT - - - X
+IGNORE_HEADER_MISMATCH=1 - - - X

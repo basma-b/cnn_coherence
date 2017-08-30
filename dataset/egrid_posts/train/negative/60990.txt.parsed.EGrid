@@ -1,0 +1,16 @@
+            QUESTION O - - -
+           SOMETHING X - - -
+              SCRIPT X - - -
+                TEXT - X - -
+              EDITOR - O - -
+                SORT - X - -
+            FILETYPE - X - -
+                 ONE - - - O
+                 BOX - - - X
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - - O
+             ENTRIES - - - O
+                ETH0 - - - X
+             CHANGES - - - S
+                FILE - - - X
+              EFFECT - - - O
+                UDEV - - - O

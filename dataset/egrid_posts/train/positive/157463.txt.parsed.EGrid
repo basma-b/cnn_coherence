@@ -1,0 +1,14 @@
+             DEFAULT S - - - - - -
+              ACCORD X - - - - - -
+             MANPAGE X - - - - - -
+           BEHAVIOUR - X - - - - -
+                NTFS - X - S - - -
+                HMMM - - S - - - -
+                MASK - - X - - - -
+                PERM - - S X - - -
+           R-XR-XR-X - - X - - - -
+                 R-X - - - X - - -
+              ACCESS - - - - O - O
+                USER - - - - X - X
+          UMASK=0227 - - - - - X -
+           INTENTION - - - - - - S

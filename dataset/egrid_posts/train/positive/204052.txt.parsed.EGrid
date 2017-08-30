@@ -1,0 +1,22 @@
+                HELP X - - - - -
+               SOUND X - - - - -
+                CARD O - - - - -
+              OUTPUT - - X - - -
+/PROC/ASOUND/OSS/SNDSTAT - - X - - -
+                   $ - - - X - -
+                 CAT - - - X - -
+/PROC/VERSION_SIGNATURE - - - S - -
+                  -R - - - X - -
+               |GREP - - - X - -
+             ^II|AWK - - - X - -
+               PRINT - - - X - -
+              UPDATE - - - O - -
+                 YEP - - - X - -
+                MUCH - - - O - -
+               INTEL - - - - - X
+         CORPORATION - - - - - X
+              82801G - - - - - X
+                ICH7 - - - - - X
+              FAMILY - - - - - X
+          DEFINITION - - - - - X
+          CONTROLLER - - - - - X

@@ -1,0 +1,16 @@
+           PARTITION O O - - - - -
+               DRIVE X X X - - - -
+               IMAGE X X - - - - -
+                   A - X X - - - -
+                  DD - X X - - - -
+         IF=/DEV/SDB - X X - - - -
+         OF=FILENAME - O O - - - -
+                THIS - - - O - - -
+                VFAT - - - O - - -
+                HTTP - - - X - - -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - - - X - - -
+           T=1000644 - - - - X - -
+            IFCONFIG - - - - - S -
+                SUDO - - - - - - X
+            MODPROBE - - - - - - X
+                  .. - - - - - - O

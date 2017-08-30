@@ -1,0 +1,13 @@
+                DIRS X - S
+               CHOWN - X -
+                 WAY - S -
+           DIRECTORY - O -
+                  .. - - X
+              BACKUP - - O
+                HOME - - X
+                 DIR - - X
+              FEISTY - - X
+                FILE - - O
+                  EM - - O
+                USER - - X
+                 DOT - - X

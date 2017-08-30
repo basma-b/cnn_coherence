@@ -1,0 +1,18 @@
+               THERE X - - - - - - -
+             PROBLEM X - - - - - - -
+               SAMBA X X X - X - - -
+             PACKAGE X - - - O - - -
+              DOESNT - S - - - - - -
+              SCRIPT - X - - - - - -
+ /ETC/INIT/SMBD.CONF - - X - - - - -
+ /ETC/INIT/NMBD.CONF - - X - - - - -
+             UPSTART - - X - - - - -
+                SYSV - - X - - - - -
+              SAMBA4 - - X - O - - -
+            QUESTION - - - O - - - -
+             COMMAND - - - - X X - -
+                 MAN - - - - - - X -
+INITCTL/START/STOP/RESTART - - - - - - O -
+                   < - - - - - - - X
+              METBSD - - - - - - - S
+                  OS - - - - - - - O

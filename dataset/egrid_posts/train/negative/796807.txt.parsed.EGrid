@@ -1,0 +1,14 @@
+               10.10 O - - -
+                CORE X - - -
+                  I3 X - - -
+            ACPI=OFF O - - -
+                  CD X - - -
+              REPAIR X - - -
+               BREAK S - - -
+                SUDO X - - -
+             APT-GET S - - -
+               GNOME S O S -
+            SYNAPTIC - X - -
+                   U - - S -
+               GHOST - - - X
+                   < - - - S

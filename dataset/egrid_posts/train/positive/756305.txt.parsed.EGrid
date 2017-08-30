@@ -1,0 +1,16 @@
+               ENTRY O - - - - - - - -
+                MENU O - - - - - - - -
+              KERNEL X - - X - - X - -
+           PARAMETER O - - O - - - - -
+                THIS - X - - - - - - -
+               10.04 - X - - - - - - -
+                LINE - - X - - - - - X
+   /ETC/DEFAULT/GRUB - - X - - - - - -
+                SUDO - - X - - - - - X
+         UPDATE-GRUB - - X - - - - - O
+                THAT - - - - - O - - -
+                 USE - - - - - S - - -
+           FSPROTECT - - - - - - X - -
+              OPTION - - - - - - X - -
+                   ' - - - - - - - - S
+ GRUB_CMDLINE_LINUX= - - - - - - - - X

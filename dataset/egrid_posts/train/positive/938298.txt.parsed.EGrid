@@ -1,0 +1,12 @@
+        ALTERNATIVES X - - -
+        INSTALLATION X - - -
+                  CD X - O -
+                BOOT - X - -
+               CDROM - X - -
+                 NFS - X S O
+                BASE - O - -
+                TYPE - X - -
+              SERVER - X - -
+                  1X - - X -
+              OPTION - - O -
+               FSTAB - - - O

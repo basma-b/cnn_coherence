@@ -1,0 +1,20 @@
+            /DEV/SDA - X - - - - - -
+/USR/SBIN/GRUB-INSTALL - O - - - - - -
+   GRUB-INSTALL.REAL - X - - - - - -
+             PACKAGE - S - - - - - -
+           PARTITION - X - - - O - -
+              UBUNTU - X - - - - - -
+                OOPS - X - - - - - -
+           /DEV/SDA7 - O - - - S - -
+                THAT - - - - - S - -
+                EXT4 - - - - - X - -
+                BOOT - - - - - X - -
+              LIVECD - - - - - X - -
+                BIND - - - - - O - -
+               /PROC - - - - - X - -
+                /SYS - - - - - S - -
+               CHECK - - - - - O - -
+              NORMAL - - - - - O - -
+                 SDA - - - - - X - -
+              NUMBER - - - - - - X -
+                   K - - - - - - - X

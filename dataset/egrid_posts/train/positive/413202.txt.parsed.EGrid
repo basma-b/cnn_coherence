@@ -1,0 +1,17 @@
+                THAT S - -
+               RIGHT X - -
+                USER X - -
+                READ O - -
+                HOME X - -
+                 DIR O - -
+           DIRECTORY O - -
+              SYSTEM X - -
+               CHMOD X - -
+               -WX+R X - -
+              FOOBAR X - -
+              O-WX+R - - O
+              OTHERS - - X
+               GROUP - - O
+                FILE - - S
+           SOMETHING - - O
+               O-RWX - - X

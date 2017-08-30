@@ -1,0 +1,25 @@
+              ANYONE X - - - - -
+           DIRECTION X - - - - -
+                TYPE X - - - - -
+            DOCUMENT X - - - - -
+             NETWORK X - - - - -
+          INTERFACES O - - - - -
+              BRIDGE X - - - - -
+                HOST S - - - - -
+                  IP X - - - - -
+             ADDRESS O - - - - -
+               VLANS X - - - - -
+            HOSTNAME - - - X O -
+                   ^ - - - O - -
+                FILE - - - X - -
+              CHANCE - - - X - -
+    /ETC/RESOLV.CONF - - - - X -
+              SYSTEM - - - - S S
+           127.0.0.1 - - - - X X
+               ENTRY - - - - O -
+          /ETC/HOSTS - - - - X -
+LOCALHOST.LOCALDOMAIN - - - - - X
+           LOCALHOST - - - - - S
+J35739.SERVERS.JIFFYBOX.NET - - - - - X
+              J35739 - - - - - X
+                 LOT - - - - - O

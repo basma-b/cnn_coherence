@@ -1,0 +1,17 @@
+            SHUTDOWN X - - - - -
+                  -R S - - - - -
+              SYSTEM O - - - - -
+               FSTAB O - - - - -
+               USERS S - - - - -
+                VFAT X X - - - -
+           PARTITION O - - - - -
+              DOESNT - S - - - -
+                USER - S - - - -
+                  RW - X - - - -
+          UMASK=0000 - O - - - -
+              OPTION - X - - - -
+         /MEDIA/HDB3 - - S - - -
+              NOAUTO - - S - - -
+                LIST - - X - - -
+      INITIALIZATION - - - X - -
+                YEAH - - - - - X

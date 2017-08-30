@@ -1,0 +1,25 @@
+          DOMAIN.COM S - - - - -
+        DOCUMENTROOT O S - - - -
+/VAR/WWW/MYDOMAIN.COM X - - - - -
+          SERVERNAME X X - - - -
+        MYDOMAIN.COM O - - - - -
+/ETC/APACHE2/SITES-ENABLED/000-DEFAULT - X - - - -
+                HTTP - S - - - -
+//RAFB.NET/PASTE/RESULTS/X2WMRM62.HTML - X - - - -
+/ETC/APACHE2/SITES-ENABLED/MYDOMAIN.COM - X - - - -
+//RAFB.NET/PASTE/RESULTS/T1WYUN73.HTML - S - - - -
+           DIRECTIVE - S - - - -
+              APACHE - O - O - -
+         VIRTUALHOST - S - - - -
+               THERE - X - - - -
+                SOME - S - - - -
+             ALIASES - O - - - -
+               PLACE - X - - - -
+                CASE - X - - - -
+         SERVERALIAS - O - - - -
+               WRONG - O - - - -
+               CHECK - - S - - -
+          CONFIGTEST - - O - - -
+             APACHE1 - - O - - -
+              CONFIG - - O - - -
+             ALRIGHT - - - - - X

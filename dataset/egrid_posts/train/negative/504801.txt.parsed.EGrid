@@ -1,0 +1,27 @@
+                 ONE S - - - - - - - - -
+          LIBNM-GLIB S - - - - - - - - -
+                SHOW - S - - - - - - - -
+             LIBRARY - O - - - - - - - -
+        APPLICATIONS - S - - - - - - - -
+          CONNECTION - X - - - - - - - -
+              STATUS - O - - - - - - - -
+      NETWORKMANAGER - X - - - - - - - -
+             PROBLEM - - - S - - - - - -
+              SOURCE - - - X - X - - O -
+                CODE - - - O - - - - - -
+            TINYMAIL - - - - X - - - - -
+              SYSTEM - - - - X - - - - -
+                DOSE - - - - X - - - - -
+             PACKAGE - - - - O - - - - -
+        REPOSITORIES - - - - - S - - - -
+             WEBSITE - - - - - O - - - -
+KEYWORDS=LIBNM-GLIB0 - - - - - - X - - -
+      SEARCHON=NAMES - - - - - - X - - -
+           SUITE=ALL - - - - - - X - - -
+         SECTION=ALL - - - - - - S - - -
+               CLICK - - - - - - - - X -
+             VERSION - - - - - - - - X -
+               THERE - - - - - - - - S -
+                LINK - - - - - - - - O -
+                SIDE - - - - - - - - X -
+                ONES - - - - - - - - - X

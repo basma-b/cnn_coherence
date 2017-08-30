@@ -1,0 +1,25 @@
+         PERMISSIONS X O - - - - - -
+              FOLDER X X - - - - - -
+                FILE O O - - S - - -
+            SOMEBODY - X - - - - - -
+           DIRECTORY - - X - X - - -
+COUF/.WINE/DOSDEVICES/Z - - - X - - - -
+              /LIB32 - - - X X - - -
+                PATH - - - O - - - -
+               WHERE - - - X - - - -
+                  .. - - - - X - - X
+               .WINE - - - - S - - -
+               CHILD - - - - O - - -
+            SOMEONES - - - - X - - -
+                HOME - - - - X - - -
+HOME/.WINE/DOSDEVICES/Z - - - - O - - -
+               CHOWN - - - - X S - -
+                SUDO - - - - X X - -
+    /HOME/COUF/.WINE - - - - X X - -
+                  -R - - - - X O - -
+          PERMISSION - - - - - S - -
+            TERMINAL - - - - - X - -
+              ERRORS - - - - - O - -
+               TOUCH - - - - - - - X
+/HOME/COUF/.WINE/SOMEFILE - - - - - - - X
+                WORK - - - - - - - O

@@ -1,0 +1,12 @@
+             COMMAND O - - - -
+                COPY X - - - -
+           PARTITION X - - - -
+                  DD X - - - -
+               WHOLE - S - - -
+                DONT - S - - -
+                  .. - O - - -
+                 LOL - X - - -
+              FORMAT - - X - -
+                DISK - - X - -
+                 CLI - - X - -
+              DEVICE - - - - S

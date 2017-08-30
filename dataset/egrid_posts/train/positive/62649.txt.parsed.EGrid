@@ -1,0 +1,27 @@
+               HTTPS X - - - - -
+//WIKI.UBUNTU.COM/HARDWARESUPPORTCOMPONENTSWIRELESSNETWORKCARDS S - - - - -
+              D-LINK X - - - - -
+            DWL-G520 X - - - - -
+             CHIPSET - O - - - -
+                BITE - X - - - -
+             MACHINE - X - - - -
+             MADWIFI - - X - - -
+                 CVS - - X - - -
+           SHARUTILS - - O - - -
+              TRICKY - - O - - -
+         ENVIRONMENT - - X X - -
+                VARS - - S S - -
+                  TA - - - - X -
+              EXPORT - - - - X -
+          KERNELPATH - - - - X -
+       KERNELVERSION - - - - O -
+               BUILD - - - - X -
+              SYSTEM - - - - S -
+              KERNEL - - - - X O
+             COMMAND - - - - O -
+             TARGET= - - - - O -
+          X86_64-ELF - - - - O -
+         TOOLPREFIX= - - - - O -
+                THIS - - - - - S
+                  AL - - - - - X
+                 AIR - - - - - O

@@ -1,0 +1,14 @@
+              DRIVER X O O -
+            WIRELESS X - X X
+                CARD S X - -
+                 USE O S - -
+              KISMET - X - -
+              SOURCE - X - -
+                TYPE - X - -
+                 ONE - X - -
+         DESCRIPTION - - - X
+       CONFIGURATION - - - X
+       BROADCAST=YES - - - X
+       MULTICAST=YES - - - S
+           802.11ABG - - - X
+              SCROLL - - - O

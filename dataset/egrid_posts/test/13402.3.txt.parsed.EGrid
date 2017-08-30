@@ -1,0 +1,13 @@
+               12.10 S - - - - - - -
+             STUTTER X - - - - - - -
+             KWORKER - - - X - - - -
+             PROCESS - - - S - - - -
+                 CPU - - - O - - - -
+               THERE - - - S - - - -
+                 TOP - - - S - - - -
+         APPLICATION - - - O - - - -
+              THREAD - - - X - - - -
+                DISK - - - - S - - -
+        APPLICATIONS - - - - S - - -
+             APT-GET - - - - - - X X
+             APACHE2 - - - - - - - X

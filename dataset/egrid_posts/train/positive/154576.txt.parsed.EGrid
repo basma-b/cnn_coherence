@@ -1,0 +1,14 @@
+           LILO.CONF O - - -
+                LILO O - X -
+              ERRORS X - - -
+       /PROC/DEVICES X - - -
+                  .. O - X -
+           ROOT/SUDO X - - -
+                BOOT - X - -
+                  CD - O - -
+            RECOVERY - X - -
+                MODE - O - -
+                ROOT - X - -
+           PARTITION - O - -
+                GRUB - - O -
+                  -/ - - - X

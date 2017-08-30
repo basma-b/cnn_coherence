@@ -1,0 +1,16 @@
+             COMMAND X - -
+           SOMETHING X - -
+              REMOVE O - -
+            SYNAPTIC - X -
+             APT-GET - S -
+         PACKAGENAME - X -
+                   > - O -
+                   C - - X
+                TYPE - - X
+                ROOT - - X
+                  HD - - X
+              KERNEL - - X
+            /VMLINUZ - - S
+         /INITRD.IMG - - X
+                BOOT - - S
+              INSTAL - - O

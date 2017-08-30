@@ -1,0 +1,21 @@
+                 ALL O - - - - -
+             PACKAGE X - - - - O
+                MOVE S - - - - -
+                HOME X - X - - -
+                  .. O - - - - -
+             EXAMPLE X - - - - -
+          POSTGRESQL X - - - - -
+               MYSQL O - - - - -
+                 APT X - - - - -
+          DEPENDENCY X X - - - -
+              PAKAGE - X - - - -
+              SYSTEM - O - - - -
+              OPTION - - S - - -
+                COPY - - X - - -
+                DEBS - - O - - -
+/VAR/CACHE/APT/ARCHIVES - - X - - -
+              DEBIAN - - S - - -
+               THERE - - S - - -
+                 WAY - - O - - -
+             APT-GET - - - - - X
+             DEFAULT - - - - - X

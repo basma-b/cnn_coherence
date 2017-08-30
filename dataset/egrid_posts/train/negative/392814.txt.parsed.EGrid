@@ -1,0 +1,20 @@
+             APACHE2 X - - - - - - -
+              SERVER O - - - - - - -
+           LOCALHOST X - - - - - - -
+                 URL X - - - - - - -
+                 BAR X - - - - - - -
+                HTTP - X - - - - - -
+             PROBLEM - X - O - - - -
+             SERVICE - - X S - - - -
+                  .. - - - X - - - -
+                  PS - - - X - - - -
+                   | - - - X - - - -
+                GREP - - - X - - - -
+              APACHE - - - S - - - -
+               ERROR - - - - - X - -
+                 LOG - - - - - X - -
+                CLUE - - - - - X - -
+/VAR/LOG/APACHE2/ERROR.LOG - - - - - - X -
+              FOLDER - - - - - - - O
+              /MEDIA - - - - - - - X
+   /MEDIA/FOLDERNAME - - - - - - - O

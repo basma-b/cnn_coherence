@@ -1,0 +1,26 @@
+                HELP O - - - - - - - -
+               ISTAT - X - X - - - X -
+              SERVER - O - - - - - - -
+              MEMBER - X - - - - - - -
+              DISTRO - X - - - - - - -
+              DAEMON - - O - - - - - O
+          EXECUTABLE - - X S - - - - -
+     /VAR/RUN/ISTAT/ - - O - - - - - -
+                FILE - - O - - - - - -
+              ONLINE - - - X - - - - -
+                USER - - - X - - - X -
+        INSTRUCTIONS - - - X - - - - -
+           DIRECTORY - - - O - - - - -
+                SUDO - - - O - - X - -
+               CHOWN - - - S - - - - -
+              ISTATD - - - - O - - - -
+                   F - - - - X - - - -
+/VAR/RUN/ISTAT/ISTATD.PID - - - - O - - - -
+          PERMISSION - - - - S - - - -
+               IDEAS - - - - - X - - -
+             COMMAND - - - - - - O - -
+                IDEA - - - - - - - S -
+              FOLDER - - - - - - - S -
+                CASE - - - - - - - O -
+                TIME - - - - - - - - X
+                ROOT - - - - - - - - S

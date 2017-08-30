@@ -1,0 +1,16 @@
+             DESKTOP - X - - - - - - -
+                 RUN - S - - - - - - -
+              SERVER - X - - - - - - -
+                BOOT - X S - - X - - -
+             DISPLAY - - X - - - - - -
+              SCRIPT - - O - - - - - -
+       /ETC/RC.LOCAL - - X - - - - - -
+              UBUNTU - - - - S O - - -
+                THIS - - - - X - - - -
+               ERROR - - - - X - - - -
+                  .. - - - - O - - - -
+/ETC/RC2.D/S20POWERNOWD - - - - S - - - -
+/SYS/DEVICES/SYSTEM/CPU/CPU0//CPUFREQ/SCALING_GOVERNOR - - - - O - - - -
+           DIRECTORY - - - - S - - - -
+               GUESS - - - - - - X - -
+                 CPU - - - - - - O - -

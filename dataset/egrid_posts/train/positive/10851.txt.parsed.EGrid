@@ -1,0 +1,14 @@
+                 GDM S X - S
+               THING S - - -
+               LOGIN X - - -
+            RUNLEVEL O O - -
+        /ETC/INITTAB X - - -
+      STARTUP-SCRIPT X - - -
+              LAUNCH X - - -
+             DEFAULT - X - -
+             DISABLE - X - -
+             APT-GET - S - -
+              RMEOVE - X - -
+              STARTX - O - -
+                  .. - O - -
+              REASON - - - X

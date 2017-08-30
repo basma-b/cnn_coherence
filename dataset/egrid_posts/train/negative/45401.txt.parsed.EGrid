@@ -1,0 +1,10 @@
+            FIREWALL X - -
+              ROUTER - X -
+                PORT - O -
+            KDESTROY - - O
+                FILE - - O
+                HOME - - X
+           DIRECTORY - - X
+                  .. - - X
+            SHUTDOWN - - X
+              LOGOUT - - X

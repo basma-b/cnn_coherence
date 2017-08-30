@@ -1,0 +1,16 @@
+                9.10 - O - - -
+               SETUP - X - - -
+              REBOOT - X - - -
+               GRUB2 - S - - -
+           PARTITION - O - - -
+           INITRAMFS - X X - -
+            POINTERS - O - - -
+                THAT - - S - -
+            FAKERAID - - O - -
+             PROBLEM - - S - -
+              KERNEL - - O - -
+              REASON - - X - -
+                 USE - - X - -
+            SOFTWARE - - X - -
+                RAID - - O - -
+              MOMENT - - - - S

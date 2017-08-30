@@ -1,0 +1,25 @@
+              UBUNTU O - - - - - - -
+           /DEV/SDA5 X - - - - - - -
+            QUESTION - S - - - - - -
+            /DEV/SDA - S - - - - - -
+               GRUB2 - O - - - - - -
+                 MBR - X - - - X - -
+             STARTUP - - - X - - - -
+/DEV/SDA5/BOOT/GRUB/GRUB.CFG - - - - X - - -
+        GRUB-INSTALL - - - - - O - -
+                PART - - - - - S - -
+                GRUB - - - - - X - X
+         INFORMATION - - - - - O - -
+            BOOT.IMG - - - - - O - -
+               STAGE - - - - - O - -
+        BOOT-PROCESS - - - - - X - -
+                 MAN - - - - - - X -
+  BOOT-DIRECTORY=DIR - - - - - - X -
+      BOOT-DIRECTORY - - - - - - S X
+                LIST - - - - - - O -
+                HELP - - - - - - X -
+          1.99~RC1-3 - - - - - - - X
+              DEBIAN - - - - - - - X
+                 SID - - - - - - - X
+              OPTION - - - - - - - X
+               GRUB1 - - - - - - - X

@@ -1,0 +1,16 @@
+                FSCK O - - - - - - - - - -
+               ERROR - S - - - - - - - - -
+                GRUB - X - - - - - - - - -
+                DIDI - - X - - - - - - - -
+               MOUNT - - X - - - - - - - -
+          FILESYSTEM - - X - - - - - - - -
+           PARTITION - - - - X - - - S - -
+                DATA - - - - O - - - O - -
+           PREVIOUES - - - - X - - - - - -
+             PROBLEM - - - - - S - - - - -
+                 ONE - - - - - O - - - - -
+                HDA3 - - - - - - X - - - -
+             NOTHING - - - - - - O - - - -
+                  PT - - - - - - - - S - -
+                THIS - - - - - - - - S - -
+                LUCK - - - - - - - - - X -

@@ -1,0 +1,15 @@
+  GSTREAM-PROPERTIES S - - - -
+                TOOL O - - - -
+               SOUND X - - - -
+              SYSTEM O - - - -
+                 USE X - - - -
+               GNOME X - - - -
+        POSSIBILITIY S - - - -
+           SOUNDCHIP X - - - -
+                  .. O - - - -
+              DRIVER S - - - X
+                ALSA - X - - -
+                 OSS - X - - -
+              ESOUND - X - - -
+             DEFAULT - O - - -
+                THAT - - - O -

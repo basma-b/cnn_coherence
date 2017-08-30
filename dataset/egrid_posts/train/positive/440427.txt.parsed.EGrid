@@ -1,0 +1,15 @@
+                COPY X - - -
+                ROOT X - - X
+           PARTITION X - - S
+         PERMISSIONS X - - -
+          EVERYTHING S - - -
+                SUDO - X - -
+                  DD - X - -
+            IF=/DEV/ - S - -
+         OF=FILE.ISO - O - -
+                 ISO - O - -
+                THIS - S - -
+            OPPOSITE - O - -
+                 YEP - - - X
+                BOOT - - - X
+              LIVECD - - - X

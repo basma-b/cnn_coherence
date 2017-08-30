@@ -1,0 +1,22 @@
+                SUDO - X - - - - -
+               GEDIT - X - - - - -
+/ETC/DEFAULT/BOOTLOGD - X - - - - -
+  BOOTLOGD_ENABLE=NO - S - - - - -
+             CONTENT - S - - - - -
+             BOOTLOG - X - - - - -
+             NOTHING - S - - - - -
+                 LOG - O - - - - -
+             COMMAND - - X - - - -
+    VAR/LOG/MESSAGES - - X - - - -
+    VAR/LOG/KERN.LOG - - X - - - -
+                WORK - - X - - - -
+                 THX - - O - - - -
+                GRUB - - X - - - -
+               ERROR - - O - - - -
+                MEAN - - X - - - -
+               THERE - - - S - - -
+                  YA - - - - O - -
+                CANT - - - - X - -
+               STAGE - - - - O - -
+             PROBLEM - - - - O - -
+                  CD - - - - - - O

@@ -1,0 +1,9 @@
+             COMMAND X - - -
+            /DEV/HDA X - - -
+                   * O - - -
+              SYSTEM X - - -
+                BOOT O - - O
+             LIVEDVD X - - X
+                 ALL - - - S
+              TEMPFS - - - O
+                  -L - - - X

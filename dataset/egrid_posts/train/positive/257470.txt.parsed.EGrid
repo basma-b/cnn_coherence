@@ -1,0 +1,16 @@
+                  OS X - - - - - - -
+        ARCHITECTURE X - - - - - - -
+                   ' - - S - - - - -
+             PACKAGE - - X - X - X -
+                LIST - - O - - - - -
+                DPKG - - X - - - - -
+      GET-SELECTIONS - - X - - - - -
+      SET-SELECTIONS - - X - - - - -
+              SYSTEM - - X - X - - -
+             COMPILE - - - X - - - -
+              SOURCE - - - O X - - -
+           APT-BUILD - - - - X - - -
+             APT-GET - - - - - X - -
+               WORLD - - - - - - O -
+           SOMETHING - - - - - - - X
+                  K7 - - - - - - - X

@@ -1,0 +1,23 @@
+               ANYON S - -
+                 SSH O - -
+               SETUP - X -
+            SCENARIO - O -
+               ISSUE - O -
+            PROCESS/ - X -
+              OCNFIG - S -
+                FILE - S -
+                -DSA - S -
+                 KEY - O -
+                HOST - X -
+                AUTH - X -
+.SSH/AUTHORIZED_KEYS - O -
+         SSHD_CONFIG - X -
+             DEFAULT - X -
+                  OK - X -
+                PASS - X -
+                   \ - X -
+                 WAY - - S
+              KERNEL - - X
+             COMMAND - - X
+                LINE - - O
+            ARGUMENT - - O

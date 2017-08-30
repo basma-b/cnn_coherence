@@ -1,0 +1,13 @@
+                  CD - O - - - -
+               SHELL - X - - - -
+                .ISO - - X - - -
+                HTTP - - X - - -
+  CREATEISOFROMCDDVD - - S - - -
+                  DD - - X - - -
+       IF=/DEV/CDROM - - X - - -
+           OF=CD.ISO - - X - - -
+                THAT - - - - S -
+                LINK - - - - S -
+               BYTES - - - - - S
+              SECOND - - - - - X
+           BYTES/SEC - - - - - X

@@ -1,0 +1,10 @@
+              SERVER X - -
+                 TRY - X -
+                SUDO - X -
+             SERVICE - X -
+               DHCPD - S -
+                LOCK - X -
+     ISC-DHCP-SERVER - S -
+               THERE - - S
+              OUTPUT - - O
+            TERMINAL - - X

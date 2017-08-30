@@ -1,0 +1,19 @@
+            LOCATION X - - - - X - - - -
+            VMPLAYER O - - - - - - - - -
+              TAR.GZ X - - - - - - - - -
+              SCRIPT X - - - - - - - - -
+             PROGRAM X - - - - - - - - -
+             MACHINE X - - - - - - - - -
+             PACKAGE - - O - - - - - O -
+            SYNPATIC - - X - - - - - - -
+    /USR/BIN/GCC-4.0 - - O - - - - - - -
+              SUCCES - - - O - - - - - -
+                STEP - - - - X - - - - -
+           DIRECTORY - - - - - X - - - -
+                   C - - - - - X - - - -
+              HEADER - - - - - X - - - -
+                FILE - - - - - X - - - -
+                 RUN - - - - - X - - - -
+              KERNEL - - - - - O - - S -
+/USR/SRC/LINUX/INCLUDE - - - - - - S - - -
+               THANK - - - - - - - - - X

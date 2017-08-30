@@ -1,0 +1,15 @@
+                TIME X - - -
+             TUNE2FS O - - -
+                  -M S - - -
+             RESERVE X - - -
+               SPACE X - - -
+              AMOUNT O - - -
+               DRIVE X - - -
+             PERCENT X - - -
+          FILESYSTEM O - - -
+           PARTITION - S - -
+      DATA-PARTITION - O - -
+                   / - X - -
+              APACHE - - X -
+        DEPENDENCIES - - X -
+           LIBAPACHE - - - O

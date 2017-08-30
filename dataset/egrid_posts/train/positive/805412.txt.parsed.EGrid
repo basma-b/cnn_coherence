@@ -1,0 +1,16 @@
+               CHAIN X - - - - -
+            SOFTWARE X - - - - -
+                 TOP X - - - - -
+       UBUNTU-SERVER X - - - - -
+                 GDM X - - - - -
+               START X - - - - -
+                BOOT X - - - - -
+      UBUNTU-DESKTOP - - - S - -
+                FILE - - - X - -
+   /ETC/DEFAULT/GRUB - - - O - -
+GRUB_CMDLINE_LINUX_DEFAULT= - - - O - -
+              SPLASH - - - X - -
+                TEXT - - - X - -
+                SUDO - - - X - -
+         UPDATE-GRUB - - - X - -
+               THANK - - - - - X

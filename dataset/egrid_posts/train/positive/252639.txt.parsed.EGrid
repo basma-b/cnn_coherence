@@ -1,0 +1,23 @@
+           PARTITION O X - O - - -
+                 IDE X - - - - - -
+                DISK O - - - - - -
+                HDA1 X - - - - - -
+                NTFS O - - - - - -
+             WINDOWS X - - - - - -
+                HDA2 X X - - - - -
+           EXT3/SWAP X - - - - - -
+              UBUNTU X - - - - - -
+                DATA X - - - - - -
+            EXCHANGE X - - - - - -
+                  ID - X - - - - -
+             ANYBODY - - X - - - -
+                TYPE - - - O - - -
+                 REF - - - X - - -
+                HTTP - - - X - - -
+//WWW.WIN.TUE.NL/~AEB/PARTITIONS/PARTITION_TYPES-1.HTML - - - S - - -
+             PROGRAM - - - X - - -
+                 USE - - - X X - -
+              CFDISK - - - O - - -
+                  CD - - - X - - -
+              CHOICE - - - X - - -
+              REASON - - - - S - -

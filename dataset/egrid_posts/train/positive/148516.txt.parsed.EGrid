@@ -1,0 +1,13 @@
+           ARGUMENTS X - - - -
+            IPTABLES S - - - -
+                  IP X - - - -
+                DOCS - S - - -
+       NETFILTER.ORG - X - - -
+                FWIW - X - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - O - - -
+                 CAT - - X - -
+                   ' - - - S -
+          PERMISSION - - - S -
+                SUDO - - - O -
+                 TEE - - - O -
+                THAT - - - - S

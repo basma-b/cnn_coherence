@@ -1,0 +1,14 @@
+                 SSH X - - - - -
+                 KEY O - - - - -
+              SERVER - - X - - -
+         CONNECTIONS - - X - - -
+                SUDO - - - - - X
+             APT-GET - - - - - X
+              UPDATE - - - - - X
+             UPGRADE - - - - - S
+             ATTEMPT - - - - - O
+                 ALL - - - - - S
+             PACKAGE - - - - - O
+        DISTRIBUTION - - - - - X
+               ISSUE - - - - - S
+             RESOLVE - - - - - O

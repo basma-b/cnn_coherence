@@ -1,0 +1,17 @@
+           PARTITION X X - - - O -
+          FILESYSTEM X X - - - - -
+          MOUNTPOINT X X - - - - -
+                SIZE X X X - - - -
+               FLAGS S X - - - - -
+             GPARTED X - - - - - -
+                SHOW S - - - - - -
+             VERSION X O - - X - -
+                  OK - X - - - - -
+               DRIVE - X - - - X -
+                THIS - O - - - - -
+               LABEL - X - O X X -
+             EDITION - X S - - - -
+              COLUMN - - O - S - -
+         MOUNTGPOINT - - X - - - -
+                NAME - - - S - - -
+                HELP - - - - - - X

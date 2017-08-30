@@ -1,0 +1,14 @@
+                USER X - O - -
+                NAME X - - - -
+        /ETC/SUDOERS - - O - -
+                ROOT - - X - -
+            ANYTHING - - - X X
+                INET - - - X X
+                DHCP - - - X X
+/ETC/NETWORK/INTERFACES - - - X X
+             CONTENT - - - - O
+                HTTP - - - - X
+                LINE - - - - O
+          STATEMENTS - - - - X
+            WIRELESS - - - - X
+               STUFF - - - - X

@@ -1,0 +1,26 @@
+               PROBS S - - - - - -
+             COMMAND O - - - - - -
+             PROGRAM X - - - - - -
+                  EG X - - - - - -
+                 USB S - - - - - -
+                 ETC O - - - - - -
+               ERROR O - - - - - -
+             PACKAGE X X - - - - -
+                LIST X S - - - - -
+                  .. O - - - - - -
+             SECTION - X - - - - -
+              HEADER - X - - - - -
+             PROBLEM - X X - - - -
+           MERGELIST - X - - - - -
+/VAR/LIB/APT/LISTS/GH.ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_NATTY_MAIN_BINARY-I386_PACKAGES - X - - - - -
+              STATUS - X - - - - -
+                FILE - S - - - - -
+                SUDO - - X - - - -
+              UPDATE - - S - - - -
+                 RUN - - S - - - -
+           PARTITION - - - - X - -
+               TABLE - - - - S - -
+                MESS - - - - X - -
+                  DD - - - - - - O
+              BACKUP - - - - - - X
+           SOMETHING - - - - - - S

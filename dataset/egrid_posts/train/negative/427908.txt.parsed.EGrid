@@ -1,0 +1,31 @@
+                FILE O - - - - -
+          SERVERFILE X - - - - -
+                 SCO X - - - - -
+                 SCP X S - - - -
+              SYNTAX X - - - - -
+                USER X - X - - X
+                HOST X - - - - -
+/PATH/TO/THE/DESTINATION X - - - - -
+              SERVER X - - - - -
+              FOLDER O - - - - -
+                 SUB X - - - - -
+             FOLDERS X - - - - -
+                PATH - O X - - -
+                 USE - - X - - -
+              SINGLE - - S - - -
+           SPECIFIER - - X - - -
+               HOTST - - X - - -
+/VAR/WWW/FOLDERTOCOPY - - X - - -
+             NEGLECT - - X - - -
+              INSERT - - X - - -
+         DESTINATION - - O - - -
+/VAR/WWW/FOLDERTOPASTE - - X - - -
+                 ALL - - - - - X
+                FACT - - - - - X
+              PIDGIN - - - - - X
+                DATA - - - - - O
+             WINDOWS - - - - - X
+              UBUNTU - - - - - X
+            PROBLEMS - - - - - X
+                 WAY - - - - - O
+             SYSTEMS - - - - - X

@@ -1,0 +1,26 @@
+                TIME O - - - - -
+            QUESTION O S - - - -
+                 ALL X - - - - -
+                IDEA O - - - - -
+        PAGEFILE.SYS O - - - - -
+                SWAP S S - - - -
+              MKSWAP X - - - - -
+              SWAPON X - - - - -
+             COMMAND O O - - - -
+          /ETC/FSTAB O - - - - -
+                BOOT X - - - - -
+              RESULT S - - - - -
+             NOTHING X - - - - -
+                HELP O - - - - -
+              ANYONE - X - - - -
+/ETC/INIT/BOOTMICS.SH - X - - - -
+                NOTE - X - - - -
+                SUDO - - S - - -
+                NEED - - O - - -
+              SCRIPT - - X - - -
+/ETC/INIT.D/BOOTMISC.SH - - - X - -
+           SOMETHING - - - X - O
+               REPLY - - - O - -
+                THAT - - - - - S
+               PUTTY - - - - - S
+              THOUGH - - - - - X

@@ -1,0 +1,22 @@
+             ALTHOGH - X - - - - - -
+/ETC/NETWORK/INTERFACES - O - - - - - -
+                HOST - X - - - - - -
+               ROUTE - X - - - O - -
+                 SET - O - - - - - -
+              ROUTER - X - - - - - -
+             NETWORK - - X - - - - -
+             MANAGER - - X - - - - -
+            RC.LOCAL - - X - - - - -
+                DHCP - - X - - - - -
+              OPTION - - X - - - - -
+                 ETC - - X - - - - -
+               THERE - - - S - - - -
+              CHANCE - - - O - - - -
+      192.168.2.0/24 - - - - - X - -
+               WLAN0 - - - - - X - -
+         192.168.2.1 - - - - - X - -
+                 ADD - - - - - X - -
+              REMOVE - - - - - - X -
+      NETWORKMANAGER - - - - - - - S
+                  .. - - - - - - - O
+       CONFIGURATION - - - - - - - X

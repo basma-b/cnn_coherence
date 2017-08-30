@@ -1,0 +1,15 @@
+              HANDLE O - - - -
+             PACKAGE X - - - -
+              INSTAL O - - - -
+                DPKG - X - - -
+      GET-SELECTIONS - X - - -
+              OUTPUT - O - - -
+                GOOD - X - - -
+              COURSE - - - X -
+             COMMAND - - - S -
+      SET-SELECTIONS - - - X -
+                GREP - - - - X
+                  -V - - - - X
+                   < - - - - X
+                  LS - - - - X
+                HOME - - - - X

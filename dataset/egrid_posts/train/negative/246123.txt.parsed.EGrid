@@ -1,0 +1,10 @@
+                KIND X X - -
+             NETCARD X X - -
+                TYPE - X X -
+            TERMINAL - X X -
+                   | - S X -
+                   > - - X -
+               LSPCI - - X -
+                GREP - - X -
+            ETHERNET - - X -
+               THING - - - X

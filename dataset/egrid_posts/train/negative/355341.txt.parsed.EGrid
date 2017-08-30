@@ -1,0 +1,17 @@
+                  HI X - - -
+                  .. X X - -
+              SIMPLE X - - -
+            QUESTION X X - -
+                WIRE X X - -
+                DHCP X X - -
+             ADDRESS X X - -
+             GATEWAY X X - -
+                  IP - - X -
+                 CAT - - X -
+/ETC/NETWORK/INTERFACES - - S -
+              SUBNET - - X -
+         192.168.1.0 - - S -
+               ROUTE - - O -
+                PATH - - - X
+          ~/.PROFILE - - - X
+              RESULT - - - X

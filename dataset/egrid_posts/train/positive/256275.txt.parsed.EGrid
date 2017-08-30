@@ -1,0 +1,14 @@
+    EXCLUDE=SOMEDIR/ X - - -
+                  .. X - - -
+              SYNTAX - O - -
+              REASON - X - -
+                FILE - O - -
+               DRIVE - X - -
+               ARRAY - O - -
+                RAID - O - -
+             MACHINE - X - -
+                THAT - - S -
+                DISK - - X -
+               BREAK - - X -
+                DATA - - O O
+               RAID0 - - - X

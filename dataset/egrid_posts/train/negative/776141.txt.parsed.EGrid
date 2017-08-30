@@ -1,0 +1,23 @@
+                CTRL X - - - - -
+                  +C X - - - - -
+             APT-GET O - - - - -
+                FILE X - - - - -
+               ERROR O - X - - -
+/VAR/CACHE/APT/ARCHIVES/LOCK - S - - - -
+                LOCK - - X - - -
+                LINE - - X - - -
+                   E - - X - - -
+  /VAR/LIB/DPKG/LOCK - - X - - -
+            RESOURCE - - X - - -
+      ADMINISTRATION - - X - - -
+           DIRECTORY - - O - - -
+      /VAR/LIB/DPKG/ - - X - - -
+             PROCESS - - S - - -
+           SOMETHING - - - X - -
+                 RUN - - - X - -
+                ROOT - - - X - -
+               SOUND - - - - - X
+           CONVERTER - - - - - S
+          ADD/REMOVE - - - - - X
+          TRANSCODER - - - - - X
+                 APP - - - - - O

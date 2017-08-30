@@ -1,0 +1,16 @@
+              ANYONE S - - - - - -
+                 MBR O - - O - - -
+                DISK X O - - - - -
+          INTELLIKEY - X - - - - -
+           IDENTICAL - O - - - - -
+                BOOT - - S - - - -
+               OTHER - - S - - - -
+ /BOOT/GRUB/MENU.LST - - - - S - -
+              APACHE - - - - - X -
+            ANYTHING - - - - - O -
+          PHPMYADMIN - - - - - - X
+             DEFAULT - - - - - - X
+               SETUP - - - - - - S
+             SYMLINK - - - - - - O
+                FILE - - - - - - X
+ /ETC/APACHE2/CONF.D - - - - - - X

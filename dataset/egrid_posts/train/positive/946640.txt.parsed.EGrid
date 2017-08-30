@@ -1,0 +1,6 @@
+        SOURCES.LIST S - - -
+             DEFAULT O - - -
+              SOURCE - S - -
+                SUDO - - X -
+           APT-SETUP - - X -
+               THANX - - - S

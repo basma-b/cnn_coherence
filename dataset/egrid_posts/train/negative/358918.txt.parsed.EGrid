@@ -1,0 +1,13 @@
+             GIBBONS S - - -
+              INSTAL X - - -
+            ETHERNET O - - -
+            WIRELESS X - - -
+                ETH1 X - - -
+                CARD - X - -
+                ATH0 - X - -
+                 USE - - X -
+                UDEV - - X -
+                RULE - - S -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - O -
+                THAT - - - S
+                A-HA - - - X

@@ -1,0 +1,25 @@
+            FIREWALL O - - - -
+             PROGRAM X - - - -
+                WELL O - - - -
+            SECURITY X - - - -
+               SUITE X - - - -
+         FIRESTARTER X - O - -
+                  .. X - O - -
+            INTEREST X - - - -
+                SORT - X - - -
+        PEERGUARDIAN - X - - -
+           SHOREWALL - - S - -
+                   K - - S - -
+            SHOREALL - - X - -
+             PACKAGE - - O - -
+                SUDO - - - S -
+               PASTE - - - O -
+                HERE - - - X -
+/ETC/APT/SOURCES.LIST - - - - O
+                FILE - - - - S
+                  ND - - - - S
+               THERE - - - - S
+             CONTENT - - - - O
+             ADDRESS - - - - O
+                WIKI - - - - O
+                REPO - - - - O

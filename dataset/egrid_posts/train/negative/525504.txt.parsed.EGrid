@@ -1,0 +1,23 @@
+         PERMISSIONS X - - - - - - -
+                HOME X - - - - - - -
+           DIRECTORY X - - - - - - -
+                FILE X - - - - - - -
+             FOLDERS X - - - - - - -
+                DPKG - - X - - - - -
+                  -L - - S - - - - -
+             PACKAGE - - O - - - - -
+                MANY - - X - - - - -
+                 THA - - - X - - - -
+             SYMLINK - - - - X O - -
+           /ETC/SKEL - - - - - X - -
+               THERE - - - - - S - -
+             ADDUSER - - - - - X - -
+              SCRIPT - - - - - X - -
+          PERMISSION - - - - - X - -
+              TARGET - - - - - S - -
+                ROOT - - - - - S - -
+            EXAMPLES - - - - - O - -
+/USR/SHARE/EXAMPLE-CONTENT - - - - - S - -
+                HELP - - - - - X - -
+                USER - - - - - O - -
+             PROBLEM - - - - - O - -

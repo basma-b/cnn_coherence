@@ -1,0 +1,13 @@
+                 FAN - X - - -
+               SPEED - O - - -
+             COMMAND - X - - -
+                 CAT - O - - -
+/PROC/ACPI/FAN/FAN/STATE - O - - -
+                FILE - X - - S
+           DIRECTORY - O - - -
+                ACPI - - - X -
+          LM-SENSORS - - - S -
+             PROGRAM - - - X -
+             SENSORS - - - O -
+             CONTENT - - - - X
+                  .. - - - - O

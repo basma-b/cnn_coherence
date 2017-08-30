@@ -1,0 +1,13 @@
+              VOLUME O - - - - - - -
+                USER X - - - - - - -
+               GROUP X - - - - - - -
+           OWNERSHIP O - - - - - - -
+   FILES/DIRECTORIES X - - - - - - -
+                ROOT - - S - - - - -
+          OWNERSHIPS - - O - - - - -
+                 UID - - - X - - - -
+                GIDS - - - O - - - -
+                SUDO - - - X - - - -
+               CHOWN - - - X - - - -
+                  .. - - - S - - - -
+           SOMETHING - - - - - - - O

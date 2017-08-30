@@ -1,0 +1,35 @@
+                THAT O - - - - - - S -
+        INSTRUCTIONS X - - - - - - - -
+               HTTPS - X - - - - - - -
+               STUFF - X - - - - - - -
+                WORK - O - - - - - - -
+                MENU - O S - - - - - -
+            WHATEVER - O - - - - - - -
+               THERE - X - - - - - - -
+             VMLINUZ - - X - - - - - -
+           INITRD.LZ - - O - - - - - -
+                 NFS - - X - - - - - -
+          PERMISSION - - S - - - - - -
+               ERROR - - O - - - - - -
+                  -R - - O - - - - - -
+         PERMISSIONS - - O - - - - - -
+              FOLDER - - X - - - - - -
+            MENU.C32 - - O - - - - - -
+     /SRV/NFS/UBUNTU - - - O - - - - -
+                LINE - - - O - - - - -
+NFSROOT=192.168.2.200 - - - O - - - - -
+                SITE - - - - S - - - -
+     /ETC/EXTENSIONS - - - - O - - - -
+                C.32 - - - - - S - - -
+10.0.0.0/255.255.255.0 - - - - - X - - -
+               ASYNC - - - - - X - - -
+      NO_ROOT_SQUASH - - - - - X - - -
+    NO_SUBTREE_CHECK - - - - - X - - -
+                THIS - - - - - O - - -
+         BOOT=CASPER - - - - - - X - -
+         NETBOOT=NFS - - - - - - O - -
+NFSROOT=10.102.11.239 - - - - - - O - -
+ /SRV/NFS/UBUNTU/MNT - - - - - - X - -
+INITRD=IMAGES/UBUNTU/CASPER/INITRD.LZ - - - - - - O - -
+       10.102.11.239 - - - - - - - - X
+              SERVER - - - - - - - - X

@@ -1,0 +1,6 @@
+         PERMISSIONS O O O
+             SYMLINK X X -
+              CHANCE X - -
+            SYMLINKS - X -
+         MOUNTPOINTS - O -
+                FILE - - X

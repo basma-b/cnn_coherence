@@ -1,0 +1,9 @@
+             COMMAND O - - -
+             ARECORD X - - -
+                 MIC O O X -
+            SPEAKERS X - X -
+                 WAY - - O -
+                 ONE - - O -
+                BOOT - - - X
+              OPTION - - - O
+           NOMODESET - - - X

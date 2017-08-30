@@ -1,0 +1,19 @@
+                DPKG X - - - - - -
+               ERROR X - - - - - -
+             PROCESS X - - - - - -
+/VAR/CACHE/APT/ARCHIVES/MOZILLA-FIREFOX_1.0.7-0UBUNTU0.1_I386.DEB X - - - - - -
+              UNPACK X - - - - - -
+                   / S - - - - - -
+             PACKAGE X - - - - - -
+             FIREFOX X O - O - - -
+            DPKG-DEB X - - - - - -
+                KILL S - - - - - -
+              SIGNAL X - - - - - -
+                PIPE X - - - - - -
+             APT-GET - - O - X - -
+      UPDATE/UPGRADE - - - O - - -
+     MOZILLA-FIREFOX - - - - X - -
+             DRIVERS - - - - - O -
+                WORK - - - - - O -
+               SPACE - - - - - - O
+        XSERVER-XORG - - - - - - X

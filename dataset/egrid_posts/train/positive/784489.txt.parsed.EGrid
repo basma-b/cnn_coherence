@@ -1,0 +1,11 @@
+             SESSION X - -
+         PAM_MAIL.SO X - -
+            STANDARD O - -
+       DIR=~/MAILDIR S - -
+                PATH S - -
+                   < X - -
+                FILE O - -
+                 DIR X - -
+                LINE - - O
+     /ETC/PAM.D/SSHD - - X
+             MACHINE - - O

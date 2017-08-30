@@ -1,0 +1,12 @@
+                BASH S - - -
+     ./HELLOWORLD.SH S - - -
+          PERMISSION S - - -
+                   S - S - -
+              SCRIPT - S - -
+                 SET - O - -
+            UID=1000 - - - X
+                   > - - - X
+                TYPE - - - X
+              OPTION - - - X
+          SUPERBLOCK - - - X
+           /DEV/SDA1 - - - X

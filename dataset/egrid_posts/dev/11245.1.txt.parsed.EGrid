@@ -1,0 +1,17 @@
+                LAMP X - -
+              SERVER X - S
+                   $ - X -
+                 WAY - S -
+/ETC/APACHE2/SITES-AVAILABLE/DEFAULT - O -
+             DOCROOT - O -
+           DIRECTORY - X -
+               USERS - X -
+         PERMISSIONS - X -
+             SERVICE - X -
+             APACHE2 - S O
+              CHANGE - S -
+               ERROR - - S
+              DOMAIN - - X
+                NAME - - O
+           127.0.1.1 - - O
+          SERVERNAME - - X

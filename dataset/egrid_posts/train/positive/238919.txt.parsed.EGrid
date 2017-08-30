@@ -1,0 +1,17 @@
+                 LOL - - - X - - - - - - - - - - -
+          PROPERTIES - - - O - - - - - - - - - - -
+LIBSDL1.2DEBIAN-ALSA - - - X - - - - - - - - - - -
+              OPTION - - - O - - - - - - - - - - -
+             PACKAGE - - - X - - - - - X - - - O -
+            CONFLICT - - - X - - - - - O - - - - -
+                THAT - - - - - - S - - - - - S - -
+             FEATURE - - - - - - - X - - - - - - -
+               -ALSA - - - - - - - - - X - - - - -
+      UBUNTU-DESKTOP - - - - - - - - - O - - - S -
+             XWINDOW - - - - - - - - - - - - X - -
+             MANAGER - - - - - - - - - - - - O - -
+                META - - - - - - - - - - - - - X -
+            GLXGEARS - - - - - - - - - - - - - S -
+            PRINTFPS - - - - - - - - - - - - - X -
+            TERMINAL - - - - - - - - - - - - - X -
+                  OK - - - - - - - - - - - - - - X

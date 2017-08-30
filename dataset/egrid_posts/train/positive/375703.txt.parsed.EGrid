@@ -1,0 +1,13 @@
+               POINT X - - - - - -
+           PARTITION X - X - - - -
+              ERRORS O - - - - - -
+                ROOT - X - - - - X
+             OPTIONS - S - - - - -
+               HD0,4 - X - - - - -
+           REFERENCE - - O - - - -
+                HDA1 - - - - S - -
+                HDA5 - - - - X - -
+                SDA1 - - - - X - -
+                SDA5 - - - - X - -
+                   * - - - - S - -
+              OPTION - - - - - - X

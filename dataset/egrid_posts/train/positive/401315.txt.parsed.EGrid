@@ -1,0 +1,8 @@
+             GFXCARD - X - - - -
+            TERMINAL - X - - - -
+               CHECK - - X - - -
+        MANUFACTURER - - - X - -
+               LSPCI - - - - - X
+                   | - - - - - X
+                GREP - - - - - X
+                 VGA - - - - - X

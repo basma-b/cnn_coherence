@@ -1,0 +1,16 @@
+                TIME X O - - -
+                 ESC O S - - -
+              SPLASH O - O - -
+                 HIT - X - - -
+            NOSPLASH - O - - -
+                 ONE - X - - -
+          PARAMETERS - X - - -
+             COMMAND - X - - -
+                GRUB - X S - -
+                 NAH - O - - -
+                BOOT - X - - -
+                   ' - - X - -
+                 WAY - - S - -
+                  .. - - X - -
+   /ETC/DEFAULT/GRUB - - O - -
+GRUB_CMDLINE_LINUX_DEFAULT - - X - -

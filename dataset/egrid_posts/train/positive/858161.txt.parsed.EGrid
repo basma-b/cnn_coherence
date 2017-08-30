@@ -1,0 +1,13 @@
+            GROUPADD X - - - - - - - - - - -
+            ADDGROUP X - - - - - - - - - - -
+              MANUAL - O - - - - - - - - - -
+               ADMIN - - X - - - - - - - X -
+               GROUP - - X - - - - - - - X O
+                 GID - - - X - - - - - - - -
+                 HMM - - - - - X - - - - - -
+              MATTER - - - - - - X - - - - -
+                 LEM - - - - - - - X - - - -
+                  .. - - - - - - - - - X - -
+             PROGRAM - - - - - - - - - - O -
+                MINE - - - - - - - - - - - X
+              SYSTEM - - - - - - - - - - - X

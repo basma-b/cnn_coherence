@@ -1,0 +1,10 @@
+               FSTAB O - - - -
+               DRIVE O X - - -
+                  RW O - - - -
+              FORMAT O - - - -
+                EXT4 X - - - -
+                 USE - - X - -
+         CHOWN/CHMOD - - O - -
+             TROUBLE - - O - -
+           DIRECTION - - X - -
+                 EMM - - - - X

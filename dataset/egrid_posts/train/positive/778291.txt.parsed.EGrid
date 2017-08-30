@@ -1,0 +1,10 @@
+              BIKCMP S - - - - - - - - -
+                  DD X - - - - - - S - -
+      IF=PATH/TO/ISO X - - - - - - - - -
+        OF=/DEV/SDC1 S - - - - - - - - -
+       /MEDIA/SOMEID X - - - - - - - - -
+           /DEV/SDC1 - - X - - - - - - -
+                THAT - - - - O - - - - -
+             UNMOUNT - - - - O - - - - -
+                SUDO - - - - - - X - - -
+              UMOUNT - - - - - - S - - -

@@ -1,0 +1,16 @@
+                LINK O S - - O - - -
+             PROGRAM X - - - - - - -
+      /USR/LOCAL/BIN X - - - - - - -
+               BREAK X - - - - - - -
+/USR/LOCAL/GAMES/NETRADIANT-1.5/RADIANT O - - - - - - -
+                NAME - - O - - - - -
+                 APP - - X - - - - -
+                 IST - - O - - - - -
+                WORK - - X - - - - -
+             COMMAND - - - - S - - -
+           ARGUMENTS - - - - O - - -
+                   * - - - - O - - -
+               CHMOD - - - - - - S X
+                 MAN - - - - - - - X
+                 A+X - - - - - - - X
+                A+RW - - - - - - - X

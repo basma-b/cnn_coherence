@@ -1,0 +1,20 @@
+                 GRR S - - - - - -
+                DIST X - - - - X -
+             UPGRADE S - - - - - -
+  DO-RELEASE-UPGRADE - S - - - - -
+             RELEASE - S - - - - -
+             PACKAGE - - O X - - -
+                DBUS - - X O - - -
+           CONFIGURE - - - X - - -
+                  .. - - - - - X -
+               CYCLE - - - - - O -
+            INSTANCE - - - - - O -
+                NAME - - - - - X -
+            ANYTHING - - - - - O -
+/ETC/APT/SOURCES.LIST.D/ - - - - - X -
+               THING - - - - - O -
+        DIST-UPGRADE - - - - - O -
+        FULL-UPGRADE - - - - - O -
+                DAYS - - - - - X -
+                 ITI - - - - - - S
+              ITSAYS - - - - - - O

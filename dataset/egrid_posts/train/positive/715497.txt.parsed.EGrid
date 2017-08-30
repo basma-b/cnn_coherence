@@ -1,0 +1,13 @@
+                IPV6 O - - - - - - -
+                GRUB X - - - - - - -
+              METHOD - - - X - - - -
+ GRUB_CMDLINE_LINUX= - - - - O - - -
+      IPV6.DISABLE=1 - - - - O - - -
+         SYSCTL.CONF - - - - S - - -
+                 WAY - - - - X - - -
+               IMAGE - - - - - - O -
+              SCREEN - - - - - - X -
+                 ONE - - - - - - - S
+                HERE - - - - - - - X
+             KUBUNTU - - - - - - - X
+                   = - - - - - - - X

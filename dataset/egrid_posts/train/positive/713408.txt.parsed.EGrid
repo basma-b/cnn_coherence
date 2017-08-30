@@ -1,0 +1,21 @@
+GRUB_DISABLE_OS_PROBER=TRUE O - - - - -
+                 LEM O - - - - -
+                  .. - X - - - X
+             COMMENT - O - - - -
+                 ALL - X - - - -
+                   U - X - - - -
+                MEAN - O - - - -
+             PROBLEM - - S - - -
+              SYSTEM - - S - - -
+               FLASH - - X - - -
+               DRIVE - - X - - X
+                GRUB - - O X - O
+                 MBR - - X X - -
+               THERE - - S - - -
+              UPDATE - - O - - -
+             PORTION - - - S - -
+               /BOOT - - - X - -
+                BOOT - - - X - -
+                PLUG - - - X - -
+                THAT - - - - S -
+               ENTRY - - - - - O

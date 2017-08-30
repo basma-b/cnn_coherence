@@ -1,0 +1,17 @@
+                CARD S -
+              OUTPUT S -
+                GREP X -
+                  -I X -
+                 VGA X -
+               MODEL X -
+          CONTROLLER X -
+                 ATI X -
+        TECHNOLOGIES X -
+                 INC X -
+              RADEON X -
+                X600 X -
+                PCIE X -
+               -RSB- X -
+/ETC/NETWORKING/INTERFACES - S
+                ETH1 - S
+                ETH0 - O

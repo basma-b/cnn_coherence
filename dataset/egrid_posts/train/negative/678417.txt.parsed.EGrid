@@ -1,0 +1,26 @@
+               THERE X - S - - -
+             CHANNEL X - - - S -
+            QUESTION O - - - - -
+           PSMOUSE.C - S - - - -
+            TOUCHPAD - X S X - -
+ISA0060/SERIO1/INPUT0 - X - - - -
+                SYNC - O - - - -
+                BYTE - X - - - -
+                DATA - X - - - -
+                 KBC - X - - - -
+              PARITY - X - - - -
+              ERRORS - X - - - -
+               DMESG - X - - - -
+            KEYBOARD - - X - - -
+               INPUT - - O - - -
+              COUPLE - - X - - -
+              SECOND - - X - - -
+                TYPE - - - O - -
+                 KEY - - - X - -
+                MOVE - - - O - -
+              THINGS - - - S - -
+                   C - - - - X -
+                 ONE - - - - S -
+           INSTALLER - - - - - S
+               ERROR - - - - - X
+                CODE - - - - - X

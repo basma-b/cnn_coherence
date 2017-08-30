@@ -1,0 +1,27 @@
+                SUDO X - -
+            IFCONFIG S - -
+                LINK X - -
+               ENCAP O - -
+      POINT-TO-POINT X - -
+            PROTOCOL X - -
+                INET X - -
+   ADDR:182.3.69.179 X - -
+   P-T-P:10.64.64.64 X - -
+MASK:255.255.255.255 S - -
+               NOARP X - -
+           MULTICAST X - -
+            MTU:1500 X - -
+            METRIC:1 X - -
+                  RX O - -
+            ERRORS:0 X - -
+          OVERRUNS:0 X - -
+                  TX X - -
+           CARRIER:0 X - -
+       BYTES:8017914 X - -
+                  MB X - -
+                GPRS X - -
+                CELL X - -
+               PHONE X - -
+                TYPE X - -
+               MODEM O - -
+                WORK - O -

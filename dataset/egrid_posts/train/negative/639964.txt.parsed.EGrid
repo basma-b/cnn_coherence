@@ -1,0 +1,15 @@
+                ACPI - S - - - - - -
+                WORK - X - - - - - -
+                BOOT - - - - X - - -
+              KERNEL - - - - X - - -
+            ACPI=OFF - - - - X - - -
+                   ' - - - - - - S -
+                   * - - - - - - S X
+               -CVZF - - - - - - O -
+                FILE - - - - - - - O
+                   F - - - - - - - X
+                CVZF - - - - - - - S
+            ARGUMENT - - - - - - - S
+            FILENAME - - - - - - - O
+                 TAR - - - - - - - X
+            EXCLUDE= - - - - - - - X

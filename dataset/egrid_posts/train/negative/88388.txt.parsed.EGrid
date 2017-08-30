@@ -1,0 +1,5 @@
+               STUFF X - - - -
+          UMASK=0077 - O - - -
+                -RWX - X - - -
+           UMASK=000 - - X - -
+               POINT - - - - X

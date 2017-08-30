@@ -1,0 +1,16 @@
+               PROXY X X - - - - -
+              SERVER O O - - X - -
+                ANY1 - S - - - - -
+                 USE - - X - - - -
+                 WEB - - - X - - -
+                 FTP - - - S - - -
+             FIREFOX - - - S - - -
+         PREFERENCES - - - X - - -
+                 TAB - - - X - - -
+            SETTINGS - - - X - - -
+                HTTP - - - X - - -
+             SESSION - - - O - - -
+                 UGH - - - O - - -
+                 IRC - - - - S - -
+               SOCKS - - - - O - -
+                 LOL - - - - O - -

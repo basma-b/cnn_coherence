@@ -1,0 +1,16 @@
+             COMMAND X - - - - -
+                 GCC - X - - S -
+             -KERNEL - S - - - -
+                THAT - - O - - -
+          MENUCONFIG - - O - - -
+                   P - - S - - -
+           MAKEFILES - - S - - -
+             2-LINER - - - - S -
+                 LOT - - - - X -
+                TYPE - - - - X -
+                 WAY - - - - X -
+                FLAG - - - - X -
+                  TY - - - - - O
+                  IM - - - - - S
+               MBMON - - - - - O
+                WORK - - - - - X

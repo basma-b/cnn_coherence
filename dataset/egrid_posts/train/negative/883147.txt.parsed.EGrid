@@ -1,0 +1,17 @@
+                 MAX X - - -
+                 CMD X - - -
+              LENGTH X - - -
+              UBUNTU X - - -
+             GETCONF - X - -
+             ARG_MAX - X - -
+               XARGS - X - -
+         SHOW-LIMITS - X - -
+                DPKG - X - -
+             CONFIGS - O - -
+                 ONE - O - -
+              UPDATE - X - -
+               ISSUE - O - -
+              OPTION - - S -
+            QUESTION - - X -
+              DISTRO - - - O
+             SCRATCH - - - X

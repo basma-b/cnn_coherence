@@ -1,0 +1,28 @@
+              DOESNT X - - - - - - - -
+                WORK S - - - - - O - -
+              FREENX X - - - - - - - -
+              ACCESS O - - - - - - - -
+            POLICIES O - - - - - - - -
+            SHUTDOWN S - - S - - - - S
+              ACTION O - - O - - - - -
+               10.04 - X - - - - - - -
+                ONES - S X - - - - - -
+ORG.FREEDESKTOP.CONSOLEKIT.SYSTEM - - O - - X - - -
+              UPOWER - - - S - - - - -
+                SHOW - - - X - - - - -
+ORG.FREEDESKTOP.DEVICEKIT.POWER - - - O - - - - -
+ORG.FREEDESKTOP.UPOWER - - - - X - - - -
+                   * - - - - - X - - -
+                HTTP - - - - - - X - -
+/ETC/POLKIT-1/LOCALAUTHORITY/50-LOCAL.D/10-DISABLE-SHUTDOWN.PKLA - - - - - - X - -
+                USER - - - - - - O - -
+            PASSWORD - - - - - - X - -
+             SOMEONE - - - - - - S - -
+               LOGIN - - - - - - X - -
+              SCREEN - - - - - - X - -
+                THAT - - - - - - - X -
+           SOMETHING - - - - - - - O -
+               USERS - - - - - - - X -
+                MENU - - - - - - - - X
+               ITEMS - - - - - - - - S
+               GNOME - - - - - - - - X

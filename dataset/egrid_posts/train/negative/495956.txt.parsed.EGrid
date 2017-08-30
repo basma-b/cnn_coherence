@@ -1,0 +1,17 @@
+                 MAC X - - - - -
+             ADDRESS O - - - - -
+/ETC/NETWORK/INTERFACES X - - - - -
+            INTERNET O - - - - -
+                AUTO - - X - - -
+                ATH0 - - S - - -
+               IFACE - - X - - -
+           HWADDRESS - - X - - -
+               ETHER - - O - - -
+   01:02:03:04:05:06 - - S - - -
+                SUDO - - X - - -
+            IFCONFIG - - S - - -
+/ETC/INIT.D/NETWORKING - - S - - -
+               ORDER - - - S - -
+                FILE - - - O - -
+             NETWORK - - - O - -
+            INTEREST - - - - - S

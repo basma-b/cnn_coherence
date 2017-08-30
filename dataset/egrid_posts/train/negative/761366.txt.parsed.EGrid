@@ -1,0 +1,17 @@
+               FRESH O - - -
+             DESKTOP X - - -
+               ERROR O - - -
+           INITRAMFS S - - -
+          /DEV/LOOP0 S - - -
+//FILESYSTEM.SQUASHFS X - - -
+            ARGUMENT S - - -
+/CDROM/CASPER/FILESYSTEM.SQUASHFS X - - -
+ FILESYSTEM.SQUASHFS X - - -
+                HELP X - - -
+                  CD - S - -
+            CHECKSUM - - O -
+               YEARS - - X -
+               GNOME - - - S
+                LOAD - - - O
+               THING - - - S
+             SERVICE - - - S

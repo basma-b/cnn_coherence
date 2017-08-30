@@ -1,0 +1,12 @@
+               IMAGE O - - -
+           PARTITION X X - -
+                  .. X - - -
+                BOOT X X - -
+             WINDOWS X X - -
+          BOOTLOADER - O - -
+                 OSS - O - -
+                   C - O - -
+                FACT - - - X
+                SUDO - - - O
+               DRIVE - - - S
+           INSTALLER - - - X

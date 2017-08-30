@@ -1,0 +1,17 @@
+   XORG-DRIVER-FGLRX X - - O
+        FGL_GLXGEARS X - - -
+              RETURN X - - -
+                XLIB X - - -
+           EXTENSION X - - -
+         XFREE86-DRI X O - -
+             DISPLAY X - - -
+                 0.0 X - - -
+                XORG - O X -
+            GLXGEARS - - S -
+               FRAME - - O -
+                   < - - X -
+                150+ - - S -
+              RADEON - - X -
+              DRIVER - - S -
+         WWW.ATI.COM - - X -
+             DRIVERS - - X -

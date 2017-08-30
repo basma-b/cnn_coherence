@@ -1,0 +1,16 @@
+                SUDO X - -
+           MAKE-KPKG X - -
+        KERNEL_IMAGE X X -
+       MODULES_IMAGE X S -
+   APPEND-TO-VERSION - S -
+              CUSTOM - X -
+              KERNEL - S -
+              2.6.12 - X -
+                 PLZ - S -
+            SOMEBODY - X -
+            SHOULDNT - X -
+               STUFF - O -
+                   U - - X
+                TALK - - X
+         GRANDMOTHER - - X
+               -RSB- - - X

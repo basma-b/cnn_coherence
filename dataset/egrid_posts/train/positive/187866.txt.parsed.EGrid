@@ -1,0 +1,13 @@
+    DPKG-RECONFIGURE X X - - - -
+               FGLRX - O S - - -
+              OPENGL - - X - - -
+              VENDOR - - X - - -
+              STRING - - O - - -
+                MESA - - X - - -
+             PROJECT - - O - - -
+      WWW.MESA3D.ORG - - O - - -
+                 ATI - - - X - -
+             DRIVERS - - - O - -
+                  -R - - - - X -
+LINUX-RESTRICTED-MODULES-2.6.15-26-386 - - - - - S
+             VERSION - - - - - X

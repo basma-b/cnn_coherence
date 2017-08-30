@@ -1,0 +1,15 @@
+                FILE X - - O -
+                 ELF - X - - -
+                 MSB - X - - -
+          EXECUTABLE - S - - -
+             POWERPC - S - - -
+               CISCO - S - - -
+             VERSION - X - - -
+                SYSV - X - - -
+           GNU/LINUX - X - - -
+               SHARE - X - - -
+                LIBS - O - - -
+             COMMAND - - X X -
+               STUFF - - - O -
+          ./YOURFILE - - - S -
+                  .. - - - - O

@@ -1,0 +1,26 @@
+           /DEV/SDA1 X - - - - - -
+              LABEL= S - - - - - -
+               SYSXP O - - - - - -
+               UUID= X - - - - - -
+           A820-F800 X - - - - - -
+               TYPE= X - - - - - -
+                VFAT X - - - - - -
+           /DEV/SDA2 X - - - - - -
+6837FA07-ABC4-4EAC-B80F-20245FEE747F X - - - - - -
+           SEC_TYPE= X - - - - - -
+                EXT2 X - - - - - -
+                EXT3 X - - - - - -
+           /DEV/SDA5 X - - - - - -
+4AF1F3D3-5510-4FAF-B14E-9545162D7130 X - - - - - -
+                SWAP X - - - - - -
+           /DEV/SDB1 X - - - - - -
+                DATA X - - - - - -
+           1DD9-1959 X - - - - - -
+           /DEV/HDA1 S - - - - - -
+              KERNEL - - - S - - -
+              DEVICE - - - X - - -
+                NAME - - - X - - -
+              CHANGE - - - O - - -
+                DISK - - - X - - -
+               LAYER - - - X - - -
+               AFAIK - - - X - - -

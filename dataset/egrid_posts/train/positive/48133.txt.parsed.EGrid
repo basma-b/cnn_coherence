@@ -1,0 +1,8 @@
+           XORG.CONF X - - - -
+               ORDER S - - - -
+                WORK O - - - -
+                 ATI - S - - -
+                SUDO - - X - -
+    DPKG-RECONFIGURE - - X - -
+        XSERVER-XORG - - X - -
+        ACCELERATION - - - - O

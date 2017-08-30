@@ -1,0 +1,16 @@
+            FIREWALL S - - -
+                OPEN O - - -
+             DEFAULT X - - -
+                PART O - - -
+             PROBLEM X - - -
+             PACKAGE O - - -
+                  CD X - - -
+               CDROM - O - -
+                 RAR - O - -
+                FILE - O - -
+              WINDOW - - X -
+                SUDO - - X -
+                BASH - - O -
+                 IFF - - O -
+               SHELL - - O -
+                ROOT - - X -

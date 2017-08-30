@@ -1,0 +1,26 @@
+             NETWORK X X - -
+             MANAGER S - - -
+          FILESYSTEM O - - -
+                  .. S - - -
+                INFO O - - -
+/ETC/NETWORK/INTERFACES S - - -
+                   * S - - -
+           SCRATCHES S - - -
+            SETTINGS - S - -
+                 ALL - S - -
+         CONNECTIONS - X - -
+             GENERAL - X - -
+                 DNS - X - -
+               HOSTS - O - -
+          INTERFACES - - S -
+                SHOW - - O -
+                AUTO - - X -
+                  LO - - X -
+               -LSB- - - S -
+                INET - - X -
+            LOOPBACK - - O -
+               ADDON - - - X
+               STATE - - - S
+             CONTACT - - - X
+           DEVELOPER - - - O
+                 BUG - - - O

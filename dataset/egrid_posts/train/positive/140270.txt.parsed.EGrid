@@ -1,0 +1,57 @@
+                 ANY S - - - - - - - - - - X - - - - -
+                PEEP O - - - - - - - - - - - - - - - -
+              REASON - X - - - - - - - - - - - X - - -
+              ENABLE - O - - - - - - - - - - - - - - -
+  TCPIP_SOCKETS=TRUE - O - - - - - - - - - - - - - - -
+               ERROR - O S - - - - O - - - - - - - - -
+                 GUC - X - - - - - - - - - - - - - - -
+     STATS_ROW_LEVEL - S - - - - - - - - - - - - - - -
+             STARTUP - - X - - - - - - - - - - X - - -
+     POSTGRESQL.CONF - - X - - - - - - - - X - - - - -
+                THOU - - O - - - - - - - - - - - - - -
+              GOOGLE - - - S - - - - - - - - - - - - -
+            ANYTHING - - - O - - - - - - - - - - - - -
+                   * - - - - X - - - - X - - - - - - -
+/ETC/POSTGRESQL/7.4/MAIN/POSTGRESQL.CONF - - - - - X - - - - - X - - - - -
+              THERES - - - - - X - - - - - - - - - - -
+            SETTINGS - - - - - S - - - - - - - - - - -
+                THAT - - - - - - S - - - - O - - S - -
+             DEFAULT - - - - - - O - - - - - - - - - -
+               FRESH - - - - - - X - - - - - - - - - -
+             SOCKETS - - - - - - - O - - - - - - - - -
+                  HM - - - - - - - - - S - - - - - - -
+        TCPIP_SOCKET - - - - - - - - - S - - - - - - -
+               FIELD - - - - - - - - - O - - - - - - -
+                 USE - - - - - - - - - X - - - - - - -
+                 YEP - - - - - - - - - - X O - - - - -
+                 ODD - - - - - - - - - - O - - - - - -
+                 BOX - - - - - - - - - - - X - - - - -
+                HTTP - - - - - - - - - - - X - - - - -
+//PEOPLE.UBUNTU.COM/~PITTI/TMP/POSTGRESQL.CONF - - - - - - - - - - - S - - - - -
+             CLUSTER - - - - - - - - - - - O - - - - -
+                 ONE - - - - - - - - - - - O - - - - -
+                 MMM - - - - - - - - - - - X - - O - -
+                PORT - - - - - - - - - - - X - - - - -
+               YOURS - - - - - - - - - - - S - - - - -
+               EN_NZ - - - - - - - - - - - X - - - - -
+                  OK - - - - - - - - - - - - - O - - -
+                WORK - - - - - - - - - - - - - S - - -
+                SUDO - - - - - - - - - - - - - S - - -
+          POSTMASTER - - - - - - - - - - - - - X - - -
+              SCRIPT - - - - - - - - - - - - - X - - -
+                 BUG - - - - - - - - - - - - - O - - -
+      POSTGRESQL-7.4 - - - - - - - - - - - - - X - - -
+/VAR/LOG/POSTGRESQL/POSTGRESQL-7.4-MAIN.LOG - - - - - - - - - - - - - O - - -
+              OUTPUT - - - - - - - - - - - - - S - - -
+                FILE - - - - - - - - - - - - - - O - -
+                 LOG - - - - - - - - - - - - - - S - -
+                STOP - - - - - - - - - - - - - - X - -
+          POSTGRESQL - - - - - - - - - - - - - - O - -
+                 8.0 - - - - - - - - - - - - - - O - -
+                LIST - - - - - - - - - - - - - - O - -
+            VERSIONS - - - - - - - - - - - - - - X - -
+               HTTPS - - - - - - - - - - - - - - - X -
+//LAUNCHPAD.NET/DISTROS/UBUNTU/+SOURCE/POSTGRESQL-7.4 - - - - - - - - - - - - - - - X -
+                   > - - - - - - - - - - - - - - - X -
+//LAUNCHPAD.NET/DISTROS/UBUNTU/+SOURCE/POSTGRESQL-7.4/+BUG/39110 - - - - - - - - - - - - - - - X -
+               THANK - - - - - - - - - - - - - - - - X

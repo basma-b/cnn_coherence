@@ -1,0 +1,32 @@
+                XORG O - - - - - -
+              UBUNTU - X - - - - -
+              MONTHS - X - - - - -
+                MAIN - X - - - - -
+              DEBIAN - X - - - - -
+            UNIVERSE - X - - - - -
+              SOURCE - X - - - - -
+                  .. - X - X - O -
+             PACKAGE - X - - - - -
+            CONFLICT - S - - - - -
+/USR/LIB/MOZILLA-FIREFOX/PLUGINS - X - - - - -
+                THAT - - O - - S -
+/USR/LIB/JAVA-DIR/WHERE/THE/PLUGIN/IS - - X - - - -
+/USR/LIB/MOZILLA-FIREFOX/PLUGINS/ - - O X - - -
+                JAVA - - S - - O -
+             PLUGINS - - - S - - -
+             MOZILLA - - - X - - -
+                EASE - - - X - - -
+                 TAB - - - X - - -
+                   > - - - X - - -
+                 DIR - - - - X - -
+               IMAGE - - - - S - -
+             SYMLINK - - - - - X -
+         APT-GET.ORG - - - - - S -
+               COUGH - - - - - O -
+                  CD - - - - - - X
+             CONTENT - - - - - - S
+           PARTITION - - - - - - X
+          BOOTLOADER - - - - - - O
+              CHOICE - - - - - - X
+              KERNEL - - - - - - O
+               THERE - - - - - - S

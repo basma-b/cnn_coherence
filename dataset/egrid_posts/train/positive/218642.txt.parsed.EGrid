@@ -1,0 +1,12 @@
+             APT-GET S S -
+               PURGE S - -
+              CONFIG X X X
+                FILE O O O
+                DPKG O - -
+              DOESNT S - -
+                 WAY X - -
+                /ETC - X X
+                HOME - X -
+         DIRECTORIES - X -
+              APACHE - - O
+             DEFAULT - - X

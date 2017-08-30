@@ -1,0 +1,27 @@
+                HELP X - - - - - - -
+                  .. X O O - - - O -
+           PERMISION O - - - - - - -
+              CHANGE O - X - - - - -
+              REASON X - - - - - - -
+                WONT - S - - - - - -
+            ANYTHING - O - - - - - -
+               OWNER - - S - - - - -
+          PERMISSION - - S - X - O -
+         PERMISSIONS - - X - - - - -
+              TVTIME - - - - O - O -
+             READING - - - - X - - -
+       CONFIGURATION - - - - S - - -
+/ETC/TVTIME/TVTIME.XML - - - - X - - -
+                 I/O - - - - X - - -
+              ENTITY - - - - O - - -
+/HOME/OOKAMI/.TVTIME/TVTIME.XML - - - - S - - -
+                ROOT - - - - - - X -
+             .TVTIME - - - - - - S -
+                THIS - - - - - - S -
+                 DIR - - - - - - O -
+                  LS - - - - - - O -
+                   D - - - - - - S -
+               POINT - - - - - - X -
+               RIGHT - - - - - - X -
+                FILE - - - - - - O -
+          EXPERIENCE - - - - - - - X

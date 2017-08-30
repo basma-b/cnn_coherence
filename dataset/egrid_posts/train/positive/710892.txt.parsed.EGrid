@@ -1,0 +1,38 @@
+                 ALL X - - - - - - - S -
+             UPGRADE - O - - - - - - - -
+            LIBKRB53 - O - - - - - - - -
+                SUCH - X - - - - - - - -
+1.6.DFSG.4~BETA1-3UBUNTU0.3 - O - - - - - - - -
+1.6.DFSG.4~BETA1-3UBUNTU0.4 - O - - - - - - - -
+             VERSION - X - - - S O - - -
+            APTITUDE - S - - - - O O - -
+                 FEE - - X - - - - - - -
+             PROBLEM - - - - - O - - - -
+                THAT - - - - - - X S - -
+              UPDATE - - - - - - X - - -
+            DATABASE - - - - - - S - - -
+            VERSIONS - - - - - - X - - -
+                DPKG - - - - - - S S - -
+                 ONE - - - - - - S - - -
+                .DEB - - - - - - O S - -
+                SUDO - - - - - - S - - -
+            FILE.DEB - - - - - - X - - -
+                  OK - - - - - - O - - -
+        DEPENDENCIES - - - - - - X X - -
+                   > - - - - - - - S - -
+              INSTAL - - - - - - - X - -
+               LEAVE - - - - - - - X - -
+         UNCONFIGURE - - - - - - - S - -
+                THIS - - - - - - - O - -
+          DEPENDENCY - - - - - - - X - -
+                BEAR - - - - - - - O - -
+                MIND - - - - - - - X - -
+APT-GET/APTITUDE/SYNAPTIC - - - - - - - S - -
+           FRONTENDS - - - - - - - X - -
+                FILE - - - - - - - X - -
+                EACH - - - - - - - O - -
+              FOLDER - - - - - - - X - -
+                   * - - - - - - - O - -
+               CLEAN - - - - - - - - O -
+                  -I - - - - - - - - - X
+LIBKRB53_1.6.DFSG.4~BETA1-3UBUNTU0.3_AMD64.DEB - - - - - - - - - X

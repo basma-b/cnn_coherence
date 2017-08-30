@@ -1,0 +1,34 @@
+                 ALL S - - - -
+            PROBLEMS X - - - -
+             APT-GET X - - - -
+                FILE O O - O -
+                LIST S S - - -
+             PACKAGE X X - - -
+               CAUSE O - - - -
+                COMP X - - - -
+               CRASH X - - - -
+              SYSTEM S - - - -
+                SCAN O - - - -
+               ERROR - X X - -
+            DATABASE - X - - -
+                  .. - O - O -
+             SERIOUS - S - - -
+        LIBGTKSPELL0 - X - O -
+                DPKG - - X - -
+             PROCESS - - X - -
+/VAR/CACHE/APT/ARCHIVES/KTORRENT_2.0.1-0UBUNTU1~DAPPER1_I386.DEB - - X - -
+              UNPACK - - X - -
+/ETC/APT/SOURCES.LIST - - X - -
+                LINK - - O - -
+           REINSTALL - - - X -
+            COMPUTER - - - X -
+                LOCK - - - X -
+            WIRELESS - - - X -
+              DRIVER - - - X -
+               CHECK - - - X -
+                DISK - - - O O
+             OPTIONS - - - X -
+ /VAR/LIB/DPKG/INFO/ - - - X -
+                  CD - - - - O
+               THING - - - - S
+                 RAM - - - - X

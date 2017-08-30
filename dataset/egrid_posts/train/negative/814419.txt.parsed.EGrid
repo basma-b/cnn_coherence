@@ -1,0 +1,20 @@
+              ANYONE S - - - - -
+               SCALE X - - - - -
+            SETTINGS S - - - - -
+                LOAD X - - - - -
+/SYS/DEVICES/CPU/CPUFREQ X - - - - -
+               ENTRY - - O - - -
+              KERNEL - - X - - -
+                TIME - - - X - -
+                 CPU - - - O - -
+                 USE - - - X - -
+               STOCK - - - X - -
+                 ONE - - - S - -
+/SYS/DEVICES/CPU/CPUFREQ/ONDEMAND/IGNORE_NICE_LOAD - - - O - -
+               BOINC - - - S - -
+            GOVERNOR - - - X - -
+             OPTIONS - - - S - -
+/SYS/DEVICES/SYSTEM/CPU/CPUFREQ/ONDEMAND/IGNORE_NICE_LOAD - - - O - -
+                THAT - - - - - X
+                6.04 - - - - - S
+                LINE - - - - - O

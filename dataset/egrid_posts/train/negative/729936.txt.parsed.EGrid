@@ -1,0 +1,13 @@
+                  LS X - - - -
+/ETC/APACHE2/SITES-ENABLED/000-DEFAULT X - X - -
+              OUTPUT - X X - -
+                HTTP - X O - -
+              WEBMIN - X X - -
+                   ' - - S - -
+/ETC/APACHE2/SITES-ENABLED/ - - X - -
+              DOESNT - - S - -
+              APACHE - - X - -
+              CONFIG - - X - -
+                TYPE - - O - -
+                THIS - - X - -
+ /ETC/INIT.D/APACHE2 - - S - -

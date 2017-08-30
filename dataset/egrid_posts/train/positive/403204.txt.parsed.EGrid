@@ -1,0 +1,11 @@
+             COMMAND X - -
+                LINE X - -
+           ARGUMENTS X - -
+                  LS X - -
+         DIRECTORIES O O -
+            INTEREST - O -
+                FILE - X -
+           DIRECTORY - O -
+                   | - X -
+                GREP - O -
+             VERSION - - O

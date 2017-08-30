@@ -1,0 +1,31 @@
+                 SET O - - - - - - - - - - -
+                FILE X - X - - O - - O - - -
+                NAME X - - - - - X - - - - -
+         TESTING-123 X - - - - - - - - - - -
+                 ALL X - - - - - - - - - - -
+               THOSE X - - - - - - - - - - -
+          TESTING123 X - - - - - - - - - - -
+          TESTING321 X - - - - - - - - - - -
+             PATTERN - X - - - - - - - - - -
+  WINDOWS-XP-SP2.VMX - - - - X - - - - - - -
+WINDOWS-XP-SP2-F00X.VMDK - - - - X - - - - - - -
+                   X - - - - S - - - - - - -
+              NUMBER - - - - O - - - - - - -
+             MACHINE - - - - - O - - - - - -
+             EXAMPLE - - - - - - X - - - - -
+        VMPV001-VM01 - - - - - - - X X X - -
+      WINDOWS-XP-SP2 - - - - - - - O - X - -
+WINDOWS-XP-SP2-F001.VMDK - - - - - - - S - - - -
+                 MAP - - - - - - - X X - - -
+              RENAME - - - - - - - - O - - -
+                  .. - - - - - - - - X - - -
+                GREP - - - - - - - - X - - -
+           OCCURENCE - - - - - - - - - O - -
+                 ONE - - - - - - - - - - X -
+                 SEC - - - - - - - - - - X -
+                SITE - - - - - - - - - - - X
+                  IP - - - - - - - - - - - S
+                 USE - - - - - - - - - - - X
+                HTTP - - - - - - - - - - - S
+             TRAFFIC - - - - - - - - - - - X
+//WWW.NO-IP.COM/INTEGRATE/REQUEST/ - - - - - - - - - - - X

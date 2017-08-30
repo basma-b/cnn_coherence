@@ -1,0 +1,11 @@
+              THTTPD S X - - -
+            LIGHTTPD X - - - -
+            SECURITY X - - - -
+            CHROOTED O - - - -
+               OTHER - S - - -
+        DEPENDANCIES - O - - -
+               FIRST - X - - -
+              APACHE - - X - -
+                HTML - - X - -
+                FILE - - X - -
+            DOWNLOAD - - X - -

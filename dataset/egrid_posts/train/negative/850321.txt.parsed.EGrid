@@ -1,0 +1,17 @@
+                LINE O - - - - - - -
+/ETC/NETWORK/INTERFACES X - - - - - - -
+               IFACE X - - - - - - -
+                ETH0 S - - - - - - -
+             SUCCESS O X - - - - - -
+            ETHERNET - - X - X - - -
+                CARD - - O - O X - -
+                 ONE - - O - - - - -
+                BIOS - - X - - - - -
+            IFCONFIG - - - X - - - -
+          INTERFACES - - - X - - - -
+            LOOPBACK - - - - O - - -
+                   L - - - - S - - -
+                WLAN - - - - X - - -
+             NETWORK - - - - - X - -
+               LSPCI - - - - - O - -
+                 SWF - - - - - - - X

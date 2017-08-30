@@ -1,0 +1,15 @@
+              FOLDER X - - -
+                EXT3 X - - -
+           PARTITION X - - X
+               /HOME - S - -
+                BOOT - X - -
+                  CD - X - -
+              RESCUE - X - -
+                MODE - X - -
+                DATA - S - -
+             PARTION - O - -
+                LINE - X - O
+                 UID - O - -
+                 IDS - - - O
+                SUDO - - - X
+               BLKID - - - X

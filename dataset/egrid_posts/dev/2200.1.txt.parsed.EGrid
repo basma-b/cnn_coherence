@@ -1,0 +1,17 @@
+ /ETC/SSH/SSH_CONFIG X - -
+                LINE X - -
+              RSA_ID X - -
+              DSA_ID S - -
+                 BUG S - -
+                 SSH X - -
+                -VVV X - -
+               WHATS S - -
+              DEBUG1 X - -
+                 GSS X - -
+             FAILURE X - -
+                CODE - S -
+         INFORMATION - O -
+               HTTPS - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/OPENSSH/+BUG/416264 - - X
+                HTTP - - X
+//UNIX.STACKEXCHANGE.COM/QUESTIONS/5621/HOW-TO-SPEED-MY-TOO-SLOW-SSH-LOGIN - - X

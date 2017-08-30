@@ -1,0 +1,15 @@
+                FILE X X - -
+/ETC/NETWORK/INTERFACES S - - -
+                LINE O - - -
+                INET X - - -
+                DHCP X - - -
+           INTERFACE X - - -
+               MODEM O - - -
+              MODULE O O - -
+           SOMETHING S - - -
+                THAT - S - -
+                NAME - O - -
+        /ETC/MODULES - X - -
+          CONNECTION - S - -
+                WORK - - - S
+             PACKAGE - - - X

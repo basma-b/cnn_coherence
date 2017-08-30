@@ -1,0 +1,20 @@
+                  HI X - - - - - - -
+                 NAS - X - - - - - -
+               SHARE - O - - - - - -
+               SMBFS - O - - - S O -
+          /ETC/FSTAB - O - - - - X -
+           CONTROL-C - S - - - - - -
+               -KILL - S - - - - - -
+               FSTAB - X - - - - - -
+               /LAKS - X - - - - - -
+                AUTO - X - - - - - -
+CREDENTIALS=/ROOT/.SMB-LAKS - X - - - - - -
+            UID=1000 - X - - - - - -
+           UMASK=000 - X - - - - - -
+                USER - X - - - - - -
+              ANYONE - X - - - - - -
+              ADVICE - X - - - - - -
+              KITCHE - - X - - - - -
+           SOMETHING - - - O - - - -
+              FUSEFS - - - - X - - -
+                CIFS - - - - - S X -

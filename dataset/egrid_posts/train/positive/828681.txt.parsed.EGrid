@@ -1,0 +1,17 @@
+            -CONNECT X - - -
+              SERVER S - S -
+                PORT X - - -
+           SSLENGINE O - - -
+               VHOST X - - -
+        APACHE2.CONF - X - -
+                 TLS - S - -
+                 FTP - O - X
+             OPENSSL - - X -
+               ERROR - - S -
+                 SSL - - O O
+              CONFIG - - X -
+                 END - - X X
+                 USE - - - X
+           SOMETHING - - - O
+             DAEMONS - - - S
+               REPLY - - - X

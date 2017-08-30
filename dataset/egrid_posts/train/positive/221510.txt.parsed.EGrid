@@ -1,0 +1,11 @@
+         RESOLV.CONF S - - - - -
+            OVERRIDE O - - - - -
+                 TRY X - - - - -
+                TEST X - - - - -
+                FILE - O - - - -
+              SUPPLY - X - - - -
+                 DNS - X - - - -
+             ENTRIES - O - - - -
+                 FIX - - O - - -
+                IPV6 - - - X - -
+          DIFFERENCE - - - - - X

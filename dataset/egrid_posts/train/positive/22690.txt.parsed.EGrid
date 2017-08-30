@@ -1,0 +1,7 @@
+         MPLAYER-386 S -
+             DEPENDS X -
+                   > X -
+         LIBDVDREAD2 S -
+          LIBVORBIS0 X -
+                HTTP O X
+//YOUMORTALS.COM/STUFF/SOURCES.LIST S -

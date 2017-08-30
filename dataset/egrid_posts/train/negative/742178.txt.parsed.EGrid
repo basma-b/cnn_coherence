@@ -1,0 +1,14 @@
+            PROBLEMS - O - - - - - - - -
+               FSTAB - X - - - - - - - -
+          DEPARTMENT - X - - - - - - - -
+           /DEV/SDB7 - - O - - - - - - -
+                   | - - S - - - - - - -
+                AUTO - - X - - - - - - -
+                USER - - X - - - - - - -
+                EXEC - - X - - - - - - -
+                FILE - - O - - - - - - -
+                SABY - - - - - X - - - -
+           PARTITION - - - - - - X - - -
+                NTFS - - - - - - X - - -
+               FAT32 - - - - - - - O - -
+                THAT - - - - - - - - - X

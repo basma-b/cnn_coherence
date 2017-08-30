@@ -1,0 +1,19 @@
+              NVIDIA - X X - - - - -
+                CARD - O - - - - - -
+              DRIVER - X S - - - - -
+              TV-OUT - - S - - - - -
+               COLOR - - O - - - - -
+                 TRY - - - O - - - -
+                SUDO - - - X - - - -
+      NVIDIA-XCONFIG - - - O - - - -
+  TV-STANDARD=NTSC-M - - - O - - - -
+TV-OUT-FORMAT=SVIDEO - - - O - - - -
+            VARIANTS - - - O - - - -
+              NTSC-J - - - X - - - -
+           COMPOSITE - - - X - - - -
+              GOOGLE - - - - S - - -
+               IDEAS - - - - - X - -
+                  TV - - - - - - X -
+            STANDARD - - - - - - O S
+           XORG.CONF - - - - - - X -
+                WHAT - - - - - - - O

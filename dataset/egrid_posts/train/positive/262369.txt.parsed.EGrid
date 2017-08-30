@@ -1,0 +1,8 @@
+              FORMAT X - - -
+           HARDDRIVE O - - -
+           PARTITION X - - -
+                  -L - - X -
+            /DEV/HDA - - S -
+                PART - - O -
+             GPARTED - - X -
+              CHANGE - - - X

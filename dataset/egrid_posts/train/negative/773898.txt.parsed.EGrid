@@ -1,0 +1,24 @@
+            APPARMOR S O - -
+                LIFE S - - -
+                   ' - X - -
+                 SET - O - -
+                 NOV - X - -
+              KERNEL - X - -
+               AUDIT - X - -
+   1290431651.924:57 - X - -
+           APPARMOR= - X - -
+          OPERATION= - X - -
+               MKNOD - X - -
+            PROFILE= - X - -
+               NAME= - X - -
+/ETC/BIND/DB.YUPYUP.JNL - X - -
+               COMM= - X - -
+                NAME - X - -
+     REQUESTED_MASK= - X - -
+                   C - X - -
+        DENIED_MASK= - X - -
+            OUID=116 - S - -
+             APT-GET - X - -
+              SHERPA - - O -
+         HAND-HOLDER - - X -
+              BROTHA - - - X

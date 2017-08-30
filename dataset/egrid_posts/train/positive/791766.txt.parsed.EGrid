@@ -1,0 +1,10 @@
+                 X11 X - - - -
+       CONFIGURATION X - - - -
+           XORG.CONF X O - - -
+                KIND X - - - -
+          AUTODETECT X - - - -
+                THAT - - O - -
+  /ETC/X11/XORG.CONF - - S - O
+/ETC/X11/XORG.CONF.OLD - - - - O
+                  RM - - - - X
+                SUDO - - - - S

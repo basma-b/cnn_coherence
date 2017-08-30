@@ -1,0 +1,7 @@
+               SDHCI X O -
+           BLACKLIST - X -
+              LIVECD - X X
+ SDHCI.BLACKLIST=YES - S -
+        INSTALLATION - O -
+           /DEV/SDA1 - - O
+                  ED - - S

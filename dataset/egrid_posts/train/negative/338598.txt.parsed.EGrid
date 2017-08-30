@@ -1,0 +1,26 @@
+            ./MAGICQ S - - - - - -
+/LIB/TLS/I686/CMOV/LIBC.SO.6 S - - - - - -
+             VERSION S - - - - - -
+                   < X - - - - - -
+               LIBC6 S - - X - - -
+                SUDO - - X - - - -
+             APT-GET - - S - - - -
+               GLIBC - - - S - - -
+                TIME - - - - O - -
+                 REG - - - - X - -
+               ENTRY - - - - O - -
+               ROMAN - - - - X - -
+                NEED - - - - O - -
+               STEAM - - - - X - -
+               PATCH - - - - O - -
+            DOCUMENT - - - - S - -
+                WINE - - - - X - -
+               APPDB - - - - X - -
+                   K - - - - O - -
+              MAGICQ - - - - X - -
+                 ^^^ - - - - S - -
+        GLIBC2.0-DEV - - - - - S -
+               PAKET - - - - - X -
+             COMMAND - - - - - - X
+                LINE - - - - - - X
+               ERROR - - - - - - S

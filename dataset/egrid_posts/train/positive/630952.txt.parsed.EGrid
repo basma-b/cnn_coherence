@@ -1,0 +1,6 @@
+             COMMAND S - - - -
+             STARTUP X - - - -
+       /ETC/RC.LOCAL X - - - -
+      /ETC/INIT.D/RC X - - - -
+             CRONTAB - - - O -
+          MOUNTPOINT - - - - O

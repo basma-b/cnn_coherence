@@ -1,0 +1,26 @@
+           EMULATION O - - - - - -
+               NETEM X - - - - - -
+             COMMAND X - - - - - -
+              LAPTOP - O - - - - -
+           INTERFACE - X X - - - -
+                 ONE - - X - - - -
+                  IP - - O - - - -
+               STICK - - X - - - -
+              DESIGN - - O - - - -
+                THAT - - - O - - -
+                 USE - - - X - - -
+             NETWORD - - - X - - -
+                CARD - - - X - - -
+             ALIASES - - - X - - -
+            IFCONFIG - - - S - - -
+         10.1.2.3/24 - - - O - - -
+         10.2.3.4/24 - - - O - - -
+            ANYTHING - - - - O - -
+                ROUT - - - - O - -
+             PACKETS - - - - X - -
+               ROUTE - - - - X - -
+             SUBNETS - - - - X - -
+             DEFAULT - - - - X - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - - - - - O
+                REST - - - - - - S
+                RULE - - - - - - X

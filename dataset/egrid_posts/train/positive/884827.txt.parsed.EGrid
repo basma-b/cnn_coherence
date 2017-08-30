@@ -1,0 +1,12 @@
+                CRON X - - - - -
+                 JOB S S - - - -
+              SERVER X - - - - -
+                ROOT X X - O - -
+               USERS X - - - - -
+             CRONTAB X - - - - -
+            DATABASE - - X - - -
+               EMAIL - - X - - -
+           REMINDERS - - O - - -
+                USER - - - - X -
+                RAKE - - - - - X
+                TASK - - - - - O

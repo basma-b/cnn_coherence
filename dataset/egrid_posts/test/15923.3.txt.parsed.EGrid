@@ -1,0 +1,12 @@
+              BINARY X - - - -
+           AUTOSTART X - - - -
+                 GUI X - - - -
+         APPLICATION X - X - -
+                BOOT - X X - -
+               LOGIN - X - - -
+            TERMINAL - - X - -
+                PATH - - - X -
+            VARIABLE - - - O -
+               SHELL - - - X -
+              EXPORT - - - O -
+             .BASHRC - - - - X

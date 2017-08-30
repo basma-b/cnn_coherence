@@ -1,0 +1,27 @@
+         RESOLV.CONF O - - - - - - - - - - - -
+                 IPS O - - - - - - - - - - - -
+             SERVERS X - - - - - - - - - - - -
+             NETWORK S - - - - X - X - - - O -
+             SERVICE O - - - - - - - - - - - -
+                 USE X - - - - - - - - - - - -
+         CONNECTIONS X - - - - - - - - - - - -
+                 BOX X - - - - - - - - - - - -
+           SOMETHING - X - - - - - - - - - - -
+                THAT - - O - - O - - - - - - -
+             COMMAND - - S - - - - - - - - - -
+                SAME - - O - - - - - - - - - -
+            ANYTHING - - - O - - - - - - - - -
+               THERE - - - - X - - - - - - - -
+/ETC/INIT.D/NETWORKMANAGER - - - - X - - - - - - - -
+        RESOLVE.CONF - - - - - - X - - - - - -
+             OPENDNS - - - - - - - X - - - - -
+             ENTRIES - - - - - - - O - - - - -
+            GENERATE - - - - - - - X - - - - -
+             MANAGER - - - - - - - X - - - - -
+             COMMENT - - - - - - - X - - - - -
+               THOSE - - - - - - - O - - - - -
+              BETTER - - - - - - - - X - - - -
+              ROUTER - - - - - - - - - S - - -
+         NAMESERVERS - - - - - - - - - X - - -
+                   * - - - - - - - - - - - S -
+              CHANGE - - - - - - - - - - - - X

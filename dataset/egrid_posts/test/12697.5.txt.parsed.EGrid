@@ -1,0 +1,34 @@
+               ERROR X - - - O - - - - - -
+              GKSUDO - X - - - - - - - - -
+               GEDIT - X - - - - - - - - -
+       /PATH/TO/FILE - X - - - - - - - - -
+            SOLUTION - O - - - - - - - - -
+               ISSUE - X - O - - - - - - -
+            RESPONSE - O - - - - - - - - -
+         PERMISSIONS - - X - - - - - - - -
+                FILE - - O S - - - - X - -
+                ROOT - - X - - - - - - - -
+            LOCATION - - - O - - - - - - -
+                THAT - - - O - - - O - - -
+            WIRELESS - - - X - - - - - - -
+                 HOP - - - O - - - - - - -
+         DISABLE_ANI - - - X - - - - - - -
+              CHANGE - - - X - - - - - - -
+            MEANTIME - - - - X - - - - - -
+             APT-GET - - - - S - - - - - -
+                NANO - - - - X - - - - - -
+                  .. - - - - O - X - - - -
+               THING - - - - - - S - - - -
+              KERNEL - - - - - - X - - - -
+           SUBSYSTEM - - - - - - X - - - -
+SYS/KERNEL/DEBUG/IEEE80211/PHY0/ATH9K/DISABLE_ANI - - - - - - X - - - -
+                 FLY - - - - - - X - - - -
+               GUIDE - - - - - - - X - - -
+                THIS - - - - - - - - S - -
+             COMMAND - - - - - - - - O - -
+/SYS/KERNEL/DEBUG/IEEE80211/PHY0/ATH9K/DISABLE_ANI - - - - - - - - O - -
+                  -I - - - - - - - - S - -
+                PASS - - - - - - - - X - -
+                BOTH - - - - - - - - O - -
+             PROGRAM - - - - - - - - - O -
+               RANDR - - - - - - - - - - X

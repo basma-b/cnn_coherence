@@ -1,0 +1,15 @@
+             NETWORK X - - - -
+             MANAGER X - - - -
+             PROGRAM X X - - -
+                CALL X - - - -
+             BCM43XX X S - - -
+                THAT - O - - -
+              DRIVER - O - - -
+            FIRMWARE - O - - -
+                CARD - X X - O
+           FIRMAWARE - - X - -
+            WIRELESS - - X - -
+                 RUN - - - - O
+                SUDO - - - - X
+             APT-GET - - - - X
+    BCM43XX-FWCUTTER - - - - X

@@ -1,0 +1,26 @@
+                 ALL O - - - - - - - - -
+                REPO O - - X - - - - - -
+            CHROMIUM X - - X - - - - - -
+            APTITUDE - S - - - - - - - -
+                 USE - O O - - - - - - -
+               HTTPS - - - - X - - - - -
+//LAUNCHPAD.NET/~CHROMIUM-DAILY/+ARCHIVE/PPA - - - - X - - - - -
+                  ID - - - - X - - - - -
+                PAGE - - - - X - - - - -
+                HTTP - - - - X - - - - -
+//KEYSERVER.UBUNTU.COM - - - - X - - - - -
+    11371/PKS/LOOKUP - - - - X - - - - -
+                THAT - - - - - O - - - -
+              OP=GET - - - - - X - - - -
+SEARCH=0X5A9BF3BB4E5E17B5 - - - - - X - - - -
+        APT/APTITUDE - - - - - X - - - -
+                SUDO - - - - - - - X - -
+             APT-KEY - - - - - - - X - -
+                 ADV - - - - - - - X - -
+           RECV-KEYS - - - - - - - X - -
+           KEYSERVER - - - - - - - X - -
+KEYSERVER.UBUNTU.COM - - - - - - - X - -
+0XFBEF0D696DE1C72BA5A835FE5A9BF3BB4E5E17B5 - - - - - - - X - -
+                 LOT - - - - - - - - O -
+                 GPG - - - - - - - - X -
+              THANKS - - - - - - - - - X

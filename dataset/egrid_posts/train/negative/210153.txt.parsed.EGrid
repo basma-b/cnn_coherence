@@ -1,0 +1,16 @@
+          DIFFERENCE X - - - - - - -
+            FAKEROOT X X S - - O - -
+                SUDO X - - - - - - -
+              DOESNT - S - - - - - -
+                FILE - O X - - - - -
+          -RFAKEROOT - - O - - - - -
+            CREATION - - O - - - - -
+   DPKG-BUILDPACKAGE - - - S - - - -
+                ROOT - - - X O - - -
+         ENVIRONMENT - - - O O - - -
+               WRITE - - - O - - - -
+                 USE - - - - X - - -
+                FLAG - - - - O - - -
+                NEED - - - - - X - -
+                CASE - - - - - X - -
+               9¿¿ - - - - - - - S

@@ -1,0 +1,30 @@
+              ANYONE X - - - - - -
+             CRONTAB X - - - - - -
+                FILE S - - - - - -
+              SYNTAX O - - - - - -
+             COMMAND O X - - X - -
+               PATHS O - - - - - -
+                   U - O - - - - -
+                   * - X - - - - -
+           /DEV/NULL - X - - - - -
+                  -T - X - - - - -
+//LOCALHOST:5555/TTRSS/BACKEND.PHP - X - - - - -
+OP=GLOBALUPDATEFEEDS - - X - - - -
+            DAEMON=1 - - S - - - -
+               THING - - O - - - -
+                LINE - - O - - - -
+                  -L - - X - - - -
+              EDITOR - - X - - - -
+              RETURN - - O - - - -
+                 URL - - S X - - -
+               QUOTE - - X - - - -
+                 IVE - - - S - - -
+                MAIL - - - X - - -
+              SYSTEM - - - O - - -
+              MOMENT - - - X - - -
+                CANT - - - X - - -
+               EMAIL - - - O - - -
+               FAULT - - - X - - -
+                 /30 - - - - X - -
+                CRON - - - - X - -
+               BERYL - - - - - - O

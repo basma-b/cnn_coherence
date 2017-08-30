@@ -1,0 +1,9 @@
+          SERVERNAME X O -
+             APACHE2 X - -
+              UBUNTU X - -
+                NONE - S -
+                FILE - X -
+        /ETC/APACHE2 - X -
+/ETC/APACHE2/APACHE2.CONF - S -
+                LINE - O -
+             NOTHING - - X

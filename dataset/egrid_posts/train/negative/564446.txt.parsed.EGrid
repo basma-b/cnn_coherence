@@ -1,0 +1,27 @@
+               CABLE O - - - - - - - - - - -
+              LAPTOP O - - - - - X - - - - -
+             DESKTOP X - - - - - - - - - - -
+             MACHINE O O - - - X - X - - - -
+                FILE - O - - - - - - - - - -
+                BOTH - - - X - - - - - - - -
+               LINUX - - - X - - - - - - - -
+                LINK - - - - O - - - - - - -
+                DOCS - - - - X - - - - - - -
+          SSH-SERVER - - - - - O - - - - - -
+            RECEIVER - - - - - X - - - - - -
+                SUDO - - - - - X - - - - - -
+             APT-GET - - - - - S - - - - - -
+              SERVER - - - - - O - - - - - -
+                WORK - - - - - X - - - - - -
+             COMMAND - - - - - X - - O - - -
+                 SCP - - - - - - O - - - - -
+       /PATH/TO/FILE - - - - - - S - - - - -
+      OPENSSH-SERVER - - - - - - S - - - - -
+              CLIENT - - - - - - X - - - - -
+              INSTAL - - - - - - - O - - - -
+            SOFTWARE - - - - - - - X - - - -
+          CONNECTION - - - - - - - X - - - -
+            RECEPTER - - - - - - - - - X - -
+IP_ADRESS_OF_THE_LAPTOP - - - - - - - - - X - -
+            PASSWORD - - - - - - - - - X - -
+               THANK - - - - - - - - - - - X

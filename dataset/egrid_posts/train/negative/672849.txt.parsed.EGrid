@@ -1,0 +1,11 @@
+      LIBSTDC++.SO.5 X - - - -
+               SHARE X - - - -
+              OBJECT X - - - -
+                FILE X X - S -
+           DIRECTORY X - - - -
+                THIS X - - - -
+                 ETC - X - - -
+          LIBSTDC++5 - - O - -
+          LIBSTDC++6 - - - O -
+                NAME - - - O -
+                LINK - - - S -

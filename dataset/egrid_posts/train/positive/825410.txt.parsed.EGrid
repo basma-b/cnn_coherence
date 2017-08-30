@@ -1,0 +1,11 @@
+               POINT X - - -
+         RECONFIGURE - X - -
+               BLOCK - X - -
+              DEVICE - X - -
+               LAYER - O - -
+          BOOTLOADER - - X -
+                RAID - - X X
+             VOLUMES - - X -
+               ENTRY - - - O
+           /DEV/SDA1 - - - X
+                BOOT - - - X

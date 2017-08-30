@@ -1,0 +1,13 @@
+                 DSL X - - - -
+              DIALUP X - - - -
+            USERNAME X - - - -
+            PASSWORD O - - - -
+             MACHINE - O S - -
+   USERNAME/PASSWORD - - X - -
+            INTERNET - - X - -
+             DEFAULT - - X - -
+             MINIMAL - - X - -
+           PPPOECONF - - - O -
+               CHECK - - - O -
+                FILE - - - - X
+                GRUB - - - - X

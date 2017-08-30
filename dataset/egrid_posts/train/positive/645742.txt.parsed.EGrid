@@ -1,0 +1,12 @@
+             ANYBODY S - - - - -
+            SHUTDOWN X - - - - -
+                 SSH O - - - - -
+                PORT X S - - S -
+              INSTAL - X - - - -
+           CONFIGURE - O - - - -
+                SSHD - - - S - -
+                 PID - - - O - -
+             NETSTAT - - - X - -
+            -NP|GREP - - - X - -
+              SERVER - - - O - -
+                CONF - - - - - X

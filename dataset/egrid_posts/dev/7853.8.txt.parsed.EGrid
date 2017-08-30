@@ -1,0 +1,26 @@
+              ANYONE S - - - - - -
+             DRIVERS O - - - - - -
+                  HP X X - - - - -
+            KEYBOARD X - O - - - -
+              LAPTOP - X - - - - -
+                 USB - - S - - - -
+              KERNEL - - X - - - -
+              OPTION - - O - - - -
+            PROBLEMS - - X - - - -
+               PORTS - - X - - - -
+                   U - - X - - - -
+              CHANGE - - X - - - -
+                PORT - - X - - - -
+            EXTENDER - - O - - - -
+          DIFFERENCE - - O - - - -
+               THING - - - O - - -
+          SDA3_CRYPT - - - - X - -
+                   / - - - - O - -
+/LIB/INIT/RW/UDEV/DATA/B252:0 - - - - S - -
+                 ONE - - - - O - -
+                BOOT - - - - - X -
+              PARAMS - - - - - X -
+ROOT=/DEV/MAPPER/SDA3_CRYPT - - - - - - X
+              SPLASH - - - - - - X
+CRYPTDEVICE=/DEV/SDA3 - - - - - - X
+ROOT=/DEV/MAPPER/LINUXROOT - - - - - - X

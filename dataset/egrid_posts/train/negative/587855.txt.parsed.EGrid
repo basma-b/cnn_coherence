@@ -1,0 +1,16 @@
+           PARTITION O - - -
+                COPY X - - -
+              SYSTEM X - - -
+                WORK - X - -
+                /DEV - O - -
+              CHROOT - - O -
+              ANYONE - - X -
+            SOLUTION - - X -
+                BOOT - - X -
+                  CD - - X -
+                BIND - - X -
+/MNT/MYOLDSYSTEM/DEV - - X -
+                 TAR - - - X
+                   + - - - X
+                GZIP - - - S
+               YEARS - - - X

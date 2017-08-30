@@ -1,0 +1,13 @@
+                 CLI X - - - - -
+                 USB O - - - - -
+              DEVICE S - S - - -
+               LSUSB - X - - - -
+              HWINFO - S - - - -
+               DMESG - - S - - -
+                PLUG - - X - - -
+                 ANY - - - - S -
+            /VAR/LOG - - - - X -
+             PROBLEM - - - - O -
+                 USE - - - - - X
+            NICKNAME - - - - - X
+             DRIVERS - - - - - X

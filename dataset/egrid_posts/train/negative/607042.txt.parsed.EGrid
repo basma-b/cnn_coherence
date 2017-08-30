@@ -1,0 +1,14 @@
+           PARTIMAGE X - - - - -
+               IMAGE O - - - - -
+           PARTITION X - - - - -
+                 USE - O - - - -
+                80GB - S - - - -
+                  7G - X - - - -
+                THIS - X - - - -
+                FSCK - - O O - -
+                NTFS - - - S - -
+              CHKDSK - - - - S -
+                INFO - - - - - X
+             NETWORK - - - - - X
+               LINUX - - - - - X
+             CHAPTER - - - - - X

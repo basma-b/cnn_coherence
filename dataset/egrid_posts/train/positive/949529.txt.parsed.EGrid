@@ -1,0 +1,13 @@
+                FLAG X - -
+                 USE O - -
+             PACKAGE O X S
+             SOMEONE S - -
+                  -X O - -
+              SOURCE S S -
+                   < - X -
+                   > - X -
+             VERSION - X -
+           DIRECTORY - X -
+        DEBIAN/RULES - S S
+            FAKEROOT - X -
+   DPKG-BUILDPACKAGE - X -

@@ -1,0 +1,31 @@
+             NETWORK X - - - - - - - - -
+                CARD X - - - - - - - - -
+            WIRELESS X - - - - - - - - -
+             CHIPSET X - - - - - - - - -
+              NUMBER X - - - - - - - - -
+            COMPUTER - S - - - - - - - -
+               THERE - - X - - - - - - -
+             COMMAND - - X - - - - - - -
+                 USE - - - S - - - - - -
+               LSPCI - - - X - - - - - -
+                DONT - - - X - - - - - -
+           VARIABLES - - - X - - - - - -
+                HTTP - - - X - - - - - -
+//MYWIKI.WOOLEDGE.ORG/PARSINGLS - - - S - - - - - -
+                EXPR - - - O - - - - - -
+                   + - - - S - - - - - -
+             MICHAEL - - - S - - - - - -
+                 ZSH - - - X - - - - - -
+              OUTPUT - - - X - - - - - -
+              SCRIPT - - - X X X - - - -
+             CONTENT - - - - - O - - - -
+                WORK - - - - - - O - - -
+                 CAT - - - - - - S O - -
+/USR/LOCAL/BIN/MOUNTIMM - - - - - - S - - -
+             PROBLEM - - - - - - X - - -
+                 THE - - - - - - - X - -
+                THIS - - - - - - - X - -
+            MOUNTIMM - - - - - - - S - -
+                PATH - - - - - - - O - -
+                BASH - - - - - - - X - -
+                FILE - - - - - - - X - -

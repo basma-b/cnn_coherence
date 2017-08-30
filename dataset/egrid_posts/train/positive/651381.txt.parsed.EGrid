@@ -1,0 +1,34 @@
+             FRIENDS X - - - - - - -
+             PACKAGE O X - - - - - -
+              PLAQUE X - - - - - - -
+                WORD - X - - - - - -
+          RECOMMENDS - X - - - - - -
+                HTTP - - X - - - - -
+//WWW.DEBIAN.ORG/DOC/MANUALS/APT-HOWTO/CH-APT-GET.EN.HTML - - S - - - - -
+             SECTION - - S - - - - -
+          PRIORITIES - - X - - - - -
+                FILE - - O S O - - -
+/ETC/APT/PREFERENCES.D/ - - X - - - - -
+          DIFFERENCE - - O - - - - -
+                THIS - - X - - - - -
+                   * - - - O S - - -
+         DIRECTORIES - - - S - - - -
+                THAT - - - - S - - -
+                 ONE - - - - O - - -
+                  .. - - - - O - - -
+                NAME - - - - X X - -
+              SCHEME - - - - S - - -
+               THERE - - - - S - - -
+            APPROACH - - - - O - - -
+/ETC/APT/PREFERENCES - - - - S - - -
+            DOCUMENT - - - - X - - -
+                PAGE - - - - X - - -
+        SUBDIRECTORY - - - - - S - -
+                RULE - - - - - O - -
+                 USE - - - - - O - -
+             DEFAULT - - - - - X - -
+            MANPAGES - - - - - - - S
+              FRIEND - - - - - - - X
+                MORE - - - - - - - O
+                 MAN - - - - - - - X
+            APT.CONF - - - - - - - X

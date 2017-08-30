@@ -1,0 +1,16 @@
+                HELP X - - - -
+              FORMAT X X - - -
+                NTFS X X - - -
+           PARTITION X X S - -
+             ﻿HELP - X - - -
+           MKFS.VFAT - - X - -
+             MKDOSFS - - X - -
+             COMMAND - - X - -
+            /DEV/SDB - - - S -
+                SUDO - - - X -
+                   D - - - X -
+                   W - - - O -
+                   N - - - X -
+              OPTION - - - - S
+              SCREEN - - - - X
+                  VM - - - - X

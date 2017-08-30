@@ -1,0 +1,15 @@
+               OWNER O - - -
+           DIRECTORY X - - -
+               ADMIN X - - -
+                USER X - - X
+           OWNERSHIP - O - -
+         PERMISSIONS - X - -
+                  OK - - S -
+             COMMAND - - X -
+                LINE - - O -
+                SUDO - - S -
+       /ETC/WHATEVER - - X -
+                NAME - - - S
+               GROUP - - - X
+                 DIR - - - S
+           /ETC/SUCK - - - O

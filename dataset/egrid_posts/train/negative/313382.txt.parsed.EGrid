@@ -1,0 +1,14 @@
+              SERVER O - - -
+                  UI X - - -
+         APPLICATION O X - -
+              SYSTEM S - - -
+                BOOT O - - -
+                FILE - X - -
+             SERVICE - S - -
+                LOAD - O - -
+          INITIALIZE - X - -
+              SCRIPT - - O -
+        RAPPLICATION - - X -
+            PRIORITY - - O -
+                 THX - - - X
+                BOTH - - - X

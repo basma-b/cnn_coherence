@@ -1,0 +1,16 @@
+       UBUNTU/DEBIAN X - - - - -
+                 ONE S - - - - -
+           PARTITION X - - - - -
+          FILESYSTEM - O - - - -
+          /ETC/FSTAB - X - - - -
+            REFORMAT - - S - - -
+              CHANGE - - X - - -
+               FSTAB - - O - - -
+              SYSTEM - - - S - -
+                UEFI - - - O - -
+                  .. - - - - X -
+           ULTRABOOK - - - - - O
+                 SSD - - - - - O
+               CACHE - - - - - X
+                  GB - - - - - X
+                  HD - - - - - X

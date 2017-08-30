@@ -1,0 +1,24 @@
+            /DEV/SDA O - - - - - - - - -
+              SYSTEM X - - - - - - - - -
+               DRIVE O X - - - - - - - -
+               THESE O - - - - - - - - -
+                SDA1 - S - - - - - - - -
+                HALF - O - - - - - - - -
+              LITTLE - X - - - - - - - -
+           PARTITION - - X - - - X - - -
+               MOUNT - - X - - - - - - -
+                   / - - X - - - - - - -
+           TRUECRYPT - - O - - - - - - -
+                 MAN - - O - - - - X - -
+                  DF - - - X - - - - - -
+              OUTPUT - - - - X - - - - -
+                  -L - - - - X - - - - -
+                ROOT - - - - - X - - - -
+          FILESYSTEM - - - - - O - - - -
+              /HOME/ - - - - - - X - - -
+                HOME - - - - - - - X - -
+           DIRECTORY - - - - - - - O - -
+ECRYPTFS-MIGRATE-HOME - - - - - - - X - -
+             COMMAND - - - - - - - X - -
+   ENCRYPTFS-MIGRATE - - - - - - - X - -
+                 ONE - - - - - - - - - X

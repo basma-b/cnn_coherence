@@ -1,0 +1,14 @@
+  RESTRICTED-MODULES X - - - - -
+                DONT - X - - - -
+LINUX-RESTRICTED-MODULES - X - - - -
+             PACKAGE - S - - - -
+                CALL - O - - - -
+              NVIDIA - X - - - X
+              KERNEL - X - - - X
+              DRIVER - O - - - -
+                PART - O - - - -
+                   X - X - - - -
+              SERVER - X - - - -
+                BOTH - - O - - -
+                HERE - - - - X -
+              MODULE - - - - - S

@@ -1,0 +1,10 @@
+             COMMAND S X - - -
+                PIPE O - - - -
+             PROCESS - - - S -
+                FIND - - - X -
+                CALL - - - X -
+                  RM - - - O -
+                FILE - - - X -
+                NAME - - - S -
+                EXEC - - - X -
+               VIDEO - - - - O

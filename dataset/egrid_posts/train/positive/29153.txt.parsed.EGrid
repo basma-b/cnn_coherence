@@ -1,0 +1,14 @@
+              DEBIAN S S - - - -
+           RUNLEVELS O - - - - -
+          GUI/NONGUI X - - - - -
+           CMDLINE/X X - - - - -
+              UBUNTU S - - - - -
+                 2-5 - - S - - -
+          LINUX+UDEV - - O - - -
+              SCRIPT - - - O - -
+             NETWORK - - - X - -
+                CARD - - - S - -
+                IFUP - - - X - -
+                  ED - - - O - -
+          INTERFACES - - - - - O
+                HOOK - - - - - O

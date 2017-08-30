@@ -1,0 +1,14 @@
+           POWERNOWD X - - - - -
+                BOOT X - - - - -
+        /ETC/INIT.D/ - - X - - -
+                   * - - S - - -
+              SCRIPT - - O X - -
+             DEAMONS - - O - - -
+         /ETC/RC01.D - - X - - -
+                THAT - - - S - -
+                STOP - - - X - -
+/ETC/INIT.D/POWERNOWD - - - S - -
+                  PC - - - S - -
+                USER - - - - - X
+                BASE - - - - - O
+              PEOPLE - - - - - S

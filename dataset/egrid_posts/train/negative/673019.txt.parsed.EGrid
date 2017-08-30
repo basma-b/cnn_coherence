@@ -1,0 +1,10 @@
+            QUESTION O O -
+               DHCPD S - -
+                 RUN X - -
+                THIS S - -
+              CHANGE X - -
+                FILE X - -
+/ETC/DEFAULT/DHCP3-SERVER X - -
+              OPTION S - -
+                  'T - S -
+                  NO - - X

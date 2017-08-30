@@ -1,0 +1,22 @@
+           WEBSERVER O - - - - - - -
+              SCRIPT O - S - - - - -
+         DIRECTORIES S - - - - - - -
+         SCRIPTALIAS O X S - - - - -
+              APACHE X - X - - - - -
+       CONFIGURATION X - - - - - - -
+              OBJECT S - - - - - - -
+           DIRECTORY X - - - - - - -
+                   ' - - X - - - - -
+           DIRECTIVE - - O - - - - -
+                 PHP - - - S - - - -
+              MODULE - - - S - - - -
+/ETC/APACHE2/MODS-ENABLED - - - S - - - -
+             MODULES - - - O - - - -
+                GREP - - - X - - - -
+              OUTPUT - - - X - - - -
+          SCRIPALIAS - - - - X - - -
+                CONF - - - - X - - -
+                 USE - - - - - - X -
+                  .. - - - - - - - X
+               PAPER - - - - - - - X
+            PLANNERS - - - - - - - X

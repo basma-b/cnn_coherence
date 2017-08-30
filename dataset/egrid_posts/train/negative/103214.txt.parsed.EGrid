@@ -1,0 +1,16 @@
+              KERNEL S -
+          MENUCONFIG O -
+                 DEP S -
+             BZIMAGE O -
+             MODULES O -
+     MODULES_INSTALL O -
+           OLDCONFIG X -
+        KERNEL_IMAGE X -
+       MODULES_IMAGE X -
+                   < X -
+               THERE X -
+             MANULES X -
+              MODULE S -
+                 ALL O -
+SYSTEM/ADMIN/NETWORKING - S
+                MENU - X

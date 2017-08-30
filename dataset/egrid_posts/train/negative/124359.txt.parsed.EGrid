@@ -1,0 +1,16 @@
+              KERNEL S S - - X - - - -
+                LOAD O - - - - - - - -
+        INSTALLATION X - - - - - - - -
+              UBUNTU - X - - - - - - -
+                HTTP - X - - - - - - -
+//PACKAGES.UBUNTU.COM/ - S - - - - - - -
+             VERSION - X - - - - - - -
+             PACKAGE - X - - - X - - -
+                SUDO - - X - - - - - -
+             APT-GET - - S - - - - - -
+KERNEL-IMAGE-2.4.27-2-386 - - O - - - - - -
+              DAPPER - - O - - - - - -
+           DOWNGRADE - - - - X - - - -
+                 2.4 - - - - X O - - -
+            CONFLICT - - - - - - X - -
+                COOL - - - - - - - - O

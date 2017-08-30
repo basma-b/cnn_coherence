@@ -1,0 +1,20 @@
+             PRINTER O O -
+SYSTEM-CONFIG-PRINTER - S -
+             NETWORK - X -
+                HTTP - X -
+     //LOCALHOST:631 - S -
+                 CUP - X -
+                PAGE - X -
+              OPTION - O -
+                 IPP - X -
+           SOMETHING - O -
+                  HP - X -
+              CANNON - X -
+               MODEL - O -
+              SCHOOL - X -
+              METHOD - O -
+               CLICK - O -
+            PRINTERS - O -
+                  CD - - X
+                WORK - - S
+            SOLUTION - - O

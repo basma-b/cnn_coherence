@@ -1,0 +1,9 @@
+                 ONE S - - - -
+                 USE - - - - X
+     VM.SWAPPINESS=5 - - - - S
+    /ETC/SYSCTL.CONF - - - - X
+             SERVICE - - - - X
+             STARTUP - - - - S
+           NM-APPLET - - - - O
+                 FIX - - - - X
+          IP-ADDRESS - - - - O

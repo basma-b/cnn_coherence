@@ -1,0 +1,17 @@
+                  IP O - - - - -
+          INTERFACES X - - S - -
+                FILE X - - - - -
+             NETWORK X - - - - -
+              EFFECT O - - - - -
+               IDEAS - X - - - -
+              IFDOWN - - X - - -
+                IFUP - - S - - -
+      NETWORKMANAGER - - - S - -
+           INTERFACE - - - X - -
+                THIS - - - S - -
+              UBUNTU - - - X - -
+              SERVER - - - X - -
+                 BOX - - - O - -
+             DESKTOP - - - X - -
+        DHCPD/DHCPCD - - - O - -
+             ADDRESS - - - - O -

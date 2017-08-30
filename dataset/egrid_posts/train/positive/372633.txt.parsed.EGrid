@@ -1,0 +1,13 @@
+                 HMM S - - - -
+                LINE - O - - -
+                THIS - X - - -
+               DMESG - X - - -
+               WORRY - X - - -
+DRIVERS/USB/CLASS/USBLP.C - - S - -
+              USBLP0 - - X - -
+              STATUS - - O - -
+                 -71 - - X - -
+                 USB - - S - -
+              DEVICE - - O - -
+                TIME - - - - X
+             PRINTER - - - - O

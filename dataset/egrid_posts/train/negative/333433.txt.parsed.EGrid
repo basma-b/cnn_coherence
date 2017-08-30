@@ -1,0 +1,40 @@
+                ROOT X - X - - - - - - - - X - - -
+         FILESISTEMS O - - - - - - - - - - - - - -
+                  .. X - - X - - - - - - - - - - -
+                CANT X - - - - - - - - - - - - - -
+/SCRIPTS//DEV/SDA9/U/CASPER X - - - - - - - - - - - - - -
+              KERNEL X - - - X - - - S - - - - - -
+               PANIC X - - - - - - - - - - - - - -
+              HAPENS X - - - - - - - - - - - - - -
+                BOOT X - - X - - - X - X - - - - -
+                 ISO S - - X - - S - - - - - - - -
+                 HDD X - - - - - - - - - - - - - -
+             SOMEONE X - - - - - - - - - - - - - -
+                GRUB X - - X - - - - - - S - - - -
+                MODE X - - - - - - - - - - - - - -
+          BOOTLOADER - - S - - - - - - - - - - - -
+                IDEA - - O - - - - - - - - - - - -
+              DEVICE - - S - - X - - X - - - - - -
+          FILESYSTEM - - O - - - - - - - - X - - -
+                 MMM - - - O - - - - - - - - - - -
+              SYNTAX - - - S - - - - - - - - - - -
+                 USE - - - O O - - - - - - - - - -
+            ARGUMENT - - - - X - - - - - - - - - -
+              PARSER - - - - X - - - - - - - - - -
+               POINT - - - - - X - - - - - - - - -
+                THAT - - - - - - O - - - - - - - -
+                FILE - - - - - - X - - - - - - - -
+                COPY - - - - - - X - - - - - - - -
+            HARDDISK - - - - - - X - - - X - - - -
+                MONT - - - - - - - O - - - - - - -
+             CONTENT - - - - - - - O O - - - - - -
+                .ISO - - - - - - - X - - - - - - -
+           PARTITION - - - - - - - X X S - - - - -
+BOOT=/DEV/SDA9/U/CASPER - - - - - - - S - - - - - - -
+            PATHNAME - - - - - - - - O - - - - - -
+           /U/CASPER - - - - - - - - X - - - - - -
+                NAME - - - - - - - - X - - - - - -
+           /DEV/SDA9 - - - - - - - - X - - - - - -
+              FORMAT - - - - - - - - - - O - - - -
+PARTITION/FILESYSTEM - - - - - - - - - - - O - - -
+               /BOOT - - - - - - - - - - - - - O -

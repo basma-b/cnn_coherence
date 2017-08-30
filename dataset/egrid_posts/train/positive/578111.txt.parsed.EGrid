@@ -1,0 +1,26 @@
+                9.04 S - - - - - - - - - -
+           HIBERNATE X - - - X - - - - - -
+             SUSPEND X - - - - - - - - - -
+                 RAM X - - - X - - - - - -
+     /VAR/LOG/SYSLOG - X - - - - - - - - -
+              KERNEL - X - - - - - - - - -
+/BOOT/SYSTEM.MAP-2.6.28.11-GENERIC - O - - - - - - - - -
+                 MAP - X - - - - - - - - -
+                FILE - O X - - - - - - - -
+                 USE - - X - - - - - - - -
+                  MC - - O - - - - - - - -
+              UBUNTU - - - - X - - - - - -
+            COMPUTER - - - - S - - - - - -
+                HINT - - - - - O - - - - -
+               DMESG - - - - - X - - - - -
+                 MAY - - - - - - S - - - -
+/VAR/LOG/PM-SUSPEND.LOG - - - - - - X - - - -
+                LINE - - - - - - S - - - -
+                 TUE - - - - - - X - - - -
+                LOOK - - - - - - - X - - -
+               ERROR - - - - - - - X - - -
+             MESSAGE - - - - - - - X - - -
+             DEVICES - - - - - - - - X - -
+                  SD - - - - - - - - X - -
+                CARD - - - - - - - - X - -
+                PLUG - - - - - - - - X - -

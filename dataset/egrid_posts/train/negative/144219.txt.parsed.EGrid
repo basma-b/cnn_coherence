@@ -1,0 +1,14 @@
+            DHCLIENT X X - - - - -
+              UPDATE O - - - - - -
+         NAMESERVERS X - - - - - -
+/ETC/DHCP3/DHCLIENT.CONF X - - - - - -
+                 MAN - X - - - - -
+                INFO - X - - - - -
+                FLAG - - X - - - -
+                 WAY - - - S - - -
+         RESOLV.CONF - - - O - - -
+               OWNER - - - S - - -
+          PERMISSION - - - O - - -
+                THAT - - - - S - -
+          EVERYTHING - - - - - X -
+             SCRATCH - - - - - X -

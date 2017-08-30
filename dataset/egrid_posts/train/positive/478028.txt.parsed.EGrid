@@ -1,0 +1,8 @@
+         PERMISSIONS S O -
+               CHMOD - S -
+                SUDO - X -
+                 USE - X -
+                  -V - O -
+                  -L - X -
+                DONT - S -
+                HTTP - - X

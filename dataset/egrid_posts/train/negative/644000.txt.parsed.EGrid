@@ -1,0 +1,16 @@
+           PERMISION X - - - - -
+           DIRECTORY X - - - - -
+               USERS S - - - - -
+                ROOT - S - - - -
+           VOICEMAIL - O - - - -
+/VAR/SPOOL/ASTERISK/VOICEMAIL/ - X - - - -
+                LINK - O - - - -
+               CHMOD - X - - - -
+              TARGET - X - - - -
+/VAR/SPOOL/ASTERISK/VOICEMAIL - X - - - -
+                THAT - - S - - -
+               WORLD - - X - - -
+            READABLE - - O - - -
+              KRIS__ - - - X - -
+                HTTP - - - X - -
+//PASTEBIN.COM/M5B6D49D9 - - - X - -

@@ -1,0 +1,12 @@
+          BACKGROUND X - - -
+               IMAGE O - - -
+                 GDM - O - -
+             12.04.1 - S - -
+             MANAGER - X - -
+                  VS - X - -
+             LIGHTDM - - - S
+                 TON - - - S
+                SUDO - - - X
+             SERVICE - - - X
+      /VAR/LOG/DMESG - - - O
+                FILE - - - O

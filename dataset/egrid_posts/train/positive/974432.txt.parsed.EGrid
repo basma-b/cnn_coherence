@@ -1,0 +1,14 @@
+                HDA6 X - - - -
+                DISK O - - - -
+                VFAT - X - - -
+               MOUNT - X - - -
+           /DEV/HDA6 - S - - -
+               FSTAB - X - - -
+           /MNT/HDA6 - X - - -
+                  RW - X - - -
+                USER - X - - -
+          /ETC/FSTAB - X - - -
+             CULPRIT - S - - -
+             DEFAULT - X - - -
+                  TM - X - - -
+             COMMAND - - - - X

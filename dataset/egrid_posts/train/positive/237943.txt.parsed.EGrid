@@ -1,0 +1,11 @@
+             COMMAND X - S - - -
+             PROGRAM X - - - - -
+                USER X - X - - -
+              SCRIPT - - O - - -
+                  X2 - - S - - -
+         PRIVILEGIES - - X - - -
+                  X1 - - X - - -
+                 WAY - - O - - -
+                SUDO - - O - - -
+                FILE - - X - - -
+        /ETC/SUDOERS - - - - X -

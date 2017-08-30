@@ -1,0 +1,18 @@
+                TIME O - - -
+ CLIENTALIVEINTERVAL X - - -
+ CLIENTALIVECOUNTMAX X - - -
+/ETC/SSH/SSHD_CONFIG X - - -
+              SERVER X - - -
+          CONNECTION S - - -
+             MACHINE - X X -
+             DESKTOP - - X -
+                  .. - - X -
+               HAVEN - - X -
+                   T - - S -
+                KIND - - O -
+             PROBLEM - - X -
+                  NP - - X -
+                 SSH - - - O
+           KEEPALIVE - - - X
+              OPTION - - - O
+         SSHD_CONFIG - - - X

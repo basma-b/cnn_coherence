@@ -1,0 +1,35 @@
+                 TRY X - - - - -
+                DELL X - - - - -
+           LATTITUDE X - - - - -
+                D800 O - - - - -
+              NVIDIA X - - - - -
+            GEFORCE4 X - - - - -
+                  TI X - - - - -
+            GRAPHICS X - - - - -
+              DRIVER O - - - - -
+               THERE - S - - - -
+                 BUG - O - - - -
+               10.10 - X - - - -
+         WORKAROUNDS - S - - - -
+               HTTPS - S - - - -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/NVIDIA-GRAPHICS-DRIVERS-96/+BUG/626974 - X - - - -
+                POST - X - - - -
+             DRIVERS - - O - - -
+          DEPENDENCY - - X - - -
+            PROBLEMS - - O - - -
+              UPDATE - - - X - -
+             PACKAGE - - - O - -
+            DOWNLOAD - - - X - -
+                FILE - - - X - -
+               ISSUE - - - O - -
+            SOFTWARE - - - X - -
+             PROGRAM - - - S - -
+            CONFLICT - - - X - -
+              BREAKS - - - S - -
+          JOCKEY-GTK - - - X - -
+                THIS - - - X - -
+                SUDO - - - - X -
+             APT-GET - - - - S -
+        DIST-UPGRADE - - - - O -
+     PURGE/REINSTALL - - - - - S
+/VAR/LIB/DPKG/INFO/OPENSSH-SERVER.POSTINST - - - - - X

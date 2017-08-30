@@ -1,0 +1,10 @@
+                THIS X - - - - -
+                PATH - S X - - -
+          BOOTLOADER - X - - - -
+               TFTPD - X - - - -
+                ROOT - X - - - -
+                CODE - S - - - -
+               STORE - X - - - -
+              SERVER - X - - - -
+               PXE.0 - - X X - -
+                FILE - - - - X -

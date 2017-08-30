@@ -1,0 +1,16 @@
+               START O - - - -
+             NETWORK X X - - -
+                 WAY X X - - -
+                 GUY X X - - -
+                  .. X X - - -
+                SUSE X - - - -
+               SHARE X X - - -
+              FOLDER O O - - -
+            SMBMOUNT X - - - -
+//SERVER/SHAREDFOLDER X - - - -
+/HOME/ALVARADO/FOLDER X X - - -
+              UBUNTU X X - - -
+               SMBFS - - O O -
+               MOUNT - - X - -
+             COMMAND - - O - -
+             OPTIONS - - - O -

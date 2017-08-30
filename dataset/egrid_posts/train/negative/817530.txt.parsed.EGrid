@@ -1,0 +1,9 @@
+             COMMAND X X - - -
+                LINE X X - - -
+                   % X X - - -
+         S/^M^M/^M/G X X - - -
+              STDOUT - X - - -
+                THAT - - S - -
+                 CAT - - X - -
+                FILE - - X - -
+                PIPE - - O - -

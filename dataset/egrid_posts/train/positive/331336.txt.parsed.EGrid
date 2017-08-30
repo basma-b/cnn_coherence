@@ -1,0 +1,9 @@
+                ROOT O X - -
+                FILE - X - -
+              KERNEL - X X -
+               PANIC - O O -
+                BOOT - X X -
+            RECOVERY - X - -
+              SYSTEM - - O -
+             SESSION - - - X
+                 ATM - - - X

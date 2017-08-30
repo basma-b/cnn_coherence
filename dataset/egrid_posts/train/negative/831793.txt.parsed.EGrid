@@ -1,0 +1,10 @@
+            IPTABLES O - -
+                SENS S - -
+                 BR0 S - -
+               LEASE O - -
+              ROUTER X - -
+                 USE - X -
+/ETC/NETWORK/INTERFACES - S -
+                SAME - O -
+                ETH1 - X -
+               QUIET - - X

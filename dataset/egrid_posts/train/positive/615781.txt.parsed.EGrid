@@ -1,0 +1,14 @@
+                 FTP X - - - - -
+              FOLDER X - - O - -
+                ANY1 - X - - - -
+              SERVER - - - O - -
+                MPUT - - - O - -
+             COMMAND - - - X - -
+           SUBFOLDER - - - X - -
+               SSHFS - - - S - -
+             APT-GET - - - S - -
+               SHELL - - - X - -
+              SCRIPT - - - X - -
+                HTTP - - - - X -
+                 THX - - - - X -
+                  NP - - - - - X

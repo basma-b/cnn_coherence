@@ -1,0 +1,23 @@
+               ADOBE X - - - - - - - - -
+         ILLUSTRATOR X - - - - - - - - -
+                FILE O - - - - - - - - -
+            INKSCAPE X - - - - - - - - -
+               ERROR O - - - - - - - - -
+                PERL O - - - - - - - - -
+               IMAGE X - - - - - - - - -
+              MAGICK X - - - - - - - - -
+              IMAGES - S - - - - - - - -
+     IMAGE/MAGICK.PM - - O - - - - - - -
+                 INC - - S - - - - - - -
+    /USR/SHARE/PERL5 - - O - - - - - - -
+/USR/LOCAL/LIB/SITE_PERL - - X - - - - - - -
+                  AT - - - S - - - - - -
+                EVAL - - - X - - - - - -
+                LINE - - - - X - - - - -
+         COMPILATION - - - - X - - - - -
+               ABORT - - - - X - - - - -
+LIBGRAPHICS-MAGICK-PERL - - - - - S - - - -
+             PACKAGE - - - - - X X - - -
+                NAME - - - - - O O - - -
+                 APT - - - - - - - S - -
+          PERLMAGICK - - - - - - - - - X

@@ -1,0 +1,17 @@
+               THERE X - S - - - - - -
+             COMMAND X - - - - - - - -
+                 DEB X - X - - - - - -
+                FILE O - O - - - - - -
+        DEPENDENCIES O O O - - - - - -
+                LINE X - - - - - - - -
+                DPKG - S S - - - - - -
+                SUDO - - X - - - - X -
+             APT-GET - - X - - - - S -
+                  -F - - S - - - - - -
+        TROUBLESHOOT - - X - - - - - -
+               ISSUE - - O - - - - - -
+          DEPENDCIES - - - X - - - - -
+                DEBS - - - X - - - - X
+               REPOS - - - - X X - - -
+             INSTALL - - - - - - - X -
+    LIBMYSQLCLIENT16 - - - - - - - O -

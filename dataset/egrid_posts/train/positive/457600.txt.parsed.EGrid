@@ -1,0 +1,13 @@
+                TIME X - - - -
+          EXPRESSION X - - - -
+               -RSB- O - - - -
+              AMOUNT X - - - -
+           CHARACTER X - - - -
+                 ANY - S - - -
+              REGEXP - - X - -
+                   * - - - S -
+                   + - - - S -
+                MORE - - - X -
+               MATCH - - - - X
+               ASDFA - - - - X
+           UNMATCHED - - - - X

@@ -1,0 +1,26 @@
+              UBUNTU O - - - - - - -
+                GRUB O - - - - - - -
+                 MBR X - - - - - - -
+           CHAMELEON O - - - - - - -
+                BOOT X - - S - - - S
+              LOADER X - - - - - - -
+           PARTITION - O X - - - - S
+          EVERYTHING - - X - - - - -
+                 USB - - X O - - - -
+          READ/WRITE - - - O - - - -
+            TERMINAL - - - X - - - -
+                  CD - - - X - - - -
+                   / - - - S - - - -
+/MNT/WHATEVER-U-MOUNTED-THE-PARTITON-AS/ - - - O - - - -
+                   < - - - - - X - -
+           /DEV/SDA1 - - - - - X X -
+       /MNT/WHATEVER - - - - - O - -
+             REMOUNT - - - - - - O -
+               FORCE - - - - - - X -
+     /MEDIA/WHATEVER - - - - - - S -
+          FILESYSTEM - - - - - - X -
+                TYPE - - - - - - O -
+              CD/DVD - - - - - - - S
+             PROCESS - - - - - - - O
+                  HD - - - - - - - X
+                 WAY - - - - - - - O

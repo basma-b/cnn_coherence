@@ -1,0 +1,15 @@
+                SUDO X - - - O - -
+             OPTIONS S - - - - S -
+                   > X - - - - - -
+/ETC/MODPROBE.D/OPTIONS O - S - - O -
+               ERROR - O - - - - -
+                BASH - - S - - - -
+          PERMISSION - - S - - - -
+              ANYONE - - X - - - -
+                 USE - - - - S - -
+         REDIRECTION - - - - X - -
+               WHILE - - - - X - -
+     SWCRYPTO=1|SUDO - - - - - X -
+                 TEE - - - - - X -
+                  -A - - - - - X -
+             INHUMAN - - - - - - X

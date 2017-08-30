@@ -1,0 +1,9 @@
+             STORAGE X - - - - - -
+              DEVICE O - - - - - -
+                  PC X - - - - - -
+               USBFS O - - - - - -
+       /PROC/BUS/USB X S - - - - -
+DEVICES,001/001,001/002,001/003 - X - - - - -
+          FILESYSTEM - X - - - - -
+           DIRECTORY - X - - - - -
+            ANYTHING - - - - - - O

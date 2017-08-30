@@ -1,0 +1,11 @@
+              SWAPON - X - - -
+           PARTITION - X - - -
+                SWAP - - S - X
+           /DEV/SDA4 - - X - -
+        INSTALLATION - - X - -
+           /DEV/SDA5 - - X - -
+                UUID - - S - -
+                  -H - - S - -
+                AREA - - X - -
+          FILESYSTEM - - - - X
+                TYPE - - - - X

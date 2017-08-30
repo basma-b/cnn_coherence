@@ -1,0 +1,9 @@
+          AUTOREMOVE O - -
+                   * S - -
+             NOTHING - S -
+           APT-CACHE - S -
+                   < - X -
+             PACKAGE - S O
+                   > - O -
+               THING - - O
+            ANYTHING - - O

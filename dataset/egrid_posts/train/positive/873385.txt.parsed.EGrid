@@ -1,0 +1,10 @@
+                 MAN - X -
+               CHMOD - S -
+                SAME - - X
+          DIFFERENCE - - O
+                FILE - - O
+           DIRECTORY - - X
+              SYNTAX - - S
+             OPTIONS - - S
+                  -R - - X
+               SENSE - - O

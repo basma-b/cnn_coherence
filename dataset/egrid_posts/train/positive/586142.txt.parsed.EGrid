@@ -1,0 +1,14 @@
+                NTFS - X - - - - - -
+           PARTITION - S X - - X - -
+            LOOPBACK - X - - - - - -
+                   ' - - X - - - - -
+                READ - - X - - - - X
+                FILE - - O X - - - -
+           DIRECTORY - - X - - - - -
+         SOMEPIC.JPG - - X - - - - -
+          PERMISSION - - X - - - - -
+               ERROR - - O - - - - -
+         PERMISSIONS - - - S - - - -
+                ROOT - - - O - - - -
+              ANYONE - - - - X - - -
+                COPY - - - - - - - O

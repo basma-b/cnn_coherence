@@ -1,0 +1,14 @@
+             VOLINFO X - - - -
+                 HMM - X - - -
+             TUNE2FS - - O - -
+                SWAP - - X S -
+              MKSWAP - - O - -
+                UUID - - O - -
+              SWAPFS - - X - -
+                NOTE - - O - -
+           PARTITION - - O - -
+               DRIVE - - X - -
+                  .. - - X X -
+           EXCEPTION - - - O -
+            INTERNET - - - - O
+                 BOX - - - - X

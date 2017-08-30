@@ -1,0 +1,6 @@
+           INTERFACE X - - -
+            LOOPBACK - - S -
+                  LO - - X -
+                INET - - X -
+                AUTO - - X -
+/ETC/NETWORK/INTERFACES - - X -

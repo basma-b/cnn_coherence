@@ -1,0 +1,17 @@
+                 DIR O - - - - - -
+                  'S S - - - - - -
+          /ETC/FSTAB X - - - - - -
+               FSTAB S - - - - - -
+              CHANGE X - - - - - -
+                SUDO - X - - - - -
+              UMOUNT - X - - - - -
+                  -A - S - - - - -
+              ACCESS - O - - - - -
+             WINDOWS - X - - - - -
+               SHARE - X - - - - -
+             ATTEMPT - - S - - - -
+           DIRECTORY - - O - - - -
+                  -L - - - X - - -
+               OPERA - - - - - - X
+             PACKAGE - - - - - - O
+        DEPENDENCIES - - - - - - X

@@ -1,0 +1,11 @@
+               MATCH X - -
+              DEVICE X - -
+             SECTION S - -
+            INSTANCE X - -
+               BUSID X - -
+          PCI:1:10:0 X - -
+                  ID X - -
+               VIDEO X - -
+                CARD X - -
+                 USE - O -
+                 NVU - - S

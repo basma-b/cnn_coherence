@@ -1,0 +1,17 @@
+                THAT X - - - -
+                  HI S - - - -
+                HELP O - - - -
+                7.10 X - - - -
+               ORDER S - X - -
+                BOOT X X - - -
+             OPTIONS O - - - -
+     ALL_GENERIC_IDE - X - - -
+            ACPI=OFF - O - - -
+                BOTH - O - - -
+                 USE - - S - -
+                 DIR - - X - -
+               MOUNT - - X - -
+      /HDD/PARTITION - - X - -
+            /MNT/DIR - - O - -
+             .BASHRC - - - - X
+                FILE - - - - O

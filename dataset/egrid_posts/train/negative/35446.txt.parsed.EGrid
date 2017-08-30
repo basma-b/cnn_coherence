@@ -1,0 +1,18 @@
+          PARAMETERS S - - - -
+                DISK X - - - -
+                ONES - X - - -
+           /ETC/MTAB - X - - -
+              PERSON - - O - -
+               PITTI - - S - -
+              KERNEL - - S - -
+              DEVICE - - X - -
+             HOTPLUG - - O S -
+                USER - - X - -
+             PROGRAM - - X - -
+               UDEVD - - - O -
+                HALD - - - O -
+GNOME-VOLUME-MANAGER - - - O -
+              PMOUNT - - - S -
+                SUDO - - - - S
+                /MNT - - - - O
+              CHROOT - - - - X

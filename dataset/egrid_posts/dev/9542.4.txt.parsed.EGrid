@@ -1,0 +1,14 @@
+                TEXT O - - - - - - - - -
+                LINE - X - - - - - - - -
+               ORDER - X - - - - - - - -
+           DUPLICATE - O - - - - - - - -
+                SORT - - X - - X - - - -
+                 USE - - X - - - - - - -
+             COMMAND - - X - - - O - - -
+                FILE - - - S O - - - - -
+                 TXT - - - X - - - - - -
+            FILE.TXT - - - - - X - - - -
+                UNIQ - - - - - - X - - -
+                TGHE - - - - - - X - - -
+             FOO.TXT - - - - - - - X - -
+                   | - - - - - - - O - -

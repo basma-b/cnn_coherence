@@ -1,0 +1,30 @@
+PATH=/USR/LOCAL/LIB/JRUBY/BIN - O - - - - - -
+                RUBY - X - - - - - -
+               JRUBY - X - - - - - -
+             CONSOLE - X - - - - - -
+             SOMEONE - - X - - - - -
+               FIRST - - X - - - - -
+               SHELL - - X - X O - -
+                SUDO - - X X - X - -
+                ROOT - - - X - - - -
+                PATH - - - O - - - -
+                 LOT - - - O - - - -
+               PATH= - - - X - - - -
+/USR/LOCAL/LIB/JRUBY/BIN - - - X - - - -
+              ACCESS - - - O - - - -
+             COMMAND - - - X - - - -
+                  LS - - - X - - - -
+                 CAT - - - X - - - -
+            RESPONSE - - - X - - - -
+               LOGIN - - - - - X - -
+               START - - - - - O - -
+             EXAMPLE - - - - - X - -
+                TEXT - - - - - X - -
+                  .. - - - - - O - O
+            TERMINAL - - - - - O - -
+                  -S - - - - - X - -
+                BASH - - - - - X - -
+            WHATEVER - - - - - X - -
+              DRIVER - - - - - - - O
+                THIS - - - - - - - X
+               ERROR - - - - - - - O

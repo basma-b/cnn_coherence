@@ -1,0 +1,24 @@
+                 CUP S - -
+           INTERFACE O - -
+             PRINTER X - -
+              CONFIG X - -
+                TOOL S - -
+            CHECKBOX O - -
+            PRINTERS S - -
+                 LOG O - -
+                WORK - O -
+               SHARE - X -
+             WINDOWS - X -
+             MACHINE - X -
+/ETC/CUPS/CUPSD.CONF - O -
+                HOST - O -
+               PRINT - X -
+            COMPUTER - X -
+               FDISK - - X
+                LIST - - X
+           PARTITION - - X
+                SYNC - - S
+                   W - - X
+              OPTION - - X
+                  .. - - S
+               11.10 - - O

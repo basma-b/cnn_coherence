@@ -1,0 +1,16 @@
+           PARTITION X - - - - -
+              SYSTEM S - - - - -
+                BOOT - X - - - -
+                  CD - X - - - -
+                  .. - O - - - -
+               SPACE - - S - - -
+              DAPPER - - X - - -
+                 LTS - - - S - -
+                BOTH - - - - S -
+             RELEASE - - - - O -
+                HTTP - - - - - S
+                  -O - - - - - S
+                   > - - - - - S
+              MD5SUM - - - - - X
+                  -B - - - - - O
+              OUTPUT - - - - - X

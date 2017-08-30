@@ -1,0 +1,17 @@
+              DRIVER S S - - - - - - X
+               /PROC X X - - - - - - -
+                CASE - X - - - - - - -
+             BATTERY - X - - - - - - X
+                PEEK - X - - - - - X -
+               STATE - X - - - - - - -
+                FILE - X - - - - X - -
+             EXAMPLE - - X - - - - - -
+                 CAT - - X - - - - - -
+/PROC/ACPI/BATTERY/BAT0/INFO - - O - - - - X -
+              MOMENT - - - - O - - - -
+              ANSWER - - - - X - - - -
+                TIME - - - - - - X - -
+            MIDNIGHT - - - - - - X - -
+           COMMANDER - - - - - - O - -
+           HIERARCHY - - - - - - O - -
+                THIS - - - - - - - - S

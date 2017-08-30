@@ -1,0 +1,17 @@
+              APACHE X - - - - - - X -
+              SERVER O - - - - - - - -
+                  VM X - - - - - - - -
+                 NAT X - - - - - S - -
+           INTERFACE X - - - - - - - -
+                PORT - O - - - - - - -
+              ROUTER - X - - - - - - -
+                SITE - - O - - - - - -
+             NETWORK - - X - - - - - -
+            INTERNET - - - X - - - - -
+                THIS - - - - O - - S -
+                 HMM - - - - - X - - -
+              ALLOWD - - - - - - - O -
+                   * - - - - - - - X -
+/ETC/APACHE2/SITES-ENABLED/000-DEFAULT - - - - - - - X -
+              DEBIAN - - - - - - - X -
+                WHAT - - - - - - - - X

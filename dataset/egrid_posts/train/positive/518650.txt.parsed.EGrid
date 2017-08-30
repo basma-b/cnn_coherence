@@ -1,0 +1,14 @@
+          PERMISSION X - -
+             SYSLINK X - -
+         MNT/WINDOWS X - -
+             WINDOWS X - -
+           PARTITION X - S
+                ROOT X - X
+                USER X - X
+            SYMLINKS S - -
+         PERMISSIONS O O -
+                FILE - X -
+               MOUNT - - O
+             ACCOUNT - - X
+                CANT - - X
+                MODE - - X

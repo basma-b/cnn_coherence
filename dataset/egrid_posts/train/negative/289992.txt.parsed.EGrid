@@ -1,0 +1,13 @@
+               DRIVE X - - -
+              DEVICE O - - -
+             NTFS-3G - S - -
+                NTFS - - S -
+         NTFS-CONFIG - - O -
+                  RW - - O -
+      CONTROL+ALT+F1 - - - X
+               LOGIN - - - O
+                TYPE - - - S
+                SUDO - - - X
+             KILLALL - - - X
+                 GDM - - - X
+        XSERVER-XORG - - - O

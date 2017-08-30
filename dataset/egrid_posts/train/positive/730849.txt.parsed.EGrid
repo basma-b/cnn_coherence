@@ -1,0 +1,14 @@
+                  IP - X - - - O -
+              SERVER - X - - - - -
+               BIND9 - - S - - - O
+               ALIAS - - X - - - -
+              ETH0:0 - - O - - - X
+                 ANY - - X - - - -
+                 IPS - - X - - - -
+          EVERYTHING - - - O - - -
+                THIS - - - - S - -
+                 TRY - - - - - S -
+                BIND - - - - - S -
+               START - - - - - O -
+      192.168.100.98 - - - - - - S
+          DIFFERENCE - - - - - - O

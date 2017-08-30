@@ -1,0 +1,14 @@
+                 ALL X - - -
+         CONNECTIONS X - - -
+                 VPN X - - -
+                PPP0 X - - -
+            WIRELESS X - - -
+               WLAN0 X - - -
+            IPTABLES - O S -
+                 NAT - X - -
+                 TCP - X - -
+            FRONTEND - - X -
+             DOOGLUS - - - S
+                  .. - - - S
+                SFTP - - - X
+                 SCP - - - O

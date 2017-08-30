@@ -1,0 +1,16 @@
+             DEFAULT S - - - -
+              SYSTEM O - - X -
+             PACKAGE - O - - -
+                 GUI - O - - -
+                GRUB - X - - -
+             OPTIONS - O - - -
+             STARTUP - - O - -
+              MANGER - - X - -
+               THERE - - - S S
+                OPEN - - - X -
+              OPTION - - - O -
+      ADMINISTRATION - - - X -
+                 SET - - - - O
+                 UFW - - - - O
+            APPARMOR - - - - O
+            IPTABLES - - - - O

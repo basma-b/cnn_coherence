@@ -1,0 +1,28 @@
+                 ALL S - - - - - - - - -
+            WIRELESS X - - - - - - - - -
+             DRIVERS O - - - - - S - - -
+         NDISWRAPPER O - - - - - - - - X
+             BCM4318 - O - - - - - - - -
+               ERROR - - O - - - - - - -
+              CONFIG - - X X - X - - - -
+                FILE - - X X - X - - - -
+                NEED - - X X - - - - - -
+               .CONF - - X X - X - - - -
+/ETC/MODPROBE.D/BLACKLIST - - X - - - - - - -
+             RELEASE - - X X - - - - - -
+             WARNING - - - X - - - - - -
+/ETC/MODPROBE.D/NDISWRAPPER - - - X - - - - - -
+              ERRORS - - - - X - - - - X
+                 USE - - - - - X - - - -
+               THERE - - - - - S - - - -
+         DEVELOPMENT - - - - - X - - - -
+            DECISION - - - - - O - - - -
+                NAME - - - - - X - - - -
+              MOMENT - - - - - X - - - -
+             PROBLEM - - - - - X - - - -
+                 BUG - - - - - O - - - -
+             PACKAGE - - - - - X - - - -
+           CONF-FILE - - - - - X - - - -
+                THAT - - - - - - X - - -
+           CRISTOFER - - - - - - - - - X
+                LINE - - - - - - - - - S

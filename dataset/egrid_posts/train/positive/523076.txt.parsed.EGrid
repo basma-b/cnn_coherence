@@ -1,0 +1,15 @@
+                USER O X - -
+             COMMAND X - - -
+                LINE X - - -
+             ADDUSER X - - -
+                SUDO X X - -
+         PERMISSIONS O - - -
+                THIS X - - -
+               RIGHT - X - -
+             USERMOD - S - -
+                   < - X - -
+THEUSERNAME-WITHOUT-SUDO-RIGHTS - X - -
+              SYSTEM - X - -
+       CONFIGURATION - O - -
+             COMMENT - O - -
+            LASIVIAN - - - X

@@ -1,0 +1,13 @@
+             NETWORK X - -
+           INTERFACE X - -
+             SERVICE X - -
+             NETSTAT - X -
+               -LNTP - S -
+               -LNUP - S -
+                SHOW - O -
+             0.0.0.0 - O S
+                   * - S -
+          867/GMETAD - O -
+              GMETAD - - S
+          INTERFACES - - X
+                PORT - - X

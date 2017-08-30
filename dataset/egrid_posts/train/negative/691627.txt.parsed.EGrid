@@ -1,0 +1,13 @@
+                 MBR X O - -
+           PARTITION X O - -
+                  DD - S X -
+        IF=/DEV/ZERO - - X -
+            OF=/DEV/ - - X -
+                   < - - X -
+                DISK - - X -
+              DEVICE - - S -
+             COUNT=1 - - O -
+                 MSN - - - X
+           MESSENGER - - - S
+             VERSION - - - O
+                WINE - - - X

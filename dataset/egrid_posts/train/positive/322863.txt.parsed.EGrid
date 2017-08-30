@@ -1,0 +1,22 @@
+             COMMAND S - - - - - -
+                IFUP - X - - - - -
+                 ETH - O - O - - -
+           INTERFACE - X - - - - -
+                ETH0 - X - - - - -
+                LINE - S X - - - -
+/ETC/NETWORK/INTERFACES - X - - - - -
+                AUTO - X - - - - -
+                  LO - S - - - - -
+               IFACE - X - - - - -
+            LOOPBACK - X - - - - -
+                INET - - S - - - -
+                 ALL - - O - - - -
+                ETHX - - - - O - -
+          INTERFACES - - - - S X -
+                 MAN - - - - X - -
+                PAGE - - - - X - -
+                 AFK - - - - O - -
+             DEFAULT - - - - X - -
+            INTEREST - - - - X - -
+                HTTP - - - - O - -
+             MINIMUM - - - - - - X

@@ -1,0 +1,13 @@
+         FILESYSTEMS S - - - - -
+             GPARTED - - X S - -
+               THERE - - S X - -
+             NOTHING - - O - - -
+            ANYTHING - - S - - -
+                THAT - - - O - -
+         PERMISSIONS - - - - - O
+               POINT - - - - - O
+      /MEDIA/MYFILES - - - - - S
+                LINE - - - - - O
+          /ETC/FSTAB - - - - - X
+              ACCESS - - - - - O
+              FOLDER - - - - - X

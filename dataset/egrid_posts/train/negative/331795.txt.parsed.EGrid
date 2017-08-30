@@ -1,0 +1,30 @@
+              SOURCE O - - - - - - - - - - -
+          DEPENDENCY O - - - - - - - - - - -
+             PACKAGE O - - X - O S X - - - -
+                MISS X - - - - - - - - - - -
+              SECOND - X - - - - - - - - - -
+                BITE - - O - - - - - - - - -
+              THANKS - - O - - - - - - - - -
+                DOCS - - - S - - - - - - - -
+              EQUIVS - - - - O - - - - - - -
+/USR/SHARE/DOC/EQUIVS - - - - X - - - - - - -
+               GUIDE - - - - O - - - - - - -
+                THIS - - - - S - - - - - - -
+                 HMM - - - - O - - - - - - -
+            CONFLICT - - - - - O O X X - - -
+             ANOTHER - - - - - X - - - - - -
+                 ONE - - - - - - O - - - - S
+             DEFAULT - - - - - - X - - - - -
+               VALUE - - - - - - X - - - - -
+           PYTHON2.3 - - - - - - X - X - - -
+                 SEC - - - - - - X - - - - -
+              POLICY - - - - - - - X - - - -
+              PYTHON - - - - - - - - S - - -
+                   < - - - - - - - - X - - -
+                HALF - - - - - - - - X - - -
+                TIME - - - - - - - - - - X -
+                 BUG - - - - - - - - - - X -
+              REPORT - - - - - - - - - - O -
+               TOUCH - - - - - - - - - - O -
+            INSTANCE - - - - - - - - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/CUPS/+BUG/452765 - - - - - - - - - - - X

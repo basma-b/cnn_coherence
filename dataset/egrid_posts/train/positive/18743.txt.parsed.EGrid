@@ -1,0 +1,21 @@
+         NDISWRAPPER O - - - - - -
+              KERNEL X - - - X - O
+              SOURCE X - - X X - -
+           DIRECTORY O - - - - - -
+                KSRC X - - - - - -
+                MAKE X - - - - - -
+                THIS - X - - - - -
+KSRC=/PATH/TO/SOURCES - - S - - - -
+               PLACE - - - X - - -
+                TREE - - - X - - -
+                 THE - - - - S - -
+                  .. - - - - O - -
+              THANKS - - - - O - -
+                  CD - - - - - - X
+    /PATH/TO/SOURCES - - - - - - S
+           OLDCONFIG - - - - - - O
+                  'S - - - - - - S
+              CONFIG - - - - - - X
+                FILE - - - - - - O
+                  -R - - - - - - X
+/PATH/TO/SOURCES/.CONFIG - - - - - - X

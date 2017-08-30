@@ -1,0 +1,13 @@
+               ENTRY O - - - - -
+               FSTAB X - - - - -
+               MOUNT O - - X - -
+               LOGIN X - - - - -
+                SUDO S - - - - -
+                /MNT - X - - - -
+                ICON - S - - - -
+             DESKTOP - X - - - -
+              TAKERS - - X - - -
+               POINT - - - O - -
+               MEDIA - - - X - -
+               CDROM - - - - - S
+              CDROM0 - - - - - X

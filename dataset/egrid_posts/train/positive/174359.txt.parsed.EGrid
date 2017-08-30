@@ -1,0 +1,6 @@
+                TAIL - X -
+                  -F - S -
+      /VAR/LOG/KLOGD - S -
+                 CAT - X -
+                LESS - O -
+             COMMAND - - X

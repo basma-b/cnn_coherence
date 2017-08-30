@@ -1,0 +1,15 @@
+     192.168.123.100 O - -
+             GATEWAY S - -
+       255.255.255.0 O - -
+                 YEP - S -
+              SECOND - S -
+/ETC/NETWORK/INTERFACES - O -
+               ENTRY - O -
+                ETH0 - X -
+               CHECK - - X
+               HTTPS - - X
+//WWW.UBUNTULINUX.ORG/SUPPORT/DOCUMENTATION/HOWTO/NDISWRAPPER - - X
+                WIRE - - X
+                  .. - - X
+                INET - - X
+                DHCP - - O

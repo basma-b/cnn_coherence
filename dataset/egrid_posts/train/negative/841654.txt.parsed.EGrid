@@ -1,0 +1,16 @@
+                 FIX X - - - -
+             EMACS23 - S - - -
+          DEPENDENCY - S - - -
+               CEDET - X - - -
+               SOLVE - X - - -
+                THAT - - S - S
+             INSTALL - - O - -
+               CHECK - - X - -
+        DEPENDENCIES - - S - -
+                THEN - - - X -
+                   | - - - - S
+                SORT - - - - O
+     /PATH/TO/NEWDIR - - - - O
+           FILENAMES - - - - O
+           CHARACTER - - - - X
+                 TRY - - - - X

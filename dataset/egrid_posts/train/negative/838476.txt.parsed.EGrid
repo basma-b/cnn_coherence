@@ -1,0 +1,15 @@
+               INPUT X - - -
+                  -P O - - -
+                 TCP X - - -
+                  -J S - - -
+                DROP X - - -
+              OUTPUT X - - -
+                C0RR O - - -
+             COMMAND X - - -
+            INTERNET O - - -
+                 TRY - - X -
+               YOURE - - S -
+             VERSION - - O -
+           DOWNGRADE - - X -
+                 LTS - - X -
+                THAT - - - X

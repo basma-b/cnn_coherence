@@ -1,0 +1,13 @@
+             STORAGE X - - O - -
+                FILE S - - - O -
+         APPLICATION X - - - - -
+                  CD X - - - - -
+                   > - S - - - -
+              LOADER - X - - - -
+              SCRIPT - - - S - -
+             RAMDISK - - - X - -
+                LOAD - - - X - -
+                AUFS - - - X - -
+          PASSPHRASE - - - - - S
+             REQUEST - - - - - X
+                BOOT - - - - - X

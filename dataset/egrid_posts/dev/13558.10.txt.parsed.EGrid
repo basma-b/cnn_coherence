@@ -1,0 +1,10 @@
+                ECHO X -
+             OPTIONS S -
+/ETC/MODPROBE.D/WIFIHACK.CONF X -
+               +SUDO O -
+    /HOME/.ENCRYPTFS - X
+                NAME - O
+             PACKAGE - X
+     NAME_OF_PACKAGE - S
+                FILE - X
+              INSTAL - O

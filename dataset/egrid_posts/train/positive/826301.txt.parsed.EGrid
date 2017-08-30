@@ -1,0 +1,24 @@
+                 GUY X - - - - - - -
+               ISSUE - O O - - - - -
+               THERE - S - - - - - -
+                 VGA - X - - - - - -
+              OUTPUT - O - - - - - -
+                POST - X - - - - - -
+                 GUI - X - - - - - -
+               LOGIN - X - - - - - -
+             DISPLAY - - X - - - - -
+            SETTINGS - - X - - - - -
+            QUESTION - - S - - - - -
+                  .. - - O - - - - -
+           SOMETHING - - O - - - - -
+         UPDATE-GRUB - - - O - - - -
+                   D - - - S - - - -
+                TIME - - - - O - - -
+             DEFAULT - - - - X - - -
+             640X480 - - - - X - - -
+                THIS - - - - O - - -
+                BITE - - - - X - - -
+                 ALL - - - - - O - -
+          640X480X16 - - - - - - O -
+   /ETC/DEFAULT/GRUB - - - - - - - X
+GRUB_GFXMODE=640X480X16 - - - - - - - X

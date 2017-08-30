@@ -1,0 +1,14 @@
+             COMMAND X - - O
+            SNAPSHOT S - - -
+                LIST X - - -
+             PACKAGE X - - -
+             APT-GET X - - -
+                THAT - - O -
+      GET-SELECTIONS - - X -
+                PIPE - - X -
+                FILE - - X -
+                DPKG - - - X
+      SET-SELECTIONS - - - S
+                STEP - - - O
+               THERE - - - S
+                 GET - - - X

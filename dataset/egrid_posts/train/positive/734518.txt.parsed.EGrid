@@ -1,0 +1,11 @@
+              CENTOS X - - - - - - -
+         APPLICATION - O - - - - - -
+               START - O X - - - - -
+             MACHINE - S - - - - - -
+              SCRIPT - - O - - - - -
+            RC.LOCAL - - X - - - - -
+/ETC/INIT.D/MYSTARTSCRIPT - - X - - - - -
+           CHKCONFIG - - X - - - - -
+                 ONE - - - - - X - -
+       /ETC/RC.LOCAL - - - - - - S -
+              REASON - - - - - - - X

@@ -1,0 +1,23 @@
+             ANYBODY S - - - -
+          /ETC/FSTAB O - - - -
+              EFFECT O - - - -
+             NETWORK - - - O -
+             MACHINE - - - X -
+                MOVE - - - X -
+             TRAFFIC - - - X -
+                 ONE - - - X -
+               OTHER - - - X -
+                  OT - - - S -
+                LOAD - - - X -
+             BALANCE - - - X -
+                   / - - - S -
+                 USE - - - X -
+                CARD - - - X -
+       DOCUMENTATION - - - - O
+           IFENSLAVE - - - - S
+             PACKAGE - - - - X
+                   * - - - - O
+              DETAIL - - - - X
+DOCUMENTATION/BONDING.TXT - - - - X
+              KERNEL - - - - X
+              SOURCE - - - - X

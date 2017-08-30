@@ -1,0 +1,10 @@
+             WINDOWS X X -
+            PATITION X - -
+             STARTUP X - -
+          /ETC/FSTAB - O -
+              NOAUTO - O -
+                LINE - X -
+           PARTITION - X -
+              NVIDIA - - X
+             DRIVERS - - X
+               LINUX - - X

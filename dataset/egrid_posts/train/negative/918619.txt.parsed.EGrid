@@ -1,0 +1,14 @@
+                TIME X - - -
+/VAR/CACHE/DEBCONF/CONFIG.DAT S - - -
+             PROCESS X - - -
+             MESSAGE O - - -
+               MYSQL O - - -
+             APT-GET X - - -
+                 RUN O - O -
+                OPEN - X - -
+           SOMETHING - X O -
+                LOCK - - X -
+              REBOOT - - O -
+                FILE - - O -
+                  RM - - S -
+             TROUBLE - - - X

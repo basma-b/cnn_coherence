@@ -1,0 +1,7 @@
+             NTPDATE O - - - - - -
+               CLOCK O - - - - - -
+               HOURS X - - - - - -
+            ANYTHING - O - - - - -
+                CRON - X - - - - -
+               GUEST - - - - - - O
+              ERRORS - - - - - - O

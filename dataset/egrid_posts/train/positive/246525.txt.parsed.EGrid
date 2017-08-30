@@ -1,0 +1,32 @@
+              ANYONE X X - - - -
+                HOUR - X - - - -
+               FSTAB - O - - - -
+                NTFS - X - - - -
+           PARTITION - O - - - -
+              FOLDER - X - - - -
+            CPUDAN80 - X - - - -
+                   / - S - - - -
+                   U - S - - - -
+            ANYTHING - O - - - -
+              NVIDIA - X - - - O
+              DRIVER - X - - - -
+        INSTALLATION - X - - - -
+                  IM - S X - - -
+                 XGL - O - - - -
+             PACKAGE - X - - - -
+             MANAGER - X - - - -
+                STEP - O - - - -
+          EVERYTHING - O - - - -
+               ERROR - O - - - -
+              KERNEL - S - - - -
+           SOMETHING - O - - - -
+             SOMEONE - X - - - -
+               KINDA - - S - - -
+             PROBLEM - - O - - -
+                  .. - - O O - -
+   NVIDIA-GLX-COMMON - - O - - -
+LINUX-RESTRICTED-WHATNOT - - - O - -
+             DRIVERS - - - O - -
+                THIS - - - - - O
+/ETC/DEFAULT/LINUX-RESTRICTED-MODULES-COMMON - - - - - O
+             MODULES - - - - - X

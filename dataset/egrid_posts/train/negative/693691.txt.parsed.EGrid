@@ -1,0 +1,15 @@
+                MODE X - - - - -
+          PERMISSION - X - - - -
+                FILE - O O X - -
+               FILES - X - - - -
+              SYSTEM - X - - - -
+           DIRECTORY - X - - - -
+             MANAGER - - O - - -
+                ROOT - - - X - -
+             SESSION - - - O - -
+               CLICK - - - O - -
+                INFO - - - X - -
+         PERMISSIONS - - - O - -
+             ARCHIVE - - - - X -
+              ACCESS - - - - S -
+              MIRROR - - - - - O

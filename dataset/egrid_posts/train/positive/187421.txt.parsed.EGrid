@@ -1,0 +1,13 @@
+             NETWORK X - - -
+           INTERFACE S - - -
+                  IP O O - -
+                DHCP X - - -
+                TIME - O - -
+                ETH1 - O - -
+             ADDRESS - O - -
+                 ISP - X - -
+                HOME - X - -
+              ROUTER - O - -
+               CABLE - - X X
+               MODEM - - X X
+             GATEWAY - - - S

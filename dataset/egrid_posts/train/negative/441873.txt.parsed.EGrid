@@ -1,0 +1,10 @@
+   /DEV/INPUT/MOUSE0 S - -
+               GROUP S - -
+            COMPUTER O - -
+               CHGRP X - -
+               INPUT X - -
+                UDEV X - -
+                RULE O - -
+                BOOT X - -
+              PIDGIN - - O
+             DEFAULT - - O

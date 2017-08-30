@@ -1,0 +1,14 @@
+               DRIVE S - - - - -
+              ANYONE - X - - - -
+              FLOPPY - - X S - -
+               FSTAB - - - X - -
+                SUDO - - - X - -
+                 FD0 - - - O - -
+          DMESG|LESS - - - X - -
+          DMESG|GREP - - - X - -
+                 TRY - - - X - -
+                  FD - - - O - -
+              MODULA - - - - S -
+                NAME - - - - O -
+               AVAIL - - - - - X
+                DONT - - - - - S

@@ -1,0 +1,7 @@
+             COMMAND X -
+                USER X -
+                SUDO X -
+             ADDUSER X -
+               GROUP X -
+                NOTE - X
+     CASEINSENSITIVE - X

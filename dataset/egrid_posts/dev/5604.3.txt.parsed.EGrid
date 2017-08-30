@@ -1,0 +1,17 @@
+         CREDENTIALS X - -
+                FILE O - -
+           SMBCLIENT O - -
+          MOUNT.CIFS X - -
+         MOUNT.SMBFS S - -
+               ERROR O - -
+          PERMISSION X - -
+                SDUO X - -
+                SUDO - X -
+   SUBDOM.MYSITE.COM - - X
+                ONYL - - S
+              RECORD - - O
+                 ONE - - X
+                SITE - - X
+          NAMESERVER - - X
+             NOTHING - - S
+             BROWSER - - O

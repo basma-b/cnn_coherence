@@ -1,0 +1,13 @@
+             COMMAND X - - -
+                LINE O - - -
+                PIPE X - - -
+                USER X - - -
+                   % X - - -
+        PIPETEXT.TXT X - - -
+              STDERR O O - -
+                  NO - S - -
+           SOMETHING - O - -
+                THIS - S - -
+            TEXT.TXT - - O -
+                THAT - - - S
+              SYNTAX - - - O

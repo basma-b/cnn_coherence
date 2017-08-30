@@ -1,0 +1,14 @@
+                VFAT X - - - -
+             DEFAULT S - - - -
+          /ETC/FSTAB X - - - -
+           PARTITION O - - - -
+                ROOT S - - - -
+                USER - S - - -
+                WAYS - - X - -
+                DOCS - - S - -
+              DETAIL - - X - -
+                 USE - - X - -
+              OPTION - - S - -
+                 WAY - - O - -
+               UMASK - - - O -
+                 THX - - - - X

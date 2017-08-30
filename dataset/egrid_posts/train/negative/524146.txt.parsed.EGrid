@@ -1,0 +1,15 @@
+               MOUNT X - - - -
+                VFAT X - - - -
+               DRIVE O - - O -
+               USERS - X - O -
+              CLIENT - X - - -
+                SIDE - X - - -
+               SHARE - X - - -
+                 USE - S - - -
+               SAMBA - - X X -
+                 HAN - - S - -
+             ACCOUNT - - O - -
+               FSTAB - - - X -
+                 GID - - - O -
+               GROUP - - - X -
+                 YUP - - - - X

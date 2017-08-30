@@ -1,0 +1,10 @@
+                 SET X - - -
+                ROOT O - - -
+               STUFF O - - -
+            SECURITY - X - -
+               LEVEL - X - -
+                SUDO - S - -
+               ENTRY - - S -
+           /ETC/MTAB - - X -
+           PARTITION - - X -
+                UNOP - - - X

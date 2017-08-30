@@ -1,0 +1,16 @@
+                 HEY X - - - -
+              ANYONE X - - - -
+                GRUB S - - - -
+                BOOT X - - - -
+                ROOT X - - - -
+          FILESYSTEM O X - - -
+               IMAGE X X - S -
+                FILE X - - - -
+                EXT3 - X - - -
+           PARTITION - O - - -
+              FORMAT - O - O -
+         VMWARE/QEMU - X - - -
+                 WAY - - - X -
+           INITRAMFS - - - X -
+              INITRD - - - X -
+             SUBMENU - - - - X

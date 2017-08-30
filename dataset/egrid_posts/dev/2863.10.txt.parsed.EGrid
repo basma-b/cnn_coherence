@@ -1,0 +1,16 @@
+                GOAL S S -
+                  OS O O -
+             WINDOWS X - -
+             DESKTOP X - -
+                VBOX S - -
+            GRAPHICS X - -
+              SERVER - S -
+              RUNNIG - X -
+          BACKGROUND - X -
+            QEMU-KVM - S -
+              EXPORT - - X
+             COMMAND - - O
+           ~/.BASHRC - - X
+              SCRIPT - - O
+                BASH - - O
+                  SH - - X

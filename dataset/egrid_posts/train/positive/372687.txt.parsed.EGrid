@@ -1,0 +1,17 @@
+                 RES X - - - - - -
+             STARTUP X X - - - - -
+            1024X700 - X - - - - -
+                 ONE - O - - - - -
+                  .. - X - O - - -
+              SYSTEM - - S - - - -
+                   > - - X - - - -
+               ADMIN - - X - - - -
+            GRAPHICS - - X - - - -
+              SCREEN - - O - - - -
+             600X400 - - - O - - -
+                CARD - - - - - X -
+               LSPCI - - - - - - X
+                   | - - - - - - X
+                GREP - - - - - - X
+                  -I - - - - - - X
+                 VGA - - - - - - X

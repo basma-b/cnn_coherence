@@ -1,0 +1,16 @@
+                HELP X - - - - - -
+               10.10 - - - S - - -
+             MALWARE - - - O - - -
+              CLAMAV - - - S - - -
+/VAR/LIB/APT/LISTS/US.ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_MAVERICK_MAIN_BINARY-AMD64_PACKAGES - - - O - S -
+WINNOW.MALWARE.HW.MALWARE.562933.UNOFFICIAL - - - S - - -
+                THIS - - - O - O -
+            NISSTYRE - - - - X - -
+                FILE - - - - S O -
+                TEXT - - - - X X -
+             COMMAND - - - - - X -
+                KIND - - - - - X -
+             OPINION - - - - - X -
+             UNICODE - - - - - X -
+             ENGLISH - - - - - X -
+                LINE - - - - - X -

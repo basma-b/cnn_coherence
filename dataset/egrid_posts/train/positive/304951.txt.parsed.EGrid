@@ -1,0 +1,15 @@
+                IDEA X - - - - - -
+         DESTINATION X - - - - - -
+                HOST X - - - - - -
+         UNREACHABLE O - - - - - -
+         192.168.3.2 O - - - - - -
+             PACKETS - S - - - - -
+              ERRORS - X - - - - -
+                   % - X - - - - -
+              PACKET - X - - - - -
+                LOSS - X - - - - -
+              SUBNET - - X - - - -
+         192.168.3.1 - - - - - O -
+       255.255.255.0 - - - - - - S
+                 USE - - - - - - O
+             MACHINE - - - - - - X

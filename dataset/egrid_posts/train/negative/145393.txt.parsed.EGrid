@@ -1,0 +1,7 @@
+               MATCH X - -
+      KERNEL-HEADERS X - -
+             PACKAGE O - -
+            APTITUDE - S -
+              AMAROK - - S
+            ANYTHING - - O
+                KILL - - X

@@ -1,0 +1,10 @@
+               PURGE O - -
+             CONFIGS O - -
+           ZYKOTICK9 X - -
+                  .. X - -
+                   * O - -
+              SYSLOG - X -
+             MESSAGE - S -
+                IPV6 - X X
+             ROUTERS - S -
+                TURN - - X

@@ -1,0 +1,10 @@
+                   ' S - - -
+              CONFIG O - - -
+                ROOT X - - -
+            PASSWORD X - - -
+               MYSQL X - - -
+               ERROR X - - -
+              SERVER X S - O
+              SOCKET S - - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK X - - -
+              MYSQLD S - - -

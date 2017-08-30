@@ -1,0 +1,11 @@
+             COMMAND X - - - -
+                KILL X - - - -
+                  -9 X - - - -
+             PROCESS - S - - -
+                   % - X - - -
+                KIND - X - - -
+            TERMINAL - - X - -
+                SUDO - - - - X
+               RMMOD - - - - X
+                BTTV - - - - O
+               STICK - - - - O

@@ -1,0 +1,11 @@
+             SUDOERS O - - -
+             COMMAND O - - -
+                ROOT X - - -
+                  SH - X - -
+                   % - X - -
+               ADMIN - X - -
+        ALL=NOPASSWD - X - -
+                 ALL - X - -
+              SCRIPT - - S O
+            DESCRIBE - - X -
+              OUTPUT - - - X

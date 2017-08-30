@@ -1,0 +1,19 @@
+                JOIN O - - -
+               IRSII X - - -
+              +JOINS - X - -
+              +PARTS - X - -
+              +QUITS - X - -
+              +MODES - X - -
+              +NICKS - S - -
+                THAT - - S -
+             SYMLINK - - O S
+              DEVICE - - X -
+                NAME - - O -
+                 CAT - - X -
+        /PROC/MOUNTS - - X -
+              KERNEL - - X -
+/DEV/DISK/BY-UUID/FOO - - S -
+           NAMESPACE - - - S
+              NATURE - - - X
+               POINT - - - O
+             DEVICES - - - S

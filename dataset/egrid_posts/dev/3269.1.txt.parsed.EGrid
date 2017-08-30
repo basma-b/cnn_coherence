@@ -1,0 +1,12 @@
+        RELATIONSHIP O - - - -
+                XORG X - - - S
+                 GDM X - - - S
+               GNOME X - - - -
+             DESKTOP - - X - -
+                 ENV - - O - -
+              SERVER - - X - -
+           INTERFACE - - - - O
+               LOGIN - - - - X
+             MANAGER - - - - O
+              WINDOW - - - - X
+               THING - - - - X

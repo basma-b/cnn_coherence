@@ -1,0 +1,25 @@
+                THAT X - - - - - - -
+             /ROOTFS - S - X - - - -
+               SENSE - O - - - - - -
+                   A - - X - - - - -
+               START - - X - - - - -
+                TERM - - O - - - - -
+                PATH - - O X - - - -
+                WORK - - - - - X - -
+            DOCUMENT - - - - - X - -
+               HTTPS - - - - - X - -
+//HELP.UBUNTU.COM/12.04/SERVERGUIDE/NETWORK-CONFIGURATION.HTML - - - - - X - -
+                  IP - - - - - X - -
+             DEFAULT - - - - - X - -
+            10.0.0.1 - - - - - X - -
+           YESTERDAY - - - - - O - -
+                  GW - - - - - - O -
+              REBOOT - - - - - - X -
+             NETWORK - - - - - - O O
+            IFCONFIG - - - - - - X -
+                  -A - - - - - - S -
+                MOST - - - - - - X -
+               ISSUE - - - - - - O -
+                TALK - - - - - - S -
+          RESOV.CONF - - - - - - X -
+             GATEWAY - - - - - - - X

@@ -1,0 +1,20 @@
+                  IM S - - -
+               HARDY S - - -
+              KERNEL O - - -
+               AMD64 X - - -
+               GUIDE X - - -
+               HTTPS X - - -
+//HELP.UBUNTU.COM/COMMUNITY/KERNEL/COMPILE X - - -
+DEB_BUILD_OPTIONS=PARALLEL=2 X - - -
+         AUTOBUILD=1 X - - -
+          NOEXTRAS=1 S - - -
+            FAKEROOT X - - -
+        DEBIAN/RULES X - - -
+             PACKAGE O - - -
+                MISS X - - -
+             SOMEONE X - - -
+               POINT X - - -
+            UBUNTU+1 - X - -
+               VIDEO - X - -
+              DRIVER - S - -
+                I386 - - - S

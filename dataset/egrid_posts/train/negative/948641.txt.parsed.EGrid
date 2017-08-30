@@ -1,0 +1,15 @@
+           MAKE-KPKG S - - -
+             PACKAGE X - - -
+            OPTIMIZE O - - -
+           MPENTIUM4 X - - -
+           LINUX-686 - X - -
+                CANT - - S -
+                DOCS - - O -
+            ANYTHING - - O -
+                I386 - - O -
+     HOTPLUG/GREPMAP - - X -
+                BITS - - O -
+              KERNEL - - X -
+                 ONE - - O -
+              REASON - - X -
+             KERNELS - - X -

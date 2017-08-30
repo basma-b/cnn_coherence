@@ -1,0 +1,17 @@
+                HTTP O - - -
+         APPLICATION X - - -
+            SOFTWARE S - - -
+                 USE X - - -
+               THERE - - X -
+           DIRECTORY - - X -
+         /MEDIA/HDB1 - - X -
+                TYPE - - - X
+                SUDO - - - X
+               MKDIR - - - X
+               GEDIT - - - X
+          /ETC/FSTAB - - - S
+                LINE - - - O
+               FSTAB - - - X
+                NTFS - - - X
+           UMASK=000 - - - X
+             DEFAULT - - - X

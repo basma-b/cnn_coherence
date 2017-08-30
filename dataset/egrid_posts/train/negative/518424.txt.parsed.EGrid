@@ -1,0 +1,13 @@
+                 ANY S - - -
+                ROOT - X - -
+           PRIVILEGE - O - -
+                 GUI - X - -
+             SESSION - X - -
+              FOLDER - O - -
+                DISK - X - -
+                COPY - X - -
+                FILE - X - -
+                GKSU - S - -
+           SOMETHING - - X -
+              GKSUDO - - X -
+               FLOOD - - - O

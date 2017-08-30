@@ -1,0 +1,17 @@
+                 G++ O - - - - - - -
+                 USE X - - - - - - -
+                SUDO X - - - - - - X
+             APT-GET S - - - - - - S
+             MESSAGE O - - - - - - -
+                LOCK X - - - - - - -
+  /VAR/LIB/DPKG/LOCK O - - - - - - -
+            RESOURCE X - - - - - - -
+                   E X - - - - - - -
+      ADMINISTRATION X - - - - - - -
+           DIRECTORY O - - - - - - -
+      /VAR/LIB/DPKG/ X - - - - - - -
+             PROCESS O - - - - - - -
+             PACKAGE - - - - - X - O
+             MANAGER - - - - - S - -
+            LEFTOVER - - - - - - - X
+           -PROPOSED - - - - - - - X

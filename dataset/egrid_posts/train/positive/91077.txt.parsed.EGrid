@@ -1,0 +1,6 @@
+            NOPASSWD O -
+             SUDOERS X -
+                FILE S -
+               FIELD X -
+                ALL= X -
+                 ALL X -

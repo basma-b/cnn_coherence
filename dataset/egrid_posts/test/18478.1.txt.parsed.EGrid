@@ -1,0 +1,12 @@
+        DEPENDENCIES O - - -
+           REINSTALL O - - -
+             VERSION X X - S
+             REMOVAL O - - -
+                 DEB - O - -
+                DEPS - O - -
+                  -L - S - -
+              LIBSSL - X - -
+                   * - X - -
+                  .. - O - -
+               THERE - - - S
+            CONFLICT - - - O

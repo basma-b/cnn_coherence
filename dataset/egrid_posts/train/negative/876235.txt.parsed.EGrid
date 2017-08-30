@@ -1,0 +1,13 @@
+          THUMBDRIVE X - - -
+            HARDDISK O - - -
+              DEVICE X - X -
+                NAME X - - -
+                TYPE X - O -
+            /DEV/SDA - X - -
+            /DEV/SDB - X - -
+                THAT - - O -
+                DISK - - X -
+             UTILITY - - O -
+           PARTITION - - O -
+                  -L - - X -
+             CHANNEL - - - O

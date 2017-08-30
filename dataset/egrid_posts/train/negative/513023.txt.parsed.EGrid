@@ -1,0 +1,11 @@
+                MAKE O - - - -
+                 DIR X - - - -
+                FILE - O - O -
+              FOLDER - X - - -
+              SOURCE - O O - -
+           DIRECTORY - X X - -
+            BINARIES - O - - -
+              TARGET - X - - -
+                  .. - - X - -
+              SYSTEM - - - X -
+             CORRECT - - - - X

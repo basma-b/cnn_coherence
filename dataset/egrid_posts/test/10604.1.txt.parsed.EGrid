@@ -1,0 +1,11 @@
+             DNSMASQ X - - -
+             ADDRESS - - X O
+               WLAN1 - - X X
+            WIRELESS - - X -
+              ACCESS - - X -
+               POINT - - O -
+          INTERFACEW - - X -
+                DHCP - - - X
+             MESSAGE - - - O
+              SYSLOG - - - X
+              PACKET - - - S

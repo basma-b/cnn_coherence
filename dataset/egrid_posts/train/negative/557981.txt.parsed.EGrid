@@ -1,0 +1,14 @@
+/USR/LIB/LIBNSSUTIL3.SO.1D X - - - - - - -
+                LIST - S - - - - - -
+              INSTAL - X - - - - - -
+             PACKAGE - X O - - O - -
+           APT-FILES - S - - - - - -
+                 WAY - O - - - - - -
+                SUDO - - S - - - - -
+            APTITUDE - - S - - - - -
+              UPDATE - - O - - - - -
+                THAT - - - O - - - -
+           ATTENTION - - - - O - - -
+        DEPENDENCIES - - - - S - - -
+         ALTERNATIVE - - - - - S - -
+               ISSUE - - - - - - - X

@@ -1,0 +1,16 @@
+               THERE X - - - -
+                 WAY X X - - -
+              DEVICE X - - - -
+                ROOT X O - - -
+              ACCESS X - - - O
+                 SSH - X - - -
+                 TUN - S - - -
+              ADMINS - S - - -
+              SERVER - S - - -
+             OUTSIDE - X - - -
+                   E - S - - -
+               ROUTE - X - - -
+             TRAFFIC - X - - -
+            INTRANET - X - - -
+            FIREWALL - - X - -
+                USER - - - - X

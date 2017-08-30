@@ -1,0 +1,12 @@
+               TABLE X - -
+                 BUG X - -
+-D_FILE_OFFSET_BITS=64 X - -
+                FILE X - -
+             SUPPORT O - -
+ FEATURE_TEST_MACROS O - -
+              KERNEL O X -
+                THIS S - -
+                   C - X -
+             PROGRAM - X -
+                6.06 - - O
+                7.10 - - O

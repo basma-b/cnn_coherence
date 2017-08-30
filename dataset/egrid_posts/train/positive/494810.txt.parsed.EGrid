@@ -1,0 +1,8 @@
+             COMMAND X - -
+              OUTPUT X - -
+               BUSID O - -
+               VIDEO X - -
+                CARD X - -
+               LSPCI - S -
+          SWAPPINESS - X -
+               VALUE - O -

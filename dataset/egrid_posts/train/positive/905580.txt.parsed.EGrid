@@ -1,0 +1,11 @@
+             PROBLEM O - - - - - -
+              VSFTPD X - - - - - -
+           DIRECTORY - O - - - - -
+         PERMISSIONS - O - - - - -
+             DEFAULT - X - - - - -
+         LOCAL_UMASK - - S - - - -
+              EFFECT - - O - - - -
+         SUGGESTIONS - - - X - - -
+                MASK - - - - S - -
+                WHAT - - - - - O -
+          LOCAL_MASK - - - - - - S

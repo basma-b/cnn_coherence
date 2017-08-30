@@ -1,0 +1,9 @@
+             COMMAND O X -
+               INPUT X - -
+               ORDER S - -
+                GOAL O - -
+                TYPE - X -
+             MPLAYER - S -
+             SOMEONE - - O
+               LSPCI - - S
+                CARD - - O

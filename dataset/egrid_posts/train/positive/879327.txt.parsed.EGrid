@@ -1,0 +1,10 @@
+                  DD O - - -
+                DISK O - - X
+           PARTITION X - - X
+               TABLE X - - X
+                BOOT - X - -
+               DRIVE - X - -
+                 USE - - - X
+               FDISK - - - O
+                SDA1 - - - X
+                SDA2 - - - S

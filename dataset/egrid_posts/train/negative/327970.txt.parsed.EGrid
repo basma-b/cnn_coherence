@@ -1,0 +1,11 @@
+               CHMOD - S - - - -
+                WORK - O - - - -
+             FOLDERS - X - - - -
+              FOLDER - - - X - -
+                   < - - - O - -
+                   > - - - X - -
+                   * - - - O - -
+                TYPE - - - X - -
+                SUDO - - - S - -
+           IFACENAME - - - - X -
+             NETWORK - - - - - S

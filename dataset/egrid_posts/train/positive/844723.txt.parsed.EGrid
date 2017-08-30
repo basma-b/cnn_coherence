@@ -1,0 +1,25 @@
+              CLIENT X - - - - - - -
+             NETWORK - X - - - - - -
+          CONNECTION - S - - S - - -
+             MACHINE - - O X X - - -
+                WORK - - - X X - - -
+                PING - - - X - - - -
+            INTERNET - - - - X - - -
+               SHARE - - - - X - - -
+              FOLDER - - - - O - - -
+                 PCS - - - - X - - -
+             WINDOWS - - - - X - - -
+                 BOX - - - - O - - -
+              UBUNTU - - - - X - - -
+            ANYTHING - - - - X - - -
+             COMMAND - - - - X O O S
+                 SMB - - - - - - X -
+                  IM - - - - - - S S
+            TERMINAL - - - - - - X -
+           SMBCLIENT - - - - - - X -
+//192.168.1.101/USER/HOME/DESKTOP/TEST - - - - - - X -
+                LOOK - - - - - - S -
+                PATH - - - - - - X -
+                PAGE - - - - - - O -
+IP-ADDRESS=192.168.1.101 - - - - - - - X
+DIRECTORY=/USER/HOME/DESKTOP/TEST - - - - - - - S

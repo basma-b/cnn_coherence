@@ -1,0 +1,23 @@
+               LOGIN X - - - - - - -
+               ROOT= X - - - - - - -
+             COMMAND - S - - - - - -
+             USERMOD - S - - X - - -
+             -GAUDIO - S - - - - - -
+            USERNAME - S - - - O - -
+                PAGE - - O - - - - -
+                HTTP - - O - - - - -
+//FORUM.SKYPE.COM/INDEX.PHP - - O - - - - -
+      SHOWTOPIC=4489 - - - X - - - -
+            WHITHOUT - - - O - - - -
+                FLAG - - - X - - - -
+                DONT - - - - X - - -
+                  ID - - - - O X - -
+                THIS - - - - - X - -
+                SUDO - - - - - S - -
+                TYPE - - - - - X - -
+            TERMINAL - - - - - X - -
+               QUOTE - - - - - X - -
+               ADMIN - - - - - S - -
+               USERS - - - - - O - -
+                LIST - - - - - X - -
+                THAT - - - - - - O -

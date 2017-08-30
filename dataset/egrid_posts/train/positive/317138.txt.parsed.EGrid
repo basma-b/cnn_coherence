@@ -1,0 +1,16 @@
+                SCSI X - - - -
+              KERNEL X - - - -
+               CHECK - X O - -
+               ERROR - X X - -
+                BOOT - X X - -
+                 HDD - - S - -
+                 END - - X - -
+               ENTRY - - X - -
+               FSTAB - - X - -
+                THAT - - - O -
+                  .. - - - O -
+               THERE - - - S -
+                DATA - - - O -
+                 USE - - - - X
+             TUNE2FS - - - - S
+               /DEV/ - - - - O

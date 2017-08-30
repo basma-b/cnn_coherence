@@ -1,0 +1,31 @@
+            QUESTION - O - - - - - - - - - - - - - -
+             MANUALY - X - - - - - - - - - - - - - -
+       HUBIC-BROWSER - - O - - - - - - - - - - - - -
+           SOMETHING - - X - - - - - - - - - - - - -
+                 ONE - - X - - - - - - - - - - - - -
+                /OPT - - X - - - - - - - - - - - - -
+                TERM - - - X - - - - - - - - - - - -
+             SYMLINK - - - S - - - - - - - - - X - -
+             PROBLEM - - - X - - - - - - S - - - - -
+               ERROR - - - X - - - - - - - - - - - -
+/USR/LOCAL/BIN/HUBIC-BROWSER - - - X - - - O S - - - - - - -
+/USR/LOCAL/BIN//OPT/OVH/HUBIC-BROWSER/.HUBIC-BROWSER-BIN - - - X - - - - - - - - - - - -
+                  .. - - - X - - - - O - X - - - - -
+                 WAY - - - - O - - - - - - - - - - -
+                   S - - - - - - S - - - - - - - - -
+                PATH - - - - - - O - - - - - - - - -
+                FILE - - - - - - X - - - S - - - - -
+                SUDO - - - - - - - S - - - - - - - -
+/OPT/OVH/HUBIC-BROWSER/HUBIC-BROWSER - - - - - - - X X - - - - - - -
+                -LHA - - - - - - - - X O - - - - - -
+              BINARY - - - - - - - - - O O - - - - -
+                WICH - - - - - - - - - - O - - - - -
+               PLACE - - - - - - - - - - X - - - - -
+            TERMINAL - - - - - - - - - - - X - - - -
+                   D - - - - - - - - - - - - X - - -
+             COMMAND - - - - - - - - - - - - X - - -
+               ALIAS - - - - - - - - - - - - - O - -
+              PYTHON - - - - - - - - - - - - - - - X
+          DEVELOPERS - - - - - - - - - - - - - - - S
+       COMPATIBILITY - - - - - - - - - - - - - - - O
+             PYTHON3 - - - - - - - - - - - - - - - X

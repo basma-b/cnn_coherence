@@ -1,0 +1,20 @@
+             SOMEONE X - -
+              UBUNTU X - -
+                 SMP X - -
+              SYSTEM X - -
+              OUTPUT X - -
+/SYS/DEVICES/SYSTEM/CPU/ X - -
+           DUAL/QUAD - X -
+                CORE - X -
+                 CPU - S -
+             RELEASE - X -
+                CPU1 - X -
+SCHED_MC_POWER_SAVINGS - X -
+              ONLINE - X -
+               PROBE - X -
+SCHED_SMT_POWER_SAVINGS - S -
+/SYS/DEVICES/SYSTEM/CPU/SCHED_MC_POWER_SAVINGS - X -
+/SYS/DEVICES/SYSTEM/CPU/SCHED_SMT_POWER_SAVINGS - X -
+               OOOPS - O -
+                 CAT - O -
+              HDPARM - - S

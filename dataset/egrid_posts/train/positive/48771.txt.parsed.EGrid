@@ -1,0 +1,7 @@
+         /USR/BIN/LD X - - -
+               -LX11 O - - -
+/USR/X11R6/LIB/LIBX11 X - - -
+            ANYTHING - O - -
+            SYMLINKS - - - X
+           LIBX11.SO - - - X
+            LIBX11.A - - - X

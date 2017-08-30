@@ -1,0 +1,11 @@
+                   Q X - -
+              SERVER - X -
+                   * - S -
+                 SSH - X -
+               SSHFS - X -
+                  .. - X -
+                SUDO - X -
+             APT-GET - S -
+      OPENSSH-SERVER - O -
+             PACKAGE - - X
+             MANAGER - - S

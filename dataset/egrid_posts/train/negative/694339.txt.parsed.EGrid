@@ -1,0 +1,16 @@
+            WIRELESS X X - - -
+              DRIVER X - - - -
+              UBUNTU X - - - -
+                SUDO - X - X -
+            IFCONFIG - X - S -
+                   < - X - - -
+           INTERFACE - S - - -
+        SIOCSIFFLAGS - X - X -
+                FILE - X - X -
+           DIRECTORY - S - S -
+              DEVICE - O - - -
+               WLAN0 - - - X -
+               ERROR - - - O -
+                 PCI - - - X -
+                 USB - - - O -
+              THANKS - - - - X

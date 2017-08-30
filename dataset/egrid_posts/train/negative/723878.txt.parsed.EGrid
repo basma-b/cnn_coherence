@@ -1,0 +1,12 @@
+SYSTEM/ADMINISTRATION/USERS X - - -
+               GROUP O - - -
+              CHANGE X X - -
+           PASSWORDS O O - -
+                USER X X - -
+            PASSWORD X - - -
+                THIS X - - O
+              ACCESS - X - -
+             EXAMPLE - X - -
+                SUDO - X - X
+                  SH - - - O
+                PATH - - - X

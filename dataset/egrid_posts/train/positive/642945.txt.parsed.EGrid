@@ -1,0 +1,13 @@
+           PARTITION O - - -
+             DESKTOP X - - -
+               /BOOT X - - -
+                   / X - X -
+                SWAP X - X -
+                /USR X - - -
+               /HOME X - O -
+         /MEDIA/DATA X - - -
+                SOME - X - -
+                NEED - - - X
+                DATA - - - X
+                FILE - - - O
+             SYSTEMS - - - X

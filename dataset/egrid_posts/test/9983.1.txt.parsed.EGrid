@@ -1,0 +1,35 @@
+             SCHEMAS O S - -
+/USR/SHARE/GLIB-2.0/SCHEMAS X - - -
+        DCONF-EDITOR S - - -
+              EDITOR S - - -
+              SCRIPT X - - X
+                THIS O - - -
+               THERE - S - -
+             COMMAND - X - -
+                LINE - X - -
+                TOOL - O - -
+             DEFAULT - X - X
+               VALUE - O - O
+           SOMETHING - X - X
+                 USE - X - -
+           GSETTINGS - S - X
+                  .. - X - -
+              SCHEMA - X - -
+                KIND - - - O
+                UGLY - - - X
+                USER - - - X
+                SIDE - - - X
+              EFFECT - - - O
+            SETTINGS - - - X
+             DESKTOP - - - X
+                APPS - - - S
+            ARGUMENT - - - S
+               ERROR - - - X
+               CHECK - - - S
+            EXERCISE - - - X
+              READER - - - X
+                HTTP - - - O
+//PASTE.UBUNTU.COM/1262595/ - - - O
+        LIST-SCHEMAS - - - X
+                 KEY - - - X
+                 ETC - - - X

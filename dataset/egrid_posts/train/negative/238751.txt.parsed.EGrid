@@ -1,0 +1,10 @@
+               LIBC6 O - - O - -
+             VERSION - - - X O -
+        DEPENDENCIES - - - O - -
+                SUDO - - - - X -
+            APTITUDE - - - - S -
+LIBC6=WHATEVERTHEUBUNTUPACKAGEIS - - - - O -
+      2.3.6-0UBUNTU2 - - - - X -
+             PACKAGE - - - - X -
+                THAT - - - - - X
+                CPUZ - - - - - S

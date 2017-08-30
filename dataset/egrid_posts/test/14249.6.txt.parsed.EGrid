@@ -1,0 +1,28 @@
+12.04+LIGHTDM+OPENBOX+PCMANFM O - - - - - - - -
+           PARTITION O X - - - - - - -
+                LIST O - - - - - - - -
+             PCMANFM X - - - S - - - -
+               ERROR O - - X - - - - -
+      AUTHENTICATION S - - - - - - - -
+             REQUIRE O - - - - - - - -
+              SYSTEM X - - - - - - - -
+              REASON O - - - - - - - -
+                HINT - S - - - - - - -
+             PACKAGE - O - - - - - - -
+                  OK - X - - - - - - -
+               TERRY - X - X X - - - -
+                USER - X - S - - - - -
+                 ONE - - X - - - - - -
+             INSTALL - - X - - - - - -
+                 YES - - - X - - - - -
+             DEFAULT - - - X - - - - -
+                SORT - - - O - - - - -
+                THAT - - - - S - - - -
+                WORK - - - - X - - - -
+                FILE - - - - O - - - -
+                  OS - - - - O - - - -
+             VERSION - - - - - S - - -
+               12.04 - - - - - - S - -
+            PASSWORD - - - - - - X - -
+                HTTP - - - - - - - - X
+//PASTE.UBUNTU.COM/1204687/ - - - - - - - - X

@@ -1,0 +1,13 @@
+             SYMLINK X - - - -
+ /VAR/WWW/DOMAIN.COM O - - - -
+/MEDIA/MEDIA/WEBDEV/DOMAIN.COM X - - - -
+                HTTP X - - - -
+                THIS - X - - -
+                READ - - X - -
+         PERMISSIONS - - S - -
+           PARTITION - - S - -
+               MOUNT - - - - X
+                  -L - - - - S
+         FILESYSTEMS - - - - O
+                 ONE - - - - O
+                LIST - - - - X

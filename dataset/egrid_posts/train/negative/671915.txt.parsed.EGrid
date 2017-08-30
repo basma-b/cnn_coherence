@@ -1,0 +1,15 @@
+               THERE X - - - - - - - - -
+             COMMAND X X - - - - - - - -
+                  CD X - - - - - - - - -
+               DRIVE O - - - - - - - - -
+               LSPCI X - - - - - - - - -
+               CDROM - - S - - - - - - -
+           SOMETHING - - - X - - - - - -
+                   X - - - S - - - - - -
+                 SDA - - - X - - - - - -
+                 SDB - - - X - - - - - -
+            BREAKAGE - - - - - X - - - -
+             NOTHING - - - - - - X - - -
+                 LOG - - - - - - - X - -
+               DMESG - - - - - - - - X -
+                  .. - - - - - - - - - X

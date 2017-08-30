@@ -1,0 +1,13 @@
+               SAMBA X - - - -
+               USERS - S - - -
+              ACCESS - O - - -
+           NTFSDRIVE - X - - -
+                 ATM - - S - -
+          UMASK=0000 - - O O -
+             OPTIONS - - X - -
+               FIELD - - X - -
+               DRIVE - - X - -
+                CANT - - X - -
+               CHMOD - - O - -
+        /MNT/D_DRIVE - - - S -
+                 BUG - - - - O

@@ -1,0 +1,13 @@
+                BOTH S - - - - - -
+             OPTIONS - - X - - - -
+              OUTPUT - - O - - - -
+             FREEBSD - - - X - - -
+       COMPATIBILITY - - - - X - -
+                USER - - - - - X -
+             CRONTAB - - - - - O -
+      GNOME-TERMINAL - - - - - X -
+               VT100 - - - - - O -
+          EXTENSIONS - - - - - X -
+               XTERM - - - - - S -
+                SPEC - - - - - S -
+         PERSPECTIVE - - - - - X -

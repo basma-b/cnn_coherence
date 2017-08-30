@@ -1,0 +1,14 @@
+           PARTITION O - - - -
+              FORMAT X - - - -
+                FILE X - - - -
+              SYSTEM S - - - -
+              DEVICE X - - - -
+              UMOUNT - - O - -
+               FORCE - - X - -
+            ARGUMENT - - - - S
+              TARGET - - - - X
+                LINK - - - - X
+                NAME - - - - O
+                /FOO - - - - X
+                /BAR - - - - S
+              OPTION - - - - O

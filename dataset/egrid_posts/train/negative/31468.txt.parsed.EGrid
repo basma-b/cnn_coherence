@@ -1,0 +1,27 @@
+              SERVER O - -
+      INITIAL-LAPTOP X - -
+                 NSF - X -
+                   * - X -
+              CLIENT - X -
+                 NFS - S -
+                 RPC - O -
+              SYSTEM - X -
+               ERROR - X -
+          CONNECTION - X -
+               CHECK - X -
+/ETC/DEFAULT/PORTMAP - S -
+                LINE - X -
+               ARGS= - O -
+           127.0.0.1 - X -
+             PORTMAP - X -
+                 CUZ - O -
+      VAR/LOG/SYSLOG - O -
+              ERRORS - O -
+                   U - S -
+             DEFAULT - O -
+            LOOPBACK - X -
+           TERMINALS - - X
+                 KEY - - X
+                 USE - - O
+               CYCLE - - X
+                THRU - - X

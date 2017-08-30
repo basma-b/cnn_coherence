@@ -1,0 +1,27 @@
+            UNSTABLE S - - -
+               GNOME O - - -
+               HOARY - S - -
+                 2.9 - O - -
+               POINT - O - -
+                 ACE - X - -
+                IMAP - X - -
+           EVOLUTION - X - -
+                CANT - - X -
+                   A - - - O
+                  -L - - - X
+           /MNT/SDA1 - - - S
+                 SDA - - - X
+                   * - - - S
+                   N - - - X
+                   > - - - X
+/SYS/MODULE/USBCORE/PARAMETERS/OLD_SCHEME_FIRST - - - O
+             COMMAND - - - O
+                TAIL - - - X
+                 -20 - - - S
+              DEVICE - - - X
+          DESCRIPTOR - - - X
+             READ/64 - - - X
+               ERROR - - - X
+              ERRORS - - - X
+                 HMM - - - S
+              LIVECD - - - O

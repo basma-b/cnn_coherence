@@ -1,0 +1,10 @@
+             COMMENT X - X - -
+           SUBSYSTEM X - X - -
+                SFTP X - X - -
+/USR/LIB/OPENSSH/SFTP-SERVER X - X - -
+/ETC/SSH/SSHD_CONFIG - X - - -
+                INIT - - X - -
+      OPENSSH-SERVER - - S - -
+                SUDO - - - - X
+             CHANNEL - - - - S
+             APT-GET - - - - O

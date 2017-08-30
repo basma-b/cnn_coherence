@@ -1,0 +1,15 @@
+           PARTITION X - O - - - - - -
+                 … - - O - - - - - -
+         PERMISSIONS - - X - - - - - -
+               FSTAB - - X - - - - - -
+         CHMOD/CHOWN - - X - - - - - -
+              SYSTEM - - X - - - - - -
+              INSTAL - - X - - - - - -
+               CHOWN - - - X - X - - -
+           USER.USER - - - X - - - - -
+    /MEDIA/PARTITION - - - X - X - - -
+                DATA - - - - X - - - -
+       ACTIONPARSNIP - - - - X - - - -
+                WORK - - - - X - - - -
+                  OK - - - - - X - - -
+                USER - - - - - O - - -

@@ -1,0 +1,11 @@
+              CLAMAV S S S
+           FILE/MAIL O - -
+                FILE - O -
+              DEMAND - X -
+            TERMINAL - X -
+                 LOG - O X
+            /VAR/LOG - X -
+              AMAVIS - S -
+               THERE - - S
+                 MAN - - X
+                NOTE - - O

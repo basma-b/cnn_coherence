@@ -1,0 +1,28 @@
+             SOMEONE X - - - - - - - -
+                THIS X - - - - - - - -
+                  EE - S - - - - - - -
+              NVIDIA - O X X - - - - -
+               ERROR - X - - - - - - -
+                 ALL - O - - - - - - -
+NVIDIA-COMMON/CURRENT/ETC - X - - - - - - -
+             DRIVERS - - X - - - - - -
+                CARD - - - X - O - - -
+             APT-GET - - - - X - - - -
+         NVCLOCK-GTK - - - - X - - - -
+     NVIDIA-SETTINGS - - - - O - - - -
+                 YES - - - - S - X - -
+                  .. - - - - O - - - -
+      NVIDIA-CURRENT - - - - - X - - -
+                DKMS - - - - - X - - -
+             MODULES - - - - - X - - -
+             SUPPORT - - - - - O - - -
+                   O - - - - - - X - -
+              KERNEL - - - - - - S O -
+              DRIVER - - - - - - O - -
+/LIB/MODULES/2.6.32-42-PREEMPT - - - - - - O - -
+              -INAME - - - - - - - X -
+                   * - - - - - - - X -
+                NVID - - - - - - - X -
+./KERNEL/DRIVERS/VIDEO/NVIDIA - - - - - - - X -
+./KERNEL/DRIVERS/VIDEO/NVIDIA/NVIDIAFB.KO - - - - - - - S -
+              THANKS - - - - - - - - X

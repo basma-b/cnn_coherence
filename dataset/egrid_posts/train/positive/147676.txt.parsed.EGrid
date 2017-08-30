@@ -1,0 +1,15 @@
+             COMMAND X - - -
+                 APP O - - -
+                  ID - X - -
+                 JOB - S - -
+              SYSTEM - - X -
+                TOOL - - X -
+                   > - - S -
+                 GUI - - O -
+            NAUTILUS - - O -
+                FILE - - X -
+             BROWSER - - X -
+                WINE - - O X
+              CEDEGA - - X X
+                GAME - - - X
+               APPLI - - - X

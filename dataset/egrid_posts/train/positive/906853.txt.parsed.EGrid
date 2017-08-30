@@ -1,0 +1,11 @@
+                ACPI S - - - O
+            EMULATOR - O - - -
+                   X - X - - -
+             SOMEONE - - S - -
+            PLATFORM - - S - S
+             S4_BIOS - - X - -
+                  OS - - - - O
+               STATE - - - - X
+             MACHINE - - - - O
+               POWER - - - - X
+                MODE - - - - X

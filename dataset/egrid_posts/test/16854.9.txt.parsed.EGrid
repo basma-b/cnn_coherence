@@ -1,0 +1,31 @@
+             SOMEONE X - - - - -
+          DEPENDENCY X - - - - -
+               ERROR X - - - - -
+                HTTP - X - S - -
+//PASTE.UBUNTU.COM/1360758/ - X - - - -
+              UPDATE - O O - - -
+              RESULT - - O - - -
+           APT-CACHE - - X - - -
+              POLICY - - X X - -
+        MYSQL-SERVER - - X X - -
+                   * - - X X - -
+                TIME - - - S - -
+                WITH - - - O - -
+                SUDO - - - X - -
+             APT-GET - - - S - -
+             COMMAND - - - X - -
+            ASTERISK - - - X - -
+                 END - - - X - -
+    MYSQL-SERVER-5.5 - - - X - -
+          PREDEPENDS - - - X - -
+        MYSQL-COMMON - - - S - -
+                   > - - - X - -
+5.5.28-0UBUNTU0.12.04.2 - - - S - -
+           DOWNGRADE - - - X - -
+MYSQL-SERVER-CORE-5.5 - - - S - -
+                   + - - - X - -
+                BLEH - - - X - -
+                   E - - - O - -
+             VERSION - - - X - -
+               MYSQL - - - O - -
+                CANT - - - - X -

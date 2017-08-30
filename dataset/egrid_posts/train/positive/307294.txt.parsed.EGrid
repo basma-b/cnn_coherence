@@ -1,0 +1,15 @@
+                GRUB S - - - - - -
+           PARTITION O X - - - - -
+          FILESYSTEM X S - O - - -
+                THAT - X - - - - -
+             PROGRAM - X - - - - -
+              CHARGE - X - - - - -
+               MOUNT - - S - - - -
+              KERNEL - - O - - - O
+                  R0 - - - S - - -
+                  RO - - - - - S -
+                READ - - - - - O -
+                FILE - - - - - - X
+              SYSTEM - - - - - - O
+               STAGE - - - - - - X
+               /BOOT - - - - - - X

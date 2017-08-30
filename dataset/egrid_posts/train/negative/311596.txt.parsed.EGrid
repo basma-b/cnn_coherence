@@ -1,0 +1,24 @@
+LINUX-RESTRICTED-MODULES-2.6 O - - - - - -
+LINUX-RESTRICTED-MODULES-386 - - S - - - -
+               LINUX - - O - - - -
+               BERYL - - - O - - -
+NVIDIA-KERNEL-COMMON - - - O - - -
+                THOS - - - O - - -
+                NEED - - - X - - -
+              SYSTEM - - - S - - -
+              NVIDIA - - - X X X -
+              BINARY - - - X - - -
+              DRIVER - - - S - O -
+                 YEA - - - O - - -
+LINUX-RESTRICTED-MODULES - - - O - - -
+               STUFF - - - - X - -
+               REPOS - - - - X - -
+                 WAY - - - - - X -
+             MODULES - - - - - O -
+                HTTP - - - - - O -
+//WIKI.UBUNTU.COM/BERYLONFEISTY - - - - - S -
+             DRIVERS - - - - - O -
+            COMPUTER - - - - - O -
+              UBUNTU - - - - - - X
+                 TOP - - - - - - X
+             WINDOWS - - - - - - X

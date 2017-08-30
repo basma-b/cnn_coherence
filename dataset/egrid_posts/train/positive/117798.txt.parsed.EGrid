@@ -1,0 +1,35 @@
+                 HAT S - - - - - - - - - - -
+               CAUSE O X - - - - - - - - - -
+                TOTE X - - - - - - - - - - -
+                XINE X X - - - - - - - - - -
+             MPLAYER X X - - - - - - - - - -
+         SEGFAULTING X X - - - - - - - - - -
+                XMMS - X - - - - - - - - - -
+              UPDATE - - S - - - - - - - - -
+              REBOOT - - X - - - - - - - - -
+                NOPE - - - X - - - - - - - -
+               GLIBC - - - - O - - - - - - -
+                 IVE - - - - S - - - - - - -
+              PLENTY - - - - O - - - - - - -
+             VERSION - - - - - X - - - - - -
+              UBUNTU - - - - - X - - - - - -
+              STRACE - - - - - - X X - - - -
+             PROGRAM - - - - - - X - - - - -
+                LINE - - - - - - - S - - - -
+               MMAP2 - - - - - - - X - - - -
+                NULL - - - - - - - X - - - -
+PROT_READ|PROT_WRITE - - - - - - - X - - - -
+MAP_PRIVATE|MAP_ANONYMOUS - - - - - - - X - - - -
+          0XB6626000 - - - - - - - O - - - -
+                TYPE - - - - - - - X - - - X
+              OUTPUT - - - - - - - X - - - -
+              DEVSHM - - - - - - - O - - - S
+            /DEV/SHM - - - - - - - X - - - O
+               TMPFS - - - - - - - X - - - -
+                  RW - - - - - - - X - - - X
+                THAT - - - - - - - - S - - -
+               FSTAB - - - - - - - - - X - -
+                   U - - - - - - - - - S - -
+                LIEN - - - - - - - - - O - -
+                SUDO - - - - - - - - - - - X
+                 NOW - - - - - - - - - - - X

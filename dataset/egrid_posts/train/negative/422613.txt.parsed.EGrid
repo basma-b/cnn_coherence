@@ -1,0 +1,10 @@
+                HDA3 - O O - -
+               FAT32 - O - - -
+           PARTITION - - - X -
+                SUDO - - - X -
+               GEDIT - - - X -
+          /ETC/FSTAB - - - S -
+               THING - - - S -
+                 ROW - - - X -
+         /MEDIA/HDA3 - - - X -
+                 BYE - - - - S

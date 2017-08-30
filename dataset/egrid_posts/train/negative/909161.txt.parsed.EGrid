@@ -1,0 +1,16 @@
+            SOMEBODY O - - - - -
+              UBUNTU O X - - - -
+          BOOTLOADER - X - - - -
+       CONFIGURATION - X - - - -
+                GRUB - - O - - -
+             DEFAULT - - X - - -
+                HAND - - X - - -
+                BOOT - - - X - -
+             WINDOWS - - - X - -
+               DRIVE - - - X - -
+              OPTION - - - - O -
+            GRAPHICS - - - - O -
+               LSPCI - - - - - X
+                   | - - - - - X
+                GREP - - - - - X
+                 VGA - - - - - X

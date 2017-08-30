@@ -1,0 +1,27 @@
+              LIVECD - X - - - - - - - - - - - - -
+                SUDO - - X - - - - - - - X - - - -
+             SWAPOFF - - X - - - - - - - - - - - -
+                  -A - - S - - - - - - - - - - - -
+                TYPE - - - X - - - - - - - - - - -
+                /COW - - - X - - - - - - - - - - -
+           OVERLAYFS - - - X - - - - - - - - - - -
+                THIS - - - - S - - - - - - - - - -
+                  CD - - - - X - - - - - - - - - -
+          DIFFERENCE - - - - - - O - - - - - - - -
+                BOOT - - - - - - - X X - - - - - -
+                FLAG - - - - - - - X X - - - - - -
+              SYSTEM - - - - - - - X - - - - - - -
+                GRUB - - - - - - - - S - - - - - -
+             PARTNER - - - - - - - - - - X - - - -
+                REPO - - - - - - - - - - O - - - -
+             APT-GET - - - - - - - - - - S - - - -
+               PURGE - - - - - - - - - - S - - - -
+FLASHPLUGIN-INSTALLER - - - - - - - - - - O - - - -
+   ADOBE-FLASHPLUGIN - - - - - - - - - - O - - - -
+             KILLALL - - - - - - - - - - X - - - -
+             FIREFOX - - - - - - - - - - O - - - -
+               FLASH - - - - - - - - - - - X - - -
+                 LOT - - - - - - - - - - - - O - -
+                STEP - - - - - - - - - - - - X - -
+                 ONE - - - - - - - - - - - - - X -
+              THINGS - - - - - - - - - - - - - - X

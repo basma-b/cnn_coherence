@@ -1,0 +1,21 @@
+              NVIDIA O - -
+            DOWNLOAD O - -
+                  .. O - S
+          NVIDIA-GLX S - -
+          AUTOUPDATE O - -
+              KERNEL O - -
+                 X11 X - -
+                WONT X - -
+               START O - -
+             PROBLEM S - -
+LINUX-RESTRICTED-MODULES O - -
+                 LOT - O -
+             PACKAGE - X -
+               LSPCI - - X
+                LIST - - S
+                 BUS - - X
+                  ID - - S
+                OB:0 - - O
+                CARD - - S
+             DEVICES - - O
+                  -N - - O

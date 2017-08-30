@@ -1,0 +1,11 @@
+            PLYMOUTH O - -
+           /ETC/INIT X - -
+          BOOTSCREEN X - -
+                LOGO X - -
+   /ETC/DEFAULT/GRUB - S -
+                SUDO - X -
+         UPDATE-GRUB - O -
+           AUTH_KEYS - - S
+             PROGRAM - - S
+            USERNAME - - S
+                HOST - - O

@@ -1,0 +1,27 @@
+                   E X - - X - - - - - -
+                TYPE X - - X - - - - - -
+                 STY X - - S - - - - - -
+                LINE X - - X - - - - - -
+              SOURCE X - - X - - - - - -
+                LIST S - - S - - - - - -
+/ETC/APT/SOURCES.LIST X - - X - - - - - -
+            DIALOGUE - X - - X - - - - -
+             PROBLEM - O - - O - - - - -
+                   > - - X - - X - - - -
+             SOMEONE - - - X - - - - - -
+             MESSAGE - - - X - - X - - -
+       LINUXMINT.ISO - - - O - - - - - -
+             DESKTOP - - - X - - - - - -
+             CHANNEL - - - - - - O - - -
+               ERROR - - - - - - X - - -
+                RULE - - - - - - X - - -
+              PEOPLE - - - - - - O - - -
+              REASON - - - - - - - S - -
+               REPLY - - - - - - - X - -
+             IDLEONE - - - - - - - X - -
+               RSYNC - - - - - - - X - -
+                USER - - - - - - - O - -
+     NAME.SERVER.COM - - - - - - - X - -
+          /LOCAL/DIR - - - - - - - X - -
+COMPARE-DEST=/LOCAL/DIR/ - - - - - - - X - -
+                 GUY - - - - - - - - - O

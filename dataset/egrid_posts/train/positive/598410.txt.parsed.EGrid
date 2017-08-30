@@ -1,0 +1,13 @@
+             PROCESS X - - -
+                CRON X - - -
+                USER X - - -
+               USERS - X - -
+             CRONTAB - O - -
+        /ETC/CRONTAB - X - -
+             EXAMPLE - O - -
+                   * - S - -
+                ROOT - X - -
+                   > - X - -
+                TIME - - - X
+               FIELD - - - O
+               THERE - - - X

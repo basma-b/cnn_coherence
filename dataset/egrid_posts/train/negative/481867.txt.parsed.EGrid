@@ -1,0 +1,11 @@
+                BIND X - - - - - -
+             SERVICE X X - - - - -
+            FAILURES - S - - - - -
+               DMESG - X - - - - -
+          XORG.0.LOG - - O - - - -
+            NONSENSE - - - O - - -
+         DOWNGRADING - - - - S - -
+            SOLUTION - - - - O - -
+             PACKAGE - - - - - - X
+             APT-GET - - - - - - X
+           PARTIMAGE - - - - - - X

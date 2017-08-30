@@ -1,0 +1,8 @@
+           PARTITION X - O
+                 LVM X O O
+          FILESYSTEM - O -
+              LIVECD - X S
+              BACKUP - O -
+             INVOLVE - - O
+               SPACE - - O
+             ANOTHER - - X

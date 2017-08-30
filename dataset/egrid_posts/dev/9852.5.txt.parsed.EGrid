@@ -1,0 +1,14 @@
+            IPTABLES S X -
+                USER O - -
+                 APP O - -
+           SOMETHING - O -
+              OUTPUT - X -
+                  -O - S -
+               OWNER - O -
+                  -J - S -
+              ESCOTT - - X
+                 KEY - - X
+             PROCESS - - X
+                THIS - - O
+            PASSWORD - - X
+             KEY.PUB - - O

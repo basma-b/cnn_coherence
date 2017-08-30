@@ -1,0 +1,11 @@
+         SND_EMU10K1 O - - - - - -
+                LOAD O - - - - - -
+              ERRORS X - - - - - -
+                 WAY O - - - - - -
+          SND_CA0106 O O - - - - -
+/ETC/MODPROBE.D/BLACKLIST - X - - - - -
+                FILE - O O X - - -
+               THERE - X - X - - -
+                STEP - - X - - - -
+              MODULE - - - X - - -
+                 ONE - - - - - - O

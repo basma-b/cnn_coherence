@@ -1,0 +1,13 @@
+               /PROC S - - - - - - -
+             DEFAULT X - - - - - - -
+              CHROOT X - - - X - - -
+               MOUNT - X - - - - - -
+                NONE - S - - - - - -
+                  -T - - O - - - - -
+              KERNEL - - X - - - - -
+              DEVICE - - - X - X - -
+              MATTER - - - O - - - -
+         PERMISSIONS - - - - X - - -
+                  .. - - - - - S - -
+               CRW-R - - - - - - - X
+                   R - - - - - - - X

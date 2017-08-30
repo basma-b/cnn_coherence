@@ -1,0 +1,13 @@
+             MISTAKE O - - - -
+               ALPHA X - - - -
+          PULSE.CONF O - - - -
+          PULSEAUDIO - X - O -
+                FILE - S - - -
+                SUDO - - X X -
+           LIBPULSE0 - - S - -
+             APT-GET - - - S -
+               PURGE - - - X -
+           PULSEAUDO - - - S -
+               USERS - - - - S
+               GROUP - - - - X
+                ROOT - - - - O

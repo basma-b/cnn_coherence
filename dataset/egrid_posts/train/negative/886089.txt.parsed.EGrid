@@ -1,0 +1,34 @@
+                 CUT - O - - - - -
+                MENU - X - - - - -
+            GENTOO64 - - S - - - -
+                  IM - - X - - - -
+                 PON - - S - - - -
+                XFCE - - X - - - -
+                FILE - - S X - - -
+                CALL - - X - - - -
+/ETC/CHROMIUM/DEFAULT - - X - - - -
+/USR/SHARE/APPLICATIONS/CHROMIUM - - X - - - -
+             COMMAND - - X - - - -
+            ARGUMENT - - O - - - -
+            CHROMIUM - - X - - - -
+                LINE - - X - - - -
+            LAUNCHER - - O - - - -
+              FOLDER - - X - - - -
+                ROOT - - X - - - -
+                USER - - X - - - -
+          PERMISSION - - S - - - -
+                   S - - - X - - -
+               CLICK - - - - X - -
+                 HIT - - - - X - -
+          PROPERTIES - - - - S - -
+            TERMINAL - - - - X - -
+                SUDO - - - - X - -
+            VIM/NANO - - - - X - -
+               CHECK - - - - - - S
+          /ETC/FSTAB - - - - - - X
+           /DEV/SDA1 - - - - - - X
+                BOOT - - - - - - X
+               DRIVE - - - - - - O
+              OPTION - - - - - - O
+                  .. - - - - - - X
+                ISNT - - - - - - X

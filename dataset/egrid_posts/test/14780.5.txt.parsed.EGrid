@@ -1,0 +1,8 @@
+             COMMAND X - - -
+                  PC S - - -
+             NETWORK X - - -
+                 SSH - O - -
+             PACKAGE - - - O
+              DEVICE - - - S
+             DRIVERS - - - X
+            UTIILITY - - - X

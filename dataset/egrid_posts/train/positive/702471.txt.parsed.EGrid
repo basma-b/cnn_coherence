@@ -1,0 +1,20 @@
+               SETUP X - - - - - -
+              VHOSTS O - - - - - -
+              APACHE X - - - - - -
+        DOCUMENTROOT - O - - O - -
+            /VAR/WWW - - S - - - -
+            DOCUMENT - - X - - - -
+                ROOT - - O - - - -
+             DEFAULT - - X - - - -
+                 USE - - - X - - -
+     SITES-AVAILABLE - - - O - - -
+                   + - - - X - - -
+                  LN - - - S - - -
+               THERE - - - S - - -
+           DIRECTORY - - - X - - -
+                /VAR - - - X - - -
+              CONFIG - - - X - - -
+                 DIR - - - O - - -
+                SUDO - - - - - - X
+                NANO - - - - - - X
+/ETC/APACHE2/SITES-AVAILABLE/DEFAULT - - - - - - X

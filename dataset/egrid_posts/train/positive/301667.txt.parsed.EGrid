@@ -1,0 +1,15 @@
+             PROBLEM - O - - - - - - - - - -
+           PARTITION - O - - - - - - - - - -
+                GRUB - - S - - - - - - - - -
+               ERROR - - X - - - - - - X - -
+              KERNEL - - - O - X - - - - - -
+              SYSTEM - - - - O - - - - - - -
+                 USE - - - - - X - - - - - -
+                  CD - - - - - X - - - - - -
+              CHROOT - - - - - - O - - - X -
+       /MEDIA/DISK-2 - - - - - - - - X - - -
+           /BIN/BASH - - - - - - - - X - - -
+          PERMISSION - - - - - - - - - S - -
+                SUDO - - - - - - - - - - O X
+                ROOT - - - - - - - - - - - O
+                  SU - - - - - - - - - - - X

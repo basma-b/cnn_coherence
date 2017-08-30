@@ -1,0 +1,28 @@
+               THING S - - - - - - -
+                SUDO X - - - - - - -
+               START O - - - - - - -
+               SHELL X - - - - - - -
+                 TEE X - - - - - - -
+/PROC/SYS/NET/IP46/CONF/ALL/DISABLE_IPV6 O - - - - - - -
+             PROBLEM S - - - - - - -
+                IPV6 X - - S - - X -
+                 DNS X - - - - S - S
+              SERVER O - - - - - - -
+             OPENDNS - X X - O - - -
+                 USE - - X - X - - -
+                 FIX - - - X - - - -
+              KERNEL - - - O - - - X
+              UPDATE - - - X - - - -
+              2.6.30 - - - X - - - -
+             PACKAGE - - - X - - - -
+              METHOD - - - X - - - -
+               HTTPS - - - X - - - -
+//HELP.UBUNTU.COM/COMMUNITY/WEBBROWSINGSLOWIPV6IPV4 - - - S - - - -
+                BOOT - - - X - - - -
+             COMMAND - - - S - - - -
+               ISSUE - - - - - O S -
+         TRANSLATION - - - - - S - -
+                DOSE - - - - - - O -
+             SUPPORT - - - - - - X -
+                .DEB - - - - - - - X
+                GRUB - - - - - - - X

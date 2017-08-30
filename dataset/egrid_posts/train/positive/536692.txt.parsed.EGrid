@@ -1,0 +1,7 @@
+/ETC/MODPROBE.D/BLACKLIST - X - - -
+                TIME - - X - -
+                MOST - - X - -
+             ATHEROS - - X - -
+              DEVICE - - X - -
+              AR242X - - - - X
+           802.11ABG - - - - X

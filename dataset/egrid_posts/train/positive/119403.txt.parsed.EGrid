@@ -1,0 +1,13 @@
+                 ISO X - O - -
+                  CD X - X - X
+                  DD - X - X -
+         IF=/DEV/HDC - S - - -
+            /DEV/HDC - O - - -
+               CDROM - X - - -
+                  NP - - S - -
+                 CDS - - X - -
+                TYPE - - - X -
+       IF=CDNAME.ISO - - - X -
+          OF=DVD.ISO - - - O -
+                 DVD - - - - O
+                 RIP - - - - X

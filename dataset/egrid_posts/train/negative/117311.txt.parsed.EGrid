@@ -1,0 +1,19 @@
+            BOOTTIME X - - - - - - -
+         APPLICATION - X - - - - - -
+                BOOT - X X - - - - -
+            SEQUENCE - X X - - - - -
+          /ETC/RC2.0 - - S - - - - -
+               RADAR - - O - - - - -
+                  .. - - X - X O - -
+                THAT - - - S - - - -
+                 TWO - - - S - - - -
+             SYMLINK - - - - O - - -
+              SCRIPT - - - - X - - -
+           SOMETHING - - - - X - - -
+/ETC/RC2.D/S20YOURSCRIPT - - - - X - - -
+               RC0.D - - - - S - - -
+             FOLDERS - - - - X - - -
+           RUNLEVELS - - - - - X - -
+                WHAT - - - - - - O -
+                 YUM - - - - - - S -
+                DPKG - - - - - - - X

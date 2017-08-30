@@ -1,0 +1,13 @@
+              SYSTEM X - - -
+                BEEP X - - -
+                  .. - X - -
+              PCSPKR - O - O
+                WORK - S - -
+           BLACKLIST - X - -
+              COURSE - X - -
+                GKSU - - - X
+               GEDIT - - - X
+/ETC/MODPROBE.D/BLACKLIST - - - S
+                LIST - - - X
+              UBUNTU - - - S
+                BOOT - - - X

@@ -1,0 +1,16 @@
+                TIME X - - - - - - - - - -
+               ALIAS S - - - - - - - - - -
+            IFCONFIG O - - - - - - - - - -
+           IFCONNFIG X - - - - - - - - - -
+            COMPUTER O - - - - - - - - - -
+              ANSWER - - - O - - - - - - -
+              CHANGE - - - - - - S - - - -
+         /ETC/BASHRC - - - - - - - X X - -
+            QUESTION - - - - - - - S - - -
+              SOURCE - - - - - - - - X - -
+              IDENTD - - - - - - - - - S -
+            SECURITY - - - - - - - - - X -
+                RISK - - - - - - - - - O -
+                 TCP - - - - - - - - - X X
+          POSTGRESQL - - - - - - - - - - S
+      AUTHENTICATION - - - - - - - - - - O

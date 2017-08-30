@@ -1,0 +1,15 @@
+             PROBLEM O - - - - - - -
+              VSFTPD X - - - - - - -
+           DIRECTORY - O - - - - - -
+         PERMISSIONS - O - - - - - -
+             DEFAULT - X - - - - - -
+         LOCAL_UMASK - - S - - - - -
+              EFFECT - - O - - - - -
+         SUGGESTIONS - - - X - - - -
+                MASK - - - - S - - -
+              LIVECD - - - - - X - -
+           KEYLOGGER - - - - - O - -
+                 RAM - - - - - X - -
+              UBUNTU - - - - - - X -
+                  IE - - - - - - S -
+                   P - - - - - - - X

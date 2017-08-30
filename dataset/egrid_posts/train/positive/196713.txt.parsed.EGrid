@@ -1,0 +1,16 @@
+         ASOUND.CONF X - - - - - - - - - - -
+                LINK O - - - - - - - - - - -
+                HTTP X - - - - - - - - - - -
+               WHATS X - - - - - - - - - - -
+         DISKMOUNTER - - - - - - - - X - - -
+              SCRIPT - - - - - - - - S - - -
+               FSTAB - - - - - - - - S - - -
+              SIMPLE - - - - - - - - S - - -
+                  .. - - - - - - - - - S - -
+             COMMAND - - - - - - - - - S - -
+                 USB - - - - - - - - - O - -
+                 2.0 - - - - - - - - - X - -
+                SUDO - - - - - - - - - S - -
+               RMMOD - - - - - - - - - X - -
+            EHCI_HCD - - - - - - - - - X - -
+                   P - - - - - - - - - - - X

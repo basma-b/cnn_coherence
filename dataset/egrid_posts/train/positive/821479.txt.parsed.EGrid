@@ -1,0 +1,15 @@
+            ANYTHING X - - - -
+                PORT S S X - -
+                 FTP - S - - -
+                WORK - X - - -
+                MESS - X - - -
+                 SET - X - - -
+              VSFTPD - O - - -
+              REFUSE - X - - -
+         CONNECTIONS - O - - -
+HOSTS.ALLOW/HOSTS.DENY/IPTABLES - - S - -
+                SHOW - - O - -
+                  ER - - - S -
+                  .. - - - - X
+              COURSE - - - - X
+                  PS - - - - X

@@ -1,0 +1,27 @@
+    MYSQL-SERVER-5.5 X -
+    MYSQL-CLIENT-5.5 S -
+                   > X -
+   5.5.28-1~DOTDEB.0 S -
+MYSQL-SERVER-CORE-5.5 S -
+                  -F S -
+         REPLACEMENT X -
+                  .. X -
+                DPKG X -
+               ERROR X -
+             PROCESS X -
+/VAR/CACHE/APT/ARCHIVES/MYSQL-CLIENT-5.5_5.5.28+DFSG-1_I386.DEB X -
+              UNPACK X -
+/USR/SHARE/MAN/MAN1/MYSQL.1.GZ X -
+             PACKAGE X -
+            DPKG-DEB X -
+               PASTE S -
+              SIGNAL X -
+                PIPE X -
+              WHEEZY O -
+             CHANNEL S -
+            CONFLICT X -
+               MYSQL X -
+               YOULL S -
+                ISNT X -
+                WORK X -
+                TRUE - X

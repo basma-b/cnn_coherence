@@ -1,0 +1,13 @@
+              SCRIPT O S - - -
+              ACCESS - O - - -
+                FILE - O - - -
+               SHARE - X - - -
+             NETWORK - X - - -
+                THIS - - X - -
+                USER - - - X -
+         PRIVILEDGES - - - X -
+             SANDBOX - - - O -
+     CHROOT/APPARMOR - - - X -
+                 MAC - - - X -
+             SELINUX - - - X -
+                 FIX - - - - X

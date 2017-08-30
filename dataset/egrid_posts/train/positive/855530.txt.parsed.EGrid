@@ -1,0 +1,17 @@
+                FILE S - X - - -
+                  LS - O - - - -
+               -EXEC - S - - - -
+         PERMISSIONS - O - - - -
+                FIND - - X - - -
+         -EXECUTABLE - - X - - -
+                LOOP - - X - - -
+              OUTPUT - - X - - -
+             PROCESS - - X - - -
+                BASH - - X - - -
+                   \ - - - O - -
+                   < - - - S S -
+            FUNCTION - - - O - -
+            FILENAME - - - O - -
+                WORK - - - - S -
+                   > - - - - O -
+              COURSE - - - - - X

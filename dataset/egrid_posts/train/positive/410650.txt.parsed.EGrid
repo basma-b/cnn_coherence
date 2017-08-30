@@ -1,0 +1,36 @@
+                 HEY X - - - - - - - -
+                 ALL X - - - - - - - -
+          DIRECTIONS O - - - - - - - -
+              SOURCE X - - X X - X - -
+          REPOSITORY O - - - X - - - -
+        SOURCES.LIST X - - - - - - X -
+                 FAQ - S - - - - - - -
+                BITE - X - - - - - - -
+               IDEAS - - X - - - - - -
+                THIS - - - O - - - - -
+            NETATALK - - - S - - - - -
+                ADMP - - - O - - - - -
+      ADMP.PERSON_ID - - - X - - - - -
+           OUTERJOIN - - - S - - - - -
+ ADM.PRSNL_PERSON_ID - - - X - - - - -
+     ADMP.ACTIVE_IND - - - X - - - - -
+ADMP.END_EFFECTIVE_DT_TM - - - X - - - - -
+                   > - - - S X - - - -
+        CNVTDATETIME - - - X - - - - -
+             CURDATE - - - X - - - - -
+             CURTIME - - - X - - - - -
+                  ER - - - X - - - - -
+               PASTE - - - O - - - - -
+                   O - - - S - - - - -
+               REPOS - - - X - - - - -
+                 GUI - - - - O X - - -
+              SYSTEM - - - - X - - - -
+      ADMINISTRATION - - - - X - - - -
+            CHECKBOX - - - - X - - - -
+              SERVER - - - - - X - - -
+                LINE - - - - - - O - -
+/ETC/APT/SOURCES.LIST - - - - - - X - -
+                 DEB - - - - - - X - -
+                HTTP - - - - - - - X -
+                  .. - - - - - - - X -
+                 MAN - - - - - - - X -

@@ -1,0 +1,16 @@
+        XSERVER-XORG O - - X -
+            PCI-PORT O - - - -
+             DEFAULT S - - - -
+                MINE S - - - -
+                 USE - X - - -
+                THIS - X - - -
+                NANO - X - - -
+                THAT - - X - -
+  /ETC/X11/XORG.CONF - - S - -
+             NOTHING - - O - -
+                   * - - S - -
+              ANYONE - - S - -
+              ANSWER - - O - -
+            QUESTION - - X - -
+                XORG - - - X -
+    DPKG-RECONFIGURE - - - - S

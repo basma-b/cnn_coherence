@@ -1,0 +1,20 @@
+                 ANY S - - - - - - - - -
+              OWNERS O - - - - - - - - -
+               12.04 - O - - - - - - - -
+               POWER - X - X X - - - - X
+             ADAPTER - O S - - - - - X O
+/PROC/ACPI/AC_ADAPTER/STATE - - S - - - - - - -
+              GOOGLE - - - S - - - - - -
+               ISSUE - - - X O - - - - -
+            SOLUTION - - - X - - - - - -
+               CYCLE - - - X - - - - - -
+              CHARGE - - - - S - - - - -
+            SOFTWARE - - - - X O - - - -
+              UBUNTU - - - - - S - - - X
+            HARDWARE - - - - - - X X - -
+                PLUG - - - - - - - - X -
+             BATTERY - - - - - - - - S -
+                BOOT - - - - - - - - X X
+              DETECT - - - - - - - - - X
+                WORK - - - - - - - - - O
+                ACPI - - - - - - - - - X

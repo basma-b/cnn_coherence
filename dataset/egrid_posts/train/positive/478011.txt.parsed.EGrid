@@ -1,0 +1,19 @@
+                RANS S - - - - -
+         DEVICES.MAP X - - - - -
+                GRUB - O - - - -
+              CHROOT - X - - - X
+            DIFICULT - O - - - -
+                TEST - - S - - -
+              WETHER - - X - - -
+            CMD-LINE - - X - - -
+/BOOT/GRUB/MENU.LIST - - S - - -
+             PROBLEM - - O - - -
+                BIND - - - X - -
+/MNT/YOURNEWINSTALLATION/ - - - X - -
+                BOOT - - - X - -
+               /BOOT - - - S - -
+        INSTALLATION - - - X - -
+             COMMAND - - - - S -
+ YOURNEWINSTALLATION - - - - O -
+                HTTP - - - - - X
+//WWW.DDY.CH/PM/LADEN/PM.WIKI/HW-INSTALLATION/GRUB1 - - - - - S

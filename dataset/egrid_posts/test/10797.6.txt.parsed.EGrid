@@ -1,0 +1,7 @@
+               CHMOD O - - -
+                PERM O - - -
+                USER X X - -
+               CHOWN - - O -
+                BIOS - - - S
+                DAYS - - - X
+                BOOT - - - S

@@ -1,0 +1,19 @@
+                IPV6 O - - X -
+              MODULE O - - - -
+               PLACE X - - - -
+/ETC/MODPROBE.D/BLACKLIST-OWN X - - - -
+     /VAR/LOG/SYSLOG X - - - -
+                 APR X - - - -
+                DS9N X - - - -
+            MODPROBE O - - - -
+                THIS - X - - -
+                TIME - - - S -
+                PART - - - X -
+              UBUNTU - - - X -
+              THINGS - - - X -
+               THATS - - - S -
+             MESSAGE - - - O -
+              SYSLOG - - - X -
+                 ONE - - - - O
+               HTTPS - - - - S
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/MODULE-INIT-TOOLS/+BUG/66423 - - - - X

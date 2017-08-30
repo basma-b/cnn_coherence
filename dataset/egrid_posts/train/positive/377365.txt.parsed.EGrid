@@ -1,0 +1,13 @@
+                SDB1 O - - -
+                SDB2 O - - -
+                DISK O - X -
+            PARTITON O - - -
+                FILE X - - -
+              SYSTEM O - - -
+              NUMBER O - - -
+             NOTHING - S - -
+           PARTITION - - X O
+                SUDO - - - X
+              CFDISK - - - S
+               FDISK - - - X
+                  -L - - - S

@@ -1,0 +1,27 @@
+              AGAINS X - - - -
+                LDAP X - - - -
+         AUTHLDAPURL X - - - -
+                 PUT X - - - -
+           .HTACCESS X - - O -
+                 ALL O - - - -
+            AUTHTYPE - X - - -
+            AUTHNAME - X - - -
+          VALID-USER - X - - -
+             MODULES - X S - -
+            ANYTHING - O - - -
+MODULES/MOD_AUTH_LDAP.SO - - O S -
+ MODULES/MOD_LDAP.SO - - O X -
+          HTTPD.CONF - - X - -
+                LOAD - - X - -
+            DOCUMENT - - O - -
+                DOCS - - X - -
+             APACHES - - X - -
+                EASY - - X - -
+    AUTH_LDAP_MODULE - - - X -
+          LOADMODULE - - - X -
+                   K - - - X -
+                LINE - - - X -
+           DIRECTORY - - - S -
+               SETUP - - - O -
+                AUTH - - - X -
+             EXAMPLE - - - - X

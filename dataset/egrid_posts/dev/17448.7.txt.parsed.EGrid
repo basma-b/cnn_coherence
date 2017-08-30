@@ -1,0 +1,30 @@
+             COMMAND S - - - - - - - -
+/PROC/SYS/VM/DROP_CACHES O X - - - - - - -
+               CACHE X - - - - - - - -
+/PROC/SYS/VM/DROP_CACHE X - - - X - - - -
+                BASH O - - - - - - - -
+               ERROR O - - - - - - - -
+            ARGUMENT X - - - - - - - -
+          PARAMETERS S - - - - - - - -
+               VALUE - S O - S - - - -
+             DEFAULT - X - - - - - - S
+                MEAN - O - - - - - - -
+                 BOX - - X - - - - - -
+                WELL - - - S - - - - -
+                  DO - - - - X - - - -
+                  .. - - - - O - - - -
+                BASE - - - - X - - - -
+                 1-3 - - - - S - - - -
+                LOOK - - - - O - - - -
+               EVENT - - - - O - - - -
+              ORIENT - - - - X - - - -
+           INTERFACE - - - - X - - - -
+                USER - - - - - - X - -
+               GROUP - - - - - - X - -
+              APACHE - - - - - - X X -
+                 USE - - - - - - X - -
+                THIS - - - - - - - S -
+       CONFIGURATION - - - - - - - X -
+              UBUNTU - - - - - - - - X
+              NOBODY - - - - - - - - O
+            WWW-DATA - - - - - - - - X

@@ -1,0 +1,16 @@
+             RELEASE O - - - - - - -
+            ACPI=OFF O - - - - - - -
+            MENU.LST X - - - - - - -
+               GRUB2 - X - - - - - -
+                SAME - - - O - - - -
+            TERMINAL - - - - - S - -
+                TEST - - - - - X - -
+                USER - - - - - O X -
+               ISSUE - - - - - O - -
+               USERS - - - - - - X -
+                 WAY - - - - - - X X
+            KEYBOARD - - - - - - X -
+              CONFIG - - - - - - O O
+             ANOTHER - - - - - - X -
+               THERE - - - - - - - X
+             DEFAULT - - - - - - - X

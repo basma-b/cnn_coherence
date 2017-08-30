@@ -1,0 +1,19 @@
+               WLAN0 S - - X
+                 MAC X - - -
+  00:00:00:00:00:00. O - - -
+                SUDO - X S -
+            IFCONFIG - S - -
+              DOESNT - S - -
+            ANYTHING - O - -
+              OUTPUT - - O -
+        SIOCSIFFLAGS - - O -
+              DEVICE - - X O
+             NOTHING - - O -
+                LSHW - - X -
+             NETWORK - - O -
+                HTTP - - O -
+//PASTE.UBUNTU-NL.ORG/13593/ - - S -
+            INTEREST - - X -
+            DISABLED - - X -
+/PROC/DRIVER/ACERHK/WIRLESSLED - - - O
+                ETH1 - - - X

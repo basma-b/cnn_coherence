@@ -1,0 +1,13 @@
+           MKFS.VFAT - X - X -
+           PARTITION - O - - -
+              ACCORD - X - - -
+              UBUNTU - X - - -
+           INSTALLER - X - - -
+              FORMAT - - X - -
+               FAT32 - - X - -
+             COMMAND - - - X -
+                LINE - - - X -
+                TOOL - - - X -
+/DEV/WHATEVER-PARTITION - - - S -
+                 TAB - - - - X
+                 TIP - - - - X

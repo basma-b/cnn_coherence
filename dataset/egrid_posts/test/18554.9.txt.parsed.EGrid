@@ -1,0 +1,13 @@
+               UMASK S - - -
+                 USE X - - -
+            HOMEPAGE - S - -
+              ACCESS - O - -
+           PARTITION - X - -
+                USER - X - -
+              OTHERS - - O -
+            HARDWARE - - - X
+                THIS - - - S
+            JUNCTION - - - X
+              ERRORS - - - S
+                HDDS - - - X
+             COMMAND - - - O

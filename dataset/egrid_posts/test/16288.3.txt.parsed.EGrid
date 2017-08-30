@@ -1,0 +1,12 @@
+             COMMAND X - - - -
+               RIGHT X - - - -
+                GRUB - - - O O
+              MASTER - - - X -
+                BOOT - - - X -
+              RECORD - - - X -
+                SUDO - - - - X
+                  DD - - - - X
+         IF=/DEV/SDA - - - - X
+             COUNT=1 - - - - X
+                   | - - - - S
+                GREP - - - - X

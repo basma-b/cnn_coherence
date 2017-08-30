@@ -1,0 +1,14 @@
+           PARTITION S - O -
+           STRUCTURE O - - -
+    FILESYSTEMS/RAID X - - -
+             MD0-MD2 S - - -
+              CREATE O - - -
+              SYSTEM S - - -
+         FILESYSTEMS X - - -
+                  AC - X - -
+               -RSB- - O - -
+                 MD3 - - S -
+                DATA - - X -
+                  FS - - X -
+              EXT4FS - - - O
+            /DEV/MD3 - - - X

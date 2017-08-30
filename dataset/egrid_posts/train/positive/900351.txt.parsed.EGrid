@@ -1,0 +1,8 @@
+          PERMISSION S -
+                SUDO O S
+/PROC/SYS/NET/IPV4/TCP_ECN - O
+                   > - S
+         REDIRECTION - O
+                USER - X
+                ROOT - S
+                  SH - O

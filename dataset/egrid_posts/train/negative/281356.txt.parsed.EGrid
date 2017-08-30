@@ -1,0 +1,33 @@
+            IFCONFIG X - - - - - - - -
+             ADDRESS S - - - - - - - -
+       192.168.2.133 X - - - - - - - -
+/ETC/NETWORK/INTERFACES X - - - - - - - -
+             NETWORK X - - - - - - - -
+                 GUI X - - - - - - - -
+        192.168.2.15 X - - - - - - - -
+            CONFLICT O - - - - - - - -
+              DHCPCD - S - - - - - - -
+              THINGS - O - - - - - - -
+                  IP - O - - - - - - -
+               DHCPD - X - - - - - - -
+                  PS - - X - - - - - -
+                  AX - - X - - - - - -
+                   | - - S - - - - - -
+                 PID - - O - - - - - -
+                ETH0 - - - - S S - - -
+             PROCESS - - - - X - - - -
+                IDEA - - - - O - - - -
+               PASTE - - - - O - - - -
+                   S - - - - - X - - -
+      /SBIN/DHCLIENT - - - - - X - - -
+/VAR/LIB/DHCP3/DHCLIENT.ETH0.LEASES - - - - - S - - -
+                  -E - - - - - O - - -
+                  OK - - - - - O - - -
+              CONFIG - - - - - O - S -
+                  PM - - - - - - X - -
+              ROUTER - - - - - - X - -
+             MESSAGE - - - - - - - X -
+             CHANNEL - - - - - - - O -
+                  IM - - - - - - - - S
+                BOOT - - - - - - - - X
+           USER/PASS - - - - - - - - O

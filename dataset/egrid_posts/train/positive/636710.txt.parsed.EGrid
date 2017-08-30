@@ -1,0 +1,27 @@
+                 HEY X - -
+                 ALL X - -
+          CONNECTION X - -
+                WORK O - -
+        PASSWORDLESS X - -
+                 SSH - X -
+                 KEY - O -
+              ID_RSA - S -
+          ID_RSA.PUB - X -
+             MACHINE - S -
+            USERNAME - S -
+           IPADDRESS - O -
+            PASSWORD - X -
+           SSH-AGENT - X -
+           VARIABLES - O -
+              SHAELL - X -
+               GUIDE - X -
+              ONLINE - O -
+              CLIENT - X -
+             WINDOWS - X -
+                  XP - O -
+              SERVER - O -
+                LOOK - S -
+/ETC/SSHD/SSHD_CONFIG - X -
+   RSAAUTHENTICATION - S -
+PUBKEYAUTHENTICATION - S -
+                 YES - - O

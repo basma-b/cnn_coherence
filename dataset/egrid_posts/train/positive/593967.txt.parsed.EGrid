@@ -1,0 +1,12 @@
+             COMMAND O O - - - - - -
+            PASSWORD X - - - - - - -
+                 MAN - - X - - - - -
+             SUDOERS - - X - - - - -
+                 APP - - O - - - - -
+               RIGHT - - X - - - - -
+              APACHE - - X - X - - -
+          COMPROMISE - - - X - - - -
+              PURITY - - - X - - - -
+           INTERFACE - - - X - - - -
+          APACHE2CTL - - - - - - S -
+            GRACEFUL - - - - - - - S

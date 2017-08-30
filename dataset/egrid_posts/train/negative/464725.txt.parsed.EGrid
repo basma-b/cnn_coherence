@@ -1,0 +1,12 @@
+             APT-GET S - - - - - - - - -
+             PACKAGE O - - - O - - - - -
+              SERVER - - O - - - - - - -
+                FILE - - X - - - - O - -
+                MAIN - - - - X - - - - -
+             VERSION - - - - X - - - - O
+              UBUNTU - - - - X - - - - -
+             EDITION - - - - - - O - - -
+/ETC/APT/SOURCES.LIST - - - - - - X - - -
+                HTTP - - - - - - - X - -
+                TEXT - - - - - - - X - -
+  SYNAPTIC/APT-CACHE - - - - - - - - X -

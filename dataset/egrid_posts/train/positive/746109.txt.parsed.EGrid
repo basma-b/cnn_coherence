@@ -1,0 +1,13 @@
+                SSHD X - - - - - - -
+       OPENSSH_3.9P1 X - - - - - - -
+              OPTION X - - - - - - -
+         INVOKE-RC.D X - - - - - - -
+                 SSH X - - - S X - -
+              ACTION S - - - - - - -
+              FIDDLE - X - - - - - -
+              SCRIPT - X - - - - - -
+/ETC/SSHD/SSHD_CONFIG - X - - - - - -
+              CONFIG - - - X - - - -
+                FILE - - - O - - - -
+         PROCESSLIST - - - - - - X -
+             ROOTKIT - - - - - - - X

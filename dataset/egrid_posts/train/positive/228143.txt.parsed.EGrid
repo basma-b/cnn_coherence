@@ -1,0 +1,9 @@
+LINUX-RESTRICTED-MODULES O - - - - - -
+                 ANY - O - - - - -
+            GRAPHICS - X - - - - -
+             DRIVERS - X - - - - -
+              SYSTEM - X - - - - -
+             DEVICES - - S - - - -
+                WORK - - O - - - -
+           LINUX-386 - - - - S - -
+                IIRC - - - - O - -

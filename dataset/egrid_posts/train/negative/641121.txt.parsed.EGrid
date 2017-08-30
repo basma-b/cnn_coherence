@@ -1,0 +1,14 @@
+                .DEB O X - - -
+            POSTINST O - - - -
+           SOMETHING - O - - -
+          DEPENDENCY - O - - -
+             PACKAGE - X - - -
+              CONFIG - O - - -
+                POST - O - - -
+             DISPLAY - - S - -
+                 USE - - - X -
+              DETAIL - - - X -
+                   | - - - S -
+                UTF8 - - - X -
+        SCREEN+IRSSI - - - X -
+                  PM - - - - S

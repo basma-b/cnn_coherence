@@ -1,0 +1,11 @@
+              UBUNTU X - -
+      /USR/LOCAL/LIB X O -
+     /ETC/LD.SO.CONF X X -
+             DEFAULT X - -
+/ETC/LD.SO.CONF.D/LIBC.CONF - X -
+                  'D - O -
+          LD.SO.CONF - O -
+            LDCONFIG - O -
+             LIBRARY - X -
+               CHECK - - X
+              INIT.D - - X

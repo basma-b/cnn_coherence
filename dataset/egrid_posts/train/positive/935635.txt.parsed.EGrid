@@ -1,0 +1,15 @@
+               WORLD X - - - -
+                 ONE S - - - -
+                ETH0 X S X X -
+                BOOT X - - - -
+            ETHERNET X - - - -
+            IFCONFIG - S - - -
+                IFUP - - X - -
+                AUTO - - X X -
+/ETC/NETWORK/INTERFACES - - X - -
+                INET - - - X X
+                DHCP - - - X O
+                 MAP - - - - X
+             HOTPLUG - - - - X
+                   | - - - - S
+              SCRIPT - - - - O

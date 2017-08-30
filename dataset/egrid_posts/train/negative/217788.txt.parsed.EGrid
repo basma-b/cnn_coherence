@@ -1,0 +1,12 @@
+          YOUR_HDISK X - - - - - -
+                   > O - - - - - -
+ROOT-DIRECTORY=/PATH/TO/ROOT X - - - - - -
+               /BOOT - O - S - - -
+                 USE - O X - - - -
+           PARTITION - X - - - - -
+              LIVECD - - O - X - -
+                BOOT - - X - X - -
+              SYSTEM - - X - - - -
+      ROOT-DIRECTORY - - - O - - -
+             EXAMPLE - - - - X - -
+         /MNT/TARGET - - - - X - -

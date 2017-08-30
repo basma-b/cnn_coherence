@@ -1,0 +1,17 @@
+   /VAR/LOG/MESSAGES X - - S - - -
+                 ERM - X - - - - -
+                 LOT - S - - - - -
+                LINE - O - - - - -
+                FILE - X - - - - -
+                DHCP - - S X - - -
+                 CAT - - O - - - -
+                TAIL - - - X - - -
+                  -N - - - O - - -
+              OUTPUT - - - X - - -
+            TERMINAL - - - X - - -
+NETWORK-MANAGER-APPLET - - - S - - -
+           NM-APPLET - - - O - - -
+                NICK - - - - O - -
+                WIFE - - - - - X -
+           DIRECTION - - - - - O -
+               DOUBT - - - - - X -

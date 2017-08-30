@@ -1,0 +1,16 @@
+               ROOT= - O O - -
+               HD0,2 - X X - -
+               HD0,3 - X X - -
+               GRUB2 - - X - -
+        INSTALLATION - - X - -
+                BOOT - - O - -
+             CHANNEL - - X - -
+             WINDOWS - - - O -
+                 UNI - - - - X
+             NETWORK - - - - X
+               DRIVE - - - - X
+              OPTION - - - - O
+              SEARCH - - - - X
+          PLACES.AND - - - - X
+            INTERNET - - - - X
+                  IP - - - - X

@@ -1,0 +1,15 @@
+             VERSION S - - - - - -
+              UBUNTU X - - - - - -
+            HARDWARE X - - - - - -
+           DETECTION O - - - - - -
+            COVERAGE - O - - - - -
+             NETWORK - - X - - - -
+                CARD - - X - - - -
+                 PCI - - - X - - -
+                  ID - - - S - - -
+              MODULE - - - X - - -
+               HOARY - - - X - - -
+            BUGZILLA - - - X - - -
+               /PROC - - - - X - -
+              STANZA - - - - - - S
+/ETC/POSTFIX/MASTER.CF - - - - - - O

@@ -1,0 +1,16 @@
+            PROBLEMS O - - - - - -
+             VERSION X - - - - - -
+               MEDIA X - - - - - -
+              UBUNTU - O - - - - -
+              LINUIX - O - - - - -
+                BOOT - X - - - X -
+                HTTP - O - - - - -
+                 ISO - O - - - - -
+               VIDEO - - - X X - -
+                CHIP - - - X X - -
+                WHAT - - - - - O -
+              OPTION - - - - - O -
+                  F8 - - - - - O -
+                 USE - - - - - - X
+ NOUVEAU.BLACKLIST=1 - - - - - - X
+           NOMODESET - - - - - - X

@@ -1,0 +1,17 @@
+               10.10 O - - - -
+             INSTALL X - - - -
+              UPDATE X - - - -
+            WIRELESS - X - - X
+             NETWORK - S - - -
+                 WEP - O - - -
+                 WPA - X O - -
+            SETTINGS - - S - -
+          CONNECTION - - X - -
+            ANYTHING - - X - -
+                THIS - - O - -
+              DRIVER - - - X -
+                 NIC - - - X -
+             COMMAND - - - - X
+                LINE - - - - X
+               LSPCI - - - - O
+                CARD - - - - X

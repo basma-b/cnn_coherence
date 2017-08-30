@@ -1,0 +1,19 @@
+               THERE X - - - - - - -
+         POSSIBILITY X - - - - - - -
+              FORMAT X - - - - - - -
+               DRIVE S - - - - - - -
+               FDISK S - X - - - - -
+              DEVICE O - - - - - - -
+           PARTITION X O - - - - - -
+               TABLE O - - - - - - -
+             GPARTED - - S - - - - -
+                FILE - - - - X - - -
+              SYSTEM - - - - O - - -
+               TOAST - - - - - O - -
+               FORCE - - - - - O - -
+            RESPONSE - - - - - - - X
+     FORCE-DOWNGRADE - - - - - - - X
+              OUTPUT - - - - - - - S
+         REPLACEMENT - - - - - - - X
+LIBAPACHE2-MOD-PYTHON - - - - - - - O
+             PACKAGE - - - - - - - O

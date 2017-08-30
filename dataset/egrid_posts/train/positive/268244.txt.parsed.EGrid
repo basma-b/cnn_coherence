@@ -1,0 +1,20 @@
+             SOMEONE X - - - - -
+              CONFIG O X X - - -
+            1024X768 X - - - - -
+                  AN - - S - - -
+DPKG-RECONFIGURE-XSERVER-XORG - - X - - -
+          RESOLUTION - - O - - -
+                 HIT - - - X - X
+             CTRL-F1 - - - S - -
+        XSERVER-XORG - - - O - -
+             DIALOGE - - - O - -
+          SELECTIONS - - - S - -
+            TERMINAL - - - X - X
+                SUDO - - - - - X
+             CTRL+F1 - - - - - S
+             COMMAND - - - - - O
+                STEP - - - - - X
+                TYPE - - - - - X
+     /ETC/INIT.D/GDM - - - - - S
+                DONT - - - - - S
+                 TTY - - - - - O

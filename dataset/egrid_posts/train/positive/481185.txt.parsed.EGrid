@@ -1,0 +1,9 @@
+                 FUN O - - - - - -
+                   | - O X X - S -
+               DEVEL - - X - - - -
+              SEKURE - - X X - - -
+                 DEV - - - X - - -
+              DRIVER - - - - O - -
+                LOAD - - - - X - O
+           BLACKLIST - - - - X X O
+/ETC/MODPROBE.D/BLACKLIST - - - - - - X

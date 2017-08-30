@@ -1,0 +1,17 @@
+                TIME X - - - -
+                 RAM S - - - -
+              AMOUNT S - - - -
+           SOMETHING S - - - -
+                SWAP O - - - -
+                FACT X - - - -
+           PARTITION S - - - -
+                  DD X - - - -
+        IF=/DEV/ZERO S - - - -
+          COUNT=1024 O - - - -
+              MKSWAP X - - - -
+            SWAPFILE O - - - -
+              SWAPON X - - - -
+            GIGABYTE O - - - -
+                   P S - - X -
+                 ONE - O - - -
+         HIBERNATION - X - - -

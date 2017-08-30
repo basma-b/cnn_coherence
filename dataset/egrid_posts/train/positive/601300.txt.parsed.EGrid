@@ -1,0 +1,7 @@
+           PARTITION S X - - -
+               MOUNT X - - - -
+                DISK X X - - -
+          BOOTLOADER - X - - -
+                BOOT - X - - -
+                FLAG - O - - -
+              UBUNTU - - - S -

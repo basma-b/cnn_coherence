@@ -1,0 +1,13 @@
+                DHCP X - -
+              STATIC X - -
+/ETC/NETWORK/INTERFACES X - -
+            DHCLIENT S - -
+               GREET - S -
+             NETWORK - X -
+             MANAGER - X -
+                  .. - - S
+                BOOT - - X
+                MENU - - X
+                   X - - X
+              SERVER - - X
+           INFINTELY - - O

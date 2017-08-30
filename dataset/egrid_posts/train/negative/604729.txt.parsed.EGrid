@@ -1,0 +1,29 @@
+      OPENSSH-SERVER O - - - - - - - - - -
+             COMMAND X - - - - - - - - - -
+             APT-GET X - - - - - - - - - -
+               ERROR X - - - - - - - - - -
+                HTTP S - - X - - - - - X -
+                  .. X - - - - - - - - - -
+/ETC/APT/SOURCES.LIST S - - - - - - - - - -
+             MIXTURE O - - - - - - - - - -
+              SOURCE O - O - - S - - - - -
+                LINE X - - - - - - - - - -
+             SYSTEM- O - - - - - - - - - -
+            SOFTWARE X - - - - - - - - - -
+             RELEASE X X - - - - - - - - -
+              NUMBER O S - - - - - - - - -
+                8.04 - O - - - - - - - - -
+              JAUNTY - - - X - - - - - - -
+              IKONIA - - - X - - - - - - -
+//UBUNTUGUIDE.ORG/WIKI/UBUNTU - - - X - - - - - - -
+MANUALLY_ADD_REPOSITORIES - - - X - - - - - - -
+                LIST - - - X - - - - - - -
+        REPOSITORIES - - - X - - - - - - -
+    /ETC/LSB-RELEASE - - - - - O - - - - -
+                MESS - - - - - X - - - - -
+              SYSTEM - - - - - - S - - - -
+               BREAK - - - - - - X - - - -
+        SOURCES.LIST - - - - - - - O - - -
+                 ONE - - - - - - - X - - -
+//PASTE.UBUNTU.COM/227918/ - - - - - - - - - X -
+                  OK - - - - - - - - - - X

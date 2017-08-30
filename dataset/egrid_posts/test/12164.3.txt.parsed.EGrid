@@ -1,0 +1,15 @@
+               12.10 X - - - - - - -
+            APTITUDE S - - - - - - -
+             PACKAGE O - - - - - - -
+              REASON X - - - - - - -
+                I386 - S - - - - - -
+                SHOW - X - - - - - -
+                 FOO - S S - - - - -
+               AMD64 - - X - - - - -
+            BEHAVIOR - - - O - - - -
+             APT-GET - - - X - - - -
+           IA32-LIBS - - - O X - - -
+          EQUIVALENT - - - - O - - -
+           LIBRARIES - - - - O - - -
+                CANT - - - - - - X -
+                .DEB - - - - - - - O

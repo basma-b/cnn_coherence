@@ -1,0 +1,12 @@
+                DISK O - - X
+                SUDO S - - -
+                LOOP O O - -
+        /MOUNT/POINT X - - -
+               BLOCK - X - -
+              DEVICE - O - -
+               IMAGE - X - -
+                FILE - X - -
+                 ANY - - - O
+               CLICK - - - X
+                   > - - - X
+            TERMINAL - - - X

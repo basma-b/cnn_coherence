@@ -1,0 +1,14 @@
+                DATA O - - - - - -
+                NTFS X - X - - - -
+           PARTITION X - - - - - -
+             PROBLEM - O - - - - -
+           PERMISION - - X - - - -
+               CHMOD - - S - - - -
+                  IM - - X - - - -
+               YOULL - - S - - - -
+                ROOT - - X - - - -
+               WHICH - - X - - - -
+             COMMAND - - X - - - -
+                SUDO - - S - - - -
+                 DNS - - - - - - S
+                 TCP - - - - - - O

@@ -1,0 +1,17 @@
+               HELLO S - -
+                 WAY X - O
+              KERNEL X - X
+             MODULES X - O
+                BOOT X X -
+              LIVECD - O -
+                WONT - S -
+                   / - S -
+/ETC/MODPROBE.D/BLACKLIST - X -
+                 ONE - S -
+             LOADING - X -
+            HARDWARE - X -
+             DRIVERS - S -
+               ENTRY - S -
+      B43LEGACY-PHY0 - X -
+               THERE - - S
+            ARGUMENT - - X

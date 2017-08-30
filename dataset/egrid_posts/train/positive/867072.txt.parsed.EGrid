@@ -1,0 +1,25 @@
+               ENTRY X - - - -
+    /ETC/RESOLV.CONF X - - O -
+              EITHER - S - - -
+      NETWORKMANAGER - X - X -
+          CONNECTION - O - - -
+       DHCLIENT.CONF - O - - -
+                 DNS - O - - -
+                 SAY - S - - -
+                THAT - - S O -
+              SEARCH - - X - -
+          DOMAIN.COM - - X - -
+                LINE - - O - -
+                SUDO - - X - -
+             APT-GET - - X - -
+          RESOLVCONF - - O - -
+ /ETC/NETWORKMANAGER - - - S -
+                 WAY - - - S -
+               THERE - - - S -
+                WAYS - - - O -
+                FILE - - - X O
+                  DO - - - - S
+               THANK - - - - O
+/ETC/RESOLVCONF/RESOLV.CONF.D/HEAD - - - - X
+                HAND - - - - X
+             CHANGES - - - - S

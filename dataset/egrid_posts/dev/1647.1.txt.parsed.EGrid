@@ -1,0 +1,15 @@
+                USER O - X - - -
+                 FOO X - - - - -
+               ADMIN O - - - - -
+                SUDO O - - - - -
+             SUDOERS X - - - - O
+              SYNTAX O - - - - -
+             ADDUSER X - - - - -
+             USERADD - S - - - -
+                MESS - X - - - -
+             COMMAND - X - - - -
+                  .. - O - - - -
+               GROUP - - X - - -
+                LIST - - X - - -
+                LINE - - - X - -
+              VISUDO - - - - - O

@@ -1,0 +1,9 @@
+                LOAD X - - -
+              SCREEN X - - -
+              UBUNTU O - - -
+                TEXT - X - -
+               QUIET - - O -
+                GRUB - - X -
+                BOOT - - X -
+             APT-GET - - - S
+         KEXEC-TOOLS - - - O

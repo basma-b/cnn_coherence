@@ -1,0 +1,23 @@
+           CHARACTER X - - X -
+             DEVICES X - - X -
+             CHIPSET X - - - -
+                   ' - X - - -
+                 SEC - X - - -
+             VT8237A - O - - -
+           PROCESSOR - X - - -
+              FAMILY - O - - -
+        /DEV/AGPGART - X - X -
+           SUBOPTION - O - - -
+             SUPPORT - X - - -
+             DRI/DRM - - S - -
+                THIS - - O - -
+              KERNEL - - X - -
+                INFO - - S - -
+              CHANGE - - O - -
+                THEN - - X - -
+                FILE - - - X -
+                 DRM - - - O -
+              RENDER - - - X -
+             MANAGER - - - S -
+                HTTP - - - - X
+//PASTEBIN.COM/1EB5SI8D - - - - X

@@ -1,0 +1,17 @@
+              CHANGE S - - X
+              REBOOT - S - -
+          PERMISSION - O - -
+                   * - S - -
+                  HD - X - -
+                 RAM - X - -
+                SCSI - X - X
+              DEVICE - X X -
+                 YAP - - X -
+                SATA - - X -
+                THAT - - - S
+           CONTROLER - - - X
+                 ALL - - - S
+                 USE - - - O
+      SCSI-EMULATION - - - O
+                  .. - - - O
+              BURNER - - - S

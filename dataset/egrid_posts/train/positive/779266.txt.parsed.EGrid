@@ -1,0 +1,11 @@
+           PARTITION O X - -
+                LVM2 - X - -
+              VOLUME - O - -
+                FILE - X - -
+              SYSTEM - O - -
+         FILESYSTEMS - X - -
+                   < - - - X
+        VOLUME_GROUP - - - X
+                   > - - - X
+                   / - - - X
+      LOGICAL_VOLUME - - - X

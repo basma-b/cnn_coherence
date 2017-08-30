@@ -1,0 +1,15 @@
+            SOMEBODY X - -
+    APT/SOURCES.LIST X - -
+               ORDER S - -
+              NVIDIA X - -
+             DRIVERS S - -
+               HTTPS - X -
+//HELP.UBUNTU.COM/COMMUNITY/BINARYDRIVERHOWTO/NVIDIA - X -
+                SUDO - X -
+ SOFTWARE-PROPERTIES - S -
+              RETURN - X -
+             COMMAND - S -
+                LINE - - O
+                 DEB - - X
+                HTTP - - S
+                 END - - X

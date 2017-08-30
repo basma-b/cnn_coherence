@@ -1,0 +1,6 @@
+                RULE X - O -
+              TARGET S - - -
+                STOP - X - -
+            TERMINAL - - X -
+            MAKEFILE - - S -
+                SITE - - - S

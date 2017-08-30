@@ -1,0 +1,26 @@
+                LINK S - - - - - -
+               SAMBA - S X - - - -
+          PARAMETERS - O - - - - -
+              DOESNT - - X - - - -
+             SUPPORT - - X - - - -
+                UNIX - - S - - - -
+                FILE - - O O - - -
+            UID=1000 - - - X - - -
+              OPTION - - - O - - -
+                 ALL - - - X - - -
+      NOBODY.NOGROUP - - - X - - -
+                SAME - - - O - - -
+             COMMAND - - - X - - -
+              SCRIPT - - - X - - -
+             PROCESS - - - O - - -
+                 UID - - - O - - -
+              NOBODY - - - S - - X
+           UID=65534 - - - X - - -
+             OPTIONS - - - S - - -
+              EFFECT - - - O - - -
+                  LS - - - - X - -
+                  -L - - - - X - -
+              FOLDER - - - - X - -
+                HTTP - - - - - X -
+//PASTE.UBUNTU.COM/902211/ - - - - - X -
+             NOGROUP - - - - - - S

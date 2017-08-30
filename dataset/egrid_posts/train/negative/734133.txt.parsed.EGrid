@@ -1,0 +1,45 @@
+        SOURCES.LIST X - - - - - - - - - - - - - - - -
+                FILE O - - - - - - - - - - - - - - - -
+         UBUNTUZILLA O - - - - - - - - - - - - - - - -
+          PERMISSION - O - - - - - - - - - - - - - - -
+                  SU - - O - - - - - - - - - - - - - -
+            PASSWORD - - O - - - - - - - - - - - - - -
+                SUDO - - - S - - X X - - - - X - X - -
+              GKSUDO - - - X - - - - - - - - - - - - -
+               GEDIT - - - X - - - - - - - - - - - - -
+/ETC/APT/SOURCES.LIST - - - S - - - - - - - - - - - - -
+                APPS - - - X - - - - - - - - - - - - -
+              THANKS - - - - X - - - - - - - - - - - -
+              OUTPUT - - - - - - X - - - - - - - - - -
+             APT-GET - - - - - - X S - - - S - - - - -
+                   E - - - - - - O - - - - - - - - - -
+             PACKAGE - - - - - - O - X - - - - - - - -
+                 BIN - - - - - - O - - - - - - - - - -
+                LINE - - - - - - - O - - - - - - - - -
+                  » - - - - - - - O - - - - - - - - -
+//PASTEBIN.COM/BFI8CUA4 - - - - - - - - X - - - - - - - -
+                NAME - - - - - - - - X - - - - - - - -
+              UPDATE - - - - - - - - - O - - - - - - -
+              SEARCH - - - - - - - - - X - - - - - - -
+             MOZILLA - - - - - - - - - S - - - - - - -
+          EVERYTHING - - - - - - - - - S - - - - - - -
+             UPDATES - - - - - - - - - O - - - - - - -
+                  .. - - - - - - - - - S - - - - - - -
+                 END - - - - - - - - - O - - - - - - -
+             MESSAGE - - - - - - - - - O - - - - - - -
+                HTTP - - - - - - - - - - X - - - - - -
+//SOURCEFORGE.NET/APPS/MEDIAWIKI/UBUNTUZILLA/INDEX.PHP - - - - - - - - - - X - - - - - -
+FIREFOX-MOZILLA-BUILD - - - - - - - - - - - S - - - - -
+     TITLE=MAIN_PAGE - - - - - - - - - - - S - - - - -
+        INSTALLATION - - - - - - - - - - - X - - - - -
+               GUIDE - - - - - - - - - - - O - - - - -
+                 ONE - - - - - - - - - - - X - - X - -
+                 KEY - - - - - - - - - - - O X O - - -
+             APT-KEY - - - - - - - - - - - - X - X - -
+                 ADV - - - - - - - - - - - - O - X - -
+           RECV-KEYS - - - - - - - - - - - - O - X - -
+KEYSERVER.UBUNTU.COM - - - - - - - - - - - - X - X - -
+            C1289A29 - - - - - - - - - - - - O - X - -
+              CHANGE - - - - - - - - - - - - X - - - -
+               THING - - - - - - - - - - - - X - - - -
+           SOMETHING - - - - - - - - - - - - - O - - -

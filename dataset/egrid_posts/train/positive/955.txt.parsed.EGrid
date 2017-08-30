@@ -1,0 +1,19 @@
+            SOMEBODY X - - -
+       COMPATIBILITY X - - -
+             DRIVERS O - - -
+              UBUNTU X - - -
+                LINE - O - -
+/ETC/MODUTILS/ALSA-BASE - X - -
+             NOTHING - O - -
+              VOLUME - X - -
+             CONTROL - X - -
+                 SET - X - -
+              MIXERS - X - -
+                LOAD - - O -
+               THERE - - S -
+            /DEV/DSP - - O -
+             PROBLEM - - O -
+         SND-PCM-OSS - - S -
+            MODPROBE - - - X
+         SND_PCM_OSS - - - X
+              ERRORS - - - X

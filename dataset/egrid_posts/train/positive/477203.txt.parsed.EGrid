@@ -1,0 +1,16 @@
+             MACHINE O - - -
+             UPGRADE O - - -
+               BREAK X - - -
+                  .. O - - -
+             PACKAGE S - - -
+              8.04.1 X - - -
+                THAT - S - -
+                SUDO - O - -
+             DEFAULT - X - -
+             GATEWAY - O - -
+               DIR0/ - - X -
+               DIR1/ - - X X
+               DIR2/ - - - S
+                DIR1 - - - O
+                DIR2 - - - X
+             CONTENT - - - X

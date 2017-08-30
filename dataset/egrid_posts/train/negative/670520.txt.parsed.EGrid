@@ -1,0 +1,15 @@
+              SERVER O - - - - - - - - O - - - -
+                MESS X - - - - - - - - - - - - -
+               MYSQL X - - - - - - - - - - - - -
+                COPY - O - - - - - - - - - - - -
+                SUDO - - X - - - - - - X - - - -
+   /ETC/INIT.D/MYSQL - - X - - - - - - S - - - -
+               START - - X - - - - - - - - - - -
+             PACKAGE - - - X - - X - - - - - - -
+           SOMETHING - - - - O - - - - - - - - -
+                MODE - - - - - X - - - - - - - -
+               BREAK - - - - - - - - O - - - - -
+               -LSB- - - - - - - - - - S - - - -
+               -RSB- - - - - - - - - - S - - - -
+            ANYTHING - - - - - - - - - - O - - -
+               SETUP - - - - - - - - - - - - - X

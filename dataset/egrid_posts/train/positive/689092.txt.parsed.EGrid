@@ -1,0 +1,16 @@
+               AMD64 O - -
+              KERNEL O - -
+              OUTPUT - X -
+                  -A - X -
+                I686 - - O
+                  .. - - O
+             ICEROOT - - X
+                TYPE - - X
+             COMMAND - - S
+            TERMINAL - - X
+                HOST - - X
+                  -M - - X
+  PRINT-ARCHITECTURE - - S
+                I386 - - S
+                HELP - - O
+               -RSB- - - X

@@ -1,0 +1,15 @@
+             COMMAND X - - - -
+              CHANGE X - - - -
+                DRWX X - - - -
+                -RWX X - - - -
+                  -R X - - - -
+           WALLPAPER O - - - -
+              WINDOW - X - - -
+          BACKGROUND - X - - -
+              COLOUR - X - - -
+               WHITE - X - - -
+                WONT - - X - -
+            TERMINAL - - X - X
+               PREFS - - X - -
+      GNOME-TERMINAL - - - X -
+                TYPE - - - - X

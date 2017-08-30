@@ -1,0 +1,15 @@
+                 STV S - - -
+              MOMENT X - - -
+                  NP O - - -
+              DEVICE O - - -
+            IWCONFIG X - - -
+               ESSID X - - -
+                 WEP X - - -
+                 KEY O - - -
+              SIGNAL O O - -
+               LSMOD - X - -
+                   | - S - -
+                SUDO - X - -
+               RMMOD - O - -
+                CARD - O - O
+              PCMCIA - - - X

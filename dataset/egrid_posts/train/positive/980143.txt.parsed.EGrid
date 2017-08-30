@@ -1,0 +1,8 @@
+                TIME X - - -
+                FILE X - - -
+             COMMAND X - - -
+                BOOT X - - -
+/SYS/MODULE/PROCESSOR/PARAMETERS/MAX_CSTATE O - - O
+                 ONE - S - -
+    /ETC/SYSCTL.CONF - X X -
+              FORMAT - - X -

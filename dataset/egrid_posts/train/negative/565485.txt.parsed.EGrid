@@ -1,0 +1,15 @@
+             PROBLEM O - - - -
+             SUDOERS X - - - -
+                FILE X - - - -
+                LINE - O - - -
+                USER - X - - -
+                ALL= - X - - -
+                 ALL - X - - -
+            NOPASSWD - X - - -
+/HOME/SCRIPTS/SCRIPT - X - - -
+              SCRIPT - O - - -
+                SUDO - X - - -
+            PASSWORD - X - - -
+               SPACE - - O - -
+                   U - - - - S
+                   K - - - - O

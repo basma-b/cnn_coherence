@@ -1,0 +1,11 @@
+            SPEAKERS S - - -
+           ALSAMIXER O - - -
+            TERMINAL X - - -
+               LEVEL S - - -
+              OUTPUT X - - -
+              DEVICE S - O S
+                  .. - O - -
+               INTEL - O X -
+              NVIDIA - X - X
+               SOUND - - - X
+                HDMI - - - X

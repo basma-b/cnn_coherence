@@ -1,0 +1,13 @@
+                TYPE S - - -
+               SHELL O - - -
+                BOOT - - X -
+                LIST - - X -
+               ORDER - - X -
+                 NEW - - S -
+           XORG.CONF - - O -
+              SCREEN - - X -
+                 RES - - X -
+              DRIVER - - X -
+         RECONFIGURE - - - X
+                XORG - - - O
+        XSERVER-XORG - - - X

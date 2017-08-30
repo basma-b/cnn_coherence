@@ -1,0 +1,13 @@
+             APT-GET X - - - - -
+             PACKAGE O X - - - -
+                 FOO - O - - - -
+                LIST - S - - - -
+              SEARCH - - S - - -
+            VERSIONS - - O - - -
+              POLICY - - X - - -
+         PACKAGENAME - - S - - -
+             TARBALL - - - - S -
+              JAUNTY - - - - X -
+              KARMIC - - - - X -
+                NAME - - - - - O
+                ARCH - - - - - X

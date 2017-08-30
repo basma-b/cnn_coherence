@@ -1,0 +1,9 @@
+            .CONKYRC O - - -
+             DEFAULT X - - -
+                TYPE X - - -
+       .CONKYRC.CONF X - - -
+               CONKY - X - -
+         CONFIG_FILE - O - -
+            INSTANCE - O - -
+             CONFIGS - X - -
+             ZOMBIES - - X S

@@ -1,0 +1,12 @@
+             APACHE2 O - O
+                 USE X - -
+      MOD_REWRITE.SO O - -
+                ELSE X - -
+                SUDO - X -
+             A2ENMOD - S X
+             APT-GET - - O
+             PACKAGE - - O
+     APACHE2.2-COMON - - O
+              APACHE - - X
+              SERVER - - O
+                 ONE - - X

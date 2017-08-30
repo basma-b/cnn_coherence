@@ -1,0 +1,17 @@
+               ERROR O - - - - - - -
+             UPGRADE O - - - - - - -
+         UPSTART-JOB O - - - O - - -
+          DEPENDENCY X - - - - - - -
+               CYCLE X - - - - - - -
+              XINETD - S X - - - - -
+            HOSTNAME - - - O S - - -
+             PACKAGE - - - S O - - -
+                PART - - - - X - - -
+                WELL - - - - X - - -
+                IDEA - - - - - O - X
+               ISSUE - - - - - O X -
+         SUGGESTIONS - - - - - X - -
+                 WAY - - - - - - S -
+/VAR/LIB/DPKG/INFO/XINETD.PRERM - - - - - - X -
+                  -E - - - - - - X -
+                LINE - - - - - - X -

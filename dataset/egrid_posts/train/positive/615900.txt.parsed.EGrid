@@ -1,0 +1,27 @@
+               DRIVE X - - - - - - - - - - -
+               SPACE X - - - - - - - - - - -
+                  PC X - - - - - - - - - - -
+              UPDATE X - - - - - - - - - - -
+                .DEB - O - - - - - - - - - -
+/VAR/CACHE/APT/ARCHIVES - X - - - - - - - - - -
+                ROOT - X - - - X - - - - - -
+            READONLY - - S - - - - - - - - -
+         SUGGESTIONS - - - X - - - - - - - -
+                  -F - - - - S - - - - - - -
+                   * - - - - - X - - - - - -
+/ARV/CACHE/APT/ARCHIVES - - - - - S - - - - - -
+             APT-GET - - - - - - S - - - - -
+                SUDO - - - - - - X - - - - -
+             MD5SUMS - - - - - - X - - - - -
+                LIST - - - - - - O X - - - -
+               HTTPS - - - - - - O - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/UBUNTUHASHES - - - - - - O - - - - -
+                LINK - - - - - - X - - - - -
+            HASHSUMS - - - - - - - O - - - -
+                ISOS - - - - - - - X - - - -
+            TERMINAL - - - - - - - - O - - -
+              MD5SUM - - - - - - - - X - - -
+                 ISO - - - - - - - - X - - -
+                  TY - - - - - - - - X - - -
+            DOWNLOAD - - - - - - - - - O - -
+               GREAT - - - - - - - - - - - X

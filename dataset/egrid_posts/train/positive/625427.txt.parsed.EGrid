@@ -1,0 +1,12 @@
+         NAMESERVERS X S - - -
+                LIST - X - - -
+/ETC/NETWORK/INTERFACES - X - - -
+     DNS-NAMESERVERS - S - - -
+                  IP - O - - -
+                DHCP - X - - -
+         RESOLV.CONF - - O - -
+               THESE - - - S -
+             MACHINE - - - O -
+                 FIX - - - - O
+                 ONE - - - - O
+           WEBSERVER - - - - X

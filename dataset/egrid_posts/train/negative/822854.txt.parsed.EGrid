@@ -1,0 +1,8 @@
+                 USE O - - - - -
+                 RUN X - - - - -
+             SERVICE O - - - - -
+             STARTUP X - - - - -
+             INITTAB - - X - - -
+                THAT - - - X - -
+                FILE - - - X - -
+                  CD - - - - - X

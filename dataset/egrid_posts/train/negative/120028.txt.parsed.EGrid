@@ -1,0 +1,14 @@
+             SOMEONE X - - - -
+         PERMISSIONS X O - - -
+               DRIVE X O - - -
+              CHANGE - X - - -
+                FILE - O - - -
+               CHMOD - X - - -
+              SYSTEM - O - - -
+                NTFS - S - - -
+                DATA - O - - -
+               FAT32 - O - - -
+          /ETC/FSTAB - X - S -
+                 USE - S - - -
+            PASTEBIN - - - S -
+              EXCUSE - - - - X

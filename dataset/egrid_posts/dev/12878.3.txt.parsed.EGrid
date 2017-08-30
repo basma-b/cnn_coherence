@@ -1,0 +1,27 @@
+                TIME X - - - - - - -
+               CLICK X - - - - - - -
+              DEVICE X - - - - X - -
+                   > S - - - - - - -
+              SYSTEM X O - - - - - -
+PARTITION/FILESYSTEM - O - - - - - -
+               MOUNT - - X - X - - -
+               POINT - - X - O - - -
+                USER - - X - - S - -
+         PERMISSIONS - - - X - - - -
+           /DEV/USB0 - - - - S - - -
+                GREP - - - - O - - -
+              OUTPUT - - - - O - - -
+         /MEDIA/USB0 - - - - - X - -
+              ACCESS - - - - - O - -
+              ANYONE - - - - - S - -
+              WORKER - - - - - X X -
+               GROUP - - - - - S - -
+               USERS - - - - - O - -
+                EXT4 - - - - - S - -
+                 ACL - - - - - O - -
+             CONTROL - - - - - X - -
+                LIST - - - - - O - -
+        ADMINISTRAOR - - - - - O - -
+                 YES - - - - - - X -
+                ROOT - - - - - - X -
+               USB0/ - - - - - - X -

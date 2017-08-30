@@ -1,0 +1,10 @@
+                TIME O - - - -
+           FILEOWNER O - - - -
+        MODIFICATION X - - - -
+               TOUCH X - - - -
+           WEBSERVER - S - - -
+           FILETIMES - O - - -
+                  SH - X - - -
+                  SU - - - - O
+            WWW-DATA - - - - S
+             COMMAND - - - - O

@@ -1,0 +1,9 @@
+        MULT_SECT_IO S - - - - -
+         WRITE_CACHE O - - - - -
+                 DMA X - - S X -
+             SECTION X - - - - -
+           HARDDRIVE - O - - - -
+               DISCS - O - - - -
+                  HD - X - - - -
+               IDEAS - - - X - -
+               LINUX - - - S - -

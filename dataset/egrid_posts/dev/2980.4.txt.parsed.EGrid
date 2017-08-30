@@ -1,0 +1,10 @@
+      OPENSSH-SERVER O S - - -
+          CONNECTION S - - - -
+             APT-GET - O - - -
+              MIRROR - S - - -
+             DISPLAY - - X - -
+             ADAPTER - - X - -
+                CARD - - - X -
+               LSPCI - - - - X
+                   | - - - - S
+                 VGA - - - - O

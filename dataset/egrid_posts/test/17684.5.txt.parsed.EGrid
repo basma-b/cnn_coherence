@@ -1,0 +1,21 @@
+              SERVER X - - - -
+                 USE X - - - -
+             TASKSEL S - - - -
+         MAIL-SERVER O - - - -
+               SETUP - X - X -
+              CONFIG - - S X -
+             POSTFIX - - X - -
+             DOVECOT - - X - -
+                  .. - - X - -
+             SOMEONE - - X - -
+                TOTO - - X - -
+           GMAIL.COM - - O - -
+                HEHE - - S - -
+            LIVE.COM - - O - -
+            SHOULDNT - - - S -
+/ETC/POSTFIX/VIRTUAL.DB - - - O -
+               ERROR - - - O -
+            DATABASE - - - X -
+            ARGUMENT - - - X -
+                HTTP - - - X -
+//WWW.CYBERCITI.BIZ/FAQ/LINUX-UNIX-BSD-POSTFIX-FORWARD-EMAIL-TO-ANOTHER-ACCOUNT/ - - - X -

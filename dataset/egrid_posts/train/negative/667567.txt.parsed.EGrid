@@ -1,0 +1,14 @@
+                DISK O - X - -
+                BOOT X X S X -
+                GRUB X - - - -
+              OPTION - O - - -
+                MENU - X - - -
+                LIST - X - - -
+                CASE - - X - -
+               EJECT - - O - -
+              DRIVER - - O - -
+             WINDOWS - - O - -
+          BOOTLOADER - - O - -
+                 MBR - - X - -
+                THIS - - - O -
+                 USB - - - X -

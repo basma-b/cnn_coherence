@@ -1,0 +1,17 @@
+         ENVIRONMENT O - - - -
+            VARIABLE S - X O -
+              EXPORT X - - - -
+             FOO=BAR O - - - -
+             .BASHRC X - - - -
+                 GUI - X - - -
+        APPLICATIONS - X - S -
+         BF_TIFF_LIB - - - S -
+               GNOME - - - X -
+          PANEL/MENU - - - X -
+          ~/.GNOMERC - - - X -
+    /ETC/ENVIRONMENT - - - X -
+                APPS - - - X -
+            TERMINAL - - - X -
+           ~/.BASHRC - - - X -
+                THAT - - - - X
+                IDEA - - - - X

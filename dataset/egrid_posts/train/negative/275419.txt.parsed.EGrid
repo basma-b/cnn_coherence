@@ -1,0 +1,23 @@
+              MODULE X - - -
+              FEISTY X - - -
+/ETC/MODPROBE.D/BLACKLIST - S - -
+               WLAN0 - S S -
+              SIGNAL - O - -
+                PING - S - -
+            JORDAN_U - S - -
+               LAYER - X - -
+        CONNECTIVITY - O - -
+                  IP - - O -
+           IP/SUBNET - - O -
+                SURF - - X -
+                  .. - - O -
+             PROBLEM - - S -
+                WORK - - S -
+                ETH0 - - X -
+             ADDRESS - - X -
+              ROUTER - - X -
+               LEASE - - S -
+               DUNNO - - X -
+   TCPDUMP/WIRESHARK - - O -
+               ERROR - - - O
+                 NOW - - - X

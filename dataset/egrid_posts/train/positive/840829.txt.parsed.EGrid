@@ -1,0 +1,11 @@
+          /ETC/FSTAB S - - - -
+              SYNTAX X S - - -
+               FSTAB O - - - -
+                DISK - S - - -
+              DEVICE - X - - -
+                NAME - O - - -
+            SPECIFIC - - O - -
+           /DEV/SDA1 - - X - -
+             DEFAULT - - - - S
+               /DEV/ - - - - X
+                UDEV - - - - X

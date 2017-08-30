@@ -1,0 +1,27 @@
+                FILE X - - - - - -
+                CIFS X S - - - - -
+                LINE X - - - - - -
+    /ETC/MODPROBE.D/ X - - - - - -
+           SUPERUSER - X - - - - -
+            QUESTION - O - - - - -
+           SOMETHING - X - - - - -
+      IGNORE-INSTALL - S - - - - -
+     .IGNORE-INSTALL - X - - - - -
+               ERROR - O - - - - -
+               CHECK - X - - - - -
+               DITTO - X - - - - -
+                  .. - O - - - - -
+                THAT - - X - O - -
+                LINK - - O - - - -
+              CHANGE - - - - X - -
+                HEAD - - - - - S -
+              BRANCH - - - - - X -
+                MOVE - - - - - X -
+               POINT - - - - - X -
+                 NEW - - - - - X -
+                THIS - - - - - S -
+             SECTION - - - - - X -
+                WORK - - - - - X -
+             REMOTES - - - - - X -
+                HTTP - - - - - - X
+//GIT-SCM.COM/BOOK/EN/GIT-BASICS - - - - - - X

@@ -1,0 +1,17 @@
+             PROCESS S - X - - - -
+              PARENT X - - - - - -
+             KONSOLE - X - - - - -
+                 RUN - - X - - - -
+                   X - - O X - - -
+               START - - O - X - -
+                  .. - - X - - - -
+               SPACE - - X - - - -
+                 END - - X - - - -
+                 APP - - X - - - -
+             SBACKUP - - - - X - -
+SIMPLE-BACKUP-CONFIG - - - - X - -
+             X/GNOME - - - - X - -
+                NOPE - - - - - S -
+                TIME - - - - - - X
+                LUCK - - - - - - X
+                   ^ - - - - - - X

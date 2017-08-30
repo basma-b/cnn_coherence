@@ -1,0 +1,12 @@
+             COMMAND O - - - O
+               GNOME X - - - -
+             STARTUP X - - - -
+             PROGRAM X - - - -
+               THOSE O - - - -
+                FILE - S - - -
+        LOGIN-SHELLS - X - - -
+      GNOME-TERMINAL - X - - -
+               SHELL - - - X -
+           ~/.BASHRC - - - - X
+              SOURCE - - - - X
+          ~/.PROFILE - - - - X

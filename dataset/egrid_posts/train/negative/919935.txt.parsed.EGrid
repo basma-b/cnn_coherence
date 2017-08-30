@@ -1,0 +1,24 @@
+            TRROUBLE O - - - - - - - - - -
+               GNOME X - - - - - - - - - -
+            LAUNCHER - O - - - - - - - - -
+               WARTY - - O - - - - - - - -
+                IDEA - - - X - - - - - - -
+               CLICK - - - - X - - - - - -
+               PANEL - - - - X - - - - - -
+               MENUS - - - - - X X - - - -
+                BOTH - - - - - - S - - - -
+               MOUSE - - - - - - X - - - -
+            LOCATION - - - - - - - O - - -
+                NONE - - - - - - - X - - -
+                WORK - - - - - - - S - - -
+             COMMAND - - - - - - - O - - -
+                  .. - - - - - - - S - - -
+               ENTRY - - - - - - - - O - -
+/ETC/DHCP3/DHCLIENT.CONF - - - - - - - - X - X
+         NAMESERVERS - - - - - - - - S - -
+              SYNTAX - - - - - - - - - X -
+                LINE - - - - - - - - - - O
+              FOLLOW - - - - - - - - - - X
+                 DNS - - - - - - - - - - X
+             SERVERS - - - - - - - - - - X
+ DOMAIN-NAME-SERVERS - - - - - - - - - - X

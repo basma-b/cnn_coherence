@@ -1,0 +1,21 @@
+                 NFS X X - - - - - O -
+          /ETC/FSTAB X - - - - - - - -
+                TIME - X X - - - - - -
+                BOOT - O X - X - - - -
+              SYSTEM - S - - - - - - -
+          FILESYSTEM - X - - - - - - -
+              SERVER - X - - - - - X -
+      NETWORKMANAGER - - S - - X - - -
+          INTERFACES - - O - - O - - -
+                THAT - - - X - - X - -
+/ETC/NETWORK/INTERFACES - - - X - - X - -
+                SUDO - - - - S - - - -
+            RC.LOCAL - - - - S - - - -
+             PROCESS - - - - X - - - -
+                  'S - - - - - S - - -
+              GKSUDO - - - - - - - - X
+             LEAFPAD - - - - - - - - X
+ /ETC/LXDM/LXDM.CONF - - - - - - - - S
+                FILE - - - - - - - - X
+                  .. - - - - - - - - O
+             SESSION - - - - - - - - S

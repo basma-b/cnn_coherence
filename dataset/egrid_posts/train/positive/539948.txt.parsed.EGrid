@@ -1,0 +1,24 @@
+           DIRECTORY X - - - X - - - -
+                NAME X - O - - - - - -
+            QUESTION X - - - - - - - -
+               SHARE - X X - - - - - -
+                NOTE - - X - - - - - X
+              SYSTEM - - X X - - - - -
+           SMBCLIENT - - - - O - - X -
+              REPORT - - - - X - - - -
+               ERROR - - - - S - - - -
+NT_STATUS_OBJECT_NAME_INVALID - - - - X - - - -
+           \QUESTION - - - - O - - - -
+                 SMB - - - - - X - - -
+                FILE - - - - - X X - -
+             BROWSER - - - - - X - - -
+              FOLDER - - - - - O - - O
+                CANT - - - - - - S - -
+                 ATM - - - - - - O - -
+          MANAGEMENT - - - - - - X - -
+                 USE - - - - - - - X -
+        LIBSMBCLIENT - - - - - - - S -
+                WONT - - - - - - - - S
+            SMBNETFS - - - - - - - - O
+                FUSE - - - - - - - - X
+              THINGY - - - - - - - - X

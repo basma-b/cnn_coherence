@@ -1,0 +1,20 @@
+             COMMAND X - - - - - -
+             NETWORK X - - - - - -
+             DEVICES X - O - - - -
+            QUESTION - O - - - - -
+            IFCONFIG - X X - - - -
+                LOOK - O - - - - -
+                THIS - X - - - - -
+              SERVER - S - - - - -
+                 LAN - X - - X - -
+                TYPE - - X - - - -
+                  -A - - X - - - -
+                  LO - - X - - - -
+           LOCALHOST - - O - - - -
+                 ONE - - - S - - -
+               THESE - - - X - - -
+     STRAIGH-THROUGH - - - - S - -
+          CONNECTION - - - - O - -
+                 HUB - - - - X - -
+                CARD - - - - X - -
+/USR/SBIN/DPKG-RECONFIGURE - - - - - - X

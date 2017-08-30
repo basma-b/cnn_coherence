@@ -1,0 +1,14 @@
+                 1TB O - - - - -
+                DATA X - - - - -
+               SHELL O - - - - -
+                 ALL O - - - - -
+                 CRC X - - - - -
+                BOOT O - - - - -
+              RESCUE X - X - - -
+                MODE X - S - - -
+                ROOT X - - - - -
+             COMMAND - X - - - -
+             TROUBLE - - O - - -
+                HELP - - - S - -
+                  HD - - - - - S
+                EXT3 - - - - - O

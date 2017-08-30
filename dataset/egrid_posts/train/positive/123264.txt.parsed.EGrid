@@ -1,0 +1,16 @@
+                 CLI - S - - - - - - -
+               DRIVE - O O - - - - - -
+             DEFAULT - X - - - - - X -
+               ADMIN - X - - - - - - -
+                USER - X - - - - - - -
+             MANAGER - - O - - - - - -
+                  .. - - - X X - - - -
+                ROOT - - - X X - X - -
+             ACCOUNT - - - S - - - - -
+               MOUNT - - - - S - X - -
+                LIST - - - - - - O - -
+          /ETC/FSTAB - - - - - - X - -
+              SYSTEM - - - - - - S - -
+             COMMAND - - - - - - O - -
+                   K - - - - - - - X -
+                MUCH - - - - - - - - O

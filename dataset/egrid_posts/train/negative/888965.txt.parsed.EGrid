@@ -1,0 +1,34 @@
+                GUYS X - - - - - - - - - - -
+                THIS X - - - - - - X - - - -
+             STARTUP X - - - - - - - - - - -
+                THAT - O - - - - - - - - - -
+/SYS/CLASS/BACKLIGHT/ACPI_VIDEO0/BRIGHTNESS - S O - - - - - - - - -
+       /ETC/RC.LOCAL - X - - - - - - - - - -
+                FILE - X - - - - X - - - - -
+          EXECUTABLE - S - - - - - - - - - -
+             NOTHING - O - - - - - - - - - -
+              NUMBER - X - - - - - - - - - -
+              SECOND - X - - - - - - - - - -
+              CHANGE - O X - - - - - - - - -
+               SHELL - X - - - - - - - - - -
+                   % - - X - - - - - - - - -
+                   X - - - S - - - - - - - -
+          BRIGHTNESS - - - O - - - - - - - -
+              SCRIPT - - - - O O - - - - - -
+      /USR/LOCAL/BIN - - - - X - - - - - - -
+GNOME-SESSION-STARTUP - - - - - X - - - - - -
+             COMMAND - - - - - - O - - S - -
+            RC.LOCAL - - - - - - X - - - - -
+                LINE - - - - - - O - S - - -
+                   A - - - - - - - - X - - -
+          XBACKLIGTH - - - - - - - - S - - -
+         ENVIRONMENT - - - - - - - - X - - -
+           VARIABLES - - - - - - - - X - - -
+                DONT - - - - - - - - X - - -
+                WORK - - - - - - - - X - - -
+                 WAY - - - - - - - - X - - -
+                   B - - - - - - - - X - - -
+               LEVEL - - - - - - - - - O - -
+                   C - - - - - - - - - X - -
+                 APP - - - - - - - - - O - -
+                   P - - - - - - - - - - - X

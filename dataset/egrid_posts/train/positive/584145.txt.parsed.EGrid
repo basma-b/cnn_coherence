@@ -1,0 +1,13 @@
+              UBUNTU X X - - - -
+             COMMAND - X - - - -
+         MKINITRAMFS - - X - - O
+                THAT - - - S - -
+              INITRD - - - O - -
+              KERNEL - - - X - -
+             MODULES - - - X - -
+                NEED - - - X - -
+              EXPERT - - - - - X
+          EQUIVALENT - - - - - O
+                 ONE - - - - - S
+                UDEV - - - - - O
+               DEVFS - - - - - X

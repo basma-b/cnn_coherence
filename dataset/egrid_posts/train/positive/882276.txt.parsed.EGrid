@@ -1,0 +1,31 @@
+               ISSUE X - - - - - - - - - -
+      AUTHENTICATION X - - - - - - - - - -
+              SERVER X - - - - - - - - - -
+    /ETC/SSHD_CONFIG - O - - - - - - - - -
+             DEFAULT - X - - - - - - - - -
+               CHECK - O - - - - - - - - -
+  AUTHORIZEDKEYSFILE - X - - - - - - - - -
+PUBKEYAUTHENTICATION - S - - - - - - - - -
+                 KEY - - O - - - - - - - -
+~/.SSH/AUTHORIZED_KEYS - - X - - - - X - - -
+             MACHINE - - X - - X - - - - -
+          PASSPHRASE - - X - X - - - - - -
+              ANYONE - - - S - - - - - - -
+                 WAY - - - O - - - - - - -
+                 SSH - - - X - - - - - - -
+            PASSWORD - - - - X - - - - - -
+            AUTH.LOG - - - - - O - - - - -
+                THAT - - - - - - O S - - -
+             MISTAKE - - - - - - - S - - -
+         PERMISSIONS - - - - - - - O - - -
+                USER - - - - - - - S - - -
+               SPELL - - - - - - - X - - -
+               CHMOD - - - - - - - X - - -
+              U+R-WX - - - - - - - X - - -
+               G-RWX - - - - - - - X - - -
+                  U= - - - - - - - - O - -
+                  O= - - - - - - - - O - -
+                   G - - - - - - - - X - -
+              SYNTAX - - - - - - - - O X -
+                THIS - - - - - - - - - O -
+                HINT - - - - - - - - - - X

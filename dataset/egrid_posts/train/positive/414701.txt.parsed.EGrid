@@ -1,0 +1,14 @@
+             CONTENT S - - -
+      /MEDIA/FLOPPY0 X - - -
+                COPY X - - -
+              FLOPPY X - - -
+                LINE - S - -
+               FSTAB - O - -
+                AUTO - X - -
+                  RW - X - -
+                USER - X - -
+             UNMOUNT - X - -
+               SHELL - X - -
+             COMMAND - X - -
+                SYNC - O - -
+                THAT - - - S

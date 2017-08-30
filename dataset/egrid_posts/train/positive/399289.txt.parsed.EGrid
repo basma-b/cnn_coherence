@@ -1,0 +1,29 @@
+        SND_INTEL8X0 O - - - - - - - -
+               ERROR X - - - - - - - -
+              INSERT X - - - - - - - -
+             ADDRESS X - - - - - - - -
+                MEAN O - - - - - - - -
+                 WAY - X - - - - - - -
+                CARD - X - - - - - - -
+              MODULE - - O O - - - S -
+              KERNEL - - X X - - - X -
+              FOLDER - - - O - - - - -
+          EVERYTHING - - - S - - - - -
+                   > - - - X - - - - -
+              SEARCH - - - O - - - - -
+            SND_XXXX - - - X - - - - -
+                NAME - - - - O - - - -
+               RIGHT - - - - X - - - -
+                THAT - - - - - O - S X
+               THERE - - - - - S - S -
+                TYPE - - - - - X - - -
+            MOD_NAME - - - - - X - - -
+                FILE - - - - - O X - -
+/USR/SRC/LINUX-HEADERS-2.6.22-14-GENERIC/INCLUDE/CONFIG/SND - - - - - X - - -
+                 .KO - - - - - O - - -
+/LIB/MODULES/2.6.22-14-GENERIC/KERNEL/SOUND/PCI/ - - - - - X - - -
+            LOCATION - - - - - - X - -
+                THIS - - - - - - X - -
+                INFO - - - - - - X - -
+             COMPILE - - - - - - - S -
+             PROBLEM - - - - - - - O -

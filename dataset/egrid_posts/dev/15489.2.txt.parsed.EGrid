@@ -1,0 +1,11 @@
+               ERROR X - - -
+             PACKAGE - O - -
+        DEPENDENCIES - O - -
+LINUX-IMAGE-GENERIC-PAE - X - -
+             DEPENDS - X - -
+LINUX-IMAGE-3.2.0-27-GENERIC-PAE - X - -
+             UPGRADE - O - -
+                SUDO - - X -
+             APT-GET - - X -
+                  -F - - S -
+                CHAN - - - S

@@ -1,0 +1,21 @@
+                PORT X - - X O - - -
+           INTERFACE X - - - - - - -
+                HOST X - - - - - - -
+                 ONE - - O - - - - -
+                  IP - - X - - - - -
+             ADDRESS - - X - - - - -
+              SERVER - - X - - - - -
+             NETWORK - - X - - - - -
+                 LAN - - - X - - - -
+             CONTACT - - - O - - - -
+                CASE - - - - X - - -
+    /ETC/SYSCTL.CONF - - - - X - - -
+NET.IPV4.IP_FORWARD=1 - - - - O - - -
+             TRAFFIC - - - - X - - -
+               RIGHT - - - - X - - -
+           NEVERMIND - - - - - - - X
+               INPUT - - - - - - - X
+           CONNTRACK - - - - - - - X
+                  -J - - - - - - - S
+                  -P - - - - - - - X
+                 TCP - - - - - - - O

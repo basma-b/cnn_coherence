@@ -1,0 +1,13 @@
+         DEPENDENCES O - - - - -
+           SOMETHING - O - - - -
+         PACKAGENAME - - S - - -
+             PROCESS - - O - - -
+              SYNTAX - - - S - -
+        DEPENDENCIES - - - X - -
+LIBRARIES/DEPENDENCIES - - - - S -
+             PACKAGE - - - - O -
+              SOURCE - - - - X -
+                THAT - - - - - X
+                   E - - - - - X
+  BUILD-DEPENDENCIES - - - - - S
+              PIDGIN - - - - - X

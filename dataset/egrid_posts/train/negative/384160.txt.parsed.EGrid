@@ -1,0 +1,12 @@
+               THERE X - - -
+                SOME X - - -
+               FSTAB S - O -
+                 INS - - S -
+                BOOT - - X -
+                  OS - - O -
+ /BOOT/GRUB/MENU.LST - - O -
+                  -Y - - - O
+                CRON - - - X
+     APT-LISTCHANGES - - - O
+              CHANGE - - - O
+             ACCOUNT - - - X

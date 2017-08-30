@@ -1,0 +1,17 @@
+                SUDO S - - - - -
+                  -A S - - - - -
+              OUTPUT X - - - - -
+                  -D S - - - - -
+                DROP X - - - - -
+                THIS S - - - - -
+            REDIRECT O - - - - -
+             TRAFFIC O - - - - -
+                 NAT X - - - - -
+                 TCP O - - - - -
+             TO-PORT X - - - - -
+             PACKETS O - - - - -
+           INTERFACE S - - - - -
+              DRIVER - - - - S -
+                 DVD - - - - X -
+                LINK - - - - - X
+            /DEV/DVD - - - - - X

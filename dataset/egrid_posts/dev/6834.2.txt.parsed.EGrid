@@ -1,0 +1,15 @@
+             PRINTER S - X - -
+             VERSION - O - - -
+            LIBPOPT0 - X O - -
+             GETLIBS - - O - -
+                 LDD - - S - -
+             PROBLEM - - O - -
+                 DEB - - X - -
+          DEPENDENCY - - X - -
+             SECTION - - X - -
+              DRIVER - - S - -
+                   > - - - O -
+                   _ - - - X -
+         LIBREOFIICE - - - - S
+                WORD - - - - X
+            DOCUMENT - - - - O

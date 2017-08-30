@@ -1,0 +1,17 @@
+      SND_AC97_CODEC X - -
+        SND_INTEL8X0 X - -
+         SND_PCM_OSS X - -
+       SND_MIXER_OSS S - -
+             SND_PCM S - -
+           SND_TIMER O - -
+                 SND X - -
+           SOUNDCORE O - -
+               WOOPS X - -
+                 GUY - S -
+                XMMS - S -
+               MUSIC - O -
+                CANT - X -
+            ANYTHING - O -
+             VOLUMES - X -
+          EVERYTHING - - S
+                ALSA - - X

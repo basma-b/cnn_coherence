@@ -1,0 +1,16 @@
+             COMMAND X - - - -
+            HOSTNAME S S - - -
+                 FQD - S - - -
+                FILE - S - - -
+               YOURU - S - - -
+                 DNS - X - - -
+                 BOX - S - - -
+          /ETC/HOSTS - O - - -
+         ENVIRONMENT - X - - -
+            INTERNET - X - - -
+                TEST - O - - -
+     HOST.DOMAIN.COM - X - - -
+               SETUP - X - - -
+             PACKAGE - - - O -
+              KERNEL - - - O -
+                  OK - - - - X

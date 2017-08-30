@@ -1,0 +1,6 @@
+                FSCK O -
+               TOUCH X -
+          /FORCEFSCK X -
+            SHUTDOWN X -
+                  -R S -
+               ALIAS - X

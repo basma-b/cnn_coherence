@@ -1,0 +1,14 @@
+            APTITUDE O - - - -
+             PACKAGE O - - - -
+                DPKG X - - - -
+              ERRORS O - - - -
+                THAT - X - - -
+             OPTIONS - O - - -
+   /ETC/APT/APT.CONF - O - - -
+                THIS - - X - -
+                HTTP - - O - -
+ /VAR/LIB/DPKG/INFO/ - - - S -
+                   * - - - O -
+                PART - - - - X
+            ~/.GCONF - - - - X
+               THERE - - - - S

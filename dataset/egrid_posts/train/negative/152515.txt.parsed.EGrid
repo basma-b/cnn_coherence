@@ -1,0 +1,12 @@
+              DOLLAR X - - -
+                GRUB S - - -
+                ROOT O - - -
+           PARTITION O - - -
+                 USE X - - -
+               HD0,5 X - - -
+               WHICH X - - -
+                HOME O - - -
+               STEAD X - - -
+               HD0,1 X - - -
+        GRUB-INSTALL - - O -
+                 YES - - - X

@@ -1,0 +1,30 @@
+              SERVER S - - - - - - - - - - - - -
+             MESSAGE - - X X O - - - - - - - - -
+                 LOG - - X - - - - - - - - - - -
+              SYSLOG - - - - X - - - - - - - - -
+          DAEMON.LOG - - - - X - - - - - - - - -
+            INTERNET - - - - X - - - - - - - X -
+              ACCESS - - - - O - - - - - - - X -
+                SSHD - - - - - O - - - - - - - S
+/ETC/NETWORK/INTERFACES - - - - - - - X - - - - - -
+/ETC/DHCP3/DHCPD.CONF - - - - - - - X - - - - - -
+            PASTEBIN - - - - - - - X - - - - - -
+                HTTP - - - - - - - - X - - - - -
+//PASTE.UBUNTU-NL.ORG/33435 - - - - - - - - S - - - - -
+               THERE - - - - - - - - - S - - - -
+               IFACE - - - - - - - - - X - - - -
+                ETH0 - - - - - - - - - S - O - -
+              STATIC - - - - - - - - - O - - - -
+                LINE - - - - - - - - - O - - - -
+              CONFIG - - - - - - - - - X X - - -
+             COMMENT - - - - - - - - - - X - - -
+                DHCP - - - - - - - - - - - X - -
+         NEXT-SERVER - - - - - - - - - - - X - -
+              COURSE - - - - - - - - - - - X - -
+              SUBNET - - - - - - - - - - - X - -
+                ETH3 - - - - - - - - - - - S - -
+              CHANGE - - - - - - - - - - - X - -
+                 ETH - - - - - - - - - - - O - -
+          INTERFACES - - - - - - - - - - - X - -
+             MACHINE - - - - - - - - - - - - X -
+              NUMBER - - - - - - - - - - - - - O

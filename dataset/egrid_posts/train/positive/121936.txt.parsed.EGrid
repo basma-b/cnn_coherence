@@ -1,0 +1,26 @@
+                HELP O - - - - - - - -
+             CONCERN S - - - - - - - -
+              ROUTER X X S - - - - - -
+              UBUNTU S X - - - - - - -
+         192.168.0.1 O - - - - - - - -
+                 DNS X S X - X - - - -
+              SERVER X - X - S - - - -
+                DHCP X - - - - - - - -
+             WINDOWS - X - - - - - - -
+                FINE - X - - - - - - -
+                ROUT - X - - - - - - -
+             SERVERS - X X - O - - - -
+                 ISP - O - - - - - - -
+                WORK - X - - - - - - -
+                 IPS - O - - - - - - -
+                 URL - X - - - - - - -
+             NETWORK - - X - - - - - -
+              CONFIG - - X - - - - - -
+            DIALOGUE - - X - - - - - -
+             CHANNEL - - X - - - - - -
+/ETC/DHCP3/DHCLIENT.CONF - - - O - - - - -
+ DOMAIN-NAME-SERVERS - - - O - - - - -
+               VALUE - - - X - X - - -
+                THAT - - - - S - - - -
+                KIND - - - - - X - - -
+                 YES - - - - - - - - X

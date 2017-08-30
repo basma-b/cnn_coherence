@@ -1,0 +1,16 @@
+              VESAFB X - - - - -
+                LOAD O - - - - -
+                BOOT X - - - - -
+              INITRD - S - - - -
+              KERNEL - O - - - -
+          VGA=NORMAL - X - - - -
+       /ETC/MKINITRD - X - - - -
+            ANYTHING - O - - - -
+             MODULES - X - - - -
+               PROBE - O - - - -
+                GRUB - O - - - -
+                EXT3 - - O - S -
+                ROOT - - X - - -
+           PARTITION - - X - - -
+              MODULE - - - - - S
+          INITRD.IMG - - - - - X

@@ -1,0 +1,7 @@
+             PACKAGE X - -
+               ORDER S - -
+               B.DEB O - -
+             COMMAND O - -
+                DPKG - S -
+             NTPDATE - S -
+              ANSWER - - O

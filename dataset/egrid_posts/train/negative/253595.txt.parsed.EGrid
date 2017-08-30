@@ -1,0 +1,19 @@
+              CUSTOM X X - - - -
+              LIVECD X - - - - -
+                BASE - S - - - -
+                THAT - - X - - -
+            LOCATION - - - X - -
+  ~/.MOZILLA/PLUGINS - - - X - -
+                 DIR - - - S - -
+                LINK - - - X O -
+LIBJAVAPLUGIN_OJI.SO - - - O - -
+                   > - - - X X -
+/USR/LOCAL/JAVA/JRE/PLUGIN/I386/NS7/LIBJAVAPLUGIN_OJI.SO - - - X - -
+                   < - - - - X -
+              CMMAND - - - - S -
+                KIND - - - - X -
+              SOURCE - - - - X -
+                DEST - - - - X -
+                 ALL - - - - O -
+             APPLETS - - - - - S
+                FINE - - - - - O

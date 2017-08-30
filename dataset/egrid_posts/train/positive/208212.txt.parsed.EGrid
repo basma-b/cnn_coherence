@@ -1,0 +1,30 @@
+        DIST-UPGRADE O - - - - - - - - - - -
+                 BOX X - - - - - - - - - - -
+          CONNECTION O - - - - - - - - - - -
+              ANYONE S - - - - - - - - - - -
+             PROBLEM O - - - - - - - - - - -
+                 LOG - O - O - - - - - - - -
+              ERRORS - O - - - - - - - - - -
+           SIGNATURE - S - - - - - - - - - -
+              SERVER - X - X - - - - - - - -
+           VERBOSITY - O - - - - - - - - - -
+            PROBLEMS - X - - - - - - - - - -
+            /VAR/LOG - - X - - - - - - - - -
+               DEBUG - - X - - - - - - - - -
+                AUTH - - X - - - - - - - - -
+                 ETC - - X - - X - - - - - -
+             NOTHING - - - S - - - - - - - -
+                SSHD - - - O - - - - - - - -
+              CHANGE - - - - O - - - - - - -
+             NETWORK - - - - X - - - - - - -
+            IPTABLES - - - - - X - - - - - -
+                RULE - - - - - X - - - - - -
+                  .. - - - - - S - - - - - -
+              KERNEL - - - - - O - - - - - -
+              THINGS - - - - - - - X - - - -
+               GLIBC - - - - - - - X - - - -
+                HTTP - - - - - - - - - X - X
+//PASTE.LISP.ORG/DISPLAY/28549 - - - - - - - - - X - -
+            PROTOCOL - - - - - - - - - X - O
+                 1,2 - - - - - - - - - X - -
+/ETC/SSH/SSHD_CONFIG - - - - - - - - - X - -

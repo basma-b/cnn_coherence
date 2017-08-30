@@ -1,0 +1,18 @@
+             PROCESS X - -
+               -LSB- X - -
+                  PM X - -
+               -RSB- X - -
+              OUTPUT X - -
+              PSTREE X - -
+                HTTP - X -
+            SAFE=OFF - X -
+                   % - X -
+              DEBIAN - - X
+               REPOS - - O
+        SOURCES.LIST - - X
+                   U - - S
+              SHOULS - - S
+/ETC/APT/PREFERENCES - - O
+               SARGE - - O
+               HOARY - - O
+            PROBLEMS - - O

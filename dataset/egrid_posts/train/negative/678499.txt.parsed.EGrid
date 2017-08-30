@@ -1,0 +1,20 @@
+                   $ X - - X - - - - - -
+               5_1_5 X - - S - - - - - -
+                  .. X - - - - - - - - -
+                   K X - - X - - S - - -
+                BASH X - - X - - - - - -
+                WORK - - - S - - - - - -
+                   J - - - - - - X - - -
+               VALUE - - - - - - O - - -
+          UNDERSCORE - - - - - - O - - -
+               SPACE - - - - - - - X - -
+                SUDO - - - - - - - - X -
+                 TAR - - - - - - - - X -
+              -CVPZF - - - - - - - - X -
+       BACKUP.TAR.GZ - - - - - - - - S -
+EXCLUDE=./BACKUP.TAR.GZ - - - - - - - - X -
+                   / - - - - - - - - X -
+             ARCHIVE - - - - - - - - O X
+                HOME - - - - - - - - X -
+              FOLDER - - - - - - - - X -
+                PART - - - - - - - - - O

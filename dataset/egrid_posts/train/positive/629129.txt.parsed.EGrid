@@ -1,0 +1,53 @@
+              INSTAL X - - - - - - -
+                TIME - O - - - - - -
+                THAT - S - - - - - -
+     BUILD-ESSENTIAL - S - - - - - -
+                DONT - S - - - - - -
+              SOURCE - X - - - - - -
+                THEN - O - - - - - -
+           SOMETHING - X - - - - - -
+                THIS - S - - - - - -
+             COMMAND - X - - - - - -
+         ./CONFIGURE - X - - - - - -
+              PREFIX - X - - - - - -
+                /USR - X - - - - - -
+         INSTALL.TXT - S - - - - - -
+             OPTIONS - X - - - - - -
+                 LOL - O - - - - - -
+                FILE - S - - - - - -
+             PACKAGE - S - - - X - -
+              UBUNTU - - X - - - O -
+             VERSION - - X - - - - -
+                9.04 - - - S - - - -
+                 PPA - - - O - - O -
+           LOELL/PPA - - - X - - - -
+/ETC/APT/SOURCES.LIST - - - X - - - -
+                HTTP - - - O - - S -
+               HTTPS - - - - X X - -
+//LAUNCHPAD.NET/~LOELL/+ARCHIVE/PPA - - - - X - - -
+FIELD.SERIES_FILTER=JAUNTY - - - - - S - -
+                 LOT - - - - - O - -
+                PAGE - - - - - O O -
+               ERROR - - - - - X S O
+              UPDATE - - - - - X O -
+                LIST - - - - - O - -
+                   ' - - - - - - S -
+             REQUIRE - - - - - - O -
+                   W - - - - - - S -
+                 GPG - - - - - - S -
+              JAUNTY - - - - - - S -
+             RELEASE - - - - - - S -
+          SIGNATURES - - - - - - S -
+                 KEY - - - - - - S O
+           NO_PUBKEY - - - - - - S -
+    7D2C7A23BF810CD5 - - - - - - S -
+            PROBLEMS - - - - - - O -
+             SECTION - - - - - - S -
+                TYPE - - - - - - - O
+               SLASH - - - - - - - X
+                SUDO - - - - - - - X
+             APT-KEY - - - - - - - X
+                 ADV - - - - - - - X
+           KEYSERVER - - - - - - - X
+KEYSERVER.UBUNTU.COM - - - - - - - X
+            DB2035A6 - - - - - - - X

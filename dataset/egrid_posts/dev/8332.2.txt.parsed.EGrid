@@ -1,0 +1,8 @@
+                USER O - - - -
+             DEFAULT X - - - -
+                FILE - X - - -
+ /VAR/LOG/XORG.0.LOG - - X - -
+                 -RF - - - X -
+             .CONFIG - - - O -
+         .CONFIG.BAK - - - X -
+                THAT - - - - O

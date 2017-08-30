@@ -1,0 +1,12 @@
+             DISTROS S - - - - - -
+               /HOME S - - - - - -
+           PARTITION X - - - - - -
+             SYMLINK - S - - - - -
+          FILESYSTEM - - - - - O -
+               TRACK - - - - - O -
+                  OS - - - - - S -
+                USER - - - - - O -
+                UIDS - - - - - X S
+              NUMBER - - - - - - O
+               STORE - - - - - - O
+                FILE - - - - - - X

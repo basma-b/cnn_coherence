@@ -1,0 +1,17 @@
+              LIVECD O - - - -
+                 HOP O - - - -
+                GRUB S - - - -
+              WOOULD S - - - -
+              SYSTEM X - - - -
+              CONFIG X - - - -
+                FILE X - - - -
+                ROOT - X - - -
+               HD1,0 - X - - -
+              KERNEL - X - - -
+            /VMLINUZ - X - - -
+             OPTIONS - X - - -
+                   > - X - - -
+         /INITRD.IMG - X - - -
+                BOOT - X X - -
+               POINT - - X - -
+           PARTITION - - O - -

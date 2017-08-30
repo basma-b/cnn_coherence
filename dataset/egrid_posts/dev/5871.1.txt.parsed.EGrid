@@ -1,0 +1,8 @@
+             COMMAND X - -
+                FSCK S O -
+              SYSTEM X - -
+               CHECK O - -
+              REBOOT X - -
+            SHUTDOWN - O -
+                  -F - X -
+                THAT - - X

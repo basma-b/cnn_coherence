@@ -1,0 +1,19 @@
+       HELP/QUESTION X - - - - -
+                 ONE X - - - - -
+           PARTITION X - S - - S
+                 ACT X - - - - -
+                HTTP X - - - - -
+//PASTEBIN.COM/M4688A6FF X - - - - -
+           /DEV/SDA2 - S - - - -
+   /DEV/DISK/BY-UUID - X - - - -
+                EXT3 - - X - - -
+                 TRY - - X - - -
+                SUDO - - X - - -
+             UDEVADM - - S - S -
+             TRIGGER - - S - - O
+              REBOOT - - - X - O
+                 ALL - - - S - -
+                UDEV - - - - - S
+             BY-UUID - - - - - O
+                DISK - - - - - O
+            SYMLINKS - - - - - O

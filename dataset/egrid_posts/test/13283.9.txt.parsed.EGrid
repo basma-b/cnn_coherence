@@ -1,0 +1,25 @@
+                 BUG - X X - - O - - - - - -
+              REPORT - - X - - - - - - - - -
+           LAUNCHPAD - - X - - - - - - - - -
+           ETIQUETTE - - X - - - - - - - - -
+                PAGE - - S - - - - - - - - -
+          UBUNTU.COM - - X - - - - - - - - -
+                THIS - - S - - S - - - - - -
+               HTTPS - - - S - - - - - - - -
+                STEP - - - S - - - - - - - -
+              BOTTOM - - - X - - - - - - - -
+                THAT - - - - - - X - - - - -
+             PACKAGE - - - - - - X - - - - -
+              SERVER - - - - - - - - S - - -
+                 GUI - - - - - - - - O - - -
+             DEFAULT - - - - - - - - X - - -
+             LIGHTDM - - - - - - - - - S - -
+               START - - - - - - - - - X - -
+                FILE - - - - - - - - - O - -
+/ETC/INIT.D/FOO.CONF - - - - - - - - - X - -
+   FOO.CONF.DISABLED - - - - - - - - - X - -
+        CORRECTNAMES - - - - - - - - - X - -
+                 DMS - - - - - - - - - - X -
+              KERNEL - - - - - - - - - - X -
+                LINE - - - - - - - - - - X -
+   /ETC/DEFAULT/GRUB - - - - - - - - - - - X

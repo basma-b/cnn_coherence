@@ -1,0 +1,15 @@
+               WASTE S - - -
+               DULAK O - - -
+             LATENCY S - - -
+                 SSH X - - -
+           BANDWIDTH O - - -
+          CONNECTION O O - X
+                 IPS X - - -
+               ROUTE X O O -
+               ISSUE O - - -
+            PROVIDER X - - -
+                DROP - S - S
+              REJECT - S - -
+            FIREWALL - - X -
+         DROP/REJECT - - O -
+                  .. - - - O

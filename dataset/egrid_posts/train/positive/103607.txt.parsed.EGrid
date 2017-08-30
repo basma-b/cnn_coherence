@@ -1,0 +1,9 @@
+                ANY1 S S - - -
+                FTPD X X - - -
+              SERVER X X - - -
+              VSFTPD - - S - -
+                 LOT - - O - -
+                EASY - - S - -
+                 SSH - - - - O
+                FILE - - - - X
+            TRANSFER - - - - X

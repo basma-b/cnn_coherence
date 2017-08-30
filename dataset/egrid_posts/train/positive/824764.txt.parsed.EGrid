@@ -1,0 +1,9 @@
+            LOCATION X - -
+              CHANCE S - -
+            APPARMOR S - -
+              REFUSE X - -
+          READ/WRITE O - -
+               CHECK - S -
+              ERRORS - X -
+                   K - - X
+              INSTAL - - O

@@ -1,0 +1,17 @@
+          /ETC/FSTAB S - - - -
+                NTFS - X O - -
+               DRIVE - O - - -
+            REISERFS - X - - -
+                WORK - O - - -
+              LIVECD - - O - -
+                LINE - - S - -
+         /MEDIA/SDA1 - - S - -
+             DEFAULT - - X - -
+              CHANGE - - X - -
+                AUTO - - X - -
+            WIRELESS - - - X X
+               THERE - - - - S
+              INSTAL - - - - O
+          CONNECTION - - - - O
+             NETWORK - - - - X
+             MANAGER - - - - X

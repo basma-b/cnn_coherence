@@ -1,0 +1,24 @@
+              UBUNTU O - - -
+                  PC X - - -
+                 1/4 O - - -
+               DRIVE X - - -
+               ERROR O - - -
+             STARTUP X - - -
+              SCREEN X - - -
+                   < S - - -
+           INITRAMFS X - - -
+          /DEV/LOOP0 S X - -
+//FILESYSTEM.SQUASHFS X X - -
+        INPUT/OUTPUT S - - -
+                WUBI O - - -
+                LINE - S O -
+/CDROM/CASPER/FILESYSTEM/SQUASHFS - X - -
+                N00B - O - -
+                THAT - - S -
+              OPTION - - O -
+              OUTPUT - - X -
+               LSUSB - - X -
+               MODEM - - X -
+                 USB - - - X
+                  ID - - - O
+              SEARCH - - - O

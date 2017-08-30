@@ -1,0 +1,21 @@
+             MESSAGE O X - - - - -
+               LOGIN X - - - - - -
+MODULE-CONSOLE-KIT.C S - - - - - -
+              SYSTEM X - - - - - -
+                 BUS O - - - - - -
+ORG.FREEDESKTOP.DBUS.ERROR.NOSERVER X - - - - - -
+              SOCKET X - - - - - -
+/USR/LOCAL/VAR/RUN/DBUS/SYSTEM_BUS_SOCKET X - - - - - -
+          CONNECTION X - - - - - -
+              REFUSE X - - - - - -
+              WINDOW - O - - - - -
+               THERE - - S - - - -
+              OTHERS - - X - - - X
+              SYSLOG - - X - - - -
+                THIS - - - O - - -
+                WEEK - - - X - - -
+               ERROR - - - - X - -
+                DBUS - - - - - - S
+         CONNECTIONS - - - - - - O
+          CONSOLEKIT - - - - - - X
+           POLICYKIT - - - - - - X

@@ -1,0 +1,18 @@
+                FILE X X - - -
+                   X S - - - -
+                  .. O X X - -
+                COPY - O - - -
+             DESKTOP - X - - -
+                 ONE - X - - O
+           /ETC/X11/ - X X - -
+           XORG.CONF - - O - -
+                SUDO - - X - X
+            TERMINAL - - X - -
+              FOLDER - - X - -
+            /ETC/X11 - - X - -
+              BACKUP - - - - X
+                  CP - - - - O
+                  MV - - - - S
+/ETC/X11/XORG.CONF_OLD - - - - X
+  /ETC/X11/XORG.CONF - - - - S
+            CONF_OLD - - - - O

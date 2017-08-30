@@ -1,0 +1,43 @@
+                 HEY X - - - - -
+              ANYONE X - - - - -
+             APT-GET X - - - - -
+           MOD_PROXY O - - - - -
+             APACHE2 X X - - - -
+                THAT - O - - - -
+             PACKAGE - X - - - -
+LIBAPACHE2-MOD-PROXY-HTML - S - - - -
+                 TRY - X - - - -
+             COMMAND - S - - X -
+           PROXYPASS - X - - X -
+              MODULE - X - - X -
+              SERVER - X - O X -
+       CONFIGURATION - X - - S -
+                   < - X - - - -
+                   > - O - - - -
+               THERE - S - - - -
+                 TWO - X - - - -
+                NAME - X - - - -
+               .LOAD - X - - - -
+             EXAMPLE - X - - - -
+                  EG - - S - - -
+                SUDO - - X - X -
+/ETC/APACHE2/MODS-ENABLED/USERDIR.CONF - - O - - -
+/ETC/APACHE2/MODS-ENABLED/USERDIR.LOAD - - O - - -
+ /ETC/INIT.D/APACHE2 - - S - S -
+           ALEX-WEEJ - - X - - -
+              ADVICE - - O - - -
+                 USE - - - O - -
+              METHOD - - - X - -
+                 WAY - - - S - -
+             USERDIR - - - O - -
+                 ONE - - - S - -
+              REBOOT - - - - S -
+              APACHE - - - - O -
+               ERROR - - - - O -
+                  IM - - - - S -
+                  OK - - - - X -
+                CLUE - - - - X -
+                  TY - - - - O -
+            MOD_WSGI - - - - - X
+                LIST - - - - - X
+             MODULES - - - - - X

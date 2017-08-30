@@ -1,0 +1,15 @@
+               STDIN X - S - - -
+               INPUT X - - - - -
+                FILE X - - - - X
+              PBZIP2 X - - - - -
+                LZMA - X - O - X
+              DAPPER - X - - - -
+             DEFAULT - - O - - -
+             APT-GET - - - S - -
+              SEARCH - - - - - X
+               P7ZIP - - - - - X
+               7-ZIP - - - - - S
+         COMPRESSION - - - - - X
+               RATIO - - - - - S
+                SAME - - - - - X
+        EDGY/DEBIAN/ - - - - - X

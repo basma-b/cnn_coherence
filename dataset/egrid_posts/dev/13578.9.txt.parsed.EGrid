@@ -1,0 +1,17 @@
+                LINE X - - - -
+               LSUSB X - - - -
+                  .. X - - - -
+               LSPCI - O - - -
+                SUDO - X - - -
+           BREAKDOWN - - X - -
+            HARDWARE - - X - -
+                SOME - - - X -
+               PROBE - - - X -
+               ADMIN - - - X -
+               RIGHT - - - O -
+                  DD - - - X -
+        IF=/DEV/ZERO - - - O -
+             COUNT=1 - - - X -
+                 MBR - - - S -
+              INSTAL - - - - O
+              EXTRAS - - - - X

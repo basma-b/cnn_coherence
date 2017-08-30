@@ -1,0 +1,11 @@
+/SYS/BUS/PCI/DEVICES/0000:00:02.0 O - - - -
+           OWNERSHIP O O - - -
+                ROOT X X X - -
+               CHOWN - O - - -
+               IDEAS - - S - -
+              SYSTEM - - - X -
+              DEVICE - - - O -
+                /SYS - - - S -
+                HTTP - - - O -
+             WEBSITE - - - - X
+           KNOWLEDGE - - - - X

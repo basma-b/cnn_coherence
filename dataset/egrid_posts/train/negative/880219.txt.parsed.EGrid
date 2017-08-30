@@ -1,0 +1,21 @@
+                 ALL O - - - - - -
+                 LTS O - - - - - -
+               ERROR O - - - - - -
+                 DAY X - - - - - -
+              KERNEL X X O - - - -
+               PANIC X - - - - - -
+                 VFS S - - - - - -
+                ROOT X - - - - - -
+                  FS O - - - - - -
+                TIME - X - - - - -
+             VERSION - O - - - - -
+                LOAD - X - - - - -
+               THERE - - X X - - -
+                 WAY - - X X - - -
+              UPDATE - - O - - - -
+                THIS - - - X - - -
+                SAME - - - - S - -
+                LOOK - - - - - X -
+//ASKUBUNTU.COM/QUESTIONS/41930/KERNEL-PANIC-NOT-SYNCING-VFS-UNABLE-TO-MOUNT-ROOT-FS-ON-UNKNOWN-BLOCK0-0 - - - - - X -
+              SYSLOG - - - - - - X
+               DMESG - - - - - - X

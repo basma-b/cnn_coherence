@@ -1,0 +1,22 @@
+               THING X - - - - -
+                 USE - X - - - -
+            INTERNET - O - - X -
+/ETC/NETWORK/INTERFACES - X - O - -
+          INTERFACES - S - - - -
+                LIST - O - - - -
+                   $ - - - S - -
+       CONFIGURATION - - - O - -
+            WIRELESS - - - X - -
+          CONNECTION - - - O O -
+                HTTP - - - O - -
+//NIXCRAFT.COM/UBUNTU-DEBIAN/13278-ETC-NETWORK-INTERFACES-WIRELESS-WIFI-EXAMPLE.HTML - - - X - -
+/ETC/NETWORKMANAGER/NETWORKMANAGER.CONF - - - O - -
+        MANAGED=TRUE - - - O - -
+             NETWORK - - - X - -
+             MANAGER - - - O - -
+              METHOD - - - O - -
+               ISSUE - - - O - -
+                TIME - - - - O -
+                 THE - - - - S -
+                HOST - - - - O -
+                SYNC - - - - X -

@@ -1,0 +1,11 @@
+         RESOLV.CONF S - - - -
+     NETWORK-MANAGER X - S - -
+              INSTAL - S - - -
+                  IP - X - - -
+              CUSTOM - X - - -
+         NAMESERVERS - O - - -
+                 YES - - X - -
+             PACKAGE - - X - -
+                HEAD - - - S -
+                 ONE - - - X -
+                HELP - - - - O

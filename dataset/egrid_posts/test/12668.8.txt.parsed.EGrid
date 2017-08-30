@@ -1,0 +1,10 @@
+               CHMOD S S - - - -
+              EFFECT O - - - - -
+                  'S S - - - - -
+                FILE - X S - - -
+               OWNER - X - - - -
+                NTFS - - X X - -
+                 FAT - - X - - -
+          FILESYSTEM - - X - - -
+                  HW - - - - O -
+                 ^^^ - - - - - X

@@ -1,0 +1,13 @@
+               WHENI X - - -
+                 RUN X - - -
+           WINETOOLS S - - -
+               POINT - X - -
+        FAKE_WINDOWS - O - -
+        SETUPAPI.DLL - O - -
+  INSTALLHINFSECTION - X - -
+      DEFAULTINSTALL - X - -
+            WINE.INF - S - -
+                LOOP - X - -
+                WINE - O - -
+            UNIVERSE - X X -
+          WINEHQ.COM - X - -

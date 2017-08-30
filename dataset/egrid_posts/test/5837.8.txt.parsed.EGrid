@@ -1,0 +1,12 @@
+        SYSV-RC-CONF X - - -
+                  CD - X - -
+           /ETC/INIT - X - -
+            RUNLEVEL - X - -
+               START - - - O
+                COPY - - - X
+               12.04 - - - X
+                CARD - - - O
+              SISTEM - - - O
+          ENVIROMENT - - - S
+                 WIN - - - X
+             MACHINE - - - X

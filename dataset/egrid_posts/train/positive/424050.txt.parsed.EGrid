@@ -1,0 +1,18 @@
+                GREP X - - - - -
+                CONF O - - - - -
+               THERE - S - - - -
+             PACKAGE - X - - - -
+                 YEP - X - - - -
+     MOD_PYTHON.CONF - S - - - -
+          MOD_PYTHON - O O - - -
+             A2ENMOD - - X - - -
+              MODULE - - S - - -
+                THIS - - O - - -
+                FILE - - - - O -
+            /VAR/WWW - - - - X -
+               PRINT - - - - X -
+               WORLD - - - - X -
+   /VAR/WWW/HELLO.PY - - - - - X
+                WGET - - - - - X
+                HTTP - - - - - X
+//LOCALHOST/HELLO.PY - - - - - X

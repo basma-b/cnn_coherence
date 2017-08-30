@@ -1,0 +1,23 @@
+                TIME X - -
+                   A S - -
+               11.04 O - -
+                NTFS X - -
+           PARTITION O - -
+               /DATA X - -
+              CHANGE O - -
+               OWNER X - -
+                PERM O - -
+MOUNT/SUBDIRECTORIES X - -
+          EVERYTHING S - -
+                ROOT O - -
+                 SUB X - -
+         DIRECTOIRES O - -
+                FUSE X - -
+                FILE X - X
+              SYSTEM O - -
+               UMASK S - -
+                MASK O - -
+                   > - - O
+        FILENAME.TXT - - O
+             COMMAND - - X
+              OUTPUT - - S

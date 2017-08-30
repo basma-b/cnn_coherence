@@ -1,0 +1,11 @@
+             DCHROOT O O X -
+               ERROR S - - -
+             PACKAGE X - - -
+              CHANGE O - - -
+/ETC/APT/SOURCES.LIST X - - -
+                BOOT - X - -
+                  CD - X - -
+                  .. - O - -
+             SESSION - X - -
+         DEBOOTSTRAP - - X -
+            UNIVERSE - - - S

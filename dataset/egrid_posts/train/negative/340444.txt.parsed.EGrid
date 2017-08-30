@@ -1,0 +1,8 @@
+               MOUNT X - - -
+           PARTITION X - - -
+                DATA O - - -
+             MESSAGE - - - O
+                BOOT - - - X
+             NETWORK - - - X
+          INTERFACES - - - O
+               -RSB- - - - X

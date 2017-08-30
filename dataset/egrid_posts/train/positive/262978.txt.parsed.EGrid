@@ -1,0 +1,16 @@
+               HOWTO S - - -
+            XSESSION X - - -
+             MANAGER O - - -
+                 ONE - O - -
+              STARTX - S - -
+                 GDM - X - -
+                 KDM - X - -
+                CASE - - X -
+          ~/.XINITRC - - O -
+                 KDE - - O -
+            STARTKDE - - X -
+            .XINITRC - - X -
+                XFCE - - - S
+                PATH - - - O
+           SOMETHING - - - X
+                   > - - - X

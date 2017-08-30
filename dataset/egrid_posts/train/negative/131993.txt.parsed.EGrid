@@ -1,0 +1,11 @@
+            QUESTION O - - - - -
+                MASK S - - - - -
+                 IDE O - - - - -
+               OWNER S - - - - -
+            ANYTHING O - - - - -
+             MEMBERS S - - - - -
+               GROUP X - - - - -
+              OTHERS S - - - - -
+                WORK - - X - - -
+                FILE - - X - - -
+           UMASK=027 - - O - - -

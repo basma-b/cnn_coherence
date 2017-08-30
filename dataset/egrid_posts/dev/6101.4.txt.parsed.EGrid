@@ -1,0 +1,11 @@
+            TERMINAL X - - - - -
+                   * - - S - - -
+                  -A - - O - - -
+              OPTION - - O - - -
+             COMMAND - - - - - O
+               MDADM - - - - - O
+            /DEV/MD0 - - - - - O
+            CHUNK=64 - - - - - O
+             LEVEL=0 - - - - - O
+           /DEV/SDD2 - - - - - X
+            /DEV/SDC - - - - - O

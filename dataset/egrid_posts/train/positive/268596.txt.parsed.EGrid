@@ -1,0 +1,30 @@
+              ANYONE X - - - - - - - - -
+           GTK+EXTRA S - - - - - - - - -
+               ERROR O - - - - - O - - -
+BASE_DEPENDENCIES_CFLAGS X - - - - - - - - -
+BASE_DEPENDENCIES_LIBS X - - - - - - - - -
+             PACKAGE X O - - - - X - X X
+            GTK+-2.0 S O O - - - O - - -
+              SEARCH X - - - - - - - - -
+                PATH X - - - - - - - - -
+           DIRECTORY - S - - - - - - - -
+         ENVIRONMENT - X - - - - - O - -
+                  NO - X - - - - - - - -
+             SCRATCH - - X - - - X - - -
+              ERRORS - - O - - - - - - -
+                ISNT - - X - - - - - - -
+                FILE - - X - - - - - - -
+        DEPENDANCIES - - - - O - - - - -
+                DPKG - - - - X - - - - -
+             COMMAND - - - - O - - - - -
+                 LIB - - - - - O - - - -
+        REQUIREMENTS - - - - - - S - - -
+                   > - - - - - - X - - X
+               PANGO - - - - - - X - - -
+               CAIRO - - - - - - X - - -
+               1.2.0 - - - - - - X - - -
+                 ALL - - - - - - - - X -
+              INSTAL - - - - - - - - X -
+              SYSTEM - - - - - - - - X -
+                   | - - - - - - - - - O
+                NAME - - - - - - - - - X

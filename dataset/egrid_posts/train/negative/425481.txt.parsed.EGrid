@@ -1,0 +1,20 @@
+             PROBLEM O - - - - - - -
+               MOUNT X - - - - - - -
+           PARTITION O - O - - - - -
+        INSTALLATION X - - - - - - -
+          /ETC/FSTAB X - - - - - - -
+               OWNER - S - - - - - -
+                ROOT - O - X - - - -
+               GROUP - S - - - - - -
+                DATA - - X - - - - -
+                USER - - X - - - - -
+              ACCESS - - O - - - - -
+                THIS - - X S - - - -
+               CHMOD - - - O - - - -
+            ANYTHING - - - O - - - -
+               CHOWN - - - S - - - -
+                SUDO - - - - S - X -
+                   * - - - - S X - -
+            FACEPALM - - - - - S - -
+/VAR/LIB/XORG//ETC/X11/XORG.CONF.MD5SUM - - - - - - X -
+                DAYS - - - - - - X -

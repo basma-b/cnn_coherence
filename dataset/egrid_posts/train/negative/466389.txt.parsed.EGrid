@@ -1,0 +1,32 @@
+            LOCATION O - - - - -
+                HELP X - - - - -
+                8.04 X - - - - -
+                FILE X - X - - -
+               DRIVE X - - - - -
+                WHAT - X - - - -
+    /MEDIA/DRIVE/DIR - - O - - -
+                   U - - O - - -
+                 PUT - - X - - -
+                 DIR - - O - - -
+                COPY - - X - - -
+              FORMAT - - X - - -
+                SUDO - - S X - -
+               FRONT - - X - - -
+                 ALL - - X - - -
+                ROOT - - X - - -
+          PERMISSION - - X - - -
+                /DIR - - O - - -
+              FOLDER - - X - - -
+             COMMAND - - - X - -
+          /MEDIA/NON - - - X - -
+              SYSTEM - - - X - -
+DATA/DOWNLOADS/ALSA-DRIVER-1.0.16.TAR.BZ2 - - - O - -
+               ERROR - - - O - -
+              TARGET - - - X - -
+´DATA/DOWNLOADS/ALSA-DRIVER - - - X - -
+                   * - - - S - -
+           DIRECTORY - - - O - -
+               STUFF - - - - S -
+              UPDATE - - - - - X
+              DIDNOT - - - - - S
+                LIST - - - - - O

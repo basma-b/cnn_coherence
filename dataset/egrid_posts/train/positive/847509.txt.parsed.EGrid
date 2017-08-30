@@ -1,0 +1,6 @@
+            MAKEFILE S - - - -
+                FILE O O - - -
+               ALLOW - X - - -
+             PROGRAM - X - - X
+                CALL - - - - X
+              BLOGTK - - - - X

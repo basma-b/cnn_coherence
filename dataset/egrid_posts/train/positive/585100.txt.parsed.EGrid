@@ -1,0 +1,13 @@
+          CONNECTION O - -
+                WIRE X - -
+            ETHERNET X - -
+                PORT X - -
+                  .. O - -
+                LSHW S - -
+             ADAPTER X - -
+           SOMETHING X - -
+                  HW O - -
+               LSPCI - X -
+                  -V - X -
+            IFCONFIG - X -
+             MESSAGE - - X

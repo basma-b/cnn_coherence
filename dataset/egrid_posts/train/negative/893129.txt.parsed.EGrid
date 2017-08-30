@@ -1,0 +1,11 @@
+              KERNEL X -
+              CONFIG S -
+                  -R X -
+                COPY X -
+                FILE O -
+              SOURCE X -
+           DIRECTORY O -
+             .CONFIG X -
+KERNEL_SOURCE+GRSECURITY O -
+                THAT - S
+            QUESTION - O

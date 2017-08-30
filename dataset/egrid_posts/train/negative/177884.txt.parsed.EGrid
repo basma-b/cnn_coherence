@@ -1,0 +1,20 @@
+             SYMLINK S - - - S - -
+         DESTINATION O - - - - - -
+              SOURCE S - - - - - -
+      /USR/SRC/LINUX O - - - S - -
+/USR/SRC/LINUX-SOURCES-2.6.15 X - - - - - -
+               LINUX - X - - - - -
+                 DIR - O O S - - -
+                TYPE - X - - - - -
+                  LS - X - - - - -
+ LINUX-SOURCE-2.6.15 - O - - - - -
+              OUTPUT - S - - - - -
+                TEXT - S - - - - -
+                SUDO - - S - - - -
+             CONTENT - - O - - - -
+              FOLDER - - X - - - -
+                 ONE - - O - - - -
+           DIRECTORY - - - - X - -
+                WORK - - - - - S -
+                 DRM - - - - - - X
+             INSPIRE - - - - - - X

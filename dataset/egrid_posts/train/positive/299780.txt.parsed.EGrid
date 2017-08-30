@@ -1,0 +1,14 @@
+               ERROR O S
+              AMAVIS O -
+             POSTFIX X -
+               -RSB- O -
+               FATAL S -
+/ETC/POSTFIX/MASTER.CF S -
+                LINE S -
+           TRANSPORT X -
+                TYPE X -
+               FIELD O -
+             SECTION S -
+                HTTP X -
+//WWW.PASTEBIN.CA/530987 X -
+           MASTER.CF X -

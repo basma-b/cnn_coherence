@@ -1,0 +1,8 @@
+              KERNEL X - -
+            -GENERIC X - -
+             SUPPORT - O -
+             HIGHMEM - X -
+                 SMP - X -
+             DRIVERS - O -
+            HARDWARE - X -
+                  .. - - O

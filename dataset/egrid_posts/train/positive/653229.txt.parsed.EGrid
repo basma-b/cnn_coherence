@@ -1,0 +1,9 @@
+       LOCALHOST:0.0 X - - - -
+                XORG X - - - -
+             DESKTOP X - - - -
+              WINDOW X X - - -
+                  VT X - - - -
+                   $ - - S - -
+              RESULT - - X - -
+                 0.0 - - - X -
+        DISPLAY=:0.0 - - - - X

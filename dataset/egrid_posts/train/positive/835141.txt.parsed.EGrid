@@ -1,0 +1,6 @@
+/PROC/SYS/NET/IPV4/IP_FORWARD - O - - -
+            IPTABLES - O - - -
+                THAT - - X - -
+                IPV6 - - - X X
+                SAME - - - - X
+                IPV4 - - - - O

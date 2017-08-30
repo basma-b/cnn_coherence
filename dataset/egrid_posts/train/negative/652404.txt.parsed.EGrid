@@ -1,0 +1,16 @@
+             DEXTER3 S - - - - - - - -
+                COPY O - - - - - - - -
+         PERMISSIONS O - - - - - - - -
+         DESTINATION X - - - - - - - -
+         PREMISSIONS - X - - - - - - -
+                SUDO - - X X - - - - -
+              OTSUDO - - - X - - - - -
+          PREMISSION - - - - O - - - -
+                FILE - - - - O X - - -
+           PARTITION - - - - X - - - -
+              FOLDER - - - - - X - - -
+              GKSUDO - - - - - S - - -
+          ACTIVITIES - - - - - O - - -
+               DRIVE - - - - - X - - -
+              CAMERA - - - - - - - - O
+                 RUN - - - - - - - - O

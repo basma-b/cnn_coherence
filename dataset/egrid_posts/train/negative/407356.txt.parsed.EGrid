@@ -1,0 +1,13 @@
+           PARTITION S S X - -
+                USER X X - - -
+                THAT - - S - -
+            UID=1000 - - O - -
+          /ETC/FSTAB - - X - -
+                WORK - - O - -
+                KIND - - X - -
+              DEVICE - - - O -
+               CHOWN - - - S -
+                 USR - - - X -
+                   > - - - O -
+          MOUNTPOINT - - - X -
+               THANK - - - - X

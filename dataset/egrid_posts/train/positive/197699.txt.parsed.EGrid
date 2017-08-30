@@ -1,0 +1,22 @@
+              REASON X - - - - -
+           NVIDIA.KO O - - - - -
+              KERNEL X - - - - -
+              MODULE S - - - - -
+             MESSAGE O - - - - -
+              NVIDIA X - - - - -
+               PURGE X - - - - -
+                   / S - - - - -
+          NVIDIA-GLX O - - - - -
+                 DIS - S - - - -
+             MODULES - O O - - -
+                   $ - - - O - -
+                  -R - - - X - -
+                SUDO - - - X - -
+             APT-GET - - - S - -
+LINUX-RESTRICTED-MODULES-2.6.5-27-386 - - - O - -
+               REPOS - - - S - -
+                 WAY - - - X - -
+             PACKAGE - - - O - -
+                 LOT - - - - O -
+                 MSG - - - - - O
+           COMPONENT - - - - - X

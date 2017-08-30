@@ -1,0 +1,12 @@
+              RFKILL X - - - -
+                 ALL S - - - -
+              OUTPUT - X - - -
+               LSMOD - X - - -
+               |GREP - X - - -
+                 WMI - O - - -
+          PULSEAUDIO - - X - -
+            SETTINGS - - X - -
+           SOMETHING - - - O -
+              SOURCE - - - - O
+             MADNESS - - - - X
+              REVERT - - - - X

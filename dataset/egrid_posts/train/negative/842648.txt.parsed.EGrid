@@ -1,0 +1,12 @@
+                BOOT X X - - - -
+           MULTIUSER O - - - - -
+           INTERFACE X - - - - -
+              INSERT X - - - - -
+            PASSWORD X - - O - -
+              SYSTEM - S - - - -
+                 GDM - X - - - -
+               LOGIN - X - - - -
+                AUTO - X - - - -
+              LOGINS - X - - - -
+             KEYRING - - S S - -
+                USER - - S - - -

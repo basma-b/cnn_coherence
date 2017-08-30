@@ -1,0 +1,13 @@
+           DIRECTORY O - - S -
+                HOME X - - - -
+              FOLDER X - - - -
+         PERMISSIONS O - - - -
+                SUDO - X - X -
+               RMDIR - S - - -
+                  RM - S - X -
+             FOLDERS - O - - -
+                FILE - X - O -
+              SEARCH - - - O -
+                PERL - - - X -
+               STUFF - - - X -
+             PACKAGE - - - X -

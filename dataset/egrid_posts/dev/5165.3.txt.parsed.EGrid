@@ -1,0 +1,11 @@
+              NVIDIA - X - -
+                CARD - X - -
+              GOOGLE - - S -
+               LSPCI - - X -
+                   | - - S -
+                 VGA - - O -
+           CONFIGURE - - - S
+              SCRIPT - - - O
+                LLVM - - - O
+              SOURCE - - - X
+         ./CONFIGURE - - - O

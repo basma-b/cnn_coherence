@@ -1,0 +1,14 @@
+              ANYONE S - - -
+              WVDIAL O - - -
+                USER X - O -
+                SUDO - O - -
+             DIALOUT - - X -
+               GROUP - - S -
+             SUDOERS - - S -
+                LINE - - O -
+                   % - - X -
+                ALL= - - X -
+                ROOT - - X -
+            NOPASSWD - - O -
+     /USR/BIN/WVDIAL - - O -
+                QCAD - - - S

@@ -1,0 +1,10 @@
+             MODULES - O - - - - - -
+              VMWARE - X - - - - - -
+              KERNEL - - - X - - - -
+              HEADER - - - X - - - -
+              SOURCE - - - X - - - -
+       LINUX-HEADERS - - - - X S - -
+        LINUX-SOURCE - - - - O - - -
+      HEADERS/SOURCE - - - - X - - -
+              SEARCH - - - - - - - X
+      KERNEL-HEADERS - - - - - - - X

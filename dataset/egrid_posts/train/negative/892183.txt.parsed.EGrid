@@ -1,0 +1,15 @@
+          NFS/AUTOFS - - - O - - - - -
+              LAPTOP - - - - X - - - -
+ /NET/XPS.LOCAL/DIR1 - - - - O - - - -
+ /NET/XPS.LOCAL/DIR2 - - - - O - - - -
+                DIRS - - - - O - - - -
+              SERVER - - - - X - - - -
+        /ETC/EXPORTS - - - - X - - - -
+                SUDO - - - - X - - - -
+              SYSTEM - - - - S - - - -
+                DIR2 - - - - O - - - -
+                NTFS - - - - - X - - -
+                  IM - - - - - - - - S
+              CLIENT - - - - - - - - O
+                MODE - - - - - - - - X
+                  .. - - - - - - - - X

@@ -1,0 +1,7 @@
+             PACKAGE S - -
+               MATCH X S -
+               MYSQL O - -
+            APTITUDE - O -
+              SEARCH - X -
+              ^MYSQL - S -
+                DPKG - X -

@@ -1,0 +1,7 @@
+                 RUN X - -
+             NETWORK X - -
+       S40NETWORKING - X -
+          S51NTPDATE - X -
+             PREVIEW - O -
+                 XFS - - X
+          FILESYSTEM - - O

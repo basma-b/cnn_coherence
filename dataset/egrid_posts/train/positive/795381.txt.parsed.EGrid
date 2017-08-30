@@ -1,0 +1,17 @@
+                CIFS X - - - - - - - -
+             NETWORK X - - - - - - - -
+               SHARE O - - - - X - - -
+               FSTAB X - - - X - - X -
+            WIRELESS X - - - - - - - -
+              SYSTEM S - - - - - - - -
+                BOOT X - - - - - - - -
+          CONNECTION O - - - - - - - -
+                THIS - X - - - S - - -
+             _NETDEV - - O - S - - - -
+             OPTIONS - - X - X - - - -
+               IDEAS - - - - - - X - -
+              SCRIPT - - - - - - - O X
+                SUDO - - - - - - - - S
+               SETUP - - - - - - - - X
+         PRIVELEDGES - - - - - - - - X
+               USERS - - - - - - - - X

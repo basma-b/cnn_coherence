@@ -1,0 +1,11 @@
+           DIRECTORY X - -
+                FILE S - -
+               GROUP X - -
+           OWNERSHIP O - -
+                SAME - S -
+                 USE - X -
+               CHGRP - X -
+            SUIDFLAG - X -
+                SGID - O -
+              FOLDER - X -
+                USER - - O

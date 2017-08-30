@@ -1,0 +1,15 @@
+             INITTAB X - - -
+               GUIDE O - - -
+                 RAS X - - -
+        /ETC/INITTAB O - - -
+              DOESNT X - - -
+                LINE X - - -
+               TTYS0 X X - -
+              WHATEV X - - -
+                FILE X - - -
+                THIS - X - -
+             EVENT.D - X - -
+             S0:2345 - X - -
+             RESPAWN - X - -
+                   P - X - -
+             FEARFUL - - - S

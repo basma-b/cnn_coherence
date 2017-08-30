@@ -1,0 +1,27 @@
+               SLAPD S - - - - -
+              DEBIAN X X - - - -
+                 ONE - S - - - -
+              REPAIR - X - - - -
+                COOL - X - - - -
+            OPENLDAP - S - - - -
+              2.1.30 - O - - - -
+            DATABASE - X - - - -
+               HOARY - S - - - -
+             VERSION - O - - - -
+               WARTY - O - - - -
+                THAT - - O - - -
+             PROBLEM - - - S O -
+              KERNEL - - - X - -
+              COMPAT - - - X - -
+               LAYER - - - S - -
+            MAVERICK - - - X - -
+             KERNELS - - - X - -
+             PACKAGE - - - S X -
+             MODULES - - - S - -
+                LOAD - - - O - -
+                 BAD - - - - S -
+         DESCRIPTION - - - - X -
+            /DEV/DSP - - - - O -
+               USERS - - - - S -
+               HTTPS - - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/OSS-COMPAT/+BUG/673845 - - - - - X

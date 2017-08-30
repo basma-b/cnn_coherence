@@ -1,0 +1,11 @@
+                CIFS - - - - - - - S S
+           CONFIGURE - - - - - - - O -
+          PARAMETERS - - - - - - - - O
+           PASSWORDS - - - - - - - - O
+            INSTANCE - - - - - - - - X
+                 ONE - - - - - - - - S
+                AUTO - - - - - - - - X
+               OWNER - - - - - - - - X
+                  RW - - - - - - - - X
+       USERNAME=MARK - - - - - - - - X
+            GID=1000 - - - - - - - - O

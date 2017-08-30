@@ -1,0 +1,7 @@
+                TIME X X - -
+                CRON S S - -
+              SCRIPT O O - -
+          CRON.DAILY X X - -
+                LINE - - O -
+        /ETC/CRONTAB - - X -
+     /ETC/CRON.DAILY - - X -

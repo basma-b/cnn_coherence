@@ -1,0 +1,25 @@
+                LAMP O - - - - - - -
+                THIS X - - - - - - -
+               ERROR O - - - - - - -
+             STARTUP X X - - - - - -
+                LOAD X - - - - - - -
+             LIBRARY X O - - - - - -
+/USR/LIB/PHP5/20090626/SQLITE.SO X - - - - - - -
+                 PHP - X - - - X - -
+            SOLUTION - S - - - - - -
+             WARNING - O - - - - - -
+               SHARE - X - - - - - -
+              OBJECT - X - - - - - -
+                FILE - O - - S O - -
+           DIRECTORY - X - - - - - -
+                LINE - X - - - - - -
+              ANYONE - X - - - - - -
+             PACKAGE - - - O - - - -
+              SQLITE - - - - S - - -
+               |GREP - - - - X - - -
+           PHP5|GREP - - - - X - - -
+              OUTPUT - - - - O - - -
+/USR/LIB/PHP5/20090626/SQLITE3.SO - - - - X - - -
+              CONFIG - - - - X X - -
+           SQLITE.SO - - - - X - - -
+          SQLITE3.SO - - - - O - - -

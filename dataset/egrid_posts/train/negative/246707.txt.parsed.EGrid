@@ -1,0 +1,17 @@
+                PATH X O -
+     /ETC/LD.SO.CONF X - -
+                 WAY X - -
+               ORDER O X -
+               PATHS S - -
+              SEARCH O - -
+           LIBRARIES X - -
+            /USR/LIB - S -
+                  .. - X -
+               FIRST - S -
+                SUDO - X -
+            LDCONFIG - X -
+               CACHE - X -
+          LD.SO.CONF - X -
+         ./CONFIGURE - X -
+           SOMETHING - - O
+                HTTP - - X

@@ -1,0 +1,17 @@
+              REASON X - - - - -
+                FILE - S - - - -
+               BLOCK - O - - - -
+                 MAN - - X - - -
+                  DU - - O - - -
+       APPARENT-SIZE - - X - - -
+             NETWORK - - - - X -
+             MANAGER - - - - X -
+             OPENVPN - - - - - S
+                 GUI - - - - - X
+                TOOL - - - - - X
+              BUNDLE - - - - - X
+                SUDO - - - - - X
+            IFCONFIG - - - - - X
+                ETH0 - - - - - O
+                NANO - - - - - X
+/ETC/NETWORK/INTERFACES - - - - - S

@@ -1,0 +1,11 @@
+             PACKAGE X - -
+             LIBRARY X - -
+                 GCC S - -
+             PROGRAM X - -
+                NEED O - -
+         NCURSES-DEV O - -
+            HARDWARE - X -
+             DRIVERS - X -
+               AFAIK - - S
+                WORK - - O
+                  RC - - X

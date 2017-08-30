@@ -1,0 +1,27 @@
+           DIRECTORY O - - - - -
+                /MNT X - - - - -
+                   K - X - X - -
+               -RSB- - S - O - -
+          /MNT/SHARE - O - - - -
+              CHANGE - - - X - -
+             DEFAULS - - - S - -
+                USER - - - X - -
+           UMASK=000 - - - X - -
+               FSTAB - - - X - -
+                WORK - - - X - -
+            DEFAULTS - - - S - -
+             DASENJO - - - S - -
+         DIRECTORIES - - - X - -
+                HTTP - - - X - -
+//WWW.PUBPAT.ORG/MICROSOFT_517_REJECTED.HTM - - - X - -
+                REPO - - - X - -
+               THERE - - - X - -
+               ISSUE - - - O - -
+               CHECK - - - - S -
+                 DEP - - - - - X
+           DEVELOPER - - - - - X
+               GUESS - - - - - S
+                CANT - - - - - X
+              SCRIPT - - - - - S
+             SYMLINK - - - - - O
+                WRAP - - - - - X

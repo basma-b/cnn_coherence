@@ -1,0 +1,26 @@
+                RATE X - - - - - - - - - - - - -
+              LOCALE X - - - - - - - - - - - - -
+            KEYBOARD X X X - - - - - - - - - - -
+                MODE O X O - - - - - - - - - - -
+           CHARACTER - - X - - - - - - - - - - -
+                 SET - - X - - - - - - - - - - -
+/ETC/DEFAULT/CONSOLE-SETUP - - X - - - - - - - - - - -
+                APPS - - S - - - - - - - - - - -
+                MESS - - X - - - - - - - - - - -
+             CONSOLE - - - X - - - - - - - - - -
+                  VI - - - - X - - - - - - - - -
+                PICO - - - - X - - - - - - - - -
+               GEDIT - - - - X - - - - - - - - -
+                BASH - - - - X - - - - - - - - -
+             FIREFOX - - - - X - - - - - - - - -
+                BOOT - - - - X - - - - - - - - -
+                   X - - - - O - S X O - S - - -
+             SECTION - - - - - O S - - - - - - -
+           XORG.CONF - - - - - X - - - - - - - -
+                WORK - - - - - - - X - - - - - -
+               START - - - - - - - - X - - - - -
+            SHUTDOWN - - - - - - - - X - - - - -
+                THAT - - - - - - - - - O - - - -
+               CAUSE - - - - - - - - - - O - - -
+     /ETC/INIT.D/GDM - - - - - - - - - - - S - -
+                 YES - - - - - - - - - - - - - X

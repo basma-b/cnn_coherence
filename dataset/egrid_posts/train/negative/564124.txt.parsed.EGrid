@@ -1,0 +1,22 @@
+               ESSID X S - - - - -
+             NETWORK X X - - - - -
+                NAME - O - - - - -
+               FORCE - S - - - - -
+                 KEY - S - - - - -
+                  AP - X X - - - -
+                KIND - - X - - - -
+          ENCRYPTION - - X - - - -
+                 WEP - - - S - - -
+               CRACK - - - O - - -
+             PROBLEM - - - O - - O
+         NDISWRAPPER - - - O - - -
+            WIRELESS - - - X - - -
+                WORK - - - O - - -
+             CHIPSET - - - - X - -
+             DRIVERS - - - - - S -
+                DONT - - - - - X -
+              MOMENT - - - - - X -
+                THIS - - - - - O -
+                HTTP - - - - - X -
+//WWW.MAIL-ARCHIVE.COM/UBUNTU-BUGS - - - - - X -
+                  IW - - - - - - S

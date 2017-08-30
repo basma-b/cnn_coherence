@@ -1,0 +1,7 @@
+               RMMOD S - - -
+            EHCI_HCD S - - -
+              MODULE - O - -
+                 RUN - X - -
+               LINUX - X - -
+              KERNEL - X - -
+                  VM - - - O

@@ -1,0 +1,16 @@
+/ETC/NETWORK/INTERFACES X - - - - -
+                LINE S - - - - -
+              FORMAT X - - - - -
+        S:66C1XXXXXX X - - - - -
+                   S - X X - - -
+               ASCII - - - X - -
+              STRING - - - X - -
+                OHHH - - - X - -
+                 HEX - - - X - -
+             DEFAULT - - - - X -
+      REPRESENTATION - - - - X -
+            COMPUTER - - - - - S
+                HOOK - - - - - X
+                 NET - - - - - X
+             APT-GET - - - - - O
+             PACKAGE - - - - - O

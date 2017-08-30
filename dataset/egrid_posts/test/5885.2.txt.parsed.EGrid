@@ -1,0 +1,33 @@
+                 DNS X S - - - - X - -
+             SERVICE X - - - - - - - -
+              UBUNTU S - - - - - - - -
+                SORT X - - - - - - - -
+                TIME - X - - - - - - -
+               PROXY - X - - - - - - -
+            PROBLEMS - O - - - - - - -
+              SERVER - - O - - - O - -
+                LIST - - X - - - - - -
+             NETWORK - - X - - - - - -
+       CONFIGURATION - - X - - - - - -
+NM-CONNECTION-EDITOR - - O - - - - - -
+              CONFIG - - O - - - S - -
+               GUESS - - S - - - - - -
+                FACT - - S - - - - - -
+              CHANGE - - S - - - - - -
+              SOURCE - - O - - - - - -
+             PROBLEM - - X - - - - - -
+       ACTIONPARSNIP - - - X - - - - -
+                LINK - - - S - - - - -
+            SOLUTION - - - X - - - - -
+                THAT - - - - S - - - -
+                 N-M - - - - - S - - -
+          NAMESERVER - - - - - X - - -
+/VAR/RUN/NM-DNS-DNSMASQ.CONF - - - - - X - - -
+             DNSMASQ - - - - - S - - -
+               THERE - - - - - - S - -
+             SERVERS - - - - - - O - -
+                  NM - - - - - - X - -
+                DHCP - - - - - - X - -
+                  ID - - - - - - - S -
+               STUFF - - - - - - - O -
+LIBMYSQLCLIENT15-DEV - - - - - - - - O

@@ -1,0 +1,12 @@
+                 DNS S - - - -
+                WORK - X - - -
+              DELAYS - S - - -
+                IPV6 - O - - -
+                BOOT - X - - -
+              OPTION - X - - -
+      IPV6.DISABLE=1 - S - - -
+            FUNCTION - X - - -
+              OUTPUT - - - X -
+             CAPTURE - - - O -
+          DISCONNECT - - - X -
+                 LOG - - - - X

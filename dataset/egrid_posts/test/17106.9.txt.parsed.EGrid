@@ -1,0 +1,17 @@
+                THAT X -
+             STARTUP X -
+        APPLICATIONS X -
+              SYSTEM X -
+         PREFERENCES X -
+             UNCHECK X -
+          PULSEAUDIO S -
+             COMMAND O -
+                LINE X -
+                  NO X -
+~/.PULSE/DAEMON.CONF O -
+                SUDO S -
+            ROSBUNTU X -
+               12.10 - X
+            CONSTANT - O
+               VIDEO - X
+            ANYTHING - O

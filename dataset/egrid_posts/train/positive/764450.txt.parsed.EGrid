@@ -1,0 +1,17 @@
+             ANYBODY X - - - - - - -
+              OUTPUT X - - - - - - -
+ /ETC/INIT/GSSD.CONF X - - - - - - -
+             PACKAGE - - X - - - - -
+             COMMAND - - O - - - - -
+         EXPLANATION - - X - - - - -
+                  OK - - X - - - - -
+                FILE - - - O X - - -
+             MACHINE - - - X - - - -
+          NFS-COMMON - - - - X - - -
+                HTTP - - - - - X - -
+//PACKAGES.UBUNTU.COM/SEARCH - - - - - X - -
+   SEARCHON=CONTENTS - - - - - - X -
+  KEYWORDS=GSSD.CONF - - - - - - X -
+       MODE=FILENAME - - - - - - X -
+      SUITE=MAVERICK - - - - - - X -
+            ARCH=ANY - - - - - - X -

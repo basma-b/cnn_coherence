@@ -1,0 +1,13 @@
+             ACCOUNT S - - - -
+         PERMISSIONS O - - - -
+                FILE X - - X -
+               OWNER O - - - -
+               CHMOD - X X - -
+                  +X - O - - -
+               AFILE - S - S -
+                SUDO - - X X -
+                  +W - - S - -
+                NAME - - - X -
+               CHOWN - - - X -
+            ZERGLING - - - S -
+            USERNAME - - - X -

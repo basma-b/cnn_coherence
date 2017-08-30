@@ -1,0 +1,17 @@
+                  HI S - - - -
+              MODULE - X - - -
+            MODPROBE - - X - -
+       /LIB/MODULES/ - - X - -
+              KERNEL - - X - -
+             VERSION - - X - -
+              DEPMOD - - S - -
+                DONT - - S - -
+                PART - - O - -
+             COMMAND - - X - -
+               CRDLB - - - X -
+              OPTION - - - O -
+           XORG.CONF - - - X -
+                WORK - - - X -
+                  .. - - - S -
+            MERGEDFB - - - - S
+             PACKAGE - - - - O

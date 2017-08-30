@@ -1,0 +1,21 @@
+         PERMISSIONS S - - - - - - O - -
+                 USB X - - - - - - - - -
+                 HDD X - - - - - - - - -
+                SUDO X - - - - - - - - -
+               CHMOD X - - - - - - - - -
+               -RW-R O - - - - - - - - -
+            /DEV/SDC X - - - - - - - - -
+                   W X - - - - - - - - -
+                 ONE - - S - - - - - - -
+FILESYSTEM/FILES/DIRCTORES - - O - - - - - - -
+              DEVICE - - - X - - - - - -
+                KIND - - - - X - - - - -
+          FILESYSTEM - - - - X - - - - -
+                EXT2 - - - - - O - - - -
+             COMMAND - - - - - - - O - -
+   FILES/DIRECTORIES - - - - - - - X - -
+     /MEDIA/WHATEVER - - - - - - - - X -
+          MOUNTPOINT - - - - - - - - O -
+           OWNERSHIP - - - - - - - - O -
+                ROOT - - - - - - - - X -
+               DRIVE - - - - - - - - X X

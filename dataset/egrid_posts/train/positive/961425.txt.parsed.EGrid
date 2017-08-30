@@ -1,0 +1,8 @@
+            MODPROBE X - - - -
+                 ISA X - - - -
+           SOUNDCARD O - - - -
+             CAFUEGO - - X - -
+                BIOS - - - S -
+               THERE - - - - S
+                  IO - - - - X
+            CONFLICT - - - - O

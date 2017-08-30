@@ -1,0 +1,9 @@
+             COMMAND X - - - - -
+                FILE S S - - - -
+                TEST - O - - - -
+                  -E - S - - - -
+                BASH - O - - X -
+            OPERATOR - S - - - -
+             CONTEXT - - X - - -
+              SCRIPT - - - X - -
+                HELP - - - - - O

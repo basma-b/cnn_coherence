@@ -1,0 +1,17 @@
+                LINK O - - - -
+              DEVICE X S S - -
+                 FYI - X - - -
+                TYPE - S - - -
+               LSUSB - X - - -
+               DUNNO - X - - -
+                 FWP - X - - -
+                CDMA - X X - -
+            AXESSTEL - X - - -
+                 USB - X - - -
+                KIND - X O - -
+/PROC/BUS/USB/DEVICES - - X - -
+               MODEM - - X - -
+                HTTP - - S - -
+//PASTE.UBUNTULINUX.NL/4568 - - S - -
+                THIS - - - - S
+             ADAPTER - - - - O

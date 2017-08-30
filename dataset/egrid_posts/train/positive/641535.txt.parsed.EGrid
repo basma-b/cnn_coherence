@@ -1,0 +1,11 @@
+                ROOT S - - -
+                USER X - - -
+               GROUP O X - -
+              SYSTEM X - - -
+              PREFIX - X - -
+                SUDO - O - -
+             PROBLEM - O - -
+               ADMIN - X - -
+              GOTCHA - - X -
+            RECOVERY - - - X
+                GRUB - - - X

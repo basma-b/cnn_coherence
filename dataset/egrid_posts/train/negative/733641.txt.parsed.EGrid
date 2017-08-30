@@ -1,0 +1,27 @@
+            DHCLIENT O S - - - -
+          SOMETIHING - S - - - -
+                 DNS - X S - - -
+                DHCP - S - X - -
+                 MAN - X - - - -
+              SECOND - O - - - -
+              SERVER - S O - - -
+                  IP - X - - - -
+                TIME - - X - - -
+                THAT - - S - - -
+      NETWORKMANAGER - - S X - -
+            WIRELESS - - X - - -
+/ETC/DHCP3/DHCLIENT.CONF - - S - - -
+              CLIENT - - X - - -
+             NETWORK - - X - - -
+             MANAGER - - S - - -
+         RESOLV.CONF - - X - - -
+              ROUTER - - X - - -
+          PROPERTIES - - X - - -
+             TIMEOUT - - - O - -
+           INTERFACE - - - X - -
+                WORK - - - - - O
+               10.04 - - - - - O
+              LAPTOP - - - - - X
+             DESKTOP - - - - - X
+              THINGS - - - - - O
+            INTERNET - - - - - X

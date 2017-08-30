@@ -1,0 +1,22 @@
+             MACHINE S X - - - X -
+             WINDOWS S - - - - - -
+DISPLAY=YOURMACHINE:0.0 - S - - - - -
+                TYPE - X - - - X -
+               XHOST - O - - - S -
+                   + - S - - - - -
+                MESS - X - - - - -
+             MPLAYER - S - - - - -
+         HORIBLRMESS - X - - - - -
+             DISPLAY - S - - - X -
+   192.168.1.123:0.0 - X - - - - -
+            FIREWALL - X X - - - -
+                PORT - - - S - - -
+                 MAP - - - X - - -
+                OOPS - - - - X - -
+                  IP - - - - X S -
+              REMOTE - - - - X - -
+     REMOTEMACHINEIP - - - - - O -
+                  .. - - - - - O -
+                .145 - - - - - O -
+                  OK - - - - - X -
+                 YES - - - - - - X

@@ -1,0 +1,8 @@
+             COMMAND O - - S -
+             STARTUP X - - - -
+       /ETC/RC.LOCAL X - - - -
+                 YES - - - O -
+                POST - - - - O
+                 NET - - - - X
+                THIS - - - - X
+              ANSWER - - - - X

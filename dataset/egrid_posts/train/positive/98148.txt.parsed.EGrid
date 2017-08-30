@@ -1,0 +1,18 @@
+               SMBFS X O - -
+               ERROR - O O -
+                TAIL - O X -
+      SMB_FILL_SUPER - S - -
+                DATA - X - -
+            ARGUMENT - O - -
+                 LJL - - X -
+                CIFS - - X -
+                 VFS - - X -
+          CIFS_MOUNT - - S -
+                CODE - - O -
+               MOUNT - - - X
+                  -T - - - S
+USERNAME=WINDOWSUSER - - - O
+   PASSWORD=PASSWORD - - - O
+                  IP - - - O
+                NAME - - - O
+                   > - - - X

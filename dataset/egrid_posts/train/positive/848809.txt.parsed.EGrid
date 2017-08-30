@@ -1,0 +1,11 @@
+             NETWORK X S - - - S
+             SERVICE X X - - - -
+                SUDO - X X - - -
+                 ING - X - - X -
+     /INIT.D/NETWORK - S - - - -
+     /ETC/INIT.D/ETC - - O - - -
+                 ETC - - - O - -
+           SHORTENER - - - - O -
+ /ETC/INIT.D/NETWORK - - - - S -
+                /ETC - - - - - S
+            ANYTHING - - - - - O

@@ -1,0 +1,12 @@
+           PARTITION O - - O O -
+              UBUNTU O - - - - -
+             WINDOWS X - - X - -
+               SHARE - - - X - -
+               FILES - - - X - -
+               LINUX - - - X - -
+             DEFAULT - - - X - -
+              REPROS - - - X - -
+                SUDO - - - X - -
+             APT-GET - - - S - -
+                LINE - - - - X -
+          /ETC/FSTAB - - - - X -

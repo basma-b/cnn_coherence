@@ -1,0 +1,11 @@
+             COMMAND X - - - -
+               USERS X - - - -
+                SUDO - X - - -
+             ADDUSER - X - - X
+USERNAMEYOUWANTTOADD - X - - -
+      USERIWANTTOADD - S - - -
+       ADMINISTRATOR - O - - -
+                USER - - X - -
+                  ID - - O - -
+            IDNUMBER - - - - X
+          NAMEOFUSER - - - - X

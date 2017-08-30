@@ -1,0 +1,20 @@
+              MODULE S O - - -
+                LOAD O - - - -
+                BOOT X X - - -
+             PROCESS S - - - -
+        /ETC/MODULES O - - - -
+                THAT - S - - -
+              KERNEL - X - - -
+              OPTION - X - - -
+             HOTPLUG - - X - -
+           PARAMETER - - - O -
+/ETC/MODUTILS/ALSA-BASE - - - X -
+              DRIVER - - - O -
+               WHILE - - - - S
+                SIGN - - - - X
+             VERSION - - - - X
+            SECURITY - - - - X
+            INTEREST - - - - X
+             PACKAGE - - - - O
+                BITE - - - - O
+               FREAK - - - - X

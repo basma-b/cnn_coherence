@@ -1,0 +1,26 @@
+                RULE X - - - - - -
+              ACCESS O - O - - - -
+ SECURITY.UBUNTU.COM X - X - - O -
+             PLAACES X - - - - - -
+              UPDATE - - O - - - -
+            APT-GETS - - O - - - -
+             NETWORK - - X - - - -
+          CONNECTION - - S - - - -
+               PLACE - - S - - - -
+              SEARCH - - O - - - -
+            IPTABLES - - O X O - -
+                  IP - - S - - - -
+                IDEA - - - O - - -
+                 MAN - - - X - - -
+                PAGE - - - O - - -
+              _WHAT_ - - - - S - -
+                CASE - - - - X - -
+              SERVER - - - - X O -
+             APT-GET - - - - - S -
+                 ION - - - - - X -
+                PORT - - - - - S -
+             DEFAULT - - - - - X -
+/ETC/APT/SOURCES.LIST - - - - - X -
+IE.SECURITY.UBUNTU.COM - - - - - O -
+                 SET - - - - - - O
+            SECURITY - - - - - - X

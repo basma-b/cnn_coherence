@@ -1,0 +1,27 @@
+                IPV6 O - - - - - -
+                 VPS X - - - - - -
+               BLOCK - X - - - - -
+               SETUP - X - - - X -
+               EMAIL - X - - - X -
+       2001:4830:131 - O - - - - -
+                A000 - O - - - - -
+                 /64 - O - - - - -
+             ADDRESS - S - O O X -
+               INET6 - X - - - - -
+            IFCONFIG - X - - - - -
+                FE80 - O - X O - -
+            250:56FF - O - - - - -
+           FE98:8/64 - O - - - - -
+               PING6 - - O - - - -
+               ERROR - - O - - - -
+           CONFIGURE - - - S - - -
+           INTERFACE - - - X - - -
+                  ES - - - - X - -
+             DEFAULT - - - - X - -
+               ROUTE - - - - O - -
+             GATEWAY - - - - X X -
+/ETC/NETWORK/INTERFACES - - - - X - -
+                THIS - - - - - - O
+               HONOR - - - - - - S
+      ADVERTISEMENTS - - - - - - X
+/PROC/SYS/NET/IPV6/CONF/ETH0/ACCEPT_RA - - - - - - O

@@ -1,0 +1,9 @@
+           PARTITION O - - -
+            LINUXBOX X - - -
+             NETWORK X - - -
+                 NFS X - - -
+                  IP - X - -
+              FOLDER - X - -
+          MOUNTPOINT - X - -
+               SSHFS - - X -
+                  CD - - - X

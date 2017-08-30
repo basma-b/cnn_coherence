@@ -1,0 +1,16 @@
+                   ' S - - - -
+                SUDO X - - - -
+                  -A X - - - -
+              GUEST1 O - - - -
+            PASSWORD X - - - -
+               ENTRY O - - - -
+                USER X - X - -
+              SYSTEM - - X - -
+                NAME - - X - -
+                LINE - - - - X
+                TYPE - - - - X
+              EXPORT - - - - X
+                PATH - - - - X
+               PATH= - - - - O
+            /USR/BIN - - - - X
+            VARIABLE - - - - X

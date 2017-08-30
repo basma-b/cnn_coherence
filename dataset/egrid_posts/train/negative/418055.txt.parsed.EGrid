@@ -1,0 +1,12 @@
+             UPSTART S - -
+             CO:2345 O - -
+             RESPAWN O - -
+               TTYS0 O - -
+           VT100-NAV X - -
+        /ETC/INITTAB X - -
+                 DEF O - -
+        /ETC/EVENT.D X - -
+             INITTAB S - -
+           PARTITION - O X
+                DATA - X -
+              SYSTEM - X X

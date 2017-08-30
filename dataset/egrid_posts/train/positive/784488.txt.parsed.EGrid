@@ -1,0 +1,17 @@
+               ISSUE O - - - - - - - - -
+               BEGIN X - - - - - - - - -
+              ACCESS - O - - - - - - - -
+                USER - X - - - - - - - -
+             SUDOERS - - X S - - - - - -
+                FILE - - X - - - - - - -
+                HELP - - X - - - - - - -
+               HUMMM - - X - - - - - - -
+                 USE - - - X - - - - - -
+              VISUDO - - - X - - X - - -
+             COMMAND - - - X - - - - - -
+                ROOT - - - - X - S - - -
+             ACCOUNT - - - - X - - - - -
+                 RUN - - - - - - X - - -
+            MACTIMES - - - - - - X - - -
+                THAT - - - - - - - - - X
+               PASTE - - - - - - - - - X

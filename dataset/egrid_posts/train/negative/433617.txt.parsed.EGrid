@@ -1,0 +1,16 @@
+              ANYONE S - - - - -
+              BOOTUP X - - - - -
+            SEQUENCE O X - - - -
+               POWER - X - - - -
+              LAPTOP - X - - - -
+              KERNEL - X - - - -
+                BOOT - X O - - -
+                ACPI - X - - - -
+               ISSUE - X - - - -
+               START - - S - - -
+             UPGRADE - - O - - -
+                8.04 - - X - - -
+          ACPI=FORCE - - X - - -
+            ACPI=OFF - - X - - -
+                THIS - - - X - -
+         ASSUMPTIONS - - - - - O

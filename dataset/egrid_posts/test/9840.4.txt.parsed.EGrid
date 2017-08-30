@@ -1,0 +1,16 @@
+                USER S X - O - - - -
+               ADMIN - X X X - - - -
+             COMMAND - - S - - - - -
+                LIST - - O - - - - -
+               USERS - - X - - - - -
+               GROUP - - - X X - - -
+                SUDO - - - X - - - -
+                 USE - - - O - - - -
+                LINE - - - X - - - -
+                X:27 - - - X - - - -
+                ROOT - - - S - - - -
+                   * - - - - S - - -
+              ANYONE - - - - O - - -
+                MOST - - - - - - S -
+                HOOK - - - - - - X -
+               START - - - - - - X -

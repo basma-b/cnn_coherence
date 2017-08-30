@@ -1,0 +1,27 @@
+                  IP X - O O - - - -
+              APACHE X - - - - - - -
+              VHOSTS S S - X - - - -
+             ANYBODY S - - - - - - -
+               IDEAS O - - - - - - -
+           WEBSERVER - S - - - - - -
+             VERSION - O - - - - - -
+               APACE - X - - - - - -
+   2.2.16-1UBUNTU3.1 - - X - - - - -
+/ETC/APACHE2/SITES-ENABLED/ - - X - - - - -
+           SOMETHING - - X - - - - -
+     NAMEVIRTUALHOST - - X - - X X -
+         VIRTUALHOST - - X - - X - -
+             DEFAULT - - - X X - - -
+                   * - - - X - O O -
+                 LOG - - - X - - - -
+/VAR/LOG/APACHE2/ERROR.LOG - - - S - - - -
+/ETC/APACHE2/SITES-AVAILABLE/DEFAULT - - - X - - - -
+              CONFIG - - - X - - - -
+            HOSTNAME - - - O - - - -
+                  NO - - - - S - - -
+               VHOST - - - - X - - -
+            SITENAME - - - - - O - -
+               10.10 - - - - - O - -
+                   > - - - - - X - -
+                HOST - - - - - - O -
+        VIRTUALHOSTS - - - - - - O -

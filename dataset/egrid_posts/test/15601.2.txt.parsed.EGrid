@@ -1,0 +1,23 @@
+             COMMAND O - - -
+            TERMINAL X - - -
+              SYSTEM S - - -
+                BOOT X X - -
+                IDEA O - - -
+                THAT - S - -
+                SUDO - X - -
+                  SH - X - -
+                  -C - S - -
+                   > - O - -
+/ETC/LIGHTDM/LIGHTDM.CONF - S - -
+              SCREEN - S - -
+                  .. - O - -
+                  CD - O - -
+        LIGHTDM.CONF - O - -
+                LINE - O - -
+                 WAY - - S -
+              KERNEL - - S -
+              CHANGE - - X X
+          DEPENDENCY - - X X
+             PACKAGE - - X O
+             APT-GET - - - S
+        DIST-UPGRADE - - - O

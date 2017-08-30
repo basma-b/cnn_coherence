@@ -1,0 +1,14 @@
+               POINT X - -
+            FIREWALL X - -
+               USERS S - -
+             ROUTERS X - -
+            WIRELESS - X -
+             HACKERS - X -
+                FSCK - - S
+                READ - - X
+              ERRORS - - X
+             JOURNAL - - X
+          SUPERBLOCK - - O
+                   < - - X
+         BACKUPBLOCK - - X
+                   > - - X

@@ -1,0 +1,14 @@
+                NAME X - - -
+                 USE - O - -
+              NVIDIA - X - -
+             DRIVERS - S - -
+          VIRTUALBOX - X - -
+                SUDO - S - -
+             APT-GET - X X -
+              UPDATE - O X -
+             PACKAGE - X - -
+             RELEASE - X - -
+                 PPA - - O -
+     LIBREOFFICE/PPA - - X -
+        DIST-UPGRADE - - - X
+          OPENOFFICE - - - O

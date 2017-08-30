@@ -1,0 +1,14 @@
+    PROOF-OF-CONCEPT S - - - - - - - -
+   2.6.22-14-GENERIC X - - - - - - - -
+                 ANY - - S - - - - - -
+                 GCC - - - - X - - - -
+                  -O - - - - S - - - -
+           EXPLOIT.C - - - - O - - - -
+                 USE - - - - - S - - -
+         SOUNDSERVER - - - - - X - - -
+                 ESD - - - - - - O - -
+              OUTPUT - - - - - - X - -
+              SIMPLE - - - - - - X - -
+            DESKTOPS - - - - - - - O -
+           SITUATION - - - - - - - O -
+             FLUXBOX - - - - - - - - O

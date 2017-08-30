@@ -1,0 +1,14 @@
+           MKFS.EXT3 - O - - -
+           PARTITION - O - - -
+                NTFS - X - - -
+                  -L - X - - -
+             COMMAND - O - - -
+               ENTRY - - S - -
+         PARTITITION - - X - -
+               TABLE - - X - -
+          FILESYSTEM - - S - -
+                  OK - - X - -
+               THERE - - - - S
+              OPTION - - - - O
+          PREFERENCE - - - - X
+                 USB - - - - X

@@ -1,0 +1,28 @@
+                 HEY X - - - - - - - -
+              ANYONE X - - - - - - - -
+                BITE O - - - - - - - -
+                 CPU X X - - - - - - -
+  SCALING/THROTTLING X - - - - - - - -
+              LAPTOP X X - - - - - - -
+                 AMD - - X - - - - - -
+              ATHLON - - S - - - - - -
+           FREQUENCY - - S - - - - - -
+            TERMINAL - - X - - - - - -
+                 CAT - - X - X - - - -
+        /DEV/URANDOM - - X - - - - - -
+                   > - - S - - - - - -
+            INCREASE - - O - - - - - -
+               SCALE - - - X - - - - -
+            GOVERNOR - - - X - - - - -
+/SYS/DEVICES/SYSTEM/CPU/CPU0/CPUFREQ/SCALING_GOVERNOR - - - - O - - - -
+              OUTPUT - - - - O - - - X
+             COMMAND - - - - X - - - -
+/SYS/DEVICES/SYSTEM/CPU/CPU0/ - - - - - S - - -
+               CACHE - - - - - X - - -
+                WORK - - - - - - X - -
+               3000+ - - - - - - O - -
+                CORE - - - - - - O - -
+                  NO - - - - - - - X -
+                 SIR - - - - - - - X -
+               DMESG - - - - - - - - X
+            POWERNOW - - - - - - - - X

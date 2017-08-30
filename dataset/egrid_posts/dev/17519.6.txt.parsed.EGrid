@@ -1,0 +1,10 @@
+                 UFW X - -
+            IPTABLES X - -
+                ISNT S - -
+                 RUN O - -
+                NEED X - -
+              DEVICE - - S
+              INSERT - - O
+                 KEY - - O
+               CHECK - - X
+                BIOS - - O

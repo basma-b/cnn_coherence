@@ -1,0 +1,9 @@
+              SERVER O - - -
+             NETWORK X - - -
+            WIRELESS X - - -
+/ETC/NETWORK/INTERFACES S - - -
+                 USE O - - -
+                WIFI O - - -
+                 WPA - X X -
+                HTTP - - - X
+       WPASUPPLICANT - - - X

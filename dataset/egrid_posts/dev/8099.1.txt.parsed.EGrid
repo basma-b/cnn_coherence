@@ -1,0 +1,31 @@
+      BALAJI-DESKTOP - X X - - - - - - -
+                   ~ - X - - - - - - - -
+           TRACEBACK - X - - - - - - - -
+                CALL - X - - - - - - - -
+/USR/SBIN/UPDATE-APT-XAPIAN-INDEX - O - - - - - - - -
+                LINE - X - - - - - - - -
+                   > - X - - - - - - - -
+                 RES - X - - - - - - - -
+         UPDATEINDEX - S - - - - - - - -
+              DBPATH - X - - - - - - - -
+              ADDONS - X - - - - - - - -
+            PROGRESS - X - - - - - - - -
+               CACHE - S - - - - - - - -
+        MEMONLY=TRUE - X - - - - - - - -
+PROGRESS=APTPROGRESS - X - - - - - - - -
+               SORRY - O - - - - - - - -
+             APT-GET - - S - - - - - - -
+             READING - - X - - - - - - -
+             PACKAGE - - X X - - - - - -
+                LIST - - X S - - - - - -
+                  .. - - O - - - - - - -
+               ERROR - - X - - - - - - -
+                FILE - - - S - - - - - -
+                   E - - - X - - - - - -
+/VAR/LIB/DPKG/STATUS - - - X - - - - - -
+           DIRECTORY - - - X - - - - - -
+              STATUS - - - X - - - - - -
+              UPDATE - - - - X S - - - -
+                 FUN - - - - X - - - - -
+       NOTIFICATIONS - - - - - - O - - -
+             WEBSITE - - - - - - - - - X

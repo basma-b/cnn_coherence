@@ -1,0 +1,12 @@
+            /TARGET/ X - -
+                SHOW X - -
+               WHATS S - -
+                COPY O - -
+            /SOURCE/ - S -
+                SAME - O -
+          CONNECTION - - X
+             MANAGER - - S
+                   | - - X
+                GREP - - X
+GNOME-CONNECTION-MANAGER - - S
+              BINARY - - O

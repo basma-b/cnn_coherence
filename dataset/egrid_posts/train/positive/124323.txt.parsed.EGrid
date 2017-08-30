@@ -1,0 +1,16 @@
+                   ' S - - - - - -
+                  IM S - - - - - -
+                NTFS X - X - - - -
+           PARTITION O - X - - - O
+              UBUNTU S - - - - - -
+              FOLDER X - - - - - -
+         /MEDIA/SDA2 O - - - - - -
+                MP3S - - O - - - -
+          /ETC/FSTAB - - - X - - X
+               STUFF - - - O - - -
+               HTTPS - - - X - - -
+//WIKI.UBUNTU.COM/AUTOMATICALLYMOUNTPARTITIONS - - - X - - -
+         ACTION=SHOW - - - - S - -
+               ERROR - - - - - - O
+              SCRIPT - - - - - - O
+          PERMISSION - - - - - - O

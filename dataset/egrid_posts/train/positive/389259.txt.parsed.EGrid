@@ -1,0 +1,17 @@
+           OWNERSHIP O - - - - -
+               DRIVE X - - - - -
+               OWNER O - - O - -
+                ROOT X - - - - -
+                TIME - X O X X -
+                SUDO - X - - - -
+               CHOWN - X - - - -
+                RUUD - X - - - -
+    /MEDIA/DRIVENAME - S - - - -
+             REMOUNT - O - - - -
+                  -O - X - - - -
+              UID=ME - X - - - -
+               STUFF - X - - - -
+                THIS - S - O - -
+                LINE - - - - O -
+               FSTAB - - - - X -
+               FAT32 - - - - O -

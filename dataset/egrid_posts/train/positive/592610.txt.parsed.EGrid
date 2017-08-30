@@ -1,0 +1,18 @@
+/ETC/SECURITY/ACCESS.CONF X - - X - - - -
+              ACCESS O - - - - - - -
+                HOST X X - - - - - -
+                SSHD - X - - - - - -
+               ENTRY - - X - - - - -
+               POINT - - S - - - - -
+             SEVERAL - - O - - - - -
+                 RSH - - X - - - - -
+              TELNET - - X - - - - -
+                 ETC - - X - - - - -
+             DEFAULT - - - X - - - -
+               CHECK - - - X - - - -
+                KIND - - - - - X - -
+      AUTHENTICATION - - - - - X - -
+               THERE - - - - - - S -
+                PORT - - - - - - S -
+             NETSTAT - - - - - - X -
+              -PLUNT - - - - - - X -

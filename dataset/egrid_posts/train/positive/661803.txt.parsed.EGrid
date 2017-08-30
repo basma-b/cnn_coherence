@@ -1,0 +1,16 @@
+                 WAY X - - -
+                 TAR X X - -
+           PARTITION X - - -
+         PERMISSIONS - X - -
+            SYMLINKS - S - -
+                CZVF - X - -
+          BACKUP.TGZ - X - -
+      /PATH/TO/FILES - S - -
+                 USE - O - -
+               PATHS - S - O
+              ROOTFS - X - -
+            ACCIDENT - X - -
+            SYNDROME - O - -
+               STORE - X - -
+            TARBALLS - - - S
+                FILE - - - X

@@ -1,0 +1,27 @@
+                   > X - X - - - - X
+                CRON X - X X - O - -
+                 JOB X - S - - - - -
+              OUTPUT S O - - - O O -
+         REDIRECTION X - - - - - - -
+                FILE X - - X - X - X
+               EMAIL X S - - - - - X
+             LOGFILE X - - - - - - -
+                THIN - X - - - - - -
+                NAME - X - - - - - -
+                   * - - X - - - - -
+/HOME/ORACLE/TEST.SH - - X - - - - -
+/HOME/ORACLE/TEST.LOG - - X - - - - -
+            TEST.LOG - - X S - S - -
+              MINUTE - - O - - - - -
+                 ASK - - - X - - - -
+                 LOG - - - S O - - -
+            TERMINAL - - - X - - - -
+               THING - - - - S - - -
+           SITUATION - - - - X - - -
+              SCRIPT - - - - - - S -
+             WEBPAGE - - - - - - - S
+                 USE - - - - - - - S
+                HTTP - - - - - - - O
+           //WEBPAGE - - - - - - - X
+/HOME/ORACLE/WEBPAGE.HTML - - - - - - - X
+             PROBLEM - - - - - - - S

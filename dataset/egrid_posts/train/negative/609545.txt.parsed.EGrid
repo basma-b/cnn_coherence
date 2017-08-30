@@ -1,0 +1,16 @@
+     PERMITROOTLOGIN - X X - - - -
+       AUTHORIZATION - O - - - - -
+              BACKUP - X - - - - -
+             MACHINE - X - - - - -
+               NOPWD - - S - - - -
+                 KEY - - X - - - -
+                THIS - - S - - - -
+                  .. - - O X - - -
+               LOGIN - - O - - - -
+              ANYONE - - O - - - -
+                 LOG - - X - - - -
+                ROOT - - X - X - -
+                THAT - - - S S - -
+              SERVER - - - - S - -
+                WIKI - - - - - - O
+                 LOT - - - - - - O

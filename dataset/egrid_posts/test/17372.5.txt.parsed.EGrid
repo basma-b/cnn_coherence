@@ -1,0 +1,21 @@
+             SERVICE X - - - - - - - - - - - -
+               MYSQL S - - - - - - - - - - - -
+/VAR/LOG/MYSQL/ERROR.LOG - S - X - - - - - - - - -
+              REASON - O - - - - - - - - - - -
+  /VAR/LOG/MYSQL.ERR - - S - - - - - - - - - -
+                 YES - - X - - - - - - - - - -
+                THIS - - - - - X - - - - - - -
+             STARTUP - - - - - X X - - - - - -
+              SCRIPT - - - - - - O - - - - - -
+   GENERAL_ERROR_LOG - - - - - - - O - - - - -
+   /ETC/MYSQL/MY.CNF - - - - - - - X - - - - -
+             SERVERS - - - - - - - - X - - - -
+               12.04 - - - - - - - - - S - - -
+               ERROR - - - - - - - - - X - - -
+                 LOG - - - - - - - - - S - - -
+                 BOX - - - - - - - - - X - - -
+              ROOTFS - - - - - - - - - S - - -
+                THAT - - - - - - - - - - S - -
+            ANYTHING - - - - - - - - - - O - -
+              STDERR - - - - - - - - - - - X -
+                GZIP - - - - - - - - - - - - S

@@ -1,0 +1,20 @@
+                DISK - X - -
+            /DEV/SDA - S - -
+           PARTITION - X - -
+               TABLE - O - -
+                TYPE - X - -
+             TUNE2FS - S - -
+                 HDD - O - -
+            EXTERNAL - - S -
+                FSCK - - O X
+                  DD - - O -
+           SOMETHING - - S -
+               IMAGE - - X -
+               DRIVE - - X -
+              BACKUP - - X -
+                HTTP - - X -
+//PASTE.UBUNTU-NL.ORG/28783/ - - X -
+                  -C - - - O
+                  .. - - - X
+                   < - - - S
+              DINNER - - - X

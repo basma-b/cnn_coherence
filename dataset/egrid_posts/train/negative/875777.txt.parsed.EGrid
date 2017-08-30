@@ -1,0 +1,22 @@
+              DEVICE S O - - O S O - - -
+                BIND O - - - - - - - - -
+       SND-USB-AUDIO - X - - - - - - - -
+             COMMAND - X - - - - - - - -
+                LINE - X - - - - - - - -
+             MPLAYER - X - - - - - - - -
+               VIDEO - - O - - - - - - -
+         /DEV/VIDEO0 - - X - - - - - - -
+               AUDIO - - O - - - - - - -
+             ENTRIES - - - S - - - - - -
+               DMESG - - - X - - - - - -
+                HTTP - - - S - - - - - -
+//PASTE.UBUNTU.COM/789239/ - - - S - - - - - -
+               LSUSB - - - S - - - - - -
+//PASTE.UBUNTU.COM/789240/ - - - S - - - - - -
+                   T - - - S - - - - - -
+    /DEV/DISK/BY-ID/ - - - X - - - - - -
+               THERE - - - - X - - - - -
+                DISK - - - - - X - - - -
+        /DEV/V4L/BY- - - - - - - - X - -
+                   * - - - - - - - O - -
+              FUTURE - - - - - - - - - X

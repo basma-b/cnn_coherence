@@ -1,0 +1,7 @@
+                USER O - - -
+             MACHINE X X - -
+            POINTERS - X - -
+            SECURITY - O - -
+            IPTABLES - - X X
+                 UFW - - X -
+                 GUI - - - X

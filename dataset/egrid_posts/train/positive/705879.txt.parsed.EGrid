@@ -1,0 +1,33 @@
+    INDICATOR-APPLET O - -
+GNOME-VOLUME-CONTROL-APPLET O - -
+SYSTEM/PREFERENCES/STARTUP X - -
+        APPLICATIONS X - -
+                 ONE O - -
+                 TKS X - -
+             SESSION X - -
+              APPLET O - -
+                LOCK X - -
+              SCREEN S X -
+               GUEST X - -
+                 LOG S - -
+                 ETC X - -
+               THING O - -
+INDICATOR-APPLET-SESSION O - -
+             OPTIONS O - -
+              SYSTEM X - -
+                MENU X - -
+            SHUTDOWN X - -
+                 WAY X - -
+              BUTTON O - -
+               PANEL X - -
+              STATUS - X -
+                PART - X -
+             APPLETS - O -
+/USR/SHARE/DBUS-1/SERVICES/ORG.FREEDESKTOP.NOTIFICATIONS.SERVICE - X X
+                FILE - O -
+                WORK - X -
+        NOTIFICATION - S -
+                SUDO - - X
+/USR/SHARE/DBUS-1/SERVICES/ORG.FREEDESKTOP.NOTIFICATIONS.SERVICE.DISABLED - - S
+               RIGHT - - O
+/USR/LIB/NOTIFY-OSD/NOTIFY-OSD - - O

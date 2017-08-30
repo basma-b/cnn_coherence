@@ -1,0 +1,14 @@
+               12.04 X - - -
+               12.10 X - - -
+             COMMAND X - - -
+                LINE X - - -
+                 APT - X - -
+                TOOL - X - -
+             RELEASE - X - -
+              SYSTEM - X - -
+             INSTALL - - S -
+                 LTS - - X S
+               STOCK - - O -
+              SOURCE - - X -
+             PACKAGE - - X -
+            AUTOMAKE - - S -

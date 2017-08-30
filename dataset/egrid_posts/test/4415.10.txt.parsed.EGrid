@@ -1,0 +1,21 @@
+             MAILMAN - X - - - - - -
+                 USE - O - - - - - -
+                HTTP - X - - - - - -
+//MYHOST.COM/CGI-BIN - S - - - - - -
+               ERROR - X - - - - - -
+                PAGE - - X - - - - -
+               HTTPS - - X - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/MAILMAN - - X - - - - -
+             POSTFIX - - X - - - - -
+                PORT - - O - - - - -
+             MACHINE - - X - - - - -
+              FOLDER - - - - - O - -
+            LOCATION - - - - - - S -
+                  -S - - - - - - X -
+             WINDOWS - - - - - - X -
+   LOCAL_FOLDER_NAME - - - - - - S -
+             DEFAULT - - - - - - X -
+              UBUNTU - - - - - - X -
+             DESKTOP - - - - - - X -
+         ENVIRONMENT - - - - - - S -
+                  NP - - - - - - - X

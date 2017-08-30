@@ -1,0 +1,21 @@
+              UBUNTU O - - - - - -
+              LIVECD X - X - - - -
+          BOOTLOADER S - - - - - -
+                GRUB X - O - - O -
+                SUDO - X - - - - -
+/PATH/TO/YOUR/LINUX/DRIVES/MOUNTPOINT - X - - - - -
+            /DEV/SDA - S - - - - -
+               /BOOT - S - - - - -
+               MOUNT - O - - - - -
+                THAT - - O - - - -
+                TOOL - - O - - - -
+              THANKS - - - X - - -
+               ORDER - - - - - X -
+               SETUP - - - - - X -
+                THIS - - - - - - S
+                LINE - - - - - - O
+              KERNEL - - - - - - X
+     /FOLDER/VMLINUZ - - - - - - S
+PERSISTENT-PATH=/FOLDER - - - - - - O
+              DISTRO - - - - - - O
+               IDEAS - - - - - - X

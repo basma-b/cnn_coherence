@@ -1,0 +1,17 @@
+              OUTPUT X - - - -
+                SUDO X - - - -
+            IFCONFIG X - - - -
+                SAME - S - - -
+              BRIDGE - X - - -
+          CONNECTION - X - - -
+              LAPTOP - X - - -
+                WIRE - X - - -
+              ROUTER - X - - -
+              TUNNEL - X - - -
+                 USE - X - - -
+                 BOX - X - - -
+               PROXY - X - - -
+                 ETH - - X - -
+                ETH1 - - - - X
+             ADDRESS - - - - X
+                ETH0 - - - - X

@@ -1,0 +1,44 @@
+                  HI S - - - - - - - - - - - - - - -
+                BODY O - - - - - - - - - - - - - - -
+              UBUNTU - O - - - - - - - - - - - - - -
+                6.10 - X - - - - - - - - - - - - - -
+              KERNEL - O - - - - - - - - - - - - - -
+              ENVIDA - X - - - - - - - - - - - - - -
+             DRIVERS - X - - - - - - - - - - - - - -
+             APT-GET - - S - - - - - - S - - - - X -
+                  -R - - S - - - - - - - - - - - - -
+                  .. - - O O - - - - - - - - X - - -
+     BUILD-ESSENTIAL - - - X - - - - - - - - - - - -
+        DEPENDENCIES - - - X - - - - - - - - - - - -
+           LIBC6-DEV - - - X - - - - - - - - - - - -
+            LIBC-DEV - - - O - - - - - - - - - - - -
+                 G++ - - - X X - - - - - - - - - - -
+                   > - - - X X - - - - - - - - - - -
+                EDGY - - - - - - X - - - - - - - - -
+                SUDO - - - - - - - - - X - - - - X -
+                 GCC - - - - - - - - - X S - - - - -
+             VERSION - - - - - - - - - - X - - - - -
+            DOWNLOAD - - - - - - - - - - - X - - - -
+                NOTE - - - - - - - - - - - X - - - -
+               BERYL - - - - - - - - - - - O - O - -
+1.0.8776+2.6.17.7-11.2 - - - - - - - - - - - - X X - -
+                MIND - - - - - - - - - - - - X - - -
+              READER - - - - - - - - - - - - X - - -
+          NVIDIA-GLX - - - - - - - - - - - - - S - -
+            EVERYONE - - - - - - - - - - - - - S - -
+                   D - - - - - - - - - - - - - X - -
+                TYPE - - - - - - - - - - - - - - X -
+      NVIDIA-XCONFIG - - - - - - - - - - - - - - X -
+ADD-ARGB-GLX-VISUALS - - - - - - - - - - - - - - O -
+                 NEW - - - - - - - - - - - - - - - X
+                   X - - - - - - - - - - - - - - - X
+       CONFIGURATION - - - - - - - - - - - - - - - S
+                FILE - - - - - - - - - - - - - - - O
+  /ETC/X11/XORG.CONF - - - - - - - - - - - - - - - O
+             .OPTION - - - - - - - - - - - - - - - X
+   ADDARGBGLXVISUALS - - - - - - - - - - - - - - - X
+                TRUE - - - - - - - - - - - - - - - X
+            TOSCREEN - - - - - - - - - - - - - - - X
+             DEFAULT - - - - - - - - - - - - - - - X
+              SCREEN - - - - - - - - - - - - - - - X
+/ETC/X11/XORG.CONF.BACKUP - - - - - - - - - - - - - - - X

@@ -1,0 +1,8 @@
+           PARTITION O - - - - -
+               RSYNC - O X - - -
+                DONT - X - - - -
+             OPTIONS - X - - - -
+                 -AS - - S - - -
+              ERRORS - - - - X -
+              CHEESE - - - - - O
+                ROOT - - - - - X

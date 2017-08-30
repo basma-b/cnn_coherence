@@ -1,0 +1,17 @@
+                NTFS X - - -
+             WINDOWS X X - -
+           PARTITION X - - -
+                THAT - X - -
+              MANUAL - O - -
+              CONFIG - O - -
+              WIZARD - S - -
+                 MAP - X - -
+                USER - O - -
+            PVCREATE - - - S
+ /DEV/MAPPER/PVCRYPT - - - S
+            PHYSICAL - - - X
+              VOLUME - - - X
+               GROUP - - - S
+                ROOT - - - S
+                  -L - - - O
+                   % - - - X

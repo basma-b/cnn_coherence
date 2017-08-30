@@ -1,0 +1,10 @@
+            DISALLOW O - - - - - -
+               MOUNT X - - - - - -
+           PARTITION X X - - - - -
+               ENTRY - O - - - - -
+                SWAT - - - X - - -
+            FRONTEND - - - X - - -
+              SOURCE - - - - X - -
+                DIRS - - - - O - -
+           SOMETHING - - - - - X -
+         DIRECTORIES - - - - - - O

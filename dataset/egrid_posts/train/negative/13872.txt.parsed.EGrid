@@ -1,0 +1,6 @@
+           SMBCLIENT S -
+                USER O -
+         /MOUNTPOINT O -
+               SHARE O -
+             COMMAND X -
+             SESSION - S

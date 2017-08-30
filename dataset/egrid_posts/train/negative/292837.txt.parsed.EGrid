@@ -1,0 +1,15 @@
+                TIME X - - -
+              SERVER X - - -
+             APT-GET O - - -
+                  CD X O X -
+               THERE - X - -
+           REFERENCE - - O -
+        SOURCES.LIST - - X -
+               -RW-R - - - X
+                ROOT - - - X
+                 UFW - - - S
+                 END - - - O
+            IPTABLES - - - X
+                NONE - - - S
+                RULE - - - X
+   IPTABLES.UP.RULES - - - X

@@ -1,0 +1,16 @@
+                  == S - - -
+               10.04 - S - -
+              THREAD - O - -
+       MUTLI-PROCESS - X - -
+             REQEUST - S - -
+             PROCESS - S O -
+         CONNECTIONS - O - -
+                LIST - O - -
+                EACH - - S -
+             APACHE2 - - S -
+              SYSTEM - - S -
+                  PS - - X -
+                   | - - X -
+                GREP - - X -
+          CONNECTION - - O -
+                  CD - - - O

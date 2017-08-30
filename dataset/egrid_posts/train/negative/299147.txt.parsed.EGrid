@@ -1,0 +1,15 @@
+                HI.I S - - - -
+    QUESTION.COMMAND S - - - -
+               -PERM X - - - -
+                SHOW O - - - -
+                SUID O - - - -
+              BIT.SO X - - - -
+         /BIN/UMOUNT X - - - -
+                TYPE X - - - -
+             COMMAND X - - - -
+      MY_FILE_SYSTEM X - - - -
+                ROOT S - - - -
+              ANYONE - - X - -
+            QUESTION - - - O -
+                  ^5 - - - - X
+                   D - - - - X

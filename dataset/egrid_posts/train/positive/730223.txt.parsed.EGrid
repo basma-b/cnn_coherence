@@ -1,0 +1,14 @@
+                HELP X S -
+               IMAGE X X -
+             RESIZER O - -
+              UBUNTU X - -
+               TRUST - X -
+                  .. - O -
+         COMMANDLINE - X -
+                 USE - X -
+         IMAGEMAGICK - X -
+                HTTP - O -
+//WWW.IMAGEMAGICK.ORG/WWW/MOGRIFY.HTML - X -
+             COMMAND - - S
+                   % - - X
+                FILE - - O

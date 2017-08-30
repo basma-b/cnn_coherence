@@ -1,0 +1,37 @@
+               WHICH S - - - - - - - - -
+            OPENSUSE X - - - - - - - - -
+       SUPERGRUBDISK O - - - - - - - - -
+                BOOT O - X - - - - - - -
+                 MBR X - - - - - - - - -
+                REST X - - - - - - - - -
+              FORMAT X - - - - - - - - -
+            SYSLINUX O - - - - - - - - -
+                 ALL S - - - - - - - - -
+               THESE X - - - - - - - - -
+                 CDS O - - - - - - - - -
+                LOOP X - - - - - - - - -
+                 ISO X - - - - - - - - -
+                FILE O - - - - - - - - -
+               GRUB2 X X O - X - - - - -
+                HTTP X - - - - - - - - -
+//WWW.SUPERGRUBDISK.ORG/WIKI/LOOPBACK.CFG X - - - - - - - - -
+                 HMM - X - - - - - - X X
+               THOSE - X - - - - - - - -
+           SOMETHING - O - - - - - - O -
+            EXTLINUX - X - - - - - - - -
+                GRUB - - X X - - - - - -
+              LEGACY - - O X X - - - - -
+          BOOTLOADER - - X - - - - - - -
+              SECTOR - - X - - - - - - -
+                SUDO - - X - - - - - - -
+        GRUB-INSTALL - - X - X - - - - O
+            /DEV/SDA - - X - - - - - - -
+GRUB-SETUP=/BIN/TRUE - - X - - - - - - -
+                ROOT - - - X - - - - - -
+                 HDX - - - X - - - - - -
+                   Y - - - X - - - - - -
+              KERNEL - - - X - - - - - X
+      /GRUB/CORE.IMG - - - X - - - - - X
+                THAT - - - - X - - - - -
+              UBUNTU - - - - - - - - X -
+             COMMAND - - - - - - - - O -

@@ -1,0 +1,10 @@
+           PARTITION S - - - - -
+                   % X - - - - -
+              SYSTEM S - - - - -
+                WORK O - - - - -
+              KERNEL - X - - - -
+             PACKAGE - X - - - -
+                 USE - - X - - -
+             APT-GET - - O - - X
+              ERRORS - - O - - -
+           SOMETHING - - - X - -

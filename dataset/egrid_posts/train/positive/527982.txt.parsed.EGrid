@@ -1,0 +1,11 @@
+             PROGRAM X - - -
+                CALL S - - -
+             SYSLOGD S - - -
+             MESSAGE O - - -
+                FILE - X - -
+                NAME - X - -
+                PIPE - X - -
+                 ETC - X - -
+     /VAR/LOG/SYSLOG - - X -
+                TIME - - - X
+              SYSLOG - - - O

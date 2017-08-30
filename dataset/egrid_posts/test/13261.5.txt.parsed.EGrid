@@ -1,0 +1,12 @@
+               DRIVE O - - S - X - - -
+      /MEDIA/MYDRIVE X - - - - - - - -
+               MYDIR - O - - - - - - -
+          PERMISSION - S - - X - - - -
+                SUDO - - S - - - - - X
+         AUTOMOUNTED - - - O - - - - -
+              UBUNTU - - - X - - - - -
+           DIRECTORY - - - - X - - - -
+          FILESYSTEM - - - - - X - - -
+                THIS - - - - - - - - O
+                NANO - - - - - - - - X
+/ETC/POLKIT-1/LOCALAUTHORITY/50-LOCAL.D/COM.UBUNTU.DESKTOP.PKLA - - - - - - - - X

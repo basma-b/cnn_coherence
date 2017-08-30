@@ -1,0 +1,17 @@
+             SOMEONE S - - -
+              INITRD S O - -
+            RADEONFB O O - -
+             VGA16FB X - - -
+             OPTIONS - S - -
+ /BOOT/GRUB/MENU.LST - X - -
+/ETC/MKINITRAMFS/MODULES - X - -
+              MODULE - S - -
+              CHANGE - X - -
+              KERNEL - X - -
+              OPTION - S - -
+            MENU.LST - X - -
+           SYNAPTICS - - S -
+            TOUCHPAD - - X -
+               MAKER - - O -
+               YEARS - - X -
+          MULTITOUCH - - - O

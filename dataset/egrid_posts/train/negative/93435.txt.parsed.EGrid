@@ -1,0 +1,13 @@
+             PACKAGE O S -
+                 USE - O -
+            APTITUDE - O -
+            SYNAPTIC - O -
+             APT-GET - X -
+                SHOW - X -
+                 LOT - O -
+             RESIDUE - X -
+                JUNK - O -
+           DEBORPHAN - X -
+               CHECK - X -
+               ISSUE - - O
+                RAID - - X

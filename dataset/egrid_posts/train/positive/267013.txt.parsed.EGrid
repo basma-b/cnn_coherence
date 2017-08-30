@@ -1,0 +1,9 @@
+              SYSTEM O - - - - -
+              SWITCH X - - - - -
+            PATITION - O - - - -
+               DRIVE - X - - - -
+              UBUNTU - X X - - -
+               /BOOT - - X - X -
+           PARTITION - - X X O -
+           GRUB.CONF - - X - - -
+                SWAP - - X - - X

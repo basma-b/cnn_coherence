@@ -1,0 +1,8 @@
+               500GB O - - - -
+            /DEV/SDB X - - - -
+           PARTITION O - - - -
+             DEFAULT - - O - -
+                SIZE - - - X -
+           AUTOMATIC - - - S -
+              10GIGS - - - X -
+                GIGS - - - - O

@@ -1,0 +1,10 @@
+/PROC/SYS/NET/IPV4/IP_FORWARD X - - -
+                BOOT X - - -
+                  .. X - - -
+                THIS X - - -
+       /ETC/RC.LOCAL X - - -
+                EXIT - S - -
+NET.IPV4.IP_FORWARD=1 - O - -
+                   * - X - -
+                 TIP - - X -
+               THANK - - - X

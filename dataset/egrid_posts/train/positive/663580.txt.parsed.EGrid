@@ -1,0 +1,6 @@
+             MAKEDEV S -
+                FILE X -
+              XFBDEV O -
+            /DEV/FB0 O -
+         FRAMEBUFFER - X
+              DRIVER - X

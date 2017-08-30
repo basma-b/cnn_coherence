@@ -1,0 +1,11 @@
+             COMMAND X - - - - -
+                LINE X - - - - -
+                 API S O - - - -
+            PASTEBIN - X - - - -
+                HTTP - - X - - -
+              SYNTAX - - - - - S
+                SUDO - - - - - X
+                 UFW - - - - - S
+                 TCP - - - - - O
+                 ANY - - - - - X
+         60000:65535 - - - - - X

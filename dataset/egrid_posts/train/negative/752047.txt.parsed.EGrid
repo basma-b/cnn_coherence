@@ -1,0 +1,14 @@
+           FUSE-EXT2 S - - - -
+               INODE X - - - -
+              BITMAP O - - - -
+                MEAN X - - - -
+               DRIVE - O - - -
+            EXT2FUSE - X - - -
+                FUSE - O - - -
+                EXT2 - - S - -
+              UBUNTU - - X - -
+              KERNEL - - X - -
+                DATA - - - O -
+                  HD - - - X -
+                 NAS - - - X -
+              RADEON - - - - S

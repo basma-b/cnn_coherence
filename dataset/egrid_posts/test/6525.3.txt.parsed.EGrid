@@ -1,0 +1,15 @@
+                 -P1 O - - -
+              SOURCE X - - -
+           DIRECTORY S - - -
+               PATCH S O - -
+              FOLDER X - - -
+                  CD X - - -
+             SOURCE/ O - - -
+                  .. S - - -
+          LXTERMINAL O - - -
+                LINK - X - -
+                CRDA - - - X
+              SYSTEM - - - S
+                 NOE - - - X
+                WIRE - - - X
+          CONNECTION - - - O

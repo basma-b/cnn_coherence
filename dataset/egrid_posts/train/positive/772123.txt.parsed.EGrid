@@ -1,0 +1,13 @@
+              SCRIPT O - - -
+                SUDO S - - -
+         OTHERSCRIPT X - - -
+        /ETC/SUDOERS O - - -
+                USER S - - -
+            PASSWORD X - - O
+            SECURITY X - - -
+                RISK X - - -
+                THAT - O - -
+             COMMAND - X - X
+               SETUP - - - X
+             SUDOERS - - - S
+                 ONE - - - X

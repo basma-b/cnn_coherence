@@ -1,0 +1,12 @@
+                TIME S - - -
+              BRIDGE - S - X
+                 WAY - O - -
+            ETHERNET - X - -
+             SEGMENT - O - -
+            PROTOCOL - X - -
+             PACKETS - - S -
+             ADDRESS - - X -
+              ROUTER - - X -
+             FORWARD - - - S
+               LAYER - - - X
+           PROTOCOLS - - - S

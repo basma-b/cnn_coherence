@@ -1,0 +1,16 @@
+             PROFTPD - O - - - - - - - - -
+              SERVER - X - - - - - - - - -
+   USERNAME/PASSWORD - X - - - - - - - - -
+               LOGIN - - X - - - - - - - -
+                USER - - S - - - - - X - -
+            TESTUSER - - X - - - - - - - -
+            PASSWORD - - O - - - - - - - -
+               ERROR - - X - - - - - - - -
+                  WM - - - - - X - - - - -
+              WINDOW - - - - - - X - - - -
+             MANAGER - - - - - - X - - - -
+                NONE - - - - - - - X - - -
+                  .. - - - - - - - - O - -
+               GROUP - - - - - - - - X - -
+              PROFTP - - - - - - - - - - X
+                 FTP - - - - - - - - - - X

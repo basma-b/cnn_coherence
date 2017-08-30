@@ -1,0 +1,14 @@
+              RESIZE X - - - -
+          FILESYSTEM X O - - -
+              VMWARE - X - - -
+                DISK - O - - -
+           PARTITION - X - - -
+           RESIZE2FS - O - - -
+              CHANGE - S - - -
+                PART - O - - -
+                SIZE - S - - -
+              VOLUME - O O - -
+               GROUP - - O - -
+           MKFS.EXT3 - - O - -
+            /DEV/SDB - - X - -
+                  TY - - - - X

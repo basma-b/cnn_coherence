@@ -1,0 +1,10 @@
+         PERMISSIONS O - -
+                FILE X O -
+             COMMAND X - -
+                LINE X - -
+               CHMOD O - -
+               OWNER - O -
+               GROUP - S -
+                BOOT - X -
+                SUDO - O -
+             EDITORS - - X

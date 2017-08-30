@@ -1,0 +1,16 @@
+                 USE X -
+            TESTDISK O -
+                 ALL X -
+           PARTITION X -
+               TABLE X -
+                  .. O -
+                FILE X -
+              FORMAT X -
+               DRIVE X -
+            PHOTOREC X -
+                PART X -
+              PHOTOS X -
+                GOTA S -
+             COMMAND X -
+                HTTP - X
+//WIKI.DEBIAN.ORG/SHELL - X

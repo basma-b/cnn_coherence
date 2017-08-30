@@ -1,0 +1,16 @@
+               11.04 S - - -
+                BOOT X - - -
+              CHANGE O - X -
+            ANYTHING S - - -
+                HELP X - - -
+            QUESTION O - - -
+             VERSION O - - -
+          CONTROLLER X X - -
+                UDEV - - X -
+                THIS - - S -
+                RULE - - X -
+              SCRIPT - - O -
+              KERNEL - - X -
+                BOTH - - O -
+               SMBFS - - - X
+    USR/BIN/SMBMOUNT - - - X

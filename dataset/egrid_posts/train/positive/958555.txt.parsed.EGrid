@@ -1,0 +1,19 @@
+                .TXT X - - - - -
+              ENCODE X - - - - -
+                 WAY - S - - - -
+           SOMETHING - - - S - -
+                 ALL - - - O - -
+              KISMET - - - O - -
+               ERROR - - - O - -
+/VAR/RUN//KISMET_SERVER.PID - - - X - -
+          PERMISSION - - - S - -
+                ROOT - - - X - -
+                  .. - - - X - -
+                  IE - - - X - -
+                SUDO - - - S - -
+               CISCO - - - X - -
+             CONTROL - - - X - -
+                FILE - - - X - -
+/PROC/DRIVER/AIRONET/ETH0/CONFIG - - - X - -
+           DIRECTORY - - - X - -
+            QUESTION - - - - - X

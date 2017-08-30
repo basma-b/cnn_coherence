@@ -1,0 +1,17 @@
+              KERNEL O O - - -
+              INITRD O - X - -
+              ANYONE - S - - -
+          EXPERIENCE - X - - -
+              UBUNTU - X - - -
+                RTAI - - X - -
+            DOWNLOAD - - O - -
+              SOURCE - - X - -
+             .CONFIG - - O - -
+           OLDCONFIG - - O - -
+             MODULES - - S - -
+                BOB2 - - O - -
+                LOAD - - S - -
+                 TRY - - - S -
+/BOOT/INITRD.IMG-BLAH - - - X -
+   /LIB/MODULES/BLAH - - - O -
+           MOONLIGHT - - - - S

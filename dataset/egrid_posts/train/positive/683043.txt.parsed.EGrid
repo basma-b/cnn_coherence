@@ -1,0 +1,26 @@
+              INSMOD X - - - - - - - - -
+           MODEPROBE X - - - - - - - - -
+              MODULE - O - - X - - - - -
+     /ETC/MODPROBE.D - S - - - - - - - -
+                FILE - S - - O O - - - -
+                THAT - - S - - - - - - -
+                ISNT - - X - - - - - - -
+           DIRECTORY - - X - X - - - - -
+                   > - - - X - - - - - -
+/KERNEL/DRIVERS/MISC/ - - - S - - - - - -
+            DSNYDERS - - - S - - - - - -
+               IDEAS - - - O - - - - - -
+              KERNEL - - - - X - - - - -
+             MODULES - - - - S - - - - -
+                 UHM - - - - X - - - - -
+               WL.KO - - - - S - - - - -
+                 HRM - - - - O - - - - -
+              RETURN - - - - O - - - - -
+/LIB/MODULES/2.6.31-14-GENERIC/KERNEL/DRIVERS/MISC - - - - - S - - - -
+              DEPMOD - - - - - X X - - -
+                SUDO - - - - - - X - - -
+                  -A - - - - - - S - - -
+                HTTP - - - - - - - - X -
+               DRIVE - - - - - - - - S -
+               TOAST - - - - - - - - O -
+                 WAY - - - - - - - - - X

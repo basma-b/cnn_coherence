@@ -1,0 +1,13 @@
+            HARDINFO O - - -
+                WORK X - - -
+                TIME - - X -
+                BOOT - - X X
+            SEQUENCE - - S -
+               ERROR - - S -
+                ROOT - - O -
+                 USE - - - O
+                  .. - - - X
+             SD-CARD - - - S
+              DEVICE - - - X
+       /DEV/MMCSD0P1 - - - X
+              DRIVER - - - S

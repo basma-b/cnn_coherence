@@ -1,0 +1,12 @@
+                TIME O - - -
+    APT-GET/SYNAPTIC X - - -
+             PACKAGE - - S X
+        DEPENDENCIES - - S -
+             APT-GET - - S -
+            FILENAME - - O -
+               PURGE - - X X
+              SCRIPT - - O -
+                 ALL - - - X
+             COMMAND - - - X
+                NAME - - - X
+          DIFFERENCE - - - X

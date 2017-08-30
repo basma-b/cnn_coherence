@@ -1,0 +1,18 @@
+              KISMET S - S - - - -
+/VAR/RUN//KISMET_SERVER.PID X - - - - - -
+               WRITE X - - - - - -
+          PERMISSION S - - - - - -
+                SUDO X - - S - - -
+               CISCO X - - - - - -
+             CONTROL X - - - - - -
+                FILE O - - - - - -
+/PROC/DRIVER/AIRONET/ETH0/CONFIG X - - - - - -
+           DIRECTORY S - - - - - -
+                IDEA - - S - - - -
+          ACCEPTANCE - - - X - - -
+               YEARS - - - X - - -
+                MATE - - - X - - -
+                 HUH - - - - X - -
+/USR/SHARE/DOC/KISMET - - - - - O -
+               THERE - - - - - - S
+              THINGS - - - - - - O

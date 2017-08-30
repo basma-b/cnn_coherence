@@ -1,0 +1,15 @@
+       UBUNTU-SERVER - O - -
+           PARTITION - S - -
+           INSTALLER - S - -
+                BASE - X - -
+              SYSTEM - O - -
+                   / - X - -
+                 ISO - S - -
+                SUDO - - - X
+            IPTABLES - - - X
+               INPUT - - - X
+                  -S - - - S
+                 TCP - - - S
+                  -J - - - X
+               ERROR - - - O
+                RULE - - - O

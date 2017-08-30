@@ -1,0 +1,30 @@
+            SHORTCUT X - - - - -
+              3DDESK X - - - - -
+                 KEY - X X - O -
+                BIND - X X - - -
+     /USR/BIN/3DDESK - X - - O -
+              ANYONE - - X - - -
+                 SEC - - - X - -
+                  .. - - - X - -
+        APPLICATIONS - - - X - -
+              SYSTEM - - - X - -
+                TOOL - - - X - -
+       CONFIGURATION - - - X - -
+              EDITOR - - - X - -
+                APPS - - - X - -
+            METACITY - - - X - -
+ KEYBINDING_COMMANDS - - - X - -
+                   > - - - - X -
+             COMMAND - - - - O -
+           METACITY- - - - - X -
+  GLOBAL_KEYBINDINGS - - - - X -
+              NUMBER - - - - X -
+             EXAMPLE - - - - X -
+APPS/METACITY/KEYBINDING_COMMANDS/COMMAND1 - - - - S -
+APPS/METACITY/GLOBAL_KEYBINDINGS/RUN_COMMAND_1 - - - - X -
+                   < - - - - X -
+             CONTROL - - - - X -
+                 ALT - - - - X -
+                  F1 - - - - X -
+            WHATEVER - - - - X -
+                 YES - - - - - X

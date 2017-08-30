@@ -1,0 +1,13 @@
+         RECONFIGURE X X - -
+                XORG X X - -
+    DPKK-RECONFIGURE X - - -
+              OPTION O - - -
+         RESOLUTIONS X - - -
+          RESOLUTION - X - -
+                 CLI - X - -
+           XORG.CONF - O - -
+         COMMANDLINE - X - -
+  /ETC/X11/XORG.CONF - - S -
+    DPKG-RECONFIGURE - - X -
+                 HMM - - - S
+        XSERVER-XORG - - - X

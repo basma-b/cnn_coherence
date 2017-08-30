@@ -1,0 +1,14 @@
+                  GB X - -
+                NTFS X - -
+                   D X - -
+               FAT32 X - -
+                BOOT X X -
+                EXT3 X - -
+                SWAP X - -
+              GENTOO X - X
+              UBUNTU X - X
+            REISERFS S - -
+           PARTITION X O X
+                MESS - - X
+                   / - - X
+               RIGHT - - O

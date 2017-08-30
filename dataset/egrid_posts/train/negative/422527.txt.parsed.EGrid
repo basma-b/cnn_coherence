@@ -1,0 +1,16 @@
+              SCRIPT S - - -
+             MESSAGE X - - -
+              SYSTEM X - - -
+             STARTUP X - - -
+                LINK O - - -
+/ETC/INIT.D/FIREWALLIPTABLES S - - -
+                FILE X - - -
+               CHMOD - S - -
+                HINT - O - -
+/ETC/INIT.D/SKELETON - X - -
+              UBUNTU - - - O
+                FACT - - - X
+                BIND - - - X
+              PEOPLE - - - X
+             CHANNEL - - - X
+             RELEASE - - - X

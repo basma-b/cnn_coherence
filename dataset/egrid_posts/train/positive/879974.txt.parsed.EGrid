@@ -1,0 +1,6 @@
+             COMMAND X -
+         IMAGEMAGICK O -
+                SUDO X -
+             APT-GET S -
+                THAT - S
+             CONVERT - O

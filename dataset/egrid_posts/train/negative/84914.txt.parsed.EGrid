@@ -1,0 +1,9 @@
+             COMMAND O - -
+             SERVICE O X -
+                SUDO - S -
+                   < - X -
+                   > - S -
+                  .. - - X
+             MACHINE - - S
+                PORT - - X
+          FLASHDRIVE - - X

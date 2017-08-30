@@ -1,0 +1,15 @@
+             DEFAULT X X -
+             GATEWAY X X -
+                 THE - X -
+               ROUTE - X X
+                  -N - S -
+             NETSTAT - X -
+                 -RN - X -
+                  GW - O -
+                LIST - O -
+                LINE - X -
+              TARGET - X -
+             0.0.0.0 - S -
+                   * - - O
+                ROUT - - X
+               TABLE - - X

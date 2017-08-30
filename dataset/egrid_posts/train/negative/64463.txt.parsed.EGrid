@@ -1,0 +1,22 @@
+               MYSQL S - X -
+                 PID O - - -
+  /PROC/MYSQLPID/FD/ X - - -
+            SYMLINKS O - - -
+                FILE X - O -
+               LETME X - - -
+               CHECK X - - -
+             KYNCANI X - - -
+                 ANY O - - -
+              SOCKET X - S -
+             NETWORK X - X -
+                UNIX X - - -
+                  -I X - - -
+                OPPS X - - -
+                TYPO - S - -
+                LIST - - S -
+          PHPMYADMIN - - X -
+               ERROR - - X -
+           HY000HOST - - S -
+LOCALHOST.LOCALDOMAIN - - S -
+              SERVER - - X -
+             ONTARIO - - - X

@@ -1,0 +1,13 @@
+                TYPE S -
+                FILE O X
+                LINE X -
+              CONFIG S -
+/ETC/APACHE2/SITES-INCLUDED/000-DEFAULT O -
+             EXAMPLE X -
+         MOD_DEFLATE O -
+                 CSS X -
+                  JS O -
+                 USE - O
+            SOMEFILE - O
+                   * - O
+            WHATEVER - S

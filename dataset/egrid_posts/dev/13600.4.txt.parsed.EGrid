@@ -1,0 +1,24 @@
+                HELP X - - - - - - - -
+                CORE X - - - - - - - -
+                CPUS O - - - - - - - -
+              KERNEL - X - - - - - - -
+            VERSIONS - - X - - - - - -
+                 SAY - - - S - - - - -
+                THIS - - - X - - - - -
+                TIME - - - - O - - - -
+                 SMP - - - - S - - - -
+               THANK - - - - - X - - -
+                 BUG - - - - - - O - -
+                 FIX - - - - - - O - -
+               ADOBE - - - - - - S - -
+             SUPPORT - - - - - - O - -
+               FORCE - - - - - - - X -
+            HARDWARE - - - - - - - X -
+        ACCELERATION - - - - - - - O -
+         INSTABILITY - - - - - - - O -
+               FLASH - - - - - - - X -
+                  HW - - - - - - - - S
+                FILE - - - - - - - - X
+  /ETC/ADOBE/MMS.CFG - - - - - - - - O
+ENABLELINUXHWVIDEODECODE=1 - - - - - - - - O
+             WINDOWS - - - - - - - - X

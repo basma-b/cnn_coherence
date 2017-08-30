@@ -1,0 +1,16 @@
+               THERE X - - - - - -
+           SOMETHING X - - - - - -
+               UMASK X O - - - - -
+             DEFAULT O X X - - - -
+               OWNER X O - - - - -
+               GROUP X O O - - - -
+                USER X - X - - - -
+              CREATE - X - - - - -
+                FILE - X - - - - -
+             EXAMPLE - X - - - - -
+                 G+R - O - - - - -
+           OWNERSHIP - S - - - - -
+            WWW-DATA - S X - - - -
+              PARENT - X - - - - X
+           DIRECTORY - X - - - - S
+                THAT - - - - - - S

@@ -1,0 +1,15 @@
+           PARTITION X - - - - -
+               WHILE S - - - - -
+              REBOOT S - - - - -
+            FAILURES O - - - - -
+              MEMORY - X - - - -
+    CORRUPTION+NEWER - X - - - -
+              KERNEL - X - - - -
+              CORNER - - X - - -
+                CASE - - O - - -
+                CODE - - X - - -
+           2.6.28-14 - - - X - -
+                 XGL - - - - - O
+              VMWARE - - - - - O
+               DRIVE - - - - - X
+              BURNER - - - - - O

@@ -1,0 +1,18 @@
+                  IM - - - - S - - - - -
+                 LAN - - - - X - - - - -
+                DONT - - - - X - - - - -
+              DOMAIN - - - - X - X - - -
+                NAME - - - - O - - - - -
+          DOMAINNAME - - - - - - X - - -
+               SHARE - - - - - - O - - -
+                 WIN - - - - - - X - - -
+            COMPUTER - - - - - - X - - -
+               SMBFS - - - - - - - - X -
+       USERNAME=NAME - - - - - - - - X -
+         /MOUNTPOINT - - - - - - - - X -
+                HTTP - - - - - - - - O -
+//PASTE.UBUNTULINUX.NL/3250 - - - - - - - - X -
+                 FAT - - - - - - - - - O
+                FILE - - - - - - - - - O
+               ENTRY - - - - - - - - - O
+                 ANY - - - - - - - - - X

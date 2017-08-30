@@ -1,0 +1,14 @@
+                USER X - - - S
+              ACCESS X - - - -
+                BOND X - - - -
+               /FILE X - - - -
+         PERMISSIONS S O - - -
+           DIRECTORY X - O - -
+          /HOME/BOND X - - - -
+         /HOME/BOND/ - X - - -
+                  .. - X - - -
+                   * - S - - -
+             SYMLINK - O - - O
+                FILE - X - - -
+                 SAY - X - - -
+              FOLDER - - - - O

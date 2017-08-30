@@ -1,0 +1,13 @@
+             ADAPTOR X - - - -
+              FEISTY X - - - -
+            BROADCOM - X - - -
+               DMESG - - O - X
+             CHIPSET - - X - -
+               LSPCI - - - S -
+                CARD - - - O -
+                THAT - - - - S
+             MESSAGE - - - - O
+                 PCI - - - - X
+                 BUS - - - - X
+              BRIDGE - - - - X
+   PCI=ASSIGN-BUSSES - - - - X

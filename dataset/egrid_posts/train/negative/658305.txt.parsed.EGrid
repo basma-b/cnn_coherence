@@ -1,0 +1,16 @@
+                  HI X - - - - - - - -
+        INSTALLATION - O - - - - - - -
+               DRIVE - X X - - - - - -
+           PARTITION - - O - - - - - -
+                ROOT - - O - - - - - -
+                HOME - - X - - - - - -
+                DISK - - X - - - - - -
+                GRUB - - - O - - - - -
+                 UID - - - - O - - - -
+            GRUB.CFG - - - - X - - - -
+                 ONE - - - - - - O - -
+            FILE/DIR - - - - - - - - S
+             SUBDIRS - - - - - - - - O
+                 FOO - - - - - - - - X
+             CONTENT - - - - - - - - S
+                TEXT - - - - - - - - X

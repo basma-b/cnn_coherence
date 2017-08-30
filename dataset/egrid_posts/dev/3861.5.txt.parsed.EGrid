@@ -1,0 +1,13 @@
+            QUESTION X - - -
+              DELETE X - - -
+      FILE/DIRECTORY S - - -
+                PERM S - - -
+          USER/GROUP S - - -
+                USER O - - -
+                FILE - X - -
+                 USE - X - -
+                MOVE - - - O
+              WINDOW - - - X
+                DROP - - - X
+                   % - - - X
+               CORE1 - - - S

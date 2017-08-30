@@ -1,0 +1,10 @@
+             COMMAND X - - - -
+              KERNEL S - - - -
+               MOUNT - - S - -
+           LJSOFTNET - - O X -
+                   | - - - X -
+               FSTAB - - - X -
+               UNAME - - - X -
+                  -A - - - S -
+               LSMOD - - - - S
+              NVIDIA - - - - O

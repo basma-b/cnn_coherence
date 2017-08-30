@@ -1,0 +1,20 @@
+        TROUBLESHOOT - S - - - -
+            INTERNET - X - - - -
+              DEVICE - O - - - -
+            IFCONFIG - X - - - -
+               ROUTE - - S - - -
+                PATH - - O - - -
+             GATEWAY - - X - - -
+            TERMINAL - - X - - -
+              OUTPUT - - X - - -
+                  IP - - X O - -
+                  OK - - X - - -
+             PROBLEM - - X - - -
+                 TRY - - - X - -
+                GREP - - - X - -
+                INET - - - O - -
+                SUDO - - - - X -
+/ETC/INIT.D/NETWORKING - - - - S -
+                THAT - - - - - S
+             COMMAND - - - - - O
+           SOMETHING - - - - - O

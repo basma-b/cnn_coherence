@@ -1,0 +1,21 @@
+     LD_LIBRARY_PATH S - - - - - - - -
+           SOMETHING X - - - - - - - -
+                HTTP - X - - - - - - -
+            QUESTION - S - S - - - - -
+             VERSION - S - - - - - - -
+             LIBRARY - X - X - - - - -
+              SOURCE - X - - - - - - -
+                 USE - O - O - - - - -
+                 ONE - X - - - - - - -
+            /USR/LIB - X - - - - - - -
+LD_LIBRARY_PATH=MYDIR - - X - - - - - -
+                THAT - - - O - - - - -
+                PATH - - - S - - - - -
+                 APP - - - X - - - - -
+                USER - - - X - - - - -
+             ACCOUNT - - - X - - - - -
+        /ETC/PROFILE - - - X X X - X -
+             RESTART - - - - O - - - -
+               RIGHT - - - - - O - - -
+              EXPORT - - - - - X - - -
+    /ETC/ENVIRONMENT - - - - - - - - X

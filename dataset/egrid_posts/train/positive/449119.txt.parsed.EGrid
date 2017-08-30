@@ -1,0 +1,21 @@
+                 NIC O - - - - - - - - - - - - -
+              SERVER X - - - - - - - - - - - - -
+             LINKSYS X - - - - - - - - - - - - -
+                CARD X - - - - - - - - - - - - -
+           CONFIGURE X - - - - - - - - - - - - -
+/ETC/NETWORK/INTERFACES X - - - - - - - - - - - - -
+/ETC/INIT.D/NETWORKING - O - - - - - - - - - - - -
+           VARIABLES - O - - - - - - - - - - - -
+           ETH1/INET - X - - - - - - - - - - - -
+                 USE - - - - X - - - - - - - - -
+/ETC/NETWORKING/INTERFACES - - - - O - - - - - - - - -
+//PASTEBIN.COM/M8A46E29 - - - - X - - - - - - - - -
+                DONT - - - - - - - X - - - - - -
+                NEED - - - - - - - X - - - - - -
+             GATEWAY - - - - - - - X - - - - - X
+                LINE - - - - - - - X - - - - - O
+               EHTH1 - - - - - - - X - - - - - -
+           ATTENTION - - - - - - - O - - - - - -
+             NETMASK - - - - - - - - - - - - - X
+                ETH1 - - - - - - - - - - - - - X
+                   / - - - - - - - - - - - - - O

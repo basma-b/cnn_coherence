@@ -1,0 +1,34 @@
+               CACHE O - O O - - - - - -
+            SOFTWARE X - X X - - - - - -
+             PACKAGE X - - - - - - - - -
+                 USE X - - - - - - - - -
+            TERMINAL X - - - - - - - - -
+                SUDO - X - X - X - - - -
+             APT-GET - S - - - X - - - -
+UBUNTU-RESTRICATED-EXTRAS - O - - - - - - - -
+                TIME - - X - - - - - - -
+              UPDATE - - O O - - - - - -
+               CHECK - - O - - - - - - -
+              SOURCE - - X X - - - - - -
+        REPOSITORIES - - S S - - - - - -
+              ENABLE - - O - - - - - - -
+          MULTIVERSE - - - S - - - - - -
+            CHECKBOX - - - O - - - - - -
+         APPLICATION - - - X - - - - - -
+/ETC/APT/SOURCES.LIST - - - X - - - - - -
+                FILE - - - X S - - - - -
+                LINE - - - - S - - - - -
+                 END - - - - X - - - - -
+              OUTPUT - - - - - O - - - -
+                GRUB - - - - - - - S - S
+              KERNEL - - - - - - - X - -
+              INITRD - - - - - - - O - -
+                BIOS - - - - - - - X S -
+             MACHINE - - - - - - - - X -
+                MEGS - - - - - - - - X -
+                DISK - - - - - - - - X X
+                THIS - - - - - - - - - O
+               THERE - - - - - - - - - S
+               LIMIT - - - - - - - - - O
+               137GB - - - - - - - - - X
+              BIOSES - - - - - - - - - X

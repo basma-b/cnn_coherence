@@ -1,0 +1,13 @@
+                  .. - O - - - -
+     LD_LIBRARY_PATH - S - - - -
+               SHARE - X - - - -
+             LIBRARY - O - - - -
+              EXPORT - - X - - -
+    LD_LIBRARY_PATH= - - X - - -
+        /PATH/TO/.SO - - S - - -
+                FILE - - O - - -
+                PATH - - X - - -
+            OFCOURSE - - - S - -
+                 WAY - - - X - -
+       LD.CACHE.CONF - - - O - -
+                 THX - - - - - X

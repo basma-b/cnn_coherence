@@ -1,0 +1,13 @@
+           DIRECTORY X - - - - - -
+              ACCESS X - - - - - -
+                 SSH - - S - - - -
+             OPTIONS - - S - - - -
+            SECURITY - - X - - - -
+          /ETC/HOSTS - - X - - - -
+                FILE - - X - - - -
+               ENTRY - - O - - - -
+               IDEAS - - - X - - -
+              MOMENT - - - X - - -
+            IFCONFIG - - - S - - -
+           INTERFACE - - - O - - -
+                 ACE - - - - - X S

@@ -1,0 +1,23 @@
+           UBUNTUBOX X - - - - - - - - - - - - -
+                 SSH X - - - - - - - - - - - - -
+                ROOT - X - S - - - - - X X X - -
+            PASSWORD - X - - - - - - - - O X - O
+             DEFAULT - X - - - - - - - - - - - -
+            DISALLOW - X - - - - - - - - - - - -
+              LOGINS - O - - - - - - - - - - - -
+            SHUTDOWN - - - X - - - - - - - - - -
+                 KEY - - - O - X - - - - - - - -
+/ETC/SSH/SSHD_CONFIG - - - O - - - - - - - - - -
+     PERMITROOTLOGIN - - - X - - - - - - - - - -
+    WITHOUT-PASSWORD - - - X - - - - - - - - - -
+                IDEA - - - - X - - - - - - - - -
+                THAT - - - - - X - S - - - - - -
+                CASE - - - - - S - - - - - - - -
+             COMMAND - - - - - O - - - - - - - -
+              CONFIG - - - - - - X - - - - - - -
+~/.SSH/AUTHORIZED_KEYS - - - - - - - X - - - - - -
+    PERMITROOTLOGINS - - - - - - - - X - - - - -
+              UBUNTU - - - - - - - - - S - - - -
+             ACCOUNT - - - - - - - - - X - - - -
+                LOCK - - - - - - - - - X - - - -
+        INSTALLATION - - - - - - - - - - - X - -

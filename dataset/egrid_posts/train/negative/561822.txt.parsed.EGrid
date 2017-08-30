@@ -1,0 +1,13 @@
+             PACKAGE O -
+            TERMINAL X -
+                DPKG X -
+                   X X -
+                   < X -
+                 DEB X -
+                FILE X -
+                   > X -
+                HTTP X -
+//VIJAYK.BLOGSPOT.COM/2006/01/HOW-TO-EXTRACT-FILES-FROM-RPM-AND-DEB.HTML X -
+                NAME O -
+            ARGUMENT X -
+              RESULT - O

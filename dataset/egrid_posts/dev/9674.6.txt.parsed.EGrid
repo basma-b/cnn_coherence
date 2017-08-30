@@ -1,0 +1,23 @@
+              UBUNTU X - - - - - - X
+              VESAFB X - - - - - - -
+                THAT - S - - - - - -
+                BIOS - X - - - - - -
+              DRIVER - O - - - - - -
+               VTTYS - X - - - - - -
+                PART - - - O - - - -
+              INITRD - - - X - - - -
+               LSMOD - - - - S - - -
+              MODULE - - - - O - - -
+/ETC/MODPROBE.D/WHATEVER.CONF - - - - - X - -
+           BLACKLIST - - - - - - X -
+                TIME - - - - - - - X
+            PASSWORD - - - - - - - X
+          ENCRYPTION - - - - - - - X
+                 USE - - - - - - - S
+            CONSUMER - - - - - - - X
+            HARDWARE - - - - - - - X
+                   / - - - - - - - X
+            SOFTWARE - - - - - - - X
+              AMOUNT - - - - - - - X
+             DECADES - - - - - - - X
+         COMPUTATION - - - - - - - X

@@ -1,0 +1,14 @@
+                TIME S - - - - - -
+              SYSTEM X - - - - - -
+             MINUTES X - - - - - -
+               SOME1 - X - - - - -
+                SUDO - - X - - - -
+             SERVICE - - X - - - -
+                 NTP - - S - - - -
+   0.UK.POOL.NTP.ORG - - O - - - -
+              FUTURE - - X - - - -
+     /VAR/LOG/SYSLOG - - - O - - -
+               CLOCK - - - S - - -
+            DPKGLOCK - - - - - X -
+                   | - - - - - X -
+              PAOLAS - - - - - X -

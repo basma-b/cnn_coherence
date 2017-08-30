@@ -1,0 +1,20 @@
+             APACHE2 S - - - - -
+    /VAR/LOG/APACHE2 S O - - - -
+         PERMISSIONS - O - - - -
+                 LOG - X X X - -
+               SPACE - X - - - -
+                 HMM - O - - - -
+              SCRIPT - X - - - -
+             SECTION - X - - - -
+              APACHE - - X - - -
+             PACKAGE - - O - - X
+           DIRECOTRY - - O - - -
+           DIRECTORY - - - S - -
+               TMPFS - - - X - -
+             RESTART - - - X - -
+            PHYSICAL - - - - S -
+          EXTENSIONS - - - - O -
+                TYPE - - - - - X
+                DESC - - - - - S
+               HTTPS - - - - - O
+//HELP.UBUNTU.COM/COMMUNITY/REPORTINGBUGS - - - - - X

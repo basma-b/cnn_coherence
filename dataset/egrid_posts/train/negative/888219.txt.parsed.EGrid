@@ -1,0 +1,10 @@
+                .DEB O - -
+             OPTIONS X O -
+              SCRIPT X X -
+   DPKG-BUILDPACKAGE - S -
+             DEFAULT - X -
+                 WAY - O -
+                FLAG - O -
+        YOUR-OPTIONS - X -
+                SUDO - X -
+        CHECKINSTALL - X -

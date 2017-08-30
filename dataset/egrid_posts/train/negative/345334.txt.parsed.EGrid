@@ -1,0 +1,11 @@
+                NTFS X - - -
+              FORMAT S - - -
+               SAMBA X S - -
+            ANYTHING - O - -
+                SHOW - O - -
+              CLIENT - X - -
+              WEBMIN - - X -
+                SWAT - - X -
+                SMBD - - O -
+            DOWNTIME - - - O
+              MOMENT - - - X

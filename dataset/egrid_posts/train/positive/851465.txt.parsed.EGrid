@@ -1,0 +1,20 @@
+                BOOT S - - -
+           HARDDRIVE X - - -
+              RESCUE X - - -
+                  CD X - - -
+                 GUI X - - -
+             DESKTOP X - - -
+                 RUN X - - -
+                SUDO X - X -
+         UPDATE-GRUB S - O X
+        GRUB-INSTALL X - - -
+            /DEV/SDA S - - -
+                 SDA S - - -
+               DRIVE O - - -
+/USR/SBIN/GRUB-PROBE O - - -
+               ERROR O X - O
+                AUFS X - - O
+         WEBSEARCHES - O - -
+             PACKAGE - - O -
+             APT-GET - - S -
+           OS-PROBER - - O -

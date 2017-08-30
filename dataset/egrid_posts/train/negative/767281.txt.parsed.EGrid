@@ -1,0 +1,10 @@
+                 1.2 X -
+           SOMETHING O -
+        CPUFREQUTILS X -
+            HARDWARE X -
+               LIMIT X -
+                 GHZ X -
+              POLICY O -
+/ETC/INIT.D/CPUFREQUTILS X -
+           GOVERNOR= X -
+            ONDEMAND X -

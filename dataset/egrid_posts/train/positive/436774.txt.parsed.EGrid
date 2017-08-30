@@ -1,0 +1,16 @@
+                FILE O - - - - - - - -
+       /ETC/MODUTILS X - - - - - - - -
+             DOLPHIN - - O - - O S - -
+                USER - - X - - X - - -
+                MODE - - X - - X - - -
+              ANYONE - - - - X - - - -
+             COMMAND - - - - - - O - -
+              GKSUDO - - - - - - X - -
+             PROGRAM - - - - - - O - -
+                SUDO - - - - - - S X -
+                TYPE - - - - - - - X -
+             APT-GET - - - - - - - S -
+                GKSU - - - - - - - O -
+             KONSOLE - - - - - - - S -
+                OOPS - - - - - - - - S
+                 USE - - - - - - - - O

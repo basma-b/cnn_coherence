@@ -1,0 +1,15 @@
+              FORMAT X - - - - -
+              REASON X - - - - -
+                GRUB O - - - - -
+              LOADER O - - - - -
+                 MBR X - - - - -
+             WINDOWS X - - - - -
+                SUDO - X - - - -
+        GRUB-INSTALL - S - - - -
+                DISK - X - - - -
+               DRIVE - - O - - -
+            /DEV/HDA - - X X - -
+                 HD0 - - X - - -
+/DEV/MAPPER/CASPER-SNAPSHOT - - S - - -
+                 ANY - - S - - -
+                BIOS - - X - - -

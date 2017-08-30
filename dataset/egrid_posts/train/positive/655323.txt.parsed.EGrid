@@ -1,0 +1,8 @@
+             COMMAND S - -
+         RECONFIGURE X X -
+             PACKAGE O - -
+                DPKG - X -
+                   < - X -
+                   > - S -
+                  .. - - S
+                 GUY - - X

@@ -1,0 +1,16 @@
+             COMMAND X - - -
+             VERISON X - - -
+                 RUN X - - -
+           MENU.LIST - O - -
+                 USE - O - -
+              BOOTUP - X - -
+       INSTALLATIONS - O - -
+                  ID - S - -
+                 ONE - - S -
+                 MBR - - X -
+            /DEV/HDA - - X -
+                THAT - - - S
+              LITTLE - - - X
+                MORE - - - O
+              SYSTEM - - - X
+               VIDEO - - - S

@@ -1,0 +1,8 @@
+              FORMAT X X - X - - -
+                VFAT X - - - - - -
+            EXTERNAL - X - O - - -
+           MKFS.VFAT - - X - - - -
+                THAT - - - S - - -
+             COMMAND - - - - - - O
+             LIBRARY - - - - - - X
+                PATH - - - - - - X

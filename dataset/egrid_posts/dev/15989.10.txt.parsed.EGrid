@@ -1,0 +1,22 @@
+          POSTGRESQL S - - - - - - -
+               12.04 X - - - - - - -
+                SUDO X - - - - - - -
+            APTITUDE X - - - - - - -
+POSTGRESQL-CONTRIB-9.1 O - - - - - - -
+   POSTGRESQL-COMMON S - - - - - - -
+           DIRECTORY - O - - - - - -
+            ANYTHING - - X - - - - -
+             RELEASE - - X - - - - X
+               ERROR - - - O - - - -
+        STATUS/START - - - S - - - -
+              OUTPUT - - - O - - - -
+             UPSTART - - - X - - - -
+               CHECK - - - - S - - -
+               THING - - - - X - - -
+                  PS - - - - - X - -
+        /ETC/INIT.D/ - - - - - - O -
+              UBUNTU - - - - - - X -
+              SUPPLY - - - - - - - X
+             DRIVERS - - - - - - - X
+                 WAY - - - - - - - O
+              NVIDIA - - - - - - - X

@@ -1,0 +1,13 @@
+         APT.SOURCES O - - - -
+        DIST-UPGRADE O O - - -
+              SOURCE - O - - -
+              UPDATE - O - - -
+          EVERYTHING - O - - -
+             VERSION - X - - -
+             PACKAGE - - X - -
+           REINSTALL - - - O -
+              OUTPUT - - - - X
+               DRIVE - - - - S
+                 WAY - - - - O
+          CONNECTION - - - - S
+        RE-DETECTION - - - - S

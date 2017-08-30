@@ -1,0 +1,19 @@
+             BROWSER S - - - - -
+            DOWNLOAD X - - - - -
+                 PHP S X - - - S
+                FILE S - - - - -
+             DISPLAY X - - - - -
+         PUBLIC_HTML X - - - - -
+              ACCESS X - - - - -
+         MOD_REWRITE X - - - - -
+                THAT - O - - - -
+              APACHE - X - - - -
+               PARSE - S - - - -
+                 CGI - - X - - -
+                SUDO - - - - X -
+             APT-GET - - - - S -
+          PHP5-MYSQL - - - - O -
+        INSTALLATION - - - - O -
+             TASKSEL - - - - X -
+/ETC/APACHE2/MODULES_ENABLED - - - - - X
+                LIST - - - - - O

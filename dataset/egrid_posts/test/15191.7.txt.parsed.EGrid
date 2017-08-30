@@ -1,0 +1,14 @@
+             COMMAND - X - - - - -
+                  PM - X - - - - -
+               L3TOP - - X - - - -
+         YOURMESSAGE - - O - - - -
+                NANO - - - X - - -
+ /VAR/LOG/XORG.0.LOG - - - X - - -
+               LOOKS - - - - S - -
+             XSERVER - - - - X O -
+             SERVICE - - - - - X -
+                 GDM - - - - - X -
+                STOP - - - - - O -
+                 TRY - - - - - O -
+             SESSION - - - - - O -
+          XORG.0.LOG - - - - - - X

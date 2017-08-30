@@ -1,0 +1,16 @@
+                 RUN X - - -
+             PROCESS O - - -
+                 TOP - - X -
+                HTOP - - X -
+                 NET - - S -
+             NETSTAT - - S -
+                  .. - - O -
+                 WHA - - O -
+         APPLICATION - - X -
+            BOOTTIME - - X -
+                 SEC - - X -
+             PACKAGE - - O -
+                 BUM - - S -
+                BOOT - - X -
+             MANAGER - - X -
+                PAGE - - - S

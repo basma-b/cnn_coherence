@@ -1,0 +1,17 @@
+         PERMISSIONS X S -
+           /DEV/HDA4 X - -
+          PERMISSONS X - -
+              DEVICE X - -
+                SAME - X -
+               CHMOD - O X
+                FILE - O -
+              SYSTEM - O -
+                 ALL - S -
+                 NOD - X -
+                /DEV - X -
+          REGENERATE - O -
+                WELL - X -
+                  .. - O -
+                 IVE - - S
+               A+RWX - - S
+                  GO - - X

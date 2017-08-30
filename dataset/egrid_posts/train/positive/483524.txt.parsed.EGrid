@@ -1,0 +1,17 @@
+                INFO - S - - - - - -
+                 YES - O - - - - - -
+          FILESYSTEM - O - - - - - X
+               MSDOS - - X - - - - -
+               FSTAB - - X - - - - -
+               ENTRY - - O - - - - -
+             DEFAULT - - X - - - - -
+              OPTION - - O - - - - -
+           PARTITION - - X X - - - -
+               TABLE - - X O - - - -
+                TIME - - - - - - S -
+               DRIVE - - - - - - S -
+         FILESYSTEMS - - - - - - S -
+                DISK - - - - - - - O
+                TYPE - - - - - - - S
+              FORMAT - - - - - - - O
+                BASE - - - - - - - X

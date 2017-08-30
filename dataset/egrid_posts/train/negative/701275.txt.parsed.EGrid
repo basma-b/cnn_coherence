@@ -1,0 +1,17 @@
+                LOAD S - - - -
+                THAT - X - - -
+            TERMINAL - - O - -
+                   > - - S - -
+                  OK - - O - -
+             PROCESS - - O - -
+                LIST - - S - -
+                XORG - - X - -
+                DONT - - - X -
+              OPTION - - - O -
+              /MEDIA - - - X -
+             OPTIONS - - - - S
+                   / - - - - X
+               /HOME - - - - X
+               /BOOT - - - - X
+                /USR - - - - X
+                /VAR - - - - X

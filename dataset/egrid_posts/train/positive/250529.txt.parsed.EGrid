@@ -1,0 +1,16 @@
+           SOMETHING O - - - - - - - - -
+        /ETC/INITTAB X - - - - O - - - -
+        SYSV-RC-CONF - O - - - - - - - -
+             STARTUP - X - - - - - - - -
+               STUFF - X - - - - - - - -
+                  .. - O - - - - - - - -
+             PACKAGE - - - O - - - - - -
+                NAME - - - X - - - - - -
+              SERVER - - - - - O - - - -
+                KIND - - - - - - X - - -
+          EQUIVALENT - - - - - - X - - -
+             INITTAB - - - - - - X - - -
+              SYSTEM - - - - - - - S - -
+                BOOT - - - - - - - X - -
+       CONFIGURATION - - - - - - - O - -
+             UPSTART - - - - - - - - X -

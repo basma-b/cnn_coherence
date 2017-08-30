@@ -1,0 +1,16 @@
+                 ALL X - - - - - - - - - -
+                NTFS - X - - - - - - - - -
+              VOLUME - O - - - - - - - - -
+             MESSAGE - O - - - - - - - - -
+         APPLICATION - S X - - - - - - - -
+              ACTION - O - - - - - - - - -
+          EVERYTHING - - - O - - - - - - -
+                LSOF - - - - X - - - - - -
+           LSOF|GREP - - - - X - - - - - -
+        YOURNFSFSYOU - - - - X - - - - - -
+   RETRYINGTOUNMOUNT - - - - S - - - - - -
+                THAT - - - - - S - - - - -
+                FILE - - - - - O - - - - -
+               THING - - - - - - S - - - -
+             PROCESS - - - - - - - O - - -
+                 MAN - - - - - - - - - - S

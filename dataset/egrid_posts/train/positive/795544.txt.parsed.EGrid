@@ -1,0 +1,14 @@
+           MYSQLDUMP X - - X -
+                  -U S - - S -
+                ROOT S - - - -
+       ALL-DATABASES S - - - -
+                 GOT X - - - -
+               ERROR S - - - -
+              ACCESS X - - - -
+                USER X - - - -
+           LOCALHOST X - - - -
+                 USE X - - - -
+            PASSWORD X X - - X
+             .MY.CNF - O - - X
+             ANYBODY - - S - -
+                  -P - - - X S

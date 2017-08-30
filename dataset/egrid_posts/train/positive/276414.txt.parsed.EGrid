@@ -1,0 +1,14 @@
+              FORMAT S - - - - - - - - - - - - -
+                SWAP X X X - X - X - - - - - - -
+           PARTITION X - - - - - S - - - - - X -
+         HIBERNATION S - - - - - - - - - - - - -
+               ENTRY - S - - - - - - - - - - - -
+          /ETC/FSTAB - X - - - - - - - - - - - -
+                THAT - - S - - - - - - X - - S -
+               SPACE - - O - X - - - - - - - - -
+             COMMAND - - - - - - X - - - - - - -
+           INITRD.GZ - - - - - - - O - - - - - -
+               THING - - - - - - - - - - - - O -
+              KERNEL - - - - - - - - - - - - S -
+                LOAD - - - - - - - - - - - - O -
+    UPDATE-INITRAMFS - - - - - - - - - - - - - O

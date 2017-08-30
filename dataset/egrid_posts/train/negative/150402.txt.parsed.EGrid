@@ -1,0 +1,14 @@
+                 RUN S - - - -
+                ROOT S - X - -
+                  .. - X O - -
+              CHOICE - O - - -
+                   X - S X - -
+                USER - X S - -
+        XSERVER-XORG - X - - -
+               -RW-R - - X - -
+                   R - - S - -
+                CONF - - X - -
+                FILE - - X - -
+               START - - O - -
+               POINT - - - - X
+              DEVICE - - - - O

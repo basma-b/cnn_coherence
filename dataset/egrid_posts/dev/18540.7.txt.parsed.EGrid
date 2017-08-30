@@ -1,0 +1,11 @@
+       /BOOT/VMLINUZ X - - - - - - -
+                FILE - - O - - - - -
+                PART - - - X - - - -
+              KERNEL - - - X - - - -
+             PACKAGE - - - X - - - -
+               DELAY - - - - X - - -
+                THAT - - - - - X - -
+            DISSABLE - - - - - - X -
+                IPV6 - - - - - - O -
+             NETWORK - - - - - - X -
+                MORE - - - - - - X -

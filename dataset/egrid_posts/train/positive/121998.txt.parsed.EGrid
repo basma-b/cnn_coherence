@@ -1,0 +1,26 @@
+                  UN X - - - - - - - - -
+              KERNEL X X - X - - - - - -
+       2.6.12-10-386 S - - - - - - - - -
+            HARDWARE - - X - - - - - - -
+                -SMP - - - O - - - - - -
+                CORE - - - X - - - - - -
+       HYPERTHREADED - - - X - - - - - -
+                 SMP - - - S - - - - - -
+            EVERYONE - - - - S X - - - -
+           HARDDISKS - - - - O - - - - -
+                DAYS - - - - X - - - - -
+               SCRUB - - - - - X - - - -
+            FIREWALL - - - - - O - - - -
+             DEFAULT - - - - - S - - - -
+                PORT - - - - - O - - - -
+          DIFFERENCE - - - - - - O - - -
+         PERFORMANCE - - - - - - X - - -
+                BITE - - - - - - - X - -
+                SUDO - - - - - - - - X -
+     /ETC/INIT.D/GDM - - - - - - - - S -
+        XSERVER-XORG - - - - - - - - X -
+                  MV - - - - - - - - X -
+              SOURCE - - - - - - - - S -
+         DESTINATION - - - - - - - - X -
+/ETC/X11/XORG.CONF.BACKUP - - - - - - - - X -
+  /ETC/X11/XORG.CONF - - - - - - - - O -

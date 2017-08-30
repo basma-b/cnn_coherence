@@ -1,0 +1,11 @@
+                GRUB - O - -
+                BOOT - - - X
+              LIVECD - - - X
+                SUDO - - - S
+            /DEV/SDA - - - S
+               /ROOT - - - O
+              CHROOT - - - X
+         UPDATE-GRUB - - - X
+               LINUX - - - X
+           HARDDRIVE - - - O
+           PARTITION - - - O

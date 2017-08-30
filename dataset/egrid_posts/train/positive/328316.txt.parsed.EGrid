@@ -1,0 +1,15 @@
+             COMMAND X - - -
+                LINE S O X -
+                GRUB X S - -
+                   E O - - -
+               ENTRY X - - -
+                   B O - - -
+                BOOT X - - -
+                DEVS X - - -
+                /DEV X - - -
+                UUID X O - -
+              KERNEL - X X -
+       /DEV/WHATEVER - O - -
+               FSTAB - O - -
+                THAT - - O -
+                BITE - - - O

@@ -1,0 +1,17 @@
+               LINUX X - -
+                TIME - X -
+                SUDO - X -
+             APT-GET - S -
+ FLASHPLUGIN-NONFREE - X -
+             NOTHING - X -
+                 TRY - X -
+               MKDIR - X -
+  ~/.MOZILLA/PLUGINS - X -
+                  CD - X -
+ ~/.MOZILLA/PLUGINS/ - X -
+/USR/LIB/MOZILLA/PLUGINS/LIBFLASHPLAYER.SO - X -
+                FILE - X -
+   LIBFLASHPLAYER.SO - X -
+              DOESNT - S -
+                LINK - S -
+            QUESTION - - O

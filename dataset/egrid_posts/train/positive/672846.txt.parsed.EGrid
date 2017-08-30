@@ -1,0 +1,7 @@
+             COMMAND X - - -
+               PPPOE X - - -
+          CONNECTION O - - -
+         PPPOECONFIG - - X -
+                THAT - - - O
+            USERNAME - - - X
+            PASSWORD - - - O

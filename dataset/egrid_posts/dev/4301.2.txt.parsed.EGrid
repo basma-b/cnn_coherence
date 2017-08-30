@@ -1,0 +1,10 @@
+          EXECUTABLE X - - - -
+                NTFS X - - - -
+           PARTITION X - - - -
+                   X - S - - -
+             SYMLINK - X - - -
+               TRICK - X - - -
+               CHMOD - - O - -
+                  +X - - S - -
+               /FILE - - O - -
+               ISSUE - - - - X

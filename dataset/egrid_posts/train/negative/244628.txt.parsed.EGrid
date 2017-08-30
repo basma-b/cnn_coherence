@@ -1,0 +1,23 @@
+              CHANCE X - - - - -
+                  RM X - - - - -
+            /MNT/HDB O - - - - -
+                  CP O - - - - -
+     /MNT/HDB/BACKUP O - - - - -
+                EXT3 O - - - - -
+                GAME - X - - - -
+                DUDE - X - - - -
+                  .. - - - X - -
+               ISSUE - - - O - -
+             COMMAND - - - X - -
+               DMESG - - - - - S
+                 SDA - - - - - S
+               DRIVE - - - - - X
+               CACHE - - - - - O
+/DEV/SCSI/HOST2/BUS0/TARGET0/LUN0 - - - - - X
+                SCSI - - - - - O
+                DISK - - - - - X
+               SCSI2 - - - - - X
+             CHANNEL - - - - - X
+                  ID - - - - - O
+                 SG0 - - - - - X
+                TYPE - - - - - O

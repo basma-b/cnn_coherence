@@ -1,0 +1,12 @@
+             MORNING X - -
+             UPSTART X - -
+         REPLACEMENT X - -
+            SYSVINIT X - -
+         INITDEFAULT O - -
+        /ETC/INITTAB X - -
+                 TIP X - -
+       DEBIAN/UBUNTU - S -
+           RUNLEVELS - O -
+                  NO - - S
+                   X - - O
+             DEFAULT - - X

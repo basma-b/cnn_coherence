@@ -1,0 +1,8 @@
+                TYPE S - - -
+                SUDO X X X -
+/PROC/SYS/NET/IPV4/IP_FORWARD O - - -
+          PERMISSION S - - -
+                ROOT X - - -
+                THIS - O - -
+                 TEE - - O -
+              THANKS - - - X

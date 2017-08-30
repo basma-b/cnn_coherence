@@ -1,0 +1,36 @@
+             PACKAGE S X X X X - S X - X - - - - - -
+               BREAK O X - - X - - - - - - - - - - -
+               STATE X - - - - - X - - - - - - - - -
+              ANYONE S - - - S - - - - - - - - - - -
+               THERE X - - - - - - - - S S - - - - -
+                   > - - - S - - - - - - - - - - - -
+               FLASH - - - X - - - - - - - - - - - -
+            ANYTHING - - - - X - - - - - - - - - - -
+                THAT - - - - - O O - - X X - - - - -
+                SUDO - - - - - X - - X - - - - X - -
+             APT-GET - - - - - X - - - - - - - - - -
+               PURGE - - - - - S - - - - - - - S - -
+         PACKAGENAME - - - - - S - - - - - - - - - -
+              OPTION - - - - - O - - - - - - - - - -
+            SYNAPTIC - - - - - X S - - - - - - - - -
+                 YEP - - - - - - S - - - - - - - - -
+               ERROR - - - - - - X - - - - - - - - -
+             ATTEMPT - - - - - - X - - - - - - - - -
+             REMOVAL - - - - - - X - - - - - - - - -
+                NAME - - - - - - - X - S - - - - - -
+                  RM - - - - - - - - X - - - - - - -
+/VAR/LIB/DPKG/INFO/ADOBE-FLASHPLUGIN.PRERM - - - - - - - - S - - - - - - -
+   ADOBE-FLASHPLUGIN - - - - - - - - - X - - - - - -
+                FILE - - - - - - - - - O - - - - - -
+                  .. - - - - - - - - - O - - - - - -
+                  CD - - - - - - - - - X - - - - - -
+               PRERM - - - - - - - - - O - - - - - -
+             NONFREE - - - - - - - - - X - - - - - -
+               ADOBE - - - - - - - - - X - - - - - -
+           DIRECTORY - - - - - - - - - X - - - - - -
+           SOMETHING - - - - - - - - - - - X - - - -
+/VAR/LIB/DPKG/INFO/FLASHPLUGIN-NONFREE.PRERM - - - - - - - - - - - - S - - -
+FLASHPLUGIN-NONFREE.CONFIG - - - - - - - - - - - - X - - -
+ FLASHPLUGIN-NONFREE - - - - - - - - - - - - - S - -
+           SENESENCE - - - - - - - - - - - - - X - -
+                DPKG - - - - - - - - - - - - - S - -

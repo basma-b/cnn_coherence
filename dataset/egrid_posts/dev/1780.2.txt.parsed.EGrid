@@ -1,0 +1,15 @@
+               TABLE S - - -
+                HTTP O - - -
+                   < X - - -
+            IPTABLES X - - -
+                RULE S O - -
+             NOTHING O - - -
+               CHAIN - S - -
+              PACKET - O - -
+             ACCOUNT - X - -
+               POINT - O - -
+         GNOME-SHELL - - S O
+                 LOT - - X -
+              UPDATE - - X -
+               11.10 - - S -
+               12.04 - - - X

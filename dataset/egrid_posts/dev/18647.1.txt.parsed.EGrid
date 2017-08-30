@@ -1,0 +1,13 @@
+             COMMAND S - - -
+            FILENAME O - - -
+               QUERY S - - -
+             EXAMPLE X - - -
+              STRING X X - X
+                GREP - X - X
+               MATCH - X - -
+                  -L - X - -
+                   * - S - X
+                WORK - O - -
+               MAGIC - X - -
+               PRINT - X - -
+                LINE - O - -

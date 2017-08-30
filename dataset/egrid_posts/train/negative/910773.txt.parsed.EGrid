@@ -1,0 +1,22 @@
+                GREP X - - - - - - - -
+                  EE X - X - - - - - -
+/VAR/LOG/XFREE86.0.LOG X - - - - - - - -
+                  NO X - - - - - - - -
+             DEVICES S - S - - - - - -
+                TALK - X - - - - - - -
+                 SIS - X - - X - - - -
+                CARD - X - - - - - - -
+              DEVICE - X X - - - - - -
+                  II - - X - - - - - -
+                 PCI - - S - - - - - -
+             SECTION - - O - - - - - -
+               BUSID - - X - - - - - -
+              DRIVER - - - X - - - - -
+                LIST - - - X - - - - -
+ /ETC/X11/XF86CONFIG - - - X - - - - -
+               LOADS - - - - - X - - -
+              MODULE - - - - - X - - -
+                INFO - - - - - - X - -
+               THERE - - - - - - - - S
+           SOMETHING - - - - - - - - O
+              KERNEL - - - - - - - - O

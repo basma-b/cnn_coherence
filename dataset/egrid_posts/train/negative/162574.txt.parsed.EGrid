@@ -1,0 +1,14 @@
+             COMMAND X - - - - -
+             PROGRAM O - - - - -
+             FLUXBOX - X - O - -
+             VERSION - X - - - -
+        UNINSTALLING - X - - - -
+           REINSTALL - X - - - -
+             PROCESS - - X - - -
+         APPLICATION - - X - - -
+             APT-GET - - - S - -
+             UPGRADE - - - - S -
+              SYSTEM - - - - O -
+                 TRY - - - - - X
+               HTTPS - - - - - X
+//HELP.UBUNTU.COM/COMMUNITY/GRUBHOWTO - - - - - X

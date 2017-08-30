@@ -1,0 +1,15 @@
+             PACKAGE X O - -
+             APT-GET - S - -
+               PURGE - S - -
+             CONFIGS - O - -
+                 ALL - S - -
+                SUDO - X - -
+             FIREFOX - - S -
+            FACEBOOK - - X -
+              UPDATE - - O -
+                THAT - - - O
+               POINT - - - X
+                LOAD - - - X
+                PATH - - - O
+                 GEM - - - X
+                 RVM - - - X

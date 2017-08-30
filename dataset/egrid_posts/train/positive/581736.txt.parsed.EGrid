@@ -1,0 +1,16 @@
+              PEOPLE O - - - - - - - - -
+                 BOX - S - - - - - - - -
+         PERMISSIONS - X - O - - - - - X
+          EVERYTHING - S - - - - X - - X
+               LINUX - X - - - - - - - -
+            EVERYONE - S - - - - - - - -
+                BOOT - O - - - - - - - -
+           INITRAMFS - X - - - - - - - -
+              ANYONE - - - - X - - - - -
+             COMMAND - - - - - - - X - -
+                READ - - - - - - - - - X
+              GKSUDO - - - - - - - - - O
+          FILESYSTEM - - - - - - - - - X
+       RIGHT-CLICKED - - - - - - - - - X
+               CLICK - - - - - - - - - X
+               GROUP - - - - - - - - - X

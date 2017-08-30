@@ -1,0 +1,21 @@
+                WIRE X - - - - -
+          CONNECTION S O O - - -
+                  IP X - - - - -
+             NETWORK - X X - - -
+             MANAGER - X O - - -
+                 GUI - S - - - -
+                 ALL - O - - - -
+                THIS - X S - - -
+                 USB - X - - - -
+                N900 - X X X - -
+                TIME - - X - - -
+               ENTRY - - S S - -
+          INTERFACES - - S - - -
+            INTERNET - - X - - -
+                ETH0 - - O - - -
+                VICE - - O - - -
+               THERE - - S S - -
+              UBUNTU - - S - - -
+/ETC/NETWORK/INTERFACES - - X X - -
+                 ONE - - - O - -
+             PACKAGE - - - - - O

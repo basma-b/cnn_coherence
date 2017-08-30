@@ -1,0 +1,27 @@
+                TIME X - - - - -
+             APACHE2 X X - - - -
+       CONFIGURATION X X - - - -
+                FILE X O - - O -
+/ETC/APACHE2/APACHE2.CONF O O - - - -
+           DIRECTORY X S - - - -
+                 HAT X - - - - -
+           REINSTALL X - - - - -
+             SERVER1 X - - - - -
+    APACHE2.2-COMMON X - - - - -
+           OPERATION X - - - - -
+/ETC/APACHE2/ENVVARS - X - - - -
+               ERROR - O - - - -
+                NEED - X - - - -
+                 PHP - - - X - S
+              THINGS - - - O - -
+              APACHE - - - - X X
+             PACKAGE - - - - O -
+                   $ - - - - - X
+                SUDO - - - - - X
+                   | - - - - - X
+                 AWK - - - - - X
+           /APACHE2/ - - - - - X
+               PRINT - - - - - X
+               XARGS - - - - - X
+            APTITUDE - - - - - X
+              INSTAL - - - - - O

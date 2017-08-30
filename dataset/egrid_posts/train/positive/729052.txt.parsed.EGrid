@@ -1,0 +1,11 @@
+              KERNEL O - - -
+             DESKTOP X - - -
+                BOOT X X X -
+                 ONE X - - -
+                TIME - X - -
+                LILO - X S -
+          BOOTLOADER - - O -
+              CHANGE - - O -
+             DEFAULT - - X -
+               HTTPS - - X -
+           DEFAULT=0 - - - X

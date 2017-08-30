@@ -1,0 +1,10 @@
+                BIND X - X - - - -
+              APACHE X - X - - - -
+             ADDRESS X - - O - - -
+                  IP - S X X - - -
+             MACHINE - - - X - - -
+                 VPS - - - - - O -
+                FILE - - - - - - X
+/ETC/APACHE2/PORTS.CONF - - - - - - X
+                LINE - - - - - - O
+          1.2.3.4:80 - - - - - - O

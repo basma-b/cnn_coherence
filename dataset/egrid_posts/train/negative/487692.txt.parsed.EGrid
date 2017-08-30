@@ -1,0 +1,19 @@
+             PACKAGE X - - -
+     /USR/BIN/FACTOR X - X -
+                 MMS - - X -
+                LINK - - O -
+             MPLAYER - - X -
+              PLUGIN - - X -
+                WORK - - O -
+            CONFLICT - - X -
+               TOTEM - - X -
+               MEDIA - - X -
+             PLUGINS - - X -
+                THIS - - - X
+/ETC/APT/SOURCES.LIST - - - X
+                 DEB - - - X
+    BREEZY-BACKPORTS - - - X
+                MAIN - - - S
+            UNIVERSE - - - X
+          MULTIVERSE - - - O
+            QUESTION - - - O

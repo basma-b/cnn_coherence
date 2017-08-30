@@ -1,0 +1,20 @@
+               DRIVE S - - - - - -
+               SLAVE X - - - - - -
+                BOOT X X X - - - O
+                HDA1 X - - - - - -
+                TIME - X - - - - -
+                HDB1 - X - - - - -
+                  PC - O - - - - -
+               SETUP - X - - - - -
+                 CMD - O X - - - -
+             ANYBODY - - S - - - -
+                LINE - - O - - - O
+             DEFAULT - - O - - - -
+                ROOT - - - X - - -
+              OPTION - - - O - - -
+                 HWO - - - X - - -
+                TYPE - - - - - X -
+/BOOT/GRUB/SOURCES.LST - - - - - X -
+            TERMINAL - - - - - X -
+             OPTIONS - - - - - - X
+              KERNEL - - - - - - X

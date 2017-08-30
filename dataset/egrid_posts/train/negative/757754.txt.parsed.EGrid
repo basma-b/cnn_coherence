@@ -1,0 +1,14 @@
+               THERE X - - -
+             COMMAND X - - -
+              ACCESS X - - -
+             PROGRAM X - - -
+                FILE - O - O
+                LSOF - S - -
+              OUTPUT - O - X
+                PIPE - X - -
+                GREP - X - -
+                 HMM - - S -
+              FFMPEG - - - X
+                  -I - - - X
+             FOO.WAV - - - S
+                FLAG - - - O

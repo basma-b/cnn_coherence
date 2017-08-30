@@ -1,0 +1,16 @@
+                   ' S - - - - - -
+                 SMB X - - - - - -
+           WORKGROUP S - - - - - -
+              CHANGE O - - - - - -
+             SMB.CFG X - - - - - -
+ SYSTEM-CONFIG-SAMBA X - - - - - -
+                  OK S - - - - - -
+             CONFUSE X - - - - - -
+                FILE - O - - - - -
+         /ETC/SAMBA/ - - - X - - -
+                LOOK - - - O - - -
+             PACKAGE - - - - - O -
+                ONES - - - - - O -
+                SUDO - - - - - - X
+             APT-GET - - - - - - S
+       MADWIFI-TOOLS - - - - - - O

@@ -1,0 +1,15 @@
+        INPUT/OUTPUT X X -
+               ERROR O X -
+               DRIVE X S -
+                BOOT O - -
+                 WAY X - -
+                FILE O - -
+           /ETC/MTAB - X -
+                FSCK - S -
+              LIVECD - X -
+                  NO - S -
+                MTAB - O -
+               BREAK - O -
+               FLASH - X -
+               MEDIA - O -
+              SECTOR - X -

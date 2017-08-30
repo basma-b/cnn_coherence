@@ -1,0 +1,33 @@
+           CHARACTER X X - - - - - - -
+              SCRIPT X X - O - - - - -
+                 VIM - S S - - - - - -
+                   S - X X - - - - - -
+                BASH - X - - - - - - -
+            TOFRODOS - - X - - - - - -
+             PACKAGE - - S X - - - S -
+             FROMDOS - - X - - - - - -
+             COMMAND - - O - - - - - -
+              RETURN - - X - - - - - -
+         COMBINATION - - S - - - - - -
+                TIME - - - X - - - - -
+          EXTENSIONS - - - X X - - - -
+                 PPA - - - S - - - - -
+               GNOME - - - X - - - X -
+GNOME-SHELL-EXTENSIONS - - - O O - - - -
+                USER - - - X - - - X -
+               THEME - - - S - - - X -
+               PREFS - - - X - - - - -
+              DIALOG - - - X - - - - -
+         GNOME-SHELL - - - O - - - - -
+           EXTENSION - - - - X - - S -
+                SUDO - - - - X - - - -
+             APT-GET - - - - X - - - -
+                   R - - - - - - X - -
+               THERE - - - - - - - S -
+        DEPENDENCIES - - - - - - - O -
+                PART - - - - - - - O -
+                 ALL - - - - - - - O -
+                ONES - - - - - - - X -
+          REPOSITORY - - - - - - - X -
+                 ONE - - - - - - - X -
+GNOME-SHELL-EXTENSION-PREFS - - - - - - - - O

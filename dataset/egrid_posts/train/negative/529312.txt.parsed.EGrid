@@ -1,0 +1,10 @@
+             PACKAGE X - - -
+            DATABASE X - - -
+       SUITE=DEFAULT - - X -
+         SECTION=ALL - - X -
+            ARCH=ANY - - X -
+      SEARCHON=NAMES - - X -
+       KEYWORDS=SNES - - X -
+               MUSIC - - - X
+              PLAYER - - - O
+              MPG123 - - - X

@@ -1,0 +1,15 @@
+             COMMAND X - - - O
+                FILE O X - - -
+              SYSTEM X - - - -
+                NAME - X - - -
+                WORK - X - - -
+                GOOD - O - - -
+            UPDATEDB - O - - -
+                   > - O - - -
+                  ID - - - S -
+               CHECK - - - X -
+                YOUT - - - X -
+               PATHS - - - X -
+         PERMISSIONS - - - X -
+              SCRIPT - - - O -
+                PATH - - - - X

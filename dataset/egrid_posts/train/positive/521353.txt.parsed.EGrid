@@ -1,0 +1,21 @@
+                  ES - O - - - - - - - - - - -
+                  XP - X - X - - - - - - - - -
+              CENTOS - X - X - - - O - - - - -
+              UBUNTU - O - - - - - - - - - - -
+               ERROR - - O O - - - - - - - - -
+                 HD0 - - X - - - - - - - - - -
+             COMMAND - - S - - - - - - - - - -
+                BOOT - - - X - - - - - - - - -
+              LOADER - - - X - - - - - - - - -
+           /DEV/SDA1 - - - X - - - - - - - - -
+          /DEV/SDA12 - - - X - - - - - - - - -
+                THAT - - - - O - - - - - - - -
+           PARTITION - - - - - X - X - - - - -
+                GRUB - - - - - - - O - - - - -
+              GENTOO - - - - - - - X S O - - -
+               CHAIN - - - - - - - - X - - - -
+                LOAD - - - - - - - - X - - - -
+               SHARE - - - - - - - - X - - - -
+       CENTOS/GENTOO - - - - - - - - - - - - X
+                HTTP - - - - - - - - - - - - X
+//WWW.SUPERGRUBDISK.ORG/WIKI/MULTI_DISTRIBUTION_BOOT_HOWTO - - - - - - - - - - - - X

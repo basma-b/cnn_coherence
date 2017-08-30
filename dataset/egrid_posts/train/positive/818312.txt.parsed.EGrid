@@ -1,0 +1,23 @@
+           INTERFACE X - - - - - - - -
+            IFCONFIG - X - - - - - - -
+                EACH - S - - - - - - -
+              SYSTEM - - - X - - - - -
+    TYPE=METHOD_CALL - - - X - - - - -
+DEST=ORG.FREEDESKTOP.NETWORKMANAGER - - - X - - - - -
+/ORG/FREEDESKTOP/NETWORKMANAGER - - - X - - - - -
+ORG.FREEDESKTOP.DBUS.PROPERTIES.SET - - - X - - - - -
+              STRING - - - O - - - - -
+             VARIANT - - - X - - - - -
+             BOOLEAN - - - X - - - - -
+            TERMINAL - - - X - - - - -
+                MINE - - - X - - - - -
+               STUFF - - - X - - - - -
+              TOMBOY - - - - - X - - -
+             VERSION - - - - - O - - -
+             BANSHEE - - - - - O - - -
+               10.10 - - - - - - - - O
+              LAPTOP - - - - - - - - X
+               SHARE - - - - - - - - X
+            GRAPHICS - - - - - - - - X
+               UNITY - - - - - - - - O
+             DESKTOP - - - - - - - - X

@@ -1,0 +1,6 @@
+             COMMAND O -
+              SEARCH X -
+             APT-GET O -
+             PACKAGE O -
+              OPENGL S -
+                  NP - X

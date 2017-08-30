@@ -1,0 +1,24 @@
+                USER - X - - - - - -
+             ACCOUNT - O - - - - - -
+             MACHINE - X - - - - - -
+            SOFTWARE - O - - - - - -
+          LIBCPPUNIT - O - - - - - -
+              SYSTEM - X - - - - - -
+                 THE - - O - - - - -
+              METHOD - - X - - - - -
+           CONFIGURE - - X - - - - -
+                SOME - - S - - - - -
+           LIBRARIES - - X - - - - -
+           DIRECTORY - - X - - - - -
+/HOME/ME/OPT/LIBCPPUNIT - - X - - - - -
+                THIS - - - S - - - -
+                PATH - - - O - - - -
+     /ETC/LD.SO.CONF - - - X - X - -
+                LOOK - - - - O - - -
+             LDFLAGS - - - - X X - -
+                 ENV - - - - X - - -
+            VARIABLE - - - - X - - -
+              CFLAGS - - - - - X - -
+          PERMISSION - - - - - O - -
+     LD_LIBRARY_PATH - - - - - - - S
+                 ONE - - - - - - - O

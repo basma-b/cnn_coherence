@@ -1,0 +1,17 @@
+             PROBLEM - O - - - -
+            SHUTDOWN - X - - - -
+               SYSTE - O - - - -
+               LOGIN - X - X - -
+            PASSWORD - S - - O -
+                ROOT - X X X X -
+              SYSTEM - O - - - -
+                 IUT - S - - - -
+             ACCOUNT - - S S - -
+                SUDO - - X X S X
+                 USE - - - X - -
+             DEFAULT - - - X - -
+              ACCESS - - - X - -
+                USER - - - - X -
+            TERMINAL - - - - O -
+                TYPE - - - - - O
+                  -U - - - - - S

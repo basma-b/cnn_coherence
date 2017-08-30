@@ -1,0 +1,17 @@
+               IMAGE O X - - -
+                 HDD X - - - -
+                  DD - X - - -
+           PARTIMAGE - X - - -
+           PARTITION - X - - -
+               THERE - S - - -
+               SHARE - X - - -
+               MODES - S - - -
+               DRIVE - X - - -
+           DIRECTORY - O - - O
+         PERMISSIONS - X - - -
+            SMB.CONF - - O - O
+              ACCESS - - O - -
+           USER/PASS - - O - -
+                USER - - - X -
+             ACCOUNT - - - O -
+                FILE - - - - X

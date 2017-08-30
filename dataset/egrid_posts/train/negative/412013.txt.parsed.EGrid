@@ -1,0 +1,8 @@
+            GRAPHICS X - -
+                CARD X - -
+            TERMINAL X - -
+               LSPCI - S -
+                 VGA - O -
+                SWAP - - S
+            PAGEFILE - - O
+                   M - - X

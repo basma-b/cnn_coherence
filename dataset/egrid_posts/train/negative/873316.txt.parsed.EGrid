@@ -1,0 +1,22 @@
+            FIREWALL O - - - - - - -
+                RULE X - - X - - - -
+                 BOX X - - - - - - -
+                 SSH O - - - O - - -
+            ANYTHING - O - - - X - -
+              SERVER - X - - - - - -
+                THAT - - X - - - - -
+            IPTABLES - - - X - S - -
+                  -L - - - S - - - -
+              OPTION - - - - X - - -
+              OUTPUT - - - - O - - -
+          CONNECTION - - - - X - - -
+             PROCESS - - - - X - - -
+                -VVV - - - - - X - -
+            INTEREST - - - - - X - -
+                HTTP - - - - - O - -
+//DPASTE.COM/675643/ - - - - - S - -
+                SSHD - - - - - S - -
+             SESSION - - - - - O - -
+                THIS - - - - - - S -
+            DISASTER - - - - - - O -
+                  NO - - - - - - - X

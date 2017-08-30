@@ -1,0 +1,13 @@
+           DIRECTORY S - - - -
+                FILE X - - - -
+              ACCESS O - - - -
+       USERS…WHERE X - - - -
+               THING X - - - -
+          FILESYSTEM X - - - -
+            EVERYONE - - S - -
+       /COMMONFILES/ - - X - -
+             FOLDERS - - - X -
+                ROOT - - - X -
+              COURSE - - - - X
+               SENCE - - - - S
+     /USR/BIN/STUFF/ - - - - X

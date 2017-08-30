@@ -1,0 +1,17 @@
+           PARTITION X O - - - -
+                BOOT X - - - - -
+         DESTINATION X - - - - -
+                DISK X - - - - -
+                  BE - X - - - -
+                UUID - S - - - -
+                TEST - X - - - -
+              SCRIPT - X - - - -
+                GRUB - - X - - -
+              CONFIG - - X - - -
+                FILE - - X - - O
+               FSTAB - - O - - -
+                  .. - - - X - -
+                 JOB - - - X - -
+            HACK-JOB - - - - X -
+                NEED - - - - - O
+             PROCESS - - - - - O

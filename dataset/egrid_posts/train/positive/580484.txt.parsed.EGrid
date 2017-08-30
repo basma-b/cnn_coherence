@@ -1,0 +1,16 @@
+                KDAR X - - - - - - -
+               DITRO X - - - - - - -
+                HTTP - X - - - - - -
+//PACKAGES.UBUNTU.COM/SEARCH - X - - - - - -
+       SUITE=DEFAULT - - X - - - - -
+         SECTION=ALL - - X - - - - -
+            ARCH=ANY - - S - - - - -
+      SEARCHON=NAMES - - X - - - - -
+       KEYWORDS=KDAR - - S - - - - -
+            SYNAPTIC - - O - O - - -
+                 ALL - - - O - - - -
+              SEARCH - - - X - - - -
+            UNIVERSE - - - - X - - -
+              DAPPER - - - - - - X -
+              UBUNTU - - - - - - - X
+             VERSION - - - - - - - X

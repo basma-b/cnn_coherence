@@ -1,0 +1,16 @@
+             COMMAND X - - -
+                ECHO - S - -
+               FGLRX - O - -
+                SUDO - X - -
+                 TEE - X - -
+                  -A - S - -
+                LIST - X - -
+             MODULES - X - -
+                BOOT - X - -
+     SECONDARY-CLICK - X - -
+               CLEAN - X - -
+                NAME - X - -
+                HEHE - - - X
+/PROC/ACPI/THERMAL_ZONE/ - - - X
+          /PROC/ACPI - - - S
+                  .. - - - O

@@ -1,0 +1,13 @@
+                USER S - - -
+             COMMAND O - - -
+                LINE X - - -
+             ADDUSER X - - -
+                WGET X - - O
+                 TAR X - - -
+          PERMISSION S - - -
+                BASH - X - X
+                SHEL - X - -
+                 WHT - - S -
+              WHOAMI - - X S
+             SOMEONE - - - S
+            USERNAME - - - O

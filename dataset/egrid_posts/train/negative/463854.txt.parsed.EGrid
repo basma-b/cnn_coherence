@@ -1,0 +1,22 @@
+                 KDE O - - - - -
+               XFCE4 O - - - - -
+GNOME-KEYRING-MANAGER - S - S - -
+          DEPENDENCY - O - - - -
+               REPOS - X - - - -
+                 APT - - S - - -
+       GNOME-DESKTOP - - O - - -
+             APT-GET - - - S - -
+               GNOME - - - O - -
+                 GDM - - - X - -
+GNOME-DESKTOP-ENVIRONMENT - - - X - -
+                   > - - - X X -
+                 USE - - - X - -
+              GOOGLE - - - X - -
+                   D - - - X - -
+                WOLS - - - - X -
+            KEYCHAIN - - - - O -
+               LOGIN - - - - X -
+              SCRIPT - - - - S -
+                TIRE - - - - X -
+            SESSIONS - - - - O -
+              REASON - - - - - X

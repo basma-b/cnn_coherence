@@ -1,0 +1,16 @@
+           XORG.CONF O O - - - - - -
+       AUTODETECTION X - - - - - - -
+       CONFIGURATION O - X - - - - -
+              V-SYNC O - - - - - - -
+             NOUVEAU X - - - - - - -
+          EVERYTHING - O - - - - - -
+                FILE - - O - - O - -
+              NVIDIA - - - X - - - -
+              DRIVER - - - X - - - -
+                 WAY - - - - O - - -
+                 LOG - - - - X - - -
+                   * - - - - - X - -
+          SSH-SERVER - - - - - O - -
+            LOGLEVEL - - - - - - X -
+                NONE - - - - - - X -
+              SYSLOG - - - - - - - O

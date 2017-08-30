@@ -1,0 +1,7 @@
+             COMMAND X X -
+                FILE O - -
+            SUDO-APT S - -
+         PACKAGENAME S O -
+                LIST - X -
+                DONT - - S
+              MATTER - - X

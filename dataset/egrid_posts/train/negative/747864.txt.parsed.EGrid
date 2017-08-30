@@ -1,0 +1,10 @@
+           PARTITION O S - - - - - - -
+                SWAP X - - - - - - - -
+                 LVM - O - - - - - - -
+                FSCK - O S - - - - - -
+            ANYTHING - - O - - - - - -
+         SUGGESTIONS - - - X - - - - -
+                  -Y - - - - S - - - -
+                 ALL - - - - - - - - O
+                LUCK - - - - - - - - O
+            SOMEBODY - - - - - - - - X

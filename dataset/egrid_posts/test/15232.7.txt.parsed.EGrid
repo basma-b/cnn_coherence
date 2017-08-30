@@ -1,0 +1,28 @@
+            LOCATION X - - - - - -
+                  CP X - - X - - -
+             FOLDERS X - - - - - -
+             EXAMPLE - X - - - - -
+/MEDIA/HDD1/FOLDER1+FOLDER2 - X - - - - -
+        /MEDIA/HDD2/ - X - - - - -
+              FOLDER - O - - - - -
+              STRING - X - - - - -
+             COPY/CP - X - - - - -
+              ADVICE - - X - - - -
+         SUGGESTIONS - - S - - - -
+             /TARGET - - - X - - -
+            USBMOUNT - - - - O - -
+                RULE - - - - O - -
+                TYPE - - - - O - -
+             DEVICES - - - - X - O
+/LIB/UDEV/RULES.D/USBMOUNT.RULES - - - - X - -
+                FIRE - - - - X - -
+              SCRIPT - - - - S - -
+             UNMOUNT - - - - X - -
+       CONFIGURATION - - - - - S -
+          /MEDIA/USB - - - - - - X
+        FILE-SYSTEMS - - - - - - S
+           PARTITION - - - - - - X
+               THOSE - - - - - - O
+              CONFIG - - - - - - X
+         FILESYSTEMS - - - - - - X
+            VARIABLE - - - - - - X

@@ -1,0 +1,27 @@
+             IOCASTE - O - - - - - - -
+                 SEC - - S - - - - - -
+                 HDA - - X - - - - - -
+               SOUND - - X - - - O - -
+             CHIPSET - - O - - - - - -
+                BIOS - - X - - - - - -
+                BOOT - - - X - - - - -
+              UBUNTU - - - X - - - - -
+                LOOK - - - - O - - - -
+                 BUG - - - - X - - - -
+              REPORT - - - - X - - - -
+               HTTPS - - - - O - - - -
+//LAUNCHPAD.NET/DISTROS/UBUNTU/+SOURCE/LINUX-SOURCE-2.6.15/+BUG/21256 - - - - O - - - -
+                 BOT - - - - S - S - -
+        INSTRUCTIONS - - - - S - - - -
+                STEP - - - - X - O - -
+            UNIVERSE - - - - X - - - -
+          REPOSITORY - - - - X - - - -
+              FAMILY - - - - - X - - -
+            BUSINESS - - - - - X - - -
+               ISSUE - - - - - S - - -
+             MESSAGE - - - - - X - - -
+              AMIXER - - - - - - - X -
+              OUTPUT - - - - - - - O -
+               ERROR - - - - - - - - S
+                LINE - - - - - - - - O
+            ARGUMENT - - - - - - - - X

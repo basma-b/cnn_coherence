@@ -1,0 +1,14 @@
+                FLAG O X -
+                 YES O - -
+       /PROC/CPUINFO - O -
+                 CPU - S -
+               INTEL - X -
+                FACT - X -
+       DOCUMENTATION - X -
+                CHIP - X -
+                  .. - O -
+               EGREP - X -
+             VMX|SVM - X -
+                TIME - - X
+                 LOT - - X
+                 BUG - - X

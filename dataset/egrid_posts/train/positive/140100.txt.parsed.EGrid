@@ -1,0 +1,10 @@
+                FILE X X - - -
+              FORMAT X X - - -
+           PARTITION X X - - -
+                EXT3 X - - - -
+              SYSTEM - X - - -
+           MKFS.EXT3 - X X - -
+               TABLE - X - - -
+                NTFS - X - - -
+                SUDO - - X - -
+                MKFS - - - - X

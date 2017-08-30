@@ -1,0 +1,17 @@
+                NTFS O X - - - -
+          READ/WRITE X - - - - -
+                 EXT X - - - - -
+           PARTITION X - - - - -
+               /HOME X - - - - -
+             WINDOWS X - X - - -
+             SUPPORT - O - - - -
+          EXPLORE2FS - S - - - -
+               SAMBA - O - - - -
+                   < - X - - - -
+                   > - X - - - -
+               SHARE - X - - - -
+                 WAY - - X - - -
+       \\SERVER\USER - - - X - -
+      //SERVER/SHARE - - - - - S
+               SMBFS - - - - - O
+          /MNT/POINT - - - - - X

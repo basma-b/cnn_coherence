@@ -1,0 +1,20 @@
+                  HI S - - - - - - - - - -
+                 ETC X - - - - - - - - - -
+                8.04 - X - X - - - - - - -
+          PULSEAUDIO - - - S - - - - - - -
+                  HW - - - O - - - - - - -
+             DEFAULT - - - X O - - - - - -
+                  PA - - - - S - - - - - -
+/ETC/PULSE/DEFAULT.PA - - - - X - - - - - -
+                DMIX - - - - X - - - - - -
+              DSNOOP - - - - O - - - - - -
+         PASUSPENDER - - - - O - - - - - -
+                THAT - - - - - X - - - - -
+             KUBUNTU - - - - - X - - - - -
+          DEFAULT.PA - - - - - - - X - - -
+              CHANGE - - - - - - - - S - -
+         DEVICE=DMIX - - - - - - - - X - -
+             PROBLEM - - - - - - - - - - X
+        XSERVER-XORG - - - - - - - - - - O
+                FILE - - - - - - - - - - O
+                HAND - - - - - - - - - - X

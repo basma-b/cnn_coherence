@@ -1,0 +1,23 @@
+                 LTS O - - - - - - - - -
+          VIRTUALBOX X - - - - - - - - -
+                 OSX X - - - - - - - - -
+             ADAPTER O - O - - - - - - -
+             MACHINE X - - - X - - - - -
+              SSHING - O - - - - - - - -
+                 SSH - - S - - - - - - -
+/ETC/NETWORK/INTERFACES - - X - - - - - - -
+                FILE - - X - - - - - - -
+               GUEST - - X - - - - - - -
+                 ONE - - - X - - - - - -
+                ETH1 - - - - O - - S - -
+                  IP - - - - X - - - - -
+             ADDRESS - - - - X - - - - -
+                  .. - - - - X - - - - -
+           INTERFACE - - - - X S - - - -
+      NETWORKMANAGER - - - - S - - - - -
+             NETWORK - - - - O - - - X -
+             DEFAULT - - - - - O - - - -
+               THERE - - - - - - - - S -
+             MANAGER - - - - - - - - O -
+                STEP - - - - - - - - - S
+               ERROR - - - - - - - - - X

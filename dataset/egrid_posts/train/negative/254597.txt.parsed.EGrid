@@ -1,0 +1,27 @@
+                 SEC X - - - - - - -
+              KERNEL - X X - - - - -
+             MODULES - X - S X - - -
+                 GUI - - S - - - O -
+                THIS - - S - - - - -
+LINUX-RESTRICTED-MODULES - - X - - - - -
+             PACKAGE - - X - X O X -
+              INSTAL - - O - - - - -
+            APTITUDE - - X - - - - -
+                 W/E - - S - - - - -
+ NVIDIA-KERNEL-CMMON - - O - - - - -
+            CONFLICT - - S X S - - -
+                BASE - - X X - - - -
+              MODULE - - X X - - - -
+                NAME - - O - - - - -
+               INTEL - - - X - - - -
+                 ABG - - - X - - - -
+            WIRELESS - - - X - - - -
+                CARD - - - O - - - -
+              NVIDIA - - - X - - - -
+               STUFF - - - O - - - -
+              NIVDIA - - - X - - - -
+                AUTO - - - - S - - -
+                 USE - - - - - - X -
+                 CLI - - - - - - X -
+             MANAGER - - - - - - X -
+               THANK - - - - - - - X

@@ -1,0 +1,9 @@
+        DEPENDENCIES O - O -
+                  .. X - - -
+                MEET O - - -
+           APT-CACHE - - X -
+            RDEPENDS - - X -
+             PACKAGE - - X -
+            APTITUDE - - - S
+             RESOLVE - - - X
+            CONFLICT - - - X

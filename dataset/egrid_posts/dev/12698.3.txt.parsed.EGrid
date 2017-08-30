@@ -1,0 +1,12 @@
+                  IM X - - -
+               GEDIT X - - -
+            TERMINAL - X - -
+                FILE - X - O
+           DIRECTORY - S - -
+                PATH - O - -
+                  SH - X - -
+            ./FOO.SH - X - -
+             HEADERS - - X -
+         UPDATE-GRUB - - - O
+                LINE - - - O
+       GRUB_GFXMODE= - - - X

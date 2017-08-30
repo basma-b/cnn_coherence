@@ -1,0 +1,10 @@
+             COLUMNS X - - - - - - -
+                FILE X - - - - - - -
+     /VAR/MESSAGES.0 - - - X - - - -
+                TIME - - - - - X - -
+                 LOG - - - - - X - -
+               STAMP - - - - - O - -
+           BLACKLIST - - - - - - - X
+             MODULES - - - - - - - O
+                LOAD - - - - - - - X
+                PORT - - - - - - - O

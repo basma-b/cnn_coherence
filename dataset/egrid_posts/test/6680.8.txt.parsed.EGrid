@@ -1,0 +1,12 @@
+               BLKID - S - - -
+             DEFAULT - X - - -
+              KERNEL - - X - -
+             SUPPORT - - S - -
+                NTFS - - X - -
+                  RW - - X - -
+               PROXY - - - - X
+                 RUN - - - - O
+             GATEWAY - - - - X
+                WORK - - - - S
+               WORKS - - - - O
+                 SSH - - - - S

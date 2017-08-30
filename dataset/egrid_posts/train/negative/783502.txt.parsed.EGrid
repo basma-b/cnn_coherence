@@ -1,0 +1,12 @@
+               FSTAB S - - - -
+                 LVM X - - - -
+             ENCRYPT X - - - -
+           PARTITION O - - - -
+                BOOT X - - - -
+      LVM-ENCRYPTION - X - - -
+               SETUP - S - - -
+          ENCRYPTION - X - - -
+                WHAT - - O - -
+        INSTALLATION - - O - -
+                  CD - - O - -
+        COMBINATIONS - - - - O

@@ -1,0 +1,9 @@
+             COMMAND X - - - - -
+           SOMETHING - S - - - -
+          AUTOCONFIG - X - - - -
+              LIVECD - X - - - -
+           CONFIGURE - O - - - -
+             DNSMASQ - - S - - -
+        REPOSITORIES - - X - S -
+         RECONFIGURE - - - - - X
+             APT-GET - - - - - O

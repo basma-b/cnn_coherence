@@ -1,0 +1,15 @@
+            WWW-DATA O -
+               GROUP S -
+              THINGS X -
+                FILE O -
+      GROUP-WRITABLE X -
+              FOLDER O -
+                ROOT O -
+              VHOSTS X -
+/VAR/WWW/SITEROOTDIR/ X -
+                BOOT - S
+                  CD - X
+                TEXT - X
+                MODE - X
+              DEBIAN - X
+           INSTALLER - X

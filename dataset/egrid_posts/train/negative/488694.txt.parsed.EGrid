@@ -1,0 +1,15 @@
+             COMMAND O O - - -
+                TEXT X - - - -
+              SCRIPT - O X - -
+                LINE - X - - -
+                BASH - X X - -
+                FILE - - O - -
+            FILENAME - - X - -
+                HTTP - - X - -
+//PASTEBIN.UBUNTU.COM - - X - -
+             PACKAGE - - - - X
+         DEBOOTSTRAP - - - - O
+               SETUP - - - - X
+              SYSTEM - - - - O
+              INSTAL - - - - X
+                  CD - - - - X

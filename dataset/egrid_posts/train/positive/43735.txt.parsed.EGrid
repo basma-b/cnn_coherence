@@ -1,0 +1,11 @@
+        HDIO_SET_DMA S - - - S -
+           OPERATION X - - - X -
+                   T - - - - S -
+                 DNA - - - - O -
+               ERROR - - - - X -
+           USING_DMA - - - - O -
+                SUDO - - - - O -
+            /DEV/DVD - - - - X -
+               CDROM - - - - X -
+                 DVD - - - - X -
+                ROOT - - - - - O

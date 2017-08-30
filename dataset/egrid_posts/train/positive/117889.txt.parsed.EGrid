@@ -1,0 +1,11 @@
+                BOOT S - - -
+             NETWORK X - - X
+          CONNECTION S - - -
+          DEACTIVATE X - - -
+                THIS S - - -
+         NDISWRAPPER O X - -
+              KERNEL - - - X
+                 MOD - - - X
+             WINDOWS - - - O
+             DRIVERS - - - O
+               LINUX - - - X

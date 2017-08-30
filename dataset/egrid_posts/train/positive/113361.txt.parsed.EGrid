@@ -1,0 +1,24 @@
+               THERE X - - - - - - -
+             ANYBODY X - - - - - - -
+            QUESTION X - S - - - - -
+         SUGGESTIONS - X - - - - - -
+            ANYTHING - S - - - - - -
+              KERNEL - - X - - - - -
+              MODULE - - X - - - - -
+          CONTROLLER - - X - - - - -
+                LOAD - - X - - - - -
+           BOOT-TIME - - X - - - - -
+            EHCI_HCD - - - O O - - -
+/ETC/HOTPLUG/BLACKLIST - - - X - - - -
+                THAT - - - - S O - -
+               DUNNO - - - - S - - -
+              DOESNT - - - - S - - -
+                 ONE - - - - S - - -
+                 UMM - - - - O - - -
+                BOTH - - - - - - X -
+           REFERENCE - - - - - - X S
+                EHCI - - - - - - X -
+                FILE - - - - - - X X
+           BLACKLIST - - - - - - - O
+      MAYBE_MODPROBE - - - - - - - O
+                FUNC - - - - - - - X

@@ -1,0 +1,12 @@
+            IPTABLES X - - - - -
+                RULE X - - - - -
+                 NAT - X - - - -
+                  -A - S - - - -
+                  -J - X - - - -
+          MASQUERADE - X - - - -
+               RIGHT - X - - - -
+               IFACE - - S - S -
+             PACKETS - - S - - -
+                 NIC - - - - O S
+                 LAN - - - - X -
+                 ISP - - - - - X

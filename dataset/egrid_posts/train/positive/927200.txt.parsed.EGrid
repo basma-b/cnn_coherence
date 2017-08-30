@@ -1,0 +1,15 @@
+               STICK O - - - X - - - - -
+              FORMAT X X - - - O - - - -
+                VFAT O - - - - - - - - -
+           SOMETHING - X - - - - - - - -
+        MANUFACTURER - - - X - - - - - -
+                 USB - - - - X - - - - -
+                EXT3 - - - - - S - - - -
+             WINDOWS - - - - - X - - - -
+             COMMAND - - - - - S - - - -
+              MKE2FS - - - - - S - - - -
+                  -J - - - - - S - - - -
+           /DEV/SDA1 - - - - - S - - - -
+               DRIVE - - - - - X - - - -
+                  NO - - - - - - - S - -
+                  .. - - - - - - - X - -

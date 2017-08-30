@@ -1,0 +1,16 @@
+            LOCATION X - - -
+     GNOME-SYSTEM-MO X - - -
+/USR/BIN/GNOME-SYSTEM-MONITOR - X - -
+                 YES - - S -
+               MOUNT - - O X
+             NETWORK - - S -
+                EXIT - - X -
+                LINE - - X -
+            PASSWORD - - - O
+             COMMAND - - - O
+             STARTUP - - - X
+                SUDO - - - X
+                ITEM - - - O
+                USER - - - X
+             SESSION - - - X
+               LOGON - - - X

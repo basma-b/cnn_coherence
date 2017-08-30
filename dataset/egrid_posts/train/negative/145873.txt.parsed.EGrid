@@ -1,0 +1,13 @@
+                  .. O - X -
+                ROOT X X - -
+            PASSWORD X X X -
+                 USE X - X -
+                SUDO X - O X
+              SYSTEM - X - -
+                   > - X - -
+      ADMINISTRATION - X - -
+          NETWORKING - X - -
+               SHELL - - X -
+                USER - - X -
+             APT-GET - - - S
+         GNOME-SHELL - - - O

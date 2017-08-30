@@ -1,0 +1,10 @@
+             COMMAND X - - -
+                 BOX X - - -
+                  IP - S - -
+            IFCONFIG - S - -
+             NETWORK - X - -
+             ADDRESS - O - -
+              ROUTER - X - -
+                WIRE - X - X
+            WIRELESS - X - -
+                DONT - - - X

@@ -1,0 +1,17 @@
+                THAT - O - - -
+             STARTUP - X - - -
+                SUDO - X - - -
+               RMMOD - X - - -
+              NVIDIA - O - - -
+            MODPROBE - X - - -
+              KERNEL - X - - -
+              MODULE - X - - -
+           SOMETHING - O - - X
+                 ONE - - X - -
+             PACKAGE - - - - X
+              PYTHON - - - - S
+             VERSION - - - - X
+             SYMLINK - - - - O
+             MODULES - - - - S
+           DIRECTORY - - - - X
+          /USR/LOCAL - - - - X

@@ -1,0 +1,13 @@
+              SYSTEM S - S - - - - -
+                BOOT O - O - - - - -
+              SCREEN O - O - - - - -
+         INFORMATION O - O - - - - -
+                THIS - X - X O O - -
+             KNOPPIX - - X - - - - -
+              SPLASH - - - - X S - -
+              KERNEL - - - - X - - -
+          PARAMETERS - - - - X - - -
+ /BOOT/GRUB/MENU.LST - - - - X - - -
+    DEFOPTIONS=QUIET - - - - - X - -
+                MEAN - - - - - O - -
+                SURE - - - - - - - X

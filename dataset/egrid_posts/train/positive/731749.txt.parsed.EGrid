@@ -1,0 +1,15 @@
+              X.CONF X - - - - -
+ /VAR/LOG/XORG.0.LOG - X - - - -
+              OPTION - - O - - -
+                FILE - - - X - -
+                TIME - - - - X -
+                 ONE - - - - O -
+                MOST - - - - S -
+            PROBLEMS - - - - X -
+           XORG.CONF - - - - O -
+      AUTO-DETECTION - - - - S -
+            SETTINGS - - - - X -
+               ISSUE - - - - S -
+              DRIVER - - - - X O
+              NVIDIA - - - - - O
+                 CPU - - - - - O

@@ -1,0 +1,12 @@
+                THOR S -
+              EXPORT X -
+    PKG_CONFIG_PATH= X -
+  /USR/LIB/PKGCONFIG X -
+/USR/SHARE/PKGCONFIG O -
+           PKGCONFIG X -
+             DEFAULT X -
+                CODE - X
+                SHOW - X
+               CHECK - O
+          GTK-CONFIG - X
+                  .. - X

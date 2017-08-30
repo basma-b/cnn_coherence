@@ -1,0 +1,16 @@
+                 ANY S - - -
+             SERVERS X - - -
+               REPOS X - - -
+             ANYBODY S - - -
+             PROFTPD O - - -
+            GPROFTPD O - - -
+               GROUP O - X -
+              NOBODY O - X -
+               FATAL O - - -
+                LINE X - - -
+   /ETC/PROFTPD.CONF X - - -
+                 EHM - - X -
+                HELP - - X -
+                LUCK - - - O
+             NOTHING - - - S
+              DAMEON - - - S

@@ -1,0 +1,32 @@
+              SERVER O - - - - - - - -
+                 WAY X - - - - - - - -
+                HTTP O - - - - - - - -
+//WWW.ARSGEEK.COM/2006/08/29/HOW-TO-SHARE-A-FOLDER-WITH-READWRITE-ACCESS-USING-SAMBA-ON-LINUX/ O - - - - - - - -
+            PROBLEMS O - - - - - - - -
+               SHARE X - - - - - - - -
+                 USE O - - - - - - - -
+             COMMAND X - - - - - - - -
+               SMBFS X - - - - - - - -
+            //209.90 O - - - - - - - -
+                  ** - X - - X - - - -
+                   * - X - - X - - - -
+                SUDO - - X - - - - - -
+          /WORKSPACE - - S - - - - - -
+    USERNAME=BMORRIS - - O - - - - - -
+            SMBMOUNT - - X - - - - - -
+\\\\SOME-PC\\DOWNLOADS - - O - - - - - -
+   USER=WINDOWS_USER - - X - - - - - -
+   PASS=WINDOWS_PASS - - X - - - - - -
+                USER - - O - - - - - -
+             WINDOWS - - S - - - - - -
+                  \\ - - O - - S - - -
+                \\\\ - - X - - - - - -
+               ERROR - - O - - - - - -
+              FORMAT - - X - - - - - -
+                 UNC - - X - - - - - -
+                NAME - - X - - - - - -
+             \209.90 - - - X - - - - -
+          \WORKSPACE - - - - - S - - -
+             ADDRESS - - - - - S - - -
+          \\\\209.90 - - - - - - X - -
+         \\WORKSPACE - - - - - - - - X

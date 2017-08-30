@@ -1,0 +1,14 @@
+                GOAL S S -
+                  OS O O -
+             WINDOWS X - -
+             DESKTOP X - -
+                VBOX S - -
+            GRAPHICS X - -
+              SERVER - S -
+              RUNNIG - X -
+          BACKGROUND - X -
+            QEMU-KVM - S -
+        APPLICATIONS - - X
+                LIST - - S
+                 USE - - X
+             APT-GET - - O

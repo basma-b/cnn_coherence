@@ -1,0 +1,11 @@
+                GREP X X -
+                WORD X - -
+           DIRECTORY X - -
+                 USE - X -
+                 FOO - S -
+                   * - O -
+/ETC/APT/SOURCES.LIST - - X
+                 RUN - - X
+               ERROR - - X
+             COMMAND - - O
+                  -F - - S

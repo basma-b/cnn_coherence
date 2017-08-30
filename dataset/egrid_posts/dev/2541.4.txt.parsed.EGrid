@@ -1,0 +1,10 @@
+             PROCESS X - -
+               REGEX X - -
+             PATTERN O - -
+               PKILL - X -
+                  PC - - X
+              UBUNTU - - S
+               LSPCI - - O
+            ETHERNET - - X
+          CONTROLLER - - X
+                POST - - X

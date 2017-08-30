@@ -1,0 +1,16 @@
+                DATA X - - - -
+               MEDIA X - - - -
+            RECOVERY X - - X -
+                MODE X - - X -
+             NETWORK - O - - -
+                 USB - X - - -
+               CDROM - O - - -
+                SUDO - - X - -
+                  SU - - O - -
+               CABLE - - O - -
+            COMPUTER - - X - -
+               DRIVE - - X X -
+         FILESYUSTEM - - - O -
+               FAT33 - - - X -
+               CLICK - - - S -
+          /ETC/FSTAB - - - - X

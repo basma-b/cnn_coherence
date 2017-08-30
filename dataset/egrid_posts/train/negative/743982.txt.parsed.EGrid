@@ -1,0 +1,11 @@
+                LOAD O - - - -
+                INFO X - - - -
+              INSTAL X - - - -
+           REINSTALL X - - - -
+                GRUB X - O - -
+             NOTHING S - - - -
+             WINDOWS - - S - -
+                DISK - - S - O
+                BOOT - - O - -
+                 SDB - - - - X
+             PROBLEM - - - - O

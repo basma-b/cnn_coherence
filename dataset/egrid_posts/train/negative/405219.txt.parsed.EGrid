@@ -1,0 +1,11 @@
+   FRAMEBUFFER=FALSE X - - -
+               ENTRY X - - -
+                BOOT X X - -
+                  GO - X - -
+                  .. - X - -
+             COMMAND - X - -
+                 RES - X - -
+                MAKE - - - X
+            SOFTWARE - - - X
+                 USE - - - O
+            HOSPITAL - - - X

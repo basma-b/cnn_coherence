@@ -1,0 +1,11 @@
+              VOLUME X - - -
+             OPTIONS X - - -
+                VFAT X - - -
+                  RW X - - -
+            UID=1000 X - - -
+            GID=1000 X - - -
+           UMASK=077 X - - -
+                THAT - S - -
+               CHMOD - O - -
+                SUDO - - O -
+                ROOT - - - S

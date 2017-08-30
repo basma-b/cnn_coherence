@@ -1,0 +1,16 @@
+           OPERATION X - X - - - - - -
+             COMMAND X - - - - - - - -
+              ANSWER - O - - - - - - -
+                 YES - X - - - - - - -
+             APT-GET - - - S S - - - -
+                WORK - - - O - - - - -
+               PURGE - - - X X - - - -
+                SUDO - - - - X - - - -
+                 SSH - - - - S - - X -
+               START - - - - O - - - -
+              SERVER - - - - O - - - -
+             SERVICE - - - - X - - - -
+                  .. - - - - X - - - -
+              OUTPUT - - - - - O - - -
+               WHICH - - - - - - S - -
+             PROCESS - - - - - - - S -

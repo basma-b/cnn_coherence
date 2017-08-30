@@ -1,0 +1,13 @@
+             COMMAND X - - - -
+           DIRECTORY X - - - -
+             EXAMPLE X - - - -
+       /MEDIA/MOVIES X - - - -
+             ANYBODY - X - - -
+               ENTRY - - O - -
+          /ETC/FSTAB - - X - -
+            PASTEBIN - - O - -
+                SUDO - - X - -
+               FDISK - - X - -
+                  -L - - S - -
+             APT-GET - - S - -
+            FIREWALL - - - - X

@@ -1,0 +1,25 @@
+               TOPIC X - - - - - - -
+        INSTALLATION X - - - - - - -
+           PARTITION O - - X - - - -
+                ROOM - X - - - - - -
+             NOTHING - - O - O - - -
+            QUESTION - - X - - - - -
+                UUID - - S - - - - -
+                PART - - O - - - - -
+               ERROR - - X - - - S -
+               ENTRY - - - O - - - -
+          /ETC/FSTAB - - - X - - - -
+                DISK - - - X - - - -
+                BASE - - - X - - - -
+              SYSTEM - - - X - - - -
+              LIVECD - - - X - - - -
+             COMMAND - - - X O - - -
+                  IM - - - X - - - -
+                  CD - - - X - - - -
+             SESSION - - - X - - - -
+              UBUNTU - - - - - - S -
+        GRUB-INSTALL - - - - - - S -
+            /DEV/SDA - - - - - - X -
+/USR/SBIN/GRUB-PROBE - - - - - - S -
+                AUFS - - - - - - X -
+               OOOPS - - - - - - - X

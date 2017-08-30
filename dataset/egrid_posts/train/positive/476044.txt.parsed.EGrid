@@ -1,0 +1,8 @@
+            IFCONFIG X X -
+                  -A S X S
+               WLAN0 X S -
+        SI0CSIFFLAGS - S -
+                FILE - X -
+           DIRECTORY - X -
+            IWCONFIG - X X
+              DEVICE - - S

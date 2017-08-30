@@ -1,0 +1,24 @@
+               MODEM X - - - - - - - - - O
+             ADAPTER X - - - - - - - - - -
+                NAME O - - - - - - - - - -
+                 CDC X - - - - - - - - - -
+                SLOT X - - - - - - - - - -
+               LSUSB - X - - - - - - - - -
+               LSPCI - S - - - - - - - - -
+                THAT - - S - - - - - - - -
+             NETWORK - - O X - - - - - - -
+              OUTPUT - - - X - - - - X - -
+                HTML - - - X X - - - - - -
+           HARDWARES - - - X - - - - - - -
+                SUDO - - - X - - - - - - -
+                LSHW - - - X - - - - - - -
+                  -C - - - X - - - - - - -
+                 RUN - - - - S - - - - - -
+                   > - - - - X - - - - - -
+~/DESKTOP/HARDWARES.HTML - - - - O - - - - - -
+            HARDWARE - - - - X - - - - - -
+                LIST - - - - O - - - - - -
+            FUNCTION - - - - - O - - - - -
+               DMESG - - - - - - - O - - -
+            TERMINAL - - - - - - - X - - -
+              SCROLL - - - - - - - - O - -

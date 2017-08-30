@@ -1,0 +1,16 @@
+               12.04 X - -
+                CHIP X - -
+              OUTPUT - X -
+                HTTP - X -
+                   | - - X
+                GREP - - X
+                 PAE - - X
+              RESULT - - O
+             PACKAGE - - X
+                CANT - - S
+              TROUGH - - O
+                SUDO - - X
+             APT-GET - - S
+                   > - - O
+LINUX-IMAGE-3.2.0-29-GENERIC-PAE - - X
+                I386 - - X

@@ -1,0 +1,17 @@
+                BASH X - - - - - - - -
+              SCRIPT X - - - - - - - -
+       ./MYSCRIPT.SH - S - - - - - - -
+         MYSCRIPT.SH - - S - - - - - -
+           SOMETHING - - - - O - - - -
+                FILE - - - - X - - - -
+                ROOT - - - - X - - - -
+                SUDO - - - - X - - - -
+                 TEE - - - - X - - - -
+/SOME/ROOT/OWNED/FILE - - - - X - - - -
+              OUTPUT - - - - O - - - -
+             COMMAND - - - - X - - - -
+          STDOUT/ERR - - - - X - - - -
+                 AHH - - - - X - - - -
+              THANKS - - - - - X - - -
+              OTHERS - - - - - - X - -
+            FILE.RPM - - - - - - - - S

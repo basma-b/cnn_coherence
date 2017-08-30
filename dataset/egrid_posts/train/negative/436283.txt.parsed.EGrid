@@ -1,0 +1,27 @@
+                STOP O - - - - - -
+            ETHERNET X - - - - - -
+           INTERFACE S S - - - - -
+             DEFAULT X - - - X - -
+                ROUT S - - - - - -
+             GATEWAY X - - - - - -
+              REBOOT - X - - - - -
+            CONTRAST - X - - - - -
+             NETMASK - X - - O - -
+                OBEY - S - - X - -
+          INTERFACES - X - - - - -
+                FILE - X - - - - -
+         SUGGESTIONS - - X - - - -
+/ETC/NETWORK/INTERFACES - - - O - - -
+              RESULT - - - - O - -
+            IFCONFIG - - - - X - -
+             NETSTAT - - - - X - -
+                 -RN - - - - X - -
+                AUTO - - - - X - -
+                ETH1 - - - - S - -
+               IFACE - - - - X - -
+              STATIC - - - - O - -
+               ISSUE - - - - X - -
+                  OK - - - - O - -
+          DIFFERENCE - - - - S - -
+               ROUTE - - - - O - -
+                 TRY - - - - - - S

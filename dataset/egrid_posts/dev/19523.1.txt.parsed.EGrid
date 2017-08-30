@@ -1,0 +1,22 @@
+             SOMEONE X - - - - -
+             PROBLEM X - - - - -
+              CONFIG X - - - - -
+               ISSUE O - - - - -
+           SUBSYSTEM - X - - X S
+             REQUEST - X - - - -
+             CHENNEL - X - - - -
+               ERROR - X - - - -
+         SSHD_CONFIG - - X - - X
+                FILE - - S - - -
+               EMPTY - - O - - -
+              UPDATE - - X - - -
+             NOTHING - - - S - -
+              OUTPUT - - - - X -
+/ETC/SSH/SSHD_CONFIG - - - - X -
+       INTERNAL-SFTP - - - - X O
+              BINARY - - - - - X
+/USR/LIB/OPENSSH/SFTP-SERVER - - - - - S
+              DEBIAN - - - - - O
+              UBUNTU - - - - - S
+                 ONE - - - - - S
+                LINE - - - - - O

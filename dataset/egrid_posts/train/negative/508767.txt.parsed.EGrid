@@ -1,0 +1,12 @@
+         PERMISSIONS X -
+            TERMINAL X -
+                SUDO X -
+               GEDIT X -
+  ETC/SAMBA/SMB.CONF O -
+                   ' - S
+             NOTHING - S
+                  .. - X
+GNOME-SYSTEM-MONITOR - S
+              OUTPUT - O
+         /ETC/INIT.D - X
+                 PLS - O

@@ -1,0 +1,20 @@
+           PARTITION X - - - - - -
+                 KEY X - - - - - -
+                BOOT X - - - - - -
+             PROBLEM - S - - - - -
+                THIS - S - - - - -
+         PERMISSIONS - X - - - - -
+           RWXR-XR-X - O - - - - -
+                TEXT - X - - - - -
+                MODE - X - - - - -
+                 LOG - X - - - - -
+                 USE - X - - - - -
+               START - - X - - - -
+             STARTUP - - - X - - -
+                LINE - - - - S - -
+          /ETC/FSTAB - - - - X - -
+             DEFAULT - - - - O - -
+               CHMOD - - - - - O -
+                 WAY - - - - - S -
+/ETC/INIT.D/BOOTMISC.SH - - - - - X -
+                IDEA - - - - - - X

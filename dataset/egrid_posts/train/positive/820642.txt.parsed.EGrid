@@ -1,0 +1,9 @@
+             COMMAND X - O
+              VOLUME X - O
+              APPLET S - -
+                 RUN - X -
+                 GUI - S -
+             PROCESS - X -
+                  PS - - X
+               |GREP - - X
+          CANDIDATES - - O

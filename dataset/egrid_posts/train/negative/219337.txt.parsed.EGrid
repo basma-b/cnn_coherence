@@ -1,0 +1,18 @@
+             PROBLEM - O - - -
+              PCMCIA - X - X -
+                CARD - X - S -
+              DRIVER - - X - -
+              DOESNT - - S - -
+                WORK - - S - -
+          CONTROLLER - - X - -
+                CANT - - - X -
+              DEVICE - - - O -
+              INSERT - - - X -
+                SLOT - - - X -
+                 MAC - - - X -
+                  OS - - - X -
+                SAME - - - X -
+                 ISA - - - X -
+               UTILS - - - S -
+               HTTPS - - - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/FIREFOX-3.0/+BUG/304942 - - - - X

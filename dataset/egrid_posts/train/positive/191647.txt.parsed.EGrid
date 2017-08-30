@@ -1,0 +1,27 @@
+               SAMBA X - - - - - - - - - - -
+                FILE X - - - - - - - - - - -
+               SHARE O - - - - - - - - - - -
+              SERVER X - - - - - - - - - - -
+                  .. X - - - - - - - - - - -
+               HTTPS - O - - - - - - - - - -
+              LETTER - X - - - - - - - - - -
+               ISSUE - O - - - - - - - - - -
+               ERROR - - - O - - - - - - - -
+             SESSION - - - - - X - - - - - -
+               SETUP - - - - - S - S - - - -
+              ERRDOS - - - - - S - - - - - -
+              ACCESS - - - - - S - S - - - -
+       USER=USERNAME - - - - - - X - - - - -
+            SECURITY - - - - - - - X - - - -
+                LINE - - - - - - - O - - - -
+               THING - - - - - - - X - - - -
+               SLASH - - - - - - - X - - - -
+                SUDO - - - - - - - X - - - -
+             APT-GET - - - - - - - X - - - -
+               SMBFS - - - - - - - O - - - -
+                 SMB - - - - - - - - X - - -
+                  PM - - - - - - - - O - X -
+             CHANNEL - - - - - - - - - X - -
+                TYPE - - - - - - - - - - - X
+          MOUNT.CIFS - - - - - - - - - - - S
+CREDENTIALS=/ETC/SAMBA/USER - - - - - - - - - - - O

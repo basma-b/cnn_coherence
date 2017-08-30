@@ -1,0 +1,32 @@
+                TIME O - - - - - - - - -
+               THERE S - - - - - - - - -
+        DEV-PACKAGES O - - - - - - - - -
+                 ALL O - - - - - - - - -
+                HAND X - - - - - - - - -
+                SUDO - S - - - - - - - -
+      SOURCE_PACKAGE - X - - - - - - - -
+            DEV-LIBS - S - O - - - - - -
+                 APP - O - - - - - - - -
+                LIBS - - S X - - - - - -
+         COMPILATION - - X - - - - - - -
+             PACKAGE - - X - - - - O - -
+           BUILD-DEP - - - O - - - S - -
+                NEED - - - X - - X - - -
+               BUILD - - - O - - - - - -
+          CAIRO-DOCK - - - X - - - - - -
+              COMPIZ - - - O - - - - - -
+                APPS - - - O - - - - - -
+              SOURCE - - - X - - - - - -
+                EACH - - - X - - - - - -
+           LIBRARIES - - - O - - - - - -
+              SYSTEM - - - S - - - - - -
+                 DAY - - - S - - - - - -
+               SPACE - - - O - - - - - -
+             HEADERS - - - - - - X - - -
+PACKAGE_YOU_ARE_BUILDING - - - - - - - X - -
+       BUILD-PROCESS - - - - - - - X - -
+                NOTE - - - - - - - S - -
+/HOME/FERNANDOS/CAIRO-DOCK/ - - - - - - - S - -
+                 APT - - - - - - - - S -
+                 ONE - - - - - - - - - S
+                 ANY - - - - - - - - - O

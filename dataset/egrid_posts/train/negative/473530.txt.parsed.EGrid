@@ -1,0 +1,11 @@
+                EXT3 X - - - - - -
+                EXT2 - O - X - - -
+         JOURNALLING - - X - - - -
+             JOURNAL - - - O - - -
+           PARTITION - - - X - - -
+                IIRC - - - X - - -
+           WRITEBACK - - - X - - -
+                MODE - - - X - - -
+                PICI - - - - - X -
+            UBUNTU+1 - - - - - - X
+               ALPHA - - - - - - O

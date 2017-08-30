@@ -1,0 +1,13 @@
+                 YES S - -
+                MESS X - -
+                WUBI X - -
+                BOOT X - -
+                LINE O - -
+                GRUB X - -
+           PARTITION X - -
+                DONT S - -
+                 CAT - - X
+/ETC/APT/SOURCES.LIST - - X
+                   | - - S
+                  -D - - S
+              OUTPUT - - O

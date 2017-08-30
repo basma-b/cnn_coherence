@@ -1,0 +1,16 @@
+                   / S - -
+              DRIVER X S -
+              MODULE O X -
+              README - O -
+            DOCUMENT - O -
+              SOURCE - X -
+             TARBALL - X -
+             KCONFIG - X X
+                FILE - X X
+            MODPROBE - X -
+              CONFIG - X -
+     HID_PANTHERLORD - O -
+               ENTRY - X -
+              USBHID - - S
+                  .. - - O
+            CONSTANT - - O

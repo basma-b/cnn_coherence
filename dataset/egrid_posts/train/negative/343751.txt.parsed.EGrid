@@ -1,0 +1,14 @@
+        RELATIONSHIP X - - -
+                DIFF X X - -
+             COMMAND X - - -
+                FILE X S - -
+              OUTPUT - S - -
+           PARTITION - - O -
+                SUDO - - X -
+        GRUB-INSTALL - - X -
+           NO-FLOPPY - - X -
+            /DEV/SDA - - X -
+               SENSE - - X -
+                THAT - - - O
+               SETUP - - - X
+                STEP - - - O

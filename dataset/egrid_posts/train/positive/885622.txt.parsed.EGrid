@@ -1,0 +1,23 @@
+               11.10 O - - - - - -
+              SYSTEM X - - - - - -
+               INTEL X - - - - - -
+            GRAPHICS O - - - - - -
+                XORG S - - - - - -
+                 ALL - S - - - - -
+               ERROR - O X - - - -
+              SCREEN - X X - - - -
+                NONE - S - - - - -
+       CONFIGURATION - O - - - - -
+              SERVER - - X - - - -
+         RESOLUTIONS - - O - - - -
+              ANYONE - - - X - - -
+                 FIX - - - X - - -
+  /ETC/X11/XORG.CONF - - - - X - -
+             DEFAULT - - - - - O -
+             CONFIGS - - - - - O -
+/USR/SHARE/X11/XORG.CONF.D/ - - - - - X -
+               LSPCI - - - - - - X
+                   | - - - - - - X
+                GREP - - - - - - X
+                  -I - - - - - - X
+                 VGA - - - - - - X

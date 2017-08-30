@@ -1,0 +1,13 @@
+               GROUP X - X - - - - - -
+               ADMIN - S - - - - - - -
+             DEFAULT - - X - - - - - -
+        /ETC/SUDOERS - - S - - - - - -
+           PRIVILEGE - - X - - - - - -
+              DOESNT - - X - - - - - -
+                WORK - - X - - - - - -
+             PACKAGE - - - - - O X - -
+               USERS - - - - - - - - X
+              GROUPS - - - - - - - - O
+             SECTION - - - - - - - - X
+       CONFIGURATION - - - - - - - - S
+                LOAD - - - - - - - - O

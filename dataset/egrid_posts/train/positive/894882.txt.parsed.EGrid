@@ -1,0 +1,15 @@
+               ALIAS X S - - - - - - - -
+                 ONE S - O - - O - - - -
+              FOLDER O - - - - - - - - -
+        EXCLUDE-DIR= - X - - - - - - - -
+              MEDIA/ - X - - - - - - - -
+           SOMETHING - - O - - - - - - -
+              BLABLA - - X - - - - - - -
+                 THE - - - O - - - - - -
+               THERY - - - - - S - - - -
+               OWNER - - - - - X - - O -
+               GROUP - - - - - - X - S X
+                FILE - - - - - - - - S -
+                USER - - - - - - - - - X
+              FOOBAR - - - - - - - - - O
+            WWW-DATA - - - - - - - - - X

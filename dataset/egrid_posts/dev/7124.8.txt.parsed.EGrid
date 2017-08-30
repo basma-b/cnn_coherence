@@ -1,0 +1,21 @@
+                 HEY S - - - - -
+                 GUY X - - - - -
+       GNOME-SESSION O - - - - -
+                CANT X - - - - -
+             COMMAND X - - - - -
+                BOOT X - - - - -
+            RECOVERY X - - - - -
+                MODE X - - - - -
+                GRUB X - - - - -
+/BOOT/GRUB/CUSTOM.CFG - - - S S -
+                REST - - - X - -
+             ENTRIES - - - X - -
+ /BOOT/GRUB/GRUB.CFG - - - X - -
+              CUSTOM - - - - X -
+             WINDOWS - - - - X -
+               ENTRY - - - - O -
+GRUB_DISABLE_OS_PROBER=TRUE - - - - S -
+                 ONE - - - - X -
+              MINUTE - - - - - X
+              DETAIL - - - - - X
+          DIRECTIONS - - - - - O

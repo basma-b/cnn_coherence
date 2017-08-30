@@ -1,0 +1,20 @@
+              UPDATE - X - - - - -
+            NOTIFIER - S - - - - -
+             TASKBAR - X - - - - -
+             PACKAGE - X - - - - -
+             MANAGER - O - - - - -
+                WORK - X - - - - X
+               ERROR - X - - - - -
+                   E - - - X - - -
+                LOCK - - - X - - -
+/VAR/CACHE/APT/ARCHIVES/LOCK - - - S - - -
+            RESOURCE - - - X - - -
+           DIRECTORY - - - S - - -
+                SUDO - - - - S X -
+               PURGE - - - - S - -
+              CONFIG - - - - X - -
+                FILE - - - - O - -
+          EVERYTHING - - - - O - -
+                 USE - - - - - X -
+             APT-GET - - - - - S -
+                 YEP - - - - - X -

@@ -1,0 +1,17 @@
+                TYPE O - -
+            TERMINAL X - -
+                 CAT X - -
+/PROC/ACPI/THERMAL_ZONE/THRM/TEMPERATURE X - -
+             MONITOR X - -
+                 APP O - -
+             GKRELLM X - -
+         MOTHERBOARD O - -
+                 AMD X - -
+             SEMPRON X - -
+             PENTIUM X - -
+                  P4 X - -
+                  .. X - O
+           SOMETHING S - -
+                TUNE X - -
+              PEOPLE - - S
+                RULE - - X

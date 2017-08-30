@@ -1,0 +1,17 @@
+             COMMAND S -
+                ARCH X -
+             RELEASE X -
+                NAME X -
+              THINGS S -
+                 USE X S
+           SOMETHING S O
+               NATTY X -
+               AMD64 X -
+                BITE O -
+                 APT - S
+                I686 - O
+                URLS - X
+                FORM - X
+                HTTP - X
+//PACKAGES.UBUNTU.COM/NATTY/MC - S
+              BOTTOM - O

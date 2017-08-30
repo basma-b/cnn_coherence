@@ -1,0 +1,16 @@
+               HARDY X - - -
+              READER S - - -
+              WRITER S - - -
+               DISCS O - - -
+                 ALL X - - -
+ AUTO-DETECT/REBUILD O - - -
+               FSTAB X - - -
+             COMMAND - X - -
+                LINE - X - -
+           /DEV/SCD0 - - - X
+       /MEDIA/CDROM0 - - - S
+                 UDF - - - X
+                USER - - - X
+                TYPE - - - O
+              OPTION - - - O
+          SUPERBLOCK - - - O

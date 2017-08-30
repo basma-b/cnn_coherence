@@ -1,0 +1,11 @@
+     NETWORK-MANAGER X - - -
+               AVAIL - X - -
+                WIRE - X - -
+          CONNECTION - O - -
+               BLINK - X - -
+                LEDS - O - -
+             NETWORK - X - X
+           INTERFACE - X - S
+                CANT - - - S
+                  IP - - - X
+             ADDRESS - - - O

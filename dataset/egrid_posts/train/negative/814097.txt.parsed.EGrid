@@ -1,0 +1,31 @@
+               THING S - - - - - - - - - -
+                 RSA X - X - X - - X - - -
+                 KEY S - - - X - - O - - -
+        INSTALLATION X - - - - - - - - - -
+              UBUNTU X - - - - - - - - - -
+  /ETC/IPSEC.SECRETS - S - - - - - - - - -
+/VAR/LIB/OPENSWAN/IPSEC.SECRETS.INC - X - - - - - - - - -
+/VAR/LIB/IPSEC.SECRETS.INC - S - - - - - - - - -
+                 USE - - X - - - - - - - -
+                SUDO - - X - - - - - - - -
+               IPSEC - - X - - - - - - X -
+          NEWHOSTKEY - - O - - - - - - - -
+              METHOD - - S - - - - - - - -
+              GENTOO - - X - - - - - - - -
+                BOOK - - X - - - - - - - -
+             NOTHING - - S - - - - - - - -
+             PROCESS - - - S - - - - - - -
+           PROCESSOR - - - X - - - - - - -
+              MEMORY - - - O - - - - - - -
+              ACCORD - - - X - - - - - - -
+                 TOP - - - X - - - - - - -
+                 GPG - - - - - X - - - - -
+                 SSH - - - - - X - - - - -
+              LENGTH - - - - - O - - - - -
+            PASSWORD - - - - - - - O - - -
+                 HOP - - - - - - - - O - -
+          CONNECTION - - - - - - - - O - -
+                TEST - - - - - - - - X - -
+              CRYPTO - - - - - - - - X - -
+            SETTINGS - - - - - - - - X - -
+                THAT - - - - - - - - - S -

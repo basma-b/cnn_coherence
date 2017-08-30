@@ -1,0 +1,7 @@
+           DIRECTORY S - - -
+              LIVECD X X - X
+            GRUB.CFG O - S -
+                THIS - X - O
+         UPDATE-GRUB - - X -
+                  .. - - O -
+            PROBLEMS - - - X

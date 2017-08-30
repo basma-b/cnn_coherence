@@ -1,0 +1,10 @@
+                FILE X - X -
+             SYMLINK X - - -
+           DIRECTORY X - - -
+             COMMAND - X - -
+                   ^ - - S -
+  /DIRECTORY/TO/FROM - - O -
+                   ' - - - S
+                PATH - - - X
+/HOME/USER/GAMES/DIABLO - - - X
+/HOME/USER/SOMEWHERE - - - O

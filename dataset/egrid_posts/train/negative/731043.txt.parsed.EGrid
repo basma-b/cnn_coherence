@@ -1,0 +1,16 @@
+            IFCONFIG X - - - - - - - - -
+             COMMAND X - - - - - - - - -
+                WORK X - - - - - - - - -
+                ETH0 - S - - - - - - - -
+         192.168.1.2 - X - X - - - O - -
+            INTERNET - O - - - - - - - -
+              OUTPUT - - S - - - - - - -
+               ROUTE - - X - S - - - - -
+             DEFAULT - - O - - - - - - -
+             GATEWAY - - S - - - - - - -
+               RIGHT - - O - - - - - - -
+                 BOX - - - S - - - - - -
+                THAT - - - - O - - - - -
+                  AD - - - - X - - - - -
+                  IP - - - - - - X - - -
+                 ONE - - - - - - - - - O

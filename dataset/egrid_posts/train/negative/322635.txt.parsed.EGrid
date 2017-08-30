@@ -1,0 +1,13 @@
+               AUDIO X - - -
+              DEVICE X - - -
+         CORPORATION X - - -
+          DEFINITION X - - -
+                  A2 X - - -
+              TX1000 X - - -
+             OPTIONS - O - -
+             INDEX=0 - S - -
+        SINGLE_CMD=0 - O - -
+                 END - X - -
+/ETC/MODPROBE.D/ALSA-BASE - X - -
+                THAT - - - X
+             GIGABIT - - - S

@@ -1,0 +1,15 @@
+               CHMOD X - - - -
+               /HOME O - X - -
+            HOMEDIRS X - - - -
+               ARENT X - - - -
+            WRITABLE O - - - -
+                ISNT X - - - -
+            READABLE O - - - -
+              ANYONE - X - - -
+                THIS - O - - -
+            PASTEBIN - - S - -
+              OUTPUT - - S - -
+                SUDO - - X - -
+                  LS - - X - -
+  /HOME/YOURUSERNAME - - S - -
+               SORRY - - - - X

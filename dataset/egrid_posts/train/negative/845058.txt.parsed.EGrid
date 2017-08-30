@@ -1,0 +1,9 @@
+             COMMAND X - - -
+                 ALL X - - -
+                 USB X - - -
+             DEVICES O - - -
+               LSUSB - S - -
+                  CD - - X -
+                TEST - - X -
+           SOMETHING - - X -
+               THANK - - - X

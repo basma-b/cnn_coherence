@@ -1,0 +1,6 @@
+                SUDO X -
+ UPDATE-ALTERNATIVES S -
+              CONFIG X -
+                JAVA S -
+                HTTP S -
+              INSTAL O O

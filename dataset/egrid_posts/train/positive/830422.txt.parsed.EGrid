@@ -1,0 +1,24 @@
+             COMMAND O - S - - -
+                SUDO O - - - - -
+         GCONFTOOL-2 S - - - - -
+              DIRECT S - - - - -
+                 XML S - - - - -
+           READWRITE X - - - - -
+/ETC/GCONF/GCONF.XML.DEFAULTS S - - - - -
+                TYPE X - - - - -
+                BOOL X - - - - -
+              SCREEN - O - - - -
+               LOGIN - - X - - -
+                USER - - X - - -
+                LIST - - X - - -
+          DISSAPAERS - - O - - -
+               INPUT - - X - - -
+             SYSTEM- - - X - - -
+                   > - - X - - -
+     ADMINISTRATION- - - X - - -
+              WINDOW - - S - - -
+                  OS - - X - - -
+             DESKTOP - - - - S -
+              MONTHS - - - - O -
+             SUPPORT - - - - X -
+               LEAVE - - - - X -

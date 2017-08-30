@@ -1,0 +1,21 @@
+                 ALL X - - - - - -
+              SERVER O - - - - S -
+                HTTP X X - - - X -
+//SERVER.MYDOMAIN.COM X X - - - X -
+              ROUTER X - - - - - -
+              DOMAIN X - - - - - -
+           COMPUTER1 - O - - - - -
+       //192.168.1.2 - X - - - - -
+             MACHINE - O O - - - -
+               THERE - - - - X - -
+              REASON - - - - X - -
+                 USE - - - - - - O
+              APACHE - - - - - - X
+            IPTABLES - - - - - - X
+                 GUI - - - - - - S
+                  .. - - - - - - O
+         FIRESTARTER - - - - - - O
+                SUDO - - - - - - X
+             APT-GET - - - - - - S
+                  OH - - - - - - X
+             COMMAND - - - - - - S

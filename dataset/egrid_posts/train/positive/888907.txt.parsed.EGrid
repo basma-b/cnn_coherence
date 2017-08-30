@@ -1,0 +1,37 @@
+                HOUR X - - - - - - - - - -
+                   U S - - - - - - - - - -
+         DIRECTORIES X - - - - - - - - - -
+                FILE S - - - - O - O - - -
+               PLACE X - - - - - - - - - -
+           DIRECTORY X - - - - - - - - - S
+                  .. - O - X - - - - - - -
+                  MM - S - - - - - - - - -
+        /PATH/TO/DIR - X - - - - - - - - -
+/PATH/TO/DESTINATION - O - - - - - - - - -
+               RSYNC - S - - - - - - - - -
+           SOMETHING - O - - - - - - - - -
+                 LOT - X - - - - - - - - -
+               TRICK - X - - - - - - - - -
+            TRANSFER - X - - - - - - - - -
+                 ETC - O - - - - - - - - -
+MYFOLDER/SOMEFOLDER/MANYFILES - - X - - - - - - - -
+             FOLDERS - - X O - S O O - - -
+               THERE - - - X - S - X - - -
+                NAME - - - X - - - - - - -
+               RSINC - - - X - - - - - - -
+                   * - - - S - - - - - - -
+                   Y - - - S - - - - - - -
+             CONTENT - - - X - - - - - - -
+                TREE - - - - X - - - - - -
+              FOLDER - - - - - O O - - - -
+                  PM - - - - - - X - - - -
+                   | - - - - - - S - - - -
+              WITHIN - - - - - - X - - - -
+               FILES - - - - - - O - - - -
+            QUESTION - - - - - - - - X - -
+              PARAMS - - - - - - - - X - -
+                  -R - - - - - - - - - - X
+                THIS - - - - - - - - - - O
+             SUBDIRS - - - - - - - - - - X
+                  -D - - - - - - - - - - X
+       /PATH/TO/DEST - - - - - - - - - - X

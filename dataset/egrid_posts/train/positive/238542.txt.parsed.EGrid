@@ -1,0 +1,19 @@
+              FORMAT S - - - -
+            HARDDISK X - - - -
+               FAT32 X - - - -
+                SUDO X X - - -
+        /MEDIA/DATA1 O - - - -
+                FILE O - - - -
+               TOUCH - X - - -
+/MEDIA/DATA1/MYTESTFILE - X - - -
+                WORK - O - - -
+                VUEN - - S S -
+         PERMISSIONS - - X - -
+               USERS - - X - -
+                LINK - - - O -
+                OKAY - - - X -
+               CHMOD - - - O -
+             PROBLEM - - - S -
+               WORKS - - - O -
+                  CD - - - - O
+           DIRECTORY - - - - X

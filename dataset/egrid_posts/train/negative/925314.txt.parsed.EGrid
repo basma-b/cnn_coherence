@@ -1,0 +1,19 @@
+       LINUX-HEADERS O - - - - - - -
+             VERSION - O - - - - - -
+             HEADERS - O - - - - - -
+             ANYBODY - - S - - - - -
+               ERROR - - O - - - - -
+                ROOT - - - X - - - -
+              UBUNTU - - - X - - - -
+      /HOME/CVALSTAD - - - S - - - -
+             READING - - - X - - - -
+             PACKAGE - - - X - X - -
+               LISTS - - - S - - - -
+                  .. - - - - O O - -
+          DEPENDENCY - - - - X - - -
+                TREE - - - - X - - -
+             APT-GET - - - - - X - -
+LINUX-HEADERS-2.6.10-4_2.6.10-27_POWERPC.DEB - - - - - X - -
+                   E - - - - - X - -
+                 USE - - - - - O - -
+              SEARCH - - - - - - - O

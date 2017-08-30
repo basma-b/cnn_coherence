@@ -1,0 +1,17 @@
+              FOLDER X - - -
+              SUBIRS X - - -
+               GROUP - S - -
+              ACCESS - O - -
+               UMASK - X - -
+               MKDIR - X - -
+                  -M - X - -
+                BLAH - X X -
+           SOMETHING - - X -
+               CHMOD - - X -
+                 G+S - - X -
+          PERMISSOIN - - - O
+                 SET - - - X
+             SUBDIRS - - - X
+                 DIR - - - X
+                MASK - - - X
+               COMBO - - - X

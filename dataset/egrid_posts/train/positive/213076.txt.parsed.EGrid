@@ -1,0 +1,12 @@
+                  .. X - - -
+                KOPT - X - -
+ /BOOT/GRUB/MENU.LST - O - -
+                LINE - O X -
+             VGA=771 - X - -
+                FILE - O - -
+         UPDATE-GRUB - X O -
+               SETHK - - X -
+          EVERYTHING - - O -
+              KERNEL - - X O
+                LIST - - X -
+            OVERRIDE - - - O

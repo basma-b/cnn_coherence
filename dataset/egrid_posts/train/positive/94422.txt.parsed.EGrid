@@ -1,0 +1,13 @@
+             COMMAND X - -
+             PACKAGE X - -
+             APT-GET - S -
+             CONFIGS - S -
+               STUFF - S -
+                /ETC - X -
+               HOARY - X -
+            KYNAPTIC - O -
+             OPTIONS - O -
+               SHELL - - X
+              SCRIPT - - S
+               SKILL - - O
+             PROBLEM - - O

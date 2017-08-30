@@ -1,0 +1,11 @@
+                MODE X - - - -
+               THING O - - - -
+                HAND X - - - -
+   /ETC/DEFAULT/GRUB O - - - -
+GRUB_CMDLINE_LINUX_DEFAULT O - - - -
+                TEXT X - S - -
+                 AHA - X - - -
+                WORK - - X - -
+   /ETC/INIT/GDM.CON - - X - -
+/ETC/INIT/GDM.CONF.DISABLE - - O - -
+                   = - - - - X

@@ -1,0 +1,14 @@
+                 CMD X - - - - - - - -
+                DISK O - - - - - - - -
+               WHATS - X - - - - - - -
+              PEOPLE - X - - - - - - -
+             WARNING - - X - - - - - -
+              E2FSCK - - - - - O - - -
+               MOUNT - - - - - X X - -
+          FILESYSTEM - - - - - X - - -
+              DAMAGE - - - - - O - - -
+                FSCK - - - - - - O - -
+                FILE - - - - - - X - -
+              SYSTEM - - - - - - X - -
+           PARTITION - - - - - - X - -
+                  .. - - - - - - - - X

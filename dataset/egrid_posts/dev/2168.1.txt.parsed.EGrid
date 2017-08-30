@@ -1,0 +1,10 @@
+                USER O X - - S
+                SFTP O - - - -
+              FOLDER X - - - -
+              UBUNTU - S - - -
+              CHROOT - X - - -
+          DIRECTIONS - - - - O
+            RESTRICT - - - - X
+           DIRECTORY - - - - X
+          CONNECTION - - - - S
+            AUTH.LOG - - - - O

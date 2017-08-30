@@ -1,0 +1,12 @@
+             PACKAGE O - - -
+           PARTITION O - O -
+           EXT3/NTFS X - - -
+               FSTAB X X - -
+                8.04 - O - -
+                UUID - - X -
+          IDENTIFIER - - X -
+    HARDISKPARTITION - - X -
+            HARDDISK - - X -
+           AUTOMATIC - - S -
+                NAME - - - O
+          HARDDRIVES - - - O

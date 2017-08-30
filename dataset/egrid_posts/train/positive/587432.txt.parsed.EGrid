@@ -1,0 +1,7 @@
+              FORMAT X - - -
+           PARTITION X - - -
+                EXT4 X - - -
+                9.04 - X - -
+        MKFS.EXT4DEV - - X X
+           MKFS.EXT4 - - - X
+          DIFFERENCE - - - O

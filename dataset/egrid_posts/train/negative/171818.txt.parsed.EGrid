@@ -1,0 +1,17 @@
+        SOURCES.LIST X - - - - -
+              PACKET - S - - - -
+              SOURCE - X - - - -
+                 TOP - X - - - -
+                LIST - X - - - -
+               THERE - - X S - -
+               ORDER - - X - - -
+             PACKAGE - - X - - -
+                DISK - - - X - -
+               SPACE - - - O - -
+               THING - - - S - -
+          REPOSITORY - - - O - -
+                 USE - - - O - -
+               REPOS - - - - S -
+                FILE - - - - - O
+                CROP - - - - - X
+                INFO - - - - - O

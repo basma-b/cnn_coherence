@@ -1,0 +1,17 @@
+                SUDO O O - S
+             SUDOERS X X X X
+              SOURCE S X - X
+              POLICY X - - X
+              PLUGIN O - - O
+              ANYONE O - - -
+                USER - O - -
+              SYSTEM - X - -
+             WOULDNT - O - -
+        /ETC/SUDOERS - S - X
+                MODE - O - X
+                 CMD - S - -
+            TERMINAL - X - -
+                   $ - - X -
+               CHMOD - - O -
+                WORK - - X -
+                FILE - - X -

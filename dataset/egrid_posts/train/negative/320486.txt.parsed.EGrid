@@ -1,0 +1,14 @@
+             COMMAND X X - - -
+                 TOI X - - - -
+        DHCP3-CLIENT X X - - -
+                  ED O O - - -
+             PROCESS - O - - -
+                SUDO - - X - -
+             APT-GET - - S - -
+                FILE - - X - -
+         /ETC/INIT.D - - X - -
+                NAME - - X - -
+               START - - - O -
+        INSTALLATION - - - - X
+                MUCH - - - - O
+           PARTITION - - - - X

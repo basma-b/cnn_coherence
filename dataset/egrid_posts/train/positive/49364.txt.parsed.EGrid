@@ -1,0 +1,17 @@
+             APT-GET X - - -
+             LOGFILE X - - -
+             PACKAGE X - - -
+              SCRIPT - O - -
+          /ETC/RC2.D - X - -
+              UBUNTU - X - -
+             DEFAULT - X - -
+            RUNLEVEL - O - -
+                DPKG - - X -
+                   | - - X -
+                LESS - - S -
+               -RSB- - - X -
+                  .D - - S -
+            SYMLINKS - - O -
+     /ETC/INIT.D/FOO - - X -
+                TIME - - - X
+                BASE - - - X

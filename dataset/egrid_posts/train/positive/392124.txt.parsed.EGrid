@@ -1,0 +1,17 @@
+                FORM X - - - -
+             COMMAND X - - - -
+                LINE X - - - -
+                SUDO - - X - -
+             APT-GET - - S - -
+             UPGRADE - - - S -
+             VERSION - - - - O
+               ERROR - - - - O
+                LOAD - - - - X
+               SHARE - - - - X
+           LIBRARIES - - - - S
+     LIBMAGICK.SO.10 - - - - X
+              OBJECT - - - - X
+                FILE - - - - O
+           DIRECTORY - - - - X
+                DMAN - - - - X
+             PACKAGE - - - - X

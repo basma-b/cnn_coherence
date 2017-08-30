@@ -1,0 +1,15 @@
+         PERMISSIONS S O - -
+                FILE O O - -
+           RECURSIVE X - - -
+              CHANGE S - - -
+           DIRECTORY X - - -
+            LOCATION - X - -
+                THAT - O - -
+              PARENT - X - -
+                DIRS - S - -
+             AZUREUS - X - -
+             VERSION - O - -
+                 ZIP - X - -
+              SCRIPT - O - -
+                SUDO - X - X
+             PROGRAM - - - O

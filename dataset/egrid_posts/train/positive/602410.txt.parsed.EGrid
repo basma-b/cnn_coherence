@@ -1,0 +1,24 @@
+                 WAY S - - - - - - - - - - - - - - - -
+              DEVICE S - - X S - - - - - - - - - - - -
+             COMMAND X - - - - - - - - - - - - - - - -
+              UMOUNT X - - - X - - - - - - - - - - - -
+                LIST X - - - - - - - - - - - - - - - -
+               DRIVE - O - - - - - - - - - - - - - - -
+               MOUNT - - X - - - - - - - - - - - - - -
+               POINT - - X X - - - - - - - - - - - - -
+           DIRECTORY - - - X - - X - - - - - - - - - -
+                NAME - - - X - - - - - - - - - - - - -
+              COURSE - - - - - X - - - - - - - - - - -
+                   / - - - - - - - - S - - X - - - - -
+            SHUTDOWN - - - - - - - - - X - - - X - - -
+          FILESYSTEM - - - - - - - - - X - - - - - - -
+              MOTIVE - - - - - - - - - - X - - - - - -
+                DATA - - - - - - - - - - - O - - - O -
+                FILE - - - - - - - - - - - - X - - - -
+              SYSTEM - - - - - - - - - - - - O - - - -
+                BOOT - - - - - - - - - - - - - X - - -
+                  CD - - - - - - - - - - - - - X - - -
+           /DEV/SDA1 - - - - - - - - - - - - - - X S -
+                HTTP - - - - - - - - - - - - - - - X -
+//WWW.LINUXHAXOR.NET/2007/12/26/UNDELETE-FILES-IN-LINUX-WITH-LAZARUS-AND-UNRM/ - - - - - - - - - - - - - - - X -
+                EXT3 - - - - - - - - - - - - - - - - O

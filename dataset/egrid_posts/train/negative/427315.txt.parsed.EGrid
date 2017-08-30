@@ -1,0 +1,17 @@
+           PARTITION O O X - -
+                KIND X X - - -
+                DISK X X - - -
+              ERRORS X X - - -
+                DATA - X - - -
+                  CD - - X - -
+                TYPE - - S - -
+                FSCK - - X - -
+            DEV/HDAX - - X - -
+              NUMBER - - O - -
+  FIRMWARE-B43LEGACY - - - S -
+            FIRMWARE - - - O -
+                CARD - - - X -
+                  'S - - - X -
+                SUDO - - - - X
+             APT-GET - - - - S
+FIRWMARE-B43-INSTALLER - - - - O

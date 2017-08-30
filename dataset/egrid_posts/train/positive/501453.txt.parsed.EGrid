@@ -1,0 +1,29 @@
+LINUX-RESTRICTED-MODULES X - - - -
+NVIDIA-KERNEL-COMMON X - - - -
+              NVIDIA - X - X -
+                CARD - O - - -
+              DRIVER - X - - -
+               REPOS - X - - -
+             ATHEROS - X - - -
+                BASE - X - - -
+             CHIPSET - X - - -
+             DRIVERS - S - - -
+          SUBPACKAGE - X - - -
+                 THX - X - - -
+                ZENO - - X - -
+                 WAY - - X - -
+             APT-GET - - O - -
+          DEPENDENCY - - O - -
+              INSTAL - - - O -
+             PACKAGE - - - S -
+            DECISION - - - X -
+              SYSTEM - - - S -
+             MODULES - - - O -
+            PROBLEMS - - - X -
+             NOTHING - - - O -
+                 YES - - - O -
+              KERNEL - - - X -
+              COMMON - - - X -
+                THAT - - - - S
+                IDEA - - - - O
+                DEPS - - - - O

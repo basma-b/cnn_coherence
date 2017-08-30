@@ -1,0 +1,14 @@
+               GUEST X - - - X
+             ACCOUNT X - - - X
+               USERS - X - - -
+               GROUP - X - - -
+                NONE - S - - -
+                 GDM - X - - -
+       CONFIGURATION - - X - -
+         /ETC/PASSWD - - - X -
+               SHELL - - - O -
+           SOMETHING - - - X -
+   /USR/SBIN/NOLOGIN - - - X -
+               LOGIN - - - - X
+                DONT - - - - S
+            PASSWORD - - - - X

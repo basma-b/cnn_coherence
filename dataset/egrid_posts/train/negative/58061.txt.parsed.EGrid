@@ -1,0 +1,11 @@
+             COMMAND O - - -
+                DIRS O O - -
+            TERMINAL X X - -
+                 CAN - X - -
+              ANYONE - S - -
+                   P - - X -
+               MKDIR - - X -
+                 DIR - - X -
+                SUDO - - - X
+             APT-GET - - - S
+              MPG123 - - - O

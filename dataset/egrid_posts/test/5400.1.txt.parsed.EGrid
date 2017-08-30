@@ -1,0 +1,16 @@
+             COMMAND X O - - -
+               ERROR X S - - -
+             MESSAGE X - - - -
+              RETURN X - - - -
+              DEVICE - X - - -
+                SUDO - S - - -
+                /MNT - O - - -
+                WORK - X - - -
+                FILE - X - - -
+           /DEV/SDA1 - - S - -
+           PARTITION - - O O -
+               THERE - - - S -
+                 ALL - - - O -
+        INSTALLATION - - - X -
+                 WEB - - - - S
+                HTTP - - - - X

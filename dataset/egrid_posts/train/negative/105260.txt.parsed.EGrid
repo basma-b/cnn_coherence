@@ -1,0 +1,14 @@
+              PUBKEY X X X - - -
+              UPDATE X X - - - -
+                 GPG - O - - - -
+              IMPORT - X - - - -
+          GPG-PUBKEY - X - - - -
+                KIND - - X - - -
+                 ONE - - - O - -
+                SUDO - - - X - -
+             APT-KEY - - - S - -
+        /PATH/TO/KEY - - - O - -
+                THAT - - - - S -
+               MIGHT - - - - X -
+                 GUI - - - - - O
+           DATABASES - - - - - X

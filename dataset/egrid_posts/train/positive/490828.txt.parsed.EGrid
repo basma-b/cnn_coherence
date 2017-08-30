@@ -1,0 +1,12 @@
+             INITTAB O - - - -
+              SYSTEM X - - - -
+               GETTY X - - S -
+                LINE X - - - -
+                DONT - - - X -
+                HTTP - - - X X
+//UPSTART.UBUNTU.COM/ - - - S -
+             UPSTART - - - X -
+             SERVICE - - - O -
+                THIS - - - X -
+                LOOK - - - - X
+             SECTION - - - - X

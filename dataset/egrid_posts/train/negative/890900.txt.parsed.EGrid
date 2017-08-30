@@ -1,0 +1,17 @@
+              SOURCE X X - -
+                TIME - X - -
+                ONES - O - -
+/ETC/APT/SOURCES.LIST - X - -
+/ETC/APT/SOURCES.LIST.D/ - X - -
+                THIS - - S -
+                 LOG - - O -
+             COMMAND - - S -
+     /VAR/LOG/HOSTS/ - - O -
+                   * - - S -
+                   / - - X -
+            SYMLINKS - - S -
+               STUFF - - X X
+                THAT - - - O
+        DOUBLE-FILES - - - O
+             BUTTHIS - - - S
+              KERNEL - - - X

@@ -1,0 +1,22 @@
+             WINDOWS X - - - - - - - - - -
+               SHARE X - - - - - - - - - -
+        LINUX/UBUNTU X - - - - - - - - - -
+                FILE - X - - - - - - - - -
+             BROWSER - X - - - - - - - - -
+                TYPE - O X - - - - - - - -
+//IPADDRESSOFWINDOWS/SHARENAME - X - - - - - - - - -
+                 SMB - O X - - - - - - - -
+                  // - S - - - - - - - - -
+             USERMOD - - X - - - - - - - -
+             COMMAND - - S X - - - - - - -
+               GROUP - - X - - - - - - - O
+                USER - - O - - - - - - - -
+                 YES - - X - - - - - - - -
+           VBOXUSERS - - - O - - - - - - -
+                   > - - - X - - - - - - -
+                 GUI - - - O - - - - - - -
+            RUNLEVEL - - - - X X X - X - -
+              SHOULD - - - - - - X - - - -
+               IRSSI - - - - - - - - O - -
+                   N - - - - - - - - - - X
+              MEMBER - - - - - - - - - - O

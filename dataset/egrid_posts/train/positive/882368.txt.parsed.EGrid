@@ -1,0 +1,14 @@
+                HELP O - -
+          MICROPHONE X - -
+               LEVEL - S -
+                 WAY - O -
+          PULSEAUDIO - X -
+           ~/.ASOUND - X -
+                   * - S -
+    /ETC/ASOUND.CONF - O -
+            TERMINAL - X -
+             SIGNOUT - X -
+                TYPE - X X
+                SUDO - - X
+            PASSWORD - - O
+            ANYTHING - - O

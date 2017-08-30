@@ -1,0 +1,7 @@
+        /ETC/SUDOERS X X - -
+                USER S S - -
+                 ALL X X - -
+            NOPASSWD O O - -
+        ALL=NOPASSWD - - X -
+                POST - - X -
+                LINE - - O -

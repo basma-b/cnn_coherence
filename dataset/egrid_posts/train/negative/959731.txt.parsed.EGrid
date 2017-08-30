@@ -1,0 +1,19 @@
+                SUDO X - - - - - -
+            IPTABLES S - - - - - -
+             NETSTAT X - X - - - -
+               -TLNP X - X - - - -
+             PROGRAM X - - - - - -
+                 ANY X - - - - - -
+                PORT S - - - S - -
+              SERVER X - - - - - -
+              OUTPUT - - O - - - -
+              APACHE - - X - S - -
+APTITIDE/APT-GET/SYNAPTIC - - - X - - -
+             WEBSITE - - - - O - -
+                  TI - - - - O - -
+               START - - - - O - -
+                  .. - - - - X - -
+                 SAY - - - - X - -
+             APACHE2 - - - - S S -
+              UBUNTU - - - - - - X
+                  OS - - - - - - O

@@ -1,0 +1,16 @@
+                HELP O - - - -
+           DIRECTORY - O - - -
+                 ALL - X - - -
+          SUBFOLDERS - O - - -
+                FILE - O - - -
+         PERMISSIONS - O - - X
+                THIS - O - - -
+              SERVER - X - - -
+               OWNER - X - - -
+                  .. - X - - -
+               SENSE - O - - -
+                 TAR - - X X -
+                   | - - - S -
+            PROBLEMS - - - - O
+          PARAMETERS - - - - S
+                 ETC - - - - X

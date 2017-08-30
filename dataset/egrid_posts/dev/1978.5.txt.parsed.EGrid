@@ -1,0 +1,12 @@
+        GRUB-INSTALL X - -
+             COMMAND X - O
+              SEARCH - X -
+              KERNEL - O -
+                   / - X -
+                 SYS - X -
+                BASH - - X
+                  IM - - S
+                ROOT - - X
+              ACCESS - - O
+              ANSWER - - O
+                 TRY - - X

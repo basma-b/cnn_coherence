@@ -1,0 +1,14 @@
+                TIME S - -
+                GUYS X - -
+             XMODMAP X - -
+/USR/SHARE/XMODMAP/XMODMAP.US S - -
+                BOOT X - -
+          ~/.XINITRC X - -
+             STARTUP X - -
+              THINGS X - -
+   /USR/BIN/WHATEVER O - -
+         BASE-CONFIG - O O
+              DEBIAN - X -
+                THAT - - S
+              UBUNTU - - X
+              SYSTEM - - O

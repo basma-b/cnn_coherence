@@ -1,0 +1,12 @@
+           PARTITION X - X O -
+                USER X O - S -
+             OPTIONS - S - - -
+              OPTION - O - - -
+               FSTAB - - S O -
+              NOAUTO - - - X -
+          /ETC/FSTAB - - - X -
+                LANG - - - X -
+               REPOS - - - - X
+  BREEZYUPGRADENOTES - - - - X
+                WIKI - - - - X
+               ENTRY - - - - X

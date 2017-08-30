@@ -1,0 +1,16 @@
+            RUNLEVEL X - S X - - - - - - - -
+                BOOT X - - - - - - - - - - -
+             DESKTOP X - - - - - - - - - - -
+              SERVER X - - - - - - - - - - -
+                FILE - X - - - - - - - - - -
+        /ETC/INITTAB - S - - - - - - - - - -
+               OTHER - - X - - - - - - - - -
+             COMMAND - - - O - - - - - - - -
+             DEFAULT - - - - S - - - - - - -
+            OPENSUSE - - - - - - X - - - - -
+                 GUI - - - - - - X - - - - -
+             NON-GUI - - - - - - - X - - - -
+             STARTUP - - - - - - - - X - - -
+             SERVICE - - - - - - - - S - - -
+          /ETC/RC2.D - - - - - - - - X - - -
+                  OK - - - - - - - - - - - X

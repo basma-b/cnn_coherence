@@ -1,0 +1,16 @@
+             BUSYBOX X - - - - -
+              STRING - X - - - -
+                   > - S - - - -
+               SHELL - - X - - -
+                  .. - - - O - -
+                 HDA - - - X - -
+                 CAT - - - X - -
+    /PROC/PARTITIONS - - - X - -
+                 SDA - - - O - -
+           PARTITION - - - X S -
+               DRIVE - - - O - -
+              REASON - - - O - -
+               TABLE - - - S - -
+                WELL - - - X - -
+               IDEAS - - - X - -
+                  CD - - - - X -

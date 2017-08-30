@@ -1,0 +1,24 @@
+MORNING/AFTERNOON/EVENING/NIGHT S - - - - - - - - - - - - - - -
+              UBUNTU - O - - - - - - - - - - - - - -
+             EDITION - X - - - - - - - - - - - - - -
+              UPDATE - O - - - - - - - - - - - - - -
+             MACHINE - - X - - X - - - - - - - - - -
+             NETWORK - - X - - - - - - - - - - - - -
+          CONNECTION - - X O - - - - - - - - - - - -
+              REFUSE - - O - - - - - - - - - - - - -
+               LOCAL - - - X - - - - - - - - - - - -
+                FILE - - - X - - - - - - - - - - - -
+            STANDARD - - - - - - S - - - - - - - - -
+                USER - - - - - - - X - - - - - - - -
+                ROOT - - - - - - - - X - - - - - - -
+            INTERNET - - - - - - - - - X - - - - - -
+                 LAN - - - - - - - - - X - - - - - -
+/ETC/SSH/SSHD_CONFIG - - - - - - - - - - X - - - - -
+                   * - - - - - - - - - - S - - - - -
+              CLIENT - - - - - - - - - - S - - - - -
+            SETTINGS - - - - - - - - - - S - - - - -
+                FILL - - - - - - - - - - - X - - - -
+            PASSWORD - - - - - - - - - - - O - - - -
+     /ETC/INIT.D/SSH - - - - - - - - - - - - S - - -
+                THAT - - - - - - - - - - - - - O - -
+                  PM - - - - - - - - - - - - - - - X

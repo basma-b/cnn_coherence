@@ -1,0 +1,17 @@
+             WINDOWS X - -
+           PARTITION X - -
+              PLACES X - -
+               GNOME X - -
+              /MEDIA - X -
+  /ETC/INIT.D/DBUS-1 - S -
+                SAME - S -
+                USER - X -
+              OPTION - O -
+                LINE - X -
+            DEV/HDA5 - X -
+        /MEDIA/WIN_C - X -
+                VFAT - X -
+                  RW - X -
+                AUTO - X -
+             UMASK=0 - X -
+                THAT - - S

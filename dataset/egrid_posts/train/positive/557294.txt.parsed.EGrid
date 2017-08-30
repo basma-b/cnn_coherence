@@ -1,0 +1,13 @@
+              APACHE X - - - -
+                 USE X - - - -
+                SUDO X - - - -
+             APT-GET S - - - -
+          HTTPD.CONF S - - - -
+                BIND - X X X -
+                PORT - X - - -
+           127.0.0.1 - X - O -
+                 DON - - S - -
+           127.0.1.1 - - X - -
+                   * - - - - S
+            LOOPBACK - - - - O
+             ANYWAYS - - - - X

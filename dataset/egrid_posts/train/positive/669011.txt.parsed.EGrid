@@ -1,0 +1,15 @@
+              ANYONE X - - - - - - - -
+        ATHEROS-CARD O - - - - - - - -
+                9.10 X - - - - - - - -
+             DEFAULT - X - - - - - - -
+              DRIVER - - X - - X - - -
+    /ETC/MODPROBE.D/ - - - - O - - - -
+                THIS - - - - O - - - -
+               ATH5K - - - - - S - - -
+                 NAH - - - - - S - - -
+/ETC/MODPROBE.D/BLACKLIST-ATH_PCI.CONF - - - - - X - - -
+           CONDITION - - - - - - O - -
+     /ETC/MODPROBE.D - - - - - - O - -
+               GEDIT - - - - - - - - S
+               RIGHT - - - - - - - - O
+                SUDO - - - - - - - - X

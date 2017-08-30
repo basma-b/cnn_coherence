@@ -1,0 +1,16 @@
+           PARTITION X X X X - O - -
+                ROOT - X O - - - - -
+                THAT - - S - - - - -
+                UUID - - S - - - - -
+                GRUB - - O - - - - -
+             COMMAND - - X - - - - -
+                LINE - - O - - - - -
+      ROOT=/DEV/HDA1 - - X - - - - -
+              KERNEL - - S X - - X -
+               ROOT= - - S - - - O -
+                 DEV - - - X - - - -
+           /DEV/HDA1 - - - - X - - -
+                INIT - - - - - X - -
+           PARAMETER - - - - - - X -
+              CHANGE - - - - - - - X
+                FILE - - - - - - - X

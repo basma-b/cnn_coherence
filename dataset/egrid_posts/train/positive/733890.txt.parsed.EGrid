@@ -1,0 +1,11 @@
+            RUNLEVEL O - - - -
+                BASH - X - - -
+  /ETC/X11/XORG.CONF - X - - -
+                TEXT - S - - -
+                  .. - O - - -
+              SCRIPT - S - - -
+                ROOT - X - - -
+          FILESYSTEM - S - - -
+              INITRF - - O - -
+                   / - - - - X
+                HAND - - - - X

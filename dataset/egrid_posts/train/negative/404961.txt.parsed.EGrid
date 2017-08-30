@@ -1,0 +1,13 @@
+         FILESYSTEMS X X - - - - -
+                FUSE X X X O S - -
+                USER X X - - O - -
+                THAT - - O - - - -
+               GROUP - - X X X - -
+               USERS - - - X X - -
+             MACHINE - - - - O - -
+             SYSTEM- - - - - X - -
+                   > - - - - X - -
+              GROUPS - - - - S - -
+            SETTINGS - - - - X - -
+              CHANGE - - - - X - -
+              EFFECT - - - - X - -

@@ -1,0 +1,13 @@
+                FLAG X - - -
+              KERNEL O - - -
+             MODULES X - - -
+                   M X - - -
+          MENUCONFIG X - - -
+                  DO - X - -
+             BZIMAGE - S - -
+             NOTHING - X - -
+              CONFIG - X - -
+           OLDCONFIG - O - -
+                SWAP - - - S
+           PARTITION - - - X
+                CASE - - - X

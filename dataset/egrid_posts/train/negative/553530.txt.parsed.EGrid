@@ -1,0 +1,22 @@
+                RISK X - - - - -
+             PROBLEM O - O - - -
+         BUFFER_READ X - - - - -
+                  FD X - - - - -
+             MD5HASH X - - - - -
+        INPUT/OUTPUT X - - - - -
+               ERROR S - - - - -
+4:3.5.10-0UBUNTU1~HARDY1.1 X - - - - -
+             NOTHING X - - - - -
+                  CD - X - - - -
+                 I/O - - S - - -
+                 NEG - - X - - -
+              UPDATE - - X - - -
+            DOWNLOAD - - - O - -
+                FILE - - - O X -
+/VAR/CACHE/APT/ARCHIVES - - - X - -
+               ISSUE - - - O - -
+        KDELIBS-DATA - - - - O -
+               THERE - - - - S -
+               MATCH - - - - X -
+  /VAR/LIB/DPKG/INFO - - - - X -
+                ALSA - - - - - S

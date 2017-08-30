@@ -1,0 +1,7 @@
+               FSTAB S - - - -
+           SOMETHING - O - - -
+                THAT - - - S -
+               /BOOT - - - X -
+                GRUB - - - - S
+              KERNEL - - - - S
+             RAMDISK - - - - O

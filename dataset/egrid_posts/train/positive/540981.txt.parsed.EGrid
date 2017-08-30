@@ -1,0 +1,9 @@
+         DIRECTORIES X - - - - -
+            /VAR/WWW X - - - - -
+            WWW-DATA - X - S - -
+                ROOT - X - - - -
+               WORLD - - X - - -
+               G+RWX - - - S - -
+                 DIR - - - X - -
+           WEBSERVER - - - S - -
+              ACCESS - - - O - -

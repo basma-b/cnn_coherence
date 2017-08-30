@@ -1,0 +1,6 @@
+           LIBNOTIFY X -
+                 USE O -
+       NOTIFICATIONS O -
+ NOTIFICATION-DAEMON S -
+             MESSAGE X -
+                NEED - O

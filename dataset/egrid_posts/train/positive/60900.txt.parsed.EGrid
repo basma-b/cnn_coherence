@@ -1,0 +1,23 @@
+              SOURCE - X - - - - X - -
+                LIST - O - - - S - - -
+             APT-GET - - S - - - - - -
+                SUDO - - X - - - - - -
+              ANYONE - - O - - - - - -
+                FTPD - - X - - - - - -
+              UPDATE - - - - X - - - -
+             PACKAGE - - - - X - - - -
+               LISTS - - - - X - - - -
+                   $ - - - - - X - - -
+              JURGIS - - - - - X - - -
+              UBUNTU - - - - - X - - -
+              SERVER - - - - - X - - -
+             SOURVES - - - - - X - - -
+/ETC/APT/SOURCES.LIST - - - - - - X - -
+                 DEB - - - - - - X - X
+                HTTP - - - - - - X - -
+        //SERVERNAME - - - - - - S - -
+              SAMPLE - - - - - - X - -
+                 FTP - - - - - - - - X
+                MAIN - - - - - - - - S
+            UNIVERSE - - - - - - - - X
+          MULTIVERSE - - - - - - - - O

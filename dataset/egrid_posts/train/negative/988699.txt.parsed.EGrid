@@ -1,0 +1,15 @@
+             COMMAND X - - -
+                LINE X - - -
+                 WAY X - - -
+        DEPENDENCIES X - - -
+             PACKAGE X X X -
+              KSTARS X - - -
+           APT-CACHE - S - -
+                   > - O - -
+             VERSION - - O -
+              SCHOOL - - X -
+             STARTUP - - X -
+                BOOT - - S -
+               HERON - - X -
+                 PCS - - X -
+ UBUNTU-DESKTOP-CORE - - - O

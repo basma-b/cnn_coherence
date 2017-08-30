@@ -1,0 +1,13 @@
+               2.4.3 O - - - - - -
+                7.10 X - - - - - -
+        DEPENDENCIES S - - - X - -
+               ORDER X - - - - - -
+               .DEBS - - - - S - -
+            IPTABLES - - - - X - -
+              UBUNTU - - - - X - -
+          EVERYTHING - - - - O - -
+             DEFAULT - - - - X - -
+           INTERFACE - - - - O - -
+                 KAD - - - - - S -
+               AMULE - - - - - X S
+                  ID - - - - - - X

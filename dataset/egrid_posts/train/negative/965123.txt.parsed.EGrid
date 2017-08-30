@@ -1,0 +1,13 @@
+             WINDOWS X - - - -
+           PARTITION O O - - -
+                 DIR O - - - -
+        /MNT/WINDOWS X - - - -
+               ENTRY O - - - -
+          /ETC/FSTAB X - - - -
+               MOUNT - X - X -
+                USER - X - - -
+                ROOT - X - - -
+                THIS - - X - -
+                SUDO - - - O -
+             COMMAND - - - X -
+                LOSE - - - - X

@@ -1,0 +1,17 @@
+               THOSE S - - - - - - - -
+               USERS O - - - - - - - -
+               THING - S - - - - - - -
+        POWER-SUPPLY - S - - - - - - -
+                FSCK - - O - - - - - -
+                DISK - - X - - - - - -
+               ISSUE - - - O - - - - X
+               CONVO - - - - O - - - -
+            BEHAVIOR - - - - X - - - -
+               GNOME - - - - X - - - -
+               PANEL - - - - - S - - -
+                 TOP - - - - - X - - -
+              SCREEN - - - - - X - - -
+              REBOOT - - - - - - X - -
+           XORG.CONF - - - - - - - O -
+               AVAIL - - - - - - - X -
+          SUBSEQUENT - - - - - - - X -

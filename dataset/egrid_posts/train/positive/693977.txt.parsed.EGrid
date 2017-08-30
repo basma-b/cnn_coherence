@@ -1,0 +1,13 @@
+       /VAR/RUN/MOTD X - - - -
+      /ETC/MOTD.TAIL - O - - -
+             DEFAULT - O - - -
+                MOTD - - X - -
+                THIS - - S - -
+               BETA1 - - O - -
+               CHECK - - O - -
+                SUDO - - X - -
+                LSOF - - X - -
+                TIME - - - X -
+                THAT - - - O -
+               WRITE - - - X -
+             CULPRIT - - - - S

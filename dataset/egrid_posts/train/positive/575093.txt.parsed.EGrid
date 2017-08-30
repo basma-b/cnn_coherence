@@ -1,0 +1,21 @@
+                 GUY - X - - - - - -
+             COMMAND - X - - - - - -
+                LINE - X - - - - - -
+                TOOL - X - - - - - -
+           DIRECTORY - X - - - - - -
+         BLOCKDEVICE - X O - - - - -
+                BASE - O X - - - - -
+                 FTP - X - X - - - -
+                 SSH - X - X - - - -
+          CRYPTSETUP - - X - - - - -
+                THAT - - - O - - - -
+                 TOP - - - X - - - -
+          ENCRYPTION - - - S - - - -
+              CLIENT - - - X - - - -
+                DATA - - - O - O - -
+                HOST - - - X - X - S
+               TRUST - - - O - - - -
+           SOMETHING - - - - O - - -
+               SSHFS - - - - X S - -
+         DESTINATION - - - - - - - X
+ENCFS/TRUECRYPT/WHATEVER - - - - - - - O

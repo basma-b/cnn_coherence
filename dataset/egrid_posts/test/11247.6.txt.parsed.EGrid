@@ -1,0 +1,15 @@
+ WPA_SUPPLICANT.CONF X - - - -
+               12.04 X - - - -
+              CONFIG - X - - -
+                 USE - O - - -
+             NETWORK - X - S -
+              UBUNTU - - - S -
+       WPASUPPLICANT - - - S -
+             PACKAGE - - - X -
+                NAME - - - O -
+                THIS - - - S -
+          PARAMETERS - - - X -
+          ENCRYPTION - - - X -
+                 DEB - - - X -
+SILVERLIGHT/MOONLIGHT - - - X -
+                 ONE - - - - O

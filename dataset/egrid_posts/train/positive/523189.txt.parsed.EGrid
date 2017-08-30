@@ -1,0 +1,19 @@
+             OPTIONS X O - -
+          PARAMETERS X - - -
+                NTFS X X - -
+           PARTITION X - - -
+UUID=486C137A6C1361CC - X - -
+             DEFAULT - S - -
+            NLS=UTF8 - X - -
+           UMASK=007 - X - -
+              GID=46 - X - -
+             EXAMPLE - X - -
+                UUID - S - -
+                  .. - X - -
+                ONES - S - -
+               DRIVE - X - -
+               MOUNT - - - X
+              UBUNTU - - - S
+             COMMAND - - - O
+               BRAIN - - - O
+                   * - - - S

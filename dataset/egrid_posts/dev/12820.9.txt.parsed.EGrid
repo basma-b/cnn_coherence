@@ -1,0 +1,15 @@
+                ALL= S - - - -
+                 ALL X - - - -
+                  .. - - O - -
+                 MAN - - X - -
+              VISUDO - - X - -
+                OKEY - - X - -
+              SLIDER - - - - O
+          BRIGHTNESS - - - - O
+              REBOOT - - - - X
+         ACPI_VENDOR - - - - X
+               LINUX - - - - X
+                LINE - - - - O
+                GRUB - - - - X
+              CONFIG - - - - X
+                FILE - - - - X

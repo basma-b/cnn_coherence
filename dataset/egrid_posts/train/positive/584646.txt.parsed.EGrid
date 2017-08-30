@@ -1,0 +1,18 @@
+                 ALL O - - - - -
+          PERMISSION X - - - - -
+                UDEV X - - - - -
+             COMMAND - O - - - -
+                SUDO - X - - - -
+               GEDIT - S - - - -
+              ANYONE - O - - - -
+                 FYI - - X - - -
+              GKSUDO - - S - - -
+         PERMISSIONS - - S - - -
+            ANYTHING - - O - - -
+                PAGE - - - X X -
+/ETC/UDEV/RULES.D/40-PERMISSIONS.RULES - - - - X -
+                PATH - - - - S -
+               SORRY - - - - X -
+               THING - - - - X -
+             SOMEONE - - - - S -
+                COOL - - - - - X

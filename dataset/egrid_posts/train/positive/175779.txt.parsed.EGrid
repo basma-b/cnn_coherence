@@ -1,0 +1,10 @@
+ /ETC/INIT.D/HOTPLUG S - - - -
+             HOTPLUG X - - O -
+              DAPPER X - - - -
+              KERNEL - - S - -
+              MODULE - - S - -
+                LOAD - - X - -
+             PACKAGE - - S - -
+               AFAIK - - - X -
+                 HAL - - - S -
+               THANK - - - - X

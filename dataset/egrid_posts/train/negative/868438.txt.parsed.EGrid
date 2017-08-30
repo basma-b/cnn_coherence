@@ -1,0 +1,11 @@
+                THAT S - -
+              CLIENT - X -
+                  .. - - X
+           APP-ARMOR - - S
+             FIREFOX - - S
+             PROFILE - - O
+    /ETC/APPARMOR.D/ - - X
+             SELINUX - - S
+               LABEL - - O
+      MOZILLA_EXEC_T - - X
+           SOMETHING - - X

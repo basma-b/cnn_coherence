@@ -1,0 +1,13 @@
+                BOOT X - - - - X
+                 USB X - - - - -
+               FLASH X - - - - -
+               DRIVE X - O - - -
+              DISTRO X - - - - -
+                  DD - X - - - -
+          IF=THE.ISO - X - - - -
+         OF=/DEV/SDB - X - - - -
+           PARTITION - - O - - X
+          IMPRESSION - - - X - -
+                 ISO - - - S - -
+          FILESYSTEM - - - O - -
+              METHOD - - - - - O

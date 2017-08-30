@@ -1,0 +1,14 @@
+             COMMAND X - - -
+                 USE X - - -
+              VISUDO O - - -
+                ROOT X X - X
+              PASSWD O - - O
+             SOMEONE X - - -
+                USER X - - O
+                 ALL X - - -
+                   * X - - -
+                THAT - O - -
+            INTEREST - X - -
+            TUTORIAL - - O -
+             PROBLEM - - X -
+               USERS - - - X

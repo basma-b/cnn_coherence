@@ -1,0 +1,9 @@
+              SYSTEM X - - - -
+                ROOT O - - - -
+                BOOT X - - - -
+              INITRD - O - - X
+             EXTENTS - - - O -
+           PARTITION - - - X -
+                DISK - - - O -
+             TUNE2FS - - - - X
+                FSCK - - - - X

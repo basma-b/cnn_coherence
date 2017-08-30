@@ -1,0 +1,15 @@
+                 ALL O - - - - - - - - - - -
+                HELP X - - - - - - - - - - -
+               DRIVE - O - - - - - - X - - -
+         PERMISSIONS - O - - - - - - - - - -
+                DISK - X - - - - - - - - - -
+              ANYONE - - - - - X - - - - - -
+                  .. - - - - - - - - S - - -
+                FILE - - - - - - - - X - - -
+              SYSTEM - - - - - - - - O - - -
+                LOOK - - - - - - - - - X - -
+               FAT32 - - - - - - - - - X - -
+               ENTRY - - - - - - - - - X - -
+          /ETC/FSTAB - - - - - - - - - X - -
+                 JOB - - - - - - - - - - - S
+                ROOM - - - - - - - - - - - O

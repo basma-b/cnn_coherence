@@ -1,0 +1,16 @@
+        INSTRUCTIONS O - -
+                 FTP S - -
+                FILE O - -
+           CURLFTPFD X - -
+                CODE X - -
+                SUDO S - -
+         FTPUSERNAME S - -
+         FTPPASSWORD X - -
+                FUSE S - -
+         ALLOW_OTHER X - -
+          UID=USERID X - -
+          /ETC/FSTAB O - -
+                DOES X - -
+                PATH O - -
+            INSTANCE X - -
+                  EX X - -

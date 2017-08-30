@@ -1,0 +1,9 @@
+            EHCI_HCD X - - - - - -
+                 USB - X - - - - -
+                IIRC - X - - - - -
+                LOAD - - O - - - -
+             DEVICES - - - O - - -
+                IPOD - - - - S - -
+                USB2 - - - - - X -
+            SHORTCUT - - - - - - O
+             COMMAND - - - - - - X

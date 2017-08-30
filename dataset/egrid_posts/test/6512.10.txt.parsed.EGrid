@@ -1,0 +1,17 @@
+                 GUY X - - -
+                 PPA O - - -
+             PACKAGE O - - -
+              DISTRO X - - -
+               REPOS X - - -
+                  .. X - O -
+              UBUNTU S - - -
+             APT-GET - - S -
+PACKAGE=VERSION_FROM_REPO - - O -
+             VERSION - - O -
+                 ONE - - S -
+               ORDER - - X -
+                   $ - - - O
+                THIS - - - O
+            TERMINAL - - - X
+              OUTPUT - - - O
+                LANG - - - X

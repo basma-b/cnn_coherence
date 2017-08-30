@@ -1,0 +1,15 @@
+             DEFAULT X - - -
+               USERS S - - -
+               GRANT X - - -
+                SUDO X - - -
+           PRIVILEGE O - - -
+                USER O - - -
+               ADMIN X - - -
+               GROUP X X - -
+              MEMBER - O - -
+               RIGHT - O - -
+               ROUTE - - - O
+             GATEWAY - - - X
+                TYPE - - - X
+             ADDRESS - - - O
+            ASTERISK - - - X

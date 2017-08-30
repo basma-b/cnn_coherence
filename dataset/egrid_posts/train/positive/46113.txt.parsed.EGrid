@@ -1,0 +1,17 @@
+                ROOT S - - - - - - -
+            VARIABLE O S - - - - - -
+            QJACKCTL - O - - - - - -
+                SUDO - X - - - - - -
+         ./CONFIGURE - O - - - - - -
+               QTDIR - S - - - - - -
+         ENVIRONMENT - X - - - - - -
+           CONFIGURE - X - - - - - -
+               ERROR - X - - - - - -
+              ANYONE - - X - - - - -
+                HELP - - X - - - - -
+                THIS - - X - - - - -
+             QT3-DEV - - - S - - - -
+         DEVELOPMENT - - - - X - - -
+           LIBRARIES - - - - O - - -
+                  QT - - - - X - - -
+                THAT - - - - - - - O

@@ -1,0 +1,16 @@
+             SUDOERS X - -
+            NOPASSWD X - -
+                USER X - -
+              DAPPER X - -
+                CANT S - -
+                  .. O - -
+             MY_USER X - -
+                ALL= S - -
+                 ALL S - -
+                FILE X - -
+               SPACE O - -
+                  OK X - -
+              VISUDO X - -
+                LINE - - S
+                 ONE - - O
+              EFFECT - - O

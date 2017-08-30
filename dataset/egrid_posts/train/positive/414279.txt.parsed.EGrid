@@ -1,0 +1,14 @@
+            QUESTION X - - - -
+          VIRTUALBOX X - - - -
+              KERNEL X - - - -
+              DRIVER S - - - -
+                USER X S - - -
+         PERMISSIONS - O - - -
+        /DEV/VBOXDRV - X - - -
+           VBOXUSERS - X - - -
+               GROUP - X - - -
+              CHANGE - - S - -
+              EFFECT - - O - -
+             TROUBLE - - O - -
+                VBOX - - X - -
+                YEAP - - - - X

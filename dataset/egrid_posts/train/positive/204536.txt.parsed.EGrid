@@ -1,0 +1,18 @@
+                THAT O - - -
+              KERNEL X - - S
+               PANIC X - - -
+                SYNC X - - -
+             PCI-DMA X - - -
+             ADDRESS S - - -
+               IOMMU X - - -
+              ANYONE S - - -
+             INSTALL X - - -
+               AMD64 - X - -
+               ISSUE - - X -
+                HTTP - - X -
+//LKML.ORG/LKML/2005/10/29/212 - - X -
+              OPTION - - - O
+                BIOS - - - X
+              6.06.1 - - - S
+               IMMOU - - - X
+             PROBLEM - - - X

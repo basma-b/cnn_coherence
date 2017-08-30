@@ -1,0 +1,17 @@
+EDITING_THE_GRUB_2_MENU_DURING_BOOT - - O - -
+                GRUB - - X X -
+                BOOT - - X O X
+                   ' - - - X -
+              CHANGE - - - S -
+                 END - - - X -
+                LINE - - - O -
+              SPLASH - - - O -
+                SHOW - - - X -
+             PICTURE - - - X -
+               SHIFT - - - X -
+        INSTALLATION - - - X -
+            ACPI=OFF - - - X -
+   /ETC/DEFAULT/GRUB - - - X -
+                  IM - - - O -
+               PRESS - - - - X
+              CTRL+X - - - - X

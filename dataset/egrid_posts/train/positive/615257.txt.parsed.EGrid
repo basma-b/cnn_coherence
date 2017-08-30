@@ -1,0 +1,19 @@
+               HTTPS X - - - -
+             PROBLEM S - - - -
+                 GUI X - - - -
+             NETWORK X - - X -
+             MANAGER O - - - -
+                DHCP - S - - -
+        RESOLVE.CONF - O - - -
+                THIS - - X - -
+                LINE - - - X -
+/ETC/DHCP3/DHCLIENT.CONF - - - X -
+          NAMESERVER - - - O -
+                ETH0 - - - O -
+              DEVICE - - - S -
+                SUDO - - - - X
+            DHCLIENT - - - - X
+                   < - - - - X
+           INTERFACE - - - - X
+                   > - - - - X
+              SYSTEM - - - - X

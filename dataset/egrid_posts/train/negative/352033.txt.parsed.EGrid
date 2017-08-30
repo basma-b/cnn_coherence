@@ -1,0 +1,18 @@
+              UBUNTU S - - - - - - -
+           USER/PASS O - - - - - - -
+                 GDM X - - - - - - -
+                ACPI X X - - - - - -
+              EVENTS O - - - - - - -
+/VAR/RUN/ACPID.SOCKET X - - - - - - -
+           SUBSYSTEM - S - - - - - -
+                WORK - O - - - - - -
+              DAEMON - S - - - - - -
+              EFFECT - - X - - - - -
+            COMPUTER - - S - - - - -
+               CLAIM - - - X - - - -
+              WONDER - - - - O - - -
+                 X86 - - - - S - - -
+               AMD64 - - - - X - - -
+                THAT - - - - - - - X
+               THERE - - - - - - - X
+               THEME - - - - - - - X

@@ -1,0 +1,17 @@
+                SUDO X - -
+               CHGRP X - -
+                ROOT X - -
+/VAR/WWW/TECHSALVAGER X - -
+               GROUP S - X
+               CHOWN S - -
+                USER X - -
+                  OK O - -
+         PERMISSIONS X - O
+           DIRECTORY X - X
+                THAT - X -
+                FILE - - O
+                SAME - - X
+                 ONE - - X
+               OWNER - - O
+          EVERYTHING - - O
+              OTHERS - - S

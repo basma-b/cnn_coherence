@@ -1,0 +1,19 @@
+         RESOLV.CONF X - - - -
+              REBOOT X - - - -
+                 SET - S - - -
+                  IP - X - - -
+/ETC/NETWORK/INTERFACES - X - - -
+                 USE - X - - -
+/ETC/DHCP/DHCPCLIENT.CONF - S - - -
+ DOMAIN-NAME-SERVERS - O - - -
+     DNS-NAMESERVERS - X - - -
+              SEARCH - X - - -
+              DOMAIN - X - - -
+                 BZR - - - X -
+              REVERT - - - S -
+              CHANGE - - - O -
+            UNCOMMIT - - - - S
+                LAST - - - - O
+            REVISION - - - - X
+               SHARE - - - - X
+                TREE - - - - X

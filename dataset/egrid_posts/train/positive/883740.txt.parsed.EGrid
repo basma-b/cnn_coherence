@@ -1,0 +1,12 @@
+                BOOT X - - - -
+             PROBLEM O - - - -
+              MEMORY X - - - -
+                TEST X - - - -
+              SYSTEM X - - - -
+                GRUB - O - - -
+                  CD - O - - -
+                 ONE - - O - -
+ /BOOT/GRUB/MENU.LST - - X - -
+                 SAY - - X - -
+                 LTS - - - X -
+   /ETC/DEFAULT/GRUB - - - - X

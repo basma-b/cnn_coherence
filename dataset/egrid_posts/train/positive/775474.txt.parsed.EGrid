@@ -1,0 +1,17 @@
+                THAT - O -
+                PAGE - X S
+                HTTP - X -
+//NEWS.SOFTPEDIA.COM/NEWS/SETTING-UP-A-CENTRAL-SYSLOG-SERVER-44063.SHTML - S -
+                 LOG - X -
+              SERVER - X -
+              UBUNTU - X -
+/ETC/INIT.D/SYSKLOGD - O -
+                 USE - O -
+             RSYSLOG - X -
+                 SAM - S -
+                 YEA - X -
+              CONFIG - X -
+        /ETC/RSYSLOG - X -
+                   * - X -
+            SYSKLOGD - - O
+    SYSCONFIG/SYSLOG - - O

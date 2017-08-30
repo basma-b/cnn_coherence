@@ -1,0 +1,13 @@
+          PERMISSION - O -
+                ROOT - O -
+         PERMISSIONS - X -
+             MAIN.CF - X -
+                FILE - X -
+              SYSTEM - X -
+          FILESYSTEM - O -
+               FSTAB - O -
+         PREFERENCES - X -
+                THAT - - S
+                  EH - - X
+                THIS - - S
+              ROOTFS - - O

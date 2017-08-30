@@ -1,0 +1,25 @@
+                SUDO X - - - - - - - - - -
+/ETC/INIT.D/DANSGUARDIAN X - - - - - - - - - -
+               START S - - - - - - - - - -
+               ERROR O - - - - - - - - - -
+        DANSGUARDIAN S - - - - X - X - - -
+/ETC/DANSGUARDIAN/DANSGUARDIAN.CONF - S - - - - - - - - -
+              SCRIPT - O - - - - - - - - -
+             EDITION - - X - - - - - - - -
+                FILE - - X - - - - - - - S
+               HTTPS - - - O - - - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/DANSGUARDIAN - - - S - - - - - - -
+                LINE - - - O O O - - - - -
+       CONFIGURATION - - - X - - - - - - -
+        DISTROJOCKEY - - - - X - - - - - -
+                 BAD - - - - X - - - - - -
+              THANKS - - - - - X - - - - -
+                 LOT - - - - - X - - - - -
+              ERRORS - - - - - O - - - - -
+               -LSB- - - - - - S - - - - -
+                 ANY - - - - - - S - - - -
+             LOGFILE - - - - - - - X - - -
+           /VAR/LOG/ - - - - - - - X - - -
+/VAR/LOG/DANSGUARDIAN/ACCESS.LOG - - - - - - - - - X -
+                 LOG - - - - - - - - - - X
+                  0B - - - - - - - - - - X

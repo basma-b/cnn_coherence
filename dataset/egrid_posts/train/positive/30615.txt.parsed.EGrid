@@ -1,0 +1,9 @@
+           PARTITION X S - - X
+              UBUNTU S - - - -
+              MACOSX - X - - -
+                BOOT - S - - -
+               FSTAB - X - - -
+             LUNITIK - - X - -
+                   ' - - - S -
+                LINE - - - O -
+              ACCESS - - - - O

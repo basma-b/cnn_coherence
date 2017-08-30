@@ -1,0 +1,14 @@
+          WOBBLY.XML X - - - - - - - -
+        LIBWOBBLY.SO X - - - - - - - -
+                FILE X X O - - - - - -
+              COMPIZ X - - - - - - - -
+            APT-FILE - O - - - - - - -
+                SUDO - X - - - - - - -
+              UPDATE - O - - - - - - -
+              SEARCH - O - - - - - - -
+             PACKAGE - O X O O - O - X
+             COMMAND - - - - X - - - -
+             APT-GET - - - - - - O - -
+           PARAMETER - - - - - - X - -
+                  -D - - - - - - - S -
+               DUNNO - - - - - - - O -

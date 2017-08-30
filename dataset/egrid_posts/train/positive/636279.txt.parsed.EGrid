@@ -1,0 +1,11 @@
+                GREP X -
+                  -I S -
+                 VGA X -
+               VIDEO X -
+                CARD X -
+                 LOT S -
+//HELP.UBUNTU.COM/COMMUNITY/UBUNTUHASHES S -
+                HTTP O -
+//CDIMAGE.UBUNTU.COM/RELEASES/LUCID/ALPHA-2/ X -
+      /TESTING/LUCID - S
+              LATEST - X

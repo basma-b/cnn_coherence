@@ -1,0 +1,19 @@
+                3COM S - - - - - -
+              REBOOT S - - - - - -
+               LSPCI X - - - - - -
+              MODULE S - - - - - -
+              INSERT O X - - - - -
+                CARD X - - - - - -
+             SK98LIN - S - - - - -
+             NETCARD - O - - - - -
+               DMESG - - S - - - -
+            INTEREST - - O - - - -
+                  IM - - - S - - -
+           INTERFACE - - - - X - -
+               INDEX - - - - S - -
+               3C904 - - - - X - -
+              CHANGE - - - - O - -
+                  .. - - - - S - -
+/ETC/NETWORK/INTERFACES - - - - X - -
+              COUPLE - - - - - - S
+              UPDATE - - - - - - X

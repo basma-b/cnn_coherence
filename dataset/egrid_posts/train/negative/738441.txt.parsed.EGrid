@@ -1,0 +1,26 @@
+             SERVERS O - - - - - -
+                   B X - - - - - -
+              SWITCH X - X - - - -
+             MACHINE X - - - - - -
+               CABLE - O - - X - -
+              A-TO-B - X - - - - -
+               ETH1S - O - - - - -
+                  IP - X - - - - -
+             NETWORK - X - - - - -
+                  .. - X - - - - -
+                  1. - S - - - - -
+                WIRE - O S - - - -
+               OTHER - - - X - - -
+                EACH - - - X - - -
+                  RE - - - X - - -
+                  PC - - - O - - -
+                 NIC - - - X X - -
+                 ONE - - - - X - -
+                 LAN - - - - X - -
+           CROSSOVER - - - - X - -
+              SYSTEM - - - - - S -
+                WORK - - - - - O -
+                LOOK - - - - - - S
+                 URL - - - - - - X
+                HTTP - - - - - - S
+//WIKI.CCHTML.COM/INDEX.PHP/UBUNTU_EDGY_INSTALLATION_GUIDE - - - - - - S

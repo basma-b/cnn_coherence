@@ -1,0 +1,26 @@
+              UBUNTU O - - - - - - - - - -
+                 LAN X - - X - - - - - - -
+             MACHINE X - - - - - - - - - -
+                 LAB X - - - - - - - - - -
+               GUIDE - S - - - - - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/PXEINSTALLSERVER - X - - - - - - - - -
+                   % - - S - - - - - - - -
+              SERVER - - - S - - - S - - -
+                WORK - - - O - - - - - - -
+                BOOT - - - O - - - X - - -
+              CLIENT - - - X - - - - - - -
+             SERVERS - - - X - - - - S - -
+                  IP - - - O - - - - - - -
+               RANGE - - - X - - - - - - -
+                  .. - - - - S - - - - - -
+             NOTHING - - - - - - S - - - -
+                DHCP - - - - - - - X - - -
+/ETC/DHCP/DHCPD.CONF - - - - - - - S - - -
+          /ETC/INETD - - - - - - - X - - -
+               .CONF - - - - - - - S - - -
+              APACHE - - - - - - - X - - -
+               STUFF - - - - - - - S - - -
+              THINGS - - - - - - - O - - -
+              DEPLOY - - - - - - - X - - -
+               IMAGE - - - - - - - X S - -
+                HELP - - - - - - - - - - O

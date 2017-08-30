@@ -1,0 +1,23 @@
+               ANONE S - - - - - - - - - -
+            COMPUTER S - - - - - - - - - -
+                BOOT X - - - X - X - - - -
+                MODE X - - - - - X - - - -
+              SCREEN - - - - X X X - - - -
+              SECOND - - - - - - X - - - -
+              SYSTEM - - - - - - S - - - -
+            GRAPHICS - - - - - - X - - - -
+                CARD - - - - - - X - X - -
+               INPUT - - - - - - X - - - -
+              DEVICE - - - - - - X - - - -
+            SETTINGS - - - - - - S - - - -
+             DISPLAY - - - - - - - X - - -
+             ADAPTER - - - - - - - X - - -
+               LSPCI - - - - - - - - - X -
+                   | - - - - - - - - - X -
+                GREP - - - - - - - - - X -
+                 VGA - - - - - - - - - X -
+                 CAT - - - - - - - - - - X
+/ETC/APT/SOURCES.LIST - - - - - - - - - - X
+                  .. - - - - - - - - - - X
+                HTTP - - - - - - - - - - X
+            SOLUTION - - - - - - - - - - O

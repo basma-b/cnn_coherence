@@ -1,0 +1,7 @@
+EDIT-PREFERENCES-MUSIC S -
+                FILE O -
+               WATCH S -
+             ARECORD - S
+               QUIET - X
+                 WAV - X
+            FILE.WAV - X

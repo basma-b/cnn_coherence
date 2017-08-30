@@ -1,0 +1,16 @@
+              STDOUT S - - - - - -
+           /DEV/NULL S X - - - - -
+                BOTH - S - - - - -
+                 LOG - X - - - X -
+                FILE - X - - - - -
+                PART - O - - - - -
+                THIS - - X - - - -
+                   > - - - O - - -
+                   * - - - S - - -
+                WORK - - - - - X -
+            ANYTHING - - - - - O -
+                USER - - - - - X -
+             CRONTAB - - - - - X -
+                ROOT - - - - - X -
+                CASE - - - - - - X
+         PERMISSIONS - - - - - - O

@@ -1,0 +1,37 @@
+              SCRIPT O - O X - - - - - - - - - - S -
+           WEBSERVER X - - - - - - - - - - - - - - -
+           DIRECTORY - S X - - - - S - - - - - - - -
+                 SET - O - - - - - - - - - - - - - -
+         GROOUP/USER - X - - - - - - - - - - - - - -
+         PERMISSIONS - X X - - - - - - O - - S - - X
+                FILE - - S O - X - - - - X S - X O -
+                 USE - - O - - - - - - - - - - - - -
+                CANT - - - X - - - - - - - - - - - -
+          PERMISSION - - - O - - - - - - - - - - - -
+              UPLOAD - - - - X - - - - - - - - - - -
+          PERMSIIONS - - - - S - - - - - - - - - - -
+               OWNER - - - - - X O - - - - - - - - -
+               GROUP - - - - - X - - - - - - - - - -
+            WWW-DATA - - - - - - S S - - - - - - - -
+                 -RW - - - - - - X - - - - - - - - -
+                WELL - - - - - - X - - - - - - - - -
+                CASE - - - - - - - O - - - - - - - -
+               PLACE - - - - - - - O - - - O O - - -
+        RESTRICTIONS - - - - - - - X - - - - - - - -
+                MODE - - - - - - - X - - - - - - - -
+              APACHE - - - - - - - X - - - - - - - -
+            DOCUMENT - - - - - - - X - - - - - - - -
+                ROOT - - - - - - - X - X - - - - - -
+                 WAY - - - - - - - - X - - - - - - -
+         PERMSISSION - - - - - - - - O - - - - - - -
+                OPEN - - - - - - - - O - - - - - - -
+                TEST - - - - - - - - X - - - - - - -
+            LOCATINO - - - - - - - - - S - - - - - -
+             DEFAULT - - - - - - - - - X - - - - - -
+            /VAR/WWW - - - - - - - - - O - - - - - -
+               CHMOD - - - - - - - - - X - - - - - -
+    /VAR/WWW/UPLOADS - - - - - - - - - - - X - - X -
+               THERE - - - - - - - - - - - - X - - -
+/UPLOADS/FILENAME.EXT - - - - - - - - - - - - - X - -
+/VAR/WWW/UPLOADS/PROCESSED - - - - - - - - - - - - - - X -
+               THAST - - - - - - - - - - - - - - X -

@@ -1,0 +1,13 @@
+              DEPMOD X - - -
+                  -A O - - -
+            MODPROBE X - - -
+            QUICKCAM O - - -
+                LOAD X - - -
+                   U S S - S
+              MOTION O - - O
+              WEBCAM - X - X
+                  TV - X - -
+                CARD - O - -
+                BOTH - - X -
+                WORK - - - O
+             MPLAYER - - - O

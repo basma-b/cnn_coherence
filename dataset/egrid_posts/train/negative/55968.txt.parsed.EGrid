@@ -1,0 +1,9 @@
+             COMMAND O - - - -
+             PROGRAM O - - - -
+           PARTITION - X X - -
+                SUDO - - - - X
+             APT-GET - - - - X
+              UPDATE - - - - X
+             UPGRADE - - - - X
+               PURGE - - - - X
+                 GCC - - - - X

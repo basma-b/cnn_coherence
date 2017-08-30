@@ -1,0 +1,8 @@
+                HOST O -
+       SOME.HOST.COM O -
+           127.0.0.1 X -
+            IPTABLES O -
+                PORT O -
+/ETC/EVENT.D/CONTROL-ALT-DELETE X -
+                DAYS X X
+                  .. - X

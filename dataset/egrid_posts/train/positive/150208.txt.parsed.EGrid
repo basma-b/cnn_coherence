@@ -1,0 +1,10 @@
+          MAKE/MODEL X - -
+               DRIVE X S S
+              HDPARM - S -
+                INFO - X -
+            /DEV/HDX - O -
+                   B - X -
+                   C - X -
+                   D - O -
+            /DEV/SDA - - O
+                 OFF - - X

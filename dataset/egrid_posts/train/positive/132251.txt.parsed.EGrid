@@ -1,0 +1,13 @@
+            IFCONFIG S - - - - - -
+          INTERFACES O - - - - - -
+           INTERFACE - O - - - - -
+       NETWORK-ADMIN - - - X - - -
+/ETC/NETWORK/INTERFACES - - - S - - -
+                ETHX - - - O - - -
+                   X - - - S - - -
+             ADAPTER - - - X - - -
+              NUMBER - - - O - - -
+            WIRELESS - - - - - - X
+                CARD - - - - - - O
+             ATHEROS - - - - - - X
+             CHIPSET - - - - - - X

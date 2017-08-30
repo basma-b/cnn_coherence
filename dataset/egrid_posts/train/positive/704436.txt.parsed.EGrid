@@ -1,0 +1,17 @@
+             GPARTED X - - - -
+                SUDO - X - - -
+             KILLALL - X - - -
+                XORG - S - - -
+              OUTPUT - O - - -
+              UMOUNT - - - X -
+             NOTHING - - - X -
+                 HEY - - - X -
+                THIS - - - S -
+               /HOST - - - X -
+              DEVICE - - - X S
+                CASE - - - - X
+                INFO - - - - X
+             PROCESS - - - - X
+                LSOF - - - - X
+               FUSER - - - - X
+                IDEA - - - - X

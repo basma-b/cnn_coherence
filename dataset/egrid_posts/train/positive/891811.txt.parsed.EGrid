@@ -1,0 +1,12 @@
+               CHMOD X -
+         PERMISSIONS X -
+/ETC/UDEV/RULES.D/51-ANDROID.RULES X -
+           OPERATION S -
+          PERMISSION X -
+                 USE O -
+                SUDO O -
+                WORK X -
+           DIRECTORY O -
+             COMMAND - X
+~/ANDROID-SDK-LINUX/TOOLS - S
+            COMPUTER - X

@@ -1,0 +1,14 @@
+               IMAGE O - X - - -
+                FILE X - X - - -
+                  DD - X - - - -
+                THAT - - X - - S
+           PARTITION - - O - - -
+                BIND - - X - - -
+               BLOCK - - X - - -
+              DEVICE - - O X - -
+                LOOP - - X - - -
+       /PATH/TO/FILE - - X - - -
+      /PATH/TO/MOUNT - - O - - -
+                WORK - - O - - -
+                 ISO - - - O - -
+                FINE - - - X - -

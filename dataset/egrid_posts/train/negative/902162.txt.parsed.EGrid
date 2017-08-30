@@ -1,0 +1,16 @@
+                NTFS X - - - - -
+           PARTITION X - - - - -
+                AUTO - X - - - -
+                  IM - O - - - -
+               FSTAB - X - X - -
+              NUMBER - - X - - -
+                CANT - - S - - -
+                NEED - - O - - -
+                SUDO - - X - - -
+               MKDIR - - X - - -
+        /MNT/WINDOWS - - X S - -
+                   N - - X - - -
+           /DEV/HDA1 - - - X - -
+               DAVID - - - X - -
+           UID=DAVID - - - O - -
+             APACHE2 - - - - - O

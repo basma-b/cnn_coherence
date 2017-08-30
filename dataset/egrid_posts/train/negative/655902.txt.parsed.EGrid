@@ -1,0 +1,14 @@
+               SSHFS S X -
+               FSTAB X - -
+                USER - X -
+   /SERVERMOUNTPOINT - S -
+                FUSE - X -
+             DEFAULT - S -
+               THERE - S -
+                STEP - O -
+                MTAB - S -
+              DEVICE - X -
+                NAME - X -
+             OPTIONS - X -
+        FSNAME=SSHFS - O -
+//WWW.DEBIAN-ADMINISTRATION.ORG/ARTICLES/502 - - X

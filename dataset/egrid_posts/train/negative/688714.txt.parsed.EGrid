@@ -1,0 +1,14 @@
+                LIST X - -
+               LOGIN X - -
+            USERNAME - X -
+                DONT - X -
+              PEOPLE - S -
+             OPTIONS - X -
+            PASSWORD - X -
+              SCREEN - X -
+            TERMINAL - X -
+                THIS - O -
+         GCONFTOOL-2 - O -
+                TYPE - X -
+             BOOLEAN - X -
+/APPS/GDM/SIMPLE-GREETER/DISABLE_USER_LIST - S -

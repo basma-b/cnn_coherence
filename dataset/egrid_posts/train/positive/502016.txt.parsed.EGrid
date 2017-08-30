@@ -1,0 +1,44 @@
+/ETC/APT/SOURCES.LIST.D/MEDIBUNTU.LIST S - O - - - - - - - - - -
+           CHARACTER O - - X X - - - - - - - -
+                THAT - X - - - - - - - - - - -
+                MINE - S - - - - - - - - - - -
+                 DEB - X - - - - - - - - - - -
+                HTTP - O - - - - - - - - - - -
+            NON-FREE - X - - - - - - - - - - -
+                  .. - - X - - X - - - X - - -
+            TERMINAL - - X - - - - - - - - - -
+              GKSUDO - - X - - - - - - - - - -
+               GEDIT - - X - - - - - - - - - -
+                LIST - - O - - X - - - X - - -
+               ERROR - - - X - - X - - - - - -
+             MESSAGE - - - S - - X X - - S - -
+               DIDNT - - - X - - - - - - - - -
+             MENTION - - - - S - - - - - - - -
+              UPDATE - - - - X - - - - - - - -
+             MANAGER - - - - O X - - - - - - -
+               THERE - - - - - S - - - - - - -
+                 SEC - - - - - X - - - - - - -
+          CONNECTION - - - - - S - - - - - - -
+              SOURCE - - - - - X - - O X - - -
+          REPOSITORY - - - - - X - - - - - - -
+            PASTEBIN - - - - - - - X - - - - -
+              SYSTEM - - - - - - - - X - - - -
+                   > - - - - - - - - S - - - -
+            SOFTWARE - - - - - - - - X - - - -
+               THIRD - - - - - - - - X - - - -
+               PARTY - - - - - - - - X - - - -
+                 TAB - - - - - - - - X - - - -
+             UNCHECK - - - - - - - - X - - - -
+          MEDIUBUNTU - - - - - - - - X S - - -
+                  OK - - - - - - - - - S - - -
+                THIS - - - - - - - - - S - - -
+               THATS - - - - - - - - - X - - -
+             PROBLEM - - - - - - - - - X - - -
+                CODE - - - - - - - - - X - - -
+              RENAME - - - - - - - - - O - - -
+                TYPE - - - - - - - - - X X - -
+                SUDO - - - - - - - - - X - - -
+ETC/APT/SOURCES.LIST.D/MEDIBUNTU.LIST - - - - - - - - - X X - -
+ETC/APT/SOURCES.LIST.D/MEDIBUNTU.LIST.OLD - - - - - - - - - X O - -
+                FILE - - - - - - - - - - O - X
+           DIRECTORY - - - - - - - - - - - - X

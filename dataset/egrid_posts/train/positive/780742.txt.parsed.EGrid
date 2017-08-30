@@ -1,0 +1,13 @@
+                WUBI S - - - -
+                GRUB O X - - X
+           ROOT.DISK X X - - -
+                BOOT - X - - -
+              KERNEL - O - - -
+           PARTITION - X - - -
+               COFIG - X - - -
+               STORE - O - - -
+                NTFS - X - - -
+                ROOT - - X - -
+                LOOP - - X O -
+              DEVICE - - X - -
+                SUDO - - - S -

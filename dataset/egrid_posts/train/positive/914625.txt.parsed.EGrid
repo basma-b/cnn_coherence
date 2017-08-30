@@ -1,0 +1,11 @@
+             SOMEONE X -
+                 TIP X -
+              MODULE X S
+                LIST S O
+/ETC/HOTPLUG/BLACKLIST X -
+                LOAD O -
+             HOTPLUG X -
+             UTILITY X -
+          DEPENDENCY - S
+               LSMOD - X
+             BATTERY - O

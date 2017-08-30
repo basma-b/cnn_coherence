@@ -1,0 +1,17 @@
+            COMPUTER O - - - - - -
+              DOESNT X - - - - - -
+           PARTITION O - - - - - -
+                BOOT X - X X - - -
+               CHECK - X - - - - -
+               BLKID - X X - - - -
+               FSTAB - X - - - X O
+             CORRECT - X - - - - -
+                TIME - - - X - X -
+            RECOVERY - - - X - - -
+                MODE - - - X - - X
+              DEVICE - - - X X - -
+             PROBLEM - - - - - S -
+                  OK - - - - - X -
+                 ONE - - - - - S -
+                USER - - - - - - X
+          FILESYSTEM - - - - - - O

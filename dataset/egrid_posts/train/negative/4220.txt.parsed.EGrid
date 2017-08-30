@@ -1,0 +1,15 @@
+             OPTIONS O - - - -
+           PARTITION X S - - -
+             PROGRAM X - - - -
+               DRIVE - - O - -
+               SPACE - - S - -
+               HERON - - - S -
+              KERNEL - - - O -
+              MAC802 - - - X -
+               LAYER - - - X -
+            WIRELESS - - - S -
+         NDISWRAPPER - - - X -
+                 LOT - - - - X
+            CHIPSETS - - - - X
+             WINDOWS - - - - X
+              DRIVER - - - - O

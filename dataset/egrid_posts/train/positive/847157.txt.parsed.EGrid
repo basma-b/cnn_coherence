@@ -1,0 +1,10 @@
+                HOST O - - - -
+                DISK X - - - -
+                 SDB X - - - -
+                 SDC X - - - -
+                 LVM - - X - O
+            SOFTWARE - - X - X
+                RAID - - X - X
+                WORK - - O - -
+                  VM - - X - -
+           PARTITION - - - - O

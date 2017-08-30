@@ -1,0 +1,15 @@
+            PROBLEMS O - - - - -
+                 DMA O - - - - O
+                DISK X - - - - S
+                BASE X - - - - -
+              SYSTEM X - - - - -
+            /DEV/HDA - S - O - -
+        HDIO_SET_DMA - S - - - -
+           OPERATION - S - - - -
+                IDEA - - S - - -
+              KERNEL - - - S - -
+               ERROR - - - X - -
+             MESSAGE - - - S - -
+         PERMISSIONS - - - X - -
+                MISS - - - - S -
+                   T - - - - - S

@@ -1,0 +1,16 @@
+/ETC/HIBERNATE/HIBERNATE.CONF - O - - -
+           HIBERNATE - - O - -
+                CONF - - X - -
+                  .. - - O S -
+              CONFIG - - S - -
+              CHOICE - - O - -
+            SUSPEND2 - - X X -
+                ACPI - - X X -
+  SYS_FS_POWER_STATE - - X - -
+                   U - - S - -
+               VIDEO - - X - -
+             DRIVERS - - O - -
+                NEWB - - - X -
+                CARD - - - S -
+                REPO - - - X -
+                DAMN - - - - X

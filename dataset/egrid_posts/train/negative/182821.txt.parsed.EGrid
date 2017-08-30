@@ -1,0 +1,8 @@
+                RULE O - -
+               PRINT X - -
+         INFORMATION O - -
+       /VAR/LOG/UDEV X - -
+                UDEV - O -
+                SUDO - X -
+         UDEVMONITOR - X -
+                  -E - S -

@@ -1,0 +1,15 @@
+            INTEREST S - -
+                TYPE X - -
+                SUDO X - -
+                  SH X - -
+                  -C X - -
+  /ETC/X11/XORG.CONF X - -
+                   > X - -
+/VAR/LIB/X11/XORG.CONF.MD5SUM O - -
+          PERMISSION S - -
+                ROOT O - X
+                  -I O - -
+              UBUNTU - - X
+                 USE - - X
+              DEBIAN - - X
+             DISTROS - - X

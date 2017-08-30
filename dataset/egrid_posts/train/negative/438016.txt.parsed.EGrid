@@ -1,0 +1,14 @@
+              CHANGE O - - -
+                XORG X - - -
+               STATE X - - -
+              BACKUP S X - -
+/ETC/X11/XORG.CONF.1 - - X -
+  /ETC/X11/XORG.CONF - - X -
+                  TA - - - S
+                1-2H - - - X
+                SUDO - - - X
+               RMMOD - - - O
+          MODPROBING - - - O
+               DMESG - - - S
+                 LOG - - - X
+              OUTPUT - - - O

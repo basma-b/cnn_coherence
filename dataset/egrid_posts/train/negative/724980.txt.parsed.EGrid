@@ -1,0 +1,14 @@
+              EXPORT X -
+PATH=/USR/LOCAL/SBIN O -
+      /USR/LOCAL/BIN O -
+           /USR/SBIN O -
+            /USR/BIN O -
+               /SBIN O -
+                /BIN O -
+          /USR/GAMES O -
+            TERMINAL X X
+            IFCONFIG X -
+/TARGET/SBIN/IFCONFIG X -
+              SCRIPT - O
+           PROGRAMMS - X
+                MENU - X

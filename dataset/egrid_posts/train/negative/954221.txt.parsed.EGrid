@@ -1,0 +1,16 @@
+       ADMINISTRATOR - - X - - - - - -
+              TARGET - - X - - - - - -
+             MACHINE - - X - - - - - -
+               BLANK - - - X - - - - -
+                TYPE - - - - X - - - -
+              ACCESS - - - - O - - - -
+                 USE - - - - - O - - -
+                USER - - - - - X - - -
+                 SMB - - - - - X - - -
+                SUDO - - - - - - X - -
+                MONO - - - - - - - - X
+             PACKAGS - - - - - - - - S
+             PACKAGE - - - - - - - - X
+             MANAGER - - - - - - - - X
+                ONES - - - - - - - - O
+                TASK - - - - - - - - X

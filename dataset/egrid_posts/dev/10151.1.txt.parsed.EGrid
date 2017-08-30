@@ -1,0 +1,14 @@
+         NON-PACKAGE X - - - - - -
+              KERNEL - - X - - - -
+              MODULE - - O - - - O
+          FILESYSTEM - - X - - - -
+             PACKAGE - - O - - - O
+                FILE - - O - - - -
+               QUERY - - - S - - -
+                DPKG - - - - - X -
+                LIST - - - - - X -
+                   | - - - - - X -
+               FGLRX - - - - - S -
+            ANYTHING - - - - - O -
+              RADEON - - - - - - X
+                 AMD - - - - - - X

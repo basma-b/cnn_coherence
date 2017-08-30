@@ -1,0 +1,13 @@
+           OWNERSHIP - O O - - -
+               MOUNT - X X - - -
+           PARTITION - X S - - -
+          RAGGEDJACK - - X - - -
+            IFCONFIG - - X - - -
+                ETH0 - - S - - -
+                DHCP - - X - S -
+             0.0.0.0 - - O - - -
+              STATIC - - X - - -
+              ROUTER - - - - S -
+                 DNS - - - - X -
+           INTERFACE - - - - - S
+             ADDRESS - - - - - O

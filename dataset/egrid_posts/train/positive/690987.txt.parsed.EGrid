@@ -1,0 +1,12 @@
+                BOOT S - -
+                LINE X - -
+ /BOOT/GRUB/GRUB.CFG X - -
+  /ETC/DEFAULTS/GRUB O - -
+                 END X - -
+              CHANGE X - O
+             PROCESS X - -
+         UPDATE-GRUB O - -
+            TEMPLATE O - -
+            GRUB.CFG O - X
+              SPLASH O - -
+           OVERWRITE - - O

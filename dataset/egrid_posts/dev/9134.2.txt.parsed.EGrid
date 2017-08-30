@@ -1,0 +1,13 @@
+                GRUB X - - - -
+                BOOT X S - - -
+                TEXT O X - - -
+                MODE X X - - -
+GRUB_TERMINAL=CONSOLE O - - - -
+                LINE O - - - -
+GRUB_CMDLINE_LINUX_DEFAULT=TEXT O - - - -
+            TERMINAL - X - - -
+              OUTPUT - O - - -
+                 HMM - - - S -
+             TROUBLE - - - - S
+               LINUX - - - - S
+           ANTIVIRUS - - - - O

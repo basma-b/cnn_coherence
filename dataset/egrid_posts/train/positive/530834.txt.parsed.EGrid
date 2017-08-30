@@ -1,0 +1,12 @@
+              -CACHE X - - -
+          DRIVER=V4L X - - -
+           WIDTH=640 X - - -
+          HEIGHT=480 X - - -
+         OUTFMT=I420 X - - -
+                 -VO X - - -
+                  XV X - - -
+                  TV X - - -
+               ERROR X - - -
+                TIME - X - -
+           ARGUMENTS - O - -
+                 ONE - X - -

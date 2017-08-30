@@ -1,0 +1,8 @@
+                 ALL S - - - - -
+                8.10 X - - - - -
+                INIT X - - - - -
+             SERVICE O - - - - -
+        /ETC/INITTAB - - - X - -
+           CHKCONFIG - - - X - -
+             INSSERV - - - S - -
+               THANK - - - - - X

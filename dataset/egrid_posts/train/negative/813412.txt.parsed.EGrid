@@ -1,0 +1,8 @@
+                KERN X - - -
+            FACILITY X - - -
+             MESSAGE S - - -
+              SYSLOG X - - -
+            KERN.LOG X X - -
+               SIGHT - - X -
+/ETC/RSYSLOG.D/50-DEFAULT.CONF - - X -
+                TIME - - - X

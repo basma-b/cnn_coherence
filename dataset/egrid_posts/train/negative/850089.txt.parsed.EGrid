@@ -1,0 +1,16 @@
+             PROGRAM - X S - - -
+                 TTY - X - - X -
+                USER - S - - - -
+             UPSTART - - X - - -
+ /ETC/INIT/TTY4.CONF - - O - - -
+               GETTY - - X - - -
+               LOGIN - - X - O -
+             COMMAND - - O - - -
+              OUTPUT - - O - - -
+                 HMM - - - X - -
+           TTY4.CONF - - - - O -
+               PROMT - - - - O -
+          CONNECTION - - - - O -
+                HOST - - - - X -
+                FILE - - - - - O
+                LOOP - - - - - X

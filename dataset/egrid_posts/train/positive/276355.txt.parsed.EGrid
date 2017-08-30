@@ -1,0 +1,12 @@
+                ROOT X - - -
+          FILESYSTEM X - - -
+                  RO - O - -
+             OPTIONS - X - -
+               FSTAB - X - -
+         DIRECTORIES - - S -
+                /TMP - - X -
+                /VAR - - X -
+                THAT - - - O
+               THERE - - - S
+                 WAY - - - O
+              LIVECD - - - X

@@ -1,0 +1,4 @@
+            IPTABLES S S S
+            FIREWALL O O O
+        APPLICATIONS S - -
+            FUNCTION X - -

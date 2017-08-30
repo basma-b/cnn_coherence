@@ -1,0 +1,11 @@
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES X - - -
+              REBOOT - X - -
+               PLACE - - X -
+             NOTHING - - - X
+                BLOW - - - O
+                LONG - - - X
+                  .. - - - X
+70-PERSISTENT-NET.RULES - - - S
+                WORK - - - O
+                BOOT - - - X
+             NETWORK - - - S

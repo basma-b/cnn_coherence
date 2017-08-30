@@ -1,0 +1,15 @@
+             MODULES X - - - - S - - -
+          FILESYSTEM O - - - - O - - -
+                EXT2 - O - - - - - - -
+                READ - - S - - - - - -
+                 USB - - X - - - - - -
+               LINUX - - - X - - - - -
+             STARTER - - - - - X - - -
+                VFAT - - - - - O - - -
+                NFAT - - - - - O - - -
+          NNLS_CP437 - - - - - O - - -
+      NNLS_ISO8859_1 - - - - - O - - -
+            QUESTION - - - - - - - - O
+                 ONE - - - - - - - - S
+            GRAPHICS - - - - - - - - X
+             DRIVERS - - - - - - - - O

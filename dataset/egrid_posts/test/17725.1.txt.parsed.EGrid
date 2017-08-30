@@ -1,0 +1,27 @@
+            QUESTION X - - - - -
+               XAMPP O - - - - -
+             WINDOWS X - - - - -
+      WEBDEVELOPMENT X - - - - -
+              UBUNTU O - - - - -
+  APACHE2/PHP5/MYSQL - O - - - -
+                FILE - - X X O -
+    VAR/WWW/FILE.PHP - - - X - -
+VAR/WWW/HTDOCS/SOMEFOLDER/FILE.PHP - - - O - -
+             WEBSITE - - - S - -
+             DISPLAY - - - O - -
+             FIREFOX - - - X - -
+                HTTP - - - X - -
+//LOCALHOST/SOMEFOLDER// - - - X - -
+                NAME - - - O - -
+                HOST - - - X - -
+          /ETC/HOSTS - - - X - -
+               STUFF - - - O - -
+              APACHE - - - S - -
+                 ATM - - - S - -
+        DOCUMENTROOT - - - S - -
+            /VAR/WWW - - - X - -
+              FOLDER - - - - S -
+                SUDO - - - - X -
+        /VAR/WWW/FOO - - - - X -
+                TEST - - - - X -
+         VAR/WWW/FOO - - - - - X

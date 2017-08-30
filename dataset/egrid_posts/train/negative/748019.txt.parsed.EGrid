@@ -1,0 +1,24 @@
+                HELP X - - - - -
+                  AM - O - - - -
+             PROGRAM - O - - - -
+            AUTODESK - X - - - -
+                MAYA - X - - - -
+              HOTFIX - X - - - -
+               ERROR - O - - - -
+                LOAD - X - - - -
+               SHARE - X - - - -
+           LIBRARIES - X - - - -
+          LIBXP.SO.6 - X X - - -
+/USR/LIB32/LIBXP.SO.6 - O - - - -
+                 ELF - X - - - -
+               CLASS - X - - - -
+          ELFCLASS32 - X - - - -
+           SOMETHING - O - - - -
+               THERE - - X - - -
+             VERSION - - X O - -
+               THATS - - - X - -
+          /ETC/HOSTS - - - - - X
+             MACHINE - - - - - S
+                BIND - - - - - X
+                  IP - - - - - O
+            HOSTNAME - - - - - X

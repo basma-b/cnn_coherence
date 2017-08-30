@@ -1,0 +1,17 @@
+              SCRIPT - O - - - - - - - -
+               FLASH - X - - - - - - - -
+               DRIVE - X - - - - - - - -
+            MYSCRIPT - - O - - - - - - -
+                ROOT - - X - - - - - X -
+          PERMISSION - - S - - - - - - -
+           VFAT/NTFS - - O - X - - - - -
+                 -AX - - - - - - X - - -
+                NEW/ - - - - - - S - - -
+                USER - - - - - - S - - -
+              MEMBER - - - - - - O - - -
+               GROUP - - - - - - X - - -
+                 ONE - - - - - - X - - -
+                THAT - - - - - - - - S -
+           /DEV/SDB6 - - - - - - - - S O
+                FILE - - - - - - - - X -
+              SYSTEM - - - - - - - - O -

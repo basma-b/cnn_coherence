@@ -1,0 +1,8 @@
+                LINE X - - -
+               FSTAB X - - -
+           /DEV/SDA6 - S - -
+               FAT32 - X - -
+                  RW - O - -
+                USER - X - -
+           UID=HELIX - X - -
+           GID=HELIX - X - -

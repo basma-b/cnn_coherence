@@ -1,0 +1,19 @@
+     LD_LIBRARY_PATH O - - - - - - - -
+                 RUN X - - - - - - - -
+             COMMAND X X - - - - - - -
+                LINE X X - X - - - - -
+            LAUNCHER X X - - - - - - -
+              ANYONE X - - - - - - - -
+               ISSUE X - - - - - - - -
+                 SET - X - - - - - - -
+              SCRIPT - O - - - X X - -
+                 VAR - X - - - - - - -
+             SHEBANG - - O - - - - - -
+       GOOGLE-CHROME - - - X - - - - X
+    LD_LIBRARY_PATH= - - - X - - - - -
+/USR/LIB/XULRUNNER-1.9.2.3/ - - - X - - - - -
+              RESULT - - - - X - - - -
+     LD_LIB_BLAH=FOO - - - - - X - - -
+                 APP - - - - - S - - -
+                 CLI - - - - - X - - -
+                BASH - - - - - X - - -

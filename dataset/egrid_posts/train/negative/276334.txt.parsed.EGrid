@@ -1,0 +1,20 @@
+                 ALL S - - -
+             PROBLEM O - - -
+                 LUA S - - -
+             PACKAGE O - - -
+               CEGUI O S - -
+               LUA.H O O - -
+  /USR/INCLUDE/LUA50 X - - -
+                SHOW X - - -
+             VERSION X - - -
+          LUA-CONFIG X - - -
+                FILE S - - -
+            COMPILER S - - -
+         COMPILATION S - - -
+                LINE S - - -
+                PATH O - - -
+                THIS - S - -
+          EVERYTHING - S - -
+                  -I - O - -
+-I/USR/INCLUDE/LUA50 - X - -
+             MESSAGE - - - O

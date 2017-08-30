@@ -1,0 +1,13 @@
+           USING_DMA S - - - - - -
+        HDIO_SET_DMA S - - - - - -
+           OPERATION S - - - - - -
+                SUDO - - - - X - -
+              HDPARM - - - - X - -
+                  -D - - - - O - -
+            /DEV/HDA - - - - X - -
+                 DVD - - - - - S -
+                 HDA - - - - - X -
+                HTTP - - - - - - X
+//UBUNTUFORUMS.ORG/ARCHIVE/INDEX.PHP/T-9285.HTML - - - - - - X
+ CONFIG-2.6.10-5-386 - - - - - - O
+               /BOOT - - - - - - X

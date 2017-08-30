@@ -1,0 +1,12 @@
+             COMMAND O - - - -
+               SMBFS S - - - -
+       USERNAME=XXXX S - - - -
+      FILE_MODE=0777 S - - - -
+       DIR_MODE=0777 S - - - -
+ /MNT/NTFS_NOTEBOOK/ O - - - -
+                   C O - - - -
+            NOTEBOOK X - - - -
+             SUCCESS S - - - -
+                CIFS - X - - -
+             OPTIONS - - X - -
+          DEPRECATED - - X - -

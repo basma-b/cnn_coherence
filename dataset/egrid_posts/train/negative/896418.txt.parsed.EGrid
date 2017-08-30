@@ -1,0 +1,10 @@
+               MDADM O - - -
+                DISK X S O -
+                RAID O - - -
+               ARRAY S X S -
+          SUPERBLOCK O - - -
+                KICK - O - -
+                DATA - O - -
+              ANYONE - X - -
+                MISS - - X -
+             PROBLEM - - - S

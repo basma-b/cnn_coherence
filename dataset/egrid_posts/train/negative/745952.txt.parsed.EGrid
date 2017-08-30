@@ -1,0 +1,13 @@
+            LANGUAGE X - - - - -
+             STARTUP X - - - - -
+              SCRIPT X X X - - -
+       DOCUMENTATION - X - - - -
+                  CD - - X - - -
+         /ETC/INIT.D - - O - - -
+                LOOK - - O - - -
+         PERMISSIONS - - - O O -
+                  .. - - - - O -
+                ROOT - - - - X -
+              SERVER - - - - S -
+                 WAY - - - - O -
+            /VAR/WWW - - - - - O

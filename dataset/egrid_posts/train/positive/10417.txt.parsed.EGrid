@@ -1,0 +1,27 @@
+              PCIEHP S - - -
+       ACPI_PCIEHPRM X - - -
+                 PCI X - - -
+                ROOT X - - -
+                 HID X - - -
+              SHPCHP X - O -
+       ACPI_SHPCHPRM X - - -
+            MODPROBE S - - -
+               ERROR X - X O
+              INSERT X - - -
+           OPERATION X - - -
+                   ~ S - - -
+            PASSWORD O - - -
+              BOOTUP O - - -
+             MESSAGE O - - -
+                THIS - S - -
+               MOUSE - X - -
+              LAPTOP - X - -
+               FREAH - - X -
+               PCIHP - - X -
+         BLACKLIST.D - - X -
+               THING - - O -
+              NEWBIE - - X -
+/ETC/HOSTPLUG/BLACKLIST.D - - X -
+                FILE - - - O
+             MODULES - - - S
+                COMP - - - O

@@ -1,0 +1,14 @@
+             COMMAND X - - - -
+                TEXT X - - - -
+            TERMINAL X - - - -
+          /ETC/FSTAB - O - - -
+                 CAT - X - - -
+                MORE - O - - -
+                UUID - - - S -
+              THINGS - - - X -
+                  -X - - - - S
+               ERROR - - - - X
+             TIMEOUT - - - - X
+           AUTHORITY - - - - X
+                FILE - - - - X
+/HOME/USER/.XAUTHORITY - - - - X

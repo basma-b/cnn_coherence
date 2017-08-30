@@ -1,0 +1,12 @@
+                TOOL X -
+       CONFIGURATION X -
+              EFFECT S -
+                AUTO X -
+               LOGIN X -
+           AUTOLOGIN X -
+                USER S -
+               GROUP X -
+   PAM_SUCCEED_IF.SO X -
+                   * X -
+                HTTP - X
+//REPOGEN.SIMPLYLINUX.CH/ - X

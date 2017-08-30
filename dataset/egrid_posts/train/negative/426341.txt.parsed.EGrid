@@ -1,0 +1,11 @@
+            FIREWALL S - - - -
+               BLOCK O - - - -
+                TYPE X - - - -
+                SUDO X S - - -
+            IPTABLES X - - - -
+                  -F O - - - -
+                RULE O - - - -
+                 WIL - X - - -
+                LIST - O - - -
+                THAT - - X - -
+             DEFAULT - - X - -

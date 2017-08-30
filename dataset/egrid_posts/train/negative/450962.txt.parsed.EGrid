@@ -1,0 +1,17 @@
+             APTONCD - X - - - - - - - - - - - -
+                   | - S - - - - - - - - - - - -
+             PACKAGE - X - - - - - - - - - - - -
+             ARCHIVE - O - - - - - - - - - - - -
+          /VAR/CACHE - X - - - - - - - - - - - -
+          DEPENDENCE - - - O - - - - - - - - - -
+                WORK - - - - - X - - - X - - - -
+         ENVIRONMENT - - - - - - X - - - X - - -
+                  -D - - - - - - S - - - S - - -
+             INSTALL - - - - - - X - - - X - - -
+                 FOO - - - - - - O X - - O X - -
+          EVERYTHING - - - - - - - X - - - X - -
+              SYSTEM - - - - - - - X - - - X - -
+           SOMETHING - - - - - - - - X - - - - -
+            PBUILDER - - - - - - - - X - - - - -
+                 SEC - - - - - - - - - - - - - S
+               SIGHT - - - - - - - - - - - - - X

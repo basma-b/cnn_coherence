@@ -1,0 +1,22 @@
+             PROBLEM X - - -
+           HEARTBEAT O - - -
+                FILE O X - -
+/ETC/HA.D/SHELLFUNCS S - - -
+             PACKAGE O - - -
+               STATE X - - -
+              SYSTEM X - - -
+             .CONFIG X - - -
+                THAT - X O -
+               SHELL - O S -
+                   > - O - -
+                SUDO - X - X
+                 FOO - O - -
+                 BAR - O - O
+                USER - X - -
+                ROOT - X S -
+              OUTPUT - O - -
+                 RUN - - S -
+          PERMISSION - - O -
+                   | - - - X
+                 TEE - - - X
+                  .. - - - O

@@ -1,0 +1,11 @@
+               LABEL O - O
+           PARTITION X - -
+             COMMAND X O -
+                 ALL - O -
+             SYLPHID - X -
+             E2LABEL - O -
+           /DEV/SDA1 - X -
+                LINE - X -
+              SYNTAX - X -
+            /DEV/SDA - - O
+               -RSB- - - X

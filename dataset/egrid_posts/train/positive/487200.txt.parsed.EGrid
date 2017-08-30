@@ -1,0 +1,21 @@
+             QUALITY X - - - - - - -
+               XMOTO S - - - - - - -
+           MOTOCROSS X - - - - - - -
+                GAME X - - - - - - -
+                NONE O - - - - - - -
+     INITRAMFS-TOOLS S - - - - - - -
+    UPDATE-INITRAMFS O - - - - - - -
+                 USE O - - - - - - -
+               IMAGE O - - - - - - -
+            1024X768 - X - - X - - -
+          EQUIVALENT - - X - - - - -
+                THIS - - X - - - - -
+             COMMAND - - - X - - - -
+          RESOLUTION - - - - O - - -
+                THAT - - - - - O S -
+              KERNEL - - - - - X - -
+                MODE - - - - - X - -
+                 SET - - - - - O - -
+   /ETC/DEFAULT/GRUB - - - - - X - -
+         UPDATE-GRUB - - - - - X - -
+GRUB_GFXPAYLOAD_LINUX=1024X768 - - - - - - - X

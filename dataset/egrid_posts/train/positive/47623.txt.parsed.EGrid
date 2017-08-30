@@ -1,0 +1,11 @@
+                THAT X - - -
+             SUDOERS S - - -
+                 USE X - - -
+              VISUDO O - - -
+                ROOT X - - -
+               GROUP X - - -
+              CHUSER X S - -
+                SUDO - - - S
+            USERNAME - - - S
+                USER - - - X
+                NAME - - - O

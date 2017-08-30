@@ -1,0 +1,19 @@
+             COMMAND X X - - O - -
+              EFFECT O O S - - - -
+           SOMETHING - S S - - - -
+             DESKTOP - X X - - - -
+             EFFECTS - S - - - - -
+             PROBLEM - O - O - - -
+                 YEA - - - - O - -
+GNOME-APPEARANCE-PROPERTIES - - - - - X -
+               LSPCI - - - - - S -
+                 VGA - - - - - O -
+               INTEL - - - - - X -
+         CORPORATION - - - - - X -
+              MOBILE - - - - - X -
+         GM965/GL960 - - - - - X -
+          INTEGRATED - - - - - X -
+            GRAPHICS - - - - - X -
+          CONTROLLER - - - - - O -
+                   | - - - - - - S
+             GLXINFO - - - - - - X

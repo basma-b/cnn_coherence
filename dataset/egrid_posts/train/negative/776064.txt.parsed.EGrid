@@ -1,0 +1,11 @@
+               CHMOD O X - -
+                  RW O - - -
+              FOLDER X - - -
+                FILE - S - -
+             NOTHING - X - -
+            EVERYONE - X - -
+                  EE - - X -
+                  NO - - X -
+             DEVICES - - S -
+                  NV - - - X
+              LEGACY - - - O

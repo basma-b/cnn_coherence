@@ -1,0 +1,21 @@
+                LAMP X - -
+              SERVER X - -
+                   $ - X -
+                 WAY - S -
+/ETC/APACHE2/SITES-AVAILABLE/DEFAULT - O -
+             DOCROOT - O -
+           DIRECTORY - X O
+               USERS - X -
+         PERMISSIONS - X -
+             SERVICE - X -
+             APACHE2 - S -
+              CHANGE - S -
+                SUDO - - X
+  QEMU-SYSTEM-X86_64 - - X
+                -HDA - - S
+         GHOSTXP.ISO - - S
+                 KVM - - O
+              KERNEL - - X
+              MODULE - - O
+                FILE - - X
+         ACCELERATOR - - X

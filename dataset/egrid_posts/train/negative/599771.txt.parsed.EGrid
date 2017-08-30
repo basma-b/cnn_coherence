@@ -1,0 +1,25 @@
+                 KEY S - - - X X O - - -
+               STORE X - - - - - - - - -
+            COMPUTER X - - X - X S - - -
+                HOST X - - - - X - - - -
+                 SSH X X - - - - - - - -
+            SEAHORSE - - X - - - - - - -
+          MANAGEMENT - - X - - - - - - -
+             PROGRAM - - X - - - - - - -
+              OPTION - - O - - - - - - -
+               SETUP - - X - - - - - - -
+                THAT - - - O - - S - S -
+            TERMINAL - - - X - - - - - -
+          SSH-KEYGEN - - - O - - - - - -
+   ~/.SSH/ID_RSA.PUB - - - X - - - - - -
+                FILE - - - O - - - - - -
+~/.SSH/AUTHORIZED_KEYS - - - X - - - - - -
+                 PUB - - - - - X - - - -
+              CLIENT - - - - - X X - - -
+                STAY - - - - - X X - - -
+                 RUN - - - - - - X - - -
+              SERVER - - - - - - S - - -
+                SSHD - - - - - - X - - -
+              FOLDER - - - - - - - - O -
+                 GUI - - - - - - - - - X
+                 ISO - - - - - - - - - O

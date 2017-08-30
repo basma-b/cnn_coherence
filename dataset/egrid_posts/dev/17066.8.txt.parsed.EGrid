@@ -1,0 +1,13 @@
+               12.04 X - -
+             OPTIONS X - -
+           EXISTENCE X - -
+                ECHO - - X
+              EXPORT - - X
+SDL_VIDEO_X11_DGAMOUSE=0 - - S
+                   | - - X
+                 TEE - - X
+           ~/.BASHRC - - S
+                LINE - - O
+                FILE - - X
+              SOURCE - - X
+              DOSBOX - - X

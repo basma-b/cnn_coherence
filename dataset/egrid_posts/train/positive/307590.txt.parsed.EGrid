@@ -1,0 +1,11 @@
+             COMMAND X - - - - -
+              FOLDER O - - - - -
+           DIRECTORY X - - - - -
+                SUDO - S - - - -
+PATH/TO/SECOND/FOLDER - O - - - -
+                THAT - - S - - -
+                COPY - - O - - -
+                  -R - - O - - -
+          SUBFOLDERS - - S - - -
+                  MV - - X - - O
+                  CP - - - - S -

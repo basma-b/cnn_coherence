@@ -1,0 +1,13 @@
+             SERVICE X O - -
+                CANT - S - -
+       DOCUMENTATION - O - -
+           CHKCONFIG - O - -
+       /SBIN/INSSERV - O - -
+                FILE - X - -
+           DIRECTORY - X - -
+                   / - X - -
+             RC-CONF - S - -
+                 CLI - - O -
+                LOAD - - - X
+             AVERAGE - - - S
+               1.70+ - - - X

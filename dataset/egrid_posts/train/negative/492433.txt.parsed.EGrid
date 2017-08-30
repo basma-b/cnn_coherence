@@ -1,0 +1,17 @@
+              SYSTEM O X - - -
+             BUSYBOX X X - - -
+             COMMAND - X - - -
+            SHUTDOWN - - X - -
+                  -R - - X - -
+                 COW - - - - O
+             PACKAGE - - - - X
+           HIERARCHY - - - - X
+             APT-GET - - - - S
+             GRAPHIC - - - - X
+           WINDOWS-E - - - - X
+                EXPO - - - - O
+              COMPIZ - - - - X
+            DESKTOPS - - - - X
+                 ALL - - - - X
+                 ROW - - - - X
+             WINDOWS - - - - O

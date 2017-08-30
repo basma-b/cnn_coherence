@@ -1,0 +1,14 @@
+              UBUNTU O O -
+                  G4 X X -
+             POWERPC X X -
+                 PPC O O -
+                BOOT X X -
+           PARTITION O O -
+                 USE X X -
+                AUTO S S -
+             DEFAULT X X -
+       CONFIGURATION X X -
+                HTTP - O -
+//PASTE.UBUNTU.COM/716641/ - S -
+      UBUNTU-POWERPC - X -
+                VFAT - - O

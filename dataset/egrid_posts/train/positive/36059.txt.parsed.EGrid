@@ -1,0 +1,13 @@
+                  .. S - O
+             PACKAGE X - -
+             DEFAULT X - -
+        REPOSITORIES X - -
+            KERBEROS X - -
+                HUNT X - -
+                 MIT X - -
+                KRB5 X - -
+                MAIN X - -
+                FILE - - X
+            KRB.CONF - - X
+               KINIT - - X
+             COMMAND - - O

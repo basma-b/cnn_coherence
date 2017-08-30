@@ -1,0 +1,8 @@
+           PARTITION O - - -
+              FORMAT X - - -
+                FILE X - - -
+              SYSTEM S - - -
+              DEVICE X - - -
+              UMOUNT - - O -
+               FORCE - - X -
+                 THX - - - X

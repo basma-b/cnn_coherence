@@ -1,0 +1,25 @@
+            PASSWORD X - - - - - - - - - -
+                SSHD - - X - - - - S - - -
+            COMPUTER - - X - - - - - - - -
+                HOST - - X - - X - X - - -
+        VERIFICATION - - O - - S - - - - -
+                  OS - - - X - - - - - - -
+              CLIENT - - - X X - - X - - -
+             MACHINE - - - X - - - S - - -
+                  RM - - - - X - - - - - -
+  ~/.SSH/KNOWN_HOSTS - - - - S O - - - - -
+/HOME/PRIVATE/.SSH/KNOWN_HOSTS - - - - X - - - - - -
+                FILE - - - - X - - - - X -
+           DIRECTORY - - - - X - - - - - -
+             COMMAND - - - - X - - - - - -
+              SERVER - - - - X - - - - - -
+                 KEY - - - - - S - O - - -
+                USER - - - - - X - - - - -
+             ACCOUNT - - - - - X - - - - -
+                 WAY - - - - - O - - - - -
+         KNOWN_HOSTS - - - - - X X - - - -
+            MISMATCH - - - - - - - X - - -
+            QUESTION - - - - - - - - S - -
+               POINT - - - - - - - - - - X
+                NONE - - - - - - - - - - O
+            FAILURES - - - - - - - - - - O

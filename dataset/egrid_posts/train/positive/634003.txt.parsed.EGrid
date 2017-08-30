@@ -1,0 +1,23 @@
+                CONF O - - O - -
+             DEFAULT O - - - - -
+          POSTGRESQL O - - O - -
+                 DIR O - - - - -
+               IDEAS - - O - - -
+                 THE - - - S - -
+               PURGE - - - X - -
+             APT-GET - - - S - -
+                FILE - - - X - -
+                SUDO - - - X - -
+   POSTGRESQL-COMMON - - - X - -
+                  RM - - - S - -
+/ETC/POSTGRESQL-COMMON - - - O - -
+              CONFIG - - - O - -
+             MENTION - - - S - -
+    /ETC/POSTGRESQL/ - - - X - -
+            SOFTWARE - - - - - X
+CENTER/EDIT/SOFTWARE - - - - - X
+             SOURCES - - - - - X
+                  .. - - - - - O
+                 PIL - - - - - S
+               REPOS - - - - - X
+             PACKAGE - - - - - X

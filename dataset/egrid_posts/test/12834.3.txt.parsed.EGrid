@@ -1,0 +1,15 @@
+                HELP O - - - - - -
+               UNITY - - - X - - -
+            LLVMPIPE - - - X - - -
+              DRIVER - - - O - - -
+                HINT - - - - O - -
+                HTTP - - - - - X -
+              ROUTER - - - - - - O
+          NAMESERVER - - - - - - O
+/ETC/RESOLVCONF/RESOLV.CONF.D/BASE - - - - - - X
+                 RUN - - - - - - X
+         192.168.0.1 - - - - - - S
+                   | - - - - - - X
+                SUDO - - - - - - X
+                 TEE - - - - - - X
+                   > - - - - - - S

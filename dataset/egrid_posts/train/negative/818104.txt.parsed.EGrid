@@ -1,0 +1,22 @@
+               NATTY O - - - - -
+     /VAR/LOG/SYSLOG - S - - - -
+        INFORMATIONS - O - - - -
+                 PEN - X - - - -
+               DRIVE - X - - - -
+               CHECK - - - X - -
+               FSTAB - - - S - -
+                SUDO - - - X - -
+                NANO - - - X - -
+          /ETC/FSTAB - - - S - -
+             PROBLEM - - - X - -
+            IPTABLES - - - - S X
+               HTTPS - - - - X -
+         ACTION=SHOW - - - - - S
+REDIRECT=INTERNETCONNECTIONSHARING - - - - - S
+              UBUNTU - - - - - X
+            INTERNET - - - - - X
+             GATEWAY - - - - - X
+              METHOD - - - - - X
+                   < - - - - - X
+                RULE - - - - - O
+                PORT - - - - - O

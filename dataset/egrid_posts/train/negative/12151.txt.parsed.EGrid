@@ -1,0 +1,10 @@
+           -COUNT=10 X - - - -
+                  DD X S - - -
+             COMMAND X - - - -
+                INFO - X - - -
+                 MAN - X - - -
+                THIS - S - - -
+        COUNT=BLOCKS - - - S -
+              BLOCKS - - - X -
+               INPUT - - - X -
+               BLOCK - - - O -

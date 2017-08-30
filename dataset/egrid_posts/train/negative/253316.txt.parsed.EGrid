@@ -1,0 +1,9 @@
+                ETH0 S - - - -
+                SUDO S - - - -
+         SIOCSIFADDR X - - - -
+          PERMISSION S - - - -
+             IFFLAGS - X - - -
+             NETWORK - X - - -
+             MANAGER - S - - -
+              NOBODY - - - X -
+               TOPIC - - - - X

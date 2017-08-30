@@ -1,0 +1,8 @@
+           PARTITION O - - -
+               LINUX S X - -
+            GTPARTED X - - -
+                VFAT X - - -
+              FORMAT X X - -
+                BOTH - X - -
+             WINDOWS - X - -
+                 TRY - - - X

@@ -1,0 +1,38 @@
+                FILE X - - - - - - -
+                 ENV X - - - - - - -
+                VARS O - - - - - - -
+                 GDM X - - - - - - -
+                USER X - - - - - - -
+            .SESSION - X - - - - - -
+            .PROFILE - S - X - - X -
+                PATH - S S - X - X -
+              EFFECT - O - - - - - -
+                 TTY - X - - - - - -
+             EXAMPLE - X - - - - - -
+              EXPORT - - X - - - X -
+               PATH= - - X - - - X -
+                  .. - - O - - - - -
+              BOTTOM - - X - - - - -
+                BASH - - O - - - - -
+                BITE - - O - - - - -
+             COMMAND - - X X - - - -
+                FRMO - - X - - - - -
+               ~/BIN - - O - - - S -
+                GVIM - - X - - - - -
+                THAT - - - S - - - -
+               SHELL - - - X - - - -
+          STATEMENTS - - - O - - - -
+    .XSESSION-ERRORS - - - O - - - -
+            ANYTHING - - - - - O - -
+                   $ - - - - - - X -
+             DEFAULT - - - - - - X -
+          ~/.PROFILE - - - - - - X -
+                PART - - - - - - O -
+/HOME/FREW/PERL5/PERLBREW/BIN - - - - - - X -
+/HOME/FREW/PERL5/PERLBREW/PERLS/PERL-5.16.0/BIN - - - - - - X -
+            /OPT/BIN - - - - - - X -
+/HOME/FREW/CODE/TEATIME/BIN - - - - - - X -
+      /HOME/FREW/BIN - - - - - - X -
+                WORK - - - - - - - X
+                FINE - - - - - - - X
+             MONITOR - - - - - - - X

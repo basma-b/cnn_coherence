@@ -1,0 +1,11 @@
+               LUCID X - - -
+                USER X S S -
+              SUDOER X X - -
+             DEFAULT - X - -
+             SUDOERS - X - -
+                FILE - S - -
+            ANYTHING - O - -
+               GROUP - - S -
+               ADMIN - - X -
+                SUDO - - X -
+                HTTP - - - X

@@ -1,0 +1,10 @@
+               CHMOD O - - - -
+              FOLDER X - - X -
+                SUDO - - S - -
+          THE-FOLDER - - O - -
+                ROOT - - X - -
+         PERMISSIONS - - O X O
+                FILE - - - O S
+             SOMEONE - - - O -
+                HOME - - - X -
+                  ./ - - - O -

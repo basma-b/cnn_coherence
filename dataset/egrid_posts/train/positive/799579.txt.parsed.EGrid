@@ -1,0 +1,4 @@
+                GREP X -
+                  -E X -
+            FOO\|BAR X -
+                YOU~ X -

@@ -1,0 +1,17 @@
+                  CD O X - -
+                 WAY X - - -
+                GRUB O - - -
+                 MBR X - - -
+        GRUB-INSTALL X O - -
+                 USE X - - -
+                BOOT - X - -
+                  HD - S - -
+                 HD0 - X - X
+               TRICK - X - -
+                  .. - O - -
+              CONFIG - - - X
+                FILE - - - O
+             COMMAND - - - X
+                LINE - - - O
+           SOMETHING - - - X
+ /BOOT/GRUB/MENU.LST - - - X

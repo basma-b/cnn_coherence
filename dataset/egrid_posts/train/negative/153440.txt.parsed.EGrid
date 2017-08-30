@@ -1,0 +1,14 @@
+                 RUN X - -
+             PROCESS S O -
+              THREAD X - -
+                  ID S - -
+                 PID O - -
+               PIDOF X - -
+              PSTREE X S -
+             EXAMPLE - X -
+             SYSLOGD - O -
+                TYPE - S -
+              G-GOME - O -
+                SUDO - - S
+        /MOUNT/POINT - - O
+              LIVECD - - X

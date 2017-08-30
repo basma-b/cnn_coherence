@@ -1,0 +1,17 @@
+                 DIR X X - -
+          CACHE=/DIR S S - -
+                   < O O - -
+                WORK O O - -
+                FILE O O X -
+           DIRECTORY X X - -
+              OPTION O O - -
+            SETTINGS - - S -
+  /ETC/APT/PREFENCES - - X -
+             COMMAND - - X -
+                LINE - - X -
+             OPTIONS - - S -
+                  OK - - O -
+   /ETC/APT/APT.CONF - - - X
+              OTHERS - - - X
+               CHECK - - - X
+                 MAN - - - S

@@ -1,0 +1,15 @@
+               GNOME - O X - X - - - -
+                 GUI - - X - - - - - -
+                 APP - - S - - - - - -
+             MINUTES - - O - - - - - -
+              NORMAL - - X - - - - - -
+             NETWORK - - S - X - - - -
+                 HAL - - - O - - - - -
+                WORK - - - - X - - - -
+               ERROR - - - - X - O - O
+            PROBLEMS - - - - - X - - -
+               OTHER - - - - - X - - -
+            QUESTION - - - - - - X - -
+            LOOPBACK - - - - - - X - -
+                SUDO - - - - - - - - X
+    /ETC/INIT.D/DBUS - - - - - - - - X

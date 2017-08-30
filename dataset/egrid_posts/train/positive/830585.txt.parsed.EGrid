@@ -1,0 +1,15 @@
+                   ' X - - - - -
+                THAT X - - - - -
+                 NFS X - - - - -
+               SHARE O - - - - -
+             MESSAGE O - - - - -
+           MOUNT.NFS S - - - - -
+          SERVERNAME X - - - - -
+               ERROR X - - - - -
+             PROGRAM S - - - - -
+              SERVER - X - - - -
+             CLIENTS - X - - - -
+              ACCESS - X - - - -
+         HOSTS.ALLOW - X - - - -
+                 ALL - - - - O -
+          HOSTS.DENY - - - - X -

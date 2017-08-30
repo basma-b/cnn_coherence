@@ -1,0 +1,12 @@
+                SUDO X -
+                 CAT X -
+/SYS/DEVICES/SYSTEM/CPU/CPU0/CPUFREQ/CPUINFO_CUR_FREQ S -
+                 CPU S -
+                 MAX X -
+           FREQUENCY X -
+             DRIVERS S -
+            HARDWARE X -
+      ADMINISTRATION X -
+           SOMETHING X -
+             COMMAND - O
+               SHELL - X

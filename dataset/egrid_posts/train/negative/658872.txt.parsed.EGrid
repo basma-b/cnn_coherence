@@ -1,0 +1,10 @@
+                SUDO S - - - -
+         /MEDIA/DISK O - - - -
+               CHMOD - X - - -
+               O+RWX - S - - -
+/MEDIA/DISK/SOMEFOLDER - X - - -
+                ROOT - X - - -
+              FOLDER - X - - -
+                DISK - X - - -
+            QUESTION - - - S -
+                SWAP - - - - S

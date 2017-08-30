@@ -1,0 +1,25 @@
+             TROUBLE S - - -
+              LIVECD X - S -
+                ISOS O - - -
+             MD5SUMS - S - -
+            DOWNLOAD - X - -
+               CHECK - X - -
+                DISC - S - -
+              DEFECT - X - -
+            MISMATCH - O - -
+             RELEASE - - S -
+         PRE-RELEASE - - X -
+            VERSIONS - - X -
+              JAUNTY - - X -
+       INFRARECORDER - - X -
+             WINDOWS - - X -
+                 BOX - - X -
+               WODIM - - X -
+            CDRECORD - - X X
+DRIVEROPTS=NOBURNFREE - - X -
+             SPEED=0 - - X S
+            FILE.ISO - - X -
+             OPTIONS - - X -
+                  CD - - O -
+               SPEED - - X O
+               DRIVE - - - X

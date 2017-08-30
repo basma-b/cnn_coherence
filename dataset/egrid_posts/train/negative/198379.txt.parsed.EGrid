@@ -1,0 +1,13 @@
+           DIRECTORY S - - -
+                FILE X - - -
+              FOLDER O - - -
+/LIB/MODULES/2.6.15-27-386/BUILD S - - -
+             SYMLINK O - - -
+              KERNEL X - - -
+              SOURCE X O - -
+/LIB/MODULES/2.X.Y-Z-ARCH/BUILD - X - -
+                LINK - - X -
+                PART - - X -
+              EXPORT - - X -
+KERNELPATH=/PATH/TO/KERNEL/SOURCE - - O -
+                THAT - - - S

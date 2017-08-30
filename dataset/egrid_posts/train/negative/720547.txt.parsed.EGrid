@@ -1,0 +1,11 @@
+               GRUB2 - S - - -
+            MENU.LST - S - - -
+                 HDD - S - - -
+              DEVICE - - S O -
+                  ID - - X - -
+              NUMBER - - O - -
+                 IDE - - - O -
+              SYSTEM - - - X -
+                BOOT - - - X -
+                SATA - - - X -
+               DRIVE - - - X -

@@ -1,0 +1,13 @@
+             COMMAND O - -
+                TEXT X - -
+                FILE S - -
+                OPEN X - -
+            TERMINAL - S -
+                TYPE - S -
+                   < - X -
+            FILENAME - X -
+                   > - O -
+                 .SH - O -
+                 END - X -
+            NAUTILUS - X -
+                  GO - - X

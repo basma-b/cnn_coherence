@@ -1,0 +1,14 @@
+                PIPE X X -
+              STDOUT X X -
+                FILE X - -
+                 TEE - X -
+                   > - S -
+                  .. - X -
+               CHEER - X -
+                 IVE - S -
+    COMBINED_RESULTS - O -
+                THAT - - S
+                 1.4 - - O
+               THERE - - S
+             VERSION - - O
+             PACKAGE - - X

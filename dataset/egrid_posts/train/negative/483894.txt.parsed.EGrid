@@ -1,0 +1,15 @@
+         PERMISSIONS X - - - - - -
+               DRIVE X - - - - - -
+              INSERT - X - - - - -
+                IPOD - O O - - - -
+              GTKPOD - X - - - - -
+          PERMISSION - O - - - - -
+          PROPERTIES - - O - - - -
+                ROOT - - S - - - -
+                 ANY - - - - S - -
+              GKSUDO - - - - - S -
+              KERNEL - - - - - - S
+             NOTHING - - - - - - O
+                 BSD - - - - - - X
+            USERLAND - - - - - - S
+                 GNU - - - - - - X

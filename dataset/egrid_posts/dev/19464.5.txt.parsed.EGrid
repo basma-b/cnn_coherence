@@ -1,0 +1,8 @@
+             COMMAND X - - -
+                 UID X - - -
+                 GID X - - -
+                FILE X X - O
+           DIRECTORY X - - -
+                  -R - S - -
+         DIRECTORIES - X - -
+                SYNC - - - X

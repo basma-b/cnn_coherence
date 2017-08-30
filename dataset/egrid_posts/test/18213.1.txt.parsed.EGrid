@@ -1,0 +1,13 @@
+       UBUNTU/DEBIAN X - - -
+                 ONE S - - -
+           PARTITION X - - O
+          FILESYSTEM - O - -
+          /ETC/FSTAB - X - -
+            REFORMAT - - S -
+              CHANGE - - X -
+               FSTAB - - O -
+                THAT - - - X
+               ERROR - - - X
+                NTFS - - - X
+                EXT4 - - - X
+                BOOT - - - X

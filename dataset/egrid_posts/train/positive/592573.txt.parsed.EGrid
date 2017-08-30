@@ -1,0 +1,15 @@
+         APPLICATION S - - - -
+           COMPUTERS O - - O -
+             NETWORK X - - X -
+             SNIFFER O - - - -
+             WINDOWS X - - - -
+                 ANY - - S - -
+             SUBNETS - - - O -
+             COMMAND - - - S -
+  SCANME.NMAP.ORG/24 - - - O -
+                HOST - - - X -
+              SUBNET - - - X -
+     SCANME.NMAP.ORG - - - S -
+                TYPE - - - - O
+                ROOT - - - - X
+           PRIVILEGE - - - - O

@@ -1,0 +1,16 @@
+             COMMAND X - - - -
+             PACKAGE X S - - -
+             VERSION X - X - -
+                THIS - X O - -
+              SYSTEM - X - - -
+            APTITUDE - - X - -
+              SEARCH - - X - -
+         PACKAGENAME - - S - -
+              OPTION - - X - -
+                INFO - - X - -
+           APT-CACHE - - - X -
+              POLICY - - - S -
+                SUDO - - - - X
+             APT-GET - - - - S
+            APT-FILE - - - - O
+            FILENAME - - - - O

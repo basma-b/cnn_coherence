@@ -1,0 +1,13 @@
+        DEPENDENCIES O O - -
+             PACKAGE X X - -
+              INSTAL - X - -
+                 GUY - X - -
+                 THE - - S -
+       BUILD-DEPENDS - - S -
+             MPLAYER - - S -
+                THIS - - - S
+                GREP - - - X
+                  -I - - - S
+                 AWK - - - X
+                  -F - - - O
+               PRINT - - - X

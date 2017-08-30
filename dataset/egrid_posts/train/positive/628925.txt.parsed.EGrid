@@ -1,0 +1,20 @@
+                  IP O - - - O -
+                  PC - X - - S -
+            ETHERNET - - - X - -
+             NETWORK - - - O - -
+                 IPS - - - S - -
+                TOOL - - - O - -
+             EXAMPLE - - - X - -
+      192.168.1.0/24 - - - S - -
+              SUBNET - - - X X -
+               MODEM - - - - S -
+                ROUT - - - - X -
+              BRIDGE - - - - X -
+             REQUEST - - - - O -
+                 NIC - - - - X -
+            IFCONFIG - - - - X -
+             NETMASK - - - - X -
+                INET - - - - - X
+   P-T-P:85.10.0.254 - - - - - X
+MASK:255.255.255.255 - - - - - X
+      90.157.138.126 - - - - - S

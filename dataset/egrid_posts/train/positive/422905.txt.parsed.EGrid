@@ -1,0 +1,12 @@
+                 ONE X - -
+             SYMLINK X O -
+             COMMAND X - -
+                LINE X - -
+                FILE - - O
+           DIRECTORY - - O
+               RMDIR - - S
+              DELETE - - X
+             CONTENT - - O
+                FEAR - - X
+                LINK - - X
+                  .. - - X

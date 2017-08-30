@@ -1,0 +1,15 @@
+                SOME O - - - -
+                HELP X - - - -
+                TIME - O - - -
+                 ^^^ - S - S -
+             NETWORK - X - - -
+            WIRELESS - X - - -
+              OUTPUT - O - - -
+            IFCONFIG - X - - -
+                CARD - S - - -
+                  AP - X - - -
+                SUDO - - X - X
+            DHCLIENT - - X - -
+                ETH1 - - X - O
+                MODE - - - S S
+            IWCONFIG - - - - S

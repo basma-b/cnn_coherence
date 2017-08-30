@@ -1,0 +1,17 @@
+              ANYONE X - - - - - -
+         PERMISSIONS X - O - - - O
+                 YEP - S - - - - -
+                   * - S - - - S -
+               GROUP - S - - - - -
+              ACCESS - O - - - - -
+                SUDO - - S - - - S
+        /PATH/TO/DIR - - O - - - -
+                  -R - - - O - - -
+                 SUB - - - X - - -
+                 DIR - - - X - - -
+         LOOP0-LOOP7 - - - - - X -
+     LOOP=/DEV/LOOP0 - - - - - - X
+              /CDROM - - - - - - X
+             SHOUDLD - - - - - - X
+                WORK - - - - - - O
+          /DEV/LOOPS - - - - - - X

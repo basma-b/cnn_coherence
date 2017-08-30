@@ -1,0 +1,18 @@
+                 CAT X - X - -
+           /DEV/NULL X - S - -
+                   > X - - - -
+/VAR/SPOOL/MAIL/ROOT O - O - -
+          PERMISSION S - - - -
+                ROOT - X - - -
+               ISSUE - S - - -
+              METHOD - X - - -
+             MAILBOX - X - - -
+                SUDO - - X - -
+                BASH - - X - -
+                  -C - - X - -
+               DRIVE - - - O X
+              UBUNTU - - - S -
+          FILESYSTEM - - - O -
+                CARE - - - O -
+             INSTALL - - - X -
+                DATA - - - - O

@@ -1,0 +1,26 @@
+                LINE X X - - - - -
+                THIS - O - - - - -
+                  CD - S - - - - -
+KERNEL-SOURCE-VERSION - X - - - - -
+                  CP - S - - - - -
+  /BOOT/CONFIG-UNAME - O - - - - -
+      KERNEL-RELEASE - X - - - - -
+           ./.CONFIG - X - S - - -
+         KERNELHOWTO - X - - - - -
+                DONT - S - - - - -
+             COMMAND - S S - - - -
+               UNAME - X - - - - -
+              KERNEL - X - - - - -
+             VERSION - X - - - - -
+           SOMETHING - O - - - - -
+                THAT - - O - - - X
+              OUTPUT - - O - - - -
+           TTOGETHER - - O - - - -
+                WHAT - - - O - - -
+         DESTINATION - - - X - - -
+                FILE - - - O - - -
+              CONFIG - - - X - - -
+           DIRECTORY - - - X - - -
+                MAKE - - - - - X -
+   APPEND-TO-VERSION - - - - - X X
+                TYPE - - - - - - X

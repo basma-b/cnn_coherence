@@ -1,0 +1,16 @@
+                 RUN O - - - -
+                QEMU X - - - -
+              LIVECD X - - - -
+           PARTITION X - - X -
+                  CD - O - - -
+                THAT - - X - -
+                 DOC - - X X -
+                  VM - - - X -
+                  DD - - - X -
+              SEARCH - - - X -
+             OPTIONS - - - X -
+             CONFIGS - - - O -
+         S/WITH/FOR/ - - - X -
+             INITIAL - - - - X
+               FSTAB - - - - O
+                SELF - - - - X

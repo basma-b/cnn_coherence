@@ -1,0 +1,12 @@
+               FSTAB X - - X - - - -
+                USER - X - - X O X -
+                SUDO - - O - - - - -
+                THAT - - - - X - S -
+               OWNER - - - - X - - -
+               ENTRY - - - - X - - -
+          PARAMETERS - - - - - O S -
+            ANYTHING - - - - - - O -
+                AUTO - - - - - - X -
+              NOAUTO - - - - - - X -
+         SETTINGAUTO - - - - - - - S
+          FILESYSTEM - - - - - - - X

@@ -1,0 +1,12 @@
+.LOCAL/SHARE/GNOME-SHELL O - -
+             SUCCESS X - -
+                 ANY O - -
+            DESKTOPS X - -
+                WORK X - -
+              INSTAL X - -
+            TUTORIAL - - X
+               UNITY - - X
+             COMMAND - - O
+           GCONFTOOL - - O
+                 SET - - X
+/APPS/COMPIZ-1/PLUGINS/UNITYSHELL/SCREEN0/OPTIONS/DEVICES_OPTION - - O

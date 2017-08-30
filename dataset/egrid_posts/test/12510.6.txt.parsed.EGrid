@@ -1,0 +1,17 @@
+            POSITION O - O - -
+        TERMINAL/APP X - - - -
+              SCREEN X - X - -
+                TOOL - - O - -
+             PROCESS - - O - -
+           TERMINALS - - X - -
+                APPS - - X - -
+              REBOOT - - X - -
+            XWININFO - - - X -
+     TCPFLOW/TCPDUMP - - - - X
+             PACKETS - - - - S
+            ANYTHING - - - - S
+              RETURN - - - - O
+             EXAMPLE - - - - X
+                PORT - - - - X
+              BLOCKS - - - - S
+             REQUEST - - - - X

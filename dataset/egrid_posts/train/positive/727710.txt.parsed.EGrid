@@ -1,0 +1,15 @@
+             WINDOWS O - - -
+              FORMAT X - - -
+                 WAY X - - -
+           PARTITION X - - -
+              UBUNTU - X - -
+                LVPM - X - -
+                HTTP - X - -
+                 RUN - S - -
+            ANYTHING - O - -
+                BOOT - O - -
+                WUBI - X - -
+          /DEV/LOOP0 - - - X
+                TYPE - - - X
+                EXT4 - - - X
+   ERRORS=REMOUNT-RO - - - X

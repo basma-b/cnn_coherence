@@ -1,0 +1,15 @@
+                MESS - X - - - - - - -
+                 MBR - X - - - - - - -
+             FIXBOOT - O - - - - - - -
+             WINDOWS - X - - - - - - -
+                GRUB - S - - - - - - -
+                BOOT - X - - - - - - -
+                THIS - - X - - - - - -
+              LIVECD - - X - - - - - -
+        GRUB-INSTALL - - - X - - - - -
+               ERROR - - - - O O - - -
+            /DEV/SDA - - - - X - - - -
+/DEV/MAPPER/CASPER-SNAPSHOT - - - - S S - - -
+                BIOS - - - - X X - - -
+               DRIVE - - - - O O - - -
+                  CD - - - - - - X - -

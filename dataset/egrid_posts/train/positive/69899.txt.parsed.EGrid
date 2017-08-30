@@ -1,0 +1,13 @@
+               SPARC X - - - - - - - -
+              UBUTNU - X - - - - - - -
+             KERNELS - X - - - - - - -
+         FILESYSTEMS - S - - - - - - -
+MONILITHIC-EVERYTHING-BUILT-IN-KERNELS - O - - - - - - -
+          /KERNEL/FS - - O - - - - - -
+              MODULE - - X - - - - - -
+/MEDIA/HOARY/USR/SRC/LINUX-HEADERS-2.6.10-5/.CONFIG - - - - S - - - -
+                 TRY - - - - - - X - -
+                  K. - - - - - - S - -
+/BOOT/CONFIG-2.6.10-5-686 - - - - - - X - -
+                THIS - - - - - - S - -
+    INITRD/INITRAMFS - - - - - - - - X

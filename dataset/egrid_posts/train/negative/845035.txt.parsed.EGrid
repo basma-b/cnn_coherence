@@ -1,0 +1,10 @@
+STRICTHOSTKEYCHECKING S - -
+          SSH_CONFIG X - -
+  USERKNOWNHOSTSFILE X - -
+           /DEV/NULL S - -
+            IP-RANGE X - -
+         CHECKHOSTIP X - -
+              HOSTIP - S -
+               THING - X -
+                  OH - - X
+                THIS - - S

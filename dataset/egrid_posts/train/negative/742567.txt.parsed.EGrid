@@ -1,0 +1,16 @@
+                SUDO - S - - - - - - -
+            PASSWORD - X - - - - - - -
+              RFCOMM - X - - - - - - -
+                BIND - O - - - - - - -
+             COMMAND - X - - - - - - -
+             RELEASE - X - - - - - - -
+                THAT - - S - O - - - -
+        /ETC/SUDOERS - - S X - - - - -
+     /USR/BIN/RFCOMM - - O - - - - - -
+            NOPASSWD - - X - - - - - -
+               IDEAS - - - X - - - - -
+             NETWORK - - - - - - - X -
+              DAEMON - - - - - - - O -
+                WICD - - - - - - - S -
+              SYSTEM - - - - - - - X -
+                  .. - - - - - - - - O

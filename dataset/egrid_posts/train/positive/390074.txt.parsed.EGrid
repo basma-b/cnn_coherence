@@ -1,0 +1,16 @@
+               LMNTS O - - - - -
+                 ISP X - - - - -
+                 DNS O O X - - -
+         WORKSTATION - X X - - -
+                 PC2 - X - - - -
+                  .. - X - X - -
+                   A - - X - - -
+             GATEWAY - - S - - -
+                ETH1 - - X - - -
+         192.168.2.1 - - O - - -
+         192.168.5.0 - - X - - -
+         RESOLV.CONF - - - X - -
+                BUCK - - - - - X
+                HOUR - - - - - S
+              ADRESS - - - - - S
+            RESOLVER - - - - - O

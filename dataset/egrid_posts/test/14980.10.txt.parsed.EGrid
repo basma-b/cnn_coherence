@@ -1,0 +1,14 @@
+            SECURITY X - - -
+              UPDATE X - - -
+              SYSTEM X - - X
+         APPLICATION X - - -
+            SOFTWARE X - - -
+                USER S - X -
+                ROOT O - - -
+             DEFAULT - X - -
+             ACCOUNT - S - -
+                PART - O - -
+             SUDOERS - X - -
+               ADMIN - X - X
+               GROUP - X - -
+             PACKAGE - - - S

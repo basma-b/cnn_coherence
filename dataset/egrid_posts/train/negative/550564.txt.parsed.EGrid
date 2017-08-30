@@ -1,0 +1,7 @@
+                USER X -
+                MODE X -
+                SYNC X -
+             TELINIT S -
+              DRIVER - S
+                 IDE - X
+                SATA - O

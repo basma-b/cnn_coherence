@@ -1,0 +1,13 @@
+                  HI X - - -
+             PROCESS X - - X
+                 PID X - - -
+                   | - S - -
+                GREP - X - -
+                KILL - - X -
+                NEXT - - S -
+             COMMAND - - O -
+                 ^^^ - - X -
+             PROBLEM - - - S
+                CALL - - - X
+                JAVA - - - O
+                 ONE - - - O

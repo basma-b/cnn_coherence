@@ -1,0 +1,10 @@
+          FILESYSTEM X - - - - -
+          SUPERBLOCK O - - - - -
+           PARTITION - O O - - -
+               DRIVE - - X - - -
+           UNMOUNTED - - - X - -
+               /SWAP - - - O - -
+                 USE - - - X - -
+                TYPE - - - - S -
+            TERMINAL - - - - X -
+             CURRENT - - - - X -

@@ -1,0 +1,18 @@
+              SERVER X X - X - - -
+     SWAP=2XPHYSICAL X - - - - - -
+                 RAM X - - - - - -
+                X1.5 - X - - - - -
+                  X2 - S - - - - -
+            DATABASE - O - - - - -
+                  VM - S - - - - -
+                  EH - X - - - - -
+                 NFS - - X - - - -
+                 SMB - - X - - - -
+             BALANCE - - - O - - -
+                CARD - - - X - X -
+                  .. - - - X - - -
+                THAT - - - - O S -
+             NETWORK - - - - - X -
+            SETTINGS - - - - - X -
+    /ETC/SYSCTL.CONF - - - - - X -
+VM.MMAP_MIN_ADDR=65536 - - - - - - X

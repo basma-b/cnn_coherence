@@ -1,0 +1,31 @@
+                 HEY X - - - - - - - - - - -
+                 GUY X - - - - - - - - - - -
+             PROBLEM O - - - - - - - - - - -
+                GRUB X - - - - - - - - - - X
+     STARTUP-MANAGER - O - - - - - - - - - -
+            GRAPHICS - X - - - - - - - - - -
+            SETTINGS - O - - - - - - - - - -
+              UBUNTU - - X - - - - - - - - -
+                LOGO - - S - - - - - - - - -
+                 WAY - - X - - - - - - - - -
+               ERROR - - X S - - - - - - - -
+             VGA=769 - - - S - - S - - - - -
+                 USE - - - - S - - - - - - -
+GFXPAYLOAD=640X480X8,640X480 - - - - O - - - - - - -
+             COMMAND - - - - O - - - - - - -
+                LINE - - - - - O - X - - - -
+   /ETC/DEFAULT/GRUB - - - - - X - - - - - -
+             EXAMPLE - - - - - X - - - - - -
+           NEVERMIND - - - - - X - - - - - -
+                 BUG - - - - - - X X - - X -
+              REPORT - - - - - - O O - - S -
+             STARTUP - - - - - - X X - - - -
+             MANAGER - - - - - - X X - - - -
+          GFXPAYLOAD - - - - - - O - - - - -
+/ETC/GRUB.D/40_CUSTOM - - - - - - - X - - - -
+           LAUNCHPAD - - - - - - - - X - - -
+        CONTRIBUTION - - - - - - - - - - O -
+               ISSUE - - - - - - - - - - - O
+             USPLASH - - - - - - - - - - - X
+       CONFIGURATION - - - - - - - - - - - S
+XSCREENSAVER-DATA-EXTRA - - - - - - - - - - - O

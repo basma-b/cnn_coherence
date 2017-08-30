@@ -1,0 +1,15 @@
+               SOUND X X - - -
+              DEVICE X - S - -
+            /DEV/DSP - O - - -
+                   * - O - - -
+          /DEV/AUDIO - O - - -
+                ALSA - X - - -
+       COMPATIBILITY - X - - -
+               LAYER - X - - -
+             PROGRAM - X - - -
+                 OSS - X - - -
+              SCHEME - X - - -
+              VMWARE - - S - -
+              OUTPUT - - X - -
+                   = - - X - -
+               DRIVE - - - - O

@@ -1,0 +1,16 @@
+                 SSH X - -
+           LOCALHOST O - -
+                PORT O - -
+          CONNECTION S - -
+              REASON O - -
+            ANYTHING - O -
+              PROMPT - S -
+               START - X -
+             COMMAND - - O
+                CARD - - O
+               LSPCI - - S
+                   | - - S
+                GREP - - S
+                  -I - - S
+            WIRELESS - - S
+            BROADCOM - - S

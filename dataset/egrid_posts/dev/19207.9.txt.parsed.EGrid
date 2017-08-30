@@ -1,0 +1,10 @@
+       /ETC/RC.LOCAL S X - - -
+                BOOT X - - - -
+                ROOT X - - - -
+               STUFF - O - - -
+             COMMAND - O - - -
+                SUDO - - X - -
+            HARDWARE - - - - S
+      VIRTUALIZATION - - - - X
+          EXTENSIONS - - - - O
+                 KVM - - - - X

@@ -1,0 +1,8 @@
+              SERVER O - -
+                 TCP X X -
+                PORT X - -
+                   < - S -
+                   > - S -
+                -NLP - - X
+                INET - - S
+                 ALL - - X

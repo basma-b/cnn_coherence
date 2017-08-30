@@ -1,0 +1,16 @@
+                  -X O - - - -
+        APPLICATIONS S - - - -
+        DEPENDENCIES X - - - -
+         ENVIRONMENT - O - - -
+                  IS - - X - -
+                 USE - - O - -
+             MANPAGE - - S - -
+  ADD-APT-REPOSITORY - - S - -
+                NAME - - O - -
+              BINARY - - X - -
+                 MAN - - X - -
+                  -K - - X - -
+               WHICH - - X - -
+              SEARCH - - X - -
+             PACKAGE - - S - S
+                TOOL - - - - O

@@ -1,0 +1,6 @@
+                SUDO X -
+ /ETC/INIT.D/PROFTPD S -
+        INETD/XINETD X -
+          /BIN/FALSE - X
+      THE/ETC/SHELLS - X
+                HELP - X

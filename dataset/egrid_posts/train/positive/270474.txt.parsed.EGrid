@@ -1,0 +1,20 @@
+               FSTAB X X -
+             WINDOWS X - -
+                NTFS X - -
+           PARTITION O - -
+              ACCESS O - -
+                THAT - O -
+          PERMISSION - X -
+               POINT - X -
+                 HEY - X -
+              FORHAM - X -
+                 USE - O -
+      PARAMETERSSUDO - S -
+               SMBFS - X -
+//DYSFUNCTIONAL/DOWNLOADS - X -
+      /MNT/DOWNLOADS - O -
+        USERNAME=YOU - X -
+               THERE - - S
+            TUTORIAL - - O
+               HTTPS - - X
+//HELP.UBUNTU.COM/COMMUNITY/SETTINGUPSAMBA - - X

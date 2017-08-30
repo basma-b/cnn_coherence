@@ -1,0 +1,16 @@
+                THAT O - - - -
+             NETWORK X - - - -
+             MANAGER X - - - -
+          CONNECTION X - - - -
+              SYSLOG O - - - -
+                TAIL - X - - -
+                  -F - X - - -
+     /VAR/LOG/SYSLOG - S - - -
+                FINE - O - - -
+                 HMM - - - X X
+           SOMETHING - - - O -
+             COMMAND - - - O -
+              UBUNTU - - - X -
+        GRUB-INSTALL - - - - O
+              KERNEL - - - - X
+      /GRUB/CORE.IMG - - - - X

@@ -1,0 +1,16 @@
+             COMMAND X - - - - -
+              SYSTEM X - X - - -
+               SPECS X - - - - -
+                 CLI X - - - - -
+                 HMM X - - - - -
+                 CAT X - - - - -
+       /PROC/CPUINFO O - - - - -
+               DMESG - S - - - -
+               THERE - - S - - -
+                INFO - - X - - -
+               THING - - O - - -
+            HARDWARE - - X - - -
+             BROWSER - - X - - -
+                 GUI - - X - - -
+                TOOL - - O - - -
+              UBUNTU - - - X - -

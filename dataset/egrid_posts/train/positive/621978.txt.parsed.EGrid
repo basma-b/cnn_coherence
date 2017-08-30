@@ -1,0 +1,6 @@
+            OVERRIDE O -
+             WINECFG X -
+                 DLL - S
+                WINE - X
+            OPPOSITE - S
+             VERSION - O

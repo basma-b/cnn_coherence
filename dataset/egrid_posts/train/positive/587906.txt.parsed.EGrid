@@ -1,0 +1,10 @@
+              OUTPUT S X - -
+                PIPE X - - -
+           REFERENCE S - - -
+            QUESTION S - - -
+               SENSE O - - -
+              STDOUT - X - -
+                SUDO - - - X
+                 BOX - - - X
+            ANYTHING - - - X
+               -RSB- - - - O

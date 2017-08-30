@@ -1,0 +1,33 @@
+                HAVP X X X - - - - -
+             VERSION O - - - - O - -
+          FILESYSTEM S O - - - - - -
+                LOCK O - - - - - - -
+               LINUX - X - - - - - -
+                MAND - X - - - - - -
+             EXITING - X - - - - - -
+UUID=A4E89DAE-348F-4D5D-90E0-DA29F660FBCC - X - - - - - -
+                   / - X - - - - - -
+                EXT3 - X - - - - - -
+             DEFAULT - X - - - - - -
+                 HEY - X - - - - - -
+            EVERYONE - S - - - - - -
+                NAME - O - - - - - -
+                WONT - S - - - - - -
+             MESSAGE - O - - - - - -
+            SYNAPTIC - X X - - - - -
+             APT-GET - S S - - - - -
+                CANT - - X S - - - -
+              UPDATE - - X X - - - -
+               ERROR - - - X - S - -
+              OUTPUT - - - X - - - -
+             COMMAND - - - X - - - -
+                  .. - - - X - - - -
+            JORDAN_U - - - - X - - -
+                HTTP - - - - X - - -
+                DONT - - - - - S - -
+             PACKAGE - - - - - S - -
+                 DEB - - - - - S - -
+               HTTPS - - - - - - X -
+//HELP.UBUNTU.COM/COMMUNITY/INSTALLATION/MINIMALCD - - - - - - X -
+                   % - - - - - - - X
+          28DOWNLOAD - - - - - - - X

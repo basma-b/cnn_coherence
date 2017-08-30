@@ -1,0 +1,16 @@
+                MAKE X - - X - - - -
+               -LSB- S - - - - - - -
+               -RSB- O - - - - - - -
+SCRIPTS/KCONFIG/LXDIALOG/CHECKLIST.O S - - - - - - -
+               ERROR O - - - - - - -
+          MENUCONFIG X - - X - - - -
+                  GH X - - - - - - -
+                THIS - - - S - - - -
+              OUTPUT - - - O - - - -
+              KERNEL - - - O - - O -
+             BECOUSE - - - - X - O -
+               TIMER - - - - O - X -
+           FREQUENCY - - - - X X X -
+                TIME - - - - - X - -
+                 CPU - - - - - X X -
+               THATS - - - - - S - -

@@ -1,0 +1,35 @@
+                ROOT X - - - - -
+              ACCESS O - - - - -
+               MYSQL X - S - - -
+             SUCCESS S - - - - -
+         PERMISSIONS O - - - - -
+              OPTION - - S - - -
+                CONF - - S - - -
+                FILE - - X - - -
+             SERVICE - - O - - -
+   SKIP-GRANT-TABLES - - S - - -
+                  .. - - O - - -
+               -RSB- - - X - - -
+               BLOCK - - X - - -
+                SUDO - - X - - -
+   /ETC/INIT.D/MYSQL - - S - - -
+              SERVER - - O - - -
+              MY.CNF - - X - - -
+                 CLI - - X - - -
+              SCRIPT - - X - - -
+               HTTPS - - - X - -
+//HELP.UBUNTU.COM/COMMUNITY/MYSQLPASSWORDRESET - - - X - -
+                  IM - - - - X -
+                 MMM - - - - X -
+                /MSG - - - - S -
+             THEFILE - - - - S O
+              RETURN - - - - X -
+                LINE - - - - X -
+           SOMETHING - - - - O -
+          -RWXR-XR-X - - - - X -
+               BEGIN - - - - X -
+               THING - - - - - X
+                LIST - - - - - O
+          PROPERTIES - - - - - S
+/USR/LOCAL/BIN/MOUNTCAMERA - - - - - X
+              /HOME/ - - - - - S

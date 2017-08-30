@@ -1,0 +1,17 @@
+         PERMISSIONS O - - -
+              FOLDER X - - -
+                FILE X - - -
+                ROOT X - - -
+              DEXTER X X X -
+                SUDO - X X -
+               CHMOD - X - -
+/HOME/DEXTER/COMPILED/FGFS - X - -
+                  -R - X - -
+                THAT - - X -
+               CHOWN - - X -
+   /HOME/DEXTER/BLAH - - X -
+             USERADD - - S -
+                 GUI - - S -
+                NEED - - O -
+               GROUP - - X -
+                  NP - - - X

@@ -1,0 +1,14 @@
+        RELATIONSHIP O - - - -
+                XORG X - - - -
+                 GDM X - - - -
+               GNOME X - - - -
+             DESKTOP - - X - -
+                 ENV - - O - -
+              SERVER - - X - -
+        MODIFICATION - - - - S
+                LINK - - - - S
+                 MAN - - - - X
+             OVERLAY - - - - O
+               XTERM - - - - X
+               FLASH - - - - X
+          BACKGROUND - - - - X

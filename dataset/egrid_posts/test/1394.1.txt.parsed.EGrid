@@ -1,0 +1,13 @@
+             OPTIONS X O - - -
+                GRUB - X - - -
+                MENU - X - - -
+            RECOVERY - X X - -
+                  .. - X - - -
+             KERNELS - - S - -
+                 SET - - O - -
+         UPDATE-GRUB - - O - -
+              KERNEL - - O - -
+               ROHAN - - X - -
+             ENTRIES - - - - X
+             MEMTEST - - - - X
+              OTHERS - - - - X

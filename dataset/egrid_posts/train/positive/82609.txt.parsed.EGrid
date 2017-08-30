@@ -1,0 +1,14 @@
+                ROOT X - - - -
+            PASSWORD X - - - -
+               STORE X - - - -
+                 APT X - - - -
+               MYSQL - X - - -
+            DATABASE - X - - -
+                NAME - X - - -
+              UBUNTU - X - - -
+             SERVICE - O X - -
+               START - - O - -
+                LOOK - - O - -
+              SCRIPT - - X - X
+                 END - - X - -
+             RESTART - - - - S

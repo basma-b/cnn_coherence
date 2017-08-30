@@ -1,0 +1,12 @@
+             COMMAND X - - - - - -
+           /DEV/SDXX X - - - - - -
+              DEVICE X - - - - - -
+               LSUSB - X - - - - -
+                PATH - - X - - - -
+     /MEDIA/USBDRIVE - - X - - - -
+                LINK - - X - - - -
+            /DEV/BLA - - X - - - -
+          /MEDIA/BLA - - X - - - -
+                UUID - - - O O - -
+               THERE - - - X - - -
+          /ETC/FSTAB - - - - X - -

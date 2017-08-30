@@ -1,0 +1,14 @@
+             COMMAND X - - - - - -
+            ENTRYMSG X - X - - - -
+             CHANNEL X - - - X - -
+                 ERM - - X - - - -
+            CHANSERV - - - - S - -
+              NOTICE - - - - O - -
+             MESSAGE - - - - X - -
+                THIS - - - - S - -
+        ENTRYMESSAGE - - - - O - -
+               TOPIC - - - - O - -
+                PART - - - - O - -
+                 ETC - - - - X - -
+              SOURCE - - - - - - X
+                FILE - - - - - - O

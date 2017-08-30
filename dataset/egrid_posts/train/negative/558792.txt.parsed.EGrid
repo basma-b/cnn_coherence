@@ -1,0 +1,11 @@
+             COMMAND X - - -
+               FDISK X - - -
+                  -L X - - -
+              OUTPUT S - - -
+           PARTITION X - - -
+                 SDA X - - -
+               SLAVE X - - -
+            /DEV/HDA X - - -
+             MENTION - X - -
+            /DEV/HDB - X - -
+               RIGHT - - X -

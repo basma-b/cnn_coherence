@@ -1,0 +1,24 @@
+              CONFIG X - - - -
+                 USE O - - - -
+           MAKE-KPKG X - - - -
+               STOCK - X - - -
+              KERNEL - O - - -
+               PATCH - X - - -
+         FRAMEBUFFER - X - - -
+                MODE - X - - -
+               ERROR - S X - -
+                FILE - S X - -
+DRIVERS/USB/NET/ZD1211/ZDUSB.C - X - - -
+DRIVERS/USB/NET/ZD1211/ZDDEVLIST.H - X - - -
+                 7:2 - X - - -
+              SOURCE - X X - -
+                LINE - O X - -
+               -RSB- - O - - -
+                   S - X - - -
+              UBUNTU - X - - -
+           SOMETHING - - X - -
+                  .. - - X - -
+                THAT - - - S -
+                WORK - - - O -
+                 LOL - - - X -
+                   X - - - - O

@@ -1,0 +1,21 @@
+               ISSUE S - - - - - - -
+               BOCHS O - - - - - - -
+             LIBRARY - O - - - - - -
+    LIBREADLINE.SO.4 - - X S - - - -
+            /USR/LIB - - X - - - - -
+               THERE - - S - - - - -
+                CALL - - X - - - - -
+      LIBREADLINE.SO - - O X - - - -
+                  LS - - X - - - - -
+/USR/LIB/LIBREADLINE.SO.4 - - X - - - - -
+                ROOT - - - X - - - -
+/USR/LIB/LIBREADLINE.SO - - - X - - - -
+/LIB/LIBREADLINE.SO.5 - - - O - - - -
+              BINARY - - - S - - - -
+                I386 - - - X - - - -
+            PLATFORM - - - X - - - -
+                LOOK - - - - O - - -
+               IDEAS - - - - S - - -
+                   > - - - - - - X -
+                 DOW - - - - - - X -
+                 MSG - - - - - - - X

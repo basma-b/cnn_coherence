@@ -1,0 +1,10 @@
+              KERNEL X - - X -
+             COMMAND X - - X -
+              MODULE X - - O -
+                LOAD - X - - -
+/ETC/MODPROBE.D/BLACKLIST - - S - -
+         MODULE_NAME - - O - -
+                LINE - - X - -
+              SYSTEM - - X - -
+                TIME - - - - X
+                BOOT - - - - X

@@ -1,0 +1,29 @@
+               THERE X - - - - -
+             PACKAGE X - - - - -
+                SIZE X - - - - -
+                DISK - X - - - -
+               SPACE - X X - - -
+             RELEASE - X - - - -
+                 USE - O - - - -
+                 LTS - X - - - -
+                 CLI - X - - - -
+                  DU - X - - - -
+                   / - S S - - -
+/VAR/CACHE/APT/ARCHIVES - - O - - -
+              DELETE - - X - - -
+                 TIP - - X - - -
+               THOSE - - S - - -
+                 BUG - - - O - -
+                 FIX - - - O - -
+               ADOBE - - - S - -
+             SUPPORT - - - O - -
+               FORCE - - - - X -
+            HARDWARE - - - - X -
+        ACCELERATION - - - - O -
+         INSTABILITY - - - - O -
+               FLASH - - - - X -
+                  HW - - - - - S
+                FILE - - - - - X
+  /ETC/ADOBE/MMS.CFG - - - - - O
+ENABLELINUXHWVIDEODECODE=1 - - - - - O
+             WINDOWS - - - - - X

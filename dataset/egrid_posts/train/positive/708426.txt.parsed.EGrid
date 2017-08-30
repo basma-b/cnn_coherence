@@ -1,0 +1,11 @@
+                 FYI X - - -
+     TRANSMISSIONCLI S - - -
+            SETTINGS O - - -
+        TRANSMISSION X - - -
+                 GUI X - - -
+~/.CONFIG/TRANSMISSIONCLI - O - -
+~/.CONFIG/TRANSMISSION - X - -
+                WORK - X - -
+              DAEMON - - O -
+              SCRIPT - - - X
+            DOWNLOAD - - - O

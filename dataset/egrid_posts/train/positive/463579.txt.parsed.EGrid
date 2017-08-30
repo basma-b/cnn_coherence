@@ -1,0 +1,12 @@
+           SOMETHING S - - -
+           PARTITION S - - -
+         PERMISSIONS S - - -
+                SUDO - O - -
+      AUTHORIZATIONS - O - -
+                USER - S - -
+              SYSTEM - - X -
+      ADMINISTRATION - - X -
+                  OK - - S -
+                 USR - - - O
+                KIND - - - O
+              REBOOT - - - X

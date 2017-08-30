@@ -1,0 +1,19 @@
+   /ETC/DEFAULT/GRUB O - - - S - -
+GRUB_HIDDEN_TIMEOUT=1 O - - - - - -
+         UNCOMMENTED X - - - - - -
+                MIND - X - - - - -
+            SOLUTION - S - - - - -
+                 TRY - - X - - - -
+             COMMENT - - X - - - -
+            FUNCTION - - X - - - -
+          RECORDFAIL - - X - - - -
+               ENTRY - - O - - - -
+                FILE - - X - O S -
+               THERE - - - - X - -
+         UPDATE-GRUB - - - - X - -
+        UPDATE-GRUB2 - - - - O - -
+               FORCE - - - - - O O
+             TIMEOUT - - - - - X -
+              SECOND - - - - - X -
+                  OS - - - - - - S
+              SYSTEM - - - - - - O

@@ -1,0 +1,16 @@
+                STOP X - - - - -
+                 RUN O - - - - -
+               ERROR X - - - - -
+             MESSAGE O - - - - -
+                   E X - - - - -
+                LOCK X - - - - -
+/VAR/LIB/APT/LISTS/LOCK O - - - - -
+            RESOURCE X - - - - -
+                LIST X - - - - -
+           DIRECTORY O - - - - -
+             PROGRAM X - - - - -
+            SOFTWARE - X - - - -
+              CENTER - X - - - -
+             MANAGER - - O - - -
+                 USE - - - - - O
+               PULSE - - - - - O

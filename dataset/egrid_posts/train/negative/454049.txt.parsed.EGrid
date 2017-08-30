@@ -1,0 +1,13 @@
+        CONSEQUENCES X - - O - - - -
+      UBUNTU-DESKTOP - O - - - - - -
+         METAPACKAGE - - O - - S - -
+             RELEASE - - - X - - - -
+             UPGRADE - - - O - - - -
+             PACKAGE - - - - O O - -
+        DEPENDENCIES - - - - O X - -
+                DATA - - - - - X - -
+                 OWN - - - - - X - -
+                FACT - - - - - - X -
+            ANYTHING - - - - - - - X
+                PORT - - - - - - - S
+                TREE - - - - - - - X

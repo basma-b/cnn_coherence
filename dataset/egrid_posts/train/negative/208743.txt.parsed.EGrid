@@ -1,0 +1,8 @@
+             EXAMPLE X - -
+           MKFS.VFAT X - -
+           /DEV/SDA1 S - -
+             COMMAND X - -
+                NTFS S - -
+              FORMAT O - -
+               FAT32 X - -
+                  TY - - X

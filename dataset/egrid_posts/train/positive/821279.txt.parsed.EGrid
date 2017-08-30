@@ -1,0 +1,15 @@
+             NETWORK X - - - - -
+             MANAGER S - - - - -
+               PANEL X - - - X X
+                 FIX - O - - - -
+                   * - - O - - -
+      NM-APPLET:7710 - - X - - -
+                   < - - S - - -
+APPLET_DBUS_MANAGER_START_SERVICE - - O - - -
+NETWORKMANAGERUSERSETTINGS - - X - - -
+             SERVICE - - O - - -
+              RETURN - - - X - -
+                  .. - - - - X -
+        NOTIFICATION - - - - X X
+                AREA - - - - X X
+              SEARCH - - - - - X

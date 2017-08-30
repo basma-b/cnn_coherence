@@ -1,0 +1,15 @@
+                SMBD S - - - - - - - -
+             PROCESS - X - - - - - - -
+                LIST - X - - - - - - -
+            FILENAME - X - - - - - - -
+               SAMBA - - O - - - - - -
+    /ETC/INIT.D/SMBD - - S - - - - - -
+                HELP - - - O - - - - -
+                THAT - - - - S - - - -
+             MACHINE - - - - - - - - X
+                 USE - - - - - - - - O
+              REMOTE - - - - - - - - X
+             DESKTOP - - - - - - - - X
+            PROTOCOL - - - - - - - - X
+          VIRTUALBOX - - - - - - - - X
+              VMWARE - - - - - - - - S

@@ -1,0 +1,9 @@
+              INSMOD X - -
+             MODULES X - -
+                LOAD O - -
+              REBOOT X - -
+        /ETC/MODULES - S -
+               PLACE - X -
+        IP_CONNTRACK - O -
+               SOUND - - S
+          MICROPHONE - - S

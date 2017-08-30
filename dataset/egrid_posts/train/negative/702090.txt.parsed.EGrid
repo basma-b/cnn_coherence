@@ -1,0 +1,19 @@
+                 DEB X - -
+             PACKAGE X - -
+             COMMAND O - -
+            SYNAPTIC - S -
+               ERROR - S -
+             OPTIONS - O -
+                   > - X -
+               PURGE - X -
+FORCE-REMOVE-REINSTREQ - X -
+                THIS - S -
+                   E - X -
+     CROSSPLATFORMUI - O -
+              SCRIPT - X -
+              RETURN - X -
+                EXIT - X -
+              STATUS - O -
+                 COD - - O
+                 SSH - - X
+             GRAWITY - - X

@@ -1,0 +1,19 @@
+/ETC/INIT.D/NETWORKING X - - - - - - - - - - - -
+/ETC/NETWORK/INTERFACES S - - - - - - - - - - - -
+                LINE O - - - - - - - - - - - -
+                 END X - - - - - - - - - - - -
+/ETC/NETWORK/IF-UP.D/ZONEEDIT X - - - - - - - - - - - -
+                FILE - X - - - - - - X X - - -
+                MARK - X - - - - - - - - - - -
+                  +X - O - - - - - - - - - - -
+            ZONEEDIT - - X - - - - - - - - - -
+                ROOT - - - - - X - - - - - - -
+               THING - - - - - - - X - - - - -
+             CONTENT - - - - - - - - O - - - -
+               SHELL - - - - - - - - - X - - -
+              SCRIPT - - - - - - - - - X - - -
+                THIS - - - - - - - - - O - - -
+                 TOP - - - - - - - - - X - - -
+             /BIN/SH - - - - - - - - - - S - -
+              AGAINL - - - - - - - - - - O - -
+                 OWN - - - - - - - - - - - - X

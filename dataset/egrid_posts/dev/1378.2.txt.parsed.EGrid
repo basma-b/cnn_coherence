@@ -1,0 +1,25 @@
+               UUIDS O - - - - - - - -
+               FSTAB X - - - - X - - -
+          AUTO-MOUNT X - - - - - - - -
+               UNITY X - - - - - - - -
+            LAUNCHER X - - - - - - - -
+                 BAR X - - - - - - - -
+              /MEDIA - S - - - - - - -
+               DRIVE - - X - - - - - -
+                NAME - - S - - - - - -
+       AWESOMEVIDEOS - - O - - - - - -
+/MEDIA/AWESOMEVIDEOS - - X - X - - - -
+               THERE - - - S - - - - -
+              FOLDER - - - O - - - - -
+                   / - - - X - - - - -
+         ACCESSLEVEL - - - - - O - - -
+                THIS - - - - - - S - S
+     /MEDIA/MEDIATWO - - - - - - S - -
+                USER - - - - - - X - -
+                AUTO - - - - - - O - -
+                SUDO - - - - - - - X -
+                  -9 - - - - - - - O -
+                  PS - - - - - - - X -
+                GREP - - - - - - - X -
+                DPKG - - - - - - - S -
+               ISSUE - - - - - - - - O

@@ -1,0 +1,12 @@
+                 XFS S S - - -
+          FILESYSTEM X X - - -
+                SDD1 S S - - -
+                UUID O O O - -
+              REBOOT X X - - -
+              ANYONE - X - - -
+               SOUND - - X - -
+               DRIVE - - S - -
+ /BOOT/GRUB/MENU.1ST - - - X -
+          /ETC/FSTAB - - - X -
+               ENTRY - - - X -
+                  .. - - - - X

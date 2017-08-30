@@ -1,0 +1,11 @@
+         AUDIO_SETUP X - -
+              DEVICE X - -
+            /DEV/DSP O - -
+            RESOURCE X - -
+                   < X - -
+             PROGRAM O - -
+               BLOCK X - -
+               SOUND X - O
+                CARD X - -
+         APPLICATION X - -
+             MPLAYER - - S

@@ -1,0 +1,14 @@
+                   U X - X - - - - -
+               GUEST - S - - - - - -
+                HTTP - O - - - - - -
+             MESSAGE - - - O - - - -
+                 ASK - - - - X - - -
+           APT-CACHE - - - - X - - -
+              POLICY - - - - X - - -
+             PACKAGE - - - - X - - -
+DEBCONF-GET-SELECTIONS - - - - X - - -
+        DEBCONF-SHOW - - - - X - - -
+                 MAN - - - - - X X -
+             DEBCONF - - - - - X X -
+                  -K - - - - - - X -
+                  DB - - - - - - - X

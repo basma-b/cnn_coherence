@@ -1,0 +1,20 @@
+                 PCI X - - - - - -
+              DEVICE O - - - - - -
+                TYPE - X - - - - -
+                 NIC - X - - - - -
+               LSPCI - - S - - - -
+             NETWORK - - S - - - -
+                CARD - - O - - - -
+          CONTROLLER - - S - - - -
+            BROADCOM - - S - - - -
+         CORPORATION - - S - - - -
+            WIRELESS - - S - - - -
+                 LAN - - S - - - -
+            IFCONFIG - - S - - - -
+                ETH1 - - S - - - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - X - - - -
+            COMPUTER - - O X - - -
+              REBOOT - - - - X - -
+                 TRY - - - - X - -
+                THNX - - - - - X -
+                HEAD - - - - - - X

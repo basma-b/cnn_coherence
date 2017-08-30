@@ -1,0 +1,27 @@
+            WIRELESS X - - - - - - - - - - -
+             NETWORK X - - - - - - - - - - -
+              DEVICE X - - - - - - - - - - -
+               WLAN0 X - S - - - - - - - - -
+             REQUEST O - - - - - - - - O - -
+             DEFAULT X - - - - - - - - - - -
+             SYSTEM- - X - - - - - - - - - -
+                   > - S - - - - - - - - - -
+     ADMINISTRATION- - X - - - - - - - - - -
+                 WAY - O - - - - - - - - - -
+               GNOME - - O - - - - - - - - -
+                THIS - - O - - - - - - - - -
+/ETC/NETWORK/INTERFACE - - X - - - - - - - - -
+               IFACE - - X - - - - - - - - -
+                DHCP - - O - - - - - - - - -
+                WORK - - - - X - - - - - - -
+                THAT - - - - - O - - - - - -
+             PROBLEM - - - - - S - - - - - -
+                BOOT - - - - - X - - - - - -
+              PCMCIA - - - - - - X - - - - -
+                CARD - - - - - - X - - - - -
+            ANYTHING - - - - - - - X - - - -
+              INIT.D - - - - - - - X - - - -
+                 HAV - - - - - - - - S - - -
+             HOTPLUG - - - - - - - - - X - -
+             DEVICES - - - - - - - - - S - -
+                  AP - - - - - - - - - O - -

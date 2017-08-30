@@ -1,0 +1,17 @@
+             NETWORK O O - - -
+               WINPC S - - - -
+              ROUTER X S X - -
+                 LAN X - - - -
+                WLAN X - - - -
+           COMPUTERS - S - - -
+              SUBNET - X - - -
+             ADDRESS - - S - -
+                WORK - - X - -
+               RANGE - - O - -
+                  IE - - S - -
+       192.168.2.101 - - S - -
+               CHMOD - - - - S
+              SCRIPT - - - - X
+                NAME - - - - X
+                   > - - - - O
+               SHELL - - - - X

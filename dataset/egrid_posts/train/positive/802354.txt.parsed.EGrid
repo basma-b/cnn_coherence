@@ -1,0 +1,14 @@
+  ADD-APT-REPOSITORY X S - - - -
+            QUESTION O - - - - -
+               10.10 X - - - - -
+                LINE X O - - - O
+        SOURCES.LIST X - - - - -
+               START O - - - - -
+                 DEB X - - - - -
+               10.04 - X - - - -
+                FILE - - - O - -
+/ETC/APT/SOURCES.LIST.D/ - - - X - -
+                 MAN - - - - X -
+                PAGE - - - - X -
+                THAT - - - - - X
+             REQUEST - - - - - X

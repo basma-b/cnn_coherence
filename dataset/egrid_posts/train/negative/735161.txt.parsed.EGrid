@@ -1,0 +1,35 @@
+          /ETC/MYSQL X - - X -
+             PACKAGE S - - - -
+              REMOVE O - - - -
+              MYSQLD - X - - -
+               MYSQL - - S X -
+              CLIENT - - O - -
+              SERVER - - O X -
+              OUTPUT - - O - -
+                  PS - - X - -
+                GREP - - X - -
+                 USE - - O - -
+                ROOT - - X S -
+                HTTP - - O - -
+//PASTIE.ORG/1053430 - - X - -
+   /ETC/INIT.D/MYSQL - - S - -
+               IDEAS - - O - -
+            LOCATION - - - X -
+              ACCESS - - - S -
+             MESSAGE - - - S -
+                USER - - - X -
+                NAME - - - O -
+              SOCKET - - - X -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK - - - X -
+                STAT - - - O -
+                FILE - - - O O
+           DIRECTORY - - - X -
+               CHECK - - - S -
+              BACKUP - - - - X
+               BUNCH - - - - O
+               FLASH - - - - X
+               DRIVE - - - - X
+             ARCHIVE - - - - X
+             MANAGER - - - - S
+                .ZIP - - - - X
+           SOMETHING - - - - O

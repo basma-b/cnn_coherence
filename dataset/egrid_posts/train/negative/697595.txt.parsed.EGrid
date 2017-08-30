@@ -1,0 +1,12 @@
+           PARTITION X - - - -
+              FORMAT O - - - -
+           HARDDRIVE X - - - -
+              SERVER - X - - -
+                 USE - O - - -
+              BACKUP - X - - -
+               SHARE - X - - -
+                FILE - - X - -
+             FOLDERS - - S - -
+            EVERYONE - - X - -
+  /PATH/TO/DIRECTORY - - - X -
+              THANKS - - - - X

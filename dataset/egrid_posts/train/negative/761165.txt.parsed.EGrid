@@ -1,0 +1,17 @@
+                SIZE X - - - -
+           PARTITION X - - - -
+              FORMAT X - - - -
+             COMMAND X - - - -
+                LINE X - - - -
+                THAT - X - - -
+             GPARTED - S - - -
+                  -L - O - - -
+              OUTPUT - O - - -
+               BLOCK - X - - -
+               MB/GB - X - - -
+             PROGRAM - - O - -
+                PAGE - - X - -
+                THIS - - - X -
+//HELP.UBUNTU.COM/COMMUNITY/INTERNET/CONNECTIONSHARING - - - X -
+         ACTION=SHOW - - - - X
+REDIRECT=INTERNETCONNECTIONSHARING - - - - X

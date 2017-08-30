@@ -1,0 +1,18 @@
+                   X X - - - - - - -
+              BREEZY X - X - - - - -
+                 THX - O - - - - - -
+               TOPIC - - S - - - - -
+                LOOK - - X - - - - -
+                  .. - - X - - - - -
+              KERNEL - - - X - - - -
+              SOURCE - - - X - - - -
+             PACKAGE - - - S - - - -
+             2.6.11. - - - X - - - -
+                 URL - - - O - - - -
+                HTTP - - - - - X X -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_PACKAGES.PL - - - - - X - -
+KEYWORDS=LINUX-IMAGE - - - - - - X -
+      SEARCHON=NAMES - - - - - - X X
+//PACKAGES.UBUNTU.COM/CGI-BIN//SEARCH_PACKAGES.PL - - - - - - X -
+        RELEASES=ALL - - - - - - - X
+KEYWORDS=LINUX-SOURCE - - - - - - - X

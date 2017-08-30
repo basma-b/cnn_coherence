@@ -1,0 +1,23 @@
+       ACTIONPARSNIP S - - - -
+               ALIAS O - - - -
+              SOURCE X - - - -
+             .BASHRC S - - - -
+                TERM X - - - -
+               GUAKE - S - - -
+             PROMISE - O - - -
+         PREFERENCES - - S - -
+            SHORTCUT - - O - -
+                 LOG - - - X -
+              DEAMON - - - - S
+                  PS - - - - X
+               |GREP - - - - X
+                ZEIT - - - - S
+         POSSIBILITY - - - - O
+                  RW - - - - O
+     ACTIVITY.SQLITE - - - - X
+~/.LOCAL/SHARE/ZEITGEIST/ACTIVITY.SQLITE - - - - O
+                HMOD - - - - X
+                 +RW - - - - S
+    PYTHON-ZEITGEIST - - - - X
+      ZEITGEIST-CORE - - - - X
+                 YUP - - - - X

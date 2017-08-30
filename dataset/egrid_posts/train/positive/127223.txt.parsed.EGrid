@@ -1,0 +1,35 @@
+                XORG S - - - - - - - - - - - - - - - -
+                WORK O - - O - - - - - - - - X - - - -
+               ERROR X - - - - - - - - - - - - - - - -
+            MISMATCH X - - - - - - - - - - - - - - - -
+              NVIDIA X X - - - - - - - - - - - - - - -
+              KERNEL X - - - - - - - - S - - - - - - -
+              MODULE S - - - - - - - - - - - - X - - -
+             VERSION O - - - - - - - - - - - - - - - -
+                   X X - - - - - - - - - - - - - - - -
+             MODULES - X - - - - - - - - - - - - - - -
+             PACKAGE - - O - - - - - - S - - - - - - -
+             DISPLAY - - - X - - - - - - - - - - - - -
+             PURPOSE - - - - - X - - - - - - - - - - -
+               SETUP - - - - - - X - - - - - - - - - -
+            TWINVIEW - - - - - - X - - X - - - - - - -
+              PEOPLE - - - - - - - S - - - - - - - - -
+            HARDWARE - - - - - - - O - X - S - - - - -
+                THAT - - - - - - - - - S - O - - - - -
+                 BUG - - - - - - - - - X - - - - - - -
+              REPORT - - - - - - - - - S - - - - - - -
+             PROBLEM - - - - - - - - - O S - - - - - -
+            RESPONSE - - - - - - - - - X - - - - - - -
+                  .. - - - - - - - - - O - - - - - - -
+                 OWN - - - - - - - - - O - - - - - - -
+              PACAGE - - - - - - - - - O - - - - - - -
+                LOAD - - - - - - - - - X - - - - - - -
+              UBUNTU - - - - - - - - - - X - - - - - -
+          RESOLUTION - - - - - - - - - - X - - - - - -
+           1680X1050 - - - - - - - - - - X - - - - - -
+            QUESTION - - - - - - - - - - - - - - S - -
+             DEFAULT - - - - - - - - - - - - - - O - -
+/USR/LIB/LIBNVIDIA-TLS.SO.1.0.8178 - - - - - - - - - - - - - - X - -
+                 ONE - - - - - - - - - - - - - - - X -
+                 .KO - - - - - - - - - - - - - - - X -
+/LIB/MODULES/2.6.12-10-386/KERNEL/DRIVERS/VIDEO/NVIDIA.KO - - - - - - - - - - - - - - - - X

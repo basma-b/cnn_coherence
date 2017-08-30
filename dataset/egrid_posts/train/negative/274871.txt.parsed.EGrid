@@ -1,0 +1,12 @@
+              DEVICE X O -
+                /DEV X - -
+              SCREEN O - -
+          /DEV/VIDEO - X -
+                   * - X -
+       /DEV/DRI/CARD - X -
+                THAT - - O
+               HSYNC - - S
+               RANGE - - X
+              RUNNIN - - X
+                XORG - - O
+             XFREE86 - - O

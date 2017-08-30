@@ -1,0 +1,17 @@
+                TIME O - - - - - - - -
+               TODAY O - - - - - - - -
+             NETWORK X - - - - - - - -
+                BOOT X - - - - - - - -
+             MACHINE - - - - S - - - -
+                 LAN - - - - X - - - -
+             PACKETS - - - - X - S - -
+             GATEWAY - - - - X - - - -
+              ROUTER - - - - X - - - -
+          IP_FORWARD - - - - - S - - -
+                SNAT - - - - - X - - -
+                RULE - - - - - - O - -
+                  .. - - - - - - X - -
+                   * - - - - - - - X -
+                 SRC - - - - - - - S -
+                THIS - - - - - - - - X
+           BEHAVIOUR - - - - - - - - X

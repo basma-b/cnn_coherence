@@ -1,0 +1,15 @@
+                TYPE X X -
+                GREP X - -
+             DISPLAY X - -
+             NOTHING O - -
+               SPEED S - -
+            GRAPHICS X - -
+                CARD X - -
+                   | - S -
+                 VGA - S X
+          CONTROLLER - - S
+         CORPORATION - - X
+               -LSB- - - X
+             GEFORCE - - S
+               -RSB- - - O
+                  A1 - - X

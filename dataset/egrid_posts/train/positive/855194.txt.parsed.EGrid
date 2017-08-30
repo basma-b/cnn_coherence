@@ -1,0 +1,14 @@
+             ANYBODY S - - - - -
+           SOMETHING S - - - - -
+               LSPCI X - - - - -
+                SEAT - X - - - -
+                BOOT - - X - - -
+             WINDOWS - - X - - -
+            RECOVERY - - X - - -
+                MODE - - X - - -
+                 LSI - - - - X -
+            SATA/SAS - - - - X -
+          CONTROLLER - - - - X -
+                CARD - - - - X -
+                 RUN - - - - - X
+       UPDATE-PCIIDS - - - - - X

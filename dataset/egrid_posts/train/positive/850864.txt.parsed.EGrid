@@ -1,0 +1,14 @@
+        DEPENDENCIES S -
+                  'S S -
+            SOFTWARE X -
+              CENTER X -
+             PACKAGE - O
+           INSTALLER - O
+                DPKG - X
+             COMMAND - X
+                LINE - X
+//PACKAGES.UBUNTU.COM/ONEIRIC/ALL/SOFTWARE-CENTER/DOWNLOAD - S
+                THIS - O
+          PRODUCTION - X
+             MACHINE - X
+                TEST - X

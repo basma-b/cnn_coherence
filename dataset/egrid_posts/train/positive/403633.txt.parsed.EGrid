@@ -1,0 +1,11 @@
+           DOWNGRADE X X - - -
+ FLASHPLUGIN-NONFREE X - - - -
+             PACKAGE - X - - -
+                SUDO - - X - -
+             APT-GET - - X - -
+               PURGE - - S - -
+             VERSION - - O - -
+                DPKG - - S - X
+                  -I - - X - -
+               POINT - - O - -
+                .DEB - - - - X

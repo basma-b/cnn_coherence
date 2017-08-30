@@ -1,0 +1,21 @@
+               ERROR X - - - - -
+             MESSAGE X - - - - -
+  /VAR/LIB/DPKG/LOCK - O - - - -
+            RESOURCE - X - - - -
+                   E - X - - - -
+      ADMINISTRATION - X - - - -
+           DIRECTORY - O - - - -
+      /VAR/LIB/DPKG/ - X - - - -
+             PROCESS - X - - - -
+                ROOT - - X - - -
+           PRIVILEGE - - O - - -
+                THAT - - - S - -
+              UPDATE - - - O - -
+                 RUN - - - X - -
+             PACKAGE - - - X - -
+             MANAGER - - - O - -
+                   X - - - - X -
+               -RSB- - - - - O -
+        GCONF-EDITOR - - - - - O
+/APPS/PANEL/GLOBAL/TOOLTIPS_ENABLED - - - - - O
+                CARE - - - - - O

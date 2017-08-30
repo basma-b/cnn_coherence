@@ -1,0 +1,12 @@
+               CHMOD X X - -
+                FILE X X - O
+           DIRECTORY S - - -
+              DAPPER X - - -
+                   > X - - -
+                   * S X - -
+               OWNER - O - -
+                ROOT - X - -
+               PRIVS - O - -
+                SUDO - X - -
+                THAT - - - O
+             SOMEONE - - - S

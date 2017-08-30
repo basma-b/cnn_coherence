@@ -1,0 +1,24 @@
+             COMMAND O X - - - - -
+                COPY X - - - - - -
+               PASTE X - - - - - -
+            WIRELESS S - - - - - -
+            MODPROBE - X - - - - -
+             BCM43XX - X X - - - -
+                  .. - O - - - - -
+               ERROR - - S - - - -
+/LIB/MODULES/2.6.17-10-GENERIC/KERNEL/DRIVERS/NET/WIRELESS/BCM43XX/BCM43XX.KO - - X - - - -
+           OPERATION - - X - - - -
+               FGLRX - - - X - X O
+            QUESTION - - - X - - -
+                ISNT - - - S - - -
+             PACKAGE - - - - X S -
+                WONT - - - - S - -
+              FOOBAR - - - - X - -
+             PROCESS - - - - S - -
+                .DEB - - - - O - -
+                THAT - - - - - O -
+                  -F - - - - - S -
+             PROBLEM - - - - - S -
+              ERRORS - - - - - X -
+             HISTORY - - - - - - S
+               IDEAS - - - - - - X

@@ -1,0 +1,20 @@
+                 WAY X - -
+             DRIVERS O - -
+                 ATI X O -
+              UBUNTU X - -
+             APT-GET - S -
+               FGLRX - S -
+              DRIVER - O -
+               LINUX - X -
+                REPO - X -
+           XORG.CONF - S -
+                TYPE - X -
+                 CAT - X -
+/ETC/X11/XORG.CONF|GREP - X -
+                WAIT - X -
+            GLXGEARS - X -
+           RENDERING - X -
+                THAT - - S
+                  .. - - O
+                ROOT - - X
+                GRUB - - X

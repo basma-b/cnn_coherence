@@ -1,0 +1,12 @@
+                LINK S -
+            RESOURCE O -
+                HTTP X -
+//WWW.PSYCHOCATS.NET/UBUNTU/INDEX.PHP X -
+            SPECIFIC X -
+//WWW.WEBUPD8.ORG/2011/04/THINGS-TO-TWEAK-FIX-AFTER-INSTALLING.HTML S -
+               POINT X -
+           PARTITION X X
+               SETUP S -
+              FORMAT - X
+                 ONE - O
+              UBUNTU - O

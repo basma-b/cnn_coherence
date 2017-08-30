@@ -1,0 +1,17 @@
+               ERROR X - - - -
+             MESSAGE S - - - -
+                  FS O - - - -
+                 SAY X - - - -
+            REISERFS O - O - -
+             SUPPORT O - - - -
+              KERNEL O - - - -
+         RECONFIGURE X - - - -
+             FEATURE - S - - -
+              MODULE - X - - -
+              CONFIG - - X - -
+                FILE - - S - -
+             DEFAULT - - O - -
+                GRUB - - - S -
+               RIGHT - - - O -
+                DPKG - - - - O
+               SLAPD - - - - X

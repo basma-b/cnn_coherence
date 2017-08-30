@@ -1,0 +1,16 @@
+                  -W X - - -
+         SHOWFORMAT= X - - X
+      INSTALLED-SIZE X - - S
+             PACKAGE X - O X
+                  \N X - - X
+                   | S - - -
+                 WAY X - - -
+           APT-CACHE - S - -
+         PACKAGENAME - O - -
+              OTHERS - O - -
+              REMOVE - - O -
+             ANOTHER - - S -
+               OTHER - - S -
+          DPKG-QUERY - - - X
+               TORCS - - - X
+                FILE - - - O

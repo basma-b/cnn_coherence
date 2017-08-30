@@ -1,0 +1,11 @@
+                 ISO X - - - - -
+                  CD - S - - - -
+                LOOP - X - - - -
+            FILE.ISO - O - - - -
+           DIRECTORY - X - O - -
+                CALL - X - - - -
+               MOUNT - - - S - -
+            ANYTHING - - - X - -
+                SUDO - - - - - X
+              UMOUNT - - - - - X
+          DIRECTORY/ - - - - - X

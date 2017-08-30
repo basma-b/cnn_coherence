@@ -1,0 +1,12 @@
+            COMPUTER X - - - - - - - - - - -
+                 RUN X - - - - - - - - - - -
+             TELNETD X - - - - - - - O - - -
+              TELNET - S - O - O - - - - - -
+                 SSH - - - - O - - - - - - -
+             PROCESS - - - - - S - - - - - -
+        XINETD/INETD - - - - - S - - - - - -
+               INETD - - - - - X - - - X - -
+                SUDO - - - - - - - - X - - -
+             APT-GET - - - - - - - - S - - -
+     INETUTILS-INETD - - - - - - - - - O X -
+   INETUTILS-TELNETD - - - - - - - - - - O -

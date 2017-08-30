@@ -1,0 +1,14 @@
+                 GIG X - - -
+               DRIVE O - - -
+           PARTITION X - - -
+                160S O - - -
+            SOFTWARE X X - -
+                RAID X X - -
+                120S X - - -
+                LINK - O - -
+              UBUNTU - X - -
+               MDADM - - - X
+             LEVEL=5 - - - X
+                  .. - - - X
+        RAID-DEVICES - - - X
+          RAID-DISKS - - - X

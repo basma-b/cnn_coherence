@@ -1,0 +1,12 @@
+              UBUNTU X - - X - -
+           PARTITION O X - - - -
+                GRUB S - - S - -
+               ERROR X - X S - -
+                LOAD O - - - - -
+          /BOOT/GRUB - X - - - -
+                 NOP - - S - - -
+          HYPOTHESIS - - - - - O
+               ENTRY - - - - - O
+                  OS - - - - - X
+ /BOOT/GRUB/MENU.LST - - - - - X
+               FIRST - - - - - X

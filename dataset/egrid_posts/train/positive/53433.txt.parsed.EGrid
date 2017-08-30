@@ -1,0 +1,10 @@
+                ROOT S - - - - - -
+             SWAPOFF S - - - - - -
+           /DEV/HDB3 X - - - - - -
+                 USE O O - - - - -
+               MOUNT - X - - - - -
+              OUTPUT - X - - - - -
+                LIST - O - - - - -
+                 HMM - X - - - - -
+               FAT32 - - S - - - -
+          FILESYSTEM - - O - - - -

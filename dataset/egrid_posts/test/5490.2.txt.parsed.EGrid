@@ -1,0 +1,13 @@
+              KERNEL X - - -
+               PANIC O - - -
+                SYNC X - - -
+               TIMER S - - -
+           INTERRUPT X - - -
+               TAINT O - - -
+                 RAM - X - -
+                 USE - X - -
+          MEMTEST86+ - X - -
+                 USB - X - -
+              OUTPUT - - - X
+                  -I - - - X
+      JAVA\|JRE\|JDK - - - O

@@ -1,0 +1,29 @@
+              BACKUP X - - - X - - - - -
+            DATABASE X - X - - - - - - -
+                COPY X - - - - - - - - -
+           DIRECTORY X - - - - - - - - -
+            DECISION - X - - - - - - - -
+                 USE - X - - - - - - - -
+           MYSQLDUMP - S O - - - - - - -
+              ERRORS - O - - - - - - - -
+                FILE - X - - - - - - - -
+           ERRORCODE - O O - - - - - - -
+             COMMAND - X - - - - - - - -
+               USER= - - S - - - - - - -
+           PASSWORD= - - S - - - - - - -
+TAB=/PATH/TO/BACKUP/ - - S - - - - - - -
+                MEAN - - X - - - - - - -
+    /PATH/TO/BACKUP/ - - S - S - - - - -
+               ERROR - - X - - - - - - -
+                 GOT - - X - - - - - - -
+/MEDIA/DISK/BACKUP/DATABASE/NUCLEUS_ACTIONLOG.TXT - - S - - - - - - -
+             ERRCODE - - X - - - - - - -
+              SELECT - - X - - - - - - -
+             OUTFILE - - X - - - - - - -
+                ROOT - - X - O O O X - -
+             ACCOUNT - - O - - - - - - -
+                 DIR - - - S S - - - - -
+                USER - - - X S O - - - -
+                SUDO - - - X - - - - - -
+             PROCESS - - - - - O - - - -
+              SERVER - - - - - - - O - -

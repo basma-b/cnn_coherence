@@ -1,0 +1,8 @@
+                FSCK X - -
+             UNMOUNT - X -
+           PARTITION - O -
+         /DEV/DEVICE - X -
+              NOTICE - O -
+                 WAY - - X
+              REBOOT - - X
+                   * - - O

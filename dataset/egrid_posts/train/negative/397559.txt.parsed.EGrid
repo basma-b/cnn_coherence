@@ -1,0 +1,11 @@
+      UPDATE-MANAGER X - - - -
+                MODE X - - - -
+                SUDO - X - - -
+             APT-GET - X - - -
+              UPDATE - S - - -
+             UPGRADE - S - - -
+        DISTRIBUTION - X - - -
+        DIST-UPGRADE - X - - -
+                 WAY - - - X X
+            POINTERS - - - O -
+                PART - - - X -

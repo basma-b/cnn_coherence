@@ -1,0 +1,11 @@
+             PACKESG X - - - -
+             PACKAGE - - X - -
+                SUDO - - X X -
+               PURGE - - X - -
+         PACKAGENAME - - S - -
+             CONFIGS - - X - -
+                 ETC - - O - -
+             APT-GET - - - X -
+          AUTOREMOVE - - - S -
+        DEPENDENCIES - - - O -
+              SMABA4 - - - - O

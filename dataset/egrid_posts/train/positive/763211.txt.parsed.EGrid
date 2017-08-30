@@ -1,0 +1,16 @@
+                 NFS S - - - - X S - -
+              EXPORT X - - - - - - - -
+            /SRV/NFS O - - - - - - - -
+             CLIENTS - S - - X X - - -
+              FOLDER - O - - - - - - -
+               FILES - - S - - - - - -
+               SHARE - - O - - - - - -
+     /SRV/NFS/MOVIES - - - S X - - - -
+          MOUNTPOINT - - - O - - - - -
+               DRIVE - - - X - - - - -
+             CONTENT - - - - S X - - -
+           DIRECTORY - - - - S - - - -
+                VIEW - - - - - X - - -
+         MOUNTPOINTS - - - - - X O - -
+                 YES - - - - - - X - -
+          SAMUS_ARAN - - - - - - - - S

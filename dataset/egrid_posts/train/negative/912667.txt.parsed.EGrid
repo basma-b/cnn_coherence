@@ -1,0 +1,10 @@
+               -LSB- S - - -
+            CONFLICT S - - -
+       SND-USB-AUDIO X - - -
+              MODULE X X - -
+                LOAD S - O -
+               AUDIO - - X -
+              DRIVER - - O -
+       SND_USB_AUDIO - - X -
+              DEVICE - - O -
+              THINGS - - - O

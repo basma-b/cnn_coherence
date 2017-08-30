@@ -1,0 +1,16 @@
+                FILE X - - - - - X
+                USER O O O O O - -
+               RIGHT X - - - - - X
+                SUDO - O - O - - -
+             SUDOERS - X - - - - -
+               GROUP - - X - X X -
+                 ALL - - - - - X -
+            DEPEENDS - - - - - X -
+        /ETC/SUDOERS - - - - - X -
+                 ETC - - - - - X -
+                   % - - - - - X -
+                ALL= - - - - - O -
+                DUDE - - - - - O -
+              CHANGE - - - - - - S
+                TALK - - - - - - O
+               TOTEM - - - - - - X

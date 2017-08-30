@@ -1,0 +1,11 @@
+             PACKAGE X - - - -
+              SOURCE X - - - -
+              CUSTOM X - - - -
+       CONFIGURATION X - O - -
+                 GTK - O - - -
+            BROADWAY - X - - -
+             BACKEND - X - - -
+      SOURCE-PACKAGE - - O - -
+               PATCH - - X - -
+   INSTALLATION-STEP - - X - -
+        DEBIAN/RULES - - - - X

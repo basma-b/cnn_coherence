@@ -1,0 +1,10 @@
+                PART O - - -
+               FLASH X - - -
+               DRIVE X - - -
+               ERROR O - - -
+            /DEV/SDB X - - -
+                  DD - X - -
+        IF=/DEV/ZERO - X - -
+         OF=/DEV/SDB - O - -
+              FORMAT - X - -
+                  NP - - - X

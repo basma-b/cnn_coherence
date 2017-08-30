@@ -1,0 +1,5 @@
+                SUDO X -
+              RFKILL S -
+                 ALL O -
+               BLOCK X -
+               REPOS - S

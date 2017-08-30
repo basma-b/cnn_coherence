@@ -1,0 +1,15 @@
+             LOCALES O - S - -
+              EFFECT - O - - -
+/VAR/LIB/LOCALES/SUPPORTED.D/LOCAL - - X - -
+            INSTANCE - - X - -
+               UTF-8 - - O - -
+                FILE - - X - -
+                 SET - - X - -
+            LANGUAGE - - O - -
+                LANG - - O - -
+    /ETC/ENVIRONMENT - - X - -
+              LOCALE - - S - -
+          EVERYTHING - - S - -
+                   C - - X - O
+              LC_ALL - - X - S
+              OTHERS - - - - X

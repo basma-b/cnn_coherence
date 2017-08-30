@@ -1,0 +1,25 @@
+            PROBLEMS S - - - - -
+         PERMISSIONS S O - - - -
+        DEVICE-NODES X - - - - -
+            /DEV/SG1 S - - - - -
+               CDROM O - - - - -
+               GROUP X - - - - -
+                ROOT X - - X - -
+/ETC/UDEV/RULES.D/PERMISSION X - - - - -
+                THER S - - - - -
+              DEVICE S X - - - -
+                LIST O - - - - -
+                CLUE O - - - - -
+             DEV/SG0 X - - - - -
+                THIS S - - - - -
+             CONCERN O - - - - -
+               MOUNT X - - - - -
+               POINT X X - - - -
+                NODE - X - - - -
+              CHANGE - X - - - -
+               ENTRY - X - - - -
+                BURN - - X - - -
+               THING - - S - - -
+                SUDO - - - X - -
+                   * - - - X - -
+               ERROR - - - - X -

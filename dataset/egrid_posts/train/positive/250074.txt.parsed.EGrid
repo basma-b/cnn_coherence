@@ -1,0 +1,18 @@
+                HELP O - - - - - - - - - - - - -
+             APT-GET S - - - - - - - - - - - - -
+               TOUCH X - - - - - - - - - - - - -
+/VAR/LIB/DPKG/STATUS X - - - - - X - - - X - - -
+              UPDATE S - - - - - - - X - - - - -
+                UNOP O - - - - - - - - - - - - -
+                BOTH X - - - - - - - - - - - - -
+                TIME - - - - - X - - - - - - - -
+                  'S - - - - - - S - - - - - - -
+                 CAT - - - - - - X - - - X - - -
+              RETURN - - - - - - X - - - - - - -
+            ANYTHING - - - - - - O - - - X - - -
+                  .. - - - - - - - X X X - - - -
+            SOFTWARE - - - - - - - - X - - - - -
+              SYSTEM - - - - - - - - - X - - - -
+              RESULT - - - - - - - - - - - X - -
+              STATUS - - - - - - - - - - - - - X
+            DATABASE - - - - - - - - - - - - - O

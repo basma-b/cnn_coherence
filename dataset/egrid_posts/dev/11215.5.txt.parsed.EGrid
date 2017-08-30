@@ -1,0 +1,17 @@
+                  CP S - - - -
+                COPY O - - - -
+                TYPE X - X - -
+           SOMETHING O - - - -
+                BASH X - - - -
+             COMMAND O - - - -
+               INPUT X - - - -
+                FILE O - - - -
+               PIECE O - - - -
+            INSTANCE - X - - -
+                   < - S - - -
+                   > - X - - -
+           DIRECTORY - - X - -
+                NAME - - O - -
+                USER - - - X -
+             ANOTHER - - - X -
+                LUCK - - - - X

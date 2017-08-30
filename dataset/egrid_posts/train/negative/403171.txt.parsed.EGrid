@@ -1,0 +1,13 @@
+               STUMP X - - -
+          PERMISSION S - - -
+                ROOT X X - -
+                FILE S - - -
+                 NFS X X - -
+           PARTITION X - - -
+                  .. O - - -
+              CONFIG X - - -
+             SERVERS - S - -
+         PERMISSIONS - O - -
+        /ETC/EXPORTS - X - -
+               SHELL - - - X
+                 NOW - - - X

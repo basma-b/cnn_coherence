@@ -1,0 +1,8 @@
+                TEXT X - - - - -
+                MODE X - - - - -
+                BOOT - - X - - -
+                TTYS - - X - - -
+          CRTL+ALT+F - - X - - -
+                   A - - - - - X
+                SUDO - - - - - X
+             TELINIT - - - - - X

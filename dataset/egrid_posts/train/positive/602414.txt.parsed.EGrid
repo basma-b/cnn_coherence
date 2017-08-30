@@ -1,0 +1,32 @@
+                HTTP X - - - - - - - -
+//GIT.ALSA-PROJECT.ORG/ X - - - - - - - -
+  P=ALSA-KMIRROR.GIT - X - - - - - - -
+              A=BLOB - X - - - - - - -
+F=DOCUMENTATION/ALSA-CONFIGURATION.TXT - X - - - - - - -
+H=F9D11140AF913C95D317963D9B0C1BD672A881EF - X - - - - - - -
+HB=AE889D6F764559932485BE23E6AD2744164FC9D1 - S - - - - - - -
+                 SEE - X - - - - - - -
+DOCUMENTATION/SOUND/ALSA/HD-AUDIO.TXT - O - - - - - - -
+              DETAIL - X - - - - - - -
+            HD-AUDIO - X - - - - - - -
+              DRIVER - X - - - - - - -
+               CODEC - - S - - - - - -
+               TABLE - - O - - - - - -
+      CONFIGURATIONS - - X - - - - - -
+             MACHINE - - - S - - - - -
+                LIST - - - O - - S - -
+             DEFAULT - - - X - - - - -
+       CONFIGURATION - - - S - - - - -
+               MODEL - - - - O O X - -
+                   < - - - - X - - - -
+                NAME - - - - X - - - -
+                   > - - - - X - - - -
+              OPTION - - - - O - - - -
+                CASE - - - - X - - - -
+               THERE - - - - - S - - -
+                CHIP - - - - - X - - -
+ HD-AUDIO-MODELS.TXT - - - - - - X - -
+                TEXT - - - - - - X - -
+             PACKAGE - - - - - - - X -
+            COMPUTER - - - - - - - - X
+              ACCORD - - - - - - - - X

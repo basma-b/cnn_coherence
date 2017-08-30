@@ -1,0 +1,30 @@
+UPGRADE-AMD64-NVIDIA6100 X - - - -
+              DRIVER X - - - -
+                LIST O - - - -
+            HARDWARE X - - - -
+             DRIVERS X - X - -
+                MENU X - - - -
+              NVIDIA - X S - -
+                  PC - O - - -
+                LOGO - O - - -
+             DISPLAY - X - - -
+       CONFIGURATION - X X - -
+              WIZARD - X - - -
+                  NV - - X - -
+                STEP - - O - -
+                VESA - - O - -
+              RESULT - - X - -
+             800X600 - - X - -
+             MANAGER - - X - -
+                HTTP - - X - -
+//WWW.PASTEBIN.ORG/43041 - - S - -
+                XORG - - S - -
+                 RUN - - S - -
+               THERE - - S - -
+ /VAR/LOG/XORG.0.LOG - - O - -
+           SOMETHING - - O - -
+             SEVERAL - - - O -
+          XORG.9.LOG - - - X -
+         XORG.20.LOG - - - X -
+                NAME - - - - X
+             PROGRAM - - - - X

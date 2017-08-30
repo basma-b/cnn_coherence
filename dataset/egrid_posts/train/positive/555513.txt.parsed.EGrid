@@ -1,0 +1,22 @@
+           INTERFACE X X - - - S - - - -
+                  IP X - - - - - - - - -
+               LOGIN - X - - - - - - - -
+             MACHINE - X - - - - - - - -
+/ETC/NETWORK/INTERFACES - - O X - - - - - -
+            IFCONFIG - - X - - - - - - -
+             COMMAND - - O - - - - - - -
+                 ALL - - S - - - - - - -
+                ETH0 - - - X O - - - - -
+                AUTO - - - X X - - - - -
+                LINE - - - O - - - - - -
+                HERE - - - - S - - - - -
+             EXAMPLE - - - - O - - - - -
+                MINE - - - - X - - - - -
+             ADDRESS - - - - X - - - - -
+             NETWORK - - - - - X - - - -
+             MANAGER - - - - - S - - - -
+            CONFLICT - - - - - - S - - -
+          INTERFACES - - - - - - X - - -
+            SETTINGS - - - - - - X - - -
+               SENSE - - - - - - - O - -
+                TIME - - - - - - - - O -

@@ -1,0 +1,21 @@
+            MODPROBE X - - - - - -
+               FATAL X - - - - - -
+               ERROR X O - - X - -
+              INSERT X - - - - - -
+           HW_RANDOM X - - - - - -
+              DEVICE X - - - - - -
+             INITIAL S - - - - - -
+                  CD O - - - - - -
+              SYSTEM O - - - - - S
+              REBOOT - X - - - - -
+              ANYONE - - S - - - -
+                CLUE - - O - - - -
+               KOSAI - - - X - - -
+               WATER - - - X - - -
+                BIOS - - - - X - -
+                P2.4 - - - - X - -
+                   G - - - - X - -
+               HTTPS - - - - X - -
+//BUGZILLA.UBUNTU.COM/SHOW_BUG.CGI - - - - X - -
+             ID=1552 - - - - - X -
+                BOOT - - - - - - X

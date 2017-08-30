@@ -1,0 +1,14 @@
+                THIS S - - X
+           OWNERSHIP - O - -
+                FILE - X - -
+                ROOT - X - -
+               GROUP - - S O
+                USER - - O X
+                  TY - - X -
+           DIRECTORY - - - X
+                BOTH - - - O
+                  -R - - - O
+              FOLDER - - - X
+               CHMOD - - - X
+                JRIB - - - X
+           .NEWGROUP - - - X

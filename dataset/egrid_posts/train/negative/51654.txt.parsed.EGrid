@@ -1,0 +1,24 @@
+           CONFIGURE O - - - - - - - -
+              KERNEL X - - X O - O - -
+               IMAGE X - - - - - - - -
+              BUNDLE O - - - - - - - -
+              UBUNTU X - - - - - - - -
+                BOOT X - - - X - - - -
+               ERROR O - - - - - - - -
+              INITRD X - - - - - - - -
+                LINE - - O - - - - - -
+/BOOT/INITRD.IMG-2.5.10-5-386 - - S - - - - - -
+             ANYBODY - - X - - - - - -
+                MEAN - - X - - - - - -
+          /SBIN/INIT - - X - - - - - -
+              DEVICE - - S - - - - - -
+               PANIC - - - S - - - - -
+                SYNC - - - X - - - - -
+                UNIT - - - O - - - - -
+                THAT - - - - O - S - -
+                UDEV - - - - - X - - -
+             PROBLEM - - - - - S - - -
+               SARGE - - - - - X - - -
+              DEVEDE - - - - - - - - O
+              VIDEOS - - - - - - - - O
+               VIDEO - - - - - - - - X

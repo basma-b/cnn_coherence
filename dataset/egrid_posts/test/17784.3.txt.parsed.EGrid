@@ -1,0 +1,11 @@
+                  .. S - - -
+                SDA1 X X - -
+                FILE - O - -
+                SDB5 - O - -
+       /OPT/FILENAME - X - -
+             SYMLINK - O - -
+                  LS - - X -
+                  -L - - S -
+                  F2 - - - X
+                TYPE - - - X
+             RELOGIN - - - O

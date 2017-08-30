@@ -1,0 +1,16 @@
+               CLEAN O - - - - -
+               PLACE O - - - - -
+                DATA X - - - - -
+                 ALL - O - - - -
+        CONVERSATION - X - - - -
+              UPDATE - X - - - O
+      PACKAGEMANAGER - X - - - -
+                  -D - S - - - -
+                THIS - O - - - -
+             COMMENT - O - - - -
+                THAT - - S - - -
+             COMMAND - - X X - -
+                 USE - - - X - -
+             APT-GET - - - - - X
+             UPGRADE - - - - - O
+                SUDO - - - - - X

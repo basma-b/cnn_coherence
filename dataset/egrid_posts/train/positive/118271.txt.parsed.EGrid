@@ -1,0 +1,17 @@
+                HMMM S - - - - - - - - - - - - - -
+              ANYONE X - - - - - - - - - - - - - -
+            ANYTHING O - - - - - - - - - - - - - -
+            SCANNERS X - - - - - - - - - - - - - -
+             PACKAGE - - - - - - - - - O - - - - -
+            BACKENDS - - - - - - - - - O - - - - -
+                SANE - - - - - - - - - X - - - - -
+           SCANIMAGE - - - - - - - - - S - - - - -
+         ENVIRONMENT - - - - - - - - - - X - - - -
+           VARIABLES - - - - - - - - - - X - - - -
+    VAR=/HOME/RABBIT - - - - - - - - - - - O - - -
+                VAR= - - - - - - - - - - - X - - -
+        /HOME/RABBIT - - - - - - - - - - - O - - -
+                BOOT - - - - - - - - - - - - X - -
+                 END - - - - - - - - - - - - - - X
+    /ETC/BASH.BASHRC - - - - - - - - - - - - - - X
+       PATH=/LOL/ASL - - - - - - - - - - - - - - O

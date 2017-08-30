@@ -1,0 +1,10 @@
+          OPERATIONS O - - - -
+             PACKAGE X - - - -
+                 MPD X O - O -
+               ERROR X - - - -
+       /ETC/MPD.CONF S - - S -
+                 SET O - - - -
+              DAEMON O - - - -
+            MPD.CONF - - - S -
+                SUDO - - - X -
+               TOUCH - - - X -

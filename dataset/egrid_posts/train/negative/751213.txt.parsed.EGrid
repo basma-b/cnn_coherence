@@ -1,0 +1,10 @@
+            NOTATION S - - - -
+             ADDRESS X - - - -
+               RANGE X - - - -
+      192.168.1.0/24 - X - - -
+   HTTPD.CONF.SAMPLE - - - O -
+          HTTPD.CONF - - - X -
+              GKSUDO - - - - X
+               GEDIT - - - - X
+/ETC/APACHE2/SITES-ENABLED/000-DEFAULT - - - - S
+               ENTRY - - - - O

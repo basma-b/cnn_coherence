@@ -1,0 +1,10 @@
+                USER S X -
+                 NFS X - -
+               SHARE O - X
+                SUID - S -
+                FLAG - O -
+               FSTAB - X X
+              SETUID - X -
+                 APP - O -
+                ARGS - O -
+             MACHINE - - X

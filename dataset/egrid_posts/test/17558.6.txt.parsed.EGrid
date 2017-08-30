@@ -1,0 +1,17 @@
+      192.168.1.0/24 S - - -
+             NETWORK X - - -
+             NETMASK O - - -
+       CIDR-NOTATION X - - -
+                HTTP O - - -
+         192.168.0.0 O - - -
+     192.168.255.255 X - - -
+      192.168.0.0/16 O - - -
+              REASON - - S -
+                 LOT - - O -
+                 DOS - - X -
+              ATTACK - - X -
+             UKRAINE - - X -
+               RANGE - - X -
+                LUCK - - O -
+                THAT - - - S
+               UNITY - - - X

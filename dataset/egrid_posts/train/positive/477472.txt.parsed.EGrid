@@ -1,0 +1,17 @@
+             COMMAND X - - - - -
+             PICTURE S - - - - -
+           .PPM|.JPG X - - - - -
+             DEFAULT X - - - - -
+                NONE X - - - - -
+            FILENAME S - - - - -
+            ARGUMENT X - - - - -
+                WPUT - X - - - X
+                 FTP - X - - - X
+          //USERNAME - X - - - X
+            PASSWORD - X - - - X
+              SERVER - X - - - X
+                   % - X - - - X
+                FILE - S - - - -
+               DELAY - - - X - -
+              MOTION - - - - X -
+              SYNTAX - - - - - O

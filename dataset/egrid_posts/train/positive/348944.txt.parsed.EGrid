@@ -1,0 +1,16 @@
+             COMMAND S - - - S
+/PROC/SYS/NET/IPV4/IP_FORWARD O - - - -
+            IPTABLES X - - - X
+                 NAT X - - - -
+                  -A S - - - -
+          MASQUERADE S - - - -
+             STARTUP X - - - -
+    /ETC/SYSCTL.CONF X - - - -
+                LOOK O - - - -
+                FILE X - - X -
+             COMMENT X - - - -
+                PART O - - - -
+              ENTERY O - - - -
+             EARLYER O - - - -
+                THAT - X - - -
+              LAUNCH - X - - -

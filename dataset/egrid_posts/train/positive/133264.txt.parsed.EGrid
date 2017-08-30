@@ -1,0 +1,11 @@
+                THAT X - - - -
+         SUPERBLOCKS S - O - -
+              FORMAT X X - - -
+                DATA - - S S -
+           PARTITION - - - X -
+                  .. - - - X -
+          SUPERBLOCK - - - S -
+                COPY - - - O -
+             CLOBBER - - - O -
+           FSCK.EXT2 - - - X -
+                OKAY - - - - X

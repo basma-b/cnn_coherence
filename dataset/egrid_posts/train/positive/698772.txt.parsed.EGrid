@@ -1,0 +1,11 @@
+ /BOOT/GRUB/MENU.LST X - - - - - -
+             VERSION - X - - - - -
+                NAME - - X - - - -
+   /ETC/DEFAULT/GRUB - - O - - - -
+                GRUB - - - - O X -
+           SLACKWARE - - - - - O -
+               GUIDE - - - - - S -
+             DEFAULT - - - - - X -
+                LILO - - - - - X -
+               RIGHT - - - - - X -
+                  OK - - - - - - X

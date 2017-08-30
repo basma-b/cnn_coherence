@@ -1,0 +1,16 @@
+           DIRECTORY X O - -
+               MOUNT - X - -
+              DIVICE - S - -
+               POINT - X - -
+                CASE - X - -
+                  .. - X - O
+               STORY - - X -
+              SCRIPT - - S -
+            TUTORIAL - - - S
+                SUDO - - - X
+             APT-GET - - - S
+    LIBGNOME2-COMMON - - - X
+       LIBGTK2.0-DEV - - - X
+      LIBWNCK-COMMON - - - X
+         PYTHON-GTK2 - - - O
+        GNOME-COMMON - - - X

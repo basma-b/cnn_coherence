@@ -1,0 +1,18 @@
+             NOTHING S -
+                 TAB X -
+               MOUSE S -
+                 WAY X X
+               LEAVE X -
+                 USE - S
+           GSETTINGS - X
+               STORE - X
+            SETTINGS - O
+              CHANGE - X
+            OVERRIDE - O
+               THERE - S
+             MONITOR - O
+~/.CONFIG/MONITORS.XML - S
+/VAR/LIB/LIGHTDM/.CONFIG - X
+                WORK - O
+                KIND - O
+         UPSIDE-DOWN - X

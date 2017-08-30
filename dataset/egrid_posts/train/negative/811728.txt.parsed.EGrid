@@ -1,0 +1,15 @@
+                   $ O - -
+                 DNS O - -
+                 LAN X - -
+              SERVER X - -
+             WEBAPPS O - -
+            INTERNET X - -
+                  IE X - -
+               STUFF X O -
+      WEBAPP.FOO.COM - X -
+                ZONE - O -
+                 SOA - X -
+              A/AAAA - X -
+              RECORD - O -
+                 DEB - - X
+                FILE - - X

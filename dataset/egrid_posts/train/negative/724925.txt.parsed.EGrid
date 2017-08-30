@@ -1,0 +1,23 @@
+                 ALL X - - - - - -
+             PROBLEM O - - - - - -
+               10.04 X - - - - - -
+                TIME - O - - - - -
+              KERNEL - S - - - - -
+             DEVICES - O - - - - -
+               SOUND - X - - - - -
+              OUTPUT - X - - - - -
+         PREFERENCES - X - - - - -
+                ISNT - S - - - - -
+                CANT - X - - - - -
+            SHUTDOWN - X X - - - -
+                SUDO - X - - - X -
+                  -R - O - - - - -
+               IDEAS - X - - - - -
+               LOGIN - - - X - - -
+              SCREEN - - - X - - -
+          PULSEAUDIO - - - O - - -
+                   > - - - - - X -
+             APT-GET - - - - - S -
+LIBSDL1.2DEBIAN-PULSEAUDIO - - - - - O -
+                  NP - - - - - - X
+                   P - - - - - - X

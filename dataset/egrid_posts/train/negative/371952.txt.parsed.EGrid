@@ -1,0 +1,10 @@
+               INPUT X - - -
+        /ETC/SUDOERS X - - -
+                USER S - - -
+              SYNTAX - X - -
+             PROGRAM - O - -
+              ERRORS - X - -
+                SUDO - S - -
+                GRUB - - X S
+                 ESC - - - O
+             LUNATIC - - - X

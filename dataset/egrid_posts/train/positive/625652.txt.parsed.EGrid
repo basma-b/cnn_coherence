@@ -1,0 +1,10 @@
+         INVOKE-RC.D S - - - - - -
+                STOP X - - - - - -
+               INETD - - S - - - -
+         /USRB/SBIN/ - - X - - - -
+             PROBLEM - - O - - - -
+           DIRECTORY - - - X - - -
+                CALL - - - X - - -
+               /USRB - - - O - - -
+                PATH - - - - - X O
+            VARIABLE - - - - - X -

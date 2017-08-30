@@ -1,0 +1,12 @@
+              ANYONE X - - -
+                 VFS S - - -
+                SYNC X - - -
+                ROOT X - - -
+                  FS O - - -
+              KERNEL X - - -
+               PANIC O - - -
+                BOOT X - - -
+              STRING - S - -
+         ENVIRONMENT - - - O
+            INSTANCE - - - X
+              UBUNTU - - - X

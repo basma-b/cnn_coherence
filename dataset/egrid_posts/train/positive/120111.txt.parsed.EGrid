@@ -1,0 +1,25 @@
+             TROUBLE X - - - - - - - - - -
+                TIME - X - - - - - - - - -
+                 ATI - X - - - X - - - - -
+            GRAPHICS - X - - - - - - - - -
+                CARD - X - - - - - - - - -
+              DRIVER - X - - - O - - - - -
+           XORG.CONF - O - - - - - - - - -
+                WONT - X - - - - - - - - -
+                LOAD - S - - - - - - - - -
+            MODPROBE - O - - - - - - - - -
+               FGLRX - X - - - - - - O - -
+                DONT - - S - - - - - - - -
+              README - - S - - - - - - - -
+               HOWTO - - O - - - - - - - -
+               HTTPS - - - - X - - - - - -
+//WIKI.UBUNTU.COM/BINARYDRIVERHOWTO/ATI - - - - X - - - - - -
+                   % - - - - - S - - - - -
+               28ATI - - - - - X - - - - -
+            28BINARY - - - - - X - - - - -
+                SITE - - - - - X - - - - -
+               LSMOD - - - - - - S - - - -
+               THERE - - - - - - X - - - -
+                SUDO - - - - - - - - S - -
+              INSMOD - - - - - - - - - - X
+/LIB/MODULES/2.6.12-10-386/VOLATILE/FGLRX.KO - - - - - - - - - - X

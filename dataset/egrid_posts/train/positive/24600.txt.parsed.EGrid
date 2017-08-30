@@ -1,0 +1,13 @@
+                SHOW O - - - - -
+                 1GB X - - - - -
+                 RAM X - - - - -
+                REST X - - - - -
+                DONT - S - - - -
+              KERNEL - O - - - -
+                 CAT - - - X - -
+       /PROC/MEMINFO - - - X - -
+               |GREP - - - X - -
+            MEMTOTAL - - - X - -
+                  .. - - - - - X
+            /SYSINFO - - - - - S
+              FRIEND - - - - - S

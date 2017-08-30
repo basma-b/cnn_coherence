@@ -1,0 +1,13 @@
+       CONFIGURATION X - - - - -
+                FILE O - - - - -
+           ORIGINALS O - - - - -
+             PACKAGE - O - - - -
+                ORIG - X - - - -
+                CONF - S - - - -
+                MOVE - - - X - -
+              VSFTPD - - - - O -
+/ETC/INIT/VSFTPD.CONF - - - - X -
+               CHECK - - - - S -
+             APT-GET - - - - X -
+               DIDNT - - - - - X
+                WORK - - - - - X

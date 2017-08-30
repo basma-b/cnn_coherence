@@ -1,0 +1,7 @@
+                DEPS S - -
+                BIOS X - -
+           LINUXBIOS - O -
+                ROOT - X -
+              STARTX - S -
+              RADEON - - O
+              DEVICE - - X

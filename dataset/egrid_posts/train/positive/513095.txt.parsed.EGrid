@@ -1,0 +1,14 @@
+                  CD X - - - - X
+                 ISO O - - - - X
+                 CAT - X - - - -
+          /DEV/CDROM - X - - - -
+                   > - X - - - -
+            FILE.ISO - X - - - -
+                  DD - X - - - -
+       IF=/DEV/CDROM - S - - - -
+             BS=1024 - O - - - -
+               IMAGE - - - - - X
+          DIFFERENCE - - - - - X
+                 USE - - - - - O
+               VALUE - - - - - X
+             DEFAULT - - - - - X

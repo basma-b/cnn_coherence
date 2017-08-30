@@ -1,0 +1,11 @@
+                NTFS X - - - - -
+           PARTITION O - - - - -
+               ENTRY - - X X - -
+             NOTHING - - - O - -
+                VFAT - - - - - X
+                  RW - - - - - X
+                USER - - - - - X
+                AUTO - - - - - X
+               XAPPE - - - - - X
+               CHOWN - - - - - X
+               USERS - - - - - X

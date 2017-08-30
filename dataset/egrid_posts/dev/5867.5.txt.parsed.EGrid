@@ -1,0 +1,12 @@
+             COMMAND X - - -
+                FSCK S - - -
+              SYSTEM X - - -
+               CHECK O - - -
+              REBOOT X - - -
+                SUDO - S - -
+          /FORCEFSCK - O - -
+                BITE - - O -
+               YEARS - - X -
+               ISSUE - - O -
+             RESOLVE - - O -
+                  BE - - - O

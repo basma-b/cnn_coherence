@@ -1,0 +1,12 @@
+          FILESYSTEM O - - - - X
+               FSTAB X - - - O X
+                 UID X - - - - -
+                 GID X - - - - -
+            WHOMEVER X - - - - -
+               OWNER O - - - - -
+                 I.E - X - - - -
+            UID=1000 - X - - - -
+            GID=1000 - X - - - -
+           UMASK=022 - X - - - -
+               THERE - - - - - X
+                LINE - - - - - X

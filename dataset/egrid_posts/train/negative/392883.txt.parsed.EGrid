@@ -1,0 +1,9 @@
+              SCRIPT S - - - -
+             COMMAND X - - - -
+                  MV O - - - -
+               PURGE - - X - -
+             PACKAGE - - O O -
+                 USE - - - X -
+                DPKG - - - S -
+                FILE - - - - X
+               THESE - - - - X

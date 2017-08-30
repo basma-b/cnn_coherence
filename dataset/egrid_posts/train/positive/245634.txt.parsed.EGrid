@@ -1,0 +1,12 @@
+              UBUNTU S S - - -
+             MACHINE O - - - -
+             RESTART - X - - -
+               START - O - - -
+                MODE - X O - -
+                SUDO - - - X -
+         XORG-SERVER - - - S -
+DPKG-RECONFIGURE-XORG-SERVER - - - X -
+             COMMAND - - - S -
+                SAME - - - O -
+        XSERVER-XORG - - - - O
+             DEFRYSK - - - - S

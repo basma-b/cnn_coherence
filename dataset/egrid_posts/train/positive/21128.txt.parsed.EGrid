@@ -1,0 +1,12 @@
+               CDROM X - - - - - - - -
+                PICO X - - - - - - - -
+          /ETC/FSTAB X - - - - - - - -
+              EDITOR - X - - - - - - -
+              CHOICE - X - - - - - - -
+            /DEV/HDC - - X - - - X - -
+          /DEV/CDROM - - X X - - - X -
+                   S - - - X - - - - -
+                UDEV - - - - - X - - -
+                LINK - - - - - X - - -
+                MINE - - - - - - S - -
+                APPS - - - - - - - S -

@@ -1,0 +1,15 @@
+            SHUTDOWN X - - -
+             APACHE2 X - - -
+              DAEMON X - - -
+            TERMINAL X - - -
+              WINDOW X - - -
+              APACHE - X - -
+              SCRIPT - O - -
+         /ETC/INIT.D - X - -
+   /ETC/INIT.D/HTTPD - - S -
+            OVERVIEW - - O -
+                 RUN - - X -
+             PROCESS - - X -
+                TYPE - - X -
+                  PS - - X -
+           AUXW|MORE - - X -

@@ -1,0 +1,17 @@
+          BUILD-DEPS O - - - - -
+     LIBWEBKIT-1.0-2 X - - - - -
+          WEBKIT-GTK X - - - - -
+              SOURCE S - - - - -
+             PACKAGE O X O - - X
+       PYTHON-WEBKIT X - - - - -
+                THAT - S - - - -
+               LINUX - X - - - -
+              MIDORI - O - - - -
+             BROWSER - X - - - -
+              WEBKIT - X - - - -
+              ERRORS - O - - - -
+              UBUNTU - - - S - -
+/PAGES/MIDORI_SUMMARY.HTML - - - - S -
+               0.2.9 - - - - O -
+             MANAGER - - - - - X
+              MEMORY - - - - - S

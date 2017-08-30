@@ -1,0 +1,20 @@
+                PATH X - X - - -
+     /USR/LOCAL/SBIN X - - - - -
+      /USR/LOCAL/BIN X - - X - -
+           /USR/SBIN X - - X - -
+            /USR/BIN X - - X - -
+               /SBIN X - - X - -
+                /BIN X - - X - -
+          /USR/GAMES X - - S - -
+                FILE X X - - - -
+           DIRECTORY X - - - - -
+              FOLDER - - X - - -
+           ~/.BASHRC - - X - - -
+              OUTPUT - - - X - -
+                  OK - - - O - -
+             DEFAULT - - - X - -
+                 TRY - - - X - -
+              EXPORT - - - X - -
+PATH=/USR/LOCAL/SBIN - - - X - -
+                  OS - - - O - -
+            UBUNTU+1 - - - - - X

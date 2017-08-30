@@ -1,0 +1,11 @@
+             COMMAND X - -
+                LINE X - -
+             SERVICE X - -
+                 RUN - X -
+                SUDO - X -
+        /ETC/INIT.D/ - S -
+                   > - X -
+                 DVD - - X
+             ARTISTX - - X
+               CRASH - - X
+             MACHINE - - X

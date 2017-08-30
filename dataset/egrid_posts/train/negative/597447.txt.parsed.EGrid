@@ -1,0 +1,19 @@
+               SKYPE S - - - - - O S -
+              UBUNTU X - - - - - - - -
+                  HI X - - - - - - - -
+               ISSUE - X - - - - - - -
+           MEDIBUNTU - - - - - X - S -
+               RIGHT - - - - - - X - -
+                SUDO - - - - - - X X -
+                HTTP - - - - - - O O -
+//WWW.MEDIBUNTU.ORG/SOURCES.LIST.D/JAUNTY.LIST - - - - - - X O -
+OUTPUT-DOCUMENT=/ETC/APT/SOURCES.LIST.D/MEDIBUNTU.LIST - - - - - - X O -
+            TERMINAL - - - - - - X X -
+             COMMAND - - - - - - O O -
+             APT-GET - - - - - - S S -
+                 DEB - - - - - - X - -
+            NON-FREE - - - - - - X - -
+                THIS - - - - - - O - -
+                8.04 - - - - - - - O -
+                WGET - - - - - - - X -
+       FS-DRIVER.ORG - - - - - - - - X

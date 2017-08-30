@@ -1,0 +1,23 @@
+               SETUP - X X - - - - - - -
+              UBUNTU - X - - - - - - - -
+              SERVER - X S - - - - - - -
+              10.4.1 - O - - - - - - - -
+                TIME - - X - - - - - - -
+           INTERFACE - - S X X - - - - -
+             NETWORK - - X - - - - - - -
+              SCREEN - - O - - - - - - -
+             SPECIAL - - - - X - - - - -
+/ETC/NETWORK/INTERFACES - - - - - O O - - -
+          INTERFACES - - - - - O S - - -
+               GUIDE - - - - - X - - - -
+       CONFIGURATION - - - - - X - - - -
+                TOOL - - - - - O - - - -
+              ANSWER - - - - - - S - - -
+            QUESTION - - - - - - X - - -
+                  NO - - - - - - X - - -
+                BOTH - - - - - - O - - -
+             RESTART - - - - - - O - - -
+              REBOOT - - - - - - O - - -
+                 WAY - - - - - - X - - -
+            IFCONFIG - - - - - - - S - -
+                 ^^^ - - - - - - - - - X

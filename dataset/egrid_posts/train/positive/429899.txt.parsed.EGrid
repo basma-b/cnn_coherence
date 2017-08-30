@@ -1,0 +1,31 @@
+                HELP - - X - - - - - - -
+          /USR/SHARE - - X - - X - - - -
+            LOCAHOST - - X - - - - - - -
+               HTERE - - - X - - - - - -
+              CONFIG - - - X - - - - X -
+ /ETC/APACHE2/CONF.D - - - X - - - - - -
+                 YES - - - - S - - - - -
+                FILE - - - - X S - - - -
+                NAME - - - - O - - - - -
+             BROWSER - - - - O - - - - -
+                HTTP - - - - X - - X - -
+                THAT - - - - - S - - - -
+              APACHE - - - - - X - - - -
+               DIDNT - - - - - S - - - -
+                 SEC - - - - - O - - - -
+             INSTALL - - - - - O - - - -
+                WORK - - - - - - O - - -
+//LOCALHOST/PHPMYADMIN/ - - - - - - - X - -
+               POINT - - - - - - - - X -
+/ETC/APACHE2/CONF.D/PHPMYADMIN.CONF - - - - - - - - S -
+/ETC/APACHE2/CONF.D/PHPMYADMIN.CON - - - - - - - - O -
+               PASTE - - - - - - - - O -
+                LINK - - - - - - - - O -
+/ETC/PHPMYADMIN/APACHE.CONF - - - - - - - - X -
+/ETC/PHPMYADMIN/APACHE2.CONF - - - - - - - - X -
+                SUDO - - - - - - - - X -
+             APT-GET - - - - - - - - X -
+ LIBAPACHE2-MOD-PHP5 - - - - - - - - S -
+              ALREAD - - - - - - - - O -
+                BITE - - - - - - - - - X
+              THINGS - - - - - - - - - S

@@ -1,0 +1,27 @@
+             NETWORK - X - - - - - - - - - - -
+            ETHERNET - - X - - - - - - - - - -
+                  HI - - X - - - - - - - - - -
+                 ALL - - X - - - - - - - - - -
+             SOMEONE - - - X - - - - - - - - -
+               GUIDE - - - X - - - - - - - - -
+                CARD - - - S - - - - - - - - -
+/ETC/NETWORKMANAGER/NETWORKMANAGER.CONF - - - - S - - - - - - - -
+        MANAGED=TRUE - - - - O - - - - - - - -
+                FILE - - - - O O - X - - - O -
+               THING - - - - - - X - - - - - -
+                 ONE - - - - - - - O - - - - -
+             VERSION - - - - - - - X - - - - -
+               THERE - - - - - - - S S - - - -
+                MUCH - - - - - - - O - - - - -
+               -RSB- - - - - - - - - X S - - -
+                LINE - - - - - - - - O O - - -
+             PLUGINS - - - - - - - - X - - - -
+NO-AUTO-DEFAULT=00:18 - - - - - - - - O - - - -
+            FE:6A:3A - - - - - - - - O - - - -
+                  A9 - - - - - - - - O - - - -
+                THAT - - - - - - - - - S - - -
+       MANAGED=FALSE - - - - - - - - - X X - -
+                  DO - - - - - - - - - - X - -
+             SERVICE - - - - - - - - - - S X -
+     NETWORK-MANAGER - - - - - - - - - - - S -
+                 YES - - - - - - - - - - - - X

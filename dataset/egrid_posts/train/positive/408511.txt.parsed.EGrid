@@ -1,0 +1,10 @@
+                   X O - - - - -
+            TIGHTVNC X - - - - -
+                 SET - X - - - -
+               ERROR - X - - - X
+                FILE - S - - - -
+              SETUID - X - - - -
+           SOMETHING - X - - - -
+             SETGUID - O - - - -
+        XSERVER-XORG - - S X - -
+             MESSAGE - - - - - X

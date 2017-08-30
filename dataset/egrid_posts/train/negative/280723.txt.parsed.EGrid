@@ -1,0 +1,13 @@
+           UPGRADERS X - - - - - -
+                ROCK - X - - - - -
+              SYSTEM - - X - - - -
+                REQS - - X - - - -
+                DOWN - - O - - - -
+          /ETC/FSTAB - - - - X - -
+         PERMISSIONS - - - - - O -
+              UBUNTU - - - - - - S
+                WORK - - - - - - O
+                ROOT - - - - - - X
+             NETWORK - - - - - - X
+             PROCESS - - - - - - O
+              NOBODY - - - - - - S

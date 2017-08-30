@@ -1,0 +1,22 @@
+                 ALL X - - - - - - - -
+              UBUNTU O - - - - - - X -
+              SCREEN O - - - - - - - -
+                FILE - O - O - - - - X
+               QUIET - X - - - - - - -
+              SPLASH - O - - - - - - -
+              CHANGE - - X - - - - - O
+        DEFAULT/GRUB - - O - - - - - -
+             NOTHING - - X - - - - - -
+                GRUB - - - X - - - - O
+              LIVECD - - - - X - - - -
+       GRUB-MKCONFIG - - - - O O - - -
+              GENTOO - - - - X - - X -
+                DISK - - - - O - - X -
+                PATH - - - - - - X - -
+                PROG - - - - - - X - -
+               MOUNT - - - - - - - X -
+/USR/SBIN/GRUB-MKCONFIG - - - - - - - X -
+                  .. - - - - - - - S O
+                 USE - - - - - - - O -
+             PROGRAM - - - - - - - O -
+               THERE - - - - - - - - X

@@ -1,0 +1,10 @@
+             COMMAND S - - -
+              FOLDER X - - -
+                  CD - S - -
+               CNAME - - - S
+                THEN - - - X
+                ROOT - - - O
+             NETSTAT - - - X
+                -ANP - - - X
+                   | - - - X
+                GREP - - - S

@@ -1,0 +1,17 @@
+                  CD O - - - - -
+                 ISO X - - - - -
+          UNETBOOTIN O - - - - -
+                 USB X O - - - -
+              INSERT - X - - - -
+                BOOT - X - - - -
+             MESSAGE - O - - - -
+           INITRAMFS - X - - - -
+              MEDIUM - S - - - -
+          FILESYSTEM - O - - - -
+             LIVE-CD - X - - - -
+        ALTERNATE-CD - O - - - -
+               AFAIK - - S - - -
+            LIVE-CDS - - X - - -
+         USB-CREATOR - - - O - -
+         ALTERNATIVE - - - X - -
+                 YEA - - - - - X

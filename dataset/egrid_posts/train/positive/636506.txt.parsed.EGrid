@@ -1,0 +1,11 @@
+         APPLICATION S X - - -
+                BOOT O - - - -
+                 GUI - X - - -
+              MYSQLD - - - X -
+              SYSLOG - - - O -
+            DATABASE - - - X -
+              SERVER - - - X -
+               -LSB- - - - S -
+               MYSQL - - - - S
+                 LOG - - - - O
+                  .. - - - - X

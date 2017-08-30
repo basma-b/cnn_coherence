@@ -1,0 +1,17 @@
+             MESSAGE - O - - - - - - X - -
+             APT-GET - X - - - - - - - - -
+              FOOBAR - O - - - - - - - - -
+              ORIGIN - X - - - - - - X - -
+           SIGNATURE - X - - - - - - X - -
+               CHECK - S - - - - - - X - -
+                 DEB - - S - - - - - - S -
+                SIGN - - O - - - - - - - -
+               ERROR - - - X - - - - - - -
+            PACKAGER - - - - - S - - - - -
+                 PKG - - - - - O - - - - -
+             PROGRAM - - - - - O - - - - -
+              SOURCE - - - - - X - - - - -
+                FORM - - - - - X - - - - -
+          REPOSITORY - - - - - - - X - - -
+                 DAY - - - - - - - - S - -
+              DEBSIG - - - - - - - - X - -

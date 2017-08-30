@@ -1,0 +1,15 @@
+               VISTA O - - - - - -
+              LAPTOP X - - - - - -
+                GRUB - S O - - - -
+              LIVECD - - X - - - -
+              CHROOT - - O - - - -
+               ERROR - - X - - - -
+             MESSAGE - - O - - - -
+                FILE - - X - - - -
+   /BOOT/GRUB/STAGE1 - - S - - - -
+             SOMEONE - - X - - - -
+        INSTRUCTIONS - - - X - - -
+                ROOT - - - - - - X
+          PARITITION - - - - - - O
+  /MNT/ROOTPARTITION - - - - - - O
+            /DEV/SDA - - - - - - X

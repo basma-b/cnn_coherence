@@ -1,0 +1,15 @@
+              MEMORY X - - -
+               USAGE X - - -
+             PROGRAM X S - -
+                PMAP - S - -
+              SECOND - X - -
+                MESS - - - X
+             INITTAB - - - X
+                  .. - - - X
+               GETTY - - - S
+             DISPLAY - - - X
+               FBCON - - - X
+              VGACON - - - X
+              CHANCE - - - X
+                MODE - - - X
+                TTY1 - - - X

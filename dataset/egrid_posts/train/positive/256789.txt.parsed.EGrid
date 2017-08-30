@@ -1,0 +1,22 @@
+                 ALL X - - - - - -
+                FILE X - - - - - -
+              FOLDER X - - - - - -
+             EXAMPLE X X - - - - -
+                .RST X - - - - - -
+                TYPE X - - - - - -
+                .TXT X - - - - - -
+            FILE.TXT - X - - - - -
+                THAT - - X - - - -
+               BATCH - - X - - - -
+              SCRIPT - - X - - - -
+              RENAME - - - X - - X
+         /.RST/.TXT/ - - - X - - -
+                   * - - - X - - -
+               THERE - - - - S - -
+                WAYS - - - - O X -
+                THIS - - - - X - -
+                 ONE - - - - - S -
+             COMMAND - - - - - S -
+              SYNTAX - - - - - - O
+/STRINGTOREPLACE/REPLACEWITHTHIS/ - - - - - - X
+FILENAME_OR_WILDCARD - - - - - - X

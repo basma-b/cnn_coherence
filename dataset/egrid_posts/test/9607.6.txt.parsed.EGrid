@@ -1,0 +1,13 @@
+             COMMAND X - -
+                FILE O - -
+            TRUNCATE - X -
+            FILE.FOO - X -
+          MONKEYDUST - X -
+              ANSWER - S -
+            TERMINAL - - O
+             DEFAULT - - X
+         APPLICATION - - O
+           SETTINGS- - - X
+        APPLICATIONS - - X
+            SETTINGS - - X
+                 TAB - - X

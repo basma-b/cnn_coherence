@@ -1,0 +1,19 @@
+/ETC/NETWORK/INTERFACES O - - - - - S
+                SUDO O - - - - - -
+/ETC/INIT.D/NETWORKING S - - - - - -
+             COMMAND X - - - - - -
+             SERVICE X - - - - - -
+             NETWORK O S - - - - -
+            RECONFIG X - - - - - -
+LPF/WLAN0/MAC_ADDRESS O - - - - - -
+         SEND_PACKET - S - - - - -
+                SAME - O - - - - -
+                ETH0 - X - - - - -
+               BUNCH - O - - - - -
+        DHCPDISCOVER - X - - - - -
+          DHCPOFFERS - S - - - - -
+           ASSOCIATE - - X - - - -
+         MAC_ADDRESS - - O - - - -
+               ESSID - - X - - - -
+                PING - - - S - - -
+                LOOK - - - - - - O

@@ -1,0 +1,12 @@
+              SOURCE X - - - -
+               LOGIN X - - - -
+            TERMINAL X - - - -
+/ETC/APT/SOURCES.LIST - O X - -
+               BEGIN - O - - -
+                LINE - X - - -
+                FILE - O S - -
+             APT-GET - X - - -
+              UPDATE - O - - -
+                NANO - - X - -
+      SOURCES.LIST.D - - X - -
+                  YA - - - - X

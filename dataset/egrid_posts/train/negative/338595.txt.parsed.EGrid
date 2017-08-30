@@ -1,0 +1,15 @@
+               FORCE X - X O - - -
+              OPTION X X O - - - -
+           ETC/FSTAB X - - - - - -
+             DEFAULT - - X - - - -
+                LINE - - S - O - -
+                  IM - - - S - - -
+          READ/WRITE - - - O - - -
+                NTFS - - - X - - -
+             NTFSFIX - - - O - - -
+               FSTAB - - - O - - -
+                FILE - - - X - - -
+                HTTP - - - - X - -
+  LOCALE=EN_US.UTF-8 - - - - O - -
+                   X - - - - - - X
+              MOMENT - - - - - - X

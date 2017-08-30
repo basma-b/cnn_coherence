@@ -1,0 +1,14 @@
+                 DNS O -
+NETWORKMANAGER-CONNECTIONS X -
+                 USE X -
+             E.F.G.H O -
+/ETC/NETWORK/INTERFACES S -
+     DNS-NAMESERVERS S -
+              STRACE O -
+           PGBOUNCER X -
+                  .. O -
+             STARTUP - X
+                FILE - X
+    INIT.D/PGBOUNCER - O
+                USER - X
+            POSTGRES - X

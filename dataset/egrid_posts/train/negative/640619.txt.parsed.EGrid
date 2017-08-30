@@ -1,0 +1,12 @@
+         ./CONFIGURE O - - - - -
+               BOCHS O - - - - -
+               PATCH X - - X - -
+               ERROR - O - - - -
+                   X - X - - - -
+             WINDOWS - X - - - -
+                 GUI - S - - - -
+           LIBRARIES - S - - - -
+             PACKAGE - - X O - -
+                THAT - - - X - -
+              SOURCE - - - X - -
+                PROC - - - - - O

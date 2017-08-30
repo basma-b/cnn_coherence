@@ -1,0 +1,15 @@
+               FSTAB X X -
+                 HDD S - -
+                 THA - S -
+              DEVICE - X -
+                BOOT - X -
+               START - X -
+                 END - X -
+              BLOCKS - X -
+                  ID - O -
+              SYSTEM - X -
+           /DEV/HDF1 - S -
+               LINUX - S -
+                FILE - X -
+               THERE - X -
+               ERROR - - X

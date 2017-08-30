@@ -1,0 +1,41 @@
+              SCRIPT O O S - - X X - -
+         /ETC/INIT.D X - - - - - - - -
+             STARTUP X - - - - - - - -
+           WEBSERVER - X - - - - - - -
+               PROXY - S - - - - - - -
+               NGINX - O - - - - - - -
+             PROCESS - O - - - - - - -
+                RUBY - S - - - - - - -
+                RAIL - X - - - - - - -
+         APPLICATION - X - - - - - - X
+                HTTP - X - - - - - - -
+//WWW.UNIXRO.NET/ART/NGINX.INIT.TXT - X - - - - - - -
+                TYPE - X - - - - - - -
+               EGREP - X - - - - - - -
+         INITDEFAULT - X - - - - - - -
+        /ETC/INITTAB - X - - - - - - -
+               LEVEL - X - - - - - - -
+                ID:2 - O - - - - - - -
+             YASHIRO - S - - - - - - -
+                  =P - O - - - - - - -
+               THERE - X - - - - - - -
+                   U - - S - - - - - -
+                LINK - - O - - - - - -
+          /ETC/RC2.D - - X - - - - - -
+                  LN - - X - - - - - -
+                   S - - S - - - - - -
+         /OPT/SCRIPT - - X X - - - - -
+/ETC/RC2.D/S99SCRIPT - - O - - - - - -
+             COMMAND - - O - - - - - -
+                 WAY - - S - - - - - -
+  /ETC/INIT.D/SCRIPT - - O - - - - - -
+          START/STOP - - O - - - O - -
+              SYSTEM - - X X - - - - -
+                 THE - - - S - - - - -
+                STOP - - - O - - - - -
+/ETC/INIT.D/FUNCTIONS - - - X - - - - -
+                FILE - - - S - - - - -
+             MACHINE - - - X - - - - -
+/ETC/RC2.D/K01SCRIPT - - - X - - - - -
+             EXAMPLE - - - - X X - - -
+                PATH - - - - - X - - -

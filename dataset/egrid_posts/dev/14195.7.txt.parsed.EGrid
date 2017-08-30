@@ -1,0 +1,17 @@
+                FILE O O - S - - -
+             MACHINE X X - - - - -
+                   C X - - - - - -
+              ACCESS O - - - - - -
+                   B X X - - - - -
+               RSYNC O - - - - - -
+                 SSH X - - - - - -
+                THAT - X O - - - -
+                MOVE - X - - - - -
+                 SCP - - S O X - -
+              MODIFY - - - O - - -
+                HOST - - - - - - O
+             REQUEST - - - - - - X
+             PLUGINS - - - - - - O
+             FIREFOX - - - - - - X
+                 HMM - - - - - - O
+                THIS - - - - - - X

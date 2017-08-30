@@ -1,0 +1,14 @@
+                DISK O - - - -
+                ROOT - O - - -
+              DETECT - O - - -
+                 -LA - X - - -
+             /DEV/SD - O - - -
+                  DF - - S - -
+            /MNT/FOO - - O - -
+             MESSAGE - - - O -
+               ERROR - - - X -
+                THAT - - - - S
+            QOOBJECT - - - - X
+          STARTTIMER - - - - X
+              QTIMER - - - - S
+            INTERVAL - - - - O

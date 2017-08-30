@@ -1,0 +1,15 @@
+/ETC/NETWORK/INTERFACES X - - - - -
+                FILE O - - - - -
+                HTTP X - - - - -
+//PASTEBIN.COM/BCLRHMNH X - - - - -
+             MACHINE - S - - - -
+                  IP - O - - - -
+                 DNS - S - - - -
+          RESOLUTION - X - - - -
+                THAT - - X - - -
+    /ETC/RESOLV.CONF - - - X - -
+                 TRO - - - - - X
+           NOMODESET - - - - - S
+                   B - - - - - X
+                BOOT - - - - - X
+               ORDER - - - - - S

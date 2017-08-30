@@ -1,0 +1,15 @@
+              KERNEL O X O -
+             GCONFIG O - O -
+          MENUCONFIG O - X -
+             XCONFIG O - X -
+                WORK O - X -
+              ANYONE X - - -
+    BUILD_ESSENTIALS - O - -
+              SOURCE - O S -
+              CHANGE - - X -
+           DIRECTORY - - X -
+                   < - - X -
+       KERNELVERSION - - X -
+                   > - - X -
+            PROBLEMS - - O -
+                 LOL - - - X

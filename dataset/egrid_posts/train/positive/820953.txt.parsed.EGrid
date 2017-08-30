@@ -1,0 +1,13 @@
+              SERVER O - - - -
+              APACHE X X - X -
+                 RUN O - - - -
+            MOD_GZIP - X - - S
+               REPOS - - X X X
+                 SEC - - - X -
+             APACHE2 - - - X -
+                  -M - - - S -
+                GZIP - - - X -
+              SYNTAX - - - X -
+             NOTHING - - - O -
+              SOURCE - - - X -
+                 PPA - - - O -

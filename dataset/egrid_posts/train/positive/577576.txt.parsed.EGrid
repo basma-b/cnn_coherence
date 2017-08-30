@@ -1,0 +1,11 @@
+                THAT O - - - - - S -
+              PASSWD X - - - - - - -
+               GROUP X - - - - - - -
+              SHADOW O - - - - - - -
+                /ETC X - - - - - - -
+                USER - X - - - - - O
+        /ETC/SUDOERS - - - X - - - -
+                FILE - - - - - - O -
+               ISSUE - - - - - - O -
+                NAME - - - - - - - X
+           DIRECTORY - - - - - - - X

@@ -1,0 +1,24 @@
+                FILE O X - - - -
+          PERMISSION - O - - - -
+          ./FILE.BIN - O - - X -
+            TERMINAL - X - - - -
+                BASH - O - - - -
+               WHATS - O - - - -
+              OUTPUT - X - S - -
+             COMMAND - X - O - -
+                HEAD - X - - - -
+                  -N - O - - - -
+         ~/DOWNLOADS - - - S - -
+./BYPASS_CLIENT_LINUX.BIN - - - O X -
+             PACKAGE - - - O - -
+                THIS - - - - O -
+               PROXY - - - - S -
+                ROOT - - - - S -
+                SUDO - - - - X -
+            FILENAME - - - - O -
+                 TAB - - - - O -
+                NAME - - - - O -
+               SHELL - - - - X -
+               CHMOD - - - - X -
+                 A+X - - - - X -
+BYPASS_CLIENT_LINUX.BIN - - - - X -

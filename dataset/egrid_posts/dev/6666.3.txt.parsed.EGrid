@@ -1,0 +1,15 @@
+               10.04 S - - - -
+            BROADCOM O - - - -
+             SUPORTS X - - - -
+                PING S - - - -
+                ONES O - - - -
+                TIME - - X - -
+                LOOK - - X - -
+                THER - - S - -
+             SERVICE - - X - -
+              RECORD - - O - -
+          CONNECTION - - X - -
+               THING - - O - -
+                   ^ - - - X -
+     /VAR/LOG/SYSLOG - - - X -
+   /VAR/LOG/MESSAGES - - - - O

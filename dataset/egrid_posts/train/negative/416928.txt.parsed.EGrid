@@ -1,0 +1,29 @@
+                HELP X - - - -
+                KIND - X - - -
+            PARITION - X - - -
+                NEED - X - - -
+               DRIVE - X - - -
+              UBUNTU - S - - -
+           PARTITION - - O - -
+                SWAP - - X - -
+             PARTION - - O - -
+                  CD - - X - -
+                LOOK - - - S -
+               HTTPS - - - S -
+//HELP.UBUNTU.COM/7.04/INSTALLATION-GUIDE/I386/INSTALL-METHODS.HTML - - - S -
+UBUNTU-RESTRICTED-EXTRAS - - - S -
+              SYSTEM - - - O -
+      ADMINISTRATION - - - O -
+             PACKAGE - - - X -
+             MANAGER - - - O -
+            SETTINGS - - - X -
+        REPOSITORIES - - - O -
+                 BOX - - - O -
+            UNIVERSE - - - S -
+               CHECK - - - X -
+                 PMS - - - S -
+               PRINT - - - - X
+                PAGE - - - - O
+                 USE - - - - X
+             FIREFOX - - - - X
+                 PDF - - - - X

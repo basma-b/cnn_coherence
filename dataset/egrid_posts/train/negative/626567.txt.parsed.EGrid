@@ -1,0 +1,11 @@
+           DIRECTORY S - - -
+                SUDO X - - -
+                  -R O - - -
+               ERROR X - - -
+             DESCEND O - - -
+          FOLDERNAME X - - -
+              CUSTOM - - O -
+                ROOT - - X -
+                  .. - - X -
+                   ' - - - S
+             .BASHRC - - - O

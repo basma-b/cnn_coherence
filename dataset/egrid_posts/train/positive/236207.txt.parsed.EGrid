@@ -1,0 +1,13 @@
+          HTTPD.CONF O - - - - - - -
+               ERROR O - - - - - - -
+         PERMISSIONS O - - - - - X -
+                THAT - X - - - - - -
+                USER - S O - X - - -
+              ACCESS - O - - - - - -
+           DIRECTORY - X - X X - - -
+               GROUP - - X X - - - -
+          PERMISSION - - O - - - - -
+                SELF - - - X - - - -
+                ROOT - - - X - X - -
+            ANYTHING - - - O - - - -
+         SUGGESTIONS - - - X - - - -

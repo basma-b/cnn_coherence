@@ -1,0 +1,16 @@
+              ANYONE S - - - -
+             COMMAND S - - - -
+               PROXY X - - - -
+               GUESS - X - - -
+             NETSTAT - O - - -
+                TERM - X - - -
+             SUDOERS - - - S -
+              SYNTAX - - - O -
+               ADMIN - - - S -
+              POLICY - - - O -
+               USERS - - - S -
+            PASSWORD - - - O -
+                FILE - - - - X
+               THERE - - - - S
+             EXAMPLE - - - - O
+        /ETC/SUDOERS - - - - X

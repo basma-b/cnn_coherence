@@ -1,0 +1,11 @@
+              INITRD O - -
+             CONTENT O - -
+                SUDO - S -
+              CRAMFS - O -
+                LOOP - X -
+                /MNT - X -
+           SOMETHING - O -
+            MKINITRD - O -
+              DEVICE - X -
+           /DEV/LOOP - O -
+              BREEZY - - X

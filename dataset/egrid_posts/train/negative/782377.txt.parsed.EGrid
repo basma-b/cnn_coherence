@@ -1,0 +1,12 @@
+               MODEM X - - -
+              LAPTOP X - - -
+                LIST - - X -
+              DEVICE - - X -
+                 WRD - - X -
+                LSHW - - X -
+            HARDWARE - - X -
+                   # - - - X
+          RESOLUTION - - - O
+ /BOOT/GRUB/MENU.LST - - - X
+             VGA=791 - - - O
+           1600X1200 - - - X

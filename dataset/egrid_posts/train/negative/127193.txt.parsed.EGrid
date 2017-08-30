@@ -1,0 +1,14 @@
+              UBUNTU X - - -
+             DEFAULT S - - -
+                USER O - - -
+              MEMBER X - - -
+               ADMIN X X X -
+               GROUP X X X -
+        /ETC/SUDOERS S - - -
+             MEMBERS S - - -
+                ROOT X X X -
+           PRIVILEGE O X - -
+              PEOPLE - - S -
+                SUDO - - O -
+                  CD - - - X
+              LIVECD - - - X

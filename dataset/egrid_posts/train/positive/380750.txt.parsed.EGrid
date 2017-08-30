@@ -1,0 +1,14 @@
+             ADDRESS X - -
+             CLIENTS X - -
+               ROUTE - O -
+               BLOCK - X -
+                  IP - X -
+          RADVD.CONF - S -
+              FOLLOW - O -
+       ADVSENDADVERT - X -
+                IPV6 - - O
+                LOCK - - S
+               PASTE - - O
+                HTTP - - O
+//PASTE.UBUNTU-NL.ORG/49403/ - - O
+           INTERFACE - - X

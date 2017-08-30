@@ -1,0 +1,15 @@
+                 SUN X - - - X
+                JAVA X - - X -
+              SYSTEM X - - - X
+             DEFAULT X - - - -
+                COPY - X - O -
+                FILE - O - - O
+           /USR/JAVA - X - - X
+         ALTERNATIVE - X - - -
+ UPDATE-ALTERNATIVES - O - - -
+                  .. - - - O X
+              LAUNCH - - - X -
+                APPS - - - S -
+             PACKAGE - - - O -
+      SELF-EXTRACTOR - - - - O
+                PATH - - - - O

@@ -1,0 +1,9 @@
+                COPY - X - -
+             CRONTAB - X - -
+                FILE - X - -
+        /ETC/CRONTAB - - O -
+                 ALL - - X -
+                USER - - X -
+            CRONTABS - - S -
+             SCRATCH - - X -
+         BACKUP.CRON - - - X

@@ -1,0 +1,28 @@
+             PROBLEM O - - - - - - - - - - - -
+                SWAP X - - O - - X X - - - - -
+           PARTITION X - - - - - O X - - - - -
+              KERNEL - X - X - - - - - - - - -
+           2.6.20-16 - X - - - - - - - - - - -
+                REPO - X - - - - - - - - - - -
+           HIBERNATE - - S - - - - - - - - - -
+          2.6.20-15. - - - X - - - - - - - - -
+              SWAPON - - - - O - - - - - - - -
+                  -A - - - - O - - - - - - - -
+/DEV/DISK/BY-UUID/02131C79-6C9C-4B40-ABD6-E6A5DBBF40CE - - - - O - - - - - - - -
+                FILE - - - - X - - - - - - - -
+           DIRECTORY - - - - X - - - - - - - -
+              ANYONE - - - - - S - - - - - - -
+                THIS - - - - - O - - - - - - -
+                SDA5 - - - - - - S - - - - - -
+                LINK - - - - - - S - - - - - -
+             BY-UUID - - - - - - X - - - - - -
+870C91CD-4B4F-4038-A654-2C09FA93B443 - - - - - - O - - - - - -
+               /SDA5 - - - - - - X - - - - - -
+                 WTH - - - - - - - S - - - - -
+                UUID - - - - - - - X - O - - -
+               DUNNO - - - - - - - - - X - X -
+               FSTAB - - - - - - - - - S - - -
+               THERE - - - - - - - - - - X - -
+             UTILITY - - - - - - - - - - X X -
+           SIGNATURE - - - - - - - - - - - - X
+              RESUME - - - - - - - - - - - - O

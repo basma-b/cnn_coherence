@@ -1,0 +1,17 @@
+            SONGBIRD O - X -
+          EVERYTHING - O - -
+          EXECUTABLE - O - -
+           /USR/BIN/ - X - -
+           DIRECTORY - O - X
+                DATA - X - -
+              FOLDER - - S -
+             SYMLINK - - O -
+      /USR/LOCAL/BIN - - S -
+                 LJL - - O -
+                   / - - X -
+          PATHTHINGY - - X -
+/USR/LOCAL/BIN/SONGBIRD - - X -
+                BASH - - - X
+   /USR/BIN/SONGBIRD - - - X
+                FILE - - - X
+                   * - - - S

@@ -1,0 +1,15 @@
+           AUTOMOUNT X - S - - - - -
+           PARTITION O - O - - - - -
+           HARDRIVES X - - - - - - -
+                NTFS - X X - - - - -
+              UBUNTU - - S - - - - -
+              SYSTEM - - X - - - - -
+         FILESYSTEMS - - - - S - - -
+                FILE - - - - X - - X
+               FSTAB - - - - - X - -
+                   > - - - - - X - -
+               GEBOY - - - - - S - -
+              OCEAN_ - - - - - O - -
+             WINDOWS - - - - - X - -
+               SHARE - - - - - O - -
+                THAT - - - - - - - S

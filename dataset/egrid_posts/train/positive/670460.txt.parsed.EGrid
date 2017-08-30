@@ -1,0 +1,11 @@
+   GNOME-SCREENSAVER X - - - -
+         APPLICATION - X - - -
+             STARTUP - X - - -
+                BOOT - X - - -
+               START - - O - -
+                PART - - X - -
+                LIST - - X - -
+             PROCESS - - X - -
+                   X - - X - X
+         /ETC/INIT.D - - X - -
+              SCRIPT - - X - X

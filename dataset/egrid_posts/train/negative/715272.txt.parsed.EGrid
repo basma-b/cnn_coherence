@@ -1,0 +1,11 @@
+             APT-GET X - - - -
+        DEPENDENCIES O - - - -
+             PACKAGE X - O - -
+             VERSION - O - - -
+               REPOS - X - - -
+        APPLICATIONS - O - - -
+           UNINSTALL - - S - -
+             LIBRARY - - X - -
+                DPKG - - X - -
+      IGNORE-DEPENDS - - X - -
+             PROBLEM - - - - S

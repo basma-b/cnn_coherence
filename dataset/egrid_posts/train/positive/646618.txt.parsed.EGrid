@@ -1,0 +1,16 @@
+               MOUNT X - - - - - - - - -
+             COMMAND X - - - - - - - - -
+             NETWORK X - - - - - - - - -
+               DRIVE O - - - - - - - - -
+              SYSTEM X - - - - - - - - -
+              BOOTUP X - - - - - - - - -
+                LINE - O - - - - - - - -
+               FSTAB - X X - - - - - - -
+          CONNECTION - - - O - - - - - -
+                TIME - - - - X - - - - O
+               SHARE - - - - S - - - - -
+            RC.LOCAL - - - - - - - O - S
+             COMMENT - - - - - - - X - -
+            RUNLEVEL - - - - - - - X X -
+               SETUP - - - - - - - - S -
+                 DOS - - - - - - - - - S

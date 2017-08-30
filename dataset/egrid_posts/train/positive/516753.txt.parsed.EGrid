@@ -1,0 +1,15 @@
+                 WAY X - - - -
+          EXECUTABLE S - - - -
+                PORT X - - - -
+            INTERNET X - - - -
+         PERMISSIONS O - - - -
+           DIRECTORY X - - - O
+                 ONE X - - - -
+      SUBDIRECTORIES X - - - -
+              CHROOT - S S - -
+         ENVIRONMENT - X - - -
+             NETWORK - O - - -
+              SYSTEM - - X - -
+                   U - - S - -
+             MANPAGE - - - - S
+                USER - - - - S

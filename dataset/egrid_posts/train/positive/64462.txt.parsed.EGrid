@@ -1,0 +1,23 @@
+               ERROR O - - - -
+                 USE - X - - -
+               MYSQL - S X - -
+             PROGRAM - X - - -
+                HOST - X - - -
+                NAME - O - - -
+            USERNAME - O - - -
+            PASSWORD - O - - -
+           HY000HOST - - S - -
+LOCALHOST.LOCALDOMAIN - - S - -
+              SERVER - - X - -
+           LOCALHOST - - O - -
+           WEBSERVER - - X - -
+             MACHINE - - X - -
+              SOCKET - - X X -
+                  CD - - X - -
+                /VAR - - X - -
+                   | - - S - -
+            LOCATION - - - O -
+                FILE - - - X -
+                MSEE - - - X -
+ /VAR/RUN/MYSQL.SOCK - - - - X
+            SOMESUCH - - - - X

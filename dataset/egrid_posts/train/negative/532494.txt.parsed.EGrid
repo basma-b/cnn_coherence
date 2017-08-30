@@ -1,0 +1,21 @@
+             SERVERS X - - - - -
+                8.04 O - - - - -
+                 CLI X - - - - -
+                TIME - X - - - -
+                 DNS - X S X - -
+                  IP - X - - - -
+             NETMASK - O - - - -
+                DHCP - X - - - -
+              RECORD - X - - - -
+                SAME - O - - - -
+/ETC/NETWORK/INTERFACES - - X X - -
+                 USE - - X - - -
+      NETWORKMANAGER - - X - - -
+             NETWORK - - X X - -
+             MANAGER - - S S - -
+             MINUTES - - O - - -
+                 ONE - - X - - -
+               KINDA - - - X - -
+                TYPE - - - X - -
+             1.1.1.1 - - - O - -
+               THATS - - - - - S

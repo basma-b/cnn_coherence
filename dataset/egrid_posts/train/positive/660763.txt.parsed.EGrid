@@ -1,0 +1,17 @@
+               PROBS S - - -
+              LIVECD X - - -
+   TWOFISH-XTS-ESSIV O - - -
+          LUKSFORMAT S - - -
+             COMMAND X - - -
+               SETUP X - - -
+                 MAP X - - -
+            DM-CRYPT - O - -
+              KERNEL - O - -
+             SUPPORT - O - -
+              CIPHER - X - -
+                SPEC - X - -
+           /DEV/SDA6 - S - -
+             SECTORS - S - -
+              LIVDCD - S - -
+                THIS - X - -
+                WORK - - - O

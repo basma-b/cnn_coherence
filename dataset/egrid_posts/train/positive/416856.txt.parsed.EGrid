@@ -1,0 +1,15 @@
+              SYNTAX S - - - -
+               MYSQL X X - - X
+                6.06 X - - - -
+                USER - X - - -
+             VERSION - X - - -
+              5.0.22 - S - - -
+                 RUN - O - - -
+                THAT - - O - -
+                  PS - - X - -
+            -EF|GREP - - S - -
+              OUTPUT - - X - X
+              SERVER - - - - S
+                LINE - - - - O
+              MYSQLD - - - - O
+                HELP - - - - O

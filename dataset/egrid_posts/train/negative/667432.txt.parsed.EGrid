@@ -1,0 +1,26 @@
+           PARTITION O - X - -
+               FSTAB X X - - -
+                AUTO - S - - -
+          READ/WRITE - O - - -
+                LINE - S - - -
+               UUID= - X - - -
+7D4A2D7F-AEE9-4DFA-BB47-76314A1ACF79 - X - - -
+             DEFAULT - X - - -
+            ANYTHING - O - - -
+          PERMISIONS - - X - -
+                GKSU - - X - -
+                ROOT - - S - -
+         PERMISSIONS - - O - -
+                IDEA - - X - -
+             VERSION - - S - -
+                KDSU - - - S -
+             KDESUDO - - - S -
+              GNOMES - - - S -
+                FILE - - - S -
+             MANAGER - - - S -
+                 ONE - - - O S
+                TALK - - - - X
+            FRONTEND - - - - X
+              MODULE - - - - X
+               PANEL - - - - X
+        TEMPERATURES - - - - O

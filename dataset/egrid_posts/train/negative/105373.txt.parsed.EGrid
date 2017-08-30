@@ -1,0 +1,14 @@
+      LOAD_FW_AR5523 S - -
+                   > S - -
+               ERROR S - -
+                MAIN O - -
+               USAGE O - -
+                FILE X O -
+              VENDOR X X -
+                  ID S X -
+             PRODUCT X X -
+                FIND - S -
+               LSPCI - X -
+              OUTPUT - X -
+                TYPE - O -
+                TYPO - - O

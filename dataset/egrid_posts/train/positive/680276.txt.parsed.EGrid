@@ -1,0 +1,12 @@
+           BLACKLIST - X -
+                   | - S -
+                BOOT - X -
+              SYSTEM - O -
+                 SAY - X -
+              DRIVER - O -
+              KERNEL - X -
+              AFAICS - O -
+                POST - - X
+              ADVICE - - O
+               HTTPS - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/LINUX/+BUG/479597 - - X

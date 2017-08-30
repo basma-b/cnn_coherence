@@ -1,0 +1,15 @@
+             PACKAGE X - - -
+LINUX-RESTRICTED-MODULES X - - -
+        LINUX-SOURCE X - - -
+             LICENSE - O - -
+              SOURCE - - X -
+                FILE - - O -
+              BINARY - - O -
+              KERNEL - - X -
+              MODULE - - S O
+              OPENGL - - X -
+              DRIVER - - S -
+                   ^ - - - S
+             EXAMPLE - - - X
+                 WAY - - - X
+                 PPC - - - X

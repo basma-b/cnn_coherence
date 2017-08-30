@@ -1,0 +1,18 @@
+             WINDOWS X X - -
+             NETWORK X X - -
+              SERVER O X X -
+                ROOT X X - -
+             COMMAND X X - -
+     /STORAGE/SERVER O X - -
+      //TULIP/SERVER - X - -
+               MOUNT - - X -
+                CIFS - - S -
+                   < - - S -
+                USER - - X -
+                   > - - O -
+//1.2.3.4/SHARE_NAME - - X -
+       /LOCAL/FOLDER - - O -
+             1.2.3.4 - - O -
+                  IP - - X -
+            SHOULDNT - - - S
+                NTFS - - - O

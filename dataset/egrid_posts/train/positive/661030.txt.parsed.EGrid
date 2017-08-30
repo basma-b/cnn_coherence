@@ -1,0 +1,9 @@
+            GRUB.CFG X - - -
+             COMMENT S - - -
+                FILE O - - -
+            TERMINAL - - X -
+                TYPE - - X -
+         UPDATE-GRUB - - O O
+               ERROR - - - X
+              DEVICE - - - O
+                   / - - - X

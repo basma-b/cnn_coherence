@@ -1,0 +1,11 @@
+                THAT X - - - -
+                BOOT X - - - -
+              /CDROM - S - - -
+         /ROOT/CDROM - X - - -
+            ARGUMENT - X - - -
+              CHROOT - X - - -
+ DEBCONF-COMMUNICATE - O - - -
+                FILE - X - - -
+           DIRECTORY - S - - -
+                TYPE - - - - X
+                  CD - - - - X

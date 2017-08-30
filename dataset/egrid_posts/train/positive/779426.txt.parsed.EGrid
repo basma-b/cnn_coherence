@@ -1,0 +1,10 @@
+             COMMAND X - - -
+             APACHE2 S - - -
+             STARTUP X - - -
+                CONF - X - -
+              UBUNTU - X - -
+              APACHE - - X -
+                FILE - - O -
+        AUTOSTARTING - - X -
+                  .. - - - S
+            ANYTHING - - - O

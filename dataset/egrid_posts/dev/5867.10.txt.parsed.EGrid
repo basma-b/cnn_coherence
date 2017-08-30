@@ -1,0 +1,9 @@
+             COMMAND X - -
+                FSCK S - -
+              SYSTEM X - -
+               CHECK O - -
+              REBOOT X - -
+                SUDO - S -
+          /FORCEFSCK - O -
+                THIS - - S
+                HTTP - - O

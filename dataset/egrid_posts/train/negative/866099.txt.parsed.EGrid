@@ -1,0 +1,20 @@
+              ANYONE X - - - - - - -
+                HERE X - - - - - - -
+            CRONJOBS S - - - - - - -
+                   / - S - - - - - -
+                 JOB - X - - - - - -
+                 ALL - X - - - - - -
+                SUDO - - X - - - - -
+     NETWORK-MANAGER - - S - O - - -
+             SERVICE - - X - - - - -
+            IFUPDOWN - - O X - - - -
+              IFDOWN - - X - - - - -
+                  -A - - X - - - - -
+                IFUP - - X - - - - -
+           INTERFACE - - X - - - - -
+           ETH0=ETH0 - - O - - - - -
+                ETH1 - - - X - - - -
+                  .. - - - O - - - -
+             NETWORK - - - O O - - -
+/ETC/NETWORK/INTERFACES - - - X - - - -
+           SOMETHING - - - - - - - O

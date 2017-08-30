@@ -1,0 +1,12 @@
+         PERMISSIONS X - - - -
+    PSEUDO-TERMINALS X - - - -
+                THAT - O - - -
+                 MTA - - - S -
+                   | - - - S -
+             DEFAULT - - - X -
+                 KVM - - - - X
+             LIBVIRT - - - - O
+             CONSOLE - - - - X
+            /DEV/PTS - - - - X
+                DOMU - - - - X
+                ROOT - - - - X

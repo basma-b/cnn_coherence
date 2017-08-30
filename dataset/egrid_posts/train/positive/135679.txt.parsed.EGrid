@@ -1,0 +1,19 @@
+                JAVA X X - -
+                 JDK O - - -
+               ERROR O - - -
+                  SH X - - X
+                 GCC X - - X
+                SUDO X - - -
+             APT-GET S - - -
+            FAKEROOT X - - -
+        JAVA-PACKAGE O - - -
+            JAVADEBS - - X -
+JDK-1_5_0_06-NB-5_0-LINUX.BIN - - - S
+           DIRECTORY - - - X
+             LOADING - - - X
+             PLUGINS - - - X
+           COMMON.SH - - - X
+            J2SDK.SH - - - X
+             J2SE.SH - - - O
+               FLOOD - - - X
+             CRUMSUN - - - S

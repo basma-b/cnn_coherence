@@ -1,0 +1,24 @@
+               CHECK X - - - - - -
+              SYSTEM X - - - - - -
+                   > X - - - - - -
+         PREFERENCES S - - - - - -
+               MEDIA S - - - - - -
+            SYNAPTIC O - - - - - -
+              SEARCH X - - - - - -
+             PACKAGE X - - - X X -
+            MEDNAFEN O - - - - - -
+             NOTHING S - - - - - -
+             DEFAULT - X - - - - -
+             FIREFOX - X - - - - -
+                HTTP - - X - - - -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_PACKAGES.PL - - X - - - -
+      SEARCHON=NAMES - - - X - - -
+           SUBWORD=1 - - - X - - -
+      VERSION=FEISTY - - - X - - -
+         RELEASE=ALL - - - X - - -
+   KEYWORDS=MEDNAFEN - - - X - - -
+SOURCEID=MOZILLA-SEARCH - - - S - - -
+              SOURCE - - - X X - -
+                LINK - - - - X X -
+              BINARY - - - - X X -
+           EXCELLENT - - - - - - X

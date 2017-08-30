@@ -1,0 +1,12 @@
+            QUESTION X - -
+                FILE S - -
+           DIRECTORY X - -
+               CHMOD O - -
+                THIS O - -
+               UMASK - O -
+             GKRELLM - - X
+                POLL - - O
+              DEVICE - - S
+              CHANCE - - X
+                DATA - - O
+            /DEV/FD0 - - X

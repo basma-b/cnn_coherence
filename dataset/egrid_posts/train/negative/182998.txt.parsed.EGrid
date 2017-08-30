@@ -1,0 +1,13 @@
+              CONFIG X - - -
+                ROOT S - - -
+              SERVER X - - -
+                  IM - S - -
+                PETI - O - -
+               DRIVE - X - -
+          PERMISSION - S - -
+                LOCK - S - -
+             DEFAULT - S - -
+           IP_TABLES - S - -
+                  DD - - - X
+        IF=/DEV/ZERO - - - X
+         OF=/DEV/HDA - - - O

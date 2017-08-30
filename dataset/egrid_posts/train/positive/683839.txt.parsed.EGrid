@@ -1,0 +1,13 @@
+               GROUP O - O -
+                 WEB X - - -
+                USER S - O -
+         PERMISSIONS X - X -
+                FILE O - - -
+              APACHE X S - -
+                 YES - X - -
+          USER/GROUP - X - -
+                WORK - - O -
+           DIRECTORY - - X -
+                THIS - - - O
+             COMMAND - - - X
+                LINE - - - X

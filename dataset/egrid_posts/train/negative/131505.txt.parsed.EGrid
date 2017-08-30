@@ -1,0 +1,12 @@
+              ANYONE S - - -
+                 4.1 O - - -
+              SERVER - S O -
+              SOCKET - O - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK - X - -
+              CLIENT - S - -
+     /TMP/MYSQL.SOCK - O - -
+              CONFIG - O - -
+          MYSQLADMIN - S - -
+            /VAR/RUN - X - -
+             .NY.CNF - O - -
+               THATS - - - O

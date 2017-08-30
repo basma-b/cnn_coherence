@@ -1,0 +1,15 @@
+                RULE X O - - - -
+   /ETC/UDEV/RULES.D X - - - - -
+              DEVICE - X - - - -
+            KERNEL== - - X - - -
+                 HDC - - X - - -
+           SYMLINK+= - - X - - -
+                 DVD - - X - - -
+                FILE - - X - - -
+           INSTALLER - - X - - -
+70-PERSISTENT-CD.RULES - - - X - -
+               SOUND - - - O - -
+             ENTRIES - - - - O -
+             WINDOWS - - - - - X
+               GAMES - - - - - O
+                 FEE - - - - - O

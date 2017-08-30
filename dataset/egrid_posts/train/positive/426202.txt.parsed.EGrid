@@ -1,0 +1,20 @@
+             DEVICES O - X - - - - - - -
+               USBFS S - - - - - - - - -
+             OPTIONS S - - - - - - - - -
+              UBUNTU S - - - - - - - - -
+               GUEST S - - - - - - - - -
+           WINDOWSXP S - - - - - - - - -
+                HTTP - O - - - - - - - -
+//WWW.VIRTUALBOX.ORG/TICKET/747 - X - - - - - - - -
+                HELP - X - - - - - - - -
+                 USB - - O - - - - - - -
+                NONE - - S - - - - - - -
+                VBOX - - X X X - X X - X
+               USERS - - X - - - - - - -
+              GROUPS - - X - - - - - - -
+             SECTION - - X - - - - - - -
+             ABILITY - - O - - - - - - -
+               LINUX - - X - - - - - - -
+                THAT - - - O X - - X - -
+                CANT - - - X - - X - - -
+                  OS - - - - X - - X - -

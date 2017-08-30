@@ -1,0 +1,8 @@
+                CRON O - - - S
+                ROOT X - - - -
+              SYSTEM - X - - -
+                USER - X X - S
+                THAT - - - - S
+             CRONTAB - - - - O
+              ACCESS - - - - O
+             COMMAND - - - - X

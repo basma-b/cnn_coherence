@@ -1,0 +1,15 @@
+                CANT X X - - - - -
+                AUTO X X - - - - -
+           XORG.CONF X X - - - - -
+                   X - - X - - X -
+              CONFIG - - X - - - -
+              BACKUP - - X - - - X
+                FILE - - O - - - -
+/ETC/X11/XORG.CONF.BACKUP - - S - - - -
+                   U - - X - - - -
+                SUDO - - O - - - -
+              SERVER - - - - - X -
+            SETTINGS - - - - - X -
+                 ALL - - - - - - X
+    XORG.CONF.BACKUP - - - - - - X
+                   * - - - - - - X

@@ -1,0 +1,11 @@
+             COMMAND X - - -
+             PROCESS S - - -
+              RENICE - - X -
+                   < - - S -
+            PRIORITY - - S -
+                   > - - X -
+              THANKS - - O -
+              GOOGLE - - S -
+          0.5SECONDS - - X -
+             APROPOS - - - S
+                 TWO - - - X

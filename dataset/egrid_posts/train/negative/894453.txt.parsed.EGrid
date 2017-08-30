@@ -1,0 +1,17 @@
+                SMBD X - - -
+                NMBD X - - -
+             DAEMONS X - - -
+              DEMAND - X - -
+         UPDATE-RC.D - O - -
+    /ETC/INIT.D/SMBD - S - -
+                 LSB - X - -
+         INFORMATION - X - -
+                HTTP - O - -
+                   > - X - -
+              SYSTEM - X - -
+                LINK - O - -
+              DETAIL - - X -
+             GATEWAY - - - S
+             TRAFFIC - - - O
+          CONNECTION - - - X
+             SOCKETS - - - O

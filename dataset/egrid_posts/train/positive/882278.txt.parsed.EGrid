@@ -1,0 +1,24 @@
+               ISSUE X - - - - - - - - -
+      AUTHENTICATION X - - - - - - - - -
+              SERVER X - - - - - - - - -
+    /ETC/SSHD_CONFIG - O - - - - - - - -
+             DEFAULT - X - - - - - - - -
+               CHECK - O - - - - - - - -
+  AUTHORIZEDKEYSFILE - X - - - - - - - -
+PUBKEYAUTHENTICATION - S - - - - - - - -
+                 KEY - - O - - - X X - -
+~/.SSH/AUTHORIZED_KEYS - - X - - - - - - -
+             MACHINE - - X - - - - X - -
+          PASSPHRASE - - X - X - - - - -
+              ANYONE - - - S - - - - - -
+                 WAY - - - O - - - - - -
+                 SSH - - - X - - - - - -
+            PASSWORD - - - - X - - - - -
+     AUTHENTICATION/ - - - - - O - - - -
+                 RSA - - - - - - X - - -
+             CONTENT - - - - - - - O - -
+     AUTHORIZED_KEYS - - - - - - - X - -
+                FILE - - - - - - - X - -
+         PERMISSIONS - - - - - - - S - -
+                 NOW - - - - - - - - X -
+                THAT - - - - - - - - - O

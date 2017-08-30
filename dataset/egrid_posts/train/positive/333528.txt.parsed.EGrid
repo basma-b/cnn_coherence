@@ -1,0 +1,17 @@
+            COMPUTER O - - - - - - -
+               DRIVE X - - - - - - -
+            /DEV/SDA X - X - - - - -
+            /DEV/SDB X - X - - - - -
+             WINDOWS - X - S X - - -
+                  XP - S - - - - - -
+             DEFAULT - - X - - - - -
+           PARTITION - - X - - - - -
+                GRUB - - X - - - - -
+                BOOT - - - X X X - X
+                 WAY - - - - X - - -
+                THIS - - - - O - - -
+            EMPHASIS - - - - X - - -
+                DATA - - - - X - - -
+           GRUB.CONF - - - - - X - -
+                  .. - - - - - X - -
+                FINE - - - - - - - X

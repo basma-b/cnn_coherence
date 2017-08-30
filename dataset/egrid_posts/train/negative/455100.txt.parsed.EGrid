@@ -1,0 +1,12 @@
+        MYSQL-SERVER O - - -
+               HARDY X - - -
+               EXIM4 O O - -
+          DEPENDENCE X - - -
+            APTITUDE - - S -
+               BREAK - - X -
+             PACKAGE - - X -
+                 RUN - - X -
+           RESOURCES - - O -
+             COMMAND - - - S
+                FILE - - - X
+            COMPUTER - - - X

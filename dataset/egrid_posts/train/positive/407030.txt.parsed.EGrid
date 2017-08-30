@@ -1,0 +1,26 @@
+                HELP O - - - - - O - - - - - - -
+                BOOT - X X - - X - X X - - X - -
+            COMPUTER - O O - - - - O O - - - - -
+            RECOVERY - - X - - - - - X - - - - -
+                MODE - - X - - - - - X - - - - -
+               ERROR - - X - - - - - X - - - - -
+             MESSAGE - - O - - - - - O - - - - -
+/DEV/DISK/BY-UUID/5B2AACA6-44F3-475A-8D36-9530B7A64E79 - - - S - - - - - S - - - -
+               SHELL - - - - X - - - - - X - - -
+               CHECK - - - - - O - - - - - O - -
+           ARGUEMENT - - - - - X - - - - - X - -
+                 CAT - - - - - X - - - - - X - -
+       /PROC/CMDLINE - - - - - X - - - - - X - -
+             MODULES - - - - - O - - - - - X - -
+        /RPC/CMDLINE - - - - - X - - - - - X - -
+              DEVICE - - - - - S - - - - - X - -
+                /DEV - - - - - X - - - - - X - -
+                FILE - - - - - - - - - - - X - -
+              NUMBER - - - - - - - - - - - - O -
+          /ETC/FSTAB - - - - - - - - - - - - X -
+                TYPE - - - - - - - - - - - - X -
+                USER - - - - - - - - - - - - X -
+   /DEV/DISK/BY-UUID - - - - - - - - - - - - O -
+                INFO - - - - - - - - - - - - S -
+               FSTAB - - - - - - - - - - - - X -
+           CRAIGEVIL - - - - - - - - - - - - - O

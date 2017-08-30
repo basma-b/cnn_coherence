@@ -1,0 +1,26 @@
+        ACPI_CPUFREQ X - - - - - - -
+   CPUFREQ_USERSPACE S - - - - - - -
+       CPUFREQ_STATS O - - - - - - -
+    CPUFREQ_ONDEMAND O - - - - - - -
+CPUFREQ_CONSERVATIVE O - - - - - - -
+               RYMO_ - - S - - - - -
+             LAPTOPS - - - S - - - -
+             PENTIUM - - - - O - - -
+                   M - - - - S - - -
+           FREQUENCY - - - - X - - -
+               SCALE - - - - O - - -
+                THIS - - - - S - - -
+              METHOD - - - - O - - -
+                  .. - - - - X - - -
+             VANILLA - - - - X - - -
+              KERNEL - - - - S - - -
+                CARE - - - - O - - -
+            UBUNTU+1 - - - - - X - -
+             SUPPORT - - - - - X - -
+                PARR - - - - - - S -
+            WIRELESS - - - - - - X -
+                 NIC - - - - - - O -
+               THERE - - - - - - - S
+                 WAY - - - - - - - O
+            IWCONFIG - - - - - - - X
+                EARS - - - - - - - O

@@ -1,0 +1,11 @@
+            SETTINGS X -
+                PROC X O
+            COMPUTER S -
+             DEFAULT X -
+                 USE X -
+       IP_FORWARDING X -
+                   > X -
+/PROC/SYS/NET/IPV4/IP_FORWARD O -
+                THAT - S
+             SESSION - X
+                GOOD - X

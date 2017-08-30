@@ -1,0 +1,16 @@
+           DIRECTORY X O - -
+             COMMAND X - - -
+                LINE X - - -
+                SUDO - X - -
+               RMDIR - X - -
+  /HOME/DIMITRI/TEMP - O - -
+                 -RF - X - -
+     /SOME/DIRECTORY - S - -
+                  -R - S - -
+              THINGS - X - -
+             CONTENT - O - -
+                  -F - S - -
+               FORCE - O - -
+                 ETC - - O -
+                  RM - - - O
+                 MAN - - - X

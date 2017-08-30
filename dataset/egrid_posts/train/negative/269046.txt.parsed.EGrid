@@ -1,0 +1,15 @@
+              MEMORY X - - - - - -
+             PROCESS S - - - - - -
+                 USE O - - - - - -
+                 RSS - X - - - - -
+                 VSZ - X - - - - -
+                  PS - X - - - - -
+                 TOP - - O - - - -
+              KERNEL - - - O - O -
+             PACKAGE - - - X S - -
+               SCREW - - - - S - -
+           OLDCONFIG - - - - O - -
+              ERRORS - - - - X - -
+            ANYTHING - - - - - O -
+              COURSE - - - - - X -
+             MESSAGE - - - - - - X

@@ -1,0 +1,23 @@
+             UPGRADE S - - - - - -
+               ENTRY O - - - - - -
+        SOURCES.LIST - X X - - - -
+               ITEMS - O - - - - -
+/ETC/APT/SOURCES.LIST - X - - - - -
+           DIRECTORY - X - - - - -
+/ETC/APT/SOURCES.LIST.D - X - - - - -
+                  .. - X - - - X -
+      SOURCES.LIST.D - S - - - - -
+          DIFFERENCE - - X - - - -
+                MAIN - - X - S - -
+            SOFTWARE - - - S - - -
+             PACKAGE - - - - O - -
+            SUPERSET - - - - - X -
+            UNIVERSE - - - - - - X
+          MULTIVERSE - - - - - - S
+                 LOT - - - - - - O
+               STUFF - - - - - - X
+              SOURCE - - - - - - O
+                SOME - - - - - - S
+              PATENT - - - - - - X
+               ISSUE - - - - - - O
+                 ETC - - - - - - X

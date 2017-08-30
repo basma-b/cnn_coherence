@@ -1,0 +1,14 @@
+             COMMAND X - -
+                 ALL O - -
+                .TXT X O -
+                FILE O - -
+            /TMP/TXT X - -
+              FOLDER X - -
+                PIPE - O -
+                  CP - X -
+              OUTPUT - - X
+                SUDO - - X
+             APT-GET - - S
+           RHYTHMBOX - - O
+          ENCRYPTION - - O
+               EMAIL - - X

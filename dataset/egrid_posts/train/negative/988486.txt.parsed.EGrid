@@ -1,0 +1,10 @@
+             SUPPORT O - -
+              GTKPOD X - -
+             HEADERS X - -
+        /USR/INCLUDE X - -
+             CFLAGS= X - -
+      -I/USR/INCLUDE O - -
+           XORG.CONF - - O
+             DEFAULT - - X
+              DRIVER - - X
+                   X - - X

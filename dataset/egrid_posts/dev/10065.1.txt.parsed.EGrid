@@ -1,0 +1,17 @@
+                UEFI X - - - - -
+               THERE - X - - S -
+                 WAY - X - - - -
+          VT-X/AMD-V - S - - - -
+              ENABLE - O - - - -
+                 CAT - X - - - -
+       /PROC/CPUINFO - S - - - -
+                  VT - X - - - -
+              STRING - X - - - -
+                 OOK - O - - - -
+                 VMX - X - - - -
+                   M - X - - - -
+                 ONE - S - - - X
+               INTEL - S - - - X
+               OTHER - S - - - S
+                 SVM - - - - X -
+                FLAG - - - - X O

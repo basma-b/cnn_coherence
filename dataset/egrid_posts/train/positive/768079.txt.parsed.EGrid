@@ -1,0 +1,12 @@
+                LOCK X - - -
+           SOMETHING X - - -
+                FILE X - - -
+                LSOF S - X -
+            ANYTHING X - - -
+               FUSER - X - -
+                SHOT - - - X
+                THIS - - - S
+                MESS - - - X
+                 SSH - - - X
+                SSHD - - - X
+            BINARIES - - - O

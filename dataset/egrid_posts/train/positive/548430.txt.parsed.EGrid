@@ -1,0 +1,14 @@
+               -LSB- X - - - - -
+              KERNEL S - - - - -
+                SUDO X - - - - -
+            MODPROBE X - - - - -
+              DRIVER S - - - - -
+                BOOT - X - - - -
+        /ETC/MODULES - - - X - -
+                DIDD - - - S - -
+                THAT - - - - - S
+                LAZY - - - - - O
+                 RPM - - - - - X
+             SYSTEMS - - - - - X
+                  .. - - - - - X
+              SYNTAX - - - - - O

@@ -1,0 +1,17 @@
+                BITE - - S - - - -
+                FILE - - O - - - -
+               THERE - - S - - - -
+               GROUP - - X X - - -
+           OWNERSHIP - - O - - - -
+           DIRECTORY - - S - - - -
+              SETGID - - O - - - -
+             SETGUID - - - S - - -
+              PEOPLE - - - S - - -
+             DEFAULT - - - - X - -
+              UBUNTU - - - - S - -
+               OWNER - - - - S - -
+         PERMISSIONS - - - - O - -
+                BOTH - - - - - S -
+              UMASKS - - - - - O -
+                ACLS - - - - - O -
+                 ACL - - - - - - O

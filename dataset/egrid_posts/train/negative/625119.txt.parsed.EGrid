@@ -1,0 +1,13 @@
+                 PCS O - - -
+                 PC1 X O - -
+             DNSMASQ X - O -
+                 PC2 X - - -
+                  IP - O - -
+           127.0.0.1 - X - -
+                NAME - - X -
+          RESOLUTION - - S -
+               ENTRY - - O -
+          /ETC/HOSTS - - X -
+                HTTP - - - X
+         THUNDERBIRD - - - S
+                CLAW - - - S

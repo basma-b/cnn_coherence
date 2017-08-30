@@ -1,0 +1,12 @@
+             COMMAND X - -
+             ADDRESS X - -
+                LINE X - -
+            IFCONFIG - X -
+         REDIRECTION - - X
+          BACKGROUND - - X
+                PART - - S
+           /DEV/NULL - - X
+                 SSH - - O
+                 APP - - S
+              FINISH - - X
+                 RUN - - O

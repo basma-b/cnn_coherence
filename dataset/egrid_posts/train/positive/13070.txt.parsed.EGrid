@@ -1,0 +1,15 @@
+               IBOOK X - - - - - -
+             PACKAGE - S - - - - -
+                 USE - S - - - - -
+                FIRE - - - X - - -
+        DEPENDENCIES - - - - X - -
+            KDE-CORE - - - - - O -
+             HOTPLUG - - - - - S -
+             DRIVERS - - - - - O -
+             NETWORK - - - - - X -
+       CONFIGURATION - - - - - X -
+              CUSTOM - - - - - X -
+              SCRIPT - - - - - O -
+         /ETC/INIT.D - - - - - X -
+             DEPENCY - - - - - X -
+              ERRORS - - - - - O -

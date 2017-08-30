@@ -1,0 +1,23 @@
+              ANSWER O - - - - - - - - - - - - -
+                VIEW - O - - - - - - - - - - - -
+              APACHE - X - - - - - - - - - - - -
+              SERVER - X - - - - - - - - - - - -
+                 LOG - X - - - - - - - - - - - -
+                FILE - X - - - - - - - - - - - -
+               ERROR - S - - - - - - - - - - - -
+              UPDATE - X - - - - - - - - - - - -
+                 CAN - X - - - - - - - - - - - -
+            QUESTION - O - - - - - - - - - - - -
+/VAR/LOG/APACHE2/ERROR.LOG - - - X - - - - - - - - - -
+                SFTP - - - S - X - - - - - - - -
+             COMMAND - - - O - S - - - O - - - -
+                 FTP - - - S - - X - - - - - - -
+         PERMISSIONS - - - - X - - - - - - - - X
+                USER - - - - X - - - - S - - - -
+               GROUP - - - - O - - - - - - - - -
+             NEWPATH - - - - - O - - - - - - - -
+               SETUP - - - - - - X - - - - - - -
+            NETBEANS - - - - - - X - - S - - - X
+            TERMINAL - - - - - - - - - O - - - -
+               THERE - - - - - - - - - X - - - -
+             PROBLEM - - - - - - - - - - - - - S

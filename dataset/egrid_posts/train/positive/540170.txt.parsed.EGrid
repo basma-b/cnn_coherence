@@ -1,0 +1,15 @@
+                ROOT X S - - -
+           DOWNGRADE X S - - -
+                9.04 X - - - -
+               LOGIN - S - - -
+            GDM.CONF - X - - -
+     /VAR/LOG/SYSLOG - S - - -
+                 JAN - X - - -
+               -RSB- - X - - -
+             WARNING - X - - -
+            DISALLOW - X - - -
+             DISPLAY - X - - -
+               THING - O - - -
+                   P - O - - -
+              GKSUDO - - X - X
+                ORKA - - - - O

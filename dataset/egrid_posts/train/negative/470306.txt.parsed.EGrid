@@ -1,0 +1,17 @@
+               HOURS X - - -
+             PROCESS - X - -
+             COMMAND - X - -
+                LINE - X - -
+                   A - - O -
+      UPDATE-MANAGER - - O -
+             CONSOLE - - O -
+                SUDO - - X -
+                DPKG - - X -
+                  -A - - X -
+             APT-GET - - X -
+                  -F - - S -
+              ERRORS - - O -
+              UPDATE - - X -
+              SYSTEM - - X -
+             PROBLEM - - - X
+               SOUND - - - O

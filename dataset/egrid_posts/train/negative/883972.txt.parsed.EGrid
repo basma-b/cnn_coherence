@@ -1,0 +1,14 @@
+                WIRE X - - - - - -
+                LINK - X O - - - -
+                SHOW - O - - - - -
+              DEVICE - X - - - - -
+                IPV6 - - X - - - -
+              WIDGET - - X - - - -
+                ETH0 - - S - - - -
+                  HM - - S - - - -
+                THIS - - O - - - -
+                SUDO - - X - - - -
+              DHCPCD - - X - - - -
+                IDEA - - - S - - -
+           SOMETHING - - - - X - -
+                  NO - - - - - - X

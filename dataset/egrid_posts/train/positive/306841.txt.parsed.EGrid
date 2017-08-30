@@ -1,0 +1,20 @@
+            QUESTION X - - - - - -
+             NETWORK X - O - X - -
+       CONFIGURATION X - - - - - -
+            IFCONFIG X - - - - - -
+/ETC/NETWORK/INTERFACES - S - - - - S
+                 WAY - X - - - - -
+                FILE - O - - - - -
+              SYSTEM - - X - - - -
+                   > - - X - - - -
+      ADMINISTRATION - - S - - - -
+                 USE - - X - - - -
+                 GUI - - X - - - -
+           OSTANNAR1 - - - X - - -
+             SERVICE - - - - X - -
+                SUDO - - - - - - X
+                TEXT - - - - - - X
+              EDITOR - - - - - - X
+ /ETC/INIT.D/SERVICE - - - - - - X
+                NAME - - - - - - X
+    STAT/STOP/RESTAT - - - - - - X

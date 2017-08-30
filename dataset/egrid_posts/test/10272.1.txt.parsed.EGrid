@@ -1,0 +1,14 @@
+                MOST S - - -
+             TRAFFIC X - - -
+               MEDIA X - - -
+              STREAM O - - -
+           INITRAMFS X - - X
+               RIGHT X - - -
+                 ONE X - - -
+              CONFIG - X - -
+      /ETC/INITRAMFS - - X -
+                FILE - - - X
+    UPDATE-INITRAMFS - - - X
+                /ETC - - - X
+           STRUCTURE - - - X
+               /BOOT - - - X

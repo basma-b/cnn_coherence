@@ -1,0 +1,22 @@
+                 ISO O - -
+                LOOP - O -
+ARCHIV/LINUX/UBUNTU\ - X -
+                  CD - S -
+    /MEDIA/KUBUNTUCD - O -
+                   > - X -
+               IOCTL - S -
+         LOOP_SET_FD - S -
+            ARGUMENT - X -
+/MEDIA/DISK/SOFTWARE - X -
+ ARCHIV/LINUX/UBUNTU - X -
+           DIRECTORY - O -
+                .ISO - X -
+                FILE - X -
+                SUDO - - X
+                 W/O - - X
+          PERMISSION - - X
+             APT-GET - - S
+                WINE - - O
+                  .. - - X
+                 EXE - - S
+                DOCS - - O

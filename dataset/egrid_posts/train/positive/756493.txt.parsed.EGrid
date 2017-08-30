@@ -1,0 +1,11 @@
+              UBUNTU X - - -
+                WUBI X - - -
+                HOST O - - -
+                BOOT X - - -
+          /ETC/FSTAB - S - -
+             NOTHING - O - -
+                DATA - - O -
+                /VAR - - X -
+                LAMP - - X -
+               REPOS - - O -
+                  AH - - - X

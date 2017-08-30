@@ -1,0 +1,30 @@
+                 WAY S - - - - X - - - - - - - - - - -
+            ECRYPTFS X X - - - - X - S - - - O - - - -
+           DIRECTORY O - - - - - - - - - - - - - - - -
+                BOOT X - - - - - - - - - - - - - - - -
+               HTTPS O - - - - - - - - - - - - - - - -
+//HELP.UBUNTU.COM/10.04/SERVERGUIDE/C/ECRYPTFS.HTML O - - - - - - - - - - - - - - - -
+            PASSWORD O O - - - O O - O - - - - - - - -
+           PLAINTEXT X - - - - X - - - - - - - - - - -
+              FORMAT X - - - - - - - - - - - - - - - -
+                 DIR - S O - - - O - O - - - - - - - -
+                USER - X - - - - X - - - - - - - - - -
+               LOGIN - X - - - - - - - - - - - - - - -
+             PROCESS - - X - - - - - - - - - - - - - -
+              SCRIPT - - - - O - - - - - - - - - - - -
+                 RUN - - - - X - - - - - - - - - - - -
+               LEVEL - - - - X - - - - - - - - - - - -
+                  OS - - - - - - O - - - - - - - - - -
+        /ETC/SUDOERS - - - - - - - X - - - - - - - - -
+        PASSWORDLESS - - - - - - - - - O - - - - - - -
+               ISSUE - - - - - - - - - - O - - - - - -
+           PARTITION - - - - - - - - - - X - - - - - -
+                 OK. - - - - - - - - - - - S - - - - -
+                 ^_^ - - - - - - - - - - - - S - - - -
+/HOME/USER_NAME/PRIVATE - - - - - - - - - - - - X - - - -
+               THING - - - - - - - - - - - - - - - O -
+                SUDO - - - - - - - - - - - - - - - - X
+           SOMETHING - - - - - - - - - - - - - - - - S
+                  -O - - - - - - - - - - - - - - - - X
+      KEY=PASSPHRASE - - - - - - - - - - - - - - - - O
+ ECRYPTFS_CIPHER=AES - - - - - - - - - - - - - - - - X

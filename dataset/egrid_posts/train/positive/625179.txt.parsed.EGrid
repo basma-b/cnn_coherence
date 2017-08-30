@@ -1,0 +1,26 @@
+               10.04 O - -
+                LYNX S - -
+                ISNT O - -
+               WORLD X - -
+               PLACE S - -
+               THERE S - -
+                 ALT X - -
+                CTRL X - -
+                 KEY X - -
+               PRESS O - -
+            SHUTDOWN - O -
+                SUDO - S -
+            TRAVERSE - X -
+         REDIRECTION - X -
+                DUDE - S -
+                 TEE - X -
+/PROC/SYS/NET/IPV4/IP_FORWARD - X -
+           BLACKLIST - O -
+              DRIVER - X -
+               WLAN0 - X -
+            WIRELESS - X -
+           INTERFACE - X X
+       /ETC/RC.LOCAL - X -
+                EXIT - X -
+                LINE - X -
+              IFDOWN - - X

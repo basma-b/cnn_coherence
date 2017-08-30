@@ -1,0 +1,13 @@
+              WINDOW O - - -
+           SOMETHING O - - -
+             FOO=BAR X - - -
+         ENVIRONMENT X X - -
+            VARIABLE S - - -
+             SESSION X - - -
+   SESSIONS/RESTARTS - X - -
+               LINUX - - X -
+          EQUIVALENT - - X -
+        AUTOEXEC.BAT - - X -
+          ~./PROFILE - - X -
+           ~/.BASHRC - - X -
+          DIFFERENCE - - - O

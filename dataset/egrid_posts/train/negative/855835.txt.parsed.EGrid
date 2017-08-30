@@ -1,0 +1,23 @@
+                DISK - O - - - - - - - -
+               ORDER - O - - - - - - - -
+                BIOS - X - - - - - - - -
+               S-ATA - X X - - - - - - -
+                BOOT - X - - - X - - - -
+              DEVICE - X - - - - - - - -
+               THERE - - S - - - - - - -
+               DRIVE - - X - - - - - - -
+                OSES - - - X - - - - - -
+             WINDOWS - - - - O - - - O -
+             DEFAULT - - - - X X - - - -
+                GRUB - - - - - X - - S -
+                   E - - - - - O - - - -
+             COMMAND - - - - - X - - - -
+                LIST - - - - - O - - - -
+                FILE - - - - - O - - - -
+                SUDO - - - - - - - S - -
+/ETC/GRUB.D/06_OS-PROBER - - - - - - - X - -
+         UPDATE-GRUB - - - - - - - O - -
+               LINUX - - - - - - - - X -
+               ENTRY - - - - - - - - X -
+           GRUB-MENU - - - - - - - - X -
+                THAT - - - - - - - - - O

@@ -1,0 +1,7 @@
+               BYTES O -
+           PARTITION X -
+                DISK X -
+            512BYTES X -
+            /DEV/SDA X -
+                BOOT - X
+              RECORD - X

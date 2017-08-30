@@ -1,0 +1,16 @@
+                ROOT - X - - - - - - - - -
+              ACCESS - O - - - - - - - - -
+             MACHINE - X - - - - - - - - -
+                 DEB - O - - - - - - - - -
+                USER - X - - - - - - O - -
+                THAT - - X - - - - - - X -
+               USERS - - - - S - - - - - -
+               STICK - - - - - - O - - - -
+                GRUB - - - - - - X - - - -
+                MENU - - - - - - X - - - -
+        /ETC/SUDOERS - - - - - - - O - X -
+                SUDO - - - - - - - - X - -
+               GROUP - - - - - - - - X - -
+         PERMISSIONS - - - - - - - - - O -
+              REASON - - - - - - - - - X -
+                  -W - - - - - - - - - - X

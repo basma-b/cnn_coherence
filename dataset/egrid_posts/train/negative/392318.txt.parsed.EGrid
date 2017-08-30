@@ -1,0 +1,15 @@
+           PARAMETER X - - - - - -
+              MODULE X - - - - - -
+         AUTOLOADING - X - - - - -
+                TYPE - - X - - - -
+            MODPROBE - - O - - - -
+                BOOT - - - X - - -
+                AC97 - - - X - - -
+                LOOK - - - O - - -
+                FILE - - - O - - -
+                  .. - - - X - - -
+            EXAMPLES - - - O - - -
+           DIRECTORY - - - X - - -
+             OPTIONS - - - X - - -
+                LINE - - - O - - -
+                HTTP - - - - - - X

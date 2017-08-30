@@ -1,0 +1,10 @@
+  NETWORK/INTERFACES S X -
+                TRIP O - -
+                BOOT - X -
+             HOTPLUG - S -
+             NETWORK - X -
+           INTERFACE - O -
+                 MAP - X -
+                 TAG - O -
+              GOOGLE - - X
+           WIKIPEDIA - - X

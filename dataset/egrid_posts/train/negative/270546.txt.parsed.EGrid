@@ -1,0 +1,9 @@
+             COMMAND X X - -
+              MEMORY X X - -
+               FLASH X X - -
+              SERVER X X - -
+                TAIL - - O -
+                 SDA - - X -
+                 SDB - - O -
+                /MNT - - S -
+           DIRECTORY - - O -

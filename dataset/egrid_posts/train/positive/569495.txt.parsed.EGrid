@@ -1,0 +1,22 @@
+                 PTY O - O - X - - - -
+                HELP O - O - O - - - -
+                9.04 - X - X - X - - -
+               HTTPS - - X - X - X - -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/UPDATE-MANAGER/+BUG/338071 - - X - X - X - -
+           SOLUTIONS - - S - S - S - -
+            TERMINAL - - - - O - - - -
+                LINE - - - - - - S - -
+                   ' - - - - - - - X -
+                THAT - - - - - - - O -
+                  DI - - - - - - - S -
+              DEVPTS - - - - - - - O -
+                  RW - - - - - - - X -
+              NOEXEC - - - - - - - X -
+              NOSUID - - - - - - - X -
+               GID=5 - - - - - - - X -
+           TERMINALS - - - - - - - X -
+         CTRL+ALT+F2 - - - - - - - X -
+              ERRORS - - - - - - - S -
+             OPTIONS - - - - - - - S -
+                 ALL - - - - - - - X -
+                FILS - - - - - - - X -

@@ -1,0 +1,25 @@
+/ETC/NETWORK/INTERFACES O - O - - - - - -
+           BROADCAST X - X - - X - - -
+             NETWORK X - X - - - - - -
+              SWITCH X - X - - X - - -
+             GATEWAY - S - S - - - - -
+             NETMASK - S - S - - - - -
+                  IP - O - O X - - - -
+                 ING - - - - X - - - -
+                 BOX - - - - X - - - -
+                PART - - - - - X - - -
+       NETWORKSWITCH - - - - - S - - -
+             TRAFFIC - - - - - X - - -
+                ROUT - - - - - O - - -
+                  .. - - - - - X - - -
+              VAULES - - - - - O - - -
+                FILE - - - - - X - - -
+               VALUE - - - - - - - X X
+            COREYMAN - - - - - - - S -
+               THINK - - - - - - - O -
+          EVERYTHING - - - - - - - X -
+           PARAGRAPH - - - - - - - X -
+                LARG - - - - - - - O -
+               SMALL - - - - - - - X -
+                ONES - - - - - - - O -
+                  IM - - - - - - - - S

@@ -1,0 +1,13 @@
+             COMMAND X - - - -
+                LINE X - - - -
+            TERMINAL X - X - -
+           COMMAND_1 - S - - -
+           COMMAND_2 - S - - -
+         APLICATIONS - - O - -
+                VIEW - - O - -
+                 MAN - - X O -
+  NAME_OF_APLICATION - - X - -
+              CTRL+C - - - S -
+                   / - - - X -
+                   Q - - - X -
+               THANK - - - - X

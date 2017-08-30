@@ -1,0 +1,12 @@
+           PARTITION X - O -
+          /ETC/FSTAB X - - -
+               USERS S - - S
+              ACCESS O - - O
+                VFAT - X - -
+                MINE - X - -
+                  RW - X - -
+                USER - X - -
+              NOAUTO - X - -
+             PROBLEM - - S -
+             STARTUP - - X -
+                THAT - - - O

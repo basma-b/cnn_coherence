@@ -1,0 +1,14 @@
+            QUESTION X - - - - -
+               DRIVE S X S O - -
+                GRUB O - - - - -
+                BIOS - S - - - -
+                BOOT - X - - - -
+              DEVICE - S - - - -
+               DMESG - - X - - -
+                 HDD - - X - - -
+                 HDA - - S - - -
+               CDROM - - O - - -
+                SATA - - - X - -
+             ATA/IDE - - - X - -
+                   U - - - - - S
+          NDSDRIVERS - - - - - O

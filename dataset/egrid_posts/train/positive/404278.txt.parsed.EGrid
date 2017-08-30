@@ -1,0 +1,14 @@
+      AUTHENTICATION O - - -
+                HOME X - - X
+             NETWORK X - - X
+               TWEAK X - - -
+             PROBLEM X - - -
+                LDAP - X X -
+              SERVER - X O -
+                NSCD - - O -
+              UBUNTU - - S -
+  /ETC/NSSWITCH.CONF - - X -
+              CLIENT - - X -
+              COMPAT - - X -
+                FILE - - X -
+             APT-GET - - S -

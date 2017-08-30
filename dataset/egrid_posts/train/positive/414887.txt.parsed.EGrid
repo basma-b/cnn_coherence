@@ -1,0 +1,5 @@
+/ETC/SECURITY/LIMITS.CONF O - - -
+              CHANGE S - - -
+              ANYONE S - - -
+                   U - X - -
+                NANO - - - X

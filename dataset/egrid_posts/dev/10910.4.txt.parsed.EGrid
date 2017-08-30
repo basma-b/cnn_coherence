@@ -1,0 +1,19 @@
+               INSTI S - - -
+               PROXY O - - -
+                 PKG O - - -
+ARCHIVE.CANONICAL.COM|91.187.29.150| X - - -
+             APT-GET S - S S
+ARCHIVE.CANONICAL.COM|91.167.29.150| - - X -
+              EXPORT - - X -
+     HTTP_PROXY=HTTP - - X -
+  //YOURPROXYADDRESS - - X -
+                ROOT - - X -
+                 SET - - O -
+                SUDO - - X -
+                  -S - - X -
+                TIME - - - X
+                THAT - - - S
+         GNOME-SHELL - - - O
+               XTERM - - - X
+                 BOX - - - X
+             MESSAGE - - - X

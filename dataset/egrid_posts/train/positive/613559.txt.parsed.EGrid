@@ -1,0 +1,17 @@
+                UUID X - - - X - - S - - -
+           PARTITION O - - - - - - - X - -
+                SWAP X - - - - - - - - - -
+               FSTAB - O - - - X S - - - -
+                BOOT - X - - - - - - - - -
+              REBOOT - - O - - - - - - - -
+                WORK - - - O - - - - - - -
+                THAT - - - - S - - S - - -
+            PRIORITY - - - - X - - - - - -
+                  -1 - - - - S - - - - - -
+               BYTES - - - - S - - - - - -
+           /DEV/SDA4 - - - - - S - - - - -
+                FILE - - - - - - O - - - -
+           SOMETHING - - - - - - X - - - -
+         ASSIGNMENTS - - - - - - S - - - -
+                   * - - - - - - X - - - -
+               STUFF - - - - - - - - O - -

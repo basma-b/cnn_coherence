@@ -1,0 +1,14 @@
+            SHUTDOWN X - - - - - - -
+             COMMAND S - - - - - - -
+                WORK O - - - - - - X
+                ROOT X - - - - X - -
+              ACCESS X - - - - - - -
+            SECURITY - X - - - - - -
+                FLAW - O - - - - - -
+            DECISION - - S - - - - -
+                SUDO - - - - S - - -
+      /SBIN/SHUTDOWN - - - - O - - -
+          PRIVELEGES - - - - - S - -
+                LINK - - - - - - - X
+              MIRROR - - - - - - - X
+               BREAK - - - - - - - O

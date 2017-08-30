@@ -1,0 +1,17 @@
+             NETWORK X - - -
+           INTERFACE X - - -
+             POST-UP S - - -
+              SCRIPT O - - -
+         RESOLV.CONF X - - -
+            RESOLVER O - - -
+     NETWORK-MANAGER X - - -
+/ETC/NETWORK/INTERFACES X - - -
+               IFACE X - - -
+              CHANGE X - - -
+              DAEMON O X - -
+          STATEMENTS X - - -
+                NAME X - - -
+             SERVERS O - - -
+                   * - S - -
+                BOOT - - - X
+                 ATI - - - O

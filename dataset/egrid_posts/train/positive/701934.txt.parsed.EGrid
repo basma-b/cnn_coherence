@@ -1,0 +1,17 @@
+           PARTITION O X - -
+              FORMAT X - - -
+                NTFS O X - -
+              PARDON - S - -
+                EXT4 - S - -
+                 HMM - O - -
+          OWNERSHIPS - X - -
+                DATA - O - -
+                USER - X - -
+                DISK - S - -
+            PRACTICE - S O -
+               STUFF - O - -
+                   ' - - - X
+          IMPRESSION - - - X
+                FILE - - - X
+        /ETC/PROFILE - - - X
+            ~.BASHRC - - - O

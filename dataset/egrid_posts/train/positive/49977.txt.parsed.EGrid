@@ -1,0 +1,16 @@
+                   X S - - - - - -
+                GRUB X - - - - - -
+                BOOT S - - - - - -
+              MINUTE - X - - - - -
+                TYPE - - X - - X -
+            /DEV/SDA - - X - X - -
+               RIGHT - - X - - - -
+                  .. - - - X X - -
+             MACHINE - - - - X - -
+              OUTPUT - - - - S - -
+                HDA1 - - - - X - -
+                 AHA - - - - X - -
+        GRUB-INSTALL - - - - - X -
+                HDA0 - - - - - X -
+              FORMAT - - - - - - O
+              DEVICE - - - - - - X

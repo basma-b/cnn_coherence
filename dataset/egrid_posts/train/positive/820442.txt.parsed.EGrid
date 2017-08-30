@@ -1,0 +1,17 @@
+               VALUE X O - -
+           PROCESSOR X - - S
+            REGISTER X X - S
+                THAT - S - -
+                 GDB - S - S
+             CONTROL - X - -
+        ARCHITECTURE - X - -
+                  EG - X - -
+                 CR0 - X - -
+                 CR1 - X - -
+                 ETC - X - -
+               PRINT - - - X
+             COMMAND - - - O
+                  IM - - - S
+                QEMU - - - X
+                VBOX - - - S
+           SOMETHING - - - O

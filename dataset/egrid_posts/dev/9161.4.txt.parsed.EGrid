@@ -1,0 +1,20 @@
+                ROOT X - - - - - - -
+             STARTUP X X - - - - - -
+CRYPTSETUP=/DEV/SDA3 - X - - - - - -
+           LINUXROOT - X - - - - - -
+               PARAM - X - - - - - -
+                DOSE - S - - - - - -
+           SOMETHING - S - - - - - -
+/DEV/MAPPER/SDA3_CRYPT - X - - - - - -
+/DEV/MAPPER/LINUXROOT - O - - - - - -
+              CHANGE - - X - - - - -
+               FSTAB - - X - - - - -
+                BOOT - - S O - - - -
+                  .. - - O - - - - -
+             NOTHING - - X - - - - -
+                   A - - - S - - - -
+            ARGUMENT - - - - X - - -
+                   > - - - - - - - X
+               HTTPS - - - - - - - X
+//LAUNCHPAD.NET/UBUNTU/PRECISE/AMD64/LIBAUDIOFILE0 - - - - - - - X
+//LAUNCHPAD.NET/UBUNTU/PRECISE/I386/LIBAUDIOFILE0 - - - - - - - X

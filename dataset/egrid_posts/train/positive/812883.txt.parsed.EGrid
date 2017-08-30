@@ -1,0 +1,17 @@
+               PRINT X - - -
+               BATCH O - O S
+             COMMAND O O - S
+            INSTANCE - X - -
+                  SH - X - -
+             MYBATCH - X - -
+                   > - X - X
+     MYOUTPOTLOG.TXT - X - -
+                 SET - X - -
+                  -X - S - -
+                NOTE - O - -
+              STDERR - X - -
+                NAME - - - X
+              AAA.SH - - - O
+              LAUNCH - - - X
+           MYLOG.TXT - - - X
+              OUTPUT - - - O

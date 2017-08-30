@@ -1,0 +1,18 @@
+             COMMAND X - - - - - - - - -
+                FILE O - - X X - - - - -
+              NVIDIA - X - - - - - - - -
+      NVIDIA-XCONFIG - - S - - - - - - -
+              SYSTEM - - X - - - - - - -
+                XORG - - O - - - - - - -
+               ERROR - - - O - - - - - -
+                DATA - - - S - - - - - -
+  /ETC/X11/XORG.CONF - - - X X - - - - -
+              BACKED - - - - X - - - - -
+/ETC/X11/XORG.CONF.BACKUP - - - - S - - - - -
+                  'S - - - - S - - - - -
+             PROMISE - - - - O - - - - -
+                 TAR - - - - - - - - O -
+             DESKTOP - - - - - - - - S -
+           HIERARCHY - - - - - - - - X -
+         DIRECTORIES - - - - - - - - X -
+    USERNAME/DESKTOP - - - - - - - - - O

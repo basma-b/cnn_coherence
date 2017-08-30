@@ -1,0 +1,5 @@
+                SWAP X - -
+           PARTITION X - -
+                 UDP - - S
+                 LAN - - X
+                 SCP - - S

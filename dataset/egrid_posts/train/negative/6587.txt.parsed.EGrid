@@ -1,0 +1,15 @@
+       LINUX-HEADERS S - - - - - -
+                SUDO - X - - - - -
+             APT-GET - S - - - - -
+                 SAY - O - - - - -
+              MODULE - S - - - - -
+                 RUN - X - - - - -
+              KERNEL - X - - - - -
+              SQLITE - - - X - - -
+             BROWSER - - - X - - -
+           LIBRARIES - - - - O - -
+            LANGUAGE - - - - X - -
+              ENGINE - - - - O - -
+                   C - - - - - X -
+                 C++ - - - - - X X
+             PACKAGE - - - - - - X

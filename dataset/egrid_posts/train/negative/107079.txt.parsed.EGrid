@@ -1,0 +1,32 @@
+                  IM S - S - - - - S - - - -
+               SETUP X - - - - - - - - - - -
+               RT3.4 O - - - - - - - - - - -
+                5.10 X - - - - - - - - - - -
+                 APT - S - - - - - - - - - -
+             APACHE2 - X - - - - - - - - - -
+               MYSQL - X O X - X - - - O - -
+                  RT - O - - - - - - - - - -
+                   ' - - - S - - - - - - - -
+               ERROR - - - O - - - - - - - -
+              SERVER - - - X - O - - - - - -
+              SOCKET - - - S - - - - - - - -
+         MYSQLD.SOCK - - - S X - - - - - - -
+              MYSQLD - - - S - - - - - - - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK - - - X - - - - - - - -
+             DEFAULT - - - - X - - - - - - -
+                SUDO - - - - - X - - - - - -
+   /ETC/INIT.D/MYSQL - - - - - S - - - - - -
+            DATABASE - - - - - X - - - - - -
+                  .. - - - - - X - - - - - -
+              SYSLOG - - - - - - X O - - - -
+               FLOOD - - - - - - - - - O - -
+                HTTP - - - - - - - - - X - -
+//PASTE.UBUNTU-NL.ORG/579 - - - - - - - - - X - -
+        INSTRUCTIONS - - - - - - - - - O - -
+              REASON - - - - - - - - - - - S
+             UPGRADE - - - - - - - - - - - X
+              SYSTEM - - - - - - - - - - - O
+              DETAIL - - - - - - - - - - - X
+                NEED - - - - - - - - - - - X
+           SOMETHING - - - - - - - - - - - X
+                YEAR - - - - - - - - - - - O

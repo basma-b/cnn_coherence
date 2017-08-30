@@ -1,0 +1,11 @@
+            DHCLIENT S - - -
+         RESOLV.CONF O - - -
+                HTTP - X - -
+//WWW.GOOGLE.COM/SEARCH - X - -
+                THAT - - O -
+Q=UBUNTU+MAKE+DHCLIENT+NOT+OVERWRITE+RESOLV.CONF - - X -
+                AQ=T - - X -
+     RLS=ORG.MOZILLA - - X -
+    CLIENT=FIREFOX-A - - X -
+                  .. - - O -
+            SOLUTION - - O -

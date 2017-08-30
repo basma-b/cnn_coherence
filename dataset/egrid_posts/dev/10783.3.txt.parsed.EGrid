@@ -1,0 +1,15 @@
+             COMMAND X X - - - - -
+                 RUN X - - - - - -
+                BOOT X - - - - - -
+                PATH - - - X - - -
+                   / - - - - X - -
+            LOCATION - - - - - X -
+            TERMINAL - - - - - S -
+              SCRIPT - - - - - S -
+           SOMETHING - - - - - X -
+                   > - - - - - X -
+                TYPE - - - - - O -
+            LANGUAGE - - - - - O -
+                BASH - - - - - - S
+             EXAMPLE - - - - - - X
+                  CD - - - - - - X

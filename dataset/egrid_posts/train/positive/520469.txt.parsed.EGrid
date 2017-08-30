@@ -1,0 +1,11 @@
+            ANYTHING S - -
+                GRUB - S -
+             DEFAULT - X -
+                BOOT - X -
+             MANAGER - X -
+              INSTAL - X -
+           INSTALLER - X -
+                  .. - O -
+                LILO - - X
+                TYPE - - O
+           PARTITION - - X

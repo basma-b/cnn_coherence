@@ -1,0 +1,12 @@
+              SYNTAX O - - -
+               SAMBA X S - -
+               ADMIN X - S -
+             ACCOUNT O - - S
+             SUDOERS X - X -
+                FILE X - X -
+             SOMEONE S - - -
+                ROOT - - O -
+             MEMBERS - - O -
+               GROUP - - O -
+              DOMAIN - - X X
+                  DC - - - X

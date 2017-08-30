@@ -1,0 +1,18 @@
+                HELP X - - - - - - - - - - - - - - - -
+             TROUBLE - O - - - - - - - - - - - - - - -
+              UBUNTU - - O - - - - - - - - - - - - - -
+              FEDORA - - - O S - - - - - - - - - - - -
+              REASON - - - - X - - - - - - - - - - - -
+           PARTITION - - - - O - X - - - O - - - - - -
+             DEVICES - - - - O - X - - - - - - - - - -
+                 ONE - - - - - S - - - - - - - - - - -
+/DEV/MAPPER/VOLGROUP00-LOGVOL00 - - - - - O - - - - - - - - - - -
+             EXAMPLE - - - - - X - - - - - - - - - - -
+                 WAY - - - - - - X - - - - - - - - - -
+                 ALL - - - - - - S - - - - X - - - - -
+            /DEV/SDA - - - - - - X - - - X - - - - - -
+              FORMAT - - - - - - - - - - - - X - - - -
+                EXT3 - - - - - - - - - - - - X - - - -
+               ERROR - - - - - - - - - - - - X X - - -
+            TERMINAL - - - - - - - - - - - - - - X - -
+         INFORMATION - - - - - - - - - - - - - - O - -

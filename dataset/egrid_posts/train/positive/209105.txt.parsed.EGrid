@@ -1,0 +1,17 @@
+               HIYAS S - - - -
+               NEWBY X - - - -
+             TROUBLE O - - - -
+             NETWORK O - - - -
+           INTERFACE S - - - -
+            DHCLIENT - O X - -
+                BOOT - - X - -
+      CONFIGURATIONS - - X - -
+/ETC/NETWORK/INTERFACES - - - X -
+             EXAMPLE - - - X -
+                AUTO - - - X -
+                ETH0 - - - X -
+               IFACE - - - X -
+                DHCP - - - X -
+                LINE - - - X -
+                   ^ - - - S -
+             PROBLEM - - - - X

@@ -1,0 +1,16 @@
+              RETURN X - - - -
+         DESTINATION X - - - -
+                HOST X - - - -
+         UNREACHABLE X - - - -
+              ROUTER - X - - -
+           INTERFACE - S - - -
+            INTERNET - - - X -
+          CONNECTION - - - X -
+                  .. - - - O -
+                 DNS - - - X -
+                WORK - - - O -
+               THATS - - - S -
+                 USB - - - - X
+               DRIVE - - - - X
+             MACHINE - - - - X
+              UBUNTU - - - - X

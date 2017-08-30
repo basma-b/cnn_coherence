@@ -1,0 +1,8 @@
+              SYNTAX X - - -
+                PATH O - - -
+                EXEC X - - -
+              FOLDER O - - X
+        /BIN/COMMAND - X - -
+          EXECUTABLE - - - O
+              TARGET - - - X
+                LINE - - - X

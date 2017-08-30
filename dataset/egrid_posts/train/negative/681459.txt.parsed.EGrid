@@ -1,0 +1,17 @@
+                FILE X - - - - - - - -
+         PERMISSIONS O - - - - - - - -
+               -RW-R X O - - - - - - -
+                 WAY X - - - - - - - -
+              NUMBER O S - - - - - - -
+          PERMISSION - - X - - - - - -
+                THAT - - - X - X O - -
+             DRWXR-X - - - X - - - - -
+                  .. - - - - X - - - -
+              ZIMBRA - - - - X - - - -
+                USER - - - - X - - - -
+                   ' - - - - - - X - -
+                SUDO - - - - - - O - -
+              SCRIPT - - - - - - X - -
+               DUNNO - - - - - - X - -
+               XLOCK - - - - - - - - O
+             PACKAGE - - - - - - - - X

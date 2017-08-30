@@ -1,0 +1,23 @@
+                THAT O - - -
+              REASON X - - -
+                 USB S - - -
+               10.10 X - - -
+               DRIVE X - - -
+          EVERYTHING O - - -
+                   / X - - -
+               /BOOT X - - -
+               /HOME X - - -
+                /VAR X - - -
+                /TMP X - - -
+                  .. X - - -
+             WINDOWS S - - -
+         REPARTITION X - - -
+           PARTITION X - X X
+                GRUB O - - -
+                BOOT O - - -
+PARTIMAGE/CLONEZILLA - S - -
+PARTITIONIMAGE/CLONEZILLA - - S -
+              LAYOUT - - O S
+               STUFF - - - S
+                HTTP - - - O
+//PASTEBIN.COM/PJ81MZ9Z - - - X

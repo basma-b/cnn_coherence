@@ -1,0 +1,13 @@
+               THERE X - - - X
+                 WAY X - - - X
+             NETWORK X - - - -
+      AUTHENTICATION X - - - O
+                BASE O - - - -
+             MACHINE X - - - -
+       /ETC/PASSWORD X - - - -
+         /ETC/SHADOW X - - - -
+                FILE X - - - -
+                 NIS - X - X X
+                LINK - - O - -
+        DISADVANTAGE - - - X -
+            OPENLDAP - - - X S

@@ -1,0 +1,16 @@
+                INIT X - - - - -
+              SCRIPT S - - - - -
+                FILE S O X - - -
+                WORK O - - - - -
+                 LOG - X X - - -
+              DAEMON - X - - - -
+              OUTPUT - - O - - -
+               PRINT - - - X - -
+               STUFF - - - O - -
+             COMMAND - - - O - -
+                SUDO - - - X X -
+   START-STOP-DAEMON - - - - O -
+          BACKGROUND - - - - O -
+                STOP - - - - O -
+                EXEC - - - - O -
+              APACHE - - - - X -

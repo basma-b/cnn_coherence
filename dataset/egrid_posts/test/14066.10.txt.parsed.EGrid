@@ -1,0 +1,13 @@
+                NAME X - - - - -
+                CARD X - - - - -
+              SYSTEM X - - - - -
+               LSPCI - X - - - -
+                 VGA - X - - - S
+                  » - S - - - -
+              NVIDIA - - - X - -
+                 ATI - - - X - -
+                  .. - - - X - -
+                   | - - - - - X
+                GREP - - - - - X
+                  -I - - - - - X
+                 RAM - - - - - O

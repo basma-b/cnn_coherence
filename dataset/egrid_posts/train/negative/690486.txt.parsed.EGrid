@@ -1,0 +1,20 @@
+                  IM S - - - -
+                  TP S - - - -
+              DRIVER O - - O -
+INCLUDE/LINUX/AUTOCONF.H X - - - -
+INCLUDE/CONFIG/AUTO.CONF S - - - -
+           OLDCONFIG - O - - -
+             PREPARE - O - - -
+           AUTO.CONF - S - - -
+              FOLDER - X - - -
+               CHECK - X - - -
+          AUTOCONF.H - S - - -
+              CUSTOM - - - X -
+             KERNELS - - - S -
+             SUPPORT - - - O -
+              KERNEL - - - X -
+                TREE - - - X -
+                 ALL - - - - O
+                FILE - - - - X
+              INSIDE - - - - X
+         RECURSIVELY - - - - X

@@ -1,0 +1,12 @@
+             ABIWORD X - - - - -
+                WORD - X - - - -
+             PROCESS - X - - - -
+                TOOL - X - - - -
+             GRAMMAR - X - - - X
+              FORMAT - X - - - -
+             FEATURE - O - - - -
+               LATEX - - S - - X
+              BIBTEX - - X - - -
+                PAGE - - X - - -
+            DOCUMENT - - O - - -
+               CHECK - - - - - X

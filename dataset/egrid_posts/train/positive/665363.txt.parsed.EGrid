@@ -1,0 +1,16 @@
+                 BOX X - - - - - - -
+                 VIX X - - - - - - -
+                 SSH X - X - - - - -
+                FILE S - X - - - - -
+                COMP X - - - - - - -
+          CONNECTION O - - - - - - -
+                   < - - X - - - - -
+                   > - - X - - - - -
+               NOHUP - - - - S - - -
+               CHILD - - - - X - - -
+             PROCESS - - - - S - - -
+              SIGNAL - - - - S - - -
+              PARENT - - - - X - - -
+             PROGRAM - - - - S - - -
+                 MAN - - - - O - - O
+                PART - - - - - - - S

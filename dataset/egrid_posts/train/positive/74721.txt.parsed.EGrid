@@ -1,0 +1,25 @@
+              ANYONE S - - - - - - - - - - - -
+CONFIG_BLK_DEV_INITRD O - - - - - - - - - - - -
+          MENUCONFIG X - - - - - - - - - - - -
+               MOUSE - X - O - - - - X - O - -
+               WHEEL - S O - - - - - X - S - X
+                 CAT - - X - - - - - X - - - X
+     /DEV/INPUT/MICE - - S - - - - - S - - - O
+            ACTIVITY - - O - - - - - - - - - -
+                 LOG - - - S - - - - - - - - -
+                THAT - - - - X - - - - - - S -
+             PROBLEM - - - - X X - - - - - - -
+               THERE - - - - - X - - - - - - S
+              KERNEL - - - - - X - - - - X - -
+                 MAP - - - - - - X - - - - - -
+           XORG.CONF - - - - - - X - - - - - -
+              SCROLL - - - - - - - - X - - - -
+            RESPONSE - - - - - - - - S - - - -
+               BREAK - - - - - - - - O - - - -
+             GENERIC - - - - - - - - - - S - -
+               THING - - - - - - - - - - S O -
+        XSERVER-XORG - - - - - - - - - - O - -
+                BASE - - - - - - - - - - - O -
+                XORG - - - - - - - - - - - - X
+               HOURS - - - - - - - - - - - - O
+             NOTHING - - - - - - - - - - - - S

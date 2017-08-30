@@ -1,0 +1,13 @@
+          PULSEAUDIO S - - - - - -
+                SINK O - - - - - -
+               SOUND X - - - - - -
+                CARD S - - - - - -
+              INSERT O - - - - - -
+             UPMIX51 - X - - - - -
+                HW:1 - O - - - - -
+                PLUG - O - - - - -
+/ETC/PULSE/DAEMON.CONF - X - - - - -
+               SORRY - - - - - X -
+                VINO - - - - - S -
+             REQUEST - - - - - X -
+                  .. - - - - - X -

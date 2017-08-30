@@ -1,0 +1,12 @@
+                HTTP O - - -
+//TLDP.ORG/HOWTO/XWINDOW-USER-HOWTO/CLI.HTML X - - -
+~/CONFIG//AUTOSTART/RXVT.DESKTOP X - - -
+   EXEC=RXVT-UNICODE X - - -
+           -GEOMETRY X - - -
+                  +0 X - - -
+              WINDOW - S - -
+               DOESN - - - X
+                   T - - - S
+               MATCH - - - X
+                  LC - - - X
+                LANG - - - X

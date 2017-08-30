@@ -1,0 +1,14 @@
+             DEFAULT X - - -
+             SUDOERS S - O -
+           USERNAMES O - - -
+                 ALL S - - -
+                TYPE X - - -
+              GROUPS X - - -
+               ADMIN X X - -
+               GROUP X X - -
+            RECOVERY - X - -
+                MODE - S - -
+                ROOT - X - -
+               GEDIT - - X -
+                THAT - - - S
+             RPOBLEM - - - O

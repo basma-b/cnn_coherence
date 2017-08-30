@@ -1,0 +1,10 @@
+             PROGRAM X - - - -
+              DEVICE O - - - -
+                 USE - X - - -
+             EXAMPLE - X - - -
+           /DEV/SDA1 - S - - -
+                  .. - - X - -
+              RETURN - - - X -
+            ANYTHING - - - O -
+                LSOF - - - - X
+                 MAN - - - - X

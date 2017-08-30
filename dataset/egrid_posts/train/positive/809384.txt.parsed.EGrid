@@ -1,0 +1,17 @@
+                TIME - X - - - - -
+              UBUNTU - O - - - - -
+             MACHINE - X - - - - -
+              ORACLE - X - - - - -
+                  VM - X - - - - -
+            PASSWORD - O - - - - -
+                BOOT - - - S - O -
+            RUNLEVEL - - - X - - O
+                ROOT - - - X - - -
+               SHELL - - - O - - -
+           PASSWORDS - - - O - - -
+            SEQUENCE - - - - - X -
+                GRUB - - - - - - X
+              SCREEN - - - - - - X
+          FILESYSTEM - - - - - - X
+              SHADOW - - - - - - X
+                FILE - - - - - - O

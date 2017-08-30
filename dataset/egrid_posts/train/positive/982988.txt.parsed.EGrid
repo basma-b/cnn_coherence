@@ -1,0 +1,13 @@
+                 USB X - - - - - -
+                DISK X - - - - - -
+                MORE O - - - - - -
+               CHECK - - X - - - -
+          /ETC/FSTAB - - X - - - -
+              KERNEL - - X X - - S
+             SUPPORT - - O O - - -
+                 ETC - - X - - - -
+              DEVICE - - - S - - -
+                KERN - - - O - - -
+               STOCK - - - - - X -
+LINUX-IMAGE-2.6.10-5-386 - - - - - O -
+                UDEV - - - - - - O

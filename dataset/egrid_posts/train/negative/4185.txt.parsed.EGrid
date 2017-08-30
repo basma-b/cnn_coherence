@@ -1,0 +1,14 @@
+             COMMAND O - - -
+            URL-HERE X - - -
+                LINE X - - -
+            DOWNLOAD X - - -
+                FILE X - - -
+           DIRECTORY - X - -
+/ETC/APT/SOURCES.LIST - - - O
+              OUTPUT - - - O
+                SUDO - - - X
+             APT-GET - - - X
+              UPDATE - - - X
+           APT-CACHE - - - X
+              POLICY - - - X
+ LIBMYSQLCLIENT15OFF - - - X

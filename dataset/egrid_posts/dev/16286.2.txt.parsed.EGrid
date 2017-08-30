@@ -1,0 +1,25 @@
+               12.04 O - - - - - -
+            COMPUTER X - - - - - -
+               PLACE O - - - - - -
+             QUANTAL - - - - X - -
+                BOOT - - - - X - -
+                  HP - - - - X - -
+              SERIES - - - - X - -
+              LAPTOP - - - - X - -
+                LOAD - - - - X - X
+              SCREEN - - - - X - -
+                SRRY - - - - X - -
+            UBUNTU+1 - - - - O - -
+             RVMSUDO - - - - - X -
+                 USE - - - - - - X
+             PROBLEM - - - - - - S
+                PATH - - - - - - S
+              APACHE - - - - - - X
+           PASSENGER - - - - - - X
+               POINT - - - - - - X
+/USR/LOCAL/PASSENGER/EXT/APACHE2/MOD_PASSENGER.SO - - - - - - X
+        INSTALLATION - - - - - - S
+                 GEM - - - - - - X
+.RVM/GEMS/REE-1.8.7-2012.02/GEMS/PASSENGER-2.2.15/EXT/APACHE2/MOD_PASSENGER.SO - - - - - - X
+             SERVERS - - - - - - O
+/USR/LOCAL/PASSENGER - - - - - - X

@@ -1,0 +1,23 @@
+           CONFIGURE O - - - - - - - -
+             NETWORK X - - - - - - - -
+             MACHINE O - - - - - - - -
+             POSTFIX - S - - - - X - X
+             MAIN.CF - O - - - - - - -
+             INCLUDE - X - - - - - - -
+          MYHOSTNAME - X - - X - - - -
+   /ETC/POSTFIX/HOST - S - - - - - - -
+       README.DEBIAN - S - - - - - - -
+            HOSTNAME - S - - - - - - -
+                READ - S - - - - - - -
+                FILE - S - - - X - - -
+                THIS - - O X - - - - -
+               THERE - - - X - - - - -
+                 WAY - - - X - - - - -
+LOCALHOST.LOCALDOMAIN - - - - X - - - -
+           LOCALHOST - - - - X - - - -
+                DICE - - - - X - - - -
+               THING - - - - - O - - -
+                  .. - - - - - - X - -
+             STRANGE - - - - - - X - -
+        MAILINGLISTS - - - - - - X - -
+             CHANNEL - - - - - - - X -

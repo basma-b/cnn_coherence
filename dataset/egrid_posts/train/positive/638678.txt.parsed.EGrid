@@ -1,0 +1,10 @@
+              WEBCAM O - -
+              DEVICE X - -
+         /DEV/VIDEO0 X - -
+                READ X - -
+         PERMISSIONS O - -
+               USERS X - O
+               GROUP X - X
+                USER - - O
+              THINGS - - O
+                TOOL - - X

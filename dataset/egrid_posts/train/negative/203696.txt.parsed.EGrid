@@ -1,0 +1,33 @@
+             WARNING X X - - - -
+             UNKNOWN X - - - - -
+                OPEN S - - - - -
+/VAR/LIB/PHP5/SESS_WF8KRKGTNQUOD9XQWOHUM0G X X - - - -
+                 -EF X X - - - -
+              O_RDWR X X - - - -
+                FILE X X - - - -
+              SYSTEM X O - - - -
+                LINE X X X - - -
+             SESSION X X - - - -
+                DATA O O - - - -
+                 SET - S S - - -
+   SESSION.SAVE_PATH - X X - - -
+       /VAR/LIB/PHP5 - X X - - -
+              ERRORS - S O - - -
+                HELP - X - - - -
+ SESSION_WRITE_CLOSE - X - - - -
+FUNCTION.SESSION-WRITE-CLOSE - X - - - -
+               -RSB- - S - - - -
+/USR/SHARE/PHPMYADMIN/LIBRARIES/COMMON.LIB.PHP - X - - - -
+               THERE - - S - - -
+                DISK - - X - - -
+               SPACE - - O - - -
+                   * - - S - - -
+           FILSYSTEM - - X - - -
+           WRITEABLE - - X - - -
+              OPTION - - S - - -
+           PARTITION - - O - - -
+      ROOT-PARTITION - - - S - -
+                TIME - - - - X -
+               START - - - - X -
+                  .. - - - - X -
+                PLAN - - - - - X

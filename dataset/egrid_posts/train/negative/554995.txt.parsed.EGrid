@@ -1,0 +1,8 @@
+                 SSH - S -
+              NOBODY - S -
+                USER - O -
+               CHOWN - X -
+                SAME - - X
+               IMAGE - - X
+                DISK - - X
+                 K3B - - X

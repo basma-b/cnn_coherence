@@ -1,0 +1,16 @@
+                  FS O - - -
+           PARTITION O O - -
+              FORMAT X X - -
+             SOLARIS X - - -
+          VFAT/FAT32 X X - -
+                WORK O - - -
+           MKFS.VFAT X - - -
+               ERROR O - - -
+               FDISK X - - -
+            PARTITON S - - -
+               LINUX O X - -
+                TYPE O - - -
+          FILESYSTEM - O - -
+                 ONE - S - -
+                THAT - - - X
+              SERVER - - - O

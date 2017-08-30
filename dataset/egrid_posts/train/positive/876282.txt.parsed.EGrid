@@ -1,0 +1,13 @@
+              MATTER X - -
+                GRUB O - -
+               DRIVE X - -
+           PARTITION O - -
+                ROOT - X -
+            /DEV/SDC - X -
+           /DEV/SDC6 - X -
+              UBUNTU - S -
+                 MBR - S -
+                 USE - O -
+              DEVICE - - O
+                BOOT - - X
+        INSTALLATION - - X

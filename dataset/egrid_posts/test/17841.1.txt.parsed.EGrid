@@ -1,0 +1,11 @@
+                ROOT S - - -
+              TIGGER O - - -
+                 -LA O - - -
+         S99RC.LOCAL S - - -
+                 JUN X - - -
+    /INIT.D/RC.LOCAL O - - -
+       /ETC/RC.LOCAL X O - S
+                FILE - X - -
+             PROBLEM - O - -
+/ETC/INIT.D/RC.LOCAL - - - X
+                CALL - - - O

@@ -1,0 +1,9 @@
+             MACHINE S - - - - -
+                FSCK - S - - - -
+                SCAN - O - - - -
+                ROOT - X - - X -
+            PASSWORD - X O - S X
+                SUDO - - O - - X
+                SAME - - - - O -
+                USER - - - - X X
+             INSTALL - - - - X -

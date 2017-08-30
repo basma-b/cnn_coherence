@@ -1,0 +1,9 @@
+             FOLDERS O O -
+               FAT32 X - -
+               LINUX X X -
+               IMAGE X - -
+             WINDOWS X X -
+                  .. X O -
+                BOOT X - -
+             PROBLEM X - -
+                FILE - X -

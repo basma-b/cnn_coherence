@@ -1,0 +1,16 @@
+                FILE O - - - - - -
+           MODE=0400 X - - - - - -
+                 PC1 X - - - - - -
+                 PC2 X - O - - - -
+           ATTRIBUTE O - - - - - -
+                THAT - X - - - O -
+                 SCP - - X - - - X
+                 -RP - - X - - - -
+                ROOT - - S - - - -
+                SUDO - - - - X - -
+               FRONT - - - - X - -
+               RSYNC - - - - - X O
+                 SSH - - - - - X -
+               DOZEN - - - - - - X
+             CLIENTS - - - - - - X
+                  .. - - - - - - X

@@ -1,0 +1,15 @@
+                SUDO X - - - - -
+                GKSU O - - - - -
+                WORK X - - - - -
+            PASSWORD O O - - - O
+                LINE - O - - - -
+        ALL=NOPASSWD - X - - - -
+                 ALL - X - - - -
+        /ETC/SUDOERS - X - - - -
+             JXANDER - - S - - -
+                USER - - X - - -
+               GROUP - - X - - -
+             MACHINE - - - - X -
+            INTERNET - - - - X -
+             SESSION - - - - - X
+                 MIN - - - - - X

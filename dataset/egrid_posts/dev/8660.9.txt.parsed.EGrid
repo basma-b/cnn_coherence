@@ -1,0 +1,14 @@
+                THAT O - -
+             MACHINE X - X
+        DEPENDENCIES O - -
+                DEPS X - -
+              CLIENT X - -
+                  AD - - X
+               USERS - - X
+                AUTH - - O
+            KERBEROS - - X
+             WINBIND - - X
+            NSSWITCH - - X
+                  IM - - S
+               GROUP - - O
+             SUDOERS - - X

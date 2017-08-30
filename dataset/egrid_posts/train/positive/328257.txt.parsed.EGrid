@@ -1,0 +1,12 @@
+          ~/.XMODMAP X - - O
+         ~/.XSESSION - X - -
+               GNOME - - X S
+          ~/.XINITRC - - X -
+              FREEZE - - X -
+          ~/.GNOMERC - - S -
+         ~/.XPROFILE - - S -
+          EVERYTHING - - X -
+                 GDM - - X -
+                NEED - - - X
+                CARE - - - O
+                 ALL - - - X

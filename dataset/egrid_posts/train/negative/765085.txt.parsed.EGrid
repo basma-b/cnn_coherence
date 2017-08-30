@@ -1,0 +1,31 @@
+   DEBOOTSTRAPCHROOT S - - - -
+                I386 O - - - -
+             SCHROOT S - - - -
+              警告 O - - - -
+   /PATH/TO/NEW/ROOT X - - - -
+                THIS O X - - -
+               GUIDE S - - - -
+                LIST O - - - -
+              CHROOT - S X - -
+                 WAY - X - - -
+            ANYTHIGS - O - - -
+           GNU-UTILS - X - - -
+                 USE - - X - -
+                SUDO - - X - -
+         DEBOOTSTRAP - - O - -
+                ARCH - - O - -
+/SRV/CHROOT/LUCID_I386/ - - X - -
+                HTTP - - X - -
+//MIRRORS.163.COM/UBUNTU/ - - O - -
+                 INS - - X - -
+                HOST - - X - -
+             PROBLEM - - O - -
+               THESE - - S - -
+        INSTRUCTIONS - - O - -
+                   A - - - X -
+                 DEB - - - X -
+             PACKAGE - - - S -
+               HTTPS - - - X -
+//HELP.UBUNTU.COM/COMMUNITY/DEBOOTSTRAPCHROOT - - - X -
+                 LOL - - - - S
+/ETC/DEFAULT/ACPI-SUPPORT - - - - O

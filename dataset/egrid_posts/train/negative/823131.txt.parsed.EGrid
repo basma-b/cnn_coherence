@@ -1,0 +1,14 @@
+                DPKG S -
+              SCRIPT S -
+                LINE O -
+                FILE O -
+                 TRY S -
+           /BIN/TRUE X -
+/USR/LOCAL/BROTHER/SANE/SETUPSANESCAN2 X -
+                IDEA O -
+             PROBLEM S -
+                 FIX X -
+                GRUB - X
+              DAPPER - X
+                DISK - X
+            INTERNET - X

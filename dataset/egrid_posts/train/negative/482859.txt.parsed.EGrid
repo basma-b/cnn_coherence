@@ -1,0 +1,14 @@
+             COMMAND S - -
+                EXEC S - -
+              FORMAT S - -
+               ERROR S - -
+          MAC-SYSTEM X - -
+              CHROOT - S -
+           /BIN/BASH - S -
+                 MAC - X -
+              SYSTEM - X -
+               SHELL - O -
+                 USE - X -
+        UNRESTRICTED - - X
+               USERS - - S
+            OASSWORD - - X

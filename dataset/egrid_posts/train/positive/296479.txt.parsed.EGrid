@@ -1,0 +1,24 @@
+                TIME X - - -
+             PACKAGE O - - -
+             COMMAND X X - -
+                SUDO - X - -
+             APT-GET - S - -
+            PACKAGE2 - O - -
+                SITE - O - -
+             CHANNEL - X - -
+UBUNTU-RESTRICTED-EXTRAS - O - -
+               MEDIA - X - -
+            PROBLEMS - O - -
+            SOFTWARE - O - -
+                LINE - X - -
+              SYSTEM - X - -
+              BASICS - O - -
+                  CD - S - O
+                BOOT - O - -
+                DISK - X - -
+              EXTRAS - - - O
+             DESKTOP - - - S
+         ENVIRONMENT - - - O
+           ALTERNATE - - - S
+                TEXT - - - X
+           INSTALLER - - - O

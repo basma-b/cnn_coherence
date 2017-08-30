@@ -1,0 +1,14 @@
+                GRUB X X O - - - - -
+                BOOT - X - - - - - -
+              LOADER - X - - - - - -
+                LILO - O - - - - - -
+              FLOPPY - X X - - - - -
+                 TIB - - - - - X - -
+                  SH - - - - - X - -
+              SCRIPT - - - - - O - X
+             DEFAULT - - - - - - S -
+                DASH - - - - - - - X
+                BASH - - - - - - - S
+              ERRORS - - - - - - - O
+               STUFF - - - - - - - O
+       X-WWW-BROWSER - - - - - - - X

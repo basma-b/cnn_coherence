@@ -1,0 +1,35 @@
+               SETUP X - - - - - -
+            SHORTCUT X - - - - - -
+                 DIR O - - - - - -
+                THIS X - - - - - -
+                PATH X X - - - - -
+/HOME/USER/DOWNLOADS X X X - - - -
+/JAIL/GLFTPD/SITE/DOWNLOADS - O X - - - -
+           SOMETHING - O - - - - -
+              CHROOT - X - - - - -
+                JAIL - X - - - - -
+                   A - - O - - - -
+                 USE - - X - - - -
+                BIND - - S - - - -
+                SUDO - - S - - - -
+               MKDIR - - X - - - -
+                  -P - - X - - - -
+             STORAGE - - X - - - -
+              QUOTAS - - S - - - -
+           BANDWIDTH - - S - - - -
+//ASKUBUNTU.COM/QUESTIONS/776/HOW-I-CAN-LIMIT-DOWNLOAD-UPLOAD-BANDWIDTH-IN-UBUNTU - - O - - - -
+              KERNEL - - X - - - -
+          NETFILTERS - - X - - - -
+           INTERNALS - - X - - - -
+           SHOREWALL - - S - - - -
+                TASK - - O - - - -
+                VLAN - - S S - - -
+                USER - - X X - - -
+              ANSWER - - X - - - -
+                ROOT - - - X - - -
+              ACCESS - - - X O - -
+               RIGHT - - - O - - -
+              ROUTER - - - - X - -
+                THAT - - - - - - S
+                BEST - - - - - - O
+                   U - - - - - - S

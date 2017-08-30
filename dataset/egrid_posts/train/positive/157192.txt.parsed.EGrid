@@ -1,0 +1,13 @@
+                VFAT X - - - - -
+               DRIVE O - - - - -
+                FILE O - - - - -
+              ANYONE S - - - - -
+                THIS O - - - - -
+                ROOT - X - - X X
+                IDEA - - X - - -
+                TYPE - - X X - -
+                  RW - - - X - -
+           /DEV/HDD1 - - - S - -
+      IOCHARSET=UTF8 - - - X - -
+           UMASK=000 - - - X - -
+             DEFAULT - - - - - X

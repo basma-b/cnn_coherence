@@ -1,0 +1,20 @@
+                  PC X - - - - - - -
+                 HUH X - - - - - - -
+                 FTP - X - - - - - -
+         //LOCALHOST - X X - - - - -
+          PERMISSION - - - O - - - -
+              ACTION - - - O - - - -
+                FILE - - - O - - O -
+           DIRECTORY - - - X - X - -
+VAR/WWW/APACHE2-DEFAULT - - - X - - - -
+             EASIEST - - - O - - - -
+                 BOX - - - - O - - -
+                COPY - - - - X - - -
+             COMMAND - - - - O - - -
+             PROBLEM - - - - - O - -
+            /VAR/WWW - - - - - - O -
+                 GUI - - - - - - X -
+              GKSUDO - - - - - - X -
+                TYPE - - - - - - - X
+                HTTP - - - - - - - O
+            DIALOGUE - - - - - - - O

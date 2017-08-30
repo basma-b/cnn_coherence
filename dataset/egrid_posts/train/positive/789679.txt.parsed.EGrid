@@ -1,0 +1,16 @@
+            SYNAPTIC X - - - -
+                TIME - O - - -
+                SUDO - O - - -
+    /USR/BIN/APT-GET - O - - -
+               XXXXX - O - - -
+             APT-GET - S - - -
+                XXXX - S - - -
+              OUTPUT - O - - -
+                PATH - O - - -
+             PACKAGE - X - - -
+                NAME - O - - -
+                PART - O - - -
+             COMMAND - - X - -
+                TYPE - - X - -
+                LINE - - X - -
+           SOMETHING - - - - O

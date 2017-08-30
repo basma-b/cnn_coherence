@@ -1,0 +1,16 @@
+                 ALL O - -
+             DEFAULT X - -
+         PERMISSIONS X X O
+                FILE S S -
+                 NIX - X -
+             UTILITY - X -
+               CHMOD - O -
+                THAT - - O
+           DETERMINE - - X
+                 SET - - X
+     PROGRAM/SERVICE - - S
+              RESULT - - O
+             SYSCALL - - X
+              KERNEL - - X
+               SPACE - - O
+            SOLUTION - - O

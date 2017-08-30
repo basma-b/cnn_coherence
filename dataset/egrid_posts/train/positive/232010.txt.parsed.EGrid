@@ -1,0 +1,15 @@
+             COMMAND X - - - - -
+               DRIVE X - - - - -
+                TIME - O - - - -
+                SWAP - O X - - -
+               SPACE - O - - - -
+           SOMETHING - O - - - -
+           PARTITION - S X - - -
+                UUID - O - - - -
+                WONT - S - - - -
+                SUDO - - S - - -
+               /DEV/ - - S - - -
+                   > - - O - - -
+               ENTRY - - X - - -
+          /ETC/FSTAB - - X - - -
+               FSTAB - - - - - X

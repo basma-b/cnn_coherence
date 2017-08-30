@@ -1,0 +1,10 @@
+           VMWGFX.KO X - - -
+           INITRAMFS X - - -
+              VMWARE - O - -
+              MODULE - O - -
+                AREA - X - -
+    UPDATE-INITRAMFS - S - -
+              KERNEL - X - -
+             VERSION - O - -
+              REBOOT - - - X
+            COMPUTER - - - X

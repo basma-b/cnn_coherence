@@ -1,0 +1,15 @@
+       ACTIONPARSNIP X - - - - -
+                  -L S - - - - -
+              DEVICE S - - - X -
+                SUDO X - - - - -
+              IWLIST S - - - - -
+         NDISWRAPPER - X - - - -
+         ALTERNATIVE - - O - - -
+             DEFAULT - - - X - -
+              SOURCE - - - X - -
+             DRIVERS - - - X - -
+               LINUX - - - X - -
+                CARD - - - X - -
+             NETGEAR - - - - X -
+                  ID - - - - S -
+                 YES - - - - - X

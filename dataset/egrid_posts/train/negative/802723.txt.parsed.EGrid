@@ -1,0 +1,20 @@
+           DIRECTORY O - - - - - - - -
+             PROCESS O - - - - - - - -
+              FREEZE O - - - - - - - -
+              SYSTEM X - - - - - - - -
+                DISK O - - - - - - - -
+              ANYONE - S - - - - - - -
+                FSCK - S - - - - - - -
+              DEVICE - S - - X - - - -
+              FOLDER - - X S - - - - -
+               STORE - - - X - - - - -
+              BACKUP - - - O - - - - -
+      /MEDIA/STORAGE - - - - X - - - -
+/MEDIA/STORAGE/BACKUP/REPOS - - - - S - - - -
+              ACCORD - - - - X - - - -
+                  -H - - - - X - - - -
+                TYPE - - - - - - X - -
+                CCSM - - - - - - X - -
+              ENABLE - - - - - - - X -
+              COMPIZ - - - - - - - - S
+              ALT+F2 - - - - - - - - X

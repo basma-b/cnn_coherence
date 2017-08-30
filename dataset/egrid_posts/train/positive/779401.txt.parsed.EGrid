@@ -1,0 +1,11 @@
+              FORMAT O - X - - -
+                 2TB X - - - - -
+               DRIVE X - - - - -
+                EXT3 X - O - - -
+                EXT4 O - S - - -
+                 RWW - - - S X -
+           PARTITION - - - O X -
+                MENT - - - - X X
+               STORE - - - - X X
+                DATA - - - - X X
+                FILE - - - - X X

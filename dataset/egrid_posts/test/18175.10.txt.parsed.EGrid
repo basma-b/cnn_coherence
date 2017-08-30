@@ -1,0 +1,10 @@
+          PERMISSION O S - - -
+                /VAR X X - O -
+             DEFAULT - S - - -
+          SUBFOLDERS - X - - -
+               CHMOD - - - S -
+                  .. - - - - X
+          INTERFACES - - - - X
+                ETH0 - - - - X
+                ETH1 - - - - O
+        DNSMASQ.CONF - - - - X

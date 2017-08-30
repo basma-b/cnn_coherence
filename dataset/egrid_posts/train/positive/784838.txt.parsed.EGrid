@@ -1,0 +1,11 @@
+                 RUN X - - -
+             WINDOWS - X - -
+             CLIENTS - S - -
+             OPENVPN - - X -
+             CLIENT1 - - O -
+             CLIENT2 - - X -
+              CLIENT - - S -
+            SCARLSON - - - X
+           DIRECTIVE - - - X
+    CLIENT-TO-CLIENT - - - X
+         SERVER.CONF - - - O

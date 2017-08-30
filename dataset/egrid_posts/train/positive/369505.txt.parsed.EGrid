@@ -1,0 +1,20 @@
+          EVERYTHING S - - - - - - - -
+             MADWIFI X - - - - - - - -
+             DRIVERS S - - - - - - - -
+       MADWIFI-TOOLS O - - - - - - - -
+         NDISWRAPPER O - - - - - - - -
+              DRIVER S - - - - - - - -
+                ATH0 O - - - - - - - -
+                 ANY X - - - - - - - -
+               IDEAS X - - - - - - - O
+                THAT - O - - - - - - -
+/ETC/UDEV/RULES.D/70-PERSISTENT-NET.RULES - - O - - - - - -
+          /ETC/IFTAB - - X - - - - - -
+                 LTS - - X - - - - - -
+                TERM - - - S - - - - -
+              DAPPER - - - - O - - - -
+            IWCONFIG - - - - X - - - X
+               ESSID - - - - X - - - S
+            WIRELESS - - - - - X - X -
+                 KEY - - - - - X - O -
+                SHOW - - - - - - - - X

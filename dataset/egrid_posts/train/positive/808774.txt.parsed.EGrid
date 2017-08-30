@@ -1,0 +1,21 @@
+              ANYONE X - - - - - - - -
+            ETHERNET X - - - - - - - -
+                WORK O - - - - - - - -
+                CARD - S - - - - - - -
+               LSPCI - X - - - - - - -
+            IFCONFIG - X - - - - - - -
+/ETC/NETWORK/INTERFACES - X - - - - - - -
+                  ID - O - - - - - - -
+                XXXX - - X - - - - - -
+              OUTPUT - - O - - - - - -
+              DRIVER - - - X - - - - -
+                 USE - - - X - - - - -
+                   | - - - - X - - - -
+                GREP - - - - X - - - -
+              RETURN - - - - X X - - -
+            ANYTHING - - - - X - - - -
+                LINE - - - - - X - - -
+              NUMBER - - - - - X - - -
+                ETH0 - - - - - S - - O
+               POINT - - - - - - X - -
+              MINUTE - - - - - - - - X

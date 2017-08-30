@@ -1,0 +1,10 @@
+            TRANSFER X - - -
+                MODE X - - -
+               CDROM S - - -
+                 USE O - - -
+                 PIO - X - -
+                UDMA - S - -
+                LCDS - - - O
+                HEAD - - - X
+             DISPLAY - - - X
+             NOTHING - - - S

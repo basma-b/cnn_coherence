@@ -1,0 +1,11 @@
+            MAVERICK - X - - - -
+  DO-RELEASE-UPGRADE - - O - - -
+             RELEASE - - S - - -
+/ETC/UPDATE-MANAGER/RELEASE-UPGRADES - - - O - -
+       PROMPT=NORMAL - - - X - -
+               CAUSE - - - S - -
+                 LTS - - - O - -
+    DPKG-RECONFIGURE - - - - X -
+       SCREENSECTION - - - - O -
+           XORG.CONF - - - - X -
+               HOURS - - - - - O

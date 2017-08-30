@@ -1,0 +1,19 @@
+                 THE S - - - - -
+                 GCC S X - - - -
+               ERROR O - - - - -
+                LOAD X - - - - -
+               SHARE X - - - - -
+           LIBRARIES S - - - - -
+              OBJECT X - - - - -
+                FILE O - - - - -
+           DIRECTORY X - - - - -
+          BUILD-DEPS - O - - - O
+            BINUTILS - X - - - -
+             NOTHING - - S - - -
+                WORK - - X - - -
+             ANYBODY - - - X - -
+LIBOPCODES-2.19.1.SO - - - - O -
+              SEARCH - - - - O -
+ PACKAGES.UBUNTU.COM - - - - X -
+             PACKAGE - - - - S -
+             VERSION - - - - - O

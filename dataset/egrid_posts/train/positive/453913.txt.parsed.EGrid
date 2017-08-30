@@ -1,0 +1,17 @@
+               THERE X X - - -
+            ARGUMENT X X X - -
+        FORCE-RELOAD X X - - S
+             PROCESS S S - - X
+                  PS - - S - -
+                   | - - X - -
+                GREP - - X - -
+         PROCESSNAME - - S - -
+                   U - - X - -
+                DONT - - S - -
+              SYMBOL - - O - -
+             COMMAND - - X - S
+          DIFFERENCE - - O - -
+             RESTART - - X - -
+                STOP - - - - O
+               START - - - - X
+                KILL - - - - O

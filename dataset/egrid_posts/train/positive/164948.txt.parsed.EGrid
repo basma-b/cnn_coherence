@@ -1,0 +1,19 @@
+     BUILD-ESSENTIAL O - - - - -
+              OGMRIP O - - S - -
+                APRT - X - - - -
+                THAT - - X - - -
+             GOBJECT - - - X - -
+                LIBS - - - O - -
+            POINTERS - - - X - -
+                DEPS - - - O - -
+               ERROR - - - - X -
+              TARGET - - - - X -
+                PASS - - - - X -
+            ARGUMENT - - - - X -
+OGMRIP_CODEC_GET_CHAPTERS - - - - X -
+          SIGNEDNESS - - - - X -
+                LOOK - - - - - O
+              README - - - - - X
+                FILE - - - - - O
+                LIST - - - - - X
+              THINGS - - - - - X

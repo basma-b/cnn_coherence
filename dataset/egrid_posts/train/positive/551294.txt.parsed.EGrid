@@ -1,0 +1,13 @@
+                 KEY S - - -
+ INTERFACE/GTK-THEME X - - -
+           GTK-ICONS X - - -
+                ROOT X - - -
+                SUDO X - - S
+               POINT X - - -
+        GCONF-EDITOR - O - -
+           MANDATORY - O - -
+                ONES - X - -
+         PERMISSIONS - - O -
+                 RUN - - - X
+                USER - - - X
+            ~/.GCONF - - - O

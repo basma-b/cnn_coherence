@@ -1,0 +1,13 @@
+              FORMAT X - - S -
+           HARDDRIVE X - - - -
+             GPARTED - S - - -
+              ANYONE - X S - -
+           MKFS.EXT3 - - S - -
+            FUNCTION - - O - -
+               ISSUE - - O X -
+                 USB - - - S -
+                EXT2 - - - S -
+              SYSTEM - - - X -
+                  .. - - - - X
+                 .IM - - - - X
+          /ETC/FSTAB - - - - X

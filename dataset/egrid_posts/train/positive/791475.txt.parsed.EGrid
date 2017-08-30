@@ -1,0 +1,35 @@
+                 SET X - - - - - - - - - - -
+          MAILSERVER X - - - - - - - - - - -
+                MAIL X - - - O - - - X - - -
+       AUTODETECTION S - - - - - - - - - - -
+             DOVECOT X - - - X X - - - - - -
+              HOWTOS - X - - - - - - - - - -
+                 ONE - - O - - - - - - - - -
+                 LEM - - - X - - - - - - - -
+               HTTPS - - - X - - - - - - - -
+//HELP.UBUNTU.COM/COMMUNITY/MAILSERVER - - - X - - - - - - - -
+     POSTFIX+DOVECOT - - - S - - - - - - - -
+             POSTFIX - - - X X - - - - O O -
+                CONF - - - X - - - - - - - -
+                 WAY - - - O - - - - - - - -
+               SETUP - - - X - - - - X - - -
+                HTTP - - - X X - O - - - - -
+//PASTEBIN.COM/XKPADEKN - - - X - - - - - - - -
+              CONFIG - - - - X - - - - - - -
+            DELIVERY - - - - X O - - - - - -
+               AGENT - - - - O - - - - - - -
+   DEFAULT_TRANSPORT - - - - - O - - - - - -
+           MASTER.CF - - - - - X - - - - - -
+                NOOB - - - - - X - - - - - -
+/ETC/POSTFIX/MASTER.CF - - - - - - O - - - - -
+                LINE - - - - - - X - - - - -
+                USER - - - - - - O - - - - -
+               GROUP - - - - - - X - - - - -
+                NEED - - - - - - X - - - - -
+             SERVICE - - - - - - - O - - - -
+              SERVER - - - - - - - - O - - -
+               USERS - - - - - - - - X - - -
+                  OK - - - - - - - - - O - -
+                SUDO - - - - - - - - - - S X
+                 JOB - - - - - - - - - - X -
+ /ETC/INIT.D/POSTFIX - - - - - - - - - - - S

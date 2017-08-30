@@ -1,0 +1,14 @@
+                FILE - O - X - - -
+                COMP - S - - - - -
+          PERMISSION - X - - - - -
+                ROOT - X X X - - -
+              PASSWD - X - - - - -
+                HELP - O - - - - -
+             ACCOUNT - - X - - - -
+                SUDO - - - - S - -
+             COMMAND - - - - O - -
+                   % - - - - - S -
+                   / - - - - - S -
+              SERVER - - - - - O -
+                  VM - - - - - X -
+                DISK - - - - - - S

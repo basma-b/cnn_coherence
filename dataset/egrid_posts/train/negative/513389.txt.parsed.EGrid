@@ -1,0 +1,17 @@
+             COMMAND X - - -
+                SUDO - X - -
+        XSERVER-XORG - X - -
+         RECONFIGURE - X - -
+       XORG-SETTINGS - S - -
+             DISPLAY - X - -
+          RESOLUTION - O X -
+            XORG.CNF - O - -
+          PROPERTIES - O - -
+DESKTOP/SYSTEM-SETTINGS - X - -
+                 LCD - S - -
+               1200X - O - -
+                SHOW - - S -
+             800X600 - - O -
+          MEBARAN151 - - - S
+              PEOPLE - - - S
+               APPLE - - - S

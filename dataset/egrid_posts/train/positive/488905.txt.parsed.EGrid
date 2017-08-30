@@ -1,0 +1,11 @@
+                  DD X - - - -
+     IF=/DEV/URANDOM O - - - -
+            PENDRIVE X - - - -
+             COMMAND - O - - -
+               COUNT - O O - -
+               ERROR - X - - -
+                  .. - X - - X
+                ZERO - O - - -
+        /DEV/URANDOM - - S - -
+                 HDB - - X - -
+                 HDA - - O - -

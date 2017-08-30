@@ -1,0 +1,12 @@
+  GNOME-DISK-UTILITY X - - -
+             COMMAND X - - -
+                LINE X - - -
+          EXECUTABLE - O - -
+             NETWORK - - X -
+             MANAGER - - S -
+                 GUI - - O -
+            INTERNET - - X -
+          CONNECTION - - O -
+           INTERFACE - - X -
+                TIME - - - O
+               MODEM - - - X

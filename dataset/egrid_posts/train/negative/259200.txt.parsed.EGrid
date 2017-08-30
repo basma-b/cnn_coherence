@@ -1,0 +1,9 @@
+              KERNEL S S - -
+                 DRM O O X -
+                   M - - X -
+               -RSB- - - X -
+DRIVERS/CHAR/DRM/DRM_CONTEXT.O - - S -
+           RENDERING - - X -
+             MANAGER - - O -
+                FILE - - - X
+           DIRECTORY - - - O

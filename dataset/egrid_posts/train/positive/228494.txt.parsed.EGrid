@@ -1,0 +1,16 @@
+                  .. X X - - - -
+            GRAPHICS - X - - - -
+                CARD - X - - - -
+              DRIVER - O X - - -
+              SYSTEM - S - - - -
+              SCREEN - X - - - -
+               VIDEO - - X - - -
+            RECOVERY - - X - - -
+                MODE - - X - - -
+               LINUX - - X - - -
+              RESCUE - - X - - -
+                  CD - - X - - -
+                SUDO - - - X - -
+    DPKG-RECONFIGURE - - - X - -
+        XSERVER-XORG - - - X - -
+              -PHIGH - - - X - X

@@ -1,0 +1,13 @@
+               TMOFS X - - - - - -
+                /TMP X - - - X - -
+               TMPFS - O - S O - -
+                THIS - - X - - - -
+               MOUNT - - - X - - -
+            SIZE=64M - - - - O - -
+                LINK - - - - X - -
+                WORK - - - - X - -
+                 RAM - - - - X - -
+            /DEV/SHM - - - - X - -
+                 MAX - - - - - - X
+                SIZE - - - - - - O
+               SIZE= - - - - - - O

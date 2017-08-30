@@ -1,0 +1,7 @@
+        SOURCES.LIST X - -
+               12.04 X - -
+              SYSTEM - O -
+                SUDO - - X
+             APT-GET - - S
+       POPPLER-UTILS - - O
+              UBUNTU - - X

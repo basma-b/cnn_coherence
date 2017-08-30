@@ -1,0 +1,22 @@
+           SOMETHING X - - - - - -
+                ROOT X X X - - - -
+              SYSTEM X - - - - - -
+                BOOT X - - - - - -
+                 ONE - S - - - - -
+            PUREFTPD - X - - - - -
+            PROFTPFD - - S - - - -
+              SCRIPT - - X - - - -
+                 DIR - - X - - - -
+                CALL - - X - - - -
+             SYMLINK - - X - - - -
+          /ETC/RC2.D - - X - - - -
+                THAT - - - S - - -
+                 THE - - - - X - -
+             COMMAND - - - - X - -
+                LINE - - - - X - -
+                FILE - - - - X - -
+                SUDO - - - - S - -
+               CHMOD - - - - O - -
+      YOUR_SCRIPT.SH - - - - X - -
+/ETC/INIT.D/YOUR_SCRIPT.SH - - - - X - -
+/ETC/RC2.D/S57YOUR_SCRIPT - - - - X - -

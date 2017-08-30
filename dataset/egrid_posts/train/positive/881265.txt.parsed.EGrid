@@ -1,0 +1,17 @@
+                BIND X - - -
+                 VPS O X - -
+                 DNS - X - X
+              SERVER - O X S
+              DOMAIN - X - X
+                NAME - O - -
+                HOST - X - -
+            PROVIDER - O - -
+         NAMESERVERS - O - -
+                  IP - O - X
+                  .. - X - -
+       CONFIGURATION - S - -
+             REQUIRE - O - -
+               GUIDE - - S -
+              MATTER - - X -
+                THAT - - - S
+          SUBDOMAINS - - - X

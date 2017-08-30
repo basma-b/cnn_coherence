@@ -1,0 +1,13 @@
+                   $ X -
+         INIT-SCRIPT O -
+            SVNSERVE X -
+/ETC/INIT.D/SKELETON X -
+                FILE X -
+             D_START O -
+   START-STOP-DAEMON X -
+               START X -
+                EXEC X -
+                  -R S -
+                HERE X -
+               PASTE - X
+                 URL - X

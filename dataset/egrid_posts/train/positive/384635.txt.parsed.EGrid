@@ -1,0 +1,14 @@
+              UBUNTU X - -
+                LOAD X - -
+            SPECIFIC X - -
+                SCSI X - -
+              MODULE O - -
+                   S X - -
+              BOOTUP X - -
+/ETC/MODPROBE.D/BLACKLIST - X -
+            MODPROBE - X -
+              CONFIG - X -
+                FILE - X -
+              KERNEL - O -
+                BOOT - X -
+                THAT - - S

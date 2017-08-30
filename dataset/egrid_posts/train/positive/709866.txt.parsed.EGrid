@@ -1,0 +1,12 @@
+               SSHFS O - - O - - - - -
+                 DIR O - - O - - X - -
+          /MEDIA/IMM X X - X X - - - -
+               ERROR O - - O - - - - -
+          FUSERMOUNT X - - X - - - - -
+                USER S - - S - - - - -
+              ACCESS O - - O - - - - -
+               CHMOD - O - - O - - - -
+               IDEAS - - X - - X - - -
+               USERS - - - - - - X - -
+                HOME - - - - - - X - -
+               MEDIA - - - - - - - - X

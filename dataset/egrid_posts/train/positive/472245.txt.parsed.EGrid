@@ -1,0 +1,14 @@
+                DPKG X O - - -
+      GET-SELECTIONS S S S - -
+        ~/MY-PACKAGE O - - - -
+                TERM X - - - -
+                 ALL X - - - -
+             PACKAGE X - - - -
+                SUDO - X X - -
+                READ - O - - -
+          SELECTIONS - - O - -
+      SET-SELECTIONS - - S - -
+             PROFILE - - S - -
+                ROOT - - X - -
+                USER - - O - -
+          ~/.MOZILLA - - X - -

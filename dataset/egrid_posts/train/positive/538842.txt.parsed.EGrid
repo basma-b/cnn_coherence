@@ -1,0 +1,10 @@
+                USER O - -
+               GROUP X - -
+           GROUPNAME X - -
+                FUSE S - S
+                PART O - -
+             DEFAULT X - X
+         PERMISSIONS X - -
+                 USE - - O
+                GVFS - - S
+          FILESYSTEM - - X

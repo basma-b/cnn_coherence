@@ -1,0 +1,27 @@
+         ENVIRONMENT X - X - -
+            VARIABLE O - - - -
+               USERS X - - - -
+                ROOT - X - - -
+    /ETC/ENVIRONMENT - X X - -
+                SUDO - - S - X
+             EXAMPLE - - X - -
+                BJAM - - X - -
+                  V2 - - X - -
+               OSKAR - - X - -
+           VARIABLES - - O - -
+                 RUN - - X - -
+             EAXMPLE - - X - -
+                SAIS - - X - -
+          BOOST_ROOT - - S - -
+                  .. - - O - O
+             COMMAND - - - X -
+                   > - - - S -
+                FILE - - - O -
+               ERROR - - - X -
+/USR/BIN/EMACS-SNAPSHOT-GTK - - - O -
+                  -I - - - - X
+                 ENV - - - - X
+                   | - - - - S
+                REST - - - - S
+         APPLICATION - - - - X
+            SPECIFIC - - - - X

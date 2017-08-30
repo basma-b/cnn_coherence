@@ -1,0 +1,9 @@
+           PARTITION S - -
+             MANAGER S - -
+              CHOICE X - -
+              UBUNTU X - -
+                DISK - O -
+             FACTORY - X -
+               STATE - X -
+             GPARTED - X -
+               THANK - - X

@@ -1,0 +1,17 @@
+               SETUP X - - - -
+              SERVER O - - S -
+         CONNECTIONS O - O O O
+             MACHINE X - - - -
+             NETWORK X - - - -
+                USER - - X - -
+         192.168.1.5 - - X - -
+                 YEP - - X - -
+              FILTER - - X - -
+             PACKETS - - X - -
+            IPTABLES - - X - -
+                COOL - - - S -
+            INTERNET - - - X X
+          CONNECTION - - - O -
+               SENSE - - - - X
+              SYSTEM - - - - X
+                CASE - - - - X

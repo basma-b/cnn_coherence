@@ -1,0 +1,35 @@
+              ANYONE X - - - - - - -
+                 FIX X - - - - - - -
+    /ETC/RESOLV.CONF X - - - - - - -
+                DROP - - - O - - - -
+                  IP - - - - O - - -
+                TYPE - - - - X - - -
+                 DNS - - - - X - - -
+              REBOOT - - - - X O - -
+            INTERNET - - - - S - - -
+               WIERD - - - - O - - -
+         RESOLV.CONF - - - - - X - -
+                 PPP - - - - - X - -
+/ETC/NETWORK/INTERFACES - - - - - O - -
+             ENTRIES - - - - - O - -
+          USEPEERDNS - - - - - X - -
+             OPTIONS - - - - - O - -
+      /ETC/PPP/PEERS - - - - - X - -
+                MESS - - - - - O - -
+                DHCP - - - - - X - -
+              CLIENT - - - - - X - -
+              SCRIPT - - - - - O - -
+                LUCK - - - - - S - -
+              OPTION - - - - - O - -
+/ETC/PPP/PEERS/PROVIDER - - - - - X - -
+         NAMESERVERS - - - - - O - -
+               ENTRY - - - - - X - -
+/ETC/PPP/PEERS/DSL-PROVIDER - - - - - X - -
+     /ETC/PPP/PEERS/ - - - - - - X -
+            PROVIDER - - - - - - X -
+              WVDIAL - - - - - - X -
+         WVDIAL-PIPE - - - - - - O -
+                 USE - - - - - - - X
+                SUDO - - - - - - - S
+              DOESNT - - - - - - - X
+            ANYTHING - - - - - - - O

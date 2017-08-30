@@ -1,0 +1,12 @@
+           IP-ADRESS O - - - -
+         DHCP-SERVER X - - - -
+        192.168.1.33 X - - - -
+                CANT X - - - -
+           WEBSERVER X - - - -
+HTTP:192.168.1.33:80 X - - - -
+           127.0.0.1 X - - - -
+           LOCALHOST - O - - -
+                BIND - X - - -
+                  IP - X - - -
+              SERVER - - O - -
+             BROWSER - - - - X

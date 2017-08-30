@@ -1,0 +1,16 @@
+             ANYBODY S - - -
+             COMMAND O - - -
+               CLASS X - - -
+                NAME O - - -
+              WINDOW X - - -
+             PROGRAM X - - -
+                 ONE - - O -
+         CONVENIENCE - - X -
+                GREP - - S -
+WM_WINDOW_ROLE\|WM_CLASS - - X -
+            WM_CLASS - - X -
+              STRING - - X -
+                   \ - - X -
+               NAME\ - - X -
+              CLASS\ - - X -
+                 THX - - - X

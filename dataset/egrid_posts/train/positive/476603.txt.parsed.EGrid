@@ -1,0 +1,17 @@
+               PURGE S - - - - -
+                USER X - - - - -
+                FILE S - - - - -
+                HOME X - - - - -
+                 DIR X - - - - -
+                 ONE - S - - - -
+              DRIVER - O - - - -
+          MACADDRESS - O - - - -
+                 KEY - O - - - -
+                 MAC - - O X - -
+              FILTER - - O X - -
+                  AP - - X - - -
+           BEHAVIOUR - - - S - -
+                SAME - - - O - -
+          ENCRYPTION - - - O - -
+               IDEAS - - - X - -
+                NOPE - - - - - X

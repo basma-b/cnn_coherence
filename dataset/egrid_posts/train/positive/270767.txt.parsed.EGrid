@@ -1,0 +1,19 @@
+         NDISWRAPPER S - X O - - -
+              DRIVER S - - - - - -
+            HARDWARE S - - - - - -
+            IFCONFIG X - - - - - -
+          NDISWRAPER - X - - - - -
+                GREP - - X - - - -
+                NDIS - - S - - - -
+            MODPROBE - - X - - - -
+               ERROR - - - O - - -
+   NDISWRAPPER-UTILS - - - O - - -
+                 YEA - - - X - - -
+              -UTILS - - - X O - -
+              INSTAL - - - - O - -
+/ETC/NETWORK/INTERFACES - - - - S - -
+                LINE - - - - O - -
+                INET - - - - X - -
+                DHCP - - - - X - -
+              ACCESS - - - - X - -
+                 ONE - - - - X - X

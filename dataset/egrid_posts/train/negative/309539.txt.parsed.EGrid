@@ -1,0 +1,26 @@
+                TIME - X - - -
+               ERROR - X - - -
+             MESSAGE - O - - -
+                ROOT - X - - -
+                  LS - X - - -
+          RELOCATION - X - - -
+/LIB/TLS/I686/CMOV/LIBRT.SO.1 - X - - -
+              SYMBOL - X - - -
+__PTHREAD_CLOCK_GETTIME - X - - -
+             VERSION - S - - -
+     LIBPTHREAD.SO.0 - X - - -
+                LINK - X - - -
+           REFERENCE - X - - -
+               LIBC6 - S - - -
+              DAMAGE - O - - -
+                 IST - O - - -
+                DPGK - S - - -
+                  .. - X - - -
+                LIBS - O - - -
+        INSTALLATION - X - - -
+              SCRIPT - O - - -
+                GONA - - X - -
+                 ONE - - X - -
+           REINSTALL - - O - -
+               STATE - - X - -
+                WORK - - - - X

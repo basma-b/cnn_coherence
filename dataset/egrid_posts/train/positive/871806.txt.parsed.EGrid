@@ -1,0 +1,8 @@
+              STDERR - O - -
+                FILE - X - -
+             PROGRAM - O - -
+   START-STOP-DAEMON - X - -
+                   > - - S -
+           /DEV/NULL - - X -
+          /SOME/FILE - - O -
+              ERRORS - - - O

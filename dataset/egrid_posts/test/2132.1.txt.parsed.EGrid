@@ -1,0 +1,14 @@
+      CHOWN-COMMANDS S - - - -
+            USERNAME X - - - -
+           GROUPNAME X - - - -
+                FILE S - - - X
+               SPACE X - - - -
+                   D - - - X -
+               CHOWN - - - - X
+                 MAN - - - - X
+               -LSB- - - - - X
+              OPTION - - - - X
+               -RSB- - - - - X
+                  .. - - - - X
+               OWNER - - - - X
+               GROUP - - - - X

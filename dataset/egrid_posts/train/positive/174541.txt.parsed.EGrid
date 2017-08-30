@@ -1,0 +1,20 @@
+             PACKAGE S S S S X -
+                SOME - S - - - -
+                THIS - S - - - -
+             REQUEST - X - - - -
+           SITUATION - O - O - -
+        DISTRIBUTION - O - - - -
+            INCOMING - X - - - -
+           OPERATION - - O - - -
+                 BUG - - X - - -
+              REPORT - - S - - -
+                FILE - - O - - -
+               PASTE - - - S - -
+         INFORMATION - - - X - -
+        DEPENDENCIES - - - O - -
+GSTREAMER0.10-PLUGINS-UGLY-MULTIVERSE - - - - X -
+             DEPENDS - - - - X -
+            LIBLAME0 - - - - X -
+                   > - - - - X -
+                   E - - - - O -
+                 ONE - - - - - O

@@ -1,0 +1,15 @@
+         FGLRXCONFIG O - - - - - - - - - - -
+              BREEZY X X - - - - - - - - - -
+                 ONE - - S - - - - - - - - -
+            UBUNTU-1 - - X - - - - - - - - -
+                 ATI - - X - - - - - - - - -
+              RADEON - - X - - - - - - - - -
+              DRIVER - - O - X - - - - - - -
+        /ETC/MODULES - - X - - - - X - - - -
+                BOOT - - X - - - - - - - - -
+                   X - - - - - - S - - - - -
+              OUTPUT - - - - - - - - - O - X
+                THAT - - - - - - - - - - X -
+                SUDO - - - - - - - - - - - X
+             APT-GET - - - - - - - - - - - X
+        DIST-UPGRADE - - - - - - - - - - - X

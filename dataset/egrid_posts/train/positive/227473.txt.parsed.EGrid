@@ -1,0 +1,11 @@
+            LOCATION X - - -
+         PERMISSIONS S - - S
+               FSTAB S O - -
+               USERS O S - -
+                PERM O - - -
+               POINT X - X -
+                 MAN - X - -
+           PARTITION - S - -
+               MOUNT - - X X
+              ACCESS - - O -
+                 ALL - - - X

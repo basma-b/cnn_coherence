@@ -1,0 +1,9 @@
+         ./CONFIGURE O - - - -
+             MESSAGE O - - - -
+               ERROR X - - - -
+              PYTHON X - - - -
+             HEADERS O - - - -
+         DEVELOPMENT - - X - -
+                FILE - - O - -
+             APT-GET - - - X -
+WHAT-DO-I-ENTER-HERE - - - S -

@@ -1,0 +1,14 @@
+                 LOG X - - - - - -
+              ERRORS S - - - - - -
+               SOUND O - - - - - -
+   /VAR/LOG/MESSAGES - S - - - - -
+   /VAR/LOG/KERN.LOG - X - - - - -
+                WUBI - - S - - - -
+             WINDOWS - - X - X - -
+             PROBLEM - - O - - - -
+         EXECUTABLES - - - O - - -
+                FILE - - - - O - -
+             MACHINE - - - - X - -
+                .EXE - - - - - X -
+                   * - - - - - O -
+              STRESS - - - - - X -

@@ -1,0 +1,17 @@
+               WLAN0 - X - - - - -
+                   S - S - - - - -
+             COMMAND - X - - - - -
+                WIFI - X O - - - -
+            IWCONFIG - - O - - - -
+                  .. - - O - - - -
+              ROUTER - - - O - - -
+              SYSTEM - - - O - - -
+             NETWORK - - - X - - -
+              ACCESS - - - X - - -
+                 NET - - - O - - -
+                 WEB - - - X - - -
+           INTERFACE - - - O - - -
+               LIGHT - - - O - - -
+                  YA - - - X - - -
+             FREEBSD - - - - - X -
+               LINUX - - - - - - X

@@ -1,0 +1,9 @@
+               SAMBA X - -
+                SUDO - X -
+         INVOKE-RC.D - S -
+             DAEMONS - O -
+               -LSB- - S -
+               PGREP - X -
+                SMBD - O -
+            PASSWORD - - S
+             BOOTIME - - X

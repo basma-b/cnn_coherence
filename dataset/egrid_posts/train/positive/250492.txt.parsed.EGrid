@@ -1,0 +1,15 @@
+             PROBLEM O - - -
+         NDISWRAPPER - S - -
+            WIRELESS - X - -
+                CARD - O - -
+             PRESENT - X - -
+            IWCONFIG - X X -
+            IFCONFIG - X - X
+                 RA0 - O - -
+                  .. - - X -
+              DEVICE - - - X
+                NAME - - - O
+                  -A - - - S
+                ETH0 - - - X
+                  LO - - - X
+                SIT0 - - - O

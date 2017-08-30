@@ -1,0 +1,22 @@
+              UBUNTU X - S - - - - - -
+                PORT X - O - - - - - -
+             DEFAULT X - X S - - - - -
+                TIME - - - X - - - - -
+                SYNC - - - X - - - - -
+            INTERNET - - - X - - - - -
+           INTERFACE - - - S - - - - -
+/ETC/NETWORK/IF-UP.D/NTPDATE - - - - X - - - -
+               CLOCK - - - - - S - - -
+             MINUTES - - - - - X - - -
+              CANADA - - - - - S - - -
+                PART - - - - - X - - -
+            AMERICAN - - - - - X - - -
+           CONTINENT - - - - - X - - -
+                  .. - - - - - X - - -
+            MONTREAL - - - - - O - - -
+                DATE - - - - - - S - -
+                THIS - - - - - - S - -
+              CHANGE - - - - - - - X -
+                 LOG - - - - - - - - O
+               ERROR - - - - - - - - O
+     /VAR/LOG/SYSLOG - - - - - - - - S

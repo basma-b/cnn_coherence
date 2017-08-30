@@ -1,0 +1,11 @@
+           INTERFACE S - -
+                  IP O X -
+                DHCP X - -
+              INSERT X - -
+         NAMESERVERS O S -
+    /ETC/RESOLV.CONF X - -
+/ETC/NETWORK/INTERFACES - O -
+              OPTION - X -
+        /RESOLV.CONF - S -
+               DHCPS - X -
+     DHCLIENT.CONFIG - O -

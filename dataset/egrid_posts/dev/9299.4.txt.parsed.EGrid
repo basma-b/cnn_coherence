@@ -1,0 +1,15 @@
+        CHECKINSTALL S X S -
+                 DEB X - - -
+                FILE O - - -
+                DEBS - - O -
+         ./CONFIGURE - - X -
+                MAKE - - X -
+             PROCESS - - X -
+            TEXMAKER - - - X
+              DIALOG - - - X
+            TERMINAL - - - X
+            FILE.TEX - - - X
+                   > - - - X
+         APPLICATION - - - X
+         INTERACTION - - - X
+             PROBLEM - - - O

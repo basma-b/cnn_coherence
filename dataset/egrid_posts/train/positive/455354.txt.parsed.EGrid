@@ -1,0 +1,14 @@
+                 ANY X - - - -
+                THIS S - - - -
+                SUDO X - - - -
+                FSCK S - - - -
+           /DEV/SDA1 S - - - -
+           FSCK.SWAP O - - - -
+               ERROR X - - - -
+               SOUND X - - - -
+                SWAP X - - - -
+          FILESYSTEM X - - - -
+           PARTITION O - - X -
+           SOMETHING - - O - -
+              ERRORS - - - X -
+                 YES - - - - X

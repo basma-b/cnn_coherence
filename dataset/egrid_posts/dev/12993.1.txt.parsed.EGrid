@@ -1,0 +1,35 @@
+                   $ O - - -
+                TIME X X - -
+              METHOD S - - O
+ORG.GNOME.SCREENSAVER X - - -
+               12.04 X - - -
+              D-FEET S - - S
+             MESSAGE X - - -
+                 BUS X - - -
+               PRINT S - - -
+                 ONE O - - -
+           SOMETHING O - - -
+           DBUS-SEND X - - -
+             SESSION X - - X
+DEST=ORG.GNOME.SCREENSAVER X - - -
+                   / S - - -
+              RETURN X - - X
+        SENDER=:1.78 X - - -
+      REPLY_SERIAL=2 S - - -
+              OUTPUT S - - -
+              AMOUNT O - - -
+            COMPUTER - O - -
+             COMMAND - O - X
+              SECOND - O - -
+                   ' - - - X
+                THAT - - - S
+                IDLE - - - X
+         SCREENSAVER - - - S
+             EXAMPLE - - - O
+             METHODS - - - X
+DEST=ORG.GNOME.SESSIONMANAGER - - - X
+/ORG/GNOME/SESSIONMANAGER/PRESENCE - - - X
+ORG.FREEDESKTOP.DBUS.PROPERTIES.GET - - - X
+              STRING - - - X
+ORG.GNOME.SESSIONMANAGER.PRESENCE - - - X
+   GNOME-SCREENSAVER - - - X

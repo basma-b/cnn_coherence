@@ -1,0 +1,37 @@
+                   D X - - - - -
+                 END X - - - - -
+                CRAP S - - - - -
+                WINE S - - - - -
+                 HAT X - - - - -
+/USR/LIB/XORG/MODULES/EXTENSIONS//LIBGLX.SO O - - - - -
+               VIDEO - X - - - -
+                CARD - X - - - -
+             GEFORCE - - S - - -
+              QAUDRO - - X - - -
+              NVS280 - - X - - -
+                 PCI - - X - - -
+           REINSTALL - - X - - -
+   XSERVER-XORG-CORE - - S - - -
+              NVIDIA - - X - - -
+              DRIVER - - O - - -
+             PACKAGE - - S - - -
+            GRAPHICS - - X - - -
+                MODE - - X - - -
+           SOMETHING - - O - - -
+            HARDWARE - - X - - -
+             DRIVERS - - X - - -
+             MANAGER - - X - - -
+                  .. - - - O - -
+                 USE - - - X - -
+                   / - - - S - -
+              INSTAL - - - O - -
+            -GENERIC - - - X - -
+              KERNEL - - - O - -
+                CASE - - - X - -
+            SYNAPTIC - - - S - -
+                 SAY - - - O - -
+LINUX-IMAGE-2.6.22-14-GENERIC - - - S - -
+                -386 - - - O - -
+                  -A - - - S - -
+            OVERWISE - - - X - -
+                  -R - - - X - -

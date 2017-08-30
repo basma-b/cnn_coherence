@@ -1,0 +1,33 @@
+                  OK S - - - - - - - -
+         GEDIT:17803 X - - - - - - - -
+         GTK-WARNING X - - - - - - - -
+                   * X - - - - - - - -
+             DISPLAY O - - - - - - - -
+                ROOT X - - - - - - - -
+             KORPTIX X - - - - - - - -
+                USER X - - - - - - - -
+/ETC/APT/SOURCESLIST O - - - - - - - -
+/ETC/APT/SOURCES.LIST S - - - - - - - -
+                POST X O - - - - - - -
+            PASTEBIN X - - - - - - - -
+          US.ARCHIVE S - - - - - - - -
+                NICK O - - - - - - - -
+           HIGHLIGHT S - - - - - - - -
+                  .. O - - - - - - - -
+                   U - S - - - - - - -
+            SRC.LIST - - X - - - - - -
+               RANGE - - - X - - X - -
+                TEST - - - X - - - - -
+                WONT - - - X - - - - -
+               CHECK - - - X - - - - -
+                PORT - - - X - - O S -
+                NMAP - - - - - - X - -
+             NETWORK - - - - - - X - -
+             FRIENDS - - - - - - - X -
+              SUBNET - - - - - - - X -
+                 IPS - - - - - - - O -
+              DOESNT - - - - - - - S -
+       DOCUMENTATION - - - - - - - O -
+                TOOL - - - - - - - X -
+             COMMAND - - - - - - - - X
+                LINE - - - - - - - - X

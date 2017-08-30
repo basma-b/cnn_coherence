@@ -1,0 +1,10 @@
+             ROUTERS S - -
+                ICMP O - -
+                SIDE X - -
+                PING S - -
+   SECURITY-BENEFITS O - -
+             PROFILE - - X
+            DISALLOW - - S
+             SERVERS - - S
+              THERES - - O
+              REASON - - X

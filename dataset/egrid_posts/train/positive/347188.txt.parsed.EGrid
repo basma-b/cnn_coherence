@@ -1,0 +1,12 @@
+                  FS O - -
+               SSHFS X - -
+               ERROR O - -
+           /DEV/FUSE O - -
+          PERMISSION S - -
+                CLUE X - -
+                SUDO - O -
+             COMMAND - X -
+                ROOT - - S
+              ACCESS - - O
+                FILE - - X
+                USER - - S

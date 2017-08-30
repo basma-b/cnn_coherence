@@ -1,0 +1,20 @@
+                BASE X - - - -
+           SLACKWARE X - - - -
+              CHANGE X - - - -
+               DRIVE S - - - -
+            POSITION O - - - -
+                 HDB X - - - -
+                 HDA X - - - -
+             EXAMPLE X - - - -
+            BOOTABLE O - - - -
+           REINSTALL - X - - -
+                GRUB - X - - -
+              UPDATE - X - - X
+          /ETC/FSTAB - S - - -
+ /BOOT/GRUB/MENU.LST - S - - -
+            MENU.LST - S - - -
+         UPDATE-GRUB - - O - -
+              FINGER - - X - -
+/BOOT/GRUB/DEVICE.MAP - - O - -
+                THAT - - - X -
+               WHATS - - - X -

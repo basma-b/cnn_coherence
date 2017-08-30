@@ -1,0 +1,28 @@
+                BIND X - - - -
+             COMMAND X - - - -
+                 KEY X - - - -
+            TERMINAL X - - - -
+                HTTP - X - - -
+//WWW.TECHREPUBLIC.COM/BLOG/10THINGS/CUT-DOWN-ON-LINUX-COMMAND-LINE-TYPING-WITH-THESE-10-HANDY-BASH-ALIASES/352 - X - - -
+             DECIMAL - - - S -
+                BASE - - - X -
+                  .. - - - X -
+                RULE - - - X S
+                 ONE - - - S -
+               MATCH - - - X -
+           CONDITION - - - X -
+                ATTR - - - X X
+        BDEVICECLASS - - - X X
+                  == - - - X O
+      00|02|06|EF|FF - - - O -
+                  EF - - - O -
+             OPTIONS - - - X -
+                THAT - - - - S
+           MTP-PROBE - - - - O
+              GKSUDO - - - - X
+               GEDIT - - - - X
+/LIB/UDEV/RULES.D/69-LIBMTP.RULES - - - - S
+                 |EF - - - - O
+                TEXT - - - - X
+                PART - - - - S
+         00|02|06|FF - - - - O

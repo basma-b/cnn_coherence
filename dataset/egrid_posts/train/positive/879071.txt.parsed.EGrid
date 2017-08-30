@@ -1,0 +1,12 @@
+            /SBIN/IP X - -
+               ROUTE S S -
+             DEFAULT O S -
+               WLAN0 X X -
+                   U S - -
+                   G S - -
+             GATEWAY O - -
+            INTEREST - O -
+              OUTPUT - X -
+               PROTO - X -
+              ANSWER - O -
+           OPERATION - S -

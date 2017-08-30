@@ -1,0 +1,14 @@
+                 ANY S - - - -
+             PROBLEM X - - - -
+                THAT - X - - -
+                SUDO - S - X -
+                   > - X - - -
+/SYS/DEVICES/VIRTUAL/BACKLIGHT/ACPI_VIDEO0/BRIGHTNESS - O - O -
+          PERMISSION - S - - -
+               SHELL - - X - -
+         REDIRECTION - - S - -
+                USER - - X - -
+         PERMISSIONS - - X - -
+                 TEE - - - X -
+                 LOT - - - - S
+                 BUD - - - - X

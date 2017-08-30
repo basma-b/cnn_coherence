@@ -1,0 +1,17 @@
+              DEVICE X - - - - -
+           PARTITION X - X - - -
+             /CHROOT - X S - - -
+            TERMINAL - X - - - -
+            COMPUTER - X - - - -
+                WORK - O - - - -
+                NAME - - O - - -
+                SUDO - - S - S -
+               MKDIR - - X - - -
+                THAT - - - X - -
+                 RUN - - - - X -
+               FDISK - - - - X -
+                  -L - - - - X -
+                BIND - - - - O -
+         /CHROOT/DEV - - - - S -
+           ADESKLETS - - - - - X
+           GDESKLETS - - - - - X

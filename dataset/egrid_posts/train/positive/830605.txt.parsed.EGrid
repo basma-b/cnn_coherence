@@ -1,0 +1,13 @@
+                  DD X - - X -
+      IF=/DEV/RANDOM S - - - -
+                 HOW X - - - -
+                WORK X - - - -
+           CHARACTER - O - - -
+           PARTITION - X - - X
+             ALRIGHT - - - S -
+     IF=/DEV/URANDOM - - - X -
+        OF=/DEV/SDA2 - - - X -
+             UNMOUNT - - - X -
+                SDA2 - - - O -
+            PROBLEMS - - - O -
+                 MBR - - - - O

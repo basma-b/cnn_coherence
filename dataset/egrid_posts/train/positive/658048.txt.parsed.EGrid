@@ -1,0 +1,11 @@
+                TYPE X - - - -
+               DRIVE X - - - -
+                 IDE - X - - -
+                PATA - X - - -
+                SATA - X - - -
+         PARTITIONER - - - S -
+          FDISK/MKFS - - - S -
+                PROB - - - O -
+                THIS - - - - O
+                  LS - - - - X
+               -RSB- - - - - X

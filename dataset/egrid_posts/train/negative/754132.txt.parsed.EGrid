@@ -1,0 +1,25 @@
+            QUESTION X - - - - - - - - - -
+                LINE X - - - - - - - - - -
+            GRUB.CFG X - - - - - - - - - -
+              SEARCH - S - - - - - - - - -
+           NO-FLOPPY - X - - - - - - - - -
+             FS-UUID - X - - - - - - - - -
+D7CAB10C-B5B4-4169-BEA6-1728D2084966 - O - - - - - - - - -
+                UUID - O - - - O - - - - -
+                  ID - O - - - - - - - - -
+               DRIVE - - - O X - - - - - -
+                 ONE - - - S - - - - - - -
+                BOOT - - - X - - - - - - -
+                GRUB - - - X - - - - - - -
+                MENU - - - S - - - - - - -
+                THIS - - - - S - - - - - -
+              CHANGE - - - - O - - - - - -
+                THAT - - - - - O - - - - -
+          /ETC/FSTAB - - - - - X - - - - -
+                   / - - - - - - X - - - -
+               GUIDE - - - - - - - S - - -
+//UBUNTUGUIDE.NET/HOW-TO-RESTORE-GRUB-2-AFTER-REINSTALLING-WINDOWS-XPVISTAWIN7 - - - - - - - S - - -
+                LINK - - - - - - - X - - -
+             COMMAND - - - - - - - X - - -
+             SECTION - - - - - - - X - - -
+         UPDATE-GRUB - - - - - - - O - - -

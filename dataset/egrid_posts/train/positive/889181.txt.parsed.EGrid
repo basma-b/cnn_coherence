@@ -1,0 +1,12 @@
+         TOUCHSCREEN O - -
+               LSUSB X - -
+                 -NN - S -
+                   | - X -
+                GREP - X -
+                 VGA - X -
+            GRAPHICS - - X
+                CARD - - O
+               INTEL - - X
+              FAMILY - - S
+          CONTROLLER - - X
+                  .. - - O

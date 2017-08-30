@@ -1,0 +1,13 @@
+                 ALL O - -
+         192.168.1.1 S - -
+                  -S - X -
+              POLICY - X -
+                 TAB - X -
+         FIRESTARTER - X -
+               FIELD - S -
+                RULE - X -
+                  .. - O -
+            IPTABLES - O -
+              MATTER - X -
+              THINGS - - X
+             UPGRADE - - O

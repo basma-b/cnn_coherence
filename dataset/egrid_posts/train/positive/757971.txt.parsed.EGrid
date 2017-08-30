@@ -1,0 +1,15 @@
+             POSTFIX O - - - - -
+                HOST X - - - - -
+           MAILUTILS - X - - - -
+             PACKAGE - O - - - -
+                MAIL - X - - - -
+               RIGHT - O - - - -
+             COMMAND - X - - - -
+                LINE - X - - - -
+              SCRIPT - X - - - -
+              INSTAL - - - O - -
+                INFO - - - X - -
+              CONFIG - - - - X -
+                FILE - - - - S S
+        /ETC/POSTFIX - - - - X -
+                 ONE - - - - - O

@@ -1,0 +1,24 @@
+              ANYONE X - - - - - - - -
+             SUCCESS X - - - - - - - -
+           HIBERNATE X - - - - - - - -
+              REBOOT - X - - - - - - -
+                SWAP - O - - - - X - -
+               STATE - X - - - - - - -
+              RESUME - X - - - - - - -
+           PARTITION - X - - - - X - -
+                BOOT - X - - - - - - -
+              LOADER - X - - - - - - -
+       CONFIGURATION - X - - - - - - -
+            ANYTHING - - O - - - - - -
+               MODEL - - - X - - - - -
+              LAPTOP - - - X - X - - -
+                THAT - - - - X - O - -
+                GRUB - - - - - X - - -
+                LILO - - - - - O - - -
+           SOMETHING - - - - - - O - -
+                LINE - - - - - - X - -
+RESUME=/DEV/YOURSWAPPARTITION - - - - - - X - -
+              KERNEL - - - - - - X - -
+                ARGS - - - - - - S - -
+                DATA - - - - - - O - -
+                  TY - - - - - - - - X

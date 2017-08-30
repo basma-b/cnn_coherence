@@ -1,0 +1,12 @@
+               CHECK X - - -
+                HTTP X - - -
+//WWW.GNOME-LOOK.ORG/ X - - -
+              DEVICE - X - -
+            INTERNET - X - -
+                LINK - X - -
+                ROOT - - X -
+                  -E - - O -
+                 NAT - - - X
+                  -A - - - S
+          MASQUERADE - - - X
+/ETC/PPP/IP-UP.D/0MASQ - - - O

@@ -1,0 +1,13 @@
+             SOMEONE - X - - - -
+               POINT - X - - - -
+       DOCUMENTATION - X - - - -
+          DEPENDENCY - S - - - -
+             PACKAGE - X - O - O
+                THAT - - O - - -
+                DPKG - - - X - -
+       FORCE-DEPENDS - - - S - -
+                 WAY - - - X - -
+                LIST - - - O - -
+        DEPENDENCIES - - - X - -
+                 TOP - - - - - X
+                HEAD - - - - - X

@@ -1,0 +1,14 @@
+                USER O - O -
+               ALICE O X S -
+                 BOB O X X -
+               GROUP X X X -
+                SUDO - - X -
+             ADDUSER - - X -
+             NETWORK - - - X
+               LINUX - - - O
+             WINDOWS - - - X
+           COMPUTERS - - - O
+               SAMBA - - - O
+                 NFS - - - X
+            IFCONFIG - - - O
+             CONSOLE - - - X

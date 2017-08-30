@@ -1,0 +1,17 @@
+              ANYONE S - -
+                THIN S - -
+                LINK O - -
+ ./USR/BIN/DBMMANAGE X - -
+             VERSION X - -
+           OPERATION S - -
+                TYPE S - X
+            TERMINAL X - -
+           PARTITION S - -
+                  RO - - X
+           /DEV/HDA3 - - S
+                EXT3 - - X
+                  RW - - X
+   ERRORS=REMOUNT-RO - - X
+              SERVER - - O
+              ERRORS - - X
+              OPTION - - X

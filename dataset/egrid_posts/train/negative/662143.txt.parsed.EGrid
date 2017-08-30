@@ -1,0 +1,15 @@
+              SOURCE X X - - X -
+        SOURCES.LIST X - - - - -
+                 URI - S - O - -
+                LIST - X - - X -
+          REPOSITORY - - X S - -
+                 ONE - - - S - -
+                  .. - - - O - -
+          CONVENTION - - - S - -
+                 DEB - - - S - -
+              PREFIX - - - X - -
+                FILE - - - O O -
+/ETC/APT/SOURCES.LIST.D/NAME-OF-REPOSITORY.LIST - - - - X -
+              FOLDER - - - - - X
+                MAKE - - - - - X
+             COMMAND - - - - - O

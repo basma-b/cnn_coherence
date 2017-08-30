@@ -1,0 +1,17 @@
+               10.04 X - - - -
+              SYSTEM S - - - -
+                BOOT X - O - -
+              SCREEN S - - - -
+               LOGIN X - - - -
+              WINDOW X - - - -
+               VIDEO - X - - -
+                CARD - X - - -
+               ISSUE - O - - -
+              SPLASH - - X - -
+                GRUB - - X - -
+               SHIFT - - O - -
+                   E - - S - -
+              KERNEL - - O - -
+             PACKAGE - - - X -
+             MANAGER - - - O -
+        DEPENDENCIES - - - - O

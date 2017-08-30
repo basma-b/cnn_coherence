@@ -1,0 +1,9 @@
+             COMMAND X - -
+                SUDO - X -
+             APT-GET - S -
+               GNOME - X -
+             DESKTOP - X -
+              SYSTEM - O -
+             SESSION - O -
+                 KDE - X O
+                 LOG - - X

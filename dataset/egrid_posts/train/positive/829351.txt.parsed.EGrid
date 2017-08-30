@@ -1,0 +1,12 @@
+                FILE X - - - O
+           SOMETHING O - - - -
+             EXTENTS X S - - -
+           CHECKSUMS S S - - -
+                EXT4 - S - - -
+            QUESTION - O - - -
+               BLOCK - X - - -
+           1,2,3,4,5 - X - - -
+                  .. - X - - -
+               RANGE - X - - -
+               1-100 - X - - -
+             JOURNAL - - - - S

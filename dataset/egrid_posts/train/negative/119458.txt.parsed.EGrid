@@ -1,0 +1,13 @@
+                TYPE X - - - -
+                 TOP S - - - -
+                USER O - - - -
+                ROOT X - - - -
+                  SB S - - - -
+               LINUX O - - - -
+             DAEMONS S - - - -
+               USERS X - - - -
+                 G++ - - O - -
+            COMPILER - - - X -
+             G++/GCC - - - - S
+             COMMAND - - - - X
+                LINE - - - - X

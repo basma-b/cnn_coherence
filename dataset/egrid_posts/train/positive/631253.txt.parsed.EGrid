@@ -1,0 +1,14 @@
+               FSTAB X - - - - -
+               ENTRY S - S - S -
+           SOMETHING O - - - - -
+               MOUNT X - - - - -
+              BOOTUP O - - - - -
+                BOOT - X - O - -
+             COMMENT - - X - - -
+                TEST - - X - - -
+               PLACE - - X - - -
+                TYPE - - - X - -
+                SUDO - - - S - -
+          EVERYTHING - - - S - -
+                DISK - - - - S -
+              THANKS - - - - - X

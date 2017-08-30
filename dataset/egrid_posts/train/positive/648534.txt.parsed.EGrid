@@ -1,0 +1,27 @@
+                 GUY X - - - - -
+                   X X - - - - -
+              SERVER O - - - - -
+                 VT9 X - - - - -
+             DISTROS X - - - - -
+                LINE O - - - - -
+ /OPT/BIN/CUSTOMX.SH X - - - - -
+        /ETC/INITTAB X O - - - -
+                  .. X - - - - -
+              UBUNTU - S X - - -
+                SAME - X - - - -
+             COMMENT - - X - - -
+   /ETC/GDM/GDM.CONF - - X - - -
+             SERVERS - - X - - -
+               -RSB- - - X - - -
+             SECTION - - X - - -
+/ETC/GDM/GDM-CUSTOM.CONF - - O - - -
+                 GDM - - O - - -
+             CONTROL - - O - - -
+                  VT - - X - - -
+               START - - - X - -
+               GETTY - - - X - -
+               VT1-6 - - - X - -
+             UPSTART - - - - - X
+                   > - - - - - S
+             EXAMPLE - - - - - X
+                 JOB - - - - - O

@@ -1,0 +1,12 @@
+              UBUNTU X - - -
+                NTFS X S - -
+          FILESYSTEM X - - -
+                MINE - X - -
+               NODEV - X - -
+                READ - X - -
+                 CAT - X - -
+   /PROC/FILESYSTEMS - O - -
+               MOUNT - - - X
+           /DEV/HDA1 - - - X
+           /MNT/NFTS - - - S
+           /MNT/NTFS - - - S

@@ -1,0 +1,15 @@
+                HALF X - - - - -
+                LINE X - - - - -
+                   * - S - - - -
+                   > - S - - - -
+/PATH/TO/LOGS/CRON.LOG - X - - - -
+             NOTHING - S - - - -
+                ELOG - S - - - -
+              STDERR - O - - - -
+             NOWHERE - X - - - -
+                TEXT - - O - - -
+             SPECIFY - - - X - -
+                 ALL - - - X - -
+                 LOG - - - - - X
+              SCREEN - - - - - X
+              INTENT - - - - - O

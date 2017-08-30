@@ -1,0 +1,14 @@
+           PARTITION O - - -
+          PERMISSION X X - -
+                EXT3 - X - -
+             DEFAULT - O - -
+                  || - S - -
+                LINE - O - -
+                FILE - - X -
+         PERMISSIONS - - O -
+                UNIX - - X -
+         FILESYSTEMS - - X -
+                 USE - - X -
+               CHMOD - - X X
+              ACCESS - - O -
+        /MEDIA/STUFF - - - X

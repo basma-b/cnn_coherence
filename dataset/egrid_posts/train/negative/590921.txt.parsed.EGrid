@@ -1,0 +1,14 @@
+                HELP O - - - - -
+                WIFI X - - - - -
+             MODULES O - - - - -
+               ATH9K X O - - - -
+         NDISWRAPPER X - - - - -
+                THAT - X O - - -
+                SUDO - - X - - -
+                NANO - - S - - -
+               THERE - - S - S -
+/ETC/MODPROBE.D/BLACKLIST - - X - - -
+      BLACKLIST.CONF - - O - - -
+                 YES - - - S - -
+                  .. - - - - - X
+              AMOUNT - - - - - X

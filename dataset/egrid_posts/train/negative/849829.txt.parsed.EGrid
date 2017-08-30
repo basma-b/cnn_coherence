@@ -1,0 +1,13 @@
+           PARTITION - O - - - - -
+                LUKS - X - - - - -
+                SUDO - X - - - - -
+          CRYPTSETUP - X - - - - -
+                  -C - S - - - - -
+       AES-XTS-PLAIN - X - - - - -
+                  -S - S - - - - -
+          LUKSFORMAT - X - - - - -
+           SOMETHING - X - - - - -
+              LUKS01 - X - - - - -
+  /DEV/MAPPER/LUKS01 - X - - - - -
+             COMMAND - - - - O - -
+                HTTP - - - - - - X

@@ -1,0 +1,10 @@
+               START O - - X
+                 SSH O - - -
+              DAEMON O - - -
+      OPENSSH-SERVER X O - -
+              OUTPUT X - - -
+                HOST X - - -
+                 KEY X - - -
+         SUGGESTIONS X - - -
+                SUDO - - - S
+                SSHD - - - S

@@ -1,0 +1,9 @@
+            IFCONFIG S S - -
+               STATE - S - -
+             NETWORK - X - -
+               START - X - -
+               PANIC - - O -
+                 YEA - - - S
+                LOOK - - - O
+               DMESG - - - X
+              OUTPUT - - - X

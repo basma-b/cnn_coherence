@@ -1,0 +1,14 @@
+                  HI X - - - - - -
+            FIREWALL X - - - - - -
+              BROWSE X - - - - X -
+             DESKTOP X - - - - - -
+              53/UDP - X - - - - -
+              80/TCP - O - - - - -
+             FIREFOX - S - - - - -
+              GOOGLE - O - - - - -
+             DEFAULT - O - - - - -
+              ANYONE - - X - - - -
+              FILTER - - - X - - -
+              OUTPUT - - - X - - -
+             TRAFFIC - - - O - - -
+                BOTH - - - - - - X

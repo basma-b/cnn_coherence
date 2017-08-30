@@ -1,0 +1,17 @@
+           HOSTNAMES O - - - - -
+                PING - X - - X -
+      WWW.GOOGLE.COM - S - - - -
+                HOST - X - - - -
+             MESSAGE - O - - - -
+         NAMESERVERS - - X X - -
+                LIST - - O - - -
+    /ETC/RESOLV.CONF - - X - - -
+             NOTHING - - S - - -
+             TCPDUMP - - X - - -
+         RESOLV.CONF - - X - - -
+                 HMM - - - - X -
+                   < - - - - X -
+          NAMESERVER - - - - X -
+                   > - - - - S -
+             GATEWAY - - - - O -
+                  IP - - - - - X

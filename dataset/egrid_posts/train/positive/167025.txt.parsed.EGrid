@@ -1,0 +1,12 @@
+                LINK X - - - -
+           DIRECTORY X O - - -
+                FILE S - - - -
+             EXAMPLE - X - - -
+           DEMOCRACY - X - - -
+  ~/MOVIES/DEMOCRACY - O - - O
+ ~/.DEMOCRACY/MOVIES - X - - -
+                 ALL - - S - -
+         ./DEMOCRACY - - X - -
+    MOVIES/DEMOCRACY - - X - -
+                  LN - - - X -
+        ~/.DEMOCRACY - - - - X

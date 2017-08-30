@@ -1,0 +1,9 @@
+            QUESTION O -
+              WINDOW O -
+                 RUN X -
+              SYSTEM X -
+                 X11 X -
+             APT-GET - X
+GSTREAMER0.8-PLUGINS - S
+GSTREAMER-PROPERTIES - S
+                 END - O

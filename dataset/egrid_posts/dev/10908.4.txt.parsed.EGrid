@@ -1,0 +1,31 @@
+               INSTI S - - - - - - - - -
+               PROXY O - - - - - - - - -
+                 PKG O - - - - - - - - -
+ARCHIVE.CANONICAL.COM|91.187.29.150| X - - - - - - - - -
+             APT-GET S - S - - - - - - -
+ARCHIVE.CANONICAL.COM|91.167.29.150| - - X - - - - - - -
+                 SET - - X - - - - - - -
+   /ETC/APT/APT.CONF - - X - - - - - - -
+                FILE - - - - S - - - - -
+              BASHRC - - - - - X - - - -
+              FORMAT - - - - - S - - - -
+             ACQUIRE - - - - - X - - - -
+                HTTP - - - - - X - - - -
+       ADDRESS_HERE/ - - - - - S - - - -
+                 MAN - - - - - - - X - -
+             CRONTAB - - - - - - - X - -
+             EXAMPLE - - - - - - - X S -
+                  -E - - - - - - - X - -
+                 JOB - - - - - - - X - -
+                 GIT - - - - - - - S - -
+        .SOMEOPTIONS - - - - - - - S - -
+             APROACH - - - - - - - - S -
+             COMMAND - - - - - - - - O -
+              SCRIPT - - - - - - - - X -
+                USER - - - - - - - - X -
+                ROOT - - - - - - - - X -
+                TIME - - - - - - - - - O
+                 USE - - - - - - - - - O
+                TASK - - - - - - - - - X
+                 LOT - - - - - - - - - S
+              THINGS - - - - - - - - - X

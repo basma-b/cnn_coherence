@@ -1,0 +1,14 @@
+          SETPHNJUMP X - - -
+                   | X - - -
+                 TEE O - - -
+                   > S - - -
+         /SOME/FILES X - - -
+                FILE O - - -
+                 END X - - -
+             ADAPTER - - X -
+                   / - - S -
+            WIRELESS - - X -
+              SECOND - - X -
+            AES+TKIP - - - X
+                 AES - - - X
+          ENCRYPTION - - - X

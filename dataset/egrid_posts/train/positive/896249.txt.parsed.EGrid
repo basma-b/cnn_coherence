@@ -1,0 +1,15 @@
+               11.10 X - - - - -
+                AUTO X - - X - -
+               LOGIN X - - X X -
+             COMMAND X - - - - -
+                LINE X - - - - -
+ /ETC/INIT/TTY1.CONF - - O - - -
+                USER - - X - - -
+               SHELL - - X - - -
+             MACHINE - - - O - -
+               GNOME - - - X - -
+                HAVE - - - - S -
+            MANAGERS - - - - S -
+            SETTINGS - - - - O O
+                THAT - - - - - O
+             LIGHTDM - - - - - S

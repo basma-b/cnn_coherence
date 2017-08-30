@@ -1,0 +1,20 @@
+                DONT X - - - - -
+                TYPE X - - - - -
+        RTAP_IFACE=1 O - - - - -
+                 BOX S - - - - -
+                TIME - X - X - -
+/ETC/MODPROBE.D/OPTIONS - O - - - -
+                LINE - O - - - -
+             OPTIONS - S - S - -
+              OPTION - O - - - -
+                LOAD - X - - - -
+              DRIVER - O - - - -
+                BOOT - X - - - -
+               STUFF - X - O - -
+               THING - - X X - -
+             EXAMPLE - - - X - -
+                IDEA - - - O - -
+            MODPROBE - - - - - X
+              RESULT - - - - - X
+                SUDO - - - - - X
+             SND-SB8 - - - - - X

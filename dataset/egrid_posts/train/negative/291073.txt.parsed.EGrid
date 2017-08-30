@@ -1,0 +1,21 @@
+             SOMEONE X - - - - - - - - - - -
+             DEFAULT X - - X - - - X X - - -
+            RUNLEVEL S X - X O X - X X - - -
+             FOLDERS - X - - - - - - - - - -
+             DAEMONS - - X - - - X - - S - -
+               START - - X - - - X - - - - -
+                TYPE - - - - X - - - X - - -
+                   N - - - - X - - - X - - -
+/ETC/INITTBBBBBBBBBBBBBB - - - - - - - - - X - -
+        /ETC/INITTAB - - - - - - - - - S - -
+                SUDO - - - - - - - - - X - -
+             UPSTART - - - - - - - - - X - -
+                DOCS - - - - - - - - - O - -
+              SYSTEM - - - - - - - - - X - -
+                CASE - - - - - - - - - X - -
+        SYSV-RC-CONF - - - - - - - - - O - -
+           RUNLEVELS - - - - - - - - - O - -
+         UPDATE-RC.D - - - - - - - - - O - -
+             SERVICE - - - - - - - - - O - -
+                MINE - - - - - - - - - - - X
+             BROACOM - - - - - - - - - - - X

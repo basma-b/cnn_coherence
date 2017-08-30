@@ -1,0 +1,18 @@
+               THERE S - - - - - - - -
+              SERVER X - - - - - - - -
+            10.04/64 X - - - - - - - -
+            APPARMOR O X S S X - - - -
+             PACKAGE - O - - - - - - -
+                TYPE - S - - - - - - -
+              MODULE - S - - S - - - -
+                LOAD - O - - O - - - -
+               GUIDE - - X - - - - - -
+               HTTPS - - X - - - - - -
+//HELP.UBUNTU.COM/10.04/SERVERGUIDE/C/APPARMOR.HTML - - X - - - - - -
+             DEFAULT - - X - - - - - -
+                THAT - - - - O - - - -
+     APPARMOR_STATUS - - - - S - - - -
+                MODE - - - - X - - - -
+           AA-STATUS - - - - - - X - -
+                BOTH - - - - - - - - S
+                  .. - - - - - - - - O

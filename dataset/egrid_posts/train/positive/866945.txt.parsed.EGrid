@@ -1,0 +1,7 @@
+         POSTROUTING X - -
+                  -O X - -
+          MASQUERADE X - -
+  CHAIN/TARGET/MATCH X - -
+                NAME X - -
+               INPUT - X X
+                RULE - O X

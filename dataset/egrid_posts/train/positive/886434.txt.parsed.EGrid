@@ -1,0 +1,10 @@
+             COMMAND X - X
+             STARTUP X - -
+                SUDO - O -
+                USER - X -
+                ALL= - X -
+                 ALL - O -
+            NOPASSWD - X -
+        /ETC/SUDOERS - X -
+              PROMPT - X -
+                 YEA - - X

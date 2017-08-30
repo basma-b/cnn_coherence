@@ -1,0 +1,30 @@
+              CODECS O - - -
+                PLAY X - - -
+                 MP3 X - - -
+               WINXP X - - -
+           PARTITION O - - -
+              ERRORS - S - -
+           W32CODECS - S - -
+W32CODECS_20050412-0.0_I386.DEB - X - -
+            DPKG-DEB - S - -
+          SUBPROCESS - X - -
+                PIPE - X - -
+                COPY - X - -
+              RETURN - X - -
+               ERROR - X - -
+                EXIT - X - -
+              STATUS - X - -
+                DPKG - X - -
+             PROCESS - X - -
+./USR/LIB/WIN32/LCODCCMP.DLL - X - -
+            PASTEBIN - O - -
+              THINGS - O - -
+                 URL - O - -
+                 VLC - - S -
+               REPOS - - X -
+                 RUN - - X -
+               CHECK - - X -
+             PACKAGE - - X -
+                TIME - - - X
+                  'S - - - S
+                STEP - - - O

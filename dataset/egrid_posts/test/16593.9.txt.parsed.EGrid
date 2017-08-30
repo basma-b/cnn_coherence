@@ -1,0 +1,10 @@
+               PURGE S - - - - - -
+       CONFIGURATION X X - - - - -
+                FILE O O - - - - -
+             PACKAGE - O - X - - -
+       DIST-UPGRADES - X - - - - -
+               CLEAN - S - - - - -
+             APT-GET - - S - - - -
+                THAT - - - - X - -
+      CONFIGURATIONS - - - - X - -
+                YEAH - - - - - - X

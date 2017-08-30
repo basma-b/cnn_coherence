@@ -1,0 +1,16 @@
+             MPLAYER O - - - X
+               SOUND O - - - -
+               GNOME X - - - -
+           SOUNDCOAR X - - - -
+              DAEMON - O - - -
+                 ESD - X - - -
+               SETUP - X - - -
+        MPLAYER.CONF - O - - -
+             DEFAULT - X - - -
+          SOUNDRIVER - O - - -
+              SYSTEM - X - - X
+                BOTH - - O - -
+                 -AO - - - - S
+/ETC/MPLAYER/MPLAYER.CONF - - - - X
+     ~/.MPLAYER.CONF - - - - O
+            SETTINGS - - - - O

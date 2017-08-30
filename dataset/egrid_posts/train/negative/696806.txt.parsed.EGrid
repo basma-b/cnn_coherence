@@ -1,0 +1,21 @@
+                 THE X - - - - -
+            WIRELESS S - X - - -
+              THREAD O - - - - -
+NM-SYSTEM-SETTINGS.CONF X - - - - -
+              CHANGE X - - - - -
+            MANAGED= S - O - - -
+                TRUE X - - - - -
+             CONSOLE X - - - - -
+                SUDO X - - - X -
+             KILLALL X - - - - -
+  NM-SYSTEM-SETTINGS X - - - - -
+           NM-SYSTEM X - - - - -
+            SETTINGS O - - - - -
+                WIRE - X X - - -
+          CONNECTION - S S - - -
+               BREAK - - X - - -
+             NETWORK - - - S O -
+      NETWORKMANAGER - - - S - -
+ /ETC/INIT.D/NETWORK - - - - S -
+                   * - - - - - S
+                GAIM - - - - - X

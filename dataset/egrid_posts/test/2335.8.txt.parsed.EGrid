@@ -1,0 +1,26 @@
+/ETC/INIT/TTYS0.CONF X - - - -
+               12.10 X - - - -
+                CANT - - S - -
+               12.04 - - X - -
+               JUSTR - - S - -
+              SERIAL - - S - -
+               SETUP - - O - -
+               HTTPS - - X - -
+//HELP.UBUNTU.COM/COMMUNITY/KVM/ACCESS - - S - -
+              OUTPUT - - S - -
+                SUDO - - X - -
+             APT-GET - - X - -
+          PASTEBINIT - - O - -
+            UPDATEDB - - X - -
+                 CAT - - X - -
+                   | - - X - -
+                 TEE - - X - -
+        /TMP/OUT.TXT - - X - -
+                  ID - - X - -
+                LOVE - - X - -
+              ACCESS - - X - -
+                HOST - - X - -
+        VIRT-MANAGER - - X - -
+               PASTE - - O - -
+                SOME - - - S -
+                 ALL - - - O -

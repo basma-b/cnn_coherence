@@ -1,0 +1,10 @@
+/ETC/CONFIG/WIRELESS.OPTS S - - - - -
+           INTERFACE X - O X - -
+               THERE X - X X - -
+/ETC/PCMCIA/WIRELESS.OPTS - S - - - -
+            WIRELESS - X X X - O
+             OPTIONS - O - - - -
+/ETC/NETWORK/INTERFACES - X - - - -
+       WIRELESS.OPTS - - O - - -
+              SECOND - - - - S -
+                INFO - - - - - X

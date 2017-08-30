@@ -1,0 +1,11 @@
+              INSTAL - O - - -
+            DEV/SDA2 - X - - -
+              UBUNTU - X - - -
+            DEV/SDA3 - X - - -
+                BOOT - X - - -
+              LOADER - X - - -
+                SDA3 - - X - -
+                GRUB - - - S -
+                 MBR - - - X -
+            /DEV/SDA - - - X -
+                   K - - - - X

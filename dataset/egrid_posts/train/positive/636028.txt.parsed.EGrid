@@ -1,0 +1,13 @@
+                BOOT X - - - - -
+          PARAMETERS X - - - - -
+              UBUNTU X - - - - -
+                GRUB - X - - - -
+         /BOOT/GRUB/ - S - - - -
+             OPTIONS - X - - - -
+          /BOOT/GRUB - X - - - -
+           DIRECTORY - X - - - -
+ /BOOT/GRUB/MENU.LST - - X - - -
+                FILE - - O - - -
+               GRUB2 - - - X - -
+            UBUNTU+1 - - - - - O
+             SUPPORT - - - - - X

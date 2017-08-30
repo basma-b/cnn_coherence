@@ -1,0 +1,23 @@
+             PROCESS - X - O - - - -
+             COMMAND - X - - - - - -
+                LINE - X - - - - - -
+                 SSH - X - - - - - -
+                  BG - - S - - - - -
+          BACKGROUND - - X - - - - -
+                  FG - - S - - - - -
+          FOREGROUND - - X - - - - -
+          SUGGESTION - - - S - - - -
+                   ' - - - - S - - -
+                 MAN - - - - X - - -
+                CASE - - - - X - - -
+                DOCS - - - - - S - -
+             PROGRAM - - - - - X - -
+              SIGNAL - - - - - O - -
+                LOOK - - - - - - - O
+             COMMENT - - - - - - - X
+                 BUG - - - - - - - O
+               HTTPS - - - - - - - O
+//BUGS.EDGE.LAUNCHPAD.NET/UBUNTU/+SOURCE/LIBRMAGICK-RUBY/+BUG/518122 - - - - - - - O
+             VERSION - - - - - - - O
+          IMAGEMAGIC - - - - - - - X
+             RMAGICK - - - - - - - X

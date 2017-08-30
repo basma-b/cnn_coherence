@@ -1,0 +1,12 @@
+          FILESYSTEM S - -
+           USB-PORTS O - -
+            LOCATION - O -
+       /PROC/BUS/USB - O -
+          MP3-PLAYER - O -
+             COMMAND - X -
+                 TRY - X -
+                SUDO - X -
+               USBFS - X -
+                NONE - X S
+               THEME - - X
+                  IM - - X

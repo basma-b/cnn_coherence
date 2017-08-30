@@ -1,0 +1,12 @@
+               BLOCK O - -
+                PORT S - -
+               OUTGO X - -
+           INCOMMING X - -
+             DISABLE O - -
+                ALSA - - S
+             MANAGER - - X
+                  .. - - O
+               PULSE - - S
+               LAYER - - O
+                 TOP - - X
+                BOTH - - X

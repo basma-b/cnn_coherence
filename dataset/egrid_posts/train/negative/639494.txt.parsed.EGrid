@@ -1,0 +1,18 @@
+             COMMAND X O S -
+             DESKTOP X - - -
+                 GUI O O O -
+           ALTERNATE - S - -
+      UBUNTU-DESKTOP - O X -
+                INFO - - X -
+                DISK - - O -
+                  CD - - O -
+             NOTHING - - X -
+              SYSTEM - - O -
+      ADMINISTRATION - - S -
+            SOFTWARE - - X -
+              SOURCE - - O -
+/ETC/APT/SOURCES.LIST - - O -
+                TIME - - - X
+            SETTINGS - - - S
+             PROGRAM - - - X
+         PREFERENCES - - - X

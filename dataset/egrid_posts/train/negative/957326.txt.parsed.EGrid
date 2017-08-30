@@ -1,0 +1,15 @@
+               DRIVE X - - - -
+              DEVICE - X - - -
+                NAME - O - - -
+               MOUNT - - X - -
+                EXT3 - - X - -
+           /DEV/SDA4 - - S - -
+          /SOMEWHERE - - O - -
+           DIRECTORY - - X - -
+                TYPE - - O - -
+           PARTITION - - O - -
+               /HOME - - X - -
+              THINGS - - O - -
+               THERE - - X - -
+               FSTAB - - - X -
+               SORRY - - - - S

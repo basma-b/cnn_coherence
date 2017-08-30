@@ -1,0 +1,27 @@
+              FORMAT S - - - - - - - - - -
+            USERNAME X - - - - - - - - - -
+                LINE X - - - - - - - - - -
+          WHITESPACE X - - - - - - - - - -
+             CRONTAB S - - X - - - - - - -
+                USER X - - - - - - - - - -
+               LEVEL X - - - - - - - - - -
+                ROOT X - - - O - - - - - -
+          NOTIFY-OSD S - - - - - - S - - -
+                  -E X - - X O - - - - - -
+              SCRIPT - O - - - - - - - - -
+               THERE - X - - - - - - - - -
+                   * - - - - - S - - - - -
+/HOME/CHRIS/BIN/UPDATE-IFL - - - - - X - - - - -
+              MAILTO - - - - - O S - - - -
+             ADDRESS - - - - - X - - - - -
+              SYSTEM - - - - - S - - - - -
+                MAIL - - - - - O - - - - -
+        NOTIFICATION - - - - - - - O - - -
+           TOP-RIGHT - - - - - - - X - - -
+            VARIABLE - - - - - - - O - - -
+               ERROR - - - - - - - X - - -
+              REPORT - - - - - - - O - - -
+                CRON - - - - - - - S - - -
+               AFAIK - - - - - - - - - X -
+            CHECKTHE - - - - - - - - - - X
+                 WEB - - - - - - - - - - X

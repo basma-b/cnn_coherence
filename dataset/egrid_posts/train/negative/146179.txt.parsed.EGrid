@@ -1,0 +1,25 @@
+        MAKEFILE.INC X - - - - -
+/LIB/MODULES/2.6.12-10-386/BUILD X - - - - -
+          KERNELPATH X - - - - -
+                STOP - X - - - -
+               IDEAS - - X - - -
+                SEAM - - - X - -
+          KNOLAGABLE - - - S - -
+                CARD - - - X - -
+             DESKTOP - - - O - -
+              PCMCIA - - - - X -
+              DAEMON - - - - X -
+                 RUN - - - - X -
+                  PS - - - - X -
+                   | - - - - X -
+                GREP - - - - X -
+            NOTHINGS - - - - S -
+                SUDO - - - - X -
+  /ETC/INIT.D/PCMCIA - - - - X -
+               START - - - - O -
+              SCREEN - - - - - X
+               SHOOT - - - - - X
+//WWW.3AM.CO.ZA/MODULES/EVENTS/2007-05-11_NETWORK_MANAGER.JPG - - - - - X
+                ETH1 - - - - - X
+            SECURITY - - - - - X
+              OPTION - - - - - X

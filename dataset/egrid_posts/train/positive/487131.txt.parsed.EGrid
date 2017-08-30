@@ -1,0 +1,7 @@
+                COPY O O - - - O
+           PARTITION O - - - - O
+             GPARTED X - - - - -
+                 SAY S - - - - -
+          FILESYSTEM X X - - - -
+              DAMAGE O O - - - -
+             MESSAGE - - - O - -

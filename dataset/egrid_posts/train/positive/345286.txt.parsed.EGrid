@@ -1,0 +1,15 @@
+         BOOTMANAGER O - - - - - -
+                LILO X X X - - - -
+                GRUB X X - - - - -
+              SERVER - - X - - - -
+          FILESYSTEM - - S - - - -
+                ROOT - - O - - - -
+         ALLTOGETHER - - S - - - -
+           PARTITION - - O - - - -
+                STEP - - O - - - -
+             UPGRADE - - X - - - -
+               FIRST - - X - - - -
+                IDEA - - - X - - -
+                RAID - - - - X - O
+ /BOOT/GRUB/MENU.LST - - - - - S -
+          /ETC/FSTAB - - - - - X -

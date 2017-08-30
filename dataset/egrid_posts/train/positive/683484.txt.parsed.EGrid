@@ -1,0 +1,23 @@
+                GREP X X - - -
+             PATTERN S - - - -
+                  AN - X - - -
+               P1|P2 - X - - -
+              DOESNT - S - - -
+               TRICK - O - - -
+               THATS - S - - -
+              SEARCH - X - - -
+                LOOK - X - - -
+              OPTION - O - - -
+               THING - X - - -
+              AUTHOR - - - X -
+                  DD - - - - X
+               IF=IN - - - - X
+              OF=OUT - - - - X
+               CHECK - - - - O
+               SPACE - - - - X
+              QUANTA - - - - X
+                HTTP - - - - X
+//WWW.DEBIAN.ORG/DOC/MANUALS/SECURING-DEBIAN-HOWTO/AP-CHROOT-SSH-ENV.EN.HTML - - - - S
+            PATTERNS - - - - X
+                 MAN - - - - X
+          SSH_CONFIG - - - - X

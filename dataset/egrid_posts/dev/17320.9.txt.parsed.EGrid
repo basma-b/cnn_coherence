@@ -1,0 +1,26 @@
+                 ANY S - - - - - - - -
+              OWNERS O - - - - - - - -
+               12.04 - O - - - - - - -
+               POWER - X - X X - - - -
+             ADAPTER - O S - - - - - -
+/PROC/ACPI/AC_ADAPTER/STATE - - S - - - - - -
+              GOOGLE - - - S - - - - -
+               ISSUE - - - X O - - - -
+            SOLUTION - - - X - - - - -
+               CYCLE - - - X - - - - -
+              CHARGE - - - - S - - - -
+            SOFTWARE - - - - X - - - -
+               SPLIT - - - - - X - - -
+                FILE - - - - - O O - X
+              NUMBER - - - - - X - - -
+                 CSV - - - - - - S - -
+                TEXT - - - - - - X - -
+                  IE - - - - - - - X -
+                  -L - - - - - - - X -
+          INFILE.TXT - - - - - - - X -
+             OUTFILE - - - - - - - X -
+               BUNCH - - - - - - - - O
+                CALL - - - - - - - - X
+          OUTFILE.AA - - - - - - - - X
+          OUTFILE.AB - - - - - - - - X
+                 ETC - - - - - - - - X

@@ -1,0 +1,13 @@
+             COMMAND X O - - -
+             SERVICE X - - - -
+             NETWORK X - - - -
+              UBUNTU X - - - -
+             CONTEXT - - - X -
+/ETC/INIT.D/NETWORKING - - - S -
+             MACHINE - - - - X
+              REBOOT - - - - X
+               YOURS - - - - X
+             PROBLEM - - - - S
+              ROUTER - - - - O
+                HAND - - - - X
+                 IPS - - - - X

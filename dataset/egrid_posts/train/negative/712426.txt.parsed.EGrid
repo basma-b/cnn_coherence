@@ -1,0 +1,30 @@
+                 LOT S - - - - - - - - -
+               STUFF O O - - - - - - - -
+                 DVD X - - - - X - - - -
+             DEFAULT - X - X - - - - - -
+           LANGUAGES - X - - - - - - - -
+            DESKTOPS - X - - - - - - - -
+            VERSIONS - X - - - - - - - -
+                 ETC - X - - - - - - - -
+                FILE - - S - X - - - - -
+          /BOOT/GRUB - - X - - - - - - -
+                GRUB - - X - - - - - - -
+              UBUNTU - - - S - - - - - -
+        INSTALLATION - - - X - - - - - -
+             EDITION - - - X - X - - - -
+                  CD - - - X - X - - - -
+CASPER/FILESYSTEM.SQUASHFS - - - - X - - - - -
+                   * - - - - X - - - - -
+           .MANIFEST - - - - X - - - - -
+         DIFFERENCES - - - - O - - - - -
+FILESYSTEM.MANIFEST-DESKTOP - - - - - S - - - -
+                THIS - - - - - - S - - -
+               THERE - - - - - - S - - -
+             PACKAGE - - - - - - X - - -
+          SELECTIONS - - - - - - O - - -
+              INSERT - - - - - - - - X -
+              DRIVER - - - - - - - - X -
+                LINE - - - - - - - - O -
+                  .. - - - - - - - - X -
+                 GLC - - - - - - - - X -
+                 GLX - - - - - - - - - X

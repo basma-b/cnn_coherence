@@ -1,0 +1,10 @@
+               POWER X - - - -
+              SUPPLY S - - - -
+            SNAPSHOT O - - - -
+               GROUP X - - - -
+                 LVM - - - S -
+          FILESYSTEM - - - O -
+                EXT4 - - - X -
+         NDISWRAPPER - - - - X
+                 WPA - - - - S
+             SUPPORT - - - - O

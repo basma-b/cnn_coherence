@@ -1,0 +1,14 @@
+             SERVICE X - - - -
+               START X - - - -
+             STARTUP X X - - -
+                TIME - O - - -
+/ETC/INIT.D/POSTGRES - S - - -
+            COMPUTER - X - - -
+                  .. - X - - -
+              SCRIPT - O - - -
+      NON-EXECUTABLE - X - - -
+               GROUP - - - X -
+                USER - - - X -
+               OWNER - - - X -
+          EXECUTABLE - - - X -
+                X-OG - - - - X

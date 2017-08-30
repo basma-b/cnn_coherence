@@ -1,0 +1,17 @@
+                ANY1 S - - - - - -
+            HARDWARE O - - - - - -
+                JACK X - - - - - -
+               INPUT - X - - - - -
+            QJACKCTL - X - - - - -
+            QTRACTOR - X - - - - -
+              DEVICE - X - - - - -
+               SOUND - X - - - - -
+            SETTINGS - X - - - - -
+           ALSAMIXER - - X - - - -
+               LEVEL - - X - - - -
+                FILE - - - - X - X
+                MARK - - - - X - -
+      ./SUBLIME_TEXT - - - - - S X
+              GKSUDO - - - - - X -
+              OUTPUT - - - - - - O
+                  -A - - - - - - X

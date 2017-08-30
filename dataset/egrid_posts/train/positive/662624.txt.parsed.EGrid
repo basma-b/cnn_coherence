@@ -1,0 +1,9 @@
+           INITRAMFS X - - - -
+                BOOT - X - - -
+                LOAD - - - X -
+             MODULES - - - X -
+             DRIVERS - - - X -
+                  .. - - - O -
+                THAT - - - - S
+               IMAGE - - - - S
+         /INITRD.IMG - - - - X

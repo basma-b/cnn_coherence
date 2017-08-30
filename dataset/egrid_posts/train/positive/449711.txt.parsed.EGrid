@@ -1,0 +1,12 @@
+                BEST - - S - -
+             CHANNEL - - X - -
+              PEOPLE - - S - -
+             BUSYBOX - - - X X
+                SDB1 - - - O -
+                BOOT - - - X O
+              SYSTEM - - - O -
+           ROOT=UUID - - - - X
+      ROOT=/DEV/SDB1 - - - - X
+              KERNEL - - - - X
+               PANIC - - - - O
+                PATH - - - - X

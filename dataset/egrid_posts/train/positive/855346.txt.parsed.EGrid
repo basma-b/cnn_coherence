@@ -1,0 +1,20 @@
+               -LSB- S S - - - - -
+         PERMISSIONS X - - - - - -
+           DIRECTORY X X - - - - -
+        /VAR/RUN/TOR X X - - - - -
+                 OCT - S - - - - -
+                 TOR - S S - - - -
+             CONTROL - X - - - - -
+              SOCKET - O O - - - -
+/VAR/RUN/TOR/CONTROL - X - - - - -
+                NEED - S - - - - -
+                USER - X - - - - -
+               GROUP - X - - - - -
+             ACCOUNT - X - - - - -
+                UNIX - - X - - - -
+             SYSTEMS - - X - - - -
+             ANYBODY - - S - - - -
+            PASTEBIN - - - O - - -
+                LIST - - - - X - -
+                HTTP - - - - - - X
+//PASTEBIN.COM/39NP3VGT - - - - - - X

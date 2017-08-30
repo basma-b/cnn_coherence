@@ -1,0 +1,12 @@
+        RELATIONSHIP O - - - -
+                XORG X - - - -
+                 GDM X - - - -
+               GNOME X - - - -
+             DESKTOP - - X - -
+                 ENV - - O - -
+              SERVER - - X - -
+                HINT - - - - X
+                TYPE - - - - X
+                  -T - - - - O
+               DRIVE - - - - O
+                 ONE - - - - O

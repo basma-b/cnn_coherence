@@ -1,0 +1,25 @@
+                 ALL O - - - - - - -
+                GRUB X - - - - - - -
+                MENU X - - - - - - -
+              KERNEL - O - - - - - -
+             VERSION - O - - - - - -
+                 TOP - X - - - - - -
+                 ATI - X - - - - - -
+             DRIVERS - X - - - - - -
+              THINGS - S - - - - - -
+              FAMILY - X - - - - - -
+              REASON - X - - - - - -
+ /BOOT/GRUB/MENU.LST - - - X - - - -
+              BACKUP - - - S - - - -
+                CASE - - - X - - - -
+/BOOT/GRUB/MENU.LIST - - - X - X - -
+           SOMETHING - - - O - - - -
+               OTHER - - - O - - - -
+                  CP - - - - - X - -
+                SUDO - - - - - X - -
+/BOOT/GRUB/MENU.LIST.BAK - - - - - S - -
+                FILE - - - - - O - -
+           EXTENSION - - - - - X - -
+                 ONE - - - - - X - -
+                 YEP - - - - - - X -
+                THAT - - - - - - - S

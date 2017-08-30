@@ -1,0 +1,17 @@
+                  HI X - - -
+                TEXT X - - -
+/ETC/NETWORK/INTERFACES X - - -
+               ORDER S - - -
+                  IP X - - -
+                 USE X - - -
+            SECURITY X - - O
+      WPA_SUPPLICANT - X - -
+      NETWORKMANAGER - X - -
+                BOTH - O - -
+               THOSE - S - -
+             PROGRAM - X - -
+                 BTW - O - -
+             NETWORK - - X -
+             MANAGER - - X -
+                  .. - - O -
+              STATIC - - - X

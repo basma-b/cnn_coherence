@@ -1,0 +1,14 @@
+           LIBRARIES X - - - -
+              OPENGL X - - - -
+                MESA X - - - -
+               VIDEO - X - - -
+                CARD - X - - -
+                  « - - - S -
+                  » - - - S -
+               BLKID - - - S -
+                UUID - - - O -
+               DRIVE - - - X -
+  /DEV/DISK/BY-UUID/ - - - X -
+                THAT - - - - S
+                KIND - - - - O
+             STRANGE - - - - X

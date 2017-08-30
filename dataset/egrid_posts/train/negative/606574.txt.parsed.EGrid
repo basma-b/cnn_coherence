@@ -1,0 +1,16 @@
+         WAKE-ON-LAN O - - - S - - -
+                 NIC S - - S - - - -
+               POWER X - - - - - - -
+                 PXE - S - - - - - -
+                BIOS - X - - - - - -
+                 WOL - - - X - - - -
+           COMPLIANT - - - O - - - -
+              SYSTEM - - - - O - - -
+             NETWORK - - - - X X - -
+              SERVER - - - - - O - -
+            COMPUTER - - - - - X - -
+                DISK - - - - - - O -
+         /MEDIA/DISK - - - - - - X -
+                ECHO - - - - - - - X
+                USER - - - - - - - S
+            USERNAME - - - - - - - O

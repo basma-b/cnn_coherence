@@ -1,0 +1,26 @@
+         /MOUNTPOINT O - - - - - - - - -
+               FSTAB - X - - - - - - - -
+/DEV/MAPPER/TRUECRYPT0 - O - - - - - - - -
+          /ETC/FSTAB - X - - - - - - - -
+           /ETC/MTAB - X - - - - - - - -
+           PARTITION - - X - - - - - - -
+              DEVICE - - X - - - - - - -
+               SENSE - - O - - - - - - -
+              VOLUME - - - X - - - - - -
+                TYPE - - - - X - - - - -
+                 FOR - - - - - S - - - -
+                SUDO - - - - - - X - - -
+               MKDIR - - - - - - X - - -
+        /MNT/MYCRYPT - - - - - - S S - -
+               SETUP - - - - - - X - - -
+               MOUNT - - - - - - - X - -
+               POINT - - - - - - - X - -
+                NAME - - - - - - - O - -
+                  OK - - - - - - - O - -
+                THIS - - - - - - - S - -
+                WORK - - - - - - - X - -
+                USER - - - - - - - X - -
+               RIGHT - - - - - - - O - -
+             SYMLINK - - - - - - - O O -
+            /HOME/TC - - - - - - - X - -
+                 SEC - - - - - - - X - -

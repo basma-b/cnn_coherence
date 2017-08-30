@@ -1,0 +1,17 @@
+             SERVICE - X - - - -
+                 RUN - X - - - -
+           CHKCONFIG - - X - - -
+               START - - - S - -
+              APACHE - - - X - -
+                NMAP - - - O - -
+                SUDO - - - X - -
+  /ETC/INIT.D/APACHE - - - X - -
+               HTTPD - - - X - -
+              INIT.D - - - X - -
+             APACHE2 - - - X - -
+            DIFERENT - - - X - -
+              THINGS - - - S - -
+ /ETC/INIT.D/APACHE2 - - - S - -
+               POINT - - - - X -
+               ISSUE - - - - O -
+                VBOX - - - - - X

@@ -1,0 +1,24 @@
+                USER S S - - -
+               OWNER O O - - -
+           DIRECTORY X - - - -
+              ACCESS O - - - -
+         DIRECTORIES X - - - -
+              TARGET X - - - -
+         /DIRECTORYA - X - - -
+DIRECTORYA/DIRECTORYB - X - - -
+                 HMM - - S - -
+                  .. - - S - -
+               REPOS - - X - -
+         SIGNING-KEY - - O - -
+                 USE - - X - -
+             PACKAGE - - X - -
+                SUDO - - X - -
+             APT-GET - - S - -
+               PARTY - - - X -
+               STUFF - - - O -
+            GPG-KEYS - - - O -
+          GOVERNMENT - - - - S
+            SECURITY - - - - O
+              THINGS - - - - S
+               WORLD - - - - X
+                 DAY - - - - X

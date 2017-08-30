@@ -1,0 +1,12 @@
+/VAR/LIB/NYMSERV/NYMSERV.PL S - - - -
+                FILE X S - - -
+                NAME O - O - -
+                   / X - - - -
+           DIRECTORY O X X - -
+             NYMSERV - O - - -
+    /VAR/LIB/NYMSERV - X - - -
+/VAR/LIB/NYMSERV/NYMSERV - X - - -
+        NYMSERVER.PL - - O - -
+          NYMSERV.PL - - X - -
+             PACKAGE - - - - X
+          MANAGEMENT - - - - X

@@ -1,0 +1,22 @@
+             COMMAND O - - -
+                FILE O - O -
+/ETC/APT/SOURCES.LIST X - - -
+                  .. X - - -
+             MISTAKE - X - -
+/ETC/APT/SOURCES.LIST.D/ - - X -
+             PACKAGE - - - O
+                PPAS - - - O
+                .DEB - - - X
+                REPO - - - X
+              AMAZON - - - X
+            APPROACH - - - S
+              INSTAL - - - S
+                THIS - - - O
+                MIND - - - X
+             CAVEATS - - - X
+               HTTPS - - - O
+//LAUNCHPAD.NET/~AWSTOOLS-DEV/+ARCHIVE/AWSTOOLS - - - O
+                 PPA - - - O
+                SUDO - - - X
+             APT-GET - - - S
+             UPGRADE - - - S

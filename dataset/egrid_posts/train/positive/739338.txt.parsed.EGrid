@@ -1,0 +1,16 @@
+               PRINT S - - - - - - - -
+                 CUP X - - - - - - - -
+                CUPS X - - - - - - - -
+                THAT - X - - - - - - -
+                SUDO - - X - - - - - -
+   /ETC/INIT.D/CUPSD - - S - - - - - -
+             COMMAND - - X - - - - - -
+             SERVICE - - S - - - - - -
+             DISABLE - - X - - - - - -
+           SOMETHING - - O - - - - - -
+    /ETC/INIT.D/CUPS - - - - S - - - -
+              CONFIG - - - - X - - - -
+                WORK - - - - - O - - -
+             VERSION - - - - - - - - X
+              UBUNTU - - - - - - - - X
+             PRINTER - - - - - - - - X

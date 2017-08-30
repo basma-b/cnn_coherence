@@ -1,0 +1,17 @@
+               UMASK S - - - - - -
+                  LS - X - - - - -
+                 -AL - S - - - - -
+                THAT - - X - - - -
+              OUTPUT - - X - - - -
+                FILE - - - X - - -
+         PERMISSIONS - - - O - - -
+           /DEV/SDA1 - - - S - - -
+                TYPE - - - X - - -
+                NTFS - - - X - - -
+                  RW - - - X - - -
+              NOSUID - - - X - - -
+                ROOT - - - X - - -
+            SYSTEM32 - - - O - - -
+            JORDAN_U - - - - S - -
+          FILESYSTEM - - - - - X -
+              DRIVER - - - - - O -

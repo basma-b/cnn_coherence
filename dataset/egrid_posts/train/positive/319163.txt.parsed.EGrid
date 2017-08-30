@@ -1,0 +1,9 @@
+                THIS X - - -
+       PREFIX=KDEDIR - X - -
+  MANDIR=MANPAGE_DIR - S - -
+         ./CONFIGURE - - X -
+                SUSE - - X -
+    PREFIX=/OPT/KDE3 - - S -
+                 USE - - X -
+                HELP - - X -
+             OPTIONS - - X -

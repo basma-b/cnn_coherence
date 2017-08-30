@@ -1,0 +1,8 @@
+             COMMAND S - - - - -
+                 TAR X - - - - -
+                 XZF X - - - - -
+          DRV.TAR.GZ X - - O - -
+                FILE O - O - - -
+         PERMISSIONS - - X - - -
+              VIEWER - - - - - O
+                WINE - - - - - X

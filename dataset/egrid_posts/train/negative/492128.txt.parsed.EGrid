@@ -1,0 +1,16 @@
+                FILE S - - X -
+               ENTRY O - - - -
+          /ETC/HOSTS - X - - -
+                NAME - S X - -
+                HOST - - O X -
+                   > - - X - -
+                  IP - - O - -
+                 DNS - - X X -
+             ENTRIES - - S - -
+                 WAY - - X - -
+             COMMAND - - S - -
+             LOOKUPS - - O - -
+  /ETC/NSSWITCH.CONF - - - X -
+                THIS - - - O -
+       NSSWITCH.CONF - - - X -
+                  .. - - - - O

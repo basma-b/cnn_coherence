@@ -1,0 +1,10 @@
+          EQUIVALENT X - - - -
+              DEBIAN X - - - -
+         DEBOOTSTRAP X - - - -
+              UBUNTU X X - - -
+                SAME - - O - -
+               SUITE - - O - -
+              CHROOT - - O - -
+           SOMETHING - - - - O
+              DAPPER - - - - X
+DIR_TO_PUT_DAPPER_CHROOT - - - - X

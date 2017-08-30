@@ -1,0 +1,14 @@
+        GRUB-INSTALL S - - - - - -
+                GRUB O - - X - - -
+              CONFIG X - - O - - S
+                THIS - X - - - - -
+                SUDO - - X - - - -
+         UPDATE-GRUB - - S - - - S
+ /BOOT/GRUB/GRUB.CFG - - O - - S -
+                STEP - - X - - - -
+               THERE - - X - - - -
+           SOMETHING - - - O - - -
+             DEFUNCT - - - O - - -
+               GRUB2 - - - X - - -
+                BOOT - - - - - - X
+                 ALL - - - - - - O

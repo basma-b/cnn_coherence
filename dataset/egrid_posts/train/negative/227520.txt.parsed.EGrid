@@ -1,0 +1,10 @@
+                   * S S - - -
+               DRIVE O O - - -
+           PARTITION O - X - -
+               FSTAB X X - - -
+               ORDER S - - - -
+            LOCATION - X - - -
+              FORMAT - O - - -
+                HDA1 - - X - -
+                STEP - - - - O
+               HTTPS - - - - X

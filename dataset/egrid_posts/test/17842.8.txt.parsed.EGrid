@@ -1,0 +1,19 @@
+            SETTINGS S - - - - -
+/ETC/INIT.D/ONDEMAND X - - - - -
+             SERVICE X - - - - -
+/ETC/RC2.D/S05ONDEMAND X - - - - -
+               STUFF O - - - - -
+           STATEMENT O - - - - -
+                 END X - - - - -
+       ACTIONPARSNIP - - S - - -
+                 LOG - - O - - -
+                FILE - - X - - -
+                  PC - - O - - -
+/CPUFREQ/CPUINFO_MIN_FREQ - - X - - -
+                  -R - - - X - -
+              CHANGE - - - O - -
+               ISSUE - - - X - -
+            ELDERNAN - - - - S -
+                LINK - - - - X -
+              THANKS - - - - - X
+            BEGINNER - - - - - O

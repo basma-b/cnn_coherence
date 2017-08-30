@@ -1,0 +1,10 @@
+                PROB O -
+            CONFLICT X -
+             PACKAGE O -
+                  .. X -
+              OUTPUT O -
+               ERROR X -
+                HTTP X -
+//PASTE.UBUNTU-NL.ORG/25536/ S -
+               PURGE - S
+             SUDOERS - O

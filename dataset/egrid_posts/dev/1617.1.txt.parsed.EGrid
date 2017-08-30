@@ -1,0 +1,31 @@
+             SEVERAL S - - - - - - - -
+         FLASHPLUGIN X - - - - - - - -
+             ATTEMPT - X - - - - - - -
+              CHROOT - X - - - - - - -
+             COMMAND - O - - - - - - -
+               /BIN/ - X - - - - - - -
+                BASH - O - - - - - - -
+                EXEC - X - - - - - - -
+              FORMAT - X - - - - - - -
+               ERROR - O - O - - - - -
+                THAT - - S - - - - - -
+           /DEV/SDA1 - - S - - - - - -
+               FIRST - - O - - - - - -
+          DRIVE/PART - - S - - - - - -
+               DRIVE - - S - - - - - -
+              ERRORS - - O - - - - - -
+              SYSTEM - - - - - S - - -
+                FAIL - - - - - X - - -
+                  .. - - - - - - - - O
+                DPKG - - - - - - - - S
+                  -A - - - - - - - - S
+                 DEB - - - - - - - - X
+              MIRROR - - - - - - - - O
+//MIRRORS.UBUNTU.COM/MIRRORS.TXT - - - - - - - - X
+                MAIN - - - - - - - - S
+            UNIVERSE - - - - - - - - X
+          MULTIVERSE - - - - - - - - O
+     PRECISE-UPDATES - - - - - - - - S
+/ETC/APT/SOURCES.LIST - - - - - - - - X
+             APT-GET - - - - - - - - X
+              UPDATE - - - - - - - - X

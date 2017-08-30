@@ -1,0 +1,34 @@
+               ISSUE - S - - - - - - - - - -
+             PACKAGE - O O X - - - - X - - -
+              SYSTEM - X - - - - - - - - - -
+             APT-GET - - S - - - S - - - - -
+          AUTOREMOVE - - S - - - - - - - - -
+               PURGE - - S - - - X - - - - -
+              OUTPUT - - - X - - - - - - - -
+                THAT - - - - O - - - - O - -
+              THUNE3 - - - - O - - - - - - -
+                FILE - - - - - S X X - - - -
+/USR/SHARE/OPENQRM/ETC/OPENQRM-SERVER.CONF - - - - - - O - - - - -
+                SUDO - - - - - - S - - - - -
+               TOUCH - - - - - - O - - - - -
+             OPENQRM - - - - - - X - - - - -
+           DIRECTORY - - - - - - X - - - - -
+               MKDIR - - - - - - X - - - - -
+/USR/SHARE/OPENQRM/ETC - - - - - - X - - - - -
+               ERROR - - - - - - O X - - - -
+                CANT - - - - - - - X - - - -
+             MESSAGE - - - - - - - O - - - -
+            PASTEBIN - - - - - - - O - - O -
+            QUESTION - - - - - - - - X - - -
+          SUCCESSFUL - - - - - - - - O - - -
+                LIST - - - - - - - - X - - -
+                IDEA - - - - - - - - - S - -
+            DATABASE - - - - - - - - - O - -
+                   / - - - - - - - - - - S -
+                HTTP - - - - - - - - - - O -
+//INTERWEBS.PASTEBIN.ORG/388160 - - - - - - - - - - O -
+                WORK - - - - - - - - - - - X
+              POSTRM - - - - - - - - - - - X
+              SCRIPT - - - - - - - - - - - O
+             PROGRAM - - - - - - - - - - - O
+        INSTALLATION - - - - - - - - - - - S

@@ -1,0 +1,23 @@
+              FORMAT X - - - - - -
+                  HD X - - - - - -
+                 USE X - - - - - -
+               FDISK O - - - X - -
+                   D X - - - - - -
+                   N X - - - - - -
+           PARTITION O - - - S - -
+                   W X - - - - O -
+              VOLUME O - - - - - -
+AUTH_ADMIN_KEEP_ALWAYS - X - - - - -
+                   < - X - - - - -
+              ACTION - X - - - - -
+              RESULT - X - - - - -
+                HELL - - X - - - -
+           THAT/WHAT - - X - - - -
+               ORDER - - - - S - -
+          FILESYSTEM - - - - O O -
+            /DEV/HDA - - - - X - -
+                   > - - - - O - -
+               GUIDE - - - - O - -
+            T=267869 - - - - - S -
+                MKFS - - - - - S -
+ WWW.MUSICBRAINZ.ORG - - - - - - X

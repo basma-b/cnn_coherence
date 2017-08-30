@@ -1,0 +1,9 @@
+              KERNEL - O - X - - -
+                 RAM - X - - - - -
+                DISK - O - - - - -
+         INITRDTOOLS - - O - - - -
+             COMMAND - - - O - - -
+  2.6.20.4.MDKCUSTOM - - - X - - -
+  /USR/SBIN/MKINITRD - - - S - - -
+             VERSION - - - O - - -
+     INITRAMFS-TOOLS - - - - O - -

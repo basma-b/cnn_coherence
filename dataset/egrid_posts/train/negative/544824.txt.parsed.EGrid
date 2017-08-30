@@ -1,0 +1,16 @@
+          UNETBOOTIN S - S - - -
+                NAME - - O - - -
+             UTILITY - - - O - -
+              OTHERS - - - - X -
+          RESOLUTION - - - - - X
+             PROBLEM - - - - - X
+               FAULT - - - - - S
+              CUSTOM - - - - - X
+              KERNEL - - - - - O
+    UPDATE-INITRAMFS - - - - - S
+              VESAFB - - - - - O
+               FBCON - - - - - O
+             MODULES - - - - - O
+              INITRD - - - - - X
+               STOCK - - - - - X
+             KERNELS - - - - - X

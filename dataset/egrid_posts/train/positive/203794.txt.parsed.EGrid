@@ -1,0 +1,20 @@
+                 HMM X - - - -
+        SOURCES.LIST O - S - -
+                LINK X - - - -
+     BUILD-ESSENTIAL - X - - -
+           LIBC6-DEV - S - - -
+            LIBC-DEV - O - - -
+                 G++ - X - - -
+                   > - X - - -
+               LIBC6 - X - - -
+LINUX-KERNEL-HEADERS - X - - -
+              DAPPER - O O - -
+          DEPENDENCY - - O - -
+              DOESNT - - S - -
+                  ED - - O - -
+             VERSION - - X - -
+          DEPENDANCY - - - O -
+             PACKAGE - - - S -
+               REPOS - - - X -
+                THAT - - - - S
+             PROBLEM - - - - O

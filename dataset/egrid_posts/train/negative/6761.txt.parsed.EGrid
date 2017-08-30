@@ -1,0 +1,11 @@
+             COMMAND X - - - -
+                 W/O S - - - -
+              WINDOW O - - - -
+                GKSU - O - - -
+                SUDO - - S - -
+             PACKAGE - - - X -
+              REMOVE - - - X -
+           GSTREAMER - - - X -
+           SOMETHING - - - - X
+         PULSE-AUDIO - - - - S
+              THINGS - - - - S

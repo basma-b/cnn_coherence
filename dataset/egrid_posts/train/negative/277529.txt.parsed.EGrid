@@ -1,0 +1,7 @@
+           DIRECTORY O - - - - - - X - - -
+         PERMISSIONS - - - - - - X - - - -
+          PERMISSION - - - - - - - O - - -
+               OWNER - - - - - - - - O - -
+                ROOT - - - - - - - - X - -
+            ANYTHING - - - - - - - - - - X
+                FILE - - - - - - - - - - O

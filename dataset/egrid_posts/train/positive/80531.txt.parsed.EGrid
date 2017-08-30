@@ -1,0 +1,13 @@
+              SYSTEM S - - -
+                LOAD X - - O
+           SUBSYSTEM O - - -
+                   / - - S -
+              SECOND - - X -
+            RECOVERY - - - O
+               ERROR - - - X
+           HW_RANDOM - - - O
+                CANT - - - S
+              KERNEL - - - X
+                USER - - - X
+                MODE - - - X
+              DRIVER - - - X

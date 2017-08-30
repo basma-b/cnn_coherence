@@ -1,0 +1,15 @@
+            GIMP-2.5 O - - -
+                 USE X - - -
+        CHECKINSTALL X - - -
+             PACKAGE X O - -
+             MANAGER S - - -
+               BREAK O - - -
+               CAUSE O - - -
+       GIMP-GNOMEVFS X - - -
+         GIMP-PYTHON X - - -
+                SUDO - X - -
+                DPKG - S - -
+             APT-GET - X - -
+                  -F - O - -
+                ROOM - - - X
+            COMPUTER - - - X

@@ -1,0 +1,17 @@
+                GREP X - - - - - -
+                ALSA X - - - - - -
+              RETURN X - - - - - -
+               LSMOD - X - - - - -
+                LIST - S - - - - -
+              SYSTEM - - X - - - -
+                NAME - - X - - - -
+                SND_ - - O - - - -
+                 USE - - O - - - -
+               SOUND - - S - - - -
+                WORK - - O - - - -
+             MODULES - - S - - - -
+                LOAD - - O - - - -
+               INTEL - - - - X - -
+              DRIVER - - - - X - -
+                ROOT - - - - - X -
+                 TRY - - - - - - X

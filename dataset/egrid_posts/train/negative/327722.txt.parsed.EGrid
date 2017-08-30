@@ -1,0 +1,12 @@
+             PACKAGE X - - -
+          EXECUTABLE O - - -
+            PKG/EXEC - S - -
+               /FILE - X - -
+            APT-FILE - X - -
+              SEARCH - S X -
+                SUDO - X - -
+              UPDATE - X - -
+         ALTERNATIVE - - X -
+//PACKAGES.UBUNTU.COM/ - - X -
+             BLANKET - - - S
+                TERM - - - O

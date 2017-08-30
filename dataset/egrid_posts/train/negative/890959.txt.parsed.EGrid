@@ -1,0 +1,26 @@
+               USERS X - - - - X - - - - -
+            COMPUTER X - - - - - X X - - -
+           PRIVILEGE O - - - - - - - - - -
+             DISABLE - S - - - - - - - - -
+            SHUTDOWN - X X X - X - - X - -
+              OPTION - O - - - - - - - - -
+             DEFAULT - - O - - - - X - - -
+                GUIS - - X - - - - - - - -
+              BUTTON - - X - - S X - - - -
+                WORK - - O - - - - - - - -
+                AUTO - - - X - - - X - - -
+                USER - - - X - - - - - - -
+             SESSION - - - - X - - - - - -
+             NONROOT - - - - - X - - - - -
+               LOGIN - - - - - - X S - - -
+              SCREEN - - - - - - X - - - -
+               FORCE - - - - - - - X - - -
+               GUEST - - - - - - - X - - -
+                ROOT - - - - - - - X X - -
+                 ONE - - - - - - - S - - -
+             ACCOUNT - - - - - - - X - - -
+                 GDM - - - - - - - - X - -
+               JHTTP - - - - - - - - - - X
+//UBUNTUGUIDE.ORG/WIKI/UBUNTU - - - - - - - - - - X
+HOW_TO_COPY_FILES.2FFOLDERS_FROM_REMOTE_UBUNTU_HOST_INTO_LOCAL_MACHINE_.28SCP.29 - - - - - - - - - - X
+                 SSH - - - - - - - - - - O

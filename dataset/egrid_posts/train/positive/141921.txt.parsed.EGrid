@@ -1,0 +1,21 @@
+             COMMAND X - - - -
+            DIRECTOR X - - - -
+               MKDIR - X - - -
+           DIRECTORY - - X - -
+                  .. - - X - -
+              NORMAL - - X - -
+              GKSUDO - - O - -
+                PATH - - X - -
+                ISNT - - S - -
+             APT-GET - - S - -
+            WEBBOARD - - X - -
+                NEED - - O - -
+ UNIVERSE/MULTIVERSE - - X - -
+               REPOS - - S - -
+                   E - - O - -
+             PACKAGE - - X - -
+            UNIVERSE - - O - -
+/ETC/APT/SOURCES.LIST - - X - -
+        SOURCES.LIST - - - S -
+               THERE - - - - S
+             NOTHING - - - - O

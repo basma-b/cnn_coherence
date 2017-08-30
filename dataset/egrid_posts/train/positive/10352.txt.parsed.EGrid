@@ -1,0 +1,12 @@
+           SOUNDCARD X - - -
+        /PROC/ASOUND S - - -
+            /DEV/DSP S - - -
+                  .. S - - -
+               SOUND X - - -
+              PLAYER S - - -
+                CLUE O - - -
+                 -AL - S - -
+         PERMISSIONS - X - -
+               GROUP - X - -
+               AUDIO - - - X
+                ROOT - - - X

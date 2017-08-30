@@ -1,0 +1,14 @@
+                USER X - - - - -
+            DATABASE X - - X - -
+              BACKUP X - - - - -
+                DONT - X - - - -
+              OPTION - O - - - -
+           MYSQLDUMP - X - - - -
+                 USE - - O - - -
+    DEBIAN-SYS-MAINT - - S - - -
+             PURPOSE - - X S - -
+        PERSMISSIONS - - - O - -
+            REISERFS - - - - - X
+          FILESYSTEM - - - - - O
+                IMHO - - - - - X
+                 GUY - - - - - X

@@ -1,0 +1,16 @@
+                SUDO O S -
+               ERROR O O -
+                ROOT O X -
+                USER X S X
+             SUDOERS X X -
+                FILE X - -
+                 COS - X -
+              ACCESS - S -
+                LIST - O -
+        /ETC/SUDOERS - X -
+           PREVILEGE - X -
+       SPECIFICATION - X -
+                ALL= - O -
+                 ALL - X -
+           USER_NAME - X -
+            SETTINGS - - X

@@ -1,0 +1,23 @@
+              DRIVER - O - - O - - - O
+             REALTEK - X - - X - - - -
+            WIRELESS - X - - X - - - -
+             ADAPTER - X - - X - - - -
+              WINDOW - - X - - X - - -
+             COMMAND - - X - - X - - -
+        INSTALLATION - - S - - S - - -
+                  .. - - O - - O - - -
+/LIB/MODULES/2.6.32-24-GENERIC/BUILD - - X - - X - - -
+                FILE - - X - - X - O -
+           DIRECTORY - - X - - X - - -
+                  HI - - - X - - - - -
+               IDEAS - - - O - - - - -
+             PROBLEM - - - X - - - - -
+              KERNEL - - - - - - X - X
+             HEADERS - - - - - - S - X
+                SUDO - - - - - - - X X
+             APT-GET - - - - - - - S -
+     BUILD-ESSENTIAL - - - - - - - S -
+             PACKAGE - - - - - - - - S
+               MKDIR - - - - - - - - X
+                  -P - - - - - - - - S
+                LINK - - - - - - - - O

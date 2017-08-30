@@ -1,0 +1,12 @@
+                 KEY X S -
+/ETC/NETWORK/INTERFACES X - -
+                 WEP - X -
+        WIRELESS_KEY - X -
+                   < - X -
+                   > - S -
+           SOMETHING - O -
+            RESTRICT - X -
+                SUDO - X -
+            IWCONFIG - X -
+               IFACE - X -
+                NICE - - X

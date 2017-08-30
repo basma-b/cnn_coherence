@@ -1,0 +1,13 @@
+         RECONFIGURE X - - - - -
+             XSERVER O - - - - -
+                TEXT - O - - - -
+              SCREEN - X - - - -
+             COMMAND - X - - - -
+           STATEMENT - - X - - -
+                BOOT - - X - - -
+              SCRIPT - - O - - -
+       /ETC/RC.LOCAL - - X - - -
+                   * - - - X - -
+              EFFECT - - - S - -
+                PART - - - - - X
+            FORECAST - - - - - X

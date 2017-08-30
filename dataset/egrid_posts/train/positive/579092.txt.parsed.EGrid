@@ -1,0 +1,16 @@
+                NTFS X - - - - - -
+           PARTITION O - - - - - -
+                TEXT X - - - - - -
+              REASON - X - - - - -
+                 ALL - S - - - - -
+               THESE - X - - - - -
+         EXECUTABLES - X - - - - -
+            NAUTILUS - S - - - - -
+                FILE - - X O - - -
+                CALL - - O - - - -
+          EXECUTABLE - - - X - - -
+               UMASK - - - - - O -
+               DMASK - - - - - X -
+               FMASK - - - - - X -
+          /ETC/FSTAB - - - - - X -
+              SEVEAS - - - - - - X

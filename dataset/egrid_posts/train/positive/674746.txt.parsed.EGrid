@@ -1,0 +1,12 @@
+             COMMAND X - - -
+               PFIFO S - - -
+                 JOB O - - -
+                SUDO X - - -
+              COURSE X - - -
+              SOLVEN X - - -
+                FILE - X - -
+                ROOT - O - -
+               OWNER - X - -
+               GROUP - X - -
+                 WAY - X - -
+                  OK - - - X

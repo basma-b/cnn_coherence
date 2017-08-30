@@ -1,0 +1,11 @@
+             RPCINFO S - -
+            LIBC-BIN X X -
+                BITS O - -
+                 BIN - X -
+                FILE - S -
+             PACKAGE - X -
+             RPCBIND - X -
+               64BIT - X -
+                 YES - - X
+               HTTPS - - X
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/COMPIZ/+BUG/776435 - - X

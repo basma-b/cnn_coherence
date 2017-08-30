@@ -1,0 +1,11 @@
+             COMMAND X - -
+         APPLICATION S - -
+                LOCK X - -
+               SOUND X - -
+              DEVICE O - -
+                LSOF - S -
+                FSCK - O -
+                BOOT - X -
+                SUDO - X -
+               TOUCH - O -
+           FORWARING - - S

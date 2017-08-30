@@ -1,0 +1,15 @@
+         PERMISSIONS X O - -
+              NOBODY X X - -
+                USER X - - -
+               MUSIC X - - -
+              FOLDER S S - -
+            MT-DAAPD - S - -
+                 MP3 - S - -
+               GROUP - X - -
+               CHMOD - - - X
+             DEFAULT - - - X
+               THERE - - - S
+               USERS - - - X
+        /HOME/MYUSER - - - X
+          SUBFOLDERS - - - X
+   /HOME/MYDIR/MUSIC - - - X

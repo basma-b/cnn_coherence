@@ -1,0 +1,15 @@
+                -LAH X -
+       /USR/BIN/JAVA S -
+               POINT S -
+/ETC/ALTERNATIVES/JAVA X -
+                SUDO X -
+ UPDATE-ALTERNATIVES O -
+              CONFIG X -
+                JAVA O -
+               THERE S -
+            /USR/BIN X -
+   /ETC/ALTERNATIVES X -
+             PACKAGE - S
+                 DIR - S
+                 THO - O
+               PURGE - X

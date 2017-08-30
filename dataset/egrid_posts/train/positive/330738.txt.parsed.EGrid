@@ -1,0 +1,20 @@
+                 TAR X X -
+               -XJVF X - -
+               -RSB- X - -
+               BZIP2 O - -
+               STDIN S - -
+                FILE O - -
+NWMOUSE-LATEST.TAR.GZ - S -
+               CHILD - X -
+              RETURN - X -
+              STATUS - X -
+               ERROR - X -
+                EXIT - S -
+              ERRORS - X -
+             NOTHING - S -
+                  .. - X -
+          SUGESTIONS - S -
+              GUNZIP - X -
+             COMMAND - O -
+          MR_AWESOME - - X
+                   K - - S

@@ -1,0 +1,11 @@
+              IFDOWN X - - -
+                ETH0 S - - -
+                ROOT X - - -
+                SUDO X - - -
+            SHUTDOWN X - - -
+                LSHW O - - X
+                NAME S - - -
+/ETC/NETWORK/INTERFACES X - - -
+    /ETC/RESOLV.CONF O - - -
+            FIREWALL - O - -
+                PAN0 - - - S

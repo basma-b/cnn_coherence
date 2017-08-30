@@ -1,0 +1,17 @@
+         PERMISSIONS X - - - -
+              FOLDER X - - - -
+                FILE S - - - -
+          PERMISSION O - - - -
+                 USE - X - - -
+                SUDO - X - - -
+                USER - X - - -
+     /PATH/TO/FOLDER - X - - -
+             SERVICE - X - - -
+          SERVERNAME - X - - -
+              NUMBER - X - - -
+         LAMP-SERVER - X - - -
+               -LSB- - - - X -
+         SERVICENAME - - - X -
+                   * - - - X -
+               BLOCK - - - - X
+                SIZE - - - - O

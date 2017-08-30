@@ -1,0 +1,23 @@
+                NAME X - -
+             PROGRAM X - -
+                 CLI X - -
+                   X O - X
+         RECONFIGURE - X -
+             PACKAGE - X -
+          PACKETNAME - O -
+              SCREEN - X -
+            RECOVERY - X -
+                MODE - X -
+                SUDO - - X
+                 KDM - - X
+                   / - - X
+                 GDM - - X
+                XORG - - O
+                WORK - - S
+               XINIT - - X
+            SETTINGS - - X
+                TYPE - - X
+             DRIVERS - - O
+                  NV - - X
+               HTTPS - - O
+//HELP.UBUNTU.COM/COMMUNITY/BINARYDRIVERHOWTO/NVIDIA - - O

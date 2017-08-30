@@ -1,0 +1,17 @@
+              SERVER O - - - - -
+                 SSH - X - - - -
+         SSHD_CONFIG - X - - - -
+           CONFIGURE - O - - - -
+                 LOG - X - - - -
+                AUTH - X - - - -
+               DEBUG - X - - - -
+             ENTRIES - O - - - -
+            /VAR/LOG - X - - - -
+              ANYONE - - X - - -
+              ADVICE - - X - - -
+       CONFIGURATION - - - O - -
+             SERVICE - - - - O -
+                NMAP - - - - X -
+            PASSWORD - - - - X O
+          PERMISSION - - - - - X
+               ERROR - - - - - X

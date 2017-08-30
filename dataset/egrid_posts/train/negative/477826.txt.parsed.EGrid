@@ -1,0 +1,30 @@
+                HELP O - - - - - - - -
+                RULE - X - - - - - - -
+             TROUBLE - - - O - - - - -
+          GNOMEBAKER - - - X - - - - -
+             VERSION - - - X - - - - -
+                  CD - - - - O - - X -
+               ERROR - - - - S - - - -
+             MESSAGE - - - - O - - - -
+               SPACE - - - - X - - X -
+               LEAVE - - - - X - - O -
+RESOURCE.GSTFILESINK.C - - - - X - - - -
+GST_FILE_SINK_RENDER - - - - X - - - -
+                DATA - - - - S - - - -
+  ERROR.GSTBASESRC.C - - - - O - - - -
+   GST_BASE_SRC_LOOP - - - - X - - - -
+              STREAM - - - - X - - - -
+                TASK - - - - X - - - -
+               PAUSE - - - - X - - - -
+              REASON - - - - X - - - -
+ GST_FILE_SINK_EVENT - - - - X - - - -
+/GNOMEBAKER-CONVERT-TO-WAV-PIPELINE/FILE-OUT - - - - X - - - -
+              SYSTEM - - - - X - - - -
+              DEVICE - - - - X - - - -
+                NOOB - - - - - O - - -
+               IDEAS - - - - - - X - -
+                  -H - - - - - - - O -
+                 HDD - - - - - - - X -
+              BURNER - - - - - - - S -
+                GNEA - - - - - - - X -
+    .6.32-33-GENERIC - - - - - - - - O

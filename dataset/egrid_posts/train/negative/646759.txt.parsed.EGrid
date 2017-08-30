@@ -1,0 +1,27 @@
+            MRPIRACY X - - - -
+                USER X - - - -
+        CONFIGURABLE X - - - -
+            SETTINGS S - O - -
+                 SET O - - - -
+                MENU X - - - -
+               ENTRY O - - - -
+            GRUB.CFG S - - - -
+               PLACE O - - - -
+   /ETC/DEFAULT/GRUB X X - - -
+              CUSTOM X - - - -
+             ENTRIES O O - - -
+              SCRIPT O - X - -
+        /ETC/GRUB.D/ X - S - -
+/ETC/GRUB.D/40_CUSTOM X - - - -
+       DOCUMENTATION - X - - -
+         UPDATE-GRUB - X - - -
+                CASE - X - - -
+                 WAY - - X - -
+                FILE - - X - -
+                TEST - - X - -
+               PHASE - - X - -
+                TIME - - - O -
+                   X - - - - X
+               ISSUE - - - - O
+              NVIDIA - - - - X
+                CARD - - - - O

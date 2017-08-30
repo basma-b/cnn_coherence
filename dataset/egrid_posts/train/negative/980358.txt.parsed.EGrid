@@ -1,0 +1,29 @@
+            /DEV/DVB X - - - - - - - - -
+         -FILESYSTEM X - - - - - - - - -
+               -CARD - O - - - - - - - -
+                WORK - X - - - - - - - -
+             PACKAGE - - X - - - - - - -
+           HAUPPAUGE - - - X - - - - - -
+               DMESG - - - S - - - - - -
+               -LSB- - - - S - - - - - -
+               -RSB- - - - X - - - - - -
+           SUBSYSTEM - - - X - - - - - -
+           0070:9002 - - - X - - - - - -
+               BOARD - - - X - - - - - -
+              NOVA-T - - - X - - - - - -
+             CARD=18 - - - X - - - - - -
+                SCAN - - - S - - - - - -
+                CARD - - - O O - - - - -
+                IDEA - - - - X - - - - -
+               THERE - - - - - - X - - -
+MAKEDEV-DVB.SH-SCRIPT - - - - - - - O - -
+             SUCCESS - - - - - - - X - -
+                  NO - - - - - - - - X -
+          FILESYSTEM - - - - - - - - O -
+            COMPLAIN - - - - - - - - O -
+           MAIN:1882 - - - - - - - - S -
+/DEV/DVB/ADAPTER0/FRONTEND0 - - - - - - - - X -
+                FILE - - - - - - - - X -
+           DIRECTORY - - - - - - - - X -
+                  OS - - - - - - - - - X
+               DRIVE - - - - - - - - - X

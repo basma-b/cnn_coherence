@@ -1,0 +1,11 @@
+                TIME X - - -
+              KERNEL X - - -
+              MODULE X - - -
+                LOAD X - X -
+                BOOT X - - -
+           BLACKLIST - - S -
+            QUESTION - - X -
+        PATA_JMICRON - - O -
+              GKSUDO - - - S
+                 GUI - - - O
+                SUDO - - - O

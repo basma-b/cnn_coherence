@@ -1,0 +1,14 @@
+               CHOWN S - - - - -
+PERMISSIONS/OWNERSHIP X - - - - -
+              CHANGE O - - - - -
+                THAT - X - - - -
+             PACKAGE - O - - - -
+             DEFAULT - O - - - -
+              UBUNTU - X - - - -
+                MESS - X - - - -
+              SYSTEM - X - - - -
+            NAUTILUS - - X - - -
+          THUMBNAILS - - X S - -
+               VIDEO - - - X - -
+               TOTEM - - - O - -
+                 YES - - - - - X

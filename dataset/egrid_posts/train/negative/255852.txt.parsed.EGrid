@@ -1,0 +1,15 @@
+           COMPUTERS S - - - -
+                 LAN X - - - -
+            TERMINAL - X - - -
+            IFCONFIG - X - - -
+              NUMBER - X - - -
+             ADDRESS - O - - -
+           SOMETHING - - S - -
+       192.168.1.100 - - X - -
+             NETWORK - - X - -
+               CABLE - - X - -
+                INET - - - S -
+ BCAST:192.168.1.255 - - - X -
+  MASK:255.255.255.0 - - - O -
+                 KDE - - - - X
+              FORMAT - - - - O

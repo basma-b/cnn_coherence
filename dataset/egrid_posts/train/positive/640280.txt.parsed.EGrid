@@ -1,0 +1,24 @@
+          RESOLUTION O - - - - - - - - -
+                   * X - - - - - - - - -
+             SOMEONE X - - - - - - - - -
+                9.04 - - X - - - - - - -
+               WHATS - - S - - - - - - -
+               ISSUE - - O - - - - - - -
+              DRIVER - - - X - - - O - -
+XSERVER-XORG-VIDEO-INTEL - - - - X - - - - -
+            ANYTHING - - - - O - - - - -
+                TYPE - - - - - - X - - -
+                CARD - - - - - - X X - -
+               VIDEO - - - - - - - X - -
+                HINT - - - - - - - X - -
+               LSPCI - - - - - - - X - -
+                   | - - - - - - - X - -
+                GREP - - - - - - - X - -
+                 VGA - - - - - - - X - X
+               INTEL - - - - - - - S - X
+                SITE - - - - - - - O - -
+               THERE - - - - - - - S - -
+          CONTROLLER - - - - - - - - - X
+         CORPORATION - - - - - - - - - X
+          INTEGRATED - - - - - - - - - X
+            GRAPHICS - - - - - - - - - X

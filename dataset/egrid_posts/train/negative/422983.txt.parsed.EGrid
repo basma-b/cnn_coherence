@@ -1,0 +1,11 @@
+             PROGRAM O S -
+             INITTAB X - -
+        /ETC/INITTAB O - -
+              UBUNTU X - -
+          EQUIVALENT X - -
+             SYSTEM- - X -
+                   > - X -
+        PREFERENCES- - X -
+            SESSIONS - X -
+                  .. - - X
+             DEFAULT - - X

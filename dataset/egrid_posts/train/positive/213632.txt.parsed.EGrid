@@ -1,0 +1,7 @@
+        CHECKINSTALL S - - -
+                .DEB X - - -
+                 DEB - O - -
+             VERSION - O - -
+                 USE - - X -
+                DPKG - - X -
+                   / - - S -

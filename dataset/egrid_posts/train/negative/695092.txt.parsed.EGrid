@@ -1,0 +1,27 @@
+                BOOT O - - - - -
+              LIVECD X - - - - -
+       CONFIGURATION O - - - - -
+               LINUX X - - - - -
+           PARTITION O - - - - -
+                /MNT S - - - - -
+                SUDO X - - - - -
+              CHROOT O - - - - -
+             COMMAND S - - - - -
+           /BIN/BASH X - - - - -
+                EXEC X - - - - -
+              FORMAT X - - - - -
+               ERROR X - - - - -
+              ANYONE S - - - - -
+                ROOT X - - - - -
+                 DIR X - - - - -
+               SHELL O - - - - -
+       /MNT/BIN/BASH X - - X - -
+          EVERYTHING X - - - - -
+                  GO X - - - - -
+              UBUNTU O - - - - -
+              OUTPUT O - - X - -
+                HTTP - X X - - -
+//PASTEBIN.COM/DOWNLOAD.PHP - X X - - -
+                FILE - - - X - -
+                  -A - - - X - -
+                 MMM - - - - - S

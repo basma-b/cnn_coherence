@@ -1,0 +1,9 @@
+             DROPBOX X - - -
+           INTERFACE X - - -
+                TIME - O - -
+             NTPDATE - S S -
+              SCRIPT - S - -
+                NTPD - - S -
+               CLOCK - - S -
+              EVENTS - - X -
+                 ETC - - O -

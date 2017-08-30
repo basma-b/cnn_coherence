@@ -1,0 +1,12 @@
+           VMWGFX.KO X - - - -
+           INITRAMFS X - - - -
+              VMWARE - O - - -
+              MODULE - O - - -
+                AREA - X - - -
+    UPDATE-INITRAMFS - S - - -
+              KERNEL - X - - -
+             VERSION - O - - -
+               X.ORG - - - X -
+             OPENBOX - - - X -
+           SOMETHING - - - X -
+         ENVIRONMENT - - - - X

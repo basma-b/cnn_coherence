@@ -1,0 +1,17 @@
+                 GUY X - - - - -
+              SOURCE O - - - - S
+           CONFIGURE O - - - - -
+               ERROR X - - - - -
+              HEADER S - - - - -
+              ZLIB.H X - - - - -
+             PACKAGE - O - S - -
+                HTTP - - X - - -
+//PACKAGES.UBUNTU.COM/SEARCH - - X - - -
+   SEARCHON=CONTENTS - - - X - -
+     KEYWORDS=ZLIB.H - - - X - -
+  MODE=EXACTFILENAME - - - X - -
+         SUITE=LUCID - - - X - -
+            ARCH=ANY - - - X - -
+                THAT - - - - - S
+                 ONE - - - - - O
+              KERNEL - - - - - X

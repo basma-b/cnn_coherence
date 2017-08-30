@@ -1,0 +1,16 @@
+        FLASHPLAYER9 O -
+                FILE O -
+                 TAR X -
+                XVFZ S -
+./FLASHPLAYER-INSTALLER O -
+               INPUT X -
+    /USR/LIB/MOZILLA X -
+        INSTALLATION X -
+                PATH X -
+             MOZILLA X -
+                 USE X -
+    /USR/LIB/FIREFOX X -
+/USR/LIB/MOZILLA/PLUGINS X -
+/USR/LIB/FIREFOX/PLUGINS X -
+               BREAK - X
+             PACKAGE - O

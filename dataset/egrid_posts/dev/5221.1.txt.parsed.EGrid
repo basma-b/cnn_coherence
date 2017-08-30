@@ -1,0 +1,12 @@
+              SERVER X - - - - -
+  DO-RELEASE-UPGRADE - O - - - -
+               SHELL - S - - - -
+              APACHE - X - - - -
+              CONFIG - X - - - -
+              CTRL-C - O - - - -
+              UPDATE - - - X - -
+                LOCK - - - - X -
+  /VAR/LIB/DPKG/LOCK - - - - O -
+                THAT - - - - - S
+              UBOTTU - - - - - X
+             COMMAND - - - - - S

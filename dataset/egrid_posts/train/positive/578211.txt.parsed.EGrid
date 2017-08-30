@@ -1,0 +1,17 @@
+             ANYBODY S S - - - -
+             GPARTED O O - - - -
+              FORMAT X X - - - -
+              RAPTOR X X - - - -
+                 36G O O - - - -
+           SOMETHING O O - - - -
+          PERMISSION S S - - - -
+              ERRORS O O - - - -
+          FILESYSTEM - - X - - -
+               DRIVE - - X - - X
+         FILESYSTEMS - - - - - X
+         DIRECTORIES - - - - - S
+                USER - - - - - X
+              DEVICE - - - - - O
+               FSTAB - - - - - O
+          MOUNTPOINT - - - - - O
+         DIRECTROIES - - - - - O

@@ -1,0 +1,23 @@
+                   P S - - -
+           PARTITION X - - -
+               TABLE O - - -
+                   * O - - -
+                BOOT X - - -
+               SAMBA S O - -
+              UPDATE S - - -
+               ERROR - O - -
+                FILE - O - -
+/VAR/LIB/SAMBA/USERSHARES/ - S - -
+               PURGE - X - -
+                STEP - - S -
+                  OS - - O -
+                ROOT - - O O
+           DIRECTROY - - O -
+              ERRORS - - - O
+                LOCK - - - O
+                READ - - - S
+                   < - - - S
+              ACCESS - - - O
+                   / - - - S
+            BLUESKAJ - - - O
+             COMMAND - - - S

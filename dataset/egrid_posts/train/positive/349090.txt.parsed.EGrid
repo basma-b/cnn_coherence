@@ -1,0 +1,14 @@
+                TEST X - - - X - - -
+               ALARM - - O - - - - -
+                GOOD - - S - - - - -
+                HOUR - - X - - - - -
+             MINUTES - - - X - - - -
+              DOESNT - - - - X - - -
+            ANYTHING - - - - O - - -
+              MEMORY - - - - - X - -
+            RESOURCE - - - - - X - -
+               ERROR - - - - - X - -
+               LOADS - - - - - X - -
+             DISPLAY - - - - - O - -
+             MESSAGE - - - - - O - -
+                NONE - - - - - - - X

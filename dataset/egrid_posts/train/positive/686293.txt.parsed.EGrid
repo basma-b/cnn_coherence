@@ -1,0 +1,17 @@
+            QUESTION X - - - O - - -
+                 LOG X - - - - - - -
+              OUTPUT X - - - - - - -
+             STARTUP X - - X - - - -
+                FSCK - X - - - - - -
+          BOOTLOGING - - X - - - - -
+                 USE - - S - - - - -
+/ETC/DEFAULT/BOOTLOGD - - X - - - - -
+              CHANGE - - X - - - - -
+     BOOTLOGD_ENABLE - - O - - - - -
+                 YES - - X - - - - -
+ BOOTLOGD_ENABLE=YES - - O - - - - -
+                TIME - - - S - - - -
+           CURIOSITY - - - X - - - -
+                THAT - - - - S - S -
+             RESTART - - - - O - - -
+                HELP - - - - - - - X

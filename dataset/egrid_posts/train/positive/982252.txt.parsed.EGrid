@@ -1,0 +1,9 @@
+               FSTAB X - -
+          FILESYSTEM O - -
+            NON-ROOT X - -
+                 MAN - X -
+                SUDO - S X
+            QUESTION - O -
+                 USE - X -
+                THAT - - O
+           POSSIBLE= - - X

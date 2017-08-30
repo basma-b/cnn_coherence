@@ -1,0 +1,16 @@
+                THIS O - - -
+              KERNEL X X - -
+                BOOT X X - -
+                LINE X X - -
+          ACPI=NOIRQ S - - -
+             COMMENT X X - -
+                  RE O S - -
+             COMMAND - X - -
+                 TRY - - X -
+                  MA - - S -
+          SCROLLBACK - - X -
+                   K - - X -
+              EFFECT - - - S
+         ALLOCATIONS - - - O
+               LATER - - - X
+             PROBLEM - - - X

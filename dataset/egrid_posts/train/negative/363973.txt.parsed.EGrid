@@ -1,0 +1,18 @@
+                 ANY O - - - -
+             PROGRAM X X - - -
+        UBUNTUSTUDIO S - - - -
+              INSTAL X - - - -
+              UBUNTU X - - - -
+                 KVM - - - S -
+FILE=/MEDIA/DATASTORE/VIRT/QEMU/WIN2K.IMG - - - X -
+             IF=NONE - - - X -
+   ID=DRIVE-IDE0-0-0 - - - X -
+          FORMAT=RAW - - - X -
+                DISK - - - X -
+               IMAGE - - - S -
+/MEDIA/DATASTORE/VIRT/QEMU/WIN2K.IMG - - - O -
+          PERMISSION - - - S -
+            LIBVIRTD - - - S -
+                USER - - - X -
+                ROOT - - - X -
+       ACTIONPARSNIP - - - O -

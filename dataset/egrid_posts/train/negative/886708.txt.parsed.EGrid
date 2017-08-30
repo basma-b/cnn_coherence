@@ -1,0 +1,12 @@
+               IMAGE - S - - - - - - -
+                BOOT - X - - - X - - -
+              SYSTEM - X - - - - - - -
+            SEQUENCE - O - - - S - - -
+              KERNEL - - O - - - X - -
+               ERROR - - - X - - - - -
+              ERRORS - - - - O - - - -
+           INITRAMFS - - - - - X - - -
+                GRUB - - - - - X - - -
+   HDIO_GET_IDENTITY - - - - - X - - -
+                   O - - - - - - - X -
+               THANK - - - - - - - - X

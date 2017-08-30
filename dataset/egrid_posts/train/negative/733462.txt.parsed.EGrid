@@ -1,0 +1,24 @@
+             UTILITY X - - - - - -
+              OUTPUT X - - X - - -
+               LOGIN X - - - - - -
+             PACKAGE - S - - - - -
+              UPDATE - O S - - - -
+            SECURITY - - X - - - -
+              SCRIPT - - - O X X -
+/USR/LIB/UPDATE-MANAGER - - - X - - -
+         APPLICATION - - - X - - -
+              PYTHON - - - - X - -
+                FILE - - - - O - -
+/PATH/TO/APT_CHECK.PY - - - - O - -
+             OPTIONS - - - - O - -
+                PART - - - - O - -
+     UPDATE-NOTIFIER - - - - X - -
+             DEFAULT - - - - X - -
+             STARTUP - - - - X - -
+        APPLICATIONS - - - - X - -
+                 APP - - - - X - -
+               SHEEL - - - - S - -
+         APPLICAITON - - - - X - -
+                THAT - - - - - S -
+           AUTOSTART - - - - - X -
+             PROBLEM - - - - - - S

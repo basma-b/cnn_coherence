@@ -1,0 +1,13 @@
+                FILE O X X - O - S -
+              UBUNTU X - - - - - - -
+           DEPENDSON - X - - - - - -
+          PERMISSION - X - - - - - -
+                BITS - S - - - - - -
+           EXECUTION - O - - - - - -
+           SOMETHING - - - O - - - -
+              OPTION - - - - S - - -
+                  SH - - - - X - - -
+            ./FOO.SH - - - - O - - -
+              SCRIPT - - - - X - X -
+            QUESTION - - - - - - O -
+              SOURCE - - - - - - - O

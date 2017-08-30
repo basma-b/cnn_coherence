@@ -1,0 +1,13 @@
+               START X X X X X - - - - - -
+              UBUNTU X X X X X - - - - - -
+                 PEN X X X X X X - - - - -
+               DRIVE X X X X X - - - - - -
+                STOP X X X X X - - - - - -
+                 SAY X X X X X - - - - - -
+           INITRAMFS X X X X X - - - - - -
+              REPEAT - - - - - O - - - - -
+                DISK - - - - - O - - - - -
+               SPACE - - - - - - X - - - -
+           PARTITION - - - - - - - - O - -
+            QUESTION - - - - - - - - - X -
+              ANSWER - - - - - - - - - X -

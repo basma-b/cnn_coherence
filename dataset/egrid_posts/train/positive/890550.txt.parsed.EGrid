@@ -1,0 +1,9 @@
+                COPY X - - -
+            USER/SRC X - - -
+                HELP - X - -
+                SUDO - X - -
+                  SH - X - -
+                  CP - X - -
+                  .. - X - -
+             NOTHING - - - O
+             COMMAND - - - X

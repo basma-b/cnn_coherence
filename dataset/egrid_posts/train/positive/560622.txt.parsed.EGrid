@@ -1,0 +1,15 @@
+             PROBLEM O -
+              SERVER X -
+             NETWORK X -
+              IFDOWN S -
+          INTERFACES S -
+/ETC/NETWORK/INTERFACES:2 O -
+          MISSPLACED X -
+              OPTION S -
+/ETC/NETWORK/INTERFACES X -
+                 BUG S -
+              SCRIPT - X
+             VERSION - S
+                  TA - S
+                 WAY - X
+             OPENSSL - X

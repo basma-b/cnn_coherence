@@ -1,0 +1,13 @@
+                COPY X - -
+                FILE O O -
+           DIRECTORY X X -
+             ANOTHER X - -
+             COMMAND S - -
+                  CP - S -
+              CHANGE - X -
+               FILE1 - O -
+                PART - X -
+                NAME - X -
+                 ALL - - X
+               THOSE - - X
+              RESULT - - X

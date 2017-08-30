@@ -1,0 +1,14 @@
+              PCIEHP O - - - -
+/ETC/HOTPLUG.D/BLACKLIST X - - - -
+            HARDWARE S - - - -
+//WWW.UBUNTULINUX.ORG/WIKI/BOOTHOTPLUGERRORS S - - - -
+                PAGE X - - - -
+/ETC/HOTPLUG/BLACKLIST S - - - -
+                INFO X - - - -
+               ERROR - O - - -
+              UBUNTU - X - - -
+             STARTUP - X - - -
+              SCREEN - X - - -
+               CLOCK - - O - -
+ NTP.UBUNTULINUX.ORG - - X - -
+                   * - - X - -

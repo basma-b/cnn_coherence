@@ -1,0 +1,23 @@
+             SOMEONE S - - -
+             WINDOWS S O - -
+                GRUB S - - -
+               ENTRY S - - -
+           PARTITION S - - -
+               TITLE S - - -
+                   < S - - -
+                   > S - - -
+         CHAINLOADER S - - -
+          SUGGESTION S - - -
+               ERROR S - - -
+           SOMETHING S - - -
+              FORMAT S - - -
+                GREP S - - -
+                 SDA S - - -
+/BOOT/GRUB/DEVICE.MAP S - - -
+            /DEV/SDA S - - -
+                 MAP S X - -
+                LINE X O - -
+                DISK - S - -
+                 HD1 - - X -
+                 HD0 - - O -
+                 ALL - - - X

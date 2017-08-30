@@ -1,0 +1,12 @@
+            SMBMOUNT O - - -
+               ERROR X - - -
+   /USR/BIN/SMBMOUNT O - - -
+                LINE O - - -
+    /SBIN/MOUNT.CIFS O - - -
+                FILE S - - -
+           DIRECTORY X - - -
+              ANYONE X - - -
+             PACKAGE - X - -
+                INFO - - X -
+               SAMBA - - X -
+                 MD5 - - - S

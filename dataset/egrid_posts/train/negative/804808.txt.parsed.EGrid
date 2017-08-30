@@ -1,0 +1,17 @@
+                TYPE X - - - -
+                  DF O - - - -
+             FOLDERS O - - - -
+                SDA6 S - - - -
+           PARTITONS O - - - -
+               SENCE O - - - -
+                LIST X - - - -
+            /DEV/SHM X - - - -
+            /VAR/RUN X - - - -
+           /VAR/LOCK X - - - -
+        /LIB/INIT/RW X - - - -
+                 SEE - X - - -
+                 MAN - S - - -
+                DISK - - X - -
+               SPACE - - X - -
+               USAGE - - O - -
+             COMMENT - - - - X

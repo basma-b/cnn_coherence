@@ -1,0 +1,13 @@
+              UBUNTU - X - - -
+             XINITRC - O - - -
+              STARTX - - O - -
+         ENVIRONMENT - - O - -
+                 USE - - - O -
+                FILE - - - O -
+             SERVICE - - - X -
+             LIGHTDM - - - S -
+                THAT - - - - O
+               UNITY - - - - X
+               SHELL - - - - X
+         GNOME-SHELL - - - - S
+          EXTENSIONS - - - - O

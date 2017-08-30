@@ -1,0 +1,30 @@
+                GRUB S - - X X - - - - - - - X - O
+                BOUT - X - - - - - - - - - - - - -
+               ERROR - X - - - - - - - - - - - - -
+              BOOTUP - X - - - - X - - - - - - - -
+                 RUN - - X - - - - - - - - - - - -
+               HUNCH - - - O - - - - - - - - - - -
+                LINE - - - X - - - - - - - - - - -
+                TYPO - - - S - - - - - - - - - - -
+                 GUY - - - - X - - - - - - - - - -
+               POINT - - - - X - - - - - - - - - -
+                 *** - - - - X - - - - - - - - - -
+                   * - - - - X - - - - - - - - - -
+            MENU.LST - - - - X - - - - - - - - - -
+     DRIVE/PARTITION - - - - - X - - - - - - - - -
+                 HMM - - - - - - X - - - - - - - -
+ROOT=UUID-THIS-AND-THAT - - - - - - O - - - - - - - -
+      ROOT=/DEV/HDA1 - - - - - - - X - - - - - - -
+                THAT - - - - - - - - S - - - - - -
+              SYSTEM - - - - - - - - - S - - - X -
+                BOOT - - - - - - - - - X - - - S -
+             PROBLEM - - - - - - - - - O - - - - -
+                IDEA - - - - - - - - - - O - - - -
+                CONF - - - - - - - - - - - - S - -
+UUID=DFDBDC0B-F2F2-43E3-92F7-8C10EBB2BC20 - - - - - - - - - - - - X - -
+                UUID - - - - - - - - - - - - O - -
+                ROOT - - - - - - - - - - - - - X -
+               WHATS - - - - - - - - - - - - - S -
+               WEERE - - - - - - - - - - - - - S -
+              THINGS - - - - - - - - - - - - - O -
+               FSTAB - - - - - - - - - - - - - S -

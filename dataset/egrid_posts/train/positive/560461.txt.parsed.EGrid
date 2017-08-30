@@ -1,0 +1,11 @@
+             PACKAGE X - -
+          MOUNT.CIFS X - -
+                THAT - O O
+                TYPE - X -
+            TERMINAL - X -
+               SMBFS - O -
+             DEFAULT - - X
+               SHELL - - S
+              SERVER - - X
+              REHASH - - O
+               STUFF - - O

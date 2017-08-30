@@ -1,0 +1,14 @@
+              VISUDO O - - - -
+                USER X X - X -
+                NAME O - - - -
+           PARAMETER O - - - -
+                 ALL S X - X -
+            NOPASSWD X - - - -
+            USERNAME - S - - -
+               THERE - S - - -
+                   > - X - - -
+        ALL=NOPASSWD - O - - -
+                ALL= - - - X -
+          SUGGESTION - - - X -
+          WORKAROUND - - - X -
+                 WAY - - - - X

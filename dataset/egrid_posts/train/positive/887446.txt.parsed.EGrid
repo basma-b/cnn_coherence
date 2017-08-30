@@ -1,0 +1,10 @@
+             COMMAND O - - - -
+                 MSG S - - - -
+        CONFIGURE.AC X - - - -
+        CONFIGURE.IN S - - - -
+             REQUIRE O - - - -
+             ANYBODY - S - - -
+                THIS - O - - -
+                 ONE - - O - -
+                FILE - - X X X
+                HELL - - - - X

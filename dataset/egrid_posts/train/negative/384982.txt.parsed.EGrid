@@ -1,0 +1,17 @@
+               ISSUE O - - - -
+               USERS S O - - -
+               SOUND O - - - -
+              ANYONE - S - - -
+         PERMISSIONS - O - - -
+                SUDO - X - - -
+               CHMOD - X - - -
+               A+RWX - S - - -
+               GROUP - X - - -
+               AUDIO - X - - -
+                LINE - - X - -
+                FILE - - X - -
+           /BIN/BASH - - - X -
+              SCRIPT - - - O -
+                BASH - - - X -
+       /USR/BIN/TEST - - - X -
+                TEST - - - - X

@@ -1,0 +1,9 @@
+             PROGRAM S - -
+                 USE X - -
+               SOUND X - -
+                CARD O - -
+                LSOF - S -
+                 DSP - O -
+                 WAY - - O
+                DEVS - - O
+             NTFS-3G - - X

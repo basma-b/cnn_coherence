@@ -1,0 +1,27 @@
+              SERVER S - - - - - X - - - - -
+             ADDRESS X - - - - - - - - - - -
+/ETC/NETWORK/INTERFACES X - - - - - - - - - S -
+             RESTART O - - - - - - - - - - -
+                 ANY - S - - - - - - - - - -
+           UNINSTALL - - - - X - - - - - - -
+     NETWORK-MANAGER - - - - S - - - - - S -
+                 WAY - - - - X - - - - - - -
+              FLAVOR - - - - - O - - - - - -
+                KIND - - - - - S - - - - - -
+                   * - - - - - X - - - - S -
+         METAPACKAGE - - - - - X - - - - - -
+                SUDO - - - - - - X - - - - -
+             APT-GET - - - - - - S - - - - -
+                  .. - - - - - - O - - - S -
+            ANYTHING - - - - - - O - - - - -
+                FACT - - - - - - X - - - - -
+               ONTOP - - - - - - X - - - - -
+      NETWORK-MANGER - - - - - - O - - - - -
+              INSTAL - - - - - - - X - - - -
+     NETWORK-MANGAER - - - - - - - O - - - -
+                ISNT - - - - - - - S - - - -
+             PROBLEM - - - - - - - X - - - -
+                DHCP - - - - - - - - - - O -
+             NETWORK - - - - - - - - - - X -
+             MISTAKE - - - - - - - - - - S -
+                BITS - - - - - - - - - - - X

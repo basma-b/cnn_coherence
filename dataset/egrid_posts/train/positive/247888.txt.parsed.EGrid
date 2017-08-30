@@ -1,0 +1,15 @@
+                TIME X - - - -
+                THAT X - - - -
+          SOUND-CARD S - - - -
+           ENUMERATE O - - - -
+                BOOT X - - - -
+              SYSTEM O - - - -
+              OUTPUT S - - - -
+          ASOUNDCONF - - O - -
+             DEFAULT - - X - -
+               SOUND - - X - -
+              DEVICE - - O - -
+             SESSION - - X - -
+                 MAN - - X - -
+                MUCH - - - O -
+             SUCCESS - - - - X

@@ -1,0 +1,13 @@
+                 ALL O - - - -
+             COMMAND X - - - -
+                FILE - - X - -
+                CALL - - X - -
+        ./WEBTEST.SH - - O - -
+             SYMLINK - - O - -
+               SHELL - - X - -
+            /USR/BIN - - X - -
+               ALIAS - - X - -
+         DEFINITIONS - - O - -
+              FORMAT - - - - O
+         BASH_ALISES - - - - X
+       .BASH_ALIASES - - - - X

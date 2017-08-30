@@ -1,0 +1,16 @@
+                THAT S - S -
+           PPC/AMD64 X - - -
+         /USR/BIN/LD - X - -
+                  .. - X - -
+            /LIBC.SO - O - -
+              SEARCH - S - -
+                  OK - X - -
+    BUILD-DEPENDENCY - O - -
+                 PPC - - X -
+           FLAKINESS - - O -
+               HELPO - - X -
+              GOODIE - - X -
+              SOURCE - - X -
+                DOKO - - S -
+             GCC-3.4 - - - S
+      AMD64-LIBS-DEV - - - O

@@ -1,0 +1,16 @@
+               GROUP X X - - - X - X S - O
+         PERMISSIONS S - - - - X - - - - -
+                  .. O - - - - - - - S - -
+                CALL - O - - - - - - - - -
+                USER - X - - - - - - - - -
+               CHOWN - X X - - - - - - - -
+            WWW-DATA - - X - - - - - - - -
+                SUDO - - X - - - - - - - -
+                  -R - - X - - - - - - - -
+                FILE - - - - - X - - S - X
+               ACCES - - - - - - - - O - -
+            /MYFILE/ - - - - - - - - O - -
+               CHGRP - - - - - - - - - - O
+          GROUPOWNER - - - - - - - - - - X
+                 SEE - - - - - - - - - - X
+               HTTPS - - - - - - - - - - X

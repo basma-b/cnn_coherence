@@ -1,0 +1,10 @@
+                FILE O - X
+           PARTITION X - -
+           INTERFACE - - O
+              STATIC - - X
+             NETWORK - - X
+             MANAGER - - O
+              CHANGE - - O
+          INTERFACES - - O
+             SERVICE - - O
+             SLEEKER - - O

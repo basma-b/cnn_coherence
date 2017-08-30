@@ -1,0 +1,26 @@
+             MACHINE X - - - - - - - - - -
+             WEBSITE - O - - - - - - - - -
+                THAT - - S - - - - - - - -
+                PAGE - - S - - - - - - - -
+          CONNECTION - - O - - - - - - - -
+               CACHE - - O - - - - - - - -
+                HOST - - - S X - - - - - -
+              AV.COM - - - - S - - - - - -
+              DOMAIN - - - - X - - - - - -
+                NAME - - - - O - - - - - -
+                  IP - - - - - X - - - - -
+            IFCONFIG - - - - - - X - - - -
+                 YES - - - - - - X - - - -
+               |GREP - - - - - - X - - - -
+                CAST - - - - - - S - - - -
+BCAST:10.255.255.255 - - - - - - - X - - -
+      MASK:255.0.0.0 - - - - - - - X - - -
+               ROUTE - - - - - - - X - - -
+                  -N - - - - - - - O - - -
+              BOTTOM - - - - - - - X - - -
+             GATEWAY - - - - - - - X - - -
+              COLLUM - - - - - - - X - - -
+             ENTRIES - - - - - - - - S - -
+            10.0.0.1 - - - - - - - - O - -
+               LINUX - - - - - - - - - - S
+                 BET - - - - - - - - - - O

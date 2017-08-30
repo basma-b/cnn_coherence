@@ -1,0 +1,13 @@
+                RPMS O - - - -
+                 MBP X - - - -
+              REBOOT X - - - -
+                SUDO X - - - -
+                 TEE X - X - -
+/SYS/DEVICES/PLATFORM/APPLESMC.768/FANX_MIN S O - - -
+       /ETC/RC.LOCAL X - - - -
+                  « - S - - -
+                THAT - - O S -
+           /BIN/BASH - - S - -
+/SYS/DEVICES/PLATFORM/APPLESMC.768/FAN1_MIN - - O - -
+/ETC/INIT.D/APPLESMC_FAN - - X - -
+         PERMISSIONS - - - - X

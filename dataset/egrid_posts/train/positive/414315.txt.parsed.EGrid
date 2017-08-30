@@ -1,0 +1,9 @@
+           TIMESTAMP S - - - O
+          FILESYSTEM X - - - -
+                 WAY X - - - -
+                FILE - - O - S
+                 DIR - - X - -
+             ANOTHER - - X - -
+                  FS - - X - -
+                DISK - - - O -
+                EXT3 - - - X -

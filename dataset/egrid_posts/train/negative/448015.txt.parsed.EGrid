@@ -1,0 +1,11 @@
+             COMMAND X - - -
+               BREAK X - - -
+        DEPENDENCIES O - - -
+                SUDO - X - -
+             APT-GET - S - -
+                 MP3 - - S -
+                META - - X X
+                 TAG - - O O
+              MOVIES - - S X
+                 ONE - - - O
+                BOUT - - - X

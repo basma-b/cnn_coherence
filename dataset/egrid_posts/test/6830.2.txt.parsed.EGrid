@@ -1,0 +1,15 @@
+            INSTANCE O - - - - -
+              AMAZON X - - - - -
+                 EC2 X - - - - -
+               MYSQL S - - - - -
+                /TMP - X - - - -
+         PERMISSIONS - S - - - -
+            APPARMOR - O - - - -
+                FILE - X - - - -
+             SOMEONE - X - - - -
+           SITUATION - - - O - -
+              DETAIL - - - X - -
+          IMPRESSION - - - - X -
+              SYSTEM - - - - S -
+                BOOT - - - - X X
+               CABLE - - - - X -

@@ -1,0 +1,9 @@
+             COMMENT O - - - -
+ BASE-CONFIG/SUDOERS X - - - -
+                SUDO - - O - -
+            DEFAULTS - - X - -
+         TTY_TICKETS - - - S -
+             SUDOERS - - - X -
+                FILE - - - X -
+            POSTINST - - - X -
+         BASE-CONFIG - - - X -

@@ -1,0 +1,15 @@
+               IMAGE O - -
+               GNOME X - -
+                LOOP X X -
+          MOUNTPOINT S - -
+     HOME/TUSHAR/ISO O - -
+          /ETC/FSTAB X - -
+           /ETC/MTAB X - -
+                ROOT O - -
+    /HOME/TUSHAR/ISO - S -
+                /MNT - O -
+              TUSHAR - O -
+                   ~ - S -
+           ISO-IMAGE - O -
+           DIRECTORY - O -
+             COMMAND - - X

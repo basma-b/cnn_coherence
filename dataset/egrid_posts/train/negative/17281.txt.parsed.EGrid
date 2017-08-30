@@ -1,0 +1,9 @@
+                GRUB X - - - -
+              2.6.10 - O - - -
+             BZIMAGE - O - - -
+/BOOT/GRUB/KERNEL-2.6.10 - X - - -
+              INITRD - X - - -
+              KERNEL - X X - -
+                FILE - - X - -
+             SUPPORT - - O - -
+             SYSTEMS - - X - -

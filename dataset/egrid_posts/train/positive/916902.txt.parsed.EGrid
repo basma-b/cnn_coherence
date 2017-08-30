@@ -1,0 +1,15 @@
+REISERFS/REISER4/XFS X X - - -
+               PROGS S X - - -
+               INTEL - X X - -
+           PROCESSOR - O - - -
+         FILESYSTEMS - - X - X
+                NAME - - O - -
+                 PPC - - X - -
+                 KDE - - - X -
+                LIBS - - - O -
+             DEFAULT - - - X -
+                FOOL - - - - X
+                PART - - - - X
+                BASE - - - - X
+              SYSTEM - - - - X
+               SMALL - - - - X

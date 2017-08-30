@@ -1,0 +1,20 @@
+                USER X - - - -
+             CRONTAB X X - - -
+/VAR/SPOOL/CRON/CRONTABS/ - S - - -
+                  -E - S - - -
+             COMMAND - X - - -
+                 DIR - - S - -
+                SWAP - - X - -
+          SWAPPINESS - - O - -
+              CONFIG - - X - -
+                INFO - - O - -
+~/.GCONF/APPS/EVOLUTION - - O - -
+                LOOK - - X - -
+           SOMETHING - - - O -
+           PASSWORDS - - - O -
+~/.GNOME2_PRIVATE/EVOLUTION - - - X -
+     .GNOME2_PRIVATE - - - S -
+                COPY - - - O -
+                REST - - - X -
+              BACKUP - - - X -
+                THAT - - - - X

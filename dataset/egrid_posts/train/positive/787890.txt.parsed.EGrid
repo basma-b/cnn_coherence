@@ -1,0 +1,16 @@
+             PROBLEM - O - - - - - - -
+                TIME - - X - X - - - -
+              SERVER - - O - - - O - -
+                SYNC - - X - X - - X X
+              SCRIPT - - - O - - - - -
+     /ETC/CRON.DAILY - - - X X - - - -
+                  ED - - - - S - - - -
+             NTPDATE - - - - - O - - S
+              REASON - - - - - X - - -
+                 USE - - - - - X - - -
+                CRON - - - - - X - - -
+              DAEMON - - - - - O - - O
+                 ONE - - - - - - - X -
+               CLOCK - - - - - - - O O
+           BEHAVIORS - - - - - - - - O
+           COMPUTERS - - - - - - - - X

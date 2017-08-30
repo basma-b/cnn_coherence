@@ -1,0 +1,14 @@
+                QEMU S - - S -
+                  .. - X - - -
+               ERROR - X - - -
+             MESSAGE - O - - -
+                WARN - S - - -
+        /DEV/NET/TUN - O - - -
+             NETWORK - X - - -
+           EMULATION - X - - -
+             ANYBODY - - X - -
+             HDD.IMG - - - O -
+                SUDO - - - O -
+                TUN0 - - - X -
+            PJHARPER - - - S -
+                RENO - - - O -

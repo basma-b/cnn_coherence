@@ -1,0 +1,11 @@
+         PERMISSIONS X - - - -
+               CHMOD - S - - -
+               .SSH/ - O - - -
+         APPLICATION - - - X -
+             RUNTIME - - - X -
+                PATH - - - S -
+           DIRECTORY - - - - X
+            WRITABLE - - - - O
+                 WEB - - - - X
+              SERVER - - - - X
+             PROCESS - - - - X

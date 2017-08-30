@@ -1,0 +1,16 @@
+                  IP O - - - - - -
+                   % X - - - - - -
+              PACKET X - - - - - -
+                LOSS O - - - - - -
+             NETWORK X - - - - - -
+              DUPLEX O - - - - - -
+                WORK X - - - - - -
+                GOOD X - - - - - -
+              ANYONE X - - - - - -
+            IFCONFIG - - - - X - -
+                ETH0 - - - - X - -
+              ERRORS - - - - X - -
+             OVERRUN - - - - X - -
+               FRAME - - - - X - -
+               SAMBA - - - - - - O
+            TERMINAL - - - - - - X

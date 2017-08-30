@@ -1,0 +1,13 @@
+               SYSFS X - - - -
+               VALUE O - - - -
+              KERNEL X - - - -
+                BOOT X - - - -
+                ARGS X - - - -
+                 CPU - X - - -
+                 YES - O - - -
+                HINT - - X - -
+              SYSTEM - - - - X
+                SUDO - - - - X
+             APT-GET - - - - X
+              UPDATE - - - - X
+             UPGRADE - - - - X

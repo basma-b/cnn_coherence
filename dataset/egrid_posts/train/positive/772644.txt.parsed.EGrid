@@ -1,0 +1,22 @@
+ IMMEDIATE-CONFIGURE O O - - X -
+              ERRORS - O - - - -
+             MESSAGE - S - - - -
+             DISABLE - - X - - -
+            APT.CONF - - O X O -
+                 MAN - - X X X -
+                PAGE - - S - X -
+                THIS - - O - - -
+              OPTION - - O - - -
+             CONFIGS - - S - - -
+/ETC/APT/APT.CONF.D/ - - X - - -
+                FILE - - O - - -
+                NONE - - S - - -
+              FORMAT - - O - - -
+                  OK - - - S - -
+            SETTINGS - - - O - -
+             APT-GET - - - - S -
+               ERROR - - - - O -
+                 RUN - - - - S -
+ IMMEDIATE-CONFIFURE - - - - - X
+           CONFIGURE - - - - - X
+                   * - - - - - X

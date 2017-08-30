@@ -1,0 +1,12 @@
+           PARTITION O - - - - -
+                  FS O - - - - -
+              REPORT O - - - - -
+               MOUNT X - - - - -
+               CHECK - - S - - -
+              OUTPUT - - O - - -
+                   % - - - S - -
+           /DEV/SDA5 - - - S - -
+               LINUX - - - X - -
+                  .. - - - O - -
+             NOTHING - - - X - -
+               WORRY - - - - - X

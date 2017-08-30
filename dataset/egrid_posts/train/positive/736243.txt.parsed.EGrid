@@ -1,0 +1,15 @@
+                LAMP O - - -
+             SOMEONE - S - -
+               ERROR - O - -
+               HY000 - X - -
+               MYSQL - X - -
+              SERVER - X - -
+              SOCKET - X - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK - S - -
+/VAR/LIB/MYSQL/MYSQL.SOCK - O O -
+                  LS - - S -
+          PERMISSION - - S -
+                FILE - - X X
+           DIRECTORY - - X -
+             PASTBIN - - X -
+      /ETC/DEBIAN.CF - - - X

@@ -1,0 +1,38 @@
+                  HI X - - - - - - - - - - -
+                CANT X - - - - - - - - - - -
+                HELP X - - - - - - - - - - -
+               WHATS O - - - - - - - - - - -
+             PROBLEM X - - - - - - - - - - -
+                BASH - S - - - - - - - - - -
+              SYSTEM - X - - X - - - - - - -
+               THERE - - - - X - - - - - - -
+            PROBLEMS - - - - S - - - X - - -
+           ACERIMMER - - - - - X - - - - - -
+             SURFACE - - - - - X - - - - - -
+          ALLOCATION - - - - - S - - - - - -
+               ERROR - - - - - - X - - - - -
+                CODE - - - - - - S - - - - -
+            GRAPHICS - - - - - - X - - - - -
+                MODE - - - - - - O - - - - -
+                XLIB - - - - - - - O - - - -
+           EXTENSION - - - - - - - S - - - -
+                 GLX - - - - - - - X - - - -
+             DISPLAY - - - - - - - X - - - -
+                 0.0 - - - - - - - X - - - -
+                 WGL - - - - - - - - X - - -
+X11DRV_WINEGL_INITOPENGLINFO - - - - - - - - S - - -
+              OPENGL - - - - - - - - O - - -
+ ENUMDISPLAYDEVICESW - - - - - - - - X X - -
+                NULL - - - - - - - - X X - -
+0,0X32F578,0X00000000 - - - - - - - - X - - -
+                STUB - - - - - - - - X X - -
+               FIXME - - - - - - - - - X - -
+1,0X32F578,0X00000000 - - - - - - - - - X - -
+            D3D_CAPS - - - - - - - - - - X -
+WINED3D_CREATEFAKEGLCONTEXT - - - - - - - - - - S -
+        IPIXELFORMAT - - - - - - - - - - O -
+                 D3D - - - - - - - - - - - X
+        INITADAPTERS - - - - - - - - - - - S
+             CONTEXT - - - - - - - - - - - O
+             DEFAULT - - - - - - - - - - - X
+             ADAPTER - - - - - - - - - - - X

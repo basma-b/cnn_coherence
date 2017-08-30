@@ -1,0 +1,14 @@
+                LINE - O - - -
+                FILE - O - - -
+          REPOSITORY - X - - -
+                   E - X - - -
+/VAR/LIB/APT/LISTS/LOCK - X - - -
+          PERMISSION - S - - -
+                LIST - X - - -
+           DIRECTORY - S - - -
+                PROG - X - - -
+                 USE - - - - X
+            JPJACOBS - - - - S
+                BOTH - - - - O
+                SUDO - - - - X
+                  SU - - - - O

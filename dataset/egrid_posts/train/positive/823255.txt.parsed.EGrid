@@ -1,0 +1,25 @@
+              SERVER O - -
+          INTERFACES O - -
+            IFCONFIG S X -
+                SHOW X O -
+           INTERFACE O S -
+                ETH0 S S -
+              CONFIG O - -
+             NETWORK X - O
+             DEVICES X - -
+/ETC/NETWORK/INTERFACES X O -
+             SERVICE O - -
+                FILE S - -
+             MESSAGE X - -
+               ERROR X - -
+         INFORMATION O - -
+              DEVICE X - -
+                SUDO X - X
+           DHCLIENT3 X - -
+                DHCP O - -
+           SOMETHING - X -
+                LSHW - - X
+                  -C - - X
+             PRODUCT - - X
+                LINE - - O
+               GUIDE - - O

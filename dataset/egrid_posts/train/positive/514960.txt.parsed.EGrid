@@ -1,0 +1,22 @@
+              ERRORS X - X - - - - - - - - - - -
+             NOTHING - X - - - - - - - - - - - -
+      /VAR/LOG/DMESG - - X - - - - - - - - - X -
+   /VAR/LOG/MESSAGES - - X - - - - - - - - - - X
+/VAR/LOG/AUDIT/AUDIT.LOG - - O - - - - - - - - - - -
+              AUDITD - - O - - - - - - - - - - -
+                LOAD - - - - O X - - - - - - - -
+           SELINUX=1 - - - - O - - - - - - - - -
+              KERNEL - - - - X - - X - - - - - -
+                LINE - - - - X - - X - - - - - -
+ /ETC/SELINUX/CONFIG - - - - X - - - - - - - - -
+            APPARMOR - - - - X S - - - - - - - -
+             SELINUX - - - - O - - - - - - - - -
+                NOTE - - - - - O - - - - - - - -
+                PART - - - - - - O - - - - - - -
+             COMMAND - - - - - - - X - - - - - -
+              SPLASH - - - - - - - X - - - - - -
+  APPARMOR.ENABLED=0 - - - - - - - S - - - - - -
+                 ALL - - - - - - - O - - - - - -
+                 LOG - - - - - - - X - - - - - -
+               THOSE - - - - - - - X - - - - - -
+               DMESG - - - - - - - - - - - X - -

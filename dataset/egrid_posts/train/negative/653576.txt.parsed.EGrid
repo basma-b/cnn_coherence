@@ -1,0 +1,13 @@
+              REASON S - - - -
+            USERNAME O - - - -
+         /ETC/PASSWD X - - - -
+         /ETC/SHADOW X - - - -
+                USER S - - - -
+              SYSTEM X - - - -
+         SCREENSAVER X - - - -
+            PASSWORD X X - - -
+                HASH - X - - -
+                 UID - S - - -
+          /ETC/GROUP - - O - -
+              ERRORS - - - - O
+           /VAR/LOG/ - - - - O

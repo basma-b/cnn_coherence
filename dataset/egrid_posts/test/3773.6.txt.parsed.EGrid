@@ -1,0 +1,18 @@
+                KIND X - - - -
+             HEADSET X - - - -
+           HEADPHONE - S - - -
+           ALSAMIXER - X - - -
+                KMIX - O - - -
+                NONE - S - - -
+             CHANNEL - X - - -
+              VOLUME - O - - -
+            CHANNALS - O - - -
+                 CAT - - X - -
+  /PROC/ASOUND/CARDS - - X - -
+              RETURN - - - X -
+                 HDA - - - X -
+               INTEL - - - X -
+DRIVERS/NET/WIRELESS/RTLWIFI/RTL8192SE - - - - X
+        RTL8192SE.KO - - - - S
+              DEPMOD - - - - X
+                  -A - - - - O

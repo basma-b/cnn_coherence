@@ -1,0 +1,14 @@
+            IWCONFIG X - -
+            WIRELESS - X -
+          EXTENSIONS - O -
+               LSMOD - X -
+               |GREP - X -
+         NDISWRAPPER - O -
+              RETURN - - S
+               DMESG - - X
+              ERRORS - - S
+                 GOD - - X
+              KERNEL - - S
+             WINDOWS - - X
+              DRIVER - - S
+                  .. - - O

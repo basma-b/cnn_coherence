@@ -1,0 +1,15 @@
+              INITRD S - -
+              LIVECD X - -
+             VERSION S - -
+              CRAMFS O - -
+                BOOT X - -
+               LINUX O - -
+                  HD X - -
+           PARTITION X - -
+          EVERYTHING O - -
+                  .. X - -
+           HARDDRIVE X - -
+              CHANGE O - -
+                 ANY - - O
+              -DEBUG - - X
+                FLAG - - X

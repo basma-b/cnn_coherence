@@ -1,0 +1,17 @@
+        ~/.GTKRC-2.0 X - - - -
+                SIZE O O O - -
+        APPLICATIONS X - - - -
+      GNOME-TERMINAL X - - - -
+       GTK-FONT-NAME - S - - -
+              GENEVA - X - - -
+                MENU - X - - -
+               FONTS - X X - -
+              SYSTEM - - X - -
+         PREFERENCES - - S - -
+          APPEARANCE - - O - -
+                THAT - - - S O
+                APPS - - - X -
+                 SSH - - - X -
+                 X11 - - - X -
+          FORWARDING - - - X -
+             NOTHING - - - - S

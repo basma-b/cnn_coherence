@@ -1,0 +1,16 @@
+              MEMORY X - - - -
+              DEVICE O - - O -
+           DIRECTORY X - - O -
+            NAUTILUS X - X - -
+              FORMAT - X - - -
+               DRIVE - X - - -
+            LOCATION - - X - -
+                TYPE - - X - -
+                NAME - - O - -
+         UNACESSIBLE - - S - -
+             COMMAND - - - X -
+                LINE - - - O -
+                SUDO - - - X -
+                  RM - - - S -
+             ACCOUNT - - - - X
+                 LOG - - - - O

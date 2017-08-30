@@ -1,0 +1,15 @@
+             DEFAULT X - - - - - -
+                 HDS S - - - - - -
+                ROOT S - - - - - -
+          FILESYSTEM - X - - - X -
+        AUTOMOUNTING - X - - - - -
+             FEATURE - X - - - - -
+           NTFS/VFAT - - X - - - -
+                TOOL - - O - - - -
+           FILESYTEM - - - X - - -
+            EXT2/3/4 - - - - X - -
+                FILE - - - - X - -
+OWNERSHIP/PERMISSIONS - - - - S - -
+               ENTRY - - - - - O -
+          /ETC/FSTAB - - - - - X -
+                THAT - - - - - - X

@@ -1,0 +1,17 @@
+                 ALL S - - - - -
+               OTHER S - - - - -
+                  HD O - - - - -
+               RAID1 X - - - X -
+                MASS - X - - - -
+             STORAGE - X - X - -
+                 USB - - X - - -
+               DMESG - - S - - -
+               SPEED - - X - - -
+              DEVICE - - S O - -
+            EHCI_HCD - - O - - -
+               /DEV/ - - X - - -
+                SUDO - - - X - -
+               FDISK - - - X - S
+                  -L - - - X - -
+                PART - - - - O -
+           PARTITION - - - - - O

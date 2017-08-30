@@ -1,0 +1,12 @@
+    /ETC/RESOLV.CONF S - - - -
+                 DNS X - - - -
+       CONFIGURATION S - - - -
+             PROBLEM - O - - S
+         RESOLV.CONF - X S - -
+              CHANGE - - S - -
+              EFFECT - - O - -
+      NETWORKMANAGER - - X - -
+            DHCLIENT - - X - -
+                THAT - - - - O
+                 FIX - - - - X
+                  .. - - - - O

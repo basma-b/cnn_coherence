@@ -1,0 +1,13 @@
+                VFAT X S - - - - - -
+          EVERYTHING - O - - - - - -
+               EXFAT - X - - - - - -
+                BOOT - X - O X - X -
+               DRIVE - X - - - - - -
+            QUESTION - - O O - - - -
+             PROCESS - - S - - - - -
+              FORMAT - - X - - - - -
+                DISK - - O - - - - -
+                GRUB - - X - - - - -
+                BIOS - - - S - - - -
+              DEVICE - - - X X - - -
+               THING - - - - - - - O

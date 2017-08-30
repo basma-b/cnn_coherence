@@ -1,0 +1,17 @@
+            FIREWALL O - - - - X -
+         FIRESTARTER - O - - - - -
+              POLICY - X - - - - -
+                   > - X - - - - -
+            OUTBOUND - X - - - - -
+          CONNECTION - O - - - - -
+           MOBLOCKER - X - - - - -
+            IPTABLES - S - - - X -
+              ROUTER - - X X - - O
+             DESKTOP - - X - - - -
+                 RUN - - - X - - -
+                KIND - - - X - - -
+                  .. - - - X - - -
+            TERMINAL - - - - - X -
+               SETUP - - - - - X -
+                MAKE - - - - - - O
+       CONFIGURATION - - - - - - X

@@ -1,0 +1,13 @@
+            APPARMOR S - - - - -
+              CUSTOM X X - - - -
+              KERNEL X - - - - -
+              2.6.23 X - - - - -
+APPARMOR-MODULES-SOURCE S - - - - -
+             KERNELS - O - - - -
+              THETRE - - X - - -
+             CHANNEL - - X - - -
+         WORKSTATION - - - - S -
+              PLAYER - - - - X -
+             VERSION - - - - - O
+               REPOS - - - - - X
+                FINE - - - - - X

@@ -1,0 +1,35 @@
+                SWAP O X - - - - - - -
+                UUID - X - - - - - - -
+               BLKID - X - - - - - - -
+                LIST - X - - - - - - -
+           PARTITION - X - - - - - - -
+               ERROR - O - - - - - - -
+                   $ - - S - - - - - -
+                THAT - - X - - S - - -
+                FILE - - S - - - - - -
+              /HOME/ - - O - - - - - -
+       .ICEAUTHORITY - - X - - - - - -
+/HOME/Q/.ICEAUTHORITY - - O - - - - - -
+             PROBLEM - - S - - - - - -
+                 END - - X - - - - - -
+               STATE - - X - - - - - -
+                USER - - O - X - - - -
+             DEFAULT - - - S - - - - -
+                  HI - - - X - - - - -
+                   ^ - - - O - - - - -
+                LSHW - - - X - - - - -
+             COMMAND - - - X - - - - -
+             CHANNEL - - - S - - - - -
+             SUPPORT - - - X - - - - -
+          DISCUSSION - - - X - - - - -
+              ACCESS - - - O - - - - -
+              SERVER - - - X X - - - -
+           LOCALHOST - - - - X - - - -
+           USER/PASS - - - - - S - - -
+/ETC/SSH/SSHD_CONFIG - - - - - - X - -
+              CHANGE - - - - - - X - -
+                   M - - - - - - - - X
+              UBUNTU - - - - - - - - X
+              CHROOT - - - - - - - - S
+                BOOT - - - - - - - - X
+              DISTRO - - - - - - - - X

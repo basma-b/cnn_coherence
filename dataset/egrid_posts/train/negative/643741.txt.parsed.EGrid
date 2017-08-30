@@ -1,0 +1,9 @@
+             PACKAGE - X - - -
+              KERNEL - X X - -
+             MODULES - X - - -
+             DRIVERS - X - - -
+ LINUX-IMAGE-GENERIC - - S - -
+               IMAGE - - S - -
+                SAME - - - - O
+                TYPE - - - - X
+            -VERSION - - - - O

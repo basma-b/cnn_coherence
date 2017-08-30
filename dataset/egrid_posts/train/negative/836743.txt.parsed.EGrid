@@ -1,0 +1,12 @@
+                SUDO X - -
+             APT-GET S - -
+               PURGE X - -
+                   < X - -
+             PACKAGE S - -
+                   > S - -
+              REMOVE O - -
+             SERVERS - - S
+         INFORMATION - - O
+              REVOKE - - O
+                 KEY - - S
+  USERS/APPLICATIONS - - S

@@ -1,0 +1,10 @@
+                FILE X - - -
+               NGINX X - - -
+           ERROR.LOG S - - -
+                 CAT - S - -
+                ROOT - X - X
+                PIPE - S - -
+                USER - S - -
+                SUDO - O - S
+               SHELL - - - O
+             COMMAND - - - O

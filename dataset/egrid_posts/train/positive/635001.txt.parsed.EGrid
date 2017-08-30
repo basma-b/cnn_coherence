@@ -1,0 +1,16 @@
+           DIRECTORY X - - - - -
+                  IP X - - - - -
+                 USE X - - - - -
+               FORCE - X - - - -
+                  .. - X - S - -
+                  C' - X - - - -
+                 MON - X - - - -
+                HELP - X - - - -
+              UMOUNT - - X - - -
+                  -F - - X - - -
+           /MNTPOINT - - X - - -
+             UNMOUNT - - - S - -
+             NETWORK - - - X - -
+         FILESYSTEMS - - - X - -
+                 NFS - - - O - -
+               GREAT - - - - - X

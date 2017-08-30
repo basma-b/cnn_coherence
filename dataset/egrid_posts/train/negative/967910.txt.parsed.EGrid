@@ -1,0 +1,15 @@
+                HELP X - - - - - -
+                MESS - X - - - - -
+           SOMETHING - O - - - - -
+               LIBC6 - X - - O - -
+             VERSION - X - - - - -
+          EVERYTHING - O - - - - -
+           DOWNGRADE - - O - X - -
+                THAT - - - S - - -
+            RDEPENDS - - - - O - -
+                FACT - - - - O - -
+           REDEPENDS - - - - O - -
+               BREAK - - - - X - -
+              SYSTEM - - - - X - -
+                LACK - - - - - - S
+            SECURITY - - - - - - X

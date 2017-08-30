@@ -1,0 +1,10 @@
+              LAPTOP - X - - - - -
+             READING - - - X - - -
+      /VAR/LOG/DMESG - - - S - - -
+            ANYTHING - - - - O - -
+                MTRR - - - - X - -
+    F8000000,2000000 - - - - X - -
+            ETHERNET - - - - X - -
+                CARD - - - - X - -
+            IFCONFIG - - - - O - -
+                 YES - - - - - - X

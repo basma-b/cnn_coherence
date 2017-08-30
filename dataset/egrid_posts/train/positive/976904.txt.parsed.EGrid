@@ -1,0 +1,13 @@
+        DIST-UPGRADE O - -
+               ERROR O - -
+/VAR/CACHE/APT/ARCHIVES/X-COMMON_1.08_ALL.DEB X - X
+  /USR/LIB/X11/FONTS X - -
+             PACKAGE X - -
+          XFONTS-BAS X - -
+                SAME O - -
+                THIS - S -
+             PROBLEM - O -
+                WORK - - X
+                SUDO - - X
+                DPKG - - X
+                  -I - - X

@@ -1,0 +1,16 @@
+             ANYBODY S - - - - - - -
+               MOUNT X - - - - - - -
+           PARTITION O - - - - - - -
+               DATAS - O - - - - - -
+                NTFS - - S - - - - -
+             NTFS-3S - - O - - - - -
+               ENGHT - - S - - - - -
+         NTFS-CONFIG - - X - - - - -
+              INSTAL - - O - - - - -
+               HTTPS - - - X - - - -
+         ACTION=SHOW - - - - X - - -
+REDIRECT=NTFSREADWRITE - - - - S - - -
+                LOOK - - - - X - - -
+                 HAL - - - - - S - -
+                  .. - - - - - X - -
+                HELP - - - - - - X -

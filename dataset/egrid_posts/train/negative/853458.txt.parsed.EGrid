@@ -1,0 +1,17 @@
+              SERVER X - - - -
+                 GUI X - - - -
+               CHECK O - - - -
+             KEYRING X - - - -
+               STORE X - - - -
+           PASSWORDS X - - - -
+       GNOME-KEYRING X - - - -
+                TYPE - X - - -
+            TERMINAL - X - - -
+                  .. - X - - -
+                ROOT - - S - -
+           /DEV/SDA2 - - X - X
+           /DEV/SDB5 - - X - -
+                THAT - - - S -
+           PARTITION - - - O -
+            BUSINESS - - - O -
+           /MNT/ROOT - - - - O

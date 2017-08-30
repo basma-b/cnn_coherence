@@ -1,0 +1,12 @@
+            STANDARD S - - -
+                FILE X X - O
+                   * - X - -
+         APPLICATION - X - -
+                NTFS - X - X
+           PARTITION - O - X
+                BOOT - X - -
+              SYSTEM - O - -
+                DATA - X S -
+               FAT32 - X - -
+               THIRD - - O -
+                  OS - - X -

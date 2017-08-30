@@ -1,0 +1,18 @@
+                DISK X - - - - -
+               SPACE X X - - - O
+                 USE X - O - - X
+/ETC/APT/SOURCES.LIST - X - - - -
+        DIST-UPGRADE - S - - - -
+         REQUIREMENT - X - - - -
+             UPGRADE - - O - - -
+             APT-GET - - X - - -
+              CHANGE - - X - - -
+        SOURCES.LIST - - X - - -
+              OPTION - - X - - -
+                ROOM - - - O - -
+              UPDATE - - - X - -
+             MANAGER - - - S - -
+              REPORT - - - X - -
+               THATI - - - S - -
+            DOWNLOAD - - - - - X
+                SIZE - - - - - O

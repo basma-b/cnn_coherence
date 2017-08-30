@@ -1,0 +1,8 @@
+             NTFS-3G S - - -
+       ARGUMENTATION - S - X
+            QUESTION - S - X
+           STATEMENT - O - -
+           PARTITION - - - O
+                BOOT - - - X
+                  VM - - - X
+               STEAM - - - O

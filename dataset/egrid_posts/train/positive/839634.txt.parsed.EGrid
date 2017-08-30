@@ -1,0 +1,16 @@
+             COMMAND S - - X - - - -
+               MKDIR X - - - - - - -
+                SUDO X - O - O X - O
+          PERMISSION O - - - - - - -
+                THAT - X - - - - - -
+             SUDOERS - - S - - - - -
+                  .. - - O - - - - -
+           PASSWORDS - - - O - - - -
+            PASSWORD - - - - X - - -
+               ADMIN - - - - X - - -
+               GROUP - - - - O X X -
+                 APP - - - - S - - -
+                USER - - - - X - - X
+             CONTROL - - - - S - - -
+              MEMBER - - - - O - - -
+                  OK - - - - - - S -

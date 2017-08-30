@@ -1,0 +1,23 @@
+               SHERI - S - - - -
+             COMMAND - - X - - -
+                ROOT - - X - - -
+           PARTITION - - O - - -
+                NTFS - - X - - -
+               SPACE - - X - - -
+             GPARTED - - - S - -
+                TOOL - - - O - -
+               THATS - - - X - -
+                RISK - - - X - -
+               ALIAS - - - - O -
+           ~/.BASHRC - - - - X -
+                SAS= - - - - X -
+             LD_PATH - - - - S -
+/PATH/TO/SIMPLE-AXIS-SERVER - - - - X -
+              FOLDER - - - - X -
+                PATH - - - - O -
+/ETC/LD.SO.CONF.D/SIMPLE-AXIS-SERVER - - - - X -
+                FILE - - - - O O
+             LIBRARY - - - - X -
+               PATHS - - - - S -
+              SECOND - - - - - O
+            LDCONFIG - - - - - O

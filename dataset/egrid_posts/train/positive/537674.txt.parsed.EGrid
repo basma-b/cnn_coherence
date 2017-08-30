@@ -1,0 +1,20 @@
+             PACKAGE O - -
+               HARDY X - -
+       SOME_FILE.DEB O - -
+              UBUNTU X - -
+                SUDO - S -
+            FILE.DEB - S -
+             APT-GET - S -
+/PATH/TO/DEBFILE.DEB - O -
+                  -F - S -
+                .DEB - S -
+                DEPS - O -
+                DEBS - X -
+                NAME - O -
+                TYPE - X -
+               START - X -
+            SENTENCE - X -
+               USERS - X -
+                HERE - X -
+              LITTLE - S -
+               SORRY - - X

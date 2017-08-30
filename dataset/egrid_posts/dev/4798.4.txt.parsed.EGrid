@@ -1,0 +1,16 @@
+             COMMAND O - - -
+                  RM X - - -
+                 -RF X - - -
+                   * O - - -
+             SOMEONE X - - -
+           ORIGINALS - - O -
+                SWAP - - O -
+                OKAY - - X -
+               STICK - - O -
+               FSTAB - - - X
+         GRUB-UPDATE - - - O
+               /BOOT - - - S
+              TARGET - - - X
+                 USE - - - O
+           PARTITION - - - X
+           /DEV/SDA6 - - - X

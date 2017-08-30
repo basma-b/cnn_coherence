@@ -1,0 +1,15 @@
+                ANY1 S - - - -
+            HARDWARE O - - - -
+                JACK X - - - -
+               INPUT - X - - -
+            QJACKCTL - X - - -
+            QTRACTOR - X - - -
+              DEVICE - X - - -
+               SOUND - X - - -
+            SETTINGS - X - - -
+           ALSAMIXER - - X - -
+               LEVEL - - X - -
+                SUDO - - - - X
+             APT-GET - - - - X
+           AUTOCLEAN - - - - X
+              UPDATE - - - - O

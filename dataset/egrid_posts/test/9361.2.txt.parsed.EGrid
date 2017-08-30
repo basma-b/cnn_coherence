@@ -1,0 +1,17 @@
+                 WAY X - -
+             PROCESS X - -
+             STARTUP X - -
+              SYSTEM - S -
+          ~/.XINITRC - X -
+            RC.LOCAL - X -
+                LIKE - X -
+             DAEMONS - O -
+             RC.CONF - X -
+                GRUB - - S
+              ENOUGH - - O
+         FILESYSTEMS - - X
+           PARTITION - - X
+                 LVM - - X
+               THOSE - - O
+              KERNEL - - O
+                 ETC - - X

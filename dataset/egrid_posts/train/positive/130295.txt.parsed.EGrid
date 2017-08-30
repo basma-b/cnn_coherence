@@ -1,0 +1,13 @@
+             SOMEONE X - - - -
+             PURPOSE X - - - -
+              INITRD X - - S -
+FILESYSTEM-IN-A-FILE O - - - -
+           LAUNCHPAD X - - - -
+                BOOT X - X - -
+              SYSTEM X - - - -
+        ABBREVIATION - X - - -
+             RAMDISK - X - - -
+              KERNEL - - X X -
+              DEVICE - - - X -
+                  .. - - - X -
+                BOTH - - - - S

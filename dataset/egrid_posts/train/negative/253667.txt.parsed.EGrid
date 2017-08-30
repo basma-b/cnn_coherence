@@ -1,0 +1,21 @@
+                THIS - O - - - - - -
+           APT-CDROM - S - S - - - -
+              INSERT - X - - - - - -
+                  CD - O - - - - - -
+                 ISO - O O O - - - -
+            RESOURCE - - X - - - - -
+              DEVICE - - X - - - - -
+              /CDROM - - - O - - - -
+                LOOP - - - X - - - -
+  /PATH/TO/IMAGE.ISO - - - X - - - -
+/PATH/TO/MOUNT/POINT - - - O - - - -
+                HELP - - - X - - - -
+              SCREEN - - - X - - - -
+                 MAN - - - - X - - -
+                PAGE - - - - X - - -
+              FORMAT - - - - - X - -
+             COMMAND - - - - - X - -
+                MUCH - - - - - - - O
+                 FIX - - - - - - - X
+             QUALITY - - - - - - - X
+               MEDIA - - - - - - - S

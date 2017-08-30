@@ -1,0 +1,21 @@
+          SUBNETMASK S - - - - - - - - -
+     255.255.255.255 X - - - - - - - - -
+             DEFAULT - X - - - - - - - -
+               ROUTE - X - - X - - - - -
+             WINDOWS - X - X - X - - X -
+             MACHINE - X - X - X - - X -
+             COMMAND - - - O - - - - - -
+               PRINT - - - - X - - - - -
+             GATEWAY - - - - X - - - - -
+                HTTP - - - - X - - - X -
+                KIND - - - - - X - - - -
+          CONNECTION - - - - - X - - - -
+                 ONE - - - - - - X - - -
+             ADDRESS - - - - - - X - - -
+            PASTEBIN - - - - - - - - X -
+              OUTPUT - - - - - - - - X -
+            IPCONFIG - - - - - - - - X -
+                /ALL - - - - - - - - X -
+//NOPASTE.INFO/7B2339C128.HTML - - - - - - - - X -
+      GTK-QT-ENGINES - - - - - - - - - X
+            SYNAPTIC - - - - - - - - - X

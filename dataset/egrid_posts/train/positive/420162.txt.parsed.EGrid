@@ -1,0 +1,9 @@
+                WHAT S - - - -
+           FREQUENCY X - - - -
+               SCALE X - - - -
+        ACPI-CPUFREQ S - - - X
+        /ETC/MODULES X - - X -
+                LINE - - - O -
+                   D - - - X -
+                TYPE - - - - S
+            MODPROBE - - - - X

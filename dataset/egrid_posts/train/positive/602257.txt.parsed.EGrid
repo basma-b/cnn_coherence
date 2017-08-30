@@ -1,0 +1,25 @@
+              ANYONE S - - - - - -
+             DEVICES S - - - - - -
+                BOOT X - X - - - -
+              KERNEL - S - - - X -
+                LOAD - X - - - - -
+                   ' - - S - - - -
+               ERROR - - O - - - -
+              DEVICE - - O - - S -
+               -RSB- - - X - - - -
+                LOCK - - X - - - -
+/VAR/RUN/NETWORK/MOUNTNFS - - S - - - -
+                NICS - - - O - - -
+                 ONE - - - S S X -
+              OTHERS - - - S - - -
+                THAT - - - - X - -
+                REST - - - - S - -
+              ERRORS - - - - X - -
+                 ANY - - - - - O -
+             MESSAGE - - - - - S -
+          INTERFACES - - - - - X -
+            IFCONFIG - - - - - X -
+                   < - - - - - S -
+/ETC/NETWORK/INTERFACES - - - - - X -
+                HTTP - - - - - - X
+//PASTE.UBUNTU.COM/219987/ - - - - - - X

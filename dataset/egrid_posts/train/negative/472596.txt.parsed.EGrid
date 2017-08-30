@@ -1,0 +1,6 @@
+             COMMAND O - - -
+               FSTAB X - - -
+                  CP - X - -
+          /ETC/FSTAB - X - -
+   /ETC/FSTAB-BACKUP - X - -
+              WINEHQ - - - X

@@ -1,0 +1,26 @@
+               THERE X - - - - - - - - -
+               CATCH - X - - - - - - - -
+         STEVEN43126 - S - - - - - - - -
+                FEEL - O - - - - - - - -
+                WORD - X - - - - - - - -
+                 DOC - S - - - - - - - -
+                LINE - X - - - - - - - -
+                GREP - X - - - - - - - -
+      NON-WHITESPACE - X - - - - - - - -
+                  \S - - X - - - S - - -
+                  \W - - X - - - - - - -
+           CHARACTER - - X - - - - - - -
+                 SOO - - - - X - - - - -
+                HELP - - - - X - - - - -
+           SOMETHING - - - - - S - - - -
+                   * - - - - - X - - - -
+           \.GOV\.UK - - - - - O - - - -
+                RUBY - - - - - - X - - -
+                DAYS - - - - - - O - - -
+                 THE - - - - - - - O - -
+               POINT - - - - - - - S - -
+             .GOV.UK - - - - - - - - O -
+           INITRAMFS - - - - - - - - - S
+          /DEV/LOOP0 - - - - - - - - - O
+/CDROM/CASPER/FILESYSTEM.SQUASHFS - - - - - - - - - X
+//FILESYSTEM.SQUASHFS - - - - - - - - - X

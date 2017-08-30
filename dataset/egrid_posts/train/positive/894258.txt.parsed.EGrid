@@ -1,0 +1,26 @@
+               POSIX O - -
+         PERMISSIONS O O -
+                 DIR X - X
+LINUX/UNIX-PERMISSION S - -
+             EVEYONE O - -
+               GROUP X - -
+            SMBUSERS X - -
+              FOLDER O O -
+               CHILD X - -
+             FOLDERS O O -
+               THOSE - S -
+               ISSUE - X -
+               USERS - X -
+                CANT - S -
+            INSTANCE - X -
+                THIS - S -
+             BEHAOIR - O -
+               THING - - X
+   LINUX-PERMISSIONS - - S
+              PARENT - - X
+                 ALL - - S
+                FILE - - S
+               THATS - - S
+               CHMOD - - X
+                 G+S - - X
+          /PARENTDIR - - S

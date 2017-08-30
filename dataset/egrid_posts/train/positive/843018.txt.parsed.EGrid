@@ -1,0 +1,31 @@
+              ANYONE X - - - - - - -
+                USER X - - O X - - -
+                 USE O - - - - - - -
+             MACHINE O - - - - - - -
+            LIBVIRTD X - - O S - - -
+          PERMISSION - S - - S - - -
+               IMAGE - S - - S - - -
+                ROOT - X - S X - - X
+                SUDO - - X X - - - -
+                  -I - - - X - - - -
+               GROUP - - - X - - - -
+                 TRY - - - X - - - -
+       ACTIONPARSNIP - - - O O - - -
+               HUNCH - - - S - - - -
+           OWNERSHIP - - - S - - - -
+              EFFECT - - - O - - - -
+               ERROR - - - X - - - -
+                 KVM - - - - S - - X
+FILE=/MEDIA/DATASTORE/VIRT/QEMU/WIN2K.IMG - - - - X - - -
+             IF=NONE - - - - X - - -
+   ID=DRIVE-IDE0-0-0 - - - - X - - -
+          FORMAT=RAW - - - - X - - -
+                DISK - - - - X - - -
+/MEDIA/DATASTORE/VIRT/QEMU/WIN2K.IMG - - - - O - - -
+          EXPERIENCE - - - - - - - S
+               LINUX - - - - - - - X
+         PERMISSIONS - - - - - - - X
+               ISSUE - - - - - - - X
+              SERVER - - - - - - - X
+              OTHERS - - - - - - - X
+            PRACTICE - - - - - - - O

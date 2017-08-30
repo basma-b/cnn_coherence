@@ -1,0 +1,15 @@
+             PROCESS S - - - -
+              BOTTOM X - - - -
+             PYRAMID X - - - -
+              UBUNTU S - - - -
+              TUMBLE O - - - -
+            PLYMOUTH - - S - -
+          DEPENDENCY - - O - -
+            ANYTHING - - X - -
+              FEDORA - - X - -
+                RHEL - - S - -
+        DEPENDENCIES - - O - -
+            NET-SNMP - - - - S
+             PACKAGE - - - - O
+               HTTPS - - - - X
+//LAUNCHPAD.NET/UBUNTU/+SOURCE/NET-SNMP - - - - X

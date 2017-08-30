@@ -1,0 +1,13 @@
+          DIFFERENCE X - -
+                 YES X X -
+                  NO X - -
+            SMB.CONF X - -
+                FILE - O -
+           FILESHARE - X -
+                 THO - X -
+                  -/ - S -
+          PERMISSION - O -
+    /SRV/SAMBA/SHARE - - X
+               SHARE - - S
+              NOBODY - - X
+             NOGROUP - - X

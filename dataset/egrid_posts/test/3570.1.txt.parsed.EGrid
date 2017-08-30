@@ -1,0 +1,11 @@
+                 UFW X - - -
+                 SSH X - - -
+              PORT22 - O - -
+                RULE - O O O
+               BLOCK - - X -
+               AFAIK - - S -
+               THERE - - S -
+                 ALL - - S -
+                  .. - - O -
+               SETUP - - - X
+            FIREWALL - - - O

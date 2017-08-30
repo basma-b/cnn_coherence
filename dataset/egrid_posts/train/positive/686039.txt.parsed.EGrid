@@ -1,0 +1,7 @@
+           DIRECTORY X - - - -
+              MEMBER O - - - -
+               GROUP X - X - -
+                 RWX X - - - -
+          FILESYSTEM - X - - -
+               LOGIN - - X - -
+             SESSION - - X - -

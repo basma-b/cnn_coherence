@@ -1,0 +1,14 @@
+          INTERFACES O - -
+              SUBNET X X -
+                KIND O - -
+                ROUT X - -
+             SUBNETS X - -
+                  /8 X - -
+               OTHER S - -
+                 /24 X - -
+           FX|RABBIT - S -
+                THIS - O -
+      192.168.0.0/24 - X -
+                HOST - - O
+                 ONE - - O
+        192.168.0/24 - - X

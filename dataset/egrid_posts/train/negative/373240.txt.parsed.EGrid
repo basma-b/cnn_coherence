@@ -1,0 +1,15 @@
+         PERMISSIONS X - - -
+                HOME X - - -
+           DIRECTORY X - - -
+               CHMOD - S - -
+               ERROR - O - -
+                  -R - O - -
+                 K3B - S - -
+              WRITER - S - -
+            NAUTILUS - S - -
+                MANY - - - S
+                RAID - - - X
+             SYSTEMS - - - X
+            FAKERAID - - - O
+            SOFTWARE - - - X
+               HOWTO - - - S

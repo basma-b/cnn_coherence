@@ -1,0 +1,14 @@
+                GRUB X - - - - - - -
+              SCREEN S - - - - - - -
+ /BOOT/GRUB/MENU.LST O - - - - - - -
+              SPLASH - O - - - - - -
+            NOSPLASH - O - - - - - -
+                 END - X - - - - - -
+              KERNEL - X - - - - - -
+                LINE - X - - - - - -
+             IKONIA_ - - S S - - - -
+                PART - - - - O - - -
+                MOST - - - - S - - -
+                BOTH - - - - X - - -
+               QUIET - - - - - - S -
+              THANKS - - - - - - - X

@@ -1,0 +1,17 @@
+               SETUP X - - - - - -
+             SCANNER O - - - - - -
+             NETWORK X - - - - - -
+               HOWTO X - - - - - -
+                SUDO - X - - - - -
+   /ETC/INIT.D/INETD - X - - - - -
+             COMMAND - X - - - - -
+              XINETD - X - - S - -
+             SERVICE - O - - - - -
+               INETD - - - - X - -
+             PACKAGE - - - - X - -
+              OPTION - - - - O - -
+                THAT - - - - - - S
+                 ILL - - - - - - S
+                BOOT - - - - - - O
+                 IRC - - - - - - X
+               PROXY - - - - - - X

@@ -1,0 +1,13 @@
+                RULE X O -
+             COMMAND X - -
+                FILE O - -
+ /ETC/IPTABLES.RULES X - -
+                THIS - O -
+              BACKUP - X -
+                MESS - X -
+            ANYTHING - X -
+       ~/MYRULES.DAT - O -
+                   < - X -
+         MYRULES.DAT - X -
+                THAT - - O
+              MOMENT - - X

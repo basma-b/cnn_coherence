@@ -1,0 +1,14 @@
+           PARTITION O - - - - -
+           /DEV/SDA3 X - - - - -
+                ROOT X - - - - -
+               USSER X - - - - -
+                FILE - X - - - -
+              SYSTEM - X - - - -
+               MOUNT - - X X - -
+              RESULT - - X - - -
+                LIST - - X - - -
+               ENTRY - - - - X -
+                 YES - - - - O -
+                TYPE - - - - - S
+             COMMAND - - - - - X
+               SHELL - - - - - X

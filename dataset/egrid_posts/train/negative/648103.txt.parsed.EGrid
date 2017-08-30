@@ -1,0 +1,16 @@
+             COMMAND S - - - - -
+                SUDO - - X - - X
+        XSERVER-XORG - - X - - -
+            PRIORITY - - X - - -
+              OPTION - - X - - -
+            ANYTHING - - O - - -
+              UBUNTU - - X - - -
+                   P - - - X - -
+                SIDE - - - X - -
+                NOTE - - - X - -
+                XORG - - - X - -
+          -CONFIGURE - - - S - -
+                CADS - - - X - -
+               CARDS - - - - S -
+             APT-GET - - - - - X
+        DIST-UPGRADE - - - - - S

@@ -1,0 +1,15 @@
+           PARTITION S - - - - - - -
+                 R/O O - - - - - - -
+              SCRIPT X - - - - - - -
+                EXIT X - - - - - - -
+         FAIL-STATUS X - - - - - - -
+               WHICH - X - - - - - -
+                TIME - - X - - - - -
+              OPTION - - X - - - - -
+              KERNEL - - X - - - - -
+                BOOT - - X - - - - -
+                GRUB - - - X - - - -
+                THIS - - - - S - - -
+                 R/W - - - - - O - -
+                FSCK - - - - - X - -
+                   ^ - - - - - - - X

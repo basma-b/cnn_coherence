@@ -1,0 +1,14 @@
+                HELP X - - - -
+                 DMA - O - - -
+               DRIVE - X - - -
+            /DEV/HDA - S - - -
+        HDIO_SET_DMA - S - - -
+           OPERATION - S - - -
+             UPGRADE - X - - -
+            FIRMWARE - X - - -
+                 IDE - - - - X
+              MODULE - - - - O
+              KERNEL - - - - X
+                DONT - - - - S
+               INTEL - - - - X
+          CONTROLLER - - - - X

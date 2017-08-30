@@ -1,0 +1,15 @@
+               CHECK X - - - - - -
+            ADDTYPES S O - - - - -
+/ETC/APACHE2/MODS-ENABLED/PHP5.CONF X - - - - - -
+            PHP.CONF S - - - - - -
+              NORMAL - S - - - - -
+           PHP5.CONF - X - - - - -
+             PACKAGE - O - - - - -
+               THREE - - - X - - -
+              APACHE - - - - X - -
+                WORK - - - - - X -
+                  .. - - - - - O -
+                 WAY - - - - - X -
+      FIREFOXPROBLEM - - - - - X -
+               CACHE - - - - - - O
+               THANS - - - - - - O

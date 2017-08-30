@@ -1,0 +1,27 @@
+               ERROR - O - - - - - - - - -
+                TYPE - X - - - - - - - - -
+              OPTION - X - - - - - - - - -
+          SUPERBLOCK - X - - - - - - - - -
+           /DEV/SDB3 - X - - X - - - - - -
+            CODEPAGE - X - - - - - - - - -
+              HELPER - X - - - - - - - - -
+             PROGRAM - O - - - - - - - - -
+                CASE - X - - - - - - - - -
+                INFO - S - - - - - - - - -
+              SYSLOG - X - - - - - - - - -
+                TAIL - O - - - - - - - - -
+               HELLO - X - - - - - - - - -
+                HTTP - O - X - - - - - - X
+  //PASTE.UBUNTU.COM - X - S - - - - - - -
+                LINK - X - X - - - - - - -
+              OUTPUT - X - X X - O - - - -
+                SUDO - X - X X - - - - - -
+               BLKID - X - X - - - - - - -
+                 THE - - X - - - - - - - -
+                THIS - - O - - - - - - - -
+                FSCK - - - - X - - - - - -
+                THAT - - - - - - X - - - -
+               THERE - - - - - - S - - - -
+             MINUTES - - - - - - - X - - -
+              PROMPT - - - - - - - X - - -
+//PASTE.UBUNTU.COM/612161/ - - - - - - - - - - X

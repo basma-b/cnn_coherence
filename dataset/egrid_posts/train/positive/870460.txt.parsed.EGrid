@@ -1,0 +1,10 @@
+           WEBSERVER O - - - - - - - - -
+         APPLICATION - O - - - - - - - -
+              DETAIL - X - - - - - - - -
+       HTTP-REQUESTS - X - - - - - - - -
+             REQUEST - - S - - - - - - -
+            GET/POST - - O - - - - - - -
+           VARIABLES - - X - - - - - - -
+                HELP - - - X - - - - - -
+             PROGRAM - - - X - - - - - -
+              UBUNTU - - - - - - - - - X

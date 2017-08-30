@@ -1,0 +1,15 @@
+          WORKAROUND O - - -
+              LIVECD X - - -
+               HTTPS X - - -
+//WIKI.UBUNTU.COM/X/BUGS/LUCIDI8XXFREEZES S - - -
+              SERIES X - - -
+             CHIPSET O - - -
+                LUCK X - - -
+                 AHH - X - -
+           MODESET=0 - X - -
+              OPTION - - O -
+            GRAPHICS - - O -
+               LSPCI - - - X
+                   | - - - X
+                GREP - - - X
+                 VGA - - - X

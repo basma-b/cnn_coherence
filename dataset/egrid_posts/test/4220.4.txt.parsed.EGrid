@@ -1,0 +1,13 @@
+              KERNEL X - - - -
+              FILTER S - - - -
+            WRAPPERS X - - - -
+                 I.E X - - - -
+            IPTABLES X - - - -
+            ANYTHING - X - - -
+           DENYHOSTS - X - - -
+               CHECK - - - X -
+          FILESYSTEM - - - X -
+                DISK - - - O -
+                   / - - - S -
+             WINDOWS - - - X X
+             MACHINE - - - - X

@@ -1,0 +1,17 @@
+        DIST-UPGRADE O - - - - - -
+             ONEIRIC X - - - - - -
+             PRECISE X - - - - - -
+         GNOME-SHELL - S - - X O -
+                WORK - O - - O - -
+             LIGHTDM - - S - - - -
+                MODE - - X - - - -
+            KEYBOARD - - X - - - -
+               MOUSE - - S - - - -
+             UPGRADE - - - - S - -
+                  WM - - - - X - -
+             PROBLEM - - - - - O -
+                LXDE - - - - - X -
+         RECONFIGURE - - - - - X -
+                   $ - - - - - - O
+  _PROMPT_VIRTUALENV - - - - - - X
+              OUTPUT - - - - - - O

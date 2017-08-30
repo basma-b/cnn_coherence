@@ -1,0 +1,20 @@
+                BOOT O - -
+                WIRE X - -
+            ETHERNET X - X
+                CARD O - -
+             REALTEK X - X
+              8139C+ X - -
+                ETH0 - X -
+                  LO - X -
+               FRONT - X -
+             MACHINE - X S
+                 ATM - X -
+              MEMORY - X -
+                 FYI - - X
+               LSPCI - - S
+          CONTROLLER - - X
+       SEMICONDUCTOR - - X
+                 CO. - - X
+                LTD. - - X
+RTL-8139/8139C/8139C+ - - X
+                 REV - - X

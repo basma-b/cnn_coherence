@@ -1,0 +1,10 @@
+      KERNEL-HEADERS O - - -
+            LOCATION - X - -
+           DIRECTORY - X - -
+                   C - X - -
+              HEADER - X - -
+                FILE - X - -
+                 RUN - X - -
+              KERNEL - O - -
+                   $ - - O -
+                  -R - - X -

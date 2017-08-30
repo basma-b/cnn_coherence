@@ -1,0 +1,17 @@
+               FLASH X - - -
+               DRIVE X O - -
+          READ/WRITE X - - -
+         PERMISSIONS - X - -
+                ROOT - X - -
+               OWNER - X - -
+              OTHERS - S - -
+               CHMOD - S - -
+                 ALL - S - -
+       /MEDIA/DISK-1 - X - -
+               INPUT - X - -
+                SUDO - S - -
+                  -R - S - -
+                CANT - - X -
+                BOOT - - O -
+                CARD - - X -
+               THANK - - - X

@@ -1,0 +1,9 @@
+                  DD X - - -
+         IF=/DEV/SDB X - - -
+       OF=BACKUP.IMG X - - -
+            /DEV/SDB S - - -
+                DISK O - - -
+                COPY O - - -
+               BLOCK - X - -
+                SIZE - S - -
+                THAT - - - X

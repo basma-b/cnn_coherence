@@ -1,0 +1,17 @@
+                TIME X X - - X - - - - - -
+                  CK S - - - - - - - - - -
+               MOVIE X X - - X - - - - - -
+            PROTOCOL X X - - X - - - - - -
+                RTSP X X - - X - - - - - -
+              SOURCE X X - - X - - - - - -
+              PLUGIN O O - - O - - - - - -
+            PLAYBACK - S - - S - - - - - -
+               TOTEM - - S - - - X - - - -
+              STREAM - - O - - - - - - - -
+                 ANY - - - S - - - - - - -
+                REAL - - - - X - - - - - -
+          REALPLAYER - - - - - O - - - - -
+                 VLC - - - - - - - - S - S
+               CAUSE - - - - - - - - X - -
+              UBUNTU - - - - - - - - - X -
+             MPLAYER - - - - - - - - - - X

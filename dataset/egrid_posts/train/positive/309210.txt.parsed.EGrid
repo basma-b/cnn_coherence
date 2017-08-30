@@ -1,0 +1,26 @@
+                   ' S - - - -
+              DEVICE O - - - -
+                  RW X X - - -
+         PERMISSIONS X - - - -
+               VALUE X - - - -
+                 THE - S - - -
+                 YEA - S - - -
+                FACT - S - - -
+                LINE - O - - -
+                HTTP - X - - -
+             EXAMPLE - X - - -
+             COMMAND - S - - -
+           /DEV/SDB1 - X - - -
+                TYPE - X - - -
+                VFAT - X X - -
+              GID=46 - X - - -
+           UMASK=007 - X - - -
+               LIGHT - X - - -
+              OPTION - - S - -
+             ISO9660 - - X - -
+GNOME-VOLUME-MANAGER - - X - -
+            SETTINGS - - O - -
+        CIRCUMSTANCE - - X - -
+                  .. - - - O -
+                BITE - - - - O
+            RESEARCH - - - - X

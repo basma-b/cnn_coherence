@@ -1,0 +1,23 @@
+              SERVER X - - - - - -
+                 IPS X - - - - - -
+          INTERFACES X - - - - - -
+                ETH1 X - - O - - -
+                   N X - - X - - -
+/ETC/NETWORK/INTERFACES X - - - - - -
+          EVERYTHING - S - - - - -
+              REBOOT - X - - - - -
+/ETC/INIT.D/NETWORKING - O - - - - -
+            SOLUTION - - X - - - -
+             PROBLEM - - X - - - -
+             COMMAND - - - O - - S
+       /ETC/RC.LOCAL - - - X - - -
+               THERE - - - S - - -
+                AUTO - - - X - - X
+               NUDGE - - - O - - -
+             PROCESS - - - O - - -
+             DEVICES - - - X - - -
+                ETHX - - - - - - X
+                   Y - - - - - - S
+              DEVICE - - - - - - S
+                BOOT - - - - - - X
+            VIRTUALS - - - - - - X

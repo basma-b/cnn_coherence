@@ -1,0 +1,11 @@
+                SUDO S -
+./WHATEVERAPPLICATION.RUN O -
+          PERMISSION X -
+             PROGRAM O -
+               CHMOD X -
+                 A+X S -
+             MESSAGE O -
+            FILE.RUN - O
+                NAME - X
+                FILE - X
+                  .. - O

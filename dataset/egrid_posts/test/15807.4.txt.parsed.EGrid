@@ -1,0 +1,21 @@
+                 SSH X - - - - - - -
+         PERMISSIONS X - - - - - - -
+~/.SSH/AUTHORIZED_KEYS X - - - - - - -
+                AUTH - O - - - - - -
+                 LTS - X - - - - - -
+              SERVER - X - - - - - -
+             PROBLEM - O - - - - - -
+                HOME - - S - - - - -
+               POSIX - - X - - - - -
+          FILESYSTEM - - X - - - - -
+                THAT - - - O - - - -
+                FILE - - - - X - - -
+              SYSTEM - - - - X - - -
+                 USB - - - - O - - -
+          UNETBOOTIN - - - - X - - -
+                 ISO - - - - - X - -
+                DATA - - - - - - S S
+              SOURCE - - - - - - - S
+        TRANSMISSION - - - - - - - X
+              PREFIX - - - - - - - X
+                SUDO - - - - - - - X

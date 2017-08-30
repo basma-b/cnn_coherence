@@ -1,0 +1,25 @@
+           ZYKOTICK9 X - - - - - - - -
+            /DEV/SDX X - - - - - - - -
+                 USE X - X - - - - X -
+                SPOT - - X - - - - - -
+               UUIDS - - O - - O - - -
+              LABELS - - X - - - - - -
+              METHOD - - - X - - - - -
+                SUDO - - - X - - - X -
+               BLKID - - - O - - - - -
+            ANYTHING - - - - O - - - -
+              OUTPUT - - - - X - - - -
+               FSTAB - - - - - S - - -
+             DRIVERS - - - - - - - O -
+              DEVICE - - - - - - - X -
+         NDISWRAPPER - - - - - - - X O
+             INVALID - - - - - - - X -
+                ROOT - - - - - - - O -
+                  SU - - - - - - - O -
+            MODPROBE - - - - - - - - X
+             MESSAGE - - - - - - - - X
+               FATAL - - - - - - - - X
+               ERROR - - - - - - - - X
+              INSERT - - - - - - - - X
+/LIB/MODULES/2.6.12-9-386/KERNEL/DRIVERS/NET/NDISWRAPPER/NDISWRAPPER.KO - - - - - - - - X
+           OPERATION - - - - - - - - X

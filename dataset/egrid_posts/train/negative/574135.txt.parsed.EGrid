@@ -1,0 +1,10 @@
+              FORMAT X - - -
+              SDCARD X O - -
+             GPARTED - S - -
+                CARD - X - -
+               MOUNT - - S -
+              LAPTOP - - S -
+               BUILD - - O -
+              READER - - X -
+                GRUB - - - X
+                MENU - - - X

@@ -1,0 +1,33 @@
+            PASSWORD X - S - - - - - - - - - -
+             OPENSSH X - - - - - - - - - - - -
+                USER - - X - - - - - - - - - -
+              EDITOR - - X S - - - - - - - - -
+                ECHO - - - X - - - - - - - - -
+               THERE - - - - S - - - - - - - -
+              OUTPUT - - - - O - - - - - - - -
+     /USR/BIN/EDITOR - - - - X - - - - - - - -
+                THAT - - - - - O - - - - - - -
+  /USR/BIN/EMACS23-X - - - - - S - - - - - - -
+              EXPORT - - - - - - X - - - - - -
+EDITOR=/USR/BIN/EMACS23 - - - - - - O - - - - - -
+               TRICK - - - - - - O - - - - - -
+             CRONTAB - - - - - - X - - - - - -
+EDITOR=/USR/BIN/EMACS - - - - - - X - - - - - -
+                 -NW - - - - - - X X - - - - -
+             EDITOR= - - - - - - - S - - - - -
+               GUIDE - - - - - - - X - - - - -
+                GRUB - - - - - - - X - - - - -
+              LIVECD - - - - - - - X - - - - -
+                HTTP - - - - - - - X - - - - -
+               ERROR - - - - - - - - - S - - -
+ /BOOT/GRUB/GRUB.CFG - - - - - - - - - S - - -
+/USR/SBIN/GRUB-PROBE - - - - - - - - - S - - -
+              DEVICE - - - - - - - - - O - - -
+                   / - - - - - - - - - X - - -
+            /MNT/DEV - - - - - - - - - - O - -
+       GRUB-MKCONFIG - - - - - - - - - - O - -
+              CHROOT - - - - - - - - - - X - -
+                TIME - - - - - - - - - - - O -
+                SUDO - - - - - - - - - - - X -
+                  -I - - - - - - - - - - - X -
+            PROFILER - - - - - - - - - - - - S

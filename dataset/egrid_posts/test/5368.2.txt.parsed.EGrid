@@ -1,0 +1,12 @@
+               12.04 S - -
+            /DEV/SHM S O -
+            /RUN/SHM O - -
+              UBUNTU - O -
+                DOCS - S -
+         RECONFIGURE - X -
+          /ETC/FSTAB - X -
+               SSHFS - - S
+                WORK - - X
+                COPY - - O
+              SERVER - - X
+           DIRECTORY - - X

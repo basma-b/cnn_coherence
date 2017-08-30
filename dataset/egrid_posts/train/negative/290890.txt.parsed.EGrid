@@ -1,0 +1,42 @@
+               INPUT X - - - - - - - - - - -
+              DRIVER X - - - - - - - - - - -
+               BREAK X - X - - - - - - - - -
+                   X - S S - - X - - - - - -
+           XORG.CONF - O - - - - - - - - - -
+               SETUP - X X - - - - - - - - -
+                TIME - - O - - - - - - - - -
+ /VAR/LOG/XORG.0.LOG - - S - - - - - - - - -
+               HITNS - - S - - - - - - - - -
+                 LOG - - X - - - - - - - - -
+              CUSTOM - - - X - - - - - - - -
+             COMMAND - - - O O - - - - - - -
+                BIND - - - X X - - - - - - -
+                 KEY - - - O - - - - - - - -
+               THOSE - - - X - - - - - - - -
+                 USE - - - - X - - - - - - -
+/APPS/METACTIY/KEYBIND_COMMANDS - - - - S - - - - - - -
+/APPS/METACITY/GLOBAL_KEYBINDINGS - - - - X - - - - - - -
+              GOOGLE - - - - X - - - - - - -
+             ADVANCE - - - - X - - - - - - -
+                BASH - - - - X - - - - - - -
+              SCRIPT - - - - X - X - - - - -
+               GUIDE - - - - X - - - - - - -
+                HTTP - - - - X - - - - - - -
+               ANDOR - - - - X - - - - - - -
+                FILE - - - - - O - - - X - -
+              SOURCE - - - - - O - - - - - -
+             EXAMPLE - - - - - X - - - - - -
+              EXPORT - - - - - - X - - - - -
+ VARIABLE_NAME=VALUE - - - - - - O - - - - -
+         APPLICATION - - - - - - S - - - - -
+         SHELLSCRIPT - - - - - - X - - - - -
+               BEGIN - - - - - - X - - - - -
+            PASTEBIN - - - - - - - X - - - -
+                  ~/ - - - - - - - X - - - -
+           AUTHORITY - - - - - - - - S - - -
+                   > - - - - - - - - X - - -
+                   _ - - - - - - - - X - - -
+                   < - - - - - - - - S - - -
+                 URL - - - - - - - - O - - -
+PASTEBIN.COM/F30300C61 - - - - - - - - S - - -
+                THAT - - - - - - - - - - - O

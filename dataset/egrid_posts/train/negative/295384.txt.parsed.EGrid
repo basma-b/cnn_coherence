@@ -1,0 +1,26 @@
+             COMMAND X - - -
+           OWNERSHIP O - - -
+                THAT - X - S
+                  AL - S - -
+             INTENTS - X - -
+            PURPOSES - X - -
+                   $ - - X -
+                   ' - - S -
+                LINE - - O -
+/ETC/UDEV/RULES.D/50-XSERVER-XORG - - X -
+                  .. - - X -
+            KERNEL== - - X -
+               EVENT - - X -
+               -LSB- - - X -
+                   * - - S -
+            IDVENDOR - - X -
+                  == - - S -
+                056A - - X -
+           IDPRODUCT - - X -
+           SYMLINK+= - - X -
+ INPUT/TABLET-BAMBOO - - X -
+            ACTION== - - X -
+               RUN+= - - S -
+/LIB/UDEV/CHECK_DRIVER - - X -
+               WACOM - - O -
+              ID_BUS - - X -

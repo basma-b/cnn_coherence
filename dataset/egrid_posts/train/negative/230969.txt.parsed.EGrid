@@ -1,0 +1,18 @@
+               .DEBS X - - - - S -
+         COMPRESSION X - - - - - -
+                 ZIP - X - - - - -
+              GUNZIP - - X - - - -
+              BUNZIP - - - X - - -
+                 TAR - - - - O - -
+                  AR - - - - - S -
+                IIRC - - - - - X -
+             ARCHIVE - - - - - O -
+                FILE - - - - - X -
+              THANKX - - - - - X -
+                   * - - - - - X -
+              THANKS - - - - - O -
+               CHECK - - - - - - X
+                HTTP - - - - - - X
+//G-SCRIPTS.SOURCEFORGE.NET/CAT-MULTIMEDIA.PHP - - - - - - X
+              SCRIPT - - - - - - X
+            EXAMPLES - - - - - - X

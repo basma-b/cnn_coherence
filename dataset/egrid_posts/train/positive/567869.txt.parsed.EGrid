@@ -1,0 +1,17 @@
+              JAUNTY X - - - -
+              REASON - X - - -
+                 SSH - S - - -
+             MACHINE - S - - -
+                AUTO - X - - -
+        SYSV-RC-CONF - X - - -
+             DEFAULT - X - - -
+               IDEAS - X - - -
+                SUDO - - X - -
+             APT-GET - - S - -
+           REINSTALL - - S - -
+      OPENSSH-SERVER - - O - -
+               PURGE - - X - -
+          AUTOREMOVE - - O - -
+               POINT - - O - -
+               SHOOT - - - X -
+               ASHOT - - - - X

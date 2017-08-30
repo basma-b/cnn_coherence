@@ -1,0 +1,9 @@
+                PROB X - - - -
+             AGPGART - X - O -
+              BOOTUP - X - - -
+                LOAD - O - - -
+               AMD64 - - X - -
+               IOMMU - - - S -
+                 AMD - - - - X
+               INTEL - - - - X
+           PROCESSOR - - - - X

@@ -1,0 +1,36 @@
+          AUTO-MOUNT X - - - - - -
+                TYPE X - - - - - -
+           PARTITION X - - - - - -
+                EXT3 X - - - - - -
+         CRYPTO_LUKS X - - - - - -
+                 ETC X - - - - - -
+              UBUNTU X - - - - - -
+               FSTAB - X - - - - -
+              OPTION - X - - - - -
+                 USE - O - - - - -
+                UUID - X - - - - -
+                  TI - S - - - - -
+              DEVICE - X - - - - -
+                MESS - X - - - - -
+             PROGRAM - X - - - - -
+               DRIVE - - X - - - -
+                 KEY - - O - - - -
+               LEVEL - - X - - - -
+              WINDOW - - S - - - -
+          PASSPHRASE - - O - - - -
+                SHOW - - O - - - -
+       POSSIBILITIES - - - O - - -
+                MORE - - - O - - -
+       CONFIGURATION - - - - S - -
+GNOME-VOLUME-MANAGER - - - - X - -
+                 HAL - - - - X - -
+                 FDI - - - - - X -
+                FILE - - - - - X -
+             DEFAULT - - - - - X -
+                ONES - - - - - X -
+/USR/SHARE/HAL/FDI/POLICY/10OSVENDOR/ - - - - - X -
+             EXAMPLE - - - - - X -
+       DOCUMENTATION - - - - - - O
+                TREE - - - - - - O
+                BITE - - - - - - X
+                 WAY - - - - - - O

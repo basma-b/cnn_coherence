@@ -1,0 +1,15 @@
+              AUDIGY S X - - - -
+               -RSB- O - - - - -
+               REV.4 X - - - - -
+   SERIAL:0X10071102 X - - - - -
+              0XA000 X - - - - -
+               ISSUE O - - - - -
+           SOUNDCARD - O - - - -
+                 SEM - X - - - -
+                WORK - O - - - -
+                 CAT - - X - - -
+  /PROC/ASOUND/CARDS - - S - - -
+              OUTPUT - - O X - -
+              AMIXER - - X X - O
+            TERMINAL - - - - - X
+                TYPE - - - - - X

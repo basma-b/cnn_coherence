@@ -1,0 +1,24 @@
+            IFCONFIG X - - - - - - - - - -
+             NETWORK X - - - - - - - - X -
+              CHANGE X - - - - - - - - - -
+/ETC/NETWORK/INTERFACES X - - - O - - - - - -
+                LINE O - - - - - - - - - -
+                 USE - X - - - - - - - - -
+               STORY - X - - - - - - - - -
+                TYPE - X - - - - - - - - -
+               DMESG - O - - - - - - - - -
+                ETH0 - S - - - - - - - - -
+                BOOT - X - - - - - - - - -
+                CARD - - - - - - S - - S -
+               FRESH - - - - - - X - - - -
+            ANYTHING - - - - - - - O - - -
+                  .. - - - - - - - O - - -
+                 ONE - - - - - - - - S - -
+                 BOX - - - - - - - - X - -
+                THIS - - - - - - - - O - -
+                DHCP - - - - - - - - - O -
+              DRIVER - - - - - - - - - - O
+                LOAD - - - - - - - - - - O
+                SUDO - - - - - - - - - - X
+               LSMOD - - - - - - - - - - X
+              YEILDS - - - - - - - - - - X

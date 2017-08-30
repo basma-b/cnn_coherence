@@ -1,0 +1,11 @@
+             SERVICE O - - - -
+           BOOT-TIME X - - - -
+          SYSVCONFIG O - - - -
+           SOMETHING O - - - -
+             CHOICES - X - - -
+   SYS/PREF/SERVICES - - X - -
+    SYS/ADM/SERVICES - - X - -
+              THINGS - - - O -
+                 RUN - - - - X
+             PROCESS - - - - O
+                BOOT - - - - X

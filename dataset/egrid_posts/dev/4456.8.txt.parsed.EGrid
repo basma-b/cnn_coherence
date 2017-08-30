@@ -1,0 +1,16 @@
+                BOOT - X - - -
+                  CD - X - - -
+                GRUB - X - - -
+             NOTHING - - O - -
+               POINT - - X - -
+                CASE - - - - X
+                  DD - - - - S
+       IF=/DEV/CDROM - - - - X
+OF=/HOME/KANUPATAR/SOME_PATH.ISO - - - - S
+            COUNT=10 - - - - O
+             SECTORS - - - - S
+                EACH - - - - O
+                 MAN - - - - X
+                LIST - - - - X
+             OPTIONS - - - - X
+              SWITCH - - - - X

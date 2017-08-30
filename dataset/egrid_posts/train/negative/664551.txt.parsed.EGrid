@@ -1,0 +1,23 @@
+              SYSLOG X - - - - - - - -
+            KERN.LOG X S - - - - - - -
+             MESSAGE S - - - - - - - -
+              OUTPUT O - - - - - - - -
+             ENTRIES - O - - - - - - -
+               ENTRY - - O - - - - - -
+         USB-STORAGE - - O - - - - - -
+              DEVICE - - S - - - - - -
+                SCAN - - X - - - - - -
+                THAT - - - X S - - - -
+               THERE - - - - S - - - -
+                 TRY - - - - O - - - -
+         IDENTIFIERS - - - - O - - - -
+         INFORMATION - - - - O - - - -
+              FOLLOW - - - - O - - - -
+               HTTPS - - - - - X - - -
+//BUGS.LAUNCHPAD.NET/UBUNTU/+SOURCE/LINUX/+BUG/450194 - - - - - X - - -
+             PROBLEM - - - - - O - - -
+                 WAY - - - - - - - X -
+                SWAP - - - - - - - X X
+           PARTITION - - - - - - - O -
+                YOUI - - - - - - - S -
+            QUESTION - - - - - - - - S

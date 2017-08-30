@@ -1,0 +1,15 @@
+                  IP X - - - - - -
+             ADDRESS X - - - - - -
+                WORK - X - - - - -
+                  .. - X - - - - -
+/ETC/NETWORKING/INTERFACES - X - - - - -
+             DEFAULT - X - - X - -
+             GATEWAY - X - - O - -
+           INTERFACE - - X - - - -
+                ETH0 - - - - S - -
+                  UP - - - - S - -
+             COMMAND - - - - O - -
+                IFUP - - - - O - -
+               ROUTE - - - - S - -
+                  GW - - - - O - -
+                  NO - - - - - - X

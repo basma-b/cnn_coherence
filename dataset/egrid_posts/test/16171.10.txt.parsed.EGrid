@@ -1,0 +1,9 @@
+              SCRIPT X -
+             HEADERS X -
+/USR/SRC/LINUX-HEADER X -
+                LACK X -
+                  -I X -
+           CONFIGURE X -
+                 USE O -
+                IDEA X -
+                LINK - X

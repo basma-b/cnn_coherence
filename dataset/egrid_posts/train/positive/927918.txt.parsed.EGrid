@@ -1,0 +1,10 @@
+             COMMAND X - - - -
+                LINE X - - - -
+           CHKCONFIG X X - - S
+                TYPE X - - - -
+                PROG X - - - -
+                IDEA - X - - -
+              METHOD - - - O -
+               MYSQL - - - - X
+                TURN - - - - X
+                  .. - - - - X

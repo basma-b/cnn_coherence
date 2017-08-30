@@ -1,0 +1,11 @@
+             CRONTAB S - - - -
+                USER X - - S -
+                 JOB O - - - -
+                ROOT S - - S -
+               IDEAS - X - - -
+               CHECK - - X - -
+              SYSLOG - - X - O
+                  .. - - X - -
+                CRON - - X - -
+             ENTRIES - - O - -
+                   P - - - - S

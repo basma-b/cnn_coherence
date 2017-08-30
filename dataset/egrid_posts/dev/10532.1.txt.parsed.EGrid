@@ -1,0 +1,24 @@
+             PROCESS S X X X - -
+               ORDER - - S - - -
+               CHILD - - X - - -
+               START - - O X - -
+                GREP - - - S - -
+                 WPA - - - X - -
+              RETURN - - - X - -
+             NOTHING - - - X - -
+      WPA_SUPPLICANT - - - S - -
+                NAME - - - O - -
+                BOOT - - - X - X
+              LAPTOP - - - O - -
+            DHCLIENT - - - S - -
+              SCREEN - - - X - -
+      WPA_PASSPHRASE - - - S - -
+                SSID - - - X - -
+            PASSWORD - - - X - -
+                   > - - - X - -
+~/DROPBOX/WPA_SUPPLICANT.CONF - - - X - -
+                 GUY - - - O - -
+               THERE - - - S - -
+             METHODS - - - O - -
+     NETWORK-MANAGER - - - - O -
+                 RUN - - - - - X

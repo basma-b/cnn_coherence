@@ -1,0 +1,31 @@
+                TIME - X - - - - -
+               KLAWD - S - - - - -
+               CABLE - S - - - - -
+              INSERT - O - - - - -
+                PORT - O - - - - -
+              DEVICE - X - X X - -
+             NETWORK - X - - - - -
+                 USE - X - - - - -
+             PRODUCT - X - - - - -
+                LINE - S - - - - -
+                 PCI - S - - - - -
+               SYSFS - X - - - - -
+                  .. - X - - - - -
+             NOTHING - O O - X - -
+              OUTPUT - - X - - - -
+             METHODS - - X - - - -
+                NAME - - - S - - -
+                SUDO - - - - X - -
+                  OK - - - - X - -
+              RFKILL - - - - X - -
+                LIST - - - - O - -
+               BLOCK - - - - O - -
+SUSE10/RPM/NVLAN-SUSE10-0.60-1.21.X86_64.RPM - - - - S - -
+                LINK - - - - S - -
+                HTTP - - - - X - -
+//DOWNLOAD.NVIDIA.COM/XFREE86/NFORCE/1.21/NFORCE-LINUX-X86-1.21.ZIP - - - - X - -
+                 ONE - - - - S - -
+                 SEC - - - - X - -
+//DL.DROPBOX.COM/U/8850924/NVLAN-SUSE10_0.60-2.21_AMD64.DEB - - - - S - -
+                WORK - - - - O - -
+             APROPOS - - - - - - X

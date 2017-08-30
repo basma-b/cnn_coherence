@@ -1,0 +1,20 @@
+                SUDO X - - - - - - - -
+              UPDATE X - - X - - - - -
+             UPGRADE X - - - O - - - -
+                   E X - - - - - - - -
+                LOCK X - - - - - - - -
+/VAR/LIB/APT/LISTS/LOCK O - - - - - - - -
+            RESOURCE X - - - - - - - -
+           DIRECTORY S - - - - - - - -
+  /VAR/LIB/DPKG/LOCK S - - - - - - - -
+      ADMINISTRATION X - - - - - - - -
+             PROCESS S S - - - - - - -
+            SOFTWARE - - - X X - - - -
+              CENTER - - - S X - - - -
+            SYNAPTIC - - - X - - - - -
+             MANAGER - - - X - - - - -
+            CHROMIUM - - - - X - - - -
+                WORK - - - - X - - - -
+              REMOVE - - - - X - - - -
+                SAME - - - - - S - - -
+             ANYBODY - - - - - - X - -

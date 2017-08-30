@@ -1,0 +1,15 @@
+             COMMAND O O O - - -
+             PACKAGE O O - - - -
+                LIST O - - - - -
+              UPDATE - X - - - -
+                SUDO - S - - - -
+             APT-GET - X - - - -
+             UPGRADE - X - - - -
+              SCRIPT - X - X - -
+                THAT - - S - - O
+            SEPERATE - - X - - -
+               CHAIN - - S - - -
+          AMPERSANDS - - X - - -
+                 WAY - - - X - -
+               ALIAS - - - - X -
+            COMMANDS - - - - X -

@@ -1,0 +1,14 @@
+              KERNEL - X - -
+             HEADERS - O - -
+              VMWARE - O - -
+              SERVER - S - -
+               ERROR - X - -
+/USR/LIB/VMWARE/BIN/VMWARE - O - -
+/USR/LIB/VMWARE/LIB/LIBPNG12.SO.0/LIBPNG12.SO.0 - O - -
+             VERSION - X - -
+         INFORMATION - O - -
+/USR/LIB/LIBCAIRO.SO.2 - X - -
+                  -R - O - -
+             COMMAND - X - -
+                LINE - X - -
+   2.6.17-10-GENERIC - - - X

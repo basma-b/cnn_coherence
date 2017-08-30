@@ -1,0 +1,21 @@
+              SYSTEM - S - - - - - -
+              SECOND - X - - - - - -
+               START - X - - - - - -
+              BOOTUP - X - - - - - -
+              ANYONE - - X - - - - -
+                TIME - - - O - - - -
+                BOOT - - - X - - X -
+         MOTHERBOARD - - - - O - - -
+              FREEZE - - - - - X X -
+               CHECK - - - - - X - -
+   /VAR/LOG/MESSAGES - - - - - X - -
+               DMESG - - - - - X - -
+               THING - - - - - X - -
+              OPTION - - - - - - X -
+            ACPI=OFF - - - - - - O -
+            PROBLEMS - - - - - - - O
+               HTTPS - - - - - - - O
+//WIKI.UBUNTU.COM/X/QUIRKS - - - - - - - O
+INTEL_NO_DISPLAY_AFTER_LID_CLOSE_QUIRKS - - - - - - - X
+                NONE - - - - - - - S
+               QUIRK - - - - - - - X

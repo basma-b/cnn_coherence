@@ -1,0 +1,11 @@
+          HTTP_PROXY S - - - - - -
+            VARIABLE O - - - - - -
+               SHELL X - - - - - -
+              EXPORT - X - - - - -
+      HTTP_PROXY=URL - S - - - - -
+               PROXY - - - X - - -
+                  .. - - - O - - -
+                 SSH - - - - S - -
+             PROXIES - - - - O - -
+                  -E - - - - - - S
+              OPTION - - - - - - O

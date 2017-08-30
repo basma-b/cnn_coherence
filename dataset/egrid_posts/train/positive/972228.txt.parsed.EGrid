@@ -1,0 +1,17 @@
+             OPTIONS - X - X - -
+                NTFS - X S - - -
+          /ETC/FSTAB - X - - - -
+                COPY - X - - - -
+                DATA - O - - - -
+          UMASK=0111 - - S X - -
+           SOMETHING - - - O - -
+         DIRECTORIES - - - S - -
+                VIEW - - - X - -
+                USER - - - X X -
+                AUTO - - - X - -
+            NLS=UTF8 - - - X - -
+                THIS - - - S - -
+                MASK - - - - S -
+         PERMISSIONS - - - - O -
+              SCRIPT - - - - - S
+             MENTION - - - - - O

@@ -1,0 +1,15 @@
+            IFCONFIG S - X
+            IWCONFIG X - -
+             ADDRESS O - X
+             NETMASK O - O
+              ACCESS X - -
+               POINT X - -
+            SETTINGS S - -
+                   * O - -
+              ESSIDS X - -
+                DONT - S -
+               HEART - X -
+           INTERFACE - - O
+               WLAN0 - - X
+             GATEWAY - - O
+                DHCP - - O

@@ -1,0 +1,26 @@
+              IMPORT X - O - - - - - - - - - -
+             ACCOUNT X - - - - - - - - - - - -
+            SETTINGS X - - - X - - - - - - - -
+             WINDOWS X - X - - - - - - - - - -
+              UBUNTU - - X - - - - - - - - - -
+                MAIL - - X - - - - - - - - - -
+              CLIENT - - X - - - - - - - - - -
+            IMAP/POP - - - X - - - - - - - - -
+               EMAIL - - - - - X - - - - - - -
+                CARE - - - - - - O - - - - - -
+             MESSAGE - - - - - - X - - - - - -
+              SERVER - - - - - - X - - - - - -
+               LSMOD - - - - - - - - - S - - -
+                 ANY - - - - - - - - - O - - -
+                LOAD - - - - - - - - - X - - -
+               MOUSE - - - - - - - - - - S - X
+                WORK - - - - - - - - - - O - -
+                SHOW - - - - - - - - - - - - X
+               DMESG - - - - - - - - - - - - X
+                THIS - - - - - - - - - - - - X
+               INPUT - - - - - - - - - - - - X
+             HIDRAW0 - - - - - - - - - - - - X
+                 USB - - - - - - - - - - - - S
+            LOGITECH - - - - - - - - - - - - X
+            RECEIVER - - - - - - - - - - - - S
+USB-0000:00:1A.0-1.2/INPUT0 - - - - - - - - - - - - X

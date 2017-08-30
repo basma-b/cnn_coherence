@@ -1,0 +1,14 @@
+                TEXT O - - -
+                BOOT X - - -
+            SHUTDOWN X - - -
+             PROCESS X - - -
+   /ETC/DEFAULT/GRUB - O - -
+                ROOT - X - -
+         UPDATE-GRUB - S - -
+                SAVE - X - -
+                HAND - X - -
+                LINE - O - -
+                   ' - - X -
+GRUB_CMDLINE_LINUX_DEFAULT= - - X -
+              SPLASH - - X -
+                IDEA - - - X

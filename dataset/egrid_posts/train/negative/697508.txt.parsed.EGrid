@@ -1,0 +1,14 @@
+         RECONFIGURE X - - -
+              CONFIG O - - -
+                ROOT X - - -
+               SHELL X - - -
+                 USE - X - -
+              NVIDIA - X - -
+              NORMAL - O - -
+              DRIVER - - S -
+                CALL - - O -
+           SELECTION - - O -
+              SCREEN - - X -
+             SECTION - - X -
+           XORG.CONF - - X -
+              LIVECD - - - S

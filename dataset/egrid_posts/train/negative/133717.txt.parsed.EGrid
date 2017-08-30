@@ -1,0 +1,13 @@
+             COMMAND S S - - -
+             STARTUP X - - - -
+               GNOME - X - - -
+             SUBMENU - X - - -
+            SESSIONS - S - - -
+              XENGUY - O - - -
+            COMPUTER - S - - -
+             FIREFOX - - - O -
+               APPLE - - - X -
+                SITE - - - O -
+             PROBLEM - - - O -
+                   * - - - - O
+             ACCOUNT - - - - X

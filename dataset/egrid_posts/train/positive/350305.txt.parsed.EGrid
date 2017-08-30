@@ -1,0 +1,9 @@
+               ERROR X - - - -
+                COPY S - - - -
+         PERMISSIONS - O - - -
+              FOLDER - X - O -
+                  CD - - - X -
+                DISK - - - X -
+                WORD - - - - X
+                SUDO - - - - O
+             COMMAND - - - - X

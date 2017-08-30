@@ -1,0 +1,26 @@
+             COMMAND O - - - - - - -
+              SCRIPT X - - - - - - -
+             CRONJOB X - - - - - - -
+           DIRECTORY X - - - - - - -
+                HOME X - - - - - - -
+                  .. X - - X - - - -
+                CZVF - S - - - - - -
+                /ETC - S - - - - - -
+                   * - X - - - - - -
+                WORK - X - - - - - -
+            TERMINAL - X - - - - - -
+                ROOT - - X X - - - -
+               SHELL - - X - - - - -
+              VSPIKE - - X - - - - -
+             CRONTAB - - X - - - - -
+/VAR/SPOOL/CRON/CRONTABS/ROOT - - - - S - - -
+              OUTPUT - - - - O - - -
+                FILE - - - - X - - -
+                INFO - - - - O - - -
+                THAT - - - - - O - -
+               LINUX - - - - - - S -
+         APPLICATION - - - - - - O -
+          EVERYTHING - - - - - - X -
+               THERE - - - - - - - X
+                 ONE - - - - - - - X
+                 IRC - - - - - - - O

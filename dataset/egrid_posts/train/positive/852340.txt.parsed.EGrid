@@ -1,0 +1,12 @@
+   /VAR/LOG/DPKG.LOG X - - - - -
+             PROGRAM X - - - - -
+             COMMAND X - - - - -
+                DPKG - - S - - -
+             PACKAGE - - S X S -
+              BINARY - - S - - -
+            WILDCARD - - X - - -
+                 LOT - - X - - -
+         PACKAGENAME - - X - - -
+               PURGE - - - X - -
+       CONFIGURATION - - - X - -
+                FILE - - - S - -

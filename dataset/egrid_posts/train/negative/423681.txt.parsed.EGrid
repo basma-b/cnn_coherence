@@ -1,0 +1,15 @@
+                SUDO S - - - -
+               CHMOD X - - - -
+           /VAR/WWW/ X - - - -
+                   * O - - - -
+          DMSUPERMAN X - - - -
+             EXAMPLE S - - - -
+             COMMAND O - - - -
+           DIRECTORY O - - - -
+/MEDIA/SDB2/DOCROOT/ X - - - -
+                  -L S - - - -
+              RWXRWX X - - - -
+                CLUE X - - - -
+                USER - X O - -
+            /VAR/WWW - X X S -
+                THAT - - X - X

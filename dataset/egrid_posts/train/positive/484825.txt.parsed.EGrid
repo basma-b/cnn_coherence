@@ -1,0 +1,21 @@
+           PARTITION X - - X - - -
+                HOME X - - - - - -
+              FOLDER X - - - - - -
+               FSTAB - X - - - - -
+         PERMISSIONS - - X S - - -
+               /HOME - - - X S - -
+           DIRECTORY - - - O - - -
+                CARE - - - O - - -
+                 YEA - - - - S - -
+               ENTRY - - - - O - -
+          /ETC/FSTAB - - - - X - -
+                SUDO - - - - S S -
+                  -A - - - - S - -
+                THIS - - - - S - -
+            RECOVERY - - - - X - -
+                MODE - - - - X - -
+                  CD - - - - X - -
+                FILE - - - - O - -
+                   * - - - - - X -
+/PATH/TO/MOUNT_POINT/ - - - - - O -
+                THAT - - - - - - S

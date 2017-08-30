@@ -1,0 +1,22 @@
+           BLACKLIST X - - - - - - - - - - - - - -
+              MODULE S - - - - - - X - - X - - - -
+              DOESNT S - - - - - - - - - - - - - -
+                WORK X - - - - - X - - - - - - - -
+                FILE O - - - - - - - - - O - - - -
+             STARTUP X - - - - - - - - - - - - - -
+                LOAD - X - - O - - - - - - - - - -
+              DRIVER - X - - - - - - - - - - - - -
+               R8169 - - - - O - - - - - - - - - O
+              ANYONE - - - - - X - - - - - - - - -
+                  RM - - - - - - X - - - - - - - -
+                 ING - - - - - - S - - - - - - - -
+/LIB/MODULES/2.6.20-16-GENERIC/KERNEL/DRIVERS/NET/ - - - - - - - - X - - - - - -
+               THERE - - - - - - - - S X - - - - -
+           DIRECTORY - - - - - - - - X - - - - - -
+                THAT - - - - - - - - - - S - - - -
+              KERNEL - - - - - - - - - - O - - - -
+                BOOT - - - - - - - - - - X - - - -
+             MPLAYER - - - - - - - - - - - - - S -
+           DIRECTIVE - - - - - - - - - - - - - O -
+LIB/MODULES/WHATEVER - - - - - - - - - - - - - - X
+              MATTER - - - - - - - - - - - - - - O

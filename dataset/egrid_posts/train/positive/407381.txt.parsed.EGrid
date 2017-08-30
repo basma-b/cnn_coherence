@@ -1,0 +1,14 @@
+               FSTAB - X S - -
+                   | - S - - -
+               DRIVE - S - - -
+           CONTENUES - O - - -
+                BOOT - O X - -
+            PROBLESM - O - - -
+                STOP - - X - -
+                THAT - - - X -
+                CARD - - - O -
+               LOGIN - - - S -
+              SCRIPT - - - S -
+         /ETC/INIT.D - - - X -
+                LINK - - - O -
+          /ETC/RC2.D - - - X -

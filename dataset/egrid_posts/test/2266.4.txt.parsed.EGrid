@@ -1,0 +1,24 @@
+                 CAT X - X - - - -
+           /DEV/NULL X - X - - - -
+                   > X - X - - - -
+/VAR/SPOOL/MAIL/ROOT O - X - - - -
+          PERMISSION S - - - - - -
+                ROOT - X - - - - -
+               ISSUE - S - - - - -
+              METHOD - X - - X - -
+             MAILBOX - X - - - - -
+                SUDO - - X - - - -
+         REDIRECTION - - O - - - -
+                 TEE - - O - - - -
+               SENSE - - X - - - -
+                BASH - - X - - - -
+                  -C - - X - - - -
+               CHECK - - X - - - -
+              MEMORY - - X - - - -
+               USAGE - - O - - - -
+              OUTPUT - - - X - - X
+                  -R - - - X - - -
+            TERMINAL - - - X - - -
+                 3GB - - - - O - -
+                 RAM - - - - X - -
+                  -M - - - - - - X

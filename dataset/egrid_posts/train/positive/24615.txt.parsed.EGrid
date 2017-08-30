@@ -1,0 +1,17 @@
+             COMMAND X - - - - - - -
+                 ONE O - - X - - - -
+                 RES X - - - - - - -
+                SUDO - - S - - - - -
+     XSERVER-XFREE86 - - O - - - - -
+                 RUN - - X - - - - -
+              DRIVER - - X - - O - -
+                CARD - - - - X - - -
+                  NV - - - - - X - -
+            PERMEDIA - - - - - O - -
+              NVIDIA - - - - - X - -
+                   X - - - - - X - -
+                CONF - - - - - S - -
+              ERRORS - - - - - X - -
+           CONFIGURE - - - - - - - X
+                  IM - - - - - - - S
+                TTY1 - - - - - - - O

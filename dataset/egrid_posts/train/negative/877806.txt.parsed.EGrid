@@ -1,0 +1,32 @@
+               SETUP X - - - - - - - - -
+/ETC/NETWORK/INTERFACES X - - - - X - - - -
+                  PC X - - - - - - - - -
+         192.168.0.1 X - - - - - - - - -
+                  .. X - - - - - X O - -
+             NETWORK S - S - - - - - - -
+                PING - X - - - - - - - -
+                KIND - X - - - - - - - -
+              SERVER - X - - - - - - - -
+               RSYNC - X - - - - - - - -
+                 WCP - X - - - - - - - -
+                 ETC - X - - - - - - - -
+          OPERATIONS - O - - - - - - - -
+                SUDO - - X - - - - - - -
+             SERVICE - - X - - - - - - -
+              REBOOT - - O - - - - - - -
+                 PCS - - X - - - - - - -
+                THAT - - - S - - - - - O
+                   A - - - O - - - - - -
+/ETC/INIT.D/NETWORKING - - - X - - - - - -
+                THIS - - - - X - - - - -
+             COMMAND - - - - X - - - - -
+                 USE - - - - - - X - - -
+          PASTEBINIT - - - - - - X - - -
+                HTTP - - - - - - X - - -
+             GATEWAY - - - - - - - O - -
+               THERE - - - - - - - S - -
+                INET - - - - - - - X - -
+             ADDRESS - - - - - - - X - -
+             NETMASK - - - - - - - X - -
+                  OK - - - - - - - X - -
+              KERNEL - - - - - - - - - O

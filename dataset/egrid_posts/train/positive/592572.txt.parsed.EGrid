@@ -1,0 +1,14 @@
+         APPLICATION S - - - - -
+           COMPUTERS O - - - - -
+             NETWORK X - - - - -
+             SNIFFER O - - X - -
+             WINDOWS X - - - - -
+                 ANY - - S - - -
+                SUDO - - - X - -
+             APT-GET - - - S - -
+                NMAP - - - O S -
+           INTERFACE - - - - O -
+            SCANNERS - - - - O -
+                HOST - - - - X -
+                HTTP - - - - - X
+     //SECTOOLS.ORG/ - - - - - X

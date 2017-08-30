@@ -1,0 +1,17 @@
+            ALSACONF O - - - - - -
+            ANYTHING - O - - - - -
+                LOAD - - X - - - -
+                BOOT - - X - - - -
+              2.6.10 - - - - S - -
+                CARD - - - - O - -
+               FSTAB - - - - - - S
+          /ETC/FSTAB - - - - - - X
+   DRIVES/PARTITIONS - - - - - - O
+           PARTITION - - - - - - X
+               DRIVE - - - - - - S
+                 USE - - - - - - O
+             STORAGE - - - - - - X
+               MOUNT - - - - - - X
+               POINT - - - - - - O
+              /MEDIA - - - - - - X
+           REFERENCE - - - - - - O

@@ -1,0 +1,14 @@
+            LOCATION X X -
+             PACKAGE X - -
+              CUSTOM X - -
+                USER - X -
+             DEFAULT - X -
+         PERMISSIONS - O -
+                MOVE - X -
+                FILE - X -
+            /USR/BIN - X -
+              BINARY - S -
+               BUNCH - O -
+                BASH - X X
+              SCRIPT - X O
+                HOME - X -

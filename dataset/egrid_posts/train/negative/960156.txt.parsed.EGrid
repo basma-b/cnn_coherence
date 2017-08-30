@@ -1,0 +1,9 @@
+             COMMAND X - -
+                TYPE X - -
+               .DIFF O - -
+               PATCH X X -
+                THAT - S -
+                 -P0 - X -
+                   < - S -
+                FILE - O -
+                 HMM - - S

@@ -1,0 +1,32 @@
+             MESSAGE - X - - - - - - - - - - - -
+                 SEP - X - - - - - - - - - - - -
+              KERNEL - X X - - - - X - S - - - O
+             SYMBOLS - X - - - - - - O - - - - -
+                LOAD - X - - O - - - - - - - - X
+             MODULES - X - - - - - O - - - - - -
+                THAT - - X - - - S - - S - - - -
+              UBUNTU - - - X - - - - - - - - - -
+            STANDARD - - - X - - - - - - - - - -
+              UPDATE - - - S - - - - - - - - - -
+                  -R - - - S - - - - - - - - - -
+             KERNELS - - - - S O - - - - - - - -
+                UDEV - - - - X - - - - - - - - -
+                KMOD - - - - X - - - - - - - - -
+            MODPROBE - - - - - - S - - - - - X -
+        /ETC/MODULES - - - - - - O - - - - - - -
+              ENABLE - - - - - - - O - - - - - -
+              MODULE - - - - - - - X - - - - O S
+              LOADER - - - - - - - S - - - - - -
+                 CNA - - - - - - - S - - - - - -
+                  EG - - - - - - - X - - - - - -
+                MINE - - - - - - - S - - - - - -
+               YOURS - - - - - - - - X - - - - -
+                FILE - - - - - - - - - X - - - -
+///BOOT/SYSTEM.MAP-2.6.15-23-386 - - - - - - - - - X - - - -
+               /BOOT - - - - - - - - - - - S - -
+LINUX-IMAGE-2.6.15-26-386 - - - - - - - - - - - O - -
+           SOUNDCARD - - - - - - - - - - - - X -
+                   > - - - - - - - - - - - - X -
+               SOUND - - - - - - - - - - - - X -
+              ERRORS - - - - - - - - - - - - - O
+              REBOOT - - - - - - - - - - - - - S

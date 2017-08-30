@@ -1,0 +1,17 @@
+             DEFAULT X X - - - -
+                 RUN X - - - - -
+                  NO - X - - - -
+             SERVICE - S - - - -
+                WORK - X - - - -
+                YARR - X - - - -
+                 USE - S - - - -
+                SUDO - - X X - -
+             APT-GET - - S - - -
+               PURGE - - X X - -
+FLASHPLUGIN-INSTALLER - - O X - -
+                THAT - - - S - -
+                DPKG - - - X - -
+           FORCE-ALL - - - X - -
+              THINGS - - - - - O
+          /USR/LOCAL - - - - - X
+            ANYTHING - - - - - O

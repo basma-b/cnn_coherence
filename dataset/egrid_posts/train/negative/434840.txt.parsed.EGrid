@@ -1,0 +1,12 @@
+          AUTOREMOVE O - - -
+             UPGRADE X - - -
+              REMOVE X - - -
+                SUDO - - X -
+             APT-GET - - X -
+        DIST-UPGRADE - - S -
+                  IM - - O -
+               HARDY - - X -
+              CONFIG - - - S
+                FILE - - - O
+          DIFFERENCE - - - O
+              APACHE - - - X

@@ -1,0 +1,16 @@
+                 GUI X - - -
+GNOME-NETWORK-PREFERENCES O - - -
+            INSTANCE X - - -
+               STORE X - - -
+              CONFIG X - - -
+/ETC/GNOME-SYSTEM-TOOLS/NETWORK/PROFILES.XML X - - -
+    /ETC/RESOLV.CONF S - - -
+              ANGELO X - - -
+                 KDE O - - -
+             VERSION - S - -
+                 USE - - O -
+     YOUR_DNS_SERVER - - X -
+               /ETC/ - - X -
+                   > - - X -
+           /DEV/NULL - - S -
+       CONFIGURATION - - S -

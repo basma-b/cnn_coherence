@@ -1,0 +1,12 @@
+   /ETC/DEFAULT/GRUB X - - -
+              NOTICE O - - -
+                LINE X - - -
+GRUB_CMDLINE_LINUX_DEFAULT= S - - -
+      XBMC=AUTOSTART O - - -
+         NODISKMOUNT O - - -
+          LOGLEVEL=0 O - - -
+        VIDEO=VESAFB S - - -
+              FORCES - X - -
+               USAGE - O - -
+              DRIVER - X - -
+                BOOT - - - X

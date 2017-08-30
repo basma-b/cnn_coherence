@@ -1,0 +1,15 @@
+                THIS X - - -
+                READ - S - -
+         PERMISSIONS - X - -
+            COMPUTER - O - -
+         192.168.1.1 - X - -
+             ./FILES - X - -
+      192.168.1.1/24 - X - -
+                  RW - X - -
+      NO_ROOT_SQUASH - X - -
+               ASYNC - X - -
+                 /24 - S - -
+            SUBCLASS - O - -
+               BOARD - - - X
+                DATA - - - X
+             COMMAND - - - X

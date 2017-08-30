@@ -1,0 +1,14 @@
+              CLIENT X - -
+        AUTHENTICATE O - -
+                LDAP X X -
+                STEP O - -
+               HTTPS O - -
+//HELP.UBUNTU.COM/COMMUNITY/LDAPCLIENTAUTHENTICATION X - -
+                BODY S - -
+                THIS X - -
+              SERVER - S -
+                WORK - - X
+                 RUN - - S
+                 MOR - - X
+              DETAIL - - O
+                FILE - - X

@@ -1,0 +1,13 @@
+            LOCATION X - - - - - -
+                TUN0 X - - X X - -
+                TAP0 X - - X X - -
+             DIAGRAM X - - - - - -
+                HTTP - X - - - - -
+           INTERFACE - X - - - - -
+                NAME - O - - - - -
+             DEFAULT - X - - - - -
+          INTERFACES - - O O O - -
+            POSITION - - - O O - -
+            QUESTION - - - - - - X
+               ICONS - - - - - - X
+               UNITY - - - - - - X

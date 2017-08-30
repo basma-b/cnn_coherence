@@ -1,0 +1,8 @@
+              SCRIPT S S - -
+   /ETC/PPP/IP-UP.D/ X X - -
+                SUDO X X - -
+              WVDIAL S S - -
+               MODEM X X - -
+                  -L - - S -
+                ROOT - - O -
+          SHARE.PPP0 - - X -

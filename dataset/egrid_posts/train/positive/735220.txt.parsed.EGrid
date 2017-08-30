@@ -1,0 +1,10 @@
+                THAT - - O - -
+             SYMLINK - - O - -
+                CALL - - X - -
+            CDISPLAY - - X - -
+                 USB - - X - -
+              DEVICE - - X - -
+       /DEV/CDISPLAY - - X - -
+        SND/PCMC0D0C - - S - -
+                FILE - - - - X
+   /ETC/UDEV/RULES.D - - - - X

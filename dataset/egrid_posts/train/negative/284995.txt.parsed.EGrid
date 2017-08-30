@@ -1,0 +1,5 @@
+             COMMAND - - S
+                SUDO - - X
+    NIVIDIA-SETTINGS - - S
+        XSERVER-XORG - - X
+                   < - - O

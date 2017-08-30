@@ -1,0 +1,13 @@
+                MESS X - - - -
+         PERMISSIONS X - - - -
+              SYSTEM X - - - -
+                PERM - X - - -
+               /HOME - X - - X
+                ROOT - - X - -
+                 GUI - - O - -
+                THAT - - - S -
+                USER - - - X -
+               GROUP - - - X S
+            EVERYONE - - - X -
+            755=USER - - - - X
+                  .. - - - - X

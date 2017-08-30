@@ -1,0 +1,13 @@
+             CONTENT X O - - - - - -
+  /BOOT/GRUB/GRUBENV X X - X - - - -
+                BOOT - S - X - - - -
+                 NOW - - - S - - - -
+        RECORDFAIL=1 - - - S - - - -
+                FINE - - - X - - - -
+                FILE - - - X - - - -
+                HTTP - - - O - - - -
+                SUDO - - - X - - - -
+/ETC/INIT.D/GRUB-COMMON - - - O S - - -
+               USAGE - - - - X - - -
+START|STOP|STATUS|RESTART|FORCE-RELOAD - - - - X - - -
+               START - - - - - X - -

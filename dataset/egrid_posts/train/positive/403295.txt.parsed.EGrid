@@ -1,0 +1,13 @@
+            SHOULDNT O - - - - - -
+                DISK S - - X - - -
+              SYSTEM X - - - - - -
+                LIST O - - - - - -
+                  -L - S - - - - -
+          PARTITIONS - O - - - - -
+              DEVICE - X - - - - -
+            /DEV/SDA - - - X - - -
+            /DEV/HDA - - - X - - -
+           PARTITION - - - S - - -
+               DRIVE - - - - X - -
+          /ETC/FSTAB - - - - X - -
+            TERMINAL - - - - - - X

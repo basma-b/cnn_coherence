@@ -1,0 +1,10 @@
+               SOUND X - - - -
+            ACPI=OFF - X - - -
+              KERNEL - X - - -
+                BOOT - X - X -
+          PARAMETERS - X - - -
+                WORK - - - X -
+              SYSTEM - - - X -
+              OPTION - - - X -
+             NETWORK - - - O -
+               4.4.0 - - - - X

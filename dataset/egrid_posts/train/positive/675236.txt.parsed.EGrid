@@ -1,0 +1,17 @@
+         PERMISSIONS X - - - - - -
+             FOLDERS X X - - - - -
+                PERM X - - - - - -
+             DEFAULT X - - - - - -
+                FILE X S - - - O -
+                   R X - - - - - -
+             COMMAND X - - - - - -
+                 ONE - O - - - - -
+                THAT - - X - - - -
+               CHMOD - - - X - - -
+                  +D - - - S - - -
+               -TYPE - - - - S - -
+                  TA - - - - S - -
+                THIS - - - - O - -
+               THANK - - - - - S -
+                LIST - - - - - X -
+               DEPTH - - - - - O X

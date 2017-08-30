@@ -1,0 +1,18 @@
+             COMMAND X O - -
+             NETWORK X - - -
+                DHCP X S - -
+           INTERFACE - S - -
+              FRIEND - X - -
+             PROBLEM - O - -
+                  .. - O - -
+              UBUNTU - X - -
+                 NET - S - -
+                ETH0 - S - -
+            RESPONSE - X - -
+                FORM - X - -
+            TERMINAL - O - -
+                CARD - S - -
+            HARDWARE - X - -
+                LINE - O - -
+/ETC/NETWORK/INTERFACES - X - -
+             NOTHING - - - O

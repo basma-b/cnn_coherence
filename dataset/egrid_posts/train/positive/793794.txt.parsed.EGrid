@@ -1,0 +1,11 @@
+             COMMAND X - - -
+             DEVICES X - - -
+                LIST - X - -
+                SUDO - X - -
+                LSHW - S - -
+                  -L - O - -
+             NEITHER - - S -
+               THOSE - - X -
+                INFO - - - X
+               DRIVE - - - X
+                 FUN - - - O

@@ -1,0 +1,7 @@
+             COMMAND O - -
+        DEPENDENCIES X - -
+             KDELIBS - S -
+                 TOI - S -
+             DESKTOP - S -
+           LIBRARIES - O -
+        KDELIBS4-DEV - - X

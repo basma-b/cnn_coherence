@@ -1,0 +1,23 @@
+                 GCC S - - - - - -
+                  -I O - - - - - -
+                  .. - - S - - - -
+                   / - - S - - - -
+-FNO-KEEP-STATIC-CONSTS - - O - - - -
+     -D__INT16=SHORT - - X - - - -
+       -D__INT32=INT - - S - - - -
+-I/USR/X11R6/INCLUDE - - X - - - -
+                  -O - - S - - - -
+            BITBLT.C - - S - - - -
+                9:27 - - X - - - -
+     X11/INTRINSIC.H - - X - - - -
+                FILE - - X - - - -
+           DIRECTORY - - S - - - -
+               PASTE - - O - - - -
+ X-WINDOW-SYSTEM-DEV - - S - - - -
+               REPOS - - - X - - -
+                NOPE - - - - S - -
+                 CUZ - - - - - S -
+               ITEMS - - - - - X -
+           SOMETHING - - - - - S -
+                  NO - - - - - - X
+                  P4 - - - - - - X

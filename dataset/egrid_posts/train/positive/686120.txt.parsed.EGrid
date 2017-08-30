@@ -1,0 +1,15 @@
+                 BOX - X - - - - - -
+                 SSH - X - - - - - -
+                ROOT - X - - - - - -
+                 KEY - X - - - X - -
+                AUTH - X - - - - - -
+                 USE - O - - - - - -
+          ALLOWUSERS - - S - - - - -
+         SSHD_CONFIG - - X - - - - -
+              RETURN - - - S - - - -
+               USERS - - - S - - - -
+               SHELL - - - S - - - -
+~/.SSH/AUTHORIZED_KEYS - - - - - X - -
+             SH3R1FF - - - - - - - X
+              FOLDER - - - - - - - X
+                USER - - - - - - - X

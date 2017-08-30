@@ -1,0 +1,11 @@
+                  AM O - - -
+              THTTPD O - - -
+                 PHP X - - -
+               FORCE O - - -
+              APACHE X - - -
+                HINT - - X -
+                TIME - - - X
+                KIND - - - O
+        WAIT-COMMAND - - - X
+             PROCESS - - - X
+                BOTH - - - O

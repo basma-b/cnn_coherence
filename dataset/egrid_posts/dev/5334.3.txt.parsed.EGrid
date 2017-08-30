@@ -1,0 +1,12 @@
+                FILE O - - X
+           DIRECTORY X - - -
+           EXTENSION X - - -
+               MYDIR - O - -
+              .MYEXT - - X -
+                 USE - - - S
+            REFORMAT - - - X
+               DRIVE - - - X
+          PARITITION - - - O
+               FAT32 - - - X
+                NTFS - - - O
+          FILESYSTEM - - - X

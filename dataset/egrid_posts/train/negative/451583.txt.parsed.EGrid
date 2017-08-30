@@ -1,0 +1,16 @@
+               THERE X - - - - - -
+                 WAY X - - - - - -
+                 USE X - - - - - -
+              KERNEL O X - - - - -
+              DRIVER S O - - - - -
+        NTFS-3G/FUSE X - - - - - -
+           PARTITION - O - - - - -
+             NTFS-3G - S - X - - -
+    /SBIN/MOUNT.NTFS - X - - - - -
+ /SBIN/MOUNT.NTFS-3G - S - - - - -
+        /BIN/NTFS-3G - X - - - - -
+             COMMAND - O - - - - -
+             FEATURE - - X - - - -
+                TIME - - - X - - -
+               ERROR - - - X - - -
+                  NO - - - - - - X

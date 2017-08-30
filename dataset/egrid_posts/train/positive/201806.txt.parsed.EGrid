@@ -1,0 +1,14 @@
+                  IP X - - - -
+                 BOX X - - - -
+              ROUTER X - - - -
+                THAT - S - - -
+/ETC/NETWORK/INTERFACES - X - - -
+                  .. - - O - -
+               THERE - - X - -
+              STATIC - - - - S
+                MINE - - - - O
+              FOLLOW - - - - X
+                ETH0 - - - - S
+             NETMASK - - - - O
+             GATEWAY - - - - X
+        192.168.75.1 - - - - X

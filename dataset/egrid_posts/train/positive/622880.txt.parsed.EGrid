@@ -1,0 +1,16 @@
+                SUDO X - - X - - - -
+                  LN S - - X - - - -
+      LIBOPENAL.SO.0 S - - O - - - -
+              TARGET X - - - - - X -
+           DIRECTORY O X - X - - O -
+                LINK - O - O - X - -
+                 LIB - X - - - - - -
+                 ANY - - S - - - - -
+                PATH - - - X - - - -
+                FILE - - - O - X - -
+               –VS - - - X - - O -
+               ERROR - - - X - - O -
+/USR/LIB/LIBOPENAL.SO.1 - - - - - X - -
+/USR/LIB/LIBOPENAL.SO.0 - - - - - X S -
+                NAME - - - - - O - -
+               IDEAS - - - - - - - X

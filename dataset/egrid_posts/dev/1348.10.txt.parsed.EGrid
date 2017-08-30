@@ -1,0 +1,12 @@
+              OUTPUT S - - -
+              RFKILL X - - -
+                LIST X - - -
+                BOTH - S - -
+               BLOCK - X - -
+                 YEA - - X -
+                 NFS - - - X
+              KERNEL - - - X
+              SERVER - - - S
+               STYLE - - - X
+                INIT - - - X
+              SCRIPT - - - O

@@ -1,0 +1,16 @@
+                LINK S - - - - -
+              DETAIL X - - - - -
+                KIND O - - - - -
+            POINTERS X - - - - -
+                 TOP - X - - - -
+              UBUNTU - X - - - -
+           ALTERNATE - X - - - -
+                 VNC - O - - - -
+                USER - X - - - -
+            RC.LOCAL - X - - - -
+             DEFAULT - X - - - -
+                  UI - O - - - -
+            FIREWALL - - - - O -
+              ACCESS - - - - O -
+                 SSH - - - - O -
+               SETUP - - - - - O

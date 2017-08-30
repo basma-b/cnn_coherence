@@ -1,0 +1,37 @@
+            IFCONFIG X X X - - - - - -
+                MESS X - - - - - - - -
+          EVERYTHING - S S - - - - - -
+                  IP - S - - - - - - -
+                LIST - X - - - - - - -
+                DHCP - X S - - - - - -
+                WORK - S - - - - - - -
+               WLAN0 - X - - - - - - -
+                ETH0 - S X - - - - - -
+             GATEWAY - O - - - - - - -
+                TYPE - X X - - - - - -
+                SUDO - X - - - - - - -
+             DEFAULT - X S - - - - - -
+                  GW - S - - - - - - -
+        192.168.15.1 - X O - - - - - -
+              THINGS - O O - - - - - -
+              SUBNET - X - - - - - - -
+/ETC/NETWORK/INTERFACES - X X - - - - - -
+                FILE - X - - - - - - -
+                THAT - - S X - - - - -
+               IFACE - - X - - - - - -
+                INET - - X - - - - - -
+        DIST-UPGRADE - - O - - - - - -
+             NETWORK - - X - - - X - -
+             MANAGER - - O - - - O - -
+                WICD - - O - - - - - -
+                ROUT - - X - - - - - -
+               ISSUE - - O - - - - - -
+            ANYTHING - - O - - - - - -
+             NOTHING - - X - - - - - -
+               CACHE - - O - O - - - -
+               ROUTE - - - - X - - - -
+                CRAP - - - - - X - - -
+              MOMENT - - - - - X - - -
+/ETC/DHCP3/DHCLIENT.CONF - - - - - O - - -
+              STATIC - - - - - - S - -
+                 YEA - - - - - - - - X

@@ -1,0 +1,11 @@
+           DIRECTORY S - - - - -
+            APT.CONF O O - - - -
+                LINE O - - - - -
+                HTTP - O - - - -
+                 USE - X S - - -
+            SETTINGS - O - - - -
+                 PIN - - X - - -
+               REPOS - - X - - -
+                   U - - X - - -
+             VERSION - - - O - -
+               HERON - - - - - X

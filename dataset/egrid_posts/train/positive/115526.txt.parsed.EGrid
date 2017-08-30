@@ -1,0 +1,26 @@
+             PROBLEM X - - - -
+        /ETC/SUDOERS X - - - -
+           EVERYBODY - S - - -
+            COMPUTER - X - - -
+                USER - X X - -
+              MYTHTV - X X - -
+                SUDO - X - - -
+                  -U - X - - -
+/USR/BIN/MYTHFRONTEND - X S - -
+                TIME - - S - -
+                ALL= - - X - -
+            NOPASSWD - - S - -
+             SUDOERS - - X - -
+                 ONE - - S - -
+             ACCOUNT - - X - -
+                WORK - - O - -
+              DOESNT - - O - -
+                LINE - - X - -
+                 IVE - - O - -
+               USERS - - S - -
+               GROUP - - X - -
+               OTHER - - S - -
+                 WAY - - S - -
+                ROOT - - X - -
+           PRIVILEGE - - X - -
+               BUDDY - - - - S

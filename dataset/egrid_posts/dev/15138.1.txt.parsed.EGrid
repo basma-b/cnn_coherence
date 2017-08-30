@@ -1,0 +1,21 @@
+     /VAR/LOG/SYSLOG O - - - - - - -
+               ENTRY O - - - - - - -
+               BUNCH - S S - - - - -
+              THINGS - X - - - - - S
+                 TTY - - X - - - - -
+                TERM - - X - - - - X
+              SIGNAL - - X - - - - X
+                THAT - - - X - - - -
+               THERE - - - S - - - -
+              OUTPUT - - - X - - - -
+             POSTFIX - - - X - - - -
+             NOTHING - - - - X - - -
+            INTEREST - - - - X - - -
+               HTTPS - - - - - X - -
+//GIST.GITHUB.COM/3062649 - - - - - X - -
+                LINE - - - - - O - -
+ /VAR/LOG/XORG.1.LOG - - - - - X - -
+             MACHINE - - - - - - X -
+                 END - - - - - - - O
+              KERNEL - - - - - - - X
+               PANIC - - - - - - - O

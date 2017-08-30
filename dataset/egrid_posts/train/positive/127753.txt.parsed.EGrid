@@ -1,0 +1,12 @@
+                 HMM X - - - - - -
+                IPOD S - - O - - -
+             HOTPLUG - - X - - - -
+                LSHW - - - X - - -
+                /DEV - - - X - - -
+               DMESG - - - - S - -
+                CLUE - - - - O - -
+                 USB - - - - - - X
+                 4-1 - - - - - - O
+               SPEED - - - - - - X
+              DEVICE - - - - - - S
+            EHCI_HCD - - - - - - O

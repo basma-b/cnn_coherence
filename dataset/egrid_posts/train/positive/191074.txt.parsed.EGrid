@@ -1,0 +1,18 @@
+                 KEY S - O - -
+      AUTHENTICATION X - - - -
+                 SSH O - - - -
+                PAIR S - - - -
+                SSHD X - - - -
+  /ETC/SSH/SSHD.CONF X - - - -
+     ~/.SSH/SSH.CONF O - - - -
+               THERE S - - S -
+                APPS X - - - -
+~/.SSH/AUTHORIZED_KEYS X - - - -
+                THAT - X - - -
+                  GO - - S - -
+             ACCOUNT - - X - -
+              ACCESS - - O - -
+               PLACE - - X - -
+              TARGET - - - X -
+             MACHINE - - - X -
+          ENCRYPTION - - - X -

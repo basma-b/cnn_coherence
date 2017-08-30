@@ -1,0 +1,21 @@
+               MYSQL S - O - -
+                  PS X - - - -
+              CONFIG - O - - -
+                THIS - X - - -
+                CONF - O - - -
+            /VAR/LOG - - X - -
+               ERROR - - S - -
+                FILE - - X - -
+/VAR/LOG/MYSQL/ERROR.LOG - - X - -
+           MYSQL.ERR - - X - -
+               EMPTY - - O - -
+                TERM - - X - -
+               START - - X - -
+                NOTE - - X - -
+    /USR/SBIN/MYSQLD - - S - -
+            SHUTDOWN - - X - -
+                 JOB - - S - -
+                  .. - - O - -
+             COMMAND - - - X -
+                LINE - - - S -
+         MYSQL-ADMIN - - - O -

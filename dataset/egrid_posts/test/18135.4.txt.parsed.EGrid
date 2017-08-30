@@ -1,0 +1,16 @@
+                  .. O - - - -
+                  .I S - - - -
+             COMMAND X - - - -
+                LINE X - - - -
+              STARTX O - - - -
+             DEFAULT X - - - -
+             DESKTOP X - - - -
+               .DMRC - O - - -
+           .XSESSION - X - - -
+                FILE - O - X -
+                DONT - - - S -
+             MANAGER - - - X -
+               CDROM - - - S -
+                CASE - - - O -
+                /DEV - - - - X
+              /CDROM - - - - O

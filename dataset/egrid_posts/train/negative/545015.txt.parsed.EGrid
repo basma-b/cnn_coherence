@@ -1,0 +1,24 @@
+                 USE X - - - -
+                  DD X - - X -
+                   | X - - - -
+                GZIP S - - - -
+OF=/HOME/USERNAME/STORAGE/BACKUPFILE.GZ O - - - -
+                FILE X O - - -
+           DIRECTORY X - - X -
+                PART X - - - -
+             COMMAND X - S - -
+           PARTITION - - X X -
+              BACKUP - - X - -
+               /HOME - - O - -
+                HOME - - S - -
+                   A - - - X -
+                   / - - - X -
+/HOME/USERNAME/STORAGE - - - S -
+          CLONEZILLA - - - O -
+                  CD - - - X -
+          PARCELLITE - - - - O
+                 GUI - - - - X
+               XCLIP - - - - X
+              THINGS - - - - O
+           CLIPBOARD - - - - X
+            TERMINAL - - - - X

@@ -1,0 +1,17 @@
+             DNSMASQ S - -
+               DHCPD O - -
+/ETC/DHCP3/DHCPD.CONF O - -
+                NAME X - -
+                CARE O - -
+                 LOG X - -
+            FAILURES X - -
+                 WAY - X -
+           SOMETHING - S -
+             APT-GET - O -
+             COMMAND - S -
+              OPTION - O -
+               THING - S -
+               AFAIK - X -
+        DNSMASQ-BASE - O -
+             PACKAGE - - S
+             REMOVAL - - O

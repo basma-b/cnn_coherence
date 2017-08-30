@@ -1,0 +1,13 @@
+             PROCESS X - - - - -
+              DEVICE X - - S - -
+            GOATLOAD - - S - - -
+               STUFF - - X - - -
+              AMAROK - - - S - -
+               MUSIC - - - O - -
+                XINE - - - S - -
+                 USE - - - X - -
+             MPLAYER - - - - X -
+              RESULT - - - - X -
+             RESTART - - - - - S
+             PROBLEM - - - - - O
+/ETC/INIT.D/ALSA-UTILS - - - - - S

@@ -1,0 +1,11 @@
+            FIREWALL S - - - -
+                DROP X - - - -
+             PACKETS X - - X -
+                 TAG - X - - -
+                 LOG - X - - -
+              MANGLE - X - - -
+                 CET - O - - -
+              POLICY - - - X -
+                NAME - - - X -
+                 UFW - - - X -
+                DENY - - - - X

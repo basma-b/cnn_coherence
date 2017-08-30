@@ -1,0 +1,16 @@
+             COMMAND X O - - - -
+                FILE O O - - - -
+           DIRECTORY X X - - - -
+             ANOTHER X - - - - -
+                  MV - X S - - -
+                   * - S - - - -
+               ALIAS - X - - - O
+                CALL - X - - - -
+               TRASH - X - - - -
+                HOME - X - - - -
+        MASTERMALIAS - - X - - -
+              PRINCE - - - X - -
+              SYNTAX - - - X - -
+              HAVENT - - - - - S
+              SCRIPT - - - - - O
+            /USR/BIN - - - - - X

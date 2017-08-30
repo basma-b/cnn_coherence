@@ -1,0 +1,13 @@
+              FORMAT X X - - -
+           PARTITION X O - - -
+             COMMAND X - - - -
+                LINE X - - - -
+                MKFS - X - - -
+             SUPPORT - X - - -
+                NTFS - X - - -
+                FILE - X - - -
+              SYSTEM - X - - -
+                 YEA - - S - -
+                 MAN - - X X -
+           MKFS.NTFS - - X X -
+              DETAIL - - X - -

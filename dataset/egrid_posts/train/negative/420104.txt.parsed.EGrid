@@ -1,0 +1,17 @@
+             COMMAND X - - -
+              DAEMON X - - -
+              REBOOT X - - -
+             STARTUP - X - -
+               ENTRY - O - -
+         /ETC/INIT.D - X - -
+                SUDO - X - -
+        /ETC/INIT.D/ - S - -
+                   > - S - -
+                THAT - - S S
+                 ONE - - - O
+              THINGS - - - X
+              UBUNTU - - - X
+               THERE - - - S
+             PROBLEM - - - O
+             PROGRAM - - - S
+           SOLUTIONS - - - O

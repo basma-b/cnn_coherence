@@ -1,0 +1,11 @@
+                USER S - - - - - -
+             SOCKETS O - - - - - -
+               GROUP - X - - - - -
+                UNIX - - X - X - -
+               SHELL - - X - X - -
+                CALL - - X - - - -
+                SAMY - - O - - - -
+              TOMCAT - - - X - - -
+                NAME - - - - S - O
+                  -P - - - - X - -
+             PROGRAM - - - - - - X

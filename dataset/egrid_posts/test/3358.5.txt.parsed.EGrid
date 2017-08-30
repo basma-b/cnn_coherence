@@ -1,0 +1,17 @@
+             BONDING X - - -
+                MODE X - - -
+                LOAD X - - -
+             BALANCE X - - -
+         ROUND-ROBIN X X - -
+                 MII X - - -
+              STATUS X - - -
+                  'S S - - -
+              SWITCH - X - -
+                CANT - S - -
+                PING - - X -
+         BALANCE-ALB - - X -
+                WORK - - X -
+               COLOR - - - X
+                FLAG - - - S
+                 ONE - - - X
+            PIPELINE - - - X

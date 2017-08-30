@@ -1,0 +1,12 @@
+                  CD X X - - - -
+               DRIVE S - - - - -
+                THAT - X S - - -
+           PARTITION - X - - - -
+                BOOT - X X O - -
+               CAUSE - - X - - -
+             BUSYBOX - - X - - -
+                  'S - - - S - -
+                  DD - - - - X -
+     IF=/PATH/TO/ISO - - - - X -
+        OF=/DEV/SDA2 - - - - S -
+                  -P - - - - - X

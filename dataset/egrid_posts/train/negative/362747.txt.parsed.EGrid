@@ -1,0 +1,12 @@
+               THERE X - - -
+           SOMETHING X - - -
+           CHKCONFIG X - - -
+             SERVICE X - - -
+                SUDO - X - -
+         INVOKE-RC.D - S - -
+                   > - X S -
+START|STOP|RESTART|FORCE-RELOAD - O - -
+             XCONFIG - - X -
+             MESSAGE - - O -
+               UBOTU - - X -
+               THING - - - X

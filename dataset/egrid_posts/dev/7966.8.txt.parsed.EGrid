@@ -1,0 +1,14 @@
+             COMMENT X - X - -
+           SUBSYSTEM X - X - -
+                SFTP X - X - -
+/USR/LIB/OPENSSH/SFTP-SERVER X - X - -
+/ETC/SSH/SSHD_CONFIG - X - - -
+                INIT - - X - -
+      OPENSSH-SERVER - - S - -
+               CHMOD - - - - X
+                  +X - - - - S
+ CANONLBP_INSTALL.SH - - - - S
+                  .. - - - - O
+                FILE - - - - S
+                  OS - - - - S
+              BINARY - - - - X

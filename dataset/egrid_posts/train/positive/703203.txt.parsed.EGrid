@@ -1,0 +1,44 @@
+              SCREEN X - - O - - - - - - - -
+          RESOLUTION X - - O - - - - - - - O
+            PROBLEMS O - - - - - - - - - - -
+                BENQ - X - - - - - - - - - -
+             G2420HD - X - - - - - - - - - -
+                 LCD - X - - - - - - - - - -
+                 ATI - X - - - - - - - - - -
+              RADEON - X - - - - - - - - - -
+                  HD - X - - - - - - - - - -
+            1024X768 - - X - - X - - - - - -
+        INSTRUCTIONS - - - O - - - - - - - -
+               HTTPS - - - O - - - - - - - -
+//WIKI.UBUNTU.COM/X/TROUBLESHOOTING/RESOLUTION - - - X - - - - - - - -
+//WIKI.UBUNTU.COM/X/CONFIG/RESOLUTION - - - O - - - - - - - -
+                CASE - - - X - - - - - - - -
+XSERVER-XORG-VIDEO-ATI - - - - O - - - - - - -
+                THIS - - - - - X - - - - - -
+         RESOLUTIONS - - - - - X - - - - - -
+                BITE - - - - - - X - - - - -
+           XORG.CONF - - - - - - O X - - - -
+    DPKG-RECONFIGURE - - - - - - - O - - - -
+                SUDO - - - - - - - X - - - -
+            /ETC/X22 - - - - - - - X - - - -
+                  .. - - - - - - - - O - - -
+                BOOT - - - - - - - - X - X -
+            RECOVERY - - - - - - - - X - - -
+                MODE - - - - - - - - X - - -
+                GRUB - - - - - - - - X - - -
+                MENU - - - - - - - - X - - -
+                TIME - - - - - - - - - - O -
+                THAT - - - - - - - - - - S -
+              ANSWER - - - - - - - - - - X -
+             TIMEOUT - - - - - - - - - - O -
+               DOENS - - - - - - - - - - S -
+                WORK - - - - - - - - - - O -
+               THERE - - - - - - - - - - S -
+              OPTION - - - - - - - - - - X -
+                 WAY - - - - - - - - - - X -
+   /ETC/DEFAULT/GRUB - - - - - - - - - - X -
+             DEFAULT - - - - - - - - - - X -
+               ENTRY - - - - - - - - - - O -
+             NOTHING - - - - - - - - - - S -
+               -RSB- - - - - - - - - - - X -
+             ENTRIES - - - - - - - - - - O -

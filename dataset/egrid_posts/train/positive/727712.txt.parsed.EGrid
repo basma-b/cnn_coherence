@@ -1,0 +1,14 @@
+               IMAGE O - - - -
+           PARTITION X X - X -
+                DISK X X - X -
+                GRUB - O - X -
+                BOOT - X X X -
+                WAYS - - - X -
+                  CD - - - X -
+                WORK - - - X -
+              UBUNTU - - - O -
+                 USB - - - X -
+                MENU - - - O -
+          /ETC/FSTAB - - - - O
+ /BOOT/GRUB/GRUB.CFG - - - - O
+               DRIVE - - - - X

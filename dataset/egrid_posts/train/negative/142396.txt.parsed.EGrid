@@ -1,0 +1,32 @@
+            IWCONFIG X - - - - - - -
+                  -A S - - - - - - -
+              DEVICE X - - - - - - -
+            IFCONFIG X - - - - - - -
+             JOHANBR X - - - - - - -
+                TYPE - S - - - - - -
+              BOTTOM - X - - - - - -
+            ANYTHING - X - - - - - -
+              DRIVER - X - S X O - -
+                LOAD - X - X - - - -
+              OUTPUT - O - O - O - -
+                  -N - X - X - - - -
+                HTTP - X - - - - - -
+//PASTE.UBUNTU-NL.ORG - X - - - - - -
+                GREP - X - - - - - -
+      LOADNDISDRIVER - X - - - - - -
+     /VAR/LOG/SYSLOG - X - X - - - -
+//PASTE.UBUNTU-NL.ORG/12482 - X - - - - - -
+              PCMCIA - X - - - - - -
+                CARD - X - - - - - -
+                THIS - - O - - X - -
+                TAIL - - - X - - - -
+             CARDCTL - - - S - - - -
+              INSERT - - - O - - - -
+                 PCI - - - S - - - -
+              SOURCE - - - X - - X -
+                   A - - - - - X - -
+              32BITS - - - - - X - -
+                BITS - - - - - X - -
+              SYSTEM - - - - - - X -
+              README - - - - - - - O
+                  .. - - - - - - - O

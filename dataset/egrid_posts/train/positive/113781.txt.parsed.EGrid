@@ -1,0 +1,16 @@
+               POINT - S - -
+                ROOT - X - -
+                 KIT - X - -
+                  .. - O - -
+                BOOT - X - -
+               MEDIA - X - -
+              CHROOT - - S -
+             ROOTKIT - - S -
+             NOTHING - - O -
+               OTHER - - X -
+               START - - O -
+                   K - - X -
+                 ONE - - O -
+               HTTPS - - O -
+//WIKI.UBUNTU.COM/HARDWARESUPPORT - - X -
+                  TY - - - X

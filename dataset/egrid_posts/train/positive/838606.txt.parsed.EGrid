@@ -1,0 +1,14 @@
+           FIREWALLS X - -
+           SOMETHING X - O
+            IPTABLES X - -
+                 ONE O - -
+                 UFW - X -
+                GUFW - O -
+           DR_WILLIS - - S
+               INPUT - - X
+                  -P - - O
+                 0/0 - - S
+               SPORT - - X
+         202.54.1.20 - - S
+               STATE - - S
+                  -J - - S

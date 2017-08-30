@@ -1,0 +1,17 @@
+                TIME X - - -
+          RESOLUTION X - - -
+             NETBOOK X - - -
+                  UR X - - -
+                 IRC X - - -
+             APT-GET - X - -
+          PASTEBINIT - X - -
+                 CAT - S X -
+              MYXLOG - S - -
+                 URL - O - -
+                XLOG - S - -
+              ERRORS - O - -
+           XORG.CONF - X - -
+  /ETC/X11/XORG.CONF - - S -
+          MYXORGCONF - - O -
+                FILE - - - X
+           DIRECTORY - - - X

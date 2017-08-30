@@ -1,0 +1,13 @@
+           PARTITION S - -
+                AUTO O - -
+             DEFAULT X X -
+         PERMISSIONS - O -
+          DRWXR-XR-X - X -
+                ROOT - X -
+                USER - X -
+                  .. - - O
+               AFAIK - - X
+                 TMW - - S
+                REPO - - X
+               GNOME - - X
+                 KDE - - O

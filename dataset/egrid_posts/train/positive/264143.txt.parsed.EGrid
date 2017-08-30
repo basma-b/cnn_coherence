@@ -1,0 +1,23 @@
+              UBUNTU X - - - - - - - -
+            BINARIES X - - - - - - - -
+             PACKAGE X - - - O - - - -
+              DISTRO X - - - - - - - -
+                  CD X - X S - - - - -
+               THERE - - S - - - - - -
+           SOMETHING - - X - - - - - -
+          EVERYTHING - - - O - - - - -
+                SITE - - - - X - - - -
+              BINARY - - - - X - - - -
+              SOURCE - - - - - X - - -
+                TIME - - - - - - X - -
+               BISON - - - - - - O - -
+                WINE - - - - - - O - -
+                FLEX - - - - - - X - -
+                   % - - - - - - X - -
+                HTTP - - - - - - - X -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_PACKAGES.PL - - - - - - - X -
+      KEYWORDS=BISON - - - - - - - - X
+      SEARCHON=NAMES - - - - - - - - X
+           SUBWORD=1 - - - - - - - - X
+        VERSION=EDGY - - - - - - - - X
+         RELEASE=ALL - - - - - - - - X

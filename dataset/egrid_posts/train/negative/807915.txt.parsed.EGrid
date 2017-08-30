@@ -1,0 +1,15 @@
+                  IM S - - - -
+            IPTABLES O - - - -
+  CHAIN/TARGET/MATCH X - - - -
+                NAME X - - - -
+               ERROR - S - - -
+                SUDO - O - - -
+               INPUT - X - - -
+                DROP - O - - -
+                RULE - X - - -
+       SPECIFICATION - O - - -
+                  -S - O - - -
+             ADDRESS - X - - -
+              NUMBER - - - S -
+               MONTH - - - O -
+                THAT - - - - O

@@ -1,0 +1,11 @@
+           DIRECTORY O - -
+        FOLDER/FILES O - -
+               GROUP X - -
+              OPTION - O -
+                   ^ - X -
+               CHMOD - - X
+               HTTPS - - O
+//HELP.UBUNTU.COM/COMMUNITY/FILEPERMISSIONS - - X
+RECURSIVE_PERMISSION_CHANGES - - X
+                SUDO - - X
+/PATH/TO/SOMEDIRECTORY - - X

@@ -1,0 +1,19 @@
+                TIME X - - S - - - -
+              SCRIPT S - - O - - - -
+            COMPUTER S - - S - - X -
+             ANACRON S - X S X S - -
+ /ETC/CRON.D/ANACRON - - - X - - - -
+             DEFAULT - - - S - - - -
+                7:30 - - - X - X - -
+             MACHINE - - - S - S - -
+            SCHEDULE - - - X - O S -
+             MINUTES - - - X - - - -
+              REBOOT - - - X - - - -
+                THAT - - - - S S - S
+                CRON - - - - - X X -
+               CHECK - - - - - X S -
+                BOOT - - - - - - X -
+/ETC/RC2.D/S89ANACRON - - - - - - O -
+              SCIPTS - - - - - - O -
+                NEED - - - - - - X -
+             REFRESH - - - - - - X -

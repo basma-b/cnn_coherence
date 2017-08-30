@@ -1,0 +1,12 @@
+                TYPE S - -
+              ACCESS S - -
+                 USE X - -
+               CHMOD X - -
+                  +X S - -
+                 ALL - S -
+            ADDITION - X -
+               IMAGE - O -
+                 MBR - X -
+                SDB2 - - X
+               BYTES - - X
+                 SDB - - X

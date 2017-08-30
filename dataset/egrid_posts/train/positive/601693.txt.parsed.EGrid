@@ -1,0 +1,16 @@
+            IFCONFIG X X - - X -
+           INTERFACE S - - - O -
+             ADDRESS O - - - - -
+                 DNS - O - - - -
+               THERE - S - - S -
+                PART - O - - - -
+                  LO - - X - - -
+      ADDR:127.0.0.1 - - O - - -
+             OPENDNS - - X - - -
+             NETWORK - - X - - -
+            SETTINGS - - X - - -
+                ETH0 - - - - O -
+                WIRE - - - - X -
+              OUTPUT - - - - X -
+             CONTENT - - - - - X
+    /ETC/RESOLV.CONF - - - - - X

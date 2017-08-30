@@ -1,0 +1,15 @@
+           APT-CACHE X - -
+              POLICY S - -
+         HEADKASE314 O - -
+             TROUBLE S - -
+                 PPA O S S
+           PPA-PURGE X - -
+             COMMAND - X -
+      RICOTZ/TESTING - X -
+             PACKAGE - X -
+                LIST - O -
+              SYSTEM - - X
+                   > - - X
+      ADMINISTRATION - - X
+            SOFTWARE - - X
+             SOURCES - - X

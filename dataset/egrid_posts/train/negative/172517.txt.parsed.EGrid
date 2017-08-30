@@ -1,0 +1,15 @@
+               XMESS O - - -
+            EMULATOR X - - -
+               ERROR X - - -
+             MESSAGE X - - -
+             GLERROR S - - -
+              OPENGL X - - -
+             LIBRARY X - - -
+            LIBGL.SO O - O -
+                   U - S X -
+                CARD - X - -
+             DRIVERS - O - -
+              NVIDIA - - X -
+              DRIVER - - S -
+             APT-GET - - X -
+               64BIT - - - X

@@ -1,0 +1,24 @@
+                WIRE X - - - -
+             NETWORK X - X - -
+          EVERYTHING O - - - O
+             MACHINE X - - - -
+                  IM S - - - -
+                 MAC O - - - -
+            WIRELESS S - - - -
+                WORK O - - - -
+                ICON O - - O -
+             PROBLEM S - - - -
+                FILE X - S - -
+/ETC/NETWORK/INTERFACES O - - - -
+                LINE X - - - -
+                AUTO X - - - -
+                  LO S - - - -
+                INET X - - - -
+            LOOPBACK O - - - -
+                 USE - X - - -
+      WPA_SUPPLICANT - O - - -
+             MANAGER - - O - -
+          INTERFACES - - O - -
+          SUGGESTION - - - X -
+                 PPA - - - - X
+NETWORK-MANAGER/TRUNK - - - - X

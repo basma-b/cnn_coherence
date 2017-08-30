@@ -1,0 +1,21 @@
+              KERNEL O - - - - - - - - - -
+              OUTPUT S - - - - - - S - - -
+/LIB/MODULES/2.6.38-11-GENERIC-PAE/KERNEL/DRIVERS/FOLDERNAME/ X - - - - - - - - - -
+          FOLDERNAME - S - - - - - - - - -
+                NAME - O - - - - - - - - -
+                PATH - - O - - - - - - - -
+/LIB/MODULES/2.6.38-11-GENERIC-PAE/MODULES.ORDER - - X - - - - - - - -
+                THAT - - - X - - - X - - -
+              MODULE - - - S X - - - - - -
+                LOAD - - - O - - - - - - -
+                FILE - - - - - - O - - - -
+               THERE - - - - - - X - - - -
+   /USR/LIB/MODULES/ - - - - - - X - - - -
+             COMPILE - - - - - - - X - - -
+            ANYTHING - - - - - - - O - - -
+                KIND - - - - - - - - O - -
+             COMMAND - - - - - - - - X - -
+                LIST - - - - - - - - O - -
+             MODULES - - - - - - - - X - -
+                 YES - - - - - - - - - - X
+            WIRELESS - - - - - - - - - - X

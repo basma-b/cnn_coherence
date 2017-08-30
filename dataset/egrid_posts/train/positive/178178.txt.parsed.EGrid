@@ -1,0 +1,13 @@
+                ROOT - X - X - - -
+               PRIVS - O - - - - -
+               PROBS - O - - - - -
+       MOUNTING/GRUB - X - - - - -
+             ANYHELP - X - - - - -
+        /ETC/SUDOERS - S - - - - -
+                  CD - O - - - X X
+             DEFAULT - - - X - - -
+                ALL= - - - X - - -
+                 ALL - - - X - - -
+                 USE - - - - - X O
+                 MWE - - - - - - S
+            IMPORANT - - - - - - O

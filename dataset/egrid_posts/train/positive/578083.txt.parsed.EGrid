@@ -1,0 +1,9 @@
+             ANYBODY S - - - -
+                ROOT X - - - -
+          FILESYSTEM O - - - -
+              KERNEL X S - X -
+                BOOT X O - - -
+           INITRAMFS - - S - -
+              INITRD - - X - -
+                LOAD - - O - -
+               FRESH - - - - O

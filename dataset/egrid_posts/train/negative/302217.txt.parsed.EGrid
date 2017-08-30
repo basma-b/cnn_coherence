@@ -1,0 +1,17 @@
+               CHECK S - - - -
+                 C++ X - - - -
+            COMPILER S - - - -
+                FLAG X - - - -
+                  .. O - - - -
+                   | X - - - -
+              ERRORS X - - - O
+             -WERROR X - - - -
+                   < S - - - -
+         ./CONFIGURE S - - - -
+             SYNERGY X - - - -
+             PACKAGE O - - - -
+          ESSENTIALS - O - - -
+               ERROR - O - - -
+            PASTEBIN - X - X -
+                   > - - - S -
+          DEPENDENCY - - - - X

@@ -1,0 +1,9 @@
+           PARTITION S O -
+               FDISK X S -
+           HARDDRIVE X - -
+                 YEP O - -
+              FORMAT O X -
+              CHANGE O - -
+            ANYTHING - O -
+               TABLE - X -
+                  .. - - O

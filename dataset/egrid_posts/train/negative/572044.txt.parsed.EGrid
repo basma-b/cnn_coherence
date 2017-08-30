@@ -1,0 +1,15 @@
+            QUESTION O - - - - -
+          RESOLUTION X - - - - -
+             COMMAND - X - - - -
+                TIME - - O - - -
+            PROGRESS - - O - - -
+           SEGFAULTS - - - S - -
+              STDERR - - - X - -
+               THERE - - - - S -
+               ERROR - - - - X -
+             MESSAGE - - - - O -
+            SEGFAULT - - - - O -
+             PROGRAM - - - - S -
+              STRACE - - - - - S
+              LTRACE - - - - - S
+            DEBUGGER - - - - - S

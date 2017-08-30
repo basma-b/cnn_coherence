@@ -1,0 +1,17 @@
+             COMMAND X - - - - -
+                  DD X - - - - -
+      IF=/DEV/RANDOM X - - - - -
+        OF=/DEV/SDA1 X - - - - -
+                DATA - - - O O -
+           PARTITION - - - X - -
+            /DEV/SDA - - - X - -
+               START - - - X - -
+                 END - - - X - -
+            HARDWARE - - - - X -
+                HTTP - - - - X -
+                SUDO - - - - X -
+             ADDUSER - - - - X -
+         NEWUSERNAME - - - - S -
+            PASSWORD - - - - O -
+                 ONE - - - - O -
+               CHEER - - - - - X

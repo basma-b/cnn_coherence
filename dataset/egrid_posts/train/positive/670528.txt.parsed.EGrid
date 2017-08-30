@@ -1,0 +1,15 @@
+           DIRECTORY X - - - -
+                 USE X - - - -
+               SAMBA X - - - -
+                 SSH X - - - -
+           SOMETHING - - O - -
+             NETWORK - - X - -
+               DRIVE - - X - -
+             WINDOWS - - X - -
+             SMB+SSH - - X - -
+                 VPN - - O - -
+                HELP - - X - -
+         SSHD_CONFIG - - X - -
+               WHILE - - X - -
+              DAEMON - - X - -
+                USER - - - X X

@@ -1,0 +1,12 @@
+            VARIABLE X S - -
+           LOCATIONS O - - -
+           LIBRARIES X - - -
+              CHANGE - O - -
+                 LIB - S - -
+      /USR/LOCAL/LIB - X - -
+            LDCONFIG - O - -
+       RELATIONSHIPS - O - -
+     /ETC/LD.SO.CONF - - S -
+                LOOK - - - O
+              THANKS - - - X
+               TRICK - - - O

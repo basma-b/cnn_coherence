@@ -1,0 +1,14 @@
+                TIME - X - - - -
+            TERMINAL - O - X - -
+                 SSH - X - - - -
+                HOST - X - - - -
+               ORDER - S - - - -
+                 APP - O X - - -
+          CONNECTION - S - - - -
+                 PID - - O - - -
+               CHILD - - - X - -
+              OUTPUT - - - O - -
+             UTILITY - - - - X -
+                CALL - - - - X -
+              SCREEN - - - - X -
+                WINE - - - - - X

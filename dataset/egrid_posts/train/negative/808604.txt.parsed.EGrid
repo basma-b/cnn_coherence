@@ -1,0 +1,14 @@
+               FSTAB X - X - - - -
+          FILESYSTEM - X - - - - -
+               POSIX - X - - - - -
+         PERMISSIONS - O - - X - -
+            RESEARCH - - - X - - -
+                 GID - - - S - - -
+                FILE - - - O - - X
+               FLASH - - - X - - -
+               DRIVE - - - X - - -
+               GID=0 - - - - S - -
+            ANYTHING - - - - O - -
+           OWNERSHIP - - - - X - -
+             PACKAGE - - - - - - X
+                LIST - - - - - - X

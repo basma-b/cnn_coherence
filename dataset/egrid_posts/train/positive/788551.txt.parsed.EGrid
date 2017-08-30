@@ -1,0 +1,27 @@
+               THERE - X - - - - -
+                 WAY - X - - - - -
+             DEFAULT - X - - - - -
+              WINDOW - X - - - - X
+              BORDER - O - - - - -
+                   X - X - - - - -
+              BUTTON - O - - - - -
+               RIGHT - X - - - - -
+               LEAVE - X - - - - -
+        GCONF-EDITOR - - X - - - -
+             VERSION - - S - - - -
+         GCONFTOOL-2 - - S - - - -
+                 SET - - X - - - -
+/APPS/METACITY/GENERAL/BUTTON_LAYOUT - - S - - - -
+                TYPE - - X - - - -
+              STRING - - X - - - -
+                MENU - - S - - - -
+                LOOK - - O - - - -
+                BITE - - X - - - -
+             METALIC - - - X - - -
+         ORANGE/DARK - - - X - - -
+                NAME - - - - O - -
+                SKIN - - - - X - -
+            METACITY - - - - - - S
+             MANAGER - - - - - - O
+          APPEARANCE - - - - - - S
+GNOME-APPEARANCE-SETTINGS - - - - - - O

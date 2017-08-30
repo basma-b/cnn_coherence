@@ -1,0 +1,19 @@
+               THERE - X - - - - - - -
+                 CLI - X - - - - - - -
+           INTERFACE - X - - - - - - -
+      NETWORKMANAGER - X - - - O - - -
+                 ONE - - S - - - - - -
+                  VI - - X - - - - - -
+/ETC/NETWORK/INTERFACES - - X - - - - - -
+/ETC/INIT.D/NETWORKING - - S - - - - - -
+              UBUNTU - - - X - - - - -
+                 GUI - - - X - - - - -
+            GRAPHICS - - - - - X - - X
+              DRIVER - - - - - O - - -
+               ORDER - - - - - S - - -
+                XORG - - - - - S - - -
+             CATCH22 - - - - - S - - -
+                 HUH - - - - - - - X -
+             DRIVERS - - - - - - - - X
+             NETWORK - - - - - - - - X
+             MANAGER - - - - - - - - X

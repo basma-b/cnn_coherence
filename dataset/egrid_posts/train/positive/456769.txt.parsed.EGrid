@@ -1,0 +1,10 @@
+                 HEY X - -
+                PORT X - -
+                /DEV X - -
+               LSUSB - X -
+             DEVICES - X -
+                 SAY - S -
+/PROC/BUS/USB/DEVICES - O -
+                FILE - X -
+           DIRECTORY - X -
+               LSDEV - - X

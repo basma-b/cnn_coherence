@@ -1,0 +1,12 @@
+                 APP X - S - - -
+              SCREEN X - - - - -
+                SHOW X - - - - -
+             MONITOR X - - - - -
+                 USE - - - X - -
+            PAM_UNIX - - - O - -
+            PASSWORD - - - S - -
+            NSSWITCH - - - - S -
+                FILE - - - - O -
+                 YEP - - - - - X
+              SHADOW - - - - - X
+              PASSWD - - - - - X

@@ -1,0 +1,13 @@
+                9.10 O - - X - -
+                 USE - X - - - -
+              FRIEND - X - - - -
+            DATABASE - X - - - -
+            FIREWALL - - - X - -
+            DASHAVOO - - - - X -
+                 UFW - - - - S -
+             DEFAULT - - - - X -
+           FRONT-END - - - - X -
+            IPTABLES - - - - X -
+                   < - - - - - X
+                   > - - - - - O
+                HEAD - - - - - X

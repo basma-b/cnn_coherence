@@ -1,0 +1,14 @@
+          READ-WRITE O - - - - - -
+                FILE X - - - - - -
+              SYSTEM X - - - - - -
+           /DEV/SCD0 - S - - X - -
+          PERMISSION - - X - - - -
+                  CD - - - X S - -
+          READ/WRITE - - - O - - -
+                RAID - - - X O - -
+              DEVICE - - - X - - -
+                 LZZ - - - - O - -
+                NAME - - - - X - -
+             GPARTED - - - - X - X
+                 TRY - - - - O - -
+               CDROM - - - - - - O

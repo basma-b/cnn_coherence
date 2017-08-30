@@ -1,0 +1,22 @@
+              SOURCE X - - - -
+               LOGIN X - - - -
+            TERMINAL X - - - -
+/ETC/APT/SOURCES.LIST - O X - -
+               BEGIN - O - - -
+                LINE - X - - -
+                FILE - O S - -
+             APT-GET - X - - -
+              UPDATE - O - - -
+                NANO - - X - -
+      SOURCES.LIST.D - - X - -
+                LINK - - - - X
+                 ALL - - - - O
+                TYPE - - - - X
+              SIGNAL - - - - S
+               ORDER - - - - X
+              NUMBER - - - - X
+               GUESS - - - - O
+             PROGRAM - - - - X
+              AUTHOR - - - - S
+                KILL - - - - X
+              ALBERT - - - - S

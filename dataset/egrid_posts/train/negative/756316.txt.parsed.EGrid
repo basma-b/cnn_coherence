@@ -1,0 +1,19 @@
+               10.04 X - - - - - - - -
+                 LAB X - - - - - - - -
+             MACHINE S - X - - - - - -
+                LOAD X O - - - - - - -
+         PULSE-AUDIO O - - - - - - - -
+          BACKGROUND - X - - - - - - -
+                LOOP - X - - - - - - -
+GETSESSIONSFORUNIXUSER - - S - - - - - -
+             PROGRAM - - X - - O - - -
+/LIB/DBUS-1.0/DBUS-DAEMON-LAUNCH-HELPER - - O - - - - - -
+             SUCCESS - - S - - - - - -
+             CHIPSET - - O - - - - - -
+               LSPCI - - - S - - - - -
+             APT-GET - - - - - S - - -
+           NTFSPROGS - - - - - S - - -
+                TYPE - - - - - X - - -
+                SUDO - - - - - X - - -
+           MKFS.NTFS - - - - - X - O X
+             MANPAGE - - - - - - - - X

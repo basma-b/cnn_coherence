@@ -1,0 +1,8 @@
+             INITTAB O - - -
+                BOOT - X - -
+             MANAGER - S - -
+            RUNLEVEL - O - -
+             DEFAULT - X - -
+              CONFIG - X - -
+              SYSTEM - - O -
+                 WAY - - - X

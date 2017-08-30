@@ -1,0 +1,10 @@
+             COMMAND X - - -
+              SYSLOG O - - -
+                TEXT X - - -
+              STRING X - - -
+                 FOO X - - -
+       /PATH/TO/FILE X - - -
+   /ETC/DEFAULT/GRUB X - - -
+                SUDO X - - -
+         UPDATE-GRUB X - - -
+             APT-GET - - S -

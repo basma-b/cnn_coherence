@@ -1,0 +1,14 @@
+             ANYBODY S - - - - -
+                THIS O - - - - -
+                SUDO X - - - - -
+            WRITABLE S - - - - -
+           NON-OWNER X - - - - -
+                MODE O - - - - -
+             DEFAULT - - X - - -
+         PERMISSIONS - - S - - -
+                IDEA - - X - - -
+           DIRECTORY - - X - - -
+              OUTPUT - - - O - -
+      /VAR/LIB/SUDO/ - - - X - X
+                DRWX - - - - - X
+                ROOT - - - - - X

@@ -1,0 +1,14 @@
+           EVERYBODY X - - - - - - - - - -
+              UBUNTU O O - - - - - - - - -
+               VISTA X X - - - - - - - - O
+          BOOTLOADER X - - - - - - - - - X
+                GRUB - S - - O - - - - - O
+                 MBR - X - - - - X X X - X
+              SECTOR - X - - - - - - - - -
+                ROOT - X - X - X - - - - -
+           PARTITION - X - X - X - - - - -
+                THAT - - - S - - - - - - X
+               BLOCK - - - X - - - - - - -
+                BOOT - - - X - - - - - - X
+             COMMAND - - - - - S - - - - -
+       /DEV/WHATEVER - - - - - O - - - - -

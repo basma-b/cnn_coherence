@@ -1,0 +1,17 @@
+             NETWORK X - X -
+             MANAGER X - S -
+             COMMAND X - - -
+                LINE X - - -
+             SERVICE - X - -
+              RETURN - X - -
+                THAT - - S -
+          INTERFACES - - O -
+/ETC/NETWORK/INTERFACES - - X -
+              DOESNT - - S -
+                  NO - - O -
+                   X - - X -
+                SUDO - - X -
+          WLAN0/ETH0 - - S -
+                DHCP - - O -
+               LOGIN - - - X
+              SCREEN - - - X

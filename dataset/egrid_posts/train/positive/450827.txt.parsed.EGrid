@@ -1,0 +1,11 @@
+                 ATI X - - -
+                 IXP S - - -
+              ALC250 X - - -
+          0XF0000400 X - - -
+              DEVICE O - - O
+   /DEV/MYSOUNDEVICE - - O -
+            /DEV/DSP - - S -
+          PULSEAUDIO - - X -
+             PROCESS - - X S
+               PULSE - - - X
+               AUDIO - - - X

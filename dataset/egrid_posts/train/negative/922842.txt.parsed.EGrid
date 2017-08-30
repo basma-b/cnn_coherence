@@ -1,0 +1,14 @@
+           PARTITION O - - - -
+               DRIVE X - - - -
+             WINDOWS X - - - -
+              UBUNTU X - - - -
+           INSTALLER - S - - -
+               FSTAB - X - - -
+               USERS - S - - -
+         PERMISSIONS - O - - -
+            DEFAULTS - - X - -
+                  RW - - X - -
+                USER - - X - -
+                HTTP - - - X -
+        AUTOMOUNTFAT - - - X -
+                  OK - - - - X

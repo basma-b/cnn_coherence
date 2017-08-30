@@ -1,0 +1,9 @@
+           PARTITION X - - -
+              FORMAT X S - -
+                 EFI X - - -
+          BOOTLOADER X - - -
+                   * - S - -
+             DRIVERS - X - -
+                CRON - - X -
+          TIMESTAMPS - - O -
+             MANPAGE - - - O

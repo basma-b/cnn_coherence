@@ -1,0 +1,35 @@
+         PERMISSIONS O - - - - S - - - S - - - -
+                 K3B X - - S - X - - - - - - - -
+                ROOT X - - X - - - - - - - - - -
+                USER X - - - - - - - - - - - - -
+             KDEINIT - O - - - - - - - - - - - -
+            ABORTING - X - - - - - - - - - - - -
+                BIND - - S - - - - - - - - - - -
+          PERMISSION - - X - - - - - - - - - - -
+              SOCKET - - X - - - - - - - - - - -
+               ERROR - - X - - - - - X - - - - -
+  KUNIQUEAPPLICATION - - X - - - - - - - - - - -
+               SETUP - - X - - - - - - - - - - -
+       COMMUNICATION - - O - - - - - - - - - - -
+             PROGRAM - - - S - - - - - - - - - -
+              ERRORS - - - - X - - - - - X - - -
+/HOME/MOUSER/.KDE/SOCKET-MOUSER-DESKTOP/KDEINIT__0 - - - - - S - - - - - - - -
+             CHANNEL - - - - - X - - - - - - - -
+                LIST - - - - - O - - - - - - - -
+          DCOPSERVER - - - - - O X - - - - - - -
+                THIS - - - - - X - - - - - - - -
+/ETC/INIT.D/DCOPSERVER - - - - - S - - - - - - - -
+                  OK - - - - - - X - - - - - - -
+                WORK - - - - - - O - - - - - - -
+                 YEA - - - - - - X - - - - - - -
+                HARM - - - - - - O - - - - - - -
+                PILE - - - - - - - - X - - - - -
+             WINDOWS - - - - - - - - X - - - - -
+                GIST - - - - - - - - - X - - - -
+                FILE - - - - - - - - - - S S - -
+       CONFIGURATION - - - - - - - - - - X - - -
+/HOME/MOUSER/.KDE/SHARE/CONFIG/K3BRC - - - - - - - - - - - X - -
+                 CAT - - - - - - - - - - - X - -
+           DIRECTORY - - - - - - - - - - - S - -
+               CHECK - - - - - - - - - - - X - -
+/HOME/MOUSER/.KDE/SHARE/CONFIG - - - - - - - - - - - X - -

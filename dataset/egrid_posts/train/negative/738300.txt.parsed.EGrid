@@ -1,0 +1,8 @@
+              DRIVER S - - - S - - - - - -
+                FILE X - - - X - - - - - -
+           DIRECTORY X - - - X - - - - - -
+    BUILD-ESSENTIALS - - - X - - - - - - -
+              KERNEL - - - X - - - - X - -
+             HEADERS - - - X - - - - X - -
+   LINUX-HEADERS-386 - - - - - - - - X - -
+                 YES - - - - - - - - - - X

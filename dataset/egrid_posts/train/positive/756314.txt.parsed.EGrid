@@ -1,0 +1,9 @@
+                LIST X - - -
+           BOOTABLES X - - -
+               GRUB2 X - - -
+   /ETC/DEFAULT/GRUB - X - -
+             OPTIONS - - O -
+                DONT - - - S
+                 ONE - - - O
+                FILE - - - X
+         /ETC/GRUB.D - - - X

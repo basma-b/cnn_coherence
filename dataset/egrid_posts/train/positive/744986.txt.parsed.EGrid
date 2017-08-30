@@ -1,0 +1,11 @@
+          WINETRICKS O - -
+           VCRUN2005 O - -
+                HTTP X - -
+                 PPA O X -
+     UBUNTU-WINE/PPA X - -
+             PACKAGE O - -
+          WINEPREFIX - - O
+             COMMAND - - X
+                LINE - - X
+                 GUI - - X
+              OPTION - - O

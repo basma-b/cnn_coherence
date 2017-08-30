@@ -1,0 +1,26 @@
+                TYPE S - - - -
+            TERMINAL X - - - -
+                USER X - - - -
+             APT-GET S - - - -
+             READING X - - - -
+             PACKAGE X - X - -
+                LIST O - X - -
+                  .. - O - - -
+          DEPENDENCY - X - - -
+                TREE - X - - -
+                   W - - O - -
+                STAT - - S - -
+              SOURCE - - X - -
+                HTTP - - X - -
+     BREEZY/UNIVERSE - - X - -
+            PACKAGES - - X - -
+/VAR/LIB/APT/LISTS/US.ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_BREEZY_UNIVERSE_BINARY-I386_PACKAGES - - X - -
+                  NO - - X - -
+                FILE - - X - -
+           DIRECTORY - - X - -
+BREEZY-BACKPORTS/MAIN - - X - -
+/VAR/LIB/APT/LISTS/US.ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_BREEZY-BACKPORTS_MAIN_BINARY-I386_PACKAGES - - X - -
+/VAR/LIB/APT/LISTS/US.ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_BREEZY-BACKPORTS_RESTRICTED_BINARY-I386_PACKAGES - - X - -
+              /TOPIC - - O - -
+       SHOUTCAST.COM - - X - -
+           DONATIONS - - - - X

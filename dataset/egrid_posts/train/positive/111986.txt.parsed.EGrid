@@ -1,0 +1,16 @@
+                 ISO X - - - -
+               CDROM X - - - -
+                 CAT - X - - -
+            /DEV/HDA - S - - -
+               ERROR - X - - -
+                 USE - O - - -
+                  DD - X O - -
+                   > - X - - -
+              CD.ISO - X - - -
+               WHILE - - X - -
+                  .. - - O - X
+         IF=/DEV/HDA - - X - -
+           OF=CD.ISO - - S - -
+                PART - - X - -
+                 WAY - - O - -
+              SECOND - - - X -

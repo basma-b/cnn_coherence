@@ -1,0 +1,13 @@
+/USR/LIB32/LIBBZ2.SO.1 O - - - - -
+               64BIT X - - - - -
+/USR/LIB32/LIBBZ2.SO.1.0 X - X - - -
+                SAME X - - - - -
+            EVERYONE X - - - - -
+                 BUG X - - - - -
+                   > - - S - - -
+                ROOT - - O - - -
+               THERE - - - X S -
+                  .. - - - X O -
+    /LIB/LIBBZ2.SO.1 - - - - - S
+                LINK - - - - - O
+/LIB/LIBBZ2.SO.1.0.4 - - - - - X

@@ -1,0 +1,8 @@
+             ANYBODY X - - -
+             COMMAND X - - -
+                IPV6 X O - -
+                9.04 X - - -
+                SUDO - S - -
+/PROC/SYS/NET/IPV6/CONF/ALL/AUTOCONF - S - -
+    /ETC/SYSCTL.CONF - - - X
+NET.IPV6.CONF.ALL.AUTOCONF - - - S

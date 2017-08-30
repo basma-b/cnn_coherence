@@ -1,0 +1,15 @@
+               SAMBA X - -
+             PACKAGE S - -
+    3.0.7-1UBUNTU6.2 O - -
+                SWAT S - -
+SAMBA=3.0.7-1UBUNTU6 X - -
+             COMMENT O - -
+                FILE O - -
+              WEBMIN - X X
+                WORK - X -
+            TREENAKS - X -
+                TRUE - X -
+               START - - X
+                 MMM - - X
+             INSTALL - - O
+             SERVICE - - X

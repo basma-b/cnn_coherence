@@ -1,0 +1,13 @@
+                   $ S - -
+                LOOP X - -
+/HOME/DHQ/DHQSTUFF/PIRATES/PIRATES.BIN O - -
+            /DEV/DHQ X - -
+               IOCTL O - -
+         LOOP_CLR_FD O - -
+              DEVICE X - -
+            RESOURCE S - -
+                BUSY S - -
+          FILESYSTEM X - -
+                TYPE S - -
+                AUTO O - -
+               AMD64 - - X

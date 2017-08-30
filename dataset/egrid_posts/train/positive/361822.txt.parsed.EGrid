@@ -1,0 +1,11 @@
+                GRUB X X - - -
+                BOOT O O - - -
+           PARTITION X X - - -
+              OPTION - O - - -
+             STARTUP - X - - -
+                MENU - X - - -
+               THERE - X - - -
+                THIS - - X - -
+                /ETC - - - X -
+              SECOND - - - X -
+ /BOOT/GRUB/MENU.LST - - - - X

@@ -1,0 +1,13 @@
+               DRIVE S - - - -
+              FORMAT X - - - -
+                EXT3 O - - - -
+               CHMOD O - X - -
+             NOTHING - O - - -
+               FSTAB - X - - -
+                ROOT - X - - -
+          PRIVLEDGES - O - - -
+               ALARM - - - - X
+                PLAY - - - - O
+             MORNING - - - - X
+               LOGIN - - - - X
+              SCREEN - - - - X

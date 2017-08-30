@@ -1,0 +1,6 @@
+           PARTITION O - -
+             WINDOWS S S -
+             GPARTED O - -
+                NTFS X - -
+                SDB1 - S -
+                  .. - - X

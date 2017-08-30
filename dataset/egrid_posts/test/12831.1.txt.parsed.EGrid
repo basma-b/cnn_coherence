@@ -1,0 +1,20 @@
+                 THE O - - -
+               ENTRY O - - -
+          /ETC/FSTAB X - - -
+               ERROR O - - S
+                ROOT S - - -
+                LINE O - - -
+/ORG/FREEDESKTOP/UDISKS/DEVICES/SDA2 X - - -
+/MEDIA/WINDOWSPARTITION X - - -
+               PLACE O - - -
+               FSTAB X X - -
+                THAT - S - -
+                USER - X - -
+              OPTION - S - -
+               USERS - S - -
+          FILESYSTEM - O - -
+               MOUNT - - - S
+                THIS - - - O
+                EXIT - - - O
+                CODE - - - X
+              HELPER - - - S

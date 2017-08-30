@@ -1,0 +1,15 @@
+                LIST X - -
+           PARTITION X - -
+                GRUB O - -
+                SDA6 X - -
+             COMMAND X - -
+                ROOT O - -
+               HD0,0 X - -
+                  .. - O -
+               HD0,6 - X -
+            CHECKING - O -
+   /BOOT/GRUB/STAGE1 - S -
+        /GRUB/STAGE1 - S -
+          EVERYTHING - O -
+                 SEC - X -
+               ERROR - - X

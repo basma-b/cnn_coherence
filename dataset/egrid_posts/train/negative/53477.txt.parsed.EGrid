@@ -1,0 +1,8 @@
+                ARGH S - - -
+          SND_ATIIXP X - - -
+          PCI=NOAPCI - X - -
+                BOOT - X X -
+ /BOOT/GRUB/MENU.LST - - S -
+                HTTP - - - X
+             PACKAGE - - - X
+             MANAGER - - - X

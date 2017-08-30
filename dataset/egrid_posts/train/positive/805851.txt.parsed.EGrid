@@ -1,0 +1,13 @@
+              RECORD O - - - - - -
+    FILES.DOMAIN.COM O - S - - - -
+SERVER02.DOMAIN.COM/FILESERVER X - - - - - -
+                THIS X - - - - - -
+              APACHE X - - X - - -
+                GOAL - X - - - - -
+              SERVER - - X - - - -
+                FILE - - O - - - -
+         /FILESERVER - - X - - - -
+               VHOST - - - O X - -
+        DOCUMENTROOT - - - O - - -
+             EXAMPLE - - - - - - O
+                 SEC - - - - - - S

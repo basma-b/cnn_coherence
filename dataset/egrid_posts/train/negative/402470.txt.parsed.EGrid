@@ -1,0 +1,22 @@
+               MIXER O - - - - -
+                WORK O - - - - -
+                USER X - - - - -
+                THIS S - - - - -
+              ISSUSE O - - - - -
+                TYPE O - - X - -
+                CARD X - - - - -
+             REALTEK - S - - - -
+             COMMAND - X - - - -
+                LINE - S - - - -
+             FRIENDS - - X - - -
+         ./CONFIGURE - - - S - -
+WITH-CARDS=HDA-INTEL - - - X - -
+                SUDO - - - S - -
+               CODEC - - - S - -
+            HARDWARE - - - X - -
+        MANUFACTURER - - - X - -
+               INTEL - - - X - -
+                 HDA - - - X - -
+                SPEC - - - X - -
+               QUIRK - - - O - -
+                 THX - - - - - X

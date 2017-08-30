@@ -1,0 +1,22 @@
+                THAT X X - - - - - -
+             MONITOR O - - - - - - -
+             SESSION - - - X O - - -
+              ANYONE - - - S - - - -
+               ERROR - - - X - - - -
+             MESSAGE - - - O - - - -
+              ERRORS - - - X - - - -
+               ERORR - - - - X - - -
+     XSESSION-ERRORS - - - - S - - -
+/ETC/GDM/PRESESSION/DEFAULT - - - - O - - -
+                WTMP - - - - X - - -
+                   U - - - - X - - -
+                 TMP - - - - X - - -
+/ETC/GDM/PRESESSION/DEFAULT/RUNNING - - - - X - - -
+   /ETC/GDM/XSESSION - - - - X - - -
+           BEGINNING - - - - X - - -
+               SETUP - - - - X - - -
+               XVNKB - - - - X - - -
+                CORE - - - - X - - -
+      XVNKB.SO.0.2.9 - - - - X - - -
+                 ALL - - - - S - - -
+               DMESG - - - - - - - X

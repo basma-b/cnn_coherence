@@ -1,0 +1,21 @@
+             ADDRESS X - - - -
+                  .. X - - - -
+              ANYONE S - - - -
+                BOOT X - - - -
+                  IP - O - - -
+           INTERFACE - X - - -
+                DHCP - O - - -
+              REASON - X - - -
+             NETWORK - X X - -
+                ETH1 - S X - -
+            10.0.0.1 - X - - -
+                CARD - O - - -
+                LIST - X - - -
+/ETC/DEFAULT/DHCP3-SERVER - X X - -
+              SYSTEM - - X - -
+         PREFERENCES - - S - -
+         CONNECTIONS - - O - -
+         INTERFACES= - - O - -
+/ETC/NETWORK/INTERFACES - - O - -
+                HTTP - - - - X
+//PASTE.UBUNTU.COM/235077/ - - - - X

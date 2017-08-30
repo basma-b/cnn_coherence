@@ -1,0 +1,8 @@
+/ETC/APT/SOURCES.LIST X - -
+               CHECK X - -
+/ETC/APT/SOURCE.LIST.D/ X - -
+             PACKAGE O - -
+             PROBLEM - - O
+          CONNECTION - - X
+               LINUX - - S
+            INTREPID - - X

@@ -1,0 +1,18 @@
+             PACKAGE X O O O - -
+              SOURCE X - - - - -
+             RELEASE X - - - - -
+             UPGRADE - X - - - -
+             PHP5-GD - - S - - -
+/VAR/LIB/APT/LISTS/US.ARCHIVE.UBUNTU.COM_UBUNTU_DISTS_KARMIC-UPDATES_MAIN_BINARY-I386_PACKAGES - - X - - -
+              ANYONE - - S - - -
+                IDEA - - O - - -
+               THERE - - - S - -
+             VERSION - - - O - -
+             COMMAND - - - O - -
+           SOMETHING - - - O - -
+                DPKG - - - X - O
+      SET-SELECTIONS - - - X - O
+                HOLD - - - X - -
+                 PIN - - - - X -
+                   * - - - - - O
+                   | - - - - - X

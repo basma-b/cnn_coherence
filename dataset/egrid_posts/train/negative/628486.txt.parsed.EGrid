@@ -1,0 +1,23 @@
+             PROGRAM S - - - - - - - -
+                MODE O - X S X X - - -
+            APPARMOR X - - - - - - - -
+                HTTP - X - X - X - - -
+//PASTEBIN.UBUNTU.COM/283326/PLAIN/ - X - - - - - - -
+                NTPD - - X - - - - - -
+                LINK - - - X - - - - -
+//PASTEBIN.UBUNTU.COM/283326/ - - - S - X - - -
+              WONDER - - - S - - - - -
+                BOOT - - - - X - - - -
+          BOOTSPLASH - - - - X - - - -
+               PASTE - - - - - S - - -
+      /USR/SBIN/NTPD - - - - - S - - -
+                TIME - - - - - - X - -
+                THAT - - - - - - S - -
+             NETWORK - - - - - - X - -
+                SYNC - - - - - - X - -
+             SERVICE - - - - - - X - -
+               RIGHT - - - - - - O - -
+                  IM - - - - - - - - S
+                SDA4 - - - - - - - - X
+          MEDIA/DISK - - - - - - - - O
+               USERS - - - - - - - - X

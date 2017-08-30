@@ -1,0 +1,23 @@
+                 HMM X - - - - - -
+               IDEAS X - - - - - -
+          CRON.DAILY S - - - - - -
+           LOGROTATE X S - - - - -
+              SCRIPT X - - - - - -
+  /VAR/LOG/MYSQL.LOG X - - - - - -
+/VAR/LOG/MYSQL/MYSQL.LOG X - - - - - -
+/VAR/LOG/MYSQL/MYSQL-SLOW.LOG X - - - - - -
+              SYSTEM - X - - - - -
+                 OLD - S - - - - -
+                 LOG - O - - - - -
+               EMAIL - X - - - - -
+            SNIPPETS - O - - - - -
+                FILE - X - - X - -
+             CLEANUP - - O - - - -
+                THAT - - - - S - -
+                  .. - - - - S - -
+               LOG.1 - - - - X - -
+                 ALL - - - - S - -
+                SIZE - - - - O - -
+               THERE - - - - S - -
+               ISSUE - - - - O - -
+           PARTITION - - - - - - X

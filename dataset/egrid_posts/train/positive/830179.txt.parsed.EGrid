@@ -1,0 +1,14 @@
+GNOME-APPEARANCE-PROPERTIES X - -
+               CLAIM S - -
+GNOME-CONTROL-CENTER X - -
+               PURGE X - -
+              UPDATE X - -
+             PACKAGE S - -
+             COMMAND X - -
+/USR/BIN/GNOME-APPEARANCE-PROPERTIES X - -
+                HELP X - -
+            UBUNTU+1 - X -
+             CHANNEL - O -
+         DEVELOPMENT - X -
+             RELEASE - X -
+                   K - - X

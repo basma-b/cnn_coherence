@@ -1,0 +1,17 @@
+              SCRIPT S - - - - - - - - - -
+             ENV.VAR X - - - - - - - - - -
+                CRON X - - - - S - - - - -
+                   # - X - - - - - - - - -
+                LINE - - X - X - - - - - -
+                SUDO - - - X - - - - - - -
+/ETC/REFRESH_UIPTABLES_RULES.PY - - - O - - - - - - -
+                 RUN - - - - - S - - - - -
+        /ETC/CRONTAB - - - - - X - X X - -
+                IDEA - - - - - - O - - - -
+         PERMISSIONS - - - - - - - X - - -
+                /ETC - - - - - - - X X - -
+            /CRONTAB - - - - - - - - X - -
+               -RW-R - - - - - - - - X - -
+                   R - - - - - - - - X - -
+               OWNER - - - - - - - - X - -
+                EACH - - - - - - - - X - -

@@ -1,0 +1,13 @@
+           DIRECTORY O - -
+            /WINDOWS X S -
+             DEFAULT O - -
+           UMASK=007 O - -
+             WINDOWS X - -
+           PARTITION O - -
+               BLKID O - -
+            TERMINAL X - -
+                UUID S - -
+UUID=MYWINDOWSPARITION X - -
+                FILE X - -
+               MKDIR - X -
+               CLICK - - X

@@ -1,0 +1,14 @@
+            IPTABLES X - - - -
+           IP6TABLES X - - - -
+                RULE O - - - -
+              REBOOT X - - - -
+              UBUNTU X X - - -
+            MANPAGES - S - - -
+       IPTABLES-SAVE - X - - -
+    IPTABLES-RESTORE - X - - -
+              DAEMON - O - - -
+                BOOT - X - - -
+       DISTRIBUTIONS - X - - -
+          DIRECTIVES - - - X -
+/ETC/NETWORK/INTERFACES - - - X -
+                THNX - - - - X

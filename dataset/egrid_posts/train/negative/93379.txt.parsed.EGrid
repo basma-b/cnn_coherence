@@ -1,0 +1,11 @@
+                .DEB O - - - - -
+              TAR.GZ X - - - - -
+                   E - X - - - -
+               A.DEB - O - - - -
+                 RPM - X - - - -
+             PACKAGE - - X - - -
+PREFIX=/PATH/TO/WHATEVER - - - - X -
+                MORE - - - - O -
+             OPTIONS - - - - O -
+         ./CONFIGURE - - - - - X
+                HELP - - - - - X

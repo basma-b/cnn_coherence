@@ -1,0 +1,9 @@
+           STRUCTURE X - - -
+           PARTITION X - - -
+          USER-HOMES - S - -
+              FORMAT - X - -
+                EXT3 - X - -
+               ENTRY - O - -
+                STAB - X - -
+                 3.5 - - - X
+          DVD-DRIVES - - - S

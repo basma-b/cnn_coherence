@@ -1,0 +1,12 @@
+               CHMOD X - X
+                FILE X - -
+           DIRECTORY X - -
+                   | - X -
+         PATRICKAAAA - X -
+           WRITEABLE - X -
+              PUBLIC - X -
+                THIS - S -
+                A+RX - X -
+       /HOME/FOLDER/ - O -
+                  .. - - X
+              OUTPUT - - X

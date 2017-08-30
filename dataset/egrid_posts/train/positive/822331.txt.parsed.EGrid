@@ -1,0 +1,13 @@
+             COMMAND X - - - - -
+         PERIPHERALS X - - - - -
+                PORT X - - - - -
+             DEVICES X X - - - -
+               LSPCI - S - - - -
+                 PCI - X - - - -
+            RECEIVER - O - - - X
+                DOES - - X - - -
+                   < - - S - - -
+                   > - - O - - -
+              NUMBER - - X - - -
+                TTYS - - - - - O
+             COMCAST - - - - - X

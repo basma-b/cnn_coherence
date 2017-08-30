@@ -1,0 +1,13 @@
+              CHROOT S - - -
+               USERS S - - -
+                USER X - - -
+                MODE X - - -
+                ROOT X O - -
+              PASSWD O - - -
+                SUDO X S - -
+                 WAY - O - -
+                 USE - X - -
+                  SU - O - -
+            EVERYONE - - S -
+             CHANNEL - - - S
+                  AV - - - X

@@ -1,0 +1,12 @@
+             STARTUP X - - - -
+               DRIVE - O - - -
+                HOME - X - - -
+              FOLDER - X - - -
+               ENTRY - O - - -
+               MOUNT - - O - -
+               FSTAB - - O - -
+             COMMAND - - X - -
+                 ^^^ - - S - -
+               OWNER - - - - X
+               GROUP - - - - X
+              TARGET - - - - X

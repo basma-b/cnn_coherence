@@ -1,0 +1,14 @@
+              SOURCE O - - - -
+                LIST X - - - -
+                HTTP X X - - -
+                 FTP X - - - -
+                 DEB - X - - -
+               //FTP - X - - -
+               CHECK - - X - -
+                LINK - - S - -
+         PERMISSIONS - - X - -
+              CUSTOM - - - X -
+          PERMISSION - - - X -
+                RULE - - - O -
+/ETC/UDEV/PERMISSIONS.D/UDEV.PERMISSIONS - - - X -
+                FILE - - - X -

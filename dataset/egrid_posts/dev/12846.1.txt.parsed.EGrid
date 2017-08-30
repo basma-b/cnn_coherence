@@ -1,0 +1,20 @@
+                 MPD X - S X - - - -
+             CONCERN X - - - - - - -
+                WORK X - - - - - - -
+       CONFIGURATION - X - - - - - -
+              OUTPUT - S - X - - - -
+                ALSA - - X - - - - -
+             DEFAULT - - X - - - - -
+              DEVICE - - O - - - - -
+                SUDO - - X - - - - -
+             APT-GET - - X - - - - -
+        CONFIRMATION - - O - - - - -
+            FUNCTION - - X - - - - -
+               ISSUE - - X S - - - -
+          PULSEAUDIO - - - X - - - -
+               DEBUG - - - X - - - -
+           SOMETHING - - - - - O - -
+                THAT - - - - - - S -
+           ASSERTION - - - - - - S -
+PULSE/THREAD-MAINLOOP.C - - - - - - X -
+PA_THREADED_MAINLOOP_GET_API - - - - - - O -

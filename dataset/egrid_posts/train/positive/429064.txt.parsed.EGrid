@@ -1,0 +1,13 @@
+               PROXY X S -
+              SERVER X - -
+               THOSE O - -
+                SOCK - S -
+             CLIENTS - S -
+                 USE - S -
+                 DNS - O -
+            POSSIBLE - X -
+             REQUEST - O -
+             TCPDUMP - X -
+              CLIENT - X -
+             FIREFOX - S -
+               HASNT - S -

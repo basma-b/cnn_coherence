@@ -1,0 +1,13 @@
+          PERMISSION X - - -
+               DRIVE X - - X
+          /MEDIA/FOO - X - -
+                 OWN - X - -
+                USER - X - -
+               OWNER - O - -
+                GO+R - O - -
+               CHMOD - - S -
+               CHOWN - - S -
+              REASON - - X -
+             OPTIONS - - O -
+          /ETC/FSTAB - - X -
+               FSTAB - - - X

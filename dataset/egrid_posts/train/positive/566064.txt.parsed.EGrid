@@ -1,0 +1,16 @@
+                ACPI S - - - -
+                WORK O - - - -
+             DEFAULT - X - - -
+              SYSTEM - S - - -
+                SUDO - X - - -
+     /USR/SBIN/ACPID - S - - -
+      STARTUPMANAGER - X X - -
+            SHUTDOWN - X - - -
+             MESSAGE - O - - -
+             VERSION - - - O -
+            CHECKBOX - - - X -
+              OPTION - - - O -
+                 TAB - - - X -
+           SOMETHING - - - X -
+                TEXT - - - X -
+                BOOT - - - X -

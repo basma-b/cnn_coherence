@@ -1,0 +1,16 @@
+                TYPE X - - - - - - - - - -
+                SUDO X - - - - - - X - - -
+               BLKID O - - - - - - - - - -
+            TERMINAL X - - - - - - - - - -
+               FDISK X - - - - - - - - - -
+                SDA8 S - - - - - - - - - -
+               FAT32 O X - - - - - - - - -
+                EXT3 O - - - - - - - - - O
+           PARTITION - O X - - X - - - - -
+              EDITOR - S X - X O - X - - -
+              SYSTEM - - - - - S - - - - -
+                CANT - - - - - - - S - - -
+                  =/ - - - - - - - X - - -
+             APT-GET - - - - - - - S - - -
+            QTPARTED - - - - - - - O - - -
+                THAT - - - - - - - - X - -

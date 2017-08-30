@@ -1,0 +1,13 @@
+               USERS S - S - - - -
+               GROUP S - X - - - -
+              PASSWD X - - - - - -
+           INCLUSION O - - - - - -
+                 ONE S - - - - - -
+          /ETC/GROUP S - - - - - -
+                FILE - - X - - - -
+         /ETC/PASSWD - - X - - - -
+            CVSUSERS - - - S - - -
+             GROUPID - - - O - - -
+             VERSION - - - - X - -
+                LINK - - - - - X -
+                 MEE - - - - - X -

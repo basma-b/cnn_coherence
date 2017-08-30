@@ -1,0 +1,12 @@
+               MOUNT X - - - -
+             DEVICES X - - - -
+         FILESYSTEMS X - - - -
+               CHEER - S - - -
+         NTFS-CONFIG - - X - -
+                TOOL - - S - -
+             DEFAULT - - O - -
+                VFAT - - - X -
+                NTFS - - - X -
+                  .. - - - X -
+           NTFS/VFAT - - - - O
+                 ALL - - - - X

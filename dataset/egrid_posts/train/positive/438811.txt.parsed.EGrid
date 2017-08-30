@@ -1,0 +1,15 @@
+                FSCK X - - - - - - - -
+           PARTITION X O O - - - - - -
+               CHECK - O - - - O - O -
+                BOOT - - X - - - - - -
+              LIVECD - - X - - - - - -
+                MARK - - O X - - - - -
+               TUNEF - - O - X - - - -
+                TUNE - - X - - - - - -
+             TUNE2FS - - - - X X - - -
+            SHUTDOWN - - - - - O - - S
+                  -F - - - - - S - - O
+                TIME - - - - - - X - -
+               POWER - - - - - - X - O
+              BUTTON - - - - - - O - -
+                IDEA - - - - - - - - O

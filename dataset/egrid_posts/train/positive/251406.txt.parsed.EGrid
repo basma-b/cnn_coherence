@@ -1,0 +1,22 @@
+              ANYONE S - - - -
+              ADVICE O - - - -
+                 LVM X - - - -
+                EXT3 X - - - -
+           PARTITION X O - - -
+                 USE - X - - -
+           RESIZE2FS - O - - -
+                FILE - X - - -
+              SYSTEM - X - - -
+              VOLUME - X - - -
+               GROUP - X - - -
+                 HMM - X - - -
+              INSTAL - - X - -
+             E2FSADM - - - S -
+                LVM2 - - - X -
+              SEARCH - - - S -
+             PACKAGE - - - S -
+        INSTRUCTIONS - - - - O
+                HTTP - - - - X
+//TLDP.ORG/HOWTO/LVM-HOWTO/EXTENDLV.HTML - - - - X
+                THIS - - - - S
+//LISTS.ALIOTH.DEBIAN.ORG/PIPERMAIL/PKG-LVM-MAINTAINERS/2005-AUGUST/000174.HTML - - - - X

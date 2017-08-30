@@ -1,0 +1,14 @@
+              LOCALE O X - - -
+               PRINT S - - - -
+               ERROR X - - O -
+              LC_ALL S - - - -
+                FILE X - - - -
+           DIRECTORY X - - - -
+              ANYONE S - - - -
+               EN_GB - X - - -
+          LOCALE_ALL - - X - -
+             COMMAND - - - X O
+                DPKG - - - O -
+             LOCALES - - - S -
+             PACKAGE - - - X -
+               LIBC6 - - - - X

@@ -1,0 +1,9 @@
+                BIND X X -
+                 ENV X - -
+                /DEV - X -
+     /MNT/CHROOT/DEV - S -
+                NONE - O -
+              UPDATE - X -
+                  NP - X -
+                WORK - - S
+                  .. - - S

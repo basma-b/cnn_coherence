@@ -1,0 +1,12 @@
+             MESSAGE X - - - -
+                MAIL O - - - -
+             ANACRON X - - - -
+/ETC/INIT.D/SYSKLOGD S - - - -
+        /DEV/CONSOLE O - - X -
+          PERMISSION S - - - -
+              ANYONE - X - - -
+            INTREPID - - O - -
+              OPENVZ - - X - -
+               SLICE - - X - -
+         PERMISSIONS - - - X -
+               AUDIO - - - - O

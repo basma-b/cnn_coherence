@@ -1,0 +1,16 @@
+               CHMOD S - - - -
+          ./SERVICES O - - - -
+                 LOG - X - - -
+                ROOT - X - X X
+            SECURITY - - X - -
+             FEATURE - - X - -
+                USER - - - S S
+            ANYTHING - - - O -
+        APPLICATIONS - - - S -
+              SYSTEM - - - X -
+                SUDO - - - - O
+           AUTHORISE - - - - X
+               USERS - - - - S
+             COMMAND - - - - O
+                   B - - - - X
+               CAUSE - - - - X

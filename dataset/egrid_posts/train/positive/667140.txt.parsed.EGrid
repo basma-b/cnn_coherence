@@ -1,0 +1,25 @@
+                 USE X - - - -
+               LSPCI S - - - -
+              RADEON O - - - -
+             DERHEKS O - - - -
+                HTTP O - X - -
+//PASTE.UBUNTU.COM/353468/ S - - - -
+              MODULE - S - - -
+                LOAD - O - - -
+             GLXINFO - - S - -
+            RENDERER - - O - -
+              OPENGL - - X - -
+              STRING - - X - -
+            SOFTWARE - - X - -
+          RASTERIZER - - S - -
+             MODULES - - X - -
+                LIST - - X - -
+           SOMETHING - - S X -
+              OUTPUT - - X - -
+               LSMOD - - X - -
+           AMD64_AGP - - X - -
+             AGPGART - - X - -
+                 ONE - - - S -
+            CONFLICT - - - X -
+                THAT - - - - S
+                 HAT - - - - X

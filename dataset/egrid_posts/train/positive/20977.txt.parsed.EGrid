@@ -1,0 +1,23 @@
+             ENGLISH S - - - - - - -
+           PARTITION O - - - - - - -
+             WINDOWS X O O - X - - -
+                 RUN - X - - - - - -
+              OPTION - - - S - - - -
+                BOOT - - - X - - - -
+               START - - - X - - - -
+                AUTO - - - - X - - -
+           INSTALLER - - - - S - - -
+                MENU - - - - X - - -
+             OPTIONS - - - - S - - -
+                GRUB - - - - X - - -
+                FILE - - - - X - - -
+ /BOOT/GRUB/MENU.LST - - - - X - - -
+             PLANNER - - - - X S - -
+                   > - - - - X O - -
+           PARAGRAPH - - - - O - - -
+ /BOOT/GRUP/MENU.LST - - - - X - - -
+                LINE - - - - O - - -
+/BOOT/GRUP/MENU.LIST - - - - X - - -
+             MACHINE - - - - - O - -
+             SUCCESS - - - - - - O -
+               TANKS - - - - - - - X

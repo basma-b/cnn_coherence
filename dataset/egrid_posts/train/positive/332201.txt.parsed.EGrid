@@ -1,0 +1,15 @@
+                FILE O O - - O X
+              ACCESS O - - - - -
+             PROCESS S - - - - -
+                 RAM X - - - - -
+               PIECE O - - - - -
+              MEMORY X - - - - -
+             REQUEST O - - - - -
+                MMAP - O - - - -
+                TEMP - - X - - -
+          FILESYSTEM - - O - - -
+             RAMDISK - - - X - -
+                THAT - - - - X -
+          IMPRESSION - - - - X -
+                MORE - - - - - O
+               CACHE - - - - - X

@@ -1,0 +1,17 @@
+                GREP X - -
+                WORD O - -
+                FILE X - -
+          DIRECTORY/ X - -
+               MKDIR X - -
+/PATH/TO/A/REALLY/LONG/LIST/OF/SUBDIRS X - -
+                HOME X - -
+                 DIR X - -
+/THE/LONG/DIRECTORY/SUBD/ O - -
+                ROOT X - -
+                SORT X - -
+                  WC X - -
+                  -L S - -
+                BOUT S - -
+                LINE O - -
+          NON-UNIQUE - - X
+           DUPLICATE - - O

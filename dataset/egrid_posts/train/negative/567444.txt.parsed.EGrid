@@ -1,0 +1,15 @@
+                TIME X - - -
+            CONFLICT O - - -
+             APT-GET S S - -
+             UPGRADE O - - -
+             PACKAGE O O - -
+              UPDATE - O - -
+                DPKG - - O -
+               THERE - - S -
+               FORCE - - X -
+          PARAMETERS - - X -
+    APT-GET/APTITUDE - - S -
+               THING - - O -
+               YEARS - - - X
+                USER - - - X
+                  .. - - - X

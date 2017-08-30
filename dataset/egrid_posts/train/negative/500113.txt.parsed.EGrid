@@ -1,0 +1,16 @@
+                .DEB X - - - - -
+             PACKAGE X - O - - -
+           INSTALLER X - - - - -
+                  .. O - - - - -
+               ERROR - O - - - -
+          DEPENDENCY - S - - - -
+             LIBLQR1 - S - - - -
+                THIS - X - - - -
+              PLUGIN - - O - - -
+             OPTIONS - - O - - -
+                8.10 - - X - - -
+               CLEAN - - S - - -
+        SOURCES.LIST - - - - O -
+        DIST-UPGRADE - - - - O -
+                THAT - - - - - O
+                BIOS - - - - - S

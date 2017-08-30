@@ -1,0 +1,17 @@
+               VALUE X - - - - - - -
+                EXT3 X - - - - - - -
+                EXT4 X - - - - - - -
+                 USE X - - - - - - -
+         JOURNALLING X - - - - - - -
+                 SSD - O - - - - - -
+                 ISN - - S - - - - -
+           STABILITY - - X - - - - -
+               SPEED - - X - - - - -
+           ARGUMENTS - - - S - - - -
+               TOPIC - - - S - - X -
+            ARGUMENT - - - X - - - -
+             CHANNEL - - - X - - - -
+               LINUX - - - - - X - -
+            MATERIAL - - - - - O - -
+             IDLEONE - - - - - - S -
+                   P - - - - - - - X

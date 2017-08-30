@@ -1,0 +1,26 @@
+                SUDO S - - - - - - - - - -
+            /DEV/SDA S S - - - - - - - - -
+                BIOS S - - - - - - - - - -
+                   O - X - - - - - - - - -
+                SAME - X - - - - - - - - -
+                WAYS - S - - - - - - - - -
+/BOOT/GRUB/DEVICE.MAP - X - - - - - - - - -
+          DEVICE.MAP - X - - - - - - - - -
+                 XFS - X - - - - - - - - -
+          FILESYSTEM - X - - - - - - - - -
+               ERROR - - O - - - - - - - -
+               OUTPU - - X - - - - - - - -
+                  .. - - - - X - - - - - -
+               THERE - - - - - - - S - - -
+                GRUB - - - - - - - X - - -
+                MENU - - - - - - - X - - -
+             OPTIONS - - - - - - - O - - -
+                BOOT - - - - - - - X - - -
+              SYSTEM - - - - - - - - X - -
+                 HD0 - - - - - - - - - X -
+              REBOOT - - - - - - - - - X -
+                ROOT - - - - - - - - - O -
+               HD0,9 - - - - - - - - - X -
+               SETUP - - - - - - - - - X -
+                 VUX - - - - - - - - - - O
+              VUXCTL - - - - - - - - - - O

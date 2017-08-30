@@ -1,0 +1,7 @@
+        MODULES.CONF X - - -
+             VERSION - X - -
+                 ONE - - X -
+        /ETC/MODULES - - X -
+     /ETC/MODPROBE.D - - X -
+              OPTION - - - X
+             COMMAND - - - O

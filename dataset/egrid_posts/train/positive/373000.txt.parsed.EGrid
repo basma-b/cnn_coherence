@@ -1,0 +1,22 @@
+                TIME X - - - - - - - - -
+/ETC/NETWORK/IF-UP.D/NTPDATE O - - - - - - - - -
+             CRONTAB X X - - - - - - - -
+               CLOCK O - - - - - - - - -
+           SOMETHING - X - - - - - - - -
+                ROOT - X - - - - - - - -
+                 USE - - X - - - - - - -
+                NTPD - - S - - - - - O -
+                24/7 - - O - - - - - - -
+                 OWN - - X - - - - - - -
+             APT-GET - - S - - - - - - -
+                KIND - - - X - - - - - -
+                HARD - - - X - - - - - -
+                 RUN - - - - X - - - - -
+               WEEKS - - - - X - - - - -
+                  PS - - - - X - - - - -
+            AUX|GREP - - - - X - - - - -
+                 NTP - - - - S - - - - -
+              COURSE - - - - - X - - - -
+            QUESTION - - - - - - - X - -
+               THERE - - - - - - - - S -
+            OPENNTPD - - - - - - - - - X

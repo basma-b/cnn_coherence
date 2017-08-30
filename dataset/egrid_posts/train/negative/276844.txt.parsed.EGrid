@@ -1,0 +1,18 @@
+        ./CCG_SERVER S - - - - - - -
+     ./LIB/LIBC.SO.6 S - - - - - - -
+             VERSION S - - - - - - -
+/USR/LIB/LIBDIRECTFB-0.9.SO.24 X - - - - - - -
+                CANT X - - - - - - -
+                 2.4 O - - - - - - -
+       REPOSTITORIES X - - - - - - -
+                 ONE X - - - - - - -
+                HTTP - - X - - - - -
+//GCCG.SOURCEFORGE.NET - - X - - - - -
+              SEC3.2 - - X - - - - -
+              INSTAL - - - S - - - -
+             PACKAGE - - - S S - - -
+       GLIBC-2.3.6-2 - - - - O - - -
+               ERROR - - - - - S - -
+                  .. - - - - - O - -
+            LOCATION - - - - - - - O
+                NAME - - - - - - - X

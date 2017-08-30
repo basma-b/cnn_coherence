@@ -1,0 +1,25 @@
+             SYMLINK O - - -
+/ETC/APACHE2/MODS-AVAILABLE/PHP4 X - - -
+                CONF - X - -
+                LOAD - S - -
+/ETC/APACHE2/MODS-ENABLED/ - X - -
+              APACHE - X S -
+                 PHP - X - -
+PHP/4.3.10-10UBUNTU4 - X - -
+           DIRECTORY - X - -
+               INDEX - X - -
+              SOURCE - O - -
+                FILE - X X -
+           MEDIAWIKI - X - -
+               START - X - -
+                PAGE - O - -
+             EXAMPLE - X - -
+                 HMM - X - -
+               HTTPS - O - -
+//WIKI.UBUNTU.COM/APACHEMYSQLPHP - O - -
+            SYMLINKS - O - -
+               DANKE - O - -
+               BITTE - - S -
+           INDEX.PHP - - O -
+                ROOT - - X -
+             DEFAULT - - X -

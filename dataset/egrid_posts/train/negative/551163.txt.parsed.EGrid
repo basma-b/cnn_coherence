@@ -1,0 +1,17 @@
+               HOURS O - - - - -
+               OWNER O - - - - -
+           PARTITION X - - - - -
+                ROOT S - - - - -
+              ANYONE - S - - - -
+                KIND - - X - - -
+                FILE - - X - - X
+              SYSTEM - - X - - -
+                SUDO - - - X - -
+               CHOWN - - - X - -
+          MYUSERNAME - - - X - -
+/PATH/TO/MOUNTPOINT/OF/THE/FILESYSTEM - - - X - -
+                  -R - - - X - -
+              SYNTAX - - - - - O
+              CONFIG - - - - - X
+           ~/.THEMES - - - - - X
+   /USR/SHARE/THEMES - - - - - X

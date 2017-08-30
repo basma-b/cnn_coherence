@@ -1,0 +1,21 @@
+              SCRIPT - X - - S - X - - - - - -
+                NAME - O - - - - - - - - - - -
+             BACKUPS - X - - - - O - - - - - -
+     /ETC/CRON.DAILY - X - - - - - - - - - - -
+             ANACRON - - S - - - - - - - - - -
+           RUN-PARTS - - - X - S - - - - S - -
+                LIST - - - - X - - - - - - - -
+              OUTPUT - - - - - O - - - - - - -
+/ETC/CRON.DAILY/BACKUPS - - - - - X - - - - S - -
+                FILE - - - - - X - - - - - - -
+           DIRECTORY - - - - - X - - - - - - -
+                NOTE - - - - - - O - - - - - -
+              ERRORS - - - - - - X - - - - - -
+               IDEAS - - - - - - - X - - - - -
+                BITE - - - - - - - - X - - - -
+                CRON - - - - - - - - - S - - -
+                LINE - - - - - - - - - - S - -
+              RETURN - - - - - - - - - - X - -
+                CODE - - - - - - - - - - X - -
+                SUDO - - - - - - - - - - X - -
+                IDEA - - - - - - - - - - - - O

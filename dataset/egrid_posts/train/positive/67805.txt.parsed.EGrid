@@ -1,0 +1,16 @@
+           AUDIODOES - S - - - - - -
+              DISTRO - O O - - - - -
+             VERSION - X X - - - - -
+        DIST-UPGRADE - - - O - - - -
+             UPGRADE - - - S - - - -
+               HOARY - - - S - - - -
+              BREEZY - - - S - - - -
+/ETC/APT/SOURCES.LIST - - - X - - - -
+               WARTY - - - X - - - -
+                 ETC - - - O - - - -
+         DST-UPGRADE - - - S - - - -
+          EVERYTHING - - - S - - - -
+                CASE - - - X - - - -
+             APT-GET - - - S - - - S
+                 UMM - - - - - - - X
+             PROGRAM - - - - - - - O

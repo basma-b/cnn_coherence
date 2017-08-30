@@ -1,0 +1,14 @@
+          FILESYSTEM O - - - - -
+               CHECK O - - X - -
+              REBOOT X - - - - -
+                FSCK - X - - - -
+                THAT - - O - - -
+                DATE - - - O - -
+             COUNTER - - - O - -
+              EXT2/3 - - - X - -
+                EXT4 - - - X - -
+             TUNE2FS - - - O - -
+               VALUE - - - O - -
+              ARENET - - - - - X
+               MYSQL - - - - - X
+              APACHE - - - - - X

@@ -1,0 +1,14 @@
+               PURGE S - - - - - -
+               TRACE O - - - - - -
+             PACKAGE X - X O - - -
+                CASE O - - - - - -
+                USER - X - - - - -
+             CONFIGS - O - - - - -
+                RUBY - - - O - - -
+                THAT - - - - S - -
+                DEPS - - - - - O -
+                  .. - - - - - - O
+                SAME - - - - - - X
+               FRESH - - - - - - O
+               CLICK - - - - - - X
+            CHECKBOX - - - - - - X

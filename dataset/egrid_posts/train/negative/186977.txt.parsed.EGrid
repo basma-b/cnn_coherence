@@ -1,0 +1,24 @@
+             .CONFIG X O - - -
+              KERNEL O X - - -
+                THAT - S - - -
+                ROOT - X - - -
+              SOURCE - X - - -
+                TREE - X - - -
+                  DD - X - X -
+       IF=FLOPPY.IMG - X - - -
+         OF=/DEV/FD0 - O - - -
+           DIRECTORY - X - - -
+IF=/WHATEVER/FLOPPY.IMG - S - - -
+                FILE - O - O -
+               BYTES - - O - -
+             NOTHING - - O - -
+              FLOPPY - - X - -
+          FLOPPY.IMG - - - S -
+                THIS - - - X -
+                  DU - - - X -
+            DOWNLOAD - - - S -
+              REASON - - - X -
+                  .. - - - X -
+                 SEC - - - X -
+                 1,5 - - - S -
+             COMMAND - - - O -

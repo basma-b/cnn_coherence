@@ -1,0 +1,14 @@
+                BOOT X X -
+             OPTIONS X - -
+                THAT - O -
+            ACPI=OFF - X -
+               CAUSE - X -
+               CRASH - X -
+                LOAD - X -
+              KERNEL - X -
+               IMAGE - X -
+                  CC - O -
+            IMPSY|NH - X -
+              ANSWER - S -
+             MACHINE - - X
+                 NIC - - X

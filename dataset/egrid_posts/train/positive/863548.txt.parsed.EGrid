@@ -1,0 +1,8 @@
+                USER X X -
+               GROUP X S -
+              FOLDER S X -
+              USERID - X -
+          PERMISSION - O -
+            WWW-DATA - S X
+                SUDO - - X
+        WINDPARADISE - - X

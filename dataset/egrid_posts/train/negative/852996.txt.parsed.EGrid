@@ -1,0 +1,14 @@
+            SHUTDOWN X X - -
+             COMMAND X - - -
+              OPTION X - - -
+                FSCK S - - -
+                BOOT X - - -
+                SUDO - S - -
+          /FORCEFSCK - X - -
+                  -R - O - -
+                   / - X - -
+              SCRIPT - - - O
+                LINK - - - O
+               IMAGE - - - X
+               UNAME - - - X
+                  -M - - - X

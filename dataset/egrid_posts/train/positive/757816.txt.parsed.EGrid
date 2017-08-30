@@ -1,0 +1,34 @@
+        LIBDB-5.1.SO X - - - - - - -
+              SYSTEM X - - - - - - -
+             PACKAGE X - - - - - - -
+         LIBDB-5.1.A - O - - - - - -
+         APPLICATION - X - - - - - X
+             LIBRARY - O - - - - - O
+                THAT - - S - O - - -
+                   > - - O - - - - -
+          SOURCECODE - - X - - - - -
+                   A - - - S - - - -
+                LOOK - - - O - - - -
+           LIBRARIES - - - S - - - -
+              FILE.A - - - O - - - -
+                  .. - - - X - - - -
+             COMMAND - - - - X - - X
+                LINE - - - - X - - X
+          PARAMETERS - - - - X - X X
+             EXAMPLE - - - - O - - -
+              FOLDER - - - - X - - -
+              LAYOUT - - - - X - - -
+                FILE - - - - O - - -
+/USR/LOCAL/BERKELEYDB.5.1/INCLUDE - - - - O - - -
+              EXPERT - - - - - - O -
+              CUSTOM - - - - - - X -
+             KERNELS - - - - - - X -
+           CONFIGURE - - - - - - O -
+              SAMPLE - - - - - - O -
+                 ONE - - - - - - X -
+               YOURS - - - - - - S -
+BLUETOOTH_LIBS=/HOME/PHIL/MYLIBS/COMPILED/LIB/LIBBLUETOOTH.A - - - - - - - X
+            COMPILER - - - - - - - S
+              COURSE - - - - - - - X
+               WORRY - - - - - - - S
+                 LIB - - - - - - - S

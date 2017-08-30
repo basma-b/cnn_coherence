@@ -1,0 +1,30 @@
+                ROOT S - - - - - - -
+                 AUG O - - - - - - -
+/ETC/NETWORK/INTERFACES X - - - - - - -
+                OPPS S - - - - - - -
+             CONTENT S - - - - - - -
+                LINE O - - - - - - -
+             RESTART O - - - - - - -
+              SERVER O - - - - - - -
+                WAYS X - - - - - - -
+             SERVICE X - - - - - - -
+                 SSH X - - - - - - -
+                WHAT - O - - - - - -
+                SUDO - - X - X - - -
+    /ETC/INIT.D/SSHD - - S - - - - -
+                THIS - - O - - O - -
+             NETWORK - - X - - - - -
+            INTERNET - - X - - - - -
+                PORT - - - X - - - -
+     /ETC/INIT.D/SSH - - - - S - - -
+          CONNECTION - - - - S - - -
+             COMMAND - - - - - X - -
+                 RUN - - - - - X - -
+                -TAN - - - - - - O -
+                HTTP - - - - - - X -
+//PASTE.UBUNTU.COM/1176856/ - - - - - - X -
+                HOME - - - - - - - X
+              FOLDER - - - - - - - X
+               ALT+H - - - - - - - O
+                HIDE - - - - - - - O
+             FOLDERS - - - - - - - O

@@ -1,0 +1,15 @@
+                ATH0 - O - - - -
+              REBOOT - X - - - -
+            IWCONFIG - S - - - -
+                ETH0 - X - - - -
+                  LO - O - - - -
+            WIRELESS - X - - - -
+             DEVICES - O - - - -
+                THAT - - S - - -
+                SUDO - - X - - -
+                IFUP - - S - - -
+               ISSUE - - - - S -
+          MODPROBE.D - - - - S -
+                FILE - - - - - X
+                 PPA - - - - - X
+                 WEB - - - - - X

@@ -1,0 +1,26 @@
+                INFO X - - - -
+                  .. X - - - -
+             SUDOERS S - - - -
+          MYUSERNAME X - - - -
+                ALL= O - - - -
+                 ALL X - - - -
+               USERS X - - - -
+               GROUP O - - - -
+               ADMIN X - - - -
+            USERNAME O - - - -
+             MINUTES X - - - -
+                TWAS O - - - -
+              SIMPLE S - - - -
+                 BUG O - X - -
+                HARD X - - - -
+                BITE X - - - -
+                   A - - X - -
+             COMMAND - - X - -
+            SOFTWARE - - O - -
+               BASIC - - O - -
+                  CD - - O - -
+            ALLRIGHT - - X - -
+            BUGZILLA - - S - -
+                SUDO - - - - X
+             APT-GET - - - - S
+UBUNTU-NETBOOK-REMIX - - - - O

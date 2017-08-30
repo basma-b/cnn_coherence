@@ -1,0 +1,12 @@
+              KERNEL X - X - -
+              DRIVER X - X - -
+           BLACKLIST - - - O -
+                FILE - - - O -
+    /ETC/MODPROBE.D/ - - - X -
+           DIRECTORY - - - X -
+              SYNTAX - - - X -
+              UBUNTU - - - S -
+                MESS - - - X -
+                HMMM - - - - S
+             PACKAGE - - - - O
+             WEBSITE - - - - X

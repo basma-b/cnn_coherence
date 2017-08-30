@@ -1,0 +1,43 @@
+          DIFFERENCE O - - - - - - - - - -
+               LINUX X - - - - - - - - - -
+         LINUX-IMAGE X - - - - - - - - - -
+  LINUX-IMAGE-2.6.12 X - - - O - - - - - -
+             DEFAULT - X - - - - - - - - -
+              KERNEL - X - X - - - - - - -
+     LINUX-IMAGE-686 - - S - - - - - - - -
+             EXAMPLE - - X - - - - - - - -
+LINUX-IMAGE-2.6.12-9-686 - - X - - - - - - - -
+             VERSION - - X - - - - - - - -
+        ARCHITECTURE - - X - O - - - - - -
+               SENSE - - O - - - - - - - -
+                IDEA - - - - O - - - - - -
+           LINUX-686 - - - - O - - - - - -
+              CHOICE - - - - X - - - - - -
+        DEPENDENCIES - - - - X - - - - - -
+               MATCH - - - - X - - - - - -
+LINUX-RESTRICTED-MODULES - - - - S - - - - - -
+             OPTIONS - - - - S - - - - - -
+           LINUX-PPC - - - - O - - - - - -
+               OFFER - - - - S - - - - - -
+                SUDO - - - - X - - - - - -
+             APT-GET - - - - X - - - - - -
+                  -F - - - - S - - - - - -
+                DPKG - - - - O - - - - - -
+              THINGS - - - - O - - - - - -
+             INSTALL - - - - - X X - - - -
+                BOTH - - - - - O - - - - -
+                THAT - - - - - - O - - S -
+              ERRORS - - - - - - O - - - -
+               ERROR - - - - - - X - - - -
+                BASE - - - - - - - X - - -
+              SYSTEM - - - - - - - O - - -
+                SIZE - - - - - - - - X - -
+                DISK - - - - - - - - X - -
+                 THE - - - - - - - - - - X
+               APPLE - - - - - - - - - - X
+                 KEY - - - - - - - - - - S
+             CHANNEL - - - - - - - - - - X
+               TOPIC - - - - - - - - - - X
+US.ARCHIVE.UBUNTU.COM - - - - - - - - - - S
+             ARCHIVE - - - - - - - - - - O
+  ARCHIVE.UBUNTU.COM - - - - - - - - - - X

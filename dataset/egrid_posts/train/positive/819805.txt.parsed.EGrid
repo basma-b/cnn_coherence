@@ -1,0 +1,15 @@
+                 THE S - - - - - -
+                TYPE X - - - - - -
+           PARTITION X - - - - - -
+               FSTAB X - - - - - -
+            SETTINGS - - X - - - -
+                   < - - X - - - -
+             OPTIONS - - X - - - -
+                   > - - X - - - -
+                DUMP - - X - - - -
+               THOSE - - - X - - -
+          /ETC/FSTAB - - - - O - -
+                NTFS - - - - - - S
+                DATA - - - - - - X
+            PARTITON - - - - - - O
+                BOOT - - - - - - X

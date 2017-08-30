@@ -1,0 +1,34 @@
+                  HI X - - -
+          BRIGHTNESS O O - -
+             MONITOR X - - -
+                  .. O X - -
+            INTERNET X - - -
+                   > X X - -
+/PROC/ACPI/VIDEO/VGA/LCD/BRIGHTNESS S - - -
+            RESPONSE X - - -
+                BASH X X - -
+                FILE X O - O
+           DIRECTORY S - - -
+                THIS O - - -
+            TERMINAL - S - -
+    /PROC/ACPI/VIDEO - X - -
+          DR-XR-XR-X - S - -
+                ROOT - X - -
+                GFX0 - S - -
+                 ONE - X - -
+              PATHES - X - -
+/PROC/ACPI/VIDEO/GFX0/DD05/BRIGHTNESS - X - -
+/PROC/ACPI/VIDEO/GFX0/DD04/BRIGHTNESS - X - -
+/PROC/ACPI/VIDEO/GFX0/DD03/BRIGHTNESS - X - -
+/PROC/ACPI/VIDEO/GFX0/DD02/BRIGHTNESS - X - -
+/PROC/ACPI/VIDEO/GFX0/DD01/BRIGHTNESS - X - -
+           DIRECTION - X - -
+               GEDIT - X - -
+  ATTENTIONMESSANGES - O - -
+                SUDO - X - -
+          PERMISSION - X - -
+                 USE - O - -
+                 TEE - X - X
+         REDIRECTION - S - -
+              SYNTAX - O - -
+                ECHO - - - S

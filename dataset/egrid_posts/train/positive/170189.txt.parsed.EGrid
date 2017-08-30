@@ -1,0 +1,11 @@
+                SIZE O - - - -
+           PARTITION X - - O -
+                TIME - X - - -
+                EXT3 - X - - -
+              SYSTEM - S - - -
+               FAT32 - O - - -
+                  HD - X - - -
+             COMMAND - - - S -
+                EXT2 - - - O -
+             DEFAULT - - - X -
+                NTFS - - - - O

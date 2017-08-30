@@ -1,0 +1,37 @@
+                  HI S - - -
+                 TIP X - - -
+             VERSION X - - -
+              SYSTEM O - O -
+                  CD X - - -
+               START O - - -
+                BASE X - X -
+                   X X - - -
+               GNOME X - - -
+                 GDM X - X -
+             OPENBOX X - O -
+                 GUI S - - -
+             PACKAGE O - S -
+INSTALL-RECOMMENDS=FALSE S - - -
+              OPTION X - S -
+            APTITUDE X - O -
+                 SET O - - -
+        DEPENDENCIES X - O -
+        INSTRUCTIONS X - - -
+                SITE X - - -
+                HTTP - X - -
+//UBUNTUFORUMS.ORG/SHOWTHREAD.PHP - X - -
+                 THE - - X -
+                THIS - - O -
+                MOST - - O -
+               STUFF - - X X
+       GNOME-SESSION - - X -
+             SESSION - - O -
+            METACITY - - X -
+               THERE - - S -
+         METAPACKAGE - - O -
+      UBUNTU-DESKTOP - - X X
+                META - - S -
+             DESKTOP - - X -
+            XSESSION - - S -
+          DEPENDENCY - - O -
+                GAME - - - X

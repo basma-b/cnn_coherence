@@ -1,0 +1,14 @@
+             PROBLEM X O - X O - - - - -
+               FORCE O - - O - - - - - -
+              TINYOS O - - O - - - - - -
+          DEPENDENCY - X - - X - - - - -
+             PACKAGE - O - - O - - O - -
+             APT-GET - - X - - X X - - -
+                  -F - - - S - - - O - -
+              NODEPS - - - X - - X O - -
+      IGNORE-MISSING - - - - - - O O - -
+        DEPENDENCIES - - - - - - O - - -
+             PROGRAM - - - - - - - - - O
+                 WAY - - - - - - - - - X
+             MESSAGE - - - - - - - - - X
+           INDICATOR - - - - - - - - - O

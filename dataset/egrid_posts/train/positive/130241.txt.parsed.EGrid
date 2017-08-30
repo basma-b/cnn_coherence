@@ -1,0 +1,12 @@
+                HELP X - - -
+             APACHE2 X - X -
+   /ETC/INIT.D/HTTPD - S - -
+                WORK - O S -
+ /ETC/INIT.D/APACHE2 - S - S
+              RELOAD - - O -
+              SERVER - - X -
+                  .. - - X O
+               HTTPD - - O -
+                PHP5 - - - O
+                PHP4 - - - S
+         PHP4-COMMON - - - X

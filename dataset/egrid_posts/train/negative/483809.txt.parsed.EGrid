@@ -1,0 +1,14 @@
+              POLICY X - - - -
+            VERSIONS O - - - -
+             PACKAGE X - - - -
+               REPOS X X X - -
+             RELEASE X X - - -
+             VERSION - O - - -
+                 APP - X O - -
+                MOTU - - X - -
+             PROCESS - - - S -
+                KILL - - - O -
+             COMMAND - - - - X
+                LINE - - - - X
+                 GUI - - - - X
+                SUDO - - - - O

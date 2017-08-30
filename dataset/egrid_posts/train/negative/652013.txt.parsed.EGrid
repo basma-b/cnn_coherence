@@ -1,0 +1,20 @@
+         APPLICATION X O - - - -
+          PARAMETERS X S - - - -
+               HTTPS - X - - O -
+               SETUP - X - - - -
+                 FTP - X - - - -
+               GUIDE - X - - - -
+                 SSH - O - - X -
+              SECURE - X - - - -
+                HOME - X - - - -
+              SERVER - X - - - -
+              NOBODY - S - - - -
+                 USE - - X - - -
+              BEHIND - - X - - -
+            FIREWALL - - X - - -
+             WINDOWS - - X - - -
+             SECRETS - - - - X -
+                FILE - - - - O -
+                 ILL - - - - S -
+//HELP.UBUNTU.COM/9.10/SERVERGUIDE/C/FTP-SERVER.HTML - - - - X -
+                THAT - - - - - S

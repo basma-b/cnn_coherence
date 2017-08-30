@@ -1,0 +1,24 @@
+                NTFS X - - - - - -
+           PARTITION O X O - - - -
+             NTFS-3G X - - - - - -
+                FILE - X - - - - -
+         PERMISSIONS - O - - - O -
+            -RW-RW-R - X - - - - -
+             DEFAULT - X - - - X -
+               FSTAB - X - - - - -
+          UMASK=0112 - X - - - - -
+                ROOT - - X - - - -
+                  -X - - X - - - -
+                CLUE - - - X - - -
+                HTTP - - - - X - -
+//WWW.UBUNTUGEEK.COM/MOUNT-YOUR-WIDOWS-PARTITIONS-AND-MAKE-IT-READ-AND-WRITABLE.HTML - - - - X - -
+                 SET - - - - - X -
+               ISSUE - - - - - S -
+                BITE - - - - - X -
+                DATA - - - - - X -
+              THTTPD - - - - - X -
+               OWNER - - - - - - O
+            DOCUMENT - - - - - - X
+                USER - - - - - - X
+             ACCOUNT - - - - - - X
+               UMASK - - - - - - O

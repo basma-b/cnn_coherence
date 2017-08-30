@@ -1,0 +1,17 @@
+                TIME X - - - - -
+               THERE X - - - - -
+              MODULE X - - - - -
+              INITRD X - - - - -
+                BOOT X - - - - -
+                LOAD - X - - - -
+                ROOT - S - - - -
+        /ETC/MODULES - X - - - -
+                  .. - O - - - -
+         FRAMEBUFFER - O - - - -
+              KERNEL - - X - - -
+             MESSAGE - - X - - -
+        APPEND=XXXXX - - X - - -
+           LILO.CONF - - X - - -
+               EPERT - - - X - -
+           XXXXX=THE - - - - S -
+                MODE - - - - O -

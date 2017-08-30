@@ -1,0 +1,10 @@
+             COMMAND X O -
+          PERMISSION - S -
+                   > - S -
+                SUDO - S -
+/PROC/SYS/VM/SWAPPINESS - X -
+                REST - X -
+                LINE - X -
+                ROOT - X -
+                 TEE - X -
+                  -S - O -

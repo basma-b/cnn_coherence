@@ -1,0 +1,24 @@
+             SOMEONE X - -
+                HAND X - -
+                BITE X - -
+             MPLAYER X - -
+              UBUNTU X - -
+              CHROOT - X -
+                LIBS - O -
+                -M32 - X -
+            LDFLAGS= - X -
+        -L/USR/LIB32 - X -
+                 CC= - X -
+HOST_ALIAS=I386-UNKNOWN-LINUX-GNU - X -
+                 -UC - X -
+                  -B - O -
+                 -NC - X -
+           LIBRARIES - O -
+          /USR/LIB32 - X -
+              HEADER - X -
+                FILE - O -
+              CCACHE - - X
+         /USR/BIN/LD - - S
+ /USR/LIB32/LIBASS.A - - O
+              SEARCH - - X
+               -LASS - - X

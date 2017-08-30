@@ -1,0 +1,13 @@
+                 ALL X - - - - -
+                USER - O - - X -
+                FILE - O - - - -
+           DIRECTORY - X - - X S
+             DEFAULT - - X - - -
+                HOME - - S - X X
+         PERMISSIONS - - O X X -
+                MESS - - - X - -
+          EVERYTHING - - - X - -
+          PERMISSION - - - - O -
+                SELF - - - - X -
+              OTHERS - - - - - S
+                 DIR - - - - - O

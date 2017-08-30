@@ -1,0 +1,16 @@
+               LSPCI X X -
+                CARD X - -
+           INTERFACE S - -
+                 USE X X -
+            IFCONFIG O - -
+                LOAD - X -
+                -VVV - S -
+                 OKI - X -
+      PERRYARMSTRONG - O -
+    MONITOR/KEYBOARD - O -
+              SERVER - X -
+             8139TOO - S -
+                SUDO - X -
+               RMMOD - X -
+            MODPROBE - X -
+                THAT - - O

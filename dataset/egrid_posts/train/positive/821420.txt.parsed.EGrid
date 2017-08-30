@@ -1,0 +1,16 @@
+               MYSQL O - - X - - -
+               10.04 X - - - - - -
+              REASON X - - - - - -
+             UPSTART X - - - - - -
+              MY.CNF S - - X - - -
+             SYMLINK O O - - - - -
+                FILE - O - - - - -
+            THOUGHTS - - X - - - -
+                THIS - - - S - - -
+             PROBLEM - - - O - - -
+            SYMLINKS - - - S - - -
+          PERMISSION - - - - X - -
+         DESTINATION - - - - X S -
+                PERM - - - - - X -
+                USER - - - - - - S
+              SYSTEM - - - - - - X

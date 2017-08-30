@@ -1,0 +1,16 @@
+               LIMIT - O - - - - -
+                 YES - X - - - - -
+               FAT32 - - O - - - -
+             WINDOWS - - X S X O -
+                NTFS - - X - - - S
+                DATA - - O - - - -
+               THERE - - - S - - -
+            FUNCTION - - - X - - -
+           FSCK.NTFS - - - X - - -
+          FILESYSTEM - - - O - - -
+               DRIVE - - - - O - -
+              SYSTEM - - - - X - -
+              FORMAT - - - - X - -
+              INSTAL - - - - - X -
+                BOOT - - - - - X -
+                 BET - - - - - - O

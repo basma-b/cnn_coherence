@@ -1,0 +1,25 @@
+      INSTALL_DEVICE S - - - - -
+                CASE X - - - - -
+              HD0,2- X - - - - -
+           PARTITION X X - - - -
+             LOGICAL X - - - - -
+                  BE - S - - - -
+                THIS - S - - - -
+           /DEV/SDA3 - S - - - -
+                ROOT - O - - - -
+/BOOT/GRUB/DEVICE.MAP - O - - - -
+                 HD0 - X - - - -
+            /DEV/SDA - X - - - -
+          DEVICE.MAP - X - - - -
+                WHAT - - O - - -
+                GRUB - - S - - -
+             COMMAND - - X - - -
+               SHELL - - S - - -
+          COMPLETION - - X - - -
+                 IVE - - - - S -
+              THINGS - - - - S -
+STARTUP/AUTOSTART/SESSIONS - - - - X -
+               BEFOR - - - - X -
+                   X - - - - X -
+                LOAD - - - - X -
+              THERES - - - - - S

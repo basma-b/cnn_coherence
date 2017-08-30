@@ -1,0 +1,23 @@
+/ETC.NETWORKING/INTERFACES X X - - - -
+                FILE - - O - - -
+/ETC/NETWORKING/INTERFACES - - X - - -
+                PATH - - X - - -
+                TYPO - - O - - -
+                AUTO - - X X - -
+                  LO - - X - - -
+               IFACE - - X O - -
+                INET - - X X - -
+            LOOPBACK - - O - - -
+                THIS - - - S - -
+               WLAN0 - - - O - -
+                DHCP - - - X - -
+              ADVICE - - - X - -
+           SOMETHING - - - O - -
+             NETWORK - - - S - -
+             SERVICE - - - O - -
+                PORT - - - S - -
+            INTERVAL - - - X - -
+         SEND_PACKET - - - S - -
+             COMMAND - - - O - -
+                 ONE - - - - X -
+               THANK - - - - - X

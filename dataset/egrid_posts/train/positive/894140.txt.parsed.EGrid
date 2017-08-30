@@ -1,0 +1,13 @@
+                 ANY S - - - -
+             POSTFIX X - - - -
+              CONFIG - S - - -
+                FILE - S - - -
+                HTTP - S - X -
+               ERROR - O X - X
+            PASSWORD - S - - -
+              SERVER - X - - -
+      AUTHENTICATION - S - - -
+             FAILURE - X - - -
+              ERRORS - - X - -
+                THIS - - O - -
+//WWW.CYBERCITI.BIZ/FAQ/RHEL-LINUX-POSTFIX-SASL-AUTHENTICATION-ERROR/ - - - X -

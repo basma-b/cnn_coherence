@@ -1,0 +1,7 @@
+               CHMOD O - - -
+                PERM O - - -
+                USER X X - -
+               CHOWN - - O -
+             COMMAND - - - X
+              COLUMN - - - X
+               IOTOP - - - X

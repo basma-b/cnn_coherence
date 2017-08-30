@@ -1,0 +1,14 @@
+                 RUN X - - - -
+                  DF S - - - -
+                   / S - - - -
+                   % X - - - -
+                  -H O - - - -
+                 SUM S - - - -
+              OUTPUT - O - - -
+             COMMAND - X - - -
+                JRIB - X - - -
+                HTTP - X - - -
+             APT-GET - - - S O
+          AUTOREMOVE - - - O -
+                 FIX - - - - X
+            APTITUDE - - - - X

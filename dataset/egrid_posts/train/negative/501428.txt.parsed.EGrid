@@ -1,0 +1,39 @@
+               CDROM O - O O - O S - - -
+        SOURCES.LIST X - X - - - - - - -
+             APT-GET O - - - - - X S - -
+         NDISWRAPPER O - - - - - O - - -
+                CANT S - - X - - - - - -
+             PACKAGE X - - - O - O X - -
+              ANYONE - S S - - - X - - -
+              FORMAT - - S - - - - - - -
+              SOURCE - - - S - - - - - -
+              PACKAE - - - O - - - - - -
+              UPDATE - - - O O - - - - -
+/ETC/APT/SOURCES.LIST - - - - X - - - - -
+                LINE - - - - S - - - - -
+             EXAMPLE - - - - - O - - - -
+          /MNT/CDROM - - - - - S - - - -
+                   = - - - - - S - - - -
+               THERE - - - - - X - - - -
+       -D=/MNT/CDROM - - - - - X - - - -
+               POINT - - - - - O - - - -
+          /ETC/FSTAB - - - - - X - - - -
+              SYNTAX - - - - - S - - - -
+                SUDO - - - - - X X - - -
+APT-CDROM=/MNT/CDROM0 - - - - - S - - - -
+                THAT - - - - - - S - - -
+     -D=/MEDIA/CDROM - - - - - - S - - -
+              SOUCES - - - - - - X - - -
+              CCOULD - - - - - - S - - -
+                  .. - - - - - - O - - -
+                  CD - - - - - - X - - -
+   NDISWRAPPER-UTILS - - - - - - - O - -
+NDISWRAPPER-UTILS-1.9 - - - - - - - S - -
+                NAME - - - - - - - X - -
+                HELP - - - - - - - X - -
+            WIRELESS - - - - - - - - X -
+          CONNECTION - - - - - - - - O -
+               THING - - - - - - - - - O
+                HTTP - - - - - - - - - O
+//WWW.SYSRESCCD.ORG/ - - - - - - - - - X
+                TASK - - - - - - - - - O

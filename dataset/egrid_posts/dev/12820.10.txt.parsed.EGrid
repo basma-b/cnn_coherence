@@ -1,0 +1,11 @@
+                ALL= S - - - -
+                 ALL X - - - -
+                  .. - - O - -
+                 MAN - - X - -
+              VISUDO - - X - -
+                OKEY - - X - -
+                TYPE - - - S -
+           RUBY1.9.3 - - - X -
+                RUBY - - - O -
+             RUBY1.9 - - - X -
+                 IRB - - - - O

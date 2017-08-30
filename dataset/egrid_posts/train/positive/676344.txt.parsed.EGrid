@@ -1,0 +1,8 @@
+               CHECK X - - - -
+                FSCK - - - S -
+              LIVECD - - - X -
+                  IM - - - S -
+           /DEV/SDAX - - - O -
+              UMOUNT - - - - X
+            /DEV/SDA - - - - X
+               MOUNT - - - - X

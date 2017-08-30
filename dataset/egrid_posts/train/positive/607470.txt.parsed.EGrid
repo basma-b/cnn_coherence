@@ -1,0 +1,12 @@
+             NOTHING S - - -
+              RETURN X - - -
+             PROCESS S - X S
+                SUDO X - X -
+             NETSTAT X - X -
+               -TANP S - X -
+                PORT - X X -
+                 IDS - X X -
+                NONE - X X -
+                LINE - - - X
+                TYPE - - - X
+               FIELD - - - X

@@ -1,0 +1,11 @@
+               IMAGE X - O X - - - -
+              CD/DVD X - - - - - - -
+               POINT - X - - - - - -
+             MKISOFS - O - - - - - -
+                  CD - X - - X - - -
+                COPY - - - X - - - -
+                FILE - - - X - - - -
+            BOOTABLE - - - - - X - -
+                  DD - - - - - X - -
+       IF=/DEV/CDROM - - - - - S - -
+                HTTP - - - - - - - X

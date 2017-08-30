@@ -1,0 +1,14 @@
+        SOURCES.LIST S - - - - -
+                MESS O - - - - -
+               REPOS S - - - - -
+                 MIX O - - - - -
+                WHAT - - X - - -
+             RELEASE - - X - - -
+             UPGRADE - - X - - -
+                   * - - - X - -
+            E4DEFRAG - - - - X -
+ /DEV/YOUR-DISK-HERE - - - - O -
+                DISK - - - - S -
+                TOOL - - - - - O
+               SCORE - - - - - S
+               SILLY - - - - - O

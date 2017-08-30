@@ -1,0 +1,21 @@
+        INITRD-TOOLS S - - - - -
+                BOOT - X - - - -
+              KERNEL - O - - - -
+             KERNELS - O - - - -
+                LIST - O - - - -
+               PANIC - X - - - -
+                 HMM - O - - - -
+        DIST-UPGRADE - O - - - -
+                 YUP - - X - - -
+               HTTPS - - X - - -
+//BUGZILLA.UBUNTU.COM/SHOW_BUG.CGI - - X - - -
+                  C4 - - - S - -
+              BREEZY - - - S - -
+                   P - - - X - -
+        SOURCES.LIST - - - X - -
+               FLOOD - - - X - -
+               DRIVE - - - - O -
+             WINDOWS - - - - X X
+          EXPLORE2FS - - - - - O
+         FILESYSTEMS - - - - - O
+//URANUS.IT.SWIN.EDU.AU/~JN/LINUX/EXPLORE2FS.HTM - - - - - X

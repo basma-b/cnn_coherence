@@ -1,0 +1,16 @@
+          ~/.XINITRC X - - - -
+              STARTX X - - - -
+             COMMAND O - - - -
+                 GDM - X X X -
+               LOGIN - - X - -
+                   X - - - X -
+                 USE - - - S -
+              DOSENT - - - X -
+            .XINITRC - - - S -
+               THERE - - - S -
+             SESSION - - - O -
+           .XSESSION - - - O -
+                  .. - - - O -
+            DESKTIOP - - - O -
+       GNOME.DESKTOP - - - - X
+                DATA - - - - O

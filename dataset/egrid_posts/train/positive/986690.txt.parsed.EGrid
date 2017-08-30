@@ -1,0 +1,8 @@
+               THERE X - - -
+             PACKAGE X - - -
+   LIBMYSQLCLIENT.SO O - - -
+              SEARCH - S - -
+    LIBMYSQLCLIENT1X - O - -
+                   X - S - -
+             VERSION - - X -
+/USR/LIB/MYSQLCLIENT.SO - - - O
