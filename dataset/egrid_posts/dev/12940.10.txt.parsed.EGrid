@@ -1,0 +1,17 @@
+              SERVER O O - - - -
+               XCHAT S - - - - -
+              CLIENT X - - - - -
+        192.168.2.17 S - - - - -
+               IRSSI S - - - - -
+           127.0.0.1 O - - - - -
+             MACHINE S X - - - -
+            FIREWALL X O - - - -
+            IPTABLES - - S - - -
+                HELP - - - X - -
+               SETUP - - - O - -
+                 PPA - - - - O -
+                WINE - - - - X -
+            SYNAPTIC - - - - - O
+              DETAIL - - - - - X
+                 GUI - - - - - O
+             HISTORY - - - - - O

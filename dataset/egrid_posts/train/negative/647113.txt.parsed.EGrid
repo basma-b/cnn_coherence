@@ -1,0 +1,20 @@
+               MOUSE S - - - -
+                 ACT O - - - -
+               THERE - X - - -
+             COMMAND - X - - -
+              LAPTOP - S - - -
+                ARGH - - X - -
+                THIS - - S - -
+           DBUS-SEND - - - X -
+             SESSION - - - X -
+DEST=ORG.GNOME.POWERMANAGER - - - X -
+    TYPE=METHOD_CALL - - - X -
+         PRINT-REPLY - - - X -
+/ORG/GNOME/POWERMANAGER - - - X -
+ORG.GNOME.POWERMANAGER.HIBERNATE - - - X -
+                9.10 - - - - O
+            COMPUTER - - - - X
+                 KDE - - - - S
+               GNOME - - - - X
+             KUBUNTU - - - - O
+                8.04 - - - - X

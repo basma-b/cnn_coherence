@@ -1,0 +1,14 @@
+              DEVICE S - -
+                /DEV X - -
+                 CAT - X -
+  /PROC/ASOUND/CARDS - S -
+    /DEV/SOUND/AUDIO - O O
+                FILE - - X
+                 IXP - - S
+               -RSB- - - X
+              ATIIXP - - X
+                 ATI - - X
+              ALC250 - - X
+          0XF0000400 - - X
+                  LS - - O
+           DIRECTORY - - X

@@ -1,0 +1,9 @@
+         APPLICATION X - -
+                TIME - O -
+        GCONF-EDITOR - S -
+              REBOOT - X -
+                SUDO - X -
+               TOUCH - X -
+          /FORCEFSCK - S -
+/ETC/SSH/SSHD_CONFIG - O -
+               THANK - - X

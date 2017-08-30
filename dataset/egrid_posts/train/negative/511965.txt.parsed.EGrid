@@ -1,0 +1,7 @@
+            GRAPHICS X -
+                CARD X -
+               LSPCI O -
+                 VGA X -
+                AMSN - S
+            TERMINAL - X
+         DEPENDECIES - O

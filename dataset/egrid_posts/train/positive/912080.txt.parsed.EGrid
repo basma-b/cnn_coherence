@@ -1,0 +1,29 @@
+             ATHEROS X - -
+                CARD O - -
+                WORK X - -
+             MONITOR X - -
+                MODE X - -
+                KIND X - -
+            AIRSNORT O - -
+              KISMET O - -
+               ERROR O - -
+               FATAL X - -
+/VAR/RUN//KISMET_SERVER.PID S - -
+               WRITE X - -
+          PERMISSION X - -
+                SUDO X - -
+               CISCO X - -
+             CONTROL X - -
+                FILE X - -
+/PROC/DRIVER/AIRONET/ETH0/CONFIG X - -
+           DIRECTORY X - -
+                ETH0 S - -
+            WIRELESS X - -
+                 HMM S - -
+              DRIVER X - -
+            SETTINGS X - -
+                  IE X - -
+              OUTPUT X - -
+              DEVICE O - -
+                THAT - - O
+              HAVENT - - S

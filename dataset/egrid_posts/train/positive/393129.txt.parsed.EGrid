@@ -1,0 +1,12 @@
+              UBUNTU - O S - - - - -
+           SOUNDCARD - - O - - - - S
+                 PCI - - X X - - - -
+                CARD - - X O - - - O
+                ALSA - - - S - - - -
+         MOTHERBOARD - - - X - - - -
+             ONBOARD - - - - X - - -
+              EITHER - - - - S - - -
+                BIOS - - - - X - - -
+           BLACKLIST - - - - O - - -
+        /ETC/MODULES - - - - X - - -
+              FUTURE - - - - - - - X

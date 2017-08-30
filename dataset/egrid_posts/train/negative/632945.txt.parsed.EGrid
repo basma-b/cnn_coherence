@@ -1,0 +1,25 @@
+                EXT4 O - - - -
+              JAUNTY X - - - -
+           PARTITION - - - S -
+            FRAGMENT - - - X -
+                HTTP - - - O -
+//WWW.PASTEBIN.ORG/46234 - - - X -
+                 RUN - - - X -
+                FSCK - - - S -
+              VOLUME - - - X -
+                DISK - - - X -
+           /DEV/SDA2 - - - S -
+               MOUNT - - - O -
+                SDA1 - - - O -
+                   / - - - O -
+                   % - - - O -
+                SAME - - - O -
+                SDA2 - - - X -
+           /DEV/SDA1 - - - O -
+                FILE - - - O -
+               BLOCK - - - X -
+             UNMOUNT - - - X -
+              REPAIR - - - X -
+          EVERYTHING - - - X -
+               /HOME - - - O -
+               THERE - - - X -

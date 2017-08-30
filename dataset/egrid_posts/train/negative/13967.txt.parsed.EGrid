@@ -1,0 +1,15 @@
+              CD-ROM O - - -
+                  .. X - - -
+                DISK X - - -
+              UMOUNT X - - -
+    /DEV/CDROMDEVICE X - - -
+            /DEV/HDA O - - -
+       /MEDIA/CDROM0 X - - -
+                TYPE X - - -
+            WHATEVER X - - -
+               CDROM O - - -
+               PLAIN S - - -
+              SYSTEM - X - -
+             COMMAND - X - -
+                PERL - - - X
+ /PATH/TO/SCRIPTNAME - - - X

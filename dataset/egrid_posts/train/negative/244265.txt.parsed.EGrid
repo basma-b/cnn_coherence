@@ -1,0 +1,16 @@
+                RULE O - - X - -
+              SCRIPT O S X - - -
+               DRIVE X - - - - -
+             PROGRAM - S - - - -
+                UDEV - - - X - -
+               THATS - - - X - -
+               CHECK - - - X - -
+              DETAIL - - - X - -
+                LINK - - - X X -
+                HTTP - - - X X -
+//GENTOO-WIKI.COM/SPECIAL - - - X - -
+              SEARCH - - - X - -
+   SEARCH=UDEV+RULES - - - - X -
+               GO=GO - - - - X -
+WRITING_CUSTOM_UDEV_RULES - - - - X -
+               THANK - - - - - X

@@ -1,0 +1,21 @@
+/ETC/GRUB.D/40_CUSTOM O - - - - -
+             ENTRIES X - O - - -
+             DISABLE X - - - - -
+            10_LINUX S - - - - -
+          EVERYTHING X - - - - -
+                ONLY - S - - - -
+            LINUX-OS - X - - - -
+           40_CUSTOM - O - - - -
+            /VMLINUZ - X - - - -
+               DRIVE - X - - - -
+              KERNEL - - O - - -
+         UPDATE-GRUB - - S - - -
+                DISK - - X - - -
+                THAT - - - O - -
+               THERE - - - S - -
+             ARTICLE - - - O - -
+          WIKI/FORUM - - - X - -
+               GRUB2 - - - X S -
+                THIS - - - S - -
+                PILE - - - - O -
+                CRAP - - - - X -

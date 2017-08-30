@@ -1,0 +1,16 @@
+          /ETC/FSTAB X - - - -
+               USERS S - X S -
+               GROUP X - - S -
+          SAMBAUSERS X - - - -
+               SHARE X - - - -
+              FOLDER O - - - -
+                HELP - S - - -
+              OPTION - - S S -
+                FILE - - X - -
+           GID=USERS - - X - -
+            NON-ROOT - - - X -
+                DISK - - - O -
+               FSTAB - - - X -
+                TIME - - - - O
+           SHORTCUTS - - - - O
+            COMPUTER - - - - X

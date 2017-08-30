@@ -1,0 +1,26 @@
+             WINDOWS O - - - -
+           PARTITION X - - - -
+           /MNT/TEMP X - - - -
+                USER S X - - -
+           DIRECTORY O - - - -
+                  .. - O - - -
+                 MAN - S - - -
+               THATS - O - - -
+/USR/SHARE/GDESKLETS/DISPLAYS - X - - -
+      GDESKLETS-DATA - X - - -
+                 DIR - X - - -
+             DESKLET - X - - -
+                TYPE - X - - -
+           GDESKLETS - S - - -
+        SOME.DISPLAY - S - - -
+                WHAT - - X - -
+              RCCONF - - S S -
+                CANT - - X - -
+             PROGRAM - - O - -
+             APT-GET - - - S -
+          REPOSITORY - - - X -
+            UNIVERSE - - - - S
+              DEBIAN - - - - X
+            RUNLEVEL - - - - X
+       CONFIGURATION - - - - X
+                TOOL - - - - X

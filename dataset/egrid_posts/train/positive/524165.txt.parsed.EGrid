@@ -1,0 +1,17 @@
+                 GUY X - - - - - - -
+             GATEWAY - S - - - S - -
+          INTERFACES - O - - - - - -
+                 ONE - - X - - - - -
+                DHCP - - X - - - S -
+          CONNECTION - - O - - - - -
+               OTHER - - - X - - - -
+               SHARE - - - X - - - -
+             NETWORK - - - X X - - -
+                  IP - - - X - - O -
+              SERVER - - - - O - - -
+                 DNS - - - - - O - -
+                ETH1 - - - - - - X -
+         RESOLV.CONF - - - - - - S -
+                BOOT - - - - - - X -
+                DATA - - - - - - - X
+               DHCPD - - - - - - - S

@@ -1,0 +1,7 @@
+             PROCESS X -
+                SMTP O -
+              BOUNCE X -
+             CLEANUP X -
+           SOMETHING S -
+               MQUIN - S
+                SAME - X

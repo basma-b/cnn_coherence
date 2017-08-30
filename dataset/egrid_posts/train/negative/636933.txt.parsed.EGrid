@@ -1,0 +1,11 @@
+            LOCATION O - - -
+                   > X - - -
+              SYSTEM X - - -
+             EXAMPLE X - - -
+      /ETC/HTTPD/BIN X - - -
+              APACHE - - X -
+               HTTPD - - S -
+            /USR/BIN - - X -
+              OTHERS - - S -
+              CODECS - - - X
+             PLUGINS - - - X

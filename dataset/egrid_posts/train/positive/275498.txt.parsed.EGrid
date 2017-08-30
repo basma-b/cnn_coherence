@@ -1,0 +1,11 @@
+        /USR/INCLUDE X - -
+              SHOULD X - -
+       KERNEL-SOURCE O - -
+              KERNEL - O -
+                  -R - X -
+             PACKAGE - S O
+              HEADER - O -
+             COMPILE - - X
+                   C - - X
+             LIBRARY - - X
+             HEADERS - - O

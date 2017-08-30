@@ -1,0 +1,15 @@
+              DRIVER S - - - -
+                 USE X - - - -
+               LSPCI - S - - -
+            GRAPHICS - X - - -
+                CARD - X - - -
+               LSMOD - S - - -
+                LOAD - X - - -
+                 VGA - X - - -
+                LIST - - O - -
+               REPOS - - S - -
+                FILE - - X - -
+            BACKPORT - - O - -
+             PACKAGE - - X - O
+               ERROR - - - O -
+                STOP - - - - S

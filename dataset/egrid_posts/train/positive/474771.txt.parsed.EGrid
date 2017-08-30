@@ -1,0 +1,17 @@
+               OWNER X - - -
+                FILE - X - -
+         PERMISSIONS - O - -
+                 ETC - X - -
+               FSTAB - O - -
+            FILESWAP - O - -
+              STATUS - O - -
+                DONT - - S -
+                SUDO - - O -
+               GEDIT - - X -
+           ETC/FSTAB - - X -
+              FORMAT - - X X
+           PARTITION - - X X
+                   C - - - X
+                   \ - - - S
+               LINUX - - - S
+              FRIEND - - - S

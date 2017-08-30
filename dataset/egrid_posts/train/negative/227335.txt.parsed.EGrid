@@ -1,0 +1,17 @@
+              PCMCIA X - - -
+                CARD S - - -
+              ROUTER O - - -
+             NETWORK S X - -
+                THAT - O - -
+             MANAGER - S - -
+             COMMAND - - O -
+            TERMINAL - - X -
+                SUDO - - X -
+           NM-APPLET - - O -
+                  MM - - - X
+              SYSTEM - - - O
+                   > - - - X
+               ADMIN - - - X
+                 LOG - - - X
+     /VAR/LOG/SYSLOG - - - X
+                 HDD - - - X

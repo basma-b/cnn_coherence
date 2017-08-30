@@ -1,0 +1,15 @@
+                SIZE X - - - -
+           PARTITION X X - - -
+               MOUNT - X - - -
+              BACKUP - X - - -
+                 USE - S - - -
+             GPARTED - O - - -
+                MOST - - - S -
+                WORK - - - X -
+             SERVERS - - - X -
+                 GUI - - - X -
+           FILEZILLA - - - - X
+                 MAC - - - - X
+              BRIDGE - - - - X
+                 GAP - - - - X
+                FILE - - - - O

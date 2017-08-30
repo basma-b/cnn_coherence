@@ -1,0 +1,19 @@
+                 RSA X - - - - -
+                 KEY X - - - - -
+              SERVER X - - X - -
+                 SCP - - S - - -
+        PASSWORD-WAY - - O - - -
+                 LOG - - X - - -
+                 VIM - - X - - -
+              WINDOW - - X - - -
+                COPY - - - O - -
+                THIS - - - O - -
+                 USB - - - X - -
+                NEED - - - O - -
+   ~/.SSH/ID_RSA.PUB - - - X - -
+   ~/.SSH/ID_DSA.PUB - - - O - -
+~/.SSH/AUTHORIZED_KEYS - - - X - -
+                 HMM - - - - S -
+                 IVE - - - - - S
+                  OS - - - - - O
+                HERE - - - - - X

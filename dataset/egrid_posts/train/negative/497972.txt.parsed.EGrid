@@ -1,0 +1,22 @@
+                 YUM S - - - - - -
+                  -Y S - - - - - -
+SYSTEM-CONFIG-VSFTPD O - - - - X -
+             PACKAGE O - X - - X -
+              METHOD S - - - - - -
+                SUDO X - X - - - -
+             APT-GET X - S - - - -
+               MORTH - - O - - - -
+             READING - - X - - - -
+                LIST - - X - - - -
+                  .. - - O X - - O
+            BUILDING - - - X - - -
+          DEPENDENCY - - - X - - -
+                TREE - - - X - - -
+               STATE - - - X - - -
+         INFORMATION - - - X - - -
+              VSFTPD - - - - S - -
+             VERSION - - - - X - -
+               THATS - - - - - O -
+               ERROR - - - - - X -
+                THAT - - - - - - O
+              UBUNTU - - - - - - X

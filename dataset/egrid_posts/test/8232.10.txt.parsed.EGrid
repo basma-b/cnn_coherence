@@ -1,0 +1,15 @@
+                  IM S - - - -
+              SYSTEM X - - - -
+               GRUB2 O - - - -
+                BOOT X - - - -
+          PARAMETERS O - - - -
+                FALL X - - - -
+   /ETC/DEFAULT/GRUB O - - - -
+         UPDATE-GRUB O - - - -
+ /BOOT/GRUB/GRUB.CFG - O - - -
+             GPARTED - - - O -
+           INSTALLER - - - X -
+           PARTITION - - - O -
+                 ^^^ - - - - S
+            ANYTHING - - - - X
+               DRIVE - - - - X

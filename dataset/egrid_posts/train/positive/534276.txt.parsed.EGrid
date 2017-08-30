@@ -1,0 +1,14 @@
+               THERE X - -
+             COMMAND X - -
+             DEVICES S X -
+            COMPUTER X - -
+            INSTANCE X - -
+                CARD X - X
+              READER X - O
+               LSPCI X - -
+               LSUSB X - -
+                WORK - - O
+             PROBLEM - - S
+               512MB - - X
+           /DEV/SDB1 - - X
+                 8GB - - X

@@ -1,0 +1,14 @@
+   START-STOP-DAEMON X - - - - - -
+              OPTION X - - - X - -
+           LOG-LEVEL X - - - S - -
+                HELP X - - - - - -
+         INFORMATION X - - - - - -
+                TIME - O - - - - -
+              THANKS - X - - - - -
+                LINE - O - - - - -
+               NOISE - - - X - - -
+            PROGRAMM - - - - X - -
+   START-STOP-DEAMON - - - - X - -
+                BOOT - - - - - - X
+              DEVICE - - - - - - O
+          /ETC/FSTAB - - - - - - X

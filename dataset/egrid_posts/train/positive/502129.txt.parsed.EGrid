@@ -1,0 +1,13 @@
+               GNOME S - - - -
+/USR/BIN/GNOME-SESSION O - - - -
+               THERE - X - - -
+        LXDE-SESSION - X - - -
+           LXSESSION - - O - S
+           /USR/BIN/ - - X - -
+                FILE - - S - -
+            FUNCTION - - O - -
+       GNOME-SESSION - - X - -
+  /USR/BIN/LXSESSION - - - O -
+                   * - - - - X
+               ERROR - - - - X
+                SIDE - - - - X

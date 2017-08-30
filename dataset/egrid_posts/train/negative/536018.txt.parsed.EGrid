@@ -1,0 +1,14 @@
+                 AP_ X - -
+               THERE S - -
+               INPUT X X -
+                RULE O S -
+              ACCESS - X -
+                CHJA - X -
+            IPTABLES - X -
+                  -I - X -
+                   < - X -
+           INTERFACE - S -
+                 TCP - O -
+               STATE - X -
+                  -J - X -
+               HOHUP - - S

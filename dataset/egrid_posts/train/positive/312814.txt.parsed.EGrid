@@ -1,0 +1,17 @@
+         DIRECTORIES O O - -
+           DIRECTORY X - O -
+               RIGHT O - - -
+                /USR - X - -
+                SUDO - X X -
+                  CP - S - -
+                  .. - X O -
+              ANYONE - X - -
+                ROOT - - X -
+            PASSWORD - - O -
+                  CG - - X -
+        /USR/INCLUDE - - X -
+               THATS - - X -
+                 CMD - - - X
+                LINE - - - X
+               ERROR - - - X
+                 MSG - - - X

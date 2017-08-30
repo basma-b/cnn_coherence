@@ -1,0 +1,35 @@
+/DEV/DISK/BY-SOMETHING/ X - - - - - - - - - -
+/DEV/DISK/BY-SOMETHING - X - - - - - - - - -
+                WORD - X - - - - - - - - -
+           SOMETHING - X O - - - - - - - -
+              ACCORD - O - - - - - - - - -
+                INFO - X - - - - - - - - -
+               LABEL - - X - - - - - - - -
+                PATH - - X - - - - - - - -
+                  ID - - X - - - - - - - -
+                SWAP - - X - - - - - - - -
+                 HDD - - X - - - - - - - -
+                 USB - - S - - - - - - - -
+               DRIVE - - O - - - - - - - -
+               FDISK - - - X - - - - - - -
+                  -L - - - X - - - - - - -
+                DISK - - - X - - - - - - -
+            /DEV/SDB - - - S - - - - - - -
+           PARTITION - - - X O - O - - - -
+               TABLE - - - O - - - - - - -
+                SUDO - - - - X - - - - - -
+                  OS - - - - O - - - - - -
+              CFDISK - - - - X - - - - - -
+            /DEV/DSB - - - - O - - - - - -
+          EVERYTHING - - - - X - - - - - -
+                TYPE - - - - S - - - - - -
+         FILESYSTEMS - - - - O - - - - - -
+             COMMAND - - - - - O - - - - -
+              MINUTE - - - - - X - - - - -
+                HERE - - - - - - - X - - -
+                  OK - - - - - - - X - - -
+                LINE - - - - - - - - X - -
+           MKFS.EXT3 - - - - - - - - X - -
+                FILE - - - - - - - - - O -
+            RECOVERY - - - - - - - - - X -
+                MODE - - - - - - - - - O -

@@ -1,0 +1,27 @@
+                TIME X - - - - - - -
+             PROBLEM S - - - - - - -
+               CAUSE O - - - - - - -
+              KERNEL X - - - - - - -
+               FRAME X - - - - - - -
+              BUFFER X - - - - - - -
+             SUPPORT O - - - - - - -
+                BOOT X - - - S - - -
+                LINE - X X - - - - -
+              VESAFB - X X - - - - -
+               FBCON - O - - - - - -
+                FILE - X - - - - - -
+             COMMENT - - O - - - - -
+/ETC/MODPROBE.D/BLACKLIST-FRAMEBUFFER - - X - - - - -
+                THAT - - - X - O - -
+           INITRAMFS - - - O - - - -
+             COMMAND - - - X - - - -
+                SUDO - - - X - - - -
+    UPDATE-INITRAMFS - - - X - - - -
+                  -U - - - X - - - -
+          GUARENTEES - - - - X - - -
+          WARRANTIES - - - - X - - -
+              ADVICE - - - - X - - -
+                  NP - - - - X - - -
+                WORK - - - - O - - -
+              SCREEN - - - - X - - -
+               ARRAY - - - - - - - O

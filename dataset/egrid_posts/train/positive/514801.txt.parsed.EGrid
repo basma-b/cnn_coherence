@@ -1,0 +1,8 @@
+             COMMAND X - - - - - -
+             SERVICE X - - - - - -
+              SERVER O - - - - - -
+                  PS - - - S - X -
+              OPTION - - - - X - -
+                GREP - - - - - X -
+                   < - - - - - O -
+                   > - - - - - X -

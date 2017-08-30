@@ -1,0 +1,17 @@
+                CARD O O X - - -
+                  .. O - - - - -
+              IWLIST - X - - - -
+             NETWORK - S X - - -
+             ATHEROS - - X - - -
+            PROBLEMS - - S - - -
+               WLAN0 - - S - - -
+              RESULT - - O - - -
+             MANAGER - - O - - -
+                SUDO - - O - - -
+                   U - - S - - -
+              OUTPUT - - O - - -
+               RIGHT - - X - - -
+                 FIX - - - - S -
+/ETC/MODPROBE.D/BLACKLIST - - - - O -
+             ATH_PCI - - - - O -
+                 HMM - - - - - X

@@ -1,0 +1,5 @@
+       OMAP3_USBLOAD S -
+                FILE O -
+                HTTP O -
+ OMAP_BOOT_PROCEDURE X -
+               CHMOD O -

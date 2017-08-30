@@ -1,0 +1,12 @@
+             CONTENT O - - -
+                /VAR S - - -
+           PARTITION O - - -
+               STORE O - - -
+        SUBDIRECTORY X - - -
+             SYMLINK O - - -
+               CACHE - X - -
+                 DIR - X - -
+                WORK - X - -
+                LIST - - - X
+              THINGS - - - X
+           SOMETHING - - - X

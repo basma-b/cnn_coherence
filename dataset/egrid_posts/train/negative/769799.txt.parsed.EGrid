@@ -1,0 +1,13 @@
+           PARTITION O - - O -
+                /MNT O - - - -
+          FILESYSTEM X X - - -
+                TYPE O - - - -
+               FDISK - - X - -
+                  -L - - S - -
+                DISK - - O - -
+                 ALL - - X - -
+                SUDO - - X - -
+               ISSUE - - O - -
+                BOOT - - X - -
+                /DEV - - - X -
+                 THY - - - - X

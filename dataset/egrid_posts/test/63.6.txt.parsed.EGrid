@@ -1,0 +1,14 @@
+              CUSTOM S - - -
+                 PPA - S - -
+                 ALL - X - -
+                SUDO - X - O
+             APT-GET - X - -
+             UPGRADE - X - -
+              OPTION - X - -
+                REPO - O - -
+             EXAMPLE - - X -
+                HTTP - - X -
+//BLOG.MYCROT.CH/2011/04/26/CREATING-YOUR-OWN-SIGNED-APT-REPOSITORY-AND-DEBIAN-PACKAGES/ - - X -
+/PATH/TO/FILENAME.DEB - - - X
+                  -F - - - S
+                DEPS - - - O

@@ -1,0 +1,15 @@
+                GRUB - X - X - -
+                   | - S - - - -
+             PROBLEM - - - O - -
+                DISK - - - O - -
+               /DEV/ - - - X - -
+             COMMAND - - - O - -
+                BIND - - - - S -
+                /DEV - - - - X -
+               /PROC - - - - O -
+              CHROOT - - - - X -
+               TEHRE - - - - S -
+            /DEV/HDA - - - - X -
+            /DEV/SDA - - - - O -
+               KINDA - - - - - X
+          UNPOSSIBLE - - - - - X

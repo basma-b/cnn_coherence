@@ -1,0 +1,23 @@
+               FRESH O - - - - -
+             DESKTOP X - - - - -
+               ERROR O - - - - -
+           INITRAMFS S - - - - -
+          /DEV/LOOP0 S - - - - -
+//FILESYSTEM.SQUASHFS X - - - - -
+            ARGUMENT S - - - - -
+/CDROM/CASPER/FILESYSTEM.SQUASHFS X - - - - -
+ FILESYSTEM.SQUASHFS X - - - - -
+                HELP X - - - - -
+                 ISO - X - - - -
+                  CD - - X X - -
+              DEFECT - - - X - -
+                TEST - - - - X -
+                 USB - - - - X -
+         CONSISTANCY - - - - O -
+                 RAM - - - - O -
+                BOOT - - - - S -
+              SCREEN - - - - O -
+                YTOU - - - - S -
+                NOTE - - - - - X
+             MEMTEST - - - - - S
+             WINDOWS - - - - - O

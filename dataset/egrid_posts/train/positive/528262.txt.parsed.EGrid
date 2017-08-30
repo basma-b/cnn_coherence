@@ -1,0 +1,22 @@
+                HELL X - - - - - - - - -
+          EVERYTHING - O - - - - - - - -
+              ERRORS - O - - - - - - - -
+             APT-GET - X - - - - - - - -
+                LINK - X - - - - - - - -
+                WORK - O - - - - - - - -
+                 GUY - X - - - - - - - -
+                 APT - S - - - - - - - -
+             VERSION - X - - - - - - - -
+                SUDO - - - X - - - - - -
+                WGET - - - X - - - - - -
+                HTTP - - - O - - - - - -
+//WWW.MEDIBUNTU.ORG/SOURCES.LIST.D/HARDY.LIST - - - O - - - - - -
+OUTPUT-DOCUMENT=/ETC/APT/SOURCES.LIST.D/MEDIBUNTU.LIST - - - O - - - - - -
+          REPOSITORY - - - O - - - - - -
+               INTEL - - - - - X - - - -
+                ATOM - - - - - X - - - -
+           PROCESSOR - - - - - O - - - -
+                THAT - - - - - - X - - -
+               AMD64 - - - - - - X - - X
+              X86_64 - - - - - - - X - -
+        ARCHITECTURE - - - - - - - - - X

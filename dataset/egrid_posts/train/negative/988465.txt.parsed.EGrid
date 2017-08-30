@@ -1,0 +1,9 @@
+ /BOOT/GRUB/MENU.LST O - - - -
+       NONALTOPTIONS S X - - -
+            NOSPLASH X - - - -
+              THANKS X - - - -
+                PART - X - - -
+                LINE - X - - -
+             COMMENT - - X - -
+             EXAMPLE - - X - -
+                 YES - - - - X

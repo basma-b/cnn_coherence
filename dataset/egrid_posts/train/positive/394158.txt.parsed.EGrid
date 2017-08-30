@@ -1,0 +1,9 @@
+                PIPE X - - - -
+                TEXT O - - - -
+                GREP X - - - -
+                  EG - X - - -
+             LS|GREP - X - - -
+                  -I - X - - -
+                 BOB - S - - -
+                OOPS - - X - -
+              COFFEE - - - - S

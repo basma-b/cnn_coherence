@@ -1,0 +1,10 @@
+             COMMAND X - -
+               VIDIO X - -
+                CARD X - -
+               LSPCI - X -
+                   | - X -
+                GREP - X -
+                  -I - X -
+                 VGA - S -
+                  IM - - S
+            VERLIHUB - - O

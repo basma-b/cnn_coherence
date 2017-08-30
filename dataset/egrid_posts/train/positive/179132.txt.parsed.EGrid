@@ -1,0 +1,17 @@
+               THERE X - - X - -
+                 WAY X - - X - -
+                NTFS X X - - - -
+                DISK X X - - - -
+               FAT32 - X - - - -
+              FORMAT - X - - - -
+                BOOT - - S - - -
+                 WIN - - X - - -
+                  CD - - O - - -
+              RESCUE - - X - - -
+              FIXMBR - - O - - -
+                GRUB - - O - - X
+              OPTION - - O - - -
+              MS-DOS - - X - - -
+             WINDOWS - - - - - S
+                 MBR - - - - - X
+            HARDDSIK - - - - - X

@@ -1,0 +1,17 @@
+                   > S - - -
+                IDEA X - - -
+            IPTABLES O S - X
+                 LOG O O - -
+           INTERFACE X - S S
+               BASIS X - - -
+                 USE X - - -
+           SHOREWALL O - - -
+                PPPD - X - -
+                LINE - - X -
+                  .. - - X -
+               THERE - - - S
+                HOOK - - - O
+              PACKET - - - X
+                BASE - - - O
+              IN/OUT - - - O
+                RULE - - - S

@@ -1,0 +1,11 @@
+                FILE X X -
+           PARTITION X - -
+                 LVM X - -
+               FLASH X X -
+               DRIVE X X -
+                WONT S - -
+              TARGET - X -
+              SYSTEM - X -
+                  IO - - X
+               ERROR - - X
+             NOTHING - - X

@@ -1,0 +1,33 @@
+                  HM X - - - - - - - -
+                THIS O - - - - - - - -
+              INSMOD X - - - - - - - -
+       SND-HDA-INTEL X - - - - - - - -
+                FILE X - - - - - - - -
+           DIRECTORY X - - - - - - - -
+                SUDO - S - - - - - - -
+        MODEL=LAPTOP - O - - - - - - -
+                   * - S - - - - - - -
+               MIXER - X - - - - - - -
+               LEVEL - O - - - - - - -
+                HTTP - - O - - - - - -
+//PASTEBIN.CA/554814 - - S - - - - - -
+            SPEAKERS - - X - - - - - -
+          HEADPHONES - - O - S - - - -
+               POWER - - - - X - - - -
+              CODECS - - - - S - - - -
+                THAT - - - - - O - - -
+              SOURCE - - - - - O - - -
+              REBOOT - - - - - - S - -
+                  'S - - - - - - - - S
+              1.0.14 - - - - - - - - O
+             PACKAGE - - - - - - - - O
+             TARBALL - - - - - - - - O
+        WITH-OSS=YES - - - - - - - - X
+  WITH-SEQUENCER=YES - - - - - - - - X
+                  -R - - - - - - - - X
+              /BUILD - - - - - - - - X
+     INSTALL-MODULES - - - - - - - - O
+                LOOK - - - - - - - - O
+             CONTENT - - - - - - - - X
+/PROC/ASOUND/VERSION - - - - - - - - X
+                 CAT - - - - - - - - X

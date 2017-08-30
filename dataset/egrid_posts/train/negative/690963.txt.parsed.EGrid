@@ -1,0 +1,17 @@
+                LINK O - X - - -
+                PATH X - S - - -
+           DIRECTORY X - - - - -
+                FILE O - S O - -
+         DIRECTORIES X - O - - -
+              BINARY - S - - - -
+               HOUSE - O - - - -
+                TIME - - X - - -
+             COMMAND - - O - - -
+      /USR/LOCAL/BIN - - O - - -
+             SYMLINK - - - O - -
+                DATE - - - - - X
+               THING - - - - - X
+               MONTH - - - - - S
+                DONT - - - - - S
+                  .. - - - - - X
+             VERSION - - - - - O

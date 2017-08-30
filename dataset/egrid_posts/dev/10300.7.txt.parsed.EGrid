@@ -1,0 +1,13 @@
+             COMMAND X - -
+          AUTOREMOVE X - -
+             PACKAGE O - -
+                 ALL X - -
+        DEPENDENCIES O - -
+              CONFIG X - -
+                FILE O - -
+                 ANY X - -
+               THERE - - S
+          DISCUSSION - - O
+             COMMENT - - X
+          WORKAROUND - - O
+                CODE - - X

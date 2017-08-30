@@ -1,0 +1,29 @@
+                SUDO X - - - - - - - -
+/ETC/INIT.D/NETWORKING S - - - - - - - -
+               THING S - - X - - - - -
+               IDEAS O - - - - - - - -
+                ETH0 - O - - - - - - -
+             COMMAND - - O - - - - - -
+              IFDOWN - - - X - - - - -
+           INTERFACE - - - S - - - - -
+                SHOW - - - X - - - - -
+                ETH1 - - - X - - - - -
+             NETWORK - - - O - - - - -
+                  .. - - - - X - - - -
+               LEASE - - - - O - - - -
+                DHCP - - - - X - - - -
+             ADDRESS - - - - O - - - -
+              SUBNET - - - - X - - - -
+                LIST - - - - S - - - -
+         IFDOWN/IFUP - - - - S - - - -
+                 WAY - - - - X - - - -
+/ETC/NETWORK/INTERFACES - - - - - S - - -
+                THAT - - - - - - S - -
+      /VAR/LIB/DHCP3 - - - - - - O - -
+               TURDS - - - - - - X - -
+                THIS - - - - - - - - S
+             UPGRADE - - - - - - - - O
+                9.04 - - - - - - - - X
+            BEHAVIOR - - - - - - - - O
+                  KK - - - - - - - - S
+            POINTERS - - - - - - - - X

@@ -1,0 +1,17 @@
+                TIME O - -
+       /VAR/LIB/SUDO X - -
+            WRITABLE S - -
+           NON-OWNER X - -
+                MODE O - -
+                ERRR S - -
+                MESS O - -
+                FILE X - -
+                SUDO X - -
+             SERVICE X - -
+                SMBD S - -
+         PERMISSIONS X - -
+              SYSTEM X - -
+                 ALL X - -
+                  OS S - -
+                DATA - O -
+              BACKUP - X -

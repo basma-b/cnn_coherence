@@ -1,0 +1,16 @@
+             LOGFILE S - - - -
+               -LSB- X - - - -
+               REPLY X - X - -
+                   = S - - - -
+              STRING X X O - -
+               -RSB- X - - - -
+       DO_THE_ACTION S - - - -
+                  FI S - - - -
+                LINE X - X - -
+               MATCH X - - - -
+                   * - S - - X
+                GLOB - O - - -
+            VARIABLE - - S - -
+                 FOO - - - - X
+               THATS - - - - O
+                 THX - - - - X

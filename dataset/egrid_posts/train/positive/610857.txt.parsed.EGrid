@@ -1,0 +1,30 @@
+     DOVECOT-POSTFIX X - - - - O O -
+               ERROR X O - - - - - -
+              RETURN X X - - - - - -
+              ERRORS S - - - - - - -
+             PROCESS X - - - - - - -
+               -RSB- X - - - - - - -
+             DOVECOT O O - - - - - -
+                 USE X X - - - - - -
+             APT-GET - X - S - S S -
+      DOVECOT-COMMON - S - - - - - -
+              OUTPUT - O - - - O - -
+                   E - S - - - - - -
+       /USR/BIN/DPKG - S - - - - - -
+                CODE - O - - - - - -
+             PACKAGE - - S - - - - X
+           REINSTALL - - - - - X - -
+                HTTP - - - - - S X -
+                 THE - - - - - - X -
+               TOUCH - - - - - - X -
+/ETC/DOVECOT/DOVECOT.CONF - - - - - - S -
+               MKDIR - - - - - - X -
+        /ETC/DOVECOT - - - - - - X -
+              SCRIPT - - - - - - S -
+        DOVECOT.CONF - - - - - - S -
+                FILE - - - - - - X -
+            INTERNET - - - - - - X -
+             EXAMPLE - - - - - - X -
+//PASTE.UBUNTU.COM/250693/ - - - - - - X -
+         MAINTAINERS - - - - - - - X
+             VERSION - - - - - - - X

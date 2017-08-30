@@ -1,0 +1,15 @@
+                THAT O - - - -
+    /ETC/HOSTS.ALLOW X - - - -
+      /ETC/SECURETTY S - - - -
+       /ETC/FTPUSERS X - - - -
+        /ETC/SUDOERS X - - - -
+         /ETC/GROUPS X - - - -
+          PERMISSION - O - - -
+               USERS - X - - -
+                CRAP - - - S -
+            QUESTION - - - X -
+                THIS - - - O -
+                HTTP - - - - X
+                   < - - - - X
+                LIST - - - - X
+           BACKPORTS - - - - S

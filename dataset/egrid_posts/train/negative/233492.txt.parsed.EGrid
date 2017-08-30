@@ -1,0 +1,10 @@
+                  OK - X - -
+                LOAD - O - -
+            CONFLICT - O - -
+                CARD - O - -
+              SYSTEM - X - -
+               CRASH - X - -
+               CHECK - S - -
+              MODULE - S - -
+            MODPROBE - - - X
+                  -L - - - O

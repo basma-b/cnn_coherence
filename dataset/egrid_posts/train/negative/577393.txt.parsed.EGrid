@@ -1,0 +1,10 @@
+                THAT S - - - S
+          AUTOREMOVE S - - - -
+                WORD O - - - -
+          DEPENDENCY X - - - -
+           SOMETHING X - - - -
+              REASON - X - - -
+                SUDO - X - - -
+     /ETC/INIT.D/FOO - S - - -
+             PROBLEM - - - O -
+           INTERFACE - - - X -

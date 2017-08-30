@@ -1,0 +1,12 @@
+                PIPE X - -
+              OUTPUT X - -
+             COMMAND X - -
+                TEXT X - -
+             OPTIONS - S -
+                 DIR - X -
+            FILE.TXT - O -
+          PERMISSION - O -
+                SUDO - O -
+                 ^^^ - S -
+               -BASH - O -
+                THIS - - X

@@ -1,0 +1,10 @@
+               UMASK - - - - O -
+               FSTAB - - - - X -
+             EXAMPLE - - - - - X
+                MINE - - - - - O
+        /MNT/WINDOWS - - - - - X
+                NTFS - - - - - X
+               USERS - - - - - X
+                  RO - - - - - X
+          UMASK=0222 - - - - - X
+            NLS=UTF8 - - - - - X

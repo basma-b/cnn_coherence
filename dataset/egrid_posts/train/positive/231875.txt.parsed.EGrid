@@ -1,0 +1,20 @@
+            INTERNET X - - X X - - -
+          CONNECTION X - - X S - - -
+               SHARE X - - X - - - -
+            TUTORIAL X - - - - - - -
+               LINUX - X - - - - - -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - O - - - - -
+             COMMAND - - X - - - - -
+                HOST - - - O - - - O
+             GATEWAY - - - X O - - X
+             MACHINE - - - S X - - X
+              ACCESS - - - O - - - -
+                THAT - - - - X - - -
+               OTHER - - - - S - - -
+              DEVICE - - - - O - - -
+             ADDRESS - - - - O - - -
+                  IP - - - - X - O O
+                 LOT - - - - O - - -
+              SERVER - - - - - S - -
+                BITE - - - - - X - -
+              SUBNET - - - - - - - X

@@ -1,0 +1,12 @@
+               FSTAB X - - -
+              OPTION O - - -
+                WORK X - - -
+              SYSTEM O - - -
+              NOAUTO - O - -
+                GRUB - X - -
+              BUTTON - X - -
+                   E - X - -
+              KERNEL - X - -
+              STRING - X - -
+                FILE - - - O
+              STREAM - - - S

@@ -1,0 +1,5 @@
+          /ETC/FSTAB O - - -
+              REBOOT X - - -
+                SUDO - - S X
+             SERVICE - - - X
+          PULSEAUDIO - - - S

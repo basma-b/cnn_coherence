@@ -1,0 +1,23 @@
+               SETUP X - - - - -
+             OPENVPN X X - - - -
+                 BOX X - - - - -
+             NETWORK O - - - - -
+               ERROR O - - - - -
+           INTERFACE X X - - - -
+             BR0=BR0 O - - - - -
+/ETC/NETWORKING/INTERFACES - X - - - -
+               PASTE - O - - - -
+/ETC/NETWORK/INTERFACES - X - - - -
+                HTTP - O - - - -
+                LINK - O - - - -
+               IFACE - O - - - -
+                LINE - S - - - -
+              UBUNTU - X - - - -
+           COMMUNITY - X - - - -
+               HOWTO - X - - - -
+                  .. - O - - - -
+               THOSE - - - S S -
+                  HD - - - X X -
+                   X - - - - X X
+                 1TB - - - - X S
+                RAID - - - - O O

@@ -1,0 +1,15 @@
+              PERSON S - - - -
+               MEDIA O X - - -
+             EXAMPLE - X - - -
+                 MPD - O - - -
+               MUSIC - X - - -
+          /HOME/MPD/ - O - - -
+              SOURCE - X - - -
+        /VAR/LIB/MPD - S - - -
+                DATA - S - - -
+               STORE - X - - -
+         /VAR/MUSIC/ - - X - -
+         /USR/SHARE/ - - - X -
+           /VAR/LIB/ - - - S -
+     /VAR/LIB/SAMBA/ - - - O -
+                   S - - - - X

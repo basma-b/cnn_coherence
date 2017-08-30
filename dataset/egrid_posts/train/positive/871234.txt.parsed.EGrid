@@ -1,0 +1,19 @@
+                 HEY S - -
+NO-INSTALL-RECOMMENDS O - -
+        DEPENDENCIES O S -
+             PACKAGE X O -
+                LIST - S -
+           APT-CACHE - X -
+             EXAMPLE - X -
+             COMMAND - O -
+               FPING - X -
+          DEPENDENCY - X -
+             GETTEXT - X -
+           HTML2TEXT - X -
+           LIBCROCO3 - X -
+          PO-DEBCONF - X -
+          BUILD-DEPS - S -
+                SAME - O -
+                DEPS - S -
+                  OK - - S
+               SENSE - - O

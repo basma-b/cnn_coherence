@@ -1,0 +1,19 @@
+             PACKAGE S - - - - -
+               THOSE S - - - - -
+            ORIGINAL O - - - - -
+          AUTOREMOVE - S - - - -
+                THIS - - - X - -
+                 AND - - - - X -
+                  PS - - - - X -
+                   | - - - - X -
+                GREP - - - - X -
+            DHCLIENT - - - - X -
+     NETWORK-MANAGER - - - - S O
+           INTERFACE - - - - X O
+                LIST - - - - O -
+/ETC/NETWORK/INTERFACES - - - - O -
+             SERVICE - - - - O -
+               SEVER - - - - X -
+          INTERFACES - - - - X -
+               ENTRY - - - - - S
+                FILE - - - - - X

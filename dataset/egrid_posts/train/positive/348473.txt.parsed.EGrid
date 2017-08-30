@@ -1,0 +1,24 @@
+               STUFF X - - - - -
+                GREP X - - - - -
+               CACHE - O O - - -
+                FILE - X - - - -
+/VAR/CACHE/APT/ARCHIVES - X - - - -
+                SUDO - - X - - X
+             APT-GET - - S - - S
+              SYSTEM - - S - - -
+                 USE - - O - - -
+             PACKAGE - - X - - -
+             MANAGER - - S - - -
+               THERE - - S - - -
+       CONFIGURATION - - X - - -
+             PROGRAM - - X - - -
+                 APP - - O - - -
+               PURGE - - - O - -
+                THIS - - - S - -
+             COMMAND - - - O - -
+                THAT - - - - - X
+                NAME - - - - - X
+                   > - - - - - O
+            APTITUDE - - - - - S
+             FEATURE - - - - - O
+          SYNTAX/WAY - - - - - S

@@ -1,0 +1,23 @@
+                TIME X - - - - - - -
+             PROBLEM X - - - - - - -
+               CRASH X - - - - - - -
+              ANYONE - S - - - - - -
+                THIS - X X - - - - -
+            TERMINAL - - X - - - - -
+              ERRORS - - X - - - - -
+       NAUTILUS:3149 - - X - - - - -
+                   * - - O - - - - -
+  G_VALUE_GET_OBJECT - - X - - - - -
+           ASSERTION - - X - - - - -
+G_VALUE_HOLDS_OBJECT - - S - - - - -
+               VALUE - - X - - - - -
+            SETTINGS - - X - - - - -
+              SCHEMA - - O - - - - -
+ORG.GNOME.NAUTILUS.PREFERENCES - - S - - - - -
+                NAME - - O - - - - -
+            HUNDREDS - - X - - - - -
+               THERE - - - S - - - -
+              OTHERS - - - X - - - -
+                 LOT - - - - S - - -
+                SAME - - - - O - - -
+           GSETTINGS - - - - - S - -

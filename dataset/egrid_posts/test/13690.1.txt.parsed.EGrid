@@ -1,0 +1,15 @@
+               ERROR X - - - -
+             MESSAGE O - - - -
+                LOAD X - - - -
+               SHARE X X - - -
+           LIBRARIES S - - - -
+      LIBPHONON.SO.4 X S - - -
+              OBJECT X X - - -
+                FILE O O - - -
+           DIRECTORY X - S - -
+         APPLICATION O S - - -
+/USR/LIB/X86_64-LINUX-GNU/LIBPHONON.SO.4 - X - - -
+/USR/LIB/X86_64-LINUX-GNU - - X - -
+             LIBRARY - - X - -
+              SEARCH - - X - -
+                PATH - - X - -

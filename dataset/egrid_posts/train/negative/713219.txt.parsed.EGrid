@@ -1,0 +1,32 @@
+            WIRELESS X O - -
+                SHOW O - - -
+            IFCONFIG X - - -
+                 WAY X - - -
+               ATH9K - S - -
+                WORK - O - -
+             ATHEROS - X - -
+                CARD - X - -
+              ERRORS - O - -
+            MODPROBE - X - -
+                THIS - O - -
+             WARNING - X - -
+              CONFIG - X - -
+                FILE - X - -
+               .CONF - O - -
+/ETC/MODPROBE.D/NDISWRAPPER - X X -
+             RELEASE - X - -
+                   | - - X -
+                GREP - - X -
+                 ATH - - S -
+             NOTHING - - X -
+                SUDO - - X -
+/ETC/MODPROBE.D/NDISWRAPPER.CONF - - S -
+               ERROR - - X -
+             NETWORK - - O -
+            COMPUTER - - - S
+                DRAG - - - O
+               WHILE - - - X
+               USAGE - - - O
+                 CPU - - - X
+                CORE - - - X
+              LAPTOP - - - X

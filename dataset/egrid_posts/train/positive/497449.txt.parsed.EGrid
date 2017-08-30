@@ -1,0 +1,12 @@
+               STATE X - - - -
+          MASQUERADE X - - - X
+               TABLE X - O - S
+          CONNECTION - O - - -
+              ROUTER - X - - -
+               ISSUE - X - - -
+             COMMAND - X - - -
+                TYPE - - X - -
+               ROUTE - - S - -
+                ROUT - - X X S
+                INFO - - - X -
+                 NAT - - - - X

@@ -1,0 +1,23 @@
+                 USE X - - - - - -
+                 CLI X - - - - - -
+                USER - - X - - - -
+                 PPA - - X - - - -
+                 GPG - - - X - - -
+        –RECV-KEYS - - - S - - -
+           –EXPORT - - - X - - -
+            –ARMOR - - - S - - -
+                SUDO - - - X - - -
+             APT-KEY - - - S - - -
+               HTTPS - - - X X - -
+//LAUNCHPAD.NET/~KOW/+ARCHIVE/PPA - - - X - - -
+//HELP.LAUNCHPAD.NET/PACKAGING/PPA - - - - X - -
+                   % - - - - X - -
+               20PPA - - - - X - -
+              20YOUR - - - - X - -
+      20REPOSITORIES - - - - X - -
+              SIMPLE - - - - - X -
+                NEED - - - - - - S
+             FEATURE - - - - - - X
+              AUTHOR - - - - - - X
+              SYSTEM - - - - - - X
+          QDVDAUTHOR - - - - - - O

@@ -1,0 +1,25 @@
+                WUBI - X X - - O - - - -
+           INSTALLER - S S - - - - - - -
+                CANT - - S S - - - - - -
+                 ANY - - - - S - - - - -
+                BOOT - - - - - O - - - -
+             NETWORK - - - - - - - O O -
+               WLAN0 - - - - - - - X - -
+     192.168.10.0/24 - - - - - - - O X -
+               OCTET - - - - - - - O - -
+                DHCP - - - - - - - X - -
+              10-100 - - - - - - - X - -
+                  .1 - - - - - - - X - -
+             DEFAULT - - - - - - - X - -
+                  GW - - - - - - - X - -
+              ROUTER - - - - - - - - S -
+            INTERNET - - - - - - - - X -
+               ROUTE - - - - - - - - X -
+       192.168.1.109 - - - - - - - - X S
+                CASE - - - - - - - - S -
+                ROUT - - - - - - - - O O
+                 NAT - - - - - - - - O -
+               LINUX - - - - - - - - X X
+                ONES - - - - - - - - X -
+/PROC/SYS/NET/IPV4/IP_FORWARD - - - - - - - - - O
+                PATE - - - - - - - - - X

@@ -1,0 +1,13 @@
+             PROBLEM X - - -
+            ETHERNET X - S -
+                LINK O - - -
+                 BOX X - - -
+         JUMBO-FRAME X - - -
+               SPEED X - - -
+                FILE - O - -
+                 NFS - X - -
+               SHARE - X - -
+                 MTU - - S -
+                MESS - - - X
+        JUMBO-FRAMES - - - X
+            MTU=9000 - - - X

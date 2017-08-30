@@ -1,0 +1,14 @@
+              VSFTPD O - - - - - -
+                USER - O - - - - -
+                 FTP - O - - - - -
+  /USER/SBIN/NOLOGIN - X X - - - -
+             FTPUSER - X - - - - -
+               LOGIN - O - - - - -
+                THIS - O - - - - -
+                THAT - - - X - - -
+                TYPO - - - X S - -
+                LIST - - - - O - -
+         /ETC/SHELLS - - - - X - -
+                TEXT - - - - - - X
+              EDITOR - - - - - - X
+            PROBLEMS - - - - - - O

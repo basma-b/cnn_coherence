@@ -1,0 +1,15 @@
+                 WAY X - -
+             TRASFER X - -
+               USERS X - -
+                 BOX X - -
+                COPY - X -
+              PASSWD - X -
+               GROUP - X -
+              SHADOW - O -
+         /ETC/SHADOW - X -
+          /ETC/GROUP - X -
+                HOME - X -
+           DIRECTORY - O -
+                 ONE - - S
+               THING - - O
+           BACKPORTS - - X

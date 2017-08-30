@@ -1,0 +1,15 @@
+                TIME O - - -
+                WINE S - - -
+             TROUBLE O - - -
+                   C X - - -
+             SYMLINK - X S -
+                FILE - - O -
+             POINTER - - O -
+                CALL - - X -
+            /FOO/BAR - - O -
+                LIKE - - O -
+            /BAR/FOO - - O -
+             WINDOWS - - X -
+           SHORTCUTS - - X -
+             WELCOME - - - X
+                   ~ - - - X

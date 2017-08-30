@@ -1,0 +1,10 @@
+             COMMAND O - -
+                ROOT X - -
+                BOOT X - X
+                SUDO - X -
+             CRONTAB - X -
+                  -E - S -
+                LINE - O -
+                FILE - X -
+                   @ - X -
+              REBOOT - X -

@@ -1,0 +1,12 @@
+              FORMAT X - -
+               THUMB X - -
+               DRIVE X - -
+                NTFS X - -
+             OPTIONS - S -
+                  IM - S -
+                 BTW - O -
+           BTFSPROGS - X -
+             NTFS-3G - O -
+               REPOS - X -
+           NTFSPROGS - - S
+             PACKAGE - - O

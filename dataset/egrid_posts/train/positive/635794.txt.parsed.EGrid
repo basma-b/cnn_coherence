@@ -1,0 +1,13 @@
+               GRUB2 X - - - - -
+             DEFAULT X - - - - X
+              KERNEL O - - - - -
+                BOOT O - - - - -
+   /ETC/DEFAULT/GRUB - X - - - -
+              NUMBER - O - - - -
+             KERNELS - X - - - -
+               WHICH - - O - - -
+                LIST - - - O - O
+               ORDER - - - X - -
+                THAT - - - - - S
+                FILE - - - - - X
+            VARIABLE - - - - - O

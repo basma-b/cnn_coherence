@@ -1,0 +1,9 @@
+       IPTABLES-SAVE S - - - - - -
+             OPTIONS O - - - - - -
+             ENTRIES X - - - - - -
+            CONTRACK X - - - - - -
+                THAT - O X - - - -
+                 BUG - S O - - - -
+                 ANY - - S - - - -
+            ANYTHING - - - O - - -
+                TIME - - - - O - -

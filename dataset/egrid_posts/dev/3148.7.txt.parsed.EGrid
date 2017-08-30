@@ -1,0 +1,14 @@
+                REPO X -
+         APPLICATION S -
+             PACKAGE X -
+                 USE O -
+           APT-CACHE X -
+              SEARCH X -
+              POLICY S -
+                   > S -
+                   $ - X
+            TMPHIST= - X
+            HISTFILE - X
+DOSOMETHING_YOU_WANT_UNLOGGED - X
+              EXPORT - X
+           HISTFILE= - X

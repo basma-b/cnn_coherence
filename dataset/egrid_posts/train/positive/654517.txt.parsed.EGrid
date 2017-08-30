@@ -1,0 +1,11 @@
+             SELINUX X - - - -
+           BYDEFAULT X - - - -
+             UBUNTU9 X - - - -
+                 USE - S - - -
+            APPARMOR - S - - -
+             DEFAULT - X - - X
+             SUPPORT - - - S -
+             PROFILE - - - - X
+     /ETC/APPARMOR.D - - - - O
+               HTTPS - - - - X
+//WIKI.UBUNTU.COM/SECURITYTEAM/KNOWLEDGEBASE/APPARMORPROFILES - - - - X

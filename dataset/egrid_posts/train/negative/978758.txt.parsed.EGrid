@@ -1,0 +1,16 @@
+             MODULES X - -
+           AUTO-LOAD X - -
+              UBUNTU X - -
+               THESE - S -
+            MODPROBE - X -
+           SND-SBAWE - X -
+         SND-PCM-OSS - X -
+       SND-MIXER-OSS - X -
+         SND-SEQ-OSS - O -
+              SYSTEM - S -
+                BOOT - X -
+             STARTUP - X -
+               SOUND - X -
+        /ETC/MODULES - O -
+               HTTPS - - X
+//HELP.UBUNTU.COM/COMMUNITY/LIVECDPERSISTENCE - - X

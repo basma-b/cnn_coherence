@@ -1,0 +1,16 @@
+             SOMEONE X - - - -
+         PERMISSIONS S - - - -
+                 DIR O - - - -
+            WWW-DATA - X - - -
+                  YA - - - X -
+                  .. - - - O -
+             BROWSER - - - X -
+               ERROR - - - O -
+        REQUIRE_ONCE - - - X -
+               -RSB- - - - X -
+                OPEN - - - S -
+./LIBRARIES/COMMON.LIB.PHP - - - O -
+       INCLUDE_PATH= - - - X -
+     /USR/SHARE/PEAR - - - - X
+/USR/SHARE/PHPMYADMIN/INDEX.PHP - - - - X
+                LINE - - - - X

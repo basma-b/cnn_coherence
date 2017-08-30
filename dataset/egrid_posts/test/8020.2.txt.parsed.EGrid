@@ -1,0 +1,10 @@
+           DIRECTORY S - -
+              PEOPLE S - -
+              ACCESS X - -
+          PERMISSION X - -
+           PERMISSON O - -
+         PERMISSIONS O - -
+       GNOME-SESSION - X -
+            KSESSION - O -
+                FILE - - O
+            XSESSION - - X

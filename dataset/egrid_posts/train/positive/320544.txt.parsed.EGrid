@@ -1,0 +1,18 @@
+                BIOS X - - X - - - -
+                BOOT X - - X - - - -
+               SETUP X - - - - - - -
+                LINK - O - - - - - -
+                HTTP - X - - - - - -
+//PASTE.UBUNTU-NL.ORG/31109/ - X - - - - - -
+                IDEA - X - - - - - -
+                SDA5 - - - S - - - -
+              DOESNT - - - S - - - -
+           PARTITION - - - O - - - -
+                DISC - - - X O X - -
+         HDA=SAMSUNG - - - - S - - -
+         SDA=SEAGATE - - - - - X - -
+                SCSI - - - - - X - -
+                GRUB - - - - - - - X
+                LOAD - - - - - - - S
+             WINDOWS - - - - - - - O
+               ERROR - - - - - - - X

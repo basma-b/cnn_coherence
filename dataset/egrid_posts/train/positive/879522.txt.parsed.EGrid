@@ -1,0 +1,16 @@
+             CONTENT X - - -
+        SUBDIRECTORY X - - -
+                 TAR X X X -
+             ARCHIVE X X - -
+              PARENT X - - -
+              FOLDER O - - -
+                -TVF - X - -
+                FILE - O - -
+                  XF - S - -
+                 XZF - - X -
+      ARCHIVE.TAR.GZ - - X -
+       PARENTFOLDER/ - - S -
+          SUBFOLDERS - - O -
+              OUTPUT - - X -
+PARENTFOLDER/SUBFOLDER1/ - - O -
+        PARENTFOLDER - - - O

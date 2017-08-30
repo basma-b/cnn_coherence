@@ -1,0 +1,11 @@
+                ANY1 S - - - - -
+              FORMAT X - X X O -
+               DRIVE X - X X - -
+                NTFS X - - - O -
+               SHELL X - O O - -
+             COMMAND X - - - - -
+               FDISK - X - - - -
+                 USE - - X X - -
+              SERVER - - - - X -
+                  .. - - - - O -
+           MKFS.NTFS - - - - S -

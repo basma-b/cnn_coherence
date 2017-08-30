@@ -1,0 +1,15 @@
+                PORT X O - X - -
+/ETC/SSH/SSHD_CONFIG - X - - - -
+ /ETC/SSH/SSH_CONFIG - X - - - -
+             OPTIONS - X - - - -
+                 YES - X - - - -
+              SERVER - S - - - -
+              OPTION - - X - - -
+         SSHD_CONFIG - - X - - -
+  ALLOWTCPFORWARDING - - - O - -
+            ANYTHING - - - O - -
+                  -X - - - O - -
+                   V - - - O - -
+                TH0R - - - X - -
+                  EX - - - - - X
+                RAUB - - - - - X

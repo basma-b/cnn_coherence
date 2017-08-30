@@ -1,0 +1,11 @@
+               ESSID O - - -
+           INTERFACE O - - -
+                  IP O - - -
+                NICS O X - -
+             SUBNETS X - - -
+                HOST O - - O
+               ROUTE X - - X
+              CLIENT - X - X
+                DONT - - - X
+               PATHS - - - O
+               TABLE - - - O

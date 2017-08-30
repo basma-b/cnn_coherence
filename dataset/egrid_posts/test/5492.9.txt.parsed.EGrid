@@ -1,0 +1,17 @@
+             PROBLEM O - - -
+              KERNEL X X - -
+               PANIC X - - -
+                SYNC X - - -
+               TIMER S - - -
+            REMAPPED X - - -
+                COMM X - - -
+               TAINT X - - -
+      UBUNTU-VERSION - X - -
+                 USE - - - X
+                ROUT - - - X
+               TABLE - - - O
+              SERVER - - - X
+              ROUTER - - - O
+             NETWORK - - - X
+                ETH0 - - - X
+           INTERFACE - - - X

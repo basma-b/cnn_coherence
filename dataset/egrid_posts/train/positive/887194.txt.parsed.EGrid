@@ -1,0 +1,15 @@
+                TIME X - X - -
+             DEFAULT X - - - -
+             STARTUP X - - - -
+             SERVICE X - - - -
+               10.04 X - - - -
+              CUSTOM X - - - -
+             PROGRAM S - - - -
+                BOOT X - X - -
+           PROGERAMS - S - - -
+               START - - X - -
+       /ETC/RC.LOCAL - - X - -
+                SSHD - - O - -
+              RENAME - - - - S
+/ETC/INIT/SERVICENAMEYOUWANT.CONF - - - - S
+                 WAY - - - - O

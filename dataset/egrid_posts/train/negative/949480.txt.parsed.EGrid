@@ -1,0 +1,17 @@
+           SOMETHING X - - - -
+                 VFS S - - - -
+           PARTITION S - - - -
+           /DEV/HDA3 O - - - -
+            REISERFS O S - - -
+             INSTALL X - - - -
+                THIS - X - - -
+              KERNEL - X - - -
+              MODULE - X - - -
+              REISER - - X - -
+                  IN - - X - -
+               FSTAB - - - S -
+   /ETC/DEFAULT/GRUB - - - X -
+              UPDATE - - - X -
+                GRUB - - - O -
+              RETURN - - - X -
+                   K - - - - S

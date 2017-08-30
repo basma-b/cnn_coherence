@@ -1,0 +1,22 @@
+                ARM7 X - - -
+                9.04 X - - -
+                DONT S - - -
+           CHKCONFIG O - - -
+                SSHD X - - -
+      OPENSSH-SERVER - S - -
+              SYSTEM - X - -
+               START - X - -
+                LINK - S - -
+                BLAH - X - -
+                BOOT - X - -
+                TEXT - S - -
+                 SME - S - -
+/ETC/SSH/SSHD_CONFIG - O - -
+     PERMITROOTLOGIN - O - -
+               SAMBA - - X X
+                USER - - - X
+             ACCOUNT - - - X
+         PERMISSIONS - - - X
+              COURSE - - - X
+            FIREWALL - - - X
+            SETTINGS - - - X

@@ -1,0 +1,16 @@
+         ENVIRONMENT X - - - -
+             PROCESS X - - - -
+                CORE X - - - -
+                DUMP X - - - -
+        SEGMENTATION X - - - -
+               FAULT X - - - -
+             COMMAND - O - - -
+                THIS - O - - -
+              SYSTEM - X - - -
+             PACKAGE - X - - -
+              ULIMIT - - S - -
+                BASH - - X - S
+                 YUP - - - O -
+                CALL - - - - X
+            FUNCTION - - - - X
+                 MAN - - - - O

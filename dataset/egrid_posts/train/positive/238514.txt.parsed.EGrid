@@ -1,0 +1,11 @@
+                TEXT X X - - -
+                SHOW X - - - -
+                GRUB X - - - -
+                MENU X - - X -
+             OPTIONS - X - - -
+ /BOOT/GRUB/MENU.LST - - X - -
+              HANSEL - - X - -
+             HEADERS - - - X -
+             FOOTERS - - - O -
+             ENTRIES - - - X -
+              SOURCE - - - - O

@@ -1,0 +1,22 @@
+             COMMAND - X - - X - - -
+            SYMLINKS - O - - - - - -
+            ORIGINAL - - X - - - - -
+             SYMLINK - - X O - - - -
+               POINT - - S - - - - -
+                  EG - - - X - - - -
+/USR/BIN/X-WWW-BROWSER - - - S - - - -
+/ETC/ALTERNATIVES/X-WWW-BROWSER - - - X - - - -
+             BROWSER - - - X X - - -
+                   < - - - - X - - -
+                   > - - - - X - - -
+             OPTIONS - - - - O - - -
+       X-WWW-BROWSER - - - - X - - -
+          EXECUTABLE - - - - O - - -
+                  -L - - - - - O - -
+                FILE - - - - - - X -
+            READLINK - - - - - - X -
+          /SOME/LINK - - - - - - S -
+                LINK - - - - - - O -
+                 WAY - - - - - - X -
+            APTITUDE - - - - - - - O
+               12.04 - - - - - - - X

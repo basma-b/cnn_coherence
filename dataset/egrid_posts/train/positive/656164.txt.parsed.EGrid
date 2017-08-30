@@ -1,0 +1,14 @@
+                BODY X - -
+             NETWORK X - -
+        TRANSMISSION O - O
+             COMMAND X - -
+                LINE X - -
+                 GUI X X -
+             PROCESS O - -
+                 CLI X - -
+            SHEDULER - X -
+              SYSTEM - X -
+         APPLICATION - S -
+             KILLALL - X -
+ TRANSMISSION-CLIENT - O -
+                 MAN - X -

@@ -1,0 +1,13 @@
+              BIRGER - S - -
+                ALL= - X - -
+                 ALL - X - -
+            NOPASSWD - O - -
+        /ETC/SUDOERS - X - -
+            PASSWORD - X - -
+                USER - X - -
+             COMMAND - - X -
+              VISUDO - - O -
+             SUDOERS - - O -
+             OCTOBER - - - X
+             REQUEST - - - O
+             VERSION - - - X

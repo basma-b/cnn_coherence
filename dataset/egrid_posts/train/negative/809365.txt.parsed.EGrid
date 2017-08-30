@@ -1,0 +1,10 @@
+              SYSTEM O O -
+          FILESYSTEM X - -
+              REPAIR O - -
+           FSCK.EXT4 X - -
+               ERROR X - -
+             PROGRAM S - -
+             SERVICE O - -
+             PROBLEM X O -
+                FILE - X -
+                  -S - - X

@@ -1,0 +1,9 @@
+                FILE X - -
+               10.10 X - -
+                 GDB - X -
+                XORG - X -
+          -CONFIGURE - X -
+          X11-COMMON - S -
+                  .. - O -
+        XSERVER-XORG - O -
+                THAT - - S

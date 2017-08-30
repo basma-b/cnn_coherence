@@ -1,0 +1,16 @@
+             PLYMOTH X - - -
+                BOOT X - - -
+                TEXT X X X -
+               LOGIN X X X -
+   /ETC/DEFAULT/GRUB X X - -
+              CHANGE - S - -
+               START - X X -
+              SPLASH - - O -
+             LIGHTDM - - O -
+           DR_WILLIS - - X -
+                  IM - - S -
+                 GDM - - S -
+                SAME - - O -
+              MOMENT - - X -
+GRUB_CMDLINE_LINUX_DEFAULT= - - S -
+                   G - - - X

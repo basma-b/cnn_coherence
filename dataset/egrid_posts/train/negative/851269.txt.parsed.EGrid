@@ -1,0 +1,17 @@
+                STOP X - -
+             NETWORK X - -
+             MANAGER O - -
+                 RUN X - -
+             SERVICE X - -
+     NETWORK-MANAGER X - -
+             COMMAND O - -
+                WORK O - -
+               START O - -
+             MESSAGE X - -
+           SOMETHING O O -
+                  NM - O -
+     /ETC/INTERFACES - X -
+           INTERFACE - X -
+               SAMBA - - O
+              CONFIG - - X
+              CHANGE - - S

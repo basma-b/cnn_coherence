@@ -1,0 +1,9 @@
+                WARN S -
+                ROOT X S
+         PERMISSIONS S -
+                DISK X -
+        REFORMATTING X -
+           REINSTALL X -
+                   ' - O
+                 TEE - X
+/SYS/DEVICES/PCI0000:00/0000:00:02.1/USB1/1-2/POWER/LEVEL - X

@@ -1,0 +1,7 @@
+                ROOT S - -
+         PERMISSIONS O - X
+              VISUDO - - S
+                FILE - - X
+        /ETC/SUDOERS - - S
+                 ALL - - X
+               ISSUE - - O

@@ -1,0 +1,14 @@
+               FSTAB X - - S - - -
+              NOAUTO O - - - - - -
+               CDROM S - - - - - -
+                  .. - O - - - - O
+                 SEC - X - - - - -
+                  YA - S - - - - X
+             RESTART - X - - - - -
+                THAT - - S - - - S
+                 ILL - - - S - - -
+                  -A - - - O - - -
+               DRIVE - - - O - - -
+              FLOPPY - - - - O - -
+                LIST - - - - O - -
+                BIOS - - - - X - -

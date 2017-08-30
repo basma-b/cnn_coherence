@@ -1,0 +1,18 @@
+               CHECK X - - -
+                HTTP X - - X
+//WWW.OPENPRINTING.ORG/SHOW_PRINTER.CGI X - - -
+RECNUM=LEXMARK-X1185 - S - -
+             PRINTER - S - -
+                WORK - O - -
+             SCANNER - S - -
+                THIS - S - -
+       MULTIFUNCTION - X - -
+              DEVICE - X - -
+                LIST - O - -
+               PRINT - X - -
+             PROBLEM - - S -
+               XSANE - - X S
+                SANE - - - X
+             PORTION - - - O
+//LINUX.DIE.NET/MAN/5/SANE-LEXMARK - - - X
+            GUIDANCE - - - X

@@ -1,0 +1,22 @@
+               LOGIN X - -
+                ROOT X S -
+                TIME - X -
+                SUDO - S S
+               ERROR - O -
+                  GO - X -
+            RECOVERY - X -
+            TERMINAL - X -
+               ISSUE - X -
+       /USR/BIN/SUDO - X -
+               CHMOD - X -
+              REBOOT - X -
+             PROBLEM - S -
+                 YEP - O -
+                 USE - X -
+          PREMISSION - O -
+                BIND - - X
+    /ETC/RESOLV.CONF - - O
+/MNT/ETC/RESOLV.CONF - - S
+                   > - - S
+               POINT - - X
+                LINK - - O

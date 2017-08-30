@@ -1,0 +1,24 @@
+         INVOKE-RC.D O - - - - - - -
+              CUPSYS X - - - - - - -
+              ACTION X - - - - - - -
+CUPSYS-DRIVER-GIMPPRINT - O - - - - - -
+               ERROR - X - - - - - -
+             PROCESS - X - - - - - -
+              DAPPER - X - - - - - -
+              REMOVE - - O - - - - -
+           FORCE-ALL - - S - - - - -
+                   U - - S S - - - -
+              SCRIPT - - O S X - - -
+                HAND - - X - - - - -
+          POSTREMOVE - - - X - - - -
+          PREINSTALL - - - X - - - -
+               CLEAN - - - S - - - -
+              OPTION - - - X - - - -
+              CHROOT - - - - X - - -
+                THIS - - - - X - - -
+             PROBLEM - - - - X - O -
+               CHECK - - - - - S - -
+                   > - - - - - O - -
+POSTINST|PRERM|POSTRM - - - - - - S -
+               FLASH - - - - - - X -
+               BREAK - - - - - - O -

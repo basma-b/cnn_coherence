@@ -1,0 +1,13 @@
+               SSHFS S - -
+     FOLLOW_SYMLINKS X X S
+             SYMLINK X X -
+                 WAY - O -
+  TRANSFORM_SYMLINKS - X -
+                LINK - X -
+            TRAVERSE - X -
+        FILE-SYSTEMS - X -
+                FILE - X -
+             SYSTEMS - X -
+                CASE - - X
+              CLIENT - - X
+                SIDE - - X

@@ -1,0 +1,19 @@
+                  .. S - - - -
+             COMMAND O - - - -
+          PERMISSION O - - - -
+              OUTPUT O O O - -
+                   > S - - - -
+         REDIRECTION O - - - -
+                FILE X X - - -
+               SHELL X - - - -
+                USER X X - - -
+                ROOT - X - - -
+                THIS - - O - -
+   /ETC/INIT.D/NGINX - - X - -
+               SETUP - - X - -
+             ARTICLE - - X - -
+                HTTP - - O - -
+//LIBRARY.LINODE.COM/WEB-SERVERS/NGINX/PHP-FASTCGI/UBUNTU-10.10-MAVERICK - - X - -
+               STICK - - S - -
+                 TEE - - O - -
+              THANKS - - X - -

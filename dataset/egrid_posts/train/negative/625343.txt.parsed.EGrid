@@ -1,0 +1,15 @@
+                SUDO S - -
+       SND_HDA_INTEL S - -
+             APT-GET S - -
+        ALSAMIXERGUI O - -
+            FUNCTION X - -
+        SND_CTL_OPEN S - -
+             DEFAULT X - -
+              DEVICE X - -
+              DRIVER S - -
+               SOUND - O -
+             CONTROL - X -
+               PANEL - X -
+              THANKS - - X
+            SCREENIE - - O
+                   | - - X

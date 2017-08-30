@@ -1,0 +1,10 @@
+           PARTITION X - - - - - - -
+              NUMBER S - - - - - - -
+                 IDE X - - - - - - -
+                SATA - X - - - - - -
+               SLAVE - - - X - - - -
+                 ETC - - - - X - - -
+              DETAIL - - - - - X - -
+                HDA2 - - - - - - - S
+                ROOT - - - - - - - O
+               HD0,1 - - - - - - - X

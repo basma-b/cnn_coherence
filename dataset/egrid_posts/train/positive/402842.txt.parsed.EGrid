@@ -1,0 +1,9 @@
+             COMMAND O O - -
+            DOWNLOAD O O - -
+         PERMISSIONS - - S -
+                USER - - X -
+                ROOT - - X O
+                  .. - - X -
+                 MAN - - - S
+               CHOWN - - - X
+                FILE - - - S

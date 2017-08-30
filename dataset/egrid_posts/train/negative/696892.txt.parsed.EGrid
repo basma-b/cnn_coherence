@@ -1,0 +1,12 @@
+             DRIVERS O - - - -
+             WINDOWS X - - - -
+            MODPROBE - X X - -
+            TERMINAL - X - - -
+                ROOT - - X - -
+             COMMAND - - X - -
+               LSMOD - - S - -
+             MODULES - - X - -
+                LOAD - - X - -
+          MODULENAME - - O - -
+                  -R - - X - -
+                KINO - - - X -

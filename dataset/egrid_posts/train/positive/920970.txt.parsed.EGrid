@@ -1,0 +1,10 @@
+                FLAG X - - -
+         ./CONFIGURE X - - -
+   DPKG-BUILDPACKAGE O - - -
+                RULE - S X -
+                FILE - - X X
+              SOURCE - - O -
+              LITTLE - - X -
+              CHANGE - - O X
+                LINE - - O -
+             CONTENT - - - X

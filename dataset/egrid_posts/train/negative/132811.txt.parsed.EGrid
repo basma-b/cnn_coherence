@@ -1,0 +1,12 @@
+/ETC/APT/SOURCES.LIST O - - - O - - -
+               WARTY O - X - - X - -
+               HOARY O X - - X - - -
+             SUPPORT - - X - - - - -
+                /MSG - - - S - - - -
+           REFERENCE - - - - O O - -
+                SUDO - - - - X - - -
+             APT-GET - - - - X - - -
+        DIST-UPGRADE - - - - X - - -
+XSERVER-I810-MODESETTING - - - - - - - X
+                SAME - - - - - - - X
+       XSERVER-INTEL - - - - - - - X

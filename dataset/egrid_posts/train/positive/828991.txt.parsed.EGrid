@@ -1,0 +1,13 @@
+         PERMISSIONS X - O - -
+                FILE X - X - O
+/ETC/APT/SOURCES.LIST - S - - -
+               CHMOD - - S - -
+             COMMAND - - O - -
+                CASE - - X - -
+                  +X - - X - -
+                   < - - S - -
+                   > - - O - -
+                   * - - S - -
+                NANO - - - X -
+               GEDIT - - - O -
+                SUDO - - - O S

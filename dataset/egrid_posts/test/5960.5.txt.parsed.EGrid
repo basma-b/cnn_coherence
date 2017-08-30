@@ -1,0 +1,15 @@
+             NETWORK X - - - -
+           INTERFACE S - O - -
+                  IP X - O - -
+            IFCONFIG X - - - -
+                TOOL O - - - -
+             MONITOR - - O - -
+           WIRESHARK - - S - -
+               ORDER - - S - -
+              SCREEN - - - X X
+             COMMAND - - - - S
+                  CD - - - - X
+/USR/LOCAL/MINECRAFT/ - - - - O
+      ./MCMABLAHBLAH - - - - X
+               ALIAS - - - - O
+                PART - - - - O

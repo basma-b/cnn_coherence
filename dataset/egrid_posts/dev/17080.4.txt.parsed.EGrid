@@ -1,0 +1,22 @@
+                THAT O - - - -
+                TYPE S - - - -
+                FILE S - - - -
+           DIRECTORY S - - - -
+            OPERATOR X - - - -
+                 LOG S - - - -
+                INFO O - - - -
+             MESSAGE S - - - -
+                WTMP X - - - -
+                THIS - - S - -
+            DISALLOW - - X - -
+            PASSWORD - - X - -
+                AUTH - - O - -
+                ROOT - - X - -
+             NOTHING - - O - -
+              CLIENT - - X - -
+                  .. - - X - -
+     PERMITROOTLOGIN - - S - S
+/ETC/SSH/SSHD_CONFIG - - - X -
+         SSHD_CONFIG - - - - X
+          SSH_CONFIG - - - - O
+                 EYE - - - - O

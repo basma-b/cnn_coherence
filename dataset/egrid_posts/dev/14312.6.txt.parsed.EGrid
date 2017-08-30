@@ -1,0 +1,15 @@
+                  IP O - - - -
+                   < X X - - -
+         VIRTUALHOST X X - - -
+                   > X - - - -
+             EXAMPLE - X - - -
+         10.8.0.1:80 - X - - -
+     192.168.1.10:80 - S - - -
+              KERNEL - - - - O
+           -PROPOSED - - - - S
+               HTTPS - - - - O
+               ISSUE - - - - O
+                THIS - - - - S
+             VERSION - - - - O
+//LAUNCHPAD.NET/UBUNTU/+SOURCE/LINUX/3.2.0-29.46 - - - - X
+           REFERENCE - - - - X

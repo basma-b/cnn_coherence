@@ -1,0 +1,15 @@
+   XMLNODEGETCONTENT X X - - - - - -
+             CONTENT O O - - - - - -
+        XML-SEQUENCE X X - - - - - -
+                TEXT X X - - O - - -
+            CONTENTS X X - - - - - -
+             LIBXML2 - - S - - - - -
+              SYTANX - - - S - - - -
+                   > - - - - X - - -
+               /TEXT - - - - X - - -
+               THING - - - - - - S -
+               GNOME - - - - - - O -
+             SESSION - - - - - - X -
+               LINUX - - - - - - - X
+               STUFF - - - - - - - O
+                 OWN - - - - - - - X

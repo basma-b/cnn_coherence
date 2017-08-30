@@ -1,0 +1,17 @@
+                HTTP X - - -
+            SMB.CONF X - - -
+              PUBLIC - - S -
+                 ALL - - X -
+               -LSB- - - X -
+               -RSB- - - O -
+               SHARE - - X -
+                   U - - S -
+                PICS - - O -
+             EXAMPLE - - X -
+                LINE - - X -
+               START - - X -
+             COMMENT - - X -
+              IGNORE - - X -
+                 SMB - - X -
+              DAEMON - - X -
+                THAT - - - O

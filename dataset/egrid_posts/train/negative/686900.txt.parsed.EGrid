@@ -1,0 +1,13 @@
+                TIME O -
+                HELP O -
+                WICD S -
+            PASSWORD S -
+          CONNECTION O O
+                WIRE X -
+                TYPE X -
+GNOME-NETWORK.MANAGER X -
+            INTERNET - X
+               NIGHT - X
+               DRIVE - O
+              BREEZY - S
+               CLEAN - O

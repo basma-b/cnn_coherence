@@ -1,0 +1,13 @@
+                 RUN X - - -
+             PROCESS S - - -
+          BACKGROUND X - - -
+                THAT - S - -
+                  FG - - S -
+          FOREGROUND - - X -
+                  .. - - O -
+                SUDO - - X -
+                STOP - - O X
+                 GDM - - S -
+             VERSION - - O -
+              CHANGE - - - O
+             COMMAND - - - X

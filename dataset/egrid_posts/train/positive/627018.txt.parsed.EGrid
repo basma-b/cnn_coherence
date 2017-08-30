@@ -1,0 +1,13 @@
+                 NOE S - - - - -
+             LIBTOOL S - - - - -
+             LIBRARY X - - - - -
+                 USE X - - - - -
+                 WAY X - - - - -
+     AC_PROG_LIBTOOL X S - - - -
+        CONFIGURE.AC X X - - - -
+            AUTOCONF O - - - - -
+             ACLOCAL - X - - - -
+          DEFINITION - S - - - -
+              SEARCH - X - - - -
+     BUILD-ESSENTIAL - - - S - -
+              DRIVER - - - - - X

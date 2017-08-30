@@ -1,0 +1,16 @@
+         ENVIRONMENT X X X - - - - - -
+           VARIABLES X X X - - - - - -
+            TERMINAL X X X - - - - - -
+             PROGRAM - - - - X - - - -
+               VALUE - - - - O - - - -
+                 VAR - - - - O - - - -
+            VARIABLE - - - - - S - - -
+            INSTANCE - - - - - X - - -
+      GNOME-TERMINAL - - - - - X - - -
+             .BASHRC - - - - - - - X -
+              SOURCE - - - - - - - X -
+              EXPORT - - - - - - - - X
+                FILE - - - - - - - - X
+                 END - - - - - - - - X
+         MYVAR=MYVAL - - - - - - - - O
+               MYVAR - - - - - - - - X

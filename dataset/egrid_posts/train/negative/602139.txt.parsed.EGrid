@@ -1,0 +1,14 @@
+                 HMM X - - - -
+           LOGROTATE S - - - -
+                WORK O - - - -
+                 IVE S - X - -
+            SYSLOG.0 X - - - -
+                 JOB O - - - -
+                 LOG - X - - -
+                FILE - S - - -
+          MAIL.LOG.0 - - O - -
+                DAYS - - X - -
+                LOOK - - X - -
+                   S - - S - -
+ /ETC/LOGROTATE.CONF - - X - -
+   /ETC/LOGROTATE.D/ - - O - -

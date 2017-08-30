@@ -1,0 +1,16 @@
+                SWAP X - - -
+              FORMAT X - - -
+          LINUX-SWAP X - - -
+             GPARTED - S - -
+             GARBAGE - O - -
+                TYPE - S - -
+               YIKES - - X -
+           PARTITION - - - O
+                SUDO - - - X
+               FDISK - - - X
+                  -L - - - S
+                   > - - - X
+                   _ - - - S
+                SDA5 - - - X
+                SDA6 - - - X
+                DATA - - - X

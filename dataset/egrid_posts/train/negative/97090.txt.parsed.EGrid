@@ -1,0 +1,31 @@
+            QUESTION X - - - - - - -
+         INFORMATION - O - - - - - -
+              OUTPUT - O - - - - - -
+               LSPCI - X - - - - - -
+                SUDO - X - - - - - -
+            MODPROBE - O - - - - - -
+          SND-CA0106 - S - - - - - -
+                  .. - O - - - - - -
+            RESEARCH - X - - - - - -
+               ISSUE - X - - - - - -
+                HTTP - O - - - - - -
+//PASTE.UBUNTULINUX.NL/4620 - X - - - - - -
+              VOLUME - X - - - - - -
+                 USE - X - - - - - -
+           ALSAMIXER - X - - - - - -
+           SOMETHING - O - O - - - -
+/ETC/INIT.D/ALSA-UTILS - S - - - - - -
+                 ALL - O - - - O - -
+               CARD= - - X - - - - -
+           SOUNDCARD - - - X - - - -
+               LSMOD - - - X - - - -
+                   % - - - S - - - -
+      MODULE=ENS1371 - - - X - - - -
+             DRIVERS - - - S - - - -
+                 PCI - - - X - - - -
+                SHOW - - - X - - - -
+              DRIVER - - - S - - - -
+                LOAD - - - O - - - -
+                THAT - - - - - S - -
+                GURU - - - - - O - -
+             EXAMPLE - - - - - - - X

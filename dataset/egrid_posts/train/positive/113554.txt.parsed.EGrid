@@ -1,0 +1,11 @@
+        /ETC/SUDOERS O S - - -
+                USER X - - - -
+                SUDO - S - - -
+                  0. - O - - -
+                  SU - S - - -
+             SOMEONE - - X - -
+                BOOT - - - S -
+            RECOVERY - - - X -
+                MODE - - - X -
+                ROOT - - - X -
+            PASSWORD - - - X -

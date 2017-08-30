@@ -1,0 +1,10 @@
+                TYPE X - -
+               SHARE X X -
+               DRIVE - X -
+               SAMBA - X -
+                PART - X -
+             NETWORK - X -
+               FSTAB - - X
+               WHILE - - X
+        /MOUNT_POINT - - X
+               SMBFS - - S

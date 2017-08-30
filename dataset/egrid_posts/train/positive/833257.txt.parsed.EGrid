@@ -1,0 +1,16 @@
+              UBUNTU X X - - -
+            HARDDISK S S - - -
+                BOOT O O - - -
+              LIVECD X X - - -
+                DISK X X - O -
+              REPAIR X X - - -
+             COMMAND - - O - -
+                FSCK - - O - -
+               PLACE - - - X -
+                MENU - - - S -
+                  CD - - - S -
+               DRIVE - - - O -
+           PARTITION - - - X -
+               TABLE - - - X -
+               BREAK - - - X -
+            RECOVERY - - - S -

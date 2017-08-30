@@ -1,0 +1,29 @@
+KERNEL-SOURCE-2.6.15 X - - - - - - -
+          DECOMPRESS X - - - - - - -
+                LINK X - - - - - - -
+      /USR/SRC/LINUX X - - - - - - -
+                THAT - S - - - - S -
+             DISTROS - X - - - - - -
+            .TAR.BZ2 - - O - - - - -
+              SOURCE - - X - - - O -
+            /USR/SRC - - X - - - - -
+/LIB/MODULES/KERNELVERSION/BUILD - - - X - O - -
+                NOPE - - - - X - - -
+              REASON - - - - S - X -
+                THIS - - - - X - - -
+                 ALL - - - - X - - -
+            TUTORIAL - - - - O - - -
+              KERNEL - - - - X - O -
+             MODULES - - - - S - - -
+               WORLD - - - - O - - -
+             PACKAGE - - - - - S - -
+               ENTRY - - - - - X - -
+               /PROC - - - - - X - -
+              FOLDER - - - - - S - -
+                MISS - - - - - O - -
+               CAUSE - - - - - - O -
+             2.6.115 - - - - - - X -
+             NOTHING - - - - - - O -
+                   P - - - - - - X -
+             HEADERS - - - - - - - X
+              INSTAL - - - - - - - X

@@ -1,0 +1,11 @@
+              LIVECD - X - - -
+           PARTITION - X - - -
+           /DEV/SDA3 - O - - -
+                FSCK - - X S -
+                TYPE - - X - -
+                SDA3 - - X - -
+             NOTHING - - X - -
+                SUDO - - - X -
+                THAT - - - - S
+                FILE - - - - X
+               BLOCK - - - - X

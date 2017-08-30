@@ -1,0 +1,17 @@
+      UPDATE-MANAGER S - - - - - - -
+               BREAK X - - - - - - -
+               THING O - - - - - - -
+              UPDATE - X - - - - - X
+             MANAGER - S - - - O - O
+              FREEZE - X - - - - - -
+                  .. - O - - - - - -
+            PROGRESS - X - - - - - -
+           INDICATOR - X - - - - - -
+             UPGRADE - - - O - O - -
+             APT-GET - - - X - - - -
+             DEBCONF - - - X - - - -
+            DBDRIVER - - - S - - - -
+              CONFIG - - - X - - - -
+/VAR/CACHE/DEBCONF/CONFIG.DAT - - - S - - - -
+             PROCESS - - - X - - - -
+             PACKAGE - - - - - X - -

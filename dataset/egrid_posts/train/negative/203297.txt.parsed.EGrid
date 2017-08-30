@@ -1,0 +1,13 @@
+              CONFIG X - S - -
+              SWATCH X - - - -
+                TYPE X - - - -
+                HTTP - X - - -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_CONTENTS.PL - X - - -
+ SEARCHMODE=FILELIST - - X - -
+         WORD=SWATCH - - X - -
+      VERSION=DAPPER - - X - -
+            ARCH=ALL - - X - -
+                   < - - X - -
+             PACKAGE - - S - -
+             EXAMPLE - - X - -
+               XCHAT - - O - -

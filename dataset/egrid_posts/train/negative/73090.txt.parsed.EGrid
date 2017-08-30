@@ -1,0 +1,6 @@
+                 TRY X -
+        XSERVER-XORG O -
+                 KBD S -
+            XKEYCAPS O -
+         RECONFIGURE X -
+            KEYBOARD O -

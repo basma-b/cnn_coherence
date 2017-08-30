@@ -1,0 +1,27 @@
+                USER S - - - - -
+            ACCOUNTS S - - - - -
+                  .. X - - - X -
+           GRAPHICAL X - - - - -
+                TOOL X - - - - -
+               LOGIN X - - - - -
+                LIST X - - - - -
+             USERMOD X - - - X -
+                  -U S - - - X -
+               KLYNC X - - - O -
+                NAME O - - - - O
+               -RSB- X - - - - -
+/ETC/LIGHTDM/USERS.CONF O - - - - -
+                   > O - - - - -
+               ASCII - X - - - -
+           CHARACTER - X - - - -
+              ESCOTT - - - - X -
+            TERMINAL - - - - X -
+                ROOT - - - - X -
+               LANG= - - - - X -
+         EN_CA.UTF-8 - - - - X -
+         KLYNC.KLYNC - - - - X -
+         /HOME/KLYNC - - - - X -
+             LIGHTDM - - - - - S
+               ENTRY - - - - - O
+               UNITY - - - - - X
+              WIDGET - - - - - S

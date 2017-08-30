@@ -1,0 +1,10 @@
+                 USE S - - - - -
+           POLICYKIT - X - - - -
+                DPKG - - X - X -
+                 APT - - X - S -
+             DISTROS - - X - - -
+             APT-GET - - S - - -
+           FRONT-END - - O - - -
+                THAT - - - - - S
+               LAYER - - - - - O
+         ABSTRACTION - - - - - X

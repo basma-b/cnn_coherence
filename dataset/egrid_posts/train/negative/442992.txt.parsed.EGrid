@@ -1,0 +1,13 @@
+               THING X - -
+                  .. X - -
+                7.10 X - -
+                 NFS X - -
+               SHARE S - -
+                BOOT X - -
+               FSTAB X - -
+                  -A S - -
+              SCRIPT S - -
+               MOUNT - X -
+             NETWORK - S -
+               START - O -
+             TIMEOUT - - O

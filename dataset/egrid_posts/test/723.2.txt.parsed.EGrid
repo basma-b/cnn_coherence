@@ -1,0 +1,12 @@
+                CANT X - -
+               START X - -
+                  IP X S -
+         192.168.1.4 X - -
+/ETC/NETWORK/INTERFACES - O -
+                 GUI - X -
+      NETWORKMANAGER - O -
+             MACHINE - X -
+                SUDO - - X
+             APT-GET - - S
+              UPDATE - - S
+             12.04.4 - - O

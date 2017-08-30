@@ -1,0 +1,10 @@
+                SIZE X - -
+           PARTITION X X -
+               MOUNT - X -
+              BACKUP - X -
+                 USE - S -
+             GPARTED - O -
+                IDEA - - O
+                BOOT - - X
+              REPAIR - - X
+                DISK - - O

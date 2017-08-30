@@ -1,0 +1,15 @@
+             FOLKS.I S - - - -
+             SP-AUTH O X - - -
+               64BIT X - - - -
+               ERROR - S - - -
+           IA32-LIBS - O - - -
+ IA32-LIBS-MULTIARCH - X - - -
+                HTTP - X - - -
+                SUDO - X X - -
+             APT-GET - S S - -
+                  -F - O - - -
+             NOTHING - O - - -
+             UPGRADE - X - - -
+            APTITUDE - - S - -
+             COMMAND - - X - -
+             PACKAGE - - - S -

@@ -1,0 +1,12 @@
+           PARTITION O - - - -
+              FOLDER X - - - -
+             EXAMPLE X - - - -
+         /MNT/WIN_C/ X - - - -
+    /MNT/WIN_C/HELLO X - - - -
+                  .. X - - - -
+               UMASK - X - - -
+           SOMETHING - - - S -
+                THIS - - - X -
+            /DEV/ICE - - - X -
+      /MNT/PARTITION - - - O -
+                TYPE - - - - O

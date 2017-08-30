@@ -1,0 +1,10 @@
+         NDISWRAPPER O - - -
+              KERNEL X - - -
+              SOURCE X - - -
+           DIRECTORY O - - -
+                KSRC X - - -
+                MAKE X - - -
+                THIS - X - -
+KSRC=/PATH/TO/SOURCES - - S -
+             PROGRAM - - - S
+             OUTCOME - - - S

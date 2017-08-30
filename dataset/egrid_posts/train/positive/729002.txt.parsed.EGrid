@@ -1,0 +1,9 @@
+         MKINITRAMFS X - - - - - -
+     UPDATE-INIRAMFS O - - - - - -
+              KERNEL - X - - - - O
+              BUTTON - - S - - - -
+              LAPTOP - - X - - X -
+                ACPI - - X - - - -
+              SCRIPT - - O - - - -
+                KIND - - - - - X -
+    UPDATE-INITRAMFS - - - - - - X

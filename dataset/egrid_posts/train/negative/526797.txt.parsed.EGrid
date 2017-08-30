@@ -1,0 +1,17 @@
+           DIRECTORY X - - - - - -
+          SUBVERSION X - - - - - -
+        REPOSITORIES X - - - - - -
+              UBUNTU X - - - - - -
+           /SRV/SVN/ - - S - - - -
+              OUTPUT - - - - - - X
+                USER - - - - - - X
+            TERMINAL - - - - - - S
+            UID=1000 - - - - - - X
+                  RT - - - - - - X
+            GROUPS=4 - - - - - - X
+             DIALOUT - - - - - - X
+               CDROM - - - - - - X
+                 DIP - - - - - - X
+               VIDEO - - - - - - X
+             SCANNER - - - - - - X
+               ADMIN - - - - - - X

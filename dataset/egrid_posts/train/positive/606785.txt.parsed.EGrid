@@ -1,0 +1,15 @@
+                LAMP X - - -
+              SERVER S - - -
+                FILE O - - -
+              RENDER X - - -
+             A2ENMOD X - - -
+                PHP5 X - - -
+              MODULE S - - -
+              APACHE O - - -
+             PACKAGE - X - X
+             TASKSEL - X - -
+                HTTP - - X -
+//WWW.HOWTOFORGE.COM/INSTALLING-APACHE2-WITH-PHP5-AND-MYSQL-SUPPORT-ON-UBUNTU-9.04-LAMP - - X -
+                SUDO - - - X
+             APT-GET - - - S
+        MYSQL-SERVER - - - O

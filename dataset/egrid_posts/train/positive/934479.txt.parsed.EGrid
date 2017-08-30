@@ -1,0 +1,19 @@
+                 JOB O - - - - - -
+             MESSAGE O - - - - - -
+                MBOX X - - - - - -
+             /BIN/SH S - - - - - -
+/HOME/USERNAME/BASHPODDER/BASHPODDER.SHELL S - X - - - -
+          PERMISSION S - - - - - -
+              ANYONE - X - - - - -
+                SHOW - - S - - - -
+                  .. - - X - - - -
+               -RW-R - - X - - - -
+               DAVID - - X - - - -
+/HOME/DAVID/BASHPODDER/BASHPODDER.SHELL - - S - - - -
+                 A+X - - X - - - -
+                FILE - - X X - - X
+             COMMAND - - - - - - S
+         EXECUTE-BIT - - - - - - O
+               OWNER - - - - - - X
+               GROUP - - - - - - X
+            EVERYONE - - - - - - X

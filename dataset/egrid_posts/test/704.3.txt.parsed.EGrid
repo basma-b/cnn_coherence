@@ -1,0 +1,10 @@
+              SERVER O - - - -
+            DISASTER O - - - -
+ UNATTENDED-UPGRADES O - - - -
+              UPDATE X X S - -
+            SECURITY - X - - -
+           WEBSERVER - - O - -
+             PROCESS - - - - X
+                  .. - - - - O
+             NETWORK - - - - S
+                 ETC - - - - S

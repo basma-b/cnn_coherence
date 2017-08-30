@@ -1,0 +1,8 @@
+./MADWIFI-UNLOAD.BASH O - - - -
+                WLAN S - - - S
+                 USE X - - - -
+                SUDO - - X - X
+            MODPROBE - - X - O
+                  -R - - S - -
+              RESULT - - - - X
+                ROOT - - - - X

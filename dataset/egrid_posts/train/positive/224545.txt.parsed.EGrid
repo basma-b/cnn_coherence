@@ -1,0 +1,12 @@
+                EXT3 O - - - -
+          HARDDRIVES X - - - -
+             COMMAND - X - - -
+                SCAN - O - - -
+          FILESYSTEM - X - - -
+           HARDDRIVE - X X - -
+                FSCK - - X - -
+                  -A - - O - -
+            PHYSICAL - - S - -
+              ERRORS - - X - -
+           DEGANTYLL - - - - X
+           BADBLOCKS - - - - X

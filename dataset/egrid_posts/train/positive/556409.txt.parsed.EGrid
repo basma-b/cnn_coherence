@@ -1,0 +1,10 @@
+                FILE S - - S
+            VERSIONS O - - -
+                ETC. - O - -
+           LOGROTATE - - S -
+                 USE - - X -
+                GZIP - - O -
+                .LOG - - - X
+              _LOST_ - - - X
+                INFO - - - X
+                IIRC - - - X

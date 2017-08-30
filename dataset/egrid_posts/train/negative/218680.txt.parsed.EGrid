@@ -1,0 +1,17 @@
+              WINDOW X - - -
+             MANAGER S - - -
+                 USE X - - -
+             DISPLAY X - - -
+             COMMAND O - - -
+               ERROR X - - -
+            VARIABLE X - - -
+                XCFE X - - -
+               GNOME X - - -
+             FLUXBOX X - - -
+                ROOT - X S O
+                UNIX - - X -
+                FILE - - X X
+               OWNER - - O -
+               RSYNC - - - S
+         PERMISSIONS - - - O
+              OWNERS - - - O

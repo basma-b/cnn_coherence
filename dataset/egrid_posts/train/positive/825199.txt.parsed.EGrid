@@ -1,0 +1,22 @@
+                  TH S - - - - -
+             PACKAGE S - - - - -
+        DEPENDENCIES O - - - - -
+                 ALL - S - - - -
+         REPOSITORES - S - - - -
+          PREFERENCE - X - - - -
+               SAMBA - X - - - -
+        SAMBA-COMMON - X - X O -
+2:3.5.8~DFSG-1UBUNTU2.1 - S - - - -
+              RESULT - S - X O -
+              POLICY - X - X X -
+            QUESTION - - X - - -
+                THAT - - - - S -
+                 CAN - - - - X -
+           APT-CACHE - - - - X -
+                TYPE - - - - O -
+            TERMINAL - - - - X -
+                HTTP - - - - X X
+              UPDATE - - - - O -
+             PROCESS - - - - X -
+              FINISH - - - - O -
+//PASTE.UBUNTU.COM/615912/ - - - - - X

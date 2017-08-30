@@ -1,0 +1,13 @@
+                LDAP X - - - - - -
+                AUTH X - - - - - -
+               BREAK S - - - - - -
+                  .. X - - - - - -
+              CLIENT S - - - - - -
+              SERVER X - - - - - -
+                SIDE O - - - - - -
+            POINTERS - X - - - - -
+                 LOG - - O - - - -
+             MESSAGE - - X - - - -
+             NOTHING - - - S - - -
+              OTHERS - - - - X - -
+               SLAPD - - - - - - S

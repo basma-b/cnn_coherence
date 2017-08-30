@@ -1,0 +1,26 @@
+             SETFACL O - - - - - X - -
+                USER S S - O - - - - -
+              ACCESS O - - - - - - - -
+                FILE X O - - - - - S -
+             COMMAND - S - - - X - - -
+               ERROS - X - - - - - - -
+                CANT - X - - - - - - -
+               IDEAS - - X - - - - - -
+               OWNER - - - O - - - - -
+               GROUP - - - X - - - - -
+          FILESYSTEM - - - - S - - - -
+                   U - - - - - - X - -
+               MVULA - - - - - - X - -
+          ACCESS.LOG - - - - - - S - -
+                  LS - - - - - - X - -
+                  -L - - - - - - S - -
+               -RW-R - - - - - - O - -
+                ROOT - - - - - - X - -
+                   + - - - - - - S - -
+               THERE - - - - - - S - -
+               POSIX - - - - - - X - -
+                ACLS - - - - - - O - -
+ETC/MODPROBE.D/ALSA-BASE - - - - - - - X -
+             OPTIONS - - - - - - - X -
+ETC/MODPROBE.D/ALSA-BASE~ - - - - - - - X -
+/ETC/MODPROBE.D/OPTIONS - - - - - - - X -

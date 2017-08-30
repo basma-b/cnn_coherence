@@ -1,0 +1,13 @@
+             APCUPDS X - - - -
+/VAR/LOG/APCUPSD.EVENTS X - - - -
+               EVENT X - - - -
+            SHUTDOWN O O - - -
+                  PC - - S - -
+               POWER - - O X -
+             BATTERY - - - X -
+                  UP - - - X -
+            SOFTWARE - - - X -
+              INSTAL - - - O -
+               GNOME - - - X -
+             MONITOR - - - X -
+             MISTAKE - - - - O

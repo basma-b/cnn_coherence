@@ -1,0 +1,16 @@
+                HOST O - -
+              SERVER X - -
+                   < X - -
+         VIRTUALHOST X - -
+                   > X - -
+          PORTS.CONF S - -
+                 SET O - -
+                BOTH X - -
+           9856,9857 X - -
+                SITE S - -
+           CHARACTER O - -
+          VIRUALHOST X - -
+                  .. X - -
+                TYPE X - -
+                DONT X - -
+                COPY S - -

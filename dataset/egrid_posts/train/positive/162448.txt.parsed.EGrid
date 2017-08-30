@@ -1,0 +1,10 @@
+               INETD X - - X -
+     /ETC/INETD.CONF - S - - -
+                SUDO - X - - -
+   /ETC/INIT.D/INETD - S - - -
+                ROOT - X - - -
+                FILE - O - S -
+                  .. - - X - -
+                  LS - - O - -
+                NAME - - - X -
+/ETC/INIT.D/INETUTILS-INETD - - - - X

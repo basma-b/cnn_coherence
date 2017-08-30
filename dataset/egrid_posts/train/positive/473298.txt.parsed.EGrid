@@ -1,0 +1,16 @@
+/ETC/NETWORK/INTERFACES X - - -
+            WIRELESS O - S -
+                MODE X - - -
+                THAT - O - -
+             DEFAULT - X - -
+     NETWORK-MANAGER - S - -
+          INTERFACES - S - -
+                AUTO - X - -
+               IFACE - X - -
+                  IP - - O -
+             STTINGS - - O -
+              OPTION - - O -
+            SETTINGS - - X -
+                HTTP - - O -
+                WPA2 - - - X
+            T=202834 - - - X

@@ -1,0 +1,21 @@
+                  CP S - - - -
+                COPY O - - - -
+                TYPE X - X - -
+           SOMETHING O - - - -
+                BASH X - - - -
+             COMMAND O - - - -
+               INPUT X - - - -
+                FILE O - - - X
+               PIECE O - - - -
+            INSTANCE - X - - -
+                   < - S - - -
+                   > - X - - -
+           DIRECTORY - - X - -
+                NAME - - O - -
+                USER - - - X -
+             ANOTHER - - - X -
+                HTTP - - - - X
+//PASTEBIN.COM/BMDNK1RH - - - - X
+               ERROR - - - - X
+                 LOG - - - - X
+        VAR/LOG/CUPS - - - - X

@@ -1,0 +1,22 @@
+                 SMB X - - - -
+               POINT X - - - -
+              BREEZY X - - - -
+               SMBFS - O - - -
+USERNAME=MYWINDOWSUSERNAME - X - - -
+                TYPE - O - - -
+              OPTION - X - - -
+          SUPERBLOCK - X - - -
+               ERROR - S - - -
+                VFAT - O - - -
+           DIRECOTRY - S - - -
+           SOMETHING - S - - -
+          FILESYSTEM - - S - -
+               SHARE - - X - -
+               FAT32 - - O - -
+               SAMBA - - S - -
+               HTTPS - - X - -
+//WIKI.UBUNTU.COM/AUTOMATICALLYMOUNTMSWINDOWSPARTITIONS - - X - -
+                   % - - - X -
+       COMPIZ-FUSION - - - - S
+              COMPIZ - - - - X
+               BERYL - - - - O

@@ -1,0 +1,11 @@
+             MPLAYER O - -
+              PYTHON X - -
+              SCRIPT X - -
+                LOAD X - -
+                TEXT X - -
+                FILE O - -
+              SWITCH X - -
+           /DEV/NULL - O -
+                 END - X -
+             COMMAND - X -
+               ERROR - - O

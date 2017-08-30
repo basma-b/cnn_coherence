@@ -1,0 +1,13 @@
+              SCRIPT S -
+              PANNEL O -
+              MINUTE X -
+                 SET - X
+              UNHIDE - X
+                 ONE - X
+                 ^^^ - X
+             COMMAND - X
+               PANEL - X
+         GCONFTOOL-2 - X
+                TYPE - X
+                BOOL - X
+/APPS/PANEL/TOPLEVELS/TOP_PANEL_SCREEN0/AUTO_HIDE - X

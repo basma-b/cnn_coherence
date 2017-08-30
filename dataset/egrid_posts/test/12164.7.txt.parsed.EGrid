@@ -1,0 +1,18 @@
+               12.10 X - - - - - -
+            APTITUDE S - - - - - -
+             PACKAGE O - - - - - -
+              REASON X - - - - - -
+                I386 - S - - - - -
+                SHOW - X - - - - O
+                 FOO - S S - - - -
+               AMD64 - - X - - - -
+            BEHAVIOR - - - O - - -
+             APT-GET - - - X - - -
+           IA32-LIBS - - - O X - -
+          EQUIVALENT - - - - O - -
+           LIBRARIES - - - - O - -
+                 KEY - - - - - - S
+                THIS - - - - - - S
+                 ADV - - - - - - O
+KEYSERVER.UBUNTU.COM - - - - - - X
+           RECV-KEYS - - - - - - S

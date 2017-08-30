@@ -1,0 +1,40 @@
+                   ' X - - - -
+/ETC/GDM/PRESESSION/DEFAULT X - - - -
+             SESSION O - - - -
+                WTMP X - - - -
+                UTMP X - - - -
+       /VAR/LOG/WTMP X - - - -
+       /VAR/RUN/UTMP X - - - -
+/VAR/LIB/GDM/:0.XSERVERS X - - - -
+                  -H X - - - -
+                  ED X - - - -
+   /ETC/GDM/XSESSION O - - - -
+               SETUP X - - - -
+                  .. O - - - X
+              SERVER X - - - -
+             DISPLAY S - - - -
+/ETC/XDG/XFCE4/XINITRC X - - - -
+                LINE X - - - -
+        XSCREENSAVER X - - - -
+             COMMAND O - - - -
+                   * O X S - -
+          XFWM4:5149 X X - - -
+           EXTENSION O - - - -
+             WARNING - X X - -
+             MANAGER - X - - -
+             DISABLE - X - - -
+UPDATE-NOTIFIER:5186 - - X - -
+                THAT - - - S -
+MAIL-NOTIFICATION-MESSAGE - - - X -
+                MAIL - - - X -
+        NOTIFICATION - - - S -
+             CHANNEL - - - X -
+ PASTE.UBUNTU-NL.ORG - - - O -
+                   < - - - X -
+               POINT - - - O -
+             BROWSER - - - X -
+                APPS - - - - O
+               PANEL - - - - X
+            DESKTOPS - - - - X
+                 ONE - - - - X
+                 WAY - - - - X

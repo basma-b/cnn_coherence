@@ -1,0 +1,22 @@
+           PARTITION O X X X - -
+                 USB - O - - - -
+                 HDD - X - - - -
+                NTFS - S - - - -
+                  DD - X - - - -
+IF=/HOME/MORGAN/HäMTNINGAR/ARCHLINUX-2009.08-NETINSTALL-X86_64.IMG - X - - - -
+        OF=/DEV/SDC1 - O - - - -
+              OUTPUT - O - - - -
+                 CAT - X - - - -
+    /PROC/PARTITIONS - X - - - -
+                THAT - - X - - -
+           SOMETHING - - X - - -
+               TABLE - - O O - -
+                 BAD - - - X - -
+             GPARTED - - - O - S
+        DRIVE/DEVICE - - - X - -
+                DATA - - - X - X
+         NULLP0INTER - - - - - O
+              FORMAT - - - - - X
+               DRIVE - - - - - O
+                WAYS - - - - - X
+                COMP - - - - - X

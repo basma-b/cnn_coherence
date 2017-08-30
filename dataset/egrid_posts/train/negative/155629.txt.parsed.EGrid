@@ -1,0 +1,14 @@
+                ALSA S - -
+             DEFAULT O - -
+                   * X - -
+           W32CODECS O - -
+               AMD64 X - -
+                   U - - S
+                  TA - - S
+              NVIDIA - - X
+             DRIVERS - - S
+                 USE - - X
+              NOAPIC - - S
+               VIDEO - - X
+                WORK - - O
+             WIREESS - - S

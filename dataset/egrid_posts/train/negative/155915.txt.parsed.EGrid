@@ -1,0 +1,13 @@
+              OPTION S - - -
+              KERNEL X - - -
+              MODULE X - - -
+                LOAD O - - -
+        /ETC/MODULES - O - -
+             OPTIONS - X - -
+                LINE - X - -
+                NAME - X - O
+             COMMAND - - O -
+                ROOT - - X -
+                USER - - - X
+                 USE - - - X
+                CHFN - - - X

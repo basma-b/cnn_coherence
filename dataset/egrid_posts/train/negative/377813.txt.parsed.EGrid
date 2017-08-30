@@ -1,0 +1,13 @@
+           BLACKLIST - X - - - -
+                   > - S - - - -
+             MESSAGE - O - - - -
+               UBOTU - X - - - -
+                 IDE - O - - - -
+              PYTHON - X - - - -
+        MY_BLACKLIST - - O - - -
+                FILE - - - - S -
+                NAME - - - - X -
+/ETC/MODPROBE.D/BLACKLIST - - - - O -
+X-WINDOW-SYSTEM-CORE - - - - - S
+       XBASE-CLIENTS - - - - - O
+     X-WINDOW-SYSTEM - - - - - S

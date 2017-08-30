@@ -1,0 +1,17 @@
+                WORK X - - - - - - -
+               SOUND - O - - - - - X
+                SUDO - X - - - - - -
+                LSHW - S - - - - - -
+           ALSAMIXER - - - - X X - -
+             OPTIONS - - - - X - - -
+                 MAX - - - - X - - -
+              VOLUME - - - - X - - -
+ MODULE=SND_INTEL8X0 - - - - - O - -
+              THINGS - - - - - X - -
+              OUTPUT - - - - - - X -
+                LIST - - - - - - X -
+        SND_INTEL8X0 - - - - - - X -
+            SPEAKERS - - - - - - - X
+                PLUG - - - - - - - O
+                PORT - - - - - - - X
+                BACK - - - - - - - X

@@ -1,0 +1,17 @@
+                 TOR S - - -
+             APT-GET O - - X
+             PACKAGE - X - -
+                NAME - X - -
+          REPOSITORY - - O -
+                 DEB - - X X
+                HTTP - - O X
+//DEB.TORPROJECT.ORG/TORPROJECT.ORG - - X X
+              UBUNTU - - S -
+              INSTAL - - O -
+                SUDO - - - X
+                ECHO - - - X
+                 -SC - - - X
+                 TEE - - - X
+/ETC/APT/SOURCES.LIST.D/TORPROJECT.LIST - - - X
+              UPDATE - - - S
+         TOR-GEOIPDB - - - O

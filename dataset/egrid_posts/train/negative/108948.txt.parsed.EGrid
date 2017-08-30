@@ -1,0 +1,15 @@
+         RECONFIGURE X - - -
+             NETWORK X - - -
+           INTERFACE X - - -
+              REBOOT X - - -
+                ETH0 - S - -
+                SAME - O - -
+            IFCONFIG - X - -
+             DOWN/UP - X - -
+                TYPE - - - S
+                LIST - - - X
+              THINGS - - - X
+             DESKTOP - - - X
+            DOWNLOAD - - - X
+               MUSIC - - - X
+            PICTURES - - - X

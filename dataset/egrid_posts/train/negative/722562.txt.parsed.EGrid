@@ -1,0 +1,39 @@
+                KIND X - - - - - X - - - - -
+                LINK X X - X - O - O - O - -
+          /PATH/FILE X - - - - - - - - - - -
+             /TARGET - X - - - - - - - - - -
+   /PATH/DESTINATION - X - - - - - - - - - -
+          DIFFERENCE - - O - - - - - - - - -
+                BOTH - - - X - - - - - - - -
+                 -SF - - - - S - - - - - - -
+               FORCE - - - - O - - - - - - -
+             COMMAND - - - - - O - O - X X -
+        MODIFICATION - - - - - - S - - - - -
+             /SOURCE - - - - - - X - - - - -
+              CHANGE - - - - - - O - - S - -
+              APACHE - - - - - - - X - - - -
+               STUFF - - - - - - - O - - - -
+                FILE - - - - - - - S - S S -
+       MODIFICATIONS - - - - - - - O - - - -
+                ORIG - - - - - - - X - - - -
+                  -L - - - - - - - - S - - -
+                THAT - - - - - - - - - S - -
+                  LN - - - - - - - - - X - -
+                 LOL - - - - - - - - - S - -
+              OUTPUT - - - - - - - - - O - -
+                SUDO - - - - - - - - - X - -
+/ETC/APACHE2/SITES-ENABLED/ - - - - - - - - - X - -
+                ROOT - - - - - - - - - X S -
+         000-DEFAULT - - - - - - - - - X O -
+/SITES-AVAILABLE/DEFAULT - - - - - - - - - X S -
+                UNOP - - - - - - - - - X - -
+               THANK - - - - - - - - - X - -
+/ETC/APACHE2/SITES-ENABLED/000-DEFAULT - - - - - - - - - X - -
+                YEAH - - - - - - - - - X - -
+                PART - - - - - - - - - O - -
+                  .. - - - - - - - - - - X -
+              SYNTAX - - - - - - - - - - O -
+             SYMLINK - - - - - - - - - - O -
+               RIGHT - - - - - - - - - - O -
+               ERROR - - - - - - - - - - O -
+               POINT - - - - - - - - - - X -

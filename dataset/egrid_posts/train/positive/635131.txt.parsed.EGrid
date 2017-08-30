@@ -1,0 +1,36 @@
+                 HEY S - - -
+                 GUY S - - -
+                AUTO S - - -
+             FEATURE S - - -
+               CRASH S - O -
+                  CD S - - -
+             SESSION S - - -
+            ROLLBACK S - - -
+                BOOT S - - -
+              KERNEL S - - -
+                  PC S - - -
+                LINK S - - -
+                  TV S - - -
+                GRUB S - - -
+                DONT S - - -
+              COMEUP S - - -
+              SCREEN S - - -
+               LOGIN S - - -
+               VIDEO S - - -
+              FORMAT S - - -
+            MENU.LST S X - -
+              SYSTEM S - - -
+       SYSTEM-DEVICE S - - -
+            /MNT/SDA S - - -
+                SUDO S - X -
+                NANO S - X -
+/MNT/SDA/BOOT/GRUB/MENU.LST S - - -
+    SYSTEM-PARTITION S S - -
+                MOVE S - - -
+                PATH S - - -
+                FILE - X O -
+/MEDIA/DISK/BOOT/GRUB/MENU.LST - O S -
+              KERNAL - - X -
+                TYPE - - X -
+              FINGER - - S -
+                LUCK - - - X

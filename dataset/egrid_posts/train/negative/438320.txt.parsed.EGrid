@@ -1,0 +1,16 @@
+        B43-FWCUTTER O - - - - - - -
+              REBOOT - - S - - - - -
+               AFAIK - - S - - - - -
+               LINUX - - X - - - - -
+              KERNEL - - X - - - - -
+             UPGRADE - - X - - - - -
+            FIRMWIRE - - - - X - - -
+            WIRELESS - - - - X X - -
+                CARD - - - - X - - -
+             NETWORK - - - - X X - -
+      NETWORKMANAGER - - - - - S - -
+               CLICK - - - - - X - -
+                ICON - - - - - S - -
+               POPUP - - - - - X - -
+              STDERR - - - - - - - S
+           /DEV/NULL - - - - - - - X

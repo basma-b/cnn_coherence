@@ -1,0 +1,11 @@
+           DIRECTORY X - - - -
+           SUBFOLDER X - - - -
+                FILE X - - - -
+                 USE X - - - -
+             COMMAND X - - - -
+           RECURSIVE - X - - -
+                COPY - S - - -
+                SITE - O - - -
+                 LOG - - - X -
+                CALL - - - - S
+            /VAR/LOG - - - - X

@@ -1,0 +1,13 @@
+            FAIL2BAN S - S S - - - - -
+                 BAN O - - O - - - - -
+             RESTART X - - - - - - - -
+   /VAR/LOG/AUTH.LOG - - O - - - - - -
+             ATTEMPT - - S X - - - - -
+               LOGIN - - X - - - - - -
+                  IP - - O X - - - - -
+         IP/HOSTNAME - - - O - - - - -
+               HOURS - - - X - - - - -
+             FAILURE - - - X - - - - -
+               VISTA - - - - X - - - -
+                  .. - - - - - O - - -
+              REASON - - - - - S - - -

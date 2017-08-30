@@ -1,0 +1,22 @@
+/ETC/NETWORK/INTERFACES X - - -
+                DHCP O - S -
+              UPDATE X - - -
+     /ETC/RESOLV.COM X - - -
+               IFACE - X - -
+                ETH0 - S - -
+              STATIC - O - -
+              DEVICE - X - -
+                NAME - X - -
+                LINE - X O -
+             ADDRESS - X O -
+              SERVER - O - -
+                DATA - O - -
+                 DNS - - S -
+             GATEWAY - - X -
+              COURSE - - X -
+               THERE - - S -
+           DIRECTIVE - - O -
+          INTERFACES - - X -
+                FILE - - X -
+              UBUNTO - - O -
+                LINK - - - O

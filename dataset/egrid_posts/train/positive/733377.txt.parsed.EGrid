@@ -1,0 +1,27 @@
+                 RUN O - - - - - O - - - - - - - - -
+               THUMB X - - - - - X - - - - - - - - -
+               DRIVE X - - - - - X - - - - - - - - -
+                  HP X - - - - - X - - - - - - - - -
+              ZD7000 X - - - - - X - - - - - - - - -
+            WIRELESS - O - X - - - O - X - - - - - -
+             NETWORK - - X - - - - - X - - - - - - -
+               CABLE - - X - - - - - X - - - - - - -
+            HARDWARE - - X - - - - - X - - - - - - -
+             DRIVERS - - O - - - - - O - - - - - - -
+                 ONE - - - S - - - - - S - - - - - -
+            BROADCOM - - - X - - - - - X - - - - - -
+                 B43 - - - X - - - - - X - - - - - -
+              DRIVER - - - X - - - - - X O - - - - -
+         SYSTEMERROR - - - - S - - - - - S - - - - -
+     INSTALLARCHIVES - - - - X - - - - - X - - - - -
+             SOMEONE - - - - X - - - - - - - - - - -
+             PROBLEM - - - - - X - - - - - - - - - -
+                 FIX - - - - - - - - - - O - - - - -
+              UBUNTU - - - - - - - - - - - O - - - -
+                   U - - - - - - - - - - - X - - - -
+                BOOT - - - - - - - - - - - - - X - -
+             WINDOWS - - - - - - - - - - - - - X - -
+                SUDO - - - - - - - - - - - - - - - X
+             APT-GET - - - - - - - - - - - - - - - S
+NDISWRAPPER-UTILS-1.9 - - - - - - - - - - - - - - - O
+  NDISWRAPPER-COMMON - - - - - - - - - - - - - - - O

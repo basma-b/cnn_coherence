@@ -1,0 +1,12 @@
+           BEHAVIOUR O - -
+              SCRIPT X - -
+              PARAMS - O -
+            MENU.LST - X -
+              UPDATE - X -
+                  CD - - X
+  /OPT/OTRS/SCRIPTS/ - - S
+                  -D - - S
+              BACKUP - - X
+                 DAY - - O
+                9:45 - - O
+                9:46 - - X

@@ -1,0 +1,23 @@
+            1024X768 X - -
+              DRIVER X X -
+                 WAY - X -
+              OUTPUT - X -
+               LSPCI - O -
+ PASTE.UBUNTU-NL.ORG - X -
+                COPY - X -
+           XORG.CONF - O -
+                FILE - X -
+              XRANDR - O -
+                 X11 - X -
+                AUTO - X -
+           CONGIFURE - X -
+             DRIVERS - X -
+               VIDEO - X -
+              METHOD - S -
+        XSERVER-XORG - O -
+                DICE - S -
+             UTILITY - O -
+             DESKTOP - - X
+CONTROL-ALT-BACKSPACE - - O
+                   X - - X
+              SERVER - - O

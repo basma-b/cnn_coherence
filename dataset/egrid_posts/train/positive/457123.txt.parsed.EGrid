@@ -1,0 +1,11 @@
+                SWAP X - -
+               FSTAB - X -
+               PRINT - O -
+                 LOG - X -
+                TAIF - X -
+   /VAR/LOG/MESSAGES - S -
+                HTTP - O -
+                 CAM - S -
+              DEVICE - S -
+                  .. - X -
+              REASON - - X

@@ -1,0 +1,12 @@
+             COMMAND X - - - - - -
+              APACHE X - - - - - -
+             TASKSEL - - X - - - -
+             EXAMPLE - - - - X - -
+                LAMP - - - - X O -
+                HTTP - - - - O - -
+//WIKI.DEBIAN.ORG/TASKSEL - - - - X - -
+                 ALL - - - - - X -
+              STRING - - - - - - X
+             PACKAGE - - - - - - X
+                NAME - - - - - - X
+              SYNTAX - - - - - - O

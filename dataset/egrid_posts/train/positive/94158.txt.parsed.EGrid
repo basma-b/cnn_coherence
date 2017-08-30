@@ -1,0 +1,17 @@
+             OPTIONS X S -
+             DEVICES X - -
+                   ' - X -
+                 THE - O -
+               MOUNT - S -
+                FLAG - X -
+                PART - X -
+             HOTPLUG - X -
+            HOTPLUGS - X -
+           INTERNALS - X -
+                 HAL - X -
+            POLICIES - X -
+                 HMM - - S
+              MEMORY - - X
+               STICK - - O
+                LOOK - - O
+/ETC/HAL/FDI/POLICY/PREFERENCES.FDI - - X

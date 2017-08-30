@@ -1,0 +1,25 @@
+               UMASK S X - - -
+         PERMISSIONS O - - - -
+                WORK X X - - -
+            PROBLEMS O - - - -
+         DIRECTORIES S - - - -
+                FILE X - - - -
+               MKDIR - O - - -
+         PATH/TO/DIR - X - - -
+                HGFS - X X - -
+                  FS - X O - -
+                THIS - O - - -
+                HTTP - - X - -
+//PASTEBIN.COM/D2E7D8D98 - - X - -
+                DIRS - - O - -
+           /MNT/HGFS - - X - -
+             PROBLEM - - O - -
+             VMWARES - - X - -
+               SHARE - - X - -
+             FOLDERS - - X - -
+               GUEST - - X - -
+                HOST - - X - -
+                 OSS - - X - -
+                IDEA - - - - X
+                MESS - - - - X
+              VMWARE - - - - X

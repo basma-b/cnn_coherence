@@ -1,0 +1,19 @@
+             PACKAGE X - - - -
+               BREAK X - - - -
+                THIS X - - - X
+             PROBLEM O - - - -
+               SETUP X - - - -
+      OPENSSH-SERVER - X - - -
+              ERRORS - X - - -
+                NEED - S - - -
+                LINE - X - - -
+            TEMPLATE - X - - -
+               PARSE - X - - -
+               ERROR - O - - -
+/TMP/OPENSSH-SERVER.TEMPLATE.127120 - S - - -
+               FIELD - S - - O
+               VALUE - X - - -
+SSH/VULNERABLE_HOST_KEYS - X - - -
+           TEMPLATES - - S - -
+             NEWLINE - - X - -
+                FILE - - - - X

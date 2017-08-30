@@ -1,0 +1,14 @@
+                 BOB - S - - - - - -
+                USER - X - - - X - -
+               GROUP - X - - - X - -
+            TERMINAL - - X - - - - -
+                ROOT - - X X - - - -
+              PASSWD - - - X - - - -
+              CHANGE - - - - S - - -
+           PRIVILEGE - - - - O - - -
+                SHOW - - - - - S - -
+              VISUDO - - - - - - X -
+                LOOK - - - - - - O -
+                 WAY - - - - - - X -
+                 MAN - - - - - - - X
+             SUDOERS - - - - - - - S

@@ -1,0 +1,11 @@
+ /PATH/TO/SCRIPT.RUN O - -
+                  SH X - -
+/PATH/TO/POSIX-SCRIPT.RUN O - -
+                FILE S - -
+         PERMISSIONS O - -
+              SCRIPT X - -
+         POSSIBILITY - - O
+               THERE - - S
+                 DEB - - X
+             PACKAGE - - O
+               REPOS - - X

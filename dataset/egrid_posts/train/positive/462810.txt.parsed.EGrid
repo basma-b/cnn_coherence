@@ -1,0 +1,9 @@
+                SWAP - X - - - -
+           PARTITION - O - - - O
+                FILE - - X - - -
+                DISK - - X - - -
+                WORK - - X - - -
+              KERNEL - - - X - -
+                  .. - - - X - -
+               FSTAB - - - - X -
+                LINE - - - - - X

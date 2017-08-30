@@ -1,0 +1,10 @@
+             SOMEONE S - - -
+         PERMISSIONS O O - -
+               DRIVE X - O -
+               OWNER - S - -
+                ROOT - X - -
+               USERS - S - -
+          UMASK=0777 - - X -
+               UMASK - - - X
+               MOUNT - - - X
+             COMMAND - - - X

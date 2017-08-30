@@ -1,0 +1,1 @@
+TestGrid: src/Tree.cc:203: stIndex readGWord(std::istream&, int&, std::__cxx11::string&, SymbolTable*): Assertion `n<MAXLABELLEN-1' failed.

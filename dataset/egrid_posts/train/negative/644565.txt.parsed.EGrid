@@ -1,0 +1,15 @@
+          DEPENDENCY X - - - -
+            PROBLEMS X - - - -
+             FIREFOX O - - O -
+               CAUSE - S - - -
+           XULRUNNER - S - - -
+             VERSION - S - - -
+                PART - S - - -
+             PACKAGE - X - - -
+             MANAGER - X - - -
+            CONFLICT - - X - -
+                SUDO - - - X -
+             APT-GET - - - S -
+           REINSTALL - - - X -
+                  .. - - - - O
+                DIRS - - - - X

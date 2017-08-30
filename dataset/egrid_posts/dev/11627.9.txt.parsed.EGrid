@@ -1,0 +1,21 @@
+                CANT X - - - - -
+             MACHINE S - - - - -
+             NETWORK X - - O - -
+            IFCONFIG X - - - - -
+                  -A X - - - - -
+                LIST X - - - - -
+                ETH0 X - X S - -
+                LINE - O - - - -
+/ETC/NETWORK/INTERFACES - X - - - -
+                AUTO - - X - - -
+                THAT - - - O - -
+                INET - - - X - -
+                DHCP - - - X - -
+                SUDO - - - X - -
+                IFUP - - - X - -
+                 GPU - - - - X -
+               BRAND - - - - X -
+                DAYS - - - - - X
+                 ATI - - - - - X
+              NVIDIA - - - - - S
+            HARDWARE - - - - - O

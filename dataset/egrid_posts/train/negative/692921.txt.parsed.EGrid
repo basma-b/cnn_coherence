@@ -1,0 +1,18 @@
+                 ALL X - - -
+        MANUFACTURER O - - -
+                CARD X - - -
+              UBUNTU - X - -
+                SUDO - - X X
+             APT-GET - - S -
+            HARDINFO - - O -
+            TERMINAL - - X -
+                TYPE - - X -
+                   * - - X -
+               CHECK - - - X
+                DONT - - - S
+             COMMAND - - - S
+            IFCONFIG - - - O
+                ETH0 - - - S
+                DHCP - - - O
+             DEFAULT - - - X
+/ETC/NETWORK/INTERFACES - - - S

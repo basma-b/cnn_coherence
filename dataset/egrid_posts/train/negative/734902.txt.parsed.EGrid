@@ -1,0 +1,13 @@
+                BIND X - - - - - -
+        /DEV/SHM/TMP X - - - - - -
+                /TMP X - - - - - -
+          /ETC/FSTAB X - - - - - -
+                THIS - O - - - - -
+               TMPFS - - O - - - -
+               POINT - - X - - - -
+              MEMORY - - O - - - -
+             SEVERAL - - - - - O -
+               TRACK - - - - - O -
+                 DIR - - - - - - X
+               AMIGA - - - - - - X
+                 CLI - - - - - - X

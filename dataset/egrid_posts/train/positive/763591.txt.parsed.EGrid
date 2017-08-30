@@ -1,0 +1,13 @@
+            DVB_CORE - X - - - - - - -
+             VERSION - X - - - - - - -
+              SYMBOL - X - - - - - - -
+       STRUCT_MODULE - X - - - - - - -
+                THIS - O - - - - - - -
+              MYTHTV - - X - - - - - -
+                  TV - - - X X - - - -
+               TUNER - - - X S - - - -
+                 OK. - - - - S - - - -
+             TROUBLE - - - - O - - O -
+                  IM - - - - - - - S -
+               ERROR - - - - - - - X -
+             MESSAGE - - - - - - - X -

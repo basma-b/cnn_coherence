@@ -1,0 +1,14 @@
+              /MEDIA X - -
+    OWNER/PERMISSION O - -
+         MOUNTPOINTS X - -
+                USER S X -
+         PERMISSIONS - S -
+              EFFECT - O -
+                 MAN - X -
+               FSTAB - S -
+                NTFS - X -
+             DEFAULT - X -
+                  RW - X -
+            NLS=UTF8 - X -
+           UMASK=007 - X -
+             PROBLEM - - O

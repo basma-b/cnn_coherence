@@ -1,0 +1,11 @@
+              OPTION X X - - -
+              SCRIPT X X X O -
+ TRANSMISSION-DEAMON - - - S -
+                   < - - - X -
+               MY_IP - - - X -
+                   > - - - S -
+               GEDIT - - - X -
+/ETC/INIT/TRANSMISSION-DAEMON.CONF - - - X -
+               CHECK - - - - X
+/ETC/SSH/SSHD_CONFIG - - - - X
+ /ETC/SSH/SSH_CONFIG - - - - X

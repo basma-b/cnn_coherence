@@ -1,0 +1,14 @@
+              SERVER S - - -
+           COMPUTERS X - - -
+            LOOPBACK O - - -
+            FIREWALL S - - -
+              ROUTER X - - -
+                PORT O - - -
+         SERVER.BIND X - - -
+                 SET O - - -
+              SOURCE - - X -
+                CODE - - O -
+                FILE - - X -
+               POWER - - - X
+             MANAGER - - - S
+                TERM - - - O

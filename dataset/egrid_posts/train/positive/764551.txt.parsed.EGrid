@@ -1,0 +1,17 @@
+               CHMOD S - S - - - - - -
+                   $ - - - O - - - - -
+                   * - - - S - - - - -
+               CHECK - - - O - - - - -
+               OWNER - - - X - - - - -
+          FILES/DIRS - - - X - - - - -
+            QUESTION - - - X - - - - -
+                SARE - - - - X - - - -
+                  TI - - - - O - - - -
+                FLES - - - - - S - - -
+           OWNERSHIP - - - - - O - - -
+                FILE - - - - - X - X S
+            LOCATION - - - - - - X - -
+      /HOME/USERNAME - - - - - - X - -
+                SAME - - - - - - - X O
+                ROOT - - - - - - - X X
+                THAT - - - - - - - - X

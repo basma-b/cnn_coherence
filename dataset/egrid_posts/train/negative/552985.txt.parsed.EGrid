@@ -1,0 +1,13 @@
+                SWAP X - -
+                FLAG X - -
+           PARTITION X - -
+              MKSWAP - S -
+              SWAPON - X -
+           /DEV/HDA2 - X -
+              DEVICE - X -
+            RESOURCE - X -
+                 TRY - X -
+             SWAPOFF - X -
+              WINDOW - - X
+              SYSTEM - - X
+             MONITOR - - X

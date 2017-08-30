@@ -1,0 +1,22 @@
+               CHECK S - -
+                   C X - -
+            COMPILER X - -
+             DEFAULT X - -
+              OUTPUT S - -
+                NAME X - -
+                  .. O - -
+           CONFIGURE X - -
+               ERROR X - -
+         EXECUTABLES O - -
+             COMMAND O - -
+                WINE X - -
+CFLAGS=-FNO-STACK-PROTECTOR X - -
+              SYSTEM X - -
+                TYPE O - -
+   I686-PC-LINUX-GNU X - -
+                HOST X - -
+               IDEAS X - -
+             APT-GET - S -
+     BUILD-ESSENTIAL - X -
+            -VERSION - O -
+           DIRECTORY - - S

@@ -1,0 +1,18 @@
+                CANT X - - - - -
+                FILE O - - - - -
+              FLOPPY X - - - - -
+          PERMISSION O - - - - -
+     WRITE-PROTECTED - X - - - -
+              FORMAT - - X - - -
+               MOUNT - - O - - -
+                ONES - - - - - X
+                MESS - - - - - X
+                SUDO - - - - - X
+             APT-GET - - - - - S
+          PASTEBINIT - - - - - X
+                 CAT - - - - - X
+/ETC/APT/SOURCES.LIST - - - - - X
+                   | - - - - - X
+            PASTEBIN - - - - - X
+                LINK - - - - - O
+             CHANNEL - - - - - X

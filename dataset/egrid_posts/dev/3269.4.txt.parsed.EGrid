@@ -1,0 +1,10 @@
+        RELATIONSHIP O - - - - -
+                XORG X - - - - -
+                 GDM X - - - - -
+               GNOME X - - - - -
+             DESKTOP - - X - - -
+                 ENV - - O - - -
+              SERVER - - X - - -
+                FILE - - - - O -
+              MIKOGO - - - - X -
+/USR/SHARE/APPLICATIONS - - - - X -

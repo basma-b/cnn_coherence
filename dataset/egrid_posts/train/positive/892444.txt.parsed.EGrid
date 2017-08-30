@@ -1,0 +1,26 @@
+                 HEY X - - -
+             SUDOERS X - - -
+            ADDITION O - - -
+              SYNTAX O - - -
+                 ALL - X X -
+                USER - X - -
+                NAME - X - -
+                 JOE - S X -
+              LATEST - X - -
+                ALL= - X X -
+            NOPASSWD - O X -
+                SUDO - O - -
+               ERROR - O X -
+        /ETC/SUDOERS - X - -
+                LINE - X - -
+                 MAN - X - -
+                PAGE - X - -
+             COMMAND - S - -
+               COMMA - X - -
+             DELIMIT - O - -
+                  .. - O - -
+          APACHE2CTL - - S -
+                OOPS - - O -
+                PATH - - O -
+/USR/SBIN/APACHE2CTL - - S -
+                 AHA - - - X

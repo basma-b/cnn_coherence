@@ -1,0 +1,12 @@
+               ERROR X S -
+                GRUB - X -
+              LOADER - X -
+                BOOT - O -
+                  CD - X -
+                TYPE - X -
+         ENVIRONMENT - X -
+              UPDATE - X -
+             COMMAND - S -
+          /BOOT/GRUB - O -
+   /BOOT/GRUB/STAGE1 - O -
+            QUESTION - - O

@@ -1,0 +1,14 @@
+              DEVICE X - - -
+               MOUSE S - - S
+               TTYS1 - O - -
+   /DEV/INPUT/MOUSE0 - - S X
+             NOTHING - - O -
+                  .. - - O -
+          /DEV/INPUT - - X -
+                SUDO - - - X
+         INPUTATTACH - - - X
+              DAEMON - - - X
+        INTELLIMOUSE - - - X
+                LINE - - - X
+          DISCIPLINE - - - O
+               IDEAS - - - X

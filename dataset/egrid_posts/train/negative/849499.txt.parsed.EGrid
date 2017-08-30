@@ -1,0 +1,31 @@
+                FILE X X X S S - -
+               THERE X X - - - - -
+       CONFIGURATION X X X - - - -
+          PROTECTION O O - - - - -
+               ORDER - - X - - - -
+                 USE - - O - - - -
+       ALLOWOVERRIDE - - X S - - -
+           DIRECTIVE - - O - - - -
+         VIRTUALHOST - - X - - - -
+               HTTPD - - - X - - -
+              DETAIL - - - X - - -
+          DIRECTIVES - - - S - - -
+                HTTP - - - O - - -
+/VAR/LOG/APACHE2/ERROR.LOG - - - S - - -
+               HOURS - - - X - - -
+               ERROR - - - S O - -
+               RIGHT - - - O - - -
+                   / - - - X - - -
+               VALUE - - - O - - -
+      APACHE_LOG_DIR - - - X - - -
+/ETC/APACHE2/ENVVARS - - - X - - -
+                  .. - - - O O - -
+                 LOG - - - O X - -
+              UPDATE - - - - O - -
+                PERL - - - - X - -
+              SCRIPT - - - - O - -
+            /CGI/BIN - - - - X - -
+   /USR/LIB/CGI-BIN/ - - - - X - -
+             BROWSER - - - - X - -
+                DAYS - - - - X - -
+               IDEAS - - - - S - -

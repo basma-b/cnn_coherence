@@ -1,0 +1,13 @@
+               FOURL S - - - - -
+                BAND X - - - - -
+                NAME - O - - - -
+             CONTENT - - O - - -
+        /PROC/MOUNTS - - X - - -
+              REASON - - - X - -
+                CRON - - - S - -
+             CRONTAB - - - X X -
+             ENTRIES - - - O - -
+        /ETC/CRONTAB - - - - X -
+                USER - - - - X -
+                SUDO - - - - - X
+    /ETC/INIT.D/CRON - - - - - S

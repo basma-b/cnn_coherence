@@ -1,0 +1,10 @@
+                ROOT X - -
+                LOOP S - X
+        /PATH/TO/ISO S - -
+ /PATH/TO/MOUNTPOINT S - -
+               MOUNT - - S
+                  .. - - X
+                 ISO - - O
+                AUTO - - O
+            REMEMBER - - O
+                   P - - X

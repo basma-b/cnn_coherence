@@ -1,0 +1,16 @@
+                   Q X - - - - - - -
+              REASON S - - - - - - -
+             COMMAND X - - - O - - -
+                DHCP X - - - - - - -
+/LIB/DHCP3-CLIENT/CALL-DHCLIENT-SCRIPT O - - O - - - -
+          PERMISSION X - - O - - - -
+                 SET X - - - - - - -
+                FILE X - - X - - - -
+               RIGHT - - - X - - - -
+                USER - - - S X - - -
+             PROBLEM - - - X - - - -
+              ACCORD - - - S - - - -
+           LIBRARIES - - - S - - - -
+                THAT - - - - - - - O
+                 TOP - - - - - - - X
+                HEAD - - - - - - - X

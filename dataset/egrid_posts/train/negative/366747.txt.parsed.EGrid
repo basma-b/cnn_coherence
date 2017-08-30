@@ -1,0 +1,14 @@
+/ETC/NETWORK/INTERFACES X - - -
+                LINE X - - -
+                AUTO X - - -
+               WLAN0 O - - -
+                DHCP X - O -
+                SUDO X - - -
+            IWCONFIG X - - -
+               ESSID S - - -
+                ETH1 O - - -
+                THAT - O O -
+             SOMEONE - S - -
+            DHCLIENT - O X -
+              CLIENT - - S -
+                CARD - - - X

@@ -1,0 +1,22 @@
+             CRIMSUN X - - - - - - - - - - - - -
+               DELAY X - - - - - - - - - - - - -
+                HTTP X - - - - - - - - - - - - -
+              IEC958 S - - - - - - - - - - - - -
+              KERNEL - - X - - - - - - - - - - -
+            QUESTION - - - - O - - - - - - - - -
+           SOMETHING - - - - O - - - - - - - - -
+          PARAMETERS - - - - - - X - - O - - - -
+        WITH-OSS=YES - - - - - - - X - - - - - -
+  WITH-SEQUENCER=YES - - - - - - - X - - - - - -
+     WITH-DEBUG=FULL - - - - - - - X - - - - - -
+WITH-KERNEL=/LIB/MODULES/ - - - - - - - S - - - - - -
+                  -R - - - - - - - X - - - - - -
+              INSTAL - - - - - - - O - - - - - -
+              DRIVER - - - - - - - O - - - - - -
+                PART - - - - - - - O - - - - - -
+             COMMAND - - - - - - - - O - - - - -
+             HEADERS - - - - - - - - X - - - - -
+                SUDO - - - - - - - - - S - - - -
+             INSTALL - - - - - - - - - O - - - -
+                9.08 - - - - - - - - - - - - - X
+                8.04 - - - - - - - - - - - - - X

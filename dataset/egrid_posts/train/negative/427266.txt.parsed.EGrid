@@ -1,0 +1,12 @@
+             PACKAGE X - - - - -
+                 NFS X S - - - -
+               SHARE O - - - - -
+              KERNEL - X - - - -
+              FOLDER - O - - - -
+              OPTION - X - - - -
+                 SMB - - X - - -
+                THIS - - - - O -
+               HTTPS - - - - O -
+//HELP.UBUNTU.COM/COMMUNITY/MOUNTINGWINDOWSPARTITIONS - - - - O -
+         ACTION=SHOW - - - - - X
+REDIRECT=MOUNTNTFSONBOOT - - - - - X

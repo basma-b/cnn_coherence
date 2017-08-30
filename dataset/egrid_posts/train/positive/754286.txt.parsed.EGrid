@@ -1,0 +1,22 @@
+              ANYONE X - - - - -
+               ERROR X - - - - -
+                   ' - X - - - -
+                DHCP - X - - - -
+              SERVER - X - - - -
+                 RUN - O - - - -
+               PIECE - O - - - -
+                 DNS - X - - - -
+                   A - - X - - -
+                FILE - - X - - -
+/ETC/BINF/NAMED.CONF.LOCAL - - X - - -
+                WORD - - X - - -
+             CONTROL - - X - - X
+                  .. - - X - - -
+             SECTION - - X - - -
+                BIND - - O - - -
+                   * - - O - - -
+                THAT - - - O - -
+  /ETC/BIND/RNDC.KEY - - - - - O
+                SEMI - - - - - X
+               COLON - - - - - X
+                LINE - - - - - X

@@ -1,0 +1,16 @@
+               ERROR S - - -
+             PACKAGE X - - -
+             MANAGER X - - -
+         BUFFER_READ X - - -
+                  FD X - - -
+                COPY X - - -
+                INFO X - - -
+                FILE X - - -
+/VAR/LIB/DPKG/AVAILABLE O - - -
+        INPUT/OUTPUT X - - -
+                DPKG - O - -
+         CLEAR-AVAIL - S - -
+                SUDO - X - -
+             APT-GET - S - -
+             COMMAND - O - -
+                WORK - X - -

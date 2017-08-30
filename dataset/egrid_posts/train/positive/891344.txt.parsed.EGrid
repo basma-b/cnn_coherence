@@ -1,0 +1,17 @@
+               MYSQL X S -
+            APTITUDE X - -
+               ERROR O - -
+          PHPMYADMIN O - -
+              SERVER X - -
+              SOCKET X - -
+/VAR/RUN/MYSQLD/MYSQLD.SOCK X - -
+               START - X -
+                SUDO - X -
+             SERVICE - X -
+             APT-GET - O -
+   /VAR/LIB/DPK/LOCK - - X
+              WINDOW - - O
+        INSTALLATION - - X
+                WICH - - O
+                LOCK - - X
+                  .. - - X

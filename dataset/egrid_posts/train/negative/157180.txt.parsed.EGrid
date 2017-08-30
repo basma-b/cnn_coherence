@@ -1,0 +1,9 @@
+                HTTP X - - - -
+//PACKAGES.UBUNTU.COM/CGI-BIN/SEARCH_CONTENTS.PL X - - - -
+ SEARCHMODE=FILELIST - X - - -
+WORD=XFCE4-TASKBAR-PLUGIN - X - - -
+      VERSION=BREEZY - X - - -
+              PLUGIN - X - - -
+             TASKBAR - - O - -
+            UNIVERSE - - X - -
+          REPOSITORY - - O - -

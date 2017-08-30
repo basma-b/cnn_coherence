@@ -1,0 +1,15 @@
+            QUESTION O - - - -
+         RESPOSITORY X - - - -
+        SOURCES.LIST X - - - -
+            COMMANDE X - - - -
+                LINE X X - - -
+                SUDO - S - - -
+/ETC/APT/SOURCES.LIST - O - - -
+          PERMISSION - X - - O
+                 WAY - X - - -
+                FILE - X - - -
+                CALL - O - - -
+         MYREPO.LIST - X - - -
+                 DEB - X - - -
+/ETC/APT/SOURCES.LIST.D/ - X - - -
+              UPDATE - - O - -

@@ -1,0 +1,11 @@
+            WILDCARD S - - -
+                 CAT X O - -
+               SHELL - S - -
+             PATTERN - O - -
+           FILENAMES - X - -
+                   * - S - -
+     /VAR/LOG/SYSLOG - X - -
+                  .. - O - -
+                 ETC - X - -
+                THIS - - - S
+             CHANNEL - - - O

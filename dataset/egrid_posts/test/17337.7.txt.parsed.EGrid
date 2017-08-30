@@ -1,0 +1,21 @@
+                OPPS X - - -
+          PULSEAUDIO O O O -
+MODULE-LADSPA-SINK.C X - - -
+              MASTER S - - -
+            MODULE.C X - - -
+  MODULE-LADSPA-SINK X - - -
+            ARGUMENT X - - -
+          LABEL=MBEQ X - - -
+      INITIALIZATION X - - -
+                 GUY - S - -
+                LINE - X - -
+             APT-GET - O - -
+             VERSION - S - -
+                APPS - O - -
+             PRODUCE - X - -
+               AUDIO - O - -
+                GIVE - - X -
+                  -D - - X -
+                 USE - - - S
+                 USB - - - X
+               MAKER - - - O

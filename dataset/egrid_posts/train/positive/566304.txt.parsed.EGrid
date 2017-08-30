@@ -1,0 +1,10 @@
+         PERMISSIONS O - - -
+        /ETC/SUDOERS S - - -
+               ERROR S - - -
+                SUDO O - - -
+                MODE O - - -
+                WORK X - - -
+               CHMOD - - S -
+                THAT - - - O
+                ROOT - - - X
+          PERMISSION - - - O

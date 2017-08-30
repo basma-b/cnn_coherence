@@ -1,0 +1,10 @@
+                DISK S - - -
+            /DEV/SDA - O - -
+           PARTITION - S - -
+               DRIVE - X - -
+          FILESYSTEM - X - S
+                TYPE - O - -
+                FILE - X - -
+              SYSTEM - X - -
+                 USE - X - -
+                EXT4 - - - S

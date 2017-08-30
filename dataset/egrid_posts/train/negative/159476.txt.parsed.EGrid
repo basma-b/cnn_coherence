@@ -1,0 +1,25 @@
+              FORMAT X X - - - - - - -
+               THUMB X - - - - - - - -
+               DRIVE X - - S - - - - X
+                SUDO - X - - X - - - -
+MKFS.FILESYSTEMYOUWANT - X - - - - - - -
+           /DEV/SDA1 - S - - X - - - -
+              DEVICE - S - - X - - - -
+           PARTITION - O - - - - - - -
+           MKFS.VFAT - X - - - - - - -
+                NOTE - - X - - - - - -
+           SOMETHING - - O - - X - - -
+               THERE - - X - - - - - -
+              SYSTEM - - O - - - - - -
+             UNMOUNT - - - - S - - - -
+              UMOUNT - - - - X - - - -
+                 SDA - - - - O - - - -
+                PLUG - - - - O - - - -
+               MOUNT - - - - - S O - -
+                  .. - - - - - O - - -
+                  N' - - - - - - X - -
+                 COS - - - - - - - - X
+                   U - - - - - - - - S
+         INFORMATION - - - - - - - - O
+                SIDE - - - - - - - - X
+               SPACE - - - - - - - - O

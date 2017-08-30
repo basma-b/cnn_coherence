@@ -1,0 +1,27 @@
+             COMMAND X - - - - -
+                APPS X - - - - -
+                SUDO X - - - - -
+                GKSU - S - - - -
+              IWLITS - X - - - -
+                  SC - X - - - -
+                BASH - X - - - -
+             HISTORY - S - - - -
+     ~/.BASH_HISTORY - X - - - -
+              SEARCH - O - - - -
+                TYPE - X - - - -
+           SOMETHING - X - X - -
+              CTRL+R - X - - - -
+              SYSTEM - X - - - -
+               CRASH - X - - - -
+                LIST - X - - - -
+            WIRELESS - X - - - -
+             NETWORK - X - - - -
+             MANAGER - X - - - -
+                IDEA - - X - - -
+               DRIVE - - X - - -
+              RISSUE - - X - - -
+               SOUND - - O - - -
+/ETC/NETWORK/INTERFACES - - X - - -
+     NETWORK-MANAGER - - S - - -
+              CHANGE - - O - - -
+           DEV/MEDIA - - - - - X

@@ -1,0 +1,25 @@
+            UNIVERSE X X - - - -
+               SETUP O - - - - -
+                JAVA X O - - - -
+                 SUN - S - - - -
+        RESTRICTIONS - X - - - -
+        JAVA-PACKAGE - O - - - -
+                .DEB - S - - - -
+                .RPM - O - - - -
+               THERE - S - - - -
+               .DEBS - O - - - -
+           APT-CACHE - X - - - -
+              SEARCH - X - - O X
+                -DEV - X - - - -
+                   > - S - - X -
+             PACKAGE - O - - X -
+                NAME - X - - S -
+                PWNS - O - - - -
+          MULTIVERSE - O - - - O
+         FLASHPLAYER - - - - - X
+              UPDATE - - - - - O
+                HTTP - - - - - X
+//WWW.UBUNTULINUX.ORG/WIKI/GUIDETOHOARY/ - - - - - S
+        SOURCES.LIST - - - - - O
+                 URL - - - - - X
+                LINE - - - - - O

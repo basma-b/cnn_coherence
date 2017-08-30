@@ -1,0 +1,14 @@
+              ANYONE X - - - - - -
+           PARTITION X - - - - - -
+               FSTAB X - - X X - -
+             DISPLAY X - - - - - -
+             DESKTOP X - - X - - -
+                CANT - X - - - - -
+         /MEDIA/SDA3 - - X - - - -
+               DRIVE - - - X - - -
+                  RW - - - X - - -
+              ACCESS - - - O - - -
+              DEVICE - - - - O - -
+                 SSH - - - - - - S
+                 FTP - - - - - - X
+                ISNT - - - - - - S

@@ -1,0 +1,17 @@
+                ROOT O X - - - X - -
+               LOGIN X - - - - - - -
+              SCRIPT O - - - - O - -
+        ROOTLOGIN.SH O S - - - - - -
+                 LOG X - - - - - - -
+                PASS - O - - - - - -
+                SUDO - - - S - X - -
+                  -I - - - S - S - -
+                LINE - - - X - X - -
+             COMMAND - - - O - X - -
+               SHELL - - - - - X - -
+            PASSWORD - - - - - X - -
+             ACCOUNT - - - - - X - -
+                LIST - - - - - - - X
+             PACKAGE - - - - - - - O
+          DEPENDENCY - - - - - - - O
+             ANOTHER - - - - - - - X

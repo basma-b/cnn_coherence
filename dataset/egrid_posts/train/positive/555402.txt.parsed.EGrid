@@ -1,0 +1,27 @@
+            ANYTHING X - - - - - - -
+              IWLIST S - - - - - - -
+             NETWORK S - X - - - - -
+                   U - X - - - - - -
+                HELP - - O - - - - -
+                NAME - - O - - - - -
+              DEVICE - - X - X - - -
+                ETH1 - - - S - - - -
+               WLAN0 - - - O - - - -
+                 ETC - - - X - - - -
+                IFUP - - - X - - - -
+           INTERFACE - - - X - - - -
+         WLAN0=WLAN0 - - - O - - - -
+              DRIVER - - - - X - - -
+                THAT - - - - - O - -
+                SUDO - - - - - X - -
+/ETC/NETWORK/INTERFACES - - - - - S - -
+              REBOOT - - - - - S - -
+            TERMINAL - - - - - X - -
+                  MV - - - - - X - -
+               STOCK - - - - - X - -
+                FILE - - - - - O - -
+               RMMOD - - - - - O - -
+               THING - - - - - S - -
+                   < - - - - - - - O
+                   > - - - - - - - X
+            MODPROBE - - - - - - - X

@@ -1,0 +1,4 @@
+               PURGE S -
+             PROGRAM X -
+              CONFIG X X
+                FILE S O

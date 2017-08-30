@@ -1,0 +1,10 @@
+             COMMAND O - - -
+                CANT X - - -
+       .BASH_PROFILE S - - -
+                FILE O O - -
+     ~/.BASH_PROFILE - X - -
+                   ~ - S - -
+                HOME - X - -
+                   # - - O -
+              DOESNT - - S -
+                LINE - - - X

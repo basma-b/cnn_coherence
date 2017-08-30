@@ -1,0 +1,11 @@
+              KERNEL X - - -
+           THREADING O - - -
+               HT=ON - O - -
+                BOOT - X - -
+         COMMANDLINE - X - -
+                 CPU - S - -
+                  HT - S - -
+               DMESG - S - -
+                 RUN - O - -
+       /PROC/CPUINFO - - - S
+           EXTENSION - - - S

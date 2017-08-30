@@ -1,0 +1,7 @@
+             COMMAND X - -
+                XORG X - -
+      RECONFIGURATOR O - -
+                SUDO - X -
+    DPKG-RECONFIGURE - X -
+        XSERVER-XORG - X -
+           NEVERMIND - - S

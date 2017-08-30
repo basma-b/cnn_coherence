@@ -1,0 +1,8 @@
+             PACKAGE S - -
+                 LIB O - -
+                PART O - -
+               GLIBC X - -
+                  .. - X -
+               ERROR - O -
+           REFERENCE - - X
+  PTHREAD_KEY_CREATE - - X

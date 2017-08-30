@@ -1,0 +1,20 @@
+             COMMAND X X O - - -
+         PERMISSIONS O - - - - -
+           DIRECTORY X - - - - -
+                NEED - O - - - -
+                WORK - X - - - -
+               POINT - X - - - -
+             CLIENTS - S - - - -
+          PERMISSION - X - - - -
+              ERRORS - O - - - -
+               RIGHT - - X - - -
+                 LOL - - S - - -
+               CHMOD - - O - - -
+                 MAN - - X - - X
+                CANT - - S - - -
+             READAND - - S - - -
+/THE/PATH/TO/YOUR/DIRECTORY - - O - - -
+                SAME - - X - - -
+                USER - - - - X -
+               GROUP - - - - X -
+               CHOWN - - - - - X

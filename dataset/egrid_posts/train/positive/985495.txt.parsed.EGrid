@@ -1,0 +1,14 @@
+           FILSYSTEM X - - - - -
+                 XFS - X - - - -
+            REISERFS - X - - - -
+                EXT3 - - S - - -
+             DEFAULT - - X - - -
+              KERNEL - - X - - -
+               PANIC - - O - - -
+             NETWORK - - - O - -
+            SETTINGS - - - O - -
+                BOOT - - - X - -
+                ETH0 - - - S - -
+               WI-FI - - - X - -
+            WIRELESS - - - - - X
+              DONGLE - - - - - X

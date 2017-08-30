@@ -1,0 +1,14 @@
+              MEMORY X - - - - X
+               STICK O - - - - S
+            ANYTHING S - - - - -
+               450MB X X - - - -
+             MEM=450 - O - - - -
+              KERNEL - X - - - X
+         COMMANDLINE - X - - - -
+                 USE - O - - - -
+               FLASH - - X - - -
+          FILESYSTEM - - X - - -
+                THIS - - X - - -
+               JFFS2 - - X - - -
+                 RAM - - - - - O
+              LOADUP - - - - - X

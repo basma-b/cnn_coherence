@@ -1,0 +1,10 @@
+                 VOX S - - -
+               INTEL O - - -
+        FRAMEBUFFERS O - - -
+                   * X - - -
+             MODULES O - - -
+              INITRD - O - X
+              KERNEL - - O -
+           MAKE-KPKG - - - X
+     REVISION=BALBLA - - - X
+        KERNEL_IMAGE - - - X

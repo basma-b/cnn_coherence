@@ -1,0 +1,10 @@
+          MEMORYTEST O - -
+             KERNELS O - -
+                GRUB X - -
+                WORK - X -
+                HEAP - - O
+             MACHINE - - X
+              SERVER - - O
+             SERVICE - - S
+            MACHINES - - O
+                   \ - - X

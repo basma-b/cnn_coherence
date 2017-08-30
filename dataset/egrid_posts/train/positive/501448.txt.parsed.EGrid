@@ -1,0 +1,22 @@
+LINUX-RESTRICTED-MODULES X - -
+NVIDIA-KERNEL-COMMON X - -
+              NVIDIA - X -
+                CARD - O -
+              DRIVER - X -
+               REPOS - X -
+             ATHEROS - X -
+                BASE - X -
+             CHIPSET - X -
+               THERE - S -
+             PACKAGE - O -
+                 USE - X -
+                NAME - S -
+        DEPENDENCIES - X -
+         SUBPACKAGES - O -
+         METAPACKAGE - X -
+LINUX-RESTRICTED-MODULES-2.6.24-16-GENERIC - S -
+              KERNEL - X -
+             DRIVERS - O -
+             NVIDIAS - X -
+               FGLRX - O -
+             MADWIFI - - O

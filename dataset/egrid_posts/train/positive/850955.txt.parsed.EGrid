@@ -1,0 +1,13 @@
+                 TRY X - - -
+                 TAB X X - -
+               ERROR X X - -
+             COMMAND X X - -
+    BACKGROUND_COLOR X - - -
+                  XX - S - -
+              KERNEL - X - -
+             VERSION - O - -
+       ROOT=/DEV/SDA - X - -
+                SDAX - X - -
+           PARTITION - X - O
+                ROOT - X - X
+                BOOT - - X -

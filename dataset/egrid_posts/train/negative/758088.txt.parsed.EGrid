@@ -1,0 +1,27 @@
+          CONNECTION X - - - - - - - - - - - - - - -
+                 NET X - - - - - - - - - - - - - - -
+            WIRELESS - X - - - - - - - - - - - - - -
+               THING - - O - - - - - - - - - - - - -
+      NETWORKMANAGER - - O - - - - O - - - - - - - -
+                WIRE - - - X - - - - - - - - - - - -
+           INTERFACE - - - X - - - - - - - - - - - -
+                   * - - - O - - - - - - - - - - - -
+             GATEWAY - - - O - - - - - - - - - - - -
+             STARTUP - - - - X - - - - - - - - - - -
+        APPLICATIONS - - - - X - - - - - - - - - - -
+                 BOX - - - - X - - - - - - - - - - -
+             NETWORK - - - - X - - - - - - - X X - -
+             MANAGER - - - - X - - - - - - - - - - -
+                SOME - - - - - X - - - - - - - - - -
+/ETC/NETWORK/INTERFACES - - - - - X - - - - - - - - - -
+               INTER - - - - - O - - - - - - - - - -
+               WLAN0 - - - - - X - - - - - - - - - -
+                IDEA - - - - - - O - - - - - - - - -
+                ETH0 - - - - - - X - - - - - - - - -
+                THAT - - - - - - - S - - - - - - - -
+              CONFIG - - - - - - - X - - - - - - - -
+           CONFIGURE - - - - - - - - S - - - - - - -
+                  IP - - - - - - - - X - - - - - - -
+             NETMASK - - - - - - - - X - - - - - - -
+            SETTINGS - - - - - - - - - - - - X - - -
+                 THX - - - - - - - - - - - - - - - X

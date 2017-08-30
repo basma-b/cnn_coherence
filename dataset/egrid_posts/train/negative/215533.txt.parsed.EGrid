@@ -1,0 +1,16 @@
+                DISK O - - - - -
+                BOOT - X X - - -
+                THIS - X - - - -
+         PERMISSIONS - - X - - -
+           OWNERSHIP - - X - - -
+                SUDO - - X - - -
+           SOMETHING - - X - - -
+               FSTAB - - X - - -
+               RIGHT - - X - - -
+                FILE - - - - X X
+              SYSTEM - - - - O S
+           PARTITION - - - - X O
+            COMPUTER - - - - X -
+             EXAMPLE - - - - X -
+                ROOT - - - - - X
+            /DEV/SDA - - - - - X

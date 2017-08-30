@@ -1,0 +1,18 @@
+                  .. X - - - - - - - - X
+              KERNEL - X - - - - - - - S
+              UBUNTU - X - - - - - - - -
+      KERNEL-HEADERS - - - O - - - - - -
+              SOURCE - - - X - - - - - -
+                   A - - - - - X - - - -
+                SUDO - - - - - S - - - -
+          MENUCONFIG - - - - - S - - - -
+               CAUSE - - - - - X - - - -
+       NCURSES-DEVEL - - - - - S - - - -
+               THERE - - - - - S - - - S
+NCURSES-DEVEL-THINGY - - - - - O - - - -
+      LIBNCURSES-DEV - - - - - X - - - -
+       KERNEL-SOURCE - - - - - O - - - -
+             HEADERS - - - - - - X - - -
+               2.6.7 - - - - - - - - - X
+               CDROM - - - - - - - - - X
+             2.6.8.1 - - - - - - - - - O

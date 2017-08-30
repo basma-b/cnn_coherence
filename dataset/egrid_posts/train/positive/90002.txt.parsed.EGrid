@@ -1,0 +1,13 @@
+          KNOPPIX-CD X - - - - - -
+             PROBLEM - O - - - - -
+        ACPI-DRIVERS - X - - - - -
+                  .. - X O O - - -
+              UBUNTU - X - - - - -
+               START - X - - - - -
+           SUBSYSTEM - X - - - - -
+              OPTION - - O - - - -
+              KERNEL - - X - - - -
+                GRUB - - X - - - -
+     BOOT-PARAMETERS - - - S - - -
+              NOAPIC - - - X - - -
+                   U - - - - X - -

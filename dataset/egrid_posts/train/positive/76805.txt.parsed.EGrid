@@ -1,0 +1,17 @@
+     APT-SOURCE.LIST X - - - -
+             COMMAND - X O - -
+                DATE - - X - -
+              UPDATE - - X - X
+              DEBIAN - - X - -
+         APT-UPGRADE - - X - -
+           SOMETHING - - X - -
+             UPGRADE - - X - -
+              SYSTEM - - S - X
+                SUDO - - X - -
+             APT-GET - - X - -
+             MANAGER - - S - X
+             VERSION - - X - -
+              UBUNTU - - X - -
+                 ONE - - S - -
+                   > - - - - X
+      ADMINISTRATION - - - - X

@@ -1,0 +1,23 @@
+                PROB O - - - - -
+           PARTITION O - - - - -
+                RAID X - - - - -
+               FSTAB X - - - - -
+               NOONE - X - - - -
+                FILE - O O - - X
+              FOLDER - X - - - -
+                  IE - X - - - -
+               STEAM - X - - - -
+  HLDSUPDATETOOL.BIN - X - - - -
+               CHMOD - - X - - -
+                  +X - - X - - -
+               ONTHE - - X - - -
+            DOWNLOAD - - X - - -
+              SERVER - - - S - -
+                9.10 - - - O - -
+              NOEXEC - - - O - -
+                SUDO - - - - - X
+./HLDSUPDATETOOL.BIN - - - - - O
+           DIRECTORY - - - - - X
+                   < - - - - - X
+                EXEC - - - - - X
+               DRIVE - - - - - X

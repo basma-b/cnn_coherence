@@ -1,0 +1,25 @@
+             WARNING X - - - X - - - - -
+              SYMBOL X - X - X - - - - -
+             VERSION X - S - X - - - - -
+                DUMP X - - - X - - - - -
+/USR/SRC/LINUX-SOURCE-2.6.15/MODULE.SYMVERS S - X - S - - - - -
+             MODULES S - S - S - - - - -
+        DEPENDENCIES X - X - X - - - - -
+         MODVERSIONS O - O - O - - - - -
+              ANYONE - S - S - S - - - -
+                THIS - O - O - O - - - S
+                MISS - - O - - - - - - -
+              NOAPCI - - X - - - - - - -
+                 ONE - - X - - - - - - -
+          PARAMETERS - - X - - - - - - -
+              SOURCE - - - - - - O - - -
+            DOWNLOAD - - - - - - - O - -
+                FILE - - - - - - - O S -
+                 YES - - - - - - - - X -
+       WARNING/ERROR - - - - - - - - X -
+                LIRC - - - - - - - - S -
+                 THE - - - - - - - - - S
+                  .. - - - - - - - - - S
+              HEADER - - - - - - - - - O
+                 NOW - - - - - - - - - X
+            MAKEFILE - - - - - - - - - S

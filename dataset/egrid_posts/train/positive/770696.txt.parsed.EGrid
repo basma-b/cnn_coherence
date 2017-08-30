@@ -1,0 +1,24 @@
+              SERVER X - - O - - X
+              LAPTOP X - - X - - -
+          CONNECTION O - - - - - -
+            WIRELESS O X - - - - -
+                TIME - X - - - - -
+      WIRELESS-TOOLS - X - - - - -
+                 USE - O - - - - -
+            IWCONFIG - S - - - - -
+                ETH1 - S - - - - -
+              DEVICE - O - - - - -
+                INFO - O - - - - -
+/ETC/NETWORK/INTERFACES - X - - - - -
+             NETWORK - X - - - - -
+              DAEMON - O - - - - -
+        DHCPDISCOVER - S - - - - -
+             HANDFUL - O - - - - -
+              UBUNTU - - - X - - -
+ BCMWL-KERNEL-SOURCE - - - X - - -
+             BCM4312 - - - X - - -
+               LIGHT - - - X - - -
+            KEYBOARD - - - X - - -
+              REBOOT - - - X - - -
+                 ANY - - - - - - X
+             PACKAGE - - - - - - X

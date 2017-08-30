@@ -1,0 +1,20 @@
+               MOUNT - X - - -
+               POINT - X - - -
+              ACCESS - X - - -
+               SHARE - X - - -
+             FOLDERS - O - - -
+               SAMBA - X - - -
+                USER - - S - -
+               .GVFS - - X - -
+                 OUT - - - X -
+             COMMAND - - - X -
+                DPKG - - - X -
+              OPTION - - - O -
+             PACKAGE - - - O -
+                  CD - - - - X
+                   < - - - - X
+            TERMINAL - - - - X
+                   * - - - - S
+                LINK - - - - X
+                HTTP - - - - O
+//REPO2.MAVEN.ORG/MAVEN2/ORG/MORTBAY/JETTY/DIST/JETTY-DEB/8.1.2.V20120308/JETTY-DEB-8.1.2.V20120308.DEB - - - - X

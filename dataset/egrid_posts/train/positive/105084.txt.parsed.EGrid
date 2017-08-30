@@ -1,0 +1,15 @@
+                 HDD - X - - - -
+                DATA - S - X - -
+                PART - O - - - -
+               FAT32 - X - - - -
+              SYSTEM - - X - X -
+             MONITOR - - S - S -
+             SOMEONE - - - X - -
+               DRIVE - - - O - X
+           PARTITION - - - - X X
+                  .. - - - - X -
+               /DEV/ - - - - X -
+                   < - - - - S -
+                   > - - - - S -
+             REPLING - - - - X -
+                HDA1 - - - - - X

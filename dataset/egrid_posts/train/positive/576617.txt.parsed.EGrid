@@ -1,0 +1,14 @@
+             XSERVER O X -
+             DEFAULT X O -
+               USERS - O -
+                USER - S -
+            EVERYONE - X -
+               LOGIN - S -
+                TYPE - X -
+                SUDO - X -
+        XSERVER-XORG - S -
+              BACKUP - O -
+           XORG.CONG - X -
+                PART - X -
+            SETTINGS - O -
+                THIS - - S

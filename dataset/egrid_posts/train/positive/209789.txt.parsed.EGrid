@@ -1,0 +1,17 @@
+                TIME O - -
+          EVERYTHING S - -
+             XSERVER O - -
+                MESA X - -
+                 RUN O - -
+          XORG.0.LOG S - -
+                  WW X - -
+               FGLRX X - S
+               MATCH X - -
+              DEVICE X - -
+             SECTION X - -
+               ERROR O - -
+                FILE X - -
+           XORG.CONF - - X
+              DRIVER - - S
+               LSMOD - - X
+                LOAD - - O

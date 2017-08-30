@@ -1,0 +1,5 @@
+             COMMAND X - - - -
+             DEVICES O S - - -
+               LSPCI - S - - -
+             PATTERN - O - - -
+                 10X - - - - S

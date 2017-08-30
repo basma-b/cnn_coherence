@@ -1,0 +1,15 @@
+                THAT O - X -
+             ENTRIES O - - -
+/ETC/MODPROBE.D/ALSA-BASE X - - -
+          SND-CMIPCI S - - -
+                LOAD O - - -
+                   S X - - -
+             HOTPLUG - X - -
+             SERVICE - S - -
+                 HMM - - S -
+                LOOK - - O -
+           BLACKLIST - - O -
+/ETC/HOTPLUG/BLACKLIST - - X -
+             SOMEONE - - S -
+                  HR - - X -
+                 HEH - - - X

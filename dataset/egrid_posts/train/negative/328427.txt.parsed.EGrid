@@ -1,0 +1,17 @@
+              MEMORY X - - - -
+                 PID S - - - -
+                 USE O - - - -
+                 TOP - S - - -
+            TERMINAL - X - - -
+               VALUE - O - - -
+            VARIABLE - X - - -
+                BASH - X - - -
+              SCRIPT - X - - -
+              OUTPUT - O - - -
+                BOOT - - - X -
+              SYSTEM - - - X -
+               DRIVE - - - X -
+          -PCRITICAL - - - O -
+                GRUB - - - O -
+             MINUTES - - - - X
+                WAIT - - - - X

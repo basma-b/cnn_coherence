@@ -1,0 +1,17 @@
+                FILE O - - - -
+             IMGBURN - X - - -
+               LINUX - X - - -
+              CD/DVD - - X - -
+             CREATOR - - X - -
+                DVDS - - - S -
+              ANSWER - - - X -
+            FDFORMAT - - - X -
+      /PATH/TO/DRIVE - - - X -
+              /MOUNT - - - S -
+              DEVICE - - - S -
+                NAME - - - S -
+                  DD - - - X -
+    IF=SOMETHING.IMG - - - X -
+         OF=/DEV/SDJ - - - S -
+                PATH - - - S -
+             COMMAND - - - - X

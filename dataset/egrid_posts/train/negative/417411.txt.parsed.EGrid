@@ -1,0 +1,14 @@
+                THIS S - - - -
+              KERNEL S - - O -
+             DRIVERS S - - - -
+                EXT3 - - X O -
+             SUPPORT - - X - -
+              SUBSET - - O - -
+            REISERFS - - - O -
+               /BOOT - - - X -
+                   / - - - X -
+               /HOME - - - X -
+                 LOT - - - - O
+                WORK - - - - X
+            AUDIENCE - - - - O
+              UBUNTU - - - - X

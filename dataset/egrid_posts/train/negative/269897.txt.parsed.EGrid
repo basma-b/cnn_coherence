@@ -1,0 +1,16 @@
+               WORLD X - - - - -
+            FIREWALL - O - - - -
+              DISTRO - X - - - -
+                  .. - - X - - -
+                SUDO - - S X - -
+                  -L - - X - - -
+                LIST - - O - - -
+                RULE - - X - - -
+             APT-GET - - - S - -
+              INSTAL - - - X - -
+              ERRORS - - - X - -
+              UPDATE - - - - O -
+               ERROR - - - - O -
+        DEPENDENCIES - - - - X -
+             USBMUXD - - - - - X
+         LIBUSBMUXD1 - - - - - S

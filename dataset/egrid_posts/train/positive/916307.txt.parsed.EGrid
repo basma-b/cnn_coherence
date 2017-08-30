@@ -1,0 +1,13 @@
+             PROBLEM S O - - - - - - - -
+            QUESTION O - - - - - - - - -
+        FGLRX-DRIVER X - O - - - - - - -
+             PACKAGE S - - - - - - - - -
+                DEPS X - - - - - - - - -
+                  .. O - - - - - - - - -
+   XORG-DRIVER-FGLRX X O - - - - - - - -
+               ERROR - - O - - - S S - -
+               BREAK - - - - - X - - - -
+XFREE86-DRIVER-FGLRX - - - - - - O - - -
+                XORG - - - - - - O - - -
+                PART - - - - - - O - - -
+                   * - - - - - - - - X -

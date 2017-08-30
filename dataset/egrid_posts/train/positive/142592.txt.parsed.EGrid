@@ -1,0 +1,11 @@
+             NETWORK X X - - - - - -
+                BOOT X X - X - X - -
+              SCRIPT X X - X X - - -
+/ETC/NETWORK/INTERFACES - - X - - - - -
+        /ETC/INIT.D/ - - - X - - - -
+ /ETC/INIT.D/NETWORK - - - - - X - -
+                   * - - - - - S - -
+                  'S - - - - - O - -
+          INTERFACES - - - - - S - -
+              SEARCH - - - - - - - S
+               FONTS - - - - - - - S

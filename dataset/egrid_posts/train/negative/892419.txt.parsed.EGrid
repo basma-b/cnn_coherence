@@ -1,0 +1,18 @@
+              UBUNTU O - - - - - - - - -
+          BOOTLOADER X - - X - - - - - -
+        INSTALLATION X - - - - - - - - -
+               PHASE X - - - - - - - - -
+                GRUB - O - - - - - - - -
+            TERMINAL - X - - - - - - - -
+/USR/SBIN/GRUB-PROBE - X - - - - - - - -
+               ERROR - X - - - - - - - -
+              DEVICE - O - - - - - - - -
+          /BOOT/GRUB - X - - - - - - - -
+                RAID - - - - X X - - - -
+           SOMETHING - - - - X - - - - -
+           CHROOTING - - - - - X - - - -
+                LINK - - - - - X - - - -
+               GRUB2 - - - - - X - - - -
+               DRIVE - - - - - X X - - -
+                2+TB - - - - - - X - - -
+          PERMISSION - - - - - - - - - S

@@ -1,0 +1,12 @@
+  /VAR/LIB/APT/LISTS S - - -
+       /VAR/LIB/DPKG S - - -
+            INTEREST X - - -
+                LIST - O - -
+               HOARY - X - -
+              IMPORT - X - -
+               MODEM - X - -
+              DRIVER - O - -
+                IDEA - X - -
+              BREEZY - - - X
+                 GCC - - - O
+                 HSF - - - X

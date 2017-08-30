@@ -1,0 +1,11 @@
+    PERMITROOTACCESS X - - - - - -
+ /ETC/SSH/SSH_CONFIG X - - - - - -
+              ANYONE - S S - - - -
+     /ETC/INIT.D/SSH - - X - - - -
+                 ALL - - O - - - -
+            SESSIONS - - X - - - -
+             SERVICE - - - O - - -
+         CONNECTIONS - - - X - - -
+                COOL - - - - X - -
+                THAT - - - - - S -
+              THANKS - - - - - - X

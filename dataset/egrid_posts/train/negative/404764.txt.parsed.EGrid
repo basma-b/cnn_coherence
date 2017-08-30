@@ -1,0 +1,19 @@
+                SUDO X - - - - - - -
+               GEDIT X - - - - - - -
+        /ETC/INITTAB X - - - - - - -
+                   > S - - - - - - -
+              EITHER S - - - - - - -
+       GNOME-SESSION X - - - - - - -
+               USERS X - - - - - - -
+              STARTX O - - - - - - -
+/USR/BIN/GNOME-SESSION X - - - - - - -
+           RUNLEVEL3 S - - - - - - -
+               5=GDM O - - - - - - -
+                THIS O - - O - - - -
+              UBUNTU X - - X - - - -
+                 USE - - - - X - - -
+                LINK - - - - X - - -
+           RUNLEVELS - - - - O - - -
+             PLUGINS - - - - - - - X
+             NOTHING - - - - - - - X
+              KERNEL - - - - - - - X

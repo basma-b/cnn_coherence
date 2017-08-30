@@ -1,0 +1,10 @@
+            FIREWALL O - -
+             DEFAULT X - -
+              ACCESS O - -
+          BITTORNADO X - -
+            DOWNLOAD S - -
+                WORK O - -
+               BLOCK X - -
+                DENY - O -
+        DOCUMENTROOT - - X
+  /VAR/WWW/YOURSITE/ - - X

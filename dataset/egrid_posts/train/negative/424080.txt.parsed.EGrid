@@ -1,0 +1,10 @@
+              FOLDER O O - -
+               FSTAB X - X -
+       /HOME/ME/BLAH - X - -
+                EXT3 - S - -
+              NOBODY - S - -
+                BIND - - O -
+  /DESTINATIONFOLDER - - X -
+           AUTOMATIC - - X -
+              SYSTEM - - - O
+  /PATH/TO/UPDATE-RC - - - O

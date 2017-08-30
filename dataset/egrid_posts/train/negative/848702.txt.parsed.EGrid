@@ -1,0 +1,16 @@
+         PERMISSIONS X - - -
+             PROBLEM O - - -
+              ACCESS X - - -
+             ARCHIVE X - - -
+             CONTENT X - - -
+                 USE X - - -
+           MOUNTAVFS X - - -
+                TOOL X - - -
+                CALL X - - -
+              DETAIL O - - -
+              SYSTEM X - - -
+                STAT X - - -
+              STRACE - X - -
+              OPTION - - - O
+                BOOT - - - X
+                 HDD - - - X

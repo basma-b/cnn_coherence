@@ -1,0 +1,11 @@
+             OPTIONS O - - -
+               FSTAB X - - -
+               STICK X - - -
+              DEVICE X - - -
+                NAME - O - -
+         PERMISSIONS - S - -
+            TERMINAL - X - X
+               TMPFS - O - -
+               THOSE - X - -
+                TYPE - - - X
+             FIREFOX - - - X

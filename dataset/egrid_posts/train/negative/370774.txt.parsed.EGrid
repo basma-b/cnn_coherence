@@ -1,0 +1,20 @@
+                BASH X - - - - -
+              SCRIPT S - - - - -
+            TERMINAL X - - - - -
+              MATTER X - - - - -
+                PATH S - - - - -
+           /USR/BIN/ - X - - - -
+            PASSWORD - - - O - -
+              FOLDER - - - O - -
+              SYSTEM - - - - O -
+         CERTIFICATE - - - - X -
+                BASE - - - - X -
+                AUTH - - - - O -
+                 SSH - - - - X -
+             MACHINE - - - - - X
+                TYPE - - - - - X
+               SSHFS - - - - - X
+                USER - - - - - S
+             1.1.1.1 - - - - - O
+          /HOME/USER - - - - - X
+/HOME/LOCALUSER/REMOTEMNT - - - - - S

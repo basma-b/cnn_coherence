@@ -1,0 +1,10 @@
+             NETWORK X - X - - - - -
+             MANAGER S - S - - - - -
+                LINE O S O S - - - -
+    /ETC/RESOLV.CONF X - X - - - - -
+                FILE - S - S - - - -
+                ROOT - X - X - - - -
+                 USE - - - - - X - -
+          DNS-SERVER - - - - - O - -
+              SUPPLY - - - - - X - -
+                ONES - - - - - X - -

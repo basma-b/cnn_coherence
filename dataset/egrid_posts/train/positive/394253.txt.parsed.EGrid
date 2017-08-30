@@ -1,0 +1,16 @@
+                MASK S - - - -
+               SHELL X - - - -
+                TYPE X - - - -
+               UNAME X - - - -
+                  -A O - - - -
+            QUESTION X - - - -
+            PROGRAMM O - - - -
+              USERID X - - - -
+               RUNAS - S - - -
+               WIN32 - - X - -
+           2.6.22-14 - - X - -
+                THIS - - - S -
+             VERSION - - - O -
+              UBUNTU - - - X -
+                SUDO - - - - X
+        DIST-UPGRADE - - - - X

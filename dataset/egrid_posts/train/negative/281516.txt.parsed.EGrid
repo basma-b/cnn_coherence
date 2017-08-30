@@ -1,0 +1,14 @@
+                ROOT O X - - - - - - -
+                CRON - S - - - - - - -
+                USER - O - - - - - - -
+             CRONTAB - O - - - - - - -
+               GPLED - S - - - - - - -
+                WORK - - - O - - - - -
+/USR/LIB/CRON/CRON.ALLOW - - - O - - - - -
+                THIS - - - X - - - - -
+               CHMOD - - - - X - - - -
+              PYTHON - - - - - X - - -
+               SCRIT - - - - - X - - -
+                   K - - - - - - - S -
+              SCREEN - - - - - - - - X
+                   P - - - - - - - - X

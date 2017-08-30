@@ -1,0 +1,22 @@
+                THIS X - - - - - - -
+                HTTP - O - - - - - -
+               ENTRY - X - - - - - -
+RESTRI/BINARY-I386/PACKAGES - O - - - - - -
+          META-INDEX - X - - - - - -
+                FILE - X - - - - - -
+             RELEASE - X - - - - - -
+                SUDO - - X - - - - -
+             APT-GET - - S - - - - -
+                THAT - - - O X - - -
+               ERROR - - - X - S - -
+                GREP - - - X X - - -
+        SOURCES.LIST - - - X - - - -
+     GUTSY-BACKPORTS - - - X - - - -
+             COMMAND - - - - X - - -
+                LINE - - - - X - - -
+               TRIAL - - - - - X - -
+               LINUX - - - - - S - -
+              CHANGE - - - - - - S -
+            VERSIONS - - - - - - X -
+              APACHE - - - - - - O -
+/VAR/LOG/APACHE2/ERROR.LOG - - - - - - - O

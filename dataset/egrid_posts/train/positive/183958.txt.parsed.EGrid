@@ -1,0 +1,13 @@
+                ROOT X X - -
+                 SSH X - - -
+        INSTALLATION X - - -
+            USERNAME O - - -
+     PERMITROOTLOGIN - S - -
+                USER - X - -
+                  SU - X - -
+                SUDO - X - -
+                  -I - X - -
+              UBUNTU - X - -
+    /ETC/SSHD_CONFIG - O - -
+                SSHD - O - -
+             ACCOUNT - S - -

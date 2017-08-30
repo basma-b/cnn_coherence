@@ -1,0 +1,16 @@
+            .XINITRC O - - - - - - -
+                HOME X - - - - - - -
+           DIRECTORY X - - - - - - -
+           .XSESSION - X - - - - - -
+             NEITHER - - - - S - - -
+             DEFAULT - - - - O - - -
+                 USE - - - - O X - -
+              WINDOW - - - - X X - -
+             MANAGER - - - - O O - -
+                 GDM - - - - - X X -
+       GNOME-SESSION - - - - - X X -
+            METACITY - - - - - O - -
+                  WM - - - - - X - -
+                 ALL - - - - - O - -
+             EXAMPLE - - - - - - - X
+               ICONS - - - - - - - O

@@ -1,0 +1,37 @@
+                CASE X - - - - - - - - - - -
+              KERNEL X O S - - - - - X O - X
+                NAME X - - - - - X - S - - -
+                  -R - X - - - - - - - - - -
+               IMAGE - - S - - - - - - - - -
+               /BOOT - - X - - - - - - - - -
+              DELETE - - O - - - - - - - - -
+                 ONE - - S - - - - - - - - -
+                GRUB - - X - - - - - O - - -
+                   U - - X - - - - - S - - -
+                PLAN - - S - - - - - - - - -
+           MAKE-KPKG - - - X - - - - - - - -
+              INITRD - - - X - - - - - - - -
+      KERNEL-HEADERS - - - S - - - - - - - -
+                TYPE - - - X - - - - - - - -
+            ANYTHING - - - O - - - - - - - -
+APPEND-TO-VERSION=2.6.35 - - - - - - S - - - - -
+                DEAL - - - - - - O - - - - -
+  -APPEND-TO-VERSION - - - - - - S - - - - -
+                 USE - - - - - - O - - - - -
+              CUSTOM - - - - - - X - - - - -
+                 E.G - - - - - - O - - - - -
+            LOCATION - - - - - - - - X - - -
+               WHICH - - - - - - - - S - - -
+              INSTAL - - - - - - - - X - - -
+                 YES - - - - - - - - O - - -
+                HERE - - - - - - - - S - - -
+LINUX-HEADERS-2.6.35.132.6.35 - - - - - - - - X - - -
+              OUTPUT - - - - - - - - O - - -
+   2.6.35-27-GENERIC - - - - - - - - X - - -
+                 WHY - - - - - - - - O - - -
+              KERNAL - - - - - - - - S - - -
+          BOOTLOADER - - - - - - - - X - - -
+                FILE - - - - - - - - X - - -
+                   D - - - - - - - - - S - -
+           DIRECTORY - - - - - - - - - X - -
+              APPROX - - - - - - - - - - - O

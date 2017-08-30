@@ -1,0 +1,25 @@
+               HELLO S - S - - - - - - - - - -
+            SOMEBODY X - X - - - - - - - - - -
+              MYTHTV - S - S - - - - - - X - -
+               LOGIN - S - S - - - - - - - - -
+              OPTION - X - X - - - - - - - - -
+                TYPE - - - - X - - - - X - - -
+                MYTH - - - - O - - - - X - - -
+            ANYTHING - - - - X - - - - - - - -
+      MYTHTV-BACKEND - - - - - S - - - - - - -
+              OUTPUT - - - - - O - - - - - - -
+                   * - - - - - - O - - - - - -
+            FRONTEND - - - - - - X - - X - - S
+                BOOT - - - - - - X - - - - - -
+                 END - - - - - - - X - - - - -
+                IDEA - - - - - - - - X - - - -
+                   | - - - - - - - - - X - - -
+                GREP - - - - - - - - - X - - -
+                NEED - - - - - - - - - X - - -
+                  .. - - - - - - - - - O - - -
+                  PS - - - - - - - - - X - - -
+                THIS - - - - - - - - - - - S -
+/USR/BIN/MYTHBACKEND - - - - - - - - - - - X -
+              DAEMON - - - - - - - - - - - X -
+/VAR/LOG/MYTHTV/MYTHBACKEND.LOG - - - - - - - - - - - X -
+/VAR/RUN/MYTHTV/MYTHBACKEND.PID - - - - - - - - - - - X -

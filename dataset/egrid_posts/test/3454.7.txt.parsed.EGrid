@@ -1,0 +1,13 @@
+              NOAPIC X - - - -
+                BOOT S - - - -
+   /ETC/DEFAULT/GRUB - X - - -
+                FILE - O O O O
+             DEFAULT - X - - -
+             COMMAND - X - - -
+              UBUNTU - - O - -
+         UPDATE-GRUB - - X - -
+              REBOOT - - O - -
+              INSTAL - - S - -
+                  F6 - - X - -
+               THERE - - - - S
+              HEADER - - - - X

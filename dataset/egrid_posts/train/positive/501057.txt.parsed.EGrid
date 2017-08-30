@@ -1,0 +1,13 @@
+                BOOT X -
+             KNOPPIX S -
+ /BOOT/GRUB/MENU.LST O -
+                GRUB O -
+               HD1,0 X -
+                FILE O -
+               THESE O -
+                ROOT X -
+             KONSOLE O -
+                SUDO X -
+                NANO X -
+/MOUNTPOINT/BOOT/GRUB/MENU.LST X -
+           PARTITION - S

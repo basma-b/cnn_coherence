@@ -1,0 +1,15 @@
+         NDISWRAPPER S - - - - - - - - - -
+              DRIVER S - - - - - - - - O -
+            WIRELESS X - - - - - - - - - -
+                CARD X - - - - - - - O - -
+            HARDWARE S - - - - - - - - - -
+            IWCONFIG X - - - - - - - - - -
+                   / X - - - - - - - - - -
+            IFCONFIG S - - - - - - - - - -
+               WLAN0 O - - - - - - - - - -
+                  .. O - - - - - - - - - -
+              SYSTEM - - - - - - - - - X -
+                BOOT - - - - - - - - - X -
+         CONFIGURING - - - - - - - - - X -
+             NETWORK - - - - - - - - - X -
+          INTERFACES - - - - - - - - - X -

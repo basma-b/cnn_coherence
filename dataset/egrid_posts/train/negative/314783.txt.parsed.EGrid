@@ -1,0 +1,21 @@
+            LOCATION X - - - - - - - - -
+           AFTERNOON X - - - - - - - - -
+              DAEMON O - - - - - - - - -
+             STARTUP X - - - - - - - - -
+            SOFTLINK X - - - - - - - - -
+              INIT.D X - - - - - - - - -
+                FORM X - - - - - - - - -
+                FILE X - - - - - - - - -
+                NAME - - X - - - - - - -
+                LINK - - X - - - - - - -
+               ERROR - - - - S - - - - -
+             PACKAGE - - - - X - - - - -
+        REPOSITORIES - - - - S - - - - -
+/ETC/APT/SOURCES.LIST - - - - - - X - - -
+//PASTE.UBUNTU-NL.ORG - - - - - - S - - -
+          ~/DESKTOP/ - - - - - - S - - -
+                   * - - - - - - S - - -
+          EVERYTHING - - - - - - O - - -
+             DESKTOP - - - - - - X - - -
+               MATCH - - - - - - - - X -
+           DIRECTORY - - - - - - - - - X

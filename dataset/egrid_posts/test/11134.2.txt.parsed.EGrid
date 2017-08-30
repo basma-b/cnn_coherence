@@ -1,0 +1,14 @@
+            RUNLEVEL S - - - - -
+              OPTION X - - - - -
+            I3UEFIRE - X - - - -
+               USERS - X - - - -
+              EXT4FS - X - - - -
+                HOME - - X - - -
+              SERVER - - O - - -
+                USER - - - O - -
+               THERE - - - - S -
+             CLIENTS - - - - X -
+                 ZNC - - - - X -
+              APACHE - - - - X -
+                 RUN - - - - X -
+             CORRECT - - - - - X

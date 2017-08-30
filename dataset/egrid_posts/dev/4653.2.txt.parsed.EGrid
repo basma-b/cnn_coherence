@@ -1,0 +1,15 @@
+                 CMD X - - - -
+               DRIVE X - - - -
+               ERROR X - - - -
+            TERMINAL X - - - -
+                TIME - X - - -
+                FSCK - S - - -
+                 LOG - O - - -
+                WORK - O - - -
+            HARDRIVE - X - - -
+                 TTY - - - X -
+                VTTY - - - O -
+             NOTHING - - - S -
+               FIRST - - - O -
+          BACKGROUND - - - X -
+                 TRY - - - - X

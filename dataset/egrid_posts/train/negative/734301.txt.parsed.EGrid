@@ -1,0 +1,17 @@
+            SOMEBODY S - -
+            IPTABLES O X -
+             TRAFFIC X - -
+                PORT X - -
+             ADDRESS X - -
+                   > S - -
+                 NAT X - -
+                  -A O - -
+                 TCP O - -
+                   < X - -
+          PORTNUMBER S - -
+                DNAT O - -
+             DEST_IP X - -
+                   | - X -
+        BLACK_HORSEX - X -
+              UPTIME - - X
+               -LSB- - - X

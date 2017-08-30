@@ -1,0 +1,15 @@
+             COMMAND X - - -
+                LIST O - - -
+             PROCESS X - - -
+                  PS - X - -
+                 -AF - X - -
+                GREP - S - -
+             KILLALL - X - -
+                  -9 - O - -
+             PROBLEM - X - -
+                HEHE - - X -
+               FORCE - - X -
+                KILL - - O -
+                 BAR - - X -
+               ISSUE - - - S
+                 C++ - - - O

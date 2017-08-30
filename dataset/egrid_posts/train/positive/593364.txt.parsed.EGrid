@@ -1,0 +1,11 @@
+             DNSMASQ O - -
+          NAMESERVER S - -
+/ETC/NETWORK/INTERFACES X - -
+           127.0.0.1 S - -
+      ROUTER/GATEWAY - S -
+         192.168.1.1 - S -
+                OOPS - X -
+                WORK - - X
+                SUDO - - X
+             DONTZAP - - X
+  CTRL-ALT-BACKSPACE - - X

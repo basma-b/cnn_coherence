@@ -1,0 +1,26 @@
+              ANYONE X - - - -
+               DRIVE O S - - -
+                 PIO X - - - -
+                MODE X X - - -
+                 USE X - - - -
+            NECFLASH O X - - -
+               LINUX X - - - -
+   LIBATA.FORCE=1.00 - O - - -
+                PIO7 - X - - -
+            /DEV/SG0 - S - - -
+                 DMA - X - - -
+               ERROR - X - - -
+              INSTAL - S - - -
+              EXTRAS - S - - -
+           COUNTRIES - S - - -
+            TERMINAL - X - - -
+UBUNTU-RESTRICTED-EXTRAS - O - - -
+                TYPE - O - - -
+                SUDO - X - - -
+            APTITUDE - S - - -
+              OPTION - - - O -
+              KERNEL - - - X -
+                BOOT - - - X -
+                LINE - - - X -
+                THAT - - - - X
+              FORMAT - - - - X

@@ -1,0 +1,10 @@
+                LINK O -
+              STREAM X -
+                 YEP X -
+            TERMINAL - X
+                TYPE - S
+/ETC/APT/SOURCES.LIST - O
+            INSTANCE - S
+              CTRL-X - S
+              UPDATE - O
+        DIST-UPGRADE - O

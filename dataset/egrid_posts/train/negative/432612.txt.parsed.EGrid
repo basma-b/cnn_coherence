@@ -1,0 +1,13 @@
+            MODPROBE X - -
+       SND_HDA_INTEL O - -
+               AVAIL - X -
+             ONBOARD - X -
+             FACTORY - X -
+               SOUND - X -
+                 ONE - S -
+                BIOS - X -
+            IFCONFIG - - S
+                 MAC - - S
+             ADDRESS - - X
+                  IP - - S
+             PROGRAM - - O

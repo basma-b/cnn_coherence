@@ -1,0 +1,22 @@
+                THAT X - - - - S - - - -
+               THERE S - - - - - - - - -
+              KERNEL O - - X X X O X - -
+              BINARY O - - - - - - - - -
+               /BOOT X - - - - - - - - -
+              SIMPLE X - - - - - - - - -
+/USR/SRC/LINUX-KERNELVERSION X - - - - - - - - -
+/LIB/MODULES/KERNELVERSION S - - - - - - - - -
+           GRUB/LILO - S - - - - - - - -
+KERNEL-HEADERS-VERSION - - X - - - - - - -
+                IDEA - - - O - - - - - -
+             HEADERS - - - O O S - O - -
+               GLIBC - - - - S - - - - -
+             VERSION - - - - - O - O - -
+              2.4.31 - - - - - - - X - -
+             MACHINE - - - - - - - X - -
+                 USE - - - - - - - O - -
+                 SET - - - - - - - O - -
+                  OS - - - - - - - S - -
+             DEFAULT - - - - - - - X - -
+              2.6.17 - - - - - - - - - O
+              2.6.15 - - - - - - - - - O

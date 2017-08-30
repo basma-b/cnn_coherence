@@ -1,0 +1,16 @@
+            LOCATION S - - - -
+                CARD X X - - -
+                PLUG O - - - -
+               LSPCI S - - - -
+              READER X - - - -
+          EVERYTHING O - - - -
+                 WHT X - - - -
+                MMC0 - X - - -
+             ADDRESS - X - - -
+             MMCBLK0 - X - - -
+               LEXAR - X - - -
+                 MIB - X - - -
+                THTS - X - - -
+              OUTPUT - S - - -
+               DMESG - X - - -
+             NETBOOK - S S - -

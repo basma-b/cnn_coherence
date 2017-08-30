@@ -1,0 +1,15 @@
+                TIME O - - -
+              SERVER X - - -
+               SETUP O - - -
+               CRASH X X - -
+             NOTHING X - - -
+              SYSLOG X - - -
+                   / X - - -
+            KERN.LOG X - - -
+            ANYTHING X X - -
+                 ALL X - - -
+               DEBUG X - - -
+             PROGRAM - X - -
+           SOMETHING - X - -
+            IPTABLES - - - S
+                  .. - - - O

@@ -1,0 +1,9 @@
+                USER X - - -
+               ADMIN X X - -
+               GROUP X S - -
+               12.04 - X - -
+               THING - - X -
+                ACPI - - X -
+             DRIVERS - - X -
+                BOOT - - - O
+            ACPI=OFF - - - X

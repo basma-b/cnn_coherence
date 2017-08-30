@@ -1,0 +1,29 @@
+              NVIDIA X - - - - - -
+             DRIVERS S - - X - - -
+                WONT S - - - - - -
+               START O - X X - - -
+              DRIVER X - - - - - -
+             VERSION X - - O - - -
+NVIDIA-LINUX-X86_64-185.18.36-PKG2.RUN - S - - - - -
+                TTY1 - X - - - - -
+                  IM - - S - - - -
+              STARTX - - X - - - -
+                   / - - X - - - -
+                   X - - - S - - -
+                BOTH - - - O - - -
+               ERROR - - - O - - -
+              KERNAL - - - X - - -
+                 FEW - - - O - - -
+                  .. - - - X - X -
+                SUDO - - - X X - -
+             APT-GET - - - X X - -
+               PURGE - - - X X X -
+                   * - - - S S X -
+         NVIDIA-GLX- - - - S - - -
+             COMMAND - - - O O - -
+NVIDIA-KERNEL-SOURCE- - - - - S - -
+             NVIDIA- - - - - - O -
+       NVIDIA-COMMON - - - - - X -
+               RSYNC - - - - - - S
+                FILE - - - - - - S
+                 BOX - - - - - - X

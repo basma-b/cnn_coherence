@@ -1,0 +1,27 @@
+              SYSTEM X - - - - - - - - - -
+                BIOS X - - - - - - - - - -
+                BOOT X - - X - - - - - - -
+               CDROM X - - X - - - - - - -
+              CHANGE - X - - - - - - - - -
+             SYSTEMS - - - S - - - - - - -
+              DEVICE - - - X - - - - - - -
+                   C - - - X - - - - - - -
+              BUTTON - - - O - - - - - - -
+              VIDOEO - - - - X - - - - - -
+                CARD - - - - X O X - - - -
+                TYPE - - - - - O S - - - -
+                VESA - - - - - X - - - - -
+                DONT - - - - - - S - - - -
+                 ONE - - - - - - O - - - -
+                BASH - - - - - - X - - - -
+             XSERVER - - - - - - S - - - -
+             XFREE86 - - - - - - X - - - -
+                   > - - - - - - X - - - -
+                FILE - - - - - - - O - - -
+                HAND - - - - - - - X - - -
+                SUDO - - - - - - - - X - -
+                NANO - - - - - - - - X - -
+/ETC/X11/XF86CONFIG-4 - - - - - - - - X - -
+               THERE - - - - - - - - - - S
+                TAIL - - - - - - - - - - O
+              ERRORS - - - - - - - - - - O

@@ -1,0 +1,11 @@
+                 DOH X - - - -
+            MODPROBE - S - - -
+                I845 - O - - -
+               BLOCK - - X - -
+              DEVICE - - X - -
+            /DEV/SDA - - - X -
+                 SDA - - - - S
+                SCSI - - - - X
+                DISK - - - - X
+                 IDE - - - - X
+              KERNEL - - - - X

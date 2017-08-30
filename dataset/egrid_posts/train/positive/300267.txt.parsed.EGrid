@@ -1,0 +1,12 @@
+             A2ENMOD X - -
+              ANYONE X - -
+              APACHE X - -
+               ERROR X - -
+                 LOG O - -
+     /VAR/LOG/APACHE - S -
+             SYMLINK - O O
+                 G++ - X -
+             G++-4.0 - O -
+                   B - S -
+       CONFIGURATION - O -
+              ANJUTA - X -

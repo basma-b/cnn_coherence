@@ -1,0 +1,14 @@
+      PROCESS/CONFIG X - - -
+                FILE X - - -
+           OVERWRITE O - - -
+    /ETC/RESOLV.CONF X - - -
+                 NAD - X - -
+                 TRY - X - -
+       NETWORK-ADMIN - O - -
+             ACQUIRE - X - -
+                INFO - X - -
+                   ' - - S -
+      DNS-NAMESERVER - - X -
+                   X - - O -
+/ETC/NETWORK/INTERFACES - - X -
+               THANK - - - X

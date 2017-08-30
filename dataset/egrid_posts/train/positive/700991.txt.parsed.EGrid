@@ -1,0 +1,20 @@
+                 DNS X X - O O -
+             ADDRESS X - - - - -
+             NETWORK X X - - - -
+              CHANGE - - O - - -
+               CHECK - - X - - -
+    /ETC/RESOLV.CONF - - S - - -
+                   U - - X - - -
+                DHCP - - X - - O
+              STATIC - - X - - -
+                THAT - - - X - O
+          POWER-USER - - - X - -
+             8.8.8.8 - - - X - -
+              GOOGLE - - - X X -
+                   K - - - - - X
+               DIDNT - - - - - S
+                 USE - - - - - X
+                 IPS - - - - - O
+                HTTP - - - - - O
+//WWW.CYBERCITI.BIZ/TIPS/HOWTO-UBUNTU-LINUX-CONVERT-DHCP-NETWORK-CONFIGURATION-TO-STATIC-IP-CONFIGURATION.HTML - - - - - S
+               GUIDE - - - - - X

@@ -1,0 +1,16 @@
+                TEXT X - - - -
+                MODE X - - - -
+          RESOLUTION - S - - -
+                   X - X - - -
+          DIFFERENCE - X - - -
+                SUDO - X - - X
+             APT-GET - S - - S
+      OPENSSH-SERVER - O - - -
+           TERMINALS - X - - -
+                BOOT - - X - -
+             DAEMONS - - - O -
+               BOOTP - - - - X
+              SEARCH - - - - O
+             PACKAGE - - - - X
+            UNIVERSE - - - - X
+                 REP - - - - O

@@ -1,0 +1,37 @@
+              ANYONE X - - - - - - - -
+           SOMETHING X - - - - - - - -
+                BASE O - - - - - - - -
+                 MAC X - - - - - - - X
+             ADDRESS X - - - - - - - -
+                 BUG - O - - - - - - -
+                 FIX - X - - - - - - -
+                 LTS - X - - - - - - -
+            QUESTION - X - - - - - - -
+                 NIC - O - - - - - - -
+          INTERFACES - - S S - - - - -
+                 ONE - - X - - - - - -
+                WIRE - - X - - - - - -
+                DHCP - - O - - - - - -
+                THAT - - - S - - - - -
+                ETH0 - - - O - - - - -
+              KERNEL - - - X - - - - -
+                BOOT - - - X - - - - -
+                ETH1 - - - S - - - - -
+                AUTO - - - X - - - - -
+               CHECK - - - X - - - - -
+                 HMM - - - O - - - - -
+             MACHINE - - - X - - - - -
+                 AHA - - - - - X - - -
+               PATCH - - - - - - O - -
+                HTTP - - - - - - X - -
+//BUGS.DEBIAN.ORG/CGI-BIN/BUGREPORT.CGI - - - - - - X - -
+          BUG=615600 - - - - - - - X -
+              BOOTIF - - - - - - - - X
+                  AA - - - - - - - - X
+                  BB - - - - - - - - X
+                  CC - - - - - - - - X
+                  DD - - - - - - - - X
+                  EE - - - - - - - - X
+                  FF - - - - - - - - X
+                SPEC - - - - - - - - S
+01-AA-BB-CC-DD-EE-FF - - - - - - - - S
