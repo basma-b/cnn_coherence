@@ -42,10 +42,7 @@ for ratio in ${dr_ratios[@]}; do
 							echo "INFORMATION: dropout_ratio=$ratio filter-nb=$nb_filter w_size=$w_size pool_len=$pool_len batch-size=$mb maxlen=$maxlen emb_size=$emb_size feats=$feat">> $log;
 							echo "----------------------------------------------------------------------" >> $log;
 
-							THEANO_FLAGS=device=gpu0,floatX=float32 python $CNN_SCR --data-dir=$data --model-dir=$MODEL_DIR \
-							--dropout_ratio=$ratio --minibatch-size=$mb --emb-size=$emb_size\
-							--nb_filter=$nb_filter --w_size=$w_size --pool_length=$pool_len\
-							--max-length=$maxlen  >>$log
+							  >>$log
 							wait
 
 							echo "----------------------------------------------------------------------" >> $log;
@@ -57,3 +54,6 @@ for ratio in ${dr_ratios[@]}; do
 	done 
 done
 #done
+
+
+#THEANO_FLAGS=device=gpu2,floatX=float32 python nur_cnn.py --data-dir=dataset/ --model-dir=saved_nur/ --dropout_ratio=0.3 --minibatch-size=32 --emb-size=100 --nb_filter=150 --w_size=5 --pool_length=6 --max-length=14000

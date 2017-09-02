@@ -57,9 +57,9 @@ def load_and_numberize_egrids(filelist="list_of_grid_pair.txt", maxlen=None, w_s
         grid_0 = load_egrid(neg_doc,w_size)
         
 
-        if grid_0 != grid_1:
-                sentences_1.append(grid_1)
-                sentences_0.append(grid_0)
+        #if grid_0 != grid_1:
+        sentences_1.append(grid_1)
+        sentences_0.append(grid_0)
                   
     #assert len(sentences_0) == len(sentences_1)
 
@@ -78,6 +78,45 @@ def load_and_numberize_egrids(filelist="list_of_grid_pair.txt", maxlen=None, w_s
     X_0 = sequence.pad_sequences(X_0, maxlen)
 
     return X_1, X_0
+
+#loading the grid with normal CNN from test and dev data
+def load_and_numberize_egrids_test_dev(filelist="list_of_grid_pair.txt", maxlen=None, w_size=3, vocabs=None):
+    # loading entiry-grid data from list of pos document and list of neg document
+    if vocabs is None:
+        print("Please input vocab list")
+        return None
+
+    list_of_pairs = [line.rstrip('\n') for line in open(filelist)]
+    # process postive gird, convert each file to be a sentence
+    sentences_1 = []
+
+    
+    for pair in list_of_pairs:
+        #print(pair)
+       
+        pos_doc = pair.strip()
+
+        #loading Egrid for POS document
+        grid_1 = load_egrid(pos_doc,w_size)
+        
+
+        #if grid_0 != grid_1:
+        sentences_1.append(grid_1)
+                    
+        #assert len(sentences_0) == len(sentences_1)
+
+    vocab_idmap = {}
+    for i in range(len(vocabs)):
+        vocab_idmap[vocabs[i]] = i
+
+    # Numberize the sentences
+    X_1 = numberize_sentences(sentences_1, vocab_idmap) 
+
+    X_1 = adjust_index(X_1, maxlen=maxlen, window_size=w_size)
+
+    X_1 = sequence.pad_sequences(X_1, maxlen)
+
+    return X_1
 
 ##loading Egrid for a document
 def load_egrid(filename,w_size):

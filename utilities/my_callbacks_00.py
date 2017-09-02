@@ -1,5 +1,6 @@
 from __future__ import division
 import keras
+import numpy as np
 
 class Histories(keras.callbacks.Callback):
 	def on_train_begin(self, logs={}):
@@ -15,7 +16,7 @@ class Histories(keras.callbacks.Callback):
 	def on_epoch_end(self, epoch, logs={}):
 		self.losses.append(logs.get('loss'))
                 y_pred = self.model.predict([self.model.validation_data[0],self.model.validation_data[1]])
-                
+                #print "y_pred ************ ", y_pred[:,0]
                 # old code
                 """
                 wins = 0
@@ -32,7 +33,7 @@ class Histories(keras.callbacks.Callback):
                 print(" -Dev acc: " + str(wins/n))
                 
                 """
-                recall_k = self.compute_recall_ks(y_pred)
+                recall_k = self.compute_recall_ks(y_pred[:,0])
                 
 		self.accs.append(recall_k[10][1]) # not sure if i'll keep it
 
@@ -66,4 +67,4 @@ class Histories(keras.callbacks.Callback):
                 indices = np.argpartition(batch, -k)[-k:]
                 if 0 in indices:
                     n_correct += 1
-        return n_correct / (len(probas) / test_size)
+            return n_correct / (len(probas) / test_size)

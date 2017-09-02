@@ -25,6 +25,29 @@ def ranking_loss(y_true, y_pred):
     loss = K.maximum(1.0 + neg - pos, 0.0) #if you want to use margin ranking loss
     return K.mean(loss) + 0 * y_true
 
+def compute_recall_ks(probas):
+    recall_k = {}
+    for group_size in [2, 5, 10]:
+        recall_k[group_size] = {}
+        print 'group_size: %d' % group_size
+        for k in [1, 2, 5]:
+            if k < group_size:
+                recall_k[group_size][k] = recall(probas, k, group_size)
+                print 'recall@%d' % k, recall_k[group_size][k]
+    return recall_k
+
+def recall(probas, k, group_size):
+    test_size = 10
+    n_batches = len(probas) // test_size
+    n_correct = 0
+    for i in xrange(n_batches):
+        batch = np.array(probas[i*test_size:(i+1)*test_size])[:group_size]
+        #p = np.random.permutation(len(batch))
+        #indices = p[np.argpartition(batch[p], -k)[-k:]]
+        indices = np.argpartition(batch, -k)[-k:]
+        if 0 in indices:
+            n_correct += 1
+    return n_correct / (len(probas) / test_size)
 
 if __name__ == '__main__':
     # parse user input
@@ -77,18 +100,20 @@ if __name__ == '__main__':
     print "--------------------------------------------------"
 
     print("loading entity-gird for pos and neg documents...")
-    X_train_1, X_train_0  = data_helper.load_and_numberize_egrids(filelist="./dataset/toy_data/list.train", 
+    X_train_1, X_train_0  = data_helper.load_and_numberize_egrids(filelist="./list.train", 
             maxlen=opts.maxlen, w_size=opts.w_size, vocabs=vocabs)
 
-    X_dev_1, X_dev_0     = data_helper.load_and_numberize_egrids(filelist="./dataset/toy_data/list.train", 
+    X_dev_1, X_dev_0     = data_helper.load_and_numberize_egrids(filelist="./list.dev", 
             maxlen=opts.maxlen, w_size=opts.w_size, vocabs=vocabs)
 
-    X_test_1, X_test_0   = data_helper.load_and_numberize_egrids(filelist="./dataset/toy_data/list.train", 
+    X_test_1, X_test_0   = data_helper.load_and_numberize_egrids(filelist="./list.test", 
             maxlen=opts.maxlen, w_size=opts.w_size, vocabs=vocabs)
 
     num_train = len(X_train_1)
     num_dev   = len(X_dev_1)
     num_test  = len(X_test_1)
+    
+    print num_train, num_dev, num_test
     #assign Y value
     y_train_1 = [1] * num_train 
     y_dev_1 = [1] * num_dev 
@@ -185,6 +210,8 @@ if __name__ == '__main__':
 
         #doing classify the test set
         y_pred = final_model.predict([X_test_1, X_test_0])        
+        
+        """
         ties = 0
         wins = 0
         n = len(y_pred)
@@ -203,7 +230,11 @@ if __name__ == '__main__':
 
         print(" -Test acc: " + str(wins/n))
         #print(" -Test f1 : " + str(f1))
-
+        """
+        print("Perform on test set after Epoch: " + str(ep) + "...!")    
+        
+        recall_k = compute_recall_ks(y_pred[:,0])
+        
         #stop the model whch patience = 8
         if patience > 10:
             print("Early stopping at epoch: "+ str(ep))
