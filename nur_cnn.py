@@ -103,10 +103,10 @@ if __name__ == '__main__':
     X_train_1, X_train_0  = data_helper.load_and_numberize_egrids(filelist="./list.train", 
             maxlen=opts.maxlen, w_size=opts.w_size, vocabs=vocabs)
 
-    X_dev_1, X_dev_0     = data_helper.load_and_numberize_egrids(filelist="./list.dev", 
+    X_dev_1, X_dev_0     = data_helper.load_and_numberize_egrids(filelist="./list.dev.small", 
             maxlen=opts.maxlen, w_size=opts.w_size, vocabs=vocabs)
 
-    X_test_1, X_test_0   = data_helper.load_and_numberize_egrids(filelist="./list.test", 
+    X_test_1, X_test_0   = data_helper.load_and_numberize_egrids(filelist="./list.test.small", 
             maxlen=opts.maxlen, w_size=opts.w_size, vocabs=vocabs)
 
     num_train = len(X_train_1)
