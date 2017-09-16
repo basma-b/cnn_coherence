@@ -7,7 +7,7 @@ from keras.preprocessing import sequence
 from keras.callbacks import ModelCheckpoint
 from keras.utils import np_utils
 from keras import backend as K
-
+from keras import optimizers
 
 import numpy as np
 from utilities import my_callbacks_00
@@ -20,9 +20,11 @@ def ranking_loss(y_true, y_pred):
     #ranking_loss without tree distance
     pos = y_pred[:,0]
     neg = y_pred[:,1]
-    
+    print " --------------------------------------------------------"
+    print pos
+    print neg
     #loss = -K.sigmoid(pos-neg) # use 
-    loss = K.maximum(1.0 + neg - pos, 0.0) #if you want to use margin ranking loss
+    loss = K.maximum(100.0 + neg - pos, 0.0) #if you want to use margin ranking loss
     return K.mean(loss) + 0 * y_true
 
 def compute_recall_ks(probas):
@@ -78,7 +80,7 @@ if __name__ == '__main__':
         ,log_file       = "log"
         ,model_dir      = "./saved_model/"
 
-        ,learn_alg      = "rmsprop" # sgd, adagrad, rmsprop, adadelta, adam (default)
+        ,learn_alg      = "adam" # sgd, adagrad, rmsprop, adadelta, adam (default)
         ,loss           = "ranking_loss" # hinge, squared_hinge, binary_crossentropy (default)
         ,minibatch_size = 32
         ,dropout_ratio  = 0.5
@@ -146,9 +148,11 @@ if __name__ == '__main__':
 
     # add a convolutiaon 1D layer
     #x = Dropout(dropout_ratio)(x)
-    x = Convolution1D(nb_filter=opts.nb_filter, filter_length = opts.w_size, border_mode='valid', 
-            activation='relu', subsample_length=1)(x)
+    #x = Convolution1D(nb_filter=opts.nb_filter, filter_length = opts.w_size, border_mode='valid', activation='relu', subsample_length=1)(x)
+    #x = MaxPooling1D(pool_length=opts.pool_length)(x)
+    #x = Dropout(opts.dropout_ratio)(x)
 
+    x = Convolution1D(nb_filter=opts.nb_filter, filter_length = opts.w_size, border_mode='valid', activation='relu', subsample_length=1)(x)
     # add max pooling layers
     #x = AveragePooling1D(pool_length=pool_length)(x)
     x = MaxPooling1D(pool_length=opts.pool_length)(x)
@@ -175,7 +179,8 @@ if __name__ == '__main__':
     final_model = Model([pos_input, neg_input], concatenated)
 
     #final_model.compile(loss='ranking_loss', optimizer='adam')
-    final_model.compile(loss={'coherence_out': ranking_loss}, optimizer=opts.learn_alg)
+    sgd = optimizers.SGD(lr=0.01, decay=1e-2)#, momentum=0.9)
+    final_model.compile(loss={'coherence_out': ranking_loss}, optimizer=sgd)
 
     # setting callback
     histories = my_callbacks_00.Histories()
@@ -233,7 +238,7 @@ if __name__ == '__main__':
         """
         print("Perform on test set after Epoch: " + str(ep) + "...!")    
         
-        recall_k = compute_recall_ks(y_pred[:,0])
+        recall_k = compute_recall_ks(y_pred[:,1])
         
         #stop the model whch patience = 8
         if patience > 10:

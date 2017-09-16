@@ -15,9 +15,14 @@ class Histories(keras.callbacks.Callback):
 
 	def on_epoch_end(self, epoch, logs={}):
 		self.losses.append(logs.get('loss'))
-                y_pred = self.model.predict(self.model.validation_data)
 
-                recall_k = self.compute_recall_ks(y_pred)
+                y_pred = self.model.predict(self.model.validation_data[0])
+		
+		pred = []
+		for val in y_pred:
+			pred.append(val[0])
+		
+                recall_k = self.compute_recall_ks(pred)
                 
 		self.accs.append(recall_k[10][1]) # not sure if i'll keep it
 

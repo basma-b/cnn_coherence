@@ -14,7 +14,7 @@ from utilities import my_callbacks_11
 from utilities import data_helper
 import optparse
 import sys
-from keras import losses
+#from keras import losses
 
 
 def ranking_loss(y_true, y_pred):
@@ -77,7 +77,7 @@ if __name__ == '__main__':
         ,log_file       = "log"
         ,model_dir      = "./saved_model/"
 
-        ,learn_alg      = "rmsprop" # sgd, adagrad, rmsprop, adadelta, adam (default)
+        ,learn_alg      = "adam" # sgd, adagrad, rmsprop, adadelta, adam (default)
         ,loss           = "ranking_loss" # hinge, squared_hinge, binary_crossentropy (default)
         ,minibatch_size = 32
         ,dropout_ratio  = 0.5
@@ -197,8 +197,11 @@ if __name__ == '__main__':
         y_pred = final_model.predict(X_test_1)        
         
         print("Perform on test set after Epoch: " + str(ep) + "...!")    
-        
-        recall_k = compute_recall_ks(y_pred)
+        pred = []
+
+	for val in y_pred:
+		pred.append(val[0])
+        recall_k = compute_recall_ks(pred)
         
         #stop the model whch patience = 8
         if patience > 10:
