@@ -32,6 +32,52 @@ def init_vocab(emb_size):
 
     return vocabs, E
 
+#loading the grid with normal CNN
+def load_and_numberize_egrids_with_labels(filelist="list_of_grid_pair.txt", maxlen=None, w_size=3, vocabs=None):
+    # loading entiry-grid data from list of pos document and list of neg document
+    if vocabs is None:
+        print("Please input vocab list")
+        return None
+
+    list_of_pairs = [line.rstrip('\n') for line in open(filelist)]
+    # process postive gird, convert each file to be a sentence
+    sentences_1 = []
+    labels = []
+
+    
+    for pair in list_of_pairs:
+        #print(pair)
+
+        pos_doc = pair.split("\t")[0]
+        label = pair.split("\t")[1]
+
+        #loading Egrid for POS document
+        grid_1 = load_egrid(pos_doc,w_size)
+        #grid_0 = load_egrid(neg_doc,w_size)
+        
+
+        #if grid_0 != grid_1:
+        sentences_1.append(grid_1)
+        labels.append(label)
+                  
+    #assert len(sentences_0) == len(sentences_1)
+
+    vocab_idmap = {}
+    for i in range(len(vocabs)):
+        vocab_idmap[vocabs[i]] = i
+
+    # Numberize the sentences
+    X_1 = numberize_sentences(sentences_1, vocab_idmap)
+    #X_0  = numberize_sentences(sentences_0,  vocab_idmap)    
+
+    X_1 = adjust_index(X_1, maxlen=maxlen, window_size=w_size)
+    labels  = adjust_index(labels,  maxlen=maxlen, window_size=w_size)
+
+    X_1 = sequence.pad_sequences(X_1, maxlen)
+    labels = sequence.pad_sequences(labels, maxlen)
+
+    return X_1, labels
+
 
 #loading the grid with normal CNN
 def load_and_numberize_egrids(filelist="list_of_grid_pair.txt", maxlen=None, w_size=3, vocabs=None):
