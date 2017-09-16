@@ -71,10 +71,10 @@ def load_and_numberize_egrids_with_labels(filelist="list_of_grid_pair.txt", maxl
     #X_0  = numberize_sentences(sentences_0,  vocab_idmap)    
 
     X_1 = adjust_index(X_1, maxlen=maxlen, window_size=w_size)
-    labels  = adjust_index(labels,  maxlen=maxlen, window_size=w_size)
+    labels = adjust_index(labels,  maxlen=maxlen, window_size=w_size)
 
     X_1 = sequence.pad_sequences(X_1, maxlen)
-    labels = sequence.pad_sequences(labels, maxlen)
+    #labels = sequence.pad_sequences(labels, maxlen)
 
     return X_1, labels
 

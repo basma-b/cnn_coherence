@@ -14,6 +14,7 @@ from utilities import my_callbacks_11
 from utilities import data_helper
 import optparse
 import sys
+from keras import losses
 
 
 def ranking_loss(y_true, y_pred):
@@ -98,13 +99,13 @@ if __name__ == '__main__':
     print "--------------------------------------------------"
 
     print("loading entity-gird for pos and neg documents...")
-    X_train_1, y_train_1  = data_helper.load_and_numberize_egrids_with_labels(filelist="./list.train", 
+    X_train_1, y_train_1  = data_helper.load_and_numberize_egrids_with_labels(filelist="./list.train.small.c", 
             maxlen=opts.maxlen, w_size=opts.w_size, vocabs=vocabs)
 
-    X_dev_1, y_dev_1     = data_helper.load_and_numberize_egrids_with_labels(filelist="./list.dev.small", 
+    X_dev_1, y_dev_1     = data_helper.load_and_numberize_egrids_with_labels(filelist="./list.dev.small.c", 
             maxlen=opts.maxlen, w_size=opts.w_size, vocabs=vocabs)
 
-    X_test_1, y_test_1   = data_helper.load_and_numberize_egrids_with_labels(filelist="./list.test.small", 
+    X_test_1, y_test_1   = data_helper.load_and_numberize_egrids_with_labels(filelist="./list.test.small.c", 
             maxlen=opts.maxlen, w_size=opts.w_size, vocabs=vocabs)
 
     num_train = len(X_train_1)
@@ -159,7 +160,7 @@ if __name__ == '__main__':
     final_model = Model(sent_input, out_x)
 
     #final_model.compile(loss='ranking_loss', optimizer='adam')
-    final_model.compile(loss={'coherence_out': ranking_loss}, optimizer=opts.learn_alg)
+    final_model.compile(loss={'coherence_out': binary_crossentropy}, optimizer=opts.learn_alg)
 
     # setting callback
     histories = my_callbacks_11.Histories()
