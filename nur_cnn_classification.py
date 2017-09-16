@@ -135,7 +135,7 @@ if __name__ == '__main__':
     np.random.seed(113)
     np.random.shuffle(X_train_1)
     np.random.seed(113)
-    np.random.shuffle(X_train_0)
+    np.random.shuffle(y_train_1)
 
     # first, define a CNN model for sequence of entities 
     sent_input = Input(shape=(opts.maxlen,), dtype='int32', name='sent_input')
@@ -160,13 +160,13 @@ if __name__ == '__main__':
     final_model = Model(sent_input, out_x)
 
     #final_model.compile(loss='ranking_loss', optimizer='adam')
-    final_model.compile(loss={'coherence_out': binary_crossentropy}, optimizer=opts.learn_alg)
+    final_model.compile(loss='binary_crossentropy', optimizer=opts.learn_alg)
 
     # setting callback
     histories = my_callbacks_11.Histories()
 
-    print(shared_cnn.summary())
-    #print(final_model.summary())
+    #print(shared_cnn.summary())
+    print(final_model.summary())
 
     print("------------------------------------------------")	
     

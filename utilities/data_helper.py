@@ -48,8 +48,8 @@ def load_and_numberize_egrids_with_labels(filelist="list_of_grid_pair.txt", maxl
     for pair in list_of_pairs:
         #print(pair)
 
-        pos_doc = pair.split("\t")[0]
-        label = pair.split("\t")[1]
+        pos_doc = pair.split("\t")[0].strip()
+        label = pair.split("\t")[1].strip()
 
         #loading Egrid for POS document
         grid_1 = load_egrid(pos_doc,w_size)
@@ -71,7 +71,7 @@ def load_and_numberize_egrids_with_labels(filelist="list_of_grid_pair.txt", maxl
     #X_0  = numberize_sentences(sentences_0,  vocab_idmap)    
 
     X_1 = adjust_index(X_1, maxlen=maxlen, window_size=w_size)
-    labels = adjust_index(labels,  maxlen=maxlen, window_size=w_size)
+    #labels = adjust_index(labels,  maxlen=maxlen, window_size=w_size)
 
     X_1 = sequence.pad_sequences(X_1, maxlen)
     #labels = sequence.pad_sequences(labels, maxlen)
