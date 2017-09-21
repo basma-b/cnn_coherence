@@ -20,11 +20,8 @@ def ranking_loss(y_true, y_pred):
     #ranking_loss without tree distance
     pos = y_pred[:,0]
     neg = y_pred[:,1]
-    print " --------------------------------------------------------"
-    print pos
-    print neg
     #loss = -K.sigmoid(pos-neg) # use 
-    loss = K.maximum(100.0 + neg - pos, 0.0) #if you want to use margin ranking loss
+    loss = K.maximum(1.0 + neg - pos, 0.0) #if you want to use margin ranking loss
     return K.mean(loss) + 0 * y_true
 
 def compute_recall_ks(probas):
@@ -102,7 +99,7 @@ if __name__ == '__main__':
     print "--------------------------------------------------"
 
     print("loading entity-gird for pos and neg documents...")
-    X_train_1, X_train_0  = data_helper.load_and_numberize_egrids(filelist="./list.train", 
+    X_train_1, X_train_0  = data_helper.load_and_numberize_egrids(filelist="./list.train.small", 
             maxlen=opts.maxlen, w_size=opts.w_size, vocabs=vocabs)
 
     X_dev_1, X_dev_0     = data_helper.load_and_numberize_egrids(filelist="./list.dev.small", 
@@ -179,8 +176,8 @@ if __name__ == '__main__':
     final_model = Model([pos_input, neg_input], concatenated)
 
     #final_model.compile(loss='ranking_loss', optimizer='adam')
-    sgd = optimizers.SGD(lr=0.01, decay=1e-2)#, momentum=0.9)
-    final_model.compile(loss={'coherence_out': ranking_loss}, optimizer=sgd)
+    #sgd = optimizers.SGD(lr=0.01, decay=1e-2)#, momentum=0.9)
+    final_model.compile(loss={'coherence_out': ranking_loss}, optimizer='adam')
 
     # setting callback
     histories = my_callbacks_00.Histories()
